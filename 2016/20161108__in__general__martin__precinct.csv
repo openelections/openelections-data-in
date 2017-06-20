@@ -1,0 +1,516 @@
+county,precinct,office,district,candidate,party,votes
+Martin,Perry 1,Voters,,Registered,,666
+Martin,Perry 1,Voters,,Ballots Cast,,429
+Martin,Perry 1,Voters,,Straight Ticket,D,31
+Martin,Perry 1,Voters,,Straight Ticket,L,3
+Martin,Perry 1,Voters,,Straight Ticket,R,80
+Martin,Perry 1,President,,Donald J. Trump,R,310
+Martin,Perry 1,President,,Hillary Clinton,D,95
+Martin,Perry 1,President,,Gary Johnson,L,16
+Martin,Perry 1,President,,Write-In,,3
+Martin,Perry 1,U.S. Senate,,Todd Young,R,245
+Martin,Perry 1,U.S. Senate,,Evan Bayh,D,160
+Martin,Perry 1,U.S. Senate,,Lucy Brenton,L,15
+Martin,Perry 1,U.S. Senate,,Write-In,,1
+Martin,Perry 1,Governor,,Eric Holcomb,R,236
+Martin,Perry 1,Governor,,John R. Gregg,D,171
+Martin,Perry 1,Governor,,Rex Bell,L,11
+Martin,Perry 1,Governor,,Write-in,,1
+Martin,Perry 1,Attorney General,,"Curtis T. Hill, Jr.",R,296
+Martin,Perry 1,Attorney General,,Lorenzo Arredondo,D,98
+Martin,Perry 1,Superintendent of Public Instruction,,Jennifer McCormick,R,220
+Martin,Perry 1,Superintendent of Public Instruction,,Glenda Ritz,D,193
+Martin,Perry 1,U.S. House,8,Larry D. Bucshon,R,294
+Martin,Perry 1,U.S. House,8,Ron Drake,D,110
+Martin,Perry 1,U.S. House,8,Andrew Horning,L,12
+Martin,Perry 1,U.S. House,8,Write-in,,0
+Martin,Perry 1,State House,63,Mike Braun,R,253
+Martin,Perry 1,State House,63,Andrea Hulsman,D,152
+Martin,Perry 2,Voters,,Registered,,470
+Martin,Perry 2,Voters,,Ballots Cast,,290
+Martin,Perry 2,Voters,,Straight Ticket,D,16
+Martin,Perry 2,Voters,,Straight Ticket,L,3
+Martin,Perry 2,Voters,,Straight Ticket,R,62
+Martin,Perry 2,President,,Donald J. Trump,R,197
+Martin,Perry 2,President,,Hillary Clinton,D,64
+Martin,Perry 2,President,,Gary Johnson,L,19
+Martin,Perry 2,President,,Write-In,,1
+Martin,Perry 2,U.S. Senate,,Todd Young,R,154
+Martin,Perry 2,U.S. Senate,,Evan Bayh,D,117
+Martin,Perry 2,U.S. Senate,,Lucy Brenton,L,10
+Martin,Perry 2,U.S. Senate,,Write-In,,0
+Martin,Perry 2,Governor,,Eric Holcomb,R,145
+Martin,Perry 2,Governor,,John R. Gregg,D,129
+Martin,Perry 2,Governor,,Rex Bell,L,5
+Martin,Perry 2,Governor,,Write-in,,0
+Martin,Perry 2,Attorney General,,"Curtis T. Hill, Jr.",R,185
+Martin,Perry 2,Attorney General,,Lorenzo Arredondo,D,81
+Martin,Perry 2,Superintendent of Public Instruction,,Jennifer McCormick,R,134
+Martin,Perry 2,Superintendent of Public Instruction,,Glenda Ritz,D,137
+Martin,Perry 2,U.S. House,8,Larry D. Bucshon,R,182
+Martin,Perry 2,U.S. House,8,Ron Drake,D,77
+Martin,Perry 2,U.S. House,8,Andrew Horning,L,9
+Martin,Perry 2,U.S. House,8,Write-in,,0
+Martin,Perry 2,State House,63,Mike Braun,R,169
+Martin,Perry 2,State House,63,Andrea Hulsman,D,101
+Martin,Perry 3,Voters,,Registered,,445
+Martin,Perry 3,Voters,,Ballots Cast,,194
+Martin,Perry 3,Voters,,Straight Ticket,D,15
+Martin,Perry 3,Voters,,Straight Ticket,L,5
+Martin,Perry 3,Voters,,Straight Ticket,R,36
+Martin,Perry 3,President,,Donald J. Trump,R,148
+Martin,Perry 3,President,,Hillary Clinton,D,35
+Martin,Perry 3,President,,Gary Johnson,L,10
+Martin,Perry 3,President,,Write-In,,1
+Martin,Perry 3,U.S. Senate,,Todd Young,R,112
+Martin,Perry 3,U.S. Senate,,Evan Bayh,D,63
+Martin,Perry 3,U.S. Senate,,Lucy Brenton,L,14
+Martin,Perry 3,U.S. Senate,,Write-In,,1
+Martin,Perry 3,Governor,,Eric Holcomb,R,109
+Martin,Perry 3,Governor,,John R. Gregg,D,73
+Martin,Perry 3,Governor,,Rex Bell,L,9
+Martin,Perry 3,Governor,,Write-in,,0
+Martin,Perry 3,Attorney General,,"Curtis T. Hill, Jr.",R,137
+Martin,Perry 3,Attorney General,,Lorenzo Arredondo,D,47
+Martin,Perry 3,Superintendent of Public Instruction,,Jennifer McCormick,R,112
+Martin,Perry 3,Superintendent of Public Instruction,,Glenda Ritz,D,72
+Martin,Perry 3,U.S. House,8,Larry D. Bucshon,R,136
+Martin,Perry 3,U.S. House,8,Ron Drake,D,43
+Martin,Perry 3,U.S. House,8,Andrew Horning,L,10
+Martin,Perry 3,U.S. House,8,Write-in,,0
+Martin,Perry 3,State House,63,Mike Braun,R,126
+Martin,Perry 3,State House,63,Andrea Hulsman,D,61
+Martin,Perry 4,Voters,,Registered,,544
+Martin,Perry 4,Voters,,Ballots Cast,,318
+Martin,Perry 4,Voters,,Straight Ticket,D,22
+Martin,Perry 4,Voters,,Straight Ticket,L,0
+Martin,Perry 4,Voters,,Straight Ticket,R,61
+Martin,Perry 4,President,,Donald J. Trump,R,228
+Martin,Perry 4,President,,Hillary Clinton,D,63
+Martin,Perry 4,President,,Gary Johnson,L,13
+Martin,Perry 4,President,,Write-In,,7
+Martin,Perry 4,U.S. Senate,,Todd Young,R,178
+Martin,Perry 4,U.S. Senate,,Evan Bayh,D,118
+Martin,Perry 4,U.S. Senate,,Lucy Brenton,L,13
+Martin,Perry 4,U.S. Senate,,Write-In,,0
+Martin,Perry 4,Governor,,Eric Holcomb,R,181
+Martin,Perry 4,Governor,,John R. Gregg,D,124
+Martin,Perry 4,Governor,,Rex Bell,L,4
+Martin,Perry 4,Governor,,Write-in,,0
+Martin,Perry 4,Attorney General,,"Curtis T. Hill, Jr.",R,208
+Martin,Perry 4,Attorney General,,Lorenzo Arredondo,D,82
+Martin,Perry 4,Superintendent of Public Instruction,,Jennifer McCormick,R,165
+Martin,Perry 4,Superintendent of Public Instruction,,Glenda Ritz,D,129
+Martin,Perry 4,U.S. House,8,Larry D. Bucshon,R,219
+Martin,Perry 4,U.S. House,8,Ron Drake,D,79
+Martin,Perry 4,U.S. House,8,Andrew Horning,L,8
+Martin,Perry 4,U.S. House,8,Write-in,,0
+Martin,Perry 4,State House,63,Mike Braun,R,201
+Martin,Perry 4,State House,63,Andrea Hulsman,D,96
+Martin,Perry 5,Voters,,Registered,,459
+Martin,Perry 5,Voters,,Ballots Cast,,313
+Martin,Perry 5,Voters,,Straight Ticket,D,13
+Martin,Perry 5,Voters,,Straight Ticket,L,2
+Martin,Perry 5,Voters,,Straight Ticket,R,49
+Martin,Perry 5,President,,Donald J. Trump,R,233
+Martin,Perry 5,President,,Hillary Clinton,D,59
+Martin,Perry 5,President,,Gary Johnson,L,12
+Martin,Perry 5,President,,Write-In,,2
+Martin,Perry 5,U.S. Senate,,Todd Young,R,185
+Martin,Perry 5,U.S. Senate,,Evan Bayh,D,114
+Martin,Perry 5,U.S. Senate,,Lucy Brenton,L,11
+Martin,Perry 5,U.S. Senate,,Write-In,,0
+Martin,Perry 5,Governor,,Eric Holcomb,R,189
+Martin,Perry 5,Governor,,John R. Gregg,D,113
+Martin,Perry 5,Governor,,Rex Bell,L,6
+Martin,Perry 5,Governor,,Write-in,,0
+Martin,Perry 5,Attorney General,,"Curtis T. Hill, Jr.",R,231
+Martin,Perry 5,Attorney General,,Lorenzo Arredondo,D,64
+Martin,Perry 5,Superintendent of Public Instruction,,Jennifer McCormick,R,175
+Martin,Perry 5,Superintendent of Public Instruction,,Glenda Ritz,D,134
+Martin,Perry 5,U.S. House,8,Larry D. Bucshon,R,230
+Martin,Perry 5,U.S. House,8,Ron Drake,D,66
+Martin,Perry 5,U.S. House,8,Andrew Horning,L,8
+Martin,Perry 5,U.S. House,8,Write-in,,0
+Martin,Perry 5,State House,63,Mike Braun,R,219
+Martin,Perry 5,State House,63,Andrea Hulsman,D,81
+Martin,Perry 6,Voters,,Registered,,606
+Martin,Perry 6,Voters,,Ballots Cast,,450
+Martin,Perry 6,Voters,,Straight Ticket,D,9
+Martin,Perry 6,Voters,,Straight Ticket,L,2
+Martin,Perry 6,Voters,,Straight Ticket,R,45
+Martin,Perry 6,President,,Donald J. Trump,R,346
+Martin,Perry 6,President,,Hillary Clinton,D,80
+Martin,Perry 6,President,,Gary Johnson,L,15
+Martin,Perry 6,President,,Write-In,,3
+Martin,Perry 6,U.S. Senate,,Todd Young,R,281
+Martin,Perry 6,U.S. Senate,,Evan Bayh,D,140
+Martin,Perry 6,U.S. Senate,,Lucy Brenton,L,18
+Martin,Perry 6,U.S. Senate,,Write-In,,0
+Martin,Perry 6,Governor,,Eric Holcomb,R,238
+Martin,Perry 6,Governor,,John R. Gregg,D,195
+Martin,Perry 6,Governor,,Rex Bell,L,1
+Martin,Perry 6,Governor,,Write-in,,0
+Martin,Perry 6,Attorney General,,"Curtis T. Hill, Jr.",R,308
+Martin,Perry 6,Attorney General,,Lorenzo Arredondo,D,96
+Martin,Perry 6,Superintendent of Public Instruction,,Jennifer McCormick,R,226
+Martin,Perry 6,Superintendent of Public Instruction,,Glenda Ritz,D,198
+Martin,Perry 6,U.S. House,8,Larry D. Bucshon,R,327
+Martin,Perry 6,U.S. House,8,Ron Drake,D,80
+Martin,Perry 6,U.S. House,8,Andrew Horning,L,16
+Martin,Perry 6,U.S. House,8,Write-in,,1
+Martin,Perry 6,State House,62,Jeff Ellington,R,294
+Martin,Perry 6,State House,62,Steve Lindsey,D,114
+Martin,Perry 7,Voters,,Registered,,453
+Martin,Perry 7,Voters,,Ballots Cast,,330
+Martin,Perry 7,Voters,,Straight Ticket,D,10
+Martin,Perry 7,Voters,,Straight Ticket,L,0
+Martin,Perry 7,Voters,,Straight Ticket,R,68
+Martin,Perry 7,President,,Donald J. Trump,R,257
+Martin,Perry 7,President,,Hillary Clinton,D,47
+Martin,Perry 7,President,,Gary Johnson,L,11
+Martin,Perry 7,President,,Write-In,,3
+Martin,Perry 7,U.S. Senate,,Todd Young,R,213
+Martin,Perry 7,U.S. Senate,,Evan Bayh,D,93
+Martin,Perry 7,U.S. Senate,,Lucy Brenton,L,17
+Martin,Perry 7,U.S. Senate,,Write-In,,0
+Martin,Perry 7,Governor,,Eric Holcomb,R,200
+Martin,Perry 7,Governor,,John R. Gregg,D,111
+Martin,Perry 7,Governor,,Rex Bell,L,12
+Martin,Perry 7,Governor,,Write-in,,0
+Martin,Perry 7,Attorney General,,"Curtis T. Hill, Jr.",R,251
+Martin,Perry 7,Attorney General,,Lorenzo Arredondo,D,53
+Martin,Perry 7,Superintendent of Public Instruction,,Jennifer McCormick,R,200
+Martin,Perry 7,Superintendent of Public Instruction,,Glenda Ritz,D,115
+Martin,Perry 7,U.S. House,8,Larry D. Bucshon,R,249
+Martin,Perry 7,U.S. House,8,Ron Drake,D,52
+Martin,Perry 7,U.S. House,8,Andrew Horning,L,14
+Martin,Perry 7,U.S. House,8,Write-in,,0
+Martin,Perry 7,State House,62,Jeff Ellington,R,241
+Martin,Perry 7,State House,62,Steve Lindsey,D,68
+Martin,Crane,Voters,,Registered,,180
+Martin,Crane,Voters,,Ballots Cast,,74
+Martin,Crane,Voters,,Straight Ticket,D,9
+Martin,Crane,Voters,,Straight Ticket,L,0
+Martin,Crane,Voters,,Straight Ticket,R,19
+Martin,Crane,President,,Donald J. Trump,R,50
+Martin,Crane,President,,Hillary Clinton,D,19
+Martin,Crane,President,,Gary Johnson,L,4
+Martin,Crane,President,,Write-In,,0
+Martin,Crane,U.S. Senate,,Todd Young,R,44
+Martin,Crane,U.S. Senate,,Evan Bayh,D,22
+Martin,Crane,U.S. Senate,,Lucy Brenton,L,8
+Martin,Crane,U.S. Senate,,Write-In,,0
+Martin,Crane,Governor,,Eric Holcomb,R,46
+Martin,Crane,Governor,,John R. Gregg,D,25
+Martin,Crane,Governor,,Rex Bell,L,3
+Martin,Crane,Governor,,Write-in,,0
+Martin,Crane,Attorney General,,"Curtis T. Hill, Jr.",R,55
+Martin,Crane,Attorney General,,Lorenzo Arredondo,D,17
+Martin,Crane,Superintendent of Public Instruction,,Jennifer McCormick,R,50
+Martin,Crane,Superintendent of Public Instruction,,Glenda Ritz,D,23
+Martin,Crane,U.S. House,8,Larry D. Bucshon,R,51
+Martin,Crane,U.S. House,8,Ron Drake,D,19
+Martin,Crane,U.S. House,8,Andrew Horning,L,4
+Martin,Crane,U.S. House,8,Write-in,,0
+Martin,Crane,State House,62,Jeff Ellington,R,50
+Martin,Crane,State House,62,Steve Lindsey,D,22
+Martin,Rutherford,Voters,,Registered,,529
+Martin,Rutherford,Voters,,Ballots Cast,,355
+Martin,Rutherford,Voters,,Straight Ticket,D,17
+Martin,Rutherford,Voters,,Straight Ticket,L,2
+Martin,Rutherford,Voters,,Straight Ticket,R,59
+Martin,Rutherford,President,,Donald J. Trump,R,263
+Martin,Rutherford,President,,Hillary Clinton,D,67
+Martin,Rutherford,President,,Gary Johnson,L,21
+Martin,Rutherford,President,,Write-In,,1
+Martin,Rutherford,U.S. Senate,,Todd Young,R,212
+Martin,Rutherford,U.S. Senate,,Evan Bayh,D,120
+Martin,Rutherford,U.S. Senate,,Lucy Brenton,L,14
+Martin,Rutherford,U.S. Senate,,Write-In,,0
+Martin,Rutherford,Governor,,Eric Holcomb,R,206
+Martin,Rutherford,Governor,,John R. Gregg,D,136
+Martin,Rutherford,Governor,,Rex Bell,L,7
+Martin,Rutherford,Governor,,Write-in,,0
+Martin,Rutherford,Attorney General,,"Curtis T. Hill, Jr.",R,246
+Martin,Rutherford,Attorney General,,Lorenzo Arredondo,D,81
+Martin,Rutherford,Superintendent of Public Instruction,,Jennifer McCormick,R,192
+Martin,Rutherford,Superintendent of Public Instruction,,Glenda Ritz,D,145
+Martin,Rutherford,U.S. House,8,Larry D. Bucshon,R,236
+Martin,Rutherford,U.S. House,8,Ron Drake,D,82
+Martin,Rutherford,U.S. House,8,Andrew Horning,L,18
+Martin,Rutherford,U.S. House,8,Write-in,,0
+Martin,Rutherford,State House,63,Mike Braun,R,227
+Martin,Rutherford,State House,63,Andrea Hulsman,D,105
+Martin,Mitcheltree,Voters,,Registered,,482
+Martin,Mitcheltree,Voters,,Ballots Cast,,276
+Martin,Mitcheltree,Voters,,Straight Ticket,D,12
+Martin,Mitcheltree,Voters,,Straight Ticket,L,3
+Martin,Mitcheltree,Voters,,Straight Ticket,R,41
+Martin,Mitcheltree,President,,Donald J. Trump,R,204
+Martin,Mitcheltree,President,,Hillary Clinton,D,46
+Martin,Mitcheltree,President,,Gary Johnson,L,17
+Martin,Mitcheltree,President,,Write-In,,2
+Martin,Mitcheltree,U.S. Senate,,Todd Young,R,153
+Martin,Mitcheltree,U.S. Senate,,Evan Bayh,D,80
+Martin,Mitcheltree,U.S. Senate,,Lucy Brenton,L,24
+Martin,Mitcheltree,U.S. Senate,,Write-In,,0
+Martin,Mitcheltree,Governor,,Eric Holcomb,R,151
+Martin,Mitcheltree,Governor,,John R. Gregg,D,89
+Martin,Mitcheltree,Governor,,Rex Bell,L,14
+Martin,Mitcheltree,Governor,,Write-in,,0
+Martin,Mitcheltree,Attorney General,,"Curtis T. Hill, Jr.",R,185
+Martin,Mitcheltree,Attorney General,,Lorenzo Arredondo,D,55
+Martin,Mitcheltree,Superintendent of Public Instruction,,Jennifer McCormick,R,159
+Martin,Mitcheltree,Superintendent of Public Instruction,,Glenda Ritz,D,87
+Martin,Mitcheltree,U.S. House,8,Larry D. Bucshon,R,164
+Martin,Mitcheltree,U.S. House,8,Ron Drake,D,59
+Martin,Mitcheltree,U.S. House,8,Andrew Horning,L,21
+Martin,Mitcheltree,U.S. House,8,Write-in,,0
+Martin,Mitcheltree,State House,62,Jeff Ellington,R,170
+Martin,Mitcheltree,State House,62,Steve Lindsey,D,73
+Martin,North Center,Voters,,Registered,,536
+Martin,North Center,Voters,,Ballots Cast,,374
+Martin,North Center,Voters,,Straight Ticket,D,7
+Martin,North Center,Voters,,Straight Ticket,L,2
+Martin,North Center,Voters,,Straight Ticket,R,64
+Martin,North Center,President,,Donald J. Trump,R,292
+Martin,North Center,President,,Hillary Clinton,D,57
+Martin,North Center,President,,Gary Johnson,L,17
+Martin,North Center,President,,Write-In,,4
+Martin,North Center,U.S. Senate,,Todd Young,R,242
+Martin,North Center,U.S. Senate,,Evan Bayh,D,103
+Martin,North Center,U.S. Senate,,Lucy Brenton,L,19
+Martin,North Center,U.S. Senate,,Write-In,,1
+Martin,North Center,Governor,,Eric Holcomb,R,220
+Martin,North Center,Governor,,John R. Gregg,D,133
+Martin,North Center,Governor,,Rex Bell,L,8
+Martin,North Center,Governor,,Write-in,,0
+Martin,North Center,Attorney General,,"Curtis T. Hill, Jr.",R,279
+Martin,North Center,Attorney General,,Lorenzo Arredondo,D,69
+Martin,North Center,Superintendent of Public Instruction,,Jennifer McCormick,R,219
+Martin,North Center,Superintendent of Public Instruction,,Glenda Ritz,D,131
+Martin,North Center,U.S. House,8,Larry D. Bucshon,R,253
+Martin,North Center,U.S. House,8,Ron Drake,D,76
+Martin,North Center,U.S. House,8,Andrew Horning,L,22
+Martin,North Center,U.S. House,8,Write-in,,0
+Martin,North Center,State House,62,Jeff Ellington,R,244
+Martin,North Center,State House,62,Steve Lindsey,D,100
+Martin,South Center,Voters,,Registered,,302
+Martin,South Center,Voters,,Ballots Cast,,193
+Martin,South Center,Voters,,Straight Ticket,D,5
+Martin,South Center,Voters,,Straight Ticket,L,0
+Martin,South Center,Voters,,Straight Ticket,R,30
+Martin,South Center,President,,Donald J. Trump,R,147
+Martin,South Center,President,,Hillary Clinton,D,34
+Martin,South Center,President,,Gary Johnson,L,10
+Martin,South Center,President,,Write-In,,0
+Martin,South Center,U.S. Senate,,Todd Young,R,106
+Martin,South Center,U.S. Senate,,Evan Bayh,D,72
+Martin,South Center,U.S. Senate,,Lucy Brenton,L,11
+Martin,South Center,U.S. Senate,,Write-In,,0
+Martin,South Center,Governor,,Eric Holcomb,R,102
+Martin,South Center,Governor,,John R. Gregg,D,81
+Martin,South Center,Governor,,Rex Bell,L,4
+Martin,South Center,Governor,,Write-in,,0
+Martin,South Center,Attorney General,,"Curtis T. Hill, Jr.",R,119
+Martin,South Center,Attorney General,,Lorenzo Arredondo,D,53
+Martin,South Center,Superintendent of Public Instruction,,Jennifer McCormick,R,93
+Martin,South Center,Superintendent of Public Instruction,,Glenda Ritz,D,84
+Martin,South Center,U.S. House,8,Larry D. Bucshon,R,127
+Martin,South Center,U.S. House,8,Ron Drake,D,48
+Martin,South Center,U.S. House,8,Andrew Horning,L,6
+Martin,South Center,U.S. House,8,Write-in,,1
+Martin,South Center,State House,63,Mike Braun,R,120
+Martin,South Center,State House,63,Andrea Hulsman,D,60
+Martin,Lost River,Voters,,Registered,,432
+Martin,Lost River,Voters,,Ballots Cast,,267
+Martin,Lost River,Voters,,Straight Ticket,D,12
+Martin,Lost River,Voters,,Straight Ticket,L,4
+Martin,Lost River,Voters,,Straight Ticket,R,51
+Martin,Lost River,President,,Donald J. Trump,R,193
+Martin,Lost River,President,,Hillary Clinton,D,47
+Martin,Lost River,President,,Gary Johnson,L,20
+Martin,Lost River,President,,Write-In,,1
+Martin,Lost River,U.S. Senate,,Todd Young,R,145
+Martin,Lost River,U.S. Senate,,Evan Bayh,D,92
+Martin,Lost River,U.S. Senate,,Lucy Brenton,L,18
+Martin,Lost River,U.S. Senate,,Write-In,,1
+Martin,Lost River,Governor,,Eric Holcomb,R,156
+Martin,Lost River,Governor,,John R. Gregg,D,91
+Martin,Lost River,Governor,,Rex Bell,L,9
+Martin,Lost River,Governor,,Write-in,,0
+Martin,Lost River,Attorney General,,"Curtis T. Hill, Jr.",R,182
+Martin,Lost River,Attorney General,,Lorenzo Arredondo,D,57
+Martin,Lost River,Superintendent of Public Instruction,,Jennifer McCormick,R,150
+Martin,Lost River,Superintendent of Public Instruction,,Glenda Ritz,D,99
+Martin,Lost River,U.S. House,8,Larry D. Bucshon,R,166
+Martin,Lost River,U.S. House,8,Ron Drake,D,63
+Martin,Lost River,U.S. House,8,Andrew Horning,L,17
+Martin,Lost River,U.S. House,8,Write-in,,0
+Martin,Lost River,State House,63,Mike Braun,R,169
+Martin,Lost River,State House,63,Andrea Hulsman,D,78
+Martin,East Memphis,Voters,,Registered,,237
+Martin,East Memphis,Voters,,Ballots Cast,,119
+Martin,East Memphis,Voters,,Straight Ticket,D,4
+Martin,East Memphis,Voters,,Straight Ticket,L,0
+Martin,East Memphis,Voters,,Straight Ticket,R,36
+Martin,East Memphis,President,,Donald J. Trump,R,97
+Martin,East Memphis,President,,Hillary Clinton,D,15
+Martin,East Memphis,President,,Gary Johnson,L,4
+Martin,East Memphis,President,,Write-In,,0
+Martin,East Memphis,U.S. Senate,,Todd Young,R,77
+Martin,East Memphis,U.S. Senate,,Evan Bayh,D,29
+Martin,East Memphis,U.S. Senate,,Lucy Brenton,L,5
+Martin,East Memphis,U.S. Senate,,Write-In,,0
+Martin,East Memphis,Governor,,Eric Holcomb,R,80
+Martin,East Memphis,Governor,,John R. Gregg,D,29
+Martin,East Memphis,Governor,,Rex Bell,L,2
+Martin,East Memphis,Governor,,Write-in,,0
+Martin,East Memphis,Attorney General,,"Curtis T. Hill, Jr.",R,84
+Martin,East Memphis,Attorney General,,Lorenzo Arredondo,D,17
+Martin,East Memphis,Superintendent of Public Instruction,,Jennifer McCormick,R,76
+Martin,East Memphis,Superintendent of Public Instruction,,Glenda Ritz,D,29
+Martin,East Memphis,U.S. House,8,Larry D. Bucshon,R,85
+Martin,East Memphis,U.S. House,8,Ron Drake,D,21
+Martin,East Memphis,U.S. House,8,Andrew Horning,L,2
+Martin,East Memphis,U.S. House,8,Write-in,,0
+Martin,East Memphis,State House,63,Mike Braun,R,83
+Martin,East Memphis,State House,63,Andrea Hulsman,D,24
+Martin,West Memphis,Voters,,Registered,,467
+Martin,West Memphis,Voters,,Ballots Cast,,267
+Martin,West Memphis,Voters,,Straight Ticket,D,9
+Martin,West Memphis,Voters,,Straight Ticket,L,2
+Martin,West Memphis,Voters,,Straight Ticket,R,38
+Martin,West Memphis,President,,Donald J. Trump,R,168
+Martin,West Memphis,President,,Hillary Clinton,D,68
+Martin,West Memphis,President,,Gary Johnson,L,13
+Martin,West Memphis,President,,Write-In,,2
+Martin,West Memphis,U.S. Senate,,Todd Young,R,137
+Martin,West Memphis,U.S. Senate,,Evan Bayh,D,102
+Martin,West Memphis,U.S. Senate,,Lucy Brenton,L,13
+Martin,West Memphis,U.S. Senate,,Write-In,,0
+Martin,West Memphis,Governor,,Eric Holcomb,R,134
+Martin,West Memphis,Governor,,John R. Gregg,D,109
+Martin,West Memphis,Governor,,Rex Bell,L,5
+Martin,West Memphis,Governor,,Write-in,,0
+Martin,West Memphis,Attorney General,,"Curtis T. Hill, Jr.",R,159
+Martin,West Memphis,Attorney General,,Lorenzo Arredondo,D,69
+Martin,West Memphis,Superintendent of Public Instruction,,Jennifer McCormick,R,129
+Martin,West Memphis,Superintendent of Public Instruction,,Glenda Ritz,D,104
+Martin,West Memphis,U.S. House,8,Larry D. Bucshon,R,162
+Martin,West Memphis,U.S. House,8,Ron Drake,D,66
+Martin,West Memphis,U.S. House,8,Andrew Horning,L,12
+Martin,West Memphis,U.S. House,8,Write-in,,0
+Martin,West Memphis,State House,63,Mike Braun,R,159
+Martin,West Memphis,State House,63,Andrea Hulsman,D,78
+Martin,North Halbert,Voters,,Registered,,432
+Martin,North Halbert,Voters,,Ballots Cast,,273
+Martin,North Halbert,Voters,,Straight Ticket,D,15
+Martin,North Halbert,Voters,,Straight Ticket,L,4
+Martin,North Halbert,Voters,,Straight Ticket,R,45
+Martin,North Halbert,President,,Donald J. Trump,R,217
+Martin,North Halbert,President,,Hillary Clinton,D,39
+Martin,North Halbert,President,,Gary Johnson,L,12
+Martin,North Halbert,President,,Write-In,,1
+Martin,North Halbert,U.S. Senate,,Todd Young,R,169
+Martin,North Halbert,U.S. Senate,,Evan Bayh,D,77
+Martin,North Halbert,U.S. Senate,,Lucy Brenton,L,18
+Martin,North Halbert,U.S. Senate,,Write-In,,0
+Martin,North Halbert,Governor,,Eric Holcomb,R,162
+Martin,North Halbert,Governor,,John R. Gregg,D,96
+Martin,North Halbert,Governor,,Rex Bell,L,9
+Martin,North Halbert,Governor,,Write-in,,0
+Martin,North Halbert,Attorney General,,"Curtis T. Hill, Jr.",R,196
+Martin,North Halbert,Attorney General,,Lorenzo Arredondo,D,57
+Martin,North Halbert,Superintendent of Public Instruction,,Jennifer McCormick,R,160
+Martin,North Halbert,Superintendent of Public Instruction,,Glenda Ritz,D,99
+Martin,North Halbert,U.S. House,8,Larry D. Bucshon,R,184
+Martin,North Halbert,U.S. House,8,Ron Drake,D,57
+Martin,North Halbert,U.S. House,8,Andrew Horning,L,17
+Martin,North Halbert,U.S. House,8,Write-in,,0
+Martin,North Halbert,State House,63,Mike Braun,R,190
+Martin,North Halbert,State House,63,Andrea Hulsman,D,68
+Martin,South Halbert,Voters,,Registered,,358
+Martin,South Halbert,Voters,,Ballots Cast,,220
+Martin,South Halbert,Voters,,Straight Ticket,D,7
+Martin,South Halbert,Voters,,Straight Ticket,L,1
+Martin,South Halbert,Voters,,Straight Ticket,R,31
+Martin,South Halbert,President,,Donald J. Trump,R,177
+Martin,South Halbert,President,,Hillary Clinton,D,22
+Martin,South Halbert,President,,Gary Johnson,L,11
+Martin,South Halbert,President,,Write-In,,4
+Martin,South Halbert,U.S. Senate,,Todd Young,R,159
+Martin,South Halbert,U.S. Senate,,Evan Bayh,D,36
+Martin,South Halbert,U.S. Senate,,Lucy Brenton,L,18
+Martin,South Halbert,U.S. Senate,,Write-In,,0
+Martin,South Halbert,Governor,,Eric Holcomb,R,152
+Martin,South Halbert,Governor,,John R. Gregg,D,52
+Martin,South Halbert,Governor,,Rex Bell,L,7
+Martin,South Halbert,Governor,,Write-in,,0
+Martin,South Halbert,Attorney General,,"Curtis T. Hill, Jr.",R,170
+Martin,South Halbert,Attorney General,,Lorenzo Arredondo,D,33
+Martin,South Halbert,Superintendent of Public Instruction,,Jennifer McCormick,R,146
+Martin,South Halbert,Superintendent of Public Instruction,,Glenda Ritz,D,58
+Martin,South Halbert,U.S. House,8,Larry D. Bucshon,R,167
+Martin,South Halbert,U.S. House,8,Ron Drake,D,28
+Martin,South Halbert,U.S. House,8,Andrew Horning,L,12
+Martin,South Halbert,U.S. House,8,Write-in,,0
+Martin,South Halbert,State House,63,Mike Braun,R,160
+Martin,South Halbert,State House,63,Andrea Hulsman,D,47
+Martin,Southeast Halbert,Voters,,Registered,,319
+Martin,Southeast Halbert,Voters,,Ballots Cast,,205
+Martin,Southeast Halbert,Voters,,Straight Ticket,D,10
+Martin,Southeast Halbert,Voters,,Straight Ticket,L,1
+Martin,Southeast Halbert,Voters,,Straight Ticket,R,44
+Martin,Southeast Halbert,President,,Donald J. Trump,R,170
+Martin,Southeast Halbert,President,,Hillary Clinton,D,24
+Martin,Southeast Halbert,President,,Gary Johnson,L,6
+Martin,Southeast Halbert,President,,Write-In,,2
+Martin,Southeast Halbert,U.S. Senate,,Todd Young,R,122
+Martin,Southeast Halbert,U.S. Senate,,Evan Bayh,D,57
+Martin,Southeast Halbert,U.S. Senate,,Lucy Brenton,L,15
+Martin,Southeast Halbert,U.S. Senate,,Write-In,,0
+Martin,Southeast Halbert,Governor,,Eric Holcomb,R,122
+Martin,Southeast Halbert,Governor,,John R. Gregg,D,66
+Martin,Southeast Halbert,Governor,,Rex Bell,L,4
+Martin,Southeast Halbert,Governor,,Write-in,,1
+Martin,Southeast Halbert,Attorney General,,"Curtis T. Hill, Jr.",R,145
+Martin,Southeast Halbert,Attorney General,,Lorenzo Arredondo,D,33
+Martin,Southeast Halbert,Superintendent of Public Instruction,,Jennifer McCormick,R,117
+Martin,Southeast Halbert,Superintendent of Public Instruction,,Glenda Ritz,D,70
+Martin,Southeast Halbert,U.S. House,8,Larry D. Bucshon,R,144
+Martin,Southeast Halbert,U.S. House,8,Ron Drake,D,35
+Martin,Southeast Halbert,U.S. House,8,Andrew Horning,L,11
+Martin,Southeast Halbert,U.S. House,8,Write-in,,0
+Martin,Southeast Halbert,State House,63,Mike Braun,R,137
+Martin,Southeast Halbert,State House,63,Andrea Hulsman,D,51
+Martin,Total,Voters,,Registered,,7917
+Martin,Total,Voters,,Ballots Cast,,4947
+Martin,Total,Voters,,Straight Ticket,D,223
+Martin,Total,Voters,,Straight Ticket,L,34
+Martin,Total,Voters,,Straight Ticket,R,859
+Martin,Total,President,,Donald J. Trump,R,3697
+Martin,Total,President,,Hillary Clinton,D,881
+Martin,Total,President,,Gary Johnson,L,231
+Martin,Total,President,,Write-In,,37
+Martin,Total,U.S. Senate,,Todd Young,R,2934
+Martin,Total,U.S. Senate,,Evan Bayh,D,1595
+Martin,Total,U.S. Senate,,Lucy Brenton,L,261
+Martin,Total,U.S. Senate,,Write-In,,4
+Martin,Total,Governor,,Eric Holcomb,R,2829
+Martin,Total,Governor,,John R. Gregg,D,1823
+Martin,Total,Governor,,Rex Bell,L,120
+Martin,Total,Governor,,Write-in,,2
+Martin,Total,Attorney General,,"Curtis T. Hill, Jr.",R,3436
+Martin,Total,Attorney General,,Lorenzo Arredondo,D,1062
+Martin,Total,Superintendent of Public Instruction,,Jennifer McCormick,R,2723
+Martin,Total,Superintendent of Public Instruction,,Glenda Ritz,D,1907
+Martin,Total,U.S. House,8,Larry D. Bucshon,R,3376
+Martin,Total,U.S. House,8,Ron Drake,D,1061
+Martin,Total,U.S. House,8,Andrew Horning,L,219
+Martin,Total,U.S. House,8,Write-in,,2
+Martin,Total,State House,62,Jeff Ellington,R,999
+Martin,Total,State House,62,Steve Lindsey,D,377
+Martin,Total,State House,63,Mike Braun,R,2213
+Martin,Total,State House,63,Andrea Hulsman,D,1002

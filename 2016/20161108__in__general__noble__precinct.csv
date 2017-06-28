@@ -1,0 +1,781 @@
+county,precinct,office,district,candidate,party,votes
+Noble,01-Washington 1,Voters,,Registered,,746
+Noble,01-Washington 1,Voters,,Ballots Cast,,470
+Noble,01-Washington 1,President,,Donald Trump,REP,321
+Noble,01-Washington 1,President,,Hillary Clinton,DEM,117
+Noble,01-Washington 1,President,,Gary Johnson,LBT,20
+Noble,01-Washington 1,President,,Write-ins,,7
+Noble,01-Washington 1,U.S. Senate,,Todd Young,REP,284
+Noble,01-Washington 1,U.S. Senate,,Evan Bayh,DEM,137
+Noble,01-Washington 1,U.S. Senate,,Lucy Brenton,LBT,37
+Noble,01-Washington 1,U.S. Senate,,Write-ins,,1
+Noble,01-Washington 1,Governor,,Eric Holcomb,REP,284
+Noble,01-Washington 1,Governor,,John Gregg,DEM,146
+Noble,01-Washington 1,Governor,,Rex Bell,LBT,27
+Noble,01-Washington 1,Governor,,Write-ins,,0
+Noble,01-Washington 1,Attorney General,,Curtis Hill,REP,335
+Noble,01-Washington 1,Attorney General,,Lorenzo Arredondo,DEM,111
+Noble,01-Washington 1,Public Instruction,,Jennifer McCormick,REP,283
+Noble,01-Washington 1,Public Instruction,,Glenda Ritz,DEM,167
+Noble,01-Washington 1,U.S. House,3,Jim Banks,REP,316
+Noble,01-Washington 1,U.S. House,3,Tommy Schrader,DEM,105
+Noble,01-Washington 1,U.S. House,3,Pepper Snyder,LBT,31
+Noble,01-Washington 1,U.S. House,3,Write-ins,,0
+Noble,01-Washington 1,State Senate,13,Susan Glick,REP,338
+Noble,01-Washington 1,State Senate,13,Justin Kuhnle,DEM,112
+Noble,01-Washington 1,State House,82,David Ober,REP,324
+Noble,01-Washington 1,State House,82,Mike Wilber,DEM,125
+Noble,02-Sparta 2,Voters,,Registered,,1746
+Noble,02-Sparta 2,Voters,,Ballots Cast,,928
+Noble,02-Sparta 2,President,,Donald Trump,REP,661
+Noble,02-Sparta 2,President,,Hillary Clinton,DEM,214
+Noble,02-Sparta 2,President,,Gary Johnson,LBT,38
+Noble,02-Sparta 2,President,,Write-ins,,3
+Noble,02-Sparta 2,U.S. Senate,,Todd Young,REP,580
+Noble,02-Sparta 2,U.S. Senate,,Evan Bayh,DEM,249
+Noble,02-Sparta 2,U.S. Senate,,Lucy Brenton,LBT,72
+Noble,02-Sparta 2,U.S. Senate,,Write-ins,,0
+Noble,02-Sparta 2,Governor,,Eric Holcomb,REP,556
+Noble,02-Sparta 2,Governor,,John Gregg,DEM,302
+Noble,02-Sparta 2,Governor,,Rex Bell,LBT,36
+Noble,02-Sparta 2,Governor,,Write-ins,,0
+Noble,02-Sparta 2,Attorney General,,Curtis Hill,REP,678
+Noble,02-Sparta 2,Attorney General,,Lorenzo Arredondo,DEM,189
+Noble,02-Sparta 2,Public Instruction,,Jennifer McCormick,REP,533
+Noble,02-Sparta 2,Public Instruction,,Glenda Ritz,DEM,345
+Noble,02-Sparta 2,U.S. House,3,Jim Banks,REP,664
+Noble,02-Sparta 2,U.S. House,3,Tommy Schrader,DEM,173
+Noble,02-Sparta 2,U.S. House,3,Pepper Snyder,LBT,47
+Noble,02-Sparta 2,U.S. House,3,Write-ins,,0
+Noble,02-Sparta 2,State Senate,13,Susan Glick,REP,690
+Noble,02-Sparta 2,State Senate,13,Justin Kuhnle,DEM,193
+Noble,02-Sparta 2,State House,82,David Ober,REP,658
+Noble,02-Sparta 2,State House,82,Mike Wilber,DEM,221
+Noble,03-Perry 3,Voters,,Registered,,1017
+Noble,03-Perry 3,Voters,,Ballots Cast,,502
+Noble,03-Perry 3,President,,Donald Trump,REP,368
+Noble,03-Perry 3,President,,Hillary Clinton,DEM,103
+Noble,03-Perry 3,President,,Gary Johnson,LBT,21
+Noble,03-Perry 3,President,,Write-ins,,6
+Noble,03-Perry 3,U.S. Senate,,Todd Young,REP,333
+Noble,03-Perry 3,U.S. Senate,,Evan Bayh,DEM,125
+Noble,03-Perry 3,U.S. Senate,,Lucy Brenton,LBT,25
+Noble,03-Perry 3,U.S. Senate,,Write-ins,,0
+Noble,03-Perry 3,Governor,,Eric Holcomb,REP,339
+Noble,03-Perry 3,Governor,,John Gregg,DEM,132
+Noble,03-Perry 3,Governor,,Rex Bell,LBT,8
+Noble,03-Perry 3,Governor,,Write-ins,,0
+Noble,03-Perry 3,Attorney General,,Curtis Hill,REP,378
+Noble,03-Perry 3,Attorney General,,Lorenzo Arredondo,DEM,94
+Noble,03-Perry 3,Public Instruction,,Jennifer McCormick,REP,313
+Noble,03-Perry 3,Public Instruction,,Glenda Ritz,DEM,159
+Noble,03-Perry 3,U.S. House,3,Jim Banks,REP,369
+Noble,03-Perry 3,U.S. House,3,Tommy Schrader,DEM,87
+Noble,03-Perry 3,U.S. House,3,Pepper Snyder,LBT,16
+Noble,03-Perry 3,U.S. House,3,Write-ins,,0
+Noble,03-Perry 3,State Senate,13,Susan Glick,REP,365
+Noble,03-Perry 3,State Senate,13,Justin Kuhnle,DEM,109
+Noble,03-Perry 3,State House,82,David Ober,REP,349
+Noble,03-Perry 3,State House,82,Mike Wilber,DEM,121
+Noble,04-Perry 4,Voters,,Registered,,533
+Noble,04-Perry 4,Voters,,Ballots Cast,,228
+Noble,04-Perry 4,President,,Donald Trump,REP,124
+Noble,04-Perry 4,President,,Hillary Clinton,DEM,76
+Noble,04-Perry 4,President,,Gary Johnson,LBT,19
+Noble,04-Perry 4,President,,Write-ins,,6
+Noble,04-Perry 4,U.S. Senate,,Todd Young,REP,114
+Noble,04-Perry 4,U.S. Senate,,Evan Bayh,DEM,70
+Noble,04-Perry 4,U.S. Senate,,Lucy Brenton,LBT,24
+Noble,04-Perry 4,U.S. Senate,,Write-ins,,0
+Noble,04-Perry 4,Governor,,Eric Holcomb,REP,106
+Noble,04-Perry 4,Governor,,John Gregg,DEM,86
+Noble,04-Perry 4,Governor,,Rex Bell,LBT,13
+Noble,04-Perry 4,Governor,,Write-ins,,0
+Noble,04-Perry 4,Attorney General,,Curtis Hill,REP,119
+Noble,04-Perry 4,Attorney General,,Lorenzo Arredondo,DEM,83
+Noble,04-Perry 4,Public Instruction,,Jennifer McCormick,REP,110
+Noble,04-Perry 4,Public Instruction,,Glenda Ritz,DEM,88
+Noble,04-Perry 4,U.S. House,3,Jim Banks,REP,117
+Noble,04-Perry 4,U.S. House,3,Tommy Schrader,DEM,65
+Noble,04-Perry 4,U.S. House,3,Pepper Snyder,LBT,23
+Noble,04-Perry 4,U.S. House,3,Write-ins,,0
+Noble,04-Perry 4,State Senate,13,Susan Glick,REP,128
+Noble,04-Perry 4,State Senate,13,Justin Kuhnle,DEM,78
+Noble,04-Perry 4,State House,82,David Ober,REP,122
+Noble,04-Perry 4,State House,82,Mike Wilber,DEM,77
+Noble,05-Perry 5,Voters,,Registered,,497
+Noble,05-Perry 5,Voters,,Ballots Cast,,199
+Noble,05-Perry 5,President,,Donald Trump,REP,117
+Noble,05-Perry 5,President,,Hillary Clinton,DEM,66
+Noble,05-Perry 5,President,,Gary Johnson,LBT,15
+Noble,05-Perry 5,President,,Write-ins,,1
+Noble,05-Perry 5,U.S. Senate,,Todd Young,REP,88
+Noble,05-Perry 5,U.S. Senate,,Evan Bayh,DEM,67
+Noble,05-Perry 5,U.S. Senate,,Lucy Brenton,LBT,26
+Noble,05-Perry 5,U.S. Senate,,Write-ins,,0
+Noble,05-Perry 5,Governor,,Eric Holcomb,REP,92
+Noble,05-Perry 5,Governor,,John Gregg,DEM,71
+Noble,05-Perry 5,Governor,,Rex Bell,LBT,13
+Noble,05-Perry 5,Governor,,Write-ins,,0
+Noble,05-Perry 5,Attorney General,,Curtis Hill,REP,114
+Noble,05-Perry 5,Attorney General,,Lorenzo Arredondo,DEM,62
+Noble,05-Perry 5,Public Instruction,,Jennifer McCormick,REP,96
+Noble,05-Perry 5,Public Instruction,,Glenda Ritz,DEM,82
+Noble,05-Perry 5,U.S. House,3,Jim Banks,REP,108
+Noble,05-Perry 5,U.S. House,3,Tommy Schrader,DEM,57
+Noble,05-Perry 5,U.S. House,3,Pepper Snyder,LBT,17
+Noble,05-Perry 5,U.S. House,3,Write-ins,,0
+Noble,05-Perry 5,State Senate,13,Susan Glick,REP,111
+Noble,05-Perry 5,State Senate,13,Justin Kuhnle,DEM,64
+Noble,05-Perry 5,State House,82,David Ober,REP,108
+Noble,05-Perry 5,State House,82,Mike Wilber,DEM,66
+Noble,06-Perry 6,Voters,,Registered,,1042
+Noble,06-Perry 6,Voters,,Ballots Cast,,482
+Noble,06-Perry 6,President,,Donald Trump,REP,275
+Noble,06-Perry 6,President,,Hillary Clinton,DEM,165
+Noble,06-Perry 6,President,,Gary Johnson,LBT,33
+Noble,06-Perry 6,President,,Write-ins,,5
+Noble,06-Perry 6,U.S. Senate,,Todd Young,REP,241
+Noble,06-Perry 6,U.S. Senate,,Evan Bayh,DEM,178
+Noble,06-Perry 6,U.S. Senate,,Lucy Brenton,LBT,38
+Noble,06-Perry 6,U.S. Senate,,Write-ins,,0
+Noble,06-Perry 6,Governor,,Eric Holcomb,REP,257
+Noble,06-Perry 6,Governor,,John Gregg,DEM,179
+Noble,06-Perry 6,Governor,,Rex Bell,LBT,18
+Noble,06-Perry 6,Governor,,Write-ins,,0
+Noble,06-Perry 6,Attorney General,,Curtis Hill,REP,302
+Noble,06-Perry 6,Attorney General,,Lorenzo Arredondo,DEM,141
+Noble,06-Perry 6,Public Instruction,,Jennifer McCormick,REP,242
+Noble,06-Perry 6,Public Instruction,,Glenda Ritz,DEM,204
+Noble,06-Perry 6,U.S. House,3,Jim Banks,REP,275
+Noble,06-Perry 6,U.S. House,3,Tommy Schrader,DEM,140
+Noble,06-Perry 6,U.S. House,3,Pepper Snyder,LBT,35
+Noble,06-Perry 6,U.S. House,3,Write-ins,,0
+Noble,06-Perry 6,State Senate,13,Susan Glick,REP,300
+Noble,06-Perry 6,State Senate,13,Justin Kuhnle,DEM,154
+Noble,06-Perry 6,State House,82,David Ober,REP,290
+Noble,06-Perry 6,State House,82,Mike Wilber,DEM,156
+Noble,07-Elkhart 7,Voters,,Registered,,962
+Noble,07-Elkhart 7,Voters,,Ballots Cast,,536
+Noble,07-Elkhart 7,President,,Donald Trump,REP,414
+Noble,07-Elkhart 7,President,,Hillary Clinton,DEM,84
+Noble,07-Elkhart 7,President,,Gary Johnson,LBT,20
+Noble,07-Elkhart 7,President,,Write-ins,,7
+Noble,07-Elkhart 7,U.S. Senate,,Todd Young,REP,358
+Noble,07-Elkhart 7,U.S. Senate,,Evan Bayh,DEM,125
+Noble,07-Elkhart 7,U.S. Senate,,Lucy Brenton,LBT,32
+Noble,07-Elkhart 7,U.S. Senate,,Write-ins,,1
+Noble,07-Elkhart 7,Governor,,Eric Holcomb,REP,350
+Noble,07-Elkhart 7,Governor,,John Gregg,DEM,145
+Noble,07-Elkhart 7,Governor,,Rex Bell,LBT,19
+Noble,07-Elkhart 7,Governor,,Write-ins,,0
+Noble,07-Elkhart 7,Attorney General,,Curtis Hill,REP,427
+Noble,07-Elkhart 7,Attorney General,,Lorenzo Arredondo,DEM,80
+Noble,07-Elkhart 7,Public Instruction,,Jennifer McCormick,REP,329
+Noble,07-Elkhart 7,Public Instruction,,Glenda Ritz,DEM,183
+Noble,07-Elkhart 7,U.S. House,3,Jim Banks,REP,407
+Noble,07-Elkhart 7,U.S. House,3,Tommy Schrader,DEM,71
+Noble,07-Elkhart 7,U.S. House,3,Pepper Snyder,LBT,31
+Noble,07-Elkhart 7,U.S. House,3,Write-ins,,0
+Noble,07-Elkhart 7,State Senate,13,Susan Glick,REP,412
+Noble,07-Elkhart 7,State Senate,13,Justin Kuhnle,DEM,102
+Noble,07-Elkhart 7,State House,82,David Ober,REP,392
+Noble,07-Elkhart 7,State House,82,Mike Wilber,DEM,118
+Noble,08-York 8,Voters,,Registered,,1137
+Noble,08-York 8,Voters,,Ballots Cast,,727
+Noble,08-York 8,President,,Donald Trump,REP,558
+Noble,08-York 8,President,,Hillary Clinton,DEM,120
+Noble,08-York 8,President,,Gary Johnson,LBT,36
+Noble,08-York 8,President,,Write-ins,,5
+Noble,08-York 8,U.S. Senate,,Todd Young,REP,483
+Noble,08-York 8,U.S. Senate,,Evan Bayh,DEM,162
+Noble,08-York 8,U.S. Senate,,Lucy Brenton,LBT,49
+Noble,08-York 8,U.S. Senate,,Write-ins,,0
+Noble,08-York 8,Governor,,Eric Holcomb,REP,483
+Noble,08-York 8,Governor,,John Gregg,DEM,191
+Noble,08-York 8,Governor,,Rex Bell,LBT,21
+Noble,08-York 8,Governor,,Write-ins,,0
+Noble,08-York 8,Attorney General,,Curtis Hill,REP,566
+Noble,08-York 8,Attorney General,,Lorenzo Arredondo,DEM,109
+Noble,08-York 8,Public Instruction,,Jennifer McCormick,REP,460
+Noble,08-York 8,Public Instruction,,Glenda Ritz,DEM,216
+Noble,08-York 8,U.S. House,3,Jim Banks,REP,557
+Noble,08-York 8,U.S. House,3,Tommy Schrader,DEM,94
+Noble,08-York 8,U.S. House,3,Pepper Snyder,LBT,41
+Noble,08-York 8,U.S. House,3,Write-ins,,0
+Noble,08-York 8,State Senate,13,Susan Glick,REP,560
+Noble,08-York 8,State Senate,13,Justin Kuhnle,DEM,122
+Noble,08-York 8,State House,82,David Ober,REP,538
+Noble,08-York 8,State House,82,Mike Wilber,DEM,141
+Noble,09-Noble 9,Voters,,Registered,,1240
+Noble,09-Noble 9,Voters,,Ballots Cast,,785
+Noble,09-Noble 9,President,,Donald Trump,REP,565
+Noble,09-Noble 9,President,,Hillary Clinton,DEM,143
+Noble,09-Noble 9,President,,Gary Johnson,LBT,37
+Noble,09-Noble 9,President,,Write-ins,,14
+Noble,09-Noble 9,U.S. Senate,,Todd Young,REP,503
+Noble,09-Noble 9,U.S. Senate,,Evan Bayh,DEM,186
+Noble,09-Noble 9,U.S. Senate,,Lucy Brenton,LBT,64
+Noble,09-Noble 9,U.S. Senate,,Write-ins,,0
+Noble,09-Noble 9,Governor,,Eric Holcomb,REP,485
+Noble,09-Noble 9,Governor,,John Gregg,DEM,231
+Noble,09-Noble 9,Governor,,Rex Bell,LBT,35
+Noble,09-Noble 9,Governor,,Write-ins,,0
+Noble,09-Noble 9,Attorney General,,Curtis Hill,REP,588
+Noble,09-Noble 9,Attorney General,,Lorenzo Arredondo,DEM,155
+Noble,09-Noble 9,Public Instruction,,Jennifer McCormick,REP,496
+Noble,09-Noble 9,Public Instruction,,Glenda Ritz,DEM,244
+Noble,09-Noble 9,U.S. House,3,Jim Banks,REP,581
+Noble,09-Noble 9,U.S. House,3,Tommy Schrader,DEM,122
+Noble,09-Noble 9,U.S. House,3,Pepper Snyder,LBT,56
+Noble,09-Noble 9,U.S. House,3,Write-ins,,
+Noble,09-Noble 9,State Senate,13,Susan Glick,REP,568
+Noble,09-Noble 9,State Senate,13,Justin Kuhnle,DEM,179
+Noble,09-Noble 9,State House,82,David Ober,REP,566
+Noble,09-Noble 9,State House,82,Mike Wilber,DEM,178
+Noble,10-Green 10,Voters,,Registered,,1370
+Noble,10-Green 10,Voters,,Ballots Cast,,970
+Noble,10-Green 10,President,,Donald Trump,REP,742
+Noble,10-Green 10,President,,Hillary Clinton,DEM,178
+Noble,10-Green 10,President,,Gary Johnson,LBT,29
+Noble,10-Green 10,President,,Write-ins,,8
+Noble,10-Green 10,U.S. Senate,,Todd Young,REP,658
+Noble,10-Green 10,U.S. Senate,,Evan Bayh,DEM,226
+Noble,10-Green 10,U.S. Senate,,Lucy Brenton,LBT,57
+Noble,10-Green 10,U.S. Senate,,Write-ins,,0
+Noble,10-Green 10,Governor,,Eric Holcomb,REP,637
+Noble,10-Green 10,Governor,,John Gregg,DEM,280
+Noble,10-Green 10,Governor,,Rex Bell,LBT,20
+Noble,10-Green 10,Governor,,Write-ins,,0
+Noble,10-Green 10,Attorney General,,Curtis Hill,REP,732
+Noble,10-Green 10,Attorney General,,Lorenzo Arredondo,DEM,175
+Noble,10-Green 10,Public Instruction,,Jennifer McCormick,REP,646
+Noble,10-Green 10,Public Instruction,,Glenda Ritz,DEM,270
+Noble,10-Green 10,U.S. House,3,Jim Banks,REP,736
+Noble,10-Green 10,U.S. House,3,Tommy Schrader,DEM,147
+Noble,10-Green 10,U.S. House,3,Pepper Snyder,LBT,45
+Noble,10-Green 10,U.S. House,3,Write-ins,,0
+Noble,10-Green 10,State Senate,13,Susan Glick,REP,712
+Noble,10-Green 10,State Senate,13,Justin Kuhnle,DEM,198
+Noble,10-Green 10,State House,82,David Ober,REP,706
+Noble,10-Green 10,State House,82,Mike Wilber,DEM,206
+Noble,11-Jefferson 11,Voters,,Registered,,1205
+Noble,11-Jefferson 11,Voters,,Ballots Cast,,807
+Noble,11-Jefferson 11,President,,Donald Trump,REP,596
+Noble,11-Jefferson 11,President,,Hillary Clinton,DEM,164
+Noble,11-Jefferson 11,President,,Gary Johnson,LBT,33
+Noble,11-Jefferson 11,President,,Write-ins,,4
+Noble,11-Jefferson 11,U.S. Senate,,Todd Young,REP,522
+Noble,11-Jefferson 11,U.S. Senate,,Evan Bayh,DEM,222
+Noble,11-Jefferson 11,U.S. Senate,,Lucy Brenton,LBT,41
+Noble,11-Jefferson 11,U.S. Senate,,Write-ins,,0
+Noble,11-Jefferson 11,Governor,,Eric Holcomb,REP,513
+Noble,11-Jefferson 11,Governor,,John Gregg,DEM,253
+Noble,11-Jefferson 11,Governor,,Rex Bell,LBT,16
+Noble,11-Jefferson 11,Governor,,Write-ins,,0
+Noble,11-Jefferson 11,Attorney General,,Curtis Hill,REP,606
+Noble,11-Jefferson 11,Attorney General,,Lorenzo Arredondo,DEM,153
+Noble,11-Jefferson 11,Public Instruction,,Jennifer McCormick,REP,510
+Noble,11-Jefferson 11,Public Instruction,,Glenda Ritz,DEM,262
+Noble,11-Jefferson 11,U.S. House,3,Jim Banks,REP,601
+Noble,11-Jefferson 11,U.S. House,3,Tommy Schrader,DEM,128
+Noble,11-Jefferson 11,U.S. House,3,Pepper Snyder,LBT,44
+Noble,11-Jefferson 11,U.S. House,3,Write-ins,,0
+Noble,11-Jefferson 11,State Senate,13,Susan Glick,REP,590
+Noble,11-Jefferson 11,State Senate,13,Justin Kuhnle,DEM,173
+Noble,11-Jefferson 11,State House,82,David Ober,REP,601
+Noble,11-Jefferson 11,State House,82,Mike Wilber,DEM,175
+Noble,12-Orange 12,Voters,,Registered,,985
+Noble,12-Orange 12,Voters,,Ballots Cast,,540
+Noble,12-Orange 12,President,,Donald Trump,REP,395
+Noble,12-Orange 12,President,,Hillary Clinton,DEM,111
+Noble,12-Orange 12,President,,Gary Johnson,LBT,18
+Noble,12-Orange 12,President,,Write-ins,,8
+Noble,12-Orange 12,U.S. Senate,,Todd Young,REP,314
+Noble,12-Orange 12,U.S. Senate,,Evan Bayh,DEM,152
+Noble,12-Orange 12,U.S. Senate,,Lucy Brenton,LBT,50
+Noble,12-Orange 12,U.S. Senate,,Write-ins,,0
+Noble,12-Orange 12,Governor,,Eric Holcomb,REP,333
+Noble,12-Orange 12,Governor,,John Gregg,DEM,166
+Noble,12-Orange 12,Governor,,Rex Bell,LBT,16
+Noble,12-Orange 12,Governor,,Write-ins,,0
+Noble,12-Orange 12,Attorney General,,Curtis Hill,REP,395
+Noble,12-Orange 12,Attorney General,,Lorenzo Arredondo,DEM,116
+Noble,12-Orange 12,Public Instruction,,Jennifer McCormick,REP,317
+Noble,12-Orange 12,Public Instruction,,Glenda Ritz,DEM,188
+Noble,12-Orange 12,U.S. House,3,Jim Banks,REP,374
+Noble,12-Orange 12,U.S. House,3,Tommy Schrader,DEM,107
+Noble,12-Orange 12,U.S. House,3,Pepper Snyder,LBT,38
+Noble,12-Orange 12,U.S. House,3,Write-ins,,0
+Noble,12-Orange 12,State Senate,13,Susan Glick,REP,381
+Noble,12-Orange 12,State Senate,13,Justin Kuhnle,DEM,131
+Noble,12-Orange 12,State House,82,David Ober,REP,375
+Noble,12-Orange 12,State House,82,Mike Wilber,DEM,137
+Noble,13-Orange 13,Voters,,Registered,,1259
+Noble,13-Orange 13,Voters,,Ballots Cast,,798
+Noble,13-Orange 13,President,,Donald Trump,REP,580
+Noble,13-Orange 13,President,,Hillary Clinton,DEM,168
+Noble,13-Orange 13,President,,Gary Johnson,LBT,26
+Noble,13-Orange 13,President,,Write-ins,,9
+Noble,13-Orange 13,U.S. Senate,,Todd Young,REP,489
+Noble,13-Orange 13,U.S. Senate,,Evan Bayh,DEM,233
+Noble,13-Orange 13,U.S. Senate,,Lucy Brenton,LBT,45
+Noble,13-Orange 13,U.S. Senate,,Write-ins,,0
+Noble,13-Orange 13,Governor,,Eric Holcomb,REP,497
+Noble,13-Orange 13,Governor,,John Gregg,DEM,238
+Noble,13-Orange 13,Governor,,Rex Bell,LBT,26
+Noble,13-Orange 13,Governor,,Write-ins,,0
+Noble,13-Orange 13,Attorney General,,Curtis Hill,REP,596
+Noble,13-Orange 13,Attorney General,,Lorenzo Arredondo,DEM,143
+Noble,13-Orange 13,Public Instruction,,Jennifer McCormick,REP,492
+Noble,13-Orange 13,Public Instruction,,Glenda Ritz,DEM,256
+Noble,13-Orange 13,U.S. House,3,Jim Banks,REP,588
+Noble,13-Orange 13,U.S. House,3,Tommy Schrader,DEM,126
+Noble,13-Orange 13,U.S. House,3,Pepper Snyder,LBT,42
+Noble,13-Orange 13,U.S. House,3,Write-ins,,1
+Noble,13-Orange 13,State Senate,13,Susan Glick,REP,594
+Noble,13-Orange 13,State Senate,13,Justin Kuhnle,DEM,162
+Noble,13-Orange 13,State House,82,David Ober,REP,569
+Noble,13-Orange 13,State House,82,Mike Wilber,DEM,184
+Noble,14-Orange 14,Voters,,Registered,,588
+Noble,14-Orange 14,Voters,,Ballots Cast,,249
+Noble,14-Orange 14,President,,Donald Trump,REP,171
+Noble,14-Orange 14,President,,Hillary Clinton,DEM,61
+Noble,14-Orange 14,President,,Gary Johnson,LBT,11
+Noble,14-Orange 14,President,,Write-ins,,1
+Noble,14-Orange 14,U.S. Senate,,Todd Young,REP,153
+Noble,14-Orange 14,U.S. Senate,,Evan Bayh,DEM,73
+Noble,14-Orange 14,U.S. Senate,,Lucy Brenton,LBT,12
+Noble,14-Orange 14,U.S. Senate,,Write-ins,,0
+Noble,14-Orange 14,Governor,,Eric Holcomb,REP,147
+Noble,14-Orange 14,Governor,,John Gregg,DEM,85
+Noble,14-Orange 14,Governor,,Rex Bell,LBT,5
+Noble,14-Orange 14,Governor,,Write-ins,,0
+Noble,14-Orange 14,Attorney General,,Curtis Hill,REP,174
+Noble,14-Orange 14,Attorney General,,Lorenzo Arredondo,DEM,64
+Noble,14-Orange 14,Public Instruction,,Jennifer McCormick,REP,144
+Noble,14-Orange 14,Public Instruction,,Glenda Ritz,DEM,90
+Noble,14-Orange 14,U.S. House,3,Jim Banks,REP,163
+Noble,14-Orange 14,U.S. House,3,Tommy Schrader,DEM,54
+Noble,14-Orange 14,U.S. House,3,Pepper Snyder,LBT,20
+Noble,14-Orange 14,U.S. House,3,Write-ins,,0
+Noble,14-Orange 14,State Senate,13,Susan Glick,REP,171
+Noble,14-Orange 14,State Senate,13,Justin Kuhnle,DEM,63
+Noble,14-Orange 14,State House,82,David Ober,REP,169
+Noble,14-Orange 14,State House,82,Mike Wilber,DEM,65
+Noble,15-Wayne 15,Voters,,Registered,,820
+Noble,15-Wayne 15,Voters,,Ballots Cast,,526
+Noble,15-Wayne 15,President,,Donald Trump,REP,393
+Noble,15-Wayne 15,President,,Hillary Clinton,DEM,105
+Noble,15-Wayne 15,President,,Gary Johnson,LBT,16
+Noble,15-Wayne 15,President,,Write-ins,,7
+Noble,15-Wayne 15,U.S. Senate,,Todd Young,REP,349
+Noble,15-Wayne 15,U.S. Senate,,Evan Bayh,DEM,135
+Noble,15-Wayne 15,U.S. Senate,,Lucy Brenton,LBT,30
+Noble,15-Wayne 15,U.S. Senate,,Write-ins,,0
+Noble,15-Wayne 15,Governor,,Eric Holcomb,REP,338
+Noble,15-Wayne 15,Governor,,John Gregg,DEM,162
+Noble,15-Wayne 15,Governor,,Rex Bell,LBT,10
+Noble,15-Wayne 15,Governor,,Write-ins,,0
+Noble,15-Wayne 15,Attorney General,,Curtis Hill,REP,402
+Noble,15-Wayne 15,Attorney General,,Lorenzo Arredondo,DEM,94
+Noble,15-Wayne 15,Public Instruction,,Jennifer McCormick,REP,341
+Noble,15-Wayne 15,Public Instruction,,Glenda Ritz,DEM,167
+Noble,15-Wayne 15,U.S. House,3,Jim Banks,REP,402
+Noble,15-Wayne 15,U.S. House,3,Tommy Schrader,DEM,82
+Noble,15-Wayne 15,U.S. House,3,Pepper Snyder,LBT,25
+Noble,15-Wayne 15,U.S. House,3,Write-ins,,0
+Noble,15-Wayne 15,State Senate,13,Susan Glick,REP,402
+Noble,15-Wayne 15,State Senate,13,Justin Kuhnle,DEM,101
+Noble,15-Wayne 15,State House,82,David Ober,REP,389
+Noble,15-Wayne 15,State House,82,Mike Wilber,DEM,110
+Noble,16-Wayne 16,Voters,,Registered,,1942
+Noble,16-Wayne 16,Voters,,Ballots Cast,,1142
+Noble,16-Wayne 16,President,,Donald Trump,REP,811
+Noble,16-Wayne 16,President,,Hillary Clinton,DEM,265
+Noble,16-Wayne 16,President,,Gary Johnson,LBT,35
+Noble,16-Wayne 16,President,,Write-ins,,12
+Noble,16-Wayne 16,U.S. Senate,,Todd Young,REP,709
+Noble,16-Wayne 16,U.S. Senate,,Evan Bayh,DEM,355
+Noble,16-Wayne 16,U.S. Senate,,Lucy Brenton,LBT,47
+Noble,16-Wayne 16,U.S. Senate,,Write-ins,,0
+Noble,16-Wayne 16,Governor,,Eric Holcomb,REP,723
+Noble,16-Wayne 16,Governor,,John Gregg,DEM,354
+Noble,16-Wayne 16,Governor,,Rex Bell,LBT,25
+Noble,16-Wayne 16,Governor,,Write-ins,,0
+Noble,16-Wayne 16,Attorney General,,Curtis Hill,REP,843
+Noble,16-Wayne 16,Attorney General,,Lorenzo Arredondo,DEM,233
+Noble,16-Wayne 16,Public Instruction,,Jennifer McCormick,REP,687
+Noble,16-Wayne 16,Public Instruction,,Glenda Ritz,DEM,394
+Noble,16-Wayne 16,U.S. House,3,Jim Banks,REP,851
+Noble,16-Wayne 16,U.S. House,3,Tommy Schrader,DEM,193
+Noble,16-Wayne 16,U.S. House,3,Pepper Snyder,LBT,50
+Noble,16-Wayne 16,U.S. House,3,Write-ins,,0
+Noble,16-Wayne 16,State Senate,13,Susan Glick,REP,854
+Noble,16-Wayne 16,State Senate,13,Justin Kuhnle,DEM,237
+Noble,16-Wayne 16,State House,82,David Ober,REP,824
+Noble,16-Wayne 16,State House,82,Mike Wilber,DEM,257
+Noble,17-Wayne 17,Voters,,Registered,,890
+Noble,17-Wayne 17,Voters,,Ballots Cast,,410
+Noble,17-Wayne 17,President,,Donald Trump,REP,243
+Noble,17-Wayne 17,President,,Hillary Clinton,DEM,126
+Noble,17-Wayne 17,President,,Gary Johnson,LBT,27
+Noble,17-Wayne 17,President,,Write-ins,,6
+Noble,17-Wayne 17,U.S. Senate,,Todd Young,REP,200
+Noble,17-Wayne 17,U.S. Senate,,Evan Bayh,DEM,160
+Noble,17-Wayne 17,U.S. Senate,,Lucy Brenton,LBT,29
+Noble,17-Wayne 17,U.S. Senate,,Write-ins,,1
+Noble,17-Wayne 17,Governor,,Eric Holcomb,REP,205
+Noble,17-Wayne 17,Governor,,John Gregg,DEM,159
+Noble,17-Wayne 17,Governor,,Rex Bell,LBT,21
+Noble,17-Wayne 17,Governor,,Write-ins,,1
+Noble,17-Wayne 17,Attorney General,,Curtis Hill,REP,260
+Noble,17-Wayne 17,Attorney General,,Lorenzo Arredondo,DEM,115
+Noble,17-Wayne 17,Public Instruction,,Jennifer McCormick,REP,207
+Noble,17-Wayne 17,Public Instruction,,Glenda Ritz,DEM,173
+Noble,17-Wayne 17,U.S. House,3,Jim Banks,REP,255
+Noble,17-Wayne 17,U.S. House,3,Tommy Schrader,DEM,93
+Noble,17-Wayne 17,U.S. House,3,Pepper Snyder,LBT,37
+Noble,17-Wayne 17,U.S. House,3,Write-ins,,1
+Noble,17-Wayne 17,State Senate,13,Susan Glick,REP,256
+Noble,17-Wayne 17,State Senate,13,Justin Kuhnle,DEM,119
+Noble,17-Wayne 17,State House,82,David Ober,REP,245
+Noble,17-Wayne 17,State House,82,Mike Wilber,DEM,132
+Noble,,Voters,,Registered,,
+Noble,,Voters,,Ballots Cast,,
+Noble,,President,,Donald Trump,REP,12198
+Noble,,President,,Hillary Clinton,DEM,3904
+Noble,,President,,Gary Johnson,LBT,788
+Noble,,President,,Write-ins,,
+Noble,,U.S. Senate,,Todd Young,REP,10509
+Noble,,U.S. Senate,,Evan Bayh,DEM,4996
+Noble,,U.S. Senate,,Lucy Brenton,LBT,1217
+Noble,,U.S. Senate,,Write-ins,,
+Noble,,Governor,,Eric Holcomb,REP,10475
+Noble,,Governor,,John Gregg,DEM,5512
+Noble,,Governor,,Rex Bell,LBT,637
+Noble,,Governor,,Write-ins,,
+Noble,,Attorney General,,Curtis Hill,REP,12588
+Noble,,Attorney General,,Lorenzo Arredondo,DEM,3616
+Noble,,Public Instruction,,Jennifer McCormick,REP,10381
+Noble,,Public Instruction,,Glenda Ritz,DEM,5961
+Noble,,U.S. House,3,Jim Banks,REP,12288
+Noble,,U.S. House,3,Tommy Schrader,DEM,3137
+Noble,,U.S. House,3,Pepper Snyder,LBT,1101
+Noble,,U.S. House,3,Write-ins,,
+Noble,,State Senate,13,Susan Glick,REP,12330
+Noble,,State Senate,13,Justin Kuhnle,DEM,4041
+Noble,,State House,82,David Ober,REP,12046
+Noble,,State House,82,Mike Wilber,DEM,4292
+Noble,18-Wayne 18,Voters,,Registered,,1472
+Noble,18-Wayne 18,Voters,,Ballots Cast,,789
+Noble,18-Wayne 18,President,,Donald Trump,REP,518
+Noble,18-Wayne 18,President,,Hillary Clinton,DEM,207
+Noble,18-Wayne 18,President,,Gary Johnson,LBT,39
+Noble,18-Wayne 18,President,,Write-ins,,15
+Noble,18-Wayne 18,U.S. Senate,,Todd Young,REP,430
+Noble,18-Wayne 18,U.S. Senate,,Evan Bayh,DEM,278
+Noble,18-Wayne 18,U.S. Senate,,Lucy Brenton,LBT,41
+Noble,18-Wayne 18,U.S. Senate,,Write-ins,,0
+Noble,18-Wayne 18,Governor,,Eric Holcomb,REP,418
+Noble,18-Wayne 18,Governor,,John Gregg,DEM,294
+Noble,18-Wayne 18,Governor,,Rex Bell,LBT,29
+Noble,18-Wayne 18,Governor,,Write-ins,,0
+Noble,18-Wayne 18,Attorney General,,Curtis Hill,REP,558
+Noble,18-Wayne 18,Attorney General,,Lorenzo Arredondo,DEM,176
+Noble,18-Wayne 18,Public Instruction,,Jennifer McCormick,REP,424
+Noble,18-Wayne 18,Public Instruction,,Glenda Ritz,DEM,306
+Noble,18-Wayne 18,U.S. House,3,Jim Banks,REP,527
+Noble,18-Wayne 18,U.S. House,3,Tommy Schrader,DEM,168
+Noble,18-Wayne 18,U.S. House,3,Pepper Snyder,LBT,45
+Noble,18-Wayne 18,U.S. House,3,Write-ins,,0
+Noble,18-Wayne 18,State Senate,13,Susan Glick,REP,534
+Noble,18-Wayne 18,State Senate,13,Justin Kuhnle,DEM,205
+Noble,18-Wayne 18,State House,82,David Ober,REP,525
+Noble,18-Wayne 18,State House,82,Mike Wilber,DEM,204
+Noble,19-Wayne 19,Voters,,Registered,,729
+Noble,19-Wayne 19,Voters,,Ballots Cast,,392
+Noble,19-Wayne 19,President,,Donald Trump,REP,261
+Noble,19-Wayne 19,President,,Hillary Clinton,DEM,93
+Noble,19-Wayne 19,President,,Gary Johnson,LBT,25
+Noble,19-Wayne 19,President,,Write-ins,,9
+Noble,19-Wayne 19,U.S. Senate,,Todd Young,REP,237
+Noble,19-Wayne 19,U.S. Senate,,Evan Bayh,DEM,107
+Noble,19-Wayne 19,U.S. Senate,,Lucy Brenton,LBT,36
+Noble,19-Wayne 19,U.S. Senate,,Write-ins,,0
+Noble,19-Wayne 19,Governor,,Eric Holcomb,REP,235
+Noble,19-Wayne 19,Governor,,John Gregg,DEM,130
+Noble,19-Wayne 19,Governor,,Rex Bell,LBT,19
+Noble,19-Wayne 19,Governor,,Write-ins,,0
+Noble,19-Wayne 19,Attorney General,,Curtis Hill,REP,272
+Noble,19-Wayne 19,Attorney General,,Lorenzo Arredondo,DEM,94
+Noble,19-Wayne 19,Public Instruction,,Jennifer McCormick,REP,247
+Noble,19-Wayne 19,Public Instruction,,Glenda Ritz,DEM,128
+Noble,19-Wayne 19,U.S. House,3,Jim Banks,REP,269
+Noble,19-Wayne 19,U.S. House,3,Tommy Schrader,DEM,73
+Noble,19-Wayne 19,U.S. House,3,Pepper Snyder,LBT,34
+Noble,19-Wayne 19,U.S. House,3,Write-ins,,0
+Noble,19-Wayne 19,State Senate,13,Susan Glick,REP,272
+Noble,19-Wayne 19,State Senate,13,Justin Kuhnle,DEM,99
+Noble,19-Wayne 19,State House,82,David Ober,REP,268
+Noble,19-Wayne 19,State House,82,Mike Wilber,DEM,108
+Noble,20-Wayne 20,Voters,,Registered,,624
+Noble,20-Wayne 20,Voters,,Ballots Cast,,242
+Noble,20-Wayne 20,President,,Donald Trump,REP,144
+Noble,20-Wayne 20,President,,Hillary Clinton,DEM,76
+Noble,20-Wayne 20,President,,Gary Johnson,LBT,15
+Noble,20-Wayne 20,President,,Write-ins,,0
+Noble,20-Wayne 20,U.S. Senate,,Todd Young,REP,117
+Noble,20-Wayne 20,U.S. Senate,,Evan Bayh,DEM,94
+Noble,20-Wayne 20,U.S. Senate,,Lucy Brenton,LBT,22
+Noble,20-Wayne 20,U.S. Senate,,Write-ins,,0
+Noble,20-Wayne 20,Governor,,Eric Holcomb,REP,121
+Noble,20-Wayne 20,Governor,,John Gregg,DEM,91
+Noble,20-Wayne 20,Governor,,Rex Bell,LBT,15
+Noble,20-Wayne 20,Governor,,Write-ins,,0
+Noble,20-Wayne 20,Attorney General,,Curtis Hill,REP,149
+Noble,20-Wayne 20,Attorney General,,Lorenzo Arredondo,DEM,72
+Noble,20-Wayne 20,Public Instruction,,Jennifer McCormick,REP,129
+Noble,20-Wayne 20,Public Instruction,,Glenda Ritz,DEM,98
+Noble,20-Wayne 20,U.S. House,3,Jim Banks,REP,140
+Noble,20-Wayne 20,U.S. House,3,Tommy Schrader,DEM,60
+Noble,20-Wayne 20,U.S. House,3,Pepper Snyder,LBT,26
+Noble,20-Wayne 20,U.S. House,3,Write-ins,,0
+Noble,20-Wayne 20,State Senate,13,Susan Glick,REP,152
+Noble,20-Wayne 20,State Senate,13,Justin Kuhnle,DEM,74
+Noble,20-Wayne 20,State House,82,David Ober,REP,147
+Noble,20-Wayne 20,State House,82,Mike Wilber,DEM,74
+Noble,21-Wayne 21,Voters,,Registered,,932
+Noble,21-Wayne 21,Voters,,Ballots Cast,,487
+Noble,21-Wayne 21,President,,Donald Trump,REP,298
+Noble,21-Wayne 21,President,,Hillary Clinton,DEM,148
+Noble,21-Wayne 21,President,,Gary Johnson,LBT,28
+Noble,21-Wayne 21,President,,Write-ins,,6
+Noble,21-Wayne 21,U.S. Senate,,Todd Young,REP,238
+Noble,21-Wayne 21,U.S. Senate,,Evan Bayh,DEM,179
+Noble,21-Wayne 21,U.S. Senate,,Lucy Brenton,LBT,49
+Noble,21-Wayne 21,U.S. Senate,,Write-ins,,0
+Noble,21-Wayne 21,Governor,,Eric Holcomb,REP,250
+Noble,21-Wayne 21,Governor,,John Gregg,DEM,181
+Noble,21-Wayne 21,Governor,,Rex Bell,LBT,32
+Noble,21-Wayne 21,Governor,,Write-ins,,0
+Noble,21-Wayne 21,Attorney General,,Curtis Hill,REP,310
+Noble,21-Wayne 21,Attorney General,,Lorenzo Arredondo,DEM,138
+Noble,21-Wayne 21,Public Instruction,,Jennifer McCormick,REP,244
+Noble,21-Wayne 21,Public Instruction,,Glenda Ritz,DEM,209
+Noble,21-Wayne 21,U.S. House,3,Jim Banks,REP,296
+Noble,21-Wayne 21,U.S. House,3,Tommy Schrader,DEM,118
+Noble,21-Wayne 21,U.S. House,3,Pepper Snyder,LBT,50
+Noble,21-Wayne 21,U.S. House,3,Write-ins,,0
+Noble,21-Wayne 21,State Senate,13,Susan Glick,REP,301
+Noble,21-Wayne 21,State Senate,13,Justin Kuhnle,DEM,158
+Noble,21-Wayne 21,State House,82,David Ober,REP,303
+Noble,21-Wayne 21,State House,82,Mike Wilber,DEM,160
+Noble,22-Wayne 22,Voters,,Registered,,160
+Noble,22-Wayne 22,Voters,,Ballots Cast,,83
+Noble,22-Wayne 22,President,,Donald Trump,REP,55
+Noble,22-Wayne 22,President,,Hillary Clinton,DEM,21
+Noble,22-Wayne 22,President,,Gary Johnson,LBT,4
+Noble,22-Wayne 22,President,,Write-ins,,3
+Noble,22-Wayne 22,U.S. Senate,,Todd Young,REP,40
+Noble,22-Wayne 22,U.S. Senate,,Evan Bayh,DEM,32
+Noble,22-Wayne 22,U.S. Senate,,Lucy Brenton,LBT,7
+Noble,22-Wayne 22,U.S. Senate,,Write-ins,,0
+Noble,22-Wayne 22,Governor,,Eric Holcomb,REP,45
+Noble,22-Wayne 22,Governor,,John Gregg,DEM,32
+Noble,22-Wayne 22,Governor,,Rex Bell,LBT,4
+Noble,22-Wayne 22,Governor,,Write-ins,,0
+Noble,22-Wayne 22,Attorney General,,Curtis Hill,REP,58
+Noble,22-Wayne 22,Attorney General,,Lorenzo Arredondo,DEM,19
+Noble,22-Wayne 22,Public Instruction,,Jennifer McCormick,REP,43
+Noble,22-Wayne 22,Public Instruction,,Glenda Ritz,DEM,35
+Noble,22-Wayne 22,U.S. House,3,Jim Banks,REP,54
+Noble,22-Wayne 22,U.S. House,3,Tommy Schrader,DEM,15
+Noble,22-Wayne 22,U.S. House,3,Pepper Snyder,LBT,10
+Noble,22-Wayne 22,U.S. House,3,Write-ins,,0
+Noble,22-Wayne 22,State Senate,13,Susan Glick,REP,57
+Noble,22-Wayne 22,State Senate,13,Justin Kuhnle,DEM,23
+Noble,22-Wayne 22,State House,82,David Ober,REP,52
+Noble,22-Wayne 22,State House,82,Mike Wilber,DEM,28
+Noble,23-Kendallville Allen,Voters,,Registered,,1433
+Noble,23-Kendallville Allen,Voters,,Ballots Cast,,521
+Noble,23-Kendallville Allen,President,,Donald Trump,REP,324
+Noble,23-Kendallville Allen,President,,Hillary Clinton,DEM,155
+Noble,23-Kendallville Allen,President,,Gary Johnson,LBT,24
+Noble,23-Kendallville Allen,President,,Write-ins,,12
+Noble,23-Kendallville Allen,U.S. Senate,,Todd Young,REP,266
+Noble,23-Kendallville Allen,U.S. Senate,,Evan Bayh,DEM,178
+Noble,23-Kendallville Allen,U.S. Senate,,Lucy Brenton,LBT,57
+Noble,23-Kendallville Allen,U.S. Senate,,Write-ins,,0
+Noble,23-Kendallville Allen,Governor,,Eric Holcomb,REP,268
+Noble,23-Kendallville Allen,Governor,,John Gregg,DEM,187
+Noble,23-Kendallville Allen,Governor,,Rex Bell,LBT,41
+Noble,23-Kendallville Allen,Governor,,Write-ins,,0
+Noble,23-Kendallville Allen,Attorney General,,Curtis Hill,REP,343
+Noble,23-Kendallville Allen,Attorney General,,Lorenzo Arredondo,DEM,145
+Noble,23-Kendallville Allen,Public Instruction,,Jennifer McCormick,REP,304
+Noble,23-Kendallville Allen,Public Instruction,,Glenda Ritz,DEM,183
+Noble,23-Kendallville Allen,U.S. House,3,Jim Banks,REP,323
+Noble,23-Kendallville Allen,U.S. House,3,Tommy Schrader,DEM,125
+Noble,23-Kendallville Allen,U.S. House,3,Pepper Snyder,LBT,47
+Noble,23-Kendallville Allen,U.S. House,3,Write-ins,,0
+Noble,23-Kendallville Allen,State Senate,13,Susan Glick,REP,327
+Noble,23-Kendallville Allen,State Senate,13,Justin Kuhnle,DEM,163
+Noble,23-Kendallville Allen,State House,82,David Ober,REP,332
+Noble,23-Kendallville Allen,State House,82,Mike Wilber,DEM,156
+Noble,24-Kendallville Allen,Voters,,Registered,,1027
+Noble,24-Kendallville Allen,Voters,,Ballots Cast,,624
+Noble,24-Kendallville Allen,President,,Donald Trump,REP,456
+Noble,24-Kendallville Allen,President,,Hillary Clinton,DEM,133
+Noble,24-Kendallville Allen,President,,Gary Johnson,LBT,24
+Noble,24-Kendallville Allen,President,,Write-ins,,5
+Noble,24-Kendallville Allen,U.S. Senate,,Todd Young,REP,381
+Noble,24-Kendallville Allen,U.S. Senate,,Evan Bayh,DEM,182
+Noble,24-Kendallville Allen,U.S. Senate,,Lucy Brenton,LBT,41
+Noble,24-Kendallville Allen,U.S. Senate,,Write-ins,,1
+Noble,24-Kendallville Allen,Governor,,Eric Holcomb,REP,383
+Noble,24-Kendallville Allen,Governor,,John Gregg,DEM,203
+Noble,24-Kendallville Allen,Governor,,Rex Bell,LBT,15
+Noble,24-Kendallville Allen,Governor,,Write-ins,,0
+Noble,24-Kendallville Allen,Attorney General,,Curtis Hill,REP,470
+Noble,24-Kendallville Allen,Attorney General,,Lorenzo Arredondo,DEM,116
+Noble,24-Kendallville Allen,Public Instruction,,Jennifer McCormick,REP,398
+Noble,24-Kendallville Allen,Public Instruction,,Glenda Ritz,DEM,195
+Noble,24-Kendallville Allen,U.S. House,3,Jim Banks,REP,466
+Noble,24-Kendallville Allen,U.S. House,3,Tommy Schrader,DEM,96
+Noble,24-Kendallville Allen,U.S. House,3,Pepper Snyder,LBT,30
+Noble,24-Kendallville Allen,U.S. House,3,Write-ins,,0
+Noble,24-Kendallville Allen,State Senate,13,Susan Glick,REP,463
+Noble,24-Kendallville Allen,State Senate,13,Justin Kuhnle,DEM,130
+Noble,24-Kendallville Allen,State House,82,David Ober,REP,453
+Noble,24-Kendallville Allen,State House,82,Mike Wilber,DEM,136
+Noble,25-Allen 25,Voters,,Registered,,1167
+Noble,25-Allen 25,Voters,,Ballots Cast,,745
+Noble,25-Allen 25,President,,Donald Trump,REP,532
+Noble,25-Allen 25,President,,Hillary Clinton,DEM,147
+Noble,25-Allen 25,President,,Gary Johnson,LBT,39
+Noble,25-Allen 25,President,,Write-ins,,10
+Noble,25-Allen 25,U.S. Senate,,Todd Young,REP,482
+Noble,25-Allen 25,U.S. Senate,,Evan Bayh,DEM,191
+Noble,25-Allen 25,U.S. Senate,,Lucy Brenton,LBT,45
+Noble,25-Allen 25,U.S. Senate,,Write-ins,,0
+Noble,25-Allen 25,Governor,,Eric Holcomb,REP,485
+Noble,25-Allen 25,Governor,,John Gregg,DEM,196
+Noble,25-Allen 25,Governor,,Rex Bell,LBT,26
+Noble,25-Allen 25,Governor,,Write-ins,,0
+Noble,25-Allen 25,Attorney General,,Curtis Hill,REP,540
+Noble,25-Allen 25,Attorney General,,Lorenzo Arredondo,DEM,143
+Noble,25-Allen 25,Public Instruction,,Jennifer McCormick,REP,452
+Noble,25-Allen 25,Public Instruction,,Glenda Ritz,DEM,242
+Noble,25-Allen 25,U.S. House,3,Jim Banks,REP,535
+Noble,25-Allen 25,U.S. House,3,Tommy Schrader,DEM,115
+Noble,25-Allen 25,U.S. House,3,Pepper Snyder,LBT,46
+Noble,25-Allen 25,U.S. House,3,Write-ins,,0
+Noble,25-Allen 25,State Senate,13,Susan Glick,REP,533
+Noble,25-Allen 25,State Senate,13,Justin Kuhnle,DEM,156
+Noble,25-Allen 25,State House,82,David Ober,REP,521
+Noble,25-Allen 25,State House,82,Mike Wilber,DEM,170
+Noble,26-Allen 26,Voters,,Registered,,1231
+Noble,26-Allen 26,Voters,,Ballots Cast,,646
+Noble,26-Allen 26,President,,Donald Trump,REP,424
+Noble,26-Allen 26,President,,Hillary Clinton,DEM,156
+Noble,26-Allen 26,President,,Gary Johnson,LBT,44
+Noble,26-Allen 26,President,,Write-ins,,12
+Noble,26-Allen 26,U.S. Senate,,Todd Young,REP,360
+Noble,26-Allen 26,U.S. Senate,,Evan Bayh,DEM,203
+Noble,26-Allen 26,U.S. Senate,,Lucy Brenton,LBT,51
+Noble,26-Allen 26,U.S. Senate,,Write-ins,,0
+Noble,26-Allen 26,Governor,,Eric Holcomb,REP,350
+Noble,26-Allen 26,Governor,,John Gregg,DEM,227
+Noble,26-Allen 26,Governor,,Rex Bell,LBT,35
+Noble,26-Allen 26,Governor,,Write-ins,,0
+Noble,26-Allen 26,Attorney General,,Curtis Hill,REP,460
+Noble,26-Allen 26,Attorney General,,Lorenzo Arredondo,DEM,140
+Noble,26-Allen 26,Public Instruction,,Jennifer McCormick,REP,387
+Noble,26-Allen 26,Public Instruction,,Glenda Ritz,DEM,219
+Noble,26-Allen 26,U.S. House,3,Jim Banks,REP,436
+Noble,26-Allen 26,U.S. House,3,Tommy Schrader,DEM,127
+Noble,26-Allen 26,U.S. House,3,Pepper Snyder,LBT,49
+Noble,26-Allen 26,U.S. House,3,Write-ins,,1
+Noble,26-Allen 26,State Senate,13,Susan Glick,REP,435
+Noble,26-Allen 26,State Senate,13,Justin Kuhnle,DEM,169
+Noble,26-Allen 26,State House,82,David Ober,REP,423
+Noble,26-Allen 26,State House,82,Mike Wilber,DEM,180
+Noble,27-Swan 27,Voters,,Registered,,1763
+Noble,27-Swan 27,Voters,,Ballots Cast,,1180
+Noble,27-Swan 27,President,,Donald Trump,REP,866
+Noble,27-Swan 27,President,,Hillary Clinton,DEM,228
+Noble,27-Swan 27,President,,Gary Johnson,LBT,55
+Noble,27-Swan 27,President,,Write-ins,,11
+Noble,27-Swan 27,U.S. Senate,,Todd Young,REP,756
+Noble,27-Swan 27,U.S. Senate,,Evan Bayh,DEM,302
+Noble,27-Swan 27,U.S. Senate,,Lucy Brenton,LBT,100
+Noble,27-Swan 27,U.S. Senate,,Write-ins,,0
+Noble,27-Swan 27,Governor,,Eric Holcomb,REP,747
+Noble,27-Swan 27,Governor,,John Gregg,DEM,351
+Noble,27-Swan 27,Governor,,Rex Bell,LBT,53
+Noble,27-Swan 27,Governor,,Write-ins,,0
+Noble,27-Swan 27,Attorney General,,Curtis Hill,REP,907
+Noble,27-Swan 27,Attorney General,,Lorenzo Arredondo,DEM,203
+Noble,27-Swan 27,Public Instruction,,Jennifer McCormick,REP,737
+Noble,27-Swan 27,Public Instruction,,Glenda Ritz,DEM,387
+Noble,27-Swan 27,U.S. House,3,Jim Banks,REP,879
+Noble,27-Swan 27,U.S. House,3,Tommy Schrader,DEM,179
+Noble,27-Swan 27,U.S. House,3,Pepper Snyder,LBT,80
+Noble,27-Swan 27,U.S. House,3,Write-ins,,0
+Noble,27-Swan 27,State Senate,13,Susan Glick,REP,860
+Noble,27-Swan 27,State Senate,13,Justin Kuhnle,DEM,250
+Noble,27-Swan 27,State House,82,David Ober,REP,834
+Noble,27-Swan 27,State House,82,Mike Wilber,DEM,289
+Noble,28-Albion 28,Voters,,Registered,,1555
+Noble,28-Albion 28,Voters,,Ballots Cast,,767
+Noble,28-Albion 28,President,,Donald Trump,REP,549
+Noble,28-Albion 28,President,,Hillary Clinton,DEM,147
+Noble,28-Albion 28,President,,Gary Johnson,LBT,38
+Noble,28-Albion 28,President,,Write-ins,,13
+Noble,28-Albion 28,U.S. Senate,,Todd Young,REP,449
+Noble,28-Albion 28,U.S. Senate,,Evan Bayh,DEM,229
+Noble,28-Albion 28,U.S. Senate,,Lucy Brenton,LBT,53
+Noble,28-Albion 28,U.S. Senate,,Write-ins,,0
+Noble,28-Albion 28,Governor,,Eric Holcomb,REP,457
+Noble,28-Albion 28,Governor,,John Gregg,DEM,245
+Noble,28-Albion 28,Governor,,Rex Bell,LBT,26
+Noble,28-Albion 28,Governor,,Write-ins,,0
+Noble,28-Albion 28,Attorney General,,Curtis Hill,REP,577
+Noble,28-Albion 28,Attorney General,,Lorenzo Arredondo,DEM,126
+Noble,28-Albion 28,Public Instruction,,Jennifer McCormick,REP,453
+Noble,28-Albion 28,Public Instruction,,Glenda Ritz,DEM,263
+Noble,28-Albion 28,U.S. House,3,Jim Banks,REP,565
+Noble,28-Albion 28,U.S. House,3,Tommy Schrader,DEM,112
+Noble,28-Albion 28,U.S. House,3,Pepper Snyder,LBT,49
+Noble,28-Albion 28,U.S. House,3,Write-ins,,1
+Noble,28-Albion 28,State Senate,13,Susan Glick,REP,547
+Noble,28-Albion 28,State Senate,13,Justin Kuhnle,DEM,172
+Noble,28-Albion 28,State House,82,David Ober,REP,550
+Noble,28-Albion 28,State House,82,Mike Wilber,DEM,167
+Noble,29-Noble 29,Voters,,Registered,,956
+Noble,29-Noble 29,Voters,,Ballots Cast,,594
+Noble,29-Noble 29,President,,Donald Trump,REP,437
+Noble,29-Noble 29,President,,Hillary Clinton,DEM,127
+Noble,29-Noble 29,President,,Gary Johnson,LBT,19
+Noble,29-Noble 29,President,,Write-ins,,4
+Noble,29-Noble 29,U.S. Senate,,Todd Young,REP,375
+Noble,29-Noble 29,U.S. Senate,,Evan Bayh,DEM,166
+Noble,29-Noble 29,U.S. Senate,,Lucy Brenton,LBT,37
+Noble,29-Noble 29,U.S. Senate,,Write-ins,,0
+Noble,29-Noble 29,Governor,,Eric Holcomb,REP,371
+Noble,29-Noble 29,Governor,,John Gregg,DEM,195
+Noble,29-Noble 29,Governor,,Rex Bell,LBT,13
+Noble,29-Noble 29,Governor,,Write-ins,,0
+Noble,29-Noble 29,Attorney General,,Curtis Hill,REP,429
+Noble,29-Noble 29,Attorney General,,Lorenzo Arredondo,DEM,127
+Noble,29-Noble 29,Public Instruction,,Jennifer McCormick,REP,357
+Noble,29-Noble 29,Public Instruction,,Glenda Ritz,DEM,208
+Noble,29-Noble 29,U.S. House,3,Jim Banks,REP,434
+Noble,29-Noble 29,U.S. House,3,Tommy Schrader,DEM,105
+Noble,29-Noble 29,U.S. House,3,Pepper Snyder,LBT,37
+Noble,29-Noble 29,U.S. House,3,Write-ins,,1
+Noble,29-Noble 29,State Senate,13,Susan Glick,REP,417
+Noble,29-Noble 29,State Senate,13,Justin Kuhnle,DEM,145
+Noble,29-Noble 29,State House,82,David Ober,REP,413
+Noble,29-Noble 29,State House,82,Mike Wilber,DEM,151

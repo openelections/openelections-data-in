@@ -1,0 +1,3035 @@
+county,precinct,office,district,candidate,party,votes
+Johnson,0001 BLUE RIVER 1,Voters,,Registration,,577
+Johnson,0002 BLUE RIVER 2,Voters,,Registration,,645
+Johnson,0003 BLUE RIVER 3,Voters,,Registration,,657
+Johnson,0004 BLUE RIVER 4,Voters,,Registration,,688
+Johnson,0005 BLUE RIVER 5,Voters,,Registration,,559
+Johnson,0006 CLARK 1,Voters,,Registration,,382
+Johnson,0007 CLARK 2,Voters,,Registration,,812
+Johnson,0008 CLARK 3,Voters,,Registration,,869
+Johnson,0009 FRANKLIN 1,Voters,,Registration,,911
+Johnson,0010 FRANKLIN 2,Voters,,Registration,,723
+Johnson,0011 FRANKLIN 3,Voters,,Registration,,576
+Johnson,0012 FRANKLIN 4,Voters,,Registration,,683
+Johnson,0013 FRANKLIN 5,Voters,,Registration,,400
+Johnson,0014 FRANKLIN 6,Voters,,Registration,,935
+Johnson,0015 FRANKLIN 7,Voters,,Registration,,644
+Johnson,0016 FRANKLIN 8,Voters,,Registration,,276
+Johnson,0017 FRANKLIN 9,Voters,,Registration,,1113
+Johnson,0018 FRANKLIN 10,Voters,,Registration,,488
+Johnson,0019 FRANKLIN 11,Voters,,Registration,,611
+Johnson,0020 FRANKLIN 12,Voters,,Registration,,480
+Johnson,0021 FRANKLIN 13,Voters,,Registration,,406
+Johnson,0022 FRANKLIN 14,Voters,,Registration,,428
+Johnson,0023 FRANKLIN 15,Voters,,Registration,,1012
+Johnson,0024 FRANKLIN 16,Voters,,Registration,,1087
+Johnson,0025 FRANKLIN 17,Voters,,Registration,,613
+Johnson,0026 FRANKLIN 18,Voters,,Registration,,780
+Johnson,0027 FRANKLIN 19,Voters,,Registration,,921
+Johnson,0028 FRANKLIN 20,Voters,,Registration,,590
+Johnson,0029 HENSLEY 1,Voters,,Registration,,422
+Johnson,0030 HENSLEY 2,Voters,,Registration,,1104
+Johnson,0031 HENSLEY 3,Voters,,Registration,,997
+Johnson,0032 NEEDHAM 1,Voters,,Registration,,1060
+Johnson,0033 NEEDHAM 2,Voters,,Registration,,1095
+Johnson,0034 NEEDHAM 3,Voters,,Registration,,635
+Johnson,0035 NEEDHAM 4,Voters,,Registration,,847
+Johnson,0036 NEEDHAM 5,Voters,,Registration,,1181
+Johnson,0037 NINEVEH 1,Voters,,Registration,,1282
+Johnson,0038 NINEVEH 2,Voters,,Registration,,1084
+Johnson,0039 NINEVEH 3,Voters,,Registration,,825
+Johnson,0040 PLEASANT 1,Voters,,Registration,,816
+Johnson,0041 PLEASANT 2,Voters,,Registration,,848
+Johnson,0042 PLEASANT 3,Voters,,Registration,,752
+Johnson,0043 PLEASANT 4,Voters,,Registration,,563
+Johnson,0044 PLEASANT 5,Voters,,Registration,,492
+Johnson,0045 PLEASANT 6,Voters,,Registration,,766
+Johnson,0046 PLEASANT 7,Voters,,Registration,,902
+Johnson,0047 PLEASANT 8,Voters,,Registration,,727
+Johnson,0048 PLEASANT 9,Voters,,Registration,,930
+Johnson,0049 PLEASANT 10,Voters,,Registration,,534
+Johnson,0050 PLEASANT 11,Voters,,Registration,,1181
+Johnson,0051 PLEASANT 12,Voters,,Registration,,681
+Johnson,0052 PLEASANT 13,Voters,,Registration,,1386
+Johnson,0053 PLEASANT 14,Voters,,Registration,,1067
+Johnson,0054 PLEASANT 15,Voters,,Registration,,630
+Johnson,0055 PLEASANT 16,Voters,,Registration,,766
+Johnson,0056 PLEASANT 17,Voters,,Registration,,1041
+Johnson,0057 PLEASANT 18,Voters,,Registration,,520
+Johnson,0058 PLEASANT 19,Voters,,Registration,,1486
+Johnson,0059 PLEASANT 20,Voters,,Registration,,506
+Johnson,0060 PLEASANT 21,Voters,,Registration,,1069
+Johnson,0061 PLEASANT 22,Voters,,Registration,,2107
+Johnson,0062 PLEASANT 23,Voters,,Registration,,288
+Johnson,0063 PLEASANT 24,Voters,,Registration,,448
+Johnson,0064 PLEASANT 25,Voters,,Registration,,391
+Johnson,0065 PLEASANT 26,Voters,,Registration,,408
+Johnson,0066 PLEASANT 27,Voters,,Registration,,407
+Johnson,0067 PLEASANT 28,Voters,,Registration,,984
+Johnson,0068 PLEASANT 29,Voters,,Registration,,602
+Johnson,0069 PLEASANT 30,Voters,,Registration,,894
+Johnson,0070 PLEASANT 31,Voters,,Registration,,1090
+Johnson,0071 PLEASANT 32,Voters,,Registration,,637
+Johnson,0072 PLEASANT 33,Voters,,Registration,,1188
+Johnson,0073 PLEASANT 34,Voters,,Registration,,844
+Johnson,0074 PLEASANT 35,Voters,,Registration,,685
+Johnson,0075 PLEASANT 36,Voters,,Registration,,314
+Johnson,0076 PLEASANT 37,Voters,,Registration,,522
+Johnson,0077 PLEASANT 38,Voters,,Registration,,1144
+Johnson,0078 PLEASANT 39,Voters,,Registration,,1160
+Johnson,0079 PLEASANT 40,Voters,,Registration,,874
+Johnson,0080 PLEASANT 41,Voters,,Registration,,182
+Johnson,0081 PLEASANT 42,Voters,,Registration,,1365
+Johnson,0082 PLEASANT 43,Voters,,Registration,,891
+Johnson,0083 PLEASANT 44,Voters,,Registration,,686
+Johnson,0084 PLEASANT 45,Voters,,Registration,,1076
+Johnson,0085 PLEASANT 46,Voters,,Registration,,490
+Johnson,0086 PLEASANT 47,Voters,,Registration,,937
+Johnson,0087 PLEASANT 48,Voters,,Registration,,1237
+Johnson,0088 PLEASANT 49,Voters,,Registration,,606
+Johnson,0089 UNION 1,Voters,,Registration,,803
+Johnson,0090 UNION 2,Voters,,Registration,,667
+Johnson,0091 UNION 3,Voters,,Registration,,529
+Johnson,0092 WHITE RIVER 1,Voters,,Registration,,734
+Johnson,0093 WHITE RIVER 2,Voters,,Registration,,319
+Johnson,0094 WHITE RIVER 3,Voters,,Registration,,853
+Johnson,0095 WHITE RIVER 4,Voters,,Registration,,730
+Johnson,0096 WHITE RIVER 5,Voters,,Registration,,801
+Johnson,0097 WHITE RIVER 6,Voters,,Registration,,831
+Johnson,0098 WHITE RIVER 7,Voters,,Registration,,887
+Johnson,0099 WHITE RIVER 8,Voters,,Registration,,939
+Johnson,0100 WHITE RIVER 9,Voters,,Registration,,1245
+Johnson,0101 WHITE RIVER 10,Voters,,Registration,,565
+Johnson,0102 WHITE RIVER 11,Voters,,Registration,,956
+Johnson,0103 WHITE RIVER 12,Voters,,Registration,,778
+Johnson,0104 WHITE RIVER 13,Voters,,Registration,,676
+Johnson,0105 WHITE RIVER 14,Voters,,Registration,,1058
+Johnson,0106 WHITE RIVER 15,Voters,,Registration,,1602
+Johnson,0107 WHITE RIVER 16,Voters,,Registration,,1140
+Johnson,0108 WHITE RIVER 17,Voters,,Registration,,615
+Johnson,0109 WHITE RIVER 18,Voters,,Registration,,576
+Johnson,0110 WHITE RIVER 19,Voters,,Registration,,719
+Johnson,0111 WHITE RIVER 20,Voters,,Registration,,595
+Johnson,0112 WHITE RIVER 21,Voters,,Registration,,1168
+Johnson,0113 WHITE RIVER 22,Voters,,Registration,,955
+Johnson,0114 WHITE RIVER 23,Voters,,Registration,,449
+Johnson,0115 WHITE RIVER 24,Voters,,Registration,,746
+Johnson,0116 WHITE RIVER 25,Voters,,Registration,,923
+Johnson,0117 WHITE RIVER 26,Voters,,Registration,,586
+Johnson,0118 WHITE RIVER 27,Voters,,Registration,,786
+Johnson,0119 WHITE RIVER 28,Voters,,Registration,,488
+Johnson,0120 WHITE RIVER 29,Voters,,Registration,,1192
+Johnson,0121 WHITE RIVER 30,Voters,,Registration,,892
+Johnson,0122 WHITE RIVER 31,Voters,,Registration,,713
+Johnson,0123 WHITE RIVER 32,Voters,,Registration,,1075
+Johnson,0124 WHITE RIVER 33,Voters,,Registration,,745
+Johnson,0125 WHITE RIVER 34,Voters,,Registration,,780
+Johnson,0126 WHITE RIVER 35,Voters,,Registration,,1489
+Johnson,0127 WHITE RIVER 36,Voters,,Registration,,601
+Johnson,0128 WHITE RIVER 37,Voters,,Registration,,1760
+Johnson,0129 WHITE RIVER 38,Voters,,Registration,,588
+Johnson,0130 WHITE RIVER 39,Voters,,Registration,,1053
+Johnson,0131 WHITE RIVER 40,Voters,,Registration,,636
+Johnson,0132 WHITE RIVER 41,Voters,,Registration,,645
+Johnson,0133 WHITE RIVER 42,Voters,,Registration,,748
+Johnson,0134 WHITE RIVER 43,Voters,,Registration,,392
+Johnson,,Voters,,Registration,,107546
+Johnson,0001 BLUE RIVER 1,Voters,,Ballots Cast,,274
+Johnson,0002 BLUE RIVER 2,Voters,,Ballots Cast,,364
+Johnson,0003 BLUE RIVER 3,Voters,,Ballots Cast,,438
+Johnson,0004 BLUE RIVER 4,Voters,,Ballots Cast,,325
+Johnson,0005 BLUE RIVER 5,Voters,,Ballots Cast,,313
+Johnson,0006 CLARK 1,Voters,,Ballots Cast,,299
+Johnson,0007 CLARK 2,Voters,,Ballots Cast,,569
+Johnson,0008 CLARK 3,Voters,,Ballots Cast,,597
+Johnson,0009 FRANKLIN 1,Voters,,Ballots Cast,,664
+Johnson,0010 FRANKLIN 2,Voters,,Ballots Cast,,443
+Johnson,0011 FRANKLIN 3,Voters,,Ballots Cast,,262
+Johnson,0012 FRANKLIN 4,Voters,,Ballots Cast,,431
+Johnson,0013 FRANKLIN 5,Voters,,Ballots Cast,,227
+Johnson,0014 FRANKLIN 6,Voters,,Ballots Cast,,471
+Johnson,0015 FRANKLIN 7,Voters,,Ballots Cast,,367
+Johnson,0016 FRANKLIN 8,Voters,,Ballots Cast,,210
+Johnson,0017 FRANKLIN 9,Voters,,Ballots Cast,,784
+Johnson,0018 FRANKLIN 10,Voters,,Ballots Cast,,336
+Johnson,0019 FRANKLIN 11,Voters,,Ballots Cast,,323
+Johnson,0020 FRANKLIN 12,Voters,,Ballots Cast,,202
+Johnson,0021 FRANKLIN 13,Voters,,Ballots Cast,,263
+Johnson,0022 FRANKLIN 14,Voters,,Ballots Cast,,249
+Johnson,0023 FRANKLIN 15,Voters,,Ballots Cast,,552
+Johnson,0024 FRANKLIN 16,Voters,,Ballots Cast,,675
+Johnson,0025 FRANKLIN 17,Voters,,Ballots Cast,,454
+Johnson,0026 FRANKLIN 18,Voters,,Ballots Cast,,368
+Johnson,0027 FRANKLIN 19,Voters,,Ballots Cast,,584
+Johnson,0028 FRANKLIN 20,Voters,,Ballots Cast,,333
+Johnson,0029 HENSLEY 1,Voters,,Ballots Cast,,319
+Johnson,0030 HENSLEY 2,Voters,,Ballots Cast,,799
+Johnson,0031 HENSLEY 3,Voters,,Ballots Cast,,657
+Johnson,0032 NEEDHAM 1,Voters,,Ballots Cast,,722
+Johnson,0033 NEEDHAM 2,Voters,,Ballots Cast,,792
+Johnson,0034 NEEDHAM 3,Voters,,Ballots Cast,,426
+Johnson,0035 NEEDHAM 4,Voters,,Ballots Cast,,597
+Johnson,0036 NEEDHAM 5,Voters,,Ballots Cast,,740
+Johnson,0037 NINEVEH 1,Voters,,Ballots Cast,,913
+Johnson,0038 NINEVEH 2,Voters,,Ballots Cast,,711
+Johnson,0039 NINEVEH 3,Voters,,Ballots Cast,,345
+Johnson,0040 PLEASANT 1,Voters,,Ballots Cast,,474
+Johnson,0041 PLEASANT 2,Voters,,Ballots Cast,,444
+Johnson,0042 PLEASANT 3,Voters,,Ballots Cast,,552
+Johnson,0043 PLEASANT 4,Voters,,Ballots Cast,,329
+Johnson,0044 PLEASANT 5,Voters,,Ballots Cast,,238
+Johnson,0045 PLEASANT 6,Voters,,Ballots Cast,,376
+Johnson,0046 PLEASANT 7,Voters,,Ballots Cast,,518
+Johnson,0047 PLEASANT 8,Voters,,Ballots Cast,,445
+Johnson,0048 PLEASANT 9,Voters,,Ballots Cast,,461
+Johnson,0049 PLEASANT 10,Voters,,Ballots Cast,,264
+Johnson,0050 PLEASANT 11,Voters,,Ballots Cast,,805
+Johnson,0051 PLEASANT 12,Voters,,Ballots Cast,,458
+Johnson,0052 PLEASANT 13,Voters,,Ballots Cast,,582
+Johnson,0053 PLEASANT 14,Voters,,Ballots Cast,,727
+Johnson,0054 PLEASANT 15,Voters,,Ballots Cast,,200
+Johnson,0055 PLEASANT 16,Voters,,Ballots Cast,,500
+Johnson,0056 PLEASANT 17,Voters,,Ballots Cast,,545
+Johnson,0057 PLEASANT 18,Voters,,Ballots Cast,,336
+Johnson,0058 PLEASANT 19,Voters,,Ballots Cast,,897
+Johnson,0059 PLEASANT 20,Voters,,Ballots Cast,,256
+Johnson,0060 PLEASANT 21,Voters,,Ballots Cast,,724
+Johnson,0061 PLEASANT 22,Voters,,Ballots Cast,,1379
+Johnson,0062 PLEASANT 23,Voters,,Ballots Cast,,176
+Johnson,0063 PLEASANT 24,Voters,,Ballots Cast,,234
+Johnson,0064 PLEASANT 25,Voters,,Ballots Cast,,164
+Johnson,0065 PLEASANT 26,Voters,,Ballots Cast,,235
+Johnson,0066 PLEASANT 27,Voters,,Ballots Cast,,253
+Johnson,0067 PLEASANT 28,Voters,,Ballots Cast,,679
+Johnson,0068 PLEASANT 29,Voters,,Ballots Cast,,350
+Johnson,0069 PLEASANT 30,Voters,,Ballots Cast,,459
+Johnson,0070 PLEASANT 31,Voters,,Ballots Cast,,662
+Johnson,0071 PLEASANT 32,Voters,,Ballots Cast,,349
+Johnson,0072 PLEASANT 33,Voters,,Ballots Cast,,754
+Johnson,0073 PLEASANT 34,Voters,,Ballots Cast,,485
+Johnson,0074 PLEASANT 35,Voters,,Ballots Cast,,460
+Johnson,0075 PLEASANT 36,Voters,,Ballots Cast,,181
+Johnson,0076 PLEASANT 37,Voters,,Ballots Cast,,233
+Johnson,0077 PLEASANT 38,Voters,,Ballots Cast,,575
+Johnson,0078 PLEASANT 39,Voters,,Ballots Cast,,698
+Johnson,0079 PLEASANT 40,Voters,,Ballots Cast,,553
+Johnson,0080 PLEASANT 41,Voters,,Ballots Cast,,121
+Johnson,0081 PLEASANT 42,Voters,,Ballots Cast,,828
+Johnson,0082 PLEASANT 43,Voters,,Ballots Cast,,697
+Johnson,0083 PLEASANT 44,Voters,,Ballots Cast,,333
+Johnson,0084 PLEASANT 45,Voters,,Ballots Cast,,651
+Johnson,0085 PLEASANT 46,Voters,,Ballots Cast,,329
+Johnson,0086 PLEASANT 47,Voters,,Ballots Cast,,572
+Johnson,0087 PLEASANT 48,Voters,,Ballots Cast,,558
+Johnson,0088 PLEASANT 49,Voters,,Ballots Cast,,414
+Johnson,0089 UNION 1,Voters,,Ballots Cast,,574
+Johnson,0090 UNION 2,Voters,,Ballots Cast,,457
+Johnson,0091 UNION 3,Voters,,Ballots Cast,,342
+Johnson,0092 WHITE RIVER 1,Voters,,Ballots Cast,,486
+Johnson,0093 WHITE RIVER 2,Voters,,Ballots Cast,,238
+Johnson,0094 WHITE RIVER 3,Voters,,Ballots Cast,,579
+Johnson,0095 WHITE RIVER 4,Voters,,Ballots Cast,,495
+Johnson,0096 WHITE RIVER 5,Voters,,Ballots Cast,,411
+Johnson,0097 WHITE RIVER 6,Voters,,Ballots Cast,,481
+Johnson,0098 WHITE RIVER 7,Voters,,Ballots Cast,,640
+Johnson,0099 WHITE RIVER 8,Voters,,Ballots Cast,,676
+Johnson,0100 WHITE RIVER 9,Voters,,Ballots Cast,,760
+Johnson,0101 WHITE RIVER 10,Voters,,Ballots Cast,,412
+Johnson,0102 WHITE RIVER 11,Voters,,Ballots Cast,,651
+Johnson,0103 WHITE RIVER 12,Voters,,Ballots Cast,,588
+Johnson,0104 WHITE RIVER 13,Voters,,Ballots Cast,,465
+Johnson,0105 WHITE RIVER 14,Voters,,Ballots Cast,,759
+Johnson,0106 WHITE RIVER 15,Voters,,Ballots Cast,,1138
+Johnson,0107 WHITE RIVER 16,Voters,,Ballots Cast,,769
+Johnson,0108 WHITE RIVER 17,Voters,,Ballots Cast,,436
+Johnson,0109 WHITE RIVER 18,Voters,,Ballots Cast,,435
+Johnson,0110 WHITE RIVER 19,Voters,,Ballots Cast,,475
+Johnson,0111 WHITE RIVER 20,Voters,,Ballots Cast,,434
+Johnson,0112 WHITE RIVER 21,Voters,,Ballots Cast,,818
+Johnson,0113 WHITE RIVER 22,Voters,,Ballots Cast,,671
+Johnson,0114 WHITE RIVER 23,Voters,,Ballots Cast,,307
+Johnson,0115 WHITE RIVER 24,Voters,,Ballots Cast,,472
+Johnson,0116 WHITE RIVER 25,Voters,,Ballots Cast,,561
+Johnson,0117 WHITE RIVER 26,Voters,,Ballots Cast,,392
+Johnson,0118 WHITE RIVER 27,Voters,,Ballots Cast,,490
+Johnson,0119 WHITE RIVER 28,Voters,,Ballots Cast,,374
+Johnson,0120 WHITE RIVER 29,Voters,,Ballots Cast,,844
+Johnson,0121 WHITE RIVER 30,Voters,,Ballots Cast,,478
+Johnson,0122 WHITE RIVER 31,Voters,,Ballots Cast,,393
+Johnson,0123 WHITE RIVER 32,Voters,,Ballots Cast,,722
+Johnson,0124 WHITE RIVER 33,Voters,,Ballots Cast,,449
+Johnson,0125 WHITE RIVER 34,Voters,,Ballots Cast,,600
+Johnson,0126 WHITE RIVER 35,Voters,,Ballots Cast,,1160
+Johnson,0127 WHITE RIVER 36,Voters,,Ballots Cast,,421
+Johnson,0128 WHITE RIVER 37,Voters,,Ballots Cast,,1061
+Johnson,0129 WHITE RIVER 38,Voters,,Ballots Cast,,444
+Johnson,0130 WHITE RIVER 39,Voters,,Ballots Cast,,770
+Johnson,0131 WHITE RIVER 40,Voters,,Ballots Cast,,440
+Johnson,0132 WHITE RIVER 41,Voters,,Ballots Cast,,467
+Johnson,0133 WHITE RIVER 42,Voters,,Ballots Cast,,507
+Johnson,0134 WHITE RIVER 43,Voters,,Ballots Cast,,299
+Johnson,,Voters,,Ballots Cast,,67752
+Johnson,0001 BLUE RIVER 1,President,,Donald Trump,REP,215
+Johnson,0002 BLUE RIVER 2,President,,Donald Trump,REP,271
+Johnson,0003 BLUE RIVER 3,President,,Donald Trump,REP,347
+Johnson,0004 BLUE RIVER 4,President,,Donald Trump,REP,237
+Johnson,0005 BLUE RIVER 5,President,,Donald Trump,REP,240
+Johnson,0006 CLARK 1,President,,Donald Trump,REP,234
+Johnson,0007 CLARK 2,President,,Donald Trump,REP,445
+Johnson,0008 CLARK 3,President,,Donald Trump,REP,406
+Johnson,0009 FRANKLIN 1,President,,Donald Trump,REP,461
+Johnson,0010 FRANKLIN 2,President,,Donald Trump,REP,250
+Johnson,0011 FRANKLIN 3,President,,Donald Trump,REP,169
+Johnson,0012 FRANKLIN 4,President,,Donald Trump,REP,268
+Johnson,0013 FRANKLIN 5,President,,Donald Trump,REP,117
+Johnson,0014 FRANKLIN 6,President,,Donald Trump,REP,301
+Johnson,0015 FRANKLIN 7,President,,Donald Trump,REP,202
+Johnson,0016 FRANKLIN 8,President,,Donald Trump,REP,151
+Johnson,0017 FRANKLIN 9,President,,Donald Trump,REP,537
+Johnson,0018 FRANKLIN 10,President,,Donald Trump,REP,234
+Johnson,0019 FRANKLIN 11,President,,Donald Trump,REP,221
+Johnson,0020 FRANKLIN 12,President,,Donald Trump,REP,138
+Johnson,0021 FRANKLIN 13,President,,Donald Trump,REP,183
+Johnson,0022 FRANKLIN 14,President,,Donald Trump,REP,148
+Johnson,0023 FRANKLIN 15,President,,Donald Trump,REP,398
+Johnson,0024 FRANKLIN 16,President,,Donald Trump,REP,446
+Johnson,0025 FRANKLIN 17,President,,Donald Trump,REP,294
+Johnson,0026 FRANKLIN 18,President,,Donald Trump,REP,235
+Johnson,0027 FRANKLIN 19,President,,Donald Trump,REP,405
+Johnson,0028 FRANKLIN 20,President,,Donald Trump,REP,215
+Johnson,0029 HENSLEY 1,President,,Donald Trump,REP,253
+Johnson,0030 HENSLEY 2,President,,Donald Trump,REP,602
+Johnson,0031 HENSLEY 3,President,,Donald Trump,REP,519
+Johnson,0032 NEEDHAM 1,President,,Donald Trump,REP,530
+Johnson,0033 NEEDHAM 2,President,,Donald Trump,REP,524
+Johnson,0034 NEEDHAM 3,President,,Donald Trump,REP,327
+Johnson,0035 NEEDHAM 4,President,,Donald Trump,REP,359
+Johnson,0036 NEEDHAM 5,President,,Donald Trump,REP,479
+Johnson,0037 NINEVEH 1,President,,Donald Trump,REP,724
+Johnson,0038 NINEVEH 2,President,,Donald Trump,REP,540
+Johnson,0039 NINEVEH 3,President,,Donald Trump,REP,260
+Johnson,0040 PLEASANT 1,President,,Donald Trump,REP,345
+Johnson,0041 PLEASANT 2,President,,Donald Trump,REP,300
+Johnson,0042 PLEASANT 3,President,,Donald Trump,REP,352
+Johnson,0043 PLEASANT 4,President,,Donald Trump,REP,204
+Johnson,0044 PLEASANT 5,President,,Donald Trump,REP,151
+Johnson,0045 PLEASANT 6,President,,Donald Trump,REP,266
+Johnson,0046 PLEASANT 7,President,,Donald Trump,REP,356
+Johnson,0047 PLEASANT 8,President,,Donald Trump,REP,288
+Johnson,0048 PLEASANT 9,President,,Donald Trump,REP,316
+Johnson,0049 PLEASANT 10,President,,Donald Trump,REP,191
+Johnson,0050 PLEASANT 11,President,,Donald Trump,REP,540
+Johnson,0051 PLEASANT 12,President,,Donald Trump,REP,309
+Johnson,0052 PLEASANT 13,President,,Donald Trump,REP,279
+Johnson,0053 PLEASANT 14,President,,Donald Trump,REP,513
+Johnson,0054 PLEASANT 15,President,,Donald Trump,REP,120
+Johnson,0055 PLEASANT 16,President,,Donald Trump,REP,333
+Johnson,0056 PLEASANT 17,President,,Donald Trump,REP,318
+Johnson,0057 PLEASANT 18,President,,Donald Trump,REP,219
+Johnson,0058 PLEASANT 19,President,,Donald Trump,REP,616
+Johnson,0059 PLEASANT 20,President,,Donald Trump,REP,159
+Johnson,0060 PLEASANT 21,President,,Donald Trump,REP,543
+Johnson,0061 PLEASANT 22,President,,Donald Trump,REP,901
+Johnson,0062 PLEASANT 23,President,,Donald Trump,REP,111
+Johnson,0063 PLEASANT 24,President,,Donald Trump,REP,149
+Johnson,0064 PLEASANT 25,President,,Donald Trump,REP,94
+Johnson,0065 PLEASANT 26,President,,Donald Trump,REP,150
+Johnson,0066 PLEASANT 27,President,,Donald Trump,REP,151
+Johnson,0067 PLEASANT 28,President,,Donald Trump,REP,460
+Johnson,0068 PLEASANT 29,President,,Donald Trump,REP,216
+Johnson,0069 PLEASANT 30,President,,Donald Trump,REP,281
+Johnson,0070 PLEASANT 31,President,,Donald Trump,REP,508
+Johnson,0071 PLEASANT 32,President,,Donald Trump,REP,229
+Johnson,0072 PLEASANT 33,President,,Donald Trump,REP,505
+Johnson,0073 PLEASANT 34,President,,Donald Trump,REP,362
+Johnson,0074 PLEASANT 35,President,,Donald Trump,REP,320
+Johnson,0075 PLEASANT 36,President,,Donald Trump,REP,118
+Johnson,0076 PLEASANT 37,President,,Donald Trump,REP,139
+Johnson,0077 PLEASANT 38,President,,Donald Trump,REP,371
+Johnson,0078 PLEASANT 39,President,,Donald Trump,REP,462
+Johnson,0079 PLEASANT 40,President,,Donald Trump,REP,355
+Johnson,0080 PLEASANT 41,President,,Donald Trump,REP,90
+Johnson,0081 PLEASANT 42,President,,Donald Trump,REP,512
+Johnson,0082 PLEASANT 43,President,,Donald Trump,REP,471
+Johnson,0083 PLEASANT 44,President,,Donald Trump,REP,189
+Johnson,0084 PLEASANT 45,President,,Donald Trump,REP,280
+Johnson,0085 PLEASANT 46,President,,Donald Trump,REP,251
+Johnson,0086 PLEASANT 47,President,,Donald Trump,REP,344
+Johnson,0087 PLEASANT 48,President,,Donald Trump,REP,307
+Johnson,0088 PLEASANT 49,President,,Donald Trump,REP,274
+Johnson,0089 UNION 1,President,,Donald Trump,REP,440
+Johnson,0090 UNION 2,President,,Donald Trump,REP,352
+Johnson,0091 UNION 3,President,,Donald Trump,REP,248
+Johnson,0092 WHITE RIVER 1,President,,Donald Trump,REP,342
+Johnson,0093 WHITE RIVER 2,President,,Donald Trump,REP,151
+Johnson,0094 WHITE RIVER 3,President,,Donald Trump,REP,351
+Johnson,0095 WHITE RIVER 4,President,,Donald Trump,REP,346
+Johnson,0096 WHITE RIVER 5,President,,Donald Trump,REP,289
+Johnson,0097 WHITE RIVER 6,President,,Donald Trump,REP,343
+Johnson,0098 WHITE RIVER 7,President,,Donald Trump,REP,409
+Johnson,0099 WHITE RIVER 8,President,,Donald Trump,REP,471
+Johnson,0100 WHITE RIVER 9,President,,Donald Trump,REP,527
+Johnson,0101 WHITE RIVER 10,President,,Donald Trump,REP,276
+Johnson,0102 WHITE RIVER 11,President,,Donald Trump,REP,433
+Johnson,0103 WHITE RIVER 12,President,,Donald Trump,REP,390
+Johnson,0104 WHITE RIVER 13,President,,Donald Trump,REP,318
+Johnson,0105 WHITE RIVER 14,President,,Donald Trump,REP,495
+Johnson,0106 WHITE RIVER 15,President,,Donald Trump,REP,747
+Johnson,0107 WHITE RIVER 16,President,,Donald Trump,REP,504
+Johnson,0108 WHITE RIVER 17,President,,Donald Trump,REP,284
+Johnson,0109 WHITE RIVER 18,President,,Donald Trump,REP,281
+Johnson,0110 WHITE RIVER 19,President,,Donald Trump,REP,307
+Johnson,0111 WHITE RIVER 20,President,,Donald Trump,REP,319
+Johnson,0112 WHITE RIVER 21,President,,Donald Trump,REP,521
+Johnson,0113 WHITE RIVER 22,President,,Donald Trump,REP,432
+Johnson,0114 WHITE RIVER 23,President,,Donald Trump,REP,200
+Johnson,0115 WHITE RIVER 24,President,,Donald Trump,REP,334
+Johnson,0116 WHITE RIVER 25,President,,Donald Trump,REP,354
+Johnson,0117 WHITE RIVER 26,President,,Donald Trump,REP,264
+Johnson,0118 WHITE RIVER 27,President,,Donald Trump,REP,345
+Johnson,0119 WHITE RIVER 28,President,,Donald Trump,REP,252
+Johnson,0120 WHITE RIVER 29,President,,Donald Trump,REP,554
+Johnson,0121 WHITE RIVER 30,President,,Donald Trump,REP,280
+Johnson,0122 WHITE RIVER 31,President,,Donald Trump,REP,240
+Johnson,0123 WHITE RIVER 32,President,,Donald Trump,REP,485
+Johnson,0124 WHITE RIVER 33,President,,Donald Trump,REP,308
+Johnson,0125 WHITE RIVER 34,President,,Donald Trump,REP,417
+Johnson,0126 WHITE RIVER 35,President,,Donald Trump,REP,829
+Johnson,0127 WHITE RIVER 36,President,,Donald Trump,REP,271
+Johnson,0128 WHITE RIVER 37,President,,Donald Trump,REP,625
+Johnson,0129 WHITE RIVER 38,President,,Donald Trump,REP,300
+Johnson,0130 WHITE RIVER 39,President,,Donald Trump,REP,479
+Johnson,0131 WHITE RIVER 40,President,,Donald Trump,REP,319
+Johnson,0132 WHITE RIVER 41,President,,Donald Trump,REP,283
+Johnson,0133 WHITE RIVER 42,President,,Donald Trump,REP,322
+Johnson,0134 WHITE RIVER 43,President,,Donald Trump,REP,216
+Johnson,,President,,Donald Trump,REP,45456
+Johnson,0001 BLUE RIVER 1,President,,Hillary Clinton,DEM,49
+Johnson,0002 BLUE RIVER 2,President,,Hillary Clinton,DEM,70
+Johnson,0003 BLUE RIVER 3,President,,Hillary Clinton,DEM,68
+Johnson,0004 BLUE RIVER 4,President,,Hillary Clinton,DEM,65
+Johnson,0005 BLUE RIVER 5,President,,Hillary Clinton,DEM,57
+Johnson,0006 CLARK 1,President,,Hillary Clinton,DEM,44
+Johnson,0007 CLARK 2,President,,Hillary Clinton,DEM,95
+Johnson,0008 CLARK 3,President,,Hillary Clinton,DEM,163
+Johnson,0009 FRANKLIN 1,President,,Hillary Clinton,DEM,145
+Johnson,0010 FRANKLIN 2,President,,Hillary Clinton,DEM,146
+Johnson,0011 FRANKLIN 3,President,,Hillary Clinton,DEM,77
+Johnson,0012 FRANKLIN 4,President,,Hillary Clinton,DEM,130
+Johnson,0013 FRANKLIN 5,President,,Hillary Clinton,DEM,84
+Johnson,0014 FRANKLIN 6,President,,Hillary Clinton,DEM,134
+Johnson,0015 FRANKLIN 7,President,,Hillary Clinton,DEM,135
+Johnson,0016 FRANKLIN 8,President,,Hillary Clinton,DEM,48
+Johnson,0017 FRANKLIN 9,President,,Hillary Clinton,DEM,182
+Johnson,0018 FRANKLIN 10,President,,Hillary Clinton,DEM,78
+Johnson,0019 FRANKLIN 11,President,,Hillary Clinton,DEM,85
+Johnson,0020 FRANKLIN 12,President,,Hillary Clinton,DEM,37
+Johnson,0021 FRANKLIN 13,President,,Hillary Clinton,DEM,60
+Johnson,0022 FRANKLIN 14,President,,Hillary Clinton,DEM,80
+Johnson,0023 FRANKLIN 15,President,,Hillary Clinton,DEM,111
+Johnson,0024 FRANKLIN 16,President,,Hillary Clinton,DEM,167
+Johnson,0025 FRANKLIN 17,President,,Hillary Clinton,DEM,133
+Johnson,0026 FRANKLIN 18,President,,Hillary Clinton,DEM,106
+Johnson,0027 FRANKLIN 19,President,,Hillary Clinton,DEM,133
+Johnson,0028 FRANKLIN 20,President,,Hillary Clinton,DEM,88
+Johnson,0029 HENSLEY 1,President,,Hillary Clinton,DEM,47
+Johnson,0030 HENSLEY 2,President,,Hillary Clinton,DEM,159
+Johnson,0031 HENSLEY 3,President,,Hillary Clinton,DEM,95
+Johnson,0032 NEEDHAM 1,President,,Hillary Clinton,DEM,127
+Johnson,0033 NEEDHAM 2,President,,Hillary Clinton,DEM,216
+Johnson,0034 NEEDHAM 3,President,,Hillary Clinton,DEM,78
+Johnson,0035 NEEDHAM 4,President,,Hillary Clinton,DEM,173
+Johnson,0036 NEEDHAM 5,President,,Hillary Clinton,DEM,205
+Johnson,0037 NINEVEH 1,President,,Hillary Clinton,DEM,138
+Johnson,0038 NINEVEH 2,President,,Hillary Clinton,DEM,113
+Johnson,0039 NINEVEH 3,President,,Hillary Clinton,DEM,61
+Johnson,0040 PLEASANT 1,President,,Hillary Clinton,DEM,92
+Johnson,0041 PLEASANT 2,President,,Hillary Clinton,DEM,107
+Johnson,0042 PLEASANT 3,President,,Hillary Clinton,DEM,161
+Johnson,0043 PLEASANT 4,President,,Hillary Clinton,DEM,106
+Johnson,0044 PLEASANT 5,President,,Hillary Clinton,DEM,64
+Johnson,0045 PLEASANT 6,President,,Hillary Clinton,DEM,88
+Johnson,0046 PLEASANT 7,President,,Hillary Clinton,DEM,111
+Johnson,0047 PLEASANT 8,President,,Hillary Clinton,DEM,119
+Johnson,0048 PLEASANT 9,President,,Hillary Clinton,DEM,118
+Johnson,0049 PLEASANT 10,President,,Hillary Clinton,DEM,64
+Johnson,0050 PLEASANT 11,President,,Hillary Clinton,DEM,204
+Johnson,0051 PLEASANT 12,President,,Hillary Clinton,DEM,112
+Johnson,0052 PLEASANT 13,President,,Hillary Clinton,DEM,262
+Johnson,0053 PLEASANT 14,President,,Hillary Clinton,DEM,156
+Johnson,0054 PLEASANT 15,President,,Hillary Clinton,DEM,56
+Johnson,0055 PLEASANT 16,President,,Hillary Clinton,DEM,114
+Johnson,0056 PLEASANT 17,President,,Hillary Clinton,DEM,178
+Johnson,0057 PLEASANT 18,President,,Hillary Clinton,DEM,101
+Johnson,0058 PLEASANT 19,President,,Hillary Clinton,DEM,202
+Johnson,0059 PLEASANT 20,President,,Hillary Clinton,DEM,72
+Johnson,0060 PLEASANT 21,President,,Hillary Clinton,DEM,139
+Johnson,0061 PLEASANT 22,President,,Hillary Clinton,DEM,366
+Johnson,0062 PLEASANT 23,President,,Hillary Clinton,DEM,51
+Johnson,0063 PLEASANT 24,President,,Hillary Clinton,DEM,54
+Johnson,0064 PLEASANT 25,President,,Hillary Clinton,DEM,56
+Johnson,0065 PLEASANT 26,President,,Hillary Clinton,DEM,68
+Johnson,0066 PLEASANT 27,President,,Hillary Clinton,DEM,72
+Johnson,0067 PLEASANT 28,President,,Hillary Clinton,DEM,164
+Johnson,0068 PLEASANT 29,President,,Hillary Clinton,DEM,101
+Johnson,0069 PLEASANT 30,President,,Hillary Clinton,DEM,135
+Johnson,0070 PLEASANT 31,President,,Hillary Clinton,DEM,117
+Johnson,0071 PLEASANT 32,President,,Hillary Clinton,DEM,98
+Johnson,0072 PLEASANT 33,President,,Hillary Clinton,DEM,184
+Johnson,0073 PLEASANT 34,President,,Hillary Clinton,DEM,83
+Johnson,0074 PLEASANT 35,President,,Hillary Clinton,DEM,111
+Johnson,0075 PLEASANT 36,President,,Hillary Clinton,DEM,52
+Johnson,0076 PLEASANT 37,President,,Hillary Clinton,DEM,75
+Johnson,0077 PLEASANT 38,President,,Hillary Clinton,DEM,166
+Johnson,0078 PLEASANT 39,President,,Hillary Clinton,DEM,176
+Johnson,0079 PLEASANT 40,President,,Hillary Clinton,DEM,158
+Johnson,0080 PLEASANT 41,President,,Hillary Clinton,DEM,22
+Johnson,0081 PLEASANT 42,President,,Hillary Clinton,DEM,256
+Johnson,0082 PLEASANT 43,President,,Hillary Clinton,DEM,193
+Johnson,0083 PLEASANT 44,President,,Hillary Clinton,DEM,109
+Johnson,0084 PLEASANT 45,President,,Hillary Clinton,DEM,326
+Johnson,0085 PLEASANT 46,President,,Hillary Clinton,DEM,59
+Johnson,0086 PLEASANT 47,President,,Hillary Clinton,DEM,183
+Johnson,0087 PLEASANT 48,President,,Hillary Clinton,DEM,201
+Johnson,0088 PLEASANT 49,President,,Hillary Clinton,DEM,122
+Johnson,0089 UNION 1,President,,Hillary Clinton,DEM,95
+Johnson,0090 UNION 2,President,,Hillary Clinton,DEM,79
+Johnson,0091 UNION 3,President,,Hillary Clinton,DEM,74
+Johnson,0092 WHITE RIVER 1,President,,Hillary Clinton,DEM,118
+Johnson,0093 WHITE RIVER 2,President,,Hillary Clinton,DEM,59
+Johnson,0094 WHITE RIVER 3,President,,Hillary Clinton,DEM,178
+Johnson,0095 WHITE RIVER 4,President,,Hillary Clinton,DEM,119
+Johnson,0096 WHITE RIVER 5,President,,Hillary Clinton,DEM,98
+Johnson,0097 WHITE RIVER 6,President,,Hillary Clinton,DEM,114
+Johnson,0098 WHITE RIVER 7,President,,Hillary Clinton,DEM,187
+Johnson,0099 WHITE RIVER 8,President,,Hillary Clinton,DEM,158
+Johnson,0100 WHITE RIVER 9,President,,Hillary Clinton,DEM,182
+Johnson,0101 WHITE RIVER 10,President,,Hillary Clinton,DEM,114
+Johnson,0102 WHITE RIVER 11,President,,Hillary Clinton,DEM,168
+Johnson,0103 WHITE RIVER 12,President,,Hillary Clinton,DEM,152
+Johnson,0104 WHITE RIVER 13,President,,Hillary Clinton,DEM,120
+Johnson,0105 WHITE RIVER 14,President,,Hillary Clinton,DEM,212
+Johnson,0106 WHITE RIVER 15,President,,Hillary Clinton,DEM,288
+Johnson,0107 WHITE RIVER 16,President,,Hillary Clinton,DEM,206
+Johnson,0108 WHITE RIVER 17,President,,Hillary Clinton,DEM,120
+Johnson,0109 WHITE RIVER 18,President,,Hillary Clinton,DEM,127
+Johnson,0110 WHITE RIVER 19,President,,Hillary Clinton,DEM,129
+Johnson,0111 WHITE RIVER 20,President,,Hillary Clinton,DEM,91
+Johnson,0112 WHITE RIVER 21,President,,Hillary Clinton,DEM,239
+Johnson,0113 WHITE RIVER 22,President,,Hillary Clinton,DEM,191
+Johnson,0114 WHITE RIVER 23,President,,Hillary Clinton,DEM,81
+Johnson,0115 WHITE RIVER 24,President,,Hillary Clinton,DEM,107
+Johnson,0116 WHITE RIVER 25,President,,Hillary Clinton,DEM,163
+Johnson,0117 WHITE RIVER 26,President,,Hillary Clinton,DEM,105
+Johnson,0118 WHITE RIVER 27,President,,Hillary Clinton,DEM,106
+Johnson,0119 WHITE RIVER 28,President,,Hillary Clinton,DEM,95
+Johnson,0120 WHITE RIVER 29,President,,Hillary Clinton,DEM,226
+Johnson,0121 WHITE RIVER 30,President,,Hillary Clinton,DEM,158
+Johnson,0122 WHITE RIVER 31,President,,Hillary Clinton,DEM,130
+Johnson,0123 WHITE RIVER 32,President,,Hillary Clinton,DEM,184
+Johnson,0124 WHITE RIVER 33,President,,Hillary Clinton,DEM,107
+Johnson,0125 WHITE RIVER 34,President,,Hillary Clinton,DEM,145
+Johnson,0126 WHITE RIVER 35,President,,Hillary Clinton,DEM,261
+Johnson,0127 WHITE RIVER 36,President,,Hillary Clinton,DEM,126
+Johnson,0128 WHITE RIVER 37,President,,Hillary Clinton,DEM,342
+Johnson,0129 WHITE RIVER 38,President,,Hillary Clinton,DEM,119
+Johnson,0130 WHITE RIVER 39,President,,Hillary Clinton,DEM,237
+Johnson,0131 WHITE RIVER 40,President,,Hillary Clinton,DEM,101
+Johnson,0132 WHITE RIVER 41,President,,Hillary Clinton,DEM,138
+Johnson,0133 WHITE RIVER 42,President,,Hillary Clinton,DEM,146
+Johnson,0134 WHITE RIVER 43,President,,Hillary Clinton,DEM,56
+Johnson,,President,,Hillary Clinton,DEM,17317
+Johnson,0001 BLUE RIVER 1,President,,Gary Johnson,LBT,4
+Johnson,0002 BLUE RIVER 2,President,,Gary Johnson,LBT,14
+Johnson,0003 BLUE RIVER 3,President,,Gary Johnson,LBT,13
+Johnson,0004 BLUE RIVER 4,President,,Gary Johnson,LBT,18
+Johnson,0005 BLUE RIVER 5,President,,Gary Johnson,LBT,9
+Johnson,0006 CLARK 1,President,,Gary Johnson,LBT,13
+Johnson,0007 CLARK 2,President,,Gary Johnson,LBT,12
+Johnson,0008 CLARK 3,President,,Gary Johnson,LBT,18
+Johnson,0009 FRANKLIN 1,President,,Gary Johnson,LBT,35
+Johnson,0010 FRANKLIN 2,President,,Gary Johnson,LBT,29
+Johnson,0011 FRANKLIN 3,President,,Gary Johnson,LBT,14
+Johnson,0012 FRANKLIN 4,President,,Gary Johnson,LBT,26
+Johnson,0013 FRANKLIN 5,President,,Gary Johnson,LBT,17
+Johnson,0014 FRANKLIN 6,President,,Gary Johnson,LBT,30
+Johnson,0015 FRANKLIN 7,President,,Gary Johnson,LBT,20
+Johnson,0016 FRANKLIN 8,President,,Gary Johnson,LBT,9
+Johnson,0017 FRANKLIN 9,President,,Gary Johnson,LBT,50
+Johnson,0018 FRANKLIN 10,President,,Gary Johnson,LBT,17
+Johnson,0019 FRANKLIN 11,President,,Gary Johnson,LBT,15
+Johnson,0020 FRANKLIN 12,President,,Gary Johnson,LBT,18
+Johnson,0021 FRANKLIN 13,President,,Gary Johnson,LBT,10
+Johnson,0022 FRANKLIN 14,President,,Gary Johnson,LBT,19
+Johnson,0023 FRANKLIN 15,President,,Gary Johnson,LBT,32
+Johnson,0024 FRANKLIN 16,President,,Gary Johnson,LBT,42
+Johnson,0025 FRANKLIN 17,President,,Gary Johnson,LBT,16
+Johnson,0026 FRANKLIN 18,President,,Gary Johnson,LBT,24
+Johnson,0027 FRANKLIN 19,President,,Gary Johnson,LBT,39
+Johnson,0028 FRANKLIN 20,President,,Gary Johnson,LBT,22
+Johnson,0029 HENSLEY 1,President,,Gary Johnson,LBT,11
+Johnson,0030 HENSLEY 2,President,,Gary Johnson,LBT,29
+Johnson,0031 HENSLEY 3,President,,Gary Johnson,LBT,32
+Johnson,0032 NEEDHAM 1,President,,Gary Johnson,LBT,41
+Johnson,0033 NEEDHAM 2,President,,Gary Johnson,LBT,38
+Johnson,0034 NEEDHAM 3,President,,Gary Johnson,LBT,21
+Johnson,0035 NEEDHAM 4,President,,Gary Johnson,LBT,41
+Johnson,0036 NEEDHAM 5,President,,Gary Johnson,LBT,42
+Johnson,0037 NINEVEH 1,President,,Gary Johnson,LBT,32
+Johnson,0038 NINEVEH 2,President,,Gary Johnson,LBT,41
+Johnson,0039 NINEVEH 3,President,,Gary Johnson,LBT,13
+Johnson,0040 PLEASANT 1,President,,Gary Johnson,LBT,28
+Johnson,0041 PLEASANT 2,President,,Gary Johnson,LBT,26
+Johnson,0042 PLEASANT 3,President,,Gary Johnson,LBT,32
+Johnson,0043 PLEASANT 4,President,,Gary Johnson,LBT,11
+Johnson,0044 PLEASANT 5,President,,Gary Johnson,LBT,16
+Johnson,0045 PLEASANT 6,President,,Gary Johnson,LBT,20
+Johnson,0046 PLEASANT 7,President,,Gary Johnson,LBT,32
+Johnson,0047 PLEASANT 8,President,,Gary Johnson,LBT,19
+Johnson,0048 PLEASANT 9,President,,Gary Johnson,LBT,18
+Johnson,0049 PLEASANT 10,President,,Gary Johnson,LBT,6
+Johnson,0050 PLEASANT 11,President,,Gary Johnson,LBT,42
+Johnson,0051 PLEASANT 12,President,,Gary Johnson,LBT,23
+Johnson,0052 PLEASANT 13,President,,Gary Johnson,LBT,27
+Johnson,0053 PLEASANT 14,President,,Gary Johnson,LBT,41
+Johnson,0054 PLEASANT 15,President,,Gary Johnson,LBT,17
+Johnson,0055 PLEASANT 16,President,,Gary Johnson,LBT,36
+Johnson,0056 PLEASANT 17,President,,Gary Johnson,LBT,26
+Johnson,0057 PLEASANT 18,President,,Gary Johnson,LBT,9
+Johnson,0058 PLEASANT 19,President,,Gary Johnson,LBT,61
+Johnson,0059 PLEASANT 20,President,,Gary Johnson,LBT,19
+Johnson,0060 PLEASANT 21,President,,Gary Johnson,LBT,29
+Johnson,0061 PLEASANT 22,President,,Gary Johnson,LBT,82
+Johnson,0062 PLEASANT 23,President,,Gary Johnson,LBT,9
+Johnson,0063 PLEASANT 24,President,,Gary Johnson,LBT,19
+Johnson,0064 PLEASANT 25,President,,Gary Johnson,LBT,12
+Johnson,0065 PLEASANT 26,President,,Gary Johnson,LBT,7
+Johnson,0066 PLEASANT 27,President,,Gary Johnson,LBT,23
+Johnson,0067 PLEASANT 28,President,,Gary Johnson,LBT,38
+Johnson,0068 PLEASANT 29,President,,Gary Johnson,LBT,25
+Johnson,0069 PLEASANT 30,President,,Gary Johnson,LBT,34
+Johnson,0070 PLEASANT 31,President,,Gary Johnson,LBT,31
+Johnson,0071 PLEASANT 32,President,,Gary Johnson,LBT,11
+Johnson,0072 PLEASANT 33,President,,Gary Johnson,LBT,44
+Johnson,0073 PLEASANT 34,President,,Gary Johnson,LBT,32
+Johnson,0074 PLEASANT 35,President,,Gary Johnson,LBT,19
+Johnson,0075 PLEASANT 36,President,,Gary Johnson,LBT,6
+Johnson,0076 PLEASANT 37,President,,Gary Johnson,LBT,13
+Johnson,0077 PLEASANT 38,President,,Gary Johnson,LBT,26
+Johnson,0078 PLEASANT 39,President,,Gary Johnson,LBT,46
+Johnson,0079 PLEASANT 40,President,,Gary Johnson,LBT,29
+Johnson,0080 PLEASANT 41,President,,Gary Johnson,LBT,6
+Johnson,0081 PLEASANT 42,President,,Gary Johnson,LBT,48
+Johnson,0082 PLEASANT 43,President,,Gary Johnson,LBT,18
+Johnson,0083 PLEASANT 44,President,,Gary Johnson,LBT,29
+Johnson,0084 PLEASANT 45,President,,Gary Johnson,LBT,25
+Johnson,0085 PLEASANT 46,President,,Gary Johnson,LBT,15
+Johnson,0086 PLEASANT 47,President,,Gary Johnson,LBT,31
+Johnson,0087 PLEASANT 48,President,,Gary Johnson,LBT,37
+Johnson,0088 PLEASANT 49,President,,Gary Johnson,LBT,10
+Johnson,0089 UNION 1,President,,Gary Johnson,LBT,28
+Johnson,0090 UNION 2,President,,Gary Johnson,LBT,20
+Johnson,0091 UNION 3,President,,Gary Johnson,LBT,12
+Johnson,0092 WHITE RIVER 1,President,,Gary Johnson,LBT,14
+Johnson,0093 WHITE RIVER 2,President,,Gary Johnson,LBT,14
+Johnson,0094 WHITE RIVER 3,President,,Gary Johnson,LBT,33
+Johnson,0095 WHITE RIVER 4,President,,Gary Johnson,LBT,19
+Johnson,0096 WHITE RIVER 5,President,,Gary Johnson,LBT,13
+Johnson,0097 WHITE RIVER 6,President,,Gary Johnson,LBT,15
+Johnson,0098 WHITE RIVER 7,President,,Gary Johnson,LBT,30
+Johnson,0099 WHITE RIVER 8,President,,Gary Johnson,LBT,30
+Johnson,0100 WHITE RIVER 9,President,,Gary Johnson,LBT,39
+Johnson,0101 WHITE RIVER 10,President,,Gary Johnson,LBT,12
+Johnson,0102 WHITE RIVER 11,President,,Gary Johnson,LBT,35
+Johnson,0103 WHITE RIVER 12,President,,Gary Johnson,LBT,31
+Johnson,0104 WHITE RIVER 13,President,,Gary Johnson,LBT,15
+Johnson,0105 WHITE RIVER 14,President,,Gary Johnson,LBT,40
+Johnson,0106 WHITE RIVER 15,President,,Gary Johnson,LBT,75
+Johnson,0107 WHITE RIVER 16,President,,Gary Johnson,LBT,45
+Johnson,0108 WHITE RIVER 17,President,,Gary Johnson,LBT,25
+Johnson,0109 WHITE RIVER 18,President,,Gary Johnson,LBT,20
+Johnson,0110 WHITE RIVER 19,President,,Gary Johnson,LBT,31
+Johnson,0111 WHITE RIVER 20,President,,Gary Johnson,LBT,16
+Johnson,0112 WHITE RIVER 21,President,,Gary Johnson,LBT,45
+Johnson,0113 WHITE RIVER 22,President,,Gary Johnson,LBT,32
+Johnson,0114 WHITE RIVER 23,President,,Gary Johnson,LBT,18
+Johnson,0115 WHITE RIVER 24,President,,Gary Johnson,LBT,24
+Johnson,0116 WHITE RIVER 25,President,,Gary Johnson,LBT,28
+Johnson,0117 WHITE RIVER 26,President,,Gary Johnson,LBT,15
+Johnson,0118 WHITE RIVER 27,President,,Gary Johnson,LBT,32
+Johnson,0119 WHITE RIVER 28,President,,Gary Johnson,LBT,14
+Johnson,0120 WHITE RIVER 29,President,,Gary Johnson,LBT,46
+Johnson,0121 WHITE RIVER 30,President,,Gary Johnson,LBT,29
+Johnson,0122 WHITE RIVER 31,President,,Gary Johnson,LBT,16
+Johnson,0123 WHITE RIVER 32,President,,Gary Johnson,LBT,34
+Johnson,0124 WHITE RIVER 33,President,,Gary Johnson,LBT,25
+Johnson,0125 WHITE RIVER 34,President,,Gary Johnson,LBT,19
+Johnson,0126 WHITE RIVER 35,President,,Gary Johnson,LBT,51
+Johnson,0127 WHITE RIVER 36,President,,Gary Johnson,LBT,12
+Johnson,0128 WHITE RIVER 37,President,,Gary Johnson,LBT,67
+Johnson,0129 WHITE RIVER 38,President,,Gary Johnson,LBT,17
+Johnson,0130 WHITE RIVER 39,President,,Gary Johnson,LBT,40
+Johnson,0131 WHITE RIVER 40,President,,Gary Johnson,LBT,9
+Johnson,0132 WHITE RIVER 41,President,,Gary Johnson,LBT,32
+Johnson,0133 WHITE RIVER 42,President,,Gary Johnson,LBT,29
+Johnson,0134 WHITE RIVER 43,President,,Gary Johnson,LBT,20
+Johnson,,President,,Gary Johnson,LBT,3455
+Johnson,0001 BLUE RIVER 1,President,,Write-ins,,2
+Johnson,0002 BLUE RIVER 2,President,,Write-ins,,5
+Johnson,0003 BLUE RIVER 3,President,,Write-ins,,4
+Johnson,0004 BLUE RIVER 4,President,,Write-ins,,1
+Johnson,0005 BLUE RIVER 5,President,,Write-ins,,2
+Johnson,0006 CLARK 1,President,,Write-ins,,4
+Johnson,0007 CLARK 2,President,,Write-ins,,8
+Johnson,0008 CLARK 3,President,,Write-ins,,4
+Johnson,0009 FRANKLIN 1,President,,Write-ins,,9
+Johnson,0010 FRANKLIN 2,President,,Write-ins,,17
+Johnson,0011 FRANKLIN 3,President,,Write-ins,,1
+Johnson,0012 FRANKLIN 4,President,,Write-ins,,4
+Johnson,0013 FRANKLIN 5,President,,Write-ins,,4
+Johnson,0014 FRANKLIN 6,President,,Write-ins,,3
+Johnson,0015 FRANKLIN 7,President,,Write-ins,,10
+Johnson,0016 FRANKLIN 8,President,,Write-ins,,2
+Johnson,0017 FRANKLIN 9,President,,Write-ins,,10
+Johnson,0018 FRANKLIN 10,President,,Write-ins,,3
+Johnson,0019 FRANKLIN 11,President,,Write-ins,,1
+Johnson,0020 FRANKLIN 12,President,,Write-ins,,7
+Johnson,0021 FRANKLIN 13,President,,Write-ins,,1
+Johnson,0022 FRANKLIN 14,President,,Write-ins,,0
+Johnson,0023 FRANKLIN 15,President,,Write-ins,,7
+Johnson,0024 FRANKLIN 16,President,,Write-ins,,13
+Johnson,0025 FRANKLIN 17,President,,Write-ins,,5
+Johnson,0026 FRANKLIN 18,President,,Write-ins,,2
+Johnson,0027 FRANKLIN 19,President,,Write-ins,,6
+Johnson,0028 FRANKLIN 20,President,,Write-ins,,7
+Johnson,0029 HENSLEY 1,President,,Write-ins,,6
+Johnson,0030 HENSLEY 2,President,,Write-ins,,4
+Johnson,0031 HENSLEY 3,President,,Write-ins,,1
+Johnson,0032 NEEDHAM 1,President,,Write-ins,,14
+Johnson,0033 NEEDHAM 2,President,,Write-ins,,8
+Johnson,0034 NEEDHAM 3,President,,Write-ins,,1
+Johnson,0035 NEEDHAM 4,President,,Write-ins,,13
+Johnson,0036 NEEDHAM 5,President,,Write-ins,,12
+Johnson,0037 NINEVEH 1,President,,Write-ins,,7
+Johnson,0038 NINEVEH 2,President,,Write-ins,,7
+Johnson,0039 NINEVEH 3,President,,Write-ins,,5
+Johnson,0040 PLEASANT 1,President,,Write-ins,,9
+Johnson,0041 PLEASANT 2,President,,Write-ins,,7
+Johnson,0042 PLEASANT 3,President,,Write-ins,,5
+Johnson,0043 PLEASANT 4,President,,Write-ins,,7
+Johnson,0044 PLEASANT 5,President,,Write-ins,,4
+Johnson,0045 PLEASANT 6,President,,Write-ins,,1
+Johnson,0046 PLEASANT 7,President,,Write-ins,,10
+Johnson,0047 PLEASANT 8,President,,Write-ins,,3
+Johnson,0048 PLEASANT 9,President,,Write-ins,,7
+Johnson,0049 PLEASANT 10,President,,Write-ins,,2
+Johnson,0050 PLEASANT 11,President,,Write-ins,,13
+Johnson,0051 PLEASANT 12,President,,Write-ins,,7
+Johnson,0052 PLEASANT 13,President,,Write-ins,,11
+Johnson,0053 PLEASANT 14,President,,Write-ins,,14
+Johnson,0054 PLEASANT 15,President,,Write-ins,,6
+Johnson,0055 PLEASANT 16,President,,Write-ins,,12
+Johnson,0056 PLEASANT 17,President,,Write-ins,,13
+Johnson,0057 PLEASANT 18,President,,Write-ins,,5
+Johnson,0058 PLEASANT 19,President,,Write-ins,,10
+Johnson,0059 PLEASANT 20,President,,Write-ins,,5
+Johnson,0060 PLEASANT 21,President,,Write-ins,,5
+Johnson,0061 PLEASANT 22,President,,Write-ins,,24
+Johnson,0062 PLEASANT 23,President,,Write-ins,,3
+Johnson,0063 PLEASANT 24,President,,Write-ins,,6
+Johnson,0064 PLEASANT 25,President,,Write-ins,,2
+Johnson,0065 PLEASANT 26,President,,Write-ins,,6
+Johnson,0066 PLEASANT 27,President,,Write-ins,,7
+Johnson,0067 PLEASANT 28,President,,Write-ins,,9
+Johnson,0068 PLEASANT 29,President,,Write-ins,,5
+Johnson,0069 PLEASANT 30,President,,Write-ins,,6
+Johnson,0070 PLEASANT 31,President,,Write-ins,,4
+Johnson,0071 PLEASANT 32,President,,Write-ins,,8
+Johnson,0072 PLEASANT 33,President,,Write-ins,,14
+Johnson,0073 PLEASANT 34,President,,Write-ins,,4
+Johnson,0074 PLEASANT 35,President,,Write-ins,,7
+Johnson,0075 PLEASANT 36,President,,Write-ins,,4
+Johnson,0076 PLEASANT 37,President,,Write-ins,,6
+Johnson,0077 PLEASANT 38,President,,Write-ins,,9
+Johnson,0078 PLEASANT 39,President,,Write-ins,,11
+Johnson,0079 PLEASANT 40,President,,Write-ins,,8
+Johnson,0080 PLEASANT 41,President,,Write-ins,,1
+Johnson,0081 PLEASANT 42,President,,Write-ins,,8
+Johnson,0082 PLEASANT 43,President,,Write-ins,,3
+Johnson,0083 PLEASANT 44,President,,Write-ins,,5
+Johnson,0084 PLEASANT 45,President,,Write-ins,,14
+Johnson,0085 PLEASANT 46,President,,Write-ins,,2
+Johnson,0086 PLEASANT 47,President,,Write-ins,,10
+Johnson,0087 PLEASANT 48,President,,Write-ins,,13
+Johnson,0088 PLEASANT 49,President,,Write-ins,,5
+Johnson,0089 UNION 1,President,,Write-ins,,4
+Johnson,0090 UNION 2,President,,Write-ins,,0
+Johnson,0091 UNION 3,President,,Write-ins,,8
+Johnson,0092 WHITE RIVER 1,President,,Write-ins,,7
+Johnson,0093 WHITE RIVER 2,President,,Write-ins,,11
+Johnson,0094 WHITE RIVER 3,President,,Write-ins,,11
+Johnson,0095 WHITE RIVER 4,President,,Write-ins,,6
+Johnson,0096 WHITE RIVER 5,President,,Write-ins,,7
+Johnson,0097 WHITE RIVER 6,President,,Write-ins,,6
+Johnson,0098 WHITE RIVER 7,President,,Write-ins,,8
+Johnson,0099 WHITE RIVER 8,President,,Write-ins,,8
+Johnson,0100 WHITE RIVER 9,President,,Write-ins,,4
+Johnson,0101 WHITE RIVER 10,President,,Write-ins,,5
+Johnson,0102 WHITE RIVER 11,President,,Write-ins,,9
+Johnson,0103 WHITE RIVER 12,President,,Write-ins,,11
+Johnson,0104 WHITE RIVER 13,President,,Write-ins,,5
+Johnson,0105 WHITE RIVER 14,President,,Write-ins,,6
+Johnson,0106 WHITE RIVER 15,President,,Write-ins,,22
+Johnson,0107 WHITE RIVER 16,President,,Write-ins,,8
+Johnson,0108 WHITE RIVER 17,President,,Write-ins,,4
+Johnson,0109 WHITE RIVER 18,President,,Write-ins,,4
+Johnson,0110 WHITE RIVER 19,President,,Write-ins,,5
+Johnson,0111 WHITE RIVER 20,President,,Write-ins,,5
+Johnson,0112 WHITE RIVER 21,President,,Write-ins,,6
+Johnson,0113 WHITE RIVER 22,President,,Write-ins,,14
+Johnson,0114 WHITE RIVER 23,President,,Write-ins,,3
+Johnson,0115 WHITE RIVER 24,President,,Write-ins,,3
+Johnson,0116 WHITE RIVER 25,President,,Write-ins,,13
+Johnson,0117 WHITE RIVER 26,President,,Write-ins,,3
+Johnson,0118 WHITE RIVER 27,President,,Write-ins,,5
+Johnson,0119 WHITE RIVER 28,President,,Write-ins,,3
+Johnson,0120 WHITE RIVER 29,President,,Write-ins,,11
+Johnson,0121 WHITE RIVER 30,President,,Write-ins,,6
+Johnson,0122 WHITE RIVER 31,President,,Write-ins,,1
+Johnson,0123 WHITE RIVER 32,President,,Write-ins,,11
+Johnson,0124 WHITE RIVER 33,President,,Write-ins,,6
+Johnson,0125 WHITE RIVER 34,President,,Write-ins,,12
+Johnson,0126 WHITE RIVER 35,President,,Write-ins,,10
+Johnson,0127 WHITE RIVER 36,President,,Write-ins,,9
+Johnson,0128 WHITE RIVER 37,President,,Write-ins,,21
+Johnson,0129 WHITE RIVER 38,President,,Write-ins,,5
+Johnson,0130 WHITE RIVER 39,President,,Write-ins,,8
+Johnson,0131 WHITE RIVER 40,President,,Write-ins,,4
+Johnson,0132 WHITE RIVER 41,President,,Write-ins,,8
+Johnson,0133 WHITE RIVER 42,President,,Write-ins,,8
+Johnson,0134 WHITE RIVER 43,President,,Write-ins,,4
+Johnson,,President,,Write-ins,,918
+Johnson,0001 BLUE RIVER 1,U.S. Senate,,Todd Young,REP,177
+Johnson,0002 BLUE RIVER 2,U.S. Senate,,Todd Young,REP,230
+Johnson,0003 BLUE RIVER 3,U.S. Senate,,Todd Young,REP,303
+Johnson,0004 BLUE RIVER 4,U.S. Senate,,Todd Young,REP,191
+Johnson,0005 BLUE RIVER 5,U.S. Senate,,Todd Young,REP,205
+Johnson,0006 CLARK 1,U.S. Senate,,Todd Young,REP,229
+Johnson,0007 CLARK 2,U.S. Senate,,Todd Young,REP,430
+Johnson,0008 CLARK 3,U.S. Senate,,Todd Young,REP,397
+Johnson,0009 FRANKLIN 1,U.S. Senate,,Todd Young,REP,437
+Johnson,0010 FRANKLIN 2,U.S. Senate,,Todd Young,REP,233
+Johnson,0011 FRANKLIN 3,U.S. Senate,,Todd Young,REP,162
+Johnson,0012 FRANKLIN 4,U.S. Senate,,Todd Young,REP,249
+Johnson,0013 FRANKLIN 5,U.S. Senate,,Todd Young,REP,121
+Johnson,0014 FRANKLIN 6,U.S. Senate,,Todd Young,REP,267
+Johnson,0015 FRANKLIN 7,U.S. Senate,,Todd Young,REP,198
+Johnson,0016 FRANKLIN 8,U.S. Senate,,Todd Young,REP,139
+Johnson,0017 FRANKLIN 9,U.S. Senate,,Todd Young,REP,527
+Johnson,0018 FRANKLIN 10,U.S. Senate,,Todd Young,REP,208
+Johnson,0019 FRANKLIN 11,U.S. Senate,,Todd Young,REP,209
+Johnson,0020 FRANKLIN 12,U.S. Senate,,Todd Young,REP,116
+Johnson,0021 FRANKLIN 13,U.S. Senate,,Todd Young,REP,163
+Johnson,0022 FRANKLIN 14,U.S. Senate,,Todd Young,REP,138
+Johnson,0023 FRANKLIN 15,U.S. Senate,,Todd Young,REP,344
+Johnson,0024 FRANKLIN 16,U.S. Senate,,Todd Young,REP,418
+Johnson,0025 FRANKLIN 17,U.S. Senate,,Todd Young,REP,275
+Johnson,0026 FRANKLIN 18,U.S. Senate,,Todd Young,REP,224
+Johnson,0027 FRANKLIN 19,U.S. Senate,,Todd Young,REP,364
+Johnson,0028 FRANKLIN 20,U.S. Senate,,Todd Young,REP,194
+Johnson,0029 HENSLEY 1,U.S. Senate,,Todd Young,REP,237
+Johnson,0030 HENSLEY 2,U.S. Senate,,Todd Young,REP,550
+Johnson,0031 HENSLEY 3,U.S. Senate,,Todd Young,REP,480
+Johnson,0032 NEEDHAM 1,U.S. Senate,,Todd Young,REP,501
+Johnson,0033 NEEDHAM 2,U.S. Senate,,Todd Young,REP,517
+Johnson,0034 NEEDHAM 3,U.S. Senate,,Todd Young,REP,297
+Johnson,0035 NEEDHAM 4,U.S. Senate,,Todd Young,REP,339
+Johnson,0036 NEEDHAM 5,U.S. Senate,,Todd Young,REP,465
+Johnson,0037 NINEVEH 1,U.S. Senate,,Todd Young,REP,666
+Johnson,0038 NINEVEH 2,U.S. Senate,,Todd Young,REP,491
+Johnson,0039 NINEVEH 3,U.S. Senate,,Todd Young,REP,243
+Johnson,0040 PLEASANT 1,U.S. Senate,,Todd Young,REP,312
+Johnson,0041 PLEASANT 2,U.S. Senate,,Todd Young,REP,259
+Johnson,0042 PLEASANT 3,U.S. Senate,,Todd Young,REP,343
+Johnson,0043 PLEASANT 4,U.S. Senate,,Todd Young,REP,187
+Johnson,0044 PLEASANT 5,U.S. Senate,,Todd Young,REP,135
+Johnson,0045 PLEASANT 6,U.S. Senate,,Todd Young,REP,236
+Johnson,0046 PLEASANT 7,U.S. Senate,,Todd Young,REP,320
+Johnson,0047 PLEASANT 8,U.S. Senate,,Todd Young,REP,276
+Johnson,0048 PLEASANT 9,U.S. Senate,,Todd Young,REP,272
+Johnson,0049 PLEASANT 10,U.S. Senate,,Todd Young,REP,161
+Johnson,0050 PLEASANT 11,U.S. Senate,,Todd Young,REP,514
+Johnson,0051 PLEASANT 12,U.S. Senate,,Todd Young,REP,311
+Johnson,0052 PLEASANT 13,U.S. Senate,,Todd Young,REP,274
+Johnson,0053 PLEASANT 14,U.S. Senate,,Todd Young,REP,500
+Johnson,0054 PLEASANT 15,U.S. Senate,,Todd Young,REP,98
+Johnson,0055 PLEASANT 16,U.S. Senate,,Todd Young,REP,326
+Johnson,0056 PLEASANT 17,U.S. Senate,,Todd Young,REP,306
+Johnson,0057 PLEASANT 18,U.S. Senate,,Todd Young,REP,205
+Johnson,0058 PLEASANT 19,U.S. Senate,,Todd Young,REP,562
+Johnson,0059 PLEASANT 20,U.S. Senate,,Todd Young,REP,153
+Johnson,0060 PLEASANT 21,U.S. Senate,,Todd Young,REP,503
+Johnson,0061 PLEASANT 22,U.S. Senate,,Todd Young,REP,871
+Johnson,0062 PLEASANT 23,U.S. Senate,,Todd Young,REP,110
+Johnson,0063 PLEASANT 24,U.S. Senate,,Todd Young,REP,143
+Johnson,0064 PLEASANT 25,U.S. Senate,,Todd Young,REP,83
+Johnson,0065 PLEASANT 26,U.S. Senate,,Todd Young,REP,129
+Johnson,0066 PLEASANT 27,U.S. Senate,,Todd Young,REP,153
+Johnson,0067 PLEASANT 28,U.S. Senate,,Todd Young,REP,442
+Johnson,0068 PLEASANT 29,U.S. Senate,,Todd Young,REP,199
+Johnson,0069 PLEASANT 30,U.S. Senate,,Todd Young,REP,260
+Johnson,0070 PLEASANT 31,U.S. Senate,,Todd Young,REP,463
+Johnson,0071 PLEASANT 32,U.S. Senate,,Todd Young,REP,197
+Johnson,0072 PLEASANT 33,U.S. Senate,,Todd Young,REP,479
+Johnson,0073 PLEASANT 34,U.S. Senate,,Todd Young,REP,333
+Johnson,0074 PLEASANT 35,U.S. Senate,,Todd Young,REP,313
+Johnson,0075 PLEASANT 36,U.S. Senate,,Todd Young,REP,113
+Johnson,0076 PLEASANT 37,U.S. Senate,,Todd Young,REP,128
+Johnson,0077 PLEASANT 38,U.S. Senate,,Todd Young,REP,337
+Johnson,0078 PLEASANT 39,U.S. Senate,,Todd Young,REP,434
+Johnson,0079 PLEASANT 40,U.S. Senate,,Todd Young,REP,343
+Johnson,0080 PLEASANT 41,U.S. Senate,,Todd Young,REP,86
+Johnson,0081 PLEASANT 42,U.S. Senate,,Todd Young,REP,500
+Johnson,0082 PLEASANT 43,U.S. Senate,,Todd Young,REP,447
+Johnson,0083 PLEASANT 44,U.S. Senate,,Todd Young,REP,184
+Johnson,0084 PLEASANT 45,U.S. Senate,,Todd Young,REP,286
+Johnson,0085 PLEASANT 46,U.S. Senate,,Todd Young,REP,225
+Johnson,0086 PLEASANT 47,U.S. Senate,,Todd Young,REP,334
+Johnson,0087 PLEASANT 48,U.S. Senate,,Todd Young,REP,297
+Johnson,0088 PLEASANT 49,U.S. Senate,,Todd Young,REP,240
+Johnson,0089 UNION 1,U.S. Senate,,Todd Young,REP,404
+Johnson,0090 UNION 2,U.S. Senate,,Todd Young,REP,320
+Johnson,0091 UNION 3,U.S. Senate,,Todd Young,REP,220
+Johnson,0092 WHITE RIVER 1,U.S. Senate,,Todd Young,REP,341
+Johnson,0093 WHITE RIVER 2,U.S. Senate,,Todd Young,REP,153
+Johnson,0094 WHITE RIVER 3,U.S. Senate,,Todd Young,REP,341
+Johnson,0095 WHITE RIVER 4,U.S. Senate,,Todd Young,REP,342
+Johnson,0096 WHITE RIVER 5,U.S. Senate,,Todd Young,REP,254
+Johnson,0097 WHITE RIVER 6,U.S. Senate,,Todd Young,REP,321
+Johnson,0098 WHITE RIVER 7,U.S. Senate,,Todd Young,REP,403
+Johnson,0099 WHITE RIVER 8,U.S. Senate,,Todd Young,REP,467
+Johnson,0100 WHITE RIVER 9,U.S. Senate,,Todd Young,REP,470
+Johnson,0101 WHITE RIVER 10,U.S. Senate,,Todd Young,REP,293
+Johnson,0102 WHITE RIVER 11,U.S. Senate,,Todd Young,REP,433
+Johnson,0103 WHITE RIVER 12,U.S. Senate,,Todd Young,REP,376
+Johnson,0104 WHITE RIVER 13,U.S. Senate,,Todd Young,REP,303
+Johnson,0105 WHITE RIVER 14,U.S. Senate,,Todd Young,REP,504
+Johnson,0106 WHITE RIVER 15,U.S. Senate,,Todd Young,REP,763
+Johnson,0107 WHITE RIVER 16,U.S. Senate,,Todd Young,REP,501
+Johnson,0108 WHITE RIVER 17,U.S. Senate,,Todd Young,REP,283
+Johnson,0109 WHITE RIVER 18,U.S. Senate,,Todd Young,REP,282
+Johnson,0110 WHITE RIVER 19,U.S. Senate,,Todd Young,REP,283
+Johnson,0111 WHITE RIVER 20,U.S. Senate,,Todd Young,REP,315
+Johnson,0112 WHITE RIVER 21,U.S. Senate,,Todd Young,REP,540
+Johnson,0113 WHITE RIVER 22,U.S. Senate,,Todd Young,REP,457
+Johnson,0114 WHITE RIVER 23,U.S. Senate,,Todd Young,REP,204
+Johnson,0115 WHITE RIVER 24,U.S. Senate,,Todd Young,REP,352
+Johnson,0116 WHITE RIVER 25,U.S. Senate,,Todd Young,REP,324
+Johnson,0117 WHITE RIVER 26,U.S. Senate,,Todd Young,REP,245
+Johnson,0118 WHITE RIVER 27,U.S. Senate,,Todd Young,REP,324
+Johnson,0119 WHITE RIVER 28,U.S. Senate,,Todd Young,REP,265
+Johnson,0120 WHITE RIVER 29,U.S. Senate,,Todd Young,REP,543
+Johnson,0121 WHITE RIVER 30,U.S. Senate,,Todd Young,REP,266
+Johnson,0122 WHITE RIVER 31,U.S. Senate,,Todd Young,REP,225
+Johnson,0123 WHITE RIVER 32,U.S. Senate,,Todd Young,REP,497
+Johnson,0124 WHITE RIVER 33,U.S. Senate,,Todd Young,REP,299
+Johnson,0125 WHITE RIVER 34,U.S. Senate,,Todd Young,REP,442
+Johnson,0126 WHITE RIVER 35,U.S. Senate,,Todd Young,REP,821
+Johnson,0127 WHITE RIVER 36,U.S. Senate,,Todd Young,REP,253
+Johnson,0128 WHITE RIVER 37,U.S. Senate,,Todd Young,REP,629
+Johnson,0129 WHITE RIVER 38,U.S. Senate,,Todd Young,REP,307
+Johnson,0130 WHITE RIVER 39,U.S. Senate,,Todd Young,REP,465
+Johnson,0131 WHITE RIVER 40,U.S. Senate,,Todd Young,REP,314
+Johnson,0132 WHITE RIVER 41,U.S. Senate,,Todd Young,REP,309
+Johnson,0133 WHITE RIVER 42,U.S. Senate,,Todd Young,REP,336
+Johnson,0134 WHITE RIVER 43,U.S. Senate,,Todd Young,REP,212
+Johnson,,U.S. Senate,,Todd Young,REP,43317
+Johnson,0001 BLUE RIVER 1,U.S. Senate,,Evan Bayh,DEM,70
+Johnson,0002 BLUE RIVER 2,U.S. Senate,,Evan Bayh,DEM,106
+Johnson,0003 BLUE RIVER 3,U.S. Senate,,Evan Bayh,DEM,98
+Johnson,0004 BLUE RIVER 4,U.S. Senate,,Evan Bayh,DEM,97
+Johnson,0005 BLUE RIVER 5,U.S. Senate,,Evan Bayh,DEM,78
+Johnson,0006 CLARK 1,U.S. Senate,,Evan Bayh,DEM,53
+Johnson,0007 CLARK 2,U.S. Senate,,Evan Bayh,DEM,108
+Johnson,0008 CLARK 3,U.S. Senate,,Evan Bayh,DEM,167
+Johnson,0009 FRANKLIN 1,U.S. Senate,,Evan Bayh,DEM,175
+Johnson,0010 FRANKLIN 2,U.S. Senate,,Evan Bayh,DEM,176
+Johnson,0011 FRANKLIN 3,U.S. Senate,,Evan Bayh,DEM,80
+Johnson,0012 FRANKLIN 4,U.S. Senate,,Evan Bayh,DEM,160
+Johnson,0013 FRANKLIN 5,U.S. Senate,,Evan Bayh,DEM,89
+Johnson,0014 FRANKLIN 6,U.S. Senate,,Evan Bayh,DEM,156
+Johnson,0015 FRANKLIN 7,U.S. Senate,,Evan Bayh,DEM,137
+Johnson,0016 FRANKLIN 8,U.S. Senate,,Evan Bayh,DEM,63
+Johnson,0017 FRANKLIN 9,U.S. Senate,,Evan Bayh,DEM,215
+Johnson,0018 FRANKLIN 10,U.S. Senate,,Evan Bayh,DEM,106
+Johnson,0019 FRANKLIN 11,U.S. Senate,,Evan Bayh,DEM,90
+Johnson,0020 FRANKLIN 12,U.S. Senate,,Evan Bayh,DEM,59
+Johnson,0021 FRANKLIN 13,U.S. Senate,,Evan Bayh,DEM,76
+Johnson,0022 FRANKLIN 14,U.S. Senate,,Evan Bayh,DEM,88
+Johnson,0023 FRANKLIN 15,U.S. Senate,,Evan Bayh,DEM,153
+Johnson,0024 FRANKLIN 16,U.S. Senate,,Evan Bayh,DEM,205
+Johnson,0025 FRANKLIN 17,U.S. Senate,,Evan Bayh,DEM,150
+Johnson,0026 FRANKLIN 18,U.S. Senate,,Evan Bayh,DEM,120
+Johnson,0027 FRANKLIN 19,U.S. Senate,,Evan Bayh,DEM,170
+Johnson,0028 FRANKLIN 20,U.S. Senate,,Evan Bayh,DEM,106
+Johnson,0029 HENSLEY 1,U.S. Senate,,Evan Bayh,DEM,64
+Johnson,0030 HENSLEY 2,U.S. Senate,,Evan Bayh,DEM,201
+Johnson,0031 HENSLEY 3,U.S. Senate,,Evan Bayh,DEM,122
+Johnson,0032 NEEDHAM 1,U.S. Senate,,Evan Bayh,DEM,167
+Johnson,0033 NEEDHAM 2,U.S. Senate,,Evan Bayh,DEM,240
+Johnson,0034 NEEDHAM 3,U.S. Senate,,Evan Bayh,DEM,103
+Johnson,0035 NEEDHAM 4,U.S. Senate,,Evan Bayh,DEM,211
+Johnson,0036 NEEDHAM 5,U.S. Senate,,Evan Bayh,DEM,237
+Johnson,0037 NINEVEH 1,U.S. Senate,,Evan Bayh,DEM,181
+Johnson,0038 NINEVEH 2,U.S. Senate,,Evan Bayh,DEM,163
+Johnson,0039 NINEVEH 3,U.S. Senate,,Evan Bayh,DEM,75
+Johnson,0040 PLEASANT 1,U.S. Senate,,Evan Bayh,DEM,130
+Johnson,0041 PLEASANT 2,U.S. Senate,,Evan Bayh,DEM,135
+Johnson,0042 PLEASANT 3,U.S. Senate,,Evan Bayh,DEM,175
+Johnson,0043 PLEASANT 4,U.S. Senate,,Evan Bayh,DEM,124
+Johnson,0044 PLEASANT 5,U.S. Senate,,Evan Bayh,DEM,82
+Johnson,0045 PLEASANT 6,U.S. Senate,,Evan Bayh,DEM,109
+Johnson,0046 PLEASANT 7,U.S. Senate,,Evan Bayh,DEM,143
+Johnson,0047 PLEASANT 8,U.S. Senate,,Evan Bayh,DEM,129
+Johnson,0048 PLEASANT 9,U.S. Senate,,Evan Bayh,DEM,136
+Johnson,0049 PLEASANT 10,U.S. Senate,,Evan Bayh,DEM,82
+Johnson,0050 PLEASANT 11,U.S. Senate,,Evan Bayh,DEM,240
+Johnson,0051 PLEASANT 12,U.S. Senate,,Evan Bayh,DEM,123
+Johnson,0052 PLEASANT 13,U.S. Senate,,Evan Bayh,DEM,270
+Johnson,0053 PLEASANT 14,U.S. Senate,,Evan Bayh,DEM,184
+Johnson,0054 PLEASANT 15,U.S. Senate,,Evan Bayh,DEM,76
+Johnson,0055 PLEASANT 16,U.S. Senate,,Evan Bayh,DEM,135
+Johnson,0056 PLEASANT 17,U.S. Senate,,Evan Bayh,DEM,198
+Johnson,0057 PLEASANT 18,U.S. Senate,,Evan Bayh,DEM,112
+Johnson,0058 PLEASANT 19,U.S. Senate,,Evan Bayh,DEM,248
+Johnson,0059 PLEASANT 20,U.S. Senate,,Evan Bayh,DEM,83
+Johnson,0060 PLEASANT 21,U.S. Senate,,Evan Bayh,DEM,169
+Johnson,0061 PLEASANT 22,U.S. Senate,,Evan Bayh,DEM,412
+Johnson,0062 PLEASANT 23,U.S. Senate,,Evan Bayh,DEM,56
+Johnson,0063 PLEASANT 24,U.S. Senate,,Evan Bayh,DEM,67
+Johnson,0064 PLEASANT 25,U.S. Senate,,Evan Bayh,DEM,61
+Johnson,0065 PLEASANT 26,U.S. Senate,,Evan Bayh,DEM,85
+Johnson,0066 PLEASANT 27,U.S. Senate,,Evan Bayh,DEM,83
+Johnson,0067 PLEASANT 28,U.S. Senate,,Evan Bayh,DEM,193
+Johnson,0068 PLEASANT 29,U.S. Senate,,Evan Bayh,DEM,122
+Johnson,0069 PLEASANT 30,U.S. Senate,,Evan Bayh,DEM,155
+Johnson,0070 PLEASANT 31,U.S. Senate,,Evan Bayh,DEM,159
+Johnson,0071 PLEASANT 32,U.S. Senate,,Evan Bayh,DEM,124
+Johnson,0072 PLEASANT 33,U.S. Senate,,Evan Bayh,DEM,217
+Johnson,0073 PLEASANT 34,U.S. Senate,,Evan Bayh,DEM,109
+Johnson,0074 PLEASANT 35,U.S. Senate,,Evan Bayh,DEM,125
+Johnson,0075 PLEASANT 36,U.S. Senate,,Evan Bayh,DEM,59
+Johnson,0076 PLEASANT 37,U.S. Senate,,Evan Bayh,DEM,80
+Johnson,0077 PLEASANT 38,U.S. Senate,,Evan Bayh,DEM,185
+Johnson,0078 PLEASANT 39,U.S. Senate,,Evan Bayh,DEM,207
+Johnson,0079 PLEASANT 40,U.S. Senate,,Evan Bayh,DEM,174
+Johnson,0080 PLEASANT 41,U.S. Senate,,Evan Bayh,DEM,26
+Johnson,0081 PLEASANT 42,U.S. Senate,,Evan Bayh,DEM,276
+Johnson,0082 PLEASANT 43,U.S. Senate,,Evan Bayh,DEM,216
+Johnson,0083 PLEASANT 44,U.S. Senate,,Evan Bayh,DEM,119
+Johnson,0084 PLEASANT 45,U.S. Senate,,Evan Bayh,DEM,324
+Johnson,0085 PLEASANT 46,U.S. Senate,,Evan Bayh,DEM,80
+Johnson,0086 PLEASANT 47,U.S. Senate,,Evan Bayh,DEM,204
+Johnson,0087 PLEASANT 48,U.S. Senate,,Evan Bayh,DEM,213
+Johnson,0088 PLEASANT 49,U.S. Senate,,Evan Bayh,DEM,150
+Johnson,0089 UNION 1,U.S. Senate,,Evan Bayh,DEM,141
+Johnson,0090 UNION 2,U.S. Senate,,Evan Bayh,DEM,106
+Johnson,0091 UNION 3,U.S. Senate,,Evan Bayh,DEM,96
+Johnson,0092 WHITE RIVER 1,U.S. Senate,,Evan Bayh,DEM,127
+Johnson,0093 WHITE RIVER 2,U.S. Senate,,Evan Bayh,DEM,67
+Johnson,0094 WHITE RIVER 3,U.S. Senate,,Evan Bayh,DEM,194
+Johnson,0095 WHITE RIVER 4,U.S. Senate,,Evan Bayh,DEM,131
+Johnson,0096 WHITE RIVER 5,U.S. Senate,,Evan Bayh,DEM,123
+Johnson,0097 WHITE RIVER 6,U.S. Senate,,Evan Bayh,DEM,133
+Johnson,0098 WHITE RIVER 7,U.S. Senate,,Evan Bayh,DEM,197
+Johnson,0099 WHITE RIVER 8,U.S. Senate,,Evan Bayh,DEM,176
+Johnson,0100 WHITE RIVER 9,U.S. Senate,,Evan Bayh,DEM,227
+Johnson,0101 WHITE RIVER 10,U.S. Senate,,Evan Bayh,DEM,111
+Johnson,0102 WHITE RIVER 11,U.S. Senate,,Evan Bayh,DEM,183
+Johnson,0103 WHITE RIVER 12,U.S. Senate,,Evan Bayh,DEM,183
+Johnson,0104 WHITE RIVER 13,U.S. Senate,,Evan Bayh,DEM,139
+Johnson,0105 WHITE RIVER 14,U.S. Senate,,Evan Bayh,DEM,220
+Johnson,0106 WHITE RIVER 15,U.S. Senate,,Evan Bayh,DEM,306
+Johnson,0107 WHITE RIVER 16,U.S. Senate,,Evan Bayh,DEM,231
+Johnson,0108 WHITE RIVER 17,U.S. Senate,,Evan Bayh,DEM,128
+Johnson,0109 WHITE RIVER 18,U.S. Senate,,Evan Bayh,DEM,129
+Johnson,0110 WHITE RIVER 19,U.S. Senate,,Evan Bayh,DEM,151
+Johnson,0111 WHITE RIVER 20,U.S. Senate,,Evan Bayh,DEM,103
+Johnson,0112 WHITE RIVER 21,U.S. Senate,,Evan Bayh,DEM,235
+Johnson,0113 WHITE RIVER 22,U.S. Senate,,Evan Bayh,DEM,181
+Johnson,0114 WHITE RIVER 23,U.S. Senate,,Evan Bayh,DEM,85
+Johnson,0115 WHITE RIVER 24,U.S. Senate,,Evan Bayh,DEM,101
+Johnson,0116 WHITE RIVER 25,U.S. Senate,,Evan Bayh,DEM,197
+Johnson,0117 WHITE RIVER 26,U.S. Senate,,Evan Bayh,DEM,130
+Johnson,0118 WHITE RIVER 27,U.S. Senate,,Evan Bayh,DEM,126
+Johnson,0119 WHITE RIVER 28,U.S. Senate,,Evan Bayh,DEM,93
+Johnson,0120 WHITE RIVER 29,U.S. Senate,,Evan Bayh,DEM,247
+Johnson,0121 WHITE RIVER 30,U.S. Senate,,Evan Bayh,DEM,176
+Johnson,0122 WHITE RIVER 31,U.S. Senate,,Evan Bayh,DEM,151
+Johnson,0123 WHITE RIVER 32,U.S. Senate,,Evan Bayh,DEM,201
+Johnson,0124 WHITE RIVER 33,U.S. Senate,,Evan Bayh,DEM,119
+Johnson,0125 WHITE RIVER 34,U.S. Senate,,Evan Bayh,DEM,146
+Johnson,0126 WHITE RIVER 35,U.S. Senate,,Evan Bayh,DEM,281
+Johnson,0127 WHITE RIVER 36,U.S. Senate,,Evan Bayh,DEM,142
+Johnson,0128 WHITE RIVER 37,U.S. Senate,,Evan Bayh,DEM,356
+Johnson,0129 WHITE RIVER 38,U.S. Senate,,Evan Bayh,DEM,127
+Johnson,0130 WHITE RIVER 39,U.S. Senate,,Evan Bayh,DEM,256
+Johnson,0131 WHITE RIVER 40,U.S. Senate,,Evan Bayh,DEM,107
+Johnson,0132 WHITE RIVER 41,U.S. Senate,,Evan Bayh,DEM,141
+Johnson,0133 WHITE RIVER 42,U.S. Senate,,Evan Bayh,DEM,145
+Johnson,0134 WHITE RIVER 43,U.S. Senate,,Evan Bayh,DEM,73
+Johnson,,U.S. Senate,,Evan Bayh,DEM,19897
+Johnson,0001 BLUE RIVER 1,U.S. Senate,,Lucy Brenton,LBT,23
+Johnson,0002 BLUE RIVER 2,U.S. Senate,,Lucy Brenton,LBT,23
+Johnson,0003 BLUE RIVER 3,U.S. Senate,,Lucy Brenton,LBT,27
+Johnson,0004 BLUE RIVER 4,U.S. Senate,,Lucy Brenton,LBT,29
+Johnson,0005 BLUE RIVER 5,U.S. Senate,,Lucy Brenton,LBT,21
+Johnson,0006 CLARK 1,U.S. Senate,,Lucy Brenton,LBT,14
+Johnson,0007 CLARK 2,U.S. Senate,,Lucy Brenton,LBT,25
+Johnson,0008 CLARK 3,U.S. Senate,,Lucy Brenton,LBT,23
+Johnson,0009 FRANKLIN 1,U.S. Senate,,Lucy Brenton,LBT,39
+Johnson,0010 FRANKLIN 2,U.S. Senate,,Lucy Brenton,LBT,29
+Johnson,0011 FRANKLIN 3,U.S. Senate,,Lucy Brenton,LBT,18
+Johnson,0012 FRANKLIN 4,U.S. Senate,,Lucy Brenton,LBT,20
+Johnson,0013 FRANKLIN 5,U.S. Senate,,Lucy Brenton,LBT,13
+Johnson,0014 FRANKLIN 6,U.S. Senate,,Lucy Brenton,LBT,45
+Johnson,0015 FRANKLIN 7,U.S. Senate,,Lucy Brenton,LBT,18
+Johnson,0016 FRANKLIN 8,U.S. Senate,,Lucy Brenton,LBT,6
+Johnson,0017 FRANKLIN 9,U.S. Senate,,Lucy Brenton,LBT,37
+Johnson,0018 FRANKLIN 10,U.S. Senate,,Lucy Brenton,LBT,18
+Johnson,0019 FRANKLIN 11,U.S. Senate,,Lucy Brenton,LBT,22
+Johnson,0020 FRANKLIN 12,U.S. Senate,,Lucy Brenton,LBT,22
+Johnson,0021 FRANKLIN 13,U.S. Senate,,Lucy Brenton,LBT,16
+Johnson,0022 FRANKLIN 14,U.S. Senate,,Lucy Brenton,LBT,17
+Johnson,0023 FRANKLIN 15,U.S. Senate,,Lucy Brenton,LBT,48
+Johnson,0024 FRANKLIN 16,U.S. Senate,,Lucy Brenton,LBT,42
+Johnson,0025 FRANKLIN 17,U.S. Senate,,Lucy Brenton,LBT,20
+Johnson,0026 FRANKLIN 18,U.S. Senate,,Lucy Brenton,LBT,21
+Johnson,0027 FRANKLIN 19,U.S. Senate,,Lucy Brenton,LBT,43
+Johnson,0028 FRANKLIN 20,U.S. Senate,,Lucy Brenton,LBT,30
+Johnson,0029 HENSLEY 1,U.S. Senate,,Lucy Brenton,LBT,12
+Johnson,0030 HENSLEY 2,U.S. Senate,,Lucy Brenton,LBT,39
+Johnson,0031 HENSLEY 3,U.S. Senate,,Lucy Brenton,LBT,49
+Johnson,0032 NEEDHAM 1,U.S. Senate,,Lucy Brenton,LBT,46
+Johnson,0033 NEEDHAM 2,U.S. Senate,,Lucy Brenton,LBT,29
+Johnson,0034 NEEDHAM 3,U.S. Senate,,Lucy Brenton,LBT,24
+Johnson,0035 NEEDHAM 4,U.S. Senate,,Lucy Brenton,LBT,41
+Johnson,0036 NEEDHAM 5,U.S. Senate,,Lucy Brenton,LBT,36
+Johnson,0037 NINEVEH 1,U.S. Senate,,Lucy Brenton,LBT,50
+Johnson,0038 NINEVEH 2,U.S. Senate,,Lucy Brenton,LBT,43
+Johnson,0039 NINEVEH 3,U.S. Senate,,Lucy Brenton,LBT,19
+Johnson,0040 PLEASANT 1,U.S. Senate,,Lucy Brenton,LBT,31
+Johnson,0041 PLEASANT 2,U.S. Senate,,Lucy Brenton,LBT,39
+Johnson,0042 PLEASANT 3,U.S. Senate,,Lucy Brenton,LBT,32
+Johnson,0043 PLEASANT 4,U.S. Senate,,Lucy Brenton,LBT,16
+Johnson,0044 PLEASANT 5,U.S. Senate,,Lucy Brenton,LBT,17
+Johnson,0045 PLEASANT 6,U.S. Senate,,Lucy Brenton,LBT,25
+Johnson,0046 PLEASANT 7,U.S. Senate,,Lucy Brenton,LBT,48
+Johnson,0047 PLEASANT 8,U.S. Senate,,Lucy Brenton,LBT,24
+Johnson,0048 PLEASANT 9,U.S. Senate,,Lucy Brenton,LBT,48
+Johnson,0049 PLEASANT 10,U.S. Senate,,Lucy Brenton,LBT,19
+Johnson,0050 PLEASANT 11,U.S. Senate,,Lucy Brenton,LBT,47
+Johnson,0051 PLEASANT 12,U.S. Senate,,Lucy Brenton,LBT,20
+Johnson,0052 PLEASANT 13,U.S. Senate,,Lucy Brenton,LBT,31
+Johnson,0053 PLEASANT 14,U.S. Senate,,Lucy Brenton,LBT,35
+Johnson,0054 PLEASANT 15,U.S. Senate,,Lucy Brenton,LBT,25
+Johnson,0055 PLEASANT 16,U.S. Senate,,Lucy Brenton,LBT,34
+Johnson,0056 PLEASANT 17,U.S. Senate,,Lucy Brenton,LBT,30
+Johnson,0057 PLEASANT 18,U.S. Senate,,Lucy Brenton,LBT,14
+Johnson,0058 PLEASANT 19,U.S. Senate,,Lucy Brenton,LBT,72
+Johnson,0059 PLEASANT 20,U.S. Senate,,Lucy Brenton,LBT,14
+Johnson,0060 PLEASANT 21,U.S. Senate,,Lucy Brenton,LBT,40
+Johnson,0061 PLEASANT 22,U.S. Senate,,Lucy Brenton,LBT,81
+Johnson,0062 PLEASANT 23,U.S. Senate,,Lucy Brenton,LBT,10
+Johnson,0063 PLEASANT 24,U.S. Senate,,Lucy Brenton,LBT,17
+Johnson,0064 PLEASANT 25,U.S. Senate,,Lucy Brenton,LBT,19
+Johnson,0065 PLEASANT 26,U.S. Senate,,Lucy Brenton,LBT,19
+Johnson,0066 PLEASANT 27,U.S. Senate,,Lucy Brenton,LBT,16
+Johnson,0067 PLEASANT 28,U.S. Senate,,Lucy Brenton,LBT,37
+Johnson,0068 PLEASANT 29,U.S. Senate,,Lucy Brenton,LBT,26
+Johnson,0069 PLEASANT 30,U.S. Senate,,Lucy Brenton,LBT,34
+Johnson,0070 PLEASANT 31,U.S. Senate,,Lucy Brenton,LBT,37
+Johnson,0071 PLEASANT 32,U.S. Senate,,Lucy Brenton,LBT,23
+Johnson,0072 PLEASANT 33,U.S. Senate,,Lucy Brenton,LBT,39
+Johnson,0073 PLEASANT 34,U.S. Senate,,Lucy Brenton,LBT,38
+Johnson,0074 PLEASANT 35,U.S. Senate,,Lucy Brenton,LBT,20
+Johnson,0075 PLEASANT 36,U.S. Senate,,Lucy Brenton,LBT,8
+Johnson,0076 PLEASANT 37,U.S. Senate,,Lucy Brenton,LBT,22
+Johnson,0077 PLEASANT 38,U.S. Senate,,Lucy Brenton,LBT,40
+Johnson,0078 PLEASANT 39,U.S. Senate,,Lucy Brenton,LBT,51
+Johnson,0079 PLEASANT 40,U.S. Senate,,Lucy Brenton,LBT,32
+Johnson,0080 PLEASANT 41,U.S. Senate,,Lucy Brenton,LBT,7
+Johnson,0081 PLEASANT 42,U.S. Senate,,Lucy Brenton,LBT,42
+Johnson,0082 PLEASANT 43,U.S. Senate,,Lucy Brenton,LBT,24
+Johnson,0083 PLEASANT 44,U.S. Senate,,Lucy Brenton,LBT,27
+Johnson,0084 PLEASANT 45,U.S. Senate,,Lucy Brenton,LBT,33
+Johnson,0085 PLEASANT 46,U.S. Senate,,Lucy Brenton,LBT,16
+Johnson,0086 PLEASANT 47,U.S. Senate,,Lucy Brenton,LBT,27
+Johnson,0087 PLEASANT 48,U.S. Senate,,Lucy Brenton,LBT,40
+Johnson,0088 PLEASANT 49,U.S. Senate,,Lucy Brenton,LBT,21
+Johnson,0089 UNION 1,U.S. Senate,,Lucy Brenton,LBT,20
+Johnson,0090 UNION 2,U.S. Senate,,Lucy Brenton,LBT,28
+Johnson,0091 UNION 3,U.S. Senate,,Lucy Brenton,LBT,23
+Johnson,0092 WHITE RIVER 1,U.S. Senate,,Lucy Brenton,LBT,13
+Johnson,0093 WHITE RIVER 2,U.S. Senate,,Lucy Brenton,LBT,13
+Johnson,0094 WHITE RIVER 3,U.S. Senate,,Lucy Brenton,LBT,39
+Johnson,0095 WHITE RIVER 4,U.S. Senate,,Lucy Brenton,LBT,18
+Johnson,0096 WHITE RIVER 5,U.S. Senate,,Lucy Brenton,LBT,29
+Johnson,0097 WHITE RIVER 6,U.S. Senate,,Lucy Brenton,LBT,23
+Johnson,0098 WHITE RIVER 7,U.S. Senate,,Lucy Brenton,LBT,33
+Johnson,0099 WHITE RIVER 8,U.S. Senate,,Lucy Brenton,LBT,27
+Johnson,0100 WHITE RIVER 9,U.S. Senate,,Lucy Brenton,LBT,51
+Johnson,0101 WHITE RIVER 10,U.S. Senate,,Lucy Brenton,LBT,7
+Johnson,0102 WHITE RIVER 11,U.S. Senate,,Lucy Brenton,LBT,30
+Johnson,0103 WHITE RIVER 12,U.S. Senate,,Lucy Brenton,LBT,24
+Johnson,0104 WHITE RIVER 13,U.S. Senate,,Lucy Brenton,LBT,17
+Johnson,0105 WHITE RIVER 14,U.S. Senate,,Lucy Brenton,LBT,29
+Johnson,0106 WHITE RIVER 15,U.S. Senate,,Lucy Brenton,LBT,55
+Johnson,0107 WHITE RIVER 16,U.S. Senate,,Lucy Brenton,LBT,29
+Johnson,0108 WHITE RIVER 17,U.S. Senate,,Lucy Brenton,LBT,23
+Johnson,0109 WHITE RIVER 18,U.S. Senate,,Lucy Brenton,LBT,21
+Johnson,0110 WHITE RIVER 19,U.S. Senate,,Lucy Brenton,LBT,36
+Johnson,0111 WHITE RIVER 20,U.S. Senate,,Lucy Brenton,LBT,16
+Johnson,0112 WHITE RIVER 21,U.S. Senate,,Lucy Brenton,LBT,35
+Johnson,0113 WHITE RIVER 22,U.S. Senate,,Lucy Brenton,LBT,27
+Johnson,0114 WHITE RIVER 23,U.S. Senate,,Lucy Brenton,LBT,13
+Johnson,0115 WHITE RIVER 24,U.S. Senate,,Lucy Brenton,LBT,13
+Johnson,0116 WHITE RIVER 25,U.S. Senate,,Lucy Brenton,LBT,33
+Johnson,0117 WHITE RIVER 26,U.S. Senate,,Lucy Brenton,LBT,13
+Johnson,0118 WHITE RIVER 27,U.S. Senate,,Lucy Brenton,LBT,35
+Johnson,0119 WHITE RIVER 28,U.S. Senate,,Lucy Brenton,LBT,14
+Johnson,0120 WHITE RIVER 29,U.S. Senate,,Lucy Brenton,LBT,46
+Johnson,0121 WHITE RIVER 30,U.S. Senate,,Lucy Brenton,LBT,25
+Johnson,0122 WHITE RIVER 31,U.S. Senate,,Lucy Brenton,LBT,14
+Johnson,0123 WHITE RIVER 32,U.S. Senate,,Lucy Brenton,LBT,19
+Johnson,0124 WHITE RIVER 33,U.S. Senate,,Lucy Brenton,LBT,27
+Johnson,0125 WHITE RIVER 34,U.S. Senate,,Lucy Brenton,LBT,10
+Johnson,0126 WHITE RIVER 35,U.S. Senate,,Lucy Brenton,LBT,50
+Johnson,0127 WHITE RIVER 36,U.S. Senate,,Lucy Brenton,LBT,21
+Johnson,0128 WHITE RIVER 37,U.S. Senate,,Lucy Brenton,LBT,57
+Johnson,0129 WHITE RIVER 38,U.S. Senate,,Lucy Brenton,LBT,8
+Johnson,0130 WHITE RIVER 39,U.S. Senate,,Lucy Brenton,LBT,35
+Johnson,0131 WHITE RIVER 40,U.S. Senate,,Lucy Brenton,LBT,12
+Johnson,0132 WHITE RIVER 41,U.S. Senate,,Lucy Brenton,LBT,12
+Johnson,0133 WHITE RIVER 42,U.S. Senate,,Lucy Brenton,LBT,21
+Johnson,0134 WHITE RIVER 43,U.S. Senate,,Lucy Brenton,LBT,11
+Johnson,,U.S. Senate,,Lucy Brenton,LBT,3719
+Johnson,0001 BLUE RIVER 1,U.S. Senate,,Write-ins,,0
+Johnson,0002 BLUE RIVER 2,U.S. Senate,,Write-ins,,0
+Johnson,0003 BLUE RIVER 3,U.S. Senate,,Write-ins,,0
+Johnson,0004 BLUE RIVER 4,U.S. Senate,,Write-ins,,0
+Johnson,0005 BLUE RIVER 5,U.S. Senate,,Write-ins,,1
+Johnson,0006 CLARK 1,U.S. Senate,,Write-ins,,0
+Johnson,0007 CLARK 2,U.S. Senate,,Write-ins,,0
+Johnson,0008 CLARK 3,U.S. Senate,,Write-ins,,0
+Johnson,0009 FRANKLIN 1,U.S. Senate,,Write-ins,,0
+Johnson,0010 FRANKLIN 2,U.S. Senate,,Write-ins,,0
+Johnson,0011 FRANKLIN 3,U.S. Senate,,Write-ins,,0
+Johnson,0012 FRANKLIN 4,U.S. Senate,,Write-ins,,0
+Johnson,0013 FRANKLIN 5,U.S. Senate,,Write-ins,,0
+Johnson,0014 FRANKLIN 6,U.S. Senate,,Write-ins,,0
+Johnson,0015 FRANKLIN 7,U.S. Senate,,Write-ins,,0
+Johnson,0016 FRANKLIN 8,U.S. Senate,,Write-ins,,0
+Johnson,0017 FRANKLIN 9,U.S. Senate,,Write-ins,,0
+Johnson,0018 FRANKLIN 10,U.S. Senate,,Write-ins,,0
+Johnson,0019 FRANKLIN 11,U.S. Senate,,Write-ins,,0
+Johnson,0020 FRANKLIN 12,U.S. Senate,,Write-ins,,2
+Johnson,0021 FRANKLIN 13,U.S. Senate,,Write-ins,,0
+Johnson,0022 FRANKLIN 14,U.S. Senate,,Write-ins,,1
+Johnson,0023 FRANKLIN 15,U.S. Senate,,Write-ins,,1
+Johnson,0024 FRANKLIN 16,U.S. Senate,,Write-ins,,1
+Johnson,0025 FRANKLIN 17,U.S. Senate,,Write-ins,,0
+Johnson,0026 FRANKLIN 18,U.S. Senate,,Write-ins,,0
+Johnson,0027 FRANKLIN 19,U.S. Senate,,Write-ins,,9
+Johnson,0028 FRANKLIN 20,U.S. Senate,,Write-ins,,0
+Johnson,0029 HENSLEY 1,U.S. Senate,,Write-ins,,0
+Johnson,0030 HENSLEY 2,U.S. Senate,,Write-ins,,1
+Johnson,0031 HENSLEY 3,U.S. Senate,,Write-ins,,0
+Johnson,0032 NEEDHAM 1,U.S. Senate,,Write-ins,,0
+Johnson,0033 NEEDHAM 2,U.S. Senate,,Write-ins,,0
+Johnson,0034 NEEDHAM 3,U.S. Senate,,Write-ins,,0
+Johnson,0035 NEEDHAM 4,U.S. Senate,,Write-ins,,1
+Johnson,0036 NEEDHAM 5,U.S. Senate,,Write-ins,,1
+Johnson,0037 NINEVEH 1,U.S. Senate,,Write-ins,,1
+Johnson,0038 NINEVEH 2,U.S. Senate,,Write-ins,,1
+Johnson,0039 NINEVEH 3,U.S. Senate,,Write-ins,,0
+Johnson,0040 PLEASANT 1,U.S. Senate,,Write-ins,,0
+Johnson,0041 PLEASANT 2,U.S. Senate,,Write-ins,,0
+Johnson,0042 PLEASANT 3,U.S. Senate,,Write-ins,,1
+Johnson,0043 PLEASANT 4,U.S. Senate,,Write-ins,,0
+Johnson,0044 PLEASANT 5,U.S. Senate,,Write-ins,,1
+Johnson,0045 PLEASANT 6,U.S. Senate,,Write-ins,,0
+Johnson,0046 PLEASANT 7,U.S. Senate,,Write-ins,,1
+Johnson,0047 PLEASANT 8,U.S. Senate,,Write-ins,,0
+Johnson,0048 PLEASANT 9,U.S. Senate,,Write-ins,,1
+Johnson,0049 PLEASANT 10,U.S. Senate,,Write-ins,,0
+Johnson,0050 PLEASANT 11,U.S. Senate,,Write-ins,,0
+Johnson,0051 PLEASANT 12,U.S. Senate,,Write-ins,,0
+Johnson,0052 PLEASANT 13,U.S. Senate,,Write-ins,,2
+Johnson,0053 PLEASANT 14,U.S. Senate,,Write-ins,,2
+Johnson,0054 PLEASANT 15,U.S. Senate,,Write-ins,,0
+Johnson,0055 PLEASANT 16,U.S. Senate,,Write-ins,,0
+Johnson,0056 PLEASANT 17,U.S. Senate,,Write-ins,,2
+Johnson,0057 PLEASANT 18,U.S. Senate,,Write-ins,,0
+Johnson,0058 PLEASANT 19,U.S. Senate,,Write-ins,,2
+Johnson,0059 PLEASANT 20,U.S. Senate,,Write-ins,,1
+Johnson,0060 PLEASANT 21,U.S. Senate,,Write-ins,,0
+Johnson,0061 PLEASANT 22,U.S. Senate,,Write-ins,,4
+Johnson,0062 PLEASANT 23,U.S. Senate,,Write-ins,,0
+Johnson,0063 PLEASANT 24,U.S. Senate,,Write-ins,,0
+Johnson,0064 PLEASANT 25,U.S. Senate,,Write-ins,,0
+Johnson,0065 PLEASANT 26,U.S. Senate,,Write-ins,,0
+Johnson,0066 PLEASANT 27,U.S. Senate,,Write-ins,,0
+Johnson,0067 PLEASANT 28,U.S. Senate,,Write-ins,,0
+Johnson,0068 PLEASANT 29,U.S. Senate,,Write-ins,,1
+Johnson,0069 PLEASANT 30,U.S. Senate,,Write-ins,,1
+Johnson,0070 PLEASANT 31,U.S. Senate,,Write-ins,,0
+Johnson,0071 PLEASANT 32,U.S. Senate,,Write-ins,,1
+Johnson,0072 PLEASANT 33,U.S. Senate,,Write-ins,,0
+Johnson,0073 PLEASANT 34,U.S. Senate,,Write-ins,,1
+Johnson,0074 PLEASANT 35,U.S. Senate,,Write-ins,,0
+Johnson,0075 PLEASANT 36,U.S. Senate,,Write-ins,,0
+Johnson,0076 PLEASANT 37,U.S. Senate,,Write-ins,,0
+Johnson,0077 PLEASANT 38,U.S. Senate,,Write-ins,,0
+Johnson,0078 PLEASANT 39,U.S. Senate,,Write-ins,,0
+Johnson,0079 PLEASANT 40,U.S. Senate,,Write-ins,,0
+Johnson,0080 PLEASANT 41,U.S. Senate,,Write-ins,,1
+Johnson,0081 PLEASANT 42,U.S. Senate,,Write-ins,,0
+Johnson,0082 PLEASANT 43,U.S. Senate,,Write-ins,,0
+Johnson,0083 PLEASANT 44,U.S. Senate,,Write-ins,,1
+Johnson,0084 PLEASANT 45,U.S. Senate,,Write-ins,,0
+Johnson,0085 PLEASANT 46,U.S. Senate,,Write-ins,,0
+Johnson,0086 PLEASANT 47,U.S. Senate,,Write-ins,,2
+Johnson,0087 PLEASANT 48,U.S. Senate,,Write-ins,,0
+Johnson,0088 PLEASANT 49,U.S. Senate,,Write-ins,,0
+Johnson,0089 UNION 1,U.S. Senate,,Write-ins,,0
+Johnson,0090 UNION 2,U.S. Senate,,Write-ins,,0
+Johnson,0091 UNION 3,U.S. Senate,,Write-ins,,0
+Johnson,0092 WHITE RIVER 1,U.S. Senate,,Write-ins,,1
+Johnson,0093 WHITE RIVER 2,U.S. Senate,,Write-ins,,0
+Johnson,0094 WHITE RIVER 3,U.S. Senate,,Write-ins,,0
+Johnson,0095 WHITE RIVER 4,U.S. Senate,,Write-ins,,0
+Johnson,0096 WHITE RIVER 5,U.S. Senate,,Write-ins,,0
+Johnson,0097 WHITE RIVER 6,U.S. Senate,,Write-ins,,0
+Johnson,0098 WHITE RIVER 7,U.S. Senate,,Write-ins,,0
+Johnson,0099 WHITE RIVER 8,U.S. Senate,,Write-ins,,1
+Johnson,0100 WHITE RIVER 9,U.S. Senate,,Write-ins,,0
+Johnson,0101 WHITE RIVER 10,U.S. Senate,,Write-ins,,0
+Johnson,0102 WHITE RIVER 11,U.S. Senate,,Write-ins,,0
+Johnson,0103 WHITE RIVER 12,U.S. Senate,,Write-ins,,0
+Johnson,0104 WHITE RIVER 13,U.S. Senate,,Write-ins,,0
+Johnson,0105 WHITE RIVER 14,U.S. Senate,,Write-ins,,0
+Johnson,0106 WHITE RIVER 15,U.S. Senate,,Write-ins,,1
+Johnson,0107 WHITE RIVER 16,U.S. Senate,,Write-ins,,0
+Johnson,0108 WHITE RIVER 17,U.S. Senate,,Write-ins,,0
+Johnson,0109 WHITE RIVER 18,U.S. Senate,,Write-ins,,0
+Johnson,0110 WHITE RIVER 19,U.S. Senate,,Write-ins,,0
+Johnson,0111 WHITE RIVER 20,U.S. Senate,,Write-ins,,0
+Johnson,0112 WHITE RIVER 21,U.S. Senate,,Write-ins,,0
+Johnson,0113 WHITE RIVER 22,U.S. Senate,,Write-ins,,0
+Johnson,0114 WHITE RIVER 23,U.S. Senate,,Write-ins,,0
+Johnson,0115 WHITE RIVER 24,U.S. Senate,,Write-ins,,0
+Johnson,0116 WHITE RIVER 25,U.S. Senate,,Write-ins,,3
+Johnson,0117 WHITE RIVER 26,U.S. Senate,,Write-ins,,1
+Johnson,0118 WHITE RIVER 27,U.S. Senate,,Write-ins,,0
+Johnson,0119 WHITE RIVER 28,U.S. Senate,,Write-ins,,0
+Johnson,0120 WHITE RIVER 29,U.S. Senate,,Write-ins,,0
+Johnson,0121 WHITE RIVER 30,U.S. Senate,,Write-ins,,2
+Johnson,0122 WHITE RIVER 31,U.S. Senate,,Write-ins,,0
+Johnson,0123 WHITE RIVER 32,U.S. Senate,,Write-ins,,0
+Johnson,0124 WHITE RIVER 33,U.S. Senate,,Write-ins,,0
+Johnson,0125 WHITE RIVER 34,U.S. Senate,,Write-ins,,0
+Johnson,0126 WHITE RIVER 35,U.S. Senate,,Write-ins,,2
+Johnson,0127 WHITE RIVER 36,U.S. Senate,,Write-ins,,0
+Johnson,0128 WHITE RIVER 37,U.S. Senate,,Write-ins,,2
+Johnson,0129 WHITE RIVER 38,U.S. Senate,,Write-ins,,0
+Johnson,0130 WHITE RIVER 39,U.S. Senate,,Write-ins,,0
+Johnson,0131 WHITE RIVER 40,U.S. Senate,,Write-ins,,0
+Johnson,0132 WHITE RIVER 41,U.S. Senate,,Write-ins,,0
+Johnson,0133 WHITE RIVER 42,U.S. Senate,,Write-ins,,0
+Johnson,0134 WHITE RIVER 43,U.S. Senate,,Write-ins,,0
+Johnson,,U.S. Senate,,Write-ins,,58
+Johnson,0001 BLUE RIVER 1,Governor,,Eric Holcomb,REP,188
+Johnson,0002 BLUE RIVER 2,Governor,,Eric Holcomb,REP,233
+Johnson,0003 BLUE RIVER 3,Governor,,Eric Holcomb,REP,315
+Johnson,0004 BLUE RIVER 4,Governor,,Eric Holcomb,REP,199
+Johnson,0005 BLUE RIVER 5,Governor,,Eric Holcomb,REP,209
+Johnson,0006 CLARK 1,Governor,,Eric Holcomb,REP,239
+Johnson,0007 CLARK 2,Governor,,Eric Holcomb,REP,418
+Johnson,0008 CLARK 3,Governor,,Eric Holcomb,REP,394
+Johnson,0009 FRANKLIN 1,Governor,,Eric Holcomb,REP,425
+Johnson,0010 FRANKLIN 2,Governor,,Eric Holcomb,REP,221
+Johnson,0011 FRANKLIN 3,Governor,,Eric Holcomb,REP,156
+Johnson,0012 FRANKLIN 4,Governor,,Eric Holcomb,REP,257
+Johnson,0013 FRANKLIN 5,Governor,,Eric Holcomb,REP,109
+Johnson,0014 FRANKLIN 6,Governor,,Eric Holcomb,REP,275
+Johnson,0015 FRANKLIN 7,Governor,,Eric Holcomb,REP,186
+Johnson,0016 FRANKLIN 8,Governor,,Eric Holcomb,REP,145
+Johnson,0017 FRANKLIN 9,Governor,,Eric Holcomb,REP,497
+Johnson,0018 FRANKLIN 10,Governor,,Eric Holcomb,REP,205
+Johnson,0019 FRANKLIN 11,Governor,,Eric Holcomb,REP,206
+Johnson,0020 FRANKLIN 12,Governor,,Eric Holcomb,REP,126
+Johnson,0021 FRANKLIN 13,Governor,,Eric Holcomb,REP,174
+Johnson,0022 FRANKLIN 14,Governor,,Eric Holcomb,REP,143
+Johnson,0023 FRANKLIN 15,Governor,,Eric Holcomb,REP,364
+Johnson,0024 FRANKLIN 16,Governor,,Eric Holcomb,REP,400
+Johnson,0025 FRANKLIN 17,Governor,,Eric Holcomb,REP,272
+Johnson,0026 FRANKLIN 18,Governor,,Eric Holcomb,REP,215
+Johnson,0027 FRANKLIN 19,Governor,,Eric Holcomb,REP,369
+Johnson,0028 FRANKLIN 20,Governor,,Eric Holcomb,REP,194
+Johnson,0029 HENSLEY 1,Governor,,Eric Holcomb,REP,231
+Johnson,0030 HENSLEY 2,Governor,,Eric Holcomb,REP,535
+Johnson,0031 HENSLEY 3,Governor,,Eric Holcomb,REP,456
+Johnson,0032 NEEDHAM 1,Governor,,Eric Holcomb,REP,472
+Johnson,0033 NEEDHAM 2,Governor,,Eric Holcomb,REP,491
+Johnson,0034 NEEDHAM 3,Governor,,Eric Holcomb,REP,281
+Johnson,0035 NEEDHAM 4,Governor,,Eric Holcomb,REP,319
+Johnson,0036 NEEDHAM 5,Governor,,Eric Holcomb,REP,449
+Johnson,0037 NINEVEH 1,Governor,,Eric Holcomb,REP,645
+Johnson,0038 NINEVEH 2,Governor,,Eric Holcomb,REP,477
+Johnson,0039 NINEVEH 3,Governor,,Eric Holcomb,REP,230
+Johnson,0040 PLEASANT 1,Governor,,Eric Holcomb,REP,324
+Johnson,0041 PLEASANT 2,Governor,,Eric Holcomb,REP,246
+Johnson,0042 PLEASANT 3,Governor,,Eric Holcomb,REP,341
+Johnson,0043 PLEASANT 4,Governor,,Eric Holcomb,REP,182
+Johnson,0044 PLEASANT 5,Governor,,Eric Holcomb,REP,125
+Johnson,0045 PLEASANT 6,Governor,,Eric Holcomb,REP,218
+Johnson,0046 PLEASANT 7,Governor,,Eric Holcomb,REP,331
+Johnson,0047 PLEASANT 8,Governor,,Eric Holcomb,REP,278
+Johnson,0048 PLEASANT 9,Governor,,Eric Holcomb,REP,274
+Johnson,0049 PLEASANT 10,Governor,,Eric Holcomb,REP,168
+Johnson,0050 PLEASANT 11,Governor,,Eric Holcomb,REP,509
+Johnson,0051 PLEASANT 12,Governor,,Eric Holcomb,REP,302
+Johnson,0052 PLEASANT 13,Governor,,Eric Holcomb,REP,260
+Johnson,0053 PLEASANT 14,Governor,,Eric Holcomb,REP,492
+Johnson,0054 PLEASANT 15,Governor,,Eric Holcomb,REP,111
+Johnson,0055 PLEASANT 16,Governor,,Eric Holcomb,REP,324
+Johnson,0056 PLEASANT 17,Governor,,Eric Holcomb,REP,306
+Johnson,0057 PLEASANT 18,Governor,,Eric Holcomb,REP,208
+Johnson,0058 PLEASANT 19,Governor,,Eric Holcomb,REP,549
+Johnson,0059 PLEASANT 20,Governor,,Eric Holcomb,REP,153
+Johnson,0060 PLEASANT 21,Governor,,Eric Holcomb,REP,474
+Johnson,0061 PLEASANT 22,Governor,,Eric Holcomb,REP,865
+Johnson,0062 PLEASANT 23,Governor,,Eric Holcomb,REP,107
+Johnson,0063 PLEASANT 24,Governor,,Eric Holcomb,REP,145
+Johnson,0064 PLEASANT 25,Governor,,Eric Holcomb,REP,80
+Johnson,0065 PLEASANT 26,Governor,,Eric Holcomb,REP,136
+Johnson,0066 PLEASANT 27,Governor,,Eric Holcomb,REP,147
+Johnson,0067 PLEASANT 28,Governor,,Eric Holcomb,REP,429
+Johnson,0068 PLEASANT 29,Governor,,Eric Holcomb,REP,204
+Johnson,0069 PLEASANT 30,Governor,,Eric Holcomb,REP,253
+Johnson,0070 PLEASANT 31,Governor,,Eric Holcomb,REP,473
+Johnson,0071 PLEASANT 32,Governor,,Eric Holcomb,REP,208
+Johnson,0072 PLEASANT 33,Governor,,Eric Holcomb,REP,471
+Johnson,0073 PLEASANT 34,Governor,,Eric Holcomb,REP,330
+Johnson,0074 PLEASANT 35,Governor,,Eric Holcomb,REP,307
+Johnson,0075 PLEASANT 36,Governor,,Eric Holcomb,REP,111
+Johnson,0076 PLEASANT 37,Governor,,Eric Holcomb,REP,122
+Johnson,0077 PLEASANT 38,Governor,,Eric Holcomb,REP,324
+Johnson,0078 PLEASANT 39,Governor,,Eric Holcomb,REP,432
+Johnson,0079 PLEASANT 40,Governor,,Eric Holcomb,REP,330
+Johnson,0080 PLEASANT 41,Governor,,Eric Holcomb,REP,81
+Johnson,0081 PLEASANT 42,Governor,,Eric Holcomb,REP,484
+Johnson,0082 PLEASANT 43,Governor,,Eric Holcomb,REP,444
+Johnson,0083 PLEASANT 44,Governor,,Eric Holcomb,REP,188
+Johnson,0084 PLEASANT 45,Governor,,Eric Holcomb,REP,278
+Johnson,0085 PLEASANT 46,Governor,,Eric Holcomb,REP,221
+Johnson,0086 PLEASANT 47,Governor,,Eric Holcomb,REP,326
+Johnson,0087 PLEASANT 48,Governor,,Eric Holcomb,REP,285
+Johnson,0088 PLEASANT 49,Governor,,Eric Holcomb,REP,259
+Johnson,0089 UNION 1,Governor,,Eric Holcomb,REP,382
+Johnson,0090 UNION 2,Governor,,Eric Holcomb,REP,311
+Johnson,0091 UNION 3,Governor,,Eric Holcomb,REP,222
+Johnson,0092 WHITE RIVER 1,Governor,,Eric Holcomb,REP,328
+Johnson,0093 WHITE RIVER 2,Governor,,Eric Holcomb,REP,147
+Johnson,0094 WHITE RIVER 3,Governor,,Eric Holcomb,REP,344
+Johnson,0095 WHITE RIVER 4,Governor,,Eric Holcomb,REP,329
+Johnson,0096 WHITE RIVER 5,Governor,,Eric Holcomb,REP,266
+Johnson,0097 WHITE RIVER 6,Governor,,Eric Holcomb,REP,310
+Johnson,0098 WHITE RIVER 7,Governor,,Eric Holcomb,REP,390
+Johnson,0099 WHITE RIVER 8,Governor,,Eric Holcomb,REP,442
+Johnson,0100 WHITE RIVER 9,Governor,,Eric Holcomb,REP,465
+Johnson,0101 WHITE RIVER 10,Governor,,Eric Holcomb,REP,284
+Johnson,0102 WHITE RIVER 11,Governor,,Eric Holcomb,REP,431
+Johnson,0103 WHITE RIVER 12,Governor,,Eric Holcomb,REP,380
+Johnson,0104 WHITE RIVER 13,Governor,,Eric Holcomb,REP,296
+Johnson,0105 WHITE RIVER 14,Governor,,Eric Holcomb,REP,478
+Johnson,0106 WHITE RIVER 15,Governor,,Eric Holcomb,REP,758
+Johnson,0107 WHITE RIVER 16,Governor,,Eric Holcomb,REP,494
+Johnson,0108 WHITE RIVER 17,Governor,,Eric Holcomb,REP,277
+Johnson,0109 WHITE RIVER 18,Governor,,Eric Holcomb,REP,271
+Johnson,0110 WHITE RIVER 19,Governor,,Eric Holcomb,REP,277
+Johnson,0111 WHITE RIVER 20,Governor,,Eric Holcomb,REP,297
+Johnson,0112 WHITE RIVER 21,Governor,,Eric Holcomb,REP,522
+Johnson,0113 WHITE RIVER 22,Governor,,Eric Holcomb,REP,429
+Johnson,0114 WHITE RIVER 23,Governor,,Eric Holcomb,REP,200
+Johnson,0115 WHITE RIVER 24,Governor,,Eric Holcomb,REP,335
+Johnson,0116 WHITE RIVER 25,Governor,,Eric Holcomb,REP,327
+Johnson,0117 WHITE RIVER 26,Governor,,Eric Holcomb,REP,239
+Johnson,0118 WHITE RIVER 27,Governor,,Eric Holcomb,REP,326
+Johnson,0119 WHITE RIVER 28,Governor,,Eric Holcomb,REP,256
+Johnson,0120 WHITE RIVER 29,Governor,,Eric Holcomb,REP,540
+Johnson,0121 WHITE RIVER 30,Governor,,Eric Holcomb,REP,259
+Johnson,0122 WHITE RIVER 31,Governor,,Eric Holcomb,REP,217
+Johnson,0123 WHITE RIVER 32,Governor,,Eric Holcomb,REP,470
+Johnson,0124 WHITE RIVER 33,Governor,,Eric Holcomb,REP,282
+Johnson,0125 WHITE RIVER 34,Governor,,Eric Holcomb,REP,426
+Johnson,0126 WHITE RIVER 35,Governor,,Eric Holcomb,REP,788
+Johnson,0127 WHITE RIVER 36,Governor,,Eric Holcomb,REP,252
+Johnson,0128 WHITE RIVER 37,Governor,,Eric Holcomb,REP,602
+Johnson,0129 WHITE RIVER 38,Governor,,Eric Holcomb,REP,307
+Johnson,0130 WHITE RIVER 39,Governor,,Eric Holcomb,REP,478
+Johnson,0131 WHITE RIVER 40,Governor,,Eric Holcomb,REP,293
+Johnson,0132 WHITE RIVER 41,Governor,,Eric Holcomb,REP,289
+Johnson,0133 WHITE RIVER 42,Governor,,Eric Holcomb,REP,314
+Johnson,0134 WHITE RIVER 43,Governor,,Eric Holcomb,REP,211
+Johnson,,Governor,,Eric Holcomb,REP,42476
+Johnson,0001 BLUE RIVER 1,Governor,,John Gregg,DEM,83
+Johnson,0002 BLUE RIVER 2,Governor,,John Gregg,DEM,108
+Johnson,0003 BLUE RIVER 3,Governor,,John Gregg,DEM,105
+Johnson,0004 BLUE RIVER 4,Governor,,John Gregg,DEM,93
+Johnson,0005 BLUE RIVER 5,Governor,,John Gregg,DEM,89
+Johnson,0006 CLARK 1,Governor,,John Gregg,DEM,51
+Johnson,0007 CLARK 2,Governor,,John Gregg,DEM,133
+Johnson,0008 CLARK 3,Governor,,John Gregg,DEM,177
+Johnson,0009 FRANKLIN 1,Governor,,John Gregg,DEM,210
+Johnson,0010 FRANKLIN 2,Governor,,John Gregg,DEM,203
+Johnson,0011 FRANKLIN 3,Governor,,John Gregg,DEM,90
+Johnson,0012 FRANKLIN 4,Governor,,John Gregg,DEM,156
+Johnson,0013 FRANKLIN 5,Governor,,John Gregg,DEM,105
+Johnson,0014 FRANKLIN 6,Governor,,John Gregg,DEM,163
+Johnson,0015 FRANKLIN 7,Governor,,John Gregg,DEM,136
+Johnson,0016 FRANKLIN 8,Governor,,John Gregg,DEM,61
+Johnson,0017 FRANKLIN 9,Governor,,John Gregg,DEM,252
+Johnson,0018 FRANKLIN 10,Governor,,John Gregg,DEM,120
+Johnson,0019 FRANKLIN 11,Governor,,John Gregg,DEM,102
+Johnson,0020 FRANKLIN 12,Governor,,John Gregg,DEM,63
+Johnson,0021 FRANKLIN 13,Governor,,John Gregg,DEM,75
+Johnson,0022 FRANKLIN 14,Governor,,John Gregg,DEM,93
+Johnson,0023 FRANKLIN 15,Governor,,John Gregg,DEM,161
+Johnson,0024 FRANKLIN 16,Governor,,John Gregg,DEM,236
+Johnson,0025 FRANKLIN 17,Governor,,John Gregg,DEM,165
+Johnson,0026 FRANKLIN 18,Governor,,John Gregg,DEM,131
+Johnson,0027 FRANKLIN 19,Governor,,John Gregg,DEM,173
+Johnson,0028 FRANKLIN 20,Governor,,John Gregg,DEM,117
+Johnson,0029 HENSLEY 1,Governor,,John Gregg,DEM,74
+Johnson,0030 HENSLEY 2,Governor,,John Gregg,DEM,236
+Johnson,0031 HENSLEY 3,Governor,,John Gregg,DEM,164
+Johnson,0032 NEEDHAM 1,Governor,,John Gregg,DEM,210
+Johnson,0033 NEEDHAM 2,Governor,,John Gregg,DEM,280
+Johnson,0034 NEEDHAM 3,Governor,,John Gregg,DEM,133
+Johnson,0035 NEEDHAM 4,Governor,,John Gregg,DEM,249
+Johnson,0036 NEEDHAM 5,Governor,,John Gregg,DEM,264
+Johnson,0037 NINEVEH 1,Governor,,John Gregg,DEM,226
+Johnson,0038 NINEVEH 2,Governor,,John Gregg,DEM,189
+Johnson,0039 NINEVEH 3,Governor,,John Gregg,DEM,94
+Johnson,0040 PLEASANT 1,Governor,,John Gregg,DEM,129
+Johnson,0041 PLEASANT 2,Governor,,John Gregg,DEM,162
+Johnson,0042 PLEASANT 3,Governor,,John Gregg,DEM,190
+Johnson,0043 PLEASANT 4,Governor,,John Gregg,DEM,135
+Johnson,0044 PLEASANT 5,Governor,,John Gregg,DEM,97
+Johnson,0045 PLEASANT 6,Governor,,John Gregg,DEM,139
+Johnson,0046 PLEASANT 7,Governor,,John Gregg,DEM,154
+Johnson,0047 PLEASANT 8,Governor,,John Gregg,DEM,141
+Johnson,0048 PLEASANT 9,Governor,,John Gregg,DEM,156
+Johnson,0049 PLEASANT 10,Governor,,John Gregg,DEM,82
+Johnson,0050 PLEASANT 11,Governor,,John Gregg,DEM,266
+Johnson,0051 PLEASANT 12,Governor,,John Gregg,DEM,141
+Johnson,0052 PLEASANT 13,Governor,,John Gregg,DEM,294
+Johnson,0053 PLEASANT 14,Governor,,John Gregg,DEM,203
+Johnson,0054 PLEASANT 15,Governor,,John Gregg,DEM,70
+Johnson,0055 PLEASANT 16,Governor,,John Gregg,DEM,156
+Johnson,0056 PLEASANT 17,Governor,,John Gregg,DEM,217
+Johnson,0057 PLEASANT 18,Governor,,John Gregg,DEM,114
+Johnson,0058 PLEASANT 19,Governor,,John Gregg,DEM,288
+Johnson,0059 PLEASANT 20,Governor,,John Gregg,DEM,90
+Johnson,0060 PLEASANT 21,Governor,,John Gregg,DEM,221
+Johnson,0061 PLEASANT 22,Governor,,John Gregg,DEM,459
+Johnson,0062 PLEASANT 23,Governor,,John Gregg,DEM,62
+Johnson,0063 PLEASANT 24,Governor,,John Gregg,DEM,71
+Johnson,0064 PLEASANT 25,Governor,,John Gregg,DEM,67
+Johnson,0065 PLEASANT 26,Governor,,John Gregg,DEM,87
+Johnson,0066 PLEASANT 27,Governor,,John Gregg,DEM,96
+Johnson,0067 PLEASANT 28,Governor,,John Gregg,DEM,221
+Johnson,0068 PLEASANT 29,Governor,,John Gregg,DEM,125
+Johnson,0069 PLEASANT 30,Governor,,John Gregg,DEM,170
+Johnson,0070 PLEASANT 31,Governor,,John Gregg,DEM,160
+Johnson,0071 PLEASANT 32,Governor,,John Gregg,DEM,124
+Johnson,0072 PLEASANT 33,Governor,,John Gregg,DEM,246
+Johnson,0073 PLEASANT 34,Governor,,John Gregg,DEM,124
+Johnson,0074 PLEASANT 35,Governor,,John Gregg,DEM,142
+Johnson,0075 PLEASANT 36,Governor,,John Gregg,DEM,65
+Johnson,0076 PLEASANT 37,Governor,,John Gregg,DEM,93
+Johnson,0077 PLEASANT 38,Governor,,John Gregg,DEM,215
+Johnson,0078 PLEASANT 39,Governor,,John Gregg,DEM,235
+Johnson,0079 PLEASANT 40,Governor,,John Gregg,DEM,194
+Johnson,0080 PLEASANT 41,Governor,,John Gregg,DEM,33
+Johnson,0081 PLEASANT 42,Governor,,John Gregg,DEM,308
+Johnson,0082 PLEASANT 43,Governor,,John Gregg,DEM,241
+Johnson,0083 PLEASANT 44,Governor,,John Gregg,DEM,128
+Johnson,0084 PLEASANT 45,Governor,,John Gregg,DEM,347
+Johnson,0085 PLEASANT 46,Governor,,John Gregg,DEM,91
+Johnson,0086 PLEASANT 47,Governor,,John Gregg,DEM,227
+Johnson,0087 PLEASANT 48,Governor,,John Gregg,DEM,231
+Johnson,0088 PLEASANT 49,Governor,,John Gregg,DEM,139
+Johnson,0089 UNION 1,Governor,,John Gregg,DEM,166
+Johnson,0090 UNION 2,Governor,,John Gregg,DEM,130
+Johnson,0091 UNION 3,Governor,,John Gregg,DEM,108
+Johnson,0092 WHITE RIVER 1,Governor,,John Gregg,DEM,142
+Johnson,0093 WHITE RIVER 2,Governor,,John Gregg,DEM,87
+Johnson,0094 WHITE RIVER 3,Governor,,John Gregg,DEM,208
+Johnson,0095 WHITE RIVER 4,Governor,,John Gregg,DEM,156
+Johnson,0096 WHITE RIVER 5,Governor,,John Gregg,DEM,124
+Johnson,0097 WHITE RIVER 6,Governor,,John Gregg,DEM,155
+Johnson,0098 WHITE RIVER 7,Governor,,John Gregg,DEM,228
+Johnson,0099 WHITE RIVER 8,Governor,,John Gregg,DEM,214
+Johnson,0100 WHITE RIVER 9,Governor,,John Gregg,DEM,251
+Johnson,0101 WHITE RIVER 10,Governor,,John Gregg,DEM,121
+Johnson,0102 WHITE RIVER 11,Governor,,John Gregg,DEM,190
+Johnson,0103 WHITE RIVER 12,Governor,,John Gregg,DEM,191
+Johnson,0104 WHITE RIVER 13,Governor,,John Gregg,DEM,157
+Johnson,0105 WHITE RIVER 14,Governor,,John Gregg,DEM,259
+Johnson,0106 WHITE RIVER 15,Governor,,John Gregg,DEM,329
+Johnson,0107 WHITE RIVER 16,Governor,,John Gregg,DEM,249
+Johnson,0108 WHITE RIVER 17,Governor,,John Gregg,DEM,146
+Johnson,0109 WHITE RIVER 18,Governor,,John Gregg,DEM,150
+Johnson,0110 WHITE RIVER 19,Governor,,John Gregg,DEM,176
+Johnson,0111 WHITE RIVER 20,Governor,,John Gregg,DEM,131
+Johnson,0112 WHITE RIVER 21,Governor,,John Gregg,DEM,275
+Johnson,0113 WHITE RIVER 22,Governor,,John Gregg,DEM,217
+Johnson,0114 WHITE RIVER 23,Governor,,John Gregg,DEM,94
+Johnson,0115 WHITE RIVER 24,Governor,,John Gregg,DEM,119
+Johnson,0116 WHITE RIVER 25,Governor,,John Gregg,DEM,207
+Johnson,0117 WHITE RIVER 26,Governor,,John Gregg,DEM,142
+Johnson,0118 WHITE RIVER 27,Governor,,John Gregg,DEM,132
+Johnson,0119 WHITE RIVER 28,Governor,,John Gregg,DEM,104
+Johnson,0120 WHITE RIVER 29,Governor,,John Gregg,DEM,275
+Johnson,0121 WHITE RIVER 30,Governor,,John Gregg,DEM,188
+Johnson,0122 WHITE RIVER 31,Governor,,John Gregg,DEM,160
+Johnson,0123 WHITE RIVER 32,Governor,,John Gregg,DEM,234
+Johnson,0124 WHITE RIVER 33,Governor,,John Gregg,DEM,145
+Johnson,0125 WHITE RIVER 34,Governor,,John Gregg,DEM,169
+Johnson,0126 WHITE RIVER 35,Governor,,John Gregg,DEM,336
+Johnson,0127 WHITE RIVER 36,Governor,,John Gregg,DEM,157
+Johnson,0128 WHITE RIVER 37,Governor,,John Gregg,DEM,398
+Johnson,0129 WHITE RIVER 38,Governor,,John Gregg,DEM,128
+Johnson,0130 WHITE RIVER 39,Governor,,John Gregg,DEM,256
+Johnson,0131 WHITE RIVER 40,Governor,,John Gregg,DEM,136
+Johnson,0132 WHITE RIVER 41,Governor,,John Gregg,DEM,160
+Johnson,0133 WHITE RIVER 42,Governor,,John Gregg,DEM,169
+Johnson,0134 WHITE RIVER 43,Governor,,John Gregg,DEM,78
+Johnson,,Governor,,John Gregg,DEM,22263
+Johnson,0001 BLUE RIVER 1,Governor,,Rex Bell,LBT,8
+Johnson,0002 BLUE RIVER 2,Governor,,Rex Bell,LBT,16
+Johnson,0003 BLUE RIVER 3,Governor,,Rex Bell,LBT,13
+Johnson,0004 BLUE RIVER 4,Governor,,Rex Bell,LBT,24
+Johnson,0005 BLUE RIVER 5,Governor,,Rex Bell,LBT,8
+Johnson,0006 CLARK 1,Governor,,Rex Bell,LBT,6
+Johnson,0007 CLARK 2,Governor,,Rex Bell,LBT,10
+Johnson,0008 CLARK 3,Governor,,Rex Bell,LBT,13
+Johnson,0009 FRANKLIN 1,Governor,,Rex Bell,LBT,17
+Johnson,0010 FRANKLIN 2,Governor,,Rex Bell,LBT,13
+Johnson,0011 FRANKLIN 3,Governor,,Rex Bell,LBT,13
+Johnson,0012 FRANKLIN 4,Governor,,Rex Bell,LBT,13
+Johnson,0013 FRANKLIN 5,Governor,,Rex Bell,LBT,8
+Johnson,0014 FRANKLIN 6,Governor,,Rex Bell,LBT,27
+Johnson,0015 FRANKLIN 7,Governor,,Rex Bell,LBT,15
+Johnson,0016 FRANKLIN 8,Governor,,Rex Bell,LBT,1
+Johnson,0017 FRANKLIN 9,Governor,,Rex Bell,LBT,25
+Johnson,0018 FRANKLIN 10,Governor,,Rex Bell,LBT,9
+Johnson,0019 FRANKLIN 11,Governor,,Rex Bell,LBT,12
+Johnson,0020 FRANKLIN 12,Governor,,Rex Bell,LBT,8
+Johnson,0021 FRANKLIN 13,Governor,,Rex Bell,LBT,8
+Johnson,0022 FRANKLIN 14,Governor,,Rex Bell,LBT,6
+Johnson,0023 FRANKLIN 15,Governor,,Rex Bell,LBT,17
+Johnson,0024 FRANKLIN 16,Governor,,Rex Bell,LBT,23
+Johnson,0025 FRANKLIN 17,Governor,,Rex Bell,LBT,9
+Johnson,0026 FRANKLIN 18,Governor,,Rex Bell,LBT,19
+Johnson,0027 FRANKLIN 19,Governor,,Rex Bell,LBT,31
+Johnson,0028 FRANKLIN 20,Governor,,Rex Bell,LBT,17
+Johnson,0029 HENSLEY 1,Governor,,Rex Bell,LBT,8
+Johnson,0030 HENSLEY 2,Governor,,Rex Bell,LBT,20
+Johnson,0031 HENSLEY 3,Governor,,Rex Bell,LBT,29
+Johnson,0032 NEEDHAM 1,Governor,,Rex Bell,LBT,22
+Johnson,0033 NEEDHAM 2,Governor,,Rex Bell,LBT,17
+Johnson,0034 NEEDHAM 3,Governor,,Rex Bell,LBT,9
+Johnson,0035 NEEDHAM 4,Governor,,Rex Bell,LBT,20
+Johnson,0036 NEEDHAM 5,Governor,,Rex Bell,LBT,23
+Johnson,0037 NINEVEH 1,Governor,,Rex Bell,LBT,26
+Johnson,0038 NINEVEH 2,Governor,,Rex Bell,LBT,27
+Johnson,0039 NINEVEH 3,Governor,,Rex Bell,LBT,13
+Johnson,0040 PLEASANT 1,Governor,,Rex Bell,LBT,17
+Johnson,0041 PLEASANT 2,Governor,,Rex Bell,LBT,21
+Johnson,0042 PLEASANT 3,Governor,,Rex Bell,LBT,15
+Johnson,0043 PLEASANT 4,Governor,,Rex Bell,LBT,9
+Johnson,0044 PLEASANT 5,Governor,,Rex Bell,LBT,13
+Johnson,0045 PLEASANT 6,Governor,,Rex Bell,LBT,12
+Johnson,0046 PLEASANT 7,Governor,,Rex Bell,LBT,26
+Johnson,0047 PLEASANT 8,Governor,,Rex Bell,LBT,11
+Johnson,0048 PLEASANT 9,Governor,,Rex Bell,LBT,23
+Johnson,0049 PLEASANT 10,Governor,,Rex Bell,LBT,12
+Johnson,0050 PLEASANT 11,Governor,,Rex Bell,LBT,21
+Johnson,0051 PLEASANT 12,Governor,,Rex Bell,LBT,9
+Johnson,0052 PLEASANT 13,Governor,,Rex Bell,LBT,19
+Johnson,0053 PLEASANT 14,Governor,,Rex Bell,LBT,20
+Johnson,0054 PLEASANT 15,Governor,,Rex Bell,LBT,17
+Johnson,0055 PLEASANT 16,Governor,,Rex Bell,LBT,13
+Johnson,0056 PLEASANT 17,Governor,,Rex Bell,LBT,11
+Johnson,0057 PLEASANT 18,Governor,,Rex Bell,LBT,9
+Johnson,0058 PLEASANT 19,Governor,,Rex Bell,LBT,43
+Johnson,0059 PLEASANT 20,Governor,,Rex Bell,LBT,8
+Johnson,0060 PLEASANT 21,Governor,,Rex Bell,LBT,17
+Johnson,0061 PLEASANT 22,Governor,,Rex Bell,LBT,37
+Johnson,0062 PLEASANT 23,Governor,,Rex Bell,LBT,6
+Johnson,0063 PLEASANT 24,Governor,,Rex Bell,LBT,12
+Johnson,0064 PLEASANT 25,Governor,,Rex Bell,LBT,14
+Johnson,0065 PLEASANT 26,Governor,,Rex Bell,LBT,11
+Johnson,0066 PLEASANT 27,Governor,,Rex Bell,LBT,7
+Johnson,0067 PLEASANT 28,Governor,,Rex Bell,LBT,16
+Johnson,0068 PLEASANT 29,Governor,,Rex Bell,LBT,18
+Johnson,0069 PLEASANT 30,Governor,,Rex Bell,LBT,25
+Johnson,0070 PLEASANT 31,Governor,,Rex Bell,LBT,22
+Johnson,0071 PLEASANT 32,Governor,,Rex Bell,LBT,10
+Johnson,0072 PLEASANT 33,Governor,,Rex Bell,LBT,26
+Johnson,0073 PLEASANT 34,Governor,,Rex Bell,LBT,26
+Johnson,0074 PLEASANT 35,Governor,,Rex Bell,LBT,7
+Johnson,0075 PLEASANT 36,Governor,,Rex Bell,LBT,2
+Johnson,0076 PLEASANT 37,Governor,,Rex Bell,LBT,14
+Johnson,0077 PLEASANT 38,Governor,,Rex Bell,LBT,18
+Johnson,0078 PLEASANT 39,Governor,,Rex Bell,LBT,25
+Johnson,0079 PLEASANT 40,Governor,,Rex Bell,LBT,24
+Johnson,0080 PLEASANT 41,Governor,,Rex Bell,LBT,6
+Johnson,0081 PLEASANT 42,Governor,,Rex Bell,LBT,26
+Johnson,0082 PLEASANT 43,Governor,,Rex Bell,LBT,5
+Johnson,0083 PLEASANT 44,Governor,,Rex Bell,LBT,15
+Johnson,0084 PLEASANT 45,Governor,,Rex Bell,LBT,22
+Johnson,0085 PLEASANT 46,Governor,,Rex Bell,LBT,10
+Johnson,0086 PLEASANT 47,Governor,,Rex Bell,LBT,9
+Johnson,0087 PLEASANT 48,Governor,,Rex Bell,LBT,33
+Johnson,0088 PLEASANT 49,Governor,,Rex Bell,LBT,7
+Johnson,0089 UNION 1,Governor,,Rex Bell,LBT,18
+Johnson,0090 UNION 2,Governor,,Rex Bell,LBT,11
+Johnson,0091 UNION 3,Governor,,Rex Bell,LBT,6
+Johnson,0092 WHITE RIVER 1,Governor,,Rex Bell,LBT,7
+Johnson,0093 WHITE RIVER 2,Governor,,Rex Bell,LBT,2
+Johnson,0094 WHITE RIVER 3,Governor,,Rex Bell,LBT,19
+Johnson,0095 WHITE RIVER 4,Governor,,Rex Bell,LBT,6
+Johnson,0096 WHITE RIVER 5,Governor,,Rex Bell,LBT,13
+Johnson,0097 WHITE RIVER 6,Governor,,Rex Bell,LBT,14
+Johnson,0098 WHITE RIVER 7,Governor,,Rex Bell,LBT,18
+Johnson,0099 WHITE RIVER 8,Governor,,Rex Bell,LBT,14
+Johnson,0100 WHITE RIVER 9,Governor,,Rex Bell,LBT,26
+Johnson,0101 WHITE RIVER 10,Governor,,Rex Bell,LBT,4
+Johnson,0102 WHITE RIVER 11,Governor,,Rex Bell,LBT,22
+Johnson,0103 WHITE RIVER 12,Governor,,Rex Bell,LBT,10
+Johnson,0104 WHITE RIVER 13,Governor,,Rex Bell,LBT,7
+Johnson,0105 WHITE RIVER 14,Governor,,Rex Bell,LBT,16
+Johnson,0106 WHITE RIVER 15,Governor,,Rex Bell,LBT,32
+Johnson,0107 WHITE RIVER 16,Governor,,Rex Bell,LBT,16
+Johnson,0108 WHITE RIVER 17,Governor,,Rex Bell,LBT,11
+Johnson,0109 WHITE RIVER 18,Governor,,Rex Bell,LBT,8
+Johnson,0110 WHITE RIVER 19,Governor,,Rex Bell,LBT,16
+Johnson,0111 WHITE RIVER 20,Governor,,Rex Bell,LBT,4
+Johnson,0112 WHITE RIVER 21,Governor,,Rex Bell,LBT,7
+Johnson,0113 WHITE RIVER 22,Governor,,Rex Bell,LBT,13
+Johnson,0114 WHITE RIVER 23,Governor,,Rex Bell,LBT,8
+Johnson,0115 WHITE RIVER 24,Governor,,Rex Bell,LBT,11
+Johnson,0116 WHITE RIVER 25,Governor,,Rex Bell,LBT,16
+Johnson,0117 WHITE RIVER 26,Governor,,Rex Bell,LBT,5
+Johnson,0118 WHITE RIVER 27,Governor,,Rex Bell,LBT,22
+Johnson,0119 WHITE RIVER 28,Governor,,Rex Bell,LBT,9
+Johnson,0120 WHITE RIVER 29,Governor,,Rex Bell,LBT,20
+Johnson,0121 WHITE RIVER 30,Governor,,Rex Bell,LBT,16
+Johnson,0122 WHITE RIVER 31,Governor,,Rex Bell,LBT,10
+Johnson,0123 WHITE RIVER 32,Governor,,Rex Bell,LBT,9
+Johnson,0124 WHITE RIVER 33,Governor,,Rex Bell,LBT,16
+Johnson,0125 WHITE RIVER 34,Governor,,Rex Bell,LBT,3
+Johnson,0126 WHITE RIVER 35,Governor,,Rex Bell,LBT,17
+Johnson,0127 WHITE RIVER 36,Governor,,Rex Bell,LBT,6
+Johnson,0128 WHITE RIVER 37,Governor,,Rex Bell,LBT,40
+Johnson,0129 WHITE RIVER 38,Governor,,Rex Bell,LBT,6
+Johnson,0130 WHITE RIVER 39,Governor,,Rex Bell,LBT,20
+Johnson,0131 WHITE RIVER 40,Governor,,Rex Bell,LBT,5
+Johnson,0132 WHITE RIVER 41,Governor,,Rex Bell,LBT,11
+Johnson,0133 WHITE RIVER 42,Governor,,Rex Bell,LBT,17
+Johnson,0134 WHITE RIVER 43,Governor,,Rex Bell,LBT,5
+Johnson,,Governor,,Rex Bell,LBT,1994
+Johnson,0001 BLUE RIVER 1,Governor,,Write-ins,,1
+Johnson,0002 BLUE RIVER 2,Governor,,Write-ins,,0
+Johnson,0003 BLUE RIVER 3,Governor,,Write-ins,,0
+Johnson,0004 BLUE RIVER 4,Governor,,Write-ins,,1
+Johnson,0005 BLUE RIVER 5,Governor,,Write-ins,,0
+Johnson,0006 CLARK 1,Governor,,Write-ins,,0
+Johnson,0007 CLARK 2,Governor,,Write-ins,,1
+Johnson,0008 CLARK 3,Governor,,Write-ins,,0
+Johnson,0009 FRANKLIN 1,Governor,,Write-ins,,0
+Johnson,0010 FRANKLIN 2,Governor,,Write-ins,,0
+Johnson,0011 FRANKLIN 3,Governor,,Write-ins,,0
+Johnson,0012 FRANKLIN 4,Governor,,Write-ins,,0
+Johnson,0013 FRANKLIN 5,Governor,,Write-ins,,0
+Johnson,0014 FRANKLIN 6,Governor,,Write-ins,,0
+Johnson,0015 FRANKLIN 7,Governor,,Write-ins,,0
+Johnson,0016 FRANKLIN 8,Governor,,Write-ins,,0
+Johnson,0017 FRANKLIN 9,Governor,,Write-ins,,0
+Johnson,0018 FRANKLIN 10,Governor,,Write-ins,,0
+Johnson,0019 FRANKLIN 11,Governor,,Write-ins,,0
+Johnson,0020 FRANKLIN 12,Governor,,Write-ins,,0
+Johnson,0021 FRANKLIN 13,Governor,,Write-ins,,0
+Johnson,0022 FRANKLIN 14,Governor,,Write-ins,,0
+Johnson,0023 FRANKLIN 15,Governor,,Write-ins,,0
+Johnson,0024 FRANKLIN 16,Governor,,Write-ins,,0
+Johnson,0025 FRANKLIN 17,Governor,,Write-ins,,1
+Johnson,0026 FRANKLIN 18,Governor,,Write-ins,,0
+Johnson,0027 FRANKLIN 19,Governor,,Write-ins,,0
+Johnson,0028 FRANKLIN 20,Governor,,Write-ins,,0
+Johnson,0029 HENSLEY 1,Governor,,Write-ins,,0
+Johnson,0030 HENSLEY 2,Governor,,Write-ins,,0
+Johnson,0031 HENSLEY 3,Governor,,Write-ins,,0
+Johnson,0032 NEEDHAM 1,Governor,,Write-ins,,0
+Johnson,0033 NEEDHAM 2,Governor,,Write-ins,,0
+Johnson,0034 NEEDHAM 3,Governor,,Write-ins,,0
+Johnson,0035 NEEDHAM 4,Governor,,Write-ins,,0
+Johnson,0036 NEEDHAM 5,Governor,,Write-ins,,0
+Johnson,0037 NINEVEH 1,Governor,,Write-ins,,1
+Johnson,0038 NINEVEH 2,Governor,,Write-ins,,0
+Johnson,0039 NINEVEH 3,Governor,,Write-ins,,0
+Johnson,0040 PLEASANT 1,Governor,,Write-ins,,0
+Johnson,0041 PLEASANT 2,Governor,,Write-ins,,0
+Johnson,0042 PLEASANT 3,Governor,,Write-ins,,1
+Johnson,0043 PLEASANT 4,Governor,,Write-ins,,1
+Johnson,0044 PLEASANT 5,Governor,,Write-ins,,0
+Johnson,0045 PLEASANT 6,Governor,,Write-ins,,0
+Johnson,0046 PLEASANT 7,Governor,,Write-ins,,0
+Johnson,0047 PLEASANT 8,Governor,,Write-ins,,0
+Johnson,0048 PLEASANT 9,Governor,,Write-ins,,0
+Johnson,0049 PLEASANT 10,Governor,,Write-ins,,0
+Johnson,0050 PLEASANT 11,Governor,,Write-ins,,1
+Johnson,0051 PLEASANT 12,Governor,,Write-ins,,0
+Johnson,0052 PLEASANT 13,Governor,,Write-ins,,2
+Johnson,0053 PLEASANT 14,Governor,,Write-ins,,0
+Johnson,0054 PLEASANT 15,Governor,,Write-ins,,0
+Johnson,0055 PLEASANT 16,Governor,,Write-ins,,0
+Johnson,0056 PLEASANT 17,Governor,,Write-ins,,0
+Johnson,0057 PLEASANT 18,Governor,,Write-ins,,0
+Johnson,0058 PLEASANT 19,Governor,,Write-ins,,1
+Johnson,0059 PLEASANT 20,Governor,,Write-ins,,0
+Johnson,0060 PLEASANT 21,Governor,,Write-ins,,1
+Johnson,0061 PLEASANT 22,Governor,,Write-ins,,1
+Johnson,0062 PLEASANT 23,Governor,,Write-ins,,0
+Johnson,0063 PLEASANT 24,Governor,,Write-ins,,0
+Johnson,0064 PLEASANT 25,Governor,,Write-ins,,0
+Johnson,0065 PLEASANT 26,Governor,,Write-ins,,0
+Johnson,0066 PLEASANT 27,Governor,,Write-ins,,0
+Johnson,0067 PLEASANT 28,Governor,,Write-ins,,0
+Johnson,0068 PLEASANT 29,Governor,,Write-ins,,1
+Johnson,0069 PLEASANT 30,Governor,,Write-ins,,0
+Johnson,0070 PLEASANT 31,Governor,,Write-ins,,0
+Johnson,0071 PLEASANT 32,Governor,,Write-ins,,1
+Johnson,0072 PLEASANT 33,Governor,,Write-ins,,0
+Johnson,0073 PLEASANT 34,Governor,,Write-ins,,0
+Johnson,0074 PLEASANT 35,Governor,,Write-ins,,0
+Johnson,0075 PLEASANT 36,Governor,,Write-ins,,0
+Johnson,0076 PLEASANT 37,Governor,,Write-ins,,0
+Johnson,0077 PLEASANT 38,Governor,,Write-ins,,0
+Johnson,0078 PLEASANT 39,Governor,,Write-ins,,0
+Johnson,0079 PLEASANT 40,Governor,,Write-ins,,0
+Johnson,0080 PLEASANT 41,Governor,,Write-ins,,0
+Johnson,0081 PLEASANT 42,Governor,,Write-ins,,0
+Johnson,0082 PLEASANT 43,Governor,,Write-ins,,0
+Johnson,0083 PLEASANT 44,Governor,,Write-ins,,0
+Johnson,0084 PLEASANT 45,Governor,,Write-ins,,0
+Johnson,0085 PLEASANT 46,Governor,,Write-ins,,0
+Johnson,0086 PLEASANT 47,Governor,,Write-ins,,0
+Johnson,0087 PLEASANT 48,Governor,,Write-ins,,0
+Johnson,0088 PLEASANT 49,Governor,,Write-ins,,1
+Johnson,0089 UNION 1,Governor,,Write-ins,,0
+Johnson,0090 UNION 2,Governor,,Write-ins,,1
+Johnson,0091 UNION 3,Governor,,Write-ins,,0
+Johnson,0092 WHITE RIVER 1,Governor,,Write-ins,,2
+Johnson,0093 WHITE RIVER 2,Governor,,Write-ins,,0
+Johnson,0094 WHITE RIVER 3,Governor,,Write-ins,,0
+Johnson,0095 WHITE RIVER 4,Governor,,Write-ins,,0
+Johnson,0096 WHITE RIVER 5,Governor,,Write-ins,,1
+Johnson,0097 WHITE RIVER 6,Governor,,Write-ins,,0
+Johnson,0098 WHITE RIVER 7,Governor,,Write-ins,,0
+Johnson,0099 WHITE RIVER 8,Governor,,Write-ins,,0
+Johnson,0100 WHITE RIVER 9,Governor,,Write-ins,,0
+Johnson,0101 WHITE RIVER 10,Governor,,Write-ins,,0
+Johnson,0102 WHITE RIVER 11,Governor,,Write-ins,,0
+Johnson,0103 WHITE RIVER 12,Governor,,Write-ins,,0
+Johnson,0104 WHITE RIVER 13,Governor,,Write-ins,,0
+Johnson,0105 WHITE RIVER 14,Governor,,Write-ins,,0
+Johnson,0106 WHITE RIVER 15,Governor,,Write-ins,,0
+Johnson,0107 WHITE RIVER 16,Governor,,Write-ins,,0
+Johnson,0108 WHITE RIVER 17,Governor,,Write-ins,,0
+Johnson,0109 WHITE RIVER 18,Governor,,Write-ins,,1
+Johnson,0110 WHITE RIVER 19,Governor,,Write-ins,,1
+Johnson,0111 WHITE RIVER 20,Governor,,Write-ins,,0
+Johnson,0112 WHITE RIVER 21,Governor,,Write-ins,,1
+Johnson,0113 WHITE RIVER 22,Governor,,Write-ins,,0
+Johnson,0114 WHITE RIVER 23,Governor,,Write-ins,,0
+Johnson,0115 WHITE RIVER 24,Governor,,Write-ins,,0
+Johnson,0116 WHITE RIVER 25,Governor,,Write-ins,,0
+Johnson,0117 WHITE RIVER 26,Governor,,Write-ins,,0
+Johnson,0118 WHITE RIVER 27,Governor,,Write-ins,,2
+Johnson,0119 WHITE RIVER 28,Governor,,Write-ins,,0
+Johnson,0120 WHITE RIVER 29,Governor,,Write-ins,,0
+Johnson,0121 WHITE RIVER 30,Governor,,Write-ins,,1
+Johnson,0122 WHITE RIVER 31,Governor,,Write-ins,,0
+Johnson,0123 WHITE RIVER 32,Governor,,Write-ins,,0
+Johnson,0124 WHITE RIVER 33,Governor,,Write-ins,,0
+Johnson,0125 WHITE RIVER 34,Governor,,Write-ins,,0
+Johnson,0126 WHITE RIVER 35,Governor,,Write-ins,,3
+Johnson,0127 WHITE RIVER 36,Governor,,Write-ins,,0
+Johnson,0128 WHITE RIVER 37,Governor,,Write-ins,,1
+Johnson,0129 WHITE RIVER 38,Governor,,Write-ins,,0
+Johnson,0130 WHITE RIVER 39,Governor,,Write-ins,,0
+Johnson,0131 WHITE RIVER 40,Governor,,Write-ins,,0
+Johnson,0132 WHITE RIVER 41,Governor,,Write-ins,,0
+Johnson,0133 WHITE RIVER 42,Governor,,Write-ins,,0
+Johnson,0134 WHITE RIVER 43,Governor,,Write-ins,,0
+Johnson,,Governor,,Write-ins,,30
+Johnson,0001 BLUE RIVER 1,Attorney General,,Curtis Hill,REP,209
+Johnson,0002 BLUE RIVER 2,Attorney General,,Curtis Hill,REP,272
+Johnson,0003 BLUE RIVER 3,Attorney General,,Curtis Hill,REP,349
+Johnson,0004 BLUE RIVER 4,Attorney General,,Curtis Hill,REP,239
+Johnson,0005 BLUE RIVER 5,Attorney General,,Curtis Hill,REP,245
+Johnson,0006 CLARK 1,Attorney General,,Curtis Hill,REP,248
+Johnson,0007 CLARK 2,Attorney General,,Curtis Hill,REP,470
+Johnson,0008 CLARK 3,Attorney General,,Curtis Hill,REP,428
+Johnson,0009 FRANKLIN 1,Attorney General,,Curtis Hill,REP,518
+Johnson,0010 FRANKLIN 2,Attorney General,,Curtis Hill,REP,281
+Johnson,0011 FRANKLIN 3,Attorney General,,Curtis Hill,REP,182
+Johnson,0012 FRANKLIN 4,Attorney General,,Curtis Hill,REP,287
+Johnson,0013 FRANKLIN 5,Attorney General,,Curtis Hill,REP,132
+Johnson,0014 FRANKLIN 6,Attorney General,,Curtis Hill,REP,329
+Johnson,0015 FRANKLIN 7,Attorney General,,Curtis Hill,REP,210
+Johnson,0016 FRANKLIN 8,Attorney General,,Curtis Hill,REP,156
+Johnson,0017 FRANKLIN 9,Attorney General,,Curtis Hill,REP,571
+Johnson,0018 FRANKLIN 10,Attorney General,,Curtis Hill,REP,246
+Johnson,0019 FRANKLIN 11,Attorney General,,Curtis Hill,REP,234
+Johnson,0020 FRANKLIN 12,Attorney General,,Curtis Hill,REP,141
+Johnson,0021 FRANKLIN 13,Attorney General,,Curtis Hill,REP,200
+Johnson,0022 FRANKLIN 14,Attorney General,,Curtis Hill,REP,161
+Johnson,0023 FRANKLIN 15,Attorney General,,Curtis Hill,REP,419
+Johnson,0024 FRANKLIN 16,Attorney General,,Curtis Hill,REP,487
+Johnson,0025 FRANKLIN 17,Attorney General,,Curtis Hill,REP,314
+Johnson,0026 FRANKLIN 18,Attorney General,,Curtis Hill,REP,257
+Johnson,0027 FRANKLIN 19,Attorney General,,Curtis Hill,REP,416
+Johnson,0028 FRANKLIN 20,Attorney General,,Curtis Hill,REP,227
+Johnson,0029 HENSLEY 1,Attorney General,,Curtis Hill,REP,261
+Johnson,0030 HENSLEY 2,Attorney General,,Curtis Hill,REP,625
+Johnson,0031 HENSLEY 3,Attorney General,,Curtis Hill,REP,541
+Johnson,0032 NEEDHAM 1,Attorney General,,Curtis Hill,REP,571
+Johnson,0033 NEEDHAM 2,Attorney General,,Curtis Hill,REP,577
+Johnson,0034 NEEDHAM 3,Attorney General,,Curtis Hill,REP,343
+Johnson,0035 NEEDHAM 4,Attorney General,,Curtis Hill,REP,407
+Johnson,0036 NEEDHAM 5,Attorney General,,Curtis Hill,REP,526
+Johnson,0037 NINEVEH 1,Attorney General,,Curtis Hill,REP,738
+Johnson,0038 NINEVEH 2,Attorney General,,Curtis Hill,REP,553
+Johnson,0039 NINEVEH 3,Attorney General,,Curtis Hill,REP,266
+Johnson,0040 PLEASANT 1,Attorney General,,Curtis Hill,REP,364
+Johnson,0041 PLEASANT 2,Attorney General,,Curtis Hill,REP,304
+Johnson,0042 PLEASANT 3,Attorney General,,Curtis Hill,REP,382
+Johnson,0043 PLEASANT 4,Attorney General,,Curtis Hill,REP,215
+Johnson,0044 PLEASANT 5,Attorney General,,Curtis Hill,REP,161
+Johnson,0045 PLEASANT 6,Attorney General,,Curtis Hill,REP,277
+Johnson,0046 PLEASANT 7,Attorney General,,Curtis Hill,REP,383
+Johnson,0047 PLEASANT 8,Attorney General,,Curtis Hill,REP,311
+Johnson,0048 PLEASANT 9,Attorney General,,Curtis Hill,REP,327
+Johnson,0049 PLEASANT 10,Attorney General,,Curtis Hill,REP,194
+Johnson,0050 PLEASANT 11,Attorney General,,Curtis Hill,REP,596
+Johnson,0051 PLEASANT 12,Attorney General,,Curtis Hill,REP,347
+Johnson,0052 PLEASANT 13,Attorney General,,Curtis Hill,REP,308
+Johnson,0053 PLEASANT 14,Attorney General,,Curtis Hill,REP,543
+Johnson,0054 PLEASANT 15,Attorney General,,Curtis Hill,REP,137
+Johnson,0055 PLEASANT 16,Attorney General,,Curtis Hill,REP,378
+Johnson,0056 PLEASANT 17,Attorney General,,Curtis Hill,REP,371
+Johnson,0057 PLEASANT 18,Attorney General,,Curtis Hill,REP,238
+Johnson,0058 PLEASANT 19,Attorney General,,Curtis Hill,REP,663
+Johnson,0059 PLEASANT 20,Attorney General,,Curtis Hill,REP,169
+Johnson,0060 PLEASANT 21,Attorney General,,Curtis Hill,REP,561
+Johnson,0061 PLEASANT 22,Attorney General,,Curtis Hill,REP,990
+Johnson,0062 PLEASANT 23,Attorney General,,Curtis Hill,REP,121
+Johnson,0063 PLEASANT 24,Attorney General,,Curtis Hill,REP,174
+Johnson,0064 PLEASANT 25,Attorney General,,Curtis Hill,REP,102
+Johnson,0065 PLEASANT 26,Attorney General,,Curtis Hill,REP,167
+Johnson,0066 PLEASANT 27,Attorney General,,Curtis Hill,REP,173
+Johnson,0067 PLEASANT 28,Attorney General,,Curtis Hill,REP,494
+Johnson,0068 PLEASANT 29,Attorney General,,Curtis Hill,REP,230
+Johnson,0069 PLEASANT 30,Attorney General,,Curtis Hill,REP,305
+Johnson,0070 PLEASANT 31,Attorney General,,Curtis Hill,REP,531
+Johnson,0071 PLEASANT 32,Attorney General,,Curtis Hill,REP,240
+Johnson,0072 PLEASANT 33,Attorney General,,Curtis Hill,REP,544
+Johnson,0073 PLEASANT 34,Attorney General,,Curtis Hill,REP,382
+Johnson,0074 PLEASANT 35,Attorney General,,Curtis Hill,REP,344
+Johnson,0075 PLEASANT 36,Attorney General,,Curtis Hill,REP,124
+Johnson,0076 PLEASANT 37,Attorney General,,Curtis Hill,REP,140
+Johnson,0077 PLEASANT 38,Attorney General,,Curtis Hill,REP,388
+Johnson,0078 PLEASANT 39,Attorney General,,Curtis Hill,REP,486
+Johnson,0079 PLEASANT 40,Attorney General,,Curtis Hill,REP,377
+Johnson,0080 PLEASANT 41,Attorney General,,Curtis Hill,REP,99
+Johnson,0081 PLEASANT 42,Attorney General,,Curtis Hill,REP,554
+Johnson,0082 PLEASANT 43,Attorney General,,Curtis Hill,REP,509
+Johnson,0083 PLEASANT 44,Attorney General,,Curtis Hill,REP,203
+Johnson,0084 PLEASANT 45,Attorney General,,Curtis Hill,REP,313
+Johnson,0085 PLEASANT 46,Attorney General,,Curtis Hill,REP,253
+Johnson,0086 PLEASANT 47,Attorney General,,Curtis Hill,REP,383
+Johnson,0087 PLEASANT 48,Attorney General,,Curtis Hill,REP,333
+Johnson,0088 PLEASANT 49,Attorney General,,Curtis Hill,REP,285
+Johnson,0089 UNION 1,Attorney General,,Curtis Hill,REP,447
+Johnson,0090 UNION 2,Attorney General,,Curtis Hill,REP,367
+Johnson,0091 UNION 3,Attorney General,,Curtis Hill,REP,261
+Johnson,0092 WHITE RIVER 1,Attorney General,,Curtis Hill,REP,370
+Johnson,0093 WHITE RIVER 2,Attorney General,,Curtis Hill,REP,171
+Johnson,0094 WHITE RIVER 3,Attorney General,,Curtis Hill,REP,402
+Johnson,0095 WHITE RIVER 4,Attorney General,,Curtis Hill,REP,385
+Johnson,0096 WHITE RIVER 5,Attorney General,,Curtis Hill,REP,297
+Johnson,0097 WHITE RIVER 6,Attorney General,,Curtis Hill,REP,351
+Johnson,0098 WHITE RIVER 7,Attorney General,,Curtis Hill,REP,468
+Johnson,0099 WHITE RIVER 8,Attorney General,,Curtis Hill,REP,515
+Johnson,0100 WHITE RIVER 9,Attorney General,,Curtis Hill,REP,569
+Johnson,0101 WHITE RIVER 10,Attorney General,,Curtis Hill,REP,321
+Johnson,0102 WHITE RIVER 11,Attorney General,,Curtis Hill,REP,481
+Johnson,0103 WHITE RIVER 12,Attorney General,,Curtis Hill,REP,431
+Johnson,0104 WHITE RIVER 13,Attorney General,,Curtis Hill,REP,341
+Johnson,0105 WHITE RIVER 14,Attorney General,,Curtis Hill,REP,561
+Johnson,0106 WHITE RIVER 15,Attorney General,,Curtis Hill,REP,842
+Johnson,0107 WHITE RIVER 16,Attorney General,,Curtis Hill,REP,565
+Johnson,0108 WHITE RIVER 17,Attorney General,,Curtis Hill,REP,316
+Johnson,0109 WHITE RIVER 18,Attorney General,,Curtis Hill,REP,319
+Johnson,0110 WHITE RIVER 19,Attorney General,,Curtis Hill,REP,337
+Johnson,0111 WHITE RIVER 20,Attorney General,,Curtis Hill,REP,348
+Johnson,0112 WHITE RIVER 21,Attorney General,,Curtis Hill,REP,592
+Johnson,0113 WHITE RIVER 22,Attorney General,,Curtis Hill,REP,487
+Johnson,0114 WHITE RIVER 23,Attorney General,,Curtis Hill,REP,225
+Johnson,0115 WHITE RIVER 24,Attorney General,,Curtis Hill,REP,380
+Johnson,0116 WHITE RIVER 25,Attorney General,,Curtis Hill,REP,379
+Johnson,0117 WHITE RIVER 26,Attorney General,,Curtis Hill,REP,285
+Johnson,0118 WHITE RIVER 27,Attorney General,,Curtis Hill,REP,375
+Johnson,0119 WHITE RIVER 28,Attorney General,,Curtis Hill,REP,294
+Johnson,0120 WHITE RIVER 29,Attorney General,,Curtis Hill,REP,611
+Johnson,0121 WHITE RIVER 30,Attorney General,,Curtis Hill,REP,298
+Johnson,0122 WHITE RIVER 31,Attorney General,,Curtis Hill,REP,253
+Johnson,0123 WHITE RIVER 32,Attorney General,,Curtis Hill,REP,533
+Johnson,0124 WHITE RIVER 33,Attorney General,,Curtis Hill,REP,325
+Johnson,0125 WHITE RIVER 34,Attorney General,,Curtis Hill,REP,484
+Johnson,0126 WHITE RIVER 35,Attorney General,,Curtis Hill,REP,888
+Johnson,0127 WHITE RIVER 36,Attorney General,,Curtis Hill,REP,281
+Johnson,0128 WHITE RIVER 37,Attorney General,,Curtis Hill,REP,696
+Johnson,0129 WHITE RIVER 38,Attorney General,,Curtis Hill,REP,338
+Johnson,0130 WHITE RIVER 39,Attorney General,,Curtis Hill,REP,523
+Johnson,0131 WHITE RIVER 40,Attorney General,,Curtis Hill,REP,345
+Johnson,0132 WHITE RIVER 41,Attorney General,,Curtis Hill,REP,348
+Johnson,0133 WHITE RIVER 42,Attorney General,,Curtis Hill,REP,366
+Johnson,0134 WHITE RIVER 43,Attorney General,,Curtis Hill,REP,231
+Johnson,,Attorney General,,Curtis Hill,REP,49111
+Johnson,0001 BLUE RIVER 1,Attorney General,,Lorenzo Arredondo,DEM,53
+Johnson,0002 BLUE RIVER 2,Attorney General,,Lorenzo Arredondo,DEM,77
+Johnson,0003 BLUE RIVER 3,Attorney General,,Lorenzo Arredondo,DEM,70
+Johnson,0004 BLUE RIVER 4,Attorney General,,Lorenzo Arredondo,DEM,72
+Johnson,0005 BLUE RIVER 5,Attorney General,,Lorenzo Arredondo,DEM,53
+Johnson,0006 CLARK 1,Attorney General,,Lorenzo Arredondo,DEM,42
+Johnson,0007 CLARK 2,Attorney General,,Lorenzo Arredondo,DEM,82
+Johnson,0008 CLARK 3,Attorney General,,Lorenzo Arredondo,DEM,148
+Johnson,0009 FRANKLIN 1,Attorney General,,Lorenzo Arredondo,DEM,121
+Johnson,0010 FRANKLIN 2,Attorney General,,Lorenzo Arredondo,DEM,144
+Johnson,0011 FRANKLIN 3,Attorney General,,Lorenzo Arredondo,DEM,68
+Johnson,0012 FRANKLIN 4,Attorney General,,Lorenzo Arredondo,DEM,126
+Johnson,0013 FRANKLIN 5,Attorney General,,Lorenzo Arredondo,DEM,83
+Johnson,0014 FRANKLIN 6,Attorney General,,Lorenzo Arredondo,DEM,124
+Johnson,0015 FRANKLIN 7,Attorney General,,Lorenzo Arredondo,DEM,118
+Johnson,0016 FRANKLIN 8,Attorney General,,Lorenzo Arredondo,DEM,43
+Johnson,0017 FRANKLIN 9,Attorney General,,Lorenzo Arredondo,DEM,181
+Johnson,0018 FRANKLIN 10,Attorney General,,Lorenzo Arredondo,DEM,72
+Johnson,0019 FRANKLIN 11,Attorney General,,Lorenzo Arredondo,DEM,76
+Johnson,0020 FRANKLIN 12,Attorney General,,Lorenzo Arredondo,DEM,52
+Johnson,0021 FRANKLIN 13,Attorney General,,Lorenzo Arredondo,DEM,53
+Johnson,0022 FRANKLIN 14,Attorney General,,Lorenzo Arredondo,DEM,74
+Johnson,0023 FRANKLIN 15,Attorney General,,Lorenzo Arredondo,DEM,114
+Johnson,0024 FRANKLIN 16,Attorney General,,Lorenzo Arredondo,DEM,156
+Johnson,0025 FRANKLIN 17,Attorney General,,Lorenzo Arredondo,DEM,119
+Johnson,0026 FRANKLIN 18,Attorney General,,Lorenzo Arredondo,DEM,99
+Johnson,0027 FRANKLIN 19,Attorney General,,Lorenzo Arredondo,DEM,143
+Johnson,0028 FRANKLIN 20,Attorney General,,Lorenzo Arredondo,DEM,97
+Johnson,0029 HENSLEY 1,Attorney General,,Lorenzo Arredondo,DEM,45
+Johnson,0030 HENSLEY 2,Attorney General,,Lorenzo Arredondo,DEM,143
+Johnson,0031 HENSLEY 3,Attorney General,,Lorenzo Arredondo,DEM,94
+Johnson,0032 NEEDHAM 1,Attorney General,,Lorenzo Arredondo,DEM,122
+Johnson,0033 NEEDHAM 2,Attorney General,,Lorenzo Arredondo,DEM,189
+Johnson,0034 NEEDHAM 3,Attorney General,,Lorenzo Arredondo,DEM,71
+Johnson,0035 NEEDHAM 4,Attorney General,,Lorenzo Arredondo,DEM,157
+Johnson,0036 NEEDHAM 5,Attorney General,,Lorenzo Arredondo,DEM,186
+Johnson,0037 NINEVEH 1,Attorney General,,Lorenzo Arredondo,DEM,142
+Johnson,0038 NINEVEH 2,Attorney General,,Lorenzo Arredondo,DEM,122
+Johnson,0039 NINEVEH 3,Attorney General,,Lorenzo Arredondo,DEM,54
+Johnson,0040 PLEASANT 1,Attorney General,,Lorenzo Arredondo,DEM,95
+Johnson,0041 PLEASANT 2,Attorney General,,Lorenzo Arredondo,DEM,123
+Johnson,0042 PLEASANT 3,Attorney General,,Lorenzo Arredondo,DEM,149
+Johnson,0043 PLEASANT 4,Attorney General,,Lorenzo Arredondo,DEM,107
+Johnson,0044 PLEASANT 5,Attorney General,,Lorenzo Arredondo,DEM,71
+Johnson,0045 PLEASANT 6,Attorney General,,Lorenzo Arredondo,DEM,82
+Johnson,0046 PLEASANT 7,Attorney General,,Lorenzo Arredondo,DEM,122
+Johnson,0047 PLEASANT 8,Attorney General,,Lorenzo Arredondo,DEM,106
+Johnson,0048 PLEASANT 9,Attorney General,,Lorenzo Arredondo,DEM,119
+Johnson,0049 PLEASANT 10,Attorney General,,Lorenzo Arredondo,DEM,65
+Johnson,0050 PLEASANT 11,Attorney General,,Lorenzo Arredondo,DEM,179
+Johnson,0051 PLEASANT 12,Attorney General,,Lorenzo Arredondo,DEM,95
+Johnson,0052 PLEASANT 13,Attorney General,,Lorenzo Arredondo,DEM,256
+Johnson,0053 PLEASANT 14,Attorney General,,Lorenzo Arredondo,DEM,154
+Johnson,0054 PLEASANT 15,Attorney General,,Lorenzo Arredondo,DEM,60
+Johnson,0055 PLEASANT 16,Attorney General,,Lorenzo Arredondo,DEM,104
+Johnson,0056 PLEASANT 17,Attorney General,,Lorenzo Arredondo,DEM,153
+Johnson,0057 PLEASANT 18,Attorney General,,Lorenzo Arredondo,DEM,89
+Johnson,0058 PLEASANT 19,Attorney General,,Lorenzo Arredondo,DEM,206
+Johnson,0059 PLEASANT 20,Attorney General,,Lorenzo Arredondo,DEM,77
+Johnson,0060 PLEASANT 21,Attorney General,,Lorenzo Arredondo,DEM,132
+Johnson,0061 PLEASANT 22,Attorney General,,Lorenzo Arredondo,DEM,347
+Johnson,0062 PLEASANT 23,Attorney General,,Lorenzo Arredondo,DEM,48
+Johnson,0063 PLEASANT 24,Attorney General,,Lorenzo Arredondo,DEM,48
+Johnson,0064 PLEASANT 25,Attorney General,,Lorenzo Arredondo,DEM,57
+Johnson,0065 PLEASANT 26,Attorney General,,Lorenzo Arredondo,DEM,62
+Johnson,0066 PLEASANT 27,Attorney General,,Lorenzo Arredondo,DEM,75
+Johnson,0067 PLEASANT 28,Attorney General,,Lorenzo Arredondo,DEM,156
+Johnson,0068 PLEASANT 29,Attorney General,,Lorenzo Arredondo,DEM,111
+Johnson,0069 PLEASANT 30,Attorney General,,Lorenzo Arredondo,DEM,131
+Johnson,0070 PLEASANT 31,Attorney General,,Lorenzo Arredondo,DEM,115
+Johnson,0071 PLEASANT 32,Attorney General,,Lorenzo Arredondo,DEM,99
+Johnson,0072 PLEASANT 33,Attorney General,,Lorenzo Arredondo,DEM,181
+Johnson,0073 PLEASANT 34,Attorney General,,Lorenzo Arredondo,DEM,85
+Johnson,0074 PLEASANT 35,Attorney General,,Lorenzo Arredondo,DEM,102
+Johnson,0075 PLEASANT 36,Attorney General,,Lorenzo Arredondo,DEM,52
+Johnson,0076 PLEASANT 37,Attorney General,,Lorenzo Arredondo,DEM,82
+Johnson,0077 PLEASANT 38,Attorney General,,Lorenzo Arredondo,DEM,160
+Johnson,0078 PLEASANT 39,Attorney General,,Lorenzo Arredondo,DEM,194
+Johnson,0079 PLEASANT 40,Attorney General,,Lorenzo Arredondo,DEM,154
+Johnson,0080 PLEASANT 41,Attorney General,,Lorenzo Arredondo,DEM,20
+Johnson,0081 PLEASANT 42,Attorney General,,Lorenzo Arredondo,DEM,247
+Johnson,0082 PLEASANT 43,Attorney General,,Lorenzo Arredondo,DEM,161
+Johnson,0083 PLEASANT 44,Attorney General,,Lorenzo Arredondo,DEM,123
+Johnson,0084 PLEASANT 45,Attorney General,,Lorenzo Arredondo,DEM,323
+Johnson,0085 PLEASANT 46,Attorney General,,Lorenzo Arredondo,DEM,60
+Johnson,0086 PLEASANT 47,Attorney General,,Lorenzo Arredondo,DEM,172
+Johnson,0087 PLEASANT 48,Attorney General,,Lorenzo Arredondo,DEM,204
+Johnson,0088 PLEASANT 49,Attorney General,,Lorenzo Arredondo,DEM,111
+Johnson,0089 UNION 1,Attorney General,,Lorenzo Arredondo,DEM,98
+Johnson,0090 UNION 2,Attorney General,,Lorenzo Arredondo,DEM,75
+Johnson,0091 UNION 3,Attorney General,,Lorenzo Arredondo,DEM,66
+Johnson,0092 WHITE RIVER 1,Attorney General,,Lorenzo Arredondo,DEM,96
+Johnson,0093 WHITE RIVER 2,Attorney General,,Lorenzo Arredondo,DEM,62
+Johnson,0094 WHITE RIVER 3,Attorney General,,Lorenzo Arredondo,DEM,157
+Johnson,0095 WHITE RIVER 4,Attorney General,,Lorenzo Arredondo,DEM,89
+Johnson,0096 WHITE RIVER 5,Attorney General,,Lorenzo Arredondo,DEM,96
+Johnson,0097 WHITE RIVER 6,Attorney General,,Lorenzo Arredondo,DEM,112
+Johnson,0098 WHITE RIVER 7,Attorney General,,Lorenzo Arredondo,DEM,148
+Johnson,0099 WHITE RIVER 8,Attorney General,,Lorenzo Arredondo,DEM,140
+Johnson,0100 WHITE RIVER 9,Attorney General,,Lorenzo Arredondo,DEM,161
+Johnson,0101 WHITE RIVER 10,Attorney General,,Lorenzo Arredondo,DEM,79
+Johnson,0102 WHITE RIVER 11,Attorney General,,Lorenzo Arredondo,DEM,144
+Johnson,0103 WHITE RIVER 12,Attorney General,,Lorenzo Arredondo,DEM,135
+Johnson,0104 WHITE RIVER 13,Attorney General,,Lorenzo Arredondo,DEM,104
+Johnson,0105 WHITE RIVER 14,Attorney General,,Lorenzo Arredondo,DEM,179
+Johnson,0106 WHITE RIVER 15,Attorney General,,Lorenzo Arredondo,DEM,253
+Johnson,0107 WHITE RIVER 16,Attorney General,,Lorenzo Arredondo,DEM,172
+Johnson,0108 WHITE RIVER 17,Attorney General,,Lorenzo Arredondo,DEM,104
+Johnson,0109 WHITE RIVER 18,Attorney General,,Lorenzo Arredondo,DEM,103
+Johnson,0110 WHITE RIVER 19,Attorney General,,Lorenzo Arredondo,DEM,121
+Johnson,0111 WHITE RIVER 20,Attorney General,,Lorenzo Arredondo,DEM,78
+Johnson,0112 WHITE RIVER 21,Attorney General,,Lorenzo Arredondo,DEM,187
+Johnson,0113 WHITE RIVER 22,Attorney General,,Lorenzo Arredondo,DEM,157
+Johnson,0114 WHITE RIVER 23,Attorney General,,Lorenzo Arredondo,DEM,73
+Johnson,0115 WHITE RIVER 24,Attorney General,,Lorenzo Arredondo,DEM,83
+Johnson,0116 WHITE RIVER 25,Attorney General,,Lorenzo Arredondo,DEM,160
+Johnson,0117 WHITE RIVER 26,Attorney General,,Lorenzo Arredondo,DEM,94
+Johnson,0118 WHITE RIVER 27,Attorney General,,Lorenzo Arredondo,DEM,99
+Johnson,0119 WHITE RIVER 28,Attorney General,,Lorenzo Arredondo,DEM,62
+Johnson,0120 WHITE RIVER 29,Attorney General,,Lorenzo Arredondo,DEM,202
+Johnson,0121 WHITE RIVER 30,Attorney General,,Lorenzo Arredondo,DEM,153
+Johnson,0122 WHITE RIVER 31,Attorney General,,Lorenzo Arredondo,DEM,125
+Johnson,0123 WHITE RIVER 32,Attorney General,,Lorenzo Arredondo,DEM,165
+Johnson,0124 WHITE RIVER 33,Attorney General,,Lorenzo Arredondo,DEM,109
+Johnson,0125 WHITE RIVER 34,Attorney General,,Lorenzo Arredondo,DEM,100
+Johnson,0126 WHITE RIVER 35,Attorney General,,Lorenzo Arredondo,DEM,226
+Johnson,0127 WHITE RIVER 36,Attorney General,,Lorenzo Arredondo,DEM,128
+Johnson,0128 WHITE RIVER 37,Attorney General,,Lorenzo Arredondo,DEM,307
+Johnson,0129 WHITE RIVER 38,Attorney General,,Lorenzo Arredondo,DEM,86
+Johnson,0130 WHITE RIVER 39,Attorney General,,Lorenzo Arredondo,DEM,217
+Johnson,0131 WHITE RIVER 40,Attorney General,,Lorenzo Arredondo,DEM,78
+Johnson,0132 WHITE RIVER 41,Attorney General,,Lorenzo Arredondo,DEM,100
+Johnson,0133 WHITE RIVER 42,Attorney General,,Lorenzo Arredondo,DEM,115
+Johnson,0134 WHITE RIVER 43,Attorney General,,Lorenzo Arredondo,DEM,52
+Johnson,,Attorney General,,Lorenzo Arredondo,DEM,16059
+Johnson,0001 BLUE RIVER 1,Public Instruction,,Jennifer McCormick,REP,174
+Johnson,0002 BLUE RIVER 2,Public Instruction,,Jennifer McCormick,REP,230
+Johnson,0003 BLUE RIVER 3,Public Instruction,,Jennifer McCormick,REP,319
+Johnson,0004 BLUE RIVER 4,Public Instruction,,Jennifer McCormick,REP,204
+Johnson,0005 BLUE RIVER 5,Public Instruction,,Jennifer McCormick,REP,200
+Johnson,0006 CLARK 1,Public Instruction,,Jennifer McCormick,REP,229
+Johnson,0007 CLARK 2,Public Instruction,,Jennifer McCormick,REP,425
+Johnson,0008 CLARK 3,Public Instruction,,Jennifer McCormick,REP,403
+Johnson,0009 FRANKLIN 1,Public Instruction,,Jennifer McCormick,REP,425
+Johnson,0010 FRANKLIN 2,Public Instruction,,Jennifer McCormick,REP,247
+Johnson,0011 FRANKLIN 3,Public Instruction,,Jennifer McCormick,REP,173
+Johnson,0012 FRANKLIN 4,Public Instruction,,Jennifer McCormick,REP,267
+Johnson,0013 FRANKLIN 5,Public Instruction,,Jennifer McCormick,REP,113
+Johnson,0014 FRANKLIN 6,Public Instruction,,Jennifer McCormick,REP,301
+Johnson,0015 FRANKLIN 7,Public Instruction,,Jennifer McCormick,REP,188
+Johnson,0016 FRANKLIN 8,Public Instruction,,Jennifer McCormick,REP,141
+Johnson,0017 FRANKLIN 9,Public Instruction,,Jennifer McCormick,REP,495
+Johnson,0018 FRANKLIN 10,Public Instruction,,Jennifer McCormick,REP,208
+Johnson,0019 FRANKLIN 11,Public Instruction,,Jennifer McCormick,REP,216
+Johnson,0020 FRANKLIN 12,Public Instruction,,Jennifer McCormick,REP,130
+Johnson,0021 FRANKLIN 13,Public Instruction,,Jennifer McCormick,REP,181
+Johnson,0022 FRANKLIN 14,Public Instruction,,Jennifer McCormick,REP,148
+Johnson,0023 FRANKLIN 15,Public Instruction,,Jennifer McCormick,REP,376
+Johnson,0024 FRANKLIN 16,Public Instruction,,Jennifer McCormick,REP,441
+Johnson,0025 FRANKLIN 17,Public Instruction,,Jennifer McCormick,REP,285
+Johnson,0026 FRANKLIN 18,Public Instruction,,Jennifer McCormick,REP,228
+Johnson,0027 FRANKLIN 19,Public Instruction,,Jennifer McCormick,REP,372
+Johnson,0028 FRANKLIN 20,Public Instruction,,Jennifer McCormick,REP,205
+Johnson,0029 HENSLEY 1,Public Instruction,,Jennifer McCormick,REP,237
+Johnson,0030 HENSLEY 2,Public Instruction,,Jennifer McCormick,REP,544
+Johnson,0031 HENSLEY 3,Public Instruction,,Jennifer McCormick,REP,473
+Johnson,0032 NEEDHAM 1,Public Instruction,,Jennifer McCormick,REP,491
+Johnson,0033 NEEDHAM 2,Public Instruction,,Jennifer McCormick,REP,517
+Johnson,0034 NEEDHAM 3,Public Instruction,,Jennifer McCormick,REP,305
+Johnson,0035 NEEDHAM 4,Public Instruction,,Jennifer McCormick,REP,348
+Johnson,0036 NEEDHAM 5,Public Instruction,,Jennifer McCormick,REP,466
+Johnson,0037 NINEVEH 1,Public Instruction,,Jennifer McCormick,REP,647
+Johnson,0038 NINEVEH 2,Public Instruction,,Jennifer McCormick,REP,500
+Johnson,0039 NINEVEH 3,Public Instruction,,Jennifer McCormick,REP,224
+Johnson,0040 PLEASANT 1,Public Instruction,,Jennifer McCormick,REP,324
+Johnson,0041 PLEASANT 2,Public Instruction,,Jennifer McCormick,REP,275
+Johnson,0042 PLEASANT 3,Public Instruction,,Jennifer McCormick,REP,359
+Johnson,0043 PLEASANT 4,Public Instruction,,Jennifer McCormick,REP,192
+Johnson,0044 PLEASANT 5,Public Instruction,,Jennifer McCormick,REP,131
+Johnson,0045 PLEASANT 6,Public Instruction,,Jennifer McCormick,REP,245
+Johnson,0046 PLEASANT 7,Public Instruction,,Jennifer McCormick,REP,343
+Johnson,0047 PLEASANT 8,Public Instruction,,Jennifer McCormick,REP,284
+Johnson,0048 PLEASANT 9,Public Instruction,,Jennifer McCormick,REP,293
+Johnson,0049 PLEASANT 10,Public Instruction,,Jennifer McCormick,REP,176
+Johnson,0050 PLEASANT 11,Public Instruction,,Jennifer McCormick,REP,515
+Johnson,0051 PLEASANT 12,Public Instruction,,Jennifer McCormick,REP,303
+Johnson,0052 PLEASANT 13,Public Instruction,,Jennifer McCormick,REP,288
+Johnson,0053 PLEASANT 14,Public Instruction,,Jennifer McCormick,REP,505
+Johnson,0054 PLEASANT 15,Public Instruction,,Jennifer McCormick,REP,130
+Johnson,0055 PLEASANT 16,Public Instruction,,Jennifer McCormick,REP,342
+Johnson,0056 PLEASANT 17,Public Instruction,,Jennifer McCormick,REP,321
+Johnson,0057 PLEASANT 18,Public Instruction,,Jennifer McCormick,REP,217
+Johnson,0058 PLEASANT 19,Public Instruction,,Jennifer McCormick,REP,580
+Johnson,0059 PLEASANT 20,Public Instruction,,Jennifer McCormick,REP,162
+Johnson,0060 PLEASANT 21,Public Instruction,,Jennifer McCormick,REP,508
+Johnson,0061 PLEASANT 22,Public Instruction,,Jennifer McCormick,REP,882
+Johnson,0062 PLEASANT 23,Public Instruction,,Jennifer McCormick,REP,110
+Johnson,0063 PLEASANT 24,Public Instruction,,Jennifer McCormick,REP,138
+Johnson,0064 PLEASANT 25,Public Instruction,,Jennifer McCormick,REP,91
+Johnson,0065 PLEASANT 26,Public Instruction,,Jennifer McCormick,REP,151
+Johnson,0066 PLEASANT 27,Public Instruction,,Jennifer McCormick,REP,154
+Johnson,0067 PLEASANT 28,Public Instruction,,Jennifer McCormick,REP,445
+Johnson,0068 PLEASANT 29,Public Instruction,,Jennifer McCormick,REP,205
+Johnson,0069 PLEASANT 30,Public Instruction,,Jennifer McCormick,REP,270
+Johnson,0070 PLEASANT 31,Public Instruction,,Jennifer McCormick,REP,474
+Johnson,0071 PLEASANT 32,Public Instruction,,Jennifer McCormick,REP,206
+Johnson,0072 PLEASANT 33,Public Instruction,,Jennifer McCormick,REP,479
+Johnson,0073 PLEASANT 34,Public Instruction,,Jennifer McCormick,REP,337
+Johnson,0074 PLEASANT 35,Public Instruction,,Jennifer McCormick,REP,300
+Johnson,0075 PLEASANT 36,Public Instruction,,Jennifer McCormick,REP,114
+Johnson,0076 PLEASANT 37,Public Instruction,,Jennifer McCormick,REP,133
+Johnson,0077 PLEASANT 38,Public Instruction,,Jennifer McCormick,REP,358
+Johnson,0078 PLEASANT 39,Public Instruction,,Jennifer McCormick,REP,448
+Johnson,0079 PLEASANT 40,Public Instruction,,Jennifer McCormick,REP,350
+Johnson,0080 PLEASANT 41,Public Instruction,,Jennifer McCormick,REP,84
+Johnson,0081 PLEASANT 42,Public Instruction,,Jennifer McCormick,REP,496
+Johnson,0082 PLEASANT 43,Public Instruction,,Jennifer McCormick,REP,458
+Johnson,0083 PLEASANT 44,Public Instruction,,Jennifer McCormick,REP,195
+Johnson,0084 PLEASANT 45,Public Instruction,,Jennifer McCormick,REP,289
+Johnson,0085 PLEASANT 46,Public Instruction,,Jennifer McCormick,REP,228
+Johnson,0086 PLEASANT 47,Public Instruction,,Jennifer McCormick,REP,339
+Johnson,0087 PLEASANT 48,Public Instruction,,Jennifer McCormick,REP,301
+Johnson,0088 PLEASANT 49,Public Instruction,,Jennifer McCormick,REP,248
+Johnson,0089 UNION 1,Public Instruction,,Jennifer McCormick,REP,387
+Johnson,0090 UNION 2,Public Instruction,,Jennifer McCormick,REP,335
+Johnson,0091 UNION 3,Public Instruction,,Jennifer McCormick,REP,231
+Johnson,0092 WHITE RIVER 1,Public Instruction,,Jennifer McCormick,REP,324
+Johnson,0093 WHITE RIVER 2,Public Instruction,,Jennifer McCormick,REP,153
+Johnson,0094 WHITE RIVER 3,Public Instruction,,Jennifer McCormick,REP,347
+Johnson,0095 WHITE RIVER 4,Public Instruction,,Jennifer McCormick,REP,327
+Johnson,0096 WHITE RIVER 5,Public Instruction,,Jennifer McCormick,REP,277
+Johnson,0097 WHITE RIVER 6,Public Instruction,,Jennifer McCormick,REP,316
+Johnson,0098 WHITE RIVER 7,Public Instruction,,Jennifer McCormick,REP,403
+Johnson,0099 WHITE RIVER 8,Public Instruction,,Jennifer McCormick,REP,466
+Johnson,0100 WHITE RIVER 9,Public Instruction,,Jennifer McCormick,REP,506
+Johnson,0101 WHITE RIVER 10,Public Instruction,,Jennifer McCormick,REP,291
+Johnson,0102 WHITE RIVER 11,Public Instruction,,Jennifer McCormick,REP,442
+Johnson,0103 WHITE RIVER 12,Public Instruction,,Jennifer McCormick,REP,376
+Johnson,0104 WHITE RIVER 13,Public Instruction,,Jennifer McCormick,REP,314
+Johnson,0105 WHITE RIVER 14,Public Instruction,,Jennifer McCormick,REP,490
+Johnson,0106 WHITE RIVER 15,Public Instruction,,Jennifer McCormick,REP,775
+Johnson,0107 WHITE RIVER 16,Public Instruction,,Jennifer McCormick,REP,498
+Johnson,0108 WHITE RIVER 17,Public Instruction,,Jennifer McCormick,REP,274
+Johnson,0109 WHITE RIVER 18,Public Instruction,,Jennifer McCormick,REP,275
+Johnson,0110 WHITE RIVER 19,Public Instruction,,Jennifer McCormick,REP,284
+Johnson,0111 WHITE RIVER 20,Public Instruction,,Jennifer McCormick,REP,311
+Johnson,0112 WHITE RIVER 21,Public Instruction,,Jennifer McCormick,REP,528
+Johnson,0113 WHITE RIVER 22,Public Instruction,,Jennifer McCormick,REP,442
+Johnson,0114 WHITE RIVER 23,Public Instruction,,Jennifer McCormick,REP,197
+Johnson,0115 WHITE RIVER 24,Public Instruction,,Jennifer McCormick,REP,345
+Johnson,0116 WHITE RIVER 25,Public Instruction,,Jennifer McCormick,REP,340
+Johnson,0117 WHITE RIVER 26,Public Instruction,,Jennifer McCormick,REP,257
+Johnson,0118 WHITE RIVER 27,Public Instruction,,Jennifer McCormick,REP,326
+Johnson,0119 WHITE RIVER 28,Public Instruction,,Jennifer McCormick,REP,260
+Johnson,0120 WHITE RIVER 29,Public Instruction,,Jennifer McCormick,REP,538
+Johnson,0121 WHITE RIVER 30,Public Instruction,,Jennifer McCormick,REP,271
+Johnson,0122 WHITE RIVER 31,Public Instruction,,Jennifer McCormick,REP,235
+Johnson,0123 WHITE RIVER 32,Public Instruction,,Jennifer McCormick,REP,492
+Johnson,0124 WHITE RIVER 33,Public Instruction,,Jennifer McCormick,REP,297
+Johnson,0125 WHITE RIVER 34,Public Instruction,,Jennifer McCormick,REP,430
+Johnson,0126 WHITE RIVER 35,Public Instruction,,Jennifer McCormick,REP,825
+Johnson,0127 WHITE RIVER 36,Public Instruction,,Jennifer McCormick,REP,250
+Johnson,0128 WHITE RIVER 37,Public Instruction,,Jennifer McCormick,REP,644
+Johnson,0129 WHITE RIVER 38,Public Instruction,,Jennifer McCormick,REP,318
+Johnson,0130 WHITE RIVER 39,Public Instruction,,Jennifer McCormick,REP,492
+Johnson,0131 WHITE RIVER 40,Public Instruction,,Jennifer McCormick,REP,303
+Johnson,0132 WHITE RIVER 41,Public Instruction,,Jennifer McCormick,REP,311
+Johnson,0133 WHITE RIVER 42,Public Instruction,,Jennifer McCormick,REP,329
+Johnson,0134 WHITE RIVER 43,Public Instruction,,Jennifer McCormick,REP,211
+Johnson,,Public Instruction,,Jennifer McCormick,REP,43895
+Johnson,0001 BLUE RIVER 1,Public Instruction,,Glenda Ritz,DEM,92
+Johnson,0002 BLUE RIVER 2,Public Instruction,,Glenda Ritz,DEM,124
+Johnson,0003 BLUE RIVER 3,Public Instruction,,Glenda Ritz,DEM,103
+Johnson,0004 BLUE RIVER 4,Public Instruction,,Glenda Ritz,DEM,110
+Johnson,0005 BLUE RIVER 5,Public Instruction,,Glenda Ritz,DEM,100
+Johnson,0006 CLARK 1,Public Instruction,,Glenda Ritz,DEM,66
+Johnson,0007 CLARK 2,Public Instruction,,Glenda Ritz,DEM,131
+Johnson,0008 CLARK 3,Public Instruction,,Glenda Ritz,DEM,175
+Johnson,0009 FRANKLIN 1,Public Instruction,,Glenda Ritz,DEM,224
+Johnson,0010 FRANKLIN 2,Public Instruction,,Glenda Ritz,DEM,185
+Johnson,0011 FRANKLIN 3,Public Instruction,,Glenda Ritz,DEM,81
+Johnson,0012 FRANKLIN 4,Public Instruction,,Glenda Ritz,DEM,154
+Johnson,0013 FRANKLIN 5,Public Instruction,,Glenda Ritz,DEM,107
+Johnson,0014 FRANKLIN 6,Public Instruction,,Glenda Ritz,DEM,159
+Johnson,0015 FRANKLIN 7,Public Instruction,,Glenda Ritz,DEM,145
+Johnson,0016 FRANKLIN 8,Public Instruction,,Glenda Ritz,DEM,60
+Johnson,0017 FRANKLIN 9,Public Instruction,,Glenda Ritz,DEM,268
+Johnson,0018 FRANKLIN 10,Public Instruction,,Glenda Ritz,DEM,115
+Johnson,0019 FRANKLIN 11,Public Instruction,,Glenda Ritz,DEM,99
+Johnson,0020 FRANKLIN 12,Public Instruction,,Glenda Ritz,DEM,64
+Johnson,0021 FRANKLIN 13,Public Instruction,,Glenda Ritz,DEM,74
+Johnson,0022 FRANKLIN 14,Public Instruction,,Glenda Ritz,DEM,90
+Johnson,0023 FRANKLIN 15,Public Instruction,,Glenda Ritz,DEM,162
+Johnson,0024 FRANKLIN 16,Public Instruction,,Glenda Ritz,DEM,212
+Johnson,0025 FRANKLIN 17,Public Instruction,,Glenda Ritz,DEM,160
+Johnson,0026 FRANKLIN 18,Public Instruction,,Glenda Ritz,DEM,132
+Johnson,0027 FRANKLIN 19,Public Instruction,,Glenda Ritz,DEM,191
+Johnson,0028 FRANKLIN 20,Public Instruction,,Glenda Ritz,DEM,119
+Johnson,0029 HENSLEY 1,Public Instruction,,Glenda Ritz,DEM,71
+Johnson,0030 HENSLEY 2,Public Instruction,,Glenda Ritz,DEM,233
+Johnson,0031 HENSLEY 3,Public Instruction,,Glenda Ritz,DEM,168
+Johnson,0032 NEEDHAM 1,Public Instruction,,Glenda Ritz,DEM,214
+Johnson,0033 NEEDHAM 2,Public Instruction,,Glenda Ritz,DEM,264
+Johnson,0034 NEEDHAM 3,Public Instruction,,Glenda Ritz,DEM,111
+Johnson,0035 NEEDHAM 4,Public Instruction,,Glenda Ritz,DEM,228
+Johnson,0036 NEEDHAM 5,Public Instruction,,Glenda Ritz,DEM,255
+Johnson,0037 NINEVEH 1,Public Instruction,,Glenda Ritz,DEM,237
+Johnson,0038 NINEVEH 2,Public Instruction,,Glenda Ritz,DEM,186
+Johnson,0039 NINEVEH 3,Public Instruction,,Glenda Ritz,DEM,100
+Johnson,0040 PLEASANT 1,Public Instruction,,Glenda Ritz,DEM,138
+Johnson,0041 PLEASANT 2,Public Instruction,,Glenda Ritz,DEM,150
+Johnson,0042 PLEASANT 3,Public Instruction,,Glenda Ritz,DEM,178
+Johnson,0043 PLEASANT 4,Public Instruction,,Glenda Ritz,DEM,132
+Johnson,0044 PLEASANT 5,Public Instruction,,Glenda Ritz,DEM,105
+Johnson,0045 PLEASANT 6,Public Instruction,,Glenda Ritz,DEM,116
+Johnson,0046 PLEASANT 7,Public Instruction,,Glenda Ritz,DEM,163
+Johnson,0047 PLEASANT 8,Public Instruction,,Glenda Ritz,DEM,136
+Johnson,0048 PLEASANT 9,Public Instruction,,Glenda Ritz,DEM,154
+Johnson,0049 PLEASANT 10,Public Instruction,,Glenda Ritz,DEM,82
+Johnson,0050 PLEASANT 11,Public Instruction,,Glenda Ritz,DEM,274
+Johnson,0051 PLEASANT 12,Public Instruction,,Glenda Ritz,DEM,142
+Johnson,0052 PLEASANT 13,Public Instruction,,Glenda Ritz,DEM,279
+Johnson,0053 PLEASANT 14,Public Instruction,,Glenda Ritz,DEM,202
+Johnson,0054 PLEASANT 15,Public Instruction,,Glenda Ritz,DEM,68
+Johnson,0055 PLEASANT 16,Public Instruction,,Glenda Ritz,DEM,146
+Johnson,0056 PLEASANT 17,Public Instruction,,Glenda Ritz,DEM,206
+Johnson,0057 PLEASANT 18,Public Instruction,,Glenda Ritz,DEM,113
+Johnson,0058 PLEASANT 19,Public Instruction,,Glenda Ritz,DEM,292
+Johnson,0059 PLEASANT 20,Public Instruction,,Glenda Ritz,DEM,85
+Johnson,0060 PLEASANT 21,Public Instruction,,Glenda Ritz,DEM,197
+Johnson,0061 PLEASANT 22,Public Instruction,,Glenda Ritz,DEM,471
+Johnson,0062 PLEASANT 23,Public Instruction,,Glenda Ritz,DEM,64
+Johnson,0063 PLEASANT 24,Public Instruction,,Glenda Ritz,DEM,82
+Johnson,0064 PLEASANT 25,Public Instruction,,Glenda Ritz,DEM,68
+Johnson,0065 PLEASANT 26,Public Instruction,,Glenda Ritz,DEM,80
+Johnson,0066 PLEASANT 27,Public Instruction,,Glenda Ritz,DEM,95
+Johnson,0067 PLEASANT 28,Public Instruction,,Glenda Ritz,DEM,213
+Johnson,0068 PLEASANT 29,Public Instruction,,Glenda Ritz,DEM,137
+Johnson,0069 PLEASANT 30,Public Instruction,,Glenda Ritz,DEM,170
+Johnson,0070 PLEASANT 31,Public Instruction,,Glenda Ritz,DEM,175
+Johnson,0071 PLEASANT 32,Public Instruction,,Glenda Ritz,DEM,132
+Johnson,0072 PLEASANT 33,Public Instruction,,Glenda Ritz,DEM,255
+Johnson,0073 PLEASANT 34,Public Instruction,,Glenda Ritz,DEM,135
+Johnson,0074 PLEASANT 35,Public Instruction,,Glenda Ritz,DEM,152
+Johnson,0075 PLEASANT 36,Public Instruction,,Glenda Ritz,DEM,62
+Johnson,0076 PLEASANT 37,Public Instruction,,Glenda Ritz,DEM,87
+Johnson,0077 PLEASANT 38,Public Instruction,,Glenda Ritz,DEM,194
+Johnson,0078 PLEASANT 39,Public Instruction,,Glenda Ritz,DEM,240
+Johnson,0079 PLEASANT 40,Public Instruction,,Glenda Ritz,DEM,193
+Johnson,0080 PLEASANT 41,Public Instruction,,Glenda Ritz,DEM,35
+Johnson,0081 PLEASANT 42,Public Instruction,,Glenda Ritz,DEM,311
+Johnson,0082 PLEASANT 43,Public Instruction,,Glenda Ritz,DEM,223
+Johnson,0083 PLEASANT 44,Public Instruction,,Glenda Ritz,DEM,131
+Johnson,0084 PLEASANT 45,Public Instruction,,Glenda Ritz,DEM,344
+Johnson,0085 PLEASANT 46,Public Instruction,,Glenda Ritz,DEM,87
+Johnson,0086 PLEASANT 47,Public Instruction,,Glenda Ritz,DEM,221
+Johnson,0087 PLEASANT 48,Public Instruction,,Glenda Ritz,DEM,238
+Johnson,0088 PLEASANT 49,Public Instruction,,Glenda Ritz,DEM,151
+Johnson,0089 UNION 1,Public Instruction,,Glenda Ritz,DEM,171
+Johnson,0090 UNION 2,Public Instruction,,Glenda Ritz,DEM,113
+Johnson,0091 UNION 3,Public Instruction,,Glenda Ritz,DEM,100
+Johnson,0092 WHITE RIVER 1,Public Instruction,,Glenda Ritz,DEM,144
+Johnson,0093 WHITE RIVER 2,Public Instruction,,Glenda Ritz,DEM,82
+Johnson,0094 WHITE RIVER 3,Public Instruction,,Glenda Ritz,DEM,215
+Johnson,0095 WHITE RIVER 4,Public Instruction,,Glenda Ritz,DEM,155
+Johnson,0096 WHITE RIVER 5,Public Instruction,,Glenda Ritz,DEM,121
+Johnson,0097 WHITE RIVER 6,Public Instruction,,Glenda Ritz,DEM,150
+Johnson,0098 WHITE RIVER 7,Public Instruction,,Glenda Ritz,DEM,225
+Johnson,0099 WHITE RIVER 8,Public Instruction,,Glenda Ritz,DEM,195
+Johnson,0100 WHITE RIVER 9,Public Instruction,,Glenda Ritz,DEM,229
+Johnson,0101 WHITE RIVER 10,Public Instruction,,Glenda Ritz,DEM,115
+Johnson,0102 WHITE RIVER 11,Public Instruction,,Glenda Ritz,DEM,189
+Johnson,0103 WHITE RIVER 12,Public Instruction,,Glenda Ritz,DEM,194
+Johnson,0104 WHITE RIVER 13,Public Instruction,,Glenda Ritz,DEM,140
+Johnson,0105 WHITE RIVER 14,Public Instruction,,Glenda Ritz,DEM,255
+Johnson,0106 WHITE RIVER 15,Public Instruction,,Glenda Ritz,DEM,330
+Johnson,0107 WHITE RIVER 16,Public Instruction,,Glenda Ritz,DEM,250
+Johnson,0108 WHITE RIVER 17,Public Instruction,,Glenda Ritz,DEM,154
+Johnson,0109 WHITE RIVER 18,Public Instruction,,Glenda Ritz,DEM,148
+Johnson,0110 WHITE RIVER 19,Public Instruction,,Glenda Ritz,DEM,176
+Johnson,0111 WHITE RIVER 20,Public Instruction,,Glenda Ritz,DEM,119
+Johnson,0112 WHITE RIVER 21,Public Instruction,,Glenda Ritz,DEM,257
+Johnson,0113 WHITE RIVER 22,Public Instruction,,Glenda Ritz,DEM,208
+Johnson,0114 WHITE RIVER 23,Public Instruction,,Glenda Ritz,DEM,104
+Johnson,0115 WHITE RIVER 24,Public Instruction,,Glenda Ritz,DEM,117
+Johnson,0116 WHITE RIVER 25,Public Instruction,,Glenda Ritz,DEM,206
+Johnson,0117 WHITE RIVER 26,Public Instruction,,Glenda Ritz,DEM,123
+Johnson,0118 WHITE RIVER 27,Public Instruction,,Glenda Ritz,DEM,153
+Johnson,0119 WHITE RIVER 28,Public Instruction,,Glenda Ritz,DEM,105
+Johnson,0120 WHITE RIVER 29,Public Instruction,,Glenda Ritz,DEM,281
+Johnson,0121 WHITE RIVER 30,Public Instruction,,Glenda Ritz,DEM,187
+Johnson,0122 WHITE RIVER 31,Public Instruction,,Glenda Ritz,DEM,147
+Johnson,0123 WHITE RIVER 32,Public Instruction,,Glenda Ritz,DEM,214
+Johnson,0124 WHITE RIVER 33,Public Instruction,,Glenda Ritz,DEM,140
+Johnson,0125 WHITE RIVER 34,Public Instruction,,Glenda Ritz,DEM,161
+Johnson,0126 WHITE RIVER 35,Public Instruction,,Glenda Ritz,DEM,298
+Johnson,0127 WHITE RIVER 36,Public Instruction,,Glenda Ritz,DEM,160
+Johnson,0128 WHITE RIVER 37,Public Instruction,,Glenda Ritz,DEM,376
+Johnson,0129 WHITE RIVER 38,Public Instruction,,Glenda Ritz,DEM,113
+Johnson,0130 WHITE RIVER 39,Public Instruction,,Glenda Ritz,DEM,256
+Johnson,0131 WHITE RIVER 40,Public Instruction,,Glenda Ritz,DEM,122
+Johnson,0132 WHITE RIVER 41,Public Instruction,,Glenda Ritz,DEM,142
+Johnson,0133 WHITE RIVER 42,Public Instruction,,Glenda Ritz,DEM,158
+Johnson,0134 WHITE RIVER 43,Public Instruction,,Glenda Ritz,DEM,78
+Johnson,,Public Instruction,,Glenda Ritz,DEM,21949
+Johnson,0001 BLUE RIVER 1,U.S. House,9,Troy Hollingsworth,REP,179
+Johnson,0002 BLUE RIVER 2,U.S. House,9,Troy Hollingsworth,REP,241
+Johnson,0003 BLUE RIVER 3,U.S. House,9,Troy Hollingsworth,REP,313
+Johnson,0004 BLUE RIVER 4,U.S. House,9,Troy Hollingsworth,REP,206
+Johnson,0005 BLUE RIVER 5,U.S. House,9,Troy Hollingsworth,REP,209
+Johnson,0006 CLARK 1,U.S. House,9,Troy Hollingsworth,REP,230
+Johnson,0007 CLARK 2,U.S. House,9,Troy Hollingsworth,REP,403
+Johnson,0008 CLARK 3,U.S. House,9,Troy Hollingsworth,REP,372
+Johnson,0009 FRANKLIN 1,U.S. House,9,Troy Hollingsworth,REP,408
+Johnson,0010 FRANKLIN 2,U.S. House,9,Troy Hollingsworth,REP,230
+Johnson,0011 FRANKLIN 3,U.S. House,9,Troy Hollingsworth,REP,150
+Johnson,0012 FRANKLIN 4,U.S. House,9,Troy Hollingsworth,REP,249
+Johnson,0013 FRANKLIN 5,U.S. House,9,Troy Hollingsworth,REP,107
+Johnson,0014 FRANKLIN 6,U.S. House,9,Troy Hollingsworth,REP,274
+Johnson,0015 FRANKLIN 7,U.S. House,9,Troy Hollingsworth,REP,182
+Johnson,0016 FRANKLIN 8,U.S. House,9,Troy Hollingsworth,REP,137
+Johnson,0017 FRANKLIN 9,U.S. House,9,Troy Hollingsworth,REP,493
+Johnson,0018 FRANKLIN 10,U.S. House,9,Troy Hollingsworth,REP,199
+Johnson,0019 FRANKLIN 11,U.S. House,9,Troy Hollingsworth,REP,203
+Johnson,0020 FRANKLIN 12,U.S. House,9,Troy Hollingsworth,REP,122
+Johnson,0021 FRANKLIN 13,U.S. House,9,Troy Hollingsworth,REP,174
+Johnson,0022 FRANKLIN 14,U.S. House,9,Troy Hollingsworth,REP,137
+Johnson,0023 FRANKLIN 15,U.S. House,9,Troy Hollingsworth,REP,379
+Johnson,0024 FRANKLIN 16,U.S. House,9,Troy Hollingsworth,REP,404
+Johnson,0025 FRANKLIN 17,U.S. House,9,Troy Hollingsworth,REP,269
+Johnson,0026 FRANKLIN 18,U.S. House,9,Troy Hollingsworth,REP,223
+Johnson,0027 FRANKLIN 19,U.S. House,9,Troy Hollingsworth,REP,360
+Johnson,0028 FRANKLIN 20,U.S. House,9,Troy Hollingsworth,REP,189
+Johnson,0029 HENSLEY 1,U.S. House,9,Troy Hollingsworth,REP,231
+Johnson,0030 HENSLEY 2,U.S. House,9,Troy Hollingsworth,REP,540
+Johnson,0031 HENSLEY 3,U.S. House,9,Troy Hollingsworth,REP,475
+Johnson,0032 NEEDHAM 1,U.S. House,9,Troy Hollingsworth,REP,466
+Johnson,0033 NEEDHAM 2,U.S. House,9,Troy Hollingsworth,REP,461
+Johnson,0034 NEEDHAM 3,U.S. House,9,Troy Hollingsworth,REP,278
+Johnson,0035 NEEDHAM 4,U.S. House,9,Troy Hollingsworth,REP,328
+Johnson,0036 NEEDHAM 5,U.S. House,9,Troy Hollingsworth,REP,437
+Johnson,0037 NINEVEH 1,U.S. House,9,Troy Hollingsworth,REP,655
+Johnson,0038 NINEVEH 2,U.S. House,9,Troy Hollingsworth,REP,480
+Johnson,0039 NINEVEH 3,U.S. House,9,Troy Hollingsworth,REP,242
+Johnson,0040 PLEASANT 1,U.S. House,9,Troy Hollingsworth,REP,314
+Johnson,0041 PLEASANT 2,U.S. House,9,Troy Hollingsworth,REP,256
+Johnson,0042 PLEASANT 3,U.S. House,9,Troy Hollingsworth,REP,328
+Johnson,0043 PLEASANT 4,U.S. House,9,Troy Hollingsworth,REP,187
+Johnson,0044 PLEASANT 5,U.S. House,9,Troy Hollingsworth,REP,127
+Johnson,0045 PLEASANT 6,U.S. House,9,Troy Hollingsworth,REP,233
+Johnson,0046 PLEASANT 7,U.S. House,9,Troy Hollingsworth,REP,324
+Johnson,0047 PLEASANT 8,U.S. House,9,Troy Hollingsworth,REP,286
+Johnson,0048 PLEASANT 9,U.S. House,9,Troy Hollingsworth,REP,278
+Johnson,0049 PLEASANT 10,U.S. House,9,Troy Hollingsworth,REP,169
+Johnson,0050 PLEASANT 11,U.S. House,9,Troy Hollingsworth,REP,510
+Johnson,0051 PLEASANT 12,U.S. House,9,Troy Hollingsworth,REP,292
+Johnson,0052 PLEASANT 13,U.S. House,9,Troy Hollingsworth,REP,258
+Johnson,0053 PLEASANT 14,U.S. House,9,Troy Hollingsworth,REP,477
+Johnson,0054 PLEASANT 15,U.S. House,9,Troy Hollingsworth,REP,103
+Johnson,0055 PLEASANT 16,U.S. House,9,Troy Hollingsworth,REP,322
+Johnson,0056 PLEASANT 17,U.S. House,9,Troy Hollingsworth,REP,307
+Johnson,0057 PLEASANT 18,U.S. House,9,Troy Hollingsworth,REP,212
+Johnson,0058 PLEASANT 19,U.S. House,9,Troy Hollingsworth,REP,553
+Johnson,0059 PLEASANT 20,U.S. House,9,Troy Hollingsworth,REP,155
+Johnson,0060 PLEASANT 21,U.S. House,9,Troy Hollingsworth,REP,475
+Johnson,0061 PLEASANT 22,U.S. House,9,Troy Hollingsworth,REP,858
+Johnson,0062 PLEASANT 23,U.S. House,9,Troy Hollingsworth,REP,113
+Johnson,0063 PLEASANT 24,U.S. House,9,Troy Hollingsworth,REP,144
+Johnson,0064 PLEASANT 25,U.S. House,9,Troy Hollingsworth,REP,83
+Johnson,0065 PLEASANT 26,U.S. House,9,Troy Hollingsworth,REP,137
+Johnson,0066 PLEASANT 27,U.S. House,9,Troy Hollingsworth,REP,149
+Johnson,0067 PLEASANT 28,U.S. House,9,Troy Hollingsworth,REP,418
+Johnson,0068 PLEASANT 29,U.S. House,9,Troy Hollingsworth,REP,200
+Johnson,0069 PLEASANT 30,U.S. House,9,Troy Hollingsworth,REP,264
+Johnson,0070 PLEASANT 31,U.S. House,9,Troy Hollingsworth,REP,461
+Johnson,0071 PLEASANT 32,U.S. House,9,Troy Hollingsworth,REP,199
+Johnson,0072 PLEASANT 33,U.S. House,9,Troy Hollingsworth,REP,473
+Johnson,0073 PLEASANT 34,U.S. House,9,Troy Hollingsworth,REP,340
+Johnson,0074 PLEASANT 35,U.S. House,9,Troy Hollingsworth,REP,294
+Johnson,0075 PLEASANT 36,U.S. House,9,Troy Hollingsworth,REP,116
+Johnson,0076 PLEASANT 37,U.S. House,9,Troy Hollingsworth,REP,125
+Johnson,0077 PLEASANT 38,U.S. House,9,Troy Hollingsworth,REP,344
+Johnson,0078 PLEASANT 39,U.S. House,9,Troy Hollingsworth,REP,430
+Johnson,0079 PLEASANT 40,U.S. House,9,Troy Hollingsworth,REP,342
+Johnson,0080 PLEASANT 41,U.S. House,9,Troy Hollingsworth,REP,82
+Johnson,0081 PLEASANT 42,U.S. House,9,Troy Hollingsworth,REP,500
+Johnson,0082 PLEASANT 43,U.S. House,9,Troy Hollingsworth,REP,437
+Johnson,0083 PLEASANT 44,U.S. House,9,Troy Hollingsworth,REP,184
+Johnson,0084 PLEASANT 45,U.S. House,9,Troy Hollingsworth,REP,263
+Johnson,0085 PLEASANT 46,U.S. House,9,Troy Hollingsworth,REP,208
+Johnson,0086 PLEASANT 47,U.S. House,9,Troy Hollingsworth,REP,312
+Johnson,0087 PLEASANT 48,U.S. House,9,Troy Hollingsworth,REP,300
+Johnson,0088 PLEASANT 49,U.S. House,9,Troy Hollingsworth,REP,252
+Johnson,0089 UNION 1,U.S. House,9,Troy Hollingsworth,REP,386
+Johnson,0090 UNION 2,U.S. House,9,Troy Hollingsworth,REP,310
+Johnson,0091 UNION 3,U.S. House,9,Troy Hollingsworth,REP,225
+Johnson,0092 WHITE RIVER 1,U.S. House,9,Troy Hollingsworth,REP,334
+Johnson,0093 WHITE RIVER 2,U.S. House,9,Troy Hollingsworth,REP,151
+Johnson,0094 WHITE RIVER 3,U.S. House,9,Troy Hollingsworth,REP,343
+Johnson,0095 WHITE RIVER 4,U.S. House,9,Troy Hollingsworth,REP,330
+Johnson,0096 WHITE RIVER 5,U.S. House,9,Troy Hollingsworth,REP,259
+Johnson,0097 WHITE RIVER 6,U.S. House,9,Troy Hollingsworth,REP,305
+Johnson,0098 WHITE RIVER 7,U.S. House,9,Troy Hollingsworth,REP,385
+Johnson,0099 WHITE RIVER 8,U.S. House,9,Troy Hollingsworth,REP,439
+Johnson,0100 WHITE RIVER 9,U.S. House,9,Troy Hollingsworth,REP,462
+Johnson,0101 WHITE RIVER 10,U.S. House,9,Troy Hollingsworth,REP,279
+Johnson,0102 WHITE RIVER 11,U.S. House,9,Troy Hollingsworth,REP,429
+Johnson,0103 WHITE RIVER 12,U.S. House,9,Troy Hollingsworth,REP,373
+Johnson,0104 WHITE RIVER 13,U.S. House,9,Troy Hollingsworth,REP,298
+Johnson,0105 WHITE RIVER 14,U.S. House,9,Troy Hollingsworth,REP,472
+Johnson,0106 WHITE RIVER 15,U.S. House,9,Troy Hollingsworth,REP,722
+Johnson,0107 WHITE RIVER 16,U.S. House,9,Troy Hollingsworth,REP,495
+Johnson,0108 WHITE RIVER 17,U.S. House,9,Troy Hollingsworth,REP,273
+Johnson,0109 WHITE RIVER 18,U.S. House,9,Troy Hollingsworth,REP,261
+Johnson,0110 WHITE RIVER 19,U.S. House,9,Troy Hollingsworth,REP,275
+Johnson,0111 WHITE RIVER 20,U.S. House,9,Troy Hollingsworth,REP,299
+Johnson,0112 WHITE RIVER 21,U.S. House,9,Troy Hollingsworth,REP,526
+Johnson,0113 WHITE RIVER 22,U.S. House,9,Troy Hollingsworth,REP,419
+Johnson,0114 WHITE RIVER 23,U.S. House,9,Troy Hollingsworth,REP,200
+Johnson,0115 WHITE RIVER 24,U.S. House,9,Troy Hollingsworth,REP,333
+Johnson,0116 WHITE RIVER 25,U.S. House,9,Troy Hollingsworth,REP,307
+Johnson,0117 WHITE RIVER 26,U.S. House,9,Troy Hollingsworth,REP,247
+Johnson,0118 WHITE RIVER 27,U.S. House,9,Troy Hollingsworth,REP,320
+Johnson,0119 WHITE RIVER 28,U.S. House,9,Troy Hollingsworth,REP,253
+Johnson,0120 WHITE RIVER 29,U.S. House,9,Troy Hollingsworth,REP,519
+Johnson,0121 WHITE RIVER 30,U.S. House,9,Troy Hollingsworth,REP,252
+Johnson,0122 WHITE RIVER 31,U.S. House,9,Troy Hollingsworth,REP,219
+Johnson,0123 WHITE RIVER 32,U.S. House,9,Troy Hollingsworth,REP,471
+Johnson,0124 WHITE RIVER 33,U.S. House,9,Troy Hollingsworth,REP,295
+Johnson,0125 WHITE RIVER 34,U.S. House,9,Troy Hollingsworth,REP,407
+Johnson,0126 WHITE RIVER 35,U.S. House,9,Troy Hollingsworth,REP,795
+Johnson,0127 WHITE RIVER 36,U.S. House,9,Troy Hollingsworth,REP,246
+Johnson,0128 WHITE RIVER 37,U.S. House,9,Troy Hollingsworth,REP,600
+Johnson,0129 WHITE RIVER 38,U.S. House,9,Troy Hollingsworth,REP,301
+Johnson,0130 WHITE RIVER 39,U.S. House,9,Troy Hollingsworth,REP,470
+Johnson,0131 WHITE RIVER 40,U.S. House,9,Troy Hollingsworth,REP,306
+Johnson,0132 WHITE RIVER 41,U.S. House,9,Troy Hollingsworth,REP,288
+Johnson,0133 WHITE RIVER 42,U.S. House,9,Troy Hollingsworth,REP,298
+Johnson,0134 WHITE RIVER 43,U.S. House,9,Troy Hollingsworth,REP,201
+Johnson,,U.S. House,9,Troy Hollingsworth,REP,42207
+Johnson,0001 BLUE RIVER 1,U.S. House,9,Shelli Yoder,DEM,50
+Johnson,0002 BLUE RIVER 2,U.S. House,9,Shelli Yoder,DEM,89
+Johnson,0003 BLUE RIVER 3,U.S. House,9,Shelli Yoder,DEM,83
+Johnson,0004 BLUE RIVER 4,U.S. House,9,Shelli Yoder,DEM,78
+Johnson,0005 BLUE RIVER 5,U.S. House,9,Shelli Yoder,DEM,75
+Johnson,0006 CLARK 1,U.S. House,9,Shelli Yoder,DEM,55
+Johnson,0007 CLARK 2,U.S. House,9,Shelli Yoder,DEM,126
+Johnson,0008 CLARK 3,U.S. House,9,Shelli Yoder,DEM,182
+Johnson,0009 FRANKLIN 1,U.S. House,9,Shelli Yoder,DEM,204
+Johnson,0010 FRANKLIN 2,U.S. House,9,Shelli Yoder,DEM,173
+Johnson,0011 FRANKLIN 3,U.S. House,9,Shelli Yoder,DEM,81
+Johnson,0012 FRANKLIN 4,U.S. House,9,Shelli Yoder,DEM,154
+Johnson,0013 FRANKLIN 5,U.S. House,9,Shelli Yoder,DEM,97
+Johnson,0014 FRANKLIN 6,U.S. House,9,Shelli Yoder,DEM,148
+Johnson,0015 FRANKLIN 7,U.S. House,9,Shelli Yoder,DEM,138
+Johnson,0016 FRANKLIN 8,U.S. House,9,Shelli Yoder,DEM,57
+Johnson,0017 FRANKLIN 9,U.S. House,9,Shelli Yoder,DEM,226
+Johnson,0018 FRANKLIN 10,U.S. House,9,Shelli Yoder,DEM,113
+Johnson,0019 FRANKLIN 11,U.S. House,9,Shelli Yoder,DEM,86
+Johnson,0020 FRANKLIN 12,U.S. House,9,Shelli Yoder,DEM,54
+Johnson,0021 FRANKLIN 13,U.S. House,9,Shelli Yoder,DEM,70
+Johnson,0022 FRANKLIN 14,U.S. House,9,Shelli Yoder,DEM,97
+Johnson,0023 FRANKLIN 15,U.S. House,9,Shelli Yoder,DEM,127
+Johnson,0024 FRANKLIN 16,U.S. House,9,Shelli Yoder,DEM,198
+Johnson,0025 FRANKLIN 17,U.S. House,9,Shelli Yoder,DEM,152
+Johnson,0026 FRANKLIN 18,U.S. House,9,Shelli Yoder,DEM,112
+Johnson,0027 FRANKLIN 19,U.S. House,9,Shelli Yoder,DEM,161
+Johnson,0028 FRANKLIN 20,U.S. House,9,Shelli Yoder,DEM,119
+Johnson,0029 HENSLEY 1,U.S. House,9,Shelli Yoder,DEM,64
+Johnson,0030 HENSLEY 2,U.S. House,9,Shelli Yoder,DEM,197
+Johnson,0031 HENSLEY 3,U.S. House,9,Shelli Yoder,DEM,134
+Johnson,0032 NEEDHAM 1,U.S. House,9,Shelli Yoder,DEM,188
+Johnson,0033 NEEDHAM 2,U.S. House,9,Shelli Yoder,DEM,275
+Johnson,0034 NEEDHAM 3,U.S. House,9,Shelli Yoder,DEM,105
+Johnson,0035 NEEDHAM 4,U.S. House,9,Shelli Yoder,DEM,210
+Johnson,0036 NEEDHAM 5,U.S. House,9,Shelli Yoder,DEM,242
+Johnson,0037 NINEVEH 1,U.S. House,9,Shelli Yoder,DEM,192
+Johnson,0038 NINEVEH 2,U.S. House,9,Shelli Yoder,DEM,152
+Johnson,0039 NINEVEH 3,U.S. House,9,Shelli Yoder,DEM,74
+Johnson,0040 PLEASANT 1,U.S. House,9,Shelli Yoder,DEM,124
+Johnson,0041 PLEASANT 2,U.S. House,9,Shelli Yoder,DEM,136
+Johnson,0042 PLEASANT 3,U.S. House,9,Shelli Yoder,DEM,180
+Johnson,0043 PLEASANT 4,U.S. House,9,Shelli Yoder,DEM,110
+Johnson,0044 PLEASANT 5,U.S. House,9,Shelli Yoder,DEM,91
+Johnson,0045 PLEASANT 6,U.S. House,9,Shelli Yoder,DEM,102
+Johnson,0046 PLEASANT 7,U.S. House,9,Shelli Yoder,DEM,141
+Johnson,0047 PLEASANT 8,U.S. House,9,Shelli Yoder,DEM,118
+Johnson,0048 PLEASANT 9,U.S. House,9,Shelli Yoder,DEM,134
+Johnson,0049 PLEASANT 10,U.S. House,9,Shelli Yoder,DEM,67
+Johnson,0050 PLEASANT 11,U.S. House,9,Shelli Yoder,DEM,241
+Johnson,0051 PLEASANT 12,U.S. House,9,Shelli Yoder,DEM,128
+Johnson,0052 PLEASANT 13,U.S. House,9,Shelli Yoder,DEM,279
+Johnson,0053 PLEASANT 14,U.S. House,9,Shelli Yoder,DEM,188
+Johnson,0054 PLEASANT 15,U.S. House,9,Shelli Yoder,DEM,68
+Johnson,0055 PLEASANT 16,U.S. House,9,Shelli Yoder,DEM,145
+Johnson,0056 PLEASANT 17,U.S. House,9,Shelli Yoder,DEM,197
+Johnson,0057 PLEASANT 18,U.S. House,9,Shelli Yoder,DEM,106
+Johnson,0058 PLEASANT 19,U.S. House,9,Shelli Yoder,DEM,248
+Johnson,0059 PLEASANT 20,U.S. House,9,Shelli Yoder,DEM,79
+Johnson,0060 PLEASANT 21,U.S. House,9,Shelli Yoder,DEM,191
+Johnson,0061 PLEASANT 22,U.S. House,9,Shelli Yoder,DEM,408
+Johnson,0062 PLEASANT 23,U.S. House,9,Shelli Yoder,DEM,53
+Johnson,0063 PLEASANT 24,U.S. House,9,Shelli Yoder,DEM,64
+Johnson,0064 PLEASANT 25,U.S. House,9,Shelli Yoder,DEM,61
+Johnson,0065 PLEASANT 26,U.S. House,9,Shelli Yoder,DEM,78
+Johnson,0066 PLEASANT 27,U.S. House,9,Shelli Yoder,DEM,84
+Johnson,0067 PLEASANT 28,U.S. House,9,Shelli Yoder,DEM,206
+Johnson,0068 PLEASANT 29,U.S. House,9,Shelli Yoder,DEM,116
+Johnson,0069 PLEASANT 30,U.S. House,9,Shelli Yoder,DEM,145
+Johnson,0070 PLEASANT 31,U.S. House,9,Shelli Yoder,DEM,145
+Johnson,0071 PLEASANT 32,U.S. House,9,Shelli Yoder,DEM,120
+Johnson,0072 PLEASANT 33,U.S. House,9,Shelli Yoder,DEM,205
+Johnson,0073 PLEASANT 34,U.S. House,9,Shelli Yoder,DEM,97
+Johnson,0074 PLEASANT 35,U.S. House,9,Shelli Yoder,DEM,144
+Johnson,0075 PLEASANT 36,U.S. House,9,Shelli Yoder,DEM,54
+Johnson,0076 PLEASANT 37,U.S. House,9,Shelli Yoder,DEM,83
+Johnson,0077 PLEASANT 38,U.S. House,9,Shelli Yoder,DEM,173
+Johnson,0078 PLEASANT 39,U.S. House,9,Shelli Yoder,DEM,221
+Johnson,0079 PLEASANT 40,U.S. House,9,Shelli Yoder,DEM,171
+Johnson,0080 PLEASANT 41,U.S. House,9,Shelli Yoder,DEM,29
+Johnson,0081 PLEASANT 42,U.S. House,9,Shelli Yoder,DEM,265
+Johnson,0082 PLEASANT 43,U.S. House,9,Shelli Yoder,DEM,219
+Johnson,0083 PLEASANT 44,U.S. House,9,Shelli Yoder,DEM,120
+Johnson,0084 PLEASANT 45,U.S. House,9,Shelli Yoder,DEM,340
+Johnson,0085 PLEASANT 46,U.S. House,9,Shelli Yoder,DEM,85
+Johnson,0086 PLEASANT 47,U.S. House,9,Shelli Yoder,DEM,212
+Johnson,0087 PLEASANT 48,U.S. House,9,Shelli Yoder,DEM,210
+Johnson,0088 PLEASANT 49,U.S. House,9,Shelli Yoder,DEM,128
+Johnson,0089 UNION 1,U.S. House,9,Shelli Yoder,DEM,147
+Johnson,0090 UNION 2,U.S. House,9,Shelli Yoder,DEM,112
+Johnson,0091 UNION 3,U.S. House,9,Shelli Yoder,DEM,91
+Johnson,0092 WHITE RIVER 1,U.S. House,9,Shelli Yoder,DEM,121
+Johnson,0093 WHITE RIVER 2,U.S. House,9,Shelli Yoder,DEM,70
+Johnson,0094 WHITE RIVER 3,U.S. House,9,Shelli Yoder,DEM,185
+Johnson,0095 WHITE RIVER 4,U.S. House,9,Shelli Yoder,DEM,138
+Johnson,0096 WHITE RIVER 5,U.S. House,9,Shelli Yoder,DEM,111
+Johnson,0097 WHITE RIVER 6,U.S. House,9,Shelli Yoder,DEM,142
+Johnson,0098 WHITE RIVER 7,U.S. House,9,Shelli Yoder,DEM,199
+Johnson,0099 WHITE RIVER 8,U.S. House,9,Shelli Yoder,DEM,186
+Johnson,0100 WHITE RIVER 9,U.S. House,9,Shelli Yoder,DEM,230
+Johnson,0101 WHITE RIVER 10,U.S. House,9,Shelli Yoder,DEM,116
+Johnson,0102 WHITE RIVER 11,U.S. House,9,Shelli Yoder,DEM,177
+Johnson,0103 WHITE RIVER 12,U.S. House,9,Shelli Yoder,DEM,183
+Johnson,0104 WHITE RIVER 13,U.S. House,9,Shelli Yoder,DEM,146
+Johnson,0105 WHITE RIVER 14,U.S. House,9,Shelli Yoder,DEM,244
+Johnson,0106 WHITE RIVER 15,U.S. House,9,Shelli Yoder,DEM,334
+Johnson,0107 WHITE RIVER 16,U.S. House,9,Shelli Yoder,DEM,222
+Johnson,0108 WHITE RIVER 17,U.S. House,9,Shelli Yoder,DEM,131
+Johnson,0109 WHITE RIVER 18,U.S. House,9,Shelli Yoder,DEM,143
+Johnson,0110 WHITE RIVER 19,U.S. House,9,Shelli Yoder,DEM,151
+Johnson,0111 WHITE RIVER 20,U.S. House,9,Shelli Yoder,DEM,117
+Johnson,0112 WHITE RIVER 21,U.S. House,9,Shelli Yoder,DEM,246
+Johnson,0113 WHITE RIVER 22,U.S. House,9,Shelli Yoder,DEM,208
+Johnson,0114 WHITE RIVER 23,U.S. House,9,Shelli Yoder,DEM,89
+Johnson,0115 WHITE RIVER 24,U.S. House,9,Shelli Yoder,DEM,106
+Johnson,0116 WHITE RIVER 25,U.S. House,9,Shelli Yoder,DEM,197
+Johnson,0117 WHITE RIVER 26,U.S. House,9,Shelli Yoder,DEM,120
+Johnson,0118 WHITE RIVER 27,U.S. House,9,Shelli Yoder,DEM,123
+Johnson,0119 WHITE RIVER 28,U.S. House,9,Shelli Yoder,DEM,99
+Johnson,0120 WHITE RIVER 29,U.S. House,9,Shelli Yoder,DEM,262
+Johnson,0121 WHITE RIVER 30,U.S. House,9,Shelli Yoder,DEM,182
+Johnson,0122 WHITE RIVER 31,U.S. House,9,Shelli Yoder,DEM,137
+Johnson,0123 WHITE RIVER 32,U.S. House,9,Shelli Yoder,DEM,212
+Johnson,0124 WHITE RIVER 33,U.S. House,9,Shelli Yoder,DEM,123
+Johnson,0125 WHITE RIVER 34,U.S. House,9,Shelli Yoder,DEM,164
+Johnson,0126 WHITE RIVER 35,U.S. House,9,Shelli Yoder,DEM,293
+Johnson,0127 WHITE RIVER 36,U.S. House,9,Shelli Yoder,DEM,143
+Johnson,0128 WHITE RIVER 37,U.S. House,9,Shelli Yoder,DEM,363
+Johnson,0129 WHITE RIVER 38,U.S. House,9,Shelli Yoder,DEM,124
+Johnson,0130 WHITE RIVER 39,U.S. House,9,Shelli Yoder,DEM,248
+Johnson,0131 WHITE RIVER 40,U.S. House,9,Shelli Yoder,DEM,110
+Johnson,0132 WHITE RIVER 41,U.S. House,9,Shelli Yoder,DEM,136
+Johnson,0133 WHITE RIVER 42,U.S. House,9,Shelli Yoder,DEM,166
+Johnson,0134 WHITE RIVER 43,U.S. House,9,Shelli Yoder,DEM,74
+Johnson,,U.S. House,9,Shelli Yoder,DEM,20068
+Johnson,0001 BLUE RIVER 1,U.S. House,9,Russ Brooksbank,LBT,11
+Johnson,0002 BLUE RIVER 2,U.S. House,9,Russ Brooksbank,LBT,27
+Johnson,0003 BLUE RIVER 3,U.S. House,9,Russ Brooksbank,LBT,29
+Johnson,0004 BLUE RIVER 4,U.S. House,9,Russ Brooksbank,LBT,31
+Johnson,0005 BLUE RIVER 5,U.S. House,9,Russ Brooksbank,LBT,19
+Johnson,0006 CLARK 1,U.S. House,9,Russ Brooksbank,LBT,10
+Johnson,0007 CLARK 2,U.S. House,9,Russ Brooksbank,LBT,28
+Johnson,0008 CLARK 3,U.S. House,9,Russ Brooksbank,LBT,30
+Johnson,0009 FRANKLIN 1,U.S. House,9,Russ Brooksbank,LBT,39
+Johnson,0010 FRANKLIN 2,U.S. House,9,Russ Brooksbank,LBT,32
+Johnson,0011 FRANKLIN 3,U.S. House,9,Russ Brooksbank,LBT,26
+Johnson,0012 FRANKLIN 4,U.S. House,9,Russ Brooksbank,LBT,21
+Johnson,0013 FRANKLIN 5,U.S. House,9,Russ Brooksbank,LBT,16
+Johnson,0014 FRANKLIN 6,U.S. House,9,Russ Brooksbank,LBT,39
+Johnson,0015 FRANKLIN 7,U.S. House,9,Russ Brooksbank,LBT,26
+Johnson,0016 FRANKLIN 8,U.S. House,9,Russ Brooksbank,LBT,10
+Johnson,0017 FRANKLIN 9,U.S. House,9,Russ Brooksbank,LBT,43
+Johnson,0018 FRANKLIN 10,U.S. House,9,Russ Brooksbank,LBT,13
+Johnson,0019 FRANKLIN 11,U.S. House,9,Russ Brooksbank,LBT,24
+Johnson,0020 FRANKLIN 12,U.S. House,9,Russ Brooksbank,LBT,20
+Johnson,0021 FRANKLIN 13,U.S. House,9,Russ Brooksbank,LBT,10
+Johnson,0022 FRANKLIN 14,U.S. House,9,Russ Brooksbank,LBT,8
+Johnson,0023 FRANKLIN 15,U.S. House,9,Russ Brooksbank,LBT,34
+Johnson,0024 FRANKLIN 16,U.S. House,9,Russ Brooksbank,LBT,51
+Johnson,0025 FRANKLIN 17,U.S. House,9,Russ Brooksbank,LBT,24
+Johnson,0026 FRANKLIN 18,U.S. House,9,Russ Brooksbank,LBT,25
+Johnson,0027 FRANKLIN 19,U.S. House,9,Russ Brooksbank,LBT,50
+Johnson,0028 FRANKLIN 20,U.S. House,9,Russ Brooksbank,LBT,20
+Johnson,0029 HENSLEY 1,U.S. House,9,Russ Brooksbank,LBT,16
+Johnson,0030 HENSLEY 2,U.S. House,9,Russ Brooksbank,LBT,46
+Johnson,0031 HENSLEY 3,U.S. House,9,Russ Brooksbank,LBT,38
+Johnson,0032 NEEDHAM 1,U.S. House,9,Russ Brooksbank,LBT,50
+Johnson,0033 NEEDHAM 2,U.S. House,9,Russ Brooksbank,LBT,40
+Johnson,0034 NEEDHAM 3,U.S. House,9,Russ Brooksbank,LBT,33
+Johnson,0035 NEEDHAM 4,U.S. House,9,Russ Brooksbank,LBT,42
+Johnson,0036 NEEDHAM 5,U.S. House,9,Russ Brooksbank,LBT,48
+Johnson,0037 NINEVEH 1,U.S. House,9,Russ Brooksbank,LBT,39
+Johnson,0038 NINEVEH 2,U.S. House,9,Russ Brooksbank,LBT,56
+Johnson,0039 NINEVEH 3,U.S. House,9,Russ Brooksbank,LBT,17
+Johnson,0040 PLEASANT 1,U.S. House,9,Russ Brooksbank,LBT,29
+Johnson,0041 PLEASANT 2,U.S. House,9,Russ Brooksbank,LBT,33
+Johnson,0042 PLEASANT 3,U.S. House,9,Russ Brooksbank,LBT,35
+Johnson,0043 PLEASANT 4,U.S. House,9,Russ Brooksbank,LBT,28
+Johnson,0044 PLEASANT 5,U.S. House,9,Russ Brooksbank,LBT,17
+Johnson,0045 PLEASANT 6,U.S. House,9,Russ Brooksbank,LBT,32
+Johnson,0046 PLEASANT 7,U.S. House,9,Russ Brooksbank,LBT,45
+Johnson,0047 PLEASANT 8,U.S. House,9,Russ Brooksbank,LBT,25
+Johnson,0048 PLEASANT 9,U.S. House,9,Russ Brooksbank,LBT,38
+Johnson,0049 PLEASANT 10,U.S. House,9,Russ Brooksbank,LBT,23
+Johnson,0050 PLEASANT 11,U.S. House,9,Russ Brooksbank,LBT,38
+Johnson,0051 PLEASANT 12,U.S. House,9,Russ Brooksbank,LBT,24
+Johnson,0052 PLEASANT 13,U.S. House,9,Russ Brooksbank,LBT,30
+Johnson,0053 PLEASANT 14,U.S. House,9,Russ Brooksbank,LBT,37
+Johnson,0054 PLEASANT 15,U.S. House,9,Russ Brooksbank,LBT,26
+Johnson,0055 PLEASANT 16,U.S. House,9,Russ Brooksbank,LBT,22
+Johnson,0056 PLEASANT 17,U.S. House,9,Russ Brooksbank,LBT,31
+Johnson,0057 PLEASANT 18,U.S. House,9,Russ Brooksbank,LBT,12
+Johnson,0058 PLEASANT 19,U.S. House,9,Russ Brooksbank,LBT,78
+Johnson,0059 PLEASANT 20,U.S. House,9,Russ Brooksbank,LBT,15
+Johnson,0060 PLEASANT 21,U.S. House,9,Russ Brooksbank,LBT,41
+Johnson,0061 PLEASANT 22,U.S. House,9,Russ Brooksbank,LBT,84
+Johnson,0062 PLEASANT 23,U.S. House,9,Russ Brooksbank,LBT,6
+Johnson,0063 PLEASANT 24,U.S. House,9,Russ Brooksbank,LBT,17
+Johnson,0064 PLEASANT 25,U.S. House,9,Russ Brooksbank,LBT,16
+Johnson,0065 PLEASANT 26,U.S. House,9,Russ Brooksbank,LBT,15
+Johnson,0066 PLEASANT 27,U.S. House,9,Russ Brooksbank,LBT,18
+Johnson,0067 PLEASANT 28,U.S. House,9,Russ Brooksbank,LBT,37
+Johnson,0068 PLEASANT 29,U.S. House,9,Russ Brooksbank,LBT,26
+Johnson,0069 PLEASANT 30,U.S. House,9,Russ Brooksbank,LBT,38
+Johnson,0070 PLEASANT 31,U.S. House,9,Russ Brooksbank,LBT,45
+Johnson,0071 PLEASANT 32,U.S. House,9,Russ Brooksbank,LBT,21
+Johnson,0072 PLEASANT 33,U.S. House,9,Russ Brooksbank,LBT,56
+Johnson,0073 PLEASANT 34,U.S. House,9,Russ Brooksbank,LBT,41
+Johnson,0074 PLEASANT 35,U.S. House,9,Russ Brooksbank,LBT,18
+Johnson,0075 PLEASANT 36,U.S. House,9,Russ Brooksbank,LBT,7
+Johnson,0076 PLEASANT 37,U.S. House,9,Russ Brooksbank,LBT,18
+Johnson,0077 PLEASANT 38,U.S. House,9,Russ Brooksbank,LBT,42
+Johnson,0078 PLEASANT 39,U.S. House,9,Russ Brooksbank,LBT,38
+Johnson,0079 PLEASANT 40,U.S. House,9,Russ Brooksbank,LBT,34
+Johnson,0080 PLEASANT 41,U.S. House,9,Russ Brooksbank,LBT,9
+Johnson,0081 PLEASANT 42,U.S. House,9,Russ Brooksbank,LBT,47
+Johnson,0082 PLEASANT 43,U.S. House,9,Russ Brooksbank,LBT,27
+Johnson,0083 PLEASANT 44,U.S. House,9,Russ Brooksbank,LBT,26
+Johnson,0084 PLEASANT 45,U.S. House,9,Russ Brooksbank,LBT,38
+Johnson,0085 PLEASANT 46,U.S. House,9,Russ Brooksbank,LBT,24
+Johnson,0086 PLEASANT 47,U.S. House,9,Russ Brooksbank,LBT,36
+Johnson,0087 PLEASANT 48,U.S. House,9,Russ Brooksbank,LBT,36
+Johnson,0088 PLEASANT 49,U.S. House,9,Russ Brooksbank,LBT,19
+Johnson,0089 UNION 1,U.S. House,9,Russ Brooksbank,LBT,31
+Johnson,0090 UNION 2,U.S. House,9,Russ Brooksbank,LBT,29
+Johnson,0091 UNION 3,U.S. House,9,Russ Brooksbank,LBT,19
+Johnson,0092 WHITE RIVER 1,U.S. House,9,Russ Brooksbank,LBT,17
+Johnson,0093 WHITE RIVER 2,U.S. House,9,Russ Brooksbank,LBT,13
+Johnson,0094 WHITE RIVER 3,U.S. House,9,Russ Brooksbank,LBT,36
+Johnson,0095 WHITE RIVER 4,U.S. House,9,Russ Brooksbank,LBT,17
+Johnson,0096 WHITE RIVER 5,U.S. House,9,Russ Brooksbank,LBT,31
+Johnson,0097 WHITE RIVER 6,U.S. House,9,Russ Brooksbank,LBT,28
+Johnson,0098 WHITE RIVER 7,U.S. House,9,Russ Brooksbank,LBT,43
+Johnson,0099 WHITE RIVER 8,U.S. House,9,Russ Brooksbank,LBT,37
+Johnson,0100 WHITE RIVER 9,U.S. House,9,Russ Brooksbank,LBT,50
+Johnson,0101 WHITE RIVER 10,U.S. House,9,Russ Brooksbank,LBT,7
+Johnson,0102 WHITE RIVER 11,U.S. House,9,Russ Brooksbank,LBT,34
+Johnson,0103 WHITE RIVER 12,U.S. House,9,Russ Brooksbank,LBT,21
+Johnson,0104 WHITE RIVER 13,U.S. House,9,Russ Brooksbank,LBT,14
+Johnson,0105 WHITE RIVER 14,U.S. House,9,Russ Brooksbank,LBT,33
+Johnson,0106 WHITE RIVER 15,U.S. House,9,Russ Brooksbank,LBT,59
+Johnson,0107 WHITE RIVER 16,U.S. House,9,Russ Brooksbank,LBT,32
+Johnson,0108 WHITE RIVER 17,U.S. House,9,Russ Brooksbank,LBT,26
+Johnson,0109 WHITE RIVER 18,U.S. House,9,Russ Brooksbank,LBT,23
+Johnson,0110 WHITE RIVER 19,U.S. House,9,Russ Brooksbank,LBT,38
+Johnson,0111 WHITE RIVER 20,U.S. House,9,Russ Brooksbank,LBT,16
+Johnson,0112 WHITE RIVER 21,U.S. House,9,Russ Brooksbank,LBT,24
+Johnson,0113 WHITE RIVER 22,U.S. House,9,Russ Brooksbank,LBT,28
+Johnson,0114 WHITE RIVER 23,U.S. House,9,Russ Brooksbank,LBT,11
+Johnson,0115 WHITE RIVER 24,U.S. House,9,Russ Brooksbank,LBT,21
+Johnson,0116 WHITE RIVER 25,U.S. House,9,Russ Brooksbank,LBT,39
+Johnson,0117 WHITE RIVER 26,U.S. House,9,Russ Brooksbank,LBT,17
+Johnson,0118 WHITE RIVER 27,U.S. House,9,Russ Brooksbank,LBT,37
+Johnson,0119 WHITE RIVER 28,U.S. House,9,Russ Brooksbank,LBT,10
+Johnson,0120 WHITE RIVER 29,U.S. House,9,Russ Brooksbank,LBT,45
+Johnson,0121 WHITE RIVER 30,U.S. House,9,Russ Brooksbank,LBT,25
+Johnson,0122 WHITE RIVER 31,U.S. House,9,Russ Brooksbank,LBT,25
+Johnson,0123 WHITE RIVER 32,U.S. House,9,Russ Brooksbank,LBT,23
+Johnson,0124 WHITE RIVER 33,U.S. House,9,Russ Brooksbank,LBT,22
+Johnson,0125 WHITE RIVER 34,U.S. House,9,Russ Brooksbank,LBT,17
+Johnson,0126 WHITE RIVER 35,U.S. House,9,Russ Brooksbank,LBT,46
+Johnson,0127 WHITE RIVER 36,U.S. House,9,Russ Brooksbank,LBT,22
+Johnson,0128 WHITE RIVER 37,U.S. House,9,Russ Brooksbank,LBT,61
+Johnson,0129 WHITE RIVER 38,U.S. House,9,Russ Brooksbank,LBT,11
+Johnson,0130 WHITE RIVER 39,U.S. House,9,Russ Brooksbank,LBT,34
+Johnson,0131 WHITE RIVER 40,U.S. House,9,Russ Brooksbank,LBT,11
+Johnson,0132 WHITE RIVER 41,U.S. House,9,Russ Brooksbank,LBT,29
+Johnson,0133 WHITE RIVER 42,U.S. House,9,Russ Brooksbank,LBT,32
+Johnson,0134 WHITE RIVER 43,U.S. House,9,Russ Brooksbank,LBT,17
+Johnson,,U.S. House,9,Russ Brooksbank,LBT,3900
+Johnson,0001 BLUE RIVER 1,State House,47,John Young,REP,183
+Johnson,0002 BLUE RIVER 2,State House,47,John Young,REP,263
+Johnson,0003 BLUE RIVER 3,State House,47,John Young,REP,341
+Johnson,0004 BLUE RIVER 4,State House,47,John Young,REP,219
+Johnson,0005 BLUE RIVER 5,State House,47,John Young,REP,220
+Johnson,0006 CLARK 1,State House,58,Woody Burton,REP,216
+Johnson,0007 CLARK 2,State House,58,Woody Burton,REP,432
+Johnson,0008 CLARK 3,State House,58,Woody Burton,REP,388
+Johnson,0009 FRANKLIN 1,State House,47,John Young,REP,482
+Johnson,0010 FRANKLIN 2,State House,47,John Young,REP,273
+Johnson,0011 FRANKLIN 3,State House,47,John Young,REP,167
+Johnson,0012 FRANKLIN 4,State House,47,John Young,REP,279
+Johnson,0013 FRANKLIN 5,State House,47,John Young,REP,128
+Johnson,0014 FRANKLIN 6,State House,47,John Young,REP,310
+Johnson,0015 FRANKLIN 7,State House,47,John Young,REP,210
+Johnson,0016 FRANKLIN 8,State House,47,John Young,REP,154
+Johnson,0017 FRANKLIN 9,State House,47,John Young,REP,562
+Johnson,0018 FRANKLIN 10,State House,47,John Young,REP,231
+Johnson,0019 FRANKLIN 11,State House,47,John Young,REP,226
+Johnson,0020 FRANKLIN 12,State House,47,John Young,REP,125
+Johnson,0021 FRANKLIN 13,State House,47,John Young,REP,183
+Johnson,0022 FRANKLIN 14,State House,47,John Young,REP,151
+Johnson,0023 FRANKLIN 15,State House,47,John Young,REP,400
+Johnson,0024 FRANKLIN 16,State House,47,John Young,REP,463
+Johnson,0025 FRANKLIN 17,State House,47,John Young,REP,307
+Johnson,0026 FRANKLIN 18,State House,47,John Young,REP,251
+Johnson,0027 FRANKLIN 19,State House,47,John Young,REP,410
+Johnson,0028 FRANKLIN 20,State House,47,John Young,REP,217
+Johnson,0029 HENSLEY 1,State House,47,John Young,REP,253
+Johnson,0030 HENSLEY 2,State House,65,Chris May,REP,581
+Johnson,0031 HENSLEY 3,State House,47,John Young,REP,508
+Johnson,0032 NEEDHAM 1,State House,47,John Young,REP,545
+Johnson,0033 NEEDHAM 2,State House,47,John Young,REP,559
+Johnson,0034 NEEDHAM 3,State House,47,John Young,REP,317
+Johnson,0035 NEEDHAM 4,State House,47,John Young,REP,387
+Johnson,0036 NEEDHAM 5,State House,47,John Young,REP,500
+Johnson,0037 NINEVEH 1,State House,65,Chris May,REP,694
+Johnson,0038 NINEVEH 2,State House,65,Chris May,REP,508
+Johnson,0039 NINEVEH 3,State House,65,Chris May,REP,245
+Johnson,0040 PLEASANT 1,State House,58,Woody Burton,REP,329
+Johnson,0041 PLEASANT 2,State House,58,Woody Burton,REP,275
+Johnson,0042 PLEASANT 3,State House,58,Woody Burton,REP,357
+Johnson,0043 PLEASANT 4,State House,58,Woody Burton,REP,191
+Johnson,0044 PLEASANT 5,State House,58,Woody Burton,REP,143
+Johnson,0045 PLEASANT 6,State House,58,Woody Burton,REP,258
+Johnson,0046 PLEASANT 7,State House,58,Woody Burton,REP,346
+Johnson,0047 PLEASANT 8,State House,58,Woody Burton,REP,295
+Johnson,0048 PLEASANT 9,State House,58,Woody Burton,REP,309
+Johnson,0049 PLEASANT 10,State House,58,Woody Burton,REP,180
+Johnson,0050 PLEASANT 11,State House,93,David Frizzell,REP,364
+Johnson,0051 PLEASANT 12,State House,93,David Frizzell,REP,165
+Johnson,0052 PLEASANT 13,State House,93,David Frizzell,REP,334
+Johnson,0053 PLEASANT 14,State House,93,David Frizzell,REP,448
+Johnson,0054 PLEASANT 15,State House,93,David Frizzell,REP,311
+Johnson,0055 PLEASANT 16,State House,93,David Frizzell,REP,540
+Johnson,0056 PLEASANT 17,State House,93,David Frizzell,REP,546
+Johnson,0057 PLEASANT 18,State House,93,David Frizzell,REP,307
+Johnson,0058 PLEASANT 19,State House,93,David Frizzell,REP,298
+Johnson,0059 PLEASANT 20,State House,93,David Frizzell,REP,371
+Johnson,0060 PLEASANT 21,State House,93,David Frizzell,REP,271
+Johnson,0061 PLEASANT 22,State House,93,David Frizzell,REP,599
+Johnson,0062 PLEASANT 23,State House,93,David Frizzell,REP,524
+Johnson,0063 PLEASANT 24,State House,93,David Frizzell,REP,325
+Johnson,0064 PLEASANT 25,State House,93,David Frizzell,REP,275
+Johnson,0065 PLEASANT 26,State House,93,David Frizzell,REP,333
+Johnson,0066 PLEASANT 27,State House,93,David Frizzell,REP,353
+Johnson,0067 PLEASANT 28,State House,58,Woody Burton,REP,521
+Johnson,0068 PLEASANT 29,State House,58,Woody Burton,REP,307
+Johnson,0069 PLEASANT 30,State House,58,Woody Burton,REP,295
+Johnson,0070 PLEASANT 31,State House,58,Woody Burton,REP,506
+Johnson,0071 PLEASANT 32,State House,58,Woody Burton,REP,134
+Johnson,0072 PLEASANT 33,State House,58,Woody Burton,REP,322
+Johnson,0073 PLEASANT 34,State House,58,Woody Burton,REP,334
+Johnson,0074 PLEASANT 35,State House,58,Woody Burton,REP,220
+Johnson,0075 PLEASANT 36,State House,58,Woody Burton,REP,592
+Johnson,0076 PLEASANT 37,State House,58,Woody Burton,REP,162
+Johnson,0077 PLEASANT 38,State House,58,Woody Burton,REP,499
+Johnson,0078 PLEASANT 39,State House,58,Woody Burton,REP,909
+Johnson,0079 PLEASANT 40,State House,58,Woody Burton,REP,108
+Johnson,0080 PLEASANT 41,State House,58,Woody Burton,REP,159
+Johnson,0081 PLEASANT 42,State House,58,Woody Burton,REP,91
+Johnson,0082 PLEASANT 43,State House,58,Woody Burton,REP,140
+Johnson,0083 PLEASANT 44,State House,58,Woody Burton,REP,160
+Johnson,0084 PLEASANT 45,State House,58,Woody Burton,REP,441
+Johnson,0085 PLEASANT 46,State House,58,Woody Burton,REP,215
+Johnson,0086 PLEASANT 47,State House,58,Woody Burton,REP,284
+Johnson,0087 PLEASANT 48,State House,58,Woody Burton,REP,467
+Johnson,0088 PLEASANT 49,State House,58,Woody Burton,REP,220
+Johnson,0089 UNION 1,State House,58,Woody Burton,REP,505
+Johnson,0090 UNION 2,State House,58,Woody Burton,REP,310
+Johnson,0091 UNION 3,State House,58,Woody Burton,REP,119
+Johnson,0092 WHITE RIVER 1,State House,58,Woody Burton,REP,136
+Johnson,0093 WHITE RIVER 2,State House,58,Woody Burton,REP,373
+Johnson,0094 WHITE RIVER 3,State House,58,Woody Burton,REP,463
+Johnson,0095 WHITE RIVER 4,State House,58,Woody Burton,REP,349
+Johnson,0096 WHITE RIVER 5,State House,58,Woody Burton,REP,78
+Johnson,0097 WHITE RIVER 6,State House,58,Woody Burton,REP,519
+Johnson,0098 WHITE RIVER 7,State House,58,Woody Burton,REP,456
+Johnson,0099 WHITE RIVER 8,State House,58,Woody Burton,REP,194
+Johnson,0100 WHITE RIVER 9,State House,58,Woody Burton,REP,297
+Johnson,0101 WHITE RIVER 10,State House,58,Woody Burton,REP,225
+Johnson,0102 WHITE RIVER 11,State House,58,Woody Burton,REP,352
+Johnson,0103 WHITE RIVER 12,State House,58,Woody Burton,REP,312
+Johnson,0104 WHITE RIVER 13,State House,58,Woody Burton,REP,266
+Johnson,0105 WHITE RIVER 14,State House,58,Woody Burton,REP,277
+Johnson,0106 WHITE RIVER 15,State House,58,Woody Burton,REP,447
+Johnson,0107 WHITE RIVER 16,State House,58,Woody Burton,REP,300
+Johnson,0108 WHITE RIVER 17,State House,58,Woody Burton,REP,319
+Johnson,0109 WHITE RIVER 18,State House,58,Woody Burton,REP,209
+Johnson,0110 WHITE RIVER 19,State House,58,Woody Burton,REP,359
+Johnson,0111 WHITE RIVER 20,State House,58,Woody Burton,REP,352
+Johnson,0112 WHITE RIVER 21,State House,58,Woody Burton,REP,286
+Johnson,0113 WHITE RIVER 22,State House,58,Woody Burton,REP,237
+Johnson,0114 WHITE RIVER 23,State House,58,Woody Burton,REP,668
+Johnson,0115 WHITE RIVER 24,State House,47,John Young,REP,354
+Johnson,0116 WHITE RIVER 25,State House,47,John Young,REP,422
+Johnson,0117 WHITE RIVER 26,State House,47,John Young,REP,341
+Johnson,0118 WHITE RIVER 27,State House,47,John Young,REP,243
+Johnson,0119 WHITE RIVER 28,State House,47,John Young,REP,379
+Johnson,0120 WHITE RIVER 29,State House,47,John Young,REP,362
+Johnson,0121 WHITE RIVER 30,State House,47,John Young,REP,481
+Johnson,0122 WHITE RIVER 31,State House,47,John Young,REP,527
+Johnson,0123 WHITE RIVER 32,State House,47,John Young,REP,406
+Johnson,0124 WHITE RIVER 33,State House,47,John Young,REP,274
+Johnson,0125 WHITE RIVER 34,State House,47,John Young,REP,790
+Johnson,0126 WHITE RIVER 35,State House,47,John Young,REP,565
+Johnson,0127 WHITE RIVER 36,State House,47,John Young,REP,461
+Johnson,0128 WHITE RIVER 37,State House,47,John Young,REP,277
+Johnson,0129 WHITE RIVER 38,State House,47,John Young,REP,456
+Johnson,0130 WHITE RIVER 39,State House,47,John Young,REP,854
+Johnson,0131 WHITE RIVER 40,State House,47,John Young,REP,330
+Johnson,0132 WHITE RIVER 41,State House,47,John Young,REP,498
+Johnson,0133 WHITE RIVER 42,State House,47,John Young,REP,324
+Johnson,0134 WHITE RIVER 43,State House,47,John Young,REP,221
+Johnson,,State House,47,John Young,REP,18389
+Johnson,,State House,58,Woody Burton,REP,19213
+Johnson,,State House,65,Chris May,REP,2028
+Johnson,,State House,93,David Frizzell,REP,6364
+Johnson,0029 HENSLEY 1,State Senate,37,Rodric Bray,REP,264
+Johnson,0030 HENSLEY 2,State Senate,37,Rodric Bray,REP,648
+Johnson,0031 HENSLEY 3,State Senate,37,Rodric Bray,REP,556
+Johnson,0096 WHITE RIVER 5,State Senate,36,Jack Sandlin,REP,289
+Johnson,0102 WHITE RIVER 11,State Senate,36,Jack Sandlin,REP,475
+Johnson,0110 WHITE RIVER 19,State Senate,36,Jack Sandlin,REP,320
+Johnson,0111 WHITE RIVER 20,State Senate,36,Jack Sandlin,REP,331
+Johnson,0112 WHITE RIVER 21,State Senate,36,Jack Sandlin,REP,569
+Johnson,0114 WHITE RIVER 23,State Senate,36,Jack Sandlin,REP,225
+Johnson,0116 WHITE RIVER 25,State Senate,36,Jack Sandlin,REP,368
+Johnson,0118 WHITE RIVER 27,State Senate,36,Jack Sandlin,REP,371
+Johnson,0121 WHITE RIVER 30,State Senate,36,Jack Sandlin,REP,283
+Johnson,0122 WHITE RIVER 31,State Senate,36,Jack Sandlin,REP,243
+Johnson,0128 WHITE RIVER 37,State Senate,36,Jack Sandlin,REP,683
+Johnson,0130 WHITE RIVER 39,State Senate,36,Jack Sandlin,REP,519
+Johnson,0089 UNION 1,State Senate,37,Rodric Bray,REP,473
+Johnson,0090 UNION 2,State Senate,37,Rodric Bray,REP,377
+Johnson,0091 UNION 3,State Senate,37,Rodric Bray,REP,283
+Johnson,0092 WHITE RIVER 1,State Senate,37,Rodric Bray,REP,398
+Johnson,0093 WHITE RIVER 2,State Senate,37,Rodric Bray,REP,188
+Johnson,0094 WHITE RIVER 3,State Senate,37,Rodric Bray,REP,435
+Johnson,0095 WHITE RIVER 4,State Senate,37,Rodric Bray,REP,403
+Johnson,0097 WHITE RIVER 6,State Senate,37,Rodric Bray,REP,379
+Johnson,0098 WHITE RIVER 7,State Senate,37,Rodric Bray,REP,518
+Johnson,0099 WHITE RIVER 8,State Senate,37,Rodric Bray,REP,555
+Johnson,0100 WHITE RIVER 9,State Senate,37,Rodric Bray,REP,608
+Johnson,0101 WHITE RIVER 10,State Senate,37,Rodric Bray,REP,339
+Johnson,0103 WHITE RIVER 12,State Senate,37,Rodric Bray,REP,470
+Johnson,0104 WHITE RIVER 13,State Senate,37,Rodric Bray,REP,363
+Johnson,0105 WHITE RIVER 14,State Senate,37,Rodric Bray,REP,611
+Johnson,0106 WHITE RIVER 15,State Senate,37,Rodric Bray,REP,911
+Johnson,0107 WHITE RIVER 16,State Senate,37,Rodric Bray,REP,605
+Johnson,0108 WHITE RIVER 17,State Senate,37,Rodric Bray,REP,349
+Johnson,0109 WHITE RIVER 18,State Senate,37,Rodric Bray,REP,336
+Johnson,0113 WHITE RIVER 22,State Senate,37,Rodric Bray,REP,538
+Johnson,0115 WHITE RIVER 24,State Senate,37,Rodric Bray,REP,396
+Johnson,0117 WHITE RIVER 26,State Senate,37,Rodric Bray,REP,305
+Johnson,0119 WHITE RIVER 28,State Senate,37,Rodric Bray,REP,307
+Johnson,0120 WHITE RIVER 29,State Senate,37,Rodric Bray,REP,666
+Johnson,0123 WHITE RIVER 32,State Senate,37,Rodric Bray,REP,585
+Johnson,0124 WHITE RIVER 33,State Senate,37,Rodric Bray,REP,364
+Johnson,0125 WHITE RIVER 34,State Senate,37,Rodric Bray,REP,496
+Johnson,0126 WHITE RIVER 35,State Senate,37,Rodric Bray,REP,965
+Johnson,0127 WHITE RIVER 36,State Senate,37,Rodric Bray,REP,319
+Johnson,0129 WHITE RIVER 38,State Senate,37,Rodric Bray,REP,363
+Johnson,0131 WHITE RIVER 40,State Senate,37,Rodric Bray,REP,357
+Johnson,0132 WHITE RIVER 41,State Senate,37,Rodric Bray,REP,378
+Johnson,0133 WHITE RIVER 42,State Senate,37,Rodric Bray,REP,416
+Johnson,0134 WHITE RIVER 43,State Senate,37,Rodric Bray,REP,244
+Johnson,0096 WHITE RIVER 5,State Senate,36,Sean Gorman,DEM,105
+Johnson,0102 WHITE RIVER 11,State Senate,36,Sean Gorman,DEM,150
+Johnson,0110 WHITE RIVER 19,State Senate,36,Sean Gorman,DEM,140
+Johnson,0111 WHITE RIVER 20,State Senate,36,Sean Gorman,DEM,96
+Johnson,0112 WHITE RIVER 21,State Senate,36,Sean Gorman,DEM,214
+Johnson,0114 WHITE RIVER 23,State Senate,36,Sean Gorman,DEM,73
+Johnson,0116 WHITE RIVER 25,State Senate,36,Sean Gorman,DEM,165
+Johnson,0118 WHITE RIVER 27,State Senate,36,Sean Gorman,DEM,103
+Johnson,0121 WHITE RIVER 30,State Senate,36,Sean Gorman,DEM,170
+Johnson,0122 WHITE RIVER 31,State Senate,36,Sean Gorman,DEM,135
+Johnson,0128 WHITE RIVER 37,State Senate,36,Sean Gorman,DEM,324
+Johnson,0130 WHITE RIVER 39,State Senate,36,Sean Gorman,DEM,220

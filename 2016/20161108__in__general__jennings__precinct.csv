@@ -1,0 +1,581 @@
+county,precinct,office,district,party,candidate,votes
+Jennings,01-Bigger,Voters,,,Registered,433
+Jennings,02-Campbell,Voters,,,Registered,785
+Jennings,03-Center East,Voters,,,Registered,788
+Jennings,04-Center West,Voters,,,Registered,763
+Jennings,05-Columbia,Voters,,,Registered,517
+Jennings,06-Geneva 1 East,Voters,,,Registered,972
+Jennings,07-Geneva 1 West,Voters,,,Registered,1951
+Jennings,08-Geneva 2,Voters,,,Registered,1032
+Jennings,09-Geneva 3,Voters,,,Registered,725
+Jennings,10-Lovett,Voters,,,Registered,738
+Jennings,11-Marion,Voters,,,Registered,732
+Jennings,12-Montgomery,Voters,,,Registered,714
+Jennings,13-NV 1A,Voters,,,Registered,369
+Jennings,14-NV 2A,Voters,,,Registered,479
+Jennings,15-NV 3A,Voters,,,Registered,769
+Jennings,16-NV4A,Voters,,,Registered,483
+Jennings,17-NV1B,Voters,,,Registered,403
+Jennings,18-NV2B,Voters,,,Registered,823
+Jennings,19-NV3B,Voters,,,Registered,697
+Jennings,20-NV4B,Voters,,,Registered,654
+Jennings,21-Sandcreek,Voters,,,Registered,625
+Jennings,22-Spencer North,Voters,,,Registered,934
+Jennings,23-Spencer South,Voters,,,Registered,694
+Jennings,24-Vernon East,Voters,,,Registered,1145
+Jennings,25-Vernon West,Voters,,,Registered,841
+Jennings,,Voters,,,Registered,19066
+Jennings,01-Bigger,Voters,,,Ballots Cast,252
+Jennings,02-Campbell,Voters,,,Ballots Cast,461
+Jennings,03-Center East,Voters,,,Ballots Cast,492
+Jennings,04-Center West,Voters,,,Ballots Cast,535
+Jennings,05-Columbia,Voters,,,Ballots Cast,349
+Jennings,06-Geneva 1 East,Voters,,,Ballots Cast,631
+Jennings,07-Geneva 1 West,Voters,,,Ballots Cast,700
+Jennings,08-Geneva 2,Voters,,,Ballots Cast,644
+Jennings,09-Geneva 3,Voters,,,Ballots Cast,487
+Jennings,10-Lovett,Voters,,,Ballots Cast,525
+Jennings,11-Marion,Voters,,,Ballots Cast,499
+Jennings,12-Montgomery,Voters,,,Ballots Cast,456
+Jennings,13-NV 1A,Voters,,,Ballots Cast,219
+Jennings,14-NV 2A,Voters,,,Ballots Cast,268
+Jennings,15-NV 3A,Voters,,,Ballots Cast,335
+Jennings,16-NV4A,Voters,,,Ballots Cast,187
+Jennings,17-NV1B,Voters,,,Ballots Cast,253
+Jennings,18-NV2B,Voters,,,Ballots Cast,567
+Jennings,19-NV3B,Voters,,,Ballots Cast,348
+Jennings,20-NV4B,Voters,,,Ballots Cast,319
+Jennings,21-Sandcreek,Voters,,,Ballots Cast,450
+Jennings,22-Spencer North,Voters,,,Ballots Cast,634
+Jennings,23-Spencer South,Voters,,,Ballots Cast,481
+Jennings,24-Vernon East,Voters,,,Ballots Cast,726
+Jennings,25-Vernon West,Voters,,,Ballots Cast,603
+Jennings,,Voters,,,Ballots Cast,11421
+Jennings,01-Bigger,President,,REP,Donald Trump,201
+Jennings,02-Campbell,President,,REP,Donald Trump,329
+Jennings,03-Center East,President,,REP,Donald Trump,356
+Jennings,04-Center West,President,,REP,Donald Trump,381
+Jennings,05-Columbia,President,,REP,Donald Trump,257
+Jennings,06-Geneva 1 East,President,,REP,Donald Trump,466
+Jennings,07-Geneva 1 West,President,,REP,Donald Trump,457
+Jennings,08-Geneva 2,President,,REP,Donald Trump,499
+Jennings,09-Geneva 3,President,,REP,Donald Trump,374
+Jennings,10-Lovett,President,,REP,Donald Trump,366
+Jennings,11-Marion,President,,REP,Donald Trump,375
+Jennings,12-Montgomery,President,,REP,Donald Trump,354
+Jennings,13-NV 1A,President,,REP,Donald Trump,155
+Jennings,14-NV 2A,President,,REP,Donald Trump,183
+Jennings,15-NV 3A,President,,REP,Donald Trump,218
+Jennings,16-NV4A,President,,REP,Donald Trump,106
+Jennings,17-NV1B,President,,REP,Donald Trump,163
+Jennings,18-NV2B,President,,REP,Donald Trump,397
+Jennings,19-NV3B,President,,REP,Donald Trump,219
+Jennings,20-NV4B,President,,REP,Donald Trump,218
+Jennings,21-Sandcreek,President,,REP,Donald Trump,342
+Jennings,22-Spencer North,President,,REP,Donald Trump,461
+Jennings,23-Spencer South,President,,REP,Donald Trump,355
+Jennings,24-Vernon East,President,,REP,Donald Trump,548
+Jennings,25-Vernon West,President,,REP,Donald Trump,444
+Jennings,,President,,REP,Donald Trump,8224
+Jennings,01-Bigger,President,,DEM,Hillary Clinton,40
+Jennings,02-Campbell,President,,DEM,Hillary Clinton,97
+Jennings,03-Center East,President,,DEM,Hillary Clinton,102
+Jennings,04-Center West,President,,DEM,Hillary Clinton,126
+Jennings,05-Columbia,President,,DEM,Hillary Clinton,72
+Jennings,06-Geneva 1 East,President,,DEM,Hillary Clinton,118
+Jennings,07-Geneva 1 West,President,,DEM,Hillary Clinton,189
+Jennings,08-Geneva 2,President,,DEM,Hillary Clinton,107
+Jennings,09-Geneva 3,President,,DEM,Hillary Clinton,87
+Jennings,10-Lovett,President,,DEM,Hillary Clinton,123
+Jennings,11-Marion,President,,DEM,Hillary Clinton,97
+Jennings,12-Montgomery,President,,DEM,Hillary Clinton,78
+Jennings,13-NV 1A,President,,DEM,Hillary Clinton,50
+Jennings,14-NV 2A,President,,DEM,Hillary Clinton,58
+Jennings,15-NV 3A,President,,DEM,Hillary Clinton,73
+Jennings,16-NV4A,President,,DEM,Hillary Clinton,64
+Jennings,17-NV1B,President,,DEM,Hillary Clinton,56
+Jennings,18-NV2B,President,,DEM,Hillary Clinton,131
+Jennings,19-NV3B,President,,DEM,Hillary Clinton,99
+Jennings,20-NV4B,President,,DEM,Hillary Clinton,75
+Jennings,21-Sandcreek,President,,DEM,Hillary Clinton,84
+Jennings,22-Spencer North,President,,DEM,Hillary Clinton,120
+Jennings,23-Spencer South,President,,DEM,Hillary Clinton,91
+Jennings,24-Vernon East,President,,DEM,Hillary Clinton,117
+Jennings,25-Vernon West,President,,DEM,Hillary Clinton,110
+Jennings,,President,,DEM,Hillary Clinton,2364
+Jennings,01-Bigger,President,,LBT,Gary Johnson,7
+Jennings,02-Campbell,President,,LBT,Gary Johnson,23
+Jennings,03-Center East,President,,LBT,Gary Johnson,19
+Jennings,04-Center West,President,,LBT,Gary Johnson,17
+Jennings,05-Columbia,President,,LBT,Gary Johnson,17
+Jennings,06-Geneva 1 East,President,,LBT,Gary Johnson,28
+Jennings,07-Geneva 1 West,President,,LBT,Gary Johnson,38
+Jennings,08-Geneva 2,President,,LBT,Gary Johnson,31
+Jennings,09-Geneva 3,President,,LBT,Gary Johnson,14
+Jennings,10-Lovett,President,,LBT,Gary Johnson,15
+Jennings,11-Marion,President,,LBT,Gary Johnson,16
+Jennings,12-Montgomery,President,,LBT,Gary Johnson,14
+Jennings,13-NV 1A,President,,LBT,Gary Johnson,11
+Jennings,14-NV 2A,President,,LBT,Gary Johnson,12
+Jennings,15-NV 3A,President,,LBT,Gary Johnson,32
+Jennings,16-NV4A,President,,LBT,Gary Johnson,10
+Jennings,17-NV1B,President,,LBT,Gary Johnson,22
+Jennings,18-NV2B,President,,LBT,Gary Johnson,24
+Jennings,19-NV3B,President,,LBT,Gary Johnson,18
+Jennings,20-NV4B,President,,LBT,Gary Johnson,14
+Jennings,21-Sandcreek,President,,LBT,Gary Johnson,15
+Jennings,22-Spencer North,President,,LBT,Gary Johnson,37
+Jennings,23-Spencer South,President,,LBT,Gary Johnson,26
+Jennings,24-Vernon East,President,,LBT,Gary Johnson,35
+Jennings,25-Vernon West,President,,LBT,Gary Johnson,34
+Jennings,,President,,LBT,Gary Johnson,529
+Jennings,01-Bigger,President,,,Write-ins,1
+Jennings,02-Campbell,President,,,Write-ins,6
+Jennings,03-Center East,President,,,Write-ins,3
+Jennings,04-Center West,President,,,Write-ins,4
+Jennings,05-Columbia,President,,,Write-ins,0
+Jennings,06-Geneva 1 East,President,,,Write-ins,9
+Jennings,07-Geneva 1 West,President,,,Write-ins,11
+Jennings,08-Geneva 2,President,,,Write-ins,2
+Jennings,09-Geneva 3,President,,,Write-ins,5
+Jennings,10-Lovett,President,,,Write-ins,7
+Jennings,11-Marion,President,,,Write-ins,3
+Jennings,12-Montgomery,President,,,Write-ins,5
+Jennings,13-NV 1A,President,,,Write-ins,1
+Jennings,14-NV 2A,President,,,Write-ins,6
+Jennings,15-NV 3A,President,,,Write-ins,5
+Jennings,16-NV4A,President,,,Write-ins,3
+Jennings,17-NV1B,President,,,Write-ins,4
+Jennings,18-NV2B,President,,,Write-ins,5
+Jennings,19-NV3B,President,,,Write-ins,4
+Jennings,20-NV4B,President,,,Write-ins,4
+Jennings,21-Sandcreek,President,,,Write-ins,4
+Jennings,22-Spencer North,President,,,Write-ins,3
+Jennings,23-Spencer South,President,,,Write-ins,3
+Jennings,24-Vernon East,President,,,Write-ins,10
+Jennings,25-Vernon West,President,,,Write-ins,6
+Jennings,,President,,,Write-ins,114
+Jennings,01-Bigger,U.S. Senate,,REP,Todd Young,173
+Jennings,02-Campbell,U.S. Senate,,REP,Todd Young,265
+Jennings,03-Center East,U.S. Senate,,REP,Todd Young,300
+Jennings,04-Center West,U.S. Senate,,REP,Todd Young,335
+Jennings,05-Columbia,U.S. Senate,,REP,Todd Young,226
+Jennings,06-Geneva 1 East,U.S. Senate,,REP,Todd Young,397
+Jennings,07-Geneva 1 West,U.S. Senate,,REP,Todd Young,380
+Jennings,08-Geneva 2,U.S. Senate,,REP,Todd Young,437
+Jennings,09-Geneva 3,U.S. Senate,,REP,Todd Young,329
+Jennings,10-Lovett,U.S. Senate,,REP,Todd Young,293
+Jennings,11-Marion,U.S. Senate,,REP,Todd Young,314
+Jennings,12-Montgomery,U.S. Senate,,REP,Todd Young,297
+Jennings,13-NV 1A,U.S. Senate,,REP,Todd Young,123
+Jennings,14-NV 2A,U.S. Senate,,REP,Todd Young,152
+Jennings,15-NV 3A,U.S. Senate,,REP,Todd Young,183
+Jennings,16-NV4A,U.S. Senate,,REP,Todd Young,88
+Jennings,17-NV1B,U.S. Senate,,REP,Todd Young,147
+Jennings,18-NV2B,U.S. Senate,,REP,Todd Young,337
+Jennings,19-NV3B,U.S. Senate,,REP,Todd Young,170
+Jennings,20-NV4B,U.S. Senate,,REP,Todd Young,174
+Jennings,21-Sandcreek,U.S. Senate,,REP,Todd Young,285
+Jennings,22-Spencer North,U.S. Senate,,REP,Todd Young,379
+Jennings,23-Spencer South,U.S. Senate,,REP,Todd Young,301
+Jennings,24-Vernon East,U.S. Senate,,REP,Todd Young,476
+Jennings,25-Vernon West,U.S. Senate,,REP,Todd Young,388
+Jennings,,U.S. Senate,,REP,Todd Young,6949
+Jennings,01-Bigger,U.S. Senate,,DEM,Evan Bayh,69
+Jennings,02-Campbell,U.S. Senate,,DEM,Evan Bayh,165
+Jennings,03-Center East,U.S. Senate,,DEM,Evan Bayh,164
+Jennings,04-Center West,U.S. Senate,,DEM,Evan Bayh,171
+Jennings,05-Columbia,U.S. Senate,,DEM,Evan Bayh,109
+Jennings,06-Geneva 1 East,U.S. Senate,,DEM,Evan Bayh,187
+Jennings,07-Geneva 1 West,U.S. Senate,,DEM,Evan Bayh,254
+Jennings,08-Geneva 2,U.S. Senate,,DEM,Evan Bayh,171
+Jennings,09-Geneva 3,U.S. Senate,,DEM,Evan Bayh,126
+Jennings,10-Lovett,U.S. Senate,,DEM,Evan Bayh,200
+Jennings,11-Marion,U.S. Senate,,DEM,Evan Bayh,156
+Jennings,12-Montgomery,U.S. Senate,,DEM,Evan Bayh,133
+Jennings,13-NV 1A,U.S. Senate,,DEM,Evan Bayh,77
+Jennings,14-NV 2A,U.S. Senate,,DEM,Evan Bayh,95
+Jennings,15-NV 3A,U.S. Senate,,DEM,Evan Bayh,114
+Jennings,16-NV4A,U.S. Senate,,DEM,Evan Bayh,83
+Jennings,17-NV1B,U.S. Senate,,DEM,Evan Bayh,87
+Jennings,18-NV2B,U.S. Senate,,DEM,Evan Bayh,189
+Jennings,19-NV3B,U.S. Senate,,DEM,Evan Bayh,153
+Jennings,20-NV4B,U.S. Senate,,DEM,Evan Bayh,117
+Jennings,21-Sandcreek,U.S. Senate,,DEM,Evan Bayh,148
+Jennings,22-Spencer North,U.S. Senate,,DEM,Evan Bayh,207
+Jennings,23-Spencer South,U.S. Senate,,DEM,Evan Bayh,161
+Jennings,24-Vernon East,U.S. Senate,,DEM,Evan Bayh,196
+Jennings,25-Vernon West,U.S. Senate,,DEM,Evan Bayh,170
+Jennings,,U.S. Senate,,DEM,Evan Bayh,3702
+Jennings,01-Bigger,U.S. Senate,,LBT,Lucy Brenton,8
+Jennings,02-Campbell,U.S. Senate,,LBT,Lucy Brenton,20
+Jennings,03-Center East,U.S. Senate,,LBT,Lucy Brenton,18
+Jennings,04-Center West,U.S. Senate,,LBT,Lucy Brenton,13
+Jennings,05-Columbia,U.S. Senate,,LBT,Lucy Brenton,8
+Jennings,06-Geneva 1 East,U.S. Senate,,LBT,Lucy Brenton,32
+Jennings,07-Geneva 1 West,U.S. Senate,,LBT,Lucy Brenton,49
+Jennings,08-Geneva 2,U.S. Senate,,LBT,Lucy Brenton,26
+Jennings,09-Geneva 3,U.S. Senate,,LBT,Lucy Brenton,21
+Jennings,10-Lovett,U.S. Senate,,LBT,Lucy Brenton,19
+Jennings,11-Marion,U.S. Senate,,LBT,Lucy Brenton,20
+Jennings,12-Montgomery,U.S. Senate,,LBT,Lucy Brenton,14
+Jennings,13-NV 1A,U.S. Senate,,LBT,Lucy Brenton,12
+Jennings,14-NV 2A,U.S. Senate,,LBT,Lucy Brenton,15
+Jennings,15-NV 3A,U.S. Senate,,LBT,Lucy Brenton,29
+Jennings,16-NV4A,U.S. Senate,,LBT,Lucy Brenton,12
+Jennings,17-NV1B,U.S. Senate,,LBT,Lucy Brenton,12
+Jennings,18-NV2B,U.S. Senate,,LBT,Lucy Brenton,29
+Jennings,19-NV3B,U.S. Senate,,LBT,Lucy Brenton,15
+Jennings,20-NV4B,U.S. Senate,,LBT,Lucy Brenton,17
+Jennings,21-Sandcreek,U.S. Senate,,LBT,Lucy Brenton,11
+Jennings,22-Spencer North,U.S. Senate,,LBT,Lucy Brenton,34
+Jennings,23-Spencer South,U.S. Senate,,LBT,Lucy Brenton,13
+Jennings,24-Vernon East,U.S. Senate,,LBT,Lucy Brenton,36
+Jennings,25-Vernon West,U.S. Senate,,LBT,Lucy Brenton,32
+Jennings,,U.S. Senate,,LBT,Lucy Brenton,515
+Jennings,01-Bigger,U.S. Senate,,,Write-ins,0
+Jennings,02-Campbell,U.S. Senate,,,Write-ins,0
+Jennings,03-Center East,U.S. Senate,,,Write-ins,0
+Jennings,04-Center West,U.S. Senate,,,Write-ins,0
+Jennings,05-Columbia,U.S. Senate,,,Write-ins,0
+Jennings,06-Geneva 1 East,U.S. Senate,,,Write-ins,0
+Jennings,07-Geneva 1 West,U.S. Senate,,,Write-ins,0
+Jennings,08-Geneva 2,U.S. Senate,,,Write-ins,1
+Jennings,09-Geneva 3,U.S. Senate,,,Write-ins,0
+Jennings,10-Lovett,U.S. Senate,,,Write-ins,0
+Jennings,11-Marion,U.S. Senate,,,Write-ins,1
+Jennings,12-Montgomery,U.S. Senate,,,Write-ins,0
+Jennings,13-NV 1A,U.S. Senate,,,Write-ins,0
+Jennings,14-NV 2A,U.S. Senate,,,Write-ins,0
+Jennings,15-NV 3A,U.S. Senate,,,Write-ins,0
+Jennings,16-NV4A,U.S. Senate,,,Write-ins,0
+Jennings,17-NV1B,U.S. Senate,,,Write-ins,0
+Jennings,18-NV2B,U.S. Senate,,,Write-ins,0
+Jennings,19-NV3B,U.S. Senate,,,Write-ins,1
+Jennings,20-NV4B,U.S. Senate,,,Write-ins,0
+Jennings,21-Sandcreek,U.S. Senate,,,Write-ins,1
+Jennings,22-Spencer North,U.S. Senate,,,Write-ins,0
+Jennings,23-Spencer South,U.S. Senate,,,Write-ins,0
+Jennings,24-Vernon East,U.S. Senate,,,Write-ins,0
+Jennings,25-Vernon West,U.S. Senate,,,Write-ins,1
+Jennings,,U.S. Senate,,,Write-ins,5
+Jennings,01-Bigger,Governor,,REP,Eric Holcomb,181
+Jennings,02-Campbell,Governor,,REP,Eric Holcomb,290
+Jennings,03-Center East,Governor,,REP,Eric Holcomb,308
+Jennings,04-Center West,Governor,,REP,Eric Holcomb,330
+Jennings,05-Columbia,Governor,,REP,Eric Holcomb,226
+Jennings,06-Geneva 1 East,Governor,,REP,Eric Holcomb,402
+Jennings,07-Geneva 1 West,Governor,,REP,Eric Holcomb,384
+Jennings,08-Geneva 2,Governor,,REP,Eric Holcomb,449
+Jennings,09-Geneva 3,Governor,,REP,Eric Holcomb,331
+Jennings,10-Lovett,Governor,,REP,Eric Holcomb,298
+Jennings,11-Marion,Governor,,REP,Eric Holcomb,326
+Jennings,12-Montgomery,Governor,,REP,Eric Holcomb,301
+Jennings,13-NV 1A,Governor,,REP,Eric Holcomb,125
+Jennings,14-NV 2A,Governor,,REP,Eric Holcomb,155
+Jennings,15-NV 3A,Governor,,REP,Eric Holcomb,185
+Jennings,16-NV4A,Governor,,REP,Eric Holcomb,87
+Jennings,17-NV1B,Governor,,REP,Eric Holcomb,139
+Jennings,18-NV2B,Governor,,REP,Eric Holcomb,340
+Jennings,19-NV3B,Governor,,REP,Eric Holcomb,180
+Jennings,20-NV4B,Governor,,REP,Eric Holcomb,172
+Jennings,21-Sandcreek,Governor,,REP,Eric Holcomb,297
+Jennings,22-Spencer North,Governor,,REP,Eric Holcomb,394
+Jennings,23-Spencer South,Governor,,REP,Eric Holcomb,316
+Jennings,24-Vernon East,Governor,,REP,Eric Holcomb,480
+Jennings,25-Vernon West,Governor,,REP,Eric Holcomb,393
+Jennings,,Governor,,REP,Eric Holcomb,7089
+Jennings,01-Bigger,Governor,,DEM,John Gregg,57
+Jennings,02-Campbell,Governor,,DEM,John Gregg,141
+Jennings,03-Center East,Governor,,DEM,John Gregg,158
+Jennings,04-Center West,Governor,,DEM,John Gregg,175
+Jennings,05-Columbia,Governor,,DEM,John Gregg,105
+Jennings,06-Geneva 1 East,Governor,,DEM,John Gregg,185
+Jennings,07-Geneva 1 West,Governor,,DEM,John Gregg,261
+Jennings,08-Geneva 2,Governor,,DEM,John Gregg,153
+Jennings,09-Geneva 3,Governor,,DEM,John Gregg,129
+Jennings,10-Lovett,Governor,,DEM,John Gregg,193
+Jennings,11-Marion,Governor,,DEM,John Gregg,138
+Jennings,12-Montgomery,Governor,,DEM,John Gregg,126
+Jennings,13-NV 1A,Governor,,DEM,John Gregg,77
+Jennings,14-NV 2A,Governor,,DEM,John Gregg,99
+Jennings,15-NV 3A,Governor,,DEM,John Gregg,121
+Jennings,16-NV4A,Governor,,DEM,John Gregg,91
+Jennings,17-NV1B,Governor,,DEM,John Gregg,92
+Jennings,18-NV2B,Governor,,DEM,John Gregg,202
+Jennings,19-NV3B,Governor,,DEM,John Gregg,143
+Jennings,20-NV4B,Governor,,DEM,John Gregg,117
+Jennings,21-Sandcreek,Governor,,DEM,John Gregg,138
+Jennings,22-Spencer North,Governor,,DEM,John Gregg,194
+Jennings,23-Spencer South,Governor,,DEM,John Gregg,145
+Jennings,24-Vernon East,Governor,,DEM,John Gregg,202
+Jennings,25-Vernon West,Governor,,DEM,John Gregg,167
+Jennings,,Governor,,DEM,John Gregg,3609
+Jennings,01-Bigger,Governor,,LBT,Rex Bell,8
+Jennings,02-Campbell,Governor,,LBT,Rex Bell,17
+Jennings,03-Center East,Governor,,LBT,Rex Bell,11
+Jennings,04-Center West,Governor,,LBT,Rex Bell,10
+Jennings,05-Columbia,Governor,,LBT,Rex Bell,8
+Jennings,06-Geneva 1 East,Governor,,LBT,Rex Bell,20
+Jennings,07-Geneva 1 West,Governor,,LBT,Rex Bell,34
+Jennings,08-Geneva 2,Governor,,LBT,Rex Bell,21
+Jennings,09-Geneva 3,Governor,,LBT,Rex Bell,15
+Jennings,10-Lovett,Governor,,LBT,Rex Bell,9
+Jennings,11-Marion,Governor,,LBT,Rex Bell,10
+Jennings,12-Montgomery,Governor,,LBT,Rex Bell,13
+Jennings,13-NV 1A,Governor,,LBT,Rex Bell,8
+Jennings,14-NV 2A,Governor,,LBT,Rex Bell,4
+Jennings,15-NV 3A,Governor,,LBT,Rex Bell,18
+Jennings,16-NV4A,Governor,,LBT,Rex Bell,3
+Jennings,17-NV1B,Governor,,LBT,Rex Bell,10
+Jennings,18-NV2B,Governor,,LBT,Rex Bell,12
+Jennings,19-NV3B,Governor,,LBT,Rex Bell,11
+Jennings,20-NV4B,Governor,,LBT,Rex Bell,17
+Jennings,21-Sandcreek,Governor,,LBT,Rex Bell,6
+Jennings,22-Spencer North,Governor,,LBT,Rex Bell,22
+Jennings,23-Spencer South,Governor,,LBT,Rex Bell,9
+Jennings,24-Vernon East,Governor,,LBT,Rex Bell,18
+Jennings,25-Vernon West,Governor,,LBT,Rex Bell,26
+Jennings,,Governor,,LBT,Rex Bell,340
+Jennings,01-Bigger,Governor,,,Write-ins,0
+Jennings,02-Campbell,Governor,,,Write-ins,0
+Jennings,03-Center East,Governor,,,Write-ins,0
+Jennings,04-Center West,Governor,,,Write-ins,0
+Jennings,05-Columbia,Governor,,,Write-ins,0
+Jennings,06-Geneva 1 East,Governor,,,Write-ins,0
+Jennings,07-Geneva 1 West,Governor,,,Write-ins,1
+Jennings,08-Geneva 2,Governor,,,Write-ins,0
+Jennings,09-Geneva 3,Governor,,,Write-ins,0
+Jennings,10-Lovett,Governor,,,Write-ins,0
+Jennings,11-Marion,Governor,,,Write-ins,1
+Jennings,12-Montgomery,Governor,,,Write-ins,0
+Jennings,13-NV 1A,Governor,,,Write-ins,0
+Jennings,14-NV 2A,Governor,,,Write-ins,0
+Jennings,15-NV 3A,Governor,,,Write-ins,0
+Jennings,16-NV4A,Governor,,,Write-ins,0
+Jennings,17-NV1B,Governor,,,Write-ins,0
+Jennings,18-NV2B,Governor,,,Write-ins,0
+Jennings,19-NV3B,Governor,,,Write-ins,0
+Jennings,20-NV4B,Governor,,,Write-ins,0
+Jennings,21-Sandcreek,Governor,,,Write-ins,1
+Jennings,22-Spencer North,Governor,,,Write-ins,0
+Jennings,23-Spencer South,Governor,,,Write-ins,0
+Jennings,24-Vernon East,Governor,,,Write-ins,0
+Jennings,25-Vernon West,Governor,,,Write-ins,1
+Jennings,,Governor,,,Write-ins,4
+Jennings,01-Bigger,Attorney General,,REP,Curtis Hill,195
+Jennings,02-Campbell,Attorney General,,REP,Curtis Hill,315
+Jennings,03-Center East,Attorney General,,REP,Curtis Hill,356
+Jennings,04-Center West,Attorney General,,REP,Curtis Hill,373
+Jennings,05-Columbia,Attorney General,,REP,Curtis Hill,251
+Jennings,06-Geneva 1 East,Attorney General,,REP,Curtis Hill,471
+Jennings,07-Geneva 1 West,Attorney General,,REP,Curtis Hill,472
+Jennings,08-Geneva 2,Attorney General,,REP,Curtis Hill,509
+Jennings,09-Geneva 3,Attorney General,,REP,Curtis Hill,368
+Jennings,10-Lovett,Attorney General,,REP,Curtis Hill,345
+Jennings,11-Marion,Attorney General,,REP,Curtis Hill,355
+Jennings,12-Montgomery,Attorney General,,REP,Curtis Hill,324
+Jennings,13-NV 1A,Attorney General,,REP,Curtis Hill,144
+Jennings,14-NV 2A,Attorney General,,REP,Curtis Hill,182
+Jennings,15-NV 3A,Attorney General,,REP,Curtis Hill,214
+Jennings,16-NV4A,Attorney General,,REP,Curtis Hill,103
+Jennings,17-NV1B,Attorney General,,REP,Curtis Hill,166
+Jennings,18-NV2B,Attorney General,,REP,Curtis Hill,379
+Jennings,19-NV3B,Attorney General,,REP,Curtis Hill,214
+Jennings,20-NV4B,Attorney General,,REP,Curtis Hill,203
+Jennings,21-Sandcreek,Attorney General,,REP,Curtis Hill,339
+Jennings,22-Spencer North,Attorney General,,REP,Curtis Hill,446
+Jennings,23-Spencer South,Attorney General,,REP,Curtis Hill,347
+Jennings,24-Vernon East,Attorney General,,REP,Curtis Hill,564
+Jennings,25-Vernon West,Attorney General,,REP,Curtis Hill,442
+Jennings,,Attorney General,,REP,Curtis Hill,8077
+Jennings,01-Bigger,Attorney General,,DEM,Lorenzo Arredondo,41
+Jennings,02-Campbell,Attorney General,,DEM,Lorenzo Arredondo,123
+Jennings,03-Center East,Attorney General,,DEM,Lorenzo Arredondo,115
+Jennings,04-Center West,Attorney General,,DEM,Lorenzo Arredondo,122
+Jennings,05-Columbia,Attorney General,,DEM,Lorenzo Arredondo,82
+Jennings,06-Geneva 1 East,Attorney General,,DEM,Lorenzo Arredondo,114
+Jennings,07-Geneva 1 West,Attorney General,,DEM,Lorenzo Arredondo,198
+Jennings,08-Geneva 2,Attorney General,,DEM,Lorenzo Arredondo,105
+Jennings,09-Geneva 3,Attorney General,,DEM,Lorenzo Arredondo,90
+Jennings,10-Lovett,Attorney General,,DEM,Lorenzo Arredondo,140
+Jennings,11-Marion,Attorney General,,DEM,Lorenzo Arredondo,111
+Jennings,12-Montgomery,Attorney General,,DEM,Lorenzo Arredondo,102
+Jennings,13-NV 1A,Attorney General,,DEM,Lorenzo Arredondo,53
+Jennings,14-NV 2A,Attorney General,,DEM,Lorenzo Arredondo,62
+Jennings,15-NV 3A,Attorney General,,DEM,Lorenzo Arredondo,100
+Jennings,16-NV4A,Attorney General,,DEM,Lorenzo Arredondo,72
+Jennings,17-NV1B,Attorney General,,DEM,Lorenzo Arredondo,67
+Jennings,18-NV2B,Attorney General,,DEM,Lorenzo Arredondo,144
+Jennings,19-NV3B,Attorney General,,DEM,Lorenzo Arredondo,107
+Jennings,20-NV4B,Attorney General,,DEM,Lorenzo Arredondo,88
+Jennings,21-Sandcreek,Attorney General,,DEM,Lorenzo Arredondo,83
+Jennings,22-Spencer North,Attorney General,,DEM,Lorenzo Arredondo,138
+Jennings,23-Spencer South,Attorney General,,DEM,Lorenzo Arredondo,106
+Jennings,24-Vernon East,Attorney General,,DEM,Lorenzo Arredondo,123
+Jennings,25-Vernon West,Attorney General,,DEM,Lorenzo Arredondo,118
+Jennings,,Attorney General,,DEM,Lorenzo Arredondo,2604
+Jennings,01-Bigger,Public Instruction,,REP,Jennifer McCormick,151
+Jennings,02-Campbell,Public Instruction,,REP,Jennifer McCormick,267
+Jennings,03-Center East,Public Instruction,,REP,Jennifer McCormick,284
+Jennings,04-Center West,Public Instruction,,REP,Jennifer McCormick,309
+Jennings,05-Columbia,Public Instruction,,REP,Jennifer McCormick,204
+Jennings,06-Geneva 1 East,Public Instruction,,REP,Jennifer McCormick,374
+Jennings,07-Geneva 1 West,Public Instruction,,REP,Jennifer McCormick,406
+Jennings,08-Geneva 2,Public Instruction,,REP,Jennifer McCormick,413
+Jennings,09-Geneva 3,Public Instruction,,REP,Jennifer McCormick,300
+Jennings,10-Lovett,Public Instruction,,REP,Jennifer McCormick,257
+Jennings,11-Marion,Public Instruction,,REP,Jennifer McCormick,298
+Jennings,12-Montgomery,Public Instruction,,REP,Jennifer McCormick,267
+Jennings,13-NV 1A,Public Instruction,,REP,Jennifer McCormick,113
+Jennings,14-NV 2A,Public Instruction,,REP,Jennifer McCormick,138
+Jennings,15-NV 3A,Public Instruction,,REP,Jennifer McCormick,170
+Jennings,16-NV4A,Public Instruction,,REP,Jennifer McCormick,76
+Jennings,17-NV1B,Public Instruction,,REP,Jennifer McCormick,134
+Jennings,18-NV2B,Public Instruction,,REP,Jennifer McCormick,273
+Jennings,19-NV3B,Public Instruction,,REP,Jennifer McCormick,173
+Jennings,20-NV4B,Public Instruction,,REP,Jennifer McCormick,169
+Jennings,21-Sandcreek,Public Instruction,,REP,Jennifer McCormick,254
+Jennings,22-Spencer North,Public Instruction,,REP,Jennifer McCormick,348
+Jennings,23-Spencer South,Public Instruction,,REP,Jennifer McCormick,273
+Jennings,24-Vernon East,Public Instruction,,REP,Jennifer McCormick,433
+Jennings,25-Vernon West,Public Instruction,,REP,Jennifer McCormick,348
+Jennings,,Public Instruction,,REP,Jennifer McCormick,6432
+Jennings,01-Bigger,Public Instruction,,DEM,Glenda Ritz,86
+Jennings,02-Campbell,Public Instruction,,DEM,Glenda Ritz,175
+Jennings,03-Center East,Public Instruction,,DEM,Glenda Ritz,182
+Jennings,04-Center West,Public Instruction,,DEM,Glenda Ritz,200
+Jennings,05-Columbia,Public Instruction,,DEM,Glenda Ritz,129
+Jennings,06-Geneva 1 East,Public Instruction,,DEM,Glenda Ritz,222
+Jennings,07-Geneva 1 West,Public Instruction,,DEM,Glenda Ritz,255
+Jennings,08-Geneva 2,Public Instruction,,DEM,Glenda Ritz,202
+Jennings,09-Geneva 3,Public Instruction,,DEM,Glenda Ritz,161
+Jennings,10-Lovett,Public Instruction,,DEM,Glenda Ritz,231
+Jennings,11-Marion,Public Instruction,,DEM,Glenda Ritz,169
+Jennings,12-Montgomery,Public Instruction,,DEM,Glenda Ritz,162
+Jennings,13-NV 1A,Public Instruction,,DEM,Glenda Ritz,89
+Jennings,14-NV 2A,Public Instruction,,DEM,Glenda Ritz,117
+Jennings,15-NV 3A,Public Instruction,,DEM,Glenda Ritz,145
+Jennings,16-NV4A,Public Instruction,,DEM,Glenda Ritz,97
+Jennings,17-NV1B,Public Instruction,,DEM,Glenda Ritz,103
+Jennings,18-NV2B,Public Instruction,,DEM,Glenda Ritz,264
+Jennings,19-NV3B,Public Instruction,,DEM,Glenda Ritz,159
+Jennings,20-NV4B,Public Instruction,,DEM,Glenda Ritz,130
+Jennings,21-Sandcreek,Public Instruction,,DEM,Glenda Ritz,175
+Jennings,22-Spencer North,Public Instruction,,DEM,Glenda Ritz,248
+Jennings,23-Spencer South,Public Instruction,,DEM,Glenda Ritz,185
+Jennings,24-Vernon East,Public Instruction,,DEM,Glenda Ritz,260
+Jennings,25-Vernon West,Public Instruction,,DEM,Glenda Ritz,225
+Jennings,,Public Instruction,,DEM,Glenda Ritz,4371
+Jennings,01-Bigger,U.S. House,6,REP,Luke Messer,179
+Jennings,02-Campbell,U.S. House,6,REP,Luke Messer,312
+Jennings,03-Center East,U.S. House,6,REP,Luke Messer,338
+Jennings,04-Center West,U.S. House,6,REP,Luke Messer,360
+Jennings,05-Columbia,U.S. House,6,REP,Luke Messer,250
+Jennings,06-Geneva 1 East,U.S. House,6,REP,Luke Messer,463
+Jennings,07-Geneva 1 West,U.S. House,6,REP,Luke Messer,421
+Jennings,08-Geneva 2,U.S. House,6,REP,Luke Messer,475
+Jennings,09-Geneva 3,U.S. House,6,REP,Luke Messer,364
+Jennings,10-Lovett,U.S. House,6,REP,Luke Messer,319
+Jennings,11-Marion,U.S. House,6,REP,Luke Messer,341
+Jennings,12-Montgomery,U.S. House,6,REP,Luke Messer,308
+Jennings,13-NV 1A,U.S. House,6,REP,Luke Messer,137
+Jennings,14-NV 2A,U.S. House,6,REP,Luke Messer,174
+Jennings,15-NV 3A,U.S. House,6,REP,Luke Messer,219
+Jennings,16-NV4A,U.S. House,6,REP,Luke Messer,99
+Jennings,17-NV1B,U.S. House,6,REP,Luke Messer,172
+Jennings,18-NV2B,U.S. House,6,REP,Luke Messer,389
+Jennings,19-NV3B,U.S. House,6,REP,Luke Messer,208
+Jennings,20-NV4B,U.S. House,6,REP,Luke Messer,193
+Jennings,21-Sandcreek,U.S. House,6,REP,Luke Messer,341
+Jennings,22-Spencer North,U.S. House,6,REP,Luke Messer,441
+Jennings,23-Spencer South,U.S. House,6,REP,Luke Messer,344
+Jennings,24-Vernon East,U.S. House,6,REP,Luke Messer,536
+Jennings,25-Vernon West,U.S. House,6,REP,Luke Messer,431
+Jennings,,U.S. House,6,REP,Luke Messer,7814
+Jennings,01-Bigger,U.S. House,6,DEM,Barry Welsh,50
+Jennings,02-Campbell,U.S. House,6,DEM,Barry Welsh,112
+Jennings,03-Center East,U.S. House,6,DEM,Barry Welsh,123
+Jennings,04-Center West,U.S. House,6,DEM,Barry Welsh,130
+Jennings,05-Columbia,U.S. House,6,DEM,Barry Welsh,73
+Jennings,06-Geneva 1 East,U.S. House,6,DEM,Barry Welsh,118
+Jennings,07-Geneva 1 West,U.S. House,6,DEM,Barry Welsh,206
+Jennings,08-Geneva 2,U.S. House,6,DEM,Barry Welsh,117
+Jennings,09-Geneva 3,U.S. House,6,DEM,Barry Welsh,91
+Jennings,10-Lovett,U.S. House,6,DEM,Barry Welsh,165
+Jennings,11-Marion,U.S. House,6,DEM,Barry Welsh,110
+Jennings,12-Montgomery,U.S. House,6,DEM,Barry Welsh,115
+Jennings,13-NV 1A,U.S. House,6,DEM,Barry Welsh,54
+Jennings,14-NV 2A,U.S. House,6,DEM,Barry Welsh,74
+Jennings,15-NV 3A,U.S. House,6,DEM,Barry Welsh,85
+Jennings,16-NV4A,U.S. House,6,DEM,Barry Welsh,72
+Jennings,17-NV1B,U.S. House,6,DEM,Barry Welsh,57
+Jennings,18-NV2B,U.S. House,6,DEM,Barry Welsh,138
+Jennings,19-NV3B,U.S. House,6,DEM,Barry Welsh,104
+Jennings,20-NV4B,U.S. House,6,DEM,Barry Welsh,90
+Jennings,21-Sandcreek,U.S. House,6,DEM,Barry Welsh,87
+Jennings,22-Spencer North,U.S. House,6,DEM,Barry Welsh,130
+Jennings,23-Spencer South,U.S. House,6,DEM,Barry Welsh,108
+Jennings,24-Vernon East,U.S. House,6,DEM,Barry Welsh,128
+Jennings,25-Vernon West,U.S. House,6,DEM,Barry Welsh,121
+Jennings,,U.S. House,6,DEM,Barry Welsh,2658
+Jennings,01-Bigger,U.S. House,6,LBT,Rich Turvey,11
+Jennings,02-Campbell,U.S. House,6,LBT,Rich Turvey,19
+Jennings,03-Center East,U.S. House,6,LBT,Rich Turvey,19
+Jennings,04-Center West,U.S. House,6,LBT,Rich Turvey,16
+Jennings,05-Columbia,U.S. House,6,LBT,Rich Turvey,13
+Jennings,06-Geneva 1 East,U.S. House,6,LBT,Rich Turvey,20
+Jennings,07-Geneva 1 West,U.S. House,6,LBT,Rich Turvey,46
+Jennings,08-Geneva 2,U.S. House,6,LBT,Rich Turvey,27
+Jennings,09-Geneva 3,U.S. House,6,LBT,Rich Turvey,17
+Jennings,10-Lovett,U.S. House,6,LBT,Rich Turvey,6
+Jennings,11-Marion,U.S. House,6,LBT,Rich Turvey,17
+Jennings,12-Montgomery,U.S. House,6,LBT,Rich Turvey,10
+Jennings,13-NV 1A,U.S. House,6,LBT,Rich Turvey,13
+Jennings,14-NV 2A,U.S. House,6,LBT,Rich Turvey,11
+Jennings,15-NV 3A,U.S. House,6,LBT,Rich Turvey,22
+Jennings,16-NV4A,U.S. House,6,LBT,Rich Turvey,7
+Jennings,17-NV1B,U.S. House,6,LBT,Rich Turvey,10
+Jennings,18-NV2B,U.S. House,6,LBT,Rich Turvey,10
+Jennings,19-NV3B,U.S. House,6,LBT,Rich Turvey,19
+Jennings,20-NV4B,U.S. House,6,LBT,Rich Turvey,15
+Jennings,21-Sandcreek,U.S. House,6,LBT,Rich Turvey,4
+Jennings,22-Spencer North,U.S. House,6,LBT,Rich Turvey,29
+Jennings,23-Spencer South,U.S. House,6,LBT,Rich Turvey,13
+Jennings,24-Vernon East,U.S. House,6,LBT,Rich Turvey,28
+Jennings,25-Vernon West,U.S. House,6,LBT,Rich Turvey,27
+Jennings,,U.S. House,6,LBT,Rich Turvey,429
+Jennings,01-Bigger,State House,67,REP,Randy Frye,184
+Jennings,02-Campbell,State House,67,REP,Randy Frye,305
+Jennings,03-Center East,State House,69,REP,Jim Lucas,395
+Jennings,04-Center West,State House,69,REP,Jim Lucas,421
+Jennings,05-Columbia,State House,67,REP,Randy Frye,259
+Jennings,06-Geneva 1 East,State House,67,REP,Randy Frye,455
+Jennings,07-Geneva 1 West,State House,69,REP,Jim Lucas,556
+Jennings,08-Geneva 2,State House,69,REP,Jim Lucas,543
+Jennings,09-Geneva 3,State House,67,REP,Randy Frye,361
+Jennings,10-Lovett,State House,69,REP,Jim Lucas,386
+Jennings,11-Marion,State House,69,REP,Jim Lucas,405
+Jennings,12-Montgomery,State House,69,REP,Jim Lucas,372
+Jennings,13-NV 1A,State House,69,REP,Jim Lucas,160
+Jennings,14-NV 2A,State House,69,REP,Jim Lucas,214
+Jennings,15-NV 3A,State House,69,REP,Jim Lucas,280
+Jennings,16-NV4A,State House,69,REP,Jim Lucas,131
+Jennings,17-NV1B,State House,69,REP,Jim Lucas,192
+Jennings,18-NV2B,State House,69,REP,Jim Lucas,448
+Jennings,19-NV3B,State House,69,REP,Jim Lucas,269
+Jennings,20-NV4B,State House,69,REP,Jim Lucas,241
+Jennings,21-Sandcreek,State House,67,REP,Randy Frye,319
+Jennings,22-Spencer North,State House,69,REP,Jim Lucas,512
+Jennings,23-Spencer South,State House,69,REP,Jim Lucas,396
+Jennings,24-Vernon East,State House,69,REP,Jim Lucas,608
+Jennings,25-Vernon West,State House,69,REP,Jim Lucas,491
+Jennings,,State House,67,REP,Randy Frye,1883
+Jennings,,State House,69,REP,Jim Lucas,7020
+Jennings,01-Bigger,State House,67,DEM,Rudy Howard,53
+Jennings,02-Campbell,State House,67,DEM,Rudy Howard,135
+Jennings,05-Columbia,State House,67,DEM,Rudy Howard,78
+Jennings,06-Geneva 1 East,State House,67,DEM,Rudy Howard,133
+Jennings,09-Geneva 3,State House,67,DEM,Rudy Howard,103
+Jennings,21-Sandcreek,State House,67,DEM,Rudy Howard,110
+Jennings,,State House,67,DEM,Rudy Howard,612

@@ -1,0 +1,621 @@
+county,precinct,office,district,party,candidate,votes
+Jefferson,01-P1-1,Voters,,,Registered,716
+Jefferson,02-P1-2,Voters,,,Registered,570
+Jefferson,03-P2-1,Voters,,,Registered,803
+Jefferson,04-P2-2,Voters,,,Registered,934
+Jefferson,05-P3-1,Voters,,,Registered,617
+Jefferson,06-p4-1,Voters,,,Registered,1022
+Jefferson,07-P4-1A,Voters,,,Registered,585
+Jefferson,08-P4-2,Voters,,,Registered,661
+Jefferson,09-P4-3,Voters,,,Registered,805
+Jefferson,10-P5-1,Voters,,,Registered,999
+Jefferson,11-P5-2,Voters,,,Registered,931
+Jefferson,12-GRAHAM,Voters,,,Registered,1012
+Jefferson,13-HANOVER  1,Voters,,,Registered,928
+Jefferson,14-HANOVER   2,Voters,,,Registered,755
+Jefferson,15-HANOVER   2A,Voters,,,Registered,634
+Jefferson,16-HANOVER  3,Voters,,,Registered,860
+Jefferson,17-LANCASTER,Voters,,,Registered,995
+Jefferson,18-MADISON  1,Voters,,,Registered,1128
+Jefferson,19-MADISON  2,Voters,,,Registered,1391
+Jefferson,20-MADISON  3,Voters,,,Registered,1232
+Jefferson,21-MILTON,Voters,,,Registered,621
+Jefferson,22-MONROE,Voters,,,Registered,237
+Jefferson,23-REPUBLICAN,Voters,,,Registered,1161
+Jefferson,24-SALUDA,Voters,,,Registered,895
+Jefferson,25-SHELBY,Voters,,,Registered,742
+Jefferson,26-SMYRNA,Voters,,,Registered,770
+Jefferson,,Voters,,,Registered,22004
+Jefferson,01-P1-1,Voters,,,Votes Cast,480
+Jefferson,02-P1-2,Voters,,,Votes Cast,320
+Jefferson,03-P2-1,Voters,,,Votes Cast,517
+Jefferson,04-P2-2,Voters,,,Votes Cast,656
+Jefferson,05-P3-1,Voters,,,Votes Cast,382
+Jefferson,06-p4-1,Voters,,,Votes Cast,675
+Jefferson,07-P4-1A,Voters,,,Votes Cast,435
+Jefferson,08-P4-2,Voters,,,Votes Cast,284
+Jefferson,09-P4-3,Voters,,,Votes Cast,500
+Jefferson,10-P5-1,Voters,,,Votes Cast,610
+Jefferson,11-P5-2,Voters,,,Votes Cast,577
+Jefferson,12-GRAHAM,Voters,,,Votes Cast,651
+Jefferson,13-HANOVER  1,Voters,,,Votes Cast,477
+Jefferson,14-HANOVER   2,Voters,,,Votes Cast,509
+Jefferson,15-HANOVER   2A,Voters,,,Votes Cast,398
+Jefferson,16-HANOVER  3,Voters,,,Votes Cast,464
+Jefferson,17-LANCASTER,Voters,,,Votes Cast,680
+Jefferson,18-MADISON  1,Voters,,,Votes Cast,776
+Jefferson,19-MADISON  2,Voters,,,Votes Cast,919
+Jefferson,20-MADISON  3,Voters,,,Votes Cast,688
+Jefferson,21-MILTON,Voters,,,Votes Cast,387
+Jefferson,22-MONROE,Voters,,,Votes Cast,161
+Jefferson,23-REPUBLICAN,Voters,,,Votes Cast,793
+Jefferson,24-SALUDA,Voters,,,Votes Cast,554
+Jefferson,25-SHELBY,Voters,,,Votes Cast,513
+Jefferson,26-SMYRNA,Voters,,,Votes Cast,498
+Jefferson,,Voters,,,Votes Cast,13899
+Jefferson,01-P1-1,President,,REP,Donald Trump,208
+Jefferson,02-P1-2,President,,REP,Donald Trump,150
+Jefferson,03-P2-1,President,,REP,Donald Trump,235
+Jefferson,04-P2-2,President,,REP,Donald Trump,364
+Jefferson,05-P3-1,President,,REP,Donald Trump,184
+Jefferson,06-p4-1,President,,REP,Donald Trump,383
+Jefferson,07-P4-1A,President,,REP,Donald Trump,271
+Jefferson,08-P4-2,President,,REP,Donald Trump,168
+Jefferson,09-P4-3,President,,REP,Donald Trump,303
+Jefferson,10-P5-1,President,,REP,Donald Trump,372
+Jefferson,11-P5-2,President,,REP,Donald Trump,332
+Jefferson,12-GRAHAM,President,,REP,Donald Trump,439
+Jefferson,13-HANOVER  1,President,,REP,Donald Trump,231
+Jefferson,14-HANOVER   2,President,,REP,Donald Trump,343
+Jefferson,15-HANOVER   2A,President,,REP,Donald Trump,264
+Jefferson,16-HANOVER  3,President,,REP,Donald Trump,244
+Jefferson,17-LANCASTER,President,,REP,Donald Trump,495
+Jefferson,18-MADISON  1,President,,REP,Donald Trump,528
+Jefferson,19-MADISON  2,President,,REP,Donald Trump,578
+Jefferson,20-MADISON  3,President,,REP,Donald Trump,451
+Jefferson,21-MILTON,President,,REP,Donald Trump,245
+Jefferson,22-MONROE,President,,REP,Donald Trump,104
+Jefferson,23-REPUBLICAN,President,,REP,Donald Trump,537
+Jefferson,24-SALUDA,President,,REP,Donald Trump,391
+Jefferson,25-SHELBY,President,,REP,Donald Trump,385
+Jefferson,26-SMYRNA,President,,REP,Donald Trump,341
+Jefferson,,President,,REP,Donald Trump,8546
+Jefferson,01-P1-1,President,,DEM,Hillary Clinton,233
+Jefferson,02-P1-2,President,,DEM,Hillary Clinton,137
+Jefferson,03-P2-1,President,,DEM,Hillary Clinton,223
+Jefferson,04-P2-2,President,,DEM,Hillary Clinton,235
+Jefferson,05-P3-1,President,,DEM,Hillary Clinton,171
+Jefferson,06-p4-1,President,,DEM,Hillary Clinton,241
+Jefferson,07-P4-1A,President,,DEM,Hillary Clinton,129
+Jefferson,08-P4-2,President,,DEM,Hillary Clinton,95
+Jefferson,09-P4-3,President,,DEM,Hillary Clinton,149
+Jefferson,10-P5-1,President,,DEM,Hillary Clinton,194
+Jefferson,11-P5-2,President,,DEM,Hillary Clinton,190
+Jefferson,12-GRAHAM,President,,DEM,Hillary Clinton,169
+Jefferson,13-HANOVER  1,President,,DEM,Hillary Clinton,210
+Jefferson,14-HANOVER   2,President,,DEM,Hillary Clinton,134
+Jefferson,15-HANOVER   2A,President,,DEM,Hillary Clinton,112
+Jefferson,16-HANOVER  3,President,,DEM,Hillary Clinton,174
+Jefferson,17-LANCASTER,President,,DEM,Hillary Clinton,152
+Jefferson,18-MADISON  1,President,,DEM,Hillary Clinton,194
+Jefferson,19-MADISON  2,President,,DEM,Hillary Clinton,287
+Jefferson,20-MADISON  3,President,,DEM,Hillary Clinton,186
+Jefferson,21-MILTON,President,,DEM,Hillary Clinton,112
+Jefferson,22-MONROE,President,,DEM,Hillary Clinton,36
+Jefferson,23-REPUBLICAN,President,,DEM,Hillary Clinton,214
+Jefferson,24-SALUDA,President,,DEM,Hillary Clinton,131
+Jefferson,25-SHELBY,President,,DEM,Hillary Clinton,89
+Jefferson,26-SMYRNA,President,,DEM,Hillary Clinton,129
+Jefferson,,President,,DEM,Hillary Clinton,4326
+Jefferson,01-P1-1,President,,LBT,Gary Johnson,20
+Jefferson,02-P1-2,President,,LBT,Gary Johnson,28
+Jefferson,03-P2-1,President,,LBT,Gary Johnson,30
+Jefferson,04-P2-2,President,,LBT,Gary Johnson,38
+Jefferson,05-P3-1,President,,LBT,Gary Johnson,14
+Jefferson,06-p4-1,President,,LBT,Gary Johnson,26
+Jefferson,07-P4-1A,President,,LBT,Gary Johnson,15
+Jefferson,08-P4-2,President,,LBT,Gary Johnson,9
+Jefferson,09-P4-3,President,,LBT,Gary Johnson,27
+Jefferson,10-P5-1,President,,LBT,Gary Johnson,25
+Jefferson,11-P5-2,President,,LBT,Gary Johnson,34
+Jefferson,12-GRAHAM,President,,LBT,Gary Johnson,23
+Jefferson,13-HANOVER  1,President,,LBT,Gary Johnson,27
+Jefferson,14-HANOVER   2,President,,LBT,Gary Johnson,21
+Jefferson,15-HANOVER   2A,President,,LBT,Gary Johnson,14
+Jefferson,16-HANOVER  3,President,,LBT,Gary Johnson,22
+Jefferson,17-LANCASTER,President,,LBT,Gary Johnson,23
+Jefferson,18-MADISON  1,President,,LBT,Gary Johnson,23
+Jefferson,19-MADISON  2,President,,LBT,Gary Johnson,32
+Jefferson,20-MADISON  3,President,,LBT,Gary Johnson,32
+Jefferson,21-MILTON,President,,LBT,Gary Johnson,22
+Jefferson,22-MONROE,President,,LBT,Gary Johnson,8
+Jefferson,23-REPUBLICAN,President,,LBT,Gary Johnson,30
+Jefferson,24-SALUDA,President,,LBT,Gary Johnson,18
+Jefferson,25-SHELBY,President,,LBT,Gary Johnson,20
+Jefferson,26-SMYRNA,President,,LBT,Gary Johnson,17
+Jefferson,,President,,LBT,Gary Johnson,598
+Jefferson,01-P1-1,President,,,Write-ins,9
+Jefferson,02-P1-2,President,,,Write-ins,2
+Jefferson,03-P2-1,President,,,Write-ins,10
+Jefferson,04-P2-2,President,,,Write-ins,9
+Jefferson,05-P3-1,President,,,Write-ins,11
+Jefferson,06-p4-1,President,,,Write-ins,6
+Jefferson,07-P4-1A,President,,,Write-ins,4
+Jefferson,08-P4-2,President,,,Write-ins,3
+Jefferson,09-P4-3,President,,,Write-ins,10
+Jefferson,10-P5-1,President,,,Write-ins,11
+Jefferson,11-P5-2,President,,,Write-ins,10
+Jefferson,12-GRAHAM,President,,,Write-ins,6
+Jefferson,13-HANOVER  1,President,,,Write-ins,3
+Jefferson,14-HANOVER   2,President,,,Write-ins,7
+Jefferson,15-HANOVER   2A,President,,,Write-ins,3
+Jefferson,16-HANOVER  3,President,,,Write-ins,13
+Jefferson,17-LANCASTER,President,,,Write-ins,5
+Jefferson,18-MADISON  1,President,,,Write-ins,15
+Jefferson,19-MADISON  2,President,,,Write-ins,9
+Jefferson,20-MADISON  3,President,,,Write-ins,9
+Jefferson,21-MILTON,President,,,Write-ins,3
+Jefferson,22-MONROE,President,,,Write-ins,5
+Jefferson,23-REPUBLICAN,President,,,Write-ins,3
+Jefferson,24-SALUDA,President,,,Write-ins,6
+Jefferson,25-SHELBY,President,,,Write-ins,8
+Jefferson,26-SMYRNA,President,,,Write-ins,3
+Jefferson,,President,,,Write-ins,183
+Jefferson,01-P1-1,U.S. Senate,,REP,Todd Young,196
+Jefferson,02-P1-2,U.S. Senate,,REP,Todd Young,130
+Jefferson,03-P2-1,U.S. Senate,,REP,Todd Young,235
+Jefferson,04-P2-2,U.S. Senate,,REP,Todd Young,364
+Jefferson,05-P3-1,U.S. Senate,,REP,Todd Young,159
+Jefferson,06-p4-1,U.S. Senate,,REP,Todd Young,356
+Jefferson,07-P4-1A,U.S. Senate,,REP,Todd Young,271
+Jefferson,08-P4-2,U.S. Senate,,REP,Todd Young,145
+Jefferson,09-P4-3,U.S. Senate,,REP,Todd Young,280
+Jefferson,10-P5-1,U.S. Senate,,REP,Todd Young,315
+Jefferson,11-P5-2,U.S. Senate,,REP,Todd Young,295
+Jefferson,12-GRAHAM,U.S. Senate,,REP,Todd Young,362
+Jefferson,13-HANOVER  1,U.S. Senate,,REP,Todd Young,194
+Jefferson,14-HANOVER   2,U.S. Senate,,REP,Todd Young,306
+Jefferson,15-HANOVER   2A,U.S. Senate,,REP,Todd Young,245
+Jefferson,16-HANOVER  3,U.S. Senate,,REP,Todd Young,206
+Jefferson,17-LANCASTER,U.S. Senate,,REP,Todd Young,412
+Jefferson,18-MADISON  1,U.S. Senate,,REP,Todd Young,469
+Jefferson,19-MADISON  2,U.S. Senate,,REP,Todd Young,522
+Jefferson,20-MADISON  3,U.S. Senate,,REP,Todd Young,387
+Jefferson,21-MILTON,U.S. Senate,,REP,Todd Young,210
+Jefferson,22-MONROE,U.S. Senate,,REP,Todd Young,83
+Jefferson,23-REPUBLICAN,U.S. Senate,,REP,Todd Young,466
+Jefferson,24-SALUDA,U.S. Senate,,REP,Todd Young,316
+Jefferson,25-SHELBY,U.S. Senate,,REP,Todd Young,336
+Jefferson,26-SMYRNA,U.S. Senate,,REP,Todd Young,281
+Jefferson,,U.S. Senate,,REP,Todd Young,7541
+Jefferson,01-P1-1,U.S. Senate,,DEM,Evan Bayh,244
+Jefferson,02-P1-2,U.S. Senate,,DEM,Evan Bayh,167
+Jefferson,03-P2-1,U.S. Senate,,DEM,Evan Bayh,241
+Jefferson,04-P2-2,U.S. Senate,,DEM,Evan Bayh,262
+Jefferson,05-P3-1,U.S. Senate,,DEM,Evan Bayh,192
+Jefferson,06-p4-1,U.S. Senate,,DEM,Evan Bayh,274
+Jefferson,07-P4-1A,U.S. Senate,,DEM,Evan Bayh,139
+Jefferson,08-P4-2,U.S. Senate,,DEM,Evan Bayh,118
+Jefferson,09-P4-3,U.S. Senate,,DEM,Evan Bayh,182
+Jefferson,10-P5-1,U.S. Senate,,DEM,Evan Bayh,244
+Jefferson,11-P5-2,U.S. Senate,,DEM,Evan Bayh,242
+Jefferson,12-GRAHAM,U.S. Senate,,DEM,Evan Bayh,241
+Jefferson,13-HANOVER  1,U.S. Senate,,DEM,Evan Bayh,251
+Jefferson,14-HANOVER   2,U.S. Senate,,DEM,Evan Bayh,176
+Jefferson,15-HANOVER   2A,U.S. Senate,,DEM,Evan Bayh,127
+Jefferson,16-HANOVER  3,U.S. Senate,,DEM,Evan Bayh,229
+Jefferson,17-LANCASTER,U.S. Senate,,DEM,Evan Bayh,215
+Jefferson,18-MADISON  1,U.S. Senate,,DEM,Evan Bayh,262
+Jefferson,19-MADISON  2,U.S. Senate,,DEM,Evan Bayh,349
+Jefferson,20-MADISON  3,U.S. Senate,,DEM,Evan Bayh,252
+Jefferson,21-MILTON,U.S. Senate,,DEM,Evan Bayh,150
+Jefferson,22-MONROE,U.S. Senate,,DEM,Evan Bayh,66
+Jefferson,23-REPUBLICAN,U.S. Senate,,DEM,Evan Bayh,273
+Jefferson,24-SALUDA,U.S. Senate,,DEM,Evan Bayh,212
+Jefferson,25-SHELBY,U.S. Senate,,DEM,Evan Bayh,134
+Jefferson,26-SMYRNA,U.S. Senate,,DEM,Evan Bayh,182
+Jefferson,,U.S. Senate,,DEM,Evan Bayh,5424
+Jefferson,01-P1-1,U.S. Senate,,LBT,Lucy Brenton,12
+Jefferson,02-P1-2,U.S. Senate,,LBT,Lucy Brenton,10
+Jefferson,03-P2-1,U.S. Senate,,LBT,Lucy Brenton,20
+Jefferson,04-P2-2,U.S. Senate,,LBT,Lucy Brenton,20
+Jefferson,05-P3-1,U.S. Senate,,LBT,Lucy Brenton,18
+Jefferson,06-p4-1,U.S. Senate,,LBT,Lucy Brenton,13
+Jefferson,07-P4-1A,U.S. Senate,,LBT,Lucy Brenton,11
+Jefferson,08-P4-2,U.S. Senate,,LBT,Lucy Brenton,12
+Jefferson,09-P4-3,U.S. Senate,,LBT,Lucy Brenton,28
+Jefferson,10-P5-1,U.S. Senate,,LBT,Lucy Brenton,27
+Jefferson,11-P5-2,U.S. Senate,,LBT,Lucy Brenton,24
+Jefferson,12-GRAHAM,U.S. Senate,,LBT,Lucy Brenton,27
+Jefferson,13-HANOVER  1,U.S. Senate,,LBT,Lucy Brenton,18
+Jefferson,14-HANOVER   2,U.S. Senate,,LBT,Lucy Brenton,16
+Jefferson,15-HANOVER   2A,U.S. Senate,,LBT,Lucy Brenton,7
+Jefferson,16-HANOVER  3,U.S. Senate,,LBT,Lucy Brenton,11
+Jefferson,17-LANCASTER,U.S. Senate,,LBT,Lucy Brenton,18
+Jefferson,18-MADISON  1,U.S. Senate,,LBT,Lucy Brenton,25
+Jefferson,19-MADISON  2,U.S. Senate,,LBT,Lucy Brenton,20
+Jefferson,20-MADISON  3,U.S. Senate,,LBT,Lucy Brenton,23
+Jefferson,21-MILTON,U.S. Senate,,LBT,Lucy Brenton,14
+Jefferson,22-MONROE,U.S. Senate,,LBT,Lucy Brenton,9
+Jefferson,23-REPUBLICAN,U.S. Senate,,LBT,Lucy Brenton,31
+Jefferson,24-SALUDA,U.S. Senate,,LBT,Lucy Brenton,10
+Jefferson,25-SHELBY,U.S. Senate,,LBT,Lucy Brenton,21
+Jefferson,26-SMYRNA,U.S. Senate,,LBT,Lucy Brenton,18
+Jefferson,,U.S. Senate,,LBT,Lucy Brenton,463
+Jefferson,01-P1-1,U.S. Senate,,,Write-ins,1
+Jefferson,02-P1-2,U.S. Senate,,,Write-ins,0
+Jefferson,03-P2-1,U.S. Senate,,,Write-ins,1
+Jefferson,04-P2-2,U.S. Senate,,,Write-ins,0
+Jefferson,05-P3-1,U.S. Senate,,,Write-ins,0
+Jefferson,06-p4-1,U.S. Senate,,,Write-ins,0
+Jefferson,07-P4-1A,U.S. Senate,,,Write-ins,0
+Jefferson,08-P4-2,U.S. Senate,,,Write-ins,0
+Jefferson,09-P4-3,U.S. Senate,,,Write-ins,0
+Jefferson,10-P5-1,U.S. Senate,,,Write-ins,0
+Jefferson,11-P5-2,U.S. Senate,,,Write-ins,0
+Jefferson,12-GRAHAM,U.S. Senate,,,Write-ins,0
+Jefferson,13-HANOVER  1,U.S. Senate,,,Write-ins,0
+Jefferson,14-HANOVER   2,U.S. Senate,,,Write-ins,0
+Jefferson,15-HANOVER   2A,U.S. Senate,,,Write-ins,0
+Jefferson,16-HANOVER  3,U.S. Senate,,,Write-ins,0
+Jefferson,17-LANCASTER,U.S. Senate,,,Write-ins,0
+Jefferson,18-MADISON  1,U.S. Senate,,,Write-ins,0
+Jefferson,19-MADISON  2,U.S. Senate,,,Write-ins,0
+Jefferson,20-MADISON  3,U.S. Senate,,,Write-ins,0
+Jefferson,21-MILTON,U.S. Senate,,,Write-ins,0
+Jefferson,22-MONROE,U.S. Senate,,,Write-ins,0
+Jefferson,23-REPUBLICAN,U.S. Senate,,,Write-ins,0
+Jefferson,24-SALUDA,U.S. Senate,,,Write-ins,1
+Jefferson,25-SHELBY,U.S. Senate,,,Write-ins,0
+Jefferson,26-SMYRNA,U.S. Senate,,,Write-ins,0
+Jefferson,,U.S. Senate,,,Write-ins,3
+Jefferson,01-P1-1,Governor,,REP,Eric Holcomb,192
+Jefferson,02-P1-2,Governor,,REP,Eric Holcomb,122
+Jefferson,03-P2-1,Governor,,REP,Eric Holcomb,231
+Jefferson,04-P2-2,Governor,,REP,Eric Holcomb,346
+Jefferson,05-P3-1,Governor,,REP,Eric Holcomb,149
+Jefferson,06-p4-1,Governor,,REP,Eric Holcomb,338
+Jefferson,07-P4-1A,Governor,,REP,Eric Holcomb,251
+Jefferson,08-P4-2,Governor,,REP,Eric Holcomb,147
+Jefferson,09-P4-3,Governor,,REP,Eric Holcomb,277
+Jefferson,10-P5-1,Governor,,REP,Eric Holcomb,310
+Jefferson,11-P5-2,Governor,,REP,Eric Holcomb,304
+Jefferson,12-GRAHAM,Governor,,REP,Eric Holcomb,380
+Jefferson,13-HANOVER  1,Governor,,REP,Eric Holcomb,199
+Jefferson,14-HANOVER   2,Governor,,REP,Eric Holcomb,299
+Jefferson,15-HANOVER   2A,Governor,,REP,Eric Holcomb,233
+Jefferson,16-HANOVER  3,Governor,,REP,Eric Holcomb,215
+Jefferson,17-LANCASTER,Governor,,REP,Eric Holcomb,413
+Jefferson,18-MADISON  1,Governor,,REP,Eric Holcomb,476
+Jefferson,19-MADISON  2,Governor,,REP,Eric Holcomb,509
+Jefferson,20-MADISON  3,Governor,,REP,Eric Holcomb,385
+Jefferson,21-MILTON,Governor,,REP,Eric Holcomb,203
+Jefferson,22-MONROE,Governor,,REP,Eric Holcomb,90
+Jefferson,23-REPUBLICAN,Governor,,REP,Eric Holcomb,471
+Jefferson,24-SALUDA,Governor,,REP,Eric Holcomb,326
+Jefferson,25-SHELBY,Governor,,REP,Eric Holcomb,350
+Jefferson,26-SMYRNA,Governor,,REP,Eric Holcomb,289
+Jefferson,,Governor,,REP,Eric Holcomb,7505
+Jefferson,01-P1-1,Governor,,DEM,John Gregg,251
+Jefferson,02-P1-2,Governor,,DEM,John Gregg,176
+Jefferson,03-P2-1,Governor,,DEM,John Gregg,243
+Jefferson,04-P2-2,Governor,,DEM,John Gregg,270
+Jefferson,05-P3-1,Governor,,DEM,John Gregg,197
+Jefferson,06-p4-1,Governor,,DEM,John Gregg,292
+Jefferson,07-P4-1A,Governor,,DEM,John Gregg,153
+Jefferson,08-P4-2,Governor,,DEM,John Gregg,119
+Jefferson,09-P4-3,Governor,,DEM,John Gregg,185
+Jefferson,10-P5-1,Governor,,DEM,John Gregg,247
+Jefferson,11-P5-2,Governor,,DEM,John Gregg,235
+Jefferson,12-GRAHAM,Governor,,DEM,John Gregg,212
+Jefferson,13-HANOVER  1,Governor,,DEM,John Gregg,241
+Jefferson,14-HANOVER   2,Governor,,DEM,John Gregg,180
+Jefferson,15-HANOVER   2A,Governor,,DEM,John Gregg,136
+Jefferson,16-HANOVER  3,Governor,,DEM,John Gregg,208
+Jefferson,17-LANCASTER,Governor,,DEM,John Gregg,205
+Jefferson,18-MADISON  1,Governor,,DEM,John Gregg,250
+Jefferson,19-MADISON  2,Governor,,DEM,John Gregg,346
+Jefferson,20-MADISON  3,Governor,,DEM,John Gregg,245
+Jefferson,21-MILTON,Governor,,DEM,John Gregg,151
+Jefferson,22-MONROE,Governor,,DEM,John Gregg,62
+Jefferson,23-REPUBLICAN,Governor,,DEM,John Gregg,277
+Jefferson,24-SALUDA,Governor,,DEM,John Gregg,193
+Jefferson,25-SHELBY,Governor,,DEM,John Gregg,133
+Jefferson,26-SMYRNA,Governor,,DEM,John Gregg,165
+Jefferson,,Governor,,DEM,John Gregg,5373
+Jefferson,01-P1-1,Governor,,LBT,Rex Bell,10
+Jefferson,02-P1-2,Governor,,LBT,Rex Bell,11
+Jefferson,03-P2-1,Governor,,LBT,Rex Bell,13
+Jefferson,04-P2-2,Governor,,LBT,Rex Bell,19
+Jefferson,05-P3-1,Governor,,LBT,Rex Bell,10
+Jefferson,06-p4-1,Governor,,LBT,Rex Bell,9
+Jefferson,07-P4-1A,Governor,,LBT,Rex Bell,7
+Jefferson,08-P4-2,Governor,,LBT,Rex Bell,4
+Jefferson,09-P4-3,Governor,,LBT,Rex Bell,18
+Jefferson,10-P5-1,Governor,,LBT,Rex Bell,17
+Jefferson,11-P5-2,Governor,,LBT,Rex Bell,12
+Jefferson,12-GRAHAM,Governor,,LBT,Rex Bell,18
+Jefferson,13-HANOVER  1,Governor,,LBT,Rex Bell,13
+Jefferson,14-HANOVER   2,Governor,,LBT,Rex Bell,11
+Jefferson,15-HANOVER   2A,Governor,,LBT,Rex Bell,11
+Jefferson,16-HANOVER  3,Governor,,LBT,Rex Bell,15
+Jefferson,17-LANCASTER,Governor,,LBT,Rex Bell,14
+Jefferson,18-MADISON  1,Governor,,LBT,Rex Bell,18
+Jefferson,19-MADISON  2,Governor,,LBT,Rex Bell,20
+Jefferson,20-MADISON  3,Governor,,LBT,Rex Bell,20
+Jefferson,21-MILTON,Governor,,LBT,Rex Bell,16
+Jefferson,22-MONROE,Governor,,LBT,Rex Bell,6
+Jefferson,23-REPUBLICAN,Governor,,LBT,Rex Bell,18
+Jefferson,24-SALUDA,Governor,,LBT,Rex Bell,7
+Jefferson,25-SHELBY,Governor,,LBT,Rex Bell,11
+Jefferson,26-SMYRNA,Governor,,LBT,Rex Bell,16
+Jefferson,,Governor,,LBT,Rex Bell,344
+Jefferson,01-P1-1,Governor,,,Write-ins,0
+Jefferson,02-P1-2,Governor,,,Write-ins,0
+Jefferson,03-P2-1,Governor,,,Write-ins,0
+Jefferson,04-P2-2,Governor,,,Write-ins,0
+Jefferson,05-P3-1,Governor,,,Write-ins,0
+Jefferson,06-p4-1,Governor,,,Write-ins,0
+Jefferson,07-P4-1A,Governor,,,Write-ins,0
+Jefferson,08-P4-2,Governor,,,Write-ins,0
+Jefferson,09-P4-3,Governor,,,Write-ins,0
+Jefferson,10-P5-1,Governor,,,Write-ins,1
+Jefferson,11-P5-2,Governor,,,Write-ins,0
+Jefferson,12-GRAHAM,Governor,,,Write-ins,0
+Jefferson,13-HANOVER  1,Governor,,,Write-ins,0
+Jefferson,14-HANOVER   2,Governor,,,Write-ins,0
+Jefferson,15-HANOVER   2A,Governor,,,Write-ins,0
+Jefferson,16-HANOVER  3,Governor,,,Write-ins,0
+Jefferson,17-LANCASTER,Governor,,,Write-ins,0
+Jefferson,18-MADISON  1,Governor,,,Write-ins,0
+Jefferson,19-MADISON  2,Governor,,,Write-ins,0
+Jefferson,20-MADISON  3,Governor,,,Write-ins,0
+Jefferson,21-MILTON,Governor,,,Write-ins,0
+Jefferson,22-MONROE,Governor,,,Write-ins,0
+Jefferson,23-REPUBLICAN,Governor,,,Write-ins,0
+Jefferson,24-SALUDA,Governor,,,Write-ins,0
+Jefferson,25-SHELBY,Governor,,,Write-ins,0
+Jefferson,26-SMYRNA,Governor,,,Write-ins,0
+Jefferson,,Governor,,,Write-ins,1
+Jefferson,01-P1-1,Attorney General,,REP,Curtis Hill,213
+Jefferson,02-P1-2,Attorney General,,REP,Curtis Hill,141
+Jefferson,03-P2-1,Attorney General,,REP,Curtis Hill,250
+Jefferson,04-P2-2,Attorney General,,REP,Curtis Hill,396
+Jefferson,05-P3-1,Attorney General,,REP,Curtis Hill,180
+Jefferson,06-p4-1,Attorney General,,REP,Curtis Hill,378
+Jefferson,07-P4-1A,Attorney General,,REP,Curtis Hill,284
+Jefferson,08-P4-2,Attorney General,,REP,Curtis Hill,163
+Jefferson,09-P4-3,Attorney General,,REP,Curtis Hill,309
+Jefferson,10-P5-1,Attorney General,,REP,Curtis Hill,355
+Jefferson,11-P5-2,Attorney General,,REP,Curtis Hill,328
+Jefferson,12-GRAHAM,Attorney General,,REP,Curtis Hill,406
+Jefferson,13-HANOVER  1,Attorney General,,REP,Curtis Hill,226
+Jefferson,14-HANOVER   2,Attorney General,,REP,Curtis Hill,337
+Jefferson,15-HANOVER   2A,Attorney General,,REP,Curtis Hill,258
+Jefferson,16-HANOVER  3,Attorney General,,REP,Curtis Hill,230
+Jefferson,17-LANCASTER,Attorney General,,REP,Curtis Hill,459
+Jefferson,18-MADISON  1,Attorney General,,REP,Curtis Hill,515
+Jefferson,19-MADISON  2,Attorney General,,REP,Curtis Hill,576
+Jefferson,20-MADISON  3,Attorney General,,REP,Curtis Hill,428
+Jefferson,21-MILTON,Attorney General,,REP,Curtis Hill,248
+Jefferson,22-MONROE,Attorney General,,REP,Curtis Hill,97
+Jefferson,23-REPUBLICAN,Attorney General,,REP,Curtis Hill,502
+Jefferson,24-SALUDA,Attorney General,,REP,Curtis Hill,365
+Jefferson,25-SHELBY,Attorney General,,REP,Curtis Hill,384
+Jefferson,26-SMYRNA,Attorney General,,REP,Curtis Hill,319
+Jefferson,,Attorney General,,REP,Curtis Hill,8347
+Jefferson,01-P1-1,Attorney General,,DEM,Lorenzo Arredondo,223
+Jefferson,02-P1-2,Attorney General,,DEM,Lorenzo Arredondo,155
+Jefferson,03-P2-1,Attorney General,,DEM,Lorenzo Arredondo,222
+Jefferson,04-P2-2,Attorney General,,DEM,Lorenzo Arredondo,215
+Jefferson,05-P3-1,Attorney General,,DEM,Lorenzo Arredondo,165
+Jefferson,06-p4-1,Attorney General,,DEM,Lorenzo Arredondo,225
+Jefferson,07-P4-1A,Attorney General,,DEM,Lorenzo Arredondo,110
+Jefferson,08-P4-2,Attorney General,,DEM,Lorenzo Arredondo,104
+Jefferson,09-P4-3,Attorney General,,DEM,Lorenzo Arredondo,153
+Jefferson,10-P5-1,Attorney General,,DEM,Lorenzo Arredondo,202
+Jefferson,11-P5-2,Attorney General,,DEM,Lorenzo Arredondo,196
+Jefferson,12-GRAHAM,Attorney General,,DEM,Lorenzo Arredondo,177
+Jefferson,13-HANOVER  1,Attorney General,,DEM,Lorenzo Arredondo,214
+Jefferson,14-HANOVER   2,Attorney General,,DEM,Lorenzo Arredondo,140
+Jefferson,15-HANOVER   2A,Attorney General,,DEM,Lorenzo Arredondo,107
+Jefferson,16-HANOVER  3,Attorney General,,DEM,Lorenzo Arredondo,194
+Jefferson,17-LANCASTER,Attorney General,,DEM,Lorenzo Arredondo,162
+Jefferson,18-MADISON  1,Attorney General,,DEM,Lorenzo Arredondo,194
+Jefferson,19-MADISON  2,Attorney General,,DEM,Lorenzo Arredondo,280
+Jefferson,20-MADISON  3,Attorney General,,DEM,Lorenzo Arredondo,197
+Jefferson,21-MILTON,Attorney General,,DEM,Lorenzo Arredondo,112
+Jefferson,22-MONROE,Attorney General,,DEM,Lorenzo Arredondo,54
+Jefferson,23-REPUBLICAN,Attorney General,,DEM,Lorenzo Arredondo,240
+Jefferson,24-SALUDA,Attorney General,,DEM,Lorenzo Arredondo,152
+Jefferson,25-SHELBY,Attorney General,,DEM,Lorenzo Arredondo,91
+Jefferson,26-SMYRNA,Attorney General,,DEM,Lorenzo Arredondo,140
+Jefferson,,Attorney General,,DEM,Lorenzo Arredondo,4424
+Jefferson,01-P1-1,Attorney General,,REP,Jennifer McCormick,194
+Jefferson,02-P1-2,Attorney General,,REP,Jennifer McCormick,129
+Jefferson,03-P2-1,Attorney General,,REP,Jennifer McCormick,230
+Jefferson,04-P2-2,Attorney General,,REP,Jennifer McCormick,347
+Jefferson,05-P3-1,Attorney General,,REP,Jennifer McCormick,159
+Jefferson,06-p4-1,Attorney General,,REP,Jennifer McCormick,319
+Jefferson,07-P4-1A,Attorney General,,REP,Jennifer McCormick,238
+Jefferson,08-P4-2,Attorney General,,REP,Jennifer McCormick,152
+Jefferson,09-P4-3,Attorney General,,REP,Jennifer McCormick,289
+Jefferson,10-P5-1,Attorney General,,REP,Jennifer McCormick,328
+Jefferson,11-P5-2,Attorney General,,REP,Jennifer McCormick,289
+Jefferson,12-GRAHAM,Attorney General,,REP,Jennifer McCormick,368
+Jefferson,13-HANOVER  1,Attorney General,,REP,Jennifer McCormick,211
+Jefferson,14-HANOVER   2,Attorney General,,REP,Jennifer McCormick,307
+Jefferson,15-HANOVER   2A,Attorney General,,REP,Jennifer McCormick,237
+Jefferson,16-HANOVER  3,Attorney General,,REP,Jennifer McCormick,204
+Jefferson,17-LANCASTER,Attorney General,,REP,Jennifer McCormick,393
+Jefferson,18-MADISON  1,Attorney General,,REP,Jennifer McCormick,454
+Jefferson,19-MADISON  2,Attorney General,,REP,Jennifer McCormick,514
+Jefferson,20-MADISON  3,Attorney General,,REP,Jennifer McCormick,405
+Jefferson,21-MILTON,Attorney General,,REP,Jennifer McCormick,208
+Jefferson,22-MONROE,Attorney General,,REP,Jennifer McCormick,84
+Jefferson,23-REPUBLICAN,Attorney General,,REP,Jennifer McCormick,459
+Jefferson,24-SALUDA,Attorney General,,REP,Jennifer McCormick,337
+Jefferson,25-SHELBY,Attorney General,,REP,Jennifer McCormick,352
+Jefferson,26-SMYRNA,Attorney General,,REP,Jennifer McCormick,293
+Jefferson,,Attorney General,,REP,Jennifer McCormick,7500
+Jefferson,01-P1-1,Attorney General,,DEM,Glenda Ritz,251
+Jefferson,02-P1-2,Attorney General,,DEM,Glenda Ritz,173
+Jefferson,03-P2-1,Attorney General,,DEM,Glenda Ritz,243
+Jefferson,04-P2-2,Attorney General,,DEM,Glenda Ritz,282
+Jefferson,05-P3-1,Attorney General,,DEM,Glenda Ritz,186
+Jefferson,06-p4-1,Attorney General,,DEM,Glenda Ritz,310
+Jefferson,07-P4-1A,Attorney General,,DEM,Glenda Ritz,169
+Jefferson,08-P4-2,Attorney General,,DEM,Glenda Ritz,114
+Jefferson,09-P4-3,Attorney General,,DEM,Glenda Ritz,183
+Jefferson,10-P5-1,Attorney General,,DEM,Glenda Ritz,241
+Jefferson,11-P5-2,Attorney General,,DEM,Glenda Ritz,246
+Jefferson,12-GRAHAM,Attorney General,,DEM,Glenda Ritz,217
+Jefferson,13-HANOVER  1,Attorney General,,DEM,Glenda Ritz,231
+Jefferson,14-HANOVER   2,Attorney General,,DEM,Glenda Ritz,177
+Jefferson,15-HANOVER   2A,Attorney General,,DEM,Glenda Ritz,126
+Jefferson,16-HANOVER  3,Attorney General,,DEM,Glenda Ritz,223
+Jefferson,17-LANCASTER,Attorney General,,DEM,Glenda Ritz,232
+Jefferson,18-MADISON  1,Attorney General,,DEM,Glenda Ritz,269
+Jefferson,19-MADISON  2,Attorney General,,DEM,Glenda Ritz,352
+Jefferson,20-MADISON  3,Attorney General,,DEM,Glenda Ritz,231
+Jefferson,21-MILTON,Attorney General,,DEM,Glenda Ritz,151
+Jefferson,22-MONROE,Attorney General,,DEM,Glenda Ritz,71
+Jefferson,23-REPUBLICAN,Attorney General,,DEM,Glenda Ritz,301
+Jefferson,24-SALUDA,Attorney General,,DEM,Glenda Ritz,186
+Jefferson,25-SHELBY,Attorney General,,DEM,Glenda Ritz,139
+Jefferson,26-SMYRNA,Attorney General,,DEM,Glenda Ritz,166
+Jefferson,,Attorney General,,DEM,Glenda Ritz,5470
+Jefferson,01-P1-1,U.S. House,6,REP,Luke Messer,203
+Jefferson,02-P1-2,U.S. House,6,REP,Luke Messer,142
+Jefferson,03-P2-1,U.S. House,6,REP,Luke Messer,251
+Jefferson,04-P2-2,U.S. House,6,REP,Luke Messer,403
+Jefferson,05-P3-1,U.S. House,6,REP,Luke Messer,171
+Jefferson,06-p4-1,U.S. House,6,REP,Luke Messer,381
+Jefferson,07-P4-1A,U.S. House,6,REP,Luke Messer,296
+Jefferson,08-P4-2,U.S. House,6,REP,Luke Messer,161
+Jefferson,09-P4-3,U.S. House,6,REP,Luke Messer,301
+Jefferson,10-P5-1,U.S. House,6,REP,Luke Messer,353
+Jefferson,11-P5-2,U.S. House,6,REP,Luke Messer,328
+Jefferson,12-GRAHAM,U.S. House,6,REP,Luke Messer,380
+Jefferson,13-HANOVER  1,U.S. House,6,REP,Luke Messer,212
+Jefferson,14-HANOVER   2,U.S. House,6,REP,Luke Messer,320
+Jefferson,15-HANOVER   2A,U.S. House,6,REP,Luke Messer,256
+Jefferson,16-HANOVER  3,U.S. House,6,REP,Luke Messer,229
+Jefferson,17-LANCASTER,U.S. House,6,REP,Luke Messer,445
+Jefferson,18-MADISON  1,U.S. House,6,REP,Luke Messer,506
+Jefferson,19-MADISON  2,U.S. House,6,REP,Luke Messer,554
+Jefferson,20-MADISON  3,U.S. House,6,REP,Luke Messer,414
+Jefferson,21-MILTON,U.S. House,6,REP,Luke Messer,226
+Jefferson,22-MONROE,U.S. House,6,REP,Luke Messer,93
+Jefferson,23-REPUBLICAN,U.S. House,6,REP,Luke Messer,476
+Jefferson,24-SALUDA,U.S. House,6,REP,Luke Messer,344
+Jefferson,25-SHELBY,U.S. House,6,REP,Luke Messer,370
+Jefferson,26-SMYRNA,U.S. House,6,REP,Luke Messer,307
+Jefferson,,U.S. House,6,REP,Luke Messer,8122
+Jefferson,01-P1-1,U.S. House,6,DEM,Barry Welsh,229
+Jefferson,02-P1-2,U.S. House,6,DEM,Barry Welsh,150
+Jefferson,03-P2-1,U.S. House,6,DEM,Barry Welsh,215
+Jefferson,04-P2-2,U.S. House,6,DEM,Barry Welsh,209
+Jefferson,05-P3-1,U.S. House,6,DEM,Barry Welsh,171
+Jefferson,06-p4-1,U.S. House,6,DEM,Barry Welsh,231
+Jefferson,07-P4-1A,U.S. House,6,DEM,Barry Welsh,105
+Jefferson,08-P4-2,U.S. House,6,DEM,Barry Welsh,98
+Jefferson,09-P4-3,U.S. House,6,DEM,Barry Welsh,156
+Jefferson,10-P5-1,U.S. House,6,DEM,Barry Welsh,200
+Jefferson,11-P5-2,U.S. House,6,DEM,Barry Welsh,206
+Jefferson,12-GRAHAM,U.S. House,6,DEM,Barry Welsh,195
+Jefferson,13-HANOVER  1,U.S. House,6,DEM,Barry Welsh,221
+Jefferson,14-HANOVER   2,U.S. House,6,DEM,Barry Welsh,150
+Jefferson,15-HANOVER   2A,U.S. House,6,DEM,Barry Welsh,110
+Jefferson,16-HANOVER  3,U.S. House,6,DEM,Barry Welsh,195
+Jefferson,17-LANCASTER,U.S. House,6,DEM,Barry Welsh,178
+Jefferson,18-MADISON  1,U.S. House,6,DEM,Barry Welsh,213
+Jefferson,19-MADISON  2,U.S. House,6,DEM,Barry Welsh,302
+Jefferson,20-MADISON  3,U.S. House,6,DEM,Barry Welsh,205
+Jefferson,21-MILTON,U.S. House,6,DEM,Barry Welsh,111
+Jefferson,22-MONROE,U.S. House,6,DEM,Barry Welsh,56
+Jefferson,23-REPUBLICAN,U.S. House,6,DEM,Barry Welsh,264
+Jefferson,24-SALUDA,U.S. House,6,DEM,Barry Welsh,169
+Jefferson,25-SHELBY,U.S. House,6,DEM,Barry Welsh,107
+Jefferson,26-SMYRNA,U.S. House,6,DEM,Barry Welsh,148
+Jefferson,,U.S. House,6,DEM,Barry Welsh,4594
+Jefferson,01-P1-1,U.S. House,6,LBT,Rich Turvet,23
+Jefferson,02-P1-2,U.S. House,6,LBT,Rich Turvet,12
+Jefferson,03-P2-1,U.S. House,6,LBT,Rich Turvet,19
+Jefferson,04-P2-2,U.S. House,6,LBT,Rich Turvet,19
+Jefferson,05-P3-1,U.S. House,6,LBT,Rich Turvet,15
+Jefferson,06-p4-1,U.S. House,6,LBT,Rich Turvet,12
+Jefferson,07-P4-1A,U.S. House,6,LBT,Rich Turvet,6
+Jefferson,08-P4-2,U.S. House,6,LBT,Rich Turvet,10
+Jefferson,09-P4-3,U.S. House,6,LBT,Rich Turvet,22
+Jefferson,10-P5-1,U.S. House,6,LBT,Rich Turvet,22
+Jefferson,11-P5-2,U.S. House,6,LBT,Rich Turvet,16
+Jefferson,12-GRAHAM,U.S. House,6,LBT,Rich Turvet,20
+Jefferson,13-HANOVER  1,U.S. House,6,LBT,Rich Turvet,17
+Jefferson,14-HANOVER   2,U.S. House,6,LBT,Rich Turvet,18
+Jefferson,15-HANOVER   2A,U.S. House,6,LBT,Rich Turvet,10
+Jefferson,16-HANOVER  3,U.S. House,6,LBT,Rich Turvet,10
+Jefferson,17-LANCASTER,U.S. House,6,LBT,Rich Turvet,20
+Jefferson,18-MADISON  1,U.S. House,6,LBT,Rich Turvet,14
+Jefferson,19-MADISON  2,U.S. House,6,LBT,Rich Turvet,24
+Jefferson,20-MADISON  3,U.S. House,6,LBT,Rich Turvet,24
+Jefferson,21-MILTON,U.S. House,6,LBT,Rich Turvet,27
+Jefferson,22-MONROE,U.S. House,6,LBT,Rich Turvet,7
+Jefferson,23-REPUBLICAN,U.S. House,6,LBT,Rich Turvet,18
+Jefferson,24-SALUDA,U.S. House,6,LBT,Rich Turvet,13
+Jefferson,25-SHELBY,U.S. House,6,LBT,Rich Turvet,11
+Jefferson,26-SMYRNA,U.S. House,6,LBT,Rich Turvet,11
+Jefferson,,U.S. House,6,LBT,Rich Turvet,420
+Jefferson,01-Pct.  1-1,State House,66,REP,Joe Van Wye,163
+Jefferson,02-Pct.   1-2,State House,66,REP,Joe Van Wye,108
+Jefferson,03-Pct.   2-1,State House,66,REP,Joe Van Wye,197
+Jefferson,04-Pct.   2-2,State House,66,REP,Joe Van Wye,305
+Jefferson,05-Pct.   3RD  WARD,State House,66,REP,Joe Van Wye,141
+Jefferson,06-Pct.   4-1,State House,66,REP,Joe Van Wye,291
+Jefferson,07-Pct.   4-1A,State House,66,REP,Joe Van Wye,211
+Jefferson,08-Pct.   4-2,State House,66,REP,Joe Van Wye,126
+Jefferson,09-Pct.   4-3,State House,66,REP,Joe Van Wye,248
+Jefferson,10-Pct.   5-1,State House,66,REP,Joe Van Wye,269
+Jefferson,11-Pct.  5-2,State House,66,REP,Joe Van Wye,247
+Jefferson,13-HANOVER  1,State House,66,REP,Joe Van Wye,174
+Jefferson,14-HANOVER   2,State House,66,REP,Joe Van Wye,258
+Jefferson,15-HANOVER   2A,State House,66,REP,Joe Van Wye,199
+Jefferson,16-HANOVER  3,State House,66,REP,Joe Van Wye,175
+Jefferson,19-MADISON  2,State House,66,REP,Joe Van Wye,415
+Jefferson,24-SALUDA,State House,66,REP,Joe Van Wye,249
+Jefferson,18-MADISON  1,State House,67,REP,Randy Frye,507
+Jefferson,20-MADISON  3,State House,67,REP,Randy Frye,438
+Jefferson,21-MILTON,State House,67,REP,Randy Frye,244
+Jefferson,22-MONROE,State House,67,REP,Randy Frye,98
+Jefferson,25-SHELBY,State House,67,REP,Randy Frye,386
+Jefferson,12-GRAHAM,State House,69,REP,Jim Lucas,466
+Jefferson,17-LANCASTER,State House,69,REP,Jim Lucas,529
+Jefferson,23-REPUBLICAN,State House,69,REP,Jim Lucas,623
+Jefferson,26-SMYRNA,State House,69,REP,Jim Lucas,393
+Jefferson,,State House,66,REP,Joe Van Wye,3770
+Jefferson,,State House,67,REP,Randy Frye,1671
+Jefferson,,State House,69,REP,Jim Lucas,2011
+Jefferson,01-Pct.  1-1,State House,66,DEM,Terry Goodin,283
+Jefferson,02-Pct.   1-2,State House,66,DEM,Terry Goodin,199
+Jefferson,03-Pct.   2-1,State House,66,DEM,Terry Goodin,292
+Jefferson,04-Pct.   2-2,State House,66,DEM,Terry Goodin,318
+Jefferson,05-Pct.   3RD  WARD,State House,66,DEM,Terry Goodin,208
+Jefferson,06-Pct.   4-1,State House,66,DEM,Terry Goodin,340
+Jefferson,07-Pct.   4-1A,State House,66,DEM,Terry Goodin,198
+Jefferson,08-Pct.   4-2,State House,66,DEM,Terry Goodin,142
+Jefferson,09-Pct.   4-3,State House,66,DEM,Terry Goodin,230
+Jefferson,10-Pct.   5-1,State House,66,DEM,Terry Goodin,312
+Jefferson,11-Pct.  5-2,State House,66,DEM,Terry Goodin,299
+Jefferson,13-HANOVER  1,State House,66,DEM,Terry Goodin,282
+Jefferson,14-HANOVER   2,State House,66,DEM,Terry Goodin,232
+Jefferson,15-HANOVER   2A,State House,66,DEM,Terry Goodin,178
+Jefferson,16-HANOVER  3,State House,66,DEM,Terry Goodin,268
+Jefferson,19-MADISON  2,State House,66,DEM,Terry Goodin,460
+Jefferson,24-SALUDA,State House,66,DEM,Terry Goodin,284
+Jefferson,18-MADISON  1,State House,67,DEM,Rudy Howard,213
+Jefferson,20-MADISON  3,State House,67,DEM,Rudy Howard,206
+Jefferson,21-MILTON,State House,67,DEM,Rudy Howard,118
+Jefferson,22-MONROE,State House,67,DEM,Rudy Howard,56
+Jefferson,25-SHELBY,State House,67,DEM,Rudy Howard,108
+Jefferson,,State House,66,DEM,Terry Goodin,4524
+Jefferson,,State House,67,DEM,Rudy Howard,701

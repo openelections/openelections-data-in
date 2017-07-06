@@ -1,0 +1,485 @@
+county,precinct,office,district,candidate,party,votes
+Perry,14-Anderson,Voters,,Registered,,1023
+Perry,01-Cannelton 1,Voters,,Registered,,216
+Perry,02-Cannelton 2,Voters,,Registered,,791
+Perry,15-Clark 1,Voters,,Registered,,408
+Perry,16-Clark 2,Voters,,Registered,,395
+Perry,20-Derby,Voters,,Registered,,179
+Perry,17-Leopold,Voters,,Registered,,493
+Perry,18-Oil,Voters,,Registered,,788
+Perry,21-Rono,Voters,,Registered,,197
+Perry,03-Tell City 1,Voters,,Registered,,739
+Perry,04-Tell City 2,Voters,,Registered,,598
+Perry,05-Tell City 3,Voters,,Registered,,593
+Perry,06-Tell City 4,Voters,,Registered,,691
+Perry,07-Tell City 5,Voters,,Registered,,858
+Perry,08-Tell City 6,Voters,,Registered,,625
+Perry,09-Tell City 7,Voters,,Registered,,684
+Perry,10-Tell City 8,Voters,,Registered,,631
+Perry,19-Tobin,Voters,,Registered,,541
+Perry,13-Troy,Voters,,Registered,,240
+Perry,11-Troy twp 1,Voters,,Registered,,1213
+Perry,12-Troy twp 2,Voters,,Registered,,779
+Perry,,Voters,,Registered,,12682
+Perry,14-Anderson,Voters,,Ballots Cast,,729
+Perry,01-Cannelton 1,Voters,,Ballots Cast,,137
+Perry,02-Cannelton 2,Voters,,Ballots Cast,,381
+Perry,15-Clark 1,Voters,,Ballots Cast,,288
+Perry,16-Clark 2,Voters,,Ballots Cast,,270
+Perry,20-Derby,Voters,,Ballots Cast,,130
+Perry,17-Leopold,Voters,,Ballots Cast,,378
+Perry,18-Oil,Voters,,Ballots Cast,,545
+Perry,21-Rono,Voters,,Ballots Cast,,136
+Perry,03-Tell City 1,Voters,,Ballots Cast,,482
+Perry,04-Tell City 2,Voters,,Ballots Cast,,363
+Perry,05-Tell City 3,Voters,,Ballots Cast,,374
+Perry,06-Tell City 4,Voters,,Ballots Cast,,506
+Perry,07-Tell City 5,Voters,,Ballots Cast,,471
+Perry,08-Tell City 6,Voters,,Ballots Cast,,379
+Perry,09-Tell City 7,Voters,,Ballots Cast,,408
+Perry,10-Tell City 8,Voters,,Ballots Cast,,420
+Perry,19-Tobin,Voters,,Ballots Cast,,364
+Perry,13-Troy,Voters,,Ballots Cast,,147
+Perry,11-Troy twp 1,Voters,,Ballots Cast,,853
+Perry,12-Troy twp 2,Voters,,Ballots Cast,,483
+Perry,,Voters,,Ballots Cast,,8244
+Perry,14-Anderson,President,,Hillary Clinton,DEM,257
+Perry,01-Cannelton 1,President,,Hillary Clinton,DEM,53
+Perry,02-Cannelton 2,President,,Hillary Clinton,DEM,144
+Perry,15-Clark 1,President,,Hillary Clinton,DEM,81
+Perry,16-Clark 2,President,,Hillary Clinton,DEM,79
+Perry,20-Derby,President,,Hillary Clinton,DEM,53
+Perry,17-Leopold,President,,Hillary Clinton,DEM,129
+Perry,18-Oil,President,,Hillary Clinton,DEM,163
+Perry,21-Rono,President,,Hillary Clinton,DEM,44
+Perry,03-Tell City 1,President,,Hillary Clinton,DEM,191
+Perry,04-Tell City 2,President,,Hillary Clinton,DEM,146
+Perry,05-Tell City 3,President,,Hillary Clinton,DEM,136
+Perry,06-Tell City 4,President,,Hillary Clinton,DEM,181
+Perry,07-Tell City 5,President,,Hillary Clinton,DEM,205
+Perry,08-Tell City 6,President,,Hillary Clinton,DEM,174
+Perry,09-Tell City 7,President,,Hillary Clinton,DEM,172
+Perry,10-Tell City 8,President,,Hillary Clinton,DEM,157
+Perry,19-Tobin,President,,Hillary Clinton,DEM,115
+Perry,13-Troy,President,,Hillary Clinton,DEM,54
+Perry,11-Troy twp 1,President,,Hillary Clinton,DEM,350
+Perry,12-Troy twp 2,President,,Hillary Clinton,DEM,178
+Perry,,President,,Hillary Clinton,DEM,3062
+Perry,14-Anderson,President,,Donald Trump,REP,406
+Perry,01-Cannelton 1,President,,Donald Trump,REP,77
+Perry,02-Cannelton 2,President,,Donald Trump,REP,217
+Perry,15-Clark 1,President,,Donald Trump,REP,189
+Perry,16-Clark 2,President,,Donald Trump,REP,174
+Perry,20-Derby,President,,Donald Trump,REP,70
+Perry,17-Leopold,President,,Donald Trump,REP,204
+Perry,18-Oil,President,,Donald Trump,REP,343
+Perry,21-Rono,President,,Donald Trump,REP,83
+Perry,03-Tell City 1,President,,Donald Trump,REP,252
+Perry,04-Tell City 2,President,,Donald Trump,REP,184
+Perry,05-Tell City 3,President,,Donald Trump,REP,203
+Perry,06-Tell City 4,President,,Donald Trump,REP,295
+Perry,07-Tell City 5,President,,Donald Trump,REP,226
+Perry,08-Tell City 6,President,,Donald Trump,REP,181
+Perry,09-Tell City 7,President,,Donald Trump,REP,197
+Perry,10-Tell City 8,President,,Donald Trump,REP,223
+Perry,19-Tobin,President,,Donald Trump,REP,232
+Perry,13-Troy,President,,Donald Trump,REP,81
+Perry,11-Troy twp 1,President,,Donald Trump,REP,450
+Perry,12-Troy twp 2,President,,Donald Trump,REP,269
+Perry,,President,,Donald Trump,REP,4556
+Perry,14-Anderson,President,,Gary Johnson,LBT,47
+Perry,01-Cannelton 1,President,,Gary Johnson,LBT,4
+Perry,02-Cannelton 2,President,,Gary Johnson,LBT,13
+Perry,15-Clark 1,President,,Gary Johnson,LBT,13
+Perry,16-Clark 2,President,,Gary Johnson,LBT,11
+Perry,20-Derby,President,,Gary Johnson,LBT,3
+Perry,17-Leopold,President,,Gary Johnson,LBT,26
+Perry,18-Oil,President,,Gary Johnson,LBT,30
+Perry,21-Rono,President,,Gary Johnson,LBT,6
+Perry,03-Tell City 1,President,,Gary Johnson,LBT,26
+Perry,04-Tell City 2,President,,Gary Johnson,LBT,22
+Perry,05-Tell City 3,President,,Gary Johnson,LBT,21
+Perry,06-Tell City 4,President,,Gary Johnson,LBT,21
+Perry,07-Tell City 5,President,,Gary Johnson,LBT,23
+Perry,08-Tell City 6,President,,Gary Johnson,LBT,17
+Perry,09-Tell City 7,President,,Gary Johnson,LBT,22
+Perry,10-Tell City 8,President,,Gary Johnson,LBT,24
+Perry,19-Tobin,President,,Gary Johnson,LBT,10
+Perry,13-Troy,President,,Gary Johnson,LBT,10
+Perry,11-Troy twp 1,President,,Gary Johnson,LBT,32
+Perry,12-Troy twp 2,President,,Gary Johnson,LBT,26
+Perry,,President,,Gary Johnson,LBT,407
+Perry,14-Anderson,President,,Write-ins,,8
+Perry,01-Cannelton 1,President,,Write-ins,,1
+Perry,02-Cannelton 2,President,,Write-ins,,3
+Perry,15-Clark 1,President,,Write-ins,,0
+Perry,16-Clark 2,President,,Write-ins,,0
+Perry,20-Derby,President,,Write-ins,,0
+Perry,17-Leopold,President,,Write-ins,,8
+Perry,18-Oil,President,,Write-ins,,0
+Perry,21-Rono,President,,Write-ins,,0
+Perry,03-Tell City 1,President,,Write-ins,,8
+Perry,04-Tell City 2,President,,Write-ins,,3
+Perry,05-Tell City 3,President,,Write-ins,,6
+Perry,06-Tell City 4,President,,Write-ins,,3
+Perry,07-Tell City 5,President,,Write-ins,,5
+Perry,08-Tell City 6,President,,Write-ins,,1
+Perry,09-Tell City 7,President,,Write-ins,,3
+Perry,10-Tell City 8,President,,Write-ins,,2
+Perry,19-Tobin,President,,Write-ins,,6
+Perry,13-Troy,President,,Write-ins,,0
+Perry,11-Troy twp 1,President,,Write-ins,,7
+Perry,12-Troy twp 2,President,,Write-ins,,0
+Perry,,President,,Write-ins,,64
+Perry,14-Anderson,U.S. Senate,,Evan Bayh,DEM,356
+Perry,01-Cannelton 1,U.S. Senate,,Evan Bayh,DEM,68
+Perry,02-Cannelton 2,U.S. Senate,,Evan Bayh,DEM,189
+Perry,15-Clark 1,U.S. Senate,,Evan Bayh,DEM,117
+Perry,16-Clark 2,U.S. Senate,,Evan Bayh,DEM,100
+Perry,20-Derby,U.S. Senate,,Evan Bayh,DEM,60
+Perry,17-Leopold,U.S. Senate,,Evan Bayh,DEM,186
+Perry,18-Oil,U.S. Senate,,Evan Bayh,DEM,212
+Perry,21-Rono,U.S. Senate,,Evan Bayh,DEM,68
+Perry,03-Tell City 1,U.S. Senate,,Evan Bayh,DEM,233
+Perry,04-Tell City 2,U.S. Senate,,Evan Bayh,DEM,182
+Perry,05-Tell City 3,U.S. Senate,,Evan Bayh,DEM,173
+Perry,06-Tell City 4,U.S. Senate,,Evan Bayh,DEM,247
+Perry,07-Tell City 5,U.S. Senate,,Evan Bayh,DEM,252
+Perry,08-Tell City 6,U.S. Senate,,Evan Bayh,DEM,211
+Perry,09-Tell City 7,U.S. Senate,,Evan Bayh,DEM,226
+Perry,10-Tell City 8,U.S. Senate,,Evan Bayh,DEM,212
+Perry,19-Tobin,U.S. Senate,,Evan Bayh,DEM,152
+Perry,13-Troy,U.S. Senate,,Evan Bayh,DEM,70
+Perry,11-Troy twp 1,U.S. Senate,,Evan Bayh,DEM,441
+Perry,12-Troy twp 2,U.S. Senate,,Evan Bayh,DEM,235
+Perry,,U.S. Senate,,Evan Bayh,DEM,3990
+Perry,14-Anderson,U.S. Senate,,Todd Young,REP,322
+Perry,01-Cannelton 1,U.S. Senate,,Todd Young,REP,52
+Perry,02-Cannelton 2,U.S. Senate,,Todd Young,REP,155
+Perry,15-Clark 1,U.S. Senate,,Todd Young,REP,148
+Perry,16-Clark 2,U.S. Senate,,Todd Young,REP,149
+Perry,20-Derby,U.S. Senate,,Todd Young,REP,62
+Perry,17-Leopold,U.S. Senate,,Todd Young,REP,167
+Perry,18-Oil,U.S. Senate,,Todd Young,REP,302
+Perry,21-Rono,U.S. Senate,,Todd Young,REP,60
+Perry,03-Tell City 1,U.S. Senate,,Todd Young,REP,214
+Perry,04-Tell City 2,U.S. Senate,,Todd Young,REP,149
+Perry,05-Tell City 3,U.S. Senate,,Todd Young,REP,163
+Perry,06-Tell City 4,U.S. Senate,,Todd Young,REP,214
+Perry,07-Tell City 5,U.S. Senate,,Todd Young,REP,180
+Perry,08-Tell City 6,U.S. Senate,,Todd Young,REP,152
+Perry,09-Tell City 7,U.S. Senate,,Todd Young,REP,140
+Perry,10-Tell City 8,U.S. Senate,,Todd Young,REP,170
+Perry,19-Tobin,U.S. Senate,,Todd Young,REP,190
+Perry,13-Troy,U.S. Senate,,Todd Young,REP,59
+Perry,11-Troy twp 1,U.S. Senate,,Todd Young,REP,355
+Perry,12-Troy twp 2,U.S. Senate,,Todd Young,REP,209
+Perry,,U.S. Senate,,Todd Young,REP,3612
+Perry,14-Anderson,U.S. Senate,,Lucy Brenton,LBT,34
+Perry,01-Cannelton 1,U.S. Senate,,Lucy Brenton,LBT,11
+Perry,02-Cannelton 2,U.S. Senate,,Lucy Brenton,LBT,18
+Perry,15-Clark 1,U.S. Senate,,Lucy Brenton,LBT,16
+Perry,16-Clark 2,U.S. Senate,,Lucy Brenton,LBT,15
+Perry,20-Derby,U.S. Senate,,Lucy Brenton,LBT,5
+Perry,17-Leopold,U.S. Senate,,Lucy Brenton,LBT,13
+Perry,18-Oil,U.S. Senate,,Lucy Brenton,LBT,17
+Perry,21-Rono,U.S. Senate,,Lucy Brenton,LBT,5
+Perry,03-Tell City 1,U.S. Senate,,Lucy Brenton,LBT,19
+Perry,04-Tell City 2,U.S. Senate,,Lucy Brenton,LBT,20
+Perry,05-Tell City 3,U.S. Senate,,Lucy Brenton,LBT,24
+Perry,06-Tell City 4,U.S. Senate,,Lucy Brenton,LBT,31
+Perry,07-Tell City 5,U.S. Senate,,Lucy Brenton,LBT,20
+Perry,08-Tell City 6,U.S. Senate,,Lucy Brenton,LBT,10
+Perry,09-Tell City 7,U.S. Senate,,Lucy Brenton,LBT,24
+Perry,10-Tell City 8,U.S. Senate,,Lucy Brenton,LBT,20
+Perry,19-Tobin,U.S. Senate,,Lucy Brenton,LBT,16
+Perry,13-Troy,U.S. Senate,,Lucy Brenton,LBT,11
+Perry,11-Troy twp 1,U.S. Senate,,Lucy Brenton,LBT,35
+Perry,12-Troy twp 2,U.S. Senate,,Lucy Brenton,LBT,24
+Perry,,U.S. Senate,,Lucy Brenton,LBT,388
+Perry,14-Anderson,Governor,,John Gregg,DEM,383
+Perry,01-Cannelton 1,Governor,,John Gregg,DEM,71
+Perry,02-Cannelton 2,Governor,,John Gregg,DEM,181
+Perry,15-Clark 1,Governor,,John Gregg,DEM,110
+Perry,16-Clark 2,Governor,,John Gregg,DEM,104
+Perry,20-Derby,Governor,,John Gregg,DEM,67
+Perry,17-Leopold,Governor,,John Gregg,DEM,210
+Perry,18-Oil,Governor,,John Gregg,DEM,233
+Perry,21-Rono,Governor,,John Gregg,DEM,67
+Perry,03-Tell City 1,Governor,,John Gregg,DEM,248
+Perry,04-Tell City 2,Governor,,John Gregg,DEM,198
+Perry,05-Tell City 3,Governor,,John Gregg,DEM,179
+Perry,06-Tell City 4,Governor,,John Gregg,DEM,252
+Perry,07-Tell City 5,Governor,,John Gregg,DEM,268
+Perry,08-Tell City 6,Governor,,John Gregg,DEM,209
+Perry,09-Tell City 7,Governor,,John Gregg,DEM,234
+Perry,10-Tell City 8,Governor,,John Gregg,DEM,224
+Perry,19-Tobin,Governor,,John Gregg,DEM,167
+Perry,13-Troy,Governor,,John Gregg,DEM,73
+Perry,11-Troy twp 1,Governor,,John Gregg,DEM,492
+Perry,12-Troy twp 2,Governor,,John Gregg,DEM,252
+Perry,,Governor,,John Gregg,DEM,4222
+Perry,14-Anderson,Governor,,Eric Holcomb,REP,301
+Perry,01-Cannelton 1,Governor,,Eric Holcomb,REP,54
+Perry,02-Cannelton 2,Governor,,Eric Holcomb,REP,160
+Perry,15-Clark 1,Governor,,Eric Holcomb,REP,160
+Perry,16-Clark 2,Governor,,Eric Holcomb,REP,154
+Perry,20-Derby,Governor,,Eric Holcomb,REP,58
+Perry,17-Leopold,Governor,,Eric Holcomb,REP,155
+Perry,18-Oil,Governor,,Eric Holcomb,REP,282
+Perry,21-Rono,Governor,,Eric Holcomb,REP,65
+Perry,03-Tell City 1,Governor,,Eric Holcomb,REP,212
+Perry,04-Tell City 2,Governor,,Eric Holcomb,REP,141
+Perry,05-Tell City 3,Governor,,Eric Holcomb,REP,167
+Perry,06-Tell City 4,Governor,,Eric Holcomb,REP,220
+Perry,07-Tell City 5,Governor,,Eric Holcomb,REP,174
+Perry,08-Tell City 6,Governor,,Eric Holcomb,REP,152
+Perry,09-Tell City 7,Governor,,Eric Holcomb,REP,144
+Perry,10-Tell City 8,Governor,,Eric Holcomb,REP,162
+Perry,19-Tobin,Governor,,Eric Holcomb,REP,178
+Perry,13-Troy,Governor,,Eric Holcomb,REP,59
+Perry,11-Troy twp 1,Governor,,Eric Holcomb,REP,317
+Perry,12-Troy twp 2,Governor,,Eric Holcomb,REP,205
+Perry,,Governor,,Eric Holcomb,REP,3520
+Perry,14-Anderson,Governor,,Rex Bell,LBT,18
+Perry,01-Cannelton 1,Governor,,Rex Bell,LBT,4
+Perry,02-Cannelton 2,Governor,,Rex Bell,LBT,15
+Perry,15-Clark 1,Governor,,Rex Bell,LBT,9
+Perry,16-Clark 2,Governor,,Rex Bell,LBT,6
+Perry,20-Derby,Governor,,Rex Bell,LBT,2
+Perry,17-Leopold,Governor,,Rex Bell,LBT,3
+Perry,18-Oil,Governor,,Rex Bell,LBT,9
+Perry,21-Rono,Governor,,Rex Bell,LBT,2
+Perry,03-Tell City 1,Governor,,Rex Bell,LBT,9
+Perry,04-Tell City 2,Governor,,Rex Bell,LBT,10
+Perry,05-Tell City 3,Governor,,Rex Bell,LBT,12
+Perry,06-Tell City 4,Governor,,Rex Bell,LBT,16
+Perry,07-Tell City 5,Governor,,Rex Bell,LBT,13
+Perry,08-Tell City 6,Governor,,Rex Bell,LBT,7
+Perry,09-Tell City 7,Governor,,Rex Bell,LBT,4
+Perry,10-Tell City 8,Governor,,Rex Bell,LBT,14
+Perry,19-Tobin,Governor,,Rex Bell,LBT,10
+Perry,13-Troy,Governor,,Rex Bell,LBT,7
+Perry,11-Troy twp 1,Governor,,Rex Bell,LBT,14
+Perry,12-Troy twp 2,Governor,,Rex Bell,LBT,9
+Perry,,Governor,,Rex Bell,LBT,193
+Perry,14-Anderson,Attorney General,,Lorenzo Arredondo,DEM,292
+Perry,01-Cannelton 1,Attorney General,,Lorenzo Arredondo,DEM,60
+Perry,02-Cannelton 2,Attorney General,,Lorenzo Arredondo,DEM,158
+Perry,15-Clark 1,Attorney General,,Lorenzo Arredondo,DEM,100
+Perry,16-Clark 2,Attorney General,,Lorenzo Arredondo,DEM,81
+Perry,20-Derby,Attorney General,,Lorenzo Arredondo,DEM,47
+Perry,17-Leopold,Attorney General,,Lorenzo Arredondo,DEM,153
+Perry,18-Oil,Attorney General,,Lorenzo Arredondo,DEM,170
+Perry,21-Rono,Attorney General,,Lorenzo Arredondo,DEM,58
+Perry,03-Tell City 1,Attorney General,,Lorenzo Arredondo,DEM,205
+Perry,04-Tell City 2,Attorney General,,Lorenzo Arredondo,DEM,165
+Perry,05-Tell City 3,Attorney General,,Lorenzo Arredondo,DEM,144
+Perry,06-Tell City 4,Attorney General,,Lorenzo Arredondo,DEM,190
+Perry,07-Tell City 5,Attorney General,,Lorenzo Arredondo,DEM,230
+Perry,08-Tell City 6,Attorney General,,Lorenzo Arredondo,DEM,179
+Perry,09-Tell City 7,Attorney General,,Lorenzo Arredondo,DEM,193
+Perry,10-Tell City 8,Attorney General,,Lorenzo Arredondo,DEM,175
+Perry,19-Tobin,Attorney General,,Lorenzo Arredondo,DEM,127
+Perry,13-Troy,Attorney General,,Lorenzo Arredondo,DEM,62
+Perry,11-Troy twp 1,Attorney General,,Lorenzo Arredondo,DEM,375
+Perry,12-Troy twp 2,Attorney General,,Lorenzo Arredondo,DEM,195
+Perry,,Attorney General,,Lorenzo Arredondo,DEM,3359
+Perry,14-Anderson,Attorney General,,Curtis Hill,REP,367
+Perry,01-Cannelton 1,Attorney General,,Curtis Hill,REP,65
+Perry,02-Cannelton 2,Attorney General,,Curtis Hill,REP,181
+Perry,15-Clark 1,Attorney General,,Curtis Hill,REP,175
+Perry,16-Clark 2,Attorney General,,Curtis Hill,REP,169
+Perry,20-Derby,Attorney General,,Curtis Hill,REP,71
+Perry,17-Leopold,Attorney General,,Curtis Hill,REP,183
+Perry,18-Oil,Attorney General,,Curtis Hill,REP,320
+Perry,21-Rono,Attorney General,,Curtis Hill,REP,69
+Perry,03-Tell City 1,Attorney General,,Curtis Hill,REP,246
+Perry,04-Tell City 2,Attorney General,,Curtis Hill,REP,175
+Perry,05-Tell City 3,Attorney General,,Curtis Hill,REP,195
+Perry,06-Tell City 4,Attorney General,,Curtis Hill,REP,282
+Perry,07-Tell City 5,Attorney General,,Curtis Hill,REP,205
+Perry,08-Tell City 6,Attorney General,,Curtis Hill,REP,179
+Perry,09-Tell City 7,Attorney General,,Curtis Hill,REP,173
+Perry,10-Tell City 8,Attorney General,,Curtis Hill,REP,199
+Perry,19-Tobin,Attorney General,,Curtis Hill,REP,206
+Perry,13-Troy,Attorney General,,Curtis Hill,REP,72
+Perry,11-Troy twp 1,Attorney General,,Curtis Hill,REP,411
+Perry,12-Troy twp 2,Attorney General,,Curtis Hill,REP,243
+Perry,,Attorney General,,Curtis Hill,REP,4186
+Perry,14-Anderson,Public Instruction,,Glenda Ritz,DEM,374
+Perry,01-Cannelton 1,Public Instruction,,Glenda Ritz,DEM,70
+Perry,02-Cannelton 2,Public Instruction,,Glenda Ritz,DEM,160
+Perry,15-Clark 1,Public Instruction,,Glenda Ritz,DEM,124
+Perry,16-Clark 2,Public Instruction,,Glenda Ritz,DEM,109
+Perry,20-Derby,Public Instruction,,Glenda Ritz,DEM,59
+Perry,17-Leopold,Public Instruction,,Glenda Ritz,DEM,183
+Perry,18-Oil,Public Instruction,,Glenda Ritz,DEM,222
+Perry,21-Rono,Public Instruction,,Glenda Ritz,DEM,69
+Perry,03-Tell City 1,Public Instruction,,Glenda Ritz,DEM,250
+Perry,04-Tell City 2,Public Instruction,,Glenda Ritz,DEM,183
+Perry,05-Tell City 3,Public Instruction,,Glenda Ritz,DEM,169
+Perry,06-Tell City 4,Public Instruction,,Glenda Ritz,DEM,238
+Perry,07-Tell City 5,Public Instruction,,Glenda Ritz,DEM,250
+Perry,08-Tell City 6,Public Instruction,,Glenda Ritz,DEM,210
+Perry,09-Tell City 7,Public Instruction,,Glenda Ritz,DEM,208
+Perry,10-Tell City 8,Public Instruction,,Glenda Ritz,DEM,199
+Perry,19-Tobin,Public Instruction,,Glenda Ritz,DEM,166
+Perry,13-Troy,Public Instruction,,Glenda Ritz,DEM,75
+Perry,11-Troy twp 1,Public Instruction,,Glenda Ritz,DEM,448
+Perry,12-Troy twp 2,Public Instruction,,Glenda Ritz,DEM,228
+Perry,,Public Instruction,,Glenda Ritz,DEM,3994
+Perry,14-Anderson,Public Instruction,,Jennifer McCormick,REP,300
+Perry,01-Cannelton 1,Public Instruction,,Jennifer McCormick,REP,55
+Perry,02-Cannelton 2,Public Instruction,,Jennifer McCormick,REP,187
+Perry,15-Clark 1,Public Instruction,,Jennifer McCormick,REP,151
+Perry,16-Clark 2,Public Instruction,,Jennifer McCormick,REP,146
+Perry,20-Derby,Public Instruction,,Jennifer McCormick,REP,60
+Perry,17-Leopold,Public Instruction,,Jennifer McCormick,REP,164
+Perry,18-Oil,Public Instruction,,Jennifer McCormick,REP,282
+Perry,21-Rono,Public Instruction,,Jennifer McCormick,REP,62
+Perry,03-Tell City 1,Public Instruction,,Jennifer McCormick,REP,208
+Perry,04-Tell City 2,Public Instruction,,Jennifer McCormick,REP,164
+Perry,05-Tell City 3,Public Instruction,,Jennifer McCormick,REP,179
+Perry,06-Tell City 4,Public Instruction,,Jennifer McCormick,REP,244
+Perry,07-Tell City 5,Public Instruction,,Jennifer McCormick,REP,190
+Perry,08-Tell City 6,Public Instruction,,Jennifer McCormick,REP,149
+Perry,09-Tell City 7,Public Instruction,,Jennifer McCormick,REP,164
+Perry,10-Tell City 8,Public Instruction,,Jennifer McCormick,REP,184
+Perry,19-Tobin,Public Instruction,,Jennifer McCormick,REP,177
+Perry,13-Troy,Public Instruction,,Jennifer McCormick,REP,62
+Perry,11-Troy twp 1,Public Instruction,,Jennifer McCormick,REP,357
+Perry,12-Troy twp 2,Public Instruction,,Jennifer McCormick,REP,224
+Perry,,Public Instruction,,Jennifer McCormick,REP,3709
+Perry,14-Anderson,U.S. House,8,Ron Drake,DEM,267
+Perry,01-Cannelton 1,U.S. House,8,Ron Drake,DEM,64
+Perry,02-Cannelton 2,U.S. House,8,Ron Drake,DEM,153
+Perry,15-Clark 1,U.S. House,8,Ron Drake,DEM,95
+Perry,16-Clark 2,U.S. House,8,Ron Drake,DEM,79
+Perry,20-Derby,U.S. House,8,Ron Drake,DEM,45
+Perry,17-Leopold,U.S. House,8,Ron Drake,DEM,146
+Perry,18-Oil,U.S. House,8,Ron Drake,DEM,180
+Perry,21-Rono,U.S. House,8,Ron Drake,DEM,54
+Perry,03-Tell City 1,U.S. House,8,Ron Drake,DEM,192
+Perry,04-Tell City 2,U.S. House,8,Ron Drake,DEM,151
+Perry,05-Tell City 3,U.S. House,8,Ron Drake,DEM,138
+Perry,06-Tell City 4,U.S. House,8,Ron Drake,DEM,188
+Perry,07-Tell City 5,U.S. House,8,Ron Drake,DEM,219
+Perry,08-Tell City 6,U.S. House,8,Ron Drake,DEM,169
+Perry,09-Tell City 7,U.S. House,8,Ron Drake,DEM,183
+Perry,10-Tell City 8,U.S. House,8,Ron Drake,DEM,162
+Perry,19-Tobin,U.S. House,8,Ron Drake,DEM,123
+Perry,13-Troy,U.S. House,8,Ron Drake,DEM,54
+Perry,11-Troy twp 1,U.S. House,8,Ron Drake,DEM,347
+Perry,12-Troy twp 2,U.S. House,8,Ron Drake,DEM,180
+Perry,,U.S. House,8,Ron Drake,DEM,3189
+Perry,14-Anderson,U.S. House,8,Larry Bucshon,REP,397
+Perry,01-Cannelton 1,U.S. House,8,Larry Bucshon,REP,61
+Perry,02-Cannelton 2,U.S. House,8,Larry Bucshon,REP,187
+Perry,15-Clark 1,U.S. House,8,Larry Bucshon,REP,171
+Perry,16-Clark 2,U.S. House,8,Larry Bucshon,REP,170
+Perry,20-Derby,U.S. House,8,Larry Bucshon,REP,73
+Perry,17-Leopold,U.S. House,8,Larry Bucshon,REP,195
+Perry,18-Oil,U.S. House,8,Larry Bucshon,REP,307
+Perry,21-Rono,U.S. House,8,Larry Bucshon,REP,73
+Perry,03-Tell City 1,U.S. House,8,Larry Bucshon,REP,262
+Perry,04-Tell City 2,U.S. House,8,Larry Bucshon,REP,175
+Perry,05-Tell City 3,U.S. House,8,Larry Bucshon,REP,196
+Perry,06-Tell City 4,U.S. House,8,Larry Bucshon,REP,283
+Perry,07-Tell City 5,U.S. House,8,Larry Bucshon,REP,206
+Perry,08-Tell City 6,U.S. House,8,Larry Bucshon,REP,187
+Perry,09-Tell City 7,U.S. House,8,Larry Bucshon,REP,177
+Perry,10-Tell City 8,U.S. House,8,Larry Bucshon,REP,201
+Perry,19-Tobin,U.S. House,8,Larry Bucshon,REP,215
+Perry,13-Troy,U.S. House,8,Larry Bucshon,REP,76
+Perry,11-Troy twp 1,U.S. House,8,Larry Bucshon,REP,442
+Perry,12-Troy twp 2,U.S. House,8,Larry Bucshon,REP,255
+Perry,,U.S. House,8,Larry Bucshon,REP,4309
+Perry,14-Anderson,U.S. House,8,Andrew Horning,LBT,35
+Perry,01-Cannelton 1,U.S. House,8,Andrew Horning,LBT,4
+Perry,02-Cannelton 2,U.S. House,8,Andrew Horning,LBT,18
+Perry,15-Clark 1,U.S. House,8,Andrew Horning,LBT,14
+Perry,16-Clark 2,U.S. House,8,Andrew Horning,LBT,10
+Perry,20-Derby,U.S. House,8,Andrew Horning,LBT,4
+Perry,17-Leopold,U.S. House,8,Andrew Horning,LBT,12
+Perry,18-Oil,U.S. House,8,Andrew Horning,LBT,18
+Perry,21-Rono,U.S. House,8,Andrew Horning,LBT,3
+Perry,03-Tell City 1,U.S. House,8,Andrew Horning,LBT,10
+Perry,04-Tell City 2,U.S. House,8,Andrew Horning,LBT,19
+Perry,05-Tell City 3,U.S. House,8,Andrew Horning,LBT,19
+Perry,06-Tell City 4,U.S. House,8,Andrew Horning,LBT,17
+Perry,07-Tell City 5,U.S. House,8,Andrew Horning,LBT,21
+Perry,08-Tell City 6,U.S. House,8,Andrew Horning,LBT,11
+Perry,09-Tell City 7,U.S. House,8,Andrew Horning,LBT,16
+Perry,10-Tell City 8,U.S. House,8,Andrew Horning,LBT,24
+Perry,19-Tobin,U.S. House,8,Andrew Horning,LBT,8
+Perry,13-Troy,U.S. House,8,Andrew Horning,LBT,8
+Perry,11-Troy twp 1,U.S. House,8,Andrew Horning,LBT,25
+Perry,12-Troy twp 2,U.S. House,8,Andrew Horning,LBT,22
+Perry,,U.S. House,8,Andrew Horning,LBT,318
+Perry,14-Anderson,U.S. House,8,Write-ins,,0
+Perry,01-Cannelton 1,U.S. House,8,Write-ins,,0
+Perry,02-Cannelton 2,U.S. House,8,Write-ins,,0
+Perry,15-Clark 1,U.S. House,8,Write-ins,,0
+Perry,16-Clark 2,U.S. House,8,Write-ins,,0
+Perry,20-Derby,U.S. House,8,Write-ins,,0
+Perry,17-Leopold,U.S. House,8,Write-ins,,0
+Perry,18-Oil,U.S. House,8,Write-ins,,1
+Perry,21-Rono,U.S. House,8,Write-ins,,0
+Perry,03-Tell City 1,U.S. House,8,Write-ins,,0
+Perry,04-Tell City 2,U.S. House,8,Write-ins,,0
+Perry,05-Tell City 3,U.S. House,8,Write-ins,,0
+Perry,06-Tell City 4,U.S. House,8,Write-ins,,0
+Perry,07-Tell City 5,U.S. House,8,Write-ins,,0
+Perry,08-Tell City 6,U.S. House,8,Write-ins,,1
+Perry,09-Tell City 7,U.S. House,8,Write-ins,,0
+Perry,10-Tell City 8,U.S. House,8,Write-ins,,0
+Perry,19-Tobin,U.S. House,8,Write-ins,,0
+Perry,13-Troy,U.S. House,8,Write-ins,,0
+Perry,11-Troy twp 1,U.S. House,8,Write-ins,,0
+Perry,12-Troy twp 2,U.S. House,8,Write-ins,,0
+Perry,,U.S. House,8,Write-ins,,2
+Perry,14-Anderson,State House,74,Larry Kleeman,DEM,311
+Perry,01-Cannelton 1,State House,74,Larry Kleeman,DEM,75
+Perry,02-Cannelton 2,State House,74,Larry Kleeman,DEM,190
+Perry,15-Clark 1,State House,74,Larry Kleeman,DEM,100
+Perry,16-Clark 2,State House,74,Larry Kleeman,DEM,98
+Perry,20-Derby,State House,74,Larry Kleeman,DEM,60
+Perry,17-Leopold,State House,74,Larry Kleeman,DEM,158
+Perry,18-Oil,State House,74,Larry Kleeman,DEM,187
+Perry,21-Rono,State House,74,Larry Kleeman,DEM,55
+Perry,03-Tell City 1,State House,74,Larry Kleeman,DEM,270
+Perry,04-Tell City 2,State House,74,Larry Kleeman,DEM,204
+Perry,05-Tell City 3,State House,74,Larry Kleeman,DEM,197
+Perry,06-Tell City 4,State House,74,Larry Kleeman,DEM,276
+Perry,07-Tell City 5,State House,74,Larry Kleeman,DEM,266
+Perry,08-Tell City 6,State House,74,Larry Kleeman,DEM,235
+Perry,09-Tell City 7,State House,74,Larry Kleeman,DEM,224
+Perry,10-Tell City 8,State House,74,Larry Kleeman,DEM,228
+Perry,19-Tobin,State House,74,Larry Kleeman,DEM,154
+Perry,13-Troy,State House,74,Larry Kleeman,DEM,79
+Perry,11-Troy twp 1,State House,74,Larry Kleeman,DEM,460
+Perry,12-Troy twp 2,State House,74,Larry Kleeman,DEM,260
+Perry,,State House,74,Larry Kleeman,DEM,4087
+Perry,14-Anderson,State House,74,Lloyd Arnold,REP,404
+Perry,01-Cannelton 1,State House,74,Lloyd Arnold,REP,53
+Perry,02-Cannelton 2,State House,74,Lloyd Arnold,REP,173
+Perry,15-Clark 1,State House,74,Lloyd Arnold,REP,185
+Perry,16-Clark 2,State House,74,Lloyd Arnold,REP,167
+Perry,20-Derby,State House,74,Lloyd Arnold,REP,66
+Perry,17-Leopold,State House,74,Lloyd Arnold,REP,217
+Perry,18-Oil,State House,74,Lloyd Arnold,REP,340
+Perry,21-Rono,State House,74,Lloyd Arnold,REP,79
+Perry,03-Tell City 1,State House,74,Lloyd Arnold,REP,200
+Perry,04-Tell City 2,State House,74,Lloyd Arnold,REP,153
+Perry,05-Tell City 3,State House,74,Lloyd Arnold,REP,164
+Perry,06-Tell City 4,State House,74,Lloyd Arnold,REP,219
+Perry,07-Tell City 5,State House,74,Lloyd Arnold,REP,189
+Perry,08-Tell City 6,State House,74,Lloyd Arnold,REP,139
+Perry,09-Tell City 7,State House,74,Lloyd Arnold,REP,166
+Perry,10-Tell City 8,State House,74,Lloyd Arnold,REP,181
+Perry,19-Tobin,State House,74,Lloyd Arnold,REP,203
+Perry,13-Troy,State House,74,Lloyd Arnold,REP,66
+Perry,11-Troy twp 1,State House,74,Lloyd Arnold,REP,373
+Perry,12-Troy twp 2,State House,74,Lloyd Arnold,REP,210
+Perry,,State House,74,Lloyd Arnold,REP,3947

@@ -1,0 +1,510 @@
+county,precinct,office,district,party,candidate,votes
+Orange,01-French Lick 1,Voters,,,Registered,576
+Orange,02-FLE West Baden,Voters,,,Registered,889
+Orange,03-French Lick N,Voters,,,Registered,766
+Orange,04-French Lick S,Voters,,,Registered,839
+Orange,05-French Lick W,Voters,,,Registered,770
+Orange,06-FLW-West Baden,Voters,,,Registered,295
+Orange,07-Greenfield,Voters,,,Registered,565
+Orange,08-Jackson,Voters,,,Registered,689
+Orange,09-Northeast Only,Voters,,,Registered,460
+Orange,10-Northwest Only,Voters,,,Registered,293
+Orange,11-Orangeville,Voters,,,Registered,518
+Orange,12-Orleans E,Voters,,,Registered,891
+Orange,13-Orleans NW,Voters,,,Registered,856
+Orange,14-Orleans SW,Voters,,,Registered,988
+Orange,15-Paoli N,Voters,,,Registered,324
+Orange,16-Paoli NE,Voters,,,Registered,762
+Orange,17-Paoli NW,Voters,,,Registered,1098
+Orange,18-Paoli S,Voters,,,Registered,270
+Orange,19-Paoli SE,Voters,,,Registered,1097
+Orange,20-Paoli SW,Voters,,,Registered,931
+Orange,21-Southeast Only,Voters,,,Registered,1290
+Orange,22-Stampers Ck,Voters,,,Registered,569
+Orange,,Voters,,,Registered,15736
+Orange,01-French Lick 1,Voters,,,Ballots Cast,219
+Orange,02-FLE West Baden,Voters,,,Ballots Cast,470
+Orange,03-French Lick N,Voters,,,Ballots Cast,438
+Orange,04-French Lick S,Voters,,,Ballots Cast,434
+Orange,05-French Lick W,Voters,,,Ballots Cast,364
+Orange,06-FLW-West Baden,Voters,,,Ballots Cast,163
+Orange,07-Greenfield,Voters,,,Ballots Cast,323
+Orange,08-Jackson,Voters,,,Ballots Cast,392
+Orange,09-Northeast Only,Voters,,,Ballots Cast,271
+Orange,10-Northwest Only,Voters,,,Ballots Cast,157
+Orange,11-Orangeville,Voters,,,Ballots Cast,312
+Orange,12-Orleans E,Voters,,,Ballots Cast,477
+Orange,13-Orleans NW,Voters,,,Ballots Cast,459
+Orange,14-Orleans SW,Voters,,,Ballots Cast,567
+Orange,15-Paoli N,Voters,,,Ballots Cast,155
+Orange,16-Paoli NE,Voters,,,Ballots Cast,454
+Orange,17-Paoli NW,Voters,,,Ballots Cast,552
+Orange,18-Paoli S,Voters,,,Ballots Cast,130
+Orange,19-Paoli SE,Voters,,,Ballots Cast,638
+Orange,20-Paoli SW,Voters,,,Ballots Cast,513
+Orange,21-Southeast Only,Voters,,,Ballots Cast,646
+Orange,22-Stampers Ck,Voters,,,Ballots Cast,340
+Orange,,Voters,,,Ballots Cast,8474
+Orange,01-French Lick 1,President,,REP,Donald Trump,124
+Orange,02-FLE West Baden,President,,REP,Donald Trump,306
+Orange,03-French Lick N,President,,REP,Donald Trump,293
+Orange,04-French Lick S,President,,REP,Donald Trump,273
+Orange,05-French Lick W,President,,REP,Donald Trump,237
+Orange,06-FLW-West Baden,President,,REP,Donald Trump,115
+Orange,07-Greenfield,President,,REP,Donald Trump,221
+Orange,08-Jackson,President,,REP,Donald Trump,274
+Orange,09-Northeast Only,President,,REP,Donald Trump,219
+Orange,10-Northwest Only,President,,REP,Donald Trump,112
+Orange,11-Orangeville,President,,REP,Donald Trump,242
+Orange,12-Orleans E,President,,REP,Donald Trump,346
+Orange,13-Orleans NW,President,,REP,Donald Trump,344
+Orange,14-Orleans SW,President,,REP,Donald Trump,413
+Orange,15-Paoli N,President,,REP,Donald Trump,88
+Orange,16-Paoli NE,President,,REP,Donald Trump,289
+Orange,17-Paoli NW,President,,REP,Donald Trump,361
+Orange,18-Paoli S,President,,REP,Donald Trump,80
+Orange,19-Paoli SE,President,,REP,Donald Trump,417
+Orange,20-Paoli SW,President,,REP,Donald Trump,327
+Orange,21-Southeast Only,President,,REP,Donald Trump,479
+Orange,22-Stampers Ck,President,,REP,Donald Trump,243
+Orange,,President,,REP,Donald Trump,5803
+Orange,01-French Lick 1,President,,DEM,Hillary Clinton,75
+Orange,02-FLE West Baden,President,,DEM,Hillary Clinton,125
+Orange,03-French Lick N,President,,DEM,Hillary Clinton,100
+Orange,04-French Lick S,President,,DEM,Hillary Clinton,124
+Orange,05-French Lick W,President,,DEM,Hillary Clinton,106
+Orange,06-FLW-West Baden,President,,DEM,Hillary Clinton,40
+Orange,07-Greenfield,President,,DEM,Hillary Clinton,83
+Orange,08-Jackson,President,,DEM,Hillary Clinton,98
+Orange,09-Northeast Only,President,,DEM,Hillary Clinton,40
+Orange,10-Northwest Only,President,,DEM,Hillary Clinton,34
+Orange,11-Orangeville,President,,DEM,Hillary Clinton,52
+Orange,12-Orleans E,President,,DEM,Hillary Clinton,103
+Orange,13-Orleans NW,President,,DEM,Hillary Clinton,75
+Orange,14-Orleans SW,President,,DEM,Hillary Clinton,123
+Orange,15-Paoli N,President,,DEM,Hillary Clinton,51
+Orange,16-Paoli NE,President,,DEM,Hillary Clinton,126
+Orange,17-Paoli NW,President,,DEM,Hillary Clinton,143
+Orange,18-Paoli S,President,,DEM,Hillary Clinton,37
+Orange,19-Paoli SE,President,,DEM,Hillary Clinton,164
+Orange,20-Paoli SW,President,,DEM,Hillary Clinton,132
+Orange,21-Southeast Only,President,,DEM,Hillary Clinton,141
+Orange,22-Stampers Ck,President,,DEM,Hillary Clinton,76
+Orange,,President,,DEM,Hillary Clinton,2048
+Orange,01-French Lick 1,President,,LBT,Gary Johnson,9
+Orange,02-FLE West Baden,President,,LBT,Gary Johnson,15
+Orange,03-French Lick N,President,,LBT,Gary Johnson,21
+Orange,04-French Lick S,President,,LBT,Gary Johnson,21
+Orange,05-French Lick W,President,,LBT,Gary Johnson,14
+Orange,06-FLW-West Baden,President,,LBT,Gary Johnson,3
+Orange,07-Greenfield,President,,LBT,Gary Johnson,13
+Orange,08-Jackson,President,,LBT,Gary Johnson,13
+Orange,09-Northeast Only,President,,LBT,Gary Johnson,8
+Orange,10-Northwest Only,President,,LBT,Gary Johnson,4
+Orange,11-Orangeville,President,,LBT,Gary Johnson,9
+Orange,12-Orleans E,President,,LBT,Gary Johnson,12
+Orange,13-Orleans NW,President,,LBT,Gary Johnson,16
+Orange,14-Orleans SW,President,,LBT,Gary Johnson,15
+Orange,15-Paoli N,President,,LBT,Gary Johnson,14
+Orange,16-Paoli NE,President,,LBT,Gary Johnson,22
+Orange,17-Paoli NW,President,,LBT,Gary Johnson,27
+Orange,18-Paoli S,President,,LBT,Gary Johnson,10
+Orange,19-Paoli SE,President,,LBT,Gary Johnson,36
+Orange,20-Paoli SW,President,,LBT,Gary Johnson,27
+Orange,21-Southeast Only,President,,LBT,Gary Johnson,16
+Orange,22-Stampers Ck,President,,LBT,Gary Johnson,16
+Orange,,President,,LBT,Gary Johnson,341
+Orange,01-French Lick 1,President,,,Write-ins,3
+Orange,02-FLE West Baden,President,,,Write-ins,11
+Orange,03-French Lick N,President,,,Write-ins,4
+Orange,04-French Lick S,President,,,Write-ins,4
+Orange,05-French Lick W,President,,,Write-ins,1
+Orange,06-FLW-West Baden,President,,,Write-ins,4
+Orange,07-Greenfield,President,,,Write-ins,0
+Orange,08-Jackson,President,,,Write-ins,3
+Orange,09-Northeast Only,President,,,Write-ins,0
+Orange,10-Northwest Only,President,,,Write-ins,2
+Orange,11-Orangeville,President,,,Write-ins,3
+Orange,12-Orleans E,President,,,Write-ins,6
+Orange,13-Orleans NW,President,,,Write-ins,8
+Orange,14-Orleans SW,President,,,Write-ins,2
+Orange,15-Paoli N,President,,,Write-ins,2
+Orange,16-Paoli NE,President,,,Write-ins,5
+Orange,17-Paoli NW,President,,,Write-ins,4
+Orange,18-Paoli S,President,,,Write-ins,1
+Orange,19-Paoli SE,President,,,Write-ins,7
+Orange,20-Paoli SW,President,,,Write-ins,10
+Orange,21-Southeast Only,President,,,Write-ins,4
+Orange,22-Stampers Ck,President,,,Write-ins,2
+Orange,,President,,,Write-ins,86
+Orange,01-French Lick 1,U.S. Senate,,REP,Todd Young,116
+Orange,02-FLE West Baden,U.S. Senate,,REP,Todd Young,270
+Orange,03-French Lick N,U.S. Senate,,REP,Todd Young,277
+Orange,04-French Lick S,U.S. Senate,,REP,Todd Young,250
+Orange,05-French Lick W,U.S. Senate,,REP,Todd Young,214
+Orange,06-FLW-West Baden,U.S. Senate,,REP,Todd Young,94
+Orange,07-Greenfield,U.S. Senate,,REP,Todd Young,199
+Orange,08-Jackson,U.S. Senate,,REP,Todd Young,219
+Orange,09-Northeast Only,U.S. Senate,,REP,Todd Young,192
+Orange,10-Northwest Only,U.S. Senate,,REP,Todd Young,98
+Orange,11-Orangeville,U.S. Senate,,REP,Todd Young,211
+Orange,12-Orleans E,U.S. Senate,,REP,Todd Young,311
+Orange,13-Orleans NW,U.S. Senate,,REP,Todd Young,307
+Orange,14-Orleans SW,U.S. Senate,,REP,Todd Young,372
+Orange,15-Paoli N,U.S. Senate,,REP,Todd Young,76
+Orange,16-Paoli NE,U.S. Senate,,REP,Todd Young,250
+Orange,17-Paoli NW,U.S. Senate,,REP,Todd Young,332
+Orange,18-Paoli S,U.S. Senate,,REP,Todd Young,71
+Orange,19-Paoli SE,U.S. Senate,,REP,Todd Young,367
+Orange,20-Paoli SW,U.S. Senate,,REP,Todd Young,301
+Orange,21-Southeast Only,U.S. Senate,,REP,Todd Young,394
+Orange,22-Stampers Ck,U.S. Senate,,REP,Todd Young,213
+Orange,,U.S. Senate,,REP,Todd Young,5134
+Orange,01-French Lick 1,U.S. Senate,,DEM,Evan Bayh,85
+Orange,02-FLE West Baden,U.S. Senate,,DEM,Evan Bayh,163
+Orange,03-French Lick N,U.S. Senate,,DEM,Evan Bayh,133
+Orange,04-French Lick S,U.S. Senate,,DEM,Evan Bayh,152
+Orange,05-French Lick W,U.S. Senate,,DEM,Evan Bayh,122
+Orange,06-FLW-West Baden,U.S. Senate,,DEM,Evan Bayh,60
+Orange,07-Greenfield,U.S. Senate,,DEM,Evan Bayh,109
+Orange,08-Jackson,U.S. Senate,,DEM,Evan Bayh,155
+Orange,09-Northeast Only,U.S. Senate,,DEM,Evan Bayh,65
+Orange,10-Northwest Only,U.S. Senate,,DEM,Evan Bayh,49
+Orange,11-Orangeville,U.S. Senate,,DEM,Evan Bayh,86
+Orange,12-Orleans E,U.S. Senate,,DEM,Evan Bayh,130
+Orange,13-Orleans NW,U.S. Senate,,DEM,Evan Bayh,123
+Orange,14-Orleans SW,U.S. Senate,,DEM,Evan Bayh,172
+Orange,15-Paoli N,U.S. Senate,,DEM,Evan Bayh,55
+Orange,16-Paoli NE,U.S. Senate,,DEM,Evan Bayh,164
+Orange,17-Paoli NW,U.S. Senate,,DEM,Evan Bayh,183
+Orange,18-Paoli S,U.S. Senate,,DEM,Evan Bayh,52
+Orange,19-Paoli SE,U.S. Senate,,DEM,Evan Bayh,233
+Orange,20-Paoli SW,U.S. Senate,,DEM,Evan Bayh,177
+Orange,21-Southeast Only,U.S. Senate,,DEM,Evan Bayh,214
+Orange,22-Stampers Ck,U.S. Senate,,DEM,Evan Bayh,113
+Orange,,U.S. Senate,,DEM,Evan Bayh,2795
+Orange,01-French Lick 1,U.S. Senate,,LBT,Lucy Brenton,12
+Orange,02-FLE West Baden,U.S. Senate,,LBT,Lucy Brenton,23
+Orange,03-French Lick N,U.S. Senate,,LBT,Lucy Brenton,16
+Orange,04-French Lick S,U.S. Senate,,LBT,Lucy Brenton,19
+Orange,05-French Lick W,U.S. Senate,,LBT,Lucy Brenton,11
+Orange,06-FLW-West Baden,U.S. Senate,,LBT,Lucy Brenton,5
+Orange,07-Greenfield,U.S. Senate,,LBT,Lucy Brenton,6
+Orange,08-Jackson,U.S. Senate,,LBT,Lucy Brenton,9
+Orange,09-Northeast Only,U.S. Senate,,LBT,Lucy Brenton,8
+Orange,10-Northwest Only,U.S. Senate,,LBT,Lucy Brenton,5
+Orange,11-Orangeville,U.S. Senate,,LBT,Lucy Brenton,11
+Orange,12-Orleans E,U.S. Senate,,LBT,Lucy Brenton,12
+Orange,13-Orleans NW,U.S. Senate,,LBT,Lucy Brenton,16
+Orange,14-Orleans SW,U.S. Senate,,LBT,Lucy Brenton,10
+Orange,15-Paoli N,U.S. Senate,,LBT,Lucy Brenton,15
+Orange,16-Paoli NE,U.S. Senate,,LBT,Lucy Brenton,24
+Orange,17-Paoli NW,U.S. Senate,,LBT,Lucy Brenton,15
+Orange,18-Paoli S,U.S. Senate,,LBT,Lucy Brenton,4
+Orange,19-Paoli SE,U.S. Senate,,LBT,Lucy Brenton,19
+Orange,20-Paoli SW,U.S. Senate,,LBT,Lucy Brenton,24
+Orange,21-Southeast Only,U.S. Senate,,LBT,Lucy Brenton,20
+Orange,22-Stampers Ck,U.S. Senate,,LBT,Lucy Brenton,7
+Orange,,U.S. Senate,,LBT,Lucy Brenton,291
+Orange,01-French Lick 1,U.S. Senate,,,Write-ins,0
+Orange,02-FLE West Baden,U.S. Senate,,,Write-ins,0
+Orange,03-French Lick N,U.S. Senate,,,Write-ins,0
+Orange,04-French Lick S,U.S. Senate,,,Write-ins,1
+Orange,05-French Lick W,U.S. Senate,,,Write-ins,0
+Orange,06-FLW-West Baden,U.S. Senate,,,Write-ins,0
+Orange,07-Greenfield,U.S. Senate,,,Write-ins,0
+Orange,08-Jackson,U.S. Senate,,,Write-ins,0
+Orange,09-Northeast Only,U.S. Senate,,,Write-ins,0
+Orange,10-Northwest Only,U.S. Senate,,,Write-ins,0
+Orange,11-Orangeville,U.S. Senate,,,Write-ins,0
+Orange,12-Orleans E,U.S. Senate,,,Write-ins,0
+Orange,13-Orleans NW,U.S. Senate,,,Write-ins,0
+Orange,14-Orleans SW,U.S. Senate,,,Write-ins,0
+Orange,15-Paoli N,U.S. Senate,,,Write-ins,1
+Orange,16-Paoli NE,U.S. Senate,,,Write-ins,0
+Orange,17-Paoli NW,U.S. Senate,,,Write-ins,0
+Orange,18-Paoli S,U.S. Senate,,,Write-ins,0
+Orange,19-Paoli SE,U.S. Senate,,,Write-ins,0
+Orange,20-Paoli SW,U.S. Senate,,,Write-ins,0
+Orange,21-Southeast Only,U.S. Senate,,,Write-ins,1
+Orange,22-Stampers Ck,U.S. Senate,,,Write-ins,0
+Orange,,U.S. Senate,,,Write-ins,3
+Orange,01-French Lick 1,Governor,,REP,Eric Holcomb,114
+Orange,02-FLE West Baden,Governor,,REP,Eric Holcomb,239
+Orange,03-French Lick N,Governor,,REP,Eric Holcomb,256
+Orange,04-French Lick S,Governor,,REP,Eric Holcomb,225
+Orange,05-French Lick W,Governor,,REP,Eric Holcomb,194
+Orange,06-FLW-West Baden,Governor,,REP,Eric Holcomb,87
+Orange,07-Greenfield,Governor,,REP,Eric Holcomb,197
+Orange,08-Jackson,Governor,,REP,Eric Holcomb,219
+Orange,09-Northeast Only,Governor,,REP,Eric Holcomb,168
+Orange,10-Northwest Only,Governor,,REP,Eric Holcomb,88
+Orange,11-Orangeville,Governor,,REP,Eric Holcomb,192
+Orange,12-Orleans E,Governor,,REP,Eric Holcomb,296
+Orange,13-Orleans NW,Governor,,REP,Eric Holcomb,291
+Orange,14-Orleans SW,Governor,,REP,Eric Holcomb,339
+Orange,15-Paoli N,Governor,,REP,Eric Holcomb,73
+Orange,16-Paoli NE,Governor,,REP,Eric Holcomb,251
+Orange,17-Paoli NW,Governor,,REP,Eric Holcomb,305
+Orange,18-Paoli S,Governor,,REP,Eric Holcomb,65
+Orange,19-Paoli SE,Governor,,REP,Eric Holcomb,346
+Orange,20-Paoli SW,Governor,,REP,Eric Holcomb,287
+Orange,21-Southeast Only,Governor,,REP,Eric Holcomb,387
+Orange,22-Stampers Ck,Governor,,REP,Eric Holcomb,208
+Orange,,Governor,,REP,Eric Holcomb,4827
+Orange,01-French Lick 1,Governor,,DEM,John Gregg,82
+Orange,02-FLE West Baden,Governor,,DEM,John Gregg,192
+Orange,03-French Lick N,Governor,,DEM,John Gregg,153
+Orange,04-French Lick S,Governor,,DEM,John Gregg,171
+Orange,05-French Lick W,Governor,,DEM,John Gregg,128
+Orange,06-FLW-West Baden,Governor,,DEM,John Gregg,64
+Orange,07-Greenfield,Governor,,DEM,John Gregg,105
+Orange,08-Jackson,Governor,,DEM,John Gregg,153
+Orange,09-Northeast Only,Governor,,DEM,John Gregg,77
+Orange,10-Northwest Only,Governor,,DEM,John Gregg,57
+Orange,11-Orangeville,Governor,,DEM,John Gregg,92
+Orange,12-Orleans E,Governor,,DEM,John Gregg,145
+Orange,13-Orleans NW,Governor,,DEM,John Gregg,133
+Orange,14-Orleans SW,Governor,,DEM,John Gregg,202
+Orange,15-Paoli N,Governor,,DEM,John Gregg,55
+Orange,16-Paoli NE,Governor,,DEM,John Gregg,162
+Orange,17-Paoli NW,Governor,,DEM,John Gregg,202
+Orange,18-Paoli S,Governor,,DEM,John Gregg,52
+Orange,19-Paoli SE,Governor,,DEM,John Gregg,244
+Orange,20-Paoli SW,Governor,,DEM,John Gregg,186
+Orange,21-Southeast Only,Governor,,DEM,John Gregg,209
+Orange,22-Stampers Ck,Governor,,DEM,John Gregg,107
+Orange,,Governor,,DEM,John Gregg,2971
+Orange,01-French Lick 1,Governor,,LBT,Rex Bell,9
+Orange,02-FLE West Baden,Governor,,LBT,Rex Bell,14
+Orange,03-French Lick N,Governor,,LBT,Rex Bell,10
+Orange,04-French Lick S,Governor,,LBT,Rex Bell,18
+Orange,05-French Lick W,Governor,,LBT,Rex Bell,16
+Orange,06-FLW-West Baden,Governor,,LBT,Rex Bell,4
+Orange,07-Greenfield,Governor,,LBT,Rex Bell,7
+Orange,08-Jackson,Governor,,LBT,Rex Bell,7
+Orange,09-Northeast Only,Governor,,LBT,Rex Bell,10
+Orange,10-Northwest Only,Governor,,LBT,Rex Bell,3
+Orange,11-Orangeville,Governor,,LBT,Rex Bell,11
+Orange,12-Orleans E,Governor,,LBT,Rex Bell,10
+Orange,13-Orleans NW,Governor,,LBT,Rex Bell,14
+Orange,14-Orleans SW,Governor,,LBT,Rex Bell,3
+Orange,15-Paoli N,Governor,,LBT,Rex Bell,14
+Orange,16-Paoli NE,Governor,,LBT,Rex Bell,12
+Orange,17-Paoli NW,Governor,,LBT,Rex Bell,15
+Orange,18-Paoli S,Governor,,LBT,Rex Bell,4
+Orange,19-Paoli SE,Governor,,LBT,Rex Bell,15
+Orange,20-Paoli SW,Governor,,LBT,Rex Bell,12
+Orange,21-Southeast Only,Governor,,LBT,Rex Bell,15
+Orange,22-Stampers Ck,Governor,,LBT,Rex Bell,6
+Orange,,Governor,,LBT,Rex Bell,229
+Orange,01-French Lick 1,Attorney General,,REP,Curtis Hill,139
+Orange,02-FLE West Baden,Attorney General,,REP,Curtis Hill,308
+Orange,03-French Lick N,Attorney General,,REP,Curtis Hill,292
+Orange,04-French Lick S,Attorney General,,REP,Curtis Hill,275
+Orange,05-French Lick W,Attorney General,,REP,Curtis Hill,228
+Orange,06-FLW-West Baden,Attorney General,,REP,Curtis Hill,108
+Orange,07-Greenfield,Attorney General,,REP,Curtis Hill,222
+Orange,08-Jackson,Attorney General,,REP,Curtis Hill,269
+Orange,09-Northeast Only,Attorney General,,REP,Curtis Hill,197
+Orange,10-Northwest Only,Attorney General,,REP,Curtis Hill,108
+Orange,11-Orangeville,Attorney General,,REP,Curtis Hill,229
+Orange,12-Orleans E,Attorney General,,REP,Curtis Hill,352
+Orange,13-Orleans NW,Attorney General,,REP,Curtis Hill,341
+Orange,14-Orleans SW,Attorney General,,REP,Curtis Hill,395
+Orange,15-Paoli N,Attorney General,,REP,Curtis Hill,91
+Orange,16-Paoli NE,Attorney General,,REP,Curtis Hill,293
+Orange,17-Paoli NW,Attorney General,,REP,Curtis Hill,365
+Orange,18-Paoli S,Attorney General,,REP,Curtis Hill,79
+Orange,19-Paoli SE,Attorney General,,REP,Curtis Hill,429
+Orange,20-Paoli SW,Attorney General,,REP,Curtis Hill,353
+Orange,21-Southeast Only,Attorney General,,REP,Curtis Hill,434
+Orange,22-Stampers Ck,Attorney General,,REP,Curtis Hill,239
+Orange,,Attorney General,,REP,Curtis Hill,5746
+Orange,01-French Lick 1,Attorney General,,DEM,Lorenzo Arredondo,65
+Orange,02-FLE West Baden,Attorney General,,DEM,Lorenzo Arredondo,118
+Orange,03-French Lick N,Attorney General,,DEM,Lorenzo Arredondo,104
+Orange,04-French Lick S,Attorney General,,DEM,Lorenzo Arredondo,113
+Orange,05-French Lick W,Attorney General,,DEM,Lorenzo Arredondo,95
+Orange,06-FLW-West Baden,Attorney General,,DEM,Lorenzo Arredondo,44
+Orange,07-Greenfield,Attorney General,,DEM,Lorenzo Arredondo,82
+Orange,08-Jackson,Attorney General,,DEM,Lorenzo Arredondo,99
+Orange,09-Northeast Only,Attorney General,,DEM,Lorenzo Arredondo,43
+Orange,10-Northwest Only,Attorney General,,DEM,Lorenzo Arredondo,38
+Orange,11-Orangeville,Attorney General,,DEM,Lorenzo Arredondo,57
+Orange,12-Orleans E,Attorney General,,DEM,Lorenzo Arredondo,98
+Orange,13-Orleans NW,Attorney General,,DEM,Lorenzo Arredondo,79
+Orange,14-Orleans SW,Attorney General,,DEM,Lorenzo Arredondo,126
+Orange,15-Paoli N,Attorney General,,DEM,Lorenzo Arredondo,49
+Orange,16-Paoli NE,Attorney General,,DEM,Lorenzo Arredondo,112
+Orange,17-Paoli NW,Attorney General,,DEM,Lorenzo Arredondo,143
+Orange,18-Paoli S,Attorney General,,DEM,Lorenzo Arredondo,38
+Orange,19-Paoli SE,Attorney General,,DEM,Lorenzo Arredondo,145
+Orange,20-Paoli SW,Attorney General,,DEM,Lorenzo Arredondo,114
+Orange,21-Southeast Only,Attorney General,,DEM,Lorenzo Arredondo,144
+Orange,22-Stampers Ck,Attorney General,,DEM,Lorenzo Arredondo,74
+Orange,,Attorney General,,DEM,Lorenzo Arredondo,1980
+Orange,01-French Lick 1,Public Instruction,,REP,Jennifer McCormick,119
+Orange,02-FLE West Baden,Public Instruction,,REP,Jennifer McCormick,263
+Orange,03-French Lick N,Public Instruction,,REP,Jennifer McCormick,255
+Orange,04-French Lick S,Public Instruction,,REP,Jennifer McCormick,232
+Orange,05-French Lick W,Public Instruction,,REP,Jennifer McCormick,207
+Orange,06-FLW-West Baden,Public Instruction,,REP,Jennifer McCormick,102
+Orange,07-Greenfield,Public Instruction,,REP,Jennifer McCormick,196
+Orange,08-Jackson,Public Instruction,,REP,Jennifer McCormick,236
+Orange,09-Northeast Only,Public Instruction,,REP,Jennifer McCormick,154
+Orange,10-Northwest Only,Public Instruction,,REP,Jennifer McCormick,98
+Orange,11-Orangeville,Public Instruction,,REP,Jennifer McCormick,200
+Orange,12-Orleans E,Public Instruction,,REP,Jennifer McCormick,265
+Orange,13-Orleans NW,Public Instruction,,REP,Jennifer McCormick,271
+Orange,14-Orleans SW,Public Instruction,,REP,Jennifer McCormick,329
+Orange,15-Paoli N,Public Instruction,,REP,Jennifer McCormick,78
+Orange,16-Paoli NE,Public Instruction,,REP,Jennifer McCormick,240
+Orange,17-Paoli NW,Public Instruction,,REP,Jennifer McCormick,316
+Orange,18-Paoli S,Public Instruction,,REP,Jennifer McCormick,74
+Orange,19-Paoli SE,Public Instruction,,REP,Jennifer McCormick,354
+Orange,20-Paoli SW,Public Instruction,,REP,Jennifer McCormick,264
+Orange,21-Southeast Only,Public Instruction,,REP,Jennifer McCormick,381
+Orange,22-Stampers Ck,Public Instruction,,REP,Jennifer McCormick,203
+Orange,,Public Instruction,,REP,Jennifer McCormick,4837
+Orange,01-French Lick 1,Public Instruction,,DEM,Glenda Ritz,82
+Orange,02-FLE West Baden,Public Instruction,,DEM,Glenda Ritz,174
+Orange,03-French Lick N,Public Instruction,,DEM,Glenda Ritz,151
+Orange,04-French Lick S,Public Instruction,,DEM,Glenda Ritz,172
+Orange,05-French Lick W,Public Instruction,,DEM,Glenda Ritz,127
+Orange,06-FLW-West Baden,Public Instruction,,DEM,Glenda Ritz,47
+Orange,07-Greenfield,Public Instruction,,DEM,Glenda Ritz,108
+Orange,08-Jackson,Public Instruction,,DEM,Glenda Ritz,136
+Orange,09-Northeast Only,Public Instruction,,DEM,Glenda Ritz,91
+Orange,10-Northwest Only,Public Instruction,,DEM,Glenda Ritz,51
+Orange,11-Orangeville,Public Instruction,,DEM,Glenda Ritz,93
+Orange,12-Orleans E,Public Instruction,,DEM,Glenda Ritz,184
+Orange,13-Orleans NW,Public Instruction,,DEM,Glenda Ritz,151
+Orange,14-Orleans SW,Public Instruction,,DEM,Glenda Ritz,208
+Orange,15-Paoli N,Public Instruction,,DEM,Glenda Ritz,65
+Orange,16-Paoli NE,Public Instruction,,DEM,Glenda Ritz,176
+Orange,17-Paoli NW,Public Instruction,,DEM,Glenda Ritz,204
+Orange,18-Paoli S,Public Instruction,,DEM,Glenda Ritz,47
+Orange,19-Paoli SE,Public Instruction,,DEM,Glenda Ritz,236
+Orange,20-Paoli SW,Public Instruction,,DEM,Glenda Ritz,207
+Orange,21-Southeast Only,Public Instruction,,DEM,Glenda Ritz,203
+Orange,22-Stampers Ck,Public Instruction,,DEM,Glenda Ritz,113
+Orange,,Public Instruction,,DEM,Glenda Ritz,3026
+Orange,01-French Lick 1,U.S. House,9,REP,Trey Collingsworth,103
+Orange,02-FLE West Baden,U.S. House,9,REP,Trey Collingsworth,247
+Orange,03-French Lick N,U.S. House,9,REP,Trey Collingsworth,261
+Orange,04-French Lick S,U.S. House,9,REP,Trey Collingsworth,214
+Orange,05-French Lick W,U.S. House,9,REP,Trey Collingsworth,190
+Orange,06-FLW-West Baden,U.S. House,9,REP,Trey Collingsworth,87
+Orange,07-Greenfield,U.S. House,9,REP,Trey Collingsworth,188
+Orange,08-Jackson,U.S. House,9,REP,Trey Collingsworth,217
+Orange,09-Northeast Only,U.S. House,9,REP,Trey Collingsworth,172
+Orange,10-Northwest Only,U.S. House,9,REP,Trey Collingsworth,90
+Orange,11-Orangeville,U.S. House,9,REP,Trey Collingsworth,192
+Orange,12-Orleans E,U.S. House,9,REP,Trey Collingsworth,295
+Orange,13-Orleans NW,U.S. House,9,REP,Trey Collingsworth,280
+Orange,14-Orleans SW,U.S. House,9,REP,Trey Collingsworth,328
+Orange,15-Paoli N,U.S. House,9,REP,Trey Collingsworth,70
+Orange,16-Paoli NE,U.S. House,9,REP,Trey Collingsworth,246
+Orange,17-Paoli NW,U.S. House,9,REP,Trey Collingsworth,300
+Orange,18-Paoli S,U.S. House,9,REP,Trey Collingsworth,64
+Orange,19-Paoli SE,U.S. House,9,REP,Trey Collingsworth,349
+Orange,20-Paoli SW,U.S. House,9,REP,Trey Collingsworth,264
+Orange,21-Southeast Only,U.S. House,9,REP,Trey Collingsworth,372
+Orange,22-Stampers Ck,U.S. House,9,REP,Trey Collingsworth,204
+Orange,,U.S. House,9,REP,Trey Collingsworth,4733
+Orange,01-French Lick 1,U.S. House,9,DEM,Lynn Coleman,95
+Orange,02-FLE West Baden,U.S. House,9,DEM,Lynn Coleman,176
+Orange,03-French Lick N,U.S. House,9,DEM,Lynn Coleman,140
+Orange,04-French Lick S,U.S. House,9,DEM,Lynn Coleman,176
+Orange,05-French Lick W,U.S. House,9,DEM,Lynn Coleman,132
+Orange,06-FLW-West Baden,U.S. House,9,DEM,Lynn Coleman,61
+Orange,07-Greenfield,U.S. House,9,DEM,Lynn Coleman,110
+Orange,08-Jackson,U.S. House,9,DEM,Lynn Coleman,143
+Orange,09-Northeast Only,U.S. House,9,DEM,Lynn Coleman,73
+Orange,10-Northwest Only,U.S. House,9,DEM,Lynn Coleman,52
+Orange,11-Orangeville,U.S. House,9,DEM,Lynn Coleman,96
+Orange,12-Orleans E,U.S. House,9,DEM,Lynn Coleman,153
+Orange,13-Orleans NW,U.S. House,9,DEM,Lynn Coleman,140
+Orange,14-Orleans SW,U.S. House,9,DEM,Lynn Coleman,194
+Orange,15-Paoli N,U.S. House,9,DEM,Lynn Coleman,59
+Orange,16-Paoli NE,U.S. House,9,DEM,Lynn Coleman,162
+Orange,17-Paoli NW,U.S. House,9,DEM,Lynn Coleman,207
+Orange,18-Paoli S,U.S. House,9,DEM,Lynn Coleman,48
+Orange,19-Paoli SE,U.S. House,9,DEM,Lynn Coleman,241
+Orange,20-Paoli SW,U.S. House,9,DEM,Lynn Coleman,210
+Orange,21-Southeast Only,U.S. House,9,DEM,Lynn Coleman,226
+Orange,22-Stampers Ck,U.S. House,9,DEM,Lynn Coleman,113
+Orange,,U.S. House,9,DEM,Lynn Coleman,3007
+Orange,01-French Lick 1,U.S. House,9,LBT,Russ Brooksbank,14
+Orange,02-FLE West Baden,U.S. House,9,LBT,Russ Brooksbank,25
+Orange,03-French Lick N,U.S. House,9,LBT,Russ Brooksbank,21
+Orange,04-French Lick S,U.S. House,9,LBT,Russ Brooksbank,22
+Orange,05-French Lick W,U.S. House,9,LBT,Russ Brooksbank,21
+Orange,06-FLW-West Baden,U.S. House,9,LBT,Russ Brooksbank,10
+Orange,07-Greenfield,U.S. House,9,LBT,Russ Brooksbank,13
+Orange,08-Jackson,U.S. House,9,LBT,Russ Brooksbank,20
+Orange,09-Northeast Only,U.S. House,9,LBT,Russ Brooksbank,17
+Orange,10-Northwest Only,U.S. House,9,LBT,Russ Brooksbank,6
+Orange,11-Orangeville,U.S. House,9,LBT,Russ Brooksbank,17
+Orange,12-Orleans E,U.S. House,9,LBT,Russ Brooksbank,14
+Orange,13-Orleans NW,U.S. House,9,LBT,Russ Brooksbank,20
+Orange,14-Orleans SW,U.S. House,9,LBT,Russ Brooksbank,24
+Orange,15-Paoli N,U.S. House,9,LBT,Russ Brooksbank,17
+Orange,16-Paoli NE,U.S. House,9,LBT,Russ Brooksbank,29
+Orange,17-Paoli NW,U.S. House,9,LBT,Russ Brooksbank,23
+Orange,18-Paoli S,U.S. House,9,LBT,Russ Brooksbank,12
+Orange,19-Paoli SE,U.S. House,9,LBT,Russ Brooksbank,24
+Orange,20-Paoli SW,U.S. House,9,LBT,Russ Brooksbank,23
+Orange,21-Southeast Only,U.S. House,9,LBT,Russ Brooksbank,20
+Orange,22-Stampers Ck,U.S. House,9,LBT,Russ Brooksbank,8
+Orange,,U.S. House,9,LBT,Russ Brooksbank,400
+Orange,22-Stampers Ck,U.S. House,9,,Write-ins,1
+Orange,01-French Lick 1,State House,74,REP,Lloyd Arnold,123
+Orange,02-FLE West Baden,State House,74,REP,Lloyd Arnold,296
+Orange,03-French Lick N,State House,74,REP,Lloyd Arnold,297
+Orange,04-French Lick S,State House,74,REP,Lloyd Arnold,265
+Orange,05-French Lick W,State House,74,REP,Lloyd Arnold,221
+Orange,06-FLW-West Baden,State House,74,REP,Lloyd Arnold,105
+Orange,07-Greenfield,State House,74,REP,Lloyd Arnold,207
+Orange,08-Jackson,State House,74,REP,Lloyd Arnold,257
+Orange,09-Northeast Only,State House,74,REP,Lloyd Arnold,187
+Orange,10-Northwest Only,State House,73,REP,Steven Davisson,103
+Orange,11-Orangeville,State House,73,REP,Steven Davisson,224
+Orange,12-Orleans E,State House,73,REP,Steven Davisson,331
+Orange,13-Orleans NW,State House,73,REP,Steven Davisson,321
+Orange,14-Orleans SW,State House,73,REP,Steven Davisson,379
+Orange,15-Paoli N,State House,73,REP,Steven Davisson,85
+Orange,16-Paoli NE,State House,73,REP,Steven Davisson,283
+Orange,17-Paoli NW,State House,73,REP,Steven Davisson,350
+Orange,18-Paoli S,State House,73,REP,Steven Davisson,77
+Orange,19-Paoli SE,State House,73,REP,Steven Davisson,387
+Orange,20-Paoli SW,State House,73,REP,Steven Davisson,317
+Orange,21-Southeast Only,State House,74,REP,Lloyd Arnold,423
+Orange,22-Stampers Ck,State House,73,REP,Steven Davisson,233
+Orange,,State House,73,REP,Steven Davisson,3277
+Orange,,State House,74,REP,Lloyd Arnold,2194
+Orange,01-French Lick 1,State House,74,DEM,Larry Kleeman,86
+Orange,02-FLE West Baden,State House,74,DEM,Larry Kleeman,146
+Orange,03-French Lick N,State House,74,DEM,Larry Kleeman,120
+Orange,04-French Lick S,State House,74,DEM,Larry Kleeman,137
+Orange,05-French Lick W,State House,74,DEM,Larry Kleeman,111
+Orange,06-FLW-West Baden,State House,74,DEM,Larry Kleeman,44
+Orange,07-Greenfield,State House,74,DEM,Larry Kleeman,103
+Orange,08-Jackson,State House,74,DEM,Larry Kleeman,119
+Orange,09-Northeast Only,State House,74,DEM,Larry Kleeman,62
+Orange,10-Northwest Only,State House,73,DEM,Douglas Leatherbury,41
+Orange,11-Orangeville,State House,73,DEM,Douglas Leatherbury,65
+Orange,12-Orleans E,State House,73,DEM,Douglas Leatherbury,121
+Orange,13-Orleans NW,State House,73,DEM,Douglas Leatherbury,104
+Orange,14-Orleans SW,State House,73,DEM,Douglas Leatherbury,154
+Orange,15-Paoli N,State House,73,DEM,Douglas Leatherbury,57
+Orange,16-Paoli NE,State House,73,DEM,Douglas Leatherbury,133
+Orange,17-Paoli NW,State House,73,DEM,Douglas Leatherbury,161
+Orange,18-Paoli S,State House,73,DEM,Douglas Leatherbury,44
+Orange,19-Paoli SE,State House,73,DEM,Douglas Leatherbury,193
+Orange,20-Paoli SW,State House,73,DEM,Douglas Leatherbury,153
+Orange,21-Southeast Only,State House,74,DEM,Larry Kleeman,172
+Orange,22-Stampers Ck,State House,73,DEM,Douglas Leatherbury,81
+Orange,,State House,73,DEM,Douglas Leatherbury,1369
+Orange,,State House,74,DEM,Larry Kleeman,2038

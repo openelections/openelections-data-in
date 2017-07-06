@@ -1,0 +1,603 @@
+county,precinct,office,district,party,candidate,votes
+Miami,01-Allen,Voters,,,Registered,454
+Miami,02-Butler,Voters,,,Registered,612
+Miami,03-Clay,Voters,,,Registered,665
+Miami,04-Deer Ck,Voters,,,Registered,1233
+Miami,05-Erie,Voters,,,Registered,454
+Miami,06-Harrison,Voters,,,Registered,467
+Miami,07-Jackson,Voters,,,Registered,1331
+Miami,08-Jefferson,Voters,,,Registered,1806
+Miami,09-Perry,Voters,,,Registered,578
+Miami,10-Peru 2,Voters,,,Registered,1833
+Miami,11-Peru 3,Voters,,,Registered,1625
+Miami,12-Peru 5,Voters,,,Registered,1180
+Miami,13-Peru 6,Voters,,,Registered,451
+Miami,14-Peru 7,Voters,,,Registered,706
+Miami,15-Peru 9,Voters,,,Registered,535
+Miami,16-Peru 10,Voters,,,Registered,806
+Miami,17-Peru 11,Voters,,,Registered,505
+Miami,18-Pipe Creek 2,Voters,,,Registered,1619
+Miami,19-Pipe Creek 3,Voters,,,Registered,980
+Miami,20-Pipe Creek 4,Voters,,,Registered,1521
+Miami,21-Richland,Voters,,,Registered,868
+Miami,22-Union,Voters,,,Registered,590
+Miami,23-Washington 1,Voters,,,Registered,1232
+Miami,24-Washington 2,Voters,,,Registered,1146
+Miami,,Voters,,,Registered,23197
+Miami,01-Allen,Voters,,,Ballots Cast,286
+Miami,02-Butler,Voters,,,Ballots Cast,402
+Miami,03-Clay,Voters,,,Ballots Cast,424
+Miami,04-Deer Ck,Voters,,,Ballots Cast,699
+Miami,05-Erie,Voters,,,Ballots Cast,288
+Miami,06-Harrison,Voters,,,Ballots Cast,327
+Miami,07-Jackson,Voters,,,Ballots Cast,860
+Miami,08-Jefferson,Voters,,,Ballots Cast,1108
+Miami,09-Perry,Voters,,,Ballots Cast,384
+Miami,10-Peru 2,Voters,,,Ballots Cast,946
+Miami,11-Peru 3,Voters,,,Ballots Cast,778
+Miami,12-Peru 5,Voters,,,Ballots Cast,624
+Miami,13-Peru 6,Voters,,,Ballots Cast,257
+Miami,14-Peru 7,Voters,,,Ballots Cast,386
+Miami,15-Peru 9,Voters,,,Ballots Cast,337
+Miami,16-Peru 10,Voters,,,Ballots Cast,550
+Miami,17-Peru 11,Voters,,,Ballots Cast,350
+Miami,18-Pipe Creek 2,Voters,,,Ballots Cast,979
+Miami,19-Pipe Creek 3,Voters,,,Ballots Cast,638
+Miami,20-Pipe Creek 4,Voters,,,Ballots Cast,716
+Miami,21-Richland,Voters,,,Ballots Cast,585
+Miami,22-Union,Voters,,,Ballots Cast,380
+Miami,23-Washington 1,Voters,,,Ballots Cast,706
+Miami,24-Washington 2,Voters,,,Ballots Cast,771
+Miami,,Voters,,,Ballots Cast,13781
+Miami,01-Allen,President,,REP,Donald Trump,206
+Miami,02-Butler,President,,REP,Donald Trump,314
+Miami,03-Clay,President,,REP,Donald Trump,345
+Miami,04-Deer Ck,President,,REP,Donald Trump,526
+Miami,05-Erie,President,,REP,Donald Trump,238
+Miami,06-Harrison,President,,REP,Donald Trump,263
+Miami,07-Jackson,President,,REP,Donald Trump,651
+Miami,08-Jefferson,President,,REP,Donald Trump,840
+Miami,09-Perry,President,,REP,Donald Trump,315
+Miami,10-Peru 2,President,,REP,Donald Trump,581
+Miami,11-Peru 3,President,,REP,Donald Trump,528
+Miami,12-Peru 5,President,,REP,Donald Trump,441
+Miami,13-Peru 6,President,,REP,Donald Trump,170
+Miami,14-Peru 7,President,,REP,Donald Trump,240
+Miami,15-Peru 9,President,,REP,Donald Trump,207
+Miami,16-Peru 10,President,,REP,Donald Trump,404
+Miami,17-Peru 11,President,,REP,Donald Trump,243
+Miami,18-Pipe Creek 2,President,,REP,Donald Trump,736
+Miami,19-Pipe Creek 3,President,,REP,Donald Trump,459
+Miami,20-Pipe Creek 4,President,,REP,Donald Trump,483
+Miami,21-Richland,President,,REP,Donald Trump,461
+Miami,22-Union,President,,REP,Donald Trump,291
+Miami,23-Washington 1,President,,REP,Donald Trump,458
+Miami,24-Washington 2,President,,REP,Donald Trump,575
+Miami,,President,,REP,Donald Trump,9975
+Miami,01-Allen,President,,DEM,Hillary Clinton,47
+Miami,02-Butler,President,,DEM,Hillary Clinton,62
+Miami,03-Clay,President,,DEM,Hillary Clinton,53
+Miami,04-Deer Ck,President,,DEM,Hillary Clinton,122
+Miami,05-Erie,President,,DEM,Hillary Clinton,36
+Miami,06-Harrison,President,,DEM,Hillary Clinton,41
+Miami,07-Jackson,President,,DEM,Hillary Clinton,151
+Miami,08-Jefferson,President,,DEM,Hillary Clinton,200
+Miami,09-Perry,President,,DEM,Hillary Clinton,41
+Miami,10-Peru 2,President,,DEM,Hillary Clinton,263
+Miami,11-Peru 3,President,,DEM,Hillary Clinton,176
+Miami,12-Peru 5,President,,DEM,Hillary Clinton,145
+Miami,13-Peru 6,President,,DEM,Hillary Clinton,61
+Miami,14-Peru 7,President,,DEM,Hillary Clinton,115
+Miami,15-Peru 9,President,,DEM,Hillary Clinton,98
+Miami,16-Peru 10,President,,DEM,Hillary Clinton,100
+Miami,17-Peru 11,President,,DEM,Hillary Clinton,71
+Miami,18-Pipe Creek 2,President,,DEM,Hillary Clinton,185
+Miami,19-Pipe Creek 3,President,,DEM,Hillary Clinton,141
+Miami,20-Pipe Creek 4,President,,DEM,Hillary Clinton,176
+Miami,21-Richland,President,,DEM,Hillary Clinton,91
+Miami,22-Union,President,,DEM,Hillary Clinton,54
+Miami,23-Washington 1,President,,DEM,Hillary Clinton,190
+Miami,24-Washington 2,President,,DEM,Hillary Clinton,147
+Miami,,President,,DEM,Hillary Clinton,2766
+Miami,01-Allen,President,,LBT,Gary Johnson,19
+Miami,02-Butler,President,,LBT,Gary Johnson,19
+Miami,03-Clay,President,,LBT,Gary Johnson,18
+Miami,04-Deer Ck,President,,LBT,Gary Johnson,38
+Miami,05-Erie,President,,LBT,Gary Johnson,11
+Miami,06-Harrison,President,,LBT,Gary Johnson,14
+Miami,07-Jackson,President,,LBT,Gary Johnson,46
+Miami,08-Jefferson,President,,LBT,Gary Johnson,44
+Miami,09-Perry,President,,LBT,Gary Johnson,19
+Miami,10-Peru 2,President,,LBT,Gary Johnson,61
+Miami,11-Peru 3,President,,LBT,Gary Johnson,55
+Miami,12-Peru 5,President,,LBT,Gary Johnson,27
+Miami,13-Peru 6,President,,LBT,Gary Johnson,16
+Miami,14-Peru 7,President,,LBT,Gary Johnson,24
+Miami,15-Peru 9,President,,LBT,Gary Johnson,21
+Miami,16-Peru 10,President,,LBT,Gary Johnson,26
+Miami,17-Peru 11,President,,LBT,Gary Johnson,29
+Miami,18-Pipe Creek 2,President,,LBT,Gary Johnson,39
+Miami,19-Pipe Creek 3,President,,LBT,Gary Johnson,26
+Miami,20-Pipe Creek 4,President,,LBT,Gary Johnson,44
+Miami,21-Richland,President,,LBT,Gary Johnson,20
+Miami,22-Union,President,,LBT,Gary Johnson,22
+Miami,23-Washington 1,President,,LBT,Gary Johnson,38
+Miami,24-Washington 2,President,,LBT,Gary Johnson,23
+Miami,,President,,LBT,Gary Johnson,699
+Miami,01-Allen,President,,,Write-ins,5
+Miami,02-Butler,President,,,Write-ins,2
+Miami,03-Clay,President,,,Write-ins,3
+Miami,04-Deer Ck,President,,,Write-ins,6
+Miami,05-Erie,President,,,Write-ins,3
+Miami,06-Harrison,President,,,Write-ins,6
+Miami,07-Jackson,President,,,Write-ins,6
+Miami,08-Jefferson,President,,,Write-ins,7
+Miami,09-Perry,President,,,Write-ins,3
+Miami,10-Peru 2,President,,,Write-ins,26
+Miami,11-Peru 3,President,,,Write-ins,8
+Miami,12-Peru 5,President,,,Write-ins,4
+Miami,13-Peru 6,President,,,Write-ins,8
+Miami,14-Peru 7,President,,,Write-ins,3
+Miami,15-Peru 9,President,,,Write-ins,6
+Miami,16-Peru 10,President,,,Write-ins,9
+Miami,17-Peru 11,President,,,Write-ins,1
+Miami,18-Pipe Creek 2,President,,,Write-ins,11
+Miami,19-Pipe Creek 3,President,,,Write-ins,2
+Miami,20-Pipe Creek 4,President,,,Write-ins,9
+Miami,21-Richland,President,,,Write-ins,6
+Miami,22-Union,President,,,Write-ins,6
+Miami,23-Washington 1,President,,,Write-ins,9
+Miami,24-Washington 2,President,,,Write-ins,12
+Miami,,President,,,Write-ins,161
+Miami,01-Allen,U.S. Senate,,REP,Todd Young,173
+Miami,02-Butler,U.S. Senate,,REP,Todd Young,283
+Miami,03-Clay,U.S. Senate,,REP,Todd Young,307
+Miami,04-Deer Ck,U.S. Senate,,REP,Todd Young,451
+Miami,05-Erie,U.S. Senate,,REP,Todd Young,200
+Miami,06-Harrison,U.S. Senate,,REP,Todd Young,238
+Miami,07-Jackson,U.S. Senate,,REP,Todd Young,580
+Miami,08-Jefferson,U.S. Senate,,REP,Todd Young,707
+Miami,09-Perry,U.S. Senate,,REP,Todd Young,266
+Miami,10-Peru 2,U.S. Senate,,REP,Todd Young,493
+Miami,11-Peru 3,U.S. Senate,,REP,Todd Young,428
+Miami,12-Peru 5,U.S. Senate,,REP,Todd Young,325
+Miami,13-Peru 6,U.S. Senate,,REP,Todd Young,150
+Miami,14-Peru 7,U.S. Senate,,REP,Todd Young,194
+Miami,15-Peru 9,U.S. Senate,,REP,Todd Young,169
+Miami,16-Peru 10,U.S. Senate,,REP,Todd Young,356
+Miami,17-Peru 11,U.S. Senate,,REP,Todd Young,198
+Miami,18-Pipe Creek 2,U.S. Senate,,REP,Todd Young,623
+Miami,19-Pipe Creek 3,U.S. Senate,,REP,Todd Young,387
+Miami,20-Pipe Creek 4,U.S. Senate,,REP,Todd Young,428
+Miami,21-Richland,U.S. Senate,,REP,Todd Young,371
+Miami,22-Union,U.S. Senate,,REP,Todd Young,253
+Miami,23-Washington 1,U.S. Senate,,REP,Todd Young,388
+Miami,24-Washington 2,U.S. Senate,,REP,Todd Young,485
+Miami,,U.S. Senate,,REP,Todd Young,8453
+Miami,01-Allen,U.S. Senate,,DEM,Evan Bayh,75
+Miami,02-Butler,U.S. Senate,,DEM,Evan Bayh,83
+Miami,03-Clay,U.S. Senate,,DEM,Evan Bayh,85
+Miami,04-Deer Ck,U.S. Senate,,DEM,Evan Bayh,175
+Miami,05-Erie,U.S. Senate,,DEM,Evan Bayh,61
+Miami,06-Harrison,U.S. Senate,,DEM,Evan Bayh,59
+Miami,07-Jackson,U.S. Senate,,DEM,Evan Bayh,215
+Miami,08-Jefferson,U.S. Senate,,DEM,Evan Bayh,270
+Miami,09-Perry,U.S. Senate,,DEM,Evan Bayh,76
+Miami,10-Peru 2,U.S. Senate,,DEM,Evan Bayh,342
+Miami,11-Peru 3,U.S. Senate,,DEM,Evan Bayh,246
+Miami,12-Peru 5,U.S. Senate,,DEM,Evan Bayh,223
+Miami,13-Peru 6,U.S. Senate,,DEM,Evan Bayh,80
+Miami,14-Peru 7,U.S. Senate,,DEM,Evan Bayh,151
+Miami,15-Peru 9,U.S. Senate,,DEM,Evan Bayh,121
+Miami,16-Peru 10,U.S. Senate,,DEM,Evan Bayh,130
+Miami,17-Peru 11,U.S. Senate,,DEM,Evan Bayh,107
+Miami,18-Pipe Creek 2,U.S. Senate,,DEM,Evan Bayh,266
+Miami,19-Pipe Creek 3,U.S. Senate,,DEM,Evan Bayh,193
+Miami,20-Pipe Creek 4,U.S. Senate,,DEM,Evan Bayh,199
+Miami,21-Richland,U.S. Senate,,DEM,Evan Bayh,148
+Miami,22-Union,U.S. Senate,,DEM,Evan Bayh,76
+Miami,23-Washington 1,U.S. Senate,,DEM,Evan Bayh,233
+Miami,24-Washington 2,U.S. Senate,,DEM,Evan Bayh,222
+Miami,,U.S. Senate,,DEM,Evan Bayh,3836
+Miami,01-Allen,U.S. Senate,,LBT,Lucy Brenton,27
+Miami,02-Butler,U.S. Senate,,LBT,Lucy Brenton,26
+Miami,03-Clay,U.S. Senate,,LBT,Lucy Brenton,23
+Miami,04-Deer Ck,U.S. Senate,,LBT,Lucy Brenton,49
+Miami,05-Erie,U.S. Senate,,LBT,Lucy Brenton,22
+Miami,06-Harrison,U.S. Senate,,LBT,Lucy Brenton,21
+Miami,07-Jackson,U.S. Senate,,LBT,Lucy Brenton,44
+Miami,08-Jefferson,U.S. Senate,,LBT,Lucy Brenton,81
+Miami,09-Perry,U.S. Senate,,LBT,Lucy Brenton,29
+Miami,10-Peru 2,U.S. Senate,,LBT,Lucy Brenton,78
+Miami,11-Peru 3,U.S. Senate,,LBT,Lucy Brenton,64
+Miami,12-Peru 5,U.S. Senate,,LBT,Lucy Brenton,48
+Miami,13-Peru 6,U.S. Senate,,LBT,Lucy Brenton,19
+Miami,14-Peru 7,U.S. Senate,,LBT,Lucy Brenton,26
+Miami,15-Peru 9,U.S. Senate,,LBT,Lucy Brenton,30
+Miami,16-Peru 10,U.S. Senate,,LBT,Lucy Brenton,42
+Miami,17-Peru 11,U.S. Senate,,LBT,Lucy Brenton,30
+Miami,18-Pipe Creek 2,U.S. Senate,,LBT,Lucy Brenton,65
+Miami,19-Pipe Creek 3,U.S. Senate,,LBT,Lucy Brenton,34
+Miami,20-Pipe Creek 4,U.S. Senate,,LBT,Lucy Brenton,65
+Miami,21-Richland,U.S. Senate,,LBT,Lucy Brenton,46
+Miami,22-Union,U.S. Senate,,LBT,Lucy Brenton,37
+Miami,23-Washington 1,U.S. Senate,,LBT,Lucy Brenton,56
+Miami,24-Washington 2,U.S. Senate,,LBT,Lucy Brenton,45
+Miami,,U.S. Senate,,LBT,Lucy Brenton,1007
+Miami,01-Allen,U.S. Senate,,,Write-ins,0
+Miami,02-Butler,U.S. Senate,,,Write-ins,0
+Miami,03-Clay,U.S. Senate,,,Write-ins,0
+Miami,04-Deer Ck,U.S. Senate,,,Write-ins,0
+Miami,05-Erie,U.S. Senate,,,Write-ins,0
+Miami,06-Harrison,U.S. Senate,,,Write-ins,0
+Miami,07-Jackson,U.S. Senate,,,Write-ins,0
+Miami,08-Jefferson,U.S. Senate,,,Write-ins,0
+Miami,09-Perry,U.S. Senate,,,Write-ins,0
+Miami,10-Peru 2,U.S. Senate,,,Write-ins,1
+Miami,11-Peru 3,U.S. Senate,,,Write-ins,0
+Miami,12-Peru 5,U.S. Senate,,,Write-ins,1
+Miami,13-Peru 6,U.S. Senate,,,Write-ins,0
+Miami,14-Peru 7,U.S. Senate,,,Write-ins,0
+Miami,15-Peru 9,U.S. Senate,,,Write-ins,0
+Miami,16-Peru 10,U.S. Senate,,,Write-ins,0
+Miami,17-Peru 11,U.S. Senate,,,Write-ins,0
+Miami,18-Pipe Creek 2,U.S. Senate,,,Write-ins,1
+Miami,19-Pipe Creek 3,U.S. Senate,,,Write-ins,0
+Miami,20-Pipe Creek 4,U.S. Senate,,,Write-ins,0
+Miami,21-Richland,U.S. Senate,,,Write-ins,0
+Miami,22-Union,U.S. Senate,,,Write-ins,0
+Miami,23-Washington 1,U.S. Senate,,,Write-ins,0
+Miami,24-Washington 2,U.S. Senate,,,Write-ins,0
+Miami,,U.S. Senate,,,Write-ins,3
+Miami,01-Allen,Governor,,REP,Eric Holcomb,160
+Miami,02-Butler,Governor,,REP,Eric Holcomb,246
+Miami,03-Clay,Governor,,REP,Eric Holcomb,293
+Miami,04-Deer Ck,Governor,,REP,Eric Holcomb,416
+Miami,05-Erie,Governor,,REP,Eric Holcomb,193
+Miami,06-Harrison,Governor,,REP,Eric Holcomb,230
+Miami,07-Jackson,Governor,,REP,Eric Holcomb,565
+Miami,08-Jefferson,Governor,,REP,Eric Holcomb,668
+Miami,09-Perry,Governor,,REP,Eric Holcomb,271
+Miami,10-Peru 2,Governor,,REP,Eric Holcomb,469
+Miami,11-Peru 3,Governor,,REP,Eric Holcomb,424
+Miami,12-Peru 5,Governor,,REP,Eric Holcomb,319
+Miami,13-Peru 6,Governor,,REP,Eric Holcomb,141
+Miami,14-Peru 7,Governor,,REP,Eric Holcomb,193
+Miami,15-Peru 9,Governor,,REP,Eric Holcomb,163
+Miami,16-Peru 10,Governor,,REP,Eric Holcomb,337
+Miami,17-Peru 11,Governor,,REP,Eric Holcomb,198
+Miami,18-Pipe Creek 2,Governor,,REP,Eric Holcomb,590
+Miami,19-Pipe Creek 3,Governor,,REP,Eric Holcomb,379
+Miami,20-Pipe Creek 4,Governor,,REP,Eric Holcomb,419
+Miami,21-Richland,Governor,,REP,Eric Holcomb,359
+Miami,22-Union,Governor,,REP,Eric Holcomb,234
+Miami,23-Washington 1,Governor,,REP,Eric Holcomb,372
+Miami,24-Washington 2,Governor,,REP,Eric Holcomb,455
+Miami,,Governor,,REP,Eric Holcomb,8094
+Miami,01-Allen,Governor,,DEM,John Gregg,108
+Miami,02-Butler,Governor,,DEM,John Gregg,130
+Miami,03-Clay,Governor,,DEM,John Gregg,108
+Miami,04-Deer Ck,Governor,,DEM,John Gregg,226
+Miami,05-Erie,Governor,,DEM,John Gregg,80
+Miami,06-Harrison,Governor,,DEM,John Gregg,74
+Miami,07-Jackson,Governor,,DEM,John Gregg,244
+Miami,08-Jefferson,Governor,,DEM,John Gregg,337
+Miami,09-Perry,Governor,,DEM,John Gregg,88
+Miami,10-Peru 2,Governor,,DEM,John Gregg,390
+Miami,11-Peru 3,Governor,,DEM,John Gregg,278
+Miami,12-Peru 5,Governor,,DEM,John Gregg,235
+Miami,13-Peru 6,Governor,,DEM,John Gregg,93
+Miami,14-Peru 7,Governor,,DEM,John Gregg,164
+Miami,15-Peru 9,Governor,,DEM,John Gregg,144
+Miami,16-Peru 10,Governor,,DEM,John Gregg,168
+Miami,17-Peru 11,Governor,,DEM,John Gregg,121
+Miami,18-Pipe Creek 2,Governor,,DEM,John Gregg,323
+Miami,19-Pipe Creek 3,Governor,,DEM,John Gregg,215
+Miami,20-Pipe Creek 4,Governor,,DEM,John Gregg,234
+Miami,21-Richland,Governor,,DEM,John Gregg,180
+Miami,22-Union,Governor,,DEM,John Gregg,114
+Miami,23-Washington 1,Governor,,DEM,John Gregg,271
+Miami,24-Washington 2,Governor,,DEM,John Gregg,271
+Miami,,Governor,,DEM,John Gregg,4596
+Miami,01-Allen,Governor,,LBT,Rex Bell,11
+Miami,02-Butler,Governor,,LBT,Rex Bell,15
+Miami,03-Clay,Governor,,LBT,Rex Bell,13
+Miami,04-Deer Ck,Governor,,LBT,Rex Bell,33
+Miami,05-Erie,Governor,,LBT,Rex Bell,10
+Miami,06-Harrison,Governor,,LBT,Rex Bell,10
+Miami,07-Jackson,Governor,,LBT,Rex Bell,32
+Miami,08-Jefferson,Governor,,LBT,Rex Bell,42
+Miami,09-Perry,Governor,,LBT,Rex Bell,11
+Miami,10-Peru 2,Governor,,LBT,Rex Bell,48
+Miami,11-Peru 3,Governor,,LBT,Rex Bell,38
+Miami,12-Peru 5,Governor,,LBT,Rex Bell,35
+Miami,13-Peru 6,Governor,,LBT,Rex Bell,10
+Miami,14-Peru 7,Governor,,LBT,Rex Bell,13
+Miami,15-Peru 9,Governor,,LBT,Rex Bell,12
+Miami,16-Peru 10,Governor,,LBT,Rex Bell,20
+Miami,17-Peru 11,Governor,,LBT,Rex Bell,15
+Miami,18-Pipe Creek 2,Governor,,LBT,Rex Bell,36
+Miami,19-Pipe Creek 3,Governor,,LBT,Rex Bell,17
+Miami,20-Pipe Creek 4,Governor,,LBT,Rex Bell,37
+Miami,21-Richland,Governor,,LBT,Rex Bell,25
+Miami,22-Union,Governor,,LBT,Rex Bell,20
+Miami,23-Washington 1,Governor,,LBT,Rex Bell,28
+Miami,24-Washington 2,Governor,,LBT,Rex Bell,18
+Miami,,Governor,,LBT,Rex Bell,549
+Miami,01-Allen,Governor,,,Write-ins,0
+Miami,02-Butler,Governor,,,Write-ins,0
+Miami,03-Clay,Governor,,,Write-ins,0
+Miami,04-Deer Ck,Governor,,,Write-ins,0
+Miami,05-Erie,Governor,,,Write-ins,0
+Miami,06-Harrison,Governor,,,Write-ins,0
+Miami,07-Jackson,Governor,,,Write-ins,1
+Miami,08-Jefferson,Governor,,,Write-ins,0
+Miami,09-Perry,Governor,,,Write-ins,0
+Miami,10-Peru 2,Governor,,,Write-ins,0
+Miami,11-Peru 3,Governor,,,Write-ins,0
+Miami,12-Peru 5,Governor,,,Write-ins,0
+Miami,13-Peru 6,Governor,,,Write-ins,0
+Miami,14-Peru 7,Governor,,,Write-ins,0
+Miami,15-Peru 9,Governor,,,Write-ins,0
+Miami,16-Peru 10,Governor,,,Write-ins,0
+Miami,17-Peru 11,Governor,,,Write-ins,0
+Miami,18-Pipe Creek 2,Governor,,,Write-ins,0
+Miami,19-Pipe Creek 3,Governor,,,Write-ins,0
+Miami,20-Pipe Creek 4,Governor,,,Write-ins,0
+Miami,21-Richland,Governor,,,Write-ins,1
+Miami,22-Union,Governor,,,Write-ins,0
+Miami,23-Washington 1,Governor,,,Write-ins,0
+Miami,24-Washington 2,Governor,,,Write-ins,0
+Miami,,Governor,,,Write-ins,2
+Miami,01-Allen,Attorney General,,REP,Curtis Hill,207
+Miami,02-Butler,Attorney General,,REP,Curtis Hill,312
+Miami,03-Clay,Attorney General,,REP,Curtis Hill,340
+Miami,04-Deer Ck,Attorney General,,REP,Curtis Hill,510
+Miami,05-Erie,Attorney General,,REP,Curtis Hill,229
+Miami,06-Harrison,Attorney General,,REP,Curtis Hill,267
+Miami,07-Jackson,Attorney General,,REP,Curtis Hill,649
+Miami,08-Jefferson,Attorney General,,REP,Curtis Hill,795
+Miami,09-Perry,Attorney General,,REP,Curtis Hill,312
+Miami,10-Peru 2,Attorney General,,REP,Curtis Hill,595
+Miami,11-Peru 3,Attorney General,,REP,Curtis Hill,523
+Miami,12-Peru 5,Attorney General,,REP,Curtis Hill,416
+Miami,13-Peru 6,Attorney General,,REP,Curtis Hill,170
+Miami,14-Peru 7,Attorney General,,REP,Curtis Hill,244
+Miami,15-Peru 9,Attorney General,,REP,Curtis Hill,207
+Miami,16-Peru 10,Attorney General,,REP,Curtis Hill,401
+Miami,17-Peru 11,Attorney General,,REP,Curtis Hill,247
+Miami,18-Pipe Creek 2,Attorney General,,REP,Curtis Hill,703
+Miami,19-Pipe Creek 3,Attorney General,,REP,Curtis Hill,452
+Miami,20-Pipe Creek 4,Attorney General,,REP,Curtis Hill,488
+Miami,21-Richland,Attorney General,,REP,Curtis Hill,430
+Miami,22-Union,Attorney General,,REP,Curtis Hill,285
+Miami,23-Washington 1,Attorney General,,REP,Curtis Hill,455
+Miami,24-Washington 2,Attorney General,,REP,Curtis Hill,555
+Miami,,Attorney General,,REP,Curtis Hill,9792
+Miami,01-Allen,Attorney General,,DEM,Lorenzo Arredondo,63
+Miami,02-Butler,Attorney General,,DEM,Lorenzo Arredondo,65
+Miami,03-Clay,Attorney General,,DEM,Lorenzo Arredondo,64
+Miami,04-Deer Ck,Attorney General,,DEM,Lorenzo Arredondo,145
+Miami,05-Erie,Attorney General,,DEM,Lorenzo Arredondo,45
+Miami,06-Harrison,Attorney General,,DEM,Lorenzo Arredondo,43
+Miami,07-Jackson,Attorney General,,DEM,Lorenzo Arredondo,165
+Miami,08-Jefferson,Attorney General,,DEM,Lorenzo Arredondo,211
+Miami,09-Perry,Attorney General,,DEM,Lorenzo Arredondo,48
+Miami,10-Peru 2,Attorney General,,DEM,Lorenzo Arredondo,280
+Miami,11-Peru 3,Attorney General,,DEM,Lorenzo Arredondo,200
+Miami,12-Peru 5,Attorney General,,DEM,Lorenzo Arredondo,166
+Miami,13-Peru 6,Attorney General,,DEM,Lorenzo Arredondo,59
+Miami,14-Peru 7,Attorney General,,DEM,Lorenzo Arredondo,115
+Miami,15-Peru 9,Attorney General,,DEM,Lorenzo Arredondo,99
+Miami,16-Peru 10,Attorney General,,DEM,Lorenzo Arredondo,103
+Miami,17-Peru 11,Attorney General,,DEM,Lorenzo Arredondo,80
+Miami,18-Pipe Creek 2,Attorney General,,DEM,Lorenzo Arredondo,217
+Miami,19-Pipe Creek 3,Attorney General,,DEM,Lorenzo Arredondo,138
+Miami,20-Pipe Creek 4,Attorney General,,DEM,Lorenzo Arredondo,200
+Miami,21-Richland,Attorney General,,DEM,Lorenzo Arredondo,106
+Miami,22-Union,Attorney General,,DEM,Lorenzo Arredondo,71
+Miami,23-Washington 1,Attorney General,,DEM,Lorenzo Arredondo,194
+Miami,24-Washington 2,Attorney General,,DEM,Lorenzo Arredondo,163
+Miami,,Attorney General,,DEM,Lorenzo Arredondo,3040
+Miami,01-Allen,Public Instruction,,REP,Jennifer McCormick,161
+Miami,02-Butler,Public Instruction,,REP,Jennifer McCormick,252
+Miami,03-Clay,Public Instruction,,REP,Jennifer McCormick,274
+Miami,04-Deer Ck,Public Instruction,,REP,Jennifer McCormick,433
+Miami,05-Erie,Public Instruction,,REP,Jennifer McCormick,184
+Miami,06-Harrison,Public Instruction,,REP,Jennifer McCormick,225
+Miami,07-Jackson,Public Instruction,,REP,Jennifer McCormick,581
+Miami,08-Jefferson,Public Instruction,,REP,Jennifer McCormick,683
+Miami,09-Perry,Public Instruction,,REP,Jennifer McCormick,266
+Miami,10-Peru 2,Public Instruction,,REP,Jennifer McCormick,507
+Miami,11-Peru 3,Public Instruction,,REP,Jennifer McCormick,452
+Miami,12-Peru 5,Public Instruction,,REP,Jennifer McCormick,358
+Miami,13-Peru 6,Public Instruction,,REP,Jennifer McCormick,142
+Miami,14-Peru 7,Public Instruction,,REP,Jennifer McCormick,199
+Miami,15-Peru 9,Public Instruction,,REP,Jennifer McCormick,169
+Miami,16-Peru 10,Public Instruction,,REP,Jennifer McCormick,345
+Miami,17-Peru 11,Public Instruction,,REP,Jennifer McCormick,208
+Miami,18-Pipe Creek 2,Public Instruction,,REP,Jennifer McCormick,623
+Miami,19-Pipe Creek 3,Public Instruction,,REP,Jennifer McCormick,361
+Miami,20-Pipe Creek 4,Public Instruction,,REP,Jennifer McCormick,442
+Miami,21-Richland,Public Instruction,,REP,Jennifer McCormick,366
+Miami,22-Union,Public Instruction,,REP,Jennifer McCormick,236
+Miami,23-Washington 1,Public Instruction,,REP,Jennifer McCormick,394
+Miami,24-Washington 2,Public Instruction,,REP,Jennifer McCormick,463
+Miami,,Public Instruction,,REP,Jennifer McCormick,8324
+Miami,01-Allen,Public Instruction,,DEM,Glenda Ritz,116
+Miami,02-Butler,Public Instruction,,DEM,Glenda Ritz,133
+Miami,03-Clay,Public Instruction,,DEM,Glenda Ritz,135
+Miami,04-Deer Ck,Public Instruction,,DEM,Glenda Ritz,230
+Miami,05-Erie,Public Instruction,,DEM,Glenda Ritz,92
+Miami,06-Harrison,Public Instruction,,DEM,Glenda Ritz,89
+Miami,07-Jackson,Public Instruction,,DEM,Glenda Ritz,261
+Miami,08-Jefferson,Public Instruction,,DEM,Glenda Ritz,341
+Miami,09-Perry,Public Instruction,,DEM,Glenda Ritz,101
+Miami,10-Peru 2,Public Instruction,,DEM,Glenda Ritz,388
+Miami,11-Peru 3,Public Instruction,,DEM,Glenda Ritz,278
+Miami,12-Peru 5,Public Instruction,,DEM,Glenda Ritz,234
+Miami,13-Peru 6,Public Instruction,,DEM,Glenda Ritz,99
+Miami,14-Peru 7,Public Instruction,,DEM,Glenda Ritz,164
+Miami,15-Peru 9,Public Instruction,,DEM,Glenda Ritz,146
+Miami,16-Peru 10,Public Instruction,,DEM,Glenda Ritz,178
+Miami,17-Peru 11,Public Instruction,,DEM,Glenda Ritz,122
+Miami,18-Pipe Creek 2,Public Instruction,,DEM,Glenda Ritz,315
+Miami,19-Pipe Creek 3,Public Instruction,,DEM,Glenda Ritz,243
+Miami,20-Pipe Creek 4,Public Instruction,,DEM,Glenda Ritz,247
+Miami,21-Richland,Public Instruction,,DEM,Glenda Ritz,189
+Miami,22-Union,Public Instruction,,DEM,Glenda Ritz,128
+Miami,23-Washington 1,Public Instruction,,DEM,Glenda Ritz,273
+Miami,24-Washington 2,Public Instruction,,DEM,Glenda Ritz,268
+Miami,,Public Instruction,,DEM,Glenda Ritz,4770
+Miami,01-Allen,U.S. House,2,REP,Jackie Walorski,210
+Miami,02-Butler,U.S. House,2,REP,Jackie Walorski,298
+Miami,03-Clay,U.S. House,2,REP,Jackie Walorski,333
+Miami,04-Deer Ck,U.S. House,2,REP,Jackie Walorski,488
+Miami,05-Erie,U.S. House,2,REP,Jackie Walorski,217
+Miami,06-Harrison,U.S. House,2,REP,Jackie Walorski,256
+Miami,07-Jackson,U.S. House,2,REP,Jackie Walorski,605
+Miami,08-Jefferson,U.S. House,2,REP,Jackie Walorski,815
+Miami,09-Perry,U.S. House,2,REP,Jackie Walorski,315
+Miami,10-Peru 2,U.S. House,2,REP,Jackie Walorski,605
+Miami,11-Peru 3,U.S. House,2,REP,Jackie Walorski,517
+Miami,12-Peru 5,U.S. House,2,REP,Jackie Walorski,411
+Miami,13-Peru 6,U.S. House,2,REP,Jackie Walorski,170
+Miami,14-Peru 7,U.S. House,2,REP,Jackie Walorski,249
+Miami,15-Peru 9,U.S. House,2,REP,Jackie Walorski,198
+Miami,16-Peru 10,U.S. House,2,REP,Jackie Walorski,406
+Miami,17-Peru 11,U.S. House,2,REP,Jackie Walorski,245
+Miami,18-Pipe Creek 2,U.S. House,2,REP,Jackie Walorski,694
+Miami,19-Pipe Creek 3,U.S. House,2,REP,Jackie Walorski,449
+Miami,20-Pipe Creek 4,U.S. House,2,REP,Jackie Walorski,463
+Miami,21-Richland,U.S. House,2,REP,Jackie Walorski,424
+Miami,22-Union,U.S. House,2,REP,Jackie Walorski,271
+Miami,23-Washington 1,U.S. House,2,REP,Jackie Walorski,456
+Miami,24-Washington 2,U.S. House,2,REP,Jackie Walorski,565
+Miami,,U.S. House,2,REP,Jackie Walorski,9660
+Miami,01-Allen,U.S. House,2,DEM,Lynn Coleman,56
+Miami,02-Butler,U.S. House,2,DEM,Lynn Coleman,75
+Miami,03-Clay,U.S. House,2,DEM,Lynn Coleman,62
+Miami,04-Deer Ck,U.S. House,2,DEM,Lynn Coleman,141
+Miami,05-Erie,U.S. House,2,DEM,Lynn Coleman,53
+Miami,06-Harrison,U.S. House,2,DEM,Lynn Coleman,45
+Miami,07-Jackson,U.S. House,2,DEM,Lynn Coleman,194
+Miami,08-Jefferson,U.S. House,2,DEM,Lynn Coleman,202
+Miami,09-Perry,U.S. House,2,DEM,Lynn Coleman,45
+Miami,10-Peru 2,U.S. House,2,DEM,Lynn Coleman,258
+Miami,11-Peru 3,U.S. House,2,DEM,Lynn Coleman,191
+Miami,12-Peru 5,U.S. House,2,DEM,Lynn Coleman,158
+Miami,13-Peru 6,U.S. House,2,DEM,Lynn Coleman,65
+Miami,14-Peru 7,U.S. House,2,DEM,Lynn Coleman,111
+Miami,15-Peru 9,U.S. House,2,DEM,Lynn Coleman,101
+Miami,16-Peru 10,U.S. House,2,DEM,Lynn Coleman,107
+Miami,17-Peru 11,U.S. House,2,DEM,Lynn Coleman,80
+Miami,18-Pipe Creek 2,U.S. House,2,DEM,Lynn Coleman,199
+Miami,19-Pipe Creek 3,U.S. House,2,DEM,Lynn Coleman,145
+Miami,20-Pipe Creek 4,U.S. House,2,DEM,Lynn Coleman,189
+Miami,21-Richland,U.S. House,2,DEM,Lynn Coleman,110
+Miami,22-Union,U.S. House,2,DEM,Lynn Coleman,70
+Miami,23-Washington 1,U.S. House,2,DEM,Lynn Coleman,188
+Miami,24-Washington 2,U.S. House,2,DEM,Lynn Coleman,160
+Miami,,U.S. House,2,DEM,Lynn Coleman,3005
+Miami,01-Allen,U.S. House,2,LBT,Ron Cenkush,12
+Miami,02-Butler,U.S. House,2,LBT,Ron Cenkush,12
+Miami,03-Clay,U.S. House,2,LBT,Ron Cenkush,16
+Miami,04-Deer Ck,U.S. House,2,LBT,Ron Cenkush,36
+Miami,05-Erie,U.S. House,2,LBT,Ron Cenkush,9
+Miami,06-Harrison,U.S. House,2,LBT,Ron Cenkush,11
+Miami,07-Jackson,U.S. House,2,LBT,Ron Cenkush,37
+Miami,08-Jefferson,U.S. House,2,LBT,Ron Cenkush,41
+Miami,09-Perry,U.S. House,2,LBT,Ron Cenkush,16
+Miami,10-Peru 2,U.S. House,2,LBT,Ron Cenkush,49
+Miami,11-Peru 3,U.S. House,2,LBT,Ron Cenkush,40
+Miami,12-Peru 5,U.S. House,2,LBT,Ron Cenkush,36
+Miami,13-Peru 6,U.S. House,2,LBT,Ron Cenkush,13
+Miami,14-Peru 7,U.S. House,2,LBT,Ron Cenkush,14
+Miami,15-Peru 9,U.S. House,2,LBT,Ron Cenkush,18
+Miami,16-Peru 10,U.S. House,2,LBT,Ron Cenkush,16
+Miami,17-Peru 11,U.S. House,2,LBT,Ron Cenkush,12
+Miami,18-Pipe Creek 2,U.S. House,2,LBT,Ron Cenkush,45
+Miami,19-Pipe Creek 3,U.S. House,2,LBT,Ron Cenkush,21
+Miami,20-Pipe Creek 4,U.S. House,2,LBT,Ron Cenkush,44
+Miami,21-Richland,U.S. House,2,LBT,Ron Cenkush,29
+Miami,22-Union,U.S. House,2,LBT,Ron Cenkush,20
+Miami,23-Washington 1,U.S. House,2,LBT,Ron Cenkush,32
+Miami,24-Washington 2,U.S. House,2,LBT,Ron Cenkush,23
+Miami,,U.S. House,2,LBT,Ron Cenkush,602
+Miami,01-Allen,State Senate,18,REP,Randall Head,225
+Miami,02-Butler,State Senate,18,REP,Randall Head,321
+Miami,03-Clay,State Senate,18,REP,Randall Head,346
+Miami,04-Deer Ck,State Senate,18,REP,Randall Head,530
+Miami,05-Erie,State Senate,18,REP,Randall Head,239
+Miami,06-Harrison,State Senate,18,REP,Randall Head,274
+Miami,07-Jackson,State Senate,18,REP,Randall Head,689
+Miami,08-Jefferson,State Senate,18,REP,Randall Head,839
+Miami,09-Perry,State Senate,18,REP,Randall Head,312
+Miami,10-Peru 2,State Senate,18,REP,Randall Head,688
+Miami,11-Peru 3,State Senate,18,REP,Randall Head,569
+Miami,12-Peru 5,State Senate,18,REP,Randall Head,453
+Miami,13-Peru 6,State Senate,18,REP,Randall Head,181
+Miami,14-Peru 7,State Senate,18,REP,Randall Head,262
+Miami,15-Peru 9,State Senate,18,REP,Randall Head,220
+Miami,16-Peru 10,State Senate,18,REP,Randall Head,417
+Miami,17-Peru 11,State Senate,18,REP,Randall Head,262
+Miami,18-Pipe Creek 2,State Senate,18,REP,Randall Head,754
+Miami,19-Pipe Creek 3,State Senate,18,REP,Randall Head,485
+Miami,20-Pipe Creek 4,State Senate,18,REP,Randall Head,545
+Miami,21-Richland,State Senate,18,REP,Randall Head,456
+Miami,22-Union,State Senate,18,REP,Randall Head,304
+Miami,23-Washington 1,State Senate,18,REP,Randall Head,510
+Miami,24-Washington 2,State Senate,18,REP,Randall Head,592
+Miami,,State Senate,18,REP,Randall Head,10473
+Miami,01-Allen,State House,23,REP,William Friend,184
+Miami,02-Butler,State Senate,23,REP,William Friend,293
+Miami,03-Clay,State Senate,23,REP,William Friend,333
+Miami,04-Deer Ck,State Senate,23,REP,William Friend,491
+Miami,05-Erie,State Senate,23,REP,William Friend,210
+Miami,06-Harrison,State Senate,23,REP,William Friend,263
+Miami,07-Jackson,State Senate,18,REP,David Wolkins,576
+Miami,08-Jefferson,State Senate,23,REP,William Friend,786
+Miami,09-Perry,State Senate,23,REP,William Friend,314
+Miami,10-Peru 2,State Senate,23,REP,William Friend,594
+Miami,11-Peru 3,State Senate,23,REP,William Friend,500
+Miami,12-Peru 5,State Senate,23,REP,William Friend,408
+Miami,13-Peru 6,State Senate,23,REP,William Friend,158
+Miami,14-Peru 7,State Senate,23,REP,William Friend,238
+Miami,15-Peru 9,State Senate,23,REP,William Friend,201
+Miami,16-Peru 10,State Senate,23,REP,William Friend,391
+Miami,17-Peru 11,State Senate,23,REP,William Friend,239
+Miami,18-Pipe Creek 2,State Senate,23,REP,William Friend,687
+Miami,19-Pipe Creek 3,State Senate,23,REP,William Friend,436
+Miami,20-Pipe Creek 4,State Senate,23,REP,William Friend,464
+Miami,21-Richland,State Senate,23,REP,William Friend,432
+Miami,22-Union,State Senate,23,REP,William Friend,280
+Miami,23-Washington 1,State Senate,23,REP,William Friend,453
+Miami,24-Washington 2,State Senate,23,REP,William Friend,547
+Miami,,State Senate,18,REP,David Wolkins,576
+Miami,,State Senate,23,REP,William Friend,8902
+Miami,01-Allen,State House,23,DEM,Rose Ryan,89
+Miami,02-Butler,State Senate,23,DEM,Rose Ryan,91
+Miami,03-Clay,State Senate,23,DEM,Rose Ryan,70
+Miami,04-Deer Ck,State Senate,23,DEM,Rose Ryan,156
+Miami,05-Erie,State Senate,23,DEM,Rose Ryan,64
+Miami,06-Harrison,State Senate,23,DEM,Rose Ryan,48
+Miami,07-Jackson,State Senate,18,DEM,Dee Moore,218
+Miami,08-Jefferson,State Senate,23,DEM,Rose Ryan,250
+Miami,09-Perry,State Senate,23,DEM,Rose Ryan,59
+Miami,10-Peru 2,State Senate,23,DEM,Rose Ryan,303
+Miami,11-Peru 3,State Senate,23,DEM,Rose Ryan,228
+Miami,12-Peru 5,State Senate,23,DEM,Rose Ryan,187
+Miami,13-Peru 6,State Senate,23,DEM,Rose Ryan,80
+Miami,14-Peru 7,State Senate,23,DEM,Rose Ryan,124
+Miami,15-Peru 9,State Senate,23,DEM,Rose Ryan,104
+Miami,16-Peru 10,State Senate,23,DEM,Rose Ryan,132
+Miami,17-Peru 11,State Senate,23,DEM,Rose Ryan,95
+Miami,18-Pipe Creek 2,State Senate,23,DEM,Rose Ryan,245
+Miami,19-Pipe Creek 3,State Senate,23,DEM,Rose Ryan,160
+Miami,20-Pipe Creek 4,State Senate,23,DEM,Rose Ryan,218
+Miami,21-Richland,State Senate,23,DEM,Rose Ryan,124
+Miami,22-Union,State Senate,23,DEM,Rose Ryan,87
+Miami,23-Washington 1,State Senate,23,DEM,Rose Ryan,218
+Miami,24-Washington 2,State Senate,23,DEM,Rose Ryan,186
+Miami,,State Senate,18,DEM,Dee Moore,218
+Miami,,State Senate,23,DEM,Rose Ryan,3318

@@ -1,0 +1,447 @@
+county,precinct,office,district,party,candidate,votes
+Owen,01-Clay 1,Voters,,,Registration,902
+Owen,02-Clay 2,Voters,,,Registration,966
+Owen,03-Franklin,Voters,,,Registration,940
+Owen,04-Harrison,Voters,,,Registration,298
+Owen,05-Jackson,Voters,,,Registration,1124
+Owen,06-Jefferson,Voters,,,Registration,700
+Owen,07-Jennings,Voters,,,Registration,617
+Owen,08-Lafayette,Voters,,,Registration,890
+Owen,09-Marion,Voters,,,Registration,657
+Owen,10-Montgomery,Voters,,,Registration,861
+Owen,11-Morgan,Voters,,,Registration,841
+Owen,12-Taylor,Voters,,,Registration,696
+Owen,13-Washington 1,Voters,,,Registration,1474
+Owen,14-Washington 2,Voters,,,Registration,799
+Owen,15-Washington 3,Voters,,,Registration,882
+Owen,16-Washington 4,Voters,,,Registration,980
+Owen,18-Wayne 1,Voters,,,Registration,559
+Owen,19-Wayne 2,Voters,,,Registration,668
+Owen,,Voters,,,Registration,14854
+Owen,01-Clay 1,Voters,,,Ballots Cast,557
+Owen,02-Clay 2,Voters,,,Ballots Cast,592
+Owen,03-Franklin,Voters,,,Ballots Cast,544
+Owen,04-Harrison,Voters,,,Ballots Cast,170
+Owen,05-Jackson,Voters,,,Ballots Cast,556
+Owen,06-Jefferson,Voters,,,Ballots Cast,427
+Owen,07-Jennings,Voters,,,Ballots Cast,346
+Owen,08-Lafayette,Voters,,,Ballots Cast,507
+Owen,09-Marion,Voters,,,Ballots Cast,402
+Owen,10-Montgomery,Voters,,,Ballots Cast,475
+Owen,11-Morgan,Voters,,,Ballots Cast,501
+Owen,12-Taylor,Voters,,,Ballots Cast,401
+Owen,13-Washington 1,Voters,,,Ballots Cast,987
+Owen,14-Washington 2,Voters,,,Ballots Cast,499
+Owen,15-Washington 3,Voters,,,Ballots Cast,537
+Owen,16-Washington 4,Voters,,,Ballots Cast,614
+Owen,18-Wayne 1,Voters,,,Ballots Cast,294
+Owen,19-Wayne 2,Voters,,,Ballots Cast,366
+Owen,,Voters,,,Ballots Cast,8775
+Owen,01-Clay 1,President,,REP,Donald Trump,382
+Owen,02-Clay 2,President,,REP,Donald Trump,404
+Owen,03-Franklin,President,,REP,Donald Trump,390
+Owen,04-Harrison,President,,REP,Donald Trump,137
+Owen,05-Jackson,President,,REP,Donald Trump,424
+Owen,06-Jefferson,President,,REP,Donald Trump,320
+Owen,07-Jennings,President,,REP,Donald Trump,265
+Owen,08-Lafayette,President,,REP,Donald Trump,348
+Owen,09-Marion,President,,REP,Donald Trump,319
+Owen,10-Montgomery,President,,REP,Donald Trump,315
+Owen,11-Morgan,President,,REP,Donald Trump,377
+Owen,12-Taylor,President,,REP,Donald Trump,305
+Owen,13-Washington 1,President,,REP,Donald Trump,642
+Owen,14-Washington 2,President,,REP,Donald Trump,322
+Owen,15-Washington 3,President,,REP,Donald Trump,342
+Owen,16-Washington 4,President,,REP,Donald Trump,399
+Owen,18-Wayne 1,President,,REP,Donald Trump,198
+Owen,19-Wayne 2,President,,REP,Donald Trump,264
+Owen,,President,,REP,Donald Trump,6153
+Owen,01-Clay 1,President,,DEM,Hillary Clinton,136
+Owen,02-Clay 2,President,,DEM,Hillary Clinton,143
+Owen,03-Franklin,President,,DEM,Hillary Clinton,121
+Owen,04-Harrison,President,,DEM,Hillary Clinton,24
+Owen,05-Jackson,President,,DEM,Hillary Clinton,90
+Owen,06-Jefferson,President,,DEM,Hillary Clinton,76
+Owen,07-Jennings,President,,DEM,Hillary Clinton,64
+Owen,08-Lafayette,President,,DEM,Hillary Clinton,113
+Owen,09-Marion,President,,DEM,Hillary Clinton,55
+Owen,10-Montgomery,President,,DEM,Hillary Clinton,121
+Owen,11-Morgan,President,,DEM,Hillary Clinton,83
+Owen,12-Taylor,President,,DEM,Hillary Clinton,73
+Owen,13-Washington 1,President,,DEM,Hillary Clinton,270
+Owen,14-Washington 2,President,,DEM,Hillary Clinton,133
+Owen,15-Washington 3,President,,DEM,Hillary Clinton,152
+Owen,16-Washington 4,President,,DEM,Hillary Clinton,151
+Owen,18-Wayne 1,President,,DEM,Hillary Clinton,73
+Owen,19-Wayne 2,President,,DEM,Hillary Clinton,68
+Owen,,President,,DEM,Hillary Clinton,1946
+Owen,01-Clay 1,President,,LBT,Gary Johnson,25
+Owen,02-Clay 2,President,,LBT,Gary Johnson,36
+Owen,03-Franklin,President,,LBT,Gary Johnson,20
+Owen,04-Harrison,President,,LBT,Gary Johnson,7
+Owen,05-Jackson,President,,LBT,Gary Johnson,24
+Owen,06-Jefferson,President,,LBT,Gary Johnson,17
+Owen,07-Jennings,President,,LBT,Gary Johnson,11
+Owen,08-Lafayette,President,,LBT,Gary Johnson,29
+Owen,09-Marion,President,,LBT,Gary Johnson,20
+Owen,10-Montgomery,President,,LBT,Gary Johnson,28
+Owen,11-Morgan,President,,LBT,Gary Johnson,27
+Owen,12-Taylor,President,,LBT,Gary Johnson,12
+Owen,13-Washington 1,President,,LBT,Gary Johnson,48
+Owen,14-Washington 2,President,,LBT,Gary Johnson,17
+Owen,15-Washington 3,President,,LBT,Gary Johnson,21
+Owen,16-Washington 4,President,,LBT,Gary Johnson,40
+Owen,18-Wayne 1,President,,LBT,Gary Johnson,17
+Owen,19-Wayne 2,President,,LBT,Gary Johnson,24
+Owen,,President,,LBT,Gary Johnson,423
+Owen,01-Clay 1,President,,,Write-ins,5
+Owen,02-Clay 2,President,,,Write-ins,3
+Owen,03-Franklin,President,,,Write-ins,3
+Owen,04-Harrison,President,,,Write-ins,0
+Owen,05-Jackson,President,,,Write-ins,11
+Owen,06-Jefferson,President,,,Write-ins,7
+Owen,07-Jennings,President,,,Write-ins,1
+Owen,08-Lafayette,President,,,Write-ins,10
+Owen,09-Marion,President,,,Write-ins,4
+Owen,10-Montgomery,President,,,Write-ins,5
+Owen,11-Morgan,President,,,Write-ins,4
+Owen,12-Taylor,President,,,Write-ins,3
+Owen,13-Washington 1,President,,,Write-ins,10
+Owen,14-Washington 2,President,,,Write-ins,7
+Owen,15-Washington 3,President,,,Write-ins,9
+Owen,16-Washington 4,President,,,Write-ins,6
+Owen,18-Wayne 1,President,,,Write-ins,2
+Owen,19-Wayne 2,President,,,Write-ins,4
+Owen,,President,,,Write-ins,94
+Owen,01-Clay 1,U.S. Senate,,REP,Todd Young,339
+Owen,02-Clay 2,U.S. Senate,,REP,Todd Young,376
+Owen,03-Franklin,U.S. Senate,,REP,Todd Young,338
+Owen,04-Harrison,U.S. Senate,,REP,Todd Young,110
+Owen,05-Jackson,U.S. Senate,,REP,Todd Young,354
+Owen,06-Jefferson,U.S. Senate,,REP,Todd Young,282
+Owen,07-Jennings,U.S. Senate,,REP,Todd Young,226
+Owen,08-Lafayette,U.S. Senate,,REP,Todd Young,305
+Owen,09-Marion,U.S. Senate,,REP,Todd Young,248
+Owen,10-Montgomery,U.S. Senate,,REP,Todd Young,269
+Owen,11-Morgan,U.S. Senate,,REP,Todd Young,329
+Owen,12-Taylor,U.S. Senate,,REP,Todd Young,270
+Owen,13-Washington 1,U.S. Senate,,REP,Todd Young,562
+Owen,14-Washington 2,U.S. Senate,,REP,Todd Young,273
+Owen,15-Washington 3,U.S. Senate,,REP,Todd Young,315
+Owen,16-Washington 4,U.S. Senate,,REP,Todd Young,345
+Owen,18-Wayne 1,U.S. Senate,,REP,Todd Young,165
+Owen,19-Wayne 2,U.S. Senate,,REP,Todd Young,227
+Owen,,U.S. Senate,,REP,Todd Young,5333
+Owen,01-Clay 1,U.S. Senate,,DEM,Evan Bayh,173
+Owen,02-Clay 2,U.S. Senate,,DEM,Evan Bayh,170
+Owen,03-Franklin,U.S. Senate,,DEM,Evan Bayh,158
+Owen,04-Harrison,U.S. Senate,,DEM,Evan Bayh,41
+Owen,05-Jackson,U.S. Senate,,DEM,Evan Bayh,132
+Owen,06-Jefferson,U.S. Senate,,DEM,Evan Bayh,116
+Owen,07-Jennings,U.S. Senate,,DEM,Evan Bayh,88
+Owen,08-Lafayette,U.S. Senate,,DEM,Evan Bayh,152
+Owen,09-Marion,U.S. Senate,,DEM,Evan Bayh,108
+Owen,10-Montgomery,U.S. Senate,,DEM,Evan Bayh,152
+Owen,11-Morgan,U.S. Senate,,DEM,Evan Bayh,112
+Owen,12-Taylor,U.S. Senate,,DEM,Evan Bayh,100
+Owen,13-Washington 1,U.S. Senate,,DEM,Evan Bayh,354
+Owen,14-Washington 2,U.S. Senate,,DEM,Evan Bayh,182
+Owen,15-Washington 3,U.S. Senate,,DEM,Evan Bayh,184
+Owen,16-Washington 4,U.S. Senate,,DEM,Evan Bayh,223
+Owen,18-Wayne 1,U.S. Senate,,DEM,Evan Bayh,101
+Owen,19-Wayne 2,U.S. Senate,,DEM,Evan Bayh,96
+Owen,,U.S. Senate,,DEM,Evan Bayh,2642
+Owen,01-Clay 1,U.S. Senate,,LBT,Lucy Brenton,32
+Owen,02-Clay 2,U.S. Senate,,LBT,Lucy Brenton,33
+Owen,03-Franklin,U.S. Senate,,LBT,Lucy Brenton,28
+Owen,04-Harrison,U.S. Senate,,LBT,Lucy Brenton,12
+Owen,05-Jackson,U.S. Senate,,LBT,Lucy Brenton,49
+Owen,06-Jefferson,U.S. Senate,,LBT,Lucy Brenton,20
+Owen,07-Jennings,U.S. Senate,,LBT,Lucy Brenton,18
+Owen,08-Lafayette,U.S. Senate,,LBT,Lucy Brenton,39
+Owen,09-Marion,U.S. Senate,,LBT,Lucy Brenton,33
+Owen,10-Montgomery,U.S. Senate,,LBT,Lucy Brenton,44
+Owen,11-Morgan,U.S. Senate,,LBT,Lucy Brenton,34
+Owen,12-Taylor,U.S. Senate,,LBT,Lucy Brenton,22
+Owen,13-Washington 1,U.S. Senate,,LBT,Lucy Brenton,47
+Owen,14-Washington 2,U.S. Senate,,LBT,Lucy Brenton,30
+Owen,15-Washington 3,U.S. Senate,,LBT,Lucy Brenton,24
+Owen,16-Washington 4,U.S. Senate,,LBT,Lucy Brenton,33
+Owen,18-Wayne 1,U.S. Senate,,LBT,Lucy Brenton,22
+Owen,19-Wayne 2,U.S. Senate,,LBT,Lucy Brenton,37
+Owen,,U.S. Senate,,LBT,Lucy Brenton,557
+Owen,01-Clay 1,U.S. Senate,,,Write-ins,0
+Owen,02-Clay 2,U.S. Senate,,,Write-ins,0
+Owen,03-Franklin,U.S. Senate,,,Write-ins,0
+Owen,04-Harrison,U.S. Senate,,,Write-ins,0
+Owen,05-Jackson,U.S. Senate,,,Write-ins,1
+Owen,06-Jefferson,U.S. Senate,,,Write-ins,0
+Owen,07-Jennings,U.S. Senate,,,Write-ins,0
+Owen,08-Lafayette,U.S. Senate,,,Write-ins,0
+Owen,09-Marion,U.S. Senate,,,Write-ins,0
+Owen,10-Montgomery,U.S. Senate,,,Write-ins,1
+Owen,11-Morgan,U.S. Senate,,,Write-ins,0
+Owen,12-Taylor,U.S. Senate,,,Write-ins,0
+Owen,13-Washington 1,U.S. Senate,,,Write-ins,0
+Owen,14-Washington 2,U.S. Senate,,,Write-ins,0
+Owen,15-Washington 3,U.S. Senate,,,Write-ins,0
+Owen,16-Washington 4,U.S. Senate,,,Write-ins,0
+Owen,18-Wayne 1,U.S. Senate,,,Write-ins,0
+Owen,19-Wayne 2,U.S. Senate,,,Write-ins,0
+Owen,,U.S. Senate,,,Write-ins,2
+Owen,01-Clay 1,Governor,,REP,Eric Holcomb,323
+Owen,02-Clay 2,Governor,,REP,Eric Holcomb,358
+Owen,03-Franklin,Governor,,REP,Eric Holcomb,322
+Owen,04-Harrison,Governor,,REP,Eric Holcomb,100
+Owen,05-Jackson,Governor,,REP,Eric Holcomb,346
+Owen,06-Jefferson,Governor,,REP,Eric Holcomb,258
+Owen,07-Jennings,Governor,,REP,Eric Holcomb,212
+Owen,08-Lafayette,Governor,,REP,Eric Holcomb,292
+Owen,09-Marion,Governor,,REP,Eric Holcomb,236
+Owen,10-Montgomery,Governor,,REP,Eric Holcomb,254
+Owen,11-Morgan,Governor,,REP,Eric Holcomb,311
+Owen,12-Taylor,Governor,,REP,Eric Holcomb,254
+Owen,13-Washington 1,Governor,,REP,Eric Holcomb,552
+Owen,14-Washington 2,Governor,,REP,Eric Holcomb,260
+Owen,15-Washington 3,Governor,,REP,Eric Holcomb,310
+Owen,16-Washington 4,Governor,,REP,Eric Holcomb,327
+Owen,18-Wayne 1,Governor,,REP,Eric Holcomb,151
+Owen,19-Wayne 2,Governor,,REP,Eric Holcomb,219
+Owen,,Governor,,REP,Eric Holcomb,5085
+Owen,01-Clay 1,Governor,,DEM,John Gregg,202
+Owen,02-Clay 2,Governor,,DEM,John Gregg,197
+Owen,03-Franklin,Governor,,DEM,John Gregg,181
+Owen,04-Harrison,Governor,,DEM,John Gregg,57
+Owen,05-Jackson,Governor,,DEM,John Gregg,161
+Owen,06-Jefferson,Governor,,DEM,John Gregg,140
+Owen,07-Jennings,Governor,,DEM,John Gregg,106
+Owen,08-Lafayette,Governor,,DEM,John Gregg,171
+Owen,09-Marion,Governor,,DEM,John Gregg,128
+Owen,10-Montgomery,Governor,,DEM,John Gregg,175
+Owen,11-Morgan,Governor,,DEM,John Gregg,146
+Owen,12-Taylor,Governor,,DEM,John Gregg,130
+Owen,13-Washington 1,Governor,,DEM,John Gregg,385
+Owen,14-Washington 2,Governor,,DEM,John Gregg,205
+Owen,15-Washington 3,Governor,,DEM,John Gregg,194
+Owen,16-Washington 4,Governor,,DEM,John Gregg,253
+Owen,18-Wayne 1,Governor,,DEM,John Gregg,119
+Owen,19-Wayne 2,Governor,,DEM,John Gregg,123
+Owen,,Governor,,DEM,John Gregg,3073
+Owen,01-Clay 1,Governor,,LBT,Rex Bell,17
+Owen,02-Clay 2,Governor,,LBT,Rex Bell,20
+Owen,03-Franklin,Governor,,LBT,Rex Bell,19
+Owen,04-Harrison,Governor,,LBT,Rex Bell,6
+Owen,05-Jackson,Governor,,LBT,Rex Bell,28
+Owen,06-Jefferson,Governor,,LBT,Rex Bell,14
+Owen,07-Jennings,Governor,,LBT,Rex Bell,14
+Owen,08-Lafayette,Governor,,LBT,Rex Bell,28
+Owen,09-Marion,Governor,,LBT,Rex Bell,18
+Owen,10-Montgomery,Governor,,LBT,Rex Bell,35
+Owen,11-Morgan,Governor,,LBT,Rex Bell,17
+Owen,12-Taylor,Governor,,LBT,Rex Bell,8
+Owen,13-Washington 1,Governor,,LBT,Rex Bell,30
+Owen,14-Washington 2,Governor,,LBT,Rex Bell,14
+Owen,15-Washington 3,Governor,,LBT,Rex Bell,18
+Owen,16-Washington 4,Governor,,LBT,Rex Bell,17
+Owen,18-Wayne 1,Governor,,LBT,Rex Bell,13
+Owen,19-Wayne 2,Governor,,LBT,Rex Bell,18
+Owen,,Governor,,LBT,Rex Bell,334
+Owen,01-Clay 1,Governor,,,Write-ins,0
+Owen,02-Clay 2,Governor,,,Write-ins,0
+Owen,03-Franklin,Governor,,,Write-ins,0
+Owen,04-Harrison,Governor,,,Write-ins,0
+Owen,05-Jackson,Governor,,,Write-ins,1
+Owen,06-Jefferson,Governor,,,Write-ins,0
+Owen,07-Jennings,Governor,,,Write-ins,0
+Owen,08-Lafayette,Governor,,,Write-ins,0
+Owen,09-Marion,Governor,,,Write-ins,0
+Owen,10-Montgomery,Governor,,,Write-ins,0
+Owen,11-Morgan,Governor,,,Write-ins,0
+Owen,12-Taylor,Governor,,,Write-ins,0
+Owen,13-Washington 1,Governor,,,Write-ins,0
+Owen,14-Washington 2,Governor,,,Write-ins,0
+Owen,15-Washington 3,Governor,,,Write-ins,0
+Owen,16-Washington 4,Governor,,,Write-ins,0
+Owen,18-Wayne 1,Governor,,,Write-ins,0
+Owen,19-Wayne 2,Governor,,,Write-ins,0
+Owen,,Governor,,,Write-ins,1
+Owen,01-Clay 1,Attorney General,,REP,Curtis Hill,386
+Owen,02-Clay 2,Attorney General,,REP,Curtis Hill,417
+Owen,03-Franklin,Attorney General,,REP,Curtis Hill,367
+Owen,04-Harrison,Attorney General,,REP,Curtis Hill,130
+Owen,05-Jackson,Attorney General,,REP,Curtis Hill,401
+Owen,06-Jefferson,Attorney General,,REP,Curtis Hill,305
+Owen,07-Jennings,Attorney General,,REP,Curtis Hill,268
+Owen,08-Lafayette,Attorney General,,REP,Curtis Hill,347
+Owen,09-Marion,Attorney General,,REP,Curtis Hill,294
+Owen,10-Montgomery,Attorney General,,REP,Curtis Hill,313
+Owen,11-Morgan,Attorney General,,REP,Curtis Hill,362
+Owen,12-Taylor,Attorney General,,REP,Curtis Hill,305
+Owen,13-Washington 1,Attorney General,,REP,Curtis Hill,642
+Owen,14-Washington 2,Attorney General,,REP,Curtis Hill,321
+Owen,15-Washington 3,Attorney General,,REP,Curtis Hill,356
+Owen,16-Washington 4,Attorney General,,REP,Curtis Hill,398
+Owen,18-Wayne 1,Attorney General,,REP,Curtis Hill,191
+Owen,19-Wayne 2,Attorney General,,REP,Curtis Hill,262
+Owen,,Attorney General,,REP,Curtis Hill,6065
+Owen,01-Clay 1,Attorney General,,DEM,Lorenzo Arredondo,142
+Owen,02-Clay 2,Attorney General,,DEM,Lorenzo Arredondo,138
+Owen,03-Franklin,Attorney General,,DEM,Lorenzo Arredondo,136
+Owen,04-Harrison,Attorney General,,DEM,Lorenzo Arredondo,30
+Owen,05-Jackson,Attorney General,,DEM,Lorenzo Arredondo,107
+Owen,06-Jefferson,Attorney General,,DEM,Lorenzo Arredondo,87
+Owen,07-Jennings,Attorney General,,DEM,Lorenzo Arredondo,58
+Owen,08-Lafayette,Attorney General,,DEM,Lorenzo Arredondo,131
+Owen,09-Marion,Attorney General,,DEM,Lorenzo Arredondo,72
+Owen,10-Montgomery,Attorney General,,DEM,Lorenzo Arredondo,142
+Owen,11-Morgan,Attorney General,,DEM,Lorenzo Arredondo,93
+Owen,12-Taylor,Attorney General,,DEM,Lorenzo Arredondo,74
+Owen,13-Washington 1,Attorney General,,DEM,Lorenzo Arredondo,271
+Owen,14-Washington 2,Attorney General,,DEM,Lorenzo Arredondo,150
+Owen,15-Washington 3,Attorney General,,DEM,Lorenzo Arredondo,148
+Owen,16-Washington 4,Attorney General,,DEM,Lorenzo Arredondo,165
+Owen,18-Wayne 1,Attorney General,,DEM,Lorenzo Arredondo,84
+Owen,19-Wayne 2,Attorney General,,DEM,Lorenzo Arredondo,81
+Owen,,Attorney General,,DEM,Lorenzo Arredondo,2109
+Owen,01-Clay 1,Public Instruction,,REP,Jennifer McCormick,340
+Owen,02-Clay 2,Public Instruction,,REP,Jennifer McCormick,372
+Owen,03-Franklin,Public Instruction,,REP,Jennifer McCormick,325
+Owen,04-Harrison,Public Instruction,,REP,Jennifer McCormick,107
+Owen,05-Jackson,Public Instruction,,REP,Jennifer McCormick,354
+Owen,06-Jefferson,Public Instruction,,REP,Jennifer McCormick,258
+Owen,07-Jennings,Public Instruction,,REP,Jennifer McCormick,237
+Owen,08-Lafayette,Public Instruction,,REP,Jennifer McCormick,328
+Owen,09-Marion,Public Instruction,,REP,Jennifer McCormick,259
+Owen,10-Montgomery,Public Instruction,,REP,Jennifer McCormick,285
+Owen,11-Morgan,Public Instruction,,REP,Jennifer McCormick,313
+Owen,12-Taylor,Public Instruction,,REP,Jennifer McCormick,267
+Owen,13-Washington 1,Public Instruction,,REP,Jennifer McCormick,560
+Owen,14-Washington 2,Public Instruction,,REP,Jennifer McCormick,270
+Owen,15-Washington 3,Public Instruction,,REP,Jennifer McCormick,319
+Owen,16-Washington 4,Public Instruction,,REP,Jennifer McCormick,360
+Owen,18-Wayne 1,Public Instruction,,REP,Jennifer McCormick,184
+Owen,19-Wayne 2,Public Instruction,,REP,Jennifer McCormick,225
+Owen,,Public Instruction,,REP,Jennifer McCormick,5363
+Owen,01-Clay 1,Public Instruction,,DEM,Glenda Ritz,191
+Owen,02-Clay 2,Public Instruction,,DEM,Glenda Ritz,195
+Owen,03-Franklin,Public Instruction,,DEM,Glenda Ritz,186
+Owen,04-Harrison,Public Instruction,,DEM,Glenda Ritz,53
+Owen,05-Jackson,Public Instruction,,DEM,Glenda Ritz,164
+Owen,06-Jefferson,Public Instruction,,DEM,Glenda Ritz,138
+Owen,07-Jennings,Public Instruction,,DEM,Glenda Ritz,91
+Owen,08-Lafayette,Public Instruction,,DEM,Glenda Ritz,155
+Owen,09-Marion,Public Instruction,,DEM,Glenda Ritz,115
+Owen,10-Montgomery,Public Instruction,,DEM,Glenda Ritz,167
+Owen,11-Morgan,Public Instruction,,DEM,Glenda Ritz,153
+Owen,12-Taylor,Public Instruction,,DEM,Glenda Ritz,116
+Owen,13-Washington 1,Public Instruction,,DEM,Glenda Ritz,383
+Owen,14-Washington 2,Public Instruction,,DEM,Glenda Ritz,205
+Owen,15-Washington 3,Public Instruction,,DEM,Glenda Ritz,196
+Owen,16-Washington 4,Public Instruction,,DEM,Glenda Ritz,221
+Owen,18-Wayne 1,Public Instruction,,DEM,Glenda Ritz,99
+Owen,19-Wayne 2,Public Instruction,,DEM,Glenda Ritz,125
+Owen,,Public Instruction,,DEM,Glenda Ritz,2953
+Owen,01-Clay 1,U.S. House,8,REP,Larry Bucshon,367
+Owen,02-Clay 2,U.S. House,8,REP,Larry Bucshon,391
+Owen,03-Franklin,U.S. House,8,REP,Larry Bucshon,344
+Owen,04-Harrison,U.S. House,8,REP,Larry Bucshon,115
+Owen,05-Jackson,U.S. House,8,REP,Larry Bucshon,363
+Owen,06-Jefferson,U.S. House,8,REP,Larry Bucshon,296
+Owen,07-Jennings,U.S. House,8,REP,Larry Bucshon,241
+Owen,08-Lafayette,U.S. House,8,REP,Larry Bucshon,319
+Owen,09-Marion,U.S. House,8,REP,Larry Bucshon,273
+Owen,10-Montgomery,U.S. House,8,REP,Larry Bucshon,281
+Owen,11-Morgan,U.S. House,8,REP,Larry Bucshon,343
+Owen,12-Taylor,U.S. House,8,REP,Larry Bucshon,289
+Owen,13-Washington 1,U.S. House,8,REP,Larry Bucshon,599
+Owen,14-Washington 2,U.S. House,8,REP,Larry Bucshon,292
+Owen,15-Washington 3,U.S. House,8,REP,Larry Bucshon,318
+Owen,16-Washington 4,U.S. House,8,REP,Larry Bucshon,366
+Owen,18-Wayne 1,U.S. House,8,REP,Larry Bucshon,169
+Owen,19-Wayne 2,U.S. House,8,REP,Larry Bucshon,246
+Owen,,U.S. House,8,REP,Larry Bucshon,5612
+Owen,01-Clay 1,U.S. House,8,DEM,Ron Drake,133
+Owen,02-Clay 2,U.S. House,8,DEM,Ron Drake,145
+Owen,03-Franklin,U.S. House,8,DEM,Ron Drake,119
+Owen,04-Harrison,U.S. House,8,DEM,Ron Drake,33
+Owen,05-Jackson,U.S. House,8,DEM,Ron Drake,97
+Owen,06-Jefferson,U.S. House,8,DEM,Ron Drake,83
+Owen,07-Jennings,U.S. House,8,DEM,Ron Drake,63
+Owen,08-Lafayette,U.S. House,8,DEM,Ron Drake,120
+Owen,09-Marion,U.S. House,8,DEM,Ron Drake,72
+Owen,10-Montgomery,U.S. House,8,DEM,Ron Drake,127
+Owen,11-Morgan,U.S. House,8,DEM,Ron Drake,90
+Owen,12-Taylor,U.S. House,8,DEM,Ron Drake,76
+Owen,13-Washington 1,U.S. House,8,DEM,Ron Drake,271
+Owen,14-Washington 2,U.S. House,8,DEM,Ron Drake,144
+Owen,15-Washington 3,U.S. House,8,DEM,Ron Drake,152
+Owen,16-Washington 4,U.S. House,8,DEM,Ron Drake,158
+Owen,18-Wayne 1,U.S. House,8,DEM,Ron Drake,85
+Owen,19-Wayne 2,U.S. House,8,DEM,Ron Drake,70
+Owen,,U.S. House,8,DEM,Ron Drake,2038
+Owen,01-Clay 1,U.S. House,8,LBT,Andrew Horning,29
+Owen,02-Clay 2,U.S. House,8,LBT,Andrew Horning,33
+Owen,03-Franklin,U.S. House,8,LBT,Andrew Horning,47
+Owen,04-Harrison,U.S. House,8,LBT,Andrew Horning,14
+Owen,05-Jackson,U.S. House,8,LBT,Andrew Horning,55
+Owen,06-Jefferson,U.S. House,8,LBT,Andrew Horning,23
+Owen,07-Jennings,U.S. House,8,LBT,Andrew Horning,22
+Owen,08-Lafayette,U.S. House,8,LBT,Andrew Horning,50
+Owen,09-Marion,U.S. House,8,LBT,Andrew Horning,31
+Owen,10-Montgomery,U.S. House,8,LBT,Andrew Horning,46
+Owen,11-Morgan,U.S. House,8,LBT,Andrew Horning,34
+Owen,12-Taylor,U.S. House,8,LBT,Andrew Horning,19
+Owen,13-Washington 1,U.S. House,8,LBT,Andrew Horning,62
+Owen,14-Washington 2,U.S. House,8,LBT,Andrew Horning,37
+Owen,15-Washington 3,U.S. House,8,LBT,Andrew Horning,35
+Owen,16-Washington 4,U.S. House,8,LBT,Andrew Horning,47
+Owen,18-Wayne 1,U.S. House,8,LBT,Andrew Horning,25
+Owen,19-Wayne 2,U.S. House,8,LBT,Andrew Horning,39
+Owen,,U.S. House,8,LBT,Andrew Horning,648
+Owen,04-Harrison,U.S. House,8,,Write-ins,1
+Owen,04-Harrison,State Senate,SD37,REP,Rodric Bray,141
+Owen,05-Jackson,State Senate,SD37,REP,Rodric Bray,426
+Owen,07-Jennings,State Senate,SD37,REP,Rodric Bray,279
+Owen,12-Taylor,State Senate,SD37,REP,Rodric Bray,320
+Owen,18-Wayne 1,State Senate,SD37,REP,Rodric Bray,225
+Owen,,State Senate,SD37,REP,Rodric Bray,2338
+Owen,01-Clay 1,State House,46,REP,Bob Heaton,376
+Owen,02-Clay 2,State House,46,REP,Bob Heaton,395
+Owen,03-Franklin,State House,46,REP,Bob Heaton,365
+Owen,04-Harrison,State House,44,REP,Jim Baird,108
+Owen,05-Jackson,State House,44,REP,Jim Baird,344
+Owen,06-Jefferson,State House,46,REP,Bob Heaton,323
+Owen,07-Jennings,State House,44,REP,Jim Baird,218
+Owen,08-Lafayette,State House,46,REP,Bob Heaton,349
+Owen,09-Marion,State House,46,REP,Bob Heaton,300
+Owen,10-Montgomery,State House,46,REP,Bob Heaton,302
+Owen,11-Morgan,State House,46,REP,Bob Heaton,366
+Owen,12-Taylor,State House,44,REP,Jim Baird,246
+Owen,13-Washington 1,State House,46,REP,Bob Heaton,642
+Owen,14-Washington 2,State House,46,REP,Bob Heaton,304
+Owen,15-Washington 3,State House,46,REP,Bob Heaton,352
+Owen,16-Washington 4,State House,46,REP,Bob Heaton,386
+Owen,18-Wayne 1,State House,46,REP,Bob Heaton,185
+Owen,19-Wayne 2,State House,46,REP,Bob Heaton,266
+Owen,,State House,44,REP,Jim Baird,916
+Owen,,State House,46,REP,Bob Heaton,4911
+Owen,01-Clay 1,State House,46,DEM,Bill Breeden,162
+Owen,02-Clay 2,State House,46,DEM,Bill Breeden,179
+Owen,03-Franklin,State House,46,DEM,Bill Breeden,152
+Owen,04-Harrison,State House,44,DEM,Kimberly Fidler,53
+Owen,05-Jackson,State House,44,DEM,Kimberly Fidler,181
+Owen,06-Jefferson,State House,46,DEM,Bill Breeden,86
+Owen,07-Jennings,State House,44,DEM,Kimberly Fidler,113
+Owen,08-Lafayette,State House,46,DEM,Bill Breeden,139
+Owen,09-Marion,State House,46,DEM,Bill Breeden,82
+Owen,10-Montgomery,State House,46,DEM,Bill Breeden,156
+Owen,11-Morgan,State House,46,DEM,Bill Breeden,111
+Owen,12-Taylor,State House,44,DEM,Kimberly Fidler,147
+Owen,13-Washington 1,State House,46,DEM,Bill Breeden,311
+Owen,14-Washington 2,State House,46,DEM,Bill Breeden,172
+Owen,15-Washington 3,State House,46,DEM,Bill Breeden,167
+Owen,16-Washington 4,State House,46,DEM,Bill Breeden,201
+Owen,18-Wayne 1,State House,46,DEM,Bill Breeden,97
+Owen,19-Wayne 2,State House,46,DEM,Bill Breeden,94
+Owen,,State House,44,DEM,Kimberly Fidler,494
+Owen,,State House,46,DEM,Bill Breeden,2109

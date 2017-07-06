@@ -1,0 +1,401 @@
+county,precinct,office,district,party,candidate,votes
+Parke,Adams 1,Voters,,,Registered,455
+Parke,Adams 2,Voters,,,Registered,681
+Parke,Adams 3,Voters,,,Registered,679
+Parke,Adams 4,Voters,,,Registered,827
+Parke,Florida 1,Voters,,,Registered,885
+Parke,Greene,Voters,,,Registered,264
+Parke,Florida 2,Voters,,,Registered,622
+Parke,Penn,Voters,,,Registered,513
+Parke,Liberty,Voters,,,Registered,407
+Parke,Howard,Voters,,,Registered,173
+Parke,Jackson,Voters,,,Registered,460
+Parke,Sugar Ck,Voters,,,Registered,151
+Parke,Union,Voters,,,Registered,919
+Parke,Washington,Voters,,,Registered,576
+Parke,Reserve,Voters,,,Registered,762
+Parke,Wabash,Voters,,,Registered,433
+Parke,Raccoon,Voters,,,Registered,452
+Parke,,Voters,,,Registered,9259
+Parke,Adams 1,Voters,,,Votes Cast,389
+Parke,Adams 2,Voters,,,Votes Cast,521
+Parke,Adams 3,Voters,,,Votes Cast,444
+Parke,Adams 4,Voters,,,Votes Cast,612
+Parke,Florida 1,Voters,,,Votes Cast,646
+Parke,Greene,Voters,,,Votes Cast,214
+Parke,Florida 2,Voters,,,Votes Cast,444
+Parke,Penn,Voters,,,Votes Cast,400
+Parke,Liberty,Voters,,,Votes Cast,282
+Parke,Howard,Voters,,,Votes Cast,133
+Parke,Jackson,Voters,,,Votes Cast,311
+Parke,Sugar Ck,Voters,,,Votes Cast,109
+Parke,Union,Voters,,,Votes Cast,694
+Parke,Washington,Voters,,,Votes Cast,410
+Parke,Reserve,Voters,,,Votes Cast,518
+Parke,Wabash,Voters,,,Votes Cast,326
+Parke,Raccoon,Voters,,,Votes Cast,330
+Parke,,Voters,,,Votes Cast,6783
+Parke,Adams 1,President,,REP,Donald Trump,280
+Parke,Adams 2,President,,REP,Donald Trump,356
+Parke,Adams 3,President,,REP,Donald Trump,326
+Parke,Adams 4,President,,REP,Donald Trump,442
+Parke,Florida 1,President,,REP,Donald Trump,483
+Parke,Greene,President,,REP,Donald Trump,172
+Parke,Florida 2,President,,REP,Donald Trump,307
+Parke,Penn,President,,REP,Donald Trump,285
+Parke,Liberty,President,,REP,Donald Trump,206
+Parke,Howard,President,,REP,Donald Trump,85
+Parke,Jackson,President,,REP,Donald Trump,223
+Parke,Sugar Ck,President,,REP,Donald Trump,78
+Parke,Union,President,,REP,Donald Trump,499
+Parke,Washington,President,,REP,Donald Trump,306
+Parke,Reserve,President,,REP,Donald Trump,358
+Parke,Wabash,President,,REP,Donald Trump,221
+Parke,Raccoon,President,,REP,Donald Trump,236
+Parke,,President,,REP,Donald Trump,4863
+Parke,Adams 1,President,,DEM,Hillary Clinton,72
+Parke,Adams 2,President,,DEM,Hillary Clinton,113
+Parke,Adams 3,President,,DEM,Hillary Clinton,86
+Parke,Adams 4,President,,DEM,Hillary Clinton,117
+Parke,Florida 1,President,,DEM,Hillary Clinton,139
+Parke,Greene,President,,DEM,Hillary Clinton,30
+Parke,Florida 2,President,,DEM,Hillary Clinton,116
+Parke,Penn,President,,DEM,Hillary Clinton,78
+Parke,Liberty,President,,DEM,Hillary Clinton,53
+Parke,Howard,President,,DEM,Hillary Clinton,38
+Parke,Jackson,President,,DEM,Hillary Clinton,64
+Parke,Sugar Ck,President,,DEM,Hillary Clinton,21
+Parke,Union,President,,DEM,Hillary Clinton,158
+Parke,Washington,President,,DEM,Hillary Clinton,85
+Parke,Reserve,President,,DEM,Hillary Clinton,118
+Parke,Wabash,President,,DEM,Hillary Clinton,77
+Parke,Raccoon,President,,DEM,Hillary Clinton,76
+Parke,,President,,DEM,Hillary Clinton,1441
+Parke,Adams 1,President,,LBT,Gary Johnson,24
+Parke,Adams 2,President,,LBT,Gary Johnson,27
+Parke,Adams 3,President,,LBT,Gary Johnson,21
+Parke,Adams 4,President,,LBT,Gary Johnson,31
+Parke,Florida 1,President,,LBT,Gary Johnson,16
+Parke,Greene,President,,LBT,Gary Johnson,9
+Parke,Florida 2,President,,LBT,Gary Johnson,11
+Parke,Penn,President,,LBT,Gary Johnson,22
+Parke,Liberty,President,,LBT,Gary Johnson,9
+Parke,Howard,President,,LBT,Gary Johnson,3
+Parke,Jackson,President,,LBT,Gary Johnson,13
+Parke,Sugar Ck,President,,LBT,Gary Johnson,5
+Parke,Union,President,,LBT,Gary Johnson,20
+Parke,Washington,President,,LBT,Gary Johnson,13
+Parke,Reserve,President,,LBT,Gary Johnson,27
+Parke,Wabash,President,,LBT,Gary Johnson,12
+Parke,Raccoon,President,,LBT,Gary Johnson,9
+Parke,,President,,LBT,Gary Johnson,272
+Parke,Adams 1,President,,,Write-ins,2
+Parke,Adams 2,President,,,Write-ins,5
+Parke,Adams 3,President,,,Write-ins,2
+Parke,Adams 4,President,,,Write-ins,3
+Parke,Florida 1,President,,,Write-ins,4
+Parke,Greene,President,,,Write-ins,1
+Parke,Florida 2,President,,,Write-ins,7
+Parke,Penn,President,,,Write-ins,9
+Parke,Liberty,President,,,Write-ins,6
+Parke,Howard,President,,,Write-ins,3
+Parke,Jackson,President,,,Write-ins,3
+Parke,Sugar Ck,President,,,Write-ins,1
+Parke,Union,President,,,Write-ins,3
+Parke,Washington,President,,,Write-ins,1
+Parke,Reserve,President,,,Write-ins,5
+Parke,Wabash,President,,,Write-ins,5
+Parke,Raccoon,President,,,Write-ins,0
+Parke,,President,,,Write-ins,60
+Parke,Adams 1,U.S. Senate,,REP,Todd Young,213
+Parke,Adams 2,U.S. Senate,,REP,Todd Young,299
+Parke,Adams 3,U.S. Senate,,REP,Todd Young,262
+Parke,Adams 4,U.S. Senate,,REP,Todd Young,335
+Parke,Florida 1,U.S. Senate,,REP,Todd Young,352
+Parke,Greene,U.S. Senate,,REP,Todd Young,150
+Parke,Florida 2,U.S. Senate,,REP,Todd Young,231
+Parke,Penn,U.S. Senate,,REP,Todd Young,235
+Parke,Liberty,U.S. Senate,,REP,Todd Young,182
+Parke,Howard,U.S. Senate,,REP,Todd Young,70
+Parke,Jackson,U.S. Senate,,REP,Todd Young,193
+Parke,Sugar Ck,U.S. Senate,,REP,Todd Young,54
+Parke,Union,U.S. Senate,,REP,Todd Young,409
+Parke,Washington,U.S. Senate,,REP,Todd Young,248
+Parke,Reserve,U.S. Senate,,REP,Todd Young,265
+Parke,Wabash,U.S. Senate,,REP,Todd Young,175
+Parke,Raccoon,U.S. Senate,,REP,Todd Young,186
+Parke,,U.S. Senate,,REP,Todd Young,3859
+Parke,Adams 1,U.S. Senate,,DEM,Evan Bayh,144
+Parke,Adams 2,U.S. Senate,,DEM,Evan Bayh,179
+Parke,Adams 3,U.S. Senate,,DEM,Evan Bayh,144
+Parke,Adams 4,U.S. Senate,,DEM,Evan Bayh,209
+Parke,Florida 1,U.S. Senate,,DEM,Evan Bayh,255
+Parke,Greene,U.S. Senate,,DEM,Evan Bayh,52
+Parke,Florida 2,U.S. Senate,,DEM,Evan Bayh,186
+Parke,Penn,U.S. Senate,,DEM,Evan Bayh,115
+Parke,Liberty,U.S. Senate,,DEM,Evan Bayh,75
+Parke,Howard,U.S. Senate,,DEM,Evan Bayh,50
+Parke,Jackson,U.S. Senate,,DEM,Evan Bayh,92
+Parke,Sugar Ck,U.S. Senate,,DEM,Evan Bayh,47
+Parke,Union,U.S. Senate,,DEM,Evan Bayh,227
+Parke,Washington,U.S. Senate,,DEM,Evan Bayh,131
+Parke,Reserve,U.S. Senate,,DEM,Evan Bayh,202
+Parke,Wabash,U.S. Senate,,DEM,Evan Bayh,115
+Parke,Raccoon,U.S. Senate,,DEM,Evan Bayh,116
+Parke,,U.S. Senate,,DEM,Evan Bayh,2339
+Parke,Adams 1,U.S. Senate,,LBT,Lucy Brenton,22
+Parke,Adams 2,U.S. Senate,,LBT,Lucy Brenton,29
+Parke,Adams 3,U.S. Senate,,LBT,Lucy Brenton,33
+Parke,Adams 4,U.S. Senate,,LBT,Lucy Brenton,46
+Parke,Florida 1,U.S. Senate,,LBT,Lucy Brenton,31
+Parke,Greene,U.S. Senate,,LBT,Lucy Brenton,10
+Parke,Florida 2,U.S. Senate,,LBT,Lucy Brenton,20
+Parke,Penn,U.S. Senate,,LBT,Lucy Brenton,40
+Parke,Liberty,U.S. Senate,,LBT,Lucy Brenton,18
+Parke,Howard,U.S. Senate,,LBT,Lucy Brenton,9
+Parke,Jackson,U.S. Senate,,LBT,Lucy Brenton,22
+Parke,Sugar Ck,U.S. Senate,,LBT,Lucy Brenton,5
+Parke,Union,U.S. Senate,,LBT,Lucy Brenton,41
+Parke,Washington,U.S. Senate,,LBT,Lucy Brenton,24
+Parke,Reserve,U.S. Senate,,LBT,Lucy Brenton,38
+Parke,Wabash,U.S. Senate,,LBT,Lucy Brenton,31
+Parke,Raccoon,U.S. Senate,,LBT,Lucy Brenton,16
+Parke,,U.S. Senate,,LBT,Lucy Brenton,435
+Parke,Adams 1,U.S. Senate,,,Write-ins,0
+Parke,Adams 2,U.S. Senate,,,Write-ins,0
+Parke,Adams 3,U.S. Senate,,,Write-ins,0
+Parke,Adams 4,U.S. Senate,,,Write-ins,0
+Parke,Florida 1,U.S. Senate,,,Write-ins,0
+Parke,Greene,U.S. Senate,,,Write-ins,0
+Parke,Florida 2,U.S. Senate,,,Write-ins,0
+Parke,Penn,U.S. Senate,,,Write-ins,0
+Parke,Liberty,U.S. Senate,,,Write-ins,0
+Parke,Howard,U.S. Senate,,,Write-ins,1
+Parke,Jackson,U.S. Senate,,,Write-ins,1
+Parke,Sugar Ck,U.S. Senate,,,Write-ins,0
+Parke,Union,U.S. Senate,,,Write-ins,0
+Parke,Washington,U.S. Senate,,,Write-ins,0
+Parke,Reserve,U.S. Senate,,,Write-ins,0
+Parke,Wabash,U.S. Senate,,,Write-ins,0
+Parke,Raccoon,U.S. Senate,,,Write-ins,0
+Parke,,U.S. Senate,,,Write-ins,2
+Parke,Adams 1,Governor,,REP,Eric Holcomb,222
+Parke,Adams 2,Governor,,REP,Eric Holcomb,293
+Parke,Adams 3,Governor,,REP,Eric Holcomb,261
+Parke,Adams 4,Governor,,REP,Eric Holcomb,352
+Parke,Florida 1,Governor,,REP,Eric Holcomb,345
+Parke,Greene,Governor,,REP,Eric Holcomb,130
+Parke,Florida 2,Governor,,REP,Eric Holcomb,227
+Parke,Penn,Governor,,REP,Eric Holcomb,215
+Parke,Liberty,Governor,,REP,Eric Holcomb,161
+Parke,Howard,Governor,,REP,Eric Holcomb,62
+Parke,Jackson,Governor,,REP,Eric Holcomb,199
+Parke,Sugar Ck,Governor,,REP,Eric Holcomb,59
+Parke,Union,Governor,,REP,Eric Holcomb,422
+Parke,Washington,Governor,,REP,Eric Holcomb,242
+Parke,Reserve,Governor,,REP,Eric Holcomb,262
+Parke,Wabash,Governor,,REP,Eric Holcomb,183
+Parke,Raccoon,Governor,,REP,Eric Holcomb,189
+Parke,,Governor,,REP,Eric Holcomb,3824
+Parke,Adams 1,Governor,,DEM,John Gregg,148
+Parke,Adams 2,Governor,,DEM,John Gregg,196
+Parke,Adams 3,Governor,,DEM,John Gregg,159
+Parke,Adams 4,Governor,,DEM,John Gregg,219
+Parke,Florida 1,Governor,,DEM,John Gregg,279
+Parke,Greene,Governor,,DEM,John Gregg,75
+Parke,Florida 2,Governor,,DEM,John Gregg,201
+Parke,Penn,Governor,,DEM,John Gregg,152
+Parke,Liberty,Governor,,DEM,John Gregg,99
+Parke,Howard,Governor,,DEM,John Gregg,64
+Parke,Jackson,Governor,,DEM,John Gregg,101
+Parke,Sugar Ck,Governor,,DEM,John Gregg,45
+Parke,Union,Governor,,DEM,John Gregg,236
+Parke,Washington,Governor,,DEM,John Gregg,155
+Parke,Reserve,Governor,,DEM,John Gregg,225
+Parke,Wabash,Governor,,DEM,John Gregg,127
+Parke,Raccoon,Governor,,DEM,John Gregg,127
+Parke,,Governor,,DEM,John Gregg,2608
+Parke,Adams 1,Governor,,LBT,Rex Bell,11
+Parke,Adams 2,Governor,,LBT,Rex Bell,17
+Parke,Adams 3,Governor,,LBT,Rex Bell,15
+Parke,Adams 4,Governor,,LBT,Rex Bell,24
+Parke,Florida 1,Governor,,LBT,Rex Bell,13
+Parke,Greene,Governor,,LBT,Rex Bell,7
+Parke,Florida 2,Governor,,LBT,Rex Bell,12
+Parke,Penn,Governor,,LBT,Rex Bell,23
+Parke,Liberty,Governor,,LBT,Rex Bell,15
+Parke,Howard,Governor,,LBT,Rex Bell,4
+Parke,Jackson,Governor,,LBT,Rex Bell,6
+Parke,Sugar Ck,Governor,,LBT,Rex Bell,1
+Parke,Union,Governor,,LBT,Rex Bell,19
+Parke,Washington,Governor,,LBT,Rex Bell,9
+Parke,Reserve,Governor,,LBT,Rex Bell,18
+Parke,Wabash,Governor,,LBT,Rex Bell,10
+Parke,Raccoon,Governor,,LBT,Rex Bell,3
+Parke,,Governor,,LBT,Rex Bell,207
+Parke,Adams 1,Attorney General,,REP,Curtis Hill,296
+Parke,Adams 2,Attorney General,,REP,Curtis Hill,374
+Parke,Adams 3,Attorney General,,REP,Curtis Hill,318
+Parke,Adams 4,Attorney General,,REP,Curtis Hill,440
+Parke,Florida 1,Attorney General,,REP,Curtis Hill,459
+Parke,Greene,Attorney General,,REP,Curtis Hill,174
+Parke,Florida 2,Attorney General,,REP,Curtis Hill,293
+Parke,Penn,Attorney General,,REP,Curtis Hill,300
+Parke,Liberty,Attorney General,,REP,Curtis Hill,218
+Parke,Howard,Attorney General,,REP,Curtis Hill,90
+Parke,Jackson,Attorney General,,REP,Curtis Hill,227
+Parke,Sugar Ck,Attorney General,,REP,Curtis Hill,71
+Parke,Union,Attorney General,,REP,Curtis Hill,499
+Parke,Washington,Attorney General,,REP,Curtis Hill,316
+Parke,Reserve,Attorney General,,REP,Curtis Hill,343
+Parke,Wabash,Attorney General,,REP,Curtis Hill,220
+Parke,Raccoon,Attorney General,,REP,Curtis Hill,224
+Parke,,Attorney General,,REP,Curtis Hill,4862
+Parke,Adams 1,Attorney General,,DEM,Lorenzo Arrendondo,70
+Parke,Adams 2,Attorney General,,DEM,Lorenzo Arrendondo,108
+Parke,Adams 3,Attorney General,,DEM,Lorenzo Arrendondo,95
+Parke,Adams 4,Attorney General,,DEM,Lorenzo Arrendondo,125
+Parke,Florida 1,Attorney General,,DEM,Lorenzo Arrendondo,160
+Parke,Greene,Attorney General,,DEM,Lorenzo Arrendondo,32
+Parke,Florida 2,Attorney General,,DEM,Lorenzo Arrendondo,128
+Parke,Penn,Attorney General,,DEM,Lorenzo Arrendondo,75
+Parke,Liberty,Attorney General,,DEM,Lorenzo Arrendondo,53
+Parke,Howard,Attorney General,,DEM,Lorenzo Arrendondo,36
+Parke,Jackson,Attorney General,,DEM,Lorenzo Arrendondo,72
+Parke,Sugar Ck,Attorney General,,DEM,Lorenzo Arrendondo,29
+Parke,Union,Attorney General,,DEM,Lorenzo Arrendondo,161
+Parke,Washington,Attorney General,,DEM,Lorenzo Arrendondo,75
+Parke,Reserve,Attorney General,,DEM,Lorenzo Arrendondo,144
+Parke,Wabash,Attorney General,,DEM,Lorenzo Arrendondo,88
+Parke,Raccoon,Attorney General,,DEM,Lorenzo Arrendondo,87
+Parke,,Attorney General,,DEM,Lorenzo Arrendondo,1538
+Parke,Adams 1,Public Instruction,,REP,Jennifer McCormick,204
+Parke,Adams 2,Public Instruction,,REP,Jennifer McCormick,279
+Parke,Adams 3,Public Instruction,,REP,Jennifer McCormick,252
+Parke,Adams 4,Public Instruction,,REP,Jennifer McCormick,349
+Parke,Florida 1,Public Instruction,,REP,Jennifer McCormick,343
+Parke,Greene,Public Instruction,,REP,Jennifer McCormick,130
+Parke,Florida 2,Public Instruction,,REP,Jennifer McCormick,216
+Parke,Penn,Public Instruction,,REP,Jennifer McCormick,225
+Parke,Liberty,Public Instruction,,REP,Jennifer McCormick,164
+Parke,Howard,Public Instruction,,REP,Jennifer McCormick,72
+Parke,Jackson,Public Instruction,,REP,Jennifer McCormick,184
+Parke,Sugar Ck,Public Instruction,,REP,Jennifer McCormick,55
+Parke,Union,Public Instruction,,REP,Jennifer McCormick,429
+Parke,Washington,Public Instruction,,REP,Jennifer McCormick,219
+Parke,Reserve,Public Instruction,,REP,Jennifer McCormick,260
+Parke,Wabash,Public Instruction,,REP,Jennifer McCormick,188
+Parke,Raccoon,Public Instruction,,REP,Jennifer McCormick,177
+Parke,,Public Instruction,,REP,Jennifer McCormick,3746
+Parke,Adams 1,Public Instruction,,DEM,Glenda Ritz,171
+Parke,Adams 2,Public Instruction,,DEM,Glenda Ritz,217
+Parke,Adams 3,Public Instruction,,DEM,Glenda Ritz,171
+Parke,Adams 4,Public Instruction,,DEM,Glenda Ritz,233
+Parke,Florida 1,Public Instruction,,DEM,Glenda Ritz,283
+Parke,Greene,Public Instruction,,DEM,Glenda Ritz,78
+Parke,Florida 2,Public Instruction,,DEM,Glenda Ritz,217
+Parke,Penn,Public Instruction,,DEM,Glenda Ritz,163
+Parke,Liberty,Public Instruction,,DEM,Glenda Ritz,110
+Parke,Howard,Public Instruction,,DEM,Glenda Ritz,57
+Parke,Jackson,Public Instruction,,DEM,Glenda Ritz,116
+Parke,Sugar Ck,Public Instruction,,DEM,Glenda Ritz,46
+Parke,Union,Public Instruction,,DEM,Glenda Ritz,236
+Parke,Washington,Public Instruction,,DEM,Glenda Ritz,178
+Parke,Reserve,Public Instruction,,DEM,Glenda Ritz,233
+Parke,Wabash,Public Instruction,,DEM,Glenda Ritz,130
+Parke,Raccoon,Public Instruction,,DEM,Glenda Ritz,136
+Parke,,Public Instruction,,DEM,Glenda Ritz,2775
+Parke,Adams 1,U.S. House,8,REP,Larry Bucshon,292
+Parke,Adams 2,U.S. House,8,REP,Larry Bucshon,367
+Parke,Adams 3,U.S. House,8,REP,Larry Bucshon,318
+Parke,Adams 4,U.S. House,8,REP,Larry Bucshon,418
+Parke,Florida 1,U.S. House,8,REP,Larry Bucshon,429
+Parke,Greene,U.S. House,8,REP,Larry Bucshon,166
+Parke,Florida 2,U.S. House,8,REP,Larry Bucshon,272
+Parke,Penn,U.S. House,8,REP,Larry Bucshon,279
+Parke,Liberty,U.S. House,8,REP,Larry Bucshon,201
+Parke,Howard,U.S. House,8,REP,Larry Bucshon,80
+Parke,Jackson,U.S. House,8,REP,Larry Bucshon,212
+Parke,Sugar Ck,U.S. House,8,REP,Larry Bucshon,67
+Parke,Union,U.S. House,8,REP,Larry Bucshon,474
+Parke,Washington,U.S. House,8,REP,Larry Bucshon,289
+Parke,Reserve,U.S. House,8,REP,Larry Bucshon,331
+Parke,Wabash,U.S. House,8,REP,Larry Bucshon,209
+Parke,Raccoon,U.S. House,8,REP,Larry Bucshon,209
+Parke,,U.S. House,8,REP,Larry Bucshon,4613
+Parke,Adams 1,U.S. House,8,DEM,Ron Drake,72
+Parke,Adams 2,U.S. House,8,DEM,Ron Drake,102
+Parke,Adams 3,U.S. House,8,DEM,Ron Drake,92
+Parke,Adams 4,U.S. House,8,DEM,Ron Drake,120
+Parke,Florida 1,U.S. House,8,DEM,Ron Drake,163
+Parke,Greene,U.S. House,8,DEM,Ron Drake,34
+Parke,Florida 2,U.S. House,8,DEM,Ron Drake,138
+Parke,Penn,U.S. House,8,DEM,Ron Drake,81
+Parke,Liberty,U.S. House,8,DEM,Ron Drake,61
+Parke,Howard,U.S. House,8,DEM,Ron Drake,37
+Parke,Jackson,U.S. House,8,DEM,Ron Drake,78
+Parke,Sugar Ck,U.S. House,8,DEM,Ron Drake,27
+Parke,Union,U.S. House,8,DEM,Ron Drake,160
+Parke,Washington,U.S. House,8,DEM,Ron Drake,85
+Parke,Reserve,U.S. House,8,DEM,Ron Drake,138
+Parke,Wabash,U.S. House,8,DEM,Ron Drake,89
+Parke,Raccoon,U.S. House,8,DEM,Ron Drake,92
+Parke,,U.S. House,8,DEM,Ron Drake,1569
+Parke,Adams 1,U.S. House,8,LBT,Andrew Horning,11
+Parke,Adams 2,U.S. House,8,LBT,Andrew Horning,27
+Parke,Adams 3,U.S. House,8,LBT,Andrew Horning,15
+Parke,Adams 4,U.S. House,8,LBT,Andrew Horning,39
+Parke,Florida 1,U.S. House,8,LBT,Andrew Horning,31
+Parke,Greene,U.S. House,8,LBT,Andrew Horning,7
+Parke,Florida 2,U.S. House,8,LBT,Andrew Horning,24
+Parke,Penn,U.S. House,8,LBT,Andrew Horning,22
+Parke,Liberty,U.S. House,8,LBT,Andrew Horning,13
+Parke,Howard,U.S. House,8,LBT,Andrew Horning,10
+Parke,Jackson,U.S. House,8,LBT,Andrew Horning,12
+Parke,Sugar Ck,U.S. House,8,LBT,Andrew Horning,9
+Parke,Union,U.S. House,8,LBT,Andrew Horning,34
+Parke,Washington,U.S. House,8,LBT,Andrew Horning,23
+Parke,Reserve,U.S. House,8,LBT,Andrew Horning,26
+Parke,Wabash,U.S. House,8,LBT,Andrew Horning,16
+Parke,Raccoon,U.S. House,8,LBT,Andrew Horning,12
+Parke,,U.S. House,8,LBT,Andrew Horning,331
+Parke,Florida 1,U.S. House,8,,Write-ins,1
+Parke,Reserve,U.S. House,8,,Write-ins,1
+Parke,Adams 1,State House,42,REP,Alan Morrison,225
+Parke,Adams 2,State House,42,REP,Alan Morrison,296
+Parke,Adams 3,State House,42,REP,Alan Morrison,269
+Parke,Adams 4,State House,42,REP,Alan Morrison,377
+Parke,Florida 1,State House,42,REP,Alan Morrison,345
+Parke,Greene,State House,42,REP,Jim Baird,167
+Parke,Florida 2,State House,42,REP,Alan Morrison,232
+Parke,Penn,State House,42,REP,Alan Morrison,233
+Parke,Liberty,State House,42,REP,Alan Morrison,187
+Parke,Howard,State House,42,REP,Alan Morrison,70
+Parke,Jackson,State House,42,REP,Jim Baird,205
+Parke,Sugar Ck,State House,42,REP,Alan Morrison,61
+Parke,Union,State House,42,REP,Jim Baird,507
+Parke,Washington,State House,42,REP,Alan Morrison,235
+Parke,Reserve,State House,42,REP,Alan Morrison,278
+Parke,Wabash,State House,42,REP,Alan Morrison,184
+Parke,Raccoon,State House,42,REP,Alan Morrison,183
+Parke,,State House,42,REP,Alan Morrison,3175
+Parke,,State House,42,REP,Jim Baird,879
+Parke,Adams 1,State House,42,DEM,Tim Skinner,149
+Parke,Adams 2,State House,42,DEM,Tim Skinner,204
+Parke,Adams 3,State House,42,DEM,Tim Skinner,156
+Parke,Adams 4,State House,42,DEM,Tim Skinner,209
+Parke,Florida 1,State House,42,DEM,Tim Skinner,283
+Parke,Greene,State House,42,DEM,Kim Fidler,42
+Parke,Florida 2,State House,42,DEM,Tim Skinner,202
+Parke,Penn,State House,42,DEM,Tim Skinner,152
+Parke,Liberty,State House,42,DEM,Tim Skinner,88
+Parke,Howard,State House,42,DEM,Tim Skinner,56
+Parke,Jackson,State House,42,DEM,Kim Fidler,97
+Parke,Sugar Ck,State House,42,DEM,Tim Skinner,40
+Parke,Union,State House,42,DEM,Kim Fidler,164
+Parke,Washington,State House,42,DEM,Tim Skinner,163
+Parke,Reserve,State House,42,DEM,Tim Skinner,227
+Parke,Wabash,State House,42,DEM,Tim Skinner,128
+Parke,Raccoon,State House,42,DEM,Tim Skinner,133
+Parke,,State House,42,DEM,Tim Skinner,2190
+Parke,,State House,44,DEM,Kim Fidler,303

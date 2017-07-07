@@ -1,0 +1,441 @@
+county,precinct,office,district,party,candidate,votes
+Crawford,11 Patoka 2,Voters,,,Registered,411
+Crawford,12 Johnson 1,Voters,,,Registered,378
+Crawford,15 Union 2,Voters,,,Registered,272
+Crawford,17 Ohio 2,Voters,,,Registered,232
+Crawford,18 Boone,Voters,,,Registered,137
+Crawford,01 Jennings 1,Voters,,,Registered,630
+Crawford,02 Jennings 2,Voters,,,Registered,551
+Crawford,03 Whiskey Run 1,Voters,,,Registered,756
+Crawford,04 Whiskey Run 2,Voters,,,Registered,915
+Crawford,05 Liberty 1,Voters,,,Registered,846
+Crawford,06 Liberty 2,Voters,,,Registered,978
+Crawford,07 Sterling 1,Voters,,,Registered,331
+Crawford,08 Sterling 2,Voters,,,Registered,594
+Crawford,09 Sterling 3,Voters,,,Registered,560
+Crawford,10 Patoka 1,Voters,,,Registered,916
+Crawford,13 Johnson 2,Voters,,,Registered,9
+Crawford,14 Union 1,Voters,,,Registered,389
+Crawford,16 Ohio 1,Voters,,,Registered,381
+Crawford,,Voters,,,Registered,9286
+Crawford,11 Patoka 2,Voters,,,Ballots Cast,207
+Crawford,12 Johnson 1,Voters,,,Ballots Cast,186
+Crawford,15 Union 2,Voters,,,Ballots Cast,136
+Crawford,17 Ohio 2,Voters,,,Ballots Cast,128
+Crawford,18 Boone,Voters,,,Ballots Cast,69
+Crawford,01 Jennings 1,Voters,,,Ballots Cast,347
+Crawford,02 Jennings 2,Voters,,,Ballots Cast,315
+Crawford,03 Whiskey Run 1,Voters,,,Ballots Cast,476
+Crawford,04 Whiskey Run 2,Voters,,,Ballots Cast,432
+Crawford,05 Liberty 1,Voters,,,Ballots Cast,422
+Crawford,06 Liberty 2,Voters,,,Ballots Cast,443
+Crawford,07 Sterling 1,Voters,,,Ballots Cast,170
+Crawford,08 Sterling 2,Voters,,,Ballots Cast,253
+Crawford,09 Sterling 3,Voters,,,Ballots Cast,281
+Crawford,10 Patoka 1,Voters,,,Ballots Cast,507
+Crawford,13 Johnson 2,Voters,,,Ballots Cast,0
+Crawford,14 Union 1,Voters,,,Ballots Cast,201
+Crawford,16 Ohio 1,Voters,,,Ballots Cast,193
+Crawford,,Voters,,,Ballots Cast,4766
+Crawford,11 Patoka 2,President,,REP,Donald Trump,133
+Crawford,12 Johnson 1,President,,REP,Donald Trump,120
+Crawford,15 Union 2,President,,REP,Donald Trump,106
+Crawford,17 Ohio 2,President,,REP,Donald Trump,79
+Crawford,18 Boone,President,,REP,Donald Trump,54
+Crawford,01 Jennings 1,President,,REP,Donald Trump,235
+Crawford,02 Jennings 2,President,,REP,Donald Trump,199
+Crawford,03 Whiskey Run 1,President,,REP,Donald Trump,296
+Crawford,04 Whiskey Run 2,President,,REP,Donald Trump,271
+Crawford,05 Liberty 1,President,,REP,Donald Trump,231
+Crawford,06 Liberty 2,President,,REP,Donald Trump,263
+Crawford,07 Sterling 1,President,,REP,Donald Trump,93
+Crawford,08 Sterling 2,President,,REP,Donald Trump,150
+Crawford,09 Sterling 3,President,,REP,Donald Trump,204
+Crawford,10 Patoka 1,President,,REP,Donald Trump,330
+Crawford,13 Johnson 2,President,,REP,Donald Trump,0
+Crawford,14 Union 1,President,,REP,Donald Trump,128
+Crawford,16 Ohio 1,President,,REP,Donald Trump,123
+Crawford,,President,,REP,Donald Trump,3015
+Crawford,11 Patoka 2,President,,DEM,Hillary Clinton,63
+Crawford,12 Johnson 1,President,,DEM,Hillary Clinton,40
+Crawford,15 Union 2,President,,DEM,Hillary Clinton,22
+Crawford,17 Ohio 2,President,,DEM,Hillary Clinton,39
+Crawford,18 Boone,President,,DEM,Hillary Clinton,13
+Crawford,01 Jennings 1,President,,DEM,Hillary Clinton,84
+Crawford,02 Jennings 2,President,,DEM,Hillary Clinton,91
+Crawford,03 Whiskey Run 1,President,,DEM,Hillary Clinton,136
+Crawford,04 Whiskey Run 2,President,,DEM,Hillary Clinton,124
+Crawford,05 Liberty 1,President,,DEM,Hillary Clinton,148
+Crawford,06 Liberty 2,President,,DEM,Hillary Clinton,134
+Crawford,07 Sterling 1,President,,DEM,Hillary Clinton,48
+Crawford,08 Sterling 2,President,,DEM,Hillary Clinton,77
+Crawford,09 Sterling 3,President,,DEM,Hillary Clinton,60
+Crawford,10 Patoka 1,President,,DEM,Hillary Clinton,132
+Crawford,13 Johnson 2,President,,DEM,Hillary Clinton,0
+Crawford,14 Union 1,President,,DEM,Hillary Clinton,56
+Crawford,16 Ohio 1,President,,DEM,Hillary Clinton,56
+Crawford,,President,,DEM,Hillary Clinton,1323
+Crawford,11 Patoka 2,President,,LBT,Gary Johnson,8
+Crawford,12 Johnson 1,President,,LBT,Gary Johnson,19
+Crawford,15 Union 2,President,,LBT,Gary Johnson,5
+Crawford,17 Ohio 2,President,,LBT,Gary Johnson,1
+Crawford,18 Boone,President,,LBT,Gary Johnson,2
+Crawford,01 Jennings 1,President,,LBT,Gary Johnson,19
+Crawford,02 Jennings 2,President,,LBT,Gary Johnson,14
+Crawford,03 Whiskey Run 1,President,,LBT,Gary Johnson,32
+Crawford,04 Whiskey Run 2,President,,LBT,Gary Johnson,20
+Crawford,05 Liberty 1,President,,LBT,Gary Johnson,22
+Crawford,06 Liberty 2,President,,LBT,Gary Johnson,24
+Crawford,07 Sterling 1,President,,LBT,Gary Johnson,19
+Crawford,08 Sterling 2,President,,LBT,Gary Johnson,14
+Crawford,09 Sterling 3,President,,LBT,Gary Johnson,14
+Crawford,10 Patoka 1,President,,LBT,Gary Johnson,24
+Crawford,13 Johnson 2,President,,LBT,Gary Johnson,0
+Crawford,14 Union 1,President,,LBT,Gary Johnson,10
+Crawford,16 Ohio 1,President,,LBT,Gary Johnson,8
+Crawford,,President,,LBT,Gary Johnson,255
+Crawford,11 Patoka 2,President,,,Write-ins,0
+Crawford,12 Johnson 1,President,,,Write-ins,1
+Crawford,15 Union 2,President,,,Write-ins,2
+Crawford,17 Ohio 2,President,,,Write-ins,4
+Crawford,18 Boone,President,,,Write-ins,0
+Crawford,01 Jennings 1,President,,,Write-ins,4
+Crawford,02 Jennings 2,President,,,Write-ins,3
+Crawford,03 Whiskey Run 1,President,,,Write-ins,4
+Crawford,04 Whiskey Run 2,President,,,Write-ins,4
+Crawford,05 Liberty 1,President,,,Write-ins,8
+Crawford,06 Liberty 2,President,,,Write-ins,5
+Crawford,07 Sterling 1,President,,,Write-ins,2
+Crawford,08 Sterling 2,President,,,Write-ins,3
+Crawford,09 Sterling 3,President,,,Write-ins,0
+Crawford,10 Patoka 1,President,,,Write-ins,8
+Crawford,13 Johnson 2,President,,,Write-ins,0
+Crawford,14 Union 1,President,,,Write-ins,1
+Crawford,16 Ohio 1,President,,,Write-ins,0
+Crawford,,President,,,Write-ins,49
+Crawford,11 Patoka 2,U.S. Senate,,REP,Todd Young,104
+Crawford,12 Johnson 1,U.S. Senate,,REP,Todd Young,97
+Crawford,15 Union 2,U.S. Senate,,REP,Todd Young,87
+Crawford,17 Ohio 2,U.S. Senate,,REP,Todd Young,66
+Crawford,18 Boone,U.S. Senate,,REP,Todd Young,48
+Crawford,01 Jennings 1,U.S. Senate,,REP,Todd Young,194
+Crawford,02 Jennings 2,U.S. Senate,,REP,Todd Young,175
+Crawford,03 Whiskey Run 1,U.S. Senate,,REP,Todd Young,258
+Crawford,04 Whiskey Run 2,U.S. Senate,,REP,Todd Young,250
+Crawford,05 Liberty 1,U.S. Senate,,REP,Todd Young,185
+Crawford,06 Liberty 2,U.S. Senate,,REP,Todd Young,219
+Crawford,07 Sterling 1,U.S. Senate,,REP,Todd Young,74
+Crawford,08 Sterling 2,U.S. Senate,,REP,Todd Young,121
+Crawford,09 Sterling 3,U.S. Senate,,REP,Todd Young,162
+Crawford,10 Patoka 1,U.S. Senate,,REP,Todd Young,250
+Crawford,13 Johnson 2,U.S. Senate,,REP,Todd Young,0
+Crawford,14 Union 1,U.S. Senate,,REP,Todd Young,103
+Crawford,16 Ohio 1,U.S. Senate,,REP,Todd Young,107
+Crawford,,U.S. Senate,,REP,Todd Young,2500
+Crawford,11 Patoka 2,U.S. Senate,,DEM,Evan Bayh,88
+Crawford,12 Johnson 1,U.S. Senate,,DEM,Evan Bayh,66
+Crawford,15 Union 2,U.S. Senate,,DEM,Evan Bayh,37
+Crawford,17 Ohio 2,U.S. Senate,,DEM,Evan Bayh,52
+Crawford,18 Boone,U.S. Senate,,DEM,Evan Bayh,19
+Crawford,01 Jennings 1,U.S. Senate,,DEM,Evan Bayh,121
+Crawford,02 Jennings 2,U.S. Senate,,DEM,Evan Bayh,122
+Crawford,03 Whiskey Run 1,U.S. Senate,,DEM,Evan Bayh,183
+Crawford,04 Whiskey Run 2,U.S. Senate,,DEM,Evan Bayh,159
+Crawford,05 Liberty 1,U.S. Senate,,DEM,Evan Bayh,190
+Crawford,06 Liberty 2,U.S. Senate,,DEM,Evan Bayh,191
+Crawford,07 Sterling 1,U.S. Senate,,DEM,Evan Bayh,75
+Crawford,08 Sterling 2,U.S. Senate,,DEM,Evan Bayh,108
+Crawford,09 Sterling 3,U.S. Senate,,DEM,Evan Bayh,99
+Crawford,10 Patoka 1,U.S. Senate,,DEM,Evan Bayh,219
+Crawford,13 Johnson 2,U.S. Senate,,DEM,Evan Bayh,0
+Crawford,14 Union 1,U.S. Senate,,DEM,Evan Bayh,87
+Crawford,16 Ohio 1,U.S. Senate,,DEM,Evan Bayh,74
+Crawford,,U.S. Senate,,DEM,Evan Bayh,1890
+Crawford,11 Patoka 2,U.S. Senate,,LBT,Lucy Brenton,6
+Crawford,12 Johnson 1,U.S. Senate,,LBT,Lucy Brenton,6
+Crawford,15 Union 2,U.S. Senate,,LBT,Lucy Brenton,4
+Crawford,17 Ohio 2,U.S. Senate,,LBT,Lucy Brenton,5
+Crawford,18 Boone,U.S. Senate,,LBT,Lucy Brenton,0
+Crawford,01 Jennings 1,U.S. Senate,,LBT,Lucy Brenton,14
+Crawford,02 Jennings 2,U.S. Senate,,LBT,Lucy Brenton,8
+Crawford,03 Whiskey Run 1,U.S. Senate,,LBT,Lucy Brenton,17
+Crawford,04 Whiskey Run 2,U.S. Senate,,LBT,Lucy Brenton,8
+Crawford,05 Liberty 1,U.S. Senate,,LBT,Lucy Brenton,21
+Crawford,06 Liberty 2,U.S. Senate,,LBT,Lucy Brenton,19
+Crawford,07 Sterling 1,U.S. Senate,,LBT,Lucy Brenton,11
+Crawford,08 Sterling 2,U.S. Senate,,LBT,Lucy Brenton,15
+Crawford,09 Sterling 3,U.S. Senate,,LBT,Lucy Brenton,10
+Crawford,10 Patoka 1,U.S. Senate,,LBT,Lucy Brenton,18
+Crawford,13 Johnson 2,U.S. Senate,,LBT,Lucy Brenton,0
+Crawford,14 Union 1,U.S. Senate,,LBT,Lucy Brenton,3
+Crawford,16 Ohio 1,U.S. Senate,,LBT,Lucy Brenton,4
+Crawford,,U.S. Senate,,LBT,Lucy Brenton,169
+Crawford,11 Patoka 2,U.S. Senate,,,Write-ins,0
+Crawford,12 Johnson 1,U.S. Senate,,,Write-ins,0
+Crawford,15 Union 2,U.S. Senate,,,Write-ins,0
+Crawford,17 Ohio 2,U.S. Senate,,,Write-ins,0
+Crawford,18 Boone,U.S. Senate,,,Write-ins,0
+Crawford,01 Jennings 1,U.S. Senate,,,Write-ins,0
+Crawford,02 Jennings 2,U.S. Senate,,,Write-ins,1
+Crawford,03 Whiskey Run 1,U.S. Senate,,,Write-ins,0
+Crawford,04 Whiskey Run 2,U.S. Senate,,,Write-ins,4
+Crawford,05 Liberty 1,U.S. Senate,,,Write-ins,0
+Crawford,06 Liberty 2,U.S. Senate,,,Write-ins,0
+Crawford,07 Sterling 1,U.S. Senate,,,Write-ins,1
+Crawford,08 Sterling 2,U.S. Senate,,,Write-ins,1
+Crawford,09 Sterling 3,U.S. Senate,,,Write-ins,1
+Crawford,10 Patoka 1,U.S. Senate,,,Write-ins,3
+Crawford,13 Johnson 2,U.S. Senate,,,Write-ins,0
+Crawford,14 Union 1,U.S. Senate,,,Write-ins,0
+Crawford,16 Ohio 1,U.S. Senate,,,Write-ins,0
+Crawford,,U.S. Senate,,,Write-ins,11
+Crawford,11 Patoka 2,Governor,,REP,Eric Holcomb,111
+Crawford,12 Johnson 1,Governor,,REP,Eric Holcomb,87
+Crawford,15 Union 2,Governor,,REP,Eric Holcomb,88
+Crawford,17 Ohio 2,Governor,,REP,Eric Holcomb,61
+Crawford,18 Boone,Governor,,REP,Eric Holcomb,47
+Crawford,01 Jennings 1,Governor,,REP,Eric Holcomb,184
+Crawford,02 Jennings 2,Governor,,REP,Eric Holcomb,182
+Crawford,03 Whiskey Run 1,Governor,,REP,Eric Holcomb,249
+Crawford,04 Whiskey Run 2,Governor,,REP,Eric Holcomb,240
+Crawford,05 Liberty 1,Governor,,REP,Eric Holcomb,179
+Crawford,06 Liberty 2,Governor,,REP,Eric Holcomb,195
+Crawford,07 Sterling 1,Governor,,REP,Eric Holcomb,63
+Crawford,08 Sterling 2,Governor,,REP,Eric Holcomb,114
+Crawford,09 Sterling 3,Governor,,REP,Eric Holcomb,158
+Crawford,10 Patoka 1,Governor,,REP,Eric Holcomb,215
+Crawford,13 Johnson 2,Governor,,REP,Eric Holcomb,0
+Crawford,14 Union 1,Governor,,REP,Eric Holcomb,110
+Crawford,16 Ohio 1,Governor,,REP,Eric Holcomb,98
+Crawford,,Governor,,REP,Eric Holcomb,2381
+Crawford,11 Patoka 2,Governor,,DEM,John Gregg,82
+Crawford,12 Johnson 1,Governor,,DEM,John Gregg,66
+Crawford,15 Union 2,Governor,,DEM,John Gregg,31
+Crawford,17 Ohio 2,Governor,,DEM,John Gregg,54
+Crawford,18 Boone,Governor,,DEM,John Gregg,19
+Crawford,01 Jennings 1,Governor,,DEM,John Gregg,127
+Crawford,02 Jennings 2,Governor,,DEM,John Gregg,114
+Crawford,03 Whiskey Run 1,Governor,,DEM,John Gregg,187
+Crawford,04 Whiskey Run 2,Governor,,DEM,John Gregg,164
+Crawford,05 Liberty 1,Governor,,DEM,John Gregg,193
+Crawford,06 Liberty 2,Governor,,DEM,John Gregg,207
+Crawford,07 Sterling 1,Governor,,DEM,John Gregg,72
+Crawford,08 Sterling 2,Governor,,DEM,John Gregg,112
+Crawford,09 Sterling 3,Governor,,DEM,John Gregg,96
+Crawford,10 Patoka 1,Governor,,DEM,John Gregg,241
+Crawford,13 Johnson 2,Governor,,DEM,John Gregg,0
+Crawford,14 Union 1,Governor,,DEM,John Gregg,80
+Crawford,16 Ohio 1,Governor,,DEM,John Gregg,79
+Crawford,,Governor,,DEM,John Gregg,1924
+Crawford,11 Patoka 2,Governor,,LBT,Rex Bell,3
+Crawford,12 Johnson 1,Governor,,LBT,Rex Bell,6
+Crawford,15 Union 2,Governor,,LBT,Rex Bell,5
+Crawford,17 Ohio 2,Governor,,LBT,Rex Bell,2
+Crawford,18 Boone,Governor,,LBT,Rex Bell,1
+Crawford,01 Jennings 1,Governor,,LBT,Rex Bell,9
+Crawford,02 Jennings 2,Governor,,LBT,Rex Bell,8
+Crawford,03 Whiskey Run 1,Governor,,LBT,Rex Bell,13
+Crawford,04 Whiskey Run 2,Governor,,LBT,Rex Bell,12
+Crawford,05 Liberty 1,Governor,,LBT,Rex Bell,17
+Crawford,06 Liberty 2,Governor,,LBT,Rex Bell,17
+Crawford,07 Sterling 1,Governor,,LBT,Rex Bell,16
+Crawford,08 Sterling 2,Governor,,LBT,Rex Bell,10
+Crawford,09 Sterling 3,Governor,,LBT,Rex Bell,8
+Crawford,10 Patoka 1,Governor,,LBT,Rex Bell,20
+Crawford,13 Johnson 2,Governor,,LBT,Rex Bell,0
+Crawford,14 Union 1,Governor,,LBT,Rex Bell,3
+Crawford,16 Ohio 1,Governor,,LBT,Rex Bell,6
+Crawford,,Governor,,LBT,Rex Bell,156
+Crawford,11 Patoka 2,Governor,,,Write-ins,0
+Crawford,12 Johnson 1,Governor,,,Write-ins,0
+Crawford,15 Union 2,Governor,,,Write-ins,0
+Crawford,17 Ohio 2,Governor,,,Write-ins,0
+Crawford,18 Boone,Governor,,,Write-ins,0
+Crawford,01 Jennings 1,Governor,,,Write-ins,0
+Crawford,02 Jennings 2,Governor,,,Write-ins,0
+Crawford,03 Whiskey Run 1,Governor,,,Write-ins,0
+Crawford,04 Whiskey Run 2,Governor,,,Write-ins,0
+Crawford,05 Liberty 1,Governor,,,Write-ins,0
+Crawford,06 Liberty 2,Governor,,,Write-ins,0
+Crawford,07 Sterling 1,Governor,,,Write-ins,1
+Crawford,08 Sterling 2,Governor,,,Write-ins,0
+Crawford,09 Sterling 3,Governor,,,Write-ins,1
+Crawford,10 Patoka 1,Governor,,,Write-ins,2
+Crawford,13 Johnson 2,Governor,,,Write-ins,0
+Crawford,14 Union 1,Governor,,,Write-ins,1
+Crawford,16 Ohio 1,Governor,,,Write-ins,0
+Crawford,,Governor,,,Write-ins,5
+Crawford,11 Patoka 2,Attorney General,,REP,Curtis Hill,121
+Crawford,12 Johnson 1,Attorney General,,REP,Curtis Hill,109
+Crawford,15 Union 2,Attorney General,,REP,Curtis Hill,99
+Crawford,17 Ohio 2,Attorney General,,REP,Curtis Hill,74
+Crawford,18 Boone,Attorney General,,REP,Curtis Hill,51
+Crawford,01 Jennings 1,Attorney General,,REP,Curtis Hill,209
+Crawford,02 Jennings 2,Attorney General,,REP,Curtis Hill,186
+Crawford,03 Whiskey Run 1,Attorney General,,REP,Curtis Hill,280
+Crawford,04 Whiskey Run 2,Attorney General,,REP,Curtis Hill,258
+Crawford,05 Liberty 1,Attorney General,,REP,Curtis Hill,229
+Crawford,06 Liberty 2,Attorney General,,REP,Curtis Hill,263
+Crawford,07 Sterling 1,Attorney General,,REP,Curtis Hill,83
+Crawford,08 Sterling 2,Attorney General,,REP,Curtis Hill,141
+Crawford,09 Sterling 3,Attorney General,,REP,Curtis Hill,186
+Crawford,10 Patoka 1,Attorney General,,REP,Curtis Hill,284
+Crawford,13 Johnson 2,Attorney General,,REP,Curtis Hill,0
+Crawford,14 Union 1,Attorney General,,REP,Curtis Hill,126
+Crawford,16 Ohio 1,Attorney General,,REP,Curtis Hill,109
+Crawford,,Attorney General,,REP,Curtis Hill,2808
+Crawford,11 Patoka 2,Attorney General,,DEM,Lorenzo Arredondo,61
+Crawford,12 Johnson 1,Attorney General,,DEM,Lorenzo Arredondo,40
+Crawford,15 Union 2,Attorney General,,DEM,Lorenzo Arredondo,23
+Crawford,17 Ohio 2,Attorney General,,DEM,Lorenzo Arredondo,34
+Crawford,18 Boone,Attorney General,,DEM,Lorenzo Arredondo,8
+Crawford,01 Jennings 1,Attorney General,,DEM,Lorenzo Arredondo,89
+Crawford,02 Jennings 2,Attorney General,,DEM,Lorenzo Arredondo,97
+Crawford,03 Whiskey Run 1,Attorney General,,DEM,Lorenzo Arredondo,150
+Crawford,04 Whiskey Run 2,Attorney General,,DEM,Lorenzo Arredondo,137
+Crawford,05 Liberty 1,Attorney General,,DEM,Lorenzo Arredondo,136
+Crawford,06 Liberty 2,Attorney General,,DEM,Lorenzo Arredondo,126
+Crawford,07 Sterling 1,Attorney General,,DEM,Lorenzo Arredondo,53
+Crawford,08 Sterling 2,Attorney General,,DEM,Lorenzo Arredondo,80
+Crawford,09 Sterling 3,Attorney General,,DEM,Lorenzo Arredondo,58
+Crawford,10 Patoka 1,Attorney General,,DEM,Lorenzo Arredondo,139
+Crawford,13 Johnson 2,Attorney General,,DEM,Lorenzo Arredondo,0
+Crawford,14 Union 1,Attorney General,,DEM,Lorenzo Arredondo,52
+Crawford,16 Ohio 1,Attorney General,,DEM,Lorenzo Arredondo,63
+Crawford,,Attorney General,,DEM,Lorenzo Arredondo,1346
+Crawford,11 Patoka 2,Public Instruction,,REP,Jennifer McCormick,105
+Crawford,12 Johnson 1,Public Instruction,,REP,Jennifer McCormick,100
+Crawford,15 Union 2,Public Instruction,,REP,Jennifer McCormick,90
+Crawford,17 Ohio 2,Public Instruction,,REP,Jennifer McCormick,61
+Crawford,18 Boone,Public Instruction,,REP,Jennifer McCormick,44
+Crawford,01 Jennings 1,Public Instruction,,REP,Jennifer McCormick,190
+Crawford,02 Jennings 2,Public Instruction,,REP,Jennifer McCormick,178
+Crawford,03 Whiskey Run 1,Public Instruction,,REP,Jennifer McCormick,251
+Crawford,04 Whiskey Run 2,Public Instruction,,REP,Jennifer McCormick,238
+Crawford,05 Liberty 1,Public Instruction,,REP,Jennifer McCormick,185
+Crawford,06 Liberty 2,Public Instruction,,REP,Jennifer McCormick,210
+Crawford,07 Sterling 1,Public Instruction,,REP,Jennifer McCormick,69
+Crawford,08 Sterling 2,Public Instruction,,REP,Jennifer McCormick,126
+Crawford,09 Sterling 3,Public Instruction,,REP,Jennifer McCormick,154
+Crawford,10 Patoka 1,Public Instruction,,REP,Jennifer McCormick,223
+Crawford,13 Johnson 2,Public Instruction,,REP,Jennifer McCormick,0
+Crawford,14 Union 1,Public Instruction,,REP,Jennifer McCormick,106
+Crawford,16 Ohio 1,Public Instruction,,REP,Jennifer McCormick,97
+Crawford,,Public Instruction,,REP,Jennifer McCormick,2427
+Crawford,11 Patoka 2,Public Instruction,,DEM,Glenda Ritz,78
+Crawford,12 Johnson 1,Public Instruction,,DEM,Glenda Ritz,48
+Crawford,15 Union 2,Public Instruction,,DEM,Glenda Ritz,29
+Crawford,17 Ohio 2,Public Instruction,,DEM,Glenda Ritz,47
+Crawford,18 Boone,Public Instruction,,DEM,Glenda Ritz,13
+Crawford,01 Jennings 1,Public Instruction,,DEM,Glenda Ritz,115
+Crawford,02 Jennings 2,Public Instruction,,DEM,Glenda Ritz,108
+Crawford,03 Whiskey Run 1,Public Instruction,,DEM,Glenda Ritz,188
+Crawford,04 Whiskey Run 2,Public Instruction,,DEM,Glenda Ritz,159
+Crawford,05 Liberty 1,Public Instruction,,DEM,Glenda Ritz,176
+Crawford,06 Liberty 2,Public Instruction,,DEM,Glenda Ritz,180
+Crawford,07 Sterling 1,Public Instruction,,DEM,Glenda Ritz,66
+Crawford,08 Sterling 2,Public Instruction,,DEM,Glenda Ritz,95
+Crawford,09 Sterling 3,Public Instruction,,DEM,Glenda Ritz,89
+Crawford,10 Patoka 1,Public Instruction,,DEM,Glenda Ritz,211
+Crawford,13 Johnson 2,Public Instruction,,DEM,Glenda Ritz,0
+Crawford,14 Union 1,Public Instruction,,DEM,Glenda Ritz,73
+Crawford,16 Ohio 1,Public Instruction,,DEM,Glenda Ritz,73
+Crawford,,Public Instruction,,DEM,Glenda Ritz,1748
+Crawford,11 Patoka 2,U.S. House,8,REP,Larry Bucshon,107
+Crawford,12 Johnson 1,U.S. House,8,REP,Larry Bucshon,97
+Crawford,15 Union 2,U.S. House,8,REP,Larry Bucshon,89
+Crawford,17 Ohio 2,U.S. House,8,REP,Larry Bucshon,59
+Crawford,18 Boone,U.S. House,8,REP,Larry Bucshon,45
+Crawford,01 Jennings 1,U.S. House,9,REP,Trey Hollingsworth,184
+Crawford,02 Jennings 2,U.S. House,9,REP,Trey Hollingsworth,170
+Crawford,03 Whiskey Run 1,U.S. House,9,REP,Trey Hollingsworth,229
+Crawford,04 Whiskey Run 2,U.S. House,9,REP,Trey Hollingsworth,224
+Crawford,05 Liberty 1,U.S. House,9,REP,Trey Hollingsworth,172
+Crawford,06 Liberty 2,U.S. House,9,REP,Trey Hollingsworth,199
+Crawford,07 Sterling 1,U.S. House,9,REP,Trey Hollingsworth,73
+Crawford,08 Sterling 2,U.S. House,9,REP,Trey Hollingsworth,121
+Crawford,09 Sterling 3,U.S. House,9,REP,Trey Hollingsworth,154
+Crawford,10 Patoka 1,U.S. House,9,REP,Trey Hollingsworth,224
+Crawford,13 Johnson 2,U.S. House,9,REP,Trey Hollingsworth,0
+Crawford,14 Union 1,U.S. House,9,REP,Trey Hollingsworth,99
+Crawford,16 Ohio 1,U.S. House,9,REP,Trey Hollingsworth,99
+Crawford,,U.S. House,8,REP,Larry Bucshon,397
+Crawford,,U.S. House,9,REP,Trey Hollingsworth,1948
+Crawford,11 Patoka 2,U.S. House,8,DEM,Ron Drake,64
+Crawford,12 Johnson 1,U.S. House,8,DEM,Ron Drake,47
+Crawford,15 Union 2,U.S. House,8,DEM,Ron Drake,30
+Crawford,17 Ohio 2,U.S. House,8,DEM,Ron Drake,36
+Crawford,18 Boone,U.S. House,8,DEM,Ron Drake,13
+Crawford,01 Jennings 1,U.S. House,9,DEM,Shelli Yoder,113
+Crawford,02 Jennings 2,U.S. House,9,DEM,Shelli Yoder,116
+Crawford,03 Whiskey Run 1,U.S. House,9,DEM,Shelli Yoder,192
+Crawford,04 Whiskey Run 2,U.S. House,9,DEM,Shelli Yoder,170
+Crawford,05 Liberty 1,U.S. House,9,DEM,Shelli Yoder,198
+Crawford,06 Liberty 2,U.S. House,9,DEM,Shelli Yoder,195
+Crawford,07 Sterling 1,U.S. House,9,DEM,Shelli Yoder,62
+Crawford,08 Sterling 2,U.S. House,9,DEM,Shelli Yoder,102
+Crawford,09 Sterling 3,U.S. House,9,DEM,Shelli Yoder,95
+Crawford,10 Patoka 1,U.S. House,9,DEM,Shelli Yoder,225
+Crawford,13 Johnson 2,U.S. House,9,DEM,Shelli Yoder,0
+Crawford,14 Union 1,U.S. House,9,DEM,Shelli Yoder,81
+Crawford,16 Ohio 1,U.S. House,9,DEM,Shelli Yoder,74
+Crawford,,U.S. House,8,DEM,Ron Drake,190
+Crawford,,U.S. House,9,DEM,Shelli Yoder,1623
+Crawford,11 Patoka 2,U.S. House,8,LBT,Andrew Horning,10
+Crawford,12 Johnson 1,U.S. House,8,LBT,Andrew Horning,10
+Crawford,15 Union 2,U.S. House,8,LBT,Andrew Horning,3
+Crawford,17 Ohio 2,U.S. House,8,LBT,Andrew Horning,9
+Crawford,18 Boone,U.S. House,8,LBT,Andrew Horning,1
+Crawford,01 Jennings 1,U.S. House,9,LBT,Russ Brooksbank,21
+Crawford,02 Jennings 2,U.S. House,9,LBT,Russ Brooksbank,14
+Crawford,03 Whiskey Run 1,U.S. House,9,LBT,Russ Brooksbank,31
+Crawford,04 Whiskey Run 2,U.S. House,9,LBT,Russ Brooksbank,23
+Crawford,05 Liberty 1,U.S. House,9,LBT,Russ Brooksbank,29
+Crawford,06 Liberty 2,U.S. House,9,LBT,Russ Brooksbank,29
+Crawford,07 Sterling 1,U.S. House,9,LBT,Russ Brooksbank,18
+Crawford,08 Sterling 2,U.S. House,9,LBT,Russ Brooksbank,17
+Crawford,09 Sterling 3,U.S. House,9,LBT,Russ Brooksbank,15
+Crawford,10 Patoka 1,U.S. House,9,LBT,Russ Brooksbank,21
+Crawford,13 Johnson 2,U.S. House,9,LBT,Russ Brooksbank,0
+Crawford,14 Union 1,U.S. House,9,LBT,Russ Brooksbank,11
+Crawford,16 Ohio 1,U.S. House,9,LBT,Russ Brooksbank,10
+Crawford,,U.S. House,8,LBT,Andrew Horning,33
+Crawford,,U.S. House,9,LBT,Russ Brooksbank,239
+Crawford,11 Patoka 2,State House,74,REP,Lloyd Arnold,128
+Crawford,12 Johnson 1,State House,74,REP,Lloyd Arnold,119
+Crawford,15 Union 2,State House,74,REP,Lloyd Arnold,90
+Crawford,17 Ohio 2,State House,74,REP,Lloyd Arnold,87
+Crawford,18 Boone,State House,74,REP,Lloyd Arnold,50
+Crawford,01 Jennings 1,State House,74,REP,Lloyd Arnold,239
+Crawford,02 Jennings 2,State House,42,REP,Lloyd Arnold,210
+Crawford,03 Whiskey Run 1,State House,74,REP,Lloyd Arnold,302
+Crawford,04 Whiskey Run 2,State House,74,REP,Lloyd Arnold,276
+Crawford,05 Liberty 1,State House,74,REP,Lloyd Arnold,221
+Crawford,06 Liberty 2,State House,74,REP,Lloyd Arnold,247
+Crawford,07 Sterling 1,State House,74,REP,Lloyd Arnold,89
+Crawford,08 Sterling 2,State House,74,REP,Lloyd Arnold,143
+Crawford,09 Sterling 3,State House,74,REP,Lloyd Arnold,156
+Crawford,10 Patoka 1,State House,74,REP,Lloyd Arnold,285
+Crawford,13 Johnson 2,State House,44,REP,Lloyd Arnold,0
+Crawford,14 Union 1,State House,74,REP,Lloyd Arnold,121
+Crawford,16 Ohio 1,State House,74,REP,Lloyd Arnold,120
+Crawford,,State House,74,REP,Lloyd Arnold,2883
+Crawford,11 Patoka 2,State House,74,DEM,Larry Kleeman,65
+Crawford,12 Johnson 1,State House,74,DEM,Larry Kleeman,49
+Crawford,15 Union 2,State House,74,DEM,Larry Kleeman,38
+Crawford,17 Ohio 2,State House,74,DEM,Larry Kleeman,35
+Crawford,18 Boone,State House,74,DEM,Larry Kleeman,15
+Crawford,01 Jennings 1,State House,74,DEM,Larry Kleeman,89
+Crawford,02 Jennings 2,State House,42,DEM,Larry Kleeman,94
+Crawford,03 Whiskey Run 1,State House,74,DEM,Larry Kleeman,154
+Crawford,04 Whiskey Run 2,State House,74,DEM,Larry Kleeman,136
+Crawford,05 Liberty 1,State House,74,DEM,Larry Kleeman,175
+Crawford,06 Liberty 2,State House,74,DEM,Larry Kleeman,169
+Crawford,07 Sterling 1,State House,74,DEM,Larry Kleeman,59
+Crawford,08 Sterling 2,State House,74,DEM,Larry Kleeman,96
+Crawford,09 Sterling 3,State House,74,DEM,Larry Kleeman,108
+Crawford,10 Patoka 1,State House,74,DEM,Larry Kleeman,188
+Crawford,13 Johnson 2,State House,44,DEM,Larry Kleeman,0
+Crawford,14 Union 1,State House,74,DEM,Larry Kleeman,70
+Crawford,16 Ohio 1,State House,74,DEM,Larry Kleeman,67
+Crawford,,State House,74,DEM,Larry Kleeman,1607

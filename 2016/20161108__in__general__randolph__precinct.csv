@@ -1,0 +1,420 @@
+county,precinct,office,district,party,candidate,vote
+Randolph,01-White River 1,Voters,,,Registered,929
+Randolph,02-White River 2,Voters,,,Registered,875
+Randolph,"03-Winchester 1,2",Voters,,,Registered,1526
+Randolph,04-Winchester 3,Voters,,,Registered,1017
+Randolph,05-Winchester 4,Voters,,,Registered,1091
+Randolph,06-Union City 1,Voters,,,Registered,1246
+Randolph,07-Union City 2,Voters,,,Registered,1265
+Randolph,08-Wayne,Voters,,,Registered,673
+Randolph,09-Jackson,Voters,,,Registered,446
+Randolph,10-Washington,Voters,,,Registered,1343
+Randolph,11-Spartanburg,Voters,,,Registered,704
+Randolph,12-Ward,Voters,,,Registered,747
+Randolph,13-Ridgeville,Voters,,,Registered,809
+Randolph,14-Parker,Voters,,,Registered,1182
+Randolph,15-Stoney Creek,Voters,,,Registered,720
+Randolph,16-Farmland,Voters,,,Registered,1348
+Randolph,17-Green,Voters,,,Registered,678
+Randolph,18-Union,Voters,,,Registered,1357
+Randolph,,Voters,,,Registered,17956
+Randolph,01-White River 1,Voters,,,Ballots Cast,620
+Randolph,02-White River 2,Voters,,,Ballots Cast,588
+Randolph,"03-Winchester 1,2",Voters,,,Ballots Cast,752
+Randolph,04-Winchester 3,Voters,,,Ballots Cast,599
+Randolph,05-Winchester 4,Voters,,,Ballots Cast,626
+Randolph,06-Union City 1,Voters,,,Ballots Cast,528
+Randolph,07-Union City 2,Voters,,,Ballots Cast,617
+Randolph,08-Wayne,Voters,,,Ballots Cast,439
+Randolph,09-Jackson,Voters,,,Ballots Cast,293
+Randolph,10-Washington,Voters,,,Ballots Cast,804
+Randolph,11-Spartanburg,Voters,,,Ballots Cast,473
+Randolph,12-Ward,Voters,,,Ballots Cast,485
+Randolph,13-Ridgeville,Voters,,,Ballots Cast,496
+Randolph,14-Parker,Voters,,,Ballots Cast,725
+Randolph,15-Stoney Creek,Voters,,,Ballots Cast,463
+Randolph,16-Farmland,Voters,,,Ballots Cast,876
+Randolph,17-Green,Voters,,,Ballots Cast,484
+Randolph,18-Union,Voters,,,Ballots Cast,839
+Randolph,,Voters,,,Ballots Cast,10707
+Randolph,01-White River 1,President,,REP,Donald Trump,433
+Randolph,02-White River 2,President,,REP,Donald Trump,410
+Randolph,"03-Winchester 1,2",President,,REP,Donald Trump,477
+Randolph,04-Winchester 3,President,,REP,Donald Trump,361
+Randolph,05-Winchester 4,President,,REP,Donald Trump,398
+Randolph,06-Union City 1,President,,REP,Donald Trump,328
+Randolph,07-Union City 2,President,,REP,Donald Trump,414
+Randolph,08-Wayne,President,,REP,Donald Trump,325
+Randolph,09-Jackson,President,,REP,Donald Trump,229
+Randolph,10-Washington,President,,REP,Donald Trump,605
+Randolph,11-Spartanburg,President,,REP,Donald Trump,363
+Randolph,12-Ward,President,,REP,Donald Trump,351
+Randolph,13-Ridgeville,President,,REP,Donald Trump,383
+Randolph,14-Parker,President,,REP,Donald Trump,504
+Randolph,15-Stoney Creek,President,,REP,Donald Trump,338
+Randolph,16-Farmland,President,,REP,Donald Trump,606
+Randolph,17-Green,President,,REP,Donald Trump,345
+Randolph,18-Union,President,,REP,Donald Trump,647
+Randolph,,President,,REP,Donald Trump,7517
+Randolph,01-White River 1,President,,DEM,Hillary Clinton,139
+Randolph,02-White River 2,President,,DEM,Hillary Clinton,128
+Randolph,"03-Winchester 1,2",President,,DEM,Hillary Clinton,204
+Randolph,04-Winchester 3,President,,DEM,Hillary Clinton,192
+Randolph,05-Winchester 4,President,,DEM,Hillary Clinton,173
+Randolph,06-Union City 1,President,,DEM,Hillary Clinton,160
+Randolph,07-Union City 2,President,,DEM,Hillary Clinton,162
+Randolph,08-Wayne,President,,DEM,Hillary Clinton,97
+Randolph,09-Jackson,President,,DEM,Hillary Clinton,48
+Randolph,10-Washington,President,,DEM,Hillary Clinton,141
+Randolph,11-Spartanburg,President,,DEM,Hillary Clinton,80
+Randolph,12-Ward,President,,DEM,Hillary Clinton,102
+Randolph,13-Ridgeville,President,,DEM,Hillary Clinton,86
+Randolph,14-Parker,President,,DEM,Hillary Clinton,177
+Randolph,15-Stoney Creek,President,,DEM,Hillary Clinton,104
+Randolph,16-Farmland,President,,DEM,Hillary Clinton,203
+Randolph,17-Green,President,,DEM,Hillary Clinton,110
+Randolph,18-Union,President,,DEM,Hillary Clinton,140
+Randolph,,President,,DEM,Hillary Clinton,2446
+Randolph,01-White River 1,President,,LBT,Gary Johnson,32
+Randolph,02-White River 2,President,,LBT,Gary Johnson,36
+Randolph,"03-Winchester 1,2",President,,LBT,Gary Johnson,46
+Randolph,04-Winchester 3,President,,LBT,Gary Johnson,30
+Randolph,05-Winchester 4,President,,LBT,Gary Johnson,38
+Randolph,06-Union City 1,President,,LBT,Gary Johnson,27
+Randolph,07-Union City 2,President,,LBT,Gary Johnson,30
+Randolph,08-Wayne,President,,LBT,Gary Johnson,9
+Randolph,09-Jackson,President,,LBT,Gary Johnson,8
+Randolph,10-Washington,President,,LBT,Gary Johnson,35
+Randolph,11-Spartanburg,President,,LBT,Gary Johnson,21
+Randolph,12-Ward,President,,LBT,Gary Johnson,21
+Randolph,13-Ridgeville,President,,LBT,Gary Johnson,18
+Randolph,14-Parker,President,,LBT,Gary Johnson,31
+Randolph,15-Stoney Creek,President,,LBT,Gary Johnson,16
+Randolph,16-Farmland,President,,LBT,Gary Johnson,47
+Randolph,17-Green,President,,LBT,Gary Johnson,15
+Randolph,18-Union,President,,LBT,Gary Johnson,36
+Randolph,,President,,LBT,Gary Johnson,496
+Randolph,01-White River 1,President,,,Write-ins,5
+Randolph,02-White River 2,President,,,Write-ins,3
+Randolph,"03-Winchester 1,2",President,,,Write-ins,9
+Randolph,04-Winchester 3,President,,,Write-ins,4
+Randolph,05-Winchester 4,President,,,Write-ins,6
+Randolph,06-Union City 1,President,,,Write-ins,3
+Randolph,07-Union City 2,President,,,Write-ins,1
+Randolph,08-Wayne,President,,,Write-ins,1
+Randolph,09-Jackson,President,,,Write-ins,1
+Randolph,10-Washington,President,,,Write-ins,8
+Randolph,11-Spartanburg,President,,,Write-ins,2
+Randolph,12-Ward,President,,,Write-ins,3
+Randolph,13-Ridgeville,President,,,Write-ins,3
+Randolph,14-Parker,President,,,Write-ins,4
+Randolph,15-Stoney Creek,President,,,Write-ins,2
+Randolph,16-Farmland,President,,,Write-ins,4
+Randolph,17-Green,President,,,Write-ins,4
+Randolph,18-Union,President,,,Write-ins,2
+Randolph,,President,,,Write-ins,65
+Randolph,01-White River 1,U.S. Senate,,REP,Todd Young,365
+Randolph,02-White River 2,U.S. Senate,,REP,Todd Young,368
+Randolph,"03-Winchester 1,2",U.S. Senate,,REP,Todd Young,386
+Randolph,04-Winchester 3,U.S. Senate,,REP,Todd Young,303
+Randolph,05-Winchester 4,U.S. Senate,,REP,Todd Young,324
+Randolph,06-Union City 1,U.S. Senate,,REP,Todd Young,281
+Randolph,07-Union City 2,U.S. Senate,,REP,Todd Young,344
+Randolph,08-Wayne,U.S. Senate,,REP,Todd Young,300
+Randolph,09-Jackson,U.S. Senate,,REP,Todd Young,202
+Randolph,10-Washington,U.S. Senate,,REP,Todd Young,509
+Randolph,11-Spartanburg,U.S. Senate,,REP,Todd Young,321
+Randolph,12-Ward,U.S. Senate,,REP,Todd Young,303
+Randolph,13-Ridgeville,U.S. Senate,,REP,Todd Young,332
+Randolph,14-Parker,U.S. Senate,,REP,Todd Young,426
+Randolph,15-Stoney Creek,U.S. Senate,,REP,Todd Young,291
+Randolph,16-Farmland,U.S. Senate,,REP,Todd Young,523
+Randolph,17-Green,U.S. Senate,,REP,Todd Young,293
+Randolph,18-Union,U.S. Senate,,REP,Todd Young,540
+Randolph,,U.S. Senate,,REP,Todd Young,6411
+Randolph,01-White River 1,U.S. Senate,,DEM,Evan Bayh,190
+Randolph,02-White River 2,U.S. Senate,,DEM,Evan Bayh,170
+Randolph,"03-Winchester 1,2",U.S. Senate,,DEM,Evan Bayh,259
+Randolph,04-Winchester 3,U.S. Senate,,DEM,Evan Bayh,245
+Randolph,05-Winchester 4,U.S. Senate,,DEM,Evan Bayh,222
+Randolph,06-Union City 1,U.S. Senate,,DEM,Evan Bayh,189
+Randolph,07-Union City 2,U.S. Senate,,DEM,Evan Bayh,214
+Randolph,08-Wayne,U.S. Senate,,DEM,Evan Bayh,112
+Randolph,09-Jackson,U.S. Senate,,DEM,Evan Bayh,67
+Randolph,10-Washington,U.S. Senate,,DEM,Evan Bayh,215
+Randolph,11-Spartanburg,U.S. Senate,,DEM,Evan Bayh,110
+Randolph,12-Ward,U.S. Senate,,DEM,Evan Bayh,133
+Randolph,13-Ridgeville,U.S. Senate,,DEM,Evan Bayh,118
+Randolph,14-Parker,U.S. Senate,,DEM,Evan Bayh,222
+Randolph,15-Stoney Creek,U.S. Senate,,DEM,Evan Bayh,133
+Randolph,16-Farmland,U.S. Senate,,DEM,Evan Bayh,278
+Randolph,17-Green,U.S. Senate,,DEM,Evan Bayh,150
+Randolph,18-Union,U.S. Senate,,DEM,Evan Bayh,203
+Randolph,,U.S. Senate,,DEM,Evan Bayh,3230
+Randolph,01-White River 1,U.S. Senate,,LBT,Lucy Brenton,39
+Randolph,02-White River 2,U.S. Senate,,LBT,Lucy Brenton,28
+Randolph,"03-Winchester 1,2",U.S. Senate,,LBT,Lucy Brenton,69
+Randolph,04-Winchester 3,U.S. Senate,,LBT,Lucy Brenton,33
+Randolph,05-Winchester 4,U.S. Senate,,LBT,Lucy Brenton,49
+Randolph,06-Union City 1,U.S. Senate,,LBT,Lucy Brenton,29
+Randolph,07-Union City 2,U.S. Senate,,LBT,Lucy Brenton,30
+Randolph,08-Wayne,U.S. Senate,,LBT,Lucy Brenton,12
+Randolph,09-Jackson,U.S. Senate,,LBT,Lucy Brenton,13
+Randolph,10-Washington,U.S. Senate,,LBT,Lucy Brenton,45
+Randolph,11-Spartanburg,U.S. Senate,,LBT,Lucy Brenton,19
+Randolph,12-Ward,U.S. Senate,,LBT,Lucy Brenton,28
+Randolph,13-Ridgeville,U.S. Senate,,LBT,Lucy Brenton,28
+Randolph,14-Parker,U.S. Senate,,LBT,Lucy Brenton,46
+Randolph,15-Stoney Creek,U.S. Senate,,LBT,Lucy Brenton,22
+Randolph,16-Farmland,U.S. Senate,,LBT,Lucy Brenton,49
+Randolph,17-Green,U.S. Senate,,LBT,Lucy Brenton,18
+Randolph,18-Union,U.S. Senate,,LBT,Lucy Brenton,57
+Randolph,,U.S. Senate,,LBT,Lucy Brenton,614
+Randolph,01-White River 1,U.S. Senate,,,Write-ins,0
+Randolph,02-White River 2,U.S. Senate,,,Write-ins,0
+Randolph,"03-Winchester 1,2",U.S. Senate,,,Write-ins,0
+Randolph,04-Winchester 3,U.S. Senate,,,Write-ins,0
+Randolph,05-Winchester 4,U.S. Senate,,,Write-ins,0
+Randolph,06-Union City 1,U.S. Senate,,,Write-ins,0
+Randolph,07-Union City 2,U.S. Senate,,,Write-ins,1
+Randolph,08-Wayne,U.S. Senate,,,Write-ins,0
+Randolph,09-Jackson,U.S. Senate,,,Write-ins,0
+Randolph,10-Washington,U.S. Senate,,,Write-ins,0
+Randolph,11-Spartanburg,U.S. Senate,,,Write-ins,0
+Randolph,12-Ward,U.S. Senate,,,Write-ins,0
+Randolph,13-Ridgeville,U.S. Senate,,,Write-ins,0
+Randolph,14-Parker,U.S. Senate,,,Write-ins,0
+Randolph,15-Stoney Creek,U.S. Senate,,,Write-ins,0
+Randolph,16-Farmland,U.S. Senate,,,Write-ins,1
+Randolph,17-Green,U.S. Senate,,,Write-ins,0
+Randolph,18-Union,U.S. Senate,,,Write-ins,0
+Randolph,,U.S. Senate,,,Write-ins,2
+Randolph,01-White River 1,Governor,,REP,Eric Holcomb,367
+Randolph,02-White River 2,Governor,,REP,Eric Holcomb,346
+Randolph,"03-Winchester 1,2",Governor,,REP,Eric Holcomb,375
+Randolph,04-Winchester 3,Governor,,REP,Eric Holcomb,301
+Randolph,05-Winchester 4,Governor,,REP,Eric Holcomb,319
+Randolph,06-Union City 1,Governor,,REP,Eric Holcomb,276
+Randolph,07-Union City 2,Governor,,REP,Eric Holcomb,326
+Randolph,08-Wayne,Governor,,REP,Eric Holcomb,294
+Randolph,09-Jackson,Governor,,REP,Eric Holcomb,194
+Randolph,10-Washington,Governor,,REP,Eric Holcomb,503
+Randolph,11-Spartanburg,Governor,,REP,Eric Holcomb,290
+Randolph,12-Ward,Governor,,REP,Eric Holcomb,285
+Randolph,13-Ridgeville,Governor,,REP,Eric Holcomb,302
+Randolph,14-Parker,Governor,,REP,Eric Holcomb,396
+Randolph,15-Stoney Creek,Governor,,REP,Eric Holcomb,270
+Randolph,16-Farmland,Governor,,REP,Eric Holcomb,493
+Randolph,17-Green,Governor,,REP,Eric Holcomb,283
+Randolph,18-Union,Governor,,REP,Eric Holcomb,474
+Randolph,,Governor,,REP,Eric Holcomb,6094
+Randolph,01-White River 1,Governor,,DEM,John Gregg,201
+Randolph,02-White River 2,Governor,,DEM,John Gregg,197
+Randolph,"03-Winchester 1,2",Governor,,DEM,John Gregg,298
+Randolph,04-Winchester 3,Governor,,DEM,John Gregg,254
+Randolph,05-Winchester 4,Governor,,DEM,John Gregg,240
+Randolph,06-Union City 1,Governor,,DEM,John Gregg,195
+Randolph,07-Union City 2,Governor,,DEM,John Gregg,237
+Randolph,08-Wayne,Governor,,DEM,John Gregg,115
+Randolph,09-Jackson,Governor,,DEM,John Gregg,81
+Randolph,10-Washington,Governor,,DEM,John Gregg,229
+Randolph,11-Spartanburg,Governor,,DEM,John Gregg,137
+Randolph,12-Ward,Governor,,DEM,John Gregg,159
+Randolph,13-Ridgeville,Governor,,DEM,John Gregg,153
+Randolph,14-Parker,Governor,,DEM,John Gregg,273
+Randolph,15-Stoney Creek,Governor,,DEM,John Gregg,157
+Randolph,16-Farmland,Governor,,DEM,John Gregg,307
+Randolph,17-Green,Governor,,DEM,John Gregg,160
+Randolph,18-Union,Governor,,DEM,John Gregg,228
+Randolph,,Governor,,DEM,John Gregg,3621
+Randolph,01-White River 1,Governor,,LBT,Rex Bell,24
+Randolph,02-White River 2,Governor,,LBT,Rex Bell,23
+Randolph,"03-Winchester 1,2",Governor,,LBT,Rex Bell,41
+Randolph,04-Winchester 3,Governor,,LBT,Rex Bell,24
+Randolph,05-Winchester 4,Governor,,LBT,Rex Bell,31
+Randolph,06-Union City 1,Governor,,LBT,Rex Bell,21
+Randolph,07-Union City 2,Governor,,LBT,Rex Bell,21
+Randolph,08-Wayne,Governor,,LBT,Rex Bell,11
+Randolph,09-Jackson,Governor,,LBT,Rex Bell,10
+Randolph,10-Washington,Governor,,LBT,Rex Bell,39
+Randolph,11-Spartanburg,Governor,,LBT,Rex Bell,25
+Randolph,12-Ward,Governor,,LBT,Rex Bell,19
+Randolph,13-Ridgeville,Governor,,LBT,Rex Bell,15
+Randolph,14-Parker,Governor,,LBT,Rex Bell,20
+Randolph,15-Stoney Creek,Governor,,LBT,Rex Bell,12
+Randolph,16-Farmland,Governor,,LBT,Rex Bell,33
+Randolph,17-Green,Governor,,LBT,Rex Bell,9
+Randolph,18-Union,Governor,,LBT,Rex Bell,104
+Randolph,,Governor,,LBT,Rex Bell,482
+Randolph,01-White River 1,Governor,,,Write-ins,0
+Randolph,02-White River 2,Governor,,,Write-ins,0
+Randolph,"03-Winchester 1,2",Governor,,,Write-ins,1
+Randolph,04-Winchester 3,Governor,,,Write-ins,0
+Randolph,05-Winchester 4,Governor,,,Write-ins,0
+Randolph,06-Union City 1,Governor,,,Write-ins,0
+Randolph,07-Union City 2,Governor,,,Write-ins,0
+Randolph,08-Wayne,Governor,,,Write-ins,0
+Randolph,09-Jackson,Governor,,,Write-ins,0
+Randolph,10-Washington,Governor,,,Write-ins,0
+Randolph,11-Spartanburg,Governor,,,Write-ins,0
+Randolph,12-Ward,Governor,,,Write-ins,
+Randolph,13-Ridgeville,Governor,,,Write-ins,0
+Randolph,14-Parker,Governor,,,Write-ins,0
+Randolph,15-Stoney Creek,Governor,,,Write-ins,1
+Randolph,16-Farmland,Governor,,,Write-ins,0
+Randolph,17-Green,Governor,,,Write-ins,0
+Randolph,18-Union,Governor,,,Write-ins,0
+Randolph,,Governor,,,Write-ins,2
+Randolph,01-White River 1,Attorney General,,REP,Curtis Hill,441
+Randolph,02-White River 2,Attorney General,,REP,Curtis Hill,434
+Randolph,"03-Winchester 1,2",Attorney General,,REP,Curtis Hill,486
+Randolph,04-Winchester 3,Attorney General,,REP,Curtis Hill,384
+Randolph,05-Winchester 4,Attorney General,,REP,Curtis Hill,390
+Randolph,06-Union City 1,Attorney General,,REP,Curtis Hill,318
+Randolph,07-Union City 2,Attorney General,,REP,Curtis Hill,410
+Randolph,08-Wayne,Attorney General,,REP,Curtis Hill,332
+Randolph,09-Jackson,Attorney General,,REP,Curtis Hill,218
+Randolph,10-Washington,Attorney General,,REP,Curtis Hill,602
+Randolph,11-Spartanburg,Attorney General,,REP,Curtis Hill,358
+Randolph,12-Ward,Attorney General,,REP,Curtis Hill,366
+Randolph,13-Ridgeville,Attorney General,,REP,Curtis Hill,376
+Randolph,14-Parker,Attorney General,,REP,Curtis Hill,504
+Randolph,15-Stoney Creek,Attorney General,,REP,Curtis Hill,329
+Randolph,16-Farmland,Attorney General,,REP,Curtis Hill,616
+Randolph,17-Green,Attorney General,,REP,Curtis Hill,334
+Randolph,18-Union,Attorney General,,REP,Curtis Hill,605
+Randolph,,Attorney General,,REP,Curtis Hill,7503
+Randolph,01-White River 1,Attorney General,,DEM,Lorenzo Arredondo,130
+Randolph,02-White River 2,Attorney General,,DEM,Lorenzo Arredondo,108
+Randolph,"03-Winchester 1,2",Attorney General,,DEM,Lorenzo Arredondo,208
+Randolph,04-Winchester 3,Attorney General,,DEM,Lorenzo Arredondo,173
+Randolph,05-Winchester 4,Attorney General,,DEM,Lorenzo Arredondo,174
+Randolph,06-Union City 1,Attorney General,,DEM,Lorenzo Arredondo,170
+Randolph,07-Union City 2,Attorney General,,DEM,Lorenzo Arredondo,164
+Randolph,08-Wayne,Attorney General,,DEM,Lorenzo Arredondo,81
+Randolph,09-Jackson,Attorney General,,DEM,Lorenzo Arredondo,57
+Randolph,10-Washington,Attorney General,,DEM,Lorenzo Arredondo,154
+Randolph,11-Spartanburg,Attorney General,,DEM,Lorenzo Arredondo,79
+Randolph,12-Ward,Attorney General,,DEM,Lorenzo Arredondo,97
+Randolph,13-Ridgeville,Attorney General,,DEM,Lorenzo Arredondo,85
+Randolph,14-Parker,Attorney General,,DEM,Lorenzo Arredondo,182
+Randolph,15-Stoney Creek,Attorney General,,DEM,Lorenzo Arredondo,105
+Randolph,16-Farmland,Attorney General,,DEM,Lorenzo Arredondo,200
+Randolph,17-Green,Attorney General,,DEM,Lorenzo Arredondo,121
+Randolph,18-Union,Attorney General,,DEM,Lorenzo Arredondo,159
+Randolph,,Attorney General,,DEM,Lorenzo Arredondo,2447
+Randolph,01-White River 1,Public Instruction,,REP,Jennifer McCormick,360
+Randolph,02-White River 2,Public Instruction,,REP,Jennifer McCormick,334
+Randolph,"03-Winchester 1,2",Public Instruction,,REP,Jennifer McCormick,410
+Randolph,04-Winchester 3,Public Instruction,,REP,Jennifer McCormick,301
+Randolph,05-Winchester 4,Public Instruction,,REP,Jennifer McCormick,320
+Randolph,06-Union City 1,Public Instruction,,REP,Jennifer McCormick,283
+Randolph,07-Union City 2,Public Instruction,,REP,Jennifer McCormick,346
+Randolph,08-Wayne,Public Instruction,,REP,Jennifer McCormick,282
+Randolph,09-Jackson,Public Instruction,,REP,Jennifer McCormick,190
+Randolph,10-Washington,Public Instruction,,REP,Jennifer McCormick,496
+Randolph,11-Spartanburg,Public Instruction,,REP,Jennifer McCormick,295
+Randolph,12-Ward,Public Instruction,,REP,Jennifer McCormick,298
+Randolph,13-Ridgeville,Public Instruction,,REP,Jennifer McCormick,326
+Randolph,14-Parker,Public Instruction,,REP,Jennifer McCormick,438
+Randolph,15-Stoney Creek,Public Instruction,,REP,Jennifer McCormick,303
+Randolph,16-Farmland,Public Instruction,,REP,Jennifer McCormick,554
+Randolph,17-Green,Public Instruction,,REP,Jennifer McCormick,301
+Randolph,18-Union,Public Instruction,,REP,Jennifer McCormick,542
+Randolph,,Public Instruction,,REP,Jennifer McCormick,6379
+Randolph,01-White River 1,Public Instruction,,DEM,Glenda Ritz,222
+Randolph,02-White River 2,Public Instruction,,DEM,Glenda Ritz,222
+Randolph,"03-Winchester 1,2",Public Instruction,,DEM,Glenda Ritz,297
+Randolph,04-Winchester 3,Public Instruction,,DEM,Glenda Ritz,270
+Randolph,05-Winchester 4,Public Instruction,,DEM,Glenda Ritz,267
+Randolph,06-Union City 1,Public Instruction,,DEM,Glenda Ritz,210
+Randolph,07-Union City 2,Public Instruction,,DEM,Glenda Ritz,227
+Randolph,08-Wayne,Public Instruction,,DEM,Glenda Ritz,130
+Randolph,09-Jackson,Public Instruction,,DEM,Glenda Ritz,92
+Randolph,10-Washington,Public Instruction,,DEM,Glenda Ritz,266
+Randolph,11-Spartanburg,Public Instruction,,DEM,Glenda Ritz,153
+Randolph,12-Ward,Public Instruction,,DEM,Glenda Ritz,163
+Randolph,13-Ridgeville,Public Instruction,,DEM,Glenda Ritz,143
+Randolph,14-Parker,Public Instruction,,DEM,Glenda Ritz,259
+Randolph,15-Stoney Creek,Public Instruction,,DEM,Glenda Ritz,144
+Randolph,16-Farmland,Public Instruction,,DEM,Glenda Ritz,296
+Randolph,17-Green,Public Instruction,,DEM,Glenda Ritz,159
+Randolph,18-Union,Public Instruction,,DEM,Glenda Ritz,240
+Randolph,,Public Instruction,,DEM,Glenda Ritz,3760
+Randolph,01-White River 1,U.S. House,6,REP,Luke Messer,448
+Randolph,02-White River 2,U.S. House,6,REP,Luke Messer,428
+Randolph,"03-Winchester 1,2",U.S. House,6,REP,Luke Messer,474
+Randolph,04-Winchester 3,U.S. House,6,REP,Luke Messer,378
+Randolph,05-Winchester 4,U.S. House,6,REP,Luke Messer,395
+Randolph,06-Union City 1,U.S. House,6,REP,Luke Messer,320
+Randolph,07-Union City 2,U.S. House,6,REP,Luke Messer,404
+Randolph,08-Wayne,U.S. House,6,REP,Luke Messer,333
+Randolph,09-Jackson,U.S. House,6,REP,Luke Messer,220
+Randolph,10-Washington,U.S. House,6,REP,Luke Messer,601
+Randolph,11-Spartanburg,U.S. House,6,REP,Luke Messer,349
+Randolph,12-Ward,U.S. House,6,REP,Luke Messer,346
+Randolph,13-Ridgeville,U.S. House,6,REP,Luke Messer,364
+Randolph,14-Parker,U.S. House,6,REP,Luke Messer,490
+Randolph,15-Stoney Creek,U.S. House,6,REP,Luke Messer,331
+Randolph,16-Farmland,U.S. House,6,REP,Luke Messer,601
+Randolph,17-Green,U.S. House,6,REP,Luke Messer,326
+Randolph,18-Union,U.S. House,6,REP,Luke Messer,600
+Randolph,,U.S. House,6,REP,Luke Messer,7408
+Randolph,01-White River 1,U.S. House,6,DEM,Barry Welsh,124
+Randolph,02-White River 2,U.S. House,6,DEM,Barry Welsh,109
+Randolph,"03-Winchester 1,2",U.S. House,6,DEM,Barry Welsh,203
+Randolph,04-Winchester 3,U.S. House,6,DEM,Barry Welsh,179
+Randolph,05-Winchester 4,U.S. House,6,DEM,Barry Welsh,165
+Randolph,06-Union City 1,U.S. House,6,DEM,Barry Welsh,165
+Randolph,07-Union City 2,U.S. House,6,DEM,Barry Welsh,161
+Randolph,08-Wayne,U.S. House,6,DEM,Barry Welsh,80
+Randolph,09-Jackson,U.S. House,6,DEM,Barry Welsh,52
+Randolph,10-Washington,U.S. House,6,DEM,Barry Welsh,145
+Randolph,11-Spartanburg,U.S. House,6,DEM,Barry Welsh,83
+Randolph,12-Ward,U.S. House,6,DEM,Barry Welsh,104
+Randolph,13-Ridgeville,U.S. House,6,DEM,Barry Welsh,96
+Randolph,14-Parker,U.S. House,6,DEM,Barry Welsh,174
+Randolph,15-Stoney Creek,U.S. House,6,DEM,Barry Welsh,96
+Randolph,16-Farmland,U.S. House,6,DEM,Barry Welsh,209
+Randolph,17-Green,U.S. House,6,DEM,Barry Welsh,117
+Randolph,18-Union,U.S. House,6,DEM,Barry Welsh,144
+Randolph,,U.S. House,6,DEM,Barry Welsh,2406
+Randolph,01-White River 1,U.S. House,6,LBT,Rich Turvey,17
+Randolph,02-White River 2,U.S. House,6,LBT,Rich Turvey,26
+Randolph,"03-Winchester 1,2",U.S. House,6,LBT,Rich Turvey,36
+Randolph,04-Winchester 3,U.S. House,6,LBT,Rich Turvey,23
+Randolph,05-Winchester 4,U.S. House,6,LBT,Rich Turvey,28
+Randolph,06-Union City 1,U.S. House,6,LBT,Rich Turvey,17
+Randolph,07-Union City 2,U.S. House,6,LBT,Rich Turvey,22
+Randolph,08-Wayne,U.S. House,6,LBT,Rich Turvey,7
+Randolph,09-Jackson,U.S. House,6,LBT,Rich Turvey,8
+Randolph,10-Washington,U.S. House,6,LBT,Rich Turvey,26
+Randolph,11-Spartanburg,U.S. House,6,LBT,Rich Turvey,14
+Randolph,12-Ward,U.S. House,6,LBT,Rich Turvey,17
+Randolph,13-Ridgeville,U.S. House,6,LBT,Rich Turvey,15
+Randolph,14-Parker,U.S. House,6,LBT,Rich Turvey,33
+Randolph,15-Stoney Creek,U.S. House,6,LBT,Rich Turvey,15
+Randolph,16-Farmland,U.S. House,6,LBT,Rich Turvey,40
+Randolph,17-Green,U.S. House,6,LBT,Rich Turvey,19
+Randolph,18-Union,U.S. House,6,LBT,Rich Turvey,31
+Randolph,,U.S. House,6,LBT,Rich Turvey,394
+Randolph,08-Wayne,U.S. House,6,,Write-ins,1
+Randolph,01-White River 1,State House,33,REP,Greg Beumer,479
+Randolph,02-White River 2,State House,33,REP,Greg Beumer,511
+Randolph,"03-Winchester 1,2",State House,33,REP,Greg Beumer,596
+Randolph,04-Winchester 3,State House,33,REP,Greg Beumer,464
+Randolph,05-Winchester 4,State House,33,REP,Greg Beumer,488
+Randolph,06-Union City 1,State House,33,REP,Greg Beumer,392
+Randolph,07-Union City 2,State House,33,REP,Greg Beumer,501
+Randolph,08-Wayne,State House,33,REP,Greg Beumer,371
+Randolph,09-Jackson,State House,33,REP,Greg Beumer,249
+Randolph,10-Washington,State House,33,REP,Greg Beumer,643
+Randolph,11-Spartanburg,State House,33,REP,Greg Beumer,386
+Randolph,12-Ward,State House,33,REP,Greg Beumer,396
+Randolph,13-Ridgeville,State House,33,REP,Greg Beumer,404
+Randolph,14-Parker,State House,33,REP,Greg Beumer,557
+Randolph,15-Stoney Creek,State House,33,REP,Greg Beumer,384
+Randolph,16-Farmland,State House,33,REP,Greg Beumer,723
+Randolph,17-Green,State House,33,REP,Greg Beumer,374
+Randolph,18-Union,State House,33,REP,Greg Beumer,690
+Randolph,,State House,33,REP,Greg Beumer,8608

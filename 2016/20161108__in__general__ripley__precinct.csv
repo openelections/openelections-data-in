@@ -1,0 +1,619 @@
+county,precinct,office,district,party,candidate,votes
+Ripley,Adams 1,Voters,,,Registered,1244
+Ripley,Adams  2,Voters,,,Registered,1663
+Ripley,Adams  3,Voters,,,Registered,1196
+Ripley,Brown 1,Voters,,,Registered,603
+Ripley,Brown  2,Voters,,,Registered,630
+Ripley,Center  1,Voters,,,Registered,419
+Ripley,Center  2,Voters,,,Registered,702
+Ripley,Center  3,Voters,,,Registered,716
+Ripley,Delaware,Voters,,,Registered,1057
+Ripley,Franklin  1,Voters,,,Registered,932
+Ripley,Franklin  2,Voters,,,Registered,867
+Ripley,Franklin  3,Voters,,,Registered,1008
+Ripley,Jackson,Voters,,,Registered,707
+Ripley,Johnson 1,Voters,,,Registered,1007
+Ripley,Johnson  2,Voters,,,Registered,959
+Ripley,Johnson  3,Voters,,,Registered,908
+Ripley,Laughery  WI  PI,Voters,,,Registered,1304
+Ripley,Laughery  W2  PI,Voters,,,Registered,663
+Ripley,Laughery  W3  PI,Voters,,,Registered,939
+Ripley,Laughery  1,Voters,,,Registered,1008
+Ripley,Otter  Creek  1,Voters,,,Registered,572
+Ripley,Otter  Creek  2,Voters,,,Registered,558
+Ripley,Shelby,Voters,,,Registered,694
+Ripley,Washington  I,Voters,,,Registered,744
+Ripley,Washington  2,Voters,,,Registered,1093
+Ripley,,Voters,,,Registered,22193
+Ripley,Adams 1,Voters,,,Ballots Cast,792
+Ripley,Adams  2,Voters,,,Ballots Cast,923
+Ripley,Adams  3,Voters,,,Ballots Cast,654
+Ripley,Brown 1,Voters,,,Ballots Cast,388
+Ripley,Brown  2,Voters,,,Ballots Cast,417
+Ripley,Center  1,Voters,,,Ballots Cast,255
+Ripley,Center  2,Voters,,,Ballots Cast,397
+Ripley,Center  3,Voters,,,Ballots Cast,438
+Ripley,Delaware,Voters,,,Ballots Cast,674
+Ripley,Franklin  1,Voters,,,Ballots Cast,546
+Ripley,Franklin  2,Voters,,,Ballots Cast,489
+Ripley,Franklin  3,Voters,,,Ballots Cast,470
+Ripley,Jackson,Voters,,,Ballots Cast,497
+Ripley,Johnson 1,Voters,,,Ballots Cast,555
+Ripley,Johnson  2,Voters,,,Ballots Cast,524
+Ripley,Johnson  3,Voters,,,Ballots Cast,594
+Ripley,Laughery  WI  PI,Voters,,,Ballots Cast,705
+Ripley,Laughery  W2  PI,Voters,,,Ballots Cast,398
+Ripley,Laughery  W3  PI,Voters,,,Ballots Cast,547
+Ripley,Laughery  1,Voters,,,Ballots Cast,717
+Ripley,Otter  Creek  1,Voters,,,Ballots Cast,294
+Ripley,Otter  Creek  2,Voters,,,Ballots Cast,333
+Ripley,Shelby,Voters,,,Ballots Cast,400
+Ripley,Washington  I,Voters,,,Ballots Cast,470
+Ripley,Washington  2,Voters,,,Ballots Cast,679
+Ripley,,Voters,,,Ballots Cast,13156
+Ripley,Adams 1,President,,REP,Donald Trump,604
+Ripley,Adams  2,President,,REP,Donald Trump,745
+Ripley,Adams  3,President,,REP,Donald Trump,431
+Ripley,Brown 1,President,,REP,Donald Trump,299
+Ripley,Brown  2,President,,REP,Donald Trump,325
+Ripley,Center  1,President,,REP,Donald Trump,192
+Ripley,Center  2,President,,REP,Donald Trump,297
+Ripley,Center  3,President,,REP,Donald Trump,322
+Ripley,Delaware,President,,REP,Donald Trump,520
+Ripley,Franklin  1,President,,REP,Donald Trump,422
+Ripley,Franklin  2,President,,REP,Donald Trump,394
+Ripley,Franklin  3,President,,REP,Donald Trump,329
+Ripley,Jackson,President,,REP,Donald Trump,409
+Ripley,Johnson 1,President,,REP,Donald Trump,408
+Ripley,Johnson  2,President,,REP,Donald Trump,391
+Ripley,Johnson  3,President,,REP,Donald Trump,424
+Ripley,Laughery  WI  PI,President,,REP,Donald Trump,424
+Ripley,Laughery  W2  PI,President,,REP,Donald Trump,276
+Ripley,Laughery  W3  PI,President,,REP,Donald Trump,346
+Ripley,Laughery  1,President,,REP,Donald Trump,537
+Ripley,Otter  Creek  1,President,,REP,Donald Trump,231
+Ripley,Otter  Creek  2,President,,REP,Donald Trump,250
+Ripley,Shelby,President,,REP,Donald Trump,322
+Ripley,Washington  I,President,,REP,Donald Trump,394
+Ripley,Washington  2,President,,REP,Donald Trump,514
+Ripley,,President,,REP,Donald Trump,9806
+Ripley,Adams 1,President,,DEM,Hillary Clinton,138
+Ripley,Adams  2,President,,DEM,Hillary Clinton,127
+Ripley,Adams  3,President,,DEM,Hillary Clinton,171
+Ripley,Brown 1,President,,DEM,Hillary Clinton,60
+Ripley,Brown  2,President,,DEM,Hillary Clinton,73
+Ripley,Center  1,President,,DEM,Hillary Clinton,51
+Ripley,Center  2,President,,DEM,Hillary Clinton,72
+Ripley,Center  3,President,,DEM,Hillary Clinton,84
+Ripley,Delaware,President,,DEM,Hillary Clinton,111
+Ripley,Franklin  1,President,,DEM,Hillary Clinton,91
+Ripley,Franklin  2,President,,DEM,Hillary Clinton,72
+Ripley,Franklin  3,President,,DEM,Hillary Clinton,106
+Ripley,Jackson,President,,DEM,Hillary Clinton,57
+Ripley,Johnson 1,President,,DEM,Hillary Clinton,101
+Ripley,Johnson  2,President,,DEM,Hillary Clinton,92
+Ripley,Johnson  3,President,,DEM,Hillary Clinton,127
+Ripley,Laughery  WI  PI,President,,DEM,Hillary Clinton,205
+Ripley,Laughery  W2  PI,President,,DEM,Hillary Clinton,87
+Ripley,Laughery  W3  PI,President,,DEM,Hillary Clinton,161
+Ripley,Laughery  1,President,,DEM,Hillary Clinton,131
+Ripley,Otter  Creek  1,President,,DEM,Hillary Clinton,49
+Ripley,Otter  Creek  2,President,,DEM,Hillary Clinton,66
+Ripley,Shelby,President,,DEM,Hillary Clinton,56
+Ripley,Washington  I,President,,DEM,Hillary Clinton,56
+Ripley,Washington  2,President,,DEM,Hillary Clinton,127
+Ripley,,President,,DEM,Hillary Clinton,2471
+Ripley,Adams 1,President,,LBT,Gary Johnson,31
+Ripley,Adams  2,President,,LBT,Gary Johnson,27
+Ripley,Adams  3,President,,LBT,Gary Johnson,26
+Ripley,Brown 1,President,,LBT,Gary Johnson,16
+Ripley,Brown  2,President,,LBT,Gary Johnson,9
+Ripley,Center  1,President,,LBT,Gary Johnson,6
+Ripley,Center  2,President,,LBT,Gary Johnson,18
+Ripley,Center  3,President,,LBT,Gary Johnson,20
+Ripley,Delaware,President,,LBT,Gary Johnson,17
+Ripley,Franklin  1,President,,LBT,Gary Johnson,17
+Ripley,Franklin  2,President,,LBT,Gary Johnson,14
+Ripley,Franklin  3,President,,LBT,Gary Johnson,26
+Ripley,Jackson,President,,LBT,Gary Johnson,21
+Ripley,Johnson 1,President,,LBT,Gary Johnson,30
+Ripley,Johnson  2,President,,LBT,Gary Johnson,25
+Ripley,Johnson  3,President,,LBT,Gary Johnson,19
+Ripley,Laughery  WI  PI,President,,LBT,Gary Johnson,47
+Ripley,Laughery  W2  PI,President,,LBT,Gary Johnson,25
+Ripley,Laughery  W3  PI,President,,LBT,Gary Johnson,25
+Ripley,Laughery  1,President,,LBT,Gary Johnson,33
+Ripley,Otter  Creek  1,President,,LBT,Gary Johnson,8
+Ripley,Otter  Creek  2,President,,LBT,Gary Johnson,9
+Ripley,Shelby,President,,LBT,Gary Johnson,7
+Ripley,Washington  I,President,,LBT,Gary Johnson,9
+Ripley,Washington  2,President,,LBT,Gary Johnson,28
+Ripley,,President,,LBT,Gary Johnson,513
+Ripley,Adams 1,President,,,Write-ins,9
+Ripley,Adams  2,President,,,Write-ins,11
+Ripley,Adams  3,President,,,Write-ins,13
+Ripley,Brown 1,President,,,Write-ins,7
+Ripley,Brown  2,President,,,Write-ins,1
+Ripley,Center  1,President,,,Write-ins,0
+Ripley,Center  2,President,,,Write-ins,3
+Ripley,Center  3,President,,,Write-ins,2
+Ripley,Delaware,President,,,Write-ins,16
+Ripley,Franklin  1,President,,,Write-ins,6
+Ripley,Franklin  2,President,,,Write-ins,2
+Ripley,Franklin  3,President,,,Write-ins,4
+Ripley,Jackson,President,,,Write-ins,3
+Ripley,Johnson 1,President,,,Write-ins,2
+Ripley,Johnson  2,President,,,Write-ins,6
+Ripley,Johnson  3,President,,,Write-ins,8
+Ripley,Laughery  WI  PI,President,,,Write-ins,11
+Ripley,Laughery  W2  PI,President,,,Write-ins,6
+Ripley,Laughery  W3  PI,President,,,Write-ins,7
+Ripley,Laughery  1,President,,,Write-ins,4
+Ripley,Otter  Creek  1,President,,,Write-ins,1
+Ripley,Otter  Creek  2,President,,,Write-ins,5
+Ripley,Shelby,President,,,Write-ins,7
+Ripley,Washington  I,President,,,Write-ins,9
+Ripley,Washington  2,President,,,Write-ins,2
+Ripley,,President,,,Write-ins,145
+Ripley,Adams 1,U.S. Senate,,REP,Todd Young,575
+Ripley,Adams  2,U.S. Senate,,REP,Todd Young,702
+Ripley,Adams  3,U.S. Senate,,REP,Todd Young,440
+Ripley,Brown 1,U.S. Senate,,REP,Todd Young,289
+Ripley,Brown  2,U.S. Senate,,REP,Todd Young,300
+Ripley,Center  1,U.S. Senate,,REP,Todd Young,174
+Ripley,Center  2,U.S. Senate,,REP,Todd Young,270
+Ripley,Center  3,U.S. Senate,,REP,Todd Young,305
+Ripley,Delaware,U.S. Senate,,REP,Todd Young,472
+Ripley,Franklin  1,U.S. Senate,,REP,Todd Young,411
+Ripley,Franklin  2,U.S. Senate,,REP,Todd Young,370
+Ripley,Franklin  3,U.S. Senate,,REP,Todd Young,311
+Ripley,Jackson,U.S. Senate,,REP,Todd Young,363
+Ripley,Johnson 1,U.S. Senate,,REP,Todd Young,392
+Ripley,Johnson  2,U.S. Senate,,REP,Todd Young,377
+Ripley,Johnson  3,U.S. Senate,,REP,Todd Young,400
+Ripley,Laughery  WI  PI,U.S. Senate,,REP,Todd Young,399
+Ripley,Laughery  W2  PI,U.S. Senate,,REP,Todd Young,270
+Ripley,Laughery  W3  PI,U.S. Senate,,REP,Todd Young,343
+Ripley,Laughery  1,U.S. Senate,,REP,Todd Young,529
+Ripley,Otter  Creek  1,U.S. Senate,,REP,Todd Young,207
+Ripley,Otter  Creek  2,U.S. Senate,,REP,Todd Young,215
+Ripley,Shelby,U.S. Senate,,REP,Todd Young,282
+Ripley,Washington  I,U.S. Senate,,REP,Todd Young,367
+Ripley,Washington  2,U.S. Senate,,REP,Todd Young,464
+Ripley,,U.S. Senate,,REP,Todd Young,9227
+Ripley,Adams 1,U.S. Senate,,DEM,Evan Bayh,174
+Ripley,Adams  2,U.S. Senate,,DEM,Evan Bayh,165
+Ripley,Adams  3,U.S. Senate,,DEM,Evan Bayh,175
+Ripley,Brown 1,U.S. Senate,,DEM,Evan Bayh,84
+Ripley,Brown  2,U.S. Senate,,DEM,Evan Bayh,90
+Ripley,Center  1,U.S. Senate,,DEM,Evan Bayh,65
+Ripley,Center  2,U.S. Senate,,DEM,Evan Bayh,100
+Ripley,Center  3,U.S. Senate,,DEM,Evan Bayh,117
+Ripley,Delaware,U.S. Senate,,DEM,Evan Bayh,161
+Ripley,Franklin  1,U.S. Senate,,DEM,Evan Bayh,107
+Ripley,Franklin  2,U.S. Senate,,DEM,Evan Bayh,102
+Ripley,Franklin  3,U.S. Senate,,DEM,Evan Bayh,123
+Ripley,Jackson,U.S. Senate,,DEM,Evan Bayh,96
+Ripley,Johnson 1,U.S. Senate,,DEM,Evan Bayh,133
+Ripley,Johnson  2,U.S. Senate,,DEM,Evan Bayh,116
+Ripley,Johnson  3,U.S. Senate,,DEM,Evan Bayh,156
+Ripley,Laughery  WI  PI,U.S. Senate,,DEM,Evan Bayh,242
+Ripley,Laughery  W2  PI,U.S. Senate,,DEM,Evan Bayh,105
+Ripley,Laughery  W3  PI,U.S. Senate,,DEM,Evan Bayh,179
+Ripley,Laughery  1,U.S. Senate,,DEM,Evan Bayh,151
+Ripley,Otter  Creek  1,U.S. Senate,,DEM,Evan Bayh,76
+Ripley,Otter  Creek  2,U.S. Senate,,DEM,Evan Bayh,101
+Ripley,Shelby,U.S. Senate,,DEM,Evan Bayh,107
+Ripley,Washington  I,U.S. Senate,,DEM,Evan Bayh,85
+Ripley,Washington  2,U.S. Senate,,DEM,Evan Bayh,172
+Ripley,,U.S. Senate,,DEM,Evan Bayh,3182
+Ripley,Adams 1,U.S. Senate,,LBT,Lucy Brenton,28
+Ripley,Adams  2,U.S. Senate,,LBT,Lucy Brenton,33
+Ripley,Adams  3,U.S. Senate,,LBT,Lucy Brenton,27
+Ripley,Brown 1,U.S. Senate,,LBT,Lucy Brenton,8
+Ripley,Brown  2,U.S. Senate,,LBT,Lucy Brenton,21
+Ripley,Center  1,U.S. Senate,,LBT,Lucy Brenton,9
+Ripley,Center  2,U.S. Senate,,LBT,Lucy Brenton,17
+Ripley,Center  3,U.S. Senate,,LBT,Lucy Brenton,12
+Ripley,Delaware,U.S. Senate,,LBT,Lucy Brenton,23
+Ripley,Franklin  1,U.S. Senate,,LBT,Lucy Brenton,15
+Ripley,Franklin  2,U.S. Senate,,LBT,Lucy Brenton,9
+Ripley,Franklin  3,U.S. Senate,,LBT,Lucy Brenton,25
+Ripley,Jackson,U.S. Senate,,LBT,Lucy Brenton,24
+Ripley,Johnson 1,U.S. Senate,,LBT,Lucy Brenton,20
+Ripley,Johnson  2,U.S. Senate,,LBT,Lucy Brenton,20
+Ripley,Johnson  3,U.S. Senate,,LBT,Lucy Brenton,19
+Ripley,Laughery  WI  PI,U.S. Senate,,LBT,Lucy Brenton,40
+Ripley,Laughery  W2  PI,U.S. Senate,,LBT,Lucy Brenton,16
+Ripley,Laughery  W3  PI,U.S. Senate,,LBT,Lucy Brenton,16
+Ripley,Laughery  1,U.S. Senate,,LBT,Lucy Brenton,26
+Ripley,Otter  Creek  1,U.S. Senate,,LBT,Lucy Brenton,1
+Ripley,Otter  Creek  2,U.S. Senate,,LBT,Lucy Brenton,13
+Ripley,Shelby,U.S. Senate,,LBT,Lucy Brenton,6
+Ripley,Washington  I,U.S. Senate,,LBT,Lucy Brenton,12
+Ripley,Washington  2,U.S. Senate,,LBT,Lucy Brenton,24
+Ripley,,U.S. Senate,,LBT,Lucy Brenton,464
+Ripley,Adams 1,U.S. Senate,,,Write-ins,0
+Ripley,Adams  2,U.S. Senate,,,Write-ins,0
+Ripley,Adams  3,U.S. Senate,,,Write-ins,0
+Ripley,Brown 1,U.S. Senate,,,Write-ins,0
+Ripley,Brown  2,U.S. Senate,,,Write-ins,0
+Ripley,Center  1,U.S. Senate,,,Write-ins,0
+Ripley,Center  2,U.S. Senate,,,Write-ins,0
+Ripley,Center  3,U.S. Senate,,,Write-ins,0
+Ripley,Delaware,U.S. Senate,,,Write-ins,1
+Ripley,Franklin  1,U.S. Senate,,,Write-ins,0
+Ripley,Franklin  2,U.S. Senate,,,Write-ins,0
+Ripley,Franklin  3,U.S. Senate,,,Write-ins,0
+Ripley,Jackson,U.S. Senate,,,Write-ins,0
+Ripley,Johnson 1,U.S. Senate,,,Write-ins,0
+Ripley,Johnson  2,U.S. Senate,,,Write-ins,0
+Ripley,Johnson  3,U.S. Senate,,,Write-ins,0
+Ripley,Laughery  WI  PI,U.S. Senate,,,Write-ins,0
+Ripley,Laughery  W2  PI,U.S. Senate,,,Write-ins,0
+Ripley,Laughery  W3  PI,U.S. Senate,,,Write-ins,0
+Ripley,Laughery  1,U.S. Senate,,,Write-ins,1
+Ripley,Otter  Creek  1,U.S. Senate,,,Write-ins,0
+Ripley,Otter  Creek  2,U.S. Senate,,,Write-ins,0
+Ripley,Shelby,U.S. Senate,,,Write-ins,0
+Ripley,Washington  I,U.S. Senate,,,Write-ins,0
+Ripley,Washington  2,U.S. Senate,,,Write-ins,0
+Ripley,,U.S. Senate,,,Write-ins,2
+Ripley,Adams 1,Governor,,REP,Eric Holcomb,554
+Ripley,Adams  2,Governor,,REP,Eric Holcomb,679
+Ripley,Adams  3,Governor,,REP,Eric Holcomb,427
+Ripley,Brown 1,Governor,,REP,Eric Holcomb,274
+Ripley,Brown  2,Governor,,REP,Eric Holcomb,289
+Ripley,Center  1,Governor,,REP,Eric Holcomb,181
+Ripley,Center  2,Governor,,REP,Eric Holcomb,262
+Ripley,Center  3,Governor,,REP,Eric Holcomb,299
+Ripley,Delaware,Governor,,REP,Eric Holcomb,494
+Ripley,Franklin  1,Governor,,REP,Eric Holcomb,391
+Ripley,Franklin  2,Governor,,REP,Eric Holcomb,366
+Ripley,Franklin  3,Governor,,REP,Eric Holcomb,299
+Ripley,Jackson,Governor,,REP,Eric Holcomb,362
+Ripley,Johnson 1,Governor,,REP,Eric Holcomb,374
+Ripley,Johnson  2,Governor,,REP,Eric Holcomb,367
+Ripley,Johnson  3,Governor,,REP,Eric Holcomb,388
+Ripley,Laughery  WI  PI,Governor,,REP,Eric Holcomb,391
+Ripley,Laughery  W2  PI,Governor,,REP,Eric Holcomb,247
+Ripley,Laughery  W3  PI,Governor,,REP,Eric Holcomb,328
+Ripley,Laughery  1,Governor,,REP,Eric Holcomb,508
+Ripley,Otter  Creek  1,Governor,,REP,Eric Holcomb,194
+Ripley,Otter  Creek  2,Governor,,REP,Eric Holcomb,209
+Ripley,Shelby,Governor,,REP,Eric Holcomb,271
+Ripley,Washington  I,Governor,,REP,Eric Holcomb,347
+Ripley,Washington  2,Governor,,REP,Eric Holcomb,447
+Ripley,,Governor,,REP,Eric Holcomb,8948
+Ripley,Adams 1,Governor,,DEM,John Gregg,194
+Ripley,Adams  2,Governor,,DEM,John Gregg,196
+Ripley,Adams  3,Governor,,DEM,John Gregg,189
+Ripley,Brown 1,Governor,,DEM,John Gregg,101
+Ripley,Brown  2,Governor,,DEM,John Gregg,105
+Ripley,Center  1,Governor,,DEM,John Gregg,63
+Ripley,Center  2,Governor,,DEM,John Gregg,110
+Ripley,Center  3,Governor,,DEM,John Gregg,117
+Ripley,Delaware,Governor,,DEM,John Gregg,151
+Ripley,Franklin  1,Governor,,DEM,John Gregg,128
+Ripley,Franklin  2,Governor,,DEM,John Gregg,106
+Ripley,Franklin  3,Governor,,DEM,John Gregg,139
+Ripley,Jackson,Governor,,DEM,John Gregg,110
+Ripley,Johnson 1,Governor,,DEM,John Gregg,145
+Ripley,Johnson  2,Governor,,DEM,John Gregg,133
+Ripley,Johnson  3,Governor,,DEM,John Gregg,180
+Ripley,Laughery  WI  PI,Governor,,DEM,John Gregg,265
+Ripley,Laughery  W2  PI,Governor,,DEM,John Gregg,129
+Ripley,Laughery  W3  PI,Governor,,DEM,John Gregg,193
+Ripley,Laughery  1,Governor,,DEM,John Gregg,183
+Ripley,Otter  Creek  1,Governor,,DEM,John Gregg,84
+Ripley,Otter  Creek  2,Governor,,DEM,John Gregg,104
+Ripley,Shelby,Governor,,DEM,John Gregg,119
+Ripley,Washington  I,Governor,,DEM,John Gregg,105
+Ripley,Washington  2,Governor,,DEM,John Gregg,191
+Ripley,,Governor,,DEM,John Gregg,3540
+Ripley,Adams 1,Governor,,LBT,Rex Bell,21
+Ripley,Adams  2,Governor,,LBT,Rex Bell,19
+Ripley,Adams  3,Governor,,LBT,Rex Bell,18
+Ripley,Brown 1,Governor,,LBT,Rex Bell,5
+Ripley,Brown  2,Governor,,LBT,Rex Bell,12
+Ripley,Center  1,Governor,,LBT,Rex Bell,4
+Ripley,Center  2,Governor,,LBT,Rex Bell,14
+Ripley,Center  3,Governor,,LBT,Rex Bell,7
+Ripley,Delaware,Governor,,LBT,Rex Bell,9
+Ripley,Franklin  1,Governor,,LBT,Rex Bell,10
+Ripley,Franklin  2,Governor,,LBT,Rex Bell,5
+Ripley,Franklin  3,Governor,,LBT,Rex Bell,22
+Ripley,Jackson,Governor,,LBT,Rex Bell,7
+Ripley,Johnson 1,Governor,,LBT,Rex Bell,15
+Ripley,Johnson  2,Governor,,LBT,Rex Bell,13
+Ripley,Johnson  3,Governor,,LBT,Rex Bell,6
+Ripley,Laughery  WI  PI,Governor,,LBT,Rex Bell,25
+Ripley,Laughery  W2  PI,Governor,,LBT,Rex Bell,13
+Ripley,Laughery  W3  PI,Governor,,LBT,Rex Bell,12
+Ripley,Laughery  1,Governor,,LBT,Rex Bell,9
+Ripley,Otter  Creek  1,Governor,,LBT,Rex Bell,5
+Ripley,Otter  Creek  2,Governor,,LBT,Rex Bell,10
+Ripley,Shelby,Governor,,LBT,Rex Bell,3
+Ripley,Washington  I,Governor,,LBT,Rex Bell,10
+Ripley,Washington  2,Governor,,LBT,Rex Bell,17
+Ripley,,Governor,,LBT,Rex Bell,291
+Ripley,Adams 1,Governor,,,Write-ins,0
+Ripley,Adams  2,Governor,,,Write-ins,0
+Ripley,Adams  3,Governor,,,Write-ins,1
+Ripley,Brown 1,Governor,,,Write-ins,0
+Ripley,Brown  2,Governor,,,Write-ins,0
+Ripley,Center  1,Governor,,,Write-ins,0
+Ripley,Center  2,Governor,,,Write-ins,0
+Ripley,Center  3,Governor,,,Write-ins,0
+Ripley,Delaware,Governor,,,Write-ins,0
+Ripley,Franklin  1,Governor,,,Write-ins,0
+Ripley,Franklin  2,Governor,,,Write-ins,1
+Ripley,Franklin  3,Governor,,,Write-ins,0
+Ripley,Jackson,Governor,,,Write-ins,0
+Ripley,Johnson 1,Governor,,,Write-ins,0
+Ripley,Johnson  2,Governor,,,Write-ins,0
+Ripley,Johnson  3,Governor,,,Write-ins,0
+Ripley,Laughery  WI  PI,Governor,,,Write-ins,0
+Ripley,Laughery  W2  PI,Governor,,,Write-ins,1
+Ripley,Laughery  W3  PI,Governor,,,Write-ins,0
+Ripley,Laughery  1,Governor,,,Write-ins,0
+Ripley,Otter  Creek  1,Governor,,,Write-ins,0
+Ripley,Otter  Creek  2,Governor,,,Write-ins,0
+Ripley,Shelby,Governor,,,Write-ins,0
+Ripley,Washington  I,Governor,,,Write-ins,0
+Ripley,Washington  2,Governor,,,Write-ins,0
+Ripley,,Governor,,,Write-ins,3
+Ripley,Adams 1,Attorney General,,REP,Curtis Hill,621
+Ripley,Adams  2,Attorney General,,REP,Curtis Hill,740
+Ripley,Adams  3,Attorney General,,REP,Curtis Hill,479
+Ripley,Brown 1,Attorney General,,REP,Curtis Hill,306
+Ripley,Brown  2,Attorney General,,REP,Curtis Hill,312
+Ripley,Center  1,Attorney General,,REP,Curtis Hill,193
+Ripley,Center  2,Attorney General,,REP,Curtis Hill,295
+Ripley,Center  3,Attorney General,,REP,Curtis Hill,342
+Ripley,Delaware,Attorney General,,REP,Curtis Hill,526
+Ripley,Franklin  1,Attorney General,,REP,Curtis Hill,425
+Ripley,Franklin  2,Attorney General,,REP,Curtis Hill,393
+Ripley,Franklin  3,Attorney General,,REP,Curtis Hill,338
+Ripley,Jackson,Attorney General,,REP,Curtis Hill,402
+Ripley,Johnson 1,Attorney General,,REP,Curtis Hill,423
+Ripley,Johnson  2,Attorney General,,REP,Curtis Hill,403
+Ripley,Johnson  3,Attorney General,,REP,Curtis Hill,435
+Ripley,Laughery  WI  PI,Attorney General,,REP,Curtis Hill,465
+Ripley,Laughery  W2  PI,Attorney General,,REP,Curtis Hill,289
+Ripley,Laughery  W3  PI,Attorney General,,REP,Curtis Hill,377
+Ripley,Laughery  1,Attorney General,,REP,Curtis Hill,582
+Ripley,Otter  Creek  1,Attorney General,,REP,Curtis Hill,220
+Ripley,Otter  Creek  2,Attorney General,,REP,Curtis Hill,246
+Ripley,Shelby,Attorney General,,REP,Curtis Hill,307
+Ripley,Washington  I,Attorney General,,REP,Curtis Hill,391
+Ripley,Washington  2,Attorney General,,REP,Curtis Hill,519
+Ripley,,Attorney General,,REP,Curtis Hill,10029
+Ripley,Adams 1,Attorney General,,DEM,Lorenzo Arredondo,121
+Ripley,Adams  2,Attorney General,,DEM,Lorenzo Arredondo,135
+Ripley,Adams  3,Attorney General,,DEM,Lorenzo Arredondo,143
+Ripley,Brown 1,Attorney General,,DEM,Lorenzo Arredondo,66
+Ripley,Brown  2,Attorney General,,DEM,Lorenzo Arredondo,82
+Ripley,Center  1,Attorney General,,DEM,Lorenzo Arredondo,54
+Ripley,Center  2,Attorney General,,DEM,Lorenzo Arredondo,83
+Ripley,Center  3,Attorney General,,DEM,Lorenzo Arredondo,72
+Ripley,Delaware,Attorney General,,DEM,Lorenzo Arredondo,110
+Ripley,Franklin  1,Attorney General,,DEM,Lorenzo Arredondo,90
+Ripley,Franklin  2,Attorney General,,DEM,Lorenzo Arredondo,76
+Ripley,Franklin  3,Attorney General,,DEM,Lorenzo Arredondo,107
+Ripley,Jackson,Attorney General,,DEM,Lorenzo Arredondo,58
+Ripley,Johnson 1,Attorney General,,DEM,Lorenzo Arredondo,106
+Ripley,Johnson  2,Attorney General,,DEM,Lorenzo Arredondo,98
+Ripley,Johnson  3,Attorney General,,DEM,Lorenzo Arredondo,121
+Ripley,Laughery  WI  PI,Attorney General,,DEM,Lorenzo Arredondo,187
+Ripley,Laughery  W2  PI,Attorney General,,DEM,Lorenzo Arredondo,92
+Ripley,Laughery  W3  PI,Attorney General,,DEM,Lorenzo Arredondo,142
+Ripley,Laughery  1,Attorney General,,DEM,Lorenzo Arredondo,102
+Ripley,Otter  Creek  1,Attorney General,,DEM,Lorenzo Arredondo,54
+Ripley,Otter  Creek  2,Attorney General,,DEM,Lorenzo Arredondo,67
+Ripley,Shelby,Attorney General,,DEM,Lorenzo Arredondo,77
+Ripley,Washington  I,Attorney General,,DEM,Lorenzo Arredondo,69
+Ripley,Washington  2,Attorney General,,DEM,Lorenzo Arredondo,125
+Ripley,,Attorney General,,DEM,Lorenzo Arredondo,2437
+Ripley,Adams 1,Public Instruction,,REP,Jennifer McCormick,547
+Ripley,Adams  2,Public Instruction,,REP,Jennifer McCormick,659
+Ripley,Adams  3,Public Instruction,,REP,Jennifer McCormick,423
+Ripley,Brown 1,Public Instruction,,REP,Jennifer McCormick,266
+Ripley,Brown  2,Public Instruction,,REP,Jennifer McCormick,280
+Ripley,Center  1,Public Instruction,,REP,Jennifer McCormick,173
+Ripley,Center  2,Public Instruction,,REP,Jennifer McCormick,270
+Ripley,Center  3,Public Instruction,,REP,Jennifer McCormick,291
+Ripley,Delaware,Public Instruction,,REP,Jennifer McCormick,470
+Ripley,Franklin  1,Public Instruction,,REP,Jennifer McCormick,390
+Ripley,Franklin  2,Public Instruction,,REP,Jennifer McCormick,366
+Ripley,Franklin  3,Public Instruction,,REP,Jennifer McCormick,301
+Ripley,Jackson,Public Instruction,,REP,Jennifer McCormick,353
+Ripley,Johnson 1,Public Instruction,,REP,Jennifer McCormick,371
+Ripley,Johnson  2,Public Instruction,,REP,Jennifer McCormick,354
+Ripley,Johnson  3,Public Instruction,,REP,Jennifer McCormick,376
+Ripley,Laughery  WI  PI,Public Instruction,,REP,Jennifer McCormick,386
+Ripley,Laughery  W2  PI,Public Instruction,,REP,Jennifer McCormick,249
+Ripley,Laughery  W3  PI,Public Instruction,,REP,Jennifer McCormick,326
+Ripley,Laughery  1,Public Instruction,,REP,Jennifer McCormick,491
+Ripley,Otter  Creek  1,Public Instruction,,REP,Jennifer McCormick,193
+Ripley,Otter  Creek  2,Public Instruction,,REP,Jennifer McCormick,203
+Ripley,Shelby,Public Instruction,,REP,Jennifer McCormick,276
+Ripley,Washington  I,Public Instruction,,REP,Jennifer McCormick,352
+Ripley,Washington  2,Public Instruction,,REP,Jennifer McCormick,436
+Ripley,,Public Instruction,,REP,Jennifer McCormick,8802
+Ripley,Adams 1,Public Instruction,,DEM,Glenda Ritz,201
+Ripley,Adams  2,Public Instruction,,DEM,Glenda Ritz,217
+Ripley,Adams  3,Public Instruction,,DEM,Glenda Ritz,196
+Ripley,Brown 1,Public Instruction,,DEM,Glenda Ritz,108
+Ripley,Brown  2,Public Instruction,,DEM,Glenda Ritz,111
+Ripley,Center  1,Public Instruction,,DEM,Glenda Ritz,69
+Ripley,Center  2,Public Instruction,,DEM,Glenda Ritz,107
+Ripley,Center  3,Public Instruction,,DEM,Glenda Ritz,121
+Ripley,Delaware,Public Instruction,,DEM,Glenda Ritz,166
+Ripley,Franklin  1,Public Instruction,,DEM,Glenda Ritz,128
+Ripley,Franklin  2,Public Instruction,,DEM,Glenda Ritz,107
+Ripley,Franklin  3,Public Instruction,,DEM,Glenda Ritz,147
+Ripley,Jackson,Public Instruction,,DEM,Glenda Ritz,108
+Ripley,Johnson 1,Public Instruction,,DEM,Glenda Ritz,160
+Ripley,Johnson  2,Public Instruction,,DEM,Glenda Ritz,148
+Ripley,Johnson  3,Public Instruction,,DEM,Glenda Ritz,184
+Ripley,Laughery  WI  PI,Public Instruction,,DEM,Glenda Ritz,271
+Ripley,Laughery  W2  PI,Public Instruction,,DEM,Glenda Ritz,138
+Ripley,Laughery  W3  PI,Public Instruction,,DEM,Glenda Ritz,199
+Ripley,Laughery  1,Public Instruction,,DEM,Glenda Ritz,193
+Ripley,Otter  Creek  1,Public Instruction,,DEM,Glenda Ritz,82
+Ripley,Otter  Creek  2,Public Instruction,,DEM,Glenda Ritz,116
+Ripley,Shelby,Public Instruction,,DEM,Glenda Ritz,108
+Ripley,Washington  I,Public Instruction,,DEM,Glenda Ritz,103
+Ripley,Washington  2,Public Instruction,,DEM,Glenda Ritz,205
+Ripley,,Public Instruction,,DEM,Glenda Ritz,3693
+Ripley,Adams  1,U.S. House,6,REP,Luke Messer,620
+Ripley,Adams  2,U.S. House,6,REP,Luke Messer,738
+Ripley,Adams  3,U.S. House,6,REP,Luke Messer,485
+Ripley,Brown  1,U.S. House,6,REP,Luke Messer,300
+Ripley,Brown  2,U.S. House,6,REP,Luke Messer,320
+Ripley,Center  1,U.S. House,6,REP,Luke Messer,185
+Ripley,Center  2,U.S. House,6,REP,Luke Messer,282
+Ripley,Center  3,U.S. House,6,REP,Luke Messer,336
+Ripley,Delaware,U.S. House,6,REP,Luke Messer,520
+Ripley,Franklin  1,U.S. House,6,REP,Luke Messer,421
+Ripley,Franklin  2,U.S. House,6,REP,Luke Messer,395
+Ripley,Franklin  3,U.S. House,6,REP,Luke Messer,330
+Ripley,Jackson,U.S. House,6,REP,Luke Messer,403
+Ripley,Johnson 1,U.S. House,6,REP,Luke Messer,416
+Ripley,Johnson  2,U.S. House,6,REP,Luke Messer,394
+Ripley,Johnson  3,U.S. House,6,REP,Luke Messer,431
+Ripley,Laughery  WI  PI,U.S. House,6,REP,Luke Messer,465
+Ripley,Laughery  W2  PI,U.S. House,6,REP,Luke Messer,296
+Ripley,Laughery  W3  PI,U.S. House,6,REP,Luke Messer,382
+Ripley,Laughery  1,U.S. House,6,REP,Luke Messer,588
+Ripley,Otter  Creek  1,U.S. House,6,REP,Luke Messer,221
+Ripley,Otter  Creek  2,U.S. House,6,REP,Luke Messer,236
+Ripley,Shelby,U.S. House,6,REP,Luke Messer,296
+Ripley,Washington  I,U.S. House,6,REP,Luke Messer,373
+Ripley,Washington  2,U.S. House,6,REP,Luke Messer,502
+Ripley,,U.S. House,6,REP,Luke Messer,9935
+Ripley,Adams 1,U.S. House,6,DEM,Barry Welsh,123
+Ripley,Adams  2,U.S. House,6,DEM,Barry Welsh,131
+Ripley,Adams  3,U.S. House,6,DEM,Barry Welsh,132
+Ripley,Brown 1,U.S. House,6,DEM,Barry Welsh,65
+Ripley,Brown  2,U.S. House,6,DEM,Barry Welsh,69
+Ripley,Center  1,U.S. House,6,DEM,Barry Welsh,59
+Ripley,Center  2,U.S. House,6,DEM,Barry Welsh,81
+Ripley,Center  3,U.S. House,6,DEM,Barry Welsh,78
+Ripley,Delaware,U.S. House,6,DEM,Barry Welsh,109
+Ripley,Franklin  1,U.S. House,6,DEM,Barry Welsh,90
+Ripley,Franklin  2,U.S. House,6,DEM,Barry Welsh,77
+Ripley,Franklin  3,U.S. House,6,DEM,Barry Welsh,103
+Ripley,Jackson,U.S. House,6,DEM,Barry Welsh,63
+Ripley,Johnson 1,U.S. House,6,DEM,Barry Welsh,105
+Ripley,Johnson  2,U.S. House,6,DEM,Barry Welsh,90
+Ripley,Johnson  3,U.S. House,6,DEM,Barry Welsh,127
+Ripley,Laughery  WI  PI,U.S. House,6,DEM,Barry Welsh,175
+Ripley,Laughery  W2  PI,U.S. House,6,DEM,Barry Welsh,79
+Ripley,Laughery  W3  PI,U.S. House,6,DEM,Barry Welsh,136
+Ripley,Laughery  1,U.S. House,6,DEM,Barry Welsh,93
+Ripley,Otter  Creek  1,U.S. House,6,DEM,Barry Welsh,56
+Ripley,Otter  Creek  2,U.S. House,6,DEM,Barry Welsh,74
+Ripley,Shelby,U.S. House,6,DEM,Barry Welsh,85
+Ripley,Washington  I,U.S. House,6,DEM,Barry Welsh,72
+Ripley,Washington  2,U.S. House,6,DEM,Barry Welsh,124
+Ripley,,U.S. House,6,DEM,Barry Welsh,2396
+Ripley,Adams 1,U.S. House,6,LBT,Rich Turvey,20
+Ripley,Adams  2,U.S. House,6,LBT,Rich Turvey,19
+Ripley,Adams  3,U.S. House,6,LBT,Rich Turvey,16
+Ripley,Brown 1,U.S. House,6,LBT,Rich Turvey,11
+Ripley,Brown  2,U.S. House,6,LBT,Rich Turvey,17
+Ripley,Center  1,U.S. House,6,LBT,Rich Turvey,4
+Ripley,Center  2,U.S. House,6,LBT,Rich Turvey,17
+Ripley,Center  3,U.S. House,6,LBT,Rich Turvey,9
+Ripley,Delaware,U.S. House,6,LBT,Rich Turvey,15
+Ripley,Franklin  1,U.S. House,6,LBT,Rich Turvey,17
+Ripley,Franklin  2,U.S. House,6,LBT,Rich Turvey,7
+Ripley,Franklin  3,U.S. House,6,LBT,Rich Turvey,23
+Ripley,Jackson,U.S. House,6,LBT,Rich Turvey,9
+Ripley,Johnson 1,U.S. House,6,LBT,Rich Turvey,18
+Ripley,Johnson  2,U.S. House,6,LBT,Rich Turvey,20
+Ripley,Johnson  3,U.S. House,6,LBT,Rich Turvey,12
+Ripley,Laughery  WI  PI,U.S. House,6,LBT,Rich Turvey,29
+Ripley,Laughery  W2  PI,U.S. House,6,LBT,Rich Turvey,13
+Ripley,Laughery  W3  PI,U.S. House,6,LBT,Rich Turvey,15
+Ripley,Laughery  1,U.S. House,6,LBT,Rich Turvey,14
+Ripley,Otter  Creek  1,U.S. House,6,LBT,Rich Turvey,7
+Ripley,Otter  Creek  2,U.S. House,6,LBT,Rich Turvey,14
+Ripley,Shelby,U.S. House,6,LBT,Rich Turvey,8
+Ripley,Washington  I,U.S. House,6,LBT,Rich Turvey,14
+Ripley,Washington  2,U.S. House,6,LBT,Rich Turvey,27
+Ripley,,U.S. House,6,LBT,Rich Turvey,375
+Ripley,Brown 1,U.S. House,6,LBT,Rich Turvey,1
+Ripley,Franklin  1,U.S. House,6,LBT,Rich Turvey,1
+Ripley,Adams 1,State Senate,42,REP,Jean Leising,635
+Ripley,Adams  2,State Senate,42,REP,Jean Leising,740
+Ripley,Adams  3,State Senate,42,REP,Jean Leising,493
+Ripley,Adams 1,State Senate,42,DEM,Randy Howard,134
+Ripley,Adams  2,State Senate,42,DEM,Randy Howard,147
+Ripley,Adams  3,State Senate,42,DEM,Randy Howard,143
+Ripley,Laughery  WI  PI,State Senate,42,REP,Jean Leising,499
+Ripley,Laughery  W2  PI,State Senate,42,REP,Jean Leising,294
+Ripley,Laughery  W3  PI,State Senate,42,REP,Jean Leising,402
+Ripley,Laughery  1,State Senate,42,REP,Jean Leising,596
+Ripley,Laughery  WI  PI,State Senate,42,DEM,Randy Howard,179
+Ripley,Laughery  W2  PI,State Senate,42,DEM,Randy Howard,92
+Ripley,Laughery  W3  PI,State Senate,42,DEM,Randy Howard,131
+Ripley,Laughery  1,State Senate,42,DEM,Randy Howard,98
+Ripley,,State Senate,42,REP,Jean Leising,3659
+Ripley,,State Senate,42,DEM,Randy Howard,924
+Ripley,Adams 1,State House,55,REP,Cindy Ziemke,633
+Ripley,Adams  2,State House,55,REP,Cindy Ziemke,728
+Ripley,Adams  3,State House,55,REP,Cindy Ziemke,489
+Ripley,Brown 1,State House,67,REP,Randy Frye,318
+Ripley,Brown  2,State House,67,REP,Randy Frye,332
+Ripley,Center  1,State House,67,REP,Randy Frye,197
+Ripley,Center  2,State House,67,REP,Randy Frye,301
+Ripley,Center  3,State House,67,REP,Randy Frye,344
+Ripley,Delaware,State House,67,REP,Randy Frye,550
+Ripley,Franklin  1,State House,67,REP,Randy Frye,435
+Ripley,Franklin  2,State House,67,REP,Randy Frye,407
+Ripley,Franklin  3,State House,67,REP,Randy Frye,360
+Ripley,Jackson,State House,67,REP,Randy Frye,424
+Ripley,Johnson 1,State House,67,REP,Randy Frye,420
+Ripley,Johnson  2,State House,67,REP,Randy Frye,409
+Ripley,Johnson  3,State House,67,REP,Randy Frye,438
+Ripley,Laughery  WI  PI,State House,55,REP,Cindy Ziemke,501
+Ripley,Laughery  W2  PI,State House,55,REP,Cindy Ziemke,292
+Ripley,Laughery  W3  PI,State House,55,REP,Cindy Ziemke,390
+Ripley,Laughery  1,State House,55,REP,Cindy Ziemke,587
+Ripley,Otter  Creek  1,State House,67,REP,Randy Frye,228
+Ripley,Otter  Creek  2,State House,67,REP,Randy Frye,249
+Ripley,Shelby,State House,67,REP,Randy Frye,315
+Ripley,Washington  I,State House,67,REP,Randy Frye,382
+Ripley,Washington  2,State House,67,REP,Randy Frye,543
+Ripley,,State House,55,REP,Cindy Ziemke,3620
+Ripley,,State House,67,REP,Randy Frye,6652
+Ripley,Adams 1,State House,55,DEM,Mimi Pruett,123
+Ripley,Adams  2,State House,55,DEM,Mimi Pruett,150
+Ripley,Adams  3,State House,55,DEM,Mimi Pruett,137
+Ripley,Brown 1,State House,67,DEM,Rudy Howard,59
+Ripley,Brown  2,State House,67,DEM,Rudy Howard,74
+Ripley,Center  1,State House,67,DEM,Rudy Howard,51
+Ripley,Center  2,State House,67,DEM,Rudy Howard,85
+Ripley,Center  3,State House,67,DEM,Rudy Howard,79
+Ripley,Delaware,State House,67,DEM,Rudy Howard,99
+Ripley,Franklin  1,State House,67,DEM,Rudy Howard,91
+Ripley,Franklin  2,State House,67,DEM,Rudy Howard,70
+Ripley,Franklin  3,State House,67,DEM,Rudy Howard,98
+Ripley,Jackson,State House,67,DEM,Rudy Howard,63
+Ripley,Johnson 1,State House,67,DEM,Rudy Howard,114
+Ripley,Johnson  2,State House,67,DEM,Rudy Howard,100
+Ripley,Johnson  3,State House,67,DEM,Rudy Howard,130
+Ripley,Laughery  WI  PI,State House,55,DEM,Mimi Pruett,167
+Ripley,Laughery  W2  PI,State House,55,DEM,Mimi Pruett,87
+Ripley,Laughery  W3  PI,State House,55,DEM,Mimi Pruett,136
+Ripley,Laughery  1,State House,55,DEM,Mimi Pruett,99
+Ripley,Otter  Creek  1,State House,67,DEM,Rudy Howard,57
+Ripley,Otter  Creek  2,State House,67,DEM,Rudy Howard,78
+Ripley,Shelby,State House,67,DEM,Rudy Howard,76
+Ripley,Washington  I,State House,67,DEM,Rudy Howard,76
+Ripley,Washington  2,State House,67,DEM,Rudy Howard,107
+Ripley,,State House,55,DEM,Mimi Pruett,899
+Ripley,,State House,67,DEM,Rudy Howard,1507

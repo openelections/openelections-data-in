@@ -1,0 +1,821 @@
+county,precinct,office,district,party,candidate,votes
+Putnam,01-Russell,Voters,,,Registered,570
+Putnam,02-Franklin N,Voters,,,Registered,789
+Putnam,03-Franklin S,Voters,,,Registered,342
+Putnam,04-Jackson,Voters,,,Registered,623
+Putnam,05-Clinton,Voters,,,Registered,851
+Putnam,06-Monroe E,Voters,,,Registered,716
+Putnam,07-Monroe W,Voters,,,Registered,440
+Putnam,08-Floyd W,Voters,,,Registered,1356
+Putnam,09-Floyd E,Voters,,,Registered,1423
+Putnam,10-Floyd S,Voters,,,Registered,243
+Putnam,11-Madison,Voters,,,Registered,840
+Putnam,12-Greencastle N,Voters,,,Registered,811
+Putnam,13-First N,Voters,,,Registered,422
+Putnam,14-Second W,Voters,,,Registered,968
+Putnam,15-Second E,Voters,,,Registered,1239
+Putnam,16-First S,Voters,,,Registered,777
+Putnam,17-Third W,Voters,,,Registered,962
+Putnam,18-Third E,Voters,,,Registered,651
+Putnam,19-Fourth W,Voters,,,Registered,623
+Putnam,20-Fourth E,Voters,,,Registered,1242
+Putnam,21-Foxridge,Voters,,,Registered,550
+Putnam,22-Limedale,Voters,,,Registered,812
+Putnam,23-Marion N,Voters,,,Registered,859
+Putnam,24-Marion S,Voters,,,Registered,523
+Putnam,25-Washington N,Voters,,,Registered,866
+Putnam,26-Washington S,Voters,,,Registered,1023
+Putnam,27-Warren,Voters,,,Registered,964
+Putnam,28-Jefferson,Voters,,,Registered,971
+Putnam,29-Cloverdale 1,Voters,,,Registered,881
+Putnam,30-Cloverdale 2,Voters,,,Registered,1027
+Putnam,31-Cloverdale 3,Voters,,,Registered,916
+Putnam,,Voters,,,Registered,25280
+Putnam,01-Russell,Voters,,,Ballots Cast,364
+Putnam,02-Franklin N,Voters,,,Ballots Cast,473
+Putnam,03-Franklin S,Voters,,,Ballots Cast,210
+Putnam,04-Jackson,Voters,,,Ballots Cast,408
+Putnam,05-Clinton,Voters,,,Ballots Cast,552
+Putnam,06-Monroe E,Voters,,,Ballots Cast,431
+Putnam,07-Monroe W,Voters,,,Ballots Cast,312
+Putnam,08-Floyd W,Voters,,,Ballots Cast,836
+Putnam,09-Floyd E,Voters,,,Ballots Cast,875
+Putnam,10-Floyd S,Voters,,,Ballots Cast,165
+Putnam,11-Madison,Voters,,,Ballots Cast,536
+Putnam,12-Greencastle N,Voters,,,Ballots Cast,545
+Putnam,13-First N,Voters,,,Ballots Cast,179
+Putnam,14-Second W,Voters,,,Ballots Cast,618
+Putnam,15-Second E,Voters,,,Ballots Cast,773
+Putnam,16-First S,Voters,,,Ballots Cast,213
+Putnam,17-Third W,Voters,,,Ballots Cast,387
+Putnam,18-Third E,Voters,,,Ballots Cast,329
+Putnam,19-Fourth W,Voters,,,Ballots Cast,233
+Putnam,20-Fourth E,Voters,,,Ballots Cast,553
+Putnam,21-Foxridge,Voters,,,Ballots Cast,395
+Putnam,22-Limedale,Voters,,,Ballots Cast,533
+Putnam,23-Marion N,Voters,,,Ballots Cast,536
+Putnam,24-Marion S,Voters,,,Ballots Cast,351
+Putnam,25-Washington N,Voters,,,Ballots Cast,570
+Putnam,26-Washington S,Voters,,,Ballots Cast,631
+Putnam,27-Warren,Voters,,,Ballots Cast,593
+Putnam,28-Jefferson,Voters,,,Ballots Cast,674
+Putnam,29-Cloverdale 1,Voters,,,Ballots Cast,572
+Putnam,30-Cloverdale 2,Voters,,,Ballots Cast,570
+Putnam,31-Cloverdale 3,Voters,,,Ballots Cast,626
+Putnam,,Voters,,,Ballots Cast,15043
+Putnam,01-Russell,President,,REP,Donald Trump,277
+Putnam,02-Franklin N,President,,REP,Donald Trump,373
+Putnam,03-Franklin S,President,,REP,Donald Trump,148
+Putnam,04-Jackson,President,,REP,Donald Trump,320
+Putnam,05-Clinton,President,,REP,Donald Trump,415
+Putnam,06-Monroe E,President,,REP,Donald Trump,321
+Putnam,07-Monroe W,President,,REP,Donald Trump,235
+Putnam,08-Floyd W,President,,REP,Donald Trump,631
+Putnam,09-Floyd E,President,,REP,Donald Trump,651
+Putnam,10-Floyd S,President,,REP,Donald Trump,138
+Putnam,11-Madison,President,,REP,Donald Trump,385
+Putnam,12-Greencastle N,President,,REP,Donald Trump,368
+Putnam,13-First N,President,,REP,Donald Trump,115
+Putnam,14-Second W,President,,REP,Donald Trump,299
+Putnam,15-Second E,President,,REP,Donald Trump,434
+Putnam,16-First S,President,,REP,Donald Trump,114
+Putnam,17-Third W,President,,REP,Donald Trump,148
+Putnam,18-Third E,President,,REP,Donald Trump,203
+Putnam,19-Fourth W,President,,REP,Donald Trump,133
+Putnam,20-Fourth E,President,,REP,Donald Trump,345
+Putnam,21-Foxridge,President,,REP,Donald Trump,282
+Putnam,22-Limedale,President,,REP,Donald Trump,374
+Putnam,23-Marion N,President,,REP,Donald Trump,424
+Putnam,24-Marion S,President,,REP,Donald Trump,276
+Putnam,25-Washington N,President,,REP,Donald Trump,432
+Putnam,26-Washington S,President,,REP,Donald Trump,471
+Putnam,27-Warren,President,,REP,Donald Trump,443
+Putnam,28-Jefferson,President,,REP,Donald Trump,545
+Putnam,29-Cloverdale 1,President,,REP,Donald Trump,446
+Putnam,30-Cloverdale 2,President,,REP,Donald Trump,427
+Putnam,31-Cloverdale 3,President,,REP,Donald Trump,464
+Putnam,,President,,REP,Donald Trump,10637
+Putnam,01-Russell,President,,DEM,Hillary Clinton,49
+Putnam,02-Franklin N,President,,DEM,Hillary Clinton,76
+Putnam,03-Franklin S,President,,DEM,Hillary Clinton,43
+Putnam,04-Jackson,President,,DEM,Hillary Clinton,58
+Putnam,05-Clinton,President,,DEM,Hillary Clinton,98
+Putnam,06-Monroe E,President,,DEM,Hillary Clinton,76
+Putnam,07-Monroe W,President,,DEM,Hillary Clinton,58
+Putnam,08-Floyd W,President,,DEM,Hillary Clinton,164
+Putnam,09-Floyd E,President,,DEM,Hillary Clinton,180
+Putnam,10-Floyd S,President,,DEM,Hillary Clinton,20
+Putnam,11-Madison,President,,DEM,Hillary Clinton,123
+Putnam,12-Greencastle N,President,,DEM,Hillary Clinton,147
+Putnam,13-First N,President,,DEM,Hillary Clinton,45
+Putnam,14-Second W,President,,DEM,Hillary Clinton,258
+Putnam,15-Second E,President,,DEM,Hillary Clinton,268
+Putnam,16-First S,President,,DEM,Hillary Clinton,82
+Putnam,17-Third W,President,,DEM,Hillary Clinton,205
+Putnam,18-Third E,President,,DEM,Hillary Clinton,98
+Putnam,19-Fourth W,President,,DEM,Hillary Clinton,85
+Putnam,20-Fourth E,President,,DEM,Hillary Clinton,164
+Putnam,21-Foxridge,President,,DEM,Hillary Clinton,88
+Putnam,22-Limedale,President,,DEM,Hillary Clinton,125
+Putnam,23-Marion N,President,,DEM,Hillary Clinton,78
+Putnam,24-Marion S,President,,DEM,Hillary Clinton,51
+Putnam,25-Washington N,President,,DEM,Hillary Clinton,89
+Putnam,26-Washington S,President,,DEM,Hillary Clinton,109
+Putnam,27-Warren,President,,DEM,Hillary Clinton,112
+Putnam,28-Jefferson,President,,DEM,Hillary Clinton,85
+Putnam,29-Cloverdale 1,President,,DEM,Hillary Clinton,97
+Putnam,30-Cloverdale 2,President,,DEM,Hillary Clinton,104
+Putnam,31-Cloverdale 3,President,,DEM,Hillary Clinton,121
+Putnam,,President,,DEM,Hillary Clinton,3356
+Putnam,01-Russell,President,,LBT,Gary Johnson,24
+Putnam,02-Franklin N,President,,LBT,Gary Johnson,15
+Putnam,03-Franklin S,President,,LBT,Gary Johnson,10
+Putnam,04-Jackson,President,,LBT,Gary Johnson,20
+Putnam,05-Clinton,President,,LBT,Gary Johnson,20
+Putnam,06-Monroe E,President,,LBT,Gary Johnson,21
+Putnam,07-Monroe W,President,,LBT,Gary Johnson,11
+Putnam,08-Floyd W,President,,LBT,Gary Johnson,31
+Putnam,09-Floyd E,President,,LBT,Gary Johnson,30
+Putnam,10-Floyd S,President,,LBT,Gary Johnson,3
+Putnam,11-Madison,President,,LBT,Gary Johnson,13
+Putnam,12-Greencastle N,President,,LBT,Gary Johnson,17
+Putnam,13-First N,President,,LBT,Gary Johnson,11
+Putnam,14-Second W,President,,LBT,Gary Johnson,40
+Putnam,15-Second E,President,,LBT,Gary Johnson,39
+Putnam,16-First S,President,,LBT,Gary Johnson,10
+Putnam,17-Third W,President,,LBT,Gary Johnson,24
+Putnam,18-Third E,President,,LBT,Gary Johnson,21
+Putnam,19-Fourth W,President,,LBT,Gary Johnson,12
+Putnam,20-Fourth E,President,,LBT,Gary Johnson,29
+Putnam,21-Foxridge,President,,LBT,Gary Johnson,18
+Putnam,22-Limedale,President,,LBT,Gary Johnson,20
+Putnam,23-Marion N,President,,LBT,Gary Johnson,21
+Putnam,24-Marion S,President,,LBT,Gary Johnson,16
+Putnam,25-Washington N,President,,LBT,Gary Johnson,33
+Putnam,26-Washington S,President,,LBT,Gary Johnson,40
+Putnam,27-Warren,President,,LBT,Gary Johnson,30
+Putnam,28-Jefferson,President,,LBT,Gary Johnson,32
+Putnam,29-Cloverdale 1,President,,LBT,Gary Johnson,19
+Putnam,30-Cloverdale 2,President,,LBT,Gary Johnson,33
+Putnam,31-Cloverdale 3,President,,LBT,Gary Johnson,24
+Putnam,,President,,LBT,Gary Johnson,687
+Putnam,01-Russell,President,,,write-ins,8
+Putnam,02-Franklin N,President,,,write-ins,3
+Putnam,03-Franklin S,President,,,write-ins,0
+Putnam,04-Jackson,President,,,write-ins,0
+Putnam,05-Clinton,President,,,write-ins,6
+Putnam,06-Monroe E,President,,,write-ins,4
+Putnam,07-Monroe W,President,,,write-ins,1
+Putnam,08-Floyd W,President,,,write-ins,6
+Putnam,09-Floyd E,President,,,write-ins,5
+Putnam,10-Floyd S,President,,,write-ins,3
+Putnam,11-Madison,President,,,write-ins,4
+Putnam,12-Greencastle N,President,,,write-ins,6
+Putnam,13-First N,President,,,write-ins,4
+Putnam,14-Second W,President,,,write-ins,9
+Putnam,15-Second E,President,,,write-ins,11
+Putnam,16-First S,President,,,write-ins,4
+Putnam,17-Third W,President,,,write-ins,7
+Putnam,18-Third E,President,,,write-ins,1
+Putnam,19-Fourth W,President,,,write-ins,1
+Putnam,20-Fourth E,President,,,write-ins,7
+Putnam,21-Foxridge,President,,,write-ins,2
+Putnam,22-Limedale,President,,,write-ins,8
+Putnam,23-Marion N,President,,,write-ins,8
+Putnam,24-Marion S,President,,,write-ins,3
+Putnam,25-Washington N,President,,,write-ins,6
+Putnam,26-Washington S,President,,,write-ins,5
+Putnam,27-Warren,President,,,write-ins,3
+Putnam,28-Jefferson,President,,,write-ins,3
+Putnam,29-Cloverdale 1,President,,,write-ins,2
+Putnam,30-Cloverdale 2,President,,,write-ins,1
+Putnam,31-Cloverdale 3,President,,,write-ins,5
+Putnam,,President,,,write-ins,136
+Putnam,01-Russell,U.S. Senate,,REP,Todd Young,246
+Putnam,02-Franklin N,U.S. Senate,,REP,Todd Young,300
+Putnam,03-Franklin S,U.S. Senate,,REP,Todd Young,139
+Putnam,04-Jackson,U.S. Senate,,REP,Todd Young,299
+Putnam,05-Clinton,U.S. Senate,,REP,Todd Young,370
+Putnam,06-Monroe E,U.S. Senate,,REP,Todd Young,282
+Putnam,07-Monroe W,U.S. Senate,,REP,Todd Young,206
+Putnam,08-Floyd W,U.S. Senate,,REP,Todd Young,592
+Putnam,09-Floyd E,U.S. Senate,,REP,Todd Young,598
+Putnam,10-Floyd S,U.S. Senate,,REP,Todd Young,127
+Putnam,11-Madison,U.S. Senate,,REP,Todd Young,348
+Putnam,12-Greencastle N,U.S. Senate,,REP,Todd Young,316
+Putnam,13-First N,U.S. Senate,,REP,Todd Young,102
+Putnam,14-Second W,U.S. Senate,,REP,Todd Young,276
+Putnam,15-Second E,U.S. Senate,,REP,Todd Young,401
+Putnam,16-First S,U.S. Senate,,REP,Todd Young,101
+Putnam,17-Third W,U.S. Senate,,REP,Todd Young,126
+Putnam,18-Third E,U.S. Senate,,REP,Todd Young,191
+Putnam,19-Fourth W,U.S. Senate,,REP,Todd Young,118
+Putnam,20-Fourth E,U.S. Senate,,REP,Todd Young,303
+Putnam,21-Foxridge,U.S. Senate,,REP,Todd Young,247
+Putnam,22-Limedale,U.S. Senate,,REP,Todd Young,324
+Putnam,23-Marion N,U.S. Senate,,REP,Todd Young,386
+Putnam,24-Marion S,U.S. Senate,,REP,Todd Young,251
+Putnam,25-Washington N,U.S. Senate,,REP,Todd Young,390
+Putnam,26-Washington S,U.S. Senate,,REP,Todd Young,415
+Putnam,27-Warren,U.S. Senate,,REP,Todd Young,393
+Putnam,28-Jefferson,U.S. Senate,,REP,Todd Young,474
+Putnam,29-Cloverdale 1,U.S. Senate,,REP,Todd Young,395
+Putnam,30-Cloverdale 2,U.S. Senate,,REP,Todd Young,374
+Putnam,31-Cloverdale 3,U.S. Senate,,REP,Todd Young,420
+Putnam,,U.S. Senate,,REP,Todd Young,9510
+Putnam,01-Russell,U.S. Senate,,DEM,Evan Bayh,74
+Putnam,02-Franklin N,U.S. Senate,,DEM,Evan Bayh,127
+Putnam,03-Franklin S,U.S. Senate,,DEM,Evan Bayh,53
+Putnam,04-Jackson,U.S. Senate,,DEM,Evan Bayh,80
+Putnam,05-Clinton,U.S. Senate,,DEM,Evan Bayh,134
+Putnam,06-Monroe E,U.S. Senate,,DEM,Evan Bayh,110
+Putnam,07-Monroe W,U.S. Senate,,DEM,Evan Bayh,76
+Putnam,08-Floyd W,U.S. Senate,,DEM,Evan Bayh,193
+Putnam,09-Floyd E,U.S. Senate,,DEM,Evan Bayh,214
+Putnam,10-Floyd S,U.S. Senate,,DEM,Evan Bayh,31
+Putnam,11-Madison,U.S. Senate,,DEM,Evan Bayh,150
+Putnam,12-Greencastle N,U.S. Senate,,DEM,Evan Bayh,200
+Putnam,13-First N,U.S. Senate,,DEM,Evan Bayh,57
+Putnam,14-Second W,U.S. Senate,,DEM,Evan Bayh,297
+Putnam,15-Second E,U.S. Senate,,DEM,Evan Bayh,322
+Putnam,16-First S,U.S. Senate,,DEM,Evan Bayh,91
+Putnam,17-Third W,U.S. Senate,,DEM,Evan Bayh,224
+Putnam,18-Third E,U.S. Senate,,DEM,Evan Bayh,105
+Putnam,19-Fourth W,U.S. Senate,,DEM,Evan Bayh,94
+Putnam,20-Fourth E,U.S. Senate,,DEM,Evan Bayh,198
+Putnam,21-Foxridge,U.S. Senate,,DEM,Evan Bayh,121
+Putnam,22-Limedale,U.S. Senate,,DEM,Evan Bayh,171
+Putnam,23-Marion N,U.S. Senate,,DEM,Evan Bayh,114
+Putnam,24-Marion S,U.S. Senate,,DEM,Evan Bayh,79
+Putnam,25-Washington N,U.S. Senate,,DEM,Evan Bayh,128
+Putnam,26-Washington S,U.S. Senate,,DEM,Evan Bayh,159
+Putnam,27-Warren,U.S. Senate,,DEM,Evan Bayh,142
+Putnam,28-Jefferson,U.S. Senate,,DEM,Evan Bayh,150
+Putnam,29-Cloverdale 1,U.S. Senate,,DEM,Evan Bayh,116
+Putnam,30-Cloverdale 2,U.S. Senate,,DEM,Evan Bayh,144
+Putnam,31-Cloverdale 3,U.S. Senate,,DEM,Evan Bayh,165
+Putnam,,U.S. Senate,,DEM,Evan Bayh,4319
+Putnam,01-Russell,U.S. Senate,,LBT,Lucy Brenton,31
+Putnam,02-Franklin N,U.S. Senate,,LBT,Lucy Brenton,27
+Putnam,03-Franklin S,U.S. Senate,,LBT,Lucy Brenton,11
+Putnam,04-Jackson,U.S. Senate,,LBT,Lucy Brenton,22
+Putnam,05-Clinton,U.S. Senate,,LBT,Lucy Brenton,30
+Putnam,06-Monroe E,U.S. Senate,,LBT,Lucy Brenton,20
+Putnam,07-Monroe W,U.S. Senate,,LBT,Lucy Brenton,19
+Putnam,08-Floyd W,U.S. Senate,,LBT,Lucy Brenton,35
+Putnam,09-Floyd E,U.S. Senate,,LBT,Lucy Brenton,40
+Putnam,10-Floyd S,U.S. Senate,,LBT,Lucy Brenton,4
+Putnam,11-Madison,U.S. Senate,,LBT,Lucy Brenton,28
+Putnam,12-Greencastle N,U.S. Senate,,LBT,Lucy Brenton,21
+Putnam,13-First N,U.S. Senate,,LBT,Lucy Brenton,14
+Putnam,14-Second W,U.S. Senate,,LBT,Lucy Brenton,30
+Putnam,15-Second E,U.S. Senate,,LBT,Lucy Brenton,33
+Putnam,16-First S,U.S. Senate,,LBT,Lucy Brenton,12
+Putnam,17-Third W,U.S. Senate,,LBT,Lucy Brenton,28
+Putnam,18-Third E,U.S. Senate,,LBT,Lucy Brenton,24
+Putnam,19-Fourth W,U.S. Senate,,LBT,Lucy Brenton,12
+Putnam,20-Fourth E,U.S. Senate,,LBT,Lucy Brenton,32
+Putnam,21-Foxridge,U.S. Senate,,LBT,Lucy Brenton,25
+Putnam,22-Limedale,U.S. Senate,,LBT,Lucy Brenton,28
+Putnam,23-Marion N,U.S. Senate,,LBT,Lucy Brenton,29
+Putnam,24-Marion S,U.S. Senate,,LBT,Lucy Brenton,15
+Putnam,25-Washington N,U.S. Senate,,LBT,Lucy Brenton,42
+Putnam,26-Washington S,U.S. Senate,,LBT,Lucy Brenton,47
+Putnam,27-Warren,U.S. Senate,,LBT,Lucy Brenton,41
+Putnam,28-Jefferson,U.S. Senate,,LBT,Lucy Brenton,36
+Putnam,29-Cloverdale 1,U.S. Senate,,LBT,Lucy Brenton,51
+Putnam,30-Cloverdale 2,U.S. Senate,,LBT,Lucy Brenton,43
+Putnam,31-Cloverdale 3,U.S. Senate,,LBT,Lucy Brenton,31
+Putnam,,U.S. Senate,,LBT,Lucy Brenton,861
+Putnam,01-Russell,U.S. Senate,,,Write-ins,0
+Putnam,02-Franklin N,U.S. Senate,,,Write-ins,1
+Putnam,03-Franklin S,U.S. Senate,,,Write-ins,0
+Putnam,04-Jackson,U.S. Senate,,,Write-ins,0
+Putnam,05-Clinton,U.S. Senate,,,Write-ins,0
+Putnam,06-Monroe E,U.S. Senate,,,Write-ins,0
+Putnam,07-Monroe W,U.S. Senate,,,Write-ins,0
+Putnam,08-Floyd W,U.S. Senate,,,Write-ins,0
+Putnam,09-Floyd E,U.S. Senate,,,Write-ins,0
+Putnam,10-Floyd S,U.S. Senate,,,Write-ins,0
+Putnam,11-Madison,U.S. Senate,,,Write-ins,0
+Putnam,12-Greencastle N,U.S. Senate,,,Write-ins,0
+Putnam,13-First N,U.S. Senate,,,Write-ins,0
+Putnam,14-Second W,U.S. Senate,,,Write-ins,1
+Putnam,15-Second E,U.S. Senate,,,Write-ins,0
+Putnam,16-First S,U.S. Senate,,,Write-ins,0
+Putnam,17-Third W,U.S. Senate,,,Write-ins,0
+Putnam,18-Third E,U.S. Senate,,,Write-ins,0
+Putnam,19-Fourth W,U.S. Senate,,,Write-ins,0
+Putnam,20-Fourth E,U.S. Senate,,,Write-ins,0
+Putnam,21-Foxridge,U.S. Senate,,,Write-ins,0
+Putnam,22-Limedale,U.S. Senate,,,Write-ins,0
+Putnam,23-Marion N,U.S. Senate,,,Write-ins,0
+Putnam,24-Marion S,U.S. Senate,,,Write-ins,0
+Putnam,25-Washington N,U.S. Senate,,,Write-ins,0
+Putnam,26-Washington S,U.S. Senate,,,Write-ins,0
+Putnam,27-Warren,U.S. Senate,,,Write-ins,0
+Putnam,28-Jefferson,U.S. Senate,,,Write-ins,0
+Putnam,29-Cloverdale 1,U.S. Senate,,,Write-ins,0
+Putnam,30-Cloverdale 2,U.S. Senate,,,Write-ins,0
+Putnam,31-Cloverdale 3,U.S. Senate,,,Write-ins,0
+Putnam,,U.S. Senate,,,Write-ins,2
+Putnam,01-Russell,Governor,,REP,Eric Holcomb,215
+Putnam,02-Franklin N,Governor,,REP,Eric Holcomb,292
+Putnam,03-Franklin S,Governor,,REP,Eric Holcomb,131
+Putnam,04-Jackson,Governor,,REP,Eric Holcomb,281
+Putnam,05-Clinton,Governor,,REP,Eric Holcomb,356
+Putnam,06-Monroe E,Governor,,REP,Eric Holcomb,256
+Putnam,07-Monroe W,Governor,,REP,Eric Holcomb,195
+Putnam,08-Floyd W,Governor,,REP,Eric Holcomb,561
+Putnam,09-Floyd E,Governor,,REP,Eric Holcomb,570
+Putnam,10-Floyd S,Governor,,REP,Eric Holcomb,125
+Putnam,11-Madison,Governor,,REP,Eric Holcomb,338
+Putnam,12-Greencastle N,Governor,,REP,Eric Holcomb,303
+Putnam,13-First N,Governor,,REP,Eric Holcomb,102
+Putnam,14-Second W,Governor,,REP,Eric Holcomb,253
+Putnam,15-Second E,Governor,,REP,Eric Holcomb,377
+Putnam,16-First S,Governor,,REP,Eric Holcomb,104
+Putnam,17-Third W,Governor,,REP,Eric Holcomb,125
+Putnam,18-Third E,Governor,,REP,Eric Holcomb,176
+Putnam,19-Fourth W,Governor,,REP,Eric Holcomb,119
+Putnam,20-Fourth E,Governor,,REP,Eric Holcomb,290
+Putnam,21-Foxridge,Governor,,REP,Eric Holcomb,242
+Putnam,22-Limedale,Governor,,REP,Eric Holcomb,319
+Putnam,23-Marion N,Governor,,REP,Eric Holcomb,378
+Putnam,24-Marion S,Governor,,REP,Eric Holcomb,240
+Putnam,25-Washington N,Governor,,REP,Eric Holcomb,384
+Putnam,26-Washington S,Governor,,REP,Eric Holcomb,404
+Putnam,27-Warren,Governor,,REP,Eric Holcomb,374
+Putnam,28-Jefferson,Governor,,REP,Eric Holcomb,457
+Putnam,29-Cloverdale 1,Governor,,REP,Eric Holcomb,366
+Putnam,30-Cloverdale 2,Governor,,REP,Eric Holcomb,361
+Putnam,31-Cloverdale 3,Governor,,REP,Eric Holcomb,400
+Putnam,,Governor,,REP,Eric Holcomb,9094
+Putnam,01-Russell,Governor,,DEM,John Gregg,114
+Putnam,02-Franklin N,Governor,,DEM,John Gregg,153
+Putnam,03-Franklin S,Governor,,DEM,John Gregg,65
+Putnam,04-Jackson,Governor,,DEM,John Gregg,102
+Putnam,05-Clinton,Governor,,DEM,John Gregg,161
+Putnam,06-Monroe E,Governor,,DEM,John Gregg,141
+Putnam,07-Monroe W,Governor,,DEM,John Gregg,96
+Putnam,08-Floyd W,Governor,,DEM,John Gregg,247
+Putnam,09-Floyd E,Governor,,DEM,John Gregg,265
+Putnam,10-Floyd S,Governor,,DEM,John Gregg,32
+Putnam,11-Madison,Governor,,DEM,John Gregg,174
+Putnam,12-Greencastle N,Governor,,DEM,John Gregg,222
+Putnam,13-First N,Governor,,DEM,John Gregg,63
+Putnam,14-Second W,Governor,,DEM,John Gregg,325
+Putnam,15-Second E,Governor,,DEM,John Gregg,345
+Putnam,16-First S,Governor,,DEM,John Gregg,88
+Putnam,17-Third W,Governor,,DEM,John Gregg,234
+Putnam,18-Third E,Governor,,DEM,John Gregg,128
+Putnam,19-Fourth W,Governor,,DEM,John Gregg,96
+Putnam,20-Fourth E,Governor,,DEM,John Gregg,218
+Putnam,21-Foxridge,Governor,,DEM,John Gregg,134
+Putnam,22-Limedale,Governor,,DEM,John Gregg,184
+Putnam,23-Marion N,Governor,,DEM,John Gregg,133
+Putnam,24-Marion S,Governor,,DEM,John Gregg,100
+Putnam,25-Washington N,Governor,,DEM,John Gregg,161
+Putnam,26-Washington S,Governor,,DEM,John Gregg,183
+Putnam,27-Warren,Governor,,DEM,John Gregg,184
+Putnam,28-Jefferson,Governor,,DEM,John Gregg,174
+Putnam,29-Cloverdale 1,Governor,,DEM,John Gregg,160
+Putnam,30-Cloverdale 2,Governor,,DEM,John Gregg,180
+Putnam,31-Cloverdale 3,Governor,,DEM,John Gregg,187
+Putnam,,Governor,,DEM,John Gregg,5049
+Putnam,01-Russell,Governor,,LBT,Rex Bell,21
+Putnam,02-Franklin N,Governor,,LBT,Rex Bell,14
+Putnam,03-Franklin S,Governor,,LBT,Rex Bell,5
+Putnam,04-Jackson,Governor,,LBT,Rex Bell,19
+Putnam,05-Clinton,Governor,,LBT,Rex Bell,19
+Putnam,06-Monroe E,Governor,,LBT,Rex Bell,13
+Putnam,07-Monroe W,Governor,,LBT,Rex Bell,13
+Putnam,08-Floyd W,Governor,,LBT,Rex Bell,16
+Putnam,09-Floyd E,Governor,,LBT,Rex Bell,18
+Putnam,10-Floyd S,Governor,,LBT,Rex Bell,5
+Putnam,11-Madison,Governor,,LBT,Rex Bell,9
+Putnam,12-Greencastle N,Governor,,LBT,Rex Bell,10
+Putnam,13-First N,Governor,,LBT,Rex Bell,7
+Putnam,14-Second W,Governor,,LBT,Rex Bell,25
+Putnam,15-Second E,Governor,,LBT,Rex Bell,23
+Putnam,16-First S,Governor,,LBT,Rex Bell,11
+Putnam,17-Third W,Governor,,LBT,Rex Bell,14
+Putnam,18-Third E,Governor,,LBT,Rex Bell,17
+Putnam,19-Fourth W,Governor,,LBT,Rex Bell,8
+Putnam,20-Fourth E,Governor,,LBT,Rex Bell,15
+Putnam,21-Foxridge,Governor,,LBT,Rex Bell,10
+Putnam,22-Limedale,Governor,,LBT,Rex Bell,15
+Putnam,23-Marion N,Governor,,LBT,Rex Bell,18
+Putnam,24-Marion S,Governor,,LBT,Rex Bell,6
+Putnam,25-Washington N,Governor,,LBT,Rex Bell,13
+Putnam,26-Washington S,Governor,,LBT,Rex Bell,30
+Putnam,27-Warren,Governor,,LBT,Rex Bell,20
+Putnam,28-Jefferson,Governor,,LBT,Rex Bell,27
+Putnam,29-Cloverdale 1,Governor,,LBT,Rex Bell,28
+Putnam,30-Cloverdale 2,Governor,,LBT,Rex Bell,19
+Putnam,31-Cloverdale 3,Governor,,LBT,Rex Bell,22
+Putnam,,Governor,,LBT,Rex Bell,490
+Putnam,01-Russell,Governor,,,Write-ins,0
+Putnam,02-Franklin N,Governor,,,Write-ins,0
+Putnam,03-Franklin S,Governor,,,Write-ins,0
+Putnam,04-Jackson,Governor,,,Write-ins,0
+Putnam,05-Clinton,Governor,,,Write-ins,1
+Putnam,06-Monroe E,Governor,,,Write-ins,0
+Putnam,07-Monroe W,Governor,,,Write-ins,0
+Putnam,08-Floyd W,Governor,,,Write-ins,0
+Putnam,09-Floyd E,Governor,,,Write-ins,0
+Putnam,10-Floyd S,Governor,,,Write-ins,0
+Putnam,11-Madison,Governor,,,Write-ins,0
+Putnam,12-Greencastle N,Governor,,,Write-ins,0
+Putnam,13-First N,Governor,,,Write-ins,0
+Putnam,14-Second W,Governor,,,Write-ins,0
+Putnam,15-Second E,Governor,,,Write-ins,0
+Putnam,16-First S,Governor,,,Write-ins,0
+Putnam,17-Third W,Governor,,,Write-ins,0
+Putnam,18-Third E,Governor,,,Write-ins,0
+Putnam,19-Fourth W,Governor,,,Write-ins,0
+Putnam,20-Fourth E,Governor,,,Write-ins,0
+Putnam,21-Foxridge,Governor,,,Write-ins,0
+Putnam,22-Limedale,Governor,,,Write-ins,0
+Putnam,23-Marion N,Governor,,,Write-ins,0
+Putnam,24-Marion S,Governor,,,Write-ins,0
+Putnam,25-Washington N,Governor,,,Write-ins,0
+Putnam,26-Washington S,Governor,,,Write-ins,0
+Putnam,27-Warren,Governor,,,Write-ins,0
+Putnam,28-Jefferson,Governor,,,Write-ins,0
+Putnam,29-Cloverdale 1,Governor,,,Write-ins,0
+Putnam,30-Cloverdale 2,Governor,,,Write-ins,0
+Putnam,31-Cloverdale 3,Governor,,,Write-ins,0
+Putnam,,Governor,,,Write-ins,1
+Putnam,01-Russell,Attorney General,,REP,Curtis Hill,283
+Putnam,02-Franklin N,Attorney General,,REP,Curtis Hill,362
+Putnam,03-Franklin S,Attorney General,,REP,Curtis Hill,153
+Putnam,04-Jackson,Attorney General,,REP,Curtis Hill,324
+Putnam,05-Clinton,Attorney General,,REP,Curtis Hill,413
+Putnam,06-Monroe E,Attorney General,,REP,Curtis Hill,319
+Putnam,07-Monroe W,Attorney General,,REP,Curtis Hill,241
+Putnam,08-Floyd W,Attorney General,,REP,Curtis Hill,649
+Putnam,09-Floyd E,Attorney General,,REP,Curtis Hill,672
+Putnam,10-Floyd S,Attorney General,,REP,Curtis Hill,137
+Putnam,11-Madison,Attorney General,,REP,Curtis Hill,393
+Putnam,12-Greencastle N,Attorney General,,REP,Curtis Hill,382
+Putnam,13-First N,Attorney General,,REP,Curtis Hill,118
+Putnam,14-Second W,Attorney General,,REP,Curtis Hill,337
+Putnam,15-Second E,Attorney General,,REP,Curtis Hill,489
+Putnam,16-First S,Attorney General,,REP,Curtis Hill,124
+Putnam,17-Third W,Attorney General,,REP,Curtis Hill,170
+Putnam,18-Third E,Attorney General,,REP,Curtis Hill,218
+Putnam,19-Fourth W,Attorney General,,REP,Curtis Hill,132
+Putnam,20-Fourth E,Attorney General,,REP,Curtis Hill,355
+Putnam,21-Foxridge,Attorney General,,REP,Curtis Hill,301
+Putnam,22-Limedale,Attorney General,,REP,Curtis Hill,385
+Putnam,23-Marion N,Attorney General,,REP,Curtis Hill,443
+Putnam,24-Marion S,Attorney General,,REP,Curtis Hill,276
+Putnam,25-Washington N,Attorney General,,REP,Curtis Hill,443
+Putnam,26-Washington S,Attorney General,,REP,Curtis Hill,475
+Putnam,27-Warren,Attorney General,,REP,Curtis Hill,456
+Putnam,28-Jefferson,Attorney General,,REP,Curtis Hill,546
+Putnam,29-Cloverdale 1,Attorney General,,REP,Curtis Hill,456
+Putnam,30-Cloverdale 2,Attorney General,,REP,Curtis Hill,450
+Putnam,31-Cloverdale 3,Attorney General,,REP,Curtis Hill,472
+Putnam,,Attorney General,,REP,Curtis Hill,10974
+Putnam,01-Russell,Attorney General,,DEM,Lorenzo Arredondo,57
+Putnam,02-Franklin N,Attorney General,,DEM,Lorenzo Arredondo,88
+Putnam,03-Franklin S,Attorney General,,DEM,Lorenzo Arredondo,44
+Putnam,04-Jackson,Attorney General,,DEM,Lorenzo Arredondo,62
+Putnam,05-Clinton,Attorney General,,DEM,Lorenzo Arredondo,108
+Putnam,06-Monroe E,Attorney General,,DEM,Lorenzo Arredondo,77
+Putnam,07-Monroe W,Attorney General,,DEM,Lorenzo Arredondo,49
+Putnam,08-Floyd W,Attorney General,,DEM,Lorenzo Arredondo,161
+Putnam,09-Floyd E,Attorney General,,DEM,Lorenzo Arredondo,166
+Putnam,10-Floyd S,Attorney General,,DEM,Lorenzo Arredondo,20
+Putnam,11-Madison,Attorney General,,DEM,Lorenzo Arredondo,100
+Putnam,12-Greencastle N,Attorney General,,DEM,Lorenzo Arredondo,132
+Putnam,13-First N,Attorney General,,DEM,Lorenzo Arredondo,45
+Putnam,14-Second W,Attorney General,,DEM,Lorenzo Arredondo,239
+Putnam,15-Second E,Attorney General,,DEM,Lorenzo Arredondo,226
+Putnam,16-First S,Attorney General,,DEM,Lorenzo Arredondo,79
+Putnam,17-Third W,Attorney General,,DEM,Lorenzo Arredondo,185
+Putnam,18-Third E,Attorney General,,DEM,Lorenzo Arredondo,90
+Putnam,19-Fourth W,Attorney General,,DEM,Lorenzo Arredondo,76
+Putnam,20-Fourth E,Attorney General,,DEM,Lorenzo Arredondo,152
+Putnam,21-Foxridge,Attorney General,,DEM,Lorenzo Arredondo,78
+Putnam,22-Limedale,Attorney General,,DEM,Lorenzo Arredondo,114
+Putnam,23-Marion N,Attorney General,,DEM,Lorenzo Arredondo,67
+Putnam,24-Marion S,Attorney General,,DEM,Lorenzo Arredondo,60
+Putnam,25-Washington N,Attorney General,,DEM,Lorenzo Arredondo,99
+Putnam,26-Washington S,Attorney General,,DEM,Lorenzo Arredondo,124
+Putnam,27-Warren,Attorney General,,DEM,Lorenzo Arredondo,107
+Putnam,28-Jefferson,Attorney General,,DEM,Lorenzo Arredondo,88
+Putnam,29-Cloverdale 1,Attorney General,,DEM,Lorenzo Arredondo,89
+Putnam,30-Cloverdale 2,Attorney General,,DEM,Lorenzo Arredondo,103
+Putnam,31-Cloverdale 3,Attorney General,,DEM,Lorenzo Arredondo,119
+Putnam,,Attorney General,,DEM,Lorenzo Arredondo,3204
+Putnam,01-Russell,Public Instruction,,REP,Jennifer McCormick,219
+Putnam,02-Franklin N,Public Instruction,,REP,Jennifer McCormick,317
+Putnam,03-Franklin S,Public Instruction,,REP,Jennifer McCormick,133
+Putnam,04-Jackson,Public Instruction,,REP,Jennifer McCormick,284
+Putnam,05-Clinton,Public Instruction,,REP,Jennifer McCormick,374
+Putnam,06-Monroe E,Public Instruction,,REP,Jennifer McCormick,265
+Putnam,07-Monroe W,Public Instruction,,REP,Jennifer McCormick,203
+Putnam,08-Floyd W,Public Instruction,,REP,Jennifer McCormick,596
+Putnam,09-Floyd E,Public Instruction,,REP,Jennifer McCormick,597
+Putnam,10-Floyd S,Public Instruction,,REP,Jennifer McCormick,120
+Putnam,11-Madison,Public Instruction,,REP,Jennifer McCormick,331
+Putnam,12-Greencastle N,Public Instruction,,REP,Jennifer McCormick,313
+Putnam,13-First N,Public Instruction,,REP,Jennifer McCormick,104
+Putnam,14-Second W,Public Instruction,,REP,Jennifer McCormick,270
+Putnam,15-Second E,Public Instruction,,REP,Jennifer McCormick,387
+Putnam,16-First S,Public Instruction,,REP,Jennifer McCormick,111
+Putnam,17-Third W,Public Instruction,,REP,Jennifer McCormick,129
+Putnam,18-Third E,Public Instruction,,REP,Jennifer McCormick,183
+Putnam,19-Fourth W,Public Instruction,,REP,Jennifer McCormick,114
+Putnam,20-Fourth E,Public Instruction,,REP,Jennifer McCormick,298
+Putnam,21-Foxridge,Public Instruction,,REP,Jennifer McCormick,236
+Putnam,22-Limedale,Public Instruction,,REP,Jennifer McCormick,320
+Putnam,23-Marion N,Public Instruction,,REP,Jennifer McCormick,373
+Putnam,24-Marion S,Public Instruction,,REP,Jennifer McCormick,233
+Putnam,25-Washington N,Public Instruction,,REP,Jennifer McCormick,381
+Putnam,26-Washington S,Public Instruction,,REP,Jennifer McCormick,420
+Putnam,27-Warren,Public Instruction,,REP,Jennifer McCormick,381
+Putnam,28-Jefferson,Public Instruction,,REP,Jennifer McCormick,467
+Putnam,29-Cloverdale 1,Public Instruction,,REP,Jennifer McCormick,367
+Putnam,30-Cloverdale 2,Public Instruction,,REP,Jennifer McCormick,393
+Putnam,31-Cloverdale 3,Public Instruction,,REP,Jennifer McCormick,407
+Putnam,,Public Instruction,,REP,Jennifer McCormick,9326
+Putnam,01-Russell,Public Instruction,,DEM,Glenda Ritz,126
+Putnam,02-Franklin N,Public Instruction,,DEM,Glenda Ritz,140
+Putnam,03-Franklin S,Public Instruction,,DEM,Glenda Ritz,66
+Putnam,04-Jackson,Public Instruction,,DEM,Glenda Ritz,106
+Putnam,05-Clinton,Public Instruction,,DEM,Glenda Ritz,154
+Putnam,06-Monroe E,Public Instruction,,DEM,Glenda Ritz,141
+Putnam,07-Monroe W,Public Instruction,,DEM,Glenda Ritz,93
+Putnam,08-Floyd W,Public Instruction,,DEM,Glenda Ritz,222
+Putnam,09-Floyd E,Public Instruction,,DEM,Glenda Ritz,253
+Putnam,10-Floyd S,Public Instruction,,DEM,Glenda Ritz,38
+Putnam,11-Madison,Public Instruction,,DEM,Glenda Ritz,169
+Putnam,12-Greencastle N,Public Instruction,,DEM,Glenda Ritz,218
+Putnam,13-First N,Public Instruction,,DEM,Glenda Ritz,64
+Putnam,14-Second W,Public Instruction,,DEM,Glenda Ritz,324
+Putnam,15-Second E,Public Instruction,,DEM,Glenda Ritz,349
+Putnam,16-First S,Public Instruction,,DEM,Glenda Ritz,93
+Putnam,17-Third W,Public Instruction,,DEM,Glenda Ritz,240
+Putnam,18-Third E,Public Instruction,,DEM,Glenda Ritz,130
+Putnam,19-Fourth W,Public Instruction,,DEM,Glenda Ritz,100
+Putnam,20-Fourth E,Public Instruction,,DEM,Glenda Ritz,217
+Putnam,21-Foxridge,Public Instruction,,DEM,Glenda Ritz,148
+Putnam,22-Limedale,Public Instruction,,DEM,Glenda Ritz,191
+Putnam,23-Marion N,Public Instruction,,DEM,Glenda Ritz,150
+Putnam,24-Marion S,Public Instruction,,DEM,Glenda Ritz,106
+Putnam,25-Washington N,Public Instruction,,DEM,Glenda Ritz,172
+Putnam,26-Washington S,Public Instruction,,DEM,Glenda Ritz,184
+Putnam,27-Warren,Public Instruction,,DEM,Glenda Ritz,189
+Putnam,28-Jefferson,Public Instruction,,DEM,Glenda Ritz,179
+Putnam,29-Cloverdale 1,Public Instruction,,DEM,Glenda Ritz,185
+Putnam,30-Cloverdale 2,Public Instruction,,DEM,Glenda Ritz,166
+Putnam,31-Cloverdale 3,Public Instruction,,DEM,Glenda Ritz,196
+Putnam,,Public Instruction,,DEM,Glenda Ritz,5109
+Putnam,01-Russell,U.S. House,4,REP,Todd Rokita,263
+Putnam,02-Franklin N,U.S. House,4,REP,Todd Rokita,343
+Putnam,03-Franklin S,U.S. House,4,REP,Todd Rokita,146
+Putnam,04-Jackson,U.S. House,4,REP,Todd Rokita,316
+Putnam,05-Clinton,U.S. House,4,REP,Todd Rokita,391
+Putnam,06-Monroe E,U.S. House,4,REP,Todd Rokita,309
+Putnam,07-Monroe W,U.S. House,4,REP,Todd Rokita,234
+Putnam,08-Floyd W,U.S. House,4,REP,Todd Rokita,629
+Putnam,09-Floyd E,U.S. House,4,REP,Todd Rokita,634
+Putnam,10-Floyd S,U.S. House,4,REP,Todd Rokita,139
+Putnam,11-Madison,U.S. House,4,REP,Todd Rokita,372
+Putnam,12-Greencastle N,U.S. House,4,REP,Todd Rokita,367
+Putnam,13-First N,U.S. House,4,REP,Todd Rokita,118
+Putnam,14-Second W,U.S. House,4,REP,Todd Rokita,332
+Putnam,15-Second E,U.S. House,4,REP,Todd Rokita,471
+Putnam,16-First S,U.S. House,4,REP,Todd Rokita,118
+Putnam,17-Third W,U.S. House,4,REP,Todd Rokita,153
+Putnam,18-Third E,U.S. House,4,REP,Todd Rokita,207
+Putnam,19-Fourth W,U.S. House,4,REP,Todd Rokita,128
+Putnam,20-Fourth E,U.S. House,4,REP,Todd Rokita,335
+Putnam,21-Foxridge,U.S. House,4,REP,Todd Rokita,290
+Putnam,22-Limedale,U.S. House,4,REP,Todd Rokita,374
+Putnam,23-Marion N,U.S. House,4,REP,Todd Rokita,426
+Putnam,24-Marion S,U.S. House,4,REP,Todd Rokita,267
+Putnam,25-Washington N,U.S. House,4,REP,Todd Rokita,433
+Putnam,26-Washington S,U.S. House,4,REP,Todd Rokita,458
+Putnam,27-Warren,U.S. House,4,REP,Todd Rokita,438
+Putnam,28-Jefferson,U.S. House,4,REP,Todd Rokita,509
+Putnam,29-Cloverdale 1,U.S. House,4,REP,Todd Rokita,430
+Putnam,30-Cloverdale 2,U.S. House,4,REP,Todd Rokita,417
+Putnam,31-Cloverdale 3,U.S. House,4,REP,Todd Rokita,452
+Putnam,,U.S. House,4,REP,Todd Rokita,10499
+Putnam,01-Russell,U.S. House,4,DEM,John Dale,58
+Putnam,02-Franklin N,U.S. House,4,DEM,John Dale,95
+Putnam,03-Franklin S,U.S. House,4,DEM,John Dale,45
+Putnam,04-Jackson,U.S. House,4,DEM,John Dale,59
+Putnam,05-Clinton,U.S. House,4,DEM,John Dale,113
+Putnam,06-Monroe E,U.S. House,4,DEM,John Dale,83
+Putnam,07-Monroe W,U.S. House,4,DEM,John Dale,51
+Putnam,08-Floyd W,U.S. House,4,DEM,John Dale,159
+Putnam,09-Floyd E,U.S. House,4,DEM,John Dale,172
+Putnam,10-Floyd S,U.S. House,4,DEM,John Dale,19
+Putnam,11-Madison,U.S. House,4,DEM,John Dale,116
+Putnam,12-Greencastle N,U.S. House,4,DEM,John Dale,147
+Putnam,13-First N,U.S. House,4,DEM,John Dale,37
+Putnam,14-Second W,U.S. House,4,DEM,John Dale,243
+Putnam,15-Second E,U.S. House,4,DEM,John Dale,245
+Putnam,16-First S,U.S. House,4,DEM,John Dale,73
+Putnam,17-Third W,U.S. House,4,DEM,John Dale,197
+Putnam,18-Third E,U.S. House,4,DEM,John Dale,89
+Putnam,19-Fourth W,U.S. House,4,DEM,John Dale,83
+Putnam,20-Fourth E,U.S. House,4,DEM,John Dale,145
+Putnam,21-Foxridge,U.S. House,4,DEM,John Dale,77
+Putnam,22-Limedale,U.S. House,4,DEM,John Dale,121
+Putnam,23-Marion N,U.S. House,4,DEM,John Dale,72
+Putnam,24-Marion S,U.S. House,4,DEM,John Dale,67
+Putnam,25-Washington N,U.S. House,4,DEM,John Dale,97
+Putnam,26-Washington S,U.S. House,4,DEM,John Dale,114
+Putnam,27-Warren,U.S. House,4,DEM,John Dale,104
+Putnam,28-Jefferson,U.S. House,4,DEM,John Dale,105
+Putnam,29-Cloverdale 1,U.S. House,4,DEM,John Dale,96
+Putnam,30-Cloverdale 2,U.S. House,4,DEM,John Dale,112
+Putnam,31-Cloverdale 3,U.S. House,4,DEM,John Dale,124
+Putnam,,U.S. House,4,DEM,John Dale,3318
+Putnam,01-Russell,U.S. House,4,LBT,Steven Mayoras,27
+Putnam,02-Franklin N,U.S. House,4,LBT,Steven Mayoras,22
+Putnam,03-Franklin S,U.S. House,4,LBT,Steven Mayoras,10
+Putnam,04-Jackson,U.S. House,4,LBT,Steven Mayoras,18
+Putnam,05-Clinton,U.S. House,4,LBT,Steven Mayoras,24
+Putnam,06-Monroe E,U.S. House,4,LBT,Steven Mayoras,16
+Putnam,07-Monroe W,U.S. House,4,LBT,Steven Mayoras,11
+Putnam,08-Floyd W,U.S. House,4,LBT,Steven Mayoras,34
+Putnam,09-Floyd E,U.S. House,4,LBT,Steven Mayoras,38
+Putnam,10-Floyd S,U.S. House,4,LBT,Steven Mayoras,1
+Putnam,11-Madison,U.S. House,4,LBT,Steven Mayoras,18
+Putnam,12-Greencastle N,U.S. House,4,LBT,Steven Mayoras,16
+Putnam,13-First N,U.S. House,4,LBT,Steven Mayoras,12
+Putnam,14-Second W,U.S. House,4,LBT,Steven Mayoras,18
+Putnam,15-Second E,U.S. House,4,LBT,Steven Mayoras,23
+Putnam,16-First S,U.S. House,4,LBT,Steven Mayoras,12
+Putnam,17-Third W,U.S. House,4,LBT,Steven Mayoras,26
+Putnam,18-Third E,U.S. House,4,LBT,Steven Mayoras,17
+Putnam,19-Fourth W,U.S. House,4,LBT,Steven Mayoras,9
+Putnam,20-Fourth E,U.S. House,4,LBT,Steven Mayoras,37
+Putnam,21-Foxridge,U.S. House,4,LBT,Steven Mayoras,18
+Putnam,22-Limedale,U.S. House,4,LBT,Steven Mayoras,20
+Putnam,23-Marion N,U.S. House,4,LBT,Steven Mayoras,30
+Putnam,24-Marion S,U.S. House,4,LBT,Steven Mayoras,9
+Putnam,25-Washington N,U.S. House,4,LBT,Steven Mayoras,19
+Putnam,26-Washington S,U.S. House,4,LBT,Steven Mayoras,43
+Putnam,27-Warren,U.S. House,4,LBT,Steven Mayoras,27
+Putnam,28-Jefferson,U.S. House,4,LBT,Steven Mayoras,35
+Putnam,29-Cloverdale 1,U.S. House,4,LBT,Steven Mayoras,27
+Putnam,30-Cloverdale 2,U.S. House,4,LBT,Steven Mayoras,30
+Putnam,31-Cloverdale 3,U.S. House,4,LBT,Steven Mayoras,25
+Putnam,,U.S. House,4,LBT,Steven Mayoras,672
+Putnam,01-Russell,U.S. House,4,,Write-ins,0
+Putnam,02-Franklin N,U.S. House,4,,Write-ins,0
+Putnam,03-Franklin S,U.S. House,4,,Write-ins,0
+Putnam,04-Jackson,U.S. House,4,,Write-ins,0
+Putnam,05-Clinton,U.S. House,4,,Write-ins,1
+Putnam,06-Monroe E,U.S. House,4,,Write-ins,0
+Putnam,07-Monroe W,U.S. House,4,,Write-ins,0
+Putnam,08-Floyd W,U.S. House,4,,Write-ins,0
+Putnam,09-Floyd E,U.S. House,4,,Write-ins,0
+Putnam,10-Floyd S,U.S. House,4,,Write-ins,0
+Putnam,11-Madison,U.S. House,4,,Write-ins,0
+Putnam,12-Greencastle N,U.S. House,4,,Write-ins,0
+Putnam,13-First N,U.S. House,4,,Write-ins,0
+Putnam,14-Second W,U.S. House,4,,Write-ins,0
+Putnam,15-Second E,U.S. House,4,,Write-ins,0
+Putnam,16-First S,U.S. House,4,,Write-ins,0
+Putnam,17-Third W,U.S. House,4,,Write-ins,0
+Putnam,18-Third E,U.S. House,4,,Write-ins,0
+Putnam,19-Fourth W,U.S. House,4,,Write-ins,0
+Putnam,20-Fourth E,U.S. House,4,,Write-ins,0
+Putnam,21-Foxridge,U.S. House,4,,Write-ins,0
+Putnam,22-Limedale,U.S. House,4,,Write-ins,0
+Putnam,23-Marion N,U.S. House,4,,Write-ins,0
+Putnam,24-Marion S,U.S. House,4,,Write-ins,0
+Putnam,25-Washington N,U.S. House,4,,Write-ins,0
+Putnam,26-Washington S,U.S. House,4,,Write-ins,0
+Putnam,27-Warren,U.S. House,4,,Write-ins,0
+Putnam,28-Jefferson,U.S. House,4,,Write-ins,0
+Putnam,29-Cloverdale 1,U.S. House,4,,Write-ins,0
+Putnam,30-Cloverdale 2,U.S. House,4,,Write-ins,1
+Putnam,31-Cloverdale 3,U.S. House,4,,Write-ins,0
+Putnam,,U.S. House,4,,Write-ins,2
+Putnam,01-Russell,State Senate,24,REP,John Crane ,273
+Putnam,02-Franklin N,State Senate,24,REP,John Crane ,360
+Putnam,03-Franklin S,State Senate,24,REP,John Crane ,152
+Putnam,04-Jackson,State Senate,24,REP,John Crane ,319
+Putnam,05-Clinton,State Senate,24,REP,John Crane ,401
+Putnam,06-Monroe E,State Senate,24,REP,John Crane ,315
+Putnam,07-Monroe W,State Senate,24,REP,John Crane ,243
+Putnam,08-Floyd W,State Senate,24,REP,John Crane ,642
+Putnam,09-Floyd E,State Senate,24,REP,John Crane ,662
+Putnam,10-Floyd S,State Senate,24,REP,John Crane ,139
+Putnam,11-Madison,State Senate,24,REP,John Crane ,391
+Putnam,12-Greencastle N,State Senate,24,REP,John Crane ,404
+Putnam,13-First N,State Senate,24,REP,John Crane ,113
+Putnam,14-Second W,State Senate,24,REP,John Crane ,358
+Putnam,15-Second E,State Senate,24,REP,John Crane ,495
+Putnam,16-First S,State Senate,37,REP,Rodric Bray,135
+Putnam,17-Third W,State Senate,37,REP,Rodric Bray,215
+Putnam,18-Third E,State Senate,37,REP,Rodric Bray,245
+Putnam,19-Fourth W,State Senate,37,REP,Rodric Bray,158
+Putnam,20-Fourth E,State Senate,37,REP,Rodric Bray,400
+Putnam,21-Foxridge,State Senate,37,REP,Rodric Bray,317
+Putnam,22-Limedale,State Senate,24,REP,John Crane ,378
+Putnam,23-Marion N,State Senate,24,REP,John Crane ,432
+Putnam,24-Marion S,State Senate,24,REP,John Crane ,279
+Putnam,25-Washington N,State Senate,37,REP,Rodric Bray,479
+Putnam,26-Washington S,State Senate,37,REP,Rodric Bray,517
+Putnam,27-Warren,State Senate,37,REP,Rodric Bray,493
+Putnam,28-Jefferson,State Senate,37,REP,Rodric Bray,546
+Putnam,29-Cloverdale 1,State Senate,37,REP,Rodric Bray,481
+Putnam,30-Cloverdale 2,State Senate,37,REP,Rodric Bray,467
+Putnam,31-Cloverdale 3,State Senate,37,REP,Rodric Bray,504
+Putnam,,State Senate,24,REP,John Crane ,6356
+Putnam,,State Senate,37,REP,Rodric Bray,4957
+Putnam,01-Russell,State Senate,24,LBT,Kevin Rogers,50
+Putnam,02-Franklin N,State Senate,24,LBT,Kevin Rogers,66
+Putnam,03-Franklin S,State Senate,24,LBT,Kevin Rogers,26
+Putnam,04-Jackson,State Senate,24,LBT,Kevin Rogers,53
+Putnam,05-Clinton,State Senate,24,LBT,Kevin Rogers,81
+Putnam,06-Monroe E,State Senate,24,LBT,Kevin Rogers,58
+Putnam,07-Monroe W,State Senate,24,LBT,Kevin Rogers,32
+Putnam,08-Floyd W,State Senate,24,LBT,Kevin Rogers,103
+Putnam,09-Floyd E,State Senate,24,LBT,Kevin Rogers,114
+Putnam,10-Floyd S,State Senate,24,LBT,Kevin Rogers,15
+Putnam,11-Madison,State Senate,24,LBT,Kevin Rogers,64
+Putnam,12-Greencastle N,State Senate,24,LBT,Kevin Rogers,73
+Putnam,13-First N,State Senate,24,LBT,Kevin Rogers,35
+Putnam,14-Second W,State Senate,24,LBT,Kevin Rogers,110
+Putnam,15-Second E,State Senate,24,LBT,Kevin Rogers,126
+Putnam,22-Limedale,State Senate,24,LBT,Kevin Rogers,88
+Putnam,23-Marion N,State Senate,24,LBT,Kevin Rogers,59
+Putnam,24-Marion S,State Senate,24,LBT,Kevin Rogers,31
+Putnam,,State Senate,24,LBT,Kevin Rogers,1184
+Putnam,01-Russell,State House,44,REP,Jim Baird,273
+Putnam,02-Franklin N,State House,44,REP,Jim Baird,341
+Putnam,03-Franklin S,State House,44,REP,Jim Baird,142
+Putnam,04-Jackson,State House,44,REP,Jim Baird,312
+Putnam,05-Clinton,State House,44,REP,Jim Baird,400
+Putnam,06-Monroe E,State House,44,REP,Jim Baird,292
+Putnam,07-Monroe W,State House,44,REP,Jim Baird,216
+Putnam,08-Floyd W,State House,44,REP,Jim Baird,609
+Putnam,09-Floyd E,State House,44,REP,Jim Baird,627
+Putnam,10-Floyd S,State House,44,REP,Jim Baird,132
+Putnam,11-Madison,State House,44,REP,Jim Baird,353
+Putnam,12-Greencastle N,State House,44,REP,Jim Baird,335
+Putnam,13-First N,State House,44,REP,Jim Baird,109
+Putnam,14-Second W,State House,44,REP,Jim Baird,266
+Putnam,15-Second E,State House,44,REP,Jim Baird,410
+Putnam,16-First S,State House,44,REP,Jim Baird,113
+Putnam,17-Third W,State House,44,REP,Jim Baird,143
+Putnam,18-Third E,State House,44,REP,Jim Baird,189
+Putnam,19-Fourth W,State House,44,REP,Jim Baird,121
+Putnam,20-Fourth E,State House,44,REP,Jim Baird,312
+Putnam,21-Foxridge,State House,44,REP,Jim Baird,264
+Putnam,22-Limedale,State House,44,REP,Jim Baird,313
+Putnam,23-Marion N,State House,44,REP,Jim Baird,372
+Putnam,24-Marion S,State House,44,REP,Jim Baird,237
+Putnam,25-Washington N,State House,44,REP,Jim Baird,363
+Putnam,26-Washington S,State House,44,REP,Jim Baird,411
+Putnam,27-Warren,State House,44,REP,Jim Baird,410
+Putnam,28-Jefferson,State House,44,REP,Jim Baird,451
+Putnam,29-Cloverdale 1,State House,44,REP,Jim Baird,368
+Putnam,30-Cloverdale 2,State House,44,REP,Jim Baird,357
+Putnam,31-Cloverdale 3,State House,44,REP,Jim Baird,388
+Putnam,,State House,44,REP,Jim Baird,9629
+Putnam,01-Russell,State House,44,DEM,Kim Fidler,80
+Putnam,02-Franklin N,State House,44,DEM,Kim Fidler,116
+Putnam,03-Franklin S,State House,44,DEM,Kim Fidler,59
+Putnam,04-Jackson,State House,44,DEM,Kim Fidler,83
+Putnam,05-Clinton,State House,44,DEM,Kim Fidler,138
+Putnam,06-Monroe E,State House,44,DEM,Kim Fidler,120
+Putnam,07-Monroe W,State House,44,DEM,Kim Fidler,86
+Putnam,08-Floyd W,State House,44,DEM,Kim Fidler,206
+Putnam,09-Floyd E,State House,44,DEM,Kim Fidler,222
+Putnam,10-Floyd S,State House,44,DEM,Kim Fidler,26
+Putnam,11-Madison,State House,44,DEM,Kim Fidler,168
+Putnam,12-Greencastle N,State House,44,DEM,Kim Fidler,194
+Putnam,13-First N,State House,44,DEM,Kim Fidler,59
+Putnam,14-Second W,State House,44,DEM,Kim Fidler,330
+Putnam,15-Second E,State House,44,DEM,Kim Fidler,335
+Putnam,16-First S,State House,44,DEM,Kim Fidler,92
+Putnam,17-Third W,State House,44,DEM,Kim Fidler,225
+Putnam,18-Third E,State House,44,DEM,Kim Fidler,126
+Putnam,19-Fourth W,State House,44,DEM,Kim Fidler,99
+Putnam,20-Fourth E,State House,44,DEM,Kim Fidler,209
+Putnam,21-Foxridge,State House,44,DEM,Kim Fidler,124
+Putnam,22-Limedale,State House,44,DEM,Kim Fidler,202
+Putnam,23-Marion N,State House,44,DEM,Kim Fidler,156
+Putnam,24-Marion S,State House,44,DEM,Kim Fidler,109
+Putnam,25-Washington N,State House,44,DEM,Kim Fidler,191
+Putnam,26-Washington S,State House,44,DEM,Kim Fidler,200
+Putnam,27-Warren,State House,44,DEM,Kim Fidler,167
+Putnam,28-Jefferson,State House,44,DEM,Kim Fidler,205
+Putnam,29-Cloverdale 1,State House,44,DEM,Kim Fidler,184
+Putnam,30-Cloverdale 2,State House,44,DEM,Kim Fidler,196
+Putnam,31-Cloverdale 3,State House,44,DEM,Kim Fidler,221
+Putnam,,State House,44,DEM,Kim Fidler,4928

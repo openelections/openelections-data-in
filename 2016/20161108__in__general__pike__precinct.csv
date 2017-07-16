@@ -1,0 +1,433 @@
+county,precinct,office,district,party,candidate,votes
+Pike,01-Clay,Voters,,,Registered,274
+Pike,02-Jeff 1,Voters,,,Registered,762
+Pike,03-Jeff 2,Voters,,,Registered,622
+Pike,04-Lockhart,Voters,,,Registered,659
+Pike,05-Logan,Voters,,,Registered,305
+Pike,06-Madison,Voters,,,Registered,310
+Pike,07-Marion,Voters,,,Registered,539
+Pike,08-Monroe,Voters,,,Registered,500
+Pike,09-Patoka 1,Voters,,,Registered,680
+Pike,10-Patoka 2,Voters,,,Registered,895
+Pike,11-Petersburg 1,Voters,,,Registered,395
+Pike,12-Petersburg 2,Voters,,,Registered,331
+Pike,13-Petersburg 3,Voters,,,Registered,471
+Pike,14-Petersburg 4,Voters,,,Registered,432
+Pike,15-Washington 1,Voters,,,Registered,688
+Pike,16-Washington 2,Voters,,,Registered,448
+Pike,17-Washington 3,Voters,,,Registered,477
+Pike,18-Winslow,Voters,,,Registered,625
+Pike,,Voters,,,Registered,9413
+Pike,01-Clay,Voters,,,Ballots Cast,164
+Pike,02-Jeff 1,Voters,,,Ballots Cast,545
+Pike,03-Jeff 2,Voters,,,Ballots Cast,392
+Pike,04-Lockhart,Voters,,,Ballots Cast,437
+Pike,05-Logan,Voters,,,Ballots Cast,193
+Pike,06-Madison,Voters,,,Ballots Cast,222
+Pike,07-Marion,Voters,,,Ballots Cast,334
+Pike,08-Monroe,Voters,,,Ballots Cast,351
+Pike,09-Patoka 1,Voters,,,Ballots Cast,419
+Pike,10-Patoka 2,Voters,,,Ballots Cast,571
+Pike,11-Petersburg 1,Voters,,,Ballots Cast,249
+Pike,12-Petersburg 2,Voters,,,Ballots Cast,198
+Pike,13-Petersburg 3,Voters,,,Ballots Cast,302
+Pike,14-Petersburg 4,Voters,,,Ballots Cast,261
+Pike,15-Washington 1,Voters,,,Ballots Cast,458
+Pike,16-Washington 2,Voters,,,Ballots Cast,336
+Pike,17-Washington 3,Voters,,,Ballots Cast,352
+Pike,18-Winslow,Voters,,,Ballots Cast,375
+Pike,,Voters,,,Ballots Cast,6159
+Pike,01-Clay,President,,REP,Donald Trump,119
+Pike,02-Jeff 1,President,,REP,Donald Trump,378
+Pike,03-Jeff 2,President,,REP,Donald Trump,284
+Pike,04-Lockhart,President,,REP,Donald Trump,298
+Pike,05-Logan,President,,REP,Donald Trump,157
+Pike,06-Madison,President,,REP,Donald Trump,148
+Pike,07-Marion,President,,REP,Donald Trump,246
+Pike,08-Monroe,President,,REP,Donald Trump,231
+Pike,09-Patoka 1,President,,REP,Donald Trump,319
+Pike,10-Patoka 2,President,,REP,Donald Trump,398
+Pike,11-Petersburg 1,President,,REP,Donald Trump,171
+Pike,12-Petersburg 2,President,,REP,Donald Trump,148
+Pike,13-Petersburg 3,President,,REP,Donald Trump,204
+Pike,14-Petersburg 4,President,,REP,Donald Trump,205
+Pike,15-Washington 1,President,,REP,Donald Trump,327
+Pike,16-Washington 2,President,,REP,Donald Trump,249
+Pike,17-Washington 3,President,,REP,Donald Trump,259
+Pike,18-Winslow,President,,REP,Donald Trump,258
+Pike,,President,,REP,Donald Trump,4399
+Pike,01-Clay,President,,DEM,Hillary Clinton,36
+Pike,02-Jeff 1,President,,DEM,Hillary Clinton,129
+Pike,03-Jeff 2,President,,DEM,Hillary Clinton,83
+Pike,04-Lockhart,President,,DEM,Hillary Clinton,105
+Pike,05-Logan,President,,DEM,Hillary Clinton,24
+Pike,06-Madison,President,,DEM,Hillary Clinton,50
+Pike,07-Marion,President,,DEM,Hillary Clinton,58
+Pike,08-Monroe,President,,DEM,Hillary Clinton,97
+Pike,09-Patoka 1,President,,DEM,Hillary Clinton,69
+Pike,10-Patoka 2,President,,DEM,Hillary Clinton,130
+Pike,11-Petersburg 1,President,,DEM,Hillary Clinton,56
+Pike,12-Petersburg 2,President,,DEM,Hillary Clinton,40
+Pike,13-Petersburg 3,President,,DEM,Hillary Clinton,84
+Pike,14-Petersburg 4,President,,DEM,Hillary Clinton,33
+Pike,15-Washington 1,President,,DEM,Hillary Clinton,88
+Pike,16-Washington 2,President,,DEM,Hillary Clinton,62
+Pike,17-Washington 3,President,,DEM,Hillary Clinton,72
+Pike,18-Winslow,President,,DEM,Hillary Clinton,81
+Pike,,President,,DEM,Hillary Clinton,1297
+Pike,01-Clay,President,,LBT,Gary Johnson,2
+Pike,02-Jeff 1,President,,LBT,Gary Johnson,15
+Pike,03-Jeff 2,President,,LBT,Gary Johnson,19
+Pike,04-Lockhart,President,,LBT,Gary Johnson,22
+Pike,05-Logan,President,,LBT,Gary Johnson,6
+Pike,06-Madison,President,,LBT,Gary Johnson,19
+Pike,07-Marion,President,,LBT,Gary Johnson,18
+Pike,08-Monroe,President,,LBT,Gary Johnson,17
+Pike,09-Patoka 1,President,,LBT,Gary Johnson,21
+Pike,10-Patoka 2,President,,LBT,Gary Johnson,28
+Pike,11-Petersburg 1,President,,LBT,Gary Johnson,13
+Pike,12-Petersburg 2,President,,LBT,Gary Johnson,8
+Pike,13-Petersburg 3,President,,LBT,Gary Johnson,7
+Pike,14-Petersburg 4,President,,LBT,Gary Johnson,13
+Pike,15-Washington 1,President,,LBT,Gary Johnson,25
+Pike,16-Washington 2,President,,LBT,Gary Johnson,13
+Pike,17-Washington 3,President,,LBT,Gary Johnson,12
+Pike,18-Winslow,President,,LBT,Gary Johnson,25
+Pike,,President,,LBT,Gary Johnson,283
+Pike,01-Clay,President,,,Write-ins,2
+Pike,02-Jeff 1,President,,,Write-ins,4
+Pike,03-Jeff 2,President,,,Write-ins,1
+Pike,04-Lockhart,President,,,Write-ins,9
+Pike,05-Logan,President,,,Write-ins,0
+Pike,06-Madison,President,,,Write-ins,1
+Pike,07-Marion,President,,,Write-ins,3
+Pike,08-Monroe,President,,,Write-ins,1
+Pike,09-Patoka 1,President,,,Write-ins,3
+Pike,10-Patoka 2,President,,,Write-ins,2
+Pike,11-Petersburg 1,President,,,Write-ins,1
+Pike,12-Petersburg 2,President,,,Write-ins,1
+Pike,13-Petersburg 3,President,,,Write-ins,2
+Pike,14-Petersburg 4,President,,,Write-ins,4
+Pike,15-Washington 1,President,,,Write-ins,4
+Pike,16-Washington 2,President,,,Write-ins,3
+Pike,17-Washington 3,President,,,Write-ins,3
+Pike,18-Winslow,President,,,Write-ins,1
+Pike,,President,,,Write-ins,45
+Pike,01-Clay,U.S. Senate,,REP,Todd Young,89
+Pike,02-Jeff 1,U.S. Senate,,REP,Todd Young,293
+Pike,03-Jeff 2,U.S. Senate,,REP,Todd Young,213
+Pike,04-Lockhart,U.S. Senate,,REP,Todd Young,241
+Pike,05-Logan,U.S. Senate,,REP,Todd Young,121
+Pike,06-Madison,U.S. Senate,,REP,Todd Young,114
+Pike,07-Marion,U.S. Senate,,REP,Todd Young,193
+Pike,08-Monroe,U.S. Senate,,REP,Todd Young,181
+Pike,09-Patoka 1,U.S. Senate,,REP,Todd Young,259
+Pike,10-Patoka 2,U.S. Senate,,REP,Todd Young,303
+Pike,11-Petersburg 1,U.S. Senate,,REP,Todd Young,134
+Pike,12-Petersburg 2,U.S. Senate,,REP,Todd Young,105
+Pike,13-Petersburg 3,U.S. Senate,,REP,Todd Young,156
+Pike,14-Petersburg 4,U.S. Senate,,REP,Todd Young,137
+Pike,15-Washington 1,U.S. Senate,,REP,Todd Young,250
+Pike,16-Washington 2,U.S. Senate,,REP,Todd Young,201
+Pike,17-Washington 3,U.S. Senate,,REP,Todd Young,201
+Pike,18-Winslow,U.S. Senate,,REP,Todd Young,214
+Pike,,U.S. Senate,,REP,Todd Young,3405
+Pike,01-Clay,U.S. Senate,,DEM,Evan Bayh,66
+Pike,02-Jeff 1,U.S. Senate,,DEM,Evan Bayh,216
+Pike,03-Jeff 2,U.S. Senate,,DEM,Evan Bayh,141
+Pike,04-Lockhart,U.S. Senate,,DEM,Evan Bayh,162
+Pike,05-Logan,U.S. Senate,,DEM,Evan Bayh,52
+Pike,06-Madison,U.S. Senate,,DEM,Evan Bayh,83
+Pike,07-Marion,U.S. Senate,,DEM,Evan Bayh,101
+Pike,08-Monroe,U.S. Senate,,DEM,Evan Bayh,147
+Pike,09-Patoka 1,U.S. Senate,,DEM,Evan Bayh,129
+Pike,10-Patoka 2,U.S. Senate,,DEM,Evan Bayh,227
+Pike,11-Petersburg 1,U.S. Senate,,DEM,Evan Bayh,90
+Pike,12-Petersburg 2,U.S. Senate,,DEM,Evan Bayh,71
+Pike,13-Petersburg 3,U.S. Senate,,DEM,Evan Bayh,131
+Pike,14-Petersburg 4,U.S. Senate,,DEM,Evan Bayh,95
+Pike,15-Washington 1,U.S. Senate,,DEM,Evan Bayh,158
+Pike,16-Washington 2,U.S. Senate,,DEM,Evan Bayh,105
+Pike,17-Washington 3,U.S. Senate,,DEM,Evan Bayh,123
+Pike,18-Winslow,U.S. Senate,,DEM,Evan Bayh,131
+Pike,,U.S. Senate,,DEM,Evan Bayh,2228
+Pike,01-Clay,U.S. Senate,,LBT,Lucy Brenton,5
+Pike,02-Jeff 1,U.S. Senate,,LBT,Lucy Brenton,20
+Pike,03-Jeff 2,U.S. Senate,,LBT,Lucy Brenton,26
+Pike,04-Lockhart,U.S. Senate,,LBT,Lucy Brenton,28
+Pike,05-Logan,U.S. Senate,,LBT,Lucy Brenton,13
+Pike,06-Madison,U.S. Senate,,LBT,Lucy Brenton,18
+Pike,07-Marion,U.S. Senate,,LBT,Lucy Brenton,19
+Pike,08-Monroe,U.S. Senate,,LBT,Lucy Brenton,12
+Pike,09-Patoka 1,U.S. Senate,,LBT,Lucy Brenton,20
+Pike,10-Patoka 2,U.S. Senate,,LBT,Lucy Brenton,23
+Pike,11-Petersburg 1,U.S. Senate,,LBT,Lucy Brenton,15
+Pike,12-Petersburg 2,U.S. Senate,,LBT,Lucy Brenton,10
+Pike,13-Petersburg 3,U.S. Senate,,LBT,Lucy Brenton,9
+Pike,14-Petersburg 4,U.S. Senate,,LBT,Lucy Brenton,20
+Pike,15-Washington 1,U.S. Senate,,LBT,Lucy Brenton,28
+Pike,16-Washington 2,U.S. Senate,,LBT,Lucy Brenton,17
+Pike,17-Washington 3,U.S. Senate,,LBT,Lucy Brenton,14
+Pike,18-Winslow,U.S. Senate,,LBT,Lucy Brenton,18
+Pike,,U.S. Senate,,LBT,Lucy Brenton,315
+Pike,01-Clay,U.S. Senate,,,Write-ins,0
+Pike,02-Jeff 1,U.S. Senate,,,Write-ins,0
+Pike,03-Jeff 2,U.S. Senate,,,Write-ins,0
+Pike,04-Lockhart,U.S. Senate,,,Write-ins,0
+Pike,05-Logan,U.S. Senate,,,Write-ins,0
+Pike,06-Madison,U.S. Senate,,,Write-ins,0
+Pike,07-Marion,U.S. Senate,,,Write-ins,0
+Pike,08-Monroe,U.S. Senate,,,Write-ins,0
+Pike,09-Patoka 1,U.S. Senate,,,Write-ins,0
+Pike,10-Patoka 2,U.S. Senate,,,Write-ins,0
+Pike,11-Petersburg 1,U.S. Senate,,,Write-ins,0
+Pike,12-Petersburg 2,U.S. Senate,,,Write-ins,0
+Pike,13-Petersburg 3,U.S. Senate,,,Write-ins,0
+Pike,14-Petersburg 4,U.S. Senate,,,Write-ins,0
+Pike,15-Washington 1,U.S. Senate,,,Write-ins,0
+Pike,16-Washington 2,U.S. Senate,,,Write-ins,1
+Pike,17-Washington 3,U.S. Senate,,,Write-ins,0
+Pike,18-Winslow,U.S. Senate,,,Write-ins,0
+Pike,,U.S. Senate,,,Write-ins,1
+Pike,01-Clay,Governor,,REP,Eric Holcomb,91
+Pike,02-Jeff 1,Governor,,REP,Eric Holcomb,252
+Pike,03-Jeff 2,Governor,,REP,Eric Holcomb,195
+Pike,04-Lockhart,Governor,,REP,Eric Holcomb,228
+Pike,05-Logan,Governor,,REP,Eric Holcomb,112
+Pike,06-Madison,Governor,,REP,Eric Holcomb,102
+Pike,07-Marion,Governor,,REP,Eric Holcomb,173
+Pike,08-Monroe,Governor,,REP,Eric Holcomb,171
+Pike,09-Patoka 1,Governor,,REP,Eric Holcomb,228
+Pike,10-Patoka 2,Governor,,REP,Eric Holcomb,285
+Pike,11-Petersburg 1,Governor,,REP,Eric Holcomb,130
+Pike,12-Petersburg 2,Governor,,REP,Eric Holcomb,103
+Pike,13-Petersburg 3,Governor,,REP,Eric Holcomb,152
+Pike,14-Petersburg 4,Governor,,REP,Eric Holcomb,138
+Pike,15-Washington 1,Governor,,REP,Eric Holcomb,207
+Pike,16-Washington 2,Governor,,REP,Eric Holcomb,175
+Pike,17-Washington 3,Governor,,REP,Eric Holcomb,181
+Pike,18-Winslow,Governor,,REP,Eric Holcomb,192
+Pike,,Governor,,REP,Eric Holcomb,3115
+Pike,01-Clay,Governor,,DEM,John Gregg,62
+Pike,02-Jeff 1,Governor,,DEM,John Gregg,270
+Pike,03-Jeff 2,Governor,,DEM,John Gregg,168
+Pike,04-Lockhart,Governor,,DEM,John Gregg,182
+Pike,05-Logan,Governor,,DEM,John Gregg,73
+Pike,06-Madison,Governor,,DEM,John Gregg,108
+Pike,07-Marion,Governor,,DEM,John Gregg,133
+Pike,08-Monroe,Governor,,DEM,John Gregg,165
+Pike,09-Patoka 1,Governor,,DEM,John Gregg,163
+Pike,10-Patoka 2,Governor,,DEM,John Gregg,249
+Pike,11-Petersburg 1,Governor,,DEM,John Gregg,100
+Pike,12-Petersburg 2,Governor,,DEM,John Gregg,82
+Pike,13-Petersburg 3,Governor,,DEM,John Gregg,136
+Pike,14-Petersburg 4,Governor,,DEM,John Gregg,106
+Pike,15-Washington 1,Governor,,DEM,John Gregg,216
+Pike,16-Washington 2,Governor,,DEM,John Gregg,140
+Pike,17-Washington 3,Governor,,DEM,John Gregg,158
+Pike,18-Winslow,Governor,,DEM,John Gregg,160
+Pike,,Governor,,DEM,John Gregg,2671
+Pike,01-Clay,Governor,,LBT,Rex Bell,5
+Pike,02-Jeff 1,Governor,,LBT,Rex Bell,7
+Pike,03-Jeff 2,Governor,,LBT,Rex Bell,17
+Pike,04-Lockhart,Governor,,LBT,Rex Bell,11
+Pike,05-Logan,Governor,,LBT,Rex Bell,3
+Pike,06-Madison,Governor,,LBT,Rex Bell,4
+Pike,07-Marion,Governor,,LBT,Rex Bell,5
+Pike,08-Monroe,Governor,,LBT,Rex Bell,3
+Pike,09-Patoka 1,Governor,,LBT,Rex Bell,9
+Pike,10-Patoka 2,Governor,,LBT,Rex Bell,16
+Pike,11-Petersburg 1,Governor,,LBT,Rex Bell,6
+Pike,12-Petersburg 2,Governor,,LBT,Rex Bell,3
+Pike,13-Petersburg 3,Governor,,LBT,Rex Bell,3
+Pike,14-Petersburg 4,Governor,,LBT,Rex Bell,7
+Pike,15-Washington 1,Governor,,LBT,Rex Bell,11
+Pike,16-Washington 2,Governor,,LBT,Rex Bell,8
+Pike,17-Washington 3,Governor,,LBT,Rex Bell,3
+Pike,18-Winslow,Governor,,LBT,Rex Bell,10
+Pike,,Governor,,LBT,Rex Bell,131
+Pike,01-Clay,Attorney General,,REP,Curtis Hill,113
+Pike,02-Jeff 1,Attorney General,,REP,Curtis Hill,347
+Pike,03-Jeff 2,Attorney General,,REP,Curtis Hill,257
+Pike,04-Lockhart,Attorney General,,REP,Curtis Hill,271
+Pike,05-Logan,Attorney General,,REP,Curtis Hill,146
+Pike,06-Madison,Attorney General,,REP,Curtis Hill,129
+Pike,07-Marion,Attorney General,,REP,Curtis Hill,221
+Pike,08-Monroe,Attorney General,,REP,Curtis Hill,210
+Pike,09-Patoka 1,Attorney General,,REP,Curtis Hill,294
+Pike,10-Patoka 2,Attorney General,,REP,Curtis Hill,366
+Pike,11-Petersburg 1,Attorney General,,REP,Curtis Hill,153
+Pike,12-Petersburg 2,Attorney General,,REP,Curtis Hill,128
+Pike,13-Petersburg 3,Attorney General,,REP,Curtis Hill,195
+Pike,14-Petersburg 4,Attorney General,,REP,Curtis Hill,177
+Pike,15-Washington 1,Attorney General,,REP,Curtis Hill,290
+Pike,16-Washington 2,Attorney General,,REP,Curtis Hill,234
+Pike,17-Washington 3,Attorney General,,REP,Curtis Hill,237
+Pike,18-Winslow,Attorney General,,REP,Curtis Hill,246
+Pike,,Attorney General,,REP,Curtis Hill,4014
+Pike,01-Clay,Attorney General,,DEM,Lorenzo Arredondo,40
+Pike,02-Jeff 1,Attorney General,,DEM,Lorenzo Arredondo,152
+Pike,03-Jeff 2,Attorney General,,DEM,Lorenzo Arredondo,102
+Pike,04-Lockhart,Attorney General,,DEM,Lorenzo Arredondo,128
+Pike,05-Logan,Attorney General,,DEM,Lorenzo Arredondo,35
+Pike,06-Madison,Attorney General,,DEM,Lorenzo Arredondo,64
+Pike,07-Marion,Attorney General,,DEM,Lorenzo Arredondo,73
+Pike,08-Monroe,Attorney General,,DEM,Lorenzo Arredondo,107
+Pike,09-Patoka 1,Attorney General,,DEM,Lorenzo Arredondo,94
+Pike,10-Patoka 2,Attorney General,,DEM,Lorenzo Arredondo,149
+Pike,11-Petersburg 1,Attorney General,,DEM,Lorenzo Arredondo,62
+Pike,12-Petersburg 2,Attorney General,,DEM,Lorenzo Arredondo,43
+Pike,13-Petersburg 3,Attorney General,,DEM,Lorenzo Arredondo,85
+Pike,14-Petersburg 4,Attorney General,,DEM,Lorenzo Arredondo,59
+Pike,15-Washington 1,Attorney General,,DEM,Lorenzo Arredondo,118
+Pike,16-Washington 2,Attorney General,,DEM,Lorenzo Arredondo,81
+Pike,17-Washington 3,Attorney General,,DEM,Lorenzo Arredondo,90
+Pike,18-Winslow,Attorney General,,DEM,Lorenzo Arredondo,99
+Pike,,Attorney General,,DEM,Lorenzo Arredondo,1581
+Pike,01-Clay,Public Instruction,,REP,Jennifer McCormick,96
+Pike,02-Jeff 1,Public Instruction,,REP,Jennifer McCormick,280
+Pike,03-Jeff 2,Public Instruction,,REP,Jennifer McCormick,203
+Pike,04-Lockhart,Public Instruction,,REP,Jennifer McCormick,221
+Pike,05-Logan,Public Instruction,,REP,Jennifer McCormick,124
+Pike,06-Madison,Public Instruction,,REP,Jennifer McCormick,109
+Pike,07-Marion,Public Instruction,,REP,Jennifer McCormick,181
+Pike,08-Monroe,Public Instruction,,REP,Jennifer McCormick,176
+Pike,09-Patoka 1,Public Instruction,,REP,Jennifer McCormick,250
+Pike,10-Patoka 2,Public Instruction,,REP,Jennifer McCormick,306
+Pike,11-Petersburg 1,Public Instruction,,REP,Jennifer McCormick,131
+Pike,12-Petersburg 2,Public Instruction,,REP,Jennifer McCormick,105
+Pike,13-Petersburg 3,Public Instruction,,REP,Jennifer McCormick,152
+Pike,14-Petersburg 4,Public Instruction,,REP,Jennifer McCormick,150
+Pike,15-Washington 1,Public Instruction,,REP,Jennifer McCormick,232
+Pike,16-Washington 2,Public Instruction,,REP,Jennifer McCormick,183
+Pike,17-Washington 3,Public Instruction,,REP,Jennifer McCormick,196
+Pike,18-Winslow,Public Instruction,,REP,Jennifer McCormick,212
+Pike,,Public Instruction,,REP,Jennifer McCormick,3307
+Pike,01-Clay,Public Instruction,,DEM,Glenda Ritz,59
+Pike,02-Jeff 1,Public Instruction,,DEM,Glenda Ritz,239
+Pike,03-Jeff 2,Public Instruction,,DEM,Glenda Ritz,163
+Pike,04-Lockhart,Public Instruction,,DEM,Glenda Ritz,186
+Pike,05-Logan,Public Instruction,,DEM,Glenda Ritz,62
+Pike,06-Madison,Public Instruction,,DEM,Glenda Ritz,90
+Pike,07-Marion,Public Instruction,,DEM,Glenda Ritz,116
+Pike,08-Monroe,Public Instruction,,DEM,Glenda Ritz,156
+Pike,09-Patoka 1,Public Instruction,,DEM,Glenda Ritz,147
+Pike,10-Patoka 2,Public Instruction,,DEM,Glenda Ritz,220
+Pike,11-Petersburg 1,Public Instruction,,DEM,Glenda Ritz,95
+Pike,12-Petersburg 2,Public Instruction,,DEM,Glenda Ritz,69
+Pike,13-Petersburg 3,Public Instruction,,DEM,Glenda Ritz,131
+Pike,14-Petersburg 4,Public Instruction,,DEM,Glenda Ritz,92
+Pike,15-Washington 1,Public Instruction,,DEM,Glenda Ritz,186
+Pike,16-Washington 2,Public Instruction,,DEM,Glenda Ritz,135
+Pike,17-Washington 3,Public Instruction,,DEM,Glenda Ritz,138
+Pike,18-Winslow,Public Instruction,,DEM,Glenda Ritz,134
+Pike,,Public Instruction,,DEM,Glenda Ritz,2418
+Pike,01-Clay,U.S. House,8,REP,Larry Buchson,102
+Pike,02-Jeff 1,U.S. House,8,REP,Larry Buchson,353
+Pike,03-Jeff 2,U.S. House,8,REP,Larry Buchson,252
+Pike,04-Lockhart,U.S. House,8,REP,Larry Buchson,266
+Pike,05-Logan,U.S. House,8,REP,Larry Buchson,142
+Pike,06-Madison,U.S. House,8,REP,Larry Buchson,127
+Pike,07-Marion,U.S. House,8,REP,Larry Buchson,217
+Pike,08-Monroe,U.S. House,8,REP,Larry Buchson,210
+Pike,09-Patoka 1,U.S. House,8,REP,Larry Buchson,284
+Pike,10-Patoka 2,U.S. House,8,REP,Larry Buchson,363
+Pike,11-Petersburg 1,U.S. House,8,REP,Larry Buchson,151
+Pike,12-Petersburg 2,U.S. House,8,REP,Larry Buchson,131
+Pike,13-Petersburg 3,U.S. House,8,REP,Larry Buchson,190
+Pike,14-Petersburg 4,U.S. House,8,REP,Larry Buchson,169
+Pike,15-Washington 1,U.S. House,8,REP,Larry Buchson,291
+Pike,16-Washington 2,U.S. House,8,REP,Larry Buchson,228
+Pike,17-Washington 3,U.S. House,8,REP,Larry Buchson,234
+Pike,18-Winslow,U.S. House,8,REP,Larry Buchson,235
+Pike,,U.S. House,8,REP,Larry Buchson,3945
+Pike,01-Clay,U.S. House,8,DEM,Ron Drake,47
+Pike,02-Jeff 1,U.S. House,8,DEM,Ron Drake,158
+Pike,03-Jeff 2,U.S. House,8,DEM,Ron Drake,103
+Pike,04-Lockhart,U.S. House,8,DEM,Ron Drake,129
+Pike,05-Logan,U.S. House,8,DEM,Ron Drake,36
+Pike,06-Madison,U.S. House,8,DEM,Ron Drake,69
+Pike,07-Marion,U.S. House,8,DEM,Ron Drake,73
+Pike,08-Monroe,U.S. House,8,DEM,Ron Drake,114
+Pike,09-Patoka 1,U.S. House,8,DEM,Ron Drake,102
+Pike,10-Patoka 2,U.S. House,8,DEM,Ron Drake,151
+Pike,11-Petersburg 1,U.S. House,8,DEM,Ron Drake,72
+Pike,12-Petersburg 2,U.S. House,8,DEM,Ron Drake,45
+Pike,13-Petersburg 3,U.S. House,8,DEM,Ron Drake,87
+Pike,14-Petersburg 4,U.S. House,8,DEM,Ron Drake,62
+Pike,15-Washington 1,U.S. House,8,DEM,Ron Drake,108
+Pike,16-Washington 2,U.S. House,8,DEM,Ron Drake,85
+Pike,17-Washington 3,U.S. House,8,DEM,Ron Drake,90
+Pike,18-Winslow,U.S. House,8,DEM,Ron Drake,99
+Pike,,U.S. House,8,DEM,Ron Drake,1630
+Pike,01-Clay,U.S. House,8,LBT,Andrew Horning,8
+Pike,02-Jeff 1,U.S. House,8,LBT,Andrew Horning,14
+Pike,03-Jeff 2,U.S. House,8,LBT,Andrew Horning,18
+Pike,04-Lockhart,U.S. House,8,LBT,Andrew Horning,22
+Pike,05-Logan,U.S. House,8,LBT,Andrew Horning,10
+Pike,06-Madison,U.S. House,8,LBT,Andrew Horning,10
+Pike,07-Marion,U.S. House,8,LBT,Andrew Horning,12
+Pike,08-Monroe,U.S. House,8,LBT,Andrew Horning,12
+Pike,09-Patoka 1,U.S. House,8,LBT,Andrew Horning,17
+Pike,10-Patoka 2,U.S. House,8,LBT,Andrew Horning,27
+Pike,11-Petersburg 1,U.S. House,8,LBT,Andrew Horning,8
+Pike,12-Petersburg 2,U.S. House,8,LBT,Andrew Horning,8
+Pike,13-Petersburg 3,U.S. House,8,LBT,Andrew Horning,12
+Pike,14-Petersburg 4,U.S. House,8,LBT,Andrew Horning,14
+Pike,15-Washington 1,U.S. House,8,LBT,Andrew Horning,28
+Pike,16-Washington 2,U.S. House,8,LBT,Andrew Horning,10
+Pike,17-Washington 3,U.S. House,8,LBT,Andrew Horning,13
+Pike,18-Winslow,U.S. House,8,LBT,Andrew Horning,20
+Pike,,U.S. House,8,LBT,Andrew Horning,263
+Pike,01-Clay,U.S. House,8,,Write-ins,0
+Pike,02-Jeff 1,U.S. House,8,,Write-ins,0
+Pike,03-Jeff 2,U.S. House,8,,Write-ins,1
+Pike,04-Lockhart,U.S. House,8,,Write-ins,0
+Pike,05-Logan,U.S. House,8,,Write-ins,0
+Pike,06-Madison,U.S. House,8,,Write-ins,0
+Pike,07-Marion,U.S. House,8,,Write-ins,0
+Pike,08-Monroe,U.S. House,8,,Write-ins,0
+Pike,09-Patoka 1,U.S. House,8,,Write-ins,0
+Pike,10-Patoka 2,U.S. House,8,,Write-ins,0
+Pike,11-Petersburg 1,U.S. House,8,,Write-ins,0
+Pike,12-Petersburg 2,U.S. House,8,,Write-ins,0
+Pike,13-Petersburg 3,U.S. House,8,,Write-ins,0
+Pike,14-Petersburg 4,U.S. House,8,,Write-ins,0
+Pike,15-Washington 1,U.S. House,8,,Write-ins,0
+Pike,16-Washington 2,U.S. House,8,,Write-ins,0
+Pike,17-Washington 3,U.S. House,8,,Write-ins,0
+Pike,18-Winslow,U.S. House,8,,Write-ins,0
+Pike,,U.S. House,8,,Write-ins,1
+Pike,01-Clay,State House,64,REP,Thomas Washburne,135
+Pike,02-Jeff 1,State House,63,REP,Mike Braun,349
+Pike,03-Jeff 2,State House,63,REP,Mike Braun,256
+Pike,04-Lockhart,State House,75,REP,Ron Bacon,284
+Pike,05-Logan,State House,64,REP,Thomas Washburne,163
+Pike,06-Madison,State House,64,REP,Thomas Washburne,144
+Pike,07-Marion,State House,75,REP,Ron Bacon,223
+Pike,08-Monroe,State House,75,REP,Ron Bacon,214
+Pike,09-Patoka 1,State House,75,REP,Ron Bacon,292
+Pike,10-Patoka 2,State House,75,REP,Ron Bacon,372
+Pike,11-Petersburg 1,State House,63,REP,Mike Braun,150
+Pike,12-Petersburg 2,State House,63,REP,Mike Braun,120
+Pike,13-Petersburg 3,State House,63,REP,Mike Braun,173
+Pike,14-Petersburg 4,State House,63,REP,Mike Braun,164
+Pike,15-Washington 1,State House,63,REP,Mike Braun,280
+Pike,16-Washington 2,State House,75,REP,Ron Bacon,233
+Pike,17-Washington 3,State House,63,REP,Mike Braun,224
+Pike,18-Winslow,State House,75,REP,Ron Bacon,245
+Pike,02-Jeff 1,State House,63,DEM,Andrea Hulsman,178
+Pike,03-Jeff 2,State House,63,DEM,Andrea Hulsman,120
+Pike,04-Lockhart,State House,75,DEM,Pete Rapp,130
+Pike,07-Marion,State House,75,DEM,Pete Rapp,74
+Pike,08-Monroe,State House,75,DEM,Pete Rapp,113
+Pike,09-Patoka 1,State House,75,DEM,Pete Rapp,104
+Pike,10-Patoka 2,State House,75,DEM,Pete Rapp,165
+Pike,11-Petersburg 1,State House,63,DEM,Andrea Hulsman,80
+Pike,12-Petersburg 2,State House,63,DEM,Andrea Hulsman,60
+Pike,13-Petersburg 3,State House,63,DEM,Andrea Hulsman,110
+Pike,14-Petersburg 4,State House,63,DEM,Andrea Hulsman,79
+Pike,15-Washington 1,State House,63,DEM,Andrea Hulsman,141
+Pike,16-Washington 2,State House,75,DEM,Pete Rapp,84
+Pike,17-Washington 3,State House,63,DEM,Andrea Hulsman,107
+Pike,18-Winslow,State House,75,DEM,Pete Rapp,105

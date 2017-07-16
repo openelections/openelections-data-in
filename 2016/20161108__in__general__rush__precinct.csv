@@ -1,0 +1,452 @@
+county,precinct,office,district,party,candidate,votes
+Rush,01-Rushville City 1,Voters,,,Registered,1417
+Rush,02-Rushville City 2,Voters,,,Registered,1369
+Rush,03-Rushville City 3,Voters,,,Registered,1441
+Rush,07-Rushville twp 7,Voters,,,Registered,379
+Rush,08-Rushville twp 8,Voters,,,Registered,698
+Rush,09-Ripley twp 1,Voters,,,Registered,557
+Rush,10-Ripley twp 10,Voters,,,Registered,927
+Rush,11-Posey twp,Voters,,,Registered,823
+Rush,12-Walker twp,Voters,,,Registered,616
+Rush,13-Orange twp,Voters,,,Registered,508
+Rush,14-Anderson twp,Voters,,,Registered,732
+Rush,15-Jackson twp,Voters,,,Registered,231
+Rush,16-Center twp,Voters,,,Registered,600
+Rush,17-Washington twp,Voters,,,Registered,342
+Rush,18-Union twp,Voters,,,Registered,529
+Rush,19-Noble twp,Voters,,,Registered,445
+Rush,20-Richland twp,Voters,,,Registered,232
+Rush,,Voters,,,Registered,11846
+Rush,01-Rushville City 1,Voters,,,Ballots Cast,785
+Rush,02-Rushville City 2,Voters,,,Ballots Cast,641
+Rush,03-Rushville City 3,Voters,,,Ballots Cast,872
+Rush,07-Rushville twp 7,Voters,,,Ballots Cast,266
+Rush,08-Rushville twp 8,Voters,,,Ballots Cast,475
+Rush,09-Ripley twp 1,Voters,,,Ballots Cast,268
+Rush,10-Ripley twp 10,Voters,,,Ballots Cast,657
+Rush,11-Posey twp,Voters,,,Ballots Cast,543
+Rush,12-Walker twp,Voters,,,Ballots Cast,388
+Rush,13-Orange twp,Voters,,,Ballots Cast,337
+Rush,14-Anderson twp,Voters,,,Ballots Cast,455
+Rush,15-Jackson twp,Voters,,,Ballots Cast,164
+Rush,16-Center twp,Voters,,,Ballots Cast,406
+Rush,17-Washington twp,Voters,,,Ballots Cast,246
+Rush,18-Union twp,Voters,,,Ballots Cast,365
+Rush,19-Noble twp,Voters,,,Ballots Cast,329
+Rush,20-Richland twp,Voters,,,Ballots Cast,175
+Rush,,Voters,,,Ballots Cast,7372
+Rush,01-Rushville City 1,President,,REP,Donald Trump,480
+Rush,02-Rushville City 2,President,,REP,Donald Trump,404
+Rush,03-Rushville City 3,President,,REP,Donald Trump,568
+Rush,07-Rushville twp 7,President,,REP,Donald Trump,198
+Rush,08-Rushville twp 8,President,,REP,Donald Trump,356
+Rush,09-Ripley twp 1,President,,REP,Donald Trump,207
+Rush,10-Ripley twp 10,President,,REP,Donald Trump,529
+Rush,11-Posey twp,President,,REP,Donald Trump,383
+Rush,12-Walker twp,President,,REP,Donald Trump,305
+Rush,13-Orange twp,President,,REP,Donald Trump,249
+Rush,14-Anderson twp,President,,REP,Donald Trump,326
+Rush,15-Jackson twp,President,,REP,Donald Trump,119
+Rush,16-Center twp,President,,REP,Donald Trump,318
+Rush,17-Washington twp,President,,REP,Donald Trump,182
+Rush,18-Union twp,President,,REP,Donald Trump,278
+Rush,19-Noble twp,President,,REP,Donald Trump,250
+Rush,20-Richland twp,President,,REP,Donald Trump,140
+Rush,,President,,REP,Donald Trump,5292
+Rush,01-Rushville City 1,President,,DEM,Hillary Clinton,244
+Rush,02-Rushville City 2,President,,DEM,Hillary Clinton,168
+Rush,03-Rushville City 3,President,,DEM,Hillary Clinton,222
+Rush,07-Rushville twp 7,President,,DEM,Hillary Clinton,46
+Rush,08-Rushville twp 8,President,,DEM,Hillary Clinton,86
+Rush,09-Ripley twp 1,President,,DEM,Hillary Clinton,44
+Rush,10-Ripley twp 10,President,,DEM,Hillary Clinton,100
+Rush,11-Posey twp,President,,DEM,Hillary Clinton,109
+Rush,12-Walker twp,President,,DEM,Hillary Clinton,67
+Rush,13-Orange twp,President,,DEM,Hillary Clinton,73
+Rush,14-Anderson twp,President,,DEM,Hillary Clinton,89
+Rush,15-Jackson twp,President,,DEM,Hillary Clinton,28
+Rush,16-Center twp,President,,DEM,Hillary Clinton,57
+Rush,17-Washington twp,President,,DEM,Hillary Clinton,45
+Rush,18-Union twp,President,,DEM,Hillary Clinton,65
+Rush,19-Noble twp,President,,DEM,Hillary Clinton,55
+Rush,20-Richland twp,President,,DEM,Hillary Clinton,27
+Rush,,President,,DEM,Hillary Clinton,1525
+Rush,01-Rushville City 1,President,,LBT,Gary Johnson,44
+Rush,02-Rushville City 2,President,,LBT,Gary Johnson,52
+Rush,03-Rushville City 3,President,,LBT,Gary Johnson,69
+Rush,07-Rushville twp 7,President,,LBT,Gary Johnson,11
+Rush,08-Rushville twp 8,President,,LBT,Gary Johnson,22
+Rush,09-Ripley twp 1,President,,LBT,Gary Johnson,11
+Rush,10-Ripley twp 10,President,,LBT,Gary Johnson,20
+Rush,11-Posey twp,President,,LBT,Gary Johnson,33
+Rush,12-Walker twp,President,,LBT,Gary Johnson,13
+Rush,13-Orange twp,President,,LBT,Gary Johnson,12
+Rush,14-Anderson twp,President,,LBT,Gary Johnson,29
+Rush,15-Jackson twp,President,,LBT,Gary Johnson,13
+Rush,16-Center twp,President,,LBT,Gary Johnson,19
+Rush,17-Washington twp,President,,LBT,Gary Johnson,13
+Rush,18-Union twp,President,,LBT,Gary Johnson,18
+Rush,19-Noble twp,President,,LBT,Gary Johnson,15
+Rush,20-Richland twp,President,,LBT,Gary Johnson,3
+Rush,,President,,LBT,Gary Johnson,397
+Rush,01-Rushville City 1,President,,,Write-ins,7
+Rush,02-Rushville City 2,President,,,Write-ins,5
+Rush,03-Rushville City 3,President,,,Write-ins,5
+Rush,07-Rushville twp 7,President,,,Write-ins,4
+Rush,08-Rushville twp 8,President,,,Write-ins,2
+Rush,09-Ripley twp 1,President,,,Write-ins,2
+Rush,10-Ripley twp 10,President,,,Write-ins,6
+Rush,11-Posey twp,President,,,Write-ins,7
+Rush,12-Walker twp,President,,,Write-ins,2
+Rush,13-Orange twp,President,,,Write-ins,0
+Rush,14-Anderson twp,President,,,Write-ins,4
+Rush,15-Jackson twp,President,,,Write-ins,0
+Rush,16-Center twp,President,,,Write-ins,3
+Rush,17-Washington twp,President,,,Write-ins,1
+Rush,18-Union twp,President,,,Write-ins,2
+Rush,19-Noble twp,President,,,Write-ins,1
+Rush,20-Richland twp,President,,,Write-ins,1
+Rush,,President,,,Write-ins,52
+Rush,01-Rushville City 1,U.S. Senate,,REP,Todd Young,375
+Rush,02-Rushville City 2,U.S. Senate,,REP,Todd Young,332
+Rush,03-Rushville City 3,U.S. Senate,,REP,Todd Young,459
+Rush,07-Rushville twp 7,U.S. Senate,,REP,Todd Young,163
+Rush,08-Rushville twp 8,U.S. Senate,,REP,Todd Young,302
+Rush,09-Ripley twp 1,U.S. Senate,,REP,Todd Young,170
+Rush,10-Ripley twp 10,U.S. Senate,,REP,Todd Young,470
+Rush,11-Posey twp,U.S. Senate,,REP,Todd Young,327
+Rush,12-Walker twp,U.S. Senate,,REP,Todd Young,245
+Rush,13-Orange twp,U.S. Senate,,REP,Todd Young,225
+Rush,14-Anderson twp,U.S. Senate,,REP,Todd Young,291
+Rush,15-Jackson twp,U.S. Senate,,REP,Todd Young,98
+Rush,16-Center twp,U.S. Senate,,REP,Todd Young,280
+Rush,17-Washington twp,U.S. Senate,,REP,Todd Young,169
+Rush,18-Union twp,U.S. Senate,,REP,Todd Young,227
+Rush,19-Noble twp,U.S. Senate,,REP,Todd Young,214
+Rush,20-Richland twp,U.S. Senate,,REP,Todd Young,125
+Rush,,U.S. Senate,,REP,Todd Young,4472
+Rush,01-Rushville City 1,U.S. Senate,,DEM,Evan Bayh,329
+Rush,02-Rushville City 2,U.S. Senate,,DEM,Evan Bayh,236
+Rush,03-Rushville City 3,U.S. Senate,,DEM,Evan Bayh,321
+Rush,07-Rushville twp 7,U.S. Senate,,DEM,Evan Bayh,82
+Rush,08-Rushville twp 8,U.S. Senate,,DEM,Evan Bayh,125
+Rush,09-Ripley twp 1,U.S. Senate,,DEM,Evan Bayh,73
+Rush,10-Ripley twp 10,U.S. Senate,,DEM,Evan Bayh,138
+Rush,11-Posey twp,U.S. Senate,,DEM,Evan Bayh,171
+Rush,12-Walker twp,U.S. Senate,,DEM,Evan Bayh,108
+Rush,13-Orange twp,U.S. Senate,,DEM,Evan Bayh,97
+Rush,14-Anderson twp,U.S. Senate,,DEM,Evan Bayh,119
+Rush,15-Jackson twp,U.S. Senate,,DEM,Evan Bayh,47
+Rush,16-Center twp,U.S. Senate,,DEM,Evan Bayh,96
+Rush,17-Washington twp,U.S. Senate,,DEM,Evan Bayh,56
+Rush,18-Union twp,U.S. Senate,,DEM,Evan Bayh,105
+Rush,19-Noble twp,U.S. Senate,,DEM,Evan Bayh,97
+Rush,20-Richland twp,U.S. Senate,,DEM,Evan Bayh,38
+Rush,,U.S. Senate,,DEM,Evan Bayh,2238
+Rush,01-Rushville City 1,U.S. Senate,,LBT,Lucy Brenton,55
+Rush,02-Rushville City 2,U.S. Senate,,LBT,Lucy Brenton,50
+Rush,03-Rushville City 3,U.S. Senate,,LBT,Lucy Brenton,64
+Rush,07-Rushville twp 7,U.S. Senate,,LBT,Lucy Brenton,11
+Rush,08-Rushville twp 8,U.S. Senate,,LBT,Lucy Brenton,25
+Rush,09-Ripley twp 1,U.S. Senate,,LBT,Lucy Brenton,19
+Rush,10-Ripley twp 10,U.S. Senate,,LBT,Lucy Brenton,30
+Rush,11-Posey twp,U.S. Senate,,LBT,Lucy Brenton,31
+Rush,12-Walker twp,U.S. Senate,,LBT,Lucy Brenton,24
+Rush,13-Orange twp,U.S. Senate,,LBT,Lucy Brenton,10
+Rush,14-Anderson twp,U.S. Senate,,LBT,Lucy Brenton,33
+Rush,15-Jackson twp,U.S. Senate,,LBT,Lucy Brenton,12
+Rush,16-Center twp,U.S. Senate,,LBT,Lucy Brenton,16
+Rush,17-Washington twp,U.S. Senate,,LBT,Lucy Brenton,14
+Rush,18-Union twp,U.S. Senate,,LBT,Lucy Brenton,23
+Rush,19-Noble twp,U.S. Senate,,LBT,Lucy Brenton,15
+Rush,20-Richland twp,U.S. Senate,,LBT,Lucy Brenton,9
+Rush,,U.S. Senate,,LBT,Lucy Brenton,441
+Rush,01-Rushville City 1,U.S. Senate,,,Write-ins,2
+Rush,02-Rushville City 2,U.S. Senate,,,Write-ins,0
+Rush,03-Rushville City 3,U.S. Senate,,,Write-ins,0
+Rush,07-Rushville twp 7,U.S. Senate,,,Write-ins,0
+Rush,08-Rushville twp 8,U.S. Senate,,,Write-ins,0
+Rush,09-Ripley twp 1,U.S. Senate,,,Write-ins,1
+Rush,10-Ripley twp 10,U.S. Senate,,,Write-ins,0
+Rush,11-Posey twp,U.S. Senate,,,Write-ins,0
+Rush,12-Walker twp,U.S. Senate,,,Write-ins,0
+Rush,13-Orange twp,U.S. Senate,,,Write-ins,0
+Rush,14-Anderson twp,U.S. Senate,,,Write-ins,0
+Rush,15-Jackson twp,U.S. Senate,,,Write-ins,0
+Rush,16-Center twp,U.S. Senate,,,Write-ins,0
+Rush,17-Washington twp,U.S. Senate,,,Write-ins,0
+Rush,18-Union twp,U.S. Senate,,,Write-ins,1
+Rush,19-Noble twp,U.S. Senate,,,Write-ins,0
+Rush,20-Richland twp,U.S. Senate,,,Write-ins,0
+Rush,,U.S. Senate,,,Write-ins,4
+Rush,01-Rushville City 1,Governor,,REP,Eric Holcomb,401
+Rush,02-Rushville City 2,Governor,,REP,Eric Holcomb,351
+Rush,03-Rushville City 3,Governor,,REP,Eric Holcomb,481
+Rush,07-Rushville twp 7,Governor,,REP,Eric Holcomb,170
+Rush,08-Rushville twp 8,Governor,,REP,Eric Holcomb,288
+Rush,09-Ripley twp 1,Governor,,REP,Eric Holcomb,166
+Rush,10-Ripley twp 10,Governor,,REP,Eric Holcomb,448
+Rush,11-Posey twp,Governor,,REP,Eric Holcomb,340
+Rush,12-Walker twp,Governor,,REP,Eric Holcomb,240
+Rush,13-Orange twp,Governor,,REP,Eric Holcomb,204
+Rush,14-Anderson twp,Governor,,REP,Eric Holcomb,260
+Rush,15-Jackson twp,Governor,,REP,Eric Holcomb,88
+Rush,16-Center twp,Governor,,REP,Eric Holcomb,262
+Rush,17-Washington twp,Governor,,REP,Eric Holcomb,155
+Rush,18-Union twp,Governor,,REP,Eric Holcomb,221
+Rush,19-Noble twp,Governor,,REP,Eric Holcomb,192
+Rush,20-Richland twp,Governor,,REP,Eric Holcomb,126
+Rush,,Governor,,REP,Eric Holcomb,4393
+Rush,01-Rushville City 1,Governor,,DEM,John Gregg,318
+Rush,02-Rushville City 2,Governor,,DEM,John Gregg,230
+Rush,03-Rushville City 3,Governor,,DEM,John Gregg,319
+Rush,07-Rushville twp 7,Governor,,DEM,John Gregg,81
+Rush,08-Rushville twp 8,Governor,,DEM,John Gregg,147
+Rush,09-Ripley twp 1,Governor,,DEM,John Gregg,82
+Rush,10-Ripley twp 10,Governor,,DEM,John Gregg,164
+Rush,11-Posey twp,Governor,,DEM,John Gregg,177
+Rush,12-Walker twp,Governor,,DEM,John Gregg,121
+Rush,13-Orange twp,Governor,,DEM,John Gregg,114
+Rush,14-Anderson twp,Governor,,DEM,John Gregg,157
+Rush,15-Jackson twp,Governor,,DEM,John Gregg,61
+Rush,16-Center twp,Governor,,DEM,John Gregg,114
+Rush,17-Washington twp,Governor,,DEM,John Gregg,77
+Rush,18-Union twp,Governor,,DEM,John Gregg,121
+Rush,19-Noble twp,Governor,,DEM,John Gregg,116
+Rush,20-Richland twp,Governor,,DEM,John Gregg,41
+Rush,,Governor,,DEM,John Gregg,2440
+Rush,01-Rushville City 1,Governor,,LBT,Rex Bell,39
+Rush,02-Rushville City 2,Governor,,LBT,Rex Bell,35
+Rush,03-Rushville City 3,Governor,,LBT,Rex Bell,41
+Rush,07-Rushville twp 7,Governor,,LBT,Rex Bell,9
+Rush,08-Rushville twp 8,Governor,,LBT,Rex Bell,16
+Rush,09-Ripley twp 1,Governor,,LBT,Rex Bell,14
+Rush,10-Ripley twp 10,Governor,,LBT,Rex Bell,19
+Rush,11-Posey twp,Governor,,LBT,Rex Bell,16
+Rush,12-Walker twp,Governor,,LBT,Rex Bell,21
+Rush,13-Orange twp,Governor,,LBT,Rex Bell,10
+Rush,14-Anderson twp,Governor,,LBT,Rex Bell,20
+Rush,15-Jackson twp,Governor,,LBT,Rex Bell,6
+Rush,16-Center twp,Governor,,LBT,Rex Bell,17
+Rush,17-Washington twp,Governor,,LBT,Rex Bell,10
+Rush,18-Union twp,Governor,,LBT,Rex Bell,12
+Rush,19-Noble twp,Governor,,LBT,Rex Bell,14
+Rush,20-Richland twp,Governor,,LBT,Rex Bell,7
+Rush,,Governor,,LBT,Rex Bell,306
+Rush,01-Rushville City 1,Governor,,,Write-ins,1
+Rush,02-Rushville City 2,Governor,,,Write-ins,0
+Rush,03-Rushville City 3,Governor,,,Write-ins,0
+Rush,07-Rushville twp 7,Governor,,,Write-ins,0
+Rush,08-Rushville twp 8,Governor,,,Write-ins,0
+Rush,09-Ripley twp 1,Governor,,,Write-ins,1
+Rush,10-Ripley twp 10,Governor,,,Write-ins,0
+Rush,11-Posey twp,Governor,,,Write-ins,0
+Rush,12-Walker twp,Governor,,,Write-ins,0
+Rush,13-Orange twp,Governor,,,Write-ins,0
+Rush,14-Anderson twp,Governor,,,Write-ins,0
+Rush,15-Jackson twp,Governor,,,Write-ins,0
+Rush,16-Center twp,Governor,,,Write-ins,0
+Rush,17-Washington twp,Governor,,,Write-ins,0
+Rush,18-Union twp,Governor,,,Write-ins,0
+Rush,19-Noble twp,Governor,,,Write-ins,0
+Rush,20-Richland twp,Governor,,,Write-ins,0
+Rush,,Governor,,,Write-ins,2
+Rush,01-Rushville City 1,Attorney General,,REP,Curtis Hill,528
+Rush,02-Rushville City 2,Attorney General,,REP,Curtis Hill,455
+Rush,03-Rushville City 3,Attorney General,,REP,Curtis Hill,635
+Rush,07-Rushville twp 7,Attorney General,,REP,Curtis Hill,209
+Rush,08-Rushville twp 8,Attorney General,,REP,Curtis Hill,354
+Rush,09-Ripley twp 1,Attorney General,,REP,Curtis Hill,210
+Rush,10-Ripley twp 10,Attorney General,,REP,Curtis Hill,529
+Rush,11-Posey twp,Attorney General,,REP,Curtis Hill,412
+Rush,12-Walker twp,Attorney General,,REP,Curtis Hill,302
+Rush,13-Orange twp,Attorney General,,REP,Curtis Hill,262
+Rush,14-Anderson twp,Attorney General,,REP,Curtis Hill,343
+Rush,15-Jackson twp,Attorney General,,REP,Curtis Hill,122
+Rush,16-Center twp,Attorney General,,REP,Curtis Hill,335
+Rush,17-Washington twp,Attorney General,,REP,Curtis Hill,194
+Rush,18-Union twp,Attorney General,,REP,Curtis Hill,282
+Rush,19-Noble twp,Attorney General,,REP,Curtis Hill,260
+Rush,20-Richland twp,Attorney General,,REP,Curtis Hill,144
+Rush,,Attorney General,,REP,Curtis Hill,5576
+Rush,01-Rushville City 1,Attorney General,,DEM,Lorenzo Arredondo,209
+Rush,02-Rushville City 2,Attorney General,,DEM,Lorenzo Arredondo,143
+Rush,03-Rushville City 3,Attorney General,,DEM,Lorenzo Arredondo,176
+Rush,07-Rushville twp 7,Attorney General,,DEM,Lorenzo Arredondo,45
+Rush,08-Rushville twp 8,Attorney General,,DEM,Lorenzo Arredondo,75
+Rush,09-Ripley twp 1,Attorney General,,DEM,Lorenzo Arredondo,45
+Rush,10-Ripley twp 10,Attorney General,,DEM,Lorenzo Arredondo,98
+Rush,11-Posey twp,Attorney General,,DEM,Lorenzo Arredondo,104
+Rush,12-Walker twp,Attorney General,,DEM,Lorenzo Arredondo,69
+Rush,13-Orange twp,Attorney General,,DEM,Lorenzo Arredondo,59
+Rush,14-Anderson twp,Attorney General,,DEM,Lorenzo Arredondo,82
+Rush,15-Jackson twp,Attorney General,,DEM,Lorenzo Arredondo,30
+Rush,16-Center twp,Attorney General,,DEM,Lorenzo Arredondo,44
+Rush,17-Washington twp,Attorney General,,DEM,Lorenzo Arredondo,35
+Rush,18-Union twp,Attorney General,,DEM,Lorenzo Arredondo,62
+Rush,19-Noble twp,Attorney General,,DEM,Lorenzo Arredondo,51
+Rush,20-Richland twp,Attorney General,,DEM,Lorenzo Arredondo,24
+Rush,,Attorney General,,DEM,Lorenzo Arredondo,1351
+Rush,01-Rushville City 1,Public Instruction,,REP,Jennifer McCormick,402
+Rush,02-Rushville City 2,Public Instruction,,REP,Jennifer McCormick,341
+Rush,03-Rushville City 3,Public Instruction,,REP,Jennifer McCormick,452
+Rush,07-Rushville twp 7,Public Instruction,,REP,Jennifer McCormick,152
+Rush,08-Rushville twp 8,Public Instruction,,REP,Jennifer McCormick,283
+Rush,09-Ripley twp 1,Public Instruction,,REP,Jennifer McCormick,181
+Rush,10-Ripley twp 10,Public Instruction,,REP,Jennifer McCormick,461
+Rush,11-Posey twp,Public Instruction,,REP,Jennifer McCormick,334
+Rush,12-Walker twp,Public Instruction,,REP,Jennifer McCormick,235
+Rush,13-Orange twp,Public Instruction,,REP,Jennifer McCormick,212
+Rush,14-Anderson twp,Public Instruction,,REP,Jennifer McCormick,273
+Rush,15-Jackson twp,Public Instruction,,REP,Jennifer McCormick,94
+Rush,16-Center twp,Public Instruction,,REP,Jennifer McCormick,253
+Rush,17-Washington twp,Public Instruction,,REP,Jennifer McCormick,145
+Rush,18-Union twp,Public Instruction,,REP,Jennifer McCormick,224
+Rush,19-Noble twp,Public Instruction,,REP,Jennifer McCormick,193
+Rush,20-Richland twp,Public Instruction,,REP,Jennifer McCormick,108
+Rush,,Public Instruction,,REP,Jennifer McCormick,4343
+Rush,01-Rushville City 1,Public Instruction,,DEM,Glenda Ritz,355
+Rush,02-Rushville City 2,Public Instruction,,DEM,Glenda Ritz,274
+Rush,03-Rushville City 3,Public Instruction,,DEM,Glenda Ritz,369
+Rush,07-Rushville twp 7,Public Instruction,,DEM,Glenda Ritz,103
+Rush,08-Rushville twp 8,Public Instruction,,DEM,Glenda Ritz,162
+Rush,09-Ripley twp 1,Public Instruction,,DEM,Glenda Ritz,73
+Rush,10-Ripley twp 10,Public Instruction,,DEM,Glenda Ritz,179
+Rush,11-Posey twp,Public Instruction,,DEM,Glenda Ritz,192
+Rush,12-Walker twp,Public Instruction,,DEM,Glenda Ritz,144
+Rush,13-Orange twp,Public Instruction,,DEM,Glenda Ritz,116
+Rush,14-Anderson twp,Public Instruction,,DEM,Glenda Ritz,164
+Rush,15-Jackson twp,Public Instruction,,DEM,Glenda Ritz,60
+Rush,16-Center twp,Public Instruction,,DEM,Glenda Ritz,135
+Rush,17-Washington twp,Public Instruction,,DEM,Glenda Ritz,87
+Rush,18-Union twp,Public Instruction,,DEM,Glenda Ritz,122
+Rush,19-Noble twp,Public Instruction,,DEM,Glenda Ritz,124
+Rush,20-Richland twp,Public Instruction,,DEM,Glenda Ritz,63
+Rush,,Public Instruction,,DEM,Glenda Ritz,2722
+Rush,01-Rushville City 1,U.S. House,6,REP,Luke Messer,509
+Rush,02-Rushville City 2,U.S. House,6,REP,Luke Messer,433
+Rush,03-Rushville City 3,U.S. House,6,REP,Luke Messer,613
+Rush,07-Rushville twp 7,U.S. House,6,REP,Luke Messer,207
+Rush,08-Rushville twp 8,U.S. House,6,REP,Luke Messer,346
+Rush,09-Ripley twp 1,U.S. House,6,REP,Luke Messer,196
+Rush,10-Ripley twp 10,U.S. House,6,REP,Luke Messer,513
+Rush,11-Posey twp,U.S. House,6,REP,Luke Messer,405
+Rush,12-Walker twp,U.S. House,6,REP,Luke Messer,294
+Rush,13-Orange twp,U.S. House,6,REP,Luke Messer,261
+Rush,14-Anderson twp,U.S. House,6,REP,Luke Messer,339
+Rush,15-Jackson twp,U.S. House,6,REP,Luke Messer,115
+Rush,16-Center twp,U.S. House,6,REP,Luke Messer,321
+Rush,17-Washington twp,U.S. House,6,REP,Luke Messer,184
+Rush,18-Union twp,U.S. House,6,REP,Luke Messer,274
+Rush,19-Noble twp,U.S. House,6,REP,Luke Messer,260
+Rush,20-Richland twp,U.S. House,6,REP,Luke Messer,141
+Rush,,U.S. House,6,REP,Luke Messer,5411
+Rush,01-Rushville City 1,U.S. House,6,DEM,Barry Welsh,210
+Rush,02-Rushville City 2,U.S. House,6,DEM,Barry Welsh,157
+Rush,03-Rushville City 3,U.S. House,6,DEM,Barry Welsh,185
+Rush,07-Rushville twp 7,U.S. House,6,DEM,Barry Welsh,46
+Rush,08-Rushville twp 8,U.S. House,6,DEM,Barry Welsh,81
+Rush,09-Ripley twp 1,U.S. House,6,DEM,Barry Welsh,49
+Rush,10-Ripley twp 10,U.S. House,6,DEM,Barry Welsh,100
+Rush,11-Posey twp,U.S. House,6,DEM,Barry Welsh,100
+Rush,12-Walker twp,U.S. House,6,DEM,Barry Welsh,65
+Rush,13-Orange twp,U.S. House,6,DEM,Barry Welsh,57
+Rush,14-Anderson twp,U.S. House,6,DEM,Barry Welsh,75
+Rush,15-Jackson twp,U.S. House,6,DEM,Barry Welsh,25
+Rush,16-Center twp,U.S. House,6,DEM,Barry Welsh,54
+Rush,17-Washington twp,U.S. House,6,DEM,Barry Welsh,42
+Rush,18-Union twp,U.S. House,6,DEM,Barry Welsh,65
+Rush,19-Noble twp,U.S. House,6,DEM,Barry Welsh,40
+Rush,20-Richland twp,U.S. House,6,DEM,Barry Welsh,25
+Rush,,U.S. House,6,DEM,Barry Welsh,1376
+Rush,01-Rushville City 1,U.S. House,6,LBT,Rich Turvey,40
+Rush,02-Rushville City 2,U.S. House,6,LBT,Rich Turvey,28
+Rush,03-Rushville City 3,U.S. House,6,LBT,Rich Turvey,40
+Rush,07-Rushville twp 7,U.S. House,6,LBT,Rich Turvey,6
+Rush,08-Rushville twp 8,U.S. House,6,LBT,Rich Turvey,20
+Rush,09-Ripley twp 1,U.S. House,6,LBT,Rich Turvey,13
+Rush,10-Ripley twp 10,U.S. House,6,LBT,Rich Turvey,24
+Rush,11-Posey twp,U.S. House,6,LBT,Rich Turvey,22
+Rush,12-Walker twp,U.S. House,6,LBT,Rich Turvey,18
+Rush,13-Orange twp,U.S. House,6,LBT,Rich Turvey,9
+Rush,14-Anderson twp,U.S. House,6,LBT,Rich Turvey,21
+Rush,15-Jackson twp,U.S. House,6,LBT,Rich Turvey,12
+Rush,16-Center twp,U.S. House,6,LBT,Rich Turvey,16
+Rush,17-Washington twp,U.S. House,6,LBT,Rich Turvey,9
+Rush,18-Union twp,U.S. House,6,LBT,Rich Turvey,15
+Rush,19-Noble twp,U.S. House,6,LBT,Rich Turvey,15
+Rush,20-Richland twp,U.S. House,6,LBT,Rich Turvey,4
+Rush,,U.S. House,6,LBT,Rich Turvey,312
+Rush,01-Rushville City 1,State Senate,42,REP,Jean Leising,526
+Rush,02-Rushville City 2,State Senate,42,REP,Jean Leising,443
+Rush,03-Rushville City 3,State Senate,42,REP,Jean Leising,604
+Rush,07-Rushville twp 7,State Senate,42,REP,Jean Leising,204
+Rush,08-Rushville twp 8,State Senate,42,REP,Jean Leising,363
+Rush,09-Ripley twp 1,State Senate,42,REP,Jean Leising,200
+Rush,10-Ripley twp 10,State Senate,42,REP,Jean Leising,515
+Rush,11-Posey twp,State Senate,42,REP,Jean Leising,406
+Rush,12-Walker twp,State Senate,42,REP,Jean Leising,299
+Rush,13-Orange twp,State Senate,42,REP,Jean Leising,270
+Rush,14-Anderson twp,State Senate,42,REP,Jean Leising,349
+Rush,15-Jackson twp,State Senate,42,REP,Jean Leising,122
+Rush,16-Center twp,State Senate,42,REP,Jean Leising,326
+Rush,17-Washington twp,State Senate,42,REP,Jean Leising,183
+Rush,18-Union twp,State Senate,42,REP,Jean Leising,279
+Rush,19-Noble twp,State Senate,42,REP,Jean Leising,260
+Rush,20-Richland twp,State Senate,42,REP,Jean Leising,146
+Rush,01-Rushville City 1,State Senate,42,DEM,Randy Howard,224
+Rush,02-Rushville City 2,State Senate,42,DEM,Randy Howard,168
+Rush,03-Rushville City 3,State Senate,42,DEM,Randy Howard,222
+Rush,07-Rushville twp 7,State Senate,42,DEM,Randy Howard,44
+Rush,08-Rushville twp 8,State Senate,42,DEM,Randy Howard,83
+Rush,09-Ripley twp 1,State Senate,42,DEM,Randy Howard,54
+Rush,10-Ripley twp 10,State Senate,42,DEM,Randy Howard,111
+Rush,11-Posey twp,State Senate,42,DEM,Randy Howard,117
+Rush,12-Walker twp,State Senate,42,DEM,Randy Howard,79
+Rush,13-Orange twp,State Senate,42,DEM,Randy Howard,57
+Rush,14-Anderson twp,State Senate,42,DEM,Randy Howard,85
+Rush,15-Jackson twp,State Senate,42,DEM,Randy Howard,31
+Rush,16-Center twp,State Senate,42,DEM,Randy Howard,59
+Rush,17-Washington twp,State Senate,42,DEM,Randy Howard,50
+Rush,18-Union twp,State Senate,42,DEM,Randy Howard,72
+Rush,19-Noble twp,State Senate,42,DEM,Randy Howard,58
+Rush,20-Richland twp,State Senate,42,DEM,Randy Howard,26
+Rush,,State Senate,42,DEM,Randy Howard,1540
+Rush,01-Rushville City 1,State Senate,54,REP,Tom Saunders,522
+Rush,02-Rushville City 2,State Senate,54,REP,Tom Saunders,453
+Rush,03-Rushville City 3,State Senate,54,REP,Tom Saunders,610
+Rush,07-Rushville twp 7,State Senate,55,REP,Cindy Ziemke,194
+Rush,08-Rushville twp 8,State Senate,54,REP,Tom Saunders,348
+Rush,09-Ripley twp 1,State Senate,54,REP,Tom Saunders,202
+Rush,10-Ripley twp 10,State Senate,54,REP,Tom Saunders,514
+Rush,11-Posey twp,State Senate,54,REP,Tom Saunders,410
+Rush,12-Walker twp,State Senate,55,REP,Cindy Ziemke,291
+Rush,13-Orange twp,State Senate,55,REP,Cindy Ziemke,247
+Rush,14-Anderson twp,State Senate,55,REP,Cindy Ziemke,332
+Rush,15-Jackson twp,State Senate,54,REP,Tom Saunders,123
+Rush,16-Center twp,State Senate,54,REP,Tom Saunders,309
+Rush,17-Washington twp,State Senate,55,REP,Cindy Ziemke,182
+Rush,18-Union twp,State Senate,55,REP,Cindy Ziemke,278
+Rush,19-Noble twp,State Senate,55,REP,Cindy Ziemke,253
+Rush,20-Richland twp,State Senate,55,REP,Cindy Ziemke,142
+Rush,,State Senate,54,REP,Tom Saunders,3491
+Rush,,State Senate,55,REP,Cindy Ziemke,1919
+Rush,01-Rushville City 1,State Senate,54,LBT,Zachary Lee,136
+Rush,02-Rushville City 2,State Senate,54,LBT,Zachary Lee,103
+Rush,03-Rushville City 3,State Senate,54,LBT,Zachary Lee,148
+Rush,07-Rushville twp 7,State Senate,55,DEM,Mimi Pruett,48
+Rush,08-Rushville twp 8,State Senate,54,LBT,Zachary Lee,70
+Rush,09-Ripley twp 1,State Senate,54,LBT,Zachary Lee,43
+Rush,10-Ripley twp 10,State Senate,54,LBT,Zachary Lee,86
+Rush,11-Posey twp,State Senate,54,LBT,Zachary Lee,79
+Rush,12-Walker twp,State Senate,55,DEM,Mimi Pruett,81
+Rush,13-Orange twp,State Senate,55,DEM,Mimi Pruett,70
+Rush,14-Anderson twp,State Senate,55,DEM,Mimi Pruett,92
+Rush,15-Jackson twp,State Senate,54,LBT,Zachary Lee,21
+Rush,16-Center twp,State Senate,54,LBT,Zachary Lee,68
+Rush,17-Washington twp,State Senate,55,DEM,Mimi Pruett,48
+Rush,18-Union twp,State Senate,55,DEM,Mimi Pruett,69
+Rush,19-Noble twp,State Senate,55,DEM,Mimi Pruett,53
+Rush,20-Richland twp,State Senate,55,DEM,Mimi Pruett,28
+Rush,,State Senate,54,LBT,Zachary Lee,754
+Rush,,State Senate,55,DEM,Mimi Pruett,489

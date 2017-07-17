@@ -1,0 +1,807 @@
+county,precinct,office,district,party,candidate,votes
+Posey,01-Bethel,Voters,,,Registered,185
+Posey,02-Black 1,Voters,,,Registered,756
+Posey,03-Black 2,Voters,,,Registered,318
+Posey,04-Black 3,Voters,,,Registered,455
+Posey,05-Black 4,Voters,,,Registered,280
+Posey,06-Black 5,Voters,,,Registered,391
+Posey,07-Black 6,Voters,,,Registered,588
+Posey,08-Black 7,Voters,,,Registered,615
+Posey,09-Black 8,Voters,,,Registered,655
+Posey,10-Black 9,Voters,,,Registered,431
+Posey,11-Black 10,Voters,,,Registered,658
+Posey,12-Black 11,Voters,,,Registered,624
+Posey,13-Black 12,Voters,,,Registered,737
+Posey,14-Black 13,Voters,,,Registered,439
+Posey,15-Center N,Voters,,,Registered,817
+Posey,16-Center S,Voters,,,Registered,279
+Posey,17-Harmony 1,Voters,,,Registered,292
+Posey,18-Harmony 2,Voters,,,Registered,502
+Posey,19-Harmony 3,Voters,,,Registered,326
+Posey,20-Lynn E,Voters,,,Registered,457
+Posey,21-Lynn W,Voters,,,Registered,234
+Posey,22-Marrs Center,Voters,,,Registered,1074
+Posey,23-Marrs N,Voters,,,Registered,754
+Posey,24-Marrs S,Voters,,,Registered,989
+Posey,25-Marrs W,Voters,,,Registered,1080
+Posey,26-Point,Voters,,,Registered,262
+Posey,27-Robb 1,Voters,,,Registered,638
+Posey,28-Robb 2,Voters,,,Registered,437
+Posey,29-Robb 3,Voters,,,Registered,305
+Posey,30-Robinson 1,Voters,,,Registered,603
+Posey,31-Robinson 2,Voters,,,Registered,1073
+Posey,32-Robinson 3,Voters,,,Registered,1203
+Posey,33-Smith E,Voters,,,Registered,345
+Posey,34-Smith W,Voters,,,Registered,438
+Posey,,Voters,,,Registered,19240
+Posey,01-Bethel,Voters,,,Ballots Cast,133
+Posey,02-Black 1,Voters,,,Ballots Cast,536
+Posey,03-Black 2,Voters,,,Ballots Cast,211
+Posey,04-Black 3,Voters,,,Ballots Cast,319
+Posey,05-Black 4,Voters,,,Ballots Cast,182
+Posey,06-Black 5,Voters,,,Ballots Cast,184
+Posey,07-Black 6,Voters,,,Ballots Cast,353
+Posey,08-Black 7,Voters,,,Ballots Cast,424
+Posey,09-Black 8,Voters,,,Ballots Cast,403
+Posey,10-Black 9,Voters,,,Ballots Cast,173
+Posey,11-Black 10,Voters,,,Ballots Cast,282
+Posey,12-Black 11,Voters,,,Ballots Cast,339
+Posey,13-Black 12,Voters,,,Ballots Cast,521
+Posey,14-Black 13,Voters,,,Ballots Cast,184
+Posey,15-Center N,Voters,,,Ballots Cast,590
+Posey,16-Center S,Voters,,,Ballots Cast,217
+Posey,17-Harmony 1,Voters,,,Ballots Cast,191
+Posey,18-Harmony 2,Voters,,,Ballots Cast,342
+Posey,19-Harmony 3,Voters,,,Ballots Cast,202
+Posey,20-Lynn E,Voters,,,Ballots Cast,316
+Posey,21-Lynn W,Voters,,,Ballots Cast,156
+Posey,22-Marrs Center,Voters,,,Ballots Cast,798
+Posey,23-Marrs N,Voters,,,Ballots Cast,587
+Posey,24-Marrs S,Voters,,,Ballots Cast,611
+Posey,25-Marrs W,Voters,,,Ballots Cast,821
+Posey,26-Point,Voters,,,Ballots Cast,182
+Posey,27-Robb 1,Voters,,,Ballots Cast,393
+Posey,28-Robb 2,Voters,,,Ballots Cast,314
+Posey,29-Robb 3,Voters,,,Ballots Cast,210
+Posey,30-Robinson 1,Voters,,,Ballots Cast,449
+Posey,31-Robinson 2,Voters,,,Ballots Cast,765
+Posey,32-Robinson 3,Voters,,,Ballots Cast,854
+Posey,33-Smith E,Voters,,,Ballots Cast,239
+Posey,34-Smith W,Voters,,,Ballots Cast,295
+Posey,,Voters,,,Ballots Cast,12776
+Posey,01-Bethel,President,,REP,Donald Trump,94
+Posey,02-Black 1,President,,REP,Donald Trump,374
+Posey,03-Black 2,President,,REP,Donald Trump,138
+Posey,04-Black 3,President,,REP,Donald Trump,206
+Posey,05-Black 4,President,,REP,Donald Trump,114
+Posey,06-Black 5,President,,REP,Donald Trump,105
+Posey,07-Black 6,President,,REP,Donald Trump,180
+Posey,08-Black 7,President,,REP,Donald Trump,264
+Posey,09-Black 8,President,,REP,Donald Trump,251
+Posey,10-Black 9,President,,REP,Donald Trump,93
+Posey,11-Black 10,President,,REP,Donald Trump,143
+Posey,12-Black 11,President,,REP,Donald Trump,208
+Posey,13-Black 12,President,,REP,Donald Trump,341
+Posey,14-Black 13,President,,REP,Donald Trump,104
+Posey,15-Center N,President,,REP,Donald Trump,421
+Posey,16-Center S,President,,REP,Donald Trump,157
+Posey,17-Harmony 1,President,,REP,Donald Trump,117
+Posey,18-Harmony 2,President,,REP,Donald Trump,222
+Posey,19-Harmony 3,President,,REP,Donald Trump,110
+Posey,20-Lynn E,President,,REP,Donald Trump,214
+Posey,21-Lynn W,President,,REP,Donald Trump,98
+Posey,22-Marrs Center,President,,REP,Donald Trump,537
+Posey,23-Marrs N,President,,REP,Donald Trump,395
+Posey,24-Marrs S,President,,REP,Donald Trump,396
+Posey,25-Marrs W,President,,REP,Donald Trump,564
+Posey,26-Point,President,,REP,Donald Trump,136
+Posey,27-Robb 1,President,,REP,Donald Trump,282
+Posey,28-Robb 2,President,,REP,Donald Trump,230
+Posey,29-Robb 3,President,,REP,Donald Trump,156
+Posey,30-Robinson 1,President,,REP,Donald Trump,330
+Posey,31-Robinson 2,President,,REP,Donald Trump,501
+Posey,32-Robinson 3,President,,REP,Donald Trump,599
+Posey,33-Smith E,President,,REP,Donald Trump,133
+Posey,34-Smith W,President,,REP,Donald Trump,191
+Posey,,President,,REP,Donald Trump,8404
+Posey,01-Bethel,President,,DEM,Hillary Clinton,33
+Posey,02-Black 1,President,,DEM,Hillary Clinton,128
+Posey,03-Black 2,President,,DEM,Hillary Clinton,65
+Posey,04-Black 3,President,,DEM,Hillary Clinton,88
+Posey,05-Black 4,President,,DEM,Hillary Clinton,55
+Posey,06-Black 5,President,,DEM,Hillary Clinton,60
+Posey,07-Black 6,President,,DEM,Hillary Clinton,149
+Posey,08-Black 7,President,,DEM,Hillary Clinton,135
+Posey,09-Black 8,President,,DEM,Hillary Clinton,121
+Posey,10-Black 9,President,,DEM,Hillary Clinton,64
+Posey,11-Black 10,President,,DEM,Hillary Clinton,117
+Posey,12-Black 11,President,,DEM,Hillary Clinton,99
+Posey,13-Black 12,President,,DEM,Hillary Clinton,144
+Posey,14-Black 13,President,,DEM,Hillary Clinton,72
+Posey,15-Center N,President,,DEM,Hillary Clinton,123
+Posey,16-Center S,President,,DEM,Hillary Clinton,45
+Posey,17-Harmony 1,President,,DEM,Hillary Clinton,63
+Posey,18-Harmony 2,President,,DEM,Hillary Clinton,106
+Posey,19-Harmony 3,President,,DEM,Hillary Clinton,79
+Posey,20-Lynn E,President,,DEM,Hillary Clinton,78
+Posey,21-Lynn W,President,,DEM,Hillary Clinton,43
+Posey,22-Marrs Center,President,,DEM,Hillary Clinton,212
+Posey,23-Marrs N,President,,DEM,Hillary Clinton,151
+Posey,24-Marrs S,President,,DEM,Hillary Clinton,176
+Posey,25-Marrs W,President,,DEM,Hillary Clinton,201
+Posey,26-Point,President,,DEM,Hillary Clinton,36
+Posey,27-Robb 1,President,,DEM,Hillary Clinton,85
+Posey,28-Robb 2,President,,DEM,Hillary Clinton,67
+Posey,29-Robb 3,President,,DEM,Hillary Clinton,42
+Posey,30-Robinson 1,President,,DEM,Hillary Clinton,89
+Posey,31-Robinson 2,President,,DEM,Hillary Clinton,214
+Posey,32-Robinson 3,President,,DEM,Hillary Clinton,201
+Posey,33-Smith E,President,,DEM,Hillary Clinton,88
+Posey,34-Smith W,President,,DEM,Hillary Clinton,92
+Posey,,President,,DEM,Hillary Clinton,3521
+Posey,01-Bethel,President,,LBT,Gary Johnson,2
+Posey,02-Black 1,President,,LBT,Gary Johnson,20
+Posey,03-Black 2,President,,LBT,Gary Johnson,4
+Posey,04-Black 3,President,,LBT,Gary Johnson,14
+Posey,05-Black 4,President,,LBT,Gary Johnson,4
+Posey,06-Black 5,President,,LBT,Gary Johnson,11
+Posey,07-Black 6,President,,LBT,Gary Johnson,16
+Posey,08-Black 7,President,,LBT,Gary Johnson,17
+Posey,09-Black 8,President,,LBT,Gary Johnson,23
+Posey,10-Black 9,President,,LBT,Gary Johnson,10
+Posey,11-Black 10,President,,LBT,Gary Johnson,11
+Posey,12-Black 11,President,,LBT,Gary Johnson,21
+Posey,13-Black 12,President,,LBT,Gary Johnson,24
+Posey,14-Black 13,President,,LBT,Gary Johnson,6
+Posey,15-Center N,President,,LBT,Gary Johnson,31
+Posey,16-Center S,President,,LBT,Gary Johnson,10
+Posey,17-Harmony 1,President,,LBT,Gary Johnson,9
+Posey,18-Harmony 2,President,,LBT,Gary Johnson,8
+Posey,19-Harmony 3,President,,LBT,Gary Johnson,8
+Posey,20-Lynn E,President,,LBT,Gary Johnson,13
+Posey,21-Lynn W,President,,LBT,Gary Johnson,13
+Posey,22-Marrs Center,President,,LBT,Gary Johnson,36
+Posey,23-Marrs N,President,,LBT,Gary Johnson,29
+Posey,24-Marrs S,President,,LBT,Gary Johnson,26
+Posey,25-Marrs W,President,,LBT,Gary Johnson,38
+Posey,26-Point,President,,LBT,Gary Johnson,5
+Posey,27-Robb 1,President,,LBT,Gary Johnson,15
+Posey,28-Robb 2,President,,LBT,Gary Johnson,3
+Posey,29-Robb 3,President,,LBT,Gary Johnson,6
+Posey,30-Robinson 1,President,,LBT,Gary Johnson,21
+Posey,31-Robinson 2,President,,LBT,Gary Johnson,34
+Posey,32-Robinson 3,President,,LBT,Gary Johnson,34
+Posey,33-Smith E,President,,LBT,Gary Johnson,13
+Posey,34-Smith W,President,,LBT,Gary Johnson,7
+Posey,,President,,LBT,Gary Johnson,542
+Posey,01-Bethel,President,,,Write-ins,2
+Posey,02-Black 1,President,,,Write-ins,6
+Posey,03-Black 2,President,,,Write-ins,0
+Posey,04-Black 3,President,,,Write-ins,1
+Posey,05-Black 4,President,,,Write-ins,0
+Posey,06-Black 5,President,,,Write-ins,5
+Posey,07-Black 6,President,,,Write-ins,1
+Posey,08-Black 7,President,,,Write-ins,5
+Posey,09-Black 8,President,,,Write-ins,5
+Posey,10-Black 9,President,,,Write-ins,1
+Posey,11-Black 10,President,,,Write-ins,5
+Posey,12-Black 11,President,,,Write-ins,7
+Posey,13-Black 12,President,,,Write-ins,5
+Posey,14-Black 13,President,,,Write-ins,0
+Posey,15-Center N,President,,,Write-ins,9
+Posey,16-Center S,President,,,Write-ins,1
+Posey,17-Harmony 1,President,,,Write-ins,0
+Posey,18-Harmony 2,President,,,Write-ins,3
+Posey,19-Harmony 3,President,,,Write-ins,3
+Posey,20-Lynn E,President,,,Write-ins,5
+Posey,21-Lynn W,President,,,Write-ins,1
+Posey,22-Marrs Center,President,,,Write-ins,7
+Posey,23-Marrs N,President,,,Write-ins,3
+Posey,24-Marrs S,President,,,Write-ins,6
+Posey,25-Marrs W,President,,,Write-ins,11
+Posey,26-Point,President,,,Write-ins,0
+Posey,27-Robb 1,President,,,Write-ins,5
+Posey,28-Robb 2,President,,,Write-ins,3
+Posey,29-Robb 3,President,,,Write-ins,0
+Posey,30-Robinson 1,President,,,Write-ins,4
+Posey,31-Robinson 2,President,,,Write-ins,6
+Posey,32-Robinson 3,President,,,Write-ins,6
+Posey,33-Smith E,President,,,Write-ins,2
+Posey,34-Smith W,President,,,Write-ins,1
+Posey,,President,,,Write-ins,119
+Posey,01-Bethel,U.S. Senate,,REP,Todd Young,82
+Posey,02-Black 1,U.S. Senate,,REP,Todd Young,305
+Posey,03-Black 2,U.S. Senate,,REP,Todd Young,113
+Posey,04-Black 3,U.S. Senate,,REP,Todd Young,166
+Posey,05-Black 4,U.S. Senate,,REP,Todd Young,95
+Posey,06-Black 5,U.S. Senate,,REP,Todd Young,93
+Posey,07-Black 6,U.S. Senate,,REP,Todd Young,142
+Posey,08-Black 7,U.S. Senate,,REP,Todd Young,233
+Posey,09-Black 8,U.S. Senate,,REP,Todd Young,192
+Posey,10-Black 9,U.S. Senate,,REP,Todd Young,71
+Posey,11-Black 10,U.S. Senate,,REP,Todd Young,108
+Posey,12-Black 11,U.S. Senate,,REP,Todd Young,172
+Posey,13-Black 12,U.S. Senate,,REP,Todd Young,274
+Posey,14-Black 13,U.S. Senate,,REP,Todd Young,73
+Posey,15-Center N,U.S. Senate,,REP,Todd Young,365
+Posey,16-Center S,U.S. Senate,,REP,Todd Young,135
+Posey,17-Harmony 1,U.S. Senate,,REP,Todd Young,101
+Posey,18-Harmony 2,U.S. Senate,,REP,Todd Young,194
+Posey,19-Harmony 3,U.S. Senate,,REP,Todd Young,89
+Posey,20-Lynn E,U.S. Senate,,REP,Todd Young,176
+Posey,21-Lynn W,U.S. Senate,,REP,Todd Young,77
+Posey,22-Marrs Center,U.S. Senate,,REP,Todd Young,444
+Posey,23-Marrs N,U.S. Senate,,REP,Todd Young,355
+Posey,24-Marrs S,U.S. Senate,,REP,Todd Young,337
+Posey,25-Marrs W,U.S. Senate,,REP,Todd Young,489
+Posey,26-Point,U.S. Senate,,REP,Todd Young,105
+Posey,27-Robb 1,U.S. Senate,,REP,Todd Young,230
+Posey,28-Robb 2,U.S. Senate,,REP,Todd Young,198
+Posey,29-Robb 3,U.S. Senate,,REP,Todd Young,131
+Posey,30-Robinson 1,U.S. Senate,,REP,Todd Young,287
+Posey,31-Robinson 2,U.S. Senate,,REP,Todd Young,452
+Posey,32-Robinson 3,U.S. Senate,,REP,Todd Young,523
+Posey,33-Smith E,U.S. Senate,,REP,Todd Young,96
+Posey,34-Smith W,U.S. Senate,,REP,Todd Young,155
+Posey,,U.S. Senate,,REP,Todd Young,7058
+Posey,01-Bethel,U.S. Senate,,DEM,Evan Bayh,46
+Posey,02-Black 1,U.S. Senate,,DEM,Evan Bayh,202
+Posey,03-Black 2,U.S. Senate,,DEM,Evan Bayh,85
+Posey,04-Black 3,U.S. Senate,,DEM,Evan Bayh,132
+Posey,05-Black 4,U.S. Senate,,DEM,Evan Bayh,72
+Posey,06-Black 5,U.S. Senate,,DEM,Evan Bayh,74
+Posey,07-Black 6,U.S. Senate,,DEM,Evan Bayh,187
+Posey,08-Black 7,U.S. Senate,,DEM,Evan Bayh,163
+Posey,09-Black 8,U.S. Senate,,DEM,Evan Bayh,173
+Posey,10-Black 9,U.S. Senate,,DEM,Evan Bayh,87
+Posey,11-Black 10,U.S. Senate,,DEM,Evan Bayh,151
+Posey,12-Black 11,U.S. Senate,,DEM,Evan Bayh,147
+Posey,13-Black 12,U.S. Senate,,DEM,Evan Bayh,207
+Posey,14-Black 13,U.S. Senate,,DEM,Evan Bayh,88
+Posey,15-Center N,U.S. Senate,,DEM,Evan Bayh,190
+Posey,16-Center S,U.S. Senate,,DEM,Evan Bayh,74
+Posey,17-Harmony 1,U.S. Senate,,DEM,Evan Bayh,82
+Posey,18-Harmony 2,U.S. Senate,,DEM,Evan Bayh,121
+Posey,19-Harmony 3,U.S. Senate,,DEM,Evan Bayh,102
+Posey,20-Lynn E,U.S. Senate,,DEM,Evan Bayh,113
+Posey,21-Lynn W,U.S. Senate,,DEM,Evan Bayh,61
+Posey,22-Marrs Center,U.S. Senate,,DEM,Evan Bayh,311
+Posey,23-Marrs N,U.S. Senate,,DEM,Evan Bayh,203
+Posey,24-Marrs S,U.S. Senate,,DEM,Evan Bayh,227
+Posey,25-Marrs W,U.S. Senate,,DEM,Evan Bayh,285
+Posey,26-Point,U.S. Senate,,DEM,Evan Bayh,66
+Posey,27-Robb 1,U.S. Senate,,DEM,Evan Bayh,129
+Posey,28-Robb 2,U.S. Senate,,DEM,Evan Bayh,99
+Posey,29-Robb 3,U.S. Senate,,DEM,Evan Bayh,63
+Posey,30-Robinson 1,U.S. Senate,,DEM,Evan Bayh,140
+Posey,31-Robinson 2,U.S. Senate,,DEM,Evan Bayh,263
+Posey,32-Robinson 3,U.S. Senate,,DEM,Evan Bayh,275
+Posey,33-Smith E,U.S. Senate,,DEM,Evan Bayh,110
+Posey,34-Smith W,U.S. Senate,,DEM,Evan Bayh,129
+Posey,,U.S. Senate,,DEM,Evan Bayh,4857
+Posey,01-Bethel,U.S. Senate,,LBT,Lucy Brenton,5
+Posey,02-Black 1,U.S. Senate,,LBT,Lucy Brenton,22
+Posey,03-Black 2,U.S. Senate,,LBT,Lucy Brenton,9
+Posey,04-Black 3,U.S. Senate,,LBT,Lucy Brenton,12
+Posey,05-Black 4,U.S. Senate,,LBT,Lucy Brenton,9
+Posey,06-Black 5,U.S. Senate,,LBT,Lucy Brenton,13
+Posey,07-Black 6,U.S. Senate,,LBT,Lucy Brenton,18
+Posey,08-Black 7,U.S. Senate,,LBT,Lucy Brenton,19
+Posey,09-Black 8,U.S. Senate,,LBT,Lucy Brenton,28
+Posey,10-Black 9,U.S. Senate,,LBT,Lucy Brenton,14
+Posey,11-Black 10,U.S. Senate,,LBT,Lucy Brenton,19
+Posey,12-Black 11,U.S. Senate,,LBT,Lucy Brenton,10
+Posey,13-Black 12,U.S. Senate,,LBT,Lucy Brenton,30
+Posey,14-Black 13,U.S. Senate,,LBT,Lucy Brenton,16
+Posey,15-Center N,U.S. Senate,,LBT,Lucy Brenton,26
+Posey,16-Center S,U.S. Senate,,LBT,Lucy Brenton,6
+Posey,17-Harmony 1,U.S. Senate,,LBT,Lucy Brenton,4
+Posey,18-Harmony 2,U.S. Senate,,LBT,Lucy Brenton,17
+Posey,19-Harmony 3,U.S. Senate,,LBT,Lucy Brenton,10
+Posey,20-Lynn E,U.S. Senate,,LBT,Lucy Brenton,16
+Posey,21-Lynn W,U.S. Senate,,LBT,Lucy Brenton,15
+Posey,22-Marrs Center,U.S. Senate,,LBT,Lucy Brenton,28
+Posey,23-Marrs N,U.S. Senate,,LBT,Lucy Brenton,17
+Posey,24-Marrs S,U.S. Senate,,LBT,Lucy Brenton,33
+Posey,25-Marrs W,U.S. Senate,,LBT,Lucy Brenton,32
+Posey,26-Point,U.S. Senate,,LBT,Lucy Brenton,8
+Posey,27-Robb 1,U.S. Senate,,LBT,Lucy Brenton,24
+Posey,28-Robb 2,U.S. Senate,,LBT,Lucy Brenton,9
+Posey,29-Robb 3,U.S. Senate,,LBT,Lucy Brenton,8
+Posey,30-Robinson 1,U.S. Senate,,LBT,Lucy Brenton,13
+Posey,31-Robinson 2,U.S. Senate,,LBT,Lucy Brenton,31
+Posey,32-Robinson 3,U.S. Senate,,LBT,Lucy Brenton,46
+Posey,33-Smith E,U.S. Senate,,LBT,Lucy Brenton,22
+Posey,34-Smith W,U.S. Senate,,LBT,Lucy Brenton,8
+Posey,,U.S. Senate,,LBT,Lucy Brenton,597
+Posey,01-Bethel,U.S. Senate,,,Write-ins,0
+Posey,02-Black 1,U.S. Senate,,,Write-ins,0
+Posey,03-Black 2,U.S. Senate,,,Write-ins,0
+Posey,04-Black 3,U.S. Senate,,,Write-ins,0
+Posey,05-Black 4,U.S. Senate,,,Write-ins,0
+Posey,06-Black 5,U.S. Senate,,,Write-ins,0
+Posey,07-Black 6,U.S. Senate,,,Write-ins,0
+Posey,08-Black 7,U.S. Senate,,,Write-ins,0
+Posey,09-Black 8,U.S. Senate,,,Write-ins,0
+Posey,10-Black 9,U.S. Senate,,,Write-ins,0
+Posey,11-Black 10,U.S. Senate,,,Write-ins,1
+Posey,12-Black 11,U.S. Senate,,,Write-ins,0
+Posey,13-Black 12,U.S. Senate,,,Write-ins,0
+Posey,14-Black 13,U.S. Senate,,,Write-ins,0
+Posey,15-Center N,U.S. Senate,,,Write-ins,0
+Posey,16-Center S,U.S. Senate,,,Write-ins,0
+Posey,17-Harmony 1,U.S. Senate,,,Write-ins,0
+Posey,18-Harmony 2,U.S. Senate,,,Write-ins,0
+Posey,19-Harmony 3,U.S. Senate,,,Write-ins,0
+Posey,20-Lynn E,U.S. Senate,,,Write-ins,0
+Posey,21-Lynn W,U.S. Senate,,,Write-ins,0
+Posey,22-Marrs Center,U.S. Senate,,,Write-ins,0
+Posey,23-Marrs N,U.S. Senate,,,Write-ins,0
+Posey,24-Marrs S,U.S. Senate,,,Write-ins,0
+Posey,25-Marrs W,U.S. Senate,,,Write-ins,1
+Posey,26-Point,U.S. Senate,,,Write-ins,0
+Posey,27-Robb 1,U.S. Senate,,,Write-ins,0
+Posey,28-Robb 2,U.S. Senate,,,Write-ins,0
+Posey,29-Robb 3,U.S. Senate,,,Write-ins,0
+Posey,30-Robinson 1,U.S. Senate,,,Write-ins,0
+Posey,31-Robinson 2,U.S. Senate,,,Write-ins,0
+Posey,32-Robinson 3,U.S. Senate,,,Write-ins,0
+Posey,33-Smith E,U.S. Senate,,,Write-ins,0
+Posey,34-Smith W,U.S. Senate,,,Write-ins,1
+Posey,,U.S. Senate,,,Write-ins,3
+Posey,01-Bethel,Governor,,REP,Eric Holcomb,82
+Posey,02-Black 1,Governor,,REP,Eric Holcomb,313
+Posey,03-Black 2,Governor,,REP,Eric Holcomb,117
+Posey,04-Black 3,Governor,,REP,Eric Holcomb,177
+Posey,05-Black 4,Governor,,REP,Eric Holcomb,87
+Posey,06-Black 5,Governor,,REP,Eric Holcomb,97
+Posey,07-Black 6,Governor,,REP,Eric Holcomb,145
+Posey,08-Black 7,Governor,,REP,Eric Holcomb,217
+Posey,09-Black 8,Governor,,REP,Eric Holcomb,196
+Posey,10-Black 9,Governor,,REP,Eric Holcomb,86
+Posey,11-Black 10,Governor,,REP,Eric Holcomb,118
+Posey,12-Black 11,Governor,,REP,Eric Holcomb,169
+Posey,13-Black 12,Governor,,REP,Eric Holcomb,281
+Posey,14-Black 13,Governor,,REP,Eric Holcomb,75
+Posey,15-Center N,Governor,,REP,Eric Holcomb,364
+Posey,16-Center S,Governor,,REP,Eric Holcomb,144
+Posey,17-Harmony 1,Governor,,REP,Eric Holcomb,102
+Posey,18-Harmony 2,Governor,,REP,Eric Holcomb,193
+Posey,19-Harmony 3,Governor,,REP,Eric Holcomb,88
+Posey,20-Lynn E,Governor,,REP,Eric Holcomb,179
+Posey,21-Lynn W,Governor,,REP,Eric Holcomb,76
+Posey,22-Marrs Center,Governor,,REP,Eric Holcomb,465
+Posey,23-Marrs N,Governor,,REP,Eric Holcomb,361
+Posey,24-Marrs S,Governor,,REP,Eric Holcomb,341
+Posey,25-Marrs W,Governor,,REP,Eric Holcomb,502
+Posey,26-Point,Governor,,REP,Eric Holcomb,107
+Posey,27-Robb 1,Governor,,REP,Eric Holcomb,239
+Posey,28-Robb 2,Governor,,REP,Eric Holcomb,183
+Posey,29-Robb 3,Governor,,REP,Eric Holcomb,130
+Posey,30-Robinson 1,Governor,,REP,Eric Holcomb,297
+Posey,31-Robinson 2,Governor,,REP,Eric Holcomb,471
+Posey,32-Robinson 3,Governor,,REP,Eric Holcomb,535
+Posey,33-Smith E,Governor,,REP,Eric Holcomb,102
+Posey,34-Smith W,Governor,,REP,Eric Holcomb,163
+Posey,,Governor,,REP,Eric Holcomb,7202
+Posey,01-Bethel,Governor,,DEM,John Gregg,47
+Posey,02-Black 1,Governor,,DEM,John Gregg,203
+Posey,03-Black 2,Governor,,DEM,John Gregg,82
+Posey,04-Black 3,Governor,,DEM,John Gregg,128
+Posey,05-Black 4,Governor,,DEM,John Gregg,85
+Posey,06-Black 5,Governor,,DEM,John Gregg,72
+Posey,07-Black 6,Governor,,DEM,John Gregg,189
+Posey,08-Black 7,Governor,,DEM,John Gregg,194
+Posey,09-Black 8,Governor,,DEM,John Gregg,184
+Posey,10-Black 9,Governor,,DEM,John Gregg,82
+Posey,11-Black 10,Governor,,DEM,John Gregg,147
+Posey,12-Black 11,Governor,,DEM,John Gregg,157
+Posey,13-Black 12,Governor,,DEM,John Gregg,217
+Posey,14-Black 13,Governor,,DEM,John Gregg,93
+Posey,15-Center N,Governor,,DEM,John Gregg,203
+Posey,16-Center S,Governor,,DEM,John Gregg,68
+Posey,17-Harmony 1,Governor,,DEM,John Gregg,83
+Posey,18-Harmony 2,Governor,,DEM,John Gregg,133
+Posey,19-Harmony 3,Governor,,DEM,John Gregg,107
+Posey,20-Lynn E,Governor,,DEM,John Gregg,116
+Posey,21-Lynn W,Governor,,DEM,John Gregg,70
+Posey,22-Marrs Center,Governor,,DEM,John Gregg,302
+Posey,23-Marrs N,Governor,,DEM,John Gregg,198
+Posey,24-Marrs S,Governor,,DEM,John Gregg,246
+Posey,25-Marrs W,Governor,,DEM,John Gregg,293
+Posey,26-Point,Governor,,DEM,John Gregg,72
+Posey,27-Robb 1,Governor,,DEM,John Gregg,137
+Posey,28-Robb 2,Governor,,DEM,John Gregg,118
+Posey,29-Robb 3,Governor,,DEM,John Gregg,70
+Posey,30-Robinson 1,Governor,,DEM,John Gregg,138
+Posey,31-Robinson 2,Governor,,DEM,John Gregg,269
+Posey,32-Robinson 3,Governor,,DEM,John Gregg,287
+Posey,33-Smith E,Governor,,DEM,John Gregg,120
+Posey,34-Smith W,Governor,,DEM,John Gregg,118
+Posey,,Governor,,DEM,John Gregg,5028
+Posey,01-Bethel,Governor,,LBT,Rex Bell,2
+Posey,02-Black 1,Governor,,LBT,Rex Bell,8
+Posey,03-Black 2,Governor,,LBT,Rex Bell,5
+Posey,04-Black 3,Governor,,LBT,Rex Bell,6
+Posey,05-Black 4,Governor,,LBT,Rex Bell,2
+Posey,06-Black 5,Governor,,LBT,Rex Bell,9
+Posey,07-Black 6,Governor,,LBT,Rex Bell,10
+Posey,08-Black 7,Governor,,LBT,Rex Bell,6
+Posey,09-Black 8,Governor,,LBT,Rex Bell,13
+Posey,10-Black 9,Governor,,LBT,Rex Bell,3
+Posey,11-Black 10,Governor,,LBT,Rex Bell,11
+Posey,12-Black 11,Governor,,LBT,Rex Bell,6
+Posey,13-Black 12,Governor,,LBT,Rex Bell,8
+Posey,14-Black 13,Governor,,LBT,Rex Bell,9
+Posey,15-Center N,Governor,,LBT,Rex Bell,13
+Posey,16-Center S,Governor,,LBT,Rex Bell,2
+Posey,17-Harmony 1,Governor,,LBT,Rex Bell,2
+Posey,18-Harmony 2,Governor,,LBT,Rex Bell,7
+Posey,19-Harmony 3,Governor,,LBT,Rex Bell,5
+Posey,20-Lynn E,Governor,,LBT,Rex Bell,9
+Posey,21-Lynn W,Governor,,LBT,Rex Bell,6
+Posey,22-Marrs Center,Governor,,LBT,Rex Bell,14
+Posey,23-Marrs N,Governor,,LBT,Rex Bell,14
+Posey,24-Marrs S,Governor,,LBT,Rex Bell,10
+Posey,25-Marrs W,Governor,,LBT,Rex Bell,12
+Posey,26-Point,Governor,,LBT,Rex Bell,1
+Posey,27-Robb 1,Governor,,LBT,Rex Bell,9
+Posey,28-Robb 2,Governor,,LBT,Rex Bell,4
+Posey,29-Robb 3,Governor,,LBT,Rex Bell,3
+Posey,30-Robinson 1,Governor,,LBT,Rex Bell,6
+Posey,31-Robinson 2,Governor,,LBT,Rex Bell,5
+Posey,32-Robinson 3,Governor,,LBT,Rex Bell,17
+Posey,33-Smith E,Governor,,LBT,Rex Bell,6
+Posey,34-Smith W,Governor,,LBT,Rex Bell,7
+Posey,,Governor,,LBT,Rex Bell,250
+Posey,01-Bethel,Governor,,,Write-ins,0
+Posey,02-Black 1,Governor,,,Write-ins,0
+Posey,03-Black 2,Governor,,,Write-ins,0
+Posey,04-Black 3,Governor,,,Write-ins,0
+Posey,05-Black 4,Governor,,,Write-ins,0
+Posey,06-Black 5,Governor,,,Write-ins,0
+Posey,07-Black 6,Governor,,,Write-ins,0
+Posey,08-Black 7,Governor,,,Write-ins,0
+Posey,09-Black 8,Governor,,,Write-ins,0
+Posey,10-Black 9,Governor,,,Write-ins,0
+Posey,11-Black 10,Governor,,,Write-ins,1
+Posey,12-Black 11,Governor,,,Write-ins,0
+Posey,13-Black 12,Governor,,,Write-ins,0
+Posey,14-Black 13,Governor,,,Write-ins,0
+Posey,15-Center N,Governor,,,Write-ins,0
+Posey,16-Center S,Governor,,,Write-ins,0
+Posey,17-Harmony 1,Governor,,,Write-ins,0
+Posey,18-Harmony 2,Governor,,,Write-ins,0
+Posey,19-Harmony 3,Governor,,,Write-ins,0
+Posey,20-Lynn E,Governor,,,Write-ins,0
+Posey,21-Lynn W,Governor,,,Write-ins,0
+Posey,22-Marrs Center,Governor,,,Write-ins,0
+Posey,23-Marrs N,Governor,,,Write-ins,0
+Posey,24-Marrs S,Governor,,,Write-ins,1
+Posey,25-Marrs W,Governor,,,Write-ins,1
+Posey,26-Point,Governor,,,Write-ins,0
+Posey,27-Robb 1,Governor,,,Write-ins,0
+Posey,28-Robb 2,Governor,,,Write-ins,0
+Posey,29-Robb 3,Governor,,,Write-ins,0
+Posey,30-Robinson 1,Governor,,,Write-ins,0
+Posey,31-Robinson 2,Governor,,,Write-ins,0
+Posey,32-Robinson 3,Governor,,,Write-ins,0
+Posey,33-Smith E,Governor,,,Write-ins,0
+Posey,34-Smith W,Governor,,,Write-ins,1
+Posey,,Governor,,,Write-ins,4
+Posey,01-Bethel,Attorney General,,REP,Curtis Hill,95
+Posey,02-Black 1,Attorney General,,REP,Curtis Hill,370
+Posey,03-Black 2,Attorney General,,REP,Curtis Hill,137
+Posey,04-Black 3,Attorney General,,REP,Curtis Hill,204
+Posey,05-Black 4,Attorney General,,REP,Curtis Hill,104
+Posey,06-Black 5,Attorney General,,REP,Curtis Hill,115
+Posey,07-Black 6,Attorney General,,REP,Curtis Hill,175
+Posey,08-Black 7,Attorney General,,REP,Curtis Hill,277
+Posey,09-Black 8,Attorney General,,REP,Curtis Hill,257
+Posey,10-Black 9,Attorney General,,REP,Curtis Hill,95
+Posey,11-Black 10,Attorney General,,REP,Curtis Hill,153
+Posey,12-Black 11,Attorney General,,REP,Curtis Hill,210
+Posey,13-Black 12,Attorney General,,REP,Curtis Hill,334
+Posey,14-Black 13,Attorney General,,REP,Curtis Hill,92
+Posey,15-Center N,Attorney General,,REP,Curtis Hill,432
+Posey,16-Center S,Attorney General,,REP,Curtis Hill,161
+Posey,17-Harmony 1,Attorney General,,REP,Curtis Hill,118
+Posey,18-Harmony 2,Attorney General,,REP,Curtis Hill,216
+Posey,19-Harmony 3,Attorney General,,REP,Curtis Hill,112
+Posey,20-Lynn E,Attorney General,,REP,Curtis Hill,210
+Posey,21-Lynn W,Attorney General,,REP,Curtis Hill,99
+Posey,22-Marrs Center,Attorney General,,REP,Curtis Hill,523
+Posey,23-Marrs N,Attorney General,,REP,Curtis Hill,408
+Posey,24-Marrs S,Attorney General,,REP,Curtis Hill,387
+Posey,25-Marrs W,Attorney General,,REP,Curtis Hill,584
+Posey,26-Point,Attorney General,,REP,Curtis Hill,125
+Posey,27-Robb 1,Attorney General,,REP,Curtis Hill,271
+Posey,28-Robb 2,Attorney General,,REP,Curtis Hill,215
+Posey,29-Robb 3,Attorney General,,REP,Curtis Hill,146
+Posey,30-Robinson 1,Attorney General,,REP,Curtis Hill,326
+Posey,31-Robinson 2,Attorney General,,REP,Curtis Hill,524
+Posey,32-Robinson 3,Attorney General,,REP,Curtis Hill,624
+Posey,33-Smith E,Attorney General,,REP,Curtis Hill,132
+Posey,34-Smith W,Attorney General,,REP,Curtis Hill,197
+Posey,,Attorney General,,REP,Curtis Hill,8428
+Posey,01-Bethel,Attorney General,,DEM,Lorenzo Arredondo,36
+Posey,02-Black 1,Attorney General,,DEM,Lorenzo Arredondo,138
+Posey,03-Black 2,Attorney General,,DEM,Lorenzo Arredondo,63
+Posey,04-Black 3,Attorney General,,DEM,Lorenzo Arredondo,97
+Posey,05-Black 4,Attorney General,,DEM,Lorenzo Arredondo,60
+Posey,06-Black 5,Attorney General,,DEM,Lorenzo Arredondo,63
+Posey,07-Black 6,Attorney General,,DEM,Lorenzo Arredondo,161
+Posey,08-Black 7,Attorney General,,DEM,Lorenzo Arredondo,123
+Posey,09-Black 8,Attorney General,,DEM,Lorenzo Arredondo,123
+Posey,10-Black 9,Attorney General,,DEM,Lorenzo Arredondo,71
+Posey,11-Black 10,Attorney General,,DEM,Lorenzo Arredondo,114
+Posey,12-Black 11,Attorney General,,DEM,Lorenzo Arredondo,110
+Posey,13-Black 12,Attorney General,,DEM,Lorenzo Arredondo,151
+Posey,14-Black 13,Attorney General,,DEM,Lorenzo Arredondo,78
+Posey,15-Center N,Attorney General,,DEM,Lorenzo Arredondo,127
+Posey,16-Center S,Attorney General,,DEM,Lorenzo Arredondo,44
+Posey,17-Harmony 1,Attorney General,,DEM,Lorenzo Arredondo,61
+Posey,18-Harmony 2,Attorney General,,DEM,Lorenzo Arredondo,104
+Posey,19-Harmony 3,Attorney General,,DEM,Lorenzo Arredondo,85
+Posey,20-Lynn E,Attorney General,,DEM,Lorenzo Arredondo,80
+Posey,21-Lynn W,Attorney General,,DEM,Lorenzo Arredondo,50
+Posey,22-Marrs Center,Attorney General,,DEM,Lorenzo Arredondo,228
+Posey,23-Marrs N,Attorney General,,DEM,Lorenzo Arredondo,138
+Posey,24-Marrs S,Attorney General,,DEM,Lorenzo Arredondo,186
+Posey,25-Marrs W,Attorney General,,DEM,Lorenzo Arredondo,192
+Posey,26-Point,Attorney General,,DEM,Lorenzo Arredondo,45
+Posey,27-Robb 1,Attorney General,,DEM,Lorenzo Arredondo,96
+Posey,28-Robb 2,Attorney General,,DEM,Lorenzo Arredondo,78
+Posey,29-Robb 3,Attorney General,,DEM,Lorenzo Arredondo,48
+Posey,30-Robinson 1,Attorney General,,DEM,Lorenzo Arredondo,98
+Posey,31-Robinson 2,Attorney General,,DEM,Lorenzo Arredondo,203
+Posey,32-Robinson 3,Attorney General,,DEM,Lorenzo Arredondo,185
+Posey,33-Smith E,Attorney General,,DEM,Lorenzo Arredondo,91
+Posey,34-Smith W,Attorney General,,DEM,Lorenzo Arredondo,90
+Posey,,Attorney General,,DEM,Lorenzo Arredondo,3617
+Posey,01-Bethel,Public Instruction,,REP,Jennifer McCormick,82
+Posey,02-Black 1,Public Instruction,,REP,Jennifer McCormick,311
+Posey,03-Black 2,Public Instruction,,REP,Jennifer McCormick,106
+Posey,04-Black 3,Public Instruction,,REP,Jennifer McCormick,185
+Posey,05-Black 4,Public Instruction,,REP,Jennifer McCormick,93
+Posey,06-Black 5,Public Instruction,,REP,Jennifer McCormick,106
+Posey,07-Black 6,Public Instruction,,REP,Jennifer McCormick,155
+Posey,08-Black 7,Public Instruction,,REP,Jennifer McCormick,223
+Posey,09-Black 8,Public Instruction,,REP,Jennifer McCormick,213
+Posey,10-Black 9,Public Instruction,,REP,Jennifer McCormick,87
+Posey,11-Black 10,Public Instruction,,REP,Jennifer McCormick,136
+Posey,12-Black 11,Public Instruction,,REP,Jennifer McCormick,183
+Posey,13-Black 12,Public Instruction,,REP,Jennifer McCormick,287
+Posey,14-Black 13,Public Instruction,,REP,Jennifer McCormick,85
+Posey,15-Center N,Public Instruction,,REP,Jennifer McCormick,355
+Posey,16-Center S,Public Instruction,,REP,Jennifer McCormick,140
+Posey,17-Harmony 1,Public Instruction,,REP,Jennifer McCormick,107
+Posey,18-Harmony 2,Public Instruction,,REP,Jennifer McCormick,192
+Posey,19-Harmony 3,Public Instruction,,REP,Jennifer McCormick,99
+Posey,20-Lynn E,Public Instruction,,REP,Jennifer McCormick,182
+Posey,21-Lynn W,Public Instruction,,REP,Jennifer McCormick,83
+Posey,22-Marrs Center,Public Instruction,,REP,Jennifer McCormick,457
+Posey,23-Marrs N,Public Instruction,,REP,Jennifer McCormick,363
+Posey,24-Marrs S,Public Instruction,,REP,Jennifer McCormick,344
+Posey,25-Marrs W,Public Instruction,,REP,Jennifer McCormick,503
+Posey,26-Point,Public Instruction,,REP,Jennifer McCormick,100
+Posey,27-Robb 1,Public Instruction,,REP,Jennifer McCormick,221
+Posey,28-Robb 2,Public Instruction,,REP,Jennifer McCormick,177
+Posey,29-Robb 3,Public Instruction,,REP,Jennifer McCormick,126
+Posey,30-Robinson 1,Public Instruction,,REP,Jennifer McCormick,279
+Posey,31-Robinson 2,Public Instruction,,REP,Jennifer McCormick,467
+Posey,32-Robinson 3,Public Instruction,,REP,Jennifer McCormick,527
+Posey,33-Smith E,Public Instruction,,REP,Jennifer McCormick,92
+Posey,34-Smith W,Public Instruction,,REP,Jennifer McCormick,162
+Posey,,Public Instruction,,REP,Jennifer McCormick,7228
+Posey,01-Bethel,Public Instruction,,DEM,Glenda Ritz,48
+Posey,02-Black 1,Public Instruction,,DEM,Glenda Ritz,196
+Posey,03-Black 2,Public Instruction,,DEM,Glenda Ritz,95
+Posey,04-Black 3,Public Instruction,,DEM,Glenda Ritz,114
+Posey,05-Black 4,Public Instruction,,DEM,Glenda Ritz,78
+Posey,06-Black 5,Public Instruction,,DEM,Glenda Ritz,70
+Posey,07-Black 6,Public Instruction,,DEM,Glenda Ritz,185
+Posey,08-Black 7,Public Instruction,,DEM,Glenda Ritz,185
+Posey,09-Black 8,Public Instruction,,DEM,Glenda Ritz,166
+Posey,10-Black 9,Public Instruction,,DEM,Glenda Ritz,79
+Posey,11-Black 10,Public Instruction,,DEM,Glenda Ritz,135
+Posey,12-Black 11,Public Instruction,,DEM,Glenda Ritz,139
+Posey,13-Black 12,Public Instruction,,DEM,Glenda Ritz,197
+Posey,14-Black 13,Public Instruction,,DEM,Glenda Ritz,87
+Posey,15-Center N,Public Instruction,,DEM,Glenda Ritz,213
+Posey,16-Center S,Public Instruction,,DEM,Glenda Ritz,69
+Posey,17-Harmony 1,Public Instruction,,DEM,Glenda Ritz,74
+Posey,18-Harmony 2,Public Instruction,,DEM,Glenda Ritz,136
+Posey,19-Harmony 3,Public Instruction,,DEM,Glenda Ritz,99
+Posey,20-Lynn E,Public Instruction,,DEM,Glenda Ritz,114
+Posey,21-Lynn W,Public Instruction,,DEM,Glenda Ritz,64
+Posey,22-Marrs Center,Public Instruction,,DEM,Glenda Ritz,304
+Posey,23-Marrs N,Public Instruction,,DEM,Glenda Ritz,191
+Posey,24-Marrs S,Public Instruction,,DEM,Glenda Ritz,232
+Posey,25-Marrs W,Public Instruction,,DEM,Glenda Ritz,277
+Posey,26-Point,Public Instruction,,DEM,Glenda Ritz,67
+Posey,27-Robb 1,Public Instruction,,DEM,Glenda Ritz,155
+Posey,28-Robb 2,Public Instruction,,DEM,Glenda Ritz,124
+Posey,29-Robb 3,Public Instruction,,DEM,Glenda Ritz,73
+Posey,30-Robinson 1,Public Instruction,,DEM,Glenda Ritz,154
+Posey,31-Robinson 2,Public Instruction,,DEM,Glenda Ritz,263
+Posey,32-Robinson 3,Public Instruction,,DEM,Glenda Ritz,284
+Posey,33-Smith E,Public Instruction,,DEM,Glenda Ritz,133
+Posey,34-Smith W,Public Instruction,,DEM,Glenda Ritz,121
+Posey,,Public Instruction,,DEM,Glenda Ritz,4921
+Posey,01-Bethel,U.S. House,8,REP,Larry Bucshon,93
+Posey,02-Black 1,U.S. House,8,REP,Larry Bucshon,368
+Posey,03-Black 2,U.S. House,8,REP,Larry Bucshon,133
+Posey,04-Black 3,U.S. House,8,REP,Larry Bucshon,204
+Posey,05-Black 4,U.S. House,8,REP,Larry Bucshon,114
+Posey,06-Black 5,U.S. House,8,REP,Larry Bucshon,117
+Posey,07-Black 6,U.S. House,8,REP,Larry Bucshon,171
+Posey,08-Black 7,U.S. House,8,REP,Larry Bucshon,280
+Posey,09-Black 8,U.S. House,8,REP,Larry Bucshon,239
+Posey,10-Black 9,U.S. House,8,REP,Larry Bucshon,92
+Posey,11-Black 10,U.S. House,8,REP,Larry Bucshon,154
+Posey,12-Black 11,U.S. House,8,REP,Larry Bucshon,212
+Posey,13-Black 12,U.S. House,8,REP,Larry Bucshon,336
+Posey,14-Black 13,U.S. House,8,REP,Larry Bucshon,91
+Posey,15-Center N,U.S. House,8,REP,Larry Bucshon,432
+Posey,16-Center S,U.S. House,8,REP,Larry Bucshon,156
+Posey,17-Harmony 1,U.S. House,8,REP,Larry Bucshon,117
+Posey,18-Harmony 2,U.S. House,8,REP,Larry Bucshon,228
+Posey,19-Harmony 3,U.S. House,8,REP,Larry Bucshon,112
+Posey,20-Lynn E,U.S. House,8,REP,Larry Bucshon,204
+Posey,21-Lynn W,U.S. House,8,REP,Larry Bucshon,95
+Posey,22-Marrs Center,U.S. House,8,REP,Larry Bucshon,522
+Posey,23-Marrs N,U.S. House,8,REP,Larry Bucshon,402
+Posey,24-Marrs S,U.S. House,8,REP,Larry Bucshon,360
+Posey,25-Marrs W,U.S. House,8,REP,Larry Bucshon,581
+Posey,26-Point,U.S. House,8,REP,Larry Bucshon,118
+Posey,27-Robb 1,U.S. House,8,REP,Larry Bucshon,271
+Posey,28-Robb 2,U.S. House,8,REP,Larry Bucshon,227
+Posey,29-Robb 3,U.S. House,8,REP,Larry Bucshon,142
+Posey,30-Robinson 1,U.S. House,8,REP,Larry Bucshon,327
+Posey,31-Robinson 2,U.S. House,8,REP,Larry Bucshon,512
+Posey,32-Robinson 3,U.S. House,8,REP,Larry Bucshon,620
+Posey,33-Smith E,U.S. House,8,REP,Larry Bucshon,130
+Posey,34-Smith W,U.S. House,8,REP,Larry Bucshon,186
+Posey,,U.S. House,8,REP,Larry Bucshon,8346
+Posey,01-Bethel,U.S. House,8,DEM,Ron Drake,36
+Posey,02-Black 1,U.S. House,8,DEM,Ron Drake,133
+Posey,03-Black 2,U.S. House,8,DEM,Ron Drake,60
+Posey,04-Black 3,U.S. House,8,DEM,Ron Drake,90
+Posey,05-Black 4,U.S. House,8,DEM,Ron Drake,53
+Posey,06-Black 5,U.S. House,8,DEM,Ron Drake,54
+Posey,07-Black 6,U.S. House,8,DEM,Ron Drake,152
+Posey,08-Black 7,U.S. House,8,DEM,Ron Drake,102
+Posey,09-Black 8,U.S. House,8,DEM,Ron Drake,125
+Posey,10-Black 9,U.S. House,8,DEM,Ron Drake,65
+Posey,11-Black 10,U.S. House,8,DEM,Ron Drake,118
+Posey,12-Black 11,U.S. House,8,DEM,Ron Drake,101
+Posey,13-Black 12,U.S. House,8,DEM,Ron Drake,142
+Posey,14-Black 13,U.S. House,8,DEM,Ron Drake,75
+Posey,15-Center N,U.S. House,8,DEM,Ron Drake,120
+Posey,16-Center S,U.S. House,8,DEM,Ron Drake,49
+Posey,17-Harmony 1,U.S. House,8,DEM,Ron Drake,61
+Posey,18-Harmony 2,U.S. House,8,DEM,Ron Drake,90
+Posey,19-Harmony 3,U.S. House,8,DEM,Ron Drake,80
+Posey,20-Lynn E,U.S. House,8,DEM,Ron Drake,76
+Posey,21-Lynn W,U.S. House,8,DEM,Ron Drake,42
+Posey,22-Marrs Center,U.S. House,8,DEM,Ron Drake,216
+Posey,23-Marrs N,U.S. House,8,DEM,Ron Drake,145
+Posey,24-Marrs S,U.S. House,8,DEM,Ron Drake,203
+Posey,25-Marrs W,U.S. House,8,DEM,Ron Drake,181
+Posey,26-Point,U.S. House,8,DEM,Ron Drake,56
+Posey,27-Robb 1,U.S. House,8,DEM,Ron Drake,95
+Posey,28-Robb 2,U.S. House,8,DEM,Ron Drake,71
+Posey,29-Robb 3,U.S. House,8,DEM,Ron Drake,48
+Posey,30-Robinson 1,U.S. House,8,DEM,Ron Drake,96
+Posey,31-Robinson 2,U.S. House,8,DEM,Ron Drake,196
+Posey,32-Robinson 3,U.S. House,8,DEM,Ron Drake,175
+Posey,33-Smith E,U.S. House,8,DEM,Ron Drake,88
+Posey,34-Smith W,U.S. House,8,DEM,Ron Drake,96
+Posey,,U.S. House,8,DEM,Ron Drake,3490
+Posey,01-Bethel,U.S. House,8,LBT,Andrew Horning,3
+Posey,02-Black 1,U.S. House,8,LBT,Andrew Horning,20
+Posey,03-Black 2,U.S. House,8,LBT,Andrew Horning,11
+Posey,04-Black 3,U.S. House,8,LBT,Andrew Horning,8
+Posey,05-Black 4,U.S. House,8,LBT,Andrew Horning,6
+Posey,06-Black 5,U.S. House,8,LBT,Andrew Horning,10
+Posey,07-Black 6,U.S. House,8,LBT,Andrew Horning,20
+Posey,08-Black 7,U.S. House,8,LBT,Andrew Horning,24
+Posey,09-Black 8,U.S. House,8,LBT,Andrew Horning,15
+Posey,10-Black 9,U.S. House,8,LBT,Andrew Horning,12
+Posey,11-Black 10,U.S. House,8,LBT,Andrew Horning,6
+Posey,12-Black 11,U.S. House,8,LBT,Andrew Horning,13
+Posey,13-Black 12,U.S. House,8,LBT,Andrew Horning,18
+Posey,14-Black 13,U.S. House,8,LBT,Andrew Horning,10
+Posey,15-Center N,U.S. House,8,LBT,Andrew Horning,26
+Posey,16-Center S,U.S. House,8,LBT,Andrew Horning,6
+Posey,17-Harmony 1,U.S. House,8,LBT,Andrew Horning,4
+Posey,18-Harmony 2,U.S. House,8,LBT,Andrew Horning,11
+Posey,19-Harmony 3,U.S. House,8,LBT,Andrew Horning,6
+Posey,20-Lynn E,U.S. House,8,LBT,Andrew Horning,17
+Posey,21-Lynn W,U.S. House,8,LBT,Andrew Horning,13
+Posey,22-Marrs Center,U.S. House,8,LBT,Andrew Horning,31
+Posey,23-Marrs N,U.S. House,8,LBT,Andrew Horning,20
+Posey,24-Marrs S,U.S. House,8,LBT,Andrew Horning,27
+Posey,25-Marrs W,U.S. House,8,LBT,Andrew Horning,31
+Posey,26-Point,U.S. House,8,LBT,Andrew Horning,4
+Posey,27-Robb 1,U.S. House,8,LBT,Andrew Horning,11
+Posey,28-Robb 2,U.S. House,8,LBT,Andrew Horning,5
+Posey,29-Robb 3,U.S. House,8,LBT,Andrew Horning,10
+Posey,30-Robinson 1,U.S. House,8,LBT,Andrew Horning,14
+Posey,31-Robinson 2,U.S. House,8,LBT,Andrew Horning,33
+Posey,32-Robinson 3,U.S. House,8,LBT,Andrew Horning,38
+Posey,33-Smith E,U.S. House,8,LBT,Andrew Horning,11
+Posey,34-Smith W,U.S. House,8,LBT,Andrew Horning,6
+Posey,,U.S. House,8,LBT,Andrew Horning,500
+Posey,01-Bethel,U.S. House,8,,Write-ins,0
+Posey,02-Black 1,U.S. House,8,,Write-ins,0
+Posey,03-Black 2,U.S. House,8,,Write-ins,0
+Posey,04-Black 3,U.S. House,8,,Write-ins,0
+Posey,05-Black 4,U.S. House,8,,Write-ins,0
+Posey,06-Black 5,U.S. House,8,,Write-ins,0
+Posey,07-Black 6,U.S. House,8,,Write-ins,0
+Posey,08-Black 7,U.S. House,8,,Write-ins,0
+Posey,09-Black 8,U.S. House,8,,Write-ins,1
+Posey,10-Black 9,U.S. House,8,,Write-ins,0
+Posey,11-Black 10,U.S. House,8,,Write-ins,0
+Posey,12-Black 11,U.S. House,8,,Write-ins,0
+Posey,13-Black 12,U.S. House,8,,Write-ins,0
+Posey,14-Black 13,U.S. House,8,,Write-ins,0
+Posey,15-Center N,U.S. House,8,,Write-ins,0
+Posey,16-Center S,U.S. House,8,,Write-ins,0
+Posey,17-Harmony 1,U.S. House,8,,Write-ins,0
+Posey,18-Harmony 2,U.S. House,8,,Write-ins,0
+Posey,19-Harmony 3,U.S. House,8,,Write-ins,0
+Posey,20-Lynn E,U.S. House,8,,Write-ins,0
+Posey,21-Lynn W,U.S. House,8,,Write-ins,0
+Posey,22-Marrs Center,U.S. House,8,,Write-ins,0
+Posey,23-Marrs N,U.S. House,8,,Write-ins,1
+Posey,24-Marrs S,U.S. House,8,,Write-ins,0
+Posey,25-Marrs W,U.S. House,8,,Write-ins,1
+Posey,26-Point,U.S. House,8,,Write-ins,0
+Posey,27-Robb 1,U.S. House,8,,Write-ins,0
+Posey,28-Robb 2,U.S. House,8,,Write-ins,0
+Posey,29-Robb 3,U.S. House,8,,Write-ins,0
+Posey,30-Robinson 1,U.S. House,8,,Write-ins,0
+Posey,31-Robinson 2,U.S. House,8,,Write-ins,0
+Posey,32-Robinson 3,U.S. House,8,,Write-ins,0
+Posey,33-Smith E,U.S. House,8,,Write-ins,0
+Posey,34-Smith W,U.S. House,8,,Write-ins,0
+Posey,,U.S. House,8,,Write-ins,3
+Posey,01-Bethel,State House,64,REP,Thomas Washburne,115
+Posey,02-Black 1,State House,76,REP,Wendy McNamara,436
+Posey,03-Black 2,State House,76,REP,Wendy McNamara,147
+Posey,04-Black 3,State House,76,REP,Wendy McNamara,242
+Posey,05-Black 4,State House,76,REP,Wendy McNamara,131
+Posey,06-Black 5,State House,76,REP,Wendy McNamara,147
+Posey,07-Black 6,State House,76,REP,Wendy McNamara,243
+Posey,08-Black 7,State House,76,REP,Wendy McNamara,341
+Posey,09-Black 8,State House,76,REP,Wendy McNamara,316
+Posey,10-Black 9,State House,76,REP,Wendy McNamara,125
+Posey,11-Black 10,State House,76,REP,Wendy McNamara,196
+Posey,12-Black 11,State House,76,REP,Wendy McNamara,270
+Posey,13-Black 12,State House,76,REP,Wendy McNamara,424
+Posey,14-Black 13,State House,76,REP,Wendy McNamara,132
+Posey,15-Center N,State House,76,REP,Wendy McNamara,483
+Posey,16-Center S,State House,76,REP,Wendy McNamara,175
+Posey,17-Harmony 1,State House,76,REP,Wendy McNamara,141
+Posey,18-Harmony 2,State House,76,REP,Wendy McNamara,263
+Posey,19-Harmony 3,State House,76,REP,Wendy McNamara,138
+Posey,20-Lynn E,State House,76,REP,Wendy McNamara,255
+Posey,21-Lynn W,State House,76,REP,Wendy McNamara,109
+Posey,22-Marrs Center,State House,76,REP,Wendy McNamara,664
+Posey,23-Marrs N,State House,76,REP,Wendy McNamara,469
+Posey,24-Marrs S,State House,76,REP,Wendy McNamara,471
+Posey,25-Marrs W,State House,76,REP,Wendy McNamara,658
+Posey,26-Point,State House,76,REP,Wendy McNamara,137
+Posey,27-Robb 1,State House,64,REP,Thomas Washburne ,321
+Posey,28-Robb 2,State House,64,REP,Thomas Washburne,251
+Posey,29-Robb 3,State House,64,REP,Thomas Washburne,163
+Posey,30-Robinson 1,State House,76,REP,Wendy McNamara,379
+Posey,31-Robinson 2,State House,76,REP,Wendy McNamara,612
+Posey,32-Robinson 3,State House,76,REP,Wendy McNamara,726
+Posey,33-Smith E,State House,64,REP,Thomas Washburne,176
+Posey,34-Smith W,State House,64,REP,Thomas Washburne ,235
+Posey,,State House,64,REP,Thomas Washburne,1261
+Posey,,State House,76,REP,Wendy McNamara,8830

@@ -1,0 +1,583 @@
+county,precinct,office,district,party,candidate,votes
+Steuben,Millgrove,Voters,,,Registered,1094
+Steuben,Jamestown  1,Voters,,,Registered,1196
+Steuben,Jamestown  2,Voters,,,Registered,1499
+Steuben,Fremont  1,Voters,,,Registered,755
+Steuben,Fremont  2,Voters,,,Registered,577
+Steuben,Fremont  3,Voters,,,Registered,592
+Steuben,Clear  Lake,Voters,,,Registered,644
+Steuben,York,Voters,,,Registered,493
+Steuben,Scott,Voters,,,Registered,797
+Steuben,Pleasant  1,Voters,,,Registered,1152
+Steuben,Pleasant  2,Voters,,,Registered,1407
+Steuben,Pleasant  3,Voters,,,Registered,1477
+Steuben,Pleasant  4,Voters,,,Registered,954
+Steuben,Pleasant  5,Voters,,,Registered,1273
+Steuben,Pleasant  6,Voters,,,Registered,1196
+Steuben,Pleasant  7,Voters,,,Registered,1553
+Steuben,Jackson,Voters,,,Registered,1177
+Steuben,Salem,Voters,,,Registered,1392
+Steuben,Steuben  1,Voters,,,Registered,1025
+Steuben,Steuben  2,Voters,,,Registered,796
+Steuben,Otsego  1,Voters,,,Registered,992
+Steuben,Otsego  2,Voters,,,Registered,827
+Steuben,Richland,Voters,,,Registered,239
+Steuben,,Voters,,,Registered,23107
+Steuben,Millgrove,Voters,,,Ballots Cast,739
+Steuben,Jamestown  1,Voters,,,Ballots Cast,866
+Steuben,Jamestown  2,Voters,,,Ballots Cast,1031
+Steuben,Fremont  1,Voters,,,Ballots Cast,399
+Steuben,Fremont  2,Voters,,,Ballots Cast,336
+Steuben,Fremont  3,Voters,,,Ballots Cast,401
+Steuben,Clear  Lake,Voters,,,Ballots Cast,460
+Steuben,York,Voters,,,Ballots Cast,322
+Steuben,Scott,Voters,,,Ballots Cast,538
+Steuben,Pleasant  1,Voters,,,Ballots Cast,706
+Steuben,Pleasant  2,Voters,,,Ballots Cast,858
+Steuben,Pleasant  3,Voters,,,Ballots Cast,726
+Steuben,Pleasant  4,Voters,,,Ballots Cast,538
+Steuben,Pleasant  5,Voters,,,Ballots Cast,719
+Steuben,Pleasant  6,Voters,,,Ballots Cast,835
+Steuben,Pleasant  7,Voters,,,Ballots Cast,1076
+Steuben,Jackson,Voters,,,Ballots Cast,758
+Steuben,Salem,Voters,,,Ballots Cast,949
+Steuben,Steuben  1,Voters,,,Ballots Cast,694
+Steuben,Steuben  2,Voters,,,Ballots Cast,506
+Steuben,Otsego  1,Voters,,,Ballots Cast,702
+Steuben,Otsego  2,Voters,,,Ballots Cast,587
+Steuben,Richland,Voters,,,Ballots Cast,162
+Steuben,,Voters,,,Ballots Cast,14908
+Steuben,Millgrove,President,,REP,Donald Trump,510
+Steuben,Jamestown  1,President,,REP,Donald Trump,565
+Steuben,Jamestown  2,President,,REP,Donald Trump,706
+Steuben,Fremont  1,President,,REP,Donald Trump,251
+Steuben,Fremont  2,President,,REP,Donald Trump,217
+Steuben,Fremont  3,President,,REP,Donald Trump,285
+Steuben,Clear  Lake,President,,REP,Donald Trump,346
+Steuben,York,President,,REP,Donald Trump,237
+Steuben,Scott,President,,REP,Donald Trump,385
+Steuben,Pleasant  1,President,,REP,Donald Trump,416
+Steuben,Pleasant  2,President,,REP,Donald Trump,534
+Steuben,Pleasant  3,President,,REP,Donald Trump,426
+Steuben,Pleasant  4,President,,REP,Donald Trump,307
+Steuben,Pleasant  5,President,,REP,Donald Trump,474
+Steuben,Pleasant  6,President,,REP,Donald Trump,575
+Steuben,Pleasant  7,President,,REP,Donald Trump,757
+Steuben,Jackson,President,,REP,Donald Trump,539
+Steuben,Salem,President,,REP,Donald Trump,739
+Steuben,Steuben  1,President,,REP,Donald Trump,459
+Steuben,Steuben  2,President,,REP,Donald Trump,355
+Steuben,Otsego  1,President,,REP,Donald Trump,485
+Steuben,Otsego  2,President,,REP,Donald Trump,432
+Steuben,Richland,President,,REP,Donald Trump,133
+Steuben,,President,,REP,Donald Trump,10133
+Steuben,Millgrove,President,,DEM,Hillary Clinton,178
+Steuben,Jamestown  1,President,,DEM,Hillary Clinton,242
+Steuben,Jamestown  2,President,,DEM,Hillary Clinton,260
+Steuben,Fremont  1,President,,DEM,Hillary Clinton,116
+Steuben,Fremont  2,President,,DEM,Hillary Clinton,98
+Steuben,Fremont  3,President,,DEM,Hillary Clinton,89
+Steuben,Clear  Lake,President,,DEM,Hillary Clinton,91
+Steuben,York,President,,DEM,Hillary Clinton,63
+Steuben,Scott,President,,DEM,Hillary Clinton,119
+Steuben,Pleasant  1,President,,DEM,Hillary Clinton,226
+Steuben,Pleasant  2,President,,DEM,Hillary Clinton,261
+Steuben,Pleasant  3,President,,DEM,Hillary Clinton,227
+Steuben,Pleasant  4,President,,DEM,Hillary Clinton,180
+Steuben,Pleasant  5,President,,DEM,Hillary Clinton,192
+Steuben,Pleasant  6,President,,DEM,Hillary Clinton,205
+Steuben,Pleasant  7,President,,DEM,Hillary Clinton,250
+Steuben,Jackson,President,,DEM,Hillary Clinton,168
+Steuben,Salem,President,,DEM,Hillary Clinton,153
+Steuben,Steuben  1,President,,DEM,Hillary Clinton,181
+Steuben,Steuben  2,President,,DEM,Hillary Clinton,119
+Steuben,Otsego  1,President,,DEM,Hillary Clinton,187
+Steuben,Otsego  2,President,,DEM,Hillary Clinton,116
+Steuben,Richland,President,,DEM,Hillary Clinton,23
+Steuben,,President,,DEM,Hillary Clinton,3744
+Steuben,Millgrove,President,,LBT,Gary Johnson,35
+Steuben,Jamestown  1,President,,LBT,Gary Johnson,42
+Steuben,Jamestown  2,President,,LBT,Gary Johnson,42
+Steuben,Fremont  1,President,,LBT,Gary Johnson,21
+Steuben,Fremont  2,President,,LBT,Gary Johnson,14
+Steuben,Fremont  3,President,,LBT,Gary Johnson,16
+Steuben,Clear  Lake,President,,LBT,Gary Johnson,8
+Steuben,York,President,,LBT,Gary Johnson,20
+Steuben,Scott,President,,LBT,Gary Johnson,24
+Steuben,Pleasant  1,President,,LBT,Gary Johnson,42
+Steuben,Pleasant  2,President,,LBT,Gary Johnson,38
+Steuben,Pleasant  3,President,,LBT,Gary Johnson,40
+Steuben,Pleasant  4,President,,LBT,Gary Johnson,33
+Steuben,Pleasant  5,President,,LBT,Gary Johnson,35
+Steuben,Pleasant  6,President,,LBT,Gary Johnson,35
+Steuben,Pleasant  7,President,,LBT,Gary Johnson,51
+Steuben,Jackson,President,,LBT,Gary Johnson,31
+Steuben,Salem,President,,LBT,Gary Johnson,34
+Steuben,Steuben  1,President,,LBT,Gary Johnson,34
+Steuben,Steuben  2,President,,LBT,Gary Johnson,23
+Steuben,Otsego  1,President,,LBT,Gary Johnson,18
+Steuben,Otsego  2,President,,LBT,Gary Johnson,25
+Steuben,Richland,President,,LBT,Gary Johnson,1
+Steuben,,President,,LBT,Gary Johnson,662
+Steuben,Millgrove,President,,,Write-ins,3
+Steuben,Jamestown  1,President,,,Write-ins,4
+Steuben,Jamestown  2,President,,,Write-ins,12
+Steuben,Fremont  1,President,,,Write-ins,5
+Steuben,Fremont  2,President,,,Write-ins,4
+Steuben,Fremont  3,President,,,Write-ins,5
+Steuben,Clear  Lake,President,,,Write-ins,8
+Steuben,York,President,,,Write-ins,0
+Steuben,Scott,President,,,Write-ins,7
+Steuben,Pleasant  1,President,,,Write-ins,16
+Steuben,Pleasant  2,President,,,Write-ins,9
+Steuben,Pleasant  3,President,,,Write-ins,18
+Steuben,Pleasant  4,President,,,Write-ins,12
+Steuben,Pleasant  5,President,,,Write-ins,9
+Steuben,Pleasant  6,President,,,Write-ins,11
+Steuben,Pleasant  7,President,,,Write-ins,8
+Steuben,Jackson,President,,,Write-ins,8
+Steuben,Salem,President,,,Write-ins,9
+Steuben,Steuben  1,President,,,Write-ins,10
+Steuben,Steuben  2,President,,,Write-ins,3
+Steuben,Otsego  1,President,,,Write-ins,5
+Steuben,Otsego  2,President,,,Write-ins,5
+Steuben,Richland,President,,,Write-ins,4
+Steuben,,President,,,Write-ins,175
+Steuben,Millgrove,U.S. Senate,,REP,Todd Young,456
+Steuben,Jamestown  1,U.S. Senate,,REP,Todd Young,520
+Steuben,Jamestown  2,U.S. Senate,,REP,Todd Young,619
+Steuben,Fremont  1,U.S. Senate,,REP,Todd Young,220
+Steuben,Fremont  2,U.S. Senate,,REP,Todd Young,187
+Steuben,Fremont  3,U.S. Senate,,REP,Todd Young,260
+Steuben,Clear  Lake,U.S. Senate,,REP,Todd Young,325
+Steuben,York,U.S. Senate,,REP,Todd Young,213
+Steuben,Scott,U.S. Senate,,REP,Todd Young,345
+Steuben,Pleasant  1,U.S. Senate,,REP,Todd Young,379
+Steuben,Pleasant  2,U.S. Senate,,REP,Todd Young,463
+Steuben,Pleasant  3,U.S. Senate,,REP,Todd Young,374
+Steuben,Pleasant  4,U.S. Senate,,REP,Todd Young,285
+Steuben,Pleasant  5,U.S. Senate,,REP,Todd Young,419
+Steuben,Pleasant  6,U.S. Senate,,REP,Todd Young,533
+Steuben,Pleasant  7,U.S. Senate,,REP,Todd Young,697
+Steuben,Jackson,U.S. Senate,,REP,Todd Young,478
+Steuben,Salem,U.S. Senate,,REP,Todd Young,640
+Steuben,Steuben  1,U.S. Senate,,REP,Todd Young,396
+Steuben,Steuben  2,U.S. Senate,,REP,Todd Young,321
+Steuben,Otsego  1,U.S. Senate,,REP,Todd Young,443
+Steuben,Otsego  2,U.S. Senate,,REP,Todd Young,387
+Steuben,Richland,U.S. Senate,,REP,Todd Young,118
+Steuben,,U.S. Senate,,REP,Todd Young,9078
+Steuben,Millgrove,U.S. Senate,,DEM,Evan Bayh,218
+Steuben,Jamestown  1,U.S. Senate,,DEM,Evan Bayh,281
+Steuben,Jamestown  2,U.S. Senate,,DEM,Evan Bayh,314
+Steuben,Fremont  1,U.S. Senate,,DEM,Evan Bayh,130
+Steuben,Fremont  2,U.S. Senate,,DEM,Evan Bayh,116
+Steuben,Fremont  3,U.S. Senate,,DEM,Evan Bayh,113
+Steuben,Clear  Lake,U.S. Senate,,DEM,Evan Bayh,107
+Steuben,York,U.S. Senate,,DEM,Evan Bayh,87
+Steuben,Scott,U.S. Senate,,DEM,Evan Bayh,145
+Steuben,Pleasant  1,U.S. Senate,,DEM,Evan Bayh,261
+Steuben,Pleasant  2,U.S. Senate,,DEM,Evan Bayh,326
+Steuben,Pleasant  3,U.S. Senate,,DEM,Evan Bayh,271
+Steuben,Pleasant  4,U.S. Senate,,DEM,Evan Bayh,189
+Steuben,Pleasant  5,U.S. Senate,,DEM,Evan Bayh,231
+Steuben,Pleasant  6,U.S. Senate,,DEM,Evan Bayh,238
+Steuben,Pleasant  7,U.S. Senate,,DEM,Evan Bayh,302
+Steuben,Jackson,U.S. Senate,,DEM,Evan Bayh,220
+Steuben,Salem,U.S. Senate,,DEM,Evan Bayh,231
+Steuben,Steuben  1,U.S. Senate,,DEM,Evan Bayh,234
+Steuben,Steuben  2,U.S. Senate,,DEM,Evan Bayh,133
+Steuben,Otsego  1,U.S. Senate,,DEM,Evan Bayh,210
+Steuben,Otsego  2,U.S. Senate,,DEM,Evan Bayh,162
+Steuben,Richland,U.S. Senate,,DEM,Evan Bayh,27
+Steuben,,U.S. Senate,,DEM,Evan Bayh,4546
+Steuben,Millgrove,U.S. Senate,,LBT,Lucy Brenton,45
+Steuben,Jamestown  1,U.S. Senate,,LBT,Lucy Brenton,51
+Steuben,Jamestown  2,U.S. Senate,,LBT,Lucy Brenton,77
+Steuben,Fremont  1,U.S. Senate,,LBT,Lucy Brenton,37
+Steuben,Fremont  2,U.S. Senate,,LBT,Lucy Brenton,23
+Steuben,Fremont  3,U.S. Senate,,LBT,Lucy Brenton,22
+Steuben,Clear  Lake,U.S. Senate,,LBT,Lucy Brenton,19
+Steuben,York,U.S. Senate,,LBT,Lucy Brenton,19
+Steuben,Scott,U.S. Senate,,LBT,Lucy Brenton,41
+Steuben,Pleasant  1,U.S. Senate,,LBT,Lucy Brenton,51
+Steuben,Pleasant  2,U.S. Senate,,LBT,Lucy Brenton,48
+Steuben,Pleasant  3,U.S. Senate,,LBT,Lucy Brenton,62
+Steuben,Pleasant  4,U.S. Senate,,LBT,Lucy Brenton,53
+Steuben,Pleasant  5,U.S. Senate,,LBT,Lucy Brenton,57
+Steuben,Pleasant  6,U.S. Senate,,LBT,Lucy Brenton,56
+Steuben,Pleasant  7,U.S. Senate,,LBT,Lucy Brenton,61
+Steuben,Jackson,U.S. Senate,,LBT,Lucy Brenton,49
+Steuben,Salem,U.S. Senate,,LBT,Lucy Brenton,60
+Steuben,Steuben  1,U.S. Senate,,LBT,Lucy Brenton,58
+Steuben,Steuben  2,U.S. Senate,,LBT,Lucy Brenton,42
+Steuben,Otsego  1,U.S. Senate,,LBT,Lucy Brenton,38
+Steuben,Otsego  2,U.S. Senate,,LBT,Lucy Brenton,34
+Steuben,Richland,U.S. Senate,,LBT,Lucy Brenton,14
+Steuben,,U.S. Senate,,LBT,Lucy Brenton,1017
+Steuben,Millgrove,U.S. Senate,,,Write-ins,0
+Steuben,Jamestown  1,U.S. Senate,,,Write-ins,0
+Steuben,Jamestown  2,U.S. Senate,,,Write-ins,1
+Steuben,Fremont  1,U.S. Senate,,,Write-ins,1
+Steuben,Fremont  2,U.S. Senate,,,Write-ins,1
+Steuben,Fremont  3,U.S. Senate,,,Write-ins,1
+Steuben,Clear  Lake,U.S. Senate,,,Write-ins,0
+Steuben,York,U.S. Senate,,,Write-ins,0
+Steuben,Scott,U.S. Senate,,,Write-ins,0
+Steuben,Pleasant  1,U.S. Senate,,,Write-ins,1
+Steuben,Pleasant  2,U.S. Senate,,,Write-ins,0
+Steuben,Pleasant  3,U.S. Senate,,,Write-ins,1
+Steuben,Pleasant  4,U.S. Senate,,,Write-ins,0
+Steuben,Pleasant  5,U.S. Senate,,,Write-ins,1
+Steuben,Pleasant  6,U.S. Senate,,,Write-ins,0
+Steuben,Pleasant  7,U.S. Senate,,,Write-ins,0
+Steuben,Jackson,U.S. Senate,,,Write-ins,0
+Steuben,Salem,U.S. Senate,,,Write-ins,0
+Steuben,Steuben  1,U.S. Senate,,,Write-ins,1
+Steuben,Steuben  2,U.S. Senate,,,Write-ins,1
+Steuben,Otsego  1,U.S. Senate,,,Write-ins,1
+Steuben,Otsego  2,U.S. Senate,,,Write-ins,0
+Steuben,Richland,U.S. Senate,,,Write-ins,1
+Steuben,,U.S. Senate,,,Write-ins,11
+Steuben,Millgrove,Governor,,REP,Eric Holcomb,459
+Steuben,Jamestown  1,Governor,,REP,Eric Holcomb,538
+Steuben,Jamestown  2,Governor,,REP,Eric Holcomb,618
+Steuben,Fremont  1,Governor,,REP,Eric Holcomb,217
+Steuben,Fremont  2,Governor,,REP,Eric Holcomb,191
+Steuben,Fremont  3,Governor,,REP,Eric Holcomb,249
+Steuben,Clear  Lake,Governor,,REP,Eric Holcomb,320
+Steuben,York,Governor,,REP,Eric Holcomb,214
+Steuben,Scott,Governor,,REP,Eric Holcomb,346
+Steuben,Pleasant  1,Governor,,REP,Eric Holcomb,380
+Steuben,Pleasant  2,Governor,,REP,Eric Holcomb,469
+Steuben,Pleasant  3,Governor,,REP,Eric Holcomb,393
+Steuben,Pleasant  4,Governor,,REP,Eric Holcomb,282
+Steuben,Pleasant  5,Governor,,REP,Eric Holcomb,436
+Steuben,Pleasant  6,Governor,,REP,Eric Holcomb,555
+Steuben,Pleasant  7,Governor,,REP,Eric Holcomb,692
+Steuben,Jackson,Governor,,REP,Eric Holcomb,501
+Steuben,Salem,Governor,,REP,Eric Holcomb,659
+Steuben,Steuben  1,Governor,,REP,Eric Holcomb,400
+Steuben,Steuben  2,Governor,,REP,Eric Holcomb,333
+Steuben,Otsego  1,Governor,,REP,Eric Holcomb,448
+Steuben,Otsego  2,Governor,,REP,Eric Holcomb,364
+Steuben,Richland,Governor,,REP,Eric Holcomb,116
+Steuben,,Governor,,REP,Eric Holcomb,9180
+Steuben,Millgrove,Governor,,DEM,John Gregg,235
+Steuben,Jamestown  1,Governor,,DEM,John Gregg,298
+Steuben,Jamestown  2,Governor,,DEM,John Gregg,347
+Steuben,Fremont  1,Governor,,DEM,John Gregg,161
+Steuben,Fremont  2,Governor,,DEM,John Gregg,128
+Steuben,Fremont  3,Governor,,DEM,John Gregg,132
+Steuben,Clear  Lake,Governor,,DEM,John Gregg,115
+Steuben,York,Governor,,DEM,John Gregg,94
+Steuben,Scott,Governor,,DEM,John Gregg,166
+Steuben,Pleasant  1,Governor,,DEM,John Gregg,277
+Steuben,Pleasant  2,Governor,,DEM,John Gregg,352
+Steuben,Pleasant  3,Governor,,DEM,John Gregg,278
+Steuben,Pleasant  4,Governor,,DEM,John Gregg,217
+Steuben,Pleasant  5,Governor,,DEM,John Gregg,243
+Steuben,Pleasant  6,Governor,,DEM,John Gregg,246
+Steuben,Pleasant  7,Governor,,DEM,John Gregg,330
+Steuben,Jackson,Governor,,DEM,John Gregg,214
+Steuben,Salem,Governor,,DEM,John Gregg,238
+Steuben,Steuben  1,Governor,,DEM,John Gregg,256
+Steuben,Steuben  2,Governor,,DEM,John Gregg,133
+Steuben,Otsego  1,Governor,,DEM,John Gregg,228
+Steuben,Otsego  2,Governor,,DEM,John Gregg,196
+Steuben,Richland,Governor,,DEM,John Gregg,33
+Steuben,,Governor,,DEM,John Gregg,4917
+Steuben,Millgrove,Governor,,LBT,Rex Bell,22
+Steuben,Jamestown  1,Governor,,LBT,Rex Bell,18
+Steuben,Jamestown  2,Governor,,LBT,Rex Bell,42
+Steuben,Fremont  1,Governor,,LBT,Rex Bell,10
+Steuben,Fremont  2,Governor,,LBT,Rex Bell,9
+Steuben,Fremont  3,Governor,,LBT,Rex Bell,13
+Steuben,Clear  Lake,Governor,,LBT,Rex Bell,13
+Steuben,York,Governor,,LBT,Rex Bell,8
+Steuben,Scott,Governor,,LBT,Rex Bell,18
+Steuben,Pleasant  1,Governor,,LBT,Rex Bell,32
+Steuben,Pleasant  2,Governor,,LBT,Rex Bell,16
+Steuben,Pleasant  3,Governor,,LBT,Rex Bell,34
+Steuben,Pleasant  4,Governor,,LBT,Rex Bell,23
+Steuben,Pleasant  5,Governor,,LBT,Rex Bell,29
+Steuben,Pleasant  6,Governor,,LBT,Rex Bell,21
+Steuben,Pleasant  7,Governor,,LBT,Rex Bell,32
+Steuben,Jackson,Governor,,LBT,Rex Bell,31
+Steuben,Salem,Governor,,LBT,Rex Bell,34
+Steuben,Steuben  1,Governor,,LBT,Rex Bell,28
+Steuben,Steuben  2,Governor,,LBT,Rex Bell,27
+Steuben,Otsego  1,Governor,,LBT,Rex Bell,18
+Steuben,Otsego  2,Governor,,LBT,Rex Bell,23
+Steuben,Richland,Governor,,LBT,Rex Bell,6
+Steuben,,Governor,,LBT,Rex Bell,507
+Steuben,Steuben  1,Governor,,,Write-ins,1
+Steuben,Millgrove,Attorney General,,REP,Curtis Hill,545
+Steuben,Jamestown  1,Attorney General,,REP,Curtis Hill,630
+Steuben,Jamestown  2,Attorney General,,REP,Curtis Hill,747
+Steuben,Fremont  1,Attorney General,,REP,Curtis Hill,283
+Steuben,Fremont  2,Attorney General,,REP,Curtis Hill,236
+Steuben,Fremont  3,Attorney General,,REP,Curtis Hill,296
+Steuben,Clear  Lake,Attorney General,,REP,Curtis Hill,363
+Steuben,York,Attorney General,,REP,Curtis Hill,247
+Steuben,Scott,Attorney General,,REP,Curtis Hill,412
+Steuben,Pleasant  1,Attorney General,,REP,Curtis Hill,455
+Steuben,Pleasant  2,Attorney General,,REP,Curtis Hill,589
+Steuben,Pleasant  3,Attorney General,,REP,Curtis Hill,498
+Steuben,Pleasant  4,Attorney General,,REP,Curtis Hill,341
+Steuben,Pleasant  5,Attorney General,,REP,Curtis Hill,515
+Steuben,Pleasant  6,Attorney General,,REP,Curtis Hill,628
+Steuben,Pleasant  7,Attorney General,,REP,Curtis Hill,811
+Steuben,Jackson,Attorney General,,REP,Curtis Hill,558
+Steuben,Salem,Attorney General,,REP,Curtis Hill,764
+Steuben,Steuben  1,Attorney General,,REP,Curtis Hill,487
+Steuben,Steuben  2,Attorney General,,REP,Curtis Hill,372
+Steuben,Otsego  1,Attorney General,,REP,Curtis Hill,537
+Steuben,Otsego  2,Attorney General,,REP,Curtis Hill,462
+Steuben,Richland,Attorney General,,REP,Curtis Hill,132
+Steuben,,Attorney General,,REP,Curtis Hill,10908
+Steuben,Millgrove,Attorney General,,DEM,Lorenzo Arredondo,132
+Steuben,Jamestown  1,Attorney General,,DEM,Lorenzo Arredondo,191
+Steuben,Jamestown  2,Attorney General,,DEM,Lorenzo Arredondo,235
+Steuben,Fremont  1,Attorney General,,DEM,Lorenzo Arredondo,105
+Steuben,Fremont  2,Attorney General,,DEM,Lorenzo Arredondo,77
+Steuben,Fremont  3,Attorney General,,DEM,Lorenzo Arredondo,83
+Steuben,Clear  Lake,Attorney General,,DEM,Lorenzo Arredondo,75
+Steuben,York,Attorney General,,DEM,Lorenzo Arredondo,62
+Steuben,Scott,Attorney General,,DEM,Lorenzo Arredondo,102
+Steuben,Pleasant  1,Attorney General,,DEM,Lorenzo Arredondo,210
+Steuben,Pleasant  2,Attorney General,,DEM,Lorenzo Arredondo,217
+Steuben,Pleasant  3,Attorney General,,DEM,Lorenzo Arredondo,187
+Steuben,Pleasant  4,Attorney General,,DEM,Lorenzo Arredondo,174
+Steuben,Pleasant  5,Attorney General,,DEM,Lorenzo Arredondo,172
+Steuben,Pleasant  6,Attorney General,,DEM,Lorenzo Arredondo,164
+Steuben,Pleasant  7,Attorney General,,DEM,Lorenzo Arredondo,215
+Steuben,Jackson,Attorney General,,DEM,Lorenzo Arredondo,166
+Steuben,Salem,Attorney General,,DEM,Lorenzo Arredondo,154
+Steuben,Steuben  1,Attorney General,,DEM,Lorenzo Arredondo,169
+Steuben,Steuben  2,Attorney General,,DEM,Lorenzo Arredondo,105
+Steuben,Otsego  1,Attorney General,,DEM,Lorenzo Arredondo,138
+Steuben,Otsego  2,Attorney General,,DEM,Lorenzo Arredondo,107
+Steuben,Richland,Attorney General,,DEM,Lorenzo Arredondo,22
+Steuben,,Attorney General,,DEM,Lorenzo Arredondo,3282
+Steuben,Millgrove,Public Instruction,,REP,Jennifer McCormick,430
+Steuben,Jamestown  1,Public Instruction,,REP,Jennifer McCormick,492
+Steuben,Jamestown  2,Public Instruction,,REP,Jennifer McCormick,617
+Steuben,Fremont  1,Public Instruction,,REP,Jennifer McCormick,215
+Steuben,Fremont  2,Public Instruction,,REP,Jennifer McCormick,188
+Steuben,Fremont  3,Public Instruction,,REP,Jennifer McCormick,248
+Steuben,Clear  Lake,Public Instruction,,REP,Jennifer McCormick,319
+Steuben,York,Public Instruction,,REP,Jennifer McCormick,199
+Steuben,Scott,Public Instruction,,REP,Jennifer McCormick,338
+Steuben,Pleasant  1,Public Instruction,,REP,Jennifer McCormick,364
+Steuben,Pleasant  2,Public Instruction,,REP,Jennifer McCormick,463
+Steuben,Pleasant  3,Public Instruction,,REP,Jennifer McCormick,387
+Steuben,Pleasant  4,Public Instruction,,REP,Jennifer McCormick,274
+Steuben,Pleasant  5,Public Instruction,,REP,Jennifer McCormick,411
+Steuben,Pleasant  6,Public Instruction,,REP,Jennifer McCormick,534
+Steuben,Pleasant  7,Public Instruction,,REP,Jennifer McCormick,659
+Steuben,Jackson,Public Instruction,,REP,Jennifer McCormick,464
+Steuben,Salem,Public Instruction,,REP,Jennifer McCormick,626
+Steuben,Steuben  1,Public Instruction,,REP,Jennifer McCormick,404
+Steuben,Steuben  2,Public Instruction,,REP,Jennifer McCormick,324
+Steuben,Otsego  1,Public Instruction,,REP,Jennifer McCormick,430
+Steuben,Otsego  2,Public Instruction,,REP,Jennifer McCormick,371
+Steuben,Richland,Public Instruction,,REP,Jennifer McCormick,110
+Steuben,,Public Instruction,,REP,Jennifer McCormick,8867
+Steuben,Millgrove,Public Instruction,,DEM,Glenda Ritz,265
+Steuben,Jamestown  1,Public Instruction,,DEM,Glenda Ritz,333
+Steuben,Jamestown  2,Public Instruction,,DEM,Glenda Ritz,373
+Steuben,Fremont  1,Public Instruction,,DEM,Glenda Ritz,172
+Steuben,Fremont  2,Public Instruction,,DEM,Glenda Ritz,134
+Steuben,Fremont  3,Public Instruction,,DEM,Glenda Ritz,134
+Steuben,Clear  Lake,Public Instruction,,DEM,Glenda Ritz,123
+Steuben,York,Public Instruction,,DEM,Glenda Ritz,111
+Steuben,Scott,Public Instruction,,DEM,Glenda Ritz,183
+Steuben,Pleasant  1,Public Instruction,,DEM,Glenda Ritz,317
+Steuben,Pleasant  2,Public Instruction,,DEM,Glenda Ritz,368
+Steuben,Pleasant  3,Public Instruction,,DEM,Glenda Ritz,301
+Steuben,Pleasant  4,Public Instruction,,DEM,Glenda Ritz,246
+Steuben,Pleasant  5,Public Instruction,,DEM,Glenda Ritz,277
+Steuben,Pleasant  6,Public Instruction,,DEM,Glenda Ritz,268
+Steuben,Pleasant  7,Public Instruction,,DEM,Glenda Ritz,372
+Steuben,Jackson,Public Instruction,,DEM,Glenda Ritz,263
+Steuben,Salem,Public Instruction,,DEM,Glenda Ritz,291
+Steuben,Steuben  1,Public Instruction,,DEM,Glenda Ritz,271
+Steuben,Steuben  2,Public Instruction,,DEM,Glenda Ritz,159
+Steuben,Otsego  1,Public Instruction,,DEM,Glenda Ritz,246
+Steuben,Otsego  2,Public Instruction,,DEM,Glenda Ritz,202
+Steuben,Richland,Public Instruction,,DEM,Glenda Ritz,42
+Steuben,,Public Instruction,,DEM,Glenda Ritz,5451
+Steuben,Millgrove,U.S. House,3,REP,Jim Banks,525
+Steuben,Jamestown  1,U.S. House,3,REP,Jim Banks,608
+Steuben,Jamestown  2,U.S. House,3,REP,Jim Banks,717
+Steuben,Fremont  1,U.S. House,3,REP,Jim Banks,265
+Steuben,Fremont  2,U.S. House,3,REP,Jim Banks,230
+Steuben,Fremont  3,U.S. House,3,REP,Jim Banks,293
+Steuben,Clear  Lake,U.S. House,3,REP,Jim Banks,351
+Steuben,York,U.S. House,3,REP,Jim Banks,252
+Steuben,Scott,U.S. House,3,REP,Jim Banks,400
+Steuben,Pleasant  1,U.S. House,3,REP,Jim Banks,431
+Steuben,Pleasant  2,U.S. House,3,REP,Jim Banks,579
+Steuben,Pleasant  3,U.S. House,3,REP,Jim Banks,455
+Steuben,Pleasant  4,U.S. House,3,REP,Jim Banks,329
+Steuben,Pleasant  5,U.S. House,3,REP,Jim Banks,493
+Steuben,Pleasant  6,U.S. House,3,REP,Jim Banks,632
+Steuben,Pleasant  7,U.S. House,3,REP,Jim Banks,796
+Steuben,Jackson,U.S. House,3,REP,Jim Banks,544
+Steuben,Salem,U.S. House,3,REP,Jim Banks,749
+Steuben,Steuben  1,U.S. House,3,REP,Jim Banks,476
+Steuben,Steuben  2,U.S. House,3,REP,Jim Banks,367
+Steuben,Otsego  1,U.S. House,3,REP,Jim Banks,518
+Steuben,Otsego  2,U.S. House,3,REP,Jim Banks,450
+Steuben,Richland,U.S. House,3,REP,Jim Banks,131
+Steuben,,U.S. House,3,REP,Jim Banks,10591
+Steuben,Millgrove,U.S. House,3,DEM,Tommy Schrader,133
+Steuben,Jamestown  1,U.S. House,3,DEM,Tommy Schrader,167
+Steuben,Jamestown  2,U.S. House,3,DEM,Tommy Schrader,204
+Steuben,Fremont  1,U.S. House,3,DEM,Tommy Schrader,99
+Steuben,Fremont  2,U.S. House,3,DEM,Tommy Schrader,70
+Steuben,Fremont  3,U.S. House,3,DEM,Tommy Schrader,70
+Steuben,Clear  Lake,U.S. House,3,DEM,Tommy Schrader,64
+Steuben,York,U.S. House,3,DEM,Tommy Schrader,44
+Steuben,Scott,U.S. House,3,DEM,Tommy Schrader,87
+Steuben,Pleasant  1,U.S. House,3,DEM,Tommy Schrader,183
+Steuben,Pleasant  2,U.S. House,3,DEM,Tommy Schrader,194
+Steuben,Pleasant  3,U.S. House,3,DEM,Tommy Schrader,174
+Steuben,Pleasant  4,U.S. House,3,DEM,Tommy Schrader,142
+Steuben,Pleasant  5,U.S. House,3,DEM,Tommy Schrader,146
+Steuben,Pleasant  6,U.S. House,3,DEM,Tommy Schrader,130
+Steuben,Pleasant  7,U.S. House,3,DEM,Tommy Schrader,184
+Steuben,Jackson,U.S. House,3,DEM,Tommy Schrader,149
+Steuben,Salem,U.S. House,3,DEM,Tommy Schrader,133
+Steuben,Steuben  1,U.S. House,3,DEM,Tommy Schrader,143
+Steuben,Steuben  2,U.S. House,3,DEM,Tommy Schrader,81
+Steuben,Otsego  1,U.S. House,3,DEM,Tommy Schrader,131
+Steuben,Otsego  2,U.S. House,3,DEM,Tommy Schrader,80
+Steuben,Richland,U.S. House,3,DEM,Tommy Schrader,22
+Steuben,,U.S. House,3,DEM,Tommy Schrader,2830
+Steuben,Millgrove,U.S. House,3,LBT,Pepper Snyder,38
+Steuben,Jamestown  1,U.S. House,3,LBT,Pepper Snyder,51
+Steuben,Jamestown  2,U.S. House,3,LBT,Pepper Snyder,68
+Steuben,Fremont  1,U.S. House,3,LBT,Pepper Snyder,25
+Steuben,Fremont  2,U.S. House,3,LBT,Pepper Snyder,22
+Steuben,Fremont  3,U.S. House,3,LBT,Pepper Snyder,21
+Steuben,Clear  Lake,U.S. House,3,LBT,Pepper Snyder,24
+Steuben,York,U.S. House,3,LBT,Pepper Snyder,15
+Steuben,Scott,U.S. House,3,LBT,Pepper Snyder,29
+Steuben,Pleasant  1,U.S. House,3,LBT,Pepper Snyder,64
+Steuben,Pleasant  2,U.S. House,3,LBT,Pepper Snyder,43
+Steuben,Pleasant  3,U.S. House,3,LBT,Pepper Snyder,58
+Steuben,Pleasant  4,U.S. House,3,LBT,Pepper Snyder,48
+Steuben,Pleasant  5,U.S. House,3,LBT,Pepper Snyder,53
+Steuben,Pleasant  6,U.S. House,3,LBT,Pepper Snyder,44
+Steuben,Pleasant  7,U.S. House,3,LBT,Pepper Snyder,58
+Steuben,Jackson,U.S. House,3,LBT,Pepper Snyder,38
+Steuben,Salem,U.S. House,3,LBT,Pepper Snyder,42
+Steuben,Steuben  1,U.S. House,3,LBT,Pepper Snyder,51
+Steuben,Steuben  2,U.S. House,3,LBT,Pepper Snyder,36
+Steuben,Otsego  1,U.S. House,3,LBT,Pepper Snyder,33
+Steuben,Otsego  2,U.S. House,3,LBT,Pepper Snyder,38
+Steuben,Richland,U.S. House,3,LBT,Pepper Snyder,2
+Steuben,,U.S. House,3,LBT,Pepper Snyder,901
+Steuben,Millgrove,U.S. House,3,,Write-ins,0
+Steuben,Jamestown  1,U.S. House,3,,Write-ins,2
+Steuben,Jamestown  2,U.S. House,3,,Write-ins,0
+Steuben,Fremont  1,U.S. House,3,,Write-ins,0
+Steuben,Fremont  2,U.S. House,3,,Write-ins,0
+Steuben,Fremont  3,U.S. House,3,,Write-ins,0
+Steuben,Clear  Lake,U.S. House,3,,Write-ins,0
+Steuben,York,U.S. House,3,,Write-ins,0
+Steuben,Scott,U.S. House,3,,Write-ins,0
+Steuben,Pleasant  1,U.S. House,3,,Write-ins,0
+Steuben,Pleasant  2,U.S. House,3,,Write-ins,1
+Steuben,Pleasant  3,U.S. House,3,,Write-ins,0
+Steuben,Pleasant  4,U.S. House,3,,Write-ins,0
+Steuben,Pleasant  5,U.S. House,3,,Write-ins,1
+Steuben,Pleasant  6,U.S. House,3,,Write-ins,0
+Steuben,Pleasant  7,U.S. House,3,,Write-ins,0
+Steuben,Jackson,U.S. House,3,,Write-ins,1
+Steuben,Salem,U.S. House,3,,Write-ins,1
+Steuben,Steuben  1,U.S. House,3,,Write-ins,0
+Steuben,Steuben  2,U.S. House,3,,Write-ins,0
+Steuben,Otsego  1,U.S. House,3,,Write-ins,0
+Steuben,Otsego  2,U.S. House,3,,Write-ins,2
+Steuben,Richland,U.S. House,3,,Write-ins,0
+Steuben,,U.S. House,3,,Write-ins,8
+Steuben,Millgrove,State Senate,13,REP,Susan Glick,537
+Steuben,Jamestown  1,State Senate,13,REP,Susan Glick,610
+Steuben,Jamestown  2,State Senate,13,REP,Susan Glick,730
+Steuben,Fremont  1,State Senate,13,REP,Susan Glick,281
+Steuben,Fremont  2,State Senate,13,REP,Susan Glick,234
+Steuben,Fremont  3,State Senate,13,REP,Susan Glick,297
+Steuben,Clear  Lake,State Senate,13,REP,Susan Glick,358
+Steuben,York,State Senate,13,REP,Susan Glick,240
+Steuben,Scott,State Senate,13,REP,Susan Glick,411
+Steuben,Pleasant  1,State Senate,13,REP,Susan Glick,464
+Steuben,Pleasant  2,State Senate,13,REP,Susan Glick,608
+Steuben,Pleasant  3,State Senate,13,REP,Susan Glick,473
+Steuben,Pleasant  4,State Senate,13,REP,Susan Glick,326
+Steuben,Pleasant  5,State Senate,13,REP,Susan Glick,495
+Steuben,Pleasant  6,State Senate,13,REP,Susan Glick,628
+Steuben,Pleasant  7,State Senate,13,REP,Susan Glick,807
+Steuben,Jackson,State Senate,13,REP,Susan Glick,565
+Steuben,Salem,State Senate,13,REP,Susan Glick,741
+Steuben,Steuben  1,State Senate,13,REP,Susan Glick,485
+Steuben,Steuben  2,State Senate,13,REP,Susan Glick,363
+Steuben,Otsego  1,State Senate,13,REP,Susan Glick,513
+Steuben,Otsego  2,State Senate,13,REP,Susan Glick,443
+Steuben,Richland,State Senate,13,REP,Susan Glick,123
+Steuben,,State Senate,13,REP,Susan Glick,10732
+Steuben,Millgrove,State Senate,13,DEM,Justin Kuhnle,164
+Steuben,Jamestown  1,State Senate,13,DEM,Justin Kuhnle,214
+Steuben,Jamestown  2,State Senate,13,DEM,Justin Kuhnle,253
+Steuben,Fremont  1,State Senate,13,DEM,Justin Kuhnle,105
+Steuben,Fremont  2,State Senate,13,DEM,Justin Kuhnle,85
+Steuben,Fremont  3,State Senate,13,DEM,Justin Kuhnle,84
+Steuben,Clear  Lake,State Senate,13,DEM,Justin Kuhnle,83
+Steuben,York,State Senate,13,DEM,Justin Kuhnle,69
+Steuben,Scott,State Senate,13,DEM,Justin Kuhnle,104
+Steuben,Pleasant  1,State Senate,13,DEM,Justin Kuhnle,215
+Steuben,Pleasant  2,State Senate,13,DEM,Justin Kuhnle,214
+Steuben,Pleasant  3,State Senate,13,DEM,Justin Kuhnle,206
+Steuben,Pleasant  4,State Senate,13,DEM,Justin Kuhnle,187
+Steuben,Pleasant  5,State Senate,13,DEM,Justin Kuhnle,193
+Steuben,Pleasant  6,State Senate,13,DEM,Justin Kuhnle,173
+Steuben,Pleasant  7,State Senate,13,DEM,Justin Kuhnle,223
+Steuben,Jackson,State Senate,13,DEM,Justin Kuhnle,168
+Steuben,Salem,State Senate,13,DEM,Justin Kuhnle,182
+Steuben,Steuben  1,State Senate,13,DEM,Justin Kuhnle,183
+Steuben,Steuben  2,State Senate,13,DEM,Justin Kuhnle,118
+Steuben,Otsego  1,State Senate,13,DEM,Justin Kuhnle,159
+Steuben,Otsego  2,State Senate,13,DEM,Justin Kuhnle,124
+Steuben,Richland,State Senate,13,DEM,Justin Kuhnle,28
+Steuben,,State Senate,13,DEM,Justin Kuhnle,3534
+Steuben,Millgrove,State House,51,REP,Dennis Zent,590
+Steuben,Jamestown  1,State House,51,REP,Dennis Zent,699
+Steuben,Jamestown  2,State House,51,REP,Dennis Zent,828
+Steuben,Fremont  1,State House,51,REP,Dennis Zent,322
+Steuben,Fremont  2,State House,51,REP,Dennis Zent,267
+Steuben,Fremont  3,State House,51,REP,Dennis Zent,341
+Steuben,Clear  Lake,State House,51,REP,Dennis Zent,391
+Steuben,York,State House,51,REP,Dennis Zent,257
+Steuben,Scott,State House,51,REP,Dennis Zent,443
+Steuben,Pleasant  1,State House,51,REP,Dennis Zent,539
+Steuben,Pleasant  2,State House,51,REP,Dennis Zent,683
+Steuben,Pleasant  3,State House,51,REP,Dennis Zent,555
+Steuben,Pleasant  4,State House,51,REP,Dennis Zent,409
+Steuben,Pleasant  5,State House,51,REP,Dennis Zent,558
+Steuben,Pleasant  6,State House,51,REP,Dennis Zent,701
+Steuben,Pleasant  7,State House,51,REP,Dennis Zent,893
+Steuben,Jackson,State House,51,REP,Dennis Zent,615
+Steuben,Salem,State House,51,REP,Dennis Zent,811
+Steuben,Steuben  1,State House,51,REP,Dennis Zent,564
+Steuben,Steuben  2,State House,51,REP,Dennis Zent,399
+Steuben,Otsego  1,State House,52,REP,Ben Smaltz,495
+Steuben,Otsego  2,State House,52,REP,Ben Smaltz,447
+Steuben,Richland,State House,52,REP,Ben Smaltz,124
+Steuben,,State House,51,REP,Dennis Zent,9799
+Steuben,Steuben IN,State House,52,REP,Ben Smaltz,1066
+Steuben,Otsego  1,State House,52,DEM,Charlie Odier,177
+Steuben,Otsego  2,State House,52,DEM,Charlie Odier,116
+Steuben,Richland,State House,52,DEM,Charlie Odier,25
+Steuben,Steuben IN,State House,52,,Charlie Odier,318

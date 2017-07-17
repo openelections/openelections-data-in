@@ -1,0 +1,3295 @@
+county,precinct,office,district,party,candidate,votes
+Porter,001-Boone 1,Voters,,REP,Straight,98
+Porter,002-Boone 2,Voters,,REP,Straight,94
+Porter,003-Boone 3,Voters,,REP,Straight,125
+Porter,004-Boone 4,Voters,,REP,Straight,147
+Porter,005-Boone 5,Voters,,REP,Straight,101
+Porter,006-Center 1,Voters,,REP,Straight,62
+Porter,007-Center 2,Voters,,REP,Straight,63
+Porter,008-Center 3,Voters,,REP,Straight,74
+Porter,009-Center 5,Voters,,REP,Straight,91
+Porter,010-Center 6,Voters,,REP,Straight,138
+Porter,011-Center 7,Voters,,REP,Straight,98
+Porter,012-Center 8,Voters,,REP,Straight,111
+Porter,013-Center 9,Voters,,REP,Straight,106
+Porter,014-Center 11,Voters,,REP,Straight,141
+Porter,015-Center 13,Voters,,REP,Straight,107
+Porter,016-Center 14,Voters,,REP,Straight,72
+Porter,017-Center 15,Voters,,REP,Straight,137
+Porter,018-Center 16,Voters,,REP,Straight,87
+Porter,019-Center 17,Voters,,REP,Straight,124
+Porter,020-Center 18,Voters,,REP,Straight,162
+Porter,021-Center 19,Voters,,REP,Straight,108
+Porter,022-Center 20,Voters,,REP,Straight,175
+Porter,023-Center 21,Voters,,REP,Straight,118
+Porter,024-Center 22,Voters,,REP,Straight,142
+Porter,025-Center 23,Voters,,REP,Straight,233
+Porter,026-Center 24,Voters,,REP,Straight,181
+Porter,027-Center 25,Voters,,REP,Straight,164
+Porter,028-Center 26,Voters,,REP,Straight,111
+Porter,029-Center 27,Voters,,REP,Straight,108
+Porter,030-Center 28,Voters,,REP,Straight,58
+Porter,031-Center 29,Voters,,REP,Straight,126
+Porter,032-Center 30,Voters,,REP,Straight,128
+Porter,033-Center 31,Voters,,REP,Straight,125
+Porter,034-Center 32,Voters,,REP,Straight,119
+Porter,035-Center 33,Voters,,REP,Straight,73
+Porter,036-Center 34,Voters,,REP,Straight,131
+Porter,037-Center 35,Voters,,REP,Straight,61
+Porter,038-Jackson 1,Voters,,REP,Straight,138
+Porter,039-Jackson 2,Voters,,REP,Straight,101
+Porter,040-Jackson 3,Voters,,REP,Straight,103
+Porter,041-Jackson 4,Voters,,REP,Straight,94
+Porter,042-Jackson 5,Voters,,REP,Straight,128
+Porter,043-Liberty 1,Voters,,REP,Straight,146
+Porter,044-Liberty 2,Voters,,REP,Straight,58
+Porter,045-Liberty 3,Voters,,REP,Straight,224
+Porter,046-Liberty 4,Voters,,REP,Straight,120
+Porter,047-Liberty 5,Voters,,REP,Straight,123
+Porter,048-Liberty 6,Voters,,REP,Straight,113
+Porter,049-Liberty 7,Voters,,REP,Straight,111
+Porter,050-Morgan 1,Voters,,REP,Straight,82
+Porter,051-Morgan 2,Voters,,REP,Straight,166
+Porter,052-Morgan 3,Voters,,REP,Straight,188
+Porter,053-Pine 1,Voters,,REP,Straight,157
+Porter,054-Pine 2,Voters,,REP,Straight,87
+Porter,055-Pleasant 1,Voters,,REP,Straight,149
+Porter,056-Pleasant 2,Voters,,REP,Straight,208
+Porter,057-Pleasant 3,Voters,,REP,Straight,120
+Porter,058-Portage 1,Voters,,REP,Straight,71
+Porter,059-Portage 2,Voters,,REP,Straight,90
+Porter,060-Portage 3,Voters,,REP,Straight,85
+Porter,061-Portage 4,Voters,,REP,Straight,143
+Porter,062-Portage 5,Voters,,REP,Straight,102
+Porter,063-Portage 6,Voters,,REP,Straight,74
+Porter,064-Portage 7,Voters,,REP,Straight,76
+Porter,065-Portage 9,Voters,,REP,Straight,108
+Porter,066-Portage 10,Voters,,REP,Straight,95
+Porter,067-Portage 12,Voters,,REP,Straight,57
+Porter,068-Portage 13,Voters,,REP,Straight,86
+Porter,069-Portage 14,Voters,,REP,Straight,80
+Porter,070-Portage 15,Voters,,REP,Straight,87
+Porter,071-Portage 16,Voters,,REP,Straight,83
+Porter,072-Portage 17,Voters,,REP,Straight,80
+Porter,073-Portage 18,Voters,,REP,Straight,85
+Porter,074-Portage 19,Voters,,REP,Straight,65
+Porter,075-Portage 20,Voters,,REP,Straight,140
+Porter,076-Portage 21,Voters,,REP,Straight,87
+Porter,077-Portage 22,Voters,,REP,Straight,98
+Porter,078-Portage 23,Voters,,REP,Straight,99
+Porter,079-Portage 24,Voters,,REP,Straight,92
+Porter,080-Portage 25,Voters,,REP,Straight,75
+Porter,081-Portage 26,Voters,,REP,Straight,74
+Porter,082-Portage 27,Voters,,REP,Straight,120
+Porter,083-Portage 28,Voters,,REP,Straight,62
+Porter,084-Portage 31,Voters,,REP,Straight,73
+Porter,085-Portage 32,Voters,,REP,Straight,87
+Porter,086-Portage 33,Voters,,REP,Straight,54
+Porter,087-Portage 35,Voters,,REP,Straight,105
+Porter,088-Portage 36,Voters,,REP,Straight,96
+Porter,089-Portage 37,Voters,,REP,Straight,91
+Porter,090-Portage 38,Voters,,REP,Straight,64
+Porter,091-Porter 1,Voters,,REP,Straight,110
+Porter,092-Porter 2,Voters,,REP,Straight,182
+Porter,093-Porter 3,Voters,,REP,Straight,155
+Porter,094-Porter 4,Voters,,REP,Straight,214
+Porter,095-Porter 5,Voters,,REP,Straight,160
+Porter,096-Porter 6,Voters,,REP,Straight,256
+Porter,097-Porter 7,Voters,,REP,Straight,81
+Porter,098-Union 1,Voters,,REP,Straight,100
+Porter,099-Union 2,Voters,,REP,Straight,92
+Porter,100-Union 3,Voters,,REP,Straight,196
+Porter,101-Union 4,Voters,,REP,Straight,154
+Porter,102-Union 5,Voters,,REP,Straight,325
+Porter,103-Union 6,Voters,,REP,Straight,91
+Porter,104-Union 7,Voters,,REP,Straight,127
+Porter,105-Washington 1,Voters,,REP,Straight,167
+Porter,106-Washington 2,Voters,,REP,Straight,143
+Porter,107-Washington 3,Voters,,REP,Straight,170
+Porter,108-Westchester 1,Voters,,REP,Straight,52
+Porter,109-Westchester 3,Voters,,REP,Straight,107
+Porter,110-Westchester 4,Voters,,REP,Straight,106
+Porter,111-Westchester 5,Voters,,REP,Straight,80
+Porter,112-Westchester 6,Voters,,REP,Straight,23
+Porter,113-Westchester 7,Voters,,REP,Straight,127
+Porter,114-Westchester 8,Voters,,REP,Straight,125
+Porter,115-Westchester 9,Voters,,REP,Straight,168
+Porter,116-Westchester 10,Voters,,REP,Straight,128
+Porter,117-Westchester 11,Voters,,REP,Straight,106
+Porter,118-Westchester 12,Voters,,REP,Straight,109
+Porter,119-Westchester 13,Voters,,REP,Straight,62
+Porter,120-Westchester 14,Voters,,REP,Straight,168
+Porter,121-Westchester 16,Voters,,REP,Straight,107
+Porter,122-Westchester 17,Voters,,REP,Straight,28
+Porter,123-Westchester 18,Voters,,REP,Straight,74
+Porter,,Voters,,REP,Straight,14092
+Porter,001-Boone 1,Voters,,DEM,Straight,65
+Porter,002-Boone 2,Voters,,DEM,Straight,74
+Porter,003-Boone 3,Voters,,DEM,Straight,98
+Porter,004-Boone 4,Voters,,DEM,Straight,103
+Porter,005-Boone 5,Voters,,DEM,Straight,73
+Porter,006-Center 1,Voters,,DEM,Straight,106
+Porter,007-Center 2,Voters,,DEM,Straight,114
+Porter,008-Center 3,Voters,,DEM,Straight,167
+Porter,009-Center 5,Voters,,DEM,Straight,144
+Porter,010-Center 6,Voters,,DEM,Straight,135
+Porter,011-Center 7,Voters,,DEM,Straight,129
+Porter,012-Center 8,Voters,,DEM,Straight,127
+Porter,013-Center 9,Voters,,DEM,Straight,166
+Porter,014-Center 11,Voters,,DEM,Straight,91
+Porter,015-Center 13,Voters,,DEM,Straight,105
+Porter,016-Center 14,Voters,,DEM,Straight,108
+Porter,017-Center 15,Voters,,DEM,Straight,92
+Porter,018-Center 16,Voters,,DEM,Straight,77
+Porter,019-Center 17,Voters,,DEM,Straight,102
+Porter,020-Center 18,Voters,,DEM,Straight,108
+Porter,021-Center 19,Voters,,DEM,Straight,89
+Porter,022-Center 20,Voters,,DEM,Straight,146
+Porter,023-Center 21,Voters,,DEM,Straight,73
+Porter,024-Center 22,Voters,,DEM,Straight,164
+Porter,025-Center 23,Voters,,DEM,Straight,127
+Porter,026-Center 24,Voters,,DEM,Straight,128
+Porter,027-Center 25,Voters,,DEM,Straight,111
+Porter,028-Center 26,Voters,,DEM,Straight,111
+Porter,029-Center 27,Voters,,DEM,Straight,132
+Porter,030-Center 28,Voters,,DEM,Straight,95
+Porter,031-Center 29,Voters,,DEM,Straight,109
+Porter,032-Center 30,Voters,,DEM,Straight,178
+Porter,033-Center 31,Voters,,DEM,Straight,137
+Porter,034-Center 32,Voters,,DEM,Straight,70
+Porter,035-Center 33,Voters,,DEM,Straight,88
+Porter,036-Center 34,Voters,,DEM,Straight,104
+Porter,037-Center 35,Voters,,DEM,Straight,73
+Porter,038-Jackson 1,Voters,,DEM,Straight,81
+Porter,039-Jackson 2,Voters,,DEM,Straight,67
+Porter,040-Jackson 3,Voters,,DEM,Straight,70
+Porter,041-Jackson 4,Voters,,DEM,Straight,99
+Porter,042-Jackson 5,Voters,,DEM,Straight,117
+Porter,043-Liberty 1,Voters,,DEM,Straight,132
+Porter,044-Liberty 2,Voters,,DEM,Straight,59
+Porter,045-Liberty 3,Voters,,DEM,Straight,211
+Porter,046-Liberty 4,Voters,,DEM,Straight,125
+Porter,047-Liberty 5,Voters,,DEM,Straight,131
+Porter,048-Liberty 6,Voters,,DEM,Straight,86
+Porter,049-Liberty 7,Voters,,DEM,Straight,51
+Porter,050-Morgan 1,Voters,,DEM,Straight,46
+Porter,051-Morgan 2,Voters,,DEM,Straight,93
+Porter,052-Morgan 3,Voters,,DEM,Straight,101
+Porter,053-Pine 1,Voters,,DEM,Straight,113
+Porter,054-Pine 2,Voters,,DEM,Straight,177
+Porter,055-Pleasant 1,Voters,,DEM,Straight,70
+Porter,056-Pleasant 2,Voters,,DEM,Straight,79
+Porter,057-Pleasant 3,Voters,,DEM,Straight,62
+Porter,058-Portage 1,Voters,,DEM,Straight,94
+Porter,059-Portage 2,Voters,,DEM,Straight,103
+Porter,060-Portage 3,Voters,,DEM,Straight,141
+Porter,061-Portage 4,Voters,,DEM,Straight,146
+Porter,062-Portage 5,Voters,,DEM,Straight,144
+Porter,063-Portage 6,Voters,,DEM,Straight,116
+Porter,064-Portage 7,Voters,,DEM,Straight,125
+Porter,065-Portage 9,Voters,,DEM,Straight,161
+Porter,066-Portage 10,Voters,,DEM,Straight,144
+Porter,067-Portage 12,Voters,,DEM,Straight,147
+Porter,068-Portage 13,Voters,,DEM,Straight,187
+Porter,069-Portage 14,Voters,,DEM,Straight,147
+Porter,070-Portage 15,Voters,,DEM,Straight,111
+Porter,071-Portage 16,Voters,,DEM,Straight,135
+Porter,072-Portage 17,Voters,,DEM,Straight,161
+Porter,073-Portage 18,Voters,,DEM,Straight,315
+Porter,074-Portage 19,Voters,,DEM,Straight,91
+Porter,075-Portage 20,Voters,,DEM,Straight,181
+Porter,076-Portage 21,Voters,,DEM,Straight,173
+Porter,077-Portage 22,Voters,,DEM,Straight,138
+Porter,078-Portage 23,Voters,,DEM,Straight,124
+Porter,079-Portage 24,Voters,,DEM,Straight,158
+Porter,080-Portage 25,Voters,,DEM,Straight,95
+Porter,081-Portage 26,Voters,,DEM,Straight,141
+Porter,082-Portage 27,Voters,,DEM,Straight,174
+Porter,083-Portage 28,Voters,,DEM,Straight,82
+Porter,084-Portage 31,Voters,,DEM,Straight,77
+Porter,085-Portage 32,Voters,,DEM,Straight,138
+Porter,086-Portage 33,Voters,,DEM,Straight,97
+Porter,087-Portage 35,Voters,,DEM,Straight,228
+Porter,088-Portage 36,Voters,,DEM,Straight,162
+Porter,089-Portage 37,Voters,,DEM,Straight,152
+Porter,090-Portage 38,Voters,,DEM,Straight,233
+Porter,091-Porter 1,Voters,,DEM,Straight,96
+Porter,092-Porter 2,Voters,,DEM,Straight,105
+Porter,093-Porter 3,Voters,,DEM,Straight,97
+Porter,094-Porter 4,Voters,,DEM,Straight,130
+Porter,095-Porter 5,Voters,,DEM,Straight,118
+Porter,096-Porter 6,Voters,,DEM,Straight,185
+Porter,097-Porter 7,Voters,,DEM,Straight,49
+Porter,098-Union 1,Voters,,DEM,Straight,100
+Porter,099-Union 2,Voters,,DEM,Straight,48
+Porter,100-Union 3,Voters,,DEM,Straight,106
+Porter,101-Union 4,Voters,,DEM,Straight,110
+Porter,102-Union 5,Voters,,DEM,Straight,157
+Porter,103-Union 6,Voters,,DEM,Straight,105
+Porter,104-Union 7,Voters,,DEM,Straight,102
+Porter,105-Washington 1,Voters,,DEM,Straight,83
+Porter,106-Washington 2,Voters,,DEM,Straight,108
+Porter,107-Washington 3,Voters,,DEM,Straight,112
+Porter,108-Westchester 1,Voters,,DEM,Straight,75
+Porter,109-Westchester 3,Voters,,DEM,Straight,115
+Porter,110-Westchester 4,Voters,,DEM,Straight,160
+Porter,111-Westchester 5,Voters,,DEM,Straight,97
+Porter,112-Westchester 6,Voters,,DEM,Straight,31
+Porter,113-Westchester 7,Voters,,DEM,Straight,181
+Porter,114-Westchester 8,Voters,,DEM,Straight,126
+Porter,115-Westchester 9,Voters,,DEM,Straight,137
+Porter,116-Westchester 10,Voters,,DEM,Straight,127
+Porter,117-Westchester 11,Voters,,DEM,Straight,119
+Porter,118-Westchester 12,Voters,,DEM,Straight,136
+Porter,119-Westchester 13,Voters,,DEM,Straight,86
+Porter,120-Westchester 14,Voters,,DEM,Straight,142
+Porter,121-Westchester 16,Voters,,DEM,Straight,100
+Porter,122-Westchester 17,Voters,,DEM,Straight,44
+Porter,123-Westchester 18,Voters,,DEM,Straight,77
+Porter,,Voters,,DEM,Straight,14474
+Porter,001-Boone 1,Voters,,LBT,Straight,3
+Porter,002-Boone 2,Voters,,LBT,Straight,7
+Porter,003-Boone 3,Voters,,LBT,Straight,5
+Porter,004-Boone 4,Voters,,LBT,Straight,3
+Porter,005-Boone 5,Voters,,LBT,Straight,3
+Porter,006-Center 1,Voters,,LBT,Straight,4
+Porter,007-Center 2,Voters,,LBT,Straight,9
+Porter,008-Center 3,Voters,,LBT,Straight,15
+Porter,009-Center 5,Voters,,LBT,Straight,11
+Porter,010-Center 6,Voters,,LBT,Straight,2
+Porter,011-Center 7,Voters,,LBT,Straight,10
+Porter,012-Center 8,Voters,,LBT,Straight,9
+Porter,013-Center 9,Voters,,LBT,Straight,10
+Porter,014-Center 11,Voters,,LBT,Straight,5
+Porter,015-Center 13,Voters,,LBT,Straight,3
+Porter,016-Center 14,Voters,,LBT,Straight,8
+Porter,017-Center 15,Voters,,LBT,Straight,4
+Porter,018-Center 16,Voters,,LBT,Straight,2
+Porter,019-Center 17,Voters,,LBT,Straight,3
+Porter,020-Center 18,Voters,,LBT,Straight,3
+Porter,021-Center 19,Voters,,LBT,Straight,2
+Porter,022-Center 20,Voters,,LBT,Straight,7
+Porter,023-Center 21,Voters,,LBT,Straight,6
+Porter,024-Center 22,Voters,,LBT,Straight,11
+Porter,025-Center 23,Voters,,LBT,Straight,3
+Porter,026-Center 24,Voters,,LBT,Straight,9
+Porter,027-Center 25,Voters,,LBT,Straight,6
+Porter,028-Center 26,Voters,,LBT,Straight,3
+Porter,029-Center 27,Voters,,LBT,Straight,9
+Porter,030-Center 28,Voters,,LBT,Straight,2
+Porter,031-Center 29,Voters,,LBT,Straight,2
+Porter,032-Center 30,Voters,,LBT,Straight,8
+Porter,033-Center 31,Voters,,LBT,Straight,3
+Porter,034-Center 32,Voters,,LBT,Straight,3
+Porter,035-Center 33,Voters,,LBT,Straight,4
+Porter,036-Center 34,Voters,,LBT,Straight,3
+Porter,037-Center 35,Voters,,LBT,Straight,3
+Porter,038-Jackson 1,Voters,,LBT,Straight,3
+Porter,039-Jackson 2,Voters,,LBT,Straight,5
+Porter,040-Jackson 3,Voters,,LBT,Straight,6
+Porter,041-Jackson 4,Voters,,LBT,Straight,5
+Porter,042-Jackson 5,Voters,,LBT,Straight,4
+Porter,043-Liberty 1,Voters,,LBT,Straight,9
+Porter,044-Liberty 2,Voters,,LBT,Straight,4
+Porter,045-Liberty 3,Voters,,LBT,Straight,18
+Porter,046-Liberty 4,Voters,,LBT,Straight,4
+Porter,047-Liberty 5,Voters,,LBT,Straight,5
+Porter,048-Liberty 6,Voters,,LBT,Straight,4
+Porter,049-Liberty 7,Voters,,LBT,Straight,5
+Porter,050-Morgan 1,Voters,,LBT,Straight,6
+Porter,051-Morgan 2,Voters,,LBT,Straight,6
+Porter,052-Morgan 3,Voters,,LBT,Straight,10
+Porter,053-Pine 1,Voters,,LBT,Straight,1
+Porter,054-Pine 2,Voters,,LBT,Straight,5
+Porter,055-Pleasant 1,Voters,,LBT,Straight,6
+Porter,056-Pleasant 2,Voters,,LBT,Straight,3
+Porter,057-Pleasant 3,Voters,,LBT,Straight,3
+Porter,058-Portage 1,Voters,,LBT,Straight,4
+Porter,059-Portage 2,Voters,,LBT,Straight,6
+Porter,060-Portage 3,Voters,,LBT,Straight,7
+Porter,061-Portage 4,Voters,,LBT,Straight,4
+Porter,062-Portage 5,Voters,,LBT,Straight,11
+Porter,063-Portage 6,Voters,,LBT,Straight,8
+Porter,064-Portage 7,Voters,,LBT,Straight,17
+Porter,065-Portage 9,Voters,,LBT,Straight,3
+Porter,066-Portage 10,Voters,,LBT,Straight,12
+Porter,067-Portage 12,Voters,,LBT,Straight,6
+Porter,068-Portage 13,Voters,,LBT,Straight,6
+Porter,069-Portage 14,Voters,,LBT,Straight,5
+Porter,070-Portage 15,Voters,,LBT,Straight,11
+Porter,071-Portage 16,Voters,,LBT,Straight,14
+Porter,072-Portage 17,Voters,,LBT,Straight,7
+Porter,073-Portage 18,Voters,,LBT,Straight,6
+Porter,074-Portage 19,Voters,,LBT,Straight,9
+Porter,075-Portage 20,Voters,,LBT,Straight,13
+Porter,076-Portage 21,Voters,,LBT,Straight,8
+Porter,077-Portage 22,Voters,,LBT,Straight,10
+Porter,078-Portage 23,Voters,,LBT,Straight,5
+Porter,079-Portage 24,Voters,,LBT,Straight,8
+Porter,080-Portage 25,Voters,,LBT,Straight,7
+Porter,081-Portage 26,Voters,,LBT,Straight,7
+Porter,082-Portage 27,Voters,,LBT,Straight,14
+Porter,083-Portage 28,Voters,,LBT,Straight,9
+Porter,084-Portage 31,Voters,,LBT,Straight,2
+Porter,085-Portage 32,Voters,,LBT,Straight,12
+Porter,086-Portage 33,Voters,,LBT,Straight,11
+Porter,087-Portage 35,Voters,,LBT,Straight,8
+Porter,088-Portage 36,Voters,,LBT,Straight,9
+Porter,089-Portage 37,Voters,,LBT,Straight,8
+Porter,090-Portage 38,Voters,,LBT,Straight,2
+Porter,091-Porter 1,Voters,,LBT,Straight,9
+Porter,092-Porter 2,Voters,,LBT,Straight,3
+Porter,093-Porter 3,Voters,,LBT,Straight,11
+Porter,094-Porter 4,Voters,,LBT,Straight,16
+Porter,095-Porter 5,Voters,,LBT,Straight,3
+Porter,096-Porter 6,Voters,,LBT,Straight,3
+Porter,097-Porter 7,Voters,,LBT,Straight,2
+Porter,098-Union 1,Voters,,LBT,Straight,5
+Porter,099-Union 2,Voters,,LBT,Straight,1
+Porter,100-Union 3,Voters,,LBT,Straight,4
+Porter,101-Union 4,Voters,,LBT,Straight,12
+Porter,102-Union 5,Voters,,LBT,Straight,6
+Porter,103-Union 6,Voters,,LBT,Straight,12
+Porter,104-Union 7,Voters,,LBT,Straight,3
+Porter,105-Washington 1,Voters,,LBT,Straight,10
+Porter,106-Washington 2,Voters,,LBT,Straight,8
+Porter,107-Washington 3,Voters,,LBT,Straight,6
+Porter,108-Westchester 1,Voters,,LBT,Straight,6
+Porter,109-Westchester 3,Voters,,LBT,Straight,6
+Porter,110-Westchester 4,Voters,,LBT,Straight,12
+Porter,111-Westchester 5,Voters,,LBT,Straight,8
+Porter,112-Westchester 6,Voters,,LBT,Straight,1
+Porter,113-Westchester 7,Voters,,LBT,Straight,8
+Porter,114-Westchester 8,Voters,,LBT,Straight,12
+Porter,115-Westchester 9,Voters,,LBT,Straight,7
+Porter,116-Westchester 10,Voters,,LBT,Straight,8
+Porter,117-Westchester 11,Voters,,LBT,Straight,6
+Porter,118-Westchester 12,Voters,,LBT,Straight,7
+Porter,119-Westchester 13,Voters,,LBT,Straight,5
+Porter,120-Westchester 14,Voters,,LBT,Straight,5
+Porter,121-Westchester 16,Voters,,LBT,Straight,5
+Porter,122-Westchester 17,Voters,,LBT,Straight,0
+Porter,123-Westchester 18,Voters,,LBT,Straight,3
+Porter,,Voters,,LBT,Straight,797
+Porter,001-Boone 1,Voters,,,Registered,798
+Porter,002-Boone 2,Voters,,,Registered,658
+Porter,003-Boone 3,Voters,,,Registered,963
+Porter,004-Boone 4,Voters,,,Registered,1044
+Porter,005-Boone 5,Voters,,,Registered,784
+Porter,006-Center 1,Voters,,,Registered,842
+Porter,007-Center 2,Voters,,,Registered,940
+Porter,008-Center 3,Voters,,,Registered,1507
+Porter,009-Center 5,Voters,,,Registered,1182
+Porter,010-Center 6,Voters,,,Registered,1291
+Porter,011-Center 7,Voters,,,Registered,1030
+Porter,012-Center 8,Voters,,,Registered,1249
+Porter,013-Center 9,Voters,,,Registered,1340
+Porter,014-Center 11,Voters,,,Registered,1161
+Porter,015-Center 13,Voters,,,Registered,1053
+Porter,016-Center 14,Voters,,,Registered,992
+Porter,017-Center 15,Voters,,,Registered,908
+Porter,018-Center 16,Voters,,,Registered,716
+Porter,019-Center 17,Voters,,,Registered,1102
+Porter,020-Center 18,Voters,,,Registered,1134
+Porter,021-Center 19,Voters,,,Registered,800
+Porter,022-Center 20,Voters,,,Registered,1341
+Porter,023-Center 21,Voters,,,Registered,862
+Porter,024-Center 22,Voters,,,Registered,1436
+Porter,025-Center 23,Voters,,,Registered,1576
+Porter,026-Center 24,Voters,,,Registered,1331
+Porter,027-Center 25,Voters,,,Registered,1288
+Porter,028-Center 26,Voters,,,Registered,989
+Porter,029-Center 27,Voters,,,Registered,1054
+Porter,030-Center 28,Voters,,,Registered,793
+Porter,031-Center 29,Voters,,,Registered,989
+Porter,032-Center 30,Voters,,,Registered,1445
+Porter,033-Center 31,Voters,,,Registered,1104
+Porter,034-Center 32,Voters,,,Registered,716
+Porter,035-Center 33,Voters,,,Registered,642
+Porter,036-Center 34,Voters,,,Registered,1062
+Porter,037-Center 35,Voters,,,Registered,681
+Porter,038-Jackson 1,Voters,,,Registered,916
+Porter,039-Jackson 2,Voters,,,Registered,847
+Porter,040-Jackson 3,Voters,,,Registered,777
+Porter,041-Jackson 4,Voters,,,Registered,819
+Porter,042-Jackson 5,Voters,,,Registered,1048
+Porter,043-Liberty 1,Voters,,,Registered,1275
+Porter,044-Liberty 2,Voters,,,Registered,611
+Porter,045-Liberty 3,Voters,,,Registered,1931
+Porter,046-Liberty 4,Voters,,,Registered,1038
+Porter,047-Liberty 5,Voters,,,Registered,1176
+Porter,048-Liberty 6,Voters,,,Registered,913
+Porter,049-Liberty 7,Voters,,,Registered,688
+Porter,050-Morgan 1,Voters,,,Registered,535
+Porter,051-Morgan 2,Voters,,,Registered,1171
+Porter,052-Morgan 3,Voters,,,Registered,1196
+Porter,053-Pine 1,Voters,,,Registered,1084
+Porter,054-Pine 2,Voters,,,Registered,1068
+Porter,055-Pleasant 1,Voters,,,Registered,1149
+Porter,056-Pleasant 2,Voters,,,Registered,1188
+Porter,057-Pleasant 3,Voters,,,Registered,832
+Porter,058-Portage 1,Voters,,,Registered,645
+Porter,059-Portage 2,Voters,,,Registered,863
+Porter,060-Portage 3,Voters,,,Registered,1053
+Porter,061-Portage 4,Voters,,,Registered,1153
+Porter,062-Portage 5,Voters,,,Registered,1150
+Porter,063-Portage 6,Voters,,,Registered,997
+Porter,064-Portage 7,Voters,,,Registered,913
+Porter,065-Portage 9,Voters,,,Registered,1138
+Porter,066-Portage 10,Voters,,,Registered,1178
+Porter,067-Portage 12,Voters,,,Registered,925
+Porter,068-Portage 13,Voters,,,Registered,1335
+Porter,069-Portage 14,Voters,,,Registered,1027
+Porter,070-Portage 15,Voters,,,Registered,892
+Porter,071-Portage 16,Voters,,,Registered,980
+Porter,072-Portage 17,Voters,,,Registered,1269
+Porter,073-Portage 18,Voters,,,Registered,1519
+Porter,074-Portage 19,Voters,,,Registered,968
+Porter,075-Portage 20,Voters,,,Registered,1269
+Porter,076-Portage 21,Voters,,,Registered,1179
+Porter,077-Portage 22,Voters,,,Registered,998
+Porter,078-Portage 23,Voters,,,Registered,960
+Porter,079-Portage 24,Voters,,,Registered,1079
+Porter,080-Portage 25,Voters,,,Registered,764
+Porter,081-Portage 26,Voters,,,Registered,947
+Porter,082-Portage 27,Voters,,,Registered,1289
+Porter,083-Portage 28,Voters,,,Registered,676
+Porter,084-Portage 31,Voters,,,Registered,655
+Porter,085-Portage 32,Voters,,,Registered,930
+Porter,086-Portage 33,Voters,,,Registered,606
+Porter,087-Portage 35,Voters,,,Registered,1228
+Porter,088-Portage 36,Voters,,,Registered,1242
+Porter,089-Portage 37,Voters,,,Registered,967
+Porter,090-Portage 38,Voters,,,Registered,1040
+Porter,091-Porter 1,Voters,,,Registered,978
+Porter,092-Porter 2,Voters,,,Registered,1147
+Porter,093-Porter 3,Voters,,,Registered,1106
+Porter,094-Porter 4,Voters,,,Registered,1333
+Porter,095-Porter 5,Voters,,,Registered,1036
+Porter,096-Porter 6,Voters,,,Registered,1593
+Porter,097-Porter 7,Voters,,,Registered,452
+Porter,098-Union 1,Voters,,,Registered,845
+Porter,099-Union 2,Voters,,,Registered,524
+Porter,100-Union 3,Voters,,,Registered,1089
+Porter,101-Union 4,Voters,,,Registered,1171
+Porter,102-Union 5,Voters,,,Registered,1710
+Porter,103-Union 6,Voters,,,Registered,984
+Porter,104-Union 7,Voters,,,Registered,836
+Porter,105-Washington 1,Voters,,,Registered,1043
+Porter,106-Washington 2,Voters,,,Registered,1292
+Porter,107-Washington 3,Voters,,,Registered,1217
+Porter,108-Westchester 1,Voters,,,Registered,660
+Porter,109-Westchester 3,Voters,,,Registered,1046
+Porter,110-Westchester 4,Voters,,,Registered,1445
+Porter,111-Westchester 5,Voters,,,Registered,847
+Porter,112-Westchester 6,Voters,,,Registered,204
+Porter,113-Westchester 7,Voters,,,Registered,1406
+Porter,114-Westchester 8,Voters,,,Registered,1232
+Porter,115-Westchester 9,Voters,,,Registered,1301
+Porter,116-Westchester 10,Voters,,,Registered,1139
+Porter,117-Westchester 11,Voters,,,Registered,1126
+Porter,118-Westchester 12,Voters,,,Registered,1353
+Porter,119-Westchester 13,Voters,,,Registered,684
+Porter,120-Westchester 14,Voters,,,Registered,1301
+Porter,121-Westchester 16,Voters,,,Registered,1010
+Porter,122-Westchester 17,Voters,,,Registered,310
+Porter,123-Westchester 18,Voters,,,Registered,622
+Porter,,Voters,,,Registered,126941
+Porter,001-Boone 1,Voters,,,Ballots Cast,530
+Porter,002-Boone 2,Voters,,,Ballots Cast,454
+Porter,003-Boone 3,Voters,,,Ballots Cast,599
+Porter,004-Boone 4,Voters,,,Ballots Cast,723
+Porter,005-Boone 5,Voters,,,Ballots Cast,471
+Porter,006-Center 1,Voters,,,Ballots Cast,528
+Porter,007-Center 2,Voters,,,Ballots Cast,589
+Porter,008-Center 3,Voters,,,Ballots Cast,618
+Porter,009-Center 5,Voters,,,Ballots Cast,626
+Porter,010-Center 6,Voters,,,Ballots Cast,895
+Porter,011-Center 7,Voters,,,Ballots Cast,662
+Porter,012-Center 8,Voters,,,Ballots Cast,732
+Porter,013-Center 9,Voters,,,Ballots Cast,774
+Porter,014-Center 11,Voters,,,Ballots Cast,791
+Porter,015-Center 13,Voters,,,Ballots Cast,666
+Porter,016-Center 14,Voters,,,Ballots Cast,582
+Porter,017-Center 15,Voters,,,Ballots Cast,651
+Porter,018-Center 16,Voters,,,Ballots Cast,511
+Porter,019-Center 17,Voters,,,Ballots Cast,633
+Porter,020-Center 18,Voters,,,Ballots Cast,772
+Porter,021-Center 19,Voters,,,Ballots Cast,543
+Porter,022-Center 20,Voters,,,Ballots Cast,879
+Porter,023-Center 21,Voters,,,Ballots Cast,597
+Porter,024-Center 22,Voters,,,Ballots Cast,802
+Porter,025-Center 23,Voters,,,Ballots Cast,987
+Porter,026-Center 24,Voters,,,Ballots Cast,873
+Porter,027-Center 25,Voters,,,Ballots Cast,889
+Porter,028-Center 26,Voters,,,Ballots Cast,583
+Porter,029-Center 27,Voters,,,Ballots Cast,609
+Porter,030-Center 28,Voters,,,Ballots Cast,484
+Porter,031-Center 29,Voters,,,Ballots Cast,628
+Porter,032-Center 30,Voters,,,Ballots Cast,748
+Porter,033-Center 31,Voters,,,Ballots Cast,758
+Porter,034-Center 32,Voters,,,Ballots Cast,488
+Porter,035-Center 33,Voters,,,Ballots Cast,435
+Porter,036-Center 34,Voters,,,Ballots Cast,714
+Porter,037-Center 35,Voters,,,Ballots Cast,412
+Porter,038-Jackson 1,Voters,,,Ballots Cast,637
+Porter,039-Jackson 2,Voters,,,Ballots Cast,547
+Porter,040-Jackson 3,Voters,,,Ballots Cast,552
+Porter,041-Jackson 4,Voters,,,Ballots Cast,593
+Porter,042-Jackson 5,Voters,,,Ballots Cast,720
+Porter,043-Liberty 1,Voters,,,Ballots Cast,843
+Porter,044-Liberty 2,Voters,,,Ballots Cast,287
+Porter,045-Liberty 3,Voters,,,Ballots Cast,1252
+Porter,046-Liberty 4,Voters,,,Ballots Cast,656
+Porter,047-Liberty 5,Voters,,,Ballots Cast,807
+Porter,048-Liberty 6,Voters,,,Ballots Cast,494
+Porter,049-Liberty 7,Voters,,,Ballots Cast,491
+Porter,050-Morgan 1,Voters,,,Ballots Cast,359
+Porter,051-Morgan 2,Voters,,,Ballots Cast,850
+Porter,052-Morgan 3,Voters,,,Ballots Cast,852
+Porter,053-Pine 1,Voters,,,Ballots Cast,678
+Porter,054-Pine 2,Voters,,,Ballots Cast,703
+Porter,055-Pleasant 1,Voters,,,Ballots Cast,782
+Porter,056-Pleasant 2,Voters,,,Ballots Cast,833
+Porter,057-Pleasant 3,Voters,,,Ballots Cast,560
+Porter,058-Portage 1,Voters,,,Ballots Cast,427
+Porter,059-Portage 2,Voters,,,Ballots Cast,512
+Porter,060-Portage 3,Voters,,,Ballots Cast,531
+Porter,061-Portage 4,Voters,,,Ballots Cast,842
+Porter,062-Portage 5,Voters,,,Ballots Cast,736
+Porter,063-Portage 6,Voters,,,Ballots Cast,428
+Porter,064-Portage 7,Voters,,,Ballots Cast,544
+Porter,065-Portage 9,Voters,,,Ballots Cast,746
+Porter,066-Portage 10,Voters,,,Ballots Cast,622
+Porter,067-Portage 12,Voters,,,Ballots Cast,468
+Porter,068-Portage 13,Voters,,,Ballots Cast,638
+Porter,069-Portage 14,Voters,,,Ballots Cast,626
+Porter,070-Portage 15,Voters,,,Ballots Cast,506
+Porter,071-Portage 16,Voters,,,Ballots Cast,554
+Porter,072-Portage 17,Voters,,,Ballots Cast,601
+Porter,073-Portage 18,Voters,,,Ballots Cast,747
+Porter,074-Portage 19,Voters,,,Ballots Cast,396
+Porter,075-Portage 20,Voters,,,Ballots Cast,661
+Porter,076-Portage 21,Voters,,,Ballots Cast,716
+Porter,077-Portage 22,Voters,,,Ballots Cast,670
+Porter,078-Portage 23,Voters,,,Ballots Cast,533
+Porter,079-Portage 24,Voters,,,Ballots Cast,698
+Porter,080-Portage 25,Voters,,,Ballots Cast,456
+Porter,081-Portage 26,Voters,,,Ballots Cast,564
+Porter,082-Portage 27,Voters,,,Ballots Cast,843
+Porter,083-Portage 28,Voters,,,Ballots Cast,407
+Porter,084-Portage 31,Voters,,,Ballots Cast,367
+Porter,085-Portage 32,Voters,,,Ballots Cast,537
+Porter,086-Portage 33,Voters,,,Ballots Cast,371
+Porter,087-Portage 35,Voters,,,Ballots Cast,771
+Porter,088-Portage 36,Voters,,,Ballots Cast,673
+Porter,089-Portage 37,Voters,,,Ballots Cast,644
+Porter,090-Portage 38,Voters,,,Ballots Cast,510
+Porter,091-Porter 1,Voters,,,Ballots Cast,608
+Porter,092-Porter 2,Voters,,,Ballots Cast,736
+Porter,093-Porter 3,Voters,,,Ballots Cast,777
+Porter,094-Porter 4,Voters,,,Ballots Cast,926
+Porter,095-Porter 5,Voters,,,Ballots Cast,635
+Porter,096-Porter 6,Voters,,,Ballots Cast,977
+Porter,097-Porter 7,Voters,,,Ballots Cast,306
+Porter,098-Union 1,Voters,,,Ballots Cast,540
+Porter,099-Union 2,Voters,,,Ballots Cast,373
+Porter,100-Union 3,Voters,,,Ballots Cast,741
+Porter,101-Union 4,Voters,,,Ballots Cast,774
+Porter,102-Union 5,Voters,,,Ballots Cast,1151
+Porter,103-Union 6,Voters,,,Ballots Cast,580
+Porter,104-Union 7,Voters,,,Ballots Cast,553
+Porter,105-Washington 1,Voters,,,Ballots Cast,762
+Porter,106-Washington 2,Voters,,,Ballots Cast,775
+Porter,107-Washington 3,Voters,,,Ballots Cast,843
+Porter,108-Westchester 1,Voters,,,Ballots Cast,399
+Porter,109-Westchester 3,Voters,,,Ballots Cast,697
+Porter,110-Westchester 4,Voters,,,Ballots Cast,836
+Porter,111-Westchester 5,Voters,,,Ballots Cast,558
+Porter,112-Westchester 6,Voters,,,Ballots Cast,151
+Porter,113-Westchester 7,Voters,,,Ballots Cast,887
+Porter,114-Westchester 8,Voters,,,Ballots Cast,712
+Porter,115-Westchester 9,Voters,,,Ballots Cast,879
+Porter,116-Westchester 10,Voters,,,Ballots Cast,673
+Porter,117-Westchester 11,Voters,,,Ballots Cast,712
+Porter,118-Westchester 12,Voters,,,Ballots Cast,890
+Porter,119-Westchester 13,Voters,,,Ballots Cast,464
+Porter,120-Westchester 14,Voters,,,Ballots Cast,872
+Porter,121-Westchester 16,Voters,,,Ballots Cast,608
+Porter,122-Westchester 17,Voters,,,Ballots Cast,154
+Porter,123-Westchester 18,Voters,,,Ballots Cast,449
+Porter,,Voters,,,Ballots Cast,79075
+Porter,001-Boone 1,President,,REP,Donald Trump,294
+Porter,002-Boone 2,President,,REP,Donald Trump,269
+Porter,003-Boone 3,President,,REP,Donald Trump,347
+Porter,004-Boone 4,President,,REP,Donald Trump,420
+Porter,005-Boone 5,President,,REP,Donald Trump,277
+Porter,006-Center 1,President,,REP,Donald Trump,185
+Porter,007-Center 2,President,,REP,Donald Trump,198
+Porter,008-Center 3,President,,REP,Donald Trump,175
+Porter,009-Center 5,President,,REP,Donald Trump,248
+Porter,010-Center 6,President,,REP,Donald Trump,355
+Porter,011-Center 7,President,,REP,Donald Trump,252
+Porter,012-Center 8,President,,REP,Donald Trump,321
+Porter,013-Center 9,President,,REP,Donald Trump,311
+Porter,014-Center 11,President,,REP,Donald Trump,429
+Porter,015-Center 13,President,,REP,Donald Trump,308
+Porter,016-Center 14,President,,REP,Donald Trump,247
+Porter,017-Center 15,President,,REP,Donald Trump,349
+Porter,018-Center 16,President,,REP,Donald Trump,248
+Porter,019-Center 17,President,,REP,Donald Trump,309
+Porter,020-Center 18,President,,REP,Donald Trump,407
+Porter,021-Center 19,President,,REP,Donald Trump,291
+Porter,022-Center 20,President,,REP,Donald Trump,401
+Porter,023-Center 21,President,,REP,Donald Trump,286
+Porter,024-Center 22,President,,REP,Donald Trump,352
+Porter,025-Center 23,President,,REP,Donald Trump,553
+Porter,026-Center 24,President,,REP,Donald Trump,429
+Porter,027-Center 25,President,,REP,Donald Trump,455
+Porter,028-Center 26,President,,REP,Donald Trump,245
+Porter,029-Center 27,President,,REP,Donald Trump,235
+Porter,030-Center 28,President,,REP,Donald Trump,181
+Porter,031-Center 29,President,,REP,Donald Trump,298
+Porter,032-Center 30,President,,REP,Donald Trump,306
+Porter,033-Center 31,President,,REP,Donald Trump,344
+Porter,034-Center 32,President,,REP,Donald Trump,282
+Porter,035-Center 33,President,,REP,Donald Trump,172
+Porter,036-Center 34,President,,REP,Donald Trump,347
+Porter,037-Center 35,President,,REP,Donald Trump,167
+Porter,038-Jackson 1,President,,REP,Donald Trump,387
+Porter,039-Jackson 2,President,,REP,Donald Trump,312
+Porter,040-Jackson 3,President,,REP,Donald Trump,316
+Porter,041-Jackson 4,President,,REP,Donald Trump,298
+Porter,042-Jackson 5,President,,REP,Donald Trump,391
+Porter,043-Liberty 1,President,,REP,Donald Trump,455
+Porter,044-Liberty 2,President,,REP,Donald Trump,163
+Porter,045-Liberty 3,President,,REP,Donald Trump,615
+Porter,046-Liberty 4,President,,REP,Donald Trump,366
+Porter,047-Liberty 5,President,,REP,Donald Trump,395
+Porter,048-Liberty 6,President,,REP,Donald Trump,262
+Porter,049-Liberty 7,President,,REP,Donald Trump,292
+Porter,050-Morgan 1,President,,REP,Donald Trump,221
+Porter,051-Morgan 2,President,,REP,Donald Trump,528
+Porter,052-Morgan 3,President,,REP,Donald Trump,490
+Porter,053-Pine 1,President,,REP,Donald Trump,380
+Porter,054-Pine 2,President,,REP,Donald Trump,245
+Porter,055-Pleasant 1,President,,REP,Donald Trump,512
+Porter,056-Pleasant 2,President,,REP,Donald Trump,567
+Porter,057-Pleasant 3,President,,REP,Donald Trump,353
+Porter,058-Portage 1,President,,REP,Donald Trump,222
+Porter,059-Portage 2,President,,REP,Donald Trump,252
+Porter,060-Portage 3,President,,REP,Donald Trump,224
+Porter,061-Portage 4,President,,REP,Donald Trump,352
+Porter,062-Portage 5,President,,REP,Donald Trump,340
+Porter,063-Portage 6,President,,REP,Donald Trump,203
+Porter,064-Portage 7,President,,REP,Donald Trump,243
+Porter,065-Portage 9,President,,REP,Donald Trump,327
+Porter,066-Portage 10,President,,REP,Donald Trump,313
+Porter,067-Portage 12,President,,REP,Donald Trump,174
+Porter,068-Portage 13,President,,REP,Donald Trump,248
+Porter,069-Portage 14,President,,REP,Donald Trump,264
+Porter,070-Portage 15,President,,REP,Donald Trump,251
+Porter,071-Portage 16,President,,REP,Donald Trump,244
+Porter,072-Portage 17,President,,REP,Donald Trump,261
+Porter,073-Portage 18,President,,REP,Donald Trump,227
+Porter,074-Portage 19,President,,REP,Donald Trump,174
+Porter,075-Portage 20,President,,REP,Donald Trump,287
+Porter,076-Portage 21,President,,REP,Donald Trump,324
+Porter,077-Portage 22,President,,REP,Donald Trump,303
+Porter,078-Portage 23,President,,REP,Donald Trump,261
+Porter,079-Portage 24,President,,REP,Donald Trump,311
+Porter,080-Portage 25,President,,REP,Donald Trump,195
+Porter,081-Portage 26,President,,REP,Donald Trump,269
+Porter,082-Portage 27,President,,REP,Donald Trump,370
+Porter,083-Portage 28,President,,REP,Donald Trump,194
+Porter,084-Portage 31,President,,REP,Donald Trump,188
+Porter,085-Portage 32,President,,REP,Donald Trump,226
+Porter,086-Portage 33,President,,REP,Donald Trump,170
+Porter,087-Portage 35,President,,REP,Donald Trump,307
+Porter,088-Portage 36,President,,REP,Donald Trump,307
+Porter,089-Portage 37,President,,REP,Donald Trump,268
+Porter,090-Portage 38,President,,REP,Donald Trump,115
+Porter,091-Porter 1,President,,REP,Donald Trump,343
+Porter,092-Porter 2,President,,REP,Donald Trump,463
+Porter,093-Porter 3,President,,REP,Donald Trump,473
+Porter,094-Porter 4,President,,REP,Donald Trump,550
+Porter,095-Porter 5,President,,REP,Donald Trump,355
+Porter,096-Porter 6,President,,REP,Donald Trump,549
+Porter,097-Porter 7,President,,REP,Donald Trump,186
+Porter,098-Union 1,President,,REP,Donald Trump,285
+Porter,099-Union 2,President,,REP,Donald Trump,218
+Porter,100-Union 3,President,,REP,Donald Trump,444
+Porter,101-Union 4,President,,REP,Donald Trump,456
+Porter,102-Union 5,President,,REP,Donald Trump,711
+Porter,103-Union 6,President,,REP,Donald Trump,287
+Porter,104-Union 7,President,,REP,Donald Trump,333
+Porter,105-Washington 1,President,,REP,Donald Trump,474
+Porter,106-Washington 2,President,,REP,Donald Trump,411
+Porter,107-Washington 3,President,,REP,Donald Trump,476
+Porter,108-Westchester 1,President,,REP,Donald Trump,136
+Porter,109-Westchester 3,President,,REP,Donald Trump,304
+Porter,110-Westchester 4,President,,REP,Donald Trump,360
+Porter,111-Westchester 5,President,,REP,Donald Trump,241
+Porter,112-Westchester 6,President,,REP,Donald Trump,65
+Porter,113-Westchester 7,President,,REP,Donald Trump,364
+Porter,114-Westchester 8,President,,REP,Donald Trump,334
+Porter,115-Westchester 9,President,,REP,Donald Trump,456
+Porter,116-Westchester 10,President,,REP,Donald Trump,307
+Porter,117-Westchester 11,President,,REP,Donald Trump,365
+Porter,118-Westchester 12,President,,REP,Donald Trump,389
+Porter,119-Westchester 13,President,,REP,Donald Trump,200
+Porter,120-Westchester 14,President,,REP,Donald Trump,445
+Porter,121-Westchester 16,President,,REP,Donald Trump,305
+Porter,122-Westchester 17,President,,REP,Donald Trump,69
+Porter,123-Westchester 18,President,,REP,Donald Trump,223
+Porter,,President,,REP,Donald Trump,38832
+Porter,001-Boone 1,President,,DEM,Hillary Clinton,191
+Porter,002-Boone 2,President,,DEM,Hillary Clinton,140
+Porter,003-Boone 3,President,,DEM,Hillary Clinton,205
+Porter,004-Boone 4,President,,DEM,Hillary Clinton,237
+Porter,005-Boone 5,President,,DEM,Hillary Clinton,143
+Porter,006-Center 1,President,,DEM,Hillary Clinton,296
+Porter,007-Center 2,President,,DEM,Hillary Clinton,332
+Porter,008-Center 3,President,,DEM,Hillary Clinton,374
+Porter,009-Center 5,President,,DEM,Hillary Clinton,306
+Porter,010-Center 6,President,,DEM,Hillary Clinton,462
+Porter,011-Center 7,President,,DEM,Hillary Clinton,331
+Porter,012-Center 8,President,,DEM,Hillary Clinton,332
+Porter,013-Center 9,President,,DEM,Hillary Clinton,389
+Porter,014-Center 11,President,,DEM,Hillary Clinton,300
+Porter,015-Center 13,President,,DEM,Hillary Clinton,295
+Porter,016-Center 14,President,,DEM,Hillary Clinton,288
+Porter,017-Center 15,President,,DEM,Hillary Clinton,258
+Porter,018-Center 16,President,,DEM,Hillary Clinton,223
+Porter,019-Center 17,President,,DEM,Hillary Clinton,278
+Porter,020-Center 18,President,,DEM,Hillary Clinton,305
+Porter,021-Center 19,President,,DEM,Hillary Clinton,207
+Porter,022-Center 20,President,,DEM,Hillary Clinton,392
+Porter,023-Center 21,President,,DEM,Hillary Clinton,266
+Porter,024-Center 22,President,,DEM,Hillary Clinton,377
+Porter,025-Center 23,President,,DEM,Hillary Clinton,381
+Porter,026-Center 24,President,,DEM,Hillary Clinton,360
+Porter,027-Center 25,President,,DEM,Hillary Clinton,352
+Porter,028-Center 26,President,,DEM,Hillary Clinton,298
+Porter,029-Center 27,President,,DEM,Hillary Clinton,311
+Porter,030-Center 28,President,,DEM,Hillary Clinton,263
+Porter,031-Center 29,President,,DEM,Hillary Clinton,272
+Porter,032-Center 30,President,,DEM,Hillary Clinton,375
+Porter,033-Center 31,President,,DEM,Hillary Clinton,356
+Porter,034-Center 32,President,,DEM,Hillary Clinton,186
+Porter,035-Center 33,President,,DEM,Hillary Clinton,214
+Porter,036-Center 34,President,,DEM,Hillary Clinton,309
+Porter,037-Center 35,President,,DEM,Hillary Clinton,198
+Porter,038-Jackson 1,President,,DEM,Hillary Clinton,205
+Porter,039-Jackson 2,President,,DEM,Hillary Clinton,182
+Porter,040-Jackson 3,President,,DEM,Hillary Clinton,205
+Porter,041-Jackson 4,President,,DEM,Hillary Clinton,249
+Porter,042-Jackson 5,President,,DEM,Hillary Clinton,296
+Porter,043-Liberty 1,President,,DEM,Hillary Clinton,334
+Porter,044-Liberty 2,President,,DEM,Hillary Clinton,100
+Porter,045-Liberty 3,President,,DEM,Hillary Clinton,530
+Porter,046-Liberty 4,President,,DEM,Hillary Clinton,240
+Porter,047-Liberty 5,President,,DEM,Hillary Clinton,363
+Porter,048-Liberty 6,President,,DEM,Hillary Clinton,186
+Porter,049-Liberty 7,President,,DEM,Hillary Clinton,167
+Porter,050-Morgan 1,President,,DEM,Hillary Clinton,106
+Porter,051-Morgan 2,President,,DEM,Hillary Clinton,249
+Porter,052-Morgan 3,President,,DEM,Hillary Clinton,280
+Porter,053-Pine 1,President,,DEM,Hillary Clinton,264
+Porter,054-Pine 2,President,,DEM,Hillary Clinton,395
+Porter,055-Pleasant 1,President,,DEM,Hillary Clinton,220
+Porter,056-Pleasant 2,President,,DEM,Hillary Clinton,207
+Porter,057-Pleasant 3,President,,DEM,Hillary Clinton,162
+Porter,058-Portage 1,President,,DEM,Hillary Clinton,181
+Porter,059-Portage 2,President,,DEM,Hillary Clinton,211
+Porter,060-Portage 3,President,,DEM,Hillary Clinton,266
+Porter,061-Portage 4,President,,DEM,Hillary Clinton,428
+Porter,062-Portage 5,President,,DEM,Hillary Clinton,326
+Porter,063-Portage 6,President,,DEM,Hillary Clinton,185
+Porter,064-Portage 7,President,,DEM,Hillary Clinton,244
+Porter,065-Portage 9,President,,DEM,Hillary Clinton,348
+Porter,066-Portage 10,President,,DEM,Hillary Clinton,244
+Porter,067-Portage 12,President,,DEM,Hillary Clinton,263
+Porter,068-Portage 13,President,,DEM,Hillary Clinton,336
+Porter,069-Portage 14,President,,DEM,Hillary Clinton,315
+Porter,070-Portage 15,President,,DEM,Hillary Clinton,214
+Porter,071-Portage 16,President,,DEM,Hillary Clinton,250
+Porter,072-Portage 17,President,,DEM,Hillary Clinton,296
+Porter,073-Portage 18,President,,DEM,Hillary Clinton,486
+Porter,074-Portage 19,President,,DEM,Hillary Clinton,170
+Porter,075-Portage 20,President,,DEM,Hillary Clinton,304
+Porter,076-Portage 21,President,,DEM,Hillary Clinton,345
+Porter,077-Portage 22,President,,DEM,Hillary Clinton,296
+Porter,078-Portage 23,President,,DEM,Hillary Clinton,237
+Porter,079-Portage 24,President,,DEM,Hillary Clinton,327
+Porter,080-Portage 25,President,,DEM,Hillary Clinton,208
+Porter,081-Portage 26,President,,DEM,Hillary Clinton,259
+Porter,082-Portage 27,President,,DEM,Hillary Clinton,391
+Porter,083-Portage 28,President,,DEM,Hillary Clinton,168
+Porter,084-Portage 31,President,,DEM,Hillary Clinton,152
+Porter,085-Portage 32,President,,DEM,Hillary Clinton,257
+Porter,086-Portage 33,President,,DEM,Hillary Clinton,164
+Porter,087-Portage 35,President,,DEM,Hillary Clinton,424
+Porter,088-Portage 36,President,,DEM,Hillary Clinton,306
+Porter,089-Portage 37,President,,DEM,Hillary Clinton,327
+Porter,090-Portage 38,President,,DEM,Hillary Clinton,362
+Porter,091-Porter 1,President,,DEM,Hillary Clinton,218
+Porter,092-Porter 2,President,,DEM,Hillary Clinton,225
+Porter,093-Porter 3,President,,DEM,Hillary Clinton,246
+Porter,094-Porter 4,President,,DEM,Hillary Clinton,307
+Porter,095-Porter 5,President,,DEM,Hillary Clinton,247
+Porter,096-Porter 6,President,,DEM,Hillary Clinton,377
+Porter,097-Porter 7,President,,DEM,Hillary Clinton,104
+Porter,098-Union 1,President,,DEM,Hillary Clinton,212
+Porter,099-Union 2,President,,DEM,Hillary Clinton,135
+Porter,100-Union 3,President,,DEM,Hillary Clinton,238
+Porter,101-Union 4,President,,DEM,Hillary Clinton,252
+Porter,102-Union 5,President,,DEM,Hillary Clinton,367
+Porter,103-Union 6,President,,DEM,Hillary Clinton,226
+Porter,104-Union 7,President,,DEM,Hillary Clinton,196
+Porter,105-Washington 1,President,,DEM,Hillary Clinton,222
+Porter,106-Washington 2,President,,DEM,Hillary Clinton,292
+Porter,107-Washington 3,President,,DEM,Hillary Clinton,300
+Porter,108-Westchester 1,President,,DEM,Hillary Clinton,231
+Porter,109-Westchester 3,President,,DEM,Hillary Clinton,336
+Porter,110-Westchester 4,President,,DEM,Hillary Clinton,387
+Porter,111-Westchester 5,President,,DEM,Hillary Clinton,263
+Porter,112-Westchester 6,President,,DEM,Hillary Clinton,74
+Porter,113-Westchester 7,President,,DEM,Hillary Clinton,437
+Porter,114-Westchester 8,President,,DEM,Hillary Clinton,304
+Porter,115-Westchester 9,President,,DEM,Hillary Clinton,347
+Porter,116-Westchester 10,President,,DEM,Hillary Clinton,307
+Porter,117-Westchester 11,President,,DEM,Hillary Clinton,276
+Porter,118-Westchester 12,President,,DEM,Hillary Clinton,422
+Porter,119-Westchester 13,President,,DEM,Hillary Clinton,219
+Porter,120-Westchester 14,President,,DEM,Hillary Clinton,363
+Porter,121-Westchester 16,President,,DEM,Hillary Clinton,244
+Porter,122-Westchester 17,President,,DEM,Hillary Clinton,77
+Porter,123-Westchester 18,President,,DEM,Hillary Clinton,193
+Porter,,President,,DEM,Hillary Clinton,33676
+Porter,001-Boone 1,President,,LBT,Gary Johnson,28
+Porter,002-Boone 2,President,,LBT,Gary Johnson,29
+Porter,003-Boone 3,President,,LBT,Gary Johnson,40
+Porter,004-Boone 4,President,,LBT,Gary Johnson,44
+Porter,005-Boone 5,President,,LBT,Gary Johnson,33
+Porter,006-Center 1,President,,LBT,Gary Johnson,31
+Porter,007-Center 2,President,,LBT,Gary Johnson,34
+Porter,008-Center 3,President,,LBT,Gary Johnson,42
+Porter,009-Center 5,President,,LBT,Gary Johnson,52
+Porter,010-Center 6,President,,LBT,Gary Johnson,48
+Porter,011-Center 7,President,,LBT,Gary Johnson,43
+Porter,012-Center 8,President,,LBT,Gary Johnson,56
+Porter,013-Center 9,President,,LBT,Gary Johnson,53
+Porter,014-Center 11,President,,LBT,Gary Johnson,40
+Porter,015-Center 13,President,,LBT,Gary Johnson,32
+Porter,016-Center 14,President,,LBT,Gary Johnson,31
+Porter,017-Center 15,President,,LBT,Gary Johnson,26
+Porter,018-Center 16,President,,LBT,Gary Johnson,20
+Porter,019-Center 17,President,,LBT,Gary Johnson,37
+Porter,020-Center 18,President,,LBT,Gary Johnson,40
+Porter,021-Center 19,President,,LBT,Gary Johnson,32
+Porter,022-Center 20,President,,LBT,Gary Johnson,39
+Porter,023-Center 21,President,,LBT,Gary Johnson,28
+Porter,024-Center 22,President,,LBT,Gary Johnson,47
+Porter,025-Center 23,President,,LBT,Gary Johnson,29
+Porter,026-Center 24,President,,LBT,Gary Johnson,55
+Porter,027-Center 25,President,,LBT,Gary Johnson,44
+Porter,028-Center 26,President,,LBT,Gary Johnson,18
+Porter,029-Center 27,President,,LBT,Gary Johnson,35
+Porter,030-Center 28,President,,LBT,Gary Johnson,32
+Porter,031-Center 29,President,,LBT,Gary Johnson,39
+Porter,032-Center 30,President,,LBT,Gary Johnson,42
+Porter,033-Center 31,President,,LBT,Gary Johnson,36
+Porter,034-Center 32,President,,LBT,Gary Johnson,14
+Porter,035-Center 33,President,,LBT,Gary Johnson,33
+Porter,036-Center 34,President,,LBT,Gary Johnson,36
+Porter,037-Center 35,President,,LBT,Gary Johnson,34
+Porter,038-Jackson 1,President,,LBT,Gary Johnson,31
+Porter,039-Jackson 2,President,,LBT,Gary Johnson,33
+Porter,040-Jackson 3,President,,LBT,Gary Johnson,20
+Porter,041-Jackson 4,President,,LBT,Gary Johnson,33
+Porter,042-Jackson 5,President,,LBT,Gary Johnson,19
+Porter,043-Liberty 1,President,,LBT,Gary Johnson,36
+Porter,044-Liberty 2,President,,LBT,Gary Johnson,15
+Porter,045-Liberty 3,President,,LBT,Gary Johnson,75
+Porter,046-Liberty 4,President,,LBT,Gary Johnson,28
+Porter,047-Liberty 5,President,,LBT,Gary Johnson,36
+Porter,048-Liberty 6,President,,LBT,Gary Johnson,33
+Porter,049-Liberty 7,President,,LBT,Gary Johnson,23
+Porter,050-Morgan 1,President,,LBT,Gary Johnson,23
+Porter,051-Morgan 2,President,,LBT,Gary Johnson,50
+Porter,052-Morgan 3,President,,LBT,Gary Johnson,55
+Porter,053-Pine 1,President,,LBT,Gary Johnson,22
+Porter,054-Pine 2,President,,LBT,Gary Johnson,37
+Porter,055-Pleasant 1,President,,LBT,Gary Johnson,37
+Porter,056-Pleasant 2,President,,LBT,Gary Johnson,38
+Porter,057-Pleasant 3,President,,LBT,Gary Johnson,32
+Porter,058-Portage 1,President,,LBT,Gary Johnson,17
+Porter,059-Portage 2,President,,LBT,Gary Johnson,35
+Porter,060-Portage 3,President,,LBT,Gary Johnson,24
+Porter,061-Portage 4,President,,LBT,Gary Johnson,39
+Porter,062-Portage 5,President,,LBT,Gary Johnson,46
+Porter,063-Portage 6,President,,LBT,Gary Johnson,24
+Porter,064-Portage 7,President,,LBT,Gary Johnson,38
+Porter,065-Portage 9,President,,LBT,Gary Johnson,47
+Porter,066-Portage 10,President,,LBT,Gary Johnson,48
+Porter,067-Portage 12,President,,LBT,Gary Johnson,19
+Porter,068-Portage 13,President,,LBT,Gary Johnson,37
+Porter,069-Portage 14,President,,LBT,Gary Johnson,27
+Porter,070-Portage 15,President,,LBT,Gary Johnson,30
+Porter,071-Portage 16,President,,LBT,Gary Johnson,43
+Porter,072-Portage 17,President,,LBT,Gary Johnson,26
+Porter,073-Portage 18,President,,LBT,Gary Johnson,22
+Porter,074-Portage 19,President,,LBT,Gary Johnson,37
+Porter,075-Portage 20,President,,LBT,Gary Johnson,36
+Porter,076-Portage 21,President,,LBT,Gary Johnson,27
+Porter,077-Portage 22,President,,LBT,Gary Johnson,44
+Porter,078-Portage 23,President,,LBT,Gary Johnson,18
+Porter,079-Portage 24,President,,LBT,Gary Johnson,41
+Porter,080-Portage 25,President,,LBT,Gary Johnson,37
+Porter,081-Portage 26,President,,LBT,Gary Johnson,25
+Porter,082-Portage 27,President,,LBT,Gary Johnson,63
+Porter,083-Portage 28,President,,LBT,Gary Johnson,32
+Porter,084-Portage 31,President,,LBT,Gary Johnson,14
+Porter,085-Portage 32,President,,LBT,Gary Johnson,42
+Porter,086-Portage 33,President,,LBT,Gary Johnson,25
+Porter,087-Portage 35,President,,LBT,Gary Johnson,23
+Porter,088-Portage 36,President,,LBT,Gary Johnson,45
+Porter,089-Portage 37,President,,LBT,Gary Johnson,35
+Porter,090-Portage 38,President,,LBT,Gary Johnson,18
+Porter,091-Porter 1,President,,LBT,Gary Johnson,26
+Porter,092-Porter 2,President,,LBT,Gary Johnson,26
+Porter,093-Porter 3,President,,LBT,Gary Johnson,44
+Porter,094-Porter 4,President,,LBT,Gary Johnson,49
+Porter,095-Porter 5,President,,LBT,Gary Johnson,24
+Porter,096-Porter 6,President,,LBT,Gary Johnson,31
+Porter,097-Porter 7,President,,LBT,Gary Johnson,8
+Porter,098-Union 1,President,,LBT,Gary Johnson,34
+Porter,099-Union 2,President,,LBT,Gary Johnson,16
+Porter,100-Union 3,President,,LBT,Gary Johnson,31
+Porter,101-Union 4,President,,LBT,Gary Johnson,39
+Porter,102-Union 5,President,,LBT,Gary Johnson,53
+Porter,103-Union 6,President,,LBT,Gary Johnson,41
+Porter,104-Union 7,President,,LBT,Gary Johnson,13
+Porter,105-Washington 1,President,,LBT,Gary Johnson,46
+Porter,106-Washington 2,President,,LBT,Gary Johnson,50
+Porter,107-Washington 3,President,,LBT,Gary Johnson,44
+Porter,108-Westchester 1,President,,LBT,Gary Johnson,22
+Porter,109-Westchester 3,President,,LBT,Gary Johnson,32
+Porter,110-Westchester 4,President,,LBT,Gary Johnson,59
+Porter,111-Westchester 5,President,,LBT,Gary Johnson,37
+Porter,112-Westchester 6,President,,LBT,Gary Johnson,5
+Porter,113-Westchester 7,President,,LBT,Gary Johnson,54
+Porter,114-Westchester 8,President,,LBT,Gary Johnson,41
+Porter,115-Westchester 9,President,,LBT,Gary Johnson,47
+Porter,116-Westchester 10,President,,LBT,Gary Johnson,39
+Porter,117-Westchester 11,President,,LBT,Gary Johnson,47
+Porter,118-Westchester 12,President,,LBT,Gary Johnson,49
+Porter,119-Westchester 13,President,,LBT,Gary Johnson,29
+Porter,120-Westchester 14,President,,LBT,Gary Johnson,36
+Porter,121-Westchester 16,President,,LBT,Gary Johnson,38
+Porter,122-Westchester 17,President,,LBT,Gary Johnson,6
+Porter,123-Westchester 18,President,,LBT,Gary Johnson,25
+Porter,,President,,LBT,Gary Johnson,4253
+Porter,001-Boone 1,President,,,Write-ins,10
+Porter,002-Boone 2,President,,,Write-ins,9
+Porter,003-Boone 3,President,,,Write-ins,4
+Porter,004-Boone 4,President,,,Write-ins,14
+Porter,005-Boone 5,President,,,Write-ins,9
+Porter,006-Center 1,President,,,Write-ins,12
+Porter,007-Center 2,President,,,Write-ins,17
+Porter,008-Center 3,President,,,Write-ins,25
+Porter,009-Center 5,President,,,Write-ins,15
+Porter,010-Center 6,President,,,Write-ins,20
+Porter,011-Center 7,President,,,Write-ins,24
+Porter,012-Center 8,President,,,Write-ins,19
+Porter,013-Center 9,President,,,Write-ins,16
+Porter,014-Center 11,President,,,Write-ins,16
+Porter,015-Center 13,President,,,Write-ins,24
+Porter,016-Center 14,President,,,Write-ins,11
+Porter,017-Center 15,President,,,Write-ins,8
+Porter,018-Center 16,President,,,Write-ins,11
+Porter,019-Center 17,President,,,Write-ins,4
+Porter,020-Center 18,President,,,Write-ins,15
+Porter,021-Center 19,President,,,Write-ins,6
+Porter,022-Center 20,President,,,Write-ins,32
+Porter,023-Center 21,President,,,Write-ins,12
+Porter,024-Center 22,President,,,Write-ins,16
+Porter,025-Center 23,President,,,Write-ins,14
+Porter,026-Center 24,President,,,Write-ins,22
+Porter,027-Center 25,President,,,Write-ins,18
+Porter,028-Center 26,President,,,Write-ins,9
+Porter,029-Center 27,President,,,Write-ins,18
+Porter,030-Center 28,President,,,Write-ins,7
+Porter,031-Center 29,President,,,Write-ins,10
+Porter,032-Center 30,President,,,Write-ins,18
+Porter,033-Center 31,President,,,Write-ins,15
+Porter,034-Center 32,President,,,Write-ins,2
+Porter,035-Center 33,President,,,Write-ins,6
+Porter,036-Center 34,President,,,Write-ins,9
+Porter,037-Center 35,President,,,Write-ins,6
+Porter,038-Jackson 1,President,,,Write-ins,7
+Porter,039-Jackson 2,President,,,Write-ins,12
+Porter,040-Jackson 3,President,,,Write-ins,6
+Porter,041-Jackson 4,President,,,Write-ins,10
+Porter,042-Jackson 5,President,,,Write-ins,10
+Porter,043-Liberty 1,President,,,Write-ins,10
+Porter,044-Liberty 2,President,,,Write-ins,6
+Porter,045-Liberty 3,President,,,Write-ins,23
+Porter,046-Liberty 4,President,,,Write-ins,18
+Porter,047-Liberty 5,President,,,Write-ins,7
+Porter,048-Liberty 6,President,,,Write-ins,12
+Porter,049-Liberty 7,President,,,Write-ins,4
+Porter,050-Morgan 1,President,,,Write-ins,6
+Porter,051-Morgan 2,President,,,Write-ins,11
+Porter,052-Morgan 3,President,,,Write-ins,16
+Porter,053-Pine 1,President,,,Write-ins,9
+Porter,054-Pine 2,President,,,Write-ins,16
+Porter,055-Pleasant 1,President,,,Write-ins,8
+Porter,056-Pleasant 2,President,,,Write-ins,14
+Porter,057-Pleasant 3,President,,,Write-ins,9
+Porter,058-Portage 1,President,,,Write-ins,6
+Porter,059-Portage 2,President,,,Write-ins,5
+Porter,060-Portage 3,President,,,Write-ins,8
+Porter,061-Portage 4,President,,,Write-ins,11
+Porter,062-Portage 5,President,,,Write-ins,14
+Porter,063-Portage 6,President,,,Write-ins,14
+Porter,064-Portage 7,President,,,Write-ins,15
+Porter,065-Portage 9,President,,,Write-ins,14
+Porter,066-Portage 10,President,,,Write-ins,10
+Porter,067-Portage 12,President,,,Write-ins,6
+Porter,068-Portage 13,President,,,Write-ins,11
+Porter,069-Portage 14,President,,,Write-ins,14
+Porter,070-Portage 15,President,,,Write-ins,8
+Porter,071-Portage 16,President,,,Write-ins,14
+Porter,072-Portage 17,President,,,Write-ins,11
+Porter,073-Portage 18,President,,,Write-ins,8
+Porter,074-Portage 19,President,,,Write-ins,11
+Porter,075-Portage 20,President,,,Write-ins,14
+Porter,076-Portage 21,President,,,Write-ins,12
+Porter,077-Portage 22,President,,,Write-ins,17
+Porter,078-Portage 23,President,,,Write-ins,12
+Porter,079-Portage 24,President,,,Write-ins,10
+Porter,080-Portage 25,President,,,Write-ins,11
+Porter,081-Portage 26,President,,,Write-ins,7
+Porter,082-Portage 27,President,,,Write-ins,12
+Porter,083-Portage 28,President,,,Write-ins,11
+Porter,084-Portage 31,President,,,Write-ins,10
+Porter,085-Portage 32,President,,,Write-ins,11
+Porter,086-Portage 33,President,,,Write-ins,10
+Porter,087-Portage 35,President,,,Write-ins,12
+Porter,088-Portage 36,President,,,Write-ins,12
+Porter,089-Portage 37,President,,,Write-ins,12
+Porter,090-Portage 38,President,,,Write-ins,10
+Porter,091-Porter 1,President,,,Write-ins,10
+Porter,092-Porter 2,President,,,Write-ins,13
+Porter,093-Porter 3,President,,,Write-ins,4
+Porter,094-Porter 4,President,,,Write-ins,12
+Porter,095-Porter 5,President,,,Write-ins,6
+Porter,096-Porter 6,President,,,Write-ins,15
+Porter,097-Porter 7,President,,,Write-ins,3
+Porter,098-Union 1,President,,,Write-ins,5
+Porter,099-Union 2,President,,,Write-ins,3
+Porter,100-Union 3,President,,,Write-ins,16
+Porter,101-Union 4,President,,,Write-ins,14
+Porter,102-Union 5,President,,,Write-ins,12
+Porter,103-Union 6,President,,,Write-ins,22
+Porter,104-Union 7,President,,,Write-ins,8
+Porter,105-Washington 1,President,,,Write-ins,13
+Porter,106-Washington 2,President,,,Write-ins,13
+Porter,107-Washington 3,President,,,Write-ins,11
+Porter,108-Westchester 1,President,,,Write-ins,6
+Porter,109-Westchester 3,President,,,Write-ins,21
+Porter,110-Westchester 4,President,,,Write-ins,28
+Porter,111-Westchester 5,President,,,Write-ins,15
+Porter,112-Westchester 6,President,,,Write-ins,3
+Porter,113-Westchester 7,President,,,Write-ins,21
+Porter,114-Westchester 8,President,,,Write-ins,20
+Porter,115-Westchester 9,President,,,Write-ins,24
+Porter,116-Westchester 10,President,,,Write-ins,17
+Porter,117-Westchester 11,President,,,Write-ins,18
+Porter,118-Westchester 12,President,,,Write-ins,22
+Porter,119-Westchester 13,President,,,Write-ins,13
+Porter,120-Westchester 14,President,,,Write-ins,15
+Porter,121-Westchester 16,President,,,Write-ins,17
+Porter,122-Westchester 17,President,,,Write-ins,1
+Porter,123-Westchester 18,President,,,Write-ins,4
+Porter,,President,,,Write-ins,1505
+Porter,001-Boone 1,U.S. Senate,,REP,Todd Young,258
+Porter,002-Boone 2,U.S. Senate,,REP,Todd Young,237
+Porter,003-Boone 3,U.S. Senate,,REP,Todd Young,288
+Porter,004-Boone 4,U.S. Senate,,REP,Todd Young,359
+Porter,005-Boone 5,U.S. Senate,,REP,Todd Young,230
+Porter,006-Center 1,U.S. Senate,,REP,Todd Young,178
+Porter,007-Center 2,U.S. Senate,,REP,Todd Young,187
+Porter,008-Center 3,U.S. Senate,,REP,Todd Young,173
+Porter,009-Center 5,U.S. Senate,,REP,Todd Young,232
+Porter,010-Center 6,U.S. Senate,,REP,Todd Young,370
+Porter,011-Center 7,U.S. Senate,,REP,Todd Young,245
+Porter,012-Center 8,U.S. Senate,,REP,Todd Young,313
+Porter,013-Center 9,U.S. Senate,,REP,Todd Young,282
+Porter,014-Center 11,U.S. Senate,,REP,Todd Young,441
+Porter,015-Center 13,U.S. Senate,,REP,Todd Young,298
+Porter,016-Center 14,U.S. Senate,,REP,Todd Young,244
+Porter,017-Center 15,U.S. Senate,,REP,Todd Young,352
+Porter,018-Center 16,U.S. Senate,,REP,Todd Young,247
+Porter,019-Center 17,U.S. Senate,,REP,Todd Young,292
+Porter,020-Center 18,U.S. Senate,,REP,Todd Young,376
+Porter,021-Center 19,U.S. Senate,,REP,Todd Young,280
+Porter,022-Center 20,U.S. Senate,,REP,Todd Young,452
+Porter,023-Center 21,U.S. Senate,,REP,Todd Young,290
+Porter,024-Center 22,U.S. Senate,,REP,Todd Young,356
+Porter,025-Center 23,U.S. Senate,,REP,Todd Young,548
+Porter,026-Center 24,U.S. Senate,,REP,Todd Young,448
+Porter,027-Center 25,U.S. Senate,,REP,Todd Young,459
+Porter,028-Center 26,U.S. Senate,,REP,Todd Young,253
+Porter,029-Center 27,U.S. Senate,,REP,Todd Young,238
+Porter,030-Center 28,U.S. Senate,,REP,Todd Young,172
+Porter,031-Center 29,U.S. Senate,,REP,Todd Young,312
+Porter,032-Center 30,U.S. Senate,,REP,Todd Young,292
+Porter,033-Center 31,U.S. Senate,,REP,Todd Young,340
+Porter,034-Center 32,U.S. Senate,,REP,Todd Young,271
+Porter,035-Center 33,U.S. Senate,,REP,Todd Young,184
+Porter,036-Center 34,U.S. Senate,,REP,Todd Young,365
+Porter,037-Center 35,U.S. Senate,,REP,Todd Young,156
+Porter,038-Jackson 1,U.S. Senate,,REP,Todd Young,377
+Porter,039-Jackson 2,U.S. Senate,,REP,Todd Young,289
+Porter,040-Jackson 3,U.S. Senate,,REP,Todd Young,283
+Porter,041-Jackson 4,U.S. Senate,,REP,Todd Young,295
+Porter,042-Jackson 5,U.S. Senate,,REP,Todd Young,342
+Porter,043-Liberty 1,U.S. Senate,,REP,Todd Young,379
+Porter,044-Liberty 2,U.S. Senate,,REP,Todd Young,135
+Porter,045-Liberty 3,U.S. Senate,,REP,Todd Young,578
+Porter,046-Liberty 4,U.S. Senate,,REP,Todd Young,318
+Porter,047-Liberty 5,U.S. Senate,,REP,Todd Young,384
+Porter,048-Liberty 6,U.S. Senate,,REP,Todd Young,241
+Porter,049-Liberty 7,U.S. Senate,,REP,Todd Young,274
+Porter,050-Morgan 1,U.S. Senate,,REP,Todd Young,203
+Porter,051-Morgan 2,U.S. Senate,,REP,Todd Young,499
+Porter,052-Morgan 3,U.S. Senate,,REP,Todd Young,468
+Porter,053-Pine 1,U.S. Senate,,REP,Todd Young,341
+Porter,054-Pine 2,U.S. Senate,,REP,Todd Young,253
+Porter,055-Pleasant 1,U.S. Senate,,REP,Todd Young,491
+Porter,056-Pleasant 2,U.S. Senate,,REP,Todd Young,507
+Porter,057-Pleasant 3,U.S. Senate,,REP,Todd Young,317
+Porter,058-Portage 1,U.S. Senate,,REP,Todd Young,179
+Porter,059-Portage 2,U.S. Senate,,REP,Todd Young,199
+Porter,060-Portage 3,U.S. Senate,,REP,Todd Young,192
+Porter,061-Portage 4,U.S. Senate,,REP,Todd Young,358
+Porter,062-Portage 5,U.S. Senate,,REP,Todd Young,279
+Porter,063-Portage 6,U.S. Senate,,REP,Todd Young,183
+Porter,064-Portage 7,U.S. Senate,,REP,Todd Young,192
+Porter,065-Portage 9,U.S. Senate,,REP,Todd Young,279
+Porter,066-Portage 10,U.S. Senate,,REP,Todd Young,249
+Porter,067-Portage 12,U.S. Senate,,REP,Todd Young,144
+Porter,068-Portage 13,U.S. Senate,,REP,Todd Young,209
+Porter,069-Portage 14,U.S. Senate,,REP,Todd Young,232
+Porter,070-Portage 15,U.S. Senate,,REP,Todd Young,210
+Porter,071-Portage 16,U.S. Senate,,REP,Todd Young,206
+Porter,072-Portage 17,U.S. Senate,,REP,Todd Young,217
+Porter,073-Portage 18,U.S. Senate,,REP,Todd Young,192
+Porter,074-Portage 19,U.S. Senate,,REP,Todd Young,148
+Porter,075-Portage 20,U.S. Senate,,REP,Todd Young,243
+Porter,076-Portage 21,U.S. Senate,,REP,Todd Young,229
+Porter,077-Portage 22,U.S. Senate,,REP,Todd Young,253
+Porter,078-Portage 23,U.S. Senate,,REP,Todd Young,215
+Porter,079-Portage 24,U.S. Senate,,REP,Todd Young,246
+Porter,080-Portage 25,U.S. Senate,,REP,Todd Young,170
+Porter,081-Portage 26,U.S. Senate,,REP,Todd Young,188
+Porter,082-Portage 27,U.S. Senate,,REP,Todd Young,346
+Porter,083-Portage 28,U.S. Senate,,REP,Todd Young,145
+Porter,084-Portage 31,U.S. Senate,,REP,Todd Young,162
+Porter,085-Portage 32,U.S. Senate,,REP,Todd Young,185
+Porter,086-Portage 33,U.S. Senate,,REP,Todd Young,140
+Porter,087-Portage 35,U.S. Senate,,REP,Todd Young,261
+Porter,088-Portage 36,U.S. Senate,,REP,Todd Young,252
+Porter,089-Portage 37,U.S. Senate,,REP,Todd Young,217
+Porter,090-Portage 38,U.S. Senate,,REP,Todd Young,112
+Porter,091-Porter 1,U.S. Senate,,REP,Todd Young,301
+Porter,092-Porter 2,U.S. Senate,,REP,Todd Young,389
+Porter,093-Porter 3,U.S. Senate,,REP,Todd Young,416
+Porter,094-Porter 4,U.S. Senate,,REP,Todd Young,505
+Porter,095-Porter 5,U.S. Senate,,REP,Todd Young,337
+Porter,096-Porter 6,U.S. Senate,,REP,Todd Young,500
+Porter,097-Porter 7,U.S. Senate,,REP,Todd Young,160
+Porter,098-Union 1,U.S. Senate,,REP,Todd Young,236
+Porter,099-Union 2,U.S. Senate,,REP,Todd Young,204
+Porter,100-Union 3,U.S. Senate,,REP,Todd Young,438
+Porter,101-Union 4,U.S. Senate,,REP,Todd Young,383
+Porter,102-Union 5,U.S. Senate,,REP,Todd Young,686
+Porter,103-Union 6,U.S. Senate,,REP,Todd Young,248
+Porter,104-Union 7,U.S. Senate,,REP,Todd Young,284
+Porter,105-Washington 1,U.S. Senate,,REP,Todd Young,457
+Porter,106-Washington 2,U.S. Senate,,REP,Todd Young,391
+Porter,107-Washington 3,U.S. Senate,,REP,Todd Young,439
+Porter,108-Westchester 1,U.S. Senate,,REP,Todd Young,131
+Porter,109-Westchester 3,U.S. Senate,,REP,Todd Young,269
+Porter,110-Westchester 4,U.S. Senate,,REP,Todd Young,324
+Porter,111-Westchester 5,U.S. Senate,,REP,Todd Young,200
+Porter,112-Westchester 6,U.S. Senate,,REP,Todd Young,76
+Porter,113-Westchester 7,U.S. Senate,,REP,Todd Young,372
+Porter,114-Westchester 8,U.S. Senate,,REP,Todd Young,287
+Porter,115-Westchester 9,U.S. Senate,,REP,Todd Young,439
+Porter,116-Westchester 10,U.S. Senate,,REP,Todd Young,287
+Porter,117-Westchester 11,U.S. Senate,,REP,Todd Young,314
+Porter,118-Westchester 12,U.S. Senate,,REP,Todd Young,365
+Porter,119-Westchester 13,U.S. Senate,,REP,Todd Young,176
+Porter,120-Westchester 14,U.S. Senate,,REP,Todd Young,440
+Porter,121-Westchester 16,U.S. Senate,,REP,Todd Young,284
+Porter,122-Westchester 17,U.S. Senate,,REP,Todd Young,59
+Porter,123-Westchester 18,U.S. Senate,,REP,Todd Young,208
+Porter,,U.S. Senate,,REP,Todd Young,35629
+Porter,001-Boone 1,U.S. Senate,,DEM,Evan Bayh,216
+Porter,002-Boone 2,U.S. Senate,,DEM,Evan Bayh,181
+Porter,003-Boone 3,U.S. Senate,,DEM,Evan Bayh,258
+Porter,004-Boone 4,U.S. Senate,,DEM,Evan Bayh,302
+Porter,005-Boone 5,U.S. Senate,,DEM,Evan Bayh,194
+Porter,006-Center 1,U.S. Senate,,DEM,Evan Bayh,292
+Porter,007-Center 2,U.S. Senate,,DEM,Evan Bayh,345
+Porter,008-Center 3,U.S. Senate,,DEM,Evan Bayh,351
+Porter,009-Center 5,U.S. Senate,,DEM,Evan Bayh,330
+Porter,010-Center 6,U.S. Senate,,DEM,Evan Bayh,469
+Porter,011-Center 7,U.S. Senate,,DEM,Evan Bayh,358
+Porter,012-Center 8,U.S. Senate,,DEM,Evan Bayh,350
+Porter,013-Center 9,U.S. Senate,,DEM,Evan Bayh,410
+Porter,014-Center 11,U.S. Senate,,DEM,Evan Bayh,306
+Porter,015-Center 13,U.S. Senate,,DEM,Evan Bayh,321
+Porter,016-Center 14,U.S. Senate,,DEM,Evan Bayh,297
+Porter,017-Center 15,U.S. Senate,,DEM,Evan Bayh,261
+Porter,018-Center 16,U.S. Senate,,DEM,Evan Bayh,232
+Porter,019-Center 17,U.S. Senate,,DEM,Evan Bayh,285
+Porter,020-Center 18,U.S. Senate,,DEM,Evan Bayh,337
+Porter,021-Center 19,U.S. Senate,,DEM,Evan Bayh,224
+Porter,022-Center 20,U.S. Senate,,DEM,Evan Bayh,380
+Porter,023-Center 21,U.S. Senate,,DEM,Evan Bayh,270
+Porter,024-Center 22,U.S. Senate,,DEM,Evan Bayh,393
+Porter,025-Center 23,U.S. Senate,,DEM,Evan Bayh,390
+Porter,026-Center 24,U.S. Senate,,DEM,Evan Bayh,370
+Porter,027-Center 25,U.S. Senate,,DEM,Evan Bayh,373
+Porter,028-Center 26,U.S. Senate,,DEM,Evan Bayh,286
+Porter,029-Center 27,U.S. Senate,,DEM,Evan Bayh,312
+Porter,030-Center 28,U.S. Senate,,DEM,Evan Bayh,268
+Porter,031-Center 29,U.S. Senate,,DEM,Evan Bayh,276
+Porter,032-Center 30,U.S. Senate,,DEM,Evan Bayh,381
+Porter,033-Center 31,U.S. Senate,,DEM,Evan Bayh,374
+Porter,034-Center 32,U.S. Senate,,DEM,Evan Bayh,200
+Porter,035-Center 33,U.S. Senate,,DEM,Evan Bayh,222
+Porter,036-Center 34,U.S. Senate,,DEM,Evan Bayh,292
+Porter,037-Center 35,U.S. Senate,,DEM,Evan Bayh,202
+Porter,038-Jackson 1,U.S. Senate,,DEM,Evan Bayh,228
+Porter,039-Jackson 2,U.S. Senate,,DEM,Evan Bayh,220
+Porter,040-Jackson 3,U.S. Senate,,DEM,Evan Bayh,222
+Porter,041-Jackson 4,U.S. Senate,,DEM,Evan Bayh,257
+Porter,042-Jackson 5,U.S. Senate,,DEM,Evan Bayh,327
+Porter,043-Liberty 1,U.S. Senate,,DEM,Evan Bayh,390
+Porter,044-Liberty 2,U.S. Senate,,DEM,Evan Bayh,125
+Porter,045-Liberty 3,U.S. Senate,,DEM,Evan Bayh,556
+Porter,046-Liberty 4,U.S. Senate,,DEM,Evan Bayh,278
+Porter,047-Liberty 5,U.S. Senate,,DEM,Evan Bayh,372
+Porter,048-Liberty 6,U.S. Senate,,DEM,Evan Bayh,207
+Porter,049-Liberty 7,U.S. Senate,,DEM,Evan Bayh,179
+Porter,050-Morgan 1,U.S. Senate,,DEM,Evan Bayh,130
+Porter,051-Morgan 2,U.S. Senate,,DEM,Evan Bayh,273
+Porter,052-Morgan 3,U.S. Senate,,DEM,Evan Bayh,328
+Porter,053-Pine 1,U.S. Senate,,DEM,Evan Bayh,293
+Porter,054-Pine 2,U.S. Senate,,DEM,Evan Bayh,407
+Porter,055-Pleasant 1,U.S. Senate,,DEM,Evan Bayh,243
+Porter,056-Pleasant 2,U.S. Senate,,DEM,Evan Bayh,279
+Porter,057-Pleasant 3,U.S. Senate,,DEM,Evan Bayh,200
+Porter,058-Portage 1,U.S. Senate,,DEM,Evan Bayh,211
+Porter,059-Portage 2,U.S. Senate,,DEM,Evan Bayh,255
+Porter,060-Portage 3,U.S. Senate,,DEM,Evan Bayh,278
+Porter,061-Portage 4,U.S. Senate,,DEM,Evan Bayh,432
+Porter,062-Portage 5,U.S. Senate,,DEM,Evan Bayh,390
+Porter,063-Portage 6,U.S. Senate,,DEM,Evan Bayh,209
+Porter,064-Portage 7,U.S. Senate,,DEM,Evan Bayh,288
+Porter,065-Portage 9,U.S. Senate,,DEM,Evan Bayh,403
+Porter,066-Portage 10,U.S. Senate,,DEM,Evan Bayh,303
+Porter,067-Portage 12,U.S. Senate,,DEM,Evan Bayh,285
+Porter,068-Portage 13,U.S. Senate,,DEM,Evan Bayh,376
+Porter,069-Portage 14,U.S. Senate,,DEM,Evan Bayh,346
+Porter,070-Portage 15,U.S. Senate,,DEM,Evan Bayh,246
+Porter,071-Portage 16,U.S. Senate,,DEM,Evan Bayh,295
+Porter,072-Portage 17,U.S. Senate,,DEM,Evan Bayh,324
+Porter,073-Portage 18,U.S. Senate,,DEM,Evan Bayh,492
+Porter,074-Portage 19,U.S. Senate,,DEM,Evan Bayh,191
+Porter,075-Portage 20,U.S. Senate,,DEM,Evan Bayh,337
+Porter,076-Portage 21,U.S. Senate,,DEM,Evan Bayh,425
+Porter,077-Portage 22,U.S. Senate,,DEM,Evan Bayh,348
+Porter,078-Portage 23,U.S. Senate,,DEM,Evan Bayh,259
+Porter,079-Portage 24,U.S. Senate,,DEM,Evan Bayh,382
+Porter,080-Portage 25,U.S. Senate,,DEM,Evan Bayh,234
+Porter,081-Portage 26,U.S. Senate,,DEM,Evan Bayh,314
+Porter,082-Portage 27,U.S. Senate,,DEM,Evan Bayh,430
+Porter,083-Portage 28,U.S. Senate,,DEM,Evan Bayh,208
+Porter,084-Portage 31,U.S. Senate,,DEM,Evan Bayh,160
+Porter,085-Portage 32,U.S. Senate,,DEM,Evan Bayh,296
+Porter,086-Portage 33,U.S. Senate,,DEM,Evan Bayh,185
+Porter,087-Portage 35,U.S. Senate,,DEM,Evan Bayh,448
+Porter,088-Portage 36,U.S. Senate,,DEM,Evan Bayh,345
+Porter,089-Portage 37,U.S. Senate,,DEM,Evan Bayh,376
+Porter,090-Portage 38,U.S. Senate,,DEM,Evan Bayh,363
+Porter,091-Porter 1,U.S. Senate,,DEM,Evan Bayh,249
+Porter,092-Porter 2,U.S. Senate,,DEM,Evan Bayh,293
+Porter,093-Porter 3,U.S. Senate,,DEM,Evan Bayh,301
+Porter,094-Porter 4,U.S. Senate,,DEM,Evan Bayh,347
+Porter,095-Porter 5,U.S. Senate,,DEM,Evan Bayh,261
+Porter,096-Porter 6,U.S. Senate,,DEM,Evan Bayh,415
+Porter,097-Porter 7,U.S. Senate,,DEM,Evan Bayh,124
+Porter,098-Union 1,U.S. Senate,,DEM,Evan Bayh,249
+Porter,099-Union 2,U.S. Senate,,DEM,Evan Bayh,144
+Porter,100-Union 3,U.S. Senate,,DEM,Evan Bayh,254
+Porter,101-Union 4,U.S. Senate,,DEM,Evan Bayh,320
+Porter,102-Union 5,U.S. Senate,,DEM,Evan Bayh,404
+Porter,103-Union 6,U.S. Senate,,DEM,Evan Bayh,263
+Porter,104-Union 7,U.S. Senate,,DEM,Evan Bayh,220
+Porter,105-Washington 1,U.S. Senate,,DEM,Evan Bayh,245
+Porter,106-Washington 2,U.S. Senate,,DEM,Evan Bayh,317
+Porter,107-Washington 3,U.S. Senate,,DEM,Evan Bayh,320
+Porter,108-Westchester 1,U.S. Senate,,DEM,Evan Bayh,235
+Porter,109-Westchester 3,U.S. Senate,,DEM,Evan Bayh,375
+Porter,110-Westchester 4,U.S. Senate,,DEM,Evan Bayh,438
+Porter,111-Westchester 5,U.S. Senate,,DEM,Evan Bayh,301
+Porter,112-Westchester 6,U.S. Senate,,DEM,Evan Bayh,68
+Porter,113-Westchester 7,U.S. Senate,,DEM,Evan Bayh,441
+Porter,114-Westchester 8,U.S. Senate,,DEM,Evan Bayh,331
+Porter,115-Westchester 9,U.S. Senate,,DEM,Evan Bayh,373
+Porter,116-Westchester 10,U.S. Senate,,DEM,Evan Bayh,325
+Porter,117-Westchester 11,U.S. Senate,,DEM,Evan Bayh,327
+Porter,118-Westchester 12,U.S. Senate,,DEM,Evan Bayh,454
+Porter,119-Westchester 13,U.S. Senate,,DEM,Evan Bayh,241
+Porter,120-Westchester 14,U.S. Senate,,DEM,Evan Bayh,380
+Porter,121-Westchester 16,U.S. Senate,,DEM,Evan Bayh,264
+Porter,122-Westchester 17,U.S. Senate,,DEM,Evan Bayh,79
+Porter,123-Westchester 18,U.S. Senate,,DEM,Evan Bayh,214
+Porter,,U.S. Senate,,DEM,Evan Bayh,36828
+Porter,001-Boone 1,U.S. Senate,,LBT,Lucy Brenton,34
+Porter,002-Boone 2,U.S. Senate,,LBT,Lucy Brenton,29
+Porter,003-Boone 3,U.S. Senate,,LBT,Lucy Brenton,32
+Porter,004-Boone 4,U.S. Senate,,LBT,Lucy Brenton,45
+Porter,005-Boone 5,U.S. Senate,,LBT,Lucy Brenton,26
+Porter,006-Center 1,U.S. Senate,,LBT,Lucy Brenton,41
+Porter,007-Center 2,U.S. Senate,,LBT,Lucy Brenton,40
+Porter,008-Center 3,U.S. Senate,,LBT,Lucy Brenton,67
+Porter,009-Center 5,U.S. Senate,,LBT,Lucy Brenton,45
+Porter,010-Center 6,U.S. Senate,,LBT,Lucy Brenton,38
+Porter,011-Center 7,U.S. Senate,,LBT,Lucy Brenton,44
+Porter,012-Center 8,U.S. Senate,,LBT,Lucy Brenton,46
+Porter,013-Center 9,U.S. Senate,,LBT,Lucy Brenton,63
+Porter,014-Center 11,U.S. Senate,,LBT,Lucy Brenton,23
+Porter,015-Center 13,U.S. Senate,,LBT,Lucy Brenton,30
+Porter,016-Center 14,U.S. Senate,,LBT,Lucy Brenton,23
+Porter,017-Center 15,U.S. Senate,,LBT,Lucy Brenton,20
+Porter,018-Center 16,U.S. Senate,,LBT,Lucy Brenton,16
+Porter,019-Center 17,U.S. Senate,,LBT,Lucy Brenton,35
+Porter,020-Center 18,U.S. Senate,,LBT,Lucy Brenton,32
+Porter,021-Center 19,U.S. Senate,,LBT,Lucy Brenton,31
+Porter,022-Center 20,U.S. Senate,,LBT,Lucy Brenton,29
+Porter,023-Center 21,U.S. Senate,,LBT,Lucy Brenton,21
+Porter,024-Center 22,U.S. Senate,,LBT,Lucy Brenton,40
+Porter,025-Center 23,U.S. Senate,,LBT,Lucy Brenton,25
+Porter,026-Center 24,U.S. Senate,,LBT,Lucy Brenton,36
+Porter,027-Center 25,U.S. Senate,,LBT,Lucy Brenton,36
+Porter,028-Center 26,U.S. Senate,,LBT,Lucy Brenton,17
+Porter,029-Center 27,U.S. Senate,,LBT,Lucy Brenton,41
+Porter,030-Center 28,U.S. Senate,,LBT,Lucy Brenton,25
+Porter,031-Center 29,U.S. Senate,,LBT,Lucy Brenton,28
+Porter,032-Center 30,U.S. Senate,,LBT,Lucy Brenton,41
+Porter,033-Center 31,U.S. Senate,,LBT,Lucy Brenton,27
+Porter,034-Center 32,U.S. Senate,,LBT,Lucy Brenton,9
+Porter,035-Center 33,U.S. Senate,,LBT,Lucy Brenton,14
+Porter,036-Center 34,U.S. Senate,,LBT,Lucy Brenton,31
+Porter,037-Center 35,U.S. Senate,,LBT,Lucy Brenton,38
+Porter,038-Jackson 1,U.S. Senate,,LBT,Lucy Brenton,20
+Porter,039-Jackson 2,U.S. Senate,,LBT,Lucy Brenton,21
+Porter,040-Jackson 3,U.S. Senate,,LBT,Lucy Brenton,33
+Porter,041-Jackson 4,U.S. Senate,,LBT,Lucy Brenton,28
+Porter,042-Jackson 5,U.S. Senate,,LBT,Lucy Brenton,38
+Porter,043-Liberty 1,U.S. Senate,,LBT,Lucy Brenton,44
+Porter,044-Liberty 2,U.S. Senate,,LBT,Lucy Brenton,20
+Porter,045-Liberty 3,U.S. Senate,,LBT,Lucy Brenton,73
+Porter,046-Liberty 4,U.S. Senate,,LBT,Lucy Brenton,43
+Porter,047-Liberty 5,U.S. Senate,,LBT,Lucy Brenton,32
+Porter,048-Liberty 6,U.S. Senate,,LBT,Lucy Brenton,37
+Porter,049-Liberty 7,U.S. Senate,,LBT,Lucy Brenton,27
+Porter,050-Morgan 1,U.S. Senate,,LBT,Lucy Brenton,20
+Porter,051-Morgan 2,U.S. Senate,,LBT,Lucy Brenton,45
+Porter,052-Morgan 3,U.S. Senate,,LBT,Lucy Brenton,38
+Porter,053-Pine 1,U.S. Senate,,LBT,Lucy Brenton,21
+Porter,054-Pine 2,U.S. Senate,,LBT,Lucy Brenton,31
+Porter,055-Pleasant 1,U.S. Senate,,LBT,Lucy Brenton,27
+Porter,056-Pleasant 2,U.S. Senate,,LBT,Lucy Brenton,28
+Porter,057-Pleasant 3,U.S. Senate,,LBT,Lucy Brenton,25
+Porter,058-Portage 1,U.S. Senate,,LBT,Lucy Brenton,21
+Porter,059-Portage 2,U.S. Senate,,LBT,Lucy Brenton,39
+Porter,060-Portage 3,U.S. Senate,,LBT,Lucy Brenton,41
+Porter,061-Portage 4,U.S. Senate,,LBT,Lucy Brenton,32
+Porter,062-Portage 5,U.S. Senate,,LBT,Lucy Brenton,43
+Porter,063-Portage 6,U.S. Senate,,LBT,Lucy Brenton,26
+Porter,064-Portage 7,U.S. Senate,,LBT,Lucy Brenton,46
+Porter,065-Portage 9,U.S. Senate,,LBT,Lucy Brenton,40
+Porter,066-Portage 10,U.S. Senate,,LBT,Lucy Brenton,53
+Porter,067-Portage 12,U.S. Senate,,LBT,Lucy Brenton,25
+Porter,068-Portage 13,U.S. Senate,,LBT,Lucy Brenton,40
+Porter,069-Portage 14,U.S. Senate,,LBT,Lucy Brenton,31
+Porter,070-Portage 15,U.S. Senate,,LBT,Lucy Brenton,34
+Porter,071-Portage 16,U.S. Senate,,LBT,Lucy Brenton,40
+Porter,072-Portage 17,U.S. Senate,,LBT,Lucy Brenton,40
+Porter,073-Portage 18,U.S. Senate,,LBT,Lucy Brenton,47
+Porter,074-Portage 19,U.S. Senate,,LBT,Lucy Brenton,39
+Porter,075-Portage 20,U.S. Senate,,LBT,Lucy Brenton,47
+Porter,076-Portage 21,U.S. Senate,,LBT,Lucy Brenton,42
+Porter,077-Portage 22,U.S. Senate,,LBT,Lucy Brenton,43
+Porter,078-Portage 23,U.S. Senate,,LBT,Lucy Brenton,30
+Porter,079-Portage 24,U.S. Senate,,LBT,Lucy Brenton,37
+Porter,080-Portage 25,U.S. Senate,,LBT,Lucy Brenton,31
+Porter,081-Portage 26,U.S. Senate,,LBT,Lucy Brenton,43
+Porter,082-Portage 27,U.S. Senate,,LBT,Lucy Brenton,44
+Porter,083-Portage 28,U.S. Senate,,LBT,Lucy Brenton,45
+Porter,084-Portage 31,U.S. Senate,,LBT,Lucy Brenton,32
+Porter,085-Portage 32,U.S. Senate,,LBT,Lucy Brenton,36
+Porter,086-Portage 33,U.S. Senate,,LBT,Lucy Brenton,26
+Porter,087-Portage 35,U.S. Senate,,LBT,Lucy Brenton,41
+Porter,088-Portage 36,U.S. Senate,,LBT,Lucy Brenton,43
+Porter,089-Portage 37,U.S. Senate,,LBT,Lucy Brenton,29
+Porter,090-Portage 38,U.S. Senate,,LBT,Lucy Brenton,24
+Porter,091-Porter 1,U.S. Senate,,LBT,Lucy Brenton,32
+Porter,092-Porter 2,U.S. Senate,,LBT,Lucy Brenton,35
+Porter,093-Porter 3,U.S. Senate,,LBT,Lucy Brenton,35
+Porter,094-Porter 4,U.S. Senate,,LBT,Lucy Brenton,49
+Porter,095-Porter 5,U.S. Senate,,LBT,Lucy Brenton,21
+Porter,096-Porter 6,U.S. Senate,,LBT,Lucy Brenton,39
+Porter,097-Porter 7,U.S. Senate,,LBT,Lucy Brenton,8
+Porter,098-Union 1,U.S. Senate,,LBT,Lucy Brenton,41
+Porter,099-Union 2,U.S. Senate,,LBT,Lucy Brenton,15
+Porter,100-Union 3,U.S. Senate,,LBT,Lucy Brenton,26
+Porter,101-Union 4,U.S. Senate,,LBT,Lucy Brenton,40
+Porter,102-Union 5,U.S. Senate,,LBT,Lucy Brenton,27
+Porter,103-Union 6,U.S. Senate,,LBT,Lucy Brenton,52
+Porter,104-Union 7,U.S. Senate,,LBT,Lucy Brenton,24
+Porter,105-Washington 1,U.S. Senate,,LBT,Lucy Brenton,40
+Porter,106-Washington 2,U.S. Senate,,LBT,Lucy Brenton,49
+Porter,107-Washington 3,U.S. Senate,,LBT,Lucy Brenton,45
+Porter,108-Westchester 1,U.S. Senate,,LBT,Lucy Brenton,25
+Porter,109-Westchester 3,U.S. Senate,,LBT,Lucy Brenton,41
+Porter,110-Westchester 4,U.S. Senate,,LBT,Lucy Brenton,58
+Porter,111-Westchester 5,U.S. Senate,,LBT,Lucy Brenton,44
+Porter,112-Westchester 6,U.S. Senate,,LBT,Lucy Brenton,2
+Porter,113-Westchester 7,U.S. Senate,,LBT,Lucy Brenton,51
+Porter,114-Westchester 8,U.S. Senate,,LBT,Lucy Brenton,52
+Porter,115-Westchester 9,U.S. Senate,,LBT,Lucy Brenton,48
+Porter,116-Westchester 10,U.S. Senate,,LBT,Lucy Brenton,41
+Porter,117-Westchester 11,U.S. Senate,,LBT,Lucy Brenton,47
+Porter,118-Westchester 12,U.S. Senate,,LBT,Lucy Brenton,52
+Porter,119-Westchester 13,U.S. Senate,,LBT,Lucy Brenton,40
+Porter,120-Westchester 14,U.S. Senate,,LBT,Lucy Brenton,28
+Porter,121-Westchester 16,U.S. Senate,,LBT,Lucy Brenton,34
+Porter,122-Westchester 17,U.S. Senate,,LBT,Lucy Brenton,11
+Porter,123-Westchester 18,U.S. Senate,,LBT,Lucy Brenton,15
+Porter,,U.S. Senate,,LBT,Lucy Brenton,4266
+Porter,001-Boone 1,U.S. Senate,,,Write-ins,0
+Porter,002-Boone 2,U.S. Senate,,,Write-ins,0
+Porter,003-Boone 3,U.S. Senate,,,Write-ins,0
+Porter,004-Boone 4,U.S. Senate,,,Write-ins,1
+Porter,005-Boone 5,U.S. Senate,,,Write-ins,0
+Porter,006-Center 1,U.S. Senate,,,Write-ins,0
+Porter,007-Center 2,U.S. Senate,,,Write-ins,0
+Porter,008-Center 3,U.S. Senate,,,Write-ins,0
+Porter,009-Center 5,U.S. Senate,,,Write-ins,0
+Porter,010-Center 6,U.S. Senate,,,Write-ins,0
+Porter,011-Center 7,U.S. Senate,,,Write-ins,1
+Porter,012-Center 8,U.S. Senate,,,Write-ins,1
+Porter,013-Center 9,U.S. Senate,,,Write-ins,0
+Porter,014-Center 11,U.S. Senate,,,Write-ins,1
+Porter,015-Center 13,U.S. Senate,,,Write-ins,0
+Porter,016-Center 14,U.S. Senate,,,Write-ins,0
+Porter,017-Center 15,U.S. Senate,,,Write-ins,0
+Porter,018-Center 16,U.S. Senate,,,Write-ins,0
+Porter,019-Center 17,U.S. Senate,,,Write-ins,1
+Porter,020-Center 18,U.S. Senate,,,Write-ins,2
+Porter,021-Center 19,U.S. Senate,,,Write-ins,0
+Porter,022-Center 20,U.S. Senate,,,Write-ins,0
+Porter,023-Center 21,U.S. Senate,,,Write-ins,0
+Porter,024-Center 22,U.S. Senate,,,Write-ins,0
+Porter,025-Center 23,U.S. Senate,,,Write-ins,0
+Porter,026-Center 24,U.S. Senate,,,Write-ins,1
+Porter,027-Center 25,U.S. Senate,,,Write-ins,0
+Porter,028-Center 26,U.S. Senate,,,Write-ins,0
+Porter,029-Center 27,U.S. Senate,,,Write-ins,1
+Porter,030-Center 28,U.S. Senate,,,Write-ins,0
+Porter,031-Center 29,U.S. Senate,,,Write-ins,0
+Porter,032-Center 30,U.S. Senate,,,Write-ins,0
+Porter,033-Center 31,U.S. Senate,,,Write-ins,1
+Porter,034-Center 32,U.S. Senate,,,Write-ins,0
+Porter,035-Center 33,U.S. Senate,,,Write-ins,0
+Porter,036-Center 34,U.S. Senate,,,Write-ins,0
+Porter,037-Center 35,U.S. Senate,,,Write-ins,0
+Porter,038-Jackson 1,U.S. Senate,,,Write-ins,0
+Porter,039-Jackson 2,U.S. Senate,,,Write-ins,0
+Porter,040-Jackson 3,U.S. Senate,,,Write-ins,0
+Porter,041-Jackson 4,U.S. Senate,,,Write-ins,0
+Porter,042-Jackson 5,U.S. Senate,,,Write-ins,0
+Porter,043-Liberty 1,U.S. Senate,,,Write-ins,2
+Porter,044-Liberty 2,U.S. Senate,,,Write-ins,0
+Porter,045-Liberty 3,U.S. Senate,,,Write-ins,1
+Porter,046-Liberty 4,U.S. Senate,,,Write-ins,0
+Porter,047-Liberty 5,U.S. Senate,,,Write-ins,0
+Porter,048-Liberty 6,U.S. Senate,,,Write-ins,0
+Porter,049-Liberty 7,U.S. Senate,,,Write-ins,1
+Porter,050-Morgan 1,U.S. Senate,,,Write-ins,0
+Porter,051-Morgan 2,U.S. Senate,,,Write-ins,0
+Porter,052-Morgan 3,U.S. Senate,,,Write-ins,0
+Porter,053-Pine 1,U.S. Senate,,,Write-ins,0
+Porter,054-Pine 2,U.S. Senate,,,Write-ins,1
+Porter,055-Pleasant 1,U.S. Senate,,,Write-ins,0
+Porter,056-Pleasant 2,U.S. Senate,,,Write-ins,0
+Porter,057-Pleasant 3,U.S. Senate,,,Write-ins,1
+Porter,058-Portage 1,U.S. Senate,,,Write-ins,2
+Porter,059-Portage 2,U.S. Senate,,,Write-ins,0
+Porter,060-Portage 3,U.S. Senate,,,Write-ins,2
+Porter,061-Portage 4,U.S. Senate,,,Write-ins,0
+Porter,062-Portage 5,U.S. Senate,,,Write-ins,0
+Porter,063-Portage 6,U.S. Senate,,,Write-ins,0
+Porter,064-Portage 7,U.S. Senate,,,Write-ins,1
+Porter,065-Portage 9,U.S. Senate,,,Write-ins,0
+Porter,066-Portage 10,U.S. Senate,,,Write-ins,0
+Porter,067-Portage 12,U.S. Senate,,,Write-ins,1
+Porter,068-Portage 13,U.S. Senate,,,Write-ins,0
+Porter,069-Portage 14,U.S. Senate,,,Write-ins,2
+Porter,070-Portage 15,U.S. Senate,,,Write-ins,0
+Porter,071-Portage 16,U.S. Senate,,,Write-ins,0
+Porter,072-Portage 17,U.S. Senate,,,Write-ins,0
+Porter,073-Portage 18,U.S. Senate,,,Write-ins,0
+Porter,074-Portage 19,U.S. Senate,,,Write-ins,0
+Porter,075-Portage 20,U.S. Senate,,,Write-ins,1
+Porter,076-Portage 21,U.S. Senate,,,Write-ins,1
+Porter,077-Portage 22,U.S. Senate,,,Write-ins,0
+Porter,078-Portage 23,U.S. Senate,,,Write-ins,0
+Porter,079-Portage 24,U.S. Senate,,,Write-ins,1
+Porter,080-Portage 25,U.S. Senate,,,Write-ins,0
+Porter,081-Portage 26,U.S. Senate,,,Write-ins,1
+Porter,082-Portage 27,U.S. Senate,,,Write-ins,0
+Porter,083-Portage 28,U.S. Senate,,,Write-ins,0
+Porter,084-Portage 31,U.S. Senate,,,Write-ins,1
+Porter,085-Portage 32,U.S. Senate,,,Write-ins,1
+Porter,086-Portage 33,U.S. Senate,,,Write-ins,0
+Porter,087-Portage 35,U.S. Senate,,,Write-ins,0
+Porter,088-Portage 36,U.S. Senate,,,Write-ins,2
+Porter,089-Portage 37,U.S. Senate,,,Write-ins,1
+Porter,090-Portage 38,U.S. Senate,,,Write-ins,0
+Porter,091-Porter 1,U.S. Senate,,,Write-ins,0
+Porter,092-Porter 2,U.S. Senate,,,Write-ins,2
+Porter,093-Porter 3,U.S. Senate,,,Write-ins,0
+Porter,094-Porter 4,U.S. Senate,,,Write-ins,0
+Porter,095-Porter 5,U.S. Senate,,,Write-ins,1
+Porter,096-Porter 6,U.S. Senate,,,Write-ins,0
+Porter,097-Porter 7,U.S. Senate,,,Write-ins,0
+Porter,098-Union 1,U.S. Senate,,,Write-ins,1
+Porter,099-Union 2,U.S. Senate,,,Write-ins,0
+Porter,100-Union 3,U.S. Senate,,,Write-ins,2
+Porter,101-Union 4,U.S. Senate,,,Write-ins,0
+Porter,102-Union 5,U.S. Senate,,,Write-ins,0
+Porter,103-Union 6,U.S. Senate,,,Write-ins,1
+Porter,104-Union 7,U.S. Senate,,,Write-ins,2
+Porter,105-Washington 1,U.S. Senate,,,Write-ins,0
+Porter,106-Washington 2,U.S. Senate,,,Write-ins,1
+Porter,107-Washington 3,U.S. Senate,,,Write-ins,0
+Porter,108-Westchester 1,U.S. Senate,,,Write-ins,0
+Porter,109-Westchester 3,U.S. Senate,,,Write-ins,0
+Porter,110-Westchester 4,U.S. Senate,,,Write-ins,0
+Porter,111-Westchester 5,U.S. Senate,,,Write-ins,2
+Porter,112-Westchester 6,U.S. Senate,,,Write-ins,1
+Porter,113-Westchester 7,U.S. Senate,,,Write-ins,0
+Porter,114-Westchester 8,U.S. Senate,,,Write-ins,3
+Porter,115-Westchester 9,U.S. Senate,,,Write-ins,0
+Porter,116-Westchester 10,U.S. Senate,,,Write-ins,1
+Porter,117-Westchester 11,U.S. Senate,,,Write-ins,2
+Porter,118-Westchester 12,U.S. Senate,,,Write-ins,1
+Porter,119-Westchester 13,U.S. Senate,,,Write-ins,0
+Porter,120-Westchester 14,U.S. Senate,,,Write-ins,0
+Porter,121-Westchester 16,U.S. Senate,,,Write-ins,1
+Porter,122-Westchester 17,U.S. Senate,,,Write-ins,0
+Porter,123-Westchester 18,U.S. Senate,,,Write-ins,0
+Porter,,U.S. Senate,,,Write-ins,54
+Porter,001-Boone 1,Governor,,REP,Eric Holcomb,219
+Porter,002-Boone 2,Governor,,REP,Eric Holcomb,194
+Porter,003-Boone 3,Governor,,REP,Eric Holcomb,256
+Porter,004-Boone 4,Governor,,REP,Eric Holcomb,317
+Porter,005-Boone 5,Governor,,REP,Eric Holcomb,198
+Porter,006-Center 1,Governor,,REP,Eric Holcomb,164
+Porter,007-Center 2,Governor,,REP,Eric Holcomb,171
+Porter,008-Center 3,Governor,,REP,Eric Holcomb,158
+Porter,009-Center 5,Governor,,REP,Eric Holcomb,217
+Porter,010-Center 6,Governor,,REP,Eric Holcomb,326
+Porter,011-Center 7,Governor,,REP,Eric Holcomb,209
+Porter,012-Center 8,Governor,,REP,Eric Holcomb,282
+Porter,013-Center 9,Governor,,REP,Eric Holcomb,267
+Porter,014-Center 11,Governor,,REP,Eric Holcomb,430
+Porter,015-Center 13,Governor,,REP,Eric Holcomb,291
+Porter,016-Center 14,Governor,,REP,Eric Holcomb,219
+Porter,017-Center 15,Governor,,REP,Eric Holcomb,330
+Porter,018-Center 16,Governor,,REP,Eric Holcomb,222
+Porter,019-Center 17,Governor,,REP,Eric Holcomb,276
+Porter,020-Center 18,Governor,,REP,Eric Holcomb,370
+Porter,021-Center 19,Governor,,REP,Eric Holcomb,247
+Porter,022-Center 20,Governor,,REP,Eric Holcomb,430
+Porter,023-Center 21,Governor,,REP,Eric Holcomb,274
+Porter,024-Center 22,Governor,,REP,Eric Holcomb,326
+Porter,025-Center 23,Governor,,REP,Eric Holcomb,542
+Porter,026-Center 24,Governor,,REP,Eric Holcomb,415
+Porter,027-Center 25,Governor,,REP,Eric Holcomb,435
+Porter,028-Center 26,Governor,,REP,Eric Holcomb,233
+Porter,029-Center 27,Governor,,REP,Eric Holcomb,233
+Porter,030-Center 28,Governor,,REP,Eric Holcomb,147
+Porter,031-Center 29,Governor,,REP,Eric Holcomb,298
+Porter,032-Center 30,Governor,,REP,Eric Holcomb,276
+Porter,033-Center 31,Governor,,REP,Eric Holcomb,327
+Porter,034-Center 32,Governor,,REP,Eric Holcomb,247
+Porter,035-Center 33,Governor,,REP,Eric Holcomb,176
+Porter,036-Center 34,Governor,,REP,Eric Holcomb,329
+Porter,037-Center 35,Governor,,REP,Eric Holcomb,153
+Porter,038-Jackson 1,Governor,,REP,Eric Holcomb,349
+Porter,039-Jackson 2,Governor,,REP,Eric Holcomb,244
+Porter,040-Jackson 3,Governor,,REP,Eric Holcomb,244
+Porter,041-Jackson 4,Governor,,REP,Eric Holcomb,267
+Porter,042-Jackson 5,Governor,,REP,Eric Holcomb,324
+Porter,043-Liberty 1,Governor,,REP,Eric Holcomb,352
+Porter,044-Liberty 2,Governor,,REP,Eric Holcomb,120
+Porter,045-Liberty 3,Governor,,REP,Eric Holcomb,542
+Porter,046-Liberty 4,Governor,,REP,Eric Holcomb,299
+Porter,047-Liberty 5,Governor,,REP,Eric Holcomb,379
+Porter,048-Liberty 6,Governor,,REP,Eric Holcomb,220
+Porter,049-Liberty 7,Governor,,REP,Eric Holcomb,259
+Porter,050-Morgan 1,Governor,,REP,Eric Holcomb,182
+Porter,051-Morgan 2,Governor,,REP,Eric Holcomb,475
+Porter,052-Morgan 3,Governor,,REP,Eric Holcomb,420
+Porter,053-Pine 1,Governor,,REP,Eric Holcomb,329
+Porter,054-Pine 2,Governor,,REP,Eric Holcomb,232
+Porter,055-Pleasant 1,Governor,,REP,Eric Holcomb,435
+Porter,056-Pleasant 2,Governor,,REP,Eric Holcomb,459
+Porter,057-Pleasant 3,Governor,,REP,Eric Holcomb,281
+Porter,058-Portage 1,Governor,,REP,Eric Holcomb,173
+Porter,059-Portage 2,Governor,,REP,Eric Holcomb,185
+Porter,060-Portage 3,Governor,,REP,Eric Holcomb,169
+Porter,061-Portage 4,Governor,,REP,Eric Holcomb,359
+Porter,062-Portage 5,Governor,,REP,Eric Holcomb,256
+Porter,063-Portage 6,Governor,,REP,Eric Holcomb,163
+Porter,064-Portage 7,Governor,,REP,Eric Holcomb,167
+Porter,065-Portage 9,Governor,,REP,Eric Holcomb,262
+Porter,066-Portage 10,Governor,,REP,Eric Holcomb,233
+Porter,067-Portage 12,Governor,,REP,Eric Holcomb,139
+Porter,068-Portage 13,Governor,,REP,Eric Holcomb,196
+Porter,069-Portage 14,Governor,,REP,Eric Holcomb,214
+Porter,070-Portage 15,Governor,,REP,Eric Holcomb,192
+Porter,071-Portage 16,Governor,,REP,Eric Holcomb,173
+Porter,072-Portage 17,Governor,,REP,Eric Holcomb,191
+Porter,073-Portage 18,Governor,,REP,Eric Holcomb,187
+Porter,074-Portage 19,Governor,,REP,Eric Holcomb,131
+Porter,075-Portage 20,Governor,,REP,Eric Holcomb,247
+Porter,076-Portage 21,Governor,,REP,Eric Holcomb,197
+Porter,077-Portage 22,Governor,,REP,Eric Holcomb,214
+Porter,078-Portage 23,Governor,,REP,Eric Holcomb,203
+Porter,079-Portage 24,Governor,,REP,Eric Holcomb,223
+Porter,080-Portage 25,Governor,,REP,Eric Holcomb,152
+Porter,081-Portage 26,Governor,,REP,Eric Holcomb,163
+Porter,082-Portage 27,Governor,,REP,Eric Holcomb,308
+Porter,083-Portage 28,Governor,,REP,Eric Holcomb,134
+Porter,084-Portage 31,Governor,,REP,Eric Holcomb,140
+Porter,085-Portage 32,Governor,,REP,Eric Holcomb,167
+Porter,086-Portage 33,Governor,,REP,Eric Holcomb,117
+Porter,087-Portage 35,Governor,,REP,Eric Holcomb,229
+Porter,088-Portage 36,Governor,,REP,Eric Holcomb,239
+Porter,089-Portage 37,Governor,,REP,Eric Holcomb,212
+Porter,090-Portage 38,Governor,,REP,Eric Holcomb,109
+Porter,091-Porter 1,Governor,,REP,Eric Holcomb,280
+Porter,092-Porter 2,Governor,,REP,Eric Holcomb,374
+Porter,093-Porter 3,Governor,,REP,Eric Holcomb,383
+Porter,094-Porter 4,Governor,,REP,Eric Holcomb,463
+Porter,095-Porter 5,Governor,,REP,Eric Holcomb,324
+Porter,096-Porter 6,Governor,,REP,Eric Holcomb,479
+Porter,097-Porter 7,Governor,,REP,Eric Holcomb,159
+Porter,098-Union 1,Governor,,REP,Eric Holcomb,208
+Porter,099-Union 2,Governor,,REP,Eric Holcomb,181
+Porter,100-Union 3,Governor,,REP,Eric Holcomb,427
+Porter,101-Union 4,Governor,,REP,Eric Holcomb,352
+Porter,102-Union 5,Governor,,REP,Eric Holcomb,662
+Porter,103-Union 6,Governor,,REP,Eric Holcomb,199
+Porter,104-Union 7,Governor,,REP,Eric Holcomb,278
+Porter,105-Washington 1,Governor,,REP,Eric Holcomb,419
+Porter,106-Washington 2,Governor,,REP,Eric Holcomb,367
+Porter,107-Washington 3,Governor,,REP,Eric Holcomb,419
+Porter,108-Westchester 1,Governor,,REP,Eric Holcomb,114
+Porter,109-Westchester 3,Governor,,REP,Eric Holcomb,245
+Porter,110-Westchester 4,Governor,,REP,Eric Holcomb,274
+Porter,111-Westchester 5,Governor,,REP,Eric Holcomb,180
+Porter,112-Westchester 6,Governor,,REP,Eric Holcomb,77
+Porter,113-Westchester 7,Governor,,REP,Eric Holcomb,350
+Porter,114-Westchester 8,Governor,,REP,Eric Holcomb,270
+Porter,115-Westchester 9,Governor,,REP,Eric Holcomb,411
+Porter,116-Westchester 10,Governor,,REP,Eric Holcomb,265
+Porter,117-Westchester 11,Governor,,REP,Eric Holcomb,283
+Porter,118-Westchester 12,Governor,,REP,Eric Holcomb,328
+Porter,119-Westchester 13,Governor,,REP,Eric Holcomb,158
+Porter,120-Westchester 14,Governor,,REP,Eric Holcomb,434
+Porter,121-Westchester 16,Governor,,REP,Eric Holcomb,264
+Porter,122-Westchester 17,Governor,,REP,Eric Holcomb,53
+Porter,123-Westchester 18,Governor,,REP,Eric Holcomb,173
+Porter,,Governor,,REP,Eric Holcomb,32913
+Porter,001-Boone 1,Governor,,DEM,John Gregg,278
+Porter,002-Boone 2,Governor,,DEM,John Gregg,246
+Porter,003-Boone 3,Governor,,DEM,John Gregg,297
+Porter,004-Boone 4,Governor,,DEM,John Gregg,367
+Porter,005-Boone 5,Governor,,DEM,John Gregg,245
+Porter,006-Center 1,Governor,,DEM,John Gregg,332
+Porter,007-Center 2,Governor,,DEM,John Gregg,371
+Porter,008-Center 3,Governor,,DEM,John Gregg,332
+Porter,009-Center 5,Governor,,DEM,John Gregg,372
+Porter,010-Center 6,Governor,,DEM,John Gregg,519
+Porter,011-Center 7,Governor,,DEM,John Gregg,416
+Porter,012-Center 8,Governor,,DEM,John Gregg,406
+Porter,013-Center 9,Governor,,DEM,John Gregg,464
+Porter,014-Center 11,Governor,,DEM,John Gregg,319
+Porter,015-Center 13,Governor,,DEM,John Gregg,342
+Porter,016-Center 14,Governor,,DEM,John Gregg,328
+Porter,017-Center 15,Governor,,DEM,John Gregg,289
+Porter,018-Center 16,Governor,,DEM,John Gregg,268
+Porter,019-Center 17,Governor,,DEM,John Gregg,317
+Porter,020-Center 18,Governor,,DEM,John Gregg,366
+Porter,021-Center 19,Governor,,DEM,John Gregg,273
+Porter,022-Center 20,Governor,,DEM,John Gregg,413
+Porter,023-Center 21,Governor,,DEM,John Gregg,302
+Porter,024-Center 22,Governor,,DEM,John Gregg,434
+Porter,025-Center 23,Governor,,DEM,John Gregg,400
+Porter,026-Center 24,Governor,,DEM,John Gregg,416
+Porter,027-Center 25,Governor,,DEM,John Gregg,417
+Porter,028-Center 26,Governor,,DEM,John Gregg,315
+Porter,029-Center 27,Governor,,DEM,John Gregg,334
+Porter,030-Center 28,Governor,,DEM,John Gregg,293
+Porter,031-Center 29,Governor,,DEM,John Gregg,306
+Porter,032-Center 30,Governor,,DEM,John Gregg,415
+Porter,033-Center 31,Governor,,DEM,John Gregg,401
+Porter,034-Center 32,Governor,,DEM,John Gregg,231
+Porter,035-Center 33,Governor,,DEM,John Gregg,232
+Porter,036-Center 34,Governor,,DEM,John Gregg,342
+Porter,037-Center 35,Governor,,DEM,John Gregg,235
+Porter,038-Jackson 1,Governor,,DEM,John Gregg,268
+Porter,039-Jackson 2,Governor,,DEM,John Gregg,276
+Porter,040-Jackson 3,Governor,,DEM,John Gregg,281
+Porter,041-Jackson 4,Governor,,DEM,John Gregg,305
+Porter,042-Jackson 5,Governor,,DEM,John Gregg,362
+Porter,043-Liberty 1,Governor,,DEM,John Gregg,432
+Porter,044-Liberty 2,Governor,,DEM,John Gregg,144
+Porter,045-Liberty 3,Governor,,DEM,John Gregg,616
+Porter,046-Liberty 4,Governor,,DEM,John Gregg,312
+Porter,047-Liberty 5,Governor,,DEM,John Gregg,390
+Porter,048-Liberty 6,Governor,,DEM,John Gregg,240
+Porter,049-Liberty 7,Governor,,DEM,John Gregg,211
+Porter,050-Morgan 1,Governor,,DEM,John Gregg,162
+Porter,051-Morgan 2,Governor,,DEM,John Gregg,323
+Porter,052-Morgan 3,Governor,,DEM,John Gregg,387
+Porter,053-Pine 1,Governor,,DEM,John Gregg,310
+Porter,054-Pine 2,Governor,,DEM,John Gregg,439
+Porter,055-Pleasant 1,Governor,,DEM,John Gregg,316
+Porter,056-Pleasant 2,Governor,,DEM,John Gregg,337
+Porter,057-Pleasant 3,Governor,,DEM,John Gregg,252
+Porter,058-Portage 1,Governor,,DEM,John Gregg,232
+Porter,059-Portage 2,Governor,,DEM,John Gregg,293
+Porter,060-Portage 3,Governor,,DEM,John Gregg,320
+Porter,061-Portage 4,Governor,,DEM,John Gregg,436
+Porter,062-Portage 5,Governor,,DEM,John Gregg,419
+Porter,063-Portage 6,Governor,,DEM,John Gregg,244
+Porter,064-Portage 7,Governor,,DEM,John Gregg,339
+Porter,065-Portage 9,Governor,,DEM,John Gregg,439
+Porter,066-Portage 10,Governor,,DEM,John Gregg,343
+Porter,067-Portage 12,Governor,,DEM,John Gregg,299
+Porter,068-Portage 13,Governor,,DEM,John Gregg,405
+Porter,069-Portage 14,Governor,,DEM,John Gregg,387
+Porter,070-Portage 15,Governor,,DEM,John Gregg,283
+Porter,071-Portage 16,Governor,,DEM,John Gregg,341
+Porter,072-Portage 17,Governor,,DEM,John Gregg,365
+Porter,073-Portage 18,Governor,,DEM,John Gregg,522
+Porter,074-Portage 19,Governor,,DEM,John Gregg,227
+Porter,075-Portage 20,Governor,,DEM,John Gregg,361
+Porter,076-Portage 21,Governor,,DEM,John Gregg,474
+Porter,077-Portage 22,Governor,,DEM,John Gregg,411
+Porter,078-Portage 23,Governor,,DEM,John Gregg,296
+Porter,079-Portage 24,Governor,,DEM,John Gregg,422
+Porter,080-Portage 25,Governor,,DEM,John Gregg,276
+Porter,081-Portage 26,Governor,,DEM,John Gregg,357
+Porter,082-Portage 27,Governor,,DEM,John Gregg,495
+Porter,083-Portage 28,Governor,,DEM,John Gregg,240
+Porter,084-Portage 31,Governor,,DEM,John Gregg,198
+Porter,085-Portage 32,Governor,,DEM,John Gregg,332
+Porter,086-Portage 33,Governor,,DEM,John Gregg,223
+Porter,087-Portage 35,Governor,,DEM,John Gregg,503
+Porter,088-Portage 36,Governor,,DEM,John Gregg,386
+Porter,089-Portage 37,Governor,,DEM,John Gregg,402
+Porter,090-Portage 38,Governor,,DEM,John Gregg,376
+Porter,091-Porter 1,Governor,,DEM,John Gregg,292
+Porter,092-Porter 2,Governor,,DEM,John Gregg,328
+Porter,093-Porter 3,Governor,,DEM,John Gregg,350
+Porter,094-Porter 4,Governor,,DEM,John Gregg,407
+Porter,095-Porter 5,Governor,,DEM,John Gregg,290
+Porter,096-Porter 6,Governor,,DEM,John Gregg,457
+Porter,097-Porter 7,Governor,,DEM,John Gregg,129
+Porter,098-Union 1,Governor,,DEM,John Gregg,301
+Porter,099-Union 2,Governor,,DEM,John Gregg,178
+Porter,100-Union 3,Governor,,DEM,John Gregg,279
+Porter,101-Union 4,Governor,,DEM,John Gregg,378
+Porter,102-Union 5,Governor,,DEM,John Gregg,442
+Porter,103-Union 6,Governor,,DEM,John Gregg,331
+Porter,104-Union 7,Governor,,DEM,John Gregg,242
+Porter,105-Washington 1,Governor,,DEM,John Gregg,302
+Porter,106-Washington 2,Governor,,DEM,John Gregg,362
+Porter,107-Washington 3,Governor,,DEM,John Gregg,374
+Porter,108-Westchester 1,Governor,,DEM,John Gregg,263
+Porter,109-Westchester 3,Governor,,DEM,John Gregg,417
+Porter,110-Westchester 4,Governor,,DEM,John Gregg,499
+Porter,111-Westchester 5,Governor,,DEM,John Gregg,349
+Porter,112-Westchester 6,Governor,,DEM,John Gregg,68
+Porter,113-Westchester 7,Governor,,DEM,John Gregg,493
+Porter,114-Westchester 8,Governor,,DEM,John Gregg,380
+Porter,115-Westchester 9,Governor,,DEM,John Gregg,420
+Porter,116-Westchester 10,Governor,,DEM,John Gregg,376
+Porter,117-Westchester 11,Governor,,DEM,John Gregg,379
+Porter,118-Westchester 12,Governor,,DEM,John Gregg,517
+Porter,119-Westchester 13,Governor,,DEM,John Gregg,279
+Porter,120-Westchester 14,Governor,,DEM,John Gregg,395
+Porter,121-Westchester 16,Governor,,DEM,John Gregg,305
+Porter,122-Westchester 17,Governor,,DEM,John Gregg,93
+Porter,123-Westchester 18,Governor,,DEM,John Gregg,246
+Porter,,Governor,,DEM,John Gregg,41563
+Porter,001-Boone 1,Governor,,LBT,Rex Bell,13
+Porter,002-Boone 2,Governor,,LBT,Rex Bell,11
+Porter,003-Boone 3,Governor,,LBT,Rex Bell,31
+Porter,004-Boone 4,Governor,,LBT,Rex Bell,22
+Porter,005-Boone 5,Governor,,LBT,Rex Bell,14
+Porter,006-Center 1,Governor,,LBT,Rex Bell,17
+Porter,007-Center 2,Governor,,LBT,Rex Bell,29
+Porter,008-Center 3,Governor,,LBT,Rex Bell,39
+Porter,009-Center 5,Governor,,LBT,Rex Bell,22
+Porter,010-Center 6,Governor,,LBT,Rex Bell,27
+Porter,011-Center 7,Governor,,LBT,Rex Bell,22
+Porter,012-Center 8,Governor,,LBT,Rex Bell,29
+Porter,013-Center 9,Governor,,LBT,Rex Bell,25
+Porter,014-Center 11,Governor,,LBT,Rex Bell,17
+Porter,015-Center 13,Governor,,LBT,Rex Bell,16
+Porter,016-Center 14,Governor,,LBT,Rex Bell,17
+Porter,017-Center 15,Governor,,LBT,Rex Bell,15
+Porter,018-Center 16,Governor,,LBT,Rex Bell,7
+Porter,019-Center 17,Governor,,LBT,Rex Bell,19
+Porter,020-Center 18,Governor,,LBT,Rex Bell,14
+Porter,021-Center 19,Governor,,LBT,Rex Bell,12
+Porter,022-Center 20,Governor,,LBT,Rex Bell,19
+Porter,023-Center 21,Governor,,LBT,Rex Bell,11
+Porter,024-Center 22,Governor,,LBT,Rex Bell,25
+Porter,025-Center 23,Governor,,LBT,Rex Bell,12
+Porter,026-Center 24,Governor,,LBT,Rex Bell,22
+Porter,027-Center 25,Governor,,LBT,Rex Bell,15
+Porter,028-Center 26,Governor,,LBT,Rex Bell,6
+Porter,029-Center 27,Governor,,LBT,Rex Bell,18
+Porter,030-Center 28,Governor,,LBT,Rex Bell,21
+Porter,031-Center 29,Governor,,LBT,Rex Bell,15
+Porter,032-Center 30,Governor,,LBT,Rex Bell,27
+Porter,033-Center 31,Governor,,LBT,Rex Bell,9
+Porter,034-Center 32,Governor,,LBT,Rex Bell,3
+Porter,035-Center 33,Governor,,LBT,Rex Bell,11
+Porter,036-Center 34,Governor,,LBT,Rex Bell,21
+Porter,037-Center 35,Governor,,LBT,Rex Bell,12
+Porter,038-Jackson 1,Governor,,LBT,Rex Bell,9
+Porter,039-Jackson 2,Governor,,LBT,Rex Bell,9
+Porter,040-Jackson 3,Governor,,LBT,Rex Bell,13
+Porter,041-Jackson 4,Governor,,LBT,Rex Bell,12
+Porter,042-Jackson 5,Governor,,LBT,Rex Bell,20
+Porter,043-Liberty 1,Governor,,LBT,Rex Bell,34
+Porter,044-Liberty 2,Governor,,LBT,Rex Bell,16
+Porter,045-Liberty 3,Governor,,LBT,Rex Bell,55
+Porter,046-Liberty 4,Governor,,LBT,Rex Bell,26
+Porter,047-Liberty 5,Governor,,LBT,Rex Bell,21
+Porter,048-Liberty 6,Governor,,LBT,Rex Bell,22
+Porter,049-Liberty 7,Governor,,LBT,Rex Bell,12
+Porter,050-Morgan 1,Governor,,LBT,Rex Bell,9
+Porter,051-Morgan 2,Governor,,LBT,Rex Bell,23
+Porter,052-Morgan 3,Governor,,LBT,Rex Bell,24
+Porter,053-Pine 1,Governor,,LBT,Rex Bell,13
+Porter,054-Pine 2,Governor,,LBT,Rex Bell,26
+Porter,055-Pleasant 1,Governor,,LBT,Rex Bell,14
+Porter,056-Pleasant 2,Governor,,LBT,Rex Bell,19
+Porter,057-Pleasant 3,Governor,,LBT,Rex Bell,16
+Porter,058-Portage 1,Governor,,LBT,Rex Bell,11
+Porter,059-Portage 2,Governor,,LBT,Rex Bell,19
+Porter,060-Portage 3,Governor,,LBT,Rex Bell,22
+Porter,061-Portage 4,Governor,,LBT,Rex Bell,24
+Porter,062-Portage 5,Governor,,LBT,Rex Bell,32
+Porter,063-Portage 6,Governor,,LBT,Rex Bell,10
+Porter,064-Portage 7,Governor,,LBT,Rex Bell,17
+Porter,065-Portage 9,Governor,,LBT,Rex Bell,24
+Porter,066-Portage 10,Governor,,LBT,Rex Bell,33
+Porter,067-Portage 12,Governor,,LBT,Rex Bell,20
+Porter,068-Portage 13,Governor,,LBT,Rex Bell,22
+Porter,069-Portage 14,Governor,,LBT,Rex Bell,16
+Porter,070-Portage 15,Governor,,LBT,Rex Bell,15
+Porter,071-Portage 16,Governor,,LBT,Rex Bell,30
+Porter,072-Portage 17,Governor,,LBT,Rex Bell,28
+Porter,073-Portage 18,Governor,,LBT,Rex Bell,22
+Porter,074-Portage 19,Governor,,LBT,Rex Bell,26
+Porter,075-Portage 20,Governor,,LBT,Rex Bell,22
+Porter,076-Portage 21,Governor,,LBT,Rex Bell,27
+Porter,077-Portage 22,Governor,,LBT,Rex Bell,25
+Porter,078-Portage 23,Governor,,LBT,Rex Bell,13
+Porter,079-Portage 24,Governor,,LBT,Rex Bell,19
+Porter,080-Portage 25,Governor,,LBT,Rex Bell,12
+Porter,081-Portage 26,Governor,,LBT,Rex Bell,27
+Porter,082-Portage 27,Governor,,LBT,Rex Bell,17
+Porter,083-Portage 28,Governor,,LBT,Rex Bell,24
+Porter,084-Portage 31,Governor,,LBT,Rex Bell,19
+Porter,085-Portage 32,Governor,,LBT,Rex Bell,22
+Porter,086-Portage 33,Governor,,LBT,Rex Bell,15
+Porter,087-Portage 35,Governor,,LBT,Rex Bell,16
+Porter,088-Portage 36,Governor,,LBT,Rex Bell,29
+Porter,089-Portage 37,Governor,,LBT,Rex Bell,20
+Porter,090-Portage 38,Governor,,LBT,Rex Bell,12
+Porter,091-Porter 1,Governor,,LBT,Rex Bell,15
+Porter,092-Porter 2,Governor,,LBT,Rex Bell,17
+Porter,093-Porter 3,Governor,,LBT,Rex Bell,19
+Porter,094-Porter 4,Governor,,LBT,Rex Bell,28
+Porter,095-Porter 5,Governor,,LBT,Rex Bell,10
+Porter,096-Porter 6,Governor,,LBT,Rex Bell,18
+Porter,097-Porter 7,Governor,,LBT,Rex Bell,5
+Porter,098-Union 1,Governor,,LBT,Rex Bell,17
+Porter,099-Union 2,Governor,,LBT,Rex Bell,7
+Porter,100-Union 3,Governor,,LBT,Rex Bell,14
+Porter,101-Union 4,Governor,,LBT,Rex Bell,22
+Porter,102-Union 5,Governor,,LBT,Rex Bell,18
+Porter,103-Union 6,Governor,,LBT,Rex Bell,35
+Porter,104-Union 7,Governor,,LBT,Rex Bell,14
+Porter,105-Washington 1,Governor,,LBT,Rex Bell,19
+Porter,106-Washington 2,Governor,,LBT,Rex Bell,28
+Porter,107-Washington 3,Governor,,LBT,Rex Bell,17
+Porter,108-Westchester 1,Governor,,LBT,Rex Bell,14
+Porter,109-Westchester 3,Governor,,LBT,Rex Bell,25
+Porter,110-Westchester 4,Governor,,LBT,Rex Bell,40
+Porter,111-Westchester 5,Governor,,LBT,Rex Bell,23
+Porter,112-Westchester 6,Governor,,LBT,Rex Bell,2
+Porter,113-Westchester 7,Governor,,LBT,Rex Bell,26
+Porter,114-Westchester 8,Governor,,LBT,Rex Bell,35
+Porter,115-Westchester 9,Governor,,LBT,Rex Bell,22
+Porter,116-Westchester 10,Governor,,LBT,Rex Bell,19
+Porter,117-Westchester 11,Governor,,LBT,Rex Bell,30
+Porter,118-Westchester 12,Governor,,LBT,Rex Bell,27
+Porter,119-Westchester 13,Governor,,LBT,Rex Bell,19
+Porter,120-Westchester 14,Governor,,LBT,Rex Bell,19
+Porter,121-Westchester 16,Governor,,LBT,Rex Bell,20
+Porter,122-Westchester 17,Governor,,LBT,Rex Bell,3
+Porter,123-Westchester 18,Governor,,LBT,Rex Bell,17
+Porter,,Governor,,LBT,Rex Bell,2392
+Porter,001-Boone 1,Governor,,,Write-ins,0
+Porter,002-Boone 2,Governor,,,Write-ins,0
+Porter,003-Boone 3,Governor,,,Write-ins,0
+Porter,004-Boone 4,Governor,,,Write-ins,0
+Porter,005-Boone 5,Governor,,,Write-ins,0
+Porter,006-Center 1,Governor,,,Write-ins,0
+Porter,007-Center 2,Governor,,,Write-ins,0
+Porter,008-Center 3,Governor,,,Write-ins,0
+Porter,009-Center 5,Governor,,,Write-ins,0
+Porter,010-Center 6,Governor,,,Write-ins,0
+Porter,011-Center 7,Governor,,,Write-ins,0
+Porter,012-Center 8,Governor,,,Write-ins,0
+Porter,013-Center 9,Governor,,,Write-ins,0
+Porter,014-Center 11,Governor,,,Write-ins,0
+Porter,015-Center 13,Governor,,,Write-ins,0
+Porter,016-Center 14,Governor,,,Write-ins,2
+Porter,017-Center 15,Governor,,,Write-ins,0
+Porter,018-Center 16,Governor,,,Write-ins,0
+Porter,019-Center 17,Governor,,,Write-ins,0
+Porter,020-Center 18,Governor,,,Write-ins,2
+Porter,021-Center 19,Governor,,,Write-ins,0
+Porter,022-Center 20,Governor,,,Write-ins,0
+Porter,023-Center 21,Governor,,,Write-ins,0
+Porter,024-Center 22,Governor,,,Write-ins,0
+Porter,025-Center 23,Governor,,,Write-ins,1
+Porter,026-Center 24,Governor,,,Write-ins,1
+Porter,027-Center 25,Governor,,,Write-ins,0
+Porter,028-Center 26,Governor,,,Write-ins,0
+Porter,029-Center 27,Governor,,,Write-ins,1
+Porter,030-Center 28,Governor,,,Write-ins,2
+Porter,031-Center 29,Governor,,,Write-ins,0
+Porter,032-Center 30,Governor,,,Write-ins,0
+Porter,033-Center 31,Governor,,,Write-ins,1
+Porter,034-Center 32,Governor,,,Write-ins,0
+Porter,035-Center 33,Governor,,,Write-ins,0
+Porter,036-Center 34,Governor,,,Write-ins,1
+Porter,037-Center 35,Governor,,,Write-ins,1
+Porter,038-Jackson 1,Governor,,,Write-ins,0
+Porter,039-Jackson 2,Governor,,,Write-ins,1
+Porter,040-Jackson 3,Governor,,,Write-ins,1
+Porter,041-Jackson 4,Governor,,,Write-ins,0
+Porter,042-Jackson 5,Governor,,,Write-ins,0
+Porter,043-Liberty 1,Governor,,,Write-ins,1
+Porter,044-Liberty 2,Governor,,,Write-ins,0
+Porter,045-Liberty 3,Governor,,,Write-ins,2
+Porter,046-Liberty 4,Governor,,,Write-ins,1
+Porter,047-Liberty 5,Governor,,,Write-ins,0
+Porter,048-Liberty 6,Governor,,,Write-ins,0
+Porter,049-Liberty 7,Governor,,,Write-ins,0
+Porter,050-Morgan 1,Governor,,,Write-ins,0
+Porter,051-Morgan 2,Governor,,,Write-ins,0
+Porter,052-Morgan 3,Governor,,,Write-ins,0
+Porter,053-Pine 1,Governor,,,Write-ins,0
+Porter,054-Pine 2,Governor,,,Write-ins,0
+Porter,055-Pleasant 1,Governor,,,Write-ins,0
+Porter,056-Pleasant 2,Governor,,,Write-ins,0
+Porter,057-Pleasant 3,Governor,,,Write-ins,1
+Porter,058-Portage 1,Governor,,,Write-ins,1
+Porter,059-Portage 2,Governor,,,Write-ins,0
+Porter,060-Portage 3,Governor,,,Write-ins,2
+Porter,061-Portage 4,Governor,,,Write-ins,0
+Porter,062-Portage 5,Governor,,,Write-ins,1
+Porter,063-Portage 6,Governor,,,Write-ins,0
+Porter,064-Portage 7,Governor,,,Write-ins,2
+Porter,065-Portage 9,Governor,,,Write-ins,0
+Porter,066-Portage 10,Governor,,,Write-ins,0
+Porter,067-Portage 12,Governor,,,Write-ins,1
+Porter,068-Portage 13,Governor,,,Write-ins,0
+Porter,069-Portage 14,Governor,,,Write-ins,0
+Porter,070-Portage 15,Governor,,,Write-ins,0
+Porter,071-Portage 16,Governor,,,Write-ins,1
+Porter,072-Portage 17,Governor,,,Write-ins,1
+Porter,073-Portage 18,Governor,,,Write-ins,0
+Porter,074-Portage 19,Governor,,,Write-ins,0
+Porter,075-Portage 20,Governor,,,Write-ins,0
+Porter,076-Portage 21,Governor,,,Write-ins,1
+Porter,077-Portage 22,Governor,,,Write-ins,0
+Porter,078-Portage 23,Governor,,,Write-ins,0
+Porter,079-Portage 24,Governor,,,Write-ins,2
+Porter,080-Portage 25,Governor,,,Write-ins,0
+Porter,081-Portage 26,Governor,,,Write-ins,1
+Porter,082-Portage 27,Governor,,,Write-ins,0
+Porter,083-Portage 28,Governor,,,Write-ins,0
+Porter,084-Portage 31,Governor,,,Write-ins,0
+Porter,085-Portage 32,Governor,,,Write-ins,1
+Porter,086-Portage 33,Governor,,,Write-ins,1
+Porter,087-Portage 35,Governor,,,Write-ins,0
+Porter,088-Portage 36,Governor,,,Write-ins,0
+Porter,089-Portage 37,Governor,,,Write-ins,0
+Porter,090-Portage 38,Governor,,,Write-ins,0
+Porter,091-Porter 1,Governor,,,Write-ins,0
+Porter,092-Porter 2,Governor,,,Write-ins,0
+Porter,093-Porter 3,Governor,,,Write-ins,0
+Porter,094-Porter 4,Governor,,,Write-ins,1
+Porter,095-Porter 5,Governor,,,Write-ins,0
+Porter,096-Porter 6,Governor,,,Write-ins,0
+Porter,097-Porter 7,Governor,,,Write-ins,0
+Porter,098-Union 1,Governor,,,Write-ins,1
+Porter,099-Union 2,Governor,,,Write-ins,0
+Porter,100-Union 3,Governor,,,Write-ins,0
+Porter,101-Union 4,Governor,,,Write-ins,0
+Porter,102-Union 5,Governor,,,Write-ins,1
+Porter,103-Union 6,Governor,,,Write-ins,1
+Porter,104-Union 7,Governor,,,Write-ins,1
+Porter,105-Washington 1,Governor,,,Write-ins,0
+Porter,106-Washington 2,Governor,,,Write-ins,1
+Porter,107-Washington 3,Governor,,,Write-ins,0
+Porter,108-Westchester 1,Governor,,,Write-ins,0
+Porter,109-Westchester 3,Governor,,,Write-ins,0
+Porter,110-Westchester 4,Governor,,,Write-ins,0
+Porter,111-Westchester 5,Governor,,,Write-ins,0
+Porter,112-Westchester 6,Governor,,,Write-ins,0
+Porter,113-Westchester 7,Governor,,,Write-ins,0
+Porter,114-Westchester 8,Governor,,,Write-ins,2
+Porter,115-Westchester 9,Governor,,,Write-ins,1
+Porter,116-Westchester 10,Governor,,,Write-ins,0
+Porter,117-Westchester 11,Governor,,,Write-ins,1
+Porter,118-Westchester 12,Governor,,,Write-ins,2
+Porter,119-Westchester 13,Governor,,,Write-ins,0
+Porter,120-Westchester 14,Governor,,,Write-ins,0
+Porter,121-Westchester 16,Governor,,,Write-ins,0
+Porter,122-Westchester 17,Governor,,,Write-ins,0
+Porter,123-Westchester 18,Governor,,,Write-ins,0
+Porter,,Governor,,,Write-ins,46
+Porter,001-Boone 1,Attorney General,,REP,Curtis Hill,269
+Porter,002-Boone 2,Attorney General,,REP,Curtis Hill,254
+Porter,003-Boone 3,Attorney General,,REP,Curtis Hill,304
+Porter,004-Boone 4,Attorney General,,REP,Curtis Hill,390
+Porter,005-Boone 5,Attorney General,,REP,Curtis Hill,237
+Porter,006-Center 1,Attorney General,,REP,Curtis Hill,185
+Porter,007-Center 2,Attorney General,,REP,Curtis Hill,226
+Porter,008-Center 3,Attorney General,,REP,Curtis Hill,186
+Porter,009-Center 5,Attorney General,,REP,Curtis Hill,266
+Porter,010-Center 6,Attorney General,,REP,Curtis Hill,402
+Porter,011-Center 7,Attorney General,,REP,Curtis Hill,277
+Porter,012-Center 8,Attorney General,,REP,Curtis Hill,330
+Porter,013-Center 9,Attorney General,,REP,Curtis Hill,317
+Porter,014-Center 11,Attorney General,,REP,Curtis Hill,468
+Porter,015-Center 13,Attorney General,,REP,Curtis Hill,319
+Porter,016-Center 14,Attorney General,,REP,Curtis Hill,262
+Porter,017-Center 15,Attorney General,,REP,Curtis Hill,365
+Porter,018-Center 16,Attorney General,,REP,Curtis Hill,264
+Porter,019-Center 17,Attorney General,,REP,Curtis Hill,328
+Porter,020-Center 18,Attorney General,,REP,Curtis Hill,407
+Porter,021-Center 19,Attorney General,,REP,Curtis Hill,307
+Porter,022-Center 20,Attorney General,,REP,Curtis Hill,464
+Porter,023-Center 21,Attorney General,,REP,Curtis Hill,311
+Porter,024-Center 22,Attorney General,,REP,Curtis Hill,377
+Porter,025-Center 23,Attorney General,,REP,Curtis Hill,587
+Porter,026-Center 24,Attorney General,,REP,Curtis Hill,477
+Porter,027-Center 25,Attorney General,,REP,Curtis Hill,484
+Porter,028-Center 26,Attorney General,,REP,Curtis Hill,261
+Porter,029-Center 27,Attorney General,,REP,Curtis Hill,277
+Porter,030-Center 28,Attorney General,,REP,Curtis Hill,191
+Porter,031-Center 29,Attorney General,,REP,Curtis Hill,332
+Porter,032-Center 30,Attorney General,,REP,Curtis Hill,317
+Porter,033-Center 31,Attorney General,,REP,Curtis Hill,362
+Porter,034-Center 32,Attorney General,,REP,Curtis Hill,287
+Porter,035-Center 33,Attorney General,,REP,Curtis Hill,201
+Porter,036-Center 34,Attorney General,,REP,Curtis Hill,401
+Porter,037-Center 35,Attorney General,,REP,Curtis Hill,190
+Porter,038-Jackson 1,Attorney General,,REP,Curtis Hill,387
+Porter,039-Jackson 2,Attorney General,,REP,Curtis Hill,306
+Porter,040-Jackson 3,Attorney General,,REP,Curtis Hill,295
+Porter,041-Jackson 4,Attorney General,,REP,Curtis Hill,304
+Porter,042-Jackson 5,Attorney General,,REP,Curtis Hill,371
+Porter,043-Liberty 1,Attorney General,,REP,Curtis Hill,415
+Porter,044-Liberty 2,Attorney General,,REP,Curtis Hill,149
+Porter,045-Liberty 3,Attorney General,,REP,Curtis Hill,630
+Porter,046-Liberty 4,Attorney General,,REP,Curtis Hill,332
+Porter,047-Liberty 5,Attorney General,,REP,Curtis Hill,419
+Porter,048-Liberty 6,Attorney General,,REP,Curtis Hill,264
+Porter,049-Liberty 7,Attorney General,,REP,Curtis Hill,303
+Porter,050-Morgan 1,Attorney General,,REP,Curtis Hill,220
+Porter,051-Morgan 2,Attorney General,,REP,Curtis Hill,536
+Porter,052-Morgan 3,Attorney General,,REP,Curtis Hill,497
+Porter,053-Pine 1,Attorney General,,REP,Curtis Hill,363
+Porter,054-Pine 2,Attorney General,,REP,Curtis Hill,274
+Porter,055-Pleasant 1,Attorney General,,REP,Curtis Hill,496
+Porter,056-Pleasant 2,Attorney General,,REP,Curtis Hill,529
+Porter,057-Pleasant 3,Attorney General,,REP,Curtis Hill,333
+Porter,058-Portage 1,Attorney General,,REP,Curtis Hill,187
+Porter,059-Portage 2,Attorney General,,REP,Curtis Hill,226
+Porter,060-Portage 3,Attorney General,,REP,Curtis Hill,194
+Porter,061-Portage 4,Attorney General,,REP,Curtis Hill,400
+Porter,062-Portage 5,Attorney General,,REP,Curtis Hill,309
+Porter,063-Portage 6,Attorney General,,REP,Curtis Hill,175
+Porter,064-Portage 7,Attorney General,,REP,Curtis Hill,200
+Porter,065-Portage 9,Attorney General,,REP,Curtis Hill,297
+Porter,066-Portage 10,Attorney General,,REP,Curtis Hill,281
+Porter,067-Portage 12,Attorney General,,REP,Curtis Hill,162
+Porter,068-Portage 13,Attorney General,,REP,Curtis Hill,213
+Porter,069-Portage 14,Attorney General,,REP,Curtis Hill,252
+Porter,070-Portage 15,Attorney General,,REP,Curtis Hill,224
+Porter,071-Portage 16,Attorney General,,REP,Curtis Hill,227
+Porter,072-Portage 17,Attorney General,,REP,Curtis Hill,225
+Porter,073-Portage 18,Attorney General,,REP,Curtis Hill,198
+Porter,074-Portage 19,Attorney General,,REP,Curtis Hill,145
+Porter,075-Portage 20,Attorney General,,REP,Curtis Hill,256
+Porter,076-Portage 21,Attorney General,,REP,Curtis Hill,266
+Porter,077-Portage 22,Attorney General,,REP,Curtis Hill,252
+Porter,078-Portage 23,Attorney General,,REP,Curtis Hill,215
+Porter,079-Portage 24,Attorney General,,REP,Curtis Hill,264
+Porter,080-Portage 25,Attorney General,,REP,Curtis Hill,182
+Porter,081-Portage 26,Attorney General,,REP,Curtis Hill,208
+Porter,082-Portage 27,Attorney General,,REP,Curtis Hill,345
+Porter,083-Portage 28,Attorney General,,REP,Curtis Hill,179
+Porter,084-Portage 31,Attorney General,,REP,Curtis Hill,158
+Porter,085-Portage 32,Attorney General,,REP,Curtis Hill,186
+Porter,086-Portage 33,Attorney General,,REP,Curtis Hill,146
+Porter,087-Portage 35,Attorney General,,REP,Curtis Hill,268
+Porter,088-Portage 36,Attorney General,,REP,Curtis Hill,271
+Porter,089-Portage 37,Attorney General,,REP,Curtis Hill,249
+Porter,090-Portage 38,Attorney General,,REP,Curtis Hill,123
+Porter,091-Porter 1,Attorney General,,REP,Curtis Hill,307
+Porter,092-Porter 2,Attorney General,,REP,Curtis Hill,403
+Porter,093-Porter 3,Attorney General,,REP,Curtis Hill,427
+Porter,094-Porter 4,Attorney General,,REP,Curtis Hill,526
+Porter,095-Porter 5,Attorney General,,REP,Curtis Hill,337
+Porter,096-Porter 6,Attorney General,,REP,Curtis Hill,534
+Porter,097-Porter 7,Attorney General,,REP,Curtis Hill,166
+Porter,098-Union 1,Attorney General,,REP,Curtis Hill,269
+Porter,099-Union 2,Attorney General,,REP,Curtis Hill,214
+Porter,100-Union 3,Attorney General,,REP,Curtis Hill,460
+Porter,101-Union 4,Attorney General,,REP,Curtis Hill,391
+Porter,102-Union 5,Attorney General,,REP,Curtis Hill,707
+Porter,103-Union 6,Attorney General,,REP,Curtis Hill,265
+Porter,104-Union 7,Attorney General,,REP,Curtis Hill,303
+Porter,105-Washington 1,Attorney General,,REP,Curtis Hill,472
+Porter,106-Washington 2,Attorney General,,REP,Curtis Hill,423
+Porter,107-Washington 3,Attorney General,,REP,Curtis Hill,455
+Porter,108-Westchester 1,Attorney General,,REP,Curtis Hill,145
+Porter,109-Westchester 3,Attorney General,,REP,Curtis Hill,318
+Porter,110-Westchester 4,Attorney General,,REP,Curtis Hill,350
+Porter,111-Westchester 5,Attorney General,,REP,Curtis Hill,239
+Porter,112-Westchester 6,Attorney General,,REP,Curtis Hill,82
+Porter,113-Westchester 7,Attorney General,,REP,Curtis Hill,383
+Porter,114-Westchester 8,Attorney General,,REP,Curtis Hill,327
+Porter,115-Westchester 9,Attorney General,,REP,Curtis Hill,458
+Porter,116-Westchester 10,Attorney General,,REP,Curtis Hill,299
+Porter,117-Westchester 11,Attorney General,,REP,Curtis Hill,340
+Porter,118-Westchester 12,Attorney General,,REP,Curtis Hill,392
+Porter,119-Westchester 13,Attorney General,,REP,Curtis Hill,193
+Porter,120-Westchester 14,Attorney General,,REP,Curtis Hill,479
+Porter,121-Westchester 16,Attorney General,,REP,Curtis Hill,289
+Porter,122-Westchester 17,Attorney General,,REP,Curtis Hill,61
+Porter,123-Westchester 18,Attorney General,,REP,Curtis Hill,210
+Porter,,Attorney General,,REP,Curtis Hill,38012
+Porter,001-Boone 1,Attorney General,,DEM,Lorenzo Arredondo,212
+Porter,002-Boone 2,Attorney General,,DEM,Lorenzo Arredondo,184
+Porter,003-Boone 3,Attorney General,,DEM,Lorenzo Arredondo,263
+Porter,004-Boone 4,Attorney General,,DEM,Lorenzo Arredondo,292
+Porter,005-Boone 5,Attorney General,,DEM,Lorenzo Arredondo,196
+Porter,006-Center 1,Attorney General,,DEM,Lorenzo Arredondo,306
+Porter,007-Center 2,Attorney General,,DEM,Lorenzo Arredondo,326
+Porter,008-Center 3,Attorney General,,DEM,Lorenzo Arredondo,321
+Porter,009-Center 5,Attorney General,,DEM,Lorenzo Arredondo,325
+Porter,010-Center 6,Attorney General,,DEM,Lorenzo Arredondo,432
+Porter,011-Center 7,Attorney General,,DEM,Lorenzo Arredondo,349
+Porter,012-Center 8,Attorney General,,DEM,Lorenzo Arredondo,346
+Porter,013-Center 9,Attorney General,,DEM,Lorenzo Arredondo,407
+Porter,014-Center 11,Attorney General,,DEM,Lorenzo Arredondo,265
+Porter,015-Center 13,Attorney General,,DEM,Lorenzo Arredondo,304
+Porter,016-Center 14,Attorney General,,DEM,Lorenzo Arredondo,279
+Porter,017-Center 15,Attorney General,,DEM,Lorenzo Arredondo,243
+Porter,018-Center 16,Attorney General,,DEM,Lorenzo Arredondo,218
+Porter,019-Center 17,Attorney General,,DEM,Lorenzo Arredondo,265
+Porter,020-Center 18,Attorney General,,DEM,Lorenzo Arredondo,317
+Porter,021-Center 19,Attorney General,,DEM,Lorenzo Arredondo,206
+Porter,022-Center 20,Attorney General,,DEM,Lorenzo Arredondo,363
+Porter,023-Center 21,Attorney General,,DEM,Lorenzo Arredondo,247
+Porter,024-Center 22,Attorney General,,DEM,Lorenzo Arredondo,376
+Porter,025-Center 23,Attorney General,,DEM,Lorenzo Arredondo,350
+Porter,026-Center 24,Attorney General,,DEM,Lorenzo Arredondo,342
+Porter,027-Center 25,Attorney General,,DEM,Lorenzo Arredondo,344
+Porter,028-Center 26,Attorney General,,DEM,Lorenzo Arredondo,266
+Porter,029-Center 27,Attorney General,,DEM,Lorenzo Arredondo,288
+Porter,030-Center 28,Attorney General,,DEM,Lorenzo Arredondo,262
+Porter,031-Center 29,Attorney General,,DEM,Lorenzo Arredondo,266
+Porter,032-Center 30,Attorney General,,DEM,Lorenzo Arredondo,372
+Porter,033-Center 31,Attorney General,,DEM,Lorenzo Arredondo,349
+Porter,034-Center 32,Attorney General,,DEM,Lorenzo Arredondo,183
+Porter,035-Center 33,Attorney General,,DEM,Lorenzo Arredondo,202
+Porter,036-Center 34,Attorney General,,DEM,Lorenzo Arredondo,263
+Porter,037-Center 35,Attorney General,,DEM,Lorenzo Arredondo,192
+Porter,038-Jackson 1,Attorney General,,DEM,Lorenzo Arredondo,221
+Porter,039-Jackson 2,Attorney General,,DEM,Lorenzo Arredondo,200
+Porter,040-Jackson 3,Attorney General,,DEM,Lorenzo Arredondo,221
+Porter,041-Jackson 4,Attorney General,,DEM,Lorenzo Arredondo,251
+Porter,042-Jackson 5,Attorney General,,DEM,Lorenzo Arredondo,316
+Porter,043-Liberty 1,Attorney General,,DEM,Lorenzo Arredondo,369
+Porter,044-Liberty 2,Attorney General,,DEM,Lorenzo Arredondo,116
+Porter,045-Liberty 3,Attorney General,,DEM,Lorenzo Arredondo,541
+Porter,046-Liberty 4,Attorney General,,DEM,Lorenzo Arredondo,286
+Porter,047-Liberty 5,Attorney General,,DEM,Lorenzo Arredondo,333
+Porter,048-Liberty 6,Attorney General,,DEM,Lorenzo Arredondo,213
+Porter,049-Liberty 7,Attorney General,,DEM,Lorenzo Arredondo,171
+Porter,050-Morgan 1,Attorney General,,DEM,Lorenzo Arredondo,117
+Porter,051-Morgan 2,Attorney General,,DEM,Lorenzo Arredondo,253
+Porter,052-Morgan 3,Attorney General,,DEM,Lorenzo Arredondo,301
+Porter,053-Pine 1,Attorney General,,DEM,Lorenzo Arredondo,273
+Porter,054-Pine 2,Attorney General,,DEM,Lorenzo Arredondo,405
+Porter,055-Pleasant 1,Attorney General,,DEM,Lorenzo Arredondo,232
+Porter,056-Pleasant 2,Attorney General,,DEM,Lorenzo Arredondo,255
+Porter,057-Pleasant 3,Attorney General,,DEM,Lorenzo Arredondo,194
+Porter,058-Portage 1,Attorney General,,DEM,Lorenzo Arredondo,208
+Porter,059-Portage 2,Attorney General,,DEM,Lorenzo Arredondo,261
+Porter,060-Portage 3,Attorney General,,DEM,Lorenzo Arredondo,307
+Porter,061-Portage 4,Attorney General,,DEM,Lorenzo Arredondo,394
+Porter,062-Portage 5,Attorney General,,DEM,Lorenzo Arredondo,375
+Porter,063-Portage 6,Attorney General,,DEM,Lorenzo Arredondo,232
+Porter,064-Portage 7,Attorney General,,DEM,Lorenzo Arredondo,309
+Porter,065-Portage 9,Attorney General,,DEM,Lorenzo Arredondo,398
+Porter,066-Portage 10,Attorney General,,DEM,Lorenzo Arredondo,311
+Porter,067-Portage 12,Attorney General,,DEM,Lorenzo Arredondo,282
+Porter,068-Portage 13,Attorney General,,DEM,Lorenzo Arredondo,389
+Porter,069-Portage 14,Attorney General,,DEM,Lorenzo Arredondo,347
+Porter,070-Portage 15,Attorney General,,DEM,Lorenzo Arredondo,247
+Porter,071-Portage 16,Attorney General,,DEM,Lorenzo Arredondo,298
+Porter,072-Portage 17,Attorney General,,DEM,Lorenzo Arredondo,345
+Porter,073-Portage 18,Attorney General,,DEM,Lorenzo Arredondo,517
+Porter,074-Portage 19,Attorney General,,DEM,Lorenzo Arredondo,220
+Porter,075-Portage 20,Attorney General,,DEM,Lorenzo Arredondo,360
+Porter,076-Portage 21,Attorney General,,DEM,Lorenzo Arredondo,408
+Porter,077-Portage 22,Attorney General,,DEM,Lorenzo Arredondo,376
+Porter,078-Portage 23,Attorney General,,DEM,Lorenzo Arredondo,272
+Porter,079-Portage 24,Attorney General,,DEM,Lorenzo Arredondo,385
+Porter,080-Portage 25,Attorney General,,DEM,Lorenzo Arredondo,248
+Porter,081-Portage 26,Attorney General,,DEM,Lorenzo Arredondo,320
+Porter,082-Portage 27,Attorney General,,DEM,Lorenzo Arredondo,439
+Porter,083-Portage 28,Attorney General,,DEM,Lorenzo Arredondo,204
+Porter,084-Portage 31,Attorney General,,DEM,Lorenzo Arredondo,190
+Porter,085-Portage 32,Attorney General,,DEM,Lorenzo Arredondo,316
+Porter,086-Portage 33,Attorney General,,DEM,Lorenzo Arredondo,196
+Porter,087-Portage 35,Attorney General,,DEM,Lorenzo Arredondo,453
+Porter,088-Portage 36,Attorney General,,DEM,Lorenzo Arredondo,357
+Porter,089-Portage 37,Attorney General,,DEM,Lorenzo Arredondo,358
+Porter,090-Portage 38,Attorney General,,DEM,Lorenzo Arredondo,368
+Porter,091-Porter 1,Attorney General,,DEM,Lorenzo Arredondo,259
+Porter,092-Porter 2,Attorney General,,DEM,Lorenzo Arredondo,291
+Porter,093-Porter 3,Attorney General,,DEM,Lorenzo Arredondo,297
+Porter,094-Porter 4,Attorney General,,DEM,Lorenzo Arredondo,345
+Porter,095-Porter 5,Attorney General,,DEM,Lorenzo Arredondo,272
+Porter,096-Porter 6,Attorney General,,DEM,Lorenzo Arredondo,391
+Porter,097-Porter 7,Attorney General,,DEM,Lorenzo Arredondo,123
+Porter,098-Union 1,Attorney General,,DEM,Lorenzo Arredondo,246
+Porter,099-Union 2,Attorney General,,DEM,Lorenzo Arredondo,144
+Porter,100-Union 3,Attorney General,,DEM,Lorenzo Arredondo,243
+Porter,101-Union 4,Attorney General,,DEM,Lorenzo Arredondo,332
+Porter,102-Union 5,Attorney General,,DEM,Lorenzo Arredondo,382
+Porter,103-Union 6,Attorney General,,DEM,Lorenzo Arredondo,275
+Porter,104-Union 7,Attorney General,,DEM,Lorenzo Arredondo,219
+Porter,105-Washington 1,Attorney General,,DEM,Lorenzo Arredondo,243
+Porter,106-Washington 2,Attorney General,,DEM,Lorenzo Arredondo,305
+Porter,107-Washington 3,Attorney General,,DEM,Lorenzo Arredondo,316
+Porter,108-Westchester 1,Attorney General,,DEM,Lorenzo Arredondo,228
+Porter,109-Westchester 3,Attorney General,,DEM,Lorenzo Arredondo,344
+Porter,110-Westchester 4,Attorney General,,DEM,Lorenzo Arredondo,439
+Porter,111-Westchester 5,Attorney General,,DEM,Lorenzo Arredondo,294
+Porter,112-Westchester 6,Attorney General,,DEM,Lorenzo Arredondo,61
+Porter,113-Westchester 7,Attorney General,,DEM,Lorenzo Arredondo,451
+Porter,114-Westchester 8,Attorney General,,DEM,Lorenzo Arredondo,339
+Porter,115-Westchester 9,Attorney General,,DEM,Lorenzo Arredondo,372
+Porter,116-Westchester 10,Attorney General,,DEM,Lorenzo Arredondo,335
+Porter,117-Westchester 11,Attorney General,,DEM,Lorenzo Arredondo,334
+Porter,118-Westchester 12,Attorney General,,DEM,Lorenzo Arredondo,450
+Porter,119-Westchester 13,Attorney General,,DEM,Lorenzo Arredondo,244
+Porter,120-Westchester 14,Attorney General,,DEM,Lorenzo Arredondo,348
+Porter,121-Westchester 16,Attorney General,,DEM,Lorenzo Arredondo,273
+Porter,122-Westchester 17,Attorney General,,DEM,Lorenzo Arredondo,83
+Porter,123-Westchester 18,Attorney General,,DEM,Lorenzo Arredondo,206
+Porter,,Attorney General,,DEM,Lorenzo Arredondo,36163
+Porter,001-Boone 1,Public Instruction,,REP,Jennifer McCormick,230
+Porter,002-Boone 2,Public Instruction,,REP,Jennifer McCormick,211
+Porter,003-Boone 3,Public Instruction,,REP,Jennifer McCormick,275
+Porter,004-Boone 4,Public Instruction,,REP,Jennifer McCormick,326
+Porter,005-Boone 5,Public Instruction,,REP,Jennifer McCormick,218
+Porter,006-Center 1,Public Instruction,,REP,Jennifer McCormick,174
+Porter,007-Center 2,Public Instruction,,REP,Jennifer McCormick,199
+Porter,008-Center 3,Public Instruction,,REP,Jennifer McCormick,182
+Porter,009-Center 5,Public Instruction,,REP,Jennifer McCormick,232
+Porter,010-Center 6,Public Instruction,,REP,Jennifer McCormick,307
+Porter,011-Center 7,Public Instruction,,REP,Jennifer McCormick,229
+Porter,012-Center 8,Public Instruction,,REP,Jennifer McCormick,287
+Porter,013-Center 9,Public Instruction,,REP,Jennifer McCormick,280
+Porter,014-Center 11,Public Instruction,,REP,Jennifer McCormick,389
+Porter,015-Center 13,Public Instruction,,REP,Jennifer McCormick,291
+Porter,016-Center 14,Public Instruction,,REP,Jennifer McCormick,224
+Porter,017-Center 15,Public Instruction,,REP,Jennifer McCormick,339
+Porter,018-Center 16,Public Instruction,,REP,Jennifer McCormick,221
+Porter,019-Center 17,Public Instruction,,REP,Jennifer McCormick,274
+Porter,020-Center 18,Public Instruction,,REP,Jennifer McCormick,362
+Porter,021-Center 19,Public Instruction,,REP,Jennifer McCormick,253
+Porter,022-Center 20,Public Instruction,,REP,Jennifer McCormick,403
+Porter,023-Center 21,Public Instruction,,REP,Jennifer McCormick,261
+Porter,024-Center 22,Public Instruction,,REP,Jennifer McCormick,321
+Porter,025-Center 23,Public Instruction,,REP,Jennifer McCormick,540
+Porter,026-Center 24,Public Instruction,,REP,Jennifer McCormick,414
+Porter,027-Center 25,Public Instruction,,REP,Jennifer McCormick,422
+Porter,028-Center 26,Public Instruction,,REP,Jennifer McCormick,220
+Porter,029-Center 27,Public Instruction,,REP,Jennifer McCormick,233
+Porter,030-Center 28,Public Instruction,,REP,Jennifer McCormick,161
+Porter,031-Center 29,Public Instruction,,REP,Jennifer McCormick,296
+Porter,032-Center 30,Public Instruction,,REP,Jennifer McCormick,284
+Porter,033-Center 31,Public Instruction,,REP,Jennifer McCormick,328
+Porter,034-Center 32,Public Instruction,,REP,Jennifer McCormick,248
+Porter,035-Center 33,Public Instruction,,REP,Jennifer McCormick,174
+Porter,036-Center 34,Public Instruction,,REP,Jennifer McCormick,343
+Porter,037-Center 35,Public Instruction,,REP,Jennifer McCormick,151
+Porter,038-Jackson 1,Public Instruction,,REP,Jennifer McCormick,356
+Porter,039-Jackson 2,Public Instruction,,REP,Jennifer McCormick,257
+Porter,040-Jackson 3,Public Instruction,,REP,Jennifer McCormick,267
+Porter,041-Jackson 4,Public Instruction,,REP,Jennifer McCormick,261
+Porter,042-Jackson 5,Public Instruction,,REP,Jennifer McCormick,347
+Porter,043-Liberty 1,Public Instruction,,REP,Jennifer McCormick,373
+Porter,044-Liberty 2,Public Instruction,,REP,Jennifer McCormick,138
+Porter,045-Liberty 3,Public Instruction,,REP,Jennifer McCormick,553
+Porter,046-Liberty 4,Public Instruction,,REP,Jennifer McCormick,308
+Porter,047-Liberty 5,Public Instruction,,REP,Jennifer McCormick,384
+Porter,048-Liberty 6,Public Instruction,,REP,Jennifer McCormick,235
+Porter,049-Liberty 7,Public Instruction,,REP,Jennifer McCormick,262
+Porter,050-Morgan 1,Public Instruction,,REP,Jennifer McCormick,187
+Porter,051-Morgan 2,Public Instruction,,REP,Jennifer McCormick,446
+Porter,052-Morgan 3,Public Instruction,,REP,Jennifer McCormick,420
+Porter,053-Pine 1,Public Instruction,,REP,Jennifer McCormick,336
+Porter,054-Pine 2,Public Instruction,,REP,Jennifer McCormick,271
+Porter,055-Pleasant 1,Public Instruction,,REP,Jennifer McCormick,416
+Porter,056-Pleasant 2,Public Instruction,,REP,Jennifer McCormick,465
+Porter,057-Pleasant 3,Public Instruction,,REP,Jennifer McCormick,282
+Porter,058-Portage 1,Public Instruction,,REP,Jennifer McCormick,175
+Porter,059-Portage 2,Public Instruction,,REP,Jennifer McCormick,208
+Porter,060-Portage 3,Public Instruction,,REP,Jennifer McCormick,182
+Porter,061-Portage 4,Public Instruction,,REP,Jennifer McCormick,363
+Porter,062-Portage 5,Public Instruction,,REP,Jennifer McCormick,283
+Porter,063-Portage 6,Public Instruction,,REP,Jennifer McCormick,169
+Porter,064-Portage 7,Public Instruction,,REP,Jennifer McCormick,209
+Porter,065-Portage 9,Public Instruction,,REP,Jennifer McCormick,290
+Porter,066-Portage 10,Public Instruction,,REP,Jennifer McCormick,253
+Porter,067-Portage 12,Public Instruction,,REP,Jennifer McCormick,155
+Porter,068-Portage 13,Public Instruction,,REP,Jennifer McCormick,210
+Porter,069-Portage 14,Public Instruction,,REP,Jennifer McCormick,232
+Porter,070-Portage 15,Public Instruction,,REP,Jennifer McCormick,206
+Porter,071-Portage 16,Public Instruction,,REP,Jennifer McCormick,199
+Porter,072-Portage 17,Public Instruction,,REP,Jennifer McCormick,204
+Porter,073-Portage 18,Public Instruction,,REP,Jennifer McCormick,194
+Porter,074-Portage 19,Public Instruction,,REP,Jennifer McCormick,140
+Porter,075-Portage 20,Public Instruction,,REP,Jennifer McCormick,248
+Porter,076-Portage 21,Public Instruction,,REP,Jennifer McCormick,232
+Porter,077-Portage 22,Public Instruction,,REP,Jennifer McCormick,245
+Porter,078-Portage 23,Public Instruction,,REP,Jennifer McCormick,216
+Porter,079-Portage 24,Public Instruction,,REP,Jennifer McCormick,260
+Porter,080-Portage 25,Public Instruction,,REP,Jennifer McCormick,169
+Porter,081-Portage 26,Public Instruction,,REP,Jennifer McCormick,201
+Porter,082-Portage 27,Public Instruction,,REP,Jennifer McCormick,311
+Porter,083-Portage 28,Public Instruction,,REP,Jennifer McCormick,169
+Porter,084-Portage 31,Public Instruction,,REP,Jennifer McCormick,162
+Porter,085-Portage 32,Public Instruction,,REP,Jennifer McCormick,194
+Porter,086-Portage 33,Public Instruction,,REP,Jennifer McCormick,132
+Porter,087-Portage 35,Public Instruction,,REP,Jennifer McCormick,246
+Porter,088-Portage 36,Public Instruction,,REP,Jennifer McCormick,243
+Porter,089-Portage 37,Public Instruction,,REP,Jennifer McCormick,222
+Porter,090-Portage 38,Public Instruction,,REP,Jennifer McCormick,128
+Porter,091-Porter 1,Public Instruction,,REP,Jennifer McCormick,287
+Porter,092-Porter 2,Public Instruction,,REP,Jennifer McCormick,356
+Porter,093-Porter 3,Public Instruction,,REP,Jennifer McCormick,380
+Porter,094-Porter 4,Public Instruction,,REP,Jennifer McCormick,465
+Porter,095-Porter 5,Public Instruction,,REP,Jennifer McCormick,313
+Porter,096-Porter 6,Public Instruction,,REP,Jennifer McCormick,492
+Porter,097-Porter 7,Public Instruction,,REP,Jennifer McCormick,163
+Porter,098-Union 1,Public Instruction,,REP,Jennifer McCormick,220
+Porter,099-Union 2,Public Instruction,,REP,Jennifer McCormick,189
+Porter,100-Union 3,Public Instruction,,REP,Jennifer McCormick,440
+Porter,101-Union 4,Public Instruction,,REP,Jennifer McCormick,346
+Porter,102-Union 5,Public Instruction,,REP,Jennifer McCormick,664
+Porter,103-Union 6,Public Instruction,,REP,Jennifer McCormick,228
+Porter,104-Union 7,Public Instruction,,REP,Jennifer McCormick,285
+Porter,105-Washington 1,Public Instruction,,REP,Jennifer McCormick,413
+Porter,106-Washington 2,Public Instruction,,REP,Jennifer McCormick,361
+Porter,107-Washington 3,Public Instruction,,REP,Jennifer McCormick,392
+Porter,108-Westchester 1,Public Instruction,,REP,Jennifer McCormick,127
+Porter,109-Westchester 3,Public Instruction,,REP,Jennifer McCormick,277
+Porter,110-Westchester 4,Public Instruction,,REP,Jennifer McCormick,305
+Porter,111-Westchester 5,Public Instruction,,REP,Jennifer McCormick,227
+Porter,112-Westchester 6,Public Instruction,,REP,Jennifer McCormick,74
+Porter,113-Westchester 7,Public Instruction,,REP,Jennifer McCormick,365
+Porter,114-Westchester 8,Public Instruction,,REP,Jennifer McCormick,284
+Porter,115-Westchester 9,Public Instruction,,REP,Jennifer McCormick,421
+Porter,116-Westchester 10,Public Instruction,,REP,Jennifer McCormick,282
+Porter,117-Westchester 11,Public Instruction,,REP,Jennifer McCormick,318
+Porter,118-Westchester 12,Public Instruction,,REP,Jennifer McCormick,344
+Porter,119-Westchester 13,Public Instruction,,REP,Jennifer McCormick,173
+Porter,120-Westchester 14,Public Instruction,,REP,Jennifer McCormick,435
+Porter,121-Westchester 16,Public Instruction,,REP,Jennifer McCormick,271
+Porter,122-Westchester 17,Public Instruction,,REP,Jennifer McCormick,57
+Porter,123-Westchester 18,Public Instruction,,REP,Jennifer McCormick,184
+Porter,,Public Instruction,,REP,Jennifer McCormick,34054
+Porter,001-Boone 1,Public Instruction,,DEM,Glenda Ritz,263
+Porter,002-Boone 2,Public Instruction,,DEM,Glenda Ritz,227
+Porter,003-Boone 3,Public Instruction,,DEM,Glenda Ritz,289
+Porter,004-Boone 4,Public Instruction,,DEM,Glenda Ritz,357
+Porter,005-Boone 5,Public Instruction,,DEM,Glenda Ritz,222
+Porter,006-Center 1,Public Instruction,,DEM,Glenda Ritz,319
+Porter,007-Center 2,Public Instruction,,DEM,Glenda Ritz,354
+Porter,008-Center 3,Public Instruction,,DEM,Glenda Ritz,323
+Porter,009-Center 5,Public Instruction,,DEM,Glenda Ritz,363
+Porter,010-Center 6,Public Instruction,,DEM,Glenda Ritz,539
+Porter,011-Center 7,Public Instruction,,DEM,Glenda Ritz,400
+Porter,012-Center 8,Public Instruction,,DEM,Glenda Ritz,402
+Porter,013-Center 9,Public Instruction,,DEM,Glenda Ritz,459
+Porter,014-Center 11,Public Instruction,,DEM,Glenda Ritz,351
+Porter,015-Center 13,Public Instruction,,DEM,Glenda Ritz,337
+Porter,016-Center 14,Public Instruction,,DEM,Glenda Ritz,322
+Porter,017-Center 15,Public Instruction,,DEM,Glenda Ritz,275
+Porter,018-Center 16,Public Instruction,,DEM,Glenda Ritz,260
+Porter,019-Center 17,Public Instruction,,DEM,Glenda Ritz,313
+Porter,020-Center 18,Public Instruction,,DEM,Glenda Ritz,356
+Porter,021-Center 19,Public Instruction,,DEM,Glenda Ritz,260
+Porter,022-Center 20,Public Instruction,,DEM,Glenda Ritz,438
+Porter,023-Center 21,Public Instruction,,DEM,Glenda Ritz,306
+Porter,024-Center 22,Public Instruction,,DEM,Glenda Ritz,448
+Porter,025-Center 23,Public Instruction,,DEM,Glenda Ritz,386
+Porter,026-Center 24,Public Instruction,,DEM,Glenda Ritz,420
+Porter,027-Center 25,Public Instruction,,DEM,Glenda Ritz,420
+Porter,028-Center 26,Public Instruction,,DEM,Glenda Ritz,310
+Porter,029-Center 27,Public Instruction,,DEM,Glenda Ritz,341
+Porter,030-Center 28,Public Instruction,,DEM,Glenda Ritz,293
+Porter,031-Center 29,Public Instruction,,DEM,Glenda Ritz,306
+Porter,032-Center 30,Public Instruction,,DEM,Glenda Ritz,411
+Porter,033-Center 31,Public Instruction,,DEM,Glenda Ritz,392
+Porter,034-Center 32,Public Instruction,,DEM,Glenda Ritz,219
+Porter,035-Center 33,Public Instruction,,DEM,Glenda Ritz,231
+Porter,036-Center 34,Public Instruction,,DEM,Glenda Ritz,333
+Porter,037-Center 35,Public Instruction,,DEM,Glenda Ritz,236
+Porter,038-Jackson 1,Public Instruction,,DEM,Glenda Ritz,242
+Porter,039-Jackson 2,Public Instruction,,DEM,Glenda Ritz,243
+Porter,040-Jackson 3,Public Instruction,,DEM,Glenda Ritz,246
+Porter,041-Jackson 4,Public Instruction,,DEM,Glenda Ritz,296
+Porter,042-Jackson 5,Public Instruction,,DEM,Glenda Ritz,341
+Porter,043-Liberty 1,Public Instruction,,DEM,Glenda Ritz,408
+Porter,044-Liberty 2,Public Instruction,,DEM,Glenda Ritz,131
+Porter,045-Liberty 3,Public Instruction,,DEM,Glenda Ritz,614
+Porter,046-Liberty 4,Public Instruction,,DEM,Glenda Ritz,300
+Porter,047-Liberty 5,Public Instruction,,DEM,Glenda Ritz,376
+Porter,048-Liberty 6,Public Instruction,,DEM,Glenda Ritz,237
+Porter,049-Liberty 7,Public Instruction,,DEM,Glenda Ritz,203
+Porter,050-Morgan 1,Public Instruction,,DEM,Glenda Ritz,150
+Porter,051-Morgan 2,Public Instruction,,DEM,Glenda Ritz,353
+Porter,052-Morgan 3,Public Instruction,,DEM,Glenda Ritz,386
+Porter,053-Pine 1,Public Instruction,,DEM,Glenda Ritz,293
+Porter,054-Pine 2,Public Instruction,,DEM,Glenda Ritz,399
+Porter,055-Pleasant 1,Public Instruction,,DEM,Glenda Ritz,311
+Porter,056-Pleasant 2,Public Instruction,,DEM,Glenda Ritz,334
+Porter,057-Pleasant 3,Public Instruction,,DEM,Glenda Ritz,246
+Porter,058-Portage 1,Public Instruction,,DEM,Glenda Ritz,222
+Porter,059-Portage 2,Public Instruction,,DEM,Glenda Ritz,265
+Porter,060-Portage 3,Public Instruction,,DEM,Glenda Ritz,312
+Porter,061-Portage 4,Public Instruction,,DEM,Glenda Ritz,428
+Porter,062-Portage 5,Public Instruction,,DEM,Glenda Ritz,393
+Porter,063-Portage 6,Public Instruction,,DEM,Glenda Ritz,230
+Porter,064-Portage 7,Public Instruction,,DEM,Glenda Ritz,293
+Porter,065-Portage 9,Public Instruction,,DEM,Glenda Ritz,405
+Porter,066-Portage 10,Public Instruction,,DEM,Glenda Ritz,327
+Porter,067-Portage 12,Public Instruction,,DEM,Glenda Ritz,290
+Porter,068-Portage 13,Public Instruction,,DEM,Glenda Ritz,392
+Porter,069-Portage 14,Public Instruction,,DEM,Glenda Ritz,365
+Porter,070-Portage 15,Public Instruction,,DEM,Glenda Ritz,264
+Porter,071-Portage 16,Public Instruction,,DEM,Glenda Ritz,320
+Porter,072-Portage 17,Public Instruction,,DEM,Glenda Ritz,356
+Porter,073-Portage 18,Public Instruction,,DEM,Glenda Ritz,515
+Porter,074-Portage 19,Public Instruction,,DEM,Glenda Ritz,222
+Porter,075-Portage 20,Public Instruction,,DEM,Glenda Ritz,360
+Porter,076-Portage 21,Public Instruction,,DEM,Glenda Ritz,434
+Porter,077-Portage 22,Public Instruction,,DEM,Glenda Ritz,382
+Porter,078-Portage 23,Public Instruction,,DEM,Glenda Ritz,266
+Porter,079-Portage 24,Public Instruction,,DEM,Glenda Ritz,380
+Porter,080-Portage 25,Public Instruction,,DEM,Glenda Ritz,255
+Porter,081-Portage 26,Public Instruction,,DEM,Glenda Ritz,326
+Porter,082-Portage 27,Public Instruction,,DEM,Glenda Ritz,468
+Porter,083-Portage 28,Public Instruction,,DEM,Glenda Ritz,213
+Porter,084-Portage 31,Public Instruction,,DEM,Glenda Ritz,186
+Porter,085-Portage 32,Public Instruction,,DEM,Glenda Ritz,316
+Porter,086-Portage 33,Public Instruction,,DEM,Glenda Ritz,206
+Porter,087-Portage 35,Public Instruction,,DEM,Glenda Ritz,483
+Porter,088-Portage 36,Public Instruction,,DEM,Glenda Ritz,378
+Porter,089-Portage 37,Public Instruction,,DEM,Glenda Ritz,384
+Porter,090-Portage 38,Public Instruction,,DEM,Glenda Ritz,352
+Porter,091-Porter 1,Public Instruction,,DEM,Glenda Ritz,281
+Porter,092-Porter 2,Public Instruction,,DEM,Glenda Ritz,324
+Porter,093-Porter 3,Public Instruction,,DEM,Glenda Ritz,341
+Porter,094-Porter 4,Public Instruction,,DEM,Glenda Ritz,403
+Porter,095-Porter 5,Public Instruction,,DEM,Glenda Ritz,287
+Porter,096-Porter 6,Public Instruction,,DEM,Glenda Ritz,421
+Porter,097-Porter 7,Public Instruction,,DEM,Glenda Ritz,119
+Porter,098-Union 1,Public Instruction,,DEM,Glenda Ritz,290
+Porter,099-Union 2,Public Instruction,,DEM,Glenda Ritz,160
+Porter,100-Union 3,Public Instruction,,DEM,Glenda Ritz,255
+Porter,101-Union 4,Public Instruction,,DEM,Glenda Ritz,383
+Porter,102-Union 5,Public Instruction,,DEM,Glenda Ritz,425
+Porter,103-Union 6,Public Instruction,,DEM,Glenda Ritz,310
+Porter,104-Union 7,Public Instruction,,DEM,Glenda Ritz,238
+Porter,105-Washington 1,Public Instruction,,DEM,Glenda Ritz,306
+Porter,106-Washington 2,Public Instruction,,DEM,Glenda Ritz,371
+Porter,107-Washington 3,Public Instruction,,DEM,Glenda Ritz,377
+Porter,108-Westchester 1,Public Instruction,,DEM,Glenda Ritz,250
+Porter,109-Westchester 3,Public Instruction,,DEM,Glenda Ritz,388
+Porter,110-Westchester 4,Public Instruction,,DEM,Glenda Ritz,483
+Porter,111-Westchester 5,Public Instruction,,DEM,Glenda Ritz,316
+Porter,112-Westchester 6,Public Instruction,,DEM,Glenda Ritz,69
+Porter,113-Westchester 7,Public Instruction,,DEM,Glenda Ritz,464
+Porter,114-Westchester 8,Public Instruction,,DEM,Glenda Ritz,372
+Porter,115-Westchester 9,Public Instruction,,DEM,Glenda Ritz,409
+Porter,116-Westchester 10,Public Instruction,,DEM,Glenda Ritz,342
+Porter,117-Westchester 11,Public Instruction,,DEM,Glenda Ritz,357
+Porter,118-Westchester 12,Public Instruction,,DEM,Glenda Ritz,502
+Porter,119-Westchester 13,Public Instruction,,DEM,Glenda Ritz,259
+Porter,120-Westchester 14,Public Instruction,,DEM,Glenda Ritz,382
+Porter,121-Westchester 16,Public Instruction,,DEM,Glenda Ritz,296
+Porter,122-Westchester 17,Public Instruction,,DEM,Glenda Ritz,85
+Porter,123-Westchester 18,Public Instruction,,DEM,Glenda Ritz,228
+Porter,,Public Instruction,,DEM,Glenda Ritz,40071
+Porter,001-Boone 1,U.S. House,1,DEM,Peter Visclosky,327
+Porter,002-Boone 2,U.S. House,1,DEM,Peter Visclosky,277
+Porter,003-Boone 3,U.S. House,1,DEM,Peter Visclosky,346
+Porter,004-Boone 4,U.S. House,1,DEM,Peter Visclosky,411
+Porter,005-Boone 5,U.S. House,1,DEM,Peter Visclosky,282
+Porter,006-Center 1,U.S. House,1,DEM,Peter Visclosky,354
+Porter,007-Center 2,U.S. House,1,DEM,Peter Visclosky,401
+Porter,008-Center 3,U.S. House,1,DEM,Peter Visclosky,398
+Porter,009-Center 5,U.S. House,1,DEM,Peter Visclosky,411
+Porter,010-Center 6,U.S. House,1,DEM,Peter Visclosky,601
+Porter,011-Center 7,U.S. House,1,DEM,Peter Visclosky,435
+Porter,012-Center 8,U.S. House,1,DEM,Peter Visclosky,487
+Porter,013-Center 9,U.S. House,1,DEM,Peter Visclosky,533
+Porter,014-Center 11,U.S. House,1,DEM,Peter Visclosky,458
+Porter,015-Center 13,U.S. House,1,DEM,Peter Visclosky,424
+Porter,016-Center 14,U.S. House,1,DEM,Peter Visclosky,406
+Porter,017-Center 15,U.S. House,1,DEM,Peter Visclosky,375
+Porter,018-Center 16,U.S. House,1,DEM,Peter Visclosky,325
+Porter,019-Center 17,U.S. House,1,DEM,Peter Visclosky,385
+Porter,020-Center 18,U.S. House,1,DEM,Peter Visclosky,447
+Porter,021-Center 19,U.S. House,1,DEM,Peter Visclosky,327
+Porter,022-Center 20,U.S. House,1,DEM,Peter Visclosky,555
+Porter,023-Center 21,U.S. House,1,DEM,Peter Visclosky,371
+Porter,024-Center 22,U.S. House,1,DEM,Peter Visclosky,520
+Porter,025-Center 23,U.S. House,1,DEM,Peter Visclosky,585
+Porter,026-Center 24,U.S. House,1,DEM,Peter Visclosky,511
+Porter,027-Center 25,U.S. House,1,DEM,Peter Visclosky,533
+Porter,028-Center 26,U.S. House,1,DEM,Peter Visclosky,385
+Porter,029-Center 27,U.S. House,1,DEM,Peter Visclosky,383
+Porter,030-Center 28,U.S. House,1,DEM,Peter Visclosky,334
+Porter,031-Center 29,U.S. House,1,DEM,Peter Visclosky,388
+Porter,032-Center 30,U.S. House,1,DEM,Peter Visclosky,473
+Porter,033-Center 31,U.S. House,1,DEM,Peter Visclosky,497
+Porter,034-Center 32,U.S. House,1,DEM,Peter Visclosky,290
+Porter,035-Center 33,U.S. House,1,DEM,Peter Visclosky,291
+Porter,036-Center 34,U.S. House,1,DEM,Peter Visclosky,449
+Porter,037-Center 35,U.S. House,1,DEM,Peter Visclosky,269
+Porter,038-Jackson 1,U.S. House,1,DEM,Peter Visclosky,354
+Porter,039-Jackson 2,U.S. House,1,DEM,Peter Visclosky,323
+Porter,040-Jackson 3,U.S. House,1,DEM,Peter Visclosky,330
+Porter,041-Jackson 4,U.S. House,1,DEM,Peter Visclosky,368
+Porter,042-Jackson 5,U.S. House,1,DEM,Peter Visclosky,455
+Porter,043-Liberty 1,U.S. House,1,DEM,Peter Visclosky,519
+Porter,044-Liberty 2,U.S. House,1,DEM,Peter Visclosky,168
+Porter,045-Liberty 3,U.S. House,1,DEM,Peter Visclosky,765
+Porter,046-Liberty 4,U.S. House,1,DEM,Peter Visclosky,376
+Porter,047-Liberty 5,U.S. House,1,DEM,Peter Visclosky,500
+Porter,048-Liberty 6,U.S. House,1,DEM,Peter Visclosky,297
+Porter,049-Liberty 7,U.S. House,1,DEM,Peter Visclosky,282
+Porter,050-Morgan 1,U.S. House,1,DEM,Peter Visclosky,221
+Porter,051-Morgan 2,U.S. House,1,DEM,Peter Visclosky,470
+Porter,052-Morgan 3,U.S. House,1,DEM,Peter Visclosky,493
+Porter,053-Pine 1,U.S. House,1,DEM,Peter Visclosky,367
+Porter,054-Pine 2,U.S. House,1,DEM,Peter Visclosky,482
+Porter,055-Pleasant 1,U.S. House,1,DEM,Peter Visclosky,419
+Porter,056-Pleasant 2,U.S. House,1,DEM,Peter Visclosky,455
+Porter,057-Pleasant 3,U.S. House,1,DEM,Peter Visclosky,315
+Porter,058-Portage 1,U.S. House,1,DEM,Peter Visclosky,270
+Porter,059-Portage 2,U.S. House,1,DEM,Peter Visclosky,331
+Porter,060-Portage 3,U.S. House,1,DEM,Peter Visclosky,378
+Porter,061-Portage 4,U.S. House,1,DEM,Peter Visclosky,530
+Porter,062-Portage 5,U.S. House,1,DEM,Peter Visclosky,499
+Porter,063-Portage 6,U.S. House,1,DEM,Peter Visclosky,265
+Porter,064-Portage 7,U.S. House,1,DEM,Peter Visclosky,379
+Porter,065-Portage 9,U.S. House,1,DEM,Peter Visclosky,518
+Porter,066-Portage 10,U.S. House,1,DEM,Peter Visclosky,397
+Porter,067-Portage 12,U.S. House,1,DEM,Peter Visclosky,337
+Porter,068-Portage 13,U.S. House,1,DEM,Peter Visclosky,448
+Porter,069-Portage 14,U.S. House,1,DEM,Peter Visclosky,435
+Porter,070-Portage 15,U.S. House,1,DEM,Peter Visclosky,331
+Porter,071-Portage 16,U.S. House,1,DEM,Peter Visclosky,363
+Porter,072-Portage 17,U.S. House,1,DEM,Peter Visclosky,404
+Porter,073-Portage 18,U.S. House,1,DEM,Peter Visclosky,552
+Porter,074-Portage 19,U.S. House,1,DEM,Peter Visclosky,263
+Porter,075-Portage 20,U.S. House,1,DEM,Peter Visclosky,432
+Porter,076-Portage 21,U.S. House,1,DEM,Peter Visclosky,544
+Porter,077-Portage 22,U.S. House,1,DEM,Peter Visclosky,475
+Porter,078-Portage 23,U.S. House,1,DEM,Peter Visclosky,339
+Porter,079-Portage 24,U.S. House,1,DEM,Peter Visclosky,494
+Porter,080-Portage 25,U.S. House,1,DEM,Peter Visclosky,299
+Porter,081-Portage 26,U.S. House,1,DEM,Peter Visclosky,383
+Porter,082-Portage 27,U.S. House,1,DEM,Peter Visclosky,590
+Porter,083-Portage 28,U.S. House,1,DEM,Peter Visclosky,263
+Porter,084-Portage 31,U.S. House,1,DEM,Peter Visclosky,219
+Porter,085-Portage 32,U.S. House,1,DEM,Peter Visclosky,355
+Porter,086-Portage 33,U.S. House,1,DEM,Peter Visclosky,242
+Porter,087-Portage 35,U.S. House,1,DEM,Peter Visclosky,549
+Porter,088-Portage 36,U.S. House,1,DEM,Peter Visclosky,449
+Porter,089-Portage 37,U.S. House,1,DEM,Peter Visclosky,433
+Porter,090-Portage 38,U.S. House,1,DEM,Peter Visclosky,382
+Porter,091-Porter 1,U.S. House,1,DEM,Peter Visclosky,363
+Porter,092-Porter 2,U.S. House,1,DEM,Peter Visclosky,417
+Porter,093-Porter 3,U.S. House,1,DEM,Peter Visclosky,466
+Porter,094-Porter 4,U.S. House,1,DEM,Peter Visclosky,520
+Porter,095-Porter 5,U.S. House,1,DEM,Peter Visclosky,363
+Porter,096-Porter 6,U.S. House,1,DEM,Peter Visclosky,566
+Porter,097-Porter 7,U.S. House,1,DEM,Peter Visclosky,161
+Porter,098-Union 1,U.S. House,1,DEM,Peter Visclosky,338
+Porter,099-Union 2,U.S. House,1,DEM,Peter Visclosky,218
+Porter,100-Union 3,U.S. House,1,DEM,Peter Visclosky,376
+Porter,101-Union 4,U.S. House,1,DEM,Peter Visclosky,449
+Porter,102-Union 5,U.S. House,1,DEM,Peter Visclosky,627
+Porter,103-Union 6,U.S. House,1,DEM,Peter Visclosky,368
+Porter,104-Union 7,U.S. House,1,DEM,Peter Visclosky,313
+Porter,105-Washington 1,U.S. House,1,DEM,Peter Visclosky,416
+Porter,106-Washington 2,U.S. House,1,DEM,Peter Visclosky,445
+Porter,107-Washington 3,U.S. House,1,DEM,Peter Visclosky,480
+Porter,108-Westchester 1,U.S. House,1,DEM,Peter Visclosky,291
+Porter,109-Westchester 3,U.S. House,1,DEM,Peter Visclosky,484
+Porter,110-Westchester 4,U.S. House,1,DEM,Peter Visclosky,572
+Porter,111-Westchester 5,U.S. House,1,DEM,Peter Visclosky,385
+Porter,112-Westchester 6,U.S. House,1,DEM,Peter Visclosky,93
+Porter,113-Westchester 7,U.S. House,1,DEM,Peter Visclosky,572
+Porter,114-Westchester 8,U.S. House,1,DEM,Peter Visclosky,462
+Porter,115-Westchester 9,U.S. House,1,DEM,Peter Visclosky,530
+Porter,116-Westchester 10,U.S. House,1,DEM,Peter Visclosky,432
+Porter,117-Westchester 11,U.S. House,1,DEM,Peter Visclosky,469
+Porter,118-Westchester 12,U.S. House,1,DEM,Peter Visclosky,579
+Porter,119-Westchester 13,U.S. House,1,DEM,Peter Visclosky,313
+Porter,120-Westchester 14,U.S. House,1,DEM,Peter Visclosky,522
+Porter,121-Westchester 16,U.S. House,1,DEM,Peter Visclosky,375
+Porter,122-Westchester 17,U.S. House,1,DEM,Peter Visclosky,96
+Porter,123-Westchester 18,U.S. House,1,DEM,Peter Visclosky,290
+Porter,,U.S. House,1,DEM,Peter Visclosky,49702
+Porter,001-Boone 1,U.S. House,1,LBT,Donna Dunn,92
+Porter,002-Boone 2,U.S. House,1,LBT,Donna Dunn,89
+Porter,003-Boone 3,U.S. House,1,LBT,Donna Dunn,137
+Porter,004-Boone 4,U.S. House,1,LBT,Donna Dunn,136
+Porter,005-Boone 5,U.S. House,1,LBT,Donna Dunn,92
+Porter,006-Center 1,U.S. House,1,LBT,Donna Dunn,102
+Porter,007-Center 2,U.S. House,1,LBT,Donna Dunn,106
+Porter,008-Center 3,U.S. House,1,LBT,Donna Dunn,137
+Porter,009-Center 5,U.S. House,1,LBT,Donna Dunn,107
+Porter,010-Center 6,U.S. House,1,LBT,Donna Dunn,150
+Porter,011-Center 7,U.S. House,1,LBT,Donna Dunn,118
+Porter,012-Center 8,U.S. House,1,LBT,Donna Dunn,125
+Porter,013-Center 9,U.S. House,1,LBT,Donna Dunn,148
+Porter,014-Center 11,U.S. House,1,LBT,Donna Dunn,142
+Porter,015-Center 13,U.S. House,1,LBT,Donna Dunn,121
+Porter,016-Center 14,U.S. House,1,LBT,Donna Dunn,101
+Porter,017-Center 15,U.S. House,1,LBT,Donna Dunn,112
+Porter,018-Center 16,U.S. House,1,LBT,Donna Dunn,95
+Porter,019-Center 17,U.S. House,1,LBT,Donna Dunn,126
+Porter,020-Center 18,U.S. House,1,LBT,Donna Dunn,140
+Porter,021-Center 19,U.S. House,1,LBT,Donna Dunn,107
+Porter,022-Center 20,U.S. House,1,LBT,Donna Dunn,135
+Porter,023-Center 21,U.S. House,1,LBT,Donna Dunn,108
+Porter,024-Center 22,U.S. House,1,LBT,Donna Dunn,129
+Porter,025-Center 23,U.S. House,1,LBT,Donna Dunn,143
+Porter,026-Center 24,U.S. House,1,LBT,Donna Dunn,170
+Porter,027-Center 25,U.S. House,1,LBT,Donna Dunn,140
+Porter,028-Center 26,U.S. House,1,LBT,Donna Dunn,69
+Porter,029-Center 27,U.S. House,1,LBT,Donna Dunn,104
+Porter,030-Center 28,U.S. House,1,LBT,Donna Dunn,81
+Porter,031-Center 29,U.S. House,1,LBT,Donna Dunn,114
+Porter,032-Center 30,U.S. House,1,LBT,Donna Dunn,126
+Porter,033-Center 31,U.S. House,1,LBT,Donna Dunn,120
+Porter,034-Center 32,U.S. House,1,LBT,Donna Dunn,83
+Porter,035-Center 33,U.S. House,1,LBT,Donna Dunn,50
+Porter,036-Center 34,U.S. House,1,LBT,Donna Dunn,113
+Porter,037-Center 35,U.S. House,1,LBT,Donna Dunn,75
+Porter,038-Jackson 1,U.S. House,1,LBT,Donna Dunn,132
+Porter,039-Jackson 2,U.S. House,1,LBT,Donna Dunn,118
+Porter,040-Jackson 3,U.S. House,1,LBT,Donna Dunn,106
+Porter,041-Jackson 4,U.S. House,1,LBT,Donna Dunn,123
+Porter,042-Jackson 5,U.S. House,1,LBT,Donna Dunn,149
+Porter,043-Liberty 1,U.S. House,1,LBT,Donna Dunn,160
+Porter,044-Liberty 2,U.S. House,1,LBT,Donna Dunn,75
+Porter,045-Liberty 3,U.S. House,1,LBT,Donna Dunn,244
+Porter,046-Liberty 4,U.S. House,1,LBT,Donna Dunn,150
+Porter,047-Liberty 5,U.S. House,1,LBT,Donna Dunn,160
+Porter,048-Liberty 6,U.S. House,1,LBT,Donna Dunn,99
+Porter,049-Liberty 7,U.S. House,1,LBT,Donna Dunn,90
+Porter,050-Morgan 1,U.S. House,1,LBT,Donna Dunn,70
+Porter,051-Morgan 2,U.S. House,1,LBT,Donna Dunn,185
+Porter,052-Morgan 3,U.S. House,1,LBT,Donna Dunn,165
+Porter,053-Pine 1,U.S. House,1,LBT,Donna Dunn,141
+Porter,054-Pine 2,U.S. House,1,LBT,Donna Dunn,127
+Porter,055-Pleasant 1,U.S. House,1,LBT,Donna Dunn,175
+Porter,056-Pleasant 2,U.S. House,1,LBT,Donna Dunn,161
+Porter,057-Pleasant 3,U.S. House,1,LBT,Donna Dunn,121
+Porter,058-Portage 1,U.S. House,1,LBT,Donna Dunn,85
+Porter,059-Portage 2,U.S. House,1,LBT,Donna Dunn,93
+Porter,060-Portage 3,U.S. House,1,LBT,Donna Dunn,88
+Porter,061-Portage 4,U.S. House,1,LBT,Donna Dunn,173
+Porter,062-Portage 5,U.S. House,1,LBT,Donna Dunn,114
+Porter,063-Portage 6,U.S. House,1,LBT,Donna Dunn,96
+Porter,064-Portage 7,U.S. House,1,LBT,Donna Dunn,98
+Porter,065-Portage 9,U.S. House,1,LBT,Donna Dunn,124
+Porter,066-Portage 10,U.S. House,1,LBT,Donna Dunn,144
+Porter,067-Portage 12,U.S. House,1,LBT,Donna Dunn,75
+Porter,068-Portage 13,U.S. House,1,LBT,Donna Dunn,107
+Porter,069-Portage 14,U.S. House,1,LBT,Donna Dunn,110
+Porter,070-Portage 15,U.S. House,1,LBT,Donna Dunn,96
+Porter,071-Portage 16,U.S. House,1,LBT,Donna Dunn,124
+Porter,072-Portage 17,U.S. House,1,LBT,Donna Dunn,115
+Porter,073-Portage 18,U.S. House,1,LBT,Donna Dunn,101
+Porter,074-Portage 19,U.S. House,1,LBT,Donna Dunn,77
+Porter,075-Portage 20,U.S. House,1,LBT,Donna Dunn,102
+Porter,076-Portage 21,U.S. House,1,LBT,Donna Dunn,92
+Porter,077-Portage 22,U.S. House,1,LBT,Donna Dunn,112
+Porter,078-Portage 23,U.S. House,1,LBT,Donna Dunn,86
+Porter,079-Portage 24,U.S. House,1,LBT,Donna Dunn,100
+Porter,080-Portage 25,U.S. House,1,LBT,Donna Dunn,88
+Porter,081-Portage 26,U.S. House,1,LBT,Donna Dunn,115
+Porter,082-Portage 27,U.S. House,1,LBT,Donna Dunn,131
+Porter,083-Portage 28,U.S. House,1,LBT,Donna Dunn,86
+Porter,084-Portage 31,U.S. House,1,LBT,Donna Dunn,91
+Porter,085-Portage 32,U.S. House,1,LBT,Donna Dunn,101
+Porter,086-Portage 33,U.S. House,1,LBT,Donna Dunn,76
+Porter,087-Portage 35,U.S. House,1,LBT,Donna Dunn,119
+Porter,088-Portage 36,U.S. House,1,LBT,Donna Dunn,119
+Porter,089-Portage 37,U.S. House,1,LBT,Donna Dunn,100
+Porter,090-Portage 38,U.S. House,1,LBT,Donna Dunn,58
+Porter,091-Porter 1,U.S. House,1,LBT,Donna Dunn,133
+Porter,092-Porter 2,U.S. House,1,LBT,Donna Dunn,128
+Porter,093-Porter 3,U.S. House,1,LBT,Donna Dunn,162
+Porter,094-Porter 4,U.S. House,1,LBT,Donna Dunn,180
+Porter,095-Porter 5,U.S. House,1,LBT,Donna Dunn,107
+Porter,096-Porter 6,U.S. House,1,LBT,Donna Dunn,160
+Porter,097-Porter 7,U.S. House,1,LBT,Donna Dunn,58
+Porter,098-Union 1,U.S. House,1,LBT,Donna Dunn,101
+Porter,099-Union 2,U.S. House,1,LBT,Donna Dunn,78
+Porter,100-Union 3,U.S. House,1,LBT,Donna Dunn,155
+Porter,101-Union 4,U.S. House,1,LBT,Donna Dunn,165
+Porter,102-Union 5,U.S. House,1,LBT,Donna Dunn,174
+Porter,103-Union 6,U.S. House,1,LBT,Donna Dunn,125
+Porter,104-Union 7,U.S. House,1,LBT,Donna Dunn,113
+Porter,105-Washington 1,U.S. House,1,LBT,Donna Dunn,161
+Porter,106-Washington 2,U.S. House,1,LBT,Donna Dunn,173
+Porter,107-Washington 3,U.S. House,1,LBT,Donna Dunn,166
+Porter,108-Westchester 1,U.S. House,1,LBT,Donna Dunn,56
+Porter,109-Westchester 3,U.S. House,1,LBT,Donna Dunn,113
+Porter,110-Westchester 4,U.S. House,1,LBT,Donna Dunn,154
+Porter,111-Westchester 5,U.S. House,1,LBT,Donna Dunn,108
+Porter,112-Westchester 6,U.S. House,1,LBT,Donna Dunn,30
+Porter,113-Westchester 7,U.S. House,1,LBT,Donna Dunn,179
+Porter,114-Westchester 8,U.S. House,1,LBT,Donna Dunn,134
+Porter,115-Westchester 9,U.S. House,1,LBT,Donna Dunn,159
+Porter,116-Westchester 10,U.S. House,1,LBT,Donna Dunn,112
+Porter,117-Westchester 11,U.S. House,1,LBT,Donna Dunn,146
+Porter,118-Westchester 12,U.S. House,1,LBT,Donna Dunn,184
+Porter,119-Westchester 13,U.S. House,1,LBT,Donna Dunn,90
+Porter,120-Westchester 14,U.S. House,1,LBT,Donna Dunn,153
+Porter,121-Westchester 16,U.S. House,1,LBT,Donna Dunn,124
+Porter,122-Westchester 17,U.S. House,1,LBT,Donna Dunn,26
+Porter,123-Westchester 18,U.S. House,1,LBT,Donna Dunn,82
+Porter,,U.S. House,1,LBT,Donna Dunn,14579
+Porter,001-Boone 1,U.S. House,1,,Write-ins,1
+Porter,002-Boone 2,U.S. House,1,,Write-ins,2
+Porter,003-Boone 3,U.S. House,1,,Write-ins,1
+Porter,004-Boone 4,U.S. House,1,,Write-ins,3
+Porter,005-Boone 5,U.S. House,1,,Write-ins,2
+Porter,006-Center 1,U.S. House,1,,Write-ins,1
+Porter,007-Center 2,U.S. House,1,,Write-ins,0
+Porter,008-Center 3,U.S. House,1,,Write-ins,4
+Porter,009-Center 5,U.S. House,1,,Write-ins,1
+Porter,010-Center 6,U.S. House,1,,Write-ins,3
+Porter,011-Center 7,U.S. House,1,,Write-ins,0
+Porter,012-Center 8,U.S. House,1,,Write-ins,1
+Porter,013-Center 9,U.S. House,1,,Write-ins,0
+Porter,014-Center 11,U.S. House,1,,Write-ins,9
+Porter,015-Center 13,U.S. House,1,,Write-ins,1
+Porter,016-Center 14,U.S. House,1,,Write-ins,0
+Porter,017-Center 15,U.S. House,1,,Write-ins,4
+Porter,018-Center 16,U.S. House,1,,Write-ins,1
+Porter,019-Center 17,U.S. House,1,,Write-ins,1
+Porter,020-Center 18,U.S. House,1,,Write-ins,5
+Porter,021-Center 19,U.S. House,1,,Write-ins,0
+Porter,022-Center 20,U.S. House,1,,Write-ins,1
+Porter,023-Center 21,U.S. House,1,,Write-ins,2
+Porter,024-Center 22,U.S. House,1,,Write-ins,2
+Porter,025-Center 23,U.S. House,1,,Write-ins,6
+Porter,026-Center 24,U.S. House,1,,Write-ins,3
+Porter,027-Center 25,U.S. House,1,,Write-ins,3
+Porter,028-Center 26,U.S. House,1,,Write-ins,0
+Porter,029-Center 27,U.S. House,1,,Write-ins,1
+Porter,030-Center 28,U.S. House,1,,Write-ins,0
+Porter,031-Center 29,U.S. House,1,,Write-ins,2
+Porter,032-Center 30,U.S. House,1,,Write-ins,2
+Porter,033-Center 31,U.S. House,1,,Write-ins,1
+Porter,034-Center 32,U.S. House,1,,Write-ins,1
+Porter,035-Center 33,U.S. House,1,,Write-ins,1
+Porter,036-Center 34,U.S. House,1,,Write-ins,3
+Porter,037-Center 35,U.S. House,1,,Write-ins,0
+Porter,038-Jackson 1,U.S. House,1,,Write-ins,2
+Porter,039-Jackson 2,U.S. House,1,,Write-ins,3
+Porter,040-Jackson 3,U.S. House,1,,Write-ins,1
+Porter,041-Jackson 4,U.S. House,1,,Write-ins,4
+Porter,042-Jackson 5,U.S. House,1,,Write-ins,1
+Porter,043-Liberty 1,U.S. House,1,,Write-ins,4
+Porter,044-Liberty 2,U.S. House,1,,Write-ins,1
+Porter,045-Liberty 3,U.S. House,1,,Write-ins,4
+Porter,046-Liberty 4,U.S. House,1,,Write-ins,0
+Porter,047-Liberty 5,U.S. House,1,,Write-ins,3
+Porter,048-Liberty 6,U.S. House,1,,Write-ins,2
+Porter,049-Liberty 7,U.S. House,1,,Write-ins,0
+Porter,050-Morgan 1,U.S. House,1,,Write-ins,0
+Porter,051-Morgan 2,U.S. House,1,,Write-ins,4
+Porter,052-Morgan 3,U.S. House,1,,Write-ins,6
+Porter,053-Pine 1,U.S. House,1,,Write-ins,2
+Porter,054-Pine 2,U.S. House,1,,Write-ins,1
+Porter,055-Pleasant 1,U.S. House,1,,Write-ins,3
+Porter,056-Pleasant 2,U.S. House,1,,Write-ins,2
+Porter,057-Pleasant 3,U.S. House,1,,Write-ins,2
+Porter,058-Portage 1,U.S. House,1,,Write-ins,1
+Porter,059-Portage 2,U.S. House,1,,Write-ins,0
+Porter,060-Portage 3,U.S. House,1,,Write-ins,4
+Porter,061-Portage 4,U.S. House,1,,Write-ins,4
+Porter,062-Portage 5,U.S. House,1,,Write-ins,2
+Porter,063-Portage 6,U.S. House,1,,Write-ins,0
+Porter,064-Portage 7,U.S. House,1,,Write-ins,0
+Porter,065-Portage 9,U.S. House,1,,Write-ins,1
+Porter,066-Portage 10,U.S. House,1,,Write-ins,3
+Porter,067-Portage 12,U.S. House,1,,Write-ins,2
+Porter,068-Portage 13,U.S. House,1,,Write-ins,3
+Porter,069-Portage 14,U.S. House,1,,Write-ins,0
+Porter,070-Portage 15,U.S. House,1,,Write-ins,3
+Porter,071-Portage 16,U.S. House,1,,Write-ins,1
+Porter,072-Portage 17,U.S. House,1,,Write-ins,1
+Porter,073-Portage 18,U.S. House,1,,Write-ins,3
+Porter,074-Portage 19,U.S. House,1,,Write-ins,0
+Porter,075-Portage 20,U.S. House,1,,Write-ins,3
+Porter,076-Portage 21,U.S. House,1,,Write-ins,2
+Porter,077-Portage 22,U.S. House,1,,Write-ins,1
+Porter,078-Portage 23,U.S. House,1,,Write-ins,1
+Porter,079-Portage 24,U.S. House,1,,Write-ins,1
+Porter,080-Portage 25,U.S. House,1,,Write-ins,2
+Porter,081-Portage 26,U.S. House,1,,Write-ins,1
+Porter,082-Portage 27,U.S. House,1,,Write-ins,3
+Porter,083-Portage 28,U.S. House,1,,Write-ins,1
+Porter,084-Portage 31,U.S. House,1,,Write-ins,0
+Porter,085-Portage 32,U.S. House,1,,Write-ins,4
+Porter,086-Portage 33,U.S. House,1,,Write-ins,0
+Porter,087-Portage 35,U.S. House,1,,Write-ins,2
+Porter,088-Portage 36,U.S. House,1,,Write-ins,7
+Porter,089-Portage 37,U.S. House,1,,Write-ins,1
+Porter,090-Portage 38,U.S. House,1,,Write-ins,2
+Porter,091-Porter 1,U.S. House,1,,Write-ins,2
+Porter,092-Porter 2,U.S. House,1,,Write-ins,5
+Porter,093-Porter 3,U.S. House,1,,Write-ins,1
+Porter,094-Porter 4,U.S. House,1,,Write-ins,4
+Porter,095-Porter 5,U.S. House,1,,Write-ins,3
+Porter,096-Porter 6,U.S. House,1,,Write-ins,7
+Porter,097-Porter 7,U.S. House,1,,Write-ins,2
+Porter,098-Union 1,U.S. House,1,,Write-ins,2
+Porter,099-Union 2,U.S. House,1,,Write-ins,1
+Porter,100-Union 3,U.S. House,1,,Write-ins,10
+Porter,101-Union 4,U.S. House,1,,Write-ins,4
+Porter,102-Union 5,U.S. House,1,,Write-ins,4
+Porter,103-Union 6,U.S. House,1,,Write-ins,2
+Porter,104-Union 7,U.S. House,1,,Write-ins,6
+Porter,105-Washington 1,U.S. House,1,,Write-ins,4
+Porter,106-Washington 2,U.S. House,1,,Write-ins,2
+Porter,107-Washington 3,U.S. House,1,,Write-ins,1
+Porter,108-Westchester 1,U.S. House,1,,Write-ins,0
+Porter,109-Westchester 3,U.S. House,1,,Write-ins,1
+Porter,110-Westchester 4,U.S. House,1,,Write-ins,0
+Porter,111-Westchester 5,U.S. House,1,,Write-ins,1
+Porter,112-Westchester 6,U.S. House,1,,Write-ins,2
+Porter,113-Westchester 7,U.S. House,1,,Write-ins,4
+Porter,114-Westchester 8,U.S. House,1,,Write-ins,4
+Porter,115-Westchester 9,U.S. House,1,,Write-ins,3
+Porter,116-Westchester 10,U.S. House,1,,Write-ins,5
+Porter,117-Westchester 11,U.S. House,1,,Write-ins,1
+Porter,118-Westchester 12,U.S. House,1,,Write-ins,3
+Porter,119-Westchester 13,U.S. House,1,,Write-ins,4
+Porter,120-Westchester 14,U.S. House,1,,Write-ins,4
+Porter,121-Westchester 16,U.S. House,1,,Write-ins,6
+Porter,122-Westchester 17,U.S. House,1,,Write-ins,0
+Porter,123-Westchester 18,U.S. House,1,,Write-ins,0
+Porter,,U.S. House,1,,Write-ins,270
+Porter,001-Boone 1,State Senate,5,REP,Ed Charbonneau,263
+Porter,002-Boone 2,State Senate,5,REP,Ed Charbonneau,247
+Porter,003-Boone 3,State Senate,5,REP,Ed Charbonneau,319
+Porter,004-Boone 4,State Senate,5,REP,Ed Charbonneau,415
+Porter,005-Boone 5,State Senate,5,REP,Ed Charbonneau,246
+Porter,006-Center 1,State Senate,5,REP,Ed Charbonneau,196
+Porter,007-Center 2,State Senate,5,REP,Ed Charbonneau,216
+Porter,008-Center 3,State Senate,5,REP,Ed Charbonneau,180
+Porter,009-Center 5,State Senate,5,REP,Ed Charbonneau,253
+Porter,010-Center 6,State Senate,5,REP,Ed Charbonneau,386
+Porter,011-Center 7,State Senate,5,REP,Ed Charbonneau,243
+Porter,012-Center 8,State Senate,5,REP,Ed Charbonneau,321
+Porter,013-Center 9,State Senate,5,REP,Ed Charbonneau,310
+Porter,014-Center 11,State Senate,5,REP,Ed Charbonneau,456
+Porter,015-Center 13,State Senate,5,REP,Ed Charbonneau,314
+Porter,016-Center 14,State Senate,5,REP,Ed Charbonneau,265
+Porter,017-Center 15,State Senate,5,REP,Ed Charbonneau,372
+Porter,018-Center 16,State Senate,5,REP,Ed Charbonneau,248
+Porter,019-Center 17,State Senate,5,REP,Ed Charbonneau,315
+Porter,020-Center 18,State Senate,5,REP,Ed Charbonneau,419
+Porter,021-Center 19,State Senate,5,REP,Ed Charbonneau,278
+Porter,022-Center 20,State Senate,5,REP,Ed Charbonneau,453
+Porter,023-Center 21,State Senate,5,REP,Ed Charbonneau,311
+Porter,024-Center 22,State Senate,5,REP,Ed Charbonneau,358
+Porter,025-Center 23,State Senate,5,REP,Ed Charbonneau,611
+Porter,026-Center 24,State Senate,5,REP,Ed Charbonneau,490
+Porter,027-Center 25,State Senate,5,REP,Ed Charbonneau,473
+Porter,028-Center 26,State Senate,5,REP,Ed Charbonneau,264
+Porter,029-Center 27,State Senate,5,REP,Ed Charbonneau,258
+Porter,030-Center 28,State Senate,5,REP,Ed Charbonneau,173
+Porter,031-Center 29,State Senate,5,REP,Ed Charbonneau,360
+Porter,032-Center 30,State Senate,5,REP,Ed Charbonneau,312
+Porter,033-Center 31,State Senate,5,REP,Ed Charbonneau,379
+Porter,034-Center 32,State Senate,5,REP,Ed Charbonneau,286
+Porter,035-Center 33,State Senate,5,REP,Ed Charbonneau,211
+Porter,036-Center 34,State Senate,5,REP,Ed Charbonneau,395
+Porter,037-Center 35,State Senate,5,REP,Ed Charbonneau,187
+Porter,050-Morgan 1,State Senate,5,REP,Ed Charbonneau,221
+Porter,051-Morgan 2,State Senate,5,REP,Ed Charbonneau,540
+Porter,052-Morgan 3,State Senate,5,REP,Ed Charbonneau,501
+Porter,055-Pleasant 1,State Senate,5,REP,Ed Charbonneau,504
+Porter,056-Pleasant 2,State Senate,5,REP,Ed Charbonneau,536
+Porter,057-Pleasant 3,State Senate,5,REP,Ed Charbonneau,324
+Porter,091-Porter 1,State Senate,5,REP,Ed Charbonneau,320
+Porter,092-Porter 2,State Senate,5,REP,Ed Charbonneau,412
+Porter,093-Porter 3,State Senate,5,REP,Ed Charbonneau,448
+Porter,094-Porter 4,State Senate,5,REP,Ed Charbonneau,515
+Porter,095-Porter 5,State Senate,5,REP,Ed Charbonneau,363
+Porter,096-Porter 6,State Senate,5,REP,Ed Charbonneau,552
+Porter,097-Porter 7,State Senate,5,REP,Ed Charbonneau,174
+Porter,099-Union 2,State Senate,5,REP,Ed Charbonneau,218
+Porter,100-Union 3,State Senate,5,REP,Ed Charbonneau,476
+Porter,102-Union 5,State Senate,5,REP,Ed Charbonneau,748
+Porter,104-Union 7,State Senate,5,REP,Ed Charbonneau,307
+Porter,105-Washington 1,State Senate,5,REP,Ed Charbonneau,473
+Porter,106-Washington 2,State Senate,5,REP,Ed Charbonneau,410
+Porter,107-Washington 3,State Senate,5,REP,Ed Charbonneau,443
+Porter,,State Senate,5,REP,Ed Charbonneau,20268
+Porter,001-Boone 1,State Senate,5,DEM,Jim Harper,230
+Porter,,State Senate,5,DEM,Jim Harper,16788
+Porter,002-Boone 2,State Senate,5,DEM,Jim Harper,198
+Porter,003-Boone 3,State Senate,5,DEM,Jim Harper,257
+Porter,004-Boone 4,State Senate,5,DEM,Jim Harper,279
+Porter,005-Boone 5,State Senate,5,DEM,Jim Harper,197
+Porter,006-Center 1,State Senate,5,DEM,Jim Harper,310
+Porter,007-Center 2,State Senate,5,DEM,Jim Harper,349
+Porter,008-Center 3,State Senate,5,DEM,Jim Harper,337
+Porter,009-Center 5,State Senate,5,DEM,Jim Harper,358
+Porter,010-Center 6,State Senate,5,DEM,Jim Harper,485
+Porter,011-Center 7,State Senate,5,DEM,Jim Harper,397
+Porter,012-Center 8,State Senate,5,DEM,Jim Harper,380
+Porter,013-Center 9,State Senate,5,DEM,Jim Harper,441
+Porter,014-Center 11,State Senate,5,DEM,Jim Harper,297
+Porter,015-Center 13,State Senate,5,DEM,Jim Harper,331
+Porter,016-Center 14,State Senate,5,DEM,Jim Harper,299
+Porter,017-Center 15,State Senate,5,DEM,Jim Harper,248
+Porter,018-Center 16,State Senate,5,DEM,Jim Harper,246
+Porter,019-Center 17,State Senate,5,DEM,Jim Harper,288
+Porter,020-Center 18,State Senate,5,DEM,Jim Harper,318
+Porter,021-Center 19,State Senate,5,DEM,Jim Harper,245
+Porter,022-Center 20,State Senate,5,DEM,Jim Harper,405
+Porter,023-Center 21,State Senate,5,DEM,Jim Harper,271
+Porter,024-Center 22,State Senate,5,DEM,Jim Harper,425
+Porter,025-Center 23,State Senate,5,DEM,Jim Harper,340
+Porter,026-Center 24,State Senate,5,DEM,Jim Harper,351
+Porter,027-Center 25,State Senate,5,DEM,Jim Harper,385
+Porter,028-Center 26,State Senate,5,DEM,Jim Harper,289
+Porter,029-Center 27,State Senate,5,DEM,Jim Harper,325
+Porter,030-Center 28,State Senate,5,DEM,Jim Harper,292
+Porter,031-Center 29,State Senate,5,DEM,Jim Harper,254
+Porter,032-Center 30,State Senate,5,DEM,Jim Harper,399
+Porter,033-Center 31,State Senate,5,DEM,Jim Harper,353
+Porter,034-Center 32,State Senate,5,DEM,Jim Harper,188
+Porter,035-Center 33,State Senate,5,DEM,Jim Harper,202
+Porter,036-Center 34,State Senate,5,DEM,Jim Harper,290
+Porter,037-Center 35,State Senate,5,DEM,Jim Harper,207
+Porter,050-Morgan 1,State Senate,5,DEM,Jim Harper,130
+Porter,051-Morgan 2,State Senate,5,DEM,Jim Harper,268
+Porter,052-Morgan 3,State Senate,5,DEM,Jim Harper,323
+Porter,055-Pleasant 1,State Senate,5,DEM,Jim Harper,244
+Porter,056-Pleasant 2,State Senate,5,DEM,Jim Harper,269
+Porter,057-Pleasant 3,State Senate,5,DEM,Jim Harper,221
+Porter,091-Porter 1,State Senate,5, DEM,Jim Harper,258
+Porter,092-Porter 2,State Senate,5,DEM,Jim Harper,286
+Porter,093-Porter 3,State Senate,5,DEM,Jim Harper,295
+Porter,094-Porter 4,State Senate,5,DEM,Jim Harper,367
+Porter,095-Porter 5,State Senate,5,DEM,Jim Harper,255
+Porter,096-Porter 6,State Senate,5,DEM,Jim Harper,379
+Porter,097-Porter 7,State Senate,5,DEM,Jim Harper,114
+Porter,099-Union 2,State Senate,5,DEM,Jim Harper,140
+Porter,100-Union 3,State Senate,5,DEM,Jim Harper,236
+Porter,102-Union 5,State Senate,5,DEM,Jim Harper,358
+Porter,104-Union 7,State Senate,5,DEM,Jim Harper,220
+Porter,105-Washington 1,State Senate,5,DEM,Jim Harper,265
+Porter,106-Washington 2,State Senate,5,DEM,Jim Harper,342
+Porter,107-Washington 3,State Senate,5,DEM,Jim Harper,352
+Porter,006-Center 1,State House,4,REP,Ed Soliday,225
+Porter,007-Center 2,State House,4,REP,Ed Soliday,234
+Porter,008-Center 3,State House,4,REP,Ed Soliday,202
+Porter,009-Center 5,State House,4,REP,Ed Soliday,279
+Porter,010-Center 6,State House,4,REP,Ed Soliday,411
+Porter,011-Center 7,State House,4,REP,Ed Soliday,291
+Porter,012-Center 8,State House,4,REP,Ed Soliday,350
+Porter,013-Center 9,State House,4,REP,Ed Soliday,342
+Porter,014-Center 11,State House,4,REP,Ed Soliday,470
+Porter,015-Center 13,State House,4,REP,Ed Soliday,338
+Porter,016-Center 14,State House,4,REP,Ed Soliday,290
+Porter,017-Center 15,State House,4,REP,Ed Soliday,389
+Porter,018-Center 16,State House,4,REP,Ed Soliday,267
+Porter,019-Center 17,State House,4,REP,Ed Soliday,327
+Porter,020-Center 18,State House,4,REP,Ed Soliday,430
+Porter,021-Center 19,State House,4,REP,Ed Soliday,297
+Porter,022-Center 20,State House,4,REP,Ed Soliday,480
+Porter,023-Center 21,State House,4,REP,Ed Soliday,319
+Porter,024-Center 22,State House,4,REP,Ed Soliday,377
+Porter,025-Center 23,State House,4,REP,Ed Soliday,584
+Porter,026-Center 24,State House,4,REP,Ed Soliday,509
+Porter,027-Center 25,State House,4,REP,Ed Soliday,505
+Porter,028-Center 26,State House,4,REP,Ed Soliday,276
+Porter,029-Center 27,State House,4,REP,Ed Soliday,285
+Porter,030-Center 28,State House,4,REP,Ed Soliday,187
+Porter,031-Center 29,State House,4,REP,Ed Soliday,328
+Porter,032-Center 30,State House,4,REP,Ed Soliday,340
+Porter,033-Center 31,State House,4,REP,Ed Soliday,386
+Porter,034-Center 32,State House,4,REP,Ed Soliday,289
+Porter,035-Center 33,State House,4,REP,Ed Soliday,213
+Porter,036-Center 34,State House,4,REP,Ed Soliday,396
+Porter,037-Center 35,State House,4,REP,Ed Soliday,196
+Porter,038-Jackson 1,State House,4,REP,Ed Soliday,377
+Porter,041-Jackson 4,State House,4,REP,Ed Soliday,305
+Porter,045-Liberty 3,State House,4,REP,Ed Soliday,654
+Porter,046-Liberty 4,State House,4,REP,Ed Soliday,373
+Porter,047-Liberty 5,State House,4,REP,Ed Soliday,421
+Porter,049-Liberty 7,State House,4,REP,Ed Soliday,303
+Porter,098-Union 1,State House,4,REP,Ed Soliday,263
+Porter,099-Union 2,State House,4,REP,Ed Soliday,225
+Porter,100-Union 3,State House,4,REP,Ed Soliday,447
+Porter,101-Union 4,State House,4,REP,Ed Soliday,396
+Porter,102-Union 5,State House,4,REP,Ed Soliday,687
+Porter,103-Union 6,State House,4,REP,Ed Soliday,269
+Porter,104-Union 7,State House,4,REP,Ed Soliday,309
+Porter,105-Washington 1,State House,4,REP,Ed Soliday,488
+Porter,106-Washington 2,State House,4,REP,Ed Soliday,444
+Porter,107-Washington 3,State House,4,REP,Ed Soliday,485
+Porter,,State House,4,REP,Ed Soliday,17272
+Porter,092-Porter 2,State House,19,REP,Julie Olthoff,364
+Porter,095-Porter 5,State House,19,REP,Julie Olthoff,335
+Porter,096-Porter 6,State House,19,REP,Julie Olthoff,501
+Porter,097-Porter 7,State House,19,REP,Julie Olthoff,158
+Porter,,State House,19,REP,Julie Olthoff,1360
+Porter,001-Boone 1,State House,11,REP,Michael Aylesworth,288
+Porter,002-Boone 2,State House,11,REP,Michael Aylesworth,254
+Porter,003-Boone 3,State House,11,REP,Michael Aylesworth,316
+Porter,004-Boone 4,State House,11,REP,Michael Aylesworth,390
+Porter,005-Boone 5,State House,11,REP,Michael Aylesworth,259
+Porter,050-Morgan 1,State House,11,REP,Michael Aylesworth,232
+Porter,051-Morgan 2,State House,11,REP,Michael Aylesworth,547
+Porter,052-Morgan 3,State House,11,REP,Michael Aylesworth,522
+Porter,055-Pleasant 1,State House,11,REP,Michael Aylesworth,527
+Porter,056-Pleasant 2,State House,11,REP,Michael Aylesworth,558
+Porter,057-Pleasant 3,State House,11,REP,Michael Aylesworth,335
+Porter,091-Porter 1,State House,11,REP,Michael Aylesworth,342
+Porter,093-Porter 3,State House,11,REP,Michael Aylesworth,451
+Porter,094-Porter 4,State House,11,REP,Michael Aylesworth,543
+Porter,,State House,11,REP,Michael Aylesworth,5565
+Porter,001-Boone 1,State House,11,DEM,James Metro,210
+Porter,002-Boone 2,State House,11,DEM,James Metro,190
+Porter,003-Boone 3,State House,11,DEM,James Metro,255
+Porter,004-Boone 4,State House,11,DEM,James Metro,300
+Porter,005-Boone 5,State House,11,DEM,James Metro,187
+Porter,006-Center 1,State House,4,DEM,Pam Fish,280
+Porter,007-Center 2,State House,4,DEM,Pam Fish,328
+Porter,008-Center 3,State House,4,DEM,Pam Fish,315
+Porter,009-Center 5,State House,4,DEM,Pam Fish,325
+Porter,010-Center 6,State House,4,DEM,Pam Fish,447
+Porter,011-Center 7,State House,4,DEM,Pam Fish,350
+Porter,012-Center 8,State House,4,DEM,Pam Fish,351
+Porter,013-Center 9,State House,4,DEM,Pam Fish,407
+Porter,014-Center 11,State House,4,DEM,Pam Fish,284
+Porter,015-Center 13,State House,4,DEM,Pam Fish,307
+Porter,016-Center 14,State House,4,DEM,Pam Fish,265
+Porter,017-Center 15,State House,4,DEM,Pam Fish,235
+Porter,018-Center 16,State House,4,DEM,Pam Fish,226
+Porter,019-Center 17,State House,4,DEM,Pam Fish,276
+Porter,020-Center 18,State House,4,DEM,Pam Fish,307
+Porter,021-Center 19,State House,4,DEM,Pam Fish,227
+Porter,022-Center 20,State House,4,DEM,Pam Fish,369
+Porter,023-Center 21,State House,4,DEM,Pam Fish,257
+Porter,024-Center 22,State House,4,DEM,Pam Fish,400
+Porter,025-Center 23,State House,4,DEM,Pam Fish,368
+Porter,026-Center 24,State House,4,DEM,Pam Fish,332
+Porter,027-Center 25,State House,4,DEM,Pam Fish,344
+Porter,028-Center 26,State House,4,DEM,Pam Fish,269
+Porter,029-Center 27,State House,4,DEM,Pam Fish,300
+Porter,030-Center 28,State House,4,DEM,Pam Fish,270
+Porter,031-Center 29,State House,4,DEM,Pam Fish,280
+Porter,032-Center 30,State House,4,DEM,Pam Fish,365
+Porter,033-Center 31,State House,4,DEM,Pam Fish,343
+Porter,034-Center 32,State House,4,DEM,Pam Fish,188
+Porter,035-Center 33,State House,4,DEM,Pam Fish,199
+Porter,036-Center 34,State House,4,DEM,Pam Fish,287
+Porter,037-Center 35,State House,4,DEM,Pam Fish,196
+Porter,038-Jackson 1,State House,4,DEM,Pam Fish,233
+Porter,039-Jackson 2,State House,9,DEM,Scott Pelath,327
+Porter,040-Jackson 3,State House,9,DEM,Scott Pelath,334
+Porter,041-Jackson 4,State House,4,DEM,Pam Fish,258
+Porter,042-Jackson 5,State House,9,DEM,Scott Pelath,460
+Porter,043-Liberty 1,State House,10,DEM,Chuck Moseley,552
+Porter,044-Liberty 2,State House,10,DEM,Chuck Moseley,188
+Porter,045-Liberty 3,State House,4,DEM,Pam Fish,536
+Porter,046-Liberty 4,State House,4,DEM,Pam Fish,258
+Porter,047-Liberty 5,State House,4,DEM,Pam Fish,350
+Porter,048-Liberty 6,State House,10,DEM,Chuck Moseley,321
+Porter,049-Liberty 7,State House,4,DEM,Pam Fish,167
+Porter,050-Morgan 1,State House,11,DEM,James Metro,112
+Porter,051-Morgan 2,State House,11,DEM,James Metro,242
+Porter,052-Morgan 3,State House,11,DEM,James Metro,291
+Porter,053-Pine 1,State House,9,DEM,Scott Pelath,402
+Porter,054-Pine 2,State House,9,DEM,Scott Pelath,498
+Porter,055-Pleasant 1,State House,11,DEM,James Metro,214
+Porter,056-Pleasant 2,State House,11,DEM,James Metro,239
+Porter,057-Pleasant 3,State House,11,DEM,James Metro,198
+Porter,058-Portage 1,State House,10,DEM,Chuck Moseley,282
+Porter,059-Portage 2,State House,10,DEM,Chuck Moseley,360
+Porter,060-Portage 3,State House,10,DEM,Chuck Moseley,403
+Porter,061-Portage 4,State House,10,DEM,Chuck Moseley,545
+Porter,062-Portage 5,State House,10,DEM,Chuck Moseley,518
+Porter,063-Portage 6,State House,10,DEM,Chuck Moseley,296
+Porter,064-Portage 7,State House,10,DEM,Chuck Moseley,400
+Porter,065-Portage 9,State House,10,DEM,Chuck Moseley,550
+Porter,066-Portage 10,State House,10,DEM,Chuck Moseley,458
+Porter,067-Portage 12,State House,10,DEM,Chuck Moseley,343
+Porter,068-Portage 13,State House,10,DEM,Chuck Moseley,489
+Porter,069-Portage 14,State House,10,DEM,Chuck Moseley,470
+Porter,070-Portage 15,State House,10,DEM,Chuck Moseley,348
+Porter,071-Portage 16,State House,10,DEM,Chuck Moseley,418
+Porter,072-Portage 17,State House,10,DEM,Chuck Moseley,434
+Porter,073-Portage 18,State House,10,DEM,Chuck Moseley,597
+Porter,074-Portage 19,State House,10,DEM,Chuck Moseley,292
+Porter,075-Portage 20,State House,10,DEM,Chuck Moseley,445
+Porter,076-Portage 21,State House,10,DEM,Chuck Moseley,552
+Porter,077-Portage 22,State House,10,DEM,Chuck Moseley,503
+Porter,078-Portage 23,State House,10,DEM,Chuck Moseley,348
+Porter,079-Portage 24,State House,10,DEM,Chuck Moseley,504
+Porter,080-Portage 25,State House,10,DEM,Chuck Moseley,322
+Porter,081-Portage 26,State House,10,DEM,Chuck Moseley,423
+Porter,082-Portage 27,State House,10,DEM,Chuck Moseley,622
+Porter,083-Portage 28,State House,10,DEM,Chuck Moseley,298
+Porter,084-Portage 31,State House,10,DEM,Chuck Moseley,271
+Porter,085-Portage 32,State House,10,DEM,Chuck Moseley,385
+Porter,086-Portage 33,State House,10,DEM,Chuck Moseley,268
+Porter,087-Portage 35,State House,10,DEM,Chuck Moseley,591
+Porter,088-Portage 36,State House,10,DEM,Chuck Moseley,476
+Porter,089-Portage 37,State House,10,DEM,Chuck Moseley,466
+Porter,090-Portage 38,State House,10,DEM,Chuck Moseley,407
+Porter,091-Porter 1,State House,11,DEM,James Metro,229
+Porter,092-Porter 2,State House,19,DEM,Shelli Vandenburgh,283
+Porter,093-Porter 3,State House,11,DEM,James Metro,288
+Porter,094-Porter 4,State House,11,DEM,James Metro,331
+Porter,095-Porter 5,State House,19,DEM,Shelli Vandenburgh,255
+Porter,096-Porter 6,State House,19,DEM,Shelli Vandenburgh,394
+Porter,097-Porter 7,State House,19,DEM,Shelli Vandenburgh,106
+Porter,098-Union 1,State House,4,DEM,Pam Fish,263
+Porter,099-Union 2,State House,4,DEM,Pam Fish,137
+Porter,100-Union 3,State House,4,DEM,Pam Fish,270
+Porter,101-Union 4,State House,4,DEM,Pam Fish,337
+Porter,102-Union 5,State House,4,DEM,Pam Fish,427
+Porter,103-Union 6,State House,4,DEM,Pam Fish,286
+Porter,104-Union 7,State House,4,DEM,Pam Fish,219
+Porter,105-Washington 1,State House,4,DEM,Pam Fish,247
+Porter,106-Washington 2,State House,4,DEM,Pam Fish,302
+Porter,107-Washington 3,State House,4,DEM,Pam Fish,307
+Porter,108-Westchester 1,State House,9,DEM,Scott Pelath,281
+Porter,109-Westchester 3,State House,10,DEM,Chuck Moseley,474
+Porter,110-Westchester 4,State House,10,DEM,Chuck Moseley,597
+Porter,111-Westchester 5,State House,10,DEM,Chuck Moseley,407
+Porter,112-Westchester 6,State House,10,DEM,Chuck Moseley,85
+Porter,113-Westchester 7,State House,10,DEM,Chuck Moseley,574
+Porter,114-Westchester 8,State House,9,DEM,Scott Pelath,465
+Porter,115-Westchester 9,State House,9,DEM,Scott Pelath,511
+Porter,116-Westchester 10,State House,10,DEM,Chuck Moseley,435
+Porter,117-Westchester 11,State House,10,DEM,Chuck Moseley,485
+Porter,118-Westchester 12,State House,10,DEM,Chuck Moseley,595
+Porter,119-Westchester 13,State House,10,DEM,Chuck Moseley,320
+Porter,120-Westchester 14,State House,9,DEM,Scott Pelath,526
+Porter,121-Westchester 16,State House,10,DEM,Chuck Moseley,396
+Porter,122-Westchester 17,State House,10,DEM,Chuck Moseley,104
+Porter,123-Westchester 18,State House,10,DEM,Chuck Moseley,291
+Porter,,State House,4,DEM,Pam Fish,14311
+Porter,,State House,9,DEM,Scott Pelath,3823
+Porter,,State House,10,DEM,Chuck Moseley,19954
+Porter,,State House,11,DEM,James Metro,3288
+Porter,,State House,19,DEM,Lynn Vandenburgh,1038
+Porter,098-Union 1,State House,4,LBT,Evan Demaree,49
+Porter,101-Union 4,State House,4,LBT,Evan Demaree,22
+Porter,102-Union 5,State House,4,LBT,Evan Demaree,44
+Porter,103-Union 6,State House,4,LBT,Evan Demaree,19
+Porter,,State House,4,LBT,Evan Demaree,134

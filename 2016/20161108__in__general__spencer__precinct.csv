@@ -1,0 +1,553 @@
+county,precinct,office,district,party,candidate,votes
+Spencer,01-Carter 1,Voters,,,Registered,541
+Spencer,02-Carter 2,Voters,,,Registered,472
+Spencer,03-Carter 3,Voters,,,Registered,952
+Spencer,04-Carter 4,Voters,,,Registered,241
+Spencer,05-Clay 1,Voters,,,Registered,423
+Spencer,06-Clay 2,Voters,,,Registered,1348
+Spencer,07-Clay 3,Voters,,,Registered,619
+Spencer,08-Grass 1,Voters,,,Registered,551
+Spencer,09-Grass 2,Voters,,,Registered,412
+Spencer,10-Hammond 1,Voters,,,Registered,755
+Spencer,11-Hammond 2,Voters,,,Registered,515
+Spencer,12-Harrison 1,Voters,,,Registered,951
+Spencer,13-Harrison 2,Voters,,,Registered,592
+Spencer,15-Huff,Voters,,,Registered,803
+Spencer,16-Jackson,Voters,,,Registered,655
+Spencer,17-Luce 1,Voters,,,Registered,762
+Spencer,18-Luce 2,Voters,,,Registered,609
+Spencer,19-Luce 3,Voters,,,Registered,697
+Spencer,20-Ohio 1,Voters,,,Registered,599
+Spencer,21-Ohio 2,Voters,,,Registered,602
+Spencer,22-Ohio 3,Voters,,,Registered,602
+Spencer,23-Ohio 4,Voters,,,Registered,739
+Spencer,24-Ohio 5,Voters,,,Registered,730
+Spencer,25-Ohio 6,Voters,,,Registered,897
+Spencer,,Voters,,,Registered,16067
+Spencer,01-Carter 1,Voters,,,Ballots Cast,394
+Spencer,02-Carter 2,Voters,,,Ballots Cast,263
+Spencer,03-Carter 3,Voters,,,Ballots Cast,588
+Spencer,04-Carter 4,Voters,,,Ballots Cast,180
+Spencer,05-Clay 1,Voters,,,Ballots Cast,277
+Spencer,06-Clay 2,Voters,,,Ballots Cast,903
+Spencer,07-Clay 3,Voters,,,Ballots Cast,400
+Spencer,08-Grass 1,Voters,,,Ballots Cast,323
+Spencer,09-Grass 2,Voters,,,Ballots Cast,317
+Spencer,10-Hammond 1,Voters,,,Ballots Cast,448
+Spencer,11-Hammond 2,Voters,,,Ballots Cast,326
+Spencer,12-Harrison 1,Voters,,,Ballots Cast,660
+Spencer,13-Harrison 2,Voters,,,Ballots Cast,420
+Spencer,15-Huff,Voters,,,Ballots Cast,542
+Spencer,16-Jackson,Voters,,,Ballots Cast,420
+Spencer,17-Luce 1,Voters,,,Ballots Cast,501
+Spencer,18-Luce 2,Voters,,,Ballots Cast,427
+Spencer,19-Luce 3,Voters,,,Ballots Cast,334
+Spencer,20-Ohio 1,Voters,,,Ballots Cast,360
+Spencer,21-Ohio 2,Voters,,,Ballots Cast,249
+Spencer,22-Ohio 3,Voters,,,Ballots Cast,279
+Spencer,23-Ohio 4,Voters,,,Ballots Cast,534
+Spencer,24-Ohio 5,Voters,,,Ballots Cast,498
+Spencer,25-Ohio 6,Voters,,,Ballots Cast,612
+Spencer,,Voters,,,Ballots Cast,10255
+Spencer,01-Carter 1,President,,REP,Donald Trump,256
+Spencer,02-Carter 2,President,,REP,Donald Trump,163
+Spencer,03-Carter 3,President,,REP,Donald Trump,338
+Spencer,04-Carter 4,President,,REP,Donald Trump,121
+Spencer,05-Clay 1,President,,REP,Donald Trump,182
+Spencer,06-Clay 2,President,,REP,Donald Trump,592
+Spencer,07-Clay 3,President,,REP,Donald Trump,273
+Spencer,08-Grass 1,President,,REP,Donald Trump,205
+Spencer,09-Grass 2,President,,REP,Donald Trump,225
+Spencer,10-Hammond 1,President,,REP,Donald Trump,320
+Spencer,11-Hammond 2,President,,REP,Donald Trump,216
+Spencer,12-Harrison 1,President,,REP,Donald Trump,336
+Spencer,13-Harrison 2,President,,REP,Donald Trump,234
+Spencer,15-Huff,President,,REP,Donald Trump,335
+Spencer,16-Jackson,President,,REP,Donald Trump,250
+Spencer,17-Luce 1,President,,REP,Donald Trump,330
+Spencer,18-Luce 2,President,,REP,Donald Trump,288
+Spencer,19-Luce 3,President,,REP,Donald Trump,216
+Spencer,20-Ohio 1,President,,REP,Donald Trump,192
+Spencer,21-Ohio 2,President,,REP,Donald Trump,158
+Spencer,22-Ohio 3,President,,REP,Donald Trump,160
+Spencer,23-Ohio 4,President,,REP,Donald Trump,389
+Spencer,24-Ohio 5,President,,REP,Donald Trump,357
+Spencer,25-Ohio 6,President,,REP,Donald Trump,436
+Spencer,,President,,REP,Donald Trump,6572
+Spencer,01-Carter 1,President,,DEM,Hillary Clinton,104
+Spencer,02-Carter 2,President,,DEM,Hillary Clinton,75
+Spencer,03-Carter 3,President,,DEM,Hillary Clinton,198
+Spencer,04-Carter 4,President,,DEM,Hillary Clinton,43
+Spencer,05-Clay 1,President,,DEM,Hillary Clinton,67
+Spencer,06-Clay 2,President,,DEM,Hillary Clinton,253
+Spencer,07-Clay 3,President,,DEM,Hillary Clinton,99
+Spencer,08-Grass 1,President,,DEM,Hillary Clinton,89
+Spencer,09-Grass 2,President,,DEM,Hillary Clinton,74
+Spencer,10-Hammond 1,President,,DEM,Hillary Clinton,96
+Spencer,11-Hammond 2,President,,DEM,Hillary Clinton,83
+Spencer,12-Harrison 1,President,,DEM,Hillary Clinton,229
+Spencer,13-Harrison 2,President,,DEM,Hillary Clinton,135
+Spencer,15-Huff,President,,DEM,Hillary Clinton,147
+Spencer,16-Jackson,President,,DEM,Hillary Clinton,145
+Spencer,17-Luce 1,President,,DEM,Hillary Clinton,140
+Spencer,18-Luce 2,President,,DEM,Hillary Clinton,123
+Spencer,19-Luce 3,President,,DEM,Hillary Clinton,93
+Spencer,20-Ohio 1,President,,DEM,Hillary Clinton,135
+Spencer,21-Ohio 2,President,,DEM,Hillary Clinton,71
+Spencer,22-Ohio 3,President,,DEM,Hillary Clinton,93
+Spencer,23-Ohio 4,President,,DEM,Hillary Clinton,118
+Spencer,24-Ohio 5,President,,DEM,Hillary Clinton,110
+Spencer,25-Ohio 6,President,,DEM,Hillary Clinton,141
+Spencer,,President,,DEM,Hillary Clinton,2861
+Spencer,01-Carter 1,President,,LBT,Gary Johnson,23
+Spencer,02-Carter 2,President,,LBT,Gary Johnson,15
+Spencer,03-Carter 3,President,,LBT,Gary Johnson,38
+Spencer,04-Carter 4,President,,LBT,Gary Johnson,8
+Spencer,05-Clay 1,President,,LBT,Gary Johnson,17
+Spencer,06-Clay 2,President,,LBT,Gary Johnson,37
+Spencer,07-Clay 3,President,,LBT,Gary Johnson,22
+Spencer,08-Grass 1,President,,LBT,Gary Johnson,17
+Spencer,09-Grass 2,President,,LBT,Gary Johnson,14
+Spencer,10-Hammond 1,President,,LBT,Gary Johnson,19
+Spencer,11-Hammond 2,President,,LBT,Gary Johnson,17
+Spencer,12-Harrison 1,President,,LBT,Gary Johnson,62
+Spencer,13-Harrison 2,President,,LBT,Gary Johnson,38
+Spencer,15-Huff,President,,LBT,Gary Johnson,37
+Spencer,16-Jackson,President,,LBT,Gary Johnson,18
+Spencer,17-Luce 1,President,,LBT,Gary Johnson,22
+Spencer,18-Luce 2,President,,LBT,Gary Johnson,11
+Spencer,19-Luce 3,President,,LBT,Gary Johnson,13
+Spencer,20-Ohio 1,President,,LBT,Gary Johnson,19
+Spencer,21-Ohio 2,President,,LBT,Gary Johnson,10
+Spencer,22-Ohio 3,President,,LBT,Gary Johnson,14
+Spencer,23-Ohio 4,President,,LBT,Gary Johnson,16
+Spencer,24-Ohio 5,President,,LBT,Gary Johnson,20
+Spencer,25-Ohio 6,President,,LBT,Gary Johnson,19
+Spencer,,President,,LBT,Gary Johnson,526
+Spencer,01-Carter 1,President,,,Write-ins,5
+Spencer,02-Carter 2,President,,,Write-ins,3
+Spencer,03-Carter 3,President,,,Write-ins,8
+Spencer,04-Carter 4,President,,,Write-ins,4
+Spencer,05-Clay 1,President,,,Write-ins,4
+Spencer,06-Clay 2,President,,,Write-ins,6
+Spencer,07-Clay 3,President,,,Write-ins,4
+Spencer,08-Grass 1,President,,,Write-ins,1
+Spencer,09-Grass 2,President,,,Write-ins,1
+Spencer,10-Hammond 1,President,,,Write-ins,4
+Spencer,11-Hammond 2,President,,,Write-ins,4
+Spencer,12-Harrison 1,President,,,Write-ins,13
+Spencer,13-Harrison 2,President,,,Write-ins,4
+Spencer,15-Huff,President,,,Write-ins,5
+Spencer,16-Jackson,President,,,Write-ins,2
+Spencer,17-Luce 1,President,,,Write-ins,2
+Spencer,18-Luce 2,President,,,Write-ins,1
+Spencer,19-Luce 3,President,,,Write-ins,3
+Spencer,20-Ohio 1,President,,,Write-ins,4
+Spencer,21-Ohio 2,President,,,Write-ins,0
+Spencer,22-Ohio 3,President,,,Write-ins,2
+Spencer,23-Ohio 4,President,,,Write-ins,2
+Spencer,24-Ohio 5,President,,,Write-ins,1
+Spencer,25-Ohio 6,President,,,Write-ins,6
+Spencer,,President,,,Write-ins,89
+Spencer,01-Carter 1,U.S. Senate,,REP,Todd Young,208
+Spencer,02-Carter 2,U.S. Senate,,REP,Todd Young,129
+Spencer,03-Carter 3,U.S. Senate,,REP,Todd Young,291
+Spencer,04-Carter 4,U.S. Senate,,REP,Todd Young,86
+Spencer,05-Clay 1,U.S. Senate,,REP,Todd Young,155
+Spencer,06-Clay 2,U.S. Senate,,REP,Todd Young,546
+Spencer,07-Clay 3,U.S. Senate,,REP,Todd Young,234
+Spencer,08-Grass 1,U.S. Senate,,REP,Todd Young,160
+Spencer,09-Grass 2,U.S. Senate,,REP,Todd Young,175
+Spencer,10-Hammond 1,U.S. Senate,,REP,Todd Young,275
+Spencer,11-Hammond 2,U.S. Senate,,REP,Todd Young,173
+Spencer,12-Harrison 1,U.S. Senate,,REP,Todd Young,285
+Spencer,13-Harrison 2,U.S. Senate,,REP,Todd Young,172
+Spencer,15-Huff,U.S. Senate,,REP,Todd Young,277
+Spencer,16-Jackson,U.S. Senate,,REP,Todd Young,198
+Spencer,17-Luce 1,U.S. Senate,,REP,Todd Young,258
+Spencer,18-Luce 2,U.S. Senate,,REP,Todd Young,214
+Spencer,19-Luce 3,U.S. Senate,,REP,Todd Young,186
+Spencer,20-Ohio 1,U.S. Senate,,REP,Todd Young,171
+Spencer,21-Ohio 2,U.S. Senate,,REP,Todd Young,131
+Spencer,22-Ohio 3,U.S. Senate,,REP,Todd Young,135
+Spencer,23-Ohio 4,U.S. Senate,,REP,Todd Young,347
+Spencer,24-Ohio 5,U.S. Senate,,REP,Todd Young,304
+Spencer,25-Ohio 6,U.S. Senate,,REP,Todd Young,355
+Spencer,,U.S. Senate,,REP,Todd Young,5465
+Spencer,01-Carter 1,U.S. Senate,,DEM,Evan Bayh,153
+Spencer,02-Carter 2,U.S. Senate,,DEM,Evan Bayh,105
+Spencer,03-Carter 3,U.S. Senate,,DEM,Evan Bayh,241
+Spencer,04-Carter 4,U.S. Senate,,DEM,Evan Bayh,73
+Spencer,05-Clay 1,U.S. Senate,,DEM,Evan Bayh,99
+Spencer,06-Clay 2,U.S. Senate,,DEM,Evan Bayh,303
+Spencer,07-Clay 3,U.S. Senate,,DEM,Evan Bayh,139
+Spencer,08-Grass 1,U.S. Senate,,DEM,Evan Bayh,143
+Spencer,09-Grass 2,U.S. Senate,,DEM,Evan Bayh,120
+Spencer,10-Hammond 1,U.S. Senate,,DEM,Evan Bayh,130
+Spencer,11-Hammond 2,U.S. Senate,,DEM,Evan Bayh,122
+Spencer,12-Harrison 1,U.S. Senate,,DEM,Evan Bayh,334
+Spencer,13-Harrison 2,U.S. Senate,,DEM,Evan Bayh,205
+Spencer,15-Huff,U.S. Senate,,DEM,Evan Bayh,223
+Spencer,16-Jackson,U.S. Senate,,DEM,Evan Bayh,196
+Spencer,17-Luce 1,U.S. Senate,,DEM,Evan Bayh,193
+Spencer,18-Luce 2,U.S. Senate,,DEM,Evan Bayh,178
+Spencer,19-Luce 3,U.S. Senate,,DEM,Evan Bayh,127
+Spencer,20-Ohio 1,U.S. Senate,,DEM,Evan Bayh,151
+Spencer,21-Ohio 2,U.S. Senate,,DEM,Evan Bayh,86
+Spencer,22-Ohio 3,U.S. Senate,,DEM,Evan Bayh,110
+Spencer,23-Ohio 4,U.S. Senate,,DEM,Evan Bayh,159
+Spencer,24-Ohio 5,U.S. Senate,,DEM,Evan Bayh,156
+Spencer,25-Ohio 6,U.S. Senate,,DEM,Evan Bayh,214
+Spencer,,U.S. Senate,,DEM,Evan Bayh,3960
+Spencer,01-Carter 1,U.S. Senate,,LBT,Lucy Brenton,21
+Spencer,02-Carter 2,U.S. Senate,,LBT,Lucy Brenton,15
+Spencer,03-Carter 3,U.S. Senate,,LBT,Lucy Brenton,29
+Spencer,04-Carter 4,U.S. Senate,,LBT,Lucy Brenton,12
+Spencer,05-Clay 1,U.S. Senate,,LBT,Lucy Brenton,14
+Spencer,06-Clay 2,U.S. Senate,,LBT,Lucy Brenton,26
+Spencer,07-Clay 3,U.S. Senate,,LBT,Lucy Brenton,20
+Spencer,08-Grass 1,U.S. Senate,,LBT,Lucy Brenton,11
+Spencer,09-Grass 2,U.S. Senate,,LBT,Lucy Brenton,12
+Spencer,10-Hammond 1,U.S. Senate,,LBT,Lucy Brenton,23
+Spencer,11-Hammond 2,U.S. Senate,,LBT,Lucy Brenton,17
+Spencer,12-Harrison 1,U.S. Senate,,LBT,Lucy Brenton,22
+Spencer,13-Harrison 2,U.S. Senate,,LBT,Lucy Brenton,27
+Spencer,15-Huff,U.S. Senate,,LBT,Lucy Brenton,22
+Spencer,16-Jackson,U.S. Senate,,LBT,Lucy Brenton,11
+Spencer,17-Luce 1,U.S. Senate,,LBT,Lucy Brenton,28
+Spencer,18-Luce 2,U.S. Senate,,LBT,Lucy Brenton,17
+Spencer,19-Luce 3,U.S. Senate,,LBT,Lucy Brenton,15
+Spencer,20-Ohio 1,U.S. Senate,,LBT,Lucy Brenton,25
+Spencer,21-Ohio 2,U.S. Senate,,LBT,Lucy Brenton,10
+Spencer,22-Ohio 3,U.S. Senate,,LBT,Lucy Brenton,23
+Spencer,23-Ohio 4,U.S. Senate,,LBT,Lucy Brenton,19
+Spencer,24-Ohio 5,U.S. Senate,,LBT,Lucy Brenton,18
+Spencer,25-Ohio 6,U.S. Senate,,LBT,Lucy Brenton,21
+Spencer,,U.S. Senate,,LBT,Lucy Brenton,458
+Spencer,01-Carter 1,Governor,,REP,Eric Holcomb,215
+Spencer,02-Carter 2,Governor,,REP,Eric Holcomb,122
+Spencer,03-Carter 3,Governor,,REP,Eric Holcomb,288
+Spencer,04-Carter 4,Governor,,REP,Eric Holcomb,104
+Spencer,05-Clay 1,Governor,,REP,Eric Holcomb,163
+Spencer,06-Clay 2,Governor,,REP,Eric Holcomb,534
+Spencer,07-Clay 3,Governor,,REP,Eric Holcomb,233
+Spencer,08-Grass 1,Governor,,REP,Eric Holcomb,165
+Spencer,09-Grass 2,Governor,,REP,Eric Holcomb,174
+Spencer,10-Hammond 1,Governor,,REP,Eric Holcomb,276
+Spencer,11-Hammond 2,Governor,,REP,Eric Holcomb,172
+Spencer,12-Harrison 1,Governor,,REP,Eric Holcomb,286
+Spencer,13-Harrison 2,Governor,,REP,Eric Holcomb,178
+Spencer,15-Huff,Governor,,REP,Eric Holcomb,269
+Spencer,16-Jackson,Governor,,REP,Eric Holcomb,210
+Spencer,17-Luce 1,Governor,,REP,Eric Holcomb,254
+Spencer,18-Luce 2,Governor,,REP,Eric Holcomb,227
+Spencer,19-Luce 3,Governor,,REP,Eric Holcomb,180
+Spencer,20-Ohio 1,Governor,,REP,Eric Holcomb,182
+Spencer,21-Ohio 2,Governor,,REP,Eric Holcomb,144
+Spencer,22-Ohio 3,Governor,,REP,Eric Holcomb,142
+Spencer,23-Ohio 4,Governor,,REP,Eric Holcomb,346
+Spencer,24-Ohio 5,Governor,,REP,Eric Holcomb,310
+Spencer,25-Ohio 6,Governor,,REP,Eric Holcomb,337
+Spencer,,Governor,,REP,Eric Holcomb,5511
+Spencer,01-Carter 1,Governor,,DEM,John Gregg,154
+Spencer,02-Carter 2,Governor,,DEM,John Gregg,120
+Spencer,03-Carter 3,Governor,,DEM,John Gregg,253
+Spencer,04-Carter 4,Governor,,DEM,John Gregg,61
+Spencer,05-Clay 1,Governor,,DEM,John Gregg,97
+Spencer,06-Clay 2,Governor,,DEM,John Gregg,319
+Spencer,07-Clay 3,Governor,,DEM,John Gregg,142
+Spencer,08-Grass 1,Governor,,DEM,John Gregg,144
+Spencer,09-Grass 2,Governor,,DEM,John Gregg,116
+Spencer,10-Hammond 1,Governor,,DEM,John Gregg,136
+Spencer,11-Hammond 2,Governor,,DEM,John Gregg,122
+Spencer,12-Harrison 1,Governor,,DEM,John Gregg,329
+Spencer,13-Harrison 2,Governor,,DEM,John Gregg,208
+Spencer,15-Huff,Governor,,DEM,John Gregg,235
+Spencer,16-Jackson,Governor,,DEM,John Gregg,186
+Spencer,17-Luce 1,Governor,,DEM,John Gregg,197
+Spencer,18-Luce 2,Governor,,DEM,John Gregg,173
+Spencer,19-Luce 3,Governor,,DEM,John Gregg,133
+Spencer,20-Ohio 1,Governor,,DEM,John Gregg,156
+Spencer,21-Ohio 2,Governor,,DEM,John Gregg,81
+Spencer,22-Ohio 3,Governor,,DEM,John Gregg,108
+Spencer,23-Ohio 4,Governor,,DEM,John Gregg,165
+Spencer,24-Ohio 5,Governor,,DEM,John Gregg,166
+Spencer,25-Ohio 6,Governor,,DEM,John Gregg,229
+Spencer,,Governor,,DEM,John Gregg,4030
+Spencer,01-Carter 1,Governor,,LBT,Rex Bell,12
+Spencer,02-Carter 2,Governor,,LBT,Rex Bell,10
+Spencer,03-Carter 3,Governor,,LBT,Rex Bell,17
+Spencer,04-Carter 4,Governor,,LBT,Rex Bell,6
+Spencer,05-Clay 1,Governor,,LBT,Rex Bell,9
+Spencer,06-Clay 2,Governor,,LBT,Rex Bell,14
+Spencer,07-Clay 3,Governor,,LBT,Rex Bell,11
+Spencer,08-Grass 1,Governor,,LBT,Rex Bell,2
+Spencer,09-Grass 2,Governor,,LBT,Rex Bell,9
+Spencer,10-Hammond 1,Governor,,LBT,Rex Bell,8
+Spencer,11-Hammond 2,Governor,,LBT,Rex Bell,13
+Spencer,12-Harrison 1,Governor,,LBT,Rex Bell,17
+Spencer,13-Harrison 2,Governor,,LBT,Rex Bell,11
+Spencer,15-Huff,Governor,,LBT,Rex Bell,5
+Spencer,16-Jackson,Governor,,LBT,Rex Bell,6
+Spencer,17-Luce 1,Governor,,LBT,Rex Bell,16
+Spencer,18-Luce 2,Governor,,LBT,Rex Bell,3
+Spencer,19-Luce 3,Governor,,LBT,Rex Bell,10
+Spencer,20-Ohio 1,Governor,,LBT,Rex Bell,9
+Spencer,21-Ohio 2,Governor,,LBT,Rex Bell,4
+Spencer,22-Ohio 3,Governor,,LBT,Rex Bell,9
+Spencer,23-Ohio 4,Governor,,LBT,Rex Bell,7
+Spencer,24-Ohio 5,Governor,,LBT,Rex Bell,6
+Spencer,25-Ohio 6,Governor,,LBT,Rex Bell,17
+Spencer,,Governor,,LBT,Rex Bell,231
+Spencer,01-Carter 1,Governor,,,Write-ins,0
+Spencer,02-Carter 2,Governor,,,Write-ins,0
+Spencer,03-Carter 3,Governor,,,Write-ins,0
+Spencer,04-Carter 4,Governor,,,Write-ins,0
+Spencer,05-Clay 1,Governor,,,Write-ins,0
+Spencer,06-Clay 2,Governor,,,Write-ins,0
+Spencer,07-Clay 3,Governor,,,Write-ins,0
+Spencer,08-Grass 1,Governor,,,Write-ins,1
+Spencer,09-Grass 2,Governor,,,Write-ins,0
+Spencer,10-Hammond 1,Governor,,,Write-ins,0
+Spencer,11-Hammond 2,Governor,,,Write-ins,0
+Spencer,12-Harrison 1,Governor,,,Write-ins,0
+Spencer,13-Harrison 2,Governor,,,Write-ins,0
+Spencer,15-Huff,Governor,,,Write-ins,0
+Spencer,16-Jackson,Governor,,,Write-ins,0
+Spencer,17-Luce 1,Governor,,,Write-ins,0
+Spencer,18-Luce 2,Governor,,,Write-ins,1
+Spencer,19-Luce 3,Governor,,,Write-ins,0
+Spencer,20-Ohio 1,Governor,,,Write-ins,0
+Spencer,21-Ohio 2,Governor,,,Write-ins,0
+Spencer,22-Ohio 3,Governor,,,Write-ins,0
+Spencer,23-Ohio 4,Governor,,,Write-ins,0
+Spencer,24-Ohio 5,Governor,,,Write-ins,0
+Spencer,25-Ohio 6,Governor,,,Write-ins,0
+Spencer,,Governor,,,Write-ins,2
+Spencer,01-Carter 1,Attorney General,,REP,Curtis Hill,264
+Spencer,02-Carter 2,Attorney General,,REP,Curtis Hill,161
+Spencer,03-Carter 3,Attorney General,,REP,Curtis Hill,351
+Spencer,04-Carter 4,Attorney General,,REP,Curtis Hill,117
+Spencer,05-Clay 1,Attorney General,,REP,Curtis Hill,184
+Spencer,06-Clay 2,Attorney General,,REP,Curtis Hill,605
+Spencer,07-Clay 3,Attorney General,,REP,Curtis Hill,269
+Spencer,08-Grass 1,Attorney General,,REP,Curtis Hill,196
+Spencer,09-Grass 2,Attorney General,,REP,Curtis Hill,221
+Spencer,10-Hammond 1,Attorney General,,REP,Curtis Hill,313
+Spencer,11-Hammond 2,Attorney General,,REP,Curtis Hill,208
+Spencer,12-Harrison 1,Attorney General,,REP,Curtis Hill,347
+Spencer,13-Harrison 2,Attorney General,,REP,Curtis Hill,223
+Spencer,15-Huff,Attorney General,,REP,Curtis Hill,314
+Spencer,16-Jackson,Attorney General,,REP,Curtis Hill,242
+Spencer,17-Luce 1,Attorney General,,REP,Curtis Hill,316
+Spencer,18-Luce 2,Attorney General,,REP,Curtis Hill,260
+Spencer,19-Luce 3,Attorney General,,REP,Curtis Hill,224
+Spencer,20-Ohio 1,Attorney General,,REP,Curtis Hill,205
+Spencer,21-Ohio 2,Attorney General,,REP,Curtis Hill,158
+Spencer,22-Ohio 3,Attorney General,,REP,Curtis Hill,156
+Spencer,23-Ohio 4,Attorney General,,REP,Curtis Hill,379
+Spencer,24-Ohio 5,Attorney General,,REP,Curtis Hill,348
+Spencer,25-Ohio 6,Attorney General,,REP,Curtis Hill,423
+Spencer,,Attorney General,,REP,Curtis Hill,6484
+Spencer,01-Carter 1,Attorney General,,DEM,Lorenzo Arredondo,109
+Spencer,02-Carter 2,Attorney General,,DEM,Lorenzo Arredondo,80
+Spencer,03-Carter 3,Attorney General,,DEM,Lorenzo Arredondo,198
+Spencer,04-Carter 4,Attorney General,,DEM,Lorenzo Arredondo,51
+Spencer,05-Clay 1,Attorney General,,DEM,Lorenzo Arredondo,76
+Spencer,06-Clay 2,Attorney General,,DEM,Lorenzo Arredondo,246
+Spencer,07-Clay 3,Attorney General,,DEM,Lorenzo Arredondo,106
+Spencer,08-Grass 1,Attorney General,,DEM,Lorenzo Arredondo,110
+Spencer,09-Grass 2,Attorney General,,DEM,Lorenzo Arredondo,81
+Spencer,10-Hammond 1,Attorney General,,DEM,Lorenzo Arredondo,94
+Spencer,11-Hammond 2,Attorney General,,DEM,Lorenzo Arredondo,93
+Spencer,12-Harrison 1,Attorney General,,DEM,Lorenzo Arredondo,269
+Spencer,13-Harrison 2,Attorney General,,DEM,Lorenzo Arredondo,154
+Spencer,15-Huff,Attorney General,,DEM,Lorenzo Arredondo,180
+Spencer,16-Jackson,Attorney General,,DEM,Lorenzo Arredondo,145
+Spencer,17-Luce 1,Attorney General,,DEM,Lorenzo Arredondo,143
+Spencer,18-Luce 2,Attorney General,,DEM,Lorenzo Arredondo,142
+Spencer,19-Luce 3,Attorney General,,DEM,Lorenzo Arredondo,92
+Spencer,20-Ohio 1,Attorney General,,DEM,Lorenzo Arredondo,121
+Spencer,21-Ohio 2,Attorney General,,DEM,Lorenzo Arredondo,64
+Spencer,22-Ohio 3,Attorney General,,DEM,Lorenzo Arredondo,88
+Spencer,23-Ohio 4,Attorney General,,DEM,Lorenzo Arredondo,125
+Spencer,24-Ohio 5,Attorney General,,DEM,Lorenzo Arredondo,118
+Spencer,25-Ohio 6,Attorney General,,DEM,Lorenzo Arredondo,149
+Spencer,,Attorney General,,DEM,Lorenzo Arredondo,3034
+Spencer,01-Carter 1,Public Instruction,,REP,Jennifer McCormick,196
+Spencer,02-Carter 2,Public Instruction,,REP,Jennifer McCormick,126
+Spencer,03-Carter 3,Public Instruction,,REP,Jennifer McCormick,298
+Spencer,04-Carter 4,Public Instruction,,REP,Jennifer McCormick,104
+Spencer,05-Clay 1,Public Instruction,,REP,Jennifer McCormick,164
+Spencer,06-Clay 2,Public Instruction,,REP,Jennifer McCormick,517
+Spencer,07-Clay 3,Public Instruction,,REP,Jennifer McCormick,239
+Spencer,08-Grass 1,Public Instruction,,REP,Jennifer McCormick,160
+Spencer,09-Grass 2,Public Instruction,,REP,Jennifer McCormick,180
+Spencer,10-Hammond 1,Public Instruction,,REP,Jennifer McCormick,276
+Spencer,11-Hammond 2,Public Instruction,,REP,Jennifer McCormick,177
+Spencer,12-Harrison 1,Public Instruction,,REP,Jennifer McCormick,277
+Spencer,13-Harrison 2,Public Instruction,,REP,Jennifer McCormick,173
+Spencer,15-Huff,Public Instruction,,REP,Jennifer McCormick,261
+Spencer,16-Jackson,Public Instruction,,REP,Jennifer McCormick,200
+Spencer,17-Luce 1,Public Instruction,,REP,Jennifer McCormick,236
+Spencer,18-Luce 2,Public Instruction,,REP,Jennifer McCormick,214
+Spencer,19-Luce 3,Public Instruction,,REP,Jennifer McCormick,189
+Spencer,20-Ohio 1,Public Instruction,,REP,Jennifer McCormick,171
+Spencer,21-Ohio 2,Public Instruction,,REP,Jennifer McCormick,141
+Spencer,22-Ohio 3,Public Instruction,,REP,Jennifer McCormick,144
+Spencer,23-Ohio 4,Public Instruction,,REP,Jennifer McCormick,328
+Spencer,24-Ohio 5,Public Instruction,,REP,Jennifer McCormick,279
+Spencer,25-Ohio 6,Public Instruction,,REP,Jennifer McCormick,346
+Spencer,,Public Instruction,,REP,Jennifer McCormick,5396
+Spencer,01-Carter 1,Public Instruction,,DEM,Glenda Ritz,179
+Spencer,02-Carter 2,Public Instruction,,DEM,Glenda Ritz,117
+Spencer,03-Carter 3,Public Instruction,,DEM,Glenda Ritz,245
+Spencer,04-Carter 4,Public Instruction,,DEM,Glenda Ritz,66
+Spencer,05-Clay 1,Public Instruction,,DEM,Glenda Ritz,104
+Spencer,06-Clay 2,Public Instruction,,DEM,Glenda Ritz,343
+Spencer,07-Clay 3,Public Instruction,,DEM,Glenda Ritz,138
+Spencer,08-Grass 1,Public Instruction,,DEM,Glenda Ritz,144
+Spencer,09-Grass 2,Public Instruction,,DEM,Glenda Ritz,115
+Spencer,10-Hammond 1,Public Instruction,,DEM,Glenda Ritz,139
+Spencer,11-Hammond 2,Public Instruction,,DEM,Glenda Ritz,128
+Spencer,12-Harrison 1,Public Instruction,,DEM,Glenda Ritz,344
+Spencer,13-Harrison 2,Public Instruction,,DEM,Glenda Ritz,214
+Spencer,15-Huff,Public Instruction,,DEM,Glenda Ritz,231
+Spencer,16-Jackson,Public Instruction,,DEM,Glenda Ritz,200
+Spencer,17-Luce 1,Public Instruction,,DEM,Glenda Ritz,227
+Spencer,18-Luce 2,Public Instruction,,DEM,Glenda Ritz,186
+Spencer,19-Luce 3,Public Instruction,,DEM,Glenda Ritz,125
+Spencer,20-Ohio 1,Public Instruction,,DEM,Glenda Ritz,163
+Spencer,21-Ohio 2,Public Instruction,,DEM,Glenda Ritz,85
+Spencer,22-Ohio 3,Public Instruction,,DEM,Glenda Ritz,106
+Spencer,23-Ohio 4,Public Instruction,,DEM,Glenda Ritz,175
+Spencer,24-Ohio 5,Public Instruction,,DEM,Glenda Ritz,185
+Spencer,25-Ohio 6,Public Instruction,,DEM,Glenda Ritz,234
+Spencer,,Public Instruction,,DEM,Glenda Ritz,4193
+Spencer,01-Carter 1,U.S. House,8,REP,Larry Buchson,252
+Spencer,02-Carter 2,U.S. House,8,REP,Larry Buchson,155
+Spencer,03-Carter 3,U.S. House,8,REP,Larry Buchson,331
+Spencer,04-Carter 4,U.S. House,8,REP,Larry Buchson,112
+Spencer,05-Clay 1,U.S. House,8,REP,Larry Buchson,178
+Spencer,06-Clay 2,U.S. House,8,REP,Larry Buchson,615
+Spencer,07-Clay 3,U.S. House,8,REP,Larry Buchson,279
+Spencer,08-Grass 1,U.S. House,8,REP,Larry Buchson,185
+Spencer,09-Grass 2,U.S. House,8,REP,Larry Buchson,208
+Spencer,10-Hammond 1,U.S. House,8,REP,Larry Buchson,321
+Spencer,11-Hammond 2,U.S. House,8,REP,Larry Buchson,212
+Spencer,12-Harrison 1,U.S. House,8,REP,Larry Buchson,342
+Spencer,13-Harrison 2,U.S. House,8,REP,Larry Buchson,217
+Spencer,15-Huff,U.S. House,8,REP,Larry Buchson,319
+Spencer,16-Jackson,U.S. House,8,REP,Larry Buchson,246
+Spencer,17-Luce 1,U.S. House,8,REP,Larry Buchson,297
+Spencer,18-Luce 2,U.S. House,8,REP,Larry Buchson,268
+Spencer,19-Luce 3,U.S. House,8,REP,Larry Buchson,224
+Spencer,20-Ohio 1,U.S. House,8,REP,Larry Buchson,207
+Spencer,21-Ohio 2,U.S. House,8,REP,Larry Buchson,160
+Spencer,22-Ohio 3,U.S. House,8,REP,Larry Buchson,164
+Spencer,23-Ohio 4,U.S. House,8,REP,Larry Buchson,374
+Spencer,24-Ohio 5,U.S. House,8,REP,Larry Buchson,349
+Spencer,25-Ohio 6,U.S. House,8,REP,Larry Buchson,412
+Spencer,,U.S. House,8,REP,Larry Buchson,6427
+Spencer,01-Carter 1,U.S. House,8,DEM,Ron Drake,118
+Spencer,02-Carter 2,U.S. House,8,DEM,Ron Drake,81
+Spencer,03-Carter 3,U.S. House,8,DEM,Ron Drake,200
+Spencer,04-Carter 4,U.S. House,8,DEM,Ron Drake,50
+Spencer,05-Clay 1,U.S. House,8,DEM,Ron Drake,77
+Spencer,06-Clay 2,U.S. House,8,DEM,Ron Drake,229
+Spencer,07-Clay 3,U.S. House,8,DEM,Ron Drake,96
+Spencer,08-Grass 1,U.S. House,8,DEM,Ron Drake,112
+Spencer,09-Grass 2,U.S. House,8,DEM,Ron Drake,85
+Spencer,10-Hammond 1,U.S. House,8,DEM,Ron Drake,93
+Spencer,11-Hammond 2,U.S. House,8,DEM,Ron Drake,90
+Spencer,12-Harrison 1,U.S. House,8,DEM,Ron Drake,257
+Spencer,13-Harrison 2,U.S. House,8,DEM,Ron Drake,155
+Spencer,15-Huff,U.S. House,8,DEM,Ron Drake,173
+Spencer,16-Jackson,U.S. House,8,DEM,Ron Drake,142
+Spencer,17-Luce 1,U.S. House,8,DEM,Ron Drake,152
+Spencer,18-Luce 2,U.S. House,8,DEM,Ron Drake,127
+Spencer,19-Luce 3,U.S. House,8,DEM,Ron Drake,89
+Spencer,20-Ohio 1,U.S. House,8,DEM,Ron Drake,126
+Spencer,21-Ohio 2,U.S. House,8,DEM,Ron Drake,64
+Spencer,22-Ohio 3,U.S. House,8,DEM,Ron Drake,86
+Spencer,23-Ohio 4,U.S. House,8,DEM,Ron Drake,130
+Spencer,24-Ohio 5,U.S. House,8,DEM,Ron Drake,122
+Spencer,25-Ohio 6,U.S. House,8,DEM,Ron Drake,150
+Spencer,,U.S. House,8,DEM,Ron Drake,3004
+Spencer,01-Carter 1,U.S. House,8,LBT,Andrew Horning,11
+Spencer,02-Carter 2,U.S. House,8,LBT,Andrew Horning,15
+Spencer,03-Carter 3,U.S. House,8,LBT,Andrew Horning,29
+Spencer,04-Carter 4,U.S. House,8,LBT,Andrew Horning,10
+Spencer,05-Clay 1,U.S. House,8,LBT,Andrew Horning,14
+Spencer,06-Clay 2,U.S. House,8,LBT,Andrew Horning,28
+Spencer,07-Clay 3,U.S. House,8,LBT,Andrew Horning,13
+Spencer,08-Grass 1,U.S. House,8,LBT,Andrew Horning,16
+Spencer,09-Grass 2,U.S. House,8,LBT,Andrew Horning,12
+Spencer,10-Hammond 1,U.S. House,8,LBT,Andrew Horning,16
+Spencer,11-Hammond 2,U.S. House,8,LBT,Andrew Horning,10
+Spencer,12-Harrison 1,U.S. House,8,LBT,Andrew Horning,30
+Spencer,13-Harrison 2,U.S. House,8,LBT,Andrew Horning,23
+Spencer,15-Huff,U.S. House,8,LBT,Andrew Horning,14
+Spencer,16-Jackson,U.S. House,8,LBT,Andrew Horning,15
+Spencer,17-Luce 1,U.S. House,8,LBT,Andrew Horning,26
+Spencer,18-Luce 2,U.S. House,8,LBT,Andrew Horning,13
+Spencer,19-Luce 3,U.S. House,8,LBT,Andrew Horning,11
+Spencer,20-Ohio 1,U.S. House,8,LBT,Andrew Horning,15
+Spencer,21-Ohio 2,U.S. House,8,LBT,Andrew Horning,6
+Spencer,22-Ohio 3,U.S. House,8,LBT,Andrew Horning,10
+Spencer,23-Ohio 4,U.S. House,8,LBT,Andrew Horning,12
+Spencer,24-Ohio 5,U.S. House,8,LBT,Andrew Horning,8
+Spencer,25-Ohio 6,U.S. House,8,LBT,Andrew Horning,23
+Spencer,,U.S. House,8,LBT,Andrew Horning,380
+Spencer,01-Carter 1,State House,74,REP,Lloyd Arnold,235
+Spencer,02-Carter 2,State House,74,REP,Lloyd Arnold,153
+Spencer,03-Carter 3,State House,74,REP,Lloyd Arnold,324
+Spencer,04-Carter 4,State House,74,REP,Lloyd Arnold,106
+Spencer,05-Clay 1,State House,74,REP,Lloyd Arnold,170
+Spencer,06-Clay 2,State House,74,REP,Lloyd Arnold,589
+Spencer,07-Clay 3,State House,74,REP,Lloyd Arnold,267
+Spencer,08-Grass 1,State House,75,REP,Ron Bacon,191
+Spencer,09-Grass 2,State House,75,REP,Ron Bacon,200
+Spencer,10-Hammond 1,State House,75,REP,Ron Bacon,302
+Spencer,11-Hammond 2,State House,74,REP,Lloyd Arnold,199
+Spencer,12-Harrison 1,State House,74,REP,Lloyd Arnold,294
+Spencer,13-Harrison 2,State House,74,REP,Lloyd Arnold,184
+Spencer,15-Huff,State House,74,REP,Lloyd Arnold,284
+Spencer,16-Jackson,State House,75,REP,Ron Bacon,247
+Spencer,17-Luce 1,State House,75,REP,Ron Bacon,281
+Spencer,18-Luce 2,State House,75,REP,Ron Bacon,229
+Spencer,19-Luce 3,State House,75,REP,Ron Bacon,194
+Spencer,20-Ohio 1,State House,75,REP,Ron Bacon,216
+Spencer,21-Ohio 2,State House,75,REP,Ron Bacon,150
+Spencer,22-Ohio 3,State House,75,REP,Ron Bacon,159
+Spencer,23-Ohio 4,State House,75,REP,Ron Bacon,359
+Spencer,24-Ohio 5,State House,75,REP,Ron Bacon,320
+Spencer,25-Ohio 6,State House,75,REP,Ron Bacon,384
+Spencer,,State House,74,REP,Lloyd Arnold,2805
+Spencer,,State House,75,REP,Ron Bacon,3232
+Spencer,01-Carter 1,State House,74,DEM,Larry Kleeman,145
+Spencer,02-Carter 2,State House,74,DEM,Larry Kleeman,98
+Spencer,03-Carter 3,State House,74,DEM,Larry Kleeman,236
+Spencer,04-Carter 4,State House,74,DEM,Larry Kleeman,68
+Spencer,05-Clay 1,State House,74,DEM,Larry Kleeman,99
+Spencer,06-Clay 2,State House,74,DEM,Larry Kleeman,279
+Spencer,07-Clay 3,State House,74,DEM,Larry Kleeman,121
+Spencer,08-Grass 1,State House,75,DEM,Pete Rapp,121
+Spencer,09-Grass 2,State House,75,DEM,Pete Rapp,102
+Spencer,10-Hammond 1,State House,75,DEM,Pete Rapp,124
+Spencer,11-Hammond 2,State House,74,DEM,Larry Kleeman,116
+Spencer,12-Harrison 1,State House,74,DEM,Larry Kleeman,341
+Spencer,13-Harrison 2,State House,74,DEM,Larry Kleeman,213
+Spencer,15-Huff,State House,74,DEM,Larry Kleeman,236
+Spencer,16-Jackson,State House,75,DEM,Pete Rapp,158
+Spencer,17-Luce 1,State House,75,DEM,Pete Rapp,195
+Spencer,18-Luce 2,State House,75,DEM,Pete Rapp,177
+Spencer,19-Luce 3,State House,75,DEM,Pete Rapp,124
+Spencer,20-Ohio 1,State House,75,DEM,Pete Rapp,129
+Spencer,21-Ohio 2,State House,75,DEM,Pete Rapp,77
+Spencer,22-Ohio 3,State House,75,DEM,Pete Rapp,98
+Spencer,23-Ohio 4,State House,75,DEM,Pete Rapp,161
+Spencer,24-Ohio 5,State House,75,DEM,Pete Rapp,158
+Spencer,25-Ohio 6,State House,75,DEM,Pete Rapp,192
+Spencer,,State House,74,DEM,Larry Kleeman,1952
+Spencer,,State House,75,DEM,Pete Rapp,1816

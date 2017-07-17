@@ -1,0 +1,591 @@
+county,precinct,office,district,party,candidate,votes
+Starke,01-California 1,Voters,,,Registered,765
+Starke,02-California 2,Voters,,,Registered,909
+Starke,03-Center 1,Voters,,,Registered,973
+Starke,04-Center 2,Voters,,,Registered,586
+Starke,05-Center 3,Voters,,,Registered,451
+Starke,06-Center 4,Voters,,,Registered,915
+Starke,07-Center 5,Voters,,,Registered,1267
+Starke,08-Center 6,Voters,,,Registered,654
+Starke,09-Davis,Voters,,,Registered,755
+Starke,10-Jackson,Voters,,,Registered,435
+Starke,11-North Bend,Voters,,,Registered,1137
+Starke,12-Oregon 1,Voters,,,Registered,1065
+Starke,13-Oregon 2,Voters,,,Registered,932
+Starke,14-Oregon 3,Voters,,,Registered,518
+Starke,15-Railroad,Voters,,,Registered,1051
+Starke,16-Washington 1,Voters,,,Registered,903
+Starke,17-Washington 2,Voters,,,Registered,1174
+Starke,18-Wayne 1,Voters,,,Registered,797
+Starke,19-Wayne 2,Voters,,,Registered,716
+Starke,20-Wayne 3,Voters,,,Registered,1188
+Starke,21-Wayne 4,Voters,,,Registered,914
+Starke,,Voters,,,Registered,18105
+Starke,01-California 1,Voters,,,Ballots Cast,435
+Starke,02-California 2,Voters,,,Ballots Cast,496
+Starke,03-Center 1,Voters,,,Ballots Cast,440
+Starke,04-Center 2,Voters,,,Ballots Cast,302
+Starke,05-Center 3,Voters,,,Ballots Cast,145
+Starke,06-Center 4,Voters,,,Ballots Cast,424
+Starke,07-Center 5,Voters,,,Ballots Cast,671
+Starke,08-Center 6,Voters,,,Ballots Cast,393
+Starke,09-Davis,Voters,,,Ballots Cast,386
+Starke,10-Jackson,Voters,,,Ballots Cast,247
+Starke,11-North Bend,Voters,,,Ballots Cast,607
+Starke,12-Oregon 1,Voters,,,Ballots Cast,559
+Starke,13-Oregon 2,Voters,,,Ballots Cast,498
+Starke,14-Oregon 3,Voters,,,Ballots Cast,325
+Starke,15-Railroad,Voters,,,Ballots Cast,590
+Starke,16-Washington 1,Voters,,,Ballots Cast,493
+Starke,17-Washington 2,Voters,,,Ballots Cast,592
+Starke,18-Wayne 1,Voters,,,Ballots Cast,464
+Starke,19-Wayne 2,Voters,,,Ballots Cast,348
+Starke,20-Wayne 3,Voters,,,Ballots Cast,560
+Starke,21-Wayne 4,Voters,,,Ballots Cast,519
+Starke,,Voters,,,Ballots Cast,9494
+Starke,01-California 1,President,,REP,Donald Trump,303
+Starke,02-California 2,President,,REP,Donald Trump,340
+Starke,03-Center 1,President,,REP,Donald Trump,287
+Starke,04-Center 2,President,,REP,Donald Trump,178
+Starke,05-Center 3,President,,REP,Donald Trump,91
+Starke,06-Center 4,President,,REP,Donald Trump,254
+Starke,07-Center 5,President,,REP,Donald Trump,466
+Starke,08-Center 6,President,,REP,Donald Trump,263
+Starke,09-Davis,President,,REP,Donald Trump,268
+Starke,10-Jackson,President,,REP,Donald Trump,169
+Starke,11-North Bend,President,,REP,Donald Trump,392
+Starke,12-Oregon 1,President,,REP,Donald Trump,372
+Starke,13-Oregon 2,President,,REP,Donald Trump,304
+Starke,14-Oregon 3,President,,REP,Donald Trump,239
+Starke,15-Railroad,President,,REP,Donald Trump,410
+Starke,16-Washington 1,President,,REP,Donald Trump,339
+Starke,17-Washington 2,President,,REP,Donald Trump,426
+Starke,18-Wayne 1,President,,REP,Donald Trump,314
+Starke,19-Wayne 2,President,,REP,Donald Trump,223
+Starke,20-Wayne 3,President,,REP,Donald Trump,394
+Starke,21-Wayne 4,President,,REP,Donald Trump,335
+Starke,,President,,REP,Donald Trump,6367
+Starke,01-California 1,President,,DEM,Hillary Clinton,111
+Starke,02-California 2,President,,DEM,Hillary Clinton,119
+Starke,03-Center 1,President,,DEM,Hillary Clinton,129
+Starke,04-Center 2,President,,DEM,Hillary Clinton,102
+Starke,05-Center 3,President,,DEM,Hillary Clinton,42
+Starke,06-Center 4,President,,DEM,Hillary Clinton,140
+Starke,07-Center 5,President,,DEM,Hillary Clinton,161
+Starke,08-Center 6,President,,DEM,Hillary Clinton,104
+Starke,09-Davis,President,,DEM,Hillary Clinton,94
+Starke,10-Jackson,President,,DEM,Hillary Clinton,62
+Starke,11-North Bend,President,,DEM,Hillary Clinton,173
+Starke,12-Oregon 1,President,,DEM,Hillary Clinton,141
+Starke,13-Oregon 2,President,,DEM,Hillary Clinton,158
+Starke,14-Oregon 3,President,,DEM,Hillary Clinton,67
+Starke,15-Railroad,President,,DEM,Hillary Clinton,147
+Starke,16-Washington 1,President,,DEM,Hillary Clinton,114
+Starke,17-Washington 2,President,,DEM,Hillary Clinton,132
+Starke,18-Wayne 1,President,,DEM,Hillary Clinton,113
+Starke,19-Wayne 2,President,,DEM,Hillary Clinton,102
+Starke,20-Wayne 3,President,,DEM,Hillary Clinton,136
+Starke,21-Wayne 4,President,,DEM,Hillary Clinton,142
+Starke,,President,,DEM,Hillary Clinton,2489
+Starke,01-California 1,President,,LBT,Gary Johnson,13
+Starke,02-California 2,President,,LBT,Gary Johnson,21
+Starke,03-Center 1,President,,LBT,Gary Johnson,17
+Starke,04-Center 2,President,,LBT,Gary Johnson,6
+Starke,05-Center 3,President,,LBT,Gary Johnson,7
+Starke,06-Center 4,President,,LBT,Gary Johnson,20
+Starke,07-Center 5,President,,LBT,Gary Johnson,23
+Starke,08-Center 6,President,,LBT,Gary Johnson,13
+Starke,09-Davis,President,,LBT,Gary Johnson,15
+Starke,10-Jackson,President,,LBT,Gary Johnson,12
+Starke,11-North Bend,President,,LBT,Gary Johnson,25
+Starke,12-Oregon 1,President,,LBT,Gary Johnson,29
+Starke,13-Oregon 2,President,,LBT,Gary Johnson,19
+Starke,14-Oregon 3,President,,LBT,Gary Johnson,12
+Starke,15-Railroad,President,,LBT,Gary Johnson,18
+Starke,16-Washington 1,President,,LBT,Gary Johnson,31
+Starke,17-Washington 2,President,,LBT,Gary Johnson,19
+Starke,18-Wayne 1,President,,LBT,Gary Johnson,20
+Starke,19-Wayne 2,President,,LBT,Gary Johnson,12
+Starke,20-Wayne 3,President,,LBT,Gary Johnson,16
+Starke,21-Wayne 4,President,,LBT,Gary Johnson,22
+Starke,,President,,LBT,Gary Johnson,370
+Starke,01-California 1,President,,,Write-ins,1
+Starke,02-California 2,President,,,Write-ins,6
+Starke,03-Center 1,President,,,Write-ins,3
+Starke,04-Center 2,President,,,Write-ins,2
+Starke,05-Center 3,President,,,Write-ins,2
+Starke,06-Center 4,President,,,Write-ins,1
+Starke,07-Center 5,President,,,Write-ins,12
+Starke,08-Center 6,President,,,Write-ins,4
+Starke,09-Davis,President,,,Write-ins,3
+Starke,10-Jackson,President,,,Write-ins,0
+Starke,11-North Bend,President,,,Write-ins,5
+Starke,12-Oregon 1,President,,,Write-ins,3
+Starke,13-Oregon 2,President,,,Write-ins,8
+Starke,14-Oregon 3,President,,,Write-ins,0
+Starke,15-Railroad,President,,,Write-ins,4
+Starke,16-Washington 1,President,,,Write-ins,3
+Starke,17-Washington 2,President,,,Write-ins,6
+Starke,18-Wayne 1,President,,,Write-ins,9
+Starke,19-Wayne 2,President,,,Write-ins,6
+Starke,20-Wayne 3,President,,,Write-ins,3
+Starke,21-Wayne 4,President,,,Write-ins,9
+Starke,,President,,,Write-ins,90
+Starke,01-California 1,U.S. Senate,,REP,Todd Young,245
+Starke,02-California 2,U.S. Senate,,REP,Todd Young,268
+Starke,03-Center 1,U.S. Senate,,REP,Todd Young,204
+Starke,04-Center 2,U.S. Senate,,REP,Todd Young,138
+Starke,05-Center 3,U.S. Senate,,REP,Todd Young,66
+Starke,06-Center 4,U.S. Senate,,REP,Todd Young,189
+Starke,07-Center 5,U.S. Senate,,REP,Todd Young,359
+Starke,08-Center 6,U.S. Senate,,REP,Todd Young,204
+Starke,09-Davis,U.S. Senate,,REP,Todd Young,218
+Starke,10-Jackson,U.S. Senate,,REP,Todd Young,116
+Starke,11-North Bend,U.S. Senate,,REP,Todd Young,317
+Starke,12-Oregon 1,U.S. Senate,,REP,Todd Young,294
+Starke,13-Oregon 2,U.S. Senate,,REP,Todd Young,243
+Starke,14-Oregon 3,U.S. Senate,,REP,Todd Young,183
+Starke,15-Railroad,U.S. Senate,,REP,Todd Young,324
+Starke,16-Washington 1,U.S. Senate,,REP,Todd Young,246
+Starke,17-Washington 2,U.S. Senate,,REP,Todd Young,311
+Starke,18-Wayne 1,U.S. Senate,,REP,Todd Young,257
+Starke,19-Wayne 2,U.S. Senate,,REP,Todd Young,182
+Starke,20-Wayne 3,U.S. Senate,,REP,Todd Young,274
+Starke,21-Wayne 4,U.S. Senate,,REP,Todd Young,257
+Starke,,U.S. Senate,,REP,Todd Young,4895
+Starke,01-California 1,U.S. Senate,,DEM,Evan Bayh,146
+Starke,02-California 2,U.S. Senate,,DEM,Evan Bayh,156
+Starke,03-Center 1,U.S. Senate,,DEM,Evan Bayh,187
+Starke,04-Center 2,U.S. Senate,,DEM,Evan Bayh,130
+Starke,05-Center 3,U.S. Senate,,DEM,Evan Bayh,65
+Starke,06-Center 4,U.S. Senate,,DEM,Evan Bayh,175
+Starke,07-Center 5,U.S. Senate,,DEM,Evan Bayh,228
+Starke,08-Center 6,U.S. Senate,,DEM,Evan Bayh,148
+Starke,09-Davis,U.S. Senate,,DEM,Evan Bayh,126
+Starke,10-Jackson,U.S. Senate,,DEM,Evan Bayh,99
+Starke,11-North Bend,U.S. Senate,,DEM,Evan Bayh,218
+Starke,12-Oregon 1,U.S. Senate,,DEM,Evan Bayh,196
+Starke,13-Oregon 2,U.S. Senate,,DEM,Evan Bayh,190
+Starke,14-Oregon 3,U.S. Senate,,DEM,Evan Bayh,106
+Starke,15-Railroad,U.S. Senate,,DEM,Evan Bayh,197
+Starke,16-Washington 1,U.S. Senate,,DEM,Evan Bayh,165
+Starke,17-Washington 2,U.S. Senate,,DEM,Evan Bayh,205
+Starke,18-Wayne 1,U.S. Senate,,DEM,Evan Bayh,165
+Starke,19-Wayne 2,U.S. Senate,,DEM,Evan Bayh,130
+Starke,20-Wayne 3,U.S. Senate,,DEM,Evan Bayh,213
+Starke,21-Wayne 4,U.S. Senate,,DEM,Evan Bayh,198
+Starke,,U.S. Senate,,DEM,Evan Bayh,3443
+Starke,01-California 1,U.S. Senate,,LBT,Lucy Brenton,24
+Starke,02-California 2,U.S. Senate,,LBT,Lucy Brenton,48
+Starke,03-Center 1,U.S. Senate,,LBT,Lucy Brenton,30
+Starke,04-Center 2,U.S. Senate,,LBT,Lucy Brenton,14
+Starke,05-Center 3,U.S. Senate,,LBT,Lucy Brenton,11
+Starke,06-Center 4,U.S. Senate,,LBT,Lucy Brenton,43
+Starke,07-Center 5,U.S. Senate,,LBT,Lucy Brenton,53
+Starke,08-Center 6,U.S. Senate,,LBT,Lucy Brenton,22
+Starke,09-Davis,U.S. Senate,,LBT,Lucy Brenton,28
+Starke,10-Jackson,U.S. Senate,,LBT,Lucy Brenton,18
+Starke,11-North Bend,U.S. Senate,,LBT,Lucy Brenton,37
+Starke,12-Oregon 1,U.S. Senate,,LBT,Lucy Brenton,38
+Starke,13-Oregon 2,U.S. Senate,,LBT,Lucy Brenton,42
+Starke,14-Oregon 3,U.S. Senate,,LBT,Lucy Brenton,26
+Starke,15-Railroad,U.S. Senate,,LBT,Lucy Brenton,46
+Starke,16-Washington 1,U.S. Senate,,LBT,Lucy Brenton,52
+Starke,17-Washington 2,U.S. Senate,,LBT,Lucy Brenton,42
+Starke,18-Wayne 1,U.S. Senate,,LBT,Lucy Brenton,26
+Starke,19-Wayne 2,U.S. Senate,,LBT,Lucy Brenton,22
+Starke,20-Wayne 3,U.S. Senate,,LBT,Lucy Brenton,39
+Starke,21-Wayne 4,U.S. Senate,,LBT,Lucy Brenton,38
+Starke,,U.S. Senate,,LBT,Lucy Brenton,699
+Starke,01-California 1,U.S. Senate,,,Write-ins,0
+Starke,02-California 2,U.S. Senate,,,Write-ins,0
+Starke,03-Center 1,U.S. Senate,,,Write-ins,0
+Starke,04-Center 2,U.S. Senate,,,Write-ins,0
+Starke,05-Center 3,U.S. Senate,,,Write-ins,0
+Starke,06-Center 4,U.S. Senate,,,Write-ins,0
+Starke,07-Center 5,U.S. Senate,,,Write-ins,0
+Starke,08-Center 6,U.S. Senate,,,Write-ins,0
+Starke,09-Davis,U.S. Senate,,,Write-ins,0
+Starke,10-Jackson,U.S. Senate,,,Write-ins,0
+Starke,11-North Bend,U.S. Senate,,,Write-ins,0
+Starke,12-Oregon 1,U.S. Senate,,,Write-ins,0
+Starke,13-Oregon 2,U.S. Senate,,,Write-ins,0
+Starke,14-Oregon 3,U.S. Senate,,,Write-ins,0
+Starke,15-Railroad,U.S. Senate,,,Write-ins,0
+Starke,16-Washington 1,U.S. Senate,,,Write-ins,1
+Starke,17-Washington 2,U.S. Senate,,,Write-ins,1
+Starke,18-Wayne 1,U.S. Senate,,,Write-ins,0
+Starke,19-Wayne 2,U.S. Senate,,,Write-ins,0
+Starke,20-Wayne 3,U.S. Senate,,,Write-ins,0
+Starke,21-Wayne 4,U.S. Senate,,,Write-ins,0
+Starke,,U.S. Senate,,,Write-ins,2
+Starke,01-California 1,Governor,,REP,Eric Holcomb,245
+Starke,02-California 2,Governor,,REP,Eric Holcomb,252
+Starke,03-Center 1,Governor,,REP,Eric Holcomb,206
+Starke,04-Center 2,Governor,,REP,Eric Holcomb,131
+Starke,05-Center 3,Governor,,REP,Eric Holcomb,67
+Starke,06-Center 4,Governor,,REP,Eric Holcomb,179
+Starke,07-Center 5,Governor,,REP,Eric Holcomb,335
+Starke,08-Center 6,Governor,,REP,Eric Holcomb,200
+Starke,09-Davis,Governor,,REP,Eric Holcomb,206
+Starke,10-Jackson,Governor,,REP,Eric Holcomb,117
+Starke,11-North Bend,Governor,,REP,Eric Holcomb,296
+Starke,12-Oregon 1,Governor,,REP,Eric Holcomb,266
+Starke,13-Oregon 2,Governor,,REP,Eric Holcomb,238
+Starke,14-Oregon 3,Governor,,REP,Eric Holcomb,181
+Starke,15-Railroad,Governor,,REP,Eric Holcomb,306
+Starke,16-Washington 1,Governor,,REP,Eric Holcomb,238
+Starke,17-Washington 2,Governor,,REP,Eric Holcomb,302
+Starke,18-Wayne 1,Governor,,REP,Eric Holcomb,249
+Starke,19-Wayne 2,Governor,,REP,Eric Holcomb,156
+Starke,20-Wayne 3,Governor,,REP,Eric Holcomb,281
+Starke,21-Wayne 4,Governor,,REP,Eric Holcomb,243
+Starke,,Governor,,REP,Eric Holcomb,4694
+Starke,01-California 1,Governor,,DEM,John Gregg,155
+Starke,02-California 2,Governor,,DEM,John Gregg,190
+Starke,03-Center 1,Governor,,DEM,John Gregg,188
+Starke,04-Center 2,Governor,,DEM,John Gregg,143
+Starke,05-Center 3,Governor,,DEM,John Gregg,64
+Starke,06-Center 4,Governor,,DEM,John Gregg,200
+Starke,07-Center 5,Governor,,DEM,John Gregg,263
+Starke,08-Center 6,Governor,,DEM,John Gregg,157
+Starke,09-Davis,Governor,,DEM,John Gregg,152
+Starke,10-Jackson,Governor,,DEM,John Gregg,116
+Starke,11-North Bend,Governor,,DEM,John Gregg,257
+Starke,12-Oregon 1,Governor,,DEM,John Gregg,233
+Starke,13-Oregon 2,Governor,,DEM,John Gregg,218
+Starke,14-Oregon 3,Governor,,DEM,John Gregg,114
+Starke,15-Railroad,Governor,,DEM,John Gregg,237
+Starke,16-Washington 1,Governor,,DEM,John Gregg,195
+Starke,17-Washington 2,Governor,,DEM,John Gregg,228
+Starke,18-Wayne 1,Governor,,DEM,John Gregg,187
+Starke,19-Wayne 2,Governor,,DEM,John Gregg,156
+Starke,20-Wayne 3,Governor,,DEM,John Gregg,227
+Starke,21-Wayne 4,Governor,,DEM,John Gregg,223
+Starke,,Governor,,DEM,John Gregg,3903
+Starke,01-California 1,Governor,,LBT,Rex Bell,16
+Starke,02-California 2,Governor,,LBT,Rex Bell,24
+Starke,03-Center 1,Governor,,LBT,Rex Bell,20
+Starke,04-Center 2,Governor,,LBT,Rex Bell,5
+Starke,05-Center 3,Governor,,LBT,Rex Bell,6
+Starke,06-Center 4,Governor,,LBT,Rex Bell,23
+Starke,07-Center 5,Governor,,LBT,Rex Bell,30
+Starke,08-Center 6,Governor,,LBT,Rex Bell,15
+Starke,09-Davis,Governor,,LBT,Rex Bell,14
+Starke,10-Jackson,Governor,,LBT,Rex Bell,5
+Starke,11-North Bend,Governor,,LBT,Rex Bell,17
+Starke,12-Oregon 1,Governor,,LBT,Rex Bell,25
+Starke,13-Oregon 2,Governor,,LBT,Rex Bell,19
+Starke,14-Oregon 3,Governor,,LBT,Rex Bell,10
+Starke,15-Railroad,Governor,,LBT,Rex Bell,18
+Starke,16-Washington 1,Governor,,LBT,Rex Bell,25
+Starke,17-Washington 2,Governor,,LBT,Rex Bell,27
+Starke,18-Wayne 1,Governor,,LBT,Rex Bell,12
+Starke,19-Wayne 2,Governor,,LBT,Rex Bell,14
+Starke,20-Wayne 3,Governor,,LBT,Rex Bell,19
+Starke,21-Wayne 4,Governor,,LBT,Rex Bell,24
+Starke,,Governor,,LBT,Rex Bell,368
+Starke,01-California 1,Governor,,,Write-ins,0
+Starke,02-California 2,Governor,,,Write-ins,0
+Starke,03-Center 1,Governor,,,Write-ins,1
+Starke,04-Center 2,Governor,,,Write-ins,1
+Starke,05-Center 3,Governor,,,Write-ins,0
+Starke,06-Center 4,Governor,,,Write-ins,0
+Starke,07-Center 5,Governor,,,Write-ins,0
+Starke,08-Center 6,Governor,,,Write-ins,0
+Starke,09-Davis,Governor,,,Write-ins,0
+Starke,10-Jackson,Governor,,,Write-ins,0
+Starke,11-North Bend,Governor,,,Write-ins,0
+Starke,12-Oregon 1,Governor,,,Write-ins,0
+Starke,13-Oregon 2,Governor,,,Write-ins,0
+Starke,14-Oregon 3,Governor,,,Write-ins,0
+Starke,15-Railroad,Governor,,,Write-ins,0
+Starke,16-Washington 1,Governor,,,Write-ins,0
+Starke,17-Washington 2,Governor,,,Write-ins,0
+Starke,18-Wayne 1,Governor,,,Write-ins,0
+Starke,19-Wayne 2,Governor,,,Write-ins,1
+Starke,20-Wayne 3,Governor,,,Write-ins,0
+Starke,21-Wayne 4,Governor,,,Write-ins,0
+Starke,,Governor,,,Write-ins,3
+Starke,01-California 1,Attorney General,,REP,Curtis Hill,288
+Starke,02-California 2,Attorney General,,REP,Curtis Hill,305
+Starke,03-Center 1,Attorney General,,REP,Curtis Hill,252
+Starke,04-Center 2,Attorney General,,REP,Curtis Hill,146
+Starke,05-Center 3,Attorney General,,REP,Curtis Hill,81
+Starke,06-Center 4,Attorney General,,REP,Curtis Hill,230
+Starke,07-Center 5,Attorney General,,REP,Curtis Hill,396
+Starke,08-Center 6,Attorney General,,REP,Curtis Hill,228
+Starke,09-Davis,Attorney General,,REP,Curtis Hill,245
+Starke,10-Jackson,Attorney General,,REP,Curtis Hill,155
+Starke,11-North Bend,Attorney General,,REP,Curtis Hill,355
+Starke,12-Oregon 1,Attorney General,,REP,Curtis Hill,361
+Starke,13-Oregon 2,Attorney General,,REP,Curtis Hill,309
+Starke,14-Oregon 3,Attorney General,,REP,Curtis Hill,213
+Starke,15-Railroad,Attorney General,,REP,Curtis Hill,377
+Starke,16-Washington 1,Attorney General,,REP,Curtis Hill,301
+Starke,17-Washington 2,Attorney General,,REP,Curtis Hill,367
+Starke,18-Wayne 1,Attorney General,,REP,Curtis Hill,300
+Starke,19-Wayne 2,Attorney General,,REP,Curtis Hill,206
+Starke,20-Wayne 3,Attorney General,,REP,Curtis Hill,328
+Starke,21-Wayne 4,Attorney General,,REP,Curtis Hill,303
+Starke,,Attorney General,,REP,Curtis Hill,5746
+Starke,01-California 1,Attorney General,,DEM,Lorenzo Arredondo,121
+Starke,02-California 2,Attorney General,,DEM,Lorenzo Arredondo,157
+Starke,03-Center 1,Attorney General,,DEM,Lorenzo Arredondo,148
+Starke,04-Center 2,Attorney General,,DEM,Lorenzo Arredondo,118
+Starke,05-Center 3,Attorney General,,DEM,Lorenzo Arredondo,53
+Starke,06-Center 4,Attorney General,,DEM,Lorenzo Arredondo,149
+Starke,07-Center 5,Attorney General,,DEM,Lorenzo Arredondo,218
+Starke,08-Center 6,Attorney General,,DEM,Lorenzo Arredondo,121
+Starke,09-Davis,Attorney General,,DEM,Lorenzo Arredondo,103
+Starke,10-Jackson,Attorney General,,DEM,Lorenzo Arredondo,74
+Starke,11-North Bend,Attorney General,,DEM,Lorenzo Arredondo,192
+Starke,12-Oregon 1,Attorney General,,DEM,Lorenzo Arredondo,139
+Starke,13-Oregon 2,Attorney General,,DEM,Lorenzo Arredondo,159
+Starke,14-Oregon 3,Attorney General,,DEM,Lorenzo Arredondo,83
+Starke,15-Railroad,Attorney General,,DEM,Lorenzo Arredondo,178
+Starke,16-Washington 1,Attorney General,,DEM,Lorenzo Arredondo,142
+Starke,17-Washington 2,Attorney General,,DEM,Lorenzo Arredondo,161
+Starke,18-Wayne 1,Attorney General,,DEM,Lorenzo Arredondo,127
+Starke,19-Wayne 2,Attorney General,,DEM,Lorenzo Arredondo,115
+Starke,20-Wayne 3,Attorney General,,DEM,Lorenzo Arredondo,194
+Starke,21-Wayne 4,Attorney General,,DEM,Lorenzo Arredondo,179
+Starke,,Attorney General,,DEM,Lorenzo Arredondo,2931
+Starke,01-California 1,Public Instruction,,REP,Jennifer McCormick,254
+Starke,02-California 2,Public Instruction,,REP,Jennifer McCormick,288
+Starke,03-Center 1,Public Instruction,,REP,Jennifer McCormick,233
+Starke,04-Center 2,Public Instruction,,REP,Jennifer McCormick,135
+Starke,05-Center 3,Public Instruction,,REP,Jennifer McCormick,75
+Starke,06-Center 4,Public Instruction,,REP,Jennifer McCormick,200
+Starke,07-Center 5,Public Instruction,,REP,Jennifer McCormick,369
+Starke,08-Center 6,Public Instruction,,REP,Jennifer McCormick,202
+Starke,09-Davis,Public Instruction,,REP,Jennifer McCormick,219
+Starke,10-Jackson,Public Instruction,,REP,Jennifer McCormick,126
+Starke,11-North Bend,Public Instruction,,REP,Jennifer McCormick,323
+Starke,12-Oregon 1,Public Instruction,,REP,Jennifer McCormick,297
+Starke,13-Oregon 2,Public Instruction,,REP,Jennifer McCormick,255
+Starke,14-Oregon 3,Public Instruction,,REP,Jennifer McCormick,191
+Starke,15-Railroad,Public Instruction,,REP,Jennifer McCormick,326
+Starke,16-Washington 1,Public Instruction,,REP,Jennifer McCormick,255
+Starke,17-Washington 2,Public Instruction,,REP,Jennifer McCormick,332
+Starke,18-Wayne 1,Public Instruction,,REP,Jennifer McCormick,261
+Starke,19-Wayne 2,Public Instruction,,REP,Jennifer McCormick,197
+Starke,20-Wayne 3,Public Instruction,,REP,Jennifer McCormick,311
+Starke,21-Wayne 4,Public Instruction,,REP,Jennifer McCormick,275
+Starke,,Public Instruction,,REP,Jennifer McCormick,5124
+Starke,01-California 1,Public Instruction,,DEM,Glenda Ritz,159
+Starke,02-California 2,Public Instruction,,DEM,Glenda Ritz,182
+Starke,03-Center 1,Public Instruction,,DEM,Glenda Ritz,175
+Starke,04-Center 2,Public Instruction,,DEM,Glenda Ritz,137
+Starke,05-Center 3,Public Instruction,,DEM,Glenda Ritz,61
+Starke,06-Center 4,Public Instruction,,DEM,Glenda Ritz,194
+Starke,07-Center 5,Public Instruction,,DEM,Glenda Ritz,254
+Starke,08-Center 6,Public Instruction,,DEM,Glenda Ritz,155
+Starke,09-Davis,Public Instruction,,DEM,Glenda Ritz,139
+Starke,10-Jackson,Public Instruction,,DEM,Glenda Ritz,107
+Starke,11-North Bend,Public Instruction,,DEM,Glenda Ritz,233
+Starke,12-Oregon 1,Public Instruction,,DEM,Glenda Ritz,214
+Starke,13-Oregon 2,Public Instruction,,DEM,Glenda Ritz,211
+Starke,14-Oregon 3,Public Instruction,,DEM,Glenda Ritz,112
+Starke,15-Railroad,Public Instruction,,DEM,Glenda Ritz,232
+Starke,16-Washington 1,Public Instruction,,DEM,Glenda Ritz,193
+Starke,17-Washington 2,Public Instruction,,DEM,Glenda Ritz,206
+Starke,18-Wayne 1,Public Instruction,,DEM,Glenda Ritz,176
+Starke,19-Wayne 2,Public Instruction,,DEM,Glenda Ritz,131
+Starke,20-Wayne 3,Public Instruction,,DEM,Glenda Ritz,207
+Starke,21-Wayne 4,Public Instruction,,DEM,Glenda Ritz,214
+Starke,,Public Instruction,,DEM,Glenda Ritz,3692
+Starke,01-California 1,U.S. House,2,REP,Jackie Walorski,286
+Starke,02-California 2,U.S. House,2,REP,Jackie Walorski,331
+Starke,03-Center 1,U.S. House,2,REP,Jackie Walorski,257
+Starke,04-Center 2,U.S. House,2,REP,Jackie Walorski,174
+Starke,05-Center 3,U.S. House,2,REP,Jackie Walorski,89
+Starke,06-Center 4,U.S. House,2,REP,Jackie Walorski,245
+Starke,07-Center 5,U.S. House,2,REP,Jackie Walorski,404
+Starke,08-Center 6,U.S. House,2,REP,Jackie Walorski,252
+Starke,09-Davis,U.S. House,2,REP,Jackie Walorski,253
+Starke,10-Jackson,U.S. House,2,REP,Jackie Walorski,163
+Starke,11-North Bend,U.S. House,2,REP,Jackie Walorski,380
+Starke,12-Oregon 1,U.S. House,2,REP,Jackie Walorski,344
+Starke,13-Oregon 2,U.S. House,2,REP,Jackie Walorski,290
+Starke,14-Oregon 3,U.S. House,2,REP,Jackie Walorski,207
+Starke,15-Railroad,U.S. House,2,REP,Jackie Walorski,403
+Starke,16-Washington 1,U.S. House,2,REP,Jackie Walorski,308
+Starke,17-Washington 2,U.S. House,2,REP,Jackie Walorski,397
+Starke,18-Wayne 1,U.S. House,2,REP,Jackie Walorski,302
+Starke,19-Wayne 2,U.S. House,2,REP,Jackie Walorski,203
+Starke,20-Wayne 3,U.S. House,2,REP,Jackie Walorski,351
+Starke,21-Wayne 4,U.S. House,2,REP,Jackie Walorski,313
+Starke,,U.S. House,2,REP,Jackie Walorski,5952
+Starke,01-California 1,U.S. House,2,DEM,Lynn Coleman,120
+Starke,02-California 2,U.S. House,2,DEM,Lynn Coleman,135
+Starke,03-Center 1,U.S. House,2,DEM,Lynn Coleman,150
+Starke,04-Center 2,U.S. House,2,DEM,Lynn Coleman,109
+Starke,05-Center 3,U.S. House,2,DEM,Lynn Coleman,46
+Starke,06-Center 4,U.S. House,2,DEM,Lynn Coleman,156
+Starke,07-Center 5,U.S. House,2,DEM,Lynn Coleman,214
+Starke,08-Center 6,U.S. House,2,DEM,Lynn Coleman,107
+Starke,09-Davis,U.S. House,2,DEM,Lynn Coleman,95
+Starke,10-Jackson,U.S. House,2,DEM,Lynn Coleman,65
+Starke,11-North Bend,U.S. House,2,DEM,Lynn Coleman,177
+Starke,12-Oregon 1,U.S. House,2,DEM,Lynn Coleman,163
+Starke,13-Oregon 2,U.S. House,2,DEM,Lynn Coleman,171
+Starke,14-Oregon 3,U.S. House,2,DEM,Lynn Coleman,101
+Starke,15-Railroad,U.S. House,2,DEM,Lynn Coleman,149
+Starke,16-Washington 1,U.S. House,2,DEM,Lynn Coleman,142
+Starke,17-Washington 2,U.S. House,2,DEM,Lynn Coleman,155
+Starke,18-Wayne 1,U.S. House,2,DEM,Lynn Coleman,142
+Starke,19-Wayne 2,U.S. House,2,DEM,Lynn Coleman,112
+Starke,20-Wayne 3,U.S. House,2,DEM,Lynn Coleman,160
+Starke,21-Wayne 4,U.S. House,2,DEM,Lynn Coleman,159
+Starke,,U.S. House,2,DEM,Lynn Coleman,2828
+Starke,01-California 1,U.S. House,2,LBT,Ron Cenkush,16
+Starke,02-California 2,U.S. House,2,LBT,Ron Cenkush,18
+Starke,03-Center 1,U.S. House,2,LBT,Ron Cenkush,20
+Starke,04-Center 2,U.S. House,2,LBT,Ron Cenkush,7
+Starke,05-Center 3,U.S. House,2,LBT,Ron Cenkush,5
+Starke,06-Center 4,U.S. House,2,LBT,Ron Cenkush,12
+Starke,07-Center 5,U.S. House,2,LBT,Ron Cenkush,28
+Starke,08-Center 6,U.S. House,2,LBT,Ron Cenkush,15
+Starke,09-Davis,U.S. House,2,LBT,Ron Cenkush,21
+Starke,10-Jackson,U.S. House,2,LBT,Ron Cenkush,10
+Starke,11-North Bend,U.S. House,2,LBT,Ron Cenkush,24
+Starke,12-Oregon 1,U.S. House,2,LBT,Ron Cenkush,29
+Starke,13-Oregon 2,U.S. House,2,LBT,Ron Cenkush,26
+Starke,14-Oregon 3,U.S. House,2,LBT,Ron Cenkush,10
+Starke,15-Railroad,U.S. House,2,LBT,Ron Cenkush,19
+Starke,16-Washington 1,U.S. House,2,LBT,Ron Cenkush,24
+Starke,17-Washington 2,U.S. House,2,LBT,Ron Cenkush,24
+Starke,18-Wayne 1,U.S. House,2,LBT,Ron Cenkush,9
+Starke,19-Wayne 2,U.S. House,2,LBT,Ron Cenkush,17
+Starke,20-Wayne 3,U.S. House,2,LBT,Ron Cenkush,27
+Starke,21-Wayne 4,U.S. House,2,LBT,Ron Cenkush,29
+Starke,,U.S. House,2,LBT,Ron Cenkush,390
+Starke,01-California 1,U.S. House,2,,write-ins,0
+Starke,02-California 2,U.S. House,2,,write-ins,0
+Starke,03-Center 1,U.S. House,2,,write-ins,0
+Starke,04-Center 2,U.S. House,2,,write-ins,1
+Starke,05-Center 3,U.S. House,2,,write-ins,0
+Starke,06-Center 4,U.S. House,2,,write-ins,0
+Starke,07-Center 5,U.S. House,2,,write-ins,0
+Starke,08-Center 6,U.S. House,2,,write-ins,0
+Starke,09-Davis,U.S. House,2,,write-ins,0
+Starke,10-Jackson,U.S. House,2,,write-ins,0
+Starke,11-North Bend,U.S. House,2,,write-ins,0
+Starke,12-Oregon 1,U.S. House,2,,write-ins,0
+Starke,13-Oregon 2,U.S. House,2,,write-ins,0
+Starke,14-Oregon 3,U.S. House,2,,write-ins,0
+Starke,15-Railroad,U.S. House,2,,write-ins,0
+Starke,16-Washington 1,U.S. House,2,,write-ins,1
+Starke,17-Washington 2,U.S. House,2,,write-ins,0
+Starke,18-Wayne 1,U.S. House,2,,write-ins,0
+Starke,19-Wayne 2,U.S. House,2,,write-ins,0
+Starke,20-Wayne 3,U.S. House,2,,write-ins,1
+Starke,21-Wayne 4,U.S. House,2,,write-ins,0
+Starke,,U.S. House,2,,write-ins,3
+Starke,01-California 1,State Senate,5,REP,Ed Charbonneau,284
+Starke,02-California 2,State Senate,5,REP,Ed Charbonneau,311
+Starke,03-Center 1,State Senate,8,REP,Mike Bohacek,235
+Starke,04-Center 2,State Senate,8,REP,Mike Bohacek,146
+Starke,05-Center 3,State Senate,8,REP,Mike Bohacek,79
+Starke,06-Center 4,State Senate,8,REP,Mike Bohacek,218
+Starke,07-Center 5,State Senate,8,REP,Mike Bohacek,401
+Starke,08-Center 6,State Senate,8,REP,Mike Bohacek,226
+Starke,09-Davis,State Senate,8,REP,Mike Bohacek,250
+Starke,10-Jackson,State Senate,8,REP,Mike Bohacek,154
+Starke,11-North Bend,State Senate,5,REP,Ed Charbonneau,369
+Starke,12-Oregon 1,State Senate,8,REP,Mike Bohacek,336
+Starke,13-Oregon 2,State Senate,8,REP,Mike Bohacek,297
+Starke,14-Oregon 3,State Senate,8,REP,Mike Bohacek,209
+Starke,15-Railroad,State Senate,5,REP,Ed Charbonneau,389
+Starke,16-Washington 1,State Senate,8,REP,Mike Bohacek,284
+Starke,17-Washington 2,State Senate,8,REP,Mike Bohacek,366
+Starke,18-Wayne 1,State Senate,5,REP,Ed Charbonneau,286
+Starke,19-Wayne 2,State Senate,5,REP,Ed Charbonneau,211
+Starke,20-Wayne 3,State Senate,5,REP,Ed Charbonneau,335
+Starke,21-Wayne 4,State Senate,5,REP,Ed Charbonneau,294
+Starke,,State Senate,5,REP,Ed Charbonneau,2479
+Starke,,State Senate,8,REP,Mike Bohacek,3201
+Starke,01-California 1,State Senate,5,DEM,Jim Harper,133
+Starke,02-California 2,State Senate,5,DEM,Jim Harper,156
+Starke,03-Center 1,State Senate,8,DEM,Maxine Spenner,162
+Starke,04-Center 2,State Senate,8,DEM,Maxine Spenner,116
+Starke,05-Center 3,State Senate,8,DEM,Maxine Spenner,57
+Starke,06-Center 4,State Senate,8,DEM,Maxine Spenner,165
+Starke,07-Center 5,State Senate,8,DEM,Maxine Spenner,207
+Starke,08-Center 6,State Senate,8,DEM,Maxine Spenner,130
+Starke,09-Davis,State Senate,8,DEM,Maxine Spenner,103
+Starke,10-Jackson,State Senate,8,DEM,Maxine Spenner,69
+Starke,11-North Bend,State Senate,5,DEM,Jim Harper,195
+Starke,12-Oregon 1,State Senate,8,DEM,Maxine Spenner,165
+Starke,13-Oregon 2,State Senate,8,DEM,Maxine Spenner,167
+Starke,14-Oregon 3,State Senate,8,DEM,Maxine Spenner,86
+Starke,15-Railroad,State Senate,5,DEM,Jim Harper,172
+Starke,16-Washington 1,State Senate,8,DEM,Maxine Spenner,152
+Starke,17-Washington 2,State Senate,8,DEM,Maxine Spenner,169
+Starke,18-Wayne 1,State Senate,5,DEM,Jim Harper,152
+Starke,19-Wayne 2,State Senate,5,DEM,Jim Harper,118
+Starke,20-Wayne 3,State Senate,5,DEM,Jim Harper,188
+Starke,21-Wayne 4,State Senate,5,DEM,Jim Harper,192
+Starke,,State Senate,5,DEM,Jim Harper,1306
+Starke,,State Senate,8,DEM,Maxine Spenner,1748
+Starke,01-California 1,State House,16,REP,Douglas Gutwein,278
+Starke,02-California 2,State House,16,REP,Douglas Gutwein,314
+Starke,03-Center 1,State House,20,REP,Jim Pressel,233
+Starke,04-Center 2,State House,20,REP,Jim Pressel,147
+Starke,05-Center 3,State House,20,REP,Jim Pressel,76
+Starke,06-Center 4,State House,20,REP,Jim Pressel,207
+Starke,07-Center 5,State House,20,REP,Jim Pressel,375
+Starke,08-Center 6,State House,20,REP,Jim Pressel,224
+Starke,09-Davis,State House,20,REP,Jim Pressel,235
+Starke,10-Jackson,State House,20,REP,Jim Pressel,143
+Starke,11-North Bend,State House,16,REP,Douglas Gutwein,357
+Starke,12-Oregon 1,State House,20,REP,Jim Pressel,328
+Starke,13-Oregon 2,State House,20,REP,Jim Pressel,288
+Starke,14-Oregon 3,State House,20,REP,Jim Pressel,215
+Starke,15-Railroad,State House,20,REP,Jim Pressel,361
+Starke,16-Washington 1,State House,20,REP,Jim Pressel,271
+Starke,17-Washington 2,State House,16,REP,Douglas Gutwein,352
+Starke,18-Wayne 1,State House,16,REP,Douglas Gutwein,300
+Starke,19-Wayne 2,State House,16,REP,Douglas Gutwein,189
+Starke,20-Wayne 3,State House,16,REP,Douglas Gutwein,321
+Starke,21-Wayne 4,State House,16,REP,Ron Bacon,296
+Starke,,State House,16,REP,Lloyd Arnold,2407
+Starke,,State House,20,REP,Ron Bacon,3103
+Starke,01-California 1,State House,16,DEM,Richard Ludington,130
+Starke,02-California 2,State House,16,DEM,Richard Ludington,147
+Starke,03-Center 1,State House,20,DEM,Karen Biernacki,167
+Starke,04-Center 2,State House,20,DEM,Karen Biernacki,126
+Starke,05-Center 3,State House,20,DEM,Karen Biernacki,55
+Starke,06-Center 4,State House,20,DEM,Karen Biernacki,182
+Starke,07-Center 5,State House,20,DEM,Karen Biernacki,225
+Starke,08-Center 6,State House,20,DEM,Karen Biernacki,134
+Starke,09-Davis,State House,20,DEM,Karen Biernacki,118
+Starke,10-Jackson,State House,20,DEM,Karen Biernacki,82
+Starke,11-North Bend,State House,16,DEM,Richard Ludington,192
+Starke,12-Oregon 1,State House,20,DEM,Karen Biernacki,175
+Starke,13-Oregon 2,State House,20,DEM,Karen Biernacki,174
+Starke,14-Oregon 3,State House,20,DEM,Karen Biernacki,84
+Starke,15-Railroad,State House,20,DEM,Karen Biernacki,179
+Starke,16-Washington 1,State House,20,DEM,Karen Biernacki,159
+Starke,17-Washington 2,State House,16,DEM,Richard Ludington,181
+Starke,18-Wayne 1,State House,16,DEM,Richard Ludington,133
+Starke,19-Wayne 2,State House,16,DEM,Richard Ludington,133
+Starke,20-Wayne 3,State House,16,DEM,Richard Ludington,194
+Starke,21-Wayne 4,State House,16,DEM,Pete Rapp,183
+Starke,,State House,16,DEM,Larry Kleeman,1293
+Starke,,State House,20,DEM,Pete Rapp,1860
+Starke,03-Center 1,State House,20,LBT,Aurea Torres,13
+Starke,04-Center 2,State House,20,LBT,Aurea Torres,5
+Starke,05-Center 3,State House,20,LBT,Aurea Torres,9
+Starke,06-Center 4,State House,20,LBT,Aurea Torres,13
+Starke,07-Center 5,State House,20,LBT,Aurea Torres,25
+Starke,08-Center 6,State House,20,LBT,Aurea Torres,12
+Starke,09-Davis,State House,20,LBT,Aurea Torres,13
+Starke,10-Jackson,State House,20,LBT,Aurea Torres,8
+Starke,12-Oregon 1,State House,20,LBT,Aurea Torres,16
+Starke,13-Oregon 2,State House,20,LBT,Aurea Torres,16
+Starke,14-Oregon 3,State House,20,LBT,Aurea Torres,3
+Starke,15-Railroad,State House,20,LBT,Aurea Torres,21
+Starke,16-Washington 1,State House,20,LBT,Aurea Torres,29
+Starke,,State House,20,LBT,Aurea Torres,183

@@ -1,0 +1,398 @@
+county,precinct,office,district,party,candidate,votes
+Vermillion,Clinton  City  1,Voters,,,Registration,837
+Vermillion,Clinton  City  2,Voters,,,Registration,671
+Vermillion,Clinton  City  3,Voters,,,Registration,700
+Vermillion,Clinton  City  4,Voters,,,Registration,701
+Vermillion,Clinton  Twp  1,Voters,,,Registration,466
+Vermillion,Clinton  Twp  2,Voters,,,Registration,618
+Vermillion,Clinton  Twp  3,Voters,,,Registration,688
+Vermillion,Fairview  1,Voters,,,Registration,400
+Vermillion,Fairview  2,Voters,,,Registration,607
+Vermillion,Cayuga,Voters,,,Registration,565
+Vermillion,Eugene,Voters,,,Registration,538
+Vermillion,Dana,Voters,,,Registration,462
+Vermillion,East Helt,Voters,,,Registration,589
+Vermillion,St  Bernice,Voters,,,Registration,605
+Vermillion,Highnland,Voters,,,Registration,1053
+Vermillion,Vermillion  1,Voters,,,Registration,341
+Vermillion,Vermillion  2,Voters,,,Registration,324
+Vermillion,,Voters,,,Registration,10265
+Vermillion,Clinton  City  1,Voters,,,Ballots Cast,505
+Vermillion,Clinton  City  2,Voters,,,Ballots Cast,374
+Vermillion,Clinton  City  3,Voters,,,Ballots Cast,460
+Vermillion,Clinton  City  4,Voters,,,Ballots Cast,460
+Vermillion,Clinton  Twp  1,Voters,,,Ballots Cast,363
+Vermillion,Clinton  Twp  2,Voters,,,Ballots Cast,463
+Vermillion,Clinton  Twp  3,Voters,,,Ballots Cast,525
+Vermillion,Fairview  1,Voters,,,Ballots Cast,291
+Vermillion,Fairview  2,Voters,,,Ballots Cast,430
+Vermillion,Cayuga,Voters,,,Ballots Cast,453
+Vermillion,Eugene,Voters,,,Ballots Cast,389
+Vermillion,Dana,Voters,,,Ballots Cast,329
+Vermillion,East Helt,Voters,,,Ballots Cast,454
+Vermillion,St  Bernice,Voters,,,Ballots Cast,435
+Vermillion,Highnland,Voters,,,Ballots Cast,720
+Vermillion,Vermillion  1,Voters,,,Ballots Cast,257
+Vermillion,Vermillion  2,Voters,,,Ballots Cast,239
+Vermillion,,Voters,,,Ballots Cast,7147
+Vermillion,Clinton  City  1,President,,REP,Donald Trump,274
+Vermillion,Clinton  City  2,President,,REP,Donald Trump,220
+Vermillion,Clinton  City  3,President,,REP,Donald Trump,248
+Vermillion,Clinton  City  4,President,,REP,Donald Trump,272
+Vermillion,Clinton  Twp  1,President,,REP,Donald Trump,234
+Vermillion,Clinton  Twp  2,President,,REP,Donald Trump,230
+Vermillion,Clinton  Twp  3,President,,REP,Donald Trump,317
+Vermillion,Fairview  1,President,,REP,Donald Trump,179
+Vermillion,Fairview  2,President,,REP,Donald Trump,242
+Vermillion,Cayuga,President,,REP,Donald Trump,286
+Vermillion,Eugene,President,,REP,Donald Trump,272
+Vermillion,Dana,President,,REP,Donald Trump,228
+Vermillion,East Helt,President,,REP,Donald Trump,301
+Vermillion,St  Bernice,President,,REP,Donald Trump,279
+Vermillion,Highnland,President,,REP,Donald Trump,538
+Vermillion,Vermillion  1,President,,REP,Donald Trump,158
+Vermillion,Vermillion  2,President,,REP,Donald Trump,185
+Vermillion,,President,,REP,Donald Trump,4513
+Vermillion,Clinton  City  1,President,,DEM,Hillary Clinton,185
+Vermillion,Clinton  City  2,President,,DEM,Hillary Clinton,123
+Vermillion,Clinton  City  3,President,,DEM,Hillary Clinton,157
+Vermillion,Clinton  City  4,President,,DEM,Hillary Clinton,153
+Vermillion,Clinton  Twp  1,President,,DEM,Hillary Clinton,106
+Vermillion,Clinton  Twp  2,President,,DEM,Hillary Clinton,145
+Vermillion,Clinton  Twp  3,President,,DEM,Hillary Clinton,166
+Vermillion,Fairview  1,President,,DEM,Hillary Clinton,90
+Vermillion,Fairview  2,President,,DEM,Hillary Clinton,155
+Vermillion,Cayuga,President,,DEM,Hillary Clinton,134
+Vermillion,Eugene,President,,DEM,Hillary Clinton,84
+Vermillion,Dana,President,,DEM,Hillary Clinton,85
+Vermillion,East Helt,President,,DEM,Hillary Clinton,118
+Vermillion,St  Bernice,President,,DEM,Hillary Clinton,122
+Vermillion,Highnland,President,,DEM,Hillary Clinton,143
+Vermillion,Vermillion  1,President,,DEM,Hillary Clinton,76
+Vermillion,Vermillion  2,President,,DEM,Hillary Clinton,39
+Vermillion,,President,,DEM,Hillary Clinton,2081
+Vermillion,Clinton  City  1,President,,LBT,Gary Johnson,29
+Vermillion,Clinton  City  2,President,,LBT,Gary Johnson,20
+Vermillion,Clinton  City  3,President,,LBT,Gary Johnson,37
+Vermillion,Clinton  City  4,President,,LBT,Gary Johnson,22
+Vermillion,Clinton  Twp  1,President,,LBT,Gary Johnson,14
+Vermillion,Clinton  Twp  2,President,,LBT,Gary Johnson,19
+Vermillion,Clinton  Twp  3,President,,LBT,Gary Johnson,28
+Vermillion,Fairview  1,President,,LBT,Gary Johnson,14
+Vermillion,Fairview  2,President,,LBT,Gary Johnson,19
+Vermillion,Cayuga,President,,LBT,Gary Johnson,13
+Vermillion,Eugene,President,,LBT,Gary Johnson,16
+Vermillion,Dana,President,,LBT,Gary Johnson,11
+Vermillion,East Helt,President,,LBT,Gary Johnson,22
+Vermillion,St  Bernice,President,,LBT,Gary Johnson,17
+Vermillion,Highnland,President,,LBT,Gary Johnson,23
+Vermillion,Vermillion  1,President,,LBT,Gary Johnson,13
+Vermillion,Vermillion  2,President,,LBT,Gary Johnson,4
+Vermillion,,President,,LBT,Gary Johnson,321
+Vermillion,Clinton  City  1,President,,,WriWrite-inss,4
+Vermillion,Clinton  City  2,President,,,WriWrite-inss,1
+Vermillion,Clinton  City  3,President,,,WriWrite-inss,5
+Vermillion,Clinton  City  4,President,,,WriWrite-inss,6
+Vermillion,Clinton  Twp  1,President,,,WriWrite-inss,2
+Vermillion,Clinton  Twp  2,President,,,WriWrite-inss,3
+Vermillion,Clinton  Twp  3,President,,,WriWrite-inss,5
+Vermillion,Fairview  1,President,,,WriWrite-inss,1
+Vermillion,Fairview  2,President,,,WriWrite-inss,2
+Vermillion,Cayuga,President,,,WriWrite-inss,4
+Vermillion,Eugene,President,,,WriWrite-inss,1
+Vermillion,Dana,President,,,WriWrite-inss,2
+Vermillion,East Helt,President,,,WriWrite-inss,4
+Vermillion,St  Bernice,President,,,WriWrite-inss,6
+Vermillion,Highnland,President,,,WriWrite-inss,4
+Vermillion,Vermillion  1,President,,,WriWrite-inss,4
+Vermillion,Vermillion  2,President,,,WriWrite-inss,4
+Vermillion,,President,,,WriWrite-inss,58
+Vermillion,Clinton  City  1,U.S. Senate,,REP,Todd Young,255
+Vermillion,Clinton  City  2,U.S. Senate,,REP,Todd Young,179
+Vermillion,Clinton  City  3,U.S. Senate,,REP,Todd Young,238
+Vermillion,Clinton  City  4,U.S. Senate,,REP,Todd Young,232
+Vermillion,Clinton  Twp  1,U.S. Senate,,REP,Todd Young,163
+Vermillion,Clinton  Twp  2,U.S. Senate,,REP,Todd Young,229
+Vermillion,Clinton  Twp  3,U.S. Senate,,REP,Todd Young,265
+Vermillion,Fairview  1,U.S. Senate,,REP,Todd Young,157
+Vermillion,Fairview  2,U.S. Senate,,REP,Todd Young,210
+Vermillion,Cayuga,U.S. Senate,,REP,Todd Young,214
+Vermillion,Eugene,U.S. Senate,,REP,Todd Young,145
+Vermillion,Dana,U.S. Senate,,REP,Todd Young,130
+Vermillion,East Helt,U.S. Senate,,REP,Todd Young,182
+Vermillion,St  Bernice,U.S. Senate,,REP,Todd Young,186
+Vermillion,Highnland,U.S. Senate,,REP,Todd Young,215
+Vermillion,Vermillion  1,U.S. Senate,,REP,Todd Young,118
+Vermillion,Vermillion  2,U.S. Senate,,REP,Todd Young,79
+Vermillion,,U.S. Senate,,REP,Todd Young,3197
+Vermillion,Clinton  City  1,U.S. Senate,,DEM,Evan Bayh,191
+Vermillion,Clinton  City  2,U.S. Senate,,DEM,Evan Bayh,147
+Vermillion,Clinton  City  3,U.S. Senate,,DEM,Evan Bayh,170
+Vermillion,Clinton  City  4,U.S. Senate,,DEM,Evan Bayh,182
+Vermillion,Clinton  Twp  1,U.S. Senate,,DEM,Evan Bayh,167
+Vermillion,Clinton  Twp  2,U.S. Senate,,DEM,Evan Bayh,183
+Vermillion,Clinton  Twp  3,U.S. Senate,,DEM,Evan Bayh,217
+Vermillion,Fairview  1,U.S. Senate,,DEM,Evan Bayh,109
+Vermillion,Fairview  2,U.S. Senate,,DEM,Evan Bayh,383
+Vermillion,Cayuga,U.S. Senate,,DEM,Evan Bayh,186
+Vermillion,Eugene,U.S. Senate,,DEM,Evan Bayh,208
+Vermillion,Dana,U.S. Senate,,DEM,Evan Bayh,168
+Vermillion,East Helt,U.S. Senate,,DEM,Evan Bayh,223
+Vermillion,St  Bernice,U.S. Senate,,DEM,Evan Bayh,207
+Vermillion,Highnland,U.S. Senate,,DEM,Evan Bayh,449
+Vermillion,Vermillion  1,U.S. Senate,,DEM,Evan Bayh,107
+Vermillion,Vermillion  2,U.S. Senate,,DEM,Evan Bayh,150
+Vermillion,,U.S. Senate,,DEM,Evan Bayh,3247
+Vermillion,Clinton  City  1,U.S. Senate,,LBT,Lucy Brenton,33
+Vermillion,Clinton  City  2,U.S. Senate,,LBT,Lucy Brenton,33
+Vermillion,Clinton  City  3,U.S. Senate,,LBT,Lucy Brenton,34
+Vermillion,Clinton  City  4,U.S. Senate,,LBT,Lucy Brenton,28
+Vermillion,Clinton  Twp  1,U.S. Senate,,LBT,Lucy Brenton,22
+Vermillion,Clinton  Twp  2,U.S. Senate,,LBT,Lucy Brenton,33
+Vermillion,Clinton  Twp  3,U.S. Senate,,LBT,Lucy Brenton,32
+Vermillion,Fairview  1,U.S. Senate,,LBT,Lucy Brenton,18
+Vermillion,Fairview  2,U.S. Senate,,LBT,Lucy Brenton,22
+Vermillion,Cayuga,U.S. Senate,,LBT,Lucy Brenton,31
+Vermillion,Eugene,U.S. Senate,,LBT,Lucy Brenton,19
+Vermillion,Dana,U.S. Senate,,LBT,Lucy Brenton,21
+Vermillion,East Helt,U.S. Senate,,LBT,Lucy Brenton,36
+Vermillion,St  Bernice,U.S. Senate,,LBT,Lucy Brenton,28
+Vermillion,Highnland,U.S. Senate,,LBT,Lucy Brenton,39
+Vermillion,Vermillion  1,U.S. Senate,,LBT,Lucy Brenton,23
+Vermillion,Vermillion  2,U.S. Senate,,LBT,Lucy Brenton,3
+Vermillion,,U.S. Senate,,LBT,Lucy Brenton,455
+Vermillion,Clinton  City  1,U.S. Senate,,,Write-ins,1
+Vermillion,Clinton  City  2,U.S. Senate,,,Write-ins,0
+Vermillion,Clinton  City  3,U.S. Senate,,,Write-ins,0
+Vermillion,Clinton  City  4,U.S. Senate,,,Write-ins,0
+Vermillion,Clinton  Twp  1,U.S. Senate,,,Write-ins,0
+Vermillion,Clinton  Twp  2,U.S. Senate,,,Write-ins,0
+Vermillion,Clinton  Twp  3,U.S. Senate,,,Write-ins,1
+Vermillion,Fairview  1,U.S. Senate,,,Write-ins,0
+Vermillion,Fairview  2,U.S. Senate,,,Write-ins,0
+Vermillion,Cayuga,U.S. Senate,,,Write-ins,0
+Vermillion,Eugene,U.S. Senate,,,Write-ins,0
+Vermillion,Dana,U.S. Senate,,,Write-ins,0
+Vermillion,East Helt,U.S. Senate,,,Write-ins,0
+Vermillion,St  Bernice,U.S. Senate,,,Write-ins,0
+Vermillion,Highnland,U.S. Senate,,,Write-ins,0
+Vermillion,Vermillion  1,U.S. Senate,,,Write-ins,0
+Vermillion,Vermillion  2,U.S. Senate,,,Write-ins,1
+Vermillion,,U.S. Senate,,,Write-ins,3
+Vermillion,Clinton  City  1,Governor,,REP,Eric Holcomb,201
+Vermillion,Clinton  City  2,Governor,,REP,Eric Holcomb,150
+Vermillion,Clinton  City  3,Governor,,REP,Eric Holcomb,172
+Vermillion,Clinton  City  4,Governor,,REP,Eric Holcomb,189
+Vermillion,Clinton  Twp  1,Governor,,REP,Eric Holcomb,164
+Vermillion,Clinton  Twp  2,Governor,,REP,Eric Holcomb,199
+Vermillion,Clinton  Twp  3,Governor,,REP,Eric Holcomb,221
+Vermillion,Fairview  1,Governor,,REP,Eric Holcomb,112
+Vermillion,Fairview  2,Governor,,REP,Eric Holcomb,181
+Vermillion,Cayuga,Governor,,REP,Eric Holcomb,207
+Vermillion,Eugene,Governor,,REP,Eric Holcomb,209
+Vermillion,Dana,Governor,,REP,Eric Holcomb,174
+Vermillion,East Helt,Governor,,REP,Eric Holcomb,216
+Vermillion,St  Bernice,Governor,,REP,Eric Holcomb,194
+Vermillion,Highnland,Governor,,REP,Eric Holcomb,448
+Vermillion,Vermillion  1,Governor,,REP,Eric Holcomb,101
+Vermillion,Vermillion  2,Governor,,REP,Eric Holcomb,141
+Vermillion,,Governor,,REP,Eric Holcomb,3279
+Vermillion,Clinton  City  1,Governor,,DEM,John Gregg,262
+Vermillion,Clinton  City  2,Governor,,DEM,John Gregg,192
+Vermillion,Clinton  City  3,Governor,,DEM,John Gregg,247
+Vermillion,Clinton  City  4,Governor,,DEM,John Gregg,238
+Vermillion,Clinton  Twp  1,Governor,,DEM,John Gregg,172
+Vermillion,Clinton  Twp  2,Governor,,DEM,John Gregg,230
+Vermillion,Clinton  Twp  3,Governor,,DEM,John Gregg,275
+Vermillion,Fairview  1,Governor,,DEM,John Gregg,157
+Vermillion,Fairview  2,Governor,,DEM,John Gregg,219
+Vermillion,Cayuga,Governor,,DEM,John Gregg,213
+Vermillion,Eugene,Governor,,DEM,John Gregg,152
+Vermillion,Dana,Governor,,DEM,John Gregg,138
+Vermillion,East Helt,Governor,,DEM,John Gregg,207
+Vermillion,St  Bernice,Governor,,DEM,John Gregg,207
+Vermillion,Highnland,Governor,,DEM,John Gregg,221
+Vermillion,Vermillion  1,Governor,,DEM,John Gregg,128
+Vermillion,Vermillion  2,Governor,,DEM,John Gregg,81
+Vermillion,,Governor,,DEM,John Gregg,3339
+Vermillion,Clinton  City  1,Governor,,LBT,Rex Bell,16
+Vermillion,Clinton  City  2,Governor,,LBT,Rex Bell,17
+Vermillion,Clinton  City  3,Governor,,LBT,Rex Bell,23
+Vermillion,Clinton  City  4,Governor,,LBT,Rex Bell,22
+Vermillion,Clinton  Twp  1,Governor,,LBT,Rex Bell,12
+Vermillion,Clinton  Twp  2,Governor,,LBT,Rex Bell,13
+Vermillion,Clinton  Twp  3,Governor,,LBT,Rex Bell,15
+Vermillion,Fairview  1,Governor,,LBT,Rex Bell,16
+Vermillion,Fairview  2,Governor,,LBT,Rex Bell,11
+Vermillion,Cayuga,Governor,,LBT,Rex Bell,15
+Vermillion,Eugene,Governor,,LBT,Rex Bell,13
+Vermillion,Dana,Governor,,LBT,Rex Bell,11
+Vermillion,East Helt,Governor,,LBT,Rex Bell,15
+Vermillion,St  Bernice,Governor,,LBT,Rex Bell,14
+Vermillion,Highnland,Governor,,LBT,Rex Bell,30
+Vermillion,Vermillion  1,Governor,,LBT,Rex Bell,10
+Vermillion,Vermillion  2,Governor,,LBT,Rex Bell,4
+Vermillion,,Governor,,LBT,Rex Bell,257
+Vermillion,Clinton  City  1,Attorney General,,REP,Curtis Hill,249
+Vermillion,Clinton  City  2,Attorney General,,REP,Curtis Hill,185
+Vermillion,Clinton  City  3,Attorney General,,REP,Curtis Hill,230
+Vermillion,Clinton  City  4,Attorney General,,REP,Curtis Hill,238
+Vermillion,Clinton  Twp  1,Attorney General,,REP,Curtis Hill,202
+Vermillion,Clinton  Twp  2,Attorney General,,REP,Curtis Hill,235
+Vermillion,Clinton  Twp  3,Attorney General,,REP,Curtis Hill,278
+Vermillion,Fairview  1,Attorney General,,REP,Curtis Hill,157
+Vermillion,Fairview  2,Attorney General,,REP,Curtis Hill,225
+Vermillion,Cayuga,Attorney General,,REP,Curtis Hill,240
+Vermillion,Eugene,Attorney General,,REP,Curtis Hill,246
+Vermillion,Dana,Attorney General,,REP,Curtis Hill,203
+Vermillion,East Helt,Attorney General,,REP,Curtis Hill,276
+Vermillion,St  Bernice,Attorney General,,REP,Curtis Hill,253
+Vermillion,Highnland,Attorney General,,REP,Curtis Hill,507
+Vermillion,Vermillion  1,Attorney General,,REP,Curtis Hill,122
+Vermillion,Vermillion  2,Attorney General,,REP,Curtis Hill,161
+Vermillion,,Attorney General,,REP,Curtis Hill,4012
+Vermillion,Clinton  City  1,Attorney General,,DEM,Lorenzo Arredondo,207
+Vermillion,Clinton  City  2,Attorney General,,DEM,Lorenzo Arredondo,162
+Vermillion,Clinton  City  3,Attorney General,,DEM,Lorenzo Arredondo,195
+Vermillion,Clinton  City  4,Attorney General,,DEM,Lorenzo Arredondo,187
+Vermillion,Clinton  Twp  1,Attorney General,,DEM,Lorenzo Arredondo,134
+Vermillion,Clinton  Twp  2,Attorney General,,DEM,Lorenzo Arredondo,180
+Vermillion,Clinton  Twp  3,Attorney General,,DEM,Lorenzo Arredondo,216
+Vermillion,Fairview  1,Attorney General,,DEM,Lorenzo Arredondo,107
+Vermillion,Fairview  2,Attorney General,,DEM,Lorenzo Arredondo,170
+Vermillion,Cayuga,Attorney General,,DEM,Lorenzo Arredondo,171
+Vermillion,Eugene,Attorney General,,DEM,Lorenzo Arredondo,112
+Vermillion,Dana,Attorney General,,DEM,Lorenzo Arredondo,104
+Vermillion,East Helt,Attorney General,,DEM,Lorenzo Arredondo,140
+Vermillion,St  Bernice,Attorney General,,DEM,Lorenzo Arredondo,148
+Vermillion,Highnland,Attorney General,,DEM,Lorenzo Arredondo,175
+Vermillion,Vermillion  1,Attorney General,,DEM,Lorenzo Arredondo,109
+Vermillion,Vermillion  2,Attorney General,,DEM,Lorenzo Arredondo,51
+Vermillion,,Attorney General,,DEM,Lorenzo Arredondo,2568
+Vermillion,Clinton  City  1,Public Instruction,,REP,Jennifer McCormick,102
+Vermillion,Clinton  City  2,Public Instruction,,REP,Jennifer McCormick,167
+Vermillion,Clinton  City  3,Public Instruction,,REP,Jennifer McCormick,175
+Vermillion,Clinton  City  4,Public Instruction,,REP,Jennifer McCormick,201
+Vermillion,Clinton  Twp  1,Public Instruction,,REP,Jennifer McCormick,166
+Vermillion,Clinton  Twp  2,Public Instruction,,REP,Jennifer McCormick,200
+Vermillion,Clinton  Twp  3,Public Instruction,,REP,Jennifer McCormick,212
+Vermillion,Fairview  1,Public Instruction,,REP,Jennifer McCormick,116
+Vermillion,Fairview  2,Public Instruction,,REP,Jennifer McCormick,171
+Vermillion,Cayuga,Public Instruction,,REP,Jennifer McCormick,207
+Vermillion,Eugene,Public Instruction,,REP,Jennifer McCormick,200
+Vermillion,Dana,Public Instruction,,REP,Jennifer McCormick,177
+Vermillion,East Helt,Public Instruction,,REP,Jennifer McCormick,216
+Vermillion,St  Bernice,Public Instruction,,REP,Jennifer McCormick,184
+Vermillion,Highnland,Public Instruction,,REP,Jennifer McCormick,449
+Vermillion,Vermillion  1,Public Instruction,,REP,Jennifer McCormick,93
+Vermillion,Vermillion  2,Public Instruction,,REP,Jennifer McCormick,129
+Vermillion,,Public Instruction,,REP,Jennifer McCormick,3265
+Vermillion,Clinton  City  1,Public Instruction,,DEM,Glenda Ritz,277
+Vermillion,Clinton  City  2,Public Instruction,,DEM,Glenda Ritz,183
+Vermillion,Clinton  City  3,Public Instruction,,DEM,Glenda Ritz,260
+Vermillion,Clinton  City  4,Public Instruction,,DEM,Glenda Ritz,236
+Vermillion,Clinton  Twp  1,Public Instruction,,DEM,Glenda Ritz,179
+Vermillion,Clinton  Twp  2,Public Instruction,,DEM,Glenda Ritz,233
+Vermillion,Clinton  Twp  3,Public Instruction,,DEM,Glenda Ritz,291
+Vermillion,Fairview  1,Public Instruction,,DEM,Glenda Ritz,166
+Vermillion,Fairview  2,Public Instruction,,DEM,Glenda Ritz,238
+Vermillion,Cayuga,Public Instruction,,DEM,Glenda Ritz,217
+Vermillion,Eugene,Public Instruction,,DEM,Glenda Ritz,161
+Vermillion,Dana,Public Instruction,,DEM,Glenda Ritz,139
+Vermillion,East Helt,Public Instruction,,DEM,Glenda Ritz,216
+Vermillion,St  Bernice,Public Instruction,,DEM,Glenda Ritz,230
+Vermillion,Highnland,Public Instruction,,DEM,Glenda Ritz,236
+Vermillion,Vermillion  1,Public Instruction,,DEM,Glenda Ritz,144
+Vermillion,Vermillion  2,Public Instruction,,DEM,Glenda Ritz,88
+Vermillion,,Public Instruction,,DEM,Glenda Ritz,3494
+Vermillion,Clinton  City  1,U.S. House,8,REP,Larry Bucshon,231
+Vermillion,Clinton  City  2,U.S. House,8,REP,Larry Bucshon,175
+Vermillion,Clinton  City  3,U.S. House,8,REP,Larry Bucshon,229
+Vermillion,Clinton  City  4,U.S. House,8,REP,Larry Bucshon,228
+Vermillion,Clinton  Twp  1,U.S. House,8,REP,Larry Bucshon,190
+Vermillion,Clinton  Twp  2,U.S. House,8,REP,Larry Bucshon,258
+Vermillion,Clinton  Twp  3,U.S. House,8,REP,Larry Bucshon,256
+Vermillion,Fairview  1,U.S. House,8,REP,Larry Bucshon,151
+Vermillion,Fairview  2,U.S. House,8,REP,Larry Bucshon,219
+Vermillion,Cayuga,U.S. House,8,REP,Larry Bucshon,232
+Vermillion,Eugene,U.S. House,8,REP,Larry Bucshon,234
+Vermillion,Dana,U.S. House,8,REP,Larry Bucshon,201
+Vermillion,East Helt,U.S. House,8,REP,Larry Bucshon,261
+Vermillion,St  Bernice,U.S. House,8,REP,Larry Bucshon,230
+Vermillion,Highnland,U.S. House,8,REP,Larry Bucshon,475
+Vermillion,Vermillion  1,U.S. House,8,REP,Larry Bucshon,104
+Vermillion,Vermillion  2,U.S. House,8,REP,Larry Bucshon,152
+Vermillion,,U.S. House,8,REP,Larry Bucshon,3826
+Vermillion,Clinton  City  1,U.S. House,8,DEM,Ron Drake,204
+Vermillion,Clinton  City  2,U.S. House,8,DEM,Ron Drake,146
+Vermillion,Clinton  City  3,U.S. House,8,DEM,Ron Drake,176
+Vermillion,Clinton  City  4,U.S. House,8,DEM,Ron Drake,180
+Vermillion,Clinton  Twp  1,U.S. House,8,DEM,Ron Drake,139
+Vermillion,Clinton  Twp  2,U.S. House,8,DEM,Ron Drake,156
+Vermillion,Clinton  Twp  3,U.S. House,8,DEM,Ron Drake,212
+Vermillion,Fairview  1,U.S. House,8,DEM,Ron Drake,111
+Vermillion,Fairview  2,U.S. House,8,DEM,Ron Drake,168
+Vermillion,Cayuga,U.S. House,8,DEM,Ron Drake,166
+Vermillion,Eugene,U.S. House,8,DEM,Ron Drake,121
+Vermillion,Dana,U.S. House,8,DEM,Ron Drake,104
+Vermillion,East Helt,U.S. House,8,DEM,Ron Drake,139
+Vermillion,St  Bernice,U.S. House,8,DEM,Ron Drake,161
+Vermillion,Highnland,U.S. House,8,DEM,Ron Drake,172
+Vermillion,Vermillion  1,U.S. House,8,DEM,Ron Drake,117
+Vermillion,Vermillion  2,U.S. House,8,DEM,Ron Drake,58
+Vermillion,,U.S. House,8,DEM,Ron Drake,2530
+Vermillion,Clinton  City  1,U.S. House,8,LBT,Andrew Horning,24
+Vermillion,Clinton  City  2,U.S. House,8,LBT,Andrew Horning,29
+Vermillion,Clinton  City  3,U.S. House,8,LBT,Andrew Horning,29
+Vermillion,Clinton  City  4,U.S. House,8,LBT,Andrew Horning,27
+Vermillion,Clinton  Twp  1,U.S. House,8,LBT,Andrew Horning,17
+Vermillion,Clinton  Twp  2,U.S. House,8,LBT,Andrew Horning,16
+Vermillion,Clinton  Twp  3,U.S. House,8,LBT,Andrew Horning,31
+Vermillion,Fairview  1,U.S. House,8,LBT,Andrew Horning,18
+Vermillion,Fairview  2,U.S. House,8,LBT,Andrew Horning,19
+Vermillion,Cayuga,U.S. House,8,LBT,Andrew Horning,19
+Vermillion,Eugene,U.S. House,8,LBT,Andrew Horning,16
+Vermillion,Dana,U.S. House,8,LBT,Andrew Horning,11
+Vermillion,East Helt,U.S. House,8,LBT,Andrew Horning,30
+Vermillion,St  Bernice,U.S. House,8,LBT,Andrew Horning,21
+Vermillion,Highnland,U.S. House,8,LBT,Andrew Horning,36
+Vermillion,Vermillion  1,U.S. House,8,LBT,Andrew Horning,17
+Vermillion,Vermillion  2,U.S. House,8,LBT,Andrew Horning,3
+Vermillion,,U.S. House,8,LBT,Andrew Horning,365
+Vermillion,Clinton  City  4,U.S. House,8,,Write-ins,1
+Vermillion,Clinton  City  1,State House,42,REP,Alan Morrison,197
+Vermillion,Clinton  City  2,State House,42,REP,Alan Morrison,151
+Vermillion,Clinton  City  3,State House,42,REP,Alan Morrison,183
+Vermillion,Clinton  City  4,State House,42,REP,Alan Morrison,207
+Vermillion,Clinton  Twp  1,State House,42,REP,Alan Morrison,170
+Vermillion,Clinton  Twp  2,State House,42,REP,Alan Morrison,199
+Vermillion,Clinton  Twp  3,State House,42,REP,Alan Morrison,227
+Vermillion,Fairview  1,State House,42,REP,Alan Morrison,114
+Vermillion,Fairview  2,State House,42,REP,Alan Morrison,186
+Vermillion,Cayuga,State House,42,REP,Alan Morrison,222
+Vermillion,Eugene,State House,42,REP,Alan Morrison,219
+Vermillion,Dana,State House,42,REP,Alan Morrison,165
+Vermillion,East Helt,State House,42,REP,Alan Morrison,232
+Vermillion,St  Bernice,State House,42,REP,Alan Morrison,199
+Vermillion,Highnland,State House,42,REP,Alan Morrison,467
+Vermillion,Vermillion  1,State House,42,REP,Alan Morrison,111
+Vermillion,Vermillion  2,State House,42,REP,Alan Morrison,142
+Vermillion,,State House,42,REP,Alan Morrison,3391
+Vermillion,Clinton  City  1,State House,42,DEM,Tim Skinner,280
+Vermillion,Clinton  City  2,State House,42,DEM,Tim Skinner,204
+Vermillion,Clinton  City  3,State House,42,DEM,Tim Skinner,249
+Vermillion,Clinton  City  4,State House,42,DEM,Tim Skinner,231
+Vermillion,Clinton  Twp  1,State House,42,DEM,Tim Skinner,179
+Vermillion,Clinton  Twp  2,State House,42,DEM,Tim Skinner,232
+Vermillion,Clinton  Twp  3,State House,42,DEM,Tim Skinner,281
+Vermillion,Fairview  1,State House,42,DEM,Tim Skinner,162
+Vermillion,Fairview  2,State House,42,DEM,Tim Skinner,218
+Vermillion,Cayuga,State House,42,DEM,Tim Skinner,207
+Vermillion,Eugene,State House,42,DEM,Tim Skinner,153
+Vermillion,Dana,State House,42,DEM,Tim Skinner,148
+Vermillion,East Helt,State House,42,DEM,Tim Skinner,204
+Vermillion,St  Bernice,State House,42,DEM,Tim Skinner,214
+Vermillion,Highnland,State House,42,DEM,Tim Skinner,218
+Vermillion,Vermillion  1,State House,42,DEM,Tim Skinner,129
+Vermillion,Vermillion  2,State House,42,DEM,Tim Skinner,80
+Vermillion,,State House,42,DEM,Tim Skinner,3389

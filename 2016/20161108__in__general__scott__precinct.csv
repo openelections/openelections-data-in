@@ -1,0 +1,380 @@
+county,precinct,office,district,party,candidate,votes
+Scott,01-Finley,Voters,,,Registered,1234
+Scott,02-Jennings 1,Voters,,,Registered,1111
+Scott,03-Jennings 2,Voters,,,Registered,1089
+Scott,04-Jennings 3,Voters,,,Registered,1339
+Scott,05-Jennings 4,Voters,,,Registered,1149
+Scott,06-Jennings 5,Voters,,,Registered,753
+Scott,07-Johnson 1,Voters,,,Registered,1882
+Scott,08-Lexington 1,Voters,,,Registered,1351
+Scott,09-Lexington 2,Voters,,,Registered,1187
+Scott,10-Lexington 3,Voters,,,Registered,195
+Scott,11-Vienna 1,Voters,,,Registered,1588
+Scott,12-Vienna 2,Voters,,,Registered,1369
+Scott,13-Vienna 3,Voters,,,Registered,1293
+Scott,14-Vienna 4,Voters,,,Registered,1554
+Scott,15-Vienna 5,Voters,,,Registered,1500
+Scott,16-Vienna 6,Voters,,,Registered,1163
+Scott,,Voters,,,Registered,19757
+Scott,01-Finley,Voters,,,Ballots Cast,756
+Scott,02-Jennings 1,Voters,,,Ballots Cast,367
+Scott,03-Jennings 2,Voters,,,Ballots Cast,362
+Scott,04-Jennings 3,Voters,,,Ballots Cast,433
+Scott,05-Jennings 4,Voters,,,Ballots Cast,587
+Scott,06-Jennings 5,Voters,,,Ballots Cast,356
+Scott,07-Johnson 1,Voters,,,Ballots Cast,941
+Scott,08-Lexington 1,Voters,,,Ballots Cast,692
+Scott,09-Lexington 2,Voters,,,Ballots Cast,621
+Scott,10-Lexington 3,Voters,,,Ballots Cast,108
+Scott,11-Vienna 1,Voters,,,Ballots Cast,862
+Scott,12-Vienna 2,Voters,,,Ballots Cast,566
+Scott,13-Vienna 3,Voters,,,Ballots Cast,491
+Scott,14-Vienna 4,Voters,,,Ballots Cast,674
+Scott,15-Vienna 5,Voters,,,Ballots Cast,782
+Scott,16-Vienna 6,Voters,,,Ballots Cast,670
+Scott,,Voters,,,Ballots Cast,9268
+Scott,01-Finley,President,,REP,Donald Trump,527
+Scott,02-Jennings 1,President,,REP,Donald Trump,241
+Scott,03-Jennings 2,President,,REP,Donald Trump,215
+Scott,04-Jennings 3,President,,REP,Donald Trump,261
+Scott,05-Jennings 4,President,,REP,Donald Trump,390
+Scott,06-Jennings 5,President,,REP,Donald Trump,219
+Scott,07-Johnson 1,President,,REP,Donald Trump,655
+Scott,08-Lexington 1,President,,REP,Donald Trump,480
+Scott,09-Lexington 2,President,,REP,Donald Trump,433
+Scott,10-Lexington 3,President,,REP,Donald Trump,77
+Scott,11-Vienna 1,President,,REP,Donald Trump,569
+Scott,12-Vienna 2,President,,REP,Donald Trump,348
+Scott,13-Vienna 3,President,,REP,Donald Trump,301
+Scott,14-Vienna 4,President,,REP,Donald Trump,397
+Scott,15-Vienna 5,President,,REP,Donald Trump,498
+Scott,16-Vienna 6,President,,REP,Donald Trump,463
+Scott,,President,,REP,Donald Trump,6074
+Scott,01-Finley,President,,DEM,Hillary Clinton,189
+Scott,02-Jennings 1,President,,DEM,Hillary Clinton,108
+Scott,03-Jennings 2,President,,DEM,Hillary Clinton,121
+Scott,04-Jennings 3,President,,DEM,Hillary Clinton,139
+Scott,05-Jennings 4,President,,DEM,Hillary Clinton,163
+Scott,06-Jennings 5,President,,DEM,Hillary Clinton,119
+Scott,07-Johnson 1,President,,DEM,Hillary Clinton,240
+Scott,08-Lexington 1,President,,DEM,Hillary Clinton,171
+Scott,09-Lexington 2,President,,DEM,Hillary Clinton,158
+Scott,10-Lexington 3,President,,DEM,Hillary Clinton,26
+Scott,11-Vienna 1,President,,DEM,Hillary Clinton,240
+Scott,12-Vienna 2,President,,DEM,Hillary Clinton,188
+Scott,13-Vienna 3,President,,DEM,Hillary Clinton,155
+Scott,14-Vienna 4,President,,DEM,Hillary Clinton,229
+Scott,15-Vienna 5,President,,DEM,Hillary Clinton,238
+Scott,16-Vienna 6,President,,DEM,Hillary Clinton,158
+Scott,,President,,DEM,Hillary Clinton,2642
+Scott,01-Finley,President,,LBT,Gary Johnson,28
+Scott,02-Jennings 1,President,,LBT,Gary Johnson,12
+Scott,03-Jennings 2,President,,LBT,Gary Johnson,12
+Scott,04-Jennings 3,President,,LBT,Gary Johnson,15
+Scott,05-Jennings 4,President,,LBT,Gary Johnson,20
+Scott,06-Jennings 5,President,,LBT,Gary Johnson,10
+Scott,07-Johnson 1,President,,LBT,Gary Johnson,27
+Scott,08-Lexington 1,President,,LBT,Gary Johnson,30
+Scott,09-Lexington 2,President,,LBT,Gary Johnson,21
+Scott,10-Lexington 3,President,,LBT,Gary Johnson,4
+Scott,11-Vienna 1,President,,LBT,Gary Johnson,31
+Scott,12-Vienna 2,President,,LBT,Gary Johnson,19
+Scott,13-Vienna 3,President,,LBT,Gary Johnson,24
+Scott,14-Vienna 4,President,,LBT,Gary Johnson,32
+Scott,15-Vienna 5,President,,LBT,Gary Johnson,32
+Scott,16-Vienna 6,President,,LBT,Gary Johnson,27
+Scott,,President,,LBT,Gary Johnson,344
+Scott,01-Finley,President,,,Write-ins,5
+Scott,02-Jennings 1,President,,,Write-ins,3
+Scott,03-Jennings 2,President,,,Write-ins,5
+Scott,04-Jennings 3,President,,,Write-ins,6
+Scott,05-Jennings 4,President,,,Write-ins,4
+Scott,06-Jennings 5,President,,,Write-ins,2
+Scott,07-Johnson 1,President,,,Write-ins,5
+Scott,08-Lexington 1,President,,,Write-ins,9
+Scott,09-Lexington 2,President,,,Write-ins,3
+Scott,10-Lexington 3,President,,,Write-ins,1
+Scott,11-Vienna 1,President,,,Write-ins,11
+Scott,12-Vienna 2,President,,,Write-ins,7
+Scott,13-Vienna 3,President,,,Write-ins,5
+Scott,14-Vienna 4,President,,,Write-ins,6
+Scott,15-Vienna 5,President,,,Write-ins,4
+Scott,16-Vienna 6,President,,,Write-ins,11
+Scott,,President,,,Write-ins,87
+Scott,01-Finley,U.S. Senate,,REP,Todd Young,473
+Scott,02-Jennings 1,U.S. Senate,,REP,Todd Young,196
+Scott,03-Jennings 2,U.S. Senate,,REP,Todd Young,153
+Scott,04-Jennings 3,U.S. Senate,,REP,Todd Young,189
+Scott,05-Jennings 4,U.S. Senate,,REP,Todd Young,315
+Scott,06-Jennings 5,U.S. Senate,,REP,Todd Young,165
+Scott,07-Johnson 1,U.S. Senate,,REP,Todd Young,489
+Scott,08-Lexington 1,U.S. Senate,,REP,Todd Young,396
+Scott,09-Lexington 2,U.S. Senate,,REP,Todd Young,366
+Scott,10-Lexington 3,U.S. Senate,,REP,Todd Young,58
+Scott,11-Vienna 1,U.S. Senate,,REP,Todd Young,512
+Scott,12-Vienna 2,U.S. Senate,,REP,Todd Young,299
+Scott,13-Vienna 3,U.S. Senate,,REP,Todd Young,261
+Scott,14-Vienna 4,U.S. Senate,,REP,Todd Young,326
+Scott,15-Vienna 5,U.S. Senate,,REP,Todd Young,429
+Scott,16-Vienna 6,U.S. Senate,,REP,Todd Young,419
+Scott,,U.S. Senate,,REP,Todd Young,5046
+Scott,01-Finley,U.S. Senate,,DEM,Evan Bayh,245
+Scott,02-Jennings 1,U.S. Senate,,DEM,Evan Bayh,152
+Scott,03-Jennings 2,U.S. Senate,,DEM,Evan Bayh,191
+Scott,04-Jennings 3,U.S. Senate,,DEM,Evan Bayh,208
+Scott,05-Jennings 4,U.S. Senate,,DEM,Evan Bayh,238
+Scott,06-Jennings 5,U.S. Senate,,DEM,Evan Bayh,168
+Scott,07-Johnson 1,U.S. Senate,,DEM,Evan Bayh,405
+Scott,08-Lexington 1,U.S. Senate,,DEM,Evan Bayh,270
+Scott,09-Lexington 2,U.S. Senate,,DEM,Evan Bayh,233
+Scott,10-Lexington 3,U.S. Senate,,DEM,Evan Bayh,40
+Scott,11-Vienna 1,U.S. Senate,,DEM,Evan Bayh,309
+Scott,12-Vienna 2,U.S. Senate,,DEM,Evan Bayh,243
+Scott,13-Vienna 3,U.S. Senate,,DEM,Evan Bayh,209
+Scott,14-Vienna 4,U.S. Senate,,DEM,Evan Bayh,313
+Scott,15-Vienna 5,U.S. Senate,,DEM,Evan Bayh,314
+Scott,16-Vienna 6,U.S. Senate,,DEM,Evan Bayh,225
+Scott,,U.S. Senate,,DEM,Evan Bayh,3763
+Scott,01-Finley,U.S. Senate,,LBT,Lucy Brenton,25
+Scott,02-Jennings 1,U.S. Senate,,LBT,Lucy Brenton,13
+Scott,03-Jennings 2,U.S. Senate,,LBT,Lucy Brenton,11
+Scott,04-Jennings 3,U.S. Senate,,LBT,Lucy Brenton,16
+Scott,05-Jennings 4,U.S. Senate,,LBT,Lucy Brenton,16
+Scott,06-Jennings 5,U.S. Senate,,LBT,Lucy Brenton,8
+Scott,07-Johnson 1,U.S. Senate,,LBT,Lucy Brenton,28
+Scott,08-Lexington 1,U.S. Senate,,LBT,Lucy Brenton,20
+Scott,09-Lexington 2,U.S. Senate,,LBT,Lucy Brenton,19
+Scott,10-Lexington 3,U.S. Senate,,LBT,Lucy Brenton,9
+Scott,11-Vienna 1,U.S. Senate,,LBT,Lucy Brenton,25
+Scott,12-Vienna 2,U.S. Senate,,LBT,Lucy Brenton,18
+Scott,13-Vienna 3,U.S. Senate,,LBT,Lucy Brenton,14
+Scott,14-Vienna 4,U.S. Senate,,LBT,Lucy Brenton,24
+Scott,15-Vienna 5,U.S. Senate,,LBT,Lucy Brenton,28
+Scott,16-Vienna 6,U.S. Senate,,LBT,Lucy Brenton,14
+Scott,,U.S. Senate,,LBT,Lucy Brenton,288
+Scott,16-Vienna 6,U.S. Senate,,,Write-ins,1
+Scott,01-Finley,Governor,,REP,Eric Holcomb,434
+Scott,02-Jennings 1,Governor,,REP,Eric Holcomb,178
+Scott,03-Jennings 2,Governor,,REP,Eric Holcomb,146
+Scott,04-Jennings 3,Governor,,REP,Eric Holcomb,175
+Scott,05-Jennings 4,Governor,,REP,Eric Holcomb,285
+Scott,06-Jennings 5,Governor,,REP,Eric Holcomb,155
+Scott,07-Johnson 1,Governor,,REP,Eric Holcomb,465
+Scott,08-Lexington 1,Governor,,REP,Eric Holcomb,412
+Scott,09-Lexington 2,Governor,,REP,Eric Holcomb,360
+Scott,10-Lexington 3,Governor,,REP,Eric Holcomb,67
+Scott,11-Vienna 1,Governor,,REP,Eric Holcomb,523
+Scott,12-Vienna 2,Governor,,REP,Eric Holcomb,282
+Scott,13-Vienna 3,Governor,,REP,Eric Holcomb,248
+Scott,14-Vienna 4,Governor,,REP,Eric Holcomb,336
+Scott,15-Vienna 5,Governor,,REP,Eric Holcomb,402
+Scott,16-Vienna 6,Governor,,REP,Eric Holcomb,401
+Scott,,Governor,,REP,Eric Holcomb,4869
+Scott,01-Finley,Governor,,DEM,John Gregg,276
+Scott,02-Jennings 1,Governor,,DEM,John Gregg,148
+Scott,03-Jennings 2,Governor,,DEM,John Gregg,197
+Scott,04-Jennings 3,Governor,,DEM,John Gregg,216
+Scott,05-Jennings 4,Governor,,DEM,John Gregg,258
+Scott,06-Jennings 5,Governor,,DEM,John Gregg,176
+Scott,07-Johnson 1,Governor,,DEM,John Gregg,405
+Scott,08-Lexington 1,Governor,,DEM,John Gregg,245
+Scott,09-Lexington 2,Governor,,DEM,John Gregg,239
+Scott,10-Lexington 3,Governor,,DEM,John Gregg,33
+Scott,11-Vienna 1,Governor,,DEM,John Gregg,296
+Scott,12-Vienna 2,Governor,,DEM,John Gregg,260
+Scott,13-Vienna 3,Governor,,DEM,John Gregg,216
+Scott,14-Vienna 4,Governor,,DEM,John Gregg,297
+Scott,15-Vienna 5,Governor,,DEM,John Gregg,335
+Scott,16-Vienna 6,Governor,,DEM,John Gregg,233
+Scott,,Governor,,DEM,John Gregg,3830
+Scott,01-Finley,Governor,,LBT,Rex Bell,18
+Scott,02-Jennings 1,Governor,,LBT,Rex Bell,18
+Scott,03-Jennings 2,Governor,,LBT,Rex Bell,8
+Scott,04-Jennings 3,Governor,,LBT,Rex Bell,14
+Scott,05-Jennings 4,Governor,,LBT,Rex Bell,14
+Scott,06-Jennings 5,Governor,,LBT,Rex Bell,8
+Scott,07-Johnson 1,Governor,,LBT,Rex Bell,24
+Scott,08-Lexington 1,Governor,,LBT,Rex Bell,20
+Scott,09-Lexington 2,Governor,,LBT,Rex Bell,14
+Scott,10-Lexington 3,Governor,,LBT,Rex Bell,5
+Scott,11-Vienna 1,Governor,,LBT,Rex Bell,21
+Scott,12-Vienna 2,Governor,,LBT,Rex Bell,15
+Scott,13-Vienna 3,Governor,,LBT,Rex Bell,11
+Scott,14-Vienna 4,Governor,,LBT,Rex Bell,21
+Scott,15-Vienna 5,Governor,,LBT,Rex Bell,19
+Scott,16-Vienna 6,Governor,,LBT,Rex Bell,15
+Scott,,Governor,,LBT,Rex Bell,245
+Scott,01-Finley,Attorney General,,REP,Curtis Hill,487
+Scott,02-Jennings 1,Attorney General,,REP,Curtis Hill,207
+Scott,03-Jennings 2,Attorney General,,REP,Curtis Hill,182
+Scott,04-Jennings 3,Attorney General,,REP,Curtis Hill,206
+Scott,05-Jennings 4,Attorney General,,REP,Curtis Hill,332
+Scott,06-Jennings 5,Attorney General,,REP,Curtis Hill,181
+Scott,07-Johnson 1,Attorney General,,REP,Curtis Hill,547
+Scott,08-Lexington 1,Attorney General,,REP,Curtis Hill,445
+Scott,09-Lexington 2,Attorney General,,REP,Curtis Hill,404
+Scott,10-Lexington 3,Attorney General,,REP,Curtis Hill,70
+Scott,11-Vienna 1,Attorney General,,REP,Curtis Hill,568
+Scott,12-Vienna 2,Attorney General,,REP,Curtis Hill,330
+Scott,13-Vienna 3,Attorney General,,REP,Curtis Hill,289
+Scott,14-Vienna 4,Attorney General,,REP,Curtis Hill,369
+Scott,15-Vienna 5,Attorney General,,REP,Curtis Hill,472
+Scott,16-Vienna 6,Attorney General,,REP,Curtis Hill,441
+Scott,,Attorney General,,REP,Curtis Hill,5530
+Scott,01-Finley,Attorney General,,DEM,Lorenzo Arredondo,210
+Scott,02-Jennings 1,Attorney General,,DEM,Lorenzo Arredondo,121
+Scott,03-Jennings 2,Attorney General,,DEM,Lorenzo Arredondo,154
+Scott,04-Jennings 3,Attorney General,,DEM,Lorenzo Arredondo,174
+Scott,05-Jennings 4,Attorney General,,DEM,Lorenzo Arredondo,204
+Scott,06-Jennings 5,Attorney General,,DEM,Lorenzo Arredondo,142
+Scott,07-Johnson 1,Attorney General,,DEM,Lorenzo Arredondo,310
+Scott,08-Lexington 1,Attorney General,,DEM,Lorenzo Arredondo,211
+Scott,09-Lexington 2,Attorney General,,DEM,Lorenzo Arredondo,191
+Scott,10-Lexington 3,Attorney General,,DEM,Lorenzo Arredondo,29
+Scott,11-Vienna 1,Attorney General,,DEM,Lorenzo Arredondo,247
+Scott,12-Vienna 2,Attorney General,,DEM,Lorenzo Arredondo,209
+Scott,13-Vienna 3,Attorney General,,DEM,Lorenzo Arredondo,172
+Scott,14-Vienna 4,Attorney General,,DEM,Lorenzo Arredondo,255
+Scott,15-Vienna 5,Attorney General,,DEM,Lorenzo Arredondo,264
+Scott,16-Vienna 6,Attorney General,,DEM,Lorenzo Arredondo,183
+Scott,,Attorney General,,DEM,Lorenzo Arredondo,3076
+Scott,01-Finley,Public Instruction,,REP,Jennifer McCormick,436
+Scott,02-Jennings 1,Public Instruction,,REP,Jennifer McCormick,190
+Scott,03-Jennings 2,Public Instruction,,REP,Jennifer McCormick,150
+Scott,04-Jennings 3,Public Instruction,,REP,Jennifer McCormick,182
+Scott,05-Jennings 4,Public Instruction,,REP,Jennifer McCormick,287
+Scott,06-Jennings 5,Public Instruction,,REP,Jennifer McCormick,140
+Scott,07-Johnson 1,Public Instruction,,REP,Jennifer McCormick,450
+Scott,08-Lexington 1,Public Instruction,,REP,Jennifer McCormick,410
+Scott,09-Lexington 2,Public Instruction,,REP,Jennifer McCormick,356
+Scott,10-Lexington 3,Public Instruction,,REP,Jennifer McCormick,65
+Scott,11-Vienna 1,Public Instruction,,REP,Jennifer McCormick,506
+Scott,12-Vienna 2,Public Instruction,,REP,Jennifer McCormick,277
+Scott,13-Vienna 3,Public Instruction,,REP,Jennifer McCormick,231
+Scott,14-Vienna 4,Public Instruction,,REP,Jennifer McCormick,328
+Scott,15-Vienna 5,Public Instruction,,REP,Jennifer McCormick,381
+Scott,16-Vienna 6,Public Instruction,,REP,Jennifer McCormick,384
+Scott,,Public Instruction,,REP,Jennifer McCormick,4773
+Scott,01-Finley,Public Instruction,,DEM,Glenda Ritz,277
+Scott,02-Jennings 1,Public Instruction,,DEM,Glenda Ritz,143
+Scott,03-Jennings 2,Public Instruction,,DEM,Glenda Ritz,190
+Scott,04-Jennings 3,Public Instruction,,DEM,Glenda Ritz,209
+Scott,05-Jennings 4,Public Instruction,,DEM,Glenda Ritz,261
+Scott,06-Jennings 5,Public Instruction,,DEM,Glenda Ritz,189
+Scott,07-Johnson 1,Public Instruction,,DEM,Glenda Ritz,424
+Scott,08-Lexington 1,Public Instruction,,DEM,Glenda Ritz,249
+Scott,09-Lexington 2,Public Instruction,,DEM,Glenda Ritz,244
+Scott,10-Lexington 3,Public Instruction,,DEM,Glenda Ritz,35
+Scott,11-Vienna 1,Public Instruction,,DEM,Glenda Ritz,315
+Scott,12-Vienna 2,Public Instruction,,DEM,Glenda Ritz,268
+Scott,13-Vienna 3,Public Instruction,,DEM,Glenda Ritz,233
+Scott,14-Vienna 4,Public Instruction,,DEM,Glenda Ritz,303
+Scott,15-Vienna 5,Public Instruction,,DEM,Glenda Ritz,367
+Scott,16-Vienna 6,Public Instruction,,DEM,Glenda Ritz,254
+Scott,,Public Instruction,,DEM,Glenda Ritz,3961
+Scott,01-Finley,U.S. House,9,REP,Trey Hollingsworth,428
+Scott,02-Jennings 1,U.S. House,6,REP,Luke Messer,183
+Scott,03-Jennings 2,U.S. House,6,REP,Luke Messer,166
+Scott,04-Jennings 3,U.S. House,6,REP,Luke Messer,183
+Scott,05-Jennings 4,U.S. House,6,REP,Luke Messer,303
+Scott,06-Jennings 5,U.S. House,6,REP,Luke Messer,163
+Scott,07-Johnson 1,U.S. House,6,REP,Luke Messer,491
+Scott,08-Lexington 1,U.S. House,6,REP,Luke Messer,402
+Scott,09-Lexington 2,U.S. House,6,REP,Luke Messer,366
+Scott,10-Lexington 3,U.S. House,9,REP,Trey Hollingsworth,56
+Scott,11-Vienna 1,U.S. House,9,REP,Trey Hollingsworth,468
+Scott,12-Vienna 2,U.S. House,9,REP,Trey Hollingsworth,273
+Scott,13-Vienna 3,U.S. House,9,REP,Trey Hollingsworth,235
+Scott,14-Vienna 4,U.S. House,9,REP,Trey Hollingsworth,294
+Scott,15-Vienna 5,U.S. House,9,REP,Trey Hollingsworth,380
+Scott,16-Vienna 6,U.S. House,6,REP,Trey Hollingsworth,376
+Scott,,U.S. House,6,REP,Luke Messer,2257
+Scott,,U.S. House,9,REP,Trey Hollingsworth,2510
+Scott,01-Finley,U.S. House,9,DEM,Shelli Yoder,272
+Scott,02-Jennings 1,U.S. House,6,DEM,Barry Welsh,132
+Scott,03-Jennings 2,U.S. House,6,DEM,Barry Welsh,164
+Scott,04-Jennings 3,U.S. House,6,DEM,Barry Welsh,189
+Scott,05-Jennings 4,U.S. House,6,DEM,Barry Welsh,214
+Scott,06-Jennings 5,U.S. House,6,DEM,Barry Welsh,150
+Scott,07-Johnson 1,U.S. House,6,DEM,Barry Welsh,353
+Scott,08-Lexington 1,U.S. House,6,DEM,Barry Welsh,231
+Scott,09-Lexington 2,U.S. House,6,DEM,Barry Welsh,210
+Scott,10-Lexington 3,U.S. House,9,DEM,Shelli Yoder,43
+Scott,11-Vienna 1,U.S. House,9,DEM,Shelli Yoder,327
+Scott,12-Vienna 2,U.S. House,9,DEM,Shelli Yoder,260
+Scott,13-Vienna 3,U.S. House,9,DEM,Shelli Yoder,212
+Scott,14-Vienna 4,U.S. House,9,DEM,Shelli Yoder,322
+Scott,15-Vienna 5,U.S. House,9,DEM,Shelli Yoder,342
+Scott,16-Vienna 6,U.S. House,6,DEM,Shelli Yoder,250
+Scott,,U.S. House,6,DEM,Barry Welsh,1643
+Scott,,U.S. House,9,DEM,Shelli Yoder,2028
+Scott,01-Finley,U.S. House,9,LBT,Russ Brooksbank,31
+Scott,02-Jennings 1,U.S. House,6,LBT,Rich Turvey,24
+Scott,03-Jennings 2,U.S. House,6,LBT,Rich Turvey,8
+Scott,04-Jennings 3,U.S. House,6,LBT,Rich Turvey,13
+Scott,05-Jennings 4,U.S. House,6,LBT,Rich Turvey,14
+Scott,06-Jennings 5,U.S. House,6,LBT,Rich Turvey,11
+Scott,07-Johnson 1,U.S. House,6,LBT,Rich Turvey,26
+Scott,08-Lexington 1,U.S. House,6,LBT,Rich Turvey,17
+Scott,09-Lexington 2,U.S. House,6,LBT,Rich Turvey,17
+Scott,10-Lexington 3,U.S. House,9,LBT,Russ Brooksbank,8
+Scott,11-Vienna 1,U.S. House,9,LBT,Russ Brooksbank,38
+Scott,12-Vienna 2,U.S. House,9,LBT,Russ Brooksbank,20
+Scott,13-Vienna 3,U.S. House,9,LBT,Russ Brooksbank,29
+Scott,14-Vienna 4,U.S. House,9,LBT,Russ Brooksbank,35
+Scott,15-Vienna 5,U.S. House,9,LBT,Russ Brooksbank,33
+Scott,16-Vienna 6,U.S. House,6,LBT,Russ Brooksbank,30
+Scott,,U.S. House,6,LBT,Rich Turvey,130
+Scott,,U.S. House,9,,Russ Brooksbank,224
+Scott,01-Finley,U.S. House,9,,Write-ins,0
+Scott,02-Jennings 1,U.S. House,6,,Write-ins,0
+Scott,03-Jennings 2,U.S. House,6,,Write-ins,0
+Scott,04-Jennings 3,U.S. House,6,,Write-ins,0
+Scott,05-Jennings 4,U.S. House,6,,Write-ins,2
+Scott,06-Jennings 5,U.S. House,6,,Write-ins,0
+Scott,07-Johnson 1,U.S. House,6,,Write-ins,1
+Scott,08-Lexington 1,U.S. House,6,,Write-ins,1
+Scott,09-Lexington 2,U.S. House,6,,Write-ins,0
+Scott,10-Lexington 3,U.S. House,9,,Write-ins,0
+Scott,11-Vienna 1,U.S. House,9,,Write-ins,1
+Scott,12-Vienna 2,U.S. House,9,,Write-ins,0
+Scott,13-Vienna 3,U.S. House,9,,Write-ins,0
+Scott,14-Vienna 4,U.S. House,9,,Write-ins,0
+Scott,15-Vienna 5,U.S. House,9,,Write-ins,0
+Scott,16-Vienna 6,U.S. House,6,,Write-ins,0
+Scott,,U.S. House,6,,Write-ins,4
+Scott,,U.S. House,9,,Write-ins,1
+Scott,01-Finley,State House,66,REP,Joe Van Wye,234
+Scott,02-Jennings 1,State House,66,REP,Joe Van Wye,79
+Scott,03-Jennings 2,State House,66,REP,Joe Van Wye,60
+Scott,04-Jennings 3,State House,66,REP,Joe Van Wye,57
+Scott,05-Jennings 4,State House,66,REP,Joe Van Wye,139
+Scott,06-Jennings 5,State House,66,REP,Joe Van Wye,59
+Scott,07-Johnson 1,State House,66,REP,Joe Van Wye,214
+Scott,08-Lexington 1,State House,66,REP,Joe Van Wye,243
+Scott,09-Lexington 2,State House,66,REP,Joe Van Wye,193
+Scott,10-Lexington 3,State House,66,REP,Joe Van Wye,34
+Scott,11-Vienna 1,State House,66,REP,Joe Van Wye,327
+Scott,12-Vienna 2,State House,66,REP,Joe Van Wye,152
+Scott,13-Vienna 3,State House,66,REP,Joe Van Wye,117
+Scott,14-Vienna 4,State House,66,REP,Joe Van Wye,167
+Scott,15-Vienna 5,State House,66,REP,Joe Van Wye,211
+Scott,16-Vienna 6,State House,66,REP,Joe Van Wye,207
+Scott,,State House,66,REP,Joe Van Wye,2493
+Scott,01-Finley,State House,66,DEM,Terry Goodin,502
+Scott,02-Jennings 1,State House,66,DEM,Terry Goodin,284
+Scott,03-Jennings 2,State House,66,DEM,Terry Goodin,297
+Scott,04-Jennings 3,State House,66,DEM,Terry Goodin,365
+Scott,05-Jennings 4,State House,66,DEM,Terry Goodin,436
+Scott,06-Jennings 5,State House,66,DEM,Terry Goodin,290
+Scott,07-Johnson 1,State House,66,DEM,Terry Goodin,710
+Scott,08-Lexington 1,State House,66,DEM,Terry Goodin,434
+Scott,09-Lexington 2,State House,66,DEM,Terry Goodin,421
+Scott,10-Lexington 3,State House,66,DEM,Terry Goodin,71
+Scott,11-Vienna 1,State House,66,DEM,Terry Goodin,513
+Scott,12-Vienna 2,State House,66,DEM,Terry Goodin,403
+Scott,13-Vienna 3,State House,66,DEM,Terry Goodin,363
+Scott,14-Vienna 4,State House,66,DEM,Terry Goodin,492
+Scott,15-Vienna 5,State House,66,DEM,Terry Goodin,554
+Scott,16-Vienna 6,State House,66,DEM,Terry Goodin,444
+Scott,,State House,66,DEM,Terry Goodin,6579

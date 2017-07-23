@@ -1,0 +1,484 @@
+county,precinct,office,district,candidate,party,votes
+Sullivan,01-Cass 1 split,Voters,,Registration,,580
+Sullivan,02-Cass 2 split,Voters,,Registration,,897
+Sullivan,03-Curry 1,Voters,,Registration,,824
+Sullivan,04-Curry 2,Voters,,Registration,,841
+Sullivan,05-Curry 3 City,Voters,,Registration,,930
+Sullivan,06-Fairbanks city,Voters,,Registration,,562
+Sullivan,07-Gill 1 city,Voters,,Registration,,373
+Sullivan,08-Gill 2 split,Voters,,Registration,,326
+Sullivan,09-Haddon 1 city,Voters,,Registration,,410
+Sullivan,10-Haddon 2 split,Voters,,Registration,,943
+Sullivan,11-Hamilton 1,Voters,,Registration,,855
+Sullivan,12-Hamilton 2,Voters,,Registration,,1126
+Sullivan,13-Hamilton 3,Voters,,Registration,,871
+Sullivan,14-Hamilton 4,Voters,,Registration,,571
+Sullivan,15-Hamilton 5 city,Voters,,Registration,,1025
+Sullivan,16-Hamilton 6 city,Voters,,Registration,,1163
+Sullivan,17-Jackson 1 split,Voters,,Registration,,836
+Sullivan,18-Jackson 2 split,Voters,,Registration,,574
+Sullivan,19-Jefferson city,Voters,,Registration,,284
+Sullivan,20-Turman city,Voters,,Registration,,913
+Sullivan,,Voters,,Registration,,14904
+Sullivan,01-Cass 1 split,Voters,,Ballots Cast,,380
+Sullivan,02-Cass 2 split,Voters,,Ballots Cast,,524
+Sullivan,03-Curry 1,Voters,,Ballots Cast,,458
+Sullivan,04-Curry 2,Voters,,Ballots Cast,,437
+Sullivan,05-Curry 3 City,Voters,,Ballots Cast,,554
+Sullivan,06-Fairbanks city,Voters,,Ballots Cast,,397
+Sullivan,07-Gill 1 city,Voters,,Ballots Cast,,259
+Sullivan,08-Gill 2 split,Voters,,Ballots Cast,,183
+Sullivan,09-Haddon 1 city,Voters,,Ballots Cast,,221
+Sullivan,10-Haddon 2 split,Voters,,Ballots Cast,,607
+Sullivan,11-Hamilton 1,Voters,,Ballots Cast,,387
+Sullivan,12-Hamilton 2,Voters,,Ballots Cast,,630
+Sullivan,13-Hamilton 3,Voters,,Ballots Cast,,441
+Sullivan,14-Hamilton 4,Voters,,Ballots Cast,,261
+Sullivan,15-Hamilton 5 city,Voters,,Ballots Cast,,645
+Sullivan,16-Hamilton 6 city,Voters,,Ballots Cast,,772
+Sullivan,17-Jackson 1 split,Voters,,Ballots Cast,,488
+Sullivan,18-Jackson 2 split,Voters,,Ballots Cast,,339
+Sullivan,19-Jefferson city,Voters,,Ballots Cast,,184
+Sullivan,20-Turman city,Voters,,Ballots Cast,,629
+Sullivan,,Voters,,Ballots Cast,,8796
+Sullivan,01-Cass 1 split,President,,Donald Trump,REP,267
+Sullivan,02-Cass 2 split,President,,Donald Trump,REP,371
+Sullivan,03-Curry 1,President,,Donald Trump,REP,303
+Sullivan,04-Curry 2,President,,Donald Trump,REP,286
+Sullivan,05-Curry 3 City,President,,Donald Trump,REP,419
+Sullivan,06-Fairbanks city,President,,Donald Trump,REP,301
+Sullivan,07-Gill 1 city,President,,Donald Trump,REP,171
+Sullivan,08-Gill 2 split,President,,Donald Trump,REP,119
+Sullivan,09-Haddon 1 city,President,,Donald Trump,REP,150
+Sullivan,10-Haddon 2 split,President,,Donald Trump,REP,444
+Sullivan,11-Hamilton 1,President,,Donald Trump,REP,246
+Sullivan,12-Hamilton 2,President,,Donald Trump,REP,369
+Sullivan,13-Hamilton 3,President,,Donald Trump,REP,297
+Sullivan,14-Hamilton 4,President,,Donald Trump,REP,147
+Sullivan,15-Hamilton 5 city,President,,Donald Trump,REP,472
+Sullivan,16-Hamilton 6 city,President,,Donald Trump,REP,543
+Sullivan,17-Jackson 1 split,President,,Donald Trump,REP,380
+Sullivan,18-Jackson 2 split,President,,Donald Trump,REP,227
+Sullivan,19-Jefferson city,President,,Donald Trump,REP,139
+Sullivan,20-Turman city,President,,Donald Trump,REP,487
+Sullivan,,President,,Donald Trump,REP,6138
+Sullivan,01-Cass 1 split,President,,Hillary Clinton,DEM,83
+Sullivan,02-Cass 2 split,President,,Hillary Clinton,DEM,119
+Sullivan,03-Curry 1,President,,Hillary Clinton,DEM,116
+Sullivan,04-Curry 2,President,,Hillary Clinton,DEM,130
+Sullivan,05-Curry 3 City,President,,Hillary Clinton,DEM,102
+Sullivan,06-Fairbanks city,President,,Hillary Clinton,DEM,72
+Sullivan,07-Gill 1 city,President,,Hillary Clinton,DEM,66
+Sullivan,08-Gill 2 split,President,,Hillary Clinton,DEM,52
+Sullivan,09-Haddon 1 city,President,,Hillary Clinton,DEM,56
+Sullivan,10-Haddon 2 split,President,,Hillary Clinton,DEM,124
+Sullivan,11-Hamilton 1,President,,Hillary Clinton,DEM,113
+Sullivan,12-Hamilton 2,President,,Hillary Clinton,DEM,214
+Sullivan,13-Hamilton 3,President,,Hillary Clinton,DEM,127
+Sullivan,14-Hamilton 4,President,,Hillary Clinton,DEM,92
+Sullivan,15-Hamilton 5 city,President,,Hillary Clinton,DEM,141
+Sullivan,16-Hamilton 6 city,President,,Hillary Clinton,DEM,187
+Sullivan,17-Jackson 1 split,President,,Hillary Clinton,DEM,77
+Sullivan,18-Jackson 2 split,President,,Hillary Clinton,DEM,99
+Sullivan,19-Jefferson city,President,,Hillary Clinton,DEM,34
+Sullivan,20-Turman city,President,,Hillary Clinton,DEM,109
+Sullivan,,President,,Hillary Clinton,DEM,2113
+Sullivan,01-Cass 1 split,President,,Gary Johnson,LBT,21
+Sullivan,02-Cass 2 split,President,,Gary Johnson,LBT,18
+Sullivan,03-Curry 1,President,,Gary Johnson,LBT,29
+Sullivan,04-Curry 2,President,,Gary Johnson,LBT,17
+Sullivan,05-Curry 3 City,President,,Gary Johnson,LBT,15
+Sullivan,06-Fairbanks city,President,,Gary Johnson,LBT,6
+Sullivan,07-Gill 1 city,President,,Gary Johnson,LBT,11
+Sullivan,08-Gill 2 split,President,,Gary Johnson,LBT,6
+Sullivan,09-Haddon 1 city,President,,Gary Johnson,LBT,9
+Sullivan,10-Haddon 2 split,President,,Gary Johnson,LBT,21
+Sullivan,11-Hamilton 1,President,,Gary Johnson,LBT,19
+Sullivan,12-Hamilton 2,President,,Gary Johnson,LBT,22
+Sullivan,13-Hamilton 3,President,,Gary Johnson,LBT,12
+Sullivan,14-Hamilton 4,President,,Gary Johnson,LBT,13
+Sullivan,15-Hamilton 5 city,President,,Gary Johnson,LBT,14
+Sullivan,16-Hamilton 6 city,President,,Gary Johnson,LBT,25
+Sullivan,17-Jackson 1 split,President,,Gary Johnson,LBT,15
+Sullivan,18-Jackson 2 split,President,,Gary Johnson,LBT,9
+Sullivan,19-Jefferson city,President,,Gary Johnson,LBT,5
+Sullivan,20-Turman city,President,,Gary Johnson,LBT,21
+Sullivan,,President,,Gary Johnson,LBT,308
+Sullivan,01-Cass 1 split,President,,Write-ins,,0
+Sullivan,02-Cass 2 split,President,,Write-ins,,5
+Sullivan,03-Curry 1,President,,Write-ins,,5
+Sullivan,04-Curry 2,President,,Write-ins,,0
+Sullivan,05-Curry 3 City,President,,Write-ins,,3
+Sullivan,06-Fairbanks city,President,,Write-ins,,5
+Sullivan,07-Gill 1 city,President,,Write-ins,,4
+Sullivan,08-Gill 2 split,President,,Write-ins,,3
+Sullivan,09-Haddon 1 city,President,,Write-ins,,0
+Sullivan,10-Haddon 2 split,President,,Write-ins,,3
+Sullivan,11-Hamilton 1,President,,Write-ins,,2
+Sullivan,12-Hamilton 2,President,,Write-ins,,6
+Sullivan,13-Hamilton 3,President,,Write-ins,,1
+Sullivan,14-Hamilton 4,President,,Write-ins,,3
+Sullivan,15-Hamilton 5 city,President,,Write-ins,,6
+Sullivan,16-Hamilton 6 city,President,,Write-ins,,4
+Sullivan,17-Jackson 1 split,President,,Write-ins,,2
+Sullivan,18-Jackson 2 split,President,,Write-ins,,0
+Sullivan,19-Jefferson city,President,,Write-ins,,2
+Sullivan,20-Turman city,President,,Write-ins,,0
+Sullivan,,President,,Write-ins,,54
+Sullivan,01-Cass 1 split,U.S. Senate,,Todd Young,REP,182
+Sullivan,02-Cass 2 split,U.S. Senate,,Todd Young,REP,223
+Sullivan,03-Curry 1,U.S. Senate,,Todd Young,REP,231
+Sullivan,04-Curry 2,U.S. Senate,,Todd Young,REP,196
+Sullivan,05-Curry 3 City,U.S. Senate,,Todd Young,REP,280
+Sullivan,06-Fairbanks city,U.S. Senate,,Todd Young,REP,224
+Sullivan,07-Gill 1 city,U.S. Senate,,Todd Young,REP,113
+Sullivan,08-Gill 2 split,U.S. Senate,,Todd Young,REP,74
+Sullivan,09-Haddon 1 city,U.S. Senate,,Todd Young,REP,91
+Sullivan,10-Haddon 2 split,U.S. Senate,,Todd Young,REP,320
+Sullivan,11-Hamilton 1,U.S. Senate,,Todd Young,REP,158
+Sullivan,12-Hamilton 2,U.S. Senate,,Todd Young,REP,233
+Sullivan,13-Hamilton 3,U.S. Senate,,Todd Young,REP,177
+Sullivan,14-Hamilton 4,U.S. Senate,,Todd Young,REP,103
+Sullivan,15-Hamilton 5 city,U.S. Senate,,Todd Young,REP,325
+Sullivan,16-Hamilton 6 city,U.S. Senate,,Todd Young,REP,372
+Sullivan,17-Jackson 1 split,U.S. Senate,,Todd Young,REP,262
+Sullivan,18-Jackson 2 split,U.S. Senate,,Todd Young,REP,166
+Sullivan,19-Jefferson city,U.S. Senate,,Todd Young,REP,91
+Sullivan,20-Turman city,U.S. Senate,,Todd Young,REP,343
+Sullivan,,U.S. Senate,,Todd Young,REP,4164
+Sullivan,01-Cass 1 split,U.S. Senate,,Evan Bayh,DEM,163
+Sullivan,02-Cass 2 split,U.S. Senate,,Evan Bayh,DEM,249
+Sullivan,03-Curry 1,U.S. Senate,,Evan Bayh,DEM,200
+Sullivan,04-Curry 2,U.S. Senate,,Evan Bayh,DEM,186
+Sullivan,05-Curry 3 City,U.S. Senate,,Evan Bayh,DEM,225
+Sullivan,06-Fairbanks city,U.S. Senate,,Evan Bayh,DEM,144
+Sullivan,07-Gill 1 city,U.S. Senate,,Evan Bayh,DEM,128
+Sullivan,08-Gill 2 split,U.S. Senate,,Evan Bayh,DEM,91
+Sullivan,09-Haddon 1 city,U.S. Senate,,Evan Bayh,DEM,110
+Sullivan,10-Haddon 2 split,U.S. Senate,,Evan Bayh,DEM,236
+Sullivan,11-Hamilton 1,U.S. Senate,,Evan Bayh,DEM,190
+Sullivan,12-Hamilton 2,U.S. Senate,,Evan Bayh,DEM,336
+Sullivan,13-Hamilton 3,U.S. Senate,,Evan Bayh,DEM,224
+Sullivan,14-Hamilton 4,U.S. Senate,,Evan Bayh,DEM,135
+Sullivan,15-Hamilton 5 city,U.S. Senate,,Evan Bayh,DEM,276
+Sullivan,16-Hamilton 6 city,U.S. Senate,,Evan Bayh,DEM,337
+Sullivan,17-Jackson 1 split,U.S. Senate,,Evan Bayh,DEM,178
+Sullivan,18-Jackson 2 split,U.S. Senate,,Evan Bayh,DEM,153
+Sullivan,19-Jefferson city,U.S. Senate,,Evan Bayh,DEM,68
+Sullivan,20-Turman city,U.S. Senate,,Evan Bayh,DEM,227
+Sullivan,,U.S. Senate,,Evan Bayh,DEM,3856
+Sullivan,01-Cass 1 split,U.S. Senate,,Lucy Brenton,LBT,22
+Sullivan,02-Cass 2 split,U.S. Senate,,Lucy Brenton,LBT,23
+Sullivan,03-Curry 1,U.S. Senate,,Lucy Brenton,LBT,22
+Sullivan,04-Curry 2,U.S. Senate,,Lucy Brenton,LBT,25
+Sullivan,05-Curry 3 City,U.S. Senate,,Lucy Brenton,LBT,33
+Sullivan,06-Fairbanks city,U.S. Senate,,Lucy Brenton,LBT,19
+Sullivan,07-Gill 1 city,U.S. Senate,,Lucy Brenton,LBT,8
+Sullivan,08-Gill 2 split,U.S. Senate,,Lucy Brenton,LBT,9
+Sullivan,09-Haddon 1 city,U.S. Senate,,Lucy Brenton,LBT,8
+Sullivan,10-Haddon 2 split,U.S. Senate,,Lucy Brenton,LBT,28
+Sullivan,11-Hamilton 1,U.S. Senate,,Lucy Brenton,LBT,23
+Sullivan,12-Hamilton 2,U.S. Senate,,Lucy Brenton,LBT,32
+Sullivan,13-Hamilton 3,U.S. Senate,,Lucy Brenton,LBT,21
+Sullivan,14-Hamilton 4,U.S. Senate,,Lucy Brenton,LBT,17
+Sullivan,15-Hamilton 5 city,U.S. Senate,,Lucy Brenton,LBT,23
+Sullivan,16-Hamilton 6 city,U.S. Senate,,Lucy Brenton,LBT,32
+Sullivan,17-Jackson 1 split,U.S. Senate,,Lucy Brenton,LBT,26
+Sullivan,18-Jackson 2 split,U.S. Senate,,Lucy Brenton,LBT,10
+Sullivan,19-Jefferson city,U.S. Senate,,Lucy Brenton,LBT,8
+Sullivan,20-Turman city,U.S. Senate,,Lucy Brenton,LBT,40
+Sullivan,,U.S. Senate,,Lucy Brenton,LBT,429
+Sullivan,01-Cass 1 split,U.S. Senate,,Write-ins,,0
+Sullivan,02-Cass 2 split,U.S. Senate,,Write-ins,,0
+Sullivan,03-Curry 1,U.S. Senate,,Write-ins,,0
+Sullivan,04-Curry 2,U.S. Senate,,Write-ins,,0
+Sullivan,05-Curry 3 City,U.S. Senate,,Write-ins,,0
+Sullivan,06-Fairbanks city,U.S. Senate,,Write-ins,,0
+Sullivan,07-Gill 1 city,U.S. Senate,,Write-ins,,0
+Sullivan,08-Gill 2 split,U.S. Senate,,Write-ins,,1
+Sullivan,09-Haddon 1 city,U.S. Senate,,Write-ins,,0
+Sullivan,10-Haddon 2 split,U.S. Senate,,Write-ins,,0
+Sullivan,11-Hamilton 1,U.S. Senate,,Write-ins,,0
+Sullivan,12-Hamilton 2,U.S. Senate,,Write-ins,,0
+Sullivan,13-Hamilton 3,U.S. Senate,,Write-ins,,2
+Sullivan,14-Hamilton 4,U.S. Senate,,Write-ins,,0
+Sullivan,15-Hamilton 5 city,U.S. Senate,,Write-ins,,0
+Sullivan,16-Hamilton 6 city,U.S. Senate,,Write-ins,,0
+Sullivan,17-Jackson 1 split,U.S. Senate,,Write-ins,,0
+Sullivan,18-Jackson 2 split,U.S. Senate,,Write-ins,,0
+Sullivan,19-Jefferson city,U.S. Senate,,Write-ins,,0
+Sullivan,20-Turman city,U.S. Senate,,Write-ins,,0
+Sullivan,,U.S. Senate,,Write-ins,,3
+Sullivan,01-Cass 1 split,Governor,,Eric Holcomb,REP,153
+Sullivan,02-Cass 2 split,Governor,,Eric Holcomb,REP,196
+Sullivan,03-Curry 1,Governor,,Eric Holcomb,REP,205
+Sullivan,04-Curry 2,Governor,,Eric Holcomb,REP,177
+Sullivan,05-Curry 3 City,Governor,,Eric Holcomb,REP,243
+Sullivan,06-Fairbanks city,Governor,,Eric Holcomb,REP,214
+Sullivan,07-Gill 1 city,Governor,,Eric Holcomb,REP,95
+Sullivan,08-Gill 2 split,Governor,,Eric Holcomb,REP,67
+Sullivan,09-Haddon 1 city,Governor,,Eric Holcomb,REP,84
+Sullivan,10-Haddon 2 split,Governor,,Eric Holcomb,REP,254
+Sullivan,11-Hamilton 1,Governor,,Eric Holcomb,REP,125
+Sullivan,12-Hamilton 2,Governor,,Eric Holcomb,REP,219
+Sullivan,13-Hamilton 3,Governor,,Eric Holcomb,REP,154
+Sullivan,14-Hamilton 4,Governor,,Eric Holcomb,REP,81
+Sullivan,15-Hamilton 5 city,Governor,,Eric Holcomb,REP,280
+Sullivan,16-Hamilton 6 city,Governor,,Eric Holcomb,REP,319
+Sullivan,17-Jackson 1 split,Governor,,Eric Holcomb,REP,242
+Sullivan,18-Jackson 2 split,Governor,,Eric Holcomb,REP,143
+Sullivan,19-Jefferson city,Governor,,Eric Holcomb,REP,82
+Sullivan,20-Turman city,Governor,,Eric Holcomb,REP,290
+Sullivan,,Governor,,Eric Holcomb,REP,3623
+Sullivan,01-Cass 1 split,Governor,,John Gregg,DEM,201
+Sullivan,02-Cass 2 split,Governor,,John Gregg,DEM,305
+Sullivan,03-Curry 1,Governor,,John Gregg,DEM,238
+Sullivan,04-Curry 2,Governor,,John Gregg,DEM,216
+Sullivan,05-Curry 3 City,Governor,,John Gregg,DEM,282
+Sullivan,06-Fairbanks city,Governor,,John Gregg,DEM,163
+Sullivan,07-Gill 1 city,Governor,,John Gregg,DEM,157
+Sullivan,08-Gill 2 split,Governor,,John Gregg,DEM,109
+Sullivan,09-Haddon 1 city,Governor,,John Gregg,DEM,121
+Sullivan,10-Haddon 2 split,Governor,,John Gregg,DEM,326
+Sullivan,11-Hamilton 1,Governor,,John Gregg,DEM,234
+Sullivan,12-Hamilton 2,Governor,,John Gregg,DEM,384
+Sullivan,13-Hamilton 3,Governor,,John Gregg,DEM,269
+Sullivan,14-Hamilton 4,Governor,,John Gregg,DEM,167
+Sullivan,15-Hamilton 5 city,Governor,,John Gregg,DEM,337
+Sullivan,16-Hamilton 6 city,Governor,,John Gregg,DEM,417
+Sullivan,17-Jackson 1 split,Governor,,John Gregg,DEM,208
+Sullivan,18-Jackson 2 split,Governor,,John Gregg,DEM,182
+Sullivan,19-Jefferson city,Governor,,John Gregg,DEM,92
+Sullivan,20-Turman city,Governor,,John Gregg,DEM,312
+Sullivan,,Governor,,John Gregg,DEM,4720
+Sullivan,01-Cass 1 split,Governor,,Rex Bell,LBT,13
+Sullivan,02-Cass 2 split,Governor,,Rex Bell,LBT,7
+Sullivan,03-Curry 1,Governor,,Rex Bell,LBT,11
+Sullivan,04-Curry 2,Governor,,Rex Bell,LBT,12
+Sullivan,05-Curry 3 City,Governor,,Rex Bell,LBT,12
+Sullivan,06-Fairbanks city,Governor,,Rex Bell,LBT,7
+Sullivan,07-Gill 1 city,Governor,,Rex Bell,LBT,1
+Sullivan,08-Gill 2 split,Governor,,Rex Bell,LBT,3
+Sullivan,09-Haddon 1 city,Governor,,Rex Bell,LBT,6
+Sullivan,10-Haddon 2 split,Governor,,Rex Bell,LBT,11
+Sullivan,11-Hamilton 1,Governor,,Rex Bell,LBT,14
+Sullivan,12-Hamilton 2,Governor,,Rex Bell,LBT,9
+Sullivan,13-Hamilton 3,Governor,,Rex Bell,LBT,7
+Sullivan,14-Hamilton 4,Governor,,Rex Bell,LBT,4
+Sullivan,15-Hamilton 5 city,Governor,,Rex Bell,LBT,11
+Sullivan,16-Hamilton 6 city,Governor,,Rex Bell,LBT,13
+Sullivan,17-Jackson 1 split,Governor,,Rex Bell,LBT,9
+Sullivan,18-Jackson 2 split,Governor,,Rex Bell,LBT,5
+Sullivan,19-Jefferson city,Governor,,Rex Bell,LBT,3
+Sullivan,20-Turman city,Governor,,Rex Bell,LBT,18
+Sullivan,,Governor,,Rex Bell,LBT,176
+Sullivan,01-Cass 1 split,Governor,,Write-ins,,0
+Sullivan,02-Cass 2 split,Governor,,Write-ins,,0
+Sullivan,03-Curry 1,Governor,,Write-ins,,0
+Sullivan,04-Curry 2,Governor,,Write-ins,,0
+Sullivan,05-Curry 3 City,Governor,,Write-ins,,0
+Sullivan,06-Fairbanks city,Governor,,Write-ins,,1
+Sullivan,07-Gill 1 city,Governor,,Write-ins,,0
+Sullivan,08-Gill 2 split,Governor,,Write-ins,,1
+Sullivan,09-Haddon 1 city,Governor,,Write-ins,,0
+Sullivan,10-Haddon 2 split,Governor,,Write-ins,,0
+Sullivan,11-Hamilton 1,Governor,,Write-ins,,0
+Sullivan,12-Hamilton 2,Governor,,Write-ins,,0
+Sullivan,13-Hamilton 3,Governor,,Write-ins,,1
+Sullivan,14-Hamilton 4,Governor,,Write-ins,,0
+Sullivan,15-Hamilton 5 city,Governor,,Write-ins,,0
+Sullivan,16-Hamilton 6 city,Governor,,Write-ins,,0
+Sullivan,17-Jackson 1 split,Governor,,Write-ins,,0
+Sullivan,18-Jackson 2 split,Governor,,Write-ins,,1
+Sullivan,19-Jefferson city,Governor,,Write-ins,,0
+Sullivan,20-Turman city,Governor,,Write-ins,,0
+Sullivan,,Governor,,Write-ins,,4
+Sullivan,01-Cass 1 split,Attorney General,,Curtis Hill,REP,226
+Sullivan,02-Cass 2 split,Attorney General,,Curtis Hill,REP,269
+Sullivan,03-Curry 1,Attorney General,,Curtis Hill,REP,278
+Sullivan,04-Curry 2,Attorney General,,Curtis Hill,REP,246
+Sullivan,05-Curry 3 City,Attorney General,,Curtis Hill,REP,359
+Sullivan,06-Fairbanks city,Attorney General,,Curtis Hill,REP,272
+Sullivan,07-Gill 1 city,Attorney General,,Curtis Hill,REP,143
+Sullivan,08-Gill 2 split,Attorney General,,Curtis Hill,REP,97
+Sullivan,09-Haddon 1 city,Attorney General,,Curtis Hill,REP,120
+Sullivan,10-Haddon 2 split,Attorney General,,Curtis Hill,REP,386
+Sullivan,11-Hamilton 1,Attorney General,,Curtis Hill,REP,209
+Sullivan,12-Hamilton 2,Attorney General,,Curtis Hill,REP,307
+Sullivan,13-Hamilton 3,Attorney General,,Curtis Hill,REP,240
+Sullivan,14-Hamilton 4,Attorney General,,Curtis Hill,REP,122
+Sullivan,15-Hamilton 5 city,Attorney General,,Curtis Hill,REP,402
+Sullivan,16-Hamilton 6 city,Attorney General,,Curtis Hill,REP,467
+Sullivan,17-Jackson 1 split,Attorney General,,Curtis Hill,REP,323
+Sullivan,18-Jackson 2 split,Attorney General,,Curtis Hill,REP,204
+Sullivan,19-Jefferson city,Attorney General,,Curtis Hill,REP,110
+Sullivan,20-Turman city,Attorney General,,Curtis Hill,REP,400
+Sullivan,,Attorney General,,Curtis Hill,REP,5180
+Sullivan,01-Cass 1 split,Attorney General,,Lorenzo Arredondo,DEM,97
+Sullivan,02-Cass 2 split,Attorney General,,Lorenzo Arredondo,DEM,172
+Sullivan,03-Curry 1,Attorney General,,Lorenzo Arredondo,DEM,140
+Sullivan,04-Curry 2,Attorney General,,Lorenzo Arredondo,DEM,142
+Sullivan,05-Curry 3 City,Attorney General,,Lorenzo Arredondo,DEM,139
+Sullivan,06-Fairbanks city,Attorney General,,Lorenzo Arredondo,DEM,93
+Sullivan,07-Gill 1 city,Attorney General,,Lorenzo Arredondo,DEM,82
+Sullivan,08-Gill 2 split,Attorney General,,Lorenzo Arredondo,DEM,67
+Sullivan,09-Haddon 1 city,Attorney General,,Lorenzo Arredondo,DEM,67
+Sullivan,10-Haddon 2 split,Attorney General,,Lorenzo Arredondo,DEM,151
+Sullivan,11-Hamilton 1,Attorney General,,Lorenzo Arredondo,DEM,139
+Sullivan,12-Hamilton 2,Attorney General,,Lorenzo Arredondo,DEM,233
+Sullivan,13-Hamilton 3,Attorney General,,Lorenzo Arredondo,DEM,158
+Sullivan,14-Hamilton 4,Attorney General,,Lorenzo Arredondo,DEM,109
+Sullivan,15-Hamilton 5 city,Attorney General,,Lorenzo Arredondo,DEM,175
+Sullivan,16-Hamilton 6 city,Attorney General,,Lorenzo Arredondo,DEM,202
+Sullivan,17-Jackson 1 split,Attorney General,,Lorenzo Arredondo,DEM,108
+Sullivan,18-Jackson 2 split,Attorney General,,Lorenzo Arredondo,DEM,112
+Sullivan,19-Jefferson city,Attorney General,,Lorenzo Arredondo,DEM,45
+Sullivan,20-Turman city,Attorney General,,Lorenzo Arredondo,DEM,135
+Sullivan,,Attorney General,,Lorenzo Arredondo,DEM,2566
+Sullivan,01-Cass 1 split,Public Instruction,,Jennifer McCormick,REP,178
+Sullivan,02-Cass 2 split,Public Instruction,,Jennifer McCormick,REP,196
+Sullivan,03-Curry 1,Public Instruction,,Jennifer McCormick,REP,238
+Sullivan,04-Curry 2,Public Instruction,,Jennifer McCormick,REP,207
+Sullivan,05-Curry 3 City,Public Instruction,,Jennifer McCormick,REP,282
+Sullivan,06-Fairbanks city,Public Instruction,,Jennifer McCormick,REP,208
+Sullivan,07-Gill 1 city,Public Instruction,,Jennifer McCormick,REP,114
+Sullivan,08-Gill 2 split,Public Instruction,,Jennifer McCormick,REP,83
+Sullivan,09-Haddon 1 city,Public Instruction,,Jennifer McCormick,REP,92
+Sullivan,10-Haddon 2 split,Public Instruction,,Jennifer McCormick,REP,296
+Sullivan,11-Hamilton 1,Public Instruction,,Jennifer McCormick,REP,157
+Sullivan,12-Hamilton 2,Public Instruction,,Jennifer McCormick,REP,251
+Sullivan,13-Hamilton 3,Public Instruction,,Jennifer McCormick,REP,178
+Sullivan,14-Hamilton 4,Public Instruction,,Jennifer McCormick,REP,112
+Sullivan,15-Hamilton 5 city,Public Instruction,,Jennifer McCormick,REP,312
+Sullivan,16-Hamilton 6 city,Public Instruction,,Jennifer McCormick,REP,364
+Sullivan,17-Jackson 1 split,Public Instruction,,Jennifer McCormick,REP,272
+Sullivan,18-Jackson 2 split,Public Instruction,,Jennifer McCormick,REP,165
+Sullivan,19-Jefferson city,Public Instruction,,Jennifer McCormick,REP,93
+Sullivan,20-Turman city,Public Instruction,,Jennifer McCormick,REP,317
+Sullivan,,Public Instruction,,Jennifer McCormick,REP,4115
+Sullivan,01-Cass 1 split,Public Instruction,,Glenda Ritz,DEM,165
+Sullivan,02-Cass 2 split,Public Instruction,,Glenda Ritz,DEM,277
+Sullivan,03-Curry 1,Public Instruction,,Glenda Ritz,DEM,199
+Sullivan,04-Curry 2,Public Instruction,,Glenda Ritz,DEM,193
+Sullivan,05-Curry 3 City,Public Instruction,,Glenda Ritz,DEM,245
+Sullivan,06-Fairbanks city,Public Instruction,,Glenda Ritz,DEM,165
+Sullivan,07-Gill 1 city,Public Instruction,,Glenda Ritz,DEM,130
+Sullivan,08-Gill 2 split,Public Instruction,,Glenda Ritz,DEM,87
+Sullivan,09-Haddon 1 city,Public Instruction,,Glenda Ritz,DEM,103
+Sullivan,10-Haddon 2 split,Public Instruction,,Glenda Ritz,DEM,282
+Sullivan,11-Hamilton 1,Public Instruction,,Glenda Ritz,DEM,201
+Sullivan,12-Hamilton 2,Public Instruction,,Glenda Ritz,DEM,321
+Sullivan,13-Hamilton 3,Public Instruction,,Glenda Ritz,DEM,236
+Sullivan,14-Hamilton 4,Public Instruction,,Glenda Ritz,DEM,132
+Sullivan,15-Hamilton 5 city,Public Instruction,,Glenda Ritz,DEM,296
+Sullivan,16-Hamilton 6 city,Public Instruction,,Glenda Ritz,DEM,352
+Sullivan,17-Jackson 1 split,Public Instruction,,Glenda Ritz,DEM,170
+Sullivan,18-Jackson 2 split,Public Instruction,,Glenda Ritz,DEM,160
+Sullivan,19-Jefferson city,Public Instruction,,Glenda Ritz,DEM,71
+Sullivan,20-Turman city,Public Instruction,,Glenda Ritz,DEM,250
+Sullivan,,Public Instruction,,Glenda Ritz,DEM,4035
+Sullivan,01-Cass 1 split,U.S. House,8,Larry Bucshon,REP,220
+Sullivan,02-Cass 2 split,U.S. House,8,Larry Bucshon,REP,254
+Sullivan,03-Curry 1,U.S. House,8,Larry Bucshon,REP,255
+Sullivan,04-Curry 2,U.S. House,8,Larry Bucshon,REP,232
+Sullivan,05-Curry 3 City,U.S. House,8,Larry Bucshon,REP,321
+Sullivan,06-Fairbanks city,U.S. House,8,Larry Bucshon,REP,228
+Sullivan,07-Gill 1 city,U.S. House,8,Larry Bucshon,REP,145
+Sullivan,08-Gill 2 split,U.S. House,8,Larry Bucshon,REP,99
+Sullivan,09-Haddon 1 city,U.S. House,8,Larry Bucshon,REP,112
+Sullivan,10-Haddon 2 split,U.S. House,8,Larry Bucshon,REP,372
+Sullivan,11-Hamilton 1,U.S. House,8,Larry Bucshon,REP,202
+Sullivan,12-Hamilton 2,U.S. House,8,Larry Bucshon,REP,296
+Sullivan,13-Hamilton 3,U.S. House,8,Larry Bucshon,REP,227
+Sullivan,14-Hamilton 4,U.S. House,8,Larry Bucshon,REP,122
+Sullivan,15-Hamilton 5 city,U.S. House,8,Larry Bucshon,REP,392
+Sullivan,16-Hamilton 6 city,U.S. House,8,Larry Bucshon,REP,452
+Sullivan,17-Jackson 1 split,U.S. House,8,Larry Bucshon,REP,284
+Sullivan,18-Jackson 2 split,U.S. House,8,Larry Bucshon,REP,198
+Sullivan,19-Jefferson city,U.S. House,8,Larry Bucshon,REP,107
+Sullivan,20-Turman city,U.S. House,8,Larry Bucshon,REP,376
+Sullivan,,U.S. House,8,Larry Bucshon,REP,4894
+Sullivan,01-Cass 1 split,U.S. House,8,Ron Drake,DEM,120
+Sullivan,02-Cass 2 split,U.S. House,8,Ron Drake,DEM,202
+Sullivan,03-Curry 1,U.S. House,8,Ron Drake,DEM,160
+Sullivan,04-Curry 2,U.S. House,8,Ron Drake,DEM,160
+Sullivan,05-Curry 3 City,U.S. House,8,Ron Drake,DEM,190
+Sullivan,06-Fairbanks city,U.S. House,8,Ron Drake,DEM,142
+Sullivan,07-Gill 1 city,U.S. House,8,Ron Drake,DEM,96
+Sullivan,08-Gill 2 split,U.S. House,8,Ron Drake,DEM,68
+Sullivan,09-Haddon 1 city,U.S. House,8,Ron Drake,DEM,81
+Sullivan,10-Haddon 2 split,U.S. House,8,Ron Drake,DEM,191
+Sullivan,11-Hamilton 1,U.S. House,8,Ron Drake,DEM,148
+Sullivan,12-Hamilton 2,U.S. House,8,Ron Drake,DEM,264
+Sullivan,13-Hamilton 3,U.S. House,8,Ron Drake,DEM,174
+Sullivan,14-Hamilton 4,U.S. House,8,Ron Drake,DEM,120
+Sullivan,15-Hamilton 5 city,U.S. House,8,Ron Drake,DEM,210
+Sullivan,16-Hamilton 6 city,U.S. House,8,Ron Drake,DEM,247
+Sullivan,17-Jackson 1 split,U.S. House,8,Ron Drake,DEM,156
+Sullivan,18-Jackson 2 split,U.S. House,8,Ron Drake,DEM,127
+Sullivan,19-Jefferson city,U.S. House,8,Ron Drake,DEM,53
+Sullivan,20-Turman city,U.S. House,8,Ron Drake,DEM,183
+Sullivan,,U.S. House,8,Ron Drake,DEM,3092
+Sullivan,01-Cass 1 split,U.S. House,8,Andrew Horning,LBT,16
+Sullivan,02-Cass 2 split,U.S. House,8,Andrew Horning,LBT,17
+Sullivan,03-Curry 1,U.S. House,8,Andrew Horning,LBT,30
+Sullivan,04-Curry 2,U.S. House,8,Andrew Horning,LBT,17
+Sullivan,05-Curry 3 City,U.S. House,8,Andrew Horning,LBT,16
+Sullivan,06-Fairbanks city,U.S. House,8,Andrew Horning,LBT,14
+Sullivan,07-Gill 1 city,U.S. House,8,Andrew Horning,LBT,4
+Sullivan,08-Gill 2 split,U.S. House,8,Andrew Horning,LBT,6
+Sullivan,09-Haddon 1 city,U.S. House,8,Andrew Horning,LBT,10
+Sullivan,10-Haddon 2 split,U.S. House,8,Andrew Horning,LBT,19
+Sullivan,11-Hamilton 1,U.S. House,8,Andrew Horning,LBT,17
+Sullivan,12-Hamilton 2,U.S. House,8,Andrew Horning,LBT,27
+Sullivan,13-Hamilton 3,U.S. House,8,Andrew Horning,LBT,17
+Sullivan,14-Hamilton 4,U.S. House,8,Andrew Horning,LBT,7
+Sullivan,15-Hamilton 5 city,U.S. House,8,Andrew Horning,LBT,13
+Sullivan,16-Hamilton 6 city,U.S. House,8,Andrew Horning,LBT,25
+Sullivan,17-Jackson 1 split,U.S. House,8,Andrew Horning,LBT,15
+Sullivan,18-Jackson 2 split,U.S. House,8,Andrew Horning,LBT,6
+Sullivan,19-Jefferson city,U.S. House,8,Andrew Horning,LBT,8
+Sullivan,20-Turman city,U.S. House,8,Andrew Horning,LBT,25
+Sullivan,,U.S. House,8,Andrew Horning,LBT,309
+Sullivan,01-Cass 1 split,U.S. House,8,Write-ins,,0
+Sullivan,02-Cass 2 split,U.S. House,8,Write-ins,,0
+Sullivan,03-Curry 1,U.S. House,8,Write-ins,,0
+Sullivan,04-Curry 2,U.S. House,8,Write-ins,,0
+Sullivan,05-Curry 3 City,U.S. House,8,Write-ins,,0
+Sullivan,06-Fairbanks city,U.S. House,8,Write-ins,,0
+Sullivan,07-Gill 1 city,U.S. House,8,Write-ins,,0
+Sullivan,08-Gill 2 split,U.S. House,8,Write-ins,,0
+Sullivan,09-Haddon 1 city,U.S. House,8,Write-ins,,0
+Sullivan,10-Haddon 2 split,U.S. House,8,Write-ins,,0
+Sullivan,11-Hamilton 1,U.S. House,8,Write-ins,,1
+Sullivan,12-Hamilton 2,U.S. House,8,Write-ins,,0
+Sullivan,13-Hamilton 3,U.S. House,8,Write-ins,,0
+Sullivan,14-Hamilton 4,U.S. House,8,Write-ins,,1
+Sullivan,15-Hamilton 5 city,U.S. House,8,Write-ins,,0
+Sullivan,16-Hamilton 6 city,U.S. House,8,Write-ins,,0
+Sullivan,17-Jackson 1 split,U.S. House,8,Write-ins,,0
+Sullivan,18-Jackson 2 split,U.S. House,8,Write-ins,,0
+Sullivan,19-Jefferson city,U.S. House,8,Write-ins,,0
+Sullivan,20-Turman city,U.S. House,8,Write-ins,,0
+Sullivan,,U.S. House,8,Write-ins,,2
+Sullivan,01-Cass 1 split,State House,45,Bruce Borders,REP,278
+Sullivan,02-Cass 2 split,State House,45,Bruce Borders,REP,357
+Sullivan,03-Curry 1,State House,45,Bruce Borders,REP,344
+Sullivan,04-Curry 2,State House,45,Bruce Borders,REP,330
+Sullivan,05-Curry 3 City,State House,45,Bruce Borders,REP,452
+Sullivan,06-Fairbanks city,State House,45,Bruce Borders,REP,307
+Sullivan,07-Gill 1 city,State House,45,Bruce Borders,REP,167
+Sullivan,08-Gill 2 split,State House,45,Bruce Borders,REP,131
+Sullivan,09-Haddon 1 city,State House,45,Bruce Borders,REP,147
+Sullivan,10-Haddon 2 split,State House,45,Bruce Borders,REP,468
+Sullivan,11-Hamilton 1,State House,45,Bruce Borders,REP,271
+Sullivan,12-Hamilton 2,State House,45,Bruce Borders,REP,406
+Sullivan,13-Hamilton 3,State House,45,Bruce Borders,REP,307
+Sullivan,14-Hamilton 4,State House,45,Bruce Borders,REP,169
+Sullivan,15-Hamilton 5 city,State House,45,Bruce Borders,REP,474
+Sullivan,16-Hamilton 6 city,State House,45,Bruce Borders,REP,554
+Sullivan,17-Jackson 1 split,State House,45,Bruce Borders,REP,372
+Sullivan,18-Jackson 2 split,State House,45,Bruce Borders,REP,230
+Sullivan,19-Jefferson city,State House,45,Bruce Borders,REP,137
+Sullivan,20-Turman city,State House,45,Bruce Borders,REP,483
+Sullivan,,State House,45,Bruce Borders,REP,6384

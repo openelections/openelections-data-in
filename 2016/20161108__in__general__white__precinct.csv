@@ -1,0 +1,600 @@
+county,precinct,office,district,candidate,party,votes
+White,Big Creek,Voters,,Registered,,621
+White,Big Creek,Voters,,Ballots Cast,,388
+White,Big Creek,President,,Donald J. Trump,R,275
+White,Big Creek,President,,Hillary Clinton,D,86
+White,Big Creek,President,,Gary Johnson,L,19
+White,Big Creek,President,,Write-In,,1
+White,Big Creek,U.S. Senate,,Todd Young,R,245
+White,Big Creek,U.S. Senate,,Evan Bayh,D,112
+White,Big Creek,U.S. Senate,,Lucy Brenton,L,23
+White,Big Creek,U.S. Senate,,Write-In,,0
+White,Big Creek,Governor,,Eric Holcomb,R,240
+White,Big Creek,Governor,,John R. Gregg,D,124
+White,Big Creek,Governor,,Rex Bell,L,15
+White,Big Creek,Governor,,Write-in,,0
+White,Big Creek,Attorney General,,"Curtis T. Hill, Jr.",R,286
+White,Big Creek,Attorney General,,Lorenzo Arredondo,D,84
+White,Big Creek,Superintendent of Public Instruction,,Jennifer McCormick,R,250
+White,Big Creek,Superintendent of Public Instruction,,Glenda Ritz,D,129
+White,Big Creek,U.S. House,4,Todd Rokita,R,277
+White,Big Creek,U.S. House,4,John Dale,D,81
+White,Big Creek,U.S. House,4,Steven M. Mayoras,L,19
+White,Big Creek,U.S. House,4,Write-in,,0
+White,Big Creek,State Senate,7,Brandt Hershman,R,299
+White,Big Creek,State Senate,7,Justin Notoras,D,74
+White,Big Creek,State House,25,Donald J. Lehe,R,287
+White,Big Creek,State House,25,Maurice O. Fuller,D,80
+White,Big Creek,State House,25,Franklyn Voorhies,L,13
+White,Big Creek,Voters,,Straight Ticket,D,35
+White,Big Creek,Voters,,Straight Ticket,L,1
+White,Big Creek,Voters,,Straight Ticket,R,138
+White,Cass,Voters,,Registered,,349
+White,Cass,Voters,,Ballots Cast,,219
+White,Cass,President,,Donald J. Trump,R,169
+White,Cass,President,,Hillary Clinton,D,33
+White,Cass,President,,Gary Johnson,L,13
+White,Cass,President,,Write-In,,0
+White,Cass,U.S. Senate,,Todd Young,R,142
+White,Cass,U.S. Senate,,Evan Bayh,D,59
+White,Cass,U.S. Senate,,Lucy Brenton,L,14
+White,Cass,U.S. Senate,,Write-In,,0
+White,Cass,Governor,,Eric Holcomb,R,141
+White,Cass,Governor,,John R. Gregg,D,64
+White,Cass,Governor,,Rex Bell,L,10
+White,Cass,Governor,,Write-in,,0
+White,Cass,Attorney General,,"Curtis T. Hill, Jr.",R,169
+White,Cass,Attorney General,,Lorenzo Arredondo,D,41
+White,Cass,Superintendent of Public Instruction,,Jennifer McCormick,R,138
+White,Cass,Superintendent of Public Instruction,,Glenda Ritz,D,77
+White,Cass,U.S. House,4,Todd Rokita,R,157
+White,Cass,U.S. House,4,John Dale,D,46
+White,Cass,U.S. House,4,Steven M. Mayoras,L,13
+White,Cass,U.S. House,4,Write-in,,0
+White,Cass,State Senate,7,Brandt Hershman,R,167
+White,Cass,State Senate,7,Justin Notoras,D,47
+White,Cass,State House,25,Donald J. Lehe,R,148
+White,Cass,State House,25,Maurice O. Fuller,D,49
+White,Cass,State House,25,Franklyn Voorhies,L,16
+White,Cass,Voters,,Straight Ticket,D,17
+White,Cass,Voters,,Straight Ticket,L,3
+White,Cass,Voters,,Straight Ticket,R,75
+White,Honey Creek,Voters,,Registered,,802
+White,Honey Creek,Voters,,Ballots Cast,,519
+White,Honey Creek,President,,Donald J. Trump,R,353
+White,Honey Creek,President,,Hillary Clinton,D,121
+White,Honey Creek,President,,Gary Johnson,L,19
+White,Honey Creek,President,,Write-In,,9
+White,Honey Creek,U.S. Senate,,Todd Young,R,332
+White,Honey Creek,U.S. Senate,,Evan Bayh,D,138
+White,Honey Creek,U.S. Senate,,Lucy Brenton,L,32
+White,Honey Creek,U.S. Senate,,Write-In,,0
+White,Honey Creek,Governor,,Eric Holcomb,R,329
+White,Honey Creek,Governor,,John R. Gregg,D,162
+White,Honey Creek,Governor,,Rex Bell,L,12
+White,Honey Creek,Governor,,Write-in,,0
+White,Honey Creek,Attorney General,,"Curtis T. Hill, Jr.",R,379
+White,Honey Creek,Attorney General,,Lorenzo Arredondo,D,111
+White,Honey Creek,Superintendent of Public Instruction,,Jennifer McCormick,R,328
+White,Honey Creek,Superintendent of Public Instruction,,Glenda Ritz,D,169
+White,Honey Creek,U.S. House,4,Todd Rokita,R,377
+White,Honey Creek,U.S. House,4,John Dale,D,105
+White,Honey Creek,U.S. House,4,Steven M. Mayoras,L,15
+White,Honey Creek,U.S. House,4,Write-in,,0
+White,Honey Creek,State Senate,7,Brandt Hershman,R,389
+White,Honey Creek,State Senate,7,Justin Notoras,D,107
+White,Honey Creek,State House,25,Donald J. Lehe,R,371
+White,Honey Creek,State House,25,Maurice O. Fuller,D,103
+White,Honey Creek,State House,25,Franklyn Voorhies,L,23
+White,Honey Creek,Voters,,Straight Ticket,D,37
+White,Honey Creek,Voters,,Straight Ticket,L,4
+White,Honey Creek,Voters,,Straight Ticket,R,185
+White,Jackson,Voters,,Registered,,443
+White,Jackson,Voters,,Ballots Cast,,297
+White,Jackson,President,,Donald J. Trump,R,223
+White,Jackson,President,,Hillary Clinton,D,58
+White,Jackson,President,,Gary Johnson,L,12
+White,Jackson,President,,Write-In,,0
+White,Jackson,U.S. Senate,,Todd Young,R,182
+White,Jackson,U.S. Senate,,Evan Bayh,D,81
+White,Jackson,U.S. Senate,,Lucy Brenton,L,24
+White,Jackson,U.S. Senate,,Write-In,,0
+White,Jackson,Governor,,Eric Holcomb,R,184
+White,Jackson,Governor,,John R. Gregg,D,91
+White,Jackson,Governor,,Rex Bell,L,11
+White,Jackson,Governor,,Write-in,,0
+White,Jackson,Attorney General,,"Curtis T. Hill, Jr.",R,212
+White,Jackson,Attorney General,,Lorenzo Arredondo,D,70
+White,Jackson,Superintendent of Public Instruction,,Jennifer McCormick,R,184
+White,Jackson,Superintendent of Public Instruction,,Glenda Ritz,D,102
+White,Jackson,U.S. House,4,Todd Rokita,R,203
+White,Jackson,U.S. House,4,John Dale,D,64
+White,Jackson,U.S. House,4,Steven M. Mayoras,L,18
+White,Jackson,U.S. House,4,Write-in,,0
+White,Jackson,State Senate,7,Brandt Hershman,R,222
+White,Jackson,State Senate,7,Justin Notoras,D,64
+White,Jackson,State House,25,Donald J. Lehe,R,201
+White,Jackson,State House,25,Maurice O. Fuller,D,59
+White,Jackson,State House,25,Franklyn Voorhies,L,23
+White,Jackson,Voters,,Straight Ticket,D,34
+White,Jackson,Voters,,Straight Ticket,L,2
+White,Jackson,Voters,,Straight Ticket,R,98
+White,Liberty,Voters,,Registered,,1659
+White,Liberty,Voters,,Ballots Cast,,1029
+White,Liberty,President,,Donald J. Trump,R,720
+White,Liberty,President,,Hillary Clinton,D,233
+White,Liberty,President,,Gary Johnson,L,43
+White,Liberty,President,,Write-In,,8
+White,Liberty,U.S. Senate,,Todd Young,R,605
+White,Liberty,U.S. Senate,,Evan Bayh,D,318
+White,Liberty,U.S. Senate,,Lucy Brenton,L,80
+White,Liberty,U.S. Senate,,Write-In,,0
+White,Liberty,Governor,,Eric Holcomb,R,611
+White,Liberty,Governor,,John R. Gregg,D,349
+White,Liberty,Governor,,Rex Bell,L,40
+White,Liberty,Governor,,Write-in,,1
+White,Liberty,Attorney General,,"Curtis T. Hill, Jr.",R,737
+White,Liberty,Attorney General,,Lorenzo Arredondo,D,247
+White,Liberty,Superintendent of Public Instruction,,Jennifer McCormick,R,631
+White,Liberty,Superintendent of Public Instruction,,Glenda Ritz,D,365
+White,Liberty,U.S. House,4,Todd Rokita,R,687
+White,Liberty,U.S. House,4,John Dale,D,260
+White,Liberty,U.S. House,4,Steven M. Mayoras,L,53
+White,Liberty,U.S. House,4,Write-in,,0
+White,Liberty,State Senate,7,Brandt Hershman,R,756
+White,Liberty,State Senate,7,Justin Notoras,D,241
+White,Liberty,State House,25,Donald J. Lehe,R,671
+White,Liberty,State House,25,Maurice O. Fuller,D,251
+White,Liberty,State House,25,Franklyn Voorhies,L,77
+White,Liberty,Voters,,Straight Ticket,D,124
+White,Liberty,Voters,,Straight Ticket,L,11
+White,Liberty,Voters,,Straight Ticket,R,346
+White,Lincoln,Voters,,Registered,,368
+White,Lincoln,Voters,,Ballots Cast,,235
+White,Lincoln,President,,Donald J. Trump,R,172
+White,Lincoln,President,,Hillary Clinton,D,43
+White,Lincoln,President,,Gary Johnson,L,9
+White,Lincoln,President,,Write-In,,0
+White,Lincoln,U.S. Senate,,Todd Young,R,152
+White,Lincoln,U.S. Senate,,Evan Bayh,D,57
+White,Lincoln,U.S. Senate,,Lucy Brenton,L,19
+White,Lincoln,U.S. Senate,,Write-In,,0
+White,Lincoln,Governor,,Eric Holcomb,R,155
+White,Lincoln,Governor,,John R. Gregg,D,67
+White,Lincoln,Governor,,Rex Bell,L,6
+White,Lincoln,Governor,,Write-in,,0
+White,Lincoln,Attorney General,,"Curtis T. Hill, Jr.",R,183
+White,Lincoln,Attorney General,,Lorenzo Arredondo,D,36
+White,Lincoln,Superintendent of Public Instruction,,Jennifer McCormick,R,147
+White,Lincoln,Superintendent of Public Instruction,,Glenda Ritz,D,76
+White,Lincoln,U.S. House,4,Todd Rokita,R,170
+White,Lincoln,U.S. House,4,John Dale,D,44
+White,Lincoln,U.S. House,4,Steven M. Mayoras,L,12
+White,Lincoln,U.S. House,4,Write-in,,0
+White,Lincoln,State Senate,7,Brandt Hershman,R,183
+White,Lincoln,State Senate,7,Justin Notoras,D,41
+White,Lincoln,State House,25,Donald J. Lehe,R,161
+White,Lincoln,State House,25,Maurice O. Fuller,D,46
+White,Lincoln,State House,25,Franklyn Voorhies,L,17
+White,Lincoln,Voters,,Straight Ticket,D,16
+White,Lincoln,Voters,,Straight Ticket,L,2
+White,Lincoln,Voters,,Straight Ticket,R,103
+White,Monon,Voters,,Registered,,1951
+White,Monon,Voters,,Ballots Cast,,1046
+White,Monon,President,,Donald J. Trump,R,703
+White,Monon,President,,Hillary Clinton,D,256
+White,Monon,President,,Gary Johnson,L,40
+White,Monon,President,,Write-In,,10
+White,Monon,U.S. Senate,,Todd Young,R,631
+White,Monon,U.S. Senate,,Evan Bayh,D,307
+White,Monon,U.S. Senate,,Lucy Brenton,L,70
+White,Monon,U.S. Senate,,Write-In,,0
+White,Monon,Governor,,Eric Holcomb,R,614
+White,Monon,Governor,,John R. Gregg,D,364
+White,Monon,Governor,,Rex Bell,L,34
+White,Monon,Governor,,Write-in,,0
+White,Monon,Attorney General,,"Curtis T. Hill, Jr.",R,734
+White,Monon,Attorney General,,Lorenzo Arredondo,D,263
+White,Monon,Superintendent of Public Instruction,,Jennifer McCormick,R,641
+White,Monon,Superintendent of Public Instruction,,Glenda Ritz,D,365
+White,Monon,U.S. House,4,Todd Rokita,R,695
+White,Monon,U.S. House,4,John Dale,D,251
+White,Monon,U.S. House,4,Steven M. Mayoras,L,57
+White,Monon,U.S. House,4,Write-in,,0
+White,Monon,State Senate,7,Brandt Hershman,R,751
+White,Monon,State Senate,7,Justin Notoras,D,253
+White,Monon,State House,25,Donald J. Lehe,R,688
+White,Monon,State House,25,Maurice O. Fuller,D,245
+White,Monon,State House,25,Franklyn Voorhies,L,65
+White,Monon,Voters,,Straight Ticket,D,150
+White,Monon,Voters,,Straight Ticket,L,14
+White,Monon,Voters,,Straight Ticket,R,358
+White,Prairie 1,Voters,,Registered,,1096
+White,Prairie 1,Voters,,Ballots Cast,,665
+White,Prairie 1,President,,Donald J. Trump,R,408
+White,Prairie 1,President,,Hillary Clinton,D,171
+White,Prairie 1,President,,Gary Johnson,L,52
+White,Prairie 1,President,,Write-In,,12
+White,Prairie 1,U.S. Senate,,Todd Young,R,373
+White,Prairie 1,U.S. Senate,,Evan Bayh,D,237
+White,Prairie 1,U.S. Senate,,Lucy Brenton,L,36
+White,Prairie 1,U.S. Senate,,Write-In,,0
+White,Prairie 1,Governor,,Eric Holcomb,R,376
+White,Prairie 1,Governor,,John R. Gregg,D,239
+White,Prairie 1,Governor,,Rex Bell,L,29
+White,Prairie 1,Governor,,Write-in,,0
+White,Prairie 1,Attorney General,,"Curtis T. Hill, Jr.",R,461
+White,Prairie 1,Attorney General,,Lorenzo Arredondo,D,172
+White,Prairie 1,Superintendent of Public Instruction,,Jennifer McCormick,R,363
+White,Prairie 1,Superintendent of Public Instruction,,Glenda Ritz,D,278
+White,Prairie 1,U.S. House,4,Todd Rokita,R,425
+White,Prairie 1,U.S. House,4,John Dale,D,170
+White,Prairie 1,U.S. House,4,Steven M. Mayoras,L,48
+White,Prairie 1,U.S. House,4,Write-in,,0
+White,Prairie 1,State Senate,7,Brandt Hershman,R,470
+White,Prairie 1,State Senate,7,Justin Notoras,D,166
+White,Prairie 1,State House,25,Donald J. Lehe,R,436
+White,Prairie 1,State House,25,Maurice O. Fuller,D,161
+White,Prairie 1,State House,25,Franklyn Voorhies,L,42
+White,Prairie 1,Voters,,Straight Ticket,D,77
+White,Prairie 1,Voters,,Straight Ticket,L,11
+White,Prairie 1,Voters,,Straight Ticket,R,213
+White,Prairie 2,Voters,,Registered,,1382
+White,Prairie 2,Voters,,Ballots Cast,,851
+White,Prairie 2,President,,Donald J. Trump,R,564
+White,Prairie 2,President,,Hillary Clinton,D,220
+White,Prairie 2,President,,Gary Johnson,L,48
+White,Prairie 2,President,,Write-In,,3
+White,Prairie 2,U.S. Senate,,Todd Young,R,504
+White,Prairie 2,U.S. Senate,,Evan Bayh,D,275
+White,Prairie 2,U.S. Senate,,Lucy Brenton,L,63
+White,Prairie 2,U.S. Senate,,Write-In,,0
+White,Prairie 2,Governor,,Eric Holcomb,R,488
+White,Prairie 2,Governor,,John R. Gregg,D,313
+White,Prairie 2,Governor,,Rex Bell,L,31
+White,Prairie 2,Governor,,Write-in,,0
+White,Prairie 2,Attorney General,,"Curtis T. Hill, Jr.",R,589
+White,Prairie 2,Attorney General,,Lorenzo Arredondo,D,229
+White,Prairie 2,Superintendent of Public Instruction,,Jennifer McCormick,R,462
+White,Prairie 2,Superintendent of Public Instruction,,Glenda Ritz,D,365
+White,Prairie 2,U.S. House,4,Todd Rokita,R,543
+White,Prairie 2,U.S. House,4,John Dale,D,237
+White,Prairie 2,U.S. House,4,Steven M. Mayoras,L,55
+White,Prairie 2,U.S. House,4,Write-in,,0
+White,Prairie 2,State Senate,7,Brandt Hershman,R,600
+White,Prairie 2,State Senate,7,Justin Notoras,D,224
+White,Prairie 2,State House,25,Donald J. Lehe,R,573
+White,Prairie 2,State House,25,Maurice O. Fuller,D,209
+White,Prairie 2,State House,25,Franklyn Voorhies,L,44
+White,Prairie 2,Voters,,Straight Ticket,D,111
+White,Prairie 2,Voters,,Straight Ticket,L,10
+White,Prairie 2,Voters,,Straight Ticket,R,262
+White,Princeton,Voters,,Registered,,1046
+White,Princeton,Voters,,Ballots Cast,,636
+White,Princeton,President,,Donald J. Trump,R,450
+White,Princeton,President,,Hillary Clinton,D,129
+White,Princeton,President,,Gary Johnson,L,32
+White,Princeton,President,,Write-In,,5
+White,Princeton,U.S. Senate,,Todd Young,R,410
+White,Princeton,U.S. Senate,,Evan Bayh,D,155
+White,Princeton,U.S. Senate,,Lucy Brenton,L,50
+White,Princeton,U.S. Senate,,Write-In,,0
+White,Princeton,Governor,,Eric Holcomb,R,406
+White,Princeton,Governor,,John R. Gregg,D,180
+White,Princeton,Governor,,Rex Bell,L,29
+White,Princeton,Governor,,Write-in,,0
+White,Princeton,Attorney General,,"Curtis T. Hill, Jr.",R,479
+White,Princeton,Attorney General,,Lorenzo Arredondo,D,116
+White,Princeton,Superintendent of Public Instruction,,Jennifer McCormick,R,373
+White,Princeton,Superintendent of Public Instruction,,Glenda Ritz,D,230
+White,Princeton,U.S. House,4,Todd Rokita,R,456
+White,Princeton,U.S. House,4,John Dale,D,129
+White,Princeton,U.S. House,4,Steven M. Mayoras,L,26
+White,Princeton,U.S. House,4,Write-in,,0
+White,Princeton,State Senate,7,Brandt Hershman,R,494
+White,Princeton,State Senate,7,Justin Notoras,D,113
+White,Princeton,State House,13,Sharon Negele,R,468
+White,Princeton,State House,13,Mike Childress,D,140
+White,Princeton,Voters,,Straight Ticket,D,44
+White,Princeton,Voters,,Straight Ticket,L,10
+White,Princeton,Voters,,Straight Ticket,R,213
+White,Round Grove,Voters,,Registered,,203
+White,Round Grove,Voters,,Ballots Cast,,141
+White,Round Grove,President,,Donald J. Trump,R,85
+White,Round Grove,President,,Hillary Clinton,D,42
+White,Round Grove,President,,Gary Johnson,L,11
+White,Round Grove,President,,Write-In,,0
+White,Round Grove,U.S. Senate,,Todd Young,R,77
+White,Round Grove,U.S. Senate,,Evan Bayh,D,53
+White,Round Grove,U.S. Senate,,Lucy Brenton,L,7
+White,Round Grove,U.S. Senate,,Write-In,,0
+White,Round Grove,Governor,,Eric Holcomb,R,79
+White,Round Grove,Governor,,John R. Gregg,D,54
+White,Round Grove,Governor,,Rex Bell,L,3
+White,Round Grove,Governor,,Write-in,,0
+White,Round Grove,Attorney General,,"Curtis T. Hill, Jr.",R,96
+White,Round Grove,Attorney General,,Lorenzo Arredondo,D,37
+White,Round Grove,Superintendent of Public Instruction,,Jennifer McCormick,R,77
+White,Round Grove,Superintendent of Public Instruction,,Glenda Ritz,D,60
+White,Round Grove,U.S. House,4,Todd Rokita,R,90
+White,Round Grove,U.S. House,4,John Dale,D,41
+White,Round Grove,U.S. House,4,Steven M. Mayoras,L,4
+White,Round Grove,U.S. House,4,Write-in,,0
+White,Round Grove,State Senate,7,Brandt Hershman,R,99
+White,Round Grove,State Senate,7,Justin Notoras,D,36
+White,Round Grove,State House,13,Sharon Negele,R,94
+White,Round Grove,State House,13,Mike Childress,D,42
+White,Round Grove,Voters,,Straight Ticket,D,13
+White,Round Grove,Voters,,Straight Ticket,L,2
+White,Round Grove,Voters,,Straight Ticket,R,30
+White,Union 1,Voters,,Registered,,1328
+White,Union 1,Voters,,Ballots Cast,,834
+White,Union 1,President,,Donald J. Trump,R,559
+White,Union 1,President,,Hillary Clinton,D,217
+White,Union 1,President,,Gary Johnson,L,33
+White,Union 1,President,,Write-In,,6
+White,Union 1,U.S. Senate,,Todd Young,R,490
+White,Union 1,U.S. Senate,,Evan Bayh,D,276
+White,Union 1,U.S. Senate,,Lucy Brenton,L,50
+White,Union 1,U.S. Senate,,Write-In,,0
+White,Union 1,Governor,,Eric Holcomb,R,462
+White,Union 1,Governor,,John R. Gregg,D,321
+White,Union 1,Governor,,Rex Bell,L,31
+White,Union 1,Governor,,Write-in,,0
+White,Union 1,Attorney General,,"Curtis T. Hill, Jr.",R,585
+White,Union 1,Attorney General,,Lorenzo Arredondo,D,214
+White,Union 1,Superintendent of Public Instruction,,Jennifer McCormick,R,470
+White,Union 1,Superintendent of Public Instruction,,Glenda Ritz,D,338
+White,Union 1,U.S. House,4,Todd Rokita,R,561
+White,Union 1,U.S. House,4,John Dale,D,211
+White,Union 1,U.S. House,4,Steven M. Mayoras,L,35
+White,Union 1,U.S. House,4,Write-in,,0
+White,Union 1,State Senate,7,Brandt Hershman,R,586
+White,Union 1,State Senate,7,Justin Notoras,D,206
+White,Union 1,State House,25,Donald J. Lehe,R,553
+White,Union 1,State House,25,Maurice O. Fuller,D,197
+White,Union 1,State House,25,Franklyn Voorhies,L,53
+White,Union 1,Voters,,Straight Ticket,D,87
+White,Union 1,Voters,,Straight Ticket,L,9
+White,Union 1,Voters,,Straight Ticket,R,236
+White,Union 2,Voters,,Registered,,1109
+White,Union 2,Voters,,Ballots Cast,,656
+White,Union 2,President,,Donald J. Trump,R,412
+White,Union 2,President,,Hillary Clinton,D,185
+White,Union 2,President,,Gary Johnson,L,34
+White,Union 2,President,,Write-In,,6
+White,Union 2,U.S. Senate,,Todd Young,R,377
+White,Union 2,U.S. Senate,,Evan Bayh,D,212
+White,Union 2,U.S. Senate,,Lucy Brenton,L,50
+White,Union 2,U.S. Senate,,Write-In,,0
+White,Union 2,Governor,,Eric Holcomb,R,372
+White,Union 2,Governor,,John R. Gregg,D,247
+White,Union 2,Governor,,Rex Bell,L,21
+White,Union 2,Governor,,Write-in,,0
+White,Union 2,Attorney General,,"Curtis T. Hill, Jr.",R,445
+White,Union 2,Attorney General,,Lorenzo Arredondo,D,182
+White,Union 2,Superintendent of Public Instruction,,Jennifer McCormick,R,373
+White,Union 2,Superintendent of Public Instruction,,Glenda Ritz,D,261
+White,Union 2,U.S. House,4,Todd Rokita,R,412
+White,Union 2,U.S. House,4,John Dale,D,185
+White,Union 2,U.S. House,4,Steven M. Mayoras,L,34
+White,Union 2,U.S. House,4,Write-in,,0
+White,Union 2,State Senate,7,Brandt Hershman,R,461
+White,Union 2,State Senate,7,Justin Notoras,D,171
+White,Union 2,State House,25,Donald J. Lehe,R,422
+White,Union 2,State House,25,Maurice O. Fuller,D,169
+White,Union 2,State House,25,Franklyn Voorhies,L,43
+White,Union 2,Voters,,Straight Ticket,D,86
+White,Union 2,Voters,,Straight Ticket,L,11
+White,Union 2,Voters,,Straight Ticket,R,197
+White,Union 3,Voters,,Registered,,989
+White,Union 3,Voters,,Ballots Cast,,655
+White,Union 3,President,,Donald J. Trump,R,453
+White,Union 3,President,,Hillary Clinton,D,148
+White,Union 3,President,,Gary Johnson,L,32
+White,Union 3,President,,Write-In,,7
+White,Union 3,U.S. Senate,,Todd Young,R,410
+White,Union 3,U.S. Senate,,Evan Bayh,D,194
+White,Union 3,U.S. Senate,,Lucy Brenton,L,32
+White,Union 3,U.S. Senate,,Write-In,,0
+White,Union 3,Governor,,Eric Holcomb,R,417
+White,Union 3,Governor,,John R. Gregg,D,202
+White,Union 3,Governor,,Rex Bell,L,17
+White,Union 3,Governor,,Write-in,,0
+White,Union 3,Attorney General,,"Curtis T. Hill, Jr.",R,491
+White,Union 3,Attorney General,,Lorenzo Arredondo,D,129
+White,Union 3,Superintendent of Public Instruction,,Jennifer McCormick,R,403
+White,Union 3,Superintendent of Public Instruction,,Glenda Ritz,D,223
+White,Union 3,U.S. House,4,Todd Rokita,R,463
+White,Union 3,U.S. House,4,John Dale,D,139
+White,Union 3,U.S. House,4,Steven M. Mayoras,L,26
+White,Union 3,U.S. House,4,Write-in,,0
+White,Union 3,State Senate,7,Brandt Hershman,R,505
+White,Union 3,State Senate,7,Justin Notoras,D,122
+White,Union 3,State House,25,Donald J. Lehe,R,468
+White,Union 3,State House,25,Maurice O. Fuller,D,117
+White,Union 3,State House,25,Franklyn Voorhies,L,41
+White,Union 3,Voters,,Straight Ticket,D,43
+White,Union 3,Voters,,Straight Ticket,L,6
+White,Union 3,Voters,,Straight Ticket,R,209
+White,Union 4,Voters,,Registered,,994
+White,Union 4,Voters,,Ballots Cast,,587
+White,Union 4,President,,Donald J. Trump,R,347
+White,Union 4,President,,Hillary Clinton,D,196
+White,Union 4,President,,Gary Johnson,L,29
+White,Union 4,President,,Write-In,,2
+White,Union 4,U.S. Senate,,Todd Young,R,310
+White,Union 4,U.S. Senate,,Evan Bayh,D,225
+White,Union 4,U.S. Senate,,Lucy Brenton,L,39
+White,Union 4,U.S. Senate,,Write-In,,0
+White,Union 4,Governor,,Eric Holcomb,R,311
+White,Union 4,Governor,,John R. Gregg,D,232
+White,Union 4,Governor,,Rex Bell,L,24
+White,Union 4,Governor,,Write-in,,0
+White,Union 4,Attorney General,,"Curtis T. Hill, Jr.",R,385
+White,Union 4,Attorney General,,Lorenzo Arredondo,D,178
+White,Union 4,Superintendent of Public Instruction,,Jennifer McCormick,R,315
+White,Union 4,Superintendent of Public Instruction,,Glenda Ritz,D,250
+White,Union 4,U.S. House,4,Todd Rokita,R,348
+White,Union 4,U.S. House,4,John Dale,D,196
+White,Union 4,U.S. House,4,Steven M. Mayoras,L,26
+White,Union 4,U.S. House,4,Write-in,,0
+White,Union 4,State Senate,7,Brandt Hershman,R,387
+White,Union 4,State Senate,7,Justin Notoras,D,173
+White,Union 4,State House,25,Donald J. Lehe,R,344
+White,Union 4,State House,25,Maurice O. Fuller,D,186
+White,Union 4,State House,25,Franklyn Voorhies,L,31
+White,Union 4,Voters,,Straight Ticket,D,102
+White,Union 4,Voters,,Straight Ticket,L,13
+White,Union 4,Voters,,Straight Ticket,R,167
+White,Union 5,Voters,,Registered,,836
+White,Union 5,Voters,,Ballots Cast,,354
+White,Union 5,President,,Donald J. Trump,R,206
+White,Union 5,President,,Hillary Clinton,D,109
+White,Union 5,President,,Gary Johnson,L,28
+White,Union 5,President,,Write-In,,1
+White,Union 5,U.S. Senate,,Todd Young,R,185
+White,Union 5,U.S. Senate,,Evan Bayh,D,124
+White,Union 5,U.S. Senate,,Lucy Brenton,L,33
+White,Union 5,U.S. Senate,,Write-In,,0
+White,Union 5,Governor,,Eric Holcomb,R,194
+White,Union 5,Governor,,John R. Gregg,D,125
+White,Union 5,Governor,,Rex Bell,L,18
+White,Union 5,Governor,,Write-in,,0
+White,Union 5,Attorney General,,"Curtis T. Hill, Jr.",R,227
+White,Union 5,Attorney General,,Lorenzo Arredondo,D,107
+White,Union 5,Superintendent of Public Instruction,,Jennifer McCormick,R,189
+White,Union 5,Superintendent of Public Instruction,,Glenda Ritz,D,145
+White,Union 5,U.S. House,4,Todd Rokita,R,209
+White,Union 5,U.S. House,4,John Dale,D,104
+White,Union 5,U.S. House,4,Steven M. Mayoras,L,22
+White,Union 5,U.S. House,4,Write-in,,0
+White,Union 5,State Senate,7,Brandt Hershman,R,230
+White,Union 5,State Senate,7,Justin Notoras,D,102
+White,Union 5,State House,25,Donald J. Lehe,R,206
+White,Union 5,State House,25,Maurice O. Fuller,D,98
+White,Union 5,State House,25,Franklyn Voorhies,L,32
+White,Union 5,Voters,,Straight Ticket,D,59
+White,Union 5,Voters,,Straight Ticket,L,9
+White,Union 5,Voters,,Straight Ticket,R,106
+White,Union 6,Voters,,Registered,,916
+White,Union 6,Voters,,Ballots Cast,,460
+White,Union 6,President,,Donald J. Trump,R,282
+White,Union 6,President,,Hillary Clinton,D,127
+White,Union 6,President,,Gary Johnson,L,36
+White,Union 6,President,,Write-In,,8
+White,Union 6,U.S. Senate,,Todd Young,R,259
+White,Union 6,U.S. Senate,,Evan Bayh,D,160
+White,Union 6,U.S. Senate,,Lucy Brenton,L,28
+White,Union 6,U.S. Senate,,Write-In,,0
+White,Union 6,Governor,,Eric Holcomb,R,253
+White,Union 6,Governor,,John R. Gregg,D,167
+White,Union 6,Governor,,Rex Bell,L,19
+White,Union 6,Governor,,Write-in,,0
+White,Union 6,Attorney General,,"Curtis T. Hill, Jr.",R,298
+White,Union 6,Attorney General,,Lorenzo Arredondo,D,132
+White,Union 6,Superintendent of Public Instruction,,Jennifer McCormick,R,265
+White,Union 6,Superintendent of Public Instruction,,Glenda Ritz,D,175
+White,Union 6,U.S. House,4,Todd Rokita,R,291
+White,Union 6,U.S. House,4,John Dale,D,122
+White,Union 6,U.S. House,4,Steven M. Mayoras,L,28
+White,Union 6,U.S. House,4,Write-in,,0
+White,Union 6,State Senate,7,Brandt Hershman,R,311
+White,Union 6,State Senate,7,Justin Notoras,D,128
+White,Union 6,State House,25,Donald J. Lehe,R,288
+White,Union 6,State House,25,Maurice O. Fuller,D,116
+White,Union 6,State House,25,Franklyn Voorhies,L,40
+White,Union 6,Voters,,Straight Ticket,D,58
+White,Union 6,Voters,,Straight Ticket,L,8
+White,Union 6,Voters,,Straight Ticket,R,151
+White,Union 7,Voters,,Registered,,1000
+White,Union 7,Voters,,Ballots Cast,,597
+White,Union 7,President,,Donald J. Trump,R,354
+White,Union 7,President,,Hillary Clinton,D,192
+White,Union 7,President,,Gary Johnson,L,31
+White,Union 7,President,,Write-In,,6
+White,Union 7,U.S. Senate,,Todd Young,R,313
+White,Union 7,U.S. Senate,,Evan Bayh,D,229
+White,Union 7,U.S. Senate,,Lucy Brenton,L,40
+White,Union 7,U.S. Senate,,Write-In,,0
+White,Union 7,Governor,,Eric Holcomb,R,315
+White,Union 7,Governor,,John R. Gregg,D,231
+White,Union 7,Governor,,Rex Bell,L,30
+White,Union 7,Governor,,Write-in,,0
+White,Union 7,Attorney General,,"Curtis T. Hill, Jr.",R,385
+White,Union 7,Attorney General,,Lorenzo Arredondo,D,173
+White,Union 7,Superintendent of Public Instruction,,Jennifer McCormick,R,299
+White,Union 7,Superintendent of Public Instruction,,Glenda Ritz,D,267
+White,Union 7,U.S. House,4,Todd Rokita,R,360
+White,Union 7,U.S. House,4,John Dale,D,174
+White,Union 7,U.S. House,4,Steven M. Mayoras,L,40
+White,Union 7,U.S. House,4,Write-in,,0
+White,Union 7,State Senate,7,Brandt Hershman,R,401
+White,Union 7,State Senate,7,Justin Notoras,D,160
+White,Union 7,State House,25,Donald J. Lehe,R,362
+White,Union 7,State House,25,Maurice O. Fuller,D,159
+White,Union 7,State House,25,Franklyn Voorhies,L,52
+White,Union 7,Voters,,Straight Ticket,D,68
+White,Union 7,Voters,,Straight Ticket,L,6
+White,Union 7,Voters,,Straight Ticket,R,160
+White,West Point,Voters,,Registered,,264
+White,West Point,Voters,,Ballots Cast,,190
+White,West Point,President,,Donald J. Trump,R,152
+White,West Point,President,,Hillary Clinton,D,24
+White,West Point,President,,Gary Johnson,L,9
+White,West Point,President,,Write-In,,0
+White,West Point,U.S. Senate,,Todd Young,R,131
+White,West Point,U.S. Senate,,Evan Bayh,D,43
+White,West Point,U.S. Senate,,Lucy Brenton,L,10
+White,West Point,U.S. Senate,,Write-In,,0
+White,West Point,Governor,,Eric Holcomb,R,127
+White,West Point,Governor,,John R. Gregg,D,54
+White,West Point,Governor,,Rex Bell,L,5
+White,West Point,Governor,,Write-in,,0
+White,West Point,Attorney General,,"Curtis T. Hill, Jr.",R,153
+White,West Point,Attorney General,,Lorenzo Arredondo,D,25
+White,West Point,Superintendent of Public Instruction,,Jennifer McCormick,R,124
+White,West Point,Superintendent of Public Instruction,,Glenda Ritz,D,60
+White,West Point,U.S. House,4,Todd Rokita,R,144
+White,West Point,U.S. House,4,John Dale,D,25
+White,West Point,U.S. House,4,Steven M. Mayoras,L,15
+White,West Point,U.S. House,4,Write-in,,0
+White,West Point,State Senate,7,Brandt Hershman,R,156
+White,West Point,State Senate,7,Justin Notoras,D,24
+White,West Point,State House,13,Sharon Negele,R,153
+White,West Point,State House,13,Mike Childress,D,25
+White,West Point,Voters,,Straight Ticket,D,9
+White,West Point,Voters,,Straight Ticket,L,0
+White,West Point,Voters,,Straight Ticket,R,60
+White,Total,Voters,,Registered,,17356
+White,Total,Voters,,Ballots Cast,,10359
+White,Total,President,,Donald J. Trump,R,6887
+White,Total,President,,Hillary Clinton,D,2590
+White,Total,President,,Gary Johnson,L,530
+White,Total,President,,Write-In,,84
+White,Total,U.S. Senate,,Todd Young,R,6128
+White,Total,U.S. Senate,,Evan Bayh,D,3255
+White,Total,U.S. Senate,,Lucy Brenton,L,700
+White,Total,U.S. Senate,,Write-In,,0
+White,Total,Governor,,Eric Holcomb,R,6074
+White,Total,Governor,,John R. Gregg,D,3586
+White,Total,Governor,,Rex Bell,L,385
+White,Total,Governor,,Write-in,,1
+White,Total,Attorney General,,"Curtis T. Hill, Jr.",R,7294
+White,Total,Attorney General,,Lorenzo Arredondo,D,2546
+White,Total,Superintendent of Public Instruction,,Jennifer McCormick,R,6032
+White,Total,Superintendent of Public Instruction,,Glenda Ritz,D,3935
+White,Total,U.S. House,4,Todd Rokita,R,6868
+White,Total,U.S. House,4,John Dale,D,2584
+White,Total,U.S. House,4,Steven M. Mayoras,L,546
+White,Total,U.S. House,4,Write-in,,0
+White,Total,State Senate,7,Brandt Hershman,R,7467
+White,Total,State Senate,7,Justin Notoras,D,2452
+White,Total,State House,13,Sharon Negele,R,715
+White,Total,State House,13,Mike Childress,D,207
+White,Total,State House,25,Donald J. Lehe,R,6179
+White,Total,State House,25,Maurice O. Fuller,D,2245
+White,Total,State House,25,Franklyn Voorhies,L,612
+White,Total,Voters,,Straight Ticket,D,1170
+White,Total,Voters,,Straight Ticket,L,132
+White,Total,Voters,,Straight Ticket,R,3307

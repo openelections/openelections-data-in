@@ -1,0 +1,410 @@
+county,precinct,office,district,party,candidate,votes
+Fulton,Rochester 1,Registered Voters,,,,729
+Fulton,Rochester 2,Registered Voters,,,,658
+Fulton,Rochester 3,Registered Voters,,,,855
+Fulton,Rochester 4,Registered Voters,,,,691
+Fulton,Rochester 5,Registered Voters,,,,943
+Fulton,Rochester 6,Registered Voters,,,,696
+Fulton,Rochester 7,Registered Voters,,,,853
+Fulton,Rochester 8,Registered Voters,,,,1098
+Fulton,Aubbeenaubbee 9,Registered Voters,,,,875
+Fulton,Henry 1,Registered Voters,,,,457
+Fulton,Henry 2,Registered Voters,,,,690
+Fulton,Henry 3,Registered Voters,,,,521
+Fulton,Liberty 13,Registered Voters,,,,1057
+Fulton,Newcastle 14,Registered Voters,,,,807
+Fulton,Richland 15,Registered Voters,,,,658
+Fulton,Union 16,Registered Voters,,,,861
+Fulton,Wayne 17,Registered Voters,,,,384
+Fulton,Rochester 1,Ballots Cast,,,,290
+Fulton,Rochester 2,Ballots Cast,,,,331
+Fulton,Rochester 3,Ballots Cast,,,,391
+Fulton,Rochester 4,Ballots Cast,,,,456
+Fulton,Rochester 5,Ballots Cast,,,,661
+Fulton,Rochester 6,Ballots Cast,,,,349
+Fulton,Rochester 7,Ballots Cast,,,,531
+Fulton,Rochester 8,Ballots Cast,,,,645
+Fulton,Aubbeenaubbee 9,Ballots Cast,,,,397
+Fulton,Henry 1,Ballots Cast,,,,261
+Fulton,Henry 2,Ballots Cast,,,,363
+Fulton,Henry 3,Ballots Cast,,,,230
+Fulton,Liberty 13,Ballots Cast,,,,625
+Fulton,Newcastle 14,Ballots Cast,,,,446
+Fulton,Richland 15,Ballots Cast,,,,412
+Fulton,Union 16,Ballots Cast,,,,492
+Fulton,Wayne 17,Ballots Cast,,,,277
+Fulton,Rochester 1,Straight Party,,REP,Republican,98
+Fulton,Rochester 2,Straight Party,,REP,Republican,88
+Fulton,Rochester 3,Straight Party,,REP,Republican,141
+Fulton,Rochester 4,Straight Party,,REP,Republican,140
+Fulton,Rochester 5,Straight Party,,REP,Republican,185
+Fulton,Rochester 6,Straight Party,,REP,Republican,102
+Fulton,Rochester 7,Straight Party,,REP,Republican,144
+Fulton,Rochester 8,Straight Party,,REP,Republican,176
+Fulton,Aubbeenaubbee 9,Straight Party,,REP,Republican,134
+Fulton,Henry 1,Straight Party,,REP,Republican,102
+Fulton,Henry 2,Straight Party,,REP,Republican,145
+Fulton,Henry 3,Straight Party,,REP,Republican,88
+Fulton,Liberty 13,Straight Party,,REP,Republican,240
+Fulton,Newcastle 14,Straight Party,,REP,Republican,167
+Fulton,Richland 15,Straight Party,,REP,Republican,128
+Fulton,Union 16,Straight Party,,REP,Republican,168
+Fulton,Wayne 17,Straight Party,,REP,Republican,76
+Fulton,Rochester 1,Straight Party,,DEM,Democratic,41
+Fulton,Rochester 2,Straight Party,,DEM,Democratic,57
+Fulton,Rochester 3,Straight Party,,DEM,Democratic,46
+Fulton,Rochester 4,Straight Party,,DEM,Democratic,32
+Fulton,Rochester 5,Straight Party,,DEM,Democratic,74
+Fulton,Rochester 6,Straight Party,,DEM,Democratic,36
+Fulton,Rochester 7,Straight Party,,DEM,Democratic,53
+Fulton,Rochester 8,Straight Party,,DEM,Democratic,61
+Fulton,Aubbeenaubbee 9,Straight Party,,DEM,Democratic,70
+Fulton,Henry 1,Straight Party,,DEM,Democratic,19
+Fulton,Henry 2,Straight Party,,DEM,Democratic,40
+Fulton,Henry 3,Straight Party,,DEM,Democratic,30
+Fulton,Liberty 13,Straight Party,,DEM,Democratic,62
+Fulton,Newcastle 14,Straight Party,,DEM,Democratic,46
+Fulton,Richland 15,Straight Party,,DEM,Democratic,36
+Fulton,Union 16,Straight Party,,DEM,Democratic,64
+Fulton,Wayne 17,Straight Party,,DEM,Democratic,19
+Fulton,Rochester 1,Straight Party,,LIB,Libertarian,3
+Fulton,Rochester 2,Straight Party,,LIB,Libertarian,3
+Fulton,Rochester 3,Straight Party,,LIB,Libertarian,7
+Fulton,Rochester 4,Straight Party,,LIB,Libertarian,1
+Fulton,Rochester 5,Straight Party,,LIB,Libertarian,6
+Fulton,Rochester 6,Straight Party,,LIB,Libertarian,4
+Fulton,Rochester 7,Straight Party,,LIB,Libertarian,4
+Fulton,Rochester 8,Straight Party,,LIB,Libertarian,4
+Fulton,Aubbeenaubbee 9,Straight Party,,LIB,Libertarian,0
+Fulton,Henry 1,Straight Party,,LIB,Libertarian,7
+Fulton,Henry 2,Straight Party,,LIB,Libertarian,2
+Fulton,Henry 3,Straight Party,,LIB,Libertarian,1
+Fulton,Liberty 13,Straight Party,,LIB,Libertarian,4
+Fulton,Newcastle 14,Straight Party,,LIB,Libertarian,4
+Fulton,Richland 15,Straight Party,,LIB,Libertarian,7
+Fulton,Union 16,Straight Party,,LIB,Libertarian,5
+Fulton,Wayne 17,Straight Party,,LIB,Libertarian,2
+Fulton,Rochester 1,U.S. Senate,,REP,Mike Braun,144
+Fulton,Rochester 2,U.S. Senate,,REP,Mike Braun,172
+Fulton,Rochester 3,U.S. Senate,,REP,Mike Braun,217
+Fulton,Rochester 4,U.S. Senate,,REP,Mike Braun,257
+Fulton,Rochester 5,U.S. Senate,,REP,Mike Braun,374
+Fulton,Rochester 6,U.S. Senate,,REP,Mike Braun,203
+Fulton,Rochester 7,U.S. Senate,,REP,Mike Braun,294
+Fulton,Rochester 8,U.S. Senate,,REP,Mike Braun,365
+Fulton,Aubbeenaubbee 9,U.S. Senate,,REP,Mike Braun,203
+Fulton,Henry 1,U.S. Senate,,REP,Mike Braun,167
+Fulton,Henry 2,U.S. Senate,,REP,Mike Braun,240
+Fulton,Henry 3,U.S. Senate,,REP,Mike Braun,138
+Fulton,Liberty 13,U.S. Senate,,REP,Mike Braun,391
+Fulton,Newcastle 14,U.S. Senate,,REP,Mike Braun,287
+Fulton,Richland 15,U.S. Senate,,REP,Mike Braun,244
+Fulton,Union 16,U.S. Senate,,REP,Mike Braun,295
+Fulton,Wayne 17,U.S. Senate,,REP,Mike Braun,163
+Fulton,Rochester 1,U.S. Senate,,DEM,Joe Donnelly,106
+Fulton,Rochester 2,U.S. Senate,,DEM,Joe Donnelly,144
+Fulton,Rochester 3,U.S. Senate,,DEM,Joe Donnelly,136
+Fulton,Rochester 4,U.S. Senate,,DEM,Joe Donnelly,176
+Fulton,Rochester 5,U.S. Senate,,DEM,Joe Donnelly,260
+Fulton,Rochester 6,U.S. Senate,,DEM,Joe Donnelly,116
+Fulton,Rochester 7,U.S. Senate,,DEM,Joe Donnelly,210
+Fulton,Rochester 8,U.S. Senate,,DEM,Joe Donnelly,241
+Fulton,Aubbeenaubbee 9,U.S. Senate,,DEM,Joe Donnelly,170
+Fulton,Henry 1,U.S. Senate,,DEM,Joe Donnelly,73
+Fulton,Henry 2,U.S. Senate,,DEM,Joe Donnelly,105
+Fulton,Henry 3,U.S. Senate,,DEM,Joe Donnelly,76
+Fulton,Liberty 13,U.S. Senate,,DEM,Joe Donnelly,200
+Fulton,Newcastle 14,U.S. Senate,,DEM,Joe Donnelly,129
+Fulton,Richland 15,U.S. Senate,,DEM,Joe Donnelly,132
+Fulton,Union 16,U.S. Senate,,DEM,Joe Donnelly,169
+Fulton,Wayne 17,U.S. Senate,,DEM,Joe Donnelly,96
+Fulton,Rochester 1,U.S. Senate,,LIB,Lucy M. Brenton,29
+Fulton,Rochester 2,U.S. Senate,,LIB,Lucy M. Brenton,11
+Fulton,Rochester 3,U.S. Senate,,LIB,Lucy M. Brenton,26
+Fulton,Rochester 4,U.S. Senate,,LIB,Lucy M. Brenton,14
+Fulton,Rochester 5,U.S. Senate,,LIB,Lucy M. Brenton,13
+Fulton,Rochester 6,U.S. Senate,,LIB,Lucy M. Brenton,20
+Fulton,Rochester 7,U.S. Senate,,LIB,Lucy M. Brenton,18
+Fulton,Rochester 8,U.S. Senate,,LIB,Lucy M. Brenton,24
+Fulton,Aubbeenaubbee 9,U.S. Senate,,LIB,Lucy M. Brenton,17
+Fulton,Henry 1,U.S. Senate,,LIB,Lucy M. Brenton,15
+Fulton,Henry 2,U.S. Senate,,LIB,Lucy M. Brenton,14
+Fulton,Henry 3,U.S. Senate,,LIB,Lucy M. Brenton,9
+Fulton,Liberty 13,U.S. Senate,,LIB,Lucy M. Brenton,25
+Fulton,Newcastle 14,U.S. Senate,,LIB,Lucy M. Brenton,19
+Fulton,Richland 15,U.S. Senate,,LIB,Lucy M. Brenton,28
+Fulton,Union 16,U.S. Senate,,LIB,Lucy M. Brenton,18
+Fulton,Wayne 17,U.S. Senate,,LIB,Lucy M. Brenton,15
+Fulton,Rochester 1,U.S. Senate,,,Write-ins,0
+Fulton,Rochester 2,U.S. Senate,,,Write-ins,1
+Fulton,Rochester 3,U.S. Senate,,,Write-ins,1
+Fulton,Rochester 4,U.S. Senate,,,Write-ins,0
+Fulton,Rochester 5,U.S. Senate,,,Write-ins,0
+Fulton,Rochester 6,U.S. Senate,,,Write-ins,0
+Fulton,Rochester 7,U.S. Senate,,,Write-ins,0
+Fulton,Rochester 8,U.S. Senate,,,Write-ins,0
+Fulton,Aubbeenaubbee 9,U.S. Senate,,,Write-ins,1
+Fulton,Henry 1,U.S. Senate,,,Write-ins,0
+Fulton,Henry 2,U.S. Senate,,,Write-ins,0
+Fulton,Henry 3,U.S. Senate,,,Write-ins,0
+Fulton,Liberty 13,U.S. Senate,,,Write-ins,0
+Fulton,Newcastle 14,U.S. Senate,,,Write-ins,1
+Fulton,Richland 15,U.S. Senate,,,Write-ins,0
+Fulton,Union 16,U.S. Senate,,,Write-ins,0
+Fulton,Wayne 17,U.S. Senate,,,Write-ins,0
+Fulton,Rochester 1,Secretary of State,,REP,Connie Lawson,186
+Fulton,Rochester 2,Secretary of State,,REP,Connie Lawson,203
+Fulton,Rochester 3,Secretary of State,,REP,Connie Lawson,248
+Fulton,Rochester 4,Secretary of State,,REP,Connie Lawson,319
+Fulton,Rochester 5,Secretary of State,,REP,Connie Lawson,452
+Fulton,Rochester 6,Secretary of State,,REP,Connie Lawson,224
+Fulton,Rochester 7,Secretary of State,,REP,Connie Lawson,351
+Fulton,Rochester 8,Secretary of State,,REP,Connie Lawson,436
+Fulton,Aubbeenaubbee 9,Secretary of State,,REP,Connie Lawson,235
+Fulton,Henry 1,Secretary of State,,REP,Connie Lawson,195
+Fulton,Henry 2,Secretary of State,,REP,Connie Lawson,263
+Fulton,Henry 3,Secretary of State,,REP,Connie Lawson,164
+Fulton,Liberty 13,Secretary of State,,REP,Connie Lawson,458
+Fulton,Newcastle 14,Secretary of State,,REP,Connie Lawson,327
+Fulton,Richland 15,Secretary of State,,REP,Connie Lawson,295
+Fulton,Union 16,Secretary of State,,REP,Connie Lawson,335
+Fulton,Wayne 17,Secretary of State,,REP,Connie Lawson,193
+Fulton,Rochester 1,Secretary of State,,DEM,Jim Harper,86
+Fulton,Rochester 2,Secretary of State,,DEM,Jim Harper,110
+Fulton,Rochester 3,Secretary of State,,DEM,Jim Harper,96
+Fulton,Rochester 4,Secretary of State,,DEM,Jim Harper,104
+Fulton,Rochester 5,Secretary of State,,DEM,Jim Harper,165
+Fulton,Rochester 6,Secretary of State,,DEM,Jim Harper,93
+Fulton,Rochester 7,Secretary of State,,DEM,Jim Harper,147
+Fulton,Rochester 8,Secretary of State,,DEM,Jim Harper,171
+Fulton,Aubbeenaubbee 9,Secretary of State,,DEM,Jim Harper,136
+Fulton,Henry 1,Secretary of State,,DEM,Jim Harper,51
+Fulton,Henry 2,Secretary of State,,DEM,Jim Harper,82
+Fulton,Henry 3,Secretary of State,,DEM,Jim Harper,50
+Fulton,Liberty 13,Secretary of State,,DEM,Jim Harper,135
+Fulton,Newcastle 14,Secretary of State,,DEM,Jim Harper,92
+Fulton,Richland 15,Secretary of State,,DEM,Jim Harper,86
+Fulton,Union 16,Secretary of State,,DEM,Jim Harper,120
+Fulton,Wayne 17,Secretary of State,,DEM,Jim Harper,68
+Fulton,Rochester 1,Secretary of State,,LIB,Mark W. Rutherford,9
+Fulton,Rochester 2,Secretary of State,,LIB,Mark W. Rutherford,11
+Fulton,Rochester 3,Secretary of State,,LIB,Mark W. Rutherford,16
+Fulton,Rochester 4,Secretary of State,,LIB,Mark W. Rutherford,13
+Fulton,Rochester 5,Secretary of State,,LIB,Mark W. Rutherford,21
+Fulton,Rochester 6,Secretary of State,,LIB,Mark W. Rutherford,17
+Fulton,Rochester 7,Secretary of State,,LIB,Mark W. Rutherford,17
+Fulton,Rochester 8,Secretary of State,,LIB,Mark W. Rutherford,14
+Fulton,Aubbeenaubbee 9,Secretary of State,,LIB,Mark W. Rutherford,14
+Fulton,Henry 1,Secretary of State,,LIB,Mark W. Rutherford,9
+Fulton,Henry 2,Secretary of State,,LIB,Mark W. Rutherford,13
+Fulton,Henry 3,Secretary of State,,LIB,Mark W. Rutherford,9
+Fulton,Liberty 13,Secretary of State,,LIB,Mark W. Rutherford,17
+Fulton,Newcastle 14,Secretary of State,,LIB,Mark W. Rutherford,14
+Fulton,Richland 15,Secretary of State,,LIB,Mark W. Rutherford,18
+Fulton,Union 16,Secretary of State,,LIB,Mark W. Rutherford,18
+Fulton,Wayne 17,Secretary of State,,LIB,Mark W. Rutherford,9
+Fulton,Rochester 1,Secretary of State,,,George Wm. Wolfe,0
+Fulton,Rochester 2,Secretary of State,,,George Wm. Wolfe,0
+Fulton,Rochester 3,Secretary of State,,,George Wm. Wolfe,1
+Fulton,Rochester 4,Secretary of State,,,George Wm. Wolfe,0
+Fulton,Rochester 5,Secretary of State,,,George Wm. Wolfe,0
+Fulton,Rochester 6,Secretary of State,,,George Wm. Wolfe,0
+Fulton,Rochester 7,Secretary of State,,,George Wm. Wolfe,0
+Fulton,Rochester 8,Secretary of State,,,George Wm. Wolfe,0
+Fulton,Aubbeenaubbee 9,Secretary of State,,,George Wm. Wolfe,0
+Fulton,Henry 1,Secretary of State,,,George Wm. Wolfe,0
+Fulton,Henry 2,Secretary of State,,,George Wm. Wolfe,0
+Fulton,Henry 3,Secretary of State,,,George Wm. Wolfe,0
+Fulton,Liberty 13,Secretary of State,,,George Wm. Wolfe,0
+Fulton,Newcastle 14,Secretary of State,,,George Wm. Wolfe,0
+Fulton,Richland 15,Secretary of State,,,George Wm. Wolfe,0
+Fulton,Union 16,Secretary of State,,,George Wm. Wolfe,0
+Fulton,Wayne 17,Secretary of State,,,George Wm. Wolfe,1
+Fulton,Rochester 1,Secretary of State,,,Write-ins,0
+Fulton,Rochester 2,Secretary of State,,,Write-ins,0
+Fulton,Rochester 3,Secretary of State,,,Write-ins,1
+Fulton,Rochester 4,Secretary of State,,,Write-ins,0
+Fulton,Rochester 5,Secretary of State,,,Write-ins,0
+Fulton,Rochester 6,Secretary of State,,,Write-ins,0
+Fulton,Rochester 7,Secretary of State,,,Write-ins,0
+Fulton,Rochester 8,Secretary of State,,,Write-ins,0
+Fulton,Aubbeenaubbee 9,Secretary of State,,,Write-ins,1
+Fulton,Henry 1,Secretary of State,,,Write-ins,0
+Fulton,Henry 2,Secretary of State,,,Write-ins,0
+Fulton,Henry 3,Secretary of State,,,Write-ins,0
+Fulton,Liberty 13,Secretary of State,,,Write-ins,0
+Fulton,Newcastle 14,Secretary of State,,,Write-ins,0
+Fulton,Richland 15,Secretary of State,,,Write-ins,0
+Fulton,Union 16,Secretary of State,,,Write-ins,0
+Fulton,Wayne 17,Secretary of State,,,Write-ins,0
+Fulton,Rochester 1,Auditor of State,,REP,Tera Klutz,173
+Fulton,Rochester 2,Auditor of State,,REP,Tera Klutz,193
+Fulton,Rochester 3,Auditor of State,,REP,Tera Klutz,239
+Fulton,Rochester 4,Auditor of State,,REP,Tera Klutz,299
+Fulton,Rochester 5,Auditor of State,,REP,Tera Klutz,439
+Fulton,Rochester 6,Auditor of State,,REP,Tera Klutz,226
+Fulton,Rochester 7,Auditor of State,,REP,Tera Klutz,338
+Fulton,Rochester 8,Auditor of State,,REP,Tera Klutz,425
+Fulton,Aubbeenaubbee 9,Auditor of State,,REP,Tera Klutz,228
+Fulton,Henry 1,Auditor of State,,REP,Tera Klutz,188
+Fulton,Henry 2,Auditor of State,,REP,Tera Klutz,255
+Fulton,Henry 3,Auditor of State,,REP,Tera Klutz,154
+Fulton,Liberty 13,Auditor of State,,REP,Tera Klutz,444
+Fulton,Newcastle 14,Auditor of State,,REP,Tera Klutz,312
+Fulton,Richland 15,Auditor of State,,REP,Tera Klutz,285
+Fulton,Union 16,Auditor of State,,REP,Tera Klutz,336
+Fulton,Wayne 17,Auditor of State,,REP,Tera Klutz,188
+Fulton,Rochester 1,Auditor of State,,DEM,Joselyn Whitticker,91
+Fulton,Rochester 2,Auditor of State,,DEM,Joselyn Whitticker,115
+Fulton,Rochester 3,Auditor of State,,DEM,Joselyn Whitticker,104
+Fulton,Rochester 4,Auditor of State,,DEM,Joselyn Whitticker,118
+Fulton,Rochester 5,Auditor of State,,DEM,Joselyn Whitticker,176
+Fulton,Rochester 6,Auditor of State,,DEM,Joselyn Whitticker,92
+Fulton,Rochester 7,Auditor of State,,DEM,Joselyn Whitticker,159
+Fulton,Rochester 8,Auditor of State,,DEM,Joselyn Whitticker,171
+Fulton,Aubbeenaubbee 9,Auditor of State,,DEM,Joselyn Whitticker,136
+Fulton,Henry 1,Auditor of State,,DEM,Joselyn Whitticker,54
+Fulton,Henry 2,Auditor of State,,DEM,Joselyn Whitticker,79
+Fulton,Henry 3,Auditor of State,,DEM,Joselyn Whitticker,58
+Fulton,Liberty 13,Auditor of State,,DEM,Joselyn Whitticker,144
+Fulton,Newcastle 14,Auditor of State,,DEM,Joselyn Whitticker,103
+Fulton,Richland 15,Auditor of State,,DEM,Joselyn Whitticker,97
+Fulton,Union 16,Auditor of State,,DEM,Joselyn Whitticker,119
+Fulton,Wayne 17,Auditor of State,,DEM,Joselyn Whitticker,74
+Fulton,Rochester 1,Auditor of State,,LIB,John Schick,16
+Fulton,Rochester 2,Auditor of State,,LIB,John Schick,14
+Fulton,Rochester 3,Auditor of State,,LIB,John Schick,17
+Fulton,Rochester 4,Auditor of State,,LIB,John Schick,16
+Fulton,Rochester 5,Auditor of State,,LIB,John Schick,14
+Fulton,Rochester 6,Auditor of State,,LIB,John Schick,16
+Fulton,Rochester 7,Auditor of State,,LIB,John Schick,15
+Fulton,Rochester 8,Auditor of State,,LIB,John Schick,20
+Fulton,Aubbeenaubbee 9,Auditor of State,,LIB,John Schick,17
+Fulton,Henry 1,Auditor of State,,LIB,John Schick,10
+Fulton,Henry 2,Auditor of State,,LIB,John Schick,15
+Fulton,Henry 3,Auditor of State,,LIB,John Schick,8
+Fulton,Liberty 13,Auditor of State,,LIB,John Schick,17
+Fulton,Newcastle 14,Auditor of State,,LIB,John Schick,17
+Fulton,Richland 15,Auditor of State,,LIB,John Schick,17
+Fulton,Union 16,Auditor of State,,LIB,John Schick,14
+Fulton,Wayne 17,Auditor of State,,LIB,John Schick,6
+Fulton,Rochester 1,Treasurer of State,,REP,Kelly Mitchell,186
+Fulton,Rochester 2,Treasurer of State,,REP,Kelly Mitchell,216
+Fulton,Rochester 3,Treasurer of State,,REP,Kelly Mitchell,259
+Fulton,Rochester 4,Treasurer of State,,REP,Kelly Mitchell,324
+Fulton,Rochester 5,Treasurer of State,,REP,Kelly Mitchell,461
+Fulton,Rochester 6,Treasurer of State,,REP,Kelly Mitchell,246
+Fulton,Rochester 7,Treasurer of State,,REP,Kelly Mitchell,359
+Fulton,Rochester 8,Treasurer of State,,REP,Kelly Mitchell,448
+Fulton,Aubbeenaubbee 9,Treasurer of State,,REP,Kelly Mitchell,243
+Fulton,Henry 1,Treasurer of State,,REP,Kelly Mitchell,197
+Fulton,Henry 2,Treasurer of State,,REP,Kelly Mitchell,273
+Fulton,Henry 3,Treasurer of State,,REP,Kelly Mitchell,159
+Fulton,Liberty 13,Treasurer of State,,REP,Kelly Mitchell,471
+Fulton,Newcastle 14,Treasurer of State,,REP,Kelly Mitchell,333
+Fulton,Richland 15,Treasurer of State,,REP,Kelly Mitchell,305
+Fulton,Union 16,Treasurer of State,,REP,Kelly Mitchell,342
+Fulton,Wayne 17,Treasurer of State,,REP,Kelly Mitchell,197
+Fulton,Rochester 1,Treasurer of State,,DEM,John C. Aguilera,88
+Fulton,Rochester 2,Treasurer of State,,DEM,John C. Aguilera,103
+Fulton,Rochester 3,Treasurer of State,,DEM,John C. Aguilera,101
+Fulton,Rochester 4,Treasurer of State,,DEM,John C. Aguilera,108
+Fulton,Rochester 5,Treasurer of State,,DEM,John C. Aguilera,169
+Fulton,Rochester 6,Treasurer of State,,DEM,John C. Aguilera,87
+Fulton,Rochester 7,Treasurer of State,,DEM,John C. Aguilera,143
+Fulton,Rochester 8,Treasurer of State,,DEM,John C. Aguilera,167
+Fulton,Aubbeenaubbee 9,Treasurer of State,,DEM,John C. Aguilera,134
+Fulton,Henry 1,Treasurer of State,,DEM,John C. Aguilera,54
+Fulton,Henry 2,Treasurer of State,,DEM,John C. Aguilera,78
+Fulton,Henry 3,Treasurer of State,,DEM,John C. Aguilera,59
+Fulton,Liberty 13,Treasurer of State,,DEM,John C. Aguilera,131
+Fulton,Newcastle 14,Treasurer of State,,DEM,John C. Aguilera,91
+Fulton,Richland 15,Treasurer of State,,DEM,John C. Aguilera,92
+Fulton,Union 16,Treasurer of State,,DEM,John C. Aguilera,127
+Fulton,Wayne 17,Treasurer of State,,DEM,John C. Aguilera,69
+Fulton,Rochester 1,U.S. House,2,REP,Jackie Walorski,162
+Fulton,Rochester 2,U.S. House,2,REP,Jackie Walorski,194
+Fulton,Rochester 3,U.S. House,2,REP,Jackie Walorski,234
+Fulton,Rochester 4,U.S. House,2,REP,Jackie Walorski,275
+Fulton,Rochester 5,U.S. House,2,REP,Jackie Walorski,418
+Fulton,Rochester 6,U.S. House,2,REP,Jackie Walorski,218
+Fulton,Rochester 7,U.S. House,2,REP,Jackie Walorski,332
+Fulton,Rochester 8,U.S. House,2,REP,Jackie Walorski,399
+Fulton,Aubbeenaubbee 9,U.S. House,2,REP,Jackie Walorski,214
+Fulton,Henry 1,U.S. House,2,REP,Jackie Walorski,181
+Fulton,Henry 2,U.S. House,2,REP,Jackie Walorski,258
+Fulton,Henry 3,U.S. House,2,REP,Jackie Walorski,144
+Fulton,Liberty 13,U.S. House,2,REP,Jackie Walorski,430
+Fulton,Newcastle 14,U.S. House,2,REP,Jackie Walorski,293
+Fulton,Richland 15,U.S. House,2,REP,Jackie Walorski,279
+Fulton,Union 16,U.S. House,2,REP,Jackie Walorski,311
+Fulton,Wayne 17,U.S. House,2,REP,Jackie Walorski,179
+Fulton,Rochester 1,U.S. House,2,DEM,Mel Hall,117
+Fulton,Rochester 2,U.S. House,2,DEM,Mel Hall,128
+Fulton,Rochester 3,U.S. House,2,DEM,Mel Hall,145
+Fulton,Rochester 4,U.S. House,2,DEM,Mel Hall,171
+Fulton,Rochester 5,U.S. House,2,DEM,Mel Hall,225
+Fulton,Rochester 6,U.S. House,2,DEM,Mel Hall,117
+Fulton,Rochester 7,U.S. House,2,DEM,Mel Hall,189
+Fulton,Rochester 8,U.S. House,2,DEM,Mel Hall,236
+Fulton,Aubbeenaubbee 9,U.S. House,2,DEM,Mel Hall,173
+Fulton,Henry 1,U.S. House,2,DEM,Mel Hall,72
+Fulton,Henry 2,U.S. House,2,DEM,Mel Hall,99
+Fulton,Henry 3,U.S. House,2,DEM,Mel Hall,76
+Fulton,Liberty 13,U.S. House,2,DEM,Mel Hall,186
+Fulton,Newcastle 14,U.S. House,2,DEM,Mel Hall,138
+Fulton,Richland 15,U.S. House,2,DEM,Mel Hall,121
+Fulton,Union 16,U.S. House,2,DEM,Mel Hall,161
+Fulton,Wayne 17,U.S. House,2,DEM,Mel Hall,91
+Fulton,Rochester 1,U.S. House,2,,Write-ins,0
+Fulton,Rochester 2,U.S. House,2,,Write-ins,1
+Fulton,Rochester 3,U.S. House,2,,Write-ins,0
+Fulton,Rochester 4,U.S. House,2,,Write-ins,1
+Fulton,Rochester 5,U.S. House,2,,Write-ins,0
+Fulton,Rochester 6,U.S. House,2,,Write-ins,1
+Fulton,Rochester 7,U.S. House,2,,Write-ins,0
+Fulton,Rochester 8,U.S. House,2,,Write-ins,0
+Fulton,Aubbeenaubbee 9,U.S. House,2,,Write-ins,1
+Fulton,Henry 1,U.S. House,2,,Write-ins,0
+Fulton,Henry 2,U.S. House,2,,Write-ins,0
+Fulton,Henry 3,U.S. House,2,,Write-ins,0
+Fulton,Liberty 13,U.S. House,2,,Write-ins,0
+Fulton,Newcastle 14,U.S. House,2,,Write-ins,0
+Fulton,Richland 15,U.S. House,2,,Write-ins,1
+Fulton,Union 16,U.S. House,2,,Write-ins,0
+Fulton,Wayne 17,U.S. House,2,,Write-ins,0
+Fulton,Union 16,State Representative,16,REP,Douglas L. Gutwein,343
+Fulton,Wayne 17,State Representative,16,REP,Douglas L. Gutwein,194
+Fulton,Union 16,State Representative,16,DEM,Christina L. Zacny,130
+Fulton,Wayne 17,State Representative,16,DEM,Christina L. Zacny,73
+Fulton,Rochester 1,State Representative,17,REP,Jack Jordan,178
+Fulton,Rochester 2,State Representative,17,REP,Jack Jordan,205
+Fulton,Rochester 3,State Representative,17,REP,Jack Jordan,248
+Fulton,Rochester 4,State Representative,17,REP,Jack Jordan,309
+Fulton,Rochester 5,State Representative,17,REP,Jack Jordan,449
+Fulton,Rochester 6,State Representative,17,REP,Jack Jordan,226
+Fulton,Rochester 7,State Representative,17,REP,Jack Jordan,338
+Fulton,Rochester 8,State Representative,17,REP,Jack Jordan,433
+Fulton,Aubbeenaubbee 9,State Representative,17,REP,Jack Jordan,236
+Fulton,Henry 1,State Representative,17,REP,Jack Jordan,181
+Fulton,Henry 2,State Representative,17,REP,Jack Jordan,266
+Fulton,Henry 3,State Representative,17,REP,Jack Jordan,150
+Fulton,Newcastle 14,State Representative,17,REP,Jack Jordan,317
+Fulton,Richland 15,State Representative,17,REP,Jack Jordan,288
+Fulton,Rochester 1,State Representative,17,DEM,Michelle Livinghouse,99
+Fulton,Rochester 2,State Representative,17,DEM,Michelle Livinghouse,120
+Fulton,Rochester 3,State Representative,17,DEM,Michelle Livinghouse,116
+Fulton,Rochester 4,State Representative,17,DEM,Michelle Livinghouse,133
+Fulton,Rochester 5,State Representative,17,DEM,Michelle Livinghouse,190
+Fulton,Rochester 6,State Representative,17,DEM,Michelle Livinghouse,110
+Fulton,Rochester 7,State Representative,17,DEM,Michelle Livinghouse,177
+Fulton,Rochester 8,State Representative,17,DEM,Michelle Livinghouse,192
+Fulton,Aubbeenaubbee 9,State Representative,17,DEM,Michelle Livinghouse,146
+Fulton,Henry 1,State Representative,17,DEM,Michelle Livinghouse,68
+Fulton,Henry 2,State Representative,17,DEM,Michelle Livinghouse,89
+Fulton,Henry 3,State Representative,17,DEM,Michelle Livinghouse,71
+Fulton,Newcastle 14,State Representative,17,DEM,Michelle Livinghouse,113
+Fulton,Richland 15,State Representative,17,DEM,Michelle Livinghouse,109
+Fulton,Liberty 13,State Representative,23,REP,Ethan Manning,433
+Fulton,Liberty 13,State Representative,23,DEM,Terry Doran,155
+Fulton,Liberty 13,State Representative,23,LIB,Adam Werner,24

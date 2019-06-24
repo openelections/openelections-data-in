@@ -1,0 +1,415 @@
+county,precinct,office,district,candidate,party,votes
+Fountain,Cain,Registered Voters,,,,771
+Fountain,Cain,Ballots Cast,,,,449
+Fountain,Cain,Straight Party,,,REP,180
+Fountain,Cain,Straight Party,,,DEM,36
+Fountain,Cain,Straight Party,,,LIB,6
+Fountain,Cain,U.S. Senate,,Mike Braun,REP,328
+Fountain,Cain,U.S. Senate,,Joe Donnelly,DEM,85
+Fountain,Cain,U.S. Senate,,Lucy M. Brenton,LIB,30
+Fountain,Cain,U.S. Senate,,Write-In Votes,,0
+Fountain,Cain,Secretary of State,,Connie Lawson,REP,353
+Fountain,Cain,Secretary of State,,Jim Harper,DEM,68
+Fountain,Cain,Secretary of State,,Mark W. Rutherford,LIB,16
+Fountain,Cain,Secretary of State,,Write-In Votes,,0
+Fountain,Cain,Auditor of State,,Tera Klutz,REP,348
+Fountain,Cain,Auditor of State,,Joselyn Whitticker,DEM,72
+Fountain,Cain,Auditor of State,,John Schick,LIB,16
+Fountain,Cain,Treasurer of State,,Kelly Mitchell,REP,367
+Fountain,Cain,Treasurer of State,,John C. Aguilera,DEM,68
+Fountain,Cain,U.S. House,4,Jim Baird,REP,361
+Fountain,Cain,U.S. House,4,Tobi Beck,DEM,75
+Fountain,Cain,State Senate,23,Philip L. Boots,REP,379
+Fountain,Cain,State Representative,13,Sharon Negele,REP,348
+Fountain,Cain,State Representative,13,Loretta Barnes,DEM,76
+Fountain,Davis,Registered Voters,,,,404
+Fountain,Davis,Ballots Cast,,,,195
+Fountain,Davis,Straight Party,,,REP,80
+Fountain,Davis,Straight Party,,,DEM,29
+Fountain,Davis,Straight Party,,,LIB,1
+Fountain,Davis,U.S. Senate,,Mike Braun,REP,123
+Fountain,Davis,U.S. Senate,,Joe Donnelly,DEM,56
+Fountain,Davis,U.S. Senate,,Lucy M. Brenton,LIB,11
+Fountain,Davis,U.S. Senate,,Write-In Votes,,0
+Fountain,Davis,Secretary of State,,Connie Lawson,REP,137
+Fountain,Davis,Secretary of State,,Jim Harper,DEM,45
+Fountain,Davis,Secretary of State,,Mark W. Rutherford,LIB,10
+Fountain,Davis,Secretary of State,,Write-In Votes,,0
+Fountain,Davis,Auditor of State,,Tera Klutz,REP,131
+Fountain,Davis,Auditor of State,,Joselyn Whitticker,DEM,49
+Fountain,Davis,Auditor of State,,John Schick,LIB,11
+Fountain,Davis,Treasurer of State,,Kelly Mitchell,REP,140
+Fountain,Davis,Treasurer of State,,John C. Aguilera,DEM,49
+Fountain,Davis,U.S. House,4,Jim Baird,REP,138
+Fountain,Davis,U.S. House,4,Tobi Beck,DEM,53
+Fountain,Davis,State Senate,23,Philip L. Boots,REP,150
+Fountain,Davis,State Representative,13,Sharon Negele,REP,135
+Fountain,Davis,State Representative,13,Loretta Barnes,DEM,55
+Fountain,Fulton,Registered Voters,,,,392
+Fountain,Fulton,Ballots Cast,,,,201
+Fountain,Fulton,Straight Party,,,REP,89
+Fountain,Fulton,Straight Party,,,DEM,18
+Fountain,Fulton,Straight Party,,,LIB,0
+Fountain,Fulton,U.S. Senate,,Mike Braun,REP,140
+Fountain,Fulton,U.S. Senate,,Joe Donnelly,DEM,48
+Fountain,Fulton,U.S. Senate,,Lucy M. Brenton,LIB,9
+Fountain,Fulton,U.S. Senate,,Write-In Votes,,0
+Fountain,Fulton,Secretary of State,,Connie Lawson,REP,157
+Fountain,Fulton,Secretary of State,,Jim Harper,DEM,32
+Fountain,Fulton,Secretary of State,,Mark W. Rutherford,LIB,5
+Fountain,Fulton,Secretary of State,,Write-In Votes,,0
+Fountain,Fulton,Auditor of State,,Tera Klutz,REP,147
+Fountain,Fulton,Auditor of State,,Joselyn Whitticker,DEM,36
+Fountain,Fulton,Auditor of State,,John Schick,LIB,11
+Fountain,Fulton,Treasurer of State,,Kelly Mitchell,REP,159
+Fountain,Fulton,Treasurer of State,,John C. Aguilera,DEM,35
+Fountain,Fulton,U.S. House,4,Jim Baird,REP,155
+Fountain,Fulton,U.S. House,4,Tobi Beck,DEM,40
+Fountain,Fulton,State Senate,23,Philip L. Boots,REP,166
+Fountain,Fulton,State Representative,42,Alan Morrison,REP,147
+Fountain,Fulton,State Representative,42,Evelyn Brown,DEM,47
+Fountain,Jackson,Registered Voters,,,,428
+Fountain,Jackson,Ballots Cast,,,,262
+Fountain,Jackson,Straight Party,,,REP,124
+Fountain,Jackson,Straight Party,,,DEM,22
+Fountain,Jackson,Straight Party,,,LIB,0
+Fountain,Jackson,U.S. Senate,,Mike Braun,REP,199
+Fountain,Jackson,U.S. Senate,,Joe Donnelly,DEM,43
+Fountain,Jackson,U.S. Senate,,Lucy M. Brenton,LIB,16
+Fountain,Jackson,U.S. Senate,,Write-In Votes,,0
+Fountain,Jackson,Secretary of State,,Connie Lawson,REP,211
+Fountain,Jackson,Secretary of State,,Jim Harper,DEM,40
+Fountain,Jackson,Secretary of State,,Mark W. Rutherford,LIB,7
+Fountain,Jackson,Secretary of State,,Write-In Votes,,0
+Fountain,Jackson,Auditor of State,,Tera Klutz,REP,203
+Fountain,Jackson,Auditor of State,,Joselyn Whitticker,DEM,49
+Fountain,Jackson,Auditor of State,,John Schick,LIB,5
+Fountain,Jackson,Treasurer of State,,Kelly Mitchell,REP,215
+Fountain,Jackson,Treasurer of State,,John C. Aguilera,DEM,41
+Fountain,Jackson,U.S. House,4,Jim Baird,REP,209
+Fountain,Jackson,U.S. House,4,Tobi Beck,DEM,47
+Fountain,Jackson,State Senate,23,Philip L. Boots,REP,211
+Fountain,Jackson,State Representative,13,Sharon Negele,REP,196
+Fountain,Jackson,State Representative,13,Loretta Barnes,DEM,56
+Fountain,Logan 1,Registered Voters,,,,267
+Fountain,Logan 1,Ballots Cast,,,,155
+Fountain,Logan 1,Straight Party,,,REP,60
+Fountain,Logan 1,Straight Party,,,DEM,17
+Fountain,Logan 1,Straight Party,,,LIB,0
+Fountain,Logan 1,U.S. Senate,,Mike Braun,REP,100
+Fountain,Logan 1,U.S. Senate,,Joe Donnelly,DEM,46
+Fountain,Logan 1,U.S. Senate,,Lucy M. Brenton,LIB,7
+Fountain,Logan 1,U.S. Senate,,Write-In Votes,,0
+Fountain,Logan 1,Secretary of State,,Connie Lawson,REP,117
+Fountain,Logan 1,Secretary of State,,Jim Harper,DEM,35
+Fountain,Logan 1,Secretary of State,,Mark W. Rutherford,LIB,2
+Fountain,Logan 1,Secretary of State,,Write-In Votes,,0
+Fountain,Logan 1,Auditor of State,,Tera Klutz,REP,110
+Fountain,Logan 1,Auditor of State,,Joselyn Whitticker,DEM,39
+Fountain,Logan 1,Auditor of State,,John Schick,LIB,5
+Fountain,Logan 1,Treasurer of State,,Kelly Mitchell,REP,118
+Fountain,Logan 1,Treasurer of State,,John C. Aguilera,DEM,36
+Fountain,Logan 1,U.S. House,4,Jim Baird,REP,110
+Fountain,Logan 1,U.S. House,4,Tobi Beck,DEM,43
+Fountain,Logan 1,State Senate,23,Philip L. Boots,REP,130
+Fountain,Logan 1,State Representative,13,Sharon Negele,REP,104
+Fountain,Logan 1,State Representative,13,Loretta Barnes,DEM,48
+Fountain,Logan 2,Registered Voters,,,,968
+Fountain,Logan 2,Ballots Cast,,,,377
+Fountain,Logan 2,Straight Party,,,REP,151
+Fountain,Logan 2,Straight Party,,,DEM,57
+Fountain,Logan 2,Straight Party,,,LIB,1
+Fountain,Logan 2,U.S. Senate,,Mike Braun,REP,210
+Fountain,Logan 2,U.S. Senate,,Joe Donnelly,DEM,135
+Fountain,Logan 2,U.S. Senate,,Lucy M. Brenton,LIB,24
+Fountain,Logan 2,U.S. Senate,,Write-In Votes,,0
+Fountain,Logan 2,Secretary of State,,Connie Lawson,REP,229
+Fountain,Logan 2,Secretary of State,,Jim Harper,DEM,118
+Fountain,Logan 2,Secretary of State,,Mark W. Rutherford,LIB,16
+Fountain,Logan 2,Secretary of State,,Write-In Votes,,0
+Fountain,Logan 2,Auditor of State,,Tera Klutz,REP,224
+Fountain,Logan 2,Auditor of State,,Joselyn Whitticker,DEM,126
+Fountain,Logan 2,Auditor of State,,John Schick,LIB,12
+Fountain,Logan 2,Treasurer of State,,Kelly Mitchell,REP,248
+Fountain,Logan 2,Treasurer of State,,John C. Aguilera,DEM,108
+Fountain,Logan 2,U.S. House,4,Jim Baird,REP,243
+Fountain,Logan 2,U.S. House,4,Tobi Beck,DEM,122
+Fountain,Logan 2,State Senate,23,Philip L. Boots,REP,279
+Fountain,Logan 2,State Representative,13,Sharon Negele,REP,221
+Fountain,Logan 2,State Representative,13,Loretta Barnes,DEM,137
+Fountain,Logan 3,Registered Voters,,,,918
+Fountain,Logan 3,Ballots Cast,,,,460
+Fountain,Logan 3,Straight Party,,,REP,165
+Fountain,Logan 3,Straight Party,,,DEM,71
+Fountain,Logan 3,Straight Party,,,LIB,3
+Fountain,Logan 3,U.S. Senate,,Mike Braun,REP,275
+Fountain,Logan 3,U.S. Senate,,Joe Donnelly,DEM,151
+Fountain,Logan 3,U.S. Senate,,Lucy M. Brenton,LIB,25
+Fountain,Logan 3,U.S. Senate,,Write-In Votes,,0
+Fountain,Logan 3,Secretary of State,,Connie Lawson,REP,301
+Fountain,Logan 3,Secretary of State,,Jim Harper,DEM,137
+Fountain,Logan 3,Secretary of State,,Mark W. Rutherford,LIB,13
+Fountain,Logan 3,Secretary of State,,Write-In Votes,,0
+Fountain,Logan 3,Auditor of State,,Tera Klutz,REP,294
+Fountain,Logan 3,Auditor of State,,Joselyn Whitticker,DEM,143
+Fountain,Logan 3,Auditor of State,,John Schick,LIB,13
+Fountain,Logan 3,Treasurer of State,,Kelly Mitchell,REP,310
+Fountain,Logan 3,Treasurer of State,,John C. Aguilera,DEM,137
+Fountain,Logan 3,U.S. House,4,Jim Baird,REP,292
+Fountain,Logan 3,U.S. House,4,Tobi Beck,DEM,155
+Fountain,Logan 3,State Senate,23,Philip L. Boots,REP,338
+Fountain,Logan 3,State Representative,13,Sharon Negele,REP,279
+Fountain,Logan 3,State Representative,13,Loretta Barnes,DEM,163
+Fountain,Millcreek,Registered Voters,,,,975
+Fountain,Millcreek,Ballots Cast,,,,517
+Fountain,Millcreek,Straight Party,,,REP,256
+Fountain,Millcreek,Straight Party,,,DEM,49
+Fountain,Millcreek,Straight Party,,,LIB,4
+Fountain,Millcreek,U.S. Senate,,Mike Braun,REP,395
+Fountain,Millcreek,U.S. Senate,,Joe Donnelly,DEM,88
+Fountain,Millcreek,U.S. Senate,,Lucy M. Brenton,LIB,16
+Fountain,Millcreek,U.S. Senate,,Write-In Votes,,0
+Fountain,Millcreek,Secretary of State,,Connie Lawson,REP,399
+Fountain,Millcreek,Secretary of State,,Jim Harper,DEM,81
+Fountain,Millcreek,Secretary of State,,Mark W. Rutherford,LIB,19
+Fountain,Millcreek,Secretary of State,,Write-In Votes,,0
+Fountain,Millcreek,Auditor of State,,Tera Klutz,REP,408
+Fountain,Millcreek,Auditor of State,,Joselyn Whitticker,DEM,80
+Fountain,Millcreek,Auditor of State,,John Schick,LIB,10
+Fountain,Millcreek,Treasurer of State,,Kelly Mitchell,REP,415
+Fountain,Millcreek,Treasurer of State,,John C. Aguilera,DEM,75
+Fountain,Millcreek,U.S. House,4,Jim Baird,REP,409
+Fountain,Millcreek,U.S. House,4,Tobi Beck,DEM,87
+Fountain,Millcreek,State Senate,23,Philip L. Boots,REP,425
+Fountain,Millcreek,State Representative,13,Sharon Negele,REP,396
+Fountain,Millcreek,State Representative,13,Loretta Barnes,DEM,100
+Fountain,Richland 1,Registered Voters,,,,319
+Fountain,Richland 1,Ballots Cast,,,,192
+Fountain,Richland 1,Straight Party,,,REP,79
+Fountain,Richland 1,Straight Party,,,DEM,16
+Fountain,Richland 1,Straight Party,,,LIB,1
+Fountain,Richland 1,U.S. Senate,,Mike Braun,REP,131
+Fountain,Richland 1,U.S. Senate,,Joe Donnelly,DEM,46
+Fountain,Richland 1,U.S. Senate,,Lucy M. Brenton,LIB,9
+Fountain,Richland 1,U.S. Senate,,Write-In Votes,,0
+Fountain,Richland 1,Secretary of State,,Connie Lawson,REP,154
+Fountain,Richland 1,Secretary of State,,Jim Harper,DEM,31
+Fountain,Richland 1,Secretary of State,,Mark W. Rutherford,LIB,2
+Fountain,Richland 1,Secretary of State,,Write-In Votes,,0
+Fountain,Richland 1,Auditor of State,,Tera Klutz,REP,145
+Fountain,Richland 1,Auditor of State,,Joselyn Whitticker,DEM,35
+Fountain,Richland 1,Auditor of State,,John Schick,LIB,4
+Fountain,Richland 1,Treasurer of State,,Kelly Mitchell,REP,154
+Fountain,Richland 1,Treasurer of State,,John C. Aguilera,DEM,32
+Fountain,Richland 1,U.S. House,4,Jim Baird,REP,148
+Fountain,Richland 1,U.S. House,4,Tobi Beck,DEM,37
+Fountain,Richland 1,State Senate,23,Philip L. Boots,REP,163
+Fountain,Richland 1,State Representative,13,Sharon Negele,REP,140
+Fountain,Richland 1,State Representative,13,Loretta Barnes,DEM,43
+Fountain,Richland 2,Registered Voters,,,,298
+Fountain,Richland 2,Ballots Cast,,,,163
+Fountain,Richland 2,Straight Party,,,REP,68
+Fountain,Richland 2,Straight Party,,,DEM,8
+Fountain,Richland 2,Straight Party,,,LIB,2
+Fountain,Richland 2,U.S. Senate,,Mike Braun,REP,122
+Fountain,Richland 2,U.S. Senate,,Joe Donnelly,DEM,28
+Fountain,Richland 2,U.S. Senate,,Lucy M. Brenton,LIB,10
+Fountain,Richland 2,U.S. Senate,,Write-In Votes,,0
+Fountain,Richland 2,Secretary of State,,Connie Lawson,REP,134
+Fountain,Richland 2,Secretary of State,,Jim Harper,DEM,16
+Fountain,Richland 2,Secretary of State,,Mark W. Rutherford,LIB,10
+Fountain,Richland 2,Secretary of State,,Write-In Votes,,0
+Fountain,Richland 2,Auditor of State,,Tera Klutz,REP,128
+Fountain,Richland 2,Auditor of State,,Joselyn Whitticker,DEM,22
+Fountain,Richland 2,Auditor of State,,John Schick,LIB,8
+Fountain,Richland 2,Treasurer of State,,Kelly Mitchell,REP,136
+Fountain,Richland 2,Treasurer of State,,John C. Aguilera,DEM,19
+Fountain,Richland 2,U.S. House,4,Jim Baird,REP,131
+Fountain,Richland 2,U.S. House,4,Tobi Beck,DEM,28
+Fountain,Richland 2,State Senate,23,Philip L. Boots,REP,143
+Fountain,Richland 2,State Representative,13,Sharon Negele,REP,121
+Fountain,Richland 2,State Representative,13,Loretta Barnes,DEM,35
+Fountain,Shawnee,Registered Voters,,,,448
+Fountain,Shawnee,Ballots Cast,,,,233
+Fountain,Shawnee,Straight Party,,,REP,105
+Fountain,Shawnee,Straight Party,,,DEM,15
+Fountain,Shawnee,Straight Party,,,LIB,3
+Fountain,Shawnee,U.S. Senate,,Mike Braun,REP,175
+Fountain,Shawnee,U.S. Senate,,Joe Donnelly,DEM,33
+Fountain,Shawnee,U.S. Senate,,Lucy M. Brenton,LIB,18
+Fountain,Shawnee,U.S. Senate,,Write-In Votes,,0
+Fountain,Shawnee,Secretary of State,,Connie Lawson,REP,194
+Fountain,Shawnee,Secretary of State,,Jim Harper,DEM,24
+Fountain,Shawnee,Secretary of State,,Mark W. Rutherford,LIB,8
+Fountain,Shawnee,Secretary of State,,Write-In Votes,,0
+Fountain,Shawnee,Auditor of State,,Tera Klutz,REP,183
+Fountain,Shawnee,Auditor of State,,Joselyn Whitticker,DEM,34
+Fountain,Shawnee,Auditor of State,,John Schick,LIB,8
+Fountain,Shawnee,Treasurer of State,,Kelly Mitchell,REP,192
+Fountain,Shawnee,Treasurer of State,,John C. Aguilera,DEM,29
+Fountain,Shawnee,U.S. House,4,Jim Baird,REP,188
+Fountain,Shawnee,U.S. House,4,Tobi Beck,DEM,35
+Fountain,Shawnee,State Senate,23,Philip L. Boots,REP,192
+Fountain,Shawnee,State Representative,13,Sharon Negele,REP,164
+Fountain,Shawnee,State Representative,13,Loretta Barnes,DEM,52
+Fountain,Troy 1,Registered Voters,,,,801
+Fountain,Troy 1,Ballots Cast,,,,453
+Fountain,Troy 1,Straight Party,,,REP,208
+Fountain,Troy 1,Straight Party,,,DEM,35
+Fountain,Troy 1,Straight Party,,,LIB,5
+Fountain,Troy 1,U.S. Senate,,Mike Braun,REP,334
+Fountain,Troy 1,U.S. Senate,,Joe Donnelly,DEM,91
+Fountain,Troy 1,U.S. Senate,,Lucy M. Brenton,LIB,23
+Fountain,Troy 1,U.S. Senate,,Write-In Votes,,0
+Fountain,Troy 1,Secretary of State,,Connie Lawson,REP,350
+Fountain,Troy 1,Secretary of State,,Jim Harper,DEM,80
+Fountain,Troy 1,Secretary of State,,Mark W. Rutherford,LIB,14
+Fountain,Troy 1,Secretary of State,,Write-In Votes,,0
+Fountain,Troy 1,Auditor of State,,Tera Klutz,REP,347
+Fountain,Troy 1,Auditor of State,,Joselyn Whitticker,DEM,86
+Fountain,Troy 1,Auditor of State,,John Schick,LIB,10
+Fountain,Troy 1,Treasurer of State,,Kelly Mitchell,REP,364
+Fountain,Troy 1,Treasurer of State,,John C. Aguilera,DEM,80
+Fountain,Troy 1,U.S. House,4,Jim Baird,REP,356
+Fountain,Troy 1,U.S. House,4,Tobi Beck,DEM,89
+Fountain,Troy 1,State Senate,23,Philip L. Boots,REP,377
+Fountain,Troy 1,State Representative,42,Alan Morrison,REP,359
+Fountain,Troy 1,State Representative,42,Evelyn Brown,DEM,89
+Fountain,Troy 2,Registered Voters,,,,915
+Fountain,Troy 2,Ballots Cast,,,,473
+Fountain,Troy 2,Straight Party,,,REP,172
+Fountain,Troy 2,Straight Party,,,DEM,71
+Fountain,Troy 2,Straight Party,,,LIB,7
+Fountain,Troy 2,U.S. Senate,,Mike Braun,REP,280
+Fountain,Troy 2,U.S. Senate,,Joe Donnelly,DEM,149
+Fountain,Troy 2,U.S. Senate,,Lucy M. Brenton,LIB,34
+Fountain,Troy 2,U.S. Senate,,Write-In Votes,,0
+Fountain,Troy 2,Secretary of State,,Connie Lawson,REP,291
+Fountain,Troy 2,Secretary of State,,Jim Harper,DEM,136
+Fountain,Troy 2,Secretary of State,,Mark W. Rutherford,LIB,32
+Fountain,Troy 2,Secretary of State,,Write-In Votes,,0
+Fountain,Troy 2,Auditor of State,,Tera Klutz,REP,294
+Fountain,Troy 2,Auditor of State,,Joselyn Whitticker,DEM,138
+Fountain,Troy 2,Auditor of State,,John Schick,LIB,24
+Fountain,Troy 2,Treasurer of State,,Kelly Mitchell,REP,307
+Fountain,Troy 2,Treasurer of State,,John C. Aguilera,DEM,148
+Fountain,Troy 2,U.S. House,4,Jim Baird,REP,299
+Fountain,Troy 2,U.S. House,4,Tobi Beck,DEM,161
+Fountain,Troy 2,State Senate,23,Philip L. Boots,REP,335
+Fountain,Troy 2,State Representative,42,Alan Morrison,REP,287
+Fountain,Troy 2,State Representative,42,Evelyn Brown,DEM,174
+Fountain,Troy 3,Registered Voters,,,,897
+Fountain,Troy 3,Ballots Cast,,,,579
+Fountain,Troy 3,Straight Party,,,REP,212
+Fountain,Troy 3,Straight Party,,,DEM,100
+Fountain,Troy 3,Straight Party,,,LIB,2
+Fountain,Troy 3,U.S. Senate,,Mike Braun,REP,350
+Fountain,Troy 3,U.S. Senate,,Joe Donnelly,DEM,196
+Fountain,Troy 3,U.S. Senate,,Lucy M. Brenton,LIB,19
+Fountain,Troy 3,U.S. Senate,,Write-In Votes,,0
+Fountain,Troy 3,Secretary of State,,Connie Lawson,REP,380
+Fountain,Troy 3,Secretary of State,,Jim Harper,DEM,174
+Fountain,Troy 3,Secretary of State,,Mark W. Rutherford,LIB,10
+Fountain,Troy 3,Secretary of State,,Write-In Votes,,0
+Fountain,Troy 3,Auditor of State,,Tera Klutz,REP,364
+Fountain,Troy 3,Auditor of State,,Joselyn Whitticker,DEM,184
+Fountain,Troy 3,Auditor of State,,John Schick,LIB,12
+Fountain,Troy 3,Treasurer of State,,Kelly Mitchell,REP,392
+Fountain,Troy 3,Treasurer of State,,John C. Aguilera,DEM,167
+Fountain,Troy 3,U.S. House,4,Jim Baird,REP,369
+Fountain,Troy 3,U.S. House,4,Tobi Beck,DEM,194
+Fountain,Troy 3,State Senate,23,Philip L. Boots,REP,417
+Fountain,Troy 3,State Representative,42,Alan Morrison,REP,375
+Fountain,Troy 3,State Representative,42,Evelyn Brown,DEM,191
+Fountain,VanBuren 1,Registered Voters,,,,603
+Fountain,VanBuren 1,Ballots Cast,,,,346
+Fountain,VanBuren 1,Straight Party,,,REP,140
+Fountain,VanBuren 1,Straight Party,,,DEM,22
+Fountain,VanBuren 1,Straight Party,,,LIB,2
+Fountain,VanBuren 1,U.S. Senate,,Mike Braun,REP,260
+Fountain,VanBuren 1,U.S. Senate,,Joe Donnelly,DEM,66
+Fountain,VanBuren 1,U.S. Senate,,Lucy M. Brenton,LIB,13
+Fountain,VanBuren 1,U.S. Senate,,Write-In Votes,,0
+Fountain,VanBuren 1,Secretary of State,,Connie Lawson,REP,275
+Fountain,VanBuren 1,Secretary of State,,Jim Harper,DEM,52
+Fountain,VanBuren 1,Secretary of State,,Mark W. Rutherford,LIB,9
+Fountain,VanBuren 1,Secretary of State,,Write-In Votes,,0
+Fountain,VanBuren 1,Auditor of State,,Tera Klutz,REP,275
+Fountain,VanBuren 1,Auditor of State,,Joselyn Whitticker,DEM,49
+Fountain,VanBuren 1,Auditor of State,,John Schick,LIB,9
+Fountain,VanBuren 1,Treasurer of State,,Kelly Mitchell,REP,294
+Fountain,VanBuren 1,Treasurer of State,,John C. Aguilera,DEM,39
+Fountain,VanBuren 1,U.S. House,4,Jim Baird,REP,281
+Fountain,VanBuren 1,U.S. House,4,Tobi Beck,DEM,55
+Fountain,VanBuren 1,State Senate,23,Philip L. Boots,REP,294
+Fountain,VanBuren 1,State Representative,13,Sharon Negele,REP,255
+Fountain,VanBuren 1,State Representative,13,Loretta Barnes,DEM,80
+Fountain,VanBuren 2,Registered Voters,,,,492
+Fountain,VanBuren 2,Ballots Cast,,,,210
+Fountain,VanBuren 2,Straight Party,,,REP,83
+Fountain,VanBuren 2,Straight Party,,,DEM,29
+Fountain,VanBuren 2,Straight Party,,,LIB,1
+Fountain,VanBuren 2,U.S. Senate,,Mike Braun,REP,136
+Fountain,VanBuren 2,U.S. Senate,,Joe Donnelly,DEM,61
+Fountain,VanBuren 2,U.S. Senate,,Lucy M. Brenton,LIB,10
+Fountain,VanBuren 2,U.S. Senate,,Write-In Votes,,0
+Fountain,VanBuren 2,Secretary of State,,Connie Lawson,REP,145
+Fountain,VanBuren 2,Secretary of State,,Jim Harper,DEM,59
+Fountain,VanBuren 2,Secretary of State,,Mark W. Rutherford,LIB,2
+Fountain,VanBuren 2,Secretary of State,,Write-In Votes,,0
+Fountain,VanBuren 2,Auditor of State,,Tera Klutz,REP,144
+Fountain,VanBuren 2,Auditor of State,,Joselyn Whitticker,DEM,61
+Fountain,VanBuren 2,Auditor of State,,John Schick,LIB,3
+Fountain,VanBuren 2,Treasurer of State,,Kelly Mitchell,REP,152
+Fountain,VanBuren 2,Treasurer of State,,John C. Aguilera,DEM,54
+Fountain,VanBuren 2,U.S. House,4,Jim Baird,REP,144
+Fountain,VanBuren 2,U.S. House,4,Tobi Beck,DEM,63
+Fountain,VanBuren 2,State Senate,23,Philip L. Boots,REP,157
+Fountain,VanBuren 2,State Representative,13,Sharon Negele,REP,137
+Fountain,VanBuren 2,State Representative,13,Loretta Barnes,DEM,69
+Fountain,VanBuren 3,Registered Voters,,,,807
+Fountain,VanBuren 3,Ballots Cast,,,,414
+Fountain,VanBuren 3,Straight Party,,,REP,156
+Fountain,VanBuren 3,Straight Party,,,DEM,39
+Fountain,VanBuren 3,Straight Party,,,LIB,5
+Fountain,VanBuren 3,U.S. Senate,,Mike Braun,REP,268
+Fountain,VanBuren 3,U.S. Senate,,Joe Donnelly,DEM,112
+Fountain,VanBuren 3,U.S. Senate,,Lucy M. Brenton,LIB,22
+Fountain,VanBuren 3,U.S. Senate,,Write-In Votes,,0
+Fountain,VanBuren 3,Secretary of State,,Connie Lawson,REP,294
+Fountain,VanBuren 3,Secretary of State,,Jim Harper,DEM,88
+Fountain,VanBuren 3,Secretary of State,,Mark W. Rutherford,LIB,15
+Fountain,VanBuren 3,Secretary of State,,Write-In Votes,,0
+Fountain,VanBuren 3,Auditor of State,,Tera Klutz,REP,283
+Fountain,VanBuren 3,Auditor of State,,Joselyn Whitticker,DEM,98
+Fountain,VanBuren 3,Auditor of State,,John Schick,LIB,16
+Fountain,VanBuren 3,Treasurer of State,,Kelly Mitchell,REP,312
+Fountain,VanBuren 3,Treasurer of State,,John C. Aguilera,DEM,82
+Fountain,VanBuren 3,U.S. House,4,Jim Baird,REP,288
+Fountain,VanBuren 3,U.S. House,4,Tobi Beck,DEM,106
+Fountain,VanBuren 3,State Senate,23,Philip L. Boots,REP,318
+Fountain,VanBuren 3,State Representative,13,Sharon Negele,REP,271
+Fountain,VanBuren 3,State Representative,13,Loretta Barnes,DEM,117
+Fountain,Wabash,Registered Voters,,,,541
+Fountain,Wabash,Ballots Cast,,,,317
+Fountain,Wabash,Straight Party,,,REP,149
+Fountain,Wabash,Straight Party,,,DEM,24
+Fountain,Wabash,Straight Party,,,LIB,0
+Fountain,Wabash,U.S. Senate,,Mike Braun,REP,234
+Fountain,Wabash,U.S. Senate,,Joe Donnelly,DEM,62
+Fountain,Wabash,U.S. Senate,,Lucy M. Brenton,LIB,17
+Fountain,Wabash,U.S. Senate,,Write-In Votes,,0
+Fountain,Wabash,Secretary of State,,Connie Lawson,REP,260
+Fountain,Wabash,Secretary of State,,Jim Harper,DEM,45
+Fountain,Wabash,Secretary of State,,Mark W. Rutherford,LIB,10
+Fountain,Wabash,Secretary of State,,Write-In Votes,,0
+Fountain,Wabash,Auditor of State,,Tera Klutz,REP,247
+Fountain,Wabash,Auditor of State,,Joselyn Whitticker,DEM,53
+Fountain,Wabash,Auditor of State,,John Schick,LIB,13
+Fountain,Wabash,Treasurer of State,,Kelly Mitchell,REP,267
+Fountain,Wabash,Treasurer of State,,John C. Aguilera,DEM,46
+Fountain,Wabash,U.S. House,4,Jim Baird,REP,264
+Fountain,Wabash,U.S. House,4,Tobi Beck,DEM,49
+Fountain,Wabash,State Senate,23,Philip L. Boots,REP,273
+Fountain,Wabash,State Representative,42,Alan Morrison,REP,255
+Fountain,Wabash,State Representative,42,Evelyn Brown,DEM,60

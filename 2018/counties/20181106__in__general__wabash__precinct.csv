@@ -1,0 +1,1222 @@
+county,precinct,election_day,absentee,provisional,votes,office,district,candidate,party
+Wabash,001 - Noble 1,97,41,0,138,Public Question,,YES,
+Wabash,001 - Noble 1,37,18,0,55,Public Question,,NO,
+Wabash,001 - Noble 1,121,51,0,172,U.S. Senate,,MIKE BRAUN,R
+Wabash,001 - Noble 1,39,18,0,57,U.S. Senate,,JOE DONNELLY,D
+Wabash,001 - Noble 1,11,3,0,14,U.S. Senate,,LUCY M. BRENTON,L
+Wabash,001 - Noble 1,0,0,0,0,U.S. Senate,,WRITE-IN,
+Wabash,001 - Noble 1,124,53,0,177,Secretary of State,,CONNIE LAWSON,R
+Wabash,001 - Noble 1,39,16,0,55,Secretary of State,,JIM HARPER,D
+Wabash,001 - Noble 1,8,3,0,11,Secretary of State,,MARK W. RUTHERFORD,L
+Wabash,001 - Noble 1,0,0,0,0,Secretary of State,,WRITE-IN,
+Wabash,001 - Noble 1,124,49,0,173,Auditor of State,,TERA KLUTZ,R
+Wabash,001 - Noble 1,38,18,0,56,Auditor of State,,JOSELYN WHITTICKER,D
+Wabash,001 - Noble 1,7,4,0,11,Auditor of State,,JOHN SCHICK,L
+Wabash,001 - Noble 1,131,56,0,187,Treasurer of State,,KELLY MITCHELL,R
+Wabash,001 - Noble 1,37,16,0,53,Treasurer of State,,JOHN C. AGUILERA,D
+Wabash,001 - Noble 1,119,51,0,170,U.S. House,2,JACKIE WALORSKI,R
+Wabash,001 - Noble 1,50,19,0,69,U.S. House,2,MEL HALL,D
+Wabash,001 - Noble 1,1,0,0,1,U.S. House,2,WRITE-IN,
+Wabash,001 - Noble 1,127,53,0,180,State Senate,17,ANDY ZAY,R
+Wabash,001 - Noble 1,43,19,0,62,State Senate,17,GARY L. SNYDER,D
+Wabash,001 - Noble 1,130,53,0,183,State Representative,18,DAVID A. WOLKINS,R
+Wabash,001 - Noble 1,41,19,0,60,State Representative,18,DEE M MOORE,D
+Wabash,001 - Noble 1,142,58,0,200,Prosecuting Atty 27th Circuit,,WILLIAM C. HARTLEY JR.,R
+Wabash,001 - Noble 1,148,64,0,212,Circuit Court Clerk,,LORI DRAPER,R
+Wabash,001 - Noble 1,140,63,0,203,County Recorder,,ERIC RISH,R
+Wabash,001 - Noble 1,149,64,0,213,County Sheriff,,RYAN T. BAKER,R
+Wabash,001 - Noble 1,148,64,0,212,County Assessor,,KELLY SCHENKEL,R
+Wabash,001 - Noble 1,147,64,0,211,County Commissioner District 2,,JEFF DAWES,R
+Wabash,001 - Noble 1,141,65,0,206,County Council District 3,,MATT DILLON,R
+Wabash,001 - Noble 1,145,62,0,207,Noble Township Trustee,,LORI HARNISH,R
+Wabash,001 - Noble 1,93,32,0,125,Noble Township Board Member,,BRENDA HEGEL,R
+Wabash,001 - Noble 1,90,41,0,131,Noble Township Board Member,,STEVEN KIRTLAN,R
+Wabash,001 - Noble 1,75,31,0,106,Noble Township Board Member,,WILLIAM PLUMMER,R
+Wabash,001 - Noble 1,38,20,0,58,Noble Township Board Member,,ANDREW OSBORNE,D
+Wabash,001 - Noble 1,93,50,0,143,IN Supreme Court-Slaughter,,YES,
+Wabash,001 - Noble 1,41,13,0,54,IN Supreme Court-Slaughter,,NO,
+Wabash,001 - Noble 1,99,48,0,147,Court of Appeals Dist 2-Altice,,YES,
+Wabash,001 - Noble 1,37,12,0,49,Court of Appeals Dist 2-Altice,,NO,
+Wabash,002 - Noble 2,85,35,0,120,Public Question,,YES,
+Wabash,002 - Noble 2,32,11,0,43,Public Question,,NO,
+Wabash,002 - Noble 2,95,34,0,129,U.S. Senate,,MIKE BRAUN,R
+Wabash,002 - Noble 2,57,27,0,84,U.S. Senate,,JOE DONNELLY,D
+Wabash,002 - Noble 2,5,1,0,6,U.S. Senate,,LUCY M. BRENTON,L
+Wabash,002 - Noble 2,0,1,0,1,U.S. Senate,,WRITE-IN,
+Wabash,002 - Noble 2,100,37,0,137,Secretary of State,,CONNIE LAWSON,R
+Wabash,002 - Noble 2,52,21,0,73,Secretary of State,,JIM HARPER,D
+Wabash,002 - Noble 2,6,3,0,9,Secretary of State,,MARK W. RUTHERFORD,L
+Wabash,002 - Noble 2,0,0,0,0,Secretary of State,,WRITE-IN,
+Wabash,002 - Noble 2,98,38,0,136,Auditor of State,,TERA KLUTZ,R
+Wabash,002 - Noble 2,56,21,0,77,Auditor of State,,JOSELYN WHITTICKER,D
+Wabash,002 - Noble 2,4,2,0,6,Auditor of State,,JOHN SCHICK,L
+Wabash,002 - Noble 2,105,41,0,146,Treasurer of State,,KELLY MITCHELL,R
+Wabash,002 - Noble 2,54,20,0,74,Treasurer of State,,JOHN C. AGUILERA,D
+Wabash,002 - Noble 2,95,40,0,135,U.S. House,2,JACKIE WALORSKI,R
+Wabash,002 - Noble 2,59,22,0,81,U.S. House,2,MEL HALL,D
+Wabash,002 - Noble 2,0,0,0,0,U.S. House,2,WRITE-IN,
+Wabash,002 - Noble 2,102,36,0,138,State Senate,17,ANDY ZAY,R
+Wabash,002 - Noble 2,56,25,0,81,State Senate,17,GARY L. SNYDER,D
+Wabash,002 - Noble 2,102,38,0,140,State Representative,18,DAVID A. WOLKINS,R
+Wabash,002 - Noble 2,56,23,0,79,State Representative,18,DEE M MOORE,D
+Wabash,002 - Noble 2,118,47,0,165,Prosecuting Atty 27th Circuit,,WILLIAM C. HARTLEY JR.,R
+Wabash,002 - Noble 2,121,48,0,169,Circuit Court Clerk,,LORI DRAPER,R
+Wabash,002 - Noble 2,123,45,0,168,County Recorder,,ERIC RISH,R
+Wabash,002 - Noble 2,128,47,0,175,County Sheriff,,RYAN T. BAKER,R
+Wabash,002 - Noble 2,123,47,0,170,County Assessor,,KELLY SCHENKEL,R
+Wabash,002 - Noble 2,122,47,0,169,County Commissioner District 2,,JEFF DAWES,R
+Wabash,002 - Noble 2,120,49,0,169,County Council District 3,,MATT DILLON,R
+Wabash,002 - Noble 2,120,47,0,167,Noble Township Trustee,,LORI HARNISH,R
+Wabash,002 - Noble 2,78,27,0,105,Noble Township Board Member,,BRENDA HEGEL,R
+Wabash,002 - Noble 2,73,19,0,92,Noble Township Board Member,,STEVEN KIRTLAN,R
+Wabash,002 - Noble 2,56,17,0,73,Noble Township Board Member,,WILLIAM PLUMMER,R
+Wabash,002 - Noble 2,49,23,0,72,Noble Township Board Member,,ANDREW OSBORNE,D
+Wabash,002 - Noble 2,87,30,0,117,IN Supreme Court-Slaughter,,YES,
+Wabash,002 - Noble 2,22,11,0,33,IN Supreme Court-Slaughter,,NO,
+Wabash,002 - Noble 2,90,29,0,119,Court of Appeals Dist 2-Altice,,YES,
+Wabash,002 - Noble 2,21,11,0,32,Court of Appeals Dist 2-Altice,,NO,
+Wabash,003 - Noble 3,129,69,0,198,Public Question,,YES,
+Wabash,003 - Noble 3,50,28,0,78,Public Question,,NO,
+Wabash,003 - Noble 3,138,77,0,215,U.S. Senate,,MIKE BRAUN,R
+Wabash,003 - Noble 3,57,42,0,99,U.S. Senate,,JOE DONNELLY,D
+Wabash,003 - Noble 3,13,9,0,22,U.S. Senate,,LUCY M. BRENTON,L
+Wabash,003 - Noble 3,0,0,0,0,U.S. Senate,,WRITE-IN,
+Wabash,003 - Noble 3,149,87,0,236,Secretary of State,,CONNIE LAWSON,R
+Wabash,003 - Noble 3,51,38,0,89,Secretary of State,,JIM HARPER,D
+Wabash,003 - Noble 3,8,3,0,11,Secretary of State,,MARK W. RUTHERFORD,L
+Wabash,003 - Noble 3,0,0,0,0,Secretary of State,,WRITE-IN,
+Wabash,003 - Noble 3,141,82,0,223,Auditor of State,,TERA KLUTZ,R
+Wabash,003 - Noble 3,57,43,0,100,Auditor of State,,JOSELYN WHITTICKER,D
+Wabash,003 - Noble 3,9,2,0,11,Auditor of State,,JOHN SCHICK,L
+Wabash,003 - Noble 3,152,85,0,237,Treasurer of State,,KELLY MITCHELL,R
+Wabash,003 - Noble 3,53,42,0,95,Treasurer of State,,JOHN C. AGUILERA,D
+Wabash,003 - Noble 3,140,79,0,219,U.S. House,2,JACKIE WALORSKI,R
+Wabash,003 - Noble 3,67,48,0,115,U.S. House,2,MEL HALL,D
+Wabash,003 - Noble 3,0,0,0,0,U.S. House,2,WRITE-IN,
+Wabash,003 - Noble 3,143,81,0,224,State Senate,17,ANDY ZAY,R
+Wabash,003 - Noble 3,64,45,0,109,State Senate,17,GARY L. SNYDER,D
+Wabash,003 - Noble 3,146,84,0,230,State Representative,18,DAVID A. WOLKINS,R
+Wabash,003 - Noble 3,61,43,0,104,State Representative,18,DEE M MOORE,D
+Wabash,003 - Noble 3,167,102,0,269,Prosecuting Atty 27th Circuit,,WILLIAM C. HARTLEY JR.,R
+Wabash,003 - Noble 3,171,105,0,276,Circuit Court Clerk,,LORI DRAPER,R
+Wabash,003 - Noble 3,167,99,0,266,County Recorder,,ERIC RISH,R
+Wabash,003 - Noble 3,173,106,0,279,County Sheriff,,RYAN T. BAKER,R
+Wabash,003 - Noble 3,168,102,0,270,County Assessor,,KELLY SCHENKEL,R
+Wabash,003 - Noble 3,167,103,0,270,County Commissioner District 2,,JEFF DAWES,R
+Wabash,003 - Noble 3,140,83,0,223,County Council District 2,,BARBARA PEARSON,R
+Wabash,003 - Noble 3,69,45,0,114,County Council District 2,,JANE LONG,D
+Wabash,003 - Noble 3,168,101,0,269,Noble Township Trustee,,LORI HARNISH,R
+Wabash,003 - Noble 3,101,78,0,179,Noble Township Board Member,,BRENDA HEGEL,R
+Wabash,003 - Noble 3,105,73,0,178,Noble Township Board Member,,STEVEN KIRTLAN,R
+Wabash,003 - Noble 3,80,64,0,144,Noble Township Board Member,,WILLIAM PLUMMER,R
+Wabash,003 - Noble 3,57,40,0,97,Noble Township Board Member,,ANDREW OSBORNE,D
+Wabash,003 - Noble 3,0,0,0,0,Metropolitan SB Northeast Dist,,SANDY DAVIS,
+Wabash,003 - Noble 3,1,3,0,4,Metropolitan SB Northeast Dist,,MATT DRISCOLL,
+Wabash,003 - Noble 3,1,0,0,1,Metropolitan SB Northeast Dist,,TIFFANY HAUPERT,
+Wabash,003 - Noble 3,0,0,0,0,Metropolitan SB Northwest Dist,,DOUGLAS E. BOGERT,
+Wabash,003 - Noble 3,0,2,0,2,Metropolitan SB Northwest Dist,,TODD DAZEY,
+Wabash,003 - Noble 3,1,0,0,1,Metropolitan SB Northwest Dist,,TERESA L. GALLEY,
+Wabash,003 - Noble 3,1,1,0,2,Metropolitan SB Northwest Dist,,RYAN ROSEN,
+Wabash,003 - Noble 3,119,72,0,191,IN Supreme Court-Slaughter,,YES,
+Wabash,003 - Noble 3,52,33,0,85,IN Supreme Court-Slaughter,,NO,
+Wabash,003 - Noble 3,120,80,0,200,Court of Appeals Dist 2-Altice,,YES,
+Wabash,003 - Noble 3,48,26,0,74,Court of Appeals Dist 2-Altice,,NO,
+Wabash,004 - Noble 4,118,74,0,192,Public Question,,YES,
+Wabash,004 - Noble 4,45,23,0,68,Public Question,,NO,
+Wabash,004 - Noble 4,131,66,0,197,U.S. Senate,,MIKE BRAUN,R
+Wabash,004 - Noble 4,55,43,0,98,U.S. Senate,,JOE DONNELLY,D
+Wabash,004 - Noble 4,12,4,0,16,U.S. Senate,,LUCY M. BRENTON,L
+Wabash,004 - Noble 4,0,0,0,0,U.S. Senate,,WRITE-IN,
+Wabash,004 - Noble 4,144,72,0,216,Secretary of State,,CONNIE LAWSON,R
+Wabash,004 - Noble 4,38,34,0,72,Secretary of State,,JIM HARPER,D
+Wabash,004 - Noble 4,10,5,0,15,Secretary of State,,MARK W. RUTHERFORD,L
+Wabash,004 - Noble 4,0,0,0,0,Secretary of State,,WRITE-IN,
+Wabash,004 - Noble 4,145,72,0,217,Auditor of State,,TERA KLUTZ,R
+Wabash,004 - Noble 4,41,35,0,76,Auditor of State,,JOSELYN WHITTICKER,D
+Wabash,004 - Noble 4,8,4,0,12,Auditor of State,,JOHN SCHICK,L
+Wabash,004 - Noble 4,150,75,0,225,Treasurer of State,,KELLY MITCHELL,R
+Wabash,004 - Noble 4,42,35,0,77,Treasurer of State,,JOHN C. AGUILERA,D
+Wabash,004 - Noble 4,137,69,0,206,U.S. House,2,JACKIE WALORSKI,R
+Wabash,004 - Noble 4,59,44,0,103,U.S. House,2,MEL HALL,D
+Wabash,004 - Noble 4,0,0,0,0,U.S. House,2,WRITE-IN,
+Wabash,004 - Noble 4,150,76,0,226,State Senate,17,ANDY ZAY,R
+Wabash,004 - Noble 4,44,34,0,78,State Senate,17,GARY L. SNYDER,D
+Wabash,004 - Noble 4,147,74,0,221,State Representative,18,DAVID A. WOLKINS,R
+Wabash,004 - Noble 4,46,36,0,82,State Representative,18,DEE M MOORE,D
+Wabash,004 - Noble 4,171,91,0,262,Prosecuting Atty 27th Circuit,,WILLIAM C. HARTLEY JR.,R
+Wabash,004 - Noble 4,174,93,0,267,Circuit Court Clerk,,LORI DRAPER,R
+Wabash,004 - Noble 4,170,88,0,258,County Recorder,,ERIC RISH,R
+Wabash,004 - Noble 4,180,93,0,273,County Sheriff,,RYAN T. BAKER,R
+Wabash,004 - Noble 4,169,90,0,259,County Assessor,,KELLY SCHENKEL,R
+Wabash,004 - Noble 4,168,87,0,255,County Commissioner District 2,,JEFF DAWES,R
+Wabash,004 - Noble 4,168,87,0,255,County Council District 3,,MATT DILLON,R
+Wabash,004 - Noble 4,171,91,0,262,Noble Township Trustee,,LORI HARNISH,R
+Wabash,004 - Noble 4,98,64,0,162,Noble Township Board Member,,BRENDA HEGEL,R
+Wabash,004 - Noble 4,109,70,0,179,Noble Township Board Member,,STEVEN KIRTLAN,R
+Wabash,004 - Noble 4,92,63,0,155,Noble Township Board Member,,WILLIAM PLUMMER,R
+Wabash,004 - Noble 4,44,36,0,80,Noble Township Board Member,,ANDREW OSBORNE,D
+Wabash,004 - Noble 4,128,64,0,192,IN Supreme Court-Slaughter,,YES,
+Wabash,004 - Noble 4,28,26,0,54,IN Supreme Court-Slaughter,,NO,
+Wabash,004 - Noble 4,131,67,0,198,Court of Appeals Dist 2-Altice,,YES,
+Wabash,004 - Noble 4,28,26,0,54,Court of Appeals Dist 2-Altice,,NO,
+Wabash,005 - Noble 5,167,91,0,258,Public Question,,YES,
+Wabash,005 - Noble 5,73,34,0,107,Public Question,,NO,
+Wabash,005 - Noble 5,188,94,0,282,U.S. Senate,,MIKE BRAUN,R
+Wabash,005 - Noble 5,80,51,0,131,U.S. Senate,,JOE DONNELLY,D
+Wabash,005 - Noble 5,13,9,0,22,U.S. Senate,,LUCY M. BRENTON,L
+Wabash,005 - Noble 5,0,0,0,0,U.S. Senate,,WRITE-IN,
+Wabash,005 - Noble 5,210,100,0,310,Secretary of State,,CONNIE LAWSON,R
+Wabash,005 - Noble 5,67,44,0,111,Secretary of State,,JIM HARPER,D
+Wabash,005 - Noble 5,7,7,0,14,Secretary of State,,MARK W. RUTHERFORD,L
+Wabash,005 - Noble 5,0,0,0,0,Secretary of State,,WRITE-IN,
+Wabash,005 - Noble 5,207,96,0,303,Auditor of State,,TERA KLUTZ,R
+Wabash,005 - Noble 5,66,50,0,116,Auditor of State,,JOSELYN WHITTICKER,D
+Wabash,005 - Noble 5,10,5,0,15,Auditor of State,,JOHN SCHICK,L
+Wabash,005 - Noble 5,217,104,0,321,Treasurer of State,,KELLY MITCHELL,R
+Wabash,005 - Noble 5,67,49,0,116,Treasurer of State,,JOHN C. AGUILERA,D
+Wabash,005 - Noble 5,196,97,0,293,U.S. House,2,JACKIE WALORSKI,R
+Wabash,005 - Noble 5,85,55,0,140,U.S. House,2,MEL HALL,D
+Wabash,005 - Noble 5,0,0,0,0,U.S. House,2,WRITE-IN,
+Wabash,005 - Noble 5,205,104,0,309,State Senate,17,ANDY ZAY,R
+Wabash,005 - Noble 5,77,47,0,124,State Senate,17,GARY L. SNYDER,D
+Wabash,005 - Noble 5,205,102,0,307,State Representative,18,DAVID A. WOLKINS,R
+Wabash,005 - Noble 5,78,50,0,128,State Representative,18,DEE M MOORE,D
+Wabash,005 - Noble 5,240,117,0,357,Prosecuting Atty 27th Circuit,,WILLIAM C. HARTLEY JR.,R
+Wabash,005 - Noble 5,248,119,0,367,Circuit Court Clerk,,LORI DRAPER,R
+Wabash,005 - Noble 5,241,114,0,355,County Recorder,,ERIC RISH,R
+Wabash,005 - Noble 5,251,127,0,378,County Sheriff,,RYAN T. BAKER,R
+Wabash,005 - Noble 5,246,119,0,365,County Assessor,,KELLY SCHENKEL,R
+Wabash,005 - Noble 5,244,115,0,359,County Commissioner District 2,,JEFF DAWES,R
+Wabash,005 - Noble 5,241,120,0,361,County Council District 3,,MATT DILLON,R
+Wabash,005 - Noble 5,243,120,0,363,Noble Township Trustee,,LORI HARNISH,R
+Wabash,005 - Noble 5,148,75,0,223,Noble Township Board Member,,BRENDA HEGEL,R
+Wabash,005 - Noble 5,161,80,0,241,Noble Township Board Member,,STEVEN KIRTLAN,R
+Wabash,005 - Noble 5,134,70,0,204,Noble Township Board Member,,WILLIAM PLUMMER,R
+Wabash,005 - Noble 5,71,49,0,120,Noble Township Board Member,,ANDREW OSBORNE,D
+Wabash,005 - Noble 5,1,3,0,4,Metropolitan SB Northeast Dist,,SANDY DAVIS,
+Wabash,005 - Noble 5,25,6,0,31,Metropolitan SB Northeast Dist,,MATT DRISCOLL,
+Wabash,005 - Noble 5,13,8,0,21,Metropolitan SB Northeast Dist,,TIFFANY HAUPERT,
+Wabash,005 - Noble 5,2,0,0,2,Metropolitan SB Northwest Dist,,DOUGLAS E. BOGERT,
+Wabash,005 - Noble 5,15,4,0,19,Metropolitan SB Northwest Dist,,TODD DAZEY,
+Wabash,005 - Noble 5,12,10,0,22,Metropolitan SB Northwest Dist,,TERESA L. GALLEY,
+Wabash,005 - Noble 5,11,4,0,15,Metropolitan SB Northwest Dist,,RYAN ROSEN,
+Wabash,005 - Noble 5,202,95,0,297,IN Supreme Court-Slaughter,,YES,
+Wabash,005 - Noble 5,37,29,0,66,IN Supreme Court-Slaughter,,NO,
+Wabash,005 - Noble 5,206,89,0,295,Court of Appeals Dist 2-Altice,,YES,
+Wabash,005 - Noble 5,34,33,0,67,Court of Appeals Dist 2-Altice,,NO,
+Wabash,006 - Noble 6,188,148,0,336,Public Question,,YES,
+Wabash,006 - Noble 6,78,41,0,119,Public Question,,NO,
+Wabash,006 - Noble 6,205,165,0,370,U.S. Senate,,MIKE BRAUN,R
+Wabash,006 - Noble 6,121,87,0,208,U.S. Senate,,JOE DONNELLY,D
+Wabash,006 - Noble 6,12,6,0,18,U.S. Senate,,LUCY M. BRENTON,L
+Wabash,006 - Noble 6,1,0,0,1,U.S. Senate,,WRITE-IN,
+Wabash,006 - Noble 6,222,176,0,398,Secretary of State,,CONNIE LAWSON,R
+Wabash,006 - Noble 6,105,76,0,181,Secretary of State,,JIM HARPER,D
+Wabash,006 - Noble 6,10,4,0,14,Secretary of State,,MARK W. RUTHERFORD,L
+Wabash,006 - Noble 6,0,0,0,0,Secretary of State,,WRITE-IN,
+Wabash,006 - Noble 6,220,176,0,396,Auditor of State,,TERA KLUTZ,R
+Wabash,006 - Noble 6,112,75,0,187,Auditor of State,,JOSELYN WHITTICKER,D
+Wabash,006 - Noble 6,8,5,0,13,Auditor of State,,JOHN SCHICK,L
+Wabash,006 - Noble 6,227,178,0,405,Treasurer of State,,KELLY MITCHELL,R
+Wabash,006 - Noble 6,109,77,0,186,Treasurer of State,,JOHN C. AGUILERA,D
+Wabash,006 - Noble 6,204,175,0,379,U.S. House,2,JACKIE WALORSKI,R
+Wabash,006 - Noble 6,135,83,0,218,U.S. House,2,MEL HALL,D
+Wabash,006 - Noble 6,0,0,0,0,U.S. House,2,WRITE-IN,
+Wabash,006 - Noble 6,228,179,0,407,State Senate,17,ANDY ZAY,R
+Wabash,006 - Noble 6,113,77,0,190,State Senate,17,GARY L. SNYDER,D
+Wabash,006 - Noble 6,228,176,0,404,State Representative,18,DAVID A. WOLKINS,R
+Wabash,006 - Noble 6,114,78,0,192,State Representative,18,DEE M MOORE,D
+Wabash,006 - Noble 6,259,199,0,458,Prosecuting Atty 27th Circuit,,WILLIAM C. HARTLEY JR.,R
+Wabash,006 - Noble 6,265,199,0,464,Circuit Court Clerk,,LORI DRAPER,R
+Wabash,006 - Noble 6,252,204,0,456,County Recorder,,ERIC RISH,R
+Wabash,006 - Noble 6,275,206,0,481,County Sheriff,,RYAN T. BAKER,R
+Wabash,006 - Noble 6,263,208,0,471,County Assessor,,KELLY SCHENKEL,R
+Wabash,006 - Noble 6,263,204,0,467,County Commissioner District 2,,JEFF DAWES,R
+Wabash,006 - Noble 6,216,172,0,388,County Council District 2,,BARBARA PEARSON,R
+Wabash,006 - Noble 6,118,84,0,202,County Council District 2,,JANE LONG,D
+Wabash,006 - Noble 6,258,196,0,454,Noble Township Trustee,,LORI HARNISH,R
+Wabash,006 - Noble 6,174,150,0,324,Noble Township Board Member,,BRENDA HEGEL,R
+Wabash,006 - Noble 6,185,162,0,347,Noble Township Board Member,,STEVEN KIRTLAN,R
+Wabash,006 - Noble 6,146,136,0,282,Noble Township Board Member,,WILLIAM PLUMMER,R
+Wabash,006 - Noble 6,103,65,0,168,Noble Township Board Member,,ANDREW OSBORNE,D
+Wabash,006 - Noble 6,5,4,0,9,Metropolitan SB Northeast Dist,,SANDY DAVIS,
+Wabash,006 - Noble 6,3,15,0,18,Metropolitan SB Northeast Dist,,MATT DRISCOLL,
+Wabash,006 - Noble 6,12,10,0,22,Metropolitan SB Northeast Dist,,TIFFANY HAUPERT,
+Wabash,006 - Noble 6,1,1,0,2,Metropolitan SB Northwest Dist,,DOUGLAS E. BOGERT,
+Wabash,006 - Noble 6,0,12,0,12,Metropolitan SB Northwest Dist,,TODD DAZEY,
+Wabash,006 - Noble 6,10,11,0,21,Metropolitan SB Northwest Dist,,TERESA L. GALLEY,
+Wabash,006 - Noble 6,8,2,0,10,Metropolitan SB Northwest Dist,,RYAN ROSEN,
+Wabash,006 - Noble 6,197,166,0,363,IN Supreme Court-Slaughter,,YES,
+Wabash,006 - Noble 6,73,42,0,115,IN Supreme Court-Slaughter,,NO,
+Wabash,006 - Noble 6,202,162,0,364,Court of Appeals Dist 2-Altice,,YES,
+Wabash,006 - Noble 6,68,41,0,109,Court of Appeals Dist 2-Altice,,NO,
+Wabash,007 - Noble 7,191,79,0,270,Public Question,,YES,
+Wabash,007 - Noble 7,50,34,0,84,Public Question,,NO,
+Wabash,007 - Noble 7,212,95,0,307,U.S. Senate,,MIKE BRAUN,R
+Wabash,007 - Noble 7,64,47,0,111,U.S. Senate,,JOE DONNELLY,D
+Wabash,007 - Noble 7,17,12,0,29,U.S. Senate,,LUCY M. BRENTON,L
+Wabash,007 - Noble 7,0,0,0,0,U.S. Senate,,WRITE-IN,
+Wabash,007 - Noble 7,231,105,0,336,Secretary of State,,CONNIE LAWSON,R
+Wabash,007 - Noble 7,51,43,0,94,Secretary of State,,JIM HARPER,D
+Wabash,007 - Noble 7,11,6,0,17,Secretary of State,,MARK W. RUTHERFORD,L
+Wabash,007 - Noble 7,0,0,0,0,Secretary of State,,WRITE-IN,
+Wabash,007 - Noble 7,223,100,0,323,Auditor of State,,TERA KLUTZ,R
+Wabash,007 - Noble 7,59,47,0,106,Auditor of State,,JOSELYN WHITTICKER,D
+Wabash,007 - Noble 7,10,4,0,14,Auditor of State,,JOHN SCHICK,L
+Wabash,007 - Noble 7,237,102,0,339,Treasurer of State,,KELLY MITCHELL,R
+Wabash,007 - Noble 7,54,47,0,101,Treasurer of State,,JOHN C. AGUILERA,D
+Wabash,007 - Noble 7,226,100,0,326,U.S. House,2,JACKIE WALORSKI,R
+Wabash,007 - Noble 7,67,52,0,119,U.S. House,2,MEL HALL,D
+Wabash,007 - Noble 7,0,0,0,0,U.S. House,2,WRITE-IN,
+Wabash,007 - Noble 7,230,103,0,333,State Senate,17,ANDY ZAY,R
+Wabash,007 - Noble 7,62,48,0,110,State Senate,17,GARY L. SNYDER,D
+Wabash,007 - Noble 7,231,101,0,332,State Representative,18,DAVID A. WOLKINS,R
+Wabash,007 - Noble 7,61,49,0,110,State Representative,18,DEE M MOORE,D
+Wabash,007 - Noble 7,254,108,0,362,Prosecuting Atty 27th Circuit,,WILLIAM C. HARTLEY JR.,R
+Wabash,007 - Noble 7,255,112,0,367,Circuit Court Clerk,,LORI DRAPER,R
+Wabash,007 - Noble 7,249,109,0,358,County Recorder,,ERIC RISH,R
+Wabash,007 - Noble 7,263,113,0,376,County Sheriff,,RYAN T. BAKER,R
+Wabash,007 - Noble 7,257,111,0,368,County Assessor,,KELLY SCHENKEL,R
+Wabash,007 - Noble 7,255,112,0,367,County Commissioner District 2,,JEFF DAWES,R
+Wabash,007 - Noble 7,253,110,0,363,County Council District 3,,MATT DILLON,R
+Wabash,007 - Noble 7,248,109,0,357,Noble Township Trustee,,LORI HARNISH,R
+Wabash,007 - Noble 7,164,69,0,233,Noble Township Board Member,,BRENDA HEGEL,R
+Wabash,007 - Noble 7,174,72,0,246,Noble Township Board Member,,STEVEN KIRTLAN,R
+Wabash,007 - Noble 7,127,49,0,176,Noble Township Board Member,,WILLIAM PLUMMER,R
+Wabash,007 - Noble 7,67,42,0,109,Noble Township Board Member,,ANDREW OSBORNE,D
+Wabash,007 - Noble 7,12,8,0,20,Metropolitan SB Northeast Dist,,SANDY DAVIS,
+Wabash,007 - Noble 7,34,11,0,45,Metropolitan SB Northeast Dist,,MATT DRISCOLL,
+Wabash,007 - Noble 7,29,18,0,47,Metropolitan SB Northeast Dist,,TIFFANY HAUPERT,
+Wabash,007 - Noble 7,3,2,0,5,Metropolitan SB Northwest Dist,,DOUGLAS E. BOGERT,
+Wabash,007 - Noble 7,29,14,0,43,Metropolitan SB Northwest Dist,,TODD DAZEY,
+Wabash,007 - Noble 7,27,14,0,41,Metropolitan SB Northwest Dist,,TERESA L. GALLEY,
+Wabash,007 - Noble 7,19,9,0,28,Metropolitan SB Northwest Dist,,RYAN ROSEN,
+Wabash,007 - Noble 7,187,82,0,269,IN Supreme Court-Slaughter,,YES,
+Wabash,007 - Noble 7,55,36,0,91,IN Supreme Court-Slaughter,,NO,
+Wabash,007 - Noble 7,189,79,0,268,Court of Appeals Dist 2-Altice,,YES,
+Wabash,007 - Noble 7,54,39,0,93,Court of Appeals Dist 2-Altice,,NO,
+Wabash,008 - Noble 8,150,132,0,282,Public Question,,YES,
+Wabash,008 - Noble 8,60,36,0,96,Public Question,,NO,
+Wabash,008 - Noble 8,181,149,0,330,U.S. Senate,,MIKE BRAUN,R
+Wabash,008 - Noble 8,70,87,0,157,U.S. Senate,,JOE DONNELLY,D
+Wabash,008 - Noble 8,7,12,0,19,U.S. Senate,,LUCY M. BRENTON,L
+Wabash,008 - Noble 8,0,0,0,0,U.S. Senate,,WRITE-IN,
+Wabash,008 - Noble 8,199,169,0,368,Secretary of State,,CONNIE LAWSON,R
+Wabash,008 - Noble 8,48,72,0,120,Secretary of State,,JIM HARPER,D
+Wabash,008 - Noble 8,10,6,0,16,Secretary of State,,MARK W. RUTHERFORD,L
+Wabash,008 - Noble 8,0,0,0,0,Secretary of State,,WRITE-IN,
+Wabash,008 - Noble 8,195,168,0,363,Auditor of State,,TERA KLUTZ,R
+Wabash,008 - Noble 8,52,74,0,126,Auditor of State,,JOSELYN WHITTICKER,D
+Wabash,008 - Noble 8,6,5,0,11,Auditor of State,,JOHN SCHICK,L
+Wabash,008 - Noble 8,206,176,0,382,Treasurer of State,,KELLY MITCHELL,R
+Wabash,008 - Noble 8,49,70,0,119,Treasurer of State,,JOHN C. AGUILERA,D
+Wabash,008 - Noble 8,193,161,0,354,U.S. House,2,JACKIE WALORSKI,R
+Wabash,008 - Noble 8,63,83,0,146,U.S. House,2,MEL HALL,D
+Wabash,008 - Noble 8,0,0,0,0,U.S. House,2,WRITE-IN,
+Wabash,008 - Noble 8,201,169,0,370,State Senate,17,ANDY ZAY,R
+Wabash,008 - Noble 8,55,73,0,128,State Senate,17,GARY L. SNYDER,D
+Wabash,008 - Noble 8,201,170,0,371,State Representative,18,DAVID A. WOLKINS,R
+Wabash,008 - Noble 8,54,74,0,128,State Representative,18,DEE M MOORE,D
+Wabash,008 - Noble 8,230,209,0,439,Prosecuting Atty 27th Circuit,,WILLIAM C. HARTLEY JR.,R
+Wabash,008 - Noble 8,232,208,0,440,Circuit Court Clerk,,LORI DRAPER,R
+Wabash,008 - Noble 8,222,202,0,424,County Recorder,,ERIC RISH,R
+Wabash,008 - Noble 8,230,206,0,436,County Sheriff,,RYAN T. BAKER,R
+Wabash,008 - Noble 8,225,211,0,436,County Assessor,,KELLY SCHENKEL,R
+Wabash,008 - Noble 8,221,203,0,424,County Commissioner District 2,,JEFF DAWES,R
+Wabash,008 - Noble 8,221,200,0,421,County Council District 3,,MATT DILLON,R
+Wabash,008 - Noble 8,224,199,0,423,Noble Township Trustee,,LORI HARNISH,R
+Wabash,008 - Noble 8,130,118,0,248,Noble Township Board Member,,BRENDA HEGEL,R
+Wabash,008 - Noble 8,166,132,0,298,Noble Township Board Member,,STEVEN KIRTLAN,R
+Wabash,008 - Noble 8,123,99,0,222,Noble Township Board Member,,WILLIAM PLUMMER,R
+Wabash,008 - Noble 8,47,57,0,104,Noble Township Board Member,,ANDREW OSBORNE,D
+Wabash,008 - Noble 8,14,23,0,37,Metropolitan SB Northeast Dist,,SANDY DAVIS,
+Wabash,008 - Noble 8,41,33,0,74,Metropolitan SB Northeast Dist,,MATT DRISCOLL,
+Wabash,008 - Noble 8,61,70,0,131,Metropolitan SB Northeast Dist,,TIFFANY HAUPERT,
+Wabash,008 - Noble 8,6,4,0,10,Metropolitan SB Northwest Dist,,DOUGLAS E. BOGERT,
+Wabash,008 - Noble 8,30,29,0,59,Metropolitan SB Northwest Dist,,TODD DAZEY,
+Wabash,008 - Noble 8,51,68,0,119,Metropolitan SB Northwest Dist,,TERESA L. GALLEY,
+Wabash,008 - Noble 8,31,28,0,59,Metropolitan SB Northwest Dist,,RYAN ROSEN,
+Wabash,008 - Noble 8,172,151,0,323,IN Supreme Court-Slaughter,,YES,
+Wabash,008 - Noble 8,44,24,0,68,IN Supreme Court-Slaughter,,NO,
+Wabash,008 - Noble 8,178,151,0,329,Court of Appeals Dist 2-Altice,,YES,
+Wabash,008 - Noble 8,41,22,0,63,Court of Appeals Dist 2-Altice,,NO,
+Wabash,009 - Noble 9,129,126,0,255,Public Question,,YES,
+Wabash,009 - Noble 9,65,29,0,94,Public Question,,NO,
+Wabash,009 - Noble 9,175,157,0,332,U.S. Senate,,MIKE BRAUN,R
+Wabash,009 - Noble 9,53,32,0,85,U.S. Senate,,JOE DONNELLY,D
+Wabash,009 - Noble 9,8,4,0,12,U.S. Senate,,LUCY M. BRENTON,L
+Wabash,009 - Noble 9,0,0,0,0,U.S. Senate,,WRITE-IN,
+Wabash,009 - Noble 9,191,166,0,357,Secretary of State,,CONNIE LAWSON,R
+Wabash,009 - Noble 9,36,20,0,56,Secretary of State,,JIM HARPER,D
+Wabash,009 - Noble 9,6,2,0,8,Secretary of State,,MARK W. RUTHERFORD,L
+Wabash,009 - Noble 9,0,0,0,0,Secretary of State,,WRITE-IN,
+Wabash,009 - Noble 9,187,168,0,355,Auditor of State,,TERA KLUTZ,R
+Wabash,009 - Noble 9,40,20,0,60,Auditor of State,,JOSELYN WHITTICKER,D
+Wabash,009 - Noble 9,7,3,0,10,Auditor of State,,JOHN SCHICK,L
+Wabash,009 - Noble 9,196,169,0,365,Treasurer of State,,KELLY MITCHELL,R
+Wabash,009 - Noble 9,36,19,0,55,Treasurer of State,,JOHN C. AGUILERA,D
+Wabash,009 - Noble 9,186,159,0,345,U.S. House,2,JACKIE WALORSKI,R
+Wabash,009 - Noble 9,52,32,0,84,U.S. House,2,MEL HALL,D
+Wabash,009 - Noble 9,0,0,0,0,U.S. House,2,WRITE-IN,
+Wabash,009 - Noble 9,187,163,0,350,State Senate,17,ANDY ZAY,R
+Wabash,009 - Noble 9,47,26,0,73,State Senate,17,GARY L. SNYDER,D
+Wabash,009 - Noble 9,185,162,0,347,State Representative,18,DAVID A. WOLKINS,R
+Wabash,009 - Noble 9,47,28,0,75,State Representative,18,DEE M MOORE,D
+Wabash,009 - Noble 9,211,175,0,386,Prosecuting Atty 27th Circuit,,WILLIAM C. HARTLEY JR.,R
+Wabash,009 - Noble 9,215,180,0,395,Circuit Court Clerk,,LORI DRAPER,R
+Wabash,009 - Noble 9,207,169,0,376,County Recorder,,ERIC RISH,R
+Wabash,009 - Noble 9,217,180,0,397,County Sheriff,,RYAN T. BAKER,R
+Wabash,009 - Noble 9,217,185,0,402,County Assessor,,KELLY SCHENKEL,R
+Wabash,009 - Noble 9,211,179,0,390,County Commissioner District 2,,JEFF DAWES,R
+Wabash,009 - Noble 9,182,160,0,342,County Council District 2,,BARBARA PEARSON,R
+Wabash,009 - Noble 9,53,29,0,82,County Council District 2,,JANE LONG,D
+Wabash,009 - Noble 9,210,178,0,388,Noble Township Trustee,,LORI HARNISH,R
+Wabash,009 - Noble 9,159,153,0,312,Noble Township Board Member,,BRENDA HEGEL,R
+Wabash,009 - Noble 9,184,144,0,328,Noble Township Board Member,,STEVEN KIRTLAN,R
+Wabash,009 - Noble 9,134,121,0,255,Noble Township Board Member,,WILLIAM PLUMMER,R
+Wabash,009 - Noble 9,49,24,0,73,Noble Township Board Member,,ANDREW OSBORNE,D
+Wabash,009 - Noble 9,9,23,0,32,Metropolitan SB Northeast Dist,,SANDY DAVIS,
+Wabash,009 - Noble 9,93,83,0,176,Metropolitan SB Northeast Dist,,MATT DRISCOLL,
+Wabash,009 - Noble 9,120,72,0,192,Metropolitan SB Northeast Dist,,TIFFANY HAUPERT,
+Wabash,009 - Noble 9,10,3,0,13,Metropolitan SB Northwest Dist,,DOUGLAS E. BOGERT,
+Wabash,009 - Noble 9,91,87,0,178,Metropolitan SB Northwest Dist,,TODD DAZEY,
+Wabash,009 - Noble 9,75,41,0,116,Metropolitan SB Northwest Dist,,TERESA L. GALLEY,
+Wabash,009 - Noble 9,55,50,0,105,Metropolitan SB Northwest Dist,,RYAN ROSEN,
+Wabash,009 - Noble 9,157,119,0,276,IN Supreme Court-Slaughter,,YES,
+Wabash,009 - Noble 9,47,39,0,86,IN Supreme Court-Slaughter,,NO,
+Wabash,009 - Noble 9,157,120,0,277,Court of Appeals Dist 2-Altice,,YES,
+Wabash,009 - Noble 9,47,38,0,85,Court of Appeals Dist 2-Altice,,NO,
+Wabash,010 - Noble 10,152,177,0,329,Public Question,,YES,
+Wabash,010 - Noble 10,64,56,0,120,Public Question,,NO,
+Wabash,010 - Noble 10,205,214,0,419,U.S. Senate,,MIKE BRAUN,R
+Wabash,010 - Noble 10,58,65,0,123,U.S. Senate,,JOE DONNELLY,D
+Wabash,010 - Noble 10,7,10,0,17,U.S. Senate,,LUCY M. BRENTON,L
+Wabash,010 - Noble 10,0,0,0,0,U.S. Senate,,WRITE-IN,
+Wabash,010 - Noble 10,218,230,0,448,Secretary of State,,CONNIE LAWSON,R
+Wabash,010 - Noble 10,49,54,0,103,Secretary of State,,JIM HARPER,D
+Wabash,010 - Noble 10,3,5,0,8,Secretary of State,,MARK W. RUTHERFORD,L
+Wabash,010 - Noble 10,0,0,0,0,Secretary of State,,WRITE-IN,
+Wabash,010 - Noble 10,209,226,0,435,Auditor of State,,TERA KLUTZ,R
+Wabash,010 - Noble 10,55,56,0,111,Auditor of State,,JOSELYN WHITTICKER,D
+Wabash,010 - Noble 10,4,3,0,7,Auditor of State,,JOHN SCHICK,L
+Wabash,010 - Noble 10,217,233,0,450,Treasurer of State,,KELLY MITCHELL,R
+Wabash,010 - Noble 10,50,53,0,103,Treasurer of State,,JOHN C. AGUILERA,D
+Wabash,010 - Noble 10,213,224,0,437,U.S. House,2,JACKIE WALORSKI,R
+Wabash,010 - Noble 10,59,63,0,122,U.S. House,2,MEL HALL,D
+Wabash,010 - Noble 10,1,0,0,1,U.S. House,2,WRITE-IN,
+Wabash,010 - Noble 10,219,225,0,444,State Senate,17,ANDY ZAY,R
+Wabash,010 - Noble 10,52,59,0,111,State Senate,17,GARY L. SNYDER,D
+Wabash,010 - Noble 10,218,225,0,443,State Representative,18,DAVID A. WOLKINS,R
+Wabash,010 - Noble 10,50,59,0,109,State Representative,18,DEE M MOORE,D
+Wabash,010 - Noble 10,238,243,0,481,Prosecuting Atty 27th Circuit,,WILLIAM C. HARTLEY JR.,R
+Wabash,010 - Noble 10,243,252,0,495,Circuit Court Clerk,,LORI DRAPER,R
+Wabash,010 - Noble 10,234,241,0,475,County Recorder,,ERIC RISH,R
+Wabash,010 - Noble 10,247,253,0,500,County Sheriff,,RYAN T. BAKER,R
+Wabash,010 - Noble 10,246,249,0,495,County Assessor,,KELLY SCHENKEL,R
+Wabash,010 - Noble 10,246,247,0,493,County Commissioner District 2,,JEFF DAWES,R
+Wabash,010 - Noble 10,240,238,0,478,County Council District 4,,KYLE M. BOWMAN,R
+Wabash,010 - Noble 10,248,252,0,500,Noble Township Trustee,,LORI HARNISH,R
+Wabash,010 - Noble 10,157,171,0,328,Noble Township Board Member,,BRENDA HEGEL,R
+Wabash,010 - Noble 10,153,197,0,350,Noble Township Board Member,,STEVEN KIRTLAN,R
+Wabash,010 - Noble 10,117,133,0,250,Noble Township Board Member,,WILLIAM PLUMMER,R
+Wabash,010 - Noble 10,58,46,0,104,Noble Township Board Member,,ANDREW OSBORNE,D
+Wabash,010 - Noble 10,33,30,0,63,Metropolitan SB Northeast Dist,,SANDY DAVIS,
+Wabash,010 - Noble 10,108,112,0,220,Metropolitan SB Northeast Dist,,MATT DRISCOLL,
+Wabash,010 - Noble 10,93,103,0,196,Metropolitan SB Northeast Dist,,TIFFANY HAUPERT,
+Wabash,010 - Noble 10,8,5,0,13,Metropolitan SB Northwest Dist,,DOUGLAS E. BOGERT,
+Wabash,010 - Noble 10,104,100,0,204,Metropolitan SB Northwest Dist,,TODD DAZEY,
+Wabash,010 - Noble 10,78,103,0,181,Metropolitan SB Northwest Dist,,TERESA L. GALLEY,
+Wabash,010 - Noble 10,51,44,0,95,Metropolitan SB Northwest Dist,,RYAN ROSEN,
+Wabash,010 - Noble 10,161,181,0,342,IN Supreme Court-Slaughter,,YES,
+Wabash,010 - Noble 10,55,42,0,97,IN Supreme Court-Slaughter,,NO,
+Wabash,010 - Noble 10,164,184,0,348,Court of Appeals Dist 2-Altice,,YES,
+Wabash,010 - Noble 10,52,36,0,88,Court of Appeals Dist 2-Altice,,NO,
+Wabash,011 - Noble 11,123,158,0,281,Public Question,,YES,
+Wabash,011 - Noble 11,54,47,0,101,Public Question,,NO,
+Wabash,011 - Noble 11,160,176,0,336,U.S. Senate,,MIKE BRAUN,R
+Wabash,011 - Noble 11,34,61,0,95,U.S. Senate,,JOE DONNELLY,D
+Wabash,011 - Noble 11,11,9,0,20,U.S. Senate,,LUCY M. BRENTON,L
+Wabash,011 - Noble 11,0,0,0,0,U.S. Senate,,WRITE-IN,
+Wabash,011 - Noble 11,171,186,0,357,Secretary of State,,CONNIE LAWSON,R
+Wabash,011 - Noble 11,24,54,0,78,Secretary of State,,JIM HARPER,D
+Wabash,011 - Noble 11,10,5,0,15,Secretary of State,,MARK W. RUTHERFORD,L
+Wabash,011 - Noble 11,0,0,0,0,Secretary of State,,WRITE-IN,
+Wabash,011 - Noble 11,168,187,0,355,Auditor of State,,TERA KLUTZ,R
+Wabash,011 - Noble 11,28,51,0,79,Auditor of State,,JOSELYN WHITTICKER,D
+Wabash,011 - Noble 11,6,6,0,12,Auditor of State,,JOHN SCHICK,L
+Wabash,011 - Noble 11,177,191,0,368,Treasurer of State,,KELLY MITCHELL,R
+Wabash,011 - Noble 11,26,53,0,79,Treasurer of State,,JOHN C. AGUILERA,D
+Wabash,011 - Noble 11,166,188,0,354,U.S. House,2,JACKIE WALORSKI,R
+Wabash,011 - Noble 11,38,55,0,93,U.S. House,2,MEL HALL,D
+Wabash,011 - Noble 11,0,0,0,0,U.S. House,2,WRITE-IN,
+Wabash,011 - Noble 11,173,189,0,362,State Senate,17,ANDY ZAY,R
+Wabash,011 - Noble 11,27,57,0,84,State Senate,17,GARY L. SNYDER,D
+Wabash,011 - Noble 11,171,190,0,361,State Representative,18,DAVID A. WOLKINS,R
+Wabash,011 - Noble 11,27,57,0,84,State Representative,18,DEE M MOORE,D
+Wabash,011 - Noble 11,179,213,0,392,Prosecuting Atty 27th Circuit,,WILLIAM C. HARTLEY JR.,R
+Wabash,011 - Noble 11,190,217,0,407,Circuit Court Clerk,,LORI DRAPER,R
+Wabash,011 - Noble 11,182,214,0,396,County Recorder,,ERIC RISH,R
+Wabash,011 - Noble 11,190,223,0,413,County Sheriff,,RYAN T. BAKER,R
+Wabash,011 - Noble 11,187,218,0,405,County Assessor,,KELLY SCHENKEL,R
+Wabash,011 - Noble 11,183,213,0,396,County Commissioner District 2,,JEFF DAWES,R
+Wabash,011 - Noble 11,183,211,0,394,County Council District 3,,MATT DILLON,R
+Wabash,011 - Noble 11,185,214,0,399,Noble Township Trustee,,LORI HARNISH,R
+Wabash,011 - Noble 11,115,146,0,261,Noble Township Board Member,,BRENDA HEGEL,R
+Wabash,011 - Noble 11,132,161,0,293,Noble Township Board Member,,STEVEN KIRTLAN,R
+Wabash,011 - Noble 11,90,123,0,213,Noble Township Board Member,,WILLIAM PLUMMER,R
+Wabash,011 - Noble 11,30,49,0,79,Noble Township Board Member,,ANDREW OSBORNE,D
+Wabash,011 - Noble 11,16,18,0,34,Metropolitan SB Northeast Dist,,SANDY DAVIS,
+Wabash,011 - Noble 11,85,99,0,184,Metropolitan SB Northeast Dist,,MATT DRISCOLL,
+Wabash,011 - Noble 11,90,98,0,188,Metropolitan SB Northeast Dist,,TIFFANY HAUPERT,
+Wabash,011 - Noble 11,12,12,0,24,Metropolitan SB Northwest Dist,,DOUGLAS E. BOGERT,
+Wabash,011 - Noble 11,58,85,0,143,Metropolitan SB Northwest Dist,,TODD DAZEY,
+Wabash,011 - Noble 11,72,62,0,134,Metropolitan SB Northwest Dist,,TERESA L. GALLEY,
+Wabash,011 - Noble 11,50,62,0,112,Metropolitan SB Northwest Dist,,RYAN ROSEN,
+Wabash,011 - Noble 11,132,155,0,287,IN Supreme Court-Slaughter,,YES,
+Wabash,011 - Noble 11,41,38,0,79,IN Supreme Court-Slaughter,,NO,
+Wabash,011 - Noble 11,129,155,0,284,Court of Appeals Dist 2-Altice,,YES,
+Wabash,011 - Noble 11,39,39,0,78,Court of Appeals Dist 2-Altice,,NO,
+Wabash,012 - Chester 1,162,99,0,261,Public Question,,YES,
+Wabash,012 - Chester 1,66,60,0,126,Public Question,,NO,
+Wabash,012 - Chester 1,43,18,0,61,Public Question-Manchester Schools,,YES,
+Wabash,012 - Chester 1,201,153,0,354,Public Question-Manchester Schools,,NO,
+Wabash,012 - Chester 1,175,104,0,279,U.S. Senate,,MIKE BRAUN,R
+Wabash,012 - Chester 1,62,61,0,123,U.S. Senate,,JOE DONNELLY,D
+Wabash,012 - Chester 1,12,3,0,15,U.S. Senate,,LUCY M. BRENTON,L
+Wabash,012 - Chester 1,0,0,0,0,U.S. Senate,,WRITE-IN,
+Wabash,012 - Chester 1,204,118,0,322,Secretary of State,,CONNIE LAWSON,R
+Wabash,012 - Chester 1,37,46,0,83,Secretary of State,,JIM HARPER,D
+Wabash,012 - Chester 1,9,4,0,13,Secretary of State,,MARK W. RUTHERFORD,L
+Wabash,012 - Chester 1,0,0,0,0,Secretary of State,,WRITE-IN,
+Wabash,012 - Chester 1,195,120,0,315,Auditor of State,,TERA KLUTZ,R
+Wabash,012 - Chester 1,41,44,0,85,Auditor of State,,JOSELYN WHITTICKER,D
+Wabash,012 - Chester 1,8,3,0,11,Auditor of State,,JOHN SCHICK,L
+Wabash,012 - Chester 1,202,124,0,326,Treasurer of State,,KELLY MITCHELL,R
+Wabash,012 - Chester 1,42,42,0,84,Treasurer of State,,JOHN C. AGUILERA,D
+Wabash,012 - Chester 1,185,114,0,299,U.S. House,2,JACKIE WALORSKI,R
+Wabash,012 - Chester 1,58,52,0,110,U.S. House,2,MEL HALL,D
+Wabash,012 - Chester 1,0,0,0,0,U.S. House,2,WRITE-IN,
+Wabash,012 - Chester 1,196,117,0,313,State Senate,17,ANDY ZAY,R
+Wabash,012 - Chester 1,51,51,0,102,State Senate,17,GARY L. SNYDER,D
+Wabash,012 - Chester 1,193,116,0,309,State Representative,18,DAVID A. WOLKINS,R
+Wabash,012 - Chester 1,51,49,0,100,State Representative,18,DEE M MOORE,D
+Wabash,012 - Chester 1,219,136,0,355,Prosecuting Atty 27th Circuit,,WILLIAM C. HARTLEY JR.,R
+Wabash,012 - Chester 1,220,135,0,355,Circuit Court Clerk,,LORI DRAPER,R
+Wabash,012 - Chester 1,219,132,0,351,County Recorder,,ERIC RISH,R
+Wabash,012 - Chester 1,220,131,0,351,County Sheriff,,RYAN T. BAKER,R
+Wabash,012 - Chester 1,223,134,0,357,County Assessor,,KELLY SCHENKEL,R
+Wabash,012 - Chester 1,215,131,0,346,County Commissioner District 2,,JEFF DAWES,R
+Wabash,012 - Chester 1,213,133,0,346,County Council District 1,,MATTHEW J. MIZE,R
+Wabash,012 - Chester 1,222,137,0,359,Chester Township Trustee,,FLORENCE (FLO) DAHLSTROM,R
+Wabash,012 - Chester 1,176,114,0,290,Chester Township Board Member,,BRET BECHTOLD,R
+Wabash,012 - Chester 1,171,100,0,271,Chester Township Board Member,,WAYNE STEPHAN,R
+Wabash,012 - Chester 1,155,95,0,250,Chester Township Board Member,,ROBERT LAMOINE (MOE) THOMAS,R
+Wabash,012 - Chester 1,70,53,0,123,Manchester SB Chester Twp,,SALLY KROUSE,
+Wabash,012 - Chester 1,155,106,0,261,Manchester SB Chester Twp,,DAVID W. TERFLINGER,
+Wabash,012 - Chester 1,53,51,0,104,Manchester SB North Manchester,,MICHAEL DIXON,
+Wabash,012 - Chester 1,90,57,0,147,Manchester SB North Manchester,,RICHARD ESPESET,
+Wabash,012 - Chester 1,79,48,0,127,Manchester SB North Manchester,,KEVIN WAYNE KLING,
+Wabash,012 - Chester 1,89,49,0,138,Manchester SB North Manchester,,AMANDA SHAMBARGER,
+Wabash,012 - Chester 1,99,76,0,175,Manchester SB North Manchester,,BENJAMIN D.R. VANDERPOOL,
+Wabash,012 - Chester 1,162,101,0,263,IN Supreme Court-Slaughter,,YES,
+Wabash,012 - Chester 1,44,37,0,81,IN Supreme Court-Slaughter,,NO,
+Wabash,012 - Chester 1,161,103,0,264,Court of Appeals Dist 2-Altice,,YES,
+Wabash,012 - Chester 1,46,35,0,81,Court of Appeals Dist 2-Altice,,NO,
+Wabash,013 - Chester 2,143,83,0,226,Public Question,,YES,
+Wabash,013 - Chester 2,49,38,0,87,Public Question,,NO,
+Wabash,013 - Chester 2,39,16,0,55,Public Question-Manchester Schools,,YES,
+Wabash,013 - Chester 2,160,111,0,271,Public Question-Manchester Schools,,NO,
+Wabash,013 - Chester 2,147,81,0,228,U.S. Senate,,MIKE BRAUN,R
+Wabash,013 - Chester 2,41,36,0,77,U.S. Senate,,JOE DONNELLY,D
+Wabash,013 - Chester 2,13,7,0,20,U.S. Senate,,LUCY M. BRENTON,L
+Wabash,013 - Chester 2,0,2,0,2,U.S. Senate,,WRITE-IN,
+Wabash,013 - Chester 2,158,83,0,241,Secretary of State,,CONNIE LAWSON,R
+Wabash,013 - Chester 2,30,33,0,63,Secretary of State,,JIM HARPER,D
+Wabash,013 - Chester 2,10,9,0,19,Secretary of State,,MARK W. RUTHERFORD,L
+Wabash,013 - Chester 2,0,0,0,0,Secretary of State,,WRITE-IN,
+Wabash,013 - Chester 2,159,87,0,246,Auditor of State,,TERA KLUTZ,R
+Wabash,013 - Chester 2,27,28,0,55,Auditor of State,,JOSELYN WHITTICKER,D
+Wabash,013 - Chester 2,10,8,0,18,Auditor of State,,JOHN SCHICK,L
+Wabash,013 - Chester 2,168,91,0,259,Treasurer of State,,KELLY MITCHELL,R
+Wabash,013 - Chester 2,29,32,0,61,Treasurer of State,,JOHN C. AGUILERA,D
+Wabash,013 - Chester 2,158,88,0,246,U.S. House,2,JACKIE WALORSKI,R
+Wabash,013 - Chester 2,42,37,0,79,U.S. House,2,MEL HALL,D
+Wabash,013 - Chester 2,0,0,0,0,U.S. House,2,WRITE-IN,
+Wabash,013 - Chester 2,165,89,0,254,State Senate,17,ANDY ZAY,R
+Wabash,013 - Chester 2,31,36,0,67,State Senate,17,GARY L. SNYDER,D
+Wabash,013 - Chester 2,161,87,0,248,State Representative,18,DAVID A. WOLKINS,R
+Wabash,013 - Chester 2,37,38,0,75,State Representative,18,DEE M MOORE,D
+Wabash,013 - Chester 2,178,100,0,278,Prosecuting Atty 27th Circuit,,WILLIAM C. HARTLEY JR.,R
+Wabash,013 - Chester 2,181,103,0,284,Circuit Court Clerk,,LORI DRAPER,R
+Wabash,013 - Chester 2,182,97,0,279,County Recorder,,ERIC RISH,R
+Wabash,013 - Chester 2,184,100,0,284,County Sheriff,,RYAN T. BAKER,R
+Wabash,013 - Chester 2,184,104,0,288,County Assessor,,KELLY SCHENKEL,R
+Wabash,013 - Chester 2,179,99,0,278,County Commissioner District 2,,JEFF DAWES,R
+Wabash,013 - Chester 2,183,101,0,284,County Council District 1,,MATTHEW J. MIZE,R
+Wabash,013 - Chester 2,184,101,0,285,Chester Township Trustee,,FLORENCE (FLO) DAHLSTROM,R
+Wabash,013 - Chester 2,142,90,0,232,Chester Township Board Member,,BRET BECHTOLD,R
+Wabash,013 - Chester 2,100,81,0,181,Chester Township Board Member,,WAYNE STEPHAN,R
+Wabash,013 - Chester 2,106,80,0,186,Chester Township Board Member,,ROBERT LAMOINE (MOE) THOMAS,R
+Wabash,013 - Chester 2,75,39,0,114,Manchester SB Chester Twp,,SALLY KROUSE,
+Wabash,013 - Chester 2,115,78,0,193,Manchester SB Chester Twp,,DAVID W. TERFLINGER,
+Wabash,013 - Chester 2,62,40,0,102,Manchester SB North Manchester,,MICHAEL DIXON,
+Wabash,013 - Chester 2,65,53,0,118,Manchester SB North Manchester,,RICHARD ESPESET,
+Wabash,013 - Chester 2,48,40,0,88,Manchester SB North Manchester,,KEVIN WAYNE KLING,
+Wabash,013 - Chester 2,78,27,0,105,Manchester SB North Manchester,,AMANDA SHAMBARGER,
+Wabash,013 - Chester 2,76,49,0,125,Manchester SB North Manchester,,BENJAMIN D.R. VANDERPOOL,
+Wabash,013 - Chester 2,135,83,0,218,IN Supreme Court-Slaughter,,YES,
+Wabash,013 - Chester 2,38,24,0,62,IN Supreme Court-Slaughter,,NO,
+Wabash,013 - Chester 2,138,86,0,224,Court of Appeals Dist 2-Altice,,YES,
+Wabash,013 - Chester 2,33,20,0,53,Court of Appeals Dist 2-Altice,,NO,
+Wabash,014 - Chester 3,212,100,0,312,Public Question,,YES,
+Wabash,014 - Chester 3,106,76,0,182,Public Question,,NO,
+Wabash,014 - Chester 3,64,38,0,102,Public Question-Manchester Schools,,YES,
+Wabash,014 - Chester 3,262,153,0,415,Public Question-Manchester Schools,,NO,
+Wabash,014 - Chester 3,191,97,0,288,U.S. Senate,,MIKE BRAUN,R
+Wabash,014 - Chester 3,119,86,0,205,U.S. Senate,,JOE DONNELLY,D
+Wabash,014 - Chester 3,15,10,0,25,U.S. Senate,,LUCY M. BRENTON,L
+Wabash,014 - Chester 3,0,0,0,0,U.S. Senate,,WRITE-IN,
+Wabash,014 - Chester 3,212,109,0,321,Secretary of State,,CONNIE LAWSON,R
+Wabash,014 - Chester 3,98,73,0,171,Secretary of State,,JIM HARPER,D
+Wabash,014 - Chester 3,10,8,0,18,Secretary of State,,MARK W. RUTHERFORD,L
+Wabash,014 - Chester 3,1,0,0,1,Secretary of State,,WRITE-IN,
+Wabash,014 - Chester 3,207,107,0,314,Auditor of State,,TERA KLUTZ,R
+Wabash,014 - Chester 3,105,74,0,179,Auditor of State,,JOSELYN WHITTICKER,D
+Wabash,014 - Chester 3,9,8,0,17,Auditor of State,,JOHN SCHICK,L
+Wabash,014 - Chester 3,221,113,0,334,Treasurer of State,,KELLY MITCHELL,R
+Wabash,014 - Chester 3,101,73,0,174,Treasurer of State,,JOHN C. AGUILERA,D
+Wabash,014 - Chester 3,209,100,0,309,U.S. House,2,JACKIE WALORSKI,R
+Wabash,014 - Chester 3,115,86,0,201,U.S. House,2,MEL HALL,D
+Wabash,014 - Chester 3,0,0,0,0,U.S. House,2,WRITE-IN,
+Wabash,014 - Chester 3,211,108,0,319,State Senate,17,ANDY ZAY,R
+Wabash,014 - Chester 3,110,80,0,190,State Senate,17,GARY L. SNYDER,D
+Wabash,014 - Chester 3,216,113,0,329,State Representative,18,DAVID A. WOLKINS,R
+Wabash,014 - Chester 3,104,75,0,179,State Representative,18,DEE M MOORE,D
+Wabash,014 - Chester 3,271,146,0,417,Prosecuting Atty 27th Circuit,,WILLIAM C. HARTLEY JR.,R
+Wabash,014 - Chester 3,275,145,0,420,Circuit Court Clerk,,LORI DRAPER,R
+Wabash,014 - Chester 3,268,147,0,415,County Recorder,,ERIC RISH,R
+Wabash,014 - Chester 3,275,152,0,427,County Sheriff,,RYAN T. BAKER,R
+Wabash,014 - Chester 3,277,152,0,429,County Assessor,,KELLY SCHENKEL,R
+Wabash,014 - Chester 3,274,148,0,422,County Commissioner District 2,,JEFF DAWES,R
+Wabash,014 - Chester 3,270,142,0,412,County Council District 1,,MATTHEW J. MIZE,R
+Wabash,014 - Chester 3,271,149,0,420,Chester Township Trustee,,FLORENCE (FLO) DAHLSTROM,R
+Wabash,014 - Chester 3,207,121,0,328,Chester Township Board Member,,BRET BECHTOLD,R
+Wabash,014 - Chester 3,182,104,0,286,Chester Township Board Member,,WAYNE STEPHAN,R
+Wabash,014 - Chester 3,168,91,0,259,Chester Township Board Member,,ROBERT LAMOINE (MOE) THOMAS,R
+Wabash,014 - Chester 3,121,70,0,191,Manchester SB Chester Twp,,SALLY KROUSE,
+Wabash,014 - Chester 3,187,104,0,291,Manchester SB Chester Twp,,DAVID W. TERFLINGER,
+Wabash,014 - Chester 3,100,72,0,172,Manchester SB North Manchester,,MICHAEL DIXON,
+Wabash,014 - Chester 3,109,74,0,183,Manchester SB North Manchester,,RICHARD ESPESET,
+Wabash,014 - Chester 3,91,56,0,147,Manchester SB North Manchester,,KEVIN WAYNE KLING,
+Wabash,014 - Chester 3,124,59,0,183,Manchester SB North Manchester,,AMANDA SHAMBARGER,
+Wabash,014 - Chester 3,125,65,0,190,Manchester SB North Manchester,,BENJAMIN D.R. VANDERPOOL,
+Wabash,014 - Chester 3,221,125,0,346,IN Supreme Court-Slaughter,,YES,
+Wabash,014 - Chester 3,71,33,0,104,IN Supreme Court-Slaughter,,NO,
+Wabash,014 - Chester 3,221,122,0,343,Court of Appeals Dist 2-Altice,,YES,
+Wabash,014 - Chester 3,70,32,0,102,Court of Appeals Dist 2-Altice,,NO,
+Wabash,015 - Chester 4,160,71,0,231,Public Question,,YES,
+Wabash,015 - Chester 4,103,70,0,173,Public Question,,NO,
+Wabash,015 - Chester 4,63,47,0,110,Public Question-Manchester Schools,,YES,
+Wabash,015 - Chester 4,210,98,0,308,Public Question-Manchester Schools,,NO,
+Wabash,015 - Chester 4,139,64,0,203,U.S. Senate,,MIKE BRAUN,R
+Wabash,015 - Chester 4,122,81,0,203,U.S. Senate,,JOE DONNELLY,D
+Wabash,015 - Chester 4,19,2,0,21,U.S. Senate,,LUCY M. BRENTON,L
+Wabash,015 - Chester 4,0,0,0,0,U.S. Senate,,WRITE-IN,
+Wabash,015 - Chester 4,154,73,0,227,Secretary of State,,CONNIE LAWSON,R
+Wabash,015 - Chester 4,102,68,0,170,Secretary of State,,JIM HARPER,D
+Wabash,015 - Chester 4,21,4,0,25,Secretary of State,,MARK W. RUTHERFORD,L
+Wabash,015 - Chester 4,0,0,0,0,Secretary of State,,WRITE-IN,
+Wabash,015 - Chester 4,156,74,0,230,Auditor of State,,TERA KLUTZ,R
+Wabash,015 - Chester 4,105,68,0,173,Auditor of State,,JOSELYN WHITTICKER,D
+Wabash,015 - Chester 4,15,4,0,19,Auditor of State,,JOHN SCHICK,L
+Wabash,015 - Chester 4,164,77,0,241,Treasurer of State,,KELLY MITCHELL,R
+Wabash,015 - Chester 4,110,69,0,179,Treasurer of State,,JOHN C. AGUILERA,D
+Wabash,015 - Chester 4,154,75,0,229,U.S. House,2,JACKIE WALORSKI,R
+Wabash,015 - Chester 4,123,73,0,196,U.S. House,2,MEL HALL,D
+Wabash,015 - Chester 4,0,0,0,0,U.S. House,2,WRITE-IN,
+Wabash,015 - Chester 4,165,74,0,239,State Senate,17,ANDY ZAY,R
+Wabash,015 - Chester 4,109,71,0,180,State Senate,17,GARY L. SNYDER,D
+Wabash,015 - Chester 4,159,75,0,234,State Representative,18,DAVID A. WOLKINS,R
+Wabash,015 - Chester 4,117,70,0,187,State Representative,18,DEE M MOORE,D
+Wabash,015 - Chester 4,197,102,0,299,Prosecuting Atty 27th Circuit,,WILLIAM C. HARTLEY JR.,R
+Wabash,015 - Chester 4,201,108,0,309,Circuit Court Clerk,,LORI DRAPER,R
+Wabash,015 - Chester 4,196,101,0,297,County Recorder,,ERIC RISH,R
+Wabash,015 - Chester 4,206,105,0,311,County Sheriff,,RYAN T. BAKER,R
+Wabash,015 - Chester 4,202,108,0,310,County Assessor,,KELLY SCHENKEL,R
+Wabash,015 - Chester 4,198,106,0,304,County Commissioner District 2,,JEFF DAWES,R
+Wabash,015 - Chester 4,206,101,0,307,County Council District 1,,MATTHEW J. MIZE,R
+Wabash,015 - Chester 4,205,110,0,315,Chester Township Trustee,,FLORENCE (FLO) DAHLSTROM,R
+Wabash,015 - Chester 4,150,84,0,234,Chester Township Board Member,,BRET BECHTOLD,R
+Wabash,015 - Chester 4,140,64,0,204,Chester Township Board Member,,WAYNE STEPHAN,R
+Wabash,015 - Chester 4,125,61,0,186,Chester Township Board Member,,ROBERT LAMOINE (MOE) THOMAS,R
+Wabash,015 - Chester 4,111,76,0,187,Manchester SB Chester Twp,,SALLY KROUSE,
+Wabash,015 - Chester 4,133,51,0,184,Manchester SB Chester Twp,,DAVID W. TERFLINGER,
+Wabash,015 - Chester 4,140,73,0,213,Manchester SB North Manchester,,MICHAEL DIXON,
+Wabash,015 - Chester 4,103,63,0,166,Manchester SB North Manchester,,RICHARD ESPESET,
+Wabash,015 - Chester 4,67,23,0,90,Manchester SB North Manchester,,KEVIN WAYNE KLING,
+Wabash,015 - Chester 4,70,33,0,103,Manchester SB North Manchester,,AMANDA SHAMBARGER,
+Wabash,015 - Chester 4,86,44,0,130,Manchester SB North Manchester,,BENJAMIN D.R. VANDERPOOL,
+Wabash,015 - Chester 4,157,95,0,252,IN Supreme Court-Slaughter,,YES,
+Wabash,015 - Chester 4,74,25,0,99,IN Supreme Court-Slaughter,,NO,
+Wabash,015 - Chester 4,161,97,0,258,Court of Appeals Dist 2-Altice,,YES,
+Wabash,015 - Chester 4,70,22,0,92,Court of Appeals Dist 2-Altice,,NO,
+Wabash,016 - Chester 5,97,180,0,277,Public Question,,YES,
+Wabash,016 - Chester 5,82,107,0,189,Public Question,,NO,
+Wabash,016 - Chester 5,42,86,0,128,Public Question-Manchester Schools,,YES,
+Wabash,016 - Chester 5,144,214,0,358,Public Question-Manchester Schools,,NO,
+Wabash,016 - Chester 5,105,115,0,220,U.S. Senate,,MIKE BRAUN,R
+Wabash,016 - Chester 5,68,178,0,246,U.S. Senate,,JOE DONNELLY,D
+Wabash,016 - Chester 5,15,8,0,23,U.S. Senate,,LUCY M. BRENTON,L
+Wabash,016 - Chester 5,0,0,0,0,U.S. Senate,,WRITE-IN,
+Wabash,016 - Chester 5,117,132,0,249,Secretary of State,,CONNIE LAWSON,R
+Wabash,016 - Chester 5,61,156,0,217,Secretary of State,,JIM HARPER,D
+Wabash,016 - Chester 5,9,10,0,19,Secretary of State,,MARK W. RUTHERFORD,L
+Wabash,016 - Chester 5,0,0,0,0,Secretary of State,,WRITE-IN,
+Wabash,016 - Chester 5,115,129,0,244,Auditor of State,,TERA KLUTZ,R
+Wabash,016 - Chester 5,62,162,0,224,Auditor of State,,JOSELYN WHITTICKER,D
+Wabash,016 - Chester 5,6,7,0,13,Auditor of State,,JOHN SCHICK,L
+Wabash,016 - Chester 5,125,140,0,265,Treasurer of State,,KELLY MITCHELL,R
+Wabash,016 - Chester 5,57,158,0,215,Treasurer of State,,JOHN C. AGUILERA,D
+Wabash,016 - Chester 5,114,127,0,241,U.S. House,2,JACKIE WALORSKI,R
+Wabash,016 - Chester 5,72,173,0,245,U.S. House,2,MEL HALL,D
+Wabash,016 - Chester 5,0,0,0,0,U.S. House,2,WRITE-IN,
+Wabash,016 - Chester 5,116,126,0,242,State Senate,17,ANDY ZAY,R
+Wabash,016 - Chester 5,67,169,0,236,State Senate,17,GARY L. SNYDER,D
+Wabash,016 - Chester 5,116,135,0,251,State Representative,18,DAVID A. WOLKINS,R
+Wabash,016 - Chester 5,70,165,0,235,State Representative,18,DEE M MOORE,D
+Wabash,016 - Chester 5,146,175,0,321,Prosecuting Atty 27th Circuit,,WILLIAM C. HARTLEY JR.,R
+Wabash,016 - Chester 5,153,185,0,338,Circuit Court Clerk,,LORI DRAPER,R
+Wabash,016 - Chester 5,148,171,0,319,County Recorder,,ERIC RISH,R
+Wabash,016 - Chester 5,148,181,0,329,County Sheriff,,RYAN T. BAKER,R
+Wabash,016 - Chester 5,155,183,0,338,County Assessor,,KELLY SCHENKEL,R
+Wabash,016 - Chester 5,147,176,0,323,County Commissioner District 2,,JEFF DAWES,R
+Wabash,016 - Chester 5,151,174,0,325,County Council District 1,,MATTHEW J. MIZE,R
+Wabash,016 - Chester 5,152,188,0,340,Chester Township Trustee,,FLORENCE (FLO) DAHLSTROM,R
+Wabash,016 - Chester 5,114,140,0,254,Chester Township Board Member,,BRET BECHTOLD,R
+Wabash,016 - Chester 5,92,129,0,221,Chester Township Board Member,,WAYNE STEPHAN,R
+Wabash,016 - Chester 5,92,116,0,208,Chester Township Board Member,,ROBERT LAMOINE (MOE) THOMAS,R
+Wabash,016 - Chester 5,84,133,0,217,Manchester SB Chester Twp,,SALLY KROUSE,
+Wabash,016 - Chester 5,92,118,0,210,Manchester SB Chester Twp,,DAVID W. TERFLINGER,
+Wabash,016 - Chester 5,67,126,0,193,Manchester SB North Manchester,,MICHAEL DIXON,
+Wabash,016 - Chester 5,73,125,0,198,Manchester SB North Manchester,,RICHARD ESPESET,
+Wabash,016 - Chester 5,43,73,0,116,Manchester SB North Manchester,,KEVIN WAYNE KLING,
+Wabash,016 - Chester 5,53,73,0,126,Manchester SB North Manchester,,AMANDA SHAMBARGER,
+Wabash,016 - Chester 5,74,91,0,165,Manchester SB North Manchester,,BENJAMIN D.R. VANDERPOOL,
+Wabash,016 - Chester 5,136,188,0,324,IN Supreme Court-Slaughter,,YES,
+Wabash,016 - Chester 5,32,45,0,77,IN Supreme Court-Slaughter,,NO,
+Wabash,016 - Chester 5,135,187,0,322,Court of Appeals Dist 2-Altice,,YES,
+Wabash,016 - Chester 5,31,45,0,76,Court of Appeals Dist 2-Altice,,NO,
+Wabash,017 - Chester 6,140,156,0,296,Public Question,,YES,
+Wabash,017 - Chester 6,83,73,0,156,Public Question,,NO,
+Wabash,017 - Chester 6,34,56,0,90,Public Question-Manchester Schools,,YES,
+Wabash,017 - Chester 6,193,191,0,384,Public Question-Manchester Schools,,NO,
+Wabash,017 - Chester 6,146,151,0,297,U.S. Senate,,MIKE BRAUN,R
+Wabash,017 - Chester 6,77,92,0,169,U.S. Senate,,JOE DONNELLY,D
+Wabash,017 - Chester 6,11,13,0,24,U.S. Senate,,LUCY M. BRENTON,L
+Wabash,017 - Chester 6,0,0,0,0,U.S. Senate,,WRITE-IN,
+Wabash,017 - Chester 6,157,167,0,324,Secretary of State,,CONNIE LAWSON,R
+Wabash,017 - Chester 6,67,81,0,148,Secretary of State,,JIM HARPER,D
+Wabash,017 - Chester 6,10,4,0,14,Secretary of State,,MARK W. RUTHERFORD,L
+Wabash,017 - Chester 6,0,0,0,0,Secretary of State,,WRITE-IN,
+Wabash,017 - Chester 6,156,164,0,320,Auditor of State,,TERA KLUTZ,R
+Wabash,017 - Chester 6,63,78,0,141,Auditor of State,,JOSELYN WHITTICKER,D
+Wabash,017 - Chester 6,11,5,0,16,Auditor of State,,JOHN SCHICK,L
+Wabash,017 - Chester 6,165,173,0,338,Treasurer of State,,KELLY MITCHELL,R
+Wabash,017 - Chester 6,64,75,0,139,Treasurer of State,,JOHN C. AGUILERA,D
+Wabash,017 - Chester 6,150,166,0,316,U.S. House,2,JACKIE WALORSKI,R
+Wabash,017 - Chester 6,78,83,0,161,U.S. House,2,MEL HALL,D
+Wabash,017 - Chester 6,0,0,0,0,U.S. House,2,WRITE-IN,
+Wabash,017 - Chester 6,159,166,0,325,State Senate,17,ANDY ZAY,R
+Wabash,017 - Chester 6,70,81,0,151,State Senate,17,GARY L. SNYDER,D
+Wabash,017 - Chester 6,152,164,0,316,State Representative,18,DAVID A. WOLKINS,R
+Wabash,017 - Chester 6,79,88,0,167,State Representative,18,DEE M MOORE,D
+Wabash,017 - Chester 6,193,201,0,394,Prosecuting Atty 27th Circuit,,WILLIAM C. HARTLEY JR.,R
+Wabash,017 - Chester 6,195,201,0,396,Circuit Court Clerk,,LORI DRAPER,R
+Wabash,017 - Chester 6,192,193,0,385,County Recorder,,ERIC RISH,R
+Wabash,017 - Chester 6,194,195,0,389,County Sheriff,,RYAN T. BAKER,R
+Wabash,017 - Chester 6,190,199,0,389,County Assessor,,KELLY SCHENKEL,R
+Wabash,017 - Chester 6,192,192,0,384,County Commissioner District 2,,JEFF DAWES,R
+Wabash,017 - Chester 6,188,189,0,377,County Council District 1,,MATTHEW J. MIZE,R
+Wabash,017 - Chester 6,191,199,0,390,Chester Township Trustee,,FLORENCE (FLO) DAHLSTROM,R
+Wabash,017 - Chester 6,154,141,0,295,Chester Township Board Member,,BRET BECHTOLD,R
+Wabash,017 - Chester 6,125,125,0,250,Chester Township Board Member,,WAYNE STEPHAN,R
+Wabash,017 - Chester 6,117,118,0,235,Chester Township Board Member,,ROBERT LAMOINE (MOE) THOMAS,R
+Wabash,017 - Chester 6,87,104,0,191,Manchester SB Chester Twp,,SALLY KROUSE,
+Wabash,017 - Chester 6,130,110,0,240,Manchester SB Chester Twp,,DAVID W. TERFLINGER,
+Wabash,017 - Chester 6,85,80,0,165,Manchester SB North Manchester,,MICHAEL DIXON,
+Wabash,017 - Chester 6,64,80,0,144,Manchester SB North Manchester,,RICHARD ESPESET,
+Wabash,017 - Chester 6,66,61,0,127,Manchester SB North Manchester,,KEVIN WAYNE KLING,
+Wabash,017 - Chester 6,82,81,0,163,Manchester SB North Manchester,,AMANDA SHAMBARGER,
+Wabash,017 - Chester 6,89,96,0,185,Manchester SB North Manchester,,BENJAMIN D.R. VANDERPOOL,
+Wabash,017 - Chester 6,157,157,0,314,IN Supreme Court-Slaughter,,YES,
+Wabash,017 - Chester 6,48,39,0,87,IN Supreme Court-Slaughter,,NO,
+Wabash,017 - Chester 6,158,154,0,312,Court of Appeals Dist 2-Altice,,YES,
+Wabash,017 - Chester 6,49,37,0,86,Court of Appeals Dist 2-Altice,,NO,
+Wabash,018 - Pleasant 1,151,49,0,200,Public Question,,YES,
+Wabash,018 - Pleasant 1,70,25,0,95,Public Question,,NO,
+Wabash,018 - Pleasant 1,31,15,0,46,Public Question-Manchester Schools,,YES,
+Wabash,018 - Pleasant 1,203,69,0,272,Public Question-Manchester Schools,,NO,
+Wabash,018 - Pleasant 1,160,50,0,210,U.S. Senate,,MIKE BRAUN,R
+Wabash,018 - Pleasant 1,60,29,0,89,U.S. Senate,,JOE DONNELLY,D
+Wabash,018 - Pleasant 1,14,6,0,20,U.S. Senate,,LUCY M. BRENTON,L
+Wabash,018 - Pleasant 1,0,0,0,0,U.S. Senate,,WRITE-IN,
+Wabash,018 - Pleasant 1,172,54,0,226,Secretary of State,,CONNIE LAWSON,R
+Wabash,018 - Pleasant 1,52,27,0,79,Secretary of State,,JIM HARPER,D
+Wabash,018 - Pleasant 1,7,4,0,11,Secretary of State,,MARK W. RUTHERFORD,L
+Wabash,018 - Pleasant 1,0,0,0,0,Secretary of State,,WRITE-IN,
+Wabash,018 - Pleasant 1,168,54,0,222,Auditor of State,,TERA KLUTZ,R
+Wabash,018 - Pleasant 1,53,25,0,78,Auditor of State,,JOSELYN WHITTICKER,D
+Wabash,018 - Pleasant 1,10,4,0,14,Auditor of State,,JOHN SCHICK,L
+Wabash,018 - Pleasant 1,176,59,0,235,Treasurer of State,,KELLY MITCHELL,R
+Wabash,018 - Pleasant 1,52,24,0,76,Treasurer of State,,JOHN C. AGUILERA,D
+Wabash,018 - Pleasant 1,167,55,0,222,U.S. House,2,JACKIE WALORSKI,R
+Wabash,018 - Pleasant 1,64,29,0,93,U.S. House,2,MEL HALL,D
+Wabash,018 - Pleasant 1,0,0,0,0,U.S. House,2,WRITE-IN,
+Wabash,018 - Pleasant 1,167,58,0,225,State Senate,17,ANDY ZAY,R
+Wabash,018 - Pleasant 1,65,26,0,91,State Senate,17,GARY L. SNYDER,D
+Wabash,018 - Pleasant 1,168,56,0,224,State Representative,18,DAVID A. WOLKINS,R
+Wabash,018 - Pleasant 1,64,27,0,91,State Representative,18,DEE M MOORE,D
+Wabash,018 - Pleasant 1,200,67,0,267,Prosecuting Atty 27th Circuit,,WILLIAM C. HARTLEY JR.,R
+Wabash,018 - Pleasant 1,201,68,0,269,Circuit Court Clerk,,LORI DRAPER,R
+Wabash,018 - Pleasant 1,195,63,0,258,County Recorder,,ERIC RISH,R
+Wabash,018 - Pleasant 1,201,64,0,265,County Sheriff,,RYAN T. BAKER,R
+Wabash,018 - Pleasant 1,203,66,0,269,County Assessor,,KELLY SCHENKEL,R
+Wabash,018 - Pleasant 1,201,68,0,269,County Commissioner District 2,,JEFF DAWES,R
+Wabash,018 - Pleasant 1,169,55,0,224,County Council District 2,,BARBARA PEARSON,R
+Wabash,018 - Pleasant 1,57,28,0,85,County Council District 2,,JANE LONG,D
+Wabash,018 - Pleasant 1,137,45,0,182,Pleasant Township Trustee,,REBECCA ANN (BECKY) WARMUTH,D
+Wabash,018 - Pleasant 1,137,38,0,175,Pleasant Township Board Member,,STAN BAGLEY,R
+Wabash,018 - Pleasant 1,159,59,0,218,Pleasant Township Board Member,,DAVID M. HAWKINS,R
+Wabash,018 - Pleasant 1,143,52,0,195,Pleasant Township Board Member,,WILLIAM E. PARKER,R
+Wabash,018 - Pleasant 1,84,39,0,123,Pleasant Township Board Member,,GLENDON R. MORGAN,D
+Wabash,018 - Pleasant 1,79,32,0,111,Manchester SB Chester Twp,,SALLY KROUSE,
+Wabash,018 - Pleasant 1,129,38,0,167,Manchester SB Chester Twp,,DAVID W. TERFLINGER,
+Wabash,018 - Pleasant 1,68,34,0,102,Manchester SB North Manchester,,MICHAEL DIXON,
+Wabash,018 - Pleasant 1,78,27,0,105,Manchester SB North Manchester,,RICHARD ESPESET,
+Wabash,018 - Pleasant 1,65,22,0,87,Manchester SB North Manchester,,KEVIN WAYNE KLING,
+Wabash,018 - Pleasant 1,104,28,0,132,Manchester SB North Manchester,,AMANDA SHAMBARGER,
+Wabash,018 - Pleasant 1,80,20,0,100,Manchester SB North Manchester,,BENJAMIN D.R. VANDERPOOL,
+Wabash,018 - Pleasant 1,146,50,0,196,IN Supreme Court-Slaughter,,YES,
+Wabash,018 - Pleasant 1,50,20,0,70,IN Supreme Court-Slaughter,,NO,
+Wabash,018 - Pleasant 1,151,50,0,201,Court of Appeals Dist 2-Altice,,YES,
+Wabash,018 - Pleasant 1,48,19,0,67,Court of Appeals Dist 2-Altice,,NO,
+Wabash,019 - Pleasant 2,223,88,0,311,Public Question,,YES,
+Wabash,019 - Pleasant 2,110,46,0,156,Public Question,,NO,
+Wabash,019 - Pleasant 2,61,26,0,87,Public Question-Manchester Schools,,YES,
+Wabash,019 - Pleasant 2,298,131,0,429,Public Question-Manchester Schools,,NO,
+Wabash,019 - Pleasant 2,270,109,0,379,U.S. Senate,,MIKE BRAUN,R
+Wabash,019 - Pleasant 2,72,38,0,110,U.S. Senate,,JOE DONNELLY,D
+Wabash,019 - Pleasant 2,27,12,0,39,U.S. Senate,,LUCY M. BRENTON,L
+Wabash,019 - Pleasant 2,0,0,0,0,U.S. Senate,,WRITE-IN,
+Wabash,019 - Pleasant 2,289,122,0,411,Secretary of State,,CONNIE LAWSON,R
+Wabash,019 - Pleasant 2,59,27,0,86,Secretary of State,,JIM HARPER,D
+Wabash,019 - Pleasant 2,13,4,0,17,Secretary of State,,MARK W. RUTHERFORD,L
+Wabash,019 - Pleasant 2,0,0,0,0,Secretary of State,,WRITE-IN,
+Wabash,019 - Pleasant 2,277,117,0,394,Auditor of State,,TERA KLUTZ,R
+Wabash,019 - Pleasant 2,66,24,0,90,Auditor of State,,JOSELYN WHITTICKER,D
+Wabash,019 - Pleasant 2,12,8,0,20,Auditor of State,,JOHN SCHICK,L
+Wabash,019 - Pleasant 2,288,122,0,410,Treasurer of State,,KELLY MITCHELL,R
+Wabash,019 - Pleasant 2,69,26,0,95,Treasurer of State,,JOHN C. AGUILERA,D
+Wabash,019 - Pleasant 2,286,118,0,404,U.S. House,2,JACKIE WALORSKI,R
+Wabash,019 - Pleasant 2,78,36,0,114,U.S. House,2,MEL HALL,D
+Wabash,019 - Pleasant 2,0,0,0,0,U.S. House,2,WRITE-IN,
+Wabash,019 - Pleasant 2,291,123,0,414,State Senate,17,ANDY ZAY,R
+Wabash,019 - Pleasant 2,68,28,0,96,State Senate,17,GARY L. SNYDER,D
+Wabash,019 - Pleasant 2,290,119,0,409,State Representative,18,DAVID A. WOLKINS,R
+Wabash,019 - Pleasant 2,70,31,0,101,State Representative,18,DEE M MOORE,D
+Wabash,019 - Pleasant 2,315,131,0,446,Prosecuting Atty 27th Circuit,,WILLIAM C. HARTLEY JR.,R
+Wabash,019 - Pleasant 2,320,138,0,458,Circuit Court Clerk,,LORI DRAPER,R
+Wabash,019 - Pleasant 2,313,132,0,445,County Recorder,,ERIC RISH,R
+Wabash,019 - Pleasant 2,318,132,0,450,County Sheriff,,RYAN T. BAKER,R
+Wabash,019 - Pleasant 2,320,135,0,455,County Assessor,,KELLY SCHENKEL,R
+Wabash,019 - Pleasant 2,317,129,0,446,County Commissioner District 2,,JEFF DAWES,R
+Wabash,019 - Pleasant 2,286,122,0,408,County Council District 2,,BARBARA PEARSON,R
+Wabash,019 - Pleasant 2,71,29,0,100,County Council District 2,,JANE LONG,D
+Wabash,019 - Pleasant 2,199,84,0,283,Pleasant Township Trustee,,REBECCA ANN (BECKY) WARMUTH,D
+Wabash,019 - Pleasant 2,235,100,0,335,Pleasant Township Board Member,,STAN BAGLEY,R
+Wabash,019 - Pleasant 2,241,106,0,347,Pleasant Township Board Member,,DAVID M. HAWKINS,R
+Wabash,019 - Pleasant 2,223,97,0,320,Pleasant Township Board Member,,WILLIAM E. PARKER,R
+Wabash,019 - Pleasant 2,90,34,0,124,Pleasant Township Board Member,,GLENDON R. MORGAN,D
+Wabash,019 - Pleasant 2,141,52,0,193,Manchester SB Chester Twp,,SALLY KROUSE,
+Wabash,019 - Pleasant 2,177,79,0,256,Manchester SB Chester Twp,,DAVID W. TERFLINGER,
+Wabash,019 - Pleasant 2,115,41,0,156,Manchester SB North Manchester,,MICHAEL DIXON,
+Wabash,019 - Pleasant 2,110,39,0,149,Manchester SB North Manchester,,RICHARD ESPESET,
+Wabash,019 - Pleasant 2,84,35,0,119,Manchester SB North Manchester,,KEVIN WAYNE KLING,
+Wabash,019 - Pleasant 2,136,60,0,196,Manchester SB North Manchester,,AMANDA SHAMBARGER,
+Wabash,019 - Pleasant 2,136,62,0,198,Manchester SB North Manchester,,BENJAMIN D.R. VANDERPOOL,
+Wabash,019 - Pleasant 2,221,94,0,315,IN Supreme Court-Slaughter,,YES,
+Wabash,019 - Pleasant 2,77,34,0,111,IN Supreme Court-Slaughter,,NO,
+Wabash,019 - Pleasant 2,228,96,0,324,Court of Appeals Dist 2-Altice,,YES,
+Wabash,019 - Pleasant 2,73,31,0,104,Court of Appeals Dist 2-Altice,,NO,
+Wabash,020 - Lagro 1,133,97,0,230,Public Question,,YES,
+Wabash,020 - Lagro 1,47,37,0,84,Public Question,,NO,
+Wabash,020 - Lagro 1,175,128,0,303,U.S. Senate,,MIKE BRAUN,R
+Wabash,020 - Lagro 1,33,36,0,69,U.S. Senate,,JOE DONNELLY,D
+Wabash,020 - Lagro 1,6,4,0,10,U.S. Senate,,LUCY M. BRENTON,L
+Wabash,020 - Lagro 1,0,0,0,0,U.S. Senate,,WRITE-IN,
+Wabash,020 - Lagro 1,182,130,0,312,Secretary of State,,CONNIE LAWSON,R
+Wabash,020 - Lagro 1,26,31,0,57,Secretary of State,,JIM HARPER,D
+Wabash,020 - Lagro 1,4,5,0,9,Secretary of State,,MARK W. RUTHERFORD,L
+Wabash,020 - Lagro 1,0,0,0,0,Secretary of State,,WRITE-IN,
+Wabash,020 - Lagro 1,174,125,0,299,Auditor of State,,TERA KLUTZ,R
+Wabash,020 - Lagro 1,28,33,0,61,Auditor of State,,JOSELYN WHITTICKER,D
+Wabash,020 - Lagro 1,6,3,0,9,Auditor of State,,JOHN SCHICK,L
+Wabash,020 - Lagro 1,180,134,0,314,Treasurer of State,,KELLY MITCHELL,R
+Wabash,020 - Lagro 1,30,27,0,57,Treasurer of State,,JOHN C. AGUILERA,D
+Wabash,020 - Lagro 1,173,132,0,305,U.S. House,2,JACKIE WALORSKI,R
+Wabash,020 - Lagro 1,38,34,0,72,U.S. House,2,MEL HALL,D
+Wabash,020 - Lagro 1,0,0,0,0,U.S. House,2,WRITE-IN,
+Wabash,020 - Lagro 1,180,130,0,310,State Senate,17,ANDY ZAY,R
+Wabash,020 - Lagro 1,32,34,0,66,State Senate,17,GARY L. SNYDER,D
+Wabash,020 - Lagro 1,179,134,0,313,State Representative,18,DAVID A. WOLKINS,R
+Wabash,020 - Lagro 1,32,31,0,63,State Representative,18,DEE M MOORE,D
+Wabash,020 - Lagro 1,188,141,0,329,Prosecuting Atty 27th Circuit,,WILLIAM C. HARTLEY JR.,R
+Wabash,020 - Lagro 1,188,148,0,336,Circuit Court Clerk,,LORI DRAPER,R
+Wabash,020 - Lagro 1,186,144,0,330,County Recorder,,ERIC RISH,R
+Wabash,020 - Lagro 1,193,148,0,341,County Sheriff,,RYAN T. BAKER,R
+Wabash,020 - Lagro 1,192,151,0,343,County Assessor,,KELLY SCHENKEL,R
+Wabash,020 - Lagro 1,188,152,0,340,County Commissioner District 2,,JEFF DAWES,R
+Wabash,020 - Lagro 1,189,148,0,337,County Council District 4,,KYLE M. BOWMAN,R
+Wabash,020 - Lagro 1,157,122,0,279,Lagro Township Trustee,,ERIC &quot;ET&quot; TERRELL,R
+Wabash,020 - Lagro 1,34,28,0,62,Lagro Township Trustee,,NANCY WHITMER,D
+Wabash,020 - Lagro 1,19,15,0,34,Lagro Township Trustee,,(I) BEVERLY BURNS,I
+Wabash,020 - Lagro 1,106,87,0,193,Lagro Township Board Member,,ROB COLE,R
+Wabash,020 - Lagro 1,139,106,0,245,Lagro Township Board Member,,GARY W. HUNTER,R
+Wabash,020 - Lagro 1,131,98,0,229,Lagro Township Board Member,,DEB SCHENKEL,R
+Wabash,020 - Lagro 1,24,26,0,50,Lagro Township Board Member,,LLOYD M. BENTLEY,D
+Wabash,020 - Lagro 1,13,13,0,26,Metropolitan SB Northeast Dist,,SANDY DAVIS,
+Wabash,020 - Lagro 1,112,85,0,197,Metropolitan SB Northeast Dist,,MATT DRISCOLL,
+Wabash,020 - Lagro 1,65,46,0,111,Metropolitan SB Northeast Dist,,TIFFANY HAUPERT,
+Wabash,020 - Lagro 1,12,6,0,18,Metropolitan SB Northwest Dist,,DOUGLAS E. BOGERT,
+Wabash,020 - Lagro 1,81,82,0,163,Metropolitan SB Northwest Dist,,TODD DAZEY,
+Wabash,020 - Lagro 1,42,27,0,69,Metropolitan SB Northwest Dist,,TERESA L. GALLEY,
+Wabash,020 - Lagro 1,54,32,0,86,Metropolitan SB Northwest Dist,,RYAN ROSEN,
+Wabash,020 - Lagro 1,145,116,0,261,IN Supreme Court-Slaughter,,YES,
+Wabash,020 - Lagro 1,39,22,0,61,IN Supreme Court-Slaughter,,NO,
+Wabash,020 - Lagro 1,149,112,0,261,Court of Appeals Dist 2-Altice,,YES,
+Wabash,020 - Lagro 1,35,22,0,57,Court of Appeals Dist 2-Altice,,NO,
+Wabash,021 - Lagro 2,228,104,0,332,Public Question,,YES,
+Wabash,021 - Lagro 2,84,35,0,119,Public Question,,NO,
+Wabash,021 - Lagro 2,291,134,0,425,U.S. Senate,,MIKE BRAUN,R
+Wabash,021 - Lagro 2,77,47,0,124,U.S. Senate,,JOE DONNELLY,D
+Wabash,021 - Lagro 2,11,2,0,13,U.S. Senate,,LUCY M. BRENTON,L
+Wabash,021 - Lagro 2,0,0,0,0,U.S. Senate,,WRITE-IN,
+Wabash,021 - Lagro 2,300,134,0,434,Secretary of State,,CONNIE LAWSON,R
+Wabash,021 - Lagro 2,61,41,0,102,Secretary of State,,JIM HARPER,D
+Wabash,021 - Lagro 2,9,4,0,13,Secretary of State,,MARK W. RUTHERFORD,L
+Wabash,021 - Lagro 2,0,0,0,0,Secretary of State,,WRITE-IN,
+Wabash,021 - Lagro 2,290,133,0,423,Auditor of State,,TERA KLUTZ,R
+Wabash,021 - Lagro 2,68,43,0,111,Auditor of State,,JOSELYN WHITTICKER,D
+Wabash,021 - Lagro 2,12,4,0,16,Auditor of State,,JOHN SCHICK,L
+Wabash,021 - Lagro 2,309,144,0,453,Treasurer of State,,KELLY MITCHELL,R
+Wabash,021 - Lagro 2,62,38,0,100,Treasurer of State,,JOHN C. AGUILERA,D
+Wabash,021 - Lagro 2,297,143,0,440,U.S. House,2,JACKIE WALORSKI,R
+Wabash,021 - Lagro 2,75,41,0,116,U.S. House,2,MEL HALL,D
+Wabash,021 - Lagro 2,0,0,0,0,U.S. House,2,WRITE-IN,
+Wabash,021 - Lagro 2,299,140,0,439,State Senate,17,ANDY ZAY,R
+Wabash,021 - Lagro 2,72,42,0,114,State Senate,17,GARY L. SNYDER,D
+Wabash,021 - Lagro 2,294,140,0,434,State Representative,18,DAVID A. WOLKINS,R
+Wabash,021 - Lagro 2,78,42,0,120,State Representative,18,DEE M MOORE,D
+Wabash,021 - Lagro 2,320,147,0,467,Prosecuting Atty 27th Circuit,,WILLIAM C. HARTLEY JR.,R
+Wabash,021 - Lagro 2,334,158,0,492,Circuit Court Clerk,,LORI DRAPER,R
+Wabash,021 - Lagro 2,317,149,0,466,County Recorder,,ERIC RISH,R
+Wabash,021 - Lagro 2,334,154,0,488,County Sheriff,,RYAN T. BAKER,R
+Wabash,021 - Lagro 2,338,160,0,498,County Assessor,,KELLY SCHENKEL,R
+Wabash,021 - Lagro 2,330,151,0,481,County Commissioner District 2,,JEFF DAWES,R
+Wabash,021 - Lagro 2,323,152,0,475,County Council District 4,,KYLE M. BOWMAN,R
+Wabash,021 - Lagro 2,253,111,0,364,Lagro Township Trustee,,ERIC &quot;ET&quot; TERRELL,R
+Wabash,021 - Lagro 2,55,34,0,89,Lagro Township Trustee,,NANCY WHITMER,D
+Wabash,021 - Lagro 2,70,38,0,108,Lagro Township Trustee,,(I) BEVERLY BURNS,I
+Wabash,021 - Lagro 2,163,87,0,250,Lagro Township Board Member,,ROB COLE,R
+Wabash,021 - Lagro 2,211,93,0,304,Lagro Township Board Member,,GARY W. HUNTER,R
+Wabash,021 - Lagro 2,232,116,0,348,Lagro Township Board Member,,DEB SCHENKEL,R
+Wabash,021 - Lagro 2,87,45,0,132,Lagro Township Board Member,,LLOYD M. BENTLEY,D
+Wabash,021 - Lagro 2,42,19,0,61,Metropolitan SB Northeast Dist,,SANDY DAVIS,
+Wabash,021 - Lagro 2,155,59,0,214,Metropolitan SB Northeast Dist,,MATT DRISCOLL,
+Wabash,021 - Lagro 2,139,72,0,211,Metropolitan SB Northeast Dist,,TIFFANY HAUPERT,
+Wabash,021 - Lagro 2,14,11,0,25,Metropolitan SB Northwest Dist,,DOUGLAS E. BOGERT,
+Wabash,021 - Lagro 2,134,37,0,171,Metropolitan SB Northwest Dist,,TODD DAZEY,
+Wabash,021 - Lagro 2,81,39,0,120,Metropolitan SB Northwest Dist,,TERESA L. GALLEY,
+Wabash,021 - Lagro 2,112,62,0,174,Metropolitan SB Northwest Dist,,RYAN ROSEN,
+Wabash,021 - Lagro 2,211,97,0,308,IN Supreme Court-Slaughter,,YES,
+Wabash,021 - Lagro 2,86,35,0,121,IN Supreme Court-Slaughter,,NO,
+Wabash,021 - Lagro 2,215,97,0,312,Court of Appeals Dist 2-Altice,,YES,
+Wabash,021 - Lagro 2,82,33,0,115,Court of Appeals Dist 2-Altice,,NO,
+Wabash,022 - Lagro 3,74,61,0,135,Public Question,,YES,
+Wabash,022 - Lagro 3,25,16,0,41,Public Question,,NO,
+Wabash,022 - Lagro 3,104,74,0,178,U.S. Senate,,MIKE BRAUN,R
+Wabash,022 - Lagro 3,27,22,0,49,U.S. Senate,,JOE DONNELLY,D
+Wabash,022 - Lagro 3,1,4,0,5,U.S. Senate,,LUCY M. BRENTON,L
+Wabash,022 - Lagro 3,0,0,0,0,U.S. Senate,,WRITE-IN,
+Wabash,022 - Lagro 3,108,82,0,190,Secretary of State,,CONNIE LAWSON,R
+Wabash,022 - Lagro 3,17,13,0,30,Secretary of State,,JIM HARPER,D
+Wabash,022 - Lagro 3,4,1,0,5,Secretary of State,,MARK W. RUTHERFORD,L
+Wabash,022 - Lagro 3,0,0,0,0,Secretary of State,,WRITE-IN,
+Wabash,022 - Lagro 3,106,81,0,187,Auditor of State,,TERA KLUTZ,R
+Wabash,022 - Lagro 3,19,14,0,33,Auditor of State,,JOSELYN WHITTICKER,D
+Wabash,022 - Lagro 3,1,0,0,1,Auditor of State,,JOHN SCHICK,L
+Wabash,022 - Lagro 3,110,81,0,191,Treasurer of State,,KELLY MITCHELL,R
+Wabash,022 - Lagro 3,19,14,0,33,Treasurer of State,,JOHN C. AGUILERA,D
+Wabash,022 - Lagro 3,106,82,0,188,U.S. House,2,JACKIE WALORSKI,R
+Wabash,022 - Lagro 3,23,17,0,40,U.S. House,2,MEL HALL,D
+Wabash,022 - Lagro 3,0,0,0,0,U.S. House,2,WRITE-IN,
+Wabash,022 - Lagro 3,110,78,0,188,State Senate,17,ANDY ZAY,R
+Wabash,022 - Lagro 3,17,15,0,32,State Senate,17,GARY L. SNYDER,D
+Wabash,022 - Lagro 3,109,76,0,185,State Representative,18,DAVID A. WOLKINS,R
+Wabash,022 - Lagro 3,18,16,0,34,State Representative,18,DEE M MOORE,D
+Wabash,022 - Lagro 3,114,81,0,195,Prosecuting Atty 27th Circuit,,WILLIAM C. HARTLEY JR.,R
+Wabash,022 - Lagro 3,120,86,0,206,Circuit Court Clerk,,LORI DRAPER,R
+Wabash,022 - Lagro 3,115,82,0,197,County Recorder,,ERIC RISH,R
+Wabash,022 - Lagro 3,121,88,0,209,County Sheriff,,RYAN T. BAKER,R
+Wabash,022 - Lagro 3,123,90,0,213,County Assessor,,KELLY SCHENKEL,R
+Wabash,022 - Lagro 3,120,87,0,207,County Commissioner District 2,,JEFF DAWES,R
+Wabash,022 - Lagro 3,114,82,0,196,County Council District 4,,KYLE M. BOWMAN,R
+Wabash,022 - Lagro 3,107,75,0,182,Lagro Township Trustee,,ERIC &quot;ET&quot; TERRELL,R
+Wabash,022 - Lagro 3,14,14,0,28,Lagro Township Trustee,,NANCY WHITMER,D
+Wabash,022 - Lagro 3,11,12,0,23,Lagro Township Trustee,,(I) BEVERLY BURNS,I
+Wabash,022 - Lagro 3,74,54,0,128,Lagro Township Board Member,,ROB COLE,R
+Wabash,022 - Lagro 3,63,62,0,125,Lagro Township Board Member,,GARY W. HUNTER,R
+Wabash,022 - Lagro 3,91,73,0,164,Lagro Township Board Member,,DEB SCHENKEL,R
+Wabash,022 - Lagro 3,18,15,0,33,Lagro Township Board Member,,LLOYD M. BENTLEY,D
+Wabash,022 - Lagro 3,6,6,0,12,Metropolitan SB Northeast Dist,,SANDY DAVIS,
+Wabash,022 - Lagro 3,73,63,0,136,Metropolitan SB Northeast Dist,,MATT DRISCOLL,
+Wabash,022 - Lagro 3,46,24,0,70,Metropolitan SB Northeast Dist,,TIFFANY HAUPERT,
+Wabash,022 - Lagro 3,2,4,0,6,Metropolitan SB Northwest Dist,,DOUGLAS E. BOGERT,
+Wabash,022 - Lagro 3,52,51,0,103,Metropolitan SB Northwest Dist,,TODD DAZEY,
+Wabash,022 - Lagro 3,26,12,0,38,Metropolitan SB Northwest Dist,,TERESA L. GALLEY,
+Wabash,022 - Lagro 3,45,26,0,71,Metropolitan SB Northwest Dist,,RYAN ROSEN,
+Wabash,022 - Lagro 3,90,57,0,147,IN Supreme Court-Slaughter,,YES,
+Wabash,022 - Lagro 3,31,14,0,45,IN Supreme Court-Slaughter,,NO,
+Wabash,022 - Lagro 3,89,56,0,145,Court of Appeals Dist 2-Altice,,YES,
+Wabash,022 - Lagro 3,32,15,0,47,Court of Appeals Dist 2-Altice,,NO,
+Wabash,023 - Liberty 1,144,113,0,257,Public Question,,YES,
+Wabash,023 - Liberty 1,56,49,0,105,Public Question,,NO,
+Wabash,023 - Liberty 1,177,158,0,335,U.S. Senate,,MIKE BRAUN,R
+Wabash,023 - Liberty 1,60,42,0,102,U.S. Senate,,JOE DONNELLY,D
+Wabash,023 - Liberty 1,10,11,0,21,U.S. Senate,,LUCY M. BRENTON,L
+Wabash,023 - Liberty 1,0,0,0,0,U.S. Senate,,WRITE-IN,
+Wabash,023 - Liberty 1,197,165,0,362,Secretary of State,,CONNIE LAWSON,R
+Wabash,023 - Liberty 1,42,36,0,78,Secretary of State,,JIM HARPER,D
+Wabash,023 - Liberty 1,6,9,0,15,Secretary of State,,MARK W. RUTHERFORD,L
+Wabash,023 - Liberty 1,0,0,0,0,Secretary of State,,WRITE-IN,
+Wabash,023 - Liberty 1,185,163,0,348,Auditor of State,,TERA KLUTZ,R
+Wabash,023 - Liberty 1,50,41,0,91,Auditor of State,,JOSELYN WHITTICKER,D
+Wabash,023 - Liberty 1,10,6,0,16,Auditor of State,,JOHN SCHICK,L
+Wabash,023 - Liberty 1,201,169,0,370,Treasurer of State,,KELLY MITCHELL,R
+Wabash,023 - Liberty 1,43,37,0,80,Treasurer of State,,JOHN C. AGUILERA,D
+Wabash,023 - Liberty 1,187,158,0,345,U.S. House,2,JACKIE WALORSKI,R
+Wabash,023 - Liberty 1,60,52,0,112,U.S. House,2,MEL HALL,D
+Wabash,023 - Liberty 1,0,0,0,0,U.S. House,2,WRITE-IN,
+Wabash,023 - Liberty 1,182,165,0,347,State Senate,17,ANDY ZAY,R
+Wabash,023 - Liberty 1,60,45,0,105,State Senate,17,GARY L. SNYDER,D
+Wabash,023 - Liberty 1,187,162,0,349,State Representative,18,DAVID A. WOLKINS,R
+Wabash,023 - Liberty 1,53,47,0,100,State Representative,18,DEE M MOORE,D
+Wabash,023 - Liberty 1,216,178,0,394,Prosecuting Atty 27th Circuit,,WILLIAM C. HARTLEY JR.,R
+Wabash,023 - Liberty 1,221,175,0,396,Circuit Court Clerk,,LORI DRAPER,R
+Wabash,023 - Liberty 1,214,173,0,387,County Recorder,,ERIC RISH,R
+Wabash,023 - Liberty 1,223,183,0,406,County Sheriff,,RYAN T. BAKER,R
+Wabash,023 - Liberty 1,218,181,0,399,County Assessor,,KELLY SCHENKEL,R
+Wabash,023 - Liberty 1,217,182,0,399,County Commissioner District 2,,JEFF DAWES,R
+Wabash,023 - Liberty 1,217,180,0,397,County Council District 4,,KYLE M. BOWMAN,R
+Wabash,023 - Liberty 1,216,177,0,393,Liberty Township Trustee,,PATTY LENGEL-GODFROY,R
+Wabash,023 - Liberty 1,156,125,0,281,Liberty Township Board Member,,GREG BALDWIN,R
+Wabash,023 - Liberty 1,168,129,0,297,Liberty Township Board Member,,DIANA K. HEATH,R
+Wabash,023 - Liberty 1,131,109,0,240,Liberty Township Board Member,,RONALD HUSTON,R
+Wabash,023 - Liberty 1,56,44,0,100,Liberty Township Board Member,,DONALD J. ROSE,D
+Wabash,023 - Liberty 1,28,18,0,46,Metropolitan SB Northeast Dist,,SANDY DAVIS,
+Wabash,023 - Liberty 1,110,99,0,209,Metropolitan SB Northeast Dist,,MATT DRISCOLL,
+Wabash,023 - Liberty 1,72,71,0,143,Metropolitan SB Northeast Dist,,TIFFANY HAUPERT,
+Wabash,023 - Liberty 1,19,13,0,32,Metropolitan SB Northwest Dist,,DOUGLAS E. BOGERT,
+Wabash,023 - Liberty 1,100,92,0,192,Metropolitan SB Northwest Dist,,TODD DAZEY,
+Wabash,023 - Liberty 1,68,69,0,137,Metropolitan SB Northwest Dist,,TERESA L. GALLEY,
+Wabash,023 - Liberty 1,29,22,0,51,Metropolitan SB Northwest Dist,,RYAN ROSEN,
+Wabash,023 - Liberty 1,162,123,0,285,IN Supreme Court-Slaughter,,YES,
+Wabash,023 - Liberty 1,39,55,0,94,IN Supreme Court-Slaughter,,NO,
+Wabash,023 - Liberty 1,159,126,0,285,Court of Appeals Dist 2-Altice,,YES,
+Wabash,023 - Liberty 1,41,53,0,94,Court of Appeals Dist 2-Altice,,NO,
+Wabash,024 - Liberty 2,118,139,0,257,Public Question,,YES,
+Wabash,024 - Liberty 2,40,48,0,88,Public Question,,NO,
+Wabash,024 - Liberty 2,159,167,0,326,U.S. Senate,,MIKE BRAUN,R
+Wabash,024 - Liberty 2,38,52,0,90,U.S. Senate,,JOE DONNELLY,D
+Wabash,024 - Liberty 2,10,9,0,19,U.S. Senate,,LUCY M. BRENTON,L
+Wabash,024 - Liberty 2,0,0,0,0,U.S. Senate,,WRITE-IN,
+Wabash,024 - Liberty 2,167,180,0,347,Secretary of State,,CONNIE LAWSON,R
+Wabash,024 - Liberty 2,33,37,0,70,Secretary of State,,JIM HARPER,D
+Wabash,024 - Liberty 2,6,7,0,13,Secretary of State,,MARK W. RUTHERFORD,L
+Wabash,024 - Liberty 2,0,0,0,0,Secretary of State,,WRITE-IN,
+Wabash,024 - Liberty 2,169,174,0,343,Auditor of State,,TERA KLUTZ,R
+Wabash,024 - Liberty 2,35,40,0,75,Auditor of State,,JOSELYN WHITTICKER,D
+Wabash,024 - Liberty 2,3,6,0,9,Auditor of State,,JOHN SCHICK,L
+Wabash,024 - Liberty 2,174,179,0,353,Treasurer of State,,KELLY MITCHELL,R
+Wabash,024 - Liberty 2,32,38,0,70,Treasurer of State,,JOHN C. AGUILERA,D
+Wabash,024 - Liberty 2,166,183,0,349,U.S. House,2,JACKIE WALORSKI,R
+Wabash,024 - Liberty 2,38,44,0,82,U.S. House,2,MEL HALL,D
+Wabash,024 - Liberty 2,0,0,0,0,U.S. House,2,WRITE-IN,
+Wabash,024 - Liberty 2,169,177,0,346,State Senate,17,ANDY ZAY,R
+Wabash,024 - Liberty 2,34,45,0,79,State Senate,17,GARY L. SNYDER,D
+Wabash,024 - Liberty 2,169,175,0,344,State Representative,18,DAVID A. WOLKINS,R
+Wabash,024 - Liberty 2,35,44,0,79,State Representative,18,DEE M MOORE,D
+Wabash,024 - Liberty 2,180,189,0,369,Prosecuting Atty 27th Circuit,,WILLIAM C. HARTLEY JR.,R
+Wabash,024 - Liberty 2,183,202,0,385,Circuit Court Clerk,,LORI DRAPER,R
+Wabash,024 - Liberty 2,178,190,0,368,County Recorder,,ERIC RISH,R
+Wabash,024 - Liberty 2,186,195,0,381,County Sheriff,,RYAN T. BAKER,R
+Wabash,024 - Liberty 2,183,195,0,378,County Assessor,,KELLY SCHENKEL,R
+Wabash,024 - Liberty 2,182,195,0,377,County Commissioner District 2,,JEFF DAWES,R
+Wabash,024 - Liberty 2,180,194,0,374,County Council District 4,,KYLE M. BOWMAN,R
+Wabash,024 - Liberty 2,177,202,0,379,Liberty Township Trustee,,PATTY LENGEL-GODFROY,R
+Wabash,024 - Liberty 2,127,143,0,270,Liberty Township Board Member,,GREG BALDWIN,R
+Wabash,024 - Liberty 2,127,147,0,274,Liberty Township Board Member,,DIANA K. HEATH,R
+Wabash,024 - Liberty 2,97,127,0,224,Liberty Township Board Member,,RONALD HUSTON,R
+Wabash,024 - Liberty 2,35,38,0,73,Liberty Township Board Member,,DONALD J. ROSE,D
+Wabash,024 - Liberty 2,28,20,0,48,Metropolitan SB Northeast Dist,,SANDY DAVIS,
+Wabash,024 - Liberty 2,105,131,0,236,Metropolitan SB Northeast Dist,,MATT DRISCOLL,
+Wabash,024 - Liberty 2,57,51,0,108,Metropolitan SB Northeast Dist,,TIFFANY HAUPERT,
+Wabash,024 - Liberty 2,16,11,0,27,Metropolitan SB Northwest Dist,,DOUGLAS E. BOGERT,
+Wabash,024 - Liberty 2,91,125,0,216,Metropolitan SB Northwest Dist,,TODD DAZEY,
+Wabash,024 - Liberty 2,42,43,0,85,Metropolitan SB Northwest Dist,,TERESA L. GALLEY,
+Wabash,024 - Liberty 2,37,22,0,59,Metropolitan SB Northwest Dist,,RYAN ROSEN,
+Wabash,024 - Liberty 2,143,136,0,279,IN Supreme Court-Slaughter,,YES,
+Wabash,024 - Liberty 2,24,31,0,55,IN Supreme Court-Slaughter,,NO,
+Wabash,024 - Liberty 2,141,138,0,279,Court of Appeals Dist 2-Altice,,YES,
+Wabash,024 - Liberty 2,25,29,0,54,Court of Appeals Dist 2-Altice,,NO,
+Wabash,025 - Paw Paw,263,98,0,361,Public Question,,YES,
+Wabash,025 - Paw Paw,107,36,0,143,Public Question,,NO,
+Wabash,025 - Paw Paw,357,117,0,474,U.S. Senate,,MIKE BRAUN,R
+Wabash,025 - Paw Paw,90,41,0,131,U.S. Senate,,JOE DONNELLY,D
+Wabash,025 - Paw Paw,13,6,0,19,U.S. Senate,,LUCY M. BRENTON,L
+Wabash,025 - Paw Paw,0,0,0,0,U.S. Senate,,WRITE-IN,
+Wabash,025 - Paw Paw,381,132,0,513,Secretary of State,,CONNIE LAWSON,R
+Wabash,025 - Paw Paw,66,28,0,94,Secretary of State,,JIM HARPER,D
+Wabash,025 - Paw Paw,7,3,0,10,Secretary of State,,MARK W. RUTHERFORD,L
+Wabash,025 - Paw Paw,0,0,0,0,Secretary of State,,WRITE-IN,
+Wabash,025 - Paw Paw,363,129,0,492,Auditor of State,,TERA KLUTZ,R
+Wabash,025 - Paw Paw,78,28,0,106,Auditor of State,,JOSELYN WHITTICKER,D
+Wabash,025 - Paw Paw,6,2,0,8,Auditor of State,,JOHN SCHICK,L
+Wabash,025 - Paw Paw,379,131,0,510,Treasurer of State,,KELLY MITCHELL,R
+Wabash,025 - Paw Paw,71,29,0,100,Treasurer of State,,JOHN C. AGUILERA,D
+Wabash,025 - Paw Paw,364,120,0,484,U.S. House,2,JACKIE WALORSKI,R
+Wabash,025 - Paw Paw,95,40,0,135,U.S. House,2,MEL HALL,D
+Wabash,025 - Paw Paw,0,0,0,0,U.S. House,2,WRITE-IN,
+Wabash,025 - Paw Paw,376,129,0,505,State Senate,17,ANDY ZAY,R
+Wabash,025 - Paw Paw,76,31,0,107,State Senate,17,GARY L. SNYDER,D
+Wabash,025 - Paw Paw,380,128,0,508,State Representative,18,DAVID A. WOLKINS,R
+Wabash,025 - Paw Paw,74,32,0,106,State Representative,18,DEE M MOORE,D
+Wabash,025 - Paw Paw,411,138,0,549,Prosecuting Atty 27th Circuit,,WILLIAM C. HARTLEY JR.,R
+Wabash,025 - Paw Paw,420,143,0,563,Circuit Court Clerk,,LORI DRAPER,R
+Wabash,025 - Paw Paw,402,133,0,535,County Recorder,,ERIC RISH,R
+Wabash,025 - Paw Paw,416,143,0,559,County Sheriff,,RYAN T. BAKER,R
+Wabash,025 - Paw Paw,421,146,0,567,County Assessor,,KELLY SCHENKEL,R
+Wabash,025 - Paw Paw,413,142,0,555,County Commissioner District 2,,JEFF DAWES,R
+Wabash,025 - Paw Paw,375,123,0,498,County Council District 2,,BARBARA PEARSON,R
+Wabash,025 - Paw Paw,79,35,0,114,County Council District 2,,JANE LONG,D
+Wabash,025 - Paw Paw,409,137,0,546,Paw Paw Township Trustee,,ASHLEY CORDES,R
+Wabash,025 - Paw Paw,259,97,0,356,Paw Paw Township Board Member,,BRIAN D. BAKER,R
+Wabash,025 - Paw Paw,273,106,0,379,Paw Paw Township Board Member,,SCOTT DAWES,R
+Wabash,025 - Paw Paw,270,101,0,371,Paw Paw Township Board Member,,MIKE SCHULER,R
+Wabash,025 - Paw Paw,34,6,0,40,Metropolitan SB Northeast Dist,,SANDY DAVIS,
+Wabash,025 - Paw Paw,220,78,0,298,Metropolitan SB Northeast Dist,,MATT DRISCOLL,
+Wabash,025 - Paw Paw,162,62,0,224,Metropolitan SB Northeast Dist,,TIFFANY HAUPERT,
+Wabash,025 - Paw Paw,18,3,0,21,Metropolitan SB Northwest Dist,,DOUGLAS E. BOGERT,
+Wabash,025 - Paw Paw,212,72,0,284,Metropolitan SB Northwest Dist,,TODD DAZEY,
+Wabash,025 - Paw Paw,92,39,0,131,Metropolitan SB Northwest Dist,,TERESA L. GALLEY,
+Wabash,025 - Paw Paw,106,38,0,144,Metropolitan SB Northwest Dist,,RYAN ROSEN,
+Wabash,025 - Paw Paw,290,103,0,393,IN Supreme Court-Slaughter,,YES,
+Wabash,025 - Paw Paw,78,30,0,108,IN Supreme Court-Slaughter,,NO,
+Wabash,025 - Paw Paw,293,99,0,392,Court of Appeals Dist 2-Altice,,YES,
+Wabash,025 - Paw Paw,71,32,0,103,Court of Appeals Dist 2-Altice,,NO,
+Wabash,026 - Waltz,206,132,0,338,Public Question,,YES,
+Wabash,026 - Waltz,74,43,0,117,Public Question,,NO,
+Wabash,026 - Waltz,253,171,0,424,U.S. Senate,,MIKE BRAUN,R
+Wabash,026 - Waltz,78,46,0,124,U.S. Senate,,JOE DONNELLY,D
+Wabash,026 - Waltz,9,4,0,13,U.S. Senate,,LUCY M. BRENTON,L
+Wabash,026 - Waltz,0,0,0,0,U.S. Senate,,WRITE-IN,
+Wabash,026 - Waltz,264,178,0,442,Secretary of State,,CONNIE LAWSON,R
+Wabash,026 - Waltz,64,40,0,104,Secretary of State,,JIM HARPER,D
+Wabash,026 - Waltz,5,4,0,9,Secretary of State,,MARK W. RUTHERFORD,L
+Wabash,026 - Waltz,0,0,0,0,Secretary of State,,WRITE-IN,
+Wabash,026 - Waltz,257,173,0,430,Auditor of State,,TERA KLUTZ,R
+Wabash,026 - Waltz,69,44,0,113,Auditor of State,,JOSELYN WHITTICKER,D
+Wabash,026 - Waltz,7,3,0,10,Auditor of State,,JOHN SCHICK,L
+Wabash,026 - Waltz,272,179,0,451,Treasurer of State,,KELLY MITCHELL,R
+Wabash,026 - Waltz,60,41,0,101,Treasurer of State,,JOHN C. AGUILERA,D
+Wabash,026 - Waltz,260,176,0,436,U.S. House,2,JACKIE WALORSKI,R
+Wabash,026 - Waltz,76,46,0,122,U.S. House,2,MEL HALL,D
+Wabash,026 - Waltz,0,0,0,0,U.S. House,2,WRITE-IN,
+Wabash,026 - Waltz,265,176,0,441,State Senate,17,ANDY ZAY,R
+Wabash,026 - Waltz,69,42,0,111,State Senate,17,GARY L. SNYDER,D
+Wabash,026 - Waltz,264,178,0,442,State Representative,18,DAVID A. WOLKINS,R
+Wabash,026 - Waltz,67,40,0,107,State Representative,18,DEE M MOORE,D
+Wabash,026 - Waltz,290,181,0,471,Prosecuting Atty 27th Circuit,,WILLIAM C. HARTLEY JR.,R
+Wabash,026 - Waltz,300,188,0,488,Circuit Court Clerk,,LORI DRAPER,R
+Wabash,026 - Waltz,291,181,0,472,County Recorder,,ERIC RISH,R
+Wabash,026 - Waltz,306,193,0,499,County Sheriff,,RYAN T. BAKER,R
+Wabash,026 - Waltz,301,183,0,484,County Assessor,,KELLY SCHENKEL,R
+Wabash,026 - Waltz,292,182,0,474,County Commissioner District 2,,JEFF DAWES,R
+Wabash,026 - Waltz,287,184,0,471,County Council District 4,,KYLE M. BOWMAN,R
+Wabash,026 - Waltz,294,181,0,475,Waltz Township Trustee,,MICHAEL A. RUSE,R
+Wabash,026 - Waltz,191,126,0,317,Waltz Township Board Member,,JEREMY BOARDMAN,R
+Wabash,026 - Waltz,173,102,0,275,Waltz Township Board Member,,APRIL DEVORE,R
+Wabash,026 - Waltz,187,115,0,302,Waltz Township Board Member,,DEREK FINCH,R
+Wabash,026 - Waltz,34,20,0,54,Metropolitan SB Northeast Dist,,SANDY DAVIS,
+Wabash,026 - Waltz,151,107,0,258,Metropolitan SB Northeast Dist,,MATT DRISCOLL,
+Wabash,026 - Waltz,109,60,0,169,Metropolitan SB Northeast Dist,,TIFFANY HAUPERT,
+Wabash,026 - Waltz,10,6,0,16,Metropolitan SB Northwest Dist,,DOUGLAS E. BOGERT,
+Wabash,026 - Waltz,140,92,0,232,Metropolitan SB Northwest Dist,,TODD DAZEY,
+Wabash,026 - Waltz,89,50,0,139,Metropolitan SB Northwest Dist,,TERESA L. GALLEY,
+Wabash,026 - Waltz,58,40,0,98,Metropolitan SB Northwest Dist,,RYAN ROSEN,
+Wabash,026 - Waltz,208,136,0,344,IN Supreme Court-Slaughter,,YES,
+Wabash,026 - Waltz,55,33,0,88,IN Supreme Court-Slaughter,,NO,
+Wabash,026 - Waltz,211,134,0,345,Court of Appeals Dist 2-Altice,,YES,
+Wabash,026 - Waltz,55,35,0,90,Court of Appeals Dist 2-Altice,,NO,
+Wabash,001 - Noble 1,,,,531,Registered Voters,,,
+Wabash,001 - Noble 1,175,73,0,248,Ballots Cast,,,
+Wabash,002 - Noble 2,,,,591,Registered Voters,,,
+Wabash,002 - Noble 2,163,63,0,226,Ballots Cast,,,
+Wabash,003 - Noble 3,,,,901,Registered Voters,,,
+Wabash,003 - Noble 3,211,130,0,341,Ballots Cast,,,
+Wabash,004 - Noble 4,,,,706,Registered Voters,,,
+Wabash,004 - Noble 4,201,114,0,315,Ballots Cast,,,
+Wabash,005 - Noble 5,,,,851,Registered Voters,,,
+Wabash,005 - Noble 5,288,155,0,443,Ballots Cast,,,
+Wabash,006 - Noble 6,,,,1175,Registered Voters,,,
+Wabash,006 - Noble 6,349,267,0,616,Ballots Cast,,,
+Wabash,007 - Noble 7,,,,916,Registered Voters,,,
+Wabash,007 - Noble 7,304,157,0,461,Ballots Cast,,,
+Wabash,008 - Noble 8,,,,891,Registered Voters,,,
+Wabash,008 - Noble 8,263,255,0,518,Ballots Cast,,,
+Wabash,009 - Noble 9,,,,693,Registered Voters,,,
+Wabash,009 - Noble 9,241,194,0,435,Ballots Cast,,,
+Wabash,010 - Noble 10,,,,967,Registered Voters,,,
+Wabash,010 - Noble 10,277,294,0,571,Ballots Cast,,,
+Wabash,011 - Noble 11,,,,831,Registered Voters,,,
+Wabash,011 - Noble 11,209,254,0,463,Ballots Cast,,,
+Wabash,012 - Chester 1,,,,632,Registered Voters,,,
+Wabash,012 - Chester 1,253,171,0,424,Ballots Cast,,,
+Wabash,013 - Chester 2,,,,522,Registered Voters,,,
+Wabash,013 - Chester 2,205,128,0,333,Ballots Cast,,,
+Wabash,014 - Chester 3,,,,901,Registered Voters,,,
+Wabash,014 - Chester 3,329,193,0,522,Ballots Cast,,,
+Wabash,015 - Chester 4,,,,747,Registered Voters,,,
+Wabash,015 - Chester 4,282,149,0,431,Ballots Cast,,,
+Wabash,016 - Chester 5,,,,791,Registered Voters,,,
+Wabash,016 - Chester 5,190,316,0,506,Ballots Cast,,,
+Wabash,017 - Chester 6,,,,806,Registered Voters,,,
+Wabash,017 - Chester 6,238,264,0,502,Ballots Cast,,,
+Wabash,018 - Pleasant 1,,,,605,Registered Voters,,,
+Wabash,018 - Pleasant 1,237,86,0,323,Ballots Cast,,,
+Wabash,019 - Pleasant 2,,,,889,Registered Voters,,,
+Wabash,019 - Pleasant 2,371,160,0,531,Ballots Cast,,,
+Wabash,020 - Lagro 1,,,,663,Registered Voters,,,
+Wabash,020 - Lagro 1,216,172,0,388,Ballots Cast,,,
+Wabash,021 - Lagro 2,,,,994,Registered Voters,,,
+Wabash,021 - Lagro 2,380,185,0,565,Ballots Cast,,,
+Wabash,022 - Lagro 3,,,,423,Registered Voters,,,
+Wabash,022 - Lagro 3,136,102,0,238,Ballots Cast,,,
+Wabash,023 - Liberty 1,,,,809,Registered Voters,,,
+Wabash,023 - Liberty 1,251,214,0,465,Ballots Cast,,,
+Wabash,024 - Liberty 2,,,,763,Registered Voters,,,
+Wabash,024 - Liberty 2,210,233,0,443,Ballots Cast,,,
+Wabash,025 - Paw Paw,,,,1080,Registered Voters,,,
+Wabash,025 - Paw Paw,468,167,0,635,Ballots Cast,,,
+Wabash,026 - Waltz,,,,926,Registered Voters,,,
+Wabash,026 - Waltz,345,225,0,570,Ballots Cast,,,

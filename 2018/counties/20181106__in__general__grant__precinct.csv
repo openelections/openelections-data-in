@@ -1,0 +1,1262 @@
+county,precinct,office,district,party,candidate,votes
+Grant,Center  01,US Senate,,Rep,Mike Braun,123
+Grant,Center  02,US Senate,,Rep,Mike Braun,109
+Grant,Center  03,US Senate,,Rep,Mike Braun,31
+Grant,Center  04,US Senate,,Rep,Mike Braun,100
+Grant,Center  05,US Senate,,Rep,Mike Braun,94
+Grant,Center  06,US Senate,,Rep,Mike Braun,85
+Grant,Center  07,US Senate,,Rep,Mike Braun,99
+Grant,Center  08,US Senate,,Rep,Mike Braun,59
+Grant,Center  09,US Senate,,Rep,Mike Braun,69
+Grant,Center  10,US Senate,,Rep,Mike Braun,289
+Grant,Center  11,US Senate,,Rep,Mike Braun,225
+Grant,Center  12,US Senate,,Rep,Mike Braun,205
+Grant,Center  13,US Senate,,Rep,Mike Braun,150
+Grant,Center  14,US Senate,,Rep,Mike Braun,122
+Grant,Center  15,US Senate,,Rep,Mike Braun,182
+Grant,Center  16,US Senate,,Rep,Mike Braun,53
+Grant,Center  17,US Senate,,Rep,Mike Braun,209
+Grant,Center  18,US Senate,,Rep,Mike Braun,248
+Grant,Center  19,US Senate,,Rep,Mike Braun,165
+Grant,Center  20,US Senate,,Rep,Mike Braun,36
+Grant,Center  24,US Senate,,Rep,Mike Braun,26
+Grant,Paramount 1,US Senate,,Rep,Mike Braun,268
+Grant,Paramount 2,US Senate,,Rep,Mike Braun,248
+Grant,Paramount 3,US Senate,,Rep,Mike Braun,163
+Grant,Paramount 4,US Senate,,Rep,Mike Braun,157
+Grant,Franklin 1,US Senate,,Rep,Mike Braun,64
+Grant,Franklin 2,US Senate,,Rep,Mike Braun,153
+Grant,Franklin 3,US Senate,,Rep,Mike Braun,106
+Grant,Franklin 4,US Senate,,Rep,Mike Braun,245
+Grant,Franklin 5,US Senate,,Rep,Mike Braun,305
+Grant,Franklin 6,US Senate,,Rep,Mike Braun,84
+Grant,Franklin 7,US Senate,,Rep,Mike Braun,27
+Grant,Green,US Senate,,Rep,Mike Braun,130
+Grant,Jefferson 1,US Senate,,Rep,Mike Braun,411
+Grant,Jefferson 2,US Senate,,Rep,Mike Braun,404
+Grant,Jefferson 3,US Senate,,Rep,Mike Braun,221
+Grant,Liberty,US Senate,,Rep,Mike Braun,283
+Grant,Mill 01,US Senate,,Rep,Mike Braun,237
+Grant,Mill 02,US Senate,,Rep,Mike Braun,199
+Grant,Mill 03,US Senate,,Rep,Mike Braun,272
+Grant,Mill 04,US Senate,,Rep,Mike Braun,177
+Grant,Mill 05,US Senate,,Rep,Mike Braun,258
+Grant,Mill 06,US Senate,,Rep,Mike Braun,222
+Grant,Mill 07,US Senate,,Rep,Mike Braun,220
+Grant,Mill 08,US Senate,,Rep,Mike Braun,102
+Grant,Mill 09,US Senate,,Rep,Mike Braun,151
+Grant,Mill 10,US Senate,,Rep,Mike Braun,154
+Grant,Mill 11,US Senate,,Rep,Mike Braun,9
+Grant,Monroe,US Senate,,Rep,Mike Braun,487
+Grant,Pleasant 1,US Senate,,Rep,Mike Braun,463
+Grant,Pleasant 2,US Senate,,Rep,Mike Braun,326
+Grant,Pleasant 3,US Senate,,Rep,Mike Braun,343
+Grant,Pleasant 4,US Senate,,Rep,Mike Braun,222
+Grant,Pleasant 5,US Senate,,Rep,Mike Braun,166
+Grant,Pleasant 6,US Senate,,Rep,Mike Braun,224
+Grant,Pleasant 7,US Senate,,Rep,Mike Braun,165
+Grant,Richland,US Senate,,Rep,Mike Braun,255
+Grant,Sims,US Senate,,Rep,Mike Braun,487
+Grant,Van Buren,US Senate,,Rep,Mike Braun,430
+Grant,Washington 1,US Senate,,Rep,Mike Braun,188
+Grant,Washington 2,US Senate,,Rep,Mike Braun,134
+Grant,Washington 3,US Senate,,Rep,Mike Braun,353
+Grant,Washington 4,US Senate,,Rep,Mike Braun,201
+Grant,GRANT IN,US Senate,,Rep,Mike Braun,12393
+Grant,Center  01,US Senate,,Dem,Joe Donnelly,126
+Grant,Center  02,US Senate,,Dem,Joe Donnelly,117
+Grant,Center  03,US Senate,,Dem,Joe Donnelly,119
+Grant,Center  04,US Senate,,Dem,Joe Donnelly,102
+Grant,Center  05,US Senate,,Dem,Joe Donnelly,115
+Grant,Center  06,US Senate,,Dem,Joe Donnelly,134
+Grant,Center  07,US Senate,,Dem,Joe Donnelly,113
+Grant,Center  08,US Senate,,Dem,Joe Donnelly,213
+Grant,Center  09,US Senate,,Dem,Joe Donnelly,156
+Grant,Center  10,US Senate,,Dem,Joe Donnelly,110
+Grant,Center  11,US Senate,,Dem,Joe Donnelly,108
+Grant,Center  12,US Senate,,Dem,Joe Donnelly,143
+Grant,Center  13,US Senate,,Dem,Joe Donnelly,117
+Grant,Center  14,US Senate,,Dem,Joe Donnelly,71
+Grant,Center  15,US Senate,,Dem,Joe Donnelly,101
+Grant,Center  16,US Senate,,Dem,Joe Donnelly,119
+Grant,Center  17,US Senate,,Dem,Joe Donnelly,69
+Grant,Center  18,US Senate,,Dem,Joe Donnelly,107
+Grant,Center  19,US Senate,,Dem,Joe Donnelly,143
+Grant,Center  20,US Senate,,Dem,Joe Donnelly,22
+Grant,Center  24,US Senate,,Dem,Joe Donnelly,21
+Grant,Paramount 1,US Senate,,Dem,Joe Donnelly,130
+Grant,Paramount 2,US Senate,,Dem,Joe Donnelly,124
+Grant,Paramount 3,US Senate,,Dem,Joe Donnelly,65
+Grant,Paramount 4,US Senate,,Dem,Joe Donnelly,57
+Grant,Franklin 1,US Senate,,Dem,Joe Donnelly,59
+Grant,Franklin 2,US Senate,,Dem,Joe Donnelly,108
+Grant,Franklin 3,US Senate,,Dem,Joe Donnelly,105
+Grant,Franklin 4,US Senate,,Dem,Joe Donnelly,69
+Grant,Franklin 5,US Senate,,Dem,Joe Donnelly,149
+Grant,Franklin 6,US Senate,,Dem,Joe Donnelly,142
+Grant,Franklin 7,US Senate,,Dem,Joe Donnelly,30
+Grant,Green,US Senate,,Dem,Joe Donnelly,58
+Grant,Jefferson 1,US Senate,,Dem,Joe Donnelly,183
+Grant,Jefferson 2,US Senate,,Dem,Joe Donnelly,183
+Grant,Jefferson 3,US Senate,,Dem,Joe Donnelly,130
+Grant,Liberty,US Senate,,Dem,Joe Donnelly,85
+Grant,Mill 01,US Senate,,Dem,Joe Donnelly,147
+Grant,Mill 02,US Senate,,Dem,Joe Donnelly,135
+Grant,Mill 03,US Senate,,Dem,Joe Donnelly,108
+Grant,Mill 04,US Senate,,Dem,Joe Donnelly,91
+Grant,Mill 05,US Senate,,Dem,Joe Donnelly,89
+Grant,Mill 06,US Senate,,Dem,Joe Donnelly,144
+Grant,Mill 07,US Senate,,Dem,Joe Donnelly,97
+Grant,Mill 08,US Senate,,Dem,Joe Donnelly,53
+Grant,Mill 09,US Senate,,Dem,Joe Donnelly,81
+Grant,Mill 10,US Senate,,Dem,Joe Donnelly,78
+Grant,Mill 11,US Senate,,Dem,Joe Donnelly,9
+Grant,Monroe,US Senate,,Dem,Joe Donnelly,147
+Grant,Pleasant 1,US Senate,,Dem,Joe Donnelly,146
+Grant,Pleasant 2,US Senate,,Dem,Joe Donnelly,93
+Grant,Pleasant 3,US Senate,,Dem,Joe Donnelly,165
+Grant,Pleasant 4,US Senate,,Dem,Joe Donnelly,96
+Grant,Pleasant 5,US Senate,,Dem,Joe Donnelly,112
+Grant,Pleasant 6,US Senate,,Dem,Joe Donnelly,107
+Grant,Pleasant 7,US Senate,,Dem,Joe Donnelly,97
+Grant,Richland,US Senate,,Dem,Joe Donnelly,63
+Grant,Sims,US Senate,,Dem,Joe Donnelly,182
+Grant,Van Buren,US Senate,,Dem,Joe Donnelly,150
+Grant,Washington 1,US Senate,,Dem,Joe Donnelly,47
+Grant,Washington 2,US Senate,,Dem,Joe Donnelly,90
+Grant,Washington 3,US Senate,,Dem,Joe Donnelly,147
+Grant,Washington 4,US Senate,,Dem,Joe Donnelly,68
+Grant,GRANT IN,US Senate,,Dem,Joe Donnelly,6745
+Grant,Center  01,US Senate,,Lbt,Lucy Brenton,17
+Grant,Center  02,US Senate,,Lbt,Lucy Brenton,12
+Grant,Center  03,US Senate,,Lbt,Lucy Brenton,6
+Grant,Center  04,US Senate,,Lbt,Lucy Brenton,22
+Grant,Center  05,US Senate,,Lbt,Lucy Brenton,16
+Grant,Center  06,US Senate,,Lbt,Lucy Brenton,12
+Grant,Center  07,US Senate,,Lbt,Lucy Brenton,12
+Grant,Center  08,US Senate,,Lbt,Lucy Brenton,12
+Grant,Center  09,US Senate,,Lbt,Lucy Brenton,8
+Grant,Center  10,US Senate,,Lbt,Lucy Brenton,16
+Grant,Center  11,US Senate,,Lbt,Lucy Brenton,15
+Grant,Center  12,US Senate,,Lbt,Lucy Brenton,17
+Grant,Center  13,US Senate,,Lbt,Lucy Brenton,15
+Grant,Center  14,US Senate,,Lbt,Lucy Brenton,11
+Grant,Center  15,US Senate,,Lbt,Lucy Brenton,11
+Grant,Center  16,US Senate,,Lbt,Lucy Brenton,12
+Grant,Center  17,US Senate,,Lbt,Lucy Brenton,14
+Grant,Center  18,US Senate,,Lbt,Lucy Brenton,10
+Grant,Center  19,US Senate,,Lbt,Lucy Brenton,18
+Grant,Center  20,US Senate,,Lbt,Lucy Brenton,1
+Grant,Center  24,US Senate,,Lbt,Lucy Brenton,0
+Grant,Paramount 1,US Senate,,Lbt,Lucy Brenton,17
+Grant,Paramount 2,US Senate,,Lbt,Lucy Brenton,21
+Grant,Paramount 3,US Senate,,Lbt,Lucy Brenton,14
+Grant,Paramount 4,US Senate,,Lbt,Lucy Brenton,8
+Grant,Franklin 1,US Senate,,Lbt,Lucy Brenton,5
+Grant,Franklin 2,US Senate,,Lbt,Lucy Brenton,10
+Grant,Franklin 3,US Senate,,Lbt,Lucy Brenton,15
+Grant,Franklin 4,US Senate,,Lbt,Lucy Brenton,13
+Grant,Franklin 5,US Senate,,Lbt,Lucy Brenton,25
+Grant,Franklin 6,US Senate,,Lbt,Lucy Brenton,8
+Grant,Franklin 7,US Senate,,Lbt,Lucy Brenton,6
+Grant,Green,US Senate,,Lbt,Lucy Brenton,4
+Grant,Jefferson 1,US Senate,,Lbt,Lucy Brenton,22
+Grant,Jefferson 2,US Senate,,Lbt,Lucy Brenton,31
+Grant,Jefferson 3,US Senate,,Lbt,Lucy Brenton,19
+Grant,Liberty,US Senate,,Lbt,Lucy Brenton,19
+Grant,Mill 01,US Senate,,Lbt,Lucy Brenton,11
+Grant,Mill 02,US Senate,,Lbt,Lucy Brenton,21
+Grant,Mill 03,US Senate,,Lbt,Lucy Brenton,10
+Grant,Mill 04,US Senate,,Lbt,Lucy Brenton,26
+Grant,Mill 05,US Senate,,Lbt,Lucy Brenton,18
+Grant,Mill 06,US Senate,,Lbt,Lucy Brenton,28
+Grant,Mill 07,US Senate,,Lbt,Lucy Brenton,22
+Grant,Mill 08,US Senate,,Lbt,Lucy Brenton,13
+Grant,Mill 09,US Senate,,Lbt,Lucy Brenton,9
+Grant,Mill 10,US Senate,,Lbt,Lucy Brenton,8
+Grant,Mill 11,US Senate,,Lbt,Lucy Brenton,0
+Grant,Monroe,US Senate,,Lbt,Lucy Brenton,17
+Grant,Pleasant 1,US Senate,,Lbt,Lucy Brenton,30
+Grant,Pleasant 2,US Senate,,Lbt,Lucy Brenton,18
+Grant,Pleasant 3,US Senate,,Lbt,Lucy Brenton,17
+Grant,Pleasant 4,US Senate,,Lbt,Lucy Brenton,9
+Grant,Pleasant 5,US Senate,,Lbt,Lucy Brenton,14
+Grant,Pleasant 6,US Senate,,Lbt,Lucy Brenton,17
+Grant,Pleasant 7,US Senate,,Lbt,Lucy Brenton,15
+Grant,Richland,US Senate,,Lbt,Lucy Brenton,16
+Grant,Sims,US Senate,,Lbt,Lucy Brenton,29
+Grant,Van Buren,US Senate,,Lbt,Lucy Brenton,26
+Grant,Washington 1,US Senate,,Lbt,Lucy Brenton,3
+Grant,Washington 2,US Senate,,Lbt,Lucy Brenton,13
+Grant,Washington 3,US Senate,,Lbt,Lucy Brenton,28
+Grant,Washington 4,US Senate,,Lbt,Lucy Brenton,17
+Grant,GRANT IN,US Senate,,Lbt,Lucy Brenton,929
+Grant,Center  01,US Senate,,,write-in,0
+Grant,Center  02,US Senate,,,write-in,0
+Grant,Center  03,US Senate,,,write-in,0
+Grant,Center  04,US Senate,,,write-in,0
+Grant,Center  05,US Senate,,,write-in,0
+Grant,Center  06,US Senate,,,write-in,0
+Grant,Center  07,US Senate,,,write-in,0
+Grant,Center  08,US Senate,,,write-in,0
+Grant,Center  09,US Senate,,,write-in,0
+Grant,Center  10,US Senate,,,write-in,0
+Grant,Center  11,US Senate,,,write-in,1
+Grant,Center  12,US Senate,,,write-in,0
+Grant,Center  13,US Senate,,,write-in,0
+Grant,Center  14,US Senate,,,write-in,0
+Grant,Center  15,US Senate,,,write-in,0
+Grant,Center  16,US Senate,,,write-in,1
+Grant,Center  17,US Senate,,,write-in,0
+Grant,Center  18,US Senate,,,write-in,0
+Grant,Center  19,US Senate,,,write-in,0
+Grant,Center  20,US Senate,,,write-in,0
+Grant,Center  24,US Senate,,,write-in,0
+Grant,Paramount 1,US Senate,,,write-in,0
+Grant,Paramount 2,US Senate,,,write-in,0
+Grant,Paramount 3,US Senate,,,write-in,0
+Grant,Paramount 4,US Senate,,,write-in,0
+Grant,Franklin 1,US Senate,,,write-in,0
+Grant,Franklin 2,US Senate,,,write-in,1
+Grant,Franklin 3,US Senate,,,write-in,0
+Grant,Franklin 4,US Senate,,,write-in,0
+Grant,Franklin 5,US Senate,,,write-in,0
+Grant,Franklin 6,US Senate,,,write-in,1
+Grant,Franklin 7,US Senate,,,write-in,0
+Grant,Green,US Senate,,,write-in,0
+Grant,Jefferson 1,US Senate,,,write-in,0
+Grant,Jefferson 2,US Senate,,,write-in,0
+Grant,Jefferson 3,US Senate,,,write-in,0
+Grant,Liberty,US Senate,,,write-in,0
+Grant,Mill 01,US Senate,,,write-in,0
+Grant,Mill 02,US Senate,,,write-in,1
+Grant,Mill 03,US Senate,,,write-in,0
+Grant,Mill 04,US Senate,,,write-in,0
+Grant,Mill 05,US Senate,,,write-in,0
+Grant,Mill 06,US Senate,,,write-in,0
+Grant,Mill 07,US Senate,,,write-in,0
+Grant,Mill 08,US Senate,,,write-in,0
+Grant,Mill 09,US Senate,,,write-in,0
+Grant,Mill 10,US Senate,,,write-in,0
+Grant,Mill 11,US Senate,,,write-in,0
+Grant,Monroe,US Senate,,,write-in,0
+Grant,Pleasant 1,US Senate,,,write-in,0
+Grant,Pleasant 2,US Senate,,,write-in,0
+Grant,Pleasant 3,US Senate,,,write-in,0
+Grant,Pleasant 4,US Senate,,,write-in,0
+Grant,Pleasant 5,US Senate,,,write-in,0
+Grant,Pleasant 6,US Senate,,,write-in,0
+Grant,Pleasant 7,US Senate,,,write-in,0
+Grant,Richland,US Senate,,,write-in,0
+Grant,Sims,US Senate,,,write-in,1
+Grant,Van Buren,US Senate,,,write-in,0
+Grant,Washington 1,US Senate,,,write-in,1
+Grant,Washington 2,US Senate,,,write-in,0
+Grant,Washington 3,US Senate,,,write-in,0
+Grant,Washington 4,US Senate,,,write-in,0
+Grant,GRANT IN,US Senate,,,write-in,7
+Grant,Center  01,Secretary of State,,Rep,Connie Lawson,139
+Grant,Center  02,Secretary of State,,Rep,Connie Lawson,124
+Grant,Center  03,Secretary of State,,Rep,Connie Lawson,34
+Grant,Center  04,Secretary of State,,Rep,Connie Lawson,108
+Grant,Center  05,Secretary of State,,Rep,Connie Lawson,110
+Grant,Center  06,Secretary of State,,Rep,Connie Lawson,91
+Grant,Center  07,Secretary of State,,Rep,Connie Lawson,109
+Grant,Center  08,Secretary of State,,Rep,Connie Lawson,72
+Grant,Center  09,Secretary of State,,Rep,Connie Lawson,79
+Grant,Center  10,Secretary of State,,Rep,Connie Lawson,310
+Grant,Center  11,Secretary of State,,Rep,Connie Lawson,243
+Grant,Center  12,Secretary of State,,Rep,Connie Lawson,223
+Grant,Center  13,Secretary of State,,Rep,Connie Lawson,160
+Grant,Center  14,Secretary of State,,Rep,Connie Lawson,135
+Grant,Center  15,Secretary of State,,Rep,Connie Lawson,201
+Grant,Center  16,Secretary of State,,Rep,Connie Lawson,62
+Grant,Center  17,Secretary of State,,Rep,Connie Lawson,225
+Grant,Center  18,Secretary of State,,Rep,Connie Lawson,273
+Grant,Center  19,Secretary of State,,Rep,Connie Lawson,203
+Grant,Center  20,Secretary of State,,Rep,Connie Lawson,36
+Grant,Center  24,Secretary of State,,Rep,Connie Lawson,33
+Grant,Paramount 1,Secretary of State,,Rep,Connie Lawson,286
+Grant,Paramount 2,Secretary of State,,Rep,Connie Lawson,294
+Grant,Paramount 3,Secretary of State,,Rep,Connie Lawson,178
+Grant,Paramount 4,Secretary of State,,Rep,Connie Lawson,168
+Grant,Franklin 1,Secretary of State,,Rep,Connie Lawson,67
+Grant,Franklin 2,Secretary of State,,Rep,Connie Lawson,167
+Grant,Franklin 3,Secretary of State,,Rep,Connie Lawson,126
+Grant,Franklin 4,Secretary of State,,Rep,Connie Lawson,263
+Grant,Franklin 5,Secretary of State,,Rep,Connie Lawson,330
+Grant,Franklin 6,Secretary of State,,Rep,Connie Lawson,103
+Grant,Franklin 7,Secretary of State,,Rep,Connie Lawson,33
+Grant,Green,Secretary of State,,Rep,Connie Lawson,141
+Grant,Jefferson 1,Secretary of State,,Rep,Connie Lawson,461
+Grant,Jefferson 2,Secretary of State,,Rep,Connie Lawson,434
+Grant,Jefferson 3,Secretary of State,,Rep,Connie Lawson,255
+Grant,Liberty,Secretary of State,,Rep,Connie Lawson,307
+Grant,Mill 01,Secretary of State,,Rep,Connie Lawson,257
+Grant,Mill 02,Secretary of State,,Rep,Connie Lawson,232
+Grant,Mill 03,Secretary of State,,Rep,Connie Lawson,282
+Grant,Mill 04,Secretary of State,,Rep,Connie Lawson,210
+Grant,Mill 05,Secretary of State,,Rep,Connie Lawson,275
+Grant,Mill 06,Secretary of State,,Rep,Connie Lawson,259
+Grant,Mill 07,Secretary of State,,Rep,Connie Lawson,249
+Grant,Mill 08,Secretary of State,,Rep,Connie Lawson,113
+Grant,Mill 09,Secretary of State,,Rep,Connie Lawson,164
+Grant,Mill 10,Secretary of State,,Rep,Connie Lawson,165
+Grant,Mill 11,Secretary of State,,Rep,Connie Lawson,9
+Grant,Monroe,Secretary of State,,Rep,Connie Lawson,502
+Grant,Pleasant 1,Secretary of State,,Rep,Connie Lawson,493
+Grant,Pleasant 2,Secretary of State,,Rep,Connie Lawson,345
+Grant,Pleasant 3,Secretary of State,,Rep,Connie Lawson,369
+Grant,Pleasant 4,Secretary of State,,Rep,Connie Lawson,237
+Grant,Pleasant 5,Secretary of State,,Rep,Connie Lawson,184
+Grant,Pleasant 6,Secretary of State,,Rep,Connie Lawson,246
+Grant,Pleasant 7,Secretary of State,,Rep,Connie Lawson,191
+Grant,Richland,Secretary of State,,Rep,Connie Lawson,265
+Grant,Sims,Secretary of State,,Rep,Connie Lawson,522
+Grant,Van Buren,Secretary of State,,Rep,Connie Lawson,467
+Grant,Washington 1,Secretary of State,,Rep,Connie Lawson,200
+Grant,Washington 2,Secretary of State,,Rep,Connie Lawson,163
+Grant,Washington 3,Secretary of State,,Rep,Connie Lawson,390
+Grant,Washington 4,Secretary of State,,Rep,Connie Lawson,214
+Grant,GRANT IN,Secretary of State,,Rep,Connie Lawson,13586
+Grant,Center  01,Secretary of State,,Dem,Jim Harper,111
+Grant,Center  02,Secretary of State,,Dem,Jim Harper,95
+Grant,Center  03,Secretary of State,,Dem,Jim Harper,111
+Grant,Center  04,Secretary of State,,Dem,Jim Harper,94
+Grant,Center  05,Secretary of State,,Dem,Jim Harper,104
+Grant,Center  06,Secretary of State,,Dem,Jim Harper,123
+Grant,Center  07,Secretary of State,,Dem,Jim Harper,102
+Grant,Center  08,Secretary of State,,Dem,Jim Harper,201
+Grant,Center  09,Secretary of State,,Dem,Jim Harper,143
+Grant,Center  10,Secretary of State,,Dem,Jim Harper,96
+Grant,Center  11,Secretary of State,,Dem,Jim Harper,94
+Grant,Center  12,Secretary of State,,Dem,Jim Harper,131
+Grant,Center  13,Secretary of State,,Dem,Jim Harper,113
+Grant,Center  14,Secretary of State,,Dem,Jim Harper,57
+Grant,Center  15,Secretary of State,,Dem,Jim Harper,86
+Grant,Center  16,Secretary of State,,Dem,Jim Harper,113
+Grant,Center  17,Secretary of State,,Dem,Jim Harper,59
+Grant,Center  18,Secretary of State,,Dem,Jim Harper,81
+Grant,Center  19,Secretary of State,,Dem,Jim Harper,109
+Grant,Center  20,Secretary of State,,Dem,Jim Harper,22
+Grant,Center  24,Secretary of State,,Dem,Jim Harper,13
+Grant,Paramount 1,Secretary of State,,Dem,Jim Harper,111
+Grant,Paramount 2,Secretary of State,,Dem,Jim Harper,93
+Grant,Paramount 3,Secretary of State,,Dem,Jim Harper,51
+Grant,Paramount 4,Secretary of State,,Dem,Jim Harper,46
+Grant,Franklin 1,Secretary of State,,Dem,Jim Harper,53
+Grant,Franklin 2,Secretary of State,,Dem,Jim Harper,95
+Grant,Franklin 3,Secretary of State,,Dem,Jim Harper,93
+Grant,Franklin 4,Secretary of State,,Dem,Jim Harper,50
+Grant,Franklin 5,Secretary of State,,Dem,Jim Harper,125
+Grant,Franklin 6,Secretary of State,,Dem,Jim Harper,129
+Grant,Franklin 7,Secretary of State,,Dem,Jim Harper,27
+Grant,Green,Secretary of State,,Dem,Jim Harper,51
+Grant,Jefferson 1,Secretary of State,,Dem,Jim Harper,140
+Grant,Jefferson 2,Secretary of State,,Dem,Jim Harper,163
+Grant,Jefferson 3,Secretary of State,,Dem,Jim Harper,97
+Grant,Liberty,Secretary of State,,Dem,Jim Harper,71
+Grant,Mill 01,Secretary of State,,Dem,Jim Harper,132
+Grant,Mill 02,Secretary of State,,Dem,Jim Harper,117
+Grant,Mill 03,Secretary of State,,Dem,Jim Harper,96
+Grant,Mill 04,Secretary of State,,Dem,Jim Harper,72
+Grant,Mill 05,Secretary of State,,Dem,Jim Harper,78
+Grant,Mill 06,Secretary of State,,Dem,Jim Harper,127
+Grant,Mill 07,Secretary of State,,Dem,Jim Harper,78
+Grant,Mill 08,Secretary of State,,Dem,Jim Harper,46
+Grant,Mill 09,Secretary of State,,Dem,Jim Harper,74
+Grant,Mill 10,Secretary of State,,Dem,Jim Harper,71
+Grant,Mill 11,Secretary of State,,Dem,Jim Harper,9
+Grant,Monroe,Secretary of State,,Dem,Jim Harper,129
+Grant,Pleasant 1,Secretary of State,,Dem,Jim Harper,119
+Grant,Pleasant 2,Secretary of State,,Dem,Jim Harper,79
+Grant,Pleasant 3,Secretary of State,,Dem,Jim Harper,144
+Grant,Pleasant 4,Secretary of State,,Dem,Jim Harper,73
+Grant,Pleasant 5,Secretary of State,,Dem,Jim Harper,101
+Grant,Pleasant 6,Secretary of State,,Dem,Jim Harper,86
+Grant,Pleasant 7,Secretary of State,,Dem,Jim Harper,74
+Grant,Richland,Secretary of State,,Dem,Jim Harper,56
+Grant,Sims,Secretary of State,,Dem,Jim Harper,153
+Grant,Van Buren,Secretary of State,,Dem,Jim Harper,121
+Grant,Washington 1,Secretary of State,,Dem,Jim Harper,33
+Grant,Washington 2,Secretary of State,,Dem,Jim Harper,64
+Grant,Washington 3,Secretary of State,,Dem,Jim Harper,121
+Grant,Washington 4,Secretary of State,,Dem,Jim Harper,59
+Grant,GRANT IN,Secretary of State,,Dem,Jim Harper,5765
+Grant,Center  01,Secretary of State,,Lbt,Mark Rutherford,14
+Grant,Center  02,Secretary of State,,Lbt,Mark Rutherford,16
+Grant,Center  03,Secretary of State,,Lbt,Mark Rutherford,9
+Grant,Center  04,Secretary of State,,Lbt,Mark Rutherford,16
+Grant,Center  05,Secretary of State,,Lbt,Mark Rutherford,9
+Grant,Center  06,Secretary of State,,Lbt,Mark Rutherford,11
+Grant,Center  07,Secretary of State,,Lbt,Mark Rutherford,9
+Grant,Center  08,Secretary of State,,Lbt,Mark Rutherford,8
+Grant,Center  09,Secretary of State,,Lbt,Mark Rutherford,4
+Grant,Center  10,Secretary of State,,Lbt,Mark Rutherford,9
+Grant,Center  11,Secretary of State,,Lbt,Mark Rutherford,10
+Grant,Center  12,Secretary of State,,Lbt,Mark Rutherford,10
+Grant,Center  13,Secretary of State,,Lbt,Mark Rutherford,7
+Grant,Center  14,Secretary of State,,Lbt,Mark Rutherford,10
+Grant,Center  15,Secretary of State,,Lbt,Mark Rutherford,5
+Grant,Center  16,Secretary of State,,Lbt,Mark Rutherford,6
+Grant,Center  17,Secretary of State,,Lbt,Mark Rutherford,8
+Grant,Center  18,Secretary of State,,Lbt,Mark Rutherford,6
+Grant,Center  19,Secretary of State,,Lbt,Mark Rutherford,9
+Grant,Center  20,Secretary of State,,Lbt,Mark Rutherford,0
+Grant,Center  24,Secretary of State,,Lbt,Mark Rutherford,0
+Grant,Paramount 1,Secretary of State,,Lbt,Mark Rutherford,18
+Grant,Paramount 2,Secretary of State,,Lbt,Mark Rutherford,9
+Grant,Paramount 3,Secretary of State,,Lbt,Mark Rutherford,10
+Grant,Paramount 4,Secretary of State,,Lbt,Mark Rutherford,6
+Grant,Franklin 1,Secretary of State,,Lbt,Mark Rutherford,6
+Grant,Franklin 2,Secretary of State,,Lbt,Mark Rutherford,7
+Grant,Franklin 3,Secretary of State,,Lbt,Mark Rutherford,9
+Grant,Franklin 4,Secretary of State,,Lbt,Mark Rutherford,6
+Grant,Franklin 5,Secretary of State,,Lbt,Mark Rutherford,22
+Grant,Franklin 6,Secretary of State,,Lbt,Mark Rutherford,2
+Grant,Franklin 7,Secretary of State,,Lbt,Mark Rutherford,3
+Grant,Green,Secretary of State,,Lbt,Mark Rutherford,1
+Grant,Jefferson 1,Secretary of State,,Lbt,Mark Rutherford,12
+Grant,Jefferson 2,Secretary of State,,Lbt,Mark Rutherford,17
+Grant,Jefferson 3,Secretary of State,,Lbt,Mark Rutherford,10
+Grant,Liberty,Secretary of State,,Lbt,Mark Rutherford,7
+Grant,Mill 01,Secretary of State,,Lbt,Mark Rutherford,5
+Grant,Mill 02,Secretary of State,,Lbt,Mark Rutherford,7
+Grant,Mill 03,Secretary of State,,Lbt,Mark Rutherford,10
+Grant,Mill 04,Secretary of State,,Lbt,Mark Rutherford,10
+Grant,Mill 05,Secretary of State,,Lbt,Mark Rutherford,10
+Grant,Mill 06,Secretary of State,,Lbt,Mark Rutherford,10
+Grant,Mill 07,Secretary of State,,Lbt,Mark Rutherford,12
+Grant,Mill 08,Secretary of State,,Lbt,Mark Rutherford,11
+Grant,Mill 09,Secretary of State,,Lbt,Mark Rutherford,2
+Grant,Mill 10,Secretary of State,,Lbt,Mark Rutherford,3
+Grant,Mill 11,Secretary of State,,Lbt,Mark Rutherford,0
+Grant,Monroe,Secretary of State,,Lbt,Mark Rutherford,18
+Grant,Pleasant 1,Secretary of State,,Lbt,Mark Rutherford,17
+Grant,Pleasant 2,Secretary of State,,Lbt,Mark Rutherford,14
+Grant,Pleasant 3,Secretary of State,,Lbt,Mark Rutherford,9
+Grant,Pleasant 4,Secretary of State,,Lbt,Mark Rutherford,14
+Grant,Pleasant 5,Secretary of State,,Lbt,Mark Rutherford,6
+Grant,Pleasant 6,Secretary of State,,Lbt,Mark Rutherford,10
+Grant,Pleasant 7,Secretary of State,,Lbt,Mark Rutherford,5
+Grant,Richland,Secretary of State,,Lbt,Mark Rutherford,10
+Grant,Sims,Secretary of State,,Lbt,Mark Rutherford,21
+Grant,Van Buren,Secretary of State,,Lbt,Mark Rutherford,16
+Grant,Washington 1,Secretary of State,,Lbt,Mark Rutherford,2
+Grant,Washington 2,Secretary of State,,Lbt,Mark Rutherford,8
+Grant,Washington 3,Secretary of State,,Lbt,Mark Rutherford,13
+Grant,Washington 4,Secretary of State,,Lbt,Mark Rutherford,11
+Grant,GRANT IN,Secretary of State,,Lbt,Mark Rutherford,575
+Grant,Center  01,Secretary of State,,,write-in,0
+Grant,Center  02,Secretary of State,,,write-in,0
+Grant,Center  03,Secretary of State,,,write-in,0
+Grant,Center  04,Secretary of State,,,write-in,0
+Grant,Center  05,Secretary of State,,,write-in,0
+Grant,Center  06,Secretary of State,,,write-in,0
+Grant,Center  07,Secretary of State,,,write-in,0
+Grant,Center  08,Secretary of State,,,write-in,0
+Grant,Center  09,Secretary of State,,,write-in,0
+Grant,Center  10,Secretary of State,,,write-in,0
+Grant,Center  11,Secretary of State,,,write-in,0
+Grant,Center  12,Secretary of State,,,write-in,0
+Grant,Center  13,Secretary of State,,,write-in,0
+Grant,Center  14,Secretary of State,,,write-in,1
+Grant,Center  15,Secretary of State,,,write-in,0
+Grant,Center  16,Secretary of State,,,write-in,0
+Grant,Center  17,Secretary of State,,,write-in,0
+Grant,Center  18,Secretary of State,,,write-in,0
+Grant,Center  19,Secretary of State,,,write-in,0
+Grant,Center  20,Secretary of State,,,write-in,0
+Grant,Center  24,Secretary of State,,,write-in,0
+Grant,Paramount 1,Secretary of State,,,write-in,0
+Grant,Paramount 2,Secretary of State,,,write-in,1
+Grant,Paramount 3,Secretary of State,,,write-in,0
+Grant,Paramount 4,Secretary of State,,,write-in,0
+Grant,Franklin 1,Secretary of State,,,write-in,0
+Grant,Franklin 2,Secretary of State,,,write-in,0
+Grant,Franklin 3,Secretary of State,,,write-in,0
+Grant,Franklin 4,Secretary of State,,,write-in,1
+Grant,Franklin 5,Secretary of State,,,write-in,0
+Grant,Franklin 6,Secretary of State,,,write-in,0
+Grant,Franklin 7,Secretary of State,,,write-in,0
+Grant,Green,Secretary of State,,,write-in,0
+Grant,Jefferson 1,Secretary of State,,,write-in,0
+Grant,Jefferson 2,Secretary of State,,,write-in,0
+Grant,Jefferson 3,Secretary of State,,,write-in,0
+Grant,Liberty,Secretary of State,,,write-in,0
+Grant,Mill 01,Secretary of State,,,write-in,0
+Grant,Mill 02,Secretary of State,,,write-in,0
+Grant,Mill 03,Secretary of State,,,write-in,0
+Grant,Mill 04,Secretary of State,,,write-in,1
+Grant,Mill 05,Secretary of State,,,write-in,0
+Grant,Mill 06,Secretary of State,,,write-in,0
+Grant,Mill 07,Secretary of State,,,write-in,0
+Grant,Mill 08,Secretary of State,,,write-in,0
+Grant,Mill 09,Secretary of State,,,write-in,0
+Grant,Mill 10,Secretary of State,,,write-in,1
+Grant,Mill 11,Secretary of State,,,write-in,0
+Grant,Monroe,Secretary of State,,,write-in,0
+Grant,Pleasant 1,Secretary of State,,,write-in,0
+Grant,Pleasant 2,Secretary of State,,,write-in,0
+Grant,Pleasant 3,Secretary of State,,,write-in,0
+Grant,Pleasant 4,Secretary of State,,,write-in,0
+Grant,Pleasant 5,Secretary of State,,,write-in,0
+Grant,Pleasant 6,Secretary of State,,,write-in,0
+Grant,Pleasant 7,Secretary of State,,,write-in,0
+Grant,Richland,Secretary of State,,,write-in,0
+Grant,Sims,Secretary of State,,,write-in,0
+Grant,Van Buren,Secretary of State,,,write-in,0
+Grant,Washington 1,Secretary of State,,,write-in,0
+Grant,Washington 2,Secretary of State,,,write-in,0
+Grant,Washington 3,Secretary of State,,,write-in,0
+Grant,Washington 4,Secretary of State,,,write-in,0
+Grant,GRANT IN,Secretary of State,,,write-in,5
+Grant,Center  01,Auditor,,Rep,Tera Klutz,125
+Grant,Center  02,Auditor,,Rep,Tera Klutz,112
+Grant,Center  03,Auditor,,Rep,Tera Klutz,28
+Grant,Center  04,Auditor,,Rep,Tera Klutz,101
+Grant,Center  05,Auditor,,Rep,Tera Klutz,94
+Grant,Center  06,Auditor,,Rep,Tera Klutz,83
+Grant,Center  07,Auditor,,Rep,Tera Klutz,97
+Grant,Center  08,Auditor,,Rep,Tera Klutz,63
+Grant,Center  09,Auditor,,Rep,Tera Klutz,65
+Grant,Center  10,Auditor,,Rep,Tera Klutz,294
+Grant,Center  11,Auditor,,Rep,Tera Klutz,228
+Grant,Center  12,Auditor,,Rep,Tera Klutz,205
+Grant,Center  13,Auditor,,Rep,Tera Klutz,143
+Grant,Center  14,Auditor,,Rep,Tera Klutz,125
+Grant,Center  15,Auditor,,Rep,Tera Klutz,180
+Grant,Center  16,Auditor,,Rep,Tera Klutz,51
+Grant,Center  17,Auditor,,Rep,Tera Klutz,217
+Grant,Center  18,Auditor,,Rep,Tera Klutz,241
+Grant,Center  19,Auditor,,Rep,Tera Klutz,190
+Grant,Center  20,Auditor,,Rep,Tera Klutz,34
+Grant,Center  24,Auditor,,Rep,Tera Klutz,35
+Grant,Paramount 1,Auditor,,Rep,Tera Klutz,277
+Grant,Paramount 2,Auditor,,Rep,Tera Klutz,276
+Grant,Paramount 3,Auditor,,Rep,Tera Klutz,173
+Grant,Paramount 4,Auditor,,Rep,Tera Klutz,158
+Grant,Franklin 1,Auditor,,Rep,Tera Klutz,61
+Grant,Franklin 2,Auditor,,Rep,Tera Klutz,152
+Grant,Franklin 3,Auditor,,Rep,Tera Klutz,109
+Grant,Franklin 4,Auditor,,Rep,Tera Klutz,250
+Grant,Franklin 5,Auditor,,Rep,Tera Klutz,308
+Grant,Franklin 6,Auditor,,Rep,Tera Klutz,87
+Grant,Franklin 7,Auditor,,Rep,Tera Klutz,31
+Grant,Green,Auditor,,Rep,Tera Klutz,137
+Grant,Jefferson 1,Auditor,,Rep,Tera Klutz,434
+Grant,Jefferson 2,Auditor,,Rep,Tera Klutz,420
+Grant,Jefferson 3,Auditor,,Rep,Tera Klutz,262
+Grant,Liberty,Auditor,,Rep,Tera Klutz,297
+Grant,Mill 01,Auditor,,Rep,Tera Klutz,247
+Grant,Mill 02,Auditor,,Rep,Tera Klutz,209
+Grant,Mill 03,Auditor,,Rep,Tera Klutz,277
+Grant,Mill 04,Auditor,,Rep,Tera Klutz,192
+Grant,Mill 05,Auditor,,Rep,Tera Klutz,270
+Grant,Mill 06,Auditor,,Rep,Tera Klutz,236
+Grant,Mill 07,Auditor,,Rep,Tera Klutz,237
+Grant,Mill 08,Auditor,,Rep,Tera Klutz,105
+Grant,Mill 09,Auditor,,Rep,Tera Klutz,159
+Grant,Mill 10,Auditor,,Rep,Tera Klutz,164
+Grant,Mill 11,Auditor,,Rep,Tera Klutz,9
+Grant,Monroe,Auditor,,Rep,Tera Klutz,474
+Grant,Pleasant 1,Auditor,,Rep,Tera Klutz,461
+Grant,Pleasant 2,Auditor,,Rep,Tera Klutz,325
+Grant,Pleasant 3,Auditor,,Rep,Tera Klutz,355
+Grant,Pleasant 4,Auditor,,Rep,Tera Klutz,236
+Grant,Pleasant 5,Auditor,,Rep,Tera Klutz,168
+Grant,Pleasant 6,Auditor,,Rep,Tera Klutz,237
+Grant,Pleasant 7,Auditor,,Rep,Tera Klutz,172
+Grant,Richland,Auditor,,Rep,Tera Klutz,257
+Grant,Sims,Auditor,,Rep,Tera Klutz,500
+Grant,Van Buren,Auditor,,Rep,Tera Klutz,432
+Grant,Washington 1,Auditor,,Rep,Tera Klutz,187
+Grant,Washington 2,Auditor,,Rep,Tera Klutz,140
+Grant,Washington 3,Auditor,,Rep,Tera Klutz,364
+Grant,Washington 4,Auditor,,Rep,Tera Klutz,203
+Grant,GRANT IN,Auditor,,Rep,Tera Klutz,12759
+Grant,Center  01,Auditor,,Dem,Joselyn Whitticker,131
+Grant,Center  02,Auditor,,Dem,Joselyn Whitticker,110
+Grant,Center  03,Auditor,,Dem,Joselyn Whitticker,124
+Grant,Center  04,Auditor,,Dem,Joselyn Whitticker,107
+Grant,Center  05,Auditor,,Dem,Joselyn Whitticker,121
+Grant,Center  06,Auditor,,Dem,Joselyn Whitticker,140
+Grant,Center  07,Auditor,,Dem,Joselyn Whitticker,119
+Grant,Center  08,Auditor,,Dem,Joselyn Whitticker,216
+Grant,Center  09,Auditor,,Dem,Joselyn Whitticker,163
+Grant,Center  10,Auditor,,Dem,Joselyn Whitticker,108
+Grant,Center  11,Auditor,,Dem,Joselyn Whitticker,110
+Grant,Center  12,Auditor,,Dem,Joselyn Whitticker,146
+Grant,Center  13,Auditor,,Dem,Joselyn Whitticker,130
+Grant,Center  14,Auditor,,Dem,Joselyn Whitticker,65
+Grant,Center  15,Auditor,,Dem,Joselyn Whitticker,105
+Grant,Center  16,Auditor,,Dem,Joselyn Whitticker,127
+Grant,Center  17,Auditor,,Dem,Joselyn Whitticker,69
+Grant,Center  18,Auditor,,Dem,Joselyn Whitticker,108
+Grant,Center  19,Auditor,,Dem,Joselyn Whitticker,123
+Grant,Center  20,Auditor,,Dem,Joselyn Whitticker,24
+Grant,Center  24,Auditor,,Dem,Joselyn Whitticker,11
+Grant,Paramount 1,Auditor,,Dem,Joselyn Whitticker,126
+Grant,Paramount 2,Auditor,,Dem,Joselyn Whitticker,105
+Grant,Paramount 3,Auditor,,Dem,Joselyn Whitticker,53
+Grant,Paramount 4,Auditor,,Dem,Joselyn Whitticker,55
+Grant,Franklin 1,Auditor,,Dem,Joselyn Whitticker,62
+Grant,Franklin 2,Auditor,,Dem,Joselyn Whitticker,110
+Grant,Franklin 3,Auditor,,Dem,Joselyn Whitticker,109
+Grant,Franklin 4,Auditor,,Dem,Joselyn Whitticker,60
+Grant,Franklin 5,Auditor,,Dem,Joselyn Whitticker,157
+Grant,Franklin 6,Auditor,,Dem,Joselyn Whitticker,144
+Grant,Franklin 7,Auditor,,Dem,Joselyn Whitticker,28
+Grant,Green,Auditor,,Dem,Joselyn Whitticker,52
+Grant,Jefferson 1,Auditor,,Dem,Joselyn Whitticker,160
+Grant,Jefferson 2,Auditor,,Dem,Joselyn Whitticker,173
+Grant,Jefferson 3,Auditor,,Dem,Joselyn Whitticker,87
+Grant,Liberty,Auditor,,Dem,Joselyn Whitticker,76
+Grant,Mill 01,Auditor,,Dem,Joselyn Whitticker,135
+Grant,Mill 02,Auditor,,Dem,Joselyn Whitticker,136
+Grant,Mill 03,Auditor,,Dem,Joselyn Whitticker,102
+Grant,Mill 04,Auditor,,Dem,Joselyn Whitticker,91
+Grant,Mill 05,Auditor,,Dem,Joselyn Whitticker,82
+Grant,Mill 06,Auditor,,Dem,Joselyn Whitticker,143
+Grant,Mill 07,Auditor,,Dem,Joselyn Whitticker,91
+Grant,Mill 08,Auditor,,Dem,Joselyn Whitticker,56
+Grant,Mill 09,Auditor,,Dem,Joselyn Whitticker,78
+Grant,Mill 10,Auditor,,Dem,Joselyn Whitticker,71
+Grant,Mill 11,Auditor,,Dem,Joselyn Whitticker,10
+Grant,Monroe,Auditor,,Dem,Joselyn Whitticker,153
+Grant,Pleasant 1,Auditor,,Dem,Joselyn Whitticker,146
+Grant,Pleasant 2,Auditor,,Dem,Joselyn Whitticker,92
+Grant,Pleasant 3,Auditor,,Dem,Joselyn Whitticker,156
+Grant,Pleasant 4,Auditor,,Dem,Joselyn Whitticker,81
+Grant,Pleasant 5,Auditor,,Dem,Joselyn Whitticker,117
+Grant,Pleasant 6,Auditor,,Dem,Joselyn Whitticker,95
+Grant,Pleasant 7,Auditor,,Dem,Joselyn Whitticker,94
+Grant,Richland,Auditor,,Dem,Joselyn Whitticker,67
+Grant,Sims,Auditor,,Dem,Joselyn Whitticker,169
+Grant,Van Buren,Auditor,,Dem,Joselyn Whitticker,140
+Grant,Washington 1,Auditor,,Dem,Joselyn Whitticker,47
+Grant,Washington 2,Auditor,,Dem,Joselyn Whitticker,88
+Grant,Washington 3,Auditor,,Dem,Joselyn Whitticker,149
+Grant,Washington 4,Auditor,,Dem,Joselyn Whitticker,70
+Grant,GRANT IN,Auditor,,Dem,Joselyn Whitticker,6573
+Grant,Center  01,Auditor,,Lbt,John Schick,13
+Grant,Center  02,Auditor,,Lbt,John Schick,15
+Grant,Center  03,Auditor,,Lbt,John Schick,7
+Grant,Center  04,Auditor,,Lbt,John Schick,9
+Grant,Center  05,Auditor,,Lbt,John Schick,11
+Grant,Center  06,Auditor,,Lbt,John Schick,6
+Grant,Center  07,Auditor,,Lbt,John Schick,7
+Grant,Center  08,Auditor,,Lbt,John Schick,7
+Grant,Center  09,Auditor,,Lbt,John Schick,3
+Grant,Center  10,Auditor,,Lbt,John Schick,12
+Grant,Center  11,Auditor,,Lbt,John Schick,10
+Grant,Center  12,Auditor,,Lbt,John Schick,11
+Grant,Center  13,Auditor,,Lbt,John Schick,6
+Grant,Center  14,Auditor,,Lbt,John Schick,11
+Grant,Center  15,Auditor,,Lbt,John Schick,7
+Grant,Center  16,Auditor,,Lbt,John Schick,6
+Grant,Center  17,Auditor,,Lbt,John Schick,6
+Grant,Center  18,Auditor,,Lbt,John Schick,8
+Grant,Center  19,Auditor,,Lbt,John Schick,7
+Grant,Center  20,Auditor,,Lbt,John Schick,1
+Grant,Center  24,Auditor,,Lbt,John Schick,0
+Grant,Paramount 1,Auditor,,Lbt,John Schick,14
+Grant,Paramount 2,Auditor,,Lbt,John Schick,12
+Grant,Paramount 3,Auditor,,Lbt,John Schick,12
+Grant,Paramount 4,Auditor,,Lbt,John Schick,6
+Grant,Franklin 1,Auditor,,Lbt,John Schick,4
+Grant,Franklin 2,Auditor,,Lbt,John Schick,6
+Grant,Franklin 3,Auditor,,Lbt,John Schick,10
+Grant,Franklin 4,Auditor,,Lbt,John Schick,7
+Grant,Franklin 5,Auditor,,Lbt,John Schick,14
+Grant,Franklin 6,Auditor,,Lbt,John Schick,4
+Grant,Franklin 7,Auditor,,Lbt,John Schick,4
+Grant,Green,Auditor,,Lbt,John Schick,2
+Grant,Jefferson 1,Auditor,,Lbt,John Schick,16
+Grant,Jefferson 2,Auditor,,Lbt,John Schick,18
+Grant,Jefferson 3,Auditor,,Lbt,John Schick,8
+Grant,Liberty,Auditor,,Lbt,John Schick,9
+Grant,Mill 01,Auditor,,Lbt,John Schick,9
+Grant,Mill 02,Auditor,,Lbt,John Schick,8
+Grant,Mill 03,Auditor,,Lbt,John Schick,11
+Grant,Mill 04,Auditor,,Lbt,John Schick,9
+Grant,Mill 05,Auditor,,Lbt,John Schick,10
+Grant,Mill 06,Auditor,,Lbt,John Schick,14
+Grant,Mill 07,Auditor,,Lbt,John Schick,8
+Grant,Mill 08,Auditor,,Lbt,John Schick,6
+Grant,Mill 09,Auditor,,Lbt,John Schick,4
+Grant,Mill 10,Auditor,,Lbt,John Schick,4
+Grant,Mill 11,Auditor,,Lbt,John Schick,0
+Grant,Monroe,Auditor,,Lbt,John Schick,16
+Grant,Pleasant 1,Auditor,,Lbt,John Schick,20
+Grant,Pleasant 2,Auditor,,Lbt,John Schick,18
+Grant,Pleasant 3,Auditor,,Lbt,John Schick,12
+Grant,Pleasant 4,Auditor,,Lbt,John Schick,8
+Grant,Pleasant 5,Auditor,,Lbt,John Schick,7
+Grant,Pleasant 6,Auditor,,Lbt,John Schick,13
+Grant,Pleasant 7,Auditor,,Lbt,John Schick,6
+Grant,Richland,Auditor,,Lbt,John Schick,9
+Grant,Sims,Auditor,,Lbt,John Schick,21
+Grant,Van Buren,Auditor,,Lbt,John Schick,25
+Grant,Washington 1,Auditor,,Lbt,John Schick,3
+Grant,Washington 2,Auditor,,Lbt,John Schick,9
+Grant,Washington 3,Auditor,,Lbt,John Schick,12
+Grant,Washington 4,Auditor,,Lbt,John Schick,11
+Grant,GRANT IN,Auditor,,Lbt,John Schick,582
+Grant,Center  01,Treasurer,,Rep,Kelly Mitchell,145
+Grant,Center  02,Treasurer,,Rep,Kelly Mitchell,131
+Grant,Center  03,Treasurer,,Rep,Kelly Mitchell,37
+Grant,Center  04,Treasurer,,Rep,Kelly Mitchell,113
+Grant,Center  05,Treasurer,,Rep,Kelly Mitchell,119
+Grant,Center  06,Treasurer,,Rep,Kelly Mitchell,94
+Grant,Center  07,Treasurer,,Rep,Kelly Mitchell,113
+Grant,Center  08,Treasurer,,Rep,Kelly Mitchell,71
+Grant,Center  09,Treasurer,,Rep,Kelly Mitchell,79
+Grant,Center  10,Treasurer,,Rep,Kelly Mitchell,312
+Grant,Center  11,Treasurer,,Rep,Kelly Mitchell,247
+Grant,Center  12,Treasurer,,Rep,Kelly Mitchell,222
+Grant,Center  13,Treasurer,,Rep,Kelly Mitchell,160
+Grant,Center  14,Treasurer,,Rep,Kelly Mitchell,142
+Grant,Center  15,Treasurer,,Rep,Kelly Mitchell,206
+Grant,Center  16,Treasurer,,Rep,Kelly Mitchell,60
+Grant,Center  17,Treasurer,,Rep,Kelly Mitchell,230
+Grant,Center  18,Treasurer,,Rep,Kelly Mitchell,268
+Grant,Center  19,Treasurer,,Rep,Kelly Mitchell,206
+Grant,Center  20,Treasurer,,Rep,Kelly Mitchell,37
+Grant,Center  24,Treasurer,,Rep,Kelly Mitchell,32
+Grant,Paramount 1,Treasurer,,Rep,Kelly Mitchell,286
+Grant,Paramount 2,Treasurer,,Rep,Kelly Mitchell,293
+Grant,Paramount 3,Treasurer,,Rep,Kelly Mitchell,181
+Grant,Paramount 4,Treasurer,,Rep,Kelly Mitchell,167
+Grant,Franklin 1,Treasurer,,Rep,Kelly Mitchell,71
+Grant,Franklin 2,Treasurer,,Rep,Kelly Mitchell,166
+Grant,Franklin 3,Treasurer,,Rep,Kelly Mitchell,130
+Grant,Franklin 4,Treasurer,,Rep,Kelly Mitchell,260
+Grant,Franklin 5,Treasurer,,Rep,Kelly Mitchell,341
+Grant,Franklin 6,Treasurer,,Rep,Kelly Mitchell,98
+Grant,Franklin 7,Treasurer,,Rep,Kelly Mitchell,33
+Grant,Green,Treasurer,,Rep,Kelly Mitchell,140
+Grant,Jefferson 1,Treasurer,,Rep,Kelly Mitchell,461
+Grant,Jefferson 2,Treasurer,,Rep,Kelly Mitchell,444
+Grant,Jefferson 3,Treasurer,,Rep,Kelly Mitchell,265
+Grant,Liberty,Treasurer,,Rep,Kelly Mitchell,306
+Grant,Mill 01,Treasurer,,Rep,Kelly Mitchell,262
+Grant,Mill 02,Treasurer,,Rep,Kelly Mitchell,234
+Grant,Mill 03,Treasurer,,Rep,Kelly Mitchell,287
+Grant,Mill 04,Treasurer,,Rep,Kelly Mitchell,211
+Grant,Mill 05,Treasurer,,Rep,Kelly Mitchell,280
+Grant,Mill 06,Treasurer,,Rep,Kelly Mitchell,256
+Grant,Mill 07,Treasurer,,Rep,Kelly Mitchell,249
+Grant,Mill 08,Treasurer,,Rep,Kelly Mitchell,116
+Grant,Mill 09,Treasurer,,Rep,Kelly Mitchell,167
+Grant,Mill 10,Treasurer,,Rep,Kelly Mitchell,170
+Grant,Mill 11,Treasurer,,Rep,Kelly Mitchell,9
+Grant,Monroe,Treasurer,,Rep,Kelly Mitchell,504
+Grant,Pleasant 1,Treasurer,,Rep,Kelly Mitchell,496
+Grant,Pleasant 2,Treasurer,,Rep,Kelly Mitchell,347
+Grant,Pleasant 3,Treasurer,,Rep,Kelly Mitchell,377
+Grant,Pleasant 4,Treasurer,,Rep,Kelly Mitchell,246
+Grant,Pleasant 5,Treasurer,,Rep,Kelly Mitchell,184
+Grant,Pleasant 6,Treasurer,,Rep,Kelly Mitchell,254
+Grant,Pleasant 7,Treasurer,,Rep,Kelly Mitchell,196
+Grant,Richland,Treasurer,,Rep,Kelly Mitchell,273
+Grant,Sims,Treasurer,,Rep,Kelly Mitchell,532
+Grant,Van Buren,Treasurer,,Rep,Kelly Mitchell,464
+Grant,Washington 1,Treasurer,,Rep,Kelly Mitchell,197
+Grant,Washington 2,Treasurer,,Rep,Kelly Mitchell,159
+Grant,Washington 3,Treasurer,,Rep,Kelly Mitchell,400
+Grant,Washington 4,Treasurer,,Rep,Kelly Mitchell,216
+Grant,GRANT IN,Treasurer,,Rep,Kelly Mitchell,13752
+Grant,Center  01,Treasurer,,Dem,John Aguilera,117
+Grant,Center  02,Treasurer,,Dem,John Aguilera,101
+Grant,Center  03,Treasurer,,Dem,John Aguilera,116
+Grant,Center  04,Treasurer,,Dem,John Aguilera,101
+Grant,Center  05,Treasurer,,Dem,John Aguilera,106
+Grant,Center  06,Treasurer,,Dem,John Aguilera,129
+Grant,Center  07,Treasurer,,Dem,John Aguilera,104
+Grant,Center  08,Treasurer,,Dem,John Aguilera,210
+Grant,Center  09,Treasurer,,Dem,John Aguilera,145
+Grant,Center  10,Treasurer,,Dem,John Aguilera,98
+Grant,Center  11,Treasurer,,Dem,John Aguilera,101
+Grant,Center  12,Treasurer,,Dem,John Aguilera,134
+Grant,Center  13,Treasurer,,Dem,John Aguilera,120
+Grant,Center  14,Treasurer,,Dem,John Aguilera,61
+Grant,Center  15,Treasurer,,Dem,John Aguilera,89
+Grant,Center  16,Treasurer,,Dem,John Aguilera,121
+Grant,Center  17,Treasurer,,Dem,John Aguilera,59
+Grant,Center  18,Treasurer,,Dem,John Aguilera,86
+Grant,Center  19,Treasurer,,Dem,John Aguilera,117
+Grant,Center  20,Treasurer,,Dem,John Aguilera,21
+Grant,Center  24,Treasurer,,Dem,John Aguilera,13
+Grant,Paramount 1,Treasurer,,Dem,John Aguilera,127
+Grant,Paramount 2,Treasurer,,Dem,John Aguilera,102
+Grant,Paramount 3,Treasurer,,Dem,John Aguilera,57
+Grant,Paramount 4,Treasurer,,Dem,John Aguilera,51
+Grant,Franklin 1,Treasurer,,Dem,John Aguilera,55
+Grant,Franklin 2,Treasurer,,Dem,John Aguilera,100
+Grant,Franklin 3,Treasurer,,Dem,John Aguilera,97
+Grant,Franklin 4,Treasurer,,Dem,John Aguilera,54
+Grant,Franklin 5,Treasurer,,Dem,John Aguilera,132
+Grant,Franklin 6,Treasurer,,Dem,John Aguilera,134
+Grant,Franklin 7,Treasurer,,Dem,John Aguilera,30
+Grant,Green,Treasurer,,Dem,John Aguilera,50
+Grant,Jefferson 1,Treasurer,,Dem,John Aguilera,148
+Grant,Jefferson 2,Treasurer,,Dem,John Aguilera,168
+Grant,Jefferson 3,Treasurer,,Dem,John Aguilera,89
+Grant,Liberty,Treasurer,,Dem,John Aguilera,73
+Grant,Mill 01,Treasurer,,Dem,John Aguilera,129
+Grant,Mill 02,Treasurer,,Dem,John Aguilera,121
+Grant,Mill 03,Treasurer,,Dem,John Aguilera,100
+Grant,Mill 04,Treasurer,,Dem,John Aguilera,78
+Grant,Mill 05,Treasurer,,Dem,John Aguilera,81
+Grant,Mill 06,Treasurer,,Dem,John Aguilera,136
+Grant,Mill 07,Treasurer,,Dem,John Aguilera,85
+Grant,Mill 08,Treasurer,,Dem,John Aguilera,49
+Grant,Mill 09,Treasurer,,Dem,John Aguilera,74
+Grant,Mill 10,Treasurer,,Dem,John Aguilera,70
+Grant,Mill 11,Treasurer,,Dem,John Aguilera,10
+Grant,Monroe,Treasurer,,Dem,John Aguilera,139
+Grant,Pleasant 1,Treasurer,,Dem,John Aguilera,128
+Grant,Pleasant 2,Treasurer,,Dem,John Aguilera,88
+Grant,Pleasant 3,Treasurer,,Dem,John Aguilera,142
+Grant,Pleasant 4,Treasurer,,Dem,John Aguilera,71
+Grant,Pleasant 5,Treasurer,,Dem,John Aguilera,105
+Grant,Pleasant 6,Treasurer,,Dem,John Aguilera,87
+Grant,Pleasant 7,Treasurer,,Dem,John Aguilera,75
+Grant,Richland,Treasurer,,Dem,John Aguilera,58
+Grant,Sims,Treasurer,,Dem,John Aguilera,157
+Grant,Van Buren,Treasurer,,Dem,John Aguilera,133
+Grant,Washington 1,Treasurer,,Dem,John Aguilera,40
+Grant,Washington 2,Treasurer,,Dem,John Aguilera,72
+Grant,Washington 3,Treasurer,,Dem,John Aguilera,125
+Grant,Washington 4,Treasurer,,Dem,John Aguilera,66
+Grant,GRANT IN,Treasurer,,Dem,John Aguilera,6035
+Grant,Center  01,US House,5,Rep,Susan Brooks,152
+Grant,Center  02,US House,5,Rep,Susan Brooks,132
+Grant,Center  03,US House,5,Rep,Susan Brooks,36
+Grant,Center  04,US House,5,Rep,Susan Brooks,118
+Grant,Center  05,US House,5,Rep,Susan Brooks,118
+Grant,Center  06,US House,5,Rep,Susan Brooks,105
+Grant,Center  07,US House,5,Rep,Susan Brooks,119
+Grant,Center  08,US House,5,Rep,Susan Brooks,75
+Grant,Center  09,US House,5,Rep,Susan Brooks,72
+Grant,Center  10,US House,5,Rep,Susan Brooks,321
+Grant,Center  11,US House,5,Rep,Susan Brooks,247
+Grant,Center  12,US House,5,Rep,Susan Brooks,235
+Grant,Center  13,US House,5,Rep,Susan Brooks,164
+Grant,Center  14,US House,5,Rep,Susan Brooks,140
+Grant,Center  15,US House,5,Rep,Susan Brooks,213
+Grant,Center  16,US House,5,Rep,Susan Brooks,59
+Grant,Center  17,US House,5,Rep,Susan Brooks,229
+Grant,Center  18,US House,5,Rep,Susan Brooks,273
+Grant,Center  19,US House,5,Rep,Susan Brooks,214
+Grant,Center  20,US House,5,Rep,Susan Brooks,41
+Grant,Center  24,US House,5,Rep,Susan Brooks,35
+Grant,Paramount 1,US House,5,Rep,Susan Brooks,293
+Grant,Paramount 2,US House,5,Rep,Susan Brooks,299
+Grant,Paramount 3,US House,5,Rep,Susan Brooks,182
+Grant,Paramount 4,US House,5,Rep,Susan Brooks,169
+Grant,Franklin 1,US House,5,Rep,Susan Brooks,77
+Grant,Franklin 2,US House,5,Rep,Susan Brooks,172
+Grant,Franklin 3,US House,5,Rep,Susan Brooks,126
+Grant,Franklin 4,US House,5,Rep,Susan Brooks,269
+Grant,Franklin 5,US House,5,Rep,Susan Brooks,344
+Grant,Franklin 6,US House,5,Rep,Susan Brooks,96
+Grant,Franklin 7,US House,5,Rep,Susan Brooks,35
+Grant,Green,US House,5,Rep,Susan Brooks,141
+Grant,Jefferson 1,US House,5,Rep,Susan Brooks,466
+Grant,Jefferson 2,US House,5,Rep,Susan Brooks,444
+Grant,Jefferson 3,US House,5,Rep,Susan Brooks,269
+Grant,Liberty,US House,5,Rep,Susan Brooks,312
+Grant,Mill 01,US House,5,Rep,Susan Brooks,264
+Grant,Mill 02,US House,5,Rep,Susan Brooks,237
+Grant,Mill 03,US House,5,Rep,Susan Brooks,292
+Grant,Mill 04,US House,5,Rep,Susan Brooks,219
+Grant,Mill 05,US House,5,Rep,Susan Brooks,284
+Grant,Mill 06,US House,5,Rep,Susan Brooks,266
+Grant,Mill 07,US House,5,Rep,Susan Brooks,250
+Grant,Mill 08,US House,5,Rep,Susan Brooks,124
+Grant,Mill 09,US House,5,Rep,Susan Brooks,170
+Grant,Mill 10,US House,5,Rep,Susan Brooks,169
+Grant,Mill 11,US House,5,Rep,Susan Brooks,9
+Grant,Monroe,US House,5,Rep,Susan Brooks,522
+Grant,Pleasant 1,US House,5,Rep,Susan Brooks,493
+Grant,Pleasant 2,US House,5,Rep,Susan Brooks,361
+Grant,Pleasant 3,US House,5,Rep,Susan Brooks,381
+Grant,Pleasant 4,US House,5,Rep,Susan Brooks,258
+Grant,Pleasant 5,US House,5,Rep,Susan Brooks,192
+Grant,Pleasant 6,US House,5,Rep,Susan Brooks,259
+Grant,Pleasant 7,US House,5,Rep,Susan Brooks,194
+Grant,Richland,US House,5,Rep,Susan Brooks,283
+Grant,Sims,US House,5,Rep,Susan Brooks,547
+Grant,Van Buren,US House,5,Rep,Susan Brooks,475
+Grant,Washington 1,US House,5,Rep,Susan Brooks,199
+Grant,Washington 2,US House,5,Rep,Susan Brooks,170
+Grant,Washington 3,US House,5,Rep,Susan Brooks,399
+Grant,Washington 4,US House,5,Rep,Susan Brooks,217
+Grant,GRANT IN,US House,6,Rep,Susan Brooks,14026
+Grant,Center  01,US House,5,Dem,Dee Thornton,114
+Grant,Center  02,US House,5,Dem,Dee Thornton,103
+Grant,Center  03,US House,5,Dem,Dee Thornton,121
+Grant,Center  04,US House,5,Dem,Dee Thornton,100
+Grant,Center  05,US House,5,Dem,Dee Thornton,104
+Grant,Center  06,US House,5,Dem,Dee Thornton,122
+Grant,Center  07,US House,5,Dem,Dee Thornton,103
+Grant,Center  08,US House,5,Dem,Dee Thornton,207
+Grant,Center  09,US House,5,Dem,Dee Thornton,152
+Grant,Center  10,US House,5,Dem,Dee Thornton,96
+Grant,Center  11,US House,5,Dem,Dee Thornton,96
+Grant,Center  12,US House,5,Dem,Dee Thornton,124
+Grant,Center  13,US House,5,Dem,Dee Thornton,118
+Grant,Center  14,US House,5,Dem,Dee Thornton,62
+Grant,Center  15,US House,5,Dem,Dee Thornton,81
+Grant,Center  16,US House,5,Dem,Dee Thornton,123
+Grant,Center  17,US House,5,Dem,Dee Thornton,58
+Grant,Center  18,US House,5,Dem,Dee Thornton,88
+Grant,Center  19,US House,5,Dem,Dee Thornton,109
+Grant,Center  20,US House,5,Dem,Dee Thornton,18
+Grant,Center  24,US House,5,Dem,Dee Thornton,12
+Grant,Paramount 1,US House,5,Dem,Dee Thornton,122
+Grant,Paramount 2,US House,5,Dem,Dee Thornton,99
+Grant,Paramount 3,US House,5,Dem,Dee Thornton,53
+Grant,Paramount 4,US House,5,Dem,Dee Thornton,48
+Grant,Franklin 1,US House,5,Dem,Dee Thornton,52
+Grant,Franklin 2,US House,5,Dem,Dee Thornton,97
+Grant,Franklin 3,US House,5,Dem,Dee Thornton,99
+Grant,Franklin 4,US House,5,Dem,Dee Thornton,56
+Grant,Franklin 5,US House,5,Dem,Dee Thornton,135
+Grant,Franklin 6,US House,5,Dem,Dee Thornton,134
+Grant,Franklin 7,US House,5,Dem,Dee Thornton,28
+Grant,Green,US House,5,Dem,Dee Thornton,48
+Grant,Jefferson 1,US House,5,Dem,Dee Thornton,146
+Grant,Jefferson 2,US House,5,Dem,Dee Thornton,171
+Grant,Jefferson 3,US House,5,Dem,Dee Thornton,94
+Grant,Liberty,US House,5,Dem,Dee Thornton,71
+Grant,Mill 01,US House,5,Dem,Dee Thornton,131
+Grant,Mill 02,US House,5,Dem,Dee Thornton,118
+Grant,Mill 03,US House,5,Dem,Dee Thornton,97
+Grant,Mill 04,US House,5,Dem,Dee Thornton,76
+Grant,Mill 05,US House,5,Dem,Dee Thornton,79
+Grant,Mill 06,US House,5,Dem,Dee Thornton,128
+Grant,Mill 07,US House,5,Dem,Dee Thornton,84
+Grant,Mill 08,US House,5,Dem,Dee Thornton,45
+Grant,Mill 09,US House,5,Dem,Dee Thornton,69
+Grant,Mill 10,US House,5,Dem,Dee Thornton,71
+Grant,Mill 11,US House,5,Dem,Dee Thornton,10
+Grant,Monroe,US House,5,Dem,Dee Thornton,125
+Grant,Pleasant 1,US House,5,Dem,Dee Thornton,134
+Grant,Pleasant 2,US House,5,Dem,Dee Thornton,74
+Grant,Pleasant 3,US House,5,Dem,Dee Thornton,143
+Grant,Pleasant 4,US House,5,Dem,Dee Thornton,69
+Grant,Pleasant 5,US House,5,Dem,Dee Thornton,97
+Grant,Pleasant 6,US House,5,Dem,Dee Thornton,87
+Grant,Pleasant 7,US House,5,Dem,Dee Thornton,81
+Grant,Richland,US House,5,Dem,Dee Thornton,53
+Grant,Sims,US House,5,Dem,Dee Thornton,154
+Grant,Van Buren,US House,5,Dem,Dee Thornton,124
+Grant,Washington 1,US House,5,Dem,Dee Thornton,39
+Grant,Washington 2,US House,5,Dem,Dee Thornton,62
+Grant,Washington 3,US House,5,Dem,Dee Thornton,125
+Grant,Washington 4,US House,5,Dem,Dee Thornton,68
+Grant,GRANT IN,US House,6,Dem,Dee Thornton,5907
+Grant,Center  01,US House,5,,write-in,1
+Grant,Center  02,US House,5,,write-in,0
+Grant,Center  03,US House,5,,write-in,0
+Grant,Center  04,US House,5,,write-in,1
+Grant,Center  05,US House,5,,write-in,0
+Grant,Center  06,US House,5,,write-in,0
+Grant,Center  07,US House,5,,write-in,0
+Grant,Center  08,US House,5,,write-in,0
+Grant,Center  09,US House,5,,write-in,0
+Grant,Center  10,US House,5,,write-in,0
+Grant,Center  11,US House,5,,write-in,1
+Grant,Center  12,US House,5,,write-in,0
+Grant,Center  13,US House,5,,write-in,0
+Grant,Center  14,US House,5,,write-in,0
+Grant,Center  15,US House,5,,write-in,0
+Grant,Center  16,US House,5,,write-in,0
+Grant,Center  17,US House,5,,write-in,0
+Grant,Center  18,US House,5,,write-in,0
+Grant,Center  19,US House,5,,write-in,0
+Grant,Center  20,US House,5,,write-in,0
+Grant,Center  24,US House,5,,write-in,0
+Grant,Paramount 1,US House,5,,write-in,0
+Grant,Paramount 2,US House,5,,write-in,0
+Grant,Paramount 3,US House,5,,write-in,0
+Grant,Paramount 4,US House,5,,write-in,0
+Grant,Franklin 1,US House,5,,write-in,0
+Grant,Franklin 2,US House,5,,write-in,0
+Grant,Franklin 3,US House,5,,write-in,0
+Grant,Franklin 4,US House,5,,write-in,0
+Grant,Franklin 5,US House,5,,write-in,0
+Grant,Franklin 6,US House,5,,write-in,1
+Grant,Franklin 7,US House,5,,write-in,0
+Grant,Green,US House,5,,write-in,0
+Grant,Jefferson 1,US House,5,,write-in,0
+Grant,Jefferson 2,US House,5,,write-in,0
+Grant,Jefferson 3,US House,5,,write-in,0
+Grant,Liberty,US House,5,,write-in,0
+Grant,Mill 01,US House,5,,write-in,0
+Grant,Mill 02,US House,5,,write-in,0
+Grant,Mill 03,US House,5,,write-in,0
+Grant,Mill 04,US House,5,,write-in,0
+Grant,Mill 05,US House,5,,write-in,0
+Grant,Mill 06,US House,5,,write-in,0
+Grant,Mill 07,US House,5,,write-in,0
+Grant,Mill 08,US House,5,,write-in,0
+Grant,Mill 09,US House,5,,write-in,0
+Grant,Mill 10,US House,5,,write-in,0
+Grant,Mill 11,US House,5,,write-in,0
+Grant,Monroe,US House,5,,write-in,0
+Grant,Pleasant 1,US House,5,,write-in,0
+Grant,Pleasant 2,US House,5,,write-in,1
+Grant,Pleasant 3,US House,5,,write-in,0
+Grant,Pleasant 4,US House,5,,write-in,0
+Grant,Pleasant 5,US House,5,,write-in,0
+Grant,Pleasant 6,US House,5,,write-in,0
+Grant,Pleasant 7,US House,5,,write-in,0
+Grant,Richland,US House,5,,write-in,0
+Grant,Sims,US House,5,,write-in,1
+Grant,Van Buren,US House,5,,write-in,0
+Grant,Washington 1,US House,5,,write-in,0
+Grant,Washington 2,US House,5,,write-in,0
+Grant,Washington 3,US House,5,,write-in,0
+Grant,Washington 4,US House,5,,write-in,0
+Grant,GRANT IN,US House,6,,write-in,6
+Grant,Center  01,State Senate,17,Rep,Andy Zay,132
+Grant,Center  02,State Senate,17,Rep,Andy Zay,120
+Grant,Center  03,State Senate,17,Rep,Andy Zay,32
+Grant,Center  04,State Senate,17,Rep,Andy Zay,105
+Grant,Center  05,State Senate,17,Rep,Andy Zay,106
+Grant,Center  06,State Senate,17,Rep,Andy Zay,86
+Grant,Center  07,State Senate,17,Rep,Andy Zay,106
+Grant,Center  08,State Senate,17,Rep,Andy Zay,63
+Grant,Center  09,State Senate,17,Rep,Andy Zay,68
+Grant,Center  10,State Senate,17,Rep,Andy Zay,303
+Grant,Center  11,State Senate,17,Rep,Andy Zay,225
+Grant,Center  12,State Senate,17,Rep,Andy Zay,214
+Grant,Center  13,State Senate,17,Rep,Andy Zay,152
+Grant,Center  14,State Senate,21,Rep,James Buck,132
+Grant,Center  15,State Senate,17,Rep,Andy Zay,186
+Grant,Center  16,State Senate,17,Rep,Andy Zay,57
+Grant,Center  17,State Senate,17,Rep,Andy Zay,220
+Grant,Center  18,State Senate,17,Rep,Andy Zay,255
+Grant,Center  19,State Senate,17,Rep,Andy Zay,193
+Grant,Center  20,State Senate,17,Rep,Andy Zay,36
+Grant,Center  24,State Senate,17,Rep,Andy Zay,31
+Grant,Paramount 1,State Senate,19,Rep,Travis Holdman,311
+Grant,Paramount 2,State Senate,19,Rep,Travis Holdman,321
+Grant,Paramount 3,State Senate,19,Rep,Travis Holdman,194
+Grant,Paramount 4,State Senate,19,Rep,Travis Holdman,172
+Grant,Franklin 1,State Senate,21,Rep,James Buck,73
+Grant,Franklin 2,State Senate,21,Rep,James Buck,162
+Grant,Franklin 3,State Senate,21,Rep,James Buck,120
+Grant,Franklin 4,State Senate,21,Rep,James Buck,256
+Grant,Franklin 5,State Senate,21,Rep,James Buck,332
+Grant,Franklin 6,State Senate,21,Rep,James Buck,92
+Grant,Franklin 7,State Senate,21,Rep,James Buck,36
+Grant,Green,State Senate,21,Rep,James Buck,138
+Grant,Jefferson 1,State Senate,19,Rep,Travis Holdman,497
+Grant,Jefferson 2,State Senate,19,Rep,Travis Holdman,489
+Grant,Jefferson 3,State Senate,19,Rep,Travis Holdman,298
+Grant,Liberty,State Senate,19,Rep,Travis Holdman,318
+Grant,Mill 01,State Senate,19,Rep,Travis Holdman,299
+Grant,Mill 02,State Senate,19,Rep,Travis Holdman,250
+Grant,Mill 03,State Senate,19,Rep,Travis Holdman,312
+Grant,Mill 04,State Senate,19,Rep,Travis Holdman,229
+Grant,Mill 05,State Senate,19,Rep,Travis Holdman,304
+Grant,Mill 06,State Senate,19,Rep,Travis Holdman,290
+Grant,Mill 07,State Senate,19,Rep,Travis Holdman,255
+Grant,Mill 08,State Senate,19,Rep,Travis Holdman,127
+Grant,Mill 09,State Senate,19,Rep,Travis Holdman,175
+Grant,Mill 10,State Senate,19,Rep,Travis Holdman,180
+Grant,Mill 11,State Senate,19,Rep,Travis Holdman,12
+Grant,Monroe,State Senate,19,Rep,Travis Holdman,538
+Grant,Pleasant 1,State Senate,17,Rep,Andy Zay,469
+Grant,Pleasant 2,State Senate,17,Rep,Andy Zay,339
+Grant,Pleasant 3,State Senate,17,Rep,Andy Zay,355
+Grant,Pleasant 4,State Senate,17,Rep,Andy Zay,235
+Grant,Pleasant 5,State Senate,17,Rep,Andy Zay,168
+Grant,Pleasant 6,State Senate,17,Rep,Andy Zay,240
+Grant,Pleasant 7,State Senate,17,Rep,Andy Zay,179
+Grant,Richland,State Senate,17,Rep,Andy Zay,265
+Grant,Sims,State Senate,21,Rep,James Buck,514
+Grant,Van Buren,State Senate,17,Rep,Andy Zay,434
+Grant,Washington 1,State Senate,17,Rep,Andy Zay,192
+Grant,Washington 2,State Senate,17,Rep,Andy Zay,150
+Grant,Washington 3,State Senate,17,Rep,Andy Zay,384
+Grant,Washington 4,State Senate,17,Rep,Andy Zay,208
+Grant,GRANT IN,State Senate,17,Rep,Andy Zay,6308
+Grant,GRANT IN,State Senate,21,Rep,James Buck,1855
+Grant,GRANT IN,State Senate,19,Rep,Travis Holdman,5571
+Grant,Center  01,State Senate,17,Dem,Gary Snyder,132
+Grant,Center  02,State Senate,17,Dem,Gary Snyder,114
+Grant,Center  03,State Senate,17,Dem,Gary Snyder,123
+Grant,Center  04,State Senate,17,Dem,Gary Snyder,108
+Grant,Center  05,State Senate,17,Dem,Gary Snyder,117
+Grant,Center  06,State Senate,17,Dem,Gary Snyder,138
+Grant,Center  07,State Senate,17,Dem,Gary Snyder,113
+Grant,Center  08,State Senate,17,Dem,Gary Snyder,210
+Grant,Center  09,State Senate,17,Dem,Gary Snyder,158
+Grant,Center  10,State Senate,17,Dem,Gary Snyder,106
+Grant,Center  11,State Senate,17,Dem,Gary Snyder,115
+Grant,Center  12,State Senate,17,Dem,Gary Snyder,142
+Grant,Center  13,State Senate,17,Dem,Gary Snyder,126
+Grant,Center  14,State Senate,21,Dem,Christina Fivecoate,67
+Grant,Center  15,State Senate,17,Dem,Gary Snyder,105
+Grant,Center  16,State Senate,17,Dem,Gary Snyder,121
+Grant,Center  17,State Senate,17,Dem,Gary Snyder,68
+Grant,Center  18,State Senate,17,Dem,Gary Snyder,101
+Grant,Center  19,State Senate,17,Dem,Gary Snyder,128
+Grant,Center  20,State Senate,17,Dem,Gary Snyder,22
+Grant,Center  24,State Senate,17,Dem,Gary Snyder,14
+Grant,Franklin 1,State Senate,21,Dem,Christina Fivecoate,53
+Grant,Franklin 2,State Senate,21,Dem,Christina Fivecoate,104
+Grant,Franklin 3,State Senate,21,Dem,Christina Fivecoate,104
+Grant,Franklin 4,State Senate,21,Dem,Christina Fivecoate,57
+Grant,Franklin 5,State Senate,21,Dem,Christina Fivecoate,141
+Grant,Franklin 6,State Senate,21,Dem,Christina Fivecoate,136
+Grant,Franklin 7,State Senate,21,Dem,Christina Fivecoate,27
+Grant,Green,State Senate,21,Dem,Christina Fivecoate,49
+Grant,Pleasant 1,State Senate,17,Dem,Gary Snyder,158
+Grant,Pleasant 2,State Senate,17,Dem,Gary Snyder,93
+Grant,Pleasant 3,State Senate,17,Dem,Gary Snyder,162
+Grant,Pleasant 4,State Senate,17,Dem,Gary Snyder,83
+Grant,Pleasant 5,State Senate,17,Dem,Gary Snyder,119
+Grant,Pleasant 6,State Senate,17,Dem,Gary Snyder,99
+Grant,Pleasant 7,State Senate,17,Dem,Gary Snyder,90
+Grant,Richland,State Senate,17,Dem,Gary Snyder,67
+Grant,Sims,State Senate,21,Dem,Christina Fivecoate,170
+Grant,Van Buren,State Senate,17,Dem,Dave Cravens,156
+Grant,Washington 1,State Senate,17,Dem,Dave Cravens,45
+Grant,Washington 2,State Senate,17,Dem,Dave Cravens,75
+Grant,Washington 3,State Senate,17,Dem,Dave Cravens,136
+Grant,Washington 4,State Senate,17,Dem,Dave Cravens,78
+Grant,GRANT IN,State Senate,17,Dem,Gary Snyder,3622
+Grant,GRANT IN,State Senate,21,Dem,Christina Fivecoate,908
+Grant,Center  01,State House,31,Rep,Kevin Mahan,138
+Grant,Center  02,State House,31,Rep,Kevin Mahan,129
+Grant,Center  03,State House,31,Rep,Kevin Mahan,35
+Grant,Center  04,State House,31,Rep,Kevin Mahan,119
+Grant,Center  05,State House,31,Rep,Kevin Mahan,95
+Grant,Center  06,State House,31,Rep,Kevin Mahan,95
+Grant,Center  07,State House,31,Rep,Kevin Mahan,109
+Grant,Center  08,State House,31,Rep,Kevin Mahan,72
+Grant,Center  09,State House,31,Rep,Kevin Mahan,70
+Grant,Center  10,State House,31,Rep,Kevin Mahan,305
+Grant,Center  11,State House,31,Rep,Kevin Mahan,233
+Grant,Center  12,State House,31,Rep,Kevin Mahan,227
+Grant,Center  13,State House,31,Rep,Kevin Mahan,153
+Grant,Center  14,State House,30,Rep,Mike Karickhoff,161
+Grant,Center  15,State House,31,Rep,Kevin Mahan,208
+Grant,Center  16,State House,31,Rep,Kevin Mahan,60
+Grant,Center  17,State House,31,Rep,Kevin Mahan,220
+Grant,Center  18,State House,31,Rep,Kevin Mahan,252
+Grant,Center  19,State House,31,Rep,Kevin Mahan,209
+Grant,Center  20,State House,31,Rep,Kevin Mahan,35
+Grant,Center  24,State House,31,Rep,Kevin Mahan,34
+Grant,Paramount 1,State House,32,Rep,Tony Cook,279
+Grant,Paramount 2,State House,32,Rep,Tony Cook,276
+Grant,Paramount 3,State House,32,Rep,Tony Cook,175
+Grant,Paramount 4,State House,32,Rep,Tony Cook,161
+Grant,Franklin 1,State House,31,Rep,Kevin Mahan,69
+Grant,Franklin 2,State House,30,Rep,Mike Karickhoff,196
+Grant,Franklin 3,State House,30,Rep,Mike Karickhoff,141
+Grant,Franklin 4,State House,30,Rep,Mike Karickhoff,272
+Grant,Franklin 5,State House,30,Rep,Mike Karickhoff,380
+Grant,Franklin 6,State House,30,Rep,Mike Karickhoff,123
+Grant,Franklin 7,State House,31,Rep,Kevin Mahan,33
+Grant,Green,State House,32,Rep,Tony Cook,136
+Grant,Jefferson 1,State House,32,Rep,Tony Cook,444
+Grant,Jefferson 2,State House,32,Rep,Tony Cook,421
+Grant,Jefferson 3,State House,32,Rep,Tony Cook,249
+Grant,Liberty,State House,32,Rep,Tony Cook,303
+Grant,Mill 01,State House,31,Rep,Kevin Mahan,252
+Grant,Mill 02,State House,31,Rep,Kevin Mahan,225
+Grant,Mill 03,State House,31,Rep,Kevin Mahan,276
+Grant,Mill 04,State House,32,Rep,Tony Cook,205
+Grant,Mill 05,State House,32,Rep,Tony Cook,275
+Grant,Mill 06,State House,31,Rep,Kevin Mahan,243
+Grant,Mill 07,State House,31,Rep,Kevin Mahan,241
+Grant,Mill 08,State House,32,Rep,Tony Cook,108
+Grant,Mill 09,State House,31,Rep,Kevin Mahan,162
+Grant,Mill 10,State House,32,Rep,Tony Cook,163
+Grant,Mill 11,State House,31,Rep,Kevin Mahan,9
+Grant,Monroe,State House,31,Rep,Kevin Mahan,503
+Grant,Pleasant 1,State House,18,Rep,David Wolkins,468
+Grant,Pleasant 2,State House,18,Rep,David Wolkins,341
+Grant,Pleasant 3,State House,31,Rep,Kevin Mahan,367
+Grant,Pleasant 4,State House,31,Rep,Kevin Mahan,242
+Grant,Pleasant 5,State House,31,Rep,Kevin Mahan,179
+Grant,Pleasant 6,State House,31,Rep,Kevin Mahan,250
+Grant,Pleasant 7,State House,31,Rep,Kevin Mahan,190
+Grant,Richland,State House,18,Rep,David Wolkins,269
+Grant,Sims,State House,30,Rep,Mike Karickhoff,578
+Grant,Van Buren,State House,31,Rep,Kevin Mahan,450
+Grant,Washington 1,State House,31,Rep,Kevin Mahan,194
+Grant,Washington 2,State House,31,Rep,Kevin Mahan,156
+Grant,Washington 3,State House,31,Rep,Kevin Mahan,393
+Grant,Washington 4,State House,31,Rep,Kevin Mahan,219
+Grant,GRANT IN,State House,31,Rep,Kevin Mahan,7451
+Grant,GRANT IN,State House,30,Rep,Mike Karickhoff,1851
+Grant,GRANT IN,State House,18,Rep,David Wolkins,1078
+Grant,GRANT IN,State House,32,Rep,Tony Cook,3195
+Grant,Pleasant 1,State House,18,Dem,Dee Moore,160
+Grant,Pleasant 2,State House,18,Dem,Dee Moore,90
+Grant,Richland,State House,18,Dem,Dee Moore,63
+Grant,GRANT IN,State House,18,Dem,Dee Moore,313
+Grant,Center  01,State House,31,Dem,Lynn Johnson,127
+Grant,Center  02,State House,31,Dem,Lynn Johnson,106
+Grant,Center  03,State House,31,Dem,Lynn Johnson,121
+Grant,Center  04,State House,31,Dem,Lynn Johnson,97
+Grant,Center  05,State House,31,Dem,Lynn Johnson,127
+Grant,Center  06,State House,31,Dem,Lynn Johnson,134
+Grant,Center  07,State House,31,Dem,Lynn Johnson,110
+Grant,Center  08,State House,31,Dem,Lynn Johnson,207
+Grant,Center  09,State House,31,Dem,Lynn Johnson,158
+Grant,Center  10,State House,31,Dem,Lynn Johnson,106
+Grant,Center  11,State House,31,Dem,Lynn Johnson,112
+Grant,Center  12,State House,31,Dem,Lynn Johnson,135
+Grant,Center  13,State House,31,Dem,Lynn Johnson,124
+Grant,Center  15,State House,31,Dem,Lynn Johnson,84
+Grant,Center  16,State House,31,Dem,Lynn Johnson,120
+Grant,Center  17,State House,31,Dem,Lynn Johnson,66
+Grant,Center  18,State House,31,Dem,Lynn Johnson,106
+Grant,Center  19,State House,31,Dem,Lynn Johnson,113
+Grant,Center  20,State House,31,Dem,Lynn Johnson,24
+Grant,Center  24,State House,31,Dem,Lynn Johnson,11
+Grant,Franklin 1,State House,31,Dem,Lynn Johnson,57
+Grant,Franklin 7,State House,31,Dem,Lynn Johnson,30
+Grant,Mill 01,State House,31,Dem,Lynn Johnson,140
+Grant,Mill 02,State House,31,Dem,Lynn Johnson,129
+Grant,Mill 03,State House,31,Dem,Lynn Johnson,109
+Grant,Mill 06,State House,31,Dem,Lynn Johnson,152
+Grant,Mill 07,State House,31,Dem,Lynn Johnson,96
+Grant,Mill 09,State House,31,Dem,Lynn Johnson,78
+Grant,Mill 11,State House,31,Dem,Lynn Johnson,10
+Grant,Monroe,State House,31,Dem,Lynn Johnson,144
+Grant,Pleasant 3,State House,31,Dem,Lynn Johnson,157
+Grant,Pleasant 4,State House,31,Dem,Lynn Johnson,81
+Grant,Pleasant 5,State House,31,Dem,Lynn Johnson,109
+Grant,Pleasant 6,State House,31,Dem,Lynn Johnson,95
+Grant,Pleasant 7,State House,31,Dem,Lynn Johnson,80
+Grant,Van Buren,State House,31,Dem,Lynn Johnson,151
+Grant,Washington 1,State House,31,Dem,Lynn Johnson,44
+Grant,Washington 2,State House,31,Dem,Lynn Johnson,81
+Grant,Washington 3,State House,31,Dem,Lynn Johnson,129
+Grant,Washington 4,State House,31,Dem,Lynn Johnson,67
+Grant,GRANT IN,State House,31,Dem,Lynn Johnson,4127
+Grant,Paramount 1,State House,32,Dem,Amie Neiling,135
+Grant,Paramount 2,State House,32,Dem,Amie Neiling,116
+Grant,Paramount 3,State House,32,Dem,Amie Neiling,58
+Grant,Paramount 4,State House,32,Dem,Amie Neiling,53
+Grant,Green,State House,32,Dem,Amie Neiling,49
+Grant,Jefferson 1,State House,32,Dem,Amie Neiling,162
+Grant,Jefferson 2,State House,32,Dem,Amie Neiling,186
+Grant,Jefferson 3,State House,32,Dem,Amie Neiling,104
+Grant,Liberty,State House,32,Dem,Amie Neiling,76
+Grant,Mill 04,State House,32,Dem,Amie Neiling,84
+Grant,Mill 05,State House,32,Dem,Amie Neiling,83
+Grant,Mill 08,State House,32,Dem,Amie Neiling,58
+Grant,Mill 10,State House,32,Dem,Amie Neiling,76
+Grant,GRANT IN,State House,32,Dem,Amie Neiling,1240

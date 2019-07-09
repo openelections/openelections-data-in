@@ -1,4 +1,4 @@
-county,precinct,office,district,candidate,party,early_voting,election_day,votes
+county,precinct,office,district,candidate,party,absentee,election_day,votes
 Harrison,FEDERAL,Ballots Cast,,,,,,0
 Harrison,1,Ballots Cast,,,,,,387
 Harrison,2,Ballots Cast,,,,,,459
@@ -16,7 +16,7 @@ Harrison,38,Ballots Cast,,,,,,461
 Harrison,11,Ballots Cast,,,,,,279
 Harrison,35,Ballots Cast,,,,,,407
 Harrison,39,Ballots Cast,,,,,,316
-Harrison,12,Ballots Cast,,,,,,5241
+Harrison,12,Ballots Cast,,,,,,524
 Harrison,13,Ballots Cast,,,,,,497
 Harrison,14,Ballots Cast,,,,,,458
 Harrison,15,Ballots Cast,,,,,,225
@@ -39,135 +39,131 @@ Harrison,29,Ballots Cast,,,,,,303
 Harrison,31,Ballots Cast,,,,,,178
 Harrison,33,Ballots Cast,,,,,,374
 Harrison,34,Ballots Cast,,,,,,343
-Harrison,Total,Ballots Cast,,,,,,20551
-Harrison,FEDERAL,Straight Party,,Republican Party,,0,0,0
-Harrison,1,Straight Party,,Republican Party,,20,85,105
-Harrison,2,Straight Party,,Republican Party,,27,73,100
-Harrison,3,Straight Party,,Republican Party,,14,61,75
-Harrison,4,Straight Party,,Republican Party,,10,62,72
-Harrison,5,Straight Party,,Republican Party,,29,80,109
-Harrison,6,Straight Party,,Republican Party,,12,93,105
-Harrison,7,Straight Party,,Republican Party,,21,93,114
-Harrison,37,Straight Party,,Republican Party,,19,106,125
-Harrison,8,Straight Party,,Republican Party,,41,72,113
-Harrison,9,Straight Party,,Republican Party,,26,78,104
-Harrison,10,Straight Party,,Republican Party,,43,93,136
-Harrison,36,Straight Party,,Republican Party,,48,79,127
-Harrison,38,Straight Party,,Republican Party,,35,100,135
-Harrison,11,Straight Party,,Republican Party,,24,32,56
-Harrison,35,Straight Party,,Republican Party,,30,61,91
-Harrison,39,Straight Party,,Republican Party,,21,51,72
-Harrison,12,Straight Party,,Republican Party,,19,77,96
-Harrison,13,Straight Party,,Republican Party,,30,84,114
-Harrison,14,Straight Party,,Republican Party,,33,66,99
-Harrison,15,Straight Party,,Republican Party,,9,50,59
-Harrison,16,Straight Party,,Republican Party,,9,42,51
-Harrison,17,Straight Party,,Republican Party,,38,115,153
-Harrison,18,Straight Party,,Republican Party,,17,85,102
-Harrison,19,Straight Party,,Republican Party,,27,110,137
-Harrison,20,Straight Party,,Republican Party,,20,114,134
-Harrison,32,Straight Party,,Republican Party,,26,80,106
-Harrison,21,Straight Party,,Republican Party,,10,126,136
-Harrison,22,Straight Party,,Republican Party,,24,100,124
-Harrison,23,Straight Party,,Republican Party,,20,110,130
-Harrison,30,Straight Party,,Republican Party,,6,33,39
-Harrison,24,Straight Party,,Republican Party,,15,115,130
-Harrison,25,Straight Party,,Republican Party,,21,81,102
-Harrison,26,Straight Party,,Republican Party,,18,101,119
-Harrison,27,Straight Party,,Republican Party,,18,62,80
-Harrison,28,Straight Party,,Republican Party,,13,50,63
-Harrison,29,Straight Party,,Republican Party,,13,73,86
-Harrison,31,Straight Party,,Republican Party,,9,35,44
-Harrison,33,Straight Party,,Republican Party,,18,88,106
-Harrison,Total,Straight Party,,Republican Party,,833,3016,3849
-Harrison,FEDERAL,Straight Party,,Democratic Party,,0,0,0
-Harrison,1,Straight Party,,Democratic Party,,15,29,44
-Harrison,2,Straight Party,,Democratic Party,,12,37,49
-Harrison,3,Straight Party,,Democratic Party,,1,7,8
-Harrison,4,Straight Party,,Democratic Party,,2,20,22
-Harrison,5,Straight Party,,Democratic Party,,5,36,41
-Harrison,6,Straight Party,,Democratic Party,,16,21,37
-Harrison,7,Straight Party,,Democratic Party,,20,33,53
-Harrison,37,Straight Party,,Democratic Party,,6,42,48
-Harrison,8,Straight Party,,Democratic Party,,25,24,49
-Harrison,9,Straight Party,,Democratic Party,,13,26,39
-Harrison,10,Straight Party,,Democratic Party,,18,23,41
-Harrison,36,Straight Party,,Democratic Party,,27,25,52
-Harrison,38,Straight Party,,Democratic Party,,11,33,44
-Harrison,11,Straight Party,,Democratic Party,,16,14,30
-Harrison,35,Straight Party,,Democratic Party,,22,33,55
-Harrison,39,Straight Party,,Democratic Party,,14,12,26
-Harrison,12,Straight Party,,Democratic Party,,26,20,46
-Harrison,13,Straight Party,,Democratic Party,,12,27,39
-Harrison,14,Straight Party,,Democratic Party,,27,29,56
-Harrison,15,Straight Party,,Democratic Party,,1,10,11
-Harrison,16,Straight Party,,Democratic Party,,3,7,10
-Harrison,17,Straight Party,,Democratic Party,,25,48,73
-Harrison,18,Straight Party,,Democratic Party,,12,21,33
-Harrison,19,Straight Party,,Democratic Party,,6,55,61
-Harrison,20,Straight Party,,Democratic Party,,16,36,52
-Harrison,32,Straight Party,,Democratic Party,,16,26,42
-Harrison,21,Straight Party,,Democratic Party,,21,58,79
-Harrison,22,Straight Party,,Democratic Party,,9,37,46
-Harrison,23,Straight Party,,Democratic Party,,9,32,41
-Harrison,30,Straight Party,,Democratic Party,,2,8,10
-Harrison,24,Straight Party,,Democratic Party,,10,24,34
-Harrison,25,Straight Party,,Democratic Party,,5,14,19
-Harrison,26,Straight Party,,Democratic Party,,10,33,43
-Harrison,27,Straight Party,,Democratic Party,,7,24,31
-Harrison,28,Straight Party,,Democratic Party,,8,28,36
-Harrison,29,Straight Party,,Democratic Party,,7,29,36
-Harrison,31,Straight Party,,Democratic Party,,1,17,18
-Harrison,33,Straight Party,,Democratic Party,,2,17,19
-Harrison,Total,Straight Party,,Democratic Party,,458,1015,1473
-Harrison,FEDERAL,Straight Party,,Libertarian Party,,0,0,0
-Harrison,1,Straight Party,,Libertarian Party,,0,2,2
-Harrison,2,Straight Party,,Libertarian Party,,0,4,4
-Harrison,3,Straight Party,,Libertarian Party,,0,1,1
-Harrison,4,Straight Party,,Libertarian Party,,0,1,1
-Harrison,5,Straight Party,,Libertarian Party,,1,2,3
-Harrison,6,Straight Party,,Libertarian Party,,0,0,0
-Harrison,7,Straight Party,,Libertarian Party,,1,0,1
-Harrison,37,Straight Party,,Libertarian Party,,0,1,1
-Harrison,8,Straight Party,,Libertarian Party,,1,2,3
-Harrison,9,Straight Party,,Libertarian Party,,1,0,1
-Harrison,10,Straight Party,,Libertarian Party,,0,1,1
-Harrison,36,Straight Party,,Libertarian Party,,2,1,3
-Harrison,38,Straight Party,,Libertarian Party,,0,1,1
-Harrison,11,Straight Party,,Libertarian Party,,1,1,2
-Harrison,35,Straight Party,,Libertarian Party,,0,4,4
-Harrison,39,Straight Party,,Libertarian Party,,1,0,1
-Harrison,12,Straight Party,,Libertarian Party,,1,0,1
-Harrison,13,Straight Party,,Libertarian Party,,1,1,2
-Harrison,14,Straight Party,,Libertarian Party,,0,1,1
-Harrison,15,Straight Party,,Libertarian Party,,0,1,1
-Harrison,16,Straight Party,,Libertarian Party,,0,0,0
-Harrison,17,Straight Party,,Libertarian Party,,1,2,3
-Harrison,18,Straight Party,,Libertarian Party,,0,1,1
-Harrison,19,Straight Party,,Libertarian Party,,0,1,1
-Harrison,20,Straight Party,,Libertarian Party,,0,4,4
-Harrison,32,Straight Party,,Libertarian Party,,0,1,1
-Harrison,21,Straight Party,,Libertarian Party,,0,0,0
-Harrison,22,Straight Party,,Libertarian Party,,0,3,3
-Harrison,23,Straight Party,,Libertarian Party,,0,3,3
-Harrison,30,Straight Party,,Libertarian Party,,0,0,0
-Harrison,24,Straight Party,,Libertarian Party,,0,5,5
-Harrison,25,Straight Party,,Libertarian Party,,0,1,1
-Harrison,26,Straight Party,,Libertarian Party,,0,1,1
-Harrison,27,Straight Party,,Libertarian Party,,0,1,1
-Harrison,28,Straight Party,,Libertarian Party,,0,1,1
-Harrison,29,Straight Party,,Libertarian Party,,0,1,1
-Harrison,31,Straight Party,,Libertarian Party,,0,0,0
-Harrison,33,Straight Party,,Libertarian Party,,0,2,2
-Harrison,Total,Straight Party,,Libertarian Party,,11,51,62
+Harrison,FEDERAL,Straight Party,,Republican Party,REP,0,0,0
+Harrison,1,Straight Party,,Republican Party,REP,20,85,105
+Harrison,2,Straight Party,,Republican Party,REP,27,73,100
+Harrison,3,Straight Party,,Republican Party,REP,14,61,75
+Harrison,4,Straight Party,,Republican Party,REP,10,62,72
+Harrison,5,Straight Party,,Republican Party,REP,29,80,109
+Harrison,6,Straight Party,,Republican Party,REP,12,93,105
+Harrison,7,Straight Party,,Republican Party,REP,21,93,114
+Harrison,37,Straight Party,,Republican Party,REP,19,106,125
+Harrison,8,Straight Party,,Republican Party,REP,41,72,113
+Harrison,9,Straight Party,,Republican Party,REP,26,78,104
+Harrison,10,Straight Party,,Republican Party,REP,43,93,136
+Harrison,36,Straight Party,,Republican Party,REP,48,79,127
+Harrison,38,Straight Party,,Republican Party,REP,35,100,135
+Harrison,11,Straight Party,,Republican Party,REP,24,32,56
+Harrison,35,Straight Party,,Republican Party,REP,30,61,91
+Harrison,39,Straight Party,,Republican Party,REP,21,51,72
+Harrison,12,Straight Party,,Republican Party,REP,19,77,96
+Harrison,13,Straight Party,,Republican Party,REP,30,84,114
+Harrison,14,Straight Party,,Republican Party,REP,33,66,99
+Harrison,15,Straight Party,,Republican Party,REP,9,50,59
+Harrison,16,Straight Party,,Republican Party,REP,9,42,51
+Harrison,17,Straight Party,,Republican Party,REP,38,115,153
+Harrison,18,Straight Party,,Republican Party,REP,17,85,102
+Harrison,19,Straight Party,,Republican Party,REP,27,110,137
+Harrison,20,Straight Party,,Republican Party,REP,20,114,134
+Harrison,32,Straight Party,,Republican Party,REP,26,80,106
+Harrison,21,Straight Party,,Republican Party,REP,10,126,136
+Harrison,22,Straight Party,,Republican Party,REP,24,100,124
+Harrison,23,Straight Party,,Republican Party,REP,20,110,130
+Harrison,30,Straight Party,,Republican Party,REP,6,33,39
+Harrison,24,Straight Party,,Republican Party,REP,15,115,130
+Harrison,25,Straight Party,,Republican Party,REP,21,81,102
+Harrison,26,Straight Party,,Republican Party,REP,18,101,119
+Harrison,27,Straight Party,,Republican Party,REP,18,62,80
+Harrison,28,Straight Party,,Republican Party,REP,13,50,63
+Harrison,29,Straight Party,,Republican Party,REP,13,73,86
+Harrison,31,Straight Party,,Republican Party,REP,9,35,44
+Harrison,33,Straight Party,,Republican Party,REP,18,88,106
+Harrison,FEDERAL,Straight Party,,Democratic Party,DEM,0,0,0
+Harrison,1,Straight Party,,Democratic Party,DEM,15,29,44
+Harrison,2,Straight Party,,Democratic Party,DEM,12,37,49
+Harrison,3,Straight Party,,Democratic Party,DEM,1,7,8
+Harrison,4,Straight Party,,Democratic Party,DEM,2,20,22
+Harrison,5,Straight Party,,Democratic Party,DEM,5,36,41
+Harrison,6,Straight Party,,Democratic Party,DEM,16,21,37
+Harrison,7,Straight Party,,Democratic Party,DEM,20,33,53
+Harrison,37,Straight Party,,Democratic Party,DEM,6,42,48
+Harrison,8,Straight Party,,Democratic Party,DEM,25,24,49
+Harrison,9,Straight Party,,Democratic Party,DEM,13,26,39
+Harrison,10,Straight Party,,Democratic Party,DEM,18,23,41
+Harrison,36,Straight Party,,Democratic Party,DEM,27,25,52
+Harrison,38,Straight Party,,Democratic Party,DEM,11,33,44
+Harrison,11,Straight Party,,Democratic Party,DEM,16,14,30
+Harrison,35,Straight Party,,Democratic Party,DEM,22,33,55
+Harrison,39,Straight Party,,Democratic Party,DEM,14,12,26
+Harrison,12,Straight Party,,Democratic Party,DEM,26,20,46
+Harrison,13,Straight Party,,Democratic Party,DEM,12,27,39
+Harrison,14,Straight Party,,Democratic Party,DEM,27,29,56
+Harrison,15,Straight Party,,Democratic Party,DEM,1,10,11
+Harrison,16,Straight Party,,Democratic Party,DEM,3,7,10
+Harrison,17,Straight Party,,Democratic Party,DEM,25,48,73
+Harrison,18,Straight Party,,Democratic Party,DEM,12,21,33
+Harrison,19,Straight Party,,Democratic Party,DEM,6,55,61
+Harrison,20,Straight Party,,Democratic Party,DEM,16,36,52
+Harrison,32,Straight Party,,Democratic Party,DEM,16,26,42
+Harrison,21,Straight Party,,Democratic Party,DEM,21,58,79
+Harrison,22,Straight Party,,Democratic Party,DEM,9,37,46
+Harrison,23,Straight Party,,Democratic Party,DEM,9,32,41
+Harrison,30,Straight Party,,Democratic Party,DEM,2,8,10
+Harrison,24,Straight Party,,Democratic Party,DEM,10,24,34
+Harrison,25,Straight Party,,Democratic Party,DEM,5,14,19
+Harrison,26,Straight Party,,Democratic Party,DEM,10,33,43
+Harrison,27,Straight Party,,Democratic Party,DEM,7,24,31
+Harrison,28,Straight Party,,Democratic Party,DEM,8,28,36
+Harrison,29,Straight Party,,Democratic Party,DEM,7,29,36
+Harrison,31,Straight Party,,Democratic Party,DEM,1,17,18
+Harrison,33,Straight Party,,Democratic Party,DEM,2,17,19
+Harrison,FEDERAL,Straight Party,,Libertarian Party,LIB,0,0,0
+Harrison,1,Straight Party,,Libertarian Party,LIB,0,2,2
+Harrison,2,Straight Party,,Libertarian Party,LIB,0,4,4
+Harrison,3,Straight Party,,Libertarian Party,LIB,0,1,1
+Harrison,4,Straight Party,,Libertarian Party,LIB,0,1,1
+Harrison,5,Straight Party,,Libertarian Party,LIB,1,2,3
+Harrison,6,Straight Party,,Libertarian Party,LIB,0,0,0
+Harrison,7,Straight Party,,Libertarian Party,LIB,1,0,1
+Harrison,37,Straight Party,,Libertarian Party,LIB,0,1,1
+Harrison,8,Straight Party,,Libertarian Party,LIB,1,2,3
+Harrison,9,Straight Party,,Libertarian Party,LIB,1,0,1
+Harrison,10,Straight Party,,Libertarian Party,LIB,0,1,1
+Harrison,36,Straight Party,,Libertarian Party,LIB,2,1,3
+Harrison,38,Straight Party,,Libertarian Party,LIB,0,1,1
+Harrison,11,Straight Party,,Libertarian Party,LIB,1,1,2
+Harrison,35,Straight Party,,Libertarian Party,LIB,0,4,4
+Harrison,39,Straight Party,,Libertarian Party,LIB,1,0,1
+Harrison,12,Straight Party,,Libertarian Party,LIB,1,0,1
+Harrison,13,Straight Party,,Libertarian Party,LIB,1,1,2
+Harrison,14,Straight Party,,Libertarian Party,LIB,0,1,1
+Harrison,15,Straight Party,,Libertarian Party,LIB,0,1,1
+Harrison,16,Straight Party,,Libertarian Party,LIB,0,0,0
+Harrison,17,Straight Party,,Libertarian Party,LIB,1,2,3
+Harrison,18,Straight Party,,Libertarian Party,LIB,0,1,1
+Harrison,19,Straight Party,,Libertarian Party,LIB,0,1,1
+Harrison,20,Straight Party,,Libertarian Party,LIB,0,4,4
+Harrison,32,Straight Party,,Libertarian Party,LIB,0,1,1
+Harrison,21,Straight Party,,Libertarian Party,LIB,0,0,0
+Harrison,22,Straight Party,,Libertarian Party,LIB,0,3,3
+Harrison,23,Straight Party,,Libertarian Party,LIB,0,3,3
+Harrison,30,Straight Party,,Libertarian Party,LIB,0,0,0
+Harrison,24,Straight Party,,Libertarian Party,LIB,0,5,5
+Harrison,25,Straight Party,,Libertarian Party,LIB,0,1,1
+Harrison,26,Straight Party,,Libertarian Party,LIB,0,1,1
+Harrison,27,Straight Party,,Libertarian Party,LIB,0,1,1
+Harrison,28,Straight Party,,Libertarian Party,LIB,0,1,1
+Harrison,29,Straight Party,,Libertarian Party,LIB,0,1,1
+Harrison,31,Straight Party,,Libertarian Party,LIB,0,0,0
+Harrison,33,Straight Party,,Libertarian Party,LIB,0,2,2
 Harrison,FEDERAL,Straight Party,,Cast Votes,,0,0,0
 Harrison,1,Straight Party,,Cast Votes,,35,116,151
 Harrison,2,Straight Party,,Cast Votes,,39,114,153
 Harrison,3,Straight Party,,Cast Votes,,15,69,84
 Harrison,4,Straight Party,,Cast Votes,,12,83,95
 Harrison,5,Straight Party,,Cast Votes,,35,118,153
-Harrison,6,Straight Party,,Cast Voles,,28,114,142
-Harrison,7,Straight Party,,Cast Voles,,42,126,168
+Harrison,6,Straight Party,,Cast Votes,,28,114,142
+Harrison,7,Straight Party,,Cast Votes,,42,126,168
 Harrison,37,Straight Party,,Cast Votes,,25,149,174
 Harrison,8,Straight Party,,Cast Votes,,67,98,165
 Harrison,9,Straight Party,,Cast Votes,,40,104,144
@@ -178,10 +174,10 @@ Harrison,11,Straight Party,,Cast Votes,,41,47,88
 Harrison,35,Straight Party,,Cast Votes,,52,98,150
 Harrison,39,Straight Party,,Cast Votes,,36,63,99
 Harrison,12,Straight Party,,Cast Votes,,46,97,143
-Harrison,13,Straight Party,,Cast Voles,,43,112,155
+Harrison,13,Straight Party,,Cast Votes,,43,112,155
 Harrison,14,Straight Party,,Cast Votes,,60,96,156
 Harrison,15,Straight Party,,Cast Votes,,10,61,71
-Harrison,16,Straight Party,,Cast Voles,,12,49,61
+Harrison,16,Straight Party,,Cast Votes,,12,49,61
 Harrison,17,Straight Party,,Cast Votes,,64,165,229
 Harrison,18,Straight Party,,Cast Votes,,29,107,136
 Harrison,19,Straight Party,,Cast Votes,,33,166,199
@@ -191,15 +187,14 @@ Harrison,21,Straight Party,,Cast Votes,,31,184,215
 Harrison,22,Straight Party,,Cast Votes,,33,140,173
 Harrison,23,Straight Party,,Cast Votes,,29,145,174
 Harrison,30,Straight Party,,Cast Votes,,8,41,49
-Harrison,24,Straight Party,,Cast Voles,,25,144,169
+Harrison,24,Straight Party,,Cast Votes,,25,144,169
 Harrison,25,Straight Party,,Cast Votes,,26,96,122
-Harrison,26,Straight Party,,Cast Voles,,28,135,163
+Harrison,26,Straight Party,,Cast Votes,,28,135,163
 Harrison,27,Straight Party,,Cast Votes,,25,87,112
 Harrison,28,Straight Party,,Cast Votes,,21,79,100
 Harrison,29,Straight Party,,Cast Votes,,20,103,123
 Harrison,31,Straight Party,,Cast Votes,,10,52,62
 Harrison,33,Straight Party,,Cast Votes,,20,107,127
-Harrison,Total,Straight Party,,Cast Votes,,1302,4082,5384
 Harrison,FEDERAL,Straight Party,,Over Votes,,0,0,0
 Harrison,1,Straight Party,,Over Votes,,0,0,0
 Harrison,2,Straight Party,,Over Votes,,0,0,0
@@ -239,7 +234,6 @@ Harrison,28,Straight Party,,Over Votes,,0,0,0
 Harrison,29,Straight Party,,Over Votes,,0,0,0
 Harrison,31,Straight Party,,Over Votes,,0,0,0
 Harrison,33,Straight Party,,Over Votes,,0,0,0
-Harrison,Total,Straight Party,,Over Votes,,1,0,1
 Harrison,FEDERAL,Straight Party,,Under Votes,,0,0,0
 Harrison,1,Straight Party,,Under Votes,,43,193,236
 Harrison,2,Straight Party,,Under Votes,,63,243,306
@@ -279,127 +273,123 @@ Harrison,28,Straight Party,,Under Votes,,46,271,317
 Harrison,29,Straight Party,,Under Votes,,27,153,180
 Harrison,31,Straight Party,,Under Votes,,19,97,116
 Harrison,33,Straight Party,,Under Votes,,37,210,247
-Harrison,Total,Straight Party,,Under Votes,,2269,7824,10093
-Harrison,FEDERAL,U.S. Senate,,MIKE BRAUN,,0,0,0
-Harrison,1,U.S. Senate,,MIKE BRAUN,,43,194,237
-Harrison,2,U.S. Senate,,MIKE BRAUN,,42,220,262
-Harrison,3,U.S. Senate,,MIKE BRAUN,,33,151,184
-Harrison,4,U.S. Senate,,MIKE BRAUN,,34,186,220
-Harrison,5,U.S. Senate,,MIKE BRAUN,,55,233,288
-Harrison,6,U.S. Senate,,MIKE BRAUN,,33,231,264
-Harrison,7,U.S. Senate,,MIKE BRAUN,,58,282,340
-Harrison,37,U.S. Senate,,MIKE BRAUN,,46,284,330
-Harrison,8,U.S. Senate,,MIKE BRAUN,,101,204,305
-Harrison,9,U.S. Senate,,MIKE BRAUN,,58,179,237
-Harrison,10,U.S. Senate,,MIKE BRAUN,,103,246,349
-Harrison,36,U.S. Senate,,MIKE BRAUN,,117,222,339
-Harrison,38,U.S. Senate,,MIKE BRAUN,,73,221,294
-Harrison,11,U.S. Senate,,MIKE BRAUN,,52,101,153
-Harrison,35,U.S. Senate,,MIKE BRAUN,,77,152,229
-Harrison,39,U.S. Senate,,MIKE BRAUN,,67,116,183
-Harrison,12,U.S. Senate,,MIKE BRAUN,,81,236,317
-Harrison,13,U.S. Senate,,MIKE BRAUN,,63,238,301
-Harrison,14,U.S. Senate,,MIKE BRAUN,,74,193,267
-Harrison,15,U.S. Senate,,MIKE BRAUN,,23,127,150
-Harrison,16,U.S. Senate,,MIKE BRAUN,,22,112,134
-Harrison,17,U.S. Senate,,MIKE BRAUN,,73,240,313
-Harrison,18,U.S. Senate,,MIKE BRAUN,,41,204,245
-Harrison,19,U.S. Senate,,MIKE BRAUN,,48,249,297
-Harrison,20,U.S. Senate,,MIKE BRAUN,,64,270,334
-Harrison,32,U.S. Senate,,MIKE BRAUN,,59,195,254
-Harrison,21,U.S. Senate,,MIKE BRAUN,,27,216,243
-Harrison,22,U.S. Senate,,MIKE BRAUN,,49,171,220
-Harrison,23,U.S. Senate,,MIKE BRAUN,,58,263,321
-Harrison,30,U.S. Senate,,MIKE BRAUN,,16,84,100
-Harrison,24,U.S. Senate,,MIKE BRAUN,,42,297,339
-Harrison,25,U.S. Senate,,MIKE BRAUN,,37,202,239
-Harrison,26,U.S. Senate,,MIKE BRAUN,,44,260,304
-Harrison,27,U.S. Senate,,MIKE BRAUN,,47,200,247
-Harrison,28,U.S. Senate,,MIKE BRAUN,,32,200,232
-Harrison,29,U.S. Senate,,MIKE BRAUN,,23,157,180
-Harrison,31,U.S. Senate,,MIKE BRAUN,,19,94,113
-Harrison,33,U.S. Senate,,MIKE BRAUN,,37,225,262
-Harrison,Total,U.S. Senate,,MIKE BRAUN,,1971,7655,9626
-Harrison,FEDERAL,U.S. Senate,,JOE DONNELLY,,0,0,0
-Harrison,1,U.S. Senate,,JOE DONNELLY,,32,90,122
-Harrison,2,U.S. Senate,,JOE DONNELLY,,57,108,165
-Harrison,3,U.S. Senate,,JOE DONNELLY,,15,57,72
-Harrison,4,U.S. Senate,,JOE DONNELLY,,10,63,73
-Harrison,5,U.S. Senate,,JOE DONNELLY,,35,132,167
-Harrison,6,U.S. Senate,,JOE DONNELLY,,43,76,119
-Harrison,7,U.S. Senate,,JOE DONNELLY,,60,135,195
-Harrison,37,U.S. Senate,,JOE DONNELLY,,15,122,137
-Harrison,8,U.S. Senate,,JOE DONNELLY,,75,96,171
-Harrison,9,U.S. Senate,,JOE DONNELLY,,41,86,127
-Harrison,10,U.S. Senate,,JOE DONNELLY,,53,117,170
-Harrison,36,U.S. Senate,,JOE DONNELLY,,74,100,174
-Harrison,38,U.S. Senate,,JOE DONNELLY,,50,99,149
-Harrison,11,U.S. Senate,,JOE DONNELLY,,47,63,110
-Harrison,35,U.S. Senate,,JOE DONNELLY,,58,92,150
-Harrison,39,U.S. Senate,,JOE DONNELLY,,51,62,113
-Harrison,12,U.S. Senate,,JOE DONNELLY,,69,111,180
-Harrison,13,U.S. Senate,,JOE DONNELLY,,53,106,159
-Harrison,14,U.S. Senate,,JOE DONNELLY,,65,102,167
-Harrison,15,U.S. Senate,,JOE DONNELLY,,7,54,61
-Harrison,16,U.S. Senate,,JOE DONNELLY,,15,36,51
-Harrison,17,U.S. Senate,,JOE DONNELLY,,60,120,180
-Harrison,18,U.S. Senate,,JOE DONNELLY,,38,85,123
-Harrison,19,U.S. Senate,,JOE DONNELLY,,23,144,167
-Harrison,20,U.S. Senate,,JOE DONNELLY,,60,148,208
-Harrison,32,U.S. Senate,,JOE DONNELLY,,44,88,132
-Harrison,21,U.S. Senate,,JOE DONNELLY,,38,114,152
-Harrison,22,U.S. Senate,,JOE DONNELLY,,26,99,125
-Harrison,23,U.S. Senate,,JOE DONNELLY,,30,131,161
-Harrison,30,U.S. Senate,,JOE DONNELLY,,11,32,43
-Harrison,24,U.S. Senate,,JOE DONNELLY,,23,72,95
-Harrison,25,U.S. Senate,,JOE DONNELLY,,13,77,90
-Harrison,26,U.S. Senate,,JOE DONNELLY,,26,128,154
-Harrison,27,U.S. Senate,,JOE DONNELLY,,33,104,137
-Harrison,28,U.S. Senate,,JOE DONNELLY,,33,130,163
-Harrison,29,U.S. Senate,,JOE DONNELLY,,24,88,112
-Harrison,31,U.S. Senate,,JOE DONNELLY,,9,45,54
-Harrison,33,U.S. Senate,,JOE DONNELLY,,18,78,96
-Harrison,Total,U.S. Senate,,JOE DONNELLY,,1434,3590,5024
-Harrison,FEDERAL,U.S. Senate,,LUCY M. BRENTON,,0,0,0
-Harrison,1,U.S. Senate,,LUCY M. BRENTON,,2,21,23
-Harrison,2,U.S. Senate,,LUCY M. BRENTON,,3,22,25
-Harrison,3,U.S. Senate,,LUCY M. BRENTON,,3,5,8
-Harrison,4,U.S. Senate,,LUCY M. BRENTON,,1,11,12
-Harrison,5,U.S. Senate,,LUCY M. BRENTON,,3,15,18
-Harrison,6,U.S. Senate,,LUCY M. BRENTON,,0,11,11
-Harrison,7,U.S. Senate,,LUCY M. BRENTON,,4,17,21
-Harrison,37,U.S. Senate,,LUCY M. BRENTON,,1,22,23
-Harrison,8,U.S. Senate,,LUCY M. BRENTON,,0,13,13
-Harrison,9,U.S. Senate,,LUCY M. BRENTON,,5,10,15
-Harrison,10,U.S. Senate,,LUCY M. BRENTON,,5,11,16
-Harrison,36,U.S. Senate,,LUCY M. BRENTON,,4,16,20
-Harrison,38,U.S. Senate,,LUCY M. BRENTON,,5,9,14
-Harrison,11,U.S. Senate,,LUCY M. BRENTON,,3,11,14
-Harrison,35,U.S. Senate,,LUCY M. BRENTON,,10,11,21
-Harrison,39,U.S. Senate,,LUCY M. BRENTON,,3,9,12
-Harrison,12,U.S. Senate,,LUCY M. BRENTON,,6,15,21
-Harrison,13,U.S. Senate,,LUCY M. BRENTON,,9,22,31
-Harrison,14,U.S. Senate,,LUCY M. BRENTON,,10,10,20
-Harrison,15,U.S. Senate,,LUCY M. BRENTON,,0,8,8
-Harrison,16,U.S. Senate,,LUCY M. BRENTON,,2,5,7
-Harrison,17,U.S. Senate,,LUCY M. BRENTON,,7,14,21
-Harrison,18,U.S. Senate,,LUCY M. BRENTON,,4,12,16
-Harrison,19,U.S. Senate,,LUCY M. BRENTON,,1,20,21
-Harrison,20,U.S. Senate,,LUCY M. BRENTON,,6,23,29
-Harrison,32,U.S. Senate,,LUCY M. BRENTON,,5,17,22
-Harrison,21,U.S. Senate,,LUCY M. BRENTON,,1,19,20
-Harrison,22,U.S. Senate,,LUCY M. BRENTON,,2,14,16
-Harrison,23,U.S. Senate,,LUCY M. BRENTON,,5,9,14
-Harrison,30,U.S. Senate,,LUCY M. BRENTON,,2,5,7
-Harrison,24,U.S. Senate,,LUCY M. BRENTON,,3,14,17
-Harrison,25,U.S. Senate,,LUCY M. BRENTON,,1,6,7
-Harrison,26,U.S. Senate,,LUCY M. BRENTON,,5,16,21
-Harrison,27,U.S. Senate,,LUCY M. BRENTON,,3,17,20
-Harrison,28,U.S. Senate,,LUCY M. BRENTON,,2,14,16
-Harrison,29,U.S. Senate,,LUCY M. BRENTON,,0,6,6
-Harrison,31,U.S. Senate,,LUCY M. BRENTON,,1,7,8
-Harrison,33,U.S. Senate,,LUCY M. BRENTON,,2,11,13
-Harrison,Total,U.S. Senate,,LUCY M. BRENTON,,129,498,627
+Harrison,FEDERAL,U.S. Senate,,MIKE BRAUN,REP,0,0,0
+Harrison,1,U.S. Senate,,MIKE BRAUN,REP,43,194,237
+Harrison,2,U.S. Senate,,MIKE BRAUN,REP,42,220,262
+Harrison,3,U.S. Senate,,MIKE BRAUN,REP,33,151,184
+Harrison,4,U.S. Senate,,MIKE BRAUN,REP,34,186,220
+Harrison,5,U.S. Senate,,MIKE BRAUN,REP,55,233,288
+Harrison,6,U.S. Senate,,MIKE BRAUN,REP,33,231,264
+Harrison,7,U.S. Senate,,MIKE BRAUN,REP,58,282,340
+Harrison,37,U.S. Senate,,MIKE BRAUN,REP,46,284,330
+Harrison,8,U.S. Senate,,MIKE BRAUN,REP,101,204,305
+Harrison,9,U.S. Senate,,MIKE BRAUN,REP,58,179,237
+Harrison,10,U.S. Senate,,MIKE BRAUN,REP,103,246,349
+Harrison,36,U.S. Senate,,MIKE BRAUN,REP,117,222,339
+Harrison,38,U.S. Senate,,MIKE BRAUN,REP,73,221,294
+Harrison,11,U.S. Senate,,MIKE BRAUN,REP,52,101,153
+Harrison,35,U.S. Senate,,MIKE BRAUN,REP,77,152,229
+Harrison,39,U.S. Senate,,MIKE BRAUN,REP,67,116,183
+Harrison,12,U.S. Senate,,MIKE BRAUN,REP,81,236,317
+Harrison,13,U.S. Senate,,MIKE BRAUN,REP,63,238,301
+Harrison,14,U.S. Senate,,MIKE BRAUN,REP,74,193,267
+Harrison,15,U.S. Senate,,MIKE BRAUN,REP,23,127,150
+Harrison,16,U.S. Senate,,MIKE BRAUN,REP,22,112,134
+Harrison,17,U.S. Senate,,MIKE BRAUN,REP,73,240,313
+Harrison,18,U.S. Senate,,MIKE BRAUN,REP,41,204,245
+Harrison,19,U.S. Senate,,MIKE BRAUN,REP,48,249,297
+Harrison,20,U.S. Senate,,MIKE BRAUN,REP,64,270,334
+Harrison,32,U.S. Senate,,MIKE BRAUN,REP,59,195,254
+Harrison,21,U.S. Senate,,MIKE BRAUN,REP,27,216,243
+Harrison,22,U.S. Senate,,MIKE BRAUN,REP,49,171,220
+Harrison,23,U.S. Senate,,MIKE BRAUN,REP,58,263,321
+Harrison,30,U.S. Senate,,MIKE BRAUN,REP,16,84,100
+Harrison,24,U.S. Senate,,MIKE BRAUN,REP,42,297,339
+Harrison,25,U.S. Senate,,MIKE BRAUN,REP,37,202,239
+Harrison,26,U.S. Senate,,MIKE BRAUN,REP,44,260,304
+Harrison,27,U.S. Senate,,MIKE BRAUN,REP,47,200,247
+Harrison,28,U.S. Senate,,MIKE BRAUN,REP,32,200,232
+Harrison,29,U.S. Senate,,MIKE BRAUN,REP,23,157,180
+Harrison,31,U.S. Senate,,MIKE BRAUN,REP,19,94,113
+Harrison,33,U.S. Senate,,MIKE BRAUN,REP,37,225,262
+Harrison,FEDERAL,U.S. Senate,,JOE DONNELLY,DEM,0,0,0
+Harrison,1,U.S. Senate,,JOE DONNELLY,DEM,32,90,122
+Harrison,2,U.S. Senate,,JOE DONNELLY,DEM,57,108,165
+Harrison,3,U.S. Senate,,JOE DONNELLY,DEM,15,57,72
+Harrison,4,U.S. Senate,,JOE DONNELLY,DEM,10,63,73
+Harrison,5,U.S. Senate,,JOE DONNELLY,DEM,35,132,167
+Harrison,6,U.S. Senate,,JOE DONNELLY,DEM,43,76,119
+Harrison,7,U.S. Senate,,JOE DONNELLY,DEM,60,135,195
+Harrison,37,U.S. Senate,,JOE DONNELLY,DEM,15,122,137
+Harrison,8,U.S. Senate,,JOE DONNELLY,DEM,75,96,171
+Harrison,9,U.S. Senate,,JOE DONNELLY,DEM,41,86,127
+Harrison,10,U.S. Senate,,JOE DONNELLY,DEM,53,117,170
+Harrison,36,U.S. Senate,,JOE DONNELLY,DEM,74,100,174
+Harrison,38,U.S. Senate,,JOE DONNELLY,DEM,50,99,149
+Harrison,11,U.S. Senate,,JOE DONNELLY,DEM,47,63,110
+Harrison,35,U.S. Senate,,JOE DONNELLY,DEM,58,92,150
+Harrison,39,U.S. Senate,,JOE DONNELLY,DEM,51,62,113
+Harrison,12,U.S. Senate,,JOE DONNELLY,DEM,69,111,180
+Harrison,13,U.S. Senate,,JOE DONNELLY,DEM,53,106,159
+Harrison,14,U.S. Senate,,JOE DONNELLY,DEM,65,102,167
+Harrison,15,U.S. Senate,,JOE DONNELLY,DEM,7,54,61
+Harrison,16,U.S. Senate,,JOE DONNELLY,DEM,15,36,51
+Harrison,17,U.S. Senate,,JOE DONNELLY,DEM,60,120,180
+Harrison,18,U.S. Senate,,JOE DONNELLY,DEM,38,85,123
+Harrison,19,U.S. Senate,,JOE DONNELLY,DEM,23,144,167
+Harrison,20,U.S. Senate,,JOE DONNELLY,DEM,60,148,208
+Harrison,32,U.S. Senate,,JOE DONNELLY,DEM,44,88,132
+Harrison,21,U.S. Senate,,JOE DONNELLY,DEM,38,114,152
+Harrison,22,U.S. Senate,,JOE DONNELLY,DEM,26,99,125
+Harrison,23,U.S. Senate,,JOE DONNELLY,DEM,30,131,161
+Harrison,30,U.S. Senate,,JOE DONNELLY,DEM,11,32,43
+Harrison,24,U.S. Senate,,JOE DONNELLY,DEM,23,72,95
+Harrison,25,U.S. Senate,,JOE DONNELLY,DEM,13,77,90
+Harrison,26,U.S. Senate,,JOE DONNELLY,DEM,26,128,154
+Harrison,27,U.S. Senate,,JOE DONNELLY,DEM,33,104,137
+Harrison,28,U.S. Senate,,JOE DONNELLY,DEM,33,130,163
+Harrison,29,U.S. Senate,,JOE DONNELLY,DEM,24,88,112
+Harrison,31,U.S. Senate,,JOE DONNELLY,DEM,9,45,54
+Harrison,33,U.S. Senate,,JOE DONNELLY,DEM,18,78,96
+Harrison,FEDERAL,U.S. Senate,,LUCY M. BRENTON,LIB,0,0,0
+Harrison,1,U.S. Senate,,LUCY M. BRENTON,LIB,2,21,23
+Harrison,2,U.S. Senate,,LUCY M. BRENTON,LIB,3,22,25
+Harrison,3,U.S. Senate,,LUCY M. BRENTON,LIB,3,5,8
+Harrison,4,U.S. Senate,,LUCY M. BRENTON,LIB,1,11,12
+Harrison,5,U.S. Senate,,LUCY M. BRENTON,LIB,3,15,18
+Harrison,6,U.S. Senate,,LUCY M. BRENTON,LIB,0,11,11
+Harrison,7,U.S. Senate,,LUCY M. BRENTON,LIB,4,17,21
+Harrison,37,U.S. Senate,,LUCY M. BRENTON,LIB,1,22,23
+Harrison,8,U.S. Senate,,LUCY M. BRENTON,LIB,0,13,13
+Harrison,9,U.S. Senate,,LUCY M. BRENTON,LIB,5,10,15
+Harrison,10,U.S. Senate,,LUCY M. BRENTON,LIB,5,11,16
+Harrison,36,U.S. Senate,,LUCY M. BRENTON,LIB,4,16,20
+Harrison,38,U.S. Senate,,LUCY M. BRENTON,LIB,5,9,14
+Harrison,11,U.S. Senate,,LUCY M. BRENTON,LIB,3,11,14
+Harrison,35,U.S. Senate,,LUCY M. BRENTON,LIB,10,11,21
+Harrison,39,U.S. Senate,,LUCY M. BRENTON,LIB,3,9,12
+Harrison,12,U.S. Senate,,LUCY M. BRENTON,LIB,6,15,21
+Harrison,13,U.S. Senate,,LUCY M. BRENTON,LIB,9,22,31
+Harrison,14,U.S. Senate,,LUCY M. BRENTON,LIB,10,10,20
+Harrison,15,U.S. Senate,,LUCY M. BRENTON,LIB,0,8,8
+Harrison,16,U.S. Senate,,LUCY M. BRENTON,LIB,2,5,7
+Harrison,17,U.S. Senate,,LUCY M. BRENTON,LIB,7,14,21
+Harrison,18,U.S. Senate,,LUCY M. BRENTON,LIB,4,12,16
+Harrison,19,U.S. Senate,,LUCY M. BRENTON,LIB,1,20,21
+Harrison,20,U.S. Senate,,LUCY M. BRENTON,LIB,6,23,29
+Harrison,32,U.S. Senate,,LUCY M. BRENTON,LIB,5,17,22
+Harrison,21,U.S. Senate,,LUCY M. BRENTON,LIB,1,19,20
+Harrison,22,U.S. Senate,,LUCY M. BRENTON,LIB,2,14,16
+Harrison,23,U.S. Senate,,LUCY M. BRENTON,LIB,5,9,14
+Harrison,30,U.S. Senate,,LUCY M. BRENTON,LIB,2,5,7
+Harrison,24,U.S. Senate,,LUCY M. BRENTON,LIB,3,14,17
+Harrison,25,U.S. Senate,,LUCY M. BRENTON,LIB,1,6,7
+Harrison,26,U.S. Senate,,LUCY M. BRENTON,LIB,5,16,21
+Harrison,27,U.S. Senate,,LUCY M. BRENTON,LIB,3,17,20
+Harrison,28,U.S. Senate,,LUCY M. BRENTON,LIB,2,14,16
+Harrison,29,U.S. Senate,,LUCY M. BRENTON,LIB,0,6,6
+Harrison,31,U.S. Senate,,LUCY M. BRENTON,LIB,1,7,8
+Harrison,33,U.S. Senate,,LUCY M. BRENTON,LIB,2,11,13
 Harrison,FEDERAL,U.S. Senate,,Cast Votes,,0,0,0
 Harrison,1,U.S. Senate,,Cast Votes,,77,305,382
 Harrison,2,U.S. Senate,,Cast Votes,,102,350,452
@@ -415,7 +405,7 @@ Harrison,10,U.S. Senate,,Cast Votes,,161,374,535
 Harrison,36,U.S. Senate,,Cast Votes,,195,338,533
 Harrison,38,U.S. Senate,,Cast Votes,,128,329,457
 Harrison,11,U.S. Senate,,Cast Votes,,102,175,277
-Harrison,35,U.S. Senate,,Cast Voles,,145,255,400
+Harrison,35,U.S. Senate,,Cast Votes,,145,255,400
 Harrison,39,U.S. Senate,,Cast Votes,,121,187,308
 Harrison,12,U.S. Senate,,Cast Votes,,156,362,518
 Harrison,13,U.S. Senate,,Cast Votes,,125,366,491
@@ -439,7 +429,6 @@ Harrison,28,U.S. Senate,,Cast Votes,,67,344,411
 Harrison,29,U.S. Senate,,Cast Votes,,47,251,298
 Harrison,31,U.S. Senate,,Cast Votes,,29,146,175
 Harrison,33,U.S. Senate,,Cast Votes,,57,314,371
-Harrison,Total,U.S. Senate,,Cast Votes,,3534,11743,15277
 Harrison,FEDERAL,U.S. Senate,,Over Votes,,0,0,0
 Harrison,1,U.S. Senate,,Over Votes,,0,0,0
 Harrison,2,U.S. Senate,,Over Votes,,0,0,0
@@ -479,7 +468,6 @@ Harrison,28,U.S. Senate,,Over Votes,,0,0,0
 Harrison,29,U.S. Senate,,Over Votes,,0,0,0
 Harrison,31,U.S. Senate,,Over Votes,,0,0,0
 Harrison,33,U.S. Senate,,Over Votes,,0,0,0
-Harrison,Total,U.S. Senate,,Over Votes,,2,0,2
 Harrison,FEDERAL,U.S. Senate,,Under Votes,,0,0,0
 Harrison,1,U.S. Senate,,Under Votes,,1,4,5
 Harrison,2,U.S. Senate,,Under Votes,,0,7,7
@@ -519,124 +507,120 @@ Harrison,28,U.S. Senate,,Under Votes,,0,6,6
 Harrison,29,U.S. Senate,,Under Votes,,0,4,4
 Harrison,31,U.S. Senate,,Under Votes,,0,3,3
 Harrison,33,U.S. Senate,,Under Votes,,0,3,3
-Harrison,Total,U.S. Senate,,Under Votes,,36,162,198
-Harrison,1,Secretary of State,,CONNIE LAWSON,,45,191,236
-Harrison,2,Secretary of State,,CONNIE LAWSON,,49,219,268
-Harrison,3,Secretary of State,,CONNIE LAWSON,,33,157,190
-Harrison,4,Secretary of State,,CONNIE LAWSON,,34,189,223
-Harrison,5,Secretary of State,,CONNIE LAWSON,,57,244,301
-Harrison,6,Secretary of State,,CONNIE LAWSON,,35,237,272
-Harrison,7,Secretary of State,,CONNIE LAWSON,,65,304,369
-Harrison,37,Secretary of State,,CONNIE LAWSON,,43,285,328
-Harrison,8,Secretary of State,,CONNIE LAWSON,,101,210,311
-Harrison,9,Secretary of State,,CONNIE LAWSON,,61,179,240
-Harrison,10,Secretary of State,,CONNIE LAWSON,,104,244,348
-Harrison,36,Secretary of State,,CONNIE LAWSON,,126,227,353
-Harrison,38,Secretary of State,,CONNIE LAWSON,,80,223,303
-Harrison,11,Secretary of State,,CONNIE LAWSON,,52,101,153
-Harrison,35,Secretary of State,,CONNIE LAWSON,,83,159,242
-Harrison,39,Secretary of State,,CONNIE LAWSON.,,64,123,187
-Harrison,12,Secretary of State,,CONNIE LAWSON,,89,251,340
-Harrison,13,Secretary of State,,CONNIE LAWSON,,69,247,316
-Harrison,14,Secretary of State,,CONNIE LAWSON,,72,194,266
-Harrison,15,Secretary of State,,CONNIE LAWSON,,23,135,158
-Harrison,16,Secretary of State,,CONNIE LAWSON,,22,109,131
-Harrison,17,Secretary of State,,CONNIE LAWSON,,70,245,315
-Harrison,18,Secretary of State,,CONNIE LAWSON,,44,201,245
-Harrison,19,Secretary of State,,CONNIE LAWSON,,48,256,304
-Harrison,20,Secretary of State,,CONNIE LAWSON,,69,286,355
-Harrison,32,Secretary of State,,CONNIE LAWSON,,67,201,268
-Harrison,21,Secretary of State,,CONNIE LAWSON,,28,224,252
-Harrison,22,Secretary of State,,CONNIE LAWSON,,48,180,228
-Harrison,23,Secretary of State,,CONNIE LAWSON,,64,258,322
-Harrison,30,Secretary of State,,CONNIE LAWSON,,19,88,107
-Harrison,24,Secretary of State,,CONNIE LAWSON,,42,291,333
-Harrison,25,Secretary of State,,CONNIE LAWSON,,39,200,239
-Harrison,26,Secretary of State,,CONNIE LAWSON,,44,265,309
-Harrison,27,Secretary of State,,CONNIE LAWSON,,43,203,246
-Harrison,28,Secretary of State,,CONNIE LAWSON,,34,197,231
-Harrison,29,Secretary of State,,CONNIE LAWSON,,25,159,184
-Harrison,31,Secretary of State,,CONNIE LAWSON,,21,101,122
-Harrison,33,Secretary of State,,CONNIE LAWSON,,37,229,266
-Harrison,Total,Secretary of State,,CONNIE LAWSON,,2049,7812,9861
-Harrison,1,Secretary of State,,JIM HARPER,,31,90,121
-Harrison,2,Secretary of State,,JIM HARPER,,50,103,153
-Harrison,3,Secretary of State,,JIM HARPER,,15,46,61
-Harrison,4,Secretary of State,,JIM HARPER,,10,58,68
-Harrison,5,Secretary of State,,JIM HARPER,,33,111,144
-Harrison,6,Secretary of State,,JIM HARPER,,41,66,107
-Harrison,7,Secretary of State,,JIM HARPER,,53,112,165
-Harrison,37,Secretary of State,,JIM HARPER,,18,119,137
-Harrison,8,Secretary of State,,JIM HARPER,,74,87,161
-Harrison,9,Secretary of State,,JIM HARPER,,40,76,116
-Harrison,10,Secretary of State,,JIM HARPER,,49,107,156
-Harrison,36,Secretary of State,,JIM HARPER,,64,94,158
-Harrison,38,Secretary of State,,JIM HARPER,,44,91,135
-Harrison,11,Secretary of State,,JIM HARPER,,47,62,109
-Harrison,35,Secretary of State,,JIM HARPER,,59,82,141
-Harrison,39,Secretary of State,,JIM HARPER,,51,58,109
-Harrison,12,Secretary of State,,JIM HARPER,,60,95,155
-Harrison,13,Secretary of State,,JIM HARPER,,50,102,152
-Harrison,14,Secretary of State,,JIM HARPER,,72,99,171
-Harrison,15,Secretary of State,,JIM HARPER,,6,48,54
-Harrison,16,Secretary of State,,JIM HARPER,,15,33,48
-Harrison,17,Secretary of State,,JIM HARPER,,59,112,171
-Harrison,18,Secretary of State,,JIM HARPER,,38,86,124
-Harrison,19,Secretary of State,,JIM HARPER,,23,141,164
-Harrison,20,Secretary of State,,JIM HARPER,,58,126,184
-Harrison,32,Secretary of State,,JIM HARPER,,36,84,120
-Harrison,21,Secretary of State,,JIM HARPER,,37,107,144
-Harrison,22,Secretary of State,,JIM HARPER,,24,96,120
-Harrison,23,Secretary of State,,JIM HARPER,,29,127,156
-Harrison,30,Secretary of State,,JIM HARPER,,10,28,38
-Harrison,24,Secretary of State,,JIM HARPER,,25,70,95
-Harrison,25,Secretary of State,,JIM HARPER,,12,63,75
-Harrison,26,Secretary of State,,JIM HARPER,,25,118,143
-Harrison,27,Secretary of State,,JIM HARPER,,33,97,130
-Harrison,28,Secretary of State,,JIM HARPER,,28,118,146
-Harrison,29,Secretary of State,,JIM HARPER,,22,80,102
-Harrison,31,Secretary of State,,JIM HARPER,,8,39,47
-Harrison,33,Secretary of State,,JIM HARPER,,18,67,85
-Harrison,Total,Secretary of State,,JIM HARPER,,1367,3298,4665
-Harrison,1,Secretary of State,,MARK W. RUTHERFORD,,0,11,11
-Harrison,2,Secretary of State,,MARK W. RUTHERFORD,,2,19,21
-Harrison,3,Secretary of State,,MARK W. RUTHERFORD,,3,5,8
-Harrison,4,Secretary of State,,MARK W. RUTHERFORD,,1,8,9
-Harrison,5,Secretary of State,,MARK W. RUTHERFORD,,1,19,20
-Harrison,6,Secretary of State,,MARK W. RUTHERFORD,,0,6,6
-Harrison,7,Secretary of State,,MARK W. RUTHERFORD,,3,8,11
-Harrison,37,Secretary of State,,MARK W. RUTHERFORD,,0,16,16
-Harrison,8,Secretary of State,,MARK W. RUTHERFORD,,2,9,11
-Harrison,9,Secretary of State,,MARK W. RUTHERFORD,,2,10,12
-Harrison,10,Secretary of State,,MARK W. RUTHERFORD,,5,14,19
-Harrison,36,Secretary of State,,MARK W. RUTHERFORD,,2,16,18
-Harrison,38,Secretary of State,,MARK W. RUTHERFORD,,4,6,10
-Harrison,11,Secretary of State,,MARK W. RUTHERFORD,,2,5,7
-Harrison,35,Secretary of State,,MARK W. RUTHERFORD,,3,9,12
-Harrison,39,Secretary of State,,MARK W. RUTHERFORD,,6,3,9
-Harrison,12,Secretary of State,,MARK W. RUTHERFORD,,7,9,16
-Harrison,13,Secretary of State,,MARK W. RUTHERFORD,,5,9,14
-Harrison,14,Secretary of State,,MARK W. RUTHERFORD,,3,6,9
-Harrison,15,Secretary of State,,MARK W. RUTHERFORD,,1,6,7
-Harrison,16,Secretary of State,,MARK W RUTHERFORD,,2,5,7
-Harrison,17,Secretary of State,,MARK W. RUTHERFORD,,8,14,22
-Harrison,18,Secretary of State,,MARK W. RUTHERFORD,,1,11,12
-Harrison,19,Secretary of State,,MARK W. RUTHERFORD,,0,15,15
-Harrison,20,Secretary of State,,MARK W. RUTHERFORD,,2,21,23
-Harrison,32,Secretary of State,,MARK W. RUTHERFORD,,2,14,16
-Harrison,21,Secretary of State,,MARK W. RUTHERFORD,,1,10,11
-Harrison,22,Secretary of State,,MARK W. RUTHERFORD,,3,7,10
-Harrison,23,Secretary of State,,MARK W. RUTHERFORD,,1,13,14
-Harrison,30,Secretary of State,,MARK W. RUTHERFORD,,0,4,4
-Harrison,24,Secretary of State,,MARK W. RUTHERFORD,,2,13,15
-Harrison,25,Secretary of State,,MARK W. RUTHERFORD,,0,11,11
-Harrison,26,Secretary of State,,MARK W. RUTHERFORD,,3,7,10
-Harrison,27,Secretary of State,,MARK W. RUTHERFORD,,3,12,15
-Harrison,28,Secretary of State,,MARK W. RUTHERFORD,,1,16,17
-Harrison,29,Secretary of State,,MARK W. RUTHERFORD,,0,8,8
-Harrison,31,Secretary of State,,MARK W. RUTHERFORD,,0,4,4
-Harrison,33,Secretary of State,,MARK W. RUTHERFORD,,1,14,15
-Harrison,Total,Secretary of State,,MARK W. RUTHERFORD,,82,393,475
+Harrison,1,Secretary of State,,CONNIE LAWSON,REP,45,191,236
+Harrison,2,Secretary of State,,CONNIE LAWSON,REP,49,219,268
+Harrison,3,Secretary of State,,CONNIE LAWSON,REP,33,157,190
+Harrison,4,Secretary of State,,CONNIE LAWSON,REP,34,189,223
+Harrison,5,Secretary of State,,CONNIE LAWSON,REP,57,244,301
+Harrison,6,Secretary of State,,CONNIE LAWSON,REP,35,237,272
+Harrison,7,Secretary of State,,CONNIE LAWSON,REP,65,304,369
+Harrison,37,Secretary of State,,CONNIE LAWSON,REP,43,285,328
+Harrison,8,Secretary of State,,CONNIE LAWSON,REP,101,210,311
+Harrison,9,Secretary of State,,CONNIE LAWSON,REP,61,179,240
+Harrison,10,Secretary of State,,CONNIE LAWSON,REP,104,244,348
+Harrison,36,Secretary of State,,CONNIE LAWSON,REP,126,227,353
+Harrison,38,Secretary of State,,CONNIE LAWSON,REP,80,223,303
+Harrison,11,Secretary of State,,CONNIE LAWSON,REP,52,101,153
+Harrison,35,Secretary of State,,CONNIE LAWSON,REP,83,159,242
+Harrison,39,Secretary of State,,CONNIE LAWSON.,REP,64,123,187
+Harrison,12,Secretary of State,,CONNIE LAWSON,REP,89,251,340
+Harrison,13,Secretary of State,,CONNIE LAWSON,REP,69,247,316
+Harrison,14,Secretary of State,,CONNIE LAWSON,REP,72,194,266
+Harrison,15,Secretary of State,,CONNIE LAWSON,REP,23,135,158
+Harrison,16,Secretary of State,,CONNIE LAWSON,REP,22,109,131
+Harrison,17,Secretary of State,,CONNIE LAWSON,REP,70,245,315
+Harrison,18,Secretary of State,,CONNIE LAWSON,REP,44,201,245
+Harrison,19,Secretary of State,,CONNIE LAWSON,REP,48,256,304
+Harrison,20,Secretary of State,,CONNIE LAWSON,REP,69,286,355
+Harrison,32,Secretary of State,,CONNIE LAWSON,REP,67,201,268
+Harrison,21,Secretary of State,,CONNIE LAWSON,REP,28,224,252
+Harrison,22,Secretary of State,,CONNIE LAWSON,REP,48,180,228
+Harrison,23,Secretary of State,,CONNIE LAWSON,REP,64,258,322
+Harrison,30,Secretary of State,,CONNIE LAWSON,REP,19,88,107
+Harrison,24,Secretary of State,,CONNIE LAWSON,REP,42,291,333
+Harrison,25,Secretary of State,,CONNIE LAWSON,REP,39,200,239
+Harrison,26,Secretary of State,,CONNIE LAWSON,REP,44,265,309
+Harrison,27,Secretary of State,,CONNIE LAWSON,REP,43,203,246
+Harrison,28,Secretary of State,,CONNIE LAWSON,REP,34,197,231
+Harrison,29,Secretary of State,,CONNIE LAWSON,REP,25,159,184
+Harrison,31,Secretary of State,,CONNIE LAWSON,REP,21,101,122
+Harrison,33,Secretary of State,,CONNIE LAWSON,REP,37,229,266
+Harrison,1,Secretary of State,,JIM HARPER,DEM,31,90,121
+Harrison,2,Secretary of State,,JIM HARPER,DEM,50,103,153
+Harrison,3,Secretary of State,,JIM HARPER,DEM,15,46,61
+Harrison,4,Secretary of State,,JIM HARPER,DEM,10,58,68
+Harrison,5,Secretary of State,,JIM HARPER,DEM,33,111,144
+Harrison,6,Secretary of State,,JIM HARPER,DEM,41,66,107
+Harrison,7,Secretary of State,,JIM HARPER,DEM,53,112,165
+Harrison,37,Secretary of State,,JIM HARPER,DEM,18,119,137
+Harrison,8,Secretary of State,,JIM HARPER,DEM,74,87,161
+Harrison,9,Secretary of State,,JIM HARPER,DEM,40,76,116
+Harrison,10,Secretary of State,,JIM HARPER,DEM,49,107,156
+Harrison,36,Secretary of State,,JIM HARPER,DEM,64,94,158
+Harrison,38,Secretary of State,,JIM HARPER,DEM,44,91,135
+Harrison,11,Secretary of State,,JIM HARPER,DEM,47,62,109
+Harrison,35,Secretary of State,,JIM HARPER,DEM,59,82,141
+Harrison,39,Secretary of State,,JIM HARPER,DEM,51,58,109
+Harrison,12,Secretary of State,,JIM HARPER,DEM,60,95,155
+Harrison,13,Secretary of State,,JIM HARPER,DEM,50,102,152
+Harrison,14,Secretary of State,,JIM HARPER,DEM,72,99,171
+Harrison,15,Secretary of State,,JIM HARPER,DEM,6,48,54
+Harrison,16,Secretary of State,,JIM HARPER,DEM,15,33,48
+Harrison,17,Secretary of State,,JIM HARPER,DEM,59,112,171
+Harrison,18,Secretary of State,,JIM HARPER,DEM,38,86,124
+Harrison,19,Secretary of State,,JIM HARPER,DEM,23,141,164
+Harrison,20,Secretary of State,,JIM HARPER,DEM,58,126,184
+Harrison,32,Secretary of State,,JIM HARPER,DEM,36,84,120
+Harrison,21,Secretary of State,,JIM HARPER,DEM,37,107,144
+Harrison,22,Secretary of State,,JIM HARPER,DEM,24,96,120
+Harrison,23,Secretary of State,,JIM HARPER,DEM,29,127,156
+Harrison,30,Secretary of State,,JIM HARPER,DEM,10,28,38
+Harrison,24,Secretary of State,,JIM HARPER,DEM,25,70,95
+Harrison,25,Secretary of State,,JIM HARPER,DEM,12,63,75
+Harrison,26,Secretary of State,,JIM HARPER,DEM,25,118,143
+Harrison,27,Secretary of State,,JIM HARPER,DEM,33,97,130
+Harrison,28,Secretary of State,,JIM HARPER,DEM,28,118,146
+Harrison,29,Secretary of State,,JIM HARPER,DEM,22,80,102
+Harrison,31,Secretary of State,,JIM HARPER,DEM,8,39,47
+Harrison,33,Secretary of State,,JIM HARPER,DEM,18,67,85
+Harrison,1,Secretary of State,,MARK W. RUTHERFORD,LIB,0,11,11
+Harrison,2,Secretary of State,,MARK W. RUTHERFORD,LIB,2,19,21
+Harrison,3,Secretary of State,,MARK W. RUTHERFORD,LIB,3,5,8
+Harrison,4,Secretary of State,,MARK W. RUTHERFORD,LIB,1,8,9
+Harrison,5,Secretary of State,,MARK W. RUTHERFORD,LIB,1,19,20
+Harrison,6,Secretary of State,,MARK W. RUTHERFORD,LIB,0,6,6
+Harrison,7,Secretary of State,,MARK W. RUTHERFORD,LIB,3,8,11
+Harrison,37,Secretary of State,,MARK W. RUTHERFORD,LIB,0,16,16
+Harrison,8,Secretary of State,,MARK W. RUTHERFORD,LIB,2,9,11
+Harrison,9,Secretary of State,,MARK W. RUTHERFORD,LIB,2,10,12
+Harrison,10,Secretary of State,,MARK W. RUTHERFORD,LIB,5,14,19
+Harrison,36,Secretary of State,,MARK W. RUTHERFORD,LIB,2,16,18
+Harrison,38,Secretary of State,,MARK W. RUTHERFORD,LIB,4,6,10
+Harrison,11,Secretary of State,,MARK W. RUTHERFORD,LIB,2,5,7
+Harrison,35,Secretary of State,,MARK W. RUTHERFORD,LIB,3,9,12
+Harrison,39,Secretary of State,,MARK W. RUTHERFORD,LIB,6,3,9
+Harrison,12,Secretary of State,,MARK W. RUTHERFORD,LIB,7,9,16
+Harrison,13,Secretary of State,,MARK W. RUTHERFORD,LIB,5,9,14
+Harrison,14,Secretary of State,,MARK W. RUTHERFORD,LIB,3,6,9
+Harrison,15,Secretary of State,,MARK W. RUTHERFORD,LIB,1,6,7
+Harrison,16,Secretary of State,,MARK W. RUTHERFORD,LIB,2,5,7
+Harrison,17,Secretary of State,,MARK W. RUTHERFORD,LIB,8,14,22
+Harrison,18,Secretary of State,,MARK W. RUTHERFORD,LIB,1,11,12
+Harrison,19,Secretary of State,,MARK W. RUTHERFORD,LIB,0,15,15
+Harrison,20,Secretary of State,,MARK W. RUTHERFORD,LIB,2,21,23
+Harrison,32,Secretary of State,,MARK W. RUTHERFORD,LIB,2,14,16
+Harrison,21,Secretary of State,,MARK W. RUTHERFORD,LIB,1,10,11
+Harrison,22,Secretary of State,,MARK W. RUTHERFORD,LIB,3,7,10
+Harrison,23,Secretary of State,,MARK W. RUTHERFORD,LIB,1,13,14
+Harrison,30,Secretary of State,,MARK W. RUTHERFORD,LIB,0,4,4
+Harrison,24,Secretary of State,,MARK W. RUTHERFORD,LIB,2,13,15
+Harrison,25,Secretary of State,,MARK W. RUTHERFORD,LIB,0,11,11
+Harrison,26,Secretary of State,,MARK W. RUTHERFORD,LIB,3,7,10
+Harrison,27,Secretary of State,,MARK W. RUTHERFORD,LIB,3,12,15
+Harrison,28,Secretary of State,,MARK W. RUTHERFORD,LIB,1,16,17
+Harrison,29,Secretary of State,,MARK W. RUTHERFORD,LIB,0,8,8
+Harrison,31,Secretary of State,,MARK W. RUTHERFORD,LIB,0,4,4
+Harrison,33,Secretary of State,,MARK W. RUTHERFORD,LIB,1,14,15
 Harrison,1,Secretary of State,,Cast Votes,,76,292,368
 Harrison,2,Secretary of State,,Cast Votes,,101,341,442
 Harrison,3,Secretary of State,,Cast Votes,,51,208,259
@@ -646,7 +630,7 @@ Harrison,6,Secretary of State,,Cast Votes,,76,309,385
 Harrison,7,Secretary of State,,Cast Votes,,121,424,545
 Harrison,37,Secretary of State,,Cast Votes,,61,420,481
 Harrison,8,Secretary of State,,Cast Votes,,177,306,483
-Harrison,9,Secretary of State,,Cast Voles,,103,265,368
+Harrison,9,Secretary of State,,Cast Votes,,103,265,368
 Harrison,10,Secretary of State,,Cast Votes,,158,365,523
 Harrison,36,Secretary of State,,Cast Votes,,192,337,529
 Harrison,38,Secretary of State,,Cast Votes,,128,320,448
@@ -673,9 +657,8 @@ Harrison,26,Secretary of State,,Cast Votes,,72,390,462
 Harrison,27,Secretary of State,,Cast Votes,,79,312,391
 Harrison,28,Secretary of State,,Cast Votes,,63,331,394
 Harrison,29,Secretary of State,,Cast Votes,,47,247,294
-Harrison,31,Secretary of State,,Cast Voles,,29,144,173
+Harrison,31,Secretary of State,,Cast Votes,,29,144,173
 Harrison,33,Secretary of State,,Cast Votes,,56,310,366
-Harrison,Total,Secretary of State,,Cast Votes,,3498,11503,15001
 Harrison,1,Secretary of State,,Over Votes,,0,0,0
 Harrison,2,Secretary of State,,Over Votes,,0,0,0
 Harrison,3,Secretary of State,,Over Votes,,0,0,0
@@ -714,7 +697,6 @@ Harrison,28,Secretary of State,,Over Votes,,0,0,0
 Harrison,29,Secretary of State,,Over Votes,,0,0,0
 Harrison,31,Secretary of State,,Over Votes,,0,0,0
 Harrison,33,Secretary of State,,Over Votes,,0,0,0
-Harrison,Total,Secretary of State,,Over Votes,,2,1,3
 Harrison,1,Secretary of State,,Under Votes,,2,17,19
 Harrison,2,Secretary of State,,Under Votes,,1,16,17
 Harrison,3,Secretary of State,,Under Votes,,1,7,8
@@ -753,129 +735,125 @@ Harrison,28,Secretary of State,,Under Votes,,4,19,23
 Harrison,29,Secretary of State,,Under Votes,,0,8,8
 Harrison,31,Secretary of State,,Under Votes,,0,5,5
 Harrison,33,Secretary of State,,Under Votes,,1,7,8
-Harrison,Total,Secretary of State,,Under Votes,,72,401,473
-Harrison,1,Auditor of State,,TERA KLUTZ,,42,188,230
-Harrison,2,Auditor of State,,TERA KLUTZ,,47,213,260
-Harrison,3,Auditor of State,,TERA KLUTZ,,35,151,186
-Harrison,4,Auditor of State,,TERA KLUTZ,,32,188,220
-Harrison,5,Auditor of State,,TERA KLUTZ,,59,231,290
-Harrison,6,Auditor of State,,TERA KLUTZ,,31,223,254
-Harrison,7,Auditor of State,,TERA KLUTZ,,60,270,330
-Harrison,37,Auditor of State,,TERA KLUTZ,,42,275,317
-Harrison,8,Auditor of State,,TERA KLUTZ,,100,198,298
-Harrison,9,Auditor of State,,TERA KLUTZ,,57,167,224
-Harrison,10,Auditor of State,,TERA KLUTZ,,104,237,341
-Harrison,36,Auditor of State,,TERA KLUTZ,,120,219,339
-Harrison,38,Auditor of State,,TERA KLUTZ,,77,209,286
-Harrison,11,Auditor of State,,TERA KLUTZ,,56,100,156
-Harrison,35,Auditor of State,,TERA KLUTZ,,84,148,232
-Harrison,39,Auditor of State,,TERA KLUTZ,,58,118,176
-Harrison,12,Auditor of State,,TERA KLUTZ,,83,242,325
-Harrison,13,Auditor of State,,TERA KLUTZ,,68,241,309
-Harrison,14,Auditor of State,,TERA KLUTZ,,70,183,253
-Harrison,15,Auditor of State,,TERA KLUTZ,,23,126,149
-Harrison,16,Auditor of State,,TERA KLUTZ,,22,104,126
-Harrison,17,Auditor of State,,TERA KLUTZ,,73,233,306
-Harrison,18,Auditor of State,,TERA KLUTZ,,42,199,241
-Harrison,19,Auditor of State,,TERA KLUTZ,,50,247,297
-Harrison,20,Auditor of State,,TERA KLUTZ,,64,283,347
-Harrison,32,Auditor of State,,TERA KLUTZ,,60,196,256
-Harrison,21,Auditor of State,,TERA KLUTZ,,29,215,244
-Harrison,22,Auditor of State,,TERA KLUTZ,,47,175,222
-Harrison,23,Auditor of State,,TERA KLUTZ,,59,254,313
-Harrison,30,Auditor of State,,TERA KLUTZ,,20,85,105
-Harrison,24,Auditor of State,,TERA KLUTZ,,43,281,324
-Harrison,25,Auditor of State,,TERA KLUTZ,,36,198,234
-Harrison,26,Auditor of State,,TERA KLUTZ,,43,254,297
-Harrison,27,Auditor of State,,TERA KLUTZ,,48,196,244
-Harrison,28,Auditor of State,,TERA KLUTZ,,34,201,235
-Harrison,29,Auditor of State,,TERA KLUTZ,,24,154,178
-Harrison,31,Auditor of State,,TERA KLUTZ,,21,90,111
-Harrison,33,Auditor of State,,TERA KLUTZ,,36,214,250
-Harrison,Total,Auditor of State,,TERA KLUTZ,,1999,7506,9505
-Harrison,1,Auditor of State,,JOSELYN WHITTICKER,,32,91,123
-Harrison,2,Auditor of State,,JOSELYN WHITTICKER,,51,111,162
-Harrison,3,Auditor of State,,JOSELYN WHITTICKER,,14,46,60
-Harrison,4,Auditor of State,,JOSELYN WHITTICKER,,10,53,63
-Harrison,5,Auditor of State,,JOSELYN WHITTICKER,,27,115,142
-Harrison,6,Auditor of State,,JOSELYN WHITTICKER,,42,71,113
-Harrison,7,Auditor of State,,JOSELYN WHITTICKER,,56,127,183
-Harrison,37,Auditor of State,,JOSELYN WHITTICKER,,18,114,132
-Harrison,8,Auditor of State,,JOSELYN WHITTICKER,,74,91,165
-Harrison,9,Auditor of State,,JOSELYN WHITTICKER,,43,80,123
-Harrison,10,Auditor of State,,JOSELYN WHITTICKER,,48,106,154
-Harrison,36,Auditor of State,,JOSELYN WHITTICKER,,69,104,173
-Harrison,38,Auditor of State,,JOSELYN WHITTICKER,,45,95,140
-Harrison,11,Auditor of State,,JOSELYN WHITTICKER,,43,58,101
-Harrison,35,Auditor of State,,JOSELYN WHITTICKER,,55,90,145
-Harrison,39,Auditor of State,,JOSELYN WHITTICKER,,51,60,111
-Harrison,12,Auditor of State,,JOSELYN WHITTICKER,,64,93,157
-Harrison,13,Auditor of State,,JOSELYN WHITTICKER,,53,104,157
-Harrison,14,Auditor of State,,JOSELYN WHITTICKER,,72,104,176
-Harrison,15,Auditor of State,,JOSELYN WHITTICKER,,7,47,54
-Harrison,16,Auditor of State,,JOSELYN WHITTICKER,,14,39,53
-Harrison,17,Auditor of State,,JOSELYN WHITTICKER,,58,116,174
-Harrison,18,Auditor of State,,JOSELYN WHITTICKER,,37,84,121
-Harrison,19,Auditor of State,,JOSBLYN WHITTICKER,,21,148,169
-Harrison,20,Auditor of State,,JOSELYN WHITTICKER,,58,129,187
-Harrison,32,Auditor of State,,JOSELYN WHITTICKER,,38,88,126
-Harrison,21,Auditor of State,,JOSELYN WHITTICKER,,36,109,145
-Harrison,22,Auditor of State,,JOSELYN WHITTICKER,,29,91,120
-Harrison,23,Auditor of State,,JOSELYN WHITTICKER,,32,124,156
-Harrison,30,Auditor of State,,JOSELYN WHITTICKER,,8,28,36
-Harrison,24,Auditor of State,,JOSELYN WHITTICKER,,24,72,96
-Harrison,25,Auditor of State,,JOSELYN WHITTICKER,,14,69,83
-Harrison,26,Auditor of State,,JOSELYN WHITTICKER,,25,120,145
-Harrison,27,Auditor of State,,JOSELYN WHITTICKER,,30,102,132
-Harrison,28,Auditor of State,,JOSELYN WHITTICKER,,29,113,142
-Harrison,29,Auditor of State,,JOSELYN WHITTICKER,,22,84,106
-Harrison,31,Auditor of State,,JOSELYN WHITTICKER,,8,45,53
-Harrison,33,Auditor of State,,JOSELYN WHITTICKER,,18,74,92
-Harrison,Total,Auditor of State,,JOSELYN WHITTICKER,,1375,3395,4770
-Harrison,1,Auditor of State,,JOHN SCHICK,,1,9,10
-Harrison,2,Auditor of State,,JOHN SCHICK,,2,17,19
-Harrison,3,Auditor of State,,JOHN SCHICK,,3,7,10
-Harrison,4,Auditor of State,,JOHN SCHICK,,1,13,14
-Harrison,5,Auditor of State,,JOHN SCHICK,,4,19,23
-Harrison,6,Auditor of State,,JOHN SCHICK,,2,13,15
-Harrison,7,Auditor of State,,JOHN SCHICK,,3,16,19
-Harrison,37,Auditor of State,,JOHN SCHICK,,0,24,24
-Harrison,8,Auditor of State,,JOHN SCHICK,,2,10,12
-Harrison,9,Auditor of State,,JOHN SCHICK,,2,13,15
-Harrison,10,Auditor of State,,JOHN SCHICK,,4,17,21
-Harrison,36,Auditor of State,,JOHN SCHICK,,2,13,15
-Harrison,38,Auditor of State,,JOHN SCHICK,,5,16,21
-Harrison,11,Auditor of State,,JOHN SCHICK,,2,6,8
-Harrison,35,Auditor of State,,JOHN SCHICK,,4,10,14
-Harrison,39,Auditor of State,,JOHN SCHICK,,8,7,15
-Harrison,12,Auditor of State,,JOHN SCHICK,,7,15,22
-Harrison,13,Auditor of State,,JOHN SCHICK,,2,11,13
-Harrison,14,Auditor of State,,JOHN SCHICK,,5,12,17
-Harrison,15,Auditor of State,,JOHN SCHICK,,0,11,11
-Harrison,16,Auditor of State,,JOHN SCHICK,,1,4,5
-Harrison,17,Auditor of State,,JOHN SCHICK,,6,17,23
-Harrison,18,Auditor of State,,JOHN SCHICK,,3,12,15
-Harrison,19,Auditor of State,,JOHN SCHICK,,0,14,14
-Harrison,20,Auditor of State,,JOHN SCHICK,,5,18,23
-Harrison,32,Auditor of State,,JOHN SCHICK,,5,10,15
-Harrison,21,Auditor of State,,JOHN SCHICK,,1,14,15
-Harrison,22,Auditor of State,,JOHN SCHICK,,0,17,17
-Harrison,23,Auditor of State,,JOHN SCHICK,,2,14,16
-Harrison,30,Auditor of State,,JOHN SCHICK,,1,3,4
-Harrison,24,Auditor of State,,JOHN SCHICK,,1,18,19
-Harrison,25,Auditor of State,,JOHN SCHICK,,0,5,5
-Harrison,26,Auditor of State,,JOHN SCHICK,,3,16,19
-Harrison,27,Auditor of State,,JOHN SCHICK,,2,11,13
-Harrison,28,Auditor of State,,JOHN SCHICK,,1,13,14
-Harrison,29,Auditor of State,,JOHN SCHICK,,0,4,4
-Harrison,31,Auditor of State,,JOHN SCHICK,,0,8,6
-Harrison,33,Auditor of State,,JOHN SCHICK,,2,14,16
-Harrison,Total,Auditor of State,,JOHN SCHICK,,92,471,561
+Harrison,1,Auditor of State,,TERA KLUTZ,REP,42,188,230
+Harrison,2,Auditor of State,,TERA KLUTZ,REP,47,213,260
+Harrison,3,Auditor of State,,TERA KLUTZ,REP,35,151,186
+Harrison,4,Auditor of State,,TERA KLUTZ,REP,32,188,220
+Harrison,5,Auditor of State,,TERA KLUTZ,REP,59,231,290
+Harrison,6,Auditor of State,,TERA KLUTZ,REP,31,223,254
+Harrison,7,Auditor of State,,TERA KLUTZ,REP,60,270,330
+Harrison,37,Auditor of State,,TERA KLUTZ,REP,42,275,317
+Harrison,8,Auditor of State,,TERA KLUTZ,REP,100,198,298
+Harrison,9,Auditor of State,,TERA KLUTZ,REP,57,167,224
+Harrison,10,Auditor of State,,TERA KLUTZ,REP,104,237,341
+Harrison,36,Auditor of State,,TERA KLUTZ,REP,120,219,339
+Harrison,38,Auditor of State,,TERA KLUTZ,REP,77,209,286
+Harrison,11,Auditor of State,,TERA KLUTZ,REP,56,100,156
+Harrison,35,Auditor of State,,TERA KLUTZ,REP,84,148,232
+Harrison,39,Auditor of State,,TERA KLUTZ,REP,58,118,176
+Harrison,12,Auditor of State,,TERA KLUTZ,REP,83,242,325
+Harrison,13,Auditor of State,,TERA KLUTZ,REP,68,241,309
+Harrison,14,Auditor of State,,TERA KLUTZ,REP,70,183,253
+Harrison,15,Auditor of State,,TERA KLUTZ,REP,23,126,149
+Harrison,16,Auditor of State,,TERA KLUTZ,REP,22,104,126
+Harrison,17,Auditor of State,,TERA KLUTZ,REP,73,233,306
+Harrison,18,Auditor of State,,TERA KLUTZ,REP,42,199,241
+Harrison,19,Auditor of State,,TERA KLUTZ,REP,50,247,297
+Harrison,20,Auditor of State,,TERA KLUTZ,REP,64,283,347
+Harrison,32,Auditor of State,,TERA KLUTZ,REP,60,196,256
+Harrison,21,Auditor of State,,TERA KLUTZ,REP,29,215,244
+Harrison,22,Auditor of State,,TERA KLUTZ,REP,47,175,222
+Harrison,23,Auditor of State,,TERA KLUTZ,REP,59,254,313
+Harrison,30,Auditor of State,,TERA KLUTZ,REP,20,85,105
+Harrison,24,Auditor of State,,TERA KLUTZ,REP,43,281,324
+Harrison,25,Auditor of State,,TERA KLUTZ,REP,36,198,234
+Harrison,26,Auditor of State,,TERA KLUTZ,REP,43,254,297
+Harrison,27,Auditor of State,,TERA KLUTZ,REP,48,196,244
+Harrison,28,Auditor of State,,TERA KLUTZ,REP,34,201,235
+Harrison,29,Auditor of State,,TERA KLUTZ,REP,24,154,178
+Harrison,31,Auditor of State,,TERA KLUTZ,REP,21,90,111
+Harrison,33,Auditor of State,,TERA KLUTZ,REP,36,214,250
+Harrison,1,Auditor of State,,JOSELYN WHITTICKER,DEM,32,91,123
+Harrison,2,Auditor of State,,JOSELYN WHITTICKER,DEM,51,111,162
+Harrison,3,Auditor of State,,JOSELYN WHITTICKER,DEM,14,46,60
+Harrison,4,Auditor of State,,JOSELYN WHITTICKER,DEM,10,53,63
+Harrison,5,Auditor of State,,JOSELYN WHITTICKER,DEM,27,115,142
+Harrison,6,Auditor of State,,JOSELYN WHITTICKER,DEM,42,71,113
+Harrison,7,Auditor of State,,JOSELYN WHITTICKER,DEM,56,127,183
+Harrison,37,Auditor of State,,JOSELYN WHITTICKER,DEM,18,114,132
+Harrison,8,Auditor of State,,JOSELYN WHITTICKER,DEM,74,91,165
+Harrison,9,Auditor of State,,JOSELYN WHITTICKER,DEM,43,80,123
+Harrison,10,Auditor of State,,JOSELYN WHITTICKER,DEM,48,106,154
+Harrison,36,Auditor of State,,JOSELYN WHITTICKER,DEM,69,104,173
+Harrison,38,Auditor of State,,JOSELYN WHITTICKER,DEM,45,95,140
+Harrison,11,Auditor of State,,JOSELYN WHITTICKER,DEM,43,58,101
+Harrison,35,Auditor of State,,JOSELYN WHITTICKER,DEM,55,90,145
+Harrison,39,Auditor of State,,JOSELYN WHITTICKER,DEM,51,60,111
+Harrison,12,Auditor of State,,JOSELYN WHITTICKER,DEM,64,93,157
+Harrison,13,Auditor of State,,JOSELYN WHITTICKER,DEM,53,104,157
+Harrison,14,Auditor of State,,JOSELYN WHITTICKER,DEM,72,104,176
+Harrison,15,Auditor of State,,JOSELYN WHITTICKER,DEM,7,47,54
+Harrison,16,Auditor of State,,JOSELYN WHITTICKER,DEM,14,39,53
+Harrison,17,Auditor of State,,JOSELYN WHITTICKER,DEM,58,116,174
+Harrison,18,Auditor of State,,JOSELYN WHITTICKER,DEM,37,84,121
+Harrison,19,Auditor of State,,JOSBLYN WHITTICKER,DEM,21,148,169
+Harrison,20,Auditor of State,,JOSELYN WHITTICKER,DEM,58,129,187
+Harrison,32,Auditor of State,,JOSELYN WHITTICKER,DEM,38,88,126
+Harrison,21,Auditor of State,,JOSELYN WHITTICKER,DEM,36,109,145
+Harrison,22,Auditor of State,,JOSELYN WHITTICKER,DEM,29,91,120
+Harrison,23,Auditor of State,,JOSELYN WHITTICKER,DEM,32,124,156
+Harrison,30,Auditor of State,,JOSELYN WHITTICKER,DEM,8,28,36
+Harrison,24,Auditor of State,,JOSELYN WHITTICKER,DEM,24,72,96
+Harrison,25,Auditor of State,,JOSELYN WHITTICKER,DEM,14,69,83
+Harrison,26,Auditor of State,,JOSELYN WHITTICKER,DEM,25,120,145
+Harrison,27,Auditor of State,,JOSELYN WHITTICKER,DEM,30,102,132
+Harrison,28,Auditor of State,,JOSELYN WHITTICKER,DEM,29,113,142
+Harrison,29,Auditor of State,,JOSELYN WHITTICKER,DEM,22,84,106
+Harrison,31,Auditor of State,,JOSELYN WHITTICKER,DEM,8,45,53
+Harrison,33,Auditor of State,,JOSELYN WHITTICKER,DEM,18,74,92
+Harrison,1,Auditor of State,,JOHN SCHICK,LIB,1,9,10
+Harrison,2,Auditor of State,,JOHN SCHICK,LIB,2,17,19
+Harrison,3,Auditor of State,,JOHN SCHICK,LIB,3,7,10
+Harrison,4,Auditor of State,,JOHN SCHICK,LIB,1,13,14
+Harrison,5,Auditor of State,,JOHN SCHICK,LIB,4,19,23
+Harrison,6,Auditor of State,,JOHN SCHICK,LIB,2,13,15
+Harrison,7,Auditor of State,,JOHN SCHICK,LIB,3,16,19
+Harrison,37,Auditor of State,,JOHN SCHICK,LIB,0,24,24
+Harrison,8,Auditor of State,,JOHN SCHICK,LIB,2,10,12
+Harrison,9,Auditor of State,,JOHN SCHICK,LIB,2,13,15
+Harrison,10,Auditor of State,,JOHN SCHICK,LIB,4,17,21
+Harrison,36,Auditor of State,,JOHN SCHICK,LIB,2,13,15
+Harrison,38,Auditor of State,,JOHN SCHICK,LIB,5,16,21
+Harrison,11,Auditor of State,,JOHN SCHICK,LIB,2,6,8
+Harrison,35,Auditor of State,,JOHN SCHICK,LIB,4,10,14
+Harrison,39,Auditor of State,,JOHN SCHICK,LIB,8,7,15
+Harrison,12,Auditor of State,,JOHN SCHICK,LIB,7,15,22
+Harrison,13,Auditor of State,,JOHN SCHICK,LIB,2,11,13
+Harrison,14,Auditor of State,,JOHN SCHICK,LIB,5,12,17
+Harrison,15,Auditor of State,,JOHN SCHICK,LIB,0,11,11
+Harrison,16,Auditor of State,,JOHN SCHICK,LIB,1,4,5
+Harrison,17,Auditor of State,,JOHN SCHICK,LIB,6,17,23
+Harrison,18,Auditor of State,,JOHN SCHICK,LIB,3,12,15
+Harrison,19,Auditor of State,,JOHN SCHICK,LIB,0,14,14
+Harrison,20,Auditor of State,,JOHN SCHICK,LIB,5,18,23
+Harrison,32,Auditor of State,,JOHN SCHICK,LIB,5,10,15
+Harrison,21,Auditor of State,,JOHN SCHICK,LIB,1,14,15
+Harrison,22,Auditor of State,,JOHN SCHICK,LIB,0,17,17
+Harrison,23,Auditor of State,,JOHN SCHICK,LIB,2,14,16
+Harrison,30,Auditor of State,,JOHN SCHICK,LIB,1,3,4
+Harrison,24,Auditor of State,,JOHN SCHICK,LIB,1,18,19
+Harrison,25,Auditor of State,,JOHN SCHICK,LIB,0,5,5
+Harrison,26,Auditor of State,,JOHN SCHICK,LIB,3,16,19
+Harrison,27,Auditor of State,,JOHN SCHICK,LIB,2,11,13
+Harrison,28,Auditor of State,,JOHN SCHICK,LIB,1,13,14
+Harrison,29,Auditor of State,,JOHN SCHICK,LIB,0,4,4
+Harrison,31,Auditor of State,,JOHN SCHICK,LIB,0,8,6
+Harrison,33,Auditor of State,,JOHN SCHICK,LIB,2,14,16
 Harrison,1,Auditor of State,,Cast Votes,,75,288,363
 Harrison,2,Auditor of State,,Cast Votes,,100,341,441
-Harrison,3,Auditor of State,,Cast Voles,,52,204,256
+Harrison,3,Auditor of State,,Cast Votes,,52,204,256
 Harrison,4,Auditor of State,,Cast Votes,,43,254,297
-Harrison,5,Auditor of State,,Cast Voles,,90,365,455
+Harrison,5,Auditor of State,,Cast Votes,,90,365,455
 Harrison,6,Auditor of State,,Cast Votes,,75,307,382
 Harrison,7,Auditor of State,,Cast Votes,,119,413,532
 Harrison,37,Auditor of State,,Cast Votes,,60,413,473
@@ -909,7 +887,6 @@ Harrison,28,Auditor of State,,Cast Votes,,64,327,391
 Harrison,29,Auditor of State,,Cast Votes,,46,242,288
 Harrison,31,Auditor of State,,Cast Votes,,29,141,170
 Harrison,33,Auditor of State,,Cast Votes,,56,302,358
-Harrison,Total,Auditor of State,,Cast Votes,,3466,11370,14836
 Harrison,1,Auditor of State,,Over Votes,,0,0,0
 Harrison,2,Auditor of State,,Over Votes,,0,0,0
 Harrison,3,Auditor of State,,Over Votes,,0,0,0
@@ -948,7 +925,6 @@ Harrison,28,Auditor of State,,Over Votes,,0,0,0
 Harrison,29,Auditor of State,,Over Votes,,0,0,0
 Harrison,31,Auditor of State,,Over Votes,,0,0,0
 Harrison,33,Auditor of State,,Over Votes,,0,0,0
-Harrison,Total,Auditor of State,,Over Votes,,1,1,2
 Harrison,1,Auditor of State,,Under Votes,,3,21,24
 Harrison,2,Auditor of State,,Under Votes,,2,16,18
 Harrison,3,Auditor of State,,Under Votes,,0,11,11
@@ -987,87 +963,84 @@ Harrison,28,Auditor of State,,Under Votes,,3,23,26
 Harrison,29,Auditor of State,,Under Votes,,1,13,14
 Harrison,31,Auditor of State,,Under Votes,,0,8,8
 Harrison,33,Auditor of State,,Under Votes,,1,15,16
-Harrison,Total,Auditor of State,,Under Votes,,105,534,639
-Harrison,1,Treasurer of State,,KELLY MITCHELL,,44,200,244
-Harrison,2,Treasurer of State,,KELLY MITCHELL,,51,228,279
-Harrison,3,Treasurer of State,,KELLY MITCHELL,,37,160,197
-Harrison,4,Treasurer of State,,KELLY MITCHELL,,35,200,235
-Harrison,5,Treasurer of State,,KELLY MITCHELL,,60,240,300
-Harrison,6,Treasurer of State,,KELLY MITCHELL,,33,234,267
-Harrison,7,Treasurer of State,,KELLY MITCHELL,,67,294,361
-Harrison,37,Treasurer of State,,KELLY MITCHELL,,45,304,349
-Harrison,8,Treasurer of State,,KELLY MITCHELL,,105,212,317
-Harrison,9,Treasurer of State,,KELLY MITCHELL,,60,178,238
-Harrison,10,Treasurer of State,,KELLY MITCHELL,,106,255,361
-Harrison,36,Treasurer of State,,KELLY MITCHELL,,122,238,360
-Harrison,38,Treasurer of State,,KELLY MITCHELL,,80,232,312
-Harrison,11,Treasurer of State,,KELLY MITCHELL,,54,106,160
-Harrison,35,Treasurer of State,,KELLY MITCHELL,,87,161,248
-Harrison,39,Treasurer of State,,KELLY MITCHELL,,61,126,187
-Harrison,12,Treasurer of State,,KELLY MITCHELL,,92,253,345
-Harrison,13,Treasurer of State,,KELLY MITCHELL,,74,260,334
-Harrison,14,Treasurer of State,,KELLY MITCHELL,,79,194,273
-Harrison,15,Treasurer of State,,KELLY MITCHELL,,24,137,161
-Harrison,16,Treasurer of State,,KELLY MITCHELL,,25,113,138
-Harrison,17,Treasurer of State,,KELLY MITCHELL,,77,253,330
-Harrison,18,Treasurer of State,,KELLY MITCHELL,,45,214,259
-Harrison,19,Treasurer of State,,KELLY MITCHELL,,50,259,309
-Harrison,20,Treasurer of State,,KELLY MITCHELL,,72,303,375
-Harrison,32,Treasurer of State,,KELLY MITCHELL,,65,209,274
-Harrison,21,Treasurer of State,,KELLY MITCHELL,,30,229,259
-Harrison,22,Treasurer of State,,KELLY MITCHELL,,52,191,243
-Harrison,23,Treasurer of State,,KELLY MITCHELL,,61,274,335
-Harrison,30,Treasurer of State,,KELLY MITCHELL,,19,87,106
-Harrison,24,Treasurer of State,,KELLY MITCHELL,,44,304,348
-Harrison,25,Treasurer of State,,KELLY MITCHELL,,37,210,247
-Harrison,26,Treasurer of State,,KELLY MITCHELL,,49,266,315
-Harrison,27,Treasurer of State,,KELLY MITCHELL,,47,212,259
-Harrison,28,Treasurer of State,,KELLY MITCHELL,,35,210,245
-Harrison,29,Treasurer of State,,KELLY MITCHELL,,27,159,166
-Harrison,31,Treasurer of State,,KELLY MITCHELL,,20,104,124
-Harrison,33,Treasurer of State,,KELLY MITCHELL,,38,236,274
-Harrison,34,Treasurer of State,,KELLY MITCHELL,,42,195,237
-Harrison,Total,Treasurer of State,,KELLY MITCHELL,,2151,8240,10371
-Harrison,1,Treasurer of State,,JOHN C. AGUILERA,,30,85,115
-Harrison,2,Treasurer of State,,JOHN C. AGUILERA,,50,107,157
-Harrison,3,Treasurer of State,,JOHN C. AGUILERA,,14,44,58
-Harrison,4,Treasurer of State,,JOHN C. AGUILERA,,7,52,59
-Harrison,5,Treasurer of State,,JOHN C. AGUILERA,,31,117,148
-Harrison,6,Treasurer of State,,JOHN C. AGUILERA,,42,70,112
-Harrison,7,Treasurer of State,,JOHN C. AGUILERA,,51,118,169
-Harrison,37,Treasurer of State,,JOHN C. AGUILERA,,15,101,116
-Harrison,8,Treasurer of State,,JOHN C. AGUILERA,,71,82,153
-Harrison,9,Treasurer of State,,JOHN C. AGUILERA,,43,81,124
-Harrison,10,Treasurer of State,,JOHN C. AGUILERA,,49,101,150
-Harrison,36,Treasurer of State,,JOHN C. AGUILERA,,70,96,166
-Harrison,38,Treasurer of State,,JOHN C. AGUILERA,,44,85,129
-Harrison,11,Treasurer of State,,JOHN C. AGUILERA,,46,56,102
-Harrison,35,Treasurer of State,,JOHN C. AGUILERA,,56,85,141
-Harrison,39,Treasurer of State,,JOHN C. AGUILERA,,54,55,109
-Harrison,12,Treasurer of State,,JOHN C. AGUILERA,,60,88,148
-Harrison,13,Treasurer of State,,JOHN C. AGUILERA,,47,90,137
-Harrison,14,Treasurer of State,,JOHN C. AGUILERA,,68,101,169
-Harrison,15,Treasurer of State,,JOHN C. AGUILERA,,6,44,50
-Harrison,16,Treasurer of State,,JOHN C. AGUILERA,,12,31,43
-Harrison,17,Treasurer of State,,JOHN C. AGUILERA,,57,113,170
-Harrison,18,Treasurer of State,,JOHN C. AGUILERA,,38,79,117
-Harrison,19,Treasurer of State,,JOHN C. AGUILERA,,20,142,162
-Harrison,20,Treasurer of State,,JOHN C. AGUILERA,,55,122,177
-Harrison,32,Treasurer of State,,JOHN C. AGUILERA,,38,85,123
-Harrison,21,Treasurer of State,,JOHN C. AGUILERA,,36,108,144
-Harrison,22,Treasurer of State,,JOHN C. AGUILERA,,24,85,109
-Harrison,23,Treasurer of State,,JOHN C. AGUILERA,,31,116,147
-Harrison,30,Treasurer of State,,JOHN C. AGUILERA,,9,31,40
-Harrison,24,Treasurer of State,,JOHN C. AGUILERA,,23,65,88
-Harrison,25,Treasurer of State,,JOHN C. AGUILERA,,13,61,74
-Harrison,26,Treasurer of State,,JOHN C. AGUILERA,,23,115,138
-Harrison,27,Treasurer of State,,JOHN C. AGUILERA,,33,92,125
-Harrison,28,Treasurer of State,,JOHN C. AGU1LERA,,28,115,143
-Harrison,29,Treasurer of State,,JOHN C AGUILERA,,20,80,100
-Harrison,31,Treasurer of State,,JOHN C. AGUILERA,,9,38,47
-Harrison,33,Treasurer of State,,JOHN C. AGUILERA,,18,67,85
-Harrison,34,Treasurer of State,,JOHN C. AGUILERA,,27,66,93
-Harrison,Total,Treasurer of State,,JOHN C. AGUILERA,,1368,3269,4637
+Harrison,1,Treasurer of State,,KELLY MITCHELL,REP,44,200,244
+Harrison,2,Treasurer of State,,KELLY MITCHELL,REP,51,228,279
+Harrison,3,Treasurer of State,,KELLY MITCHELL,REP,37,160,197
+Harrison,4,Treasurer of State,,KELLY MITCHELL,REP,35,200,235
+Harrison,5,Treasurer of State,,KELLY MITCHELL,REP,60,240,300
+Harrison,6,Treasurer of State,,KELLY MITCHELL,REP,33,234,267
+Harrison,7,Treasurer of State,,KELLY MITCHELL,REP,67,294,361
+Harrison,37,Treasurer of State,,KELLY MITCHELL,REP,45,304,349
+Harrison,8,Treasurer of State,,KELLY MITCHELL,REP,105,212,317
+Harrison,9,Treasurer of State,,KELLY MITCHELL,REP,60,178,238
+Harrison,10,Treasurer of State,,KELLY MITCHELL,REP,106,255,361
+Harrison,36,Treasurer of State,,KELLY MITCHELL,REP,122,238,360
+Harrison,38,Treasurer of State,,KELLY MITCHELL,REP,80,232,312
+Harrison,11,Treasurer of State,,KELLY MITCHELL,REP,54,106,160
+Harrison,35,Treasurer of State,,KELLY MITCHELL,REP,87,161,248
+Harrison,39,Treasurer of State,,KELLY MITCHELL,REP,61,126,187
+Harrison,12,Treasurer of State,,KELLY MITCHELL,REP,92,253,345
+Harrison,13,Treasurer of State,,KELLY MITCHELL,REP,74,260,334
+Harrison,14,Treasurer of State,,KELLY MITCHELL,REP,79,194,273
+Harrison,15,Treasurer of State,,KELLY MITCHELL,REP,24,137,161
+Harrison,16,Treasurer of State,,KELLY MITCHELL,REP,25,113,138
+Harrison,17,Treasurer of State,,KELLY MITCHELL,REP,77,253,330
+Harrison,18,Treasurer of State,,KELLY MITCHELL,REP,45,214,259
+Harrison,19,Treasurer of State,,KELLY MITCHELL,REP,50,259,309
+Harrison,20,Treasurer of State,,KELLY MITCHELL,REP,72,303,375
+Harrison,32,Treasurer of State,,KELLY MITCHELL,REP,65,209,274
+Harrison,21,Treasurer of State,,KELLY MITCHELL,REP,30,229,259
+Harrison,22,Treasurer of State,,KELLY MITCHELL,REP,52,191,243
+Harrison,23,Treasurer of State,,KELLY MITCHELL,REP,61,274,335
+Harrison,30,Treasurer of State,,KELLY MITCHELL,REP,19,87,106
+Harrison,24,Treasurer of State,,KELLY MITCHELL,REP,44,304,348
+Harrison,25,Treasurer of State,,KELLY MITCHELL,REP,37,210,247
+Harrison,26,Treasurer of State,,KELLY MITCHELL,REP,49,266,315
+Harrison,27,Treasurer of State,,KELLY MITCHELL,REP,47,212,259
+Harrison,28,Treasurer of State,,KELLY MITCHELL,REP,35,210,245
+Harrison,29,Treasurer of State,,KELLY MITCHELL,REP,27,159,186
+Harrison,31,Treasurer of State,,KELLY MITCHELL,REP,20,104,124
+Harrison,33,Treasurer of State,,KELLY MITCHELL,REP,38,236,274
+Harrison,34,Treasurer of State,,KELLY MITCHELL,REP,42,195,237
+Harrison,1,Treasurer of State,,JOHN C. AGUILERA,DEM,30,85,115
+Harrison,2,Treasurer of State,,JOHN C. AGUILERA,DEM,50,107,157
+Harrison,3,Treasurer of State,,JOHN C. AGUILERA,DEM,14,44,58
+Harrison,4,Treasurer of State,,JOHN C. AGUILERA,DEM,7,52,59
+Harrison,5,Treasurer of State,,JOHN C. AGUILERA,DEM,31,117,148
+Harrison,6,Treasurer of State,,JOHN C. AGUILERA,DEM,42,70,112
+Harrison,7,Treasurer of State,,JOHN C. AGUILERA,DEM,51,118,169
+Harrison,37,Treasurer of State,,JOHN C. AGUILERA,DEM,15,101,116
+Harrison,8,Treasurer of State,,JOHN C. AGUILERA,DEM,71,82,153
+Harrison,9,Treasurer of State,,JOHN C. AGUILERA,DEM,43,81,124
+Harrison,10,Treasurer of State,,JOHN C. AGUILERA,DEM,49,101,150
+Harrison,36,Treasurer of State,,JOHN C. AGUILERA,DEM,70,96,166
+Harrison,38,Treasurer of State,,JOHN C. AGUILERA,DEM,44,85,129
+Harrison,11,Treasurer of State,,JOHN C. AGUILERA,DEM,46,56,102
+Harrison,35,Treasurer of State,,JOHN C. AGUILERA,DEM,56,85,141
+Harrison,39,Treasurer of State,,JOHN C. AGUILERA,DEM,54,55,109
+Harrison,12,Treasurer of State,,JOHN C. AGUILERA,DEM,60,88,148
+Harrison,13,Treasurer of State,,JOHN C. AGUILERA,DEM,47,90,137
+Harrison,14,Treasurer of State,,JOHN C. AGUILERA,DEM,68,101,169
+Harrison,15,Treasurer of State,,JOHN C. AGUILERA,DEM,6,44,50
+Harrison,16,Treasurer of State,,JOHN C. AGUILERA,DEM,12,31,43
+Harrison,17,Treasurer of State,,JOHN C. AGUILERA,DEM,57,113,170
+Harrison,18,Treasurer of State,,JOHN C. AGUILERA,DEM,38,79,117
+Harrison,19,Treasurer of State,,JOHN C. AGUILERA,DEM,20,142,162
+Harrison,20,Treasurer of State,,JOHN C. AGUILERA,DEM,55,122,177
+Harrison,32,Treasurer of State,,JOHN C. AGUILERA,DEM,38,85,123
+Harrison,21,Treasurer of State,,JOHN C. AGUILERA,DEM,36,108,144
+Harrison,22,Treasurer of State,,JOHN C. AGUILERA,DEM,24,85,109
+Harrison,23,Treasurer of State,,JOHN C. AGUILERA,DEM,31,116,147
+Harrison,30,Treasurer of State,,JOHN C. AGUILERA,DEM,9,31,40
+Harrison,24,Treasurer of State,,JOHN C. AGUILERA,DEM,23,65,88
+Harrison,25,Treasurer of State,,JOHN C. AGUILERA,DEM,13,61,74
+Harrison,26,Treasurer of State,,JOHN C. AGUILERA,DEM,23,115,138
+Harrison,27,Treasurer of State,,JOHN C. AGUILERA,DEM,33,92,125
+Harrison,28,Treasurer of State,,JOHN C. AGUILERA,DEM,28,115,143
+Harrison,29,Treasurer of State,,JOHN C. AGUILERA,DEM,20,80,100
+Harrison,31,Treasurer of State,,JOHN C. AGUILERA,DEM,9,38,47
+Harrison,33,Treasurer of State,,JOHN C. AGUILERA,DEM,18,67,85
+Harrison,34,Treasurer of State,,JOHN C. AGUILERA,DEM,27,66,93
 Harrison,1,Treasurer of State,,Cast Votes,,74,285,359
 Harrison,2,Treasurer of State,,Cast Votes,,101,335,436
 Harrison,3,Treasurer of State,,Cast Votes,,51,204,255
@@ -1088,7 +1061,7 @@ Harrison,12,Treasurer of State,,Cast Votes,,152,341,493
 Harrison,13,Treasurer of State,,Cast Votes,,121,350,471
 Harrison,14,Treasurer of State,,Cast Votes,,147,295,442
 Harrison,15,Treasurer of State,,Cast Votes,,30,181,211
-Harrison,16,Treasurer of State,,Cast Voles,,37,144,181
+Harrison,16,Treasurer of State,,Cast Votes,,37,144,181
 Harrison,17,Treasurer of State,,Cast Votes,,134,366,500
 Harrison,18,Treasurer of State,,Cast Votes,,83,293,376
 Harrison,19,Treasurer of State,,Cast Votes,,70,401,471
@@ -1099,7 +1072,7 @@ Harrison,22,Treasurer of State,,Cast Votes,,76,276,352
 Harrison,23,Treasurer of State,,Cast Votes,,92,390,482
 Harrison,30,Treasurer of State,,Cast Votes,,28,118,146
 Harrison,24,Treasurer of State,,Cast Votes,,67,369,436
-Harrison,25,Treasurer of State,,Cast Voles,,50,271,321
+Harrison,25,Treasurer of State,,Cast Votes,,50,271,321
 Harrison,26,Treasurer of State,,Cast Votes,,72,381,453
 Harrison,27,Treasurer of State,,Cast Votes,,80,304,384
 Harrison,28,Treasurer of State,,Cast Votes,,63,325,388
@@ -1107,7 +1080,6 @@ Harrison,29,Treasurer of State,,Cast Votes,,47,239,286
 Harrison,31,Treasurer of State,,Cast Votes,,29,142,171
 Harrison,33,Treasurer of State,,Cast Votes,,56,303,359
 Harrison,34,Treasurer of State,,Cast Votes,,69,261,330
-Harrison,Total,Treasurer of State,,Cast Votes,,3519,11509,15023
 Harrison,1,Treasurer of State,,Over Votes,,0,0,0
 Harrison,2,Treasurer of State,,Over Votes,,0,0,0
 Harrison,3,Treasurer of State,,Over Votes,,0,0,0
@@ -1147,7 +1119,6 @@ Harrison,29,Treasurer of State,,Over Votes,,0,0,0
 Harrison,31,Treasurer of State,,Over Votes,,0,0,0
 Harrison,33,Treasurer of State,,Over Votes,,0,0,0
 Harrison,34,Treasurer of State,,Over Votes,,0,0,0
-Harrison,Total,Treasurer of State,,Over Votes,,1,1,2
 Harrison,1,Treasurer of State,,Under Votes,,4,24,28
 Harrison,2,Treasurer of State,,Under Votes,,1,22,23
 Harrison,3,Treasurer of State,,Under Votes,,1,11,12
@@ -1187,99 +1158,96 @@ Harrison,29,Treasurer of State,,Under Votes,,0,16,16
 Harrison,31,Treasurer of State,,Under Votes,,0,7,7
 Harrison,33,Treasurer of State,,Under Votes,,1,14,15
 Harrison,34,Treasurer of State,,Under Votes,,1,11,12
-Harrison,Total,Treasurer of State,,Under Votes,,122,667,789
-Harrison,FEDERAL,U.S. House,9,TREY HOLLINGSWORTH,,0,0,0
-Harrison,1,U.S. House,9,TREY HOLLINGSWORTH,,44,206,250
-Harrison,2,U.S. House,9,TREY HOLLINGSWORTH,,51,225,276
-Harrison,3,U.S. House,9,TREY HOLLINGSWORTH,,36,157,193
-Harrison,4,U.S. House,9,TREY HOLLINGSWORTH,,34,188,222
-Harrison,5,U.S. House,9,TREY HOLLINGSWORTH,,56,246,302
-Harrison,6,U.S. House,9,TREY HOLLINGSWORTH,,34,238,272
-Harrison,7,U.S. House,9,TREY HOLLINGSWORTH,,65,283,348
-Harrison,37,U.S. House,9,TREY HOLLINGSWORTH,,41,291,332
-Harrison,8,U.S. House,9,TREY HOLLINGSWORTH,,102,202,304
-Harrison,9,U.S. House,9,TREY HOLLINGSWORTH,,59,182,241
-Harrison,10,U.S. House,9,TREY HOLLINGSWORTH,,105,248,353
-Harrison,36,U.S. House,9,TREY HOLLINGSWORTH,,118,215,333
-Harrison,38,U.S. House,9,TREY HOLLINGSWORTH,,80,231,311
-Harrison,11,U.S. House,9,TREY HOLLINGSWORTH,,57,98,155
-Harrison,35,U.S. House,9,TREY HOLLINGSWORTH,,77,157,234
-Harrison,39,U.S. House,9,TREY HOLLINGSWORTH,,67,121,188
-Harrison,12,U.S. House,9,TREY HOLLINGSWORTH,,91,246,337
-Harrison,13,U.S. House,9,TREY HOLLINGSWORTH,,69,235,304
-Harrison,14,U.S. House,9,TREY HOLLINGSWORTH,,80,198,278
-Harrison,15,U.S. House,9,TREY HOLLINGSWORTH,,25,136,161
-Harrison,16,U.S. House,9,TREY HOLLINGSWORTH,,21,113,134
-Harrison,17,U.S. House,9,TREY HOLLINGSWORTH,,79,242,321
-Harrison,18,U.S. House,9,TREY HOLLINGSWORTH,,42,211,253
-Harrison,19,U.S. House,9,TREY HOLLINGSWORTH,,50,257,307
-Harrison,20,U.S. House,9,TREY HOLLINGSWORTH,,63,301,364
-Harrison,32,U.S. House,9,TREY HOLLINGSWORTH,,61,207,268
-Harrison,21,U.S. House,9,TREY HOLLINGSWORTH,,26,230,256
-Harrison,22,U.S. House,9,TREY HOLLINGSWORTH,,52,177,229
-Harrison,23,U.S. House,9,TREY HOLLINGSWORTH,,58,258,316
-Harrison,30,U.S. House,9,TREY HOLLINGSWORTH,,17,93,110
-Harrison,24,U.S. House,9,TREY HOLLINGSWORTH,,44,299,343
-Harrison,25,U.S. House,9,TREY HOLLINGSWORTH,,37,194,231
-Harrison,26,U.S. House,9,TREY HOLLINGSWORTH,,51,264,315
-Harrison,27,U.S. House,9,TREY HOLLINGSWORTH,,46,203,249
-Harrison,28,U.S. House,9,TREY HOLLINGSWORTH,,33,207,240
-Harrison,29,U.S. House,9,TREY HOLLINGSWORTH,,24,161,185
-Harrison,31,U.S. House,9,TREY HOLLINGSWORTH,,21,98,119
-Harrison,33,U.S. House,9,TREY HOLLINGSWORTH,,36,222,258
-Harrison,34,U.S. House,9,TREY HOLLINGSWORTH,,44,185,229
-Harrison,Total,U.S. House,9,TREY HOLLINGSWORTH,,2096,8025,10121
-Harrison,FEDERAL,U.S. House,9,LIZ WATSON,,0,0,0
-Harrison,1,U.S. House,9,LIZ WATSON,,34,98,132
-Harrison,2,U.S. House,9,LIZ WATSON,,50,122,172
-Harrison,3,U.S. House,9,LIZ WATSON,,16,55,71
-Harrison,4,U.S. House,9,LIZ WATSON,,11,68,79
-Harrison,5,U.S. House,9,LIZ WATSON,,36,129,165
-Harrison,6,U.S. House,9,LIZ WATSON,,43,78,121
-Harrison,7,U.S. House,9,LIZ WATSON,,56,148,204
-Harrison,37,U.S. House,9,LIZ WATSON,,19,135,154
-Harrison,8,U.S. House,9,LIZ WATSON,,75,106,181
-Harrison,9,U.S. House,9,LIZ WATSON,,47,93,140
-Harrison,10,U.S. House,9,LIZ WATSON,,57,124,181
-Harrison,36,U.S. House,9,LIZ WATSON,,78,121,199
-Harrison,38,U.S. House,9,LIZ WATSON,,48,95,143
-Harrison,11,U.S. House,9,LIZ WATSON,,45,72,117
-Harrison,35,U.S. House,9,LIZ WATSON,,66,95,161
-Harrison,39,U.S. House,9,LIZ WATSON,,55,68,123
-Harrison,12,U.S. House,9,LIZ WATSON,,66,115,181
-Harrison,13,U.S. House,9,LIZ WATSON,,56,128,184
-Harrison,14,U.S. House,9,LIZ WATSON,,68,107,175
-Harrison,15,U.S. House,9,LIZ WATSON,,6,54,60
-Harrison,16,U.S. House,9,LIZ WATSON,,17,41,58
-Harrison,17,U.S. House,9,LIZ WATSON,,60,127,187
-Harrison,18,U.S. House,9,LIZ WATSON,,41,88,129
-Harrison,19,U.S. House,9,LIZ WATSON,,23,159,182
-Harrison,20,U.S. House,9,LIZ WATSON,,67,139,206
-Harrison,32,U.S. House,9,LIZ WATSON,,46,93,139
-Harrison,21,U.S. House,9,LIZ WATSON,,40,119,159
-Harrison,22,U.S. House,9,LIZ WATSON,,25,109,134
-Harrison,23,U.S. House,9,LIZ WATSON,,34,142,176
-Harrison,30,U.S. House,9,LIZ WATSON,,12,28,40
-Harrison,24,U.S. House,9,LIZ WATSON,,25,66,111
-Harrison,25,U.S. House,9,LIZ WATSON,,13,86,99
-Harrison,26,U.S. House,9,LIZ WATSON,,24,139,163
-Harrison,27,U.S. House,9,LIZ WATSON,,35,115,150
-Harrison,28,U.S. House,9,LIZ WATSON,,34,133,167
-Harrison,29,U.S. House,9,LIZ WATSON,,23,87,110
-Harrison,31,U.S. House,9,LIZ WATSON,,8,48,56
-Harrison,33,U.S. House,9,LIZ WATSON,,21,93,114
-Harrison,34,U.S. House,9,LIZ WATSON,,26,86,112
-Harrison,Total,U.S. House,9,LIZ WATSON,,1506,3909,5435
+Harrison,FEDERAL,U.S. House,9,TREY HOLLINGSWORTH,REP,0,0,0
+Harrison,1,U.S. House,9,TREY HOLLINGSWORTH,REP,44,206,250
+Harrison,2,U.S. House,9,TREY HOLLINGSWORTH,REP,51,225,276
+Harrison,3,U.S. House,9,TREY HOLLINGSWORTH,REP,36,157,193
+Harrison,4,U.S. House,9,TREY HOLLINGSWORTH,REP,34,188,222
+Harrison,5,U.S. House,9,TREY HOLLINGSWORTH,REP,56,246,302
+Harrison,6,U.S. House,9,TREY HOLLINGSWORTH,REP,34,238,272
+Harrison,7,U.S. House,9,TREY HOLLINGSWORTH,REP,65,283,348
+Harrison,37,U.S. House,9,TREY HOLLINGSWORTH,REP,41,291,332
+Harrison,8,U.S. House,9,TREY HOLLINGSWORTH,REP,102,202,304
+Harrison,9,U.S. House,9,TREY HOLLINGSWORTH,REP,59,182,241
+Harrison,10,U.S. House,9,TREY HOLLINGSWORTH,REP,105,248,353
+Harrison,36,U.S. House,9,TREY HOLLINGSWORTH,REP,118,215,333
+Harrison,38,U.S. House,9,TREY HOLLINGSWORTH,REP,80,231,311
+Harrison,11,U.S. House,9,TREY HOLLINGSWORTH,REP,57,98,155
+Harrison,35,U.S. House,9,TREY HOLLINGSWORTH,REP,77,157,234
+Harrison,39,U.S. House,9,TREY HOLLINGSWORTH,REP,67,121,188
+Harrison,12,U.S. House,9,TREY HOLLINGSWORTH,REP,91,246,337
+Harrison,13,U.S. House,9,TREY HOLLINGSWORTH,REP,69,235,304
+Harrison,14,U.S. House,9,TREY HOLLINGSWORTH,REP,80,198,278
+Harrison,15,U.S. House,9,TREY HOLLINGSWORTH,REP,25,136,161
+Harrison,16,U.S. House,9,TREY HOLLINGSWORTH,REP,21,113,134
+Harrison,17,U.S. House,9,TREY HOLLINGSWORTH,REP,79,242,321
+Harrison,18,U.S. House,9,TREY HOLLINGSWORTH,REP,42,211,253
+Harrison,19,U.S. House,9,TREY HOLLINGSWORTH,REP,50,257,307
+Harrison,20,U.S. House,9,TREY HOLLINGSWORTH,REP,63,301,364
+Harrison,32,U.S. House,9,TREY HOLLINGSWORTH,REP,61,207,268
+Harrison,21,U.S. House,9,TREY HOLLINGSWORTH,REP,26,230,256
+Harrison,22,U.S. House,9,TREY HOLLINGSWORTH,REP,52,177,229
+Harrison,23,U.S. House,9,TREY HOLLINGSWORTH,REP,58,258,316
+Harrison,30,U.S. House,9,TREY HOLLINGSWORTH,REP,17,93,110
+Harrison,24,U.S. House,9,TREY HOLLINGSWORTH,REP,44,299,343
+Harrison,25,U.S. House,9,TREY HOLLINGSWORTH,REP,37,194,231
+Harrison,26,U.S. House,9,TREY HOLLINGSWORTH,REP,51,264,315
+Harrison,27,U.S. House,9,TREY HOLLINGSWORTH,REP,46,203,249
+Harrison,28,U.S. House,9,TREY HOLLINGSWORTH,REP,33,207,240
+Harrison,29,U.S. House,9,TREY HOLLINGSWORTH,REP,24,161,185
+Harrison,31,U.S. House,9,TREY HOLLINGSWORTH,REP,21,98,119
+Harrison,33,U.S. House,9,TREY HOLLINGSWORTH,REP,36,222,258
+Harrison,34,U.S. House,9,TREY HOLLINGSWORTH,REP,44,185,229
+Harrison,FEDERAL,U.S. House,9,LIZ WATSON,DEM,0,0,0
+Harrison,1,U.S. House,9,LIZ WATSON,DEM,34,98,132
+Harrison,2,U.S. House,9,LIZ WATSON,DEM,50,122,172
+Harrison,3,U.S. House,9,LIZ WATSON,DEM,16,55,71
+Harrison,4,U.S. House,9,LIZ WATSON,DEM,11,68,79
+Harrison,5,U.S. House,9,LIZ WATSON,DEM,36,129,165
+Harrison,6,U.S. House,9,LIZ WATSON,DEM,43,78,121
+Harrison,7,U.S. House,9,LIZ WATSON,DEM,56,148,204
+Harrison,37,U.S. House,9,LIZ WATSON,DEM,19,135,154
+Harrison,8,U.S. House,9,LIZ WATSON,DEM,75,106,181
+Harrison,9,U.S. House,9,LIZ WATSON,DEM,47,93,140
+Harrison,10,U.S. House,9,LIZ WATSON,DEM,57,124,181
+Harrison,36,U.S. House,9,LIZ WATSON,DEM,78,121,199
+Harrison,38,U.S. House,9,LIZ WATSON,DEM,48,95,143
+Harrison,11,U.S. House,9,LIZ WATSON,DEM,45,72,117
+Harrison,35,U.S. House,9,LIZ WATSON,DEM,66,95,161
+Harrison,39,U.S. House,9,LIZ WATSON,DEM,55,68,123
+Harrison,12,U.S. House,9,LIZ WATSON,DEM,66,115,181
+Harrison,13,U.S. House,9,LIZ WATSON,DEM,56,128,184
+Harrison,14,U.S. House,9,LIZ WATSON,DEM,68,107,175
+Harrison,15,U.S. House,9,LIZ WATSON,DEM,6,54,60
+Harrison,16,U.S. House,9,LIZ WATSON,DEM,17,41,58
+Harrison,17,U.S. House,9,LIZ WATSON,DEM,60,127,187
+Harrison,18,U.S. House,9,LIZ WATSON,DEM,41,88,129
+Harrison,19,U.S. House,9,LIZ WATSON,DEM,23,159,182
+Harrison,20,U.S. House,9,LIZ WATSON,DEM,67,139,206
+Harrison,32,U.S. House,9,LIZ WATSON,DEM,46,93,139
+Harrison,21,U.S. House,9,LIZ WATSON,DEM,40,119,159
+Harrison,22,U.S. House,9,LIZ WATSON,DEM,25,109,134
+Harrison,23,U.S. House,9,LIZ WATSON,DEM,34,142,176
+Harrison,30,U.S. House,9,LIZ WATSON,DEM,12,28,40
+Harrison,24,U.S. House,9,LIZ WATSON,DEM,25,66,111
+Harrison,25,U.S. House,9,LIZ WATSON,DEM,13,86,99
+Harrison,26,U.S. House,9,LIZ WATSON,DEM,24,139,163
+Harrison,27,U.S. House,9,LIZ WATSON,DEM,35,115,150
+Harrison,28,U.S. House,9,LIZ WATSON,DEM,34,133,167
+Harrison,29,U.S. House,9,LIZ WATSON,DEM,23,87,110
+Harrison,31,U.S. House,9,LIZ WATSON,DEM,8,48,56
+Harrison,33,U.S. House,9,LIZ WATSON,DEM,21,93,114
+Harrison,34,U.S. House,9,LIZ WATSON,DEM,26,86,112
 Harrison,FEDERAL,U.S. House,9,Cast Votes,,0,0,0
 Harrison,1,U.S. House,9,Cast Votes,,78,304,382
 Harrison,2,U.S. House,9,Cast Votes,,101,347,448
 Harrison,3,U.S. House,9,Cast Votes,,52,212,264
 Harrison,4,U.S. House,9,Cast Votes,,45,256,301
-Harrison,5,U.S. House,9,Cast Voles,,92,375,467
+Harrison,5,U.S. House,9,Cast Votes,,92,375,467
 Harrison,6,U.S. House,9,Cast Votes,,77,316,393
 Harrison,7,U.S. House,9,Cast Votes,,121,431,552
 Harrison,37,U.S. House,9,Cast Votes,,60,426,486
-Harrison,8,U.S. House,9,Cast Voles,,177,308,485
+Harrison,8,U.S. House,9,Cast Votes,,177,308,485
 Harrison,9,U.S. House,9,Cast Votes,,106,275,381
 Harrison,10,U.S. House,9,Cast Votes,,162,372,534
 Harrison,36,U.S. House,9,Cast Votes,,196,336,532
@@ -1291,16 +1259,16 @@ Harrison,12,U.S. House,9,Cast Votes,,157,361,518
 Harrison,13,U.S. House,9,Cast Votes,,125,363,488
 Harrison,14,U.S. House,9,Cast Votes,,148,305,453
 Harrison,15,U.S. House,9,Cast Votes,,31,190,221
-Harrison,16,U.S. House,9,Cast Voles,,38,154,192
+Harrison,16,U.S. House,9,Cast Votes,,38,154,192
 Harrison,17,U.S. House,9,Cast Votes,,139,369,508
 Harrison,18,U.S. House,9,Cast Votes,,83,299,382
 Harrison,19,U.S. House,9,Cast Votes,,73,416,489
 Harrison,20,U.S. House,9,Cast Votes,,130,440,570
-Harrison,32,U.S. House,9,Cast Voles,,107,300,407
-Harrison,21,U.S. House,9,Cast Voles,,66,349,415
+Harrison,32,U.S. House,9,Cast Votes,,107,300,407
+Harrison,21,U.S. House,9,Cast Votes,,66,349,415
 Harrison,22,U.S. House,9,Cast Votes,,77,286,363
 Harrison,23,U.S. House,9,Cast Votes,,92,400,492
-Harrison,30,U.S. House,9,Cast Voles,,29,121,150
+Harrison,30,U.S. House,9,Cast Votes,,29,121,150
 Harrison,24,U.S. House,9,Cast Votes,,69,385,454
 Harrison,25,U.S. House,9,Cast Votes,,50,280,330
 Harrison,26,U.S. House,9,Cast Votes,,75,403,479
@@ -1310,7 +1278,6 @@ Harrison,29,U.S. House,9,Cast Votes,,47,248,295
 Harrison,31,U.S. House,9,Cast Votes,,29,146,175
 Harrison,33,U.S. House,9,Cast Votes,,57,315,372
 Harrison,34,U.S. House,9,Cast Votes,,70,271,341
-Harrison,Total,U.S. House,9,Cast Votes,,3602,11954,15557
 Harrison,FEDERAL,U.S. House,9,Over Votes,,0,0,0
 Harrison,1,U.S. House,9,Over Votes,,0,0,0
 Harrison,2,U.S. House,9,Over Votes,,0,0,0
@@ -1351,7 +1318,6 @@ Harrison,29,U.S. House,9,Over Votes,,0,0,0
 Harrison,31,U.S. House,9,Over Votes,,0,0,0
 Harrison,33,U.S. House,9,Over Votes,,0,0,0
 Harrison,34,U.S. House,9,Over Votes,,0,0,0
-Harrison,Total,U.S. House,9,Over Votes,,1,1,2
 Harrison,FEDERAL,U.S. House,9,Under Votes,,0,0,0
 Harrison,1,U.S. House,9,Under Votes,,0,5,5
 Harrison,2,U.S. House,9,Under Votes,,1,10,11
@@ -1392,87 +1358,84 @@ Harrison,29,U.S. House,9,Under Votes,,0,7,7
 Harrison,31,U.S. House,9,Under Votes,,0,3,3
 Harrison,33,U.S. House,9,Under Votes,,0,2,2
 Harrison,34,U.S. House,9,Under Votes,,0,1,1
-Harrison,Total,U.S. House,9,Under Votes,,39,273,258
-Harrison,1,State Senator,47,ERIN HOUCHIN,,46,218,264
-Harrison,2,State Senator,47,ERIN HOUCHIN,,52,240,292
-Harrison,3,State Senator,47,ERIN HOUCHIN,,37,166,203
-Harrison,4,State Senator,47,ERIN HOUCHIN,,35,204,239
-Harrison,5,State Senator,47,ERIN HOUCHIN,,63,273,336
-Harrison,6,State Senator,47,ERIN HOUCHIN,,37,254,291
-Harrison,7,State Senator,47,ERIN HOUCHIN,,70,314,384
-Harrison,37,State Senator,47,ERIN HOUCHIN,,45,308,353
-Harrison,8,State Senator,47,ERIN HOUCHIN,,109,222,331
-Harrison,9,State Senator,47,ERIN HOUCHIN,,61,194,255
-Harrison,10,State Senator,47,ERIN HOUCHIN,,111,270,381
-Harrison,36,State Senator,47,ERIN HOUCHIN,,130,238,368
-Harrison,38,State Senator,47,ERIN HOUCHIN,,79,232,311
-Harrison,11,State Senator,47,ERIN HOUCHIN,,56,114,170
-Harrison,35,State Senator,47,ERIN HOUCHIN,,89,164,253
-Harrison,39,State Senator,47,ERIN HOUCHIN,,70,125,195
-Harrison,12,State Senator,47,ERIN HOUCHIN,,97,268,365
-Harrison,13,State Senator,47,ERIN HOUCHIN,,75,270,345
-Harrison,14,State Senator,47,ERIN HOUCHIN,,79,206,285
-Harrison,15,State Senator,47,ERIN HOUCHIN,,23,146,169
-Harrison,16,State Senator,47,ERIN HOUCHIN,,26,115,141
-Harrison,17,State Senator,47,ERIN HOUCHIN,,81,258,339
-Harrison,18,State Senator,47,ERIN HOUCHIN,,44,215,259
-Harrison,19,State Senator,47,ERIN HOUCHIN,,49,269,318
-Harrison,20,State Senator,47,ERIN HOUCHIN,,75,306,381
-Harrison,32,State Senator,47,ERIN HOUCHIN,,64,209,273
-Harrison,21,State Senator,47,ERIN HOUCHIN,,31,233,264
-Harrison,22,State Senator,47,ERIN HOUCHIN,,55,186,241
-Harrison,23,State Senator,47,ERIN HOUCHIN,,61,278,339
-Harrison,30,State Senator,47,ERIN HOUCHIN,,18,89,107
-Harrison,24,State Senator,47,ERIN HOUCHIN,,44,306,350
-Harrison,25,State Senator,47,ERIN HOUCHIN,,39,216,255
-Harrison,26,State Senator,47,ERIN HOUCHIN,,49,286,335
-Harrison,27,State Senator,47,ERIN HOUCHIN,,52,227,279
-Harrison,28,State Senator,47,ERIN HOUCHIN,,37,216,253
-Harrison,29,State Senator,47,ERIN HOUCHIN,,25,167,192
-Harrison,31,State Senator,47,ERIN HOUCHIN,,20,100,120
-Harrison,33,State Senator,47,ERIN HOUCHIN,,40,248,288
-Harrison,34,State Senator,47,ERIN HOUCHIN,,47,195,242
-Harrison,Total,State Senator,47,ERIN HOUCHIN,,2221,8545,10766
-Harrison,1,State Senator,47,NICHOLAS A. (NICK) SILER,,29,84,113
-Harrison,2,State Senator,47,NICHOLAS A. (NICK) SILER,,49,112,161
-Harrison,3,State Senator,47,NICHOLAS A. (NICK) SILER,,15,44,59
-Harrison,4,State Senator,47,NICHOLAS A. (NICK) SILER,,9,55,64
-Harrison,5,State Senator,47,NICHOLAS A. (NICK) SILER,,30,103,133
-Harrison,6,State Senator,47,NICHOLAS A. (NICK) SILER,,40,58,98
-Harrison,7,State Senator,47,NICHOLAS A. (NICK) SILER,,50,116,166
-Harrison,37,State Senator,47,NICHOLAS A. (NICK) SILER,,16,116,132
-Harrison,8,State Senator,47,NICHOLAS A. (NICK) SILER,,67,87,154
-Harrison,9,State Senator,47,NICHOLAS A. (NICK) SILER,,42,81,123
-Harrison,10,State Senator,47,NICHOLAS A. (NICK) SILER,,49,98,147
-Harrison,36,State Senator,47,NICHOLAS A. (NICK) SILER,,64,102,166
-Harrison,38,State Senator,47,NICHOLAS A. (NICK) SILER,,49,90,139
-Harrison,11,State Senator,47,NICHOLAS A. (NICK) SILER,,45,54,99
-Harrison,35,State Senator,47,NICHOLAS A. (NICK) SILER,,56,90,146
-Harrison,39,State Senator,47,NICHOLAS A. (NICK) SILER,,50,63,113
-Harrison,12,State Senator,47,NICHOLAS A. (NICK) SILER,,56,90,146
-Harrison,13,State Senator,47,NICHOLAS A. (NICK) SILER,,50,91,141
-Harrison,14,State Senator,47,NICHOLAS A. (NICK) SILER,,68,95,163
-Harrison,15,State Senator,47,NICHOLAS A. (NICK) SILER,,7,44,51
-Harrison,16,State Senator,47,NICHOLAS A. (NICK) SILER,,13,34,47
-Harrison,17,State Senator,47,NICHOLAS A. (NICK) SILER,,56,115,171
-Harrison,18,State Senator,47,NICHOLAS A. (NICK) SILER,,39,83,122
-Harrison,19,State Senator,47,NICHOLAS A. (NICK) SILER,,24,146,170
-Harrison,20,State Senator,47,NICHOLAS A. (NICK) SILER,,54,131,185
-Harrison,32,State Senator,47,NICHOLAS A. (NICK) SILER,,42,91,133
-Harrison,21,State Senator,47,NICHOLAS A. (NICK) SILER,,35,113,148
-Harrison,22,State Senator,47,NICHOLAS A. (NICK) SILER,,23,96,119
-Harrison,23,State Senator,47,NICHOLAS A. (NICK) SILER,,33,118,151
-Harrison,30,State Senator,47,NICHOLAS A. (NICK) SILER,,11,33,44
-Harrison,24,State Senator,47,NICHOLAS A. (NICK) SILER,,25,75,100
-Harrison,25,State Senator,47,NICHOLAS A. (NICK) SILER,,12,65,77
-Harrison,26,State Senator,47,NICHOLAS A. (NICK) SILER,,24,114,138
-Harrison,27,State Senator,47,NICHOLAS A. (NICK) SILER,,28,90,118
-Harrison,28,State Senator,47,NICHOLAS A. (NICK) SILER,,30,122,152
-Harrison,29,State Senator,47,NICHOLAS A. (NICK) SILER,,22,80,102
-Harrison,31,State Senator,47,NICHOLAS A. (NICK) SILER,,9,45,54
-Harrison,33,State Senator,47,NICHOLAS A. (NICK) SILER,,16,65,81
-Harrison,34,State Senator,47,NICHOLAS A. (NICK) SILER,,22,70,92
-Harrison,Total,State Senator,47,NICHOLAS A. (NICK) SILER,,1359,3359,4718
+Harrison,1,State Senator,47,ERIN HOUCHIN,REP,46,218,264
+Harrison,2,State Senator,47,ERIN HOUCHIN,REP,52,240,292
+Harrison,3,State Senator,47,ERIN HOUCHIN,REP,37,166,203
+Harrison,4,State Senator,47,ERIN HOUCHIN,REP,35,204,239
+Harrison,5,State Senator,47,ERIN HOUCHIN,REP,63,273,336
+Harrison,6,State Senator,47,ERIN HOUCHIN,REP,37,254,291
+Harrison,7,State Senator,47,ERIN HOUCHIN,REP,70,314,384
+Harrison,37,State Senator,47,ERIN HOUCHIN,REP,45,308,353
+Harrison,8,State Senator,47,ERIN HOUCHIN,REP,109,222,331
+Harrison,9,State Senator,47,ERIN HOUCHIN,REP,61,194,255
+Harrison,10,State Senator,47,ERIN HOUCHIN,REP,111,270,381
+Harrison,36,State Senator,47,ERIN HOUCHIN,REP,130,238,368
+Harrison,38,State Senator,47,ERIN HOUCHIN,REP,79,232,311
+Harrison,11,State Senator,47,ERIN HOUCHIN,REP,56,114,170
+Harrison,35,State Senator,47,ERIN HOUCHIN,REP,89,164,253
+Harrison,39,State Senator,47,ERIN HOUCHIN,REP,70,125,195
+Harrison,12,State Senator,47,ERIN HOUCHIN,REP,97,268,365
+Harrison,13,State Senator,47,ERIN HOUCHIN,REP,75,270,345
+Harrison,14,State Senator,47,ERIN HOUCHIN,REP,79,206,285
+Harrison,15,State Senator,47,ERIN HOUCHIN,REP,23,146,169
+Harrison,16,State Senator,47,ERIN HOUCHIN,REP,26,115,141
+Harrison,17,State Senator,47,ERIN HOUCHIN,REP,81,258,339
+Harrison,18,State Senator,47,ERIN HOUCHIN,REP,44,215,259
+Harrison,19,State Senator,47,ERIN HOUCHIN,REP,49,269,318
+Harrison,20,State Senator,47,ERIN HOUCHIN,REP,75,306,381
+Harrison,32,State Senator,47,ERIN HOUCHIN,REP,64,209,273
+Harrison,21,State Senator,47,ERIN HOUCHIN,REP,31,233,264
+Harrison,22,State Senator,47,ERIN HOUCHIN,REP,55,186,241
+Harrison,23,State Senator,47,ERIN HOUCHIN,REP,61,278,339
+Harrison,30,State Senator,47,ERIN HOUCHIN,REP,18,89,107
+Harrison,24,State Senator,47,ERIN HOUCHIN,REP,44,306,350
+Harrison,25,State Senator,47,ERIN HOUCHIN,REP,39,216,255
+Harrison,26,State Senator,47,ERIN HOUCHIN,REP,49,286,335
+Harrison,27,State Senator,47,ERIN HOUCHIN,REP,52,227,279
+Harrison,28,State Senator,47,ERIN HOUCHIN,REP,37,216,253
+Harrison,29,State Senator,47,ERIN HOUCHIN,REP,25,167,192
+Harrison,31,State Senator,47,ERIN HOUCHIN,REP,20,100,120
+Harrison,33,State Senator,47,ERIN HOUCHIN,REP,40,248,288
+Harrison,34,State Senator,47,ERIN HOUCHIN,REP,47,195,242
+Harrison,1,State Senator,47,NICHOLAS A. (NICK) SILER,DEM,29,84,113
+Harrison,2,State Senator,47,NICHOLAS A. (NICK) SILER,DEM,49,112,161
+Harrison,3,State Senator,47,NICHOLAS A. (NICK) SILER,DEM,15,44,59
+Harrison,4,State Senator,47,NICHOLAS A. (NICK) SILER,DEM,9,55,64
+Harrison,5,State Senator,47,NICHOLAS A. (NICK) SILER,DEM,30,103,133
+Harrison,6,State Senator,47,NICHOLAS A. (NICK) SILER,DEM,40,58,98
+Harrison,7,State Senator,47,NICHOLAS A. (NICK) SILER,DEM,50,116,166
+Harrison,37,State Senator,47,NICHOLAS A. (NICK) SILER,DEM,16,116,132
+Harrison,8,State Senator,47,NICHOLAS A. (NICK) SILER,DEM,67,87,154
+Harrison,9,State Senator,47,NICHOLAS A. (NICK) SILER,DEM,42,81,123
+Harrison,10,State Senator,47,NICHOLAS A. (NICK) SILER,DEM,49,98,147
+Harrison,36,State Senator,47,NICHOLAS A. (NICK) SILER,DEM,64,102,166
+Harrison,38,State Senator,47,NICHOLAS A. (NICK) SILER,DEM,49,90,139
+Harrison,11,State Senator,47,NICHOLAS A. (NICK) SILER,DEM,45,54,99
+Harrison,35,State Senator,47,NICHOLAS A. (NICK) SILER,DEM,56,90,146
+Harrison,39,State Senator,47,NICHOLAS A. (NICK) SILER,DEM,50,63,113
+Harrison,12,State Senator,47,NICHOLAS A. (NICK) SILER,DEM,56,90,146
+Harrison,13,State Senator,47,NICHOLAS A. (NICK) SILER,DEM,50,91,141
+Harrison,14,State Senator,47,NICHOLAS A. (NICK) SILER,DEM,68,95,163
+Harrison,15,State Senator,47,NICHOLAS A. (NICK) SILER,DEM,7,44,51
+Harrison,16,State Senator,47,NICHOLAS A. (NICK) SILER,DEM,13,34,47
+Harrison,17,State Senator,47,NICHOLAS A. (NICK) SILER,DEM,56,115,171
+Harrison,18,State Senator,47,NICHOLAS A. (NICK) SILER,DEM,39,83,122
+Harrison,19,State Senator,47,NICHOLAS A. (NICK) SILER,DEM,24,146,170
+Harrison,20,State Senator,47,NICHOLAS A. (NICK) SILER,DEM,54,131,185
+Harrison,32,State Senator,47,NICHOLAS A. (NICK) SILER,DEM,42,91,133
+Harrison,21,State Senator,47,NICHOLAS A. (NICK) SILER,DEM,35,113,148
+Harrison,22,State Senator,47,NICHOLAS A. (NICK) SILER,DEM,23,96,119
+Harrison,23,State Senator,47,NICHOLAS A. (NICK) SILER,DEM,33,118,151
+Harrison,30,State Senator,47,NICHOLAS A. (NICK) SILER,DEM,11,33,44
+Harrison,24,State Senator,47,NICHOLAS A. (NICK) SILER,DEM,25,75,100
+Harrison,25,State Senator,47,NICHOLAS A. (NICK) SILER,DEM,12,65,77
+Harrison,26,State Senator,47,NICHOLAS A. (NICK) SILER,DEM,24,114,138
+Harrison,27,State Senator,47,NICHOLAS A. (NICK) SILER,DEM,28,90,118
+Harrison,28,State Senator,47,NICHOLAS A. (NICK) SILER,DEM,30,122,152
+Harrison,29,State Senator,47,NICHOLAS A. (NICK) SILER,DEM,22,80,102
+Harrison,31,State Senator,47,NICHOLAS A. (NICK) SILER,DEM,9,45,54
+Harrison,33,State Senator,47,NICHOLAS A. (NICK) SILER,DEM,16,65,81
+Harrison,34,State Senator,47,NICHOLAS A. (NICK) SILER,DEM,22,70,92
 Harrison,1,State Senator,47,Cast Votes,,75,302,377
 Harrison,2,State Senator,47,Cast Votes,,101,352,453
 Harrison,3,State Senator,47,Cast Votes,,52,210,262
@@ -1512,7 +1475,6 @@ Harrison,29,State Senator,47,Cast Votes,,47,247,294
 Harrison,31,State Senator,47,Cast Votes,,29,145,174
 Harrison,33,State Senator,47,Cast Votes,,56,313,369
 Harrison,34,State Senator,47,Cast Votes,,69,265,334
-Harrison,Total,State Senator,47,Cast Votes,,3580,11904,15484
 Harrison,1,State Senator,47,Over Votes,,0,0,0
 Harrison,2,State Senator,47,Over Votes,,0,0,0
 Harrison,3,State Senator,47,Over Votes,,0,0,0
@@ -1552,7 +1514,6 @@ Harrison,29,State Senator,47,Over Votes,,0,0,0
 Harrison,31,State Senator,47,Over Votes,,0,0,0
 Harrison,33,State Senator,47,Over Votes,,0,0,0
 Harrison,34,State Senator,47,Over Votes,,0,0,0
-Harrison,Total,State Senator,47,Over Votes,,1,2,3
 Harrison,1,State Senator,47,Under Votes,,3,7,10
 Harrison,2,State Senator,47,Under Votes,,1,5,6
 Harrison,3,State Senator,47,Under Votes,,0,5,5
@@ -1592,97 +1553,90 @@ Harrison,29,State Senator,47,Under Votes,,0,8,8
 Harrison,31,State Senator,47,Under Votes,,0,4,4
 Harrison,33,State Senator,47,Under Votes,,1,4,5
 Harrison,34,State Senator,47,Under Votes,,1,7,8
-Harrison,Total,State Senator,47,Under Votes,,61,271,332
-Harrison,1,State Representative,73,STEVE DAVISSON,,54,233,287
-Harrison,2,State Representative,73,STEVE DAVISSON,,71,278,349
-Harrison,Total,State Representative,73,STEVE DAVISSON,,125,511,636
+Harrison,1,State Representative,73,STEVE DAVISSON,REP,54,233,287
+Harrison,2,State Representative,73,STEVE DAVISSON,REP,71,278,349
 Harrison,1,State Representative,73,Cast Votes,,54,233,287
 Harrison,2,State Representative,73,Cast Votes,,71,278,349
-Harrison,Total,State Representative,73,Cast Voles,,125,511,636
 Harrison,1,State Representative,73,Over Votes,,0,0,0
 Harrison,2,State Representative,73,Over Votes,,0,0,0
-Harrison,Total,State Representative,73,Over Votes,,0,0,0
 Harrison,1,State Representative,73,Under Votes,,24,76,100
 Harrison,2,State Representative,73,Under Votes,,31,79,110
-Harrison,Total,State Representative,73,Under Votes,,55,155,210
-Harrison,3,State Representative,70,KAREN ENGLEMAN,,32,148,180
-Harrison,4,State Representative,70,KAREN ENGLEMAN,,34,190,224
-Harrison,5,State Representative,70,KAREN ENGLEMAN,,60,255,315
-Harrison,6,State Representative,70,KAREN ENGLEMAN,,40,244,284
-Harrison,7,State Representative,70,KAREN ENGLEMAN,,72,301,373
-Harrison,37,State Representative,70,KAREN ENGLEMAN,,46,296,342
-Harrison,8,State Representative,70,KAREN ENGLEMAN,,112,211,323
-Harrison,9,State Representative,70,KAREN ENGLEMAN,,59,192,251
-Harrison,10,State Representative,70,KAREN ENGLEMAN,,108,272,380
-Harrison,36,State Representative,70,KAREN ENGLEMAN,,130,249,379
-Harrison,38,State Representative,70,KAREN ENGLEMAN,,82,234,316
-Harrison,11,State Representative,70,KAREN ENGLEMAN,,61,112,173
-Harrison,35,State Representative,70,KAREN ENGLEMAN,,91,149,240
-Harrison,39,State Representative,70,KAREN ENGLEMAN,,71,128,199
-Harrison,12,State Representative,70,KAREN ENGLEMAN,,97,270,367
-Harrison,13,State Representative,70,KAREN ENGLEMAN,,74,272,346
-Harrison,14,State Representative,70,KAREN ENGLEMAN,,85,216,301
-Harrison,15,State Representative,70,KAREN ENGLEMAN,,25,146,171
-Harrison,16,State Representative,70,KAREN ENGLEMAN,,23,115,138
-Harrison,17,State Representative,70,KAREN ENGLEMAN,,79,250,329
-Harrison,18,State Representative,70,KAREN ENGLEMAN,,48,208,256
-Harrison,19,State Representative,70,KAREN ENGLEMAN,,54,269,323
-Harrison,20,State Representative,70,KAREN ENGLEMAN,,71,304,375
-Harrison,32,State Representative,70,KAREN ENGLEMAN,,64,204,268
-Harrison,21,State Representative,70,KAREN ENGLEMAN,,27,236,263
-Harrison,22,State Representative,70,KAREN ENGLEMAN,,54,176,230
-Harrison,23,State Representative,70,KAREN ENGLEMAN,,61,267,328
-Harrison,30,State Representative,70,KAREN ENGLEMAN,,17,87,104
-Harrison,24,State Representative,70,KAREN ENGLEMAN,,45,297,342
-Harrison,25,State Representative,70,KAREN ENGLEMAN,,40,200,240
-Harrison,26,State Representative,70,KAREN ENGLEMAN,,51,271,322
-Harrison,27,State Representative,70,KAREN ENGLEMAN,,54,219,273
-Harrison,28,State Representative,70,KAREN ENGLEMAN,,36,208,244
-Harrison,29,State Representative,70,KAREN ENGLEMAN,,25,166,191
-Harrison,31,State Representative,70,KAREN ENGLEMAN,,21,99,120
-Harrison,33,State Representative,70,KAREN ENGLEMAN,,42,241,283
-Harrison,34,State Representative,70,KAREN ENGLEMAN,,46,199,245
-Harrison,Total,State Representative,70,KAREN ENGLEMAN,,2137,7901,10038
-Harrison,3,State Representative,70,SARAH STIVERS,,18,65,83
-Harrison,4,State Representative,70,SARAH STIVERS,,9,69,78
-Harrison,5,State Representative,70,SARAH STIVERS,,32,123,155
-Harrison,6,State Representative,70,SARAH STIVERS,,37,68,105
-Harrison,7,State Representative,70,SARAH STIVERS,,50,125,175
-Harrison,37,State Representative,70,SARAH STIVERS,,15,128,143
-Harrison,8,State Representative,70,SARAH STIVERS,,64,100,164
-Harrison,9,State Representative,70,SARAH STIVERS,,46,81,127
-Harrison,10,State Representative,70,SARAH STIVERS,,54,97,151
-Harrison,36,State Representative,70,SARAH STIVERS,,63,94,157
-Harrison,38,State Representative,70,SARAH STIVERS,,47,92,139
-Harrison,11,State Representative,70,SARAH STIVERS,,40,59,99
-Harrison,35,State Representative,70,SARAH STIVERS,,55,104,159
-Harrison,39,State Representative,70,SARAH STIVERS,,50,62,112
-Harrison,12,State Representative,70,SARAH STIVERS,,56,91,147
-Harrison,13,State Representative,70,SARAH STIVERS,,50,92,142
-Harrison,14,State Representative,70,SARAH STIVERS,,62,91,153
-Harrison,15,State Representative,70,SARAH STIVERS,,6,45,51
-Harrison,16,State Representative,70,SARAH STIVERS,,16,39,55
-Harrison,17,State Representative,70,SARAH STIVERS,,61,121,182
-Harrison,18,State Representative,70,SARAH STIVERS,,35,93,128
-Harrison,19,State Representative,70,SARAH STIVERS,,19,146,165
-Harrison,20,State Representative,70,SARAH STIVERS,,56,137,193
-Harrison,32,State Representative,70,SARAH STIVERS,,42,96,138
-Harrison,21,State Representative,70,SARAH STIVERS,,39,112,151
-Harrison,22,State Representative,70,SARAH STIVERS,,24,106,130
-Harrison,23,State Representative,70,SARAH STIVERS,,32,134,166
-Harrison,30,State Representative,70,SARAH STIVERS,,12,33,45
-Harrison,24,State Representative,70,SARAH STIVERS,,23,84,107
-Harrison,25,State Representative,70,SARAH STIVERS,,12,85,97
-Harrison,26,State Representative,70,SARAH STIVERS,,23,131,154
-Harrison,27,State Representative,70,SARAH STIVERS,,27,101,128
-Harrison,28,State Representative,70,SARAH STIVERS,,29,129,158
-Harrison,29,State Representative,70,SARAH STIVERS,,22,85,107
-Harrison,31,State Representative,70,SARAH STIVERS,,8,47,55
-Harrison,33,State Representative,70,SARAH STIVERS ,,15,68,83
-Harrison,34,State Representative,70,SARAH STIVERS,,24,69,93
-Harrison,Total,State Representative,70,SARAH STIVERS,,1273,3402,4675
-Harrison,3,State Representative,70,Cast Voles,,50,213,263
-Harrison,4,State Representative,70,Cast Voles,,43,259,302
+Harrison,3,State Representative,70,KAREN ENGLEMAN,REP,32,148,180
+Harrison,4,State Representative,70,KAREN ENGLEMAN,REP,34,190,224
+Harrison,5,State Representative,70,KAREN ENGLEMAN,REP,60,255,315
+Harrison,6,State Representative,70,KAREN ENGLEMAN,REP,40,244,284
+Harrison,7,State Representative,70,KAREN ENGLEMAN,REP,72,301,373
+Harrison,37,State Representative,70,KAREN ENGLEMAN,REP,46,296,342
+Harrison,8,State Representative,70,KAREN ENGLEMAN,REP,112,211,323
+Harrison,9,State Representative,70,KAREN ENGLEMAN,REP,59,192,251
+Harrison,10,State Representative,70,KAREN ENGLEMAN,REP,108,272,380
+Harrison,36,State Representative,70,KAREN ENGLEMAN,REP,130,249,379
+Harrison,38,State Representative,70,KAREN ENGLEMAN,REP,82,234,316
+Harrison,11,State Representative,70,KAREN ENGLEMAN,REP,61,112,173
+Harrison,35,State Representative,70,KAREN ENGLEMAN,REP,91,149,240
+Harrison,39,State Representative,70,KAREN ENGLEMAN,REP,71,128,199
+Harrison,12,State Representative,70,KAREN ENGLEMAN,REP,97,270,367
+Harrison,13,State Representative,70,KAREN ENGLEMAN,REP,74,272,346
+Harrison,14,State Representative,70,KAREN ENGLEMAN,REP,85,216,301
+Harrison,15,State Representative,70,KAREN ENGLEMAN,REP,25,146,171
+Harrison,16,State Representative,70,KAREN ENGLEMAN,REP,23,115,138
+Harrison,17,State Representative,70,KAREN ENGLEMAN,REP,79,250,329
+Harrison,18,State Representative,70,KAREN ENGLEMAN,REP,48,208,256
+Harrison,19,State Representative,70,KAREN ENGLEMAN,REP,54,269,323
+Harrison,20,State Representative,70,KAREN ENGLEMAN,REP,71,304,375
+Harrison,32,State Representative,70,KAREN ENGLEMAN,REP,64,204,268
+Harrison,21,State Representative,70,KAREN ENGLEMAN,REP,27,236,263
+Harrison,22,State Representative,70,KAREN ENGLEMAN,REP,54,176,230
+Harrison,23,State Representative,70,KAREN ENGLEMAN,REP,61,267,328
+Harrison,30,State Representative,70,KAREN ENGLEMAN,REP,17,87,104
+Harrison,24,State Representative,70,KAREN ENGLEMAN,REP,45,297,342
+Harrison,25,State Representative,70,KAREN ENGLEMAN,REP,40,200,240
+Harrison,26,State Representative,70,KAREN ENGLEMAN,REP,51,271,322
+Harrison,27,State Representative,70,KAREN ENGLEMAN,REP,54,219,273
+Harrison,28,State Representative,70,KAREN ENGLEMAN,REP,36,208,244
+Harrison,29,State Representative,70,KAREN ENGLEMAN,REP,25,166,191
+Harrison,31,State Representative,70,KAREN ENGLEMAN,REP,21,99,120
+Harrison,33,State Representative,70,KAREN ENGLEMAN,REP,42,241,283
+Harrison,34,State Representative,70,KAREN ENGLEMAN,REP,46,199,245
+Harrison,3,State Representative,70,SARAH STIVERS,DEM,18,65,83
+Harrison,4,State Representative,70,SARAH STIVERS,DEM,9,69,78
+Harrison,5,State Representative,70,SARAH STIVERS,DEM,32,123,155
+Harrison,6,State Representative,70,SARAH STIVERS,DEM,37,68,105
+Harrison,7,State Representative,70,SARAH STIVERS,DEM,50,125,175
+Harrison,37,State Representative,70,SARAH STIVERS,DEM,15,128,143
+Harrison,8,State Representative,70,SARAH STIVERS,DEM,64,100,164
+Harrison,9,State Representative,70,SARAH STIVERS,DEM,46,81,127
+Harrison,10,State Representative,70,SARAH STIVERS,DEM,54,97,151
+Harrison,36,State Representative,70,SARAH STIVERS,DEM,63,94,157
+Harrison,38,State Representative,70,SARAH STIVERS,DEM,47,92,139
+Harrison,11,State Representative,70,SARAH STIVERS,DEM,40,59,99
+Harrison,35,State Representative,70,SARAH STIVERS,DEM,55,104,159
+Harrison,39,State Representative,70,SARAH STIVERS,DEM,50,62,112
+Harrison,12,State Representative,70,SARAH STIVERS,DEM,56,91,147
+Harrison,13,State Representative,70,SARAH STIVERS,DEM,50,92,142
+Harrison,14,State Representative,70,SARAH STIVERS,DEM,62,91,153
+Harrison,15,State Representative,70,SARAH STIVERS,DEM,6,45,51
+Harrison,16,State Representative,70,SARAH STIVERS,DEM,16,39,55
+Harrison,17,State Representative,70,SARAH STIVERS,DEM,61,121,182
+Harrison,18,State Representative,70,SARAH STIVERS,DEM,35,93,128
+Harrison,19,State Representative,70,SARAH STIVERS,DEM,19,146,165
+Harrison,20,State Representative,70,SARAH STIVERS,DEM,56,137,193
+Harrison,32,State Representative,70,SARAH STIVERS,DEM,42,96,138
+Harrison,21,State Representative,70,SARAH STIVERS,DEM,39,112,151
+Harrison,22,State Representative,70,SARAH STIVERS,DEM,24,106,130
+Harrison,23,State Representative,70,SARAH STIVERS,DEM,32,134,166
+Harrison,30,State Representative,70,SARAH STIVERS,DEM,12,33,45
+Harrison,24,State Representative,70,SARAH STIVERS,DEM,23,84,107
+Harrison,25,State Representative,70,SARAH STIVERS,DEM,12,85,97
+Harrison,26,State Representative,70,SARAH STIVERS,DEM,23,131,154
+Harrison,27,State Representative,70,SARAH STIVERS,DEM,27,101,128
+Harrison,28,State Representative,70,SARAH STIVERS,DEM,29,129,158
+Harrison,29,State Representative,70,SARAH STIVERS,DEM,22,85,107
+Harrison,31,State Representative,70,SARAH STIVERS,DEM,8,47,55
+Harrison,33,State Representative,70,SARAH STIVERS ,DEM,15,68,83
+Harrison,34,State Representative,70,SARAH STIVERS,DEM,24,69,93
+Harrison,3,State Representative,70,Cast Votes,,50,213,263
+Harrison,4,State Representative,70,Cast Votes,,43,259,302
 Harrison,5,State Representative,70,Cast Votes,,92,378,470
 Harrison,6,State Representative,70,Cast Votes,,77,312,389
 Harrison,7,State Representative,70,Cast Votes,,122,426,548
@@ -1693,7 +1647,7 @@ Harrison,10,State Representative,70,Cast Votes,,162,369,531
 Harrison,36,State Representative,70,Cast Votes,,193,343,536
 Harrison,38,State Representative,70,Cast Votes,,129,326,455
 Harrison,11,State Representative,70,Cast Votes,,101,171,272
-Harrison,35,State Representative,70,Cast Voles,,146,253,399
+Harrison,35,State Representative,70,Cast Votes,,146,253,399
 Harrison,39,State Representative,70,Cast Votes,,121,190,311
 Harrison,12,State Representative,70,Cast Votes,,153,361,514
 Harrison,13,State Representative,70,Cast Votes,,124,364,488
@@ -1708,7 +1662,7 @@ Harrison,32,State Representative,70,Cast Votes,,106,300,406
 Harrison,21,State Representative,70,Cast Votes,,66,348,414
 Harrison,22,State Representative,70,Cast Votes,,78,282,360
 Harrison,23,State Representative,70,Cast Votes,,93,401,494
-Harrison,30,State Representative,70,Cast Voles,,29,120,149
+Harrison,30,State Representative,70,Cast Votes,,29,120,149
 Harrison,24,State Representative,70,Cast Votes,,68,381,449
 Harrison,25,State Representative,70,Cast Votes,,52,285,337
 Harrison,26,State Representative,70,Cast Votes,,74,402,476
@@ -1718,7 +1672,6 @@ Harrison,29,State Representative,70,Cast Votes,,47,251,298
 Harrison,31,State Representative,70,Cast Votes,,29,146,175
 Harrison,33,State Representative,70,Cast Votes,,57,309,366
 Harrison,34,State Representative,70,Cast Votes,,70,268,338
-Harrison,Total,State Representative,70,Cast Votes,,3410,11303,14713
 Harrison,3,State Representative,70,Over Votes,,0,0,0
 Harrison,4,State Representative,70,Over Votes,,0,0,0
 Harrison,5,State Representative,70,Over Votes,,0,0,0
@@ -1756,4 +1709,19 @@ Harrison,29,State Representative,70,Over Votes,,0,0,0
 Harrison,31,State Representative,70,Over Votes,,0,0,0
 Harrison,33,State Representative,70,Over Votes,,0,0,0
 Harrison,34,State Representative,70,Over Votes,,0,0,0
-Harrison,Total,State Representative,70,Over Votes,,1,0,1
+Harrison,34,Straight Party,,Republican Party,REP,17,60,77
+Harrison,34,Straight Party,,Democratic Party,DEM,7,16,23
+Harrison,34,Straight Party,,Libertarian Party,LIB,0,1,1
+Harrison,34,Straight Party,,Cast Votes,,24,77,101
+Harrison,34,U.S. Senate,,MIKE BRAUN,REP,43,178,221
+Harrison,34,U.S. Senate,,JOE DONNELLY,DEM,26,81,107
+Harrison,34,U.S. Senate,,LUCY M. BRENTON,LIB,0,12,12
+Harrison,34,U.S. Senate,,Cast Votes,,69,271,340
+Harrison,34,Secretary of State,,CONNIE LAWSON,REP,42,191,233
+Harrison,34,Secretary of State,,JIM HARPER,DEM,25,70,95
+Harrison,34,Secretary of State,,MARK W. RUTHERFORD,LIB,1,8,9
+Harrison,34,Secretary of State,,Cast Votes,,68,269,337
+Harrison,34,Auditor of State,,TERA KLUTZ,REP,42,187,229
+Harrison,34,Auditor of State,,JOSELYN WHITTICKER,DEM,26,70,96
+Harrison,34,Auditor of State,,JOHN SCHICK,LIB,1,8,9
+Harrison,34,Auditor of State,,Cast Votes,,69,265,334

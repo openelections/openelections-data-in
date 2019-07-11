@@ -1,6 +1,6 @@
 candidate,office,district,party,county,precinct,election_day,absentee,provisional,votes
 ,Registered Voters,,,Decatur,Greensburg 1,,,,913
-,Ballots Cast,,,Decatur,Greensburg 1,,,,281
+,Ballots Cast,,,Decatur,Greensburg 1,281,156,0,437
 Mike Braun,U.S. Senate,,R,Decatur,Greensburg 1,178,91,0,269
 Joe Donnelly,U.S. Senate,,D,Decatur,Greensburg 1,86,55,0,141
 Lucy M Brenton,U.S. Senate,,L,Decatur,Greensburg 1,16,7,0,23
@@ -22,7 +22,7 @@ Write in,U.S. House,6,R,Decatur,Greensburg 1,0,0,0,0
 Cindy Meyer Ziemke,State Representative,55,R,Decatur,Greensburg 1,191,97,0,288
 Corinne Westerfield,State Representative,55,D,Decatur,Greensburg 1,82,49,0,131
 ,Registered Voters,,,Decatur,Greensburg 2,,,,784
-,Ballots Cast,,,Decatur,Greensburg 2,,,,292
+,Ballots Cast,,,Decatur,Greensburg 2,292,163,0,455
 Mike Braun,U.S. Senate,,R,Decatur,Greensburg 2,185,92,0,277
 Joe Donnelly,U.S. Senate,,D,Decatur,Greensburg 2,80,66,0,146
 Lucy M Brenton,U.S. Senate,,L,Decatur,Greensburg 2,21,3,0,24
@@ -44,7 +44,7 @@ Write in,U.S. House,6,R,Decatur,Greensburg 2,0,0,0,0
 Cindy Meyer Ziemke,State Representative,55,R,Decatur,Greensburg 2,194,93,0,287
 Corinne Westerfield,State Representative,55,D,Decatur,Greensburg 2,80,61,0,141
 ,Registered Voters,,,Decatur,Greensburg 3,,,,721
-,Ballots Cast,,,Decatur,Greensburg 3,,,,270
+,Ballots Cast,,,Decatur,Greensburg 3,270,141,0,411
 Mike Braun,U.S. Senate,,R,Decatur,Greensburg 3,182,74,0,256
 Joe Donnelly,U.S. Senate,,D,Decatur,Greensburg 3,67,54,0,121
 Lucy M Brenton,U.S. Senate,,L,Decatur,Greensburg 3,19,7,0,26
@@ -66,7 +66,7 @@ Write in,U.S. House,6,R,Decatur,Greensburg 3,0,1,0,1
 Cindy Meyer Ziemke,State Representative,55,R,Decatur,Greensburg 3,188,81,0,269
 Corinne Westerfield,State Representative,55,D,Decatur,Greensburg 3,71,54,0,125
 ,Registered Voters,,,Decatur,Greensburg 4,,,,1080
-,Ballots Cast,,,Decatur,Greensburg 4,,,,470
+,Ballots Cast,,,Decatur,Greensburg 4,470,277,0,747
 Mike Braun,U.S. Senate,,R,Decatur,Greensburg 4,317,172,0,489
 Joe Donnelly,U.S. Senate,,D,Decatur,Greensburg 4,112,94,0,206
 Lucy M Brenton,U.S. Senate,,L,Decatur,Greensburg 4,29,7,0,36
@@ -88,7 +88,7 @@ Write in,U.S. House,6,R,Decatur,Greensburg 4,0,0,0,0
 Cindy Meyer Ziemke,State Representative,55,R,Decatur,Greensburg 4,363,179,0,542
 Corinne Westerfield,State Representative,55,D,Decatur,Greensburg 4,94,83,0,177
 ,Registered Voters,,,Decatur,Greensburg 5,,,,796
-,Ballots Cast,,,Decatur,Greensburg 5,,,,284
+,Ballots Cast,,,Decatur,Greensburg 5,284,136,0,420
 Mike Braun,U.S. Senate,,R,Decatur,Greensburg 5,184,85,0,269
 Joe Donnelly,U.S. Senate,,D,Decatur,Greensburg 5,77,48,0,125
 Lucy M Brenton,U.S. Senate,,L,Decatur,Greensburg 5,19,2,0,21
@@ -110,7 +110,7 @@ Write in,U.S. House,6,R,Decatur,Greensburg 5,0,0,0,0
 Cindy Meyer Ziemke,State Representative,55,R,Decatur,Greensburg 5,196,93,0,289
 Corinne Westerfield,State Representative,55,D,Decatur,Greensburg 5,77,40,0,117
 ,Registered Voters,,,Decatur,Greensburg 6,,,,614
-,Ballots Cast,,,Decatur,Greensburg 6,,,,179
+,Ballots Cast,,,Decatur,Greensburg 6,179,91,0,270
 Mike Braun,U.S. Senate,,R,Decatur,Greensburg 6,105,60,0,165
 Joe Donnelly,U.S. Senate,,D,Decatur,Greensburg 6,59,24,0,83
 Lucy M Brenton,U.S. Senate,,L,Decatur,Greensburg 6,13,5,0,18
@@ -132,7 +132,7 @@ Write in,U.S. House,6,R,Decatur,Greensburg 6,0,0,0,0
 Cindy Meyer Ziemke,State Representative,55,R,Decatur,Greensburg 6,117,58,0,175
 Corinne Westerfield,State Representative,55,D,Decatur,Greensburg 6,59,30,0,89
 ,Registered Voters,,,Decatur,Greensburg 7,,,,1044
-,Ballots Cast,,,Decatur,Greensburg 7,,,,266
+,Ballots Cast,,,Decatur,Greensburg 7,266,150,0,416
 Mike Braun,U.S. Senate,,R,Decatur,Greensburg 7,165,91,0,256
 Joe Donnelly,U.S. Senate,,D,Decatur,Greensburg 7,78,50,0,128
 Lucy M Brenton,U.S. Senate,,L,Decatur,Greensburg 7,19,8,0,27
@@ -154,7 +154,7 @@ Write in,U.S. House,6,R,Decatur,Greensburg 7,0,0,0,0
 Cindy Meyer Ziemke,State Representative,55,R,Decatur,Greensburg 7,191,99,0,290
 Corinne Westerfield,State Representative,55,D,Decatur,Greensburg 7,65,48,0,113
 ,Registered Voters,,,Decatur,Greensburg 8,,,,940
-,Ballots Cast,,,Decatur,Greensburg 8,,,,341
+,Ballots Cast,,,Decatur,Greensburg 8,341,108,0,449
 Mike Braun,U.S. Senate,,R,Decatur,Greensburg 8,215,71,0,286
 Joe Donnelly,U.S. Senate,,D,Decatur,Greensburg 8,98,28,0,126
 Lucy M Brenton,U.S. Senate,,L,Decatur,Greensburg 8,24,8,0,32
@@ -176,7 +176,7 @@ Write in,U.S. House,6,R,Decatur,Greensburg 8,0,0,0,0
 Cindy Meyer Ziemke,State Representative,55,R,Decatur,Greensburg 8,228,78,0,306
 Corinne Westerfield,State Representative,55,D,Decatur,Greensburg 8,97,29,0,126
 ,Registered Voters,,,Decatur,09-Adams Township,,,,870
-,Ballots Cast,,,Decatur,09-Adams Township,,,,352
+,Ballots Cast,,,Decatur,09-Adams Township,352,112,0,464
 Mike Braun,U.S. Senate,,R,Decatur,09-Adams Township,250,58,0,308
 Joe Donnelly,U.S. Senate,,D,Decatur,09-Adams Township,81,44,0,125
 Lucy M Brenton,U.S. Senate,,L,Decatur,09-Adams Township,17,6,0,23
@@ -198,7 +198,7 @@ Write in,U.S. House,6,R,Decatur,09-Adams Township,0,0,0,0
 Cindy Meyer Ziemke,State Representative,55,R,Decatur,09-Adams Township,270,72,0,342
 Corinne Westerfield,State Representative,55,D,Decatur,09-Adams Township,73,38,0,111
 ,Registered Voters,,,Decatur,10-Clay Township,,,,766
-,Ballots Cast,,,Decatur,10-Clay Township,,,,305
+,Ballots Cast,,,Decatur,10-Clay Township,305,138,0,443
 Mike Braun,U.S. Senate,,R,Decatur,10-Clay Township,219,90,0,309
 Joe Donnelly,U.S. Senate,,D,Decatur,10-Clay Township,65,36,0,101
 Lucy M Brenton,U.S. Senate,,L,Decatur,10-Clay Township,19,9,0,28
@@ -220,7 +220,7 @@ Write in,U.S. House,6,R,Decatur,10-Clay Township,0,0,0,0
 Cindy Meyer Ziemke,State Representative,55,R,Decatur,10-Clay Township,228,99,0,327
 Corinne Westerfield,State Representative,55,D,Decatur,10-Clay Township,63,31,0,94
 ,Registered Voters,,,Decatur,11-Clinton Township,,,,330
-,Ballots Cast,,,Decatur,11-Clinton Township,,,,142
+,Ballots Cast,,,Decatur,11-Clinton Township,142,60,0,202
 Mike Braun,U.S. Senate,,R,Decatur,11-Clinton Township,117,42,0,159
 Joe Donnelly,U.S. Senate,,D,Decatur,11-Clinton Township,23,13,0,36
 Lucy M Brenton,U.S. Senate,,L,Decatur,11-Clinton Township,2,5,0,7
@@ -242,7 +242,7 @@ Write in,U.S. House,6,R,Decatur,11-Clinton Township,0,1,0,1
 Cindy Meyer Ziemke,State Representative,55,R,Decatur,11-Clinton Township,121,47,0,168
 Corinne Westerfield,State Representative,55,D,Decatur,11-Clinton Township,18,7,0,25
 ,Registered Voters,,,Decatur,12-Fugit Township,,,,1332
-,Ballots Cast,,,Decatur,12-Fugit Township,,,,613
+,Ballots Cast,,,Decatur,12-Fugit Township,613,210,0,823
 Mike Braun,U.S. Senate,,R,Decatur,12-Fugit Township,471,149,0,620
 Joe Donnelly,U.S. Senate,,D,Decatur,12-Fugit Township,110,52,0,162
 Lucy M Brenton,U.S. Senate,,L,Decatur,12-Fugit Township,23,6,0,29
@@ -264,7 +264,7 @@ Write in,U.S. House,6,R,Decatur,12-Fugit Township,1,0,0,1
 Cindy Meyer Ziemke,State Representative,55,R,Decatur,12-Fugit Township,477,154,0,631
 Corinne Westerfield,State Representative,55,D,Decatur,12-Fugit Township,122,50,0,172
 ,Registered Voters,,,Decatur,13-Jackson Township,,,,684
-,Ballots Cast,,,Decatur,13-Jackson Township,,,,319
+,Ballots Cast,,,Decatur,13-Jackson Township,319,92,0,411
 Mike Braun,U.S. Senate,,R,Decatur,13-Jackson Township,232,63,0,295
 Joe Donnelly,U.S. Senate,,D,Decatur,13-Jackson Township,62,23,0,85
 Lucy M Brenton,U.S. Senate,,L,Decatur,13-Jackson Township,22,5,0,27
@@ -286,7 +286,7 @@ Write in,U.S. House,6,R,Decatur,13-Jackson Township,0,0,0,0
 Randy Frye,State Representative,67,R,Decatur,13-Jackson Township,267,70,0,337
 Cordelle Feuston,State Representative,67,D,Decatur,13-Jackson Township,43,19,0,62
 ,Registered Voters,,,Decatur,14-Marion Township,,,,1128
-,Ballots Cast,,,Decatur,14-Marion Township,,,,445
+,Ballots Cast,,,Decatur,14-Marion Township,445,197,0,642
 Mike Braun,U.S. Senate,,R,Decatur,14-Marion Township,343,138,0,481
 Joe Donnelly,U.S. Senate,,D,Decatur,14-Marion Township,82,43,0,125
 Lucy M Brenton,U.S. Senate,,L,Decatur,14-Marion Township,18,14,0,32
@@ -308,7 +308,7 @@ Write in,U.S. House,6,R,Decatur,14-Marion Township,0,0,0,0
 Randy Frye,State Representative,67,R,Decatur,14-Marion Township,384,166,0,550
 Cordelle Feuston,State Representative,67,D,Decatur,14-Marion Township,54,26,0,80
 ,Registered Voters,,,Decatur,15-Saltcreek Township,,,,825
-,Ballots Cast,,,Decatur,15-Saltcreek Township,,,,410
+,Ballots Cast,,,Decatur,15-Saltcreek Township,410,104,0,514
 Mike Braun,U.S. Senate,,R,Decatur,15-Saltcreek Township,307,85,0,392
 Joe Donnelly,U.S. Senate,,D,Decatur,15-Saltcreek Township,83,15,0,98
 Lucy M Brenton,U.S. Senate,,L,Decatur,15-Saltcreek Township,15,3,0,18
@@ -330,7 +330,7 @@ Write in,U.S. House,6,R,Decatur,15-Saltcreek Township,0,0,0,0
 Randy Frye,State Representative,67,R,Decatur,15-Saltcreek Township,338,88,0,426
 Cordelle Feuston,State Representative,67,D,Decatur,15-Saltcreek Township,65,15,0,80
 ,Registered Voters,,,Decatur,16-Westport Town,,,,845
-,Ballots Cast,,,Decatur,16-Westport Town,,,,332
+,Ballots Cast,,,Decatur,16-Westport Town,332,81,0,413
 Mike Braun,U.S. Senate,,R,Decatur,16-Westport Town,213,56,0,269
 Joe Donnelly,U.S. Senate,,D,Decatur,16-Westport Town,90,21,0,111
 Lucy M Brenton,U.S. Senate,,L,Decatur,16-Westport Town,26,2,0,28
@@ -352,7 +352,7 @@ Write in,U.S. House,6,R,Decatur,16-Westport Town,0,0,0,0
 Randy Frye,State Representative,67,R,Decatur,16-Westport Town,262,67,0,329
 Cordelle Feuston,State Representative,67,D,Decatur,16-Westport Town,66,13,0,79
 ,Registered Voters,,,Decatur,17-Sandcreek Township North,,,,624
-,Ballots Cast,,,Decatur,17-Sandcreek Township North,,,,258
+,Ballots Cast,,,Decatur,17-Sandcreek Township North,258,81,0,339
 Mike Braun,U.S. Senate,,R,Decatur,17-Sandcreek Township North,201,55,0,256
 Joe Donnelly,U.S. Senate,,D,Decatur,17-Sandcreek Township North,39,20,0,59
 Lucy M Brenton,U.S. Senate,,L,Decatur,17-Sandcreek Township North,13,3,0,16
@@ -374,7 +374,7 @@ Write in,U.S. House,6,R,Decatur,17-Sandcreek Township North,0,0,0,0
 Randy Frye,State Representative,67,R,Decatur,17-Sandcreek Township North,220,61,0,281
 Cordelle Feuston,State Representative,67,D,Decatur,17-Sandcreek Township North,28,18,0,46
 ,Registered Voters,,,Decatur,18-Sandcreek Township South,,,,502
-,Ballots Cast,,,Decatur,18-Sandcreek Township South,,,,218
+,Ballots Cast,,,Decatur,18-Sandcreek Township South,218,67,0,285
 Mike Braun,U.S. Senate,,R,Decatur,18-Sandcreek Township South,149,42,0,191
 Joe Donnelly,U.S. Senate,,D,Decatur,18-Sandcreek Township South,54,22,0,76
 Lucy M Brenton,U.S. Senate,,L,Decatur,18-Sandcreek Township South,11,3,0,14
@@ -396,7 +396,7 @@ Write in,U.S. House,6,R,Decatur,18-Sandcreek Township South,0,0,0,0
 Randy Frye,State Representative,67,R,Decatur,18-Sandcreek Township South,178,56,0,234
 Cordelle Feuston,State Representative,67,D,Decatur,18-Sandcreek Township South,33,11,0,44
 ,Registered Voters,,,Decatur,19-Washington Township,,,,1277
-,Ballots Cast,,,Decatur,19-Washington Township,,,,539
+,Ballots Cast,,,Decatur,19-Washington Township,539,282,0,821
 Mike Braun,U.S. Senate,,R,Decatur,19-Washington Township,397,181,0,578
 Joe Donnelly,U.S. Senate,,D,Decatur,19-Washington Township,107,87,0,194
 Lucy M Brenton,U.S. Senate,,L,Decatur,19-Washington Township,25,10,0,35
@@ -418,7 +418,7 @@ Write in,U.S. House,6,R,Decatur,19-Washington Township,0,0,0,0
 Cindy Meyer Ziemke,State Representative,55,R,Decatur,19-Washington Township,426,184,0,610
 Corinne Westerfield,State Representative,55,D,Decatur,19-Washington Township,100,83,0,183
 ,Registered Voters,,,Decatur,20-St. Paul Town,,,,345
-,Ballots Cast,,,Decatur,20-St. Paul Town,,,,147
+,Ballots Cast,,,Decatur,20-St. Paul Town,147,25,0,172
 Mike Braun,U.S. Senate,,R,Decatur,20-St. Paul Town,106,15,0,121
 Joe Donnelly,U.S. Senate,,D,Decatur,20-St. Paul Town,30,9,0,39
 Lucy M Brenton,U.S. Senate,,L,Decatur,20-St. Paul Town,8,1,0,9
@@ -439,267 +439,3 @@ Write in,U.S. House,6,R,Decatur,20-St. Paul Town,0,0,0,0
 "Clyde A ""Chip"" Perfect Jr. ",State Senate,43,R,Decatur,20-St. Paul Town,124,17,0,141
 Cindy Meyer Ziemke,State Representative,55,R,Decatur,20-St. Paul Town,106,15,0,121
 Corinne Westerfield,State Representative,55,D,Decatur,20-St. Paul Town,34,10,0,44
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,

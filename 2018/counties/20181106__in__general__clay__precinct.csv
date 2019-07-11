@@ -1,6 +1,6 @@
 candidate,office,district,party,county,precinct,election_day,absentee,provisional,votes
 ,Registered Voters,,,Clay,Brazil 1,,,,1287
-,Ballots Cast,,,Clay,Brazil 1,,,,291
+,Ballots Cast,,,Clay,Brazil 1,291,154,0,445
 Mike Braun,U.S. Senate,,R,Clay,Brazil 1,181,79,0,260
 Joe Donnelly,U.S. Senate,,D,Clay,Brazil 1,75,61,0,136
 Lucy M Brenton,U.S. Senate,,L,Clay,Brazil 1,31,8,0,39
@@ -24,7 +24,7 @@ Chris Gambill,State Senate,38,D,Clay,Brazil 1,83,61,0,144
 Alan Morrison,State Representative,42,R,Clay,Brazil 1,183,72,0,255
 Evelyn Brown,State Representative,42,D,Clay,Brazil 1,100,78,0,178
 ,Registered Voters,,,Clay,Brazil 2,,,,1196
-,Ballots Cast,,,Clay,Brazil 2,,,,303
+,Ballots Cast,,,Clay,Brazil 2,303,177,0,480
 Mike Braun,U.S. Senate,,R,Clay,Brazil 2,182,93,0,275
 Joe Donnelly,U.S. Senate,,D,Clay,Brazil 2,95,73,0,168
 Lucy M Brenton,U.S. Senate,,L,Clay,Brazil 2,24,8,0,32
@@ -48,7 +48,7 @@ Chris Gambill,State Senate,38,D,Clay,Brazil 2,94,69,0,163
 Alan Morrison,State Representative,42,R,Clay,Brazil 2,178,91,0,269
 Evelyn Brown,State Representative,42,D,Clay,Brazil 2,123,81,0,204
 ,Registered Voters,,,Clay,Brazil 3,,,,1119
-,Ballots Cast,,,Clay,Brazil 3,,,,265
+,Ballots Cast,,,Clay,Brazil 3,265,150,0,415
 Mike Braun,U.S. Senate,,R,Clay,Brazil 3,158,75,0,233
 Joe Donnelly,U.S. Senate,,D,Clay,Brazil 3,75,62,0,137
 Lucy M Brenton,U.S. Senate,,L,Clay,Brazil 3,27,8,0,35
@@ -72,7 +72,7 @@ Chris Gambill,State Senate,38,D,Clay,Brazil 3,84,62,0,146
 Alan Morrison,State Representative,42,R,Clay,Brazil 3,161,75,0,236
 Evelyn Brown,State Representative,42,D,Clay,Brazil 3,98,68,0,166
 ,Registered Voters,,,Clay,Brazil 4,,,,789
-,Ballots Cast,,,Clay,Brazil 4,,,,204
+,Ballots Cast,,,Clay,Brazil 4,204,130,0,334
 Mike Braun,U.S. Senate,,R,Clay,Brazil 4,125,76,0,201
 Joe Donnelly,U.S. Senate,,D,Clay,Brazil 4,56,46,0,102
 Lucy M Brenton,U.S. Senate,,L,Clay,Brazil 4,21,5,0,26
@@ -96,7 +96,7 @@ Chris Gambill,State Senate,38,D,Clay,Brazil 4,69,50,0,119
 Alan Morrison,State Representative,42,R,Clay,Brazil 4,123,69,0,192
 Evelyn Brown,State Representative,42,D,Clay,Brazil 4,80,55,0,135
 ,Registered Voters,,,Clay,Brazil 5,,,,631
-,Ballots Cast,,,Clay,Brazil 5,,,,203
+,Ballots Cast,,,Clay,Brazil 5,203,156,0,359
 Mike Braun,U.S. Senate,,R,Clay,Brazil 5,134,103,0,237
 Joe Donnelly,U.S. Senate,,D,Clay,Brazil 5,58,45,0,103
 Lucy M Brenton,U.S. Senate,,L,Clay,Brazil 5,10,8,0,18
@@ -120,7 +120,7 @@ Chris Gambill,State Senate,38,D,Clay,Brazil 5,54,46,0,100
 Alan Morrison,State Representative,42,R,Clay,Brazil 5,138,106,0,244
 Evelyn Brown,State Representative,42,D,Clay,Brazil 5,65,49,0,114
 ,Registered Voters,,,Clay,Brazil 6,,,,559
-,Ballots Cast,,,Clay,Brazil 6,,,,131
+,Ballots Cast,,,Clay,Brazil 6,131,76,0,207
 Mike Braun,U.S. Senate,,R,Clay,Brazil 6,80,46,0,126
 Joe Donnelly,U.S. Senate,,D,Clay,Brazil 6,39,26,0,65
 Lucy M Brenton,U.S. Senate,,L,Clay,Brazil 6,9,2,0,11
@@ -144,7 +144,7 @@ Chris Gambill,State Senate,38,D,Clay,Brazil 6,38,32,0,70
 Alan Morrison,State Representative,42,R,Clay,Brazil 6,83,39,0,122
 Evelyn Brown,State Representative,42,D,Clay,Brazil 6,46,36,0,82
 ,Registered Voters,,,Clay,Cass,,,,218
-,Ballots Cast,,,Clay,Cass,,,,60
+,Ballots Cast,,,Clay,Cass,60,44,0,104
 Mike Braun,U.S. Senate,,R,Clay,Cass,47,25,0,72
 Joe Donnelly,U.S. Senate,,D,Clay,Cass,10,14,0,24
 Lucy M Brenton,U.S. Senate,,L,Clay,Cass,2,4,0,6
@@ -168,7 +168,7 @@ Chris Gambill,State Senate,38,D,Clay,Cass,16,15,0,31
 Beau Baird,State Representative,44,R,Clay,Cass,44,29,0,73
 Kimberly Anne Fidler,State Representative,44,D,Clay,Cass,14,13,0,27
 ,Registered Voters,,,Clay,Dick Johnson,,,,1033
-,Ballots Cast,,,Clay,Dick Johnson,,,,340
+,Ballots Cast,,,Clay,Dick Johnson,340,205,0,545
 Mike Braun,U.S. Senate,,R,Clay,Dick Johnson,252,150,0,402
 Joe Donnelly,U.S. Senate,,D,Clay,Dick Johnson,69,48,0,117
 Lucy M Brenton,U.S. Senate,,L,Clay,Dick Johnson,17,4,0,21
@@ -192,7 +192,7 @@ Chris Gambill,State Senate,38,D,Clay,Dick Johnson,83,55,0,138
 Alan Morrison,State Representative,42,R,Clay,Dick Johnson,240,143,0,383
 Evelyn Brown,State Representative,42,D,Clay,Dick Johnson,95,62,0,157
 ,Registered Voters,,,Clay,Harrison 1,,,,678
-,Ballots Cast,,,Clay,Harrison 1,,,,314
+,Ballots Cast,,,Clay,Harrison 1,314,59,0,373
 Mike Braun,U.S. Senate,,R,Clay,Harrison 1,203,38,0,241
 Joe Donnelly,U.S. Senate,,D,Clay,Harrison 1,84,17,0,101
 Lucy M Brenton,U.S. Senate,,L,Clay,Harrison 1,20,3,0,23
@@ -216,7 +216,7 @@ No Candidate Filed,State Senate,39,D,Clay,Harrison 1,0,0,0,0
 Bob Heaton,State Representative,46,R,Clay,Harrison 1,231,42,0,273
 E Thomasina Marsili,State Representative,46,D,Clay,Harrison 1,72,16,0,88
 ,Registered Voters,,,Clay,Harrison 2,,,,786
-,Ballots Cast,,,Clay,Harrison 2,,,,388
+,Ballots Cast,,,Clay,Harrison 2,388,90,0,478
 Mike Braun,U.S. Senate,,R,Clay,Harrison 2,277,74,0,351
 Joe Donnelly,U.S. Senate,,D,Clay,Harrison 2,83,14,0,97
 Lucy M Brenton,U.S. Senate,,L,Clay,Harrison 2,17,1,0,18
@@ -240,7 +240,7 @@ No Candidate Filed,State Senate,39,D,Clay,Harrison 2,0,0,0,0
 Bob Heaton,State Representative,46,R,Clay,Harrison 2,316,72,0,388
 E Thomasina Marsili,State Representative,46,D,Clay,Harrison 2,67,16,0,83
 ,Registered Voters,,,Clay,Jackson 1,,,,697
-,Ballots Cast,,,Clay,Jackson 1,,,,234
+,Ballots Cast,,,Clay,Jackson 1,234,154,0,388
 Mike Braun,U.S. Senate,,R,Clay,Jackson 1,156,116,0,272
 Joe Donnelly,U.S. Senate,,D,Clay,Jackson 1,57,31,0,88
 Lucy M Brenton,U.S. Senate,,L,Clay,Jackson 1,16,6,0,22
@@ -264,7 +264,7 @@ Chris Gambill,State Senate,38,D,Clay,Jackson 1,66,36,0,102
 Beau Baird,State Representative,44,R,Clay,Jackson 1,159,115,0,274
 Kimberly Anne Fidler,State Representative,44,D,Clay,Jackson 1,66,36,0,102
 ,Registered Voters,,,Clay,Jackson 2,,,,1211
-,Ballots Cast,,,Clay,Jackson 2,,,,414
+,Ballots Cast,,,Clay,Jackson 2,414,284,0,698
 Mike Braun,U.S. Senate,,R,Clay,Jackson 2,281,182,0,463
 Joe Donnelly,U.S. Senate,,D,Clay,Jackson 2,110,86,0,196
 Lucy M Brenton,U.S. Senate,,L,Clay,Jackson 2,12,11,0,23
@@ -288,7 +288,7 @@ Chris Gambill,State Senate,38,D,Clay,Jackson 2,105,83,0,188
 Beau Baird,State Representative,44,R,Clay,Jackson 2,295,180,0,475
 Kimberly Anne Fidler,State Representative,44,D,Clay,Jackson 2,101,95,0,196
 ,Registered Voters,,,Clay,Jackson 3,,,,351
-,Ballots Cast,,,Clay,Jackson 3,,,,125
+,Ballots Cast,,,Clay,Jackson 3,125,115,0,240
 Mike Braun,U.S. Senate,,R,Clay,Jackson 3,75,66,0,141
 Joe Donnelly,U.S. Senate,,D,Clay,Jackson 3,40,41,0,81
 Lucy M Brenton,U.S. Senate,,L,Clay,Jackson 3,9,3,0,12
@@ -312,7 +312,7 @@ Chris Gambill,State Senate,38,D,Clay,Jackson 3,39,39,0,78
 Beau Baird,State Representative,44,R,Clay,Jackson 3,85,72,0,157
 Kimberly Anne Fidler,State Representative,44,D,Clay,Jackson 3,38,38,0,76
 ,Registered Voters,,,Clay,Lewis,,,,888
-,Ballots Cast,,,Clay,Lewis,,,,481
+,Ballots Cast,,,Clay,Lewis,481,46,0,527
 Mike Braun,U.S. Senate,,R,Clay,Lewis,325,29,0,354
 Joe Donnelly,U.S. Senate,,D,Clay,Lewis,131,14,0,145
 Lucy M Brenton,U.S. Senate,,L,Clay,Lewis,19,0,0,19
@@ -336,7 +336,7 @@ No Candidate Filed,State Senate,39,D,Clay,Lewis,0,0,0,0
 Bob Heaton,State Representative,46,R,Clay,Lewis,363,30,0,393
 E Thomasina Marsili,State Representative,46,D,Clay,Lewis,109,16,0,125
 ,Registered Voters,,,Clay,Perry,,,,656
-,Ballots Cast,,,Clay,Perry,,,,191
+,Ballots Cast,,,Clay,Perry,191,218,0,409
 Mike Braun,U.S. Senate,,R,Clay,Perry,146,153,0,299
 Joe Donnelly,U.S. Senate,,D,Clay,Perry,36,53,0,89
 Lucy M Brenton,U.S. Senate,,L,Clay,Perry,7,8,0,15
@@ -360,7 +360,7 @@ No Candidate Filed,State Senate,39,D,Clay,Perry,0,0,0,0
 Bob Heaton,State Representative,46,R,Clay,Perry,162,149,0,311
 E Thomasina Marsili,State Representative,46,D,Clay,Perry,24,61,0,85
 ,Registered Voters,,,Clay,Posey 1,,,,1087
-,Ballots Cast,,,Clay,Posey 1,,,,335
+,Ballots Cast,,,Clay,Posey 1,335,247,0,582
 Mike Braun,U.S. Senate,,R,Clay,Posey 1,221,155,0,376
 Joe Donnelly,U.S. Senate,,D,Clay,Posey 1,91,87,0,178
 Lucy M Brenton,U.S. Senate,,L,Clay,Posey 1,19,3,0,22
@@ -384,7 +384,7 @@ Chris Gambill,State Senate,38,D,Clay,Posey 1,90,89,0,179
 Alan Morrison,State Representative,42,R,Clay,Posey 1,221,147,0,368
 Evelyn Brown,State Representative,42,D,Clay,Posey 1,111,95,0,206
 ,Registered Voters,,,Clay,Posey 2,,,,606
-,Ballots Cast,,,Clay,Posey 2,,,,179
+,Ballots Cast,,,Clay,Posey 2,179,104,0,283
 Mike Braun,U.S. Senate,,R,Clay,Posey 2,127,73,0,200
 Joe Donnelly,U.S. Senate,,D,Clay,Posey 2,44,28,0,72
 Lucy M Brenton,U.S. Senate,,L,Clay,Posey 2,6,3,0,9
@@ -408,7 +408,7 @@ Chris Gambill,State Senate,38,D,Clay,Posey 2,56,30,0,86
 Alan Morrison,State Representative,42,R,Clay,Posey 2,115,67,0,182
 Evelyn Brown,State Representative,42,D,Clay,Posey 2,62,34,0,96
 ,Registered Voters,,,Clay,Posey 3,,,,1211
-,Ballots Cast,,,Clay,Posey 3,,,,406
+,Ballots Cast,,,Clay,Posey 3,406,243,0,649
 Mike Braun,U.S. Senate,,R,Clay,Posey 3,265,141,0,406
 Joe Donnelly,U.S. Senate,,D,Clay,Posey 3,110,90,0,200
 Lucy M Brenton,U.S. Senate,,L,Clay,Posey 3,24,7,0,31
@@ -432,7 +432,7 @@ Chris Gambill,State Senate,38,D,Clay,Posey 3,109,95,0,204
 Alan Morrison,State Representative,42,R,Clay,Posey 3,267,133,0,400
 Evelyn Brown,State Representative,42,D,Clay,Posey 3,134,107,0,241
 ,Registered Voters,,,Clay,Sugar Ridge,,,,687
-,Ballots Cast,,,Clay,Sugar Ridge,,,,320
+,Ballots Cast,,,Clay,Sugar Ridge,320,75,0,395
 Mike Braun,U.S. Senate,,R,Clay,Sugar Ridge,214,58,0,272
 Joe Donnelly,U.S. Senate,,D,Clay,Sugar Ridge,88,17,0,105
 Lucy M Brenton,U.S. Senate,,L,Clay,Sugar Ridge,15,0,0,15
@@ -456,7 +456,7 @@ No Candidate Filed,State Senate,39,D,Clay,Sugar Ridge,0,0,0,0
 Bob Heaton,State Representative,46,R,Clay,Sugar Ridge,250,54,0,304
 E Thomasina Marsili,State Representative,46,D,Clay,Sugar Ridge,67,18,0,85
 ,Registered Voters,,,Clay,Van Buren 1,,,,503
-,Ballots Cast,,,Clay,Van Buren 1,,,,146
+,Ballots Cast,,,Clay,Van Buren 1,146,82,0,228
 Mike Braun,U.S. Senate,,R,Clay,Van Buren 1,98,57,0,155
 Joe Donnelly,U.S. Senate,,D,Clay,Van Buren 1,39,19,0,58
 Lucy M Brenton,U.S. Senate,,L,Clay,Van Buren 1,9,1,0,10
@@ -480,7 +480,7 @@ Chris Gambill,State Senate,38,D,Clay,Van Buren 1,33,24,0,57
 Beau Baird,State Representative,44,R,Clay,Van Buren 1,105,56,0,161
 Kimberly Anne Fidler,State Representative,44,D,Clay,Van Buren 1,40,19,0,59
 ,Registered Voters,,,Clay,Van Buren 2,,,,715
-,Ballots Cast,,,Clay,Van Buren 2,,,,232
+,Ballots Cast,,,Clay,Van Buren 2,232,134,0,366
 Mike Braun,U.S. Senate,,R,Clay,Van Buren 2,155,76,0,231
 Joe Donnelly,U.S. Senate,,D,Clay,Van Buren 2,59,44,0,103
 Lucy M Brenton,U.S. Senate,,L,Clay,Van Buren 2,16,10,0,26
@@ -504,7 +504,7 @@ Chris Gambill,State Senate,38,D,Clay,Van Buren 2,67,58,0,125
 Alan Morrison,State Representative,42,R,Clay,Van Buren 2,160,70,0,230
 Evelyn Brown,State Representative,42,D,Clay,Van Buren 2,70,60,0,130
 ,Registered Voters,,,Clay,Van Buren 3,,,,1053
-,Ballots Cast,,,Clay,Van Buren 3,,,,411
+,Ballots Cast,,,Clay,Van Buren 3,411,176,0,587
 Mike Braun,U.S. Senate,,R,Clay,Van Buren 3,293,111,0,404
 Joe Donnelly,U.S. Senate,,D,Clay,Van Buren 3,87,58,0,145
 Lucy M Brenton,U.S. Senate,,L,Clay,Van Buren 3,24,6,0,30
@@ -528,7 +528,7 @@ Chris Gambill,State Senate,38,D,Clay,Van Buren 3,89,54,0,143
 Beau Baird,State Representative,44,R,Clay,Van Buren 3,298,116,0,414
 Kimberly Anne Fidler,State Representative,44,D,Clay,Van Buren 3,104,60,0,164
 ,Registered Voters,,,Clay,Washington,,,,583
-,Ballots Cast,,,Clay,Washington,,,,161
+,Ballots Cast,,,Clay,Washington,161,180,0,341
 Mike Braun,U.S. Senate,,R,Clay,Washington,115,121,0,236
 Joe Donnelly,U.S. Senate,,D,Clay,Washington,41,50,0,91
 Lucy M Brenton,U.S. Senate,,L,Clay,Washington,3,3,0,6

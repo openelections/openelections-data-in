@@ -1,6 +1,6 @@
 candidate,office,district,party,county,precinct,election_day,absentee,provisional,votes
 ,Registered Voters,,,Bartholomew,Pct. 0100,,,,1125
-,Ballots Cast,,,Bartholomew,Pct. 0100,,,,243
+,Ballots Cast,,,Bartholomew,Pct. 0100,243,240,0,483
 Mike Braun,U.S. Senate,,R,Bartholomew,Pct. 0100,89,81,0,170
 Joe Donnelly,U.S. Senate,,D,Bartholomew,Pct. 0100,139,138,0,277
 Lucy M Brenton,U.S. Senate,,L,Bartholomew,Pct. 0100,12,14,0,27
@@ -22,7 +22,7 @@ Ryan Lauer,State Representative,59,R,Bartholomew,Pct. 0100,97,79,0,176
 Dale Nowin,State Representative,59,D,Bartholomew,Pct. 0100,128,147,0,275
 Clyde D Myers,State Representative,59,L,Bartholomew,Pct. 0100,16,10,0,26
 ,Registered Voters,,,Bartholomew,Pct. 0200,,,,1369
-,Ballots Cast,,,Bartholomew,Pct. 0200,,,,479
+,Ballots Cast,,,Bartholomew,Pct. 0200,479,353,0,832
 Mike Braun,U.S. Senate,,R,Bartholomew,Pct. 0200,272,169,0,441
 Joe Donnelly,U.S. Senate,,D,Bartholomew,Pct. 0200,180,175,0,355
 Lucy M Brenton,U.S. Senate,,L,Bartholomew,Pct. 0200,21,6,0,27
@@ -44,7 +44,7 @@ Ryan Lauer,State Representative,59,R,Bartholomew,Pct. 0200,282,160,0,442
 Dale Nowin,State Representative,59,D,Bartholomew,Pct. 0200,182,181,0,363
 Clyde D Myers,State Representative,59,L,Bartholomew,Pct. 0200,12,6,0,18
 ,Registered Voters,,,Bartholomew,Pct. 0225,,,,1215
-,Ballots Cast,,,Bartholomew,Pct. 0225,,,,379
+,Ballots Cast,,,Bartholomew,Pct. 0225,379,221,0,600
 Mike Braun,U.S. Senate,,R,Bartholomew,Pct. 0225,198,109,0,307
 Joe Donnelly,U.S. Senate,,D,Bartholomew,Pct. 0225,157,108,0,265
 Lucy M Brenton,U.S. Senate,,L,Bartholomew,Pct. 0225,21,4,0,25
@@ -66,7 +66,7 @@ Ryan Lauer,State Representative,59,R,Bartholomew,Pct. 0225,195,110,0,305
 Dale Nowin,State Representative,59,D,Bartholomew,Pct. 0225,162,108,0,270
 Clyde D Myers,State Representative,59,L,Bartholomew,Pct. 0225,19,3,0,22
 ,Registered Voters,,,Bartholomew,Pct. 0250,,,,1079
-,Ballots Cast,,,Bartholomew,Pct. 0250,,,,267
+,Ballots Cast,,,Bartholomew,Pct. 0250,267,413,0,680
 Mike Braun,U.S. Senate,,R,Bartholomew,Pct. 0250,160,175,0,335
 Joe Donnelly,U.S. Senate,,D,Bartholomew,Pct. 0250,95,224,0,319
 Lucy M Brenton,U.S. Senate,,L,Bartholomew,Pct. 0250,11,10,0,21
@@ -88,7 +88,7 @@ Ryan Lauer,State Representative,59,R,Bartholomew,Pct. 0250,158,166,0,324
 Dale Nowin,State Representative,59,D,Bartholomew,Pct. 0250,104,234,0,338
 Clyde D Myers,State Representative,59,L,Bartholomew,Pct. 0250,3,8,0,11
 ,Registered Voters,,,Bartholomew,Pct. 0300,,,,641
-,Ballots Cast,,,Bartholomew,Pct. 0300,,,,135
+,Ballots Cast,,,Bartholomew,Pct. 0300,135,129,0,264
 Mike Braun,U.S. Senate,,R,Bartholomew,Pct. 0300,53,40,0,93
 Joe Donnelly,U.S. Senate,,D,Bartholomew,Pct. 0300,67,81,0,148
 Lucy M Brenton,U.S. Senate,,L,Bartholomew,Pct. 0300,13,7,0,20
@@ -110,7 +110,7 @@ Ryan Lauer,State Representative,59,R,Bartholomew,Pct. 0300,54,41,0,95
 Dale Nowin,State Representative,59,D,Bartholomew,Pct. 0300,67,86,0,153
 Clyde D Myers,State Representative,59,L,Bartholomew,Pct. 0300,12,1,0,13
 ,Registered Voters,,,Bartholomew,Pct. 0400,,,,1095
-,Ballots Cast,,,Bartholomew,Pct. 0400,,,,267
+,Ballots Cast,,,Bartholomew,Pct. 0400,267,353,0,620
 Mike Braun,U.S. Senate,,R,Bartholomew,Pct. 0400,126,129,0,255
 Joe Donnelly,U.S. Senate,,D,Bartholomew,Pct. 0400,115,203,0,318
 Lucy M Brenton,U.S. Senate,,L,Bartholomew,Pct. 0400,22,17,0,39
@@ -132,7 +132,7 @@ Ryan Lauer,State Representative,59,R,Bartholomew,Pct. 0400,138,137,0,275
 Dale Nowin,State Representative,59,D,Bartholomew,Pct. 0400,117,205,0,322
 Clyde D Myers,State Representative,59,L,Bartholomew,Pct. 0400,11,10,0,21
 ,Registered Voters,,,Bartholomew,Pct. 0500,,,,1048
-,Ballots Cast,,,Bartholomew,Pct. 0500,,,,302
+,Ballots Cast,,,Bartholomew,Pct. 0500,302,292,0,594
 Mike Braun,U.S. Senate,,R,Bartholomew,Pct. 0500,190,148,0,338
 Joe Donnelly,U.S. Senate,,D,Bartholomew,Pct. 0500,88,130,0,218
 Lucy M Brenton,U.S. Senate,,L,Bartholomew,Pct. 0500,19,9,0,28
@@ -154,7 +154,7 @@ Ryan Lauer,State Representative,59,R,Bartholomew,Pct. 0500,190,144,0,334
 Dale Nowin,State Representative,59,D,Bartholomew,Pct. 0500,98,142,0,240
 Clyde D Myers,State Representative,59,L,Bartholomew,Pct. 0500,8,4,0,12
 ,Registered Voters,,,Bartholomew,Pct. 0600,,,,697
-,Ballots Cast,,,Bartholomew,Pct. 0600,,,,167
+,Ballots Cast,,,Bartholomew,Pct. 0600,167,269,0,436
 Mike Braun,U.S. Senate,,R,Bartholomew,Pct. 0600,95,131,0,226
 Joe Donnelly,U.S. Senate,,D,Bartholomew,Pct. 0600,59,124,0,183
 Lucy M Brenton,U.S. Senate,,L,Bartholomew,Pct. 0600,12,11,0,23
@@ -176,7 +176,7 @@ Ryan Lauer,State Representative,59,R,Bartholomew,Pct. 0600,87,125,0,212
 Dale Nowin,State Representative,59,D,Bartholomew,Pct. 0600,75,133,0,208
 Clyde D Myers,State Representative,59,L,Bartholomew,Pct. 0600,2,6,0,8
 ,Registered Voters,,,Bartholomew,Pct. 0700,,,,890
-,Ballots Cast,,,Bartholomew,Pct. 0700,,,,233
+,Ballots Cast,,,Bartholomew,Pct. 0700,233,266,0,499
 Mike Braun,U.S. Senate,,R,Bartholomew,Pct. 0700,120,126,0,246
 Joe Donnelly,U.S. Senate,,D,Bartholomew,Pct. 0700,94,118,0,212
 Lucy M Brenton,U.S. Senate,,L,Bartholomew,Pct. 0700,15,12,0,27
@@ -198,7 +198,7 @@ Ryan Lauer,State Representative,59,R,Bartholomew,Pct. 0700,122,134,0,256
 Dale Nowin,State Representative,59,D,Bartholomew,Pct. 0700,94,115,0,209
 Clyde D Myers,State Representative,59,L,Bartholomew,Pct. 0700,14,4,0,18
 ,Registered Voters,,,Bartholomew,Pct. 0800,,,,810
-,Ballots Cast,,,Bartholomew,Pct. 0800,,,,198
+,Ballots Cast,,,Bartholomew,Pct. 0800,198,190,0,388
 Mike Braun,U.S. Senate,,R,Bartholomew,Pct. 0800,111,81,0,192
 Joe Donnelly,U.S. Senate,,D,Bartholomew,Pct. 0800,74,103,0,177
 Lucy M Brenton,U.S. Senate,,L,Bartholomew,Pct. 0800,10,3,0,13
@@ -220,7 +220,7 @@ Ryan Lauer,State Representative,59,R,Bartholomew,Pct. 0800,114,85,0,199
 Dale Nowin,State Representative,59,D,Bartholomew,Pct. 0800,74,99,0,173
 Clyde D Myers,State Representative,59,L,Bartholomew,Pct. 0800,8,3,0,11
 ,Registered Voters,,,Bartholomew,Pct. 0900,,,,1064
-,Ballots Cast,,,Bartholomew,Pct. 0900,,,,258
+,Ballots Cast,,,Bartholomew,Pct. 0900,258,330,0,588
 Mike Braun,U.S. Senate,,R,Bartholomew,Pct. 0900,138,165,0,303
 Joe Donnelly,U.S. Senate,,D,Bartholomew,Pct. 0900,102,148,0,250
 Lucy M Brenton,U.S. Senate,,L,Bartholomew,Pct. 0900,16,14,0,30
@@ -242,7 +242,7 @@ Ryan Lauer,State Representative,59,R,Bartholomew,Pct. 0900,128,173,0,301
 Dale Nowin,State Representative,59,D,Bartholomew,Pct. 0900,112,149,0,261
 Clyde D Myers,State Representative,59,L,Bartholomew,Pct. 0900,13,2,0,15
 ,Registered Voters,,,Bartholomew,Pct. 1000,,,,859
-,Ballots Cast,,,Bartholomew,Pct. 1000,,,,273
+,Ballots Cast,,,Bartholomew,Pct. 1000,273,233,0,506
 Mike Braun,U.S. Senate,,R,Bartholomew,Pct. 1000,151,116,0,267
 Joe Donnelly,U.S. Senate,,D,Bartholomew,Pct. 1000,90,108,0,198
 Lucy M Brenton,U.S. Senate,,L,Bartholomew,Pct. 1000,26,8,0,34
@@ -264,7 +264,7 @@ Ryan Lauer,State Representative,59,R,Bartholomew,Pct. 1000,161,107,0,268
 Dale Nowin,State Representative,59,D,Bartholomew,Pct. 1000,101,115,0,216
 Clyde D Myers,State Representative,59,L,Bartholomew,Pct. 1000,7,6,0,13
 ,Registered Voters,,,Bartholomew,Pct. 1100,,,,842
-,Ballots Cast,,,Bartholomew,Pct. 1100,,,,280
+,Ballots Cast,,,Bartholomew,Pct. 1100,280,255,0,535
 Mike Braun,U.S. Senate,,R,Bartholomew,Pct. 1100,171,137,0,308
 Joe Donnelly,U.S. Senate,,D,Bartholomew,Pct. 1100,100,112,0,212
 Lucy M Brenton,U.S. Senate,,L,Bartholomew,Pct. 1100,8,4,0,12
@@ -286,7 +286,7 @@ Ryan Lauer,State Representative,59,R,Bartholomew,Pct. 1100,176,143,0,319
 Dale Nowin,State Representative,59,D,Bartholomew,Pct. 1100,98,109,0,207
 Clyde D Myers,State Representative,59,L,Bartholomew,Pct. 1100,3,1,0,4
 ,Registered Voters,,,Bartholomew,Pct. 1200,,,,786
-,Ballots Cast,,,Bartholomew,Pct. 1200,,,,216
+,Ballots Cast,,,Bartholomew,Pct. 1200,216,202,0,418
 Mike Braun,U.S. Senate,,R,Bartholomew,Pct. 1200,120,107,0,227
 Joe Donnelly,U.S. Senate,,D,Bartholomew,Pct. 1200,75,88,0,163
 Lucy M Brenton,U.S. Senate,,L,Bartholomew,Pct. 1200,19,6,0,25
@@ -308,7 +308,7 @@ Ryan Lauer,State Representative,59,R,Bartholomew,Pct. 1200,126,110,0,236
 Dale Nowin,State Representative,59,D,Bartholomew,Pct. 1200,78,91,0,169
 Clyde D Myers,State Representative,59,L,Bartholomew,Pct. 1200,8,0,0,8
 ,Registered Voters,,,Bartholomew,Pct. 1300,,,,1044
-,Ballots Cast,,,Bartholomew,Pct. 1300,,,,263
+,Ballots Cast,,,Bartholomew,Pct. 1300,263,428,0,691
 Mike Braun,U.S. Senate,,R,Bartholomew,Pct. 1300,153,245,0,398
 Joe Donnelly,U.S. Senate,,D,Bartholomew,Pct. 1300,95,155,0,250
 Lucy M Brenton,U.S. Senate,,L,Bartholomew,Pct. 1300,12,17,0,29
@@ -330,7 +330,7 @@ Ryan Lauer,State Representative,59,R,Bartholomew,Pct. 1300,145,252,0,397
 Dale Nowin,State Representative,59,D,Bartholomew,Pct. 1300,104,160,0,264
 Clyde D Myers,State Representative,59,L,Bartholomew,Pct. 1300,6,12,0,18
 ,Registered Voters,,,Bartholomew,Pct. 1400,,,,1095
-,Ballots Cast,,,Bartholomew,Pct. 1400,,,,305
+,Ballots Cast,,,Bartholomew,Pct. 1400,305,242,0,547
 Mike Braun,U.S. Senate,,R,Bartholomew,Pct. 1400,148,111,0,259
 Joe Donnelly,U.S. Senate,,D,Bartholomew,Pct. 1400,137,119,0,256
 Lucy M Brenton,U.S. Senate,,L,Bartholomew,Pct. 1400,19,10,0,29
@@ -352,7 +352,7 @@ Ryan Lauer,State Representative,59,R,Bartholomew,Pct. 1400,159,110,0,269
 Dale Nowin,State Representative,59,D,Bartholomew,Pct. 1400,127,124,0,251
 Clyde D Myers,State Representative,59,L,Bartholomew,Pct. 1400,10,4,0,14
 ,Registered Voters,,,Bartholomew,Pct. 1500,,,,496
-,Ballots Cast,,,Bartholomew,Pct. 1500,,,,70
+,Ballots Cast,,,Bartholomew,Pct. 1500,70,136,0,206
 Mike Braun,U.S. Senate,,R,Bartholomew,Pct. 1500,37,61,0,98
 Joe Donnelly,U.S. Senate,,D,Bartholomew,Pct. 1500,29,68,0,97
 Lucy M Brenton,U.S. Senate,,L,Bartholomew,Pct. 1500,3,5,0,8
@@ -374,7 +374,7 @@ Ryan Lauer,State Representative,59,R,Bartholomew,Pct. 1500,37,62,0,99
 Dale Nowin,State Representative,59,D,Bartholomew,Pct. 1500,29,69,0,98
 Clyde D Myers,State Representative,59,L,Bartholomew,Pct. 1500,3,1,0,4
 ,Registered Voters,,,Bartholomew,Pct. 1600,,,,663
-,Ballots Cast,,,Bartholomew,Pct. 1600,,,,195
+,Ballots Cast,,,Bartholomew,Pct. 1600,195,186,0,381
 Mike Braun,U.S. Senate,,R,Bartholomew,Pct. 1600,102,103,0,205
 Joe Donnelly,U.S. Senate,,D,Bartholomew,Pct. 1600,81,78,0,159
 Lucy M Brenton,U.S. Senate,,L,Bartholomew,Pct. 1600,10,3,0,13
@@ -396,7 +396,7 @@ Ryan Lauer,State Representative,59,R,Bartholomew,Pct. 1600,103,96,0,199
 Dale Nowin,State Representative,59,D,Bartholomew,Pct. 1600,80,82,0,162
 Clyde D Myers,State Representative,59,L,Bartholomew,Pct. 1600,6,3,0,9
 ,Registered Voters,,,Bartholomew,Pct. 1700,,,,929
-,Ballots Cast,,,Bartholomew,Pct. 1700,,,,188
+,Ballots Cast,,,Bartholomew,Pct. 1700,188,170,0,358
 Mike Braun,U.S. Senate,,R,Bartholomew,Pct. 1700,87,73,0,160
 Joe Donnelly,U.S. Senate,,D,Bartholomew,Pct. 1700,78,87,0,165
 Lucy M Brenton,U.S. Senate,,L,Bartholomew,Pct. 1700,18,8,0,26
@@ -418,7 +418,7 @@ Ryan Lauer,State Representative,59,R,Bartholomew,Pct. 1700,95,71,0,166
 Dale Nowin,State Representative,59,D,Bartholomew,Pct. 1700,81,91,0,172
 Clyde D Myers,State Representative,59,L,Bartholomew,Pct. 1700,10,5,0,15
 ,Registered Voters,,,Bartholomew,Pct. 1800,,,,665
-,Ballots Cast,,,Bartholomew,Pct. 1800,,,,170
+,Ballots Cast,,,Bartholomew,Pct. 1800,170,130,0,300
 Mike Braun,U.S. Senate,,R,Bartholomew,Pct. 1800,111,82,0,193
 Joe Donnelly,U.S. Senate,,D,Bartholomew,Pct. 1800,47,39,0,86
 Lucy M Brenton,U.S. Senate,,L,Bartholomew,Pct. 1800,11,7,0,18
@@ -440,7 +440,7 @@ Ryan Lauer,State Representative,59,R,Bartholomew,Pct. 1800,112,86,0,198
 Dale Nowin,State Representative,59,D,Bartholomew,Pct. 1800,52,40,0,92
 Clyde D Myers,State Representative,59,L,Bartholomew,Pct. 1800,4,1,0,5
 ,Registered Voters,,,Bartholomew,Pct. 1900,,,,644
-,Ballots Cast,,,Bartholomew,Pct. 1900,,,,139
+,Ballots Cast,,,Bartholomew,Pct. 1900,139,89,0,228
 Mike Braun,U.S. Senate,,R,Bartholomew,Pct. 1900,68,37,0,105
 Joe Donnelly,U.S. Senate,,D,Bartholomew,Pct. 1900,56,46,0,102
 Lucy M Brenton,U.S. Senate,,L,Bartholomew,Pct. 1900,11,3,0,14
@@ -462,7 +462,7 @@ Ryan Lauer,State Representative,59,R,Bartholomew,Pct. 1900,71,40,0,11
 Dale Nowin,State Representative,59,D,Bartholomew,Pct. 1900,56,45,0,101
 Clyde D Myers,State Representative,59,L,Bartholomew,Pct. 1900,9,2,0,11
 ,Registered Voters,,,Bartholomew,Pct. 2000,,,,531
-,Ballots Cast,,,Bartholomew,Pct. 2000,,,,101
+,Ballots Cast,,,Bartholomew,Pct. 2000,101,44,0,145
 Mike Braun,U.S. Senate,,R,Bartholomew,Pct. 2000,53,27,0,80
 Joe Donnelly,U.S. Senate,,D,Bartholomew,Pct. 2000,38,11,0,49
 Lucy M Brenton,U.S. Senate,,L,Bartholomew,Pct. 2000,8,4,0,12
@@ -484,7 +484,7 @@ Ryan Lauer,State Representative,59,R,Bartholomew,Pct. 2000,49,33,0,82
 Dale Nowin,State Representative,59,D,Bartholomew,Pct. 2000,43,8,0,51
 Clyde D Myers,State Representative,59,L,Bartholomew,Pct. 2000,6,2,0,8
 ,Registered Voters,,,Bartholomew,Pct. 2100,,,,788
-,Ballots Cast,,,Bartholomew,Pct. 2100,,,,168
+,Ballots Cast,,,Bartholomew,Pct. 2100,168,103,0,271
 Mike Braun,U.S. Senate,,R,Bartholomew,Pct. 2100,90,39,0,129
 Joe Donnelly,U.S. Senate,,D,Bartholomew,Pct. 2100,70,60,0,130
 Lucy M Brenton,U.S. Senate,,L,Bartholomew,Pct. 2100,7,2,0,9
@@ -506,7 +506,7 @@ Ryan Lauer,State Representative,59,R,Bartholomew,Pct. 2100,84,44,0,128
 Dale Nowin,State Representative,59,D,Bartholomew,Pct. 2100,73,54,0,127
 Clyde D Myers,State Representative,59,L,Bartholomew,Pct. 2100,5,1,0,6
 ,Registered Voters,,,Bartholomew,Pct. 2200,,,,545
-,Ballots Cast,,,Bartholomew,Pct. 2200,,,,161
+,Ballots Cast,,,Bartholomew,Pct. 2200,161,112,0,273
 Mike Braun,U.S. Senate,,R,Bartholomew,Pct. 2200,88,65,0,153
 Joe Donnelly,U.S. Senate,,D,Bartholomew,Pct. 2200,54,29,0,83
 Lucy M Brenton,U.S. Senate,,L,Bartholomew,Pct. 2200,14,10,0,24
@@ -528,7 +528,7 @@ Ryan Lauer,State Representative,59,R,Bartholomew,Pct. 2200,99,69,0,168
 Dale Nowin,State Representative,59,D,Bartholomew,Pct. 2200,49,29,0,78
 Clyde D Myers,State Representative,59,L,Bartholomew,Pct. 2200,11,5,0,16
 ,Registered Voters,,,Bartholomew,Pct. 2300,,,,353
-,Ballots Cast,,,Bartholomew,Pct. 2300,,,,72
+,Ballots Cast,,,Bartholomew,Pct. 2300,72,35,0,107
 Mike Braun,U.S. Senate,,R,Bartholomew,Pct. 2300,38,14,0,52
 Joe Donnelly,U.S. Senate,,D,Bartholomew,Pct. 2300,28,19,0,47
 Lucy M Brenton,U.S. Senate,,L,Bartholomew,Pct. 2300,5,2,0,7
@@ -550,7 +550,7 @@ Ryan Lauer,State Representative,59,R,Bartholomew,Pct. 2300,40,14,0,54
 Dale Nowin,State Representative,59,D,Bartholomew,Pct. 2300,27,18,0,45
 Clyde D Myers,State Representative,59,L,Bartholomew,Pct. 2300,4,2,0,6
 ,Registered Voters,,,Bartholomew,Pct. 2400,,,,613
-,Ballots Cast,,,Bartholomew,Pct. 2400,,,,138
+,Ballots Cast,,,Bartholomew,Pct. 2400,138,49,0,187
 Mike Braun,U.S. Senate,,R,Bartholomew,Pct. 2400,68,19,0,87
 Joe Donnelly,U.S. Senate,,D,Bartholomew,Pct. 2400,63,28,0,91
 Lucy M Brenton,U.S. Senate,,L,Bartholomew,Pct. 2400,6,2,0,8
@@ -572,7 +572,7 @@ Ryan Lauer,State Representative,59,R,Bartholomew,Pct. 2400,73,21,0,94
 Dale Nowin,State Representative,59,D,Bartholomew,Pct. 2400,55,26,0,81
 Clyde D Myers,State Representative,59,L,Bartholomew,Pct. 2400,6,1,0,7
 ,Registered Voters,,,Bartholomew,Pct. 2500,,,,755
-,Ballots Cast,,,Bartholomew,Pct. 2500,,,,248
+,Ballots Cast,,,Bartholomew,Pct. 2500,248,229,0,477
 Mike Braun,U.S. Senate,,R,Bartholomew,Pct. 2500,136,103,0,239
 Joe Donnelly,U.S. Senate,,D,Bartholomew,Pct. 2500,96,114,0,210
 Lucy M Brenton,U.S. Senate,,L,Bartholomew,Pct. 2500,11,8,0,19
@@ -594,7 +594,7 @@ Ryan Lauer,State Representative,59,R,Bartholomew,Pct. 2500,139,110,0,249
 Dale Nowin,State Representative,59,D,Bartholomew,Pct. 2500,96,109,0,207
 Clyde D Myers,State Representative,59,L,Bartholomew,Pct. 2500,6,4,0,10
 ,Registered Voters,,,Bartholomew,Pct. 2600,,,,927
-,Ballots Cast,,,Bartholomew,Pct. 2600,,,,263
+,Ballots Cast,,,Bartholomew,Pct. 2600,263,324,0,587
 Mike Braun,U.S. Senate,,R,Bartholomew,Pct. 2600,139,133,0,272
 Joe Donnelly,U.S. Senate,,D,Bartholomew,Pct. 2600,112,171,0,283
 Lucy M Brenton,U.S. Senate,,L,Bartholomew,Pct. 2600,11,13,0,24
@@ -616,7 +616,7 @@ Ryan Lauer,State Representative,59,R,Bartholomew,Pct. 2600,126,141,0,267
 Dale Nowin,State Representative,59,D,Bartholomew,Pct. 2600,131,172,0,303
 Clyde D Myers,State Representative,59,L,Bartholomew,Pct. 2600,5,6,0,11
 ,Registered Voters,,,Bartholomew,Pct. 2700,,,,961
-,Ballots Cast,,,Bartholomew,Pct. 2700,,,,334
+,Ballots Cast,,,Bartholomew,Pct. 2700,334,284,0,618
 Mike Braun,U.S. Senate,,R,Bartholomew,Pct. 2700,175,122,0,297
 Joe Donnelly,U.S. Senate,,D,Bartholomew,Pct. 2700,142,149,0,291
 Lucy M Brenton,U.S. Senate,,L,Bartholomew,Pct. 2700,14,11,0,25
@@ -638,7 +638,7 @@ Ryan Lauer,State Representative,59,R,Bartholomew,Pct. 2700,180,121,0,301
 Dale Nowin,State Representative,59,D,Bartholomew,Pct. 2700,142,149,0,291
 Clyde D Myers,State Representative,59,L,Bartholomew,Pct. 2700,10,7,0,17
 ,Registered Voters,,,Bartholomew,Pct. 2800,,,,1045
-,Ballots Cast,,,Bartholomew,Pct. 2800,,,,298
+,Ballots Cast,,,Bartholomew,Pct. 2800,298,176,0,474
 Mike Braun,U.S. Senate,,R,Bartholomew,Pct. 2800,161,96,0,257
 Joe Donnelly,U.S. Senate,,D,Bartholomew,Pct. 2800,115,73,0,188
 Lucy M Brenton,U.S. Senate,,L,Bartholomew,Pct. 2800,18,4,0,22
@@ -660,7 +660,7 @@ Ryan Lauer,State Representative,59,R,Bartholomew,Pct. 2800,164,102,0,266
 Dale Nowin,State Representative,59,D,Bartholomew,Pct. 2800,117,71,0,188
 Clyde D Myers,State Representative,59,L,Bartholomew,Pct. 2800,14,3,0,17
 ,Registered Voters,,,Bartholomew,Pct. 2850,,,,222
-,Ballots Cast,,,Bartholomew,Pct. 2850,,,,47
+,Ballots Cast,,,Bartholomew,Pct. 2850,47,20,0,67
 Mike Braun,U.S. Senate,,R,Bartholomew,Pct. 2850,21,11,0,32
 Joe Donnelly,U.S. Senate,,D,Bartholomew,Pct. 2850,17,7,0,24
 Lucy M Brenton,U.S. Senate,,L,Bartholomew,Pct. 2850,8,2,0,10
@@ -682,7 +682,7 @@ Ryan Lauer,State Representative,59,R,Bartholomew,Pct. 2850,20,11,0,31
 Dale Nowin,State Representative,59,D,Bartholomew,Pct. 2850,19,8,0,27
 Clyde D Myers,State Representative,59,L,Bartholomew,Pct. 2850,8,1,0,9
 ,Registered Voters,,,Bartholomew,Pct. 2900,,,,980
-,Ballots Cast,,,Bartholomew,Pct. 2900,,,,307
+,Ballots Cast,,,Bartholomew,Pct. 2900,307,353,0,660
 Mike Braun,U.S. Senate,,R,Bartholomew,Pct. 2900,202,188,0,390
 Joe Donnelly,U.S. Senate,,D,Bartholomew,Pct. 2900,89,150,0,239
 Lucy M Brenton,U.S. Senate,,L,Bartholomew,Pct. 2900,15,7,0,22
@@ -704,7 +704,7 @@ Ryan Lauer,State Representative,59,R,Bartholomew,Pct. 2900,198,188,0,386
 Dale Nowin,State Representative,59,D,Bartholomew,Pct. 2900,97,158,0,255
 Clyde D Myers,State Representative,59,L,Bartholomew,Pct. 2900,9,2,0,11
 ,Registered Voters,,,Bartholomew,Pct. 3000,,,,677
-,Ballots Cast,,,Bartholomew,Pct. 3000,,,,193
+,Ballots Cast,,,Bartholomew,Pct. 3000,193,132,0,325
 Mike Braun,U.S. Senate,,R,Bartholomew,Pct. 3000,130,79,0,209
 Joe Donnelly,U.S. Senate,,D,Bartholomew,Pct. 3000,51,51,0,102
 Lucy M Brenton,U.S. Senate,,L,Bartholomew,Pct. 3000,11,2,0,13
@@ -726,7 +726,7 @@ Ryan Lauer,State Representative,59,R,Bartholomew,Pct. 3000,126,83,0,209
 Dale Nowin,State Representative,59,D,Bartholomew,Pct. 3000,58,48,0,106
 Clyde D Myers,State Representative,59,L,Bartholomew,Pct. 3000,7,0,0,7
 ,Registered Voters,,,Bartholomew,Pct. 3100,,,,820
-,Ballots Cast,,,Bartholomew,Pct. 3100,,,,251
+,Ballots Cast,,,Bartholomew,Pct. 3100,251,225,0,476
 Mike Braun,U.S. Senate,,R,Bartholomew,Pct. 3100,161,128,0,289
 Joe Donnelly,U.S. Senate,,D,Bartholomew,Pct. 3100,72,84,0,156
 Lucy M Brenton,U.S. Senate,,L,Bartholomew,Pct. 3100,16,9,0,25
@@ -748,7 +748,7 @@ Ryan Lauer,State Representative,59,R,Bartholomew,Pct. 3100,176,129,0,305
 Dale Nowin,State Representative,59,D,Bartholomew,Pct. 3100,62,90,0,152
 Clyde D Myers,State Representative,59,L,Bartholomew,Pct. 3100,8,3,0,11
 ,Registered Voters,,,Bartholomew,Pct. 3200,,,,15
-,Ballots Cast,,,Bartholomew,Pct. 3200,,,,5
+,Ballots Cast,,,Bartholomew,Pct. 3200,5,3,0,8
 Mike Braun,U.S. Senate,,R,Bartholomew,Pct. 3200,5,1,0,6
 Joe Donnelly,U.S. Senate,,D,Bartholomew,Pct. 3200,0,2,0,2
 Lucy M Brenton,U.S. Senate,,L,Bartholomew,Pct. 3200,0,0,0,0
@@ -770,7 +770,7 @@ Ryan Lauer,State Representative,59,R,Bartholomew,Pct. 3200,2,1,0,3
 Dale Nowin,State Representative,59,D,Bartholomew,Pct. 3200,3,2,0,5
 Clyde D Myers,State Representative,59,L,Bartholomew,Pct. 3200,0,0,0,0
 ,Registered Voters,,,Bartholomew,Pct. 3300,,,,824
-,Ballots Cast,,,Bartholomew,Pct. 3300,,,,237
+,Ballots Cast,,,Bartholomew,Pct. 3300,237,306,0,543
 Mike Braun,U.S. Senate,,R,Bartholomew,Pct. 3300,133,146,0,279
 Joe Donnelly,U.S. Senate,,D,Bartholomew,Pct. 3300,92,146,0,238
 Lucy M Brenton,U.S. Senate,,L,Bartholomew,Pct. 3300,9,7,0,16
@@ -792,7 +792,7 @@ Ryan Lauer,State Representative,59,R,Bartholomew,Pct. 3300,121,139,0,260
 Dale Nowin,State Representative,59,D,Bartholomew,Pct. 3300,102,156,0,258
 Clyde D Myers,State Representative,59,L,Bartholomew,Pct. 3300,12,3,0,15
 ,Registered Voters,,,Bartholomew,Pct. 3350,,,,259
-,Ballots Cast,,,Bartholomew,Pct. 3350,,,,74
+,Ballots Cast,,,Bartholomew,Pct. 3350,74,70,0,144
 Mike Braun,U.S. Senate,,R,Bartholomew,Pct. 3350,48,35,0,83
 Joe Donnelly,U.S. Senate,,D,Bartholomew,Pct. 3350,20,33,0,53
 Lucy M Brenton,U.S. Senate,,L,Bartholomew,Pct. 3350,4,2,0,6
@@ -814,7 +814,7 @@ Ryan Lauer,State Representative,59,R,Bartholomew,Pct. 3350,52,35,0,87
 Dale Nowin,State Representative,59,D,Bartholomew,Pct. 3350,20,31,0,51
 Clyde D Myers,State Representative,59,L,Bartholomew,Pct. 3350,1,3,0,4
 ,Registered Voters,,,Bartholomew,Pct. 3400,,,,841
-,Ballots Cast,,,Bartholomew,Pct. 3400,,,,227
+,Ballots Cast,,,Bartholomew,Pct. 3400,227,206,0,433
 Mike Braun,U.S. Senate,,R,Bartholomew,Pct. 3400,148,125,0,285
 Joe Donnelly,U.S. Senate,,D,Bartholomew,Pct. 3400,67,71,0,138
 Lucy M Brenton,U.S. Senate,,L,Bartholomew,Pct. 3400,9,9,0,18
@@ -836,7 +836,7 @@ Ryan Lauer,State Representative,59,R,Bartholomew,Pct. 3400,151,121,0,272
 Dale Nowin,State Representative,59,D,Bartholomew,Pct. 3400,69,77,0,146
 Clyde D Myers,State Representative,59,L,Bartholomew,Pct. 3400,6,5,0,11
 ,Registered Voters,,,Bartholomew,Pct. 3500,,,,695
-,Ballots Cast,,,Bartholomew,Pct. 3500,,,,216
+,Ballots Cast,,,Bartholomew,Pct. 3500,216,135,0,351
 Mike Braun,U.S. Senate,,R,Bartholomew,Pct. 3500,134,92,0,226
 Joe Donnelly,U.S. Senate,,D,Bartholomew,Pct. 3500,68,36,0,104
 Lucy M Brenton,U.S. Senate,,L,Bartholomew,Pct. 3500,12,6,0,18
@@ -858,7 +858,7 @@ Ryan Lauer,State Representative,59,R,Bartholomew,Pct. 3500,,,,
 Dale Nowin,State Representative,59,D,Bartholomew,Pct. 3500,,,,
 Clyde D Myers,State Representative,59,L,Bartholomew,Pct. 3500,,,,
 ,Registered Voters,,,Bartholomew,Pct. 3550,,,,503
-,Ballots Cast,,,Bartholomew,Pct. 3550,,,,179
+,Ballots Cast,,,Bartholomew,Pct. 3550,179,136,0,315
 Mike Braun,U.S. Senate,,R,Bartholomew,Pct. 3550,87,80,0,167
 Joe Donnelly,U.S. Senate,,D,Bartholomew,Pct. 3550,72,51,0,123
 Lucy M Brenton,U.S. Senate,,L,Bartholomew,Pct. 3550,17,3,0,20
@@ -880,7 +880,7 @@ Ryan Lauer,State Representative,59,R,Bartholomew,Pct. 3550,,,,
 Dale Nowin,State Representative,59,D,Bartholomew,Pct. 3550,,,,
 Clyde D Myers,State Representative,59,L,Bartholomew,Pct. 3550,,,,
 ,Registered Voters,,,Bartholomew,Pct. 3600,,,,1047
-,Ballots Cast,,,Bartholomew,Pct. 3600,,,,284
+,Ballots Cast,,,Bartholomew,Pct. 3600,284,246,0,530
 Mike Braun,U.S. Senate,,R,Bartholomew,Pct. 3600,199,155,0,354
 Joe Donnelly,U.S. Senate,,D,Bartholomew,Pct. 3600,75,86,0,161
 Lucy M Brenton,U.S. Senate,,L,Bartholomew,Pct. 3600,6,2,0,8
@@ -902,7 +902,7 @@ Ryan Lauer,State Representative,59,R,Bartholomew,Pct. 3600,,,,
 Dale Nowin,State Representative,59,D,Bartholomew,Pct. 3600,,,,
 Clyde D Myers,State Representative,59,L,Bartholomew,Pct. 3600,,,,
 ,Registered Voters,,,Bartholomew,Pct. 3700,,,,717
-,Ballots Cast,,,Bartholomew,Pct. 3700,,,,266
+,Ballots Cast,,,Bartholomew,Pct. 3700,266,147,0,413
 Mike Braun,U.S. Senate,,R,Bartholomew,Pct. 3700,176,86,0,262
 Joe Donnelly,U.S. Senate,,D,Bartholomew,Pct. 3700,71,52,0,123
 Lucy M Brenton,U.S. Senate,,L,Bartholomew,Pct. 3700,16,8,0,24
@@ -924,7 +924,7 @@ Ryan Lauer,State Representative,59,R,Bartholomew,Pct. 3700,,,,
 Dale Nowin,State Representative,59,D,Bartholomew,Pct. 3700,,,,
 Clyde D Myers,State Representative,59,L,Bartholomew,Pct. 3700,,,,
 ,Registered Voters,,,Bartholomew,Pct. 3800,,,,1108
-,Ballots Cast,,,Bartholomew,Pct. 3800,,,,470
+,Ballots Cast,,,Bartholomew,Pct. 3800,470,172,0,642
 Mike Braun,U.S. Senate,,R,Bartholomew,Pct. 3800,328,101,0,429
 Joe Donnelly,U.S. Senate,,D,Bartholomew,Pct. 3800,117,58,0,175
 Lucy M Brenton,U.S. Senate,,L,Bartholomew,Pct. 3800,16,10,0,26
@@ -946,7 +946,7 @@ Ryan Lauer,State Representative,59,R,Bartholomew,Pct. 3800,,,,
 Dale Nowin,State Representative,59,D,Bartholomew,Pct. 3800,,,,
 Clyde D Myers,State Representative,59,L,Bartholomew,Pct. 3800,,,,
 ,Registered Voters,,,Bartholomew,Pct. 3900,,,,243
-,Ballots Cast,,,Bartholomew,Pct. 3900,,,,49
+,Ballots Cast,,,Bartholomew,Pct. 3900,49,12,0,61
 Mike Braun,U.S. Senate,,R,Bartholomew,Pct. 3900,38,8,0,46
 Joe Donnelly,U.S. Senate,,D,Bartholomew,Pct. 3900,9,2,0,11
 Lucy M Brenton,U.S. Senate,,L,Bartholomew,Pct. 3900,1,2,0,3
@@ -968,7 +968,7 @@ Ryan Lauer,State Representative,59,R,Bartholomew,Pct. 3900,38,8,0,46
 Dale Nowin,State Representative,59,D,Bartholomew,Pct. 3900,11,2,0,13
 Clyde D Myers,State Representative,59,L,Bartholomew,Pct. 3900,0,2,0,2
 ,Registered Voters,,,Bartholomew,Pct. 4000,,,,546
-,Ballots Cast,,,Bartholomew,Pct. 4000,,,,170
+,Ballots Cast,,,Bartholomew,Pct. 4000,170,77,0,247
 Mike Braun,U.S. Senate,,R,Bartholomew,Pct. 4000,107,49,0,156
 Joe Donnelly,U.S. Senate,,D,Bartholomew,Pct. 4000,57,26,0,83
 Lucy M Brenton,U.S. Senate,,L,Bartholomew,Pct. 4000,4,1,0,5
@@ -990,7 +990,7 @@ Ryan Lauer,State Representative,59,R,Bartholomew,Pct. 4000,115,49,0,164
 Dale Nowin,State Representative,59,D,Bartholomew,Pct. 4000,52,25,0,77
 Clyde D Myers,State Representative,59,L,Bartholomew,Pct. 4000,1,1,0,2
 ,Registered Voters,,,Bartholomew,Pct. 4100,,,,580
-,Ballots Cast,,,Bartholomew,Pct. 4100,,,,197
+,Ballots Cast,,,Bartholomew,Pct. 4100,197,118,0,315
 Mike Braun,U.S. Senate,,R,Bartholomew,Pct. 4100,131,88,0,219
 Joe Donnelly,U.S. Senate,,D,Bartholomew,Pct. 4100,58,27,0,83
 Lucy M Brenton,U.S. Senate,,L,Bartholomew,Pct. 4100,8,3,0,11
@@ -1012,7 +1012,7 @@ Ryan Lauer,State Representative,59,R,Bartholomew,Pct. 4100,137,87,0,224
 Dale Nowin,State Representative,59,D,Bartholomew,Pct. 4100,52,29,0,81
 Clyde D Myers,State Representative,59,L,Bartholomew,Pct. 4100,5,0,0,5
 ,Registered Voters,,,Bartholomew,Pct. 4200,,,,972
-,Ballots Cast,,,Bartholomew,Pct. 4200,,,,323
+,Ballots Cast,,,Bartholomew,Pct. 4200,323,157,0,480
 Mike Braun,U.S. Senate,,R,Bartholomew,Pct. 4200,203,83,0,286
 Joe Donnelly,U.S. Senate,,D,Bartholomew,Pct. 4200,95,61,0,156
 Lucy M Brenton,U.S. Senate,,L,Bartholomew,Pct. 4200,19,10,0,29
@@ -1034,7 +1034,7 @@ Ryan Lauer,State Representative,59,R,Bartholomew,Pct. 4200,206,87,0,293
 Dale Nowin,State Representative,59,D,Bartholomew,Pct. 4200,100,60,0,160
 Clyde D Myers,State Representative,59,L,Bartholomew,Pct. 4200,10,3,0,13
 ,Registered Voters,,,Bartholomew,Pct. 4300,,,,456
-,Ballots Cast,,,Bartholomew,Pct. 4300,,,,162
+,Ballots Cast,,,Bartholomew,Pct. 4300,162,80,0,242
 Mike Braun,U.S. Senate,,R,Bartholomew,Pct. 4300,101,55,0,156
 Joe Donnelly,U.S. Senate,,D,Bartholomew,Pct. 4300,43,22,0,65
 Lucy M Brenton,U.S. Senate,,L,Bartholomew,Pct. 4300,15,3,0,18
@@ -1056,7 +1056,7 @@ Ryan Lauer,State Representative,59,R,Bartholomew,Pct. 4300,108,56,0,164
 Dale Nowin,State Representative,59,D,Bartholomew,Pct. 4300,48,20,0,68
 Clyde D Myers,State Representative,59,L,Bartholomew,Pct. 4300,5,1,0,6
 ,Registered Voters,,,Bartholomew,Pct. 4350,,,,990
-,Ballots Cast,,,Bartholomew,Pct. 4350,,,,231
+,Ballots Cast,,,Bartholomew,Pct. 4350,231,94,0,325
 Mike Braun,U.S. Senate,,R,Bartholomew,Pct. 4350,134,54,0,188
 Joe Donnelly,U.S. Senate,,D,Bartholomew,Pct. 4350,81,37,0,118
 Lucy M Brenton,U.S. Senate,,L,Bartholomew,Pct. 4350,12,1,0,13
@@ -1078,7 +1078,7 @@ Ryan Lauer,State Representative,59,R,Bartholomew,Pct. 4350,144,57,0,201
 Dale Nowin,State Representative,59,D,Bartholomew,Pct. 4350,76,35,0,111
 Clyde D Myers,State Representative,59,L,Bartholomew,Pct. 4350,9,2,0,11
 ,Registered Voters,,,Bartholomew,Pct. 4400,,,,1049
-,Ballots Cast,,,Bartholomew,Pct. 4400,,,,322
+,Ballots Cast,,,Bartholomew,Pct. 4400,322,267,0,589
 Mike Braun,U.S. Senate,,R,Bartholomew,Pct. 4400,220,142,0,362
 Joe Donnelly,U.S. Senate,,D,Bartholomew,Pct. 4400,86,112,0,198
 Lucy M Brenton,U.S. Senate,,L,Bartholomew,Pct. 4400,14,10,0,24
@@ -1100,7 +1100,7 @@ Ryan Lauer,State Representative,59,R,Bartholomew,Pct. 4400,231,141,0,372
 Dale Nowin,State Representative,59,D,Bartholomew,Pct. 4400,81,113,0,194
 Clyde D Myers,State Representative,59,L,Bartholomew,Pct. 4400,5,12,0,17
 ,Registered Voters,,,Bartholomew,Pct. 4450,,,,716
-,Ballots Cast,,,Bartholomew,Pct. 4450,,,,171
+,Ballots Cast,,,Bartholomew,Pct. 4450,171,271,0,442
 Mike Braun,U.S. Senate,,R,Bartholomew,Pct. 4450,94,135,0,229
 Joe Donnelly,U.S. Senate,,D,Bartholomew,Pct. 4450,72,131,0,203
 Lucy M Brenton,U.S. Senate,,L,Bartholomew,Pct. 4450,4,3,0,7
@@ -1122,7 +1122,7 @@ Ryan Lauer,State Representative,59,R,Bartholomew,Pct. 4450,95,126,0,221
 Dale Nowin,State Representative,59,D,Bartholomew,Pct. 4450,71,144,0,215
 Clyde D Myers,State Representative,59,L,Bartholomew,Pct. 4450,1,1,0,2
 ,Registered Voters,,,Bartholomew,Pct. 4500,,,,1003
-,Ballots Cast,,,Bartholomew,Pct. 4500,,,,275
+,Ballots Cast,,,Bartholomew,Pct. 4500,275,353,0,628
 Mike Braun,U.S. Senate,,R,Bartholomew,Pct. 4500,182,210,0,392
 Joe Donnelly,U.S. Senate,,D,Bartholomew,Pct. 4500,78,129,0,207
 Lucy M Brenton,U.S. Senate,,L,Bartholomew,Pct. 4500,10,13,0,23
@@ -1144,7 +1144,7 @@ Ryan Lauer,State Representative,59,R,Bartholomew,Pct. 4500,184,204,0,388
 Dale Nowin,State Representative,59,D,Bartholomew,Pct. 4500,84,141,0,225
 Clyde D Myers,State Representative,59,L,Bartholomew,Pct. 4500,5,4,0,9
 ,Registered Voters,,,Bartholomew,Pct. 4550,,,,247
-,Ballots Cast,,,Bartholomew,Pct. 4550,,,,53
+,Ballots Cast,,,Bartholomew,Pct. 4550,53,139,0,192
 Mike Braun,U.S. Senate,,R,Bartholomew,Pct. 4550,31,76,0,107
 Joe Donnelly,U.S. Senate,,D,Bartholomew,Pct. 4550,19,61,0,80
 Lucy M Brenton,U.S. Senate,,L,Bartholomew,Pct. 4550,3,0,0,3
@@ -1166,7 +1166,7 @@ Ryan Lauer,State Representative,59,R,Bartholomew,Pct. 4550,31,71,0,102
 Dale Nowin,State Representative,59,D,Bartholomew,Pct. 4550,20,66,0,86
 Clyde D Myers,State Representative,59,L,Bartholomew,Pct. 4550,2,0,0,2
 ,Registered Voters,,,Bartholomew,Pct. 4600,,,,974
-,Ballots Cast,,,Bartholomew,Pct. 4600,,,,418
+,Ballots Cast,,,Bartholomew,Pct. 4600,418,173,0,591
 Mike Braun,U.S. Senate,,R,Bartholomew,Pct. 4600,297,98,0,395
 Joe Donnelly,U.S. Senate,,D,Bartholomew,Pct. 4600,99,71,0,170
 Lucy M Brenton,U.S. Senate,,L,Bartholomew,Pct. 4600,16,4,0,20
@@ -1188,7 +1188,7 @@ Ryan Lauer,State Representative,59,R,Bartholomew,Pct. 4600,,,,
 Dale Nowin,State Representative,59,D,Bartholomew,Pct. 4600,,,,
 Clyde D Myers,State Representative,59,L,Bartholomew,Pct. 4600,,,,
 ,Registered Voters,,,Bartholomew,Pct. 4700,,,,208
-,Ballots Cast,,,Bartholomew,Pct. 4700,,,,75
+,Ballots Cast,,,Bartholomew,Pct. 4700,75,28,0,103
 Mike Braun,U.S. Senate,,R,Bartholomew,Pct. 4700,43,19,0,62
 Joe Donnelly,U.S. Senate,,D,Bartholomew,Pct. 4700,25,8,0,33
 Lucy M Brenton,U.S. Senate,,L,Bartholomew,Pct. 4700,6,1,0,7
@@ -1210,7 +1210,7 @@ Ryan Lauer,State Representative,59,R,Bartholomew,Pct. 4700,,,,
 Dale Nowin,State Representative,59,D,Bartholomew,Pct. 4700,,,,
 Clyde D Myers,State Representative,59,L,Bartholomew,Pct. 4700,,,,
 ,Registered Voters,,,Bartholomew,Pct. 4800,,,,526
-,Ballots Cast,,,Bartholomew,Pct. 4800,,,,181
+,Ballots Cast,,,Bartholomew,Pct. 4800,181,59,0,240
 Mike Braun,U.S. Senate,,R,Bartholomew,Pct. 4800,99,28,0,127
 Joe Donnelly,U.S. Senate,,D,Bartholomew,Pct. 4800,55,25,0,80
 Lucy M Brenton,U.S. Senate,,L,Bartholomew,Pct. 4800,23,5,0,28
@@ -1232,7 +1232,7 @@ Ryan Lauer,State Representative,59,R,Bartholomew,Pct. 4800,,,,
 Dale Nowin,State Representative,59,D,Bartholomew,Pct. 4800,,,,
 Clyde D Myers,State Representative,59,L,Bartholomew,Pct. 4800,,,,
 ,Registered Voters,,,Bartholomew,Pct. 4900,,,,683
-,Ballots Cast,,,Bartholomew,Pct. 4900,,,,201
+,Ballots Cast,,,Bartholomew,Pct. 4900,201,72,0,273
 Mike Braun,U.S. Senate,,R,Bartholomew,Pct. 4900,132,39,0,171
 Joe Donnelly,U.S. Senate,,D,Bartholomew,Pct. 4900,49,29,0,78
 Lucy M Brenton,U.S. Senate,,L,Bartholomew,Pct. 4900,18,4,0,22
@@ -1254,7 +1254,7 @@ Ryan Lauer,State Representative,59,R,Bartholomew,Pct. 4900,,,,
 Dale Nowin,State Representative,59,D,Bartholomew,Pct. 4900,,,,
 Clyde D Myers,State Representative,59,L,Bartholomew,Pct. 4900,,,,
 ,Registered Voters,,,Bartholomew,Pct. 5000,,,,681
-,Ballots Cast,,,Bartholomew,Pct. 5000,,,,274
+,Ballots Cast,,,Bartholomew,Pct. 5000,274,118,0,392
 Mike Braun,U.S. Senate,,R,Bartholomew,Pct. 5000,199,79,0,278
 Joe Donnelly,U.S. Senate,,D,Bartholomew,Pct. 5000,59,34,0,93
 Lucy M Brenton,U.S. Senate,,L,Bartholomew,Pct. 5000,12,5,0,17
@@ -1276,7 +1276,7 @@ Ryan Lauer,State Representative,59,R,Bartholomew,Pct. 5000,197,80,0,277
 Dale Nowin,State Representative,59,D,Bartholomew,Pct. 5000,68,34,0,102
 Clyde D Myers,State Representative,59,L,Bartholomew,Pct. 5000,6,1,0,7
 ,Registered Voters,,,Bartholomew,Pct. 5100,,,,1375
-,Ballots Cast,,,Bartholomew,Pct. 5100,,,,485
+,Ballots Cast,,,Bartholomew,Pct. 5100,485,327,0,812
 Mike Braun,U.S. Senate,,R,Bartholomew,Pct. 5100,324,200,0,524
 Joe Donnelly,U.S. Senate,,D,Bartholomew,Pct. 5100,125,107,0,232
 Lucy M Brenton,U.S. Senate,,L,Bartholomew,Pct. 5100,29,14,0,43
@@ -1298,7 +1298,7 @@ Ryan Lauer,State Representative,59,R,Bartholomew,Pct. 5100,325,207,0,532
 Dale Nowin,State Representative,59,D,Bartholomew,Pct. 5100,136,116,0,252
 Clyde D Myers,State Representative,59,L,Bartholomew,Pct. 5100,15,3,0,18
 ,Registered Voters,,,Bartholomew,Pct. 5200,,,,1032
-,Ballots Cast,,,Bartholomew,Pct. 5200,,,,429
+,Ballots Cast,,,Bartholomew,Pct. 5200,429,182,0,611
 Mike Braun,U.S. Senate,,R,Bartholomew,Pct. 5200,276,105,0,381
 Joe Donnelly,U.S. Senate,,D,Bartholomew,Pct. 5200,138,70,0,208
 Lucy M Brenton,U.S. Senate,,L,Bartholomew,Pct. 5200,9,2,0,11
@@ -1320,7 +1320,7 @@ Ryan Lauer,State Representative,59,R,Bartholomew,Pct. 5200,,,,
 Dale Nowin,State Representative,59,D,Bartholomew,Pct. 5200,,,,
 Clyde D Myers,State Representative,59,L,Bartholomew,Pct. 5200,,,,
 ,Registered Voters,,,Bartholomew,Pct. 5300,,,,743
-,Ballots Cast,,,Bartholomew,Pct. 5300,,,,311
+,Ballots Cast,,,Bartholomew,Pct. 5300,311,124,0,435
 Mike Braun,U.S. Senate,,R,Bartholomew,Pct. 5300,217,71,0,288
 Joe Donnelly,U.S. Senate,,D,Bartholomew,Pct. 5300,69,45,0,114
 Lucy M Brenton,U.S. Senate,,L,Bartholomew,Pct. 5300,16,6,0,22
@@ -1342,7 +1342,7 @@ Ryan Lauer,State Representative,59,R,Bartholomew,Pct. 5300,229,75,0,304
 Dale Nowin,State Representative,59,D,Bartholomew,Pct. 5300,71,44,0,115
 Clyde D Myers,State Representative,59,L,Bartholomew,Pct. 5300,7,3,0,10
 ,Registered Voters,,,Bartholomew,Pct. 5400,,,,791
-,Ballots Cast,,,Bartholomew,Pct. 5400,,,,316
+,Ballots Cast,,,Bartholomew,Pct. 5400,316,133,0,449
 Mike Braun,U.S. Senate,,R,Bartholomew,Pct. 5400,216,73,0,289
 Joe Donnelly,U.S. Senate,,D,Bartholomew,Pct. 5400,81,51,0,132
 Lucy M Brenton,U.S. Senate,,L,Bartholomew,Pct. 5400,14,8,0,22
@@ -1364,7 +1364,7 @@ Ryan Lauer,State Representative,59,R,Bartholomew,Pct. 5400,,,,
 Dale Nowin,State Representative,59,D,Bartholomew,Pct. 5400,,,,
 Clyde D Myers,State Representative,59,L,Bartholomew,Pct. 5400,,,,
 ,Registered Voters,,,Bartholomew,Pct. 5500,,,,638
-,Ballots Cast,,,Bartholomew,Pct. 5500,,,,186
+,Ballots Cast,,,Bartholomew,Pct. 5500,186,80,0,266
 Mike Braun,U.S. Senate,,R,Bartholomew,Pct. 5500,126,55,0,181
 Joe Donnelly,U.S. Senate,,D,Bartholomew,Pct. 5500,45,19,0,64
 Lucy M Brenton,U.S. Senate,,L,Bartholomew,Pct. 5500,12,4,0,16
@@ -1386,7 +1386,7 @@ Ryan Lauer,State Representative,59,R,Bartholomew,Pct. 5500,133,58,0,191
 Dale Nowin,State Representative,59,D,Bartholomew,Pct. 5500,47,21,0,68
 Clyde D Myers,State Representative,59,L,Bartholomew,Pct. 5500,2,0,0,2
 ,Registered Voters,,,Bartholomew,Pct. 5600,,,,926
-,Ballots Cast,,,Bartholomew,Pct. 5600,,,,275
+,Ballots Cast,,,Bartholomew,Pct. 5600,275,148,0,423
 Mike Braun,U.S. Senate,,R,Bartholomew,Pct. 5600,206,98,0,304
 Joe Donnelly,U.S. Senate,,D,Bartholomew,Pct. 5600,60,42,0,102
 Lucy M Brenton,U.S. Senate,,L,Bartholomew,Pct. 5600,7,7,0,14
@@ -1408,7 +1408,7 @@ Ryan Lauer,State Representative,59,R,Bartholomew,Pct. 5600,205,105,0,310
 Dale Nowin,State Representative,59,D,Bartholomew,Pct. 5600,60,40,0,100
 Clyde D Myers,State Representative,59,L,Bartholomew,Pct. 5600,5,2,0,7
 ,Registered Voters,,,Bartholomew,Pct. 5700,,,,698
-,Ballots Cast,,,Bartholomew,Pct. 5700,,,,286
+,Ballots Cast,,,Bartholomew,Pct. 5700,286,96,0,382
 Mike Braun,U.S. Senate,,R,Bartholomew,Pct. 5700,214,64,0,278
 Joe Donnelly,U.S. Senate,,D,Bartholomew,Pct. 5700,60,30,0,90
 Lucy M Brenton,U.S. Senate,,L,Bartholomew,Pct. 5700,9,0,0,9
@@ -1430,7 +1430,7 @@ Ryan Lauer,State Representative,59,R,Bartholomew,Pct. 5700,218,64,0,282
 Dale Nowin,State Representative,59,D,Bartholomew,Pct. 5700,57,30,0,87
 Clyde D Myers,State Representative,59,L,Bartholomew,Pct. 5700,8,0,0,8
 ,Registered Voters,,,Bartholomew,Pct. 5800,,,,370
-,Ballots Cast,,,Bartholomew,Pct. 5800,,,,137
+,Ballots Cast,,,Bartholomew,Pct. 5800,137,41,0,178
 Mike Braun,U.S. Senate,,R,Bartholomew,Pct. 5800,91,21,0,112
 Joe Donnelly,U.S. Senate,,D,Bartholomew,Pct. 5800,34,17,0,51
 Lucy M Brenton,U.S. Senate,,L,Bartholomew,Pct. 5800,9,3,0,12

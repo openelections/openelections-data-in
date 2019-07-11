@@ -1,6 +1,6 @@
 candidate,office,district,party,county,precinct,election_day,absentee,provisional,votes
 ,Registered Voters,,,Clinton,Precinct 1,,,,243
-,Ballots Cast,,,Clinton,Precinct 1,,,,129
+,Ballots Cast,,,Clinton,Precinct 1,129,35,0,164
 Mike Braun,U.S. Senate,,R,Clinton,Precinct 1,74,20,0,94
 Joe Donnelly,U.S. Senate,,D,Clinton,Precinct 1,41,12,0,53
 Lucy M Brenton,U.S. Senate,,L,Clinton,Precinct 1,10,1,0,11
@@ -20,7 +20,7 @@ Write in,U.S. House,4,,Clinton,Precinct 1,0,0,0,0
 Heath R Vannatter,State Representative,38,R,Clinton,Precinct 1,83,24,0,107
 Thomas (Tom) Hedde,State Senate,38,D,Clinton,Precinct 1,36,10,0,46
 ,Registered Voters,,,Clinton,Precinct 2,,,,332
-,Ballots Cast,,,Clinton,Precinct 2,,,,61
+,Ballots Cast,,,Clinton,Precinct 2,61,34,0,95
 Mike Braun,U.S. Senate,,R,Clinton,Precinct 2,37,19,0,56
 Joe Donnelly,U.S. Senate,,D,Clinton,Precinct 2,19,9,0,28
 Lucy M Brenton,U.S. Senate,,L,Clinton,Precinct 2,5,5,0,10
@@ -40,7 +40,7 @@ Write in,U.S. House,4,,Clinton,Precinct 2,0,0,0,0
 Heath R Vannatter,State Representative,38,R,Clinton,Precinct 2,39,21,0,60
 Thomas (Tom) Hedde,State Senate,38,D,Clinton,Precinct 2,21,13,0,34
 ,Registered Voters,,,Clinton,Precinct 3,,,,284
-,Ballots Cast,,,Clinton,Precinct 3,,,,47
+,Ballots Cast,,,Clinton,Precinct 3,47,40,0,87
 Mike Braun,U.S. Senate,,R,Clinton,Precinct 3,34,25,0,59
 Joe Donnelly,U.S. Senate,,D,Clinton,Precinct 3,11,10,0,21
 Lucy M Brenton,U.S. Senate,,L,Clinton,Precinct 3,2,3,0,5
@@ -60,7 +60,7 @@ Write in,U.S. House,4,,Clinton,Precinct 3,0,0,0,0
 Heath R Vannatter,State Representative,38,R,Clinton,Precinct 3,35,24,0,59
 Thomas (Tom) Hedde,State Senate,38,D,Clinton,Precinct 3,11,12,0,23
 ,Registered Voters,,,Clinton,Precinct 4,,,,513
-,Ballots Cast,,,Clinton,Precinct 4,,,,117
+,Ballots Cast,,,Clinton,Precinct 4,117,67,0,184
 Mike Braun,U.S. Senate,,R,Clinton,Precinct 4,65,42,0,107
 Joe Donnelly,U.S. Senate,,D,Clinton,Precinct 4,43,20,0,63
 Lucy M Brenton,U.S. Senate,,L,Clinton,Precinct 4,6,3,0,9
@@ -80,7 +80,7 @@ Write in,U.S. House,4,,Clinton,Precinct 4,0,0,0,0
 Heath R Vannatter,State Representative,38,R,Clinton,Precinct 4,69,41,0,110
 Thomas (Tom) Hedde,State Senate,38,D,Clinton,Precinct 4,45,21,0,66
 ,Registered Voters,,,Clinton,Precinct 5,,,,325
-,Ballots Cast,,,Clinton,Precinct 5,,,,63
+,Ballots Cast,,,Clinton,Precinct 5,63,56,0,119
 Mike Braun,U.S. Senate,,R,Clinton,Precinct 5,35,35,0,70
 Joe Donnelly,U.S. Senate,,D,Clinton,Precinct 5,22,18,0,40
 Lucy M Brenton,U.S. Senate,,L,Clinton,Precinct 5,6,3,0,9
@@ -100,7 +100,7 @@ Write in,U.S. House,4,,Clinton,Precinct 5,0,0,0,0
 Heath R Vannatter,State Representative,38,R,Clinton,Precinct 5,37,35,0,72
 Thomas (Tom) Hedde,State Senate,38,D,Clinton,Precinct 5,24,20,0,44
 ,Registered Voters,,,Clinton,Precinct 6,,,,424
-,Ballots Cast,,,Clinton,Precinct 6,,,,72
+,Ballots Cast,,,Clinton,Precinct 6,72,53,0,125
 Mike Braun,U.S. Senate,,R,Clinton,Precinct 6,40,31,0,71
 Joe Donnelly,U.S. Senate,,D,Clinton,Precinct 6,28,18,0,46
 Lucy M Brenton,U.S. Senate,,L,Clinton,Precinct 6,3,3,0,6
@@ -120,7 +120,7 @@ Write in,U.S. House,4,,Clinton,Precinct 6,0,0,0,0
 Heath R Vannatter,State Representative,38,R,Clinton,Precinct 6,42,33,0,75
 Thomas (Tom) Hedde,State Senate,38,D,Clinton,Precinct 6,29,17,0,46
 ,Registered Voters,,,Clinton,Precinct 7,,,,336
-,Ballots Cast,,,Clinton,Precinct 7,,,,53
+,Ballots Cast,,,Clinton,Precinct 7,53,39,0,92
 Mike Braun,U.S. Senate,,R,Clinton,Precinct 7,24,22,0,46
 Joe Donnelly,U.S. Senate,,D,Clinton,Precinct 7,24,13,0,37
 Lucy M Brenton,U.S. Senate,,L,Clinton,Precinct 7,4,4,0,8
@@ -140,7 +140,7 @@ Write in,U.S. House,4,,Clinton,Precinct 7,0,0,0,0
 Heath R Vannatter,State Representative,38,R,Clinton,Precinct 7,29,26,0,55
 Thomas (Tom) Hedde,State Senate,38,D,Clinton,Precinct 7,23,12,0,35
 ,Registered Voters,,,Clinton,Precinct 8,,,,398
-,Ballots Cast,,,Clinton,Precinct 8,,,,91
+,Ballots Cast,,,Clinton,Precinct 8,91,76,0,167
 Mike Braun,U.S. Senate,,R,Clinton,Precinct 8,42,47,0,89
 Joe Donnelly,U.S. Senate,,D,Clinton,Precinct 8,38,22,0,60
 Lucy M Brenton,U.S. Senate,,L,Clinton,Precinct 8,11,2,0,13
@@ -160,7 +160,7 @@ Write in,U.S. House,4,,Clinton,Precinct 8,0,0,0,0
 Heath R Vannatter,State Representative,38,R,Clinton,Precinct 8,50,52,0,102
 Thomas (Tom) Hedde,State Senate,38,D,Clinton,Precinct 8,41,21,0,62
 ,Registered Voters,,,Clinton,Precinct 9,,,,430
-,Ballots Cast,,,Clinton,Precinct 9,,,,74
+,Ballots Cast,,,Clinton,Precinct 9,74,46,0,120
 Mike Braun,U.S. Senate,,R,Clinton,Precinct 9,31,22,0,53
 Joe Donnelly,U.S. Senate,,D,Clinton,Precinct 9,37,21,0,58
 Lucy M Brenton,U.S. Senate,,L,Clinton,Precinct 9,4,0,0,4
@@ -180,7 +180,7 @@ Write in,U.S. House,4,,Clinton,Precinct 9,0,1,0,1
 Heath R Vannatter,State Representative,38,R,Clinton,Precinct 9,36,24,0,60
 Thomas (Tom) Hedde,State Senate,38,D,Clinton,Precinct 9,34,19,0,53
 ,Registered Voters,,,Clinton,Precinct 10,,,,159
-,Ballots Cast,,,Clinton,Precinct 10,,,,26
+,Ballots Cast,,,Clinton,Precinct 10,26,21,0,47
 Mike Braun,U.S. Senate,,R,Clinton,Precinct 10,11,12,0,23
 Joe Donnelly,U.S. Senate,,D,Clinton,Precinct 10,10,6,0,16
 Lucy M Brenton,U.S. Senate,,L,Clinton,Precinct 10,4,1,0,5
@@ -200,7 +200,7 @@ Write in,U.S. House,4,,Clinton,Precinct 10,0,0,0,0
 Heath R Vannatter,State Representative,38,R,Clinton,Precinct 10,12,14,0,26
 Thomas (Tom) Hedde,State Senate,38,D,Clinton,Precinct 10,12,7,0,19
 ,Registered Voters,,,Clinton,Precinct 11,,,,298
-,Ballots Cast,,,Clinton,Precinct 11,,,,59
+,Ballots Cast,,,Clinton,Precinct 11,59,49,0,108
 Mike Braun,U.S. Senate,,R,Clinton,Precinct 11,34,28,0,62
 Joe Donnelly,U.S. Senate,,D,Clinton,Precinct 11,20,18,0,38
 Lucy M Brenton,U.S. Senate,,L,Clinton,Precinct 11,5,3,0,8
@@ -220,7 +220,7 @@ Write in,U.S. House,4,,Clinton,Precinct 11,0,0,0,0
 Heath R Vannatter,State Representative,38,R,Clinton,Precinct 11,34,31,0,65
 Thomas (Tom) Hedde,State Senate,38,D,Clinton,Precinct 11,24,18,0,42
 ,Registered Voters,,,Clinton,Precinct 12,,,,516
-,Ballots Cast,,,Clinton,Precinct 12,,,,131
+,Ballots Cast,,,Clinton,Precinct 12,131,123,0,254
 Mike Braun,U.S. Senate,,R,Clinton,Precinct 12,75,82,0,157
 Joe Donnelly,U.S. Senate,,D,Clinton,Precinct 12,47,33,0,80
 Lucy M Brenton,U.S. Senate,,L,Clinton,Precinct 12,6,7,0,13
@@ -240,7 +240,7 @@ Write in,U.S. House,4,,Clinton,Precinct 12,0,0,0,0
 Heath R Vannatter,State Representative,38,R,Clinton,Precinct 12,83,92,0,175
 Thomas (Tom) Hedde,State Senate,38,D,Clinton,Precinct 12,45,27,0,72
 ,Registered Voters,,,Clinton,Precinct 13,,,,393
-,Ballots Cast,,,Clinton,Precinct 13,,,,85
+,Ballots Cast,,,Clinton,Precinct 13,85,122,0,207
 Mike Braun,U.S. Senate,,R,Clinton,Precinct 13,39,78,0,117
 Joe Donnelly,U.S. Senate,,D,Clinton,Precinct 13,37,31,0,68
 Lucy M Brenton,U.S. Senate,,L,Clinton,Precinct 13,6,8,0,14
@@ -260,7 +260,7 @@ Write in,U.S. House,4,,Clinton,Precinct 13,0,0,0,0
 Heath R Vannatter,State Representative,38,R,Clinton,Precinct 13,54,86,0,140
 Thomas (Tom) Hedde,State Senate,38,D,Clinton,Precinct 13,30,34,0,64
 ,Registered Voters,,,Clinton,Precinct 14,,,,531
-,Ballots Cast,,,Clinton,Precinct 14,,,,134
+,Ballots Cast,,,Clinton,Precinct 14,134,181,0,315
 Mike Braun,U.S. Senate,,R,Clinton,Precinct 14,75,120,0,195
 Joe Donnelly,U.S. Senate,,D,Clinton,Precinct 14,48,47,0,95
 Lucy M Brenton,U.S. Senate,,L,Clinton,Precinct 14,11,7,0,18
@@ -280,7 +280,7 @@ Write in,U.S. House,4,,Clinton,Precinct 14,0,0,0,0
 Heath R Vannatter,State Representative,38,R,Clinton,Precinct 14,91,131,0,222
 Thomas (Tom) Hedde,State Senate,38,D,Clinton,Precinct 14,43,45,0,88
 ,Registered Voters,,,Clinton,Precinct 15,,,,522
-,Ballots Cast,,,Clinton,Precinct 15,,,,148
+,Ballots Cast,,,Clinton,Precinct 15,148,127,0,275
 Mike Braun,U.S. Senate,,R,Clinton,Precinct 15,98,72,0,170
 Joe Donnelly,U.S. Senate,,D,Clinton,Precinct 15,39,47,0,86
 Lucy M Brenton,U.S. Senate,,L,Clinton,Precinct 15,10,7,0,17
@@ -300,7 +300,7 @@ Write in,U.S. House,4,,Clinton,Precinct 15,0,0,0,0
 Heath R Vannatter,State Representative,38,R,Clinton,Precinct 15,102,79,0,181
 Thomas (Tom) Hedde,State Senate,38,D,Clinton,Precinct 15,41,46,0,87
 ,Registered Voters,,,Clinton,Precinct 16,,,,351
-,Ballots Cast,,,Clinton,Precinct 16,,,,97
+,Ballots Cast,,,Clinton,Precinct 16,97,93,0,190
 Mike Braun,U.S. Senate,,R,Clinton,Precinct 16,69,50,0,119
 Joe Donnelly,U.S. Senate,,D,Clinton,Precinct 16,21,40,0,61
 Lucy M Brenton,U.S. Senate,,L,Clinton,Precinct 16,5,2,0,7
@@ -320,7 +320,7 @@ Write in,U.S. House,4,,Clinton,Precinct 16,0,0,0,0
 Heath R Vannatter,State Representative,38,R,Clinton,Precinct 16,68,53,0,121
 Thomas (Tom) Hedde,State Senate,38,D,Clinton,Precinct 16,24,37,0,61
 ,Registered Voters,,,Clinton,Precinct 17,,,,451
-,Ballots Cast,,,Clinton,Precinct 17,,,,124
+,Ballots Cast,,,Clinton,Precinct 17,124,63,0,187
 Mike Braun,U.S. Senate,,R,Clinton,Precinct 17,66,37,0,103
 Joe Donnelly,U.S. Senate,,D,Clinton,Precinct 17,49,21,0,70
 Lucy M Brenton,U.S. Senate,,L,Clinton,Precinct 17,9,2,0,11
@@ -340,7 +340,7 @@ Write in,U.S. House,4,,Clinton,Precinct 17,0,0,0,0
 Heath R Vannatter,State Representative,38,R,Clinton,Precinct 17,73,41,0,114
 Thomas (Tom) Hedde,State Senate,38,D,Clinton,Precinct 17,50,16,0,66
 ,Registered Voters,,,Clinton,Precinct 18,,,,615
-,Ballots Cast,,,Clinton,Precinct 18,,,,139
+,Ballots Cast,,,Clinton,Precinct 18,139,119,0,258
 Mike Braun,U.S. Senate,,R,Clinton,Precinct 18,82,71,0,153
 Joe Donnelly,U.S. Senate,,D,Clinton,Precinct 18,49,42,0,91
 Lucy M Brenton,U.S. Senate,,L,Clinton,Precinct 18,6,5,0,11
@@ -360,7 +360,7 @@ Write in,U.S. House,4,,Clinton,Precinct 18,0,0,0,0
 Heath R Vannatter,State Representative,38,R,Clinton,Precinct 18,90,80,0,170
 Thomas (Tom) Hedde,State Senate,38,D,Clinton,Precinct 18,46,39,0,85
 ,Registered Voters,,,Clinton,Precinct 19,,,,697
-,Ballots Cast,,,Clinton,Precinct 19,,,,170
+,Ballots Cast,,,Clinton,Precinct 19,170,110,0,280
 Mike Braun,U.S. Senate,,R,Clinton,Precinct 19,95,66,0,161
 Joe Donnelly,U.S. Senate,,D,Clinton,Precinct 19,57,35,0,92
 Lucy M Brenton,U.S. Senate,,L,Clinton,Precinct 19,15,4,0,19
@@ -380,7 +380,7 @@ Write in,U.S. House,4,,Clinton,Precinct 19,0,0,0,0
 Heath R Vannatter,State Representative,38,R,Clinton,Precinct 19,103,73,0,176
 Thomas (Tom) Hedde,State Senate,38,D,Clinton,Precinct 19,61,31,0,92
 ,Registered Voters,,,Clinton,Precinct 20,,,,662
-,Ballots Cast,,,Clinton,Precinct 20,,,,161
+,Ballots Cast,,,Clinton,Precinct 20,161,216,0,377
 Mike Braun,U.S. Senate,,R,Clinton,Precinct 20,104,164,0,268
 Joe Donnelly,U.S. Senate,,D,Clinton,Precinct 20,49,41,0,90
 Lucy M Brenton,U.S. Senate,,L,Clinton,Precinct 20,7,8,0,15
@@ -400,7 +400,7 @@ Write in,U.S. House,4,,Clinton,Precinct 20,0,0,0,0
 Heath R Vannatter,State Representative,38,R,Clinton,Precinct 20,123,176,0,299
 Thomas (Tom) Hedde,State Senate,38,D,Clinton,Precinct 20,38,39,0,77
 ,Registered Voters,,,Clinton,Precinct 21,,,,510
-,Ballots Cast,,,Clinton,Precinct 21,,,,152
+,Ballots Cast,,,Clinton,Precinct 21,152,119,0,271
 Mike Braun,U.S. Senate,,R,Clinton,Precinct 21,107,70,0,177
 Joe Donnelly,U.S. Senate,,D,Clinton,Precinct 21,40,38,0,78
 Lucy M Brenton,U.S. Senate,,L,Clinton,Precinct 21,5,4,0,9
@@ -422,7 +422,7 @@ Christina Fivecoate,State Senate,21,D,Clinton,Precinct 21,40,33,0,73
 Heath R Vannatter,State Representative,38,R,Clinton,Precinct 21,114,84,0,198
 Thomas (Tom) Hedde,State Senate,38,D,Clinton,Precinct 21,37,30,0,67
 ,Registered Voters,,,Clinton,Precinct 22,,,,351
-,Ballots Cast,,,Clinton,Precinct 22,,,,105
+,Ballots Cast,,,Clinton,Precinct 22,105,93,0,198
 Mike Braun,U.S. Senate,,R,Clinton,Precinct 22,82,69,0,151
 Joe Donnelly,U.S. Senate,,D,Clinton,Precinct 22,19,16,0,35
 Lucy M Brenton,U.S. Senate,,L,Clinton,Precinct 22,4,5,0,9
@@ -442,7 +442,7 @@ Write in,U.S. House,4,,Clinton,Precinct 22,0,0,0,0
 Heath R Vannatter,State Representative,38,R,Clinton,Precinct 22,81,79,0,160
 Thomas (Tom) Hedde,State Senate,38,D,Clinton,Precinct 22,20,12,0,32
 ,Registered Voters,,,Clinton,Precinct 23,,,,436
-,Ballots Cast,,,Clinton,Precinct 23,,,,130
+,Ballots Cast,,,Clinton,Precinct 23,130,117,0,247
 Mike Braun,U.S. Senate,,R,Clinton,Precinct 23,95,83,0,178
 Joe Donnelly,U.S. Senate,,D,Clinton,Precinct 23,29,28,0,57
 Lucy M Brenton,U.S. Senate,,L,Clinton,Precinct 23,6,4,0,10
@@ -462,7 +462,7 @@ Write in,U.S. House,4,,Clinton,Precinct 23,0,0,0,0
 Heath R Vannatter,State Representative,38,R,Clinton,Precinct 23,96,90,0,186
 Thomas (Tom) Hedde,State Senate,38,D,Clinton,Precinct 23,31,21,0,52
 ,Registered Voters,,,Clinton,Precinct 24,,,,307
-,Ballots Cast,,,Clinton,Precinct 24,,,,81
+,Ballots Cast,,,Clinton,Precinct 24,81,56,0,137
 Mike Braun,U.S. Senate,,R,Clinton,Precinct 24,46,33,0,79
 Joe Donnelly,U.S. Senate,,D,Clinton,Precinct 24,32,20,0,52
 Lucy M Brenton,U.S. Senate,,L,Clinton,Precinct 24,2,3,0,5
@@ -484,7 +484,7 @@ Christina Fivecoate,State Senate,21,,Clinton,Precinct 24,27,18,0,45
 Heath R Vannatter,State Representative,38,R,Clinton,Precinct 24,51,36,0,87
 Thomas (Tom) Hedde,State Senate,38,D,Clinton,Precinct 24,27,17,0,44
 ,Registered Voters,,,Clinton,Precinct 25,,,,440
-,Ballots Cast,,,Clinton,Precinct 25,,,,175
+,Ballots Cast,,,Clinton,Precinct 25,175,65,0,240
 Mike Braun,U.S. Senate,,R,Clinton,Precinct 25,122,29,0,151
 Joe Donnelly,U.S. Senate,,D,Clinton,Precinct 25,40,34,0,74
 Lucy M Brenton,U.S. Senate,,L,Clinton,Precinct 25,11,2,0,13
@@ -504,7 +504,7 @@ Write in,U.S. House,4,,Clinton,Precinct 25,0,0,0,0
 Heath R Vannatter,State Representative,38,R,Clinton,Precinct 25,128,34,0,162
 Thomas (Tom) Hedde,State Senate,38,D,Clinton,Precinct 25,44,30,0,74
 ,Registered Voters,,,Clinton,Precinct 26,,,,412
-,Ballots Cast,,,Clinton,Precinct 26,,,,173
+,Ballots Cast,,,Clinton,Precinct 26,173,69,0,242
 Mike Braun,U.S. Senate,,R,Clinton,Precinct 26,123,40,0,163
 Joe Donnelly,U.S. Senate,,D,Clinton,Precinct 26,36,26,0,62
 Lucy M Brenton,U.S. Senate,,L,Clinton,Precinct 26,9,2,0,11
@@ -524,7 +524,7 @@ Write in,U.S. House,4,,Clinton,Precinct 26,0,0,0,0
 Heath R Vannatter,State Representative,38,R,Clinton,Precinct 26,137,51,0,188
 Thomas (Tom) Hedde,State Senate,38,D,Clinton,Precinct 26,34,17,0,51
 ,Registered Voters,,,Clinton,Precinct 27,,,,767
-,Ballots Cast,,,Clinton,Precinct 27,,,,259
+,Ballots Cast,,,Clinton,Precinct 27,259,127,0,386
 Mike Braun,U.S. Senate,,R,Clinton,Precinct 27,148,57,0,205
 Joe Donnelly,U.S. Senate,,D,Clinton,Precinct 27,87,62,0,149
 Lucy M Brenton,U.S. Senate,,L,Clinton,Precinct 27,20,6,0,26
@@ -544,7 +544,7 @@ Write in,U.S. House,4,,Clinton,Precinct 27,0,0,0,0
 Donald J Lehe,State Representative,25,R,Clinton,Precinct 27,170,73,0,243
 Maurice Oakel Fuller,State Senate,25,D,Clinton,Precinct 27,80,52,0,132
 ,Registered Voters,,,Clinton,Precinct 28,,,,613
-,Ballots Cast,,,Clinton,Precinct 28,,,,257
+,Ballots Cast,,,Clinton,Precinct 28,257,136,0,393
 Mike Braun,U.S. Senate,,R,Clinton,Precinct 28,171,80,0,251
 Joe Donnelly,U.S. Senate,,D,Clinton,Precinct 28,70,52,0,122
 Lucy M Brenton,U.S. Senate,,L,Clinton,Precinct 28,16,3,0,19
@@ -564,7 +564,7 @@ Write in,U.S. House,4,,Clinton,Precinct 28,0,0,0,0
 Donald J Lehe,State Representative,25,R,Clinton,Precinct 28,198,92,0,290
 Maurice Oakel Fuller,State Senate,25,D,Clinton,Precinct 28,54,39,0,93
 ,Registered Voters,,,Clinton,Precinct 29,,,,253
-,Ballots Cast,,,Clinton,Precinct 29,,,,57
+,Ballots Cast,,,Clinton,Precinct 29,57,61,0,118
 Mike Braun,U.S. Senate,,R,Clinton,Precinct 29,35,43,0,78
 Joe Donnelly,U.S. Senate,,D,Clinton,Precinct 29,18,16,0,34
 Lucy M Brenton,U.S. Senate,,L,Clinton,Precinct 29,4,2,0,6
@@ -584,7 +584,7 @@ Write in,U.S. House,4,,Clinton,Precinct 29,0,0,0,0
 Heath R Vannatter,State Representative,38,R,Clinton,Precinct 29,39,46,0,85
 Thomas (Tom) Hedde,State Senate,38,D,Clinton,Precinct 29,17,14,0,31
 ,Registered Voters,,,Clinton,Precinct 30,,,,820
-,Ballots Cast,,,Clinton,Precinct 30,,,,248
+,Ballots Cast,,,Clinton,Precinct 30,248,218,0,466
 Mike Braun,U.S. Senate,,R,Clinton,Precinct 30,183,145,0,328
 Joe Donnelly,U.S. Senate,,D,Clinton,Precinct 30,51,61,0,112
 Lucy M Brenton,U.S. Senate,,L,Clinton,Precinct 30,14,9,0,23
@@ -604,7 +604,7 @@ Write in,U.S. House,4,,Clinton,Precinct 30,0,0,0,0
 Heath R Vannatter,State Representative,38,R,Clinton,Precinct 30,194,162,0,356
 Thomas (Tom) Hedde,State Senate,38,D,Clinton,Precinct 30,48,50,0,98
 ,Registered Voters,,,Clinton,Precinct 31,,,,626
-,Ballots Cast,,,Clinton,Precinct 31,,,,200
+,Ballots Cast,,,Clinton,Precinct 31,200,122,0,322
 Mike Braun,U.S. Senate,,R,Clinton,Precinct 31,154,70,0,224
 Joe Donnelly,U.S. Senate,,D,Clinton,Precinct 31,39,41,0,80
 Lucy M Brenton,U.S. Senate,,L,Clinton,Precinct 31,7,8,0,15
@@ -624,7 +624,7 @@ Write in,U.S. House,4,,Clinton,Precinct 31,0,0,0,0
 Heath R Vannatter,State Representative,38,R,Clinton,Precinct 31,156,73,0,229
 Thomas (Tom) Hedde,State Senate,38,D,Clinton,Precinct 31,44,46,0,90
 ,Registered Voters,,,Clinton,Precinct 32,,,,421
-,Ballots Cast,,,Clinton,Precinct 32,,,,180
+,Ballots Cast,,,Clinton,Precinct 32,180,17,0,197
 Mike Braun,U.S. Senate,,R,Clinton,Precinct 32,111,9,0,120
 Joe Donnelly,U.S. Senate,,D,Clinton,Precinct 32,54,7,0,61
 Lucy M Brenton,U.S. Senate,,L,Clinton,Precinct 32,10,1,0,11
@@ -644,7 +644,7 @@ Write in,U.S. House,4,,Clinton,Precinct 32,0,0,0,0
 Heath R Vannatter,State Representative,38,R,Clinton,Precinct 32,116,9,0,125
 Thomas (Tom) Hedde,State Senate,38,D,Clinton,Precinct 32,55,8,0,63
 ,Registered Voters,,,Clinton,Precinct 33,,,,516
-,Ballots Cast,,,Clinton,Precinct 33,,,,230
+,Ballots Cast,,,Clinton,Precinct 33,230,70,0,300
 Mike Braun,U.S. Senate,,R,Clinton,Precinct 33,173,55,0,228
 Joe Donnelly,U.S. Senate,,D,Clinton,Precinct 33,41,10,0,51
 Lucy M Brenton,U.S. Senate,,L,Clinton,Precinct 33,15,3,0,18
@@ -664,7 +664,7 @@ Write in,U.S. House,4,,Clinton,Precinct 33,0,0,0,0
 Heath R Vannatter,State Representative,38,R,Clinton,Precinct 33,185,59,0,244
 Thomas (Tom) Hedde,State Senate,38,D,Clinton,Precinct 33,40,9,0,49
 ,Registered Voters,,,Clinton,Precinct 34,,,,994
-,Ballots Cast,,,Clinton,Precinct 34,,,,380
+,Ballots Cast,,,Clinton,Precinct 34,380,140,0,520
 Mike Braun,U.S. Senate,,R,Clinton,Precinct 34,249,77,0,326
 Joe Donnelly,U.S. Senate,,D,Clinton,Precinct 34,97,55,0,152
 Lucy M Brenton,U.S. Senate,,L,Clinton,Precinct 34,25,6,0,31
@@ -684,7 +684,7 @@ Write in,U.S. House,4,,Clinton,Precinct 34,0,0,0,0
 Donald J Lehe,State Representative,25,R,Clinton,Precinct 34,278,89,0,367
 Maurice Oakel Fuller,State Senate,25,D,Clinton,Precinct 34,86,46,0,132
 ,Registered Voters,,,Clinton,Precinct 35,,,,767
-,Ballots Cast,,,Clinton,Precinct 35,,,,321
+,Ballots Cast,,,Clinton,Precinct 35,321,132,0,453
 Mike Braun,U.S. Senate,,R,Clinton,Precinct 35,240,97,0,337
 Joe Donnelly,U.S. Senate,,D,Clinton,Precinct 35,65,32,0,97
 Lucy M Brenton,U.S. Senate,,L,Clinton,Precinct 35,10,3,0,13
@@ -704,7 +704,7 @@ Write in,U.S. House,4,,Clinton,Precinct 35,0,0,0,0
 Donald J Lehe,State Representative,25,R,Clinton,Precinct 35,260,106,0,366
 Maurice Oakel Fuller,State Senate,25,D,Clinton,Precinct 35,53,25,0,78
 ,Registered Voters,,,Clinton,Precinct 36,,,,322
-,Ballots Cast,,,Clinton,Precinct 36,,,,122
+,Ballots Cast,,,Clinton,Precinct 36,122,72,0,194
 Mike Braun,U.S. Senate,,R,Clinton,Precinct 36,94,41,0,135
 Joe Donnelly,U.S. Senate,,D,Clinton,Precinct 36,21,26,0,47
 Lucy M Brenton,U.S. Senate,,L,Clinton,Precinct 36,6,3,0,9
@@ -726,7 +726,7 @@ Christina Fivecoate,State Senate,21,D,Clinton,Precinct 36,22,26,0,48
 Heath R Vannatter,State Representative,38,R,Clinton,Precinct 36,101,43,0,144
 Thomas (Tom) Hedde,State Senate,38,D,Clinton,Precinct 36,20,25,0,45
 ,Registered Voters,,,Clinton,Precinct 37,,,,721
-,Ballots Cast,,,Clinton,Precinct 37,,,,189
+,Ballots Cast,,,Clinton,Precinct 37,189,218,0,407
 Mike Braun,U.S. Senate,,R,Clinton,Precinct 37,125,123,0,248
 Joe Donnelly,U.S. Senate,,D,Clinton,Precinct 37,49,79,0,128
 Lucy M Brenton,U.S. Senate,,L,Clinton,Precinct 37,11,10,0,21
@@ -746,7 +746,7 @@ Write in,U.S. House,4,,Clinton,Precinct 37,0,0,0,0
 Heath R Vannatter,State Representative,38,R,Clinton,Precinct 37,134,141,0,275
 Thomas (Tom) Hedde,State Senate,38,D,Clinton,Precinct 37,51,67,0,118
 ,Registered Voters,,,Clinton,Precinct 38,,,,419
-,Ballots Cast,,,Clinton,Precinct 38,,,,150
+,Ballots Cast,,,Clinton,Precinct 38,150,83,0,233
 Mike Braun,U.S. Senate,,R,Clinton,Precinct 38,106,59,0,165
 Joe Donnelly,U.S. Senate,,D,Clinton,Precinct 38,38,19,0,57
 Lucy M Brenton,U.S. Senate,,L,Clinton,Precinct 38,5,3,0,8
@@ -766,7 +766,7 @@ Write in,U.S. House,4,,Clinton,Precinct 38,0,0,0,0
 Heath R Vannatter,State Representative,38,R,Clinton,Precinct 38,116,57,0,173
 Thomas (Tom) Hedde,State Senate,38,D,Clinton,Precinct 38,28,24,0,52
 ,Registered Voters,,,Clinton,Precinct 39,,,,729
-,Ballots Cast,,,Clinton,Precinct 39,,,,181
+,Ballots Cast,,,Clinton,Precinct 39,181,203,0,384
 Mike Braun,U.S. Senate,,R,Clinton,Precinct 39,121,129,0,250
 Joe Donnelly,U.S. Senate,,D,Clinton,Precinct 39,48,66,0,114
 Lucy M Brenton,U.S. Senate,,L,Clinton,Precinct 39,10,5,0,15
@@ -785,63 +785,3 @@ Tobi Beck,U.S. House,4,D,Clinton,Precinct 39,38,60,0,98
 Write in,U.S. House,4,,Clinton,Precinct 39,0,0,0,0
 Donald J Lehe,State Representative,25,R,Clinton,Precinct 39,141,138,0,279
 Maurice Oakel Fuller,State Senate,25,D,Clinton,Precinct 39,33,58,0,91
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,

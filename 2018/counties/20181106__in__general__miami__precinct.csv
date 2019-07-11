@@ -1,6 +1,6 @@
 candidate,office,district,party,county,precinct,election_day,absentee,provisional,votes
 ,Registered Voters,,,Miami,01-Allen,,,,409
-,Ballots Cast,,,Miami,01-Allen,,,,209
+,Ballots Cast,,,Miami,01-Allen,209,33,0,242
 Mike Braun,U.S. Senate,,R,Miami,01-Allen,125,23,0,148
 Joe Donnelly,U.S. Senate,,D,Miami,01-Allen,69,8,0,77
 Lucy M Brenton,U.S. Senate,,L,Miami,01-Allen,12,2,0,14
@@ -21,7 +21,7 @@ Ethan Manning,State Representative,23,R,Miami,01-Allen,128,21,0,149
 Terry Doran,State Representative,23,D,Miami,01-Allen,62,9,0,71
 Adam Werner,State Representative,23,L,Miami,01-Allen,12,2,0,14
 ,Registered Voters,,,Miami,02-Butler,,,,544
-,Ballots Cast,,,Miami,02-Butler,,,,153
+,Ballots Cast,,,Miami,02-Butler,153,182,0,335
 Mike Braun,U.S. Senate,,R,Miami,02-Butler,112,135,0,247
 Joe Donnelly,U.S. Senate,,D,Miami,02-Butler,28,39,0,67
 Lucy M Brenton,U.S. Senate,,L,Miami,02-Butler,10,8,0,18
@@ -42,7 +42,7 @@ Ethan Manning,State Representative,23,R,Miami,02-Butler,120,132,0,252
 Terry Doran,State Representative,23,D,Miami,02-Butler,21,43,0,64
 Adam Werner,State Representative,23,L,Miami,02-Butler,6,3,0,9
 ,Registered Voters,,,Miami,03-Clay,,,,604
-,Ballots Cast,,,Miami,03-Clay,,,,142
+,Ballots Cast,,,Miami,03-Clay,142,206,0,348
 Mike Braun,U.S. Senate,,R,Miami,03-Clay,108,161,0,269
 Joe Donnelly,U.S. Senate,,D,Miami,03-Clay,25,38,0,63
 Lucy M Brenton,U.S. Senate,,L,Miami,03-Clay,9,4,0,13
@@ -63,7 +63,7 @@ Ethan Manning,State Representative,23,R,Miami,03-Clay,119,168,0,287
 Terry Doran,State Representative,23,D,Miami,03-Clay,21,33,0,54
 Adam Werner,State Representative,23,L,Miami,03-Clay,2,1,0,3
 ,Registered Voters,,,Miami,04-Deer Creek,,,,1038
-,Ballots Cast,,,Miami,04-Deer Creek,,,,255
+,Ballots Cast,,,Miami,04-Deer Creek,255,252,0,507
 Mike Braun,U.S. Senate,,R,Miami,04-Deer Creek,168,180,0,348
 Joe Donnelly,U.S. Senate,,D,Miami,04-Deer Creek,76,59,0,135
 Lucy M Brenton,U.S. Senate,,L,Miami,04-Deer Creek,7,10,0,17
@@ -84,7 +84,7 @@ Ethan Manning,State Representative,23,R,Miami,04-Deer Creek,181,194,0,375
 Terry Doran,State Representative,23,D,Miami,04-Deer Creek,66,48,0,114
 Adam Werner,State Representative,23,L,Miami,04-Deer Creek,3,8,0,11
 ,Registered Voters,,,Miami,05-Erie,,,,382
-,Ballots Cast,,,Miami,05-Erie,,,,98
+,Ballots Cast,,,Miami,05-Erie,98,119,0,217
 Mike Braun,U.S. Senate,,R,Miami,05-Erie,66,90,0,156
 Joe Donnelly,U.S. Senate,,D,Miami,05-Erie,20,23,0,43
 Lucy M Brenton,U.S. Senate,,L,Miami,05-Erie,11,6,0,17
@@ -105,7 +105,7 @@ Ethan Manning,State Representative,23,R,Miami,05-Erie,74,93,0,167
 Terry Doran,State Representative,23,D,Miami,05-Erie,16,20,0,36
 Adam Werner,State Representative,23,L,Miami,05-Erie,8,4,0,12
 ,Registered Voters,,,Miami,06-Harrison,,,,4103
-,Ballots Cast,,,Miami,06-Harrison,,,,124
+,Ballots Cast,,,Miami,06-Harrison,124,145,0,269
 Mike Braun,U.S. Senate,,R,Miami,06-Harrison,105,109,0,214
 Joe Donnelly,U.S. Senate,,D,Miami,06-Harrison,12,29,0,41
 Lucy M Brenton,U.S. Senate,,L,Miami,06-Harrison,7,7,0,14
@@ -126,7 +126,7 @@ Ethan Manning,State Representative,23,R,Miami,06-Harrison,108,106,0,214
 Terry Doran,State Representative,23,D,Miami,06-Harrison,12,30,0,42
 Adam Werner,State Representative,23,L,Miami,06-Harrison,1,4,0,5
 ,Registered Voters,,,Miami,07-Jackson,,,,1175
-,Ballots Cast,,,Miami,07-Jackson,,,,427
+,Ballots Cast,,,Miami,07-Jackson,427,216,0,643
 Mike Braun,U.S. Senate,,R,Miami,07-Jackson,297,152,0,449
 Joe Donnelly,U.S. Senate,,D,Miami,07-Jackson,104,56,0,160
 Lucy M Brenton,U.S. Senate,,L,Miami,07-Jackson,20,8,0,28
@@ -146,7 +146,7 @@ Write in,U.S. House,2,,Miami,07-Jackson,0,0,0,0
 David A Wolkins ,State Representative,18,R,Miami,07-Jackson,311,163,0,474
 Dee M Moore,State Representative,18,D,Miami,07-Jackson,104,51,0,155
 ,Registered Voters,,,Miami,08-Jefferson,,,,1602
-,Ballots Cast,,,Miami,08-Jefferson,,,,387
+,Ballots Cast,,,Miami,08-Jefferson,387,506,0,893
 Mike Braun,U.S. Senate,,R,Miami,08-Jefferson,267,344,0,611
 Joe Donnelly,U.S. Senate,,D,Miami,08-Jefferson,89,125,0,214
 Lucy M Brenton,U.S. Senate,,L,Miami,08-Jefferson,26,30,0,56
@@ -167,7 +167,7 @@ Ethan Manning,State Representative,23,R,Miami,08-Jefferson,290,358,0,648
 Terry Doran,State Representative,23,D,Miami,08-Jefferson,68,113,0,181
 Adam Werner,State Representative,23,L,Miami,08-Jefferson,24,24,0,48
 ,Registered Voters,,,Miami,09-Perry,,,,499
-,Ballots Cast,,,Miami,09-Perry,,,,186
+,Ballots Cast,,,Miami,09-Perry,186,119,0,305
 Mike Braun,U.S. Senate,,R,Miami,09-Perry,144,97,0,241
 Joe Donnelly,U.S. Senate,,D,Miami,09-Perry,32,17,0,49
 Lucy M Brenton,U.S. Senate,,L,Miami,09-Perry,7,5,0,12
@@ -182,13 +182,13 @@ John Schick,Auditor of State,,L,Miami,09-Perry,1,2,0,3
 Kelly Mitchell,Treasurer of State,,R,Miami,09-Perry,153,99,0,252
 John C. Aguilera,Treasurer of State,,D,Miami,09-Perry,27,15,0,42
 Jackie Walorski,U.S. House,2,R,Miami,09-Perry,143,101,0,244
-Mel Hall,U.S. House,2,D,Miami,09-Perry,36,17,0,55
+Mel Hall,U.S. House,2,D,Miami,09-Perry,38,17,0,55
 Write in,U.S. House,2,,Miami,09-Perry,0,0,0,0
 Ethan Manning,State Representative,23,R,Miami,09-Perry,128,92,0,220
 Terry Doran,State Representative,23,D,Miami,09-Perry,33,21,0,54
 Adam Werner,State Representative,23,L,Miami,09-Perry,21,6,0,27
 ,Registered Voters,,,Miami,10-Peru 2,,,,1550
-,Ballots Cast,,,Miami,10-Peru 2,,,,283
+,Ballots Cast,,,Miami,10-Peru 2,283,410,0,693
 Mike Braun,U.S. Senate,,R,Miami,10-Peru 2,156,221,0,377
 Joe Donnelly,U.S. Senate,,D,Miami,10-Peru 2,96,148,0,244
 Lucy M Brenton,U.S. Senate,,L,Miami,10-Peru 2,23,31,0,54
@@ -209,7 +209,7 @@ Ethan Manning,State Representative,23,R,Miami,10-Peru 2,173,241,0,414
 Terry Doran,State Representative,23,D,Miami,10-Peru 2,89,138,0,227
 Adam Werner,State Representative,23,L,Miami,10-Peru 2,15,15,0,30
 ,Registered Voters,,,Miami,11-Peru 3,,,,1302
-,Ballots Cast,,,Miami,11-Peru 3,,,,291
+,Ballots Cast,,,Miami,11-Peru 3,291,295,0,586
 Mike Braun,U.S. Senate,,R,Miami,11-Peru 3,184,182,0,366
 Joe Donnelly,U.S. Senate,,D,Miami,11-Peru 3,80,90,0,170
 Lucy M Brenton,U.S. Senate,,L,Miami,11-Peru 3,24,18,0,42
@@ -230,7 +230,7 @@ Ethan Manning,State Representative,23,R,Miami,11-Peru 3,192,189,0,381
 Terry Doran,State Representative,23,D,Miami,11-Peru 3,71,92,0,163
 Adam Werner,State Representative,23,L,Miami,11-Peru 3,19,9,0,28
 ,Registered Voters,,,Miami,12-Peru 5,,,,1032
-,Ballots Cast,,,Miami,12-Peru 5,,,,199
+,Ballots Cast,,,Miami,12-Peru 5,199,255,0,454
 Mike Braun,U.S. Senate,,R,Miami,12-Peru 5,114,153,0,267
 Joe Donnelly,U.S. Senate,,D,Miami,12-Peru 5,65,79,0,144
 Lucy M Brenton,U.S. Senate,,L,Miami,12-Peru 5,17,17,0,34
@@ -251,7 +251,7 @@ Ethan Manning,State Representative,23,R,Miami,12-Peru 5,132,167,0,299
 Terry Doran,State Representative,23,D,Miami,12-Peru 5,54,73,0,127
 Adam Werner,State Representative,23,L,Miami,12-Peru 5,8,6,0,14
 ,Registered Voters,,,Miami,13-Peru 6,,,,389
-,Ballots Cast,,,Miami,13-Peru 6,,,,90
+,Ballots Cast,,,Miami,13-Peru 6,90,95,0,185
 Mike Braun,U.S. Senate,,R,Miami,13-Peru 6,53,56,0,109
 Joe Donnelly,U.S. Senate,,D,Miami,13-Peru 6,26,35,0,61
 Lucy M Brenton,U.S. Senate,,L,Miami,13-Peru 6,10,4,0,14
@@ -272,7 +272,7 @@ Ethan Manning,State Representative,23,R,Miami,13-Peru 6,55,57,0,112
 Terry Doran,State Representative,23,D,Miami,13-Peru 6,23,35,0,58
 Adam Werner,State Representative,23,L,Miami,13-Peru 6,11,1,0,12
 ,Registered Voters,,,Miami,14-Peru 7,,,,615
-,Ballots Cast,,,Miami,14-Peru 7,,,,98
+,Ballots Cast,,,Miami,14-Peru 7,98,197,0,295
 Mike Braun,U.S. Senate,,R,Miami,14-Peru 7,54,117,0,171
 Joe Donnelly,U.S. Senate,,D,Miami,14-Peru 7,36,67,0,103
 Lucy M Brenton,U.S. Senate,,L,Miami,14-Peru 7,4,6,0,10
@@ -293,7 +293,7 @@ Ethan Manning,State Representative,23,R,Miami,14-Peru 7,55,123,0,178
 Terry Doran,State Representative,23,D,Miami,14-Peru 7,34,59,0,93
 Adam Werner,State Representative,23,L,Miami,14-Peru 7,4,5,0,9
 ,Registered Voters,,,Miami,15-Peru 9,,,,491
-,Ballots Cast,,,Miami,15-Peru 9,,,,82
+,Ballots Cast,,,Miami,15-Peru 9,82,156,0,238
 Mike Braun,U.S. Senate,,R,Miami,15-Peru 9,44,75,0,119
 Joe Donnelly,U.S. Senate,,D,Miami,15-Peru 9,31,71,0,102
 Lucy M Brenton,U.S. Senate,,L,Miami,15-Peru 9,6,7,0,13
@@ -314,7 +314,7 @@ Ethan Manning,State Representative,23,R,Miami,15-Peru 9,54,88,0,142
 Terry Doran,State Representative,23,D,Miami,15-Peru 9,25,58,0,83
 Adam Werner,State Representative,23,L,Miami,15-Peru 9,3,5,0,8
 ,Registered Voters,,,Miami,16-Peru 10,,,,719
-,Ballots Cast,,,Miami,16-Peru 10,,,,131
+,Ballots Cast,,,Miami,16-Peru 10,131,310,0,441
 Mike Braun,U.S. Senate,,R,Miami,16-Peru 10,88,225,0,313
 Joe Donnelly,U.S. Senate,,D,Miami,16-Peru 10,35,76,0,111
 Lucy M Brenton,U.S. Senate,,L,Miami,16-Peru 10,6,7,0,13
@@ -335,7 +335,7 @@ Ethan Manning,State Representative,23,R,Miami,16-Peru 10,94,223,0,317
 Terry Doran,State Representative,23,D,Miami,16-Peru 10,28,76,0,104
 Adam Werner,State Representative,23,L,Miami,16-Peru 10,6,5,0,11
 ,Registered Voters,,,Miami,17-Peru 11,,,,456
-,Ballots Cast,,,Miami,17-Peru 11,,,,114
+,Ballots Cast,,,Miami,17-Peru 11,114,171,0,285
 Mike Braun,U.S. Senate,,R,Miami,17-Peru 11,70,117,0,187
 Joe Donnelly,U.S. Senate,,D,Miami,17-Peru 11,36,48,0,84
 Lucy M Brenton,U.S. Senate,,L,Miami,17-Peru 11,7,2,0,9
@@ -356,7 +356,7 @@ Ethan Manning,State Representative,23,R,Miami,17-Peru 11,73,115,0,188
 Terry Doran,State Representative,23,D,Miami,17-Peru 11,32,47,0,79
 Adam Werner,State Representative,23,L,Miami,17-Peru 11,8,6,0,14
 ,Registered Voters,,,Miami,18-Pipe Creek 2,,,,1392
-,Ballots Cast,,,Miami,18-Pipe Creek 2,,,,298
+,Ballots Cast,,,Miami,18-Pipe Creek 2,298,419,0,717
 Mike Braun,U.S. Senate,,R,Miami,18-Pipe Creek 2,202,290,0,492
 Joe Donnelly,U.S. Senate,,D,Miami,18-Pipe Creek 2,80,108,0,188
 Lucy M Brenton,U.S. Senate,,L,Miami,18-Pipe Creek 2,10,18,0,28
@@ -377,7 +377,7 @@ Ethan Manning,State Representative,23,R,Miami,18-Pipe Creek 2,217,302,0,519
 Terry Doran,State Representative,23,D,Miami,18-Pipe Creek 2,69,101,0,170
 Adam Werner,State Representative,23,L,Miami,18-Pipe Creek 2,9,10,0,19
 ,Registered Voters,,,Miami,19-Pipe Creek 3,,,,881
-,Ballots Cast,,,Miami,19-Pipe Creek 3,,,,149
+,Ballots Cast,,,Miami,19-Pipe Creek 3,149,362,0,511
 Mike Braun,U.S. Senate,,R,Miami,19-Pipe Creek 3,102,224,0,326
 Joe Donnelly,U.S. Senate,,D,Miami,19-Pipe Creek 3,34,120,0,154
 Lucy M Brenton,U.S. Senate,,L,Miami,19-Pipe Creek 3,12,12,0,24
@@ -398,7 +398,7 @@ Ethan Manning,State Representative,23,R,Miami,19-Pipe Creek 3,105,241,0,346
 Terry Doran,State Representative,23,D,Miami,19-Pipe Creek 3,29,106,0,135
 Adam Werner,State Representative,23,L,Miami,19-Pipe Creek 3,11,7,0,18
 ,Registered Voters,,,Miami,20-Pipe Creek 4,,,,1293
-,Ballots Cast,,,Miami,20-Pipe Creek 4,,,,235
+,Ballots Cast,,,Miami,20-Pipe Creek 4,235,199,0,434
 Mike Braun,U.S. Senate,,R,Miami,20-Pipe Creek 4,145,120,0,265
 Joe Donnelly,U.S. Senate,,D,Miami,20-Pipe Creek 4,75,73,0,148
 Lucy M Brenton,U.S. Senate,,L,Miami,20-Pipe Creek 4,13,6,0,19
@@ -419,7 +419,7 @@ Ethan Manning,State Representative,23,R,Miami,20-Pipe Creek 4,150,119,0,269
 Terry Doran,State Representative,23,D,Miami,20-Pipe Creek 4,67,68,0,135
 Adam Werner,State Representative,23,L,Miami,20-Pipe Creek 4,18,10,0,28
 ,Registered Voters,,,Miami,21-Richland,,,,789
-,Ballots Cast,,,Miami,21-Richland,,,,227
+,Ballots Cast,,,Miami,21-Richland,227,237,0,464
 Mike Braun,U.S. Senate,,R,Miami,21-Richland,169,170,0,339
 Joe Donnelly,U.S. Senate,,D,Miami,21-Richland,43,62,0,105
 Lucy M Brenton,U.S. Senate,,L,Miami,21-Richland,10,2,0,12
@@ -440,7 +440,7 @@ Ethan Manning,State Representative,23,R,Miami,21-Richland,177,166,0,343
 Terry Doran,State Representative,23,D,Miami,21-Richland,38,57,0,95
 Adam Werner,State Representative,23,L,Miami,21-Richland,11,8,0,19
 ,Registered Voters,,,Miami,22-Union,,,,525
-,Ballots Cast,,,Miami,22-Union,,,,156
+,Ballots Cast,,,Miami,22-Union,156,140,0,296
 Mike Braun,U.S. Senate,,R,Miami,22-Union,111,102,0,213
 Joe Donnelly,U.S. Senate,,D,Miami,22-Union,32,30,0,62
 Lucy M Brenton,U.S. Senate,,L,Miami,22-Union,10,6,0,16
@@ -461,7 +461,7 @@ Ethan Manning,State Representative,23,R,Miami,22-Union,110,97,0,207
 Terry Doran,State Representative,23,D,Miami,22-Union,30,33,0,63
 Adam Werner,State Representative,23,L,Miami,22-Union,11,8,0,19
 ,Registered Voters,,,Miami,23-Washington 1,,,,1108
-,Ballots Cast,,,Miami,23-Washington 1,,,,270
+,Ballots Cast,,,Miami,23-Washington 1,270,265,0,535
 Mike Braun,U.S. Senate,,R,Miami,23-Washington 1,166,159,0,325
 Joe Donnelly,U.S. Senate,,D,Miami,23-Washington 1,86,89,0,175
 Lucy M Brenton,U.S. Senate,,L,Miami,23-Washington 1,15,10,0,25
@@ -482,7 +482,7 @@ Ethan Manning,State Representative,23,R,Miami,23-Washington 1,167,153,0,320
 Terry Doran,State Representative,23,D,Miami,23-Washington 1,85,88,0,173
 Adam Werner,State Representative,23,L,Miami,23-Washington 1,14,10,0,24
 ,Registered Voters,,,Miami,24-Washington 2,,,,1032
-,Ballots Cast,,,Miami,24-Washington 2,,,,248
+,Ballots Cast,,,Miami,24-Washington 2,248,374,0,620
 Mike Braun,U.S. Senate,,R,Miami,24-Washington 2,166,257,0,423
 Joe Donnelly,U.S. Senate,,D,Miami,24-Washington 2,63,99,0,162
 Lucy M Brenton,U.S. Senate,,L,Miami,24-Washington 2,14,11,0,25
@@ -502,87 +502,3 @@ Write in,U.S. House,2,,Miami,24-Washington 2,1,0,0,1
 Ethan Manning,State Representative,23,R,Miami,24-Washington 2,172,268,0,440
 Terry Doran,State Representative,23,D,Miami,24-Washington 2,57,90,0,147
 Adam Werner,State Representative,23,L,Miami,24-Washington 2,11,7,0,18
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,

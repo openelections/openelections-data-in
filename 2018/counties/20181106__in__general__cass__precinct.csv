@@ -39,7 +39,6 @@ Cass,TIPTON2,Ballots Cast,,,,,,,444
 Cass,WASHINGTON,Ballots Cast,,,,,,,497
 Cass,WASH-CITY,Ballots Cast,,,,,,,0
 Cass,Federal Only,Ballots Cast,,,,,,,2
-Cass,Total,Ballots Cast,,,,,,,11711
 Cass,ADAMS,Straight Party,,REPUBLICAN PARTY,,13,28,70,111
 Cass,BETHLEHEM,Straight Party,,REPUBLICAN PARTY,,5,33,39,77
 Cass,BOONE,Straight Party,,REPUBLICAN PARTY,,8,51,74,133
@@ -80,7 +79,6 @@ Cass,TIPTON2,Straight Party,,REPUBLICAN PARTY,,1,53,63,117
 Cass,WASHINGTON,Straight Party,,REPUBLICAN PARTY,,2,78,55,135
 Cass,WASH-CITY,Straight Party,,REPUBLICAN PARTY,,0,0,0,0
 Cass,Federal Only,Straight Party,,REPUBLICAN PARTY,,1,0,0,1
-Cass,Total,Straight Party,,REPUBLICAN PARTY,,165,1756,1420,3341
 Cass,ADAMS,Straight Party,,DEMOCRATIC PARTY,,1,5,16,22
 Cass,BETHLEHEM,Straight Party,,DEMOCRATIC PARTY,,2,6,7,15
 Cass,BOONE,Straight Party,,DEMOCRATIC PARTY,,3,11,17,31
@@ -121,7 +119,6 @@ Cass,TIPTON2,Straight Party,,DEMOCRATIC PARTY,,2,21,33,56
 Cass,WASHINGTON,Straight Party,,DEMOCRATIC PARTY,,2,41,20,63
 Cass,WASH-CITY,Straight Party,,DEMOCRATIC PARTY,,0,0,0,0
 Cass,Federal Only,Straight Party,,DEMOCRATIC PARTY,,0,0,0,0
-Cass,Total,Straight Party,,DEMOCRATIC PARTY,,109,821,672,1602
 Cass,ADAMS,Straight Party,,LIBERTARIAN PARTY,,0,0,1,1
 Cass,BETHLEHEM,Straight Party,,LIBERTARIAN PARTY,,0,1,2,3
 Cass,BOONE,Straight Party,,LIBERTARIAN PARTY,,0,5,1,6
@@ -162,7 +159,6 @@ Cass,TIPTON2,Straight Party,,LIBERTARIAN PARTY,,0,0,3,3
 Cass,WASHINGTON,Straight Party,,LIBERTARIAN PARTY,,1,3,3,7
 Cass,WASH-CITY,Straight Party,,LIBERTARIAN PARTY,,0,0,0,0
 Cass,Federal Only,Straight Party,,LIBERTARIAN PARTY,,0,0,0,0
-Cass,Total,Straight Party,,LIBERTARIAN PARTY,,3,51,60,114
 Cass,ADAMS,Straight Party,,Cast Votes,,14,33,87,134
 Cass,BETHLEHEM,Straight Party,,Cast Votes,,7,40,48,95
 Cass,BOONE,Straight Party,,Cast Votes,,11,67,92,170
@@ -203,7 +199,6 @@ Cass,TIPTON2,Straight Party,,Cast Votes,,3,74,99,176
 Cass,WASHINGTON,Straight Party,,Cast Votes,,5,122,78,205
 Cass,WASH-CITY,Straight Party,,Cast Votes,,0,0,0,0
 Cass,Federal Only,Straight Party,,Cast Votes,,1,0,0,1
-Cass,Total,Straight Party,,Cast Votes,,277,2628,2152,5057
 Cass,ADAMS,Straight Party,,Over Votes,,0,0,0,0
 Cass,BETHLEHEM,Straight Party,,Over Votes,,0,0,0,0
 Cass,BOONE,Straight Party,,Over Votes,,0,0,0,0
@@ -244,7 +239,6 @@ Cass,TIPTON2,Straight Party,,Over Votes,,0,0,0,0
 Cass,WASHINGTON,Straight Party,,Over Votes,,0,0,0,0
 Cass,WASH-CITY,Straight Party,,Over Votes,,0,0,0,0
 Cass,Federal Only,Straight Party,,Over Votes,,0,0,0,0
-Cass,Total,Straight Party,,Over Votes,,2,0,0,2
 Cass,ADAMS,Straight Party,,Under Votes,,9,44,143,196
 Cass,BETHLEHEM,Straight Party,,Under Votes,,8,94,88,190
 Cass,BOONE,Straight Party,,Under Votes,,11,216,140,367
@@ -285,7 +279,6 @@ Cass,TIPTON2,Straight Party,,Under Votes,,7,153,108,268
 Cass,WASHINGTON,Straight Party,,Under Votes,,13,187,92,292
 Cass,WASH-CITY,Straight Party,,Under Votes,,0,0,0,0
 Cass,Federal Only,Straight Party,,Under Votes,,1,0,0,1
-Cass,Total,Straight Party,,Under Votes,,428,3735,2489,6652
 Cass,ADAMS,U.S. Senate,,Mike Braun,,19,55,149,223
 Cass,BETHLEHEM,U.S. Senate,,Mike Braun,,12,92,78,182
 Cass,BOONE,U.S. Senate,,Mike Braun,,16,159,149,324
@@ -326,7 +319,6 @@ Cass,TIPTON2,U.S. Senate,,Mike Braun,,3,143,123,269
 Cass,WASHINGTON,U.S. Senate,,Mike Braun,,10,167,113,290
 Cass,WASH-CITY,U.S. Senate,,Mike Braun,,0,0,0,0
 Cass,Federal Only,U.S. Senate,,Mike Braun,,2,0,0,2
-Cass,Total,U.S. Senate,,Mike Braun,,340,3593,2684,6617
 Cass,ADAMS,U.S. Senate,,Joe Donnelly,,2,15,60,77
 Cass,BETHLEHEM,U.S. Senate,,Joe Donnelly,,3,35,36,74
 Cass,BOONE,U.S. Senate,,Joe Donnelly,,6,85,58,149
@@ -367,7 +359,6 @@ Cass,TIPTON2,U.S. Senate,,Joe Donnelly,,5,69,66,140
 Cass,WASHINGTON,U.S. Senate,,Joe Donnelly,,8,115,47,170
 Cass,WASH-CITY,U.S. Senate,,Joe Donnelly,,0,0,0,0
 Cass,Federal Only,U.S. Senate,,Joe Donnelly,,0,0,0,0
-Cass,Total,U.S. Senate,,Joe Donnelly,,305,2222,1534,4061
 Cass,ADAMS,U.S. Senate,,Lucy M. Brenton,,2,6,15,23
 Cass,BETHLEHEM,U.S. Senate,,Lucy M. Brenton,,0,7,19,26
 Cass,BOONE,U.S. Senate,,Lucy M. Brenton,,0,27,18,45
@@ -408,7 +399,6 @@ Cass,TIPTON2,U.S. Senate,,Lucy M. Brenton,,2,11,11,24
 Cass,WASHINGTON,U.S. Senate,,Lucy M. Brenton,,0,20,9,29
 Cass,WASH-CITY,U.S. Senate,,Lucy M. Brenton,,0,0,0,0
 Cass,Federal Only,U.S. Senate,,Lucy M. Brenton,,0,0,0,0
-Cass,Total,U.S. Senate,,Lucy M. Brenton,,40,408,324,772
 Cass,ADAMS,U.S. Senate,,Nathan Altman (W),,0,0,0,0
 Cass,BETHLEHEM,U.S. Senate,,Nathan Altman (W),,0,0,0,0
 Cass,BOONE,U.S. Senate,,Nathan Altman (W),,0,0,0,0
@@ -449,7 +439,6 @@ Cass,TIPTON2,U.S. Senate,,Nathan Altman (W),,0,0,0,0
 Cass,WASHINGTON,U.S. Senate,,Nathan Altman (W),,0,0,0,0
 Cass,WASH-CITY,U.S. Senate,,Nathan Altman (W),,0,0,0,0
 Cass,Federal Only,U.S. Senate,,Nathan Altman (W),,0,0,0,0
-Cass,Total,U.S. Senate,,Nathan Altman (W),,0,0,0,0
 Cass,ADAMS,U.S. Senate,,Christopher Fischer (W),,0,0,0,0
 Cass,BETHLEHEM,U.S. Senate,,Christopher Fischer (W),,0,0,0,0
 Cass,BOONE,U.S. Senate,,Christopher Fischer (W),,0,0,0,0
@@ -490,7 +479,6 @@ Cass,TIPTON2,U.S. Senate,,Christopher Fischer (W),,0,0,0,0
 Cass,WASHINGTON,U.S. Senate,,Christopher Fischer (W),,0,0,0,0
 Cass,WASH-CITY,U.S. Senate,,Christopher Fischer (W),,0,0,0,0
 Cass,Federal Only,U.S. Senate,,Christopher Fischer (W),,0,0,0,0
-Cass,Total,U.S. Senate,,Christopher Fischer (W),,0,0,0,0
 Cass,ADAMS,U.S. Senate,,James L. Johnson Jr. (W),,0,0,0,0
 Cass,BETHLEHEM,U.S. Senate,,James L. Johnson Jr. (W),,0,0,0,0
 Cass,BOONE,U.S. Senate,,James L. Johnson Jr. (W),,0,0,0,0
@@ -531,7 +519,6 @@ Cass,TIPTON2,U.S. Senate,,James L. Johnson Jr. (W),,0,0,0,0
 Cass,WASHINGTON,U.S. Senate,,James L. Johnson Jr. (W),,0,0,0,0
 Cass,WASH-CITY,U.S. Senate,,James L. Johnson Jr. (W),,0,0,0,0
 Cass,Federal Only,U.S. Senate,,James L. Johnson Jr. (W),,0,0,0,0
-Cass,Total,U.S. Senate,,James L. Johnson Jr. (W),,0,0,0,0
 Cass,ADAMS,U.S. Senate,,Cast Votes,,23,76,224,323
 Cass,BETHLEHEM,U.S. Senate,,Cast Votes,,15,134,133,282
 Cass,BOONE,U.S. Senate,,Cast Votes,,22,271,225,518
@@ -572,7 +559,6 @@ Cass,TIPTON2,U.S. Senate,,Cast Votes,,10,223,200,433
 Cass,WASHINGTON,U.S. Senate,,Cast Votes,,18,302,169,489
 Cass,WASH-CITY,U.S. Senate,,Cast Votes,,0,0,0,0
 Cass,Federal Only,U.S. Senate,,Cast Votes,,2,0,0,2
-Cass,Total,U.S. Senate,,Cast Votes,,685,6223,4542,11450
 Cass,ADAMS,U.S. Senate,,Over Votes,,0,0,0,0
 Cass,BETHLEHEM,U.S. Senate,,Over Votes,,0,0,0,0
 Cass,BOONE,U.S. Senate,,Over Votes,,0,0,0,0
@@ -613,7 +599,6 @@ Cass,TIPTON2,U.S. Senate,,Over Votes,,0,0,0,0
 Cass,WASHINGTON,U.S. Senate,,Over Votes,,0,0,0,0
 Cass,WASH-CITY,U.S. Senate,,Over Votes,,0,0,0,0
 Cass,Federal Only,U.S. Senate,,Over Votes,,0,0,0,0
-Cass,Total,U.S. Senate,,Over Votes,,5,0,0,5
 Cass,ADAMS,U.S. Senate,,Under Votes,,0,1,6,7
 Cass,BETHLEHEM,U.S. Senate,,Under Votes,,0,0,3,3
 Cass,BOONE,U.S. Senate,,Under Votes,,0,12,7,19
@@ -654,7 +639,6 @@ Cass,TIPTON2,U.S. Senate,,Under Votes,,0,4,7,11
 Cass,WASHINGTON,U.S. Senate,,Under Votes,,0,7,1,8
 Cass,WASH-CITY,U.S. Senate,,Under Votes,,0,0,0,0
 Cass,Federal Only,U.S. Senate,,Under Votes,,0,0,0,0
-Cass,Total,U.S. Senate,,Under Votes,,17,140,99,256
 Cass,ADAMS,Secretary of State,,Connie Lawson,,20,60,179,259
 Cass,BETHLEHEM,Secretary of State,,Connie Lawson,,11,101,97,209
 Cass,BOONE,Secretary of State,,Connie Lawson,,16,204,170,390
@@ -694,7 +678,6 @@ Cass,TIPTON1,Secretary of State,,Connie Lawson,,7,185,165,357
 Cass,TIPTON2,Secretary of State,,Connie Lawson,,6,166,140,312
 Cass,WASHINGTON,Secretary of State,,Connie Lawson,,14,201,123,338
 Cass,WASH-CITY,Secretary of State,,Connie Lawson,,0,0,0,0
-Cass,Total,Secretary of State,,Connie Lawson,,397,4195,3072,7664
 Cass,ADAMS,Secretary of State,,Jim Harper,,2,10,39,51
 Cass,BETHLEHEM,Secretary of State,,Jim Harper,,3,28,24,55
 Cass,BOONE,Secretary of State,,Jim Harper,,6,58,50,114
@@ -734,7 +717,6 @@ Cass,TIPTON1,Secretary of State,,Jim Harper,,6,69,36,111
 Cass,TIPTON2,Secretary of State,,Jim Harper,,4,54,57,115
 Cass,WASHINGTON,Secretary of State,,Jim Harper,,3,88,38,129
 Cass,WASH-CITY,Secretary of State,,Jim Harper,,0,0,0,0
-Cass,Total,Secretary of State,,Jim Harper,,256,1780,1272,3308
 Cass,ADAMS,Secretary of State,,Mark W. Rutherford,,1,3,4,8
 Cass,BETHLEHEM,Secretary of State,,Mark W. Rutherford,,1,2,10,13
 Cass,BOONE,Secretary of State,,Mark W. Rutherford,,0,5,4,9
@@ -774,7 +756,6 @@ Cass,TIPTON1,Secretary of State,,Mark W. Rutherford,,0,4,6,10
 Cass,TIPTON2,Secretary of State,,Mark W. Rutherford,,0,3,5,8
 Cass,WASHINGTON,Secretary of State,,Mark W. Rutherford,,0,10,5,15
 Cass,WASH-CITY,Secretary of State,,Mark W. Rutherford,,0,0,0,0
-Cass,Total,Secretary of State,,Mark W. Rutherford,,17,165,178,360
 Cass,ADAMS,Secretary of State,,George William Wolfe (W),,0,0,0,0
 Cass,BETHLEHEM,Secretary of State,,George William Wolfe (W),,0,0,0,0
 Cass,BOONE,Secretary of State,,George William Wolfe (W),,0,0,0,0
@@ -814,7 +795,6 @@ Cass,TIPTON1,Secretary of State,,George William Wolfe (W),,0,0,0,0
 Cass,TIPTON2,Secretary of State,,George William Wolfe (W),,0,0,0,0
 Cass,WASHINGTON,Secretary of State,,George William Wolfe (W),,0,0,0,0
 Cass,WASH-CITY,Secretary of State,,George William Wolfe (W),,0,0,0,0
-Cass,Total,Secretary of State,,George William Wolfe (W),,0,3,0,3
 Cass,ADAMS,Secretary of State,,Jeremy Heath (W),,0,0,0,0
 Cass,BETHLEHEM,Secretary of State,,Jeremy Heath (W),,0,0,0,0
 Cass,BOONE,Secretary of State,,Jeremy Heath (W),,0,0,0,0
@@ -854,7 +834,6 @@ Cass,TIPTON1,Secretary of State,,Jeremy Heath (W),,0,0,0,0
 Cass,TIPTON2,Secretary of State,,Jeremy Heath (W),,0,0,0,0
 Cass,WASHINGTON,Secretary of State,,Jeremy Heath (W),,0,0,0,0
 Cass,WASH-CITY,Secretary of State,,Jeremy Heath (W),,0,0,0,0
-Cass,Total,Secretary of State,,Jeremy Heath (W),,0,0,0,0
 Cass,ADAMS,Secretary of State,,Cast Votes,,23,73,222,318
 Cass,BETHLEHEM,Secretary of State,,Cast Votes,,15,131,131,277
 Cass,BOONE,Secretary of State,,Cast Votes,,22,267,224,513
@@ -894,7 +873,6 @@ Cass,TIPTON1,Secretary of State,,Cast Votes,,13,258,207,478
 Cass,TIPTON2,Secretary of State,,Cast Votes,,10,223,202,435
 Cass,WASHINGTON,Secretary of State,,Cast Votes,,17,299,166,482
 Cass,WASH-CITY,Secretary of State,,Cast Votes,,0,0,0,0
-Cass,Total,Secretary of State,,Cast Votes,,670,6143,4522,11335
 Cass,ADAMS,Secretary of State,,Over Votes,,0,0,0,0
 Cass,BETHLEHEM,Secretary of State,,Over Votes,,0,0,0,0
 Cass,BOONE,Secretary of State,,Over Votes,,0,0,0,0
@@ -934,7 +912,6 @@ Cass,TIPTON1,Secretary of State,,Over Votes,,0,0,0,0
 Cass,TIPTON2,Secretary of State,,Over Votes,,0,0,0,0
 Cass,WASHINGTON,Secretary of State,,Over Votes,,0,0,0,0
 Cass,WASH-CITY,Secretary of State,,Over Votes,,0,0,0,0
-Cass,Total,Secretary of State,,Over Votes,,3,0,0,3
 Cass,ADAMS,Secretary of State,,Under Votes,,0,4,8,12
 Cass,BETHLEHEM,Secretary of State,,Under Votes,,0,3,5,8
 Cass,BOONE,Secretary of State,,Under Votes,,0,16,8,24
@@ -974,7 +951,6 @@ Cass,TIPTON1,Secretary of State,,Under Votes,,0,7,2,9
 Cass,TIPTON2,Secretary of State,,Under Votes,,0,4,5,9
 Cass,WASHINGTON,Secretary of State,,Under Votes,,1,10,4,15
 Cass,WASH-CITY,Secretary of State,,Under Votes,,0,0,0,0
-Cass,Total,Secretary of State,,Under Votes,,32,220,119,371
 Cass,ADAMS,Auditor of State,,Tera Klutz,,20,59,167,246
 Cass,BETHLEHEM,Auditor of State,,Tera Klutz,,11,92,97,200
 Cass,BOONE,Auditor of State,,Tera Klutz,,16,192,164,372
@@ -1014,7 +990,6 @@ Cass,TIPTON1,Auditor of State,,Tera Klutz,,7,185,164,356
 Cass,TIPTON2,Auditor of State,,Tera Klutz,,5,160,135,300
 Cass,WASHINGTON,Auditor of State,,Tera Klutz,,14,194,122,330
 Cass,WASH-CITY,Auditor of State,,Tera Klutz,,0,0,0,0
-Cass,Total,Auditor of State,,Tera Klutz,,373,4081,2996,7450
 Cass,ADAMS,Auditor of State,,Joselyn Whitticker,,3,11,49,63
 Cass,BETHLEHEM,Auditor of State,,Joselyn Whitticker,,3,30,22,55
 Cass,BOONE,Auditor of State,,Joselyn Whitticker,,6,64,52,122
@@ -1054,7 +1029,6 @@ Cass,TIPTON1,Auditor of State,,Joselyn Whitticker,,6,66,37,109
 Cass,TIPTON2,Auditor of State,,Joselyn Whitticker,,5,56,55,116
 Cass,WASHINGTON,Auditor of State,,Joselyn Whitticker,,4,90,40,134
 Cass,WASH-CITY,Auditor of State,,Joselyn Whitticker,,0,0,0,0
-Cass,Total,Auditor of State,,Joselyn Whitticker,,260,1837,1301,3398
 Cass,ADAMS,Auditor of State,,John Schick,,0,2,5,7
 Cass,BETHLEHEM,Auditor of State,,John Schick,,0,5,11,16
 Cass,BOONE,Auditor of State,,John Schick,,0,11,9,20
@@ -1094,7 +1068,6 @@ Cass,TIPTON1,Auditor of State,,John Schick,,0,6,6,12
 Cass,TIPTON2,Auditor of State,,John Schick,,0,8,11,19
 Cass,WASHINGTON,Auditor of State,,John Schick,,0,14,5,19
 Cass,WASH-CITY,Auditor of State,,John Schick,,0,0,0,0
-Cass,Total,Auditor of State,,John Schick,,33,228,212,473
 Cass,ADAMS,Auditor of State,,Cast Votes,,23,72,221,316
 Cass,BETHLEHEM,Auditor of State,,Cast Votes,,14,127,130,271
 Cass,BOONE,Auditor of State,,Cast Votes,,22,267,225,514
@@ -1134,7 +1107,6 @@ Cass,TIPTON1,Auditor of State,,Cast Votes,,13,257,207,477
 Cass,TIPTON2,Auditor of State,,Cast Votes,,10,224,201,435
 Cass,WASHINGTON,Auditor of State,,Cast Votes,,18,298,167,483
 Cass,WASH-CITY,Auditor of State,,Cast Votes,,0,0,0,0
-Cass,Total,Auditor of State,,Cast Votes,,666,6146,4509,11321
 Cass,ADAMS,Auditor of State,,Over Votes,,0,0,0,0
 Cass,BETHLEHEM,Auditor of State,,Over Votes,,0,0,0,0
 Cass,BOONE,Auditor of State,,Over Votes,,0,0,0,0
@@ -1174,7 +1146,6 @@ Cass,TIPTON1,Auditor of State,,Over Votes,,0,0,0,0
 Cass,TIPTON2,Auditor of State,,Over Votes,,0,0,0,0
 Cass,WASHINGTON,Auditor of State,,Over Votes,,0,0,0,0
 Cass,WASH-CITY,Auditor of State,,Over Votes,,0,0,0,0
-Cass,Total,Auditor of State,,Over Votes,,3,0,0,3
 Cass,ADAMS,Auditor of State,,Under Votes,,0,5,9,14
 Cass,BETHLEHEM,Auditor of State,,Under Votes,,1,7,6,14
 Cass,BOONE,Auditor of State,,Under Votes,,0,16,7,23
@@ -1214,7 +1185,6 @@ Cass,TIPTON1,Auditor of State,,Under Votes,,0,8,2,10
 Cass,TIPTON2,Auditor of State,,Under Votes,,0,3,6,9
 Cass,WASHINGTON,Auditor of State,,Under Votes,,0,11,3,14
 Cass,WASH-CITY,Auditor of State,,Under Votes,,0,0,0,0
-Cass,Total,Auditor of State,,Under Votes,,36,217,132,385
 Cass,ADAMS,Treasurer of State,,Kelly Mitchell,,21,64,178,263
 Cass,BETHLEHEM,Treasurer of State,,Kelly Mitchell,,11,101,112,224
 Cass,BOONE,Treasurer of State,,Kelly Mitchell,,16,212,176,404
@@ -1254,7 +1224,6 @@ Cass,TIPTON1,Treasurer of State,,Kelly Mitchell,,8,193,173,374
 Cass,TIPTON2,Treasurer of State,,Kelly Mitchell,,7,173,145,325
 Cass,WASHINGTON,Treasurer of State,,Kelly Mitchell,,14,204,130,348
 Cass,WASH-CITY,Treasurer of State,,Kelly Mitchell,,0,0,0,0
-Cass,Total,Treasurer of State,,Kelly Mitchell,,408,4392,3219,8019
 Cass,ADAMS,Treasurer of State,,John C. Aguilera,,2,8,45,55
 Cass,BETHLEHEM,Treasurer of State,,John C. Aguilera,,3,27,19,49
 Cass,BOONE,Treasurer of State,,John C. Aguilera,,6,54,51,111
@@ -1294,7 +1263,6 @@ Cass,TIPTON1,Treasurer of State,,John C. Aguilera,,5,65,33,103
 Cass,TIPTON2,Treasurer of State,,John C. Aguilera,,3,51,54,108
 Cass,WASHINGTON,Treasurer of State,,John C. Aguilera,,3,89,36,128
 Cass,WASH-CITY,Treasurer of State,,John C. Aguilera,,0,0,0,0
-Cass,Total,Treasurer of State,,John C. Aguilera,,253,1744,1285,3282
 Cass,ADAMS,Treasurer of State,,Cast Votes,,23,72,223,318
 Cass,BETHLEHEM,Treasurer of State,,Cast Votes,,14,128,131,273
 Cass,BOONE,Treasurer of State,,Cast Votes,,22,266,227,515
@@ -1334,7 +1302,6 @@ Cass,TIPTON1,Treasurer of State,,Cast Votes,,13,258,206,477
 Cass,TIPTON2,Treasurer of State,,Cast Votes,,10,224,199,433
 Cass,WASHINGTON,Treasurer of State,,Cast Votes,,17,293,166,476
 Cass,WASH-CITY,Treasurer of State,,Cast Votes,,0,0,0,0
-Cass,Total,Treasurer of State,,Cast Votes,,661,6136,4504,11301
 Cass,ADAMS,Treasurer of State,,Over Votes,,0,0,0,0
 Cass,BETHLEHEM,Treasurer of State,,Over Votes,,0,0,0,0
 Cass,BOONE,Treasurer of State,,Over Votes,,0,0,0,0
@@ -1374,7 +1341,6 @@ Cass,TIPTON1,Treasurer of State,,Over Votes,,0,0,0,0
 Cass,TIPTON2,Treasurer of State,,Over Votes,,0,0,0,0
 Cass,WASHINGTON,Treasurer of State,,Over Votes,,0,0,0,0
 Cass,WASH-CITY,Treasurer of State,,Over Votes,,0,0,0,0
-Cass,Total,Treasurer of State,,Over Votes,,4,0,0,4
 Cass,ADAMS,Treasurer of State,,Under Votes,,0,5,7,12
 Cass,BETHLEHEM,Treasurer of State,,Under Votes,,1,6,5,12
 Cass,BOONE,Treasurer of State,,Under Votes,,0,17,5,22
@@ -1414,212 +1380,206 @@ Cass,TIPTON1,Treasurer of State,,Under Votes,,0,7,3,10
 Cass,TIPTON2,Treasurer of State,,Under Votes,,0,3,8,11
 Cass,WASHINGTON,Treasurer of State,,Under Votes,,1,16,4,21
 Cass,WASH-CITY,Treasurer of State,,Under Votes,,0,0,0,0
-Cass,Total,Treasurer of State,,Under Votes,,40,227,137,404
-Cass,ADAMS,"U,S, House",4,Jim Baird,,19,62,176,257
-Cass,BETHLEHEM,"U,S, House",4,Jim Baird,,11,99,102,212
-Cass,BOONE,"U,S, House",4,Jim Baird,,15,194,178,387
-Cass,CLAY-01,"U,S, House",4,Jim Baird,,22,203,134,359
-Cass,CLAY-02,"U,S, House",4,Jim Baird,,11,105,77,193
-Cass,CLAY-03,"U,S, House",4,Jim Baird,,11,125,85,221
-Cass,CLAY-CITY,"U,S, House",4,Jim Baird,,11,10,5,26
-Cass,CLINTON,"U,S, House",4,Jim Baird,,26,82,35,143
-Cass,DEER-CREEK,"U,S, House",4,Jim Baird,,6,107,129,242
-Cass,EEL-EAST,"U,S, House",4,Jim Baird,,4,105,66,175
-Cass,EEL-WEST,"U,S, House",4,Jim Baird,,0,37,19,56
-Cass,GALVESTON,"U,S, House",4,Jim Baird,,2,121,173,296
-Cass,HARRISON,"U,S, House",4,Jim Baird,,13,147,87,247
-Cass,JACKSON,"U,S, House",4,Jim Baird,,21,214,223,458
-Cass,JEFFERSON,"U,S, House",4,Jim Baird,,14,219,149,382
-Cass,LOGAN-01,"U,S, House",4,Jim Baird,,7,61,44,112
-Cass,LOGAN-02,"U,S, House",4,Jim Baird,,11,74,30,115
-Cass,LOGAN-03,"U,S, House",4,Jim Baird,,0,23,20,43
-Cass,LOGAN-04,"U,S, House",4,Jim Baird,,4,82,84,170
-Cass,LOGAN-05,"U,S, House",4,Jim Baird,,11,64,40,115
-Cass,LOGAN-06,"U,S, House",4,Jim Baird,,8,98,53,159
-Cass,LOGAN-07,"U,S, House",4,Jim Baird,,0,20,13,33
-Cass,LOGAN-08,"U,S, House",4,Jim Baird,,4,32,29,65
-Cass,LOGAN-09,"U,S, House",4,Jim Baird,,3,69,25,97
-Cass,LOGAN-10,"U,S, House",4,Jim Baird,,9,66,60,135
-Cass,LOGAN-11,"U,S, House",4,Jim Baird,,25,197,71,293
-Cass,LOGAN-12,"U,S, House",4,Jim Baird,,7,109,71,187
-Cass,LOGAN-13,"U,S, House",4,Jim Baird,,4,38,25,67
-Cass,LOGAN-14,"U,S, House",4,Jim Baird,,21,115,69,205
-Cass,LOGAN-15,"U,S, House",4,Jim Baird,,18,152,55,225
-Cass,LOGAN-16,"U,S, House",4,Jim Baird,,0,14,19,33
-Cass,MIAMI,"U,S, House",4,Jim Baird,,14,235,133,382
-Cass,NOBLE-CITY,"U,S, House",4,Jim Baird,,2,27,14,43
-Cass,NOBLE-N,"U,S, House",4,Jim Baird,,18,207,109,334
-Cass,NOBLE-S,"U,S, House",4,Jim Baird,,7,71,53,131
-Cass,TIPTON1,"U,S, House",4,Jim Baird,,6,184,164,354
-Cass,TIPTON2,"U,S, House",4,Jim Baird,,6,164,143,313
-Cass,WASHINGTON,"U,S, House",4,Jim Baird,,11,185,127,323
-Cass,WASH-CITY,"U,S, House",4,Jim Baird,,0,0,0,0
-Cass,Federal Only,"U,S, House",4,Jim Baird,,2,0,0,2
-Cass,Total,"U,S, House",4,Jim Baird,,384,4117,3089,7590
-Cass,ADAMS,"U,S, House",4,Tobi Beck,,4,10,47,61
-Cass,BETHLEHEM,"U,S, House",4,Tobi Beck,,3,30,29,62
-Cass,BOONE,"U,S, House",4,Tobi Beck,,7,73,48,128
-Cass,CLAY-01,"U,S, House",4,Tobi Beck,,6,95,40,141
-Cass,CLAY-02,"U,S, House",4,Tobi Beck,,7,38,25,70
-Cass,CLAY-03,"U,S, House",4,Tobi Beck,,0,41,43,84
-Cass,CLAY-CITY,"U,S, House",4,Tobi Beck,,8,10,12,30
-Cass,CLINTON,"U,S, House",4,Tobi Beck,,28,27,16,71
-Cass,DEER-CREEK,"U,S, House",4,Tobi Beck,,4,45,38,87
-Cass,EEL-EAST,"U,S, House",4,Tobi Beck,,5,38,18,61
-Cass,EEL-WEST,"U,S, House",4,Tobi Beck,,3,12,10,25
-Cass,GALVESTON,"U,S, House",4,Tobi Beck,,8,56,71,135
-Cass,HARRISON,"U,S, House",4,Tobi Beck,,4,41,40,85
-Cass,JACKSON,"U,S, House",4,Tobi Beck,,14,73,78,165
-Cass,JEFFERSON,"U,S, House",4,Tobi Beck,,9,69,40,118
-Cass,LOGAN-01,"U,S, House",4,Tobi Beck,,10,52,34,96
-Cass,LOGAN-02,"U,S, House",4,Tobi Beck,,2,40,28,70
-Cass,LOGAN-03,"U,S, House",4,Tobi Beck,,0,14,26,40
-Cass,LOGAN-04,"U,S, House",4,Tobi Beck,,8,61,51,120
-Cass,LOGAN-05,"U,S, House",4,Tobi Beck,,9,55,38,102
-Cass,LOGAN-06,"U,S, House",4,Tobi Beck,,7,57,37,101
-Cass,LOGAN-07,"U,S, House",4,Tobi Beck,,2,24,19,45
-Cass,LOGAN-08,"U,S, House",4,Tobi Beck,,3,44,48,95
-Cass,LOGAN-09,"U,S, House",4,Tobi Beck,,7,57,32,96
-Cass,LOGAN-10,"U,S, House",4,Tobi Beck,,5,61,62,128
-Cass,LOGAN-11,"U,S, House",4,Tobi Beck,,15,103,56,174
-Cass,LOGAN-12,"U,S, House",4,Tobi Beck,,10,77,50,137
-Cass,LOGAN-13,"U,S, House",4,Tobi Beck,,5,23,38,66
-Cass,LOGAN-14,"U,S, House",4,Tobi Beck,,23,88,52,163
-Cass,LOGAN-15,"U,S, House",4,Tobi Beck,,33,106,48,187
-Cass,LOGAN-16,"U,S, House",4,Tobi Beck,,0,18,25,43
-Cass,MIAMI,"U,S, House",4,Tobi Beck,,7,107,45,159
-Cass,NOBLE-CITY,"U,S, House",4,Tobi Beck,,0,19,5,24
-Cass,NOBLE-N,"U,S, House",4,Tobi Beck,,8,83,25,116
-Cass,NOBLE-S,"U,S, House",4,Tobi Beck,,11,31,14,56
-Cass,TIPTON1,"U,S, House",4,Tobi Beck,,7,70,44,121
-Cass,TIPTON2,"U,S, House",4,Tobi Beck,,4,57,53,114
-Cass,WASHINGTON,"U,S, House",4,Tobi Beck,,6,110,41,157
-Cass,WASH-CITY,"U,S, House",4,Tobi Beck,,0,0,0,0
-Cass,Federal Only,"U,S, House",4,Tobi Beck,,0,0,0,0
-Cass,Total,"U,S, House",4,Tobi Beck,,292,2015,1426,3733
-Cass,ADAMS,"U,S, House",4,Cast Votes,,23,72,223,318
-Cass,BETHLEHEM,"U,S, House",4,Cast Votes,,14,129,131,274
-Cass,BOONE,"U,S, House",4,Cast Votes,,22,267,226,515
-Cass,CLAY-01,"U,S, House",4,Cast Votes,,28,298,174,500
-Cass,CLAY-02,"U,S, House",4,Cast Votes,,18,143,102,263
-Cass,CLAY-03,"U,S, House",4,Cast Votes,,11,166,128,305
-Cass,CLAY-CITY,"U,S, House",4,Cast Votes,,19,20,17,56
-Cass,CLINTON,"U,S, House",4,Cast Votes,,54,109,51,214
-Cass,DEER-CREEK,"U,S, House",4,Cast Votes,,10,152,167,329
-Cass,EEL-EAST,"U,S, House",4,Cast Votes,,9,143,84,236
-Cass,EEL-WEST,"U,S, House",4,Cast Votes,,3,49,29,81
-Cass,GALVESTON,"U,S, House",4,Cast Votes,,10,177,244,431
-Cass,HARRISON,"U,S, House",4,Cast Votes,,17,188,127,332
-Cass,JACKSON,"U,S, House",4,Cast Votes,,35,287,301,623
-Cass,JEFFERSON,"U,S, House",4,Cast Votes,,23,288,189,500
-Cass,LOGAN-01,"U,S, House",4,Cast Votes,,17,113,78,208
-Cass,LOGAN-02,"U,S, House",4,Cast Votes,,13,114,58,185
-Cass,LOGAN-03,"U,S, House",4,Cast Votes,,0,37,46,83
-Cass,LOGAN-04,"U,S, House",4,Cast Votes,,12,143,135,290
-Cass,LOGAN-05,"U,S, House",4,Cast Votes,,20,119,78,217
-Cass,LOGAN-06,"U,S, House",4,Cast Votes,,15,155,90,260
-Cass,LOGAN-07,"U,S, House",4,Cast Votes,,2,44,32,78
-Cass,LOGAN-08,"U,S, House",4,Cast Votes,,7,76,77,160
-Cass,LOGAN-09,"U,S, House",4,Cast Votes,,10,126,57,193
-Cass,LOGAN-10,"U,S, House",4,Cast Votes,,14,127,122,263
-Cass,LOGAN-11,"U,S, House",4,Cast Votes,,40,300,127,467
-Cass,LOGAN-12,"U,S, House",4,Cast Votes,,17,186,121,324
-Cass,LOGAN-13,"U,S, House",4,Cast Votes,,9,61,63,133
-Cass,LOGAN-14,"U,S, House",4,Cast Votes,,44,203,121,368
-Cass,LOGAN-15,"U,S, House",4,Cast Votes,,51,258,103,412
-Cass,LOGAN-16,"U,S, House",4,Cast Votes,,0,32,44,76
-Cass,MIAMI,"U,S, House",4,Cast Votes,,21,342,178,541
-Cass,NOBLE-CITY,"U,S, House",4,Cast Votes,,2,46,19,67
-Cass,NOBLE-N,"U,S, House",4,Cast Votes,,26,290,134,450
-Cass,NOBLE-S,"U,S, House",4,Cast Votes,,18,102,67,187
-Cass,TIPTON1,"U,S, House",4,Cast Votes,,13,254,208,475
-Cass,TIPTON2,"U,S, House",4,Cast Votes,,10,221,196,427
-Cass,WASHINGTON,"U,S, House",4,Cast Votes,,17,295,168,480
-Cass,WASH-CITY,"U,S, House",4,Cast Votes,,0,0,0,0
-Cass,Federal Only,"U,S, House",4,Cast Votes,,2,0,0,2
-Cass,Total,"U,S, House",4,Cast Votes,,676,6132,4515,11323
-Cass,ADAMS,"U,S, House",4,Over Votes,,0,0,0,0
-Cass,BETHLEHEM,"U,S, House",4,Over Votes,,0,0,0,0
-Cass,BOONE,"U,S, House",4,Over Votes,,0,0,0,0
-Cass,CLAY-01,"U,S, House",4,Over Votes,,0,0,0,0
-Cass,CLAY-02,"U,S, House",4,Over Votes,,0,0,0,0
-Cass,CLAY-03,"U,S, House",4,Over Votes,,0,0,0,0
-Cass,CLAY-CITY,"U,S, House",4,Over Votes,,0,0,0,0
-Cass,CLINTON,"U,S, House",4,Over Votes,,0,0,0,0
-Cass,DEER-CREEK,"U,S, House",4,Over Votes,,0,0,0,0
-Cass,EEL-EAST,"U,S, House",4,Over Votes,,0,0,0,0
-Cass,EEL-WEST,"U,S, House",4,Over Votes,,0,0,0,0
-Cass,GALVESTON,"U,S, House",4,Over Votes,,0,0,0,0
-Cass,HARRISON,"U,S, House",4,Over Votes,,0,0,0,0
-Cass,JACKSON,"U,S, House",4,Over Votes,,0,0,0,0
-Cass,JEFFERSON,"U,S, House",4,Over Votes,,0,0,0,0
-Cass,LOGAN-01,"U,S, House",4,Over Votes,,0,0,0,0
-Cass,LOGAN-02,"U,S, House",4,Over Votes,,0,0,0,0
-Cass,LOGAN-03,"U,S, House",4,Over Votes,,0,0,0,0
-Cass,LOGAN-04,"U,S, House",4,Over Votes,,0,0,0,0
-Cass,LOGAN-05,"U,S, House",4,Over Votes,,0,0,0,0
-Cass,LOGAN-06,"U,S, House",4,Over Votes,,0,0,0,0
-Cass,LOGAN-07,"U,S, House",4,Over Votes,,0,0,0,0
-Cass,LOGAN-08,"U,S, House",4,Over Votes,,0,0,0,0
-Cass,LOGAN-09,"U,S, House",4,Over Votes,,0,0,0,0
-Cass,LOGAN-10,"U,S, House",4,Over Votes,,0,0,0,0
-Cass,LOGAN-11,"U,S, House",4,Over Votes,,1,0,0,1
-Cass,LOGAN-12,"U,S, House",4,Over Votes,,0,0,0,0
-Cass,LOGAN-13,"U,S, House",4,Over Votes,,0,0,0,0
-Cass,LOGAN-14,"U,S, House",4,Over Votes,,1,0,0,1
-Cass,LOGAN-15,"U,S, House",4,Over Votes,,0,0,0,0
-Cass,LOGAN-16,"U,S, House",4,Over Votes,,0,0,0,0
-Cass,MIAMI,"U,S, House",4,Over Votes,,0,0,0,0
-Cass,NOBLE-CITY,"U,S, House",4,Over Votes,,0,0,0,0
-Cass,NOBLE-N,"U,S, House",4,Over Votes,,0,0,0,0
-Cass,NOBLE-S,"U,S, House",4,Over Votes,,0,0,0,0
-Cass,TIPTON1,"U,S, House",4,Over Votes,,0,0,0,0
-Cass,TIPTON2,"U,S, House",4,Over Votes,,0,0,0,0
-Cass,WASHINGTON,"U,S, House",4,Over Votes,,0,0,0,0
-Cass,WASH-CITY,"U,S, House",4,Over Votes,,0,0,0,0
-Cass,Federal Only,"U,S, House",4,Over Votes,,0,0,0,0
-Cass,Total,"U,S, House",4,Over Votes,,2,0,0,2
-Cass,ADAMS,"U,S, House",4,Under Votes,,0,5,7,12
-Cass,BETHLEHEM,"U,S, House",4,Under Votes,,1,5,5,11
-Cass,BOONE,"U,S, House",4,Under Votes,,0,16,6,22
-Cass,CLAY-01,"U,S, House",4,Under Votes,,0,11,6,17
-Cass,CLAY-02,"U,S, House",4,Under Votes,,0,7,6,13
-Cass,CLAY-03,"U,S, House",4,Under Votes,,0,4,2,6
-Cass,CLAY-CITY,"U,S, House",4,Under Votes,,1,0,1,2
-Cass,CLINTON,"U,S, House",4,Under Votes,,5,3,2,10
-Cass,DEER-CREEK,"U,S, House",4,Under Votes,,2,5,4,11
-Cass,EEL-EAST,"U,S, House",4,Under Votes,,0,9,4,13
-Cass,EEL-WEST,"U,S, House",4,Under Votes,,0,1,0,1
-Cass,GALVESTON,"U,S, House",4,Under Votes,,1,6,3,10
-Cass,HARRISON,"U,S, House",4,Under Votes,,1,7,1,9
-Cass,JACKSON,"U,S, House",4,Under Votes,,1,3,8,12
-Cass,JEFFERSON,"U,S, House",4,Under Votes,,1,13,9,23
-Cass,LOGAN-01,"U,S, House",4,Under Votes,,3,4,3,10
-Cass,LOGAN-02,"U,S, House",4,Under Votes,,1,4,3,8
-Cass,LOGAN-03,"U,S, House",4,Under Votes,,1,1,1,3
-Cass,LOGAN-04,"U,S, House",4,Under Votes,,1,5,2,8
-Cass,LOGAN-05,"U,S, House",4,Under Votes,,0,6,0,6
-Cass,LOGAN-06,"U,S, House",4,Under Votes,,1,6,5,12
-Cass,LOGAN-07,"U,S, House",4,Under Votes,,0,2,0,2
-Cass,LOGAN-08,"U,S, House",4,Under Votes,,0,0,3,3
-Cass,LOGAN-09,"U,S, House",4,Under Votes,,0,2,4,6
-Cass,LOGAN-10,"U,S, House",4,Under Votes,,0,5,2,7
-Cass,LOGAN-11,"U,S, House",4,Under Votes,,4,11,6,21
-Cass,LOGAN-12,"U,S, House",4,Under Votes,,0,6,7,13
-Cass,LOGAN-13,"U,S, House",4,Under Votes,,0,4,1,5
-Cass,LOGAN-14,"U,S, House",4,Under Votes,,0,9,2,11
-Cass,LOGAN-15,"U,S, House",4,Under Votes,,1,11,2,14
-Cass,LOGAN-16,"U,S, House",4,Under Votes,,0,3,0,3
-Cass,MIAMI,"U,S, House",4,Under Votes,,0,10,3,13
-Cass,NOBLE-CITY,"U,S, House",4,Under Votes,,0,0,0,0
-Cass,NOBLE-N,"U,S, House",4,Under Votes,,3,11,3,17
-Cass,NOBLE-S,"U,S, House",4,Under Votes,,0,5,1,6
-Cass,TIPTON1,"U,S, House",4,Under Votes,,0,11,1,12
-Cass,TIPTON2,"U,S, House",4,Under Votes,,0,6,11,17
-Cass,WASHINGTON,"U,S, House",4,Under Votes,,1,14,2,17
-Cass,WASH-CITY,"U,S, House",4,Under Votes,,0,0,0,0
-Cass,Federal Only,"U,S, House",4,Under Votes,,0,0,0,0
-Cass,Total,"U,S, House",4,Under Votes,,29,231,126,386
+Cass,ADAMS,U.S. House,4,Jim Baird,,19,62,176,257
+Cass,BETHLEHEM,U.S. House,4,Jim Baird,,11,99,102,212
+Cass,BOONE,U.S. House,4,Jim Baird,,15,194,178,387
+Cass,CLAY-01,U.S. House,4,Jim Baird,,22,203,134,359
+Cass,CLAY-02,U.S. House,4,Jim Baird,,11,105,77,193
+Cass,CLAY-03,U.S. House,4,Jim Baird,,11,125,85,221
+Cass,CLAY-CITY,U.S. House,4,Jim Baird,,11,10,5,26
+Cass,CLINTON,U.S. House,4,Jim Baird,,26,82,35,143
+Cass,DEER-CREEK,U.S. House,4,Jim Baird,,6,107,129,242
+Cass,EEL-EAST,U.S. House,4,Jim Baird,,4,105,66,175
+Cass,EEL-WEST,U.S. House,4,Jim Baird,,0,37,19,56
+Cass,GALVESTON,U.S. House,4,Jim Baird,,2,121,173,296
+Cass,HARRISON,U.S. House,4,Jim Baird,,13,147,87,247
+Cass,JACKSON,U.S. House,4,Jim Baird,,21,214,223,458
+Cass,JEFFERSON,U.S. House,4,Jim Baird,,14,219,149,382
+Cass,LOGAN-01,U.S. House,4,Jim Baird,,7,61,44,112
+Cass,LOGAN-02,U.S. House,4,Jim Baird,,11,74,30,115
+Cass,LOGAN-03,U.S. House,4,Jim Baird,,0,23,20,43
+Cass,LOGAN-04,U.S. House,4,Jim Baird,,4,82,84,170
+Cass,LOGAN-05,U.S. House,4,Jim Baird,,11,64,40,115
+Cass,LOGAN-06,U.S. House,4,Jim Baird,,8,98,53,159
+Cass,LOGAN-07,U.S. House,4,Jim Baird,,0,20,13,33
+Cass,LOGAN-08,U.S. House,4,Jim Baird,,4,32,29,65
+Cass,LOGAN-09,U.S. House,4,Jim Baird,,3,69,25,97
+Cass,LOGAN-10,U.S. House,4,Jim Baird,,9,66,60,135
+Cass,LOGAN-11,U.S. House,4,Jim Baird,,25,197,71,293
+Cass,LOGAN-12,U.S. House,4,Jim Baird,,7,109,71,187
+Cass,LOGAN-13,U.S. House,4,Jim Baird,,4,38,25,67
+Cass,LOGAN-14,U.S. House,4,Jim Baird,,21,115,69,205
+Cass,LOGAN-15,U.S. House,4,Jim Baird,,18,152,55,225
+Cass,LOGAN-16,U.S. House,4,Jim Baird,,0,14,19,33
+Cass,MIAMI,U.S. House,4,Jim Baird,,14,235,133,382
+Cass,NOBLE-CITY,U.S. House,4,Jim Baird,,2,27,14,43
+Cass,NOBLE-N,U.S. House,4,Jim Baird,,18,207,109,334
+Cass,NOBLE-S,U.S. House,4,Jim Baird,,7,71,53,131
+Cass,TIPTON1,U.S. House,4,Jim Baird,,6,184,164,354
+Cass,TIPTON2,U.S. House,4,Jim Baird,,6,164,143,313
+Cass,WASHINGTON,U.S. House,4,Jim Baird,,11,185,127,323
+Cass,WASH-CITY,U.S. House,4,Jim Baird,,0,0,0,0
+Cass,Federal Only,U.S. House,4,Jim Baird,,2,0,0,2
+Cass,ADAMS,U.S. House,4,Tobi Beck,,4,10,47,61
+Cass,BETHLEHEM,U.S. House,4,Tobi Beck,,3,30,29,62
+Cass,BOONE,U.S. House,4,Tobi Beck,,7,73,48,128
+Cass,CLAY-01,U.S. House,4,Tobi Beck,,6,95,40,141
+Cass,CLAY-02,U.S. House,4,Tobi Beck,,7,38,25,70
+Cass,CLAY-03,U.S. House,4,Tobi Beck,,0,41,43,84
+Cass,CLAY-CITY,U.S. House,4,Tobi Beck,,8,10,12,30
+Cass,CLINTON,U.S. House,4,Tobi Beck,,28,27,16,71
+Cass,DEER-CREEK,U.S. House,4,Tobi Beck,,4,45,38,87
+Cass,EEL-EAST,U.S. House,4,Tobi Beck,,5,38,18,61
+Cass,EEL-WEST,U.S. House,4,Tobi Beck,,3,12,10,25
+Cass,GALVESTON,U.S. House,4,Tobi Beck,,8,56,71,135
+Cass,HARRISON,U.S. House,4,Tobi Beck,,4,41,40,85
+Cass,JACKSON,U.S. House,4,Tobi Beck,,14,73,78,165
+Cass,JEFFERSON,U.S. House,4,Tobi Beck,,9,69,40,118
+Cass,LOGAN-01,U.S. House,4,Tobi Beck,,10,52,34,96
+Cass,LOGAN-02,U.S. House,4,Tobi Beck,,2,40,28,70
+Cass,LOGAN-03,U.S. House,4,Tobi Beck,,0,14,26,40
+Cass,LOGAN-04,U.S. House,4,Tobi Beck,,8,61,51,120
+Cass,LOGAN-05,U.S. House,4,Tobi Beck,,9,55,38,102
+Cass,LOGAN-06,U.S. House,4,Tobi Beck,,7,57,37,101
+Cass,LOGAN-07,U.S. House,4,Tobi Beck,,2,24,19,45
+Cass,LOGAN-08,U.S. House,4,Tobi Beck,,3,44,48,95
+Cass,LOGAN-09,U.S. House,4,Tobi Beck,,7,57,32,96
+Cass,LOGAN-10,U.S. House,4,Tobi Beck,,5,61,62,128
+Cass,LOGAN-11,U.S. House,4,Tobi Beck,,15,103,56,174
+Cass,LOGAN-12,U.S. House,4,Tobi Beck,,10,77,50,137
+Cass,LOGAN-13,U.S. House,4,Tobi Beck,,5,23,38,66
+Cass,LOGAN-14,U.S. House,4,Tobi Beck,,23,88,52,163
+Cass,LOGAN-15,U.S. House,4,Tobi Beck,,33,106,48,187
+Cass,LOGAN-16,U.S. House,4,Tobi Beck,,0,18,25,43
+Cass,MIAMI,U.S. House,4,Tobi Beck,,7,107,45,159
+Cass,NOBLE-CITY,U.S. House,4,Tobi Beck,,0,19,5,24
+Cass,NOBLE-N,U.S. House,4,Tobi Beck,,8,83,25,116
+Cass,NOBLE-S,U.S. House,4,Tobi Beck,,11,31,14,56
+Cass,TIPTON1,U.S. House,4,Tobi Beck,,7,70,44,121
+Cass,TIPTON2,U.S. House,4,Tobi Beck,,4,57,53,114
+Cass,WASHINGTON,U.S. House,4,Tobi Beck,,6,110,41,157
+Cass,WASH-CITY,U.S. House,4,Tobi Beck,,0,0,0,0
+Cass,Federal Only,U.S. House,4,Tobi Beck,,0,0,0,0
+Cass,ADAMS,U.S. House,4,Cast Votes,,23,72,223,318
+Cass,BETHLEHEM,U.S. House,4,Cast Votes,,14,129,131,274
+Cass,BOONE,U.S. House,4,Cast Votes,,22,267,226,515
+Cass,CLAY-01,U.S. House,4,Cast Votes,,28,298,174,500
+Cass,CLAY-02,U.S. House,4,Cast Votes,,18,143,102,263
+Cass,CLAY-03,U.S. House,4,Cast Votes,,11,166,128,305
+Cass,CLAY-CITY,U.S. House,4,Cast Votes,,19,20,17,56
+Cass,CLINTON,U.S. House,4,Cast Votes,,54,109,51,214
+Cass,DEER-CREEK,U.S. House,4,Cast Votes,,10,152,167,329
+Cass,EEL-EAST,U.S. House,4,Cast Votes,,9,143,84,236
+Cass,EEL-WEST,U.S. House,4,Cast Votes,,3,49,29,81
+Cass,GALVESTON,U.S. House,4,Cast Votes,,10,177,244,431
+Cass,HARRISON,U.S. House,4,Cast Votes,,17,188,127,332
+Cass,JACKSON,U.S. House,4,Cast Votes,,35,287,301,623
+Cass,JEFFERSON,U.S. House,4,Cast Votes,,23,288,189,500
+Cass,LOGAN-01,U.S. House,4,Cast Votes,,17,113,78,208
+Cass,LOGAN-02,U.S. House,4,Cast Votes,,13,114,58,185
+Cass,LOGAN-03,U.S. House,4,Cast Votes,,0,37,46,83
+Cass,LOGAN-04,U.S. House,4,Cast Votes,,12,143,135,290
+Cass,LOGAN-05,U.S. House,4,Cast Votes,,20,119,78,217
+Cass,LOGAN-06,U.S. House,4,Cast Votes,,15,155,90,260
+Cass,LOGAN-07,U.S. House,4,Cast Votes,,2,44,32,78
+Cass,LOGAN-08,U.S. House,4,Cast Votes,,7,76,77,160
+Cass,LOGAN-09,U.S. House,4,Cast Votes,,10,126,57,193
+Cass,LOGAN-10,U.S. House,4,Cast Votes,,14,127,122,263
+Cass,LOGAN-11,U.S. House,4,Cast Votes,,40,300,127,467
+Cass,LOGAN-12,U.S. House,4,Cast Votes,,17,186,121,324
+Cass,LOGAN-13,U.S. House,4,Cast Votes,,9,61,63,133
+Cass,LOGAN-14,U.S. House,4,Cast Votes,,44,203,121,368
+Cass,LOGAN-15,U.S. House,4,Cast Votes,,51,258,103,412
+Cass,LOGAN-16,U.S. House,4,Cast Votes,,0,32,44,76
+Cass,MIAMI,U.S. House,4,Cast Votes,,21,342,178,541
+Cass,NOBLE-CITY,U.S. House,4,Cast Votes,,2,46,19,67
+Cass,NOBLE-N,U.S. House,4,Cast Votes,,26,290,134,450
+Cass,NOBLE-S,U.S. House,4,Cast Votes,,18,102,67,187
+Cass,TIPTON1,U.S. House,4,Cast Votes,,13,254,208,475
+Cass,TIPTON2,U.S. House,4,Cast Votes,,10,221,196,427
+Cass,WASHINGTON,U.S. House,4,Cast Votes,,17,295,168,480
+Cass,WASH-CITY,U.S. House,4,Cast Votes,,0,0,0,0
+Cass,Federal Only,U.S. House,4,Cast Votes,,2,0,0,2
+Cass,ADAMS,U.S. House,4,Over Votes,,0,0,0,0
+Cass,BETHLEHEM,U.S. House,4,Over Votes,,0,0,0,0
+Cass,BOONE,U.S. House,4,Over Votes,,0,0,0,0
+Cass,CLAY-01,U.S. House,4,Over Votes,,0,0,0,0
+Cass,CLAY-02,U.S. House,4,Over Votes,,0,0,0,0
+Cass,CLAY-03,U.S. House,4,Over Votes,,0,0,0,0
+Cass,CLAY-CITY,U.S. House,4,Over Votes,,0,0,0,0
+Cass,CLINTON,U.S. House,4,Over Votes,,0,0,0,0
+Cass,DEER-CREEK,U.S. House,4,Over Votes,,0,0,0,0
+Cass,EEL-EAST,U.S. House,4,Over Votes,,0,0,0,0
+Cass,EEL-WEST,U.S. House,4,Over Votes,,0,0,0,0
+Cass,GALVESTON,U.S. House,4,Over Votes,,0,0,0,0
+Cass,HARRISON,U.S. House,4,Over Votes,,0,0,0,0
+Cass,JACKSON,U.S. House,4,Over Votes,,0,0,0,0
+Cass,JEFFERSON,U.S. House,4,Over Votes,,0,0,0,0
+Cass,LOGAN-01,U.S. House,4,Over Votes,,0,0,0,0
+Cass,LOGAN-02,U.S. House,4,Over Votes,,0,0,0,0
+Cass,LOGAN-03,U.S. House,4,Over Votes,,0,0,0,0
+Cass,LOGAN-04,U.S. House,4,Over Votes,,0,0,0,0
+Cass,LOGAN-05,U.S. House,4,Over Votes,,0,0,0,0
+Cass,LOGAN-06,U.S. House,4,Over Votes,,0,0,0,0
+Cass,LOGAN-07,U.S. House,4,Over Votes,,0,0,0,0
+Cass,LOGAN-08,U.S. House,4,Over Votes,,0,0,0,0
+Cass,LOGAN-09,U.S. House,4,Over Votes,,0,0,0,0
+Cass,LOGAN-10,U.S. House,4,Over Votes,,0,0,0,0
+Cass,LOGAN-11,U.S. House,4,Over Votes,,1,0,0,1
+Cass,LOGAN-12,U.S. House,4,Over Votes,,0,0,0,0
+Cass,LOGAN-13,U.S. House,4,Over Votes,,0,0,0,0
+Cass,LOGAN-14,U.S. House,4,Over Votes,,1,0,0,1
+Cass,LOGAN-15,U.S. House,4,Over Votes,,0,0,0,0
+Cass,LOGAN-16,U.S. House,4,Over Votes,,0,0,0,0
+Cass,MIAMI,U.S. House,4,Over Votes,,0,0,0,0
+Cass,NOBLE-CITY,U.S. House,4,Over Votes,,0,0,0,0
+Cass,NOBLE-N,U.S. House,4,Over Votes,,0,0,0,0
+Cass,NOBLE-S,U.S. House,4,Over Votes,,0,0,0,0
+Cass,TIPTON1,U.S. House,4,Over Votes,,0,0,0,0
+Cass,TIPTON2,U.S. House,4,Over Votes,,0,0,0,0
+Cass,WASHINGTON,U.S. House,4,Over Votes,,0,0,0,0
+Cass,WASH-CITY,U.S. House,4,Over Votes,,0,0,0,0
+Cass,Federal Only,U.S. House,4,Over Votes,,0,0,0,0
+Cass,ADAMS,U.S. House,4,Under Votes,,0,5,7,12
+Cass,BETHLEHEM,U.S. House,4,Under Votes,,1,5,5,11
+Cass,BOONE,U.S. House,4,Under Votes,,0,16,6,22
+Cass,CLAY-01,U.S. House,4,Under Votes,,0,11,6,17
+Cass,CLAY-02,U.S. House,4,Under Votes,,0,7,6,13
+Cass,CLAY-03,U.S. House,4,Under Votes,,0,4,2,6
+Cass,CLAY-CITY,U.S. House,4,Under Votes,,1,0,1,2
+Cass,CLINTON,U.S. House,4,Under Votes,,5,3,2,10
+Cass,DEER-CREEK,U.S. House,4,Under Votes,,2,5,4,11
+Cass,EEL-EAST,U.S. House,4,Under Votes,,0,9,4,13
+Cass,EEL-WEST,U.S. House,4,Under Votes,,0,1,0,1
+Cass,GALVESTON,U.S. House,4,Under Votes,,1,6,3,10
+Cass,HARRISON,U.S. House,4,Under Votes,,1,7,1,9
+Cass,JACKSON,U.S. House,4,Under Votes,,1,3,8,12
+Cass,JEFFERSON,U.S. House,4,Under Votes,,1,13,9,23
+Cass,LOGAN-01,U.S. House,4,Under Votes,,3,4,3,10
+Cass,LOGAN-02,U.S. House,4,Under Votes,,1,4,3,8
+Cass,LOGAN-03,U.S. House,4,Under Votes,,1,1,1,3
+Cass,LOGAN-04,U.S. House,4,Under Votes,,1,5,2,8
+Cass,LOGAN-05,U.S. House,4,Under Votes,,0,6,0,6
+Cass,LOGAN-06,U.S. House,4,Under Votes,,1,6,5,12
+Cass,LOGAN-07,U.S. House,4,Under Votes,,0,2,0,2
+Cass,LOGAN-08,U.S. House,4,Under Votes,,0,0,3,3
+Cass,LOGAN-09,U.S. House,4,Under Votes,,0,2,4,6
+Cass,LOGAN-10,U.S. House,4,Under Votes,,0,5,2,7
+Cass,LOGAN-11,U.S. House,4,Under Votes,,4,11,6,21
+Cass,LOGAN-12,U.S. House,4,Under Votes,,0,6,7,13
+Cass,LOGAN-13,U.S. House,4,Under Votes,,0,4,1,5
+Cass,LOGAN-14,U.S. House,4,Under Votes,,0,9,2,11
+Cass,LOGAN-15,U.S. House,4,Under Votes,,1,11,2,14
+Cass,LOGAN-16,U.S. House,4,Under Votes,,0,3,0,3
+Cass,MIAMI,U.S. House,4,Under Votes,,0,10,3,13
+Cass,NOBLE-CITY,U.S. House,4,Under Votes,,0,0,0,0
+Cass,NOBLE-N,U.S. House,4,Under Votes,,3,11,3,17
+Cass,NOBLE-S,U.S. House,4,Under Votes,,0,5,1,6
+Cass,TIPTON1,U.S. House,4,Under Votes,,0,11,1,12
+Cass,TIPTON2,U.S. House,4,Under Votes,,0,6,11,17
+Cass,WASHINGTON,U.S. House,4,Under Votes,,1,14,2,17
+Cass,WASH-CITY,U.S. House,4,Under Votes,,0,0,0,0
+Cass,Federal Only,U.S. House,4,Under Votes,,0,0,0,0
 Cass,ADAMS,State Representative,23,Ethan Manning,,17,60,159,236
 Cass,BETHLEHEM,State Representative,23,Ethan Manning,,11,86,97,194
 Cass,CLAY-01,State Representative,23,Ethan Manning,,19,178,123,320
@@ -1649,7 +1609,6 @@ Cass,LOGAN-16,State Representative,23,Ethan Manning,,0,11,17,28
 Cass,MIAMI,State Representative,23,Ethan Manning,,12,216,122,350
 Cass,NOBLE-CITY,State Representative,23,Ethan Manning,,2,24,12,38
 Cass,NOBLE-S,State Representative,23,Ethan Manning,,5,60,41,106
-Cass,Total,State Representative,23,Ethan Manning,,238,2365,1765,4368
 Cass,ADAMS,State Representative,23,Terry Doran,,5,13,52,70
 Cass,BETHLEHEM,State Representative,23,Terry Doran,,2,39,30,71
 Cass,CLAY-01,State Representative,23,Terry Doran,,8,120,48,176
@@ -1679,7 +1638,6 @@ Cass,LOGAN-16,State Representative,23,Terry Doran,,0,18,24,42
 Cass,MIAMI,State Representative,23,Terry Doran,,9,123,51,183
 Cass,NOBLE-CITY,State Representative,23,Terry Doran,,0,21,6,27
 Cass,NOBLE-S,State Representative,23,Terry Doran,,13,41,24,78
-Cass,Total,State Representative,23,Terry Doran,,233,1655,1196,3084
 Cass,ADAMS,State Representative,23,Adam Werner,,1,1,13,15
 Cass,BETHLEHEM,State Representative,23,Adam Werner,,1,5,6,12
 Cass,CLAY-01,State Representative,23,Adam Werner,,1,5,5,11
@@ -1709,7 +1667,6 @@ Cass,LOGAN-16,State Representative,23,Adam Werner,,0,4,3,7
 Cass,MIAMI,State Representative,23,Adam Werner,,0,5,6,11
 Cass,NOBLE-CITY,State Representative,23,Adam Werner,,0,1,1,2
 Cass,NOBLE-S,State Representative,23,Adam Werner,,0,3,1,4
-Cass,Total,State Representative,23,Adam Werner,,12,104,113,229
 Cass,ADAMS,State Representative,23,Cast Votes,,23,74,224,321
 Cass,BETHLEHEM,State Representative,23,Cast Votes,,14,130,133,277
 Cass,CLAY-01,State Representative,23,Cast Votes,,28,303,176,507
@@ -1739,7 +1696,6 @@ Cass,LOGAN-16,State Representative,23,Cast Votes,,0,33,44,77
 Cass,MIAMI,State Representative,23,Cast Votes,,21,344,179,544
 Cass,NOBLE-CITY,State Representative,23,Cast Votes,,2,46,19,67
 Cass,NOBLE-S,State Representative,23,Cast Votes,,18,104,66,188
-Cass,Total,State Representative,23,Cast Votes,,483,4124,3074,7681
 Cass,ADAMS,State Representative,23,Over Votes,,0,0,0,0
 Cass,BETHLEHEM,State Representative,23,Over Votes,,0,0,0,0
 Cass,CLAY-01,State Representative,23,Over Votes,,0,0,0,0
@@ -1769,7 +1725,6 @@ Cass,LOGAN-16,State Representative,23,Over Votes,,0,0,0,0
 Cass,MIAMI,State Representative,23,Over Votes,,0,0,0,0
 Cass,NOBLE-CITY,State Representative,23,Over Votes,,0,0,0,0
 Cass,NOBLE-S,State Representative,23,Over Votes,,0,0,0,0
-Cass,Total,State Representative,23,Over Votes,,1,0,0,1
 Cass,ADAMS,State Representative,23,Under Votes,,0,3,6,9
 Cass,BETHLEHEM,State Representative,23,Under Votes,,1,4,3,8
 Cass,CLAY-01,State Representative,23,Under Votes,,0,6,4,10
@@ -1799,64 +1754,53 @@ Cass,LOGAN-16,State Representative,23,Under Votes,,0,2,0,2
 Cass,MIAMI,State Representative,23,Under Votes,,0,8,2,10
 Cass,NOBLE-CITY,State Representative,23,Under Votes,,0,0,0,0
 Cass,NOBLE-S,State Representative,23,Under Votes,,0,3,2,5
-Cass,Total,State Representative,23,Under Votes,,16,89,62,167
 Cass,BOONE,State Representative,25,Donald J. Lehe,,16,216,174,406
 Cass,HARRISON,State Representative,25,Donald J. Lehe,,12,144,89,245
 Cass,JEFFERSON,State Representative,25,Donald J. Lehe,,17,221,151,389
 Cass,NOBLE-N,State Representative,25,Donald J. Lehe,,20,220,109,349
-Cass,Total,State Representative,25,Donald J. Lehe,,65,801,523,1389
 Cass,BOONE,State Representative,25,Maurice Oakel Fuller,,6,55,49,110
 Cass,HARRISON,State Representative,25,Maurice Oakel Fuller,,5,45,35,85
 Cass,JEFFERSON,State Representative,25,Maurice Oakel Fuller,,6,67,38,111
 Cass,NOBLE-N,State Representative,25,Maurice Oakel Fuller,,6,72,25,103
-Cass,Total,State Representative,25,Maurice Oakel Fuller,,23,239,147,409
 Cass,BOONE,State Representative,25,Cast Votes,,22,271,223,516
 Cass,HARRISON,State Representative,25,Cast Votes,,17,189,124,330
 Cass,JEFFERSON,State Representative,25,Cast Votes,,23,288,189,500
 Cass,NOBLE-N,State Representative,25,Cast Votes,,26,292,134,452
-Cass,Total,State Representative,25,Cast Votes,,88,1040,670,1798
 Cass,BOONE,State Representative,25,Over Votes,,0,0,0,0
 Cass,HARRISON,State Representative,25,Over Votes,,0,0,0,0
 Cass,JEFFERSON,State Representative,25,Over Votes,,0,0,0,0
 Cass,NOBLE-N,State Representative,25,Over Votes,,0,0,0,0
-Cass,Total,State Representative,25,Over Votes,,0,0,0,0
 Cass,BOONE,State Representative,25,Under Votes,,0,12,9,21
 Cass,HARRISON,State Representative,25,Under Votes,,1,6,4,11
 Cass,JEFFERSON,State Representative,25,Under Votes,,1,13,9,23
 Cass,NOBLE-N,State Representative,25,Under Votes,,3,9,3,15
-Cass,Total,State Representative,25,Under Votes,,5,40,25,70
 Cass,CLINTON,State Representative,38,Heath R. VanNatter,,25,83,34,142
 Cass,DEER-CREEK,State Representative,38,Heath R. VanNatter,,6,107,135,248
 Cass,TIPTON1,State Representative,38,Heath R. VanNatter,,8,176,159,343
 Cass,TIPTON2,State Representative,38,Heath R. VanNatter,,5,165,140,310
 Cass,WASHINGTON,State Representative,38,Heath R. VanNatter,,14,186,124,324
 Cass,WASH-CITY,State Representative,38,Heath R. VanNatter,,0,0,0,0
-Cass,Total,State Representative,38,Heath R. VanNatter,,58,717,592,1367
 Cass,CLINTON,State Representative,38,Thomas (Tom) Hedde,,27,28,16,71
 Cass,DEER-CREEK,State Representative,38,Thomas (Tom) Hedde,,4,46,31,81
 Cass,TIPTON1,State Representative,38,Thomas (Tom) Hedde,,5,78,45,128
 Cass,TIPTON2,State Representative,38,Thomas (Tom) Hedde,,5,58,59,122
 Cass,WASHINGTON,State Representative,38,Thomas (Tom) Hedde,,4,108,44,156
 Cass,WASH-CITY,State Representative,38,Thomas (Tom) Hedde,,0,0,0,0
-Cass,Total,State Representative,38,Thomas (Tom) Hedde,,45,318,195,558
 Cass,CLINTON,State Representative,38,Cast Votes,,52,111,50,213
 Cass,DEER-CREEK,State Representative,38,Cast Votes,,10,153,166,329
 Cass,TIPTON1,State Representative,38,Cast Votes,,13,254,204,471
 Cass,TIPTON2,State Representative,38,Cast Votes,,10,223,199,432
 Cass,WASHINGTON,State Representative,38,Cast Votes,,18,294,168,480
 Cass,WASH-CITY,State Representative,38,Cast Votes,,0,0,0,0
-Cass,Total,State Representative,38,Cast Votes,,103,1035,787,1925
 Cass,CLINTON,State Representative,38,Over Votes,,0,0,0,0
 Cass,DEER-CREEK,State Representative,38,Over Votes,,0,0,0,0
 Cass,TIPTON1,State Representative,38,Over Votes,,0,0,0,0
 Cass,TIPTON2,State Representative,38,Over Votes,,0,0,0,0
 Cass,WASHINGTON,State Representative,38,Over Votes,,0,0,0,0
 Cass,WASH-CITY,State Representative,38,Over Votes,,0,0,0,0
-Cass,Total,State Representative,38,Over Votes,,0,0,0,0
 Cass,CLINTON,State Representative,38,Under Votes,,7,1,3,11
 Cass,DEER-CREEK,State Representative,38,Under Votes,,2,4,5,11
 Cass,TIPTON1,State Representative,38,Under Votes,,0,11,5,16
 Cass,TIPTON2,State Representative,38,Under Votes,,0,4,8,12
 Cass,WASHINGTON,State Representative,38,Under Votes,,0,15,2,17
 Cass,WASH-CITY,State Representative,38,Under Votes,,0,0,0,0
-,Total,State Representative,38,Under Votes,,9,35,23,67

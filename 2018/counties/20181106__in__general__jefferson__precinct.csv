@@ -1,5 +1,5 @@
 candidate,office,district,party,county,precinct,election_day,absentee,provisional,votes
-,Ballots Cast,,,Jefferson,1~1 ,,,,276
+,Ballots Cast,,,Jefferson,1~1 ,276,150,2,428
 Mike Braun,U.S. Senate,,R,Jefferson,1~1 ,109,47,2,158
 Joe Donnelly,U.S. Senate,,D,Jefferson,1~1 ,143,94,0,237
 Lucy M Brenton,U.S. Senate,,L,Jefferson,1~1 ,21,3,0,24
@@ -22,7 +22,7 @@ John Perkins,State Senate,45,D,Jefferson,1~1 ,137,89,0,226
 Charles Johnson,State Senate,45,L,Jefferson,1~1 ,14,3,1,18
 Mike Bowling,State Representative,66,R,Jefferson,1~1 ,102,45,0,147
 Terry Goodin,State Representative,66,D,Jefferson,1~1 ,167,98,2,267
-,Ballots Cast,,,Jefferson,1~2,,,,186
+,Ballots Cast,,,Jefferson,1~2,186,92,0,278
 Mike Braun,U.S. Senate,,R,Jefferson,1~2,61,31,0,92
 Joe Donnelly,U.S. Senate,,D,Jefferson,1~2,108,53,0,161
 Lucy M Brenton,U.S. Senate,,L,Jefferson,1~2,16,5,0,21
@@ -45,7 +45,7 @@ John Perkins,State Senate,45,D,Jefferson,1~2,104,52,0,156
 Charles Johnson,State Senate,45,L,Jefferson,1~2,9,4,0,13
 Mike Bowling,State Representative,66,R,Jefferson,1~2,55,27,0,82
 Terry Goodin,State Representative,66,D,Jefferson,1~2,123,61,0,184
-,Ballots Cast,,,Jefferson,2~1,,,,267
+,Ballots Cast,,,Jefferson,2~1,267,164,0,431
 Mike Braun,U.S. Senate,,R,Jefferson,2~1,114,76,0,190
 Joe Donnelly,U.S. Senate,,D,Jefferson,2~1,120,76,0,196
 Lucy M Brenton,U.S. Senate,,L,Jefferson,2~1,25,6,0,31
@@ -68,7 +68,7 @@ John Perkins,State Senate,45,D,Jefferson,2~1,117,72,0,189
 Charles Johnson,State Senate,45,L,Jefferson,2~1,12,0,0,12
 Mike Bowling,State Representative,66,R,Jefferson,2~1,105,70,0,175
 Terry Goodin,State Representative,66,D,Jefferson,2~1,152,87,0,239
-,Ballots Cast,,,Jefferson,2~2,,,,370
+,Ballots Cast,,,Jefferson,2~2,370,191,0,561
 Mike Braun,U.S. Senate,,R,Jefferson,2~2,199,96,0,295
 Joe Donnelly,U.S. Senate,,D,Jefferson,2~2,148,87,0,235
 Lucy M Brenton,U.S. Senate,,L,Jefferson,2~2,17,2,0,19
@@ -91,7 +91,7 @@ John Perkins,State Senate,45,D,Jefferson,2~2,129,88,0,217
 Charles Johnson,State Senate,45,L,Jefferson,2~2,11,2,0,13
 Mike Bowling,State Representative,66,R,Jefferson,2~2,177,87,0,264
 Terry Goodin,State Representative,66,D,Jefferson,2~2,187,101,0,288
-,Ballots Cast,,,Jefferson,3,,,,224
+,Ballots Cast,,,Jefferson,3,224,112,0,336
 Mike Braun,U.S. Senate,,R,Jefferson,3,105,55,0,160
 Joe Donnelly,U.S. Senate,,D,Jefferson,3,100,53,0,153
 Lucy M Brenton,U.S. Senate,,L,Jefferson,3,13,1,0,14
@@ -114,7 +114,7 @@ John Perkins,State Senate,45,D,Jefferson,3,98,47,0,145
 Charles Johnson,State Senate,45,L,Jefferson,3,9,2,0,11
 Mike Bowling,State Representative,66,R,Jefferson,3,101,50,0,151
 Terry Goodin,State Representative,66,D,Jefferson,3,117,56,0,173
-,Ballots Cast,,,Jefferson,4~1,,,,363
+,Ballots Cast,,,Jefferson,4~1,363,239,0,602
 Mike Braun,U.S. Senate,,R,Jefferson,4~1,209,116,0,325
 Joe Donnelly,U.S. Senate,,D,Jefferson,4~1,130,115,0,245
 Lucy M Brenton,U.S. Senate,,L,Jefferson,4~1,16,4,0,20
@@ -137,7 +137,7 @@ John Perkins,State Senate,45,D,Jefferson,4~1,115,105,0,220
 Charles Johnson,State Senate,45,L,Jefferson,4~1,7,5,0,12
 Mike Bowling,State Representative,66,R,Jefferson,4~1,192,100,0,292
 Terry Goodin,State Representative,66,D,Jefferson,4~1,158,132,0,290
-,Ballots Cast,,,Jefferson,4~1A,,,,235
+,Ballots Cast,,,Jefferson,4~1A,235,145,0,380
 Mike Braun,U.S. Senate,,R,Jefferson,4~1A,134,91,0,225
 Joe Donnelly,U.S. Senate,,D,Jefferson,4~1A,88,48,0,136
 Lucy M Brenton,U.S. Senate,,L,Jefferson,4~1A,10,0,0,10
@@ -160,7 +160,7 @@ John Perkins,State Senate,45,D,Jefferson,4~1A,74,39,0,113
 Charles Johnson,State Senate,45,L,Jefferson,4~1A,5,0,0,5
 Mike Bowling,State Representative,66,R,Jefferson,4~1A,124,74,0,198
 Terry Goodin,State Representative,66,D,Jefferson,4~1A,105,64,0,169
-,Ballots Cast,,,Jefferson,4~2,,,,138
+,Ballots Cast,,,Jefferson,4~2,138,63,0,201
 Mike Braun,U.S. Senate,,R,Jefferson,4~2,70,32,0,102
 Joe Donnelly,U.S. Senate,,D,Jefferson,4~2,57,27,0,84
 Lucy M Brenton,U.S. Senate,,L,Jefferson,4~2,9,2,0,11
@@ -183,7 +183,7 @@ John Perkins,State Senate,45,D,Jefferson,4~2,56,29,0,85
 Charles Johnson,State Senate,45,L,Jefferson,4~2,4,0,0,4
 Mike Bowling,State Representative,66,R,Jefferson,4~2,62,30,0,92
 Terry Goodin,State Representative,66,D,Jefferson,4~2,72,32,0,104
-,Ballots Cast,,,Jefferson,4~3,,,,300
+,Ballots Cast,,,Jefferson,4~3,300,139,0,439
 Mike Braun,U.S. Senate,,R,Jefferson,4~3,177,62,0,239
 Joe Donnelly,U.S. Senate,,D,Jefferson,4~3,89,63,0,152
 Lucy M Brenton,U.S. Senate,,L,Jefferson,4~3,23,5,0,28
@@ -206,7 +206,7 @@ John Perkins,State Senate,45,D,Jefferson,4~3,92,64,0,156
 Charles Johnson,State Senate,45,L,Jefferson,4~3,14,3,0,17
 Mike Bowling,State Representative,66,R,Jefferson,4~3,167,50,0,217
 Terry Goodin,State Representative,66,D,Jefferson,4~3,124,81,0,205
-,Ballots Cast,,,Jefferson,5~1,,,,347
+,Ballots Cast,,,Jefferson,5~1,347,142,0,489
 Mike Braun,U.S. Senate,,R,Jefferson,5~1,186,68,0,254
 Joe Donnelly,U.S. Senate,,D,Jefferson,5~1,128,65,0,193
 Lucy M Brenton,U.S. Senate,,L,Jefferson,5~1,24,5,0,29
@@ -229,7 +229,7 @@ John Perkins,State Senate,45,D,Jefferson,5~1,122,60,0,182
 Charles Johnson,State Senate,45,L,Jefferson,5~1,23,2,0,25
 Mike Bowling,State Representative,66,R,Jefferson,5~1,170,61,0,231
 Terry Goodin,State Representative,66,D,Jefferson,5~1,166,73,0,239
-,Ballots Cast,,,Jefferson,5~2,,,,332
+,Ballots Cast,,,Jefferson,5~2,332,131,0,463
 Mike Braun,U.S. Senate,,R,Jefferson,5~2,175,62,0,237
 Joe Donnelly,U.S. Senate,,D,Jefferson,5~2,127,58,0,185
 Lucy M Brenton,U.S. Senate,,L,Jefferson,5~2,26,6,0,32
@@ -252,7 +252,7 @@ John Perkins,State Senate,45,D,Jefferson,5~2,115,57,0,172
 Charles Johnson,State Senate,45,L,Jefferson,5~2,11,4,0,15
 Mike Bowling,State Representative,66,R,Jefferson,5~2,164,53,0,217
 Terry Goodin,State Representative,66,D,Jefferson,5~2,162,68,0,230
-,Ballots Cast,,,Jefferson,Graham ,,,,414
+,Ballots Cast,,,Jefferson,Graham ,414,80,0,494
 Mike Braun,U.S. Senate,,R,Jefferson,Graham ,258,32,0,290
 Joe Donnelly,U.S. Senate,,D,Jefferson,Graham ,119,46,0,165
 Lucy M Brenton,U.S. Senate,,L,Jefferson,Graham ,29,2,0,31
@@ -275,7 +275,7 @@ John Perkins,State Senate,45,D,Jefferson,Graham ,102,45,0,147
 Charles Johnson,State Senate,45,L,Jefferson,Graham ,19,0,0,19
 Jim Lucas,State Representative,69,R,Jefferson,Graham ,292,31,0,323
 Steve Schoettmer,State Representative,69,D,Jefferson,Graham ,112,47,0,159
-,Ballots Cast,,,Jefferson,Hanover 1,,,,261
+,Ballots Cast,,,Jefferson,Hanover 1,261,101,0,362
 Mike Braun,U.S. Senate,,R,Jefferson,Hanover 1,106,37,0,143
 Joe Donnelly,U.S. Senate,,D,Jefferson,Hanover 1,134,61,0,195
 Lucy M Brenton,U.S. Senate,,L,Jefferson,Hanover 1,17,2,0,19
@@ -298,7 +298,7 @@ John Perkins,State Senate,45,D,Jefferson,Hanover 1,143,62,0,205
 Charles Johnson,State Senate,45,L,Jefferson,Hanover 1,7,1,0,8
 Mike Bowling,State Representative,66,R,Jefferson,Hanover 1,93,30,0,123
 Terry Goodin,State Representative,66,D,Jefferson,Hanover 1,161,69,0,230
-,Ballots Cast,,,Jefferson,Hanover 2,,,,285
+,Ballots Cast,,,Jefferson,Hanover 2,285,138,0,423
 Mike Braun,U.S. Senate,,R,Jefferson,Hanover 2,184,83,0,267
 Joe Donnelly,U.S. Senate,,D,Jefferson,Hanover 2,84,46,0,130
 Lucy M Brenton,U.S. Senate,,L,Jefferson,Hanover 2,13,6,0,19
@@ -321,7 +321,7 @@ John Perkins,State Senate,45,D,Jefferson,Hanover 2,77,43,0,120
 Charles Johnson,State Senate,45,L,Jefferson,Hanover 2,11,2,0,13
 Mike Bowling,State Representative,66,R,Jefferson,Hanover 2,151,67,0,218
 Terry Goodin,State Representative,66,D,Jefferson,Hanover 2,127,70,0,197
-,Ballots Cast,,,Jefferson,Hanover 2A,,,,249
+,Ballots Cast,,,Jefferson,Hanover 2A,249,77,0,326
 Mike Braun,U.S. Senate,,R,Jefferson,Hanover 2A,145,51,0,196
 Joe Donnelly,U.S. Senate,,D,Jefferson,Hanover 2A,89,21,0,110
 Lucy M Brenton,U.S. Senate,,L,Jefferson,Hanover 2A,8,2,0,10
@@ -344,7 +344,7 @@ John Perkins,State Senate,45,D,Jefferson,Hanover 2A,73,22,0,95
 Charles Johnson,State Senate,45,L,Jefferson,Hanover 2A,9,1,0,10
 Mike Bowling,State Representative,66,R,Jefferson,Hanover 2A,142,44,0,186
 Terry Goodin,State Representative,66,D,Jefferson,Hanover 2A,102,32,0,134
-,Ballots Cast,,,Jefferson,Hanover 3,,,,265
+,Ballots Cast,,,Jefferson,Hanover 3,265,104,0,369
 Mike Braun,U.S. Senate,,R,Jefferson,Hanover 3,117,46,0,163
 Joe Donnelly,U.S. Senate,,D,Jefferson,Hanover 3,125,51,0,176
 Lucy M Brenton,U.S. Senate,,L,Jefferson,Hanover 3,18,5,0,23
@@ -367,7 +367,7 @@ John Perkins,State Senate,45,D,Jefferson,Hanover 3,112,54,0,166
 Charles Johnson,State Senate,45,L,Jefferson,Hanover 3,11,0,0,11
 Mike Bowling,State Representative,66,R,Jefferson,Hanover 3,114,43,0,157
 Terry Goodin,State Representative,66,D,Jefferson,Hanover 3,145,60,0,205
-,Ballots Cast,,,Jefferson,Lancaster,,,,455
+,Ballots Cast,,,Jefferson,Lancaster,455,90,0,545
 Mike Braun,U.S. Senate,,R,Jefferson,Lancaster,311,46,0,357
 Joe Donnelly,U.S. Senate,,D,Jefferson,Lancaster,115,38,0,153
 Lucy M Brenton,U.S. Senate,,L,Jefferson,Lancaster,22,3,0,25
@@ -390,7 +390,7 @@ John Perkins,State Senate,45,D,Jefferson,Lancaster,116,38,0,154
 Charles Johnson,State Senate,45,L,Jefferson,Lancaster,14,1,0,15
 Jim Lucas,State Representative,69,R,Jefferson,Lancaster,327,48,0,375
 Steve Schoettmer,State Representative,69,D,Jefferson,Lancaster,116,41,0,157
-,Ballots Cast,,,Jefferson,Madison 1,,,,490
+,Ballots Cast,,,Jefferson,Madison 1,490,181,0,671
 Mike Braun,U.S. Senate,,R,Jefferson,Madison 1,328,107,0,435
 Joe Donnelly,U.S. Senate,,D,Jefferson,Madison 1,120,65,0,185
 Lucy M Brenton,U.S. Senate,,L,Jefferson,Madison 1,29,5,0,34
@@ -413,7 +413,7 @@ John Perkins,State Senate,45,D,Jefferson,Madison 1,120,60,0,180
 Charles Johnson,State Senate,45,L,Jefferson,Madison 1,18,7,0,25
 Randy Frye,State Representative,67,R,Jefferson,Madison 1,357,114,0,471
 Cordelle Feuston,State Representative,67,D,Jefferson,Madison 1,110,60,0,170
-,Ballots Cast,,,Jefferson,Madison 2,,,,523
+,Ballots Cast,,,Jefferson,Madison 2,523,231,0,754
 Mike Braun,U.S. Senate,,R,Jefferson,Madison 2,314,125,0,439
 Joe Donnelly,U.S. Senate,,D,Jefferson,Madison 2,178,97,0,275
 Lucy M Brenton,U.S. Senate,,L,Jefferson,Madison 2,20,7,0,27
@@ -436,7 +436,7 @@ John Perkins,State Senate,45,D,Jefferson,Madison 2,173,85,0,258
 Charles Johnson,State Senate,45,L,Jefferson,Madison 2,100,6,0,16
 Mike Bowling,State Representative,66,R,Jefferson,Madison 2,276,117,0,393
 Terry Goodin,State Representative,66,D,Jefferson,Madison 2,229,107,0,336
-,Ballots Cast,,,Jefferson,Madison 3,,,,390
+,Ballots Cast,,,Jefferson,Madison 3,390,136,1,527
 Mike Braun,U.S. Senate,,R,Jefferson,Madison 3,229,69,0,298
 Joe Donnelly,U.S. Senate,,D,Jefferson,Madison 3,118,57,0,176
 Lucy M Brenton,U.S. Senate,,L,Jefferson,Madison 3,32,6,0,38
@@ -459,7 +459,7 @@ John Perkins,State Senate,45,D,Jefferson,Madison 3,112,60,1,173
 Charles Johnson,State Senate,45,L,Jefferson,Madison 3,18,2,0,20
 Randy Frye,State Representative,67,R,Jefferson,Madison 3,271,80,0,351
 Cordelle Feuston,State Representative,67,D,Jefferson,Madison 3,105,54,1,160
-,Ballots Cast,,,Jefferson,Milton,,,,276
+,Ballots Cast,,,Jefferson,Milton,276,68,1,345
 Mike Braun,U.S. Senate,,R,Jefferson,Milton,152,37,1,190
 Joe Donnelly,U.S. Senate,,D,Jefferson,Milton,100,24,0,124
 Lucy M Brenton,U.S. Senate,,L,Jefferson,Milton,15,5,0,20
@@ -482,7 +482,7 @@ John Perkins,State Senate,45,D,Jefferson,Milton,87,23,0,110
 Charles Johnson,State Senate,45,L,Jefferson,Milton,13,1,0,14
 Randy Frye,State Representative,67,R,Jefferson,Milton,181,44,1,226
 Cordelle Feuston,State Representative,67,D,Jefferson,Milton,84,23,0,107
-,Ballots Cast,,,Jefferson,Monroe,,,,109
+,Ballots Cast,,,Jefferson,Monroe,109,26,0,135
 Mike Braun,U.S. Senate,,R,Jefferson,Monroe,64,10,0,74
 Joe Donnelly,U.S. Senate,,D,Jefferson,Monroe,35,15,0,50
 Lucy M Brenton,U.S. Senate,,L,Jefferson,Monroe,8,1,0,9
@@ -505,7 +505,7 @@ John Perkins,State Senate,45,D,Jefferson,Monroe,34,14,0,48
 Charles Johnson,State Senate,45,L,Jefferson,Monroe,1,0,0,1
 Randy Frye,State Representative,67,R,Jefferson,Monroe,76,13,0,89
 Cordelle Feuston,State Representative,67,D,Jefferson,Monroe,29,12,0,41
-,Ballots Cast,,,Jefferson,Republican,,,,501
+,Ballots Cast,,,Jefferson,Republican,501,152,0,653
 Mike Braun,U.S. Senate,,R,Jefferson,Republican,308,86,0,394
 Joe Donnelly,U.S. Senate,,D,Jefferson,Republican,159,56,0,215
 Lucy M Brenton,U.S. Senate,,L,Jefferson,Republican,23,4,0,27
@@ -528,7 +528,7 @@ John Perkins,State Senate,45,D,Jefferson,Republican,160,55,0,215
 Charles Johnson,State Senate,45,L,Jefferson,Republican,16,3,0,19
 Jim Lucas,State Representative,69,R,Jefferson,Republican,334,88,0,422
 Steve Schoettmer,State Representative,69,D,Jefferson,Republican,157,56,0,213
-,Ballots Cast,,,Jefferson,Saluda,,,,387
+,Ballots Cast,,,Jefferson,Saluda,387,67,1,455
 Mike Braun,U.S. Senate,,R,Jefferson,Saluda,240,35,1,276
 Joe Donnelly,U.S. Senate,,D,Jefferson,Saluda,124,28,0,152
 Lucy M Brenton,U.S. Senate,,L,Jefferson,Saluda,15,2,0,17
@@ -551,7 +551,7 @@ John Perkins,State Senate,45,D,Jefferson,Saluda,116,23,0,139
 Charles Johnson,State Senate,45,L,Jefferson,Saluda,6,5,0,11
 Mike Bowling,State Representative,66,R,Jefferson,Saluda,206,26,1,233
 Terry Goodin,State Representative,66,D,Jefferson,Saluda,169,41,0,210
-,Ballots Cast,,,Jefferson,Shelby,,,,362
+,Ballots Cast,,,Jefferson,Shelby,362,81,0,443
 Mike Braun,U.S. Senate,,R,Jefferson,Shelby,254,42,0,296
 Joe Donnelly,U.S. Senate,,D,Jefferson,Shelby,80,30,0,110
 Lucy M Brenton,U.S. Senate,,L,Jefferson,Shelby,16,4,0,20
@@ -574,7 +574,7 @@ John Perkins,State Senate,45,D,Jefferson,Shelby,68,27,0,95
 Charles Johnson,State Senate,45,L,Jefferson,Shelby,9,1,0,10
 Randy Frye,State Representative,67,R,Jefferson,Shelby,284,50,0,334
 Cordelle Feuston,State Representative,67,D,Jefferson,Shelby,66,28,0,94
-,Ballots Cast,,,Jefferson,Smyrna,,,,327
+,Ballots Cast,,,Jefferson,Smyrna,327,76,0,403
 Mike Braun,U.S. Senate,,R,Jefferson,Smyrna,209,41,0,250
 Joe Donnelly,U.S. Senate,,D,Jefferson,Smyrna,88,32,0,120
 Lucy M Brenton,U.S. Senate,,L,Jefferson,Smyrna,24,2,0,26
@@ -597,95 +597,3 @@ John Perkins,State Senate,45,D,Jefferson,Smyrna,84,29,0,113
 Charles Johnson,State Senate,45,L,Jefferson,Smyrna,18,1,0,19
 Jim Lucas,State Representative,69,R,Jefferson,Smyrna,226,43,0,269
 Steve Schoettmer,State Representative,69,D,Jefferson,Smyrna,95,28,0,123
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,

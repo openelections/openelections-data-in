@@ -1,1262 +1,1444 @@
-county,precinct,office,district,party,candidate,votes
-Grant,Center  01,US Senate,,Rep,Mike Braun,123
-Grant,Center  02,US Senate,,Rep,Mike Braun,109
-Grant,Center  03,US Senate,,Rep,Mike Braun,31
-Grant,Center  04,US Senate,,Rep,Mike Braun,100
-Grant,Center  05,US Senate,,Rep,Mike Braun,94
-Grant,Center  06,US Senate,,Rep,Mike Braun,85
-Grant,Center  07,US Senate,,Rep,Mike Braun,99
-Grant,Center  08,US Senate,,Rep,Mike Braun,59
-Grant,Center  09,US Senate,,Rep,Mike Braun,69
-Grant,Center  10,US Senate,,Rep,Mike Braun,289
-Grant,Center  11,US Senate,,Rep,Mike Braun,225
-Grant,Center  12,US Senate,,Rep,Mike Braun,205
-Grant,Center  13,US Senate,,Rep,Mike Braun,150
-Grant,Center  14,US Senate,,Rep,Mike Braun,122
-Grant,Center  15,US Senate,,Rep,Mike Braun,182
-Grant,Center  16,US Senate,,Rep,Mike Braun,53
-Grant,Center  17,US Senate,,Rep,Mike Braun,209
-Grant,Center  18,US Senate,,Rep,Mike Braun,248
-Grant,Center  19,US Senate,,Rep,Mike Braun,165
-Grant,Center  20,US Senate,,Rep,Mike Braun,36
-Grant,Center  24,US Senate,,Rep,Mike Braun,26
-Grant,Paramount 1,US Senate,,Rep,Mike Braun,268
-Grant,Paramount 2,US Senate,,Rep,Mike Braun,248
-Grant,Paramount 3,US Senate,,Rep,Mike Braun,163
-Grant,Paramount 4,US Senate,,Rep,Mike Braun,157
-Grant,Franklin 1,US Senate,,Rep,Mike Braun,64
-Grant,Franklin 2,US Senate,,Rep,Mike Braun,153
-Grant,Franklin 3,US Senate,,Rep,Mike Braun,106
-Grant,Franklin 4,US Senate,,Rep,Mike Braun,245
-Grant,Franklin 5,US Senate,,Rep,Mike Braun,305
-Grant,Franklin 6,US Senate,,Rep,Mike Braun,84
-Grant,Franklin 7,US Senate,,Rep,Mike Braun,27
-Grant,Green,US Senate,,Rep,Mike Braun,130
-Grant,Jefferson 1,US Senate,,Rep,Mike Braun,411
-Grant,Jefferson 2,US Senate,,Rep,Mike Braun,404
-Grant,Jefferson 3,US Senate,,Rep,Mike Braun,221
-Grant,Liberty,US Senate,,Rep,Mike Braun,283
-Grant,Mill 01,US Senate,,Rep,Mike Braun,237
-Grant,Mill 02,US Senate,,Rep,Mike Braun,199
-Grant,Mill 03,US Senate,,Rep,Mike Braun,272
-Grant,Mill 04,US Senate,,Rep,Mike Braun,177
-Grant,Mill 05,US Senate,,Rep,Mike Braun,258
-Grant,Mill 06,US Senate,,Rep,Mike Braun,222
-Grant,Mill 07,US Senate,,Rep,Mike Braun,220
-Grant,Mill 08,US Senate,,Rep,Mike Braun,102
-Grant,Mill 09,US Senate,,Rep,Mike Braun,151
-Grant,Mill 10,US Senate,,Rep,Mike Braun,154
-Grant,Mill 11,US Senate,,Rep,Mike Braun,9
-Grant,Monroe,US Senate,,Rep,Mike Braun,487
-Grant,Pleasant 1,US Senate,,Rep,Mike Braun,463
-Grant,Pleasant 2,US Senate,,Rep,Mike Braun,326
-Grant,Pleasant 3,US Senate,,Rep,Mike Braun,343
-Grant,Pleasant 4,US Senate,,Rep,Mike Braun,222
-Grant,Pleasant 5,US Senate,,Rep,Mike Braun,166
-Grant,Pleasant 6,US Senate,,Rep,Mike Braun,224
-Grant,Pleasant 7,US Senate,,Rep,Mike Braun,165
-Grant,Richland,US Senate,,Rep,Mike Braun,255
-Grant,Sims,US Senate,,Rep,Mike Braun,487
-Grant,Van Buren,US Senate,,Rep,Mike Braun,430
-Grant,Washington 1,US Senate,,Rep,Mike Braun,188
-Grant,Washington 2,US Senate,,Rep,Mike Braun,134
-Grant,Washington 3,US Senate,,Rep,Mike Braun,353
-Grant,Washington 4,US Senate,,Rep,Mike Braun,201
-Grant,GRANT IN,US Senate,,Rep,Mike Braun,12393
-Grant,Center  01,US Senate,,Dem,Joe Donnelly,126
-Grant,Center  02,US Senate,,Dem,Joe Donnelly,117
-Grant,Center  03,US Senate,,Dem,Joe Donnelly,119
-Grant,Center  04,US Senate,,Dem,Joe Donnelly,102
-Grant,Center  05,US Senate,,Dem,Joe Donnelly,115
-Grant,Center  06,US Senate,,Dem,Joe Donnelly,134
-Grant,Center  07,US Senate,,Dem,Joe Donnelly,113
-Grant,Center  08,US Senate,,Dem,Joe Donnelly,213
-Grant,Center  09,US Senate,,Dem,Joe Donnelly,156
-Grant,Center  10,US Senate,,Dem,Joe Donnelly,110
-Grant,Center  11,US Senate,,Dem,Joe Donnelly,108
-Grant,Center  12,US Senate,,Dem,Joe Donnelly,143
-Grant,Center  13,US Senate,,Dem,Joe Donnelly,117
-Grant,Center  14,US Senate,,Dem,Joe Donnelly,71
-Grant,Center  15,US Senate,,Dem,Joe Donnelly,101
-Grant,Center  16,US Senate,,Dem,Joe Donnelly,119
-Grant,Center  17,US Senate,,Dem,Joe Donnelly,69
-Grant,Center  18,US Senate,,Dem,Joe Donnelly,107
-Grant,Center  19,US Senate,,Dem,Joe Donnelly,143
-Grant,Center  20,US Senate,,Dem,Joe Donnelly,22
-Grant,Center  24,US Senate,,Dem,Joe Donnelly,21
-Grant,Paramount 1,US Senate,,Dem,Joe Donnelly,130
-Grant,Paramount 2,US Senate,,Dem,Joe Donnelly,124
-Grant,Paramount 3,US Senate,,Dem,Joe Donnelly,65
-Grant,Paramount 4,US Senate,,Dem,Joe Donnelly,57
-Grant,Franklin 1,US Senate,,Dem,Joe Donnelly,59
-Grant,Franklin 2,US Senate,,Dem,Joe Donnelly,108
-Grant,Franklin 3,US Senate,,Dem,Joe Donnelly,105
-Grant,Franklin 4,US Senate,,Dem,Joe Donnelly,69
-Grant,Franklin 5,US Senate,,Dem,Joe Donnelly,149
-Grant,Franklin 6,US Senate,,Dem,Joe Donnelly,142
-Grant,Franklin 7,US Senate,,Dem,Joe Donnelly,30
-Grant,Green,US Senate,,Dem,Joe Donnelly,58
-Grant,Jefferson 1,US Senate,,Dem,Joe Donnelly,183
-Grant,Jefferson 2,US Senate,,Dem,Joe Donnelly,183
-Grant,Jefferson 3,US Senate,,Dem,Joe Donnelly,130
-Grant,Liberty,US Senate,,Dem,Joe Donnelly,85
-Grant,Mill 01,US Senate,,Dem,Joe Donnelly,147
-Grant,Mill 02,US Senate,,Dem,Joe Donnelly,135
-Grant,Mill 03,US Senate,,Dem,Joe Donnelly,108
-Grant,Mill 04,US Senate,,Dem,Joe Donnelly,91
-Grant,Mill 05,US Senate,,Dem,Joe Donnelly,89
-Grant,Mill 06,US Senate,,Dem,Joe Donnelly,144
-Grant,Mill 07,US Senate,,Dem,Joe Donnelly,97
-Grant,Mill 08,US Senate,,Dem,Joe Donnelly,53
-Grant,Mill 09,US Senate,,Dem,Joe Donnelly,81
-Grant,Mill 10,US Senate,,Dem,Joe Donnelly,78
-Grant,Mill 11,US Senate,,Dem,Joe Donnelly,9
-Grant,Monroe,US Senate,,Dem,Joe Donnelly,147
-Grant,Pleasant 1,US Senate,,Dem,Joe Donnelly,146
-Grant,Pleasant 2,US Senate,,Dem,Joe Donnelly,93
-Grant,Pleasant 3,US Senate,,Dem,Joe Donnelly,165
-Grant,Pleasant 4,US Senate,,Dem,Joe Donnelly,96
-Grant,Pleasant 5,US Senate,,Dem,Joe Donnelly,112
-Grant,Pleasant 6,US Senate,,Dem,Joe Donnelly,107
-Grant,Pleasant 7,US Senate,,Dem,Joe Donnelly,97
-Grant,Richland,US Senate,,Dem,Joe Donnelly,63
-Grant,Sims,US Senate,,Dem,Joe Donnelly,182
-Grant,Van Buren,US Senate,,Dem,Joe Donnelly,150
-Grant,Washington 1,US Senate,,Dem,Joe Donnelly,47
-Grant,Washington 2,US Senate,,Dem,Joe Donnelly,90
-Grant,Washington 3,US Senate,,Dem,Joe Donnelly,147
-Grant,Washington 4,US Senate,,Dem,Joe Donnelly,68
-Grant,GRANT IN,US Senate,,Dem,Joe Donnelly,6745
-Grant,Center  01,US Senate,,Lbt,Lucy Brenton,17
-Grant,Center  02,US Senate,,Lbt,Lucy Brenton,12
-Grant,Center  03,US Senate,,Lbt,Lucy Brenton,6
-Grant,Center  04,US Senate,,Lbt,Lucy Brenton,22
-Grant,Center  05,US Senate,,Lbt,Lucy Brenton,16
-Grant,Center  06,US Senate,,Lbt,Lucy Brenton,12
-Grant,Center  07,US Senate,,Lbt,Lucy Brenton,12
-Grant,Center  08,US Senate,,Lbt,Lucy Brenton,12
-Grant,Center  09,US Senate,,Lbt,Lucy Brenton,8
-Grant,Center  10,US Senate,,Lbt,Lucy Brenton,16
-Grant,Center  11,US Senate,,Lbt,Lucy Brenton,15
-Grant,Center  12,US Senate,,Lbt,Lucy Brenton,17
-Grant,Center  13,US Senate,,Lbt,Lucy Brenton,15
-Grant,Center  14,US Senate,,Lbt,Lucy Brenton,11
-Grant,Center  15,US Senate,,Lbt,Lucy Brenton,11
-Grant,Center  16,US Senate,,Lbt,Lucy Brenton,12
-Grant,Center  17,US Senate,,Lbt,Lucy Brenton,14
-Grant,Center  18,US Senate,,Lbt,Lucy Brenton,10
-Grant,Center  19,US Senate,,Lbt,Lucy Brenton,18
-Grant,Center  20,US Senate,,Lbt,Lucy Brenton,1
-Grant,Center  24,US Senate,,Lbt,Lucy Brenton,0
-Grant,Paramount 1,US Senate,,Lbt,Lucy Brenton,17
-Grant,Paramount 2,US Senate,,Lbt,Lucy Brenton,21
-Grant,Paramount 3,US Senate,,Lbt,Lucy Brenton,14
-Grant,Paramount 4,US Senate,,Lbt,Lucy Brenton,8
-Grant,Franklin 1,US Senate,,Lbt,Lucy Brenton,5
-Grant,Franklin 2,US Senate,,Lbt,Lucy Brenton,10
-Grant,Franklin 3,US Senate,,Lbt,Lucy Brenton,15
-Grant,Franklin 4,US Senate,,Lbt,Lucy Brenton,13
-Grant,Franklin 5,US Senate,,Lbt,Lucy Brenton,25
-Grant,Franklin 6,US Senate,,Lbt,Lucy Brenton,8
-Grant,Franklin 7,US Senate,,Lbt,Lucy Brenton,6
-Grant,Green,US Senate,,Lbt,Lucy Brenton,4
-Grant,Jefferson 1,US Senate,,Lbt,Lucy Brenton,22
-Grant,Jefferson 2,US Senate,,Lbt,Lucy Brenton,31
-Grant,Jefferson 3,US Senate,,Lbt,Lucy Brenton,19
-Grant,Liberty,US Senate,,Lbt,Lucy Brenton,19
-Grant,Mill 01,US Senate,,Lbt,Lucy Brenton,11
-Grant,Mill 02,US Senate,,Lbt,Lucy Brenton,21
-Grant,Mill 03,US Senate,,Lbt,Lucy Brenton,10
-Grant,Mill 04,US Senate,,Lbt,Lucy Brenton,26
-Grant,Mill 05,US Senate,,Lbt,Lucy Brenton,18
-Grant,Mill 06,US Senate,,Lbt,Lucy Brenton,28
-Grant,Mill 07,US Senate,,Lbt,Lucy Brenton,22
-Grant,Mill 08,US Senate,,Lbt,Lucy Brenton,13
-Grant,Mill 09,US Senate,,Lbt,Lucy Brenton,9
-Grant,Mill 10,US Senate,,Lbt,Lucy Brenton,8
-Grant,Mill 11,US Senate,,Lbt,Lucy Brenton,0
-Grant,Monroe,US Senate,,Lbt,Lucy Brenton,17
-Grant,Pleasant 1,US Senate,,Lbt,Lucy Brenton,30
-Grant,Pleasant 2,US Senate,,Lbt,Lucy Brenton,18
-Grant,Pleasant 3,US Senate,,Lbt,Lucy Brenton,17
-Grant,Pleasant 4,US Senate,,Lbt,Lucy Brenton,9
-Grant,Pleasant 5,US Senate,,Lbt,Lucy Brenton,14
-Grant,Pleasant 6,US Senate,,Lbt,Lucy Brenton,17
-Grant,Pleasant 7,US Senate,,Lbt,Lucy Brenton,15
-Grant,Richland,US Senate,,Lbt,Lucy Brenton,16
-Grant,Sims,US Senate,,Lbt,Lucy Brenton,29
-Grant,Van Buren,US Senate,,Lbt,Lucy Brenton,26
-Grant,Washington 1,US Senate,,Lbt,Lucy Brenton,3
-Grant,Washington 2,US Senate,,Lbt,Lucy Brenton,13
-Grant,Washington 3,US Senate,,Lbt,Lucy Brenton,28
-Grant,Washington 4,US Senate,,Lbt,Lucy Brenton,17
-Grant,GRANT IN,US Senate,,Lbt,Lucy Brenton,929
-Grant,Center  01,US Senate,,,write-in,0
-Grant,Center  02,US Senate,,,write-in,0
-Grant,Center  03,US Senate,,,write-in,0
-Grant,Center  04,US Senate,,,write-in,0
-Grant,Center  05,US Senate,,,write-in,0
-Grant,Center  06,US Senate,,,write-in,0
-Grant,Center  07,US Senate,,,write-in,0
-Grant,Center  08,US Senate,,,write-in,0
-Grant,Center  09,US Senate,,,write-in,0
-Grant,Center  10,US Senate,,,write-in,0
-Grant,Center  11,US Senate,,,write-in,1
-Grant,Center  12,US Senate,,,write-in,0
-Grant,Center  13,US Senate,,,write-in,0
-Grant,Center  14,US Senate,,,write-in,0
-Grant,Center  15,US Senate,,,write-in,0
-Grant,Center  16,US Senate,,,write-in,1
-Grant,Center  17,US Senate,,,write-in,0
-Grant,Center  18,US Senate,,,write-in,0
-Grant,Center  19,US Senate,,,write-in,0
-Grant,Center  20,US Senate,,,write-in,0
-Grant,Center  24,US Senate,,,write-in,0
-Grant,Paramount 1,US Senate,,,write-in,0
-Grant,Paramount 2,US Senate,,,write-in,0
-Grant,Paramount 3,US Senate,,,write-in,0
-Grant,Paramount 4,US Senate,,,write-in,0
-Grant,Franklin 1,US Senate,,,write-in,0
-Grant,Franklin 2,US Senate,,,write-in,1
-Grant,Franklin 3,US Senate,,,write-in,0
-Grant,Franklin 4,US Senate,,,write-in,0
-Grant,Franklin 5,US Senate,,,write-in,0
-Grant,Franklin 6,US Senate,,,write-in,1
-Grant,Franklin 7,US Senate,,,write-in,0
-Grant,Green,US Senate,,,write-in,0
-Grant,Jefferson 1,US Senate,,,write-in,0
-Grant,Jefferson 2,US Senate,,,write-in,0
-Grant,Jefferson 3,US Senate,,,write-in,0
-Grant,Liberty,US Senate,,,write-in,0
-Grant,Mill 01,US Senate,,,write-in,0
-Grant,Mill 02,US Senate,,,write-in,1
-Grant,Mill 03,US Senate,,,write-in,0
-Grant,Mill 04,US Senate,,,write-in,0
-Grant,Mill 05,US Senate,,,write-in,0
-Grant,Mill 06,US Senate,,,write-in,0
-Grant,Mill 07,US Senate,,,write-in,0
-Grant,Mill 08,US Senate,,,write-in,0
-Grant,Mill 09,US Senate,,,write-in,0
-Grant,Mill 10,US Senate,,,write-in,0
-Grant,Mill 11,US Senate,,,write-in,0
-Grant,Monroe,US Senate,,,write-in,0
-Grant,Pleasant 1,US Senate,,,write-in,0
-Grant,Pleasant 2,US Senate,,,write-in,0
-Grant,Pleasant 3,US Senate,,,write-in,0
-Grant,Pleasant 4,US Senate,,,write-in,0
-Grant,Pleasant 5,US Senate,,,write-in,0
-Grant,Pleasant 6,US Senate,,,write-in,0
-Grant,Pleasant 7,US Senate,,,write-in,0
-Grant,Richland,US Senate,,,write-in,0
-Grant,Sims,US Senate,,,write-in,1
-Grant,Van Buren,US Senate,,,write-in,0
-Grant,Washington 1,US Senate,,,write-in,1
-Grant,Washington 2,US Senate,,,write-in,0
-Grant,Washington 3,US Senate,,,write-in,0
-Grant,Washington 4,US Senate,,,write-in,0
-Grant,GRANT IN,US Senate,,,write-in,7
-Grant,Center  01,Secretary of State,,Rep,Connie Lawson,139
-Grant,Center  02,Secretary of State,,Rep,Connie Lawson,124
-Grant,Center  03,Secretary of State,,Rep,Connie Lawson,34
-Grant,Center  04,Secretary of State,,Rep,Connie Lawson,108
-Grant,Center  05,Secretary of State,,Rep,Connie Lawson,110
-Grant,Center  06,Secretary of State,,Rep,Connie Lawson,91
-Grant,Center  07,Secretary of State,,Rep,Connie Lawson,109
-Grant,Center  08,Secretary of State,,Rep,Connie Lawson,72
-Grant,Center  09,Secretary of State,,Rep,Connie Lawson,79
-Grant,Center  10,Secretary of State,,Rep,Connie Lawson,310
-Grant,Center  11,Secretary of State,,Rep,Connie Lawson,243
-Grant,Center  12,Secretary of State,,Rep,Connie Lawson,223
-Grant,Center  13,Secretary of State,,Rep,Connie Lawson,160
-Grant,Center  14,Secretary of State,,Rep,Connie Lawson,135
-Grant,Center  15,Secretary of State,,Rep,Connie Lawson,201
-Grant,Center  16,Secretary of State,,Rep,Connie Lawson,62
-Grant,Center  17,Secretary of State,,Rep,Connie Lawson,225
-Grant,Center  18,Secretary of State,,Rep,Connie Lawson,273
-Grant,Center  19,Secretary of State,,Rep,Connie Lawson,203
-Grant,Center  20,Secretary of State,,Rep,Connie Lawson,36
-Grant,Center  24,Secretary of State,,Rep,Connie Lawson,33
-Grant,Paramount 1,Secretary of State,,Rep,Connie Lawson,286
-Grant,Paramount 2,Secretary of State,,Rep,Connie Lawson,294
-Grant,Paramount 3,Secretary of State,,Rep,Connie Lawson,178
-Grant,Paramount 4,Secretary of State,,Rep,Connie Lawson,168
-Grant,Franklin 1,Secretary of State,,Rep,Connie Lawson,67
-Grant,Franklin 2,Secretary of State,,Rep,Connie Lawson,167
-Grant,Franklin 3,Secretary of State,,Rep,Connie Lawson,126
-Grant,Franklin 4,Secretary of State,,Rep,Connie Lawson,263
-Grant,Franklin 5,Secretary of State,,Rep,Connie Lawson,330
-Grant,Franklin 6,Secretary of State,,Rep,Connie Lawson,103
-Grant,Franklin 7,Secretary of State,,Rep,Connie Lawson,33
-Grant,Green,Secretary of State,,Rep,Connie Lawson,141
-Grant,Jefferson 1,Secretary of State,,Rep,Connie Lawson,461
-Grant,Jefferson 2,Secretary of State,,Rep,Connie Lawson,434
-Grant,Jefferson 3,Secretary of State,,Rep,Connie Lawson,255
-Grant,Liberty,Secretary of State,,Rep,Connie Lawson,307
-Grant,Mill 01,Secretary of State,,Rep,Connie Lawson,257
-Grant,Mill 02,Secretary of State,,Rep,Connie Lawson,232
-Grant,Mill 03,Secretary of State,,Rep,Connie Lawson,282
-Grant,Mill 04,Secretary of State,,Rep,Connie Lawson,210
-Grant,Mill 05,Secretary of State,,Rep,Connie Lawson,275
-Grant,Mill 06,Secretary of State,,Rep,Connie Lawson,259
-Grant,Mill 07,Secretary of State,,Rep,Connie Lawson,249
-Grant,Mill 08,Secretary of State,,Rep,Connie Lawson,113
-Grant,Mill 09,Secretary of State,,Rep,Connie Lawson,164
-Grant,Mill 10,Secretary of State,,Rep,Connie Lawson,165
-Grant,Mill 11,Secretary of State,,Rep,Connie Lawson,9
-Grant,Monroe,Secretary of State,,Rep,Connie Lawson,502
-Grant,Pleasant 1,Secretary of State,,Rep,Connie Lawson,493
-Grant,Pleasant 2,Secretary of State,,Rep,Connie Lawson,345
-Grant,Pleasant 3,Secretary of State,,Rep,Connie Lawson,369
-Grant,Pleasant 4,Secretary of State,,Rep,Connie Lawson,237
-Grant,Pleasant 5,Secretary of State,,Rep,Connie Lawson,184
-Grant,Pleasant 6,Secretary of State,,Rep,Connie Lawson,246
-Grant,Pleasant 7,Secretary of State,,Rep,Connie Lawson,191
-Grant,Richland,Secretary of State,,Rep,Connie Lawson,265
-Grant,Sims,Secretary of State,,Rep,Connie Lawson,522
-Grant,Van Buren,Secretary of State,,Rep,Connie Lawson,467
-Grant,Washington 1,Secretary of State,,Rep,Connie Lawson,200
-Grant,Washington 2,Secretary of State,,Rep,Connie Lawson,163
-Grant,Washington 3,Secretary of State,,Rep,Connie Lawson,390
-Grant,Washington 4,Secretary of State,,Rep,Connie Lawson,214
-Grant,GRANT IN,Secretary of State,,Rep,Connie Lawson,13586
-Grant,Center  01,Secretary of State,,Dem,Jim Harper,111
-Grant,Center  02,Secretary of State,,Dem,Jim Harper,95
-Grant,Center  03,Secretary of State,,Dem,Jim Harper,111
-Grant,Center  04,Secretary of State,,Dem,Jim Harper,94
-Grant,Center  05,Secretary of State,,Dem,Jim Harper,104
-Grant,Center  06,Secretary of State,,Dem,Jim Harper,123
-Grant,Center  07,Secretary of State,,Dem,Jim Harper,102
-Grant,Center  08,Secretary of State,,Dem,Jim Harper,201
-Grant,Center  09,Secretary of State,,Dem,Jim Harper,143
-Grant,Center  10,Secretary of State,,Dem,Jim Harper,96
-Grant,Center  11,Secretary of State,,Dem,Jim Harper,94
-Grant,Center  12,Secretary of State,,Dem,Jim Harper,131
-Grant,Center  13,Secretary of State,,Dem,Jim Harper,113
-Grant,Center  14,Secretary of State,,Dem,Jim Harper,57
-Grant,Center  15,Secretary of State,,Dem,Jim Harper,86
-Grant,Center  16,Secretary of State,,Dem,Jim Harper,113
-Grant,Center  17,Secretary of State,,Dem,Jim Harper,59
-Grant,Center  18,Secretary of State,,Dem,Jim Harper,81
-Grant,Center  19,Secretary of State,,Dem,Jim Harper,109
-Grant,Center  20,Secretary of State,,Dem,Jim Harper,22
-Grant,Center  24,Secretary of State,,Dem,Jim Harper,13
-Grant,Paramount 1,Secretary of State,,Dem,Jim Harper,111
-Grant,Paramount 2,Secretary of State,,Dem,Jim Harper,93
-Grant,Paramount 3,Secretary of State,,Dem,Jim Harper,51
-Grant,Paramount 4,Secretary of State,,Dem,Jim Harper,46
-Grant,Franklin 1,Secretary of State,,Dem,Jim Harper,53
-Grant,Franklin 2,Secretary of State,,Dem,Jim Harper,95
-Grant,Franklin 3,Secretary of State,,Dem,Jim Harper,93
-Grant,Franklin 4,Secretary of State,,Dem,Jim Harper,50
-Grant,Franklin 5,Secretary of State,,Dem,Jim Harper,125
-Grant,Franklin 6,Secretary of State,,Dem,Jim Harper,129
-Grant,Franklin 7,Secretary of State,,Dem,Jim Harper,27
-Grant,Green,Secretary of State,,Dem,Jim Harper,51
-Grant,Jefferson 1,Secretary of State,,Dem,Jim Harper,140
-Grant,Jefferson 2,Secretary of State,,Dem,Jim Harper,163
-Grant,Jefferson 3,Secretary of State,,Dem,Jim Harper,97
-Grant,Liberty,Secretary of State,,Dem,Jim Harper,71
-Grant,Mill 01,Secretary of State,,Dem,Jim Harper,132
-Grant,Mill 02,Secretary of State,,Dem,Jim Harper,117
-Grant,Mill 03,Secretary of State,,Dem,Jim Harper,96
-Grant,Mill 04,Secretary of State,,Dem,Jim Harper,72
-Grant,Mill 05,Secretary of State,,Dem,Jim Harper,78
-Grant,Mill 06,Secretary of State,,Dem,Jim Harper,127
-Grant,Mill 07,Secretary of State,,Dem,Jim Harper,78
-Grant,Mill 08,Secretary of State,,Dem,Jim Harper,46
-Grant,Mill 09,Secretary of State,,Dem,Jim Harper,74
-Grant,Mill 10,Secretary of State,,Dem,Jim Harper,71
-Grant,Mill 11,Secretary of State,,Dem,Jim Harper,9
-Grant,Monroe,Secretary of State,,Dem,Jim Harper,129
-Grant,Pleasant 1,Secretary of State,,Dem,Jim Harper,119
-Grant,Pleasant 2,Secretary of State,,Dem,Jim Harper,79
-Grant,Pleasant 3,Secretary of State,,Dem,Jim Harper,144
-Grant,Pleasant 4,Secretary of State,,Dem,Jim Harper,73
-Grant,Pleasant 5,Secretary of State,,Dem,Jim Harper,101
-Grant,Pleasant 6,Secretary of State,,Dem,Jim Harper,86
-Grant,Pleasant 7,Secretary of State,,Dem,Jim Harper,74
-Grant,Richland,Secretary of State,,Dem,Jim Harper,56
-Grant,Sims,Secretary of State,,Dem,Jim Harper,153
-Grant,Van Buren,Secretary of State,,Dem,Jim Harper,121
-Grant,Washington 1,Secretary of State,,Dem,Jim Harper,33
-Grant,Washington 2,Secretary of State,,Dem,Jim Harper,64
-Grant,Washington 3,Secretary of State,,Dem,Jim Harper,121
-Grant,Washington 4,Secretary of State,,Dem,Jim Harper,59
-Grant,GRANT IN,Secretary of State,,Dem,Jim Harper,5765
-Grant,Center  01,Secretary of State,,Lbt,Mark Rutherford,14
-Grant,Center  02,Secretary of State,,Lbt,Mark Rutherford,16
-Grant,Center  03,Secretary of State,,Lbt,Mark Rutherford,9
-Grant,Center  04,Secretary of State,,Lbt,Mark Rutherford,16
-Grant,Center  05,Secretary of State,,Lbt,Mark Rutherford,9
-Grant,Center  06,Secretary of State,,Lbt,Mark Rutherford,11
-Grant,Center  07,Secretary of State,,Lbt,Mark Rutherford,9
-Grant,Center  08,Secretary of State,,Lbt,Mark Rutherford,8
-Grant,Center  09,Secretary of State,,Lbt,Mark Rutherford,4
-Grant,Center  10,Secretary of State,,Lbt,Mark Rutherford,9
-Grant,Center  11,Secretary of State,,Lbt,Mark Rutherford,10
-Grant,Center  12,Secretary of State,,Lbt,Mark Rutherford,10
-Grant,Center  13,Secretary of State,,Lbt,Mark Rutherford,7
-Grant,Center  14,Secretary of State,,Lbt,Mark Rutherford,10
-Grant,Center  15,Secretary of State,,Lbt,Mark Rutherford,5
-Grant,Center  16,Secretary of State,,Lbt,Mark Rutherford,6
-Grant,Center  17,Secretary of State,,Lbt,Mark Rutherford,8
-Grant,Center  18,Secretary of State,,Lbt,Mark Rutherford,6
-Grant,Center  19,Secretary of State,,Lbt,Mark Rutherford,9
-Grant,Center  20,Secretary of State,,Lbt,Mark Rutherford,0
-Grant,Center  24,Secretary of State,,Lbt,Mark Rutherford,0
-Grant,Paramount 1,Secretary of State,,Lbt,Mark Rutherford,18
-Grant,Paramount 2,Secretary of State,,Lbt,Mark Rutherford,9
-Grant,Paramount 3,Secretary of State,,Lbt,Mark Rutherford,10
-Grant,Paramount 4,Secretary of State,,Lbt,Mark Rutherford,6
-Grant,Franklin 1,Secretary of State,,Lbt,Mark Rutherford,6
-Grant,Franklin 2,Secretary of State,,Lbt,Mark Rutherford,7
-Grant,Franklin 3,Secretary of State,,Lbt,Mark Rutherford,9
-Grant,Franklin 4,Secretary of State,,Lbt,Mark Rutherford,6
-Grant,Franklin 5,Secretary of State,,Lbt,Mark Rutherford,22
-Grant,Franklin 6,Secretary of State,,Lbt,Mark Rutherford,2
-Grant,Franklin 7,Secretary of State,,Lbt,Mark Rutherford,3
-Grant,Green,Secretary of State,,Lbt,Mark Rutherford,1
-Grant,Jefferson 1,Secretary of State,,Lbt,Mark Rutherford,12
-Grant,Jefferson 2,Secretary of State,,Lbt,Mark Rutherford,17
-Grant,Jefferson 3,Secretary of State,,Lbt,Mark Rutherford,10
-Grant,Liberty,Secretary of State,,Lbt,Mark Rutherford,7
-Grant,Mill 01,Secretary of State,,Lbt,Mark Rutherford,5
-Grant,Mill 02,Secretary of State,,Lbt,Mark Rutherford,7
-Grant,Mill 03,Secretary of State,,Lbt,Mark Rutherford,10
-Grant,Mill 04,Secretary of State,,Lbt,Mark Rutherford,10
-Grant,Mill 05,Secretary of State,,Lbt,Mark Rutherford,10
-Grant,Mill 06,Secretary of State,,Lbt,Mark Rutherford,10
-Grant,Mill 07,Secretary of State,,Lbt,Mark Rutherford,12
-Grant,Mill 08,Secretary of State,,Lbt,Mark Rutherford,11
-Grant,Mill 09,Secretary of State,,Lbt,Mark Rutherford,2
-Grant,Mill 10,Secretary of State,,Lbt,Mark Rutherford,3
-Grant,Mill 11,Secretary of State,,Lbt,Mark Rutherford,0
-Grant,Monroe,Secretary of State,,Lbt,Mark Rutherford,18
-Grant,Pleasant 1,Secretary of State,,Lbt,Mark Rutherford,17
-Grant,Pleasant 2,Secretary of State,,Lbt,Mark Rutherford,14
-Grant,Pleasant 3,Secretary of State,,Lbt,Mark Rutherford,9
-Grant,Pleasant 4,Secretary of State,,Lbt,Mark Rutherford,14
-Grant,Pleasant 5,Secretary of State,,Lbt,Mark Rutherford,6
-Grant,Pleasant 6,Secretary of State,,Lbt,Mark Rutherford,10
-Grant,Pleasant 7,Secretary of State,,Lbt,Mark Rutherford,5
-Grant,Richland,Secretary of State,,Lbt,Mark Rutherford,10
-Grant,Sims,Secretary of State,,Lbt,Mark Rutherford,21
-Grant,Van Buren,Secretary of State,,Lbt,Mark Rutherford,16
-Grant,Washington 1,Secretary of State,,Lbt,Mark Rutherford,2
-Grant,Washington 2,Secretary of State,,Lbt,Mark Rutherford,8
-Grant,Washington 3,Secretary of State,,Lbt,Mark Rutherford,13
-Grant,Washington 4,Secretary of State,,Lbt,Mark Rutherford,11
-Grant,GRANT IN,Secretary of State,,Lbt,Mark Rutherford,575
-Grant,Center  01,Secretary of State,,,write-in,0
-Grant,Center  02,Secretary of State,,,write-in,0
-Grant,Center  03,Secretary of State,,,write-in,0
-Grant,Center  04,Secretary of State,,,write-in,0
-Grant,Center  05,Secretary of State,,,write-in,0
-Grant,Center  06,Secretary of State,,,write-in,0
-Grant,Center  07,Secretary of State,,,write-in,0
-Grant,Center  08,Secretary of State,,,write-in,0
-Grant,Center  09,Secretary of State,,,write-in,0
-Grant,Center  10,Secretary of State,,,write-in,0
-Grant,Center  11,Secretary of State,,,write-in,0
-Grant,Center  12,Secretary of State,,,write-in,0
-Grant,Center  13,Secretary of State,,,write-in,0
-Grant,Center  14,Secretary of State,,,write-in,1
-Grant,Center  15,Secretary of State,,,write-in,0
-Grant,Center  16,Secretary of State,,,write-in,0
-Grant,Center  17,Secretary of State,,,write-in,0
-Grant,Center  18,Secretary of State,,,write-in,0
-Grant,Center  19,Secretary of State,,,write-in,0
-Grant,Center  20,Secretary of State,,,write-in,0
-Grant,Center  24,Secretary of State,,,write-in,0
-Grant,Paramount 1,Secretary of State,,,write-in,0
-Grant,Paramount 2,Secretary of State,,,write-in,1
-Grant,Paramount 3,Secretary of State,,,write-in,0
-Grant,Paramount 4,Secretary of State,,,write-in,0
-Grant,Franklin 1,Secretary of State,,,write-in,0
-Grant,Franklin 2,Secretary of State,,,write-in,0
-Grant,Franklin 3,Secretary of State,,,write-in,0
-Grant,Franklin 4,Secretary of State,,,write-in,1
-Grant,Franklin 5,Secretary of State,,,write-in,0
-Grant,Franklin 6,Secretary of State,,,write-in,0
-Grant,Franklin 7,Secretary of State,,,write-in,0
-Grant,Green,Secretary of State,,,write-in,0
-Grant,Jefferson 1,Secretary of State,,,write-in,0
-Grant,Jefferson 2,Secretary of State,,,write-in,0
-Grant,Jefferson 3,Secretary of State,,,write-in,0
-Grant,Liberty,Secretary of State,,,write-in,0
-Grant,Mill 01,Secretary of State,,,write-in,0
-Grant,Mill 02,Secretary of State,,,write-in,0
-Grant,Mill 03,Secretary of State,,,write-in,0
-Grant,Mill 04,Secretary of State,,,write-in,1
-Grant,Mill 05,Secretary of State,,,write-in,0
-Grant,Mill 06,Secretary of State,,,write-in,0
-Grant,Mill 07,Secretary of State,,,write-in,0
-Grant,Mill 08,Secretary of State,,,write-in,0
-Grant,Mill 09,Secretary of State,,,write-in,0
-Grant,Mill 10,Secretary of State,,,write-in,1
-Grant,Mill 11,Secretary of State,,,write-in,0
-Grant,Monroe,Secretary of State,,,write-in,0
-Grant,Pleasant 1,Secretary of State,,,write-in,0
-Grant,Pleasant 2,Secretary of State,,,write-in,0
-Grant,Pleasant 3,Secretary of State,,,write-in,0
-Grant,Pleasant 4,Secretary of State,,,write-in,0
-Grant,Pleasant 5,Secretary of State,,,write-in,0
-Grant,Pleasant 6,Secretary of State,,,write-in,0
-Grant,Pleasant 7,Secretary of State,,,write-in,0
-Grant,Richland,Secretary of State,,,write-in,0
-Grant,Sims,Secretary of State,,,write-in,0
-Grant,Van Buren,Secretary of State,,,write-in,0
-Grant,Washington 1,Secretary of State,,,write-in,0
-Grant,Washington 2,Secretary of State,,,write-in,0
-Grant,Washington 3,Secretary of State,,,write-in,0
-Grant,Washington 4,Secretary of State,,,write-in,0
-Grant,GRANT IN,Secretary of State,,,write-in,5
-Grant,Center  01,Auditor,,Rep,Tera Klutz,125
-Grant,Center  02,Auditor,,Rep,Tera Klutz,112
-Grant,Center  03,Auditor,,Rep,Tera Klutz,28
-Grant,Center  04,Auditor,,Rep,Tera Klutz,101
-Grant,Center  05,Auditor,,Rep,Tera Klutz,94
-Grant,Center  06,Auditor,,Rep,Tera Klutz,83
-Grant,Center  07,Auditor,,Rep,Tera Klutz,97
-Grant,Center  08,Auditor,,Rep,Tera Klutz,63
-Grant,Center  09,Auditor,,Rep,Tera Klutz,65
-Grant,Center  10,Auditor,,Rep,Tera Klutz,294
-Grant,Center  11,Auditor,,Rep,Tera Klutz,228
-Grant,Center  12,Auditor,,Rep,Tera Klutz,205
-Grant,Center  13,Auditor,,Rep,Tera Klutz,143
-Grant,Center  14,Auditor,,Rep,Tera Klutz,125
-Grant,Center  15,Auditor,,Rep,Tera Klutz,180
-Grant,Center  16,Auditor,,Rep,Tera Klutz,51
-Grant,Center  17,Auditor,,Rep,Tera Klutz,217
-Grant,Center  18,Auditor,,Rep,Tera Klutz,241
-Grant,Center  19,Auditor,,Rep,Tera Klutz,190
-Grant,Center  20,Auditor,,Rep,Tera Klutz,34
-Grant,Center  24,Auditor,,Rep,Tera Klutz,35
-Grant,Paramount 1,Auditor,,Rep,Tera Klutz,277
-Grant,Paramount 2,Auditor,,Rep,Tera Klutz,276
-Grant,Paramount 3,Auditor,,Rep,Tera Klutz,173
-Grant,Paramount 4,Auditor,,Rep,Tera Klutz,158
-Grant,Franklin 1,Auditor,,Rep,Tera Klutz,61
-Grant,Franklin 2,Auditor,,Rep,Tera Klutz,152
-Grant,Franklin 3,Auditor,,Rep,Tera Klutz,109
-Grant,Franklin 4,Auditor,,Rep,Tera Klutz,250
-Grant,Franklin 5,Auditor,,Rep,Tera Klutz,308
-Grant,Franklin 6,Auditor,,Rep,Tera Klutz,87
-Grant,Franklin 7,Auditor,,Rep,Tera Klutz,31
-Grant,Green,Auditor,,Rep,Tera Klutz,137
-Grant,Jefferson 1,Auditor,,Rep,Tera Klutz,434
-Grant,Jefferson 2,Auditor,,Rep,Tera Klutz,420
-Grant,Jefferson 3,Auditor,,Rep,Tera Klutz,262
-Grant,Liberty,Auditor,,Rep,Tera Klutz,297
-Grant,Mill 01,Auditor,,Rep,Tera Klutz,247
-Grant,Mill 02,Auditor,,Rep,Tera Klutz,209
-Grant,Mill 03,Auditor,,Rep,Tera Klutz,277
-Grant,Mill 04,Auditor,,Rep,Tera Klutz,192
-Grant,Mill 05,Auditor,,Rep,Tera Klutz,270
-Grant,Mill 06,Auditor,,Rep,Tera Klutz,236
-Grant,Mill 07,Auditor,,Rep,Tera Klutz,237
-Grant,Mill 08,Auditor,,Rep,Tera Klutz,105
-Grant,Mill 09,Auditor,,Rep,Tera Klutz,159
-Grant,Mill 10,Auditor,,Rep,Tera Klutz,164
-Grant,Mill 11,Auditor,,Rep,Tera Klutz,9
-Grant,Monroe,Auditor,,Rep,Tera Klutz,474
-Grant,Pleasant 1,Auditor,,Rep,Tera Klutz,461
-Grant,Pleasant 2,Auditor,,Rep,Tera Klutz,325
-Grant,Pleasant 3,Auditor,,Rep,Tera Klutz,355
-Grant,Pleasant 4,Auditor,,Rep,Tera Klutz,236
-Grant,Pleasant 5,Auditor,,Rep,Tera Klutz,168
-Grant,Pleasant 6,Auditor,,Rep,Tera Klutz,237
-Grant,Pleasant 7,Auditor,,Rep,Tera Klutz,172
-Grant,Richland,Auditor,,Rep,Tera Klutz,257
-Grant,Sims,Auditor,,Rep,Tera Klutz,500
-Grant,Van Buren,Auditor,,Rep,Tera Klutz,432
-Grant,Washington 1,Auditor,,Rep,Tera Klutz,187
-Grant,Washington 2,Auditor,,Rep,Tera Klutz,140
-Grant,Washington 3,Auditor,,Rep,Tera Klutz,364
-Grant,Washington 4,Auditor,,Rep,Tera Klutz,203
-Grant,GRANT IN,Auditor,,Rep,Tera Klutz,12759
-Grant,Center  01,Auditor,,Dem,Joselyn Whitticker,131
-Grant,Center  02,Auditor,,Dem,Joselyn Whitticker,110
-Grant,Center  03,Auditor,,Dem,Joselyn Whitticker,124
-Grant,Center  04,Auditor,,Dem,Joselyn Whitticker,107
-Grant,Center  05,Auditor,,Dem,Joselyn Whitticker,121
-Grant,Center  06,Auditor,,Dem,Joselyn Whitticker,140
-Grant,Center  07,Auditor,,Dem,Joselyn Whitticker,119
-Grant,Center  08,Auditor,,Dem,Joselyn Whitticker,216
-Grant,Center  09,Auditor,,Dem,Joselyn Whitticker,163
-Grant,Center  10,Auditor,,Dem,Joselyn Whitticker,108
-Grant,Center  11,Auditor,,Dem,Joselyn Whitticker,110
-Grant,Center  12,Auditor,,Dem,Joselyn Whitticker,146
-Grant,Center  13,Auditor,,Dem,Joselyn Whitticker,130
-Grant,Center  14,Auditor,,Dem,Joselyn Whitticker,65
-Grant,Center  15,Auditor,,Dem,Joselyn Whitticker,105
-Grant,Center  16,Auditor,,Dem,Joselyn Whitticker,127
-Grant,Center  17,Auditor,,Dem,Joselyn Whitticker,69
-Grant,Center  18,Auditor,,Dem,Joselyn Whitticker,108
-Grant,Center  19,Auditor,,Dem,Joselyn Whitticker,123
-Grant,Center  20,Auditor,,Dem,Joselyn Whitticker,24
-Grant,Center  24,Auditor,,Dem,Joselyn Whitticker,11
-Grant,Paramount 1,Auditor,,Dem,Joselyn Whitticker,126
-Grant,Paramount 2,Auditor,,Dem,Joselyn Whitticker,105
-Grant,Paramount 3,Auditor,,Dem,Joselyn Whitticker,53
-Grant,Paramount 4,Auditor,,Dem,Joselyn Whitticker,55
-Grant,Franklin 1,Auditor,,Dem,Joselyn Whitticker,62
-Grant,Franklin 2,Auditor,,Dem,Joselyn Whitticker,110
-Grant,Franklin 3,Auditor,,Dem,Joselyn Whitticker,109
-Grant,Franklin 4,Auditor,,Dem,Joselyn Whitticker,60
-Grant,Franklin 5,Auditor,,Dem,Joselyn Whitticker,157
-Grant,Franklin 6,Auditor,,Dem,Joselyn Whitticker,144
-Grant,Franklin 7,Auditor,,Dem,Joselyn Whitticker,28
-Grant,Green,Auditor,,Dem,Joselyn Whitticker,52
-Grant,Jefferson 1,Auditor,,Dem,Joselyn Whitticker,160
-Grant,Jefferson 2,Auditor,,Dem,Joselyn Whitticker,173
-Grant,Jefferson 3,Auditor,,Dem,Joselyn Whitticker,87
-Grant,Liberty,Auditor,,Dem,Joselyn Whitticker,76
-Grant,Mill 01,Auditor,,Dem,Joselyn Whitticker,135
-Grant,Mill 02,Auditor,,Dem,Joselyn Whitticker,136
-Grant,Mill 03,Auditor,,Dem,Joselyn Whitticker,102
-Grant,Mill 04,Auditor,,Dem,Joselyn Whitticker,91
-Grant,Mill 05,Auditor,,Dem,Joselyn Whitticker,82
-Grant,Mill 06,Auditor,,Dem,Joselyn Whitticker,143
-Grant,Mill 07,Auditor,,Dem,Joselyn Whitticker,91
-Grant,Mill 08,Auditor,,Dem,Joselyn Whitticker,56
-Grant,Mill 09,Auditor,,Dem,Joselyn Whitticker,78
-Grant,Mill 10,Auditor,,Dem,Joselyn Whitticker,71
-Grant,Mill 11,Auditor,,Dem,Joselyn Whitticker,10
-Grant,Monroe,Auditor,,Dem,Joselyn Whitticker,153
-Grant,Pleasant 1,Auditor,,Dem,Joselyn Whitticker,146
-Grant,Pleasant 2,Auditor,,Dem,Joselyn Whitticker,92
-Grant,Pleasant 3,Auditor,,Dem,Joselyn Whitticker,156
-Grant,Pleasant 4,Auditor,,Dem,Joselyn Whitticker,81
-Grant,Pleasant 5,Auditor,,Dem,Joselyn Whitticker,117
-Grant,Pleasant 6,Auditor,,Dem,Joselyn Whitticker,95
-Grant,Pleasant 7,Auditor,,Dem,Joselyn Whitticker,94
-Grant,Richland,Auditor,,Dem,Joselyn Whitticker,67
-Grant,Sims,Auditor,,Dem,Joselyn Whitticker,169
-Grant,Van Buren,Auditor,,Dem,Joselyn Whitticker,140
-Grant,Washington 1,Auditor,,Dem,Joselyn Whitticker,47
-Grant,Washington 2,Auditor,,Dem,Joselyn Whitticker,88
-Grant,Washington 3,Auditor,,Dem,Joselyn Whitticker,149
-Grant,Washington 4,Auditor,,Dem,Joselyn Whitticker,70
-Grant,GRANT IN,Auditor,,Dem,Joselyn Whitticker,6573
-Grant,Center  01,Auditor,,Lbt,John Schick,13
-Grant,Center  02,Auditor,,Lbt,John Schick,15
-Grant,Center  03,Auditor,,Lbt,John Schick,7
-Grant,Center  04,Auditor,,Lbt,John Schick,9
-Grant,Center  05,Auditor,,Lbt,John Schick,11
-Grant,Center  06,Auditor,,Lbt,John Schick,6
-Grant,Center  07,Auditor,,Lbt,John Schick,7
-Grant,Center  08,Auditor,,Lbt,John Schick,7
-Grant,Center  09,Auditor,,Lbt,John Schick,3
-Grant,Center  10,Auditor,,Lbt,John Schick,12
-Grant,Center  11,Auditor,,Lbt,John Schick,10
-Grant,Center  12,Auditor,,Lbt,John Schick,11
-Grant,Center  13,Auditor,,Lbt,John Schick,6
-Grant,Center  14,Auditor,,Lbt,John Schick,11
-Grant,Center  15,Auditor,,Lbt,John Schick,7
-Grant,Center  16,Auditor,,Lbt,John Schick,6
-Grant,Center  17,Auditor,,Lbt,John Schick,6
-Grant,Center  18,Auditor,,Lbt,John Schick,8
-Grant,Center  19,Auditor,,Lbt,John Schick,7
-Grant,Center  20,Auditor,,Lbt,John Schick,1
-Grant,Center  24,Auditor,,Lbt,John Schick,0
-Grant,Paramount 1,Auditor,,Lbt,John Schick,14
-Grant,Paramount 2,Auditor,,Lbt,John Schick,12
-Grant,Paramount 3,Auditor,,Lbt,John Schick,12
-Grant,Paramount 4,Auditor,,Lbt,John Schick,6
-Grant,Franklin 1,Auditor,,Lbt,John Schick,4
-Grant,Franklin 2,Auditor,,Lbt,John Schick,6
-Grant,Franklin 3,Auditor,,Lbt,John Schick,10
-Grant,Franklin 4,Auditor,,Lbt,John Schick,7
-Grant,Franklin 5,Auditor,,Lbt,John Schick,14
-Grant,Franklin 6,Auditor,,Lbt,John Schick,4
-Grant,Franklin 7,Auditor,,Lbt,John Schick,4
-Grant,Green,Auditor,,Lbt,John Schick,2
-Grant,Jefferson 1,Auditor,,Lbt,John Schick,16
-Grant,Jefferson 2,Auditor,,Lbt,John Schick,18
-Grant,Jefferson 3,Auditor,,Lbt,John Schick,8
-Grant,Liberty,Auditor,,Lbt,John Schick,9
-Grant,Mill 01,Auditor,,Lbt,John Schick,9
-Grant,Mill 02,Auditor,,Lbt,John Schick,8
-Grant,Mill 03,Auditor,,Lbt,John Schick,11
-Grant,Mill 04,Auditor,,Lbt,John Schick,9
-Grant,Mill 05,Auditor,,Lbt,John Schick,10
-Grant,Mill 06,Auditor,,Lbt,John Schick,14
-Grant,Mill 07,Auditor,,Lbt,John Schick,8
-Grant,Mill 08,Auditor,,Lbt,John Schick,6
-Grant,Mill 09,Auditor,,Lbt,John Schick,4
-Grant,Mill 10,Auditor,,Lbt,John Schick,4
-Grant,Mill 11,Auditor,,Lbt,John Schick,0
-Grant,Monroe,Auditor,,Lbt,John Schick,16
-Grant,Pleasant 1,Auditor,,Lbt,John Schick,20
-Grant,Pleasant 2,Auditor,,Lbt,John Schick,18
-Grant,Pleasant 3,Auditor,,Lbt,John Schick,12
-Grant,Pleasant 4,Auditor,,Lbt,John Schick,8
-Grant,Pleasant 5,Auditor,,Lbt,John Schick,7
-Grant,Pleasant 6,Auditor,,Lbt,John Schick,13
-Grant,Pleasant 7,Auditor,,Lbt,John Schick,6
-Grant,Richland,Auditor,,Lbt,John Schick,9
-Grant,Sims,Auditor,,Lbt,John Schick,21
-Grant,Van Buren,Auditor,,Lbt,John Schick,25
-Grant,Washington 1,Auditor,,Lbt,John Schick,3
-Grant,Washington 2,Auditor,,Lbt,John Schick,9
-Grant,Washington 3,Auditor,,Lbt,John Schick,12
-Grant,Washington 4,Auditor,,Lbt,John Schick,11
-Grant,GRANT IN,Auditor,,Lbt,John Schick,582
-Grant,Center  01,Treasurer,,Rep,Kelly Mitchell,145
-Grant,Center  02,Treasurer,,Rep,Kelly Mitchell,131
-Grant,Center  03,Treasurer,,Rep,Kelly Mitchell,37
-Grant,Center  04,Treasurer,,Rep,Kelly Mitchell,113
-Grant,Center  05,Treasurer,,Rep,Kelly Mitchell,119
-Grant,Center  06,Treasurer,,Rep,Kelly Mitchell,94
-Grant,Center  07,Treasurer,,Rep,Kelly Mitchell,113
-Grant,Center  08,Treasurer,,Rep,Kelly Mitchell,71
-Grant,Center  09,Treasurer,,Rep,Kelly Mitchell,79
-Grant,Center  10,Treasurer,,Rep,Kelly Mitchell,312
-Grant,Center  11,Treasurer,,Rep,Kelly Mitchell,247
-Grant,Center  12,Treasurer,,Rep,Kelly Mitchell,222
-Grant,Center  13,Treasurer,,Rep,Kelly Mitchell,160
-Grant,Center  14,Treasurer,,Rep,Kelly Mitchell,142
-Grant,Center  15,Treasurer,,Rep,Kelly Mitchell,206
-Grant,Center  16,Treasurer,,Rep,Kelly Mitchell,60
-Grant,Center  17,Treasurer,,Rep,Kelly Mitchell,230
-Grant,Center  18,Treasurer,,Rep,Kelly Mitchell,268
-Grant,Center  19,Treasurer,,Rep,Kelly Mitchell,206
-Grant,Center  20,Treasurer,,Rep,Kelly Mitchell,37
-Grant,Center  24,Treasurer,,Rep,Kelly Mitchell,32
-Grant,Paramount 1,Treasurer,,Rep,Kelly Mitchell,286
-Grant,Paramount 2,Treasurer,,Rep,Kelly Mitchell,293
-Grant,Paramount 3,Treasurer,,Rep,Kelly Mitchell,181
-Grant,Paramount 4,Treasurer,,Rep,Kelly Mitchell,167
-Grant,Franklin 1,Treasurer,,Rep,Kelly Mitchell,71
-Grant,Franklin 2,Treasurer,,Rep,Kelly Mitchell,166
-Grant,Franklin 3,Treasurer,,Rep,Kelly Mitchell,130
-Grant,Franklin 4,Treasurer,,Rep,Kelly Mitchell,260
-Grant,Franklin 5,Treasurer,,Rep,Kelly Mitchell,341
-Grant,Franklin 6,Treasurer,,Rep,Kelly Mitchell,98
-Grant,Franklin 7,Treasurer,,Rep,Kelly Mitchell,33
-Grant,Green,Treasurer,,Rep,Kelly Mitchell,140
-Grant,Jefferson 1,Treasurer,,Rep,Kelly Mitchell,461
-Grant,Jefferson 2,Treasurer,,Rep,Kelly Mitchell,444
-Grant,Jefferson 3,Treasurer,,Rep,Kelly Mitchell,265
-Grant,Liberty,Treasurer,,Rep,Kelly Mitchell,306
-Grant,Mill 01,Treasurer,,Rep,Kelly Mitchell,262
-Grant,Mill 02,Treasurer,,Rep,Kelly Mitchell,234
-Grant,Mill 03,Treasurer,,Rep,Kelly Mitchell,287
-Grant,Mill 04,Treasurer,,Rep,Kelly Mitchell,211
-Grant,Mill 05,Treasurer,,Rep,Kelly Mitchell,280
-Grant,Mill 06,Treasurer,,Rep,Kelly Mitchell,256
-Grant,Mill 07,Treasurer,,Rep,Kelly Mitchell,249
-Grant,Mill 08,Treasurer,,Rep,Kelly Mitchell,116
-Grant,Mill 09,Treasurer,,Rep,Kelly Mitchell,167
-Grant,Mill 10,Treasurer,,Rep,Kelly Mitchell,170
-Grant,Mill 11,Treasurer,,Rep,Kelly Mitchell,9
-Grant,Monroe,Treasurer,,Rep,Kelly Mitchell,504
-Grant,Pleasant 1,Treasurer,,Rep,Kelly Mitchell,496
-Grant,Pleasant 2,Treasurer,,Rep,Kelly Mitchell,347
-Grant,Pleasant 3,Treasurer,,Rep,Kelly Mitchell,377
-Grant,Pleasant 4,Treasurer,,Rep,Kelly Mitchell,246
-Grant,Pleasant 5,Treasurer,,Rep,Kelly Mitchell,184
-Grant,Pleasant 6,Treasurer,,Rep,Kelly Mitchell,254
-Grant,Pleasant 7,Treasurer,,Rep,Kelly Mitchell,196
-Grant,Richland,Treasurer,,Rep,Kelly Mitchell,273
-Grant,Sims,Treasurer,,Rep,Kelly Mitchell,532
-Grant,Van Buren,Treasurer,,Rep,Kelly Mitchell,464
-Grant,Washington 1,Treasurer,,Rep,Kelly Mitchell,197
-Grant,Washington 2,Treasurer,,Rep,Kelly Mitchell,159
-Grant,Washington 3,Treasurer,,Rep,Kelly Mitchell,400
-Grant,Washington 4,Treasurer,,Rep,Kelly Mitchell,216
-Grant,GRANT IN,Treasurer,,Rep,Kelly Mitchell,13752
-Grant,Center  01,Treasurer,,Dem,John Aguilera,117
-Grant,Center  02,Treasurer,,Dem,John Aguilera,101
-Grant,Center  03,Treasurer,,Dem,John Aguilera,116
-Grant,Center  04,Treasurer,,Dem,John Aguilera,101
-Grant,Center  05,Treasurer,,Dem,John Aguilera,106
-Grant,Center  06,Treasurer,,Dem,John Aguilera,129
-Grant,Center  07,Treasurer,,Dem,John Aguilera,104
-Grant,Center  08,Treasurer,,Dem,John Aguilera,210
-Grant,Center  09,Treasurer,,Dem,John Aguilera,145
-Grant,Center  10,Treasurer,,Dem,John Aguilera,98
-Grant,Center  11,Treasurer,,Dem,John Aguilera,101
-Grant,Center  12,Treasurer,,Dem,John Aguilera,134
-Grant,Center  13,Treasurer,,Dem,John Aguilera,120
-Grant,Center  14,Treasurer,,Dem,John Aguilera,61
-Grant,Center  15,Treasurer,,Dem,John Aguilera,89
-Grant,Center  16,Treasurer,,Dem,John Aguilera,121
-Grant,Center  17,Treasurer,,Dem,John Aguilera,59
-Grant,Center  18,Treasurer,,Dem,John Aguilera,86
-Grant,Center  19,Treasurer,,Dem,John Aguilera,117
-Grant,Center  20,Treasurer,,Dem,John Aguilera,21
-Grant,Center  24,Treasurer,,Dem,John Aguilera,13
-Grant,Paramount 1,Treasurer,,Dem,John Aguilera,127
-Grant,Paramount 2,Treasurer,,Dem,John Aguilera,102
-Grant,Paramount 3,Treasurer,,Dem,John Aguilera,57
-Grant,Paramount 4,Treasurer,,Dem,John Aguilera,51
-Grant,Franklin 1,Treasurer,,Dem,John Aguilera,55
-Grant,Franklin 2,Treasurer,,Dem,John Aguilera,100
-Grant,Franklin 3,Treasurer,,Dem,John Aguilera,97
-Grant,Franklin 4,Treasurer,,Dem,John Aguilera,54
-Grant,Franklin 5,Treasurer,,Dem,John Aguilera,132
-Grant,Franklin 6,Treasurer,,Dem,John Aguilera,134
-Grant,Franklin 7,Treasurer,,Dem,John Aguilera,30
-Grant,Green,Treasurer,,Dem,John Aguilera,50
-Grant,Jefferson 1,Treasurer,,Dem,John Aguilera,148
-Grant,Jefferson 2,Treasurer,,Dem,John Aguilera,168
-Grant,Jefferson 3,Treasurer,,Dem,John Aguilera,89
-Grant,Liberty,Treasurer,,Dem,John Aguilera,73
-Grant,Mill 01,Treasurer,,Dem,John Aguilera,129
-Grant,Mill 02,Treasurer,,Dem,John Aguilera,121
-Grant,Mill 03,Treasurer,,Dem,John Aguilera,100
-Grant,Mill 04,Treasurer,,Dem,John Aguilera,78
-Grant,Mill 05,Treasurer,,Dem,John Aguilera,81
-Grant,Mill 06,Treasurer,,Dem,John Aguilera,136
-Grant,Mill 07,Treasurer,,Dem,John Aguilera,85
-Grant,Mill 08,Treasurer,,Dem,John Aguilera,49
-Grant,Mill 09,Treasurer,,Dem,John Aguilera,74
-Grant,Mill 10,Treasurer,,Dem,John Aguilera,70
-Grant,Mill 11,Treasurer,,Dem,John Aguilera,10
-Grant,Monroe,Treasurer,,Dem,John Aguilera,139
-Grant,Pleasant 1,Treasurer,,Dem,John Aguilera,128
-Grant,Pleasant 2,Treasurer,,Dem,John Aguilera,88
-Grant,Pleasant 3,Treasurer,,Dem,John Aguilera,142
-Grant,Pleasant 4,Treasurer,,Dem,John Aguilera,71
-Grant,Pleasant 5,Treasurer,,Dem,John Aguilera,105
-Grant,Pleasant 6,Treasurer,,Dem,John Aguilera,87
-Grant,Pleasant 7,Treasurer,,Dem,John Aguilera,75
-Grant,Richland,Treasurer,,Dem,John Aguilera,58
-Grant,Sims,Treasurer,,Dem,John Aguilera,157
-Grant,Van Buren,Treasurer,,Dem,John Aguilera,133
-Grant,Washington 1,Treasurer,,Dem,John Aguilera,40
-Grant,Washington 2,Treasurer,,Dem,John Aguilera,72
-Grant,Washington 3,Treasurer,,Dem,John Aguilera,125
-Grant,Washington 4,Treasurer,,Dem,John Aguilera,66
-Grant,GRANT IN,Treasurer,,Dem,John Aguilera,6035
-Grant,Center  01,US House,5,Rep,Susan Brooks,152
-Grant,Center  02,US House,5,Rep,Susan Brooks,132
-Grant,Center  03,US House,5,Rep,Susan Brooks,36
-Grant,Center  04,US House,5,Rep,Susan Brooks,118
-Grant,Center  05,US House,5,Rep,Susan Brooks,118
-Grant,Center  06,US House,5,Rep,Susan Brooks,105
-Grant,Center  07,US House,5,Rep,Susan Brooks,119
-Grant,Center  08,US House,5,Rep,Susan Brooks,75
-Grant,Center  09,US House,5,Rep,Susan Brooks,72
-Grant,Center  10,US House,5,Rep,Susan Brooks,321
-Grant,Center  11,US House,5,Rep,Susan Brooks,247
-Grant,Center  12,US House,5,Rep,Susan Brooks,235
-Grant,Center  13,US House,5,Rep,Susan Brooks,164
-Grant,Center  14,US House,5,Rep,Susan Brooks,140
-Grant,Center  15,US House,5,Rep,Susan Brooks,213
-Grant,Center  16,US House,5,Rep,Susan Brooks,59
-Grant,Center  17,US House,5,Rep,Susan Brooks,229
-Grant,Center  18,US House,5,Rep,Susan Brooks,273
-Grant,Center  19,US House,5,Rep,Susan Brooks,214
-Grant,Center  20,US House,5,Rep,Susan Brooks,41
-Grant,Center  24,US House,5,Rep,Susan Brooks,35
-Grant,Paramount 1,US House,5,Rep,Susan Brooks,293
-Grant,Paramount 2,US House,5,Rep,Susan Brooks,299
-Grant,Paramount 3,US House,5,Rep,Susan Brooks,182
-Grant,Paramount 4,US House,5,Rep,Susan Brooks,169
-Grant,Franklin 1,US House,5,Rep,Susan Brooks,77
-Grant,Franklin 2,US House,5,Rep,Susan Brooks,172
-Grant,Franklin 3,US House,5,Rep,Susan Brooks,126
-Grant,Franklin 4,US House,5,Rep,Susan Brooks,269
-Grant,Franklin 5,US House,5,Rep,Susan Brooks,344
-Grant,Franklin 6,US House,5,Rep,Susan Brooks,96
-Grant,Franklin 7,US House,5,Rep,Susan Brooks,35
-Grant,Green,US House,5,Rep,Susan Brooks,141
-Grant,Jefferson 1,US House,5,Rep,Susan Brooks,466
-Grant,Jefferson 2,US House,5,Rep,Susan Brooks,444
-Grant,Jefferson 3,US House,5,Rep,Susan Brooks,269
-Grant,Liberty,US House,5,Rep,Susan Brooks,312
-Grant,Mill 01,US House,5,Rep,Susan Brooks,264
-Grant,Mill 02,US House,5,Rep,Susan Brooks,237
-Grant,Mill 03,US House,5,Rep,Susan Brooks,292
-Grant,Mill 04,US House,5,Rep,Susan Brooks,219
-Grant,Mill 05,US House,5,Rep,Susan Brooks,284
-Grant,Mill 06,US House,5,Rep,Susan Brooks,266
-Grant,Mill 07,US House,5,Rep,Susan Brooks,250
-Grant,Mill 08,US House,5,Rep,Susan Brooks,124
-Grant,Mill 09,US House,5,Rep,Susan Brooks,170
-Grant,Mill 10,US House,5,Rep,Susan Brooks,169
-Grant,Mill 11,US House,5,Rep,Susan Brooks,9
-Grant,Monroe,US House,5,Rep,Susan Brooks,522
-Grant,Pleasant 1,US House,5,Rep,Susan Brooks,493
-Grant,Pleasant 2,US House,5,Rep,Susan Brooks,361
-Grant,Pleasant 3,US House,5,Rep,Susan Brooks,381
-Grant,Pleasant 4,US House,5,Rep,Susan Brooks,258
-Grant,Pleasant 5,US House,5,Rep,Susan Brooks,192
-Grant,Pleasant 6,US House,5,Rep,Susan Brooks,259
-Grant,Pleasant 7,US House,5,Rep,Susan Brooks,194
-Grant,Richland,US House,5,Rep,Susan Brooks,283
-Grant,Sims,US House,5,Rep,Susan Brooks,547
-Grant,Van Buren,US House,5,Rep,Susan Brooks,475
-Grant,Washington 1,US House,5,Rep,Susan Brooks,199
-Grant,Washington 2,US House,5,Rep,Susan Brooks,170
-Grant,Washington 3,US House,5,Rep,Susan Brooks,399
-Grant,Washington 4,US House,5,Rep,Susan Brooks,217
-Grant,GRANT IN,US House,6,Rep,Susan Brooks,14026
-Grant,Center  01,US House,5,Dem,Dee Thornton,114
-Grant,Center  02,US House,5,Dem,Dee Thornton,103
-Grant,Center  03,US House,5,Dem,Dee Thornton,121
-Grant,Center  04,US House,5,Dem,Dee Thornton,100
-Grant,Center  05,US House,5,Dem,Dee Thornton,104
-Grant,Center  06,US House,5,Dem,Dee Thornton,122
-Grant,Center  07,US House,5,Dem,Dee Thornton,103
-Grant,Center  08,US House,5,Dem,Dee Thornton,207
-Grant,Center  09,US House,5,Dem,Dee Thornton,152
-Grant,Center  10,US House,5,Dem,Dee Thornton,96
-Grant,Center  11,US House,5,Dem,Dee Thornton,96
-Grant,Center  12,US House,5,Dem,Dee Thornton,124
-Grant,Center  13,US House,5,Dem,Dee Thornton,118
-Grant,Center  14,US House,5,Dem,Dee Thornton,62
-Grant,Center  15,US House,5,Dem,Dee Thornton,81
-Grant,Center  16,US House,5,Dem,Dee Thornton,123
-Grant,Center  17,US House,5,Dem,Dee Thornton,58
-Grant,Center  18,US House,5,Dem,Dee Thornton,88
-Grant,Center  19,US House,5,Dem,Dee Thornton,109
-Grant,Center  20,US House,5,Dem,Dee Thornton,18
-Grant,Center  24,US House,5,Dem,Dee Thornton,12
-Grant,Paramount 1,US House,5,Dem,Dee Thornton,122
-Grant,Paramount 2,US House,5,Dem,Dee Thornton,99
-Grant,Paramount 3,US House,5,Dem,Dee Thornton,53
-Grant,Paramount 4,US House,5,Dem,Dee Thornton,48
-Grant,Franklin 1,US House,5,Dem,Dee Thornton,52
-Grant,Franklin 2,US House,5,Dem,Dee Thornton,97
-Grant,Franklin 3,US House,5,Dem,Dee Thornton,99
-Grant,Franklin 4,US House,5,Dem,Dee Thornton,56
-Grant,Franklin 5,US House,5,Dem,Dee Thornton,135
-Grant,Franklin 6,US House,5,Dem,Dee Thornton,134
-Grant,Franklin 7,US House,5,Dem,Dee Thornton,28
-Grant,Green,US House,5,Dem,Dee Thornton,48
-Grant,Jefferson 1,US House,5,Dem,Dee Thornton,146
-Grant,Jefferson 2,US House,5,Dem,Dee Thornton,171
-Grant,Jefferson 3,US House,5,Dem,Dee Thornton,94
-Grant,Liberty,US House,5,Dem,Dee Thornton,71
-Grant,Mill 01,US House,5,Dem,Dee Thornton,131
-Grant,Mill 02,US House,5,Dem,Dee Thornton,118
-Grant,Mill 03,US House,5,Dem,Dee Thornton,97
-Grant,Mill 04,US House,5,Dem,Dee Thornton,76
-Grant,Mill 05,US House,5,Dem,Dee Thornton,79
-Grant,Mill 06,US House,5,Dem,Dee Thornton,128
-Grant,Mill 07,US House,5,Dem,Dee Thornton,84
-Grant,Mill 08,US House,5,Dem,Dee Thornton,45
-Grant,Mill 09,US House,5,Dem,Dee Thornton,69
-Grant,Mill 10,US House,5,Dem,Dee Thornton,71
-Grant,Mill 11,US House,5,Dem,Dee Thornton,10
-Grant,Monroe,US House,5,Dem,Dee Thornton,125
-Grant,Pleasant 1,US House,5,Dem,Dee Thornton,134
-Grant,Pleasant 2,US House,5,Dem,Dee Thornton,74
-Grant,Pleasant 3,US House,5,Dem,Dee Thornton,143
-Grant,Pleasant 4,US House,5,Dem,Dee Thornton,69
-Grant,Pleasant 5,US House,5,Dem,Dee Thornton,97
-Grant,Pleasant 6,US House,5,Dem,Dee Thornton,87
-Grant,Pleasant 7,US House,5,Dem,Dee Thornton,81
-Grant,Richland,US House,5,Dem,Dee Thornton,53
-Grant,Sims,US House,5,Dem,Dee Thornton,154
-Grant,Van Buren,US House,5,Dem,Dee Thornton,124
-Grant,Washington 1,US House,5,Dem,Dee Thornton,39
-Grant,Washington 2,US House,5,Dem,Dee Thornton,62
-Grant,Washington 3,US House,5,Dem,Dee Thornton,125
-Grant,Washington 4,US House,5,Dem,Dee Thornton,68
-Grant,GRANT IN,US House,6,Dem,Dee Thornton,5907
-Grant,Center  01,US House,5,,write-in,1
-Grant,Center  02,US House,5,,write-in,0
-Grant,Center  03,US House,5,,write-in,0
-Grant,Center  04,US House,5,,write-in,1
-Grant,Center  05,US House,5,,write-in,0
-Grant,Center  06,US House,5,,write-in,0
-Grant,Center  07,US House,5,,write-in,0
-Grant,Center  08,US House,5,,write-in,0
-Grant,Center  09,US House,5,,write-in,0
-Grant,Center  10,US House,5,,write-in,0
-Grant,Center  11,US House,5,,write-in,1
-Grant,Center  12,US House,5,,write-in,0
-Grant,Center  13,US House,5,,write-in,0
-Grant,Center  14,US House,5,,write-in,0
-Grant,Center  15,US House,5,,write-in,0
-Grant,Center  16,US House,5,,write-in,0
-Grant,Center  17,US House,5,,write-in,0
-Grant,Center  18,US House,5,,write-in,0
-Grant,Center  19,US House,5,,write-in,0
-Grant,Center  20,US House,5,,write-in,0
-Grant,Center  24,US House,5,,write-in,0
-Grant,Paramount 1,US House,5,,write-in,0
-Grant,Paramount 2,US House,5,,write-in,0
-Grant,Paramount 3,US House,5,,write-in,0
-Grant,Paramount 4,US House,5,,write-in,0
-Grant,Franklin 1,US House,5,,write-in,0
-Grant,Franklin 2,US House,5,,write-in,0
-Grant,Franklin 3,US House,5,,write-in,0
-Grant,Franklin 4,US House,5,,write-in,0
-Grant,Franklin 5,US House,5,,write-in,0
-Grant,Franklin 6,US House,5,,write-in,1
-Grant,Franklin 7,US House,5,,write-in,0
-Grant,Green,US House,5,,write-in,0
-Grant,Jefferson 1,US House,5,,write-in,0
-Grant,Jefferson 2,US House,5,,write-in,0
-Grant,Jefferson 3,US House,5,,write-in,0
-Grant,Liberty,US House,5,,write-in,0
-Grant,Mill 01,US House,5,,write-in,0
-Grant,Mill 02,US House,5,,write-in,0
-Grant,Mill 03,US House,5,,write-in,0
-Grant,Mill 04,US House,5,,write-in,0
-Grant,Mill 05,US House,5,,write-in,0
-Grant,Mill 06,US House,5,,write-in,0
-Grant,Mill 07,US House,5,,write-in,0
-Grant,Mill 08,US House,5,,write-in,0
-Grant,Mill 09,US House,5,,write-in,0
-Grant,Mill 10,US House,5,,write-in,0
-Grant,Mill 11,US House,5,,write-in,0
-Grant,Monroe,US House,5,,write-in,0
-Grant,Pleasant 1,US House,5,,write-in,0
-Grant,Pleasant 2,US House,5,,write-in,1
-Grant,Pleasant 3,US House,5,,write-in,0
-Grant,Pleasant 4,US House,5,,write-in,0
-Grant,Pleasant 5,US House,5,,write-in,0
-Grant,Pleasant 6,US House,5,,write-in,0
-Grant,Pleasant 7,US House,5,,write-in,0
-Grant,Richland,US House,5,,write-in,0
-Grant,Sims,US House,5,,write-in,1
-Grant,Van Buren,US House,5,,write-in,0
-Grant,Washington 1,US House,5,,write-in,0
-Grant,Washington 2,US House,5,,write-in,0
-Grant,Washington 3,US House,5,,write-in,0
-Grant,Washington 4,US House,5,,write-in,0
-Grant,GRANT IN,US House,6,,write-in,6
-Grant,Center  01,State Senate,17,Rep,Andy Zay,132
-Grant,Center  02,State Senate,17,Rep,Andy Zay,120
-Grant,Center  03,State Senate,17,Rep,Andy Zay,32
-Grant,Center  04,State Senate,17,Rep,Andy Zay,105
-Grant,Center  05,State Senate,17,Rep,Andy Zay,106
-Grant,Center  06,State Senate,17,Rep,Andy Zay,86
-Grant,Center  07,State Senate,17,Rep,Andy Zay,106
-Grant,Center  08,State Senate,17,Rep,Andy Zay,63
-Grant,Center  09,State Senate,17,Rep,Andy Zay,68
-Grant,Center  10,State Senate,17,Rep,Andy Zay,303
-Grant,Center  11,State Senate,17,Rep,Andy Zay,225
-Grant,Center  12,State Senate,17,Rep,Andy Zay,214
-Grant,Center  13,State Senate,17,Rep,Andy Zay,152
-Grant,Center  14,State Senate,21,Rep,James Buck,132
-Grant,Center  15,State Senate,17,Rep,Andy Zay,186
-Grant,Center  16,State Senate,17,Rep,Andy Zay,57
-Grant,Center  17,State Senate,17,Rep,Andy Zay,220
-Grant,Center  18,State Senate,17,Rep,Andy Zay,255
-Grant,Center  19,State Senate,17,Rep,Andy Zay,193
-Grant,Center  20,State Senate,17,Rep,Andy Zay,36
-Grant,Center  24,State Senate,17,Rep,Andy Zay,31
-Grant,Paramount 1,State Senate,19,Rep,Travis Holdman,311
-Grant,Paramount 2,State Senate,19,Rep,Travis Holdman,321
-Grant,Paramount 3,State Senate,19,Rep,Travis Holdman,194
-Grant,Paramount 4,State Senate,19,Rep,Travis Holdman,172
-Grant,Franklin 1,State Senate,21,Rep,James Buck,73
-Grant,Franklin 2,State Senate,21,Rep,James Buck,162
-Grant,Franklin 3,State Senate,21,Rep,James Buck,120
-Grant,Franklin 4,State Senate,21,Rep,James Buck,256
-Grant,Franklin 5,State Senate,21,Rep,James Buck,332
-Grant,Franklin 6,State Senate,21,Rep,James Buck,92
-Grant,Franklin 7,State Senate,21,Rep,James Buck,36
-Grant,Green,State Senate,21,Rep,James Buck,138
-Grant,Jefferson 1,State Senate,19,Rep,Travis Holdman,497
-Grant,Jefferson 2,State Senate,19,Rep,Travis Holdman,489
-Grant,Jefferson 3,State Senate,19,Rep,Travis Holdman,298
-Grant,Liberty,State Senate,19,Rep,Travis Holdman,318
-Grant,Mill 01,State Senate,19,Rep,Travis Holdman,299
-Grant,Mill 02,State Senate,19,Rep,Travis Holdman,250
-Grant,Mill 03,State Senate,19,Rep,Travis Holdman,312
-Grant,Mill 04,State Senate,19,Rep,Travis Holdman,229
-Grant,Mill 05,State Senate,19,Rep,Travis Holdman,304
-Grant,Mill 06,State Senate,19,Rep,Travis Holdman,290
-Grant,Mill 07,State Senate,19,Rep,Travis Holdman,255
-Grant,Mill 08,State Senate,19,Rep,Travis Holdman,127
-Grant,Mill 09,State Senate,19,Rep,Travis Holdman,175
-Grant,Mill 10,State Senate,19,Rep,Travis Holdman,180
-Grant,Mill 11,State Senate,19,Rep,Travis Holdman,12
-Grant,Monroe,State Senate,19,Rep,Travis Holdman,538
-Grant,Pleasant 1,State Senate,17,Rep,Andy Zay,469
-Grant,Pleasant 2,State Senate,17,Rep,Andy Zay,339
-Grant,Pleasant 3,State Senate,17,Rep,Andy Zay,355
-Grant,Pleasant 4,State Senate,17,Rep,Andy Zay,235
-Grant,Pleasant 5,State Senate,17,Rep,Andy Zay,168
-Grant,Pleasant 6,State Senate,17,Rep,Andy Zay,240
-Grant,Pleasant 7,State Senate,17,Rep,Andy Zay,179
-Grant,Richland,State Senate,17,Rep,Andy Zay,265
-Grant,Sims,State Senate,21,Rep,James Buck,514
-Grant,Van Buren,State Senate,17,Rep,Andy Zay,434
-Grant,Washington 1,State Senate,17,Rep,Andy Zay,192
-Grant,Washington 2,State Senate,17,Rep,Andy Zay,150
-Grant,Washington 3,State Senate,17,Rep,Andy Zay,384
-Grant,Washington 4,State Senate,17,Rep,Andy Zay,208
-Grant,GRANT IN,State Senate,17,Rep,Andy Zay,6308
-Grant,GRANT IN,State Senate,21,Rep,James Buck,1855
-Grant,GRANT IN,State Senate,19,Rep,Travis Holdman,5571
-Grant,Center  01,State Senate,17,Dem,Gary Snyder,132
-Grant,Center  02,State Senate,17,Dem,Gary Snyder,114
-Grant,Center  03,State Senate,17,Dem,Gary Snyder,123
-Grant,Center  04,State Senate,17,Dem,Gary Snyder,108
-Grant,Center  05,State Senate,17,Dem,Gary Snyder,117
-Grant,Center  06,State Senate,17,Dem,Gary Snyder,138
-Grant,Center  07,State Senate,17,Dem,Gary Snyder,113
-Grant,Center  08,State Senate,17,Dem,Gary Snyder,210
-Grant,Center  09,State Senate,17,Dem,Gary Snyder,158
-Grant,Center  10,State Senate,17,Dem,Gary Snyder,106
-Grant,Center  11,State Senate,17,Dem,Gary Snyder,115
-Grant,Center  12,State Senate,17,Dem,Gary Snyder,142
-Grant,Center  13,State Senate,17,Dem,Gary Snyder,126
-Grant,Center  14,State Senate,21,Dem,Christina Fivecoate,67
-Grant,Center  15,State Senate,17,Dem,Gary Snyder,105
-Grant,Center  16,State Senate,17,Dem,Gary Snyder,121
-Grant,Center  17,State Senate,17,Dem,Gary Snyder,68
-Grant,Center  18,State Senate,17,Dem,Gary Snyder,101
-Grant,Center  19,State Senate,17,Dem,Gary Snyder,128
-Grant,Center  20,State Senate,17,Dem,Gary Snyder,22
-Grant,Center  24,State Senate,17,Dem,Gary Snyder,14
-Grant,Franklin 1,State Senate,21,Dem,Christina Fivecoate,53
-Grant,Franklin 2,State Senate,21,Dem,Christina Fivecoate,104
-Grant,Franklin 3,State Senate,21,Dem,Christina Fivecoate,104
-Grant,Franklin 4,State Senate,21,Dem,Christina Fivecoate,57
-Grant,Franklin 5,State Senate,21,Dem,Christina Fivecoate,141
-Grant,Franklin 6,State Senate,21,Dem,Christina Fivecoate,136
-Grant,Franklin 7,State Senate,21,Dem,Christina Fivecoate,27
-Grant,Green,State Senate,21,Dem,Christina Fivecoate,49
-Grant,Pleasant 1,State Senate,17,Dem,Gary Snyder,158
-Grant,Pleasant 2,State Senate,17,Dem,Gary Snyder,93
-Grant,Pleasant 3,State Senate,17,Dem,Gary Snyder,162
-Grant,Pleasant 4,State Senate,17,Dem,Gary Snyder,83
-Grant,Pleasant 5,State Senate,17,Dem,Gary Snyder,119
-Grant,Pleasant 6,State Senate,17,Dem,Gary Snyder,99
-Grant,Pleasant 7,State Senate,17,Dem,Gary Snyder,90
-Grant,Richland,State Senate,17,Dem,Gary Snyder,67
-Grant,Sims,State Senate,21,Dem,Christina Fivecoate,170
-Grant,Van Buren,State Senate,17,Dem,Dave Cravens,156
-Grant,Washington 1,State Senate,17,Dem,Dave Cravens,45
-Grant,Washington 2,State Senate,17,Dem,Dave Cravens,75
-Grant,Washington 3,State Senate,17,Dem,Dave Cravens,136
-Grant,Washington 4,State Senate,17,Dem,Dave Cravens,78
-Grant,GRANT IN,State Senate,17,Dem,Gary Snyder,3622
-Grant,GRANT IN,State Senate,21,Dem,Christina Fivecoate,908
-Grant,Center  01,State House,31,Rep,Kevin Mahan,138
-Grant,Center  02,State House,31,Rep,Kevin Mahan,129
-Grant,Center  03,State House,31,Rep,Kevin Mahan,35
-Grant,Center  04,State House,31,Rep,Kevin Mahan,119
-Grant,Center  05,State House,31,Rep,Kevin Mahan,95
-Grant,Center  06,State House,31,Rep,Kevin Mahan,95
-Grant,Center  07,State House,31,Rep,Kevin Mahan,109
-Grant,Center  08,State House,31,Rep,Kevin Mahan,72
-Grant,Center  09,State House,31,Rep,Kevin Mahan,70
-Grant,Center  10,State House,31,Rep,Kevin Mahan,305
-Grant,Center  11,State House,31,Rep,Kevin Mahan,233
-Grant,Center  12,State House,31,Rep,Kevin Mahan,227
-Grant,Center  13,State House,31,Rep,Kevin Mahan,153
-Grant,Center  14,State House,30,Rep,Mike Karickhoff,161
-Grant,Center  15,State House,31,Rep,Kevin Mahan,208
-Grant,Center  16,State House,31,Rep,Kevin Mahan,60
-Grant,Center  17,State House,31,Rep,Kevin Mahan,220
-Grant,Center  18,State House,31,Rep,Kevin Mahan,252
-Grant,Center  19,State House,31,Rep,Kevin Mahan,209
-Grant,Center  20,State House,31,Rep,Kevin Mahan,35
-Grant,Center  24,State House,31,Rep,Kevin Mahan,34
-Grant,Paramount 1,State House,32,Rep,Tony Cook,279
-Grant,Paramount 2,State House,32,Rep,Tony Cook,276
-Grant,Paramount 3,State House,32,Rep,Tony Cook,175
-Grant,Paramount 4,State House,32,Rep,Tony Cook,161
-Grant,Franklin 1,State House,31,Rep,Kevin Mahan,69
-Grant,Franklin 2,State House,30,Rep,Mike Karickhoff,196
-Grant,Franklin 3,State House,30,Rep,Mike Karickhoff,141
-Grant,Franklin 4,State House,30,Rep,Mike Karickhoff,272
-Grant,Franklin 5,State House,30,Rep,Mike Karickhoff,380
-Grant,Franklin 6,State House,30,Rep,Mike Karickhoff,123
-Grant,Franklin 7,State House,31,Rep,Kevin Mahan,33
-Grant,Green,State House,32,Rep,Tony Cook,136
-Grant,Jefferson 1,State House,32,Rep,Tony Cook,444
-Grant,Jefferson 2,State House,32,Rep,Tony Cook,421
-Grant,Jefferson 3,State House,32,Rep,Tony Cook,249
-Grant,Liberty,State House,32,Rep,Tony Cook,303
-Grant,Mill 01,State House,31,Rep,Kevin Mahan,252
-Grant,Mill 02,State House,31,Rep,Kevin Mahan,225
-Grant,Mill 03,State House,31,Rep,Kevin Mahan,276
-Grant,Mill 04,State House,32,Rep,Tony Cook,205
-Grant,Mill 05,State House,32,Rep,Tony Cook,275
-Grant,Mill 06,State House,31,Rep,Kevin Mahan,243
-Grant,Mill 07,State House,31,Rep,Kevin Mahan,241
-Grant,Mill 08,State House,32,Rep,Tony Cook,108
-Grant,Mill 09,State House,31,Rep,Kevin Mahan,162
-Grant,Mill 10,State House,32,Rep,Tony Cook,163
-Grant,Mill 11,State House,31,Rep,Kevin Mahan,9
-Grant,Monroe,State House,31,Rep,Kevin Mahan,503
-Grant,Pleasant 1,State House,18,Rep,David Wolkins,468
-Grant,Pleasant 2,State House,18,Rep,David Wolkins,341
-Grant,Pleasant 3,State House,31,Rep,Kevin Mahan,367
-Grant,Pleasant 4,State House,31,Rep,Kevin Mahan,242
-Grant,Pleasant 5,State House,31,Rep,Kevin Mahan,179
-Grant,Pleasant 6,State House,31,Rep,Kevin Mahan,250
-Grant,Pleasant 7,State House,31,Rep,Kevin Mahan,190
-Grant,Richland,State House,18,Rep,David Wolkins,269
-Grant,Sims,State House,30,Rep,Mike Karickhoff,578
-Grant,Van Buren,State House,31,Rep,Kevin Mahan,450
-Grant,Washington 1,State House,31,Rep,Kevin Mahan,194
-Grant,Washington 2,State House,31,Rep,Kevin Mahan,156
-Grant,Washington 3,State House,31,Rep,Kevin Mahan,393
-Grant,Washington 4,State House,31,Rep,Kevin Mahan,219
-Grant,GRANT IN,State House,31,Rep,Kevin Mahan,7451
-Grant,GRANT IN,State House,30,Rep,Mike Karickhoff,1851
-Grant,GRANT IN,State House,18,Rep,David Wolkins,1078
-Grant,GRANT IN,State House,32,Rep,Tony Cook,3195
-Grant,Pleasant 1,State House,18,Dem,Dee Moore,160
-Grant,Pleasant 2,State House,18,Dem,Dee Moore,90
-Grant,Richland,State House,18,Dem,Dee Moore,63
-Grant,GRANT IN,State House,18,Dem,Dee Moore,313
-Grant,Center  01,State House,31,Dem,Lynn Johnson,127
-Grant,Center  02,State House,31,Dem,Lynn Johnson,106
-Grant,Center  03,State House,31,Dem,Lynn Johnson,121
-Grant,Center  04,State House,31,Dem,Lynn Johnson,97
-Grant,Center  05,State House,31,Dem,Lynn Johnson,127
-Grant,Center  06,State House,31,Dem,Lynn Johnson,134
-Grant,Center  07,State House,31,Dem,Lynn Johnson,110
-Grant,Center  08,State House,31,Dem,Lynn Johnson,207
-Grant,Center  09,State House,31,Dem,Lynn Johnson,158
-Grant,Center  10,State House,31,Dem,Lynn Johnson,106
-Grant,Center  11,State House,31,Dem,Lynn Johnson,112
-Grant,Center  12,State House,31,Dem,Lynn Johnson,135
-Grant,Center  13,State House,31,Dem,Lynn Johnson,124
-Grant,Center  15,State House,31,Dem,Lynn Johnson,84
-Grant,Center  16,State House,31,Dem,Lynn Johnson,120
-Grant,Center  17,State House,31,Dem,Lynn Johnson,66
-Grant,Center  18,State House,31,Dem,Lynn Johnson,106
-Grant,Center  19,State House,31,Dem,Lynn Johnson,113
-Grant,Center  20,State House,31,Dem,Lynn Johnson,24
-Grant,Center  24,State House,31,Dem,Lynn Johnson,11
-Grant,Franklin 1,State House,31,Dem,Lynn Johnson,57
-Grant,Franklin 7,State House,31,Dem,Lynn Johnson,30
-Grant,Mill 01,State House,31,Dem,Lynn Johnson,140
-Grant,Mill 02,State House,31,Dem,Lynn Johnson,129
-Grant,Mill 03,State House,31,Dem,Lynn Johnson,109
-Grant,Mill 06,State House,31,Dem,Lynn Johnson,152
-Grant,Mill 07,State House,31,Dem,Lynn Johnson,96
-Grant,Mill 09,State House,31,Dem,Lynn Johnson,78
-Grant,Mill 11,State House,31,Dem,Lynn Johnson,10
-Grant,Monroe,State House,31,Dem,Lynn Johnson,144
-Grant,Pleasant 3,State House,31,Dem,Lynn Johnson,157
-Grant,Pleasant 4,State House,31,Dem,Lynn Johnson,81
-Grant,Pleasant 5,State House,31,Dem,Lynn Johnson,109
-Grant,Pleasant 6,State House,31,Dem,Lynn Johnson,95
-Grant,Pleasant 7,State House,31,Dem,Lynn Johnson,80
-Grant,Van Buren,State House,31,Dem,Lynn Johnson,151
-Grant,Washington 1,State House,31,Dem,Lynn Johnson,44
-Grant,Washington 2,State House,31,Dem,Lynn Johnson,81
-Grant,Washington 3,State House,31,Dem,Lynn Johnson,129
-Grant,Washington 4,State House,31,Dem,Lynn Johnson,67
-Grant,GRANT IN,State House,31,Dem,Lynn Johnson,4127
-Grant,Paramount 1,State House,32,Dem,Amie Neiling,135
-Grant,Paramount 2,State House,32,Dem,Amie Neiling,116
-Grant,Paramount 3,State House,32,Dem,Amie Neiling,58
-Grant,Paramount 4,State House,32,Dem,Amie Neiling,53
-Grant,Green,State House,32,Dem,Amie Neiling,49
-Grant,Jefferson 1,State House,32,Dem,Amie Neiling,162
-Grant,Jefferson 2,State House,32,Dem,Amie Neiling,186
-Grant,Jefferson 3,State House,32,Dem,Amie Neiling,104
-Grant,Liberty,State House,32,Dem,Amie Neiling,76
-Grant,Mill 04,State House,32,Dem,Amie Neiling,84
-Grant,Mill 05,State House,32,Dem,Amie Neiling,83
-Grant,Mill 08,State House,32,Dem,Amie Neiling,58
-Grant,Mill 10,State House,32,Dem,Amie Neiling,76
-Grant,GRANT IN,State House,32,Dem,Amie Neiling,1240
+county,precinct,office,district,party,candidate,election_day,absentee,provisional,votes
+Grant,Center  01,Auditor,,Rep,Tera Klutz,86,39,0,125
+Grant,Center  01,Auditor,,Dem,Joselyn Whitticker,90,41,0,131
+Grant,Center  01,Auditor,,Lbt,John Schick,10,3,0,13
+Grant,Center  01,Ballots Cast,,,,190,86,0,276
+Grant,Center  01,Registered Voters,,,,,,,849
+Grant,Center  01,Secretary of State,,Rep,Connie Lawson,98,41,0,139
+Grant,Center  01,Secretary of State,,Dem,Jim Harper,76,35,0,111
+Grant,Center  01,Secretary of State,,Lbt,Mark Rutherford,11,3,0,14
+Grant,Center  01,Secretary of State,,,Write-ins,0,0,0,0
+Grant,Center  01,State House,31,Rep,Kevin Mahan,98,40,0,138
+Grant,Center  01,State House,31,Dem,Lynn Johnson,85,42,0,127
+Grant,Center  01,State Senate,17,Rep,Andy Zay,91,41,0,132
+Grant,Center  01,State Senate,17,Dem,Gary Snyder,91,41,0,132
+Grant,Center  01,Treasurer,,Rep,Kelly Mitchell,101,44,0,145
+Grant,Center  01,Treasurer,,Dem,John Aguilera,80,37,0,117
+Grant,Center  01,U.S. House,5,Rep,Susan Brooks,106,46,0,152
+Grant,Center  01,U.S. House,5,Dem,Dee Thornton,78,36,0,114
+Grant,Center  01,U.S. House,5,,Write-ins,1,0,0,1
+Grant,Center  01,U.S. Senate,,Rep,Mike Braun,86,37,0,123
+Grant,Center  01,U.S. Senate,,Dem,Joe Donnelly,89,37,0,126
+Grant,Center  01,U.S. Senate,,Lbt,Lucy Brenton,10,7,0,17
+Grant,Center  01,U.S. Senate,,,Write-ins,0,0,0,0
+Grant,Center  02,Auditor,,Rep,Tera Klutz,79,33,0,112
+Grant,Center  02,Auditor,,Dem,Joselyn Whitticker,80,30,0,110
+Grant,Center  02,Auditor,,Lbt,John Schick,10,5,0,15
+Grant,Center  02,Ballots Cast,,,,171,68,0,239
+Grant,Center  02,Registered Voters,,,,,,,623
+Grant,Center  02,Secretary of State,,Rep,Connie Lawson,89,35,0,124
+Grant,Center  02,Secretary of State,,Dem,Jim Harper,66,29,0,95
+Grant,Center  02,Secretary of State,,Lbt,Mark Rutherford,12,4,0,16
+Grant,Center  02,Secretary of State,,,Write-ins,0,0,0,0
+Grant,Center  02,State House,31,Rep,Kevin Mahan,92,37,0,129
+Grant,Center  02,State House,31,Dem,Lynn Johnson,77,29,0,106
+Grant,Center  02,State Senate,17,Rep,Andy Zay,87,33,0,120
+Grant,Center  02,State Senate,17,Dem,Gary Snyder,82,32,0,114
+Grant,Center  02,Treasurer,,Rep,Kelly Mitchell,94,37,0,131
+Grant,Center  02,Treasurer,,Dem,John Aguilera,71,30,0,101
+Grant,Center  02,U.S. House,5,Rep,Susan Brooks,95,37,0,132
+Grant,Center  02,U.S. House,5,Dem,Dee Thornton,73,30,0,103
+Grant,Center  02,U.S. House,5,,Write-ins,0,0,0,0
+Grant,Center  02,U.S. Senate,,Rep,Mike Braun,76,33,0,109
+Grant,Center  02,U.S. Senate,,Dem,Joe Donnelly,85,32,0,117
+Grant,Center  02,U.S. Senate,,Lbt,Lucy Brenton,9,3,0,12
+Grant,Center  02,U.S. Senate,,,Write-ins,0,0,0,0
+Grant,Center  03,Auditor,,Rep,Tera Klutz,26,2,0,28
+Grant,Center  03,Auditor,,Dem,Joselyn Whitticker,87,37,0,124
+Grant,Center  03,Auditor,,Lbt,John Schick,4,3,0,7
+Grant,Center  03,Ballots Cast,,,,119,43,0,162
+Grant,Center  03,Registered Voters,,,,,,,754
+Grant,Center  03,Secretary of State,,Rep,Connie Lawson,32,2,0,34
+Grant,Center  03,Secretary of State,,Dem,Jim Harper,79,32,0,111
+Grant,Center  03,Secretary of State,,Lbt,Mark Rutherford,4,5,0,9
+Grant,Center  03,Secretary of State,,,Write-ins,0,0,0,0
+Grant,Center  03,State House,31,Rep,Kevin Mahan,31,4,0,35
+Grant,Center  03,State House,31,Dem,Lynn Johnson,84,37,0,121
+Grant,Center  03,State Senate,17,Rep,Andy Zay,31,1,0,32
+Grant,Center  03,State Senate,17,Dem,Gary Snyder,84,39,0,123
+Grant,Center  03,Treasurer,,Rep,Kelly Mitchell,35,2,0,37
+Grant,Center  03,Treasurer,,Dem,John Aguilera,80,36,0,116
+Grant,Center  03,U.S. House,5,Rep,Susan Brooks,33,3,0,36
+Grant,Center  03,U.S. House,5,Dem,Dee Thornton,84,37,0,121
+Grant,Center  03,U.S. House,5,,Write-ins,0,0,0,0
+Grant,Center  03,U.S. Senate,,Rep,Mike Braun,30,1,0,31
+Grant,Center  03,U.S. Senate,,Dem,Joe Donnelly,82,37,0,119
+Grant,Center  03,U.S. Senate,,Lbt,Lucy Brenton,5,1,0,6
+Grant,Center  03,U.S. Senate,,,Write-ins,0,0,0,0
+Grant,Center  04,Auditor,,Rep,Tera Klutz,67,34,0,101
+Grant,Center  04,Auditor,,Dem,Joselyn Whitticker,86,21,0,107
+Grant,Center  04,Auditor,,Lbt,John Schick,7,2,0,9
+Grant,Center  04,Ballots Cast,,,,166,60,0,226
+Grant,Center  04,Registered Voters,,,,,,,723
+Grant,Center  04,Secretary of State,,Rep,Connie Lawson,74,34,0,108
+Grant,Center  04,Secretary of State,,Dem,Jim Harper,72,22,0,94
+Grant,Center  04,Secretary of State,,Lbt,Mark Rutherford,13,3,0,16
+Grant,Center  04,Secretary of State,,,Write-ins,0,0,0,0
+Grant,Center  04,State House,31,Rep,Kevin Mahan,83,36,0,119
+Grant,Center  04,State House,31,Dem,Lynn Johnson,74,23,0,97
+Grant,Center  04,State Senate,17,Rep,Andy Zay,70,35,0,105
+Grant,Center  04,State Senate,17,Dem,Gary Snyder,83,25,0,108
+Grant,Center  04,Treasurer,,Rep,Kelly Mitchell,77,36,0,113
+Grant,Center  04,Treasurer,,Dem,John Aguilera,78,23,0,101
+Grant,Center  04,U.S. House,5,Rep,Susan Brooks,80,38,0,118
+Grant,Center  04,U.S. House,5,Dem,Dee Thornton,78,22,0,100
+Grant,Center  04,U.S. House,5,,Write-ins,1,0,0,1
+Grant,Center  04,U.S. Senate,,Rep,Mike Braun,67,33,0,100
+Grant,Center  04,U.S. Senate,,Dem,Joe Donnelly,79,23,0,102
+Grant,Center  04,U.S. Senate,,Lbt,Lucy Brenton,19,3,0,22
+Grant,Center  04,U.S. Senate,,,Write-ins,0,0,0,0
+Grant,Center  05,Auditor,,Rep,Tera Klutz,62,32,0,94
+Grant,Center  05,Auditor,,Dem,Joselyn Whitticker,81,40,0,121
+Grant,Center  05,Auditor,,Lbt,John Schick,10,1,0,11
+Grant,Center  05,Ballots Cast,,,,155,74,0,229
+Grant,Center  05,Registered Voters,,,,,,,636
+Grant,Center  05,Secretary of State,,Rep,Connie Lawson,76,34,0,110
+Grant,Center  05,Secretary of State,,Dem,Jim Harper,68,36,0,104
+Grant,Center  05,Secretary of State,,Lbt,Mark Rutherford,8,1,0,9
+Grant,Center  05,Secretary of State,,,Write-ins,0,0,0,0
+Grant,Center  05,State House,31,Rep,Kevin Mahan,65,30,0,95
+Grant,Center  05,State House,31,Dem,Lynn Johnson,84,43,0,127
+Grant,Center  05,State Senate,17,Rep,Andy Zay,70,36,0,106
+Grant,Center  05,State Senate,17,Dem,Gary Snyder,80,37,0,117
+Grant,Center  05,Treasurer,,Rep,Kelly Mitchell,81,38,0,119
+Grant,Center  05,Treasurer,,Dem,John Aguilera,72,34,0,106
+Grant,Center  05,U.S. House,5,Rep,Susan Brooks,82,36,0,118
+Grant,Center  05,U.S. House,5,Dem,Dee Thornton,69,35,0,104
+Grant,Center  05,U.S. House,5,,Write-ins,0,0,0,0
+Grant,Center  05,U.S. Senate,,Rep,Mike Braun,61,33,0,94
+Grant,Center  05,U.S. Senate,,Dem,Joe Donnelly,77,38,0,115
+Grant,Center  05,U.S. Senate,,Lbt,Lucy Brenton,14,2,0,16
+Grant,Center  05,U.S. Senate,,,Write-ins,0,0,0,0
+Grant,Center  06,Auditor,,Rep,Tera Klutz,57,26,0,83
+Grant,Center  06,Auditor,,Dem,Joselyn Whitticker,97,43,0,140
+Grant,Center  06,Auditor,,Lbt,John Schick,6,0,0,6
+Grant,Center  06,Ballots Cast,,,,166,70,0,236
+Grant,Center  06,Registered Voters,,,,,,,599
+Grant,Center  06,Secretary of State,,Rep,Connie Lawson,60,31,0,91
+Grant,Center  06,Secretary of State,,Dem,Jim Harper,87,36,0,123
+Grant,Center  06,Secretary of State,,Lbt,Mark Rutherford,11,0,0,11
+Grant,Center  06,Secretary of State,,,Write-ins,0,0,0,0
+Grant,Center  06,State House,31,Rep,Kevin Mahan,63,32,0,95
+Grant,Center  06,State House,31,Dem,Lynn Johnson,97,37,0,134
+Grant,Center  06,State Senate,17,Rep,Andy Zay,56,30,0,86
+Grant,Center  06,State Senate,17,Dem,Gary Snyder,99,39,0,138
+Grant,Center  06,Treasurer,,Rep,Kelly Mitchell,66,28,0,94
+Grant,Center  06,Treasurer,,Dem,John Aguilera,89,40,0,129
+Grant,Center  06,U.S. House,5,Rep,Susan Brooks,71,34,0,105
+Grant,Center  06,U.S. House,5,Dem,Dee Thornton,87,35,0,122
+Grant,Center  06,U.S. House,5,,Write-ins,0,0,0,0
+Grant,Center  06,U.S. Senate,,Rep,Mike Braun,57,28,0,85
+Grant,Center  06,U.S. Senate,,Dem,Joe Donnelly,94,40,0,134
+Grant,Center  06,U.S. Senate,,Lbt,Lucy Brenton,11,0,0,12
+Grant,Center  06,U.S. Senate,,,Write-ins,0,0,0,0
+Grant,Center  07,Auditor,,Rep,Tera Klutz,81,16,0,97
+Grant,Center  07,Auditor,,Dem,Joselyn Whitticker,85,34,0,119
+Grant,Center  07,Auditor,,Lbt,John Schick,7,0,0,7
+Grant,Center  07,Ballots Cast,,,,174,52,0,226
+Grant,Center  07,Registered Voters,,,,,,,765
+Grant,Center  07,Secretary of State,,Rep,Connie Lawson,88,21,0,109
+Grant,Center  07,Secretary of State,,Dem,Jim Harper,73,29,0,102
+Grant,Center  07,Secretary of State,,Lbt,Mark Rutherford,8,1,0,9
+Grant,Center  07,Secretary of State,,,Write-ins,0,0,0,0
+Grant,Center  07,State House,31,Rep,Kevin Mahan,90,19,0,109
+Grant,Center  07,State House,31,Dem,Lynn Johnson,80,30,0,110
+Grant,Center  07,State Senate,17,Rep,Andy Zay,86,20,0,106
+Grant,Center  07,State Senate,17,Dem,Gary Snyder,84,29,0,113
+Grant,Center  07,Treasurer,,Rep,Kelly Mitchell,93,20,0,113
+Grant,Center  07,Treasurer,,Dem,John Aguilera,73,31,0,104
+Grant,Center  07,U.S. House,5,Rep,Susan Brooks,96,23,0,119
+Grant,Center  07,U.S. House,5,Dem,Dee Thornton,75,28,0,103
+Grant,Center  07,U.S. House,5,,Write-ins,0,0,0,0
+Grant,Center  07,U.S. Senate,,Rep,Mike Braun,84,15,0,99
+Grant,Center  07,U.S. Senate,,Dem,Joe Donnelly,78,35,0,113
+Grant,Center  07,U.S. Senate,,Lbt,Lucy Brenton,10,2,0,12
+Grant,Center  07,U.S. Senate,,,Write-ins,0,0,0,0
+Grant,Center  08,Auditor,,Rep,Tera Klutz,53,10,0,63
+Grant,Center  08,Auditor,,Dem,Joselyn Whitticker,165,51,0,216
+Grant,Center  08,Auditor,,Lbt,John Schick,5,2,0,7
+Grant,Center  08,Ballots Cast,,,,226,67,0,293
+Grant,Center  08,Registered Voters,,,,,,,725
+Grant,Center  08,Secretary of State,,Rep,Connie Lawson,61,11,0,72
+Grant,Center  08,Secretary of State,,Dem,Jim Harper,151,50,0,201
+Grant,Center  08,Secretary of State,,Lbt,Mark Rutherford,11,1,0,8
+Grant,Center  08,Secretary of State,,,Write-ins,0,0,0,0
+Grant,Center  08,State House,31,Rep,Kevin Mahan,60,12,0,72
+Grant,Center  08,State House,31,Dem,Lynn Johnson,156,51,0,207
+Grant,Center  08,State Senate,17,Rep,Andy Zay,52,11,0,63
+Grant,Center  08,State Senate,17,Dem,Gary Snyder,159,51,0,210
+Grant,Center  08,Treasurer,,Rep,Kelly Mitchell,61,10,0,71
+Grant,Center  08,Treasurer,,Dem,John Aguilera,157,53,0,210
+Grant,Center  08,U.S. House,5,Rep,Susan Brooks,62,13,0,75
+Grant,Center  08,U.S. House,5,Dem,Dee Thornton,157,50,0,207
+Grant,Center  08,U.S. House,5,,Write-ins,0,0,0,0
+Grant,Center  08,U.S. Senate,,Rep,Mike Braun,48,11,0,59
+Grant,Center  08,U.S. Senate,,Dem,Joe Donnelly,163,50,0,213
+Grant,Center  08,U.S. Senate,,Lbt,Lucy Brenton,11,1,0,12
+Grant,Center  08,U.S. Senate,,,Write-ins,0,0,0,0
+Grant,Center  09,Auditor,,Rep,Tera Klutz,49,16,0,65
+Grant,Center  09,Auditor,,Dem,Joselyn Whitticker,121,42,0,163
+Grant,Center  09,Auditor,,Lbt,John Schick,3,0,0,3
+Grant,Center  09,Ballots Cast,,,,177,62,0,239
+Grant,Center  09,Registered Voters,,,,,,,797
+Grant,Center  09,Secretary of State,,Rep,Connie Lawson,60,19,0,79
+Grant,Center  09,Secretary of State,,Dem,Jim Harper,104,39,0,143
+Grant,Center  09,Secretary of State,,Lbt,Mark Rutherford,4,0,0,4
+Grant,Center  09,Secretary of State,,,Write-ins,0,0,0,0
+Grant,Center  09,State House,31,Rep,Kevin Mahan,54,16,0,70
+Grant,Center  09,State House,31,Dem,Lynn Johnson,116,42,0,158
+Grant,Center  09,State Senate,17,Rep,Andy Zay,52,16,0,68
+Grant,Center  09,State Senate,17,Dem,Gary Snyder,117,41,0,158
+Grant,Center  09,Treasurer,,Rep,Kelly Mitchell,59,20,0,79
+Grant,Center  09,Treasurer,,Dem,John Aguilera,108,37,0,145
+Grant,Center  09,U.S. House,5,Rep,Susan Brooks,54,18,0,72
+Grant,Center  09,U.S. House,5,Dem,Dee Thornton,114,38,0,152
+Grant,Center  09,U.S. House,5,,Write-ins,0,0,0,0
+Grant,Center  09,U.S. Senate,,Rep,Mike Braun,51,18,0,69
+Grant,Center  09,U.S. Senate,,Dem,Joe Donnelly,115,41,0,156
+Grant,Center  09,U.S. Senate,,Lbt,Lucy Brenton,7,1,0,8
+Grant,Center  09,U.S. Senate,,,Write-ins,0,0,0,0
+Grant,Center  10,Auditor,,Rep,Tera Klutz,220,74,0,294
+Grant,Center  10,Auditor,,Dem,Joselyn Whitticker,77,31,0,108
+Grant,Center  10,Auditor,,Lbt,John Schick,8,4,0,12
+Grant,Center  10,Ballots Cast,,,,308,111,0,419
+Grant,Center  10,Registered Voters,,,,,,,923
+Grant,Center  10,Secretary of State,,Rep,Connie Lawson,228,82,0,310
+Grant,Center  10,Secretary of State,,Dem,Jim Harper,71,25,0,96
+Grant,Center  10,Secretary of State,,Lbt,Mark Rutherford,6,3,0,9
+Grant,Center  10,Secretary of State,,,Write-ins,0,0,0,0
+Grant,Center  10,State House,31,Rep,Kevin Mahan,225,80,0,305
+Grant,Center  10,State House,31,Dem,Lynn Johnson,77,29,0,106
+Grant,Center  10,State Senate,17,Rep,Andy Zay,223,80,0,303
+Grant,Center  10,State Senate,17,Dem,Gary Snyder,79,27,0,106
+Grant,Center  10,Treasurer,,Rep,Kelly Mitchell,229,83,0,312
+Grant,Center  10,Treasurer,,Dem,John Aguilera,75,23,0,98
+Grant,Center  10,U.S. House,5,Rep,Susan Brooks,238,83,0,321
+Grant,Center  10,U.S. House,5,Dem,Dee Thornton,69,27,0,96
+Grant,Center  10,U.S. House,5,,Write-ins,0,0,0,0
+Grant,Center  10,U.S. Senate,,Rep,Mike Braun,211,78,0,289
+Grant,Center  10,U.S. Senate,,Dem,Joe Donnelly,81,29,0,110
+Grant,Center  10,U.S. Senate,,Lbt,Lucy Brenton,14,2,0,16
+Grant,Center  10,U.S. Senate,,,Write-ins,0,0,0,0
+Grant,Center  11,Auditor,,Rep,Tera Klutz,158,70,0,228
+Grant,Center  11,Auditor,,Dem,Joselyn Whitticker,85,25,0,110
+Grant,Center  11,Auditor,,Lbt,John Schick,9,1,0,10
+Grant,Center  11,Ballots Cast,,,,257,101,0,358
+Grant,Center  11,Registered Voters,,,,,,,1038
+Grant,Center  11,Secretary of State,,Rep,Connie Lawson,169,74,0,243
+Grant,Center  11,Secretary of State,,Dem,Jim Harper,72,22,0,94
+Grant,Center  11,Secretary of State,,Lbt,Mark Rutherford,8,2,0,10
+Grant,Center  11,Secretary of State,,,Write-ins,0,0,0,0
+Grant,Center  11,State House,31,Rep,Kevin Mahan,166,67,0,233
+Grant,Center  11,State House,31,Dem,Lynn Johnson,83,29,0,112
+Grant,Center  11,State Senate,17,Rep,Andy Zay,161,64,0,225
+Grant,Center  11,State Senate,17,Dem,Gary Snyder,88,27,0,115
+Grant,Center  11,Treasurer,,Rep,Kelly Mitchell,174,73,0,247
+Grant,Center  11,Treasurer,,Dem,John Aguilera,77,24,0,101
+Grant,Center  11,U.S. House,5,Rep,Susan Brooks,177,70,0,247
+Grant,Center  11,U.S. House,5,Dem,Dee Thornton,71,25,0,96
+Grant,Center  11,U.S. House,5,,Write-ins,1,0,0,1
+Grant,Center  11,U.S. Senate,,Rep,Mike Braun,160,65,0,225
+Grant,Center  11,U.S. Senate,,Dem,Joe Donnelly,81,27,0,108
+Grant,Center  11,U.S. Senate,,Lbt,Lucy Brenton,11,4,0,15
+Grant,Center  11,U.S. Senate,,,Write-ins,1,0,0,1
+Grant,Center  12,Auditor,,Rep,Tera Klutz,137,68,0,205
+Grant,Center  12,Auditor,,Dem,Joselyn Whitticker,82,64,0,146
+Grant,Center  12,Auditor,,Lbt,John Schick,10,1,0,11
+Grant,Center  12,Ballots Cast,,,,235,142,0,377
+Grant,Center  12,Registered Voters,,,,,,,620
+Grant,Center  12,Secretary of State,,Rep,Connie Lawson,143,80,0,223
+Grant,Center  12,Secretary of State,,Dem,Jim Harper,75,56,0,131
+Grant,Center  12,Secretary of State,,Lbt,Mark Rutherford,10,0,0,10
+Grant,Center  12,Secretary of State,,,Write-ins,0,0,0,0
+Grant,Center  12,State House,31,Rep,Kevin Mahan,150,77,0,227
+Grant,Center  12,State House,31,Dem,Lynn Johnson,79,56,0,135
+Grant,Center  12,State Senate,17,Rep,Andy Zay,135,79,0,214
+Grant,Center  12,State Senate,17,Dem,Gary Snyder,87,55,0,142
+Grant,Center  12,Treasurer,,Rep,Kelly Mitchell,145,77,0,222
+Grant,Center  12,Treasurer,,Dem,John Aguilera,80,54,0,134
+Grant,Center  12,U.S. House,5,Rep,Susan Brooks,152,83,0,235
+Grant,Center  12,U.S. House,5,Dem,Dee Thornton,75,49,0,124
+Grant,Center  12,U.S. House,5,,Write-ins,0,0,0,0
+Grant,Center  12,U.S. Senate,,Rep,Mike Braun,135,70,0,205
+Grant,Center  12,U.S. Senate,,Dem,Joe Donnelly,81,62,0,143
+Grant,Center  12,U.S. Senate,,Lbt,Lucy Brenton,14,3,0,17
+Grant,Center  12,U.S. Senate,,,Write-ins,0,0,0,0
+Grant,Center  13,Auditor,,Rep,Tera Klutz,99,44,0,143
+Grant,Center  13,Auditor,,Dem,Joselyn Whitticker,90,40,0,130
+Grant,Center  13,Auditor,,Lbt,John Schick,5,1,0,6
+Grant,Center  13,Ballots Cast,,,,198,88,0,286
+Grant,Center  13,Registered Voters,,,,,,,741
+Grant,Center  13,Secretary of State,,Rep,Connie Lawson,111,49,0,160
+Grant,Center  13,Secretary of State,,Dem,Jim Harper,77,36,0,113
+Grant,Center  13,Secretary of State,,Lbt,Mark Rutherford,7,0,0,7
+Grant,Center  13,Secretary of State,,,Write-ins,0,0,0,0
+Grant,Center  13,State House,31,Rep,Kevin Mahan,108,45,0,153
+Grant,Center  13,State House,31,Dem,Lynn Johnson,85,39,0,124
+Grant,Center  13,State Senate,17,Rep,Andy Zay,105,47,0,152
+Grant,Center  13,State Senate,17,Dem,Gary Snyder,89,37,0,126
+Grant,Center  13,Treasurer,,Rep,Kelly Mitchell,110,50,0,160
+Grant,Center  13,Treasurer,,Dem,John Aguilera,85,35,0,120
+Grant,Center  13,U.S. House,5,Rep,Susan Brooks,112,52,0,164
+Grant,Center  13,U.S. House,5,Dem,Dee Thornton,84,34,0,118
+Grant,Center  13,U.S. House,5,,Write-ins,0,0,0,0
+Grant,Center  13,U.S. Senate,,Rep,Mike Braun,107,43,0,150
+Grant,Center  13,U.S. Senate,,Dem,Joe Donnelly,80,37,0,117
+Grant,Center  13,U.S. Senate,,Lbt,Lucy Brenton,11,4,0,15
+Grant,Center  13,U.S. Senate,,,Write-ins,0,0,0,0
+Grant,Center  14,Auditor,,Rep,Tera Klutz,93,32,0,125
+Grant,Center  14,Auditor,,Dem,Joselyn Whitticker,48,17,0,65
+Grant,Center  14,Auditor,,Lbt,John Schick,11,0,0,11
+Grant,Center  14,Ballots Cast,,,,160,49,0,209
+Grant,Center  14,Registered Voters,,,,,,,609
+Grant,Center  14,Secretary of State,,Rep,Connie Lawson,100,35,0,135
+Grant,Center  14,Secretary of State,,Dem,Jim Harper,43,14,0,57
+Grant,Center  14,Secretary of State,,Lbt,Mark Rutherford,10,0,0,10
+Grant,Center  14,Secretary of State,,,Write-ins,1,0,0,1
+Grant,Center  14,State House,30,Rep,Mike Karickhoff,123,38,0,161
+Grant,Center  14,State Senate,21,Rep,James Buck,99,33,0,132
+Grant,Center  14,State Senate,21,Dem,Christina Fivecoate,51,16,0,67
+Grant,Center  14,Treasurer,,Rep,Kelly Mitchell,107,35,0,142
+Grant,Center  14,Treasurer,,Dem,John Aguilera,47,14,0,61
+Grant,Center  14,U.S. House,5,Rep,Susan Brooks,108,32,0,140
+Grant,Center  14,U.S. House,5,Dem,Dee Thornton,46,16,0,62
+Grant,Center  14,U.S. House,5,,Write-ins,0,0,0,0
+Grant,Center  14,U.S. Senate,,Rep,Mike Braun,90,32,0,122
+Grant,Center  14,U.S. Senate,,Dem,Joe Donnelly,55,16,0,71
+Grant,Center  14,U.S. Senate,,Lbt,Lucy Brenton,10,1,0,11
+Grant,Center  14,U.S. Senate,,,Write-ins,0,0,0,0
+Grant,Center  15,Auditor,,Rep,Tera Klutz,114,66,0,180
+Grant,Center  15,Auditor,,Dem,Joselyn Whitticker,56,49,0,105
+Grant,Center  15,Auditor,,Lbt,John Schick,5,2,0,7
+Grant,Center  15,Ballots Cast,,,,178,120,0,298
+Grant,Center  15,Registered Voters,,,,,,,571
+Grant,Center  15,Secretary of State,,Rep,Connie Lawson,129,72,0,201
+Grant,Center  15,Secretary of State,,Dem,Jim Harper,44,42,0,86
+Grant,Center  15,Secretary of State,,Lbt,Mark Rutherford,3,2,0,5
+Grant,Center  15,Secretary of State,,,Write-ins,0,0,0,0
+Grant,Center  15,State House,31,Rep,Kevin Mahan,130,78,0,208
+Grant,Center  15,State House,31,Dem,Lynn Johnson,44,40,0,84
+Grant,Center  15,State Senate,17,Rep,Andy Zay,118,68,0,186
+Grant,Center  15,State Senate,17,Dem,Gary Snyder,54,51,0,105
+Grant,Center  15,Treasurer,,Rep,Kelly Mitchell,132,74,0,206
+Grant,Center  15,Treasurer,,Dem,John Aguilera,45,44,0,89
+Grant,Center  15,U.S. House,5,Rep,Susan Brooks,137,76,0,213
+Grant,Center  15,U.S. House,5,Dem,Dee Thornton,39,42,0,81
+Grant,Center  15,U.S. House,5,,Write-ins,0,0,0,0
+Grant,Center  15,U.S. Senate,,Rep,Mike Braun,115,67,0,182
+Grant,Center  15,U.S. Senate,,Dem,Joe Donnelly,52,49,0,101
+Grant,Center  15,U.S. Senate,,Lbt,Lucy Brenton,9,2,0,11
+Grant,Center  15,U.S. Senate,,,Write-ins,0,0,0,0
+Grant,Center  16,Auditor,,Rep,Tera Klutz,32,19,0,51
+Grant,Center  16,Auditor,,Dem,Joselyn Whitticker,99,28,0,127
+Grant,Center  16,Auditor,,Lbt,John Schick,5,1,0,6
+Grant,Center  16,Ballots Cast,,,,139,48,0,187
+Grant,Center  16,Registered Voters,,,,,,,704
+Grant,Center  16,Secretary of State,,Rep,Connie Lawson,41,21,0,62
+Grant,Center  16,Secretary of State,,Dem,Jim Harper,89,24,0,113
+Grant,Center  16,Secretary of State,,Lbt,Mark Rutherford,4,2,0,6
+Grant,Center  16,Secretary of State,,,Write-ins,0,0,0,0
+Grant,Center  16,State House,31,Rep,Kevin Mahan,40,20,0,60
+Grant,Center  16,State House,31,Dem,Lynn Johnson,94,26,0,120
+Grant,Center  16,State Senate,17,Rep,Andy Zay,37,20,0,57
+Grant,Center  16,State Senate,17,Dem,Gary Snyder,95,26,0,121
+Grant,Center  16,Treasurer,,Rep,Kelly Mitchell,39,21,0,60
+Grant,Center  16,Treasurer,,Dem,John Aguilera,94,27,0,121
+Grant,Center  16,U.S. House,5,Rep,Susan Brooks,40,19,0,59
+Grant,Center  16,U.S. House,5,Dem,Dee Thornton,96,27,0,123
+Grant,Center  16,U.S. House,5,,Write-ins,0,0,0,0
+Grant,Center  16,U.S. Senate,,Rep,Mike Braun,35,18,0,53
+Grant,Center  16,U.S. Senate,,Dem,Joe Donnelly,92,27,0,119
+Grant,Center  16,U.S. Senate,,Lbt,Lucy Brenton,9,3,0,12
+Grant,Center  16,U.S. Senate,,,Write-ins,1,0,0,1
+Grant,Center  17,Auditor,,Rep,Tera Klutz,121,96,0,217
+Grant,Center  17,Auditor,,Dem,Joselyn Whitticker,37,32,0,69
+Grant,Center  17,Auditor,,Lbt,John Schick,6,0,0,6
+Grant,Center  17,Ballots Cast,,,,166,130,0,296
+Grant,Center  17,Registered Voters,,,,,,,555
+Grant,Center  17,Secretary of State,,Rep,Connie Lawson,127,98,0,225
+Grant,Center  17,Secretary of State,,Dem,Jim Harper,29,30,0,59
+Grant,Center  17,Secretary of State,,Lbt,Mark Rutherford,8,0,0,8
+Grant,Center  17,Secretary of State,,,Write-ins,0,0,0,0
+Grant,Center  17,State House,31,Rep,Kevin Mahan,123,97,0,220
+Grant,Center  17,State House,31,Dem,Lynn Johnson,36,30,0,66
+Grant,Center  17,State Senate,17,Rep,Andy Zay,122,98,0,220
+Grant,Center  17,State Senate,17,Dem,Gary Snyder,38,30,0,68
+Grant,Center  17,Treasurer,,Rep,Kelly Mitchell,130,100,0,230
+Grant,Center  17,Treasurer,,Dem,John Aguilera,31,28,0,59
+Grant,Center  17,U.S. House,5,Rep,Susan Brooks,128,101,0,229
+Grant,Center  17,U.S. House,5,Dem,Dee Thornton,31,27,0,58
+Grant,Center  17,U.S. House,5,,Write-ins,0,0,0,0
+Grant,Center  17,U.S. Senate,,Rep,Mike Braun,111,98,0,209
+Grant,Center  17,U.S. Senate,,Dem,Joe Donnelly,40,29,0,69
+Grant,Center  17,U.S. Senate,,Lbt,Lucy Brenton,12,2,0,14
+Grant,Center  17,U.S. Senate,,,Write-ins,0,0,0,0
+Grant,Center  18,Auditor,,Rep,Tera Klutz,147,94,0,241
+Grant,Center  18,Auditor,,Dem,Joselyn Whitticker,57,51,0,108
+Grant,Center  18,Auditor,,Lbt,John Schick,4,4,0,8
+Grant,Center  18,Ballots Cast,,,,216,154,0,370
+Grant,Center  18,Registered Voters,,,,,,,668
+Grant,Center  18,Secretary of State,,Rep,Connie Lawson,163,110,0,273
+Grant,Center  18,Secretary of State,,Dem,Jim Harper,44,37,0,81
+Grant,Center  18,Secretary of State,,Lbt,Mark Rutherford,3,3,0,6
+Grant,Center  18,Secretary of State,,,Write-ins,0,0,0,0
+Grant,Center  18,State House,31,Rep,Kevin Mahan,153,99,0,252
+Grant,Center  18,State House,31,Dem,Lynn Johnson,56,50,0,106
+Grant,Center  18,State Senate,17,Rep,Andy Zay,153,102,0,255
+Grant,Center  18,State Senate,17,Dem,Gary Snyder,56,45,0,101
+Grant,Center  18,Treasurer,,Rep,Kelly Mitchell,163,105,0,268
+Grant,Center  18,Treasurer,,Dem,John Aguilera,44,42,0,86
+Grant,Center  18,U.S. House,5,Rep,Susan Brooks,167,106,0,273
+Grant,Center  18,U.S. House,5,Dem,Dee Thornton,45,43,0,88
+Grant,Center  18,U.S. House,5,,Write-ins,0,0,0,0
+Grant,Center  18,U.S. Senate,,Rep,Mike Braun,147,101,0,248
+Grant,Center  18,U.S. Senate,,Dem,Joe Donnelly,57,50,0,107
+Grant,Center  18,U.S. Senate,,Lbt,Lucy Brenton,9,1,0,10
+Grant,Center  18,U.S. Senate,,,Write-ins,0,0,0,0
+Grant,Center  19,Auditor,,Rep,Tera Klutz,132,58,0,190
+Grant,Center  19,Auditor,,Dem,Joselyn Whitticker,72,51,0,123
+Grant,Center  19,Auditor,,Lbt,John Schick,5,2,0,7
+Grant,Center  19,Ballots Cast,,,,218,113,0,331
+Grant,Center  19,Registered Voters,,,,,,,622
+Grant,Center  19,Secretary of State,,Rep,Connie Lawson,134,69,0,203
+Grant,Center  19,Secretary of State,,Dem,Jim Harper,68,41,0,109
+Grant,Center  19,Secretary of State,,Lbt,Mark Rutherford,7,2,0,9
+Grant,Center  19,Secretary of State,,,Write-ins,0,0,0,0
+Grant,Center  19,State House,31,Rep,Kevin Mahan,140,69,0,209
+Grant,Center  19,State House,31,Dem,Lynn Johnson,72,41,0,113
+Grant,Center  19,State Senate,17,Rep,Andy Zay,127,66,0,193
+Grant,Center  19,State Senate,17,Dem,Gary Snyder,83,45,0,128
+Grant,Center  19,Treasurer,,Rep,Kelly Mitchell,139,67,0,206
+Grant,Center  19,Treasurer,,Dem,John Aguilera,73,44,0,117
+Grant,Center  19,U.S. House,5,Rep,Susan Brooks,142,72,0,214
+Grant,Center  19,U.S. House,5,Dem,Dee Thornton,69,40,0,109
+Grant,Center  19,U.S. House,5,,Write-ins,0,0,0,0
+Grant,Center  19,U.S. Senate,,Rep,Mike Braun,111,54,0,165
+Grant,Center  19,U.S. Senate,,Dem,Joe Donnelly,90,53,0,143
+Grant,Center  19,U.S. Senate,,Lbt,Lucy Brenton,13,5,0,18
+Grant,Center  19,U.S. Senate,,,Write-ins,0,0,0,0
+Grant,Center  20,Auditor,,Rep,Tera Klutz,26,8,0,34
+Grant,Center  20,Auditor,,Dem,Joselyn Whitticker,11,13,0,24
+Grant,Center  20,Auditor,,Lbt,John Schick,1,0,0,1
+Grant,Center  20,Ballots Cast,,,,39,22,0,61
+Grant,Center  20,Registered Voters,,,,,,,187
+Grant,Center  20,Secretary of State,,Rep,Connie Lawson,25,11,0,36
+Grant,Center  20,Secretary of State,,Dem,Jim Harper,12,10,0,22
+Grant,Center  20,Secretary of State,,Lbt,Mark Rutherford,0,0,0,0
+Grant,Center  20,Secretary of State,,,Write-ins,0,0,0,0
+Grant,Center  20,State House,31,Rep,Kevin Mahan,27,8,0,35
+Grant,Center  20,State House,31,Dem,Lynn Johnson,11,13,0,24
+Grant,Center  20,State Senate,17,Rep,Andy Zay,25,11,0,36
+Grant,Center  20,State Senate,17,Dem,Gary Snyder,12,10,0,22
+Grant,Center  20,Treasurer,,Rep,Kelly Mitchell,25,12,0,37
+Grant,Center  20,Treasurer,,Dem,John Aguilera,11,10,0,21
+Grant,Center  20,U.S. House,5,Rep,Susan Brooks,27,14,0,41
+Grant,Center  20,U.S. House,5,Dem,Dee Thornton,10,8,0,18
+Grant,Center  20,U.S. House,5,,Write-ins,0,0,0,0
+Grant,Center  20,U.S. Senate,,Rep,Mike Braun,25,11,0,36
+Grant,Center  20,U.S. Senate,,Dem,Joe Donnelly,11,11,0,22
+Grant,Center  20,U.S. Senate,,Lbt,Lucy Brenton,1,0,0,1
+Grant,Center  20,U.S. Senate,,,Write-ins,0,0,0,0
+Grant,Center  24,Auditor,,Rep,Tera Klutz,13,22,0,35
+Grant,Center  24,Auditor,,Dem,Joselyn Whitticker,5,6,0,11
+Grant,Center  24,Auditor,,Lbt,John Schick,0,0,0,0
+Grant,Center  24,Ballots Cast,,,,18,29,0,47
+Grant,Center  24,Registered Voters,,,,,,,104
+Grant,Center  24,Secretary of State,,Rep,Connie Lawson,11,22,0,33
+Grant,Center  24,Secretary of State,,Dem,Jim Harper,7,6,0,13
+Grant,Center  24,Secretary of State,,Lbt,Mark Rutherford,0,0,0,0
+Grant,Center  24,Secretary of State,,,Write-ins,0,0,0,0
+Grant,Center  24,State House,31,Rep,Kevin Mahan,12,22,0,34
+Grant,Center  24,State House,31,Dem,Lynn Johnson,6,5,0,11
+Grant,Center  24,State Senate,17,Rep,Andy Zay,10,21,0,31
+Grant,Center  24,State Senate,17,Dem,Gary Snyder,8,6,0,14
+Grant,Center  24,Treasurer,,Rep,Kelly Mitchell,11,21,0,32
+Grant,Center  24,Treasurer,,Dem,John Aguilera,7,6,0,13
+Grant,Center  24,U.S. House,5,Rep,Susan Brooks,12,23,0,35
+Grant,Center  24,U.S. House,5,Dem,Dee Thornton,6,6,0,12
+Grant,Center  24,U.S. House,5,,Write-ins,0,0,0,0
+Grant,Center  24,U.S. Senate,,Rep,Mike Braun,10,16,0,26
+Grant,Center  24,U.S. Senate,,Dem,Joe Donnelly,8,13,0,21
+Grant,Center  24,U.S. Senate,,Lbt,Lucy Brenton,0,0,0,0
+Grant,Center  24,U.S. Senate,,,Write-ins,0,0,0,0
+Grant,Franklin 1,Auditor,,Rep,Tera Klutz,46,15,0,61
+Grant,Franklin 1,Auditor,,Dem,Joselyn Whitticker,44,18,0,62
+Grant,Franklin 1,Auditor,,Lbt,John Schick,4,0,0,4
+Grant,Franklin 1,Ballots Cast,,,,96,33,0,129
+Grant,Franklin 1,Registered Voters,,,,,,,479
+Grant,Franklin 1,Secretary of State,,Rep,Connie Lawson,53,14,0,67
+Grant,Franklin 1,Secretary of State,,Dem,Jim Harper,35,18,0,53
+Grant,Franklin 1,Secretary of State,,Lbt,Mark Rutherford,5,1,0,6
+Grant,Franklin 1,Secretary of State,,,Write-ins,0,0,0,0
+Grant,Franklin 1,State House,31,Rep,Kevin Mahan,53,16,0,69
+Grant,Franklin 1,State House,31,Dem,Lynn Johnson,40,17,0,57
+Grant,Franklin 1,State Senate,21,Rep,James Buck,58,15,0,73
+Grant,Franklin 1,State Senate,21,Dem,Christina Fivecoate,35,18,0,53
+Grant,Franklin 1,Treasurer,,Rep,Kelly Mitchell,56,15,0,71
+Grant,Franklin 1,Treasurer,,Dem,John Aguilera,37,18,0,55
+Grant,Franklin 1,U.S. House,5,Rep,Susan Brooks,61,16,0,77
+Grant,Franklin 1,U.S. House,5,Dem,Dee Thornton,35,17,0,52
+Grant,Franklin 1,U.S. House,5,,Write-ins,0,0,0,0
+Grant,Franklin 1,U.S. Senate,,Rep,Mike Braun,49,15,0,64
+Grant,Franklin 1,U.S. Senate,,Dem,Joe Donnelly,41,18,0,59
+Grant,Franklin 1,U.S. Senate,,Lbt,Lucy Brenton,5,0,0,5
+Grant,Franklin 1,U.S. Senate,,,Write-ins,0,0,0,0
+Grant,Franklin 2,Auditor,,Rep,Tera Klutz,112,40,0,152
+Grant,Franklin 2,Auditor,,Dem,Joselyn Whitticker,77,33,0,110
+Grant,Franklin 2,Auditor,,Lbt,John Schick,3,3,0,6
+Grant,Franklin 2,Ballots Cast,,,,198,84,0,282
+Grant,Franklin 2,Registered Voters,,,,,,,682
+Grant,Franklin 2,Secretary of State,,Rep,Connie Lawson,124,43,0,167
+Grant,Franklin 2,Secretary of State,,Dem,Jim Harper,65,30,0,95
+Grant,Franklin 2,Secretary of State,,Lbt,Mark Rutherford,3,4,0,7
+Grant,Franklin 2,Secretary of State,,,Write-ins,0,0,0,0
+Grant,Franklin 2,State House,30,Rep,Mike Karickhoff,146,50,0,196
+Grant,Franklin 2,State Senate,21,Rep,James Buck,119,43,0,162
+Grant,Franklin 2,State Senate,21,Dem,Christina Fivecoate,71,33,0,104
+Grant,Franklin 2,Treasurer,,Rep,Kelly Mitchell,122,44,0,166
+Grant,Franklin 2,Treasurer,,Dem,John Aguilera,69,31,0,100
+Grant,Franklin 2,U.S. House,5,Rep,Susan Brooks,127,45,0,172
+Grant,Franklin 2,U.S. House,5,Dem,Dee Thornton,66,31,0,97
+Grant,Franklin 2,U.S. House,5,,Write-ins,0,0,0,0
+Grant,Franklin 2,U.S. Senate,,Rep,Mike Braun,113,40,0,153
+Grant,Franklin 2,U.S. Senate,,Dem,Joe Donnelly,77,31,0,108
+Grant,Franklin 2,U.S. Senate,,Lbt,Lucy Brenton,5,5,0,10
+Grant,Franklin 2,U.S. Senate,,,Write-ins,0,1,0,1
+Grant,Franklin 3,Auditor,,Rep,Tera Klutz,80,29,0,109
+Grant,Franklin 3,Auditor,,Dem,Joselyn Whitticker,84,25,0,109
+Grant,Franklin 3,Auditor,,Lbt,John Schick,6,4,0,10
+Grant,Franklin 3,Ballots Cast,,,,171,61,0,232
+Grant,Franklin 3,Registered Voters,,,,,,,717
+Grant,Franklin 3,Secretary of State,,Rep,Connie Lawson,90,36,0,126
+Grant,Franklin 3,Secretary of State,,Dem,Jim Harper,75,18,0,93
+Grant,Franklin 3,Secretary of State,,Lbt,Mark Rutherford,5,4,0,9
+Grant,Franklin 3,Secretary of State,,,Write-ins,0,0,0,0
+Grant,Franklin 3,State House,30,Rep,Mike Karickhoff,98,43,0,141
+Grant,Franklin 3,State Senate,21,Rep,James Buck,82,38,0,120
+Grant,Franklin 3,State Senate,21,Dem,Christina Fivecoate,85,19,0,104
+Grant,Franklin 3,Treasurer,,Rep,Kelly Mitchell,91,39,0,130
+Grant,Franklin 3,Treasurer,,Dem,John Aguilera,79,18,0,97
+Grant,Franklin 3,U.S. House,5,Rep,Susan Brooks,87,39,0,126
+Grant,Franklin 3,U.S. House,5,Dem,Dee Thornton,81,18,0,99
+Grant,Franklin 3,U.S. House,5,,Write-ins,0,0,0,0
+Grant,Franklin 3,U.S. Senate,,Rep,Mike Braun,75,31,0,106
+Grant,Franklin 3,U.S. Senate,,Dem,Joe Donnelly,84,21,0,105
+Grant,Franklin 3,U.S. Senate,,Lbt,Lucy Brenton,9,6,0,15
+Grant,Franklin 3,U.S. Senate,,,Write-ins,0,0,0,0
+Grant,Franklin 4,Auditor,,Rep,Tera Klutz,162,88,0,250
+Grant,Franklin 4,Auditor,,Dem,Joselyn Whitticker,36,24,0,60
+Grant,Franklin 4,Auditor,,Lbt,John Schick,7,0,0,7
+Grant,Franklin 4,Ballots Cast,,,,211,118,0,329
+Grant,Franklin 4,Registered Voters,,,,,,,518
+Grant,Franklin 4,Secretary of State,,Rep,Connie Lawson,174,89,0,263
+Grant,Franklin 4,Secretary of State,,Dem,Jim Harper,27,23,0,50
+Grant,Franklin 4,Secretary of State,,Lbt,Mark Rutherford,5,1,0,6
+Grant,Franklin 4,Secretary of State,,,Write-ins,1,0,0,1
+Grant,Franklin 4,State House,30,Rep,Mike Karickhoff,179,93,0,272
+Grant,Franklin 4,State Senate,21,Rep,James Buck,170,86,0,256
+Grant,Franklin 4,State Senate,21,Dem,Christina Fivecoate,34,23,0,57
+Grant,Franklin 4,Treasurer,,Rep,Kelly Mitchell,171,89,0,260
+Grant,Franklin 4,Treasurer,,Dem,John Aguilera,33,21,0,54
+Grant,Franklin 4,U.S. House,5,Rep,Susan Brooks,175,94,0,269
+Grant,Franklin 4,U.S. House,5,Dem,Dee Thornton,32,24,0,56
+Grant,Franklin 4,U.S. House,5,,Write-ins,0,0,0,0
+Grant,Franklin 4,U.S. Senate,,Rep,Mike Braun,159,86,0,245
+Grant,Franklin 4,U.S. Senate,,Dem,Joe Donnelly,40,29,0,69
+Grant,Franklin 4,U.S. Senate,,Lbt,Lucy Brenton,10,3,0,13
+Grant,Franklin 4,U.S. Senate,,,Write-ins,0,0,0,0
+Grant,Franklin 5,Auditor,,Rep,Tera Klutz,231,77,0,308
+Grant,Franklin 5,Auditor,,Dem,Joselyn Whitticker,92,65,0,157
+Grant,Franklin 5,Auditor,,Lbt,John Schick,11,3,0,14
+Grant,Franklin 5,Ballots Cast,,,,338,151,0,489
+Grant,Franklin 5,Registered Voters,,,,,,,949
+Grant,Franklin 5,Secretary of State,,Rep,Connie Lawson,247,83,0,330
+Grant,Franklin 5,Secretary of State,,Dem,Jim Harper,70,55,0,125
+Grant,Franklin 5,Secretary of State,,Lbt,Mark Rutherford,18,4,0,22
+Grant,Franklin 5,Secretary of State,,,Write-ins,0,0,0,0
+Grant,Franklin 5,State House,30,Rep,Mike Karickhoff,82,98,0,380
+Grant,Franklin 5,State Senate,21,Rep,James Buck,247,85,0,332
+Grant,Franklin 5,State Senate,21,Dem,Christina Fivecoate,83,58,0,141
+Grant,Franklin 5,Treasurer,,Rep,Kelly Mitchell,256,85,0,341
+Grant,Franklin 5,Treasurer,,Dem,John Aguilera,75,57,0,132
+Grant,Franklin 5,U.S. House,5,Rep,Susan Brooks,254,90,0,344
+Grant,Franklin 5,U.S. House,5,Dem,Dee Thornton,79,56,0,135
+Grant,Franklin 5,U.S. House,5,,Write-ins,0,0,0,0
+Grant,Franklin 5,U.S. Senate,,Rep,Mike Braun,223,82,0,305
+Grant,Franklin 5,U.S. Senate,,Dem,Joe Donnelly,89,60,0,149
+Grant,Franklin 5,U.S. Senate,,Lbt,Lucy Brenton,21,4,0,25
+Grant,Franklin 5,U.S. Senate,,,Write-ins,0,0,0,0
+Grant,Franklin 6,Auditor,,Rep,Tera Klutz,59,28,0,87
+Grant,Franklin 6,Auditor,,Dem,Joselyn Whitticker,96,48,0,144
+Grant,Franklin 6,Auditor,,Lbt,John Schick,4,0,0,4
+Grant,Franklin 6,Ballots Cast,,,,162,77,0,239
+Grant,Franklin 6,Registered Voters,,,,,,,755
+Grant,Franklin 6,Secretary of State,,Rep,Connie Lawson,70,33,0,103
+Grant,Franklin 6,Secretary of State,,Dem,Jim Harper,86,43,0,129
+Grant,Franklin 6,Secretary of State,,Lbt,Mark Rutherford,2,0,0,2
+Grant,Franklin 6,Secretary of State,,,Write-ins,0,0,0,0
+Grant,Franklin 6,State House,30,Rep,Mike Karickhoff,80,43,,123
+Grant,Franklin 6,State Senate,21,Rep,James Buck,62,30,0,92
+Grant,Franklin 6,State Senate,21,Dem,Christina Fivecoate,92,44,0,136
+Grant,Franklin 6,Treasurer,,Rep,Kelly Mitchell,67,31,0,98
+Grant,Franklin 6,Treasurer,,Dem,John Aguilera,90,44,0,134
+Grant,Franklin 6,U.S. House,5,Rep,Susan Brooks,66,30,0,96
+Grant,Franklin 6,U.S. House,5,Dem,Dee Thornton,90,44,0,134
+Grant,Franklin 6,U.S. House,5,,Write-ins,0,1,0,1
+Grant,Franklin 6,U.S. Senate,,Rep,Mike Braun,57,27,0,84
+Grant,Franklin 6,U.S. Senate,,Dem,Joe Donnelly,94,48,0,142
+Grant,Franklin 6,U.S. Senate,,Lbt,Lucy Brenton,7,1,0,8
+Grant,Franklin 6,U.S. Senate,,,Write-ins,1,0,0,1
+Grant,Franklin 7,Auditor,,Rep,Tera Klutz,21,10,0,31
+Grant,Franklin 7,Auditor,,Dem,Joselyn Whitticker,23,5,0,28
+Grant,Franklin 7,Auditor,,Lbt,John Schick,4,0,0,4
+Grant,Franklin 7,Ballots Cast,,,,48,16,0,64
+Grant,Franklin 7,Registered Voters,,,,,,,256
+Grant,Franklin 7,Secretary of State,,Rep,Connie Lawson,23,10,0,33
+Grant,Franklin 7,Secretary of State,,Dem,Jim Harper,23,4,0,27
+Grant,Franklin 7,Secretary of State,,Lbt,Mark Rutherford,2,1,0,3
+Grant,Franklin 7,Secretary of State,,,Write-ins,0,0,0,0
+Grant,Franklin 7,State House,31,Rep,Kevin Mahan,24,9,0,33
+Grant,Franklin 7,State House,31,Dem,Lynn Johnson,24,6,0,30
+Grant,Franklin 7,State Senate,21,Rep,James Buck,25,11,0,36
+Grant,Franklin 7,State Senate,21,Dem,Christina Fivecoate,23,4,0,27
+Grant,Franklin 7,Treasurer,,Rep,Kelly Mitchell,24,9,0,33
+Grant,Franklin 7,Treasurer,,Dem,John Aguilera,24,6,0,30
+Grant,Franklin 7,U.S. House,5,Rep,Susan Brooks,24,11,0,35
+Grant,Franklin 7,U.S. House,5,Dem,Dee Thornton,24,4,0,28
+Grant,Franklin 7,U.S. House,5,,Write-ins,0,0,0,0
+Grant,Franklin 7,U.S. Senate,,Rep,Mike Braun,19,8,0,27
+Grant,Franklin 7,U.S. Senate,,Dem,Joe Donnelly,24,6,0,30
+Grant,Franklin 7,U.S. Senate,,Lbt,Lucy Brenton,5,1,0,6
+Grant,Franklin 7,U.S. Senate,,,Write-ins,0,0,0,0
+Grant,Green,Auditor,,Rep,Tera Klutz,101,36,0,137
+Grant,Green,Auditor,,Dem,Joselyn Whitticker,35,17,0,52
+Grant,Green,Auditor,,Lbt,John Schick,2,0,0,2
+Grant,Green,Ballots Cast,,,,141,53,0,194
+Grant,Green,Registered Voters,,,,,,,339
+Grant,Green,Secretary of State,,Rep,Connie Lawson,105,36,0,141
+Grant,Green,Secretary of State,,Dem,Jim Harper,34,17,0,51
+Grant,Green,Secretary of State,,Lbt,Mark Rutherford,1,0,0,1
+Grant,Green,Secretary of State,,,Write-ins,0,0,0,0
+Grant,Green,State House,32,Rep,Tony Cook,100,36,0,136
+Grant,Green,State House,32,Dem,Amie Neiling,33,16,0,49
+Grant,Green,State Senate,21,Rep,James Buck,102,36,0,138
+Grant,Green,State Senate,21,Dem,Christina Fivecoate,32,17,0,49
+Grant,Green,Treasurer,,Rep,Kelly Mitchell,103,37,0,140
+Grant,Green,Treasurer,,Dem,John Aguilera,34,16,0,50
+Grant,Green,U.S. House,5,Rep,Susan Brooks,105,36,0,141
+Grant,Green,U.S. House,5,Dem,Dee Thornton,32,16,0,48
+Grant,Green,U.S. House,5,,Write-ins,0,0,0,0
+Grant,Green,U.S. Senate,,Rep,Mike Braun,97,33,0,130
+Grant,Green,U.S. Senate,,Dem,Joe Donnelly,38,20,0,58
+Grant,Green,U.S. Senate,,Lbt,Lucy Brenton,4,0,0,4
+Grant,Green,U.S. Senate,,,Write-ins,0,0,0,0
+Grant,Jefferson 1,Auditor,,Rep,Tera Klutz,360,74,0,434
+Grant,Jefferson 1,Auditor,,Dem,Joselyn Whitticker,112,48,0,160
+Grant,Jefferson 1,Auditor,,Lbt,John Schick,14,2,0,16
+Grant,Jefferson 1,Ballots Cast,,,,497,125,0,622
+Grant,Jefferson 1,Registered Voters,,,,,,,1146
+Grant,Jefferson 1,Secretary of State,,Rep,Connie Lawson,383,78,0,461
+Grant,Jefferson 1,Secretary of State,,Dem,Jim Harper,95,45,0,140
+Grant,Jefferson 1,Secretary of State,,Lbt,Mark Rutherford,11,1,0,12
+Grant,Jefferson 1,Secretary of State,,,Write-ins,0,0,0,0
+Grant,Jefferson 1,State House,32,Rep,Tony Cook,372,72,0,444
+Grant,Jefferson 1,State House,32,Dem,Amie Neiling,111,51,0,162
+Grant,Jefferson 1,State Senate,19,Rep,Travis Holdman,415,82,0,497
+Grant,Jefferson 1,Treasurer,,Rep,Kelly Mitchell,383,78,0,461
+Grant,Jefferson 1,Treasurer,,Dem,John Aguilera,103,45,0,148
+Grant,Jefferson 1,U.S. House,5,Rep,Susan Brooks,385,81,0,466
+Grant,Jefferson 1,U.S. House,5,Dem,Dee Thornton,103,43,0,146
+Grant,Jefferson 1,U.S. House,5,,Write-ins,0,0,0,0
+Grant,Jefferson 1,U.S. Senate,,Rep,Mike Braun,344,67,0,411
+Grant,Jefferson 1,U.S. Senate,,Dem,Joe Donnelly,130,53,0,183
+Grant,Jefferson 1,U.S. Senate,,Lbt,Lucy Brenton,18,4,0,22
+Grant,Jefferson 1,U.S. Senate,,,Write-ins,0,0,0,0
+Grant,Jefferson 2,Auditor,,Rep,Tera Klutz,376,44,0,420
+Grant,Jefferson 2,Auditor,,Dem,Joselyn Whitticker,141,32,0,173
+Grant,Jefferson 2,Auditor,,Lbt,John Schick,17,1,0,18
+Grant,Jefferson 2,Ballots Cast,,,,550,78,0,628
+Grant,Jefferson 2,Registered Voters,,,,,,,1111
+Grant,Jefferson 2,Secretary of State,,Rep,Connie Lawson,388,46,0,434
+Grant,Jefferson 2,Secretary of State,,Dem,Jim Harper,131,32,0,163
+Grant,Jefferson 2,Secretary of State,,Lbt,Mark Rutherford,17,0,0,17
+Grant,Jefferson 2,Secretary of State,,,Write-ins,0,0,0,0
+Grant,Jefferson 2,State House,32,Rep,Tony Cook,377,44,0,421
+Grant,Jefferson 2,State House,32,Dem,Amie Neiling,154,32,0,186
+Grant,Jefferson 2,State Senate,19,Rep,Travis Holdman,439,50,0,489
+Grant,Jefferson 2,Treasurer,,Rep,Kelly Mitchell,398,46,0,444
+Grant,Jefferson 2,Treasurer,,Dem,John Aguilera,137,31,0,168
+Grant,Jefferson 2,U.S. House,5,Rep,Susan Brooks,398,46,0,444
+Grant,Jefferson 2,U.S. House,5,Dem,Dee Thornton,139,32,0,171
+Grant,Jefferson 2,U.S. House,5,,Write-ins,0,0,0,0
+Grant,Jefferson 2,U.S. Senate,,Rep,Mike Braun,360,44,0,404
+Grant,Jefferson 2,U.S. Senate,,Dem,Joe Donnelly,150,33,0,183
+Grant,Jefferson 2,U.S. Senate,,Lbt,Lucy Brenton,30,1,0,31
+Grant,Jefferson 2,U.S. Senate,,,Write-ins,0,0,0,0
+Grant,Jefferson 3,Auditor,,Rep,Tera Klutz,224,38,0,262
+Grant,Jefferson 3,Auditor,,Dem,Joselyn Whitticker,53,34,0,87
+Grant,Jefferson 3,Auditor,,Lbt,John Schick,7,1,0,8
+Grant,Jefferson 3,Ballots Cast,,,,301,73,0,374
+Grant,Jefferson 3,Registered Voters,,,,,,,724
+Grant,Jefferson 3,Secretary of State,,Rep,Connie Lawson,215,40,0,255
+Grant,Jefferson 3,Secretary of State,,Dem,Jim Harper,65,32,0,97
+Grant,Jefferson 3,Secretary of State,,Lbt,Mark Rutherford,9,1,0,10
+Grant,Jefferson 3,Secretary of State,,,Write-ins,0,0,0,0
+Grant,Jefferson 3,State House,32,Rep,Tony Cook,210,39,0,249
+Grant,Jefferson 3,State House,32,Dem,Amie Neiling,70,34,0,104
+Grant,Jefferson 3,State Senate,19,Rep,Travis Holdman,251,47,0,298
+Grant,Jefferson 3,Treasurer,,Rep,Kelly Mitchell,227,38,0,265
+Grant,Jefferson 3,Treasurer,,Dem,John Aguilera,55,34,0,89
+Grant,Jefferson 3,U.S. House,5,Rep,Susan Brooks,227,42,0,269
+Grant,Jefferson 3,U.S. House,5,Dem,Dee Thornton,64,30,0,94
+Grant,Jefferson 3,U.S. House,5,,Write-ins,0,0,0,0
+Grant,Jefferson 3,U.S. Senate,,Rep,Mike Braun,191,30,0,221
+Grant,Jefferson 3,U.S. Senate,,Dem,Joe Donnelly,90,40,0,130
+Grant,Jefferson 3,U.S. Senate,,Lbt,Lucy Brenton,16,3,0,19
+Grant,Jefferson 3,U.S. Senate,,,Write-ins,0,0,0,0
+Grant,Liberty,Auditor,,Rep,Tera Klutz,232,65,0,297
+Grant,Liberty,Auditor,,Dem,Joselyn Whitticker,47,29,0,76
+Grant,Liberty,Auditor,,Lbt,John Schick,7,2,0,9
+Grant,Liberty,Ballots Cast,,,,292,99,0,391
+Grant,Liberty,Registered Voters,,,,,,,689
+Grant,Liberty,Secretary of State,,Rep,Connie Lawson,238,69,0,307
+Grant,Liberty,Secretary of State,,Dem,Jim Harper,44,27,0,71
+Grant,Liberty,Secretary of State,,Lbt,Mark Rutherford,6,1,0,7
+Grant,Liberty,Secretary of State,,,Write-ins,0,0,0,0
+Grant,Liberty,State House,32,Rep,Tony Cook,235,68,0,303
+Grant,Liberty,State House,32,Dem,Amie Neiling,48,28,0,76
+Grant,Liberty,State Senate,19,Rep,Travis Holdman,245,73,0,318
+Grant,Liberty,Treasurer,,Rep,Kelly Mitchell,239,67,0,306
+Grant,Liberty,Treasurer,,Dem,John Aguilera,44,29,0,73
+Grant,Liberty,U.S. House,5,Rep,Susan Brooks,242,70,0,312
+Grant,Liberty,U.S. House,5,Dem,Dee Thornton,44,27,0,71
+Grant,Liberty,U.S. House,5,,Write-ins,0,0,0,0
+Grant,Liberty,U.S. Senate,,Rep,Mike Braun,221,62,0,283
+Grant,Liberty,U.S. Senate,,Dem,Joe Donnelly,54,31,0,85
+Grant,Liberty,U.S. Senate,,Lbt,Lucy Brenton,13,6,0,19
+Grant,Liberty,U.S. Senate,,,Write-ins,0,0,0,0
+Grant,Mill 01,Auditor,,Rep,Tera Klutz,188,59,0,247
+Grant,Mill 01,Auditor,,Dem,Joselyn Whitticker,99,36,0,135
+Grant,Mill 01,Auditor,,Lbt,John Schick,7,2,0,9
+Grant,Mill 01,Ballots Cast,,,,301,102,0,403
+Grant,Mill 01,Registered Voters,,,,,,,741
+Grant,Mill 01,Secretary of State,,Rep,Connie Lawson,194,63,0,257
+Grant,Mill 01,Secretary of State,,Dem,Jim Harper,96,36,0,132
+Grant,Mill 01,Secretary of State,,Lbt,Mark Rutherford,5,0,0,5
+Grant,Mill 01,Secretary of State,,,Write-ins,0,0,0,0
+Grant,Mill 01,State House,31,Rep,Kevin Mahan,191,61,0,252
+Grant,Mill 01,State House,31,Dem,Lynn Johnson,103,37,0,140
+Grant,Mill 01,State Senate,19,Rep,Travis Holdman,233,66,0,299
+Grant,Mill 01,Treasurer,,Rep,Kelly Mitchell,200,62,0,262
+Grant,Mill 01,Treasurer,,Dem,John Aguilera,94,35,0,129
+Grant,Mill 01,U.S. House,5,Rep,Susan Brooks,203,61,0,264
+Grant,Mill 01,U.S. House,5,Dem,Dee Thornton,93,38,0,131
+Grant,Mill 01,U.S. House,5,,Write-ins,0,0,0,0
+Grant,Mill 01,U.S. Senate,,Rep,Mike Braun,182,55,0,237
+Grant,Mill 01,U.S. Senate,,Dem,Joe Donnelly,106,41,0,147
+Grant,Mill 01,U.S. Senate,,Lbt,Lucy Brenton,8,3,0,11
+Grant,Mill 01,U.S. Senate,,,Write-ins,0,0,0,0
+Grant,Mill 02,Auditor,,Rep,Tera Klutz,154,55,0,209
+Grant,Mill 02,Auditor,,Dem,Joselyn Whitticker,91,45,0,136
+Grant,Mill 02,Auditor,,Lbt,John Schick,7,1,0,8
+Grant,Mill 02,Ballots Cast,,,,261,102,0,363
+Grant,Mill 02,Registered Voters,,,,,,,804
+Grant,Mill 02,Secretary of State,,Rep,Connie Lawson,173,59,0,232
+Grant,Mill 02,Secretary of State,,Dem,Jim Harper,75,42,0,117
+Grant,Mill 02,Secretary of State,,Lbt,Mark Rutherford,6,1,0,7
+Grant,Mill 02,Secretary of State,,,Write-ins,0,0,0,0
+Grant,Mill 02,State House,31,Rep,Kevin Mahan,168,57,0,225
+Grant,Mill 02,State House,31,Dem,Lynn Johnson,88,41,0,129
+Grant,Mill 02,State Senate,19,Rep,Travis Holdman,188,62,0,250
+Grant,Mill 02,Treasurer,,Rep,Kelly Mitchell,176,58,0,234
+Grant,Mill 02,Treasurer,,Dem,John Aguilera,78,43,0,121
+Grant,Mill 02,U.S. House,5,Rep,Susan Brooks,182,55,0,237
+Grant,Mill 02,U.S. House,5,Dem,Dee Thornton,73,45,0,118
+Grant,Mill 02,U.S. House,5,,Write-ins,0,0,0,0
+Grant,Mill 02,U.S. Senate,,Rep,Mike Braun,149,50,0,199
+Grant,Mill 02,U.S. Senate,,Dem,Joe Donnelly,90,45,0,135
+Grant,Mill 02,U.S. Senate,,Lbt,Lucy Brenton,17,4,0,21
+Grant,Mill 02,U.S. Senate,,,Write-ins,1,0,0,1
+Grant,Mill 03,Auditor,,Rep,Tera Klutz,193,84,0,277
+Grant,Mill 03,Auditor,,Dem,Joselyn Whitticker,68,34,0,102
+Grant,Mill 03,Auditor,,Lbt,John Schick,9,2,0,11
+Grant,Mill 03,Ballots Cast,,,,273,122,0,395
+Grant,Mill 03,Registered Voters,,,,,,,822
+Grant,Mill 03,Secretary of State,,Rep,Connie Lawson,197,85,0,282
+Grant,Mill 03,Secretary of State,,Dem,Jim Harper,64,32,0,96
+Grant,Mill 03,Secretary of State,,Lbt,Mark Rutherford,7,3,0,10
+Grant,Mill 03,Secretary of State,,,Write-ins,0,0,0,0
+Grant,Mill 03,State House,31,Rep,Kevin Mahan,196,80,0,276
+Grant,Mill 03,State House,31,Dem,Lynn Johnson,71,38,0,109
+Grant,Mill 03,State Senate,19,Rep,Travis Holdman,214,98,0,312
+Grant,Mill 03,Treasurer,,Rep,Kelly Mitchell,198,89,0,287
+Grant,Mill 03,Treasurer,,Dem,John Aguilera,70,30,0,100
+Grant,Mill 03,U.S. House,5,Rep,Susan Brooks,204,88,0,292
+Grant,Mill 03,U.S. House,5,Dem,Dee Thornton,65,32,0,97
+Grant,Mill 03,U.S. House,5,,Write-ins,0,0,0,0
+Grant,Mill 03,U.S. Senate,,Rep,Mike Braun,188,84,0,272
+Grant,Mill 03,U.S. Senate,,Dem,Joe Donnelly,72,36,0,108
+Grant,Mill 03,U.S. Senate,,Lbt,Lucy Brenton,10,0,0,10
+Grant,Mill 03,U.S. Senate,,,Write-ins,0,0,0,0
+Grant,Mill 04,Auditor,,Rep,Tera Klutz,156,36,0,192
+Grant,Mill 04,Auditor,,Dem,Joselyn Whitticker,75,16,0,91
+Grant,Mill 04,Auditor,,Lbt,John Schick,8,1,0,9
+Grant,Mill 04,Ballots Cast,,,,244,54,0,298
+Grant,Mill 04,Registered Voters,,,,,,,684
+Grant,Mill 04,Secretary of State,,Rep,Connie Lawson,170,40,0,210
+Grant,Mill 04,Secretary of State,,Dem,Jim Harper,59,13,0,72
+Grant,Mill 04,Secretary of State,,Lbt,Mark Rutherford,10,0,0,10
+Grant,Mill 04,Secretary of State,,,Write-ins,1,0,0,1
+Grant,Mill 04,State House,32,Rep,Tony Cook,168,37,0,205
+Grant,Mill 04,State House,32,Dem,Amie Neiling,68,16,0,84
+Grant,Mill 04,State Senate,19,Rep,Travis Holdman,190,39,0,229
+Grant,Mill 04,Treasurer,,Rep,Kelly Mitchell,171,40,0,211
+Grant,Mill 04,Treasurer,,Dem,John Aguilera,65,13,0,78
+Grant,Mill 04,U.S. House,5,Rep,Susan Brooks,181,38,0,219
+Grant,Mill 04,U.S. House,5,Dem,Dee Thornton,60,16,0,76
+Grant,Mill 04,U.S. House,5,,Write-ins,0,0,0,0
+Grant,Mill 04,U.S. Senate,,Rep,Mike Braun,141,36,0,177
+Grant,Mill 04,U.S. Senate,,Dem,Joe Donnelly,77,14,0,91
+Grant,Mill 04,U.S. Senate,,Lbt,Lucy Brenton,22,4,0,26
+Grant,Mill 04,U.S. Senate,,,Write-ins,0,0,0,0
+Grant,Mill 05,Auditor,,Rep,Tera Klutz,182,88,0,270
+Grant,Mill 05,Auditor,,Dem,Joselyn Whitticker,58,24,0,82
+Grant,Mill 05,Auditor,,Lbt,John Schick,9,1,0,10
+Grant,Mill 05,Ballots Cast,,,,252,114,0,366
+Grant,Mill 05,Registered Voters,,,,,,,659
+Grant,Mill 05,Secretary of State,,Rep,Connie Lawson,186,89,0,275
+Grant,Mill 05,Secretary of State,,Dem,Jim Harper,54,24,0,78
+Grant,Mill 05,Secretary of State,,Lbt,Mark Rutherford,9,1,0,10
+Grant,Mill 05,Secretary of State,,,Write-ins,0,0,0,0
+Grant,Mill 05,State House,32,Rep,Tony Cook,185,90,0,275
+Grant,Mill 05,State House,32,Dem,Amie Neiling,60,23,0,83
+Grant,Mill 05,State Senate,19,Rep,Travis Holdman,210,94,0,304
+Grant,Mill 05,Treasurer,,Rep,Kelly Mitchell,192,88,0,280
+Grant,Mill 05,Treasurer,,Dem,John Aguilera,56,25,0,81
+Grant,Mill 05,U.S. House,5,Rep,Susan Brooks,192,92,0,284
+Grant,Mill 05,U.S. House,5,Dem,Dee Thornton,59,20,0,79
+Grant,Mill 05,U.S. House,5,,Write-ins,0,0,0,0
+Grant,Mill 05,U.S. Senate,,Rep,Mike Braun,171,87,0,258
+Grant,Mill 05,U.S. Senate,,Dem,Joe Donnelly,64,25,0,89
+Grant,Mill 05,U.S. Senate,,Lbt,Lucy Brenton,16,2,0,18
+Grant,Mill 05,U.S. Senate,,,Write-ins,0,0,0,0
+Grant,Mill 06,Auditor,,Rep,Tera Klutz,165,71,0,236
+Grant,Mill 06,Auditor,,Dem,Joselyn Whitticker,103,40,0,143
+Grant,Mill 06,Auditor,,Lbt,John Schick,11,3,0,14
+Grant,Mill 06,Ballots Cast,,,,283,118,0,401
+Grant,Mill 06,Registered Voters,,,,,,,867
+Grant,Mill 06,Secretary of State,,Rep,Connie Lawson,180,79,0,259
+Grant,Mill 06,Secretary of State,,Dem,Jim Harper,92,35,0,127
+Grant,Mill 06,Secretary of State,,Lbt,Mark Rutherford,10,0,0,10
+Grant,Mill 06,Secretary of State,,,Write-ins,0,0,0,0
+Grant,Mill 06,State House,31,Rep,Kevin Mahan,169,74,0,243
+Grant,Mill 06,State House,31,Dem,Lynn Johnson,110,42,0,152
+Grant,Mill 06,State Senate,19,Rep,Travis Holdman,204,86,0,290
+Grant,Mill 06,Treasurer,,Rep,Kelly Mitchell,180,76,0,256
+Grant,Mill 06,Treasurer,,Dem,John Aguilera,99,37,0,136
+Grant,Mill 06,U.S. House,5,Rep,Susan Brooks,184,82,0,266
+Grant,Mill 06,U.S. House,5,Dem,Dee Thornton,95,33,0,128
+Grant,Mill 06,U.S. House,5,,Write-ins,0,0,0,0
+Grant,Mill 06,U.S. Senate,,Rep,Mike Braun,157,65,0,222
+Grant,Mill 06,U.S. Senate,,Dem,Joe Donnelly,102,42,0,144
+Grant,Mill 06,U.S. Senate,,Lbt,Lucy Brenton,21,7,0,28
+Grant,Mill 06,U.S. Senate,,,Write-ins,0,0,0,0
+Grant,Mill 07,Auditor,,Rep,Tera Klutz,175,62,0,237
+Grant,Mill 07,Auditor,,Dem,Joselyn Whitticker,61,30,0,91
+Grant,Mill 07,Auditor,,Lbt,John Schick,8,0,0,8
+Grant,Mill 07,Ballots Cast,,,,250,95,0,345
+Grant,Mill 07,Registered Voters,,,,,,,976
+Grant,Mill 07,Secretary of State,,Rep,Connie Lawson,181,68,0,249
+Grant,Mill 07,Secretary of State,,Dem,Jim Harper,53,25,0,78
+Grant,Mill 07,Secretary of State,,Lbt,Mark Rutherford,12,0,0,12
+Grant,Mill 07,Secretary of State,,,Write-ins,0,0,0,0
+Grant,Mill 07,State House,31,Rep,Kevin Mahan,176,65,0,241
+Grant,Mill 07,State House,31,Dem,Lynn Johnson,67,29,0,96
+Grant,Mill 07,State Senate,19,Rep,Travis Holdman,192,63,0,255
+Grant,Mill 07,Treasurer,,Rep,Kelly Mitchell,185,64,0,249
+Grant,Mill 07,Treasurer,,Dem,John Aguilera,57,28,0,85
+Grant,Mill 07,U.S. House,5,Rep,Susan Brooks,185,65,0,250
+Grant,Mill 07,U.S. House,5,Dem,Dee Thornton,56,28,0,84
+Grant,Mill 07,U.S. House,5,,Write-ins,0,0,0,0
+Grant,Mill 07,U.S. Senate,,Rep,Mike Braun,160,60,0,220
+Grant,Mill 07,U.S. Senate,,Dem,Joe Donnelly,69,28,0,97
+Grant,Mill 07,U.S. Senate,,Lbt,Lucy Brenton,17,5,0,22
+Grant,Mill 07,U.S. Senate,,,Write-ins,0,0,0,0
+Grant,Mill 08,Auditor,,Rep,Tera Klutz,92,13,0,105
+Grant,Mill 08,Auditor,,Dem,Joselyn Whitticker,49,7,0,56
+Grant,Mill 08,Auditor,,Lbt,John Schick,6,0,0,6
+Grant,Mill 08,Ballots Cast,,,,150,20,0,170
+Grant,Mill 08,Registered Voters,,,,,,,381
+Grant,Mill 08,Secretary of State,,Rep,Connie Lawson,100,13,0,113
+Grant,Mill 08,Secretary of State,,Dem,Jim Harper,39,7,0,46
+Grant,Mill 08,Secretary of State,,Lbt,Mark Rutherford,11,0,0,11
+Grant,Mill 08,Secretary of State,,,Write-ins,0,0,0,0
+Grant,Mill 08,State House,32,Rep,Tony Cook,94,14,0,108
+Grant,Mill 08,State House,32,Dem,Amie Neiling,53,5,0,58
+Grant,Mill 08,State Senate,19,Rep,Travis Holdman,113,14,0,127
+Grant,Mill 08,Treasurer,,Rep,Kelly Mitchell,102,14,0,116
+Grant,Mill 08,Treasurer,,Dem,John Aguilera,43,6,0,49
+Grant,Mill 08,U.S. House,5,Rep,Susan Brooks,109,15,0,124
+Grant,Mill 08,U.S. House,5,Dem,Dee Thornton,40,5,0,45
+Grant,Mill 08,U.S. House,5,,Write-ins,0,0,0,0
+Grant,Mill 08,U.S. Senate,,Rep,Mike Braun,88,14,0,102
+Grant,Mill 08,U.S. Senate,,Dem,Joe Donnelly,47,6,0,53
+Grant,Mill 08,U.S. Senate,,Lbt,Lucy Brenton,13,0,0,13
+Grant,Mill 08,U.S. Senate,,,Write-ins,0,0,0,0
+Grant,Mill 09,Auditor,,Rep,Tera Klutz,112,47,0,159
+Grant,Mill 09,Auditor,,Dem,Joselyn Whitticker,57,21,0,78
+Grant,Mill 09,Auditor,,Lbt,John Schick,4,0,0,4
+Grant,Mill 09,Ballots Cast,,,,176,70,0,246
+Grant,Mill 09,Registered Voters,,,,,,,498
+Grant,Mill 09,Secretary of State,,Rep,Connie Lawson,114,50,0,164
+Grant,Mill 09,Secretary of State,,Dem,Jim Harper,56,18,0,74
+Grant,Mill 09,Secretary of State,,Lbt,Mark Rutherford,2,0,0,2
+Grant,Mill 09,Secretary of State,,,Write-ins,0,0,0,0
+Grant,Mill 09,State House,31,Rep,Kevin Mahan,115,47,0,162
+Grant,Mill 09,State House,31,Dem,Lynn Johnson,57,21,0,78
+Grant,Mill 09,State Senate,19,Rep,Travis Holdman,124,51,0,175
+Grant,Mill 09,Treasurer,,Rep,Kelly Mitchell,118,49,0,167
+Grant,Mill 09,Treasurer,,Dem,John Aguilera,55,19,0,74
+Grant,Mill 09,U.S. House,5,Rep,Susan Brooks,119,51,0,170
+Grant,Mill 09,U.S. House,5,Dem,Dee Thornton,52,17,0,69
+Grant,Mill 09,U.S. House,5,,Write-ins,0,0,0,0
+Grant,Mill 09,U.S. Senate,,Rep,Mike Braun,105,46,0,151
+Grant,Mill 09,U.S. Senate,,Dem,Joe Donnelly,58,23,0,81
+Grant,Mill 09,U.S. Senate,,Lbt,Lucy Brenton,8,1,0,9
+Grant,Mill 09,U.S. Senate,,,Write-ins,0,0,0,0
+Grant,Mill 10,Auditor,,Rep,Tera Klutz,121,43,0,164
+Grant,Mill 10,Auditor,,Dem,Joselyn Whitticker,38,33,0,71
+Grant,Mill 10,Auditor,,Lbt,John Schick,3,1,0,4
+Grant,Mill 10,Ballots Cast,,,,165,77,0,242
+Grant,Mill 10,Registered Voters,,,,,,,542
+Grant,Mill 10,Secretary of State,,Rep,Connie Lawson,121,44,0,165
+Grant,Mill 10,Secretary of State,,Dem,Jim Harper,39,32,0,71
+Grant,Mill 10,Secretary of State,,Lbt,Mark Rutherford,3,0,0,3
+Grant,Mill 10,Secretary of State,,,Write-ins,0,1,0,1
+Grant,Mill 10,State House,32,Rep,Tony Cook,122,41,0,163
+Grant,Mill 10,State House,32,Dem,Amie Neiling,40,36,0,76
+Grant,Mill 10,State Senate,19,Rep,Travis Holdman,132,48,0,180
+Grant,Mill 10,Treasurer,,Rep,Kelly Mitchell,126,44,0,170
+Grant,Mill 10,Treasurer,,Dem,John Aguilera,37,33,0,70
+Grant,Mill 10,U.S. House,5,Rep,Susan Brooks,124,45,0,169
+Grant,Mill 10,U.S. House,5,Dem,Dee Thornton,39,32,0,71
+Grant,Mill 10,U.S. House,5,,Write-ins,0,0,0,0
+Grant,Mill 10,U.S. Senate,,Rep,Mike Braun,112,42,0,154
+Grant,Mill 10,U.S. Senate,,Dem,Joe Donnelly,44,34,0,78
+Grant,Mill 10,U.S. Senate,,Lbt,Lucy Brenton,7,1,0,8
+Grant,Mill 10,U.S. Senate,,,Write-ins,0,0,0,0
+Grant,Mill 11,Auditor,,Rep,Tera Klutz,3,6,0,9
+Grant,Mill 11,Auditor,,Dem,Joselyn Whitticker,5,5,0,10
+Grant,Mill 11,Auditor,,Lbt,John Schick,,,,0
+Grant,Mill 11,Ballots Cast,,,,8,11,0,19
+Grant,Mill 11,Registered Voters,,,,,,,113
+Grant,Mill 11,Secretary of State,,Rep,Connie Lawson,3,6,0,9
+Grant,Mill 11,Secretary of State,,Dem,Jim Harper,4,5,0,9
+Grant,Mill 11,Secretary of State,,Lbt,Mark Rutherford,0,0,0,0
+Grant,Mill 11,Secretary of State,,,Write-ins,0,0,0,0
+Grant,Mill 11,State House,31,Rep,Kevin Mahan,3,6,0,9
+Grant,Mill 11,State House,31,Dem,Lynn Johnson,5,5,0,10
+Grant,Mill 11,State Senate,19,Rep,Travis Holdman,3,9,0,12
+Grant,Mill 11,Treasurer,,Rep,Kelly Mitchell,3,6,0,9
+Grant,Mill 11,Treasurer,,Dem,John Aguilera,5,5,0,10
+Grant,Mill 11,U.S. House,5,Rep,Susan Brooks,3,6,0,9
+Grant,Mill 11,U.S. House,5,Dem,Dee Thornton,5,5,0,10
+Grant,Mill 11,U.S. House,5,,Write-ins,0,0,0,0
+Grant,Mill 11,U.S. Senate,,Rep,Mike Braun,3,6,0,9
+Grant,Mill 11,U.S. Senate,,Dem,Joe Donnelly,4,5,0,9
+Grant,Mill 11,U.S. Senate,,Lbt,Lucy Brenton,0,0,0,0
+Grant,Mill 11,U.S. Senate,,,Write-ins,0,0,0,0
+Grant,Monroe,Auditor,,Rep,Tera Klutz,321,153,0,474
+Grant,Monroe,Auditor,,Dem,Joselyn Whitticker,95,58,0,153
+Grant,Monroe,Auditor,,Lbt,John Schick,11,5,0,16
+Grant,Monroe,Ballots Cast,,,,435,220,0,655
+Grant,Monroe,Registered Voters,,,,,,,1186
+Grant,Monroe,Secretary of State,,Rep,Connie Lawson,336,166,0,502
+Grant,Monroe,Secretary of State,,Dem,Jim Harper,78,51,0,129
+Grant,Monroe,Secretary of State,,Lbt,Mark Rutherford,16,2,0,18
+Grant,Monroe,Secretary of State,,,Write-ins,0,0,0,0
+Grant,Monroe,State House,31,Rep,Kevin Mahan,342,161,0,503
+Grant,Monroe,State House,31,Dem,Lynn Johnson,87,57,0,144
+Grant,Monroe,State Senate,19,Rep,Travis Holdman,371,167,0,538
+Grant,Monroe,Treasurer,,Rep,Kelly Mitchell,341,163,0,504
+Grant,Monroe,Treasurer,,Dem,John Aguilera,85,54,0,139
+Grant,Monroe,U.S. House,5,Rep,Susan Brooks,354,168,0,522
+Grant,Monroe,U.S. House,5,Dem,Dee Thornton,76,49,0,125
+Grant,Monroe,U.S. House,5,,Write-ins,0,0,0,0
+Grant,Monroe,U.S. Senate,,Rep,Mike Braun,329,158,0,487
+Grant,Monroe,U.S. Senate,,Dem,Joe Donnelly,91,56,0,147
+Grant,Monroe,U.S. Senate,,Lbt,Lucy Brenton,14,3,0,17
+Grant,Monroe,U.S. Senate,,,Write-ins,0,0,0,0
+Grant,Paramount 1,Auditor,,Rep,Tera Klutz,,,,277
+Grant,Paramount 1,Auditor,,Dem,Joselyn Whitticker,,,,126
+Grant,Paramount 1,Auditor,,Lbt,John Schick,,,,14
+Grant,Paramount 1,Ballots Cast,,,,,,,
+Grant,Paramount 1,Registered Voters,,,,,,,
+Grant,Paramount 1,Secretary of State,,Rep,Connie Lawson,,,,286
+Grant,Paramount 1,Secretary of State,,Dem,Jim Harper,,,,111
+Grant,Paramount 1,Secretary of State,,Lbt,Mark Rutherford,,,,18
+Grant,Paramount 1,Secretary of State,,,Write-ins,,,,0
+Grant,Paramount 1,State House,32,Rep,Tony Cook,,,,279
+Grant,Paramount 1,State House,32,Dem,Amie Neiling,,,,135
+Grant,Paramount 1,State Senate,19,Rep,Travis Holdman,,,,311
+Grant,Paramount 1,Treasurer,,Rep,Kelly Mitchell,,,,286
+Grant,Paramount 1,Treasurer,,Dem,John Aguilera,,,,127
+Grant,Paramount 1,U.S. House,5,Rep,Susan Brooks,,,,293
+Grant,Paramount 1,U.S. House,5,Dem,Dee Thornton,,,,122
+Grant,Paramount 1,U.S. House,5,,Write-ins,,,,0
+Grant,Paramount 1,U.S. Senate,,Rep,Mike Braun,,,,268
+Grant,Paramount 1,U.S. Senate,,Dem,Joe Donnelly,,,,130
+Grant,Paramount 1,U.S. Senate,,Lbt,Lucy Brenton,,,,17
+Grant,Paramount 1,U.S. Senate,,,Write-ins,,,,0
+Grant,Paramount 2,Auditor,,Rep,Tera Klutz,,,,276
+Grant,Paramount 2,Auditor,,Dem,Joselyn Whitticker,,,,105
+Grant,Paramount 2,Auditor,,Lbt,John Schick,,,,12
+Grant,Paramount 2,Ballots Cast,,,,,,,
+Grant,Paramount 2,Registered Voters,,,,,,,
+Grant,Paramount 2,Secretary of State,,Rep,Connie Lawson,,,,294
+Grant,Paramount 2,Secretary of State,,Dem,Jim Harper,,,,93
+Grant,Paramount 2,Secretary of State,,Lbt,Mark Rutherford,,,,9
+Grant,Paramount 2,Secretary of State,,,Write-ins,,,,1
+Grant,Paramount 2,State House,32,Rep,Tony Cook,,,,276
+Grant,Paramount 2,State House,32,Dem,Amie Neiling,,,,116
+Grant,Paramount 2,State Senate,19,Rep,Travis Holdman,,,,321
+Grant,Paramount 2,Treasurer,,Rep,Kelly Mitchell,,,,293
+Grant,Paramount 2,Treasurer,,Dem,John Aguilera,,,,102
+Grant,Paramount 2,U.S. House,5,Rep,Susan Brooks,,,,299
+Grant,Paramount 2,U.S. House,5,Dem,Dee Thornton,,,,99
+Grant,Paramount 2,U.S. House,5,,Write-ins,,,,0
+Grant,Paramount 2,U.S. Senate,,Rep,Mike Braun,,,,248
+Grant,Paramount 2,U.S. Senate,,Dem,Joe Donnelly,,,,124
+Grant,Paramount 2,U.S. Senate,,Lbt,Lucy Brenton,,,,21
+Grant,Paramount 2,U.S. Senate,,,Write-ins,,,,0
+Grant,Paramount 3,Auditor,,Rep,Tera Klutz,,,,173
+Grant,Paramount 3,Auditor,,Dem,Joselyn Whitticker,,,,53
+Grant,Paramount 3,Auditor,,Lbt,John Schick,,,,12
+Grant,Paramount 3,Ballots Cast,,,,,,,
+Grant,Paramount 3,Registered Voters,,,,,,,
+Grant,Paramount 3,Secretary of State,,Rep,Connie Lawson,,,,178
+Grant,Paramount 3,Secretary of State,,Dem,Jim Harper,,,,51
+Grant,Paramount 3,Secretary of State,,Lbt,Mark Rutherford,,,,10
+Grant,Paramount 3,Secretary of State,,,Write-ins,,,,0
+Grant,Paramount 3,State House,32,Rep,Tony Cook,,,,175
+Grant,Paramount 3,State House,32,Dem,Amie Neiling,,,,58
+Grant,Paramount 3,State Senate,19,Rep,Travis Holdman,,,,194
+Grant,Paramount 3,Treasurer,,Rep,Kelly Mitchell,,,,181
+Grant,Paramount 3,Treasurer,,Dem,John Aguilera,,,,57
+Grant,Paramount 3,U.S. House,5,Rep,Susan Brooks,,,,182
+Grant,Paramount 3,U.S. House,5,Dem,Dee Thornton,,,,53
+Grant,Paramount 3,U.S. House,5,,Write-ins,,,,0
+Grant,Paramount 3,U.S. Senate,,Rep,Mike Braun,,,,163
+Grant,Paramount 3,U.S. Senate,,Dem,Joe Donnelly,,,,65
+Grant,Paramount 3,U.S. Senate,,Lbt,Lucy Brenton,,,,14
+Grant,Paramount 3,U.S. Senate,,,Write-ins,,,,0
+Grant,Paramount 4,Auditor,,Rep,Tera Klutz,,,,158
+Grant,Paramount 4,Auditor,,Dem,Joselyn Whitticker,,,,55
+Grant,Paramount 4,Auditor,,Lbt,John Schick,,,,6
+Grant,Paramount 4,Ballots Cast,,,,,,,
+Grant,Paramount 4,Registered Voters,,,,,,,
+Grant,Paramount 4,Secretary of State,,Rep,Connie Lawson,,,,168
+Grant,Paramount 4,Secretary of State,,Dem,Jim Harper,,,,46
+Grant,Paramount 4,Secretary of State,,Lbt,Mark Rutherford,,,,6
+Grant,Paramount 4,Secretary of State,,,Write-ins,,,,0
+Grant,Paramount 4,State House,32,Rep,Tony Cook,,,,161
+Grant,Paramount 4,State House,32,Dem,Amie Neiling,,,,53
+Grant,Paramount 4,State Senate,19,Rep,Travis Holdman,,,,172
+Grant,Paramount 4,Treasurer,,Rep,Kelly Mitchell,,,,167
+Grant,Paramount 4,Treasurer,,Dem,John Aguilera,,,,51
+Grant,Paramount 4,U.S. House,5,Rep,Susan Brooks,,,,169
+Grant,Paramount 4,U.S. House,5,Dem,Dee Thornton,,,,48
+Grant,Paramount 4,U.S. House,5,,Write-ins,,,,0
+Grant,Paramount 4,U.S. Senate,,Rep,Mike Braun,,,,157
+Grant,Paramount 4,U.S. Senate,,Dem,Joe Donnelly,,,,57
+Grant,Paramount 4,U.S. Senate,,Lbt,Lucy Brenton,,,,8
+Grant,Paramount 4,U.S. Senate,,,Write-ins,,,,0
+Grant,Pleasant 1,Auditor,,Rep,Tera Klutz,299,162,0,461
+Grant,Pleasant 1,Auditor,,Dem,Joselyn Whitticker,81,65,0,146
+Grant,Pleasant 1,Auditor,,Lbt,John Schick,14,6,0,20
+Grant,Pleasant 1,Ballots Cast,,,,407,238,0,645
+Grant,Pleasant 1,Registered Voters,,,,,,,1146
+Grant,Pleasant 1,Secretary of State,,Rep,Connie Lawson,324,169,0,493
+Grant,Pleasant 1,Secretary of State,,Dem,Jim Harper,58,61,0,119
+Grant,Pleasant 1,Secretary of State,,Lbt,Mark Rutherford,14,3,0,17
+Grant,Pleasant 1,Secretary of State,,,Write-ins,0,0,0,0
+Grant,Pleasant 1,State House,18,Rep,David Wolkins,311,157,0,468
+Grant,Pleasant 1,State House,18,Dem,Dee Moore,83,77,0,160
+Grant,Pleasant 1,State Senate,17,Rep,Andy Zay,311,158,0,469
+Grant,Pleasant 1,State Senate,17,Dem,Gary Snyder,82,76,0,158
+Grant,Pleasant 1,Treasurer,,Rep,Kelly Mitchell,330,166,0,496
+Grant,Pleasant 1,Treasurer,,Dem,John Aguilera,63,65,0,128
+Grant,Pleasant 1,U.S. House,5,Rep,Susan Brooks,325,168,0,493
+Grant,Pleasant 1,U.S. House,5,Dem,Dee Thornton,69,65,0,134
+Grant,Pleasant 1,U.S. House,5,,Write-ins,0,0,0,0
+Grant,Pleasant 1,U.S. Senate,,Rep,Mike Braun,304,159,0,463
+Grant,Pleasant 1,U.S. Senate,,Dem,Joe Donnelly,77,69,0,146
+Grant,Pleasant 1,U.S. Senate,,Lbt,Lucy Brenton,22,8,0,30
+Grant,Pleasant 1,U.S. Senate,,,Write-ins,0,0,0,0
+Grant,Pleasant 2,Auditor,,Rep,Tera Klutz,236,89,0,325
+Grant,Pleasant 2,Auditor,,Dem,Joselyn Whitticker,58,34,0,92
+Grant,Pleasant 2,Auditor,,Lbt,John Schick,16,2,0,18
+Grant,Pleasant 2,Ballots Cast,,,,319,126,0,445
+Grant,Pleasant 2,Registered Voters,,,,,,,807
+Grant,Pleasant 2,Secretary of State,,Rep,Connie Lawson,250,95,0,345
+Grant,Pleasant 2,Secretary of State,,Dem,Jim Harper,51,28,0,79
+Grant,Pleasant 2,Secretary of State,,Lbt,Mark Rutherford,11,3,0,14
+Grant,Pleasant 2,Secretary of State,,,Write-ins,0,0,0,0
+Grant,Pleasant 2,State House,18,Rep,David Wolkins,247,94,0,341
+Grant,Pleasant 2,State House,18,Dem,Dee Moore,61,29,0,90
+Grant,Pleasant 2,State Senate,17,Rep,Andy Zay,248,91,0,339
+Grant,Pleasant 2,State Senate,17,Dem,Gary Snyder,62,31,0,93
+Grant,Pleasant 2,Treasurer,,Rep,Kelly Mitchell,256,91,0,347
+Grant,Pleasant 2,Treasurer,,Dem,John Aguilera,57,31,0,88
+Grant,Pleasant 2,U.S. House,5,Rep,Susan Brooks,264,97,0,361
+Grant,Pleasant 2,U.S. House,5,Dem,Dee Thornton,47,27,0,74
+Grant,Pleasant 2,U.S. House,5,,Write-ins,1,0,0,1
+Grant,Pleasant 2,U.S. Senate,,Rep,Mike Braun,236,90,0,326
+Grant,Pleasant 2,U.S. Senate,,Dem,Joe Donnelly,62,31,0,93
+Grant,Pleasant 2,U.S. Senate,,Lbt,Lucy Brenton,16,2,0,18
+Grant,Pleasant 2,U.S. Senate,,,Write-ins,0,0,0,0
+Grant,Pleasant 3,Auditor,,Rep,Tera Klutz,196,159,0,355
+Grant,Pleasant 3,Auditor,,Dem,Joselyn Whitticker,85,71,0,156
+Grant,Pleasant 3,Auditor,,Lbt,John Schick,8,4,0,12
+Grant,Pleasant 3,Ballots Cast,,,,293,238,0,531
+Grant,Pleasant 3,Registered Voters,,,,,,,927
+Grant,Pleasant 3,Secretary of State,,Rep,Connie Lawson,208,161,0,369
+Grant,Pleasant 3,Secretary of State,,Dem,Jim Harper,74,70,0,144
+Grant,Pleasant 3,Secretary of State,,Lbt,Mark Rutherford,6,3,0,9
+Grant,Pleasant 3,Secretary of State,,,Write-ins,0,0,0,0
+Grant,Pleasant 3,State House,31,Rep,Kevin Mahan,205,162,0,367
+Grant,Pleasant 3,State House,31,Dem,Lynn Johnson,85,72,0,157
+Grant,Pleasant 3,State Senate,17,Rep,Andy Zay,197,158,0,355
+Grant,Pleasant 3,State Senate,17,Dem,Gary Snyder,87,75,0,162
+Grant,Pleasant 3,Treasurer,,Rep,Kelly Mitchell,215,162,0,377
+Grant,Pleasant 3,Treasurer,,Dem,John Aguilera,73,69,0,142
+Grant,Pleasant 3,U.S. House,5,Rep,Susan Brooks,213,168,0,381
+Grant,Pleasant 3,U.S. House,5,Dem,Dee Thornton,77,66,0,143
+Grant,Pleasant 3,U.S. House,5,,Write-ins,0,0,0,0
+Grant,Pleasant 3,U.S. Senate,,Rep,Mike Braun,191,152,0,343
+Grant,Pleasant 3,U.S. Senate,,Dem,Joe Donnelly,90,75,0,165
+Grant,Pleasant 3,U.S. Senate,,Lbt,Lucy Brenton,11,6,0,17
+Grant,Pleasant 3,U.S. Senate,,,Write-ins,0,0,0,0
+Grant,Pleasant 4,Auditor,,Rep,Tera Klutz,135,101,0,236
+Grant,Pleasant 4,Auditor,,Dem,Joselyn Whitticker,57,24,0,81
+Grant,Pleasant 4,Auditor,,Lbt,John Schick,8,0,0,8
+Grant,Pleasant 4,Ballots Cast,,,,207,127,0,334
+Grant,Pleasant 4,Registered Voters,,,,,,,596
+Grant,Pleasant 4,Secretary of State,,Rep,Connie Lawson,135,102,0,237
+Grant,Pleasant 4,Secretary of State,,Dem,Jim Harper,50,23,0,73
+Grant,Pleasant 4,Secretary of State,,Lbt,Mark Rutherford,14,0,0,14
+Grant,Pleasant 4,Secretary of State,,,Write-ins,0,0,0,0
+Grant,Pleasant 4,State House,31,Rep,Kevin Mahan,139,103,0,242
+Grant,Pleasant 4,State House,31,Dem,Lynn Johnson,60,21,0,81
+Grant,Pleasant 4,State Senate,17,Rep,Andy Zay,136,99,0,235
+Grant,Pleasant 4,State Senate,17,Dem,Gary Snyder,59,24,0,83
+Grant,Pleasant 4,Treasurer,,Rep,Kelly Mitchell,146,100,0,246
+Grant,Pleasant 4,Treasurer,,Dem,John Aguilera,48,23,0,71
+Grant,Pleasant 4,U.S. House,5,Rep,Susan Brooks,154,104,0,258
+Grant,Pleasant 4,U.S. House,5,Dem,Dee Thornton,47,22,0,69
+Grant,Pleasant 4,U.S. House,5,,Write-ins,0,0,0,0
+Grant,Pleasant 4,U.S. Senate,,Rep,Mike Braun,129,93,0,222
+Grant,Pleasant 4,U.S. Senate,,Dem,Joe Donnelly,64,32,0,96
+Grant,Pleasant 4,U.S. Senate,,Lbt,Lucy Brenton,7,2,0,9
+Grant,Pleasant 4,U.S. Senate,,,Write-ins,0,0,0,0
+Grant,Pleasant 5,Auditor,,Rep,Tera Klutz,124,44,0,168
+Grant,Pleasant 5,Auditor,,Dem,Joselyn Whitticker,84,33,0,117
+Grant,Pleasant 5,Auditor,,Lbt,John Schick,5,2,0,7
+Grant,Pleasant 5,Ballots Cast,,,,216,79,0,295
+Grant,Pleasant 5,Registered Voters,,,,,,,758
+Grant,Pleasant 5,Secretary of State,,Rep,Connie Lawson,137,47,0,184
+Grant,Pleasant 5,Secretary of State,,Dem,Jim Harper,71,30,0,101
+Grant,Pleasant 5,Secretary of State,,Lbt,Mark Rutherford,4,2,0,6
+Grant,Pleasant 5,Secretary of State,,,Write-ins,0,0,0,0
+Grant,Pleasant 5,State House,31,Rep,Kevin Mahan,134,45,0,179
+Grant,Pleasant 5,State House,31,Dem,Lynn Johnson,76,33,,109
+Grant,Pleasant 5,State Senate,17,Rep,Andy Zay,123,45,0,168
+Grant,Pleasant 5,State Senate,17,Dem,Gary Snyder,86,33,0,119
+Grant,Pleasant 5,Treasurer,,Rep,Kelly Mitchell,136,48,0,184
+Grant,Pleasant 5,Treasurer,,Dem,John Aguilera,74,31,0,105
+Grant,Pleasant 5,U.S. House,5,Rep,Susan Brooks,143,49,0,192
+Grant,Pleasant 5,U.S. House,5,Dem,Dee Thornton,68,29,0,97
+Grant,Pleasant 5,U.S. House,5,,Write-ins,0,0,0,0
+Grant,Pleasant 5,U.S. Senate,,Rep,Mike Braun,125,41,0,166
+Grant,Pleasant 5,U.S. Senate,,Dem,Joe Donnelly,75,37,0,112
+Grant,Pleasant 5,U.S. Senate,,Lbt,Lucy Brenton,13,1,0,14
+Grant,Pleasant 5,U.S. Senate,,,Write-ins,0,0,0,0
+Grant,Pleasant 6,Auditor,,Rep,Tera Klutz,142,95,0,237
+Grant,Pleasant 6,Auditor,,Dem,Joselyn Whitticker,62,33,0,95
+Grant,Pleasant 6,Auditor,,Lbt,John Schick,11,2,0,13
+Grant,Pleasant 6,Ballots Cast,,,,218,133,0,351
+Grant,Pleasant 6,Registered Voters,,,,,,,631
+Grant,Pleasant 6,Secretary of State,,Rep,Connie Lawson,147,99,0,246
+Grant,Pleasant 6,Secretary of State,,Dem,Jim Harper,59,27,0,86
+Grant,Pleasant 6,Secretary of State,,Lbt,Mark Rutherford,8,2,0,10
+Grant,Pleasant 6,Secretary of State,,,Write-ins,0,0,0,0
+Grant,Pleasant 6,State House,31,Rep,Kevin Mahan,152,98,0,250
+Grant,Pleasant 6,State House,31,Dem,Lynn Johnson,64,31,0,95
+Grant,Pleasant 6,State Senate,17,Rep,Andy Zay,147,93,0,240
+Grant,Pleasant 6,State Senate,17,Dem,Gary Snyder,68,31,0,99
+Grant,Pleasant 6,Treasurer,,Rep,Kelly Mitchell,155,99,0,254
+Grant,Pleasant 6,Treasurer,,Dem,John Aguilera,59,28,0,87
+Grant,Pleasant 6,U.S. House,5,Rep,Susan Brooks,156,103,0,259
+Grant,Pleasant 6,U.S. House,5,Dem,Dee Thornton,60,27,0,87
+Grant,Pleasant 6,U.S. House,5,,Write-ins,0,0,0,0
+Grant,Pleasant 6,U.S. Senate,,Rep,Mike Braun,132,92,0,224
+Grant,Pleasant 6,U.S. Senate,,Dem,Joe Donnelly,73,34,0,107
+Grant,Pleasant 6,U.S. Senate,,Lbt,Lucy Brenton,12,5,0,17
+Grant,Pleasant 6,U.S. Senate,,,Write-ins,0,0,0,0
+Grant,Pleasant 7,Auditor,,Rep,Tera Klutz,127,45,0,172
+Grant,Pleasant 7,Auditor,,Dem,Joselyn Whitticker,57,37,0,94
+Grant,Pleasant 7,Auditor,,Lbt,John Schick,5,1,0,6
+Grant,Pleasant 7,Ballots Cast,,,,196,89,0,285
+Grant,Pleasant 7,Registered Voters,,,,,,,608
+Grant,Pleasant 7,Secretary of State,,Rep,Connie Lawson,138,53,0,191
+Grant,Pleasant 7,Secretary of State,,Dem,Jim Harper,45,29,0,74
+Grant,Pleasant 7,Secretary of State,,Lbt,Mark Rutherford,5,0,0,5
+Grant,Pleasant 7,Secretary of State,,,Write-ins,0,0,0,0
+Grant,Pleasant 7,State House,31,Rep,Kevin Mahan,136,54,0,190
+Grant,Pleasant 7,State House,31,Dem,Lynn Johnson,49,31,0,80
+Grant,Pleasant 7,State Senate,17,Rep,Andy Zay,128,51,0,179
+Grant,Pleasant 7,State Senate,17,Dem,Gary Snyder,53,37,0,90
+Grant,Pleasant 7,Treasurer,,Rep,Kelly Mitchell,139,57,0,196
+Grant,Pleasant 7,Treasurer,,Dem,John Aguilera,48,27,0,75
+Grant,Pleasant 7,U.S. House,5,Rep,Susan Brooks,137,57,0,194
+Grant,Pleasant 7,U.S. House,5,Dem,Dee Thornton,52,29,0,81
+Grant,Pleasant 7,U.S. House,5,,Write-ins,0,0,0,0
+Grant,Pleasant 7,U.S. Senate,,Rep,Mike Braun,123,42,0,165
+Grant,Pleasant 7,U.S. Senate,,Dem,Joe Donnelly,60,37,0,97
+Grant,Pleasant 7,U.S. Senate,,Lbt,Lucy Brenton,10,5,0,15
+Grant,Pleasant 7,U.S. Senate,,,Write-ins,0,0,0,0
+Grant,Richland,Auditor,,Rep,Tera Klutz,147,110,0,257
+Grant,Richland,Auditor,,Dem,Joselyn Whitticker,39,28,0,67
+Grant,Richland,Auditor,,Lbt,John Schick,8,1,0,9
+Grant,Richland,Ballots Cast,,,,200,141,0,341
+Grant,Richland,Registered Voters,,,,,,,664
+Grant,Richland,Secretary of State,,Rep,Connie Lawson,151,114,0,265
+Grant,Richland,Secretary of State,,Dem,Jim Harper,33,23,0,56
+Grant,Richland,Secretary of State,,Lbt,Mark Rutherford,10,0,0,10
+Grant,Richland,Secretary of State,,,Write-ins,0,0,0,0
+Grant,Richland,State House,18,Rep,David Wolkins,158,111,0,269
+Grant,Richland,State House,18,Dem,Dee Moore,36,27,0,63
+Grant,Richland,State Senate,17,Rep,Andy Zay,155,110,0,265
+Grant,Richland,State Senate,17,Dem,Gary Snyder,38,29,0,67
+Grant,Richland,Treasurer,,Rep,Kelly Mitchell,158,115,0,273
+Grant,Richland,Treasurer,,Dem,John Aguilera,35,23,0,58
+Grant,Richland,U.S. House,5,Rep,Susan Brooks,164,119,0,283
+Grant,Richland,U.S. House,5,Dem,Dee Thornton,31,22,0,53
+Grant,Richland,U.S. House,5,,Write-ins,0,0,0,0
+Grant,Richland,U.S. Senate,,Rep,Mike Braun,145,110,0,255
+Grant,Richland,U.S. Senate,,Dem,Joe Donnelly,36,27,0,63
+Grant,Richland,U.S. Senate,,Lbt,Lucy Brenton,15,1,0,16
+Grant,Richland,U.S. Senate,,,Write-ins,0,0,0,0
+Grant,Sims,Auditor,,Rep,Tera Klutz,383,117,0,500
+Grant,Sims,Auditor,,Dem,Joselyn Whitticker,121,48,0,169
+Grant,Sims,Auditor,,Lbt,John Schick,17,4,0,21
+Grant,Sims,Ballots Cast,,,,533,175,0,708
+Grant,Sims,Registered Voters,,,,,,,1316
+Grant,Sims,Secretary of State,,Rep,Connie Lawson,396,126,0,522
+Grant,Sims,Secretary of State,,Dem,Jim Harper,111,42,0,153
+Grant,Sims,Secretary of State,,Lbt,Mark Rutherford,16,5,0,21
+Grant,Sims,Secretary of State,,,Write-ins,0,0,0,0
+Grant,Sims,State House,30,Rep,Mike Karickhoff,440,138,0,578
+Grant,Sims,State Senate,21,Rep,James Buck,393,121,0,514
+Grant,Sims,State Senate,21,Dem,Christina Fivecoate,123,47,0,170
+Grant,Sims,Treasurer,,Rep,Kelly Mitchell,405,127,0,532
+Grant,Sims,Treasurer,,Dem,John Aguilera,114,43,0,157
+Grant,Sims,U.S. House,5,Rep,Susan Brooks,416,131,0,547
+Grant,Sims,U.S. House,5,Dem,Dee Thornton,112,42,0,154
+Grant,Sims,U.S. House,5,,Write-ins,1,0,0,1
+Grant,Sims,U.S. Senate,,Rep,Mike Braun,371,116,0,487
+Grant,Sims,U.S. Senate,,Dem,Joe Donnelly,133,49,0,182
+Grant,Sims,U.S. Senate,,Lbt,Lucy Brenton,21,8,0,29
+Grant,Sims,U.S. Senate,,,Write-ins,1,0,0,1
+Grant,Van Buren,Auditor,,Rep,Tera Klutz,354,78,0,432
+Grant,Van Buren,Auditor,,Dem,Joselyn Whitticker,97,43,0,140
+Grant,Van Buren,Auditor,,Lbt,John Schick,20,5,0,25
+Grant,Van Buren,Ballots Cast,,,,491,128,0,619
+Grant,Van Buren,Registered Voters,,,,,,,1214
+Grant,Van Buren,Secretary of State,,Rep,Connie Lawson,385,82,0,467
+Grant,Van Buren,Secretary of State,,Dem,Jim Harper,79,42,0,121
+Grant,Van Buren,Secretary of State,,Lbt,Mark Rutherford,13,3,0,16
+Grant,Van Buren,Secretary of State,,,Write-ins,0,0,0,0
+Grant,Van Buren,State House,31,Rep,Kevin Mahan,367,83,0,450
+Grant,Van Buren,State House,31,Dem,Lynn Johnson,107,44,0,151
+Grant,Van Buren,State Senate,17,Rep,Andy Zay,354,80,0,434
+Grant,Van Buren,State Senate,17,Dem,Dave Cravens,111,45,0,156
+Grant,Van Buren,Treasurer,,Rep,Kelly Mitchell,382,82,0,464
+Grant,Van Buren,Treasurer,,Dem,John Aguilera,90,43,0,133
+Grant,Van Buren,U.S. House,5,Rep,Susan Brooks,389,86,0,475
+Grant,Van Buren,U.S. House,5,Dem,Dee Thornton,83,41,0,124
+Grant,Van Buren,U.S. House,5,,Write-ins,0,0,0,0
+Grant,Van Buren,U.S. Senate,,Rep,Mike Braun,354,76,0,430
+Grant,Van Buren,U.S. Senate,,Dem,Joe Donnelly,107,43,0,150
+Grant,Van Buren,U.S. Senate,,Lbt,Lucy Brenton,20,6,0,26
+Grant,Van Buren,U.S. Senate,,,Write-ins,0,0,0,0
+Grant,Washington 1,Auditor,,Rep,Tera Klutz,142,45,0,187
+Grant,Washington 1,Auditor,,Dem,Joselyn Whitticker,38,9,0,47
+Grant,Washington 1,Auditor,,Lbt,John Schick,2,1,0,3
+Grant,Washington 1,Ballots Cast,,,,188,55,0,243
+Grant,Washington 1,Registered Voters,,,,,,,409
+Grant,Washington 1,Secretary of State,,Rep,Connie Lawson,154,46,0,200
+Grant,Washington 1,Secretary of State,,Dem,Jim Harper,26,7,0,33
+Grant,Washington 1,Secretary of State,,Lbt,Mark Rutherford,1,1,0,2
+Grant,Washington 1,Secretary of State,,,Write-ins,0,0,0,0
+Grant,Washington 1,State House,31,Rep,Kevin Mahan,148,46,0,194
+Grant,Washington 1,State House,31,Dem,Lynn Johnson,35,9,0,44
+Grant,Washington 1,State Senate,17,Rep,Andy Zay,146,46,0,192
+Grant,Washington 1,State Senate,17,Dem,Dave Cravens,36,9,0,45
+Grant,Washington 1,Treasurer,,Rep,Kelly Mitchell,149,48,0,197
+Grant,Washington 1,Treasurer,,Dem,John Aguilera,33,7,0,40
+Grant,Washington 1,U.S. House,5,Rep,Susan Brooks,153,46,0,199
+Grant,Washington 1,U.S. House,5,Dem,Dee Thornton,30,9,0,39
+Grant,Washington 1,U.S. House,5,,Write-ins,0,0,0,0
+Grant,Washington 1,U.S. Senate,,Rep,Mike Braun,146,42,0,188
+Grant,Washington 1,U.S. Senate,,Dem,Joe Donnelly,36,11,0,47
+Grant,Washington 1,U.S. Senate,,Lbt,Lucy Brenton,2,1,0,3
+Grant,Washington 1,U.S. Senate,,,Write-ins,1,0,0,1
+Grant,Washington 2,Auditor,,Rep,Tera Klutz,98,42,0,140
+Grant,Washington 2,Auditor,,Dem,Joselyn Whitticker,63,25,0,88
+Grant,Washington 2,Auditor,,Lbt,John Schick,9,0,0,9
+Grant,Washington 2,Ballots Cast,,,,174,67,0,241
+Grant,Washington 2,Registered Voters,,,,,,,765
+Grant,Washington 2,Secretary of State,,Rep,Connie Lawson,119,44,0,163
+Grant,Washington 2,Secretary of State,,Dem,Jim Harper,42,22,0,64
+Grant,Washington 2,Secretary of State,,Lbt,Mark Rutherford,7,1,0,8
+Grant,Washington 2,Secretary of State,,,Write-ins,0,0,0,0
+Grant,Washington 2,State House,31,Rep,Kevin Mahan,114,42,0,156
+Grant,Washington 2,State House,31,Dem,Lynn Johnson,56,25,0,81
+Grant,Washington 2,State Senate,17,Rep,Andy Zay,107,43,0,150
+Grant,Washington 2,State Senate,17,Dem,Dave Cravens,51,24,0,75
+Grant,Washington 2,Treasurer,,Rep,Kelly Mitchell,115,44,0,159
+Grant,Washington 2,Treasurer,,Dem,John Aguilera,49,23,0,72
+Grant,Washington 2,U.S. House,5,Rep,Susan Brooks,123,47,0,170
+Grant,Washington 2,U.S. House,5,Dem,Dee Thornton,42,20,0,62
+Grant,Washington 2,U.S. House,5,,Write-ins,0,0,0,0
+Grant,Washington 2,U.S. Senate,,Rep,Mike Braun,95,39,0,134
+Grant,Washington 2,U.S. Senate,,Dem,Joe Donnelly,63,27,0,90
+Grant,Washington 2,U.S. Senate,,Lbt,Lucy Brenton,12,1,0,13
+Grant,Washington 2,U.S. Senate,,,Write-ins,0,0,0,0
+Grant,Washington 3,Auditor,,Rep,Tera Klutz,232,132,0,364
+Grant,Washington 3,Auditor,,Dem,Joselyn Whitticker,93,56,0,149
+Grant,Washington 3,Auditor,,Lbt,John Schick,8,4,0,12
+Grant,Washington 3,Ballots Cast,,,,338,196,0,534
+Grant,Washington 3,Registered Voters,,,,,,,972
+Grant,Washington 3,Secretary of State,,Rep,Connie Lawson,248,142,0,390
+Grant,Washington 3,Secretary of State,,Dem,Jim Harper,72,49,0,121
+Grant,Washington 3,Secretary of State,,Lbt,Mark Rutherford,12,1,0,13
+Grant,Washington 3,Secretary of State,,,Write-ins,0,0,0,0
+Grant,Washington 3,State House,31,Rep,Kevin Mahan,247,146,0,393
+Grant,Washington 3,State House,31,Dem,Lynn Johnson,83,46,0,129
+Grant,Washington 3,State Senate,17,Rep,Andy Zay,246,138,0,384
+Grant,Washington 3,State Senate,17,Dem,Dave Cravens,80,56,0,136
+Grant,Washington 3,Treasurer,,Rep,Kelly Mitchell,259,141,0,400
+Grant,Washington 3,Treasurer,,Dem,John Aguilera,74,51,0,125
+Grant,Washington 3,U.S. House,5,Rep,Susan Brooks,259,140,0,399
+Grant,Washington 3,U.S. House,5,Dem,Dee Thornton,74,51,0,125
+Grant,Washington 3,U.S. House,5,,Write-ins,0,0,0,0
+Grant,Washington 3,U.S. Senate,,Rep,Mike Braun,226,127,0,353
+Grant,Washington 3,U.S. Senate,,Dem,Joe Donnelly,87,60,0,147
+Grant,Washington 3,U.S. Senate,,Lbt,Lucy Brenton,22,6,0,28
+Grant,Washington 3,U.S. Senate,,,Write-ins,0,0,0,0
+Grant,Washington 4,Auditor,,Rep,Tera Klutz,158,45,0,203
+Grant,Washington 4,Auditor,,Dem,Joselyn Whitticker,58,12,0,70
+Grant,Washington 4,Auditor,,Lbt,John Schick,10,1,0,11
+Grant,Washington 4,Ballots Cast,,,,233,59,0,292
+Grant,Washington 4,Registered Voters,,,,,,,503
+Grant,Washington 4,Secretary of State,,Rep,Connie Lawson,167,47,0,214
+Grant,Washington 4,Secretary of State,,Dem,Jim Harper,47,12,0,59
+Grant,Washington 4,Secretary of State,,Lbt,Mark Rutherford,11,0,0,11
+Grant,Washington 4,Secretary of State,,,Write-ins,0,0,0,0
+Grant,Washington 4,State House,31,Rep,Kevin Mahan,174,45,0,219
+Grant,Washington 4,State House,31,Dem,Lynn Johnson,54,13,0,67
+Grant,Washington 4,State Senate,17,Rep,Andy Zay,164,44,0,208
+Grant,Washington 4,State Senate,17,Dem,Dave Cravens,64,14,0,78
+Grant,Washington 4,Treasurer,,Rep,Kelly Mitchell,170,46,0,216
+Grant,Washington 4,Treasurer,,Dem,John Aguilera,53,13,0,66
+Grant,Washington 4,U.S. House,5,Rep,Susan Brooks,174,43,0,217
+Grant,Washington 4,U.S. House,5,Dem,Dee Thornton,53,15,0,68
+Grant,Washington 4,U.S. House,5,,Write-ins,0,0,0,0
+Grant,Washington 4,U.S. Senate,,Rep,Mike Braun,157,44,0,201
+Grant,Washington 4,U.S. Senate,,Dem,Joe Donnelly,54,14,0,68
+Grant,Washington 4,U.S. Senate,,Lbt,Lucy Brenton,16,1,0,17
+Grant,Washington 4,U.S. Senate,,,Write-ins,0,0,0,0
+Grant,Fairmount 1,Auditor,,Rep,Tera Klutz,219,58,0,277
+Grant,Fairmount 1,Auditor,,Dem,Joselyn Whitticker,78,48,0,126
+Grant,Fairmount 1,Auditor,,Lbt,John Schick,11,3,0,14
+Grant,Fairmount 1,Ballots Cast,,,,312,111,0,423
+Grant,Fairmount 1,Registered Voters,,,,,,,956
+Grant,Fairmount 1,Secretary of State,,Rep,Connie Lawson,224,62,0,286
+Grant,Fairmount 1,Secretary of State,,Dem,Jim Harper,69,42,0,111
+Grant,Fairmount 1,Secretary of State,,Lbt,Mark Rutherford,14,4,0,18
+Grant,Fairmount 1,Secretary of State,,,Write-ins,0,0,0,0
+Grant,Fairmount 1,State House,32,Rep,Anthony J. (Tony) Cook,221,58,0,279
+Grant,Fairmount 1,State House,32,Dem,Amie Neiling,87,48,0,135
+Grant,Fairmount 1,State Senate,19,Rep,Travis Holdman,245,66,0,311
+Grant,Fairmount 1,Treasurer,,Rep,Kelly Mitchell,222,64,0,286
+Grant,Fairmount 1,Treasurer,,Dem,John Aguilera,84,43,0,127
+Grant,Fairmount 1,U.S. House,5,Rep,Susan Brooks,227,66,0,293
+Grant,Fairmount 1,U.S. House,5,Dem,Dee Thornton,79,43,0,122
+Grant,Fairmount 1,U.S. House,5,,Write-ins,0,0,0,0
+Grant,Fairmount 1,U.S. Senate,,Rep,Mike Braun,209,59,0,268
+Grant,Fairmount 1,U.S. Senate,,Dem,Joe Donnelly,83,47,0,130
+Grant,Fairmount 1,U.S. Senate,,Lbt,Lucy Brenton,13,4,0,17
+Grant,Fairmount 1,U.S. Senate,,,Write-ins,0,0,0,0
+Grant,Fairmount 2,Auditor,,Rep,Tera Klutz,229,47,0,276
+Grant,Fairmount 2,Auditor,,Dem,Joselyn Whitticker,95,10,0,105
+Grant,Fairmount 2,Auditor,,Lbt,John Schick,12,0,0,12
+Grant,Fairmount 2,Ballots Cast,,,,343,61,0,404
+Grant,Fairmount 2,Registered Voters,,,,,,,818
+Grant,Fairmount 2,Secretary of State,,Rep,Connie Lawson,247,47,0,294
+Grant,Fairmount 2,Secretary of State,,Dem,Jim Harper,83,10,0,93
+Grant,Fairmount 2,Secretary of State,,Lbt,Mark Rutherford,9,0,0,9
+Grant,Fairmount 2,Secretary of State,,,Write-ins,1,0,0,1
+Grant,Fairmount 2,State House,32,Rep,Anthony J. (Tony) Cook,232,44,0,276
+Grant,Fairmount 2,State House,32,Dem,Amie Neiling,103,13,0,116
+Grant,Fairmount 2,State Senate,19,Rep,Travis Holdman,270,51,0,321
+Grant,Fairmount 2,Treasurer,,Rep,Kelly Mitchell,247,46,0,293
+Grant,Fairmount 2,Treasurer,,Dem,John Aguilera,91,11,0,102
+Grant,Fairmount 2,U.S. House,5,Rep,Susan Brooks,251,48,0,299
+Grant,Fairmount 2,U.S. House,5,Dem,Dee Thornton,88,11,0,99
+Grant,Fairmount 2,U.S. House,5,,Write-ins,0,0,0,0
+Grant,Fairmount 2,U.S. Senate,,Rep,Mike Braun,205,43,0,248
+Grant,Fairmount 2,U.S. Senate,,Dem,Joe Donnelly,110,14,0,124
+Grant,Fairmount 2,U.S. Senate,,Lbt,Lucy Brenton,20,1,0,21
+Grant,Fairmount 2,U.S. Senate,,,Write-ins,0,0,0,0
+Grant,Fairmount 3,Auditor,,Rep,Tera Klutz,153,20,0,173
+Grant,Fairmount 3,Auditor,,Dem,Joselyn Whitticker,42,11,0,53
+Grant,Fairmount 3,Auditor,,Lbt,John Schick,12,0,0,12
+Grant,Fairmount 3,Ballots Cast,,,,211,32,0,243
+Grant,Fairmount 3,Registered Voters,,,,,,,484
+Grant,Fairmount 3,Secretary of State,,Rep,Connie Lawson,158,20,0,178
+Grant,Fairmount 3,Secretary of State,,Dem,Jim Harper,40,11,0,51
+Grant,Fairmount 3,Secretary of State,,Lbt,Mark Rutherford,10,0,0,10
+Grant,Fairmount 3,Secretary of State,,,Write-ins,0,0,0,0
+Grant,Fairmount 3,State House,32,Rep,Anthony J. (Tony) Cook,155,20,0,175
+Grant,Fairmount 3,State House,32,Dem,Amie Neiling,48,10,0,58
+Grant,Fairmount 3,State Senate,19,Rep,Travis Holdman,174,20,0,194
+Grant,Fairmount 3,Treasurer,,Rep,Kelly Mitchell,161,20,0,181
+Grant,Fairmount 3,Treasurer,,Dem,John Aguilera,46,11,0,57
+Grant,Fairmount 3,U.S. House,5,Rep,Susan Brooks,163,19,0,182
+Grant,Fairmount 3,U.S. House,5,Dem,Dee Thornton,43,10,0,53
+Grant,Fairmount 3,U.S. House,5,,Write-ins,0,0,0,0
+Grant,Fairmount 3,U.S. Senate,,Rep,Mike Braun,144,19,0,163
+Grant,Fairmount 3,U.S. Senate,,Dem,Joe Donnelly,52,13,0,65
+Grant,Fairmount 3,U.S. Senate,,Lbt,Lucy Brenton,14,0,0,14
+Grant,Fairmount 3,U.S. Senate,,,Write-ins,0,0,0,0
+Grant,Fairmount 4,Auditor,,Rep,Tera Klutz,113,45,0,158
+Grant,Fairmount 4,Auditor,,Dem,Joselyn Whitticker,42,13,0,55
+Grant,Fairmount 4,Auditor,,Lbt,John Schick,5,1,0,6
+Grant,Fairmount 4,Ballots Cast,,,,162,61,0,223
+Grant,Fairmount 4,Registered Voters,,,,,,,393
+Grant,Fairmount 4,Secretary of State,,Rep,Connie Lawson,122,46,0,168
+Grant,Fairmount 4,Secretary of State,,Dem,Jim Harper,37,9,0,46
+Grant,Fairmount 4,Secretary of State,,Lbt,Mark Rutherford,3,3,0,6
+Grant,Fairmount 4,Secretary of State,,,Write-ins,0,0,0,0
+Grant,Fairmount 4,State House,32,Rep,Anthony J. (Tony) Cook,115,46,0,161
+Grant,Fairmount 4,State House,32,Dem,Amie Neiling,42,11,0,53
+Grant,Fairmount 4,State Senate,19,Rep,Travis Holdman,124,48,0,172
+Grant,Fairmount 4,Treasurer,,Rep,Kelly Mitchell,119,48,0,167
+Grant,Fairmount 4,Treasurer,,Dem,John Aguilera,40,11,0,51
+Grant,Fairmount 4,U.S. House,5,Rep,Susan Brooks,123,46,0,169
+Grant,Fairmount 4,U.S. House,5,Dem,Dee Thornton,38,10,0,48
+Grant,Fairmount 4,U.S. House,5,,Write-ins,0,0,0,0
+Grant,Fairmount 4,U.S. Senate,,Rep,Mike Braun,112,45,0,157
+Grant,Fairmount 4,U.S. Senate,,Dem,Joe Donnelly,44,13,0,57
+Grant,Fairmount 4,U.S. Senate,,Lbt,Lucy Brenton,6,2,0,8
+Grant,Fairmount 4,U.S. Senate,,,Write-ins,0,0,0,0

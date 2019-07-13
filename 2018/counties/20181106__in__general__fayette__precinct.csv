@@ -1,6 +1,6 @@
 candidate,office,district,party,county,precinct,election_day,absentee,provisional,votes
 ,Registered Voters,,,Fayette,C-1,,,,286
-,Ballots Cast,,,Fayette,C-1,,,,41
+,Ballots Cast,,,Fayette,C-1,41,37,0,78
 Mike Braun,U.S. Senate,,R,Fayette,C-1,21,22,0,43
 Joe Donnelly,U.S. Senate,,D,Fayette,C-1,19,14,0,33
 Lucy M Brenton,U.S. Senate,,L,Fayette,C-1,1,0,0,1
@@ -21,7 +21,7 @@ Write in,Write In,6,,Fayette,C-1,0,0,0,0
 Cindy Meyer Ziemke,State Representative,55,R,Fayette,C-1,23,21,0,44
 Corinne Westerfield,State Representative,55,D,Fayette,C-1,17,14,0,31
 ,Registered Voters,,,Fayette,C-2,,,,988
-,Ballots Cast,,,Fayette,C-2,,,,289
+,Ballots Cast,,,Fayette,C-2,289,221,0,510
 Mike Braun,U.S. Senate,,R,Fayette,C-2,188,119,0,307
 Joe Donnelly,U.S. Senate,,D,Fayette,C-2,77,85,0,162
 Lucy M Brenton,U.S. Senate,,L,Fayette,C-2,19,12,0,31
@@ -42,7 +42,7 @@ Write in,Write In,6,,Fayette,C-2,0,0,0,0
 Cindy Meyer Ziemke,State Representative,55,R,Fayette,C-2,199,133,0,332
 Corinne Westerfield,State Representative,55,D,Fayette,C-2,84,72,0,156
 ,Registered Voters,,,Fayette,C-3,,,,671
-,Ballots Cast,,,Fayette,C-3,,,,200
+,Ballots Cast,,,Fayette,C-3,200,136,0,336
 Mike Braun,U.S. Senate,,R,Fayette,C-3,119,81,0,200
 Joe Donnelly,U.S. Senate,,D,Fayette,C-3,72,44,0,116
 Lucy M Brenton,U.S. Senate,,L,Fayette,C-3,6,8,0,14
@@ -63,7 +63,7 @@ Write in,Write In,6,,Fayette,C-3,0,0,0,0
 Cindy Meyer Ziemke,State Representative,55,R,Fayette,C-3,132,94,0,226
 Corinne Westerfield,State Representative,55,D,Fayette,C-3,65,38,0,103
 ,Registered Voters,,,Fayette,C-4,,,,459
-,Ballots Cast,,,Fayette,C-4,,,,73
+,Ballots Cast,,,Fayette,C-4,73,68,0,141
 Mike Braun,U.S. Senate,,R,Fayette,C-4,38,31,0,69
 Joe Donnelly,U.S. Senate,,D,Fayette,C-4,23,30,0,53
 Lucy M Brenton,U.S. Senate,,L,Fayette,C-4,9,5,0,14
@@ -84,7 +84,7 @@ Write in,Write In,6,,Fayette,C-4,0,0,0,0
 Cindy Meyer Ziemke,State Representative,55,R,Fayette,C-4,36,32,0,68
 Corinne Westerfield,State Representative,55,D,Fayette,C-4,32,33,0,65
 ,Registered Voters,,,Fayette,C-5,,,,328
-,Ballots Cast,,,Fayette,C-5,,,,62
+,Ballots Cast,,,Fayette,C-5,62,44,0,106
 Mike Braun,U.S. Senate,,R,Fayette,C-5,,,,328
 Joe Donnelly,U.S. Senate,,D,Fayette,C-5,,,,62
 Lucy M Brenton,U.S. Senate,,L,Fayette,C-5,34,27,0,61
@@ -105,7 +105,7 @@ Write in,Write In,6,,Fayette,C-5,0,0,0,0
 Cindy Meyer Ziemke,State Representative,55,R,Fayette,C-5,35,28,0,63
 Corinne Westerfield,State Representative,55,D,Fayette,C-5,27,15,0,42
 ,Registered Voters,,,Fayette,C-6,,,,496
-,Ballots Cast,,,Fayette,C-6,,,,151
+,Ballots Cast,,,Fayette,C-6,151,59,0,210
 Mike Braun,U.S. Senate,,R,Fayette,C-6,83,27,0,110
 Joe Donnelly,U.S. Senate,,D,Fayette,C-6,58,28,0,86
 Lucy M Brenton,U.S. Senate,,L,Fayette,C-6,9,3,0,12
@@ -126,7 +126,7 @@ Write in,Write In,6,,Fayette,C-6,0,0,0,0
 Cindy Meyer Ziemke,State Representative,55,R,Fayette,C-6,95,26,0,121
 Corinne Westerfield,State Representative,55,D,Fayette,C-6,54,32,0,86
 ,Registered Voters,,,Fayette,C-7,,,,504
-,Ballots Cast,,,Fayette,C-7,,,,145
+,Ballots Cast,,,Fayette,C-7,145,61,0,206
 Mike Braun,U.S. Senate,,R,Fayette,C-7,84,37,0,121
 Joe Donnelly,U.S. Senate,,D,Fayette,C-7,49,17,0,66
 Lucy M Brenton,U.S. Senate,,L,Fayette,C-7,8,4,0,12
@@ -147,7 +147,7 @@ Write in,Write In,6,,Fayette,C-7,0,0,0,0
 Cindy Meyer Ziemke,State Representative,55,R,Fayette,C-7,90,38,0,128
 Corinne Westerfield,State Representative,55,D,Fayette,C-7,54,20,0,74
 ,Registered Voters,,,Fayette,C-8,,,,392
-,Ballots Cast,,,Fayette,C-8,,,,93
+,Ballots Cast,,,Fayette,C-8,93,71,0,164
 Mike Braun,U.S. Senate,,R,Fayette,C-8,48,38,0,86
 Joe Donnelly,U.S. Senate,,D,Fayette,C-8,30,25,0,55
 Lucy M Brenton,U.S. Senate,,L,Fayette,C-8,14,4,0,18
@@ -168,7 +168,7 @@ Write in,Write In,6,,Fayette,C-8,0,0,0,0
 Cindy Meyer Ziemke,State Representative,55,R,Fayette,C-8,52,41,0,93
 Corinne Westerfield,State Representative,55,D,Fayette,C-8,38,25,0,63
 ,Registered Voters,,,Fayette,C-9,,,,591
-,Ballots Cast,,,Fayette,C-9,,,,131
+,Ballots Cast,,,Fayette,C-9,131,170,0,301
 Mike Braun,U.S. Senate,,R,Fayette,C-9,79,98,0,177
 Joe Donnelly,U.S. Senate,,D,Fayette,C-9,33,57,0,90
 Lucy M Brenton,U.S. Senate,,L,Fayette,C-9,16,6,0,22
@@ -189,7 +189,7 @@ Write in,Write In,6,,Fayette,C-9,1,0,0,1
 Cindy Meyer Ziemke,State Representative,55,R,Fayette,C-9,93,113,0,206
 Corinne Westerfield,State Representative,55,D,Fayette,C-9,35,53,0,88
 ,Registered Voters,,,Fayette,C-10,,,,593
-,Ballots Cast,,,Fayette,C-10,,,,145
+,Ballots Cast,,,Fayette,C-10,145,98,0,243
 Mike Braun,U.S. Senate,,R,Fayette,C-10,92,55,0,147
 Joe Donnelly,U.S. Senate,,D,Fayette,C-10,40,31,0,71
 Lucy M Brenton,U.S. Senate,,L,Fayette,C-10,13,9,0,22
@@ -210,7 +210,7 @@ Write in,Write In,6,,Fayette,C-10,0,0,0,0
 Cindy Meyer Ziemke,State Representative,55,R,Fayette,C-10,98,56,0,154
 Corinne Westerfield,State Representative,55,D,Fayette,C-10,45,36,0,81
 ,Registered Voters,,,Fayette,C-11,,,,1202
-,Ballots Cast,,,Fayette,C-11,,,,376
+,Ballots Cast,,,Fayette,C-11,376,301,0,677
 Mike Braun,U.S. Senate,,R,Fayette,C-11,241,193,0,434
 Joe Donnelly,U.S. Senate,,D,Fayette,C-11,110,84,0,194
 Lucy M Brenton,U.S. Senate,,L,Fayette,C-11,17,14,0,31
@@ -231,7 +231,7 @@ Write in,Write In,6,,Fayette,C-11,0,0,0,0
 Cindy Meyer Ziemke,State Representative,55,R,Fayette,C-11,257,205,0,462
 Corinne Westerfield,State Representative,55,D,Fayette,C-11,112,92,0,204
 ,Registered Voters,,,Fayette,C-12,,,,702
-,Ballots Cast,,,Fayette,C-12,,,,223
+,Ballots Cast,,,Fayette,C-12,223,133,0,356
 Mike Braun,U.S. Senate,,R,Fayette,C-12,155,87,0,242
 Joe Donnelly,U.S. Senate,,D,Fayette,C-12,50,34,0,84
 Lucy M Brenton,U.S. Senate,,L,Fayette,C-12,17,9,0,26
@@ -252,7 +252,7 @@ Write in,Write In,6,,Fayette,C-12,0,0,0,0
 Cindy Meyer Ziemke,State Representative,55,R,Fayette,C-12,160,88,0,248
 Corinne Westerfield,State Representative,55,D,Fayette,C-12,58,43,0,101
 ,Registered Voters,,,Fayette,C-13,,,,615
-,Ballots Cast,,,Fayette,C-13,,,,224
+,Ballots Cast,,,Fayette,C-13,224,110,0,334
 Mike Braun,U.S. Senate,,R,Fayette,C-13,166,68,0,234
 Joe Donnelly,U.S. Senate,,D,Fayette,C-13,48,36,0,84
 Lucy M Brenton,U.S. Senate,,L,Fayette,C-13,7,4,0,11
@@ -273,7 +273,7 @@ Write in,Write In,6,,Fayette,C-13,0,0,0,0
 Cindy Meyer Ziemke,State Representative,55,R,Fayette,C-13,171,69,0,240
 Corinne Westerfield,State Representative,55,D,Fayette,C-13,49,36,0,85
 ,Registered Voters,,,Fayette,H-1,,,,425
-,Ballots Cast,,,Fayette,H-1,,,,118
+,Ballots Cast,,,Fayette,H-1,118,66,0,184
 Mike Braun,U.S. Senate,,R,Fayette,H-1,66,35,0,101
 Joe Donnelly,U.S. Senate,,D,Fayette,H-1,38,21,0,59
 Lucy M Brenton,U.S. Senate,,L,Fayette,H-1,11,8,0,19
@@ -294,7 +294,7 @@ Write in,Write In,6,,Fayette,H-1,0,0,0,0
 Cindy Meyer Ziemke,State Representative,55,R,Fayette,H-1,72,39,0,111
 Corinne Westerfield,State Representative,55,D,Fayette,H-1,45,26,0,71
 ,Registered Voters,,,Fayette,H-2,,,,511
-,Ballots Cast,,,Fayette,H-2,,,,170
+,Ballots Cast,,,Fayette,H-2,170,109,0,279
 Mike Braun,U.S. Senate,,R,Fayette,H-2,107,65,0,172
 Joe Donnelly,U.S. Senate,,D,Fayette,H-2,46,32,0,78
 Lucy M Brenton,U.S. Senate,,L,Fayette,H-2,15,8,0,23
@@ -315,7 +315,7 @@ Write in,Write In,6,,Fayette,H-2,0,0,0,0
 Cindy Meyer Ziemke,State Representative,55,R,Fayette,H-2,109,62,0,171
 Corinne Westerfield,State Representative,55,D,Fayette,H-2,55,42,0,97
 ,Registered Voters,,,Fayette,H-3,,,,444
-,Ballots Cast,,,Fayette,H-3,,,,138
+,Ballots Cast,,,Fayette,H-3,138,83,0,221
 Mike Braun,U.S. Senate,,R,Fayette,H-3,78,51,0,129
 Joe Donnelly,U.S. Senate,,D,Fayette,H-3,47,20,0,67
 Lucy M Brenton,U.S. Senate,,L,Fayette,H-3,9,10,0,19
@@ -336,7 +336,7 @@ Write in,Write In,6,,Fayette,H-3,0,0,0,0
 Cindy Meyer Ziemke,State Representative,55,R,Fayette,H-3,87,54,0,141
 Corinne Westerfield,State Representative,55,D,Fayette,H-3,45,26,0,71
 ,Registered Voters,,,Fayette,H-4,,,,651
-,Ballots Cast,,,Fayette,H-4,,,,177
+,Ballots Cast,,,Fayette,H-4,177,154,0,331
 Mike Braun,U.S. Senate,,R,Fayette,H-4,105,80,0,185
 Joe Donnelly,U.S. Senate,,D,Fayette,H-4,53,57,0,110
 Lucy M Brenton,U.S. Senate,,L,Fayette,H-4,18,8,0,26
@@ -357,7 +357,7 @@ Write in,Write In,6,,Fayette,H-4,0,0,0,0
 Cindy Meyer Ziemke,State Representative,55,R,Fayette,H-4,108,88,0,196
 Corinne Westerfield,State Representative,55,D,Fayette,H-4,63,57,0,120
 ,Registered Voters,,,Fayette,H-5,,,,578
-,Ballots Cast,,,Fayette,H-5,,,,121
+,Ballots Cast,,,Fayette,H-5,121,94,0,215
 Mike Braun,U.S. Senate,,R,Fayette,H-5,71,47,0,118
 Joe Donnelly,U.S. Senate,,D,Fayette,H-5,45,41,0,86
 Lucy M Brenton,U.S. Senate,,L,Fayette,H-5,5,3,0,8
@@ -378,7 +378,7 @@ Write in,Write In,6,,Fayette,H-5,0,0,,0
 Cindy Meyer Ziemke,State Representative,55,R,Fayette,H-5,82,49,0,131
 Corinne Westerfield,State Representative,55,D,Fayette,H-5,38,40,0,78
 ,Registered Voters,,,Fayette,H-6,,,,434
-,Ballots Cast,,,Fayette,H-6,,,,126
+,Ballots Cast,,,Fayette,H-6,126,72,0,198
 Mike Braun,U.S. Senate,,R,Fayette,H-6,58,29,0,87
 Joe Donnelly,U.S. Senate,,D,Fayette,H-6,52,34,0,86
 Lucy M Brenton,U.S. Senate,,L,Fayette,H-6,14,5,0,19
@@ -399,7 +399,7 @@ Write in,Write In,6,,Fayette,H-6,0,0,0,0
 Cindy Meyer Ziemke,State Representative,55,R,Fayette,H-6,68,34,0,102
 Corinne Westerfield,State Representative,55,D,Fayette,H-6,54,37,0,91
 ,Registered Voters,,,Fayette,H-7,,,,415
-,Ballots Cast,,,Fayette,H-7,,,,150
+,Ballots Cast,,,Fayette,H-7,150,89,0,239
 Mike Braun,U.S. Senate,,R,Fayette,H-7,105,53,0,158
 Joe Donnelly,U.S. Senate,,D,Fayette,H-7,34,31,0,65
 Lucy M Brenton,U.S. Senate,,L,Fayette,H-7,9,2,0,11
@@ -420,7 +420,7 @@ Write in,Write In,6,,Fayette,H-7,0,1,0,1
 Cindy Meyer Ziemke,State Representative,55,R,Fayette,H-7,106,64,0,170
 Corinne Westerfield,State Representative,55,D,Fayette,H-7,41,22,0,63
 ,Registered Voters,,,Fayette,H-8,,,,609
-,Ballots Cast,,,Fayette,H-8,,,,200
+,Ballots Cast,,,Fayette,H-8,200,101,0,301
 Mike Braun,U.S. Senate,,R,Fayette,H-8,144,68,0,212
 Joe Donnelly,U.S. Senate,,D,Fayette,H-8,44,29,0,73
 Lucy M Brenton,U.S. Senate,,L,Fayette,H-8,11,3,0,14
@@ -441,7 +441,7 @@ Write in,Write In,6,,Fayette,H-8,0,0,,0
 Cindy Meyer Ziemke,State Representative,55,R,Fayette,H-8,152,74,0,226
 Corinne Westerfield,State Representative,55,D,Fayette,H-8,44,23,0,67
 ,Registered Voters,,,Fayette,Columbia Township,,,,683
-,Ballots Cast,,,Fayette,Columbia Township,,,,237
+,Ballots Cast,,,Fayette,Columbia Township,237,93,0,330
 Mike Braun,U.S. Senate,,R,Fayette,Columbia Township,169,66,0,235
 Joe Donnelly,U.S. Senate,,D,Fayette,Columbia Township,53,20,0,73
 Lucy M Brenton,U.S. Senate,,L,Fayette,Columbia Township,10,2,0,12
@@ -462,7 +462,7 @@ Write in,Write In,6,,Fayette,Columbia Township,0,0,0,0
 Cindy Meyer Ziemke,State Representative,55,R,Fayette,Columbia Township,171,68,0,239
 Corinne Westerfield,State Representative,55,D,Fayette,Columbia Township,58,24,0,82
 ,Registered Voters,,,Fayette,Fairview Township,,,,251
-,Ballots Cast,,,Fayette,Fairview Township,,,,92
+,Ballots Cast,,,Fayette,Fairview Township,92,34,0,126
 Mike Braun,U.S. Senate,,R,Fayette,Fairview Township,65,19,0,84
 Joe Donnelly,U.S. Senate,,D,Fayette,Fairview Township,19,11,0,30
 Lucy M Brenton,U.S. Senate,,L,Fayette,Fairview Township,5,4,0,9
@@ -483,7 +483,7 @@ Write in,Write In,6,,Fayette,Fairview Township,0,0,0,0
 Cindy Meyer Ziemke,State Representative,55,R,Fayette,Fairview Township,62,17,0,79
 Corinne Westerfield,State Representative,55,D,Fayette,Fairview Township,27,16,0,43
 ,Registered Voters,,,Fayette,Jackson Township,,,,1076
-,Ballots Cast,,,Fayette,Jackson Township,,,,402
+,Ballots Cast,,,Fayette,Jackson Township,402,201,0,603
 Mike Braun,U.S. Senate,,R,Fayette,Jackson Township,267,120,0,387
 Joe Donnelly,U.S. Senate,,D,Fayette,Jackson Township,102,60,0,162
 Lucy M Brenton,U.S. Senate,,L,Fayette,Jackson Township,24,10,0,34
@@ -504,7 +504,7 @@ Write in,Write In,6,,Fayette,Jackson Township,0,0,0,0
 Cindy Meyer Ziemke,State Representative,55,R,Fayette,Jackson Township,278,123,0,401
 Corinne Westerfield,State Representative,55,D,Fayette,Jackson Township,114,66,0,180
 ,Registered Voters,,,Fayette,Jennings Township,,,,536
-,Ballots Cast,,,Fayette,Jennings Township,,,,186
+,Ballots Cast,,,Fayette,Jennings Township,186,126,0,312
 Mike Braun,U.S. Senate,,R,Fayette,Jennings Township,132,87,0,219
 Joe Donnelly,U.S. Senate,,D,Fayette,Jennings Township,46,31,0,77
 Lucy M Brenton,U.S. Senate,,L,Fayette,Jennings Township,5,7,0,12
@@ -525,7 +525,7 @@ Write in,Write In,6,,Fayette,Jennings Township,0,0,0,0
 Cindy Meyer Ziemke,State Representative,55,R,Fayette,Jennings Township,135,90,0,225
 Corinne Westerfield,State Representative,55,D,Fayette,Jennings Township,46,35,0,81
 ,Registered Voters,,,Fayette,Orange Township,,,,454
-,Ballots Cast,,,Fayette,Orange Township,,,,142
+,Ballots Cast,,,Fayette,Orange Township,142,89,0,231
 Mike Braun,U.S. Senate,,R,Fayette,Orange Township,102,54,0,156
 Joe Donnelly,U.S. Senate,,D,Fayette,Orange Township,36,31,0,67
 Lucy M Brenton,U.S. Senate,,L,Fayette,Orange Township,4,3,0,7
@@ -546,7 +546,7 @@ Write in,Write In,6,,Fayette,Orange Township,0,0,,0
 Cindy Meyer Ziemke,State Representative,55,R,Fayette,Orange Township,103,56,0,159
 Corinne Westerfield,State Representative,55,D,Fayette,Orange Township,36,30,0,66
 ,Registered Voters,,,Fayette,Posey Township,,,,332
-,Ballots Cast,,,Fayette,Posey Township,,,,176
+,Ballots Cast,,,Fayette,Posey Township,176,33,0,209
 Mike Braun,U.S. Senate,,R,Fayette,Posey Township,113,17,0,130
 Joe Donnelly,U.S. Senate,,D,Fayette,Posey Township,49,15,0,64
 Lucy M Brenton,U.S. Senate,,L,Fayette,Posey Township,11,1,0,12
@@ -567,7 +567,7 @@ Write in,Write In,6,,Fayette,Posey Township,0,0,0,0
 Cindy Meyer Ziemke,State Representative,55,R,Fayette,Posey Township,121,18,0,139
 Corinne Westerfield,State Representative,55,D,Fayette,Posey Township,50,14,0,64
 ,Registered Voters,,,Fayette,Waterloo Township,,,,362
-,Ballots Cast,,,Fayette,Waterloo Township,,,,128
+,Ballots Cast,,,Fayette,Waterloo Township,128,63,0,191
 Mike Braun,U.S. Senate,,R,Fayette,Waterloo Township,69,31,0,100
 Joe Donnelly,U.S. Senate,,D,Fayette,Waterloo Township,45,23,0,68
 Lucy M Brenton,U.S. Senate,,L,Fayette,Waterloo Township,11,6,0,17

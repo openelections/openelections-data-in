@@ -1,6 +1,6 @@
 candidate,office,district,party,county,precinct,election_day,absentee,provisional,votes
 ,Registered Voters,,,Huntington,JACKSON 1,,,,801
-,Ballots Cast,,,Huntington,JACKSON 1,,,,242
+,Ballots Cast,,,Huntington,JACKSON 1,242,270,0,512
 Mike Braun,U.S. Senate,,R,Huntington,JACKSON 1,165,178,0,343
 Joe Donnelly,U.S. Senate,,D,Huntington,JACKSON 1,67,82,0,149
 Lucy M Brenton,U.S. Senate,,L,Huntington,JACKSON 1,9,10,0,19
@@ -21,7 +21,7 @@ Travis Holdman,State Senate,19,R ,Huntington,JACKSON 1,196,207,0,403
 Daniel J (Dan) Leonard,State Representative,50,R,Huntington,JACKSON 1,188,194,0,382
 Jorge Fernandez,State Representative,50,D,Huntington,JACKSON 1,47,71,0,118
 ,Registered Voters,,,Huntington,JACKSON 2,,,,945
-,Ballots Cast,,,Huntington,JACKSON 2,,,,304
+,Ballots Cast,,,Huntington,JACKSON 2,304,287,0,591
 Mike Braun,U.S. Senate,,R,Huntington,JACKSON 2,225,197,0,422
 Joe Donnelly,U.S. Senate,,D,Huntington,JACKSON 2,68,80,0,148
 Lucy M Brenton,U.S. Senate,,L,Huntington,JACKSON 2,9,8,0,17
@@ -42,7 +42,7 @@ Travis Holdman,State Senate,19,R ,Huntington,JACKSON 2,261,233,0,494
 Daniel J (Dan) Leonard,State Representative,50,R,Huntington,JACKSON 2,249,226,0,475
 Jorge Fernandez,State Representative,50,D,Huntington,JACKSON 2,52,56,0,108
 ,Registered Voters,,,Huntington,JACKSON 3,,,,643
-,Ballots Cast,,,Huntington,JACKSON 3,,,,227
+,Ballots Cast,,,Huntington,JACKSON 3,227,183,0,410
 Mike Braun,U.S. Senate,,R,Huntington,JACKSON 3,144,99,0,243
 Joe Donnelly,U.S. Senate,,D,Huntington,JACKSON 3,73,77,0,150
 Lucy M Brenton,U.S. Senate,,L,Huntington,JACKSON 3,8,4,0,12
@@ -63,7 +63,7 @@ Travis Holdman,State Senate,19,R ,Huntington,JACKSON 3,167,123,0,290
 Daniel J (Dan) Leonard,State Representative,50,R,Huntington,JACKSON 3,160,115,0,275
 Jorge Fernandez,State Representative,50,D,Huntington,JACKSON 3,56,61,0,117
 ,Registered Voters,,,Huntington,JACKSON 4,,,,580
-,Ballots Cast,,,Huntington,JACKSON 4,,,,212
+,Ballots Cast,,,Huntington,JACKSON 4,212,149,0,361
 Mike Braun,U.S. Senate,,R,Huntington,JACKSON 4,134,86,0,220
 Joe Donnelly,U.S. Senate,,D,Huntington,JACKSON 4,67,50,0,117
 Lucy M Brenton,U.S. Senate,,L,Huntington,JACKSON 4,7,11,0,18
@@ -84,7 +84,7 @@ Travis Holdman,State Senate,19,R ,Huntington,JACKSON 4,171,113,0,284
 Daniel J (Dan) Leonard,State Representative,50,R,Huntington,JACKSON 4,152,108,0,260
 Jorge Fernandez,State Representative,50,D,Huntington,JACKSON 4,52,39,0,91
 ,Registered Voters,,,Huntington,CLEAR CREEK 1,,,,826
-,Ballots Cast,,,Huntington,CLEAR CREEK 1,,,,262
+,Ballots Cast,,,Huntington,CLEAR CREEK 1,262,281,0,543
 Mike Braun,U.S. Senate,,R,Huntington,CLEAR CREEK 1,199,194,0,393
 Joe Donnelly,U.S. Senate,,D,Huntington,CLEAR CREEK 1,52,74,0,126
 Lucy M Brenton,U.S. Senate,,L,Huntington,CLEAR CREEK 1,10,10,0,20
@@ -106,7 +106,7 @@ Gary L Snyder,State Senate,17,D,Huntington,CLEAR CREEK 1,42,60,0,102
 Daniel J (Dan) Leonard,State Representative,50,R,Huntington,CLEAR CREEK 1,220,222,0,442
 Jorge Fernandez,State Representative,50,D,Huntington,CLEAR CREEK 1,31,55,0,86
 ,Registered Voters,,,Huntington,CLEAR CREEK 2,,,,649
-,Ballots Cast,,,Huntington,CLEAR CREEK 2,,,,236
+,Ballots Cast,,,Huntington,CLEAR CREEK 2,236,199,0,435
 Mike Braun,U.S. Senate,,R,Huntington,CLEAR CREEK 2,178,146,0,324
 Joe Donnelly,U.S. Senate,,D,Huntington,CLEAR CREEK 2,49,46,0,95
 Lucy M Brenton,U.S. Senate,,L,Huntington,CLEAR CREEK 2,6,5,0,11
@@ -128,7 +128,7 @@ Gary L Snyder,State Senate,17,D,Huntington,CLEAR CREEK 2,27,38,0,65
 Daniel J (Dan) Leonard,State Representative,50,R,Huntington,CLEAR CREEK 2,197,174,0,371
 Jorge Fernandez,State Representative,50,D,Huntington,CLEAR CREEK 2,30,22,0,52
 ,Registered Voters,,,Huntington,WARREN,,,,489
-,Ballots Cast,,,Huntington,WARREN,,,,172
+,Ballots Cast,,,Huntington,WARREN,172,129,0,301
 Mike Braun,U.S. Senate,,R,Huntington,WARREN,119,91,0,210
 Joe Donnelly,U.S. Senate,,D,Huntington,WARREN,45,33,0,78
 Lucy M Brenton,U.S. Senate,,L,Huntington,WARREN,7,2,0,9
@@ -150,7 +150,7 @@ Gary L Snyder,State Senate,17,D,Huntington,WARREN,44,22,0,66
 Daniel J (Dan) Leonard,State Representative,50,R,Huntington,WARREN,138,110,0,248
 Jorge Fernandez,State Representative,50,D,Huntington,WARREN,32,15,0,47
 ,Registered Voters,,,Huntington,DALLAS 1,,,,691
-,Ballots Cast,,,Huntington,DALLAS 1,,,,252
+,Ballots Cast,,,Huntington,DALLAS 1,252,186,0,438
 Mike Braun,U.S. Senate,,R,Huntington,DALLAS 1,186,142,0,328
 Joe Donnelly,U.S. Senate,,D,Huntington,DALLAS 1,59,37,0,96
 Lucy M Brenton,U.S. Senate,,L,Huntington,DALLAS 1,5,5,0,10
@@ -172,7 +172,7 @@ Gary L Snyder,State Senate,17,D,Huntington,DALLAS 1,44,36,0,80
 Daniel J (Dan) Leonard,State Representative,50,R,Huntington,DALLAS 1,208,157,0,365
 Jorge Fernandez,State Representative,50,D,Huntington,DALLAS 1,36,28,0,64
 ,Registered Voters,,,Huntington,DALLAS 2,,,,634
-,Ballots Cast,,,Huntington,DALLAS 2,,,,145
+,Ballots Cast,,,Huntington,DALLAS 2,145,90,0,235
 Mike Braun,U.S. Senate,,R,Huntington,DALLAS 2,99,61,0,160
 Joe Donnelly,U.S. Senate,,D,Huntington,DALLAS 2,36,21,0,57
 Lucy M Brenton,U.S. Senate,,L,Huntington,DALLAS 2,8,5,0,13
@@ -194,7 +194,7 @@ Gary L Snyder,State Senate,17,D,Huntington,DALLAS 2,39,17,0,56
 Daniel J (Dan) Leonard,State Representative,50,R,Huntington,DALLAS 2,106,63,0,169
 Jorge Fernandez,State Representative,50,D,Huntington,DALLAS 2,36,20,0,56
 ,Registered Voters,,,Huntington,HUNTINGTON 1,,,,576
-,Ballots Cast,,,Huntington,HUNTINGTON 1,,,,155
+,Ballots Cast,,,Huntington,HUNTINGTON 1,155,87,0,242
 Mike Braun,U.S. Senate,,R,Huntington,HUNTINGTON 1,87,51,0,138
 Joe Donnelly,U.S. Senate,,D,Huntington,HUNTINGTON 1,49,29,0,78
 Lucy M Brenton,U.S. Senate,,L,Huntington,HUNTINGTON 1,19,6,0,25
@@ -216,7 +216,7 @@ Gary L Snyder,State Senate,17,D,Huntington,HUNTINGTON 1,52,28,0,80
 Daniel J (Dan) Leonard,State Representative,50,R,Huntington,HUNTINGTON 1,106,57,0,163
 Jorge Fernandez,State Representative,50,D,Huntington,HUNTINGTON 1,44,25,0,69
 ,Registered Voters,,,Huntington,HUNTINGTON 1A,,,,398
-,Ballots Cast,,,Huntington,HUNTINGTON 1A,,,,77
+,Ballots Cast,,,Huntington,HUNTINGTON 1A,77,57,0,134
 Mike Braun,U.S. Senate,,R,Huntington,HUNTINGTON 1A,46,33,0,79
 Joe Donnelly,U.S. Senate,,D,Huntington,HUNTINGTON 1A,22,19,0,41
 Lucy M Brenton,U.S. Senate,,L,Huntington,HUNTINGTON 1A,8,4,0,12
@@ -238,7 +238,7 @@ Gary L Snyder,State Senate,17,D,Huntington,HUNTINGTON 1A,22,16,0,38
 Daniel J (Dan) Leonard,State Representative,50,R,Huntington,HUNTINGTON 1A,49,38,0,87
 Jorge Fernandez,State Representative,50,D,Huntington,HUNTINGTON 1A,25,15,0,40
 ,Registered Voters,,,Huntington,HUNTINGTON 2,,,,651
-,Ballots Cast,,,Huntington,HUNTINGTON 2,,,,197
+,Ballots Cast,,,Huntington,HUNTINGTON 2,197,119,0,316
 Mike Braun,U.S. Senate,,R,Huntington,HUNTINGTON 2,120,59,0,179
 Joe Donnelly,U.S. Senate,,D,Huntington,HUNTINGTON 2,59,48,0,107
 Lucy M Brenton,U.S. Senate,,L,Huntington,HUNTINGTON 2,17,7,0,24
@@ -260,7 +260,7 @@ Gary L Snyder,State Senate,17,D,Huntington,HUNTINGTON 2,47,45,0,92
 Daniel J (Dan) Leonard,State Representative,50,R,Huntington,HUNTINGTON 2,152,71,0,223
 Jorge Fernandez,State Representative,50,D,Huntington,HUNTINGTON 2,43,47,0,90
 ,Registered Voters,,,Huntington,HUNTINGTON 2A,,,,744
-,Ballots Cast,,,Huntington,HUNTINGTON 2A,,,,185
+,Ballots Cast,,,Huntington,HUNTINGTON 2A,185,128,0,313
 Mike Braun,U.S. Senate,,R,Huntington,HUNTINGTON 2A,109,81,0,190
 Joe Donnelly,U.S. Senate,,D,Huntington,HUNTINGTON 2A,51,36,0,87
 Lucy M Brenton,U.S. Senate,,L,Huntington,HUNTINGTON 2A,22,9,0,31
@@ -282,7 +282,7 @@ Gary L Snyder,State Senate,17,D,Huntington,HUNTINGTON 2A,55,30,0,85
 Daniel J (Dan) Leonard,State Representative,50,R,Huntington,HUNTINGTON 2A,130,97,0,227
 Jorge Fernandez,State Representative,50,D,Huntington,HUNTINGTON 2A,47,29,0,76
 ,Registered Voters,,,Huntington,HUNTINGTON 3,,,,605
-,Ballots Cast,,,Huntington,HUNTINGTON 3,,,,131
+,Ballots Cast,,,Huntington,HUNTINGTON 3,131,150,0,281
 Mike Braun,U.S. Senate,,R,Huntington,HUNTINGTON 3,69,94,0,163
 Joe Donnelly,U.S. Senate,,D,Huntington,HUNTINGTON 3,52,45,0,97
 Lucy M Brenton,U.S. Senate,,L,Huntington,HUNTINGTON 3,10,6,0,16
@@ -304,7 +304,7 @@ Gary L Snyder,State Senate,17,D,Huntington,HUNTINGTON 3,50,37,0,87
 Daniel J (Dan) Leonard,State Representative,50,R,Huntington,HUNTINGTON 3,85,112,0,197
 Jorge Fernandez,State Representative,50,D,Huntington,HUNTINGTON 3,42,33,0,75
 ,Registered Voters,,,Huntington,HUNTINGTON 4,,,,843
-,Ballots Cast,,,Huntington,HUNTINGTON 4,,,,256
+,Ballots Cast,,,Huntington,HUNTINGTON 4,256,240,0,496
 Mike Braun,U.S. Senate,,R,Huntington,HUNTINGTON 4,175,160,0,335
 Joe Donnelly,U.S. Senate,,D,Huntington,HUNTINGTON 4,66,67,0,133
 Lucy M Brenton,U.S. Senate,,L,Huntington,HUNTINGTON 4,10,9,0,19
@@ -326,7 +326,7 @@ Gary L Snyder,State Senate,17,D,Huntington,HUNTINGTON 4,50,57,0,107
 Daniel J (Dan) Leonard,State Representative,50,R,Huntington,HUNTINGTON 4,205,182,0,387
 Jorge Fernandez,State Representative,50,D,Huntington,HUNTINGTON 4,41,48,0,89
 ,Registered Voters,,,Huntington,HUNTINGTON 5,,,,535
-,Ballots Cast,,,Huntington,HUNTINGTON 5,,,,178
+,Ballots Cast,,,Huntington,HUNTINGTON 5,178,145,0,323
 Mike Braun,U.S. Senate,,R,Huntington,HUNTINGTON 5,97,60,0,157
 Joe Donnelly,U.S. Senate,,D,Huntington,HUNTINGTON 5,63,77,0,140
 Lucy M Brenton,U.S. Senate,,L,Huntington,HUNTINGTON 5,17,7,0,24
@@ -348,7 +348,7 @@ Gary L Snyder,State Senate,17,D,Huntington,HUNTINGTON 5,61,68,0,129
 Daniel J (Dan) Leonard,State Representative,50,R,Huntington,HUNTINGTON 5,120,78,0,198
 Jorge Fernandez,State Representative,50,D,Huntington,HUNTINGTON 5,55,63,0,118
 ,Registered Voters,,,Huntington,HUNTINGTON 5A,,,,725
-,Ballots Cast,,,Huntington,HUNTINGTON 5A,,,,212
+,Ballots Cast,,,Huntington,HUNTINGTON 5A,212,152,0,364
 Mike Braun,U.S. Senate,,R,Huntington,HUNTINGTON 5A,115,99,0,214
 Joe Donnelly,U.S. Senate,,D,Huntington,HUNTINGTON 5A,76,44,0,120
 Lucy M Brenton,U.S. Senate,,L,Huntington,HUNTINGTON 5A,19,7,0,26
@@ -370,7 +370,7 @@ Gary L Snyder,State Senate,17,D,Huntington,HUNTINGTON 5A,80,36,0,116
 Daniel J (Dan) Leonard,State Representative,50,R,Huntington,HUNTINGTON 5A,136,118,0,254
 Jorge Fernandez,State Representative,50,D,Huntington,HUNTINGTON 5A,73,29,0,102
 ,Registered Voters,,,Huntington,HUNTINGTON 6,,,,715
-,Ballots Cast,,,Huntington,HUNTINGTON 6,,,,224
+,Ballots Cast,,,Huntington,HUNTINGTON 6,224,240,0,464
 Mike Braun,U.S. Senate,,R,Huntington,HUNTINGTON 6,133,154,0,287
 Joe Donnelly,U.S. Senate,,D,Huntington,HUNTINGTON 6,69,75,0,144
 Lucy M Brenton,U.S. Senate,,L,Huntington,HUNTINGTON 6,19,5,0,24
@@ -392,7 +392,7 @@ Gary L Snyder,State Senate,17,D,Huntington,HUNTINGTON 6,58,53,0,111
 Daniel J (Dan) Leonard,State Representative,50,R,Huntington,HUNTINGTON 6,165,187,0,352
 Jorge Fernandez,State Representative,50,D,Huntington,HUNTINGTON 6,52,45,0,97
 ,Registered Voters,,,Huntington,HUNTINGTON 6A,,,,839
-,Ballots Cast,,,Huntington,HUNTINGTON 6A,,,,230
+,Ballots Cast,,,Huntington,HUNTINGTON 6A,230,191,0,421
 Mike Braun,U.S. Senate,,R,Huntington,HUNTINGTON 6A,145,105,0,250
 Joe Donnelly,U.S. Senate,,D,Huntington,HUNTINGTON 6A,65,71,0,136
 Lucy M Brenton,U.S. Senate,,L,Huntington,HUNTINGTON 6A,16,11,0,27
@@ -414,7 +414,7 @@ Gary L Snyder,State Senate,17,D,Huntington,HUNTINGTON 6A,65,54,0,119
 Daniel J (Dan) Leonard,State Representative,50,R,Huntington,HUNTINGTON 6A,161,130,0,291
 Jorge Fernandez,State Representative,50,D,Huntington,HUNTINGTON 6A,63,54,0,117
 ,Registered Voters,,,Huntington,HUNTINGTON 7,,,,632
-,Ballots Cast,,,Huntington,HUNTINGTON 7,,,,175
+,Ballots Cast,,,Huntington,HUNTINGTON 7,175,90,0,265
 Mike Braun,U.S. Senate,,R,Huntington,HUNTINGTON 7,99,53,0,152
 Joe Donnelly,U.S. Senate,,D,Huntington,HUNTINGTON 7,50,32,0,82
 Lucy M Brenton,U.S. Senate,,L,Huntington,HUNTINGTON 7,21,3,0,24
@@ -436,7 +436,7 @@ Gary L Snyder,State Senate,17,D,Huntington,HUNTINGTON 7,50,27,0,77
 Daniel J (Dan) Leonard,State Representative,50,R,Huntington,HUNTINGTON 7,124,65,0,189
 Jorge Fernandez,State Representative,50,D,Huntington,HUNTINGTON 7,45,23,0,68
 ,Registered Voters,,,Huntington,HUNTINGTON 7A,,,,765
-,Ballots Cast,,,Huntington,HUNTINGTON 7A,,,,219
+,Ballots Cast,,,Huntington,HUNTINGTON 7A,219,166,0,385
 Mike Braun,U.S. Senate,,R,Huntington,HUNTINGTON 7A,154,112,0,266
 Joe Donnelly,U.S. Senate,,D,Huntington,HUNTINGTON 7A,53,51,0,104
 Lucy M Brenton,U.S. Senate,,L,Huntington,HUNTINGTON 7A,8,2,0,10
@@ -457,7 +457,7 @@ Gary L Snyder,State Senate,17,D,Huntington,HUNTINGTON 7A,44,45,0,89
 Daniel J (Dan) Leonard,State Representative,50,R,Huntington,HUNTINGTON 7A,169,113,0,282
 Jorge Fernandez,State Representative,50,D,Huntington,HUNTINGTON 7A,41,47,0,88
 ,Registered Voters,,,Huntington,HUNTINGTON 8,,,,660
-,Ballots Cast,,,Huntington,HUNTINGTON 8,,,,194
+,Ballots Cast,,,Huntington,HUNTINGTON 8,194,146,0,340
 Mike Braun,U.S. Senate,,R,Huntington,HUNTINGTON 8,117,77,0,194
 Joe Donnelly,U.S. Senate,,D,Huntington,HUNTINGTON 8,56,61,0,117
 Lucy M Brenton,U.S. Senate,,L,Huntington,HUNTINGTON 8,20,6,0,26
@@ -479,7 +479,7 @@ Gary L Snyder,State Senate,17,D,Huntington,HUNTINGTON 8,60,56,0,116
 Daniel J (Dan) Leonard,State Representative,50,R,Huntington,HUNTINGTON 8,134,88,0,222
 Jorge Fernandez,State Representative,50,D,Huntington,HUNTINGTON 8,55,55,0,110
 ,Registered Voters,,,Huntington,HUNTINGTON 9,,,,747
-,Ballots Cast,,,Huntington,HUNTINGTON 9,,,,187
+,Ballots Cast,,,Huntington,HUNTINGTON 9,187,122,0,309
 Mike Braun,U.S. Senate,,R,Huntington,HUNTINGTON 9,131,64,0,195
 Joe Donnelly,U.S. Senate,,D,Huntington,HUNTINGTON 9,48,49,0,97
 Lucy M Brenton,U.S. Senate,,L,Huntington,HUNTINGTON 9,8,6,0,14
@@ -501,7 +501,7 @@ Gary L Snyder,State Senate,17,D,Huntington,HUNTINGTON 9,50,38,0,88
 Daniel J (Dan) Leonard,State Representative,50,R,Huntington,HUNTINGTON 9,143,81,0,224
 Jorge Fernandez,State Representative,50,D,Huntington,HUNTINGTON 9,39,35,0,74
 ,Registered Voters,,,Huntington,HUNTINGTON 10,,,,647
-,Ballots Cast,,,Huntington,HUNTINGTON 10,,,,159
+,Ballots Cast,,,Huntington,HUNTINGTON 10,159,78,0,237
 Mike Braun,U.S. Senate,,R,Huntington,HUNTINGTON 10,105,32,0,137
 Joe Donnelly,U.S. Senate,,D,Huntington,HUNTINGTON 10,41,37,0,78
 Lucy M Brenton,U.S. Senate,,L,Huntington,HUNTINGTON 10,12,8,0,20
@@ -523,7 +523,7 @@ Gary L Snyder,State Senate,17,D,Huntington,HUNTINGTON 10,46,39,0,85
 Daniel J (Dan) Leonard,State Representative,50,R,Huntington,HUNTINGTON 10,122,44,0,166
 Jorge Fernandez,State Representative,50,D,Huntington,HUNTINGTON 10,36,33,0,69
 ,Registered Voters,,,Huntington,HUNTINGTON 11,,,,654
-,Ballots Cast,,,Huntington,HUNTINGTON 11,,,,217
+,Ballots Cast,,,Huntington,HUNTINGTON 11,217,185,0,402
 Mike Braun,U.S. Senate,,R,Huntington,HUNTINGTON 11,138,131,0,269
 Joe Donnelly,U.S. Senate,,D,Huntington,HUNTINGTON 11,61,48,0,109
 Lucy M Brenton,U.S. Senate,,L,Huntington,HUNTINGTON 11,14,4,0,18
@@ -545,7 +545,7 @@ Gary L Snyder,State Senate,17,D,Huntington,HUNTINGTON 11,57,38,0,95
 Daniel J (Dan) Leonard,State Representative,50,R,Huntington,HUNTINGTON 11,171,146,0,317
 Jorge Fernandez,State Representative,50,D,Huntington,HUNTINGTON 11,46,35,0,81
 ,Registered Voters,,,Huntington,HUNTINGTON 11A,,,,578
-,Ballots Cast,,,Huntington,HUNTINGTON 11A,,,,172
+,Ballots Cast,,,Huntington,HUNTINGTON 11A,172,171,0,343
 Mike Braun,U.S. Senate,,R,Huntington,HUNTINGTON 11A,121,103,0,224
 Joe Donnelly,U.S. Senate,,D,Huntington,HUNTINGTON 11A,43,63,0,106
 Lucy M Brenton,U.S. Senate,,L,Huntington,HUNTINGTON 11A,7,3,0,10
@@ -567,7 +567,7 @@ Gary L Snyder,State Senate,17,D,Huntington,HUNTINGTON 11A,37,47,0,84
 Daniel J (Dan) Leonard,State Representative,50,R,Huntington,HUNTINGTON 11A,138,121,0,259
 Jorge Fernandez,State Representative,50,D,Huntington,HUNTINGTON 11A,32,43,0,75
 ,Registered Voters,,,Huntington,HUNTINGTON 12,,,,444
-,Ballots Cast,,,Huntington,HUNTINGTON 12,,,,173
+,Ballots Cast,,,Huntington,HUNTINGTON 12,173,102,0,275
 Mike Braun,U.S. Senate,,R,Huntington,HUNTINGTON 12,137,68,0,205
 Joe Donnelly,U.S. Senate,,D,Huntington,HUNTINGTON 12,30,30,0,60
 Lucy M Brenton,U.S. Senate,,L,Huntington,HUNTINGTON 12,6,4,0,10
@@ -589,7 +589,7 @@ Gary L Snyder,State Senate,17,D,Huntington,HUNTINGTON 12,35,25,0,60
 Daniel J (Dan) Leonard,State Representative,50,R,Huntington,HUNTINGTON 12,152,74,0,226
 Jorge Fernandez,State Representative,50,D,Huntington,HUNTINGTON 12,21,25,0,46
 ,Registered Voters,,,Huntington,HUNTINGTON 12A,,,,699
-,Ballots Cast,,,Huntington,HUNTINGTON 12A,,,,212
+,Ballots Cast,,,Huntington,HUNTINGTON 12A,212,208,0,420
 Mike Braun,U.S. Senate,,R,Huntington,HUNTINGTON 12A,149,151,0,300
 Joe Donnelly,U.S. Senate,,D,Huntington,HUNTINGTON 12A,45,51,0,96
 Lucy M Brenton,U.S. Senate,,L,Huntington,HUNTINGTON 12A,16,4,0,20
@@ -611,7 +611,7 @@ Gary L Snyder,State Senate,17,D,Huntington,HUNTINGTON 12A,49,45,0,94
 Daniel J (Dan) Leonard,State Representative,50,R,Huntington,HUNTINGTON 12A,171,160,0,331
 Jorge Fernandez,State Representative,50,D,Huntington,HUNTINGTON 12A,37,44,0,81
 ,Registered Voters,,,Huntington,UNION,,,,925
-,Ballots Cast,,,Huntington,UNION,,,,330
+,Ballots Cast,,,Huntington,UNION,330,263,0,593
 Mike Braun,U.S. Senate,,R,Huntington,UNION,259,191,0,450
 Joe Donnelly,U.S. Senate,,D,Huntington,UNION,66,63,0,129
 Lucy M Brenton,U.S. Senate,,L,Huntington,UNION,5,6,0,11
@@ -632,7 +632,7 @@ Travis Holdman,State Senate,19,R ,Huntington,UNION,289,219,0,508
 Daniel J (Dan) Leonard,State Representative,50,R,Huntington,UNION,289,214,0,503
 Jorge Fernandez,State Representative,50,D,Huntington,UNION,35,44,0,79
 ,Registered Voters,,,Huntington,ROCK CREEK,,,,862
-,Ballots Cast,,,Huntington,ROCK CREEK,,,,284
+,Ballots Cast,,,Huntington,ROCK CREEK,284,209,0,493
 Mike Braun,U.S. Senate,,R,Huntington,ROCK CREEK,212,142,0,354
 Joe Donnelly,U.S. Senate,,D,Huntington,ROCK CREEK,80,57,0,117
 Lucy M Brenton,U.S. Senate,,L,Huntington,ROCK CREEK,8,5,0,13
@@ -653,7 +653,7 @@ Travis Holdman,State Senate,19,R ,Huntington,ROCK CREEK,238,158,0,396
 Daniel J (Dan) Leonard,State Representative,50,R,Huntington,ROCK CREEK,224,160,0,384
 Jorge Fernandez,State Representative,50,D,Huntington,ROCK CREEK,53,40,0,93
 ,Registered Voters,,,Huntington,LANCASTER,,,,783
-,Ballots Cast,,,Huntington,LANCASTER,,,,245
+,Ballots Cast,,,Huntington,LANCASTER,245,246,0,491
 Mike Braun,U.S. Senate,,R,Huntington,LANCASTER,184,172,0,356
 Joe Donnelly,U.S. Senate,,D,Huntington,LANCASTER,51,61,0,112
 Lucy M Brenton,U.S. Senate,,L,Huntington,LANCASTER,8,9,0,17
@@ -675,7 +675,7 @@ Gary L Snyder,State Senate,17,D,Huntington,LANCASTER,39,59,0,98
 Daniel J (Dan) Leonard,State Representative,50,R,Huntington,LANCASTER,203,191,0,394
 Jorge Fernandez,State Representative,50,D,Huntington,LANCASTER,34,50,0,84
 ,Registered Voters,,,Huntington,POLK,,,,309
-,Ballots Cast,,,Huntington,POLK,,,,102
+,Ballots Cast,,,Huntington,POLK,102,78,0,180
 Mike Braun,U.S. Senate,,R,Huntington,POLK,81,55,0,136
 Joe Donnelly,U.S. Senate,,D,Huntington,POLK,13,22,0,35
 Lucy M Brenton,U.S. Senate,,L,Huntington,POLK,7,0,0,7
@@ -697,7 +697,7 @@ Gary L Snyder,State Senate,17,D,Huntington,POLK,14,15,0,29
 Daniel J (Dan) Leonard,State Representative,50,R,Huntington,POLK,89,62,0,151
 Jorge Fernandez,State Representative,50,D,Huntington,POLK,12,16,0,28
 ,Registered Voters,,,Huntington,WAYNE,,,,321
-,Ballots Cast,,,Huntington,WAYNE,,,,105
+,Ballots Cast,,,Huntington,WAYNE,105,104,0,209
 Mike Braun,U.S. Senate,,R,Huntington,WAYNE,87,74,0,161
 Joe Donnelly,U.S. Senate,,D,Huntington,WAYNE,8,27,0,35
 Lucy M Brenton,U.S. Senate,,L,Huntington,WAYNE,9,2,0,11
@@ -719,7 +719,7 @@ Gary L Snyder,State Senate,17,D,Huntington,WAYNE,7,26,0,33
 Daniel J (Dan) Leonard,State Representative,50,R,Huntington,WAYNE,97,77,0,174
 Jorge Fernandez,State Representative,50,D,Huntington,WAYNE,7,22,0,29
 ,Registered Voters,,,Huntington,JEFFERSON,,,,489
-,Ballots Cast,,,Huntington,JEFFERSON,,,,206
+,Ballots Cast,,,Huntington,JEFFERSON,206,82,0,288
 Mike Braun,U.S. Senate,,R,Huntington,JEFFERSON,146,39,0,185
 Joe Donnelly,U.S. Senate,,D,Huntington,JEFFERSON,44,38,0,82
 Lucy M Brenton,U.S. Senate,,L,Huntington,JEFFERSON,15,4,0,19
@@ -741,7 +741,7 @@ Gary L Snyder,State Senate,17,D,Huntington,JEFFERSON,40,30,0,70
 Daniel J (Dan) Leonard,State Representative,50,R,Huntington,JEFFERSON,172,57,0,229
 Jorge Fernandez,State Representative,50,D,Huntington,JEFFERSON,30,23,0,53
 ,Registered Voters,,,Huntington,SALAMONIE 1,,,,747
-,Ballots Cast,,,Huntington,SALAMONIE 1,,,,285
+,Ballots Cast,,,Huntington,SALAMONIE 1,285,179,0,464
 Mike Braun,U.S. Senate,,R,Huntington,SALAMONIE 1,206,117,0,323
 Joe Donnelly,U.S. Senate,,D,Huntington,SALAMONIE 1,60,52,0,112
 Lucy M Brenton,U.S. Senate,,L,Huntington,SALAMONIE 1,12,8,0,20
@@ -762,7 +762,7 @@ Travis Holdman,State Senate,19,R ,Huntington,SALAMONIE 1,242,139,0,381
 Daniel J (Dan) Leonard,State Representative,50,R,Huntington,SALAMONIE 1,222,131,0,353
 Jorge Fernandez,State Representative,50,D,Huntington,SALAMONIE 1,50,40,0,90
 ,Registered Voters,,,Huntington,SALAMON1E 2,,,,831
-,Ballots Cast,,,Huntington,SALAMON1E 2,,,,385
+,Ballots Cast,,,Huntington,SALAMON1E 2,385,112,0,497
 Mike Braun,U.S. Senate,,R,Huntington,SALAMON1E 2,273,64,0,337
 Joe Donnelly,U.S. Senate,,D,Huntington,SALAMON1E 2,87,42,0,129
 Lucy M Brenton,U.S. Senate,,L,Huntington,SALAMON1E 2,20,4,0,24

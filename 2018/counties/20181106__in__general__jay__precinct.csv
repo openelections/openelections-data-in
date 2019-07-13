@@ -1,6 +1,6 @@
 candidate,office,district,party,county,precinct,election_day,absentee,provisional,votes
 ,Registered Voters,,,Jay,Wayne 3,,,,1100
-,Ballots Cast,,,Jay,Wayne 3,,,,275
+,Ballots Cast,,,Jay,Wayne 3,275,172,0,447
 Mike Braun,U.S. Senate,,R,Jay,Wayne 3,166,94,0,260
 Joe Donnelly,U.S. Senate,,D,Jay,Wayne 3,88,60,0,148
 Lucy M Brenton,U.S. Senate,,L,Jay,Wayne 3,15,13,0,28
@@ -21,7 +21,7 @@ John (J.D) Prescott,State Representative,33,R ,Jay,Wayne 3,183,106,0,289
 Shon Byrum,State Representative,33,D,Jay,Wayne 3,76,59,0,135
 Dale Amett,State Representative,33,L,Jay,Wayne 3,9,5,0,14
 ,Registered Voters,,,Jay,Wayne 1,,,,941
-,Ballots Cast,,,Jay,Wayne 1,,,,228
+,Ballots Cast,,,Jay,Wayne 1,228,239,0,467
 Mike Braun,U.S. Senate,,R,Jay,Wayne 1,138,128,0,266
 Joe Donnelly,U.S. Senate,,D,Jay,Wayne 1,63,92,0,155
 Lucy M Brenton,U.S. Senate,,L,Jay,Wayne 1,23,10,0,33
@@ -42,7 +42,7 @@ John (J.D) Prescott,State Representative,33,R ,Jay,Wayne 1,144,138,0,282
 Shon Byrum,State Representative,33,D,Jay,Wayne 1,62,92,0,154
 Dale Amett,State Representative,33,L,Jay,Wayne 1,18,3,0,21
 ,Registered Voters,,,Jay,Noble,,,,381
-,Ballots Cast,,,Jay,Noble,,,,139
+,Ballots Cast,,,Jay,Noble,139,95,0,234
 Mike Braun,U.S. Senate,,R,Jay,Noble,113,70,0,183
 Joe Donnelly,U.S. Senate,,D,Jay,Noble,17,20,0,37
 Lucy M Brenton,U.S. Senate,,L,Jay,Noble,7,1,0,8
@@ -63,7 +63,7 @@ John (J.D) Prescott,State Representative,33,R ,Jay,Noble,113,76,0,189
 Shon Byrum,State Representative,33,D,Jay,Noble,20,16,0,36
 Dale Amett,State Representative,33,L,Jay,Noble,5,0,0,5
 ,Registered Voters,,,Jay,Dunkirk 3,,,,716
-,Ballots Cast,,,Jay,Dunkirk 3,,,,277
+,Ballots Cast,,,Jay,Dunkirk 3,277,68,0,345
 Mike Braun,U.S. Senate,,R,Jay,Dunkirk 3,142,38,0,180
 Joe Donnelly,U.S. Senate,,D,Jay,Dunkirk 3,118,28,0,146
 Lucy M Brenton,U.S. Senate,,L,Jay,Dunkirk 3,12,1,0,13
@@ -84,7 +84,7 @@ John (J.D) Prescott,State Representative,33,R ,Jay,Dunkirk 3,148,37,0,185
 Shon Byrum,State Representative,33,D,Jay,Dunkirk 3,121,28,0,149
 Dale Amett,State Representative,33,L,Jay,Dunkirk 3,4,1,0,5
 ,Registered Voters,,,Jay,Dunkirk 1,,,,636
-,Ballots Cast,,,Jay,Dunkirk 1,,,,244
+,Ballots Cast,,,Jay,Dunkirk 1,244,55,0,299
 Mike Braun,U.S. Senate,,R,Jay,Dunkirk 1,113,33,0,146
 Joe Donnelly,U.S. Senate,,D,Jay,Dunkirk 1,101,21,0,122
 Lucy M Brenton,U.S. Senate,,L,Jay,Dunkirk 1,24,1,0,25
@@ -105,7 +105,7 @@ John (J.D) Prescott,State Representative,33,R ,Jay,Dunkirk 1,124,32,0,156
 Shon Byrum,State Representative,33,D,Jay,Dunkirk 1,108,21,0,129
 Dale Amett,State Representative,33,L,Jay,Dunkirk 1,7,1,0,8
 ,Registered Voters,,,Jay,Knox,,,,294
-,Ballots Cast,,,Jay,Knox,,,,116
+,Ballots Cast,,,Jay,Knox,116,45,0,161
 Mike Braun,U.S. Senate,,R,Jay,Knox,83,28,0,111
 Joe Donnelly,U.S. Senate,,D,Jay,Knox,27,10,0,37
 Lucy M Brenton,U.S. Senate,,L,Jay,Knox,3,6,0,9
@@ -126,7 +126,7 @@ John (J.D) Prescott,State Representative,33,R ,Jay,Knox,91,29,0,120
 Shon Byrum,State Representative,33,D,Jay,Knox,23,12,0,35
 Dale Amett,State Representative,33,L,Jay,Knox,2,2,0,4
 ,Registered Voters,,,Jay,Greene,,,,647
-,Ballots Cast,,,Jay,Greene,,,,209
+,Ballots Cast,,,Jay,Greene,209,206,0,415
 Mike Braun,U.S. Senate,,R,Jay,Greene,136,137,0,273
 Joe Donnelly,U.S. Senate,,D,Jay,Greene,49,54,0,103
 Lucy M Brenton,U.S. Senate,,L,Jay,Greene,20,11,0,31
@@ -147,7 +147,7 @@ John (J.D) Prescott,State Representative,33,R ,Jay,Greene,154,143,0,297
 Shon Byrum,State Representative,33,D,Jay,Greene,47,54,0,101
 Dale Amett,State Representative,33,L,Jay,Greene,6,4,0,10
 ,Registered Voters,,,Jay,Pike,,,,542
-,Ballots Cast,,,Jay,Pike,,,,161
+,Ballots Cast,,,Jay,Pike,161,161,0,322
 Mike Braun,U.S. Senate,,R,Jay,Pike,113,98,0,211
 Joe Donnelly,U.S. Senate,,D,Jay,Pike,44,50,0,94
 Lucy M Brenton,U.S. Senate,,L,Jay,Pike,3,10,0,13
@@ -168,7 +168,7 @@ John (J.D) Prescott,State Representative,33,R ,Jay,Pike,119,104,0,223
 Shon Byrum,State Representative,33,D,Jay,Pike,38,51,0,89
 Dale Amett,State Representative,33,L,Jay,Pike,3,5,0,8
 ,Registered Voters,,,Jay,Jackson,,,,438
-,Ballots Cast,,,Jay,Jackson,,,,194
+,Ballots Cast,,,Jay,Jackson,194,79,0,273
 Mike Braun,U.S. Senate,,R,Jay,Jackson,140,54,0,194
 Joe Donnelly,U.S. Senate,,D,Jay,Jackson,45,23,0,68
 Lucy M Brenton,U.S. Senate,,L,Jay,Jackson,9,1,0,10
@@ -189,7 +189,7 @@ John (J.D) Prescott,State Representative,33,R ,Jay,Jackson,143,54,0,197
 Shon Byrum,State Representative,33,D,Jay,Jackson,47,22,0,69
 Dale Amett,State Representative,33,L,Jay,Jackson,4,2,0,6
 ,Registered Voters,,,Jay,Jefferson,,,,441
-,Ballots Cast,,,Jay,Jefferson,,,,163
+,Ballots Cast,,,Jay,Jefferson,163,59,0,222
 Mike Braun,U.S. Senate,,R,Jay,Jefferson,111,37,0,148
 Joe Donnelly,U.S. Senate,,D,Jay,Jefferson,44,20,0,64
 Lucy M Brenton,U.S. Senate,,L,Jay,Jefferson,8,1,0,9
@@ -210,7 +210,7 @@ John (J.D) Prescott,State Representative,33,R ,Jay,Jefferson,115,41,0,156
 Shon Byrum,State Representative,33,D,Jay,Jefferson,41,15,0,56
 Dale Amett,State Representative,33,L,Jay,Jefferson,6,1,0,7
 ,Registered Voters,,,Jay,Redkey,,,,1139
-,Ballots Cast,,,Jay,Redkey,,,,399
+,Ballots Cast,,,Jay,Redkey,399,186,0,585
 Mike Braun,U.S. Senate,,R,Jay,Redkey,220,106,0,326
 Joe Donnelly,U.S. Senate,,D,Jay,Redkey,138,70,0,208
 Lucy M Brenton,U.S. Senate,,L,Jay,Redkey,30,5,0,35
@@ -231,7 +231,7 @@ John (J.D) Prescott,State Representative,33,R ,Jay,Redkey,229,108,0,337
 Shon Byrum,State Representative,33,D,Jay,Redkey,152,72,0,224
 Dale Amett,State Representative,33,L,Jay,Redkey,12,1,0,13
 ,Registered Voters,,,Jay,Madison,,,,410
-,Ballots Cast,,,Jay,Madison,,,,178
+,Ballots Cast,,,Jay,Madison,178,52,0,230
 Mike Braun,U.S. Senate,,R,Jay,Madison,136,40,0,176
 Joe Donnelly,U.S. Senate,,D,Jay,Madison,31,10,0,41
 Lucy M Brenton,U.S. Senate,,L,Jay,Madison,7,2,0,9
@@ -252,7 +252,7 @@ John (J.D) Prescott,State Representative,33,R ,Jay,Madison,142,42,0,184
 Shon Byrum,State Representative,33,D,Jay,Madison,29,9,0,38
 Dale Amett,State Representative,33,L,Jay,Madison,1,0,0,1
 ,Registered Voters,,,Jay,Bearcreek,,,,554
-,Ballots Cast,,,Jay,Bearcreek,,,,236
+,Ballots Cast,,,Jay,Bearcreek,236,91,0,327
 Mike Braun,U.S. Senate,,R,Jay,Bearcreek,169,59,0,228
 Joe Donnelly,U.S. Senate,,D,Jay,Bearcreek,57,27,0,84
 Lucy M Brenton,U.S. Senate,,L,Jay,Bearcreek,6,4,0,10
@@ -273,7 +273,7 @@ John (J.D) Prescott,State Representative,33,R ,Jay,Bearcreek,179,58,0,237
 Shon Byrum,State Representative,33,D,Jay,Bearcreek,50,29,0,79
 Dale Amett,State Representative,33,L,Jay,Bearcreek,6,3,0,9
 ,Registered Voters,,,Jay,Wabash,,,,327
-,Ballots Cast,,,Jay,Wabash,,,,155
+,Ballots Cast,,,Jay,Wabash,155,41,0,196
 Mike Braun,U.S. Senate,,R,Jay,Wabash,136,34,0,169
 Joe Donnelly,U.S. Senate,,D,Jay,Wabash,13,6,0,19
 Lucy M Brenton,U.S. Senate,,L,Jay,Wabash,4,0,0,4
@@ -294,7 +294,7 @@ John (J.D) Prescott,State Representative,33,R ,Jay,Wabash,137,35,0,172
 Shon Byrum,State Representative,33,D,Jay,Wabash,14,4,0,18
 Dale Amett,State Representative,33,L,Jay,Wabash,1,0,0,1
 ,Registered Voters,,,Jay,Penn,,,,668
-,Ballots Cast,,,Jay,Penn,,,,293
+,Ballots Cast,,,Jay,Penn,293,51,0,344
 Mike Braun,U.S. Senate,,R,Jay,Penn,194,31,0,225
 Joe Donnelly,U.S. Senate,,D,Jay,Penn,69,18,0,87
 Lucy M Brenton,U.S. Senate,,L,Jay,Penn,22,1,0,23
@@ -315,7 +315,7 @@ John (J.D) Prescott,State Representative,33,R ,Jay,Penn,214,32,0,246
 Shon Byrum,State Representative,33,D,Jay,Penn,63,17,0,80
 Dale Amett,State Representative,33,L,Jay,Penn,8,2,0,10
 ,Registered Voters,,,Jay,Wayne 2,,,,876
-,Ballots Cast,,,Jay,Wayne 2,,,,243
+,Ballots Cast,,,Jay,Wayne 2,243,237,0,480
 Mike Braun,U.S. Senate,,R,Jay,Wayne 2,138,126,0,264
 Joe Donnelly,U.S. Senate,,D,Jay,Wayne 2,83,92,0,175
 Lucy M Brenton,U.S. Senate,,L,Jay,Wayne 2,21,14,0,35
@@ -336,7 +336,7 @@ John (J.D) Prescott,State Representative,33,R ,Jay,Wayne 2,149,139,0,288
 Shon Byrum,State Representative,33,D,Jay,Wayne 2,81,87,0,168
 Dale Amett,State Representative,33,L,Jay,Wayne 2,10,5,0,15
 ,Registered Voters,,,Jay,Wayne 7,,,,898
-,Ballots Cast,,,Jay,Wayne 7,,,,258
+,Ballots Cast,,,Jay,Wayne 7,258,227,0,485
 Mike Braun,U.S. Senate,,R,Jay,Wayne 7,164,122,0,286
 Joe Donnelly,U.S. Senate,,D,Jay,Wayne 7,67,80,0,147
 Lucy M Brenton,U.S. Senate,,L,Jay,Wayne 7,24,18,0,42
@@ -357,7 +357,7 @@ John (J.D) Prescott,State Representative,33,R ,Jay,Wayne 7,163,131,0,294
 Shon Byrum,State Representative,33,D,Jay,Wayne 7,78,79,0,157
 Dale Amett,State Representative,33,L,Jay,Wayne 7,13,10,0,23
 ,Registered Voters,,,Jay,Wayne 4,,,,1017
-,Ballots Cast,,,Jay,Wayne 4,,,,335
+,Ballots Cast,,,Jay,Wayne 4,335,245,0,580
 Mike Braun,U.S. Senate,,R,Jay,Wayne 4,208,136,0,344
 Joe Donnelly,U.S. Senate,,D,Jay,Wayne 4,100,98,0,198
 Lucy M Brenton,U.S. Senate,,L,Jay,Wayne 4,23,8,0,31

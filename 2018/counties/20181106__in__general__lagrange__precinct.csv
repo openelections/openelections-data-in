@@ -1,6 +1,6 @@
 candidate,office,district,party,county,precinct,election_day,absentee,provisional,votes
 ,Registered Voters,,,LaGrange,Bloomfield 1,,,,947
-,Ballots Cast,,,LaGrange,Bloomfield 1,,,,367
+,Ballots Cast,,,LaGrange,Bloomfield 1,367,79,0,446
 Mike Braun,U.S. Senate,,R,LaGrange,Bloomfield 1,226,33,0,259
 Joe Donnelly,U.S. Senate,,D,LaGrange,Bloomfield 1,128,44,0,172
 Lucy M Brenton,U.S. Senate,,L,LaGrange,Bloomfield 1,7,2,0,9
@@ -20,7 +20,7 @@ Write in,U.S. House,3,,LaGrange,Bloomfield 1,0,0,0,0
 Dennis J Zent,State Representative,51,R,LaGrange,Bloomfield 1,262,43,0,305
 Michael M Stephenson,State Representative,51,D,LaGrange,Bloomfield 1,90,35,0,125
 ,Registered Voters,,,LaGrange,Bloomfield 2,,,,692
-,Ballots Cast,,,LaGrange,Bloomfield 2,,,,217
+,Ballots Cast,,,LaGrange,Bloomfield 2,217,49,0,266
 Mike Braun,U.S. Senate,,R,LaGrange,Bloomfield 2,115,29,0,144
 Joe Donnelly,U.S. Senate,,D,LaGrange,Bloomfield 2,82,19,0,101
 Lucy M Brenton,U.S. Senate,,L,LaGrange,Bloomfield 2,17,1,0,18
@@ -40,7 +40,7 @@ Write in,U.S. House,3,,LaGrange,Bloomfield 2,0,0,0,0
 Dennis J Zent,State Representative,51,R,LaGrange,Bloomfield 2,141,37,0,178
 Michael M Stephenson,State Representative,51,D,LaGrange,Bloomfield 2,71,12,0,83
 ,Registered Voters,,,LaGrange,Bloomfield 3,,,,615
-,Ballots Cast,,,LaGrange,Bloomfield 3,,,,228
+,Ballots Cast,,,LaGrange,Bloomfield 3,228,66,0,294
 Mike Braun,U.S. Senate,,R,LaGrange,Bloomfield 3,133,38,0,171
 Joe Donnelly,U.S. Senate,,D,LaGrange,Bloomfield 3,85,20,0,105
 Lucy M Brenton,U.S. Senate,,L,LaGrange,Bloomfield 3,8,3,0,11
@@ -60,7 +60,7 @@ Write in,U.S. House,3,,LaGrange,Bloomfield 3,0,0,0,0
 Dennis J Zent,State Representative,51,R,LaGrange,Bloomfield 3,147,44,0,191
 Michael M Stephenson,State Representative,51,D,LaGrange,Bloomfield 3,75,15,0,90
 ,Registered Voters,,,LaGrange,Bloomfield 4,,,,765
-,Ballots Cast,,,LaGrange,Bloomfield 4,,,,339
+,Ballots Cast,,,LaGrange,Bloomfield 4,339,72,0,411
 Mike Braun,U.S. Senate,,R,LaGrange,Bloomfield 4,230,44,0,274
 Joe Donnelly,U.S. Senate,,D,LaGrange,Bloomfield 4,92,27,0,119
 Lucy M Brenton,U.S. Senate,,L,LaGrange,Bloomfield 4,14,1,0,15
@@ -80,7 +80,7 @@ Write in,U.S. House,3,,LaGrange,Bloomfield 4,0,0,0,0
 Dennis J Zent,State Representative,51,R,LaGrange,Bloomfield 4,255,51,0,306
 Michael M Stephenson,State Representative,51,D,LaGrange,Bloomfield 4,77,19,0,96
 ,Registered Voters,,,LaGrange,Clay,,,,877
-,Ballots Cast,,,LaGrange,Clay,,,,338
+,Ballots Cast,,,LaGrange,Clay,338,92,0,430
 Mike Braun,U.S. Senate,,R,LaGrange,Clay,243,57,0,300
 Joe Donnelly,U.S. Senate,,D,LaGrange,Clay,74,32,0,106
 Lucy M Brenton,U.S. Senate,,L,LaGrange,Clay,19,2,0,21
@@ -100,7 +100,7 @@ Write in,U.S. House,3,,LaGrange,Clay,0,0,0,0
 Dennis J Zent,State Representative,51,R,LaGrange,Clay,271,66,0,337
 Michael M Stephenson,State Representative,51,D,LaGrange,Clay,62,18,0,81
 ,Registered Voters,,,LaGrange,Clearspring,,,,1011
-,Ballots Cast,,,LaGrange,Clearspring,,,,382
+,Ballots Cast,,,LaGrange,Clearspring,382,84,0,466
 Mike Braun,U.S. Senate,,R,LaGrange,Clearspring,273,55,0,328
 Joe Donnelly,U.S. Senate,,D,LaGrange,Clearspring,91,28,0,119
 Lucy M Brenton,U.S. Senate,,L,LaGrange,Clearspring,14,0,0,14
@@ -120,7 +120,7 @@ Write in,U.S. House,3,,LaGrange,Clearspring,0,0,0,0
 Dennis J Zent,State Representative,51,R,LaGrange,Clearspring,305,52,0,357
 Michael M Stephenson,State Representative,51,D,LaGrange,Clearspring,70,31,0,101
 ,Registered Voters,,,LaGrange,Eden,,,,599
-,Ballots Cast,,,LaGrange,Eden,,,,255
+,Ballots Cast,,,LaGrange,Eden,255,14,0,269
 Mike Braun,U.S. Senate,,R,LaGrange,Eden,186,11,0,197
 Joe Donnelly,U.S. Senate,,D,LaGrange,Eden,56,3,0,59
 Lucy M Brenton,U.S. Senate,,L,LaGrange,Eden,12,0,0,12
@@ -140,7 +140,7 @@ Write in,U.S. House,3,,LaGrange,Eden,1,0,0,1
 Dennis J Zent,State Representative,51,R,LaGrange,Eden,205,12,0,217
 Michael M Stephenson,State Representative,51,D,LaGrange,Eden,48,2,0,50
 ,Registered Voters,,,LaGrange,Greenfield ,,,,866
-,Ballots Cast,,,LaGrange,Greenfield ,,,,374
+,Ballots Cast,,,LaGrange,Greenfield ,374,50,0,424
 Mike Braun,U.S. Senate,,R,LaGrange,Greenfield ,253,26,0,279
 Joe Donnelly,U.S. Senate,,D,LaGrange,Greenfield ,103,22,0,125
 Lucy M Brenton,U.S. Senate,,L,LaGrange,Greenfield ,14,1,0,15
@@ -160,7 +160,7 @@ Write in,U.S. House,3,,LaGrange,Greenfield ,0,0,0,0
 Dennis J Zent,State Representative,51,R,LaGrange,Greenfield ,275,29,0,304
 Michael M Stephenson,State Representative,51,D,LaGrange,Greenfield ,94,21,0,115
 ,Registered Voters,,,LaGrange,Johnson North,,,,1052
-,Ballots Cast,,,LaGrange,Johnson North,,,,482
+,Ballots Cast,,,LaGrange,Johnson North,482,117,0,599
 Mike Braun,U.S. Senate,,R,LaGrange,Johnson North,327,63,0,390
 Joe Donnelly,U.S. Senate,,D,LaGrange,Johnson North,140,54,0,194
 Lucy M Brenton,U.S. Senate,,L,LaGrange,Johnson North,13,0,0,13
@@ -180,7 +180,7 @@ Write in,U.S. House,3,,LaGrange,Johnson North,0,0,0,0
 David H Abbott,State Representative,82,R,LaGrange,Johnson North,379,72,0,45
 Mike Wilber,State Representative,82,D,LaGrange,Johnson North,96,43,0,139
 ,Registered Voters,,,LaGrange,Johnson South,,,,1092
-,Ballots Cast,,,LaGrange,Johnson South,,,,489
+,Ballots Cast,,,LaGrange,Johnson South,489,101,2,572
 Mike Braun,U.S. Senate,,R,LaGrange,Johnson South,319,58,0,377
 Joe Donnelly,U.S. Senate,,D,LaGrange,Johnson South,131,40,2,173
 Lucy M Brenton,U.S. Senate,,L,LaGrange,Johnson South,18,2,0,20
@@ -200,7 +200,7 @@ Write in,U.S. House,3,,LaGrange,Johnson South,0,0,0,0
 David H Abbott,State Representative,82,R,LaGrange,Johnson South,356,63,0,419
 Mike Wilber,State Representative,82,D,LaGrange,Johnson South,108,37,2,147
 ,Registered Voters,,,LaGrange,Lima,,,,1453
-,Ballots Cast,,,LaGrange,Lima,,,,613
+,Ballots Cast,,,LaGrange,Lima,613,109,1,723
 Mike Braun,U.S. Senate,,R,LaGrange,Lima,393,48,1,442
 Joe Donnelly,U.S. Senate,,D,LaGrange,Lima,182,55,0,237
 Lucy M Brenton,U.S. Senate,,L,LaGrange,Lima,31,5,0,36
@@ -220,7 +220,7 @@ Write in,U.S. House,3,,LaGrange,Lima,0,0,0,0
 Dennis J Zent,State Representative,51,R,LaGrange,Lima,471,58,1,530
 Michael M Stephenson,State Representative,51,D,LaGrange,Lima,133,46,0,179
 ,Registered Voters,,,LaGrange,Milford East ,,,,1196
-,Ballots Cast,,,LaGrange,Milford East ,,,,568
+,Ballots Cast,,,LaGrange,Milford East ,568,132,0,700
 Mike Braun,U.S. Senate,,R,LaGrange,Milford East ,372,81,0,453
 Joe Donnelly,U.S. Senate,,D,LaGrange,Milford East ,169,47,0,216
 Lucy M Brenton,U.S. Senate,,L,LaGrange,Milford East ,21,4,0,25
@@ -240,7 +240,7 @@ Write in,U.S. House,3,,LaGrange,Milford East ,0,0,0,0
 Dennis J Zent,State Representative,51,R,LaGrange,Milford East ,432,88,0,520
 Michael M Stephenson,State Representative,51,D,LaGrange,Milford East ,123,42,0,165
 ,Registered Voters,,,LaGrange,Milford West,,,,737
-,Ballots Cast,,,LaGrange,Milford West,,,,348
+,Ballots Cast,,,LaGrange,Milford West,348,57,0,405
 Mike Braun,U.S. Senate,,R,LaGrange,Milford West,247,33,0,280
 Joe Donnelly,U.S. Senate,,D,LaGrange,Milford West,87,20,0,107
 Lucy M Brenton,U.S. Senate,,L,LaGrange,Milford West,8,3,0,11
@@ -260,7 +260,7 @@ Write in,U.S. House,3,,LaGrange,Milford West,0,0,0,0
 Dennis J Zent,State Representative,51,R,LaGrange,Milford West,276,36,0,312
 Michael M Stephenson,State Representative,51,D,LaGrange,Milford West,66,18,0,84
 ,Registered Voters,,,LaGrange,Newbury,,,,1418
-,Ballots Cast,,,LaGrange,Newbury,,,,650
+,Ballots Cast,,,LaGrange,Newbury,650,66,0,716
 Mike Braun,U.S. Senate,,R,LaGrange,Newbury,505,46,0,551
 Joe Donnelly,U.S. Senate,,D,LaGrange,Newbury,129,19,0,148
 Lucy M Brenton,U.S. Senate,,L,LaGrange,Newbury,8,1,0,9
@@ -280,7 +280,7 @@ Write in,U.S. House,3,,LaGrange,Newbury,0,0,0,0
 Dennis J Zent,State Representative,51,R,LaGrange,Newbury,538,49,0,587
 Michael M Stephenson,State Representative,51,D,LaGrange,Newbury,101,16,0,117
 ,Registered Voters,,,LaGrange,Springfield,,,,707
-,Ballots Cast,,,LaGrange,Springfield,,,,359
+,Ballots Cast,,,LaGrange,Springfield,359,33,0,392
 Mike Braun,U.S. Senate,,R,LaGrange,Springfield,231,17,0,248
 Joe Donnelly,U.S. Senate,,D,LaGrange,Springfield,89,11,0,100
 Lucy M Brenton,U.S. Senate,,L,LaGrange,Springfield,31,4,0,35
@@ -300,7 +300,7 @@ Write in,U.S. House,3,,LaGrange,Springfield,0,0,0,0
 Dennis J Zent,State Representative,51,R,LaGrange,Springfield,277,22,0,299
 Michael M Stephenson,State Representative,51,D,LaGrange,Springfield,67,9,0,76
 ,Registered Voters,,,LaGrange,Van Buren,,,,1429
-,Ballots Cast,,,LaGrange,Van Buren,,,,572
+,Ballots Cast,,,LaGrange,Van Buren,572,80,0,652
 Mike Braun,U.S. Senate,,R,LaGrange,Van Buren,445,45,0,490
 Joe Donnelly,U.S. Senate,,D,LaGrange,Van Buren,106,30,0,136
 Lucy M Brenton,U.S. Senate,,L,LaGrange,Van Buren,13,3,0,16
@@ -319,183 +319,4 @@ Courtney Tritch,U.S. House,3,D,LaGrange,Van Buren,95,31,0,126
 Write in,U.S. House,3,,LaGrange,Van Buren,1,0,0,1
 Dennis J Zent,State Representative,51,R,LaGrange,Van Buren,464,50,0,514
 Michael M Stephenson,State Representative,51,D,LaGrange,Van Buren,93,27,0,120
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
 Michael M Stephenson,State Representative,51,D,LaGrange,,,,,

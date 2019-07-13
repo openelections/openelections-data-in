@@ -1,6 +1,6 @@
 candidate,office,district,party,county,precinct,election_day,absentee,provisional,votes
 ,Registered Voters,,,Dubois,Precinct 1,,,,545
-,Ballots Cast,,,Dubois,Precinct 1,,,,142
+,Ballots Cast,,,Dubois,Precinct 1,142,257,0,399
 Mike Braun,U.S. Senate,,R,Dubois,Precinct 1,98,199,0,297
 Joe Donnelly,U.S. Senate,,D,Dubois,Precinct 1,35,49,0,84
 Lucy M Brenton,U.S. Senate,,L,Dubois,Precinct 1,6,6,0,12
@@ -22,7 +22,7 @@ No Candidate Filed,State Senate,48,D,Dubois,Precinct 1,0,0,0,0
 Shane M. Lindauer,State Representative,63,R,Dubois,Precinct 1,97,206,0,303
 "Joseph ""Joe"" Lannan",State Representative,63,D,Dubois,Precinct 1,43,43,0,86
 ,Registered Voters,,,Dubois,Precinct 2,,,,797
-,Ballots Cast,,,Dubois,Precinct 2,,,,125
+,Ballots Cast,,,Dubois,Precinct 2,125,229,0,354
 Mike Braun,U.S. Senate,,R,Dubois,Precinct 2,60,116,0,176
 Joe Donnelly,U.S. Senate,,D,Dubois,Precinct 2,57,96,0,153
 Lucy M Brenton,U.S. Senate,,L,Dubois,Precinct 2,8,14,0,22
@@ -44,7 +44,7 @@ No Candidate Filed,State Senate,48,D,Dubois,Precinct 2,0,0,0,0
 Shane M. Lindauer,State Representative,63,R,Dubois,Precinct 2,65,122,0,187
 "Joseph ""Joe"" Lannan",State Representative,63,D,Dubois,Precinct 2,58,99,0,157
 ,Registered Voters,,,Dubois,Precinct 3,,,,1436
-,Ballots Cast,,,Dubois,Precinct 3,,,,290
+,Ballots Cast,,,Dubois,Precinct 3,290,649,0,939
 Mike Braun,U.S. Senate,,R,Dubois,Precinct 3,201,440,0,641
 Joe Donnelly,U.S. Senate,,D,Dubois,Precinct 3,66,180,0,246
 Lucy M Brenton,U.S. Senate,,L,Dubois,Precinct 3,19,23,0,42
@@ -66,7 +66,7 @@ No Candidate Filed,State Senate,48,D,Dubois,Precinct 3,0,0,0,0
 Shane M. Lindauer,State Representative,63,R,Dubois,Precinct 3,218,454,0,672
 "Joseph ""Joe"" Lannan",State Representative,63,D,Dubois,Precinct 3,65,175,0,240
 ,Registered Voters,,,Dubois,Precinct 4,,,,1092
-,Ballots Cast,,,Dubois,Precinct 4,,,,272
+,Ballots Cast,,,Dubois,Precinct 4,272,397,0,669
 Mike Braun,U.S. Senate,,R,Dubois,Precinct 4,170,247,0,417
 Joe Donnelly,U.S. Senate,,D,Dubois,Precinct 4,82,137,0,219
 Lucy M Brenton,U.S. Senate,,L,Dubois,Precinct 4,18,9,0,27
@@ -88,7 +88,7 @@ No Candidate Filed,State Senate,48,D,Dubois,Precinct 4,0,0,0,0
 Shane M. Lindauer,State Representative,63,R,Dubois,Precinct 4,180,251,0,431
 "Joseph ""Joe"" Lannan",State Representative,63,D,Dubois,Precinct 4,89,136,0,225
 ,Registered Voters,,,Dubois,Precinct 5,,,,1041
-,Ballots Cast,,,Dubois,Precinct 5,,,,238
+,Ballots Cast,,,Dubois,Precinct 5,238,484,0,722
 Mike Braun,U.S. Senate,,R,Dubois,Precinct 5,169,358,0,527
 Joe Donnelly,U.S. Senate,,D,Dubois,Precinct 5,60,119,0,179
 Lucy M Brenton,U.S. Senate,,L,Dubois,Precinct 5,7,7,0,14
@@ -110,7 +110,7 @@ No Candidate Filed,State Senate,48,D,Dubois,Precinct 5,0,0,0,0
 Shane M. Lindauer,State Representative,63,R,Dubois,Precinct 5,168,361,0,529
 "Joseph ""Joe"" Lannan",State Representative,63,D,Dubois,Precinct 5,66,114,0,180
 ,Registered Voters,,,Dubois,Precinct 6,,,,1110
-,Ballots Cast,,,Dubois,Precinct 6,,,,307
+,Ballots Cast,,,Dubois,Precinct 6,307,355,0,662
 Mike Braun,U.S. Senate,,R,Dubois,Precinct 6,181,207,0,388
 Joe Donnelly,U.S. Senate,,D,Dubois,Precinct 6,107,131,0,238
 Lucy M Brenton,U.S. Senate,,L,Dubois,Precinct 6,12,8,0,20
@@ -132,7 +132,7 @@ No Candidate Filed,State Senate,48,D,Dubois,Precinct 6,0,0,0,0
 Shane M. Lindauer,State Representative,63,R,Dubois,Precinct 6,186,224,0,410
 "Joseph ""Joe"" Lannan",State Representative,63,D,Dubois,Precinct 6,112,118,0,230
 ,Registered Voters,,,Dubois,Precinct 7,,,,943
-,Ballots Cast,,,Dubois,Precinct 7,,,,234
+,Ballots Cast,,,Dubois,Precinct 7,234,349,0,583
 Mike Braun,U.S. Senate,,R,Dubois,Precinct 7,149,220,0,369
 Joe Donnelly,U.S. Senate,,D,Dubois,Precinct 7,70,115,0,185
 Lucy M Brenton,U.S. Senate,,L,Dubois,Precinct 7,13,10,0,23
@@ -154,7 +154,7 @@ No Candidate Filed,State Senate,48,D,Dubois,Precinct 7,0,0,0,0
 Shane M. Lindauer,State Representative,63,R,Dubois,Precinct 7,156,237,0,393
 "Joseph ""Joe"" Lannan",State Representative,63,D,Dubois,Precinct 7,74,100,0,174
 ,Registered Voters,,,Dubois,Precinct 8,,,,1010
-,Ballots Cast,,,Dubois,Precinct 8,,,,214
+,Ballots Cast,,,Dubois,Precinct 8,214,240,0,454
 Mike Braun,U.S. Senate,,R,Dubois,Precinct 8,129,151,0,280
 Joe Donnelly,U.S. Senate,,D,Dubois,Precinct 8,73,81,0,154
 Lucy M Brenton,U.S. Senate,,L,Dubois,Precinct 8,10,7,0,17
@@ -176,7 +176,7 @@ No Candidate Filed,State Senate,48,D,Dubois,Precinct 8,0,0,0,0
 Shane M. Lindauer,State Representative,63,R,Dubois,Precinct 8,123,157,0,280
 "Joseph ""Joe"" Lannan",State Representative,63,D,Dubois,Precinct 8,84,74,0,158
 ,Registered Voters,,,Dubois,Precinct 9,,,,906
-,Ballots Cast,,,Dubois,Precinct 9,,,,173
+,Ballots Cast,,,Dubois,Precinct 9,173,260,0,433
 Mike Braun,U.S. Senate,,R,Dubois,Precinct 9,109,156,0,265
 Joe Donnelly,U.S. Senate,,D,Dubois,Precinct 9,52,83,0,135
 Lucy M Brenton,U.S. Senate,,L,Dubois,Precinct 9,11,11,0,22
@@ -198,7 +198,7 @@ No Candidate Filed,State Senate,48,D,Dubois,Precinct 9,0,0,0,0
 Shane M. Lindauer,State Representative,63,R,Dubois,Precinct 9,112,174,0,286
 "Joseph ""Joe"" Lannan",State Representative,63,D,Dubois,Precinct 9,56,82,0,138
 ,Registered Voters,,,Dubois,Precinct 10,,,,996
-,Ballots Cast,,,Dubois,Precinct 10,,,,245
+,Ballots Cast,,,Dubois,Precinct 10,245,280,0,525
 Mike Braun,U.S. Senate,,R,Dubois,Precinct 10,163,170,0,333
 Joe Donnelly,U.S. Senate,,D,Dubois,Precinct 10,69,100,0,169
 Lucy M Brenton,U.S. Senate,,L,Dubois,Precinct 10,12,7,0,19
@@ -220,7 +220,7 @@ No Candidate Filed,State Senate,48,D,Dubois,Precinct 10,0,0,0,0
 Shane M. Lindauer,State Representative,63,R,Dubois,Precinct 10,174,178,0,352
 "Joseph ""Joe"" Lannan",State Representative,63,D,Dubois,Precinct 10,68,94,0,162
 ,Registered Voters,,,Dubois,Precinct 11,,,,1064
-,Ballots Cast,,,Dubois,Precinct 11,,,,225
+,Ballots Cast,,,Dubois,Precinct 11,225,463,0,688
 Mike Braun,U.S. Senate,,R,Dubois,Precinct 11,156,312,0,468
 Joe Donnelly,U.S. Senate,,D,Dubois,Precinct 11,61,134,0,195
 Lucy M Brenton,U.S. Senate,,L,Dubois,Precinct 11,7,7,0,14
@@ -242,7 +242,7 @@ No Candidate Filed,State Senate,48,D,Dubois,Precinct 11,0,0,0,0
 Shane M. Lindauer,State Representative,63,R,Dubois,Precinct 11,161,311,0,472
 "Joseph ""Joe"" Lannan",State Representative,63,D,Dubois,Precinct 11,58,135,0,193
 ,Registered Voters,,,Dubois,Precinct 12,,,,707
-,Ballots Cast,,,Dubois,Precinct 12,,,,147
+,Ballots Cast,,,Dubois,Precinct 12,147,274,0,421
 Mike Braun,U.S. Senate,,R,Dubois,Precinct 12,101,185,0,286
 Joe Donnelly,U.S. Senate,,D,Dubois,Precinct 12,32,82,0,114
 Lucy M Brenton,U.S. Senate,,L,Dubois,Precinct 12,12,4,0,16
@@ -264,7 +264,7 @@ No Candidate Filed,State Senate,48,D,Dubois,Precinct 12,0,0,0,0
 Shane M. Lindauer,State Representative,63,R,Dubois,Precinct 12,107,189,0,296
 "Joseph ""Joe"" Lannan",State Representative,63,D,Dubois,Precinct 12,35,78,0,113
 ,Registered Voters,,,Dubois,Precinct 13,,,,565
-,Ballots Cast,,,Dubois,Precinct 13,,,,137
+,Ballots Cast,,,Dubois,Precinct 13,137,224,0,361
 Mike Braun,U.S. Senate,,R,Dubois,Precinct 13,91,156,0,247
 Joe Donnelly,U.S. Senate,,D,Dubois,Precinct 13,39,57,0,96
 Lucy M Brenton,U.S. Senate,,L,Dubois,Precinct 13,5,11,0,16
@@ -286,7 +286,7 @@ No Candidate Filed,State Senate,48,D,Dubois,Precinct 13,0,0,0,0
 Shane M. Lindauer,State Representative,63,R,Dubois,Precinct 13,101,168,0,269
 "Joseph ""Joe"" Lannan",State Representative,63,D,Dubois,Precinct 13,33,51,0,84
 ,Registered Voters,,,Dubois,Precinct 14,,,,431
-,Ballots Cast,,,Dubois,Precinct 14,,,,158
+,Ballots Cast,,,Dubois,Precinct 14,158,53,0,211
 Mike Braun,U.S. Senate,,R,Dubois,Precinct 14,110,29,0,139
 Joe Donnelly,U.S. Senate,,D,Dubois,Precinct 14,35,23,0,58
 Lucy M Brenton,U.S. Senate,,L,Dubois,Precinct 14,12,1,0,13
@@ -308,7 +308,7 @@ No Candidate Filed,State Senate,48,D,Dubois,Precinct 14,0,0,0,0
 Stephen R Bartels,State Representative,74,R,Dubois,Precinct 14,114,29,0,143
 Larry K Kleeman,State Representative,74,D,Dubois,Precinct 14,36,20,0,56
 ,Registered Voters,,,Dubois,Precinct 15,,,,498
-,Ballots Cast,,,Dubois,Precinct 15,,,,115
+,Ballots Cast,,,Dubois,Precinct 15,115,154,0,269
 Mike Braun,U.S. Senate,,R,Dubois,Precinct 15,76,107,0,183
 Joe Donnelly,U.S. Senate,,D,Dubois,Precinct 15,35,38,0,73
 Lucy M Brenton,U.S. Senate,,L,Dubois,Precinct 15,3,6,0,9
@@ -330,7 +330,7 @@ No Candidate Filed,State Senate,48,D,Dubois,Precinct 15,0,0,0,0
 Stephen R Bartels,State Representative,74,R,Dubois,Precinct 15,83,109,0,192
 Larry K Kleeman,State Representative,74,D,Dubois,Precinct 15,29,39,0,68
 ,Registered Voters,,,Dubois,Precinct 16,,,,620
-,Ballots Cast,,,Dubois,Precinct 16,,,,292
+,Ballots Cast,,,Dubois,Precinct 16,292,100,0,392
 Mike Braun,U.S. Senate,,R,Dubois,Precinct 16,204,54,0,258
 Joe Donnelly,U.S. Senate,,D,Dubois,Precinct 16,74,43,0,117
 Lucy M Brenton,U.S. Senate,,L,Dubois,Precinct 16,9,2,0,11
@@ -352,7 +352,7 @@ No Candidate Filed,State Senate,48,D,Dubois,Precinct 16,0,0,0,0
 Stephen R Bartels,State Representative,74,R,Dubois,Precinct 16,205,55,0,260
 Larry K Kleeman,State Representative,74,D,Dubois,Precinct 16,74,43,0,117
 ,Registered Voters,,,Dubois,Precinct 17,,,,756
-,Ballots Cast,,,Dubois,Precinct 17,,,,220
+,Ballots Cast,,,Dubois,Precinct 17,220,162,0,382
 Mike Braun,U.S. Senate,,R,Dubois,Precinct 17,164,102,0,266
 Joe Donnelly,U.S. Senate,,D,Dubois,Precinct 17,48,52,0,100
 Lucy M Brenton,U.S. Senate,,L,Dubois,Precinct 17,8,8,0,16
@@ -374,7 +374,7 @@ Nicholas A. (Nick) Siler,State Senate,47,D,Dubois,Precinct 17,52,54,0,106
 Shane M. Lindauer,State Representative,63,R,Dubois,Precinct 17,155,102,0,257
 "Joseph ""Joe"" Lannan",State Representative,63,D,Dubois,Precinct 17,60,53,0,113
 ,Registered Voters,,,Dubois,Precinct 18,,,,919
-,Ballots Cast,,,Dubois,Precinct 18,,,,280
+,Ballots Cast,,,Dubois,Precinct 18,280,293,0,573
 Mike Braun,U.S. Senate,,R,Dubois,Precinct 18,140,115,0,255
 Joe Donnelly,U.S. Senate,,D,Dubois,Precinct 18,124,160,0,284
 Lucy M Brenton,U.S. Senate,,L,Dubois,Precinct 18,14,10,0,24
@@ -396,7 +396,7 @@ Nicholas A. (Nick) Siler,State Senate,47,D,Dubois,Precinct 18,115,141,0,256
 Stephen R Bartels,State Representative,74,R,Dubois,Precinct 18,133,109,0,242
 Larry K Kleeman,State Representative,74,D,Dubois,Precinct 18,142,173,0,315
 ,Registered Voters,,,Dubois,Precinct 19,,,,681
-,Ballots Cast,,,Dubois,Precinct 19,,,,227
+,Ballots Cast,,,Dubois,Precinct 19,227,151,0,378
 Mike Braun,U.S. Senate,,R,Dubois,Precinct 19,121,74,0,195
 Joe Donnelly,U.S. Senate,,D,Dubois,Precinct 19,83,72,0,155
 Lucy M Brenton,U.S. Senate,,L,Dubois,Precinct 19,21,4,0,25
@@ -418,7 +418,7 @@ Nicholas A. (Nick) Siler,State Senate,47,D,Dubois,Precinct 19,80,66,0,146
 Stephen R Bartels,State Representative,74,R,Dubois,Precinct 19,126,74,0,200
 Larry K Kleeman,State Representative,74,D,Dubois,Precinct 19,96,73,0,169
 ,Registered Voters,,,Dubois,Precinct 20,,,,1118
-,Ballots Cast,,,Dubois,Precinct 20,,,,400
+,Ballots Cast,,,Dubois,Precinct 20,400,246,0,646
 Mike Braun,U.S. Senate,,R,Dubois,Precinct 20,253,140,0,393
 Joe Donnelly,U.S. Senate,,D,Dubois,Precinct 20,129,96,0,225
 Lucy M Brenton,U.S. Senate,,L,Dubois,Precinct 20,15,6,0,21
@@ -440,7 +440,7 @@ Nicholas A. (Nick) Siler,State Senate,47,D,Dubois,Precinct 20,99,75,0,174
 Stephen R Bartels,State Representative,74,R,Dubois,Precinct 20,255,137,0,392
 Larry K Kleeman,State Representative,74,D,Dubois,Precinct 20,137,104,0,241
 ,Registered Voters,,,Dubois,Precinct 21,,,,909
-,Ballots Cast,,,Dubois,Precinct 21,,,,354
+,Ballots Cast,,,Dubois,Precinct 21,354,263,0,617
 Mike Braun,U.S. Senate,,R,Dubois,Precinct 21,223,153,0,376
 Joe Donnelly,U.S. Senate,,D,Dubois,Precinct 21,99,102,0,201
 Lucy M Brenton,U.S. Senate,,L,Dubois,Precinct 21,23,5,0,28
@@ -462,7 +462,7 @@ Nicholas A. (Nick) Siler,State Senate,47,D,Dubois,Precinct 21,82,88,0,170
 Shane M. Lindauer,State Representative,63,R,Dubois,Precinct 21,231,146,0,377
 "Joseph ""Joe"" Lannan",State Representative,63,D,Dubois,Precinct 21,103,104,0,207
 ,Registered Voters,,,Dubois,Precinct 22,,,,601
-,Ballots Cast,,,Dubois,Precinct 22,,,,124
+,Ballots Cast,,,Dubois,Precinct 22,124,222,0,346
 Mike Braun,U.S. Senate,,R,Dubois,Precinct 22,96,164,0,260
 Joe Donnelly,U.S. Senate,,D,Dubois,Precinct 22,21,51,0,72
 Lucy M Brenton,U.S. Senate,,L,Dubois,Precinct 22,4,6,0,10
@@ -484,7 +484,7 @@ Nicholas A. (Nick) Siler,State Senate,47,D,Dubois,Precinct 22,24,45,0,69
 Shane M. Lindauer,State Representative,63,R,Dubois,Precinct 22,97,165,0,262
 "Joseph ""Joe"" Lannan",State Representative,63,D,Dubois,Precinct 22,24,51,0,75
 ,Registered Voters,,,Dubois,Precinct 23,,,,570
-,Ballots Cast,,,Dubois,Precinct 23,,,,153
+,Ballots Cast,,,Dubois,Precinct 23,153,155,0,308
 Mike Braun,U.S. Senate,,R,Dubois,Precinct 23,106,111,0,217
 Joe Donnelly,U.S. Senate,,D,Dubois,Precinct 23,37,39,0,76
 Lucy M Brenton,U.S. Senate,,L,Dubois,Precinct 23,7,4,0,11
@@ -506,7 +506,7 @@ Nicholas A. (Nick) Siler,State Senate,47,D,Dubois,Precinct 23,39,35,0,74
 Shane M. Lindauer,State Representative,63,R,Dubois,Precinct 23,100,110,0,210
 "Joseph ""Joe"" Lannan",State Representative,63,D,Dubois,Precinct 23,51,38,0,89
 ,Registered Voters,,,Dubois,Precinct 24,,,,740
-,Ballots Cast,,,Dubois,Precinct 24,,,,268
+,Ballots Cast,,,Dubois,Precinct 24,268,167,0,435
 Mike Braun,U.S. Senate,,R,Dubois,Precinct 24,157,101,0,258
 Joe Donnelly,U.S. Senate,,D,Dubois,Precinct 24,98,56,0,154
 Lucy M Brenton,U.S. Senate,,L,Dubois,Precinct 24,10,7,0,17
@@ -528,7 +528,7 @@ Nicholas A. (Nick) Siler,State Senate,47,D,Dubois,Precinct 24,84,49,0,133
 Stephen R Bartels,State Representative,74,R,Dubois,Precinct 24,162,97,0,259
 Larry K Kleeman,State Representative,74,D,Dubois,Precinct 24,97,64,0,161
 ,Registered Voters,,,Dubois,Precinct 25,,,,903
-,Ballots Cast,,,Dubois,Precinct 25,,,,320
+,Ballots Cast,,,Dubois,Precinct 25,320,233,0,553
 Mike Braun,U.S. Senate,,R,Dubois,Precinct 25,236,134,0,370
 Joe Donnelly,U.S. Senate,,D,Dubois,Precinct 25,63,89,0,152
 Lucy M Brenton,U.S. Senate,,L,Dubois,Precinct 25,17,8,0,25
@@ -550,7 +550,7 @@ Nicholas A. (Nick) Siler,State Senate,47,D,Dubois,Precinct 25,65,80,0,145
 Stephen R Bartels,State Representative,74,R,Dubois,Precinct 25,226,126,0,352
 Larry K Kleeman,State Representative,74,D,Dubois,Precinct 25,86,98,0,184
 ,Registered Voters,,,Dubois,Precinct 26,,,,790
-,Ballots Cast,,,Dubois,Precinct 26,,,,177
+,Ballots Cast,,,Dubois,Precinct 26,177,257,0,434
 Mike Braun,U.S. Senate,,R,Dubois,Precinct 26,124,146,0,270
 Joe Donnelly,U.S. Senate,,D,Dubois,Precinct 26,44,98,0,142
 Lucy M Brenton,U.S. Senate,,L,Dubois,Precinct 26,6,10,0,16
@@ -572,7 +572,7 @@ Nicholas A. (Nick) Siler,State Senate,47,D,Dubois,Precinct 26,50,81,0,131
 Stephen R Bartels,State Representative,74,R,Dubois,Precinct 26,108,143,0,251
 Larry K Kleeman,State Representative,74,D,Dubois,Precinct 26,65,103,0,168
 ,Registered Voters,,,Dubois,Precinct 27,,,,262
-,Ballots Cast,,,Dubois,Precinct 27,,,,43
+,Ballots Cast,,,Dubois,Precinct 27,43,100,0,143
 Mike Braun,U.S. Senate,,R,Dubois,Precinct 27,30,48,0,78
 Joe Donnelly,U.S. Senate,,D,Dubois,Precinct 27,12,35,0,47
 Lucy M Brenton,U.S. Senate,,L,Dubois,Precinct 27,1,10,0,11
@@ -594,7 +594,7 @@ Nicholas A. (Nick) Siler,State Senate,47,D,Dubois,Precinct 27,14,44,0,58
 Stephen R Bartels,State Representative,74,R,Dubois,Precinct 27,28,51,0,79
 Larry K Kleeman,State Representative,74,D,Dubois,Precinct 27,14,45,0,59
 ,Registered Voters,,,Dubois,Precinct 28,,,,586
-,Ballots Cast,,,Dubois,Precinct 28,,,,177
+,Ballots Cast,,,Dubois,Precinct 28,177,184,0,361
 Mike Braun,U.S. Senate,,R,Dubois,Precinct 28,136,136,0,272
 Joe Donnelly,U.S. Senate,,D,Dubois,Precinct 28,37,43,0,80
 Lucy M Brenton,U.S. Senate,,L,Dubois,Precinct 28,4,2,0,6
@@ -616,7 +616,7 @@ No Candidate Filed,State Senate,48,D,Dubois,Precinct 28,0,0,0,0
 Shane M. Lindauer,State Representative,63,R,Dubois,Precinct 28,130,142,0,272
 "Joseph ""Joe"" Lannan",State Representative,63,D,Dubois,Precinct 28,43,35,0,78
 ,Registered Voters,,,Dubois,Precinct 29,,,,1084
-,Ballots Cast,,,Dubois,Precinct 29,,,,297
+,Ballots Cast,,,Dubois,Precinct 29,297,404,0,701
 Mike Braun,U.S. Senate,,R,Dubois,Precinct 29,231,293,0,524
 Joe Donnelly,U.S. Senate,,D,Dubois,Precinct 29,58,104,0,162
 Lucy M Brenton,U.S. Senate,,L,Dubois,Precinct 29,7,0,0,7
@@ -638,7 +638,7 @@ No Candidate Filed,State Senate,48,D,Dubois,Precinct 29,0,0,0,0
 Shane M. Lindauer,State Representative,63,R,Dubois,Precinct 29,222,298,0,520
 "Joseph ""Joe"" Lannan",State Representative,63,D,Dubois,Precinct 29,66,94,0,160
 ,Registered Voters,,,Dubois,Precinct 30,,,,430
-,Ballots Cast,,,Dubois,Precinct 30,,,,103
+,Ballots Cast,,,Dubois,Precinct 30,103,187,0,290
 Mike Braun,U.S. Senate,,R,Dubois,Precinct 30,71,154,0,225
 Joe Donnelly,U.S. Senate,,D,Dubois,Precinct 30,29,30,0,59
 Lucy M Brenton,U.S. Senate,,L,Dubois,Precinct 30,2,2,0,4
@@ -660,7 +660,7 @@ No Candidate Filed,State Senate,48,D,Dubois,Precinct 30,0,0,0,0
 Shane M. Lindauer,State Representative,63,R,Dubois,Precinct 30,75,153,0,228
 "Joseph ""Joe"" Lannan",State Representative,63,D,Dubois,Precinct 30,23,30,0,53
 ,Registered Voters,,,Dubois,Precinct 31,,,,93
-,Ballots Cast,,,Dubois,Precinct 31,,,,16
+,Ballots Cast,,,Dubois,Precinct 31,16,48,0,64
 Mike Braun,U.S. Senate,,R,Dubois,Precinct 31,13,31,0,44
 Joe Donnelly,U.S. Senate,,D,Dubois,Precinct 31,3,16,0,19
 Lucy M Brenton,U.S. Senate,,L,Dubois,Precinct 31,0,1,0,1
@@ -682,7 +682,7 @@ No Candidate Filed,State Senate,48,D,Dubois,Precinct 31,0,0,0,0
 Shane M. Lindauer,State Representative,63,R,Dubois,Precinct 31,14,38,0,52
 "Joseph ""Joe"" Lannan",State Representative,63,D,Dubois,Precinct 31,1,10,0,11
 ,Registered Voters,,,Dubois,Precinct 32,,,,289
-,Ballots Cast,,,Dubois,Precinct 32,,,,86
+,Ballots Cast,,,Dubois,Precinct 32,86,81,0,167
 Mike Braun,U.S. Senate,,R,Dubois,Precinct 32,56,65,0,121
 Joe Donnelly,U.S. Senate,,D,Dubois,Precinct 32,23,15,0,38
 Lucy M Brenton,U.S. Senate,,L,Dubois,Precinct 32,5,1,0,6
@@ -704,7 +704,7 @@ Nicholas A. (Nick) Siler,State Senate,47,D,Dubois,Precinct 32,15,19,0,34
 Shane M. Lindauer,State Representative,63,R,Dubois,Precinct 32,58,60,0,118
 "Joseph ""Joe"" Lannan",State Representative,63,D,Dubois,Precinct 32,22,20,0,42
 ,Registered Voters,,,Dubois,Precinct 33,,,,761
-,Ballots Cast,,,Dubois,Precinct 33,,,,175
+,Ballots Cast,,,Dubois,Precinct 33,175,318,0,493
 Mike Braun,U.S. Senate,,R,Dubois,Precinct 33,127,210,0,337
 Joe Donnelly,U.S. Senate,,D,Dubois,Precinct 33,39,96,0,135
 Lucy M Brenton,U.S. Senate,,L,Dubois,Precinct 33,9,9,0,0
@@ -726,7 +726,7 @@ Nicholas A. (Nick) Siler,State Senate,47,D,Dubois,Precinct 33,34,89,0,123
 Shane M. Lindauer,State Representative,63,R,Dubois,Precinct 33,122,204,0,326
 "Joseph ""Joe"" Lannan",State Representative,63,D,Dubois,Precinct 33,49,101,0,150
 ,Registered Voters,,,Dubois,Precinct 34,,,,949
-,Ballots Cast,,,Dubois,Precinct 34,,,,271
+,Ballots Cast,,,Dubois,Precinct 34,271,194,0,465
 Mike Braun,U.S. Senate,,R,Dubois,Precinct 34,161,130,0,291
 Joe Donnelly,U.S. Senate,,D,Dubois,Precinct 34,88,51,0,139
 Lucy M Brenton,U.S. Senate,,L,Dubois,Precinct 34,21,7,0,28
@@ -748,7 +748,7 @@ No Candidate Filed,State Senate,48,D,Dubois,Precinct 34,0,0,0,0
 Stephen R Bartels,State Representative,74,R,Dubois,Precinct 34,174,128,0,302
 Lary K Kleeman,State Representative,74,D,Dubois,Precinct 34,91,58,0,149
 ,Registered Voters,,,Dubois,Precinct 35,,,,876
-,Ballots Cast,,,Dubois,Precinct 35,,,,267
+,Ballots Cast,,,Dubois,Precinct 35,267,192,0,459
 Mike Braun,U.S. Senate,,R,Dubois,Precinct 35,161,112,0,273
 Joe Donnelly,U.S. Senate,,D,Dubois,Precinct 35,94,65,0,159
 Lucy M Brenton,U.S. Senate,,L,Dubois,Precinct 35,11,14,0,25
@@ -770,7 +770,7 @@ No Candidate Filed,State Senate,48,D,Dubois,Precinct 35,0,0,0,0
 Stephen R Bartels,State Representative,74,R,Dubois,Precinct 35,161,123,0,284
 Larry K Kleeman,State Representative,74,D,Dubois,Precinct 35,98,65,0,163
 ,Registered Voters,,,Dubois,Precinct 36,,,,913
-,Ballots Cast,,,Dubois,Precinct 36,,,,291
+,Ballots Cast,,,Dubois,Precinct 36,291,163,0,454
 Mike Braun,U.S. Senate,,R,Dubois,Precinct 36,195,98,0,293
 Joe Donnelly,U.S. Senate,,D,Dubois,Precinct 36,78,60,0,138
 Lucy M Brenton,U.S. Senate,,L,Dubois,Precinct 36,15,5,0,20
@@ -792,7 +792,7 @@ No Candidate Filed,State Senate,48,D,Dubois,Precinct 36,0,0,0,0
 Stephen R Bartels,State Representative,74,R,Dubois,Precinct 36,211,99,0,310
 Larry K Kleeman,State Representative,74,D,Dubois,Precinct 36,71,61,0,132
 ,Registered Voters,,,Dubois,Precinct 37,,,,784
-,Ballots Cast,,,Dubois,Precinct 37,,,,199
+,Ballots Cast,,,Dubois,Precinct 37,199,82,0,281
 Mike Braun,U.S. Senate,,R,Dubois,Precinct 37,99,44,0,143
 Joe Donnelly,U.S. Senate,,D,Dubois,Precinct 37,83,34,0,117
 Lucy M Brenton,U.S. Senate,,L,Dubois,Precinct 37,13,3,0,16
@@ -814,7 +814,7 @@ No Candidate Filed,State Senate,48,D,Dubois,Precinct 37,0,0,0,0
 Stephen R Bartels,State Representative,74,R,Dubois,Precinct 37,106,45,0,151
 Larry K Kleeman,State Representative,74,D,Dubois,Precinct 37,86,34,0,120
 ,Registered Voters,,,Dubois,Precinct 38,,,,344
-,Ballots Cast,,,Dubois,Precinct 38,,,,118
+,Ballots Cast,,,Dubois,Precinct 38,118,70,0,188
 Mike Braun,U.S. Senate,,R,Dubois,Precinct 38,83,51,0,134
 Joe Donnelly,U.S. Senate,,D,Dubois,Precinct 38,32,16,0,48
 Lucy M Brenton,U.S. Senate,,L,Dubois,Precinct 38,1,2,0,3
@@ -836,7 +836,7 @@ No Candidate Filed,State Senate,48,D,Dubois,Precinct 38,0,0,0,0
 Stephen R Bartels,State Representative,74,R,Dubois,Precinct 38,82,44,0,126
 Larry K Kleeman,State Representative,74,D,Dubois,Precinct 38,34,22,0,56
 ,Registered Voters,,,Dubois,Precinct 39,,,,764
-,Ballots Cast,,,Dubois,Precinct 39,,,,223
+,Ballots Cast,,,Dubois,Precinct 39,223,228,0,451
 Mike Braun,U.S. Senate,,R,Dubois,Precinct 39,156,147,0,303
 Joe Donnelly,U.S. Senate,,D,Dubois,Precinct 39,51,74,0,125
 Lucy M Brenton,U.S. Senate,,L,Dubois,Precinct 39,15,5,0,20
@@ -858,7 +858,7 @@ No Candidate Filed,State Senate,48,D,Dubois,Precinct 39,0,0,0,0
 Stephen R Bartels,State Representative,74,R,Dubois,Precinct 39,178,154,0,332
 Larry K Kleeman,State Representative,74,D,Dubois,Precinct 39,40,62,0,102
 ,Registered Voters,,,Dubois,Precinct 40,,,,91
-,Ballots Cast,,,Dubois,Precinct 40,,,,32
+,Ballots Cast,,,Dubois,Precinct 40,32,25,0,57
 Mike Braun,U.S. Senate,,R,Dubois,Precinct 40,19,13,0,32
 Joe Donnelly,U.S. Senate,,D,Dubois,Precinct 40,11,11,0,22
 Lucy M Brenton,U.S. Senate,,L,Dubois,Precinct 40,2,1,0,3

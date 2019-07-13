@@ -1,6 +1,6 @@
 candidate,office,district,party,county,precinct,election_day,absentee,provisional,votes
 ,Registered Voters,,,Delaware,Precinct 1,,,,1445
-,Ballots Cast,,,Delaware,Precinct 1,,,,368
+,Ballots Cast,,,Delaware,Precinct 1,368,136,0,504
 Mike Braun,U.S. Senate,,R,Delaware,Precinct 1,93,31,0,124
 Joe Donnelly,U.S. Senate,,D,Delaware,Precinct 1,245,97,0,342
 Lucy M Brenton,U.S. Senate,,L,Delaware,Precinct 1,25,6,0,31
@@ -24,7 +24,7 @@ Robert Q Jozwiak ,State Senate,25,L,Delaware,Precinct 1,14,5,0,19
 No Candidate Filed,State Representative,34,R ,Delaware,Precinct 1,0,0,0,0
 Sue Errington ,State Representative,34,D,Delaware,Precinct 1,280,108,0,388
 ,Registered Voters,,,Delaware,Precinct 2,,,,847
-,Ballots Cast,,,Delaware,Precinct 2,,,,404
+,Ballots Cast,,,Delaware,Precinct 2,404,130,0,534
 Mike Braun,U.S. Senate,,R,Delaware,Precinct 2,187,68,0,255
 Joe Donnelly,U.S. Senate,,D,Delaware,Precinct 2,195,58,0,253
 Lucy M Brenton,U.S. Senate,,L,Delaware,Precinct 2,13,4,0,17
@@ -48,7 +48,7 @@ Robert Q Jozwiak ,State Senate,25,L,Delaware,Precinct 2,4,5,0,9
 Ben W Fisher,State Representative,35,R ,Delaware,Precinct 2,177,64,0,241
 Melanie M Wright,State Representative,35,D,Delaware,Precinct 2,212,62,0,274
 ,Registered Voters,,,Delaware,Precinct 3,,,,673
-,Ballots Cast,,,Delaware,Precinct 3,,,,322
+,Ballots Cast,,,Delaware,Precinct 3,322,107,0,429
 Mike Braun,U.S. Senate,,R,Delaware,Precinct 3,151,37,0,188
 Joe Donnelly,U.S. Senate,,D,Delaware,Precinct 3,156,63,0,219
 Lucy M Brenton,U.S. Senate,,L,Delaware,Precinct 3,13,4,0,17
@@ -72,7 +72,7 @@ Robert Q Jozwiak ,State Senate,25,L,Delaware,Precinct 3,13,2,0,15
 No Candidate Filed,State Representative,34,R ,Delaware,Precinct 3,0,0,0,0
 Sue Errington ,State Representative,34,D,Delaware,Precinct 3,211,75,0,286
 ,Registered Voters,,,Delaware,Precinct 4,,,,1520
-,Ballots Cast,,,Delaware,Precinct 4,,,,404
+,Ballots Cast,,,Delaware,Precinct 4,404,124,0,528
 Mike Braun,U.S. Senate,,R,Delaware,Precinct 4,110,43,0,153
 Joe Donnelly,U.S. Senate,,D,Delaware,Precinct 4,269,73,0,342
 Lucy M Brenton,U.S. Senate,,L,Delaware,Precinct 4,19,5,0,24
@@ -96,7 +96,7 @@ Robert Q Jozwiak ,State Senate,25,L,Delaware,Precinct 4,14,3,0,17
 No Candidate Filed,State Representative,34,R ,Delaware,Precinct 4,0,0,0,0
 Sue Errington ,State Representative,34,D,Delaware,Precinct 4,315,90,0,405
 ,Registered Voters,,,Delaware,Precinct 5,,,,13
-,Ballots Cast,,,Delaware,Precinct 5,,,,9
+,Ballots Cast,,,Delaware,Precinct 5,9,1,0,10
 Mike Braun,U.S. Senate,,R,Delaware,Precinct 5,7,1,0,8
 Joe Donnelly,U.S. Senate,,D,Delaware,Precinct 5,2,0,0,2
 Lucy M Brenton,U.S. Senate,,L,Delaware,Precinct 5,0,0,0,0
@@ -120,7 +120,7 @@ Robert Q Jozwiak ,State Senate,25,L,Delaware,Precinct 5,0,0,0,0
 Ben W Fisher,State Representative,35,R ,Delaware,Precinct 5,5,1,0,6
 Melanie M Wright,State Representative,35,D,Delaware,Precinct 5,4,0,0,4
 ,Registered Voters,,,Delaware,Precinct 6,,,,1669
-,Ballots Cast,,,Delaware,Precinct 6,,,,389
+,Ballots Cast,,,Delaware,Precinct 6,389,71,0,460
 Mike Braun,U.S. Senate,,R,Delaware,Precinct 6,72,14,0,86
 Joe Donnelly,U.S. Senate,,D,Delaware,Precinct 6,286,55,0,341
 Lucy M Brenton,U.S. Senate,,L,Delaware,Precinct 6,28,2,0,30
@@ -144,7 +144,7 @@ Robert Q Jozwiak ,State Senate,25,L,Delaware,Precinct 6,20,1,0,21
 No Candidate Filed,State Representative,34,R ,Delaware,Precinct 6,0,0,0,0
 Sue Errington ,State Representative,34,D,Delaware,Precinct 6,327,58,0,385
 ,Registered Voters,,,Delaware,Precinct 7,,,,1372
-,Ballots Cast,,,Delaware,Precinct 7,,,,311
+,Ballots Cast,,,Delaware,Precinct 7,311,110,0,421
 Mike Braun,U.S. Senate,,R,Delaware,Precinct 7,111,25,0,136
 Joe Donnelly,U.S. Senate,,D,Delaware,Precinct 7,173,77,0,250
 Lucy M Brenton,U.S. Senate,,L,Delaware,Precinct 7,24,6,0,30
@@ -168,7 +168,7 @@ Robert Q Jozwiak ,State Senate,25,L,Delaware,Precinct 7,13,4,0,17
 No Candidate Filed,State Representative,34,R ,Delaware,Precinct 7,0,0,0,0
 Sue Errington ,State Representative,34,D,Delaware,Precinct 7,233,86,0,319
 ,Registered Voters,,,Delaware,Precinct 8,,,,1144
-,Ballots Cast,,,Delaware,Precinct 8,,,,419
+,Ballots Cast,,,Delaware,Precinct 8,419,104,0,523
 Mike Braun,U.S. Senate,,R,Delaware,Precinct 8,161,36,0,197
 Joe Donnelly,U.S. Senate,,D,Delaware,Precinct 8,228,62,0,290
 Lucy M Brenton,U.S. Senate,,L,Delaware,Precinct 8,27,4,0,31
@@ -192,7 +192,7 @@ Robert Q Jozwiak ,State Senate,25,L,Delaware,Precinct 8,10,1,0,11
 No Candidate Filed,State Representative,34,R ,Delaware,Precinct 8,0,0,0,0
 Sue Errington ,State Representative,34,D,Delaware,Precinct 8,301,75,0,376
 ,Registered Voters,,,Delaware,Precinct 9,,,,1364
-,Ballots Cast,,,Delaware,Precinct 9,,,,339
+,Ballots Cast,,,Delaware,Precinct 9,339,111,0,450
 Mike Braun,U.S. Senate,,R,Delaware,Precinct 9,164,45,0,209
 Joe Donnelly,U.S. Senate,,D,Delaware,Precinct 9,149,59,0,208
 Lucy M Brenton,U.S. Senate,,L,Delaware,Precinct 9,21,6,0,27
@@ -216,7 +216,7 @@ Robert Q Jozwiak ,State Senate,25,L,Delaware,Precinct 9,14,5,0,19
 No Candidate Filed,State Representative,34,R ,Delaware,Precinct 9,0,0,0,0
 Sue Errington ,State Representative,34,D,Delaware,Precinct 9,213,64,0,277
 ,Registered Voters,,,Delaware,Precinct 10,,,,1259
-,Ballots Cast,,,Delaware,Precinct 10,,,,221
+,Ballots Cast,,,Delaware,Precinct 10,221,68,0,289
 Mike Braun,U.S. Senate,,R,Delaware,Precinct 10,49,23,0,72
 Joe Donnelly,U.S. Senate,,D,Delaware,Precinct 10,156,44,0,200
 Lucy M Brenton,U.S. Senate,,L,Delaware,Precinct 10,14,1,0,15
@@ -240,7 +240,7 @@ Robert Q Jozwiak ,State Senate,25,L,Delaware,Precinct 10,12,0,0,12
 No Candidate Filed,State Representative,34,R ,Delaware,Precinct 10,0,0,0,0
 Sue Errington ,State Representative,34,D,Delaware,Precinct 10,190,51,0,241
 ,Registered Voters,,,Delaware,Precinct 11,,,,1218
-,Ballots Cast,,,Delaware,Precinct 11,,,,335
+,Ballots Cast,,,Delaware,Precinct 11,335,131,0,466
 Mike Braun,U.S. Senate,,R,Delaware,Precinct 11,96,35,0,131
 Joe Donnelly,U.S. Senate,,D,Delaware,Precinct 11,222,85,0,307
 Lucy M Brenton,U.S. Senate,,L,Delaware,Precinct 11,12,7,0,19
@@ -264,7 +264,7 @@ Robert Q Jozwiak ,State Senate,25,L,Delaware,Precinct 11,13,3,0,16
 No Candidate Filed,State Representative,34,R ,Delaware,Precinct 11,0,0,0,0
 Sue Errington ,State Representative,34,D,Delaware,Precinct 11,246,98,0,344
 ,Registered Voters,,,Delaware,Precinct 12,,,,800
-,Ballots Cast,,,Delaware,Precinct 12,,,,251
+,Ballots Cast,,,Delaware,Precinct 12,251,109,0,360
 Mike Braun,U.S. Senate,,R,Delaware,Precinct 12,21,5,0,26
 Joe Donnelly,U.S. Senate,,D,Delaware,Precinct 12,220,100,0,320
 Lucy M Brenton,U.S. Senate,,L,Delaware,Precinct 12,9,2,0,11
@@ -288,7 +288,7 @@ Robert Q Jozwiak ,State Senate,25,L,Delaware,Precinct 12,3,2,0,5
 No Candidate Filed,State Representative,34,R ,Delaware,Precinct 12,0,0,0,0
 Sue Errington ,State Representative,34,D,Delaware,Precinct 12,229,102,0,331
 ,Registered Voters,,,Delaware,Precinct 13,,,,1407
-,Ballots Cast,,,Delaware,Precinct 13,,,,310
+,Ballots Cast,,,Delaware,Precinct 13,310,99,0,409
 Mike Braun,U.S. Senate,,R,Delaware,Precinct 13,128,25,0,153
 Joe Donnelly,U.S. Senate,,D,Delaware,Precinct 13,157,69,0,226
 Lucy M Brenton,U.S. Senate,,L,Delaware,Precinct 13,22,4,0,26
@@ -312,7 +312,7 @@ Robert Q Jozwiak ,State Senate,25,L,Delaware,Precinct 13,11,1,0,12
 No Candidate Filed,State Representative,34,R ,Delaware,Precinct 13,0,0,0,0
 Sue Errington ,State Representative,34,D,Delaware,Precinct 13,222,75,0,297
 ,Registered Voters,,,Delaware,Precinct 14,,,,1238
-,Ballots Cast,,,Delaware,Precinct 14,,,,452
+,Ballots Cast,,,Delaware,Precinct 14,452,131,0,583
 Mike Braun,U.S. Senate,,R,Delaware,Precinct 14,176,49,0,225
 Joe Donnelly,U.S. Senate,,D,Delaware,Precinct 14,235,76,0,311
 Lucy M Brenton,U.S. Senate,,L,Delaware,Precinct 14,34,5,0,39
@@ -336,7 +336,7 @@ Robert Q Jozwiak ,State Senate,25,L,Delaware,Precinct 14,19,3,0,22
 No Candidate Filed,State Representative,34,R ,Delaware,Precinct 14,0,0,0,0
 Sue Errington ,State Representative,34,D,Delaware,Precinct 14,314,80,0,394
 ,Registered Voters,,,Delaware,Precinct 15,,,,1328
-,Ballots Cast,,,Delaware,Precinct 15,,,,324
+,Ballots Cast,,,Delaware,Precinct 15,324,79,0,403
 Mike Braun,U.S. Senate,,R,Delaware,Precinct 15,141,20,0,161
 Joe Donnelly,U.S. Senate,,D,Delaware,Precinct 15,157,52,0,209
 Lucy M Brenton,U.S. Senate,,L,Delaware,Precinct 15,21,7,0,28
@@ -360,7 +360,7 @@ Robert Q Jozwiak ,State Senate,25,L,Delaware,Precinct 15,11,2,0,13
 No Candidate Filed,State Representative,34,R ,Delaware,Precinct 15,0,0,0,0
 Sue Errington ,State Representative,34,D,Delaware,Precinct 15,218,54,0,272
 ,Registered Voters,,,Delaware,Precinct 18,,,,969
-,Ballots Cast,,,Delaware,Precinct 18,,,,257
+,Ballots Cast,,,Delaware,Precinct 18,257,88,0,345
 Mike Braun,U.S. Senate,,R,Delaware,Precinct 18,33,9,0,42
 Joe Donnelly,U.S. Senate,,D,Delaware,Precinct 18,207,77,0,284
 Lucy M Brenton,U.S. Senate,,L,Delaware,Precinct 18,14,2,0,16
@@ -384,7 +384,7 @@ Robert Q Jozwiak ,State Senate,25,L,Delaware,Precinct 18,6,1,0,7
 No Candidate Filed,State Representative,34,R ,Delaware,Precinct 18,0,0,0,0
 Sue Errington ,State Representative,34,D,Delaware,Precinct 18,223,77,0,300
 ,Registered Voters,,,Delaware,Precinct 19,,,,1095
-,Ballots Cast,,,Delaware,Precinct 19,,,,245
+,Ballots Cast,,,Delaware,Precinct 19,245,57,1,303
 Mike Braun,U.S. Senate,,R,Delaware,Precinct 19,56,10,0,66
 Joe Donnelly,U.S. Senate,,D,Delaware,Precinct 19,168,43,1,212
 Lucy M Brenton,U.S. Senate,,L,Delaware,Precinct 19,15,3,0,18
@@ -408,7 +408,7 @@ Robert Q Jozwiak ,State Senate,25,L,Delaware,Precinct 19,10,1,0,11
 No Candidate Filed,State Representative,34,R ,Delaware,Precinct 19,0,0,0,0
 Sue Errington ,State Representative,34,D,Delaware,Precinct 19,192,48,1,241
 ,Registered Voters,,,Delaware,Precinct 20,,,,1217
-,Ballots Cast,,,Delaware,Precinct 20,,,,281
+,Ballots Cast,,,Delaware,Precinct 20,281,116,0,397
 Mike Braun,U.S. Senate,,R,Delaware,Precinct 20,21,8,0,29
 Joe Donnelly,U.S. Senate,,D,Delaware,Precinct 20,243,102,0,345
 Lucy M Brenton,U.S. Senate,,L,Delaware,Precinct 20,10,0,0,10
@@ -432,7 +432,7 @@ Robert Q Jozwiak ,State Senate,25,L,Delaware,Precinct 20,4,0,0,4
 No Candidate Filed,State Representative,34,R ,Delaware,Precinct 20,0,0,0,0
 Sue Errington ,State Representative,34,D,Delaware,Precinct 20,252,102,0,354
 ,Registered Voters,,,Delaware,Precinct 22,,,,1663
-,Ballots Cast,,,Delaware,Precinct 22,,,,419
+,Ballots Cast,,,Delaware,Precinct 22,419,113,0,532
 Mike Braun,U.S. Senate,,R,Delaware,Precinct 22,163,42,0,205
 Joe Donnelly,U.S. Senate,,D,Delaware,Precinct 22,225,67,0,292
 Lucy M Brenton,U.S. Senate,,L,Delaware,Precinct 22,27,3,0,30
@@ -456,7 +456,7 @@ Robert Q Jozwiak ,State Senate,25,L,Delaware,Precinct 22,24,5,0,29
 No Candidate Filed,State Representative,34,R ,Delaware,Precinct 22,0,0,,0
 Sue Errington ,State Representative,34,D,Delaware,Precinct 22,311,77,0,388
 ,Registered Voters,,,Delaware,Precinct 23,,,,969
-,Ballots Cast,,,Delaware,Precinct 23,,,,284
+,Ballots Cast,,,Delaware,Precinct 23,284,74,0,358
 Mike Braun,U.S. Senate,,R,Delaware,Precinct 23,138,21,0,159
 Joe Donnelly,U.S. Senate,,D,Delaware,Precinct 23,117,49,0,166
 Lucy M Brenton,U.S. Senate,,L,Delaware,Precinct 23,24,3,0,27
@@ -480,7 +480,7 @@ Robert Q Jozwiak ,State Senate,25,L,Delaware,Precinct 23,16,1,0,17
 No Candidate Filed,State Representative,34,R ,Delaware,Precinct 23,0,0,0,0
 Sue Errington ,State Representative,34,D,Delaware,Precinct 23,177,57,0,234
 ,Registered Voters,,,Delaware,Precinct 25,,,,1076
-,Ballots Cast,,,Delaware,Precinct 25,,,,272
+,Ballots Cast,,,Delaware,Precinct 25,272,84,0,356
 Mike Braun,U.S. Senate,,R,Delaware,Precinct 25,73,21,0,94
 Joe Donnelly,U.S. Senate,,D,Delaware,Precinct 25,165,57,0,222
 Lucy M Brenton,U.S. Senate,,L,Delaware,Precinct 25,27,4,0,31
@@ -504,7 +504,7 @@ Robert Q Jozwiak ,State Senate,25,L,Delaware,Precinct 25,10,2,0,12
 No Candidate Filed,State Representative,34,R ,Delaware,Precinct 25,0,0,0,0
 Sue Errington ,State Representative,34,D,Delaware,Precinct 25,214,66,0,280
 ,Registered Voters,,,Delaware,Precinct 26,,,,463
-,Ballots Cast,,,Delaware,Precinct 26,,,,166
+,Ballots Cast,,,Delaware,Precinct 26,166,79,0,245
 Mike Braun,U.S. Senate,,R,Delaware,Precinct 26,44,27,0,71
 Joe Donnelly,U.S. Senate,,D,Delaware,Precinct 26,116,51,0,167
 Lucy M Brenton,U.S. Senate,,L,Delaware,Precinct 26,5,1,0,6
@@ -528,7 +528,7 @@ Robert Q Jozwiak ,State Senate,25,L,Delaware,Precinct 26,2,1,0,3
 No Candidate Filed,State Representative,34,R ,Delaware,Precinct 26,0,0,0,0
 Sue Errington ,State Representative,34,D,Delaware,Precinct 26,131,56,0,187
 ,Registered Voters,,,Delaware,Precinct 27,,,,2628
-,Ballots Cast,,,Delaware,Precinct 27,,,,516
+,Ballots Cast,,,Delaware,Precinct 27,516,87,0,603
 Mike Braun,U.S. Senate,,R,Delaware,Precinct 27,86,14,0,100
 Joe Donnelly,U.S. Senate,,D,Delaware,Precinct 27,392,68,0,460
 Lucy M Brenton,U.S. Senate,,L,Delaware,Precinct 27,37,5,0,42
@@ -552,7 +552,7 @@ Robert Q Jozwiak ,State Senate,25,L,Delaware,Precinct 27,27,3,0,30
 No Candidate Filed,State Representative,34,R ,Delaware,Precinct 27,0,0,0,0
 Sue Errington ,State Representative,34,D,Delaware,Precinct 27,446,76,0,522
 ,Registered Voters,,,Delaware,Precinct 28,,,,1526
-,Ballots Cast,,,Delaware,Precinct 28,,,,421
+,Ballots Cast,,,Delaware,Precinct 28,421,131,0,552
 Mike Braun,U.S. Senate,,R,Delaware,Precinct 28,169,49,0,218
 Joe Donnelly,U.S. Senate,,D,Delaware,Precinct 28,214,74,0,288
 Lucy M Brenton,U.S. Senate,,L,Delaware,Precinct 28,30,5,0,35
@@ -576,7 +576,7 @@ Robert Q Jozwiak ,State Senate,25,L,Delaware,Precinct 28,18,1,0,19
 No Candidate Filed,State Representative,34,R ,Delaware,Precinct 28,0,0,0,0
 Sue Errington ,State Representative,34,D,Delaware,Precinct 28,298,85,0,383
 ,Registered Voters,,,Delaware,Precinct 29,,,,1327
-,Ballots Cast,,,Delaware,Precinct 29,,,,467
+,Ballots Cast,,,Delaware,Precinct 29,467,151,0,618
 Mike Braun,U.S. Senate,,R,Delaware,Precinct 29,226,63,0,289
 Joe Donnelly,U.S. Senate,,D,Delaware,Precinct 29,205,77,0,282
 Lucy M Brenton,U.S. Senate,,L,Delaware,Precinct 29,30,5,0,35
@@ -601,7 +601,7 @@ John (J.D.) Prescott,State Representative,33,R ,Delaware,Precinct 29,217,56,0,27
 Shon Byrum,State Representative,33,D,Delaware,Precinct 29,205,86,0,291
 Dale Amett,State Representative,33,L,Delaware,Precinct 29,17,2,0,19
 ,Registered Voters,,,Delaware,Precinct 33,,,,1251
-,Ballots Cast,,,Delaware,Precinct 33,,,,622
+,Ballots Cast,,,Delaware,Precinct 33,622,165,0,787
 Mike Braun,U.S. Senate,,R,Delaware,Precinct 33,240,46,0,286
 Joe Donnelly,U.S. Senate,,D,Delaware,Precinct 33,344,108,0,452
 Lucy M Brenton,U.S. Senate,,L,Delaware,Precinct 33,32,7,0,39
@@ -625,7 +625,7 @@ Robert Q Jozwiak ,State Senate,25,L,Delaware,Precinct 33,22,2,0,24
 No Candidate Filed,State Representative,34,R ,Delaware,Precinct 33,0,0,0,0
 Sue Errington ,State Representative,34,D,Delaware,Precinct 33,448,118,0,566
 ,Registered Voters,,,Delaware,Precinct 34,,,,757
-,Ballots Cast,,,Delaware,Precinct 34,,,,399
+,Ballots Cast,,,Delaware,Precinct 34,399,112,0,511
 Mike Braun,U.S. Senate,,R,Delaware,Precinct 34,171,37,0,208
 Joe Donnelly,U.S. Senate,,D,Delaware,Precinct 34,208,74,0,282
 Lucy M Brenton,U.S. Senate,,L,Delaware,Precinct 34,17,1,0,18
@@ -649,7 +649,7 @@ Robert Q Jozwiak ,State Senate,25,L,Delaware,Precinct 34,8,1,0,9
 No Candidate Filed,State Representative,34,R ,Delaware,Precinct 34,0,0,0,0
 Sue Errington ,State Representative,34,D,Delaware,Precinct 34,262,77,0,339
 ,Registered Voters,,,Delaware,Precinct 35,,,,1261
-,Ballots Cast,,,Delaware,Precinct 35,,,,387
+,Ballots Cast,,,Delaware,Precinct 35,387,132,0,519
 Mike Braun,U.S. Senate,,R,Delaware,Precinct 35,151,40,0,191
 Joe Donnelly,U.S. Senate,,D,Delaware,Precinct 35,198,84,0,282
 Lucy M Brenton,U.S. Senate,,L,Delaware,Precinct 35,32,8,0,40
@@ -673,7 +673,7 @@ Robert Q Jozwiak ,State Senate,25,L,Delaware,Precinct 35,7,2,0,9
 No Candidate Filed,State Representative,34,R ,Delaware,Precinct 35,0,0,0,0
 Sue Errington ,State Representative,34,D,Delaware,Precinct 35,270,91,0,361
 ,Registered Voters,,,Delaware,Precinct 36,,,,1264
-,Ballots Cast,,,Delaware,Precinct 36,,,,467
+,Ballots Cast,,,Delaware,Precinct 36,467,201,0,668
 Mike Braun,U.S. Senate,,R,Delaware,Precinct 36,163,63,0,226
 Joe Donnelly,U.S. Senate,,D,Delaware,Precinct 36,266,129,0,395
 Lucy M Brenton,U.S. Senate,,L,Delaware,Precinct 36,33,8,0,41
@@ -697,7 +697,7 @@ Robert Q Jozwiak ,State Senate,25,L,Delaware,Precinct 36,16,4,0,20
 No Candidate Filed,State Representative,34,R ,Delaware,Precinct 36,0,0,0,0
 Sue Errington ,State Representative,34,D,Delaware,Precinct 36,338,140,0,478
 ,Registered Voters,,,Delaware,Precinct 38,,,,891
-,Ballots Cast,,,Delaware,Precinct 38,,,,420
+,Ballots Cast,,,Delaware,Precinct 38,420,136,0,556
 Mike Braun,U.S. Senate,,R,Delaware,Precinct 38,186,48,0,234
 Joe Donnelly,U.S. Senate,,D,Delaware,Precinct 38,204,79,0,283
 Lucy M Brenton,U.S. Senate,,L,Delaware,Precinct 38,26,8,0,34
@@ -721,7 +721,7 @@ Robert Q Jozwiak ,State Senate,25,L,Delaware,Precinct 38,16,2,0,18
 No Candidate Filed,State Representative,34,R ,Delaware,Precinct 38,0,0,0,0
 Sue Errington ,State Representative,34,D,Delaware,Precinct 38,275,87,0,362
 ,Registered Voters,,,Delaware,Precinct 39,,,,877
-,Ballots Cast,,,Delaware,Precinct 39,,,,231
+,Ballots Cast,,,Delaware,Precinct 39,231,137,0,368
 Mike Braun,U.S. Senate,,R,Delaware,Precinct 39,99,37,0,136
 Joe Donnelly,U.S. Senate,,D,Delaware,Precinct 39,117,87,0,204
 Lucy M Brenton,U.S. Senate,,L,Delaware,Precinct 39,13,9,0,22
@@ -745,7 +745,7 @@ Robert Q Jozwiak ,State Senate,25,L,Delaware,Precinct 39,14,2,0,16
 No Candidate Filed,State Representative,34,R ,Delaware,Precinct 39,0,0,0,0
 Sue Errington ,State Representative,34,D,Delaware,Precinct 39,156,100,0,256
 ,Registered Voters,,,Delaware,Precinct 40,,,,1135
-,Ballots Cast,,,Delaware,Precinct 40,,,,428
+,Ballots Cast,,,Delaware,Precinct 40,428,163,0,591
 Mike Braun,U.S. Senate,,R,Delaware,Precinct 40,185,67,0,252
 Joe Donnelly,U.S. Senate,,D,Delaware,Precinct 40,207,86,0,293
 Lucy M Brenton,U.S. Senate,,L,Delaware,Precinct 40,32,10,0,42
@@ -769,7 +769,7 @@ Robert Q Jozwiak ,State Senate,25,L,Delaware,Precinct 40,8,2,0,10
 No Candidate Filed,State Representative,34,R ,Delaware,Precinct 40,0,0,0,0
 Sue Errington ,State Representative,34,D,Delaware,Precinct 40,285,108,0,393
 ,Registered Voters,,,Delaware,Precinct 41,,,,697
-,Ballots Cast,,,Delaware,Precinct 41,,,,242
+,Ballots Cast,,,Delaware,Precinct 41,242,96,0,338
 Mike Braun,U.S. Senate,,R,Delaware,Precinct 41,111,37,0,148
 Joe Donnelly,U.S. Senate,,D,Delaware,Precinct 41,108,54,0,162
 Lucy M Brenton,U.S. Senate,,L,Delaware,Precinct 41,18,2,0,20
@@ -794,7 +794,7 @@ John (J.D.) Prescott,State Representative,33,R ,Delaware,Precinct 41,120,39,0,15
 Shon Byrum,State Representative,33,D,Delaware,Precinct 41,106,51,0,157
 Dale Amett,State Representative,33,L,Delaware,Precinct 41,9,1,0,10
 ,Registered Voters,,,Delaware,Precinct 42,,,,76
-,Ballots Cast,,,Delaware,Precinct 42,,,,39
+,Ballots Cast,,,Delaware,Precinct 42,39,12,0,51
 Mike Braun,U.S. Senate,,R,Delaware,Precinct 42,14,2,0,16
 Joe Donnelly,U.S. Senate,,D,Delaware,Precinct 42,24,9,0,33
 Lucy M Brenton,U.S. Senate,,L,Delaware,Precinct 42,1,1,0,2
@@ -818,7 +818,7 @@ Robert Q Jozwiak ,State Senate,25,L,Delaware,Precinct 42,0,1,0,1
 Ben W. Fisher,State Representative,35,R ,Delaware,Precinct 42,14,3,0,17
 Melanie M Wright,State Representative,35,D,Delaware,Precinct 42,25,9,0,34
 ,Registered Voters,,,Delaware,Precinct 43,,,,100
-,Ballots Cast,,,Delaware,Precinct 43,,,,44
+,Ballots Cast,,,Delaware,Precinct 43,44,4,0,48
 Mike Braun,U.S. Senate,,R,Delaware,Precinct 43,25,3,0,28
 Joe Donnelly,U.S. Senate,,D,Delaware,Precinct 43,16,1,0,1
 Lucy M Brenton,U.S. Senate,,L,Delaware,Precinct 43,0,0,0,0
@@ -842,7 +842,7 @@ Robert Q Jozwiak ,State Senate,25,L,Delaware,Precinct 43,2,0,0,2
 No Candidate Filed,State Representative,34,R ,Delaware,Precinct 43,0,0,0,0
 Sue Errington ,State Representative,34,D,Delaware,Precinct 43,24,1,0,25
 ,Registered Voters,,,Delaware,Precinct 44,,,,630
-,Ballots Cast,,,Delaware,Precinct 44,,,,230
+,Ballots Cast,,,Delaware,Precinct 44,230,51,0,281
 Mike Braun,U.S. Senate,,R,Delaware,Precinct 44,134,24,0,158
 Joe Donnelly,U.S. Senate,,D,Delaware,Precinct 44,81,21,0,102
 Lucy M Brenton,U.S. Senate,,L,Delaware,Precinct 44,12,4,0,16
@@ -866,7 +866,7 @@ Robert Q Jozwiak ,State Senate,25,L,Delaware,Precinct 44,12,0,0,12
 Ben W. Fisher,State Representative,35,R ,Delaware,Precinct 44,119,23,0,142
 Melanie M Wright,State Representative,35,D,Delaware,Precinct 44,106,26,0,132
 ,Registered Voters,,,Delaware,Precinct 45,,,,983
-,Ballots Cast,,,Delaware,Precinct 45,,,,429
+,Ballots Cast,,,Delaware,Precinct 45,429,128,0,557
 Mike Braun,U.S. Senate,,R,Delaware,Precinct 45,178,55,0,233
 Joe Donnelly,U.S. Senate,,D,Delaware,Precinct 45,228,70,0,298
 Lucy M Brenton,U.S. Senate,,L,Delaware,Precinct 45,19,2,0,21
@@ -890,7 +890,7 @@ Robert Q Jozwiak ,State Senate,25,L,Delaware,Precinct 45,15,2,0,17
 No Candidate Filed,State Representative,34,R ,Delaware,Precinct 45,0,0,0,0
 Sue Errington ,State Representative,34,D,Delaware,Precinct 45,294,80,0,374
 ,Registered Voters,,,Delaware,Precinct 46,,,,1453
-,Ballots Cast,,,Delaware,Precinct 46,,,,422
+,Ballots Cast,,,Delaware,Precinct 46,422,144,0,566
 Mike Braun,U.S. Senate,,R,Delaware,Precinct 46,195,63,0,258
 Joe Donnelly,U.S. Senate,,D,Delaware,Precinct 46,184,66,0,250
 Lucy M Brenton,U.S. Senate,,L,Delaware,Precinct 46,36,9,0,45
@@ -914,7 +914,7 @@ Robert Q Jozwiak ,State Senate,25,L,Delaware,Precinct 46,12,0,3,15
 No Candidate Filed,State Representative,34,R ,Delaware,Precinct 46,0,0,0,0
 Sue Errington ,State Representative,34,D,Delaware,Precinct 46,275,81,0,356
 ,Registered Voters,,,Delaware,Precinct 47,,,,642
-,Ballots Cast,,,Delaware,Precinct 47,,,,312
+,Ballots Cast,,,Delaware,Precinct 47,312,73,0,385
 Mike Braun,U.S. Senate,,R,Delaware,Precinct 47,127,21,0,148
 Joe Donnelly,U.S. Senate,,D,Delaware,Precinct 47,175,49,0,224
 Lucy M Brenton,U.S. Senate,,L,Delaware,Precinct 47,10,3,0,13
@@ -938,7 +938,7 @@ Robert Q Jozwiak ,State Senate,25,L,Delaware,Precinct 47,11,1,0,12
 No Candidate Filed,State Representative,34,R ,Delaware,Precinct 47,0,0,0,0
 Sue Errington ,State Representative,34,D,Delaware,Precinct 47,208,52,0,260
 ,Registered Voters,,,Delaware,Precinct 48,,,,991
-,Ballots Cast,,,Delaware,Precinct 48,,,,248
+,Ballots Cast,,,Delaware,Precinct 48,248,48,0,296
 Mike Braun,U.S. Senate,,R,Delaware,Precinct 48,111,21,0,132
 Joe Donnelly,U.S. Senate,,D,Delaware,Precinct 48,112,26,0,138
 Lucy M Brenton,U.S. Senate,,L,Delaware,Precinct 48,18,1,0,19
@@ -962,7 +962,7 @@ Robert Q Jozwiak ,State Senate,25,L,Delaware,Precinct 48,6,0,0,6
 No Candidate Filed,State Representative,34,R ,Delaware,Precinct 48,0,0,0,0
 Sue Errington ,State Representative,34,D,Delaware,Precinct 48,169,29,0,198
 ,Registered Voters,,,Delaware,Precinct 49,,,,114
-,Ballots Cast,,,Delaware,Precinct 49,,,,42
+,Ballots Cast,,,Delaware,Precinct 49,42,17,0,59
 Mike Braun,U.S. Senate,,R,Delaware,Precinct 49,24,4,0,28
 Joe Donnelly,U.S. Senate,,D,Delaware,Precinct 49,16,13,0,29
 Lucy M Brenton,U.S. Senate,,L,Delaware,Precinct 49,2,0,0,2
@@ -986,7 +986,7 @@ Robert Q Jozwiak ,State Senate,25,L,Delaware,Precinct 49,1,0,0,1
 Ben W. Fisher,State Representative,35,R ,Delaware,Precinct 49,24,5,0,29
 Melanie M Wright,State Representative,35,D,Delaware,Precinct 49,16,12,0,28
 ,Registered Voters,,,Delaware,Precinct 50,,,,982
-,Ballots Cast,,,Delaware,Precinct 50,,,,437
+,Ballots Cast,,,Delaware,Precinct 50,437,179,0,616
 Mike Braun,U.S. Senate,,R,Delaware,Precinct 50,214,75,0,289
 Joe Donnelly,U.S. Senate,,D,Delaware,Precinct 50,199,103,0,302
 Lucy M Brenton,U.S. Senate,,L,Delaware,Precinct 50,21,0,0,21
@@ -1010,7 +1010,7 @@ Robert Q Jozwiak ,State Senate,25,L,Delaware,Precinct 50,10,2,0,12
 No Candidate Filed,State Representative,34,R ,Delaware,Precinct 50,0,0,0,0
 Sue Errington ,State Representative,34,D,Delaware,Precinct 50,271,110,0,381
 ,Registered Voters,,,Delaware,Precinct 51,,,,979
-,Ballots Cast,,,Delaware,Precinct 51,,,,388
+,Ballots Cast,,,Delaware,Precinct 51,388,142,0,530
 Mike Braun,U.S. Senate,,R,Delaware,Precinct 51,239,72,0,311
 Joe Donnelly,U.S. Senate,,D,Delaware,Precinct 51,123,65,0,188
 Lucy M Brenton,U.S. Senate,,L,Delaware,Precinct 51,19,4,0,23
@@ -1034,7 +1034,7 @@ Robert Q Jozwiak ,State Senate,25,L,Delaware,Precinct 51,20,4,0,24
 Ben W. Fisher,State Representative,35,R ,Delaware,Precinct 51,190,60,0,250
 Melanie M Wright,State Representative,35,D,Delaware,Precinct 51,181,78,0,259
 ,Registered Voters,,,Delaware,Precinct 52,,,,852
-,Ballots Cast,,,Delaware,Precinct 52,,,,400
+,Ballots Cast,,,Delaware,Precinct 52,400,109,0,509
 Mike Braun,U.S. Senate,,R,Delaware,Precinct 52,250,59,0,309
 Joe Donnelly,U.S. Senate,,D,Delaware,Precinct 52,128,46,0,174
 Lucy M Brenton,U.S. Senate,,L,Delaware,Precinct 52,19,2,0,21
@@ -1058,7 +1058,7 @@ Robert Q Jozwiak ,State Senate,25,L,Delaware,Precinct 52,15,1,0,16
 Ben W. Fisher,State Representative,35,R ,Delaware,Precinct 52,192,48,0,240
 Melanie M Wright,State Representative,35,D,Delaware,Precinct 52,195,58,0,253
 ,Registered Voters,,,Delaware,Precinct 53,,,,1127
-,Ballots Cast,,,Delaware,Precinct 53,,,,436
+,Ballots Cast,,,Delaware,Precinct 53,436,92,0,528
 Mike Braun,U.S. Senate,,R,Delaware,Precinct 53,219,36,0,255
 Joe Donnelly,U.S. Senate,,D,Delaware,Precinct 53,168,51,0,219
 Lucy M Brenton,U.S. Senate,,L,Delaware,Precinct 53,44,4,0,48
@@ -1082,7 +1082,7 @@ Greg Noland,State Senate,26,L,Delaware,Precinct 53,18,2,0,20
 Ben W. Fisher,State Representative,35,R ,Delaware,Precinct 53,190,28,0,218
 Melanie M Wright,State Representative,35,D,Delaware,Precinct 53,231,62,0,293
 ,Registered Voters,,,Delaware,Precinct 54,,,,1357
-,Ballots Cast,,,Delaware,Precinct 54,,,,510
+,Ballots Cast,,,Delaware,Precinct 54,510,223,0,733
 Mike Braun,U.S. Senate,,R,Delaware,Precinct 54,292,94,0,386
 Joe Donnelly,U.S. Senate,,D,Delaware,Precinct 54,182,120,0,302
 Lucy M Brenton,U.S. Senate,,L,Delaware,Precinct 54,27,7,0,34
@@ -1106,7 +1106,7 @@ Greg Noland,State Senate,26,L,Delaware,Precinct 54,19,1,0,20
 Ben W. Fisher,State Representative,35,R ,Delaware,Precinct 54,246,91,0,337
 Melanie M Wright,State Representative,35,D,Delaware,Precinct 54,246,129,0,375
 ,Registered Voters,,,Delaware,Precinct 55,,,,1285
-,Ballots Cast,,,Delaware,Precinct 55,,,,622
+,Ballots Cast,,,Delaware,Precinct 55,622,164,0,786
 Mike Braun,U.S. Senate,,R,Delaware,Precinct 55,351,71,0,422
 Joe Donnelly,U.S. Senate,,D,Delaware,Precinct 55,229,85,0,314
 Lucy M Brenton,U.S. Senate,,L,Delaware,Precinct 55,33,6,0,39
@@ -1130,7 +1130,7 @@ Greg Noland,State Senate,26,L,Delaware,Precinct 55,15,1,0,16
 Ben W. Fisher,State Representative,35,R ,Delaware,Precinct 55,307,60,0,367
 Melanie M Wright,State Representative,35,D,Delaware,Precinct 55,293,102,0,395
 ,Registered Voters,,,Delaware,Precinct 56,,,,1194
-,Ballots Cast,,,Delaware,Precinct 56,,,,499
+,Ballots Cast,,,Delaware,Precinct 56,499,149,0,648
 Mike Braun,U.S. Senate,,R,Delaware,Precinct 56,306,77,0,383
 Joe Donnelly,U.S. Senate,,D,Delaware,Precinct 56,155,67,0,222
 Lucy M Brenton,U.S. Senate,,L,Delaware,Precinct 56,26,3,0,29
@@ -1154,7 +1154,7 @@ Greg Noland,State Senate,26,L,Delaware,Precinct 56,14,3,0,17
 Ben W. Fisher,State Representative,35,R ,Delaware,Precinct 56,290,68,0,358
 Melanie M Wright,State Representative,35,D,Delaware,Precinct 56,187,76,0,263
 ,Registered Voters,,,Delaware,Precinct 57,,,,1318
-,Ballots Cast,,,Delaware,Precinct 57,,,,626
+,Ballots Cast,,,Delaware,Precinct 57,626,89,0,715
 Mike Braun,U.S. Senate,,R,Delaware,Precinct 57,367,42,0,409
 Joe Donnelly,U.S. Senate,,D,Delaware,Precinct 57,207,44,0,251
 Lucy M Brenton,U.S. Senate,,L,Delaware,Precinct 57,40,1,0,41
@@ -1178,7 +1178,7 @@ Greg Noland,State Senate,26,L,Delaware,Precinct 57,21,3,0,24
 "Anthony J. (""Tony"") Cook",State Representative,32,R ,Delaware,Precinct 57,404,43,0,447
 Amie Neiling,State Representative,32,D,Delaware,Precinct 57,199,43,0,242
 ,Registered Voters,,,Delaware,Precinct 58,,,,164
-,Ballots Cast,,,Delaware,Precinct 58,,,,65
+,Ballots Cast,,,Delaware,Precinct 58,65,43,0,108
 Mike Braun,U.S. Senate,,R,Delaware,Precinct 58,33,26,0,59
 Joe Donnelly,U.S. Senate,,D,Delaware,Precinct 58,29,11,0,40
 Lucy M Brenton,U.S. Senate,,L,Delaware,Precinct 58,1,3,0,4
@@ -1202,7 +1202,7 @@ Greg Noland,State Senate,26,L,Delaware,Precinct 58,1,1,0,2
 Ben W. Fisher,State Representative,35,R ,Delaware,Precinct 58,30,27,0,57
 Melanie M Wright,State Representative,35,D,Delaware,Precinct 58,30,13,0,43
 ,Registered Voters,,,Delaware,Precinct 59,,,,1428
-,Ballots Cast,,,Delaware,Precinct 59,,,,600
+,Ballots Cast,,,Delaware,Precinct 59,600,211,0,811
 Mike Braun,U.S. Senate,,R,Delaware,Precinct 59,370,101,0,471
 Joe Donnelly,U.S. Senate,,D,Delaware,Precinct 59,194,93,0,287
 Lucy M Brenton,U.S. Senate,,L,Delaware,Precinct 59,30,13,0,43
@@ -1227,7 +1227,7 @@ John (J.D.) Prescott,State Representative,33,R ,Delaware,Precinct 59,379,109,0,4
 Shon Byrum,State Representative,33,D,Delaware,Precinct 59,182,90,0,272
 Dale Arnett,State Representative,33,D,Delaware,Precinct 59,18,4,0,22
 ,Registered Voters,,,Delaware,Precinct 60,,,,1045
-,Ballots Cast,,,Delaware,Precinct 60,,,,453
+,Ballots Cast,,,Delaware,Precinct 60,453,127,0,580
 Mike Braun,U.S. Senate,,R,Delaware,Precinct 60,244,71,0,315
 Joe Donnelly,U.S. Senate,,D,Delaware,Precinct 60,176,51,0,227
 Lucy M Brenton,U.S. Senate,,L,Delaware,Precinct 60,32,4,0,36
@@ -1251,7 +1251,7 @@ Greg Noland,State Senate,26,L,Delaware,Precinct 60,15,2,0,17
 Kevin A Mahan,State Representative,31,R ,Delaware,Precinct 60,281,74,0,355
 Lynn Johnson,State Representative,31,D,Delaware,Precinct 60,153,48,0,201
 ,Registered Voters,,,Delaware,Precinct 61,,,,662
-,Ballots Cast,,,Delaware,Precinct 61,,,,250
+,Ballots Cast,,,Delaware,Precinct 61,250,47,0,297
 Mike Braun,U.S. Senate,,R,Delaware,Precinct 61,140,23,0,163
 Joe Donnelly,U.S. Senate,,D,Delaware,Precinct 61,89,20,0,109
 Lucy M Brenton,U.S. Senate,,L,Delaware,Precinct 61,18,3,0,21
@@ -1275,7 +1275,7 @@ Greg Noland,State Senate,26,L,Delaware,Precinct 61,10,1,0,11
 Kevin A Mahan,State Representative,31,R ,Delaware,Precinct 61,155,25,0,180
 Lynn Johnson,State Representative,31,D,Delaware,Precinct 61,84,21,0,105
 ,Registered Voters,,,Delaware,Precinct 62,,,,1229
-,Ballots Cast,,,Delaware,Precinct 62,,,,530
+,Ballots Cast,,,Delaware,Precinct 62,530,156,0,686
 Mike Braun,U.S. Senate,,R,Delaware,Precinct 62,283,78,0,361
 Joe Donnelly,U.S. Senate,,D,Delaware,Precinct 62,207,64,0,271
 Lucy M Brenton,U.S. Senate,,L,Delaware,Precinct 62,27,9,0,36
@@ -1300,7 +1300,7 @@ John (J.D.) Prescott,State Representative,33,R ,Delaware,Precinct 62,305,86,0,39
 Shon Byrum,State Representative,33,D,Delaware,Precinct 62,178,61,0,239
 Dale Arnett,State Representative,33,D,Delaware,Precinct 62,24,2,0,26
 ,Registered Voters,,,Delaware,Precinct 63,,,,572
-,Ballots Cast,,,Delaware,Precinct 63,,,,266
+,Ballots Cast,,,Delaware,Precinct 63,266,34,0,300
 Mike Braun,U.S. Senate,,R,Delaware,Precinct 63,131,14,0,145
 Joe Donnelly,U.S. Senate,,D,Delaware,Precinct 63,102,19,0,121
 Lucy M Brenton,U.S. Senate,,L,Delaware,Precinct 63,31,1,0,32
@@ -1325,7 +1325,7 @@ John (J.D.) Prescott,State Representative,33,R ,Delaware,Precinct 63,133,12,0,14
 Shon Byrum,State Representative,33,D,Delaware,Precinct 63,114,19,0,133
 Dale Arnett,State Representative,33,D,Delaware,Precinct 63,8,0,0,8
 ,Registered Voters,,,Delaware,Precinct 64,,,,1447
-,Ballots Cast,,,Delaware,Precinct 64,,,,637
+,Ballots Cast,,,Delaware,Precinct 64,637,151,0,788
 Mike Braun,U.S. Senate,,R,Delaware,Precinct 64,330,68,0,398
 Joe Donnelly,U.S. Senate,,D,Delaware,Precinct 64,262,73,0,335
 Lucy M Brenton,U.S. Senate,,L,Delaware,Precinct 64,40,7,0,47
@@ -1350,7 +1350,7 @@ John (J.D.) Prescott,State Representative,33,R,Delaware,Precinct 64,335,69,0,404
 Shon Byrum,State Representative,33,D,Delaware,Precinct 64,255,66,0,321
 Dale Arnett,State Representative,33,L,Delaware,Precinct 64,21,4,0,25
 ,Registered Voters,,,Delaware,Precinct 65,,,,1346
-,Ballots Cast,,,Delaware,Precinct 65,,,,606
+,Ballots Cast,,,Delaware,Precinct 65,606,158,0,764
 Mike Braun,U.S. Senate,,R,Delaware,Precinct 65,381,82,0,463
 Joe Donnelly,U.S. Senate,,D,Delaware,Precinct 65,178,68,0,246
 Lucy M Brenton,U.S. Senate,,L,Delaware,Precinct 65,39,4,0,43
@@ -1375,7 +1375,7 @@ John (J.D.) Prescott,State Representative,33,R ,Delaware,Precinct 65,403,83,0,48
 Shon Byrum,State Representative,33,D,Delaware,Precinct 65,171,61,0,232
 Dale Arnett,State Representative,33,D,Delaware,Precinct 65,10,1,0,11
 ,Registered Voters,,,Delaware,Precinct 66,,,,1160
-,Ballots Cast,,,Delaware,Precinct 66,,,,497
+,Ballots Cast,,,Delaware,Precinct 66,497,98,0,595
 Mike Braun,U.S. Senate,,R,Delaware,Precinct 66,278,30,0,308
 Joe Donnelly,U.S. Senate,,D,Delaware,Precinct 66,174,60,0,234
 Lucy M Brenton,U.S. Senate,,L,Delaware,Precinct 66,38,4,0,42
@@ -1400,7 +1400,7 @@ John (J.D.) Prescott,State Representative,33,R ,Delaware,Precinct 66,283,36,0,31
 Shon Byrum,State Representative,33,D,Delaware,Precinct 66,186,55,0,241
 Dale Arnett,State Representative,33,L,Delaware,Precinct 66,10,0,0,10
 ,Registered Voters,,,Delaware,Precinct 67,,,,794
-,Ballots Cast,,,Delaware,Precinct 67,,,,362
+,Ballots Cast,,,Delaware,Precinct 67,362,87,0,449
 Mike Braun,U.S. Senate,,R,Delaware,Precinct 67,220,51,0,271
 Joe Donnelly,U.S. Senate,,D,Delaware,Precinct 67,116,27,0,143
 Lucy M Brenton,U.S. Senate,,L,Delaware,Precinct 67,24,4,0,28
@@ -1425,7 +1425,7 @@ John (J.D.) Prescott,State Representative,33,R ,Delaware,Precinct 67,234,55,0,28
 Shon Byrum,State Representative,33,D,Delaware,Precinct 67,112,28,0,140
 Dale Arnett,State Representative,33,L,Delaware,Precinct 67,5,0,0,5
 ,Registered Voters,,,Delaware,Precinct 68,,,,200
-,Ballots Cast,,,Delaware,Precinct 68,,,,100
+,Ballots Cast,,,Delaware,Precinct 68,100,17,0,117
 Mike Braun,U.S. Senate,,R,Delaware,Precinct 68,64,8,0,72
 Joe Donnelly,U.S. Senate,,D,Delaware,Precinct 68,28,8,0,36
 Lucy M Brenton,U.S. Senate,,L,Delaware,Precinct 68,8,1,0,9
@@ -1450,7 +1450,7 @@ John (J.D.) Prescott,State Representative,33,R ,Delaware,Precinct 68,68,13,0,81
 Shon Byrum,State Representative,33,D,Delaware,Precinct 68,23,2,0,25
 Dale Arnett,State Representative,33,L,Delaware,Precinct 68,5,1,0,6
 ,Registered Voters,,,Delaware,Precinct 69,,,,955
-,Ballots Cast,,,Delaware,Precinct 69,,,,404
+,Ballots Cast,,,Delaware,Precinct 69,404,153,0,557
 Mike Braun,U.S. Senate,,R,Delaware,Precinct 69,239,66,0,305
 Joe Donnelly,U.S. Senate,,D,Delaware,Precinct 69,139,78,0,217
 Lucy M Brenton,U.S. Senate,,L,Delaware,Precinct 69,21,6,0,27
@@ -1474,7 +1474,7 @@ Greg Noland,State Senate,26,L,Delaware,Precinct 69,7,5,0,12
 Kevin A Mahan,State Representative,31,R ,Delaware,Precinct 69,271,78,0,349
 Lynn Johnson,State Representative,31,D,Delaware,Precinct 69,123,71,0,194
 ,Registered Voters,,,Delaware,Precinct 70,,,,1290
-,Ballots Cast,,,Delaware,Precinct 70,,,,597
+,Ballots Cast,,,Delaware,Precinct 70,597,211,0,808
 Mike Braun,U.S. Senate,,R,Delaware,Precinct 70,320,100,0,420
 Joe Donnelly,U.S. Senate,,D,Delaware,Precinct 70,241,106,0,347
 Lucy M Brenton,U.S. Senate,,L,Delaware,Precinct 70,29,1,0,30
@@ -1498,7 +1498,7 @@ Greg Noland,State Senate,26,L,Delaware,Precinct 70,12,4,0,16
 Ben W. Fisher,State Representative,35,R ,Delaware,Precinct 70,304,101,0,405
 Melanie M Wright,State Representative,35,D,Delaware,Precinct 70,261,103,0,364
 ,Registered Voters,,,Delaware,Precinct 71,,,,1451
-,Ballots Cast,,,Delaware,Precinct 71,,,,647
+,Ballots Cast,,,Delaware,Precinct 71,647,231,0,878
 Mike Braun,U.S. Senate,,R,Delaware,Precinct 71,380,134,0,514
 Joe Donnelly,U.S. Senate,,D,Delaware,Precinct 71,220,88,0,308
 Lucy M Brenton,U.S. Senate,,L,Delaware,Precinct 71,42,5,0,47
@@ -1522,7 +1522,7 @@ Greg Noland,State Senate,26,L,Delaware,Precinct 71,22,4,0,26
 Ben W. Fisher,State Representative,35,R ,Delaware,Precinct 71,337,125,0,462
 Melanie M Wright,State Representative,35,D,Delaware,Precinct 71,291,102,0,393
 ,Registered Voters,,,Delaware,Precinct 73,,,,1511
-,Ballots Cast,,,Delaware,Precinct 73,,,,667
+,Ballots Cast,,,Delaware,Precinct 73,667,175,0,842
 Mike Braun,U.S. Senate,,R,Delaware,Precinct 73,416,87,0,503
 Joe Donnelly,U.S. Senate,,D,Delaware,Precinct 73,206,76,0,282
 Lucy M Brenton,U.S. Senate,,L,Delaware,Precinct 73,33,9,0,42
@@ -1547,7 +1547,7 @@ John (J.D.) Prescott,State Representative,33,R ,Delaware,Precinct 73,450,92,0,54
 Shon Byrum,State Representative,33,D,Delaware,Precinct 73,176,72,0,248
 Dale Arnett,State Representative,33,L,Delaware,Precinct 73,21,6,0,27
 ,Registered Voters,,,Delaware,Precinct 74,,,,1603
-,Ballots Cast,,,Delaware,Precinct 74,,,,513
+,Ballots Cast,,,Delaware,Precinct 74,513,251,0,764
 Mike Braun,U.S. Senate,,R,Delaware,Precinct 74,238,105,0,343
 Joe Donnelly,U.S. Senate,,D,Delaware,Precinct 74,247,132,0,379
 Lucy M Brenton,U.S. Senate,,L,Delaware,Precinct 74,25,13,0,38
@@ -1571,7 +1571,7 @@ Greg Noland,State Senate,26,L,Delaware,Precinct 74,16,8,0,24
 Ben W. Fisher,State Representative,35,R ,Delaware,Precinct 74,231,99,0,330
 Melanie M Wright,State Representative,35,D,Delaware,Precinct 74,267,145,0,412
 ,Registered Voters,,,Delaware,Precinct 75,,,,1523
-,Ballots Cast,,,Delaware,Precinct 75,,,,556
+,Ballots Cast,,,Delaware,Precinct 75,556,217,0,773
 Mike Braun,U.S. Senate,,R,Delaware,Precinct 75,306,81,0,387
 Joe Donnelly,U.S. Senate,,D,Delaware,Precinct 75,212,124,0,336
 Lucy M Brenton,U.S. Senate,,L,Delaware,Precinct 75,34,10,0,44
@@ -1596,7 +1596,7 @@ John (J.D.) Prescott,State Representative,33,R ,Delaware,Precinct 75,302,85,0,38
 Shon Byrum,State Representative,33,D,Delaware,Precinct 75,214,122,0,336
 Dale Arnett,State Representative,33,L,Delaware,Precinct 75,18,4,0,22
 ,Registered Voters,,,Delaware,Precinct 77,,,,1160
-,Ballots Cast,,,Delaware,Precinct 77,,,,483
+,Ballots Cast,,,Delaware,Precinct 77,483,95,0,578
 Mike Braun,U.S. Senate,,R,Delaware,Precinct 77,291,43,0,334
 Joe Donnelly,U.S. Senate,,D,Delaware,Precinct 77,155,44,0,199
 Lucy M Brenton,U.S. Senate,,L,Delaware,Precinct 77,31,8,0,39
@@ -1620,7 +1620,7 @@ Greg Noland,State Senate,26,L,Delaware,Precinct 77,17,2,0,19
 Kevin A Mahan,State Representative,31,R ,Delaware,Precinct 77,330,49,0,379
 Lynn Johnson,State Representative,31,D,Delaware,Precinct 77,140,44,0,184
 ,Registered Voters,,,Delaware,Precinct 78,,,,1343
-,Ballots Cast,,,Delaware,Precinct 78,,,,516
+,Ballots Cast,,,Delaware,Precinct 78,516,240,0,756
 Mike Braun,U.S. Senate,,R,Delaware,Precinct 78,324,135,0,459
 Joe Donnelly,U.S. Senate,,D,Delaware,Precinct 78,157,87,0,244
 Lucy M Brenton,U.S. Senate,,L,Delaware,Precinct 78,25,16,0,41
@@ -1644,7 +1644,7 @@ Greg Noland,State Senate,26,L,Delaware,Precinct 78,15,9,0,24
 Ben W. Fisher,State Representative,35,R ,Delaware,Precinct 78,303,127,0,430
 Melanie M Wright,State Representative,35,D,Delaware,Precinct 78,195,107,0,302
 ,Registered Voters,,,Delaware,Precinct 81,,,,460
-,Ballots Cast,,,Delaware,Precinct 81,,,,145
+,Ballots Cast,,,Delaware,Precinct 81,145,42,0,187
 Mike Braun,U.S. Senate,,R,Delaware,Precinct 81,53,16,0,69
 Joe Donnelly,U.S. Senate,,D,Delaware,Precinct 81,84,24,0,108
 Lucy M Brenton,U.S. Senate,,L,Delaware,Precinct 81,7,2,0,9
@@ -1668,7 +1668,7 @@ Greg Noland,State Senate,26,L,Delaware,Precinct 81,3,2,0,5
 Ben W. Fisher,State Representative,35,R ,Delaware,Precinct 81,52,17,0,69
 Melanie M Wright,State Representative,35,D,Delaware,Precinct 81,91,25,0,116
 ,Registered Voters,,,Delaware,Precinct 87,,,,1074
-,Ballots Cast,,,Delaware,Precinct 87,,,,527
+,Ballots Cast,,,Delaware,Precinct 87,527,179,0,706
 Mike Braun,U.S. Senate,,R,Delaware,Precinct 87,294,92,0,386
 Joe Donnelly,U.S. Senate,,D,Delaware,Precinct 87,195,82,0,277
 Lucy M Brenton,U.S. Senate,,L,Delaware,Precinct 87,31,4,0,35
@@ -1692,7 +1692,7 @@ Greg Noland,State Senate,26,L,Delaware,Precinct 87,23,6,0,29
 Ben W. Fisher,State Representative,35,R ,Delaware,Precinct 87,272,88,0,360
 Melanie M Wright,State Representative,35,D,Delaware,Precinct 87,240,89,0,329
 ,Registered Voters,,,Delaware,Precinct 88,,,,1272
-,Ballots Cast,,,Delaware,Precinct 88,,,,546
+,Ballots Cast,,,Delaware,Precinct 88,546,267,0,813
 Mike Braun,U.S. Senate,,R,Delaware,Precinct 88,319,157,0,476
 Joe Donnelly,U.S. Senate,,D,Delaware,Precinct 88,201,106,0,307
 Lucy M Brenton,U.S. Senate,,L,Delaware,Precinct 88,20,3,0,23
@@ -1716,7 +1716,7 @@ Greg Noland,State Senate,26,L,Delaware,Precinct 88,14,3,0,17
 Ben W. Fisher,State Representative,35,R ,Delaware,Precinct 88,315,148,0,463
 Melanie M Wright,State Representative,35,D,Delaware,Precinct 88,215,114,0,329
 ,Registered Voters,,,Delaware,Precinct 90,,,,886
-,Ballots Cast,,,Delaware,Precinct 90,,,,468
+,Ballots Cast,,,Delaware,Precinct 90,468,73,0,541
 Mike Braun,U.S. Senate,,R,Delaware,Precinct 90,282,41,0,323
 Joe Donnelly,U.S. Senate,,D,Delaware,Precinct 90,151,30,0,181
 Lucy M Brenton,U.S. Senate,,L,Delaware,Precinct 90,28,1,0,29
@@ -1740,7 +1740,7 @@ Greg Noland,State Senate,26,L,Delaware,Precinct 90,11,0,0,11
 Kevin A Mahan,State Representative,31,R ,Delaware,Precinct 90,310,43,0,353
 Lynn Johnson,State Representative,31,D,Delaware,Precinct 90,135,29,0,164
 ,Registered Voters,,,Delaware,Precinct 91,,,,96
-,Ballots Cast,,,Delaware,Precinct 91,,,,46
+,Ballots Cast,,,Delaware,Precinct 91,46,7,0,53
 Mike Braun,U.S. Senate,,R,Delaware,Precinct 91,28,4,0,32
 Joe Donnelly,U.S. Senate,,D,Delaware,Precinct 91,14,2,0,16
 Lucy M Brenton,U.S. Senate,,L,Delaware,Precinct 91,4,1,0,5
@@ -1764,7 +1764,7 @@ Greg Noland,State Senate,26,L,Delaware,Precinct 91,3,1,0,4
 Kevin A Mahan,State Representative,31,R ,Delaware,Precinct 91,31,4,0,35
 Lynn Johnson,State Representative,31,D,Delaware,Precinct 91,14,3,0,17
 ,Registered Voters,,,Delaware,Precinct 92,,,,24
-,Ballots Cast,,,Delaware,Precinct 92,,,,10
+,Ballots Cast,,,Delaware,Precinct 92,10,0,0,10
 Mike Braun,U.S. Senate,,R,Delaware,Precinct 92,6,0,0,6
 Joe Donnelly,U.S. Senate,,D,Delaware,Precinct 92,3,0,0,3
 Lucy M Brenton,U.S. Senate,,L,Delaware,Precinct 92,0,0,0,0
@@ -1788,7 +1788,7 @@ Greg Noland,State Senate,26,L,Delaware,Precinct 92,1,0,0,1
 Ben W. Fisher,State Representative,35,R ,Delaware,Precinct 92,6,0,0,6
 Melanie M Wright,State Representative,35,D,Delaware,Precinct 92,3,0,0,3
 ,Registered Voters,,,Delaware,Precinct 93,,,,1266
-,Ballots Cast,,,Delaware,Precinct 93,,,,552
+,Ballots Cast,,,Delaware,Precinct 93,552,160,0,712
 Mike Braun,U.S. Senate,,R,Delaware,Precinct 93,253,84,0,337
 Joe Donnelly,U.S. Senate,,D,Delaware,Precinct 93,259,72,0,331
 Lucy M Brenton,U.S. Senate,,L,Delaware,Precinct 93,32,3,0,35
@@ -1812,7 +1812,7 @@ Greg Noland,State Senate,26,L,Delaware,Precinct 93,23,5,0,28
 Ben W. Fisher,State Representative,35,R ,Delaware,Precinct 93,246,79,0,325
 Melanie M Wright,State Representative,35,D,Delaware,Precinct 93,284,78,0,362
 ,Registered Voters,,,Delaware,Precinct 94,,,,1115
-,Ballots Cast,,,Delaware,Precinct 94,,,,548
+,Ballots Cast,,,Delaware,Precinct 94,548,75,0,623
 Mike Braun,U.S. Senate,,R,Delaware,Precinct 94,293,36,0,329
 Joe Donnelly,U.S. Senate,,D,Delaware,Precinct 94,204,35,0,239
 Lucy M Brenton,U.S. Senate,,L,Delaware,Precinct 94,47,2,0,49
@@ -1836,7 +1836,7 @@ Robert Q Jozwiak ,State Senate,25,L,Delaware,Precinct 94,24,0,0,24
 Ben W. Fisher,State Representative,35,R ,Delaware,Precinct 94,217,28,0,245
 Melanie M Wright,State Representative,35,D,Delaware,Precinct 94,319,43,0,362
 ,Registered Voters,,,Delaware,Precinct 95,,,,598
-,Ballots Cast,,,Delaware,Precinct 95,,,,238
+,Ballots Cast,,,Delaware,Precinct 95,238,100,0,338
 Mike Braun,U.S. Senate,,R,Delaware,Precinct 95,98,46,0,144
 Joe Donnelly,U.S. Senate,,D,Delaware,Precinct 95,120,48,0,168
 Lucy M Brenton,U.S. Senate,,L,Delaware,Precinct 95,19,5,0,24
@@ -1860,7 +1860,7 @@ Greg Noland,State Senate,26,L,Delaware,Precinct 95,8,0,0,8
 Ben W. Fisher,State Representative,35,R ,Delaware,Precinct 95,89,43,0,132
 Melanie M Wright,State Representative,35,D,Delaware,Precinct 95,145,53,0,198
 ,Registered Voters,,,Delaware,Precinct 98,,,,650
-,Ballots Cast,,,Delaware,Precinct 98,,,,342
+,Ballots Cast,,,Delaware,Precinct 98,342,101,0,443
 Mike Braun,U.S. Senate,,R,Delaware,Precinct 98,174,37,0,211
 Joe Donnelly,U.S. Senate,,D,Delaware,Precinct 98,151,63,0,214
 Lucy M Brenton,U.S. Senate,,L,Delaware,Precinct 98,15,1,0,16
@@ -1883,52 +1883,3 @@ Dave Cravens,State Senate,26,D,Delaware,Precinct 98,119,56,0,175
 Greg Noland,State Senate,26,L,Delaware,Precinct 98,17,3,0,20
 Ben W. Fisher,State Representative,35,R ,Delaware,Precinct 98,166,33,0,199
 Melanie M Wright,State Representative,35,D,Delaware,Precinct 98,161,64,0,225
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,

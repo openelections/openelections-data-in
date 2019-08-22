@@ -1,0 +1,566 @@
+county,precinct,office,district,candidate,party,election_day,absentee,provisional,votes
+DeKalb,Butler 1,Ballots Cast,,,,73,18,0,91
+DeKalb,Butler 1,Registered Voters,,,,,,,409
+DeKalb,Butler 1,U.S. Senate,,Mike Braun,REP,29,2,0,31
+DeKalb,Butler 1,U.S. Senate,,Luke Messer,REP,17,5,0,22
+DeKalb,Butler 1,U.S. Senate,,Todd Rokita,REP,21,7,0,28
+DeKalb,Butler 1,U.S. House,3,Jim Banks,REP,56,13,0,69
+DeKalb,Butler 1,State House,52,William Carlin,REP,22,4,0,26
+DeKalb,Butler 1,State House,52,Ben Smaltz,REP,45,10,0,55
+DeKalb,Butler 1,U.S. Senate,,Joe Donnelly,DEM,6,4,0,10
+DeKalb,Butler 1,U.S. House,3,John F. Roberson,DEM,0,1,0,1
+DeKalb,Butler 1,U.S. House,3,Tommy A. Schrader,DEM,1,0,0,1
+DeKalb,Butler 1,U.S. House,3,Courtney Tritch,DEM,5,3,0,8
+DeKalb,Butler 1,State House,52,Martha Lemert,DEM,6,2,0,8
+DeKalb,Butler 2,Ballots Cast,,,,149,37,0,186
+DeKalb,Butler 2,Registered Voters,,,,,,,827
+DeKalb,Butler 2,U.S. Senate,,Mike Braun,REP,48,12,0,60
+DeKalb,Butler 2,U.S. Senate,,Luke Messer,REP,27,4,0,31
+DeKalb,Butler 2,U.S. Senate,,Todd Rokita,REP,40,16,0,56
+DeKalb,Butler 2,U.S. House,3,Jim Banks,REP,94,26,0,120
+DeKalb,Butler 2,State House,52,William Carlin,REP,56,13,0,69
+DeKalb,Butler 2,State House,52,Ben Smaltz,REP,60,17,0,77
+DeKalb,Butler 2,U.S. Senate,,Joe Donnelly,DEM,30,5,0,35
+DeKalb,Butler 2,U.S. House,3,John F. Roberson,DEM,1,0,0,1
+DeKalb,Butler 2,U.S. House,3,Tommy A. Schrader,DEM,3,1,0,4
+DeKalb,Butler 2,U.S. House,3,Courtney Tritch,DEM,24,3,0,27
+DeKalb,Butler 2,State House,52,Martha Lemert,DEM,24,4,0,28
+DeKalb,Concord,Ballots Cast,,,,163,26,0,189
+DeKalb,Concord,Registered Voters,,,,,,,866
+DeKalb,Concord,U.S. Senate,,Mike Braun,REP,66,12,0,78
+DeKalb,Concord,U.S. Senate,,Luke Messer,REP,33,6,0,39
+DeKalb,Concord,U.S. Senate,,Todd Rokita,REP,44,4,0,48
+DeKalb,Concord,U.S. House,3,Jim Banks,REP,129,19,0,148
+DeKalb,Concord,State Senate,14,Dennis K. Kruse,REP,129,15,0,144
+DeKalb,Concord,State House,52,William Carlin,REP,45,14,0,59
+DeKalb,Concord,State House,52,Ben Smaltz,REP,101,8,0,109
+DeKalb,Concord,U.S. Senate,,Joe Donnelly,DEM,12,4,0,16
+DeKalb,Concord,U.S. House,3,John F. Roberson,DEM,1,0,0,1
+DeKalb,Concord,U.S. House,3,Tommy A. Schrader,DEM,5,1,0,6
+DeKalb,Concord,U.S. House,3,Courtney Tritch,DEM,5,3,0,8
+DeKalb,Concord,State Senate,14,No Candidate Filed,DEM,0,0,0,0
+DeKalb,Concord,State House,52,Martha Lemert,DEM,10,4,0,14
+DeKalb,Fairfield,Ballots Cast,,,,211,30,0,241
+DeKalb,Fairfield,Registered Voters,,,,,,,963
+DeKalb,Fairfield,U.S. Senate,,Mike Braun,REP,85,9,0,94
+DeKalb,Fairfield,U.S. Senate,,Luke Messer,REP,46,2,0,48
+DeKalb,Fairfield,U.S. Senate,,Todd Rokita,REP,39,12,0,51
+DeKalb,Fairfield,U.S. House,3,Jim Banks,REP,149,22,0,171
+DeKalb,Fairfield,State House,52,William Carlin,REP,44,2,0,46
+DeKalb,Fairfield,State House,52,Ben Smaltz,REP,130,22,0,152
+DeKalb,Fairfield,U.S. Senate,,Joe Donnelly,DEM,28,6,0,34
+DeKalb,Fairfield,U.S. House,3,John F. Roberson,DEM,6,1,0,7
+DeKalb,Fairfield,U.S. House,3,Tommy A. Schrader,DEM,3,1,0,4
+DeKalb,Fairfield,U.S. House,3,Courtney Tritch,DEM,24,4,0,28
+DeKalb,Fairfield,State House,52,Martha Lemert,DEM,30,4,0,34
+DeKalb,Franklin,Ballots Cast,,,,129,20,0,149
+DeKalb,Franklin,Registered Voters,,,,,,,777
+DeKalb,Franklin,U.S. Senate,,Mike Braun,REP,41,8,0,49
+DeKalb,Franklin,U.S. Senate,,Luke Messer,REP,31,6,0,37
+DeKalb,Franklin,U.S. Senate,,Todd Rokita,REP,29,5,0,34
+DeKalb,Franklin,U.S. House,3,Jim Banks,REP,97,15,0,112
+DeKalb,Franklin,State Senate,14,Dennis K. Kruse,REP,98,18,0,116
+DeKalb,Franklin,State House,52,William Carlin,REP,50,10,0,60
+DeKalb,Franklin,State House,52,Ben Smaltz,REP,63,9,0,72
+DeKalb,Franklin,U.S. Senate,,Joe Donnelly,DEM,14,0,0,14
+DeKalb,Franklin,U.S. House,3,John F. Roberson,DEM,4,0,0,4
+DeKalb,Franklin,U.S. House,3,Tommy A. Schrader,DEM,1,1,0,2
+DeKalb,Franklin,U.S. House,3,Courtney Tritch,DEM,8,0,0,8
+DeKalb,Franklin,State Senate,14,No Candidate Filed,DEM,0,0,0,0
+DeKalb,Franklin,State House,52,Martha Lemert,DEM,13,1,0,14
+DeKalb,Grant 1,Ballots Cast,,,,41,8,0,49
+DeKalb,Grant 1,Registered Voters,,,,,,,400
+DeKalb,Grant 1,U.S. Senate,,Mike Braun,REP,13,4,0,17
+DeKalb,Grant 1,U.S. Senate,,Luke Messer,REP,7,2,0,9
+DeKalb,Grant 1,U.S. Senate,,Todd Rokita,REP,12,1,0,13
+DeKalb,Grant 1,U.S. House,3,Jim Banks,REP,27,3,0,30
+DeKalb,Grant 1,State Senate,14,Dennis K. Kruse,REP,26,5,0,31
+DeKalb,Grant 1,State House,52,William Carlin,REP,12,3,0,15
+DeKalb,Grant 1,State House,52,Ben Smaltz,REP,19,3,0,22
+DeKalb,Grant 1,U.S. Senate,,Joe Donnelly,DEM,9,1,0,10
+DeKalb,Grant 1,U.S. House,3,John F. Roberson,DEM,1,0,0,1
+DeKalb,Grant 1,U.S. House,3,Tommy A. Schrader,DEM,2,1,0,3
+DeKalb,Grant 1,U.S. House,3,Courtney Tritch,DEM,6,0,0,6
+DeKalb,Grant 1,State Senate,14,No Candidate Filed,DEM,0,0,0,0
+DeKalb,Grant 1,State House,52,Martha Lemert,DEM,7,1,0,8
+DeKalb,Grant 2,Ballots Cast,,,,154,44,0,198
+DeKalb,Grant 2,Registered Voters,,,,,,,750
+DeKalb,Grant 2,U.S. Senate,,Mike Braun,REP,47,12,0,59
+DeKalb,Grant 2,U.S. Senate,,Luke Messer,REP,45,8,0,53
+DeKalb,Grant 2,U.S. Senate,,Todd Rokita,REP,38,13,0,51
+DeKalb,Grant 2,U.S. House,3,Jim Banks,REP,117,27,0,144
+DeKalb,Grant 2,State Senate,14,Dennis K. Kruse,REP,122,28,0,150
+DeKalb,Grant 2,State House,52,William Carlin,REP,41,12,0,53
+DeKalb,Grant 2,State House,52,Ben Smaltz,REP,99,22,0,121
+DeKalb,Grant 2,U.S. Senate,,Joe Donnelly,DEM,13,9,0,22
+DeKalb,Grant 2,U.S. House,3,John F. Roberson,DEM,1,1,0,2
+DeKalb,Grant 2,U.S. House,3,Tommy A. Schrader,DEM,2,1,0,3
+DeKalb,Grant 2,U.S. House,3,Courtney Tritch,DEM,10,7,0,17
+DeKalb,Grant 2,State Senate,14,No Candidate Filed,DEM,0,0,0,0
+DeKalb,Grant 2,State House,52,Martha Lemert,DEM,9,8,0,17
+DeKalb,Grant 3,Ballots Cast,,,,123,18,0,141
+DeKalb,Grant 3,Registered Voters,,,,,,,770
+DeKalb,Grant 3,U.S. Senate,,Mike Braun,REP,41,5,0,46
+DeKalb,Grant 3,U.S. Senate,,Luke Messer,REP,36,1,0,37
+DeKalb,Grant 3,U.S. Senate,,Todd Rokita,REP,21,5,0,26
+DeKalb,Grant 3,U.S. House,3,Jim Banks,REP,92,9,0,101
+DeKalb,Grant 3,State Senate,14,Dennis K. Kruse,REP,89,9,0,98
+DeKalb,Grant 3,State House,52,William Carlin,REP,41,3,0,44
+DeKalb,Grant 3,State House,52,Ben Smaltz,REP,62,7,0,69
+DeKalb,Grant 3,U.S. Senate,,Joe Donnelly,DEM,18,7,0,25
+DeKalb,Grant 3,U.S. House,3,John F. Roberson,DEM,3,1,0,4
+DeKalb,Grant 3,U.S. House,3,Tommy A. Schrader,DEM,5,0,0,5
+DeKalb,Grant 3,U.S. House,3,Courtney Tritch,DEM,11,5,0,16
+DeKalb,Grant 3,State Senate,14,No Candidate Filed,DEM,0,0,0,0
+DeKalb,Grant 3,State House,52,Martha Lemert,DEM,16,6,0,22
+DeKalb,Jackson North,Ballots Cast,,,,218,66,1,285
+DeKalb,Jackson North,Registered Voters,,,,,,,1250
+DeKalb,Jackson North,U.S. Senate,,Mike Braun,REP,67,19,0,86
+DeKalb,Jackson North,U.S. Senate,,Luke Messer,REP,45,10,1,56
+DeKalb,Jackson North,U.S. Senate,,Todd Rokita,REP,62,23,0,85
+DeKalb,Jackson North,U.S. House,3,Jim Banks,REP,156,48,1,205
+DeKalb,Jackson North,State Senate,14,Dennis K. Kruse,REP,166,48,1,215
+DeKalb,Jackson North,State House,52,William Carlin,REP,50,19,0,69
+DeKalb,Jackson North,State House,52,Ben Smaltz,REP,142,37,1,180
+DeKalb,Jackson North,U.S. Senate,,Joe Donnelly,DEM,21,9,0,30
+DeKalb,Jackson North,U.S. House,3,John F. Roberson,DEM,4,0,0,4
+DeKalb,Jackson North,U.S. House,3,Tommy A. Schrader,DEM,2,0,0,2
+DeKalb,Jackson North,U.S. House,3,Courtney Tritch,DEM,15,10,0,25
+DeKalb,Jackson North,State Senate,14,No Candidate Filed,DEM,0,0,0,0
+DeKalb,Jackson North,State House,52,Martha Lemert,DEM,20,7,0,27
+DeKalb,Jackson South,Ballots Cast,,,,224,73,0,297
+DeKalb,Jackson South,Registered Voters,,,,,,,1231
+DeKalb,Jackson South,U.S. Senate,,Mike Braun,REP,84,26,0,110
+DeKalb,Jackson South,U.S. Senate,,Luke Messer,REP,40,12,0,52
+DeKalb,Jackson South,U.S. Senate,,Todd Rokita,REP,62,23,0,85
+DeKalb,Jackson South,U.S. House,3,Jim Banks,REP,168,54,0,222
+DeKalb,Jackson South,State Senate,14,Dennis K. Kruse,REP,172,53,0,225
+DeKalb,Jackson South,State House,52,William Carlin,REP,53,19,0,72
+DeKalb,Jackson South,State House,52,Ben Smaltz,REP,139,47,0,186
+DeKalb,Jackson South,U.S. Senate,,Joe Donnelly,DEM,27,6,0,33
+DeKalb,Jackson South,U.S. House,3,John F. Roberson,DEM,3,1,0,4
+DeKalb,Jackson South,U.S. House,3,Tommy A. Schrader,DEM,5,1,0,6
+DeKalb,Jackson South,U.S. House,3,Courtney Tritch,DEM,20,5,0,25
+DeKalb,Jackson South,State Senate,14,No Candidate Filed,DEM,0,0,0,0
+DeKalb,Jackson South,State House,52,Martha Lemert,DEM,20,5,0,25
+DeKalb,Keyser 1,Ballots Cast,,,,77,11,0,88
+DeKalb,Keyser 1,Registered Voters,,,,,,,956
+DeKalb,Keyser 1,U.S. Senate,,Mike Braun,REP,22,2,0,24
+DeKalb,Keyser 1,U.S. Senate,,Luke Messer,REP,17,3,0,20
+DeKalb,Keyser 1,U.S. Senate,,Todd Rokita,REP,20,2,0,22
+DeKalb,Keyser 1,U.S. House,3,Jim Banks,REP,43,5,0,48
+DeKalb,Keyser 1,State House,52,William Carlin,REP,35,6,0,41
+DeKalb,Keyser 1,State House,52,Ben Smaltz,REP,24,1,0,25
+DeKalb,Keyser 1,U.S. Senate,,Joe Donnelly,DEM,15,2,0,17
+DeKalb,Keyser 1,U.S. House,3,John F. Roberson,DEM,2,1,0,3
+DeKalb,Keyser 1,U.S. House,3,Tommy A. Schrader,DEM,3,0,0,3
+DeKalb,Keyser 1,U.S. House,3,Courtney Tritch,DEM,10,3,0,13
+DeKalb,Keyser 1,State House,52,Martha Lemert,DEM,14,2,0,16
+DeKalb,Keyser 2,Ballots Cast,,,,154,25,0,179
+DeKalb,Keyser 2,Registered Voters,,,,,,,880
+DeKalb,Keyser 2,U.S. Senate,,Mike Braun,REP,52,3,0,55
+DeKalb,Keyser 2,U.S. Senate,,Luke Messer,REP,22,4,0,26
+DeKalb,Keyser 2,U.S. Senate,,Todd Rokita,REP,29,1,0,30
+DeKalb,Keyser 2,U.S. House,3,Jim Banks,REP,93,6,0,99
+DeKalb,Keyser 2,State House,52,William Carlin,REP,61,10,0,71
+DeKalb,Keyser 2,State House,52,Ben Smaltz,REP,50,7,0,57
+DeKalb,Keyser 2,U.S. Senate,,Joe Donnelly,DEM,37,6,0,43
+DeKalb,Keyser 2,U.S. House,3,John F. Roberson,DEM,2,3,0,5
+DeKalb,Keyser 2,U.S. House,3,Tommy A. Schrader,DEM,5,1,0,6
+DeKalb,Keyser 2,U.S. House,3,Courtney Tritch,DEM,29,3,0,32
+DeKalb,Keyser 2,State House,52,Martha Lemert,DEM,32,7,0,39
+DeKalb,Keyser 3,Ballots Cast,,,,147,18,0,165
+DeKalb,Keyser 3,Registered Voters,,,,,,,1007
+DeKalb,Keyser 3,U.S. Senate,,Mike Braun,REP,47,5,0,52
+DeKalb,Keyser 3,U.S. Senate,,Luke Messer,REP,36,4,0,40
+DeKalb,Keyser 3,U.S. Senate,,Todd Rokita,REP,27,5,0,32
+DeKalb,Keyser 3,U.S. House,3,Jim Banks,REP,95,10,0,105
+DeKalb,Keyser 3,State House,52,William Carlin,REP,52,8,0,60
+DeKalb,Keyser 3,State House,52,Ben Smaltz,REP,59,9,0,68
+DeKalb,Keyser 3,U.S. Senate,,Joe Donnelly,DEM,25,1,0,26
+DeKalb,Keyser 3,U.S. House,3,John F. Roberson,DEM,5,0,0,5
+DeKalb,Keyser 3,U.S. House,3,Tommy A. Schrader,DEM,7,0,0,7
+DeKalb,Keyser 3,U.S. House,3,Courtney Tritch,DEM,15,1,0,16
+DeKalb,Keyser 3,State House,52,Martha Lemert,DEM,24,1,0,25
+DeKalb,Keyser 4,Ballots Cast,,,,203,27,0,230
+DeKalb,Keyser 4,Registered Voters,,,,,,,1083
+DeKalb,Keyser 4,U.S. Senate,,Mike Braun,REP,52,6,0,58
+DeKalb,Keyser 4,U.S. Senate,,Luke Messer,REP,39,9,0,48
+DeKalb,Keyser 4,U.S. Senate,,Todd Rokita,REP,44,5,0,49
+DeKalb,Keyser 4,U.S. House,3,Jim Banks,REP,119,13,0,132
+DeKalb,Keyser 4,State House,52,William Carlin,REP,84,9,0,93
+DeKalb,Keyser 4,State House,52,Ben Smaltz,REP,66,12,0,78
+DeKalb,Keyser 4,U.S. Senate,,Joe Donnelly,DEM,47,4,0,51
+DeKalb,Keyser 4,U.S. House,3,John F. Roberson,DEM,7,0,0,7
+DeKalb,Keyser 4,U.S. House,3,Tommy A. Schrader,DEM,7,1,0,8
+DeKalb,Keyser 4,U.S. House,3,Courtney Tritch,DEM,33,4,0,37
+DeKalb,Keyser 4,State House,52,Martha Lemert,DEM,41,4,0,45
+DeKalb,Keyser 5,Ballots Cast,,,,136,33,0,169
+DeKalb,Keyser 5,Registered Voters,,,,,,,768
+DeKalb,Keyser 5,U.S. Senate,,Mike Braun,REP,42,8,0,50
+DeKalb,Keyser 5,U.S. Senate,,Luke Messer,REP,30,2,0,32
+DeKalb,Keyser 5,U.S. Senate,,Todd Rokita,REP,41,13,0,54
+DeKalb,Keyser 5,U.S. House,3,Jim Banks,REP,91,17,0,108
+DeKalb,Keyser 5,State House,52,William Carlin,REP,55,8,0,63
+DeKalb,Keyser 5,State House,52,Ben Smaltz,REP,66,15,0,81
+DeKalb,Keyser 5,U.S. Senate,,Joe Donnelly,DEM,10,9,0,19
+DeKalb,Keyser 5,U.S. House,3,John F. Roberson,DEM,0,0,0,0
+DeKalb,Keyser 5,U.S. House,3,Tommy A. Schrader,DEM,3,1,0,4
+DeKalb,Keyser 5,U.S. House,3,Courtney Tritch,DEM,9,8,0,17
+DeKalb,Keyser 5,State House,52,Martha Lemert,DEM,7,9,0,16
+DeKalb,Keyser 6,Ballots Cast,,,,1,2,0,3
+DeKalb,Keyser 6,Registered Voters,,,,,,,86
+DeKalb,Keyser 6,U.S. Senate,,Mike Braun,REP,1,0,0,1
+DeKalb,Keyser 6,U.S. Senate,,Luke Messer,REP,0,1,0,1
+DeKalb,Keyser 6,U.S. Senate,,Todd Rokita,REP,0,0,0,0
+DeKalb,Keyser 6,U.S. House,3,Jim Banks,REP,1,1,0,2
+DeKalb,Keyser 6,State House,52,William Carlin,REP,0,0,0,0
+DeKalb,Keyser 6,State House,52,Ben Smaltz,REP,1,1,0,2
+DeKalb,Keyser 6,U.S. Senate,,Joe Donnelly,DEM,0,1,0,1
+DeKalb,Keyser 6,U.S. House,3,John F. Roberson,DEM,0,0,0,0
+DeKalb,Keyser 6,U.S. House,3,Tommy A. Schrader,DEM,0,0,0,0
+DeKalb,Keyser 6,U.S. House,3,Courtney Tritch,DEM,0,1,0,1
+DeKalb,Keyser 6,State House,52,Martha Lemert,DEM,0,1,0,1
+DeKalb,Newville,Ballots Cast,,,,66,4,0,70
+DeKalb,Newville,Registered Voters,,,,,,,364
+DeKalb,Newville,U.S. Senate,,Mike Braun,REP,12,0,0,12
+DeKalb,Newville,U.S. Senate,,Luke Messer,REP,17,0,0,17
+DeKalb,Newville,U.S. Senate,,Todd Rokita,REP,29,1,0,30
+DeKalb,Newville,U.S. House,3,Jim Banks,REP,50,2,0,52
+DeKalb,Newville,State Senate,14,Dennis K. Kruse,REP,50,2,0,52
+DeKalb,Newville,State House,52,William Carlin,REP,25,2,0,27
+DeKalb,Newville,State House,52,Ben Smaltz,REP,35,0,0,35
+DeKalb,Newville,U.S. Senate,,Joe Donnelly,DEM,5,2,0,7
+DeKalb,Newville,U.S. House,3,John F. Roberson,DEM,0,0,0,0
+DeKalb,Newville,U.S. House,3,Tommy A. Schrader,DEM,2,0,0,2
+DeKalb,Newville,U.S. House,3,Courtney Tritch,DEM,3,2,0,5
+DeKalb,Newville,State Senate,14,No Candidate Filed,DEM,0,0,0,0
+DeKalb,Newville,State House,52,Martha Lemert,DEM,4,2,0,6
+DeKalb,Richland,Ballots Cast,,,,200,32,0,232
+DeKalb,Richland,Registered Voters,,,,,,,933
+DeKalb,Richland,U.S. Senate,,Mike Braun,REP,73,10,0,83
+DeKalb,Richland,U.S. Senate,,Luke Messer,REP,45,8,0,53
+DeKalb,Richland,U.S. Senate,,Todd Rokita,REP,46,6,0,52
+DeKalb,Richland,U.S. House,3,Jim Banks,REP,148,21,0,169
+DeKalb,Richland,State House,52,William Carlin,REP,65,4,0,69
+DeKalb,Richland,State House,52,Ben Smaltz,REP,110,21,0,131
+DeKalb,Richland,U.S. Senate,,Joe Donnelly,DEM,20,6,0,26
+DeKalb,Richland,U.S. House,3,John F. Roberson,DEM,3,2,0,5
+DeKalb,Richland,U.S. House,3,Tommy A. Schrader,DEM,3,1,0,4
+DeKalb,Richland,U.S. House,3,Courtney Tritch,DEM,12,4,0,16
+DeKalb,Richland,State House,52,Martha Lemert,DEM,14,7,0,21
+DeKalb,Smithfield East,Ballots Cast,,,,113,25,0,138
+DeKalb,Smithfield East,Registered Voters,,,,,,,523
+DeKalb,Smithfield East,U.S. Senate,,Mike Braun,REP,39,5,0,44
+DeKalb,Smithfield East,U.S. Senate,,Luke Messer,REP,24,6,0,30
+DeKalb,Smithfield East,U.S. Senate,,Todd Rokita,REP,34,10,0,44
+DeKalb,Smithfield East,U.S. House,3,Jim Banks,REP,84,19,0,103
+DeKalb,Smithfield East,State Senate,14,Dennis K. Kruse,REP,82,19,0,101
+DeKalb,Smithfield East,State House,52,William Carlin,REP,31,5,0,36
+DeKalb,Smithfield East,State House,52,Ben Smaltz,REP,71,18,0,89
+DeKalb,Smithfield East,U.S. Senate,,Joe Donnelly,DEM,3,1,0,4
+DeKalb,Smithfield East,U.S. House,3,John F. Roberson,DEM,1,1,0,2
+DeKalb,Smithfield East,U.S. House,3,Tommy A. Schrader,DEM,1,0,0,1
+DeKalb,Smithfield East,U.S. House,3,Courtney Tritch,DEM,1,1,0,2
+DeKalb,Smithfield East,State Senate,14,No Candidate Filed,DEM,0,0,0,0
+DeKalb,Smithfield East,State House,52,Martha Lemert,DEM,2,2,0,4
+DeKalb,Smithfield South,Ballots Cast,,,,2,0,0,2
+DeKalb,Smithfield South,Registered Voters,,,,,,,16
+DeKalb,Smithfield South,U.S. Senate,,Mike Braun,REP,0,0,0,0
+DeKalb,Smithfield South,U.S. Senate,,Luke Messer,REP,1,0,0,1
+DeKalb,Smithfield South,U.S. Senate,,Todd Rokita,REP,0,0,0,0
+DeKalb,Smithfield South,U.S. House,3,Jim Banks,REP,1,0,0,1
+DeKalb,Smithfield South,State Senate,14,Dennis K. Kruse,REP,1,0,0,1
+DeKalb,Smithfield South,State House,52,William Carlin,REP,0,0,0,0
+DeKalb,Smithfield South,State House,52,Ben Smaltz,REP,1,0,0,1
+DeKalb,Smithfield South,U.S. Senate,,Joe Donnelly,DEM,1,0,0,1
+DeKalb,Smithfield South,U.S. House,3,John F. Roberson,DEM,0,0,0,0
+DeKalb,Smithfield South,U.S. House,3,Tommy A. Schrader,DEM,0,0,0,0
+DeKalb,Smithfield South,U.S. House,3,Courtney Tritch,DEM,1,0,0,1
+DeKalb,Smithfield South,State Senate,14,No Candidate Filed,DEM,0,0,0,0
+DeKalb,Smithfield South,State House,52,Martha Lemert,DEM,1,0,0,1
+DeKalb,Smithfield West,Ballots Cast,,,,96,13,0,109
+DeKalb,Smithfield West,Registered Voters,,,,,,,560
+DeKalb,Smithfield West,U.S. Senate,,Mike Braun,REP,35,6,0,41
+DeKalb,Smithfield West,U.S. Senate,,Luke Messer,REP,25,4,0,29
+DeKalb,Smithfield West,U.S. Senate,,Todd Rokita,REP,23,1,0,24
+DeKalb,Smithfield West,U.S. House,3,Jim Banks,REP,65,10,0,75
+DeKalb,Smithfield West,State Senate,14,Dennis K. Kruse,REP,71,10,0,81
+DeKalb,Smithfield West,State House,52,William Carlin,REP,19,3,0,22
+DeKalb,Smithfield West,State House,52,Ben Smaltz,REP,59,9,0,68
+DeKalb,Smithfield West,U.S. Senate,,Joe Donnelly,DEM,12,1,0,13
+DeKalb,Smithfield West,U.S. House,3,John F. Roberson,DEM,2,0,0,2
+DeKalb,Smithfield West,U.S. House,3,Tommy A. Schrader,DEM,0,0,0,0
+DeKalb,Smithfield West,U.S. House,3,Courtney Tritch,DEM,9,1,0,10
+DeKalb,Smithfield West,State Senate,14,No Candidate Filed,DEM,0,0,0,0
+DeKalb,Smithfield West,State House,52,Martha Lemert,DEM,8,1,0,9
+DeKalb,Spencer,Ballots Cast,,,,138,29,0,167
+DeKalb,Spencer,Registered Voters,,,,,,,757
+DeKalb,Spencer,U.S. Senate,,Mike Braun,REP,47,9,0,56
+DeKalb,Spencer,U.S. Senate,,Luke Messer,REP,28,7,0,35
+DeKalb,Spencer,U.S. Senate,,Todd Rokita,REP,45,8,0,53
+DeKalb,Spencer,U.S. House,3,Jim Banks,REP,115,22,0,137
+DeKalb,Spencer,State Senate,14,Dennis K. Kruse,REP,105,17,0,122
+DeKalb,Spencer,State House,52,William Carlin,REP,30,5,0,35
+DeKalb,Spencer,State House,52,Ben Smaltz,REP,95,19,0,114
+DeKalb,Spencer,U.S. Senate,,Joe Donnelly,DEM,9,4,0,13
+DeKalb,Spencer,U.S. House,3,John F. Roberson,DEM,1,1,0,2
+DeKalb,Spencer,U.S. House,3,Tommy A. Schrader,DEM,2,0,0,2
+DeKalb,Spencer,U.S. House,3,Courtney Tritch,DEM,7,4,0,11
+DeKalb,Spencer,State Senate,14,No Candidate Filed,DEM,0,0,0,0
+DeKalb,Spencer,State House,52,Martha Lemert,DEM,10,5,0,15
+DeKalb,Stafford,Ballots Cast,,,,50,6,0,56
+DeKalb,Stafford,Registered Voters,,,,,,,221
+DeKalb,Stafford,U.S. Senate,,Mike Braun,REP,17,1,0,18
+DeKalb,Stafford,U.S. Senate,,Luke Messer,REP,13,1,0,14
+DeKalb,Stafford,U.S. Senate,,Todd Rokita,REP,17,3,0,20
+DeKalb,Stafford,U.S. House,3,Jim Banks,REP,38,4,0,42
+DeKalb,Stafford,State Senate,14,Dennis K. Kruse,REP,41,4,0,45
+DeKalb,Stafford,State House,52,William Carlin,REP,22,2,0,24
+DeKalb,Stafford,State House,52,Ben Smaltz,REP,25,3,0,28
+DeKalb,Stafford,U.S. Senate,,Joe Donnelly,DEM,1,1,0,2
+DeKalb,Stafford,U.S. House,3,John F. Roberson,DEM,0,1,0,1
+DeKalb,Stafford,U.S. House,3,Tommy A. Schrader,DEM,1,0,0,1
+DeKalb,Stafford,U.S. House,3,Courtney Tritch,DEM,0,0,0,0
+DeKalb,Stafford,State Senate,14,No Candidate Filed,DEM,0,0,0,0
+DeKalb,Stafford,State House,52,Martha Lemert,DEM,1,1,0,2
+DeKalb,Troy,Ballots Cast,,,,38,3,0,41
+DeKalb,Troy,Registered Voters,,,,,,,232
+DeKalb,Troy,U.S. Senate,,Mike Braun,REP,11,1,0,12
+DeKalb,Troy,U.S. Senate,,Luke Messer,REP,11,0,0,11
+DeKalb,Troy,U.S. Senate,,Todd Rokita,REP,9,1,0,10
+DeKalb,Troy,U.S. House,3,Jim Banks,REP,31,2,0,33
+DeKalb,Troy,State Senate,14,Dennis K. Kruse,REP,32,2,0,34
+DeKalb,Troy,State House,52,William Carlin,REP,15,0,0,15
+DeKalb,Troy,State House,52,Ben Smaltz,REP,21,2,0,23
+DeKalb,Troy,U.S. Senate,,Joe Donnelly,DEM,1,1,0,2
+DeKalb,Troy,U.S. House,3,John F. Roberson,DEM,0,0,0,0
+DeKalb,Troy,U.S. House,3,Tommy A. Schrader,DEM,0,0,0,0
+DeKalb,Troy,U.S. House,3,Courtney Tritch,DEM,1,1,0,2
+DeKalb,Troy,State Senate,14,No Candidate Filed,DEM,0,0,0,0
+DeKalb,Troy,State House,52,Martha Lemert,DEM,1,1,0,2
+DeKalb,Union 1,Ballots Cast,,,,198,104,0,302
+DeKalb,Union 1,Registered Voters,,,,,,,
+DeKalb,Union 1,U.S. Senate,,Mike Braun,REP,58,28,0,86
+DeKalb,Union 1,U.S. Senate,,Luke Messer,REP,52,21,0,73
+DeKalb,Union 1,U.S. Senate,,Todd Rokita,REP,56,26,0,82
+DeKalb,Union 1,U.S. House,3,Jim Banks,REP,144,62,0,206
+DeKalb,Union 1,State Senate,14,Dennis K. Kruse,REP,143,71,0,214
+DeKalb,Union 1,State House,52,William Carlin,REP,46,19,0,65
+DeKalb,Union 1,State House,52,Ben Smaltz,REP,128,67,0,195
+DeKalb,Union 1,U.S. Senate,,Joe Donnelly,DEM,19,17,0,36
+DeKalb,Union 1,U.S. House,3,John F. Roberson,DEM,0,1,0,1
+DeKalb,Union 1,U.S. House,3,Tommy A. Schrader,DEM,2,1,0,3
+DeKalb,Union 1,U.S. House,3,Courtney Tritch,DEM,17,12,0,29
+DeKalb,Union 1,State Senate,14,No Candidate Filed,DEM,0,0,0,0
+DeKalb,Union 1,State House,52,Martha Lemert,DEM,17,8,0,25
+DeKalb,Union 2,Ballots Cast,,,,133,63,0,196
+DeKalb,Union 2,Registered Voters,,,,,,,779
+DeKalb,Union 2,U.S. Senate,,Mike Braun,REP,35,18,0,53
+DeKalb,Union 2,U.S. Senate,,Luke Messer,REP,34,13,0,47
+DeKalb,Union 2,U.S. Senate,,Todd Rokita,REP,34,25,0,59
+DeKalb,Union 2,U.S. House,3,Jim Banks,REP,95,51,0,146
+DeKalb,Union 2,State Senate,14,Dennis K. Kruse,REP,90,44,0,134
+DeKalb,Union 2,State House,52,William Carlin,REP,25,14,0,39
+DeKalb,Union 2,State House,52,Ben Smaltz,REP,86,44,0,130
+DeKalb,Union 2,U.S. Senate,,Joe Donnelly,DEM,17,3,0,20
+DeKalb,Union 2,U.S. House,3,John F. Roberson,DEM,1,1,0,2
+DeKalb,Union 2,U.S. House,3,Tommy A. Schrader,DEM,3,0,0,3
+DeKalb,Union 2,U.S. House,3,Courtney Tritch,DEM,13,3,0,16
+DeKalb,Union 2,State Senate,14,No Candidate Filed,DEM,0,0,0,0
+DeKalb,Union 2,State House,52,Martha Lemert,DEM,16,3,0,19
+DeKalb,Union 3,Ballots Cast,,,,111,76,0,187
+DeKalb,Union 3,Registered Voters,,,,,,,982
+DeKalb,Union 3,U.S. Senate,,Mike Braun,REP,27,22,0,49
+DeKalb,Union 3,U.S. Senate,,Luke Messer,REP,18,13,0,31
+DeKalb,Union 3,U.S. Senate,,Todd Rokita,REP,34,21,0,55
+DeKalb,Union 3,U.S. House,3,Jim Banks,REP,69,48,0,117
+DeKalb,Union 3,State Senate,14,Dennis K. Kruse,REP,74,51,0,125
+DeKalb,Union 3,State House,52,William Carlin,REP,22,14,0,36
+DeKalb,Union 3,State House,52,Ben Smaltz,REP,64,46,0,110
+DeKalb,Union 3,U.S. Senate,,Joe Donnelly,DEM,23,11,0,34
+DeKalb,Union 3,U.S. House,3,John F. Roberson,DEM,1,1,0,2
+DeKalb,Union 3,U.S. House,3,Tommy A. Schrader,DEM,7,1,0,8
+DeKalb,Union 3,U.S. House,3,Courtney Tritch,DEM,15,9,0,24
+DeKalb,Union 3,State Senate,14,No Candidate Filed,DEM,0,0,0,0
+DeKalb,Union 3,State House,52,Martha Lemert,DEM,21,8,0,29
+DeKalb,Union 4,Ballots Cast,,,,40,9,0,49
+DeKalb,Union 4,Registered Voters,,,,,,,617
+DeKalb,Union 4,U.S. Senate,,Mike Braun,REP,11,1,0,12
+DeKalb,Union 4,U.S. Senate,,Luke Messer,REP,5,2,0,7
+DeKalb,Union 4,U.S. Senate,,Todd Rokita,REP,10,1,0,11
+DeKalb,Union 4,U.S. House,3,Jim Banks,REP,24,4,0,28
+DeKalb,Union 4,State Senate,14,Dennis K. Kruse,REP,23,4,0,27
+DeKalb,Union 4,State House,52,William Carlin,REP,13,0,0,13
+DeKalb,Union 4,State House,52,Ben Smaltz,REP,14,4,0,18
+DeKalb,Union 4,U.S. Senate,,Joe Donnelly,DEM,12,4,0,16
+DeKalb,Union 4,U.S. House,3,John F. Roberson,DEM,2,0,0,2
+DeKalb,Union 4,U.S. House,3,Tommy A. Schrader,DEM,3,2,0,5
+DeKalb,Union 4,U.S. House,3,Courtney Tritch,DEM,7,3,0,10
+DeKalb,Union 4,State Senate,14,No Candidate Filed,DEM,0,0,0,0
+DeKalb,Union 4,State House,52,Martha Lemert,DEM,12,4,0,16
+DeKalb,Union 5,Ballots Cast,,,,82,12,0,94
+DeKalb,Union 5,Registered Voters,,,,,,,697
+DeKalb,Union 5,U.S. Senate,,Mike Braun,REP,25,5,0,30
+DeKalb,Union 5,U.S. Senate,,Luke Messer,REP,21,1,0,22
+DeKalb,Union 5,U.S. Senate,,Todd Rokita,REP,17,4,0,21
+DeKalb,Union 5,U.S. House,3,Jim Banks,REP,59,7,0,66
+DeKalb,Union 5,State Senate,14,Dennis K. Kruse,REP,61,10,0,71
+DeKalb,Union 5,State House,52,William Carlin,REP,28,2,0,30
+DeKalb,Union 5,State House,52,Ben Smaltz,REP,46,9,0,55
+DeKalb,Union 5,U.S. Senate,,Joe Donnelly,DEM,8,1,0,9
+DeKalb,Union 5,U.S. House,3,John F. Roberson,DEM,0,0,0,0
+DeKalb,Union 5,U.S. House,3,Tommy A. Schrader,DEM,0,0,0,0
+DeKalb,Union 5,U.S. House,3,Courtney Tritch,DEM,7,1,0,8
+DeKalb,Union 5,State Senate,14,No Candidate Filed,DEM,0,0,0,0
+DeKalb,Union 5,State House,52,Martha Lemert,DEM,5,1,0,6
+DeKalb,Union 6,Ballots Cast,,,,86,16,0,102
+DeKalb,Union 6,Registered Voters,,,,,,,628
+DeKalb,Union 6,U.S. Senate,,Mike Braun,REP,23,3,0,26
+DeKalb,Union 6,U.S. Senate,,Luke Messer,REP,16,2,0,18
+DeKalb,Union 6,U.S. Senate,,Todd Rokita,REP,19,7,0,26
+DeKalb,Union 6,U.S. House,3,Jim Banks,REP,41,9,0,50
+DeKalb,Union 6,State Senate,14,Dennis K. Kruse,REP,49,9,0,58
+DeKalb,Union 6,State House,52,William Carlin,REP,16,2,0,18
+DeKalb,Union 6,State House,52,Ben Smaltz,REP,48,9,0,57
+DeKalb,Union 6,U.S. Senate,,Joe Donnelly,DEM,16,2,0,18
+DeKalb,Union 6,U.S. House,3,John F. Roberson,DEM,2,0,0,2
+DeKalb,Union 6,U.S. House,3,Tommy A. Schrader,DEM,7,0,0,7
+DeKalb,Union 6,U.S. House,3,Courtney Tritch,DEM,11,4,0,15
+DeKalb,Union 6,State Senate,14,No Candidate Filed,DEM,0,0,0,0
+DeKalb,Union 6,State House,52,Martha Lemert,DEM,17,2,0,19
+DeKalb,Union 7,Ballots Cast,,,,164,79,0,243
+DeKalb,Union 7,Registered Voters,,,,,,,897
+DeKalb,Union 7,U.S. Senate,,Mike Braun,REP,47,27,0,74
+DeKalb,Union 7,U.S. Senate,,Luke Messer,REP,39,19,0,58
+DeKalb,Union 7,U.S. Senate,,Todd Rokita,REP,54,18,0,72
+DeKalb,Union 7,U.S. House,3,Jim Banks,REP,117,53,0,170
+DeKalb,Union 7,State Senate,14,Dennis K. Kruse,REP,115,58,0,173
+DeKalb,Union 7,State House,52,William Carlin,REP,48,21,0,69
+DeKalb,Union 7,State House,52,Ben Smaltz,REP,92,44,0,136
+DeKalb,Union 7,U.S. Senate,,Joe Donnelly,DEM,19,9,0,28
+DeKalb,Union 7,U.S. House,3,John F. Roberson,DEM,2,1,0,3
+DeKalb,Union 7,U.S. House,3,Tommy A. Schrader,DEM,0,2,0,2
+DeKalb,Union 7,U.S. House,3,Courtney Tritch,DEM,17,5,0,22
+DeKalb,Union 7,State Senate,14,No Candidate Filed,DEM,0,0,0,0
+DeKalb,Union 7,State House,52,Martha Lemert,DEM,13,7,0,20
+DeKalb,Union 8,Ballots Cast,,,,82,32,0,114
+DeKalb,Union 8,Registered Voters,,,,,,,819
+DeKalb,Union 8,U.S. Senate,,Mike Braun,REP,22,12,0,34
+DeKalb,Union 8,U.S. Senate,,Luke Messer,REP,18,6,0,24
+DeKalb,Union 8,U.S. Senate,,Todd Rokita,REP,15,8,0,23
+DeKalb,Union 8,U.S. House,3,Jim Banks,REP,44,20,0,64
+DeKalb,Union 8,State Senate,14,Dennis K. Kruse,REP,46,12,0,58
+DeKalb,Union 8,State House,52,William Carlin,REP,17,10,0,27
+DeKalb,Union 8,State House,52,Ben Smaltz,REP,38,15,0,53
+DeKalb,Union 8,U.S. Senate,,Joe Donnelly,DEM,21,5,0,26
+DeKalb,Union 8,U.S. House,3,John F. Roberson,DEM,2,1,0,3
+DeKalb,Union 8,U.S. House,3,Tommy A. Schrader,DEM,5,2,0,7
+DeKalb,Union 8,U.S. House,3,Courtney Tritch,DEM,15,2,0,17
+DeKalb,Union 8,State Senate,14,No Candidate Filed,DEM,0,0,0,0
+DeKalb,Union 8,State House,52,Martha Lemert,DEM,21,4,0,25
+DeKalb,Union 9,Ballots Cast,,,,134,52,0,186
+DeKalb,Union 9,Registered Voters,,,,,,,678
+DeKalb,Union 9,U.S. Senate,,Mike Braun,REP,36,20,0,56
+DeKalb,Union 9,U.S. Senate,,Luke Messer,REP,39,7,0,46
+DeKalb,Union 9,U.S. Senate,,Todd Rokita,REP,34,17,0,51
+DeKalb,Union 9,U.S. House,3,Jim Banks,REP,96,32,0,128
+DeKalb,Union 9,State Senate,14,Dennis K. Kruse,REP,101,34,0,135
+DeKalb,Union 9,State House,52,William Carlin,REP,33,12,0,45
+DeKalb,Union 9,State House,52,Ben Smaltz,REP,84,33,0,117
+DeKalb,Union 9,U.S. Senate,,Joe Donnelly,DEM,16,6,0,22
+DeKalb,Union 9,U.S. House,3,John F. Roberson,DEM,0,1,0,1
+DeKalb,Union 9,U.S. House,3,Tommy A. Schrader,DEM,2,0,0,2
+DeKalb,Union 9,U.S. House,3,Courtney Tritch,DEM,12,4,0,16
+DeKalb,Union 9,State Senate,14,No Candidate Filed,DEM,0,0,0,0
+DeKalb,Union 9,State House,52,Martha Lemert,DEM,11,5,0,16
+DeKalb,Union 10,Ballots Cast,,,,163,42,1,206
+DeKalb,Union 10,Registered Voters,,,,,,,955
+DeKalb,Union 10,U.S. Senate,,Mike Braun,REP,39,17,0,56
+DeKalb,Union 10,U.S. Senate,,Luke Messer,REP,36,13,0,49
+DeKalb,Union 10,U.S. Senate,,Todd Rokita,REP,45,10,1,56
+DeKalb,Union 10,U.S. House,3,Jim Banks,REP,105,34,1,140
+DeKalb,Union 10,State Senate,14,Dennis K. Kruse,REP,102,32,1,135
+DeKalb,Union 10,State House,52,William Carlin,REP,44,8,0,52
+DeKalb,Union 10,State House,52,Ben Smaltz,REP,83,32,1,116
+DeKalb,Union 10,U.S. Senate,,Joe Donnelly,DEM,31,2,0,33
+DeKalb,Union 10,U.S. House,3,John F. Roberson,DEM,2,0,0,2
+DeKalb,Union 10,U.S. House,3,Tommy A. Schrader,DEM,4,0,0,4
+DeKalb,Union 10,U.S. House,3,Courtney Tritch,DEM,25,1,0,26
+DeKalb,Union 10,State Senate,14,No Candidate Filed,DEM,0,0,0,0
+DeKalb,Union 10,State House,52,Martha Lemert,DEM,26,1,0,27
+DeKalb,Union 11,Ballots Cast,,,,224,75,0,299
+DeKalb,Union 11,Registered Voters,,,,,,,888
+DeKalb,Union 11,U.S. Senate,,Mike Braun,REP,69,23,0,92
+DeKalb,Union 11,U.S. Senate,,Luke Messer,REP,56,15,0,71
+DeKalb,Union 11,U.S. Senate,,Todd Rokita,REP,60,21,0,81
+DeKalb,Union 11,U.S. House,3,Jim Banks,REP,159,49,0,208
+DeKalb,Union 11,State Senate,14,Dennis K. Kruse,REP,171,48,0,219
+DeKalb,Union 11,State House,52,William Carlin,REP,53,12,0,65
+DeKalb,Union 11,State House,52,Ben Smaltz,REP,148,51,0,199
+DeKalb,Union 11,U.S. Senate,,Joe Donnelly,DEM,16,10,0,26
+DeKalb,Union 11,U.S. House,3,John F. Roberson,DEM,3,1,0,4
+DeKalb,Union 11,U.S. House,3,Tommy A. Schrader,DEM,1,1,0,2
+DeKalb,Union 11,U.S. House,3,Courtney Tritch,DEM,14,8,0,22
+DeKalb,Union 11,State Senate,14,No Candidate Filed,DEM,0,0,0,0
+DeKalb,Union 11,State House,52,Martha Lemert,DEM,16,7,0,23
+DeKalb,Wilmington 1,Ballots Cast,,,,66,10,0,76
+DeKalb,Wilmington 1,Registered Voters,,,,,,,585
+DeKalb,Wilmington 1,U.S. Senate,,Mike Braun,REP,18,0,0,18
+DeKalb,Wilmington 1,U.S. Senate,,Luke Messer,REP,11,2,0,13
+DeKalb,Wilmington 1,U.S. Senate,,Todd Rokita,REP,27,4,0,31
+DeKalb,Wilmington 1,U.S. House,3,Jim Banks,REP,51,6,0,57
+DeKalb,Wilmington 1,State Senate,14,Dennis K. Kruse,REP,54,6,0,60
+DeKalb,Wilmington 1,State House,52,William Carlin,REP,29,2,0,31
+DeKalb,Wilmington 1,State House,52,Ben Smaltz,REP,32,4,0,36
+DeKalb,Wilmington 1,U.S. Senate,,Joe Donnelly,DEM,5,3,0,8
+DeKalb,Wilmington 1,U.S. House,3,John F. Roberson,DEM,1,1,0,2
+DeKalb,Wilmington 1,U.S. House,3,Tommy A. Schrader,DEM,1,1,0,2
+DeKalb,Wilmington 1,U.S. House,3,Courtney Tritch,DEM,3,1,0,4
+DeKalb,Wilmington 1,State Senate,14,No Candidate Filed,DEM,0,0,0,0
+DeKalb,Wilmington 1,State House,52,Martha Lemert,DEM,5,3,0,8
+DeKalb,Wilmington 2,Ballots Cast,,,,30,4,0,34
+DeKalb,Wilmington 2,Registered Voters,,,,,,,365
+DeKalb,Wilmington 2,U.S. Senate,,Mike Braun,REP,6,1,0,7
+DeKalb,Wilmington 2,U.S. Senate,,Luke Messer,REP,9,1,0,10
+DeKalb,Wilmington 2,U.S. Senate,,Todd Rokita,REP,8,1,0,9
+DeKalb,Wilmington 2,U.S. House,3,Jim Banks,REP,20,3,0,23
+DeKalb,Wilmington 2,State Senate,14,Dennis K. Kruse,REP,20,3,0,23
+DeKalb,Wilmington 2,State House,52,William Carlin,REP,15,2,0,17
+DeKalb,Wilmington 2,State House,52,Ben Smaltz,REP,11,1,0,12
+DeKalb,Wilmington 2,U.S. Senate,,Joe Donnelly,DEM,3,1,0,4
+DeKalb,Wilmington 2,U.S. House,3,John F. Roberson,DEM,0,0,0,0
+DeKalb,Wilmington 2,U.S. House,3,Tommy A. Schrader,DEM,1,0,0,1
+DeKalb,Wilmington 2,U.S. House,3,Courtney Tritch,DEM,2,1,0,3
+DeKalb,Wilmington 2,State Senate,14,No Candidate Filed,DEM,0,0,0,0
+DeKalb,Wilmington 2,State House,52,Martha Lemert,DEM,2,1,0,3
+DeKalb,Wilmington 3,Ballots Cast,,,,56,7,0,63
+DeKalb,Wilmington 3,Registered Voters,,,,,,,353
+DeKalb,Wilmington 3,U.S. Senate,,Mike Braun,REP,14,2,0,16
+DeKalb,Wilmington 3,U.S. Senate,,Luke Messer,REP,14,2,0,16
+DeKalb,Wilmington 3,U.S. Senate,,Todd Rokita,REP,17,2,0,19
+DeKalb,Wilmington 3,U.S. House,3,Jim Banks,REP,37,6,0,43
+DeKalb,Wilmington 3,State Senate,14,Dennis K. Kruse,REP,37,6,0,43
+DeKalb,Wilmington 3,State House,52,William Carlin,REP,23,2,0,25
+DeKalb,Wilmington 3,State House,52,Ben Smaltz,REP,24,4,0,28
+DeKalb,Wilmington 3,U.S. Senate,,Joe Donnelly,DEM,7,0,0,7
+DeKalb,Wilmington 3,U.S. House,3,John F. Roberson,DEM,0,0,0,0
+DeKalb,Wilmington 3,U.S. House,3,Tommy A. Schrader,DEM,0,0,0,0
+DeKalb,Wilmington 3,U.S. House,3,Courtney Tritch,DEM,8,1,0,9
+DeKalb,Wilmington 3,State Senate,14,No Candidate Filed,DEM,0,0,0,0
+DeKalb,Wilmington 3,State House,52,Martha Lemert,DEM,8,0,0,8
+DeKalb,Wilmington 4,Ballots Cast,,,,161,42,0,203
+DeKalb,Wilmington 4,Registered Voters,,,,,,,1015
+DeKalb,Wilmington 4,U.S. Senate,,Mike Braun,REP,49,10,0,59
+DeKalb,Wilmington 4,U.S. Senate,,Luke Messer,REP,43,9,0,52
+DeKalb,Wilmington 4,U.S. Senate,,Todd Rokita,REP,43,14,0,57
+DeKalb,Wilmington 4,U.S. House,3,Jim Banks,REP,121,30,0,151
+DeKalb,Wilmington 4,State Senate,14,Dennis K. Kruse,REP,123,32,0,155
+DeKalb,Wilmington 4,State House,52,William Carlin,REP,52,15,0,67
+DeKalb,Wilmington 4,State House,52,Ben Smaltz,REP,89,19,0,108
+DeKalb,Wilmington 4,U.S. Senate,,Joe Donnelly,DEM,14,7,0,21
+DeKalb,Wilmington 4,U.S. House,3,John F. Roberson,DEM,1,0,0,1
+DeKalb,Wilmington 4,U.S. House,3,Tommy A. Schrader,DEM,1,2,0,3
+DeKalb,Wilmington 4,U.S. House,3,Courtney Tritch,DEM,14,5,0,19
+DeKalb,Wilmington 4,State Senate,14,No Candidate Filed,DEM,0,0,0,0
+DeKalb,Wilmington 4,State House,52,Martha Lemert,DEM,15,7,0,22

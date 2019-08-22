@@ -1,0 +1,376 @@
+county,precinct,office,district,candidate,party,election_day,absentee,provisional,votes
+Adams,Berne A,Ballots Cast,,,,231,46,0,277
+Adams,Berne A,Registered Voters,,,,,,,1006
+Adams,Berne A,U.S. Senate,,Mike Braun,REP,73,20,0,93
+Adams,Berne A,U.S. Senate,,Luke Messer,REP,44,7,0,51
+Adams,Berne A,U.S. Senate,,Todd Rokita,REP,63,10,0,73
+Adams,Berne A,U.S. Senate,,Joe Donnelly,DEM,31,7,0,38
+Adams,Berne A,U.S. House,3,Jim Banks,REP,164,36,0,200
+Adams,Berne A,U.S. House,3,John F. Roberson,DEM,6,2,0,8
+Adams,Berne A,U.S. House,3,Tommy A. Schrader,DEM,5,2,0,7
+Adams,Berne A,U.S. House,3,Courtney Tritch,DEM,18,2,0,20
+Adams,Berne A,State Senate,19,Travis Holdman,REP,125,21,0,146
+Adams,Berne A,State Senate,19,Eric Orr,REP,67,18,0,85
+Adams,Berne A,State Senate,19,No Candiate Filed,DEM,0,0,0,0
+Adams,Berne A,State House,79,Matthew S. Lehman,REP,181,34,0,215
+Adams,Berne A,State House,79,No Candiate Filed,DEM,0,0,0,0
+Adams,Berne B,Ballots Cast,,,,248,48,0,296
+Adams,Berne B,Registered Voters,,,,,,,967
+Adams,Berne B,U.S. Senate,,Mike Braun,REP,101,18,0,119
+Adams,Berne B,U.S. Senate,,Luke Messer,REP,56,7,0,63
+Adams,Berne B,U.S. Senate,,Todd Rokita,REP,60,12,0,72
+Adams,Berne B,U.S. Senate,,Joe Donnelly,DEM,15,5,0,20
+Adams,Berne B,U.S. House,3,Jim Banks,REP,203,32,0,235
+Adams,Berne B,U.S. House,3,John F. Roberson,DEM,0,1,0,1
+Adams,Berne B,U.S. House,3,Tommy A. Schrader,DEM,2,1,0,3
+Adams,Berne B,U.S. House,3,Courtney Tritch,DEM,14,5,0,19
+Adams,Berne B,State Senate,19,Travis Holdman,REP,147,22,0,169
+Adams,Berne B,State Senate,19,Eric Orr,REP,80,18,0,98
+Adams,Berne B,State Senate,19,No Candiate Filed,DEM,0,0,0,0
+Adams,Berne B,State House,79,Matthew S. Lehman,REP,215,33,0,248
+Adams,Berne B,State House,79,No Candiate Filed,DEM,0,0,0,0
+Adams,Berne C,Ballots Cast,,,,279,95,0,374
+Adams,Berne C,Registered Voters,,,,,,,797
+Adams,Berne C,U.S. Senate,,Mike Braun,REP,117,25,0,142
+Adams,Berne C,U.S. Senate,,Luke Messer,REP,51,15,0,66
+Adams,Berne C,U.S. Senate,,Todd Rokita,REP,60,33,0,93
+Adams,Berne C,U.S. Senate,,Joe Donnelly,DEM,23,9,0,32
+Adams,Berne C,U.S. House,3,Jim Banks,REP,200,70,0,270
+Adams,Berne C,U.S. House,3,John F. Roberson,DEM,2,2,0,4
+Adams,Berne C,U.S. House,3,Tommy A. Schrader,DEM,3,5,0,8
+Adams,Berne C,U.S. House,3,Courtney Tritch,DEM,19,4,0,23
+Adams,Berne C,State Senate,19,Travis Holdman,REP,157,55,0,212
+Adams,Berne C,State Senate,19,Eric Orr,REP,90,21,0,111
+Adams,Berne C,State Senate,19,No Candiate Filed,DEM,0,0,0,0
+Adams,Berne C,State House,79,Matthew S. Lehman,REP,234,74,0,308
+Adams,Berne C,State House,79,No Candiate Filed,DEM,0,0,0,0
+Adams,Blue Creek,Ballots Cast,,,,70,22,0,92
+Adams,Blue Creek,Registered Voters,,,,,,,291
+Adams,Blue Creek,U.S. Senate,,Mike Braun,REP,24,6,0,30
+Adams,Blue Creek,U.S. Senate,,Luke Messer,REP,19,6,0,25
+Adams,Blue Creek,U.S. Senate,,Todd Rokita,REP,18,7,0,25
+Adams,Blue Creek,U.S. Senate,,Joe Donnelly,DEM,7,1,0,8
+Adams,Blue Creek,U.S. House,3,Jim Banks,REP,52,17,0,69
+Adams,Blue Creek,U.S. House,3,John F. Roberson,DEM,1,0,0,1
+Adams,Blue Creek,U.S. House,3,Tommy A. Schrader,DEM,3,0,0,3
+Adams,Blue Creek,U.S. House,3,Courtney Tritch,DEM,3,3,0,6
+Adams,Blue Creek,State Senate,19,Travis Holdman,REP,47,13,0,60
+Adams,Blue Creek,State Senate,19,Eric Orr,REP,14,6,0,20
+Adams,Blue Creek,State Senate,19,No Candiate Filed,DEM,0,0,0,0
+Adams,Blue Creek,State House,79,Matthew S. Lehman,REP,57,15,0,72
+Adams,Blue Creek,State House,79,No Candiate Filed,DEM,0,0,0,0
+Adams,Decatur 1,Ballots Cast,,,,212,116,0,328
+Adams,Decatur 1,Registered Voters,,,,,,,1529
+Adams,Decatur 1,U.S. Senate,,Mike Braun,REP,66,33,0,99
+Adams,Decatur 1,U.S. Senate,,Luke Messer,REP,36,15,0,51
+Adams,Decatur 1,U.S. Senate,,Todd Rokita,REP,54,23,0,77
+Adams,Decatur 1,U.S. Senate,,Joe Donnelly,DEM,39,33,0,72
+Adams,Decatur 1,U.S. House,3,Jim Banks,REP,133,62,0,195
+Adams,Decatur 1,U.S. House,3,John F. Roberson,DEM,5,5,0,10
+Adams,Decatur 1,U.S. House,3,Tommy A. Schrader,DEM,4,13,0,17
+Adams,Decatur 1,U.S. House,3,Courtney Tritch,DEM,35,17,0,52
+Adams,Decatur 1,State Senate,19,Travis Holdman,REP,131,42,0,173
+Adams,Decatur 1,State Senate,19,Eric Orr,REP,27,24,0,51
+Adams,Decatur 1,State Senate,19,No Candiate Filed,DEM,0,0,0,0
+Adams,Decatur 1,State House,79,Matthew S. Lehman,REP,142,63,0,205
+Adams,Decatur 1,State House,79,No Candiate Filed,DEM,0,0,0,0
+Adams,Decatur 2,Ballots Cast,,,,169,153,0,322
+Adams,Decatur 2,Registered Voters,,,,,,,1525
+Adams,Decatur 2,U.S. Senate,,Mike Braun,REP,52,40,0,92
+Adams,Decatur 2,U.S. Senate,,Luke Messer,REP,30,22,0,52
+Adams,Decatur 2,U.S. Senate,,Todd Rokita,REP,30,42,0,72
+Adams,Decatur 2,U.S. Senate,,Joe Donnelly,DEM,46,40,0,86
+Adams,Decatur 2,U.S. House,3,Jim Banks,REP,95,94,0,189
+Adams,Decatur 2,U.S. House,3,John F. Roberson,DEM,10,11,0,21
+Adams,Decatur 2,U.S. House,3,Tommy A. Schrader,DEM,7,12,0,19
+Adams,Decatur 2,U.S. House,3,Courtney Tritch,DEM,28,15,0,43
+Adams,Decatur 2,State Senate,19,Travis Holdman,REP,89,83,0,172
+Adams,Decatur 2,State Senate,19,Eric Orr,REP,24,21,0,45
+Adams,Decatur 2,State Senate,19,No Candiate Filed,DEM,0,0,0,0
+Adams,Decatur 2,State House,79,Matthew S. Lehman,REP,99,91,0,190
+Adams,Decatur 2,State House,79,No Candiate Filed,DEM,0,0,0,0
+Adams,Decatur 3,Ballots Cast,,,,95,62,0,157
+Adams,Decatur 3,Registered Voters,,,,,,,884
+Adams,Decatur 3,U.S. Senate,,Mike Braun,REP,21,17,0,38
+Adams,Decatur 3,U.S. Senate,,Luke Messer,REP,13,9,0,22
+Adams,Decatur 3,U.S. Senate,,Todd Rokita,REP,33,19,0,52
+Adams,Decatur 3,U.S. Senate,,Joe Donnelly,DEM,19,10,0,29
+Adams,Decatur 3,U.S. House,3,Jim Banks,REP,64,38,0,102
+Adams,Decatur 3,U.S. House,3,John F. Roberson,DEM,0,1,0,1
+Adams,Decatur 3,U.S. House,3,Tommy A. Schrader,DEM,4,0,0,4
+Adams,Decatur 3,U.S. House,3,Courtney Tritch,DEM,16,10,0,26
+Adams,Decatur 3,State Senate,19,Travis Holdman,REP,55,32,0,87
+Adams,Decatur 3,State Senate,19,Eric Orr,REP,14,15,0,29
+Adams,Decatur 3,State Senate,19,No Candiate Filed,DEM,0,0,0,0
+Adams,Decatur 3,State House,79,Matthew S. Lehman,REP,64,40,0,104
+Adams,Decatur 3,State House,79,No Candiate Filed,DEM,0,0,0,0
+Adams,Decatur 4,Ballots Cast,,,,181,90,0,271
+Adams,Decatur 4,Registered Voters,,,,,,,750
+Adams,Decatur 4,U.S. Senate,,Mike Braun,REP,59,28,0,87
+Adams,Decatur 4,U.S. Senate,,Luke Messer,REP,39,13,0,52
+Adams,Decatur 4,U.S. Senate,,Todd Rokita,REP,50,24,0,74
+Adams,Decatur 4,U.S. Senate,,Joe Donnelly,DEM,21,13,0,34
+Adams,Decatur 4,U.S. House,3,Jim Banks,REP,128,57,0,185
+Adams,Decatur 4,U.S. House,3,John F. Roberson,DEM,0,5,0,5
+Adams,Decatur 4,U.S. House,3,Tommy A. Schrader,DEM,7,1,0,8
+Adams,Decatur 4,U.S. House,3,Courtney Tritch,DEM,15,8,0,23
+Adams,Decatur 4,State Senate,19,Travis Holdman,REP,124,39,0,163
+Adams,Decatur 4,State Senate,19,Eric Orr,REP,29,29,0,58
+Adams,Decatur 4,State Senate,19,No Candiate Filed,DEM,0,0,0,0
+Adams,Decatur 4,State House,79,Matthew S. Lehman,REP,138,60,0,198
+Adams,Decatur 4,State House,79,No Candiate Filed,DEM,0,0,0,0
+Adams,Decatur 5,Ballots Cast,,,,198,95,0,293
+Adams,Decatur 5,Registered Voters,,,,,,,1526
+Adams,Decatur 5,U.S. Senate,,Mike Braun,REP,63,26,0,89
+Adams,Decatur 5,U.S. Senate,,Luke Messer,REP,32,15,0,47
+Adams,Decatur 5,U.S. Senate,,Todd Rokita,REP,48,27,0,75
+Adams,Decatur 5,U.S. Senate,,Joe Donnelly,DEM,36,17,0,53
+Adams,Decatur 5,U.S. House,3,Jim Banks,REP,124,66,0,190
+Adams,Decatur 5,U.S. House,3,John F. Roberson,DEM,2,0,0,2
+Adams,Decatur 5,U.S. House,3,Tommy A. Schrader,DEM,8,3,0,11
+Adams,Decatur 5,U.S. House,3,Courtney Tritch,DEM,31,16,0,47
+Adams,Decatur 5,State Senate,19,Travis Holdman,REP,107,45,0,152
+Adams,Decatur 5,State Senate,19,Eric Orr,REP,40,28,0,68
+Adams,Decatur 5,State Senate,19,No Candiate Filed,DEM,0,0,0,0
+Adams,Decatur 5,State House,79,Matthew S. Lehman,REP,133,70,0,203
+Adams,Decatur 5,State House,79,No Candiate Filed,DEM,0,0,0,0
+Adams,East Root,Ballots Cast,,,,132,92,0,224
+Adams,East Root,Registered Voters,,,,,,,1145
+Adams,East Root,U.S. Senate,,Mike Braun,REP,45,29,0,74
+Adams,East Root,U.S. Senate,,Luke Messer,REP,29,14,0,43
+Adams,East Root,U.S. Senate,,Todd Rokita,REP,39,28,0,67
+Adams,East Root,U.S. Senate,,Joe Donnelly,DEM,12,15,0,27
+Adams,East Root,U.S. House,3,Jim Banks,REP,95,62,0,157
+Adams,East Root,U.S. House,3,John F. Roberson,DEM,0,3,0,3
+Adams,East Root,U.S. House,3,Tommy A. Schrader,DEM,3,2,0,5
+Adams,East Root,U.S. House,3,Courtney Tritch,DEM,9,12,0,21
+Adams,East Root,State Senate,19,Travis Holdman,REP,90,57,0,147
+Adams,East Root,State Senate,19,Eric Orr,REP,28,13,0,41
+Adams,East Root,State Senate,19,No Candiate Filed,DEM,0,0,0,0
+Adams,East Root,State House,79,Matthew S. Lehman,REP,95,65,0,160
+Adams,East Root,State House,79,No Candiate Filed,DEM,0,0,0,0
+Adams,French,Ballots Cast,,,,95,29,0,124
+Adams,French,Registered Voters,,,,,,,455
+Adams,French,U.S. Senate,,Mike Braun,REP,36,10,0,46
+Adams,French,U.S. Senate,,Luke Messer,REP,15,2,0,17
+Adams,French,U.S. Senate,,Todd Rokita,REP,31,6,0,37
+Adams,French,U.S. Senate,,Joe Donnelly,DEM,7,10,0,17
+Adams,French,U.S. House,3,Jim Banks,REP,79,16,0,95
+Adams,French,U.S. House,3,John F. Roberson,DEM,0,0,0,0
+Adams,French,U.S. House,3,Tommy A. Schrader,DEM,0,1,0,1
+Adams,French,U.S. House,3,Courtney Tritch,DEM,7,9,0,16
+Adams,French,State Senate,19,Travis Holdman,REP,55,14,0,69
+Adams,French,State Senate,19,Eric Orr,REP,33,4,0,37
+Adams,French,State Senate,19,No Candiate Filed,DEM,0,0,0,0
+Adams,French,State House,79,Matthew S. Lehman,REP,84,19,0,103
+Adams,French,State House,79,No Candiate Filed,DEM,0,0,0,0
+Adams,Geneva,Ballots Cast,,,,204,37,0,241
+Adams,Geneva,Registered Voters,,,,,,,751
+Adams,Geneva,U.S. Senate,,Mike Braun,REP,67,14,0,81
+Adams,Geneva,U.S. Senate,,Luke Messer,REP,37,1,0,38
+Adams,Geneva,U.S. Senate,,Todd Rokita,REP,51,10,0,61
+Adams,Geneva,U.S. Senate,,Joe Donnelly,DEM,38,10,0,48
+Adams,Geneva,U.S. House,3,Jim Banks,REP,128,17,0,145
+Adams,Geneva,U.S. House,3,John F. Roberson,DEM,5,3,0,8
+Adams,Geneva,U.S. House,3,Tommy A. Schrader,DEM,10,2,0,12
+Adams,Geneva,U.S. House,3,Courtney Tritch,DEM,20,6,0,26
+Adams,Geneva,State Senate,19,Travis Holdman,REP,108,11,0,119
+Adams,Geneva,State Senate,19,Eric Orr,REP,49,15,0,64
+Adams,Geneva,State Senate,19,No Candiate Filed,DEM,0,0,0,0
+Adams,Geneva,State House,79,Matthew S. Lehman,REP,149,21,0,170
+Adams,Geneva,State House,79,No Candiate Filed,DEM,0,0,0,0
+Adams,Hartford,Ballots Cast,,,,121,29,0,150
+Adams,Hartford,Registered Voters,,,,,,,436
+Adams,Hartford,U.S. Senate,,Mike Braun,REP,49,8,0,57
+Adams,Hartford,U.S. Senate,,Luke Messer,REP,18,8,0,26
+Adams,Hartford,U.S. Senate,,Todd Rokita,REP,33,9,0,42
+Adams,Hartford,U.S. Senate,,Joe Donnelly,DEM,13,4,0,17
+Adams,Hartford,U.S. House,3,Jim Banks,REP,84,21,0,105
+Adams,Hartford,U.S. House,3,John F. Roberson,DEM,2,0,0,2
+Adams,Hartford,U.S. House,3,Tommy A. Schrader,DEM,0,0,0,0
+Adams,Hartford,U.S. House,3,Courtney Tritch,DEM,10,4,0,14
+Adams,Hartford,State Senate,19,Travis Holdman,REP,66,17,0,83
+Adams,Hartford,State Senate,19,Eric Orr,REP,36,7,0,43
+Adams,Hartford,State Senate,19,No Candiate Filed,DEM,0,0,0,0
+Adams,Hartford,State House,79,Matthew S. Lehman,REP,92,24,0,116
+Adams,Hartford,State House,79,No Candiate Filed,DEM,0,0,0,0
+Adams,Jefferson,Ballots Cast,,,,39,18,0,57
+Adams,Jefferson,Registered Voters,,,,,,,212
+Adams,Jefferson,U.S. Senate,,Mike Braun,REP,15,11,0,26
+Adams,Jefferson,U.S. Senate,,Luke Messer,REP,9,4,0,13
+Adams,Jefferson,U.S. Senate,,Todd Rokita,REP,12,2,0,14
+Adams,Jefferson,U.S. Senate,,Joe Donnelly,DEM,2,1,0,3
+Adams,Jefferson,U.S. House,3,Jim Banks,REP,33,13,0,46
+Adams,Jefferson,U.S. House,3,John F. Roberson,DEM,0,0,0,0
+Adams,Jefferson,U.S. House,3,Tommy A. Schrader,DEM,0,0,0,0
+Adams,Jefferson,U.S. House,3,Courtney Tritch,DEM,2,1,0,3
+Adams,Jefferson,State Senate,19,Travis Holdman,REP,23,13,0,36
+Adams,Jefferson,State Senate,19,Eric Orr,REP,14,4,0,18
+Adams,Jefferson,State Senate,19,No Candiate Filed,DEM,0,0,0,0
+Adams,Jefferson,State House,79,Matthew S. Lehman,REP,35,17,0,52
+Adams,Jefferson,State House,79,No Candiate Filed,DEM,0,0,0,0
+Adams,Kirkland,Ballots Cast,,,,115,41,0,156
+Adams,Kirkland,Registered Voters,,,,,,,589
+Adams,Kirkland,U.S. Senate,,Mike Braun,REP,39,11,0,50
+Adams,Kirkland,U.S. Senate,,Luke Messer,REP,24,7,0,31
+Adams,Kirkland,U.S. Senate,,Todd Rokita,REP,31,11,0,42
+Adams,Kirkland,U.S. Senate,,Joe Donnelly,DEM,14,6,0,20
+Adams,Kirkland,U.S. House,3,Jim Banks,REP,80,25,0,105
+Adams,Kirkland,U.S. House,3,John F. Roberson,DEM,3,1,0,4
+Adams,Kirkland,U.S. House,3,Tommy A. Schrader,DEM,2,0,0,2
+Adams,Kirkland,U.S. House,3,Courtney Tritch,DEM,8,4,0,12
+Adams,Kirkland,State Senate,19,Travis Holdman,REP,71,26,0,97
+Adams,Kirkland,State Senate,19,Eric Orr,REP,24,5,0,29
+Adams,Kirkland,State Senate,19,No Candiate Filed,DEM,0,0,0,0
+Adams,Kirkland,State House,79,Matthew S. Lehman,REP,87,29,0,116
+Adams,Kirkland,State House,79,No Candiate Filed,DEM,0,0,0,0
+Adams,Monroe A,Ballots Cast,,,,17,0,0,17
+Adams,Monroe A,Registered Voters,,,,,,,455
+Adams,Monroe A,U.S. Senate,,Mike Braun,REP,4,0,0,4
+Adams,Monroe A,U.S. Senate,,Luke Messer,REP,7,0,0,7
+Adams,Monroe A,U.S. Senate,,Todd Rokita,REP,4,0,0,4
+Adams,Monroe A,U.S. Senate,,Joe Donnelly,DEM,2,0,0,2
+Adams,Monroe A,U.S. House,3,Jim Banks,REP,10,0,0,10
+Adams,Monroe A,U.S. House,3,John F. Roberson,DEM,0,0,0,0
+Adams,Monroe A,U.S. House,3,Tommy A. Schrader,DEM,0,0,0,0
+Adams,Monroe A,U.S. House,3,Courtney Tritch,DEM,2,0,0,2
+Adams,Monroe A,State Senate,19,Travis Holdman,REP,8,0,0,8
+Adams,Monroe A,State Senate,19,Eric Orr,REP,4,0,0,4
+Adams,Monroe A,State Senate,19,No Candiate Filed,DEM,0,0,0,0
+Adams,Monroe A,State House,79,Matthew S. Lehman,REP,10,0,0,10
+Adams,Monroe A,State House,79,No Candiate Filed,DEM,0,0,0,0
+Adams,Monroe B,Ballots Cast,,,,112,22,0,134
+Adams,Monroe B,Registered Voters,,,,,,,111
+Adams,Monroe B,U.S. Senate,,Mike Braun,REP,38,9,0,47
+Adams,Monroe B,U.S. Senate,,Luke Messer,REP,18,5,0,23
+Adams,Monroe B,U.S. Senate,,Todd Rokita,REP,21,5,0,26
+Adams,Monroe B,U.S. Senate,,Joe Donnelly,DEM,20,2,0,22
+Adams,Monroe B,U.S. House,3,Jim Banks,REP,68,17,0,85
+Adams,Monroe B,U.S. House,3,John F. Roberson,DEM,8,0,0,8
+Adams,Monroe B,U.S. House,3,Tommy A. Schrader,DEM,4,0,0,4
+Adams,Monroe B,U.S. House,3,Courtney Tritch,DEM,11,2,0,13
+Adams,Monroe B,State Senate,19,Travis Holdman,REP,65,14,0,79
+Adams,Monroe B,State Senate,19,Eric Orr,REP,17,6,0,23
+Adams,Monroe B,State Senate,19,No Candiate Filed,DEM,0,0,0,0
+Adams,Monroe B,State House,79,Matthew S. Lehman,REP,78,18,0,96
+Adams,Monroe B,State House,79,No Candiate Filed,DEM,0,0,0,0
+Adams,North Washington,Ballots Cast,,,,85,22,0,107
+Adams,North Washington,Registered Voters,,,,,,,430
+Adams,North Washington,U.S. Senate,,Mike Braun,REP,28,7,0,35
+Adams,North Washington,U.S. Senate,,Luke Messer,REP,19,2,0,21
+Adams,North Washington,U.S. Senate,,Todd Rokita,REP,22,11,0,33
+Adams,North Washington,U.S. Senate,,Joe Donnelly,DEM,12,1,0,13
+Adams,North Washington,U.S. House,3,Jim Banks,REP,58,17,0,75
+Adams,North Washington,U.S. House,3,John F. Roberson,DEM,2,0,0,2
+Adams,North Washington,U.S. House,3,Tommy A. Schrader,DEM,4,0,0,4
+Adams,North Washington,U.S. House,3,Courtney Tritch,DEM,7,0,0,7
+Adams,North Washington,State Senate,19,Travis Holdman,REP,51,13,0,64
+Adams,North Washington,State Senate,19,Eric Orr,REP,19,8,0,27
+Adams,North Washington,State Senate,19,No Candiate Filed,DEM,0,0,0,0
+Adams,North Washington,State House,79,Matthew S. Lehman,REP,63,19,0,82
+Adams,North Washington,State House,79,No Candiate Filed,DEM,0,0,0,0
+Adams,Preble,Ballots Cast,,,,113,33,0,146
+Adams,Preble,Registered Voters,,,,,,,780
+Adams,Preble,U.S. Senate,,Mike Braun,REP,29,14,0,43
+Adams,Preble,U.S. Senate,,Luke Messer,REP,21,1,0,22
+Adams,Preble,U.S. Senate,,Todd Rokita,REP,37,8,0,45
+Adams,Preble,U.S. Senate,,Joe Donnelly,DEM,14,6,0,20
+Adams,Preble,U.S. House,3,Jim Banks,REP,76,22,0,98
+Adams,Preble,U.S. House,3,John F. Roberson,DEM,3,0,0,3
+Adams,Preble,U.S. House,3,Tommy A. Schrader,DEM,3,2,0,5
+Adams,Preble,U.S. House,3,Courtney Tritch,DEM,11,3,0,14
+Adams,Preble,State Senate,19,Travis Holdman,REP,83,20,0,103
+Adams,Preble,State Senate,19,Eric Orr,REP,11,4,0,15
+Adams,Preble,State Senate,19,No Candiate Filed,DEM,0,0,0,0
+Adams,Preble,State House,79,Matthew S. Lehman,REP,86,21,0,107
+Adams,Preble,State House,79,No Candiate Filed,DEM,0,0,0,0
+Adams,South Monroe,Ballots Cast,,,,160,18,0,178
+Adams,South Monroe,Registered Voters,,,,,,,515
+Adams,South Monroe,U.S. Senate,,Mike Braun,REP,69,6,0,75
+Adams,South Monroe,U.S. Senate,,Luke Messer,REP,32,5,0,37
+Adams,South Monroe,U.S. Senate,,Todd Rokita,REP,45,5,0,50
+Adams,South Monroe,U.S. Senate,,Joe Donnelly,DEM,6,1,0,7
+Adams,South Monroe,U.S. House,3,Jim Banks,REP,126,14,0,140
+Adams,South Monroe,U.S. House,3,John F. Roberson,DEM,2,0,0,2
+Adams,South Monroe,U.S. House,3,Tommy A. Schrader,DEM,1,0,0,1
+Adams,South Monroe,U.S. House,3,Courtney Tritch,DEM,4,1,0,5
+Adams,South Monroe,State Senate,19,Travis Holdman,REP,109,10,0,119
+Adams,South Monroe,State Senate,19,Eric Orr,REP,36,6,0,42
+Adams,South Monroe,State Senate,19,No Candiate Filed,DEM,0,0,0,0
+Adams,South Monroe,State House,79,Matthew S. Lehman,REP,133,16,0,149
+Adams,South Monroe,State House,79,No Candiate Filed,DEM,0,0,0,0
+Adams,South Washington,Ballots Cast,,,,135,57,0,192
+Adams,South Washington,Registered Voters,,,,,,,748
+Adams,South Washington,U.S. Senate,,Mike Braun,REP,52,17,0,69
+Adams,South Washington,U.S. Senate,,Luke Messer,REP,25,7,0,32
+Adams,South Washington,U.S. Senate,,Todd Rokita,REP,32,21,0,53
+Adams,South Washington,U.S. Senate,,Joe Donnelly,DEM,17,10,0,27
+Adams,South Washington,U.S. House,3,Jim Banks,REP,93,38,0,131
+Adams,South Washington,U.S. House,3,John F. Roberson,DEM,4,1,0,5
+Adams,South Washington,U.S. House,3,Tommy A. Schrader,DEM,2,2,0,4
+Adams,South Washington,U.S. House,3,Courtney Tritch,DEM,12,7,0,19
+Adams,South Washington,State Senate,19,Travis Holdman,REP,81,40,0,121
+Adams,South Washington,State Senate,19,Eric Orr,REP,32,6,0,38
+Adams,South Washington,State Senate,19,No Candiate Filed,DEM,0,0,0,0
+Adams,South Washington,State House,79,Matthew S. Lehman,REP,98,42,0,140
+Adams,South Washington,State House,79,No Candiate Filed,DEM,0,0,0,0
+Adams,St Marys,Ballots Cast,,,,121,47,0,168
+Adams,St Marys,Registered Voters,,,,,,,746
+Adams,St Marys,U.S. Senate,,Mike Braun,REP,54,17,0,71
+Adams,St Marys,U.S. Senate,,Luke Messer,REP,19,3,0,22
+Adams,St Marys,U.S. Senate,,Todd Rokita,REP,27,15,0,42
+Adams,St Marys,U.S. Senate,,Joe Donnelly,DEM,17,9,0,26
+Adams,St Marys,U.S. House,3,Jim Banks,REP,89,33,0,122
+Adams,St Marys,U.S. House,3,John F. Roberson,DEM,3,3,0,6
+Adams,St Marys,U.S. House,3,Tommy A. Schrader,DEM,3,0,0,3
+Adams,St Marys,U.S. House,3,Courtney Tritch,DEM,10,5,0,15
+Adams,St Marys,State Senate,19,Travis Holdman,REP,83,24,0,107
+Adams,St Marys,State Senate,19,Eric Orr,REP,19,11,0,30
+Adams,St Marys,State Senate,19,No Candiate Filed,DEM,0,0,0,0
+Adams,St Marys,State House,79,Matthew S. Lehman,REP,95,34,0,129
+Adams,St Marys,State House,79,No Candiate Filed,DEM,0,0,0,0
+Adams,Union,Ballots Cast,,,,97,41,0,138
+Adams,Union,Registered Voters,,,,,,,652
+Adams,Union,U.S. Senate,,Mike Braun,REP,27,13,0,40
+Adams,Union,U.S. Senate,,Luke Messer,REP,19,8,0,27
+Adams,Union,U.S. Senate,,Todd Rokita,REP,27,8,0,35
+Adams,Union,U.S. Senate,,Joe Donnelly,DEM,17,9,0,26
+Adams,Union,U.S. House,3,Jim Banks,REP,64,22,0,86
+Adams,Union,U.S. House,3,John F. Roberson,DEM,2,1,0,3
+Adams,Union,U.S. House,3,Tommy A. Schrader,DEM,3,1,0,4
+Adams,Union,U.S. House,3,Courtney Tritch,DEM,14,8,0,22
+Adams,Union,State Senate,19,Travis Holdman,REP,66,20,0,86
+Adams,Union,State Senate,19,Eric Orr,REP,12,8,0,20
+Adams,Union,State Senate,19,No Candiate Filed,DEM,0,0,0,0
+Adams,Union,State House,79,Matthew S. Lehman,REP,71,25,0,96
+Adams,Union,State House,79,No Candiate Filed,DEM,0,0,0,0
+Adams,Wabash,Ballots Cast,,,,128,30,0,158
+Adams,Wabash,Registered Voters,,,,,,,428
+Adams,Wabash,U.S. Senate,,Mike Braun,REP,49,13,0,62
+Adams,Wabash,U.S. Senate,,Luke Messer,REP,21,5,0,26
+Adams,Wabash,U.S. Senate,,Todd Rokita,REP,40,5,0,45
+Adams,Wabash,U.S. Senate,,Joe Donnelly,DEM,12,3,0,15
+Adams,Wabash,U.S. House,3,Jim Banks,REP,100,20,0,120
+Adams,Wabash,U.S. House,3,John F. Roberson,DEM,2,0,0,2
+Adams,Wabash,U.S. House,3,Tommy A. Schrader,DEM,0,1,0,1
+Adams,Wabash,U.S. House,3,Courtney Tritch,DEM,10,2,0,12
+Adams,Wabash,State Senate,19,Travis Holdman,REP,78,15,0,93
+Adams,Wabash,State Senate,19,Eric Orr,REP,35,12,0,47
+Adams,Wabash,State Senate,19,No Candiate Filed,DEM,0,0,0,0
+Adams,Wabash,State House,79,Matthew S. Lehman,REP,110,22,0,132
+Adams,Wabash,State House,79,No Candiate Filed,DEM,0,0,0,0
+Adams,West Root,Ballots Cast,,,,121,79,0,200
+Adams,West Root,Registered Voters,,,,,,,773
+Adams,West Root,U.S. Senate,,Mike Braun,REP,49,21,0,70
+Adams,West Root,U.S. Senate,,Luke Messer,REP,21,13,0,34
+Adams,West Root,U.S. Senate,,Todd Rokita,REP,38,29,0,67
+Adams,West Root,U.S. Senate,,Joe Donnelly,DEM,7,12,0,19
+Adams,West Root,U.S. House,3,Jim Banks,REP,92,60,0,152
+Adams,West Root,U.S. House,3,John F. Roberson,DEM,1,1,0,2
+Adams,West Root,U.S. House,3,Tommy A. Schrader,DEM,2,3,0,5
+Adams,West Root,U.S. House,3,Courtney Tritch,DEM,4,8,0,12
+Adams,West Root,State Senate,19,Travis Holdman,REP,92,52,0,144
+Adams,West Root,State Senate,19,Eric Orr,REP,18,11,0,29
+Adams,West Root,State Senate,19,No Candiate Filed,DEM,0,0,0,0
+Adams,West Root,State House,79,Matthew S. Lehman,REP,99,59,0,158
+Adams,West Root,State House,79,No Candiate Filed,DEM,0,0,0,0

@@ -1,0 +1,563 @@
+county,precinct,office,district,candidate,party,election_day,absentee,provisional,votes
+Fayette,C-1,Ballots Cast,,,,20,9,0,29
+Fayette,C-1,Registered Voters,,,,,,,289
+Fayette,C-1,U.S. Senate,,Joe Donnelly,DEM,6,5,0,11
+Fayette,C-1,U.S. Senate,,Mike Braun,REP,3,0,0,3
+Fayette,C-1,U.S. Senate,,Luke Messer,REP,1,3,0,4
+Fayette,C-1,U.S. Senate,,Todd Rokita,REP,6,1,0,7
+Fayette,C-1,U.S. House,6,George T. Holland,DEM,1,0,0,1
+Fayette,C-1,U.S. House,6,Jeannine Lee Lake,DEM,4,0,0,4
+Fayette,C-1,U.S. House,6,K. (Jasen) Lave,DEM,0,0,0,0
+Fayette,C-1,U.S. House,6,Jim Pruett,DEM,2,5,0,7
+Fayette,C-1,U.S. House,6,Lane Siekman,DEM,1,0,0,1
+Fayette,C-1,U.S. House,6,Joshua Williamson,DEM,1,0,0,1
+Fayette,C-1,U.S. House,6,Mike Campbell,REP,1,0,0,1
+Fayette,C-1,U.S. House,6,Jonathan M. Lamb,REP,5,0,0,5
+Fayette,C-1,U.S. House,6,Stephen M. MacKenzie,REP,1,1,0,2
+Fayette,C-1,U.S. House,6,Greg Pence,REP,3,3,0,6
+Fayette,C-1,U.S. House,6,Jeff Smith,REP,0,0,0,0
+Fayette,C-1,State House,55,No Candidate Filed,DEM,0,0,0,0
+Fayette,C-1,State House,55,Mark Bacon,REP,7,2,0,9
+Fayette,C-1,State House,55,Cindy Meyer Ziemke,REP,3,2,0,5
+Fayette,C-2,Ballots Cast,,,,127,76,0,203
+Fayette,C-2,Registered Voters,,,,,,,987
+Fayette,C-2,U.S. Senate,,Joe Donnelly,DEM,30,29,0,59
+Fayette,C-2,U.S. Senate,,Mike Braun,REP,27,5,0,32
+Fayette,C-2,U.S. Senate,,Luke Messer,REP,44,21,0,65
+Fayette,C-2,U.S. Senate,,Todd Rokita,REP,14,11,0,25
+Fayette,C-2,U.S. House,6,George T. Holland,DEM,7,4,0,11
+Fayette,C-2,U.S. House,6,Jeannine Lee Lake,DEM,8,9,0,17
+Fayette,C-2,U.S. House,6,K. (Jasen) Lave,DEM,1,0,0,1
+Fayette,C-2,U.S. House,6,Jim Pruett,DEM,12,14,0,26
+Fayette,C-2,U.S. House,6,Lane Siekman,DEM,3,2,0,5
+Fayette,C-2,U.S. House,6,Joshua Williamson,DEM,1,2,0,3
+Fayette,C-2,U.S. House,6,Mike Campbell,REP,2,1,0,3
+Fayette,C-2,U.S. House,6,Jonathan M. Lamb,REP,24,6,0,30
+Fayette,C-2,U.S. House,6,Stephen M. MacKenzie,REP,2,2,0,4
+Fayette,C-2,U.S. House,6,Greg Pence,REP,60,26,0,86
+Fayette,C-2,U.S. House,6,Jeff Smith,REP,1,1,0,2
+Fayette,C-2,State House,55,No Candidate Filed,DEM,0,0,0,0
+Fayette,C-2,State House,55,Mark Bacon,REP,42,9,0,51
+Fayette,C-2,State House,55,Cindy Meyer Ziemke,REP,47,29,0,76
+Fayette,C-3,Ballots Cast,,,,93,50,0,143
+Fayette,C-3,Registered Voters,,,,,,,668
+Fayette,C-3,U.S. Senate,,Joe Donnelly,DEM,29,19,0,48
+Fayette,C-3,U.S. Senate,,Mike Braun,REP,18,8,0,26
+Fayette,C-3,U.S. Senate,,Luke Messer,REP,34,16,0,50
+Fayette,C-3,U.S. Senate,,Todd Rokita,REP,4,1,0,5
+Fayette,C-3,U.S. House,6,George T. Holland,DEM,4,2,0,6
+Fayette,C-3,U.S. House,6,Jeannine Lee Lake,DEM,7,9,0,16
+Fayette,C-3,U.S. House,6,K. (Jasen) Lave,DEM,1,1,0,2
+Fayette,C-3,U.S. House,6,Jim Pruett,DEM,10,5,0,15
+Fayette,C-3,U.S. House,6,Lane Siekman,DEM,2,1,0,3
+Fayette,C-3,U.S. House,6,Joshua Williamson,DEM,3,0,0,3
+Fayette,C-3,U.S. House,6,Mike Campbell,REP,4,1,0,5
+Fayette,C-3,U.S. House,6,Jonathan M. Lamb,REP,12,3,0,15
+Fayette,C-3,U.S. House,6,Stephen M. MacKenzie,REP,1,1,0,2
+Fayette,C-3,U.S. House,6,Greg Pence,REP,36,19,0,55
+Fayette,C-3,U.S. House,6,Jeff Smith,REP,3,0,0,3
+Fayette,C-3,State House,55,No Candidate Filed,DEM,0,0,0,0
+Fayette,C-3,State House,55,Mark Bacon,REP,17,7,0,24
+Fayette,C-3,State House,55,Cindy Meyer Ziemke,REP,38,17,0,55
+Fayette,C-4,Ballots Cast,,,,42,15,0,57
+Fayette,C-4,Registered Voters,,,,,,,450
+Fayette,C-4,U.S. Senate,,Joe Donnelly,DEM,18,9,0,27
+Fayette,C-4,U.S. Senate,,Mike Braun,REP,9,1,0,10
+Fayette,C-4,U.S. Senate,,Luke Messer,REP,9,0,0,9
+Fayette,C-4,U.S. Senate,,Todd Rokita,REP,1,4,0,5
+Fayette,C-4,U.S. House,6,George T. Holland,DEM,0,3,0,3
+Fayette,C-4,U.S. House,6,Jeannine Lee Lake,DEM,5,1,0,6
+Fayette,C-4,U.S. House,6,K. (Jasen) Lave,DEM,0,0,0,0
+Fayette,C-4,U.S. House,6,Jim Pruett,DEM,9,5,0,14
+Fayette,C-4,U.S. House,6,Lane Siekman,DEM,2,1,0,3
+Fayette,C-4,U.S. House,6,Joshua Williamson,DEM,1,0,0,1
+Fayette,C-4,U.S. House,6,Mike Campbell,REP,2,0,0,2
+Fayette,C-4,U.S. House,6,Jonathan M. Lamb,REP,6,0,0,6
+Fayette,C-4,U.S. House,6,Stephen M. MacKenzie,REP,0,0,0,0
+Fayette,C-4,U.S. House,6,Greg Pence,REP,12,5,0,17
+Fayette,C-4,U.S. House,6,Jeff Smith,REP,0,0,0,0
+Fayette,C-4,State House,55,No Candidate Filed,DEM,0,0,0,0
+Fayette,C-4,State House,55,Mark Bacon,REP,8,1,0,9
+Fayette,C-4,State House,55,Cindy Meyer Ziemke,REP,12,4,0,16
+Fayette,C-5,Ballots Cast,,,,24,9,0,33
+Fayette,C-5,Registered Voters,,,,,,,326
+Fayette,C-5,U.S. Senate,,Joe Donnelly,DEM,8,4,0,12
+Fayette,C-5,U.S. Senate,,Mike Braun,REP,3,0,0,3
+Fayette,C-5,U.S. Senate,,Luke Messer,REP,8,3,0,11
+Fayette,C-5,U.S. Senate,,Todd Rokita,REP,3,0,0,3
+Fayette,C-5,U.S. House,6,George T. Holland,DEM,1,2,0,3
+Fayette,C-5,U.S. House,6,Jeannine Lee Lake,DEM,5,3,0,8
+Fayette,C-5,U.S. House,6,K. (Jasen) Lave,DEM,0,0,0,0
+Fayette,C-5,U.S. House,6,Jim Pruett,DEM,0,0,0,0
+Fayette,C-5,U.S. House,6,Lane Siekman,DEM,1,0,0,1
+Fayette,C-5,U.S. House,6,Joshua Williamson,DEM,1,0,0,1
+Fayette,C-5,U.S. House,6,Mike Campbell,REP,0,0,0,0
+Fayette,C-5,U.S. House,6,Jonathan M. Lamb,REP,8,2,0,10
+Fayette,C-5,U.S. House,6,Stephen M. MacKenzie,REP,0,0,0,0
+Fayette,C-5,U.S. House,6,Greg Pence,REP,7,2,0,9
+Fayette,C-5,U.S. House,6,Jeff Smith,REP,0,0,0,0
+Fayette,C-5,State House,55,No Candidate Filed,DEM,0,0,0,0
+Fayette,C-5,State House,55,Mark Bacon,REP,6,1,0,7
+Fayette,C-5,State House,55,Cindy Meyer Ziemke,REP,8,3,0,11
+Fayette,C-6,Ballots Cast,,,,59,12,0,71
+Fayette,C-6,Registered Voters,,,,,,,477
+Fayette,C-6,U.S. Senate,,Joe Donnelly,DEM,26,7,0,33
+Fayette,C-6,U.S. Senate,,Mike Braun,REP,10,2,0,12
+Fayette,C-6,U.S. Senate,,Luke Messer,REP,15,1,0,16
+Fayette,C-6,U.S. Senate,,Todd Rokita,REP,4,0,0,4
+Fayette,C-6,U.S. House,6,George T. Holland,DEM,5,0,0,5
+Fayette,C-6,U.S. House,6,Jeannine Lee Lake,DEM,15,3,0,18
+Fayette,C-6,U.S. House,6,K. (Jasen) Lave,DEM,0,0,0,0
+Fayette,C-6,U.S. House,6,Jim Pruett,DEM,5,1,0,6
+Fayette,C-6,U.S. House,6,Lane Siekman,DEM,0,0,0,0
+Fayette,C-6,U.S. House,6,Joshua Williamson,DEM,2,2,0,4
+Fayette,C-6,U.S. House,6,Mike Campbell,REP,2,0,0,2
+Fayette,C-6,U.S. House,6,Jonathan M. Lamb,REP,6,2,0,8
+Fayette,C-6,U.S. House,6,Stephen M. MacKenzie,REP,0,0,0,0
+Fayette,C-6,U.S. House,6,Greg Pence,REP,18,3,0,21
+Fayette,C-6,U.S. House,6,Jeff Smith,REP,1,0,0,1
+Fayette,C-6,State House,55,No Candidate Filed,DEM,0,0,0,0
+Fayette,C-6,State House,55,Mark Bacon,REP,9,1,0,10
+Fayette,C-6,State House,55,Cindy Meyer Ziemke,REP,18,3,0,21
+Fayette,C-7,Ballots Cast,,,,45,25,0,70
+Fayette,C-7,Registered Voters,,,,,,,498
+Fayette,C-7,U.S. Senate,,Joe Donnelly,DEM,12,13,0,25
+Fayette,C-7,U.S. Senate,,Mike Braun,REP,10,0,0,10
+Fayette,C-7,U.S. Senate,,Luke Messer,REP,16,9,0,25
+Fayette,C-7,U.S. Senate,,Todd Rokita,REP,6,2,0,8
+Fayette,C-7,U.S. House,6,George T. Holland,DEM,0,0,0,0
+Fayette,C-7,U.S. House,6,Jeannine Lee Lake,DEM,4,2,0,6
+Fayette,C-7,U.S. House,6,K. (Jasen) Lave,DEM,0,1,0,1
+Fayette,C-7,U.S. House,6,Jim Pruett,DEM,3,7,0,10
+Fayette,C-7,U.S. House,6,Lane Siekman,DEM,3,3,0,6
+Fayette,C-7,U.S. House,6,Joshua Williamson,DEM,1,0,0,1
+Fayette,C-7,U.S. House,6,Mike Campbell,REP,1,0,0,1
+Fayette,C-7,U.S. House,6,Jonathan M. Lamb,REP,3,2,0,5
+Fayette,C-7,U.S. House,6,Stephen M. MacKenzie,REP,0,0,0,0
+Fayette,C-7,U.S. House,6,Greg Pence,REP,24,9,0,33
+Fayette,C-7,U.S. House,6,Jeff Smith,REP,4,0,0,4
+Fayette,C-7,State House,55,No Candidate Filed,DEM,0,0,0,0
+Fayette,C-7,State House,55,Mark Bacon,REP,11,5,0,16
+Fayette,C-7,State House,55,Cindy Meyer Ziemke,REP,21,6,0,27
+Fayette,C-8,Ballots Cast,,,,39,13,0,52
+Fayette,C-8,Registered Voters,,,,,,,388
+Fayette,C-8,U.S. Senate,,Joe Donnelly,DEM,15,5,0,20
+Fayette,C-8,U.S. Senate,,Mike Braun,REP,10,5,0,15
+Fayette,C-8,U.S. Senate,,Luke Messer,REP,6,1,0,7
+Fayette,C-8,U.S. Senate,,Todd Rokita,REP,6,1,0,7
+Fayette,C-8,U.S. House,6,George T. Holland,DEM,2,1,0,3
+Fayette,C-8,U.S. House,6,Jeannine Lee Lake,DEM,3,0,0,3
+Fayette,C-8,U.S. House,6,K. (Jasen) Lave,DEM,1,0,0,1
+Fayette,C-8,U.S. House,6,Jim Pruett,DEM,4,3,0,7
+Fayette,C-8,U.S. House,6,Lane Siekman,DEM,2,0,0,2
+Fayette,C-8,U.S. House,6,Joshua Williamson,DEM,1,1,0,2
+Fayette,C-8,U.S. House,6,Mike Campbell,REP,0,0,0,0
+Fayette,C-8,U.S. House,6,Jonathan M. Lamb,REP,8,1,0,9
+Fayette,C-8,U.S. House,6,Stephen M. MacKenzie,REP,0,0,0,0
+Fayette,C-8,U.S. House,6,Greg Pence,REP,14,5,0,19
+Fayette,C-8,U.S. House,6,Jeff Smith,REP,0,1,0,1
+Fayette,C-8,State House,55,No Candidate Filed,DEM,0,0,0,0
+Fayette,C-8,State House,55,Mark Bacon,REP,8,0,0,8
+Fayette,C-8,State House,55,Cindy Meyer Ziemke,REP,14,7,0,21
+Fayette,C-9,Ballots Cast,,,,69,48,0,117
+Fayette,C-9,Registered Voters,,,,,,,578
+Fayette,C-9,U.S. Senate,,Joe Donnelly,DEM,17,24,0,41
+Fayette,C-9,U.S. Senate,,Mike Braun,REP,9,3,0,12
+Fayette,C-9,U.S. Senate,,Luke Messer,REP,24,13,0,37
+Fayette,C-9,U.S. Senate,,Todd Rokita,REP,11,4,0,15
+Fayette,C-9,U.S. House,6,George T. Holland,DEM,2,5,0,7
+Fayette,C-9,U.S. House,6,Jeannine Lee Lake,DEM,7,3,0,10
+Fayette,C-9,U.S. House,6,K. (Jasen) Lave,DEM,1,0,0,1
+Fayette,C-9,U.S. House,6,Jim Pruett,DEM,7,9,0,16
+Fayette,C-9,U.S. House,6,Lane Siekman,DEM,0,3,0,3
+Fayette,C-9,U.S. House,6,Joshua Williamson,DEM,1,1,0,2
+Fayette,C-9,U.S. House,6,Mike Campbell,REP,2,3,0,5
+Fayette,C-9,U.S. House,6,Jonathan M. Lamb,REP,8,2,0,10
+Fayette,C-9,U.S. House,6,Stephen M. MacKenzie,REP,1,1,0,2
+Fayette,C-9,U.S. House,6,Greg Pence,REP,34,12,0,46
+Fayette,C-9,U.S. House,6,Jeff Smith,REP,0,1,0,1
+Fayette,C-9,State House,55,No Candidate Filed,DEM,0,0,0,0
+Fayette,C-9,State House,55,Mark Bacon,REP,12,4,0,16
+Fayette,C-9,State House,55,Cindy Meyer Ziemke,REP,31,15,0,46
+Fayette,C-10,Ballots Cast,,,,64,26,0,90
+Fayette,C-10,Registered Voters,,,,,,,585
+Fayette,C-10,U.S. Senate,,Joe Donnelly,DEM,29,11,0,40
+Fayette,C-10,U.S. Senate,,Mike Braun,REP,6,4,0,10
+Fayette,C-10,U.S. Senate,,Luke Messer,REP,20,5,0,25
+Fayette,C-10,U.S. Senate,,Todd Rokita,REP,5,5,0,10
+Fayette,C-10,U.S. House,6,George T. Holland,DEM,4,0,0,4
+Fayette,C-10,U.S. House,6,Jeannine Lee Lake,DEM,6,7,0,13
+Fayette,C-10,U.S. House,6,K. (Jasen) Lave,DEM,1,0,0,1
+Fayette,C-10,U.S. House,6,Jim Pruett,DEM,14,3,0,17
+Fayette,C-10,U.S. House,6,Lane Siekman,DEM,3,0,0,3
+Fayette,C-10,U.S. House,6,Joshua Williamson,DEM,2,1,0,3
+Fayette,C-10,U.S. House,6,Mike Campbell,REP,1,1,0,2
+Fayette,C-10,U.S. House,6,Jonathan M. Lamb,REP,3,0,0,3
+Fayette,C-10,U.S. House,6,Stephen M. MacKenzie,REP,2,1,0,3
+Fayette,C-10,U.S. House,6,Greg Pence,REP,25,12,0,37
+Fayette,C-10,U.S. House,6,Jeff Smith,REP,1,0,0,1
+Fayette,C-10,State House,55,No Candidate Filed,DEM,0,0,0,0
+Fayette,C-10,State House,55,Mark Bacon,REP,7,5,0,12
+Fayette,C-10,State House,55,Cindy Meyer Ziemke,REP,24,8,0,32
+Fayette,C-11,Ballots Cast,,,,126,89,0,215
+Fayette,C-11,Registered Voters,,,,,,,1175
+Fayette,C-11,U.S. Senate,,Joe Donnelly,DEM,38,24,0,62
+Fayette,C-11,U.S. Senate,,Mike Braun,REP,17,9,0,26
+Fayette,C-11,U.S. Senate,,Luke Messer,REP,36,26,0,62
+Fayette,C-11,U.S. Senate,,Todd Rokita,REP,23,21,0,44
+Fayette,C-11,U.S. House,6,George T. Holland,DEM,4,2,0,6
+Fayette,C-11,U.S. House,6,Jeannine Lee Lake,DEM,11,5,0,16
+Fayette,C-11,U.S. House,6,K. (Jasen) Lave,DEM,0,0,0,0
+Fayette,C-11,U.S. House,6,Jim Pruett,DEM,12,13,0,25
+Fayette,C-11,U.S. House,6,Lane Siekman,DEM,12,5,0,17
+Fayette,C-11,U.S. House,6,Joshua Williamson,DEM,2,0,0,2
+Fayette,C-11,U.S. House,6,Mike Campbell,REP,5,2,0,7
+Fayette,C-11,U.S. House,6,Jonathan M. Lamb,REP,10,9,0,19
+Fayette,C-11,U.S. House,6,Stephen M. MacKenzie,REP,1,2,0,3
+Fayette,C-11,U.S. House,6,Greg Pence,REP,58,43,0,101
+Fayette,C-11,U.S. House,6,Jeff Smith,REP,1,2,0,3
+Fayette,C-11,State House,55,No Candidate Filed,DEM,0,0,0,0
+Fayette,C-11,State House,55,Mark Bacon,REP,26,21,0,47
+Fayette,C-11,State House,55,Cindy Meyer Ziemke,REP,49,37,0,86
+Fayette,C-12,Ballots Cast,,,,83,32,0,115
+Fayette,C-12,Registered Voters,,,,,,,709
+Fayette,C-12,U.S. Senate,,Joe Donnelly,DEM,26,10,0,36
+Fayette,C-12,U.S. Senate,,Mike Braun,REP,13,6,0,19
+Fayette,C-12,U.S. Senate,,Luke Messer,REP,27,6,0,33
+Fayette,C-12,U.S. Senate,,Todd Rokita,REP,12,6,0,18
+Fayette,C-12,U.S. House,6,George T. Holland,DEM,5,3,0,8
+Fayette,C-12,U.S. House,6,Jeannine Lee Lake,DEM,5,3,0,8
+Fayette,C-12,U.S. House,6,K. (Jasen) Lave,DEM,0,0,0,0
+Fayette,C-12,U.S. House,6,Jim Pruett,DEM,9,2,0,11
+Fayette,C-12,U.S. House,6,Lane Siekman,DEM,2,3,0,5
+Fayette,C-12,U.S. House,6,Joshua Williamson,DEM,6,0,0,6
+Fayette,C-12,U.S. House,6,Mike Campbell,REP,1,1,0,2
+Fayette,C-12,U.S. House,6,Jonathan M. Lamb,REP,6,8,0,14
+Fayette,C-12,U.S. House,6,Stephen M. MacKenzie,REP,2,1,0,3
+Fayette,C-12,U.S. House,6,Greg Pence,REP,41,7,0,48
+Fayette,C-12,U.S. House,6,Jeff Smith,REP,2,1,0,3
+Fayette,C-12,State House,55,No Candidate Filed,DEM,0,0,0,0
+Fayette,C-12,State House,55,Mark Bacon,REP,27,11,0,38
+Fayette,C-12,State House,55,Cindy Meyer Ziemke,REP,25,7,0,32
+Fayette,C-13,Ballots Cast,,,,91,32,0,123
+Fayette,C-13,Registered Voters,,,,,,,616
+Fayette,C-13,U.S. Senate,,Joe Donnelly,DEM,12,12,0,24
+Fayette,C-13,U.S. Senate,,Mike Braun,REP,19,11,0,30
+Fayette,C-13,U.S. Senate,,Luke Messer,REP,41,5,0,46
+Fayette,C-13,U.S. Senate,,Todd Rokita,REP,15,3,0,18
+Fayette,C-13,U.S. House,6,George T. Holland,DEM,2,0,0,2
+Fayette,C-13,U.S. House,6,Jeannine Lee Lake,DEM,2,5,0,7
+Fayette,C-13,U.S. House,6,K. (Jasen) Lave,DEM,0,0,0,0
+Fayette,C-13,U.S. House,6,Jim Pruett,DEM,3,5,0,8
+Fayette,C-13,U.S. House,6,Lane Siekman,DEM,6,2,0,8
+Fayette,C-13,U.S. House,6,Joshua Williamson,DEM,0,0,0,0
+Fayette,C-13,U.S. House,6,Mike Campbell,REP,3,1,0,4
+Fayette,C-13,U.S. House,6,Jonathan M. Lamb,REP,22,3,0,25
+Fayette,C-13,U.S. House,6,Stephen M. MacKenzie,REP,1,0,0,1
+Fayette,C-13,U.S. House,6,Greg Pence,REP,47,15,0,62
+Fayette,C-13,U.S. House,6,Jeff Smith,REP,0,0,0,0
+Fayette,C-13,State House,55,No Candidate Filed,DEM,0,0,0,0
+Fayette,C-13,State House,55,Mark Bacon,REP,44,11,0,55
+Fayette,C-13,State House,55,Cindy Meyer Ziemke,REP,32,7,0,39
+Fayette,H-1,Ballots Cast,,,,42,20,0,62
+Fayette,H-1,Registered Voters,,,,,,,410
+Fayette,H-1,U.S. Senate,,Joe Donnelly,DEM,8,8,0,16
+Fayette,H-1,U.S. Senate,,Mike Braun,REP,6,1,0,7
+Fayette,H-1,U.S. Senate,,Luke Messer,REP,13,8,0,21
+Fayette,H-1,U.S. Senate,,Todd Rokita,REP,11,1,0,12
+Fayette,H-1,U.S. House,6,George T. Holland,DEM,2,0,0,2
+Fayette,H-1,U.S. House,6,Jeannine Lee Lake,DEM,4,4,0,8
+Fayette,H-1,U.S. House,6,K. (Jasen) Lave,DEM,0,0,0,0
+Fayette,H-1,U.S. House,6,Jim Pruett,DEM,2,5,0,7
+Fayette,H-1,U.S. House,6,Lane Siekman,DEM,1,0,0,1
+Fayette,H-1,U.S. House,6,Joshua Williamson,DEM,0,0,0,0
+Fayette,H-1,U.S. House,6,Mike Campbell,REP,2,1,0,3
+Fayette,H-1,U.S. House,6,Jonathan M. Lamb,REP,4,1,0,5
+Fayette,H-1,U.S. House,6,Stephen M. MacKenzie,REP,2,0,0,2
+Fayette,H-1,U.S. House,6,Greg Pence,REP,23,8,0,31
+Fayette,H-1,U.S. House,6,Jeff Smith,REP,0,0,0,0
+Fayette,H-1,State House,55,No Candidate Filed,DEM,0,0,0,0
+Fayette,H-1,State House,55,Mark Bacon,REP,13,3,0,16
+Fayette,H-1,State House,55,Cindy Meyer Ziemke,REP,18,8,0,26
+Fayette,H-2,Ballots Cast,,,,68,30,0,98
+Fayette,H-2,Registered Voters,,,,,,,510
+Fayette,H-2,U.S. Senate,,Joe Donnelly,DEM,27,12,0,39
+Fayette,H-2,U.S. Senate,,Mike Braun,REP,8,3,0,11
+Fayette,H-2,U.S. Senate,,Luke Messer,REP,17,7,0,24
+Fayette,H-2,U.S. Senate,,Todd Rokita,REP,10,5,0,15
+Fayette,H-2,U.S. House,6,George T. Holland,DEM,4,2,0,6
+Fayette,H-2,U.S. House,6,Jeannine Lee Lake,DEM,6,2,0,8
+Fayette,H-2,U.S. House,6,K. (Jasen) Lave,DEM,2,0,0,2
+Fayette,H-2,U.S. House,6,Jim Pruett,DEM,15,6,0,21
+Fayette,H-2,U.S. House,6,Lane Siekman,DEM,1,1,0,2
+Fayette,H-2,U.S. House,6,Joshua Williamson,DEM,2,0,0,2
+Fayette,H-2,U.S. House,6,Mike Campbell,REP,0,1,0,1
+Fayette,H-2,U.S. House,6,Jonathan M. Lamb,REP,9,3,0,12
+Fayette,H-2,U.S. House,6,Stephen M. MacKenzie,REP,0,1,0,1
+Fayette,H-2,U.S. House,6,Greg Pence,REP,26,11,0,37
+Fayette,H-2,U.S. House,6,Jeff Smith,REP,2,0,0,2
+Fayette,H-2,State House,55,No Candidate Filed,DEM,0,0,0,0
+Fayette,H-2,State House,55,Mark Bacon,REP,12,5,0,17
+Fayette,H-2,State House,55,Cindy Meyer Ziemke,REP,23,11,0,34
+Fayette,H-3,Ballots Cast,,,,55,19,0,74
+Fayette,H-3,Registered Voters,,,,,,,440
+Fayette,H-3,U.S. Senate,,Joe Donnelly,DEM,25,7,0,32
+Fayette,H-3,U.S. Senate,,Mike Braun,REP,11,4,0,15
+Fayette,H-3,U.S. Senate,,Luke Messer,REP,9,5,0,14
+Fayette,H-3,U.S. Senate,,Todd Rokita,REP,6,2,0,8
+Fayette,H-3,U.S. House,6,George T. Holland,DEM,4,2,0,6
+Fayette,H-3,U.S. House,6,Jeannine Lee Lake,DEM,9,2,0,11
+Fayette,H-3,U.S. House,6,K. (Jasen) Lave,DEM,0,0,0,0
+Fayette,H-3,U.S. House,6,Jim Pruett,DEM,6,1,0,7
+Fayette,H-3,U.S. House,6,Lane Siekman,DEM,3,2,0,5
+Fayette,H-3,U.S. House,6,Joshua Williamson,DEM,2,0,0,2
+Fayette,H-3,U.S. House,6,Mike Campbell,REP,0,0,0,0
+Fayette,H-3,U.S. House,6,Jonathan M. Lamb,REP,6,0,0,6
+Fayette,H-3,U.S. House,6,Stephen M. MacKenzie,REP,0,0,0,0
+Fayette,H-3,U.S. House,6,Greg Pence,REP,21,10,0,31
+Fayette,H-3,U.S. House,6,Jeff Smith,REP,0,1,0,1
+Fayette,H-3,State House,55,No Candidate Filed,DEM,0,0,0,0
+Fayette,H-3,State House,55,Mark Bacon,REP,10,2,0,12
+Fayette,H-3,State House,55,Cindy Meyer Ziemke,REP,18,8,0,26
+Fayette,H-4,Ballots Cast,,,,92,53,0,145
+Fayette,H-4,Registered Voters,,,,,,,656
+Fayette,H-4,U.S. Senate,,Joe Donnelly,DEM,32,23,0,55
+Fayette,H-4,U.S. Senate,,Mike Braun,REP,12,7,0,19
+Fayette,H-4,U.S. Senate,,Luke Messer,REP,30,11,0,41
+Fayette,H-4,U.S. Senate,,Todd Rokita,REP,10,5,0,15
+Fayette,H-4,U.S. House,6,George T. Holland,DEM,7,2,0,9
+Fayette,H-4,U.S. House,6,Jeannine Lee Lake,DEM,5,6,0,11
+Fayette,H-4,U.S. House,6,K. (Jasen) Lave,DEM,2,1,0,3
+Fayette,H-4,U.S. House,6,Jim Pruett,DEM,11,13,0,24
+Fayette,H-4,U.S. House,6,Lane Siekman,DEM,4,2,0,6
+Fayette,H-4,U.S. House,6,Joshua Williamson,DEM,5,1,0,6
+Fayette,H-4,U.S. House,6,Mike Campbell,REP,3,0,0,3
+Fayette,H-4,U.S. House,6,Jonathan M. Lamb,REP,9,5,0,14
+Fayette,H-4,U.S. House,6,Stephen M. MacKenzie,REP,2,0,0,2
+Fayette,H-4,U.S. House,6,Greg Pence,REP,37,14,0,51
+Fayette,H-4,U.S. House,6,Jeff Smith,REP,0,2,0,2
+Fayette,H-4,State House,55,No Candidate Filed,DEM,0,0,0,0
+Fayette,H-4,State House,55,Mark Bacon,REP,23,5,0,28
+Fayette,H-4,State House,55,Cindy Meyer Ziemke,REP,28,18,0,46
+Fayette,H-5,Ballots Cast,,,,52,32,0,84
+Fayette,H-5,Registered Voters,,,,,,,582
+Fayette,H-5,U.S. Senate,,Joe Donnelly,DEM,12,16,0,28
+Fayette,H-5,U.S. Senate,,Mike Braun,REP,10,4,0,14
+Fayette,H-5,U.S. Senate,,Luke Messer,REP,18,8,0,26
+Fayette,H-5,U.S. Senate,,Todd Rokita,REP,8,3,0,11
+Fayette,H-5,U.S. House,6,George T. Holland,DEM,3,1,0,4
+Fayette,H-5,U.S. House,6,Jeannine Lee Lake,DEM,4,4,0,8
+Fayette,H-5,U.S. House,6,K. (Jasen) Lave,DEM,1,0,0,1
+Fayette,H-5,U.S. House,6,Jim Pruett,DEM,0,7,0,7
+Fayette,H-5,U.S. House,6,Lane Siekman,DEM,1,3,0,4
+Fayette,H-5,U.S. House,6,Joshua Williamson,DEM,3,0,0,3
+Fayette,H-5,U.S. House,6,Mike Campbell,REP,0,1,0,1
+Fayette,H-5,U.S. House,6,Jonathan M. Lamb,REP,7,8,0,15
+Fayette,H-5,U.S. House,6,Stephen M. MacKenzie,REP,1,0,0,1
+Fayette,H-5,U.S. House,6,Greg Pence,REP,28,7,0,35
+Fayette,H-5,U.S. House,6,Jeff Smith,REP,1,0,0,1
+Fayette,H-5,State House,55,No Candidate Filed,DEM,0,0,0,0
+Fayette,H-5,State House,55,Mark Bacon,REP,14,2,0,16
+Fayette,H-5,State House,55,Cindy Meyer Ziemke,REP,23,14,0,37
+Fayette,H-6,Ballots Cast,,,,60,14,0,74
+Fayette,H-6,Registered Voters,,,,,,,432
+Fayette,H-6,U.S. Senate,,Joe Donnelly,DEM,29,8,0,37
+Fayette,H-6,U.S. Senate,,Mike Braun,REP,10,2,0,12
+Fayette,H-6,U.S. Senate,,Luke Messer,REP,14,2,0,16
+Fayette,H-6,U.S. Senate,,Todd Rokita,REP,5,0,0,5
+Fayette,H-6,U.S. House,6,George T. Holland,DEM,4,1,0,5
+Fayette,H-6,U.S. House,6,Jeannine Lee Lake,DEM,12,2,0,14
+Fayette,H-6,U.S. House,6,K. (Jasen) Lave,DEM,1,0,0,1
+Fayette,H-6,U.S. House,6,Jim Pruett,DEM,10,4,0,14
+Fayette,H-6,U.S. House,6,Lane Siekman,DEM,0,0,0,0
+Fayette,H-6,U.S. House,6,Joshua Williamson,DEM,3,1,0,4
+Fayette,H-6,U.S. House,6,Mike Campbell,REP,2,0,0,2
+Fayette,H-6,U.S. House,6,Jonathan M. Lamb,REP,8,3,0,11
+Fayette,H-6,U.S. House,6,Stephen M. MacKenzie,REP,1,0,0,1
+Fayette,H-6,U.S. House,6,Greg Pence,REP,18,2,0,20
+Fayette,H-6,U.S. House,6,Jeff Smith,REP,0,0,0,0
+Fayette,H-6,State House,55,No Candidate Filed,DEM,0,0,0,0
+Fayette,H-6,State House,55,Mark Bacon,REP,15,4,0,19
+Fayette,H-6,State House,55,Cindy Meyer Ziemke,REP,13,1,0,14
+Fayette,H-7,Ballots Cast,,,,65,23,0,88
+Fayette,H-7,Registered Voters,,,,,,,419
+Fayette,H-7,U.S. Senate,,Joe Donnelly,DEM,15,9,0,24
+Fayette,H-7,U.S. Senate,,Mike Braun,REP,14,3,0,17
+Fayette,H-7,U.S. Senate,,Luke Messer,REP,17,8,0,25
+Fayette,H-7,U.S. Senate,,Todd Rokita,REP,15,0,0,15
+Fayette,H-7,U.S. House,6,George T. Holland,DEM,8,0,0,8
+Fayette,H-7,U.S. House,6,Jeannine Lee Lake,DEM,2,5,0,7
+Fayette,H-7,U.S. House,6,K. (Jasen) Lave,DEM,0,0,0,0
+Fayette,H-7,U.S. House,6,Jim Pruett,DEM,4,5,0,9
+Fayette,H-7,U.S. House,6,Lane Siekman,DEM,1,1,0,2
+Fayette,H-7,U.S. House,6,Joshua Williamson,DEM,0,0,0,0
+Fayette,H-7,U.S. House,6,Mike Campbell,REP,4,0,0,4
+Fayette,H-7,U.S. House,6,Jonathan M. Lamb,REP,11,5,0,16
+Fayette,H-7,U.S. House,6,Stephen M. MacKenzie,REP,1,0,0,1
+Fayette,H-7,U.S. House,6,Greg Pence,REP,30,7,0,37
+Fayette,H-7,U.S. House,6,Jeff Smith,REP,0,0,0,0
+Fayette,H-7,State House,55,No Candidate Filed,DEM,0,0,0,0
+Fayette,H-7,State House,55,Mark Bacon,REP,12,2,0,14
+Fayette,H-7,State House,55,Cindy Meyer Ziemke,REP,35,10,0,45
+Fayette,H-8,Ballots Cast,,,,94,19,0,113
+Fayette,H-8,Registered Voters,,,,,,,613
+Fayette,H-8,U.S. Senate,,Joe Donnelly,DEM,18,3,0,21
+Fayette,H-8,U.S. Senate,,Mike Braun,REP,12,6,0,18
+Fayette,H-8,U.S. Senate,,Luke Messer,REP,35,5,0,40
+Fayette,H-8,U.S. Senate,,Todd Rokita,REP,21,4,0,25
+Fayette,H-8,U.S. House,6,George T. Holland,DEM,1,0,0,1
+Fayette,H-8,U.S. House,6,Jeannine Lee Lake,DEM,8,1,0,9
+Fayette,H-8,U.S. House,6,K. (Jasen) Lave,DEM,0,0,0,0
+Fayette,H-8,U.S. House,6,Jim Pruett,DEM,6,2,0,8
+Fayette,H-8,U.S. House,6,Lane Siekman,DEM,2,1,0,3
+Fayette,H-8,U.S. House,6,Joshua Williamson,DEM,3,0,0,3
+Fayette,H-8,U.S. House,6,Mike Campbell,REP,1,0,0,1
+Fayette,H-8,U.S. House,6,Jonathan M. Lamb,REP,17,2,0,19
+Fayette,H-8,U.S. House,6,Stephen M. MacKenzie,REP,4,0,0,4
+Fayette,H-8,U.S. House,6,Greg Pence,REP,41,12,0,53
+Fayette,H-8,U.S. House,6,Jeff Smith,REP,3,0,0,3
+Fayette,H-8,State House,55,No Candidate Filed,DEM,0,0,0,0
+Fayette,H-8,State House,55,Mark Bacon,REP,34,7,0,41
+Fayette,H-8,State House,55,Cindy Meyer Ziemke,REP,32,8,0,40
+Fayette,Columbia Township,Ballots Cast,,,,90,24,0,114
+Fayette,Columbia Township,Registered Voters,,,,,,,690
+Fayette,Columbia Township,U.S. Senate,,Joe Donnelly,DEM,17,10,0,27
+Fayette,Columbia Township,U.S. Senate,,Mike Braun,REP,27,3,0,30
+Fayette,Columbia Township,U.S. Senate,,Luke Messer,REP,24,4,0,28
+Fayette,Columbia Township,U.S. Senate,,Todd Rokita,REP,11,4,0,15
+Fayette,Columbia Township,U.S. House,6,George T. Holland,DEM,5,1,0,6
+Fayette,Columbia Township,U.S. House,6,Jeannine Lee Lake,DEM,5,3,0,8
+Fayette,Columbia Township,U.S. House,6,K. (Jasen) Lave,DEM,0,0,0,0
+Fayette,Columbia Township,U.S. House,6,Jim Pruett,DEM,9,4,0,13
+Fayette,Columbia Township,U.S. House,6,Lane Siekman,DEM,1,0,0,1
+Fayette,Columbia Township,U.S. House,6,Joshua Williamson,DEM,0,1,0,1
+Fayette,Columbia Township,U.S. House,6,Mike Campbell,REP,5,0,0,5
+Fayette,Columbia Township,U.S. House,6,Jonathan M. Lamb,REP,21,3,0,24
+Fayette,Columbia Township,U.S. House,6,Stephen M. MacKenzie,REP,0,0,0,0
+Fayette,Columbia Township,U.S. House,6,Greg Pence,REP,38,8,0,46
+Fayette,Columbia Township,U.S. House,6,Jeff Smith,REP,1,0,0,1
+Fayette,Columbia Township,State House,55,No Candidate Filed,DEM,0,0,0,0
+Fayette,Columbia Township,State House,55,Mark Bacon,REP,34,10,0,44
+Fayette,Columbia Township,State House,55,Cindy Meyer Ziemke,REP,28,1,0,29
+Fayette,Fairview Township,Ballots Cast,,,,34,13,0,47
+Fayette,Fairview Township,Registered Voters,,,,,,,247
+Fayette,Fairview Township,U.S. Senate,,Joe Donnelly,DEM,7,8,0,15
+Fayette,Fairview Township,U.S. Senate,,Mike Braun,REP,3,2,0,5
+Fayette,Fairview Township,U.S. Senate,,Luke Messer,REP,15,2,0,17
+Fayette,Fairview Township,U.S. Senate,,Todd Rokita,REP,2,0,0,2
+Fayette,Fairview Township,U.S. House,6,George T. Holland,DEM,3,3,0,6
+Fayette,Fairview Township,U.S. House,6,Jeannine Lee Lake,DEM,0,1,0,1
+Fayette,Fairview Township,U.S. House,6,K. (Jasen) Lave,DEM,2,1,0,3
+Fayette,Fairview Township,U.S. House,6,Jim Pruett,DEM,3,3,0,6
+Fayette,Fairview Township,U.S. House,6,Lane Siekman,DEM,1,0,0,1
+Fayette,Fairview Township,U.S. House,6,Joshua Williamson,DEM,0,0,0,0
+Fayette,Fairview Township,U.S. House,6,Mike Campbell,REP,0,0,0,0
+Fayette,Fairview Township,U.S. House,6,Jonathan M. Lamb,REP,4,1,0,5
+Fayette,Fairview Township,U.S. House,6,Stephen M. MacKenzie,REP,0,0,0,0
+Fayette,Fairview Township,U.S. House,6,Greg Pence,REP,18,3,0,21
+Fayette,Fairview Township,U.S. House,6,Jeff Smith,REP,0,0,0,0
+Fayette,Fairview Township,State House,55,No Candidate Filed,DEM,0,0,0,0
+Fayette,Fairview Township,State House,55,Mark Bacon,REP,9,1,0,10
+Fayette,Fairview Township,State House,55,Cindy Meyer Ziemke,REP,13,3,0,16
+Fayette,Jackson Township,Ballots Cast,,,,161,67,0,228
+Fayette,Jackson Township,Registered Voters,,,,,,,1074
+Fayette,Jackson Township,U.S. Senate,,Joe Donnelly,DEM,45,19,0,64
+Fayette,Jackson Township,U.S. Senate,,Mike Braun,REP,34,7,0,41
+Fayette,Jackson Township,U.S. Senate,,Luke Messer,REP,35,25,0,60
+Fayette,Jackson Township,U.S. Senate,,Todd Rokita,REP,27,9,0,36
+Fayette,Jackson Township,U.S. House,6,George T. Holland,DEM,4,1,0,5
+Fayette,Jackson Township,U.S. House,6,Jeannine Lee Lake,DEM,11,3,0,14
+Fayette,Jackson Township,U.S. House,6,K. (Jasen) Lave,DEM,0,0,0,0
+Fayette,Jackson Township,U.S. House,6,Jim Pruett,DEM,25,7,0,32
+Fayette,Jackson Township,U.S. House,6,Lane Siekman,DEM,6,4,0,10
+Fayette,Jackson Township,U.S. House,6,Joshua Williamson,DEM,6,2,0,8
+Fayette,Jackson Township,U.S. House,6,Mike Campbell,REP,4,0,0,4
+Fayette,Jackson Township,U.S. House,6,Jonathan M. Lamb,REP,14,7,0,21
+Fayette,Jackson Township,U.S. House,6,Stephen M. MacKenzie,REP,3,2,0,5
+Fayette,Jackson Township,U.S. House,6,Greg Pence,REP,73,33,0,106
+Fayette,Jackson Township,U.S. House,6,Jeff Smith,REP,3,0,0,3
+Fayette,Jackson Township,State House,55,No Candidate Filed,DEM,0,0,0,0
+Fayette,Jackson Township,State House,55,Mark Bacon,REP,50,12,0,62
+Fayette,Jackson Township,State House,55,Cindy Meyer Ziemke,REP,45,29,0,74
+Fayette,Jennings Township,Ballots Cast,,,,73,42,0,115
+Fayette,Jennings Township,Registered Voters,,,,,,,539
+Fayette,Jennings Township,U.S. Senate,,Joe Donnelly,DEM,19,15,0,34
+Fayette,Jennings Township,U.S. Senate,,Mike Braun,REP,15,8,0,23
+Fayette,Jennings Township,U.S. Senate,,Luke Messer,REP,23,10,0,33
+Fayette,Jennings Township,U.S. Senate,,Todd Rokita,REP,12,5,0,17
+Fayette,Jennings Township,U.S. House,6,George T. Holland,DEM,0,2,0,2
+Fayette,Jennings Township,U.S. House,6,Jeannine Lee Lake,DEM,4,3,0,7
+Fayette,Jennings Township,U.S. House,6,K. (Jasen) Lave,DEM,1,0,0,1
+Fayette,Jennings Township,U.S. House,6,Jim Pruett,DEM,9,4,0,13
+Fayette,Jennings Township,U.S. House,6,Lane Siekman,DEM,5,4,0,9
+Fayette,Jennings Township,U.S. House,6,Joshua Williamson,DEM,1,3,0,4
+Fayette,Jennings Township,U.S. House,6,Mike Campbell,REP,2,1,0,3
+Fayette,Jennings Township,U.S. House,6,Jonathan M. Lamb,REP,9,6,0,15
+Fayette,Jennings Township,U.S. House,6,Stephen M. MacKenzie,REP,0,0,0,0
+Fayette,Jennings Township,U.S. House,6,Greg Pence,REP,39,16,0,55
+Fayette,Jennings Township,U.S. House,6,Jeff Smith,REP,0,0,0,0
+Fayette,Jennings Township,State House,55,No Candidate Filed,DEM,0,0,0,0
+Fayette,Jennings Township,State House,55,Mark Bacon,REP,30,13,0,43
+Fayette,Jennings Township,State House,55,Cindy Meyer Ziemke,REP,19,10,0,29
+Fayette,Orange Township,Ballots Cast,,,,72,25,0,97
+Fayette,Orange Township,Registered Voters,,,,,,,452
+Fayette,Orange Township,U.S. Senate,,Joe Donnelly,DEM,14,10,0,24
+Fayette,Orange Township,U.S. Senate,,Mike Braun,REP,15,3,0,18
+Fayette,Orange Township,U.S. Senate,,Luke Messer,REP,25,5,0,30
+Fayette,Orange Township,U.S. Senate,,Todd Rokita,REP,13,3,0,16
+Fayette,Orange Township,U.S. House,6,George T. Holland,DEM,1,1,0,2
+Fayette,Orange Township,U.S. House,6,Jeannine Lee Lake,DEM,5,3,0,8
+Fayette,Orange Township,U.S. House,6,K. (Jasen) Lave,DEM,0,0,0,0
+Fayette,Orange Township,U.S. House,6,Jim Pruett,DEM,5,5,0,10
+Fayette,Orange Township,U.S. House,6,Lane Siekman,DEM,2,1,0,3
+Fayette,Orange Township,U.S. House,6,Joshua Williamson,DEM,1,0,0,1
+Fayette,Orange Township,U.S. House,6,Mike Campbell,REP,4,0,0,4
+Fayette,Orange Township,U.S. House,6,Jonathan M. Lamb,REP,6,3,0,9
+Fayette,Orange Township,U.S. House,6,Stephen M. MacKenzie,REP,0,1,0,1
+Fayette,Orange Township,U.S. House,6,Greg Pence,REP,41,6,0,47
+Fayette,Orange Township,U.S. House,6,Jeff Smith,REP,3,0,0,3
+Fayette,Orange Township,State House,55,No Candidate Filed,DEM,0,0,0,0
+Fayette,Orange Township,State House,55,Mark Bacon,REP,34,8,0,42
+Fayette,Orange Township,State House,55,Cindy Meyer Ziemke,REP,18,3,0,21
+Fayette,Posey Township,Ballots Cast,,,,61,11,0,72
+Fayette,Posey Township,Registered Voters,,,,,,,342
+Fayette,Posey Township,U.S. Senate,,Joe Donnelly,DEM,13,2,0,15
+Fayette,Posey Township,U.S. Senate,,Mike Braun,REP,14,3,0,17
+Fayette,Posey Township,U.S. Senate,,Luke Messer,REP,21,2,0,23
+Fayette,Posey Township,U.S. Senate,,Todd Rokita,REP,10,2,0,12
+Fayette,Posey Township,U.S. House,6,George T. Holland,DEM,2,2,0,4
+Fayette,Posey Township,U.S. House,6,Jeannine Lee Lake,DEM,2,0,0,2
+Fayette,Posey Township,U.S. House,6,K. (Jasen) Lave,DEM,1,0,0,1
+Fayette,Posey Township,U.S. House,6,Jim Pruett,DEM,7,0,0,7
+Fayette,Posey Township,U.S. House,6,Lane Siekman,DEM,1,1,0,2
+Fayette,Posey Township,U.S. House,6,Joshua Williamson,DEM,0,0,0,0
+Fayette,Posey Township,U.S. House,6,Mike Campbell,REP,0,0,0,0
+Fayette,Posey Township,U.S. House,6,Jonathan M. Lamb,REP,13,4,0,17
+Fayette,Posey Township,U.S. House,6,Stephen M. MacKenzie,REP,0,0,0,0
+Fayette,Posey Township,U.S. House,6,Greg Pence,REP,32,4,0,36
+Fayette,Posey Township,U.S. House,6,Jeff Smith,REP,0,0,0,0
+Fayette,Posey Township,State House,55,No Candidate Filed,DEM,0,0,0,0
+Fayette,Posey Township,State House,55,Mark Bacon,REP,23,3,0,26
+Fayette,Posey Township,State House,55,Cindy Meyer Ziemke,REP,22,5,0,27
+Fayette,Waterloo Township,Ballots Cast,,,,65,17,0,82
+Fayette,Waterloo Township,Registered Voters,,,,,,,382
+Fayette,Waterloo Township,U.S. Senate,,Joe Donnelly,DEM,24,7,0,31
+Fayette,Waterloo Township,U.S. Senate,,Mike Braun,REP,10,4,0,14
+Fayette,Waterloo Township,U.S. Senate,,Luke Messer,REP,11,4,0,15
+Fayette,Waterloo Township,U.S. Senate,,Todd Rokita,REP,11,1,0,12
+Fayette,Waterloo Township,U.S. House,6,George T. Holland,DEM,8,0,0,8
+Fayette,Waterloo Township,U.S. House,6,Jeannine Lee Lake,DEM,11,1,0,12
+Fayette,Waterloo Township,U.S. House,6,K. (Jasen) Lave,DEM,0,0,0,0
+Fayette,Waterloo Township,U.S. House,6,Jim Pruett,DEM,5,4,0,9
+Fayette,Waterloo Township,U.S. House,6,Lane Siekman,DEM,3,0,0,3
+Fayette,Waterloo Township,U.S. House,6,Joshua Williamson,DEM,1,2,0,3
+Fayette,Waterloo Township,U.S. House,6,Mike Campbell,REP,3,1,0,4
+Fayette,Waterloo Township,U.S. House,6,Jonathan M. Lamb,REP,7,0,0,7
+Fayette,Waterloo Township,U.S. House,6,Stephen M. MacKenzie,REP,1,0,0,1
+Fayette,Waterloo Township,U.S. House,6,Greg Pence,REP,20,7,0,27
+Fayette,Waterloo Township,U.S. House,6,Jeff Smith,REP,1,0,0,1
+Fayette,Waterloo Township,State Senate,27,Jerome (Jake) Hoog,DEM,26,6,0,32
+Fayette,Waterloo Township,State Senate,27,Jeff Raatz,REP,24,6,0,30
+Fayette,Waterloo Township,State House,55,No Candidate Filed,DEM,0,0,0,0
+Fayette,Waterloo Township,State House,55,Mark Bacon,REP,18,4,0,22
+Fayette,Waterloo Township,State House,55,Cindy Meyer Ziemke,REP,14,2,0,16

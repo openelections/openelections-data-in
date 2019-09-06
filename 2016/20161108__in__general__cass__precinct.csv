@@ -1,1 +1,814 @@
-county,precinct,office,district,office,party,voteCass,Adams,President,,Donald Trump,REP,306Cass,Bethlehem,President,,Donald Trump,REP,273Cass,Boone,President,,Donald Trump,REP,451Cass,Clay 1,President,,Donald Trump,REP,429Cass,Clay 2,President,,Donald Trump,REP,221Cass,Clay 3,President,,Donald Trump,REP,257Cass,Clay City,President,,Donald Trump,REP,40Cass,Clinton,President,,Donald Trump,REP,165Cass,Deer Creek,President,,Donald Trump,REP,313Cass,Eel E,President,,Donald Trump,REP,231Cass,Eel W,President,,Donald Trump,REP,91Cass,Galveston,President,,Donald Trump,REP,409Cass,Harrison,President,,Donald Trump,REP,295Cass,Jackson,President,,Donald Trump,REP,586Cass,Jefferson,President,,Donald Trump,REP,466Cass,Miami,President,,Donald Trump,REP,468Cass,Noble City,President,,Donald Trump,REP,75Cass,Noble North,President,,Donald Trump,REP,394Cass,Noble South,President,,Donald Trump,REP,148Cass,Tipton 1,President,,Donald Trump,REP,452Cass,Tipton 2,President,,Donald Trump,REP,366Cass,Washington,President,,Donald Trump,REP,418Cass,Logan 01,President,,Donald Trump,REP,169Cass,Logan 02,President,,Donald Trump,REP,153Cass,Logan 03,President,,Donald Trump,REP,61Cass,Logan 04,President,,Donald Trump,REP,251Cass,Logan 05,President,,Donald Trump,REP,193Cass,Logan 06,President,,Donald Trump,REP,211Cass,Logan 07,President,,Donald Trump,REP,63Cass,Logan 08,President,,Donald Trump,REP,122Cass,Logan 09,President,,Donald Trump,REP,134Cass,Logan 10,President,,Donald Trump,REP,201Cass,Logan 11,President,,Donald Trump,REP,339Cass,Logan 12,President,,Donald Trump,REP,250Cass,Logan 13,President,,Donald Trump,REP,93Cass,Logan 14,President,,Donald Trump,REP,274Cass,Logan 15,President,,Donald Trump,REP,273Cass,Logan 16,President,,Donald Trump,REP,56Cass,Washington CY,President,,Donald Trump,REP,4Cass,Fed,President,,Donald Trump,REP,0Cass,Total,President,,Donald Trump,REP,9701Cass,Adams,President,,Hillary Clinton,DEM,60Cass,Bethlehem,President,,Hillary Clinton,DEM,57Cass,Boone,President,,Hillary Clinton,DEM,109Cass,Clay 1,President,,Hillary Clinton,DEM,142Cass,Clay 2,President,,Hillary Clinton,DEM,85Cass,Clay 3,President,,Hillary Clinton,DEM,74Cass,Clay City,President,,Hillary Clinton,DEM,44Cass,Clinton,President,,Hillary Clinton,DEM,73Cass,Deer Creek,President,,Hillary Clinton,DEM,75Cass,Eel E,President,,Hillary Clinton,DEM,51Cass,Eel W,President,,Hillary Clinton,DEM,26Cass,Galveston,President,,Hillary Clinton,DEM,142Cass,Harrison,President,,Hillary Clinton,DEM,71Cass,Jackson,President,,Hillary Clinton,DEM,164Cass,Jefferson,President,,Hillary Clinton,DEM,120Cass,Miami,President,,Hillary Clinton,DEM,153Cass,Noble City,President,,Hillary Clinton,DEM,22Cass,Noble North,President,,Hillary Clinton,DEM,106Cass,Noble South,President,,Hillary Clinton,DEM,63Cass,Tipton 1,President,,Hillary Clinton,DEM,124Cass,Tipton 2,President,,Hillary Clinton,DEM,132Cass,Washington,President,,Hillary Clinton,DEM,161Cass,Logan 01,President,,Hillary Clinton,DEM,94Cass,Logan 02,President,,Hillary Clinton,DEM,85Cass,Logan 03,President,,Hillary Clinton,DEM,42Cass,Logan 04,President,,Hillary Clinton,DEM,133Cass,Logan 05,President,,Hillary Clinton,DEM,102Cass,Logan 06,President,,Hillary Clinton,DEM,95Cass,Logan 07,President,,Hillary Clinton,DEM,57Cass,Logan 08,President,,Hillary Clinton,DEM,102Cass,Logan 09,President,,Hillary Clinton,DEM,92Cass,Logan 10,President,,Hillary Clinton,DEM,135Cass,Logan 11,President,,Hillary Clinton,DEM,173Cass,Logan 12,President,,Hillary Clinton,DEM,139Cass,Logan 13,President,,Hillary Clinton,DEM,79Cass,Logan 14,President,,Hillary Clinton,DEM,166Cass,Logan 15,President,,Hillary Clinton,DEM,159Cass,Logan 16,President,,Hillary Clinton,DEM,51Cass,Washington CY,President,,Hillary Clinton,DEM,0Cass,Fed,President,,Hillary Clinton,DEM,1Cass,Total,President,,Hillary Clinton,DEM,3759Cass,Adams,President,,Gary Johnson,LBT,22Cass,Bethlehem,President,,Gary Johnson,LBT,15Cass,Boone,President,,Gary Johnson,LBT,28Cass,Clay 1,President,,Gary Johnson,LBT,19Cass,Clay 2,President,,Gary Johnson,LBT,14Cass,Clay 3,President,,Gary Johnson,LBT,9Cass,Clay City,President,,Gary Johnson,LBT,4Cass,Clinton,President,,Gary Johnson,LBT,8Cass,Deer Creek,President,,Gary Johnson,LBT,13Cass,Eel E,President,,Gary Johnson,LBT,8Cass,Eel W,President,,Gary Johnson,LBT,6Cass,Galveston,President,,Gary Johnson,LBT,26Cass,Harrison,President,,Gary Johnson,LBT,14Cass,Jackson,President,,Gary Johnson,LBT,39Cass,Jefferson,President,,Gary Johnson,LBT,33Cass,Miami,President,,Gary Johnson,LBT,27Cass,Noble City,President,,Gary Johnson,LBT,3Cass,Noble North,President,,Gary Johnson,LBT,30Cass,Noble South,President,,Gary Johnson,LBT,14Cass,Tipton 1,President,,Gary Johnson,LBT,27Cass,Tipton 2,President,,Gary Johnson,LBT,30Cass,Washington,President,,Gary Johnson,LBT,17Cass,Logan 01,President,,Gary Johnson,LBT,15Cass,Logan 02,President,,Gary Johnson,LBT,20Cass,Logan 03,President,,Gary Johnson,LBT,6Cass,Logan 04,President,,Gary Johnson,LBT,31Cass,Logan 05,President,,Gary Johnson,LBT,14Cass,Logan 06,President,,Gary Johnson,LBT,20Cass,Logan 07,President,,Gary Johnson,LBT,5Cass,Logan 08,President,,Gary Johnson,LBT,11Cass,Logan 09,President,,Gary Johnson,LBT,19Cass,Logan 10,President,,Gary Johnson,LBT,21Cass,Logan 11,President,,Gary Johnson,LBT,25Cass,Logan 12,President,,Gary Johnson,LBT,18Cass,Logan 13,President,,Gary Johnson,LBT,19Cass,Logan 14,President,,Gary Johnson,LBT,17Cass,Logan 15,President,,Gary Johnson,LBT,29Cass,Logan 16,President,,Gary Johnson,LBT,4Cass,Washington CY,President,,Gary Johnson,LBT,0Cass,Fed,President,,Gary Johnson,LBT,0Cass,Total,President,,Gary Johnson,LBT,680Cass,Adams,President,,Write-ins,,1Cass,Bethlehem,President,,Write-ins,,0Cass,Boone,President,,Write-ins,,0Cass,Clay 1,President,,Write-ins,,2Cass,Clay 2,President,,Write-ins,,3Cass,Clay 3,President,,Write-ins,,3Cass,Clay City,President,,Write-ins,,0Cass,Clinton,President,,Write-ins,,0Cass,Deer Creek,President,,Write-ins,,0Cass,Eel E,President,,Write-ins,,0Cass,Eel W,President,,Write-ins,,1Cass,Galveston,President,,Write-ins,,3Cass,Harrison,President,,Write-ins,,0Cass,Jackson,President,,Write-ins,,3Cass,Jefferson,President,,Write-ins,,6Cass,Miami,President,,Write-ins,,1Cass,Noble City,President,,Write-ins,,1Cass,Noble North,President,,Write-ins,,5Cass,Noble South,President,,Write-ins,,1Cass,Tipton 1,President,,Write-ins,,1Cass,Tipton 2,President,,Write-ins,,1Cass,Washington,President,,Write-ins,,1Cass,Logan 01,President,,Write-ins,,1Cass,Logan 02,President,,Write-ins,,1Cass,Logan 03,President,,Write-ins,,0Cass,Logan 04,President,,Write-ins,,7Cass,Logan 05,President,,Write-ins,,2Cass,Logan 06,President,,Write-ins,,4Cass,Logan 07,President,,Write-ins,,1Cass,Logan 08,President,,Write-ins,,0Cass,Logan 09,President,,Write-ins,,3Cass,Logan 10,President,,Write-ins,,5Cass,Logan 11,President,,Write-ins,,1Cass,Logan 12,President,,Write-ins,,4Cass,Logan 13,President,,Write-ins,,2Cass,Logan 14,President,,Write-ins,,2Cass,Logan 15,President,,Write-ins,,1Cass,Logan 16,President,,Write-ins,,2Cass,Washington CY,President,,Write-ins,,0Cass,Fed,President,,Write-ins,,0Cass,Total,President,,Write-ins,,69Cass,Adams,U.S. Senate,,Todd Young,REP,259Cass,Bethlehem,U.S. Senate,,Todd Young,REP,224Cass,Boone,U.S. Senate,,Todd Young,REP,410Cass,Clay 1,U.S. Senate,,Todd Young,REP,388Cass,Clay 2,U.S. Senate,,Todd Young,REP,198Cass,Clay 3,U.S. Senate,,Todd Young,REP,225Cass,Clay City,U.S. Senate,,Todd Young,REP,35Cass,Clinton,U.S. Senate,,Todd Young,REP,155Cass,Deer Creek,U.S. Senate,,Todd Young,REP,244Cass,Eel E,U.S. Senate,,Todd Young,REP,206Cass,Eel W,U.S. Senate,,Todd Young,REP,77Cass,Galveston,U.S. Senate,,Todd Young,REP,338Cass,Harrison,U.S. Senate,,Todd Young,REP,263Cass,Jackson,U.S. Senate,,Todd Young,REP,524Cass,Jefferson,U.S. Senate,,Todd Young,REP,397Cass,Miami,U.S. Senate,,Todd Young,REP,414Cass,Noble City,U.S. Senate,,Todd Young,REP,65Cass,Noble North,U.S. Senate,,Todd Young,REP,340Cass,Noble South,U.S. Senate,,Todd Young,REP,111Cass,Tipton 1,U.S. Senate,,Todd Young,REP,395Cass,Tipton 2,U.S. Senate,,Todd Young,REP,327Cass,Washington,U.S. Senate,,Todd Young,REP,343Cass,Logan 01,U.S. Senate,,Todd Young,REP,134Cass,Logan 02,U.S. Senate,,Todd Young,REP,129Cass,Logan 03,U.S. Senate,,Todd Young,REP,49Cass,Logan 04,U.S. Senate,,Todd Young,REP,195Cass,Logan 05,U.S. Senate,,Todd Young,REP,146Cass,Logan 06,U.S. Senate,,Todd Young,REP,183Cass,Logan 07,U.S. Senate,,Todd Young,REP,51Cass,Logan 08,U.S. Senate,,Todd Young,REP,105Cass,Logan 09,U.S. Senate,,Todd Young,REP,102Cass,Logan 10,U.S. Senate,,Todd Young,REP,174Cass,Logan 11,U.S. Senate,,Todd Young,REP,296Cass,Logan 12,U.S. Senate,,Todd Young,REP,205Cass,Logan 13,U.S. Senate,,Todd Young,REP,77Cass,Logan 14,U.S. Senate,,Todd Young,REP,239Cass,Logan 15,U.S. Senate,,Todd Young,REP,225Cass,Logan 16,U.S. Senate,,Todd Young,REP,54Cass,Washington CY,U.S. Senate,,Todd Young,REP,4Cass,Total,U.S. Senate,,Todd Young,REP,8306Cass,Adams,U.S. Senate,,Evan Bayh,DEM,93Cass,Bethlehem,U.S. Senate,,Evan Bayh,DEM,95Cass,Boone,U.S. Senate,,Evan Bayh,DEM,151Cass,Clay 1,U.S. Senate,,Evan Bayh,DEM,174Cass,Clay 2,U.S. Senate,,Evan Bayh,DEM,104Cass,Clay 3,U.S. Senate,,Evan Bayh,DEM,101Cass,Clay City,U.S. Senate,,Evan Bayh,DEM,43Cass,Clinton,U.S. Senate,,Evan Bayh,DEM,78Cass,Deer Creek,U.S. Senate,,Evan Bayh,DEM,118Cass,Eel E,U.S. Senate,,Evan Bayh,DEM,68Cass,Eel W,U.S. Senate,,Evan Bayh,DEM,39Cass,Galveston,U.S. Senate,,Evan Bayh,DEM,209Cass,Harrison,U.S. Senate,,Evan Bayh,DEM,101Cass,Jackson,U.S. Senate,,Evan Bayh,DEM,232Cass,Jefferson,U.S. Senate,,Evan Bayh,DEM,179Cass,Miami,U.S. Senate,,Evan Bayh,DEM,196Cass,Noble City,U.S. Senate,,Evan Bayh,DEM,30Cass,Noble North,U.S. Senate,,Evan Bayh,DEM,147Cass,Noble South,U.S. Senate,,Evan Bayh,DEM,93Cass,Tipton 1,U.S. Senate,,Evan Bayh,DEM,176Cass,Tipton 2,U.S. Senate,,Evan Bayh,DEM,166Cass,Washington,U.S. Senate,,Evan Bayh,DEM,216Cass,Logan 01,U.S. Senate,,Evan Bayh,DEM,126Cass,Logan 02,U.S. Senate,,Evan Bayh,DEM,100Cass,Logan 03,U.S. Senate,,Evan Bayh,DEM,50Cass,Logan 04,U.S. Senate,,Evan Bayh,DEM,172Cass,Logan 05,U.S. Senate,,Evan Bayh,DEM,142Cass,Logan 06,U.S. Senate,,Evan Bayh,DEM,124Cass,Logan 07,U.S. Senate,,Evan Bayh,DEM,65Cass,Logan 08,U.S. Senate,,Evan Bayh,DEM,117Cass,Logan 09,U.S. Senate,,Evan Bayh,DEM,118Cass,Logan 10,U.S. Senate,,Evan Bayh,DEM,161Cass,Logan 11,U.S. Senate,,Evan Bayh,DEM,212Cass,Logan 12,U.S. Senate,,Evan Bayh,DEM,169Cass,Logan 13,U.S. Senate,,Evan Bayh,DEM,99Cass,Logan 14,U.S. Senate,,Evan Bayh,DEM,198Cass,Logan 15,U.S. Senate,,Evan Bayh,DEM,214Cass,Logan 16,U.S. Senate,,Evan Bayh,DEM,51Cass,Washington CY,U.S. Senate,,Evan Bayh,DEM,0Cass,Total,U.S. Senate,,Evan Bayh,DEM,4927Cass,Adams,U.S. Senate,,Lucy Brenton,LBT,32Cass,Bethlehem,U.S. Senate,,Lucy Brenton,LBT,27Cass,Boone,U.S. Senate,,Lucy Brenton,LBT,34Cass,Clay 1,U.S. Senate,,Lucy Brenton,LBT,32Cass,Clay 2,U.S. Senate,,Lucy Brenton,LBT,20Cass,Clay 3,U.S. Senate,,Lucy Brenton,LBT,19Cass,Clay City,U.S. Senate,,Lucy Brenton,LBT,8Cass,Clinton,U.S. Senate,,Lucy Brenton,LBT,14Cass,Deer Creek,U.S. Senate,,Lucy Brenton,LBT,39Cass,Eel E,U.S. Senate,,Lucy Brenton,LBT,16Cass,Eel W,U.S. Senate,,Lucy Brenton,LBT,7Cass,Galveston,U.S. Senate,,Lucy Brenton,LBT,39Cass,Harrison,U.S. Senate,,Lucy Brenton,LBT,14Cass,Jackson,U.S. Senate,,Lucy Brenton,LBT,36Cass,Jefferson,U.S. Senate,,Lucy Brenton,LBT,49Cass,Miami,U.S. Senate,,Lucy Brenton,LBT,43Cass,Noble City,U.S. Senate,,Lucy Brenton,LBT,4Cass,Noble North,U.S. Senate,,Lucy Brenton,LBT,47Cass,Noble South,U.S. Senate,,Lucy Brenton,LBT,21Cass,Tipton 1,U.S. Senate,,Lucy Brenton,LBT,38Cass,Tipton 2,U.S. Senate,,Lucy Brenton,LBT,36Cass,Washington,U.S. Senate,,Lucy Brenton,LBT,43Cass,Logan 01,U.S. Senate,,Lucy Brenton,LBT,20Cass,Logan 02,U.S. Senate,,Lucy Brenton,LBT,29Cass,Logan 03,U.S. Senate,,Lucy Brenton,LBT,9Cass,Logan 04,U.S. Senate,,Lucy Brenton,LBT,59Cass,Logan 05,U.S. Senate,,Lucy Brenton,LBT,23Cass,Logan 06,U.S. Senate,,Lucy Brenton,LBT,26Cass,Logan 07,U.S. Senate,,Lucy Brenton,LBT,10Cass,Logan 08,U.S. Senate,,Lucy Brenton,LBT,18Cass,Logan 09,U.S. Senate,,Lucy Brenton,LBT,28Cass,Logan 10,U.S. Senate,,Lucy Brenton,LBT,25Cass,Logan 11,U.S. Senate,,Lucy Brenton,LBT,32Cass,Logan 12,U.S. Senate,,Lucy Brenton,LBT,41Cass,Logan 13,U.S. Senate,,Lucy Brenton,LBT,21Cass,Logan 14,U.S. Senate,,Lucy Brenton,LBT,19Cass,Logan 15,U.S. Senate,,Lucy Brenton,LBT,29Cass,Logan 16,U.S. Senate,,Lucy Brenton,LBT,6Cass,Washington CY,U.S. Senate,,Lucy Brenton,LBT,0Cass,Total,U.S. Senate,,Lucy Brenton,LBT,1013Cass,Adams,Governor,,Eric Holcomb,REP,266Cass,Bethlehem,Governor,,Eric Holcomb,REP,219Cass,Boone,Governor,,Eric Holcomb,REP,369Cass,Clay 1,Governor,,Eric Holcomb,REP,380Cass,Clay 2,Governor,,Eric Holcomb,REP,184Cass,Clay 3,Governor,,Eric Holcomb,REP,222Cass,Clay City,Governor,,Eric Holcomb,REP,43Cass,Clinton,Governor,,Eric Holcomb,REP,147Cass,Deer Creek,Governor,,Eric Holcomb,REP,239Cass,Eel E,Governor,,Eric Holcomb,REP,198Cass,Eel W,Governor,,Eric Holcomb,REP,78Cass,Galveston,Governor,,Eric Holcomb,REP,321Cass,Harrison,Governor,,Eric Holcomb,REP,246Cass,Jackson,Governor,,Eric Holcomb,REP,492Cass,Jefferson,Governor,,Eric Holcomb,REP,374Cass,Miami,Governor,,Eric Holcomb,REP,399Cass,Noble City,Governor,,Eric Holcomb,REP,58Cass,Noble North,Governor,,Eric Holcomb,REP,318Cass,Noble South,Governor,,Eric Holcomb,REP,121Cass,Tipton 1,Governor,,Eric Holcomb,REP,370Cass,Tipton 2,Governor,,Eric Holcomb,REP,312Cass,Washington,Governor,,Eric Holcomb,REP,343Cass,Logan 01,Governor,,Eric Holcomb,REP,135Cass,Logan 02,Governor,,Eric Holcomb,REP,132Cass,Logan 03,Governor,,Eric Holcomb,REP,47Cass,Logan 04,Governor,,Eric Holcomb,REP,200Cass,Logan 05,Governor,,Eric Holcomb,REP,155Cass,Logan 06,Governor,,Eric Holcomb,REP,179Cass,Logan 07,Governor,,Eric Holcomb,REP,50Cass,Logan 08,Governor,,Eric Holcomb,REP,94Cass,Logan 09,Governor,,Eric Holcomb,REP,108Cass,Logan 10,Governor,,Eric Holcomb,REP,177Cass,Logan 11,Governor,,Eric Holcomb,REP,293Cass,Logan 12,Governor,,Eric Holcomb,REP,208Cass,Logan 13,Governor,,Eric Holcomb,REP,78Cass,Logan 14,Governor,,Eric Holcomb,REP,219Cass,Logan 15,Governor,,Eric Holcomb,REP,236Cass,Logan 16,Governor,,Eric Holcomb,REP,45Cass,Washington CY,Governor,,Eric Holcomb,REP,4Cass,Total,Governor,,Eric Holcomb,REP,8059Cass,Adams,Governor,,John Gregg,DEM,107Cass,Bethlehem,Governor,,John Gregg,DEM,116Cass,Boone,Governor,,John Gregg,DEM,209Cass,Clay 1,Governor,,John Gregg,DEM,202Cass,Clay 2,Governor,,John Gregg,DEM,129Cass,Clay 3,Governor,,John Gregg,DEM,113Cass,Clay City,Governor,,John Gregg,DEM,41Cass,Clinton,Governor,,John Gregg,DEM,88Cass,Deer Creek,Governor,,John Gregg,DEM,151Cass,Eel E,Governor,,John Gregg,DEM,83Cass,Eel W,Governor,,John Gregg,DEM,40Cass,Galveston,Governor,,John Gregg,DEM,237Cass,Harrison,Governor,,John Gregg,DEM,121Cass,Jackson,Governor,,John Gregg,DEM,280Cass,Jefferson,Governor,,John Gregg,DEM,227Cass,Miami,Governor,,John Gregg,DEM,234Cass,Noble City,Governor,,John Gregg,DEM,39Cass,Noble North,Governor,,John Gregg,DEM,184Cass,Noble South,Governor,,John Gregg,DEM,90Cass,Tipton 1,Governor,,John Gregg,DEM,215Cass,Tipton 2,Governor,,John Gregg,DEM,202Cass,Washington,Governor,,John Gregg,DEM,244Cass,Logan 01,Governor,,John Gregg,DEM,134Cass,Logan 02,Governor,,John Gregg,DEM,118Cass,Logan 03,Governor,,John Gregg,DEM,51Cass,Logan 04,Governor,,John Gregg,DEM,194Cass,Logan 05,Governor,,John Gregg,DEM,141Cass,Logan 06,Governor,,John Gregg,DEM,143Cass,Logan 07,Governor,,John Gregg,DEM,66Cass,Logan 08,Governor,,John Gregg,DEM,135Cass,Logan 09,Governor,,John Gregg,DEM,131Cass,Logan 10,Governor,,John Gregg,DEM,170Cass,Logan 11,Governor,,John Gregg,DEM,229Cass,Logan 12,Governor,,John Gregg,DEM,189Cass,Logan 13,Governor,,John Gregg,DEM,105Cass,Logan 14,Governor,,John Gregg,DEM,228Cass,Logan 15,Governor,,John Gregg,DEM,218Cass,Logan 16,Governor,,John Gregg,DEM,58Cass,Washington CY,Governor,,John Gregg,DEM,0Cass,Total,Governor,,John Gregg,DEM,5662Cass,Adams,Governor,,Rex Bell,LBT,14Cass,Bethlehem,Governor,,Rex Bell,LBT,12Cass,Boone,Governor,,Rex Bell,LBT,19Cass,Clay 1,Governor,,Rex Bell,LBT,11Cass,Clay 2,Governor,,Rex Bell,LBT,10Cass,Clay 3,Governor,,Rex Bell,LBT,9Cass,Clay City,Governor,,Rex Bell,LBT,2Cass,Clinton,Governor,,Rex Bell,LBT,8Cass,Deer Creek,Governor,,Rex Bell,LBT,13Cass,Eel E,Governor,,Rex Bell,LBT,8Cass,Eel W,Governor,,Rex Bell,LBT,6Cass,Galveston,Governor,,Rex Bell,LBT,21Cass,Harrison,Governor,,Rex Bell,LBT,10Cass,Jackson,Governor,,Rex Bell,LBT,22Cass,Jefferson,Governor,,Rex Bell,LBT,22Cass,Miami,Governor,,Rex Bell,LBT,22Cass,Noble City,Governor,,Rex Bell,LBT,3Cass,Noble North,Governor,,Rex Bell,LBT,26Cass,Noble South,Governor,,Rex Bell,LBT,11Cass,Tipton 1,Governor,,Rex Bell,LBT,22Cass,Tipton 2,Governor,,Rex Bell,LBT,15Cass,Washington,Governor,,Rex Bell,LBT,17Cass,Logan 01,Governor,,Rex Bell,LBT,9Cass,Logan 02,Governor,,Rex Bell,LBT,13Cass,Logan 03,Governor,,Rex Bell,LBT,9Cass,Logan 04,Governor,,Rex Bell,LBT,26Cass,Logan 05,Governor,,Rex Bell,LBT,14Cass,Logan 06,Governor,,Rex Bell,LBT,13Cass,Logan 07,Governor,,Rex Bell,LBT,10Cass,Logan 08,Governor,,Rex Bell,LBT,11Cass,Logan 09,Governor,,Rex Bell,LBT,11Cass,Logan 10,Governor,,Rex Bell,LBT,16Cass,Logan 11,Governor,,Rex Bell,LBT,10Cass,Logan 12,Governor,,Rex Bell,LBT,20Cass,Logan 13,Governor,,Rex Bell,LBT,13Cass,Logan 14,Governor,,Rex Bell,LBT,13Cass,Logan 15,Governor,,Rex Bell,LBT,12Cass,Logan 16,Governor,,Rex Bell,LBT,8Cass,Washington CY,Governor,,Rex Bell,LBT,0Cass,Total,Governor,,Rex Bell,LBT,511Cass,Adams,Attorney General,,Curtis Hill,REP,313Cass,Bethlehem,Attorney General,,Curtis Hill,REP,284Cass,Boone,Attorney General,,Curtis Hill,REP,471Cass,Clay 1,Attorney General,,Curtis Hill,REP,451Cass,Clay 2,Attorney General,,Curtis Hill,REP,233Cass,Clay 3,Attorney General,,Curtis Hill,REP,261Cass,Clay City,Attorney General,,Curtis Hill,REP,50Cass,Clinton,Attorney General,,Curtis Hill,REP,176Cass,Deer Creek,Attorney General,,Curtis Hill,REP,313Cass,Eel E,Attorney General,,Curtis Hill,REP,234Cass,Eel W,Attorney General,,Curtis Hill,REP,92Cass,Galveston,Attorney General,,Curtis Hill,REP,416Cass,Harrison,Attorney General,,Curtis Hill,REP,312Cass,Jackson,Attorney General,,Curtis Hill,REP,592Cass,Jefferson,Attorney General,,Curtis Hill,REP,470Cass,Miami,Attorney General,,Curtis Hill,REP,495Cass,Noble City,Attorney General,,Curtis Hill,REP,73Cass,Noble North,Attorney General,,Curtis Hill,REP,390Cass,Noble South,Attorney General,,Curtis Hill,REP,147Cass,Tipton 1,Attorney General,,Curtis Hill,REP,463Cass,Tipton 2,Attorney General,,Curtis Hill,REP,384Cass,Washington,Attorney General,,Curtis Hill,REP,432Cass,Logan 01,Attorney General,,Curtis Hill,REP,164Cass,Logan 02,Attorney General,,Curtis Hill,REP,166Cass,Logan 03,Attorney General,,Curtis Hill,REP,60Cass,Logan 04,Attorney General,,Curtis Hill,REP,264Cass,Logan 05,Attorney General,,Curtis Hill,REP,187Cass,Logan 06,Attorney General,,Curtis Hill,REP,218Cass,Logan 07,Attorney General,,Curtis Hill,REP,69Cass,Logan 08,Attorney General,,Curtis Hill,REP,129Cass,Logan 09,Attorney General,,Curtis Hill,REP,143Cass,Logan 10,Attorney General,,Curtis Hill,REP,216Cass,Logan 11,Attorney General,,Curtis Hill,REP,366Cass,Logan 12,Attorney General,,Curtis Hill,REP,272Cass,Logan 13,Attorney General,,Curtis Hill,REP,105Cass,Logan 14,Attorney General,,Curtis Hill,REP,276Cass,Logan 15,Attorney General,,Curtis Hill,REP,299Cass,Logan 16,Attorney General,,Curtis Hill,REP,60Cass,Washington CY,Attorney General,,Curtis Hill,REP,3Cass,Total,Attorney General,,Curtis Hill,REP,10049Cass,Adams,Attorney General,,Lorenzo Arredondo,DEM,67Cass,Bethlehem,Attorney General,,Lorenzo Arredondo,DEM,56Cass,Boone,Attorney General,,Lorenzo Arredondo,DEM,108Cass,Clay 1,Attorney General,,Lorenzo Arredondo,DEM,132Cass,Clay 2,Attorney General,,Lorenzo Arredondo,DEM,78Cass,Clay 3,Attorney General,,Lorenzo Arredondo,DEM,76Cass,Clay City,Attorney General,,Lorenzo Arredondo,DEM,34Cass,Clinton,Attorney General,,Lorenzo Arredondo,DEM,68Cass,Deer Creek,Attorney General,,Lorenzo Arredondo,DEM,77Cass,Eel E,Attorney General,,Lorenzo Arredondo,DEM,48Cass,Eel W,Attorney General,,Lorenzo Arredondo,DEM,31Cass,Galveston,Attorney General,,Lorenzo Arredondo,DEM,157Cass,Harrison,Attorney General,,Lorenzo Arredondo,DEM,57Cass,Jackson,Attorney General,,Lorenzo Arredondo,DEM,177Cass,Jefferson,Attorney General,,Lorenzo Arredondo,DEM,131Cass,Miami,Attorney General,,Lorenzo Arredondo,DEM,145Cass,Noble City,Attorney General,,Lorenzo Arredondo,DEM,26Cass,Noble North,Attorney General,,Lorenzo Arredondo,DEM,112Cass,Noble South,Attorney General,,Lorenzo Arredondo,DEM,70Cass,Tipton 1,Attorney General,,Lorenzo Arredondo,DEM,130Cass,Tipton 2,Attorney General,,Lorenzo Arredondo,DEM,137Cass,Washington,Attorney General,,Lorenzo Arredondo,DEM,159Cass,Logan 01,Attorney General,,Lorenzo Arredondo,DEM,112Cass,Logan 02,Attorney General,,Lorenzo Arredondo,DEM,85Cass,Logan 03,Attorney General,,Lorenzo Arredondo,DEM,47Cass,Logan 04,Attorney General,,Lorenzo Arredondo,DEM,149Cass,Logan 05,Attorney General,,Lorenzo Arredondo,DEM,118Cass,Logan 06,Attorney General,,Lorenzo Arredondo,DEM,111Cass,Logan 07,Attorney General,,Lorenzo Arredondo,DEM,54Cass,Logan 08,Attorney General,,Lorenzo Arredondo,DEM,101Cass,Logan 09,Attorney General,,Lorenzo Arredondo,DEM,103Cass,Logan 10,Attorney General,,Lorenzo Arredondo,DEM,145Cass,Logan 11,Attorney General,,Lorenzo Arredondo,DEM,149Cass,Logan 12,Attorney General,,Lorenzo Arredondo,DEM,132Cass,Logan 13,Attorney General,,Lorenzo Arredondo,DEM,88Cass,Logan 14,Attorney General,,Lorenzo Arredondo,DEM,163Cass,Logan 15,Attorney General,,Lorenzo Arredondo,DEM,156Cass,Logan 16,Attorney General,,Lorenzo Arredondo,DEM,49Cass,Washington CY,Attorney General,,Lorenzo Arredondo,DEM,0Cass,Total,Attorney General,,Lorenzo Arredondo,DEM,3838Cass,Adams,Public Instruction,,Jennifer McCormick,REP,250Cass,Bethlehem,Public Instruction,,Jennifer McCormick,REP,224Cass,Boone,Public Instruction,,Jennifer McCormick,REP,383Cass,Clay 1,Public Instruction,,Jennifer McCormick,REP,357Cass,Clay 2,Public Instruction,,Jennifer McCormick,REP,162Cass,Clay 3,Public Instruction,,Jennifer McCormick,REP,207Cass,Clay City,Public Instruction,,Jennifer McCormick,REP,51Cass,Clinton,Public Instruction,,Jennifer McCormick,REP,153Cass,Deer Creek,Public Instruction,,Jennifer McCormick,REP,227Cass,Eel E,Public Instruction,,Jennifer McCormick,REP,178Cass,Eel W,Public Instruction,,Jennifer McCormick,REP,84Cass,Galveston,Public Instruction,,Jennifer McCormick,REP,317Cass,Harrison,Public Instruction,,Jennifer McCormick,REP,233Cass,Jackson,Public Instruction,,Jennifer McCormick,REP,496Cass,Jefferson,Public Instruction,,Jennifer McCormick,REP,386Cass,Miami,Public Instruction,,Jennifer McCormick,REP,389Cass,Noble City,Public Instruction,,Jennifer McCormick,REP,55Cass,Noble North,Public Instruction,,Jennifer McCormick,REP,301Cass,Noble South,Public Instruction,,Jennifer McCormick,REP,118Cass,Tipton 1,Public Instruction,,Jennifer McCormick,REP,368Cass,Tipton 2,Public Instruction,,Jennifer McCormick,REP,313Cass,Washington,Public Instruction,,Jennifer McCormick,REP,341Cass,Logan 01,Public Instruction,,Jennifer McCormick,REP,143Cass,Logan 02,Public Instruction,,Jennifer McCormick,REP,134Cass,Logan 03,Public Instruction,,Jennifer McCormick,REP,58Cass,Logan 04,Public Instruction,,Jennifer McCormick,REP,206Cass,Logan 05,Public Instruction,,Jennifer McCormick,REP,146Cass,Logan 06,Public Instruction,,Jennifer McCormick,REP,184Cass,Logan 07,Public Instruction,,Jennifer McCormick,REP,56Cass,Logan 08,Public Instruction,,Jennifer McCormick,REP,107Cass,Logan 09,Public Instruction,,Jennifer McCormick,REP,114Cass,Logan 10,Public Instruction,,Jennifer McCormick,REP,169Cass,Logan 11,Public Instruction,,Jennifer McCormick,REP,272Cass,Logan 12,Public Instruction,,Jennifer McCormick,REP,213Cass,Logan 13,Public Instruction,,Jennifer McCormick,REP,84Cass,Logan 14,Public Instruction,,Jennifer McCormick,REP,210Cass,Logan 15,Public Instruction,,Jennifer McCormick,REP,232Cass,Logan 16,Public Instruction,,Jennifer McCormick,REP,54Cass,Washington CY,Public Instruction,,Jennifer McCormick,REP,1Cass,Total,Public Instruction,,Jennifer McCormick,REP,7976Cass,Adams,Public Instruction,,Glenda Ritz,DEM,136Cass,Bethlehem,Public Instruction,,Glenda Ritz,DEM,120Cass,Boone,Public Instruction,,Glenda Ritz,DEM,204Cass,Clay 1,Public Instruction,,Glenda Ritz,DEM,231Cass,Clay 2,Public Instruction,,Glenda Ritz,DEM,157Cass,Clay 3,Public Instruction,,Glenda Ritz,DEM,133Cass,Clay City,Public Instruction,,Glenda Ritz,DEM,37Cass,Clinton,Public Instruction,,Glenda Ritz,DEM,89Cass,Deer Creek,Public Instruction,,Glenda Ritz,DEM,170Cass,Eel E,Public Instruction,,Glenda Ritz,DEM,108Cass,Eel W,Public Instruction,,Glenda Ritz,DEM,39Cass,Galveston,Public Instruction,,Glenda Ritz,DEM,256Cass,Harrison,Public Instruction,,Glenda Ritz,DEM,139Cass,Jackson,Public Instruction,,Glenda Ritz,DEM,290Cass,Jefferson,Public Instruction,,Glenda Ritz,DEM,230Cass,Miami,Public Instruction,,Glenda Ritz,DEM,256Cass,Noble City,Public Instruction,,Glenda Ritz,DEM,44Cass,Noble North,Public Instruction,,Glenda Ritz,DEM,217Cass,Noble South,Public Instruction,,Glenda Ritz,DEM,102Cass,Tipton 1,Public Instruction,,Glenda Ritz,DEM,233Cass,Tipton 2,Public Instruction,,Glenda Ritz,DEM,213Cass,Washington,Public Instruction,,Glenda Ritz,DEM,256Cass,Logan 01,Public Instruction,,Glenda Ritz,DEM,138Cass,Logan 02,Public Instruction,,Glenda Ritz,DEM,122Cass,Logan 03,Public Instruction,,Glenda Ritz,DEM,49Cass,Logan 04,Public Instruction,,Glenda Ritz,DEM,209Cass,Logan 05,Public Instruction,,Glenda Ritz,DEM,164Cass,Logan 06,Public Instruction,,Glenda Ritz,DEM,145Cass,Logan 07,Public Instruction,,Glenda Ritz,DEM,66Cass,Logan 08,Public Instruction,,Glenda Ritz,DEM,129Cass,Logan 09,Public Instruction,,Glenda Ritz,DEM,129Cass,Logan 10,Public Instruction,,Glenda Ritz,DEM,189Cass,Logan 11,Public Instruction,,Glenda Ritz,DEM,264Cass,Logan 12,Public Instruction,,Glenda Ritz,DEM,201Cass,Logan 13,Public Instruction,,Glenda Ritz,DEM,108Cass,Logan 14,Public Instruction,,Glenda Ritz,DEM,239Cass,Logan 15,Public Instruction,,Glenda Ritz,DEM,230Cass,Logan 16,Public Instruction,,Glenda Ritz,DEM,54Cass,Washington CY,Public Instruction,,Glenda Ritz,DEM,2Cass,Total,Public Instruction,,Glenda Ritz,DEM,6098Cass,Adams,U.S. House,4,Todd Rokita,REP,297Cass,Bethlehem,U.S. House,4,Todd Rokita,REP,260Cass,Boone,U.S. House,4,Todd Rokita,REP,436Cass,Clay 1,U.S. House,4,Todd Rokita,REP,430Cass,Clay 2,U.S. House,4,Todd Rokita,REP,231Cass,Clay 3,U.S. House,4,Todd Rokita,REP,256Cass,Clay City,U.S. House,4,Todd Rokita,REP,46Cass,Clinton,U.S. House,4,Todd Rokita,REP,175Cass,Deer Creek,U.S. House,4,Todd Rokita,REP,271Cass,Eel E,U.S. House,4,Todd Rokita,REP,224Cass,Eel W,U.S. House,4,Todd Rokita,REP,85Cass,Galveston,U.S. House,4,Todd Rokita,REP,386Cass,Harrison,U.S. House,4,Todd Rokita,REP,293Cass,Jackson,U.S. House,4,Todd Rokita,REP,576Cass,Jefferson,U.S. House,4,Todd Rokita,REP,431Cass,Miami,U.S. House,4,Todd Rokita,REP,467Cass,Noble City,U.S. House,4,Todd Rokita,REP,64Cass,Noble North,U.S. House,4,Todd Rokita,REP,365Cass,Noble South,U.S. House,4,Todd Rokita,REP,141Cass,Tipton 1,U.S. House,4,Todd Rokita,REP,438Cass,Tipton 2,U.S. House,4,Todd Rokita,REP,364Cass,Washington,U.S. House,4,Todd Rokita,REP,409Cass,Logan 01,U.S. House,4,Todd Rokita,REP,148Cass,Logan 02,U.S. House,4,Todd Rokita,REP,148Cass,Logan 03,U.S. House,4,Todd Rokita,REP,56Cass,Logan 04,U.S. House,4,Todd Rokita,REP,219Cass,Logan 05,U.S. House,4,Todd Rokita,REP,176Cass,Logan 06,U.S. House,4,Todd Rokita,REP,204Cass,Logan 07,U.S. House,4,Todd Rokita,REP,62Cass,Logan 08,U.S. House,4,Todd Rokita,REP,117Cass,Logan 09,U.S. House,4,Todd Rokita,REP,124Cass,Logan 10,U.S. House,4,Todd Rokita,REP,201Cass,Logan 11,U.S. House,4,Todd Rokita,REP,354Cass,Logan 12,U.S. House,4,Todd Rokita,REP,258Cass,Logan 13,U.S. House,4,Todd Rokita,REP,79Cass,Logan 14,U.S. House,4,Todd Rokita,REP,260Cass,Logan 15,U.S. House,4,Todd Rokita,REP,298Cass,Logan 16,U.S. House,4,Todd Rokita,REP,51Cass,Washington CY,U.S. House,4,Todd Rokita,REP,3Cass,Total,U.S. House,4,Todd Rokita,REP,9403Cass,Adams,U.S. House,4,John Dale,DEM,68Cass,Bethlehem,U.S. House,4,John Dale,DEM,68Cass,Boone,U.S. House,4,John Dale,DEM,125Cass,Clay 1,U.S. House,4,John Dale,DEM,145Cass,Clay 2,U.S. House,4,John Dale,DEM,75Cass,Clay 3,U.S. House,4,John Dale,DEM,78Cass,Clay City,U.S. House,4,John Dale,DEM,36Cass,Clinton,U.S. House,4,John Dale,DEM,62Cass,Deer Creek,U.S. House,4,John Dale,DEM,95Cass,Eel E,U.S. House,4,John Dale,DEM,51Cass,Eel W,U.S. House,4,John Dale,DEM,32Cass,Galveston,U.S. House,4,John Dale,DEM,166Cass,Harrison,U.S. House,4,John Dale,DEM,63Cass,Jackson,U.S. House,4,John Dale,DEM,179Cass,Jefferson,U.S. House,4,John Dale,DEM,140Cass,Miami,U.S. House,4,John Dale,DEM,154Cass,Noble City,U.S. House,4,John Dale,DEM,31Cass,Noble North,U.S. House,4,John Dale,DEM,126Cass,Noble South,U.S. House,4,John Dale,DEM,66Cass,Tipton 1,U.S. House,4,John Dale,DEM,133Cass,Tipton 2,U.S. House,4,John Dale,DEM,139Cass,Washington,U.S. House,4,John Dale,DEM,163Cass,Logan 01,U.S. House,4,John Dale,DEM,115Cass,Logan 02,U.S. House,4,John Dale,DEM,94Cass,Logan 03,U.S. House,4,John Dale,DEM,45Cass,Logan 04,U.S. House,4,John Dale,DEM,164Cass,Logan 05,U.S. House,4,John Dale,DEM,114Cass,Logan 06,U.S. House,4,John Dale,DEM,108Cass,Logan 07,U.S. House,4,John Dale,DEM,50Cass,Logan 08,U.S. House,4,John Dale,DEM,102Cass,Logan 09,U.S. House,4,John Dale,DEM,103Cass,Logan 10,U.S. House,4,John Dale,DEM,142Cass,Logan 11,U.S. House,4,John Dale,DEM,153Cass,Logan 12,U.S. House,4,John Dale,DEM,129Cass,Logan 13,U.S. House,4,John Dale,DEM,96Cass,Logan 14,U.S. House,4,John Dale,DEM,179Cass,Logan 15,U.S. House,4,John Dale,DEM,145Cass,Logan 16,U.S. House,4,John Dale,DEM,53Cass,Washington CY,U.S. House,4,John Dale,DEM,0Cass,Total,U.S. House,4,John Dale,DEM,3987Cass,Adams,U.S. House,4,Steven Mayoras,LBT,19Cass,Bethlehem,U.S. House,4,Steven Mayoras,LBT,14Cass,Boone,U.S. House,4,Steven Mayoras,LBT,26Cass,Clay 1,U.S. House,4,Steven Mayoras,LBT,13Cass,Clay 2,U.S. House,4,Steven Mayoras,LBT,11Cass,Clay 3,U.S. House,4,Steven Mayoras,LBT,10Cass,Clay City,U.S. House,4,Steven Mayoras,LBT,5Cass,Clinton,U.S. House,4,Steven Mayoras,LBT,8Cass,Deer Creek,U.S. House,4,Steven Mayoras,LBT,23Cass,Eel E,U.S. House,4,Steven Mayoras,LBT,11Cass,Eel W,U.S. House,4,Steven Mayoras,LBT,6Cass,Galveston,U.S. House,4,Steven Mayoras,LBT,23Cass,Harrison,U.S. House,4,Steven Mayoras,LBT,12Cass,Jackson,U.S. House,4,Steven Mayoras,LBT,29Cass,Jefferson,U.S. House,4,Steven Mayoras,LBT,44Cass,Miami,U.S. House,4,Steven Mayoras,LBT,28Cass,Noble City,U.S. House,4,Steven Mayoras,LBT,6Cass,Noble North,U.S. House,4,Steven Mayoras,LBT,30Cass,Noble South,U.S. House,4,Steven Mayoras,LBT,14Cass,Tipton 1,U.S. House,4,Steven Mayoras,LBT,25Cass,Tipton 2,U.S. House,4,Steven Mayoras,LBT,22Cass,Washington,U.S. House,4,Steven Mayoras,LBT,18Cass,Logan 01,U.S. House,4,Steven Mayoras,LBT,13Cass,Logan 02,U.S. House,4,Steven Mayoras,LBT,16Cass,Logan 03,U.S. House,4,Steven Mayoras,LBT,6Cass,Logan 04,U.S. House,4,Steven Mayoras,LBT,36Cass,Logan 05,U.S. House,4,Steven Mayoras,LBT,16Cass,Logan 06,U.S. House,4,Steven Mayoras,LBT,21Cass,Logan 07,U.S. House,4,Steven Mayoras,LBT,11Cass,Logan 08,U.S. House,4,Steven Mayoras,LBT,16Cass,Logan 09,U.S. House,4,Steven Mayoras,LBT,19Cass,Logan 10,U.S. House,4,Steven Mayoras,LBT,22Cass,Logan 11,U.S. House,4,Steven Mayoras,LBT,21Cass,Logan 12,U.S. House,4,Steven Mayoras,LBT,20Cass,Logan 13,U.S. House,4,Steven Mayoras,LBT,22Cass,Logan 14,U.S. House,4,Steven Mayoras,LBT,13Cass,Logan 15,U.S. House,4,Steven Mayoras,LBT,19Cass,Logan 16,U.S. House,4,Steven Mayoras,LBT,5Cass,Washington CY,U.S. House,4,Steven Mayoras,LBT,0Cass,Total,U.S. House,4,Steven Mayoras,LBT,673Cass,Adams,State Senate,18,Randall Head,REP,340Cass,Bethlehem,State Senate,18,Randall Head,REP,301Cass,Boone,State Senate,18,Randall Head,REP,518Cass,Clay 1,State Senate,18,Randall Head,REP,494Cass,Clay 2,State Senate,18,Randall Head,REP,282Cass,Clay 3,State Senate,18,Randall Head,REP,282Cass,Clay City,State Senate,18,Randall Head,REP,61Cass,Clinton,State Senate,18,Randall Head,REP,201Cass,Deer Creek,State Senate,18,Randall Head,REP,346Cass,Eel E,State Senate,18,Randall Head,REP,250Cass,Eel W,State Senate,18,Randall Head,REP,103Cass,Galveston,State Senate,18,Randall Head,REP,461Cass,Harrison,State Senate,18,Randall Head,REP,324Cass,Jackson,State Senate,18,Randall Head,REP,668Cass,Jefferson,State Senate,18,Randall Head,REP,516Cass,Miami,State Senate,18,Randall Head,REP,548Cass,Noble City,State Senate,18,Randall Head,REP,80Cass,Noble North,State Senate,18,Randall Head,REP,447Cass,Noble South,State Senate,18,Randall Head,REP,165Cass,Tipton 1,State Senate,18,Randall Head,REP,512Cass,Tipton 2,State Senate,18,Randall Head,REP,446Cass,Washington,State Senate,18,Randall Head,REP,481Cass,Logan 01,State Senate,18,Randall Head,REP,210Cass,Logan 02,State Senate,18,Randall Head,REP,203Cass,Logan 03,State Senate,18,Randall Head,REP,82Cass,Logan 04,State Senate,18,Randall Head,REP,337Cass,Logan 05,State Senate,18,Randall Head,REP,226Cass,Logan 06,State Senate,18,Randall Head,REP,260Cass,Logan 07,State Senate,18,Randall Head,REP,85Cass,Logan 08,State Senate,18,Randall Head,REP,172Cass,Logan 09,State Senate,18,Randall Head,REP,172Cass,Logan 10,State Senate,18,Randall Head,REP,271Cass,Logan 11,State Senate,18,Randall Head,REP,441Cass,Logan 12,State Senate,18,Randall Head,REP,315Cass,Logan 13,State Senate,18,Randall Head,REP,137Cass,Logan 14,State Senate,18,Randall Head,REP,338Cass,Logan 15,State Senate,18,Randall Head,REP,357Cass,Logan 16,State Senate,18,Randall Head,REP,77Cass,Washington CY,State Senate,18,Randall Head,REP,4Cass,Total,State Senate,18,Randall Head,REP,11513Cass,Adams,State House,23,William Friend,REP,306Cass,Bethlehem,State House,23,William Friend,REP,275Cass,Boone,State House,25,Donald Lehe,REP,436Cass,Clay 1,State House,23,William Friend,REP,431Cass,Clay 2,State House,23,William Friend,REP,242Cass,Clay 3,State House,23,William Friend,REP,257Cass,Clay City,State House,23,William Friend,REP,46Cass,Clinton,State House,38,Heath Van Natter,REP,168Cass,Deer Creek,State House,38,Heath Van Natter,REP,272Cass,Eel E,State House,23,William Friend,REP,225Cass,Eel W,State House,23,William Friend,REP,88Cass,Galveston,State House,23,William Friend,REP,394Cass,Harrison,State House,25,Donald Lehe,REP,287Cass,Jackson,State House,23,William Friend,REP,565Cass,Jefferson,State House,25,Donald Lehe,REP,432Cass,Miami,State House,23,William Friend,REP,466Cass,Noble City,State House,23,William Friend,REP,71Cass,Noble North,State House,25,Donald Lehe,REP,358Cass,Noble South,State House,23,William Friend,REP,136Cass,Tipton 1,State House,38,Heath Van Natter,REP,415Cass,Tipton 2,State House,38,Heath Van Natter,REP,346Cass,Washington,State House,38,Heath Van Natter,REP,390Cass,Logan 01,State House,23,William Friend,REP,165Cass,Logan 02,State House,23,William Friend,REP,158Cass,Logan 03,State House,23,William Friend,REP,64Cass,Logan 04,State House,23,William Friend,REP,250Cass,Logan 05,State House,23,William Friend,REP,186Cass,Logan 06,State House,23,William Friend,REP,209Cass,Logan 07,State House,23,William Friend,REP,64Cass,Logan 08,State House,23,William Friend,REP,123Cass,Logan 09,State House,23,William Friend,REP,131Cass,Logan 10,State House,23,William Friend,REP,204Cass,Logan 11,State House,23,William Friend,REP,360Cass,Logan 12,State House,23,William Friend,REP,267Cass,Logan 13,State House,23,William Friend,REP,99Cass,Logan 14,State House,23,William Friend,REP,275Cass,Logan 15,State House,23,William Friend,REP,285Cass,Logan 16,State House,23,William Friend,REP,54Cass,Washington CY,State House,38,Heath Van Natter,REP,3Cass,Total,State House,23,William Friend,REP,6396Cass,Total,State House,25,Donald Lehe,REP,1513Cass,Total,State House,38,Heath Van Natter,REP,1594Cass,Adams,State House,23,Rose Ryan,DEM,77Cass,Bethlehem,State House,23,Rose Ryan,DEM,69Cass,Boone,State House,25,Maurice Fuller,DEM,115Cass,Clay 1,State House,23,Rose Ryan,DEM,151Cass,Clay 2,State House,23,Rose Ryan,DEM,75Cass,Clay 3,State House,23,Rose Ryan,DEM,82Cass,Clay City,State House,23,Rose Ryan,DEM,41Cass,Eel E,State House,23,Rose Ryan,DEM,58Cass,Eel W,State House,23,Rose Ryan,DEM,33Cass,Galveston,State House,23,Rose Ryan,DEM,178Cass,Harrison,State House,25,Maurice Fuller,DEM,69Cass,Jackson,State House,23,Rose Ryan,DEM,204Cass,Jefferson,State House,25,Maurice Fuller,DEM,129Cass,Miami,State House,23,Rose Ryan,DEM,174Cass,Noble City,State House,23,Rose Ryan,DEM,26Cass,Noble North,State House,25,Maurice Fuller,DEM,115Cass,Noble South,State House,23,Rose Ryan,DEM,80Cass,Logan 01,State House,23,Rose Ryan,DEM,115Cass,Logan 02,State House,23,Rose Ryan,DEM,98Cass,Logan 03,State House,23,Rose Ryan,DEM,43Cass,Logan 04,State House,23,Rose Ryan,DEM,162Cass,Logan 05,State House,23,Rose Ryan,DEM,118Cass,Logan 06,State House,23,Rose Ryan,DEM,122Cass,Logan 07,State House,23,Rose Ryan,DEM,59Cass,Logan 08,State House,23,Rose Ryan,DEM,114Cass,Logan 09,State House,23,Rose Ryan,DEM,115Cass,Logan 10,State House,23,Rose Ryan,DEM,156Cass,Logan 11,State House,23,Rose Ryan,DEM,166Cass,Logan 12,State House,23,Rose Ryan,DEM,137Cass,Logan 13,State House,23,Rose Ryan,DEM,97Cass,Logan 14,State House,23,Rose Ryan,DEM,173Cass,Logan 15,State House,23,Rose Ryan,DEM,170Cass,Logan 16,State House,23,Rose Ryan,DEM,52Cass,Total,State House,23,Rose Ryan,DEM,3145Cass,Total,State House,25,Maurice Fuller,DEM,428Cass,Boone,State House,25,Franklyn Voorhies,LBT,27Cass,Harrison,State House,25,Franklyn Voorhies,LBT,12Cass,Jefferson,State House,25,Franklyn Voorhies,LBT,48Cass,Noble North,State House,25,Franklyn Voorhies,LBT,39Cass,Total,State House,25,Franklyn Voorhies,LBT,126Cass,Clinton,State House,38,Jason Burns,IND,48Cass,Deer Creek,State House,38,Jason Burns,IND,101Cass,Tipton 1,State House,38,Jason Burns,IND,135Cass,Tipton 2,State House,38,Jason Burns,IND,133Cass,Washington,State House,38,Jason Burns,IND,143Cass,Washington CY,State House,38,Jason Burns,IND,1Cass,Total,State House,38,Jason Burns,IND,561
+county,precinct,office,district,office,party,vote
+Cass,Adams,President,,Donald Trump,REP,306
+Cass,Bethlehem,President,,Donald Trump,REP,273
+Cass,Boone,President,,Donald Trump,REP,451
+Cass,Clay 1,President,,Donald Trump,REP,429
+Cass,Clay 2,President,,Donald Trump,REP,221
+Cass,Clay 3,President,,Donald Trump,REP,257
+Cass,Clay City,President,,Donald Trump,REP,40
+Cass,Clinton,President,,Donald Trump,REP,165
+Cass,Deer Creek,President,,Donald Trump,REP,313
+Cass,Eel E,President,,Donald Trump,REP,231
+Cass,Eel W,President,,Donald Trump,REP,91
+Cass,Galveston,President,,Donald Trump,REP,409
+Cass,Harrison,President,,Donald Trump,REP,295
+Cass,Jackson,President,,Donald Trump,REP,586
+Cass,Jefferson,President,,Donald Trump,REP,466
+Cass,Miami,President,,Donald Trump,REP,468
+Cass,Noble City,President,,Donald Trump,REP,75
+Cass,Noble North,President,,Donald Trump,REP,394
+Cass,Noble South,President,,Donald Trump,REP,148
+Cass,Tipton 1,President,,Donald Trump,REP,452
+Cass,Tipton 2,President,,Donald Trump,REP,366
+Cass,Washington,President,,Donald Trump,REP,418
+Cass,Logan 01,President,,Donald Trump,REP,169
+Cass,Logan 02,President,,Donald Trump,REP,153
+Cass,Logan 03,President,,Donald Trump,REP,61
+Cass,Logan 04,President,,Donald Trump,REP,251
+Cass,Logan 05,President,,Donald Trump,REP,193
+Cass,Logan 06,President,,Donald Trump,REP,211
+Cass,Logan 07,President,,Donald Trump,REP,63
+Cass,Logan 08,President,,Donald Trump,REP,122
+Cass,Logan 09,President,,Donald Trump,REP,134
+Cass,Logan 10,President,,Donald Trump,REP,201
+Cass,Logan 11,President,,Donald Trump,REP,339
+Cass,Logan 12,President,,Donald Trump,REP,250
+Cass,Logan 13,President,,Donald Trump,REP,93
+Cass,Logan 14,President,,Donald Trump,REP,274
+Cass,Logan 15,President,,Donald Trump,REP,273
+Cass,Logan 16,President,,Donald Trump,REP,56
+Cass,Washington CY,President,,Donald Trump,REP,4
+Cass,Fed,President,,Donald Trump,REP,0
+Cass,Total,President,,Donald Trump,REP,9701
+Cass,Adams,President,,Hillary Clinton,DEM,60
+Cass,Bethlehem,President,,Hillary Clinton,DEM,57
+Cass,Boone,President,,Hillary Clinton,DEM,109
+Cass,Clay 1,President,,Hillary Clinton,DEM,142
+Cass,Clay 2,President,,Hillary Clinton,DEM,85
+Cass,Clay 3,President,,Hillary Clinton,DEM,74
+Cass,Clay City,President,,Hillary Clinton,DEM,44
+Cass,Clinton,President,,Hillary Clinton,DEM,73
+Cass,Deer Creek,President,,Hillary Clinton,DEM,75
+Cass,Eel E,President,,Hillary Clinton,DEM,51
+Cass,Eel W,President,,Hillary Clinton,DEM,26
+Cass,Galveston,President,,Hillary Clinton,DEM,142
+Cass,Harrison,President,,Hillary Clinton,DEM,71
+Cass,Jackson,President,,Hillary Clinton,DEM,164
+Cass,Jefferson,President,,Hillary Clinton,DEM,120
+Cass,Miami,President,,Hillary Clinton,DEM,153
+Cass,Noble City,President,,Hillary Clinton,DEM,22
+Cass,Noble North,President,,Hillary Clinton,DEM,106
+Cass,Noble South,President,,Hillary Clinton,DEM,63
+Cass,Tipton 1,President,,Hillary Clinton,DEM,124
+Cass,Tipton 2,President,,Hillary Clinton,DEM,132
+Cass,Washington,President,,Hillary Clinton,DEM,161
+Cass,Logan 01,President,,Hillary Clinton,DEM,94
+Cass,Logan 02,President,,Hillary Clinton,DEM,85
+Cass,Logan 03,President,,Hillary Clinton,DEM,42
+Cass,Logan 04,President,,Hillary Clinton,DEM,133
+Cass,Logan 05,President,,Hillary Clinton,DEM,102
+Cass,Logan 06,President,,Hillary Clinton,DEM,95
+Cass,Logan 07,President,,Hillary Clinton,DEM,57
+Cass,Logan 08,President,,Hillary Clinton,DEM,102
+Cass,Logan 09,President,,Hillary Clinton,DEM,92
+Cass,Logan 10,President,,Hillary Clinton,DEM,135
+Cass,Logan 11,President,,Hillary Clinton,DEM,173
+Cass,Logan 12,President,,Hillary Clinton,DEM,139
+Cass,Logan 13,President,,Hillary Clinton,DEM,79
+Cass,Logan 14,President,,Hillary Clinton,DEM,166
+Cass,Logan 15,President,,Hillary Clinton,DEM,159
+Cass,Logan 16,President,,Hillary Clinton,DEM,51
+Cass,Washington CY,President,,Hillary Clinton,DEM,0
+Cass,Fed,President,,Hillary Clinton,DEM,1
+Cass,Total,President,,Hillary Clinton,DEM,3759
+Cass,Adams,President,,Gary Johnson,LBT,22
+Cass,Bethlehem,President,,Gary Johnson,LBT,15
+Cass,Boone,President,,Gary Johnson,LBT,28
+Cass,Clay 1,President,,Gary Johnson,LBT,19
+Cass,Clay 2,President,,Gary Johnson,LBT,14
+Cass,Clay 3,President,,Gary Johnson,LBT,9
+Cass,Clay City,President,,Gary Johnson,LBT,4
+Cass,Clinton,President,,Gary Johnson,LBT,8
+Cass,Deer Creek,President,,Gary Johnson,LBT,13
+Cass,Eel E,President,,Gary Johnson,LBT,8
+Cass,Eel W,President,,Gary Johnson,LBT,6
+Cass,Galveston,President,,Gary Johnson,LBT,26
+Cass,Harrison,President,,Gary Johnson,LBT,14
+Cass,Jackson,President,,Gary Johnson,LBT,39
+Cass,Jefferson,President,,Gary Johnson,LBT,33
+Cass,Miami,President,,Gary Johnson,LBT,27
+Cass,Noble City,President,,Gary Johnson,LBT,3
+Cass,Noble North,President,,Gary Johnson,LBT,30
+Cass,Noble South,President,,Gary Johnson,LBT,14
+Cass,Tipton 1,President,,Gary Johnson,LBT,27
+Cass,Tipton 2,President,,Gary Johnson,LBT,30
+Cass,Washington,President,,Gary Johnson,LBT,17
+Cass,Logan 01,President,,Gary Johnson,LBT,15
+Cass,Logan 02,President,,Gary Johnson,LBT,20
+Cass,Logan 03,President,,Gary Johnson,LBT,6
+Cass,Logan 04,President,,Gary Johnson,LBT,31
+Cass,Logan 05,President,,Gary Johnson,LBT,14
+Cass,Logan 06,President,,Gary Johnson,LBT,20
+Cass,Logan 07,President,,Gary Johnson,LBT,5
+Cass,Logan 08,President,,Gary Johnson,LBT,11
+Cass,Logan 09,President,,Gary Johnson,LBT,19
+Cass,Logan 10,President,,Gary Johnson,LBT,21
+Cass,Logan 11,President,,Gary Johnson,LBT,25
+Cass,Logan 12,President,,Gary Johnson,LBT,18
+Cass,Logan 13,President,,Gary Johnson,LBT,19
+Cass,Logan 14,President,,Gary Johnson,LBT,17
+Cass,Logan 15,President,,Gary Johnson,LBT,29
+Cass,Logan 16,President,,Gary Johnson,LBT,4
+Cass,Washington CY,President,,Gary Johnson,LBT,0
+Cass,Fed,President,,Gary Johnson,LBT,0
+Cass,Total,President,,Gary Johnson,LBT,680
+Cass,Adams,President,,Write-ins,,1
+Cass,Bethlehem,President,,Write-ins,,0
+Cass,Boone,President,,Write-ins,,0
+Cass,Clay 1,President,,Write-ins,,2
+Cass,Clay 2,President,,Write-ins,,3
+Cass,Clay 3,President,,Write-ins,,3
+Cass,Clay City,President,,Write-ins,,0
+Cass,Clinton,President,,Write-ins,,0
+Cass,Deer Creek,President,,Write-ins,,0
+Cass,Eel E,President,,Write-ins,,0
+Cass,Eel W,President,,Write-ins,,1
+Cass,Galveston,President,,Write-ins,,3
+Cass,Harrison,President,,Write-ins,,0
+Cass,Jackson,President,,Write-ins,,3
+Cass,Jefferson,President,,Write-ins,,6
+Cass,Miami,President,,Write-ins,,1
+Cass,Noble City,President,,Write-ins,,1
+Cass,Noble North,President,,Write-ins,,5
+Cass,Noble South,President,,Write-ins,,1
+Cass,Tipton 1,President,,Write-ins,,1
+Cass,Tipton 2,President,,Write-ins,,1
+Cass,Washington,President,,Write-ins,,1
+Cass,Logan 01,President,,Write-ins,,1
+Cass,Logan 02,President,,Write-ins,,1
+Cass,Logan 03,President,,Write-ins,,0
+Cass,Logan 04,President,,Write-ins,,7
+Cass,Logan 05,President,,Write-ins,,2
+Cass,Logan 06,President,,Write-ins,,4
+Cass,Logan 07,President,,Write-ins,,1
+Cass,Logan 08,President,,Write-ins,,0
+Cass,Logan 09,President,,Write-ins,,3
+Cass,Logan 10,President,,Write-ins,,5
+Cass,Logan 11,President,,Write-ins,,1
+Cass,Logan 12,President,,Write-ins,,4
+Cass,Logan 13,President,,Write-ins,,2
+Cass,Logan 14,President,,Write-ins,,2
+Cass,Logan 15,President,,Write-ins,,1
+Cass,Logan 16,President,,Write-ins,,2
+Cass,Washington CY,President,,Write-ins,,0
+Cass,Fed,President,,Write-ins,,0
+Cass,Total,President,,Write-ins,,69
+Cass,Adams,U.S. Senate,,Todd Young,REP,259
+Cass,Bethlehem,U.S. Senate,,Todd Young,REP,224
+Cass,Boone,U.S. Senate,,Todd Young,REP,410
+Cass,Clay 1,U.S. Senate,,Todd Young,REP,388
+Cass,Clay 2,U.S. Senate,,Todd Young,REP,198
+Cass,Clay 3,U.S. Senate,,Todd Young,REP,225
+Cass,Clay City,U.S. Senate,,Todd Young,REP,35
+Cass,Clinton,U.S. Senate,,Todd Young,REP,155
+Cass,Deer Creek,U.S. Senate,,Todd Young,REP,244
+Cass,Eel E,U.S. Senate,,Todd Young,REP,206
+Cass,Eel W,U.S. Senate,,Todd Young,REP,77
+Cass,Galveston,U.S. Senate,,Todd Young,REP,338
+Cass,Harrison,U.S. Senate,,Todd Young,REP,263
+Cass,Jackson,U.S. Senate,,Todd Young,REP,524
+Cass,Jefferson,U.S. Senate,,Todd Young,REP,397
+Cass,Miami,U.S. Senate,,Todd Young,REP,414
+Cass,Noble City,U.S. Senate,,Todd Young,REP,65
+Cass,Noble North,U.S. Senate,,Todd Young,REP,340
+Cass,Noble South,U.S. Senate,,Todd Young,REP,111
+Cass,Tipton 1,U.S. Senate,,Todd Young,REP,395
+Cass,Tipton 2,U.S. Senate,,Todd Young,REP,327
+Cass,Washington,U.S. Senate,,Todd Young,REP,343
+Cass,Logan 01,U.S. Senate,,Todd Young,REP,134
+Cass,Logan 02,U.S. Senate,,Todd Young,REP,129
+Cass,Logan 03,U.S. Senate,,Todd Young,REP,49
+Cass,Logan 04,U.S. Senate,,Todd Young,REP,195
+Cass,Logan 05,U.S. Senate,,Todd Young,REP,146
+Cass,Logan 06,U.S. Senate,,Todd Young,REP,183
+Cass,Logan 07,U.S. Senate,,Todd Young,REP,51
+Cass,Logan 08,U.S. Senate,,Todd Young,REP,105
+Cass,Logan 09,U.S. Senate,,Todd Young,REP,102
+Cass,Logan 10,U.S. Senate,,Todd Young,REP,174
+Cass,Logan 11,U.S. Senate,,Todd Young,REP,296
+Cass,Logan 12,U.S. Senate,,Todd Young,REP,205
+Cass,Logan 13,U.S. Senate,,Todd Young,REP,77
+Cass,Logan 14,U.S. Senate,,Todd Young,REP,239
+Cass,Logan 15,U.S. Senate,,Todd Young,REP,225
+Cass,Logan 16,U.S. Senate,,Todd Young,REP,54
+Cass,Washington CY,U.S. Senate,,Todd Young,REP,4
+Cass,Total,U.S. Senate,,Todd Young,REP,8306
+Cass,Adams,U.S. Senate,,Evan Bayh,DEM,93
+Cass,Bethlehem,U.S. Senate,,Evan Bayh,DEM,95
+Cass,Boone,U.S. Senate,,Evan Bayh,DEM,151
+Cass,Clay 1,U.S. Senate,,Evan Bayh,DEM,174
+Cass,Clay 2,U.S. Senate,,Evan Bayh,DEM,104
+Cass,Clay 3,U.S. Senate,,Evan Bayh,DEM,101
+Cass,Clay City,U.S. Senate,,Evan Bayh,DEM,43
+Cass,Clinton,U.S. Senate,,Evan Bayh,DEM,78
+Cass,Deer Creek,U.S. Senate,,Evan Bayh,DEM,118
+Cass,Eel E,U.S. Senate,,Evan Bayh,DEM,68
+Cass,Eel W,U.S. Senate,,Evan Bayh,DEM,39
+Cass,Galveston,U.S. Senate,,Evan Bayh,DEM,209
+Cass,Harrison,U.S. Senate,,Evan Bayh,DEM,101
+Cass,Jackson,U.S. Senate,,Evan Bayh,DEM,232
+Cass,Jefferson,U.S. Senate,,Evan Bayh,DEM,179
+Cass,Miami,U.S. Senate,,Evan Bayh,DEM,196
+Cass,Noble City,U.S. Senate,,Evan Bayh,DEM,30
+Cass,Noble North,U.S. Senate,,Evan Bayh,DEM,147
+Cass,Noble South,U.S. Senate,,Evan Bayh,DEM,93
+Cass,Tipton 1,U.S. Senate,,Evan Bayh,DEM,176
+Cass,Tipton 2,U.S. Senate,,Evan Bayh,DEM,166
+Cass,Washington,U.S. Senate,,Evan Bayh,DEM,216
+Cass,Logan 01,U.S. Senate,,Evan Bayh,DEM,126
+Cass,Logan 02,U.S. Senate,,Evan Bayh,DEM,100
+Cass,Logan 03,U.S. Senate,,Evan Bayh,DEM,50
+Cass,Logan 04,U.S. Senate,,Evan Bayh,DEM,172
+Cass,Logan 05,U.S. Senate,,Evan Bayh,DEM,142
+Cass,Logan 06,U.S. Senate,,Evan Bayh,DEM,124
+Cass,Logan 07,U.S. Senate,,Evan Bayh,DEM,65
+Cass,Logan 08,U.S. Senate,,Evan Bayh,DEM,117
+Cass,Logan 09,U.S. Senate,,Evan Bayh,DEM,118
+Cass,Logan 10,U.S. Senate,,Evan Bayh,DEM,161
+Cass,Logan 11,U.S. Senate,,Evan Bayh,DEM,212
+Cass,Logan 12,U.S. Senate,,Evan Bayh,DEM,169
+Cass,Logan 13,U.S. Senate,,Evan Bayh,DEM,99
+Cass,Logan 14,U.S. Senate,,Evan Bayh,DEM,198
+Cass,Logan 15,U.S. Senate,,Evan Bayh,DEM,214
+Cass,Logan 16,U.S. Senate,,Evan Bayh,DEM,51
+Cass,Washington CY,U.S. Senate,,Evan Bayh,DEM,0
+Cass,Total,U.S. Senate,,Evan Bayh,DEM,4927
+Cass,Adams,U.S. Senate,,Lucy Brenton,LBT,32
+Cass,Bethlehem,U.S. Senate,,Lucy Brenton,LBT,27
+Cass,Boone,U.S. Senate,,Lucy Brenton,LBT,34
+Cass,Clay 1,U.S. Senate,,Lucy Brenton,LBT,32
+Cass,Clay 2,U.S. Senate,,Lucy Brenton,LBT,20
+Cass,Clay 3,U.S. Senate,,Lucy Brenton,LBT,19
+Cass,Clay City,U.S. Senate,,Lucy Brenton,LBT,8
+Cass,Clinton,U.S. Senate,,Lucy Brenton,LBT,14
+Cass,Deer Creek,U.S. Senate,,Lucy Brenton,LBT,39
+Cass,Eel E,U.S. Senate,,Lucy Brenton,LBT,16
+Cass,Eel W,U.S. Senate,,Lucy Brenton,LBT,7
+Cass,Galveston,U.S. Senate,,Lucy Brenton,LBT,39
+Cass,Harrison,U.S. Senate,,Lucy Brenton,LBT,14
+Cass,Jackson,U.S. Senate,,Lucy Brenton,LBT,36
+Cass,Jefferson,U.S. Senate,,Lucy Brenton,LBT,49
+Cass,Miami,U.S. Senate,,Lucy Brenton,LBT,43
+Cass,Noble City,U.S. Senate,,Lucy Brenton,LBT,4
+Cass,Noble North,U.S. Senate,,Lucy Brenton,LBT,47
+Cass,Noble South,U.S. Senate,,Lucy Brenton,LBT,21
+Cass,Tipton 1,U.S. Senate,,Lucy Brenton,LBT,38
+Cass,Tipton 2,U.S. Senate,,Lucy Brenton,LBT,36
+Cass,Washington,U.S. Senate,,Lucy Brenton,LBT,43
+Cass,Logan 01,U.S. Senate,,Lucy Brenton,LBT,20
+Cass,Logan 02,U.S. Senate,,Lucy Brenton,LBT,29
+Cass,Logan 03,U.S. Senate,,Lucy Brenton,LBT,9
+Cass,Logan 04,U.S. Senate,,Lucy Brenton,LBT,59
+Cass,Logan 05,U.S. Senate,,Lucy Brenton,LBT,23
+Cass,Logan 06,U.S. Senate,,Lucy Brenton,LBT,26
+Cass,Logan 07,U.S. Senate,,Lucy Brenton,LBT,10
+Cass,Logan 08,U.S. Senate,,Lucy Brenton,LBT,18
+Cass,Logan 09,U.S. Senate,,Lucy Brenton,LBT,28
+Cass,Logan 10,U.S. Senate,,Lucy Brenton,LBT,25
+Cass,Logan 11,U.S. Senate,,Lucy Brenton,LBT,32
+Cass,Logan 12,U.S. Senate,,Lucy Brenton,LBT,41
+Cass,Logan 13,U.S. Senate,,Lucy Brenton,LBT,21
+Cass,Logan 14,U.S. Senate,,Lucy Brenton,LBT,19
+Cass,Logan 15,U.S. Senate,,Lucy Brenton,LBT,29
+Cass,Logan 16,U.S. Senate,,Lucy Brenton,LBT,6
+Cass,Washington CY,U.S. Senate,,Lucy Brenton,LBT,0
+Cass,Total,U.S. Senate,,Lucy Brenton,LBT,1013
+Cass,Adams,Governor,,Eric Holcomb,REP,266
+Cass,Bethlehem,Governor,,Eric Holcomb,REP,219
+Cass,Boone,Governor,,Eric Holcomb,REP,369
+Cass,Clay 1,Governor,,Eric Holcomb,REP,380
+Cass,Clay 2,Governor,,Eric Holcomb,REP,184
+Cass,Clay 3,Governor,,Eric Holcomb,REP,222
+Cass,Clay City,Governor,,Eric Holcomb,REP,43
+Cass,Clinton,Governor,,Eric Holcomb,REP,147
+Cass,Deer Creek,Governor,,Eric Holcomb,REP,239
+Cass,Eel E,Governor,,Eric Holcomb,REP,198
+Cass,Eel W,Governor,,Eric Holcomb,REP,78
+Cass,Galveston,Governor,,Eric Holcomb,REP,321
+Cass,Harrison,Governor,,Eric Holcomb,REP,246
+Cass,Jackson,Governor,,Eric Holcomb,REP,492
+Cass,Jefferson,Governor,,Eric Holcomb,REP,374
+Cass,Miami,Governor,,Eric Holcomb,REP,399
+Cass,Noble City,Governor,,Eric Holcomb,REP,58
+Cass,Noble North,Governor,,Eric Holcomb,REP,318
+Cass,Noble South,Governor,,Eric Holcomb,REP,121
+Cass,Tipton 1,Governor,,Eric Holcomb,REP,370
+Cass,Tipton 2,Governor,,Eric Holcomb,REP,312
+Cass,Washington,Governor,,Eric Holcomb,REP,343
+Cass,Logan 01,Governor,,Eric Holcomb,REP,135
+Cass,Logan 02,Governor,,Eric Holcomb,REP,132
+Cass,Logan 03,Governor,,Eric Holcomb,REP,47
+Cass,Logan 04,Governor,,Eric Holcomb,REP,200
+Cass,Logan 05,Governor,,Eric Holcomb,REP,155
+Cass,Logan 06,Governor,,Eric Holcomb,REP,179
+Cass,Logan 07,Governor,,Eric Holcomb,REP,50
+Cass,Logan 08,Governor,,Eric Holcomb,REP,94
+Cass,Logan 09,Governor,,Eric Holcomb,REP,108
+Cass,Logan 10,Governor,,Eric Holcomb,REP,177
+Cass,Logan 11,Governor,,Eric Holcomb,REP,293
+Cass,Logan 12,Governor,,Eric Holcomb,REP,208
+Cass,Logan 13,Governor,,Eric Holcomb,REP,78
+Cass,Logan 14,Governor,,Eric Holcomb,REP,219
+Cass,Logan 15,Governor,,Eric Holcomb,REP,236
+Cass,Logan 16,Governor,,Eric Holcomb,REP,45
+Cass,Washington CY,Governor,,Eric Holcomb,REP,4
+Cass,Total,Governor,,Eric Holcomb,REP,8059
+Cass,Adams,Governor,,John Gregg,DEM,107
+Cass,Bethlehem,Governor,,John Gregg,DEM,116
+Cass,Boone,Governor,,John Gregg,DEM,209
+Cass,Clay 1,Governor,,John Gregg,DEM,202
+Cass,Clay 2,Governor,,John Gregg,DEM,129
+Cass,Clay 3,Governor,,John Gregg,DEM,113
+Cass,Clay City,Governor,,John Gregg,DEM,41
+Cass,Clinton,Governor,,John Gregg,DEM,88
+Cass,Deer Creek,Governor,,John Gregg,DEM,151
+Cass,Eel E,Governor,,John Gregg,DEM,83
+Cass,Eel W,Governor,,John Gregg,DEM,40
+Cass,Galveston,Governor,,John Gregg,DEM,237
+Cass,Harrison,Governor,,John Gregg,DEM,121
+Cass,Jackson,Governor,,John Gregg,DEM,280
+Cass,Jefferson,Governor,,John Gregg,DEM,227
+Cass,Miami,Governor,,John Gregg,DEM,234
+Cass,Noble City,Governor,,John Gregg,DEM,39
+Cass,Noble North,Governor,,John Gregg,DEM,184
+Cass,Noble South,Governor,,John Gregg,DEM,90
+Cass,Tipton 1,Governor,,John Gregg,DEM,215
+Cass,Tipton 2,Governor,,John Gregg,DEM,202
+Cass,Washington,Governor,,John Gregg,DEM,244
+Cass,Logan 01,Governor,,John Gregg,DEM,134
+Cass,Logan 02,Governor,,John Gregg,DEM,118
+Cass,Logan 03,Governor,,John Gregg,DEM,51
+Cass,Logan 04,Governor,,John Gregg,DEM,194
+Cass,Logan 05,Governor,,John Gregg,DEM,141
+Cass,Logan 06,Governor,,John Gregg,DEM,143
+Cass,Logan 07,Governor,,John Gregg,DEM,66
+Cass,Logan 08,Governor,,John Gregg,DEM,135
+Cass,Logan 09,Governor,,John Gregg,DEM,131
+Cass,Logan 10,Governor,,John Gregg,DEM,170
+Cass,Logan 11,Governor,,John Gregg,DEM,229
+Cass,Logan 12,Governor,,John Gregg,DEM,189
+Cass,Logan 13,Governor,,John Gregg,DEM,105
+Cass,Logan 14,Governor,,John Gregg,DEM,228
+Cass,Logan 15,Governor,,John Gregg,DEM,218
+Cass,Logan 16,Governor,,John Gregg,DEM,58
+Cass,Washington CY,Governor,,John Gregg,DEM,0
+Cass,Total,Governor,,John Gregg,DEM,5662
+Cass,Adams,Governor,,Rex Bell,LBT,14
+Cass,Bethlehem,Governor,,Rex Bell,LBT,12
+Cass,Boone,Governor,,Rex Bell,LBT,19
+Cass,Clay 1,Governor,,Rex Bell,LBT,11
+Cass,Clay 2,Governor,,Rex Bell,LBT,10
+Cass,Clay 3,Governor,,Rex Bell,LBT,9
+Cass,Clay City,Governor,,Rex Bell,LBT,2
+Cass,Clinton,Governor,,Rex Bell,LBT,8
+Cass,Deer Creek,Governor,,Rex Bell,LBT,13
+Cass,Eel E,Governor,,Rex Bell,LBT,8
+Cass,Eel W,Governor,,Rex Bell,LBT,6
+Cass,Galveston,Governor,,Rex Bell,LBT,21
+Cass,Harrison,Governor,,Rex Bell,LBT,10
+Cass,Jackson,Governor,,Rex Bell,LBT,22
+Cass,Jefferson,Governor,,Rex Bell,LBT,22
+Cass,Miami,Governor,,Rex Bell,LBT,22
+Cass,Noble City,Governor,,Rex Bell,LBT,3
+Cass,Noble North,Governor,,Rex Bell,LBT,26
+Cass,Noble South,Governor,,Rex Bell,LBT,11
+Cass,Tipton 1,Governor,,Rex Bell,LBT,22
+Cass,Tipton 2,Governor,,Rex Bell,LBT,15
+Cass,Washington,Governor,,Rex Bell,LBT,17
+Cass,Logan 01,Governor,,Rex Bell,LBT,9
+Cass,Logan 02,Governor,,Rex Bell,LBT,13
+Cass,Logan 03,Governor,,Rex Bell,LBT,9
+Cass,Logan 04,Governor,,Rex Bell,LBT,26
+Cass,Logan 05,Governor,,Rex Bell,LBT,14
+Cass,Logan 06,Governor,,Rex Bell,LBT,13
+Cass,Logan 07,Governor,,Rex Bell,LBT,10
+Cass,Logan 08,Governor,,Rex Bell,LBT,11
+Cass,Logan 09,Governor,,Rex Bell,LBT,11
+Cass,Logan 10,Governor,,Rex Bell,LBT,16
+Cass,Logan 11,Governor,,Rex Bell,LBT,10
+Cass,Logan 12,Governor,,Rex Bell,LBT,20
+Cass,Logan 13,Governor,,Rex Bell,LBT,13
+Cass,Logan 14,Governor,,Rex Bell,LBT,13
+Cass,Logan 15,Governor,,Rex Bell,LBT,12
+Cass,Logan 16,Governor,,Rex Bell,LBT,8
+Cass,Washington CY,Governor,,Rex Bell,LBT,0
+Cass,Total,Governor,,Rex Bell,LBT,511
+Cass,Adams,Attorney General,,Curtis Hill,REP,313
+Cass,Bethlehem,Attorney General,,Curtis Hill,REP,284
+Cass,Boone,Attorney General,,Curtis Hill,REP,471
+Cass,Clay 1,Attorney General,,Curtis Hill,REP,451
+Cass,Clay 2,Attorney General,,Curtis Hill,REP,233
+Cass,Clay 3,Attorney General,,Curtis Hill,REP,261
+Cass,Clay City,Attorney General,,Curtis Hill,REP,50
+Cass,Clinton,Attorney General,,Curtis Hill,REP,176
+Cass,Deer Creek,Attorney General,,Curtis Hill,REP,313
+Cass,Eel E,Attorney General,,Curtis Hill,REP,234
+Cass,Eel W,Attorney General,,Curtis Hill,REP,92
+Cass,Galveston,Attorney General,,Curtis Hill,REP,416
+Cass,Harrison,Attorney General,,Curtis Hill,REP,312
+Cass,Jackson,Attorney General,,Curtis Hill,REP,592
+Cass,Jefferson,Attorney General,,Curtis Hill,REP,470
+Cass,Miami,Attorney General,,Curtis Hill,REP,495
+Cass,Noble City,Attorney General,,Curtis Hill,REP,73
+Cass,Noble North,Attorney General,,Curtis Hill,REP,390
+Cass,Noble South,Attorney General,,Curtis Hill,REP,147
+Cass,Tipton 1,Attorney General,,Curtis Hill,REP,463
+Cass,Tipton 2,Attorney General,,Curtis Hill,REP,384
+Cass,Washington,Attorney General,,Curtis Hill,REP,432
+Cass,Logan 01,Attorney General,,Curtis Hill,REP,164
+Cass,Logan 02,Attorney General,,Curtis Hill,REP,166
+Cass,Logan 03,Attorney General,,Curtis Hill,REP,60
+Cass,Logan 04,Attorney General,,Curtis Hill,REP,264
+Cass,Logan 05,Attorney General,,Curtis Hill,REP,187
+Cass,Logan 06,Attorney General,,Curtis Hill,REP,218
+Cass,Logan 07,Attorney General,,Curtis Hill,REP,69
+Cass,Logan 08,Attorney General,,Curtis Hill,REP,129
+Cass,Logan 09,Attorney General,,Curtis Hill,REP,143
+Cass,Logan 10,Attorney General,,Curtis Hill,REP,216
+Cass,Logan 11,Attorney General,,Curtis Hill,REP,366
+Cass,Logan 12,Attorney General,,Curtis Hill,REP,272
+Cass,Logan 13,Attorney General,,Curtis Hill,REP,105
+Cass,Logan 14,Attorney General,,Curtis Hill,REP,276
+Cass,Logan 15,Attorney General,,Curtis Hill,REP,299
+Cass,Logan 16,Attorney General,,Curtis Hill,REP,60
+Cass,Washington CY,Attorney General,,Curtis Hill,REP,3
+Cass,Total,Attorney General,,Curtis Hill,REP,10049
+Cass,Adams,Attorney General,,Lorenzo Arredondo,DEM,67
+Cass,Bethlehem,Attorney General,,Lorenzo Arredondo,DEM,56
+Cass,Boone,Attorney General,,Lorenzo Arredondo,DEM,108
+Cass,Clay 1,Attorney General,,Lorenzo Arredondo,DEM,132
+Cass,Clay 2,Attorney General,,Lorenzo Arredondo,DEM,78
+Cass,Clay 3,Attorney General,,Lorenzo Arredondo,DEM,76
+Cass,Clay City,Attorney General,,Lorenzo Arredondo,DEM,34
+Cass,Clinton,Attorney General,,Lorenzo Arredondo,DEM,68
+Cass,Deer Creek,Attorney General,,Lorenzo Arredondo,DEM,77
+Cass,Eel E,Attorney General,,Lorenzo Arredondo,DEM,48
+Cass,Eel W,Attorney General,,Lorenzo Arredondo,DEM,31
+Cass,Galveston,Attorney General,,Lorenzo Arredondo,DEM,157
+Cass,Harrison,Attorney General,,Lorenzo Arredondo,DEM,57
+Cass,Jackson,Attorney General,,Lorenzo Arredondo,DEM,177
+Cass,Jefferson,Attorney General,,Lorenzo Arredondo,DEM,131
+Cass,Miami,Attorney General,,Lorenzo Arredondo,DEM,145
+Cass,Noble City,Attorney General,,Lorenzo Arredondo,DEM,26
+Cass,Noble North,Attorney General,,Lorenzo Arredondo,DEM,112
+Cass,Noble South,Attorney General,,Lorenzo Arredondo,DEM,70
+Cass,Tipton 1,Attorney General,,Lorenzo Arredondo,DEM,130
+Cass,Tipton 2,Attorney General,,Lorenzo Arredondo,DEM,137
+Cass,Washington,Attorney General,,Lorenzo Arredondo,DEM,159
+Cass,Logan 01,Attorney General,,Lorenzo Arredondo,DEM,112
+Cass,Logan 02,Attorney General,,Lorenzo Arredondo,DEM,85
+Cass,Logan 03,Attorney General,,Lorenzo Arredondo,DEM,47
+Cass,Logan 04,Attorney General,,Lorenzo Arredondo,DEM,149
+Cass,Logan 05,Attorney General,,Lorenzo Arredondo,DEM,118
+Cass,Logan 06,Attorney General,,Lorenzo Arredondo,DEM,111
+Cass,Logan 07,Attorney General,,Lorenzo Arredondo,DEM,54
+Cass,Logan 08,Attorney General,,Lorenzo Arredondo,DEM,101
+Cass,Logan 09,Attorney General,,Lorenzo Arredondo,DEM,103
+Cass,Logan 10,Attorney General,,Lorenzo Arredondo,DEM,145
+Cass,Logan 11,Attorney General,,Lorenzo Arredondo,DEM,149
+Cass,Logan 12,Attorney General,,Lorenzo Arredondo,DEM,132
+Cass,Logan 13,Attorney General,,Lorenzo Arredondo,DEM,88
+Cass,Logan 14,Attorney General,,Lorenzo Arredondo,DEM,163
+Cass,Logan 15,Attorney General,,Lorenzo Arredondo,DEM,156
+Cass,Logan 16,Attorney General,,Lorenzo Arredondo,DEM,49
+Cass,Washington CY,Attorney General,,Lorenzo Arredondo,DEM,0
+Cass,Total,Attorney General,,Lorenzo Arredondo,DEM,3838
+Cass,Adams,Public Instruction,,Jennifer McCormick,REP,250
+Cass,Bethlehem,Public Instruction,,Jennifer McCormick,REP,224
+Cass,Boone,Public Instruction,,Jennifer McCormick,REP,383
+Cass,Clay 1,Public Instruction,,Jennifer McCormick,REP,357
+Cass,Clay 2,Public Instruction,,Jennifer McCormick,REP,162
+Cass,Clay 3,Public Instruction,,Jennifer McCormick,REP,207
+Cass,Clay City,Public Instruction,,Jennifer McCormick,REP,51
+Cass,Clinton,Public Instruction,,Jennifer McCormick,REP,153
+Cass,Deer Creek,Public Instruction,,Jennifer McCormick,REP,227
+Cass,Eel E,Public Instruction,,Jennifer McCormick,REP,178
+Cass,Eel W,Public Instruction,,Jennifer McCormick,REP,84
+Cass,Galveston,Public Instruction,,Jennifer McCormick,REP,317
+Cass,Harrison,Public Instruction,,Jennifer McCormick,REP,233
+Cass,Jackson,Public Instruction,,Jennifer McCormick,REP,496
+Cass,Jefferson,Public Instruction,,Jennifer McCormick,REP,386
+Cass,Miami,Public Instruction,,Jennifer McCormick,REP,389
+Cass,Noble City,Public Instruction,,Jennifer McCormick,REP,55
+Cass,Noble North,Public Instruction,,Jennifer McCormick,REP,301
+Cass,Noble South,Public Instruction,,Jennifer McCormick,REP,118
+Cass,Tipton 1,Public Instruction,,Jennifer McCormick,REP,368
+Cass,Tipton 2,Public Instruction,,Jennifer McCormick,REP,313
+Cass,Washington,Public Instruction,,Jennifer McCormick,REP,341
+Cass,Logan 01,Public Instruction,,Jennifer McCormick,REP,143
+Cass,Logan 02,Public Instruction,,Jennifer McCormick,REP,134
+Cass,Logan 03,Public Instruction,,Jennifer McCormick,REP,58
+Cass,Logan 04,Public Instruction,,Jennifer McCormick,REP,206
+Cass,Logan 05,Public Instruction,,Jennifer McCormick,REP,146
+Cass,Logan 06,Public Instruction,,Jennifer McCormick,REP,184
+Cass,Logan 07,Public Instruction,,Jennifer McCormick,REP,56
+Cass,Logan 08,Public Instruction,,Jennifer McCormick,REP,107
+Cass,Logan 09,Public Instruction,,Jennifer McCormick,REP,114
+Cass,Logan 10,Public Instruction,,Jennifer McCormick,REP,169
+Cass,Logan 11,Public Instruction,,Jennifer McCormick,REP,272
+Cass,Logan 12,Public Instruction,,Jennifer McCormick,REP,213
+Cass,Logan 13,Public Instruction,,Jennifer McCormick,REP,84
+Cass,Logan 14,Public Instruction,,Jennifer McCormick,REP,210
+Cass,Logan 15,Public Instruction,,Jennifer McCormick,REP,232
+Cass,Logan 16,Public Instruction,,Jennifer McCormick,REP,54
+Cass,Washington CY,Public Instruction,,Jennifer McCormick,REP,1
+Cass,Total,Public Instruction,,Jennifer McCormick,REP,7976
+Cass,Adams,Public Instruction,,Glenda Ritz,DEM,136
+Cass,Bethlehem,Public Instruction,,Glenda Ritz,DEM,120
+Cass,Boone,Public Instruction,,Glenda Ritz,DEM,204
+Cass,Clay 1,Public Instruction,,Glenda Ritz,DEM,231
+Cass,Clay 2,Public Instruction,,Glenda Ritz,DEM,157
+Cass,Clay 3,Public Instruction,,Glenda Ritz,DEM,133
+Cass,Clay City,Public Instruction,,Glenda Ritz,DEM,37
+Cass,Clinton,Public Instruction,,Glenda Ritz,DEM,89
+Cass,Deer Creek,Public Instruction,,Glenda Ritz,DEM,170
+Cass,Eel E,Public Instruction,,Glenda Ritz,DEM,108
+Cass,Eel W,Public Instruction,,Glenda Ritz,DEM,39
+Cass,Galveston,Public Instruction,,Glenda Ritz,DEM,256
+Cass,Harrison,Public Instruction,,Glenda Ritz,DEM,139
+Cass,Jackson,Public Instruction,,Glenda Ritz,DEM,290
+Cass,Jefferson,Public Instruction,,Glenda Ritz,DEM,230
+Cass,Miami,Public Instruction,,Glenda Ritz,DEM,256
+Cass,Noble City,Public Instruction,,Glenda Ritz,DEM,44
+Cass,Noble North,Public Instruction,,Glenda Ritz,DEM,217
+Cass,Noble South,Public Instruction,,Glenda Ritz,DEM,102
+Cass,Tipton 1,Public Instruction,,Glenda Ritz,DEM,233
+Cass,Tipton 2,Public Instruction,,Glenda Ritz,DEM,213
+Cass,Washington,Public Instruction,,Glenda Ritz,DEM,256
+Cass,Logan 01,Public Instruction,,Glenda Ritz,DEM,138
+Cass,Logan 02,Public Instruction,,Glenda Ritz,DEM,122
+Cass,Logan 03,Public Instruction,,Glenda Ritz,DEM,49
+Cass,Logan 04,Public Instruction,,Glenda Ritz,DEM,209
+Cass,Logan 05,Public Instruction,,Glenda Ritz,DEM,164
+Cass,Logan 06,Public Instruction,,Glenda Ritz,DEM,145
+Cass,Logan 07,Public Instruction,,Glenda Ritz,DEM,66
+Cass,Logan 08,Public Instruction,,Glenda Ritz,DEM,129
+Cass,Logan 09,Public Instruction,,Glenda Ritz,DEM,129
+Cass,Logan 10,Public Instruction,,Glenda Ritz,DEM,189
+Cass,Logan 11,Public Instruction,,Glenda Ritz,DEM,264
+Cass,Logan 12,Public Instruction,,Glenda Ritz,DEM,201
+Cass,Logan 13,Public Instruction,,Glenda Ritz,DEM,108
+Cass,Logan 14,Public Instruction,,Glenda Ritz,DEM,239
+Cass,Logan 15,Public Instruction,,Glenda Ritz,DEM,230
+Cass,Logan 16,Public Instruction,,Glenda Ritz,DEM,54
+Cass,Washington CY,Public Instruction,,Glenda Ritz,DEM,2
+Cass,Total,Public Instruction,,Glenda Ritz,DEM,6098
+Cass,Adams,U.S. House,4,Todd Rokita,REP,297
+Cass,Bethlehem,U.S. House,4,Todd Rokita,REP,260
+Cass,Boone,U.S. House,4,Todd Rokita,REP,436
+Cass,Clay 1,U.S. House,4,Todd Rokita,REP,430
+Cass,Clay 2,U.S. House,4,Todd Rokita,REP,231
+Cass,Clay 3,U.S. House,4,Todd Rokita,REP,256
+Cass,Clay City,U.S. House,4,Todd Rokita,REP,46
+Cass,Clinton,U.S. House,4,Todd Rokita,REP,175
+Cass,Deer Creek,U.S. House,4,Todd Rokita,REP,271
+Cass,Eel E,U.S. House,4,Todd Rokita,REP,224
+Cass,Eel W,U.S. House,4,Todd Rokita,REP,85
+Cass,Galveston,U.S. House,4,Todd Rokita,REP,386
+Cass,Harrison,U.S. House,4,Todd Rokita,REP,293
+Cass,Jackson,U.S. House,4,Todd Rokita,REP,576
+Cass,Jefferson,U.S. House,4,Todd Rokita,REP,431
+Cass,Miami,U.S. House,4,Todd Rokita,REP,467
+Cass,Noble City,U.S. House,4,Todd Rokita,REP,64
+Cass,Noble North,U.S. House,4,Todd Rokita,REP,365
+Cass,Noble South,U.S. House,4,Todd Rokita,REP,141
+Cass,Tipton 1,U.S. House,4,Todd Rokita,REP,438
+Cass,Tipton 2,U.S. House,4,Todd Rokita,REP,364
+Cass,Washington,U.S. House,4,Todd Rokita,REP,409
+Cass,Logan 01,U.S. House,4,Todd Rokita,REP,148
+Cass,Logan 02,U.S. House,4,Todd Rokita,REP,148
+Cass,Logan 03,U.S. House,4,Todd Rokita,REP,56
+Cass,Logan 04,U.S. House,4,Todd Rokita,REP,219
+Cass,Logan 05,U.S. House,4,Todd Rokita,REP,176
+Cass,Logan 06,U.S. House,4,Todd Rokita,REP,204
+Cass,Logan 07,U.S. House,4,Todd Rokita,REP,62
+Cass,Logan 08,U.S. House,4,Todd Rokita,REP,117
+Cass,Logan 09,U.S. House,4,Todd Rokita,REP,124
+Cass,Logan 10,U.S. House,4,Todd Rokita,REP,201
+Cass,Logan 11,U.S. House,4,Todd Rokita,REP,354
+Cass,Logan 12,U.S. House,4,Todd Rokita,REP,258
+Cass,Logan 13,U.S. House,4,Todd Rokita,REP,79
+Cass,Logan 14,U.S. House,4,Todd Rokita,REP,260
+Cass,Logan 15,U.S. House,4,Todd Rokita,REP,298
+Cass,Logan 16,U.S. House,4,Todd Rokita,REP,51
+Cass,Washington CY,U.S. House,4,Todd Rokita,REP,3
+Cass,Total,U.S. House,4,Todd Rokita,REP,9403
+Cass,Adams,U.S. House,4,John Dale,DEM,68
+Cass,Bethlehem,U.S. House,4,John Dale,DEM,68
+Cass,Boone,U.S. House,4,John Dale,DEM,125
+Cass,Clay 1,U.S. House,4,John Dale,DEM,145
+Cass,Clay 2,U.S. House,4,John Dale,DEM,75
+Cass,Clay 3,U.S. House,4,John Dale,DEM,78
+Cass,Clay City,U.S. House,4,John Dale,DEM,36
+Cass,Clinton,U.S. House,4,John Dale,DEM,62
+Cass,Deer Creek,U.S. House,4,John Dale,DEM,95
+Cass,Eel E,U.S. House,4,John Dale,DEM,51
+Cass,Eel W,U.S. House,4,John Dale,DEM,32
+Cass,Galveston,U.S. House,4,John Dale,DEM,166
+Cass,Harrison,U.S. House,4,John Dale,DEM,63
+Cass,Jackson,U.S. House,4,John Dale,DEM,179
+Cass,Jefferson,U.S. House,4,John Dale,DEM,140
+Cass,Miami,U.S. House,4,John Dale,DEM,154
+Cass,Noble City,U.S. House,4,John Dale,DEM,31
+Cass,Noble North,U.S. House,4,John Dale,DEM,126
+Cass,Noble South,U.S. House,4,John Dale,DEM,66
+Cass,Tipton 1,U.S. House,4,John Dale,DEM,133
+Cass,Tipton 2,U.S. House,4,John Dale,DEM,139
+Cass,Washington,U.S. House,4,John Dale,DEM,163
+Cass,Logan 01,U.S. House,4,John Dale,DEM,115
+Cass,Logan 02,U.S. House,4,John Dale,DEM,94
+Cass,Logan 03,U.S. House,4,John Dale,DEM,45
+Cass,Logan 04,U.S. House,4,John Dale,DEM,164
+Cass,Logan 05,U.S. House,4,John Dale,DEM,114
+Cass,Logan 06,U.S. House,4,John Dale,DEM,108
+Cass,Logan 07,U.S. House,4,John Dale,DEM,50
+Cass,Logan 08,U.S. House,4,John Dale,DEM,102
+Cass,Logan 09,U.S. House,4,John Dale,DEM,103
+Cass,Logan 10,U.S. House,4,John Dale,DEM,142
+Cass,Logan 11,U.S. House,4,John Dale,DEM,153
+Cass,Logan 12,U.S. House,4,John Dale,DEM,129
+Cass,Logan 13,U.S. House,4,John Dale,DEM,96
+Cass,Logan 14,U.S. House,4,John Dale,DEM,179
+Cass,Logan 15,U.S. House,4,John Dale,DEM,145
+Cass,Logan 16,U.S. House,4,John Dale,DEM,53
+Cass,Washington CY,U.S. House,4,John Dale,DEM,0
+Cass,Total,U.S. House,4,John Dale,DEM,3987
+Cass,Adams,U.S. House,4,Steven Mayoras,LBT,19
+Cass,Bethlehem,U.S. House,4,Steven Mayoras,LBT,14
+Cass,Boone,U.S. House,4,Steven Mayoras,LBT,26
+Cass,Clay 1,U.S. House,4,Steven Mayoras,LBT,13
+Cass,Clay 2,U.S. House,4,Steven Mayoras,LBT,11
+Cass,Clay 3,U.S. House,4,Steven Mayoras,LBT,10
+Cass,Clay City,U.S. House,4,Steven Mayoras,LBT,5
+Cass,Clinton,U.S. House,4,Steven Mayoras,LBT,8
+Cass,Deer Creek,U.S. House,4,Steven Mayoras,LBT,23
+Cass,Eel E,U.S. House,4,Steven Mayoras,LBT,11
+Cass,Eel W,U.S. House,4,Steven Mayoras,LBT,6
+Cass,Galveston,U.S. House,4,Steven Mayoras,LBT,23
+Cass,Harrison,U.S. House,4,Steven Mayoras,LBT,12
+Cass,Jackson,U.S. House,4,Steven Mayoras,LBT,29
+Cass,Jefferson,U.S. House,4,Steven Mayoras,LBT,44
+Cass,Miami,U.S. House,4,Steven Mayoras,LBT,28
+Cass,Noble City,U.S. House,4,Steven Mayoras,LBT,6
+Cass,Noble North,U.S. House,4,Steven Mayoras,LBT,30
+Cass,Noble South,U.S. House,4,Steven Mayoras,LBT,14
+Cass,Tipton 1,U.S. House,4,Steven Mayoras,LBT,25
+Cass,Tipton 2,U.S. House,4,Steven Mayoras,LBT,22
+Cass,Washington,U.S. House,4,Steven Mayoras,LBT,18
+Cass,Logan 01,U.S. House,4,Steven Mayoras,LBT,13
+Cass,Logan 02,U.S. House,4,Steven Mayoras,LBT,16
+Cass,Logan 03,U.S. House,4,Steven Mayoras,LBT,6
+Cass,Logan 04,U.S. House,4,Steven Mayoras,LBT,36
+Cass,Logan 05,U.S. House,4,Steven Mayoras,LBT,16
+Cass,Logan 06,U.S. House,4,Steven Mayoras,LBT,21
+Cass,Logan 07,U.S. House,4,Steven Mayoras,LBT,11
+Cass,Logan 08,U.S. House,4,Steven Mayoras,LBT,16
+Cass,Logan 09,U.S. House,4,Steven Mayoras,LBT,19
+Cass,Logan 10,U.S. House,4,Steven Mayoras,LBT,22
+Cass,Logan 11,U.S. House,4,Steven Mayoras,LBT,21
+Cass,Logan 12,U.S. House,4,Steven Mayoras,LBT,20
+Cass,Logan 13,U.S. House,4,Steven Mayoras,LBT,22
+Cass,Logan 14,U.S. House,4,Steven Mayoras,LBT,13
+Cass,Logan 15,U.S. House,4,Steven Mayoras,LBT,19
+Cass,Logan 16,U.S. House,4,Steven Mayoras,LBT,5
+Cass,Washington CY,U.S. House,4,Steven Mayoras,LBT,0
+Cass,Total,U.S. House,4,Steven Mayoras,LBT,673
+Cass,Adams,State Senate,18,Randall Head,REP,340
+Cass,Bethlehem,State Senate,18,Randall Head,REP,301
+Cass,Boone,State Senate,18,Randall Head,REP,518
+Cass,Clay 1,State Senate,18,Randall Head,REP,494
+Cass,Clay 2,State Senate,18,Randall Head,REP,282
+Cass,Clay 3,State Senate,18,Randall Head,REP,282
+Cass,Clay City,State Senate,18,Randall Head,REP,61
+Cass,Clinton,State Senate,18,Randall Head,REP,201
+Cass,Deer Creek,State Senate,18,Randall Head,REP,346
+Cass,Eel E,State Senate,18,Randall Head,REP,250
+Cass,Eel W,State Senate,18,Randall Head,REP,103
+Cass,Galveston,State Senate,18,Randall Head,REP,461
+Cass,Harrison,State Senate,18,Randall Head,REP,324
+Cass,Jackson,State Senate,18,Randall Head,REP,668
+Cass,Jefferson,State Senate,18,Randall Head,REP,516
+Cass,Miami,State Senate,18,Randall Head,REP,548
+Cass,Noble City,State Senate,18,Randall Head,REP,80
+Cass,Noble North,State Senate,18,Randall Head,REP,447
+Cass,Noble South,State Senate,18,Randall Head,REP,165
+Cass,Tipton 1,State Senate,18,Randall Head,REP,512
+Cass,Tipton 2,State Senate,18,Randall Head,REP,446
+Cass,Washington,State Senate,18,Randall Head,REP,481
+Cass,Logan 01,State Senate,18,Randall Head,REP,210
+Cass,Logan 02,State Senate,18,Randall Head,REP,203
+Cass,Logan 03,State Senate,18,Randall Head,REP,82
+Cass,Logan 04,State Senate,18,Randall Head,REP,337
+Cass,Logan 05,State Senate,18,Randall Head,REP,226
+Cass,Logan 06,State Senate,18,Randall Head,REP,260
+Cass,Logan 07,State Senate,18,Randall Head,REP,85
+Cass,Logan 08,State Senate,18,Randall Head,REP,172
+Cass,Logan 09,State Senate,18,Randall Head,REP,172
+Cass,Logan 10,State Senate,18,Randall Head,REP,271
+Cass,Logan 11,State Senate,18,Randall Head,REP,441
+Cass,Logan 12,State Senate,18,Randall Head,REP,315
+Cass,Logan 13,State Senate,18,Randall Head,REP,137
+Cass,Logan 14,State Senate,18,Randall Head,REP,338
+Cass,Logan 15,State Senate,18,Randall Head,REP,357
+Cass,Logan 16,State Senate,18,Randall Head,REP,77
+Cass,Washington CY,State Senate,18,Randall Head,REP,4
+Cass,Total,State Senate,18,Randall Head,REP,11513
+Cass,Adams,State House,23,William Friend,REP,306
+Cass,Bethlehem,State House,23,William Friend,REP,275
+Cass,Boone,State House,25,Donald Lehe,REP,436
+Cass,Clay 1,State House,23,William Friend,REP,431
+Cass,Clay 2,State House,23,William Friend,REP,242
+Cass,Clay 3,State House,23,William Friend,REP,257
+Cass,Clay City,State House,23,William Friend,REP,46
+Cass,Clinton,State House,38,Heath Van Natter,REP,168
+Cass,Deer Creek,State House,38,Heath Van Natter,REP,272
+Cass,Eel E,State House,23,William Friend,REP,225
+Cass,Eel W,State House,23,William Friend,REP,88
+Cass,Galveston,State House,23,William Friend,REP,394
+Cass,Harrison,State House,25,Donald Lehe,REP,287
+Cass,Jackson,State House,23,William Friend,REP,565
+Cass,Jefferson,State House,25,Donald Lehe,REP,432
+Cass,Miami,State House,23,William Friend,REP,466
+Cass,Noble City,State House,23,William Friend,REP,71
+Cass,Noble North,State House,25,Donald Lehe,REP,358
+Cass,Noble South,State House,23,William Friend,REP,136
+Cass,Tipton 1,State House,38,Heath Van Natter,REP,415
+Cass,Tipton 2,State House,38,Heath Van Natter,REP,346
+Cass,Washington,State House,38,Heath Van Natter,REP,390
+Cass,Logan 01,State House,23,William Friend,REP,165
+Cass,Logan 02,State House,23,William Friend,REP,158
+Cass,Logan 03,State House,23,William Friend,REP,64
+Cass,Logan 04,State House,23,William Friend,REP,250
+Cass,Logan 05,State House,23,William Friend,REP,186
+Cass,Logan 06,State House,23,William Friend,REP,209
+Cass,Logan 07,State House,23,William Friend,REP,64
+Cass,Logan 08,State House,23,William Friend,REP,123
+Cass,Logan 09,State House,23,William Friend,REP,131
+Cass,Logan 10,State House,23,William Friend,REP,204
+Cass,Logan 11,State House,23,William Friend,REP,360
+Cass,Logan 12,State House,23,William Friend,REP,267
+Cass,Logan 13,State House,23,William Friend,REP,99
+Cass,Logan 14,State House,23,William Friend,REP,275
+Cass,Logan 15,State House,23,William Friend,REP,285
+Cass,Logan 16,State House,23,William Friend,REP,54
+Cass,Washington CY,State House,38,Heath Van Natter,REP,3
+Cass,Total,State House,23,William Friend,REP,6396
+Cass,Total,State House,25,Donald Lehe,REP,1513
+Cass,Total,State House,38,Heath Van Natter,REP,1594
+Cass,Adams,State House,23,Rose Ryan,DEM,77
+Cass,Bethlehem,State House,23,Rose Ryan,DEM,69
+Cass,Boone,State House,25,Maurice Fuller,DEM,115
+Cass,Clay 1,State House,23,Rose Ryan,DEM,151
+Cass,Clay 2,State House,23,Rose Ryan,DEM,75
+Cass,Clay 3,State House,23,Rose Ryan,DEM,82
+Cass,Clay City,State House,23,Rose Ryan,DEM,41
+Cass,Eel E,State House,23,Rose Ryan,DEM,58
+Cass,Eel W,State House,23,Rose Ryan,DEM,33
+Cass,Galveston,State House,23,Rose Ryan,DEM,178
+Cass,Harrison,State House,25,Maurice Fuller,DEM,69
+Cass,Jackson,State House,23,Rose Ryan,DEM,204
+Cass,Jefferson,State House,25,Maurice Fuller,DEM,129
+Cass,Miami,State House,23,Rose Ryan,DEM,174
+Cass,Noble City,State House,23,Rose Ryan,DEM,26
+Cass,Noble North,State House,25,Maurice Fuller,DEM,115
+Cass,Noble South,State House,23,Rose Ryan,DEM,80
+Cass,Logan 01,State House,23,Rose Ryan,DEM,115
+Cass,Logan 02,State House,23,Rose Ryan,DEM,98
+Cass,Logan 03,State House,23,Rose Ryan,DEM,43
+Cass,Logan 04,State House,23,Rose Ryan,DEM,162
+Cass,Logan 05,State House,23,Rose Ryan,DEM,118
+Cass,Logan 06,State House,23,Rose Ryan,DEM,122
+Cass,Logan 07,State House,23,Rose Ryan,DEM,59
+Cass,Logan 08,State House,23,Rose Ryan,DEM,114
+Cass,Logan 09,State House,23,Rose Ryan,DEM,115
+Cass,Logan 10,State House,23,Rose Ryan,DEM,156
+Cass,Logan 11,State House,23,Rose Ryan,DEM,166
+Cass,Logan 12,State House,23,Rose Ryan,DEM,137
+Cass,Logan 13,State House,23,Rose Ryan,DEM,97
+Cass,Logan 14,State House,23,Rose Ryan,DEM,173
+Cass,Logan 15,State House,23,Rose Ryan,DEM,170
+Cass,Logan 16,State House,23,Rose Ryan,DEM,52
+Cass,Total,State House,23,Rose Ryan,DEM,3145
+Cass,Total,State House,25,Maurice Fuller,DEM,428
+Cass,Boone,State House,25,Franklyn Voorhies,LBT,27
+Cass,Harrison,State House,25,Franklyn Voorhies,LBT,12
+Cass,Jefferson,State House,25,Franklyn Voorhies,LBT,48
+Cass,Noble North,State House,25,Franklyn Voorhies,LBT,39
+Cass,Total,State House,25,Franklyn Voorhies,LBT,126
+Cass,Clinton,State House,38,Jason Burns,IND,48
+Cass,Deer Creek,State House,38,Jason Burns,IND,101
+Cass,Tipton 1,State House,38,Jason Burns,IND,135
+Cass,Tipton 2,State House,38,Jason Burns,IND,133
+Cass,Washington,State House,38,Jason Burns,IND,143
+Cass,Washington CY,State House,38,Jason Burns,IND,1
+Cass,Total,State House,38,Jason Burns,IND,561

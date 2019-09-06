@@ -1,1 +1,397 @@
-﻿county,precinct,office,district,candidate,party,voteLagrange,Bloomfield  I,President,,Donald Trump,REP,378Lagrange,Bloomfield  II,President,,Donald Trump,REP,251Lagrange,Bloomfield  III,President,,Donald Trump,REP,238Lagrange,Bloomfield  IV,President,,Donald Trump,REP,387Lagrange,Clay,President,,Donald Trump,REP,393Lagrange,Clearspring,President,,Donald Trump,REP,414Lagrange,Eden,President,,Donald Trump,REP,257Lagrange,Greenfield,President,,Donald Trump,REP,397Lagrange,Johnson North,President,,Donald Trump,REP,456Lagrange,Johnson South,President,,Donald Trump,REP,616Lagrange,Lima,President,,Donald Trump,REP,623Lagrange,Milford  East,President,,Donald Trump,REP,606Lagrange,Milford  West,President,,Donald Trump,REP,334Lagrange,Newbury,President,,Donald Trump,REP,660Lagrange,Springfield,President,,Donald Trump,REP,357Lagrange,Van  Buren,President,,Donald Trump,REP,658Lagrange,,President,,Donald Trump,REP,7025Lagrange,Bloomfield  I,President,,Hillary Clinton,DEM,194Lagrange,Bloomfield  II,President,,Hillary Clinton,DEM,126Lagrange,Bloomfield  III,President,,Hillary Clinton,DEM,92Lagrange,Bloomfield  IV,President,,Hillary Clinton,DEM,105Lagrange,Clay,President,,Hillary Clinton,DEM,119Lagrange,Clearspring,President,,Hillary Clinton,DEM,99Lagrange,Eden,President,,Hillary Clinton,DEM,58Lagrange,Greenfield,President,,Hillary Clinton,DEM,136Lagrange,Johnson North,President,,Hillary Clinton,DEM,142Lagrange,Johnson South,President,,Hillary Clinton,DEM,155Lagrange,Lima,President,,Hillary Clinton,DEM,227Lagrange,Milford  East,President,,Hillary Clinton,DEM,197Lagrange,Milford  West,President,,Hillary Clinton,DEM,86Lagrange,Newbury,President,,Hillary Clinton,DEM,126Lagrange,Springfield,President,,Hillary Clinton,DEM,82Lagrange,Van  Buren,President,,Hillary Clinton,DEM,136Lagrange,,President,,Hillary Clinton,DEM,2080Lagrange,Bloomfield  I,President,,Gary Johnson,LBT,33Lagrange,Bloomfield  II,President,,Gary Johnson,LBT,29Lagrange,Bloomfield  III,President,,Gary Johnson,LBT,27Lagrange,Bloomfield  IV,President,,Gary Johnson,LBT,26Lagrange,Clay,President,,Gary Johnson,LBT,23Lagrange,Clearspring,President,,Gary Johnson,LBT,38Lagrange,Eden,President,,Gary Johnson,LBT,13Lagrange,Greenfield,President,,Gary Johnson,LBT,24Lagrange,Johnson North,President,,Gary Johnson,LBT,28Lagrange,Johnson South,President,,Gary Johnson,LBT,30Lagrange,Lima,President,,Gary Johnson,LBT,55Lagrange,Milford  East,President,,Gary Johnson,LBT,19Lagrange,Milford  West,President,,Gary Johnson,LBT,21Lagrange,Newbury,President,,Gary Johnson,LBT,22Lagrange,Springfield,President,,Gary Johnson,LBT,27Lagrange,Van  Buren,President,,Gary Johnson,LBT,32Lagrange,,President,,Gary Johnson,LBT,447Lagrange,Bloomfield  I,President,,Write-ins,,4Lagrange,Bloomfield  II,President,,Write-ins,,11Lagrange,Bloomfield  III,President,,Write-ins,,1Lagrange,Bloomfield  IV,President,,Write-ins,,5Lagrange,Clay,President,,Write-ins,,5Lagrange,Clearspring,President,,Write-ins,,13Lagrange,Eden,President,,Write-ins,,4Lagrange,Greenfield,President,,Write-ins,,3Lagrange,Johnson North,President,,Write-ins,,9Lagrange,Johnson South,President,,Write-ins,,6Lagrange,Lima,President,,Write-ins,,18Lagrange,Milford  East,President,,Write-ins,,5Lagrange,Milford  West,President,,Write-ins,,7Lagrange,Newbury,President,,Write-ins,,10Lagrange,Springfield,President,,Write-ins,,4Lagrange,Van  Buren,President,,Write-ins,,9Lagrange,,President,,Write-ins,,114Lagrange,Bloomfield  I,U.S. Senate,,Todd Young,REP,346Lagrange,Bloomfield  II,U.S. Senate,,Todd Young,REP,232Lagrange,Bloomfield  III,U.S. Senate,,Todd Young,REP,203Lagrange,Bloomfield  IV,U.S. Senate,,Todd Young,REP,343Lagrange,Clay,U.S. Senate,,Todd Young,REP,340Lagrange,Clearspring,U.S. Senate,,Todd Young,REP,365Lagrange,Eden,U.S. Senate,,Todd Young,REP,234Lagrange,Greenfield,U.S. Senate,,Todd Young,REP,353Lagrange,Johnson North,U.S. Senate,,Todd Young,REP,394Lagrange,Johnson South,U.S. Senate,,Todd Young,REP,546Lagrange,Lima,U.S. Senate,,Todd Young,REP,550Lagrange,Milford  East,U.S. Senate,,Todd Young,REP,523Lagrange,Milford  West,U.S. Senate,,Todd Young,REP,295Lagrange,Newbury,U.S. Senate,,Todd Young,REP,576Lagrange,Springfield,U.S. Senate,,Todd Young,REP,318Lagrange,Van  Buren,U.S. Senate,,Todd Young,REP,604Lagrange,,U.S. Senate,,Todd Young,REP,6222Lagrange,Bloomfield  I,U.S. Senate,,Evan Bayh,DEM,221Lagrange,Bloomfield  II,U.S. Senate,,Evan Bayh,DEM,149Lagrange,Bloomfield  III,U.S. Senate,,Evan Bayh,DEM,121Lagrange,Bloomfield  IV,U.S. Senate,,Evan Bayh,DEM,134Lagrange,Clay,U.S. Senate,,Evan Bayh,DEM,169Lagrange,Clearspring,U.S. Senate,,Evan Bayh,DEM,165Lagrange,Eden,U.S. Senate,,Evan Bayh,DEM,74Lagrange,Greenfield,U.S. Senate,,Evan Bayh,DEM,168Lagrange,Johnson North,U.S. Senate,,Evan Bayh,DEM,200Lagrange,Johnson South,U.S. Senate,,Evan Bayh,DEM,220Lagrange,Lima,U.S. Senate,,Evan Bayh,DEM,310Lagrange,Milford  East,U.S. Senate,,Evan Bayh,DEM,263Lagrange,Milford  West,U.S. Senate,,Evan Bayh,DEM,117Lagrange,Newbury,U.S. Senate,,Evan Bayh,DEM,188Lagrange,Springfield,U.S. Senate,,Evan Bayh,DEM,116Lagrange,Van  Buren,U.S. Senate,,Evan Bayh,DEM,167Lagrange,,U.S. Senate,,Evan Bayh,DEM,2782Lagrange,Bloomfield  I,U.S. Senate,,Lucy Brenton,LBT,37Lagrange,Bloomfield  II,U.S. Senate,,Lucy Brenton,LBT,33Lagrange,Bloomfield  III,U.S. Senate,,Lucy Brenton,LBT,28Lagrange,Bloomfield  IV,U.S. Senate,,Lucy Brenton,LBT,43Lagrange,Clay,U.S. Senate,,Lucy Brenton,LBT,30Lagrange,Clearspring,U.S. Senate,,Lucy Brenton,LBT,31Lagrange,Eden,U.S. Senate,,Lucy Brenton,LBT,21Lagrange,Greenfield,U.S. Senate,,Lucy Brenton,LBT,35Lagrange,Johnson North,U.S. Senate,,Lucy Brenton,LBT,34Lagrange,Johnson South,U.S. Senate,,Lucy Brenton,LBT,40Lagrange,Lima,U.S. Senate,,Lucy Brenton,LBT,63Lagrange,Milford  East,U.S. Senate,,Lucy Brenton,LBT,46Lagrange,Milford  West,U.S. Senate,,Lucy Brenton,LBT,37Lagrange,Newbury,U.S. Senate,,Lucy Brenton,LBT,45Lagrange,Springfield,U.S. Senate,,Lucy Brenton,LBT,34Lagrange,Van  Buren,U.S. Senate,,Lucy Brenton,LBT,61Lagrange,,U.S. Senate,,Lucy Brenton,LBT,618Lagrange,Bloomfield  I,U.S. Senate,,Write-ins,,0Lagrange,Bloomfield  II,U.S. Senate,,Write-ins,,0Lagrange,Bloomfield  III,U.S. Senate,,Write-ins,,0Lagrange,Bloomfield  IV,U.S. Senate,,Write-ins,,0Lagrange,Clay,U.S. Senate,,Write-ins,,0Lagrange,Clearspring,U.S. Senate,,Write-ins,,0Lagrange,Eden,U.S. Senate,,Write-ins,,0Lagrange,Greenfield,U.S. Senate,,Write-ins,,0Lagrange,Johnson North,U.S. Senate,,Write-ins,,0Lagrange,Johnson South,U.S. Senate,,Write-ins,,0Lagrange,Lima,U.S. Senate,,Write-ins,,1Lagrange,Milford  East,U.S. Senate,,Write-ins,,0Lagrange,Milford  West,U.S. Senate,,Write-ins,,0Lagrange,Newbury,U.S. Senate,,Write-ins,,1Lagrange,Springfield,U.S. Senate,,Write-ins,,0Lagrange,Van  Buren,U.S. Senate,,Write-ins,,0Lagrange,,U.S. Senate,,Write-ins,,2Lagrange,Bloomfield  I,Governor,,Eric Holcomb,REP,340Lagrange,Bloomfield  II,Governor,,Eric Holcomb,REP,228Lagrange,Bloomfield  III,Governor,,Eric Holcomb,REP,201Lagrange,Bloomfield  IV,Governor,,Eric Holcomb,REP,350Lagrange,Clay,Governor,,Eric Holcomb,REP,351Lagrange,Clearspring,Governor,,Eric Holcomb,REP,392Lagrange,Eden,Governor,,Eric Holcomb,REP,230Lagrange,Greenfield,Governor,,Eric Holcomb,REP,361Lagrange,Johnson North,Governor,,Eric Holcomb,REP,394Lagrange,Johnson South,Governor,,Eric Holcomb,REP,540Lagrange,Lima,Governor,,Eric Holcomb,REP,574Lagrange,Milford  East,Governor,,Eric Holcomb,REP,541Lagrange,Milford  West,Governor,,Eric Holcomb,REP,299Lagrange,Newbury,Governor,,Eric Holcomb,REP,601Lagrange,Springfield,Governor,,Eric Holcomb,REP,310Lagrange,Van  Buren,Governor,,Eric Holcomb,REP,603Lagrange,,Governor,,Eric Holcomb,REP,6315Lagrange,Bloomfield  I,Governor,,John Gregg,DEM,240Lagrange,Bloomfield  II,Governor,,John Gregg,DEM,160Lagrange,Bloomfield  III,Governor,,John Gregg,DEM,132Lagrange,Bloomfield  IV,Governor,,John Gregg,DEM,153Lagrange,Clay,Governor,,John Gregg,DEM,174Lagrange,Clearspring,Governor,,John Gregg,DEM,150Lagrange,Eden,Governor,,John Gregg,DEM,91Lagrange,Greenfield,Governor,,John Gregg,DEM,166Lagrange,Johnson North,Governor,,John Gregg,DEM,215Lagrange,Johnson South,Governor,,John Gregg,DEM,234Lagrange,Lima,Governor,,John Gregg,DEM,314Lagrange,Milford  East,Governor,,John Gregg,DEM,277Lagrange,Milford  West,Governor,,John Gregg,DEM,132Lagrange,Newbury,Governor,,John Gregg,DEM,179Lagrange,Springfield,Governor,,John Gregg,DEM,134Lagrange,Van  Buren,Governor,,John Gregg,DEM,200Lagrange,,Governor,,John Gregg,DEM,2951Lagrange,Bloomfield  I,Governor,,Rex Bell,LBT,23Lagrange,Bloomfield  II,Governor,,Rex Bell,LBT,23Lagrange,Bloomfield  III,Governor,,Rex Bell,LBT,19Lagrange,Bloomfield  IV,Governor,,Rex Bell,LBT,16Lagrange,Clay,Governor,,Rex Bell,LBT,13Lagrange,Clearspring,Governor,,Rex Bell,LBT,17Lagrange,Eden,Governor,,Rex Bell,LBT,9Lagrange,Greenfield,Governor,,Rex Bell,LBT,26Lagrange,Johnson North,Governor,,Rex Bell,LBT,21Lagrange,Johnson South,Governor,,Rex Bell,LBT,33Lagrange,Lima,Governor,,Rex Bell,LBT,35Lagrange,Milford  East,Governor,,Rex Bell,LBT,13Lagrange,Milford  West,Governor,,Rex Bell,LBT,16Lagrange,Newbury,Governor,,Rex Bell,LBT,29Lagrange,Springfield,Governor,,Rex Bell,LBT,23Lagrange,Van  Buren,Governor,,Rex Bell,LBT,29Lagrange,,Governor,,Rex Bell,LBT,345Lagrange,Bloomfield  I,Governor,,Write-ins,,0Lagrange,Bloomfield  II,Governor,,Write-ins,,0Lagrange,Bloomfield  III,Governor,,Write-ins,,0Lagrange,Bloomfield  IV,Governor,,Write-ins,,0Lagrange,Clay,Governor,,Write-ins,,0Lagrange,Clearspring,Governor,,Write-ins,,1Lagrange,Eden,Governor,,Write-ins,,0Lagrange,Greenfield,Governor,,Write-ins,,0Lagrange,Johnson North,Governor,,Write-ins,,0Lagrange,Johnson South,Governor,,Write-ins,,0Lagrange,Lima,Governor,,Write-ins,,0Lagrange,Milford  East,Governor,,Write-ins,,1Lagrange,Milford  West,Governor,,Write-ins,,0Lagrange,Newbury,Governor,,Write-ins,,1Lagrange,Springfield,Governor,,Write-ins,,0Lagrange,Van  Buren,Governor,,Write-ins,,0Lagrange,,Governor,,Write-ins,,3Lagrange,Bloomfield  I,Attorney General,,Curtis Hill,REP,398Lagrange,Bloomfield  II,Attorney General,,Curtis Hill,REP,294Lagrange,Bloomfield  III,Attorney General,,Curtis Hill,REP,247Lagrange,Bloomfield  IV,Attorney General,,Curtis Hill,REP,403Lagrange,Clay,Attorney General,,Curtis Hill,REP,414Lagrange,Clearspring,Attorney General,,Curtis Hill,REP,454Lagrange,Eden,Attorney General,,Curtis Hill,REP,276Lagrange,Greenfield,Attorney General,,Curtis Hill,REP,420Lagrange,Johnson North,Attorney General,,Curtis Hill,REP,496Lagrange,Johnson South,Attorney General,,Curtis Hill,REP,634Lagrange,Lima,Attorney General,,Curtis Hill,REP,674Lagrange,Milford  East,Attorney General,,Curtis Hill,REP,646Lagrange,Milford  West,Attorney General,,Curtis Hill,REP,353Lagrange,Newbury,Attorney General,,Curtis Hill,REP,690Lagrange,Springfield,Attorney General,,Curtis Hill,REP,386Lagrange,Van  Buren,Attorney General,,Curtis Hill,REP,695Lagrange,,Attorney General,,Curtis Hill,REP,7480Lagrange,Bloomfield  I,Attorney General,,Lorenzo Arredondo,DEM,180Lagrange,Bloomfield  II,Attorney General,,Lorenzo Arredondo,DEM,108Lagrange,Bloomfield  III,Attorney General,,Lorenzo Arredondo,DEM,90Lagrange,Bloomfield  IV,Attorney General,,Lorenzo Arredondo,DEM,102Lagrange,Clay,Attorney General,,Lorenzo Arredondo,DEM,109Lagrange,Clearspring,Attorney General,,Lorenzo Arredondo,DEM,97Lagrange,Eden,Attorney General,,Lorenzo Arredondo,DEM,44Lagrange,Greenfield,Attorney General,,Lorenzo Arredondo,DEM,123Lagrange,Johnson North,Attorney General,,Lorenzo Arredondo,DEM,123Lagrange,Johnson South,Attorney General,,Lorenzo Arredondo,DEM,161Lagrange,Lima,Attorney General,,Lorenzo Arredondo,DEM,227Lagrange,Milford  East,Attorney General,,Lorenzo Arredondo,DEM,177Lagrange,Milford  West,Attorney General,,Lorenzo Arredondo,DEM,74Lagrange,Newbury,Attorney General,,Lorenzo Arredondo,DEM,112Lagrange,Springfield,Attorney General,,Lorenzo Arredondo,DEM,75Lagrange,Van  Buren,Attorney General,,Lorenzo Arredondo,DEM,120Lagrange,,Attorney General,,Lorenzo Arredondo,DEM,1922Lagrange,Bloomfield  I,Public Instruction,,Jennifer McCormick,REP,327Lagrange,Bloomfield  II,Public Instruction,,Jennifer McCormick,REP,243Lagrange,Bloomfield  III,Public Instruction,,Jennifer McCormick,REP,208Lagrange,Bloomfield  IV,Public Instruction,,Jennifer McCormick,REP,328Lagrange,Clay,Public Instruction,,Jennifer McCormick,REP,325Lagrange,Clearspring,Public Instruction,,Jennifer McCormick,REP,347Lagrange,Eden,Public Instruction,,Jennifer McCormick,REP,201Lagrange,Greenfield,Public Instruction,,Jennifer McCormick,REP,372Lagrange,Johnson North,Public Instruction,,Jennifer McCormick,REP,366Lagrange,Johnson South,Public Instruction,,Jennifer McCormick,REP,535Lagrange,Lima,Public Instruction,,Jennifer McCormick,REP,556Lagrange,Milford  East,Public Instruction,,Jennifer McCormick,REP,522Lagrange,Milford  West,Public Instruction,,Jennifer McCormick,REP,282Lagrange,Newbury,Public Instruction,,Jennifer McCormick,REP,560Lagrange,Springfield,Public Instruction,,Jennifer McCormick,REP,315Lagrange,Van  Buren,Public Instruction,,Jennifer McCormick,REP,577Lagrange,,Public Instruction,,Jennifer McCormick,REP,6064Lagrange,Bloomfield  I,Public Instruction,,Glenda Ritz,DEM,264Lagrange,Bloomfield  II,Public Instruction,,Glenda Ritz,DEM,156Lagrange,Bloomfield  III,Public Instruction,,Glenda Ritz,DEM,134Lagrange,Bloomfield  IV,Public Instruction,,Glenda Ritz,DEM,181Lagrange,Clay,Public Instruction,,Glenda Ritz,DEM,205Lagrange,Clearspring,Public Instruction,,Glenda Ritz,DEM,208Lagrange,Eden,Public Instruction,,Glenda Ritz,DEM,123Lagrange,Greenfield,Public Instruction,,Glenda Ritz,DEM,172Lagrange,Johnson North,Public Instruction,,Glenda Ritz,DEM,256Lagrange,Johnson South,Public Instruction,,Glenda Ritz,DEM,258Lagrange,Lima,Public Instruction,,Glenda Ritz,DEM,344Lagrange,Milford  East,Public Instruction,,Glenda Ritz,DEM,304Lagrange,Milford  West,Public Instruction,,Glenda Ritz,DEM,155Lagrange,Newbury,Public Instruction,,Glenda Ritz,DEM,241Lagrange,Springfield,Public Instruction,,Glenda Ritz,DEM,144Lagrange,Van  Buren,Public Instruction,,Glenda Ritz,DEM,232Lagrange,,Public Instruction,,Glenda Ritz,DEM,3377Lagrange,Bloomfield  I,U.S. House,3,Jim Banks,REP,392Lagrange,Bloomfield  II,U.S. House,3,Jim Banks,REP,278Lagrange,Bloomfield  III,U.S. House,3,Jim Banks,REP,220Lagrange,Bloomfield  IV,U.S. House,3,Jim Banks,REP,376Lagrange,Clay,U.S. House,3,Jim Banks,REP,392Lagrange,Clearspring,U.S. House,3,Jim Banks,REP,425Lagrange,Eden,U.S. House,3,Jim Banks,REP,261Lagrange,Greenfield,U.S. House,3,Jim Banks,REP,394Lagrange,Johnson North,U.S. House,3,Jim Banks,REP,460Lagrange,Johnson South,U.S. House,3,Jim Banks,REP,604Lagrange,Lima,U.S. House,3,Jim Banks,REP,624Lagrange,Milford  East,U.S. House,3,Jim Banks,REP,614Lagrange,Milford  West,U.S. House,3,Jim Banks,REP,340Lagrange,Newbury,U.S. House,3,Jim Banks,REP,652Lagrange,Springfield,U.S. House,3,Jim Banks,REP,353Lagrange,Van  Buren,U.S. House,3,Jim Banks,REP,637Lagrange,,U.S. House,3,Jim Banks,REP,7022Lagrange,Bloomfield  I,U.S. House,3,Tommy Schrader,DEM,157Lagrange,Bloomfield  II,U.S. House,3,Tommy Schrader,DEM,91Lagrange,Bloomfield  III,U.S. House,3,Tommy Schrader,DEM,90Lagrange,Bloomfield  IV,U.S. House,3,Tommy Schrader,DEM,103Lagrange,Clay,U.S. House,3,Tommy Schrader,DEM,101Lagrange,Clearspring,U.S. House,3,Tommy Schrader,DEM,97Lagrange,Eden,U.S. House,3,Tommy Schrader,DEM,46Lagrange,Greenfield,U.S. House,3,Tommy Schrader,DEM,120Lagrange,Johnson North,U.S. House,3,Tommy Schrader,DEM,115Lagrange,Johnson South,U.S. House,3,Tommy Schrader,DEM,152Lagrange,Lima,U.S. House,3,Tommy Schrader,DEM,226Lagrange,Milford  East,U.S. House,3,Tommy Schrader,DEM,176Lagrange,Milford  West,U.S. House,3,Tommy Schrader,DEM,69Lagrange,Newbury,U.S. House,3,Tommy Schrader,DEM,116Lagrange,Springfield,U.S. House,3,Tommy Schrader,DEM,75Lagrange,Van  Buren,U.S. House,3,Tommy Schrader,DEM,131Lagrange,,U.S. House,3,Tommy Schrader,DEM,1865Lagrange,Bloomfield  I,U.S. House,3,Pepper Snyder,LBT,38Lagrange,Bloomfield  II,U.S. House,3,Pepper Snyder,LBT,36Lagrange,Bloomfield  III,U.S. House,3,Pepper Snyder,LBT,28Lagrange,Bloomfield  IV,U.S. House,3,Pepper Snyder,LBT,27Lagrange,Clay,U.S. House,3,Pepper Snyder,LBT,32Lagrange,Clearspring,U.S. House,3,Pepper Snyder,LBT,33Lagrange,Eden,U.S. House,3,Pepper Snyder,LBT,15Lagrange,Greenfield,U.S. House,3,Pepper Snyder,LBT,30Lagrange,Johnson North,U.S. House,3,Pepper Snyder,LBT,37Lagrange,Johnson South,U.S. House,3,Pepper Snyder,LBT,45Lagrange,Lima,U.S. House,3,Pepper Snyder,LBT,52Lagrange,Milford  East,U.S. House,3,Pepper Snyder,LBT,32Lagrange,Milford  West,U.S. House,3,Pepper Snyder,LBT,29Lagrange,Newbury,U.S. House,3,Pepper Snyder,LBT,34Lagrange,Springfield,U.S. House,3,Pepper Snyder,LBT,30Lagrange,Van  Buren,U.S. House,3,Pepper Snyder,LBT,42Lagrange,,U.S. House,3,Pepper Snyder,LBT,540Lagrange,Bloomfield  I,U.S. House,3,Write-ins,,0Lagrange,Bloomfield  II,U.S. House,3,Write-ins,,0Lagrange,Bloomfield  III,U.S. House,3,Write-ins,,0Lagrange,Bloomfield  IV,U.S. House,3,Write-ins,,0Lagrange,Clay,U.S. House,3,Write-ins,,0Lagrange,Clearspring,U.S. House,3,Write-ins,,0Lagrange,Eden,U.S. House,3,Write-ins,,0Lagrange,Greenfield,U.S. House,3,Write-ins,,0Lagrange,Johnson North,U.S. House,3,Write-ins,,0Lagrange,Johnson South,U.S. House,3,Write-ins,,0Lagrange,Lima,U.S. House,3,Write-ins,,0Lagrange,Milford  East,U.S. House,3,Write-ins,,0Lagrange,Milford  West,U.S. House,3,Write-ins,,0Lagrange,Newbury,U.S. House,3,Write-ins,,0Lagrange,Springfield,U.S. House,3,Write-ins,,1Lagrange,Van  Buren,U.S. House,3,Write-ins,,0Lagrange,,U.S. House,3,Write-ins,,1Lagrange,Bloomfield  I,State Senate,13,Susan Glick,REP,432Lagrange,Bloomfield  II,State Senate,13,Susan Glick,REP,300Lagrange,Bloomfield  III,State Senate,13,Susan Glick,REP,266Lagrange,Bloomfield  IV,State Senate,13,Susan Glick,REP,407Lagrange,Clay,State Senate,13,Susan Glick,REP,436Lagrange,Clearspring,State Senate,13,Susan Glick,REP,452Lagrange,Eden,State Senate,13,Susan Glick,REP,269Lagrange,Greenfield,State Senate,13,Susan Glick,REP,429Lagrange,Johnson North,State Senate,13,Susan Glick,REP,499Lagrange,Johnson South,State Senate,13,Susan Glick,REP,610Lagrange,Lima,State Senate,13,Susan Glick,REP,660Lagrange,Milford  East,State Senate,13,Susan Glick,REP,620Lagrange,Milford  West,State Senate,13,Susan Glick,REP,353Lagrange,Newbury,State Senate,13,Susan Glick,REP,653Lagrange,Springfield,State Senate,13,Susan Glick,REP,376Lagrange,Van  Buren,State Senate,13,Susan Glick,REP,678Lagrange,,State Senate,13,Susan Glick,REP,7440Lagrange,Bloomfield  I,State Senate,13,Justin Kuhnle,DEM,156Lagrange,Bloomfield  II,State Senate,13,Justin Kuhnle,DEM,107Lagrange,Bloomfield  III,State Senate,13,Justin Kuhnle,DEM,85Lagrange,Bloomfield  IV,State Senate,13,Justin Kuhnle,DEM,106Lagrange,Clay,State Senate,13,Justin Kuhnle,DEM,95Lagrange,Clearspring,State Senate,13,Justin Kuhnle,DEM,100Lagrange,Eden,State Senate,13,Justin Kuhnle,DEM,56Lagrange,Greenfield,State Senate,13,Justin Kuhnle,DEM,122Lagrange,Johnson North,State Senate,13,Justin Kuhnle,DEM,130Lagrange,Johnson South,State Senate,13,Justin Kuhnle,DEM,185Lagrange,Lima,State Senate,13,Justin Kuhnle,DEM,241Lagrange,Milford  East,State Senate,13,Justin Kuhnle,DEM,198Lagrange,Milford  West,State Senate,13,Justin Kuhnle,DEM,89Lagrange,Newbury,State Senate,13,Justin Kuhnle,DEM,151Lagrange,Springfield,State Senate,13,Justin Kuhnle,DEM,90Lagrange,Van  Buren,State Senate,13,Justin Kuhnle,DEM,136Lagrange,,State Senate,13,Justin Kuhnle,DEM,2047Lagrange,Bloomfield  I,State House,51,Dennis Zent,REP,465Lagrange,Bloomfield  II,State House,51,Dennis Zent,REP,327Lagrange,Bloomfield  III,State House,51,Dennis Zent,REP,285Lagrange,Bloomfield  IV,State House,51,Dennis Zent,REP,428Lagrange,Clay,State House,51,Dennis Zent,REP,435Lagrange,Clearspring,State House,51,Dennis Zent,REP,475Lagrange,Eden,State House,51,Dennis Zent,REP,290Lagrange,Greenfield,State House,51,Dennis Zent,REP,457Lagrange,Johnson North,State House,82,David Ober,REP,468Lagrange,Johnson South,State House,82,David Ober,REP,607Lagrange,Lima,State House,51,Dennis Zent,REP,755Lagrange,Milford  East,State House,51,Dennis Zent,REP,688Lagrange,Milford  West,State House,51,Dennis Zent,REP,374Lagrange,Newbury,State House,51,Dennis Zent,REP,709Lagrange,Springfield,State House,51,Dennis Zent,REP,407Lagrange,Van  Buren,State House,51,Dennis Zent,REP,710Lagrange,,State House,51,Dennis Zent,REP,7880Lagrange,,State House,51,Dennis Zent,REP,6805Lagrange,,State House,82,David Ober,REP,1075Lagrange,Johnson North,State House,82,Mike Wilber,DEM,145Lagrange,Johnson South,State House,82,Mike Wilber,DEM,182Lagrange,,State House,82,Mike Wilber,DEM,327
+county,precinct,office,district,candidate,party,vote
+Lagrange,Bloomfield  I,President,,Donald Trump,REP,378
+Lagrange,Bloomfield  II,President,,Donald Trump,REP,251
+Lagrange,Bloomfield  III,President,,Donald Trump,REP,238
+Lagrange,Bloomfield  IV,President,,Donald Trump,REP,387
+Lagrange,Clay,President,,Donald Trump,REP,393
+Lagrange,Clearspring,President,,Donald Trump,REP,414
+Lagrange,Eden,President,,Donald Trump,REP,257
+Lagrange,Greenfield,President,,Donald Trump,REP,397
+Lagrange,Johnson North,President,,Donald Trump,REP,456
+Lagrange,Johnson South,President,,Donald Trump,REP,616
+Lagrange,Lima,President,,Donald Trump,REP,623
+Lagrange,Milford  East,President,,Donald Trump,REP,606
+Lagrange,Milford  West,President,,Donald Trump,REP,334
+Lagrange,Newbury,President,,Donald Trump,REP,660
+Lagrange,Springfield,President,,Donald Trump,REP,357
+Lagrange,Van  Buren,President,,Donald Trump,REP,658
+Lagrange,,President,,Donald Trump,REP,7025
+Lagrange,Bloomfield  I,President,,Hillary Clinton,DEM,194
+Lagrange,Bloomfield  II,President,,Hillary Clinton,DEM,126
+Lagrange,Bloomfield  III,President,,Hillary Clinton,DEM,92
+Lagrange,Bloomfield  IV,President,,Hillary Clinton,DEM,105
+Lagrange,Clay,President,,Hillary Clinton,DEM,119
+Lagrange,Clearspring,President,,Hillary Clinton,DEM,99
+Lagrange,Eden,President,,Hillary Clinton,DEM,58
+Lagrange,Greenfield,President,,Hillary Clinton,DEM,136
+Lagrange,Johnson North,President,,Hillary Clinton,DEM,142
+Lagrange,Johnson South,President,,Hillary Clinton,DEM,155
+Lagrange,Lima,President,,Hillary Clinton,DEM,227
+Lagrange,Milford  East,President,,Hillary Clinton,DEM,197
+Lagrange,Milford  West,President,,Hillary Clinton,DEM,86
+Lagrange,Newbury,President,,Hillary Clinton,DEM,126
+Lagrange,Springfield,President,,Hillary Clinton,DEM,82
+Lagrange,Van  Buren,President,,Hillary Clinton,DEM,136
+Lagrange,,President,,Hillary Clinton,DEM,2080
+Lagrange,Bloomfield  I,President,,Gary Johnson,LBT,33
+Lagrange,Bloomfield  II,President,,Gary Johnson,LBT,29
+Lagrange,Bloomfield  III,President,,Gary Johnson,LBT,27
+Lagrange,Bloomfield  IV,President,,Gary Johnson,LBT,26
+Lagrange,Clay,President,,Gary Johnson,LBT,23
+Lagrange,Clearspring,President,,Gary Johnson,LBT,38
+Lagrange,Eden,President,,Gary Johnson,LBT,13
+Lagrange,Greenfield,President,,Gary Johnson,LBT,24
+Lagrange,Johnson North,President,,Gary Johnson,LBT,28
+Lagrange,Johnson South,President,,Gary Johnson,LBT,30
+Lagrange,Lima,President,,Gary Johnson,LBT,55
+Lagrange,Milford  East,President,,Gary Johnson,LBT,19
+Lagrange,Milford  West,President,,Gary Johnson,LBT,21
+Lagrange,Newbury,President,,Gary Johnson,LBT,22
+Lagrange,Springfield,President,,Gary Johnson,LBT,27
+Lagrange,Van  Buren,President,,Gary Johnson,LBT,32
+Lagrange,,President,,Gary Johnson,LBT,447
+Lagrange,Bloomfield  I,President,,Write-ins,,4
+Lagrange,Bloomfield  II,President,,Write-ins,,11
+Lagrange,Bloomfield  III,President,,Write-ins,,1
+Lagrange,Bloomfield  IV,President,,Write-ins,,5
+Lagrange,Clay,President,,Write-ins,,5
+Lagrange,Clearspring,President,,Write-ins,,13
+Lagrange,Eden,President,,Write-ins,,4
+Lagrange,Greenfield,President,,Write-ins,,3
+Lagrange,Johnson North,President,,Write-ins,,9
+Lagrange,Johnson South,President,,Write-ins,,6
+Lagrange,Lima,President,,Write-ins,,18
+Lagrange,Milford  East,President,,Write-ins,,5
+Lagrange,Milford  West,President,,Write-ins,,7
+Lagrange,Newbury,President,,Write-ins,,10
+Lagrange,Springfield,President,,Write-ins,,4
+Lagrange,Van  Buren,President,,Write-ins,,9
+Lagrange,,President,,Write-ins,,114
+Lagrange,Bloomfield  I,U.S. Senate,,Todd Young,REP,346
+Lagrange,Bloomfield  II,U.S. Senate,,Todd Young,REP,232
+Lagrange,Bloomfield  III,U.S. Senate,,Todd Young,REP,203
+Lagrange,Bloomfield  IV,U.S. Senate,,Todd Young,REP,343
+Lagrange,Clay,U.S. Senate,,Todd Young,REP,340
+Lagrange,Clearspring,U.S. Senate,,Todd Young,REP,365
+Lagrange,Eden,U.S. Senate,,Todd Young,REP,234
+Lagrange,Greenfield,U.S. Senate,,Todd Young,REP,353
+Lagrange,Johnson North,U.S. Senate,,Todd Young,REP,394
+Lagrange,Johnson South,U.S. Senate,,Todd Young,REP,546
+Lagrange,Lima,U.S. Senate,,Todd Young,REP,550
+Lagrange,Milford  East,U.S. Senate,,Todd Young,REP,523
+Lagrange,Milford  West,U.S. Senate,,Todd Young,REP,295
+Lagrange,Newbury,U.S. Senate,,Todd Young,REP,576
+Lagrange,Springfield,U.S. Senate,,Todd Young,REP,318
+Lagrange,Van  Buren,U.S. Senate,,Todd Young,REP,604
+Lagrange,,U.S. Senate,,Todd Young,REP,6222
+Lagrange,Bloomfield  I,U.S. Senate,,Evan Bayh,DEM,221
+Lagrange,Bloomfield  II,U.S. Senate,,Evan Bayh,DEM,149
+Lagrange,Bloomfield  III,U.S. Senate,,Evan Bayh,DEM,121
+Lagrange,Bloomfield  IV,U.S. Senate,,Evan Bayh,DEM,134
+Lagrange,Clay,U.S. Senate,,Evan Bayh,DEM,169
+Lagrange,Clearspring,U.S. Senate,,Evan Bayh,DEM,165
+Lagrange,Eden,U.S. Senate,,Evan Bayh,DEM,74
+Lagrange,Greenfield,U.S. Senate,,Evan Bayh,DEM,168
+Lagrange,Johnson North,U.S. Senate,,Evan Bayh,DEM,200
+Lagrange,Johnson South,U.S. Senate,,Evan Bayh,DEM,220
+Lagrange,Lima,U.S. Senate,,Evan Bayh,DEM,310
+Lagrange,Milford  East,U.S. Senate,,Evan Bayh,DEM,263
+Lagrange,Milford  West,U.S. Senate,,Evan Bayh,DEM,117
+Lagrange,Newbury,U.S. Senate,,Evan Bayh,DEM,188
+Lagrange,Springfield,U.S. Senate,,Evan Bayh,DEM,116
+Lagrange,Van  Buren,U.S. Senate,,Evan Bayh,DEM,167
+Lagrange,,U.S. Senate,,Evan Bayh,DEM,2782
+Lagrange,Bloomfield  I,U.S. Senate,,Lucy Brenton,LBT,37
+Lagrange,Bloomfield  II,U.S. Senate,,Lucy Brenton,LBT,33
+Lagrange,Bloomfield  III,U.S. Senate,,Lucy Brenton,LBT,28
+Lagrange,Bloomfield  IV,U.S. Senate,,Lucy Brenton,LBT,43
+Lagrange,Clay,U.S. Senate,,Lucy Brenton,LBT,30
+Lagrange,Clearspring,U.S. Senate,,Lucy Brenton,LBT,31
+Lagrange,Eden,U.S. Senate,,Lucy Brenton,LBT,21
+Lagrange,Greenfield,U.S. Senate,,Lucy Brenton,LBT,35
+Lagrange,Johnson North,U.S. Senate,,Lucy Brenton,LBT,34
+Lagrange,Johnson South,U.S. Senate,,Lucy Brenton,LBT,40
+Lagrange,Lima,U.S. Senate,,Lucy Brenton,LBT,63
+Lagrange,Milford  East,U.S. Senate,,Lucy Brenton,LBT,46
+Lagrange,Milford  West,U.S. Senate,,Lucy Brenton,LBT,37
+Lagrange,Newbury,U.S. Senate,,Lucy Brenton,LBT,45
+Lagrange,Springfield,U.S. Senate,,Lucy Brenton,LBT,34
+Lagrange,Van  Buren,U.S. Senate,,Lucy Brenton,LBT,61
+Lagrange,,U.S. Senate,,Lucy Brenton,LBT,618
+Lagrange,Bloomfield  I,U.S. Senate,,Write-ins,,0
+Lagrange,Bloomfield  II,U.S. Senate,,Write-ins,,0
+Lagrange,Bloomfield  III,U.S. Senate,,Write-ins,,0
+Lagrange,Bloomfield  IV,U.S. Senate,,Write-ins,,0
+Lagrange,Clay,U.S. Senate,,Write-ins,,0
+Lagrange,Clearspring,U.S. Senate,,Write-ins,,0
+Lagrange,Eden,U.S. Senate,,Write-ins,,0
+Lagrange,Greenfield,U.S. Senate,,Write-ins,,0
+Lagrange,Johnson North,U.S. Senate,,Write-ins,,0
+Lagrange,Johnson South,U.S. Senate,,Write-ins,,0
+Lagrange,Lima,U.S. Senate,,Write-ins,,1
+Lagrange,Milford  East,U.S. Senate,,Write-ins,,0
+Lagrange,Milford  West,U.S. Senate,,Write-ins,,0
+Lagrange,Newbury,U.S. Senate,,Write-ins,,1
+Lagrange,Springfield,U.S. Senate,,Write-ins,,0
+Lagrange,Van  Buren,U.S. Senate,,Write-ins,,0
+Lagrange,,U.S. Senate,,Write-ins,,2
+Lagrange,Bloomfield  I,Governor,,Eric Holcomb,REP,340
+Lagrange,Bloomfield  II,Governor,,Eric Holcomb,REP,228
+Lagrange,Bloomfield  III,Governor,,Eric Holcomb,REP,201
+Lagrange,Bloomfield  IV,Governor,,Eric Holcomb,REP,350
+Lagrange,Clay,Governor,,Eric Holcomb,REP,351
+Lagrange,Clearspring,Governor,,Eric Holcomb,REP,392
+Lagrange,Eden,Governor,,Eric Holcomb,REP,230
+Lagrange,Greenfield,Governor,,Eric Holcomb,REP,361
+Lagrange,Johnson North,Governor,,Eric Holcomb,REP,394
+Lagrange,Johnson South,Governor,,Eric Holcomb,REP,540
+Lagrange,Lima,Governor,,Eric Holcomb,REP,574
+Lagrange,Milford  East,Governor,,Eric Holcomb,REP,541
+Lagrange,Milford  West,Governor,,Eric Holcomb,REP,299
+Lagrange,Newbury,Governor,,Eric Holcomb,REP,601
+Lagrange,Springfield,Governor,,Eric Holcomb,REP,310
+Lagrange,Van  Buren,Governor,,Eric Holcomb,REP,603
+Lagrange,,Governor,,Eric Holcomb,REP,6315
+Lagrange,Bloomfield  I,Governor,,John Gregg,DEM,240
+Lagrange,Bloomfield  II,Governor,,John Gregg,DEM,160
+Lagrange,Bloomfield  III,Governor,,John Gregg,DEM,132
+Lagrange,Bloomfield  IV,Governor,,John Gregg,DEM,153
+Lagrange,Clay,Governor,,John Gregg,DEM,174
+Lagrange,Clearspring,Governor,,John Gregg,DEM,150
+Lagrange,Eden,Governor,,John Gregg,DEM,91
+Lagrange,Greenfield,Governor,,John Gregg,DEM,166
+Lagrange,Johnson North,Governor,,John Gregg,DEM,215
+Lagrange,Johnson South,Governor,,John Gregg,DEM,234
+Lagrange,Lima,Governor,,John Gregg,DEM,314
+Lagrange,Milford  East,Governor,,John Gregg,DEM,277
+Lagrange,Milford  West,Governor,,John Gregg,DEM,132
+Lagrange,Newbury,Governor,,John Gregg,DEM,179
+Lagrange,Springfield,Governor,,John Gregg,DEM,134
+Lagrange,Van  Buren,Governor,,John Gregg,DEM,200
+Lagrange,,Governor,,John Gregg,DEM,2951
+Lagrange,Bloomfield  I,Governor,,Rex Bell,LBT,23
+Lagrange,Bloomfield  II,Governor,,Rex Bell,LBT,23
+Lagrange,Bloomfield  III,Governor,,Rex Bell,LBT,19
+Lagrange,Bloomfield  IV,Governor,,Rex Bell,LBT,16
+Lagrange,Clay,Governor,,Rex Bell,LBT,13
+Lagrange,Clearspring,Governor,,Rex Bell,LBT,17
+Lagrange,Eden,Governor,,Rex Bell,LBT,9
+Lagrange,Greenfield,Governor,,Rex Bell,LBT,26
+Lagrange,Johnson North,Governor,,Rex Bell,LBT,21
+Lagrange,Johnson South,Governor,,Rex Bell,LBT,33
+Lagrange,Lima,Governor,,Rex Bell,LBT,35
+Lagrange,Milford  East,Governor,,Rex Bell,LBT,13
+Lagrange,Milford  West,Governor,,Rex Bell,LBT,16
+Lagrange,Newbury,Governor,,Rex Bell,LBT,29
+Lagrange,Springfield,Governor,,Rex Bell,LBT,23
+Lagrange,Van  Buren,Governor,,Rex Bell,LBT,29
+Lagrange,,Governor,,Rex Bell,LBT,345
+Lagrange,Bloomfield  I,Governor,,Write-ins,,0
+Lagrange,Bloomfield  II,Governor,,Write-ins,,0
+Lagrange,Bloomfield  III,Governor,,Write-ins,,0
+Lagrange,Bloomfield  IV,Governor,,Write-ins,,0
+Lagrange,Clay,Governor,,Write-ins,,0
+Lagrange,Clearspring,Governor,,Write-ins,,1
+Lagrange,Eden,Governor,,Write-ins,,0
+Lagrange,Greenfield,Governor,,Write-ins,,0
+Lagrange,Johnson North,Governor,,Write-ins,,0
+Lagrange,Johnson South,Governor,,Write-ins,,0
+Lagrange,Lima,Governor,,Write-ins,,0
+Lagrange,Milford  East,Governor,,Write-ins,,1
+Lagrange,Milford  West,Governor,,Write-ins,,0
+Lagrange,Newbury,Governor,,Write-ins,,1
+Lagrange,Springfield,Governor,,Write-ins,,0
+Lagrange,Van  Buren,Governor,,Write-ins,,0
+Lagrange,,Governor,,Write-ins,,3
+Lagrange,Bloomfield  I,Attorney General,,Curtis Hill,REP,398
+Lagrange,Bloomfield  II,Attorney General,,Curtis Hill,REP,294
+Lagrange,Bloomfield  III,Attorney General,,Curtis Hill,REP,247
+Lagrange,Bloomfield  IV,Attorney General,,Curtis Hill,REP,403
+Lagrange,Clay,Attorney General,,Curtis Hill,REP,414
+Lagrange,Clearspring,Attorney General,,Curtis Hill,REP,454
+Lagrange,Eden,Attorney General,,Curtis Hill,REP,276
+Lagrange,Greenfield,Attorney General,,Curtis Hill,REP,420
+Lagrange,Johnson North,Attorney General,,Curtis Hill,REP,496
+Lagrange,Johnson South,Attorney General,,Curtis Hill,REP,634
+Lagrange,Lima,Attorney General,,Curtis Hill,REP,674
+Lagrange,Milford  East,Attorney General,,Curtis Hill,REP,646
+Lagrange,Milford  West,Attorney General,,Curtis Hill,REP,353
+Lagrange,Newbury,Attorney General,,Curtis Hill,REP,690
+Lagrange,Springfield,Attorney General,,Curtis Hill,REP,386
+Lagrange,Van  Buren,Attorney General,,Curtis Hill,REP,695
+Lagrange,,Attorney General,,Curtis Hill,REP,7480
+Lagrange,Bloomfield  I,Attorney General,,Lorenzo Arredondo,DEM,180
+Lagrange,Bloomfield  II,Attorney General,,Lorenzo Arredondo,DEM,108
+Lagrange,Bloomfield  III,Attorney General,,Lorenzo Arredondo,DEM,90
+Lagrange,Bloomfield  IV,Attorney General,,Lorenzo Arredondo,DEM,102
+Lagrange,Clay,Attorney General,,Lorenzo Arredondo,DEM,109
+Lagrange,Clearspring,Attorney General,,Lorenzo Arredondo,DEM,97
+Lagrange,Eden,Attorney General,,Lorenzo Arredondo,DEM,44
+Lagrange,Greenfield,Attorney General,,Lorenzo Arredondo,DEM,123
+Lagrange,Johnson North,Attorney General,,Lorenzo Arredondo,DEM,123
+Lagrange,Johnson South,Attorney General,,Lorenzo Arredondo,DEM,161
+Lagrange,Lima,Attorney General,,Lorenzo Arredondo,DEM,227
+Lagrange,Milford  East,Attorney General,,Lorenzo Arredondo,DEM,177
+Lagrange,Milford  West,Attorney General,,Lorenzo Arredondo,DEM,74
+Lagrange,Newbury,Attorney General,,Lorenzo Arredondo,DEM,112
+Lagrange,Springfield,Attorney General,,Lorenzo Arredondo,DEM,75
+Lagrange,Van  Buren,Attorney General,,Lorenzo Arredondo,DEM,120
+Lagrange,,Attorney General,,Lorenzo Arredondo,DEM,1922
+Lagrange,Bloomfield  I,Public Instruction,,Jennifer McCormick,REP,327
+Lagrange,Bloomfield  II,Public Instruction,,Jennifer McCormick,REP,243
+Lagrange,Bloomfield  III,Public Instruction,,Jennifer McCormick,REP,208
+Lagrange,Bloomfield  IV,Public Instruction,,Jennifer McCormick,REP,328
+Lagrange,Clay,Public Instruction,,Jennifer McCormick,REP,325
+Lagrange,Clearspring,Public Instruction,,Jennifer McCormick,REP,347
+Lagrange,Eden,Public Instruction,,Jennifer McCormick,REP,201
+Lagrange,Greenfield,Public Instruction,,Jennifer McCormick,REP,372
+Lagrange,Johnson North,Public Instruction,,Jennifer McCormick,REP,366
+Lagrange,Johnson South,Public Instruction,,Jennifer McCormick,REP,535
+Lagrange,Lima,Public Instruction,,Jennifer McCormick,REP,556
+Lagrange,Milford  East,Public Instruction,,Jennifer McCormick,REP,522
+Lagrange,Milford  West,Public Instruction,,Jennifer McCormick,REP,282
+Lagrange,Newbury,Public Instruction,,Jennifer McCormick,REP,560
+Lagrange,Springfield,Public Instruction,,Jennifer McCormick,REP,315
+Lagrange,Van  Buren,Public Instruction,,Jennifer McCormick,REP,577
+Lagrange,,Public Instruction,,Jennifer McCormick,REP,6064
+Lagrange,Bloomfield  I,Public Instruction,,Glenda Ritz,DEM,264
+Lagrange,Bloomfield  II,Public Instruction,,Glenda Ritz,DEM,156
+Lagrange,Bloomfield  III,Public Instruction,,Glenda Ritz,DEM,134
+Lagrange,Bloomfield  IV,Public Instruction,,Glenda Ritz,DEM,181
+Lagrange,Clay,Public Instruction,,Glenda Ritz,DEM,205
+Lagrange,Clearspring,Public Instruction,,Glenda Ritz,DEM,208
+Lagrange,Eden,Public Instruction,,Glenda Ritz,DEM,123
+Lagrange,Greenfield,Public Instruction,,Glenda Ritz,DEM,172
+Lagrange,Johnson North,Public Instruction,,Glenda Ritz,DEM,256
+Lagrange,Johnson South,Public Instruction,,Glenda Ritz,DEM,258
+Lagrange,Lima,Public Instruction,,Glenda Ritz,DEM,344
+Lagrange,Milford  East,Public Instruction,,Glenda Ritz,DEM,304
+Lagrange,Milford  West,Public Instruction,,Glenda Ritz,DEM,155
+Lagrange,Newbury,Public Instruction,,Glenda Ritz,DEM,241
+Lagrange,Springfield,Public Instruction,,Glenda Ritz,DEM,144
+Lagrange,Van  Buren,Public Instruction,,Glenda Ritz,DEM,232
+Lagrange,,Public Instruction,,Glenda Ritz,DEM,3377
+Lagrange,Bloomfield  I,U.S. House,3,Jim Banks,REP,392
+Lagrange,Bloomfield  II,U.S. House,3,Jim Banks,REP,278
+Lagrange,Bloomfield  III,U.S. House,3,Jim Banks,REP,220
+Lagrange,Bloomfield  IV,U.S. House,3,Jim Banks,REP,376
+Lagrange,Clay,U.S. House,3,Jim Banks,REP,392
+Lagrange,Clearspring,U.S. House,3,Jim Banks,REP,425
+Lagrange,Eden,U.S. House,3,Jim Banks,REP,261
+Lagrange,Greenfield,U.S. House,3,Jim Banks,REP,394
+Lagrange,Johnson North,U.S. House,3,Jim Banks,REP,460
+Lagrange,Johnson South,U.S. House,3,Jim Banks,REP,604
+Lagrange,Lima,U.S. House,3,Jim Banks,REP,624
+Lagrange,Milford  East,U.S. House,3,Jim Banks,REP,614
+Lagrange,Milford  West,U.S. House,3,Jim Banks,REP,340
+Lagrange,Newbury,U.S. House,3,Jim Banks,REP,652
+Lagrange,Springfield,U.S. House,3,Jim Banks,REP,353
+Lagrange,Van  Buren,U.S. House,3,Jim Banks,REP,637
+Lagrange,,U.S. House,3,Jim Banks,REP,7022
+Lagrange,Bloomfield  I,U.S. House,3,Tommy Schrader,DEM,157
+Lagrange,Bloomfield  II,U.S. House,3,Tommy Schrader,DEM,91
+Lagrange,Bloomfield  III,U.S. House,3,Tommy Schrader,DEM,90
+Lagrange,Bloomfield  IV,U.S. House,3,Tommy Schrader,DEM,103
+Lagrange,Clay,U.S. House,3,Tommy Schrader,DEM,101
+Lagrange,Clearspring,U.S. House,3,Tommy Schrader,DEM,97
+Lagrange,Eden,U.S. House,3,Tommy Schrader,DEM,46
+Lagrange,Greenfield,U.S. House,3,Tommy Schrader,DEM,120
+Lagrange,Johnson North,U.S. House,3,Tommy Schrader,DEM,115
+Lagrange,Johnson South,U.S. House,3,Tommy Schrader,DEM,152
+Lagrange,Lima,U.S. House,3,Tommy Schrader,DEM,226
+Lagrange,Milford  East,U.S. House,3,Tommy Schrader,DEM,176
+Lagrange,Milford  West,U.S. House,3,Tommy Schrader,DEM,69
+Lagrange,Newbury,U.S. House,3,Tommy Schrader,DEM,116
+Lagrange,Springfield,U.S. House,3,Tommy Schrader,DEM,75
+Lagrange,Van  Buren,U.S. House,3,Tommy Schrader,DEM,131
+Lagrange,,U.S. House,3,Tommy Schrader,DEM,1865
+Lagrange,Bloomfield  I,U.S. House,3,Pepper Snyder,LBT,38
+Lagrange,Bloomfield  II,U.S. House,3,Pepper Snyder,LBT,36
+Lagrange,Bloomfield  III,U.S. House,3,Pepper Snyder,LBT,28
+Lagrange,Bloomfield  IV,U.S. House,3,Pepper Snyder,LBT,27
+Lagrange,Clay,U.S. House,3,Pepper Snyder,LBT,32
+Lagrange,Clearspring,U.S. House,3,Pepper Snyder,LBT,33
+Lagrange,Eden,U.S. House,3,Pepper Snyder,LBT,15
+Lagrange,Greenfield,U.S. House,3,Pepper Snyder,LBT,30
+Lagrange,Johnson North,U.S. House,3,Pepper Snyder,LBT,37
+Lagrange,Johnson South,U.S. House,3,Pepper Snyder,LBT,45
+Lagrange,Lima,U.S. House,3,Pepper Snyder,LBT,52
+Lagrange,Milford  East,U.S. House,3,Pepper Snyder,LBT,32
+Lagrange,Milford  West,U.S. House,3,Pepper Snyder,LBT,29
+Lagrange,Newbury,U.S. House,3,Pepper Snyder,LBT,34
+Lagrange,Springfield,U.S. House,3,Pepper Snyder,LBT,30
+Lagrange,Van  Buren,U.S. House,3,Pepper Snyder,LBT,42
+Lagrange,,U.S. House,3,Pepper Snyder,LBT,540
+Lagrange,Bloomfield  I,U.S. House,3,Write-ins,,0
+Lagrange,Bloomfield  II,U.S. House,3,Write-ins,,0
+Lagrange,Bloomfield  III,U.S. House,3,Write-ins,,0
+Lagrange,Bloomfield  IV,U.S. House,3,Write-ins,,0
+Lagrange,Clay,U.S. House,3,Write-ins,,0
+Lagrange,Clearspring,U.S. House,3,Write-ins,,0
+Lagrange,Eden,U.S. House,3,Write-ins,,0
+Lagrange,Greenfield,U.S. House,3,Write-ins,,0
+Lagrange,Johnson North,U.S. House,3,Write-ins,,0
+Lagrange,Johnson South,U.S. House,3,Write-ins,,0
+Lagrange,Lima,U.S. House,3,Write-ins,,0
+Lagrange,Milford  East,U.S. House,3,Write-ins,,0
+Lagrange,Milford  West,U.S. House,3,Write-ins,,0
+Lagrange,Newbury,U.S. House,3,Write-ins,,0
+Lagrange,Springfield,U.S. House,3,Write-ins,,1
+Lagrange,Van  Buren,U.S. House,3,Write-ins,,0
+Lagrange,,U.S. House,3,Write-ins,,1
+Lagrange,Bloomfield  I,State Senate,13,Susan Glick,REP,432
+Lagrange,Bloomfield  II,State Senate,13,Susan Glick,REP,300
+Lagrange,Bloomfield  III,State Senate,13,Susan Glick,REP,266
+Lagrange,Bloomfield  IV,State Senate,13,Susan Glick,REP,407
+Lagrange,Clay,State Senate,13,Susan Glick,REP,436
+Lagrange,Clearspring,State Senate,13,Susan Glick,REP,452
+Lagrange,Eden,State Senate,13,Susan Glick,REP,269
+Lagrange,Greenfield,State Senate,13,Susan Glick,REP,429
+Lagrange,Johnson North,State Senate,13,Susan Glick,REP,499
+Lagrange,Johnson South,State Senate,13,Susan Glick,REP,610
+Lagrange,Lima,State Senate,13,Susan Glick,REP,660
+Lagrange,Milford  East,State Senate,13,Susan Glick,REP,620
+Lagrange,Milford  West,State Senate,13,Susan Glick,REP,353
+Lagrange,Newbury,State Senate,13,Susan Glick,REP,653
+Lagrange,Springfield,State Senate,13,Susan Glick,REP,376
+Lagrange,Van  Buren,State Senate,13,Susan Glick,REP,678
+Lagrange,,State Senate,13,Susan Glick,REP,7440
+Lagrange,Bloomfield  I,State Senate,13,Justin Kuhnle,DEM,156
+Lagrange,Bloomfield  II,State Senate,13,Justin Kuhnle,DEM,107
+Lagrange,Bloomfield  III,State Senate,13,Justin Kuhnle,DEM,85
+Lagrange,Bloomfield  IV,State Senate,13,Justin Kuhnle,DEM,106
+Lagrange,Clay,State Senate,13,Justin Kuhnle,DEM,95
+Lagrange,Clearspring,State Senate,13,Justin Kuhnle,DEM,100
+Lagrange,Eden,State Senate,13,Justin Kuhnle,DEM,56
+Lagrange,Greenfield,State Senate,13,Justin Kuhnle,DEM,122
+Lagrange,Johnson North,State Senate,13,Justin Kuhnle,DEM,130
+Lagrange,Johnson South,State Senate,13,Justin Kuhnle,DEM,185
+Lagrange,Lima,State Senate,13,Justin Kuhnle,DEM,241
+Lagrange,Milford  East,State Senate,13,Justin Kuhnle,DEM,198
+Lagrange,Milford  West,State Senate,13,Justin Kuhnle,DEM,89
+Lagrange,Newbury,State Senate,13,Justin Kuhnle,DEM,151
+Lagrange,Springfield,State Senate,13,Justin Kuhnle,DEM,90
+Lagrange,Van  Buren,State Senate,13,Justin Kuhnle,DEM,136
+Lagrange,,State Senate,13,Justin Kuhnle,DEM,2047
+Lagrange,Bloomfield  I,State House,51,Dennis Zent,REP,465
+Lagrange,Bloomfield  II,State House,51,Dennis Zent,REP,327
+Lagrange,Bloomfield  III,State House,51,Dennis Zent,REP,285
+Lagrange,Bloomfield  IV,State House,51,Dennis Zent,REP,428
+Lagrange,Clay,State House,51,Dennis Zent,REP,435
+Lagrange,Clearspring,State House,51,Dennis Zent,REP,475
+Lagrange,Eden,State House,51,Dennis Zent,REP,290
+Lagrange,Greenfield,State House,51,Dennis Zent,REP,457
+Lagrange,Johnson North,State House,82,David Ober,REP,468
+Lagrange,Johnson South,State House,82,David Ober,REP,607
+Lagrange,Lima,State House,51,Dennis Zent,REP,755
+Lagrange,Milford  East,State House,51,Dennis Zent,REP,688
+Lagrange,Milford  West,State House,51,Dennis Zent,REP,374
+Lagrange,Newbury,State House,51,Dennis Zent,REP,709
+Lagrange,Springfield,State House,51,Dennis Zent,REP,407
+Lagrange,Van  Buren,State House,51,Dennis Zent,REP,710
+Lagrange,,State House,51,Dennis Zent,REP,7880
+Lagrange,,State House,51,Dennis Zent,REP,6805
+Lagrange,,State House,82,David Ober,REP,1075
+Lagrange,Johnson North,State House,82,Mike Wilber,DEM,145
+Lagrange,Johnson South,State House,82,Mike Wilber,DEM,182
+Lagrange,,State House,82,Mike Wilber,DEM,327

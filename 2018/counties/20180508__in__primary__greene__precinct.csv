@@ -1,0 +1,449 @@
+county,precinct,office,district,candidate,party,election_day,absentee,provisional,votes
+Greene,Beech Creek 1,Ballots Cast,,,,54,36,0,90
+Greene,Beech Creek 1,Registered Voters,,,,,,,590
+Greene,Beech Creek 1,U.S. Senate,,Mike Braun,REP,14,19,0,33
+Greene,Beech Creek 1,U.S. Senate,,Luke Messer,REP,9,2,0,11
+Greene,Beech Creek 1,U.S. Senate,,Todd Rokita,REP,14,12,0,26
+Greene,Beech Creek 1,U.S. Senate,,Joe Donnelly,DEM,12,2,0,14
+Greene,Beech Creek 1,U.S. House,8,Larry D. Bucshon,REP,25,30,0,55
+Greene,Beech Creek 1,U.S. House,8,Rachel Covington,REP,4,1,0,5
+Greene,Beech Creek 1,U.S. House,8,Richard Moss,REP,10,2,0,12
+Greene,Beech Creek 1,U.S. House,8,William Tanoos,DEM,11,2,0,13
+Greene,Beech Creek 1,State Senate,39,Eric S. Bassler,REP,33,28,0,61
+Greene,Beech Creek 1,State Senate,39,No Candidate Filed,DEM,0,0,0,0
+Greene,Beech Creek 1,State House,62,Jeff Ellington,REP,35,24,0,59
+Greene,Beech Creek 1,State House,62,Amy Swain,DEM,11,2,0,13
+Greene,Beech Creek 2,Ballots Cast,,,,95,8,0,103
+Greene,Beech Creek 2,Registered Voters,,,,,,,624
+Greene,Beech Creek 2,U.S. Senate,,Mike Braun,REP,33,3,0,36
+Greene,Beech Creek 2,U.S. Senate,,Luke Messer,REP,14,0,0,14
+Greene,Beech Creek 2,U.S. Senate,,Todd Rokita,REP,21,0,0,21
+Greene,Beech Creek 2,U.S. Senate,,Joe Donnelly,DEM,22,5,0,27
+Greene,Beech Creek 2,U.S. House,8,Larry D. Bucshon,REP,44,0,0,44
+Greene,Beech Creek 2,U.S. House,8,Rachel Covington,REP,13,2,0,15
+Greene,Beech Creek 2,U.S. House,8,Richard Moss,REP,11,0,0,11
+Greene,Beech Creek 2,U.S. House,8,William Tanoos,DEM,21,4,0,25
+Greene,Beech Creek 2,State Senate,39,Eric S. Bassler,REP,59,2,0,61
+Greene,Beech Creek 2,State Senate,39,No Candidate Filed,DEM,0,0,0,0
+Greene,Beech Creek 2,State House,62,Jeff Ellington,REP,61,2,0,63
+Greene,Beech Creek 2,State House,62,Amy Swain,DEM,23,4,0,27
+Greene,Cass,Ballots Cast,,,,27,10,0,37
+Greene,Cass,Registered Voters,,,,,,,181
+Greene,Cass,U.S. Senate,,Mike Braun,REP,3,2,0,5
+Greene,Cass,U.S. Senate,,Luke Messer,REP,4,0,0,4
+Greene,Cass,U.S. Senate,,Todd Rokita,REP,3,3,0,6
+Greene,Cass,U.S. Senate,,Joe Donnelly,DEM,13,4,0,17
+Greene,Cass,U.S. House,8,Larry D. Bucshon,REP,5,4,0,9
+Greene,Cass,U.S. House,8,Rachel Covington,REP,1,1,0,2
+Greene,Cass,U.S. House,8,Richard Moss,REP,4,0,0,4
+Greene,Cass,U.S. House,8,William Tanoos,DEM,12,3,0,15
+Greene,Cass,State Senate,39,Eric S. Bassler,REP,5,4,0,9
+Greene,Cass,State Senate,39,No Candidate Filed,DEM,0,0,0,0
+Greene,Cass,State House,62,Jeff Ellington,REP,6,4,0,10
+Greene,Cass,State House,62,Amy Swain,DEM,10,4,0,14
+Greene,Center 1,Ballots Cast,,,,70,18,0,88
+Greene,Center 1,Registered Voters,,,,,,,601
+Greene,Center 1,U.S. Senate,,Mike Braun,REP,25,5,0,30
+Greene,Center 1,U.S. Senate,,Luke Messer,REP,13,1,0,14
+Greene,Center 1,U.S. Senate,,Todd Rokita,REP,14,6,0,20
+Greene,Center 1,U.S. Senate,,Joe Donnelly,DEM,18,6,0,24
+Greene,Center 1,U.S. House,8,Larry D. Bucshon,REP,32,8,0,40
+Greene,Center 1,U.S. House,8,Rachel Covington,REP,2,3,0,5
+Greene,Center 1,U.S. House,8,Richard Moss,REP,16,1,0,17
+Greene,Center 1,U.S. House,8,William Tanoos,DEM,16,6,0,22
+Greene,Center 1,State Senate,39,Eric S. Bassler,REP,42,11,0,53
+Greene,Center 1,State Senate,39,No Candidate Filed,DEM,0,0,0,0
+Greene,Center 1,State House,62,Jeff Ellington,REP,44,9,0,53
+Greene,Center 1,State House,62,Amy Swain,DEM,18,6,0,24
+Greene,Center 2,Ballots Cast,,,,107,57,0,164
+Greene,Center 2,Registered Voters,,,,,,,1201
+Greene,Center 2,U.S. Senate,,Mike Braun,REP,46,16,0,62
+Greene,Center 2,U.S. Senate,,Luke Messer,REP,20,3,0,23
+Greene,Center 2,U.S. Senate,,Todd Rokita,REP,17,14,0,31
+Greene,Center 2,U.S. Senate,,Joe Donnelly,DEM,19,20,0,39
+Greene,Center 2,U.S. House,8,Larry D. Bucshon,REP,47,28,0,75
+Greene,Center 2,U.S. House,8,Rachel Covington,REP,14,4,0,18
+Greene,Center 2,U.S. House,8,Richard Moss,REP,23,2,0,25
+Greene,Center 2,U.S. House,8,William Tanoos,DEM,19,20,0,39
+Greene,Center 2,State Senate,39,Eric S. Bassler,REP,75,33,0,108
+Greene,Center 2,State Senate,39,No Candidate Filed,DEM,0,0,0,0
+Greene,Center 2,State House,62,Jeff Ellington,REP,77,34,0,111
+Greene,Center 2,State House,62,Amy Swain,DEM,22,17,0,39
+Greene,Fairplay,Ballots Cast,,,,83,14,0,97
+Greene,Fairplay,Registered Voters,,,,,,,363
+Greene,Fairplay,U.S. Senate,,Mike Braun,REP,33,8,0,41
+Greene,Fairplay,U.S. Senate,,Luke Messer,REP,11,0,0,11
+Greene,Fairplay,U.S. Senate,,Todd Rokita,REP,9,0,0,9
+Greene,Fairplay,U.S. Senate,,Joe Donnelly,DEM,22,5,0,27
+Greene,Fairplay,U.S. House,8,Larry D. Bucshon,REP,34,6,0,40
+Greene,Fairplay,U.S. House,8,Rachel Covington,REP,8,2,0,10
+Greene,Fairplay,U.S. House,8,Richard Moss,REP,12,0,0,12
+Greene,Fairplay,U.S. House,8,William Tanoos,DEM,19,4,0,23
+Greene,Fairplay,State Senate,39,Eric S. Bassler,REP,49,8,0,57
+Greene,Fairplay,State Senate,39,No Candidate Filed,DEM,0,0,0,0
+Greene,Fairplay,State House,62,Jeff Ellington,REP,50,7,0,57
+Greene,Fairplay,State House,62,Amy Swain,DEM,20,4,0,24
+Greene,Grant,Ballots Cast,,,,73,30,0,103
+Greene,Grant,Registered Voters,,,,,,,430
+Greene,Grant,U.S. Senate,,Mike Braun,REP,34,14,0,48
+Greene,Grant,U.S. Senate,,Luke Messer,REP,11,3,0,14
+Greene,Grant,U.S. Senate,,Todd Rokita,REP,11,4,0,15
+Greene,Grant,U.S. Senate,,Joe Donnelly,DEM,11,4,0,15
+Greene,Grant,U.S. House,8,Larry D. Bucshon,REP,41,15,0,56
+Greene,Grant,U.S. House,8,Rachel Covington,REP,5,3,0,8
+Greene,Grant,U.S. House,8,Richard Moss,REP,13,1,0,14
+Greene,Grant,U.S. House,8,William Tanoos,DEM,9,4,0,13
+Greene,Grant,State Senate,39,Eric S. Bassler,REP,52,18,0,70
+Greene,Grant,State Senate,39,No Candidate Filed,DEM,0,0,0,0
+Greene,Grant,State House,62,Jeff Ellington,REP,54,19,0,73
+Greene,Grant,State House,62,Amy Swain,DEM,11,4,0,15
+Greene,Highland,Ballots Cast,,,,40,22,0,62
+Greene,Highland,Registered Voters,,,,,,,457
+Greene,Highland,U.S. Senate,,Mike Braun,REP,14,4,0,18
+Greene,Highland,U.S. Senate,,Luke Messer,REP,13,3,0,16
+Greene,Highland,U.S. Senate,,Todd Rokita,REP,9,6,0,15
+Greene,Highland,U.S. Senate,,Joe Donnelly,DEM,1,4,0,5
+Greene,Highland,U.S. House,8,Larry D. Bucshon,REP,19,6,0,25
+Greene,Highland,U.S. House,8,Rachel Covington,REP,4,4,0,8
+Greene,Highland,U.S. House,8,Richard Moss,REP,13,3,0,16
+Greene,Highland,U.S. House,8,William Tanoos,DEM,1,5,0,6
+Greene,Highland,State Senate,39,Eric S. Bassler,REP,36,11,0,47
+Greene,Highland,State Senate,39,No Candidate Filed,DEM,0,0,0,0
+Greene,Highland,State House,62,Jeff Ellington,REP,33,10,0,43
+Greene,Highland,State House,62,Amy Swain,DEM,1,5,0,6
+Greene,Jackson,Ballots Cast,,,,182,36,0,218
+Greene,Jackson,Registered Voters,,,,,,,1068
+Greene,Jackson,U.S. Senate,,Mike Braun,REP,66,13,0,79
+Greene,Jackson,U.S. Senate,,Luke Messer,REP,29,7,0,36
+Greene,Jackson,U.S. Senate,,Todd Rokita,REP,35,7,0,42
+Greene,Jackson,U.S. Senate,,Joe Donnelly,DEM,32,8,0,40
+Greene,Jackson,U.S. House,8,Larry D. Bucshon,REP,75,19,0,94
+Greene,Jackson,U.S. House,8,Rachel Covington,REP,22,4,0,26
+Greene,Jackson,U.S. House,8,Richard Moss,REP,34,4,0,38
+Greene,Jackson,U.S. House,8,William Tanoos,DEM,29,6,0,35
+Greene,Jackson,State Senate,39,Eric S. Bassler,REP,109,21,0,130
+Greene,Jackson,State Senate,39,No Candidate Filed,DEM,0,0,0,0
+Greene,Jackson,State House,62,Jeff Ellington,REP,111,21,0,132
+Greene,Jackson,State House,62,Amy Swain,DEM,27,7,0,34
+Greene,Jefferson 1,Ballots Cast,,,,161,25,0,186
+Greene,Jefferson 1,Registered Voters,,,,,,,659
+Greene,Jefferson 1,U.S. Senate,,Mike Braun,REP,62,9,0,71
+Greene,Jefferson 1,U.S. Senate,,Luke Messer,REP,28,1,0,29
+Greene,Jefferson 1,U.S. Senate,,Todd Rokita,REP,19,5,0,24
+Greene,Jefferson 1,U.S. Senate,,Joe Donnelly,DEM,31,9,0,40
+Greene,Jefferson 1,U.S. House,8,Larry D. Bucshon,REP,67,13,0,80
+Greene,Jefferson 1,U.S. House,8,Rachel Covington,REP,18,2,0,20
+Greene,Jefferson 1,U.S. House,8,Richard Moss,REP,27,1,0,28
+Greene,Jefferson 1,U.S. House,8,William Tanoos,DEM,33,8,0,41
+Greene,Jefferson 1,State Senate,39,Eric S. Bassler,REP,101,15,0,116
+Greene,Jefferson 1,State Senate,39,No Candidate Filed,DEM,0,0,0,0
+Greene,Jefferson 1,State House,62,Jeff Ellington,REP,105,15,0,120
+Greene,Jefferson 1,State House,62,Amy Swain,DEM,30,7,0,37
+Greene,Jefferson 2,Ballots Cast,,,,141,35,0,176
+Greene,Jefferson 2,Registered Voters,,,,,,,594
+Greene,Jefferson 2,U.S. Senate,,Mike Braun,REP,47,10,0,57
+Greene,Jefferson 2,U.S. Senate,,Luke Messer,REP,28,6,0,34
+Greene,Jefferson 2,U.S. Senate,,Todd Rokita,REP,22,7,0,29
+Greene,Jefferson 2,U.S. Senate,,Joe Donnelly,DEM,26,6,0,32
+Greene,Jefferson 2,U.S. House,8,Larry D. Bucshon,REP,60,15,0,75
+Greene,Jefferson 2,U.S. House,8,Rachel Covington,REP,19,2,0,21
+Greene,Jefferson 2,U.S. House,8,Richard Moss,REP,22,6,0,28
+Greene,Jefferson 2,U.S. House,8,William Tanoos,DEM,23,7,0,30
+Greene,Jefferson 2,State Senate,39,Eric S. Bassler,REP,94,19,0,113
+Greene,Jefferson 2,State Senate,39,No Candidate Filed,DEM,0,0,0,0
+Greene,Jefferson 2,State House,62,Jeff Ellington,REP,96,19,0,115
+Greene,Jefferson 2,State House,62,Amy Swain,DEM,20,7,0,27
+Greene,Richland 1,Ballots Cast,,,,135,62,0,197
+Greene,Richland 1,Registered Voters,,,,,,,806
+Greene,Richland 1,U.S. Senate,,Mike Braun,REP,48,25,0,73
+Greene,Richland 1,U.S. Senate,,Luke Messer,REP,28,6,0,34
+Greene,Richland 1,U.S. Senate,,Todd Rokita,REP,31,9,0,40
+Greene,Richland 1,U.S. Senate,,Joe Donnelly,DEM,15,17,0,32
+Greene,Richland 1,U.S. House,8,Larry D. Bucshon,REP,61,31,0,92
+Greene,Richland 1,U.S. House,8,Rachel Covington,REP,12,4,0,16
+Greene,Richland 1,U.S. House,8,Richard Moss,REP,34,6,0,40
+Greene,Richland 1,U.S. House,8,William Tanoos,DEM,16,17,0,33
+Greene,Richland 1,State Senate,39,Eric S. Bassler,REP,95,38,0,133
+Greene,Richland 1,State Senate,39,No Candidate Filed,DEM,0,0,0,0
+Greene,Richland 1,State House,62,Jeff Ellington,REP,95,36,0,131
+Greene,Richland 1,State House,62,Amy Swain,DEM,14,16,0,30
+Greene,Richland 2,Ballots Cast,,,,109,74,0,183
+Greene,Richland 2,Registered Voters,,,,,,,723
+Greene,Richland 2,U.S. Senate,,Mike Braun,REP,36,20,0,56
+Greene,Richland 2,U.S. Senate,,Luke Messer,REP,24,10,0,34
+Greene,Richland 2,U.S. Senate,,Todd Rokita,REP,24,24,0,48
+Greene,Richland 2,U.S. Senate,,Joe Donnelly,DEM,16,15,0,31
+Greene,Richland 2,U.S. House,8,Larry D. Bucshon,REP,58,39,0,97
+Greene,Richland 2,U.S. House,8,Rachel Covington,REP,9,5,0,14
+Greene,Richland 2,U.S. House,8,Richard Moss,REP,18,13,0,31
+Greene,Richland 2,U.S. House,8,William Tanoos,DEM,18,11,0,29
+Greene,Richland 2,State Senate,39,Eric S. Bassler,REP,80,49,0,129
+Greene,Richland 2,State Senate,39,No Candidate Filed,DEM,0,0,0,0
+Greene,Richland 2,State House,62,Jeff Ellington,REP,81,52,0,133
+Greene,Richland 2,State House,62,Amy Swain,DEM,14,11,0,25
+Greene,Richland 3,Ballots Cast,,,,140,47,0,187
+Greene,Richland 3,Registered Voters,,,,,,,613
+Greene,Richland 3,U.S. Senate,,Mike Braun,REP,46,23,0,69
+Greene,Richland 3,U.S. Senate,,Luke Messer,REP,25,5,0,30
+Greene,Richland 3,U.S. Senate,,Todd Rokita,REP,23,8,0,31
+Greene,Richland 3,U.S. Senate,,Joe Donnelly,DEM,26,8,0,34
+Greene,Richland 3,U.S. House,8,Larry D. Bucshon,REP,48,24,0,72
+Greene,Richland 3,U.S. House,8,Rachel Covington,REP,10,3,0,13
+Greene,Richland 3,U.S. House,8,Richard Moss,REP,42,11,0,53
+Greene,Richland 3,U.S. House,8,William Tanoos,DEM,27,8,0,35
+Greene,Richland 3,State Senate,39,Eric S. Bassler,REP,82,29,0,111
+Greene,Richland 3,State Senate,39,No Candidate Filed,DEM,0,0,0,0
+Greene,Richland 3,State House,62,Jeff Ellington,REP,85,33,0,118
+Greene,Richland 3,State House,62,Amy Swain,DEM,26,7,0,33
+Greene,Richland 4,Ballots Cast,,,,134,35,0,169
+Greene,Richland 4,Registered Voters,,,,,,,716
+Greene,Richland 4,U.S. Senate,,Mike Braun,REP,49,14,0,63
+Greene,Richland 4,U.S. Senate,,Luke Messer,REP,20,2,0,22
+Greene,Richland 4,U.S. Senate,,Todd Rokita,REP,32,11,0,43
+Greene,Richland 4,U.S. Senate,,Joe Donnelly,DEM,20,7,0,27
+Greene,Richland 4,U.S. House,8,Larry D. Bucshon,REP,51,22,0,73
+Greene,Richland 4,U.S. House,8,Rachel Covington,REP,16,2,0,18
+Greene,Richland 4,U.S. House,8,Richard Moss,REP,35,3,0,38
+Greene,Richland 4,U.S. House,8,William Tanoos,DEM,19,8,0,27
+Greene,Richland 4,State Senate,39,Eric S. Bassler,REP,88,21,0,109
+Greene,Richland 4,State Senate,39,No Candidate Filed,DEM,0,0,0,0
+Greene,Richland 4,State House,62,Jeff Ellington,REP,93,22,0,115
+Greene,Richland 4,State House,62,Amy Swain,DEM,19,7,0,26
+Greene,Smith,Ballots Cast,,,,44,21,0,65
+Greene,Smith,Registered Voters,,,,,,,232
+Greene,Smith,U.S. Senate,,Mike Braun,REP,20,12,0,32
+Greene,Smith,U.S. Senate,,Luke Messer,REP,9,3,0,12
+Greene,Smith,U.S. Senate,,Todd Rokita,REP,7,4,0,11
+Greene,Smith,U.S. Senate,,Joe Donnelly,DEM,4,1,0,5
+Greene,Smith,U.S. House,8,Larry D. Bucshon,REP,20,13,0,33
+Greene,Smith,U.S. House,8,Rachel Covington,REP,4,1,0,5
+Greene,Smith,U.S. House,8,Richard Moss,REP,11,6,0,17
+Greene,Smith,U.S. House,8,William Tanoos,DEM,5,1,0,6
+Greene,Smith,State Senate,39,Eric S. Bassler,REP,29,18,0,47
+Greene,Smith,State Senate,39,No Candidate Filed,DEM,0,0,0,0
+Greene,Smith,State House,62,Jeff Ellington,REP,29,18,0,47
+Greene,Smith,State House,62,Amy Swain,DEM,2,1,0,3
+Greene,Stafford,Ballots Cast,,,,64,10,0,74
+Greene,Stafford,Registered Voters,,,,,,,299
+Greene,Stafford,U.S. Senate,,Mike Braun,REP,23,5,0,28
+Greene,Stafford,U.S. Senate,,Luke Messer,REP,9,0,0,9
+Greene,Stafford,U.S. Senate,,Todd Rokita,REP,12,1,0,13
+Greene,Stafford,U.S. Senate,,Joe Donnelly,DEM,12,4,0,16
+Greene,Stafford,U.S. House,8,Larry D. Bucshon,REP,27,4,0,31
+Greene,Stafford,U.S. House,8,Rachel Covington,REP,7,0,0,7
+Greene,Stafford,U.S. House,8,Richard Moss,REP,15,2,0,17
+Greene,Stafford,U.S. House,8,William Tanoos,DEM,11,4,0,15
+Greene,Stafford,State Senate,39,Eric S. Bassler,REP,44,6,0,50
+Greene,Stafford,State Senate,39,No Candidate Filed,DEM,0,0,0,0
+Greene,Stafford,State House,62,Jeff Ellington,REP,43,6,0,49
+Greene,Stafford,State House,62,Amy Swain,DEM,11,4,0,15
+Greene,Stockton 1,Ballots Cast,,,,103,23,0,126
+Greene,Stockton 1,Registered Voters,,,,,,,618
+Greene,Stockton 1,U.S. Senate,,Mike Braun,REP,32,10,0,42
+Greene,Stockton 1,U.S. Senate,,Luke Messer,REP,15,1,0,16
+Greene,Stockton 1,U.S. Senate,,Todd Rokita,REP,13,3,0,16
+Greene,Stockton 1,U.S. Senate,,Joe Donnelly,DEM,31,8,0,39
+Greene,Stockton 1,U.S. House,8,Larry D. Bucshon,REP,40,9,0,49
+Greene,Stockton 1,U.S. House,8,Rachel Covington,REP,8,0,0,8
+Greene,Stockton 1,U.S. House,8,Richard Moss,REP,14,6,0,20
+Greene,Stockton 1,U.S. House,8,William Tanoos,DEM,34,8,0,42
+Greene,Stockton 1,State Senate,39,Eric S. Bassler,REP,56,15,0,71
+Greene,Stockton 1,State Senate,39,No Candidate Filed,DEM,0,0,0,0
+Greene,Stockton 1,State House,62,Jeff Ellington,REP,58,14,0,72
+Greene,Stockton 1,State House,62,Amy Swain,DEM,32,6,0,38
+Greene,Stockton 2,Ballots Cast,,,,206,46,0,252
+Greene,Stockton 2,Registered Voters,,,,,,,1249
+Greene,Stockton 2,U.S. Senate,,Mike Braun,REP,63,16,0,79
+Greene,Stockton 2,U.S. Senate,,Luke Messer,REP,34,2,0,36
+Greene,Stockton 2,U.S. Senate,,Todd Rokita,REP,30,9,0,39
+Greene,Stockton 2,U.S. Senate,,Joe Donnelly,DEM,67,14,0,81
+Greene,Stockton 2,U.S. House,8,Larry D. Bucshon,REP,79,23,0,102
+Greene,Stockton 2,U.S. House,8,Rachel Covington,REP,12,1,0,13
+Greene,Stockton 2,U.S. House,8,Richard Moss,REP,38,5,0,43
+Greene,Stockton 2,U.S. House,8,William Tanoos,DEM,66,12,0,78
+Greene,Stockton 2,State Senate,39,Eric S. Bassler,REP,113,22,0,135
+Greene,Stockton 2,State Senate,39,No Candidate Filed,DEM,0,0,0,0
+Greene,Stockton 2,State House,62,Jeff Ellington,REP,116,28,0,144
+Greene,Stockton 2,State House,62,Amy Swain,DEM,60,12,0,72
+Greene,Stockton 3,Ballots Cast,,,,93,54,0,147
+Greene,Stockton 3,Registered Voters,,,,,,,577
+Greene,Stockton 3,U.S. Senate,,Mike Braun,REP,28,13,0,41
+Greene,Stockton 3,U.S. Senate,,Luke Messer,REP,9,6,0,15
+Greene,Stockton 3,U.S. Senate,,Todd Rokita,REP,18,4,0,22
+Greene,Stockton 3,U.S. Senate,,Joe Donnelly,DEM,29,26,0,55
+Greene,Stockton 3,U.S. House,8,Larry D. Bucshon,REP,27,16,0,43
+Greene,Stockton 3,U.S. House,8,Rachel Covington,REP,6,2,0,8
+Greene,Stockton 3,U.S. House,8,Richard Moss,REP,22,10,0,32
+Greene,Stockton 3,U.S. House,8,William Tanoos,DEM,25,23,0,48
+Greene,Stockton 3,State Senate,39,Eric S. Bassler,REP,50,21,0,71
+Greene,Stockton 3,State Senate,39,No Candidate Filed,DEM,0,0,0,0
+Greene,Stockton 3,State House,62,Jeff Ellington,REP,50,22,0,72
+Greene,Stockton 3,State House,62,Amy Swain,DEM,25,25,0,50
+Greene,Stockton 4,Ballots Cast,,,,92,39,0,131
+Greene,Stockton 4,Registered Voters,,,,,,,580
+Greene,Stockton 4,U.S. Senate,,Mike Braun,REP,29,12,0,41
+Greene,Stockton 4,U.S. Senate,,Luke Messer,REP,7,6,0,13
+Greene,Stockton 4,U.S. Senate,,Todd Rokita,REP,12,4,0,16
+Greene,Stockton 4,U.S. Senate,,Joe Donnelly,DEM,38,13,0,51
+Greene,Stockton 4,U.S. House,8,Larry D. Bucshon,REP,32,15,0,47
+Greene,Stockton 4,U.S. House,8,Rachel Covington,REP,5,0,0,5
+Greene,Stockton 4,U.S. House,8,Richard Moss,REP,11,7,0,18
+Greene,Stockton 4,U.S. House,8,William Tanoos,DEM,34,15,0,49
+Greene,Stockton 4,State Senate,39,Eric S. Bassler,REP,46,19,0,65
+Greene,Stockton 4,State Senate,39,No Candidate Filed,DEM,0,0,0,0
+Greene,Stockton 4,State House,62,Jeff Ellington,REP,45,20,0,65
+Greene,Stockton 4,State House,62,Amy Swain,DEM,34,14,0,48
+Greene,Stockton 5,Ballots Cast,,,,84,24,0,108
+Greene,Stockton 5,Registered Voters,,,,,,,515
+Greene,Stockton 5,U.S. Senate,,Mike Braun,REP,25,7,0,32
+Greene,Stockton 5,U.S. Senate,,Luke Messer,REP,8,1,0,9
+Greene,Stockton 5,U.S. Senate,,Todd Rokita,REP,10,1,0,11
+Greene,Stockton 5,U.S. Senate,,Joe Donnelly,DEM,35,13,0,48
+Greene,Stockton 5,U.S. House,8,Larry D. Bucshon,REP,21,7,0,28
+Greene,Stockton 5,U.S. House,8,Rachel Covington,REP,5,1,0,6
+Greene,Stockton 5,U.S. House,8,Richard Moss,REP,18,1,0,19
+Greene,Stockton 5,U.S. House,8,William Tanoos,DEM,33,10,0,43
+Greene,Stockton 5,State Senate,39,Eric S. Bassler,REP,39,10,0,49
+Greene,Stockton 5,State Senate,39,No Candidate Filed,DEM,0,0,0,0
+Greene,Stockton 5,State House,62,Jeff Ellington,REP,40,9,0,49
+Greene,Stockton 5,State House,62,Amy Swain,DEM,34,10,0,44
+Greene,Stockton 6,Ballots Cast,,,,152,54,0,206
+Greene,Stockton 6,Registered Voters,,,,,,,665
+Greene,Stockton 6,U.S. Senate,,Mike Braun,REP,37,13,0,50
+Greene,Stockton 6,U.S. Senate,,Luke Messer,REP,29,6,0,35
+Greene,Stockton 6,U.S. Senate,,Todd Rokita,REP,25,8,0,33
+Greene,Stockton 6,U.S. Senate,,Joe Donnelly,DEM,46,22,0,68
+Greene,Stockton 6,U.S. House,8,Larry D. Bucshon,REP,61,20,0,81
+Greene,Stockton 6,U.S. House,8,Rachel Covington,REP,8,4,0,12
+Greene,Stockton 6,U.S. House,8,Richard Moss,REP,23,4,0,27
+Greene,Stockton 6,U.S. House,8,William Tanoos,DEM,41,18,0,59
+Greene,Stockton 6,State Senate,39,Eric S. Bassler,REP,78,25,0,103
+Greene,Stockton 6,State Senate,39,No Candidate Filed,DEM,0,0,0,0
+Greene,Stockton 6,State House,62,Jeff Ellington,REP,82,25,0,107
+Greene,Stockton 6,State House,62,Amy Swain,DEM,39,20,0,59
+Greene,Stockton 7,Ballots Cast,,,,125,42,0,167
+Greene,Stockton 7,Registered Voters,,,,,,,671
+Greene,Stockton 7,U.S. Senate,,Mike Braun,REP,44,23,0,67
+Greene,Stockton 7,U.S. Senate,,Luke Messer,REP,19,4,0,23
+Greene,Stockton 7,U.S. Senate,,Todd Rokita,REP,15,2,0,17
+Greene,Stockton 7,U.S. Senate,,Joe Donnelly,DEM,33,8,0,41
+Greene,Stockton 7,U.S. House,8,Larry D. Bucshon,REP,47,19,0,66
+Greene,Stockton 7,U.S. House,8,Rachel Covington,REP,10,4,0,14
+Greene,Stockton 7,U.S. House,8,Richard Moss,REP,21,6,0,27
+Greene,Stockton 7,U.S. House,8,William Tanoos,DEM,35,9,0,44
+Greene,Stockton 7,State Senate,39,Eric S. Bassler,REP,67,23,0,90
+Greene,Stockton 7,State Senate,39,No Candidate Filed,DEM,0,0,0,0
+Greene,Stockton 7,State House,62,Jeff Ellington,REP,74,26,0,100
+Greene,Stockton 7,State House,62,Amy Swain,DEM,34,8,0,42
+Greene,Taylor,Ballots Cast,,,,144,42,0,186
+Greene,Taylor,Registered Voters,,,,,,,758
+Greene,Taylor,U.S. Senate,,Mike Braun,REP,62,18,0,80
+Greene,Taylor,U.S. Senate,,Luke Messer,REP,32,9,0,41
+Greene,Taylor,U.S. Senate,,Todd Rokita,REP,22,4,0,26
+Greene,Taylor,U.S. Senate,,Joe Donnelly,DEM,19,10,0,29
+Greene,Taylor,U.S. House,8,Larry D. Bucshon,REP,62,16,0,78
+Greene,Taylor,U.S. House,8,Rachel Covington,REP,15,6,0,21
+Greene,Taylor,U.S. House,8,Richard Moss,REP,42,10,0,52
+Greene,Taylor,U.S. House,8,William Tanoos,DEM,16,9,0,25
+Greene,Taylor,State Senate,39,Eric S. Bassler,REP,108,25,0,133
+Greene,Taylor,State Senate,39,No Candidate Filed,DEM,0,0,0,0
+Greene,Taylor,State House,62,Jeff Ellington,REP,111,23,0,134
+Greene,Taylor,State House,62,Amy Swain,DEM,19,5,0,24
+Greene,Washington 1,Ballots Cast,,,,46,12,0,58
+Greene,Washington 1,Registered Voters,,,,,,,274
+Greene,Washington 1,U.S. Senate,,Mike Braun,REP,18,6,0,24
+Greene,Washington 1,U.S. Senate,,Luke Messer,REP,11,0,0,11
+Greene,Washington 1,U.S. Senate,,Todd Rokita,REP,8,2,0,10
+Greene,Washington 1,U.S. Senate,,Joe Donnelly,DEM,7,2,0,9
+Greene,Washington 1,U.S. House,8,Larry D. Bucshon,REP,17,7,0,24
+Greene,Washington 1,U.S. House,8,Rachel Covington,REP,6,1,0,7
+Greene,Washington 1,U.S. House,8,Richard Moss,REP,15,0,0,15
+Greene,Washington 1,U.S. House,8,William Tanoos,DEM,7,2,0,9
+Greene,Washington 1,State Senate,39,Eric S. Bassler,REP,34,9,0,43
+Greene,Washington 1,State Senate,39,No Candidate Filed,DEM,0,0,0,0
+Greene,Washington 1,State House,62,Jeff Ellington,REP,35,9,0,44
+Greene,Washington 1,State House,62,Amy Swain,DEM,6,2,0,8
+Greene,Washington 2,Ballots Cast,,,,78,10,0,88
+Greene,Washington 2,Registered Voters,,,,,,,330
+Greene,Washington 2,U.S. Senate,,Mike Braun,REP,24,3,0,27
+Greene,Washington 2,U.S. Senate,,Luke Messer,REP,20,1,0,21
+Greene,Washington 2,U.S. Senate,,Todd Rokita,REP,7,1,0,8
+Greene,Washington 2,U.S. Senate,,Joe Donnelly,DEM,24,5,0,29
+Greene,Washington 2,U.S. House,8,Larry D. Bucshon,REP,28,2,0,30
+Greene,Washington 2,U.S. House,8,Rachel Covington,REP,4,2,0,6
+Greene,Washington 2,U.S. House,8,Richard Moss,REP,20,1,0,21
+Greene,Washington 2,U.S. House,8,William Tanoos,DEM,20,4,0,24
+Greene,Washington 2,State Senate,39,Eric S. Bassler,REP,50,4,0,54
+Greene,Washington 2,State Senate,39,No Candidate Filed,DEM,0,0,0,0
+Greene,Washington 2,State House,62,Jeff Ellington,REP,49,4,0,53
+Greene,Washington 2,State House,62,Amy Swain,DEM,22,5,0,27
+Greene,Wright 1,Ballots Cast,,,,58,16,0,74
+Greene,Wright 1,Registered Voters,,,,,,,364
+Greene,Wright 1,U.S. Senate,,Mike Braun,REP,17,3,0,20
+Greene,Wright 1,U.S. Senate,,Luke Messer,REP,8,2,0,10
+Greene,Wright 1,U.S. Senate,,Todd Rokita,REP,9,3,0,12
+Greene,Wright 1,U.S. Senate,,Joe Donnelly,DEM,20,7,0,27
+Greene,Wright 1,U.S. House,8,Larry D. Bucshon,REP,20,9,0,29
+Greene,Wright 1,U.S. House,8,Rachel Covington,REP,3,0,0,3
+Greene,Wright 1,U.S. House,8,Richard Moss,REP,11,0,0,11
+Greene,Wright 1,U.S. House,8,William Tanoos,DEM,18,7,0,25
+Greene,Wright 1,State Senate,39,Eric S. Bassler,REP,31,6,0,37
+Greene,Wright 1,State Senate,39,No Candidate Filed,DEM,0,0,0,0
+Greene,Wright 1,State House,45,Bruce Borders,REP,29,7,0,36
+Greene,Wright 1,State House,45,Jim Exline,DEM,18,7,0,25
+Greene,Wright 2,Ballots Cast,,,,34,4,0,38
+Greene,Wright 2,Registered Voters,,,,,,,256
+Greene,Wright 2,U.S. Senate,,Mike Braun,REP,10,0,0,10
+Greene,Wright 2,U.S. Senate,,Luke Messer,REP,7,0,0,7
+Greene,Wright 2,U.S. Senate,,Todd Rokita,REP,1,0,0,1
+Greene,Wright 2,U.S. Senate,,Joe Donnelly,DEM,13,4,0,17
+Greene,Wright 2,U.S. House,8,Larry D. Bucshon,REP,11,0,0,11
+Greene,Wright 2,U.S. House,8,Rachel Covington,REP,3,0,0,3
+Greene,Wright 2,U.S. House,8,Richard Moss,REP,4,0,0,4
+Greene,Wright 2,U.S. House,8,William Tanoos,DEM,12,4,0,16
+Greene,Wright 2,State Senate,39,Eric S. Bassler,REP,16,0,0,16
+Greene,Wright 2,State Senate,39,No Candidate Filed,DEM,0,0,0,0
+Greene,Wright 2,State House,45,Bruce Borders,REP,13,0,0,13
+Greene,Wright 2,State House,45,Jim Exline,DEM,8,3,0,11
+Greene,Wright 3,Ballots Cast,,,,61,9,0,70
+Greene,Wright 3,Registered Voters,,,,,,,393
+Greene,Wright 3,U.S. Senate,,Mike Braun,REP,21,2,0,23
+Greene,Wright 3,U.S. Senate,,Luke Messer,REP,7,2,0,9
+Greene,Wright 3,U.S. Senate,,Todd Rokita,REP,10,2,0,12
+Greene,Wright 3,U.S. Senate,,Joe Donnelly,DEM,18,3,0,21
+Greene,Wright 3,U.S. House,8,Larry D. Bucshon,REP,23,6,0,29
+Greene,Wright 3,U.S. House,8,Rachel Covington,REP,9,0,0,9
+Greene,Wright 3,U.S. House,8,Richard Moss,REP,7,0,0,7
+Greene,Wright 3,U.S. House,8,William Tanoos,DEM,16,3,0,19
+Greene,Wright 3,State Senate,39,Eric S. Bassler,REP,34,5,0,39
+Greene,Wright 3,State Senate,39,No Candidate Filed,DEM,0,0,0,0
+Greene,Wright 3,State House,45,Bruce Borders,REP,22,3,0,25
+Greene,Wright 3,State House,45,Jim Exline,DEM,15,2,0,17
+Greene,Wright 4,Ballots Cast,,,,63,12,0,75
+Greene,Wright 4,Registered Voters,,,,,,,473
+Greene,Wright 4,U.S. Senate,,Mike Braun,REP,13,6,0,19
+Greene,Wright 4,U.S. Senate,,Luke Messer,REP,11,3,0,14
+Greene,Wright 4,U.S. Senate,,Todd Rokita,REP,13,1,0,14
+Greene,Wright 4,U.S. Senate,,Joe Donnelly,DEM,21,2,0,23
+Greene,Wright 4,U.S. House,8,Larry D. Bucshon,REP,22,5,0,27
+Greene,Wright 4,U.S. House,8,Rachel Covington,REP,6,3,0,9
+Greene,Wright 4,U.S. House,8,Richard Moss,REP,9,2,0,11
+Greene,Wright 4,U.S. House,8,William Tanoos,DEM,22,2,0,24
+Greene,Wright 4,State Senate,39,Eric S. Bassler,REP,33,10,0,43
+Greene,Wright 4,State Senate,39,No Candidate Filed,DEM,0,0,0,0
+Greene,Wright 4,State House,45,Bruce Borders,REP,30,8,0,38
+Greene,Wright 4,State House,45,Jim Exline,DEM,22,2,0,24
+Greene,Wright 5,Ballots Cast,,,,79,17,0,96
+Greene,Wright 5,Registered Voters,,,,,,,586
+Greene,Wright 5,U.S. Senate,,Mike Braun,REP,37,7,0,44
+Greene,Wright 5,U.S. Senate,,Luke Messer,REP,11,0,0,11
+Greene,Wright 5,U.S. Senate,,Todd Rokita,REP,6,3,0,9
+Greene,Wright 5,U.S. Senate,,Joe Donnelly,DEM,21,7,0,28
+Greene,Wright 5,U.S. House,8,Larry D. Bucshon,REP,31,8,0,39
+Greene,Wright 5,U.S. House,8,Rachel Covington,REP,6,0,0,6
+Greene,Wright 5,U.S. House,8,Richard Moss,REP,18,2,0,20
+Greene,Wright 5,U.S. House,8,William Tanoos,DEM,17,6,0,23
+Greene,Wright 5,State Senate,39,Eric S. Bassler,REP,51,6,0,57
+Greene,Wright 5,State Senate,39,No Candidate Filed,DEM,0,0,0,0
+Greene,Wright 5,State House,45,Bruce Borders,REP,39,7,0,46
+Greene,Wright 5,State House,45,Jim Exline,DEM,16,6,0,22

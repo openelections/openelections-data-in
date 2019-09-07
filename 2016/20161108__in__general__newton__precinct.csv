@@ -1,1 +1,497 @@
-county,precinct,office,district,party,candidate,votesNewton,Beaver 1,,,REP,Straight Party,56Newton,Beaver 2,,,REP,Straight Party,77Newton,Colfax,,,REP,Straight Party,21Newton,Grant 1,,,REP,Straight Party,65Newton,Grant 2,,,REP,Straight Party,49Newton,Iroquois 1,,,REP,Straight Party,42Newton,Iroquois 2,,,REP,Straight Party,55Newton,Jackson,,,REP,Straight Party,49Newton,Jefferson 1,,,REP,Straight Party,71Newton,Jefferson 2,,,REP,Straight Party,52Newton,Jefferson 3,,,REP,Straight Party,55Newton,Lake 1,,,REP,Straight Party,122Newton,Lake 2,,,REP,Straight Party,107Newton,Lincoln 1,,,REP,Straight Party,82Newton,Lincoln 2,,,REP,Straight Party,138Newton,Lincoln 3,,,REP,Straight Party,174Newton,McClellan,,,REP,Straight Party,22Newton,Washington,,,REP,Straight Party,29Newton,Total,,,REP,Straight Party,1266Newton,Beaver 1,,,DEM,Straight Party,15Newton,Beaver 2,,,DEM,Straight Party,22Newton,Colfax,,,DEM,Straight Party,7Newton,Grant 1,,,DEM,Straight Party,16Newton,Grant 2,,,DEM,Straight Party,18Newton,Iroquois 1,,,DEM,Straight Party,12Newton,Iroquois 2,,,DEM,Straight Party,12Newton,Jackson,,,DEM,Straight Party,14Newton,Jefferson 1,,,DEM,Straight Party,19Newton,Jefferson 2,,,DEM,Straight Party,28Newton,Jefferson 3,,,DEM,Straight Party,28Newton,Lake 1,,,DEM,Straight Party,48Newton,Lake 2,,,DEM,Straight Party,42Newton,Lincoln 1,,,DEM,Straight Party,36Newton,Lincoln 2,,,DEM,Straight Party,53Newton,Lincoln 3,,,DEM,Straight Party,95Newton,McClellan,,,DEM,Straight Party,9Newton,Washington,,,DEM,Straight Party,4Newton,Total,,,DEM,Straight Party,478Newton,Beaver 1,,,LIB,Straight Party,15Newton,Beaver 2,,,LIB,Straight Party,19Newton,Colfax,,,LIB,Straight Party,11Newton,Grant 1,,,LIB,Straight Party,24Newton,Grant 2,,,LIB,Straight Party,11Newton,Iroquois 1,,,LIB,Straight Party,8Newton,Iroquois 2,,,LIB,Straight Party,11Newton,Jackson,,,LIB,Straight Party,12Newton,Jefferson 1,,,LIB,Straight Party,15Newton,Jefferson 2,,,LIB,Straight Party,27Newton,Jefferson 3,,,LIB,Straight Party,16Newton,Lake 1,,,LIB,Straight Party,23Newton,Lake 2,,,LIB,Straight Party,17Newton,Lincoln 1,,,LIB,Straight Party,22Newton,Lincoln 2,,,LIB,Straight Party,40Newton,Lincoln 3,,,LIB,Straight Party,34Newton,McClellan,,,LIB,Straight Party,5Newton,Washington,,,LIB,Straight Party,4Newton,Total,,,LIB,Straight Party,314Newton,Beaver 1,,,Write-in,Straight Party,2Newton,Beaver 2,,,Write-in,Straight Party,3Newton,Colfax,,,Write-in,Straight Party,1Newton,Grant 1,,,Write-in,Straight Party,3Newton,Grant 2,,,Write-in,Straight Party,2Newton,Iroquois 1,,,Write-in,Straight Party,2Newton,Iroquois 2,,,Write-in,Straight Party,6Newton,Jackson,,,Write-in,Straight Party,3Newton,Jefferson 1,,,Write-in,Straight Party,1Newton,Jefferson 2,,,Write-in,Straight Party,4Newton,Jefferson 3,,,Write-in,Straight Party,5Newton,Lake 1,,,Write-in,Straight Party,4Newton,Lake 2,,,Write-in,Straight Party,4Newton,Lincoln 1,,,Write-in,Straight Party,5Newton,Lincoln 2,,,Write-in,Straight Party,6Newton,Lincoln 3,,,Write-in,Straight Party,10Newton,McClellan,,,Write-in,Straight Party,0Newton,Washington,,,Write-in,Straight Party,4Newton,Total,,,Write-in,Straight Party,65Newton,Beaver 1,President,,REP,Donald Trump,208Newton,Beaver 2,President,,REP,Donald Trump,282Newton,Colfax,President,,REP,Donald Trump,48Newton,Grant 1,President,,REP,Donald Trump,191Newton,Grant 2,President,,REP,Donald Trump,110Newton,Iroquois 1,President,,REP,Donald Trump,133Newton,Iroquois 2,President,,REP,Donald Trump,210Newton,Jackson,President,,REP,Donald Trump,141Newton,Jefferson 1,President,,REP,Donald Trump,174Newton,Jefferson 2,President,,REP,Donald Trump,202Newton,Jefferson 3,President,,REP,Donald Trump,133Newton,Lake 1,President,,REP,Donald Trump,415Newton,Lake 2,President,,REP,Donald Trump,328Newton,Lincoln 1,President,,REP,Donald Trump,321Newton,Lincoln 2,President,,REP,Donald Trump,472Newton,Lincoln 3,President,,REP,Donald Trump,510Newton,McClellan,President,,REP,Donald Trump,69Newton,Washington,President,,REP,Donald Trump,127Newton,Total,President,,REP,Donald Trump,4074Newton,Beaver 1,President,,DEM,Hillary Clinton,48Newton,Beaver 2,President,,DEM,Hillary Clinton,86Newton,Colfax,President,,DEM,Hillary Clinton,16Newton,Grant 1,President,,DEM,Hillary Clinton,52Newton,Grant 2,President,,DEM,Hillary Clinton,42Newton,Iroquois 1,President,,DEM,Hillary Clinton,38Newton,Iroquois 2,President,,DEM,Hillary Clinton,48Newton,Jackson,President,,DEM,Hillary Clinton,46Newton,Jefferson 1,President,,DEM,Hillary Clinton,82Newton,Jefferson 2,President,,DEM,Hillary Clinton,111Newton,Jefferson 3,President,,DEM,Hillary Clinton,70Newton,Lake 1,President,,DEM,Hillary Clinton,138Newton,Lake 2,President,,DEM,Hillary Clinton,115Newton,Lincoln 1,President,,DEM,Hillary Clinton,113Newton,Lincoln 2,President,,DEM,Hillary Clinton,143Newton,Lincoln 3,President,,DEM,Hillary Clinton,212Newton,McClellan,President,,DEM,Hillary Clinton,17Newton,Washington,President,,DEM,Hillary Clinton,26Newton,Total,President,,DEM,Hillary Clinton,1403Newton,Beaver 1,President,,LIB,Gary Johnson,15Newton,Beaver 2,President,,LIB,Gary Johnson,19Newton,Colfax,President,,LIB,Gary Johnson,11Newton,Grant 1,President,,LIB,Gary Johnson,24Newton,Grant 2,President,,LIB,Gary Johnson,11Newton,Iroquois 1,President,,LIB,Gary Johnson,8Newton,Iroquois 2,President,,LIB,Gary Johnson,11Newton,Jackson,President,,LIB,Gary Johnson,12Newton,Jefferson 1,President,,LIB,Gary Johnson,15Newton,Jefferson 2,President,,LIB,Gary Johnson,27Newton,Jefferson 3,President,,LIB,Gary Johnson,16Newton,Lake 1,President,,LIB,Gary Johnson,23Newton,Lake 2,President,,LIB,Gary Johnson,17Newton,Lincoln 1,President,,LIB,Gary Johnson,22Newton,Lincoln 2,President,,LIB,Gary Johnson,40Newton,Lincoln 3,President,,LIB,Gary Johnson,34Newton,McClellan,President,,LIB,Gary Johnson,5Newton,Washington,President,,LIB,Gary Johnson,4Newton,Total,President,,LIB,Gary Johnson,314Newton,Beaver 1,President,,,Write-ins,2Newton,Beaver 2,President,,,Write-ins,3Newton,Colfax,President,,,Write-ins,1Newton,Grant 1,President,,,Write-ins,3Newton,Grant 2,President,,,Write-ins,2Newton,Iroquois 1,President,,,Write-ins,2Newton,Iroquois 2,President,,,Write-ins,6Newton,Jackson,President,,,Write-ins,3Newton,Jefferson 1,President,,,Write-ins,1Newton,Jefferson 2,President,,,Write-ins,4Newton,Jefferson 3,President,,,Write-ins,5Newton,Lake 1,President,,,Write-ins,4Newton,Lake 2,President,,,Write-ins,4Newton,Lincoln 1,President,,,Write-ins,5Newton,Lincoln 2,President,,,Write-ins,6Newton,Lincoln 3,President,,,Write-ins,10Newton,McClellan,President,,,Write-ins,0Newton,Washington,President,,,Write-ins,4Newton,Total,President,,,Write-ins,65Newton,Beaver 1,U.S. Senate,,REP,Todd Young,184Newton,Beaver 2,U.S. Senate,,REP,Todd Young,254Newton,Colfax,U.S. Senate,,REP,Todd Young,56Newton,Grant 1,U.S. Senate,,REP,Todd Young,181Newton,Grant 2,U.S. Senate,,REP,Todd Young,105Newton,Iroquois 1,U.S. Senate,,REP,Todd Young,122Newton,Iroquois 2,U.S. Senate,,REP,Todd Young,200Newton,Jackson,U.S. Senate,,REP,Todd Young,128Newton,Jefferson 1,U.S. Senate,,REP,Todd Young,165Newton,Jefferson 2,U.S. Senate,,REP,Todd Young,207Newton,Jefferson 3,U.S. Senate,,REP,Todd Young,115Newton,Lake 1,U.S. Senate,,REP,Todd Young,369Newton,Lake 2,U.S. Senate,,REP,Todd Young,286Newton,Lincoln 1,U.S. Senate,,REP,Todd Young,276Newton,Lincoln 2,U.S. Senate,,REP,Todd Young,414Newton,Lincoln 3,U.S. Senate,,REP,Todd Young,426Newton,McClellan,U.S. Senate,,REP,Todd Young,58Newton,Washington,U.S. Senate,,REP,Todd Young,124Newton,Total,U.S. Senate,,REP,Todd Young,3670Newton,Beaver 1,U.S. Senate,,DEM,Evan Bayh,69Newton,Beaver 2,U.S. Senate,,DEM,Evan Bayh,115Newton,Colfax,U.S. Senate,,DEM,Evan Bayh,19Newton,Grant 1,U.S. Senate,,DEM,Evan Bayh,76Newton,Grant 2,U.S. Senate,,DEM,Evan Bayh,46Newton,Iroquois 1,U.S. Senate,,DEM,Evan Bayh,41Newton,Iroquois 2,U.S. Senate,,DEM,Evan Bayh,66Newton,Jackson,U.S. Senate,,DEM,Evan Bayh,62Newton,Jefferson 1,U.S. Senate,,DEM,Evan Bayh,86Newton,Jefferson 2,U.S. Senate,,DEM,Evan Bayh,112Newton,Jefferson 3,U.S. Senate,,DEM,Evan Bayh,88Newton,Lake 1,U.S. Senate,,DEM,Evan Bayh,174Newton,Lake 2,U.S. Senate,,DEM,Evan Bayh,156Newton,Lincoln 1,U.S. Senate,,DEM,Evan Bayh,146Newton,Lincoln 2,U.S. Senate,,DEM,Evan Bayh,193Newton,Lincoln 3,U.S. Senate,,DEM,Evan Bayh,273Newton,McClellan,U.S. Senate,,DEM,Evan Bayh,29Newton,Washington,U.S. Senate,,DEM,Evan Bayh,35Newton,Total,U.S. Senate,,DEM,Evan Bayh,1786Newton,Beaver 1,U.S. Senate,,LIB,Lucy Brenton,12Newton,Beaver 2,U.S. Senate,,LIB,Lucy Brenton,8Newton,Colfax,U.S. Senate,,LIB,Lucy Brenton,3Newton,Grant 1,U.S. Senate,,LIB,Lucy Brenton,14Newton,Grant 2,U.S. Senate,,LIB,Lucy Brenton,14Newton,Iroquois 1,U.S. Senate,,LIB,Lucy Brenton,16Newton,Iroquois 2,U.S. Senate,,LIB,Lucy Brenton,14Newton,Jackson,U.S. Senate,,LIB,Lucy Brenton,9Newton,Jefferson 1,U.S. Senate,,LIB,Lucy Brenton,11Newton,Jefferson 2,U.S. Senate,,LIB,Lucy Brenton,26Newton,Jefferson 3,U.S. Senate,,LIB,Lucy Brenton,16Newton,Lake 1,U.S. Senate,,LIB,Lucy Brenton,27Newton,Lake 2,U.S. Senate,,LIB,Lucy Brenton,18Newton,Lincoln 1,U.S. Senate,,LIB,Lucy Brenton,26Newton,Lincoln 2,U.S. Senate,,LIB,Lucy Brenton,38Newton,Lincoln 3,U.S. Senate,,LIB,Lucy Brenton,56Newton,McClellan,U.S. Senate,,LIB,Lucy Brenton,1Newton,Washington,U.S. Senate,,LIB,Lucy Brenton,4Newton,Total,U.S. Senate,,LIB,Lucy Brenton,313Newton,Beaver 1,U.S. Senate,,,Write-ins,0Newton,Beaver 2,U.S. Senate,,,Write-ins,0Newton,Colfax,U.S. Senate,,,Write-ins,0Newton,Grant 1,U.S. Senate,,,Write-ins,0Newton,Grant 2,U.S. Senate,,,Write-ins,0Newton,Iroquois 1,U.S. Senate,,,Write-ins,1Newton,Iroquois 2,U.S. Senate,,,Write-ins,2Newton,Jackson,U.S. Senate,,,Write-ins,0Newton,Jefferson 1,U.S. Senate,,,Write-ins,0Newton,Jefferson 2,U.S. Senate,,,Write-ins,1Newton,Jefferson 3,U.S. Senate,,,Write-ins,0Newton,Lake 1,U.S. Senate,,,Write-ins,1Newton,Lake 2,U.S. Senate,,,Write-ins,1Newton,Lincoln 1,U.S. Senate,,,Write-ins,0Newton,Lincoln 2,U.S. Senate,,,Write-ins,0Newton,Lincoln 3,U.S. Senate,,,Write-ins,0Newton,McClellan,U.S. Senate,,,Write-ins,0Newton,Washington,U.S. Senate,,,Write-ins,0Newton,Total,U.S. Senate,,,Write-ins,6Newton,Beaver 1,Governor,,REP,Eric Holcomb,180Newton,Beaver 2,Governor,,REP,Eric Holcomb,256Newton,Colfax,Governor,,REP,Eric Holcomb,50Newton,Grant 1,Governor,,REP,Eric Holcomb,172Newton,Grant 2,Governor,,REP,Eric Holcomb,101Newton,Iroquois 1,Governor,,REP,Eric Holcomb,123Newton,Iroquois 2,Governor,,REP,Eric Holcomb,193Newton,Jackson,Governor,,REP,Eric Holcomb,131Newton,Jefferson 1,Governor,,REP,Eric Holcomb,162Newton,Jefferson 2,Governor,,REP,Eric Holcomb,194Newton,Jefferson 3,Governor,,REP,Eric Holcomb,121Newton,Lake 1,Governor,,REP,Eric Holcomb,337Newton,Lake 2,Governor,,REP,Eric Holcomb,268Newton,Lincoln 1,Governor,,REP,Eric Holcomb,263Newton,Lincoln 2,Governor,,REP,Eric Holcomb,374Newton,Lincoln 3,Governor,,REP,Eric Holcomb,380Newton,McClellan,Governor,,REP,Eric Holcomb,63Newton,Washington,Governor,,REP,Eric Holcomb,114Newton,Total,Governor,,REP,Eric Holcomb,3482Newton,Beaver 1,Governor,,DEM,John R. Gregg,74Newton,Beaver 2,Governor,,DEM,John R. Gregg,111Newton,Colfax,Governor,,DEM,John R. Gregg,23Newton,Grant 1,Governor,,DEM,John R. Gregg,85Newton,Grant 2,Governor,,DEM,John R. Gregg,51Newton,Iroquois 1,Governor,,DEM,John R. Gregg,46Newton,Iroquois 2,Governor,,DEM,John R. Gregg,78Newton,Jackson,Governor,,DEM,John R. Gregg,64Newton,Jefferson 1,Governor,,DEM,John R. Gregg,93Newton,Jefferson 2,Governor,,DEM,John R. Gregg,137Newton,Jefferson 3,Governor,,DEM,John R. Gregg,83Newton,Lake 1,Governor,,DEM,John R. Gregg,215Newton,Lake 2,Governor,,DEM,John R. Gregg,175Newton,Lincoln 1,Governor,,DEM,John R. Gregg,176Newton,Lincoln 2,Governor,,DEM,John R. Gregg,245Newton,Lincoln 3,Governor,,DEM,John R. Gregg,339Newton,McClellan,Governor,,DEM,John R. Gregg,25Newton,Washington,Governor,,DEM,John R. Gregg,45Newton,Total,Governor,,DEM,John R. Gregg,2065Newton,Beaver 1,Governor,,LIB,Rex Bell,6Newton,Beaver 2,Governor,,LIB,Rex Bell,9Newton,Colfax,Governor,,LIB,Rex Bell,4Newton,Grant 1,Governor,,LIB,Rex Bell,10Newton,Grant 2,Governor,,LIB,Rex Bell,14Newton,Iroquois 1,Governor,,LIB,Rex Bell,7Newton,Iroquois 2,Governor,,LIB,Rex Bell,11Newton,Jackson,Governor,,LIB,Rex Bell,2Newton,Jefferson 1,Governor,,LIB,Rex Bell,7Newton,Jefferson 2,Governor,,LIB,Rex Bell,13Newton,Jefferson 3,Governor,,LIB,Rex Bell,14Newton,Lake 1,Governor,,LIB,Rex Bell,18Newton,Lake 2,Governor,,LIB,Rex Bell,17Newton,Lincoln 1,Governor,,LIB,Rex Bell,12Newton,Lincoln 2,Governor,,LIB,Rex Bell,27Newton,Lincoln 3,Governor,,LIB,Rex Bell,32Newton,McClellan,Governor,,LIB,Rex Bell,1Newton,Washington,Governor,,LIB,Rex Bell,1Newton,Total,Governor,,LIB,Rex Bell,205Newton,Beaver 1,Governor,,,Write-ins,0Newton,Beaver 2,Governor,,,Write-ins,0Newton,Colfax,Governor,,,Write-ins,0Newton,Grant 1,Governor,,,Write-ins,0Newton,Grant 2,Governor,,,Write-ins,0Newton,Iroquois 1,Governor,,,Write-ins,0Newton,Iroquois 2,Governor,,,Write-ins,0Newton,Jackson,Governor,,,Write-ins,0Newton,Jefferson 1,Governor,,,Write-ins,0Newton,Jefferson 2,Governor,,,Write-ins,0Newton,Jefferson 3,Governor,,,Write-ins,0Newton,Lake 1,Governor,,,Write-ins,2Newton,Lake 2,Governor,,,Write-ins,2Newton,Lincoln 1,Governor,,,Write-ins,0Newton,Lincoln 2,Governor,,,Write-ins,0Newton,Lincoln 3,Governor,,,Write-ins,0Newton,McClellan,Governor,,,Write-ins,0Newton,Washington,Governor,,,Write-ins,0Newton,Total,Governor,,,Write-ins,4Newton,Beaver 1,Attorney General,,REP,Curtis T. Hill Jr.,202Newton,Beaver 2,Attorney General,,REP,Curtis T. Hill Jr.,273Newton,Colfax,Attorney General,,REP,Curtis T. Hill Jr.,55Newton,Grant 1,Attorney General,,REP,Curtis T. Hill Jr.,198Newton,Grant 2,Attorney General,,REP,Curtis T. Hill Jr.,120Newton,Iroquois 1,Attorney General,,REP,Curtis T. Hill Jr.,136Newton,Iroquois 2,Attorney General,,REP,Curtis T. Hill Jr.,221Newton,Jackson,Attorney General,,REP,Curtis T. Hill Jr.,141Newton,Jefferson 1,Attorney General,,REP,Curtis T. Hill Jr.,178Newton,Jefferson 2,Attorney General,,REP,Curtis T. Hill Jr.,239Newton,Jefferson 3,Attorney General,,REP,Curtis T. Hill Jr.,138Newton,Lake 1,Attorney General,,REP,Curtis T. Hill Jr.,391Newton,Lake 2,Attorney General,,REP,Curtis T. Hill Jr.,289Newton,Lincoln 1,Attorney General,,REP,Curtis T. Hill Jr.,283Newton,Lincoln 2,Attorney General,,REP,Curtis T. Hill Jr.,439Newton,Lincoln 3,Attorney General,,REP,Curtis T. Hill Jr.,456Newton,McClellan,Attorney General,,REP,Curtis T. Hill Jr.,63Newton,Washington,Attorney General,,REP,Curtis T. Hill Jr.,136Newton,Total,Attorney General,,REP,Curtis T. Hill Jr.,3958Newton,Beaver 1,Attorney General,,DEM,Lorenzo Arredondo,49Newton,Beaver 2,Attorney General,,DEM,Lorenzo Arredondo,91Newton,Colfax,Attorney General,,DEM,Lorenzo Arredondo,16Newton,Grant 1,Attorney General,,DEM,Lorenzo Arredondo,63Newton,Grant 2,Attorney General,,DEM,Lorenzo Arredondo,40Newton,Iroquois 1,Attorney General,,DEM,Lorenzo Arredondo,38Newton,Iroquois 2,Attorney General,,DEM,Lorenzo Arredondo,53Newton,Jackson,Attorney General,,DEM,Lorenzo Arredondo,49Newton,Jefferson 1,Attorney General,,DEM,Lorenzo Arredondo,75Newton,Jefferson 2,Attorney General,,DEM,Lorenzo Arredondo,95Newton,Jefferson 3,Attorney General,,DEM,Lorenzo Arredondo,68Newton,Lake 1,Attorney General,,DEM,Lorenzo Arredondo,166Newton,Lake 2,Attorney General,,DEM,Lorenzo Arredondo,164Newton,Lincoln 1,Attorney General,,DEM,Lorenzo Arredondo,157Newton,Lincoln 2,Attorney General,,DEM,Lorenzo Arredondo,190Newton,Lincoln 3,Attorney General,,DEM,Lorenzo Arredondo,282Newton,McClellan,Attorney General,,DEM,Lorenzo Arredondo,23Newton,Washington,Attorney General,,DEM,Lorenzo Arredondo,20Newton,Total,Attorney General,,DEM,Lorenzo Arredondo,1639Newton,Beaver 1,Superintendent of Public Instruction,,REP,Jennifer McCormick,186Newton,Beaver 2,Superintendent of Public Instruction,,REP,Jennifer McCormick,267Newton,Colfax,Superintendent of Public Instruction,,REP,Jennifer McCormick,49Newton,Grant 1,Superintendent of Public Instruction,,REP,Jennifer McCormick,178Newton,Grant 2,Superintendent of Public Instruction,,REP,Jennifer McCormick,107Newton,Iroquois 1,Superintendent of Public Instruction,,REP,Jennifer McCormick,125Newton,Iroquois 2,Superintendent of Public Instruction,,REP,Jennifer McCormick,189Newton,Jackson,Superintendent of Public Instruction,,REP,Jennifer McCormick,126Newton,Jefferson 1,Superintendent of Public Instruction,,REP,Jennifer McCormick,160Newton,Jefferson 2,Superintendent of Public Instruction,,REP,Jennifer McCormick,219Newton,Jefferson 3,Superintendent of Public Instruction,,REP,Jennifer McCormick,125Newton,Lake 1,Superintendent of Public Instruction,,REP,Jennifer McCormick,360Newton,Lake 2,Superintendent of Public Instruction,,REP,Jennifer McCormick,281Newton,Lincoln 1,Superintendent of Public Instruction,,REP,Jennifer McCormick,263Newton,Lincoln 2,Superintendent of Public Instruction,,REP,Jennifer McCormick,400Newton,Lincoln 3,Superintendent of Public Instruction,,REP,Jennifer McCormick,431Newton,McClellan,Superintendent of Public Instruction,,REP,Jennifer McCormick,60Newton,Washington,Superintendent of Public Instruction,,REP,Jennifer McCormick,122Newton,Total,Superintendent of Public Instruction,,REP,Jennifer McCormick,3648Newton,Beaver 1,Superintendent of Public Instruction,,DEM,Glenda Ritz,69Newton,Beaver 2,Superintendent of Public Instruction,,DEM,Glenda Ritz,98Newton,Colfax,Superintendent of Public Instruction,,DEM,Glenda Ritz,26Newton,Grant 1,Superintendent of Public Instruction,,DEM,Glenda Ritz,84Newton,Grant 2,Superintendent of Public Instruction,,DEM,Glenda Ritz,54Newton,Iroquois 1,Superintendent of Public Instruction,,DEM,Glenda Ritz,49Newton,Iroquois 2,Superintendent of Public Instruction,,DEM,Glenda Ritz,82Newton,Jackson,Superintendent of Public Instruction,,DEM,Glenda Ritz,63Newton,Jefferson 1,Superintendent of Public Instruction,,DEM,Glenda Ritz,97Newton,Jefferson 2,Superintendent of Public Instruction,,DEM,Glenda Ritz,116Newton,Jefferson 3,Superintendent of Public Instruction,,DEM,Glenda Ritz,83Newton,Lake 1,Superintendent of Public Instruction,,DEM,Glenda Ritz,201Newton,Lake 2,Superintendent of Public Instruction,,DEM,Glenda Ritz,172Newton,Lincoln 1,Superintendent of Public Instruction,,DEM,Glenda Ritz,179Newton,Lincoln 2,Superintendent of Public Instruction,,DEM,Glenda Ritz,231Newton,Lincoln 3,Superintendent of Public Instruction,,DEM,Glenda Ritz,303Newton,McClellan,Superintendent of Public Instruction,,DEM,Glenda Ritz,28Newton,Washington,Superintendent of Public Instruction,,DEM,Glenda Ritz,36Newton,Total,Superintendent of Public Instruction,,DEM,Glenda Ritz,1971Newton,Beaver 1,U.S. House,4,REP,Todd Rokita,199Newton,Beaver 2,U.S. House,4,REP,Todd Rokita,272Newton,Colfax,U.S. House,4,REP,Todd Rokita,55Newton,Grant 1,U.S. House,4,REP,Todd Rokita,189Newton,Grant 2,U.S. House,4,REP,Todd Rokita,106Newton,Iroquois 1,U.S. House,4,REP,Todd Rokita,135Newton,Iroquois 2,U.S. House,4,REP,Todd Rokita,212Newton,Jackson,U.S. House,4,REP,Todd Rokita,131Newton,Jefferson 1,U.S. House,4,REP,Todd Rokita,177Newton,Jefferson 2,U.S. House,4,REP,Todd Rokita,213Newton,Jefferson 3,U.S. House,4,REP,Todd Rokita,130Newton,Lake 1,U.S. House,4,REP,Todd Rokita,369Newton,Lake 2,U.S. House,4,REP,Todd Rokita,284Newton,Lincoln 1,U.S. House,4,REP,Todd Rokita,274Newton,Lincoln 2,U.S. House,4,REP,Todd Rokita,398Newton,Lincoln 3,U.S. House,4,REP,Todd Rokita,426Newton,McClellan,U.S. House,4,REP,Todd Rokita,58Newton,Washington,U.S. House,4,REP,Todd Rokita,129Newton,Total,U.S. House,4,REP,Todd Rokita,3757Newton,Beaver 1,U.S. House,4,DEM,John Dale,46Newton,Beaver 2,U.S. House,4,DEM,John Dale,86Newton,Colfax,U.S. House,4,DEM,John Dale,19Newton,Grant 1,U.S. House,4,DEM,John Dale,60Newton,Grant 2,U.S. House,4,DEM,John Dale,44Newton,Iroquois 1,U.S. House,4,DEM,John Dale,38Newton,Iroquois 2,U.S. House,4,DEM,John Dale,48Newton,Jackson,U.S. House,4,DEM,John Dale,59Newton,Jefferson 1,U.S. House,4,DEM,John Dale,72Newton,Jefferson 2,U.S. House,4,DEM,John Dale,101Newton,Jefferson 3,U.S. House,4,DEM,John Dale,71Newton,Lake 1,U.S. House,4,DEM,John Dale,171Newton,Lake 2,U.S. House,4,DEM,John Dale,149Newton,Lincoln 1,U.S. House,4,DEM,John Dale,151Newton,Lincoln 2,U.S. House,4,DEM,John Dale,188Newton,Lincoln 3,U.S. House,4,DEM,John Dale,276Newton,McClellan,U.S. House,4,DEM,John Dale,22Newton,Washington,U.S. House,4,DEM,John Dale,25Newton,Total,U.S. House,4,DEM,John Dale,1626Newton,Beaver 1,U.S. House,4,LIB,Steven M. Mayoras,14Newton,Beaver 2,U.S. House,4,LIB,Steven M. Mayoras,12Newton,Colfax,U.S. House,4,LIB,Steven M. Mayoras,2Newton,Grant 1,U.S. House,4,LIB,Steven M. Mayoras,17Newton,Grant 2,U.S. House,4,LIB,Steven M. Mayoras,12Newton,Iroquois 1,U.S. House,4,LIB,Steven M. Mayoras,5Newton,Iroquois 2,U.S. House,4,LIB,Steven M. Mayoras,12Newton,Jackson,U.S. House,4,LIB,Steven M. Mayoras,5Newton,Jefferson 1,U.S. House,4,LIB,Steven M. Mayoras,14Newton,Jefferson 2,U.S. House,4,LIB,Steven M. Mayoras,23Newton,Jefferson 3,U.S. House,4,LIB,Steven M. Mayoras,13Newton,Lake 1,U.S. House,4,LIB,Steven M. Mayoras,25Newton,Lake 2,U.S. House,4,LIB,Steven M. Mayoras,25Newton,Lincoln 1,U.S. House,4,LIB,Steven M. Mayoras,21Newton,Lincoln 2,U.S. House,4,LIB,Steven M. Mayoras,49Newton,Lincoln 3,U.S. House,4,LIB,Steven M. Mayoras,42Newton,McClellan,U.S. House,4,LIB,Steven M. Mayoras,4Newton,Washington,U.S. House,4,LIB,Steven M. Mayoras,5Newton,Total,U.S. House,4,LIB,Steven M. Mayoras,300Newton,Beaver 1,U.S. House,4,,Write-ins,0Newton,Beaver 2,U.S. House,4,,Write-ins,1Newton,Colfax,U.S. House,4,,Write-ins,0Newton,Grant 1,U.S. House,4,,Write-ins,0Newton,Grant 2,U.S. House,4,,Write-ins,0Newton,Iroquois 1,U.S. House,4,,Write-ins,0Newton,Iroquois 2,U.S. House,4,,Write-ins,0Newton,Jackson,U.S. House,4,,Write-ins,0Newton,Jefferson 1,U.S. House,4,,Write-ins,0Newton,Jefferson 2,U.S. House,4,,Write-ins,0Newton,Jefferson 3,U.S. House,4,,Write-ins,1Newton,Lake 1,U.S. House,4,,Write-ins,1Newton,Lake 2,U.S. House,4,,Write-ins,1Newton,Lincoln 1,U.S. House,4,,Write-ins,1Newton,Lincoln 2,U.S. House,4,,Write-ins,0Newton,Lincoln 3,U.S. House,4,,Write-ins,0Newton,McClellan,U.S. House,4,,Write-ins,0Newton,Washington,U.S. House,4,,Write-ins,0Newton,Total,U.S. House,4,,Write-ins,5Newton,Grant 1,State House,13,REP,Sharon Negele,200Newton,Grant 2,State House,13,REP,Sharon Negele,120Newton,Iroquois 1,State House,13,REP,Sharon Negele,134Newton,Iroquois 2,State House,13,REP,Sharon Negele,204Newton,Jefferson 1,State House,13,REP,Sharon Negele,192Newton,Jefferson 2,State House,13,REP,Sharon Negele,240Newton,Jefferson 3,State House,13,REP,Sharon Negele,131Newton,Washington,State House,13,REP,Sharon Negele,136Newton,Total,State House,13,REP,Sharon Negele,1357Newton,Grant 1,State House,13,DEM,Mike Childress,64Newton,Grant 2,State House,13,DEM,Mike Childress,42Newton,Iroquois 1,State House,13,DEM,Mike Childress,40Newton,Iroquois 2,State House,13,DEM,Mike Childress,65Newton,Jefferson 1,State House,13,DEM,Mike Childress,68Newton,Jefferson 2,State House,13,DEM,Mike Childress,99Newton,Jefferson 3,State House,13,DEM,Mike Childress,81Newton,Washington,State House,13,DEM,Mike Childress,23Newton,Total,State House,13,DEM,Mike Childress,482Newton,Beaver 1,State House,16,REP,Douglas Gutwein,213Newton,Beaver 2,State House,16,REP,Douglas Gutwein,277Newton,Colfax,State House,16,REP,Douglas Gutwein,56Newton,Jackson,State House,16,REP,Douglas Gutwein,136Newton,Lake 1,State House,16,REP,Douglas Gutwein,393Newton,Lake 2,State House,16,REP,Douglas Gutwein,300Newton,Lincoln 1,State House,16,REP,Douglas Gutwein,293Newton,Lincoln 2,State House,16,REP,Douglas Gutwein,438Newton,Lincoln 3,State House,16,REP,Douglas Gutwein,458Newton,McClellan,State House,16,REP,Douglas Gutwein,64Newton,Total,State House,16,REP,Douglas Gutwein,2628Newton,Beaver 1,State House,16,DEM,Richard W. Ludington,50Newton,Beaver 2,State House,16,DEM,Richard W. Ludington,93Newton,Colfax,State House,16,DEM,Richard W. Ludington,20Newton,Jackson,State House,16,DEM,Richard W. Ludington,58Newton,Lake 1,State House,16,DEM,Richard W. Ludington,170Newton,Lake 2,State House,16,DEM,Richard W. Ludington,154Newton,Lincoln 1,State House,16,DEM,Richard W. Ludington,152Newton,Lincoln 2,State House,16,DEM,Richard W. Ludington,197Newton,Lincoln 3,State House,16,DEM,Richard W. Ludington,279Newton,McClellan,State House,16,DEM,Richard W. Ludington,23Newton,Total,State House,16,DEM,Richard W. Ludington,1196
+county,precinct,office,district,party,candidate,votes
+Newton,Beaver 1,,,REP,Straight Party,56
+Newton,Beaver 2,,,REP,Straight Party,77
+Newton,Colfax,,,REP,Straight Party,21
+Newton,Grant 1,,,REP,Straight Party,65
+Newton,Grant 2,,,REP,Straight Party,49
+Newton,Iroquois 1,,,REP,Straight Party,42
+Newton,Iroquois 2,,,REP,Straight Party,55
+Newton,Jackson,,,REP,Straight Party,49
+Newton,Jefferson 1,,,REP,Straight Party,71
+Newton,Jefferson 2,,,REP,Straight Party,52
+Newton,Jefferson 3,,,REP,Straight Party,55
+Newton,Lake 1,,,REP,Straight Party,122
+Newton,Lake 2,,,REP,Straight Party,107
+Newton,Lincoln 1,,,REP,Straight Party,82
+Newton,Lincoln 2,,,REP,Straight Party,138
+Newton,Lincoln 3,,,REP,Straight Party,174
+Newton,McClellan,,,REP,Straight Party,22
+Newton,Washington,,,REP,Straight Party,29
+Newton,Total,,,REP,Straight Party,1266
+Newton,Beaver 1,,,DEM,Straight Party,15
+Newton,Beaver 2,,,DEM,Straight Party,22
+Newton,Colfax,,,DEM,Straight Party,7
+Newton,Grant 1,,,DEM,Straight Party,16
+Newton,Grant 2,,,DEM,Straight Party,18
+Newton,Iroquois 1,,,DEM,Straight Party,12
+Newton,Iroquois 2,,,DEM,Straight Party,12
+Newton,Jackson,,,DEM,Straight Party,14
+Newton,Jefferson 1,,,DEM,Straight Party,19
+Newton,Jefferson 2,,,DEM,Straight Party,28
+Newton,Jefferson 3,,,DEM,Straight Party,28
+Newton,Lake 1,,,DEM,Straight Party,48
+Newton,Lake 2,,,DEM,Straight Party,42
+Newton,Lincoln 1,,,DEM,Straight Party,36
+Newton,Lincoln 2,,,DEM,Straight Party,53
+Newton,Lincoln 3,,,DEM,Straight Party,95
+Newton,McClellan,,,DEM,Straight Party,9
+Newton,Washington,,,DEM,Straight Party,4
+Newton,Total,,,DEM,Straight Party,478
+Newton,Beaver 1,,,LIB,Straight Party,15
+Newton,Beaver 2,,,LIB,Straight Party,19
+Newton,Colfax,,,LIB,Straight Party,11
+Newton,Grant 1,,,LIB,Straight Party,24
+Newton,Grant 2,,,LIB,Straight Party,11
+Newton,Iroquois 1,,,LIB,Straight Party,8
+Newton,Iroquois 2,,,LIB,Straight Party,11
+Newton,Jackson,,,LIB,Straight Party,12
+Newton,Jefferson 1,,,LIB,Straight Party,15
+Newton,Jefferson 2,,,LIB,Straight Party,27
+Newton,Jefferson 3,,,LIB,Straight Party,16
+Newton,Lake 1,,,LIB,Straight Party,23
+Newton,Lake 2,,,LIB,Straight Party,17
+Newton,Lincoln 1,,,LIB,Straight Party,22
+Newton,Lincoln 2,,,LIB,Straight Party,40
+Newton,Lincoln 3,,,LIB,Straight Party,34
+Newton,McClellan,,,LIB,Straight Party,5
+Newton,Washington,,,LIB,Straight Party,4
+Newton,Total,,,LIB,Straight Party,314
+Newton,Beaver 1,,,Write-in,Straight Party,2
+Newton,Beaver 2,,,Write-in,Straight Party,3
+Newton,Colfax,,,Write-in,Straight Party,1
+Newton,Grant 1,,,Write-in,Straight Party,3
+Newton,Grant 2,,,Write-in,Straight Party,2
+Newton,Iroquois 1,,,Write-in,Straight Party,2
+Newton,Iroquois 2,,,Write-in,Straight Party,6
+Newton,Jackson,,,Write-in,Straight Party,3
+Newton,Jefferson 1,,,Write-in,Straight Party,1
+Newton,Jefferson 2,,,Write-in,Straight Party,4
+Newton,Jefferson 3,,,Write-in,Straight Party,5
+Newton,Lake 1,,,Write-in,Straight Party,4
+Newton,Lake 2,,,Write-in,Straight Party,4
+Newton,Lincoln 1,,,Write-in,Straight Party,5
+Newton,Lincoln 2,,,Write-in,Straight Party,6
+Newton,Lincoln 3,,,Write-in,Straight Party,10
+Newton,McClellan,,,Write-in,Straight Party,0
+Newton,Washington,,,Write-in,Straight Party,4
+Newton,Total,,,Write-in,Straight Party,65
+Newton,Beaver 1,President,,REP,Donald Trump,208
+Newton,Beaver 2,President,,REP,Donald Trump,282
+Newton,Colfax,President,,REP,Donald Trump,48
+Newton,Grant 1,President,,REP,Donald Trump,191
+Newton,Grant 2,President,,REP,Donald Trump,110
+Newton,Iroquois 1,President,,REP,Donald Trump,133
+Newton,Iroquois 2,President,,REP,Donald Trump,210
+Newton,Jackson,President,,REP,Donald Trump,141
+Newton,Jefferson 1,President,,REP,Donald Trump,174
+Newton,Jefferson 2,President,,REP,Donald Trump,202
+Newton,Jefferson 3,President,,REP,Donald Trump,133
+Newton,Lake 1,President,,REP,Donald Trump,415
+Newton,Lake 2,President,,REP,Donald Trump,328
+Newton,Lincoln 1,President,,REP,Donald Trump,321
+Newton,Lincoln 2,President,,REP,Donald Trump,472
+Newton,Lincoln 3,President,,REP,Donald Trump,510
+Newton,McClellan,President,,REP,Donald Trump,69
+Newton,Washington,President,,REP,Donald Trump,127
+Newton,Total,President,,REP,Donald Trump,4074
+Newton,Beaver 1,President,,DEM,Hillary Clinton,48
+Newton,Beaver 2,President,,DEM,Hillary Clinton,86
+Newton,Colfax,President,,DEM,Hillary Clinton,16
+Newton,Grant 1,President,,DEM,Hillary Clinton,52
+Newton,Grant 2,President,,DEM,Hillary Clinton,42
+Newton,Iroquois 1,President,,DEM,Hillary Clinton,38
+Newton,Iroquois 2,President,,DEM,Hillary Clinton,48
+Newton,Jackson,President,,DEM,Hillary Clinton,46
+Newton,Jefferson 1,President,,DEM,Hillary Clinton,82
+Newton,Jefferson 2,President,,DEM,Hillary Clinton,111
+Newton,Jefferson 3,President,,DEM,Hillary Clinton,70
+Newton,Lake 1,President,,DEM,Hillary Clinton,138
+Newton,Lake 2,President,,DEM,Hillary Clinton,115
+Newton,Lincoln 1,President,,DEM,Hillary Clinton,113
+Newton,Lincoln 2,President,,DEM,Hillary Clinton,143
+Newton,Lincoln 3,President,,DEM,Hillary Clinton,212
+Newton,McClellan,President,,DEM,Hillary Clinton,17
+Newton,Washington,President,,DEM,Hillary Clinton,26
+Newton,Total,President,,DEM,Hillary Clinton,1403
+Newton,Beaver 1,President,,LIB,Gary Johnson,15
+Newton,Beaver 2,President,,LIB,Gary Johnson,19
+Newton,Colfax,President,,LIB,Gary Johnson,11
+Newton,Grant 1,President,,LIB,Gary Johnson,24
+Newton,Grant 2,President,,LIB,Gary Johnson,11
+Newton,Iroquois 1,President,,LIB,Gary Johnson,8
+Newton,Iroquois 2,President,,LIB,Gary Johnson,11
+Newton,Jackson,President,,LIB,Gary Johnson,12
+Newton,Jefferson 1,President,,LIB,Gary Johnson,15
+Newton,Jefferson 2,President,,LIB,Gary Johnson,27
+Newton,Jefferson 3,President,,LIB,Gary Johnson,16
+Newton,Lake 1,President,,LIB,Gary Johnson,23
+Newton,Lake 2,President,,LIB,Gary Johnson,17
+Newton,Lincoln 1,President,,LIB,Gary Johnson,22
+Newton,Lincoln 2,President,,LIB,Gary Johnson,40
+Newton,Lincoln 3,President,,LIB,Gary Johnson,34
+Newton,McClellan,President,,LIB,Gary Johnson,5
+Newton,Washington,President,,LIB,Gary Johnson,4
+Newton,Total,President,,LIB,Gary Johnson,314
+Newton,Beaver 1,President,,,Write-ins,2
+Newton,Beaver 2,President,,,Write-ins,3
+Newton,Colfax,President,,,Write-ins,1
+Newton,Grant 1,President,,,Write-ins,3
+Newton,Grant 2,President,,,Write-ins,2
+Newton,Iroquois 1,President,,,Write-ins,2
+Newton,Iroquois 2,President,,,Write-ins,6
+Newton,Jackson,President,,,Write-ins,3
+Newton,Jefferson 1,President,,,Write-ins,1
+Newton,Jefferson 2,President,,,Write-ins,4
+Newton,Jefferson 3,President,,,Write-ins,5
+Newton,Lake 1,President,,,Write-ins,4
+Newton,Lake 2,President,,,Write-ins,4
+Newton,Lincoln 1,President,,,Write-ins,5
+Newton,Lincoln 2,President,,,Write-ins,6
+Newton,Lincoln 3,President,,,Write-ins,10
+Newton,McClellan,President,,,Write-ins,0
+Newton,Washington,President,,,Write-ins,4
+Newton,Total,President,,,Write-ins,65
+Newton,Beaver 1,U.S. Senate,,REP,Todd Young,184
+Newton,Beaver 2,U.S. Senate,,REP,Todd Young,254
+Newton,Colfax,U.S. Senate,,REP,Todd Young,56
+Newton,Grant 1,U.S. Senate,,REP,Todd Young,181
+Newton,Grant 2,U.S. Senate,,REP,Todd Young,105
+Newton,Iroquois 1,U.S. Senate,,REP,Todd Young,122
+Newton,Iroquois 2,U.S. Senate,,REP,Todd Young,200
+Newton,Jackson,U.S. Senate,,REP,Todd Young,128
+Newton,Jefferson 1,U.S. Senate,,REP,Todd Young,165
+Newton,Jefferson 2,U.S. Senate,,REP,Todd Young,207
+Newton,Jefferson 3,U.S. Senate,,REP,Todd Young,115
+Newton,Lake 1,U.S. Senate,,REP,Todd Young,369
+Newton,Lake 2,U.S. Senate,,REP,Todd Young,286
+Newton,Lincoln 1,U.S. Senate,,REP,Todd Young,276
+Newton,Lincoln 2,U.S. Senate,,REP,Todd Young,414
+Newton,Lincoln 3,U.S. Senate,,REP,Todd Young,426
+Newton,McClellan,U.S. Senate,,REP,Todd Young,58
+Newton,Washington,U.S. Senate,,REP,Todd Young,124
+Newton,Total,U.S. Senate,,REP,Todd Young,3670
+Newton,Beaver 1,U.S. Senate,,DEM,Evan Bayh,69
+Newton,Beaver 2,U.S. Senate,,DEM,Evan Bayh,115
+Newton,Colfax,U.S. Senate,,DEM,Evan Bayh,19
+Newton,Grant 1,U.S. Senate,,DEM,Evan Bayh,76
+Newton,Grant 2,U.S. Senate,,DEM,Evan Bayh,46
+Newton,Iroquois 1,U.S. Senate,,DEM,Evan Bayh,41
+Newton,Iroquois 2,U.S. Senate,,DEM,Evan Bayh,66
+Newton,Jackson,U.S. Senate,,DEM,Evan Bayh,62
+Newton,Jefferson 1,U.S. Senate,,DEM,Evan Bayh,86
+Newton,Jefferson 2,U.S. Senate,,DEM,Evan Bayh,112
+Newton,Jefferson 3,U.S. Senate,,DEM,Evan Bayh,88
+Newton,Lake 1,U.S. Senate,,DEM,Evan Bayh,174
+Newton,Lake 2,U.S. Senate,,DEM,Evan Bayh,156
+Newton,Lincoln 1,U.S. Senate,,DEM,Evan Bayh,146
+Newton,Lincoln 2,U.S. Senate,,DEM,Evan Bayh,193
+Newton,Lincoln 3,U.S. Senate,,DEM,Evan Bayh,273
+Newton,McClellan,U.S. Senate,,DEM,Evan Bayh,29
+Newton,Washington,U.S. Senate,,DEM,Evan Bayh,35
+Newton,Total,U.S. Senate,,DEM,Evan Bayh,1786
+Newton,Beaver 1,U.S. Senate,,LIB,Lucy Brenton,12
+Newton,Beaver 2,U.S. Senate,,LIB,Lucy Brenton,8
+Newton,Colfax,U.S. Senate,,LIB,Lucy Brenton,3
+Newton,Grant 1,U.S. Senate,,LIB,Lucy Brenton,14
+Newton,Grant 2,U.S. Senate,,LIB,Lucy Brenton,14
+Newton,Iroquois 1,U.S. Senate,,LIB,Lucy Brenton,16
+Newton,Iroquois 2,U.S. Senate,,LIB,Lucy Brenton,14
+Newton,Jackson,U.S. Senate,,LIB,Lucy Brenton,9
+Newton,Jefferson 1,U.S. Senate,,LIB,Lucy Brenton,11
+Newton,Jefferson 2,U.S. Senate,,LIB,Lucy Brenton,26
+Newton,Jefferson 3,U.S. Senate,,LIB,Lucy Brenton,16
+Newton,Lake 1,U.S. Senate,,LIB,Lucy Brenton,27
+Newton,Lake 2,U.S. Senate,,LIB,Lucy Brenton,18
+Newton,Lincoln 1,U.S. Senate,,LIB,Lucy Brenton,26
+Newton,Lincoln 2,U.S. Senate,,LIB,Lucy Brenton,38
+Newton,Lincoln 3,U.S. Senate,,LIB,Lucy Brenton,56
+Newton,McClellan,U.S. Senate,,LIB,Lucy Brenton,1
+Newton,Washington,U.S. Senate,,LIB,Lucy Brenton,4
+Newton,Total,U.S. Senate,,LIB,Lucy Brenton,313
+Newton,Beaver 1,U.S. Senate,,,Write-ins,0
+Newton,Beaver 2,U.S. Senate,,,Write-ins,0
+Newton,Colfax,U.S. Senate,,,Write-ins,0
+Newton,Grant 1,U.S. Senate,,,Write-ins,0
+Newton,Grant 2,U.S. Senate,,,Write-ins,0
+Newton,Iroquois 1,U.S. Senate,,,Write-ins,1
+Newton,Iroquois 2,U.S. Senate,,,Write-ins,2
+Newton,Jackson,U.S. Senate,,,Write-ins,0
+Newton,Jefferson 1,U.S. Senate,,,Write-ins,0
+Newton,Jefferson 2,U.S. Senate,,,Write-ins,1
+Newton,Jefferson 3,U.S. Senate,,,Write-ins,0
+Newton,Lake 1,U.S. Senate,,,Write-ins,1
+Newton,Lake 2,U.S. Senate,,,Write-ins,1
+Newton,Lincoln 1,U.S. Senate,,,Write-ins,0
+Newton,Lincoln 2,U.S. Senate,,,Write-ins,0
+Newton,Lincoln 3,U.S. Senate,,,Write-ins,0
+Newton,McClellan,U.S. Senate,,,Write-ins,0
+Newton,Washington,U.S. Senate,,,Write-ins,0
+Newton,Total,U.S. Senate,,,Write-ins,6
+Newton,Beaver 1,Governor,,REP,Eric Holcomb,180
+Newton,Beaver 2,Governor,,REP,Eric Holcomb,256
+Newton,Colfax,Governor,,REP,Eric Holcomb,50
+Newton,Grant 1,Governor,,REP,Eric Holcomb,172
+Newton,Grant 2,Governor,,REP,Eric Holcomb,101
+Newton,Iroquois 1,Governor,,REP,Eric Holcomb,123
+Newton,Iroquois 2,Governor,,REP,Eric Holcomb,193
+Newton,Jackson,Governor,,REP,Eric Holcomb,131
+Newton,Jefferson 1,Governor,,REP,Eric Holcomb,162
+Newton,Jefferson 2,Governor,,REP,Eric Holcomb,194
+Newton,Jefferson 3,Governor,,REP,Eric Holcomb,121
+Newton,Lake 1,Governor,,REP,Eric Holcomb,337
+Newton,Lake 2,Governor,,REP,Eric Holcomb,268
+Newton,Lincoln 1,Governor,,REP,Eric Holcomb,263
+Newton,Lincoln 2,Governor,,REP,Eric Holcomb,374
+Newton,Lincoln 3,Governor,,REP,Eric Holcomb,380
+Newton,McClellan,Governor,,REP,Eric Holcomb,63
+Newton,Washington,Governor,,REP,Eric Holcomb,114
+Newton,Total,Governor,,REP,Eric Holcomb,3482
+Newton,Beaver 1,Governor,,DEM,John R. Gregg,74
+Newton,Beaver 2,Governor,,DEM,John R. Gregg,111
+Newton,Colfax,Governor,,DEM,John R. Gregg,23
+Newton,Grant 1,Governor,,DEM,John R. Gregg,85
+Newton,Grant 2,Governor,,DEM,John R. Gregg,51
+Newton,Iroquois 1,Governor,,DEM,John R. Gregg,46
+Newton,Iroquois 2,Governor,,DEM,John R. Gregg,78
+Newton,Jackson,Governor,,DEM,John R. Gregg,64
+Newton,Jefferson 1,Governor,,DEM,John R. Gregg,93
+Newton,Jefferson 2,Governor,,DEM,John R. Gregg,137
+Newton,Jefferson 3,Governor,,DEM,John R. Gregg,83
+Newton,Lake 1,Governor,,DEM,John R. Gregg,215
+Newton,Lake 2,Governor,,DEM,John R. Gregg,175
+Newton,Lincoln 1,Governor,,DEM,John R. Gregg,176
+Newton,Lincoln 2,Governor,,DEM,John R. Gregg,245
+Newton,Lincoln 3,Governor,,DEM,John R. Gregg,339
+Newton,McClellan,Governor,,DEM,John R. Gregg,25
+Newton,Washington,Governor,,DEM,John R. Gregg,45
+Newton,Total,Governor,,DEM,John R. Gregg,2065
+Newton,Beaver 1,Governor,,LIB,Rex Bell,6
+Newton,Beaver 2,Governor,,LIB,Rex Bell,9
+Newton,Colfax,Governor,,LIB,Rex Bell,4
+Newton,Grant 1,Governor,,LIB,Rex Bell,10
+Newton,Grant 2,Governor,,LIB,Rex Bell,14
+Newton,Iroquois 1,Governor,,LIB,Rex Bell,7
+Newton,Iroquois 2,Governor,,LIB,Rex Bell,11
+Newton,Jackson,Governor,,LIB,Rex Bell,2
+Newton,Jefferson 1,Governor,,LIB,Rex Bell,7
+Newton,Jefferson 2,Governor,,LIB,Rex Bell,13
+Newton,Jefferson 3,Governor,,LIB,Rex Bell,14
+Newton,Lake 1,Governor,,LIB,Rex Bell,18
+Newton,Lake 2,Governor,,LIB,Rex Bell,17
+Newton,Lincoln 1,Governor,,LIB,Rex Bell,12
+Newton,Lincoln 2,Governor,,LIB,Rex Bell,27
+Newton,Lincoln 3,Governor,,LIB,Rex Bell,32
+Newton,McClellan,Governor,,LIB,Rex Bell,1
+Newton,Washington,Governor,,LIB,Rex Bell,1
+Newton,Total,Governor,,LIB,Rex Bell,205
+Newton,Beaver 1,Governor,,,Write-ins,0
+Newton,Beaver 2,Governor,,,Write-ins,0
+Newton,Colfax,Governor,,,Write-ins,0
+Newton,Grant 1,Governor,,,Write-ins,0
+Newton,Grant 2,Governor,,,Write-ins,0
+Newton,Iroquois 1,Governor,,,Write-ins,0
+Newton,Iroquois 2,Governor,,,Write-ins,0
+Newton,Jackson,Governor,,,Write-ins,0
+Newton,Jefferson 1,Governor,,,Write-ins,0
+Newton,Jefferson 2,Governor,,,Write-ins,0
+Newton,Jefferson 3,Governor,,,Write-ins,0
+Newton,Lake 1,Governor,,,Write-ins,2
+Newton,Lake 2,Governor,,,Write-ins,2
+Newton,Lincoln 1,Governor,,,Write-ins,0
+Newton,Lincoln 2,Governor,,,Write-ins,0
+Newton,Lincoln 3,Governor,,,Write-ins,0
+Newton,McClellan,Governor,,,Write-ins,0
+Newton,Washington,Governor,,,Write-ins,0
+Newton,Total,Governor,,,Write-ins,4
+Newton,Beaver 1,Attorney General,,REP,Curtis T. Hill Jr.,202
+Newton,Beaver 2,Attorney General,,REP,Curtis T. Hill Jr.,273
+Newton,Colfax,Attorney General,,REP,Curtis T. Hill Jr.,55
+Newton,Grant 1,Attorney General,,REP,Curtis T. Hill Jr.,198
+Newton,Grant 2,Attorney General,,REP,Curtis T. Hill Jr.,120
+Newton,Iroquois 1,Attorney General,,REP,Curtis T. Hill Jr.,136
+Newton,Iroquois 2,Attorney General,,REP,Curtis T. Hill Jr.,221
+Newton,Jackson,Attorney General,,REP,Curtis T. Hill Jr.,141
+Newton,Jefferson 1,Attorney General,,REP,Curtis T. Hill Jr.,178
+Newton,Jefferson 2,Attorney General,,REP,Curtis T. Hill Jr.,239
+Newton,Jefferson 3,Attorney General,,REP,Curtis T. Hill Jr.,138
+Newton,Lake 1,Attorney General,,REP,Curtis T. Hill Jr.,391
+Newton,Lake 2,Attorney General,,REP,Curtis T. Hill Jr.,289
+Newton,Lincoln 1,Attorney General,,REP,Curtis T. Hill Jr.,283
+Newton,Lincoln 2,Attorney General,,REP,Curtis T. Hill Jr.,439
+Newton,Lincoln 3,Attorney General,,REP,Curtis T. Hill Jr.,456
+Newton,McClellan,Attorney General,,REP,Curtis T. Hill Jr.,63
+Newton,Washington,Attorney General,,REP,Curtis T. Hill Jr.,136
+Newton,Total,Attorney General,,REP,Curtis T. Hill Jr.,3958
+Newton,Beaver 1,Attorney General,,DEM,Lorenzo Arredondo,49
+Newton,Beaver 2,Attorney General,,DEM,Lorenzo Arredondo,91
+Newton,Colfax,Attorney General,,DEM,Lorenzo Arredondo,16
+Newton,Grant 1,Attorney General,,DEM,Lorenzo Arredondo,63
+Newton,Grant 2,Attorney General,,DEM,Lorenzo Arredondo,40
+Newton,Iroquois 1,Attorney General,,DEM,Lorenzo Arredondo,38
+Newton,Iroquois 2,Attorney General,,DEM,Lorenzo Arredondo,53
+Newton,Jackson,Attorney General,,DEM,Lorenzo Arredondo,49
+Newton,Jefferson 1,Attorney General,,DEM,Lorenzo Arredondo,75
+Newton,Jefferson 2,Attorney General,,DEM,Lorenzo Arredondo,95
+Newton,Jefferson 3,Attorney General,,DEM,Lorenzo Arredondo,68
+Newton,Lake 1,Attorney General,,DEM,Lorenzo Arredondo,166
+Newton,Lake 2,Attorney General,,DEM,Lorenzo Arredondo,164
+Newton,Lincoln 1,Attorney General,,DEM,Lorenzo Arredondo,157
+Newton,Lincoln 2,Attorney General,,DEM,Lorenzo Arredondo,190
+Newton,Lincoln 3,Attorney General,,DEM,Lorenzo Arredondo,282
+Newton,McClellan,Attorney General,,DEM,Lorenzo Arredondo,23
+Newton,Washington,Attorney General,,DEM,Lorenzo Arredondo,20
+Newton,Total,Attorney General,,DEM,Lorenzo Arredondo,1639
+Newton,Beaver 1,Superintendent of Public Instruction,,REP,Jennifer McCormick,186
+Newton,Beaver 2,Superintendent of Public Instruction,,REP,Jennifer McCormick,267
+Newton,Colfax,Superintendent of Public Instruction,,REP,Jennifer McCormick,49
+Newton,Grant 1,Superintendent of Public Instruction,,REP,Jennifer McCormick,178
+Newton,Grant 2,Superintendent of Public Instruction,,REP,Jennifer McCormick,107
+Newton,Iroquois 1,Superintendent of Public Instruction,,REP,Jennifer McCormick,125
+Newton,Iroquois 2,Superintendent of Public Instruction,,REP,Jennifer McCormick,189
+Newton,Jackson,Superintendent of Public Instruction,,REP,Jennifer McCormick,126
+Newton,Jefferson 1,Superintendent of Public Instruction,,REP,Jennifer McCormick,160
+Newton,Jefferson 2,Superintendent of Public Instruction,,REP,Jennifer McCormick,219
+Newton,Jefferson 3,Superintendent of Public Instruction,,REP,Jennifer McCormick,125
+Newton,Lake 1,Superintendent of Public Instruction,,REP,Jennifer McCormick,360
+Newton,Lake 2,Superintendent of Public Instruction,,REP,Jennifer McCormick,281
+Newton,Lincoln 1,Superintendent of Public Instruction,,REP,Jennifer McCormick,263
+Newton,Lincoln 2,Superintendent of Public Instruction,,REP,Jennifer McCormick,400
+Newton,Lincoln 3,Superintendent of Public Instruction,,REP,Jennifer McCormick,431
+Newton,McClellan,Superintendent of Public Instruction,,REP,Jennifer McCormick,60
+Newton,Washington,Superintendent of Public Instruction,,REP,Jennifer McCormick,122
+Newton,Total,Superintendent of Public Instruction,,REP,Jennifer McCormick,3648
+Newton,Beaver 1,Superintendent of Public Instruction,,DEM,Glenda Ritz,69
+Newton,Beaver 2,Superintendent of Public Instruction,,DEM,Glenda Ritz,98
+Newton,Colfax,Superintendent of Public Instruction,,DEM,Glenda Ritz,26
+Newton,Grant 1,Superintendent of Public Instruction,,DEM,Glenda Ritz,84
+Newton,Grant 2,Superintendent of Public Instruction,,DEM,Glenda Ritz,54
+Newton,Iroquois 1,Superintendent of Public Instruction,,DEM,Glenda Ritz,49
+Newton,Iroquois 2,Superintendent of Public Instruction,,DEM,Glenda Ritz,82
+Newton,Jackson,Superintendent of Public Instruction,,DEM,Glenda Ritz,63
+Newton,Jefferson 1,Superintendent of Public Instruction,,DEM,Glenda Ritz,97
+Newton,Jefferson 2,Superintendent of Public Instruction,,DEM,Glenda Ritz,116
+Newton,Jefferson 3,Superintendent of Public Instruction,,DEM,Glenda Ritz,83
+Newton,Lake 1,Superintendent of Public Instruction,,DEM,Glenda Ritz,201
+Newton,Lake 2,Superintendent of Public Instruction,,DEM,Glenda Ritz,172
+Newton,Lincoln 1,Superintendent of Public Instruction,,DEM,Glenda Ritz,179
+Newton,Lincoln 2,Superintendent of Public Instruction,,DEM,Glenda Ritz,231
+Newton,Lincoln 3,Superintendent of Public Instruction,,DEM,Glenda Ritz,303
+Newton,McClellan,Superintendent of Public Instruction,,DEM,Glenda Ritz,28
+Newton,Washington,Superintendent of Public Instruction,,DEM,Glenda Ritz,36
+Newton,Total,Superintendent of Public Instruction,,DEM,Glenda Ritz,1971
+Newton,Beaver 1,U.S. House,4,REP,Todd Rokita,199
+Newton,Beaver 2,U.S. House,4,REP,Todd Rokita,272
+Newton,Colfax,U.S. House,4,REP,Todd Rokita,55
+Newton,Grant 1,U.S. House,4,REP,Todd Rokita,189
+Newton,Grant 2,U.S. House,4,REP,Todd Rokita,106
+Newton,Iroquois 1,U.S. House,4,REP,Todd Rokita,135
+Newton,Iroquois 2,U.S. House,4,REP,Todd Rokita,212
+Newton,Jackson,U.S. House,4,REP,Todd Rokita,131
+Newton,Jefferson 1,U.S. House,4,REP,Todd Rokita,177
+Newton,Jefferson 2,U.S. House,4,REP,Todd Rokita,213
+Newton,Jefferson 3,U.S. House,4,REP,Todd Rokita,130
+Newton,Lake 1,U.S. House,4,REP,Todd Rokita,369
+Newton,Lake 2,U.S. House,4,REP,Todd Rokita,284
+Newton,Lincoln 1,U.S. House,4,REP,Todd Rokita,274
+Newton,Lincoln 2,U.S. House,4,REP,Todd Rokita,398
+Newton,Lincoln 3,U.S. House,4,REP,Todd Rokita,426
+Newton,McClellan,U.S. House,4,REP,Todd Rokita,58
+Newton,Washington,U.S. House,4,REP,Todd Rokita,129
+Newton,Total,U.S. House,4,REP,Todd Rokita,3757
+Newton,Beaver 1,U.S. House,4,DEM,John Dale,46
+Newton,Beaver 2,U.S. House,4,DEM,John Dale,86
+Newton,Colfax,U.S. House,4,DEM,John Dale,19
+Newton,Grant 1,U.S. House,4,DEM,John Dale,60
+Newton,Grant 2,U.S. House,4,DEM,John Dale,44
+Newton,Iroquois 1,U.S. House,4,DEM,John Dale,38
+Newton,Iroquois 2,U.S. House,4,DEM,John Dale,48
+Newton,Jackson,U.S. House,4,DEM,John Dale,59
+Newton,Jefferson 1,U.S. House,4,DEM,John Dale,72
+Newton,Jefferson 2,U.S. House,4,DEM,John Dale,101
+Newton,Jefferson 3,U.S. House,4,DEM,John Dale,71
+Newton,Lake 1,U.S. House,4,DEM,John Dale,171
+Newton,Lake 2,U.S. House,4,DEM,John Dale,149
+Newton,Lincoln 1,U.S. House,4,DEM,John Dale,151
+Newton,Lincoln 2,U.S. House,4,DEM,John Dale,188
+Newton,Lincoln 3,U.S. House,4,DEM,John Dale,276
+Newton,McClellan,U.S. House,4,DEM,John Dale,22
+Newton,Washington,U.S. House,4,DEM,John Dale,25
+Newton,Total,U.S. House,4,DEM,John Dale,1626
+Newton,Beaver 1,U.S. House,4,LIB,Steven M. Mayoras,14
+Newton,Beaver 2,U.S. House,4,LIB,Steven M. Mayoras,12
+Newton,Colfax,U.S. House,4,LIB,Steven M. Mayoras,2
+Newton,Grant 1,U.S. House,4,LIB,Steven M. Mayoras,17
+Newton,Grant 2,U.S. House,4,LIB,Steven M. Mayoras,12
+Newton,Iroquois 1,U.S. House,4,LIB,Steven M. Mayoras,5
+Newton,Iroquois 2,U.S. House,4,LIB,Steven M. Mayoras,12
+Newton,Jackson,U.S. House,4,LIB,Steven M. Mayoras,5
+Newton,Jefferson 1,U.S. House,4,LIB,Steven M. Mayoras,14
+Newton,Jefferson 2,U.S. House,4,LIB,Steven M. Mayoras,23
+Newton,Jefferson 3,U.S. House,4,LIB,Steven M. Mayoras,13
+Newton,Lake 1,U.S. House,4,LIB,Steven M. Mayoras,25
+Newton,Lake 2,U.S. House,4,LIB,Steven M. Mayoras,25
+Newton,Lincoln 1,U.S. House,4,LIB,Steven M. Mayoras,21
+Newton,Lincoln 2,U.S. House,4,LIB,Steven M. Mayoras,49
+Newton,Lincoln 3,U.S. House,4,LIB,Steven M. Mayoras,42
+Newton,McClellan,U.S. House,4,LIB,Steven M. Mayoras,4
+Newton,Washington,U.S. House,4,LIB,Steven M. Mayoras,5
+Newton,Total,U.S. House,4,LIB,Steven M. Mayoras,300
+Newton,Beaver 1,U.S. House,4,,Write-ins,0
+Newton,Beaver 2,U.S. House,4,,Write-ins,1
+Newton,Colfax,U.S. House,4,,Write-ins,0
+Newton,Grant 1,U.S. House,4,,Write-ins,0
+Newton,Grant 2,U.S. House,4,,Write-ins,0
+Newton,Iroquois 1,U.S. House,4,,Write-ins,0
+Newton,Iroquois 2,U.S. House,4,,Write-ins,0
+Newton,Jackson,U.S. House,4,,Write-ins,0
+Newton,Jefferson 1,U.S. House,4,,Write-ins,0
+Newton,Jefferson 2,U.S. House,4,,Write-ins,0
+Newton,Jefferson 3,U.S. House,4,,Write-ins,1
+Newton,Lake 1,U.S. House,4,,Write-ins,1
+Newton,Lake 2,U.S. House,4,,Write-ins,1
+Newton,Lincoln 1,U.S. House,4,,Write-ins,1
+Newton,Lincoln 2,U.S. House,4,,Write-ins,0
+Newton,Lincoln 3,U.S. House,4,,Write-ins,0
+Newton,McClellan,U.S. House,4,,Write-ins,0
+Newton,Washington,U.S. House,4,,Write-ins,0
+Newton,Total,U.S. House,4,,Write-ins,5
+Newton,Grant 1,State House,13,REP,Sharon Negele,200
+Newton,Grant 2,State House,13,REP,Sharon Negele,120
+Newton,Iroquois 1,State House,13,REP,Sharon Negele,134
+Newton,Iroquois 2,State House,13,REP,Sharon Negele,204
+Newton,Jefferson 1,State House,13,REP,Sharon Negele,192
+Newton,Jefferson 2,State House,13,REP,Sharon Negele,240
+Newton,Jefferson 3,State House,13,REP,Sharon Negele,131
+Newton,Washington,State House,13,REP,Sharon Negele,136
+Newton,Total,State House,13,REP,Sharon Negele,1357
+Newton,Grant 1,State House,13,DEM,Mike Childress,64
+Newton,Grant 2,State House,13,DEM,Mike Childress,42
+Newton,Iroquois 1,State House,13,DEM,Mike Childress,40
+Newton,Iroquois 2,State House,13,DEM,Mike Childress,65
+Newton,Jefferson 1,State House,13,DEM,Mike Childress,68
+Newton,Jefferson 2,State House,13,DEM,Mike Childress,99
+Newton,Jefferson 3,State House,13,DEM,Mike Childress,81
+Newton,Washington,State House,13,DEM,Mike Childress,23
+Newton,Total,State House,13,DEM,Mike Childress,482
+Newton,Beaver 1,State House,16,REP,Douglas Gutwein,213
+Newton,Beaver 2,State House,16,REP,Douglas Gutwein,277
+Newton,Colfax,State House,16,REP,Douglas Gutwein,56
+Newton,Jackson,State House,16,REP,Douglas Gutwein,136
+Newton,Lake 1,State House,16,REP,Douglas Gutwein,393
+Newton,Lake 2,State House,16,REP,Douglas Gutwein,300
+Newton,Lincoln 1,State House,16,REP,Douglas Gutwein,293
+Newton,Lincoln 2,State House,16,REP,Douglas Gutwein,438
+Newton,Lincoln 3,State House,16,REP,Douglas Gutwein,458
+Newton,McClellan,State House,16,REP,Douglas Gutwein,64
+Newton,Total,State House,16,REP,Douglas Gutwein,2628
+Newton,Beaver 1,State House,16,DEM,Richard W. Ludington,50
+Newton,Beaver 2,State House,16,DEM,Richard W. Ludington,93
+Newton,Colfax,State House,16,DEM,Richard W. Ludington,20
+Newton,Jackson,State House,16,DEM,Richard W. Ludington,58
+Newton,Lake 1,State House,16,DEM,Richard W. Ludington,170
+Newton,Lake 2,State House,16,DEM,Richard W. Ludington,154
+Newton,Lincoln 1,State House,16,DEM,Richard W. Ludington,152
+Newton,Lincoln 2,State House,16,DEM,Richard W. Ludington,197
+Newton,Lincoln 3,State House,16,DEM,Richard W. Ludington,279
+Newton,McClellan,State House,16,DEM,Richard W. Ludington,23
+Newton,Total,State House,16,DEM,Richard W. Ludington,1196

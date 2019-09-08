@@ -1,0 +1,513 @@
+county,precinct,office,district,candidate,party,election_day,absentee,provisional,votes
+Huntington,Jackson 1,Ballots Cast,,,,136,82,0,218
+Huntington,Jackson 1,Registered Voters,,,,,,,794
+Huntington,Jackson 1,U.S. Senate,,Mike Braun,REP,38,30,0,68
+Huntington,Jackson 1,U.S. Senate,,Luke Messer,REP,40,15,0,55
+Huntington,Jackson 1,U.S. Senate,,Todd Rokita,REP,39,17,0,56
+Huntington,Jackson 1,U.S. House,3,Jim Banks,REP,108,52,0,160
+Huntington,Jackson 1,State Senate,19,Travis Holdman,REP,101,51,0,152
+Huntington,Jackson 1,State Senate,19,Eric Orr,REP,13,10,0,23
+Huntington,Jackson 1,State House,50,Daniel J (Dan) Leonard,REP,108,57,0,165
+Huntington,Jackson 1,U.S. Senate,,Joe Donnelly,DEM,13,14,0,27
+Huntington,Jackson 1,U.S. House,3,John F Roberson,DEM,2,2,0,4
+Huntington,Jackson 1,U.S. House,3,Tommy A Schrader,DEM,0,0,0,0
+Huntington,Jackson 1,U.S. House,3,Courtney Tritch,DEM,13,12,0,25
+Huntington,Jackson 1,State Senate,19,No Candidate Filed,DEM,0,0,0,0
+Huntington,Jackson 1,State House,50,Jorge Fernandez,DEM,13,12,0,25
+Huntington,Jackson 2,Ballots Cast,,,,141,87,0,228
+Huntington,Jackson 2,Registered Voters,,,,,,,923
+Huntington,Jackson 2,U.S. Senate,,Mike Braun,REP,49,25,0,74
+Huntington,Jackson 2,U.S. Senate,,Luke Messer,REP,32,17,0,49
+Huntington,Jackson 2,U.S. Senate,,Todd Rokita,REP,43,30,0,73
+Huntington,Jackson 2,U.S. House,3,Jim Banks,REP,113,66,0,179
+Huntington,Jackson 2,State Senate,19,Travis Holdman,REP,104,61,0,165
+Huntington,Jackson 2,State Senate,19,Eric Orr,REP,14,9,0,23
+Huntington,Jackson 2,State House,50,Daniel J (Dan) Leonard,REP,117,63,0,180
+Huntington,Jackson 2,U.S. Senate,,Joe Donnelly,DEM,9,10,0,19
+Huntington,Jackson 2,U.S. House,3,John F Roberson,DEM,2,1,0,3
+Huntington,Jackson 2,U.S. House,3,Tommy A Schrader,DEM,3,2,0,5
+Huntington,Jackson 2,U.S. House,3,Courtney Tritch,DEM,3,6,0,9
+Huntington,Jackson 2,State Senate,19,No Candidate Filed,DEM,0,0,0,0
+Huntington,Jackson 2,State House,50,Jorge Fernandez,DEM,7,9,0,16
+Huntington,Jackson 3,Ballots Cast,,,,112,60,0,172
+Huntington,Jackson 3,Registered Voters,,,,,,,642
+Huntington,Jackson 3,U.S. Senate,,Mike Braun,REP,34,16,0,50
+Huntington,Jackson 3,U.S. Senate,,Luke Messer,REP,21,8,0,29
+Huntington,Jackson 3,U.S. Senate,,Todd Rokita,REP,33,20,0,53
+Huntington,Jackson 3,U.S. House,3,Jim Banks,REP,78,38,0,116
+Huntington,Jackson 3,State Senate,19,Travis Holdman,REP,73,36,0,109
+Huntington,Jackson 3,State Senate,19,Eric Orr,REP,14,8,0,22
+Huntington,Jackson 3,State House,50,Daniel J (Dan) Leonard,REP,79,37,0,116
+Huntington,Jackson 3,U.S. Senate,,Joe Donnelly,DEM,20,13,0,33
+Huntington,Jackson 3,U.S. House,3,John F Roberson,DEM,0,0,0,0
+Huntington,Jackson 3,U.S. House,3,Tommy A Schrader,DEM,4,2,0,6
+Huntington,Jackson 3,U.S. House,3,Courtney Tritch,DEM,17,11,0,28
+Huntington,Jackson 3,State Senate,19,No Candidate Filed,DEM,0,0,0,0
+Huntington,Jackson 3,State House,50,Jorge Fernandez,DEM,17,13,0,30
+Huntington,Jackson 4,Ballots Cast,,,,105,54,0,159
+Huntington,Jackson 4,Registered Voters,,,,,,,578
+Huntington,Jackson 4,U.S. Senate,,Mike Braun,REP,31,15,0,46
+Huntington,Jackson 4,U.S. Senate,,Luke Messer,REP,25,12,0,37
+Huntington,Jackson 4,U.S. Senate,,Todd Rokita,REP,29,18,0,47
+Huntington,Jackson 4,U.S. House,3,Jim Banks,REP,81,40,0,121
+Huntington,Jackson 4,State Senate,19,Travis Holdman,REP,75,37,0,112
+Huntington,Jackson 4,State Senate,19,Eric Orr,REP,11,4,0,15
+Huntington,Jackson 4,State House,50,Daniel J (Dan) Leonard,REP,84,45,0,129
+Huntington,Jackson 4,U.S. Senate,,Joe Donnelly,DEM,13,7,0,20
+Huntington,Jackson 4,U.S. House,3,John F Roberson,DEM,1,0,0,1
+Huntington,Jackson 4,U.S. House,3,Tommy A Schrader,DEM,1,0,0,1
+Huntington,Jackson 4,U.S. House,3,Courtney Tritch,DEM,10,7,0,17
+Huntington,Jackson 4,State Senate,19,No Candidate Filed,DEM,0,0,0,0
+Huntington,Jackson 4,State House,50,Jorge Fernandez,DEM,10,6,0,16
+Huntington,Clear Creek 1,Ballots Cast,,,,157,128,0,285
+Huntington,Clear Creek 1,Registered Voters,,,,,,,830
+Huntington,Clear Creek 1,U.S. Senate,,Mike Braun,REP,54,44,0,98
+Huntington,Clear Creek 1,U.S. Senate,,Luke Messer,REP,36,26,0,62
+Huntington,Clear Creek 1,U.S. Senate,,Todd Rokita,REP,46,43,0,89
+Huntington,Clear Creek 1,U.S. House,3,Jim Banks,REP,130,107,0,237
+Huntington,Clear Creek 1,State Senate,17,Andy Zay,REP,117,113,0,230
+Huntington,Clear Creek 1,State House,50,Daniel J (Dan) Leonard,REP,122,106,0,228
+Huntington,Clear Creek 1,U.S. Senate,,Joe Donnelly,DEM,13,6,0,19
+Huntington,Clear Creek 1,U.S. House,3,John F Roberson,DEM,1,0,0,1
+Huntington,Clear Creek 1,U.S. House,3,Tommy A Schrader,DEM,5,1,0,6
+Huntington,Clear Creek 1,U.S. House,3,Courtney Tritch,DEM,7,6,0,13
+Huntington,Clear Creek 1,State Senate,17,Gary L Snyder,DEM,13,6,0,19
+Huntington,Clear Creek 1,State House,50,Jorge Fernandez,DEM,12,5,0,17
+Huntington,Clear Creek 2,Ballots Cast,,,,128,100,0,228
+Huntington,Clear Creek 2,Registered Voters,,,,,,,643
+Huntington,Clear Creek 2,U.S. Senate,,Mike Braun,REP,40,42,0,82
+Huntington,Clear Creek 2,U.S. Senate,,Luke Messer,REP,42,23,0,65
+Huntington,Clear Creek 2,U.S. Senate,,Todd Rokita,REP,31,25,0,56
+Huntington,Clear Creek 2,U.S. House,3,Jim Banks,REP,108,80,0,188
+Huntington,Clear Creek 2,State Senate,17,Andy Zay,REP,104,81,0,185
+Huntington,Clear Creek 2,State House,50,Daniel J (Dan) Leonard,REP,109,89,0,198
+Huntington,Clear Creek 2,U.S. Senate,,Joe Donnelly,DEM,6,4,0,10
+Huntington,Clear Creek 2,U.S. House,3,John F Roberson,DEM,1,1,0,2
+Huntington,Clear Creek 2,U.S. House,3,Tommy A Schrader,DEM,3,0,0,3
+Huntington,Clear Creek 2,U.S. House,3,Courtney Tritch,DEM,2,3,0,5
+Huntington,Clear Creek 2,State Senate,17,Gary L Snyder,DEM,5,3,0,8
+Huntington,Clear Creek 2,State House,50,Jorge Fernandez,DEM,5,4,0,9
+Huntington,Warren,Ballots Cast,,,,93,41,0,134
+Huntington,Warren,Registered Voters,,,,,,,479
+Huntington,Warren,U.S. Senate,,Mike Braun,REP,28,15,0,43
+Huntington,Warren,U.S. Senate,,Luke Messer,REP,22,9,0,31
+Huntington,Warren,U.S. Senate,,Todd Rokita,REP,26,13,0,39
+Huntington,Warren,U.S. House,3,Jim Banks,REP,72,35,0,107
+Huntington,Warren,State Senate,17,Andy Zay,REP,68,30,0,98
+Huntington,Warren,State House,50,Daniel J (Dan) Leonard,REP,72,36,0,108
+Huntington,Warren,U.S. Senate,,Joe Donnelly,DEM,10,1,0,11
+Huntington,Warren,U.S. House,3,John F Roberson,DEM,0,0,0,0
+Huntington,Warren,U.S. House,3,Tommy A Schrader,DEM,1,0,0,1
+Huntington,Warren,U.S. House,3,Courtney Tritch,DEM,10,1,0,11
+Huntington,Warren,State Senate,17,Gary L Snyder,DEM,9,1,0,10
+Huntington,Warren,State House,50,Jorge Fernandez,DEM,11,1,0,12
+Huntington,Dallas 1,Ballots Cast,,,,118,64,0,182
+Huntington,Dallas 1,Registered Voters,,,,,,,686
+Huntington,Dallas 1,U.S. Senate,,Mike Braun,REP,42,16,0,58
+Huntington,Dallas 1,U.S. Senate,,Luke Messer,REP,28,18,0,46
+Huntington,Dallas 1,U.S. Senate,,Todd Rokita,REP,32,21,0,53
+Huntington,Dallas 1,U.S. House,3,Jim Banks,REP,96,54,0,150
+Huntington,Dallas 1,State Senate,17,Andy Zay,REP,84,50,0,134
+Huntington,Dallas 1,State House,50,Daniel J (Dan) Leonard,REP,93,54,0,147
+Huntington,Dallas 1,U.S. Senate,,Joe Donnelly,DEM,8,5,0,13
+Huntington,Dallas 1,U.S. House,3,John F Roberson,DEM,2,2,0,4
+Huntington,Dallas 1,U.S. House,3,Tommy A Schrader,DEM,1,1,0,2
+Huntington,Dallas 1,U.S. House,3,Courtney Tritch,DEM,6,2,0,8
+Huntington,Dallas 1,State Senate,17,Gary L Snyder,DEM,8,5,0,13
+Huntington,Dallas 1,State House,50,Jorge Fernandez,DEM,8,5,0,13
+Huntington,Dallas 2,Ballots Cast,,,,53,38,0,91
+Huntington,Dallas 2,Registered Voters,,,,,,,630
+Huntington,Dallas 2,U.S. Senate,,Mike Braun,REP,12,12,0,24
+Huntington,Dallas 2,U.S. Senate,,Luke Messer,REP,13,7,0,20
+Huntington,Dallas 2,U.S. Senate,,Todd Rokita,REP,15,10,0,25
+Huntington,Dallas 2,U.S. House,3,Jim Banks,REP,33,25,0,58
+Huntington,Dallas 2,State Senate,17,Andy Zay,REP,33,26,0,59
+Huntington,Dallas 2,State House,50,Daniel J (Dan) Leonard,REP,39,22,0,61
+Huntington,Dallas 2,U.S. Senate,,Joe Donnelly,DEM,11,6,0,17
+Huntington,Dallas 2,U.S. House,3,John F Roberson,DEM,1,0,0,1
+Huntington,Dallas 2,U.S. House,3,Tommy A Schrader,DEM,3,0,0,3
+Huntington,Dallas 2,U.S. House,3,Courtney Tritch,DEM,8,6,0,14
+Huntington,Dallas 2,State Senate,17,Gary L Snyder,DEM,12,6,0,18
+Huntington,Dallas 2,State House,50,Jorge Fernandez,DEM,12,6,0,18
+Huntington,Huntington 1,Ballots Cast,,,,68,40,0,108
+Huntington,Huntington 1,Registered Voters,,,,,,,557
+Huntington,Huntington 1,U.S. Senate,,Mike Braun,REP,24,6,0,30
+Huntington,Huntington 1,U.S. Senate,,Luke Messer,REP,14,12,0,26
+Huntington,Huntington 1,U.S. Senate,,Todd Rokita,REP,13,11,0,24
+Huntington,Huntington 1,U.S. House,3,Jim Banks,REP,44,20,0,64
+Huntington,Huntington 1,State Senate,17,Andy Zay,REP,44,16,0,60
+Huntington,Huntington 1,State House,50,Daniel J (Dan) Leonard,REP,48,23,0,71
+Huntington,Huntington 1,U.S. Senate,,Joe Donnelly,DEM,9,9,0,18
+Huntington,Huntington 1,U.S. House,3,John F Roberson,DEM,1,1,0,2
+Huntington,Huntington 1,U.S. House,3,Tommy A Schrader,DEM,1,0,0,1
+Huntington,Huntington 1,U.S. House,3,Courtney Tritch,DEM,10,8,0,18
+Huntington,Huntington 1,State Senate,17,Gary L Snyder,DEM,12,7,0,19
+Huntington,Huntington 1,State House,50,Jorge Fernandez,DEM,12,7,0,19
+Huntington,Huntington 1A,Ballots Cast,,,,45,23,0,68
+Huntington,Huntington 1A,Registered Voters,,,,,,,390
+Huntington,Huntington 1A,U.S. Senate,,Mike Braun,REP,12,11,0,23
+Huntington,Huntington 1A,U.S. Senate,,Luke Messer,REP,10,5,0,15
+Huntington,Huntington 1A,U.S. Senate,,Todd Rokita,REP,8,6,0,14
+Huntington,Huntington 1A,U.S. House,3,Jim Banks,REP,26,16,0,42
+Huntington,Huntington 1A,State Senate,17,Andy Zay,REP,25,17,0,42
+Huntington,Huntington 1A,State House,50,Daniel J (Dan) Leonard,REP,28,16,0,44
+Huntington,Huntington 1A,U.S. Senate,,Joe Donnelly,DEM,10,1,0,11
+Huntington,Huntington 1A,U.S. House,3,John F Roberson,DEM,2,0,0,2
+Huntington,Huntington 1A,U.S. House,3,Tommy A Schrader,DEM,3,0,0,3
+Huntington,Huntington 1A,U.S. House,3,Courtney Tritch,DEM,6,1,0,7
+Huntington,Huntington 1A,State Senate,17,Gary L Snyder,DEM,12,0,0,12
+Huntington,Huntington 1A,State House,50,Jorge Fernandez,DEM,11,0,0,11
+Huntington,Huntington 2,Ballots Cast,,,,107,53,0,160
+Huntington,Huntington 2,Registered Voters,,,,,,,638
+Huntington,Huntington 2,U.S. Senate,,Mike Braun,REP,35,20,0,55
+Huntington,Huntington 2,U.S. Senate,,Luke Messer,REP,20,12,0,32
+Huntington,Huntington 2,U.S. Senate,,Todd Rokita,REP,30,9,0,39
+Huntington,Huntington 2,U.S. House,3,Jim Banks,REP,82,34,0,116
+Huntington,Huntington 2,State Senate,17,Andy Zay,REP,79,33,0,112
+Huntington,Huntington 2,State House,50,Daniel J (Dan) Leonard,REP,86,36,0,122
+Huntington,Huntington 2,U.S. Senate,,Joe Donnelly,DEM,11,5,0,16
+Huntington,Huntington 2,U.S. House,3,John F Roberson,DEM,1,1,0,2
+Huntington,Huntington 2,U.S. House,3,Tommy A Schrader,DEM,2,0,0,2
+Huntington,Huntington 2,U.S. House,3,Courtney Tritch,DEM,8,3,0,11
+Huntington,Huntington 2,State Senate,17,Gary L Snyder,DEM,10,4,0,14
+Huntington,Huntington 2,State House,50,Jorge Fernandez,DEM,10,4,0,14
+Huntington,Huntington 2A,Ballots Cast,,,,83,50,0,133
+Huntington,Huntington 2A,Registered Voters,,,,,,,730
+Huntington,Huntington 2A,U.S. Senate,,Mike Braun,REP,27,17,0,44
+Huntington,Huntington 2A,U.S. Senate,,Luke Messer,REP,17,7,0,24
+Huntington,Huntington 2A,U.S. Senate,,Todd Rokita,REP,17,21,0,38
+Huntington,Huntington 2A,U.S. House,3,Jim Banks,REP,54,39,0,93
+Huntington,Huntington 2A,State Senate,17,Andy Zay,REP,55,39,0,94
+Huntington,Huntington 2A,State House,50,Daniel J (Dan) Leonard,REP,58,42,0,100
+Huntington,Huntington 2A,U.S. Senate,,Joe Donnelly,DEM,10,1,0,11
+Huntington,Huntington 2A,U.S. House,3,John F Roberson,DEM,1,0,0,1
+Huntington,Huntington 2A,U.S. House,3,Tommy A Schrader,DEM,4,0,0,4
+Huntington,Huntington 2A,U.S. House,3,Courtney Tritch,DEM,5,1,0,6
+Huntington,Huntington 2A,State Senate,17,Gary L Snyder,DEM,7,1,0,8
+Huntington,Huntington 2A,State House,50,Jorge Fernandez,DEM,8,1,0,9
+Huntington,Huntington 3,Ballots Cast,,,,60,83,0,143
+Huntington,Huntington 3,Registered Voters,,,,,,,596
+Huntington,Huntington 3,U.S. Senate,,Mike Braun,REP,16,17,0,33
+Huntington,Huntington 3,U.S. Senate,,Luke Messer,REP,13,16,0,29
+Huntington,Huntington 3,U.S. Senate,,Todd Rokita,REP,15,24,0,39
+Huntington,Huntington 3,U.S. House,3,Jim Banks,REP,37,54,0,91
+Huntington,Huntington 3,State Senate,17,Andy Zay,REP,37,50,0,87
+Huntington,Huntington 3,State House,50,Daniel J (Dan) Leonard,REP,41,55,0,96
+Huntington,Huntington 3,U.S. Senate,,Joe Donnelly,DEM,10,19,0,29
+Huntington,Huntington 3,U.S. House,3,John F Roberson,DEM,1,3,0,4
+Huntington,Huntington 3,U.S. House,3,Tommy A Schrader,DEM,0,3,0,3
+Huntington,Huntington 3,U.S. House,3,Courtney Tritch,DEM,10,10,0,20
+Huntington,Huntington 3,State Senate,17,Gary L Snyder,DEM,11,17,0,28
+Huntington,Huntington 3,State House,50,Jorge Fernandez,DEM,11,17,0,28
+Huntington,Huntington 4,Ballots Cast,,,,150,140,0,290
+Huntington,Huntington 4,Registered Voters,,,,,,,840
+Huntington,Huntington 4,U.S. Senate,,Mike Braun,REP,50,43,0,93
+Huntington,Huntington 4,U.S. Senate,,Luke Messer,REP,35,32,0,67
+Huntington,Huntington 4,U.S. Senate,,Todd Rokita,REP,36,42,0,78
+Huntington,Huntington 4,U.S. House,3,Jim Banks,REP,112,105,0,217
+Huntington,Huntington 4,State Senate,17,Andy Zay,REP,102,94,0,196
+Huntington,Huntington 4,State House,50,Daniel J (Dan) Leonard,REP,117,104,0,221
+Huntington,Huntington 4,U.S. Senate,,Joe Donnelly,DEM,10,15,0,25
+Huntington,Huntington 4,U.S. House,3,John F Roberson,DEM,0,2,0,2
+Huntington,Huntington 4,U.S. House,3,Tommy A Schrader,DEM,0,2,0,2
+Huntington,Huntington 4,U.S. House,3,Courtney Tritch,DEM,11,8,0,19
+Huntington,Huntington 4,State Senate,17,Gary L Snyder,DEM,10,13,0,23
+Huntington,Huntington 4,State House,50,Jorge Fernandez,DEM,11,13,0,24
+Huntington,Huntington 5,Ballots Cast,,,,122,65,0,187
+Huntington,Huntington 5,Registered Voters,,,,,,,525
+Huntington,Huntington 5,U.S. Senate,,Mike Braun,REP,28,13,0,41
+Huntington,Huntington 5,U.S. Senate,,Luke Messer,REP,26,17,0,43
+Huntington,Huntington 5,U.S. Senate,,Todd Rokita,REP,34,12,0,46
+Huntington,Huntington 5,U.S. House,3,Jim Banks,REP,77,43,0,120
+Huntington,Huntington 5,State Senate,17,Andy Zay,REP,76,40,0,116
+Huntington,Huntington 5,State House,50,Daniel J (Dan) Leonard,REP,75,47,0,122
+Huntington,Huntington 5,U.S. Senate,,Joe Donnelly,DEM,18,9,0,27
+Huntington,Huntington 5,U.S. House,3,John F Roberson,DEM,3,0,0,3
+Huntington,Huntington 5,U.S. House,3,Tommy A Schrader,DEM,1,0,0,1
+Huntington,Huntington 5,U.S. House,3,Courtney Tritch,DEM,15,9,0,24
+Huntington,Huntington 5,State Senate,17,Gary L Snyder,DEM,15,9,0,24
+Huntington,Huntington 5,State House,50,Jorge Fernandez,DEM,16,8,0,24
+Huntington,Huntington 5A,Ballots Cast,,,,127,73,0,200
+Huntington,Huntington 5A,Registered Voters,,,,,,,711
+Huntington,Huntington 5A,U.S. Senate,,Mike Braun,REP,33,27,0,60
+Huntington,Huntington 5A,U.S. Senate,,Luke Messer,REP,31,9,0,40
+Huntington,Huntington 5A,U.S. Senate,,Todd Rokita,REP,31,19,0,50
+Huntington,Huntington 5A,U.S. House,3,Jim Banks,REP,88,56,0,144
+Huntington,Huntington 5A,State Senate,17,Andy Zay,REP,81,48,0,129
+Huntington,Huntington 5A,State House,50,Daniel J (Dan) Leonard,REP,84,56,0,140
+Huntington,Huntington 5A,U.S. Senate,,Joe Donnelly,DEM,21,9,0,30
+Huntington,Huntington 5A,U.S. House,3,John F Roberson,DEM,8,1,0,9
+Huntington,Huntington 5A,U.S. House,3,Tommy A Schrader,DEM,3,0,0,3
+Huntington,Huntington 5A,U.S. House,3,Courtney Tritch,DEM,12,9,0,21
+Huntington,Huntington 5A,State Senate,17,Gary L Snyder,DEM,22,8,0,30
+Huntington,Huntington 5A,State House,50,Jorge Fernandez,DEM,22,9,0,31
+Huntington,Huntington 6,Ballots Cast,,,,164,143,0,307
+Huntington,Huntington 6,Registered Voters,,,,,,,710
+Huntington,Huntington 6,U.S. Senate,,Mike Braun,REP,46,34,0,80
+Huntington,Huntington 6,U.S. Senate,,Luke Messer,REP,52,38,0,90
+Huntington,Huntington 6,U.S. Senate,,Todd Rokita,REP,42,52,0,94
+Huntington,Huntington 6,U.S. House,3,Jim Banks,REP,124,102,0,226
+Huntington,Huntington 6,State Senate,17,Andy Zay,REP,122,99,0,221
+Huntington,Huntington 6,State House,50,Daniel J (Dan) Leonard,REP,132,111,0,243
+Huntington,Huntington 6,U.S. Senate,,Joe Donnelly,DEM,13,9,0,22
+Huntington,Huntington 6,U.S. House,3,John F Roberson,DEM,0,1,0,1
+Huntington,Huntington 6,U.S. House,3,Tommy A Schrader,DEM,2,2,0,4
+Huntington,Huntington 6,U.S. House,3,Courtney Tritch,DEM,10,6,0,16
+Huntington,Huntington 6,State Senate,17,Gary L Snyder,DEM,12,8,0,20
+Huntington,Huntington 6,State House,50,Jorge Fernandez,DEM,12,8,0,20
+Huntington,Huntington 6A,Ballots Cast,,,,133,101,0,234
+Huntington,Huntington 6A,Registered Voters,,,,,,,841
+Huntington,Huntington 6A,U.S. Senate,,Mike Braun,REP,38,30,0,68
+Huntington,Huntington 6A,U.S. Senate,,Luke Messer,REP,33,19,0,52
+Huntington,Huntington 6A,U.S. Senate,,Todd Rokita,REP,33,24,0,57
+Huntington,Huntington 6A,U.S. House,3,Jim Banks,REP,86,64,0,150
+Huntington,Huntington 6A,State Senate,17,Andy Zay,REP,91,61,0,152
+Huntington,Huntington 6A,State House,50,Daniel J (Dan) Leonard,REP,93,67,0,160
+Huntington,Huntington 6A,U.S. Senate,,Joe Donnelly,DEM,19,18,0,37
+Huntington,Huntington 6A,U.S. House,3,John F Roberson,DEM,3,2,0,5
+Huntington,Huntington 6A,U.S. House,3,Tommy A Schrader,DEM,5,4,0,9
+Huntington,Huntington 6A,U.S. House,3,Courtney Tritch,DEM,11,11,0,22
+Huntington,Huntington 6A,State Senate,17,Gary L Snyder,DEM,16,14,0,30
+Huntington,Huntington 6A,State House,50,Jorge Fernandez,DEM,17,17,0,34
+Huntington,Huntington 7,Ballots Cast,,,,100,37,0,137
+Huntington,Huntington 7,Registered Voters,,,,,,,615
+Huntington,Huntington 7,U.S. Senate,,Mike Braun,REP,26,13,0,39
+Huntington,Huntington 7,U.S. Senate,,Luke Messer,REP,18,7,0,25
+Huntington,Huntington 7,U.S. Senate,,Todd Rokita,REP,33,10,0,43
+Huntington,Huntington 7,U.S. House,3,Jim Banks,REP,74,24,0,98
+Huntington,Huntington 7,State Senate,17,Andy Zay,REP,67,21,0,88
+Huntington,Huntington 7,State House,50,Daniel J (Dan) Leonard,REP,72,22,0,94
+Huntington,Huntington 7,U.S. Senate,,Joe Donnelly,DEM,13,4,0,17
+Huntington,Huntington 7,U.S. House,3,John F Roberson,DEM,5,1,0,6
+Huntington,Huntington 7,U.S. House,3,Tommy A Schrader,DEM,0,0,0,0
+Huntington,Huntington 7,U.S. House,3,Courtney Tritch,DEM,9,4,0,13
+Huntington,Huntington 7,State Senate,17,Gary L Snyder,DEM,11,4,0,15
+Huntington,Huntington 7,State House,50,Jorge Fernandez,DEM,13,5,0,18
+Huntington,Huntington 7A,Ballots Cast,,,,100,79,0,179
+Huntington,Huntington 7A,Registered Voters,,,,,,,753
+Huntington,Huntington 7A,U.S. Senate,,Mike Braun,REP,30,24,0,54
+Huntington,Huntington 7A,U.S. Senate,,Luke Messer,REP,22,23,0,45
+Huntington,Huntington 7A,U.S. Senate,,Todd Rokita,REP,32,18,0,50
+Huntington,Huntington 7A,U.S. House,3,Jim Banks,REP,80,57,0,137
+Huntington,Huntington 7A,State Senate,17,Andy Zay,REP,76,53,0,129
+Huntington,Huntington 7A,State House,50,Daniel J (Dan) Leonard,REP,80,59,0,139
+Huntington,Huntington 7A,U.S. Senate,,Joe Donnelly,DEM,8,7,0,15
+Huntington,Huntington 7A,U.S. House,3,John F Roberson,DEM,3,2,0,5
+Huntington,Huntington 7A,U.S. House,3,Tommy A Schrader,DEM,0,0,0,0
+Huntington,Huntington 7A,U.S. House,3,Courtney Tritch,DEM,5,5,0,10
+Huntington,Huntington 7A,State Senate,17,Gary L Snyder,DEM,8,7,0,15
+Huntington,Huntington 7A,State House,50,Jorge Fernandez,DEM,7,7,0,14
+Huntington,Huntington 8,Ballots Cast,,,,102,68,0,170
+Huntington,Huntington 8,Registered Voters,,,,,,,654
+Huntington,Huntington 8,U.S. Senate,,Mike Braun,REP,35,19,0,54
+Huntington,Huntington 8,U.S. Senate,,Luke Messer,REP,24,9,0,33
+Huntington,Huntington 8,U.S. Senate,,Todd Rokita,REP,26,20,0,46
+Huntington,Huntington 8,U.S. House,3,Jim Banks,REP,77,39,0,116
+Huntington,Huntington 8,State Senate,17,Andy Zay,REP,77,39,0,116
+Huntington,Huntington 8,State House,50,Daniel J (Dan) Leonard,REP,78,37,0,115
+Huntington,Huntington 8,U.S. Senate,,Joe Donnelly,DEM,12,13,0,25
+Huntington,Huntington 8,U.S. House,3,John F Roberson,DEM,2,0,0,2
+Huntington,Huntington 8,U.S. House,3,Tommy A Schrader,DEM,4,2,0,6
+Huntington,Huntington 8,U.S. House,3,Courtney Tritch,DEM,5,13,0,18
+Huntington,Huntington 8,State Senate,17,Gary L Snyder,DEM,10,13,0,23
+Huntington,Huntington 8,State House,50,Jorge Fernandez,DEM,10,13,0,23
+Huntington,Huntington 9,Ballots Cast,,,,114,44,0,158
+Huntington,Huntington 9,Registered Voters,,,,,,,737
+Huntington,Huntington 9,U.S. Senate,,Mike Braun,REP,26,9,0,35
+Huntington,Huntington 9,U.S. Senate,,Luke Messer,REP,32,11,0,43
+Huntington,Huntington 9,U.S. Senate,,Todd Rokita,REP,35,10,0,45
+Huntington,Huntington 9,U.S. House,3,Jim Banks,REP,79,25,0,104
+Huntington,Huntington 9,State Senate,17,Andy Zay,REP,74,21,0,95
+Huntington,Huntington 9,State House,50,Daniel J (Dan) Leonard,REP,82,26,0,108
+Huntington,Huntington 9,U.S. Senate,,Joe Donnelly,DEM,15,8,0,23
+Huntington,Huntington 9,U.S. House,3,John F Roberson,DEM,1,1,0,2
+Huntington,Huntington 9,U.S. House,3,Tommy A Schrader,DEM,3,0,0,3
+Huntington,Huntington 9,U.S. House,3,Courtney Tritch,DEM,10,6,0,16
+Huntington,Huntington 9,State Senate,17,Gary L Snyder,DEM,13,8,0,21
+Huntington,Huntington 9,State House,50,Jorge Fernandez,DEM,12,8,0,20
+Huntington,Huntington 10,Ballots Cast,,,,95,22,0,117
+Huntington,Huntington 10,Registered Voters,,,,,,,642
+Huntington,Huntington 10,U.S. Senate,,Mike Braun,REP,32,10,0,42
+Huntington,Huntington 10,U.S. Senate,,Luke Messer,REP,21,1,0,22
+Huntington,Huntington 10,U.S. Senate,,Todd Rokita,REP,27,6,0,33
+Huntington,Huntington 10,U.S. House,3,Jim Banks,REP,68,16,0,84
+Huntington,Huntington 10,State Senate,17,Andy Zay,REP,64,15,0,79
+Huntington,Huntington 10,State House,50,Daniel J (Dan) Leonard,REP,69,17,0,86
+Huntington,Huntington 10,U.S. Senate,,Joe Donnelly,DEM,11,3,0,14
+Huntington,Huntington 10,U.S. House,3,John F Roberson,DEM,1,0,0,1
+Huntington,Huntington 10,U.S. House,3,Tommy A Schrader,DEM,2,1,0,3
+Huntington,Huntington 10,U.S. House,3,Courtney Tritch,DEM,8,2,0,10
+Huntington,Huntington 10,State Senate,17,Gary L Snyder,DEM,12,2,0,14
+Huntington,Huntington 10,State House,50,Jorge Fernandez,DEM,9,2,0,11
+Huntington,Huntington 11,Ballots Cast,,,,131,79,0,210
+Huntington,Huntington 11,Registered Voters,,,,,,,647
+Huntington,Huntington 11,U.S. Senate,,Mike Braun,REP,37,30,0,67
+Huntington,Huntington 11,U.S. Senate,,Luke Messer,REP,30,14,0,44
+Huntington,Huntington 11,U.S. Senate,,Todd Rokita,REP,39,22,0,61
+Huntington,Huntington 11,U.S. House,3,Jim Banks,REP,98,60,0,158
+Huntington,Huntington 11,State Senate,17,Andy Zay,REP,95,56,0,151
+Huntington,Huntington 11,State House,50,Daniel J (Dan) Leonard,REP,102,62,0,164
+Huntington,Huntington 11,U.S. Senate,,Joe Donnelly,DEM,10,8,0,18
+Huntington,Huntington 11,U.S. House,3,John F Roberson,DEM,1,3,0,4
+Huntington,Huntington 11,U.S. House,3,Tommy A Schrader,DEM,1,1,0,2
+Huntington,Huntington 11,U.S. House,3,Courtney Tritch,DEM,8,5,0,13
+Huntington,Huntington 11,State Senate,17,Gary L Snyder,DEM,8,8,0,16
+Huntington,Huntington 11,State House,50,Jorge Fernandez,DEM,8,9,0,17
+Huntington,Huntington 11A,Ballots Cast,,,,95,58,0,153
+Huntington,Huntington 11A,Registered Voters,,,,,,,582
+Huntington,Huntington 11A,U.S. Senate,,Mike Braun,REP,25,17,0,42
+Huntington,Huntington 11A,U.S. Senate,,Luke Messer,REP,30,14,0,44
+Huntington,Huntington 11A,U.S. Senate,,Todd Rokita,REP,31,13,0,44
+Huntington,Huntington 11A,U.S. House,3,Jim Banks,REP,79,38,0,117
+Huntington,Huntington 11A,State Senate,17,Andy Zay,REP,84,37,0,121
+Huntington,Huntington 11A,State House,50,Daniel J (Dan) Leonard,REP,79,39,0,118
+Huntington,Huntington 11A,U.S. Senate,,Joe Donnelly,DEM,2,9,0,11
+Huntington,Huntington 11A,U.S. House,3,John F Roberson,DEM,0,2,0,2
+Huntington,Huntington 11A,U.S. House,3,Tommy A Schrader,DEM,1,0,0,1
+Huntington,Huntington 11A,U.S. House,3,Courtney Tritch,DEM,1,7,0,8
+Huntington,Huntington 11A,State Senate,17,Gary L Snyder,DEM,2,9,0,11
+Huntington,Huntington 11A,State House,50,Jorge Fernandez,DEM,2,9,0,11
+Huntington,Huntington 12,Ballots Cast,,,,85,47,0,132
+Huntington,Huntington 12,Registered Voters,,,,,,,441
+Huntington,Huntington 12,U.S. Senate,,Mike Braun,REP,20,16,0,36
+Huntington,Huntington 12,U.S. Senate,,Luke Messer,REP,19,8,0,27
+Huntington,Huntington 12,U.S. Senate,,Todd Rokita,REP,35,12,0,47
+Huntington,Huntington 12,U.S. House,3,Jim Banks,REP,72,30,0,102
+Huntington,Huntington 12,State Senate,17,Andy Zay,REP,54,28,0,82
+Huntington,Huntington 12,State House,50,Daniel J (Dan) Leonard,REP,70,35,0,105
+Huntington,Huntington 12,U.S. Senate,,Joe Donnelly,DEM,2,4,0,6
+Huntington,Huntington 12,U.S. House,3,John F Roberson,DEM,0,0,0,0
+Huntington,Huntington 12,U.S. House,3,Tommy A Schrader,DEM,0,0,0,0
+Huntington,Huntington 12,U.S. House,3,Courtney Tritch,DEM,2,4,0,6
+Huntington,Huntington 12,State Senate,17,Gary L Snyder,DEM,2,3,0,5
+Huntington,Huntington 12,State House,50,Jorge Fernandez,DEM,2,3,0,5
+Huntington,Huntington 12A,Ballots Cast,,,,101,91,0,192
+Huntington,Huntington 12A,Registered Voters,,,,,,,699
+Huntington,Huntington 12A,U.S. Senate,,Mike Braun,REP,24,29,0,53
+Huntington,Huntington 12A,U.S. Senate,,Luke Messer,REP,28,12,0,40
+Huntington,Huntington 12A,U.S. Senate,,Todd Rokita,REP,31,26,0,57
+Huntington,Huntington 12A,U.S. House,3,Jim Banks,REP,80,61,0,141
+Huntington,Huntington 12A,State Senate,17,Andy Zay,REP,73,57,0,130
+Huntington,Huntington 12A,State House,50,Daniel J (Dan) Leonard,REP,78,61,0,139
+Huntington,Huntington 12A,U.S. Senate,,Joe Donnelly,DEM,7,13,0,20
+Huntington,Huntington 12A,U.S. House,3,John F Roberson,DEM,0,3,0,3
+Huntington,Huntington 12A,U.S. House,3,Tommy A Schrader,DEM,2,3,0,5
+Huntington,Huntington 12A,U.S. House,3,Courtney Tritch,DEM,5,8,0,13
+Huntington,Huntington 12A,State Senate,17,Gary L Snyder,DEM,6,10,0,16
+Huntington,Huntington 12A,State House,50,Jorge Fernandez,DEM,7,11,0,18
+Huntington,Union,Ballots Cast,,,,162,107,0,269
+Huntington,Union,Registered Voters,,,,,,,919
+Huntington,Union,U.S. Senate,,Mike Braun,REP,51,33,0,84
+Huntington,Union,U.S. Senate,,Luke Messer,REP,42,19,0,61
+Huntington,Union,U.S. Senate,,Todd Rokita,REP,53,29,0,82
+Huntington,Union,U.S. House,3,Jim Banks,REP,128,70,0,198
+Huntington,Union,State Senate,19,Travis Holdman,REP,129,76,0,205
+Huntington,Union,State Senate,19,Eric Orr,REP,16,7,0,23
+Huntington,Union,State House,50,Daniel J (Dan) Leonard,REP,140,75,0,215
+Huntington,Union,U.S. Senate,,Joe Donnelly,DEM,9,17,0,26
+Huntington,Union,U.S. House,3,John F Roberson,DEM,3,1,0,4
+Huntington,Union,U.S. House,3,Tommy A Schrader,DEM,1,0,0,1
+Huntington,Union,U.S. House,3,Courtney Tritch,DEM,5,17,0,22
+Huntington,Union,State Senate,19,No Candidate Filed,DEM,0,0,0,0
+Huntington,Union,State House,50,Jorge Fernandez,DEM,8,16,0,24
+Huntington,Rock Creek,Ballots Cast,,,,138,51,0,189
+Huntington,Rock Creek,Registered Voters,,,,,,,849
+Huntington,Rock Creek,U.S. Senate,,Mike Braun,REP,47,18,0,65
+Huntington,Rock Creek,U.S. Senate,,Luke Messer,REP,34,13,0,47
+Huntington,Rock Creek,U.S. Senate,,Todd Rokita,REP,44,14,0,58
+Huntington,Rock Creek,U.S. House,3,Jim Banks,REP,109,37,0,146
+Huntington,Rock Creek,State Senate,19,Travis Holdman,REP,99,37,0,136
+Huntington,Rock Creek,State Senate,19,Eric Orr,REP,28,10,0,38
+Huntington,Rock Creek,State House,50,Daniel J (Dan) Leonard,REP,119,44,0,163
+Huntington,Rock Creek,U.S. Senate,,Joe Donnelly,DEM,7,2,0,9
+Huntington,Rock Creek,U.S. House,3,John F Roberson,DEM,1,0,0,1
+Huntington,Rock Creek,U.S. House,3,Tommy A Schrader,DEM,2,1,0,3
+Huntington,Rock Creek,U.S. House,3,Courtney Tritch,DEM,4,0,0,4
+Huntington,Rock Creek,State Senate,19,No Candidate Filed,DEM,0,0,0,0
+Huntington,Rock Creek,State House,50,Jorge Fernandez,DEM,7,1,0,8
+Huntington,Lancaster,Ballots Cast,,,,123,96,0,219
+Huntington,Lancaster,Registered Voters,,,,,,,777
+Huntington,Lancaster,U.S. Senate,,Mike Braun,REP,51,33,0,84
+Huntington,Lancaster,U.S. Senate,,Luke Messer,REP,27,19,0,46
+Huntington,Lancaster,U.S. Senate,,Todd Rokita,REP,32,25,0,57
+Huntington,Lancaster,U.S. House,3,Jim Banks,REP,105,73,0,178
+Huntington,Lancaster,State Senate,17,Andy Zay,REP,91,58,0,149
+Huntington,Lancaster,State House,50,Daniel J (Dan) Leonard,REP,98,70,0,168
+Huntington,Lancaster,U.S. Senate,,Joe Donnelly,DEM,8,12,0,20
+Huntington,Lancaster,U.S. House,3,John F Roberson,DEM,2,0,0,2
+Huntington,Lancaster,U.S. House,3,Tommy A Schrader,DEM,2,2,0,4
+Huntington,Lancaster,U.S. House,3,Courtney Tritch,DEM,5,8,0,13
+Huntington,Lancaster,State Senate,17,Gary L Snyder,DEM,8,10,0,18
+Huntington,Lancaster,State House,50,Jorge Fernandez,DEM,8,10,0,18
+Huntington,Polk,Ballots Cast,,,,34,24,0,58
+Huntington,Polk,Registered Voters,,,,,,,306
+Huntington,Polk,U.S. Senate,,Mike Braun,REP,14,10,0,24
+Huntington,Polk,U.S. Senate,,Luke Messer,REP,7,4,0,11
+Huntington,Polk,U.S. Senate,,Todd Rokita,REP,11,4,0,15
+Huntington,Polk,U.S. House,3,Jim Banks,REP,29,17,0,46
+Huntington,Polk,State Senate,17,Andy Zay,REP,29,17,0,46
+Huntington,Polk,State House,50,Daniel J (Dan) Leonard,REP,30,16,0,46
+Huntington,Polk,U.S. Senate,,Joe Donnelly,DEM,1,4,0,5
+Huntington,Polk,U.S. House,3,John F Roberson,DEM,1,1,0,2
+Huntington,Polk,U.S. House,3,Tommy A Schrader,DEM,0,0,0,0
+Huntington,Polk,U.S. House,3,Courtney Tritch,DEM,0,4,0,4
+Huntington,Polk,State Senate,17,Gary L Snyder,DEM,1,4,0,5
+Huntington,Polk,State House,50,Jorge Fernandez,DEM,1,4,0,5
+Huntington,Wayne,Ballots Cast,,,,36,25,0,61
+Huntington,Wayne,Registered Voters,,,,,,,315
+Huntington,Wayne,U.S. Senate,,Mike Braun,REP,15,8,0,23
+Huntington,Wayne,U.S. Senate,,Luke Messer,REP,9,1,0,10
+Huntington,Wayne,U.S. Senate,,Todd Rokita,REP,11,9,0,20
+Huntington,Wayne,U.S. House,3,Jim Banks,REP,29,16,0,45
+Huntington,Wayne,State Senate,17,Andy Zay,REP,28,15,0,43
+Huntington,Wayne,State House,50,Daniel J (Dan) Leonard,REP,31,16,0,47
+Huntington,Wayne,U.S. Senate,,Joe Donnelly,DEM,1,7,0,8
+Huntington,Wayne,U.S. House,3,John F Roberson,DEM,0,1,0,1
+Huntington,Wayne,U.S. House,3,Tommy A Schrader,DEM,0,1,0,1
+Huntington,Wayne,U.S. House,3,Courtney Tritch,DEM,1,5,0,6
+Huntington,Wayne,State Senate,17,Gary L Snyder,DEM,1,6,0,7
+Huntington,Wayne,State House,50,Jorge Fernandez,DEM,1,5,0,6
+Huntington,Jefferson,Ballots Cast,,,,73,15,0,88
+Huntington,Jefferson,Registered Voters,,,,,,,490
+Huntington,Jefferson,U.S. Senate,,Mike Braun,REP,20,9,0,29
+Huntington,Jefferson,U.S. Senate,,Luke Messer,REP,19,2,0,21
+Huntington,Jefferson,U.S. Senate,,Todd Rokita,REP,18,3,0,21
+Huntington,Jefferson,U.S. House,3,Jim Banks,REP,54,12,0,66
+Huntington,Jefferson,State Senate,17,Andy Zay,REP,51,11,0,62
+Huntington,Jefferson,State House,50,Daniel J (Dan) Leonard,REP,53,13,0,66
+Huntington,Jefferson,U.S. Senate,,Joe Donnelly,DEM,12,1,0,13
+Huntington,Jefferson,U.S. House,3,John F Roberson,DEM,1,0,0,1
+Huntington,Jefferson,U.S. House,3,Tommy A Schrader,DEM,3,1,0,4
+Huntington,Jefferson,U.S. House,3,Courtney Tritch,DEM,6,0,0,6
+Huntington,Jefferson,State Senate,17,Gary L Snyder,DEM,9,1,0,10
+Huntington,Jefferson,State House,50,Jorge Fernandez,DEM,11,1,0,12
+Huntington,Salamonie 1,Ballots Cast,,,,138,79,0,217
+Huntington,Salamonie 1,Registered Voters,,,,,,,745
+Huntington,Salamonie 1,U.S. Senate,,Mike Braun,REP,40,25,0,65
+Huntington,Salamonie 1,U.S. Senate,,Luke Messer,REP,32,24,0,56
+Huntington,Salamonie 1,U.S. Senate,,Todd Rokita,REP,42,15,0,57
+Huntington,Salamonie 1,U.S. House,3,Jim Banks,REP,100,47,0,147
+Huntington,Salamonie 1,State Senate,19,Travis Holdman,REP,94,47,0,141
+Huntington,Salamonie 1,State Senate,19,Eric Orr,REP,15,12,0,27
+Huntington,Salamonie 1,State House,50,Daniel J (Dan) Leonard,REP,109,51,0,160
+Huntington,Salamonie 1,U.S. Senate,,Joe Donnelly,DEM,19,12,0,31
+Huntington,Salamonie 1,U.S. House,3,John F Roberson,DEM,0,2,0,2
+Huntington,Salamonie 1,U.S. House,3,Tommy A Schrader,DEM,7,2,0,9
+Huntington,Salamonie 1,U.S. House,3,Courtney Tritch,DEM,14,9,0,23
+Huntington,Salamonie 1,State Senate,19,No Candidate Filed,DEM,0,0,0,0
+Huntington,Salamonie 1,State House,50,Jorge Fernandez,DEM,19,10,0,29
+Huntington,Salamonie 2,Ballots Cast,,,,208,42,0,250
+Huntington,Salamonie 2,Registered Voters,,,,,,,831
+Huntington,Salamonie 2,U.S. Senate,,Mike Braun,REP,74,12,0,86
+Huntington,Salamonie 2,U.S. Senate,,Luke Messer,REP,43,11,0,54
+Huntington,Salamonie 2,U.S. Senate,,Todd Rokita,REP,49,8,0,57
+Huntington,Salamonie 2,U.S. House,3,Jim Banks,REP,145,24,0,169
+Huntington,Salamonie 2,State Senate,19,Travis Holdman,REP,123,23,0,146
+Huntington,Salamonie 2,State Senate,19,Eric Orr,REP,42,7,0,49
+Huntington,Salamonie 2,State House,50,Daniel J (Dan) Leonard,REP,148,25,0,173
+Huntington,Salamonie 2,U.S. Senate,,Joe Donnelly,DEM,29,9,0,38
+Huntington,Salamonie 2,U.S. House,3,John F Roberson,DEM,8,0,0,8
+Huntington,Salamonie 2,U.S. House,3,Tommy A Schrader,DEM,4,1,0,5
+Huntington,Salamonie 2,U.S. House,3,Courtney Tritch,DEM,18,8,0,26
+Huntington,Salamonie 2,State Senate,19,No Candidate Filed,DEM,0,0,0,0
+Huntington,Salamonie 2,State House,50,Jorge Fernandez,DEM,23,8,0,31

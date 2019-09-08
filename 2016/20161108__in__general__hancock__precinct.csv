@@ -1,1 +1,1226 @@
-county,precinct,office,district,candidate,party,votesHancock,44 BR-1,President,,Donald Trump,REP,622Hancock,42 BW-1 E,President,,Donald Trump,REP,594Hancock,43 BW-1 W,President,,Donald Trump,REP,358Hancock,46 BN-1,President,,Donald Trump,REP,521Hancock,47 BN-2,President,,Donald Trump,REP,442Hancock,26 BC-1,President,,Donald Trump,REP,829Hancock,27 BC-2 N,President,,Donald Trump,REP,523Hancock,28 BC-2 S,President,,Donald Trump,REP,272Hancock,29 BC-3,President,,Donald Trump,REP,395Hancock,30 BC-4,President,,Donald Trump,REP,476Hancock,31 BC-5,President,,Donald Trump,REP,521Hancock,01 G-1 N,President,,Donald Trump,REP,465Hancock,02 G-1 S,President,,Donald Trump,REP,565Hancock,03 G-1 E,President,,Donald Trump,REP,662Hancock,04 G-2 N,President,,Donald Trump,REP,367Hancock,05 G-2 S,President,,Donald Trump,REP,547Hancock,06 G-3 N,President,,Donald Trump,REP,364Hancock,07 G-3 NE,President,,Donald Trump,REP,164Hancock,08 G-3 C,President,,Donald Trump,REP,381Hancock,09 G-4 E,President,,Donald Trump,REP,455Hancock,10 G-4 W,President,,Donald Trump,REP,340Hancock,11 G-4 C,President,,Donald Trump,REP,588Hancock,12 G-5 N,President,,Donald Trump,REP,465Hancock,13 G-5 S,President,,Donald Trump,REP,718Hancock,14 C-1,President,,Donald Trump,REP,433Hancock,15 C-2,President,,Donald Trump,REP,751Hancock,16 C-3,President,,Donald Trump,REP,613Hancock,17 C-4,President,,Donald Trump,REP,311Hancock,18 GN-1,President,,Donald Trump,REP,709Hancock,45 J-1,President,,Donald Trump,REP,732Hancock,32 SC1 - E,President,,Donald Trump,REP,249Hancock,33 SC1 - W,President,,Donald Trump,REP,703Hancock,34 SC-2,President,,Donald Trump,REP,808Hancock,35 SC-3,President,,Donald Trump,REP,509Hancock,36 SC-4,President,,Donald Trump,REP,265Hancock,37 SC-5,President,,Donald Trump,REP,464Hancock,38 SC-6,President,,Donald Trump,REP,700Hancock,39 SC-7,President,,Donald Trump,REP,673Hancock,40 SC-8,President,,Donald Trump,REP,715Hancock,41 SC-9,President,,Donald Trump,REP,849Hancock,19 F-1,President,,Donald Trump,REP,611Hancock,20 F-2,President,,Donald Trump,REP,577Hancock,21 M-1,President,,Donald Trump,REP,730Hancock,22 M-1 SE,President,,Donald Trump,REP,561Hancock,23 M-2,President,,Donald Trump,REP,415Hancock,24 V-1,President,,Donald Trump,REP,939Hancock,25 V-1 NW,President,,Donald Trump,REP,99Hancock,,President,,Donald Trump,REP,25050Hancock,44 BR-1,President,,Hillary Clinton,DEM,121Hancock,42 BW-1 E,President,,Hillary Clinton,DEM,135Hancock,43 BW-1 W,President,,Hillary Clinton,DEM,83Hancock,46 BN-1,President,,Hillary Clinton,DEM,108Hancock,47 BN-2,President,,Hillary Clinton,DEM,75Hancock,26 BC-1,President,,Hillary Clinton,DEM,253Hancock,27 BC-2 N,President,,Hillary Clinton,DEM,539Hancock,28 BC-2 S,President,,Hillary Clinton,DEM,78Hancock,29 BC-3,President,,Hillary Clinton,DEM,162Hancock,30 BC-4,President,,Hillary Clinton,DEM,163Hancock,31 BC-5,President,,Hillary Clinton,DEM,279Hancock,01 G-1 N,President,,Hillary Clinton,DEM,196Hancock,02 G-1 S,President,,Hillary Clinton,DEM,209Hancock,03 G-1 E,President,,Hillary Clinton,DEM,224Hancock,04 G-2 N,President,,Hillary Clinton,DEM,182Hancock,05 G-2 S,President,,Hillary Clinton,DEM,214Hancock,06 G-3 N,President,,Hillary Clinton,DEM,149Hancock,07 G-3 NE,President,,Hillary Clinton,DEM,91Hancock,08 G-3 C,President,,Hillary Clinton,DEM,178Hancock,09 G-4 E,President,,Hillary Clinton,DEM,202Hancock,10 G-4 W,President,,Hillary Clinton,DEM,125Hancock,11 G-4 C,President,,Hillary Clinton,DEM,146Hancock,12 G-5 N,President,,Hillary Clinton,DEM,164Hancock,13 G-5 S,President,,Hillary Clinton,DEM,218Hancock,14 C-1,President,,Hillary Clinton,DEM,131Hancock,15 C-2,President,,Hillary Clinton,DEM,225Hancock,16 C-3,President,,Hillary Clinton,DEM,153Hancock,17 C-4,President,,Hillary Clinton,DEM,84Hancock,18 GN-1,President,,Hillary Clinton,DEM,177Hancock,45 J-1,President,,Hillary Clinton,DEM,152Hancock,32 SC1 - E,President,,Hillary Clinton,DEM,67Hancock,33 SC1 - W,President,,Hillary Clinton,DEM,255Hancock,34 SC-2,President,,Hillary Clinton,DEM,239Hancock,35 SC-3,President,,Hillary Clinton,DEM,138Hancock,36 SC-4,President,,Hillary Clinton,DEM,70Hancock,37 SC-5,President,,Hillary Clinton,DEM,121Hancock,38 SC-6,President,,Hillary Clinton,DEM,252Hancock,39 SC-7,President,,Hillary Clinton,DEM,233Hancock,40 SC-8,President,,Hillary Clinton,DEM,210Hancock,41 SC-9,President,,Hillary Clinton,DEM,231Hancock,19 F-1,President,,Hillary Clinton,DEM,213Hancock,20 F-2,President,,Hillary Clinton,DEM,217Hancock,21 M-1,President,,Hillary Clinton,DEM,397Hancock,22 M-1 SE,President,,Hillary Clinton,DEM,419Hancock,23 M-2,President,,Hillary Clinton,DEM,318Hancock,24 V-1,President,,Hillary Clinton,DEM,276Hancock,25 V-1 NW,President,,Hillary Clinton,DEM,29Hancock,,President,,Hillary Clinton,DEM,8901Hancock,44 BR-1,President,,Gary Johnson,LBT,32Hancock,42 BW-1 E,President,,Gary Johnson,LBT,32Hancock,43 BW-1 W,President,,Gary Johnson,LBT,20Hancock,46 BN-1,President,,Gary Johnson,LBT,31Hancock,47 BN-2,President,,Gary Johnson,LBT,23Hancock,26 BC-1,President,,Gary Johnson,LBT,48Hancock,27 BC-2 N,President,,Gary Johnson,LBT,69Hancock,28 BC-2 S,President,,Gary Johnson,LBT,29Hancock,29 BC-3,President,,Gary Johnson,LBT,32Hancock,30 BC-4,President,,Gary Johnson,LBT,40Hancock,31 BC-5,President,,Gary Johnson,LBT,51Hancock,01 G-1 N,President,,Gary Johnson,LBT,49Hancock,02 G-1 S,President,,Gary Johnson,LBT,71Hancock,03 G-1 E,President,,Gary Johnson,LBT,84Hancock,04 G-2 N,President,,Gary Johnson,LBT,38Hancock,05 G-2 S,President,,Gary Johnson,LBT,48Hancock,06 G-3 N,President,,Gary Johnson,LBT,37Hancock,07 G-3 NE,President,,Gary Johnson,LBT,25Hancock,08 G-3 C,President,,Gary Johnson,LBT,38Hancock,09 G-4 E,President,,Gary Johnson,LBT,63Hancock,10 G-4 W,President,,Gary Johnson,LBT,25Hancock,11 G-4 C,President,,Gary Johnson,LBT,54Hancock,12 G-5 N,President,,Gary Johnson,LBT,31Hancock,13 G-5 S,President,,Gary Johnson,LBT,62Hancock,14 C-1,President,,Gary Johnson,LBT,43Hancock,15 C-2,President,,Gary Johnson,LBT,36Hancock,16 C-3,President,,Gary Johnson,LBT,49Hancock,17 C-4,President,,Gary Johnson,LBT,16Hancock,18 GN-1,President,,Gary Johnson,LBT,35Hancock,45 J-1,President,,Gary Johnson,LBT,38Hancock,32 SC1 - E,President,,Gary Johnson,LBT,22Hancock,33 SC1 - W,President,,Gary Johnson,LBT,39Hancock,34 SC-2,President,,Gary Johnson,LBT,85Hancock,35 SC-3,President,,Gary Johnson,LBT,34Hancock,36 SC-4,President,,Gary Johnson,LBT,14Hancock,37 SC-5,President,,Gary Johnson,LBT,35Hancock,38 SC-6,President,,Gary Johnson,LBT,38Hancock,39 SC-7,President,,Gary Johnson,LBT,70Hancock,40 SC-8,President,,Gary Johnson,LBT,58Hancock,41 SC-9,President,,Gary Johnson,LBT,65Hancock,19 F-1,President,,Gary Johnson,LBT,46Hancock,20 F-2,President,,Gary Johnson,LBT,40Hancock,21 M-1,President,,Gary Johnson,LBT,62Hancock,22 M-1 SE,President,,Gary Johnson,LBT,77Hancock,23 M-2,President,,Gary Johnson,LBT,64Hancock,24 V-1,President,,Gary Johnson,LBT,69Hancock,25 V-1 NW,President,,Gary Johnson,LBT,9Hancock,,President,,Gary Johnson,LBT,2076Hancock,44 BR-1,President,,Write-ins,,2Hancock,42 BW-1 E,President,,Write-ins,,12Hancock,43 BW-1 W,President,,Write-ins,,2Hancock,46 BN-1,President,,Write-ins,,10Hancock,47 BN-2,President,,Write-ins,,3Hancock,26 BC-1,President,,Write-ins,,9Hancock,27 BC-2 N,President,,Write-ins,,19Hancock,28 BC-2 S,President,,Write-ins,,4Hancock,29 BC-3,President,,Write-ins,,8Hancock,30 BC-4,President,,Write-ins,,10Hancock,31 BC-5,President,,Write-ins,,5Hancock,01 G-1 N,President,,Write-ins,,12Hancock,02 G-1 S,President,,Write-ins,,10Hancock,03 G-1 E,President,,Write-ins,,15Hancock,04 G-2 N,President,,Write-ins,,5Hancock,05 G-2 S,President,,Write-ins,,11Hancock,06 G-3 N,President,,Write-ins,,6Hancock,07 G-3 NE,President,,Write-ins,,4Hancock,08 G-3 C,President,,Write-ins,,6Hancock,09 G-4 E,President,,Write-ins,,12Hancock,10 G-4 W,President,,Write-ins,,5Hancock,11 G-4 C,President,,Write-ins,,9Hancock,12 G-5 N,President,,Write-ins,,10Hancock,13 G-5 S,President,,Write-ins,,10Hancock,14 C-1,President,,Write-ins,,8Hancock,15 C-2,President,,Write-ins,,8Hancock,16 C-3,President,,Write-ins,,7Hancock,17 C-4,President,,Write-ins,,5Hancock,18 GN-1,President,,Write-ins,,5Hancock,45 J-1,President,,Write-ins,,7Hancock,32 SC1 - E,President,,Write-ins,,3Hancock,33 SC1 - W,President,,Write-ins,,11Hancock,34 SC-2,President,,Write-ins,,14Hancock,35 SC-3,President,,Write-ins,,8Hancock,36 SC-4,President,,Write-ins,,8Hancock,37 SC-5,President,,Write-ins,,6Hancock,38 SC-6,President,,Write-ins,,5Hancock,39 SC-7,President,,Write-ins,,12Hancock,40 SC-8,President,,Write-ins,,14Hancock,41 SC-9,President,,Write-ins,,21Hancock,19 F-1,President,,Write-ins,,12Hancock,20 F-2,President,,Write-ins,,14Hancock,21 M-1,President,,Write-ins,,19Hancock,22 M-1 SE,President,,Write-ins,,26Hancock,23 M-2,President,,Write-ins,,16Hancock,24 V-1,President,,Write-ins,,12Hancock,25 V-1 NW,President,,Write-ins,,1Hancock,,President,,Write-ins,,441Hancock,44 BR-1,U.S. Senate,,Todd Young,REP,548Hancock,42 BW-1 E,U.S. Senate,,Todd Young,REP,528Hancock,43 BW-1 W,U.S. Senate,,Todd Young,REP,332Hancock,46 BN-1,U.S. Senate,,Todd Young,REP,472Hancock,47 BN-2,U.S. Senate,,Todd Young,REP,378Hancock,26 BC-1,U.S. Senate,,Todd Young,REP,788Hancock,27 BC-2 N,U.S. Senate,,Todd Young,REP,508Hancock,28 BC-2 S,U.S. Senate,,Todd Young,REP,246Hancock,29 BC-3,U.S. Senate,,Todd Young,REP,361Hancock,30 BC-4,U.S. Senate,,Todd Young,REP,448Hancock,31 BC-5,U.S. Senate,,Todd Young,REP,507Hancock,01 G-1 N,U.S. Senate,,Todd Young,REP,439Hancock,02 G-1 S,U.S. Senate,,Todd Young,REP,514Hancock,03 G-1 E,U.S. Senate,,Todd Young,REP,602Hancock,04 G-2 N,U.S. Senate,,Todd Young,REP,339Hancock,05 G-2 S,U.S. Senate,,Todd Young,REP,491Hancock,06 G-3 N,U.S. Senate,,Todd Young,REP,328Hancock,07 G-3 NE,U.S. Senate,,Todd Young,REP,158Hancock,08 G-3 C,U.S. Senate,,Todd Young,REP,329Hancock,09 G-4 E,U.S. Senate,,Todd Young,REP,417Hancock,10 G-4 W,U.S. Senate,,Todd Young,REP,310Hancock,11 G-4 C,U.S. Senate,,Todd Young,REP,533Hancock,12 G-5 N,U.S. Senate,,Todd Young,REP,389Hancock,13 G-5 S,U.S. Senate,,Todd Young,REP,675Hancock,14 C-1,U.S. Senate,,Todd Young,REP,389Hancock,15 C-2,U.S. Senate,,Todd Young,REP,680Hancock,16 C-3,U.S. Senate,,Todd Young,REP,575Hancock,17 C-4,U.S. Senate,,Todd Young,REP,272Hancock,18 GN-1,U.S. Senate,,Todd Young,REP,617Hancock,45 J-1,U.S. Senate,,Todd Young,REP,633Hancock,32 SC1 - E,U.S. Senate,,Todd Young,REP,222Hancock,33 SC1 - W,U.S. Senate,,Todd Young,REP,684Hancock,34 SC-2,U.S. Senate,,Todd Young,REP,768Hancock,35 SC-3,U.S. Senate,,Todd Young,REP,449Hancock,36 SC-4,U.S. Senate,,Todd Young,REP,252Hancock,37 SC-5,U.S. Senate,,Todd Young,REP,438Hancock,38 SC-6,U.S. Senate,,Todd Young,REP,665Hancock,39 SC-7,U.S. Senate,,Todd Young,REP,634Hancock,40 SC-8,U.S. Senate,,Todd Young,REP,673Hancock,41 SC-9,U.S. Senate,,Todd Young,REP,821Hancock,19 F-1,U.S. Senate,,Todd Young,REP,561Hancock,20 F-2,U.S. Senate,,Todd Young,REP,507Hancock,21 M-1,U.S. Senate,,Todd Young,REP,737Hancock,22 M-1 SE,U.S. Senate,,Todd Young,REP,573Hancock,23 M-2,U.S. Senate,,Todd Young,REP,406Hancock,24 V-1,U.S. Senate,,Todd Young,REP,895Hancock,25 V-1 NW,U.S. Senate,,Todd Young,REP,96Hancock,,U.S. Senate,,Todd Young,REP,23187Hancock,44 BR-1,U.S. Senate,,Evan Bayh,DEM,172Hancock,42 BW-1 E,U.S. Senate,,Evan Bayh,DEM,189Hancock,43 BW-1 W,U.S. Senate,,Evan Bayh,DEM,105Hancock,46 BN-1,U.S. Senate,,Evan Bayh,DEM,155Hancock,47 BN-2,U.S. Senate,,Evan Bayh,DEM,109Hancock,26 BC-1,U.S. Senate,,Evan Bayh,DEM,293Hancock,27 BC-2 N,U.S. Senate,,Evan Bayh,DEM,561Hancock,28 BC-2 S,U.S. Senate,,Evan Bayh,DEM,109Hancock,29 BC-3,U.S. Senate,,Evan Bayh,DEM,194Hancock,30 BC-4,U.S. Senate,,Evan Bayh,DEM,181Hancock,31 BC-5,U.S. Senate,,Evan Bayh,DEM,314Hancock,01 G-1 N,U.S. Senate,,Evan Bayh,DEM,218Hancock,02 G-1 S,U.S. Senate,,Evan Bayh,DEM,252Hancock,03 G-1 E,U.S. Senate,,Evan Bayh,DEM,282Hancock,04 G-2 N,U.S. Senate,,Evan Bayh,DEM,224Hancock,05 G-2 S,U.S. Senate,,Evan Bayh,DEM,253Hancock,06 G-3 N,U.S. Senate,,Evan Bayh,DEM,186Hancock,07 G-3 NE,U.S. Senate,,Evan Bayh,DEM,101Hancock,08 G-3 C,U.S. Senate,,Evan Bayh,DEM,211Hancock,09 G-4 E,U.S. Senate,,Evan Bayh,DEM,232Hancock,10 G-4 W,U.S. Senate,,Evan Bayh,DEM,150Hancock,11 G-4 C,U.S. Senate,,Evan Bayh,DEM,205Hancock,12 G-5 N,U.S. Senate,,Evan Bayh,DEM,223Hancock,13 G-5 S,U.S. Senate,,Evan Bayh,DEM,269Hancock,14 C-1,U.S. Senate,,Evan Bayh,DEM,164Hancock,15 C-2,U.S. Senate,,Evan Bayh,DEM,273Hancock,16 C-3,U.S. Senate,,Evan Bayh,DEM,196Hancock,17 C-4,U.S. Senate,,Evan Bayh,DEM,109Hancock,18 GN-1,U.S. Senate,,Evan Bayh,DEM,236Hancock,45 J-1,U.S. Senate,,Evan Bayh,DEM,238Hancock,32 SC1 - E,U.S. Senate,,Evan Bayh,DEM,100Hancock,33 SC1 - W,U.S. Senate,,Evan Bayh,DEM,283Hancock,34 SC-2,U.S. Senate,,Evan Bayh,DEM,313Hancock,35 SC-3,U.S. Senate,,Evan Bayh,DEM,191Hancock,36 SC-4,U.S. Senate,,Evan Bayh,DEM,81Hancock,37 SC-5,U.S. Senate,,Evan Bayh,DEM,151Hancock,38 SC-6,U.S. Senate,,Evan Bayh,DEM,298Hancock,39 SC-7,U.S. Senate,,Evan Bayh,DEM,300Hancock,40 SC-8,U.S. Senate,,Evan Bayh,DEM,268Hancock,41 SC-9,U.S. Senate,,Evan Bayh,DEM,301Hancock,19 F-1,U.S. Senate,,Evan Bayh,DEM,258Hancock,20 F-2,U.S. Senate,,Evan Bayh,DEM,271Hancock,21 M-1,U.S. Senate,,Evan Bayh,DEM,415Hancock,22 M-1 SE,U.S. Senate,,Evan Bayh,DEM,441Hancock,23 M-2,U.S. Senate,,Evan Bayh,DEM,340Hancock,24 V-1,U.S. Senate,,Evan Bayh,DEM,319Hancock,25 V-1 NW,U.S. Senate,,Evan Bayh,DEM,38Hancock,,U.S. Senate,,Evan Bayh,DEM,10772Hancock,44 BR-1,U.S. Senate,,Lucy Brenton,LBT,53Hancock,42 BW-1 E,U.S. Senate,,Lucy Brenton,LBT,51Hancock,43 BW-1 W,U.S. Senate,,Lucy Brenton,LBT,24Hancock,46 BN-1,U.S. Senate,,Lucy Brenton,LBT,46Hancock,47 BN-2,U.S. Senate,,Lucy Brenton,LBT,53Hancock,26 BC-1,U.S. Senate,,Lucy Brenton,LBT,56Hancock,27 BC-2 N,U.S. Senate,,Lucy Brenton,LBT,72Hancock,28 BC-2 S,U.S. Senate,,Lucy Brenton,LBT,26Hancock,29 BC-3,U.S. Senate,,Lucy Brenton,LBT,48Hancock,30 BC-4,U.S. Senate,,Lucy Brenton,LBT,52Hancock,31 BC-5,U.S. Senate,,Lucy Brenton,LBT,39Hancock,01 G-1 N,U.S. Senate,,Lucy Brenton,LBT,60Hancock,02 G-1 S,U.S. Senate,,Lucy Brenton,LBT,80Hancock,03 G-1 E,U.S. Senate,,Lucy Brenton,LBT,90Hancock,04 G-2 N,U.S. Senate,,Lucy Brenton,LBT,32Hancock,05 G-2 S,U.S. Senate,,Lucy Brenton,LBT,64Hancock,06 G-3 N,U.S. Senate,,Lucy Brenton,LBT,38Hancock,07 G-3 NE,U.S. Senate,,Lucy Brenton,LBT,22Hancock,08 G-3 C,U.S. Senate,,Lucy Brenton,LBT,55Hancock,09 G-4 E,U.S. Senate,,Lucy Brenton,LBT,76Hancock,10 G-4 W,U.S. Senate,,Lucy Brenton,LBT,36Hancock,11 G-4 C,U.S. Senate,,Lucy Brenton,LBT,57Hancock,12 G-5 N,U.S. Senate,,Lucy Brenton,LBT,52Hancock,13 G-5 S,U.S. Senate,,Lucy Brenton,LBT,57Hancock,14 C-1,U.S. Senate,,Lucy Brenton,LBT,56Hancock,15 C-2,U.S. Senate,,Lucy Brenton,LBT,67Hancock,16 C-3,U.S. Senate,,Lucy Brenton,LBT,55Hancock,17 C-4,U.S. Senate,,Lucy Brenton,LBT,34Hancock,18 GN-1,U.S. Senate,,Lucy Brenton,LBT,71Hancock,45 J-1,U.S. Senate,,Lucy Brenton,LBT,56Hancock,32 SC1 - E,U.S. Senate,,Lucy Brenton,LBT,20Hancock,33 SC1 - W,U.S. Senate,,Lucy Brenton,LBT,45Hancock,34 SC-2,U.S. Senate,,Lucy Brenton,LBT,60Hancock,35 SC-3,U.S. Senate,,Lucy Brenton,LBT,50Hancock,36 SC-4,U.S. Senate,,Lucy Brenton,LBT,20Hancock,37 SC-5,U.S. Senate,,Lucy Brenton,LBT,40Hancock,38 SC-6,U.S. Senate,,Lucy Brenton,LBT,33Hancock,39 SC-7,U.S. Senate,,Lucy Brenton,LBT,58Hancock,40 SC-8,U.S. Senate,,Lucy Brenton,LBT,56Hancock,41 SC-9,U.S. Senate,,Lucy Brenton,LBT,50Hancock,19 F-1,U.S. Senate,,Lucy Brenton,LBT,62Hancock,20 F-2,U.S. Senate,,Lucy Brenton,LBT,65Hancock,21 M-1,U.S. Senate,,Lucy Brenton,LBT,58Hancock,22 M-1 SE,U.S. Senate,,Lucy Brenton,LBT,62Hancock,23 M-2,U.S. Senate,,Lucy Brenton,LBT,62Hancock,24 V-1,U.S. Senate,,Lucy Brenton,LBT,80Hancock,25 V-1 NW,U.S. Senate,,Lucy Brenton,LBT,3Hancock,,U.S. Senate,,Lucy Brenton,LBT,2402Hancock,44 BR-1,U.S. Senate,,Write-ins,,0Hancock,42 BW-1 E,U.S. Senate,,Write-ins,,0Hancock,43 BW-1 W,U.S. Senate,,Write-ins,,0Hancock,46 BN-1,U.S. Senate,,Write-ins,,0Hancock,47 BN-2,U.S. Senate,,Write-ins,,0Hancock,26 BC-1,U.S. Senate,,Write-ins,,0Hancock,27 BC-2 N,U.S. Senate,,Write-ins,,1Hancock,28 BC-2 S,U.S. Senate,,Write-ins,,0Hancock,29 BC-3,U.S. Senate,,Write-ins,,0Hancock,30 BC-4,U.S. Senate,,Write-ins,,0Hancock,31 BC-5,U.S. Senate,,Write-ins,,0Hancock,01 G-1 N,U.S. Senate,,Write-ins,,1Hancock,02 G-1 S,U.S. Senate,,Write-ins,,1Hancock,03 G-1 E,U.S. Senate,,Write-ins,,1Hancock,04 G-2 N,U.S. Senate,,Write-ins,,0Hancock,05 G-2 S,U.S. Senate,,Write-ins,,0Hancock,06 G-3 N,U.S. Senate,,Write-ins,,0Hancock,07 G-3 NE,U.S. Senate,,Write-ins,,0Hancock,08 G-3 C,U.S. Senate,,Write-ins,,1Hancock,09 G-4 E,U.S. Senate,,Write-ins,,2Hancock,10 G-4 W,U.S. Senate,,Write-ins,,0Hancock,11 G-4 C,U.S. Senate,,Write-ins,,3Hancock,12 G-5 N,U.S. Senate,,Write-ins,,1Hancock,13 G-5 S,U.S. Senate,,Write-ins,,0Hancock,14 C-1,U.S. Senate,,Write-ins,,1Hancock,15 C-2,U.S. Senate,,Write-ins,,2Hancock,16 C-3,U.S. Senate,,Write-ins,,1Hancock,17 C-4,U.S. Senate,,Write-ins,,0Hancock,18 GN-1,U.S. Senate,,Write-ins,,1Hancock,45 J-1,U.S. Senate,,Write-ins,,1Hancock,32 SC1 - E,U.S. Senate,,Write-ins,,0Hancock,33 SC1 - W,U.S. Senate,,Write-ins,,1Hancock,34 SC-2,U.S. Senate,,Write-ins,,1Hancock,35 SC-3,U.S. Senate,,Write-ins,,1Hancock,36 SC-4,U.S. Senate,,Write-ins,,0Hancock,37 SC-5,U.S. Senate,,Write-ins,,0Hancock,38 SC-6,U.S. Senate,,Write-ins,,0Hancock,39 SC-7,U.S. Senate,,Write-ins,,0Hancock,40 SC-8,U.S. Senate,,Write-ins,,1Hancock,41 SC-9,U.S. Senate,,Write-ins,,0Hancock,19 F-1,U.S. Senate,,Write-ins,,0Hancock,20 F-2,U.S. Senate,,Write-ins,,0Hancock,21 M-1,U.S. Senate,,Write-ins,,1Hancock,22 M-1 SE,U.S. Senate,,Write-ins,,1Hancock,23 M-2,U.S. Senate,,Write-ins,,2Hancock,24 V-1,U.S. Senate,,Write-ins,,0Hancock,25 V-1 NW,U.S. Senate,,Write-ins,,0Hancock,,U.S. Senate,,Write-ins,,25Hancock,44 BR-1,Governor,,Eric Holcomb,REP,512Hancock,42 BW-1 E,Governor,,Eric Holcomb,REP,557Hancock,43 BW-1 W,Governor,,Eric Holcomb,REP,317Hancock,46 BN-1,Governor,,Eric Holcomb,REP,430Hancock,47 BN-2,Governor,,Eric Holcomb,REP,366Hancock,26 BC-1,Governor,,Eric Holcomb,REP,779Hancock,27 BC-2 N,Governor,,Eric Holcomb,REP,514Hancock,28 BC-2 S,Governor,,Eric Holcomb,REP,240Hancock,29 BC-3,Governor,,Eric Holcomb,REP,364Hancock,30 BC-4,Governor,,Eric Holcomb,REP,425Hancock,31 BC-5,Governor,,Eric Holcomb,REP,477Hancock,01 G-1 N,Governor,,Eric Holcomb,REP,411Hancock,02 G-1 S,Governor,,Eric Holcomb,REP,509Hancock,03 G-1 E,Governor,,Eric Holcomb,REP,595Hancock,04 G-2 N,Governor,,Eric Holcomb,REP,333Hancock,05 G-2 S,Governor,,Eric Holcomb,REP,480Hancock,06 G-3 N,Governor,,Eric Holcomb,REP,332Hancock,07 G-3 NE,Governor,,Eric Holcomb,REP,150Hancock,08 G-3 C,Governor,,Eric Holcomb,REP,323Hancock,09 G-4 E,Governor,,Eric Holcomb,REP,438Hancock,10 G-4 W,Governor,,Eric Holcomb,REP,312Hancock,11 G-4 C,Governor,,Eric Holcomb,REP,528Hancock,12 G-5 N,Governor,,Eric Holcomb,REP,401Hancock,13 G-5 S,Governor,,Eric Holcomb,REP,657Hancock,14 C-1,Governor,,Eric Holcomb,REP,369Hancock,15 C-2,Governor,,Eric Holcomb,REP,671Hancock,16 C-3,Governor,,Eric Holcomb,REP,550Hancock,17 C-4,Governor,,Eric Holcomb,REP,272Hancock,18 GN-1,Governor,,Eric Holcomb,REP,627Hancock,45 J-1,Governor,,Eric Holcomb,REP,617Hancock,32 SC1 - E,Governor,,Eric Holcomb,REP,210Hancock,33 SC1 - W,Governor,,Eric Holcomb,REP,644Hancock,34 SC-2,Governor,,Eric Holcomb,REP,711Hancock,35 SC-3,Governor,,Eric Holcomb,REP,445Hancock,36 SC-4,Governor,,Eric Holcomb,REP,238Hancock,37 SC-5,Governor,,Eric Holcomb,REP,424Hancock,38 SC-6,Governor,,Eric Holcomb,REP,659Hancock,39 SC-7,Governor,,Eric Holcomb,REP,620Hancock,40 SC-8,Governor,,Eric Holcomb,REP,661Hancock,41 SC-9,Governor,,Eric Holcomb,REP,792Hancock,19 F-1,Governor,,Eric Holcomb,REP,563Hancock,20 F-2,Governor,,Eric Holcomb,REP,492Hancock,21 M-1,Governor,,Eric Holcomb,REP,732Hancock,22 M-1 SE,Governor,,Eric Holcomb,REP,577Hancock,23 M-2,Governor,,Eric Holcomb,REP,395Hancock,24 V-1,Governor,,Eric Holcomb,REP,875Hancock,25 V-1 NW,Governor,,Eric Holcomb,REP,79Hancock,,Governor,,Eric Holcomb,REP,22673Hancock,44 BR-1,Governor,,John Gregg,DEM,225Hancock,42 BW-1 E,Governor,,John Gregg,DEM,187Hancock,43 BW-1 W,Governor,,John Gregg,DEM,131Hancock,46 BN-1,Governor,,John Gregg,DEM,210Hancock,47 BN-2,Governor,,John Gregg,DEM,141Hancock,26 BC-1,Governor,,John Gregg,DEM,334Hancock,27 BC-2 N,Governor,,John Gregg,DEM,586Hancock,28 BC-2 S,Governor,,John Gregg,DEM,129Hancock,29 BC-3,Governor,,John Gregg,DEM,214Hancock,30 BC-4,Governor,,John Gregg,DEM,229Hancock,31 BC-5,Governor,,John Gregg,DEM,361Hancock,01 G-1 N,Governor,,John Gregg,DEM,253Hancock,02 G-1 S,Governor,,John Gregg,DEM,293Hancock,03 G-1 E,Governor,,John Gregg,DEM,324Hancock,04 G-2 N,Governor,,John Gregg,DEM,238Hancock,05 G-2 S,Governor,,John Gregg,DEM,293Hancock,06 G-3 N,Governor,,John Gregg,DEM,201Hancock,07 G-3 NE,Governor,,John Gregg,DEM,115Hancock,08 G-3 C,Governor,,John Gregg,DEM,245Hancock,09 G-4 E,Governor,,John Gregg,DEM,254Hancock,10 G-4 W,Governor,,John Gregg,DEM,163Hancock,11 G-4 C,Governor,,John Gregg,DEM,240Hancock,12 G-5 N,Governor,,John Gregg,DEM,219Hancock,13 G-5 S,Governor,,John Gregg,DEM,324Hancock,14 C-1,Governor,,John Gregg,DEM,210Hancock,15 C-2,Governor,,John Gregg,DEM,314Hancock,16 C-3,Governor,,John Gregg,DEM,237Hancock,17 C-4,Governor,,John Gregg,DEM,124Hancock,18 GN-1,Governor,,John Gregg,DEM,271Hancock,45 J-1,Governor,,John Gregg,DEM,267Hancock,32 SC1 - E,Governor,,John Gregg,DEM,124Hancock,33 SC1 - W,Governor,,John Gregg,DEM,345Hancock,34 SC-2,Governor,,John Gregg,DEM,395Hancock,35 SC-3,Governor,,John Gregg,DEM,217Hancock,36 SC-4,Governor,,John Gregg,DEM,101Hancock,37 SC-5,Governor,,John Gregg,DEM,183Hancock,38 SC-6,Governor,,John Gregg,DEM,320Hancock,39 SC-7,Governor,,John Gregg,DEM,347Hancock,40 SC-8,Governor,,John Gregg,DEM,299Hancock,41 SC-9,Governor,,John Gregg,DEM,352Hancock,19 F-1,Governor,,John Gregg,DEM,297Hancock,20 F-2,Governor,,John Gregg,DEM,316Hancock,21 M-1,Governor,,John Gregg,DEM,452Hancock,22 M-1 SE,Governor,,John Gregg,DEM,474Hancock,23 M-2,Governor,,John Gregg,DEM,374Hancock,24 V-1,Governor,,John Gregg,DEM,363Hancock,25 V-1 NW,Governor,,John Gregg,DEM,55Hancock,,Governor,,John Gregg,DEM,12346Hancock,44 BR-1,Governor,,Rex Bell,LBT,30Hancock,42 BW-1 E,Governor,,Rex Bell,LBT,24Hancock,43 BW-1 W,Governor,,Rex Bell,LBT,14Hancock,46 BN-1,Governor,,Rex Bell,LBT,28Hancock,47 BN-2,Governor,,Rex Bell,LBT,34Hancock,26 BC-1,Governor,,Rex Bell,LBT,19Hancock,27 BC-2 N,Governor,,Rex Bell,LBT,39Hancock,28 BC-2 S,Governor,,Rex Bell,LBT,13Hancock,29 BC-3,Governor,,Rex Bell,LBT,27Hancock,30 BC-4,Governor,,Rex Bell,LBT,26Hancock,31 BC-5,Governor,,Rex Bell,LBT,20Hancock,01 G-1 N,Governor,,Rex Bell,LBT,46Hancock,02 G-1 S,Governor,,Rex Bell,LBT,47Hancock,03 G-1 E,Governor,,Rex Bell,LBT,49Hancock,04 G-2 N,Governor,,Rex Bell,LBT,25Hancock,05 G-2 S,Governor,,Rex Bell,LBT,38Hancock,06 G-3 N,Governor,,Rex Bell,LBT,17Hancock,07 G-3 NE,Governor,,Rex Bell,LBT,15Hancock,08 G-3 C,Governor,,Rex Bell,LBT,31Hancock,09 G-4 E,Governor,,Rex Bell,LBT,35Hancock,10 G-4 W,Governor,,Rex Bell,LBT,20Hancock,11 G-4 C,Governor,,Rex Bell,LBT,30Hancock,12 G-5 N,Governor,,Rex Bell,LBT,34Hancock,13 G-5 S,Governor,,Rex Bell,LBT,28Hancock,14 C-1,Governor,,Rex Bell,LBT,30Hancock,15 C-2,Governor,,Rex Bell,LBT,33Hancock,16 C-3,Governor,,Rex Bell,LBT,39Hancock,17 C-4,Governor,,Rex Bell,LBT,15Hancock,18 GN-1,Governor,,Rex Bell,LBT,29Hancock,45 J-1,Governor,,Rex Bell,LBT,37Hancock,32 SC1 - E,Governor,,Rex Bell,LBT,8Hancock,33 SC1 - W,Governor,,Rex Bell,LBT,16Hancock,34 SC-2,Governor,,Rex Bell,LBT,36Hancock,35 SC-3,Governor,,Rex Bell,LBT,21Hancock,36 SC-4,Governor,,Rex Bell,LBT,14Hancock,37 SC-5,Governor,,Rex Bell,LBT,20Hancock,38 SC-6,Governor,,Rex Bell,LBT,13Hancock,39 SC-7,Governor,,Rex Bell,LBT,23Hancock,40 SC-8,Governor,,Rex Bell,LBT,33Hancock,41 SC-9,Governor,,Rex Bell,LBT,29Hancock,19 F-1,Governor,,Rex Bell,LBT,25Hancock,20 F-2,Governor,,Rex Bell,LBT,36Hancock,21 M-1,Governor,,Rex Bell,LBT,23Hancock,22 M-1 SE,Governor,,Rex Bell,LBT,21Hancock,23 M-2,Governor,,Rex Bell,LBT,33Hancock,24 V-1,Governor,,Rex Bell,LBT,46Hancock,25 V-1 NW,Governor,,Rex Bell,LBT,2Hancock,,Governor,,Rex Bell,LBT,1271Hancock,44 BR-1,Governor,,Write-ins,,1Hancock,42 BW-1 E,Governor,,Write-ins,,0Hancock,43 BW-1 W,Governor,,Write-ins,,0Hancock,46 BN-1,Governor,,Write-ins,,0Hancock,47 BN-2,Governor,,Write-ins,,1Hancock,26 BC-1,Governor,,Write-ins,,0Hancock,27 BC-2 N,Governor,,Write-ins,,0Hancock,28 BC-2 S,Governor,,Write-ins,,0Hancock,29 BC-3,Governor,,Write-ins,,0Hancock,30 BC-4,Governor,,Write-ins,,0Hancock,31 BC-5,Governor,,Write-ins,,0Hancock,01 G-1 N,Governor,,Write-ins,,1Hancock,02 G-1 S,Governor,,Write-ins,,0Hancock,03 G-1 E,Governor,,Write-ins,,0Hancock,04 G-2 N,Governor,,Write-ins,,0Hancock,05 G-2 S,Governor,,Write-ins,,0Hancock,06 G-3 N,Governor,,Write-ins,,0Hancock,07 G-3 NE,Governor,,Write-ins,,0Hancock,08 G-3 C,Governor,,Write-ins,,1Hancock,09 G-4 E,Governor,,Write-ins,,0Hancock,10 G-4 W,Governor,,Write-ins,,0Hancock,11 G-4 C,Governor,,Write-ins,,0Hancock,12 G-5 N,Governor,,Write-ins,,1Hancock,13 G-5 S,Governor,,Write-ins,,0Hancock,14 C-1,Governor,,Write-ins,,0Hancock,15 C-2,Governor,,Write-ins,,0Hancock,16 C-3,Governor,,Write-ins,,1Hancock,17 C-4,Governor,,Write-ins,,0Hancock,18 GN-1,Governor,,Write-ins,,0Hancock,45 J-1,Governor,,Write-ins,,1Hancock,32 SC1 - E,Governor,,Write-ins,,1Hancock,33 SC1 - W,Governor,,Write-ins,,1Hancock,34 SC-2,Governor,,Write-ins,,0Hancock,35 SC-3,Governor,,Write-ins,,0Hancock,36 SC-4,Governor,,Write-ins,,0Hancock,37 SC-5,Governor,,Write-ins,,1Hancock,38 SC-6,Governor,,Write-ins,,0Hancock,39 SC-7,Governor,,Write-ins,,0Hancock,40 SC-8,Governor,,Write-ins,,0Hancock,41 SC-9,Governor,,Write-ins,,0Hancock,19 F-1,Governor,,Write-ins,,0Hancock,20 F-2,Governor,,Write-ins,,0Hancock,21 M-1,Governor,,Write-ins,,1Hancock,22 M-1 SE,Governor,,Write-ins,,0Hancock,23 M-2,Governor,,Write-ins,,1Hancock,24 V-1,Governor,,Write-ins,,1Hancock,25 V-1 NW,Governor,,Write-ins,,0Hancock,,Governor,,Write-ins,,13Hancock,44 BR-1,Attorney General,,Curtis Hill,REP,648Hancock,42 BW-1 E,Attorney General,,Curtis Hill,REP,616Hancock,43 BW-1 W,Attorney General,,Curtis Hill,REP,376Hancock,46 BN-1,Attorney General,,Curtis Hill,REP,539Hancock,47 BN-2,Attorney General,,Curtis Hill,REP,450Hancock,26 BC-1,Attorney General,,Curtis Hill,REP,885Hancock,27 BC-2 N,Attorney General,,Curtis Hill,REP,598Hancock,28 BC-2 S,Attorney General,,Curtis Hill,REP,284Hancock,29 BC-3,Attorney General,,Curtis Hill,REP,439Hancock,30 BC-4,Attorney General,,Curtis Hill,REP,516Hancock,31 BC-5,Attorney General,,Curtis Hill,REP,595Hancock,01 G-1 N,Attorney General,,Curtis Hill,REP,521Hancock,02 G-1 S,Attorney General,,Curtis Hill,REP,608Hancock,03 G-1 E,Attorney General,,Curtis Hill,REP,729Hancock,04 G-2 N,Attorney General,,Curtis Hill,REP,415Hancock,05 G-2 S,Attorney General,,Curtis Hill,REP,592Hancock,06 G-3 N,Attorney General,,Curtis Hill,REP,403Hancock,07 G-3 NE,Attorney General,,Curtis Hill,REP,185Hancock,08 G-3 C,Attorney General,,Curtis Hill,REP,401Hancock,09 G-4 E,Attorney General,,Curtis Hill,REP,519Hancock,10 G-4 W,Attorney General,,Curtis Hill,REP,381Hancock,11 G-4 C,Attorney General,,Curtis Hill,REP,627Hancock,12 G-5 N,Attorney General,,Curtis Hill,REP,484Hancock,13 G-5 S,Attorney General,,Curtis Hill,REP,777Hancock,14 C-1,Attorney General,,Curtis Hill,REP,457Hancock,15 C-2,Attorney General,,Curtis Hill,REP,787Hancock,16 C-3,Attorney General,,Curtis Hill,REP,647Hancock,17 C-4,Attorney General,,Curtis Hill,REP,322Hancock,18 GN-1,Attorney General,,Curtis Hill,REP,724Hancock,45 J-1,Attorney General,,Curtis Hill,REP,740Hancock,32 SC1 - E,Attorney General,,Curtis Hill,REP,270Hancock,33 SC1 - W,Attorney General,,Curtis Hill,REP,781Hancock,34 SC-2,Attorney General,,Curtis Hill,REP,883Hancock,35 SC-3,Attorney General,,Curtis Hill,REP,531Hancock,36 SC-4,Attorney General,,Curtis Hill,REP,284Hancock,37 SC-5,Attorney General,,Curtis Hill,REP,494Hancock,38 SC-6,Attorney General,,Curtis Hill,REP,779Hancock,39 SC-7,Attorney General,,Curtis Hill,REP,742Hancock,40 SC-8,Attorney General,,Curtis Hill,REP,768Hancock,41 SC-9,Attorney General,,Curtis Hill,REP,934Hancock,19 F-1,Attorney General,,Curtis Hill,REP,651Hancock,20 F-2,Attorney General,,Curtis Hill,REP,615Hancock,21 M-1,Attorney General,,Curtis Hill,REP,861Hancock,22 M-1 SE,Attorney General,,Curtis Hill,REP,669Hancock,23 M-2,Attorney General,,Curtis Hill,REP,477Hancock,24 V-1,Attorney General,,Curtis Hill,REP,1000Hancock,25 V-1 NW,Attorney General,,Curtis Hill,REP,101Hancock,,Attorney General,,Curtis Hill,REP,27105Hancock,44 BR-1,Attorney General,,Lorenzo Arredondo,DEM,99Hancock,42 BW-1 E,Attorney General,,Lorenzo Arredondo,DEM,129Hancock,43 BW-1 W,Attorney General,,Lorenzo Arredondo,DEM,72Hancock,46 BN-1,Attorney General,,Lorenzo Arredondo,DEM,111Hancock,47 BN-2,Attorney General,,Lorenzo Arredondo,DEM,77Hancock,26 BC-1,Attorney General,,Lorenzo Arredondo,DEM,220Hancock,27 BC-2 N,Attorney General,,Lorenzo Arredondo,DEM,523Hancock,28 BC-2 S,Attorney General,,Lorenzo Arredondo,DEM,83Hancock,29 BC-3,Attorney General,,Lorenzo Arredondo,DEM,146Hancock,30 BC-4,Attorney General,,Lorenzo Arredondo,DEM,148Hancock,31 BC-5,Attorney General,,Lorenzo Arredondo,DEM,237Hancock,01 G-1 N,Attorney General,,Lorenzo Arredondo,DEM,175Hancock,02 G-1 S,Attorney General,,Lorenzo Arredondo,DEM,208Hancock,03 G-1 E,Attorney General,,Lorenzo Arredondo,DEM,220Hancock,04 G-2 N,Attorney General,,Lorenzo Arredondo,DEM,154Hancock,05 G-2 S,Attorney General,,Lorenzo Arredondo,DEM,198Hancock,06 G-3 N,Attorney General,,Lorenzo Arredondo,DEM,132Hancock,07 G-3 NE,Attorney General,,Lorenzo Arredondo,DEM,83Hancock,08 G-3 C,Attorney General,,Lorenzo Arredondo,DEM,174Hancock,09 G-4 E,Attorney General,,Lorenzo Arredondo,DEM,189Hancock,10 G-4 W,Attorney General,,Lorenzo Arredondo,DEM,96Hancock,11 G-4 C,Attorney General,,Lorenzo Arredondo,DEM,143Hancock,12 G-5 N,Attorney General,,Lorenzo Arredondo,DEM,153Hancock,13 G-5 S,Attorney General,,Lorenzo Arredondo,DEM,204Hancock,14 C-1,Attorney General,,Lorenzo Arredondo,DEM,129Hancock,15 C-2,Attorney General,,Lorenzo Arredondo,DEM,200Hancock,16 C-3,Attorney General,,Lorenzo Arredondo,DEM,155Hancock,17 C-4,Attorney General,,Lorenzo Arredondo,DEM,80Hancock,18 GN-1,Attorney General,,Lorenzo Arredondo,DEM,169Hancock,45 J-1,Attorney General,,Lorenzo Arredondo,DEM,155Hancock,32 SC1 - E,Attorney General,,Lorenzo Arredondo,DEM,58Hancock,33 SC1 - W,Attorney General,,Lorenzo Arredondo,DEM,198Hancock,34 SC-2,Attorney General,,Lorenzo Arredondo,DEM,234Hancock,35 SC-3,Attorney General,,Lorenzo Arredondo,DEM,136Hancock,36 SC-4,Attorney General,,Lorenzo Arredondo,DEM,62Hancock,37 SC-5,Attorney General,,Lorenzo Arredondo,DEM,110Hancock,38 SC-6,Attorney General,,Lorenzo Arredondo,DEM,183Hancock,39 SC-7,Attorney General,,Lorenzo Arredondo,DEM,222Hancock,40 SC-8,Attorney General,,Lorenzo Arredondo,DEM,209Hancock,41 SC-9,Attorney General,,Lorenzo Arredondo,DEM,206Hancock,19 F-1,Attorney General,,Lorenzo Arredondo,DEM,216Hancock,20 F-2,Attorney General,,Lorenzo Arredondo,DEM,210Hancock,21 M-1,Attorney General,,Lorenzo Arredondo,DEM,313Hancock,22 M-1 SE,Attorney General,,Lorenzo Arredondo,DEM,379Hancock,23 M-2,Attorney General,,Lorenzo Arredondo,DEM,305Hancock,24 V-1,Attorney General,,Lorenzo Arredondo,DEM,248Hancock,25 V-1 NW,Attorney General,,Lorenzo Arredondo,DEM,31Hancock,,Attorney General,,Lorenzo Arredondo,DEM,8182Hancock,44 BR-1,Attorney General,,Jennifer McCormick,REP,545Hancock,42 BW-1 E,Attorney General,,Jennifer McCormick,REP,542Hancock,43 BW-1 W,Attorney General,,Jennifer McCormick,REP,319Hancock,46 BN-1,Attorney General,,Jennifer McCormick,REP,457Hancock,47 BN-2,Attorney General,,Jennifer McCormick,REP,402Hancock,26 BC-1,Attorney General,,Jennifer McCormick,REP,784Hancock,27 BC-2 N,Attorney General,,Jennifer McCormick,REP,530Hancock,28 BC-2 S,Attorney General,,Jennifer McCormick,REP,237Hancock,29 BC-3,Attorney General,,Jennifer McCormick,REP,389Hancock,30 BC-4,Attorney General,,Jennifer McCormick,REP,445Hancock,31 BC-5,Attorney General,,Jennifer McCormick,REP,509Hancock,01 G-1 N,Attorney General,,Jennifer McCormick,REP,449Hancock,02 G-1 S,Attorney General,,Jennifer McCormick,REP,517Hancock,03 G-1 E,Attorney General,,Jennifer McCormick,REP,647Hancock,04 G-2 N,Attorney General,,Jennifer McCormick,REP,356Hancock,05 G-2 S,Attorney General,,Jennifer McCormick,REP,492Hancock,06 G-3 N,Attorney General,,Jennifer McCormick,REP,350Hancock,07 G-3 NE,Attorney General,,Jennifer McCormick,REP,162Hancock,08 G-3 C,Attorney General,,Jennifer McCormick,REP,337Hancock,09 G-4 E,Attorney General,,Jennifer McCormick,REP,446Hancock,10 G-4 W,Attorney General,,Jennifer McCormick,REP,337Hancock,11 G-4 C,Attorney General,,Jennifer McCormick,REP,539Hancock,12 G-5 N,Attorney General,,Jennifer McCormick,REP,428Hancock,13 G-5 S,Attorney General,,Jennifer McCormick,REP,654Hancock,14 C-1,Attorney General,,Jennifer McCormick,REP,395Hancock,15 C-2,Attorney General,,Jennifer McCormick,REP,699Hancock,16 C-3,Attorney General,,Jennifer McCormick,REP,558Hancock,17 C-4,Attorney General,,Jennifer McCormick,REP,276Hancock,18 GN-1,Attorney General,,Jennifer McCormick,REP,628Hancock,45 J-1,Attorney General,,Jennifer McCormick,REP,628Hancock,32 SC1 - E,Attorney General,,Jennifer McCormick,REP,223Hancock,33 SC1 - W,Attorney General,,Jennifer McCormick,REP,679Hancock,34 SC-2,Attorney General,,Jennifer McCormick,REP,792Hancock,35 SC-3,Attorney General,,Jennifer McCormick,REP,468Hancock,36 SC-4,Attorney General,,Jennifer McCormick,REP,244Hancock,37 SC-5,Attorney General,,Jennifer McCormick,REP,442Hancock,38 SC-6,Attorney General,,Jennifer McCormick,REP,660Hancock,39 SC-7,Attorney General,,Jennifer McCormick,REP,636Hancock,40 SC-8,Attorney General,,Jennifer McCormick,REP,672Hancock,41 SC-9,Attorney General,,Jennifer McCormick,REP,810Hancock,19 F-1,Attorney General,,Jennifer McCormick,REP,569Hancock,20 F-2,Attorney General,,Jennifer McCormick,REP,498Hancock,21 M-1,Attorney General,,Jennifer McCormick,REP,728Hancock,22 M-1 SE,Attorney General,,Jennifer McCormick,REP,567Hancock,23 M-2,Attorney General,,Jennifer McCormick,REP,402Hancock,24 V-1,Attorney General,,Jennifer McCormick,REP,856Hancock,25 V-1 NW,Attorney General,,Jennifer McCormick,REP,80Hancock,,Attorney General,,Jennifer McCormick,REP,23383Hancock,44 BR-1,Attorney General,,Glenda Ritz,DEM,212Hancock,42 BW-1 E,Attorney General,,Glenda Ritz,DEM,212Hancock,43 BW-1 W,Attorney General,,Glenda Ritz,DEM,137Hancock,46 BN-1,Attorney General,,Glenda Ritz,DEM,201Hancock,47 BN-2,Attorney General,,Glenda Ritz,DEM,136Hancock,26 BC-1,Attorney General,,Glenda Ritz,DEM,335Hancock,27 BC-2 N,Attorney General,,Glenda Ritz,DEM,596Hancock,28 BC-2 S,Attorney General,,Glenda Ritz,DEM,132Hancock,29 BC-3,Attorney General,,Glenda Ritz,DEM,206Hancock,30 BC-4,Attorney General,,Glenda Ritz,DEM,227Hancock,31 BC-5,Attorney General,,Glenda Ritz,DEM,333Hancock,01 G-1 N,Attorney General,,Glenda Ritz,DEM,255Hancock,02 G-1 S,Attorney General,,Glenda Ritz,DEM,316Hancock,03 G-1 E,Attorney General,,Glenda Ritz,DEM,313Hancock,04 G-2 N,Attorney General,,Glenda Ritz,DEM,224Hancock,05 G-2 S,Attorney General,,Glenda Ritz,DEM,303Hancock,06 G-3 N,Attorney General,,Glenda Ritz,DEM,192Hancock,07 G-3 NE,Attorney General,,Glenda Ritz,DEM,111Hancock,08 G-3 C,Attorney General,,Glenda Ritz,DEM,249Hancock,09 G-4 E,Attorney General,,Glenda Ritz,DEM,272Hancock,10 G-4 W,Attorney General,,Glenda Ritz,DEM,144Hancock,11 G-4 C,Attorney General,,Glenda Ritz,DEM,241Hancock,12 G-5 N,Attorney General,,Glenda Ritz,DEM,218Hancock,13 G-5 S,Attorney General,,Glenda Ritz,DEM,337Hancock,14 C-1,Attorney General,,Glenda Ritz,DEM,201Hancock,15 C-2,Attorney General,,Glenda Ritz,DEM,299Hancock,16 C-3,Attorney General,,Glenda Ritz,DEM,253Hancock,17 C-4,Attorney General,,Glenda Ritz,DEM,127Hancock,18 GN-1,Attorney General,,Glenda Ritz,DEM,281Hancock,45 J-1,Attorney General,,Glenda Ritz,DEM,279Hancock,32 SC1 - E,Attorney General,,Glenda Ritz,DEM,112Hancock,33 SC1 - W,Attorney General,,Glenda Ritz,DEM,314Hancock,34 SC-2,Attorney General,,Glenda Ritz,DEM,336Hancock,35 SC-3,Attorney General,,Glenda Ritz,DEM,202Hancock,36 SC-4,Attorney General,,Glenda Ritz,DEM,104Hancock,37 SC-5,Attorney General,,Glenda Ritz,DEM,176Hancock,38 SC-6,Attorney General,,Glenda Ritz,DEM,308Hancock,39 SC-7,Attorney General,,Glenda Ritz,DEM,336Hancock,40 SC-8,Attorney General,,Glenda Ritz,DEM,313Hancock,41 SC-9,Attorney General,,Glenda Ritz,DEM,344Hancock,19 F-1,Attorney General,,Glenda Ritz,DEM,305Hancock,20 F-2,Attorney General,,Glenda Ritz,DEM,330Hancock,21 M-1,Attorney General,,Glenda Ritz,DEM,467Hancock,22 M-1 SE,Attorney General,,Glenda Ritz,DEM,494Hancock,23 M-2,Attorney General,,Glenda Ritz,DEM,390Hancock,24 V-1,Attorney General,,Glenda Ritz,DEM,410Hancock,25 V-1 NW,Attorney General,,Glenda Ritz,DEM,52Hancock,,Attorney General,,Glenda Ritz,DEM,12335Hancock,44 BR-1,U.S. House,6,Barry Welsh,DEM,97Hancock,42 BW-1 E,U.S. House,6,Barry Welsh,DEM,115Hancock,43 BW-1 W,U.S. House,6,Barry Welsh,DEM,68Hancock,46 BN-1,U.S. House,6,Barry Welsh,DEM,116Hancock,47 BN-2,U.S. House,6,Barry Welsh,DEM,87Hancock,26 BC-1,U.S. House,6,Barry Welsh,DEM,223Hancock,27 BC-2 N,U.S. House,6,Barry Welsh,DEM,502Hancock,28 BC-2 S,U.S. House,6,Barry Welsh,DEM,72Hancock,29 BC-3,U.S. House,6,Barry Welsh,DEM,143Hancock,30 BC-4,U.S. House,6,Barry Welsh,DEM,146Hancock,31 BC-5,U.S. House,6,Barry Welsh,DEM,238Hancock,01 G-1 N,U.S. House,6,Barry Welsh,DEM,156Hancock,02 G-1 S,U.S. House,6,Barry Welsh,DEM,193Hancock,03 G-1 E,U.S. House,6,Barry Welsh,DEM,191Hancock,04 G-2 N,U.S. House,6,Barry Welsh,DEM,148Hancock,05 G-2 S,U.S. House,6,Barry Welsh,DEM,191Hancock,06 G-3 N,U.S. House,6,Barry Welsh,DEM,132Hancock,07 G-3 NE,U.S. House,6,Barry Welsh,DEM,80Hancock,08 G-3 C,U.S. House,6,Barry Welsh,DEM,154Hancock,09 G-4 E,U.S. House,6,Barry Welsh,DEM,163Hancock,10 G-4 W,U.S. House,6,Barry Welsh,DEM,95Hancock,11 G-4 C,U.S. House,6,Barry Welsh,DEM,130Hancock,12 G-5 N,U.S. House,6,Barry Welsh,DEM,164Hancock,13 G-5 S,U.S. House,6,Barry Welsh,DEM,184Hancock,14 C-1,U.S. House,6,Barry Welsh,DEM,112Hancock,15 C-2,U.S. House,6,Barry Welsh,DEM,185Hancock,16 C-3,U.S. House,6,Barry Welsh,DEM,150Hancock,17 C-4,U.S. House,6,Barry Welsh,DEM,69Hancock,18 GN-1,U.S. House,6,Barry Welsh,DEM,155Hancock,45 J-1,U.S. House,6,Barry Welsh,DEM,159Hancock,32 SC1 - E,U.S. House,6,Barry Welsh,DEM,67Hancock,33 SC1 - W,U.S. House,6,Barry Welsh,DEM,200Hancock,34 SC-2,U.S. House,6,Barry Welsh,DEM,225Hancock,35 SC-3,U.S. House,6,Barry Welsh,DEM,121Hancock,36 SC-4,U.S. House,6,Barry Welsh,DEM,69Hancock,37 SC-5,U.S. House,6,Barry Welsh,DEM,110Hancock,38 SC-6,U.S. House,6,Barry Welsh,DEM,196Hancock,39 SC-7,U.S. House,6,Barry Welsh,DEM,193Hancock,40 SC-8,U.S. House,6,Barry Welsh,DEM,192Hancock,41 SC-9,U.S. House,6,Barry Welsh,DEM,197Hancock,19 F-1,U.S. House,6,Barry Welsh,DEM,204Hancock,20 F-2,U.S. House,6,Barry Welsh,DEM,199Hancock,21 M-1,U.S. House,6,Barry Welsh,DEM,316Hancock,22 M-1 SE,U.S. House,6,Barry Welsh,DEM,357Hancock,23 M-2,U.S. House,6,Barry Welsh,DEM,295Hancock,24 V-1,U.S. House,6,Barry Welsh,DEM,232Hancock,25 V-1 NW,U.S. House,6,Barry Welsh,DEM,31Hancock,,U.S. House,6,Barry Welsh,DEM,7822Hancock,44 BR-1,U.S. House,6,Luke Messer,REP,624Hancock,42 BW-1 E,U.S. House,6,Luke Messer,REP,605Hancock,43 BW-1 W,U.S. House,6,Luke Messer,REP,370Hancock,46 BN-1,U.S. House,6,Luke Messer,REP,518Hancock,47 BN-2,U.S. House,6,Luke Messer,REP,414Hancock,26 BC-1,U.S. House,6,Luke Messer,REP,864Hancock,27 BC-2 N,U.S. House,6,Luke Messer,REP,567Hancock,28 BC-2 S,U.S. House,6,Luke Messer,REP,279Hancock,29 BC-3,U.S. House,6,Luke Messer,REP,406Hancock,30 BC-4,U.S. House,6,Luke Messer,REP,492Hancock,31 BC-5,U.S. House,6,Luke Messer,REP,574Hancock,01 G-1 N,U.S. House,6,Luke Messer,REP,505Hancock,02 G-1 S,U.S. House,6,Luke Messer,REP,591Hancock,03 G-1 E,U.S. House,6,Luke Messer,REP,709Hancock,04 G-2 N,U.S. House,6,Luke Messer,REP,403Hancock,05 G-2 S,U.S. House,6,Luke Messer,REP,571Hancock,06 G-3 N,U.S. House,6,Luke Messer,REP,381Hancock,07 G-3 NE,U.S. House,6,Luke Messer,REP,179Hancock,08 G-3 C,U.S. House,6,Luke Messer,REP,401Hancock,09 G-4 E,U.S. House,6,Luke Messer,REP,512Hancock,10 G-4 W,U.S. House,6,Luke Messer,REP,371Hancock,11 G-4 C,U.S. House,6,Luke Messer,REP,618Hancock,12 G-5 N,U.S. House,6,Luke Messer,REP,453Hancock,13 G-5 S,U.S. House,6,Luke Messer,REP,777Hancock,14 C-1,U.S. House,6,Luke Messer,REP,456Hancock,15 C-2,U.S. House,6,Luke Messer,REP,778Hancock,16 C-3,U.S. House,6,Luke Messer,REP,635Hancock,17 C-4,U.S. House,6,Luke Messer,REP,321Hancock,18 GN-1,U.S. House,6,Luke Messer,REP,713Hancock,45 J-1,U.S. House,6,Luke Messer,REP,710Hancock,32 SC1 - E,U.S. House,6,Luke Messer,REP,257Hancock,33 SC1 - W,U.S. House,6,Luke Messer,REP,762Hancock,34 SC-2,U.S. House,6,Luke Messer,REP,859Hancock,35 SC-3,U.S. House,6,Luke Messer,REP,520Hancock,36 SC-4,U.S. House,6,Luke Messer,REP,270Hancock,37 SC-5,U.S. House,6,Luke Messer,REP,479Hancock,38 SC-6,U.S. House,6,Luke Messer,REP,758Hancock,39 SC-7,U.S. House,6,Luke Messer,REP,727Hancock,40 SC-8,U.S. House,6,Luke Messer,REP,748Hancock,41 SC-9,U.S. House,6,Luke Messer,REP,924Hancock,19 F-1,U.S. House,6,Luke Messer,REP,626Hancock,20 F-2,U.S. House,6,Luke Messer,REP,584Hancock,21 M-1,U.S. House,6,Luke Messer,REP,830Hancock,22 M-1 SE,U.S. House,6,Luke Messer,REP,655Hancock,23 M-2,U.S. House,6,Luke Messer,REP,450Hancock,24 V-1,U.S. House,6,Luke Messer,REP,973Hancock,25 V-1 NW,U.S. House,6,Luke Messer,REP,96Hancock,,U.S. House,6,Luke Messer,REP,26315Hancock,44 BR-1,U.S. House,6,Rich Turvey,LBT,38Hancock,42 BW-1 E,U.S. House,6,Rich Turvey,LBT,35Hancock,43 BW-1 W,U.S. House,6,Rich Turvey,LBT,13Hancock,46 BN-1,U.S. House,6,Rich Turvey,LBT,31Hancock,47 BN-2,U.S. House,6,Rich Turvey,LBT,30Hancock,26 BC-1,U.S. House,6,Rich Turvey,LBT,33Hancock,27 BC-2 N,U.S. House,6,Rich Turvey,LBT,58Hancock,28 BC-2 S,U.S. House,6,Rich Turvey,LBT,24Hancock,29 BC-3,U.S. House,6,Rich Turvey,LBT,39Hancock,30 BC-4,U.S. House,6,Rich Turvey,LBT,33Hancock,31 BC-5,U.S. House,6,Rich Turvey,LBT,28Hancock,01 G-1 N,U.S. House,6,Rich Turvey,LBT,39Hancock,02 G-1 S,U.S. House,6,Rich Turvey,LBT,45Hancock,03 G-1 E,U.S. House,6,Rich Turvey,LBT,64Hancock,04 G-2 N,U.S. House,6,Rich Turvey,LBT,29Hancock,05 G-2 S,U.S. House,6,Rich Turvey,LBT,43Hancock,06 G-3 N,U.S. House,6,Rich Turvey,LBT,22Hancock,07 G-3 NE,U.S. House,6,Rich Turvey,LBT,16Hancock,08 G-3 C,U.S. House,6,Rich Turvey,LBT,29Hancock,09 G-4 E,U.S. House,6,Rich Turvey,LBT,39Hancock,10 G-4 W,U.S. House,6,Rich Turvey,LBT,22Hancock,11 G-4 C,U.S. House,6,Rich Turvey,LBT,31Hancock,12 G-5 N,U.S. House,6,Rich Turvey,LBT,39Hancock,13 G-5 S,U.S. House,6,Rich Turvey,LBT,30Hancock,14 C-1,U.S. House,6,Rich Turvey,LBT,38Hancock,15 C-2,U.S. House,6,Rich Turvey,LBT,34Hancock,16 C-3,U.S. House,6,Rich Turvey,LBT,31Hancock,17 C-4,U.S. House,6,Rich Turvey,LBT,15Hancock,18 GN-1,U.S. House,6,Rich Turvey,LBT,42Hancock,45 J-1,U.S. House,6,Rich Turvey,LBT,34Hancock,32 SC1 - E,U.S. House,6,Rich Turvey,LBT,10Hancock,33 SC1 - W,U.S. House,6,Rich Turvey,LBT,29Hancock,34 SC-2,U.S. House,6,Rich Turvey,LBT,37Hancock,35 SC-3,U.S. House,6,Rich Turvey,LBT,29Hancock,36 SC-4,U.S. House,6,Rich Turvey,LBT,11Hancock,37 SC-5,U.S. House,6,Rich Turvey,LBT,28Hancock,38 SC-6,U.S. House,6,Rich Turvey,LBT,18Hancock,39 SC-7,U.S. House,6,Rich Turvey,LBT,45Hancock,40 SC-8,U.S. House,6,Rich Turvey,LBT,36Hancock,41 SC-9,U.S. House,6,Rich Turvey,LBT,32Hancock,19 F-1,U.S. House,6,Rich Turvey,LBT,41Hancock,20 F-2,U.S. House,6,Rich Turvey,LBT,42Hancock,21 M-1,U.S. House,6,Rich Turvey,LBT,40Hancock,22 M-1 SE,U.S. House,6,Rich Turvey,LBT,44Hancock,23 M-2,U.S. House,6,Rich Turvey,LBT,45Hancock,24 V-1,U.S. House,6,Rich Turvey,LBT,55Hancock,25 V-1 NW,U.S. House,6,Rich Turvey,LBT,7Hancock,,U.S. House,6,Rich Turvey,LBT,1553Hancock,44 BR-1,U.S. House,6,Write-ins,,0Hancock,42 BW-1 E,U.S. House,6,Write-ins,,0Hancock,43 BW-1 W,U.S. House,6,Write-ins,,0Hancock,46 BN-1,U.S. House,6,Write-ins,,0Hancock,47 BN-2,U.S. House,6,Write-ins,,0Hancock,26 BC-1,U.S. House,6,Write-ins,,2Hancock,27 BC-2 N,U.S. House,6,Write-ins,,1Hancock,28 BC-2 S,U.S. House,6,Write-ins,,0Hancock,29 BC-3,U.S. House,6,Write-ins,,0Hancock,30 BC-4,U.S. House,6,Write-ins,,1Hancock,31 BC-5,U.S. House,6,Write-ins,,0Hancock,01 G-1 N,U.S. House,6,Write-ins,,1Hancock,02 G-1 S,U.S. House,6,Write-ins,,0Hancock,03 G-1 E,U.S. House,6,Write-ins,,0Hancock,04 G-2 N,U.S. House,6,Write-ins,,0Hancock,05 G-2 S,U.S. House,6,Write-ins,,0Hancock,06 G-3 N,U.S. House,6,Write-ins,,0Hancock,07 G-3 NE,U.S. House,6,Write-ins,,0Hancock,08 G-3 C,U.S. House,6,Write-ins,,1Hancock,09 G-4 E,U.S. House,6,Write-ins,,0Hancock,10 G-4 W,U.S. House,6,Write-ins,,1Hancock,11 G-4 C,U.S. House,6,Write-ins,,2Hancock,12 G-5 N,U.S. House,6,Write-ins,,0Hancock,13 G-5 S,U.S. House,6,Write-ins,,0Hancock,14 C-1,U.S. House,6,Write-ins,,0Hancock,15 C-2,U.S. House,6,Write-ins,,0Hancock,16 C-3,U.S. House,6,Write-ins,,0Hancock,17 C-4,U.S. House,6,Write-ins,,0Hancock,18 GN-1,U.S. House,6,Write-ins,,0Hancock,45 J-1,U.S. House,6,Write-ins,,0Hancock,32 SC1 - E,U.S. House,6,Write-ins,,0Hancock,33 SC1 - W,U.S. House,6,Write-ins,,2Hancock,34 SC-2,U.S. House,6,Write-ins,,0Hancock,35 SC-3,U.S. House,6,Write-ins,,0Hancock,36 SC-4,U.S. House,6,Write-ins,,0Hancock,37 SC-5,U.S. House,6,Write-ins,,0Hancock,38 SC-6,U.S. House,6,Write-ins,,0Hancock,39 SC-7,U.S. House,6,Write-ins,,1Hancock,40 SC-8,U.S. House,6,Write-ins,,0Hancock,41 SC-9,U.S. House,6,Write-ins,,1Hancock,19 F-1,U.S. House,6,Write-ins,,0Hancock,20 F-2,U.S. House,6,Write-ins,,0Hancock,21 M-1,U.S. House,6,Write-ins,,0Hancock,22 M-1 SE,U.S. House,6,Write-ins,,1Hancock,23 M-2,U.S. House,6,Write-ins,,0Hancock,24 V-1,U.S. House,6,Write-ins,,0Hancock,25 V-1 NW,U.S. House,6,Write-ins,,0Hancock,,U.S. House,6,Write-ins,,14Hancock,44 BR-1,State Senate,28,Michael Crider,REP,647Hancock,42 BW-1 E,State Senate,28,Michael Crider,REP,630Hancock,43 BW-1 W,State Senate,28,Michael Crider,REP,357Hancock,46 BN-1,State Senate,28,Michael Crider,REP,559Hancock,47 BN-2,State Senate,28,Michael Crider,REP,449Hancock,26 BC-1,State Senate,28,Michael Crider,REP,883Hancock,27 BC-2 N,State Senate,28,Michael Crider,REP,575Hancock,28 BC-2 S,State Senate,28,Michael Crider,REP,282Hancock,29 BC-3,State Senate,28,Michael Crider,REP,423Hancock,30 BC-4,State Senate,28,Michael Crider,REP,510Hancock,31 BC-5,State Senate,28,Michael Crider,REP,573Hancock,01 G-1 N,State Senate,28,Michael Crider,REP,511Hancock,02 G-1 S,State Senate,28,Michael Crider,REP,602Hancock,03 G-1 E,State Senate,28,Michael Crider,REP,722Hancock,04 G-2 N,State Senate,28,Michael Crider,REP,431Hancock,05 G-2 S,State Senate,28,Michael Crider,REP,577Hancock,06 G-3 N,State Senate,28,Michael Crider,REP,386Hancock,07 G-3 NE,State Senate,28,Michael Crider,REP,178Hancock,08 G-3 C,State Senate,28,Michael Crider,REP,406Hancock,09 G-4 E,State Senate,28,Michael Crider,REP,530Hancock,10 G-4 W,State Senate,28,Michael Crider,REP,372Hancock,11 G-4 C,State Senate,28,Michael Crider,REP,622Hancock,12 G-5 N,State Senate,28,Michael Crider,REP,466Hancock,13 G-5 S,State Senate,28,Michael Crider,REP,796Hancock,14 C-1,State Senate,28,Michael Crider,REP,476Hancock,15 C-2,State Senate,28,Michael Crider,REP,797Hancock,16 C-3,State Senate,28,Michael Crider,REP,657Hancock,17 C-4,State Senate,28,Michael Crider,REP,325Hancock,18 GN-1,State Senate,28,Michael Crider,REP,714Hancock,45 J-1,State Senate,28,Michael Crider,REP,741Hancock,32 SC1 - E,State Senate,28,Michael Crider,REP,259Hancock,33 SC1 - W,State Senate,28,Michael Crider,REP,758Hancock,34 SC-2,State Senate,28,Michael Crider,REP,851Hancock,35 SC-3,State Senate,28,Michael Crider,REP,519Hancock,36 SC-4,State Senate,28,Michael Crider,REP,270Hancock,37 SC-5,State Senate,28,Michael Crider,REP,492Hancock,38 SC-6,State Senate,28,Michael Crider,REP,730Hancock,39 SC-7,State Senate,28,Michael Crider,REP,705Hancock,40 SC-8,State Senate,28,Michael Crider,REP,750Hancock,41 SC-9,State Senate,28,Michael Crider,REP,917Hancock,19 F-1,State Senate,28,Michael Crider,REP,631Hancock,20 F-2,State Senate,28,Michael Crider,REP,567Hancock,21 M-1,State Senate,28,Michael Crider,REP,830Hancock,22 M-1 SE,State Senate,28,Michael Crider,REP,646Hancock,23 M-2,State Senate,28,Michael Crider,REP,452Hancock,24 V-1,State Senate,28,Michael Crider,REP,987Hancock,25 V-1 NW,State Senate,28,Michael Crider,REP,98Hancock,,State Senate,28,Michael Crider,REP,26659Hancock,44 BR-1,State Senate,28,Ken Kern,DEM,112Hancock,42 BW-1 E,State Senate,28,Ken Kern,DEM,118Hancock,43 BW-1 W,State Senate,28,Ken Kern,DEM,90Hancock,46 BN-1,State Senate,28,Ken Kern,DEM,107Hancock,47 BN-2,State Senate,28,Ken Kern,DEM,84Hancock,26 BC-1,State Senate,28,Ken Kern,DEM,224Hancock,27 BC-2 N,State Senate,28,Ken Kern,DEM,534Hancock,28 BC-2 S,State Senate,28,Ken Kern,DEM,84Hancock,29 BC-3,State Senate,28,Ken Kern,DEM,159Hancock,30 BC-4,State Senate,28,Ken Kern,DEM,155Hancock,31 BC-5,State Senate,28,Ken Kern,DEM,255Hancock,01 G-1 N,State Senate,28,Ken Kern,DEM,184Hancock,02 G-1 S,State Senate,28,Ken Kern,DEM,225Hancock,03 G-1 E,State Senate,28,Ken Kern,DEM,227Hancock,04 G-2 N,State Senate,28,Ken Kern,DEM,149Hancock,05 G-2 S,State Senate,28,Ken Kern,DEM,218Hancock,06 G-3 N,State Senate,28,Ken Kern,DEM,148Hancock,07 G-3 NE,State Senate,28,Ken Kern,DEM,90Hancock,08 G-3 C,State Senate,28,Ken Kern,DEM,177Hancock,09 G-4 E,State Senate,28,Ken Kern,DEM,180Hancock,10 G-4 W,State Senate,28,Ken Kern,DEM,113Hancock,11 G-4 C,State Senate,28,Ken Kern,DEM,153Hancock,12 G-5 N,State Senate,28,Ken Kern,DEM,171Hancock,13 G-5 S,State Senate,28,Ken Kern,DEM,184Hancock,14 C-1,State Senate,28,Ken Kern,DEM,116Hancock,15 C-2,State Senate,28,Ken Kern,DEM,198Hancock,16 C-3,State Senate,28,Ken Kern,DEM,154Hancock,17 C-4,State Senate,28,Ken Kern,DEM,77Hancock,18 GN-1,State Senate,28,Ken Kern,DEM,190Hancock,45 J-1,State Senate,28,Ken Kern,DEM,158Hancock,32 SC1 - E,State Senate,28,Ken Kern,DEM,72Hancock,33 SC1 - W,State Senate,28,Ken Kern,DEM,220Hancock,34 SC-2,State Senate,28,Ken Kern,DEM,260Hancock,35 SC-3,State Senate,28,Ken Kern,DEM,144Hancock,36 SC-4,State Senate,28,Ken Kern,DEM,74Hancock,37 SC-5,State Senate,28,Ken Kern,DEM,121Hancock,38 SC-6,State Senate,28,Ken Kern,DEM,226Hancock,39 SC-7,State Senate,28,Ken Kern,DEM,260Hancock,40 SC-8,State Senate,28,Ken Kern,DEM,216Hancock,41 SC-9,State Senate,28,Ken Kern,DEM,220Hancock,19 F-1,State Senate,28,Ken Kern,DEM,235Hancock,20 F-2,State Senate,28,Ken Kern,DEM,249Hancock,21 M-1,State Senate,28,Ken Kern,DEM,343Hancock,22 M-1 SE,State Senate,28,Ken Kern,DEM,399Hancock,23 M-2,State Senate,28,Ken Kern,DEM,324Hancock,24 V-1,State Senate,28,Ken Kern,DEM,261Hancock,25 V-1 NW,State Senate,28,Ken Kern,DEM,36Hancock,,State Senate,28,Ken Kern,DEM,8694Hancock,44 BR-1,State Senate,28,Write-ins,,1Hancock,42 BW-1 E,State Senate,28,Write-ins,,1Hancock,43 BW-1 W,State Senate,28,Write-ins,,1Hancock,46 BN-1,State Senate,28,Write-ins,,0Hancock,47 BN-2,State Senate,28,Write-ins,,1Hancock,26 BC-1,State Senate,28,Write-ins,,2Hancock,27 BC-2 N,State Senate,28,Write-ins,,2Hancock,28 BC-2 S,State Senate,28,Write-ins,,1Hancock,29 BC-3,State Senate,28,Write-ins,,1Hancock,30 BC-4,State Senate,28,Write-ins,,Hancock,31 BC-5,State Senate,28,Write-ins,,2Hancock,01 G-1 N,State Senate,28,Write-ins,,1Hancock,02 G-1 S,State Senate,28,Write-ins,,1Hancock,03 G-1 E,State Senate,28,Write-ins,,0Hancock,04 G-2 N,State Senate,28,Write-ins,,0Hancock,05 G-2 S,State Senate,28,Write-ins,,0Hancock,06 G-3 N,State Senate,28,Write-ins,,0Hancock,07 G-3 NE,State Senate,28,Write-ins,,0Hancock,08 G-3 C,State Senate,28,Write-ins,,2Hancock,09 G-4 E,State Senate,28,Write-ins,,1Hancock,10 G-4 W,State Senate,28,Write-ins,,1Hancock,11 G-4 C,State Senate,28,Write-ins,,1Hancock,12 G-5 N,State Senate,28,Write-ins,,0Hancock,13 G-5 S,State Senate,28,Write-ins,,0Hancock,14 C-1,State Senate,28,Write-ins,,1Hancock,15 C-2,State Senate,28,Write-ins,,1Hancock,16 C-3,State Senate,28,Write-ins,,1Hancock,17 C-4,State Senate,28,Write-ins,,1Hancock,18 GN-1,State Senate,28,Write-ins,,0Hancock,45 J-1,State Senate,28,Write-ins,,0Hancock,32 SC1 - E,State Senate,28,Write-ins,,0Hancock,33 SC1 - W,State Senate,28,Write-ins,,2Hancock,34 SC-2,State Senate,28,Write-ins,,2Hancock,35 SC-3,State Senate,28,Write-ins,,0Hancock,36 SC-4,State Senate,28,Write-ins,,1Hancock,37 SC-5,State Senate,28,Write-ins,,1Hancock,38 SC-6,State Senate,28,Write-ins,,1Hancock,39 SC-7,State Senate,28,Write-ins,,1Hancock,40 SC-8,State Senate,28,Write-ins,,0Hancock,41 SC-9,State Senate,28,Write-ins,,2Hancock,19 F-1,State Senate,28,Write-ins,,0Hancock,20 F-2,State Senate,28,Write-ins,,0Hancock,21 M-1,State Senate,28,Write-ins,,0Hancock,22 M-1 SE,State Senate,28,Write-ins,,1Hancock,23 M-2,State Senate,28,Write-ins,,2Hancock,24 V-1,State Senate,28,Write-ins,,1Hancock,25 V-1 NW,State Senate,28,Write-ins,,0Hancock,,State Senate,28,Write-ins,,37Hancock,44 BR-1,State House,53,Robert Cherry,REP,593Hancock,42 BW-1 E,State House,53,Robert Cherry,REP,583Hancock,43 BW-1 W,State House,53,Robert Cherry,REP,350Hancock,46 BN-1,State House,53,Robert Cherry,REP,483Hancock,47 BN-2,State House,53,Robert Cherry,REP,403Hancock,26 BC-1,State House,88,Brian Bosma,REP,817Hancock,27 BC-2 N,State House,88,Brian Bosma,REP,558Hancock,28 BC-2 S,State House,88,Brian Bosma,REP,273Hancock,29 BC-3,State House,88,Brian Bosma,REP,407Hancock,30 BC-4,State House,88,Brian Bosma,REP,479Hancock,31 BC-5,State House,88,Brian Bosma,REP,557Hancock,01 G-1 N,State House,53,Robert Cherry,REP,474Hancock,02 G-1 S,State House,53,Robert Cherry,REP,562Hancock,03 G-1 E,State House,53,Robert Cherry,REP,653Hancock,04 G-2 N,State House,53,Robert Cherry,REP,394Hancock,05 G-2 S,State House,53,Robert Cherry,REP,531Hancock,06 G-3 N,State House,53,Robert Cherry,REP,352Hancock,07 G-3 NE,State House,53,Robert Cherry,REP,166Hancock,08 G-3 C,State House,53,Robert Cherry,REP,381Hancock,09 G-4 E,State House,53,Robert Cherry,REP,471Hancock,10 G-4 W,State House,53,Robert Cherry,REP,356Hancock,11 G-4 C,State House,53,Robert Cherry,REP,568Hancock,12 G-5 N,State House,53,Robert Cherry,REP,436Hancock,13 G-5 S,State House,53,Robert Cherry,REP,746Hancock,14 C-1,State House,53,Robert Cherry,REP,423Hancock,15 C-2,State House,88,Brian Bosma,REP,736Hancock,16 C-3,State House,53,Robert Cherry,REP,603Hancock,17 C-4,State House,53,Robert Cherry,REP,302Hancock,18 GN-1,State House,53,Robert Cherry,REP,676Hancock,45 J-1,State House,53,Robert Cherry,REP,688Hancock,32 SC1 - E,State House,57,Sean Eberhart,REP,273Hancock,33 SC1 - W,State House,57,Sean Eberhart,REP,808Hancock,34 SC-2,State House,53,Robert Cherry,REP,795Hancock,35 SC-3,State House,53,Robert Cherry,REP,507Hancock,36 SC-4,State House,57,Sean Eberhart,REP,286Hancock,37 SC-5,State House,53,Robert Cherry,REP,457Hancock,38 SC-6,State House,57,Sean Eberhart,REP,794Hancock,39 SC-7,State House,53,Robert Cherry,REP,679Hancock,40 SC-8,State House,57,Sean Eberhart,REP,801Hancock,41 SC-9,State House,57,Sean Eberhart,REP,994Hancock,19 F-1,State House,88,Brian Bosma,REP,622Hancock,20 F-2,State House,88,Brian Bosma,REP,569Hancock,21 M-1,State House,88,Brian Bosma,REP,788Hancock,22 M-1 SE,State House,88,Brian Bosma,REP,633Hancock,23 M-2,State House,88,Brian Bosma,REP,443Hancock,24 V-1,State House,88,Brian Bosma,REP,951Hancock,25 V-1 NW,State House,88,Brian Bosma,REP,91Hancock,,State House,53,Robert Cherry,REP,13632Hancock,,State House,57,Sean Eberhart,REP,3956Hancock,,State House,88,Brian Bosma,REP,7924Hancock,44 BR-1,State House,53,Nancy Tibbett,DEM,116Hancock,42 BW-1 E,State House,53,Nancy Tibbett,DEM,127Hancock,43 BW-1 W,State House,53,Nancy Tibbett,DEM,73Hancock,46 BN-1,State House,53,Nancy Tibbett,DEM,130Hancock,47 BN-2,State House,53,Nancy Tibbett,DEM,86Hancock,26 BC-1,State House,88,Dana Black,DEM,282Hancock,27 BC-2 N,State House,88,Dana Black,DEM,552Hancock,28 BC-2 S,State House,88,Dana Black,DEM,93Hancock,29 BC-3,State House,88,Dana Black,DEM,179Hancock,30 BC-4,State House,88,Dana Black,DEM,183Hancock,31 BC-5,State House,88,Dana Black,DEM,276Hancock,01 G-1 N,State House,53,Nancy Tibbett,DEM,171Hancock,02 G-1 S,State House,53,Nancy Tibbett,DEM,199Hancock,03 G-1 E,State House,53,Nancy Tibbett,DEM,218Hancock,04 G-2 N,State House,53,Nancy Tibbett,DEM,153Hancock,05 G-2 S,State House,53,Nancy Tibbett,DEM,208Hancock,06 G-3 N,State House,53,Nancy Tibbett,DEM,153Hancock,07 G-3 NE,State House,53,Nancy Tibbett,DEM,83Hancock,08 G-3 C,State House,53,Nancy Tibbett,DEM,167Hancock,09 G-4 E,State House,53,Nancy Tibbett,DEM,190Hancock,10 G-4 W,State House,53,Nancy Tibbett,DEM,105Hancock,11 G-4 C,State House,53,Nancy Tibbett,DEM,143Hancock,12 G-5 N,State House,53,Nancy Tibbett,DEM,148Hancock,13 G-5 S,State House,53,Nancy Tibbett,DEM,190Hancock,14 C-1,State House,53,Nancy Tibbett,DEM,125Hancock,15 C-2,State House,88,Dana Black,DEM,241Hancock,16 C-3,State House,53,Nancy Tibbett,DEM,155Hancock,17 C-4,State House,53,Nancy Tibbett,DEM,75Hancock,18 GN-1,State House,53,Nancy Tibbett,DEM,173Hancock,45 J-1,State House,53,Nancy Tibbett,DEM,162Hancock,34 SC-2,State House,53,Nancy Tibbett,DEM,259Hancock,35 SC-3,State House,53,Nancy Tibbett,DEM,128Hancock,37 SC-5,State House,53,Nancy Tibbett,DEM,121Hancock,39 SC-7,State House,53,Nancy Tibbett,DEM,233Hancock,19 F-1,State House,88,Dana Black,DEM,243Hancock,20 F-2,State House,88,Dana Black,DEM,245Hancock,21 M-1,State House,88,Dana Black,DEM,384Hancock,22 M-1 SE,State House,88,Dana Black,DEM,415Hancock,23 M-2,State House,88,Dana Black,DEM,335Hancock,24 V-1,State House,88,Dana Black,DEM,301Hancock,25 V-1 NW,State House,88,Dana Black,DEM,42Hancock,,State House,53,Nancy Tibbett,DEM,4091Hancock,,State House,88,Dana Black,DEM,3771Hancock,44 BR-1,State House,53,Rick Brown,LBT,52Hancock,42 BW-1 E,State House,53,Rick Brown,LBT,43Hancock,43 BW-1 W,State House,53,Rick Brown,LBT,25Hancock,46 BN-1,State House,53,Rick Brown,LBT,47Hancock,47 BN-2,State House,53,Rick Brown,LBT,41Hancock,01 G-1 N,State House,53,Rick Brown,LBT,52Hancock,02 G-1 S,State House,53,Rick Brown,LBT,68Hancock,03 G-1 E,State House,53,Rick Brown,LBT,79Hancock,04 G-2 N,State House,53,Rick Brown,LBT,30Hancock,05 G-2 S,State House,53,Rick Brown,LBT,62Hancock,06 G-3 N,State House,53,Rick Brown,LBT,33Hancock,07 G-3 NE,State House,53,Rick Brown,LBT,24Hancock,08 G-3 C,State House,53,Rick Brown,LBT,40Hancock,09 G-4 E,State House,53,Rick Brown,LBT,51Hancock,10 G-4 W,State House,53,Rick Brown,LBT,23Hancock,11 G-4 C,State House,53,Rick Brown,LBT,65Hancock,12 G-5 N,State House,53,Rick Brown,LBT,56Hancock,13 G-5 S,State House,53,Rick Brown,LBT,48Hancock,14 C-1,State House,53,Rick Brown,LBT,54Hancock,16 C-3,State House,53,Rick Brown,LBT,56Hancock,17 C-4,State House,53,Rick Brown,LBT,30Hancock,18 GN-1,State House,53,Rick Brown,LBT,55Hancock,45 J-1,State House,53,Rick Brown,LBT,61Hancock,34 SC-2,State House,53,Rick Brown,LBT,58Hancock,35 SC-3,State House,53,Rick Brown,LBT,31Hancock,37 SC-5,State House,53,Rick Brown,LBT,37Hancock,39 SC-7,State House,53,Rick Brown,LBT,54Hancock,,State House,53,Rick Brown,LBT,1275
+county,precinct,office,district,candidate,party,votes
+Hancock,44 BR-1,President,,Donald Trump,REP,622
+Hancock,42 BW-1 E,President,,Donald Trump,REP,594
+Hancock,43 BW-1 W,President,,Donald Trump,REP,358
+Hancock,46 BN-1,President,,Donald Trump,REP,521
+Hancock,47 BN-2,President,,Donald Trump,REP,442
+Hancock,26 BC-1,President,,Donald Trump,REP,829
+Hancock,27 BC-2 N,President,,Donald Trump,REP,523
+Hancock,28 BC-2 S,President,,Donald Trump,REP,272
+Hancock,29 BC-3,President,,Donald Trump,REP,395
+Hancock,30 BC-4,President,,Donald Trump,REP,476
+Hancock,31 BC-5,President,,Donald Trump,REP,521
+Hancock,01 G-1 N,President,,Donald Trump,REP,465
+Hancock,02 G-1 S,President,,Donald Trump,REP,565
+Hancock,03 G-1 E,President,,Donald Trump,REP,662
+Hancock,04 G-2 N,President,,Donald Trump,REP,367
+Hancock,05 G-2 S,President,,Donald Trump,REP,547
+Hancock,06 G-3 N,President,,Donald Trump,REP,364
+Hancock,07 G-3 NE,President,,Donald Trump,REP,164
+Hancock,08 G-3 C,President,,Donald Trump,REP,381
+Hancock,09 G-4 E,President,,Donald Trump,REP,455
+Hancock,10 G-4 W,President,,Donald Trump,REP,340
+Hancock,11 G-4 C,President,,Donald Trump,REP,588
+Hancock,12 G-5 N,President,,Donald Trump,REP,465
+Hancock,13 G-5 S,President,,Donald Trump,REP,718
+Hancock,14 C-1,President,,Donald Trump,REP,433
+Hancock,15 C-2,President,,Donald Trump,REP,751
+Hancock,16 C-3,President,,Donald Trump,REP,613
+Hancock,17 C-4,President,,Donald Trump,REP,311
+Hancock,18 GN-1,President,,Donald Trump,REP,709
+Hancock,45 J-1,President,,Donald Trump,REP,732
+Hancock,32 SC1 - E,President,,Donald Trump,REP,249
+Hancock,33 SC1 - W,President,,Donald Trump,REP,703
+Hancock,34 SC-2,President,,Donald Trump,REP,808
+Hancock,35 SC-3,President,,Donald Trump,REP,509
+Hancock,36 SC-4,President,,Donald Trump,REP,265
+Hancock,37 SC-5,President,,Donald Trump,REP,464
+Hancock,38 SC-6,President,,Donald Trump,REP,700
+Hancock,39 SC-7,President,,Donald Trump,REP,673
+Hancock,40 SC-8,President,,Donald Trump,REP,715
+Hancock,41 SC-9,President,,Donald Trump,REP,849
+Hancock,19 F-1,President,,Donald Trump,REP,611
+Hancock,20 F-2,President,,Donald Trump,REP,577
+Hancock,21 M-1,President,,Donald Trump,REP,730
+Hancock,22 M-1 SE,President,,Donald Trump,REP,561
+Hancock,23 M-2,President,,Donald Trump,REP,415
+Hancock,24 V-1,President,,Donald Trump,REP,939
+Hancock,25 V-1 NW,President,,Donald Trump,REP,99
+Hancock,,President,,Donald Trump,REP,25050
+Hancock,44 BR-1,President,,Hillary Clinton,DEM,121
+Hancock,42 BW-1 E,President,,Hillary Clinton,DEM,135
+Hancock,43 BW-1 W,President,,Hillary Clinton,DEM,83
+Hancock,46 BN-1,President,,Hillary Clinton,DEM,108
+Hancock,47 BN-2,President,,Hillary Clinton,DEM,75
+Hancock,26 BC-1,President,,Hillary Clinton,DEM,253
+Hancock,27 BC-2 N,President,,Hillary Clinton,DEM,539
+Hancock,28 BC-2 S,President,,Hillary Clinton,DEM,78
+Hancock,29 BC-3,President,,Hillary Clinton,DEM,162
+Hancock,30 BC-4,President,,Hillary Clinton,DEM,163
+Hancock,31 BC-5,President,,Hillary Clinton,DEM,279
+Hancock,01 G-1 N,President,,Hillary Clinton,DEM,196
+Hancock,02 G-1 S,President,,Hillary Clinton,DEM,209
+Hancock,03 G-1 E,President,,Hillary Clinton,DEM,224
+Hancock,04 G-2 N,President,,Hillary Clinton,DEM,182
+Hancock,05 G-2 S,President,,Hillary Clinton,DEM,214
+Hancock,06 G-3 N,President,,Hillary Clinton,DEM,149
+Hancock,07 G-3 NE,President,,Hillary Clinton,DEM,91
+Hancock,08 G-3 C,President,,Hillary Clinton,DEM,178
+Hancock,09 G-4 E,President,,Hillary Clinton,DEM,202
+Hancock,10 G-4 W,President,,Hillary Clinton,DEM,125
+Hancock,11 G-4 C,President,,Hillary Clinton,DEM,146
+Hancock,12 G-5 N,President,,Hillary Clinton,DEM,164
+Hancock,13 G-5 S,President,,Hillary Clinton,DEM,218
+Hancock,14 C-1,President,,Hillary Clinton,DEM,131
+Hancock,15 C-2,President,,Hillary Clinton,DEM,225
+Hancock,16 C-3,President,,Hillary Clinton,DEM,153
+Hancock,17 C-4,President,,Hillary Clinton,DEM,84
+Hancock,18 GN-1,President,,Hillary Clinton,DEM,177
+Hancock,45 J-1,President,,Hillary Clinton,DEM,152
+Hancock,32 SC1 - E,President,,Hillary Clinton,DEM,67
+Hancock,33 SC1 - W,President,,Hillary Clinton,DEM,255
+Hancock,34 SC-2,President,,Hillary Clinton,DEM,239
+Hancock,35 SC-3,President,,Hillary Clinton,DEM,138
+Hancock,36 SC-4,President,,Hillary Clinton,DEM,70
+Hancock,37 SC-5,President,,Hillary Clinton,DEM,121
+Hancock,38 SC-6,President,,Hillary Clinton,DEM,252
+Hancock,39 SC-7,President,,Hillary Clinton,DEM,233
+Hancock,40 SC-8,President,,Hillary Clinton,DEM,210
+Hancock,41 SC-9,President,,Hillary Clinton,DEM,231
+Hancock,19 F-1,President,,Hillary Clinton,DEM,213
+Hancock,20 F-2,President,,Hillary Clinton,DEM,217
+Hancock,21 M-1,President,,Hillary Clinton,DEM,397
+Hancock,22 M-1 SE,President,,Hillary Clinton,DEM,419
+Hancock,23 M-2,President,,Hillary Clinton,DEM,318
+Hancock,24 V-1,President,,Hillary Clinton,DEM,276
+Hancock,25 V-1 NW,President,,Hillary Clinton,DEM,29
+Hancock,,President,,Hillary Clinton,DEM,8901
+Hancock,44 BR-1,President,,Gary Johnson,LBT,32
+Hancock,42 BW-1 E,President,,Gary Johnson,LBT,32
+Hancock,43 BW-1 W,President,,Gary Johnson,LBT,20
+Hancock,46 BN-1,President,,Gary Johnson,LBT,31
+Hancock,47 BN-2,President,,Gary Johnson,LBT,23
+Hancock,26 BC-1,President,,Gary Johnson,LBT,48
+Hancock,27 BC-2 N,President,,Gary Johnson,LBT,69
+Hancock,28 BC-2 S,President,,Gary Johnson,LBT,29
+Hancock,29 BC-3,President,,Gary Johnson,LBT,32
+Hancock,30 BC-4,President,,Gary Johnson,LBT,40
+Hancock,31 BC-5,President,,Gary Johnson,LBT,51
+Hancock,01 G-1 N,President,,Gary Johnson,LBT,49
+Hancock,02 G-1 S,President,,Gary Johnson,LBT,71
+Hancock,03 G-1 E,President,,Gary Johnson,LBT,84
+Hancock,04 G-2 N,President,,Gary Johnson,LBT,38
+Hancock,05 G-2 S,President,,Gary Johnson,LBT,48
+Hancock,06 G-3 N,President,,Gary Johnson,LBT,37
+Hancock,07 G-3 NE,President,,Gary Johnson,LBT,25
+Hancock,08 G-3 C,President,,Gary Johnson,LBT,38
+Hancock,09 G-4 E,President,,Gary Johnson,LBT,63
+Hancock,10 G-4 W,President,,Gary Johnson,LBT,25
+Hancock,11 G-4 C,President,,Gary Johnson,LBT,54
+Hancock,12 G-5 N,President,,Gary Johnson,LBT,31
+Hancock,13 G-5 S,President,,Gary Johnson,LBT,62
+Hancock,14 C-1,President,,Gary Johnson,LBT,43
+Hancock,15 C-2,President,,Gary Johnson,LBT,36
+Hancock,16 C-3,President,,Gary Johnson,LBT,49
+Hancock,17 C-4,President,,Gary Johnson,LBT,16
+Hancock,18 GN-1,President,,Gary Johnson,LBT,35
+Hancock,45 J-1,President,,Gary Johnson,LBT,38
+Hancock,32 SC1 - E,President,,Gary Johnson,LBT,22
+Hancock,33 SC1 - W,President,,Gary Johnson,LBT,39
+Hancock,34 SC-2,President,,Gary Johnson,LBT,85
+Hancock,35 SC-3,President,,Gary Johnson,LBT,34
+Hancock,36 SC-4,President,,Gary Johnson,LBT,14
+Hancock,37 SC-5,President,,Gary Johnson,LBT,35
+Hancock,38 SC-6,President,,Gary Johnson,LBT,38
+Hancock,39 SC-7,President,,Gary Johnson,LBT,70
+Hancock,40 SC-8,President,,Gary Johnson,LBT,58
+Hancock,41 SC-9,President,,Gary Johnson,LBT,65
+Hancock,19 F-1,President,,Gary Johnson,LBT,46
+Hancock,20 F-2,President,,Gary Johnson,LBT,40
+Hancock,21 M-1,President,,Gary Johnson,LBT,62
+Hancock,22 M-1 SE,President,,Gary Johnson,LBT,77
+Hancock,23 M-2,President,,Gary Johnson,LBT,64
+Hancock,24 V-1,President,,Gary Johnson,LBT,69
+Hancock,25 V-1 NW,President,,Gary Johnson,LBT,9
+Hancock,,President,,Gary Johnson,LBT,2076
+Hancock,44 BR-1,President,,Write-ins,,2
+Hancock,42 BW-1 E,President,,Write-ins,,12
+Hancock,43 BW-1 W,President,,Write-ins,,2
+Hancock,46 BN-1,President,,Write-ins,,10
+Hancock,47 BN-2,President,,Write-ins,,3
+Hancock,26 BC-1,President,,Write-ins,,9
+Hancock,27 BC-2 N,President,,Write-ins,,19
+Hancock,28 BC-2 S,President,,Write-ins,,4
+Hancock,29 BC-3,President,,Write-ins,,8
+Hancock,30 BC-4,President,,Write-ins,,10
+Hancock,31 BC-5,President,,Write-ins,,5
+Hancock,01 G-1 N,President,,Write-ins,,12
+Hancock,02 G-1 S,President,,Write-ins,,10
+Hancock,03 G-1 E,President,,Write-ins,,15
+Hancock,04 G-2 N,President,,Write-ins,,5
+Hancock,05 G-2 S,President,,Write-ins,,11
+Hancock,06 G-3 N,President,,Write-ins,,6
+Hancock,07 G-3 NE,President,,Write-ins,,4
+Hancock,08 G-3 C,President,,Write-ins,,6
+Hancock,09 G-4 E,President,,Write-ins,,12
+Hancock,10 G-4 W,President,,Write-ins,,5
+Hancock,11 G-4 C,President,,Write-ins,,9
+Hancock,12 G-5 N,President,,Write-ins,,10
+Hancock,13 G-5 S,President,,Write-ins,,10
+Hancock,14 C-1,President,,Write-ins,,8
+Hancock,15 C-2,President,,Write-ins,,8
+Hancock,16 C-3,President,,Write-ins,,7
+Hancock,17 C-4,President,,Write-ins,,5
+Hancock,18 GN-1,President,,Write-ins,,5
+Hancock,45 J-1,President,,Write-ins,,7
+Hancock,32 SC1 - E,President,,Write-ins,,3
+Hancock,33 SC1 - W,President,,Write-ins,,11
+Hancock,34 SC-2,President,,Write-ins,,14
+Hancock,35 SC-3,President,,Write-ins,,8
+Hancock,36 SC-4,President,,Write-ins,,8
+Hancock,37 SC-5,President,,Write-ins,,6
+Hancock,38 SC-6,President,,Write-ins,,5
+Hancock,39 SC-7,President,,Write-ins,,12
+Hancock,40 SC-8,President,,Write-ins,,14
+Hancock,41 SC-9,President,,Write-ins,,21
+Hancock,19 F-1,President,,Write-ins,,12
+Hancock,20 F-2,President,,Write-ins,,14
+Hancock,21 M-1,President,,Write-ins,,19
+Hancock,22 M-1 SE,President,,Write-ins,,26
+Hancock,23 M-2,President,,Write-ins,,16
+Hancock,24 V-1,President,,Write-ins,,12
+Hancock,25 V-1 NW,President,,Write-ins,,1
+Hancock,,President,,Write-ins,,441
+Hancock,44 BR-1,U.S. Senate,,Todd Young,REP,548
+Hancock,42 BW-1 E,U.S. Senate,,Todd Young,REP,528
+Hancock,43 BW-1 W,U.S. Senate,,Todd Young,REP,332
+Hancock,46 BN-1,U.S. Senate,,Todd Young,REP,472
+Hancock,47 BN-2,U.S. Senate,,Todd Young,REP,378
+Hancock,26 BC-1,U.S. Senate,,Todd Young,REP,788
+Hancock,27 BC-2 N,U.S. Senate,,Todd Young,REP,508
+Hancock,28 BC-2 S,U.S. Senate,,Todd Young,REP,246
+Hancock,29 BC-3,U.S. Senate,,Todd Young,REP,361
+Hancock,30 BC-4,U.S. Senate,,Todd Young,REP,448
+Hancock,31 BC-5,U.S. Senate,,Todd Young,REP,507
+Hancock,01 G-1 N,U.S. Senate,,Todd Young,REP,439
+Hancock,02 G-1 S,U.S. Senate,,Todd Young,REP,514
+Hancock,03 G-1 E,U.S. Senate,,Todd Young,REP,602
+Hancock,04 G-2 N,U.S. Senate,,Todd Young,REP,339
+Hancock,05 G-2 S,U.S. Senate,,Todd Young,REP,491
+Hancock,06 G-3 N,U.S. Senate,,Todd Young,REP,328
+Hancock,07 G-3 NE,U.S. Senate,,Todd Young,REP,158
+Hancock,08 G-3 C,U.S. Senate,,Todd Young,REP,329
+Hancock,09 G-4 E,U.S. Senate,,Todd Young,REP,417
+Hancock,10 G-4 W,U.S. Senate,,Todd Young,REP,310
+Hancock,11 G-4 C,U.S. Senate,,Todd Young,REP,533
+Hancock,12 G-5 N,U.S. Senate,,Todd Young,REP,389
+Hancock,13 G-5 S,U.S. Senate,,Todd Young,REP,675
+Hancock,14 C-1,U.S. Senate,,Todd Young,REP,389
+Hancock,15 C-2,U.S. Senate,,Todd Young,REP,680
+Hancock,16 C-3,U.S. Senate,,Todd Young,REP,575
+Hancock,17 C-4,U.S. Senate,,Todd Young,REP,272
+Hancock,18 GN-1,U.S. Senate,,Todd Young,REP,617
+Hancock,45 J-1,U.S. Senate,,Todd Young,REP,633
+Hancock,32 SC1 - E,U.S. Senate,,Todd Young,REP,222
+Hancock,33 SC1 - W,U.S. Senate,,Todd Young,REP,684
+Hancock,34 SC-2,U.S. Senate,,Todd Young,REP,768
+Hancock,35 SC-3,U.S. Senate,,Todd Young,REP,449
+Hancock,36 SC-4,U.S. Senate,,Todd Young,REP,252
+Hancock,37 SC-5,U.S. Senate,,Todd Young,REP,438
+Hancock,38 SC-6,U.S. Senate,,Todd Young,REP,665
+Hancock,39 SC-7,U.S. Senate,,Todd Young,REP,634
+Hancock,40 SC-8,U.S. Senate,,Todd Young,REP,673
+Hancock,41 SC-9,U.S. Senate,,Todd Young,REP,821
+Hancock,19 F-1,U.S. Senate,,Todd Young,REP,561
+Hancock,20 F-2,U.S. Senate,,Todd Young,REP,507
+Hancock,21 M-1,U.S. Senate,,Todd Young,REP,737
+Hancock,22 M-1 SE,U.S. Senate,,Todd Young,REP,573
+Hancock,23 M-2,U.S. Senate,,Todd Young,REP,406
+Hancock,24 V-1,U.S. Senate,,Todd Young,REP,895
+Hancock,25 V-1 NW,U.S. Senate,,Todd Young,REP,96
+Hancock,,U.S. Senate,,Todd Young,REP,23187
+Hancock,44 BR-1,U.S. Senate,,Evan Bayh,DEM,172
+Hancock,42 BW-1 E,U.S. Senate,,Evan Bayh,DEM,189
+Hancock,43 BW-1 W,U.S. Senate,,Evan Bayh,DEM,105
+Hancock,46 BN-1,U.S. Senate,,Evan Bayh,DEM,155
+Hancock,47 BN-2,U.S. Senate,,Evan Bayh,DEM,109
+Hancock,26 BC-1,U.S. Senate,,Evan Bayh,DEM,293
+Hancock,27 BC-2 N,U.S. Senate,,Evan Bayh,DEM,561
+Hancock,28 BC-2 S,U.S. Senate,,Evan Bayh,DEM,109
+Hancock,29 BC-3,U.S. Senate,,Evan Bayh,DEM,194
+Hancock,30 BC-4,U.S. Senate,,Evan Bayh,DEM,181
+Hancock,31 BC-5,U.S. Senate,,Evan Bayh,DEM,314
+Hancock,01 G-1 N,U.S. Senate,,Evan Bayh,DEM,218
+Hancock,02 G-1 S,U.S. Senate,,Evan Bayh,DEM,252
+Hancock,03 G-1 E,U.S. Senate,,Evan Bayh,DEM,282
+Hancock,04 G-2 N,U.S. Senate,,Evan Bayh,DEM,224
+Hancock,05 G-2 S,U.S. Senate,,Evan Bayh,DEM,253
+Hancock,06 G-3 N,U.S. Senate,,Evan Bayh,DEM,186
+Hancock,07 G-3 NE,U.S. Senate,,Evan Bayh,DEM,101
+Hancock,08 G-3 C,U.S. Senate,,Evan Bayh,DEM,211
+Hancock,09 G-4 E,U.S. Senate,,Evan Bayh,DEM,232
+Hancock,10 G-4 W,U.S. Senate,,Evan Bayh,DEM,150
+Hancock,11 G-4 C,U.S. Senate,,Evan Bayh,DEM,205
+Hancock,12 G-5 N,U.S. Senate,,Evan Bayh,DEM,223
+Hancock,13 G-5 S,U.S. Senate,,Evan Bayh,DEM,269
+Hancock,14 C-1,U.S. Senate,,Evan Bayh,DEM,164
+Hancock,15 C-2,U.S. Senate,,Evan Bayh,DEM,273
+Hancock,16 C-3,U.S. Senate,,Evan Bayh,DEM,196
+Hancock,17 C-4,U.S. Senate,,Evan Bayh,DEM,109
+Hancock,18 GN-1,U.S. Senate,,Evan Bayh,DEM,236
+Hancock,45 J-1,U.S. Senate,,Evan Bayh,DEM,238
+Hancock,32 SC1 - E,U.S. Senate,,Evan Bayh,DEM,100
+Hancock,33 SC1 - W,U.S. Senate,,Evan Bayh,DEM,283
+Hancock,34 SC-2,U.S. Senate,,Evan Bayh,DEM,313
+Hancock,35 SC-3,U.S. Senate,,Evan Bayh,DEM,191
+Hancock,36 SC-4,U.S. Senate,,Evan Bayh,DEM,81
+Hancock,37 SC-5,U.S. Senate,,Evan Bayh,DEM,151
+Hancock,38 SC-6,U.S. Senate,,Evan Bayh,DEM,298
+Hancock,39 SC-7,U.S. Senate,,Evan Bayh,DEM,300
+Hancock,40 SC-8,U.S. Senate,,Evan Bayh,DEM,268
+Hancock,41 SC-9,U.S. Senate,,Evan Bayh,DEM,301
+Hancock,19 F-1,U.S. Senate,,Evan Bayh,DEM,258
+Hancock,20 F-2,U.S. Senate,,Evan Bayh,DEM,271
+Hancock,21 M-1,U.S. Senate,,Evan Bayh,DEM,415
+Hancock,22 M-1 SE,U.S. Senate,,Evan Bayh,DEM,441
+Hancock,23 M-2,U.S. Senate,,Evan Bayh,DEM,340
+Hancock,24 V-1,U.S. Senate,,Evan Bayh,DEM,319
+Hancock,25 V-1 NW,U.S. Senate,,Evan Bayh,DEM,38
+Hancock,,U.S. Senate,,Evan Bayh,DEM,10772
+Hancock,44 BR-1,U.S. Senate,,Lucy Brenton,LBT,53
+Hancock,42 BW-1 E,U.S. Senate,,Lucy Brenton,LBT,51
+Hancock,43 BW-1 W,U.S. Senate,,Lucy Brenton,LBT,24
+Hancock,46 BN-1,U.S. Senate,,Lucy Brenton,LBT,46
+Hancock,47 BN-2,U.S. Senate,,Lucy Brenton,LBT,53
+Hancock,26 BC-1,U.S. Senate,,Lucy Brenton,LBT,56
+Hancock,27 BC-2 N,U.S. Senate,,Lucy Brenton,LBT,72
+Hancock,28 BC-2 S,U.S. Senate,,Lucy Brenton,LBT,26
+Hancock,29 BC-3,U.S. Senate,,Lucy Brenton,LBT,48
+Hancock,30 BC-4,U.S. Senate,,Lucy Brenton,LBT,52
+Hancock,31 BC-5,U.S. Senate,,Lucy Brenton,LBT,39
+Hancock,01 G-1 N,U.S. Senate,,Lucy Brenton,LBT,60
+Hancock,02 G-1 S,U.S. Senate,,Lucy Brenton,LBT,80
+Hancock,03 G-1 E,U.S. Senate,,Lucy Brenton,LBT,90
+Hancock,04 G-2 N,U.S. Senate,,Lucy Brenton,LBT,32
+Hancock,05 G-2 S,U.S. Senate,,Lucy Brenton,LBT,64
+Hancock,06 G-3 N,U.S. Senate,,Lucy Brenton,LBT,38
+Hancock,07 G-3 NE,U.S. Senate,,Lucy Brenton,LBT,22
+Hancock,08 G-3 C,U.S. Senate,,Lucy Brenton,LBT,55
+Hancock,09 G-4 E,U.S. Senate,,Lucy Brenton,LBT,76
+Hancock,10 G-4 W,U.S. Senate,,Lucy Brenton,LBT,36
+Hancock,11 G-4 C,U.S. Senate,,Lucy Brenton,LBT,57
+Hancock,12 G-5 N,U.S. Senate,,Lucy Brenton,LBT,52
+Hancock,13 G-5 S,U.S. Senate,,Lucy Brenton,LBT,57
+Hancock,14 C-1,U.S. Senate,,Lucy Brenton,LBT,56
+Hancock,15 C-2,U.S. Senate,,Lucy Brenton,LBT,67
+Hancock,16 C-3,U.S. Senate,,Lucy Brenton,LBT,55
+Hancock,17 C-4,U.S. Senate,,Lucy Brenton,LBT,34
+Hancock,18 GN-1,U.S. Senate,,Lucy Brenton,LBT,71
+Hancock,45 J-1,U.S. Senate,,Lucy Brenton,LBT,56
+Hancock,32 SC1 - E,U.S. Senate,,Lucy Brenton,LBT,20
+Hancock,33 SC1 - W,U.S. Senate,,Lucy Brenton,LBT,45
+Hancock,34 SC-2,U.S. Senate,,Lucy Brenton,LBT,60
+Hancock,35 SC-3,U.S. Senate,,Lucy Brenton,LBT,50
+Hancock,36 SC-4,U.S. Senate,,Lucy Brenton,LBT,20
+Hancock,37 SC-5,U.S. Senate,,Lucy Brenton,LBT,40
+Hancock,38 SC-6,U.S. Senate,,Lucy Brenton,LBT,33
+Hancock,39 SC-7,U.S. Senate,,Lucy Brenton,LBT,58
+Hancock,40 SC-8,U.S. Senate,,Lucy Brenton,LBT,56
+Hancock,41 SC-9,U.S. Senate,,Lucy Brenton,LBT,50
+Hancock,19 F-1,U.S. Senate,,Lucy Brenton,LBT,62
+Hancock,20 F-2,U.S. Senate,,Lucy Brenton,LBT,65
+Hancock,21 M-1,U.S. Senate,,Lucy Brenton,LBT,58
+Hancock,22 M-1 SE,U.S. Senate,,Lucy Brenton,LBT,62
+Hancock,23 M-2,U.S. Senate,,Lucy Brenton,LBT,62
+Hancock,24 V-1,U.S. Senate,,Lucy Brenton,LBT,80
+Hancock,25 V-1 NW,U.S. Senate,,Lucy Brenton,LBT,3
+Hancock,,U.S. Senate,,Lucy Brenton,LBT,2402
+Hancock,44 BR-1,U.S. Senate,,Write-ins,,0
+Hancock,42 BW-1 E,U.S. Senate,,Write-ins,,0
+Hancock,43 BW-1 W,U.S. Senate,,Write-ins,,0
+Hancock,46 BN-1,U.S. Senate,,Write-ins,,0
+Hancock,47 BN-2,U.S. Senate,,Write-ins,,0
+Hancock,26 BC-1,U.S. Senate,,Write-ins,,0
+Hancock,27 BC-2 N,U.S. Senate,,Write-ins,,1
+Hancock,28 BC-2 S,U.S. Senate,,Write-ins,,0
+Hancock,29 BC-3,U.S. Senate,,Write-ins,,0
+Hancock,30 BC-4,U.S. Senate,,Write-ins,,0
+Hancock,31 BC-5,U.S. Senate,,Write-ins,,0
+Hancock,01 G-1 N,U.S. Senate,,Write-ins,,1
+Hancock,02 G-1 S,U.S. Senate,,Write-ins,,1
+Hancock,03 G-1 E,U.S. Senate,,Write-ins,,1
+Hancock,04 G-2 N,U.S. Senate,,Write-ins,,0
+Hancock,05 G-2 S,U.S. Senate,,Write-ins,,0
+Hancock,06 G-3 N,U.S. Senate,,Write-ins,,0
+Hancock,07 G-3 NE,U.S. Senate,,Write-ins,,0
+Hancock,08 G-3 C,U.S. Senate,,Write-ins,,1
+Hancock,09 G-4 E,U.S. Senate,,Write-ins,,2
+Hancock,10 G-4 W,U.S. Senate,,Write-ins,,0
+Hancock,11 G-4 C,U.S. Senate,,Write-ins,,3
+Hancock,12 G-5 N,U.S. Senate,,Write-ins,,1
+Hancock,13 G-5 S,U.S. Senate,,Write-ins,,0
+Hancock,14 C-1,U.S. Senate,,Write-ins,,1
+Hancock,15 C-2,U.S. Senate,,Write-ins,,2
+Hancock,16 C-3,U.S. Senate,,Write-ins,,1
+Hancock,17 C-4,U.S. Senate,,Write-ins,,0
+Hancock,18 GN-1,U.S. Senate,,Write-ins,,1
+Hancock,45 J-1,U.S. Senate,,Write-ins,,1
+Hancock,32 SC1 - E,U.S. Senate,,Write-ins,,0
+Hancock,33 SC1 - W,U.S. Senate,,Write-ins,,1
+Hancock,34 SC-2,U.S. Senate,,Write-ins,,1
+Hancock,35 SC-3,U.S. Senate,,Write-ins,,1
+Hancock,36 SC-4,U.S. Senate,,Write-ins,,0
+Hancock,37 SC-5,U.S. Senate,,Write-ins,,0
+Hancock,38 SC-6,U.S. Senate,,Write-ins,,0
+Hancock,39 SC-7,U.S. Senate,,Write-ins,,0
+Hancock,40 SC-8,U.S. Senate,,Write-ins,,1
+Hancock,41 SC-9,U.S. Senate,,Write-ins,,0
+Hancock,19 F-1,U.S. Senate,,Write-ins,,0
+Hancock,20 F-2,U.S. Senate,,Write-ins,,0
+Hancock,21 M-1,U.S. Senate,,Write-ins,,1
+Hancock,22 M-1 SE,U.S. Senate,,Write-ins,,1
+Hancock,23 M-2,U.S. Senate,,Write-ins,,2
+Hancock,24 V-1,U.S. Senate,,Write-ins,,0
+Hancock,25 V-1 NW,U.S. Senate,,Write-ins,,0
+Hancock,,U.S. Senate,,Write-ins,,25
+Hancock,44 BR-1,Governor,,Eric Holcomb,REP,512
+Hancock,42 BW-1 E,Governor,,Eric Holcomb,REP,557
+Hancock,43 BW-1 W,Governor,,Eric Holcomb,REP,317
+Hancock,46 BN-1,Governor,,Eric Holcomb,REP,430
+Hancock,47 BN-2,Governor,,Eric Holcomb,REP,366
+Hancock,26 BC-1,Governor,,Eric Holcomb,REP,779
+Hancock,27 BC-2 N,Governor,,Eric Holcomb,REP,514
+Hancock,28 BC-2 S,Governor,,Eric Holcomb,REP,240
+Hancock,29 BC-3,Governor,,Eric Holcomb,REP,364
+Hancock,30 BC-4,Governor,,Eric Holcomb,REP,425
+Hancock,31 BC-5,Governor,,Eric Holcomb,REP,477
+Hancock,01 G-1 N,Governor,,Eric Holcomb,REP,411
+Hancock,02 G-1 S,Governor,,Eric Holcomb,REP,509
+Hancock,03 G-1 E,Governor,,Eric Holcomb,REP,595
+Hancock,04 G-2 N,Governor,,Eric Holcomb,REP,333
+Hancock,05 G-2 S,Governor,,Eric Holcomb,REP,480
+Hancock,06 G-3 N,Governor,,Eric Holcomb,REP,332
+Hancock,07 G-3 NE,Governor,,Eric Holcomb,REP,150
+Hancock,08 G-3 C,Governor,,Eric Holcomb,REP,323
+Hancock,09 G-4 E,Governor,,Eric Holcomb,REP,438
+Hancock,10 G-4 W,Governor,,Eric Holcomb,REP,312
+Hancock,11 G-4 C,Governor,,Eric Holcomb,REP,528
+Hancock,12 G-5 N,Governor,,Eric Holcomb,REP,401
+Hancock,13 G-5 S,Governor,,Eric Holcomb,REP,657
+Hancock,14 C-1,Governor,,Eric Holcomb,REP,369
+Hancock,15 C-2,Governor,,Eric Holcomb,REP,671
+Hancock,16 C-3,Governor,,Eric Holcomb,REP,550
+Hancock,17 C-4,Governor,,Eric Holcomb,REP,272
+Hancock,18 GN-1,Governor,,Eric Holcomb,REP,627
+Hancock,45 J-1,Governor,,Eric Holcomb,REP,617
+Hancock,32 SC1 - E,Governor,,Eric Holcomb,REP,210
+Hancock,33 SC1 - W,Governor,,Eric Holcomb,REP,644
+Hancock,34 SC-2,Governor,,Eric Holcomb,REP,711
+Hancock,35 SC-3,Governor,,Eric Holcomb,REP,445
+Hancock,36 SC-4,Governor,,Eric Holcomb,REP,238
+Hancock,37 SC-5,Governor,,Eric Holcomb,REP,424
+Hancock,38 SC-6,Governor,,Eric Holcomb,REP,659
+Hancock,39 SC-7,Governor,,Eric Holcomb,REP,620
+Hancock,40 SC-8,Governor,,Eric Holcomb,REP,661
+Hancock,41 SC-9,Governor,,Eric Holcomb,REP,792
+Hancock,19 F-1,Governor,,Eric Holcomb,REP,563
+Hancock,20 F-2,Governor,,Eric Holcomb,REP,492
+Hancock,21 M-1,Governor,,Eric Holcomb,REP,732
+Hancock,22 M-1 SE,Governor,,Eric Holcomb,REP,577
+Hancock,23 M-2,Governor,,Eric Holcomb,REP,395
+Hancock,24 V-1,Governor,,Eric Holcomb,REP,875
+Hancock,25 V-1 NW,Governor,,Eric Holcomb,REP,79
+Hancock,,Governor,,Eric Holcomb,REP,22673
+Hancock,44 BR-1,Governor,,John Gregg,DEM,225
+Hancock,42 BW-1 E,Governor,,John Gregg,DEM,187
+Hancock,43 BW-1 W,Governor,,John Gregg,DEM,131
+Hancock,46 BN-1,Governor,,John Gregg,DEM,210
+Hancock,47 BN-2,Governor,,John Gregg,DEM,141
+Hancock,26 BC-1,Governor,,John Gregg,DEM,334
+Hancock,27 BC-2 N,Governor,,John Gregg,DEM,586
+Hancock,28 BC-2 S,Governor,,John Gregg,DEM,129
+Hancock,29 BC-3,Governor,,John Gregg,DEM,214
+Hancock,30 BC-4,Governor,,John Gregg,DEM,229
+Hancock,31 BC-5,Governor,,John Gregg,DEM,361
+Hancock,01 G-1 N,Governor,,John Gregg,DEM,253
+Hancock,02 G-1 S,Governor,,John Gregg,DEM,293
+Hancock,03 G-1 E,Governor,,John Gregg,DEM,324
+Hancock,04 G-2 N,Governor,,John Gregg,DEM,238
+Hancock,05 G-2 S,Governor,,John Gregg,DEM,293
+Hancock,06 G-3 N,Governor,,John Gregg,DEM,201
+Hancock,07 G-3 NE,Governor,,John Gregg,DEM,115
+Hancock,08 G-3 C,Governor,,John Gregg,DEM,245
+Hancock,09 G-4 E,Governor,,John Gregg,DEM,254
+Hancock,10 G-4 W,Governor,,John Gregg,DEM,163
+Hancock,11 G-4 C,Governor,,John Gregg,DEM,240
+Hancock,12 G-5 N,Governor,,John Gregg,DEM,219
+Hancock,13 G-5 S,Governor,,John Gregg,DEM,324
+Hancock,14 C-1,Governor,,John Gregg,DEM,210
+Hancock,15 C-2,Governor,,John Gregg,DEM,314
+Hancock,16 C-3,Governor,,John Gregg,DEM,237
+Hancock,17 C-4,Governor,,John Gregg,DEM,124
+Hancock,18 GN-1,Governor,,John Gregg,DEM,271
+Hancock,45 J-1,Governor,,John Gregg,DEM,267
+Hancock,32 SC1 - E,Governor,,John Gregg,DEM,124
+Hancock,33 SC1 - W,Governor,,John Gregg,DEM,345
+Hancock,34 SC-2,Governor,,John Gregg,DEM,395
+Hancock,35 SC-3,Governor,,John Gregg,DEM,217
+Hancock,36 SC-4,Governor,,John Gregg,DEM,101
+Hancock,37 SC-5,Governor,,John Gregg,DEM,183
+Hancock,38 SC-6,Governor,,John Gregg,DEM,320
+Hancock,39 SC-7,Governor,,John Gregg,DEM,347
+Hancock,40 SC-8,Governor,,John Gregg,DEM,299
+Hancock,41 SC-9,Governor,,John Gregg,DEM,352
+Hancock,19 F-1,Governor,,John Gregg,DEM,297
+Hancock,20 F-2,Governor,,John Gregg,DEM,316
+Hancock,21 M-1,Governor,,John Gregg,DEM,452
+Hancock,22 M-1 SE,Governor,,John Gregg,DEM,474
+Hancock,23 M-2,Governor,,John Gregg,DEM,374
+Hancock,24 V-1,Governor,,John Gregg,DEM,363
+Hancock,25 V-1 NW,Governor,,John Gregg,DEM,55
+Hancock,,Governor,,John Gregg,DEM,12346
+Hancock,44 BR-1,Governor,,Rex Bell,LBT,30
+Hancock,42 BW-1 E,Governor,,Rex Bell,LBT,24
+Hancock,43 BW-1 W,Governor,,Rex Bell,LBT,14
+Hancock,46 BN-1,Governor,,Rex Bell,LBT,28
+Hancock,47 BN-2,Governor,,Rex Bell,LBT,34
+Hancock,26 BC-1,Governor,,Rex Bell,LBT,19
+Hancock,27 BC-2 N,Governor,,Rex Bell,LBT,39
+Hancock,28 BC-2 S,Governor,,Rex Bell,LBT,13
+Hancock,29 BC-3,Governor,,Rex Bell,LBT,27
+Hancock,30 BC-4,Governor,,Rex Bell,LBT,26
+Hancock,31 BC-5,Governor,,Rex Bell,LBT,20
+Hancock,01 G-1 N,Governor,,Rex Bell,LBT,46
+Hancock,02 G-1 S,Governor,,Rex Bell,LBT,47
+Hancock,03 G-1 E,Governor,,Rex Bell,LBT,49
+Hancock,04 G-2 N,Governor,,Rex Bell,LBT,25
+Hancock,05 G-2 S,Governor,,Rex Bell,LBT,38
+Hancock,06 G-3 N,Governor,,Rex Bell,LBT,17
+Hancock,07 G-3 NE,Governor,,Rex Bell,LBT,15
+Hancock,08 G-3 C,Governor,,Rex Bell,LBT,31
+Hancock,09 G-4 E,Governor,,Rex Bell,LBT,35
+Hancock,10 G-4 W,Governor,,Rex Bell,LBT,20
+Hancock,11 G-4 C,Governor,,Rex Bell,LBT,30
+Hancock,12 G-5 N,Governor,,Rex Bell,LBT,34
+Hancock,13 G-5 S,Governor,,Rex Bell,LBT,28
+Hancock,14 C-1,Governor,,Rex Bell,LBT,30
+Hancock,15 C-2,Governor,,Rex Bell,LBT,33
+Hancock,16 C-3,Governor,,Rex Bell,LBT,39
+Hancock,17 C-4,Governor,,Rex Bell,LBT,15
+Hancock,18 GN-1,Governor,,Rex Bell,LBT,29
+Hancock,45 J-1,Governor,,Rex Bell,LBT,37
+Hancock,32 SC1 - E,Governor,,Rex Bell,LBT,8
+Hancock,33 SC1 - W,Governor,,Rex Bell,LBT,16
+Hancock,34 SC-2,Governor,,Rex Bell,LBT,36
+Hancock,35 SC-3,Governor,,Rex Bell,LBT,21
+Hancock,36 SC-4,Governor,,Rex Bell,LBT,14
+Hancock,37 SC-5,Governor,,Rex Bell,LBT,20
+Hancock,38 SC-6,Governor,,Rex Bell,LBT,13
+Hancock,39 SC-7,Governor,,Rex Bell,LBT,23
+Hancock,40 SC-8,Governor,,Rex Bell,LBT,33
+Hancock,41 SC-9,Governor,,Rex Bell,LBT,29
+Hancock,19 F-1,Governor,,Rex Bell,LBT,25
+Hancock,20 F-2,Governor,,Rex Bell,LBT,36
+Hancock,21 M-1,Governor,,Rex Bell,LBT,23
+Hancock,22 M-1 SE,Governor,,Rex Bell,LBT,21
+Hancock,23 M-2,Governor,,Rex Bell,LBT,33
+Hancock,24 V-1,Governor,,Rex Bell,LBT,46
+Hancock,25 V-1 NW,Governor,,Rex Bell,LBT,2
+Hancock,,Governor,,Rex Bell,LBT,1271
+Hancock,44 BR-1,Governor,,Write-ins,,1
+Hancock,42 BW-1 E,Governor,,Write-ins,,0
+Hancock,43 BW-1 W,Governor,,Write-ins,,0
+Hancock,46 BN-1,Governor,,Write-ins,,0
+Hancock,47 BN-2,Governor,,Write-ins,,1
+Hancock,26 BC-1,Governor,,Write-ins,,0
+Hancock,27 BC-2 N,Governor,,Write-ins,,0
+Hancock,28 BC-2 S,Governor,,Write-ins,,0
+Hancock,29 BC-3,Governor,,Write-ins,,0
+Hancock,30 BC-4,Governor,,Write-ins,,0
+Hancock,31 BC-5,Governor,,Write-ins,,0
+Hancock,01 G-1 N,Governor,,Write-ins,,1
+Hancock,02 G-1 S,Governor,,Write-ins,,0
+Hancock,03 G-1 E,Governor,,Write-ins,,0
+Hancock,04 G-2 N,Governor,,Write-ins,,0
+Hancock,05 G-2 S,Governor,,Write-ins,,0
+Hancock,06 G-3 N,Governor,,Write-ins,,0
+Hancock,07 G-3 NE,Governor,,Write-ins,,0
+Hancock,08 G-3 C,Governor,,Write-ins,,1
+Hancock,09 G-4 E,Governor,,Write-ins,,0
+Hancock,10 G-4 W,Governor,,Write-ins,,0
+Hancock,11 G-4 C,Governor,,Write-ins,,0
+Hancock,12 G-5 N,Governor,,Write-ins,,1
+Hancock,13 G-5 S,Governor,,Write-ins,,0
+Hancock,14 C-1,Governor,,Write-ins,,0
+Hancock,15 C-2,Governor,,Write-ins,,0
+Hancock,16 C-3,Governor,,Write-ins,,1
+Hancock,17 C-4,Governor,,Write-ins,,0
+Hancock,18 GN-1,Governor,,Write-ins,,0
+Hancock,45 J-1,Governor,,Write-ins,,1
+Hancock,32 SC1 - E,Governor,,Write-ins,,1
+Hancock,33 SC1 - W,Governor,,Write-ins,,1
+Hancock,34 SC-2,Governor,,Write-ins,,0
+Hancock,35 SC-3,Governor,,Write-ins,,0
+Hancock,36 SC-4,Governor,,Write-ins,,0
+Hancock,37 SC-5,Governor,,Write-ins,,1
+Hancock,38 SC-6,Governor,,Write-ins,,0
+Hancock,39 SC-7,Governor,,Write-ins,,0
+Hancock,40 SC-8,Governor,,Write-ins,,0
+Hancock,41 SC-9,Governor,,Write-ins,,0
+Hancock,19 F-1,Governor,,Write-ins,,0
+Hancock,20 F-2,Governor,,Write-ins,,0
+Hancock,21 M-1,Governor,,Write-ins,,1
+Hancock,22 M-1 SE,Governor,,Write-ins,,0
+Hancock,23 M-2,Governor,,Write-ins,,1
+Hancock,24 V-1,Governor,,Write-ins,,1
+Hancock,25 V-1 NW,Governor,,Write-ins,,0
+Hancock,,Governor,,Write-ins,,13
+Hancock,44 BR-1,Attorney General,,Curtis Hill,REP,648
+Hancock,42 BW-1 E,Attorney General,,Curtis Hill,REP,616
+Hancock,43 BW-1 W,Attorney General,,Curtis Hill,REP,376
+Hancock,46 BN-1,Attorney General,,Curtis Hill,REP,539
+Hancock,47 BN-2,Attorney General,,Curtis Hill,REP,450
+Hancock,26 BC-1,Attorney General,,Curtis Hill,REP,885
+Hancock,27 BC-2 N,Attorney General,,Curtis Hill,REP,598
+Hancock,28 BC-2 S,Attorney General,,Curtis Hill,REP,284
+Hancock,29 BC-3,Attorney General,,Curtis Hill,REP,439
+Hancock,30 BC-4,Attorney General,,Curtis Hill,REP,516
+Hancock,31 BC-5,Attorney General,,Curtis Hill,REP,595
+Hancock,01 G-1 N,Attorney General,,Curtis Hill,REP,521
+Hancock,02 G-1 S,Attorney General,,Curtis Hill,REP,608
+Hancock,03 G-1 E,Attorney General,,Curtis Hill,REP,729
+Hancock,04 G-2 N,Attorney General,,Curtis Hill,REP,415
+Hancock,05 G-2 S,Attorney General,,Curtis Hill,REP,592
+Hancock,06 G-3 N,Attorney General,,Curtis Hill,REP,403
+Hancock,07 G-3 NE,Attorney General,,Curtis Hill,REP,185
+Hancock,08 G-3 C,Attorney General,,Curtis Hill,REP,401
+Hancock,09 G-4 E,Attorney General,,Curtis Hill,REP,519
+Hancock,10 G-4 W,Attorney General,,Curtis Hill,REP,381
+Hancock,11 G-4 C,Attorney General,,Curtis Hill,REP,627
+Hancock,12 G-5 N,Attorney General,,Curtis Hill,REP,484
+Hancock,13 G-5 S,Attorney General,,Curtis Hill,REP,777
+Hancock,14 C-1,Attorney General,,Curtis Hill,REP,457
+Hancock,15 C-2,Attorney General,,Curtis Hill,REP,787
+Hancock,16 C-3,Attorney General,,Curtis Hill,REP,647
+Hancock,17 C-4,Attorney General,,Curtis Hill,REP,322
+Hancock,18 GN-1,Attorney General,,Curtis Hill,REP,724
+Hancock,45 J-1,Attorney General,,Curtis Hill,REP,740
+Hancock,32 SC1 - E,Attorney General,,Curtis Hill,REP,270
+Hancock,33 SC1 - W,Attorney General,,Curtis Hill,REP,781
+Hancock,34 SC-2,Attorney General,,Curtis Hill,REP,883
+Hancock,35 SC-3,Attorney General,,Curtis Hill,REP,531
+Hancock,36 SC-4,Attorney General,,Curtis Hill,REP,284
+Hancock,37 SC-5,Attorney General,,Curtis Hill,REP,494
+Hancock,38 SC-6,Attorney General,,Curtis Hill,REP,779
+Hancock,39 SC-7,Attorney General,,Curtis Hill,REP,742
+Hancock,40 SC-8,Attorney General,,Curtis Hill,REP,768
+Hancock,41 SC-9,Attorney General,,Curtis Hill,REP,934
+Hancock,19 F-1,Attorney General,,Curtis Hill,REP,651
+Hancock,20 F-2,Attorney General,,Curtis Hill,REP,615
+Hancock,21 M-1,Attorney General,,Curtis Hill,REP,861
+Hancock,22 M-1 SE,Attorney General,,Curtis Hill,REP,669
+Hancock,23 M-2,Attorney General,,Curtis Hill,REP,477
+Hancock,24 V-1,Attorney General,,Curtis Hill,REP,1000
+Hancock,25 V-1 NW,Attorney General,,Curtis Hill,REP,101
+Hancock,,Attorney General,,Curtis Hill,REP,27105
+Hancock,44 BR-1,Attorney General,,Lorenzo Arredondo,DEM,99
+Hancock,42 BW-1 E,Attorney General,,Lorenzo Arredondo,DEM,129
+Hancock,43 BW-1 W,Attorney General,,Lorenzo Arredondo,DEM,72
+Hancock,46 BN-1,Attorney General,,Lorenzo Arredondo,DEM,111
+Hancock,47 BN-2,Attorney General,,Lorenzo Arredondo,DEM,77
+Hancock,26 BC-1,Attorney General,,Lorenzo Arredondo,DEM,220
+Hancock,27 BC-2 N,Attorney General,,Lorenzo Arredondo,DEM,523
+Hancock,28 BC-2 S,Attorney General,,Lorenzo Arredondo,DEM,83
+Hancock,29 BC-3,Attorney General,,Lorenzo Arredondo,DEM,146
+Hancock,30 BC-4,Attorney General,,Lorenzo Arredondo,DEM,148
+Hancock,31 BC-5,Attorney General,,Lorenzo Arredondo,DEM,237
+Hancock,01 G-1 N,Attorney General,,Lorenzo Arredondo,DEM,175
+Hancock,02 G-1 S,Attorney General,,Lorenzo Arredondo,DEM,208
+Hancock,03 G-1 E,Attorney General,,Lorenzo Arredondo,DEM,220
+Hancock,04 G-2 N,Attorney General,,Lorenzo Arredondo,DEM,154
+Hancock,05 G-2 S,Attorney General,,Lorenzo Arredondo,DEM,198
+Hancock,06 G-3 N,Attorney General,,Lorenzo Arredondo,DEM,132
+Hancock,07 G-3 NE,Attorney General,,Lorenzo Arredondo,DEM,83
+Hancock,08 G-3 C,Attorney General,,Lorenzo Arredondo,DEM,174
+Hancock,09 G-4 E,Attorney General,,Lorenzo Arredondo,DEM,189
+Hancock,10 G-4 W,Attorney General,,Lorenzo Arredondo,DEM,96
+Hancock,11 G-4 C,Attorney General,,Lorenzo Arredondo,DEM,143
+Hancock,12 G-5 N,Attorney General,,Lorenzo Arredondo,DEM,153
+Hancock,13 G-5 S,Attorney General,,Lorenzo Arredondo,DEM,204
+Hancock,14 C-1,Attorney General,,Lorenzo Arredondo,DEM,129
+Hancock,15 C-2,Attorney General,,Lorenzo Arredondo,DEM,200
+Hancock,16 C-3,Attorney General,,Lorenzo Arredondo,DEM,155
+Hancock,17 C-4,Attorney General,,Lorenzo Arredondo,DEM,80
+Hancock,18 GN-1,Attorney General,,Lorenzo Arredondo,DEM,169
+Hancock,45 J-1,Attorney General,,Lorenzo Arredondo,DEM,155
+Hancock,32 SC1 - E,Attorney General,,Lorenzo Arredondo,DEM,58
+Hancock,33 SC1 - W,Attorney General,,Lorenzo Arredondo,DEM,198
+Hancock,34 SC-2,Attorney General,,Lorenzo Arredondo,DEM,234
+Hancock,35 SC-3,Attorney General,,Lorenzo Arredondo,DEM,136
+Hancock,36 SC-4,Attorney General,,Lorenzo Arredondo,DEM,62
+Hancock,37 SC-5,Attorney General,,Lorenzo Arredondo,DEM,110
+Hancock,38 SC-6,Attorney General,,Lorenzo Arredondo,DEM,183
+Hancock,39 SC-7,Attorney General,,Lorenzo Arredondo,DEM,222
+Hancock,40 SC-8,Attorney General,,Lorenzo Arredondo,DEM,209
+Hancock,41 SC-9,Attorney General,,Lorenzo Arredondo,DEM,206
+Hancock,19 F-1,Attorney General,,Lorenzo Arredondo,DEM,216
+Hancock,20 F-2,Attorney General,,Lorenzo Arredondo,DEM,210
+Hancock,21 M-1,Attorney General,,Lorenzo Arredondo,DEM,313
+Hancock,22 M-1 SE,Attorney General,,Lorenzo Arredondo,DEM,379
+Hancock,23 M-2,Attorney General,,Lorenzo Arredondo,DEM,305
+Hancock,24 V-1,Attorney General,,Lorenzo Arredondo,DEM,248
+Hancock,25 V-1 NW,Attorney General,,Lorenzo Arredondo,DEM,31
+Hancock,,Attorney General,,Lorenzo Arredondo,DEM,8182
+Hancock,44 BR-1,Attorney General,,Jennifer McCormick,REP,545
+Hancock,42 BW-1 E,Attorney General,,Jennifer McCormick,REP,542
+Hancock,43 BW-1 W,Attorney General,,Jennifer McCormick,REP,319
+Hancock,46 BN-1,Attorney General,,Jennifer McCormick,REP,457
+Hancock,47 BN-2,Attorney General,,Jennifer McCormick,REP,402
+Hancock,26 BC-1,Attorney General,,Jennifer McCormick,REP,784
+Hancock,27 BC-2 N,Attorney General,,Jennifer McCormick,REP,530
+Hancock,28 BC-2 S,Attorney General,,Jennifer McCormick,REP,237
+Hancock,29 BC-3,Attorney General,,Jennifer McCormick,REP,389
+Hancock,30 BC-4,Attorney General,,Jennifer McCormick,REP,445
+Hancock,31 BC-5,Attorney General,,Jennifer McCormick,REP,509
+Hancock,01 G-1 N,Attorney General,,Jennifer McCormick,REP,449
+Hancock,02 G-1 S,Attorney General,,Jennifer McCormick,REP,517
+Hancock,03 G-1 E,Attorney General,,Jennifer McCormick,REP,647
+Hancock,04 G-2 N,Attorney General,,Jennifer McCormick,REP,356
+Hancock,05 G-2 S,Attorney General,,Jennifer McCormick,REP,492
+Hancock,06 G-3 N,Attorney General,,Jennifer McCormick,REP,350
+Hancock,07 G-3 NE,Attorney General,,Jennifer McCormick,REP,162
+Hancock,08 G-3 C,Attorney General,,Jennifer McCormick,REP,337
+Hancock,09 G-4 E,Attorney General,,Jennifer McCormick,REP,446
+Hancock,10 G-4 W,Attorney General,,Jennifer McCormick,REP,337
+Hancock,11 G-4 C,Attorney General,,Jennifer McCormick,REP,539
+Hancock,12 G-5 N,Attorney General,,Jennifer McCormick,REP,428
+Hancock,13 G-5 S,Attorney General,,Jennifer McCormick,REP,654
+Hancock,14 C-1,Attorney General,,Jennifer McCormick,REP,395
+Hancock,15 C-2,Attorney General,,Jennifer McCormick,REP,699
+Hancock,16 C-3,Attorney General,,Jennifer McCormick,REP,558
+Hancock,17 C-4,Attorney General,,Jennifer McCormick,REP,276
+Hancock,18 GN-1,Attorney General,,Jennifer McCormick,REP,628
+Hancock,45 J-1,Attorney General,,Jennifer McCormick,REP,628
+Hancock,32 SC1 - E,Attorney General,,Jennifer McCormick,REP,223
+Hancock,33 SC1 - W,Attorney General,,Jennifer McCormick,REP,679
+Hancock,34 SC-2,Attorney General,,Jennifer McCormick,REP,792
+Hancock,35 SC-3,Attorney General,,Jennifer McCormick,REP,468
+Hancock,36 SC-4,Attorney General,,Jennifer McCormick,REP,244
+Hancock,37 SC-5,Attorney General,,Jennifer McCormick,REP,442
+Hancock,38 SC-6,Attorney General,,Jennifer McCormick,REP,660
+Hancock,39 SC-7,Attorney General,,Jennifer McCormick,REP,636
+Hancock,40 SC-8,Attorney General,,Jennifer McCormick,REP,672
+Hancock,41 SC-9,Attorney General,,Jennifer McCormick,REP,810
+Hancock,19 F-1,Attorney General,,Jennifer McCormick,REP,569
+Hancock,20 F-2,Attorney General,,Jennifer McCormick,REP,498
+Hancock,21 M-1,Attorney General,,Jennifer McCormick,REP,728
+Hancock,22 M-1 SE,Attorney General,,Jennifer McCormick,REP,567
+Hancock,23 M-2,Attorney General,,Jennifer McCormick,REP,402
+Hancock,24 V-1,Attorney General,,Jennifer McCormick,REP,856
+Hancock,25 V-1 NW,Attorney General,,Jennifer McCormick,REP,80
+Hancock,,Attorney General,,Jennifer McCormick,REP,23383
+Hancock,44 BR-1,Attorney General,,Glenda Ritz,DEM,212
+Hancock,42 BW-1 E,Attorney General,,Glenda Ritz,DEM,212
+Hancock,43 BW-1 W,Attorney General,,Glenda Ritz,DEM,137
+Hancock,46 BN-1,Attorney General,,Glenda Ritz,DEM,201
+Hancock,47 BN-2,Attorney General,,Glenda Ritz,DEM,136
+Hancock,26 BC-1,Attorney General,,Glenda Ritz,DEM,335
+Hancock,27 BC-2 N,Attorney General,,Glenda Ritz,DEM,596
+Hancock,28 BC-2 S,Attorney General,,Glenda Ritz,DEM,132
+Hancock,29 BC-3,Attorney General,,Glenda Ritz,DEM,206
+Hancock,30 BC-4,Attorney General,,Glenda Ritz,DEM,227
+Hancock,31 BC-5,Attorney General,,Glenda Ritz,DEM,333
+Hancock,01 G-1 N,Attorney General,,Glenda Ritz,DEM,255
+Hancock,02 G-1 S,Attorney General,,Glenda Ritz,DEM,316
+Hancock,03 G-1 E,Attorney General,,Glenda Ritz,DEM,313
+Hancock,04 G-2 N,Attorney General,,Glenda Ritz,DEM,224
+Hancock,05 G-2 S,Attorney General,,Glenda Ritz,DEM,303
+Hancock,06 G-3 N,Attorney General,,Glenda Ritz,DEM,192
+Hancock,07 G-3 NE,Attorney General,,Glenda Ritz,DEM,111
+Hancock,08 G-3 C,Attorney General,,Glenda Ritz,DEM,249
+Hancock,09 G-4 E,Attorney General,,Glenda Ritz,DEM,272
+Hancock,10 G-4 W,Attorney General,,Glenda Ritz,DEM,144
+Hancock,11 G-4 C,Attorney General,,Glenda Ritz,DEM,241
+Hancock,12 G-5 N,Attorney General,,Glenda Ritz,DEM,218
+Hancock,13 G-5 S,Attorney General,,Glenda Ritz,DEM,337
+Hancock,14 C-1,Attorney General,,Glenda Ritz,DEM,201
+Hancock,15 C-2,Attorney General,,Glenda Ritz,DEM,299
+Hancock,16 C-3,Attorney General,,Glenda Ritz,DEM,253
+Hancock,17 C-4,Attorney General,,Glenda Ritz,DEM,127
+Hancock,18 GN-1,Attorney General,,Glenda Ritz,DEM,281
+Hancock,45 J-1,Attorney General,,Glenda Ritz,DEM,279
+Hancock,32 SC1 - E,Attorney General,,Glenda Ritz,DEM,112
+Hancock,33 SC1 - W,Attorney General,,Glenda Ritz,DEM,314
+Hancock,34 SC-2,Attorney General,,Glenda Ritz,DEM,336
+Hancock,35 SC-3,Attorney General,,Glenda Ritz,DEM,202
+Hancock,36 SC-4,Attorney General,,Glenda Ritz,DEM,104
+Hancock,37 SC-5,Attorney General,,Glenda Ritz,DEM,176
+Hancock,38 SC-6,Attorney General,,Glenda Ritz,DEM,308
+Hancock,39 SC-7,Attorney General,,Glenda Ritz,DEM,336
+Hancock,40 SC-8,Attorney General,,Glenda Ritz,DEM,313
+Hancock,41 SC-9,Attorney General,,Glenda Ritz,DEM,344
+Hancock,19 F-1,Attorney General,,Glenda Ritz,DEM,305
+Hancock,20 F-2,Attorney General,,Glenda Ritz,DEM,330
+Hancock,21 M-1,Attorney General,,Glenda Ritz,DEM,467
+Hancock,22 M-1 SE,Attorney General,,Glenda Ritz,DEM,494
+Hancock,23 M-2,Attorney General,,Glenda Ritz,DEM,390
+Hancock,24 V-1,Attorney General,,Glenda Ritz,DEM,410
+Hancock,25 V-1 NW,Attorney General,,Glenda Ritz,DEM,52
+Hancock,,Attorney General,,Glenda Ritz,DEM,12335
+Hancock,44 BR-1,U.S. House,6,Barry Welsh,DEM,97
+Hancock,42 BW-1 E,U.S. House,6,Barry Welsh,DEM,115
+Hancock,43 BW-1 W,U.S. House,6,Barry Welsh,DEM,68
+Hancock,46 BN-1,U.S. House,6,Barry Welsh,DEM,116
+Hancock,47 BN-2,U.S. House,6,Barry Welsh,DEM,87
+Hancock,26 BC-1,U.S. House,6,Barry Welsh,DEM,223
+Hancock,27 BC-2 N,U.S. House,6,Barry Welsh,DEM,502
+Hancock,28 BC-2 S,U.S. House,6,Barry Welsh,DEM,72
+Hancock,29 BC-3,U.S. House,6,Barry Welsh,DEM,143
+Hancock,30 BC-4,U.S. House,6,Barry Welsh,DEM,146
+Hancock,31 BC-5,U.S. House,6,Barry Welsh,DEM,238
+Hancock,01 G-1 N,U.S. House,6,Barry Welsh,DEM,156
+Hancock,02 G-1 S,U.S. House,6,Barry Welsh,DEM,193
+Hancock,03 G-1 E,U.S. House,6,Barry Welsh,DEM,191
+Hancock,04 G-2 N,U.S. House,6,Barry Welsh,DEM,148
+Hancock,05 G-2 S,U.S. House,6,Barry Welsh,DEM,191
+Hancock,06 G-3 N,U.S. House,6,Barry Welsh,DEM,132
+Hancock,07 G-3 NE,U.S. House,6,Barry Welsh,DEM,80
+Hancock,08 G-3 C,U.S. House,6,Barry Welsh,DEM,154
+Hancock,09 G-4 E,U.S. House,6,Barry Welsh,DEM,163
+Hancock,10 G-4 W,U.S. House,6,Barry Welsh,DEM,95
+Hancock,11 G-4 C,U.S. House,6,Barry Welsh,DEM,130
+Hancock,12 G-5 N,U.S. House,6,Barry Welsh,DEM,164
+Hancock,13 G-5 S,U.S. House,6,Barry Welsh,DEM,184
+Hancock,14 C-1,U.S. House,6,Barry Welsh,DEM,112
+Hancock,15 C-2,U.S. House,6,Barry Welsh,DEM,185
+Hancock,16 C-3,U.S. House,6,Barry Welsh,DEM,150
+Hancock,17 C-4,U.S. House,6,Barry Welsh,DEM,69
+Hancock,18 GN-1,U.S. House,6,Barry Welsh,DEM,155
+Hancock,45 J-1,U.S. House,6,Barry Welsh,DEM,159
+Hancock,32 SC1 - E,U.S. House,6,Barry Welsh,DEM,67
+Hancock,33 SC1 - W,U.S. House,6,Barry Welsh,DEM,200
+Hancock,34 SC-2,U.S. House,6,Barry Welsh,DEM,225
+Hancock,35 SC-3,U.S. House,6,Barry Welsh,DEM,121
+Hancock,36 SC-4,U.S. House,6,Barry Welsh,DEM,69
+Hancock,37 SC-5,U.S. House,6,Barry Welsh,DEM,110
+Hancock,38 SC-6,U.S. House,6,Barry Welsh,DEM,196
+Hancock,39 SC-7,U.S. House,6,Barry Welsh,DEM,193
+Hancock,40 SC-8,U.S. House,6,Barry Welsh,DEM,192
+Hancock,41 SC-9,U.S. House,6,Barry Welsh,DEM,197
+Hancock,19 F-1,U.S. House,6,Barry Welsh,DEM,204
+Hancock,20 F-2,U.S. House,6,Barry Welsh,DEM,199
+Hancock,21 M-1,U.S. House,6,Barry Welsh,DEM,316
+Hancock,22 M-1 SE,U.S. House,6,Barry Welsh,DEM,357
+Hancock,23 M-2,U.S. House,6,Barry Welsh,DEM,295
+Hancock,24 V-1,U.S. House,6,Barry Welsh,DEM,232
+Hancock,25 V-1 NW,U.S. House,6,Barry Welsh,DEM,31
+Hancock,,U.S. House,6,Barry Welsh,DEM,7822
+Hancock,44 BR-1,U.S. House,6,Luke Messer,REP,624
+Hancock,42 BW-1 E,U.S. House,6,Luke Messer,REP,605
+Hancock,43 BW-1 W,U.S. House,6,Luke Messer,REP,370
+Hancock,46 BN-1,U.S. House,6,Luke Messer,REP,518
+Hancock,47 BN-2,U.S. House,6,Luke Messer,REP,414
+Hancock,26 BC-1,U.S. House,6,Luke Messer,REP,864
+Hancock,27 BC-2 N,U.S. House,6,Luke Messer,REP,567
+Hancock,28 BC-2 S,U.S. House,6,Luke Messer,REP,279
+Hancock,29 BC-3,U.S. House,6,Luke Messer,REP,406
+Hancock,30 BC-4,U.S. House,6,Luke Messer,REP,492
+Hancock,31 BC-5,U.S. House,6,Luke Messer,REP,574
+Hancock,01 G-1 N,U.S. House,6,Luke Messer,REP,505
+Hancock,02 G-1 S,U.S. House,6,Luke Messer,REP,591
+Hancock,03 G-1 E,U.S. House,6,Luke Messer,REP,709
+Hancock,04 G-2 N,U.S. House,6,Luke Messer,REP,403
+Hancock,05 G-2 S,U.S. House,6,Luke Messer,REP,571
+Hancock,06 G-3 N,U.S. House,6,Luke Messer,REP,381
+Hancock,07 G-3 NE,U.S. House,6,Luke Messer,REP,179
+Hancock,08 G-3 C,U.S. House,6,Luke Messer,REP,401
+Hancock,09 G-4 E,U.S. House,6,Luke Messer,REP,512
+Hancock,10 G-4 W,U.S. House,6,Luke Messer,REP,371
+Hancock,11 G-4 C,U.S. House,6,Luke Messer,REP,618
+Hancock,12 G-5 N,U.S. House,6,Luke Messer,REP,453
+Hancock,13 G-5 S,U.S. House,6,Luke Messer,REP,777
+Hancock,14 C-1,U.S. House,6,Luke Messer,REP,456
+Hancock,15 C-2,U.S. House,6,Luke Messer,REP,778
+Hancock,16 C-3,U.S. House,6,Luke Messer,REP,635
+Hancock,17 C-4,U.S. House,6,Luke Messer,REP,321
+Hancock,18 GN-1,U.S. House,6,Luke Messer,REP,713
+Hancock,45 J-1,U.S. House,6,Luke Messer,REP,710
+Hancock,32 SC1 - E,U.S. House,6,Luke Messer,REP,257
+Hancock,33 SC1 - W,U.S. House,6,Luke Messer,REP,762
+Hancock,34 SC-2,U.S. House,6,Luke Messer,REP,859
+Hancock,35 SC-3,U.S. House,6,Luke Messer,REP,520
+Hancock,36 SC-4,U.S. House,6,Luke Messer,REP,270
+Hancock,37 SC-5,U.S. House,6,Luke Messer,REP,479
+Hancock,38 SC-6,U.S. House,6,Luke Messer,REP,758
+Hancock,39 SC-7,U.S. House,6,Luke Messer,REP,727
+Hancock,40 SC-8,U.S. House,6,Luke Messer,REP,748
+Hancock,41 SC-9,U.S. House,6,Luke Messer,REP,924
+Hancock,19 F-1,U.S. House,6,Luke Messer,REP,626
+Hancock,20 F-2,U.S. House,6,Luke Messer,REP,584
+Hancock,21 M-1,U.S. House,6,Luke Messer,REP,830
+Hancock,22 M-1 SE,U.S. House,6,Luke Messer,REP,655
+Hancock,23 M-2,U.S. House,6,Luke Messer,REP,450
+Hancock,24 V-1,U.S. House,6,Luke Messer,REP,973
+Hancock,25 V-1 NW,U.S. House,6,Luke Messer,REP,96
+Hancock,,U.S. House,6,Luke Messer,REP,26315
+Hancock,44 BR-1,U.S. House,6,Rich Turvey,LBT,38
+Hancock,42 BW-1 E,U.S. House,6,Rich Turvey,LBT,35
+Hancock,43 BW-1 W,U.S. House,6,Rich Turvey,LBT,13
+Hancock,46 BN-1,U.S. House,6,Rich Turvey,LBT,31
+Hancock,47 BN-2,U.S. House,6,Rich Turvey,LBT,30
+Hancock,26 BC-1,U.S. House,6,Rich Turvey,LBT,33
+Hancock,27 BC-2 N,U.S. House,6,Rich Turvey,LBT,58
+Hancock,28 BC-2 S,U.S. House,6,Rich Turvey,LBT,24
+Hancock,29 BC-3,U.S. House,6,Rich Turvey,LBT,39
+Hancock,30 BC-4,U.S. House,6,Rich Turvey,LBT,33
+Hancock,31 BC-5,U.S. House,6,Rich Turvey,LBT,28
+Hancock,01 G-1 N,U.S. House,6,Rich Turvey,LBT,39
+Hancock,02 G-1 S,U.S. House,6,Rich Turvey,LBT,45
+Hancock,03 G-1 E,U.S. House,6,Rich Turvey,LBT,64
+Hancock,04 G-2 N,U.S. House,6,Rich Turvey,LBT,29
+Hancock,05 G-2 S,U.S. House,6,Rich Turvey,LBT,43
+Hancock,06 G-3 N,U.S. House,6,Rich Turvey,LBT,22
+Hancock,07 G-3 NE,U.S. House,6,Rich Turvey,LBT,16
+Hancock,08 G-3 C,U.S. House,6,Rich Turvey,LBT,29
+Hancock,09 G-4 E,U.S. House,6,Rich Turvey,LBT,39
+Hancock,10 G-4 W,U.S. House,6,Rich Turvey,LBT,22
+Hancock,11 G-4 C,U.S. House,6,Rich Turvey,LBT,31
+Hancock,12 G-5 N,U.S. House,6,Rich Turvey,LBT,39
+Hancock,13 G-5 S,U.S. House,6,Rich Turvey,LBT,30
+Hancock,14 C-1,U.S. House,6,Rich Turvey,LBT,38
+Hancock,15 C-2,U.S. House,6,Rich Turvey,LBT,34
+Hancock,16 C-3,U.S. House,6,Rich Turvey,LBT,31
+Hancock,17 C-4,U.S. House,6,Rich Turvey,LBT,15
+Hancock,18 GN-1,U.S. House,6,Rich Turvey,LBT,42
+Hancock,45 J-1,U.S. House,6,Rich Turvey,LBT,34
+Hancock,32 SC1 - E,U.S. House,6,Rich Turvey,LBT,10
+Hancock,33 SC1 - W,U.S. House,6,Rich Turvey,LBT,29
+Hancock,34 SC-2,U.S. House,6,Rich Turvey,LBT,37
+Hancock,35 SC-3,U.S. House,6,Rich Turvey,LBT,29
+Hancock,36 SC-4,U.S. House,6,Rich Turvey,LBT,11
+Hancock,37 SC-5,U.S. House,6,Rich Turvey,LBT,28
+Hancock,38 SC-6,U.S. House,6,Rich Turvey,LBT,18
+Hancock,39 SC-7,U.S. House,6,Rich Turvey,LBT,45
+Hancock,40 SC-8,U.S. House,6,Rich Turvey,LBT,36
+Hancock,41 SC-9,U.S. House,6,Rich Turvey,LBT,32
+Hancock,19 F-1,U.S. House,6,Rich Turvey,LBT,41
+Hancock,20 F-2,U.S. House,6,Rich Turvey,LBT,42
+Hancock,21 M-1,U.S. House,6,Rich Turvey,LBT,40
+Hancock,22 M-1 SE,U.S. House,6,Rich Turvey,LBT,44
+Hancock,23 M-2,U.S. House,6,Rich Turvey,LBT,45
+Hancock,24 V-1,U.S. House,6,Rich Turvey,LBT,55
+Hancock,25 V-1 NW,U.S. House,6,Rich Turvey,LBT,7
+Hancock,,U.S. House,6,Rich Turvey,LBT,1553
+Hancock,44 BR-1,U.S. House,6,Write-ins,,0
+Hancock,42 BW-1 E,U.S. House,6,Write-ins,,0
+Hancock,43 BW-1 W,U.S. House,6,Write-ins,,0
+Hancock,46 BN-1,U.S. House,6,Write-ins,,0
+Hancock,47 BN-2,U.S. House,6,Write-ins,,0
+Hancock,26 BC-1,U.S. House,6,Write-ins,,2
+Hancock,27 BC-2 N,U.S. House,6,Write-ins,,1
+Hancock,28 BC-2 S,U.S. House,6,Write-ins,,0
+Hancock,29 BC-3,U.S. House,6,Write-ins,,0
+Hancock,30 BC-4,U.S. House,6,Write-ins,,1
+Hancock,31 BC-5,U.S. House,6,Write-ins,,0
+Hancock,01 G-1 N,U.S. House,6,Write-ins,,1
+Hancock,02 G-1 S,U.S. House,6,Write-ins,,0
+Hancock,03 G-1 E,U.S. House,6,Write-ins,,0
+Hancock,04 G-2 N,U.S. House,6,Write-ins,,0
+Hancock,05 G-2 S,U.S. House,6,Write-ins,,0
+Hancock,06 G-3 N,U.S. House,6,Write-ins,,0
+Hancock,07 G-3 NE,U.S. House,6,Write-ins,,0
+Hancock,08 G-3 C,U.S. House,6,Write-ins,,1
+Hancock,09 G-4 E,U.S. House,6,Write-ins,,0
+Hancock,10 G-4 W,U.S. House,6,Write-ins,,1
+Hancock,11 G-4 C,U.S. House,6,Write-ins,,2
+Hancock,12 G-5 N,U.S. House,6,Write-ins,,0
+Hancock,13 G-5 S,U.S. House,6,Write-ins,,0
+Hancock,14 C-1,U.S. House,6,Write-ins,,0
+Hancock,15 C-2,U.S. House,6,Write-ins,,0
+Hancock,16 C-3,U.S. House,6,Write-ins,,0
+Hancock,17 C-4,U.S. House,6,Write-ins,,0
+Hancock,18 GN-1,U.S. House,6,Write-ins,,0
+Hancock,45 J-1,U.S. House,6,Write-ins,,0
+Hancock,32 SC1 - E,U.S. House,6,Write-ins,,0
+Hancock,33 SC1 - W,U.S. House,6,Write-ins,,2
+Hancock,34 SC-2,U.S. House,6,Write-ins,,0
+Hancock,35 SC-3,U.S. House,6,Write-ins,,0
+Hancock,36 SC-4,U.S. House,6,Write-ins,,0
+Hancock,37 SC-5,U.S. House,6,Write-ins,,0
+Hancock,38 SC-6,U.S. House,6,Write-ins,,0
+Hancock,39 SC-7,U.S. House,6,Write-ins,,1
+Hancock,40 SC-8,U.S. House,6,Write-ins,,0
+Hancock,41 SC-9,U.S. House,6,Write-ins,,1
+Hancock,19 F-1,U.S. House,6,Write-ins,,0
+Hancock,20 F-2,U.S. House,6,Write-ins,,0
+Hancock,21 M-1,U.S. House,6,Write-ins,,0
+Hancock,22 M-1 SE,U.S. House,6,Write-ins,,1
+Hancock,23 M-2,U.S. House,6,Write-ins,,0
+Hancock,24 V-1,U.S. House,6,Write-ins,,0
+Hancock,25 V-1 NW,U.S. House,6,Write-ins,,0
+Hancock,,U.S. House,6,Write-ins,,14
+Hancock,44 BR-1,State Senate,28,Michael Crider,REP,647
+Hancock,42 BW-1 E,State Senate,28,Michael Crider,REP,630
+Hancock,43 BW-1 W,State Senate,28,Michael Crider,REP,357
+Hancock,46 BN-1,State Senate,28,Michael Crider,REP,559
+Hancock,47 BN-2,State Senate,28,Michael Crider,REP,449
+Hancock,26 BC-1,State Senate,28,Michael Crider,REP,883
+Hancock,27 BC-2 N,State Senate,28,Michael Crider,REP,575
+Hancock,28 BC-2 S,State Senate,28,Michael Crider,REP,282
+Hancock,29 BC-3,State Senate,28,Michael Crider,REP,423
+Hancock,30 BC-4,State Senate,28,Michael Crider,REP,510
+Hancock,31 BC-5,State Senate,28,Michael Crider,REP,573
+Hancock,01 G-1 N,State Senate,28,Michael Crider,REP,511
+Hancock,02 G-1 S,State Senate,28,Michael Crider,REP,602
+Hancock,03 G-1 E,State Senate,28,Michael Crider,REP,722
+Hancock,04 G-2 N,State Senate,28,Michael Crider,REP,431
+Hancock,05 G-2 S,State Senate,28,Michael Crider,REP,577
+Hancock,06 G-3 N,State Senate,28,Michael Crider,REP,386
+Hancock,07 G-3 NE,State Senate,28,Michael Crider,REP,178
+Hancock,08 G-3 C,State Senate,28,Michael Crider,REP,406
+Hancock,09 G-4 E,State Senate,28,Michael Crider,REP,530
+Hancock,10 G-4 W,State Senate,28,Michael Crider,REP,372
+Hancock,11 G-4 C,State Senate,28,Michael Crider,REP,622
+Hancock,12 G-5 N,State Senate,28,Michael Crider,REP,466
+Hancock,13 G-5 S,State Senate,28,Michael Crider,REP,796
+Hancock,14 C-1,State Senate,28,Michael Crider,REP,476
+Hancock,15 C-2,State Senate,28,Michael Crider,REP,797
+Hancock,16 C-3,State Senate,28,Michael Crider,REP,657
+Hancock,17 C-4,State Senate,28,Michael Crider,REP,325
+Hancock,18 GN-1,State Senate,28,Michael Crider,REP,714
+Hancock,45 J-1,State Senate,28,Michael Crider,REP,741
+Hancock,32 SC1 - E,State Senate,28,Michael Crider,REP,259
+Hancock,33 SC1 - W,State Senate,28,Michael Crider,REP,758
+Hancock,34 SC-2,State Senate,28,Michael Crider,REP,851
+Hancock,35 SC-3,State Senate,28,Michael Crider,REP,519
+Hancock,36 SC-4,State Senate,28,Michael Crider,REP,270
+Hancock,37 SC-5,State Senate,28,Michael Crider,REP,492
+Hancock,38 SC-6,State Senate,28,Michael Crider,REP,730
+Hancock,39 SC-7,State Senate,28,Michael Crider,REP,705
+Hancock,40 SC-8,State Senate,28,Michael Crider,REP,750
+Hancock,41 SC-9,State Senate,28,Michael Crider,REP,917
+Hancock,19 F-1,State Senate,28,Michael Crider,REP,631
+Hancock,20 F-2,State Senate,28,Michael Crider,REP,567
+Hancock,21 M-1,State Senate,28,Michael Crider,REP,830
+Hancock,22 M-1 SE,State Senate,28,Michael Crider,REP,646
+Hancock,23 M-2,State Senate,28,Michael Crider,REP,452
+Hancock,24 V-1,State Senate,28,Michael Crider,REP,987
+Hancock,25 V-1 NW,State Senate,28,Michael Crider,REP,98
+Hancock,,State Senate,28,Michael Crider,REP,26659
+Hancock,44 BR-1,State Senate,28,Ken Kern,DEM,112
+Hancock,42 BW-1 E,State Senate,28,Ken Kern,DEM,118
+Hancock,43 BW-1 W,State Senate,28,Ken Kern,DEM,90
+Hancock,46 BN-1,State Senate,28,Ken Kern,DEM,107
+Hancock,47 BN-2,State Senate,28,Ken Kern,DEM,84
+Hancock,26 BC-1,State Senate,28,Ken Kern,DEM,224
+Hancock,27 BC-2 N,State Senate,28,Ken Kern,DEM,534
+Hancock,28 BC-2 S,State Senate,28,Ken Kern,DEM,84
+Hancock,29 BC-3,State Senate,28,Ken Kern,DEM,159
+Hancock,30 BC-4,State Senate,28,Ken Kern,DEM,155
+Hancock,31 BC-5,State Senate,28,Ken Kern,DEM,255
+Hancock,01 G-1 N,State Senate,28,Ken Kern,DEM,184
+Hancock,02 G-1 S,State Senate,28,Ken Kern,DEM,225
+Hancock,03 G-1 E,State Senate,28,Ken Kern,DEM,227
+Hancock,04 G-2 N,State Senate,28,Ken Kern,DEM,149
+Hancock,05 G-2 S,State Senate,28,Ken Kern,DEM,218
+Hancock,06 G-3 N,State Senate,28,Ken Kern,DEM,148
+Hancock,07 G-3 NE,State Senate,28,Ken Kern,DEM,90
+Hancock,08 G-3 C,State Senate,28,Ken Kern,DEM,177
+Hancock,09 G-4 E,State Senate,28,Ken Kern,DEM,180
+Hancock,10 G-4 W,State Senate,28,Ken Kern,DEM,113
+Hancock,11 G-4 C,State Senate,28,Ken Kern,DEM,153
+Hancock,12 G-5 N,State Senate,28,Ken Kern,DEM,171
+Hancock,13 G-5 S,State Senate,28,Ken Kern,DEM,184
+Hancock,14 C-1,State Senate,28,Ken Kern,DEM,116
+Hancock,15 C-2,State Senate,28,Ken Kern,DEM,198
+Hancock,16 C-3,State Senate,28,Ken Kern,DEM,154
+Hancock,17 C-4,State Senate,28,Ken Kern,DEM,77
+Hancock,18 GN-1,State Senate,28,Ken Kern,DEM,190
+Hancock,45 J-1,State Senate,28,Ken Kern,DEM,158
+Hancock,32 SC1 - E,State Senate,28,Ken Kern,DEM,72
+Hancock,33 SC1 - W,State Senate,28,Ken Kern,DEM,220
+Hancock,34 SC-2,State Senate,28,Ken Kern,DEM,260
+Hancock,35 SC-3,State Senate,28,Ken Kern,DEM,144
+Hancock,36 SC-4,State Senate,28,Ken Kern,DEM,74
+Hancock,37 SC-5,State Senate,28,Ken Kern,DEM,121
+Hancock,38 SC-6,State Senate,28,Ken Kern,DEM,226
+Hancock,39 SC-7,State Senate,28,Ken Kern,DEM,260
+Hancock,40 SC-8,State Senate,28,Ken Kern,DEM,216
+Hancock,41 SC-9,State Senate,28,Ken Kern,DEM,220
+Hancock,19 F-1,State Senate,28,Ken Kern,DEM,235
+Hancock,20 F-2,State Senate,28,Ken Kern,DEM,249
+Hancock,21 M-1,State Senate,28,Ken Kern,DEM,343
+Hancock,22 M-1 SE,State Senate,28,Ken Kern,DEM,399
+Hancock,23 M-2,State Senate,28,Ken Kern,DEM,324
+Hancock,24 V-1,State Senate,28,Ken Kern,DEM,261
+Hancock,25 V-1 NW,State Senate,28,Ken Kern,DEM,36
+Hancock,,State Senate,28,Ken Kern,DEM,8694
+Hancock,44 BR-1,State Senate,28,Write-ins,,1
+Hancock,42 BW-1 E,State Senate,28,Write-ins,,1
+Hancock,43 BW-1 W,State Senate,28,Write-ins,,1
+Hancock,46 BN-1,State Senate,28,Write-ins,,0
+Hancock,47 BN-2,State Senate,28,Write-ins,,1
+Hancock,26 BC-1,State Senate,28,Write-ins,,2
+Hancock,27 BC-2 N,State Senate,28,Write-ins,,2
+Hancock,28 BC-2 S,State Senate,28,Write-ins,,1
+Hancock,29 BC-3,State Senate,28,Write-ins,,1
+Hancock,30 BC-4,State Senate,28,Write-ins,,
+Hancock,31 BC-5,State Senate,28,Write-ins,,2
+Hancock,01 G-1 N,State Senate,28,Write-ins,,1
+Hancock,02 G-1 S,State Senate,28,Write-ins,,1
+Hancock,03 G-1 E,State Senate,28,Write-ins,,0
+Hancock,04 G-2 N,State Senate,28,Write-ins,,0
+Hancock,05 G-2 S,State Senate,28,Write-ins,,0
+Hancock,06 G-3 N,State Senate,28,Write-ins,,0
+Hancock,07 G-3 NE,State Senate,28,Write-ins,,0
+Hancock,08 G-3 C,State Senate,28,Write-ins,,2
+Hancock,09 G-4 E,State Senate,28,Write-ins,,1
+Hancock,10 G-4 W,State Senate,28,Write-ins,,1
+Hancock,11 G-4 C,State Senate,28,Write-ins,,1
+Hancock,12 G-5 N,State Senate,28,Write-ins,,0
+Hancock,13 G-5 S,State Senate,28,Write-ins,,0
+Hancock,14 C-1,State Senate,28,Write-ins,,1
+Hancock,15 C-2,State Senate,28,Write-ins,,1
+Hancock,16 C-3,State Senate,28,Write-ins,,1
+Hancock,17 C-4,State Senate,28,Write-ins,,1
+Hancock,18 GN-1,State Senate,28,Write-ins,,0
+Hancock,45 J-1,State Senate,28,Write-ins,,0
+Hancock,32 SC1 - E,State Senate,28,Write-ins,,0
+Hancock,33 SC1 - W,State Senate,28,Write-ins,,2
+Hancock,34 SC-2,State Senate,28,Write-ins,,2
+Hancock,35 SC-3,State Senate,28,Write-ins,,0
+Hancock,36 SC-4,State Senate,28,Write-ins,,1
+Hancock,37 SC-5,State Senate,28,Write-ins,,1
+Hancock,38 SC-6,State Senate,28,Write-ins,,1
+Hancock,39 SC-7,State Senate,28,Write-ins,,1
+Hancock,40 SC-8,State Senate,28,Write-ins,,0
+Hancock,41 SC-9,State Senate,28,Write-ins,,2
+Hancock,19 F-1,State Senate,28,Write-ins,,0
+Hancock,20 F-2,State Senate,28,Write-ins,,0
+Hancock,21 M-1,State Senate,28,Write-ins,,0
+Hancock,22 M-1 SE,State Senate,28,Write-ins,,1
+Hancock,23 M-2,State Senate,28,Write-ins,,2
+Hancock,24 V-1,State Senate,28,Write-ins,,1
+Hancock,25 V-1 NW,State Senate,28,Write-ins,,0
+Hancock,,State Senate,28,Write-ins,,37
+Hancock,44 BR-1,State House,53,Robert Cherry,REP,593
+Hancock,42 BW-1 E,State House,53,Robert Cherry,REP,583
+Hancock,43 BW-1 W,State House,53,Robert Cherry,REP,350
+Hancock,46 BN-1,State House,53,Robert Cherry,REP,483
+Hancock,47 BN-2,State House,53,Robert Cherry,REP,403
+Hancock,26 BC-1,State House,88,Brian Bosma,REP,817
+Hancock,27 BC-2 N,State House,88,Brian Bosma,REP,558
+Hancock,28 BC-2 S,State House,88,Brian Bosma,REP,273
+Hancock,29 BC-3,State House,88,Brian Bosma,REP,407
+Hancock,30 BC-4,State House,88,Brian Bosma,REP,479
+Hancock,31 BC-5,State House,88,Brian Bosma,REP,557
+Hancock,01 G-1 N,State House,53,Robert Cherry,REP,474
+Hancock,02 G-1 S,State House,53,Robert Cherry,REP,562
+Hancock,03 G-1 E,State House,53,Robert Cherry,REP,653
+Hancock,04 G-2 N,State House,53,Robert Cherry,REP,394
+Hancock,05 G-2 S,State House,53,Robert Cherry,REP,531
+Hancock,06 G-3 N,State House,53,Robert Cherry,REP,352
+Hancock,07 G-3 NE,State House,53,Robert Cherry,REP,166
+Hancock,08 G-3 C,State House,53,Robert Cherry,REP,381
+Hancock,09 G-4 E,State House,53,Robert Cherry,REP,471
+Hancock,10 G-4 W,State House,53,Robert Cherry,REP,356
+Hancock,11 G-4 C,State House,53,Robert Cherry,REP,568
+Hancock,12 G-5 N,State House,53,Robert Cherry,REP,436
+Hancock,13 G-5 S,State House,53,Robert Cherry,REP,746
+Hancock,14 C-1,State House,53,Robert Cherry,REP,423
+Hancock,15 C-2,State House,88,Brian Bosma,REP,736
+Hancock,16 C-3,State House,53,Robert Cherry,REP,603
+Hancock,17 C-4,State House,53,Robert Cherry,REP,302
+Hancock,18 GN-1,State House,53,Robert Cherry,REP,676
+Hancock,45 J-1,State House,53,Robert Cherry,REP,688
+Hancock,32 SC1 - E,State House,57,Sean Eberhart,REP,273
+Hancock,33 SC1 - W,State House,57,Sean Eberhart,REP,808
+Hancock,34 SC-2,State House,53,Robert Cherry,REP,795
+Hancock,35 SC-3,State House,53,Robert Cherry,REP,507
+Hancock,36 SC-4,State House,57,Sean Eberhart,REP,286
+Hancock,37 SC-5,State House,53,Robert Cherry,REP,457
+Hancock,38 SC-6,State House,57,Sean Eberhart,REP,794
+Hancock,39 SC-7,State House,53,Robert Cherry,REP,679
+Hancock,40 SC-8,State House,57,Sean Eberhart,REP,801
+Hancock,41 SC-9,State House,57,Sean Eberhart,REP,994
+Hancock,19 F-1,State House,88,Brian Bosma,REP,622
+Hancock,20 F-2,State House,88,Brian Bosma,REP,569
+Hancock,21 M-1,State House,88,Brian Bosma,REP,788
+Hancock,22 M-1 SE,State House,88,Brian Bosma,REP,633
+Hancock,23 M-2,State House,88,Brian Bosma,REP,443
+Hancock,24 V-1,State House,88,Brian Bosma,REP,951
+Hancock,25 V-1 NW,State House,88,Brian Bosma,REP,91
+Hancock,,State House,53,Robert Cherry,REP,13632
+Hancock,,State House,57,Sean Eberhart,REP,3956
+Hancock,,State House,88,Brian Bosma,REP,7924
+Hancock,44 BR-1,State House,53,Nancy Tibbett,DEM,116
+Hancock,42 BW-1 E,State House,53,Nancy Tibbett,DEM,127
+Hancock,43 BW-1 W,State House,53,Nancy Tibbett,DEM,73
+Hancock,46 BN-1,State House,53,Nancy Tibbett,DEM,130
+Hancock,47 BN-2,State House,53,Nancy Tibbett,DEM,86
+Hancock,26 BC-1,State House,88,Dana Black,DEM,282
+Hancock,27 BC-2 N,State House,88,Dana Black,DEM,552
+Hancock,28 BC-2 S,State House,88,Dana Black,DEM,93
+Hancock,29 BC-3,State House,88,Dana Black,DEM,179
+Hancock,30 BC-4,State House,88,Dana Black,DEM,183
+Hancock,31 BC-5,State House,88,Dana Black,DEM,276
+Hancock,01 G-1 N,State House,53,Nancy Tibbett,DEM,171
+Hancock,02 G-1 S,State House,53,Nancy Tibbett,DEM,199
+Hancock,03 G-1 E,State House,53,Nancy Tibbett,DEM,218
+Hancock,04 G-2 N,State House,53,Nancy Tibbett,DEM,153
+Hancock,05 G-2 S,State House,53,Nancy Tibbett,DEM,208
+Hancock,06 G-3 N,State House,53,Nancy Tibbett,DEM,153
+Hancock,07 G-3 NE,State House,53,Nancy Tibbett,DEM,83
+Hancock,08 G-3 C,State House,53,Nancy Tibbett,DEM,167
+Hancock,09 G-4 E,State House,53,Nancy Tibbett,DEM,190
+Hancock,10 G-4 W,State House,53,Nancy Tibbett,DEM,105
+Hancock,11 G-4 C,State House,53,Nancy Tibbett,DEM,143
+Hancock,12 G-5 N,State House,53,Nancy Tibbett,DEM,148
+Hancock,13 G-5 S,State House,53,Nancy Tibbett,DEM,190
+Hancock,14 C-1,State House,53,Nancy Tibbett,DEM,125
+Hancock,15 C-2,State House,88,Dana Black,DEM,241
+Hancock,16 C-3,State House,53,Nancy Tibbett,DEM,155
+Hancock,17 C-4,State House,53,Nancy Tibbett,DEM,75
+Hancock,18 GN-1,State House,53,Nancy Tibbett,DEM,173
+Hancock,45 J-1,State House,53,Nancy Tibbett,DEM,162
+Hancock,34 SC-2,State House,53,Nancy Tibbett,DEM,259
+Hancock,35 SC-3,State House,53,Nancy Tibbett,DEM,128
+Hancock,37 SC-5,State House,53,Nancy Tibbett,DEM,121
+Hancock,39 SC-7,State House,53,Nancy Tibbett,DEM,233
+Hancock,19 F-1,State House,88,Dana Black,DEM,243
+Hancock,20 F-2,State House,88,Dana Black,DEM,245
+Hancock,21 M-1,State House,88,Dana Black,DEM,384
+Hancock,22 M-1 SE,State House,88,Dana Black,DEM,415
+Hancock,23 M-2,State House,88,Dana Black,DEM,335
+Hancock,24 V-1,State House,88,Dana Black,DEM,301
+Hancock,25 V-1 NW,State House,88,Dana Black,DEM,42
+Hancock,,State House,53,Nancy Tibbett,DEM,4091
+Hancock,,State House,88,Dana Black,DEM,3771
+Hancock,44 BR-1,State House,53,Rick Brown,LBT,52
+Hancock,42 BW-1 E,State House,53,Rick Brown,LBT,43
+Hancock,43 BW-1 W,State House,53,Rick Brown,LBT,25
+Hancock,46 BN-1,State House,53,Rick Brown,LBT,47
+Hancock,47 BN-2,State House,53,Rick Brown,LBT,41
+Hancock,01 G-1 N,State House,53,Rick Brown,LBT,52
+Hancock,02 G-1 S,State House,53,Rick Brown,LBT,68
+Hancock,03 G-1 E,State House,53,Rick Brown,LBT,79
+Hancock,04 G-2 N,State House,53,Rick Brown,LBT,30
+Hancock,05 G-2 S,State House,53,Rick Brown,LBT,62
+Hancock,06 G-3 N,State House,53,Rick Brown,LBT,33
+Hancock,07 G-3 NE,State House,53,Rick Brown,LBT,24
+Hancock,08 G-3 C,State House,53,Rick Brown,LBT,40
+Hancock,09 G-4 E,State House,53,Rick Brown,LBT,51
+Hancock,10 G-4 W,State House,53,Rick Brown,LBT,23
+Hancock,11 G-4 C,State House,53,Rick Brown,LBT,65
+Hancock,12 G-5 N,State House,53,Rick Brown,LBT,56
+Hancock,13 G-5 S,State House,53,Rick Brown,LBT,48
+Hancock,14 C-1,State House,53,Rick Brown,LBT,54
+Hancock,16 C-3,State House,53,Rick Brown,LBT,56
+Hancock,17 C-4,State House,53,Rick Brown,LBT,30
+Hancock,18 GN-1,State House,53,Rick Brown,LBT,55
+Hancock,45 J-1,State House,53,Rick Brown,LBT,61
+Hancock,34 SC-2,State House,53,Rick Brown,LBT,58
+Hancock,35 SC-3,State House,53,Rick Brown,LBT,31
+Hancock,37 SC-5,State House,53,Rick Brown,LBT,37
+Hancock,39 SC-7,State House,53,Rick Brown,LBT,54
+Hancock,,State House,53,Rick Brown,LBT,1275

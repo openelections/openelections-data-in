@@ -1,1 +1,1568 @@
-county,precinct,office,district,candidate,party,voteHoward,0001 1 Clay 1,President,,Donald Trump,REP,29Howard,0002 2 Clay 2,President,,Donald Trump,REP,25Howard,0003 1 Howard 1,President,,Donald Trump,REP,2Howard,0004 101,President,,Donald Trump,REP,47Howard,0005 102,President,,Donald Trump,REP,279Howard,0006 103,President,,Donald Trump,REP,66Howard,0007 104,President,,Donald Trump,REP,293Howard,0008 105,President,,Donald Trump,REP,207Howard,0009 106,President,,Donald Trump,REP,20Howard,0010 107,President,,Donald Trump,REP,207Howard,0011 108,President,,Donald Trump,REP,36Howard,0012 109,President,,Donald Trump,REP,338Howard,0013 110,President,,Donald Trump,REP,358Howard,0014 201,President,,Donald Trump,REP,205Howard,0015 202,President,,Donald Trump,REP,66Howard,0016 203,President,,Donald Trump,REP,252Howard,0017 204,President,,Donald Trump,REP,280Howard,0018 205,President,,Donald Trump,REP,241Howard,0019 206,President,,Donald Trump,REP,163Howard,0020 207,President,,Donald Trump,REP,446Howard,0021 3 Harrison 1,President,,Donald Trump,REP,45Howard,0022 3 Howard 1,President,,Donald Trump,REP,21Howard,0023 3 Taylor 1,President,,Donald Trump,REP,227Howard,0024 3 Taylor 2,President,,Donald Trump,REP,93Howard,0025 3 Taylor 3,President,,Donald Trump,REP,501Howard,0026 3 Taylor 4,President,,Donald Trump,REP,444Howard,0027 301,President,,Donald Trump,REP,90Howard,0028 302,President,,Donald Trump,REP,92Howard,0029 303,President,,Donald Trump,REP,101Howard,0030 304,President,,Donald Trump,REP,256Howard,0031 305,President,,Donald Trump,REP,201Howard,0032 306,President,,Donald Trump,REP,9Howard,0033 4 Taylor 1,President,,Donald Trump,REP,415Howard,0034 401,President,,Donald Trump,REP,370Howard,0035 402,President,,Donald Trump,REP,263Howard,0036 403,President,,Donald Trump,REP,337Howard,0037 404,President,,Donald Trump,REP,196Howard,0038 405,President,,Donald Trump,REP,241Howard,0039 406,President,,Donald Trump,REP,435Howard,0040 5 Harrison 1,President,,Donald Trump,REP,339Howard,0041 5 Harrison 2,President,,Donald Trump,REP,462Howard,0042 5 Taylor 1,President,,Donald Trump,REP,469Howard,0043 501,President,,Donald Trump,REP,545Howard,0044 502,President,,Donald Trump,REP,427Howard,0045 503,President,,Donald Trump,REP,435Howard,0046 6 Harrison 1,President,,Donald Trump,REP,345Howard,0047 6 Harrison 2,President,,Donald Trump,REP,652Howard,0048 601,President,,Donald Trump,REP,521Howard,0049 602,President,,Donald Trump,REP,346Howard,0050 603,President,,Donald Trump,REP,501Howard,0051 604,President,,Donald Trump,REP,567Howard,0052 605,President,,Donald Trump,REP,437Howard,0053 Center A,President,,Donald Trump,REP,114Howard,0054 Center B,President,,Donald Trump,REP,15Howard,0055 Center C,President,,Donald Trump,REP,54Howard,0056 Clay A,President,,Donald Trump,REP,505Howard,0057 Clay B,President,,Donald Trump,REP,454Howard,0058 Clay C,President,,Donald Trump,REP,527Howard,0059 Ervin A,President,,Donald Trump,REP,341Howard,0060 Ervin B,President,,Donald Trump,REP,579Howard,0061 Harrison A,President,,Donald Trump,REP,530Howard,0062 Harrison B,President,,Donald Trump,REP,528Howard,0063 Harrison C,President,,Donald Trump,REP,399Howard,0064 Honey Creek A,President,,Donald Trump,REP,436Howard,0065 Honey Creek B,President,,Donald Trump,REP,417Howard,0066 Howard A,President,,Donald Trump,REP,403Howard,0067 Howard B,President,,Donald Trump,REP,523Howard,0068 Jackson,President,,Donald Trump,REP,219Howard,0069 Liberty A,President,,Donald Trump,REP,485Howard,0070 Liberty B,President,,Donald Trump,REP,295Howard,0071 Liberty C,President,,Donald Trump,REP,632Howard,0072 Liberty D,President,,Donald Trump,REP,537Howard,0073 Monroe,President,,Donald Trump,REP,513Howard,0074 Taylor A,President,,Donald Trump,REP,447Howard,0075 Taylor B,President,,Donald Trump,REP,238Howard,0076 Taylor C,President,,Donald Trump,REP,100Howard,0077 Union,President,,Donald Trump,REP,444Howard,,President,,Donald Trump,REP,23678Howard,0001 1 Clay 1,President,,Hillary Clinton,DEM,13Howard,0002 2 Clay 2,President,,Hillary Clinton,DEM,5Howard,0003 1 Howard 1,President,,Hillary Clinton,DEM,0Howard,0004 101,President,,Hillary Clinton,DEM,47Howard,0005 102,President,,Hillary Clinton,DEM,163Howard,0006 103,President,,Hillary Clinton,DEM,48Howard,0007 104,President,,Hillary Clinton,DEM,193Howard,0008 105,President,,Hillary Clinton,DEM,153Howard,0009 106,President,,Hillary Clinton,DEM,6Howard,0010 107,President,,Hillary Clinton,DEM,160Howard,0011 108,President,,Hillary Clinton,DEM,19Howard,0012 109,President,,Hillary Clinton,DEM,209Howard,0013 110,President,,Hillary Clinton,DEM,225Howard,0014 201,President,,Hillary Clinton,DEM,188Howard,0015 202,President,,Hillary Clinton,DEM,288Howard,0016 203,President,,Hillary Clinton,DEM,145Howard,0017 204,President,,Hillary Clinton,DEM,193Howard,0018 205,President,,Hillary Clinton,DEM,144Howard,0019 206,President,,Hillary Clinton,DEM,153Howard,0020 207,President,,Hillary Clinton,DEM,250Howard,0021 3 Harrison 1,President,,Hillary Clinton,DEM,18Howard,0022 3 Howard 1,President,,Hillary Clinton,DEM,9Howard,0023 3 Taylor 1,President,,Hillary Clinton,DEM,109Howard,0024 3 Taylor 2,President,,Hillary Clinton,DEM,26Howard,0025 3 Taylor 3,President,,Hillary Clinton,DEM,222Howard,0026 3 Taylor 4,President,,Hillary Clinton,DEM,240Howard,0027 301,President,,Hillary Clinton,DEM,291Howard,0028 302,President,,Hillary Clinton,DEM,68Howard,0029 303,President,,Hillary Clinton,DEM,180Howard,0030 304,President,,Hillary Clinton,DEM,162Howard,0031 305,President,,Hillary Clinton,DEM,139Howard,0032 306,President,,Hillary Clinton,DEM,2Howard,0033 4 Taylor 1,President,,Hillary Clinton,DEM,185Howard,0034 401,President,,Hillary Clinton,DEM,212Howard,0035 402,President,,Hillary Clinton,DEM,172Howard,0036 403,President,,Hillary Clinton,DEM,189Howard,0037 404,President,,Hillary Clinton,DEM,141Howard,0038 405,President,,Hillary Clinton,DEM,225Howard,0039 406,President,,Hillary Clinton,DEM,260Howard,0040 5 Harrison 1,President,,Hillary Clinton,DEM,235Howard,0041 5 Harrison 2,President,,Hillary Clinton,DEM,199Howard,0042 5 Taylor 1,President,,Hillary Clinton,DEM,206Howard,0043 501,President,,Hillary Clinton,DEM,278Howard,0044 502,President,,Hillary Clinton,DEM,291Howard,0045 503,President,,Hillary Clinton,DEM,260Howard,0046 6 Harrison 1,President,,Hillary Clinton,DEM,98Howard,0047 6 Harrison 2,President,,Hillary Clinton,DEM,239Howard,0048 601,President,,Hillary Clinton,DEM,197Howard,0049 602,President,,Hillary Clinton,DEM,220Howard,0050 603,President,,Hillary Clinton,DEM,261Howard,0051 604,President,,Hillary Clinton,DEM,277Howard,0052 605,President,,Hillary Clinton,DEM,233Howard,0053 Center A,President,,Hillary Clinton,DEM,40Howard,0054 Center B,President,,Hillary Clinton,DEM,7Howard,0055 Center C,President,,Hillary Clinton,DEM,37Howard,0056 Clay A,President,,Hillary Clinton,DEM,153Howard,0057 Clay B,President,,Hillary Clinton,DEM,137Howard,0058 Clay C,President,,Hillary Clinton,DEM,229Howard,0059 Ervin A,President,,Hillary Clinton,DEM,74Howard,0060 Ervin B,President,,Hillary Clinton,DEM,171Howard,0061 Harrison A,President,,Hillary Clinton,DEM,149Howard,0062 Harrison B,President,,Hillary Clinton,DEM,166Howard,0063 Harrison C,President,,Hillary Clinton,DEM,138Howard,0064 Honey Creek A,President,,Hillary Clinton,DEM,94Howard,0065 Honey Creek B,President,,Hillary Clinton,DEM,112Howard,0066 Howard A,President,,Hillary Clinton,DEM,103Howard,0067 Howard B,President,,Hillary Clinton,DEM,158Howard,0068 Jackson,President,,Hillary Clinton,DEM,49Howard,0069 Liberty A,President,,Hillary Clinton,DEM,96Howard,0070 Liberty B,President,,Hillary Clinton,DEM,90Howard,0071 Liberty C,President,,Hillary Clinton,DEM,146Howard,0072 Liberty D,President,,Hillary Clinton,DEM,132Howard,0073 Monroe,President,,Hillary Clinton,DEM,153Howard,0074 Taylor A,President,,Hillary Clinton,DEM,141Howard,0075 Taylor B,President,,Hillary Clinton,DEM,80Howard,0076 Taylor C,President,,Hillary Clinton,DEM,25Howard,0077 Union,President,,Hillary Clinton,DEM,94Howard,,President,,Hillary Clinton,DEM,11220Howard,0001 1 Clay 1,President,,Gary Johnson,LBT,3Howard,0002 2 Clay 2,President,,Gary Johnson,LBT,0Howard,0003 1 Howard 1,President,,Gary Johnson,LBT,0Howard,0004 101,President,,Gary Johnson,LBT,13Howard,0005 102,President,,Gary Johnson,LBT,26Howard,0006 103,President,,Gary Johnson,LBT,8Howard,0007 104,President,,Gary Johnson,LBT,39Howard,0008 105,President,,Gary Johnson,LBT,32Howard,0009 106,President,,Gary Johnson,LBT,1Howard,0010 107,President,,Gary Johnson,LBT,13Howard,0011 108,President,,Gary Johnson,LBT,4Howard,0012 109,President,,Gary Johnson,LBT,27Howard,0013 110,President,,Gary Johnson,LBT,23Howard,0014 201,President,,Gary Johnson,LBT,31Howard,0015 202,President,,Gary Johnson,LBT,16Howard,0016 203,President,,Gary Johnson,LBT,26Howard,0017 204,President,,Gary Johnson,LBT,38Howard,0018 205,President,,Gary Johnson,LBT,25Howard,0019 206,President,,Gary Johnson,LBT,27Howard,0020 207,President,,Gary Johnson,LBT,38Howard,0021 3 Harrison 1,President,,Gary Johnson,LBT,6Howard,0022 3 Howard 1,President,,Gary Johnson,LBT,0Howard,0023 3 Taylor 1,President,,Gary Johnson,LBT,15Howard,0024 3 Taylor 2,President,,Gary Johnson,LBT,4Howard,0025 3 Taylor 3,President,,Gary Johnson,LBT,39Howard,0026 3 Taylor 4,President,,Gary Johnson,LBT,54Howard,0027 301,President,,Gary Johnson,LBT,12Howard,0028 302,President,,Gary Johnson,LBT,12Howard,0029 303,President,,Gary Johnson,LBT,15Howard,0030 304,President,,Gary Johnson,LBT,34Howard,0031 305,President,,Gary Johnson,LBT,20Howard,0032 306,President,,Gary Johnson,LBT,0Howard,0033 4 Taylor 1,President,,Gary Johnson,LBT,26Howard,0034 401,President,,Gary Johnson,LBT,36Howard,0035 402,President,,Gary Johnson,LBT,28Howard,0036 403,President,,Gary Johnson,LBT,41Howard,0037 404,President,,Gary Johnson,LBT,15Howard,0038 405,President,,Gary Johnson,LBT,21Howard,0039 406,President,,Gary Johnson,LBT,42Howard,0040 5 Harrison 1,President,,Gary Johnson,LBT,44Howard,0041 5 Harrison 2,President,,Gary Johnson,LBT,24Howard,0042 5 Taylor 1,President,,Gary Johnson,LBT,26Howard,0043 501,President,,Gary Johnson,LBT,42Howard,0044 502,President,,Gary Johnson,LBT,28Howard,0045 503,President,,Gary Johnson,LBT,19Howard,0046 6 Harrison 1,President,,Gary Johnson,LBT,19Howard,0047 6 Harrison 2,President,,Gary Johnson,LBT,43Howard,0048 601,President,,Gary Johnson,LBT,43Howard,0049 602,President,,Gary Johnson,LBT,30Howard,0050 603,President,,Gary Johnson,LBT,28Howard,0051 604,President,,Gary Johnson,LBT,34Howard,0052 605,President,,Gary Johnson,LBT,40Howard,0053 Center A,President,,Gary Johnson,LBT,7Howard,0054 Center B,President,,Gary Johnson,LBT,2Howard,0055 Center C,President,,Gary Johnson,LBT,4Howard,0056 Clay A,President,,Gary Johnson,LBT,30Howard,0057 Clay B,President,,Gary Johnson,LBT,29Howard,0058 Clay C,President,,Gary Johnson,LBT,28Howard,0059 Ervin A,President,,Gary Johnson,LBT,17Howard,0060 Ervin B,President,,Gary Johnson,LBT,31Howard,0061 Harrison A,President,,Gary Johnson,LBT,45Howard,0062 Harrison B,President,,Gary Johnson,LBT,39Howard,0063 Harrison C,President,,Gary Johnson,LBT,35Howard,0064 Honey Creek A,President,,Gary Johnson,LBT,35Howard,0065 Honey Creek B,President,,Gary Johnson,LBT,28Howard,0066 Howard A,President,,Gary Johnson,LBT,20Howard,0067 Howard B,President,,Gary Johnson,LBT,29Howard,0068 Jackson,President,,Gary Johnson,LBT,14Howard,0069 Liberty A,President,,Gary Johnson,LBT,23Howard,0070 Liberty B,President,,Gary Johnson,LBT,33Howard,0071 Liberty C,President,,Gary Johnson,LBT,35Howard,0072 Liberty D,President,,Gary Johnson,LBT,27Howard,0073 Monroe,President,,Gary Johnson,LBT,37Howard,0074 Taylor A,President,,Gary Johnson,LBT,35Howard,0075 Taylor B,President,,Gary Johnson,LBT,23Howard,0076 Taylor C,President,,Gary Johnson,LBT,7Howard,0077 Union,President,,Gary Johnson,LBT,21Howard,,President,,Gary Johnson,LBT,1864Howard,0001 1 Clay 1,President,,Write-ins,,2Howard,0002 2 Clay 2,President,,Write-ins,,0Howard,0003 1 Howard 1,President,,Write-ins,,0Howard,0004 101,President,,Write-ins,,1Howard,0005 102,President,,Write-ins,,10Howard,0006 103,President,,Write-ins,,4Howard,0007 104,President,,Write-ins,,8Howard,0008 105,President,,Write-ins,,7Howard,0009 106,President,,Write-ins,,0Howard,0010 107,President,,Write-ins,,4Howard,0011 108,President,,Write-ins,,2Howard,0012 109,President,,Write-ins,,6Howard,0013 110,President,,Write-ins,,12Howard,0014 201,President,,Write-ins,,15Howard,0015 202,President,,Write-ins,,4Howard,0016 203,President,,Write-ins,,11Howard,0017 204,President,,Write-ins,,10Howard,0018 205,President,,Write-ins,,8Howard,0019 206,President,,Write-ins,,11Howard,0020 207,President,,Write-ins,,10Howard,0021 3 Harrison 1,President,,Write-ins,,0Howard,0022 3 Howard 1,President,,Write-ins,,0Howard,0023 3 Taylor 1,President,,Write-ins,,10Howard,0024 3 Taylor 2,President,,Write-ins,,4Howard,0025 3 Taylor 3,President,,Write-ins,,9Howard,0026 3 Taylor 4,President,,Write-ins,,16Howard,0027 301,President,,Write-ins,,2Howard,0028 302,President,,Write-ins,,4Howard,0029 303,President,,Write-ins,,6Howard,0030 304,President,,Write-ins,,3Howard,0031 305,President,,Write-ins,,1Howard,0032 306,President,,Write-ins,,3Howard,0033 4 Taylor 1,President,,Write-ins,,11Howard,0034 401,President,,Write-ins,,13Howard,0035 402,President,,Write-ins,,10Howard,0036 403,President,,Write-ins,,14Howard,0037 404,President,,Write-ins,,8Howard,0038 405,President,,Write-ins,,15Howard,0039 406,President,,Write-ins,,12Howard,0040 5 Harrison 1,President,,Write-ins,,15Howard,0041 5 Harrison 2,President,,Write-ins,,10Howard,0042 5 Taylor 1,President,,Write-ins,,8Howard,0043 501,President,,Write-ins,,15Howard,0044 502,President,,Write-ins,,17Howard,0045 503,President,,Write-ins,,5Howard,0046 6 Harrison 1,President,,Write-ins,,9Howard,0047 6 Harrison 2,President,,Write-ins,,14Howard,0048 601,President,,Write-ins,,8Howard,0049 602,President,,Write-ins,,7Howard,0050 603,President,,Write-ins,,4Howard,0051 604,President,,Write-ins,,12Howard,0052 605,President,,Write-ins,,8Howard,0053 Center A,President,,Write-ins,,2Howard,0054 Center B,President,,Write-ins,,3Howard,0055 Center C,President,,Write-ins,,1Howard,0056 Clay A,President,,Write-ins,,9Howard,0057 Clay B,President,,Write-ins,,7Howard,0058 Clay C,President,,Write-ins,,19Howard,0059 Ervin A,President,,Write-ins,,2Howard,0060 Ervin B,President,,Write-ins,,10Howard,0061 Harrison A,President,,Write-ins,,12Howard,0062 Harrison B,President,,Write-ins,,11Howard,0063 Harrison C,President,,Write-ins,,7Howard,0064 Honey Creek A,President,,Write-ins,,4Howard,0065 Honey Creek B,President,,Write-ins,,8Howard,0066 Howard A,President,,Write-ins,,7Howard,0067 Howard B,President,,Write-ins,,10Howard,0068 Jackson,President,,Write-ins,,4Howard,0069 Liberty A,President,,Write-ins,,7Howard,0070 Liberty B,President,,Write-ins,,9Howard,0071 Liberty C,President,,Write-ins,,7Howard,0072 Liberty D,President,,Write-ins,,10Howard,0073 Monroe,President,,Write-ins,,14Howard,0074 Taylor A,President,,Write-ins,,8Howard,0075 Taylor B,President,,Write-ins,,6Howard,0076 Taylor C,President,,Write-ins,,4Howard,0077 Union,President,,Write-ins,,9Howard,,President,,Write-ins,,588Howard,0001 1 Clay 1,U.S. Senate,,Todd Young,REP,26Howard,0002 2 Clay 2,U.S. Senate,,Todd Young,REP,17Howard,0003 1 Howard 1,U.S. Senate,,Todd Young,REP,2Howard,0004 101,U.S. Senate,,Todd Young,REP,42Howard,0005 102,U.S. Senate,,Todd Young,REP,231Howard,0006 103,U.S. Senate,,Todd Young,REP,45Howard,0007 104,U.S. Senate,,Todd Young,REP,241Howard,0008 105,U.S. Senate,,Todd Young,REP,165Howard,0009 106,U.S. Senate,,Todd Young,REP,14Howard,0010 107,U.S. Senate,,Todd Young,REP,176Howard,0011 108,U.S. Senate,,Todd Young,REP,23Howard,0012 109,U.S. Senate,,Todd Young,REP,282Howard,0013 110,U.S. Senate,,Todd Young,REP,292Howard,0014 201,U.S. Senate,,Todd Young,REP,169Howard,0015 202,U.S. Senate,,Todd Young,REP,58Howard,0016 203,U.S. Senate,,Todd Young,REP,210Howard,0017 204,U.S. Senate,,Todd Young,REP,240Howard,0018 205,U.S. Senate,,Todd Young,REP,193Howard,0019 206,U.S. Senate,,Todd Young,REP,131Howard,0020 207,U.S. Senate,,Todd Young,REP,393Howard,0021 3 Harrison 1,U.S. Senate,,Todd Young,REP,35Howard,0022 3 Howard 1,U.S. Senate,,Todd Young,REP,19Howard,0023 3 Taylor 1,U.S. Senate,,Todd Young,REP,207Howard,0024 3 Taylor 2,U.S. Senate,,Todd Young,REP,84Howard,0025 3 Taylor 3,U.S. Senate,,Todd Young,REP,433Howard,0026 3 Taylor 4,U.S. Senate,,Todd Young,REP,361Howard,0027 301,U.S. Senate,,Todd Young,REP,68Howard,0028 302,U.S. Senate,,Todd Young,REP,72Howard,0029 303,U.S. Senate,,Todd Young,REP,80Howard,0030 304,U.S. Senate,,Todd Young,REP,211Howard,0031 305,U.S. Senate,,Todd Young,REP,178Howard,0032 306,U.S. Senate,,Todd Young,REP,8Howard,0033 4 Taylor 1,U.S. Senate,,Todd Young,REP,354Howard,0034 401,U.S. Senate,,Todd Young,REP,322Howard,0035 402,U.S. Senate,,Todd Young,REP,210Howard,0036 403,U.S. Senate,,Todd Young,REP,294Howard,0037 404,U.S. Senate,,Todd Young,REP,164Howard,0038 405,U.S. Senate,,Todd Young,REP,196Howard,0039 406,U.S. Senate,,Todd Young,REP,369Howard,0040 5 Harrison 1,U.S. Senate,,Todd Young,REP,287Howard,0041 5 Harrison 2,U.S. Senate,,Todd Young,REP,390Howard,0042 5 Taylor 1,U.S. Senate,,Todd Young,REP,395Howard,0043 501,U.S. Senate,,Todd Young,REP,466Howard,0044 502,U.S. Senate,,Todd Young,REP,374Howard,0045 503,U.S. Senate,,Todd Young,REP,368Howard,0046 6 Harrison 1,U.S. Senate,,Todd Young,REP,301Howard,0047 6 Harrison 2,U.S. Senate,,Todd Young,REP,610Howard,0048 601,U.S. Senate,,Todd Young,REP,451Howard,0049 602,U.S. Senate,,Todd Young,REP,317Howard,0050 603,U.S. Senate,,Todd Young,REP,438Howard,0051 604,U.S. Senate,,Todd Young,REP,494Howard,0052 605,U.S. Senate,,Todd Young,REP,349Howard,0053 Center A,U.S. Senate,,Todd Young,REP,102Howard,0054 Center B,U.S. Senate,,Todd Young,REP,13Howard,0055 Center C,U.S. Senate,,Todd Young,REP,50Howard,0056 Clay A,U.S. Senate,,Todd Young,REP,437Howard,0057 Clay B,U.S. Senate,,Todd Young,REP,410Howard,0058 Clay C,U.S. Senate,,Todd Young,REP,504Howard,0059 Ervin A,U.S. Senate,,Todd Young,REP,308Howard,0060 Ervin B,U.S. Senate,,Todd Young,REP,523Howard,0061 Harrison A,U.S. Senate,,Todd Young,REP,481Howard,0062 Harrison B,U.S. Senate,,Todd Young,REP,465Howard,0063 Harrison C,U.S. Senate,,Todd Young,REP,356Howard,0064 Honey Creek A,U.S. Senate,,Todd Young,REP,372Howard,0065 Honey Creek B,U.S. Senate,,Todd Young,REP,355Howard,0066 Howard A,U.S. Senate,,Todd Young,REP,343Howard,0067 Howard B,U.S. Senate,,Todd Young,REP,440Howard,0068 Jackson,U.S. Senate,,Todd Young,REP,178Howard,0069 Liberty A,U.S. Senate,,Todd Young,REP,433Howard,0070 Liberty B,U.S. Senate,,Todd Young,REP,268Howard,0071 Liberty C,U.S. Senate,,Todd Young,REP,552Howard,0072 Liberty D,U.S. Senate,,Todd Young,REP,464Howard,0073 Monroe,U.S. Senate,,Todd Young,REP,433Howard,0074 Taylor A,U.S. Senate,,Todd Young,REP,384Howard,0075 Taylor B,U.S. Senate,,Todd Young,REP,200Howard,0076 Taylor C,U.S. Senate,,Todd Young,REP,85Howard,0077 Union,U.S. Senate,,Todd Young,REP,397Howard,,U.S. Senate,,Todd Young,REP,20408Howard,0001 1 Clay 1,U.S. Senate,,Evan Bayh,DEM,15Howard,0002 2 Clay 2,U.S. Senate,,Evan Bayh,DEM,9Howard,0003 1 Howard 1,U.S. Senate,,Evan Bayh,DEM,0Howard,0004 101,U.S. Senate,,Evan Bayh,DEM,53Howard,0005 102,U.S. Senate,,Evan Bayh,DEM,205Howard,0006 103,U.S. Senate,,Evan Bayh,DEM,64Howard,0007 104,U.S. Senate,,Evan Bayh,DEM,256Howard,0008 105,U.S. Senate,,Evan Bayh,DEM,186Howard,0009 106,U.S. Senate,,Evan Bayh,DEM,12Howard,0010 107,U.S. Senate,,Evan Bayh,DEM,171Howard,0011 108,U.S. Senate,,Evan Bayh,DEM,30Howard,0012 109,U.S. Senate,,Evan Bayh,DEM,259Howard,0013 110,U.S. Senate,,Evan Bayh,DEM,276Howard,0014 201,U.S. Senate,,Evan Bayh,DEM,226Howard,0015 202,U.S. Senate,,Evan Bayh,DEM,287Howard,0016 203,U.S. Senate,,Evan Bayh,DEM,170Howard,0017 204,U.S. Senate,,Evan Bayh,DEM,233Howard,0018 205,U.S. Senate,,Evan Bayh,DEM,173Howard,0019 206,U.S. Senate,,Evan Bayh,DEM,179Howard,0020 207,U.S. Senate,,Evan Bayh,DEM,316Howard,0021 3 Harrison 1,U.S. Senate,,Evan Bayh,DEM,26Howard,0022 3 Howard 1,U.S. Senate,,Evan Bayh,DEM,11Howard,0023 3 Taylor 1,U.S. Senate,,Evan Bayh,DEM,132Howard,0024 3 Taylor 2,U.S. Senate,,Evan Bayh,DEM,31Howard,0025 3 Taylor 3,U.S. Senate,,Evan Bayh,DEM,286Howard,0026 3 Taylor 4,U.S. Senate,,Evan Bayh,DEM,322Howard,0027 301,U.S. Senate,,Evan Bayh,DEM,309Howard,0028 302,U.S. Senate,,Evan Bayh,DEM,94Howard,0029 303,U.S. Senate,,Evan Bayh,DEM,197Howard,0030 304,U.S. Senate,,Evan Bayh,DEM,206Howard,0031 305,U.S. Senate,,Evan Bayh,DEM,158Howard,0032 306,U.S. Senate,,Evan Bayh,DEM,5Howard,0033 4 Taylor 1,U.S. Senate,,Evan Bayh,DEM,241Howard,0034 401,U.S. Senate,,Evan Bayh,DEM,260Howard,0035 402,U.S. Senate,,Evan Bayh,DEM,227Howard,0036 403,U.S. Senate,,Evan Bayh,DEM,228Howard,0037 404,U.S. Senate,,Evan Bayh,DEM,169Howard,0038 405,U.S. Senate,,Evan Bayh,DEM,254Howard,0039 406,U.S. Senate,,Evan Bayh,DEM,330Howard,0040 5 Harrison 1,U.S. Senate,,Evan Bayh,DEM,290Howard,0041 5 Harrison 2,U.S. Senate,,Evan Bayh,DEM,254Howard,0042 5 Taylor 1,U.S. Senate,,Evan Bayh,DEM,270Howard,0043 501,U.S. Senate,,Evan Bayh,DEM,353Howard,0044 502,U.S. Senate,,Evan Bayh,DEM,339Howard,0045 503,U.S. Senate,,Evan Bayh,DEM,304Howard,0046 6 Harrison 1,U.S. Senate,,Evan Bayh,DEM,144Howard,0047 6 Harrison 2,U.S. Senate,,Evan Bayh,DEM,309Howard,0048 601,U.S. Senate,,Evan Bayh,DEM,272Howard,0049 602,U.S. Senate,,Evan Bayh,DEM,261Howard,0050 603,U.S. Senate,,Evan Bayh,DEM,315Howard,0051 604,U.S. Senate,,Evan Bayh,DEM,344Howard,0052 605,U.S. Senate,,Evan Bayh,DEM,313Howard,0053 Center A,U.S. Senate,,Evan Bayh,DEM,56Howard,0054 Center B,U.S. Senate,,Evan Bayh,DEM,13Howard,0055 Center C,U.S. Senate,,Evan Bayh,DEM,47Howard,0056 Clay A,U.S. Senate,,Evan Bayh,DEM,219Howard,0057 Clay B,U.S. Senate,,Evan Bayh,DEM,191Howard,0058 Clay C,U.S. Senate,,Evan Bayh,DEM,260Howard,0059 Ervin A,U.S. Senate,,Evan Bayh,DEM,105Howard,0060 Ervin B,U.S. Senate,,Evan Bayh,DEM,227Howard,0061 Harrison A,U.S. Senate,,Evan Bayh,DEM,201Howard,0062 Harrison B,U.S. Senate,,Evan Bayh,DEM,226Howard,0063 Harrison C,U.S. Senate,,Evan Bayh,DEM,194Howard,0064 Honey Creek A,U.S. Senate,,Evan Bayh,DEM,158Howard,0065 Honey Creek B,U.S. Senate,,Evan Bayh,DEM,163Howard,0066 Howard A,U.S. Senate,,Evan Bayh,DEM,151Howard,0067 Howard B,U.S. Senate,,Evan Bayh,DEM,233Howard,0068 Jackson,U.S. Senate,,Evan Bayh,DEM,75Howard,0069 Liberty A,U.S. Senate,,Evan Bayh,DEM,155Howard,0070 Liberty B,U.S. Senate,,Evan Bayh,DEM,128Howard,0071 Liberty C,U.S. Senate,,Evan Bayh,DEM,220Howard,0072 Liberty D,U.S. Senate,,Evan Bayh,DEM,195Howard,0073 Monroe,U.S. Senate,,Evan Bayh,DEM,241Howard,0074 Taylor A,U.S. Senate,,Evan Bayh,DEM,196Howard,0075 Taylor B,U.S. Senate,,Evan Bayh,DEM,115Howard,0076 Taylor C,U.S. Senate,,Evan Bayh,DEM,40Howard,0077 Union,U.S. Senate,,Evan Bayh,DEM,133Howard,,U.S. Senate,,Evan Bayh,DEM,14316Howard,0001 1 Clay 1,U.S. Senate,,Lucy Brenton,LBT,5Howard,0002 2 Clay 2,U.S. Senate,,Lucy Brenton,LBT,4Howard,0003 1 Howard 1,U.S. Senate,,Lucy Brenton,LBT,0Howard,0004 101,U.S. Senate,,Lucy Brenton,LBT,11Howard,0005 102,U.S. Senate,,Lucy Brenton,LBT,32Howard,0006 103,U.S. Senate,,Lucy Brenton,LBT,11Howard,0007 104,U.S. Senate,,Lucy Brenton,LBT,30Howard,0008 105,U.S. Senate,,Lucy Brenton,LBT,44Howard,0009 106,U.S. Senate,,Lucy Brenton,LBT,2Howard,0010 107,U.S. Senate,,Lucy Brenton,LBT,33Howard,0011 108,U.S. Senate,,Lucy Brenton,LBT,6Howard,0012 109,U.S. Senate,,Lucy Brenton,LBT,32Howard,0013 110,U.S. Senate,,Lucy Brenton,LBT,45Howard,0014 201,U.S. Senate,,Lucy Brenton,LBT,42Howard,0015 202,U.S. Senate,,Lucy Brenton,LBT,23Howard,0016 203,U.S. Senate,,Lucy Brenton,LBT,45Howard,0017 204,U.S. Senate,,Lucy Brenton,LBT,46Howard,0018 205,U.S. Senate,,Lucy Brenton,LBT,46Howard,0019 206,U.S. Senate,,Lucy Brenton,LBT,38Howard,0020 207,U.S. Senate,,Lucy Brenton,LBT,34Howard,0021 3 Harrison 1,U.S. Senate,,Lucy Brenton,LBT,8Howard,0022 3 Howard 1,U.S. Senate,,Lucy Brenton,LBT,0Howard,0023 3 Taylor 1,U.S. Senate,,Lucy Brenton,LBT,19Howard,0024 3 Taylor 2,U.S. Senate,,Lucy Brenton,LBT,11Howard,0025 3 Taylor 3,U.S. Senate,,Lucy Brenton,LBT,48Howard,0026 3 Taylor 4,U.S. Senate,,Lucy Brenton,LBT,64Howard,0027 301,U.S. Senate,,Lucy Brenton,LBT,18Howard,0028 302,U.S. Senate,,Lucy Brenton,LBT,9Howard,0029 303,U.S. Senate,,Lucy Brenton,LBT,23Howard,0030 304,U.S. Senate,,Lucy Brenton,LBT,34Howard,0031 305,U.S. Senate,,Lucy Brenton,LBT,23Howard,0032 306,U.S. Senate,,Lucy Brenton,LBT,1Howard,0033 4 Taylor 1,U.S. Senate,,Lucy Brenton,LBT,42Howard,0034 401,U.S. Senate,,Lucy Brenton,LBT,43Howard,0035 402,U.S. Senate,,Lucy Brenton,LBT,29Howard,0036 403,U.S. Senate,,Lucy Brenton,LBT,53Howard,0037 404,U.S. Senate,,Lucy Brenton,LBT,27Howard,0038 405,U.S. Senate,,Lucy Brenton,LBT,37Howard,0039 406,U.S. Senate,,Lucy Brenton,LBT,48Howard,0040 5 Harrison 1,U.S. Senate,,Lucy Brenton,LBT,49Howard,0041 5 Harrison 2,U.S. Senate,,Lucy Brenton,LBT,41Howard,0042 5 Taylor 1,U.S. Senate,,Lucy Brenton,LBT,39Howard,0043 501,U.S. Senate,,Lucy Brenton,LBT,47Howard,0044 502,U.S. Senate,,Lucy Brenton,LBT,46Howard,0045 503,U.S. Senate,,Lucy Brenton,LBT,43Howard,0046 6 Harrison 1,U.S. Senate,,Lucy Brenton,LBT,32Howard,0047 6 Harrison 2,U.S. Senate,,Lucy Brenton,LBT,28Howard,0048 601,U.S. Senate,,Lucy Brenton,LBT,42Howard,0049 602,U.S. Senate,,Lucy Brenton,LBT,27Howard,0050 603,U.S. Senate,,Lucy Brenton,LBT,30Howard,0051 604,U.S. Senate,,Lucy Brenton,LBT,50Howard,0052 605,U.S. Senate,,Lucy Brenton,LBT,46Howard,0053 Center A,U.S. Senate,,Lucy Brenton,LBT,7Howard,0054 Center B,U.S. Senate,,Lucy Brenton,LBT,0Howard,0055 Center C,U.S. Senate,,Lucy Brenton,LBT,1Howard,0056 Clay A,U.S. Senate,,Lucy Brenton,LBT,43Howard,0057 Clay B,U.S. Senate,,Lucy Brenton,LBT,30Howard,0058 Clay C,U.S. Senate,,Lucy Brenton,LBT,35Howard,0059 Ervin A,U.S. Senate,,Lucy Brenton,LBT,24Howard,0060 Ervin B,U.S. Senate,,Lucy Brenton,LBT,36Howard,0061 Harrison A,U.S. Senate,,Lucy Brenton,LBT,49Howard,0062 Harrison B,U.S. Senate,,Lucy Brenton,LBT,51Howard,0063 Harrison C,U.S. Senate,,Lucy Brenton,LBT,29Howard,0064 Honey Creek A,U.S. Senate,,Lucy Brenton,LBT,34Howard,0065 Honey Creek B,U.S. Senate,,Lucy Brenton,LBT,42Howard,0066 Howard A,U.S. Senate,,Lucy Brenton,LBT,38Howard,0067 Howard B,U.S. Senate,,Lucy Brenton,LBT,44Howard,0068 Jackson,U.S. Senate,,Lucy Brenton,LBT,27Howard,0069 Liberty A,U.S. Senate,,Lucy Brenton,LBT,25Howard,0070 Liberty B,U.S. Senate,,Lucy Brenton,LBT,26Howard,0071 Liberty C,U.S. Senate,,Lucy Brenton,LBT,50Howard,0072 Liberty D,U.S. Senate,,Lucy Brenton,LBT,41Howard,0073 Monroe,U.S. Senate,,Lucy Brenton,LBT,42Howard,0074 Taylor A,U.S. Senate,,Lucy Brenton,LBT,48Howard,0075 Taylor B,U.S. Senate,,Lucy Brenton,LBT,25Howard,0076 Taylor C,U.S. Senate,,Lucy Brenton,LBT,10Howard,0077 Union,U.S. Senate,,Lucy Brenton,LBT,34Howard,,U.S. Senate,,Lucy Brenton,LBT,2377Howard,0001 1 Clay 1,U.S. Senate,,Write-ins,,0Howard,0002 2 Clay 2,U.S. Senate,,Write-ins,,0Howard,0003 1 Howard 1,U.S. Senate,,Write-ins,,0Howard,0004 101,U.S. Senate,,Write-ins,,1Howard,0005 102,U.S. Senate,,Write-ins,,1Howard,0006 103,U.S. Senate,,Write-ins,,1Howard,0007 104,U.S. Senate,,Write-ins,,2Howard,0008 105,U.S. Senate,,Write-ins,,0Howard,0009 106,U.S. Senate,,Write-ins,,0Howard,0010 107,U.S. Senate,,Write-ins,,0Howard,0011 108,U.S. Senate,,Write-ins,,0Howard,0012 109,U.S. Senate,,Write-ins,,0Howard,0013 110,U.S. Senate,,Write-ins,,0Howard,0014 201,U.S. Senate,,Write-ins,,0Howard,0015 202,U.S. Senate,,Write-ins,,0Howard,0016 203,U.S. Senate,,Write-ins,,0Howard,0017 204,U.S. Senate,,Write-ins,,1Howard,0018 205,U.S. Senate,,Write-ins,,0Howard,0019 206,U.S. Senate,,Write-ins,,0Howard,0020 207,U.S. Senate,,Write-ins,,0Howard,0021 3 Harrison 1,U.S. Senate,,Write-ins,,0Howard,0022 3 Howard 1,U.S. Senate,,Write-ins,,0Howard,0023 3 Taylor 1,U.S. Senate,,Write-ins,,0Howard,0024 3 Taylor 2,U.S. Senate,,Write-ins,,0Howard,0025 3 Taylor 3,U.S. Senate,,Write-ins,,0Howard,0026 3 Taylor 4,U.S. Senate,,Write-ins,,1Howard,0027 301,U.S. Senate,,Write-ins,,0Howard,0028 302,U.S. Senate,,Write-ins,,0Howard,0029 303,U.S. Senate,,Write-ins,,1Howard,0030 304,U.S. Senate,,Write-ins,,0Howard,0031 305,U.S. Senate,,Write-ins,,0Howard,0032 306,U.S. Senate,,Write-ins,,0Howard,0033 4 Taylor 1,U.S. Senate,,Write-ins,,1Howard,0034 401,U.S. Senate,,Write-ins,,0Howard,0035 402,U.S. Senate,,Write-ins,,1Howard,0036 403,U.S. Senate,,Write-ins,,1Howard,0037 404,U.S. Senate,,Write-ins,,1Howard,0038 405,U.S. Senate,,Write-ins,,1Howard,0039 406,U.S. Senate,,Write-ins,,1Howard,0040 5 Harrison 1,U.S. Senate,,Write-ins,,0Howard,0041 5 Harrison 2,U.S. Senate,,Write-ins,,2Howard,0042 5 Taylor 1,U.S. Senate,,Write-ins,,0Howard,0043 501,U.S. Senate,,Write-ins,,2Howard,0044 502,U.S. Senate,,Write-ins,,2Howard,0045 503,U.S. Senate,,Write-ins,,0Howard,0046 6 Harrison 1,U.S. Senate,,Write-ins,,0Howard,0047 6 Harrison 2,U.S. Senate,,Write-ins,,0Howard,0048 601,U.S. Senate,,Write-ins,,1Howard,0049 602,U.S. Senate,,Write-ins,,1Howard,0050 603,U.S. Senate,,Write-ins,,0Howard,0051 604,U.S. Senate,,Write-ins,,0Howard,0052 605,U.S. Senate,,Write-ins,,0Howard,0053 Center A,U.S. Senate,,Write-ins,,0Howard,0054 Center B,U.S. Senate,,Write-ins,,0Howard,0055 Center C,U.S. Senate,,Write-ins,,0Howard,0056 Clay A,U.S. Senate,,Write-ins,,0Howard,0057 Clay B,U.S. Senate,,Write-ins,,0Howard,0058 Clay C,U.S. Senate,,Write-ins,,0Howard,0059 Ervin A,U.S. Senate,,Write-ins,,0Howard,0060 Ervin B,U.S. Senate,,Write-ins,,0Howard,0061 Harrison A,U.S. Senate,,Write-ins,,2Howard,0062 Harrison B,U.S. Senate,,Write-ins,,0Howard,0063 Harrison C,U.S. Senate,,Write-ins,,0Howard,0064 Honey Creek A,U.S. Senate,,Write-ins,,0Howard,0065 Honey Creek B,U.S. Senate,,Write-ins,,1Howard,0066 Howard A,U.S. Senate,,Write-ins,,0Howard,0067 Howard B,U.S. Senate,,Write-ins,,1Howard,0068 Jackson,U.S. Senate,,Write-ins,,0Howard,0069 Liberty A,U.S. Senate,,Write-ins,,0Howard,0070 Liberty B,U.S. Senate,,Write-ins,,1Howard,0071 Liberty C,U.S. Senate,,Write-ins,,0Howard,0072 Liberty D,U.S. Senate,,Write-ins,,1Howard,0073 Monroe,U.S. Senate,,Write-ins,,1Howard,0074 Taylor A,U.S. Senate,,Write-ins,,0Howard,0075 Taylor B,U.S. Senate,,Write-ins,,0Howard,0076 Taylor C,U.S. Senate,,Write-ins,,0Howard,0077 Union,U.S. Senate,,Write-ins,,2Howard,,U.S. Senate,,Write-ins,,31Howard,0001 1 Clay 1,Governor,,Eric Holcomb,REP,22Howard,0002 2 Clay 2,Governor,,Eric Holcomb,REP,15Howard,0003 1 Howard 1,Governor,,Eric Holcomb,REP,2Howard,0004 101,Governor,,Eric Holcomb,REP,40Howard,0005 102,Governor,,Eric Holcomb,REP,223Howard,0006 103,Governor,,Eric Holcomb,REP,50Howard,0007 104,Governor,,Eric Holcomb,REP,228Howard,0008 105,Governor,,Eric Holcomb,REP,157Howard,0009 106,Governor,,Eric Holcomb,REP,13Howard,0010 107,Governor,,Eric Holcomb,REP,176Howard,0011 108,Governor,,Eric Holcomb,REP,30Howard,0012 109,Governor,,Eric Holcomb,REP,264Howard,0013 110,Governor,,Eric Holcomb,REP,289Howard,0014 201,Governor,,Eric Holcomb,REP,176Howard,0015 202,Governor,,Eric Holcomb,REP,55Howard,0016 203,Governor,,Eric Holcomb,REP,211Howard,0017 204,Governor,,Eric Holcomb,REP,242Howard,0018 205,Governor,,Eric Holcomb,REP,197Howard,0019 206,Governor,,Eric Holcomb,REP,137Howard,0020 207,Governor,,Eric Holcomb,REP,376Howard,0021 3 Harrison 1,Governor,,Eric Holcomb,REP,32Howard,0022 3 Howard 1,Governor,,Eric Holcomb,REP,20Howard,0023 3 Taylor 1,Governor,,Eric Holcomb,REP,204Howard,0024 3 Taylor 2,Governor,,Eric Holcomb,REP,77Howard,0025 3 Taylor 3,Governor,,Eric Holcomb,REP,440Howard,0026 3 Taylor 4,Governor,,Eric Holcomb,REP,375Howard,0027 301,Governor,,Eric Holcomb,REP,70Howard,0028 302,Governor,,Eric Holcomb,REP,76Howard,0029 303,Governor,,Eric Holcomb,REP,77Howard,0030 304,Governor,,Eric Holcomb,REP,212Howard,0031 305,Governor,,Eric Holcomb,REP,173Howard,0032 306,Governor,,Eric Holcomb,REP,8Howard,0033 4 Taylor 1,Governor,,Eric Holcomb,REP,340Howard,0034 401,Governor,,Eric Holcomb,REP,315Howard,0035 402,Governor,,Eric Holcomb,REP,201Howard,0036 403,Governor,,Eric Holcomb,REP,282Howard,0037 404,Governor,,Eric Holcomb,REP,166Howard,0038 405,Governor,,Eric Holcomb,REP,202Howard,0039 406,Governor,,Eric Holcomb,REP,354Howard,0040 5 Harrison 1,Governor,,Eric Holcomb,REP,276Howard,0041 5 Harrison 2,Governor,,Eric Holcomb,REP,391Howard,0042 5 Taylor 1,Governor,,Eric Holcomb,REP,385Howard,0043 501,Governor,,Eric Holcomb,REP,452Howard,0044 502,Governor,,Eric Holcomb,REP,369Howard,0045 503,Governor,,Eric Holcomb,REP,370Howard,0046 6 Harrison 1,Governor,,Eric Holcomb,REP,286Howard,0047 6 Harrison 2,Governor,,Eric Holcomb,REP,595Howard,0048 601,Governor,,Eric Holcomb,REP,469Howard,0049 602,Governor,,Eric Holcomb,REP,301Howard,0050 603,Governor,,Eric Holcomb,REP,441Howard,0051 604,Governor,,Eric Holcomb,REP,473Howard,0052 605,Governor,,Eric Holcomb,REP,357Howard,0053 Center A,Governor,,Eric Holcomb,REP,102Howard,0054 Center B,Governor,,Eric Holcomb,REP,12Howard,0055 Center C,Governor,,Eric Holcomb,REP,41Howard,0056 Clay A,Governor,,Eric Holcomb,REP,422Howard,0057 Clay B,Governor,,Eric Holcomb,REP,376Howard,0058 Clay C,Governor,,Eric Holcomb,REP,473Howard,0059 Ervin A,Governor,,Eric Holcomb,REP,288Howard,0060 Ervin B,Governor,,Eric Holcomb,REP,511Howard,0061 Harrison A,Governor,,Eric Holcomb,REP,468Howard,0062 Harrison B,Governor,,Eric Holcomb,REP,442Howard,0063 Harrison C,Governor,,Eric Holcomb,REP,360Howard,0064 Honey Creek A,Governor,,Eric Holcomb,REP,334Howard,0065 Honey Creek B,Governor,,Eric Holcomb,REP,343Howard,0066 Howard A,Governor,,Eric Holcomb,REP,336Howard,0067 Howard B,Governor,,Eric Holcomb,REP,429Howard,0068 Jackson,Governor,,Eric Holcomb,REP,172Howard,0069 Liberty A,Governor,,Eric Holcomb,REP,416Howard,0070 Liberty B,Governor,,Eric Holcomb,REP,254Howard,0071 Liberty C,Governor,,Eric Holcomb,REP,526Howard,0072 Liberty D,Governor,,Eric Holcomb,REP,446Howard,0073 Monroe,Governor,,Eric Holcomb,REP,424Howard,0074 Taylor A,Governor,,Eric Holcomb,REP,373Howard,0075 Taylor B,Governor,,Eric Holcomb,REP,189Howard,0076 Taylor C,Governor,,Eric Holcomb,REP,85Howard,0077 Union,Governor,,Eric Holcomb,REP,389Howard,,Governor,,Eric Holcomb,REP,19903Howard,0001 1 Clay 1,Governor,,John Gregg,DEM,22Howard,0002 2 Clay 2,Governor,,John Gregg,DEM,12Howard,0003 1 Howard 1,Governor,,John Gregg,DEM,0Howard,0004 101,Governor,,John Gregg,DEM,60Howard,0005 102,Governor,,John Gregg,DEM,230Howard,0006 103,Governor,,John Gregg,DEM,64Howard,0007 104,Governor,,John Gregg,DEM,279Howard,0008 105,Governor,,John Gregg,DEM,215Howard,0009 106,Governor,,John Gregg,DEM,15Howard,0010 107,Governor,,John Gregg,DEM,192Howard,0011 108,Governor,,John Gregg,DEM,27Howard,0012 109,Governor,,John Gregg,DEM,290Howard,0013 110,Governor,,John Gregg,DEM,297Howard,0014 201,Governor,,John Gregg,DEM,235Howard,0015 202,Governor,,John Gregg,DEM,297Howard,0016 203,Governor,,John Gregg,DEM,194Howard,0017 204,Governor,,John Gregg,DEM,255Howard,0018 205,Governor,,John Gregg,DEM,196Howard,0019 206,Governor,,John Gregg,DEM,182Howard,0020 207,Governor,,John Gregg,DEM,338Howard,0021 3 Harrison 1,Governor,,John Gregg,DEM,33Howard,0022 3 Howard 1,Governor,,John Gregg,DEM,9Howard,0023 3 Taylor 1,Governor,,John Gregg,DEM,148Howard,0024 3 Taylor 2,Governor,,John Gregg,DEM,41Howard,0025 3 Taylor 3,Governor,,John Gregg,DEM,306Howard,0026 3 Taylor 4,Governor,,John Gregg,DEM,330Howard,0027 301,Governor,,John Gregg,DEM,312Howard,0028 302,Governor,,John Gregg,DEM,93Howard,0029 303,Governor,,John Gregg,DEM,206Howard,0030 304,Governor,,John Gregg,DEM,221Howard,0031 305,Governor,,John Gregg,DEM,174Howard,0032 306,Governor,,John Gregg,DEM,5Howard,0033 4 Taylor 1,Governor,,John Gregg,DEM,280Howard,0034 401,Governor,,John Gregg,DEM,282Howard,0035 402,Governor,,John Gregg,DEM,235Howard,0036 403,Governor,,John Gregg,DEM,250Howard,0037 404,Governor,,John Gregg,DEM,179Howard,0038 405,Governor,,John Gregg,DEM,267Howard,0039 406,Governor,,John Gregg,DEM,364Howard,0040 5 Harrison 1,Governor,,John Gregg,DEM,317Howard,0041 5 Harrison 2,Governor,,John Gregg,DEM,279Howard,0042 5 Taylor 1,Governor,,John Gregg,DEM,301Howard,0043 501,Governor,,John Gregg,DEM,386Howard,0044 502,Governor,,John Gregg,DEM,372Howard,0045 503,Governor,,John Gregg,DEM,326Howard,0046 6 Harrison 1,Governor,,John Gregg,DEM,163Howard,0047 6 Harrison 2,Governor,,John Gregg,DEM,330Howard,0048 601,Governor,,John Gregg,DEM,276Howard,0049 602,Governor,,John Gregg,DEM,286Howard,0050 603,Governor,,John Gregg,DEM,325Howard,0051 604,Governor,,John Gregg,DEM,382Howard,0052 605,Governor,,John Gregg,DEM,321Howard,0053 Center A,Governor,,John Gregg,DEM,62Howard,0054 Center B,Governor,,John Gregg,DEM,13Howard,0055 Center C,Governor,,John Gregg,DEM,54Howard,0056 Clay A,Governor,,John Gregg,DEM,261Howard,0057 Clay B,Governor,,John Gregg,DEM,239Howard,0058 Clay C,Governor,,John Gregg,DEM,307Howard,0059 Ervin A,Governor,,John Gregg,DEM,128Howard,0060 Ervin B,Governor,,John Gregg,DEM,256Howard,0061 Harrison A,Governor,,John Gregg,DEM,229Howard,0062 Harrison B,Governor,,John Gregg,DEM,272Howard,0063 Harrison C,Governor,,John Gregg,DEM,201Howard,0064 Honey Creek A,Governor,,John Gregg,DEM,214Howard,0065 Honey Creek B,Governor,,John Gregg,DEM,194Howard,0066 Howard A,Governor,,John Gregg,DEM,179Howard,0067 Howard B,Governor,,John Gregg,DEM,254Howard,0068 Jackson,Governor,,John Gregg,DEM,101Howard,0069 Liberty A,Governor,,John Gregg,DEM,180Howard,0070 Liberty B,Governor,,John Gregg,DEM,150Howard,0071 Liberty C,Governor,,John Gregg,DEM,262Howard,0072 Liberty D,Governor,,John Gregg,DEM,224Howard,0073 Monroe,Governor,,John Gregg,DEM,273Howard,0074 Taylor A,Governor,,John Gregg,DEM,227Howard,0075 Taylor B,Governor,,John Gregg,DEM,136Howard,0076 Taylor C,Governor,,John Gregg,DEM,44Howard,0077 Union,Governor,,John Gregg,DEM,155Howard,,Governor,,John Gregg,DEM,15814Howard,0001 1 Clay 1,Governor,,Rex Bell,LBT,1Howard,0002 2 Clay 2,Governor,,Rex Bell,LBT,2Howard,0003 1 Howard 1,Governor,,Rex Bell,LBT,0Howard,0004 101,Governor,,Rex Bell,LBT,7Howard,0005 102,Governor,,Rex Bell,LBT,15Howard,0006 103,Governor,,Rex Bell,LBT,10Howard,0007 104,Governor,,Rex Bell,LBT,21Howard,0008 105,Governor,,Rex Bell,LBT,25Howard,0009 106,Governor,,Rex Bell,LBT,0Howard,0010 107,Governor,,Rex Bell,LBT,13Howard,0011 108,Governor,,Rex Bell,LBT,3Howard,0012 109,Governor,,Rex Bell,LBT,16Howard,0013 110,Governor,,Rex Bell,LBT,24Howard,0014 201,Governor,,Rex Bell,LBT,22Howard,0015 202,Governor,,Rex Bell,LBT,15Howard,0016 203,Governor,,Rex Bell,LBT,19Howard,0017 204,Governor,,Rex Bell,LBT,23Howard,0018 205,Governor,,Rex Bell,LBT,18Howard,0019 206,Governor,,Rex Bell,LBT,24Howard,0020 207,Governor,,Rex Bell,LBT,23Howard,0021 3 Harrison 1,Governor,,Rex Bell,LBT,4Howard,0022 3 Howard 1,Governor,,Rex Bell,LBT,0Howard,0023 3 Taylor 1,Governor,,Rex Bell,LBT,5Howard,0024 3 Taylor 2,Governor,,Rex Bell,LBT,7Howard,0025 3 Taylor 3,Governor,,Rex Bell,LBT,21Howard,0026 3 Taylor 4,Governor,,Rex Bell,LBT,35Howard,0027 301,Governor,,Rex Bell,LBT,12Howard,0028 302,Governor,,Rex Bell,LBT,6Howard,0029 303,Governor,,Rex Bell,LBT,14Howard,0030 304,Governor,,Rex Bell,LBT,16Howard,0031 305,Governor,,Rex Bell,LBT,12Howard,0032 306,Governor,,Rex Bell,LBT,0Howard,0033 4 Taylor 1,Governor,,Rex Bell,LBT,16Howard,0034 401,Governor,,Rex Bell,LBT,24Howard,0035 402,Governor,,Rex Bell,LBT,28Howard,0036 403,Governor,,Rex Bell,LBT,31Howard,0037 404,Governor,,Rex Bell,LBT,15Howard,0038 405,Governor,,Rex Bell,LBT,19Howard,0039 406,Governor,,Rex Bell,LBT,24Howard,0040 5 Harrison 1,Governor,,Rex Bell,LBT,27Howard,0041 5 Harrison 2,Governor,,Rex Bell,LBT,17Howard,0042 5 Taylor 1,Governor,,Rex Bell,LBT,21Howard,0043 501,Governor,,Rex Bell,LBT,31Howard,0044 502,Governor,,Rex Bell,LBT,20Howard,0045 503,Governor,,Rex Bell,LBT,19Howard,0046 6 Harrison 1,Governor,,Rex Bell,LBT,22Howard,0047 6 Harrison 2,Governor,,Rex Bell,LBT,19Howard,0048 601,Governor,,Rex Bell,LBT,18Howard,0049 602,Governor,,Rex Bell,LBT,20Howard,0050 603,Governor,,Rex Bell,LBT,16Howard,0051 604,Governor,,Rex Bell,LBT,30Howard,0052 605,Governor,,Rex Bell,LBT,33Howard,0053 Center A,Governor,,Rex Bell,LBT,1Howard,0054 Center B,Governor,,Rex Bell,LBT,0Howard,0055 Center C,Governor,,Rex Bell,LBT,4Howard,0056 Clay A,Governor,,Rex Bell,LBT,17Howard,0057 Clay B,Governor,,Rex Bell,LBT,17Howard,0058 Clay C,Governor,,Rex Bell,LBT,18Howard,0059 Ervin A,Governor,,Rex Bell,LBT,18Howard,0060 Ervin B,Governor,,Rex Bell,LBT,20Howard,0061 Harrison A,Governor,,Rex Bell,LBT,32Howard,0062 Harrison B,Governor,,Rex Bell,LBT,22Howard,0063 Harrison C,Governor,,Rex Bell,LBT,16Howard,0064 Honey Creek A,Governor,,Rex Bell,LBT,15Howard,0065 Honey Creek B,Governor,,Rex Bell,LBT,24Howard,0066 Howard A,Governor,,Rex Bell,LBT,14Howard,0067 Howard B,Governor,,Rex Bell,LBT,30Howard,0068 Jackson,Governor,,Rex Bell,LBT,8Howard,0069 Liberty A,Governor,,Rex Bell,LBT,19Howard,0070 Liberty B,Governor,,Rex Bell,LBT,15Howard,0071 Liberty C,Governor,,Rex Bell,LBT,24Howard,0072 Liberty D,Governor,,Rex Bell,LBT,26Howard,0073 Monroe,Governor,,Rex Bell,LBT,22Howard,0074 Taylor A,Governor,,Rex Bell,LBT,29Howard,0075 Taylor B,Governor,,Rex Bell,LBT,13Howard,0076 Taylor C,Governor,,Rex Bell,LBT,6Howard,0077 Union,Governor,,Rex Bell,LBT,18Howard,,Governor,,Rex Bell,LBT,1291Howard,0001 1 Clay 1,Attorney General,,Curtis Hill,REP,31Howard,0002 2 Clay 2,Attorney General,,Curtis Hill,REP,24Howard,0003 1 Howard 1,Attorney General,,Curtis Hill,REP,2Howard,0004 101,Attorney General,,Curtis Hill,REP,50Howard,0005 102,Attorney General,,Curtis Hill,REP,272Howard,0006 103,Attorney General,,Curtis Hill,REP,66Howard,0007 104,Attorney General,,Curtis Hill,REP,300Howard,0008 105,Attorney General,,Curtis Hill,REP,201Howard,0009 106,Attorney General,,Curtis Hill,REP,19Howard,0010 107,Attorney General,,Curtis Hill,REP,216Howard,0011 108,Attorney General,,Curtis Hill,REP,35Howard,0012 109,Attorney General,,Curtis Hill,REP,344Howard,0013 110,Attorney General,,Curtis Hill,REP,353Howard,0014 201,Attorney General,,Curtis Hill,REP,213Howard,0015 202,Attorney General,,Curtis Hill,REP,74Howard,0016 203,Attorney General,,Curtis Hill,REP,242Howard,0017 204,Attorney General,,Curtis Hill,REP,290Howard,0018 205,Attorney General,,Curtis Hill,REP,242Howard,0019 206,Attorney General,,Curtis Hill,REP,155Howard,0020 207,Attorney General,,Curtis Hill,REP,462Howard,0021 3 Harrison 1,Attorney General,,Curtis Hill,REP,46Howard,0022 3 Howard 1,Attorney General,,Curtis Hill,REP,23Howard,0023 3 Taylor 1,Attorney General,,Curtis Hill,REP,248Howard,0024 3 Taylor 2,Attorney General,,Curtis Hill,REP,93Howard,0025 3 Taylor 3,Attorney General,,Curtis Hill,REP,510Howard,0026 3 Taylor 4,Attorney General,,Curtis Hill,REP,450Howard,0027 301,Attorney General,,Curtis Hill,REP,103Howard,0028 302,Attorney General,,Curtis Hill,REP,89Howard,0029 303,Attorney General,,Curtis Hill,REP,103Howard,0030 304,Attorney General,,Curtis Hill,REP,250Howard,0031 305,Attorney General,,Curtis Hill,REP,205Howard,0032 306,Attorney General,,Curtis Hill,REP,9Howard,0033 4 Taylor 1,Attorney General,,Curtis Hill,REP,431Howard,0034 401,Attorney General,,Curtis Hill,REP,362Howard,0035 402,Attorney General,,Curtis Hill,REP,261Howard,0036 403,Attorney General,,Curtis Hill,REP,331Howard,0037 404,Attorney General,,Curtis Hill,REP,201Howard,0038 405,Attorney General,,Curtis Hill,REP,260Howard,0039 406,Attorney General,,Curtis Hill,REP,455Howard,0040 5 Harrison 1,Attorney General,,Curtis Hill,REP,333Howard,0041 5 Harrison 2,Attorney General,,Curtis Hill,REP,470Howard,0042 5 Taylor 1,Attorney General,,Curtis Hill,REP,469Howard,0043 501,Attorney General,,Curtis Hill,REP,550Howard,0044 502,Attorney General,,Curtis Hill,REP,454Howard,0045 503,Attorney General,,Curtis Hill,REP,433Howard,0046 6 Harrison 1,Attorney General,,Curtis Hill,REP,337Howard,0047 6 Harrison 2,Attorney General,,Curtis Hill,REP,686Howard,0048 601,Attorney General,,Curtis Hill,REP,540Howard,0049 602,Attorney General,,Curtis Hill,REP,362Howard,0050 603,Attorney General,,Curtis Hill,REP,511Howard,0051 604,Attorney General,,Curtis Hill,REP,582Howard,0052 605,Attorney General,,Curtis Hill,REP,436Howard,0053 Center A,Attorney General,,Curtis Hill,REP,120Howard,0054 Center B,Attorney General,,Curtis Hill,REP,18Howard,0055 Center C,Attorney General,,Curtis Hill,REP,57Howard,0056 Clay A,Attorney General,,Curtis Hill,REP,518Howard,0057 Clay B,Attorney General,,Curtis Hill,REP,463Howard,0058 Clay C,Attorney General,,Curtis Hill,REP,582Howard,0059 Ervin A,Attorney General,,Curtis Hill,REP,349Howard,0060 Ervin B,Attorney General,,Curtis Hill,REP,594Howard,0061 Harrison A,Attorney General,,Curtis Hill,REP,557Howard,0062 Harrison B,Attorney General,,Curtis Hill,REP,548Howard,0063 Harrison C,Attorney General,,Curtis Hill,REP,426Howard,0064 Honey Creek A,Attorney General,,Curtis Hill,REP,428Howard,0065 Honey Creek B,Attorney General,,Curtis Hill,REP,425Howard,0066 Howard A,Attorney General,,Curtis Hill,REP,393Howard,0067 Howard B,Attorney General,,Curtis Hill,REP,512Howard,0068 Jackson,Attorney General,,Curtis Hill,REP,214Howard,0069 Liberty A,Attorney General,,Curtis Hill,REP,476Howard,0070 Liberty B,Attorney General,,Curtis Hill,REP,305Howard,0071 Liberty C,Attorney General,,Curtis Hill,REP,634Howard,0072 Liberty D,Attorney General,,Curtis Hill,REP,536Howard,0073 Monroe,Attorney General,,Curtis Hill,REP,520Howard,0074 Taylor A,Attorney General,,Curtis Hill,REP,463Howard,0075 Taylor B,Attorney General,,Curtis Hill,REP,229Howard,0076 Taylor C,Attorney General,,Curtis Hill,REP,105Howard,0077 Union,Attorney General,,Curtis Hill,REP,453Howard,,Attorney General,,Curtis Hill,REP,24109Howard,0001 1 Clay 1,Attorney General,,Lorenzo Arredondo,DEM,13Howard,0002 2 Clay 2,Attorney General,,Lorenzo Arredondo,DEM,6Howard,0003 1 Howard 1,Attorney General,,Lorenzo Arredondo,DEM,0Howard,0004 101,Attorney General,,Lorenzo Arredondo,DEM,54Howard,0005 102,Attorney General,,Lorenzo Arredondo,DEM,181Howard,0006 103,Attorney General,,Lorenzo Arredondo,DEM,54Howard,0007 104,Attorney General,,Lorenzo Arredondo,DEM,210Howard,0008 105,Attorney General,,Lorenzo Arredondo,DEM,180Howard,0009 106,Attorney General,,Lorenzo Arredondo,DEM,9Howard,0010 107,Attorney General,,Lorenzo Arredondo,DEM,156Howard,0011 108,Attorney General,,Lorenzo Arredondo,DEM,25Howard,0012 109,Attorney General,,Lorenzo Arredondo,DEM,208Howard,0013 110,Attorney General,,Lorenzo Arredondo,DEM,240Howard,0014 201,Attorney General,,Lorenzo Arredondo,DEM,203Howard,0015 202,Attorney General,,Lorenzo Arredondo,DEM,285Howard,0016 203,Attorney General,,Lorenzo Arredondo,DEM,167Howard,0017 204,Attorney General,,Lorenzo Arredondo,DEM,209Howard,0018 205,Attorney General,,Lorenzo Arredondo,DEM,159Howard,0019 206,Attorney General,,Lorenzo Arredondo,DEM,171Howard,0020 207,Attorney General,,Lorenzo Arredondo,DEM,260Howard,0021 3 Harrison 1,Attorney General,,Lorenzo Arredondo,DEM,19Howard,0022 3 Howard 1,Attorney General,,Lorenzo Arredondo,DEM,5Howard,0023 3 Taylor 1,Attorney General,,Lorenzo Arredondo,DEM,99Howard,0024 3 Taylor 2,Attorney General,,Lorenzo Arredondo,DEM,33Howard,0025 3 Taylor 3,Attorney General,,Lorenzo Arredondo,DEM,241Howard,0026 3 Taylor 4,Attorney General,,Lorenzo Arredondo,DEM,272Howard,0027 301,Attorney General,,Lorenzo Arredondo,DEM,286Howard,0028 302,Attorney General,,Lorenzo Arredondo,DEM,82Howard,0029 303,Attorney General,,Lorenzo Arredondo,DEM,191Howard,0030 304,Attorney General,,Lorenzo Arredondo,DEM,183Howard,0031 305,Attorney General,,Lorenzo Arredondo,DEM,146Howard,0032 306,Attorney General,,Lorenzo Arredondo,DEM,4Howard,0033 4 Taylor 1,Attorney General,,Lorenzo Arredondo,DEM,192Howard,0034 401,Attorney General,,Lorenzo Arredondo,DEM,243Howard,0035 402,Attorney General,,Lorenzo Arredondo,DEM,192Howard,0036 403,Attorney General,,Lorenzo Arredondo,DEM,220Howard,0037 404,Attorney General,,Lorenzo Arredondo,DEM,147Howard,0038 405,Attorney General,,Lorenzo Arredondo,DEM,217Howard,0039 406,Attorney General,,Lorenzo Arredondo,DEM,263Howard,0040 5 Harrison 1,Attorney General,,Lorenzo Arredondo,DEM,272Howard,0041 5 Harrison 2,Attorney General,,Lorenzo Arredondo,DEM,199Howard,0042 5 Taylor 1,Attorney General,,Lorenzo Arredondo,DEM,212Howard,0043 501,Attorney General,,Lorenzo Arredondo,DEM,284Howard,0044 502,Attorney General,,Lorenzo Arredondo,DEM,281Howard,0045 503,Attorney General,,Lorenzo Arredondo,DEM,265Howard,0046 6 Harrison 1,Attorney General,,Lorenzo Arredondo,DEM,117Howard,0047 6 Harrison 2,Attorney General,,Lorenzo Arredondo,DEM,222Howard,0048 601,Attorney General,,Lorenzo Arredondo,DEM,198Howard,0049 602,Attorney General,,Lorenzo Arredondo,DEM,224Howard,0050 603,Attorney General,,Lorenzo Arredondo,DEM,251Howard,0051 604,Attorney General,,Lorenzo Arredondo,DEM,288Howard,0052 605,Attorney General,,Lorenzo Arredondo,DEM,256Howard,0053 Center A,Attorney General,,Lorenzo Arredondo,DEM,35Howard,0054 Center B,Attorney General,,Lorenzo Arredondo,DEM,7Howard,0055 Center C,Attorney General,,Lorenzo Arredondo,DEM,41Howard,0056 Clay A,Attorney General,,Lorenzo Arredondo,DEM,159Howard,0057 Clay B,Attorney General,,Lorenzo Arredondo,DEM,150Howard,0058 Clay C,Attorney General,,Lorenzo Arredondo,DEM,192Howard,0059 Ervin A,Attorney General,,Lorenzo Arredondo,DEM,77Howard,0060 Ervin B,Attorney General,,Lorenzo Arredondo,DEM,173Howard,0061 Harrison A,Attorney General,,Lorenzo Arredondo,DEM,151Howard,0062 Harrison B,Attorney General,,Lorenzo Arredondo,DEM,165Howard,0063 Harrison C,Attorney General,,Lorenzo Arredondo,DEM,130Howard,0064 Honey Creek A,Attorney General,,Lorenzo Arredondo,DEM,114Howard,0065 Honey Creek B,Attorney General,,Lorenzo Arredondo,DEM,125Howard,0066 Howard A,Attorney General,,Lorenzo Arredondo,DEM,120Howard,0067 Howard B,Attorney General,,Lorenzo Arredondo,DEM,178Howard,0068 Jackson,Attorney General,,Lorenzo Arredondo,DEM,56Howard,0069 Liberty A,Attorney General,,Lorenzo Arredondo,DEM,109Howard,0070 Liberty B,Attorney General,,Lorenzo Arredondo,DEM,106Howard,0071 Liberty C,Attorney General,,Lorenzo Arredondo,DEM,159Howard,0072 Liberty D,Attorney General,,Lorenzo Arredondo,DEM,140Howard,0073 Monroe,Attorney General,,Lorenzo Arredondo,DEM,181Howard,0074 Taylor A,Attorney General,,Lorenzo Arredondo,DEM,149Howard,0075 Taylor B,Attorney General,,Lorenzo Arredondo,DEM,100Howard,0076 Taylor C,Attorney General,,Lorenzo Arredondo,DEM,28Howard,0077 Union,Attorney General,,Lorenzo Arredondo,DEM,98Howard,,Attorney General,,Lorenzo Arredondo,DEM,11837Howard,0001 1 Clay 1,Public Instruction,,Jennifer McCormick,REP,22Howard,0002 2 Clay 2,Public Instruction,,Jennifer McCormick,REP,17Howard,0003 1 Howard 1,Public Instruction,,Jennifer McCormick,REP,2Howard,0004 101,Public Instruction,,Jennifer McCormick,REP,53Howard,0005 102,Public Instruction,,Jennifer McCormick,REP,223Howard,0006 103,Public Instruction,,Jennifer McCormick,REP,52Howard,0007 104,Public Instruction,,Jennifer McCormick,REP,248Howard,0008 105,Public Instruction,,Jennifer McCormick,REP,173Howard,0009 106,Public Instruction,,Jennifer McCormick,REP,15Howard,0010 107,Public Instruction,,Jennifer McCormick,REP,177Howard,0011 108,Public Instruction,,Jennifer McCormick,REP,26Howard,0012 109,Public Instruction,,Jennifer McCormick,REP,265Howard,0013 110,Public Instruction,,Jennifer McCormick,REP,296Howard,0014 201,Public Instruction,,Jennifer McCormick,REP,176Howard,0015 202,Public Instruction,,Jennifer McCormick,REP,69Howard,0016 203,Public Instruction,,Jennifer McCormick,REP,220Howard,0017 204,Public Instruction,,Jennifer McCormick,REP,232Howard,0018 205,Public Instruction,,Jennifer McCormick,REP,220Howard,0019 206,Public Instruction,,Jennifer McCormick,REP,141Howard,0020 207,Public Instruction,,Jennifer McCormick,REP,347Howard,0021 3 Harrison 1,Public Instruction,,Jennifer McCormick,REP,33Howard,0022 3 Howard 1,Public Instruction,,Jennifer McCormick,REP,19Howard,0023 3 Taylor 1,Public Instruction,,Jennifer McCormick,REP,193Howard,0024 3 Taylor 2,Public Instruction,,Jennifer McCormick,REP,82Howard,0025 3 Taylor 3,Public Instruction,,Jennifer McCormick,REP,441Howard,0026 3 Taylor 4,Public Instruction,,Jennifer McCormick,REP,377Howard,0027 301,Public Instruction,,Jennifer McCormick,REP,78Howard,0028 302,Public Instruction,,Jennifer McCormick,REP,68Howard,0029 303,Public Instruction,,Jennifer McCormick,REP,80Howard,0030 304,Public Instruction,,Jennifer McCormick,REP,204Howard,0031 305,Public Instruction,,Jennifer McCormick,REP,186Howard,0032 306,Public Instruction,,Jennifer McCormick,REP,8Howard,0033 4 Taylor 1,Public Instruction,,Jennifer McCormick,REP,338Howard,0034 401,Public Instruction,,Jennifer McCormick,REP,317Howard,0035 402,Public Instruction,,Jennifer McCormick,REP,219Howard,0036 403,Public Instruction,,Jennifer McCormick,REP,284Howard,0037 404,Public Instruction,,Jennifer McCormick,REP,163Howard,0038 405,Public Instruction,,Jennifer McCormick,REP,207Howard,0039 406,Public Instruction,,Jennifer McCormick,REP,358Howard,0040 5 Harrison 1,Public Instruction,,Jennifer McCormick,REP,295Howard,0041 5 Harrison 2,Public Instruction,,Jennifer McCormick,REP,389Howard,0042 5 Taylor 1,Public Instruction,,Jennifer McCormick,REP,378Howard,0043 501,Public Instruction,,Jennifer McCormick,REP,445Howard,0044 502,Public Instruction,,Jennifer McCormick,REP,354Howard,0045 503,Public Instruction,,Jennifer McCormick,REP,368Howard,0046 6 Harrison 1,Public Instruction,,Jennifer McCormick,REP,276Howard,0047 6 Harrison 2,Public Instruction,,Jennifer McCormick,REP,567Howard,0048 601,Public Instruction,,Jennifer McCormick,REP,432Howard,0049 602,Public Instruction,,Jennifer McCormick,REP,306Howard,0050 603,Public Instruction,,Jennifer McCormick,REP,427Howard,0051 604,Public Instruction,,Jennifer McCormick,REP,461Howard,0052 605,Public Instruction,,Jennifer McCormick,REP,347Howard,0053 Center A,Public Instruction,,Jennifer McCormick,REP,92Howard,0054 Center B,Public Instruction,,Jennifer McCormick,REP,12Howard,0055 Center C,Public Instruction,,Jennifer McCormick,REP,49Howard,0056 Clay A,Public Instruction,,Jennifer McCormick,REP,413Howard,0057 Clay B,Public Instruction,,Jennifer McCormick,REP,363Howard,0058 Clay C,Public Instruction,,Jennifer McCormick,REP,456Howard,0059 Ervin A,Public Instruction,,Jennifer McCormick,REP,287Howard,0060 Ervin B,Public Instruction,,Jennifer McCormick,REP,492Howard,0061 Harrison A,Public Instruction,,Jennifer McCormick,REP,459Howard,0062 Harrison B,Public Instruction,,Jennifer McCormick,REP,454Howard,0063 Harrison C,Public Instruction,,Jennifer McCormick,REP,345Howard,0064 Honey Creek A,Public Instruction,,Jennifer McCormick,REP,340Howard,0065 Honey Creek B,Public Instruction,,Jennifer McCormick,REP,340Howard,0066 Howard A,Public Instruction,,Jennifer McCormick,REP,336Howard,0067 Howard B,Public Instruction,,Jennifer McCormick,REP,430Howard,0068 Jackson,Public Instruction,,Jennifer McCormick,REP,156Howard,0069 Liberty A,Public Instruction,,Jennifer McCormick,REP,382Howard,0070 Liberty B,Public Instruction,,Jennifer McCormick,REP,255Howard,0071 Liberty C,Public Instruction,,Jennifer McCormick,REP,485Howard,0072 Liberty D,Public Instruction,,Jennifer McCormick,REP,424Howard,0073 Monroe,Public Instruction,,Jennifer McCormick,REP,409Howard,0074 Taylor A,Public Instruction,,Jennifer McCormick,REP,375Howard,0075 Taylor B,Public Instruction,,Jennifer McCormick,REP,202Howard,0076 Taylor C,Public Instruction,,Jennifer McCormick,REP,77Howard,0077 Union,Public Instruction,,Jennifer McCormick,REP,368Howard,,Public Instruction,,Jennifer McCormick,REP,19675Howard,0001 1 Clay 1,Public Instruction,,Glenda Ritz,DEM,22Howard,0002 2 Clay 2,Public Instruction,,Glenda Ritz,DEM,13Howard,0003 1 Howard 1,Public Instruction,,Glenda Ritz,DEM,0Howard,0004 101,Public Instruction,,Glenda Ritz,DEM,52Howard,0005 102,Public Instruction,,Glenda Ritz,DEM,234Howard,0006 103,Public Instruction,,Glenda Ritz,DEM,68Howard,0007 104,Public Instruction,,Glenda Ritz,DEM,268Howard,0008 105,Public Instruction,,Glenda Ritz,DEM,214Howard,0009 106,Public Instruction,,Glenda Ritz,DEM,13Howard,0010 107,Public Instruction,,Glenda Ritz,DEM,199Howard,0011 108,Public Instruction,,Glenda Ritz,DEM,32Howard,0012 109,Public Instruction,,Glenda Ritz,DEM,294Howard,0013 110,Public Instruction,,Glenda Ritz,DEM,307Howard,0014 201,Public Instruction,,Glenda Ritz,DEM,245Howard,0015 202,Public Instruction,,Glenda Ritz,DEM,293Howard,0016 203,Public Instruction,,Glenda Ritz,DEM,199Howard,0017 204,Public Instruction,,Glenda Ritz,DEM,276Howard,0018 205,Public Instruction,,Glenda Ritz,DEM,182Howard,0019 206,Public Instruction,,Glenda Ritz,DEM,191Howard,0020 207,Public Instruction,,Glenda Ritz,DEM,383Howard,0021 3 Harrison 1,Public Instruction,,Glenda Ritz,DEM,33Howard,0022 3 Howard 1,Public Instruction,,Glenda Ritz,DEM,9Howard,0023 3 Taylor 1,Public Instruction,,Glenda Ritz,DEM,157Howard,0024 3 Taylor 2,Public Instruction,,Glenda Ritz,DEM,42Howard,0025 3 Taylor 3,Public Instruction,,Glenda Ritz,DEM,311Howard,0026 3 Taylor 4,Public Instruction,,Glenda Ritz,DEM,358Howard,0027 301,Public Instruction,,Glenda Ritz,DEM,312Howard,0028 302,Public Instruction,,Glenda Ritz,DEM,105Howard,0029 303,Public Instruction,,Glenda Ritz,DEM,215Howard,0030 304,Public Instruction,,Glenda Ritz,DEM,232Howard,0031 305,Public Instruction,,Glenda Ritz,DEM,167Howard,0032 306,Public Instruction,,Glenda Ritz,DEM,5Howard,0033 4 Taylor 1,Public Instruction,,Glenda Ritz,DEM,294Howard,0034 401,Public Instruction,,Glenda Ritz,DEM,294Howard,0035 402,Public Instruction,,Glenda Ritz,DEM,237Howard,0036 403,Public Instruction,,Glenda Ritz,DEM,277Howard,0037 404,Public Instruction,,Glenda Ritz,DEM,191Howard,0038 405,Public Instruction,,Glenda Ritz,DEM,276Howard,0039 406,Public Instruction,,Glenda Ritz,DEM,377Howard,0040 5 Harrison 1,Public Instruction,,Glenda Ritz,DEM,319Howard,0041 5 Harrison 2,Public Instruction,,Glenda Ritz,DEM,287Howard,0042 5 Taylor 1,Public Instruction,,Glenda Ritz,DEM,312Howard,0043 501,Public Instruction,,Glenda Ritz,DEM,409Howard,0044 502,Public Instruction,,Glenda Ritz,DEM,395Howard,0045 503,Public Instruction,,Glenda Ritz,DEM,338Howard,0046 6 Harrison 1,Public Instruction,,Glenda Ritz,DEM,183Howard,0047 6 Harrison 2,Public Instruction,,Glenda Ritz,DEM,357Howard,0048 601,Public Instruction,,Glenda Ritz,DEM,311Howard,0049 602,Public Instruction,,Glenda Ritz,DEM,287Howard,0050 603,Public Instruction,,Glenda Ritz,DEM,344Howard,0051 604,Public Instruction,,Glenda Ritz,DEM,412Howard,0052 605,Public Instruction,,Glenda Ritz,DEM,353Howard,0053 Center A,Public Instruction,,Glenda Ritz,DEM,68Howard,0054 Center B,Public Instruction,,Glenda Ritz,DEM,13Howard,0055 Center C,Public Instruction,,Glenda Ritz,DEM,50Howard,0056 Clay A,Public Instruction,,Glenda Ritz,DEM,276Howard,0057 Clay B,Public Instruction,,Glenda Ritz,DEM,264Howard,0058 Clay C,Public Instruction,,Glenda Ritz,DEM,335Howard,0059 Ervin A,Public Instruction,,Glenda Ritz,DEM,142Howard,0060 Ervin B,Public Instruction,,Glenda Ritz,DEM,282Howard,0061 Harrison A,Public Instruction,,Glenda Ritz,DEM,263Howard,0062 Harrison B,Public Instruction,,Glenda Ritz,DEM,270Howard,0063 Harrison C,Public Instruction,,Glenda Ritz,DEM,219Howard,0064 Honey Creek A,Public Instruction,,Glenda Ritz,DEM,218Howard,0065 Honey Creek B,Public Instruction,,Glenda Ritz,DEM,211Howard,0066 Howard A,Public Instruction,,Glenda Ritz,DEM,183Howard,0067 Howard B,Public Instruction,,Glenda Ritz,DEM,271Howard,0068 Jackson,Public Instruction,,Glenda Ritz,DEM,121Howard,0069 Liberty A,Public Instruction,,Glenda Ritz,DEM,220Howard,0070 Liberty B,Public Instruction,,Glenda Ritz,DEM,158Howard,0071 Liberty C,Public Instruction,,Glenda Ritz,DEM,319Howard,0072 Liberty D,Public Instruction,,Glenda Ritz,DEM,261Howard,0073 Monroe,Public Instruction,,Glenda Ritz,DEM,297Howard,0074 Taylor A,Public Instruction,,Glenda Ritz,DEM,242Howard,0075 Taylor B,Public Instruction,,Glenda Ritz,DEM,134Howard,0076 Taylor C,Public Instruction,,Glenda Ritz,DEM,52Howard,0077 Union,Public Instruction,,Glenda Ritz,DEM,188Howard,,Public Instruction,,Glenda Ritz,DEM,16741Howard,0001 1 Clay 1,U.S. House,4,Todd Rokita,REP,27Howard,0002 2 Clay 2,U.S. House,4,Todd Rokita,REP,19Howard,0003 1 Howard 1,U.S. House,4,Todd Rokita,REP,2Howard,0004 101,U.S. House,4,Todd Rokita,REP,45Howard,0005 102,U.S. House,4,Todd Rokita,REP,228Howard,0006 103,U.S. House,4,Todd Rokita,REP,51Howard,0007 104,U.S. House,4,Todd Rokita,REP,255Howard,0008 105,U.S. House,4,Todd Rokita,REP,184Howard,0009 106,U.S. House,4,Todd Rokita,REP,15Howard,0010 107,U.S. House,4,Todd Rokita,REP,186Howard,0011 108,U.S. House,4,Todd Rokita,REP,30Howard,0012 109,U.S. House,4,Todd Rokita,REP,308Howard,0013 110,U.S. House,4,Todd Rokita,REP,321Howard,0014 201,U.S. House,4,Todd Rokita,REP,176Howard,0015 202,U.S. House,4,Todd Rokita,REP,60Howard,0016 203,U.S. House,4,Todd Rokita,REP,225Howard,0017 204,U.S. House,4,Todd Rokita,REP,253Howard,0018 205,U.S. House,4,Todd Rokita,REP,205Howard,0019 206,U.S. House,4,Todd Rokita,REP,146Howard,0020 207,U.S. House,4,Todd Rokita,REP,430Howard,0021 3 Harrison 1,U.S. House,4,Todd Rokita,REP,36Howard,0022 3 Howard 1,U.S. House,5,Susan Brooks,REP,19Howard,0023 3 Taylor 1,U.S. House,5,Susan Brooks,REP,240Howard,0024 3 Taylor 2,U.S. House,4,Todd Rokita,REP,85Howard,0025 3 Taylor 3,U.S. House,4,Todd Rokita,REP,475Howard,0026 3 Taylor 4,U.S. House,4,Todd Rokita,REP,400Howard,0027 301,U.S. House,4,Todd Rokita,REP,85Howard,0028 302,U.S. House,4,Todd Rokita,REP,87Howard,0029 303,U.S. House,4,Todd Rokita,REP,90Howard,0030 304,U.S. House,4,Todd Rokita,REP,225Howard,0031 305,U.S. House,4,Todd Rokita,REP,183Howard,0032 306,U.S. House,4,Todd Rokita,REP,9Howard,0033 4 Taylor 1,U.S. House,4,Todd Rokita,REP,394Howard,0034 401,U.S. House,4,Todd Rokita,REP,327Howard,0035 402,U.S. House,4,Todd Rokita,REP,230Howard,0036 403,U.S. House,4,Todd Rokita,REP,309Howard,0037 404,U.S. House,4,Todd Rokita,REP,184Howard,0038 405,U.S. House,4,Todd Rokita,REP,235Howard,0039 406,U.S. House,4,Todd Rokita,REP,407Howard,0040 5 Harrison 1,U.S. House,4,Todd Rokita,REP,308Howard,0041 5 Harrison 2,U.S. House,4,Todd Rokita,REP,445Howard,0042 5 Taylor 1,U.S. House,4,Todd Rokita,REP,443Howard,0043 501,U.S. House,4,Todd Rokita,REP,512Howard,0044 502,U.S. House,4,Todd Rokita,REP,421Howard,0045 503,U.S. House,4,Todd Rokita,REP,396Howard,0046 6 Harrison 1,U.S. House,4,Todd Rokita,REP,322Howard,0047 6 Harrison 2,U.S. House,4,Todd Rokita,REP,666Howard,0048 601,U.S. House,4,Todd Rokita,REP,503Howard,0049 602,U.S. House,4,Todd Rokita,REP,349Howard,0050 603,U.S. House,4,Todd Rokita,REP,498Howard,0051 604,U.S. House,4,Todd Rokita,REP,542Howard,0052 605,U.S. House,4,Todd Rokita,REP,394Howard,0053 Center A,U.S. House,4,Todd Rokita,REP,112Howard,0054 Center B,U.S. House,4,Todd Rokita,REP,12Howard,0055 Center C,U.S. House,4,Todd Rokita,REP,48Howard,0056 Clay A,U.S. House,4,Todd Rokita,REP,491Howard,0057 Clay B,U.S. House,4,Todd Rokita,REP,438Howard,0058 Clay C,U.S. House,4,Todd Rokita,REP,551Howard,0059 Ervin A,U.S. House,4,Todd Rokita,REP,330Howard,0060 Ervin B,U.S. House,4,Todd Rokita,REP,564Howard,0061 Harrison A,U.S. House,4,Todd Rokita,REP,507Howard,0062 Harrison B,U.S. House,4,Todd Rokita,REP,502Howard,0063 Harrison C,U.S. House,4,Todd Rokita,REP,388Howard,0064 Honey Creek A,U.S. House,4,Todd Rokita,REP,411Howard,0065 Honey Creek B,U.S. House,4,Todd Rokita,REP,390Howard,0066 Howard A,U.S. House,5,Susan Brooks,REP,382Howard,0067 Howard B,U.S. House,4,Todd Rokita,REP,464Howard,0068 Jackson,U.S. House,5,Susan Brooks,REP,204Howard,0069 Liberty A,U.S. House,5,Susan Brooks,REP,467Howard,0070 Liberty B,U.S. House,5,Susan Brooks,REP,283Howard,0071 Liberty C,U.S. House,5,Susan Brooks,REP,610Howard,0072 Liberty D,U.S. House,5,Susan Brooks,REP,520Howard,0073 Monroe,U.S. House,4,Todd Rokita,REP,468Howard,0074 Taylor A,U.S. House,5,Susan Brooks,REP,417Howard,0075 Taylor B,U.S. House,5,Susan Brooks,REP,212Howard,0076 Taylor C,U.S. House,4,Todd Rokita,REP,95Howard,0077 Union,U.S. House,5,Susan Brooks,REP,445Howard,,U.S. House,5,Susan Brooks,REP,3799Howard,,U.S. House,4,Todd Rokita,REP,18497Howard,0001 1 Clay 1,U.S. House,4,John Dale,DEM,13Howard,0002 2 Clay 2,U.S. House,4,John Dale,DEM,7Howard,0003 1 Howard 1,U.S. House,4,John Dale,DEM,0Howard,0004 101,U.S. House,4,John Dale,DEM,45Howard,0005 102,U.S. House,4,John Dale,DEM,196Howard,0006 103,U.S. House,4,John Dale,DEM,53Howard,0007 104,U.S. House,4,John Dale,DEM,222Howard,0008 105,U.S. House,4,John Dale,DEM,176Howard,0009 106,U.S. House,4,John Dale,DEM,10Howard,0010 107,U.S. House,4,John Dale,DEM,169Howard,0011 108,U.S. House,4,John Dale,DEM,27Howard,0012 109,U.S. House,4,John Dale,DEM,228Howard,0013 110,U.S. House,4,John Dale,DEM,244Howard,0014 201,U.S. House,4,John Dale,DEM,201Howard,0015 202,U.S. House,4,John Dale,DEM,281Howard,0016 203,U.S. House,4,John Dale,DEM,157Howard,0017 204,U.S. House,4,John Dale,DEM,211Howard,0018 205,U.S. House,4,John Dale,DEM,159Howard,0019 206,U.S. House,4,John Dale,DEM,159Howard,0020 207,U.S. House,4,John Dale,DEM,275Howard,0021 3 Harrison 1,U.S. House,4,John Dale,DEM,27Howard,0022 3 Howard 1,U.S. House,5,Angela Demaree,DEM,8Howard,0023 3 Taylor 1,U.S. House,5,Angela Demaree,DEM,108Howard,0024 3 Taylor 2,U.S. House,4,John Dale,DEM,33Howard,0025 3 Taylor 3,U.S. House,4,John Dale,DEM,245Howard,0026 3 Taylor 4,U.S. House,4,John Dale,DEM,279Howard,0027 301,U.S. House,4,John Dale,DEM,281Howard,0028 302,U.S. House,4,John Dale,DEM,75Howard,0029 303,U.S. House,4,John Dale,DEM,191Howard,0030 304,U.S. House,4,John Dale,DEM,183Howard,0031 305,U.S. House,4,John Dale,DEM,146Howard,0032 306,U.S. House,4,John Dale,DEM,3Howard,0033 4 Taylor 1,U.S. House,4,John Dale,DEM,217Howard,0034 401,U.S. House,4,John Dale,DEM,259Howard,0035 402,U.S. House,4,John Dale,DEM,199Howard,0036 403,U.S. House,4,John Dale,DEM,206Howard,0037 404,U.S. House,4,John Dale,DEM,153Howard,0038 405,U.S. House,4,John Dale,DEM,221Howard,0039 406,U.S. House,4,John Dale,DEM,285Howard,0040 5 Harrison 1,U.S. House,4,John Dale,DEM,262Howard,0041 5 Harrison 2,U.S. House,4,John Dale,DEM,213Howard,0042 5 Taylor 1,U.S. House,4,John Dale,DEM,217Howard,0043 501,U.S. House,4,John Dale,DEM,293Howard,0044 502,U.S. House,4,John Dale,DEM,290Howard,0045 503,U.S. House,4,John Dale,DEM,279Howard,0046 6 Harrison 1,U.S. House,4,John Dale,DEM,111Howard,0047 6 Harrison 2,U.S. House,4,John Dale,DEM,233Howard,0048 601,U.S. House,4,John Dale,DEM,216Howard,0049 602,U.S. House,4,John Dale,DEM,208Howard,0050 603,U.S. House,4,John Dale,DEM,253Howard,0051 604,U.S. House,4,John Dale,DEM,292Howard,0052 605,U.S. House,4,John Dale,DEM,258Howard,0053 Center A,U.S. House,4,John Dale,DEM,42Howard,0054 Center B,U.S. House,4,John Dale,DEM,12Howard,0055 Center C,U.S. House,4,John Dale,DEM,46Howard,0056 Clay A,U.S. House,4,John Dale,DEM,170Howard,0057 Clay B,U.S. House,4,John Dale,DEM,159Howard,0058 Clay C,U.S. House,4,John Dale,DEM,211Howard,0059 Ervin A,U.S. House,4,John Dale,DEM,81Howard,0060 Ervin B,U.S. House,4,John Dale,DEM,183Howard,0061 Harrison A,U.S. House,4,John Dale,DEM,174Howard,0062 Harrison B,U.S. House,4,John Dale,DEM,185Howard,0063 Harrison C,U.S. House,4,John Dale,DEM,148Howard,0064 Honey Creek A,U.S. House,4,John Dale,DEM,108Howard,0065 Honey Creek B,U.S. House,4,John Dale,DEM,128Howard,0066 Howard A,U.S. House,5,Angela Demaree,DEM,118Howard,0067 Howard B,U.S. House,4,John Dale,DEM,191Howard,0068 Jackson,U.S. House,5,Angela Demaree,DEM,62Howard,0069 Liberty A,U.S. House,5,Angela Demaree,DEM,103Howard,0070 Liberty B,U.S. House,5,John Dale,DEM,106Howard,0071 Liberty C,U.S. House,5,John Dale,DEM,171Howard,0072 Liberty D,U.S. House,5,John Dale,DEM,138Howard,0073 Monroe,U.S. House,4,John Dale,DEM,191Howard,0074 Taylor A,U.S. House,5,John Dale,DEM,164Howard,0075 Taylor B,U.S. House,5,John Dale,DEM,98Howard,0076 Taylor C,U.S. House,4,John Dale,DEM,31Howard,0077 Union,U.S. House,5,John Dale,DEM,91Howard,,U.S. House,5,Angela Demaree,DEM,1167Howard,,U.S. House,4,John Dale,DEM,11020Howard,0001 1 Clay 1,U.S. House,4,Steve Mayoras,LBT,4Howard,0002 2 Clay 2,U.S. House,4,Steve Mayoras,LBT,3Howard,0003 1 Howard 1,U.S. House,4,Steve Mayoras,LBT,0Howard,0004 101,U.S. House,4,Steve Mayoras,LBT,16Howard,0005 102,U.S. House,4,Steve Mayoras,LBT,34Howard,0006 103,U.S. House,4,Steve Mayoras,LBT,15Howard,0007 104,U.S. House,4,Steve Mayoras,LBT,39Howard,0008 105,U.S. House,4,Steve Mayoras,LBT,28Howard,0009 106,U.S. House,4,Steve Mayoras,LBT,2Howard,0010 107,U.S. House,4,Steve Mayoras,LBT,24Howard,0011 108,U.S. House,4,Steve Mayoras,LBT,3Howard,0012 109,U.S. House,4,Steve Mayoras,LBT,33Howard,0013 110,U.S. House,4,Steve Mayoras,LBT,32Howard,0014 201,U.S. House,4,Steve Mayoras,LBT,50Howard,0015 202,U.S. House,4,Steve Mayoras,LBT,26Howard,0016 203,U.S. House,4,Steve Mayoras,LBT,39Howard,0017 204,U.S. House,4,Steve Mayoras,LBT,43Howard,0018 205,U.S. House,4,Steve Mayoras,LBT,42Howard,0019 206,U.S. House,4,Steve Mayoras,LBT,31Howard,0020 207,U.S. House,4,Steve Mayoras,LBT,25Howard,0021 3 Harrison 1,U.S. House,4,Steve Mayoras,LBT,5Howard,0022 3 Howard 1,U.S. House,5,Matthew Wittlief,LBT,2Howard,0023 3 Taylor 1,U.S. House,5,Matthew Wittlief,LBT,6Howard,0024 3 Taylor 2,U.S. House,4,Steve Mayoras,LBT,8Howard,0025 3 Taylor 3,U.S. House,4,Steve Mayoras,LBT,42Howard,0026 3 Taylor 4,U.S. House,4,Steve Mayoras,LBT,55Howard,0027 301,U.S. House,4,Steve Mayoras,LBT,23Howard,0028 302,U.S. House,4,Steve Mayoras,LBT,12Howard,0029 303,U.S. House,4,Steve Mayoras,LBT,17Howard,0030 304,U.S. House,4,Steve Mayoras,LBT,34Howard,0031 305,U.S. House,4,Steve Mayoras,LBT,21Howard,0032 306,U.S. House,4,Steve Mayoras,LBT,1Howard,0033 4 Taylor 1,U.S. House,4,Steve Mayoras,LBT,22Howard,0034 401,U.S. House,4,Steve Mayoras,LBT,33Howard,0035 402,U.S. House,4,Steve Mayoras,LBT,30Howard,0036 403,U.S. House,4,Steve Mayoras,LBT,40Howard,0037 404,U.S. House,4,Steve Mayoras,LBT,17Howard,0038 405,U.S. House,4,Steve Mayoras,LBT,24Howard,0039 406,U.S. House,4,Steve Mayoras,LBT,45Howard,0040 5 Harrison 1,U.S. House,4,Steve Mayoras,LBT,48Howard,0041 5 Harrison 2,U.S. House,4,Steve Mayoras,LBT,21Howard,0042 5 Taylor 1,U.S. House,4,Steve Mayoras,LBT,38Howard,0043 501,U.S. House,4,Steve Mayoras,LBT,45Howard,0044 502,U.S. House,4,Steve Mayoras,LBT,33Howard,0045 503,U.S. House,4,Steve Mayoras,LBT,29Howard,0046 6 Harrison 1,U.S. House,4,Steve Mayoras,LBT,28Howard,0047 6 Harrison 2,U.S. House,4,Steve Mayoras,LBT,33Howard,0048 601,U.S. House,4,Steve Mayoras,LBT,32Howard,0049 602,U.S. House,4,Steve Mayoras,LBT,35Howard,0050 603,U.S. House,4,Steve Mayoras,LBT,20Howard,0051 604,U.S. House,4,Steve Mayoras,LBT,47Howard,0052 605,U.S. House,4,Steve Mayoras,LBT,44Howard,0053 Center A,U.S. House,4,Steve Mayoras,LBT,3Howard,0054 Center B,U.S. House,4,Steve Mayoras,LBT,1Howard,0055 Center C,U.S. House,4,Steve Mayoras,LBT,5Howard,0056 Clay A,U.S. House,4,Steve Mayoras,LBT,23Howard,0057 Clay B,U.S. House,4,Steve Mayoras,LBT,23Howard,0058 Clay C,U.S. House,4,Steve Mayoras,LBT,29Howard,0059 Ervin A,U.S. House,4,Steve Mayoras,LBT,19Howard,0060 Ervin B,U.S. House,4,Steve Mayoras,LBT,32Howard,0061 Harrison A,U.S. House,4,Steve Mayoras,LBT,43Howard,0062 Harrison B,U.S. House,4,Steve Mayoras,LBT,47Howard,0063 Harrison C,U.S. House,4,Steve Mayoras,LBT,28Howard,0064 Honey Creek A,U.S. House,4,Steve Mayoras,LBT,29Howard,0065 Honey Creek B,U.S. House,4,Steve Mayoras,LBT,33Howard,0066 Howard A,U.S. House,5,Matthew Wittlief,LBT,21Howard,0067 Howard B,U.S. House,4,Steve Mayoras,LBT,42Howard,0068 Jackson,U.S. House,5,Matthew Wittlief,LBT,14Howard,0069 Liberty A,U.S. House,5,Matthew Wittlief,LBT,31Howard,0070 Liberty B,U.S. House,5,Matthew Wittlief,LBT,26Howard,0071 Liberty C,U.S. House,5,Matthew Wittlief,LBT,27Howard,0072 Liberty D,U.S. House,5,Matthew Wittlief,LBT,29Howard,0073 Monroe,U.S. House,4,Steve Mayoras,LBT,46Howard,0074 Taylor A,U.S. House,5,Matthew Wittlief,LBT,38Howard,0075 Taylor B,U.S. House,5,Matthew Wittlief,LBT,24Howard,0076 Taylor C,U.S. House,4,Steve Mayoras,LBT,7Howard,0077 Union,U.S. House,5,Matthew Wittlief,LBT,24Howard,,U.S. House,5,Matthew Wittlief,LBT,242Howard,,U.S. House,4,Steve Mayoras,LBT,1781Howard,0001 1 Clay 1,State House,30,Mike Karickhoff,REP,27Howard,0002 2 Clay 2,State House,38,Heath Vannatter,REP,18Howard,0003 1 Howard 1,State House,30,Mike Karickhoff,REP,0Howard,0004 101,State House,30,Mike Karickhoff,REP,49Howard,0005 102,State House,30,Mike Karickhoff,REP,255Howard,0006 103,State House,38,Heath Vannatter,REP,50Howard,0007 104,State House,30,Mike Karickhoff,REP,287Howard,0008 105,State House,30,Mike Karickhoff,REP,205Howard,0009 106,State House,38,Heath Vannatter,REP,17Howard,0010 107,State House,30,Mike Karickhoff,REP,204Howard,0011 108,State House,30,Mike Karickhoff,REP,32Howard,0012 109,State House,30,Mike Karickhoff,REP,336Howard,0013 110,State House,30,Mike Karickhoff,REP,340Howard,0014 201,State House,30,Mike Karickhoff,REP,199Howard,0015 202,State House,30,Mike Karickhoff,REP,72Howard,0016 203,State House,30,Mike Karickhoff,REP,244Howard,0017 204,State House,30,Mike Karickhoff,REP,273Howard,0018 205,State House,30,Mike Karickhoff,REP,216Howard,0019 206,State House,30,Mike Karickhoff,REP,159Howard,0020 207,State House,30,Mike Karickhoff,REP,449Howard,0021 3 Harrison 1,State House,38,Heath Vannatter,REP,41Howard,0022 3 Howard 1,State House,30,Mike Karickhoff,REP,14Howard,0023 3 Taylor 1,State House,30,Mike Karickhoff,REP,229Howard,0024 3 Taylor 2,State House,30,Mike Karickhoff,REP,85Howard,0025 3 Taylor 3,State House,30,Mike Karickhoff,REP,506Howard,0026 3 Taylor 4,State House,30,Mike Karickhoff,REP,428Howard,0027 301,State House,30,Mike Karickhoff,REP,87Howard,0028 302,State House,30,Mike Karickhoff,REP,86Howard,0029 303,State House,30,Mike Karickhoff,REP,98Howard,0030 304,State House,30,Mike Karickhoff,REP,242Howard,0031 305,State House,30,Mike Karickhoff,REP,200Howard,0032 306,State House,30,Mike Karickhoff,REP,9Howard,0033 4 Taylor 1,State House,30,Mike Karickhoff,REP,407Howard,0034 401,State House,30,Mike Karickhoff,REP,355Howard,0035 402,State House,30,Mike Karickhoff,REP,245Howard,0036 403,State House,30,Mike Karickhoff,REP,326Howard,0037 404,State House,30,Mike Karickhoff,REP,192Howard,0038 405,State House,30,Mike Karickhoff,REP,239Howard,0039 406,State House,30,Mike Karickhoff,REP,447Howard,0040 5 Harrison 1,State House,38,Heath Vannatter,REP,306Howard,0041 5 Harrison 2,State House,38,Heath Vannatter,REP,450Howard,0042 5 Taylor 1,State House,30,Mike Karickhoff,REP,452Howard,0043 501,State House,30,Mike Karickhoff,REP,537Howard,0044 502,State House,30,Mike Karickhoff,REP,434Howard,0045 503,State House,30,Mike Karickhoff,REP,416Howard,0046 6 Harrison 1,State House,38,Heath Vannatter,REP,322Howard,0047 6 Harrison 2,State House,38,Heath Vannatter,REP,627Howard,0048 601,State House,38,Heath Vannatter,REP,506Howard,0049 602,State House,38,Heath Vannatter,REP,334Howard,0050 603,State House,38,Heath Vannatter,REP,478Howard,0051 604,State House,30,Mike Karickhoff,REP,553Howard,0052 605,State House,30,Mike Karickhoff,REP,404Howard,0053 Center A,State House,38,Heath Vannatter,REP,102Howard,0054 Center B,State House,30,Mike Karickhoff,REP,14Howard,0055 Center C,State House,30,Mike Karickhoff,REP,51Howard,0056 Clay A,State House,38,Heath Vannatter,REP,485Howard,0057 Clay B,State House,38,Heath Vannatter,REP,446Howard,0058 Clay C,State House,38,Heath Vannatter,REP,547Howard,0059 Ervin A,State House,38,Heath Vannatter,REP,322Howard,0060 Ervin B,State House,38,Heath Vannatter,REP,562Howard,0061 Harrison A,State House,38,Heath Vannatter,REP,527Howard,0062 Harrison B,State House,38,Heath Vannatter,REP,506Howard,0063 Harrison C,State House,38,Heath Vannatter,REP,390Howard,0064 Honey Creek A,State House,38,Heath Vannatter,REP,398Howard,0065 Honey Creek B,State House,38,Heath Vannatter,REP,383Howard,0066 Howard A,State House,30,Mike Karickhoff,REP,376Howard,0067 Howard B,State House,30,Mike Karickhoff,REP,483Howard,0068 Jackson,State House,30,Mike Karickhoff,REP,201Howard,0069 Liberty A,State House,30,Mike Karickhoff,REP,447Howard,0070 Liberty B,State House,30,Mike Karickhoff,REP,282Howard,0071 Liberty C,State House,30,Mike Karickhoff,REP,596Howard,0072 Liberty D,State House,30,Mike Karickhoff,REP,504Howard,0073 Monroe,State House,38,Heath Vannatter,REP,477Howard,0074 Taylor A,State House,30,Mike Karickhoff,REP,421Howard,0075 Taylor B,State House,30,Mike Karickhoff,REP,223Howard,0076 Taylor C,State House,30,Mike Karickhoff,REP,101Howard,0077 Union,State House,32,Tony Cook,REP,426Howard,,State House,30,Mike Karickhoff,REP,14037Howard,,State House,32,Tony Cook,REP,426Howard,,State House,38,Heath Vannatter,REP,8293Howard,0001 1 Clay 1,State House,30,Natalie Guest,DEM,18Howard,0003 1 Howard 1,State House,30,Natalie Guest,DEM,1Howard,0004 101,State House,30,Natalie Guest,DEM,56Howard,0005 102,State House,30,Natalie Guest,DEM,203Howard,0007 104,State House,30,Natalie Guest,DEM,233Howard,0008 105,State House,30,Natalie Guest,DEM,184Howard,0010 107,State House,30,Natalie Guest,DEM,176Howard,0011 108,State House,30,Natalie Guest,DEM,27Howard,0012 109,State House,30,Natalie Guest,DEM,223Howard,0013 110,State House,30,Natalie Guest,DEM,267Howard,0014 201,State House,30,Natalie Guest,DEM,227Howard,0015 202,State House,30,Natalie Guest,DEM,289Howard,0016 203,State House,30,Natalie Guest,DEM,174Howard,0017 204,State House,30,Natalie Guest,DEM,241Howard,0018 205,State House,30,Natalie Guest,DEM,185Howard,0019 206,State House,30,Natalie Guest,DEM,175Howard,0020 207,State House,30,Natalie Guest,DEM,286Howard,0022 3 Howard 1,State House,30,Natalie Guest,DEM,14Howard,0023 3 Taylor 1,State House,30,Natalie Guest,DEM,130Howard,0024 3 Taylor 2,State House,30,Natalie Guest,DEM,39Howard,0025 3 Taylor 3,State House,30,Natalie Guest,DEM,251Howard,0026 3 Taylor 4,State House,30,Natalie Guest,DEM,307Howard,0027 301,State House,30,Natalie Guest,DEM,303Howard,0028 302,State House,30,Natalie Guest,DEM,87Howard,0029 303,State House,30,Natalie Guest,DEM,192Howard,0030 304,State House,30,Natalie Guest,DEM,196Howard,0031 305,State House,30,Natalie Guest,DEM,157Howard,0032 306,State House,30,Natalie Guest,DEM,5Howard,0033 4 Taylor 1,State House,30,Natalie Guest,DEM,224Howard,0034 401,State House,30,Natalie Guest,DEM,261Howard,0035 402,State House,30,Natalie Guest,DEM,212Howard,0036 403,State House,30,Natalie Guest,DEM,232Howard,0037 404,State House,30,Natalie Guest,DEM,164Howard,0038 405,State House,30,Natalie Guest,DEM,243Howard,0039 406,State House,30,Natalie Guest,DEM,292Howard,0042 5 Taylor 1,State House,30,Natalie Guest,DEM,237Howard,0043 501,State House,30,Natalie Guest,DEM,325Howard,0044 502,State House,30,Natalie Guest,DEM,312Howard,0045 503,State House,30,Natalie Guest,DEM,292Howard,0051 604,State House,30,Natalie Guest,DEM,325Howard,0052 605,State House,30,Natalie Guest,DEM,292Howard,0054 Center B,State House,30,Natalie Guest,DEM,10Howard,0055 Center C,State House,30,Natalie Guest,DEM,48Howard,0066 Howard A,State House,30,Natalie Guest,DEM,145Howard,0067 Howard B,State House,30,Natalie Guest,DEM,230Howard,0068 Jackson,State House,30,Natalie Guest,DEM,73Howard,0069 Liberty A,State House,30,Natalie Guest,DEM,153Howard,0070 Liberty B,State House,30,Natalie Guest,DEM,133Howard,0071 Liberty C,State House,30,Natalie Guest,DEM,205Howard,0072 Liberty D,State House,30,Natalie Guest,DEM,181Howard,0074 Taylor A,State House,30,Natalie Guest,DEM,193Howard,0075 Taylor B,State House,30,Natalie Guest,DEM,112Howard,0076 Taylor C,State House,30,Natalie Guest,DEM,31Howard,,State House,30,Natalie Guest,DEM,9570Howard,0077 Union,State House,32,Ryan Davis,DEM,123Howard,,State House,32,Ryan Davis,DEM,123Howard,0002 2 Clay 2,State House,38,Jason Burns,IND,10Howard,0006 103,State House,38,Jason Burns,IND,49Howard,0009 106,State House,38,Jason Burns,IND,9Howard,0021 3 Harrison 1,State House,38,Jason Burns,IND,16Howard,0040 5 Harrison 1,State House,38,Jason Burns,IND,187Howard,0041 5 Harrison 2,State House,38,Jason Burns,IND,132Howard,0046 6 Harrison 1,State House,38,Jason Burns,IND,92Howard,0047 6 Harrison 2,State House,38,Jason Burns,IND,235Howard,0048 601,State House,38,Jason Burns,IND,145Howard,0049 602,State House,38,Jason Burns,IND,174Howard,0050 603,State House,38,Jason Burns,IND,181Howard,0053 Center A,State House,38,Jason Burns,IND,41Howard,0056 Clay A,State House,38,Jason Burns,IND,138Howard,0057 Clay B,State House,38,Jason Burns,IND,120Howard,0058 Clay C,State House,38,Jason Burns,IND,193Howard,0059 Ervin A,State House,38,Jason Burns,IND,89Howard,0060 Ervin B,State House,38,Jason Burns,IND,174Howard,0061 Harrison A,State House,38,Jason Burns,IND,134Howard,0062 Harrison B,State House,38,Jason Burns,IND,173Howard,0063 Harrison C,State House,38,Jason Burns,IND,125Howard,0064 Honey Creek A,State House,38,Jason Burns,IND,122Howard,0065 Honey Creek B,State House,38,Jason Burns,IND,147Howard,0073 Monroe,State House,38,Jason Burns,IND,178Howard,,State House,38,Jason Burns,IND,2864
+county,precinct,office,district,candidate,party,votes
+Howard,0001 1 Clay 1,President,,Donald Trump,REP,29
+Howard,0002 2 Clay 2,President,,Donald Trump,REP,25
+Howard,0003 1 Howard 1,President,,Donald Trump,REP,2
+Howard,0004 101,President,,Donald Trump,REP,47
+Howard,0005 102,President,,Donald Trump,REP,279
+Howard,0006 103,President,,Donald Trump,REP,66
+Howard,0007 104,President,,Donald Trump,REP,293
+Howard,0008 105,President,,Donald Trump,REP,207
+Howard,0009 106,President,,Donald Trump,REP,20
+Howard,0010 107,President,,Donald Trump,REP,207
+Howard,0011 108,President,,Donald Trump,REP,36
+Howard,0012 109,President,,Donald Trump,REP,338
+Howard,0013 110,President,,Donald Trump,REP,358
+Howard,0014 201,President,,Donald Trump,REP,205
+Howard,0015 202,President,,Donald Trump,REP,66
+Howard,0016 203,President,,Donald Trump,REP,252
+Howard,0017 204,President,,Donald Trump,REP,280
+Howard,0018 205,President,,Donald Trump,REP,241
+Howard,0019 206,President,,Donald Trump,REP,163
+Howard,0020 207,President,,Donald Trump,REP,446
+Howard,0021 3 Harrison 1,President,,Donald Trump,REP,45
+Howard,0022 3 Howard 1,President,,Donald Trump,REP,21
+Howard,0023 3 Taylor 1,President,,Donald Trump,REP,227
+Howard,0024 3 Taylor 2,President,,Donald Trump,REP,93
+Howard,0025 3 Taylor 3,President,,Donald Trump,REP,501
+Howard,0026 3 Taylor 4,President,,Donald Trump,REP,444
+Howard,0027 301,President,,Donald Trump,REP,90
+Howard,0028 302,President,,Donald Trump,REP,92
+Howard,0029 303,President,,Donald Trump,REP,101
+Howard,0030 304,President,,Donald Trump,REP,256
+Howard,0031 305,President,,Donald Trump,REP,201
+Howard,0032 306,President,,Donald Trump,REP,9
+Howard,0033 4 Taylor 1,President,,Donald Trump,REP,415
+Howard,0034 401,President,,Donald Trump,REP,370
+Howard,0035 402,President,,Donald Trump,REP,263
+Howard,0036 403,President,,Donald Trump,REP,337
+Howard,0037 404,President,,Donald Trump,REP,196
+Howard,0038 405,President,,Donald Trump,REP,241
+Howard,0039 406,President,,Donald Trump,REP,435
+Howard,0040 5 Harrison 1,President,,Donald Trump,REP,339
+Howard,0041 5 Harrison 2,President,,Donald Trump,REP,462
+Howard,0042 5 Taylor 1,President,,Donald Trump,REP,469
+Howard,0043 501,President,,Donald Trump,REP,545
+Howard,0044 502,President,,Donald Trump,REP,427
+Howard,0045 503,President,,Donald Trump,REP,435
+Howard,0046 6 Harrison 1,President,,Donald Trump,REP,345
+Howard,0047 6 Harrison 2,President,,Donald Trump,REP,652
+Howard,0048 601,President,,Donald Trump,REP,521
+Howard,0049 602,President,,Donald Trump,REP,346
+Howard,0050 603,President,,Donald Trump,REP,501
+Howard,0051 604,President,,Donald Trump,REP,567
+Howard,0052 605,President,,Donald Trump,REP,437
+Howard,0053 Center A,President,,Donald Trump,REP,114
+Howard,0054 Center B,President,,Donald Trump,REP,15
+Howard,0055 Center C,President,,Donald Trump,REP,54
+Howard,0056 Clay A,President,,Donald Trump,REP,505
+Howard,0057 Clay B,President,,Donald Trump,REP,454
+Howard,0058 Clay C,President,,Donald Trump,REP,527
+Howard,0059 Ervin A,President,,Donald Trump,REP,341
+Howard,0060 Ervin B,President,,Donald Trump,REP,579
+Howard,0061 Harrison A,President,,Donald Trump,REP,530
+Howard,0062 Harrison B,President,,Donald Trump,REP,528
+Howard,0063 Harrison C,President,,Donald Trump,REP,399
+Howard,0064 Honey Creek A,President,,Donald Trump,REP,436
+Howard,0065 Honey Creek B,President,,Donald Trump,REP,417
+Howard,0066 Howard A,President,,Donald Trump,REP,403
+Howard,0067 Howard B,President,,Donald Trump,REP,523
+Howard,0068 Jackson,President,,Donald Trump,REP,219
+Howard,0069 Liberty A,President,,Donald Trump,REP,485
+Howard,0070 Liberty B,President,,Donald Trump,REP,295
+Howard,0071 Liberty C,President,,Donald Trump,REP,632
+Howard,0072 Liberty D,President,,Donald Trump,REP,537
+Howard,0073 Monroe,President,,Donald Trump,REP,513
+Howard,0074 Taylor A,President,,Donald Trump,REP,447
+Howard,0075 Taylor B,President,,Donald Trump,REP,238
+Howard,0076 Taylor C,President,,Donald Trump,REP,100
+Howard,0077 Union,President,,Donald Trump,REP,444
+Howard,,President,,Donald Trump,REP,23678
+Howard,0001 1 Clay 1,President,,Hillary Clinton,DEM,13
+Howard,0002 2 Clay 2,President,,Hillary Clinton,DEM,5
+Howard,0003 1 Howard 1,President,,Hillary Clinton,DEM,0
+Howard,0004 101,President,,Hillary Clinton,DEM,47
+Howard,0005 102,President,,Hillary Clinton,DEM,163
+Howard,0006 103,President,,Hillary Clinton,DEM,48
+Howard,0007 104,President,,Hillary Clinton,DEM,193
+Howard,0008 105,President,,Hillary Clinton,DEM,153
+Howard,0009 106,President,,Hillary Clinton,DEM,6
+Howard,0010 107,President,,Hillary Clinton,DEM,160
+Howard,0011 108,President,,Hillary Clinton,DEM,19
+Howard,0012 109,President,,Hillary Clinton,DEM,209
+Howard,0013 110,President,,Hillary Clinton,DEM,225
+Howard,0014 201,President,,Hillary Clinton,DEM,188
+Howard,0015 202,President,,Hillary Clinton,DEM,288
+Howard,0016 203,President,,Hillary Clinton,DEM,145
+Howard,0017 204,President,,Hillary Clinton,DEM,193
+Howard,0018 205,President,,Hillary Clinton,DEM,144
+Howard,0019 206,President,,Hillary Clinton,DEM,153
+Howard,0020 207,President,,Hillary Clinton,DEM,250
+Howard,0021 3 Harrison 1,President,,Hillary Clinton,DEM,18
+Howard,0022 3 Howard 1,President,,Hillary Clinton,DEM,9
+Howard,0023 3 Taylor 1,President,,Hillary Clinton,DEM,109
+Howard,0024 3 Taylor 2,President,,Hillary Clinton,DEM,26
+Howard,0025 3 Taylor 3,President,,Hillary Clinton,DEM,222
+Howard,0026 3 Taylor 4,President,,Hillary Clinton,DEM,240
+Howard,0027 301,President,,Hillary Clinton,DEM,291
+Howard,0028 302,President,,Hillary Clinton,DEM,68
+Howard,0029 303,President,,Hillary Clinton,DEM,180
+Howard,0030 304,President,,Hillary Clinton,DEM,162
+Howard,0031 305,President,,Hillary Clinton,DEM,139
+Howard,0032 306,President,,Hillary Clinton,DEM,2
+Howard,0033 4 Taylor 1,President,,Hillary Clinton,DEM,185
+Howard,0034 401,President,,Hillary Clinton,DEM,212
+Howard,0035 402,President,,Hillary Clinton,DEM,172
+Howard,0036 403,President,,Hillary Clinton,DEM,189
+Howard,0037 404,President,,Hillary Clinton,DEM,141
+Howard,0038 405,President,,Hillary Clinton,DEM,225
+Howard,0039 406,President,,Hillary Clinton,DEM,260
+Howard,0040 5 Harrison 1,President,,Hillary Clinton,DEM,235
+Howard,0041 5 Harrison 2,President,,Hillary Clinton,DEM,199
+Howard,0042 5 Taylor 1,President,,Hillary Clinton,DEM,206
+Howard,0043 501,President,,Hillary Clinton,DEM,278
+Howard,0044 502,President,,Hillary Clinton,DEM,291
+Howard,0045 503,President,,Hillary Clinton,DEM,260
+Howard,0046 6 Harrison 1,President,,Hillary Clinton,DEM,98
+Howard,0047 6 Harrison 2,President,,Hillary Clinton,DEM,239
+Howard,0048 601,President,,Hillary Clinton,DEM,197
+Howard,0049 602,President,,Hillary Clinton,DEM,220
+Howard,0050 603,President,,Hillary Clinton,DEM,261
+Howard,0051 604,President,,Hillary Clinton,DEM,277
+Howard,0052 605,President,,Hillary Clinton,DEM,233
+Howard,0053 Center A,President,,Hillary Clinton,DEM,40
+Howard,0054 Center B,President,,Hillary Clinton,DEM,7
+Howard,0055 Center C,President,,Hillary Clinton,DEM,37
+Howard,0056 Clay A,President,,Hillary Clinton,DEM,153
+Howard,0057 Clay B,President,,Hillary Clinton,DEM,137
+Howard,0058 Clay C,President,,Hillary Clinton,DEM,229
+Howard,0059 Ervin A,President,,Hillary Clinton,DEM,74
+Howard,0060 Ervin B,President,,Hillary Clinton,DEM,171
+Howard,0061 Harrison A,President,,Hillary Clinton,DEM,149
+Howard,0062 Harrison B,President,,Hillary Clinton,DEM,166
+Howard,0063 Harrison C,President,,Hillary Clinton,DEM,138
+Howard,0064 Honey Creek A,President,,Hillary Clinton,DEM,94
+Howard,0065 Honey Creek B,President,,Hillary Clinton,DEM,112
+Howard,0066 Howard A,President,,Hillary Clinton,DEM,103
+Howard,0067 Howard B,President,,Hillary Clinton,DEM,158
+Howard,0068 Jackson,President,,Hillary Clinton,DEM,49
+Howard,0069 Liberty A,President,,Hillary Clinton,DEM,96
+Howard,0070 Liberty B,President,,Hillary Clinton,DEM,90
+Howard,0071 Liberty C,President,,Hillary Clinton,DEM,146
+Howard,0072 Liberty D,President,,Hillary Clinton,DEM,132
+Howard,0073 Monroe,President,,Hillary Clinton,DEM,153
+Howard,0074 Taylor A,President,,Hillary Clinton,DEM,141
+Howard,0075 Taylor B,President,,Hillary Clinton,DEM,80
+Howard,0076 Taylor C,President,,Hillary Clinton,DEM,25
+Howard,0077 Union,President,,Hillary Clinton,DEM,94
+Howard,,President,,Hillary Clinton,DEM,11220
+Howard,0001 1 Clay 1,President,,Gary Johnson,LBT,3
+Howard,0002 2 Clay 2,President,,Gary Johnson,LBT,0
+Howard,0003 1 Howard 1,President,,Gary Johnson,LBT,0
+Howard,0004 101,President,,Gary Johnson,LBT,13
+Howard,0005 102,President,,Gary Johnson,LBT,26
+Howard,0006 103,President,,Gary Johnson,LBT,8
+Howard,0007 104,President,,Gary Johnson,LBT,39
+Howard,0008 105,President,,Gary Johnson,LBT,32
+Howard,0009 106,President,,Gary Johnson,LBT,1
+Howard,0010 107,President,,Gary Johnson,LBT,13
+Howard,0011 108,President,,Gary Johnson,LBT,4
+Howard,0012 109,President,,Gary Johnson,LBT,27
+Howard,0013 110,President,,Gary Johnson,LBT,23
+Howard,0014 201,President,,Gary Johnson,LBT,31
+Howard,0015 202,President,,Gary Johnson,LBT,16
+Howard,0016 203,President,,Gary Johnson,LBT,26
+Howard,0017 204,President,,Gary Johnson,LBT,38
+Howard,0018 205,President,,Gary Johnson,LBT,25
+Howard,0019 206,President,,Gary Johnson,LBT,27
+Howard,0020 207,President,,Gary Johnson,LBT,38
+Howard,0021 3 Harrison 1,President,,Gary Johnson,LBT,6
+Howard,0022 3 Howard 1,President,,Gary Johnson,LBT,0
+Howard,0023 3 Taylor 1,President,,Gary Johnson,LBT,15
+Howard,0024 3 Taylor 2,President,,Gary Johnson,LBT,4
+Howard,0025 3 Taylor 3,President,,Gary Johnson,LBT,39
+Howard,0026 3 Taylor 4,President,,Gary Johnson,LBT,54
+Howard,0027 301,President,,Gary Johnson,LBT,12
+Howard,0028 302,President,,Gary Johnson,LBT,12
+Howard,0029 303,President,,Gary Johnson,LBT,15
+Howard,0030 304,President,,Gary Johnson,LBT,34
+Howard,0031 305,President,,Gary Johnson,LBT,20
+Howard,0032 306,President,,Gary Johnson,LBT,0
+Howard,0033 4 Taylor 1,President,,Gary Johnson,LBT,26
+Howard,0034 401,President,,Gary Johnson,LBT,36
+Howard,0035 402,President,,Gary Johnson,LBT,28
+Howard,0036 403,President,,Gary Johnson,LBT,41
+Howard,0037 404,President,,Gary Johnson,LBT,15
+Howard,0038 405,President,,Gary Johnson,LBT,21
+Howard,0039 406,President,,Gary Johnson,LBT,42
+Howard,0040 5 Harrison 1,President,,Gary Johnson,LBT,44
+Howard,0041 5 Harrison 2,President,,Gary Johnson,LBT,24
+Howard,0042 5 Taylor 1,President,,Gary Johnson,LBT,26
+Howard,0043 501,President,,Gary Johnson,LBT,42
+Howard,0044 502,President,,Gary Johnson,LBT,28
+Howard,0045 503,President,,Gary Johnson,LBT,19
+Howard,0046 6 Harrison 1,President,,Gary Johnson,LBT,19
+Howard,0047 6 Harrison 2,President,,Gary Johnson,LBT,43
+Howard,0048 601,President,,Gary Johnson,LBT,43
+Howard,0049 602,President,,Gary Johnson,LBT,30
+Howard,0050 603,President,,Gary Johnson,LBT,28
+Howard,0051 604,President,,Gary Johnson,LBT,34
+Howard,0052 605,President,,Gary Johnson,LBT,40
+Howard,0053 Center A,President,,Gary Johnson,LBT,7
+Howard,0054 Center B,President,,Gary Johnson,LBT,2
+Howard,0055 Center C,President,,Gary Johnson,LBT,4
+Howard,0056 Clay A,President,,Gary Johnson,LBT,30
+Howard,0057 Clay B,President,,Gary Johnson,LBT,29
+Howard,0058 Clay C,President,,Gary Johnson,LBT,28
+Howard,0059 Ervin A,President,,Gary Johnson,LBT,17
+Howard,0060 Ervin B,President,,Gary Johnson,LBT,31
+Howard,0061 Harrison A,President,,Gary Johnson,LBT,45
+Howard,0062 Harrison B,President,,Gary Johnson,LBT,39
+Howard,0063 Harrison C,President,,Gary Johnson,LBT,35
+Howard,0064 Honey Creek A,President,,Gary Johnson,LBT,35
+Howard,0065 Honey Creek B,President,,Gary Johnson,LBT,28
+Howard,0066 Howard A,President,,Gary Johnson,LBT,20
+Howard,0067 Howard B,President,,Gary Johnson,LBT,29
+Howard,0068 Jackson,President,,Gary Johnson,LBT,14
+Howard,0069 Liberty A,President,,Gary Johnson,LBT,23
+Howard,0070 Liberty B,President,,Gary Johnson,LBT,33
+Howard,0071 Liberty C,President,,Gary Johnson,LBT,35
+Howard,0072 Liberty D,President,,Gary Johnson,LBT,27
+Howard,0073 Monroe,President,,Gary Johnson,LBT,37
+Howard,0074 Taylor A,President,,Gary Johnson,LBT,35
+Howard,0075 Taylor B,President,,Gary Johnson,LBT,23
+Howard,0076 Taylor C,President,,Gary Johnson,LBT,7
+Howard,0077 Union,President,,Gary Johnson,LBT,21
+Howard,,President,,Gary Johnson,LBT,1864
+Howard,0001 1 Clay 1,President,,Write-ins,,2
+Howard,0002 2 Clay 2,President,,Write-ins,,0
+Howard,0003 1 Howard 1,President,,Write-ins,,0
+Howard,0004 101,President,,Write-ins,,1
+Howard,0005 102,President,,Write-ins,,10
+Howard,0006 103,President,,Write-ins,,4
+Howard,0007 104,President,,Write-ins,,8
+Howard,0008 105,President,,Write-ins,,7
+Howard,0009 106,President,,Write-ins,,0
+Howard,0010 107,President,,Write-ins,,4
+Howard,0011 108,President,,Write-ins,,2
+Howard,0012 109,President,,Write-ins,,6
+Howard,0013 110,President,,Write-ins,,12
+Howard,0014 201,President,,Write-ins,,15
+Howard,0015 202,President,,Write-ins,,4
+Howard,0016 203,President,,Write-ins,,11
+Howard,0017 204,President,,Write-ins,,10
+Howard,0018 205,President,,Write-ins,,8
+Howard,0019 206,President,,Write-ins,,11
+Howard,0020 207,President,,Write-ins,,10
+Howard,0021 3 Harrison 1,President,,Write-ins,,0
+Howard,0022 3 Howard 1,President,,Write-ins,,0
+Howard,0023 3 Taylor 1,President,,Write-ins,,10
+Howard,0024 3 Taylor 2,President,,Write-ins,,4
+Howard,0025 3 Taylor 3,President,,Write-ins,,9
+Howard,0026 3 Taylor 4,President,,Write-ins,,16
+Howard,0027 301,President,,Write-ins,,2
+Howard,0028 302,President,,Write-ins,,4
+Howard,0029 303,President,,Write-ins,,6
+Howard,0030 304,President,,Write-ins,,3
+Howard,0031 305,President,,Write-ins,,1
+Howard,0032 306,President,,Write-ins,,3
+Howard,0033 4 Taylor 1,President,,Write-ins,,11
+Howard,0034 401,President,,Write-ins,,13
+Howard,0035 402,President,,Write-ins,,10
+Howard,0036 403,President,,Write-ins,,14
+Howard,0037 404,President,,Write-ins,,8
+Howard,0038 405,President,,Write-ins,,15
+Howard,0039 406,President,,Write-ins,,12
+Howard,0040 5 Harrison 1,President,,Write-ins,,15
+Howard,0041 5 Harrison 2,President,,Write-ins,,10
+Howard,0042 5 Taylor 1,President,,Write-ins,,8
+Howard,0043 501,President,,Write-ins,,15
+Howard,0044 502,President,,Write-ins,,17
+Howard,0045 503,President,,Write-ins,,5
+Howard,0046 6 Harrison 1,President,,Write-ins,,9
+Howard,0047 6 Harrison 2,President,,Write-ins,,14
+Howard,0048 601,President,,Write-ins,,8
+Howard,0049 602,President,,Write-ins,,7
+Howard,0050 603,President,,Write-ins,,4
+Howard,0051 604,President,,Write-ins,,12
+Howard,0052 605,President,,Write-ins,,8
+Howard,0053 Center A,President,,Write-ins,,2
+Howard,0054 Center B,President,,Write-ins,,3
+Howard,0055 Center C,President,,Write-ins,,1
+Howard,0056 Clay A,President,,Write-ins,,9
+Howard,0057 Clay B,President,,Write-ins,,7
+Howard,0058 Clay C,President,,Write-ins,,19
+Howard,0059 Ervin A,President,,Write-ins,,2
+Howard,0060 Ervin B,President,,Write-ins,,10
+Howard,0061 Harrison A,President,,Write-ins,,12
+Howard,0062 Harrison B,President,,Write-ins,,11
+Howard,0063 Harrison C,President,,Write-ins,,7
+Howard,0064 Honey Creek A,President,,Write-ins,,4
+Howard,0065 Honey Creek B,President,,Write-ins,,8
+Howard,0066 Howard A,President,,Write-ins,,7
+Howard,0067 Howard B,President,,Write-ins,,10
+Howard,0068 Jackson,President,,Write-ins,,4
+Howard,0069 Liberty A,President,,Write-ins,,7
+Howard,0070 Liberty B,President,,Write-ins,,9
+Howard,0071 Liberty C,President,,Write-ins,,7
+Howard,0072 Liberty D,President,,Write-ins,,10
+Howard,0073 Monroe,President,,Write-ins,,14
+Howard,0074 Taylor A,President,,Write-ins,,8
+Howard,0075 Taylor B,President,,Write-ins,,6
+Howard,0076 Taylor C,President,,Write-ins,,4
+Howard,0077 Union,President,,Write-ins,,9
+Howard,,President,,Write-ins,,588
+Howard,0001 1 Clay 1,U.S. Senate,,Todd Young,REP,26
+Howard,0002 2 Clay 2,U.S. Senate,,Todd Young,REP,17
+Howard,0003 1 Howard 1,U.S. Senate,,Todd Young,REP,2
+Howard,0004 101,U.S. Senate,,Todd Young,REP,42
+Howard,0005 102,U.S. Senate,,Todd Young,REP,231
+Howard,0006 103,U.S. Senate,,Todd Young,REP,45
+Howard,0007 104,U.S. Senate,,Todd Young,REP,241
+Howard,0008 105,U.S. Senate,,Todd Young,REP,165
+Howard,0009 106,U.S. Senate,,Todd Young,REP,14
+Howard,0010 107,U.S. Senate,,Todd Young,REP,176
+Howard,0011 108,U.S. Senate,,Todd Young,REP,23
+Howard,0012 109,U.S. Senate,,Todd Young,REP,282
+Howard,0013 110,U.S. Senate,,Todd Young,REP,292
+Howard,0014 201,U.S. Senate,,Todd Young,REP,169
+Howard,0015 202,U.S. Senate,,Todd Young,REP,58
+Howard,0016 203,U.S. Senate,,Todd Young,REP,210
+Howard,0017 204,U.S. Senate,,Todd Young,REP,240
+Howard,0018 205,U.S. Senate,,Todd Young,REP,193
+Howard,0019 206,U.S. Senate,,Todd Young,REP,131
+Howard,0020 207,U.S. Senate,,Todd Young,REP,393
+Howard,0021 3 Harrison 1,U.S. Senate,,Todd Young,REP,35
+Howard,0022 3 Howard 1,U.S. Senate,,Todd Young,REP,19
+Howard,0023 3 Taylor 1,U.S. Senate,,Todd Young,REP,207
+Howard,0024 3 Taylor 2,U.S. Senate,,Todd Young,REP,84
+Howard,0025 3 Taylor 3,U.S. Senate,,Todd Young,REP,433
+Howard,0026 3 Taylor 4,U.S. Senate,,Todd Young,REP,361
+Howard,0027 301,U.S. Senate,,Todd Young,REP,68
+Howard,0028 302,U.S. Senate,,Todd Young,REP,72
+Howard,0029 303,U.S. Senate,,Todd Young,REP,80
+Howard,0030 304,U.S. Senate,,Todd Young,REP,211
+Howard,0031 305,U.S. Senate,,Todd Young,REP,178
+Howard,0032 306,U.S. Senate,,Todd Young,REP,8
+Howard,0033 4 Taylor 1,U.S. Senate,,Todd Young,REP,354
+Howard,0034 401,U.S. Senate,,Todd Young,REP,322
+Howard,0035 402,U.S. Senate,,Todd Young,REP,210
+Howard,0036 403,U.S. Senate,,Todd Young,REP,294
+Howard,0037 404,U.S. Senate,,Todd Young,REP,164
+Howard,0038 405,U.S. Senate,,Todd Young,REP,196
+Howard,0039 406,U.S. Senate,,Todd Young,REP,369
+Howard,0040 5 Harrison 1,U.S. Senate,,Todd Young,REP,287
+Howard,0041 5 Harrison 2,U.S. Senate,,Todd Young,REP,390
+Howard,0042 5 Taylor 1,U.S. Senate,,Todd Young,REP,395
+Howard,0043 501,U.S. Senate,,Todd Young,REP,466
+Howard,0044 502,U.S. Senate,,Todd Young,REP,374
+Howard,0045 503,U.S. Senate,,Todd Young,REP,368
+Howard,0046 6 Harrison 1,U.S. Senate,,Todd Young,REP,301
+Howard,0047 6 Harrison 2,U.S. Senate,,Todd Young,REP,610
+Howard,0048 601,U.S. Senate,,Todd Young,REP,451
+Howard,0049 602,U.S. Senate,,Todd Young,REP,317
+Howard,0050 603,U.S. Senate,,Todd Young,REP,438
+Howard,0051 604,U.S. Senate,,Todd Young,REP,494
+Howard,0052 605,U.S. Senate,,Todd Young,REP,349
+Howard,0053 Center A,U.S. Senate,,Todd Young,REP,102
+Howard,0054 Center B,U.S. Senate,,Todd Young,REP,13
+Howard,0055 Center C,U.S. Senate,,Todd Young,REP,50
+Howard,0056 Clay A,U.S. Senate,,Todd Young,REP,437
+Howard,0057 Clay B,U.S. Senate,,Todd Young,REP,410
+Howard,0058 Clay C,U.S. Senate,,Todd Young,REP,504
+Howard,0059 Ervin A,U.S. Senate,,Todd Young,REP,308
+Howard,0060 Ervin B,U.S. Senate,,Todd Young,REP,523
+Howard,0061 Harrison A,U.S. Senate,,Todd Young,REP,481
+Howard,0062 Harrison B,U.S. Senate,,Todd Young,REP,465
+Howard,0063 Harrison C,U.S. Senate,,Todd Young,REP,356
+Howard,0064 Honey Creek A,U.S. Senate,,Todd Young,REP,372
+Howard,0065 Honey Creek B,U.S. Senate,,Todd Young,REP,355
+Howard,0066 Howard A,U.S. Senate,,Todd Young,REP,343
+Howard,0067 Howard B,U.S. Senate,,Todd Young,REP,440
+Howard,0068 Jackson,U.S. Senate,,Todd Young,REP,178
+Howard,0069 Liberty A,U.S. Senate,,Todd Young,REP,433
+Howard,0070 Liberty B,U.S. Senate,,Todd Young,REP,268
+Howard,0071 Liberty C,U.S. Senate,,Todd Young,REP,552
+Howard,0072 Liberty D,U.S. Senate,,Todd Young,REP,464
+Howard,0073 Monroe,U.S. Senate,,Todd Young,REP,433
+Howard,0074 Taylor A,U.S. Senate,,Todd Young,REP,384
+Howard,0075 Taylor B,U.S. Senate,,Todd Young,REP,200
+Howard,0076 Taylor C,U.S. Senate,,Todd Young,REP,85
+Howard,0077 Union,U.S. Senate,,Todd Young,REP,397
+Howard,,U.S. Senate,,Todd Young,REP,20408
+Howard,0001 1 Clay 1,U.S. Senate,,Evan Bayh,DEM,15
+Howard,0002 2 Clay 2,U.S. Senate,,Evan Bayh,DEM,9
+Howard,0003 1 Howard 1,U.S. Senate,,Evan Bayh,DEM,0
+Howard,0004 101,U.S. Senate,,Evan Bayh,DEM,53
+Howard,0005 102,U.S. Senate,,Evan Bayh,DEM,205
+Howard,0006 103,U.S. Senate,,Evan Bayh,DEM,64
+Howard,0007 104,U.S. Senate,,Evan Bayh,DEM,256
+Howard,0008 105,U.S. Senate,,Evan Bayh,DEM,186
+Howard,0009 106,U.S. Senate,,Evan Bayh,DEM,12
+Howard,0010 107,U.S. Senate,,Evan Bayh,DEM,171
+Howard,0011 108,U.S. Senate,,Evan Bayh,DEM,30
+Howard,0012 109,U.S. Senate,,Evan Bayh,DEM,259
+Howard,0013 110,U.S. Senate,,Evan Bayh,DEM,276
+Howard,0014 201,U.S. Senate,,Evan Bayh,DEM,226
+Howard,0015 202,U.S. Senate,,Evan Bayh,DEM,287
+Howard,0016 203,U.S. Senate,,Evan Bayh,DEM,170
+Howard,0017 204,U.S. Senate,,Evan Bayh,DEM,233
+Howard,0018 205,U.S. Senate,,Evan Bayh,DEM,173
+Howard,0019 206,U.S. Senate,,Evan Bayh,DEM,179
+Howard,0020 207,U.S. Senate,,Evan Bayh,DEM,316
+Howard,0021 3 Harrison 1,U.S. Senate,,Evan Bayh,DEM,26
+Howard,0022 3 Howard 1,U.S. Senate,,Evan Bayh,DEM,11
+Howard,0023 3 Taylor 1,U.S. Senate,,Evan Bayh,DEM,132
+Howard,0024 3 Taylor 2,U.S. Senate,,Evan Bayh,DEM,31
+Howard,0025 3 Taylor 3,U.S. Senate,,Evan Bayh,DEM,286
+Howard,0026 3 Taylor 4,U.S. Senate,,Evan Bayh,DEM,322
+Howard,0027 301,U.S. Senate,,Evan Bayh,DEM,309
+Howard,0028 302,U.S. Senate,,Evan Bayh,DEM,94
+Howard,0029 303,U.S. Senate,,Evan Bayh,DEM,197
+Howard,0030 304,U.S. Senate,,Evan Bayh,DEM,206
+Howard,0031 305,U.S. Senate,,Evan Bayh,DEM,158
+Howard,0032 306,U.S. Senate,,Evan Bayh,DEM,5
+Howard,0033 4 Taylor 1,U.S. Senate,,Evan Bayh,DEM,241
+Howard,0034 401,U.S. Senate,,Evan Bayh,DEM,260
+Howard,0035 402,U.S. Senate,,Evan Bayh,DEM,227
+Howard,0036 403,U.S. Senate,,Evan Bayh,DEM,228
+Howard,0037 404,U.S. Senate,,Evan Bayh,DEM,169
+Howard,0038 405,U.S. Senate,,Evan Bayh,DEM,254
+Howard,0039 406,U.S. Senate,,Evan Bayh,DEM,330
+Howard,0040 5 Harrison 1,U.S. Senate,,Evan Bayh,DEM,290
+Howard,0041 5 Harrison 2,U.S. Senate,,Evan Bayh,DEM,254
+Howard,0042 5 Taylor 1,U.S. Senate,,Evan Bayh,DEM,270
+Howard,0043 501,U.S. Senate,,Evan Bayh,DEM,353
+Howard,0044 502,U.S. Senate,,Evan Bayh,DEM,339
+Howard,0045 503,U.S. Senate,,Evan Bayh,DEM,304
+Howard,0046 6 Harrison 1,U.S. Senate,,Evan Bayh,DEM,144
+Howard,0047 6 Harrison 2,U.S. Senate,,Evan Bayh,DEM,309
+Howard,0048 601,U.S. Senate,,Evan Bayh,DEM,272
+Howard,0049 602,U.S. Senate,,Evan Bayh,DEM,261
+Howard,0050 603,U.S. Senate,,Evan Bayh,DEM,315
+Howard,0051 604,U.S. Senate,,Evan Bayh,DEM,344
+Howard,0052 605,U.S. Senate,,Evan Bayh,DEM,313
+Howard,0053 Center A,U.S. Senate,,Evan Bayh,DEM,56
+Howard,0054 Center B,U.S. Senate,,Evan Bayh,DEM,13
+Howard,0055 Center C,U.S. Senate,,Evan Bayh,DEM,47
+Howard,0056 Clay A,U.S. Senate,,Evan Bayh,DEM,219
+Howard,0057 Clay B,U.S. Senate,,Evan Bayh,DEM,191
+Howard,0058 Clay C,U.S. Senate,,Evan Bayh,DEM,260
+Howard,0059 Ervin A,U.S. Senate,,Evan Bayh,DEM,105
+Howard,0060 Ervin B,U.S. Senate,,Evan Bayh,DEM,227
+Howard,0061 Harrison A,U.S. Senate,,Evan Bayh,DEM,201
+Howard,0062 Harrison B,U.S. Senate,,Evan Bayh,DEM,226
+Howard,0063 Harrison C,U.S. Senate,,Evan Bayh,DEM,194
+Howard,0064 Honey Creek A,U.S. Senate,,Evan Bayh,DEM,158
+Howard,0065 Honey Creek B,U.S. Senate,,Evan Bayh,DEM,163
+Howard,0066 Howard A,U.S. Senate,,Evan Bayh,DEM,151
+Howard,0067 Howard B,U.S. Senate,,Evan Bayh,DEM,233
+Howard,0068 Jackson,U.S. Senate,,Evan Bayh,DEM,75
+Howard,0069 Liberty A,U.S. Senate,,Evan Bayh,DEM,155
+Howard,0070 Liberty B,U.S. Senate,,Evan Bayh,DEM,128
+Howard,0071 Liberty C,U.S. Senate,,Evan Bayh,DEM,220
+Howard,0072 Liberty D,U.S. Senate,,Evan Bayh,DEM,195
+Howard,0073 Monroe,U.S. Senate,,Evan Bayh,DEM,241
+Howard,0074 Taylor A,U.S. Senate,,Evan Bayh,DEM,196
+Howard,0075 Taylor B,U.S. Senate,,Evan Bayh,DEM,115
+Howard,0076 Taylor C,U.S. Senate,,Evan Bayh,DEM,40
+Howard,0077 Union,U.S. Senate,,Evan Bayh,DEM,133
+Howard,,U.S. Senate,,Evan Bayh,DEM,14316
+Howard,0001 1 Clay 1,U.S. Senate,,Lucy Brenton,LBT,5
+Howard,0002 2 Clay 2,U.S. Senate,,Lucy Brenton,LBT,4
+Howard,0003 1 Howard 1,U.S. Senate,,Lucy Brenton,LBT,0
+Howard,0004 101,U.S. Senate,,Lucy Brenton,LBT,11
+Howard,0005 102,U.S. Senate,,Lucy Brenton,LBT,32
+Howard,0006 103,U.S. Senate,,Lucy Brenton,LBT,11
+Howard,0007 104,U.S. Senate,,Lucy Brenton,LBT,30
+Howard,0008 105,U.S. Senate,,Lucy Brenton,LBT,44
+Howard,0009 106,U.S. Senate,,Lucy Brenton,LBT,2
+Howard,0010 107,U.S. Senate,,Lucy Brenton,LBT,33
+Howard,0011 108,U.S. Senate,,Lucy Brenton,LBT,6
+Howard,0012 109,U.S. Senate,,Lucy Brenton,LBT,32
+Howard,0013 110,U.S. Senate,,Lucy Brenton,LBT,45
+Howard,0014 201,U.S. Senate,,Lucy Brenton,LBT,42
+Howard,0015 202,U.S. Senate,,Lucy Brenton,LBT,23
+Howard,0016 203,U.S. Senate,,Lucy Brenton,LBT,45
+Howard,0017 204,U.S. Senate,,Lucy Brenton,LBT,46
+Howard,0018 205,U.S. Senate,,Lucy Brenton,LBT,46
+Howard,0019 206,U.S. Senate,,Lucy Brenton,LBT,38
+Howard,0020 207,U.S. Senate,,Lucy Brenton,LBT,34
+Howard,0021 3 Harrison 1,U.S. Senate,,Lucy Brenton,LBT,8
+Howard,0022 3 Howard 1,U.S. Senate,,Lucy Brenton,LBT,0
+Howard,0023 3 Taylor 1,U.S. Senate,,Lucy Brenton,LBT,19
+Howard,0024 3 Taylor 2,U.S. Senate,,Lucy Brenton,LBT,11
+Howard,0025 3 Taylor 3,U.S. Senate,,Lucy Brenton,LBT,48
+Howard,0026 3 Taylor 4,U.S. Senate,,Lucy Brenton,LBT,64
+Howard,0027 301,U.S. Senate,,Lucy Brenton,LBT,18
+Howard,0028 302,U.S. Senate,,Lucy Brenton,LBT,9
+Howard,0029 303,U.S. Senate,,Lucy Brenton,LBT,23
+Howard,0030 304,U.S. Senate,,Lucy Brenton,LBT,34
+Howard,0031 305,U.S. Senate,,Lucy Brenton,LBT,23
+Howard,0032 306,U.S. Senate,,Lucy Brenton,LBT,1
+Howard,0033 4 Taylor 1,U.S. Senate,,Lucy Brenton,LBT,42
+Howard,0034 401,U.S. Senate,,Lucy Brenton,LBT,43
+Howard,0035 402,U.S. Senate,,Lucy Brenton,LBT,29
+Howard,0036 403,U.S. Senate,,Lucy Brenton,LBT,53
+Howard,0037 404,U.S. Senate,,Lucy Brenton,LBT,27
+Howard,0038 405,U.S. Senate,,Lucy Brenton,LBT,37
+Howard,0039 406,U.S. Senate,,Lucy Brenton,LBT,48
+Howard,0040 5 Harrison 1,U.S. Senate,,Lucy Brenton,LBT,49
+Howard,0041 5 Harrison 2,U.S. Senate,,Lucy Brenton,LBT,41
+Howard,0042 5 Taylor 1,U.S. Senate,,Lucy Brenton,LBT,39
+Howard,0043 501,U.S. Senate,,Lucy Brenton,LBT,47
+Howard,0044 502,U.S. Senate,,Lucy Brenton,LBT,46
+Howard,0045 503,U.S. Senate,,Lucy Brenton,LBT,43
+Howard,0046 6 Harrison 1,U.S. Senate,,Lucy Brenton,LBT,32
+Howard,0047 6 Harrison 2,U.S. Senate,,Lucy Brenton,LBT,28
+Howard,0048 601,U.S. Senate,,Lucy Brenton,LBT,42
+Howard,0049 602,U.S. Senate,,Lucy Brenton,LBT,27
+Howard,0050 603,U.S. Senate,,Lucy Brenton,LBT,30
+Howard,0051 604,U.S. Senate,,Lucy Brenton,LBT,50
+Howard,0052 605,U.S. Senate,,Lucy Brenton,LBT,46
+Howard,0053 Center A,U.S. Senate,,Lucy Brenton,LBT,7
+Howard,0054 Center B,U.S. Senate,,Lucy Brenton,LBT,0
+Howard,0055 Center C,U.S. Senate,,Lucy Brenton,LBT,1
+Howard,0056 Clay A,U.S. Senate,,Lucy Brenton,LBT,43
+Howard,0057 Clay B,U.S. Senate,,Lucy Brenton,LBT,30
+Howard,0058 Clay C,U.S. Senate,,Lucy Brenton,LBT,35
+Howard,0059 Ervin A,U.S. Senate,,Lucy Brenton,LBT,24
+Howard,0060 Ervin B,U.S. Senate,,Lucy Brenton,LBT,36
+Howard,0061 Harrison A,U.S. Senate,,Lucy Brenton,LBT,49
+Howard,0062 Harrison B,U.S. Senate,,Lucy Brenton,LBT,51
+Howard,0063 Harrison C,U.S. Senate,,Lucy Brenton,LBT,29
+Howard,0064 Honey Creek A,U.S. Senate,,Lucy Brenton,LBT,34
+Howard,0065 Honey Creek B,U.S. Senate,,Lucy Brenton,LBT,42
+Howard,0066 Howard A,U.S. Senate,,Lucy Brenton,LBT,38
+Howard,0067 Howard B,U.S. Senate,,Lucy Brenton,LBT,44
+Howard,0068 Jackson,U.S. Senate,,Lucy Brenton,LBT,27
+Howard,0069 Liberty A,U.S. Senate,,Lucy Brenton,LBT,25
+Howard,0070 Liberty B,U.S. Senate,,Lucy Brenton,LBT,26
+Howard,0071 Liberty C,U.S. Senate,,Lucy Brenton,LBT,50
+Howard,0072 Liberty D,U.S. Senate,,Lucy Brenton,LBT,41
+Howard,0073 Monroe,U.S. Senate,,Lucy Brenton,LBT,42
+Howard,0074 Taylor A,U.S. Senate,,Lucy Brenton,LBT,48
+Howard,0075 Taylor B,U.S. Senate,,Lucy Brenton,LBT,25
+Howard,0076 Taylor C,U.S. Senate,,Lucy Brenton,LBT,10
+Howard,0077 Union,U.S. Senate,,Lucy Brenton,LBT,34
+Howard,,U.S. Senate,,Lucy Brenton,LBT,2377
+Howard,0001 1 Clay 1,U.S. Senate,,Write-ins,,0
+Howard,0002 2 Clay 2,U.S. Senate,,Write-ins,,0
+Howard,0003 1 Howard 1,U.S. Senate,,Write-ins,,0
+Howard,0004 101,U.S. Senate,,Write-ins,,1
+Howard,0005 102,U.S. Senate,,Write-ins,,1
+Howard,0006 103,U.S. Senate,,Write-ins,,1
+Howard,0007 104,U.S. Senate,,Write-ins,,2
+Howard,0008 105,U.S. Senate,,Write-ins,,0
+Howard,0009 106,U.S. Senate,,Write-ins,,0
+Howard,0010 107,U.S. Senate,,Write-ins,,0
+Howard,0011 108,U.S. Senate,,Write-ins,,0
+Howard,0012 109,U.S. Senate,,Write-ins,,0
+Howard,0013 110,U.S. Senate,,Write-ins,,0
+Howard,0014 201,U.S. Senate,,Write-ins,,0
+Howard,0015 202,U.S. Senate,,Write-ins,,0
+Howard,0016 203,U.S. Senate,,Write-ins,,0
+Howard,0017 204,U.S. Senate,,Write-ins,,1
+Howard,0018 205,U.S. Senate,,Write-ins,,0
+Howard,0019 206,U.S. Senate,,Write-ins,,0
+Howard,0020 207,U.S. Senate,,Write-ins,,0
+Howard,0021 3 Harrison 1,U.S. Senate,,Write-ins,,0
+Howard,0022 3 Howard 1,U.S. Senate,,Write-ins,,0
+Howard,0023 3 Taylor 1,U.S. Senate,,Write-ins,,0
+Howard,0024 3 Taylor 2,U.S. Senate,,Write-ins,,0
+Howard,0025 3 Taylor 3,U.S. Senate,,Write-ins,,0
+Howard,0026 3 Taylor 4,U.S. Senate,,Write-ins,,1
+Howard,0027 301,U.S. Senate,,Write-ins,,0
+Howard,0028 302,U.S. Senate,,Write-ins,,0
+Howard,0029 303,U.S. Senate,,Write-ins,,1
+Howard,0030 304,U.S. Senate,,Write-ins,,0
+Howard,0031 305,U.S. Senate,,Write-ins,,0
+Howard,0032 306,U.S. Senate,,Write-ins,,0
+Howard,0033 4 Taylor 1,U.S. Senate,,Write-ins,,1
+Howard,0034 401,U.S. Senate,,Write-ins,,0
+Howard,0035 402,U.S. Senate,,Write-ins,,1
+Howard,0036 403,U.S. Senate,,Write-ins,,1
+Howard,0037 404,U.S. Senate,,Write-ins,,1
+Howard,0038 405,U.S. Senate,,Write-ins,,1
+Howard,0039 406,U.S. Senate,,Write-ins,,1
+Howard,0040 5 Harrison 1,U.S. Senate,,Write-ins,,0
+Howard,0041 5 Harrison 2,U.S. Senate,,Write-ins,,2
+Howard,0042 5 Taylor 1,U.S. Senate,,Write-ins,,0
+Howard,0043 501,U.S. Senate,,Write-ins,,2
+Howard,0044 502,U.S. Senate,,Write-ins,,2
+Howard,0045 503,U.S. Senate,,Write-ins,,0
+Howard,0046 6 Harrison 1,U.S. Senate,,Write-ins,,0
+Howard,0047 6 Harrison 2,U.S. Senate,,Write-ins,,0
+Howard,0048 601,U.S. Senate,,Write-ins,,1
+Howard,0049 602,U.S. Senate,,Write-ins,,1
+Howard,0050 603,U.S. Senate,,Write-ins,,0
+Howard,0051 604,U.S. Senate,,Write-ins,,0
+Howard,0052 605,U.S. Senate,,Write-ins,,0
+Howard,0053 Center A,U.S. Senate,,Write-ins,,0
+Howard,0054 Center B,U.S. Senate,,Write-ins,,0
+Howard,0055 Center C,U.S. Senate,,Write-ins,,0
+Howard,0056 Clay A,U.S. Senate,,Write-ins,,0
+Howard,0057 Clay B,U.S. Senate,,Write-ins,,0
+Howard,0058 Clay C,U.S. Senate,,Write-ins,,0
+Howard,0059 Ervin A,U.S. Senate,,Write-ins,,0
+Howard,0060 Ervin B,U.S. Senate,,Write-ins,,0
+Howard,0061 Harrison A,U.S. Senate,,Write-ins,,2
+Howard,0062 Harrison B,U.S. Senate,,Write-ins,,0
+Howard,0063 Harrison C,U.S. Senate,,Write-ins,,0
+Howard,0064 Honey Creek A,U.S. Senate,,Write-ins,,0
+Howard,0065 Honey Creek B,U.S. Senate,,Write-ins,,1
+Howard,0066 Howard A,U.S. Senate,,Write-ins,,0
+Howard,0067 Howard B,U.S. Senate,,Write-ins,,1
+Howard,0068 Jackson,U.S. Senate,,Write-ins,,0
+Howard,0069 Liberty A,U.S. Senate,,Write-ins,,0
+Howard,0070 Liberty B,U.S. Senate,,Write-ins,,1
+Howard,0071 Liberty C,U.S. Senate,,Write-ins,,0
+Howard,0072 Liberty D,U.S. Senate,,Write-ins,,1
+Howard,0073 Monroe,U.S. Senate,,Write-ins,,1
+Howard,0074 Taylor A,U.S. Senate,,Write-ins,,0
+Howard,0075 Taylor B,U.S. Senate,,Write-ins,,0
+Howard,0076 Taylor C,U.S. Senate,,Write-ins,,0
+Howard,0077 Union,U.S. Senate,,Write-ins,,2
+Howard,,U.S. Senate,,Write-ins,,31
+Howard,0001 1 Clay 1,Governor,,Eric Holcomb,REP,22
+Howard,0002 2 Clay 2,Governor,,Eric Holcomb,REP,15
+Howard,0003 1 Howard 1,Governor,,Eric Holcomb,REP,2
+Howard,0004 101,Governor,,Eric Holcomb,REP,40
+Howard,0005 102,Governor,,Eric Holcomb,REP,223
+Howard,0006 103,Governor,,Eric Holcomb,REP,50
+Howard,0007 104,Governor,,Eric Holcomb,REP,228
+Howard,0008 105,Governor,,Eric Holcomb,REP,157
+Howard,0009 106,Governor,,Eric Holcomb,REP,13
+Howard,0010 107,Governor,,Eric Holcomb,REP,176
+Howard,0011 108,Governor,,Eric Holcomb,REP,30
+Howard,0012 109,Governor,,Eric Holcomb,REP,264
+Howard,0013 110,Governor,,Eric Holcomb,REP,289
+Howard,0014 201,Governor,,Eric Holcomb,REP,176
+Howard,0015 202,Governor,,Eric Holcomb,REP,55
+Howard,0016 203,Governor,,Eric Holcomb,REP,211
+Howard,0017 204,Governor,,Eric Holcomb,REP,242
+Howard,0018 205,Governor,,Eric Holcomb,REP,197
+Howard,0019 206,Governor,,Eric Holcomb,REP,137
+Howard,0020 207,Governor,,Eric Holcomb,REP,376
+Howard,0021 3 Harrison 1,Governor,,Eric Holcomb,REP,32
+Howard,0022 3 Howard 1,Governor,,Eric Holcomb,REP,20
+Howard,0023 3 Taylor 1,Governor,,Eric Holcomb,REP,204
+Howard,0024 3 Taylor 2,Governor,,Eric Holcomb,REP,77
+Howard,0025 3 Taylor 3,Governor,,Eric Holcomb,REP,440
+Howard,0026 3 Taylor 4,Governor,,Eric Holcomb,REP,375
+Howard,0027 301,Governor,,Eric Holcomb,REP,70
+Howard,0028 302,Governor,,Eric Holcomb,REP,76
+Howard,0029 303,Governor,,Eric Holcomb,REP,77
+Howard,0030 304,Governor,,Eric Holcomb,REP,212
+Howard,0031 305,Governor,,Eric Holcomb,REP,173
+Howard,0032 306,Governor,,Eric Holcomb,REP,8
+Howard,0033 4 Taylor 1,Governor,,Eric Holcomb,REP,340
+Howard,0034 401,Governor,,Eric Holcomb,REP,315
+Howard,0035 402,Governor,,Eric Holcomb,REP,201
+Howard,0036 403,Governor,,Eric Holcomb,REP,282
+Howard,0037 404,Governor,,Eric Holcomb,REP,166
+Howard,0038 405,Governor,,Eric Holcomb,REP,202
+Howard,0039 406,Governor,,Eric Holcomb,REP,354
+Howard,0040 5 Harrison 1,Governor,,Eric Holcomb,REP,276
+Howard,0041 5 Harrison 2,Governor,,Eric Holcomb,REP,391
+Howard,0042 5 Taylor 1,Governor,,Eric Holcomb,REP,385
+Howard,0043 501,Governor,,Eric Holcomb,REP,452
+Howard,0044 502,Governor,,Eric Holcomb,REP,369
+Howard,0045 503,Governor,,Eric Holcomb,REP,370
+Howard,0046 6 Harrison 1,Governor,,Eric Holcomb,REP,286
+Howard,0047 6 Harrison 2,Governor,,Eric Holcomb,REP,595
+Howard,0048 601,Governor,,Eric Holcomb,REP,469
+Howard,0049 602,Governor,,Eric Holcomb,REP,301
+Howard,0050 603,Governor,,Eric Holcomb,REP,441
+Howard,0051 604,Governor,,Eric Holcomb,REP,473
+Howard,0052 605,Governor,,Eric Holcomb,REP,357
+Howard,0053 Center A,Governor,,Eric Holcomb,REP,102
+Howard,0054 Center B,Governor,,Eric Holcomb,REP,12
+Howard,0055 Center C,Governor,,Eric Holcomb,REP,41
+Howard,0056 Clay A,Governor,,Eric Holcomb,REP,422
+Howard,0057 Clay B,Governor,,Eric Holcomb,REP,376
+Howard,0058 Clay C,Governor,,Eric Holcomb,REP,473
+Howard,0059 Ervin A,Governor,,Eric Holcomb,REP,288
+Howard,0060 Ervin B,Governor,,Eric Holcomb,REP,511
+Howard,0061 Harrison A,Governor,,Eric Holcomb,REP,468
+Howard,0062 Harrison B,Governor,,Eric Holcomb,REP,442
+Howard,0063 Harrison C,Governor,,Eric Holcomb,REP,360
+Howard,0064 Honey Creek A,Governor,,Eric Holcomb,REP,334
+Howard,0065 Honey Creek B,Governor,,Eric Holcomb,REP,343
+Howard,0066 Howard A,Governor,,Eric Holcomb,REP,336
+Howard,0067 Howard B,Governor,,Eric Holcomb,REP,429
+Howard,0068 Jackson,Governor,,Eric Holcomb,REP,172
+Howard,0069 Liberty A,Governor,,Eric Holcomb,REP,416
+Howard,0070 Liberty B,Governor,,Eric Holcomb,REP,254
+Howard,0071 Liberty C,Governor,,Eric Holcomb,REP,526
+Howard,0072 Liberty D,Governor,,Eric Holcomb,REP,446
+Howard,0073 Monroe,Governor,,Eric Holcomb,REP,424
+Howard,0074 Taylor A,Governor,,Eric Holcomb,REP,373
+Howard,0075 Taylor B,Governor,,Eric Holcomb,REP,189
+Howard,0076 Taylor C,Governor,,Eric Holcomb,REP,85
+Howard,0077 Union,Governor,,Eric Holcomb,REP,389
+Howard,,Governor,,Eric Holcomb,REP,19903
+Howard,0001 1 Clay 1,Governor,,John Gregg,DEM,22
+Howard,0002 2 Clay 2,Governor,,John Gregg,DEM,12
+Howard,0003 1 Howard 1,Governor,,John Gregg,DEM,0
+Howard,0004 101,Governor,,John Gregg,DEM,60
+Howard,0005 102,Governor,,John Gregg,DEM,230
+Howard,0006 103,Governor,,John Gregg,DEM,64
+Howard,0007 104,Governor,,John Gregg,DEM,279
+Howard,0008 105,Governor,,John Gregg,DEM,215
+Howard,0009 106,Governor,,John Gregg,DEM,15
+Howard,0010 107,Governor,,John Gregg,DEM,192
+Howard,0011 108,Governor,,John Gregg,DEM,27
+Howard,0012 109,Governor,,John Gregg,DEM,290
+Howard,0013 110,Governor,,John Gregg,DEM,297
+Howard,0014 201,Governor,,John Gregg,DEM,235
+Howard,0015 202,Governor,,John Gregg,DEM,297
+Howard,0016 203,Governor,,John Gregg,DEM,194
+Howard,0017 204,Governor,,John Gregg,DEM,255
+Howard,0018 205,Governor,,John Gregg,DEM,196
+Howard,0019 206,Governor,,John Gregg,DEM,182
+Howard,0020 207,Governor,,John Gregg,DEM,338
+Howard,0021 3 Harrison 1,Governor,,John Gregg,DEM,33
+Howard,0022 3 Howard 1,Governor,,John Gregg,DEM,9
+Howard,0023 3 Taylor 1,Governor,,John Gregg,DEM,148
+Howard,0024 3 Taylor 2,Governor,,John Gregg,DEM,41
+Howard,0025 3 Taylor 3,Governor,,John Gregg,DEM,306
+Howard,0026 3 Taylor 4,Governor,,John Gregg,DEM,330
+Howard,0027 301,Governor,,John Gregg,DEM,312
+Howard,0028 302,Governor,,John Gregg,DEM,93
+Howard,0029 303,Governor,,John Gregg,DEM,206
+Howard,0030 304,Governor,,John Gregg,DEM,221
+Howard,0031 305,Governor,,John Gregg,DEM,174
+Howard,0032 306,Governor,,John Gregg,DEM,5
+Howard,0033 4 Taylor 1,Governor,,John Gregg,DEM,280
+Howard,0034 401,Governor,,John Gregg,DEM,282
+Howard,0035 402,Governor,,John Gregg,DEM,235
+Howard,0036 403,Governor,,John Gregg,DEM,250
+Howard,0037 404,Governor,,John Gregg,DEM,179
+Howard,0038 405,Governor,,John Gregg,DEM,267
+Howard,0039 406,Governor,,John Gregg,DEM,364
+Howard,0040 5 Harrison 1,Governor,,John Gregg,DEM,317
+Howard,0041 5 Harrison 2,Governor,,John Gregg,DEM,279
+Howard,0042 5 Taylor 1,Governor,,John Gregg,DEM,301
+Howard,0043 501,Governor,,John Gregg,DEM,386
+Howard,0044 502,Governor,,John Gregg,DEM,372
+Howard,0045 503,Governor,,John Gregg,DEM,326
+Howard,0046 6 Harrison 1,Governor,,John Gregg,DEM,163
+Howard,0047 6 Harrison 2,Governor,,John Gregg,DEM,330
+Howard,0048 601,Governor,,John Gregg,DEM,276
+Howard,0049 602,Governor,,John Gregg,DEM,286
+Howard,0050 603,Governor,,John Gregg,DEM,325
+Howard,0051 604,Governor,,John Gregg,DEM,382
+Howard,0052 605,Governor,,John Gregg,DEM,321
+Howard,0053 Center A,Governor,,John Gregg,DEM,62
+Howard,0054 Center B,Governor,,John Gregg,DEM,13
+Howard,0055 Center C,Governor,,John Gregg,DEM,54
+Howard,0056 Clay A,Governor,,John Gregg,DEM,261
+Howard,0057 Clay B,Governor,,John Gregg,DEM,239
+Howard,0058 Clay C,Governor,,John Gregg,DEM,307
+Howard,0059 Ervin A,Governor,,John Gregg,DEM,128
+Howard,0060 Ervin B,Governor,,John Gregg,DEM,256
+Howard,0061 Harrison A,Governor,,John Gregg,DEM,229
+Howard,0062 Harrison B,Governor,,John Gregg,DEM,272
+Howard,0063 Harrison C,Governor,,John Gregg,DEM,201
+Howard,0064 Honey Creek A,Governor,,John Gregg,DEM,214
+Howard,0065 Honey Creek B,Governor,,John Gregg,DEM,194
+Howard,0066 Howard A,Governor,,John Gregg,DEM,179
+Howard,0067 Howard B,Governor,,John Gregg,DEM,254
+Howard,0068 Jackson,Governor,,John Gregg,DEM,101
+Howard,0069 Liberty A,Governor,,John Gregg,DEM,180
+Howard,0070 Liberty B,Governor,,John Gregg,DEM,150
+Howard,0071 Liberty C,Governor,,John Gregg,DEM,262
+Howard,0072 Liberty D,Governor,,John Gregg,DEM,224
+Howard,0073 Monroe,Governor,,John Gregg,DEM,273
+Howard,0074 Taylor A,Governor,,John Gregg,DEM,227
+Howard,0075 Taylor B,Governor,,John Gregg,DEM,136
+Howard,0076 Taylor C,Governor,,John Gregg,DEM,44
+Howard,0077 Union,Governor,,John Gregg,DEM,155
+Howard,,Governor,,John Gregg,DEM,15814
+Howard,0001 1 Clay 1,Governor,,Rex Bell,LBT,1
+Howard,0002 2 Clay 2,Governor,,Rex Bell,LBT,2
+Howard,0003 1 Howard 1,Governor,,Rex Bell,LBT,0
+Howard,0004 101,Governor,,Rex Bell,LBT,7
+Howard,0005 102,Governor,,Rex Bell,LBT,15
+Howard,0006 103,Governor,,Rex Bell,LBT,10
+Howard,0007 104,Governor,,Rex Bell,LBT,21
+Howard,0008 105,Governor,,Rex Bell,LBT,25
+Howard,0009 106,Governor,,Rex Bell,LBT,0
+Howard,0010 107,Governor,,Rex Bell,LBT,13
+Howard,0011 108,Governor,,Rex Bell,LBT,3
+Howard,0012 109,Governor,,Rex Bell,LBT,16
+Howard,0013 110,Governor,,Rex Bell,LBT,24
+Howard,0014 201,Governor,,Rex Bell,LBT,22
+Howard,0015 202,Governor,,Rex Bell,LBT,15
+Howard,0016 203,Governor,,Rex Bell,LBT,19
+Howard,0017 204,Governor,,Rex Bell,LBT,23
+Howard,0018 205,Governor,,Rex Bell,LBT,18
+Howard,0019 206,Governor,,Rex Bell,LBT,24
+Howard,0020 207,Governor,,Rex Bell,LBT,23
+Howard,0021 3 Harrison 1,Governor,,Rex Bell,LBT,4
+Howard,0022 3 Howard 1,Governor,,Rex Bell,LBT,0
+Howard,0023 3 Taylor 1,Governor,,Rex Bell,LBT,5
+Howard,0024 3 Taylor 2,Governor,,Rex Bell,LBT,7
+Howard,0025 3 Taylor 3,Governor,,Rex Bell,LBT,21
+Howard,0026 3 Taylor 4,Governor,,Rex Bell,LBT,35
+Howard,0027 301,Governor,,Rex Bell,LBT,12
+Howard,0028 302,Governor,,Rex Bell,LBT,6
+Howard,0029 303,Governor,,Rex Bell,LBT,14
+Howard,0030 304,Governor,,Rex Bell,LBT,16
+Howard,0031 305,Governor,,Rex Bell,LBT,12
+Howard,0032 306,Governor,,Rex Bell,LBT,0
+Howard,0033 4 Taylor 1,Governor,,Rex Bell,LBT,16
+Howard,0034 401,Governor,,Rex Bell,LBT,24
+Howard,0035 402,Governor,,Rex Bell,LBT,28
+Howard,0036 403,Governor,,Rex Bell,LBT,31
+Howard,0037 404,Governor,,Rex Bell,LBT,15
+Howard,0038 405,Governor,,Rex Bell,LBT,19
+Howard,0039 406,Governor,,Rex Bell,LBT,24
+Howard,0040 5 Harrison 1,Governor,,Rex Bell,LBT,27
+Howard,0041 5 Harrison 2,Governor,,Rex Bell,LBT,17
+Howard,0042 5 Taylor 1,Governor,,Rex Bell,LBT,21
+Howard,0043 501,Governor,,Rex Bell,LBT,31
+Howard,0044 502,Governor,,Rex Bell,LBT,20
+Howard,0045 503,Governor,,Rex Bell,LBT,19
+Howard,0046 6 Harrison 1,Governor,,Rex Bell,LBT,22
+Howard,0047 6 Harrison 2,Governor,,Rex Bell,LBT,19
+Howard,0048 601,Governor,,Rex Bell,LBT,18
+Howard,0049 602,Governor,,Rex Bell,LBT,20
+Howard,0050 603,Governor,,Rex Bell,LBT,16
+Howard,0051 604,Governor,,Rex Bell,LBT,30
+Howard,0052 605,Governor,,Rex Bell,LBT,33
+Howard,0053 Center A,Governor,,Rex Bell,LBT,1
+Howard,0054 Center B,Governor,,Rex Bell,LBT,0
+Howard,0055 Center C,Governor,,Rex Bell,LBT,4
+Howard,0056 Clay A,Governor,,Rex Bell,LBT,17
+Howard,0057 Clay B,Governor,,Rex Bell,LBT,17
+Howard,0058 Clay C,Governor,,Rex Bell,LBT,18
+Howard,0059 Ervin A,Governor,,Rex Bell,LBT,18
+Howard,0060 Ervin B,Governor,,Rex Bell,LBT,20
+Howard,0061 Harrison A,Governor,,Rex Bell,LBT,32
+Howard,0062 Harrison B,Governor,,Rex Bell,LBT,22
+Howard,0063 Harrison C,Governor,,Rex Bell,LBT,16
+Howard,0064 Honey Creek A,Governor,,Rex Bell,LBT,15
+Howard,0065 Honey Creek B,Governor,,Rex Bell,LBT,24
+Howard,0066 Howard A,Governor,,Rex Bell,LBT,14
+Howard,0067 Howard B,Governor,,Rex Bell,LBT,30
+Howard,0068 Jackson,Governor,,Rex Bell,LBT,8
+Howard,0069 Liberty A,Governor,,Rex Bell,LBT,19
+Howard,0070 Liberty B,Governor,,Rex Bell,LBT,15
+Howard,0071 Liberty C,Governor,,Rex Bell,LBT,24
+Howard,0072 Liberty D,Governor,,Rex Bell,LBT,26
+Howard,0073 Monroe,Governor,,Rex Bell,LBT,22
+Howard,0074 Taylor A,Governor,,Rex Bell,LBT,29
+Howard,0075 Taylor B,Governor,,Rex Bell,LBT,13
+Howard,0076 Taylor C,Governor,,Rex Bell,LBT,6
+Howard,0077 Union,Governor,,Rex Bell,LBT,18
+Howard,,Governor,,Rex Bell,LBT,1291
+Howard,0001 1 Clay 1,Attorney General,,Curtis Hill,REP,31
+Howard,0002 2 Clay 2,Attorney General,,Curtis Hill,REP,24
+Howard,0003 1 Howard 1,Attorney General,,Curtis Hill,REP,2
+Howard,0004 101,Attorney General,,Curtis Hill,REP,50
+Howard,0005 102,Attorney General,,Curtis Hill,REP,272
+Howard,0006 103,Attorney General,,Curtis Hill,REP,66
+Howard,0007 104,Attorney General,,Curtis Hill,REP,300
+Howard,0008 105,Attorney General,,Curtis Hill,REP,201
+Howard,0009 106,Attorney General,,Curtis Hill,REP,19
+Howard,0010 107,Attorney General,,Curtis Hill,REP,216
+Howard,0011 108,Attorney General,,Curtis Hill,REP,35
+Howard,0012 109,Attorney General,,Curtis Hill,REP,344
+Howard,0013 110,Attorney General,,Curtis Hill,REP,353
+Howard,0014 201,Attorney General,,Curtis Hill,REP,213
+Howard,0015 202,Attorney General,,Curtis Hill,REP,74
+Howard,0016 203,Attorney General,,Curtis Hill,REP,242
+Howard,0017 204,Attorney General,,Curtis Hill,REP,290
+Howard,0018 205,Attorney General,,Curtis Hill,REP,242
+Howard,0019 206,Attorney General,,Curtis Hill,REP,155
+Howard,0020 207,Attorney General,,Curtis Hill,REP,462
+Howard,0021 3 Harrison 1,Attorney General,,Curtis Hill,REP,46
+Howard,0022 3 Howard 1,Attorney General,,Curtis Hill,REP,23
+Howard,0023 3 Taylor 1,Attorney General,,Curtis Hill,REP,248
+Howard,0024 3 Taylor 2,Attorney General,,Curtis Hill,REP,93
+Howard,0025 3 Taylor 3,Attorney General,,Curtis Hill,REP,510
+Howard,0026 3 Taylor 4,Attorney General,,Curtis Hill,REP,450
+Howard,0027 301,Attorney General,,Curtis Hill,REP,103
+Howard,0028 302,Attorney General,,Curtis Hill,REP,89
+Howard,0029 303,Attorney General,,Curtis Hill,REP,103
+Howard,0030 304,Attorney General,,Curtis Hill,REP,250
+Howard,0031 305,Attorney General,,Curtis Hill,REP,205
+Howard,0032 306,Attorney General,,Curtis Hill,REP,9
+Howard,0033 4 Taylor 1,Attorney General,,Curtis Hill,REP,431
+Howard,0034 401,Attorney General,,Curtis Hill,REP,362
+Howard,0035 402,Attorney General,,Curtis Hill,REP,261
+Howard,0036 403,Attorney General,,Curtis Hill,REP,331
+Howard,0037 404,Attorney General,,Curtis Hill,REP,201
+Howard,0038 405,Attorney General,,Curtis Hill,REP,260
+Howard,0039 406,Attorney General,,Curtis Hill,REP,455
+Howard,0040 5 Harrison 1,Attorney General,,Curtis Hill,REP,333
+Howard,0041 5 Harrison 2,Attorney General,,Curtis Hill,REP,470
+Howard,0042 5 Taylor 1,Attorney General,,Curtis Hill,REP,469
+Howard,0043 501,Attorney General,,Curtis Hill,REP,550
+Howard,0044 502,Attorney General,,Curtis Hill,REP,454
+Howard,0045 503,Attorney General,,Curtis Hill,REP,433
+Howard,0046 6 Harrison 1,Attorney General,,Curtis Hill,REP,337
+Howard,0047 6 Harrison 2,Attorney General,,Curtis Hill,REP,686
+Howard,0048 601,Attorney General,,Curtis Hill,REP,540
+Howard,0049 602,Attorney General,,Curtis Hill,REP,362
+Howard,0050 603,Attorney General,,Curtis Hill,REP,511
+Howard,0051 604,Attorney General,,Curtis Hill,REP,582
+Howard,0052 605,Attorney General,,Curtis Hill,REP,436
+Howard,0053 Center A,Attorney General,,Curtis Hill,REP,120
+Howard,0054 Center B,Attorney General,,Curtis Hill,REP,18
+Howard,0055 Center C,Attorney General,,Curtis Hill,REP,57
+Howard,0056 Clay A,Attorney General,,Curtis Hill,REP,518
+Howard,0057 Clay B,Attorney General,,Curtis Hill,REP,463
+Howard,0058 Clay C,Attorney General,,Curtis Hill,REP,582
+Howard,0059 Ervin A,Attorney General,,Curtis Hill,REP,349
+Howard,0060 Ervin B,Attorney General,,Curtis Hill,REP,594
+Howard,0061 Harrison A,Attorney General,,Curtis Hill,REP,557
+Howard,0062 Harrison B,Attorney General,,Curtis Hill,REP,548
+Howard,0063 Harrison C,Attorney General,,Curtis Hill,REP,426
+Howard,0064 Honey Creek A,Attorney General,,Curtis Hill,REP,428
+Howard,0065 Honey Creek B,Attorney General,,Curtis Hill,REP,425
+Howard,0066 Howard A,Attorney General,,Curtis Hill,REP,393
+Howard,0067 Howard B,Attorney General,,Curtis Hill,REP,512
+Howard,0068 Jackson,Attorney General,,Curtis Hill,REP,214
+Howard,0069 Liberty A,Attorney General,,Curtis Hill,REP,476
+Howard,0070 Liberty B,Attorney General,,Curtis Hill,REP,305
+Howard,0071 Liberty C,Attorney General,,Curtis Hill,REP,634
+Howard,0072 Liberty D,Attorney General,,Curtis Hill,REP,536
+Howard,0073 Monroe,Attorney General,,Curtis Hill,REP,520
+Howard,0074 Taylor A,Attorney General,,Curtis Hill,REP,463
+Howard,0075 Taylor B,Attorney General,,Curtis Hill,REP,229
+Howard,0076 Taylor C,Attorney General,,Curtis Hill,REP,105
+Howard,0077 Union,Attorney General,,Curtis Hill,REP,453
+Howard,,Attorney General,,Curtis Hill,REP,24109
+Howard,0001 1 Clay 1,Attorney General,,Lorenzo Arredondo,DEM,13
+Howard,0002 2 Clay 2,Attorney General,,Lorenzo Arredondo,DEM,6
+Howard,0003 1 Howard 1,Attorney General,,Lorenzo Arredondo,DEM,0
+Howard,0004 101,Attorney General,,Lorenzo Arredondo,DEM,54
+Howard,0005 102,Attorney General,,Lorenzo Arredondo,DEM,181
+Howard,0006 103,Attorney General,,Lorenzo Arredondo,DEM,54
+Howard,0007 104,Attorney General,,Lorenzo Arredondo,DEM,210
+Howard,0008 105,Attorney General,,Lorenzo Arredondo,DEM,180
+Howard,0009 106,Attorney General,,Lorenzo Arredondo,DEM,9
+Howard,0010 107,Attorney General,,Lorenzo Arredondo,DEM,156
+Howard,0011 108,Attorney General,,Lorenzo Arredondo,DEM,25
+Howard,0012 109,Attorney General,,Lorenzo Arredondo,DEM,208
+Howard,0013 110,Attorney General,,Lorenzo Arredondo,DEM,240
+Howard,0014 201,Attorney General,,Lorenzo Arredondo,DEM,203
+Howard,0015 202,Attorney General,,Lorenzo Arredondo,DEM,285
+Howard,0016 203,Attorney General,,Lorenzo Arredondo,DEM,167
+Howard,0017 204,Attorney General,,Lorenzo Arredondo,DEM,209
+Howard,0018 205,Attorney General,,Lorenzo Arredondo,DEM,159
+Howard,0019 206,Attorney General,,Lorenzo Arredondo,DEM,171
+Howard,0020 207,Attorney General,,Lorenzo Arredondo,DEM,260
+Howard,0021 3 Harrison 1,Attorney General,,Lorenzo Arredondo,DEM,19
+Howard,0022 3 Howard 1,Attorney General,,Lorenzo Arredondo,DEM,5
+Howard,0023 3 Taylor 1,Attorney General,,Lorenzo Arredondo,DEM,99
+Howard,0024 3 Taylor 2,Attorney General,,Lorenzo Arredondo,DEM,33
+Howard,0025 3 Taylor 3,Attorney General,,Lorenzo Arredondo,DEM,241
+Howard,0026 3 Taylor 4,Attorney General,,Lorenzo Arredondo,DEM,272
+Howard,0027 301,Attorney General,,Lorenzo Arredondo,DEM,286
+Howard,0028 302,Attorney General,,Lorenzo Arredondo,DEM,82
+Howard,0029 303,Attorney General,,Lorenzo Arredondo,DEM,191
+Howard,0030 304,Attorney General,,Lorenzo Arredondo,DEM,183
+Howard,0031 305,Attorney General,,Lorenzo Arredondo,DEM,146
+Howard,0032 306,Attorney General,,Lorenzo Arredondo,DEM,4
+Howard,0033 4 Taylor 1,Attorney General,,Lorenzo Arredondo,DEM,192
+Howard,0034 401,Attorney General,,Lorenzo Arredondo,DEM,243
+Howard,0035 402,Attorney General,,Lorenzo Arredondo,DEM,192
+Howard,0036 403,Attorney General,,Lorenzo Arredondo,DEM,220
+Howard,0037 404,Attorney General,,Lorenzo Arredondo,DEM,147
+Howard,0038 405,Attorney General,,Lorenzo Arredondo,DEM,217
+Howard,0039 406,Attorney General,,Lorenzo Arredondo,DEM,263
+Howard,0040 5 Harrison 1,Attorney General,,Lorenzo Arredondo,DEM,272
+Howard,0041 5 Harrison 2,Attorney General,,Lorenzo Arredondo,DEM,199
+Howard,0042 5 Taylor 1,Attorney General,,Lorenzo Arredondo,DEM,212
+Howard,0043 501,Attorney General,,Lorenzo Arredondo,DEM,284
+Howard,0044 502,Attorney General,,Lorenzo Arredondo,DEM,281
+Howard,0045 503,Attorney General,,Lorenzo Arredondo,DEM,265
+Howard,0046 6 Harrison 1,Attorney General,,Lorenzo Arredondo,DEM,117
+Howard,0047 6 Harrison 2,Attorney General,,Lorenzo Arredondo,DEM,222
+Howard,0048 601,Attorney General,,Lorenzo Arredondo,DEM,198
+Howard,0049 602,Attorney General,,Lorenzo Arredondo,DEM,224
+Howard,0050 603,Attorney General,,Lorenzo Arredondo,DEM,251
+Howard,0051 604,Attorney General,,Lorenzo Arredondo,DEM,288
+Howard,0052 605,Attorney General,,Lorenzo Arredondo,DEM,256
+Howard,0053 Center A,Attorney General,,Lorenzo Arredondo,DEM,35
+Howard,0054 Center B,Attorney General,,Lorenzo Arredondo,DEM,7
+Howard,0055 Center C,Attorney General,,Lorenzo Arredondo,DEM,41
+Howard,0056 Clay A,Attorney General,,Lorenzo Arredondo,DEM,159
+Howard,0057 Clay B,Attorney General,,Lorenzo Arredondo,DEM,150
+Howard,0058 Clay C,Attorney General,,Lorenzo Arredondo,DEM,192
+Howard,0059 Ervin A,Attorney General,,Lorenzo Arredondo,DEM,77
+Howard,0060 Ervin B,Attorney General,,Lorenzo Arredondo,DEM,173
+Howard,0061 Harrison A,Attorney General,,Lorenzo Arredondo,DEM,151
+Howard,0062 Harrison B,Attorney General,,Lorenzo Arredondo,DEM,165
+Howard,0063 Harrison C,Attorney General,,Lorenzo Arredondo,DEM,130
+Howard,0064 Honey Creek A,Attorney General,,Lorenzo Arredondo,DEM,114
+Howard,0065 Honey Creek B,Attorney General,,Lorenzo Arredondo,DEM,125
+Howard,0066 Howard A,Attorney General,,Lorenzo Arredondo,DEM,120
+Howard,0067 Howard B,Attorney General,,Lorenzo Arredondo,DEM,178
+Howard,0068 Jackson,Attorney General,,Lorenzo Arredondo,DEM,56
+Howard,0069 Liberty A,Attorney General,,Lorenzo Arredondo,DEM,109
+Howard,0070 Liberty B,Attorney General,,Lorenzo Arredondo,DEM,106
+Howard,0071 Liberty C,Attorney General,,Lorenzo Arredondo,DEM,159
+Howard,0072 Liberty D,Attorney General,,Lorenzo Arredondo,DEM,140
+Howard,0073 Monroe,Attorney General,,Lorenzo Arredondo,DEM,181
+Howard,0074 Taylor A,Attorney General,,Lorenzo Arredondo,DEM,149
+Howard,0075 Taylor B,Attorney General,,Lorenzo Arredondo,DEM,100
+Howard,0076 Taylor C,Attorney General,,Lorenzo Arredondo,DEM,28
+Howard,0077 Union,Attorney General,,Lorenzo Arredondo,DEM,98
+Howard,,Attorney General,,Lorenzo Arredondo,DEM,11837
+Howard,0001 1 Clay 1,Public Instruction,,Jennifer McCormick,REP,22
+Howard,0002 2 Clay 2,Public Instruction,,Jennifer McCormick,REP,17
+Howard,0003 1 Howard 1,Public Instruction,,Jennifer McCormick,REP,2
+Howard,0004 101,Public Instruction,,Jennifer McCormick,REP,53
+Howard,0005 102,Public Instruction,,Jennifer McCormick,REP,223
+Howard,0006 103,Public Instruction,,Jennifer McCormick,REP,52
+Howard,0007 104,Public Instruction,,Jennifer McCormick,REP,248
+Howard,0008 105,Public Instruction,,Jennifer McCormick,REP,173
+Howard,0009 106,Public Instruction,,Jennifer McCormick,REP,15
+Howard,0010 107,Public Instruction,,Jennifer McCormick,REP,177
+Howard,0011 108,Public Instruction,,Jennifer McCormick,REP,26
+Howard,0012 109,Public Instruction,,Jennifer McCormick,REP,265
+Howard,0013 110,Public Instruction,,Jennifer McCormick,REP,296
+Howard,0014 201,Public Instruction,,Jennifer McCormick,REP,176
+Howard,0015 202,Public Instruction,,Jennifer McCormick,REP,69
+Howard,0016 203,Public Instruction,,Jennifer McCormick,REP,220
+Howard,0017 204,Public Instruction,,Jennifer McCormick,REP,232
+Howard,0018 205,Public Instruction,,Jennifer McCormick,REP,220
+Howard,0019 206,Public Instruction,,Jennifer McCormick,REP,141
+Howard,0020 207,Public Instruction,,Jennifer McCormick,REP,347
+Howard,0021 3 Harrison 1,Public Instruction,,Jennifer McCormick,REP,33
+Howard,0022 3 Howard 1,Public Instruction,,Jennifer McCormick,REP,19
+Howard,0023 3 Taylor 1,Public Instruction,,Jennifer McCormick,REP,193
+Howard,0024 3 Taylor 2,Public Instruction,,Jennifer McCormick,REP,82
+Howard,0025 3 Taylor 3,Public Instruction,,Jennifer McCormick,REP,441
+Howard,0026 3 Taylor 4,Public Instruction,,Jennifer McCormick,REP,377
+Howard,0027 301,Public Instruction,,Jennifer McCormick,REP,78
+Howard,0028 302,Public Instruction,,Jennifer McCormick,REP,68
+Howard,0029 303,Public Instruction,,Jennifer McCormick,REP,80
+Howard,0030 304,Public Instruction,,Jennifer McCormick,REP,204
+Howard,0031 305,Public Instruction,,Jennifer McCormick,REP,186
+Howard,0032 306,Public Instruction,,Jennifer McCormick,REP,8
+Howard,0033 4 Taylor 1,Public Instruction,,Jennifer McCormick,REP,338
+Howard,0034 401,Public Instruction,,Jennifer McCormick,REP,317
+Howard,0035 402,Public Instruction,,Jennifer McCormick,REP,219
+Howard,0036 403,Public Instruction,,Jennifer McCormick,REP,284
+Howard,0037 404,Public Instruction,,Jennifer McCormick,REP,163
+Howard,0038 405,Public Instruction,,Jennifer McCormick,REP,207
+Howard,0039 406,Public Instruction,,Jennifer McCormick,REP,358
+Howard,0040 5 Harrison 1,Public Instruction,,Jennifer McCormick,REP,295
+Howard,0041 5 Harrison 2,Public Instruction,,Jennifer McCormick,REP,389
+Howard,0042 5 Taylor 1,Public Instruction,,Jennifer McCormick,REP,378
+Howard,0043 501,Public Instruction,,Jennifer McCormick,REP,445
+Howard,0044 502,Public Instruction,,Jennifer McCormick,REP,354
+Howard,0045 503,Public Instruction,,Jennifer McCormick,REP,368
+Howard,0046 6 Harrison 1,Public Instruction,,Jennifer McCormick,REP,276
+Howard,0047 6 Harrison 2,Public Instruction,,Jennifer McCormick,REP,567
+Howard,0048 601,Public Instruction,,Jennifer McCormick,REP,432
+Howard,0049 602,Public Instruction,,Jennifer McCormick,REP,306
+Howard,0050 603,Public Instruction,,Jennifer McCormick,REP,427
+Howard,0051 604,Public Instruction,,Jennifer McCormick,REP,461
+Howard,0052 605,Public Instruction,,Jennifer McCormick,REP,347
+Howard,0053 Center A,Public Instruction,,Jennifer McCormick,REP,92
+Howard,0054 Center B,Public Instruction,,Jennifer McCormick,REP,12
+Howard,0055 Center C,Public Instruction,,Jennifer McCormick,REP,49
+Howard,0056 Clay A,Public Instruction,,Jennifer McCormick,REP,413
+Howard,0057 Clay B,Public Instruction,,Jennifer McCormick,REP,363
+Howard,0058 Clay C,Public Instruction,,Jennifer McCormick,REP,456
+Howard,0059 Ervin A,Public Instruction,,Jennifer McCormick,REP,287
+Howard,0060 Ervin B,Public Instruction,,Jennifer McCormick,REP,492
+Howard,0061 Harrison A,Public Instruction,,Jennifer McCormick,REP,459
+Howard,0062 Harrison B,Public Instruction,,Jennifer McCormick,REP,454
+Howard,0063 Harrison C,Public Instruction,,Jennifer McCormick,REP,345
+Howard,0064 Honey Creek A,Public Instruction,,Jennifer McCormick,REP,340
+Howard,0065 Honey Creek B,Public Instruction,,Jennifer McCormick,REP,340
+Howard,0066 Howard A,Public Instruction,,Jennifer McCormick,REP,336
+Howard,0067 Howard B,Public Instruction,,Jennifer McCormick,REP,430
+Howard,0068 Jackson,Public Instruction,,Jennifer McCormick,REP,156
+Howard,0069 Liberty A,Public Instruction,,Jennifer McCormick,REP,382
+Howard,0070 Liberty B,Public Instruction,,Jennifer McCormick,REP,255
+Howard,0071 Liberty C,Public Instruction,,Jennifer McCormick,REP,485
+Howard,0072 Liberty D,Public Instruction,,Jennifer McCormick,REP,424
+Howard,0073 Monroe,Public Instruction,,Jennifer McCormick,REP,409
+Howard,0074 Taylor A,Public Instruction,,Jennifer McCormick,REP,375
+Howard,0075 Taylor B,Public Instruction,,Jennifer McCormick,REP,202
+Howard,0076 Taylor C,Public Instruction,,Jennifer McCormick,REP,77
+Howard,0077 Union,Public Instruction,,Jennifer McCormick,REP,368
+Howard,,Public Instruction,,Jennifer McCormick,REP,19675
+Howard,0001 1 Clay 1,Public Instruction,,Glenda Ritz,DEM,22
+Howard,0002 2 Clay 2,Public Instruction,,Glenda Ritz,DEM,13
+Howard,0003 1 Howard 1,Public Instruction,,Glenda Ritz,DEM,0
+Howard,0004 101,Public Instruction,,Glenda Ritz,DEM,52
+Howard,0005 102,Public Instruction,,Glenda Ritz,DEM,234
+Howard,0006 103,Public Instruction,,Glenda Ritz,DEM,68
+Howard,0007 104,Public Instruction,,Glenda Ritz,DEM,268
+Howard,0008 105,Public Instruction,,Glenda Ritz,DEM,214
+Howard,0009 106,Public Instruction,,Glenda Ritz,DEM,13
+Howard,0010 107,Public Instruction,,Glenda Ritz,DEM,199
+Howard,0011 108,Public Instruction,,Glenda Ritz,DEM,32
+Howard,0012 109,Public Instruction,,Glenda Ritz,DEM,294
+Howard,0013 110,Public Instruction,,Glenda Ritz,DEM,307
+Howard,0014 201,Public Instruction,,Glenda Ritz,DEM,245
+Howard,0015 202,Public Instruction,,Glenda Ritz,DEM,293
+Howard,0016 203,Public Instruction,,Glenda Ritz,DEM,199
+Howard,0017 204,Public Instruction,,Glenda Ritz,DEM,276
+Howard,0018 205,Public Instruction,,Glenda Ritz,DEM,182
+Howard,0019 206,Public Instruction,,Glenda Ritz,DEM,191
+Howard,0020 207,Public Instruction,,Glenda Ritz,DEM,383
+Howard,0021 3 Harrison 1,Public Instruction,,Glenda Ritz,DEM,33
+Howard,0022 3 Howard 1,Public Instruction,,Glenda Ritz,DEM,9
+Howard,0023 3 Taylor 1,Public Instruction,,Glenda Ritz,DEM,157
+Howard,0024 3 Taylor 2,Public Instruction,,Glenda Ritz,DEM,42
+Howard,0025 3 Taylor 3,Public Instruction,,Glenda Ritz,DEM,311
+Howard,0026 3 Taylor 4,Public Instruction,,Glenda Ritz,DEM,358
+Howard,0027 301,Public Instruction,,Glenda Ritz,DEM,312
+Howard,0028 302,Public Instruction,,Glenda Ritz,DEM,105
+Howard,0029 303,Public Instruction,,Glenda Ritz,DEM,215
+Howard,0030 304,Public Instruction,,Glenda Ritz,DEM,232
+Howard,0031 305,Public Instruction,,Glenda Ritz,DEM,167
+Howard,0032 306,Public Instruction,,Glenda Ritz,DEM,5
+Howard,0033 4 Taylor 1,Public Instruction,,Glenda Ritz,DEM,294
+Howard,0034 401,Public Instruction,,Glenda Ritz,DEM,294
+Howard,0035 402,Public Instruction,,Glenda Ritz,DEM,237
+Howard,0036 403,Public Instruction,,Glenda Ritz,DEM,277
+Howard,0037 404,Public Instruction,,Glenda Ritz,DEM,191
+Howard,0038 405,Public Instruction,,Glenda Ritz,DEM,276
+Howard,0039 406,Public Instruction,,Glenda Ritz,DEM,377
+Howard,0040 5 Harrison 1,Public Instruction,,Glenda Ritz,DEM,319
+Howard,0041 5 Harrison 2,Public Instruction,,Glenda Ritz,DEM,287
+Howard,0042 5 Taylor 1,Public Instruction,,Glenda Ritz,DEM,312
+Howard,0043 501,Public Instruction,,Glenda Ritz,DEM,409
+Howard,0044 502,Public Instruction,,Glenda Ritz,DEM,395
+Howard,0045 503,Public Instruction,,Glenda Ritz,DEM,338
+Howard,0046 6 Harrison 1,Public Instruction,,Glenda Ritz,DEM,183
+Howard,0047 6 Harrison 2,Public Instruction,,Glenda Ritz,DEM,357
+Howard,0048 601,Public Instruction,,Glenda Ritz,DEM,311
+Howard,0049 602,Public Instruction,,Glenda Ritz,DEM,287
+Howard,0050 603,Public Instruction,,Glenda Ritz,DEM,344
+Howard,0051 604,Public Instruction,,Glenda Ritz,DEM,412
+Howard,0052 605,Public Instruction,,Glenda Ritz,DEM,353
+Howard,0053 Center A,Public Instruction,,Glenda Ritz,DEM,68
+Howard,0054 Center B,Public Instruction,,Glenda Ritz,DEM,13
+Howard,0055 Center C,Public Instruction,,Glenda Ritz,DEM,50
+Howard,0056 Clay A,Public Instruction,,Glenda Ritz,DEM,276
+Howard,0057 Clay B,Public Instruction,,Glenda Ritz,DEM,264
+Howard,0058 Clay C,Public Instruction,,Glenda Ritz,DEM,335
+Howard,0059 Ervin A,Public Instruction,,Glenda Ritz,DEM,142
+Howard,0060 Ervin B,Public Instruction,,Glenda Ritz,DEM,282
+Howard,0061 Harrison A,Public Instruction,,Glenda Ritz,DEM,263
+Howard,0062 Harrison B,Public Instruction,,Glenda Ritz,DEM,270
+Howard,0063 Harrison C,Public Instruction,,Glenda Ritz,DEM,219
+Howard,0064 Honey Creek A,Public Instruction,,Glenda Ritz,DEM,218
+Howard,0065 Honey Creek B,Public Instruction,,Glenda Ritz,DEM,211
+Howard,0066 Howard A,Public Instruction,,Glenda Ritz,DEM,183
+Howard,0067 Howard B,Public Instruction,,Glenda Ritz,DEM,271
+Howard,0068 Jackson,Public Instruction,,Glenda Ritz,DEM,121
+Howard,0069 Liberty A,Public Instruction,,Glenda Ritz,DEM,220
+Howard,0070 Liberty B,Public Instruction,,Glenda Ritz,DEM,158
+Howard,0071 Liberty C,Public Instruction,,Glenda Ritz,DEM,319
+Howard,0072 Liberty D,Public Instruction,,Glenda Ritz,DEM,261
+Howard,0073 Monroe,Public Instruction,,Glenda Ritz,DEM,297
+Howard,0074 Taylor A,Public Instruction,,Glenda Ritz,DEM,242
+Howard,0075 Taylor B,Public Instruction,,Glenda Ritz,DEM,134
+Howard,0076 Taylor C,Public Instruction,,Glenda Ritz,DEM,52
+Howard,0077 Union,Public Instruction,,Glenda Ritz,DEM,188
+Howard,,Public Instruction,,Glenda Ritz,DEM,16741
+Howard,0001 1 Clay 1,U.S. House,4,Todd Rokita,REP,27
+Howard,0002 2 Clay 2,U.S. House,4,Todd Rokita,REP,19
+Howard,0003 1 Howard 1,U.S. House,4,Todd Rokita,REP,2
+Howard,0004 101,U.S. House,4,Todd Rokita,REP,45
+Howard,0005 102,U.S. House,4,Todd Rokita,REP,228
+Howard,0006 103,U.S. House,4,Todd Rokita,REP,51
+Howard,0007 104,U.S. House,4,Todd Rokita,REP,255
+Howard,0008 105,U.S. House,4,Todd Rokita,REP,184
+Howard,0009 106,U.S. House,4,Todd Rokita,REP,15
+Howard,0010 107,U.S. House,4,Todd Rokita,REP,186
+Howard,0011 108,U.S. House,4,Todd Rokita,REP,30
+Howard,0012 109,U.S. House,4,Todd Rokita,REP,308
+Howard,0013 110,U.S. House,4,Todd Rokita,REP,321
+Howard,0014 201,U.S. House,4,Todd Rokita,REP,176
+Howard,0015 202,U.S. House,4,Todd Rokita,REP,60
+Howard,0016 203,U.S. House,4,Todd Rokita,REP,225
+Howard,0017 204,U.S. House,4,Todd Rokita,REP,253
+Howard,0018 205,U.S. House,4,Todd Rokita,REP,205
+Howard,0019 206,U.S. House,4,Todd Rokita,REP,146
+Howard,0020 207,U.S. House,4,Todd Rokita,REP,430
+Howard,0021 3 Harrison 1,U.S. House,4,Todd Rokita,REP,36
+Howard,0022 3 Howard 1,U.S. House,5,Susan Brooks,REP,19
+Howard,0023 3 Taylor 1,U.S. House,5,Susan Brooks,REP,240
+Howard,0024 3 Taylor 2,U.S. House,4,Todd Rokita,REP,85
+Howard,0025 3 Taylor 3,U.S. House,4,Todd Rokita,REP,475
+Howard,0026 3 Taylor 4,U.S. House,4,Todd Rokita,REP,400
+Howard,0027 301,U.S. House,4,Todd Rokita,REP,85
+Howard,0028 302,U.S. House,4,Todd Rokita,REP,87
+Howard,0029 303,U.S. House,4,Todd Rokita,REP,90
+Howard,0030 304,U.S. House,4,Todd Rokita,REP,225
+Howard,0031 305,U.S. House,4,Todd Rokita,REP,183
+Howard,0032 306,U.S. House,4,Todd Rokita,REP,9
+Howard,0033 4 Taylor 1,U.S. House,4,Todd Rokita,REP,394
+Howard,0034 401,U.S. House,4,Todd Rokita,REP,327
+Howard,0035 402,U.S. House,4,Todd Rokita,REP,230
+Howard,0036 403,U.S. House,4,Todd Rokita,REP,309
+Howard,0037 404,U.S. House,4,Todd Rokita,REP,184
+Howard,0038 405,U.S. House,4,Todd Rokita,REP,235
+Howard,0039 406,U.S. House,4,Todd Rokita,REP,407
+Howard,0040 5 Harrison 1,U.S. House,4,Todd Rokita,REP,308
+Howard,0041 5 Harrison 2,U.S. House,4,Todd Rokita,REP,445
+Howard,0042 5 Taylor 1,U.S. House,4,Todd Rokita,REP,443
+Howard,0043 501,U.S. House,4,Todd Rokita,REP,512
+Howard,0044 502,U.S. House,4,Todd Rokita,REP,421
+Howard,0045 503,U.S. House,4,Todd Rokita,REP,396
+Howard,0046 6 Harrison 1,U.S. House,4,Todd Rokita,REP,322
+Howard,0047 6 Harrison 2,U.S. House,4,Todd Rokita,REP,666
+Howard,0048 601,U.S. House,4,Todd Rokita,REP,503
+Howard,0049 602,U.S. House,4,Todd Rokita,REP,349
+Howard,0050 603,U.S. House,4,Todd Rokita,REP,498
+Howard,0051 604,U.S. House,4,Todd Rokita,REP,542
+Howard,0052 605,U.S. House,4,Todd Rokita,REP,394
+Howard,0053 Center A,U.S. House,4,Todd Rokita,REP,112
+Howard,0054 Center B,U.S. House,4,Todd Rokita,REP,12
+Howard,0055 Center C,U.S. House,4,Todd Rokita,REP,48
+Howard,0056 Clay A,U.S. House,4,Todd Rokita,REP,491
+Howard,0057 Clay B,U.S. House,4,Todd Rokita,REP,438
+Howard,0058 Clay C,U.S. House,4,Todd Rokita,REP,551
+Howard,0059 Ervin A,U.S. House,4,Todd Rokita,REP,330
+Howard,0060 Ervin B,U.S. House,4,Todd Rokita,REP,564
+Howard,0061 Harrison A,U.S. House,4,Todd Rokita,REP,507
+Howard,0062 Harrison B,U.S. House,4,Todd Rokita,REP,502
+Howard,0063 Harrison C,U.S. House,4,Todd Rokita,REP,388
+Howard,0064 Honey Creek A,U.S. House,4,Todd Rokita,REP,411
+Howard,0065 Honey Creek B,U.S. House,4,Todd Rokita,REP,390
+Howard,0066 Howard A,U.S. House,5,Susan Brooks,REP,382
+Howard,0067 Howard B,U.S. House,4,Todd Rokita,REP,464
+Howard,0068 Jackson,U.S. House,5,Susan Brooks,REP,204
+Howard,0069 Liberty A,U.S. House,5,Susan Brooks,REP,467
+Howard,0070 Liberty B,U.S. House,5,Susan Brooks,REP,283
+Howard,0071 Liberty C,U.S. House,5,Susan Brooks,REP,610
+Howard,0072 Liberty D,U.S. House,5,Susan Brooks,REP,520
+Howard,0073 Monroe,U.S. House,4,Todd Rokita,REP,468
+Howard,0074 Taylor A,U.S. House,5,Susan Brooks,REP,417
+Howard,0075 Taylor B,U.S. House,5,Susan Brooks,REP,212
+Howard,0076 Taylor C,U.S. House,4,Todd Rokita,REP,95
+Howard,0077 Union,U.S. House,5,Susan Brooks,REP,445
+Howard,,U.S. House,5,Susan Brooks,REP,3799
+Howard,,U.S. House,4,Todd Rokita,REP,18497
+Howard,0001 1 Clay 1,U.S. House,4,John Dale,DEM,13
+Howard,0002 2 Clay 2,U.S. House,4,John Dale,DEM,7
+Howard,0003 1 Howard 1,U.S. House,4,John Dale,DEM,0
+Howard,0004 101,U.S. House,4,John Dale,DEM,45
+Howard,0005 102,U.S. House,4,John Dale,DEM,196
+Howard,0006 103,U.S. House,4,John Dale,DEM,53
+Howard,0007 104,U.S. House,4,John Dale,DEM,222
+Howard,0008 105,U.S. House,4,John Dale,DEM,176
+Howard,0009 106,U.S. House,4,John Dale,DEM,10
+Howard,0010 107,U.S. House,4,John Dale,DEM,169
+Howard,0011 108,U.S. House,4,John Dale,DEM,27
+Howard,0012 109,U.S. House,4,John Dale,DEM,228
+Howard,0013 110,U.S. House,4,John Dale,DEM,244
+Howard,0014 201,U.S. House,4,John Dale,DEM,201
+Howard,0015 202,U.S. House,4,John Dale,DEM,281
+Howard,0016 203,U.S. House,4,John Dale,DEM,157
+Howard,0017 204,U.S. House,4,John Dale,DEM,211
+Howard,0018 205,U.S. House,4,John Dale,DEM,159
+Howard,0019 206,U.S. House,4,John Dale,DEM,159
+Howard,0020 207,U.S. House,4,John Dale,DEM,275
+Howard,0021 3 Harrison 1,U.S. House,4,John Dale,DEM,27
+Howard,0022 3 Howard 1,U.S. House,5,Angela Demaree,DEM,8
+Howard,0023 3 Taylor 1,U.S. House,5,Angela Demaree,DEM,108
+Howard,0024 3 Taylor 2,U.S. House,4,John Dale,DEM,33
+Howard,0025 3 Taylor 3,U.S. House,4,John Dale,DEM,245
+Howard,0026 3 Taylor 4,U.S. House,4,John Dale,DEM,279
+Howard,0027 301,U.S. House,4,John Dale,DEM,281
+Howard,0028 302,U.S. House,4,John Dale,DEM,75
+Howard,0029 303,U.S. House,4,John Dale,DEM,191
+Howard,0030 304,U.S. House,4,John Dale,DEM,183
+Howard,0031 305,U.S. House,4,John Dale,DEM,146
+Howard,0032 306,U.S. House,4,John Dale,DEM,3
+Howard,0033 4 Taylor 1,U.S. House,4,John Dale,DEM,217
+Howard,0034 401,U.S. House,4,John Dale,DEM,259
+Howard,0035 402,U.S. House,4,John Dale,DEM,199
+Howard,0036 403,U.S. House,4,John Dale,DEM,206
+Howard,0037 404,U.S. House,4,John Dale,DEM,153
+Howard,0038 405,U.S. House,4,John Dale,DEM,221
+Howard,0039 406,U.S. House,4,John Dale,DEM,285
+Howard,0040 5 Harrison 1,U.S. House,4,John Dale,DEM,262
+Howard,0041 5 Harrison 2,U.S. House,4,John Dale,DEM,213
+Howard,0042 5 Taylor 1,U.S. House,4,John Dale,DEM,217
+Howard,0043 501,U.S. House,4,John Dale,DEM,293
+Howard,0044 502,U.S. House,4,John Dale,DEM,290
+Howard,0045 503,U.S. House,4,John Dale,DEM,279
+Howard,0046 6 Harrison 1,U.S. House,4,John Dale,DEM,111
+Howard,0047 6 Harrison 2,U.S. House,4,John Dale,DEM,233
+Howard,0048 601,U.S. House,4,John Dale,DEM,216
+Howard,0049 602,U.S. House,4,John Dale,DEM,208
+Howard,0050 603,U.S. House,4,John Dale,DEM,253
+Howard,0051 604,U.S. House,4,John Dale,DEM,292
+Howard,0052 605,U.S. House,4,John Dale,DEM,258
+Howard,0053 Center A,U.S. House,4,John Dale,DEM,42
+Howard,0054 Center B,U.S. House,4,John Dale,DEM,12
+Howard,0055 Center C,U.S. House,4,John Dale,DEM,46
+Howard,0056 Clay A,U.S. House,4,John Dale,DEM,170
+Howard,0057 Clay B,U.S. House,4,John Dale,DEM,159
+Howard,0058 Clay C,U.S. House,4,John Dale,DEM,211
+Howard,0059 Ervin A,U.S. House,4,John Dale,DEM,81
+Howard,0060 Ervin B,U.S. House,4,John Dale,DEM,183
+Howard,0061 Harrison A,U.S. House,4,John Dale,DEM,174
+Howard,0062 Harrison B,U.S. House,4,John Dale,DEM,185
+Howard,0063 Harrison C,U.S. House,4,John Dale,DEM,148
+Howard,0064 Honey Creek A,U.S. House,4,John Dale,DEM,108
+Howard,0065 Honey Creek B,U.S. House,4,John Dale,DEM,128
+Howard,0066 Howard A,U.S. House,5,Angela Demaree,DEM,118
+Howard,0067 Howard B,U.S. House,4,John Dale,DEM,191
+Howard,0068 Jackson,U.S. House,5,Angela Demaree,DEM,62
+Howard,0069 Liberty A,U.S. House,5,Angela Demaree,DEM,103
+Howard,0070 Liberty B,U.S. House,5,John Dale,DEM,106
+Howard,0071 Liberty C,U.S. House,5,John Dale,DEM,171
+Howard,0072 Liberty D,U.S. House,5,John Dale,DEM,138
+Howard,0073 Monroe,U.S. House,4,John Dale,DEM,191
+Howard,0074 Taylor A,U.S. House,5,John Dale,DEM,164
+Howard,0075 Taylor B,U.S. House,5,John Dale,DEM,98
+Howard,0076 Taylor C,U.S. House,4,John Dale,DEM,31
+Howard,0077 Union,U.S. House,5,John Dale,DEM,91
+Howard,,U.S. House,5,Angela Demaree,DEM,1167
+Howard,,U.S. House,4,John Dale,DEM,11020
+Howard,0001 1 Clay 1,U.S. House,4,Steve Mayoras,LBT,4
+Howard,0002 2 Clay 2,U.S. House,4,Steve Mayoras,LBT,3
+Howard,0003 1 Howard 1,U.S. House,4,Steve Mayoras,LBT,0
+Howard,0004 101,U.S. House,4,Steve Mayoras,LBT,16
+Howard,0005 102,U.S. House,4,Steve Mayoras,LBT,34
+Howard,0006 103,U.S. House,4,Steve Mayoras,LBT,15
+Howard,0007 104,U.S. House,4,Steve Mayoras,LBT,39
+Howard,0008 105,U.S. House,4,Steve Mayoras,LBT,28
+Howard,0009 106,U.S. House,4,Steve Mayoras,LBT,2
+Howard,0010 107,U.S. House,4,Steve Mayoras,LBT,24
+Howard,0011 108,U.S. House,4,Steve Mayoras,LBT,3
+Howard,0012 109,U.S. House,4,Steve Mayoras,LBT,33
+Howard,0013 110,U.S. House,4,Steve Mayoras,LBT,32
+Howard,0014 201,U.S. House,4,Steve Mayoras,LBT,50
+Howard,0015 202,U.S. House,4,Steve Mayoras,LBT,26
+Howard,0016 203,U.S. House,4,Steve Mayoras,LBT,39
+Howard,0017 204,U.S. House,4,Steve Mayoras,LBT,43
+Howard,0018 205,U.S. House,4,Steve Mayoras,LBT,42
+Howard,0019 206,U.S. House,4,Steve Mayoras,LBT,31
+Howard,0020 207,U.S. House,4,Steve Mayoras,LBT,25
+Howard,0021 3 Harrison 1,U.S. House,4,Steve Mayoras,LBT,5
+Howard,0022 3 Howard 1,U.S. House,5,Matthew Wittlief,LBT,2
+Howard,0023 3 Taylor 1,U.S. House,5,Matthew Wittlief,LBT,6
+Howard,0024 3 Taylor 2,U.S. House,4,Steve Mayoras,LBT,8
+Howard,0025 3 Taylor 3,U.S. House,4,Steve Mayoras,LBT,42
+Howard,0026 3 Taylor 4,U.S. House,4,Steve Mayoras,LBT,55
+Howard,0027 301,U.S. House,4,Steve Mayoras,LBT,23
+Howard,0028 302,U.S. House,4,Steve Mayoras,LBT,12
+Howard,0029 303,U.S. House,4,Steve Mayoras,LBT,17
+Howard,0030 304,U.S. House,4,Steve Mayoras,LBT,34
+Howard,0031 305,U.S. House,4,Steve Mayoras,LBT,21
+Howard,0032 306,U.S. House,4,Steve Mayoras,LBT,1
+Howard,0033 4 Taylor 1,U.S. House,4,Steve Mayoras,LBT,22
+Howard,0034 401,U.S. House,4,Steve Mayoras,LBT,33
+Howard,0035 402,U.S. House,4,Steve Mayoras,LBT,30
+Howard,0036 403,U.S. House,4,Steve Mayoras,LBT,40
+Howard,0037 404,U.S. House,4,Steve Mayoras,LBT,17
+Howard,0038 405,U.S. House,4,Steve Mayoras,LBT,24
+Howard,0039 406,U.S. House,4,Steve Mayoras,LBT,45
+Howard,0040 5 Harrison 1,U.S. House,4,Steve Mayoras,LBT,48
+Howard,0041 5 Harrison 2,U.S. House,4,Steve Mayoras,LBT,21
+Howard,0042 5 Taylor 1,U.S. House,4,Steve Mayoras,LBT,38
+Howard,0043 501,U.S. House,4,Steve Mayoras,LBT,45
+Howard,0044 502,U.S. House,4,Steve Mayoras,LBT,33
+Howard,0045 503,U.S. House,4,Steve Mayoras,LBT,29
+Howard,0046 6 Harrison 1,U.S. House,4,Steve Mayoras,LBT,28
+Howard,0047 6 Harrison 2,U.S. House,4,Steve Mayoras,LBT,33
+Howard,0048 601,U.S. House,4,Steve Mayoras,LBT,32
+Howard,0049 602,U.S. House,4,Steve Mayoras,LBT,35
+Howard,0050 603,U.S. House,4,Steve Mayoras,LBT,20
+Howard,0051 604,U.S. House,4,Steve Mayoras,LBT,47
+Howard,0052 605,U.S. House,4,Steve Mayoras,LBT,44
+Howard,0053 Center A,U.S. House,4,Steve Mayoras,LBT,3
+Howard,0054 Center B,U.S. House,4,Steve Mayoras,LBT,1
+Howard,0055 Center C,U.S. House,4,Steve Mayoras,LBT,5
+Howard,0056 Clay A,U.S. House,4,Steve Mayoras,LBT,23
+Howard,0057 Clay B,U.S. House,4,Steve Mayoras,LBT,23
+Howard,0058 Clay C,U.S. House,4,Steve Mayoras,LBT,29
+Howard,0059 Ervin A,U.S. House,4,Steve Mayoras,LBT,19
+Howard,0060 Ervin B,U.S. House,4,Steve Mayoras,LBT,32
+Howard,0061 Harrison A,U.S. House,4,Steve Mayoras,LBT,43
+Howard,0062 Harrison B,U.S. House,4,Steve Mayoras,LBT,47
+Howard,0063 Harrison C,U.S. House,4,Steve Mayoras,LBT,28
+Howard,0064 Honey Creek A,U.S. House,4,Steve Mayoras,LBT,29
+Howard,0065 Honey Creek B,U.S. House,4,Steve Mayoras,LBT,33
+Howard,0066 Howard A,U.S. House,5,Matthew Wittlief,LBT,21
+Howard,0067 Howard B,U.S. House,4,Steve Mayoras,LBT,42
+Howard,0068 Jackson,U.S. House,5,Matthew Wittlief,LBT,14
+Howard,0069 Liberty A,U.S. House,5,Matthew Wittlief,LBT,31
+Howard,0070 Liberty B,U.S. House,5,Matthew Wittlief,LBT,26
+Howard,0071 Liberty C,U.S. House,5,Matthew Wittlief,LBT,27
+Howard,0072 Liberty D,U.S. House,5,Matthew Wittlief,LBT,29
+Howard,0073 Monroe,U.S. House,4,Steve Mayoras,LBT,46
+Howard,0074 Taylor A,U.S. House,5,Matthew Wittlief,LBT,38
+Howard,0075 Taylor B,U.S. House,5,Matthew Wittlief,LBT,24
+Howard,0076 Taylor C,U.S. House,4,Steve Mayoras,LBT,7
+Howard,0077 Union,U.S. House,5,Matthew Wittlief,LBT,24
+Howard,,U.S. House,5,Matthew Wittlief,LBT,242
+Howard,,U.S. House,4,Steve Mayoras,LBT,1781
+Howard,0001 1 Clay 1,State House,30,Mike Karickhoff,REP,27
+Howard,0002 2 Clay 2,State House,38,Heath Vannatter,REP,18
+Howard,0003 1 Howard 1,State House,30,Mike Karickhoff,REP,0
+Howard,0004 101,State House,30,Mike Karickhoff,REP,49
+Howard,0005 102,State House,30,Mike Karickhoff,REP,255
+Howard,0006 103,State House,38,Heath Vannatter,REP,50
+Howard,0007 104,State House,30,Mike Karickhoff,REP,287
+Howard,0008 105,State House,30,Mike Karickhoff,REP,205
+Howard,0009 106,State House,38,Heath Vannatter,REP,17
+Howard,0010 107,State House,30,Mike Karickhoff,REP,204
+Howard,0011 108,State House,30,Mike Karickhoff,REP,32
+Howard,0012 109,State House,30,Mike Karickhoff,REP,336
+Howard,0013 110,State House,30,Mike Karickhoff,REP,340
+Howard,0014 201,State House,30,Mike Karickhoff,REP,199
+Howard,0015 202,State House,30,Mike Karickhoff,REP,72
+Howard,0016 203,State House,30,Mike Karickhoff,REP,244
+Howard,0017 204,State House,30,Mike Karickhoff,REP,273
+Howard,0018 205,State House,30,Mike Karickhoff,REP,216
+Howard,0019 206,State House,30,Mike Karickhoff,REP,159
+Howard,0020 207,State House,30,Mike Karickhoff,REP,449
+Howard,0021 3 Harrison 1,State House,38,Heath Vannatter,REP,41
+Howard,0022 3 Howard 1,State House,30,Mike Karickhoff,REP,14
+Howard,0023 3 Taylor 1,State House,30,Mike Karickhoff,REP,229
+Howard,0024 3 Taylor 2,State House,30,Mike Karickhoff,REP,85
+Howard,0025 3 Taylor 3,State House,30,Mike Karickhoff,REP,506
+Howard,0026 3 Taylor 4,State House,30,Mike Karickhoff,REP,428
+Howard,0027 301,State House,30,Mike Karickhoff,REP,87
+Howard,0028 302,State House,30,Mike Karickhoff,REP,86
+Howard,0029 303,State House,30,Mike Karickhoff,REP,98
+Howard,0030 304,State House,30,Mike Karickhoff,REP,242
+Howard,0031 305,State House,30,Mike Karickhoff,REP,200
+Howard,0032 306,State House,30,Mike Karickhoff,REP,9
+Howard,0033 4 Taylor 1,State House,30,Mike Karickhoff,REP,407
+Howard,0034 401,State House,30,Mike Karickhoff,REP,355
+Howard,0035 402,State House,30,Mike Karickhoff,REP,245
+Howard,0036 403,State House,30,Mike Karickhoff,REP,326
+Howard,0037 404,State House,30,Mike Karickhoff,REP,192
+Howard,0038 405,State House,30,Mike Karickhoff,REP,239
+Howard,0039 406,State House,30,Mike Karickhoff,REP,447
+Howard,0040 5 Harrison 1,State House,38,Heath Vannatter,REP,306
+Howard,0041 5 Harrison 2,State House,38,Heath Vannatter,REP,450
+Howard,0042 5 Taylor 1,State House,30,Mike Karickhoff,REP,452
+Howard,0043 501,State House,30,Mike Karickhoff,REP,537
+Howard,0044 502,State House,30,Mike Karickhoff,REP,434
+Howard,0045 503,State House,30,Mike Karickhoff,REP,416
+Howard,0046 6 Harrison 1,State House,38,Heath Vannatter,REP,322
+Howard,0047 6 Harrison 2,State House,38,Heath Vannatter,REP,627
+Howard,0048 601,State House,38,Heath Vannatter,REP,506
+Howard,0049 602,State House,38,Heath Vannatter,REP,334
+Howard,0050 603,State House,38,Heath Vannatter,REP,478
+Howard,0051 604,State House,30,Mike Karickhoff,REP,553
+Howard,0052 605,State House,30,Mike Karickhoff,REP,404
+Howard,0053 Center A,State House,38,Heath Vannatter,REP,102
+Howard,0054 Center B,State House,30,Mike Karickhoff,REP,14
+Howard,0055 Center C,State House,30,Mike Karickhoff,REP,51
+Howard,0056 Clay A,State House,38,Heath Vannatter,REP,485
+Howard,0057 Clay B,State House,38,Heath Vannatter,REP,446
+Howard,0058 Clay C,State House,38,Heath Vannatter,REP,547
+Howard,0059 Ervin A,State House,38,Heath Vannatter,REP,322
+Howard,0060 Ervin B,State House,38,Heath Vannatter,REP,562
+Howard,0061 Harrison A,State House,38,Heath Vannatter,REP,527
+Howard,0062 Harrison B,State House,38,Heath Vannatter,REP,506
+Howard,0063 Harrison C,State House,38,Heath Vannatter,REP,390
+Howard,0064 Honey Creek A,State House,38,Heath Vannatter,REP,398
+Howard,0065 Honey Creek B,State House,38,Heath Vannatter,REP,383
+Howard,0066 Howard A,State House,30,Mike Karickhoff,REP,376
+Howard,0067 Howard B,State House,30,Mike Karickhoff,REP,483
+Howard,0068 Jackson,State House,30,Mike Karickhoff,REP,201
+Howard,0069 Liberty A,State House,30,Mike Karickhoff,REP,447
+Howard,0070 Liberty B,State House,30,Mike Karickhoff,REP,282
+Howard,0071 Liberty C,State House,30,Mike Karickhoff,REP,596
+Howard,0072 Liberty D,State House,30,Mike Karickhoff,REP,504
+Howard,0073 Monroe,State House,38,Heath Vannatter,REP,477
+Howard,0074 Taylor A,State House,30,Mike Karickhoff,REP,421
+Howard,0075 Taylor B,State House,30,Mike Karickhoff,REP,223
+Howard,0076 Taylor C,State House,30,Mike Karickhoff,REP,101
+Howard,0077 Union,State House,32,Tony Cook,REP,426
+Howard,,State House,30,Mike Karickhoff,REP,14037
+Howard,,State House,32,Tony Cook,REP,426
+Howard,,State House,38,Heath Vannatter,REP,8293
+Howard,0001 1 Clay 1,State House,30,Natalie Guest,DEM,18
+Howard,0003 1 Howard 1,State House,30,Natalie Guest,DEM,1
+Howard,0004 101,State House,30,Natalie Guest,DEM,56
+Howard,0005 102,State House,30,Natalie Guest,DEM,203
+Howard,0007 104,State House,30,Natalie Guest,DEM,233
+Howard,0008 105,State House,30,Natalie Guest,DEM,184
+Howard,0010 107,State House,30,Natalie Guest,DEM,176
+Howard,0011 108,State House,30,Natalie Guest,DEM,27
+Howard,0012 109,State House,30,Natalie Guest,DEM,223
+Howard,0013 110,State House,30,Natalie Guest,DEM,267
+Howard,0014 201,State House,30,Natalie Guest,DEM,227
+Howard,0015 202,State House,30,Natalie Guest,DEM,289
+Howard,0016 203,State House,30,Natalie Guest,DEM,174
+Howard,0017 204,State House,30,Natalie Guest,DEM,241
+Howard,0018 205,State House,30,Natalie Guest,DEM,185
+Howard,0019 206,State House,30,Natalie Guest,DEM,175
+Howard,0020 207,State House,30,Natalie Guest,DEM,286
+Howard,0022 3 Howard 1,State House,30,Natalie Guest,DEM,14
+Howard,0023 3 Taylor 1,State House,30,Natalie Guest,DEM,130
+Howard,0024 3 Taylor 2,State House,30,Natalie Guest,DEM,39
+Howard,0025 3 Taylor 3,State House,30,Natalie Guest,DEM,251
+Howard,0026 3 Taylor 4,State House,30,Natalie Guest,DEM,307
+Howard,0027 301,State House,30,Natalie Guest,DEM,303
+Howard,0028 302,State House,30,Natalie Guest,DEM,87
+Howard,0029 303,State House,30,Natalie Guest,DEM,192
+Howard,0030 304,State House,30,Natalie Guest,DEM,196
+Howard,0031 305,State House,30,Natalie Guest,DEM,157
+Howard,0032 306,State House,30,Natalie Guest,DEM,5
+Howard,0033 4 Taylor 1,State House,30,Natalie Guest,DEM,224
+Howard,0034 401,State House,30,Natalie Guest,DEM,261
+Howard,0035 402,State House,30,Natalie Guest,DEM,212
+Howard,0036 403,State House,30,Natalie Guest,DEM,232
+Howard,0037 404,State House,30,Natalie Guest,DEM,164
+Howard,0038 405,State House,30,Natalie Guest,DEM,243
+Howard,0039 406,State House,30,Natalie Guest,DEM,292
+Howard,0042 5 Taylor 1,State House,30,Natalie Guest,DEM,237
+Howard,0043 501,State House,30,Natalie Guest,DEM,325
+Howard,0044 502,State House,30,Natalie Guest,DEM,312
+Howard,0045 503,State House,30,Natalie Guest,DEM,292
+Howard,0051 604,State House,30,Natalie Guest,DEM,325
+Howard,0052 605,State House,30,Natalie Guest,DEM,292
+Howard,0054 Center B,State House,30,Natalie Guest,DEM,10
+Howard,0055 Center C,State House,30,Natalie Guest,DEM,48
+Howard,0066 Howard A,State House,30,Natalie Guest,DEM,145
+Howard,0067 Howard B,State House,30,Natalie Guest,DEM,230
+Howard,0068 Jackson,State House,30,Natalie Guest,DEM,73
+Howard,0069 Liberty A,State House,30,Natalie Guest,DEM,153
+Howard,0070 Liberty B,State House,30,Natalie Guest,DEM,133
+Howard,0071 Liberty C,State House,30,Natalie Guest,DEM,205
+Howard,0072 Liberty D,State House,30,Natalie Guest,DEM,181
+Howard,0074 Taylor A,State House,30,Natalie Guest,DEM,193
+Howard,0075 Taylor B,State House,30,Natalie Guest,DEM,112
+Howard,0076 Taylor C,State House,30,Natalie Guest,DEM,31
+Howard,,State House,30,Natalie Guest,DEM,9570
+Howard,0077 Union,State House,32,Ryan Davis,DEM,123
+Howard,,State House,32,Ryan Davis,DEM,123
+Howard,0002 2 Clay 2,State House,38,Jason Burns,IND,10
+Howard,0006 103,State House,38,Jason Burns,IND,49
+Howard,0009 106,State House,38,Jason Burns,IND,9
+Howard,0021 3 Harrison 1,State House,38,Jason Burns,IND,16
+Howard,0040 5 Harrison 1,State House,38,Jason Burns,IND,187
+Howard,0041 5 Harrison 2,State House,38,Jason Burns,IND,132
+Howard,0046 6 Harrison 1,State House,38,Jason Burns,IND,92
+Howard,0047 6 Harrison 2,State House,38,Jason Burns,IND,235
+Howard,0048 601,State House,38,Jason Burns,IND,145
+Howard,0049 602,State House,38,Jason Burns,IND,174
+Howard,0050 603,State House,38,Jason Burns,IND,181
+Howard,0053 Center A,State House,38,Jason Burns,IND,41
+Howard,0056 Clay A,State House,38,Jason Burns,IND,138
+Howard,0057 Clay B,State House,38,Jason Burns,IND,120
+Howard,0058 Clay C,State House,38,Jason Burns,IND,193
+Howard,0059 Ervin A,State House,38,Jason Burns,IND,89
+Howard,0060 Ervin B,State House,38,Jason Burns,IND,174
+Howard,0061 Harrison A,State House,38,Jason Burns,IND,134
+Howard,0062 Harrison B,State House,38,Jason Burns,IND,173
+Howard,0063 Harrison C,State House,38,Jason Burns,IND,125
+Howard,0064 Honey Creek A,State House,38,Jason Burns,IND,122
+Howard,0065 Honey Creek B,State House,38,Jason Burns,IND,147
+Howard,0073 Monroe,State House,38,Jason Burns,IND,178
+Howard,,State House,38,Jason Burns,IND,2864

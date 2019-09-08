@@ -1,1 +1,641 @@
-county,precinct,office,district,candidate,party,voteDaviess,01-BARR  1,President,,Donald Trump,REP,579Daviess,02-BARR  2,President,,Donald Trump,REP,475Daviess,03-BOGARD,President,,Donald Trump,REP,152Daviess,04-ELMORE  1,President,,Donald Trump,REP,235Daviess,05-ELMORE  2,President,,Donald Trump,REP,108Daviess,06-HARRISON,President,,Donald Trump,REP,272Daviess,07-MADISON 1,President,,Donald Trump,REP,177Daviess,08-MADISON 2,President,,Donald Trump,REP,325Daviess,09-MADISON 3,President,,Donald Trump,REP,451Daviess,10-REEVE,President,,Donald Trump,REP,250Daviess,11-STEELE,President,,Donald Trump,REP,364Daviess,12-VAN  BUREN,President,,Donald Trump,REP,211Daviess,13-VEALE,President,,Donald Trump,REP,525Daviess,14-WASHINGTON 1,President,,Donald Trump,REP,316Daviess,15-WASHINGTON 2,President,,Donald Trump,REP,240Daviess,16-WASHINGTON 3,President,,Donald Trump,REP,370Daviess,17-WASHINGTON 4,President,,Donald Trump,REP,568Daviess,18-WASHINGTON 5,President,,Donald Trump,REP,428Daviess,19-WASHINGTON 6,President,,Donald Trump,REP,285Daviess,20-WASHINGTON 7,President,,Donald Trump,REP,171Daviess,21-WASHINGTON 8,President,,Donald Trump,REP,257Daviess,22-WASHINGTON 9,President,,Donald Trump,REP,228Daviess,23-WASHINGTON 10,President,,Donald Trump,REP,135Daviess,24-WASHINGTON 11,President,,Donald Trump,REP,205Daviess,25-WASHINGTON 12,President,,Donald Trump,REP,156Daviess,26-WASHINGTON 13,President,,Donald Trump,REP,350Daviess,27-WASHINGTON 14,President,,Donald Trump,REP,279Daviess,28-WASHINGTON 15,President,,Donald Trump,REP,433Daviess,Total,President,,Donald Trump,REP,8545Daviess,01-BARR  1,President,,Hillary Clinton,DEM,99Daviess,02-BARR  2,President,,Hillary Clinton,DEM,39Daviess,03-BOGARD,President,,Hillary Clinton,DEM,14Daviess,04-ELMORE  1,President,,Hillary Clinton,DEM,40Daviess,05-ELMORE  2,President,,Hillary Clinton,DEM,21Daviess,06-HARRISON,President,,Hillary Clinton,DEM,31Daviess,07-MADISON 1,President,,Hillary Clinton,DEM,20Daviess,08-MADISON 2,President,,Hillary Clinton,DEM,36Daviess,09-MADISON 3,President,,Hillary Clinton,DEM,79Daviess,10-REEVE,President,,Hillary Clinton,DEM,32Daviess,11-STEELE,President,,Hillary Clinton,DEM,51Daviess,12-VAN  BUREN,President,,Hillary Clinton,DEM,29Daviess,13-VEALE,President,,Hillary Clinton,DEM,74Daviess,14-WASHINGTON 1,President,,Hillary Clinton,DEM,47Daviess,15-WASHINGTON 2,President,,Hillary Clinton,DEM,69Daviess,16-WASHINGTON 3,President,,Hillary Clinton,DEM,77Daviess,17-WASHINGTON 4,President,,Hillary Clinton,DEM,117Daviess,18-WASHINGTON 5,President,,Hillary Clinton,DEM,123Daviess,19-WASHINGTON 6,President,,Hillary Clinton,DEM,81Daviess,20-WASHINGTON 7,President,,Hillary Clinton,DEM,51Daviess,21-WASHINGTON 8,President,,Hillary Clinton,DEM,88Daviess,22-WASHINGTON 9,President,,Hillary Clinton,DEM,75Daviess,23-WASHINGTON 10,President,,Hillary Clinton,DEM,47Daviess,24-WASHINGTON 11,President,,Hillary Clinton,DEM,68Daviess,25-WASHINGTON 12,President,,Hillary Clinton,DEM,76Daviess,26-WASHINGTON 13,President,,Hillary Clinton,DEM,110Daviess,27-WASHINGTON 14,President,,Hillary Clinton,DEM,92Daviess,28-WASHINGTON 15,President,,Hillary Clinton,DEM,114Daviess,Total,President,,Hillary Clinton,DEM,1800Daviess,01-BARR  1,President,,Gary Johnson,LBT,24Daviess,02-BARR  2,President,,Gary Johnson,LBT,17Daviess,03-BOGARD,President,,Gary Johnson,LBT,3Daviess,04-ELMORE  1,President,,Gary Johnson,LBT,13Daviess,05-ELMORE  2,President,,Gary Johnson,LBT,14Daviess,06-HARRISON,President,,Gary Johnson,LBT,12Daviess,07-MADISON 1,President,,Gary Johnson,LBT,2Daviess,08-MADISON 2,President,,Gary Johnson,LBT,12Daviess,09-MADISON 3,President,,Gary Johnson,LBT,22Daviess,10-REEVE,President,,Gary Johnson,LBT,11Daviess,11-STEELE,President,,Gary Johnson,LBT,7Daviess,12-VAN  BUREN,President,,Gary Johnson,LBT,7Daviess,13-VEALE,President,,Gary Johnson,LBT,19Daviess,14-WASHINGTON 1,President,,Gary Johnson,LBT,19Daviess,15-WASHINGTON 2,President,,Gary Johnson,LBT,17Daviess,16-WASHINGTON 3,President,,Gary Johnson,LBT,10Daviess,17-WASHINGTON 4,President,,Gary Johnson,LBT,24Daviess,18-WASHINGTON 5,President,,Gary Johnson,LBT,19Daviess,19-WASHINGTON 6,President,,Gary Johnson,LBT,11Daviess,20-WASHINGTON 7,President,,Gary Johnson,LBT,10Daviess,21-WASHINGTON 8,President,,Gary Johnson,LBT,15Daviess,22-WASHINGTON 9,President,,Gary Johnson,LBT,16Daviess,23-WASHINGTON 10,President,,Gary Johnson,LBT,9Daviess,24-WASHINGTON 11,President,,Gary Johnson,LBT,13Daviess,25-WASHINGTON 12,President,,Gary Johnson,LBT,17Daviess,26-WASHINGTON 13,President,,Gary Johnson,LBT,20Daviess,27-WASHINGTON 14,President,,Gary Johnson,LBT,12Daviess,28-WASHINGTON 15,President,,Gary Johnson,LBT,16Daviess,Total,President,,Gary Johnson,LBT,391Daviess,01-BARR  1,President,,Write-ins,,2Daviess,02-BARR  2,President,,Write-ins,,1Daviess,03-BOGARD,President,,Write-ins,,0Daviess,04-ELMORE  1,President,,Write-ins,,0Daviess,05-ELMORE  2,President,,Write-ins,,4Daviess,06-HARRISON,President,,Write-ins,,3Daviess,07-MADISON 1,President,,Write-ins,,3Daviess,08-MADISON 2,President,,Write-ins,,0Daviess,09-MADISON 3,President,,Write-ins,,5Daviess,10-REEVE,President,,Write-ins,,2Daviess,11-STEELE,President,,Write-ins,,3Daviess,12-VAN  BUREN,President,,Write-ins,,0Daviess,13-VEALE,President,,Write-ins,,5Daviess,14-WASHINGTON 1,President,,Write-ins,,4Daviess,15-WASHINGTON 2,President,,Write-ins,,2Daviess,16-WASHINGTON 3,President,,Write-ins,,3Daviess,17-WASHINGTON 4,President,,Write-ins,,7Daviess,18-WASHINGTON 5,President,,Write-ins,,6Daviess,19-WASHINGTON 6,President,,Write-ins,,6Daviess,20-WASHINGTON 7,President,,Write-ins,,2Daviess,21-WASHINGTON 8,President,,Write-ins,,2Daviess,22-WASHINGTON 9,President,,Write-ins,,3Daviess,23-WASHINGTON 10,President,,Write-ins,,3Daviess,24-WASHINGTON 11,President,,Write-ins,,4Daviess,25-WASHINGTON 12,President,,Write-ins,,2Daviess,26-WASHINGTON 13,President,,Write-ins,,5Daviess,27-WASHINGTON 14,President,,Write-ins,,2Daviess,28-WASHINGTON 15,President,,Write-ins,,4Daviess,Total,President,,Write-ins,,83Daviess,01-BARR  1,U.S. Senate,,Todd Young,REP,502Daviess,02-BARR  2,U.S. Senate,,Todd Young,REP,419Daviess,03-BOGARD,U.S. Senate,,Todd Young,REP,132Daviess,04-ELMORE  1,U.S. Senate,,Todd Young,REP,192Daviess,05-ELMORE  2,U.S. Senate,,Todd Young,REP,96Daviess,06-HARRISON,U.S. Senate,,Todd Young,REP,229Daviess,07-MADISON 1,U.S. Senate,,Todd Young,REP,148Daviess,08-MADISON 2,U.S. Senate,,Todd Young,REP,275Daviess,09-MADISON 3,U.S. Senate,,Todd Young,REP,368Daviess,10-REEVE,U.S. Senate,,Todd Young,REP,217Daviess,11-STEELE,U.S. Senate,,Todd Young,REP,293Daviess,12-VAN  BUREN,U.S. Senate,,Todd Young,REP,188Daviess,13-VEALE,U.S. Senate,,Todd Young,REP,441Daviess,14-WASHINGTON 1,U.S. Senate,,Todd Young,REP,277Daviess,15-WASHINGTON 2,U.S. Senate,,Todd Young,REP,203Daviess,16-WASHINGTON 3,U.S. Senate,,Todd Young,REP,295Daviess,17-WASHINGTON 4,U.S. Senate,,Todd Young,REP,466Daviess,18-WASHINGTON 5,U.S. Senate,,Todd Young,REP,375Daviess,19-WASHINGTON 6,U.S. Senate,,Todd Young,REP,234Daviess,20-WASHINGTON 7,U.S. Senate,,Todd Young,REP,139Daviess,21-WASHINGTON 8,U.S. Senate,,Todd Young,REP,198Daviess,22-WASHINGTON 9,U.S. Senate,,Todd Young,REP,169Daviess,23-WASHINGTON 10,U.S. Senate,,Todd Young,REP,115Daviess,24-WASHINGTON 11,U.S. Senate,,Todd Young,REP,164Daviess,25-WASHINGTON 12,U.S. Senate,,Todd Young,REP,110Daviess,26-WASHINGTON 13,U.S. Senate,,Todd Young,REP,291Daviess,27-WASHINGTON 14,U.S. Senate,,Todd Young,REP,218Daviess,28-WASHINGTON 15,U.S. Senate,,Todd Young,REP,342Daviess,Total,U.S. Senate,,Todd Young,REP,7096Daviess,01-BARR  1,U.S. Senate,,Evan Bayh,DEM,180Daviess,02-BARR  2,U.S. Senate,,Evan Bayh,DEM,93Daviess,03-BOGARD,U.S. Senate,,Evan Bayh,DEM,30Daviess,04-ELMORE  1,U.S. Senate,,Evan Bayh,DEM,82Daviess,05-ELMORE  2,U.S. Senate,,Evan Bayh,DEM,42Daviess,06-HARRISON,U.S. Senate,,Evan Bayh,DEM,78Daviess,07-MADISON 1,U.S. Senate,,Evan Bayh,DEM,45Daviess,08-MADISON 2,U.S. Senate,,Evan Bayh,DEM,74Daviess,09-MADISON 3,U.S. Senate,,Evan Bayh,DEM,156Daviess,10-REEVE,U.S. Senate,,Evan Bayh,DEM,58Daviess,11-STEELE,U.S. Senate,,Evan Bayh,DEM,107Daviess,12-VAN  BUREN,U.S. Senate,,Evan Bayh,DEM,52Daviess,13-VEALE,U.S. Senate,,Evan Bayh,DEM,154Daviess,14-WASHINGTON 1,U.S. Senate,,Evan Bayh,DEM,85Daviess,15-WASHINGTON 2,U.S. Senate,,Evan Bayh,DEM,114Daviess,16-WASHINGTON 3,U.S. Senate,,Evan Bayh,DEM,132Daviess,17-WASHINGTON 4,U.S. Senate,,Evan Bayh,DEM,224Daviess,18-WASHINGTON 5,U.S. Senate,,Evan Bayh,DEM,176Daviess,19-WASHINGTON 6,U.S. Senate,,Evan Bayh,DEM,125Daviess,20-WASHINGTON 7,U.S. Senate,,Evan Bayh,DEM,80Daviess,21-WASHINGTON 8,U.S. Senate,,Evan Bayh,DEM,134Daviess,22-WASHINGTON 9,U.S. Senate,,Evan Bayh,DEM,125Daviess,23-WASHINGTON 10,U.S. Senate,,Evan Bayh,DEM,62Daviess,24-WASHINGTON 11,U.S. Senate,,Evan Bayh,DEM,104Daviess,25-WASHINGTON 12,U.S. Senate,,Evan Bayh,DEM,117Daviess,26-WASHINGTON 13,U.S. Senate,,Evan Bayh,DEM,177Daviess,27-WASHINGTON 14,U.S. Senate,,Evan Bayh,DEM,137Daviess,28-WASHINGTON 15,U.S. Senate,,Evan Bayh,DEM,188Daviess,Total,U.S. Senate,,Evan Bayh,DEM,3131Daviess,01-BARR  1,U.S. Senate,,Lucy Brenton,LBT,16Daviess,02-BARR  2,U.S. Senate,,Lucy Brenton,LBT,14Daviess,03-BOGARD,U.S. Senate,,Lucy Brenton,LBT,6Daviess,04-ELMORE  1,U.S. Senate,,Lucy Brenton,LBT,12Daviess,05-ELMORE  2,U.S. Senate,,Lucy Brenton,LBT,7Daviess,06-HARRISON,U.S. Senate,,Lucy Brenton,LBT,11Daviess,07-MADISON 1,U.S. Senate,,Lucy Brenton,LBT,4Daviess,08-MADISON 2,U.S. Senate,,Lucy Brenton,LBT,14Daviess,09-MADISON 3,U.S. Senate,,Lucy Brenton,LBT,30Daviess,10-REEVE,U.S. Senate,,Lucy Brenton,LBT,15Daviess,11-STEELE,U.S. Senate,,Lucy Brenton,LBT,19Daviess,12-VAN  BUREN,U.S. Senate,,Lucy Brenton,LBT,4Daviess,13-VEALE,U.S. Senate,,Lucy Brenton,LBT,26Daviess,14-WASHINGTON 1,U.S. Senate,,Lucy Brenton,LBT,17Daviess,15-WASHINGTON 2,U.S. Senate,,Lucy Brenton,LBT,13Daviess,16-WASHINGTON 3,U.S. Senate,,Lucy Brenton,LBT,21Daviess,17-WASHINGTON 4,U.S. Senate,,Lucy Brenton,LBT,23Daviess,18-WASHINGTON 5,U.S. Senate,,Lucy Brenton,LBT,14Daviess,19-WASHINGTON 6,U.S. Senate,,Lucy Brenton,LBT,15Daviess,20-WASHINGTON 7,U.S. Senate,,Lucy Brenton,LBT,7Daviess,21-WASHINGTON 8,U.S. Senate,,Lucy Brenton,LBT,28Daviess,22-WASHINGTON 9,U.S. Senate,,Lucy Brenton,LBT,23Daviess,23-WASHINGTON 10,U.S. Senate,,Lucy Brenton,LBT,13Daviess,24-WASHINGTON 11,U.S. Senate,,Lucy Brenton,LBT,17Daviess,25-WASHINGTON 12,U.S. Senate,,Lucy Brenton,LBT,18Daviess,26-WASHINGTON 13,U.S. Senate,,Lucy Brenton,LBT,20Daviess,27-WASHINGTON 14,U.S. Senate,,Lucy Brenton,LBT,19Daviess,28-WASHINGTON 15,U.S. Senate,,Lucy Brenton,LBT,24Daviess,Total,U.S. Senate,,Lucy Brenton,LBT,450Daviess,01-BARR  1,U.S. Senate,,Write-ins,,0Daviess,02-BARR  2,U.S. Senate,,Write-ins,,0Daviess,03-BOGARD,U.S. Senate,,Write-ins,,0Daviess,04-ELMORE  1,U.S. Senate,,Write-ins,,0Daviess,05-ELMORE  2,U.S. Senate,,Write-ins,,0Daviess,06-HARRISON,U.S. Senate,,Write-ins,,0Daviess,07-MADISON 1,U.S. Senate,,Write-ins,,0Daviess,08-MADISON 2,U.S. Senate,,Write-ins,,0Daviess,09-MADISON 3,U.S. Senate,,Write-ins,,0Daviess,10-REEVE,U.S. Senate,,Write-ins,,0Daviess,11-STEELE,U.S. Senate,,Write-ins,,0Daviess,12-VAN  BUREN,U.S. Senate,,Write-ins,,0Daviess,13-VEALE,U.S. Senate,,Write-ins,,0Daviess,14-WASHINGTON 1,U.S. Senate,,Write-ins,,0Daviess,15-WASHINGTON 2,U.S. Senate,,Write-ins,,0Daviess,16-WASHINGTON 3,U.S. Senate,,Write-ins,,0Daviess,17-WASHINGTON 4,U.S. Senate,,Write-ins,,1Daviess,18-WASHINGTON 5,U.S. Senate,,Write-ins,,0Daviess,19-WASHINGTON 6,U.S. Senate,,Write-ins,,0Daviess,20-WASHINGTON 7,U.S. Senate,,Write-ins,,0Daviess,21-WASHINGTON 8,U.S. Senate,,Write-ins,,0Daviess,22-WASHINGTON 9,U.S. Senate,,Write-ins,,0Daviess,23-WASHINGTON 10,U.S. Senate,,Write-ins,,0Daviess,24-WASHINGTON 11,U.S. Senate,,Write-ins,,0Daviess,25-WASHINGTON 12,U.S. Senate,,Write-ins,,0Daviess,26-WASHINGTON 13,U.S. Senate,,Write-ins,,0Daviess,27-WASHINGTON 14,U.S. Senate,,Write-ins,,0Daviess,28-WASHINGTON 15,U.S. Senate,,Write-ins,,0Daviess,Total,U.S. Senate,,Write-ins,,1Daviess,01-BARR  1,Governor,,Eric Holcomb,REP,435Daviess,02-BARR  2,Governor,,Eric Holcomb,REP,373Daviess,03-BOGARD,Governor,,Eric Holcomb,REP,123Daviess,04-ELMORE  1,Governor,,Eric Holcomb,REP,155Daviess,05-ELMORE  2,Governor,,Eric Holcomb,REP,76Daviess,06-HARRISON,Governor,,Eric Holcomb,REP,193Daviess,07-MADISON 1,Governor,,Eric Holcomb,REP,131Daviess,08-MADISON 2,Governor,,Eric Holcomb,REP,246Daviess,09-MADISON 3,Governor,,Eric Holcomb,REP,337Daviess,10-REEVE,Governor,,Eric Holcomb,REP,222Daviess,11-STEELE,Governor,,Eric Holcomb,REP,254Daviess,12-VAN  BUREN,Governor,,Eric Holcomb,REP,167Daviess,13-VEALE,Governor,,Eric Holcomb,REP,404Daviess,14-WASHINGTON 1,Governor,,Eric Holcomb,REP,265Daviess,15-WASHINGTON 2,Governor,,Eric Holcomb,REP,180Daviess,16-WASHINGTON 3,Governor,,Eric Holcomb,REP,285Daviess,17-WASHINGTON 4,Governor,,Eric Holcomb,REP,427Daviess,18-WASHINGTON 5,Governor,,Eric Holcomb,REP,329Daviess,19-WASHINGTON 6,Governor,,Eric Holcomb,REP,219Daviess,20-WASHINGTON 7,Governor,,Eric Holcomb,REP,122Daviess,21-WASHINGTON 8,Governor,,Eric Holcomb,REP,194Daviess,22-WASHINGTON 9,Governor,,Eric Holcomb,REP,152Daviess,23-WASHINGTON 10,Governor,,Eric Holcomb,REP,108Daviess,24-WASHINGTON 11,Governor,,Eric Holcomb,REP,148Daviess,25-WASHINGTON 12,Governor,,Eric Holcomb,REP,106Daviess,26-WASHINGTON 13,Governor,,Eric Holcomb,REP,283Daviess,27-WASHINGTON 14,Governor,,Eric Holcomb,REP,196Daviess,28-WASHINGTON 15,Governor,,Eric Holcomb,REP,330Daviess,Total,Governor,,Eric Holcomb,REP,6460Daviess,01-BARR  1,Governor,,John Gregg,DEM,251Daviess,02-BARR  2,Governor,,John Gregg,DEM,141Daviess,03-BOGARD,Governor,,John Gregg,DEM,44Daviess,04-ELMORE  1,Governor,,John Gregg,DEM,129Daviess,05-ELMORE  2,Governor,,John Gregg,DEM,68Daviess,06-HARRISON,Governor,,John Gregg,DEM,121Daviess,07-MADISON 1,Governor,,John Gregg,DEM,64Daviess,08-MADISON 2,Governor,,John Gregg,DEM,117Daviess,09-MADISON 3,Governor,,John Gregg,DEM,205Daviess,10-REEVE,Governor,,John Gregg,DEM,62Daviess,11-STEELE,Governor,,John Gregg,DEM,162Daviess,12-VAN  BUREN,Governor,,John Gregg,DEM,75Daviess,13-VEALE,Governor,,John Gregg,DEM,211Daviess,14-WASHINGTON 1,Governor,,John Gregg,DEM,113Daviess,15-WASHINGTON 2,Governor,,John Gregg,DEM,149Daviess,16-WASHINGTON 3,Governor,,John Gregg,DEM,159Daviess,17-WASHINGTON 4,Governor,,John Gregg,DEM,266Daviess,18-WASHINGTON 5,Governor,,John Gregg,DEM,233Daviess,19-WASHINGTON 6,Governor,,John Gregg,DEM,153Daviess,20-WASHINGTON 7,Governor,,John Gregg,DEM,103Daviess,21-WASHINGTON 8,Governor,,John Gregg,DEM,153Daviess,22-WASHINGTON 9,Governor,,John Gregg,DEM,154Daviess,23-WASHINGTON 10,Governor,,John Gregg,DEM,70Daviess,24-WASHINGTON 11,Governor,,John Gregg,DEM,130Daviess,25-WASHINGTON 12,Governor,,John Gregg,DEM,133Daviess,26-WASHINGTON 13,Governor,,John Gregg,DEM,193Daviess,27-WASHINGTON 14,Governor,,John Gregg,DEM,169Daviess,28-WASHINGTON 15,Governor,,John Gregg,DEM,221Daviess,Total,Governor,,John Gregg,DEM,4049Daviess,01-BARR  1,Governor,,Rex Bell,LBT,11Daviess,02-BARR  2,Governor,,Rex Bell,LBT,8Daviess,03-BOGARD,Governor,,Rex Bell,LBT,1Daviess,04-ELMORE  1,Governor,,Rex Bell,LBT,3Daviess,05-ELMORE  2,Governor,,Rex Bell,LBT,3Daviess,06-HARRISON,Governor,,Rex Bell,LBT,4Daviess,07-MADISON 1,Governor,,Rex Bell,LBT,3Daviess,08-MADISON 2,Governor,,Rex Bell,LBT,5Daviess,09-MADISON 3,Governor,,Rex Bell,LBT,15Daviess,10-REEVE,Governor,,Rex Bell,LBT,8Daviess,11-STEELE,Governor,,Rex Bell,LBT,7Daviess,12-VAN  BUREN,Governor,,Rex Bell,LBT,5Daviess,13-VEALE,Governor,,Rex Bell,LBT,12Daviess,14-WASHINGTON 1,Governor,,Rex Bell,LBT,6Daviess,15-WASHINGTON 2,Governor,,Rex Bell,LBT,3Daviess,16-WASHINGTON 3,Governor,,Rex Bell,LBT,5Daviess,17-WASHINGTON 4,Governor,,Rex Bell,LBT,18Daviess,18-WASHINGTON 5,Governor,,Rex Bell,LBT,4Daviess,19-WASHINGTON 6,Governor,,Rex Bell,LBT,4Daviess,20-WASHINGTON 7,Governor,,Rex Bell,LBT,4Daviess,21-WASHINGTON 8,Governor,,Rex Bell,LBT,14Daviess,22-WASHINGTON 9,Governor,,Rex Bell,LBT,12Daviess,23-WASHINGTON 10,Governor,,Rex Bell,LBT,9Daviess,24-WASHINGTON 11,Governor,,Rex Bell,LBT,9Daviess,25-WASHINGTON 12,Governor,,Rex Bell,LBT,9Daviess,26-WASHINGTON 13,Governor,,Rex Bell,LBT,13Daviess,27-WASHINGTON 14,Governor,,Rex Bell,LBT,12Daviess,28-WASHINGTON 15,Governor,,Rex Bell,LBT,10Daviess,Total,Governor,,Rex Bell,LBT,217Daviess,01-BARR  1,Governor,,Write-ins,,0Daviess,02-BARR  2,Governor,,Write-ins,,0Daviess,03-BOGARD,Governor,,Write-ins,,0Daviess,04-ELMORE  1,Governor,,Write-ins,,0Daviess,05-ELMORE  2,Governor,,Write-ins,,0Daviess,06-HARRISON,Governor,,Write-ins,,0Daviess,07-MADISON 1,Governor,,Write-ins,,0Daviess,08-MADISON 2,Governor,,Write-ins,,0Daviess,09-MADISON 3,Governor,,Write-ins,,0Daviess,10-REEVE,Governor,,Write-ins,,0Daviess,11-STEELE,Governor,,Write-ins,,0Daviess,12-VAN  BUREN,Governor,,Write-ins,,0Daviess,13-VEALE,Governor,,Write-ins,,1Daviess,14-WASHINGTON 1,Governor,,Write-ins,,0Daviess,15-WASHINGTON 2,Governor,,Write-ins,,0Daviess,16-WASHINGTON 3,Governor,,Write-ins,,0Daviess,17-WASHINGTON 4,Governor,,Write-ins,,0Daviess,18-WASHINGTON 5,Governor,,Write-ins,,0Daviess,19-WASHINGTON 6,Governor,,Write-ins,,0Daviess,20-WASHINGTON 7,Governor,,Write-ins,,0Daviess,21-WASHINGTON 8,Governor,,Write-ins,,0Daviess,22-WASHINGTON 9,Governor,,Write-ins,,0Daviess,23-WASHINGTON 10,Governor,,Write-ins,,0Daviess,24-WASHINGTON 11,Governor,,Write-ins,,1Daviess,25-WASHINGTON 12,Governor,,Write-ins,,0Daviess,26-WASHINGTON 13,Governor,,Write-ins,,0Daviess,27-WASHINGTON 14,Governor,,Write-ins,,0Daviess,28-WASHINGTON 15,Governor,,Write-ins,,0Daviess,Total,Governor,,Write-ins,,2Daviess,01-BARR  1,Attorney General,,Curtis Hill,REP,556Daviess,02-BARR  2,Attorney General,,Curtis Hill,REP,437Daviess,03-BOGARD,Attorney General,,Curtis Hill,REP,142Daviess,04-ELMORE  1,Attorney General,,Curtis Hill,REP,236Daviess,05-ELMORE  2,Attorney General,,Curtis Hill,REP,112Daviess,06-HARRISON,Attorney General,,Curtis Hill,REP,257Daviess,07-MADISON 1,Attorney General,,Curtis Hill,REP,168Daviess,08-MADISON 2,Attorney General,,Curtis Hill,REP,315Daviess,09-MADISON 3,Attorney General,,Curtis Hill,REP,436Daviess,10-REEVE,Attorney General,,Curtis Hill,REP,246Daviess,11-STEELE,Attorney General,,Curtis Hill,REP,334Daviess,12-VAN  BUREN,Attorney General,,Curtis Hill,REP,202Daviess,13-VEALE,Attorney General,,Curtis Hill,REP,503Daviess,14-WASHINGTON 1,Attorney General,,Curtis Hill,REP,314Daviess,15-WASHINGTON 2,Attorney General,,Curtis Hill,REP,240Daviess,16-WASHINGTON 3,Attorney General,,Curtis Hill,REP,347Daviess,17-WASHINGTON 4,Attorney General,,Curtis Hill,REP,541Daviess,18-WASHINGTON 5,Attorney General,,Curtis Hill,REP,429Daviess,19-WASHINGTON 6,Attorney General,,Curtis Hill,REP,294Daviess,20-WASHINGTON 7,Attorney General,,Curtis Hill,REP,170Daviess,21-WASHINGTON 8,Attorney General,,Curtis Hill,REP,249Daviess,22-WASHINGTON 9,Attorney General,,Curtis Hill,REP,212Daviess,23-WASHINGTON 10,Attorney General,,Curtis Hill,REP,136Daviess,24-WASHINGTON 11,Attorney General,,Curtis Hill,REP,197Daviess,25-WASHINGTON 12,Attorney General,,Curtis Hill,REP,149Daviess,26-WASHINGTON 13,Attorney General,,Curtis Hill,REP,355Daviess,27-WASHINGTON 14,Attorney General,,Curtis Hill,REP,269Daviess,28-WASHINGTON 15,Attorney General,,Curtis Hill,REP,407Daviess,Total,Attorney General,,Curtis Hill,REP,8253Daviess,01-BARR  1,Attorney General,,Lorenzo Arredondo,DEM,102Daviess,02-BARR  2,Attorney General,,Lorenzo Arredondo,DEM,64Daviess,03-BOGARD,Attorney General,,Lorenzo Arredondo,DEM,16Daviess,04-ELMORE  1,Attorney General,,Lorenzo Arredondo,DEM,42Daviess,05-ELMORE  2,Attorney General,,Lorenzo Arredondo,DEM,28Daviess,06-HARRISON,Attorney General,,Lorenzo Arredondo,DEM,41Daviess,07-MADISON 1,Attorney General,,Lorenzo Arredondo,DEM,21Daviess,08-MADISON 2,Attorney General,,Lorenzo Arredondo,DEM,37Daviess,09-MADISON 3,Attorney General,,Lorenzo Arredondo,DEM,84Daviess,10-REEVE,Attorney General,,Lorenzo Arredondo,DEM,36Daviess,11-STEELE,Attorney General,,Lorenzo Arredondo,DEM,57Daviess,12-VAN  BUREN,Attorney General,,Lorenzo Arredondo,DEM,27Daviess,13-VEALE,Attorney General,,Lorenzo Arredondo,DEM,84Daviess,14-WASHINGTON 1,Attorney General,,Lorenzo Arredondo,DEM,43Daviess,15-WASHINGTON 2,Attorney General,,Lorenzo Arredondo,DEM,75Daviess,16-WASHINGTON 3,Attorney General,,Lorenzo Arredondo,DEM,84Daviess,17-WASHINGTON 4,Attorney General,,Lorenzo Arredondo,DEM,135Daviess,18-WASHINGTON 5,Attorney General,,Lorenzo Arredondo,DEM,111Daviess,19-WASHINGTON 6,Attorney General,,Lorenzo Arredondo,DEM,73Daviess,20-WASHINGTON 7,Attorney General,,Lorenzo Arredondo,DEM,53Daviess,21-WASHINGTON 8,Attorney General,,Lorenzo Arredondo,DEM,95Daviess,22-WASHINGTON 9,Attorney General,,Lorenzo Arredondo,DEM,89Daviess,23-WASHINGTON 10,Attorney General,,Lorenzo Arredondo,DEM,47Daviess,24-WASHINGTON 11,Attorney General,,Lorenzo Arredondo,DEM,76Daviess,25-WASHINGTON 12,Attorney General,,Lorenzo Arredondo,DEM,87Daviess,26-WASHINGTON 13,Attorney General,,Lorenzo Arredondo,DEM,113Daviess,27-WASHINGTON 14,Attorney General,,Lorenzo Arredondo,DEM,95Daviess,28-WASHINGTON 15,Attorney General,,Lorenzo Arredondo,DEM,122Daviess,Total,Attorney General,,Lorenzo Arredondo,DEM,1937Daviess,01-BARR  1,Public Instruction,,Jennifer McCormick,REP,454Daviess,02-BARR  2,Public Instruction,,Jennifer McCormick,REP,380Daviess,03-BOGARD,Public Instruction,,Jennifer McCormick,REP,127Daviess,04-ELMORE  1,Public Instruction,,Jennifer McCormick,REP,200Daviess,05-ELMORE  2,Public Instruction,,Jennifer McCormick,REP,87Daviess,06-HARRISON,Public Instruction,,Jennifer McCormick,REP,215Daviess,07-MADISON 1,Public Instruction,,Jennifer McCormick,REP,151Daviess,08-MADISON 2,Public Instruction,,Jennifer McCormick,REP,276Daviess,09-MADISON 3,Public Instruction,,Jennifer McCormick,REP,389Daviess,10-REEVE,Public Instruction,,Jennifer McCormick,REP,224Daviess,11-STEELE,Public Instruction,,Jennifer McCormick,REP,285Daviess,12-VAN  BUREN,Public Instruction,,Jennifer McCormick,REP,173Daviess,13-VEALE,Public Instruction,,Jennifer McCormick,REP,423Daviess,14-WASHINGTON 1,Public Instruction,,Jennifer McCormick,REP,273Daviess,15-WASHINGTON 2,Public Instruction,,Jennifer McCormick,REP,198Daviess,16-WASHINGTON 3,Public Instruction,,Jennifer McCormick,REP,303Daviess,17-WASHINGTON 4,Public Instruction,,Jennifer McCormick,REP,443Daviess,18-WASHINGTON 5,Public Instruction,,Jennifer McCormick,REP,338Daviess,19-WASHINGTON 6,Public Instruction,,Jennifer McCormick,REP,249Daviess,20-WASHINGTON 7,Public Instruction,,Jennifer McCormick,REP,138Daviess,21-WASHINGTON 8,Public Instruction,,Jennifer McCormick,REP,194Daviess,22-WASHINGTON 9,Public Instruction,,Jennifer McCormick,REP,193Daviess,23-WASHINGTON 10,Public Instruction,,Jennifer McCormick,REP,130Daviess,24-WASHINGTON 11,Public Instruction,,Jennifer McCormick,REP,167Daviess,25-WASHINGTON 12,Public Instruction,,Jennifer McCormick,REP,138Daviess,26-WASHINGTON 13,Public Instruction,,Jennifer McCormick,REP,301Daviess,27-WASHINGTON 14,Public Instruction,,Jennifer McCormick,REP,216Daviess,28-WASHINGTON 15,Public Instruction,,Jennifer McCormick,REP,357Daviess,Total,Public Instruction,,Jennifer McCormick,REP,7022Daviess,01-BARR  1,Public Instruction,,Glenda Ritz,DEM,230Daviess,02-BARR  2,Public Instruction,,Glenda Ritz,DEM,136Daviess,03-BOGARD,Public Instruction,,Glenda Ritz,DEM,37Daviess,04-ELMORE  1,Public Instruction,,Glenda Ritz,DEM,84Daviess,05-ELMORE  2,Public Instruction,,Glenda Ritz,DEM,57Daviess,06-HARRISON,Public Instruction,,Glenda Ritz,DEM,94Daviess,07-MADISON 1,Public Instruction,,Glenda Ritz,DEM,48Daviess,08-MADISON 2,Public Instruction,,Glenda Ritz,DEM,83Daviess,09-MADISON 3,Public Instruction,,Glenda Ritz,DEM,148Daviess,10-REEVE,Public Instruction,,Glenda Ritz,DEM,63Daviess,11-STEELE,Public Instruction,,Glenda Ritz,DEM,121Daviess,12-VAN  BUREN,Public Instruction,,Glenda Ritz,DEM,65Daviess,13-VEALE,Public Instruction,,Glenda Ritz,DEM,180Daviess,14-WASHINGTON 1,Public Instruction,,Glenda Ritz,DEM,96Daviess,15-WASHINGTON 2,Public Instruction,,Glenda Ritz,DEM,127Daviess,16-WASHINGTON 3,Public Instruction,,Glenda Ritz,DEM,138Daviess,17-WASHINGTON 4,Public Instruction,,Glenda Ritz,DEM,260Daviess,18-WASHINGTON 5,Public Instruction,,Glenda Ritz,DEM,221Daviess,19-WASHINGTON 6,Public Instruction,,Glenda Ritz,DEM,123Daviess,20-WASHINGTON 7,Public Instruction,,Glenda Ritz,DEM,87Daviess,21-WASHINGTON 8,Public Instruction,,Glenda Ritz,DEM,159Daviess,22-WASHINGTON 9,Public Instruction,,Glenda Ritz,DEM,114Daviess,23-WASHINGTON 10,Public Instruction,,Glenda Ritz,DEM,59Daviess,24-WASHINGTON 11,Public Instruction,,Glenda Ritz,DEM,109Daviess,25-WASHINGTON 12,Public Instruction,,Glenda Ritz,DEM,103Daviess,26-WASHINGTON 13,Public Instruction,,Glenda Ritz,DEM,172Daviess,27-WASHINGTON 14,Public Instruction,,Glenda Ritz,DEM,157Daviess,28-WASHINGTON 15,Public Instruction,,Glenda Ritz,DEM,190Daviess,Total,Public Instruction,,Glenda Ritz,DEM,3461Daviess,01-BARR  1,U.S. House,8,Larry Bucshon,REP,590Daviess,02-BARR  2,U.S. House,8,Larry Bucshon,REP,448Daviess,03-BOGARD,U.S. House,8,Larry Bucshon,REP,152Daviess,04-ELMORE  1,U.S. House,8,Larry Bucshon,REP,241Daviess,05-ELMORE  2,U.S. House,8,Larry Bucshon,REP,110Daviess,06-HARRISON,U.S. House,8,Larry Bucshon,REP,255Daviess,07-MADISON 1,U.S. House,8,Larry Bucshon,REP,176Daviess,08-MADISON 2,U.S. House,8,Larry Bucshon,REP,317Daviess,09-MADISON 3,U.S. House,8,Larry Bucshon,REP,454Daviess,10-REEVE,U.S. House,8,Larry Bucshon,REP,246Daviess,11-STEELE,U.S. House,8,Larry Bucshon,REP,351Daviess,12-VAN  BUREN,U.S. House,8,Larry Bucshon,REP,208Daviess,13-VEALE,U.S. House,8,Larry Bucshon,REP,520Daviess,14-WASHINGTON 1,U.S. House,8,Larry Bucshon,REP,328Daviess,15-WASHINGTON 2,U.S. House,8,Larry Bucshon,REP,241Daviess,16-WASHINGTON 3,U.S. House,8,Larry Bucshon,REP,355Daviess,17-WASHINGTON 4,U.S. House,8,Larry Bucshon,REP,571Daviess,18-WASHINGTON 5,U.S. House,8,Larry Bucshon,REP,467Daviess,19-WASHINGTON 6,U.S. House,8,Larry Bucshon,REP,300Daviess,20-WASHINGTON 7,U.S. House,8,Larry Bucshon,REP,171Daviess,21-WASHINGTON 8,U.S. House,8,Larry Bucshon,REP,255Daviess,22-WASHINGTON 9,U.S. House,8,Larry Bucshon,REP,221Daviess,23-WASHINGTON 10,U.S. House,8,Larry Bucshon,REP,130Daviess,24-WASHINGTON 11,U.S. House,8,Larry Bucshon,REP,205Daviess,25-WASHINGTON 12,U.S. House,8,Larry Bucshon,REP,158Daviess,26-WASHINGTON 13,U.S. House,8,Larry Bucshon,REP,358Daviess,27-WASHINGTON 14,U.S. House,8,Larry Bucshon,REP,274Daviess,28-WASHINGTON 15,U.S. House,8,Larry Bucshon,REP,426Daviess,Total,U.S. House,8,Larry Bucshon,REP,8528Daviess,01-BARR  1,U.S. House,8,Ron Drake,DEM,89Daviess,02-BARR  2,U.S. House,8,Ron Drake,DEM,51Daviess,03-BOGARD,U.S. House,8,Ron Drake,DEM,10Daviess,04-ELMORE  1,U.S. House,8,Ron Drake,DEM,35Daviess,05-ELMORE  2,U.S. House,8,Ron Drake,DEM,29Daviess,06-HARRISON,U.S. House,8,Ron Drake,DEM,44Daviess,07-MADISON 1,U.S. House,8,Ron Drake,DEM,18Daviess,08-MADISON 2,U.S. House,8,Ron Drake,DEM,38Daviess,09-MADISON 3,U.S. House,8,Ron Drake,DEM,76Daviess,10-REEVE,U.S. House,8,Ron Drake,DEM,30Daviess,11-STEELE,U.S. House,8,Ron Drake,DEM,51Daviess,12-VAN  BUREN,U.S. House,8,Ron Drake,DEM,28Daviess,13-VEALE,U.S. House,8,Ron Drake,DEM,76Daviess,14-WASHINGTON 1,U.S. House,8,Ron Drake,DEM,37Daviess,15-WASHINGTON 2,U.S. House,8,Ron Drake,DEM,77Daviess,16-WASHINGTON 3,U.S. House,8,Ron Drake,DEM,78Daviess,17-WASHINGTON 4,U.S. House,8,Ron Drake,DEM,107Daviess,18-WASHINGTON 5,U.S. House,8,Ron Drake,DEM,92Daviess,19-WASHINGTON 6,U.S. House,8,Ron Drake,DEM,63Daviess,20-WASHINGTON 7,U.S. House,8,Ron Drake,DEM,49Daviess,21-WASHINGTON 8,U.S. House,8,Ron Drake,DEM,78Daviess,22-WASHINGTON 9,U.S. House,8,Ron Drake,DEM,72Daviess,23-WASHINGTON 10,U.S. House,8,Ron Drake,DEM,45Daviess,24-WASHINGTON 11,U.S. House,8,Ron Drake,DEM,63Daviess,25-WASHINGTON 12,U.S. House,8,Ron Drake,DEM,74Daviess,26-WASHINGTON 13,U.S. House,8,Ron Drake,DEM,101Daviess,27-WASHINGTON 14,U.S. House,8,Ron Drake,DEM,80Daviess,28-WASHINGTON 15,U.S. House,8,Ron Drake,DEM,107Daviess,Total,U.S. House,8,Ron Drake,DEM,1698Daviess,01-BARR  1,U.S. House,8,Andrew Horning,LBT,16Daviess,02-BARR  2,U.S. House,8,Andrew Horning,LBT,19Daviess,03-BOGARD,U.S. House,8,Andrew Horning,LBT,5Daviess,04-ELMORE  1,U.S. House,8,Andrew Horning,LBT,9Daviess,05-ELMORE  2,U.S. House,8,Andrew Horning,LBT,5Daviess,06-HARRISON,U.S. House,8,Andrew Horning,LBT,19Daviess,07-MADISON 1,U.S. House,8,Andrew Horning,LBT,4Daviess,08-MADISON 2,U.S. House,8,Andrew Horning,LBT,6Daviess,09-MADISON 3,U.S. House,8,Andrew Horning,LBT,19Daviess,10-REEVE,U.S. House,8,Andrew Horning,LBT,14Daviess,11-STEELE,U.S. House,8,Andrew Horning,LBT,14Daviess,12-VAN  BUREN,U.S. House,8,Andrew Horning,LBT,6Daviess,13-VEALE,U.S. House,8,Andrew Horning,LBT,23Daviess,14-WASHINGTON 1,U.S. House,8,Andrew Horning,LBT,7Daviess,15-WASHINGTON 2,U.S. House,8,Andrew Horning,LBT,8Daviess,16-WASHINGTON 3,U.S. House,8,Andrew Horning,LBT,12Daviess,17-WASHINGTON 4,U.S. House,8,Andrew Horning,LBT,24Daviess,18-WASHINGTON 5,U.S. House,8,Andrew Horning,LBT,8Daviess,19-WASHINGTON 6,U.S. House,8,Andrew Horning,LBT,11Daviess,20-WASHINGTON 7,U.S. House,8,Andrew Horning,LBT,6Daviess,21-WASHINGTON 8,U.S. House,8,Andrew Horning,LBT,20Daviess,22-WASHINGTON 9,U.S. House,8,Andrew Horning,LBT,18Daviess,23-WASHINGTON 10,U.S. House,8,Andrew Horning,LBT,11Daviess,24-WASHINGTON 11,U.S. House,8,Andrew Horning,LBT,16Daviess,25-WASHINGTON 12,U.S. House,8,Andrew Horning,LBT,13Daviess,26-WASHINGTON 13,U.S. House,8,Andrew Horning,LBT,20Daviess,27-WASHINGTON 14,U.S. House,8,Andrew Horning,LBT,12Daviess,28-WASHINGTON 15,U.S. House,8,Andrew Horning,LBT,18Daviess,Total,U.S. House,8,Andrew Horning,LBT,363Daviess,01-BARR  1,U.S. House,8,Write-ins,,0Daviess,02-BARR  2,U.S. House,8,Write-ins,,0Daviess,03-BOGARD,U.S. House,8,Write-ins,,0Daviess,04-ELMORE  1,U.S. House,8,Write-ins,,0Daviess,05-ELMORE  2,U.S. House,8,Write-ins,,0Daviess,06-HARRISON,U.S. House,8,Write-ins,,0Daviess,07-MADISON 1,U.S. House,8,Write-ins,,0Daviess,08-MADISON 2,U.S. House,8,Write-ins,,0Daviess,09-MADISON 3,U.S. House,8,Write-ins,,1Daviess,10-REEVE,U.S. House,8,Write-ins,,0Daviess,11-STEELE,U.S. House,8,Write-ins,,0Daviess,12-VAN  BUREN,U.S. House,8,Write-ins,,0Daviess,13-VEALE,U.S. House,8,Write-ins,,0Daviess,14-WASHINGTON 1,U.S. House,8,Write-ins,,0Daviess,15-WASHINGTON 2,U.S. House,8,Write-ins,,0Daviess,16-WASHINGTON 3,U.S. House,8,Write-ins,,1Daviess,17-WASHINGTON 4,U.S. House,8,Write-ins,,0Daviess,18-WASHINGTON 5,U.S. House,8,Write-ins,,0Daviess,19-WASHINGTON 6,U.S. House,8,Write-ins,,0Daviess,20-WASHINGTON 7,U.S. House,8,Write-ins,,0Daviess,21-WASHINGTON 8,U.S. House,8,Write-ins,,0Daviess,22-WASHINGTON 9,U.S. House,8,Write-ins,,0Daviess,23-WASHINGTON 10,U.S. House,8,Write-ins,,0Daviess,24-WASHINGTON 11,U.S. House,8,Write-ins,,1Daviess,25-WASHINGTON 12,U.S. House,8,Write-ins,,0Daviess,26-WASHINGTON 13,U.S. House,8,Write-ins,,0Daviess,27-WASHINGTON 14,U.S. House,8,Write-ins,,0Daviess,28-WASHINGTON 15,U.S. House,8,Write-ins,,1Daviess,Total,U.S. House,8,Write-ins,,4Daviess,01-BARR  1,State House,63,Mike Braun,REP,551Daviess,02-BARR  2,State House,63,Mike Braun,REP,441Daviess,03-BOGARD,State House,63,Mike Braun,REP,148Daviess,04-ELMORE  1,State House,62,Jeff Ellington,REP,226Daviess,05-ELMORE  2,State House,62,Jeff Ellington,REP,106Daviess,06-HARRISON,State House,63,Mike Braun,REP,262Daviess,07-MADISON 1,State House,63,Mike Braun,REP,164Daviess,08-MADISON 2,State House,62,Jeff Ellington,REP,311Daviess,09-MADISON 3,State House,62,Jeff Ellington,REP,449Daviess,10-REEVE,State House,63,Mike Braun,REP,246Daviess,11-STEELE,State House,45,Bruce Borders,REP,365Daviess,12-VAN  BUREN,State House,63,Mike Braun,REP,203Daviess,13-VEALE,State House,63,Mike Braun,REP,506Daviess,14-WASHINGTON 1,State House,63,Mike Braun,REP,317Daviess,15-WASHINGTON 2,State House,63,Mike Braun,REP,230Daviess,16-WASHINGTON 3,State House,63,Mike Braun,REP,337Daviess,17-WASHINGTON 4,State House,63,Mike Braun,REP,546Daviess,18-WASHINGTON 5,State House,63,Mike Braun,REP,430Daviess,19-WASHINGTON 6,State House,63,Mike Braun,REP,287Daviess,20-WASHINGTON 7,State House,63,Mike Braun,REP,162Daviess,21-WASHINGTON 8,State House,63,Mike Braun,REP,236Daviess,22-WASHINGTON 9,State House,63,Mike Braun,REP,202Daviess,23-WASHINGTON 10,State House,63,Mike Braun,REP,130Daviess,24-WASHINGTON 11,State House,63,Mike Braun,REP,187Daviess,25-WASHINGTON 12,State House,63,Mike Braun,REP,154Daviess,26-WASHINGTON 13,State House,63,Mike Braun,REP,350Daviess,27-WASHINGTON 14,State House,63,Mike Braun,REP,259Daviess,28-WASHINGTON 15,State House,63,Mike Braun,REP,405Daviess,Total,State House,45,Bruce Borders,REP,365Daviess,Total,State House,62,Jeff Ellington,REP,1092Daviess,Total,State House,63,Mike Braun,REP,6753Daviess,01-BARR  1,State House,63,Andrea Huisman,DEM,131Daviess,02-BARR  2,State House,63,Andrea Huisman,DEM,71Daviess,03-BOGARD,State House,63,Andrea Huisman,DEM,20Daviess,04-ELMORE  1,State House,62,Steve Lindsey,DEM,55Daviess,05-ELMORE  2,State House,62,Steve Lindsey,DEM,40Daviess,06-HARRISON,State House,63,Andrea Huisman,DEM,46Daviess,07-MADISON 1,State House,63,Andrea Huisman,DEM,31Daviess,08-MADISON 2,State House,62,Steve Lindsey,DEM,47Daviess,09-MADISON 3,State House,62,Steve Lindsey,DEM,89Daviess,10-REEVE,State House,63,Andrea Huisman,DEM,42Daviess,12-VAN  BUREN,State House,63,Andrea Huisman,DEM,37Daviess,13-VEALE,State House,63,Andrea Huisman,DEM,102Daviess,14-WASHINGTON 1,State House,63,Andrea Huisman,DEM,50Daviess,15-WASHINGTON 2,State House,63,Andrea Huisman,DEM,94Daviess,16-WASHINGTON 3,State House,63,Andrea Huisman,DEM,95Daviess,17-WASHINGTON 4,State House,63,Andrea Huisman,DEM,146Daviess,18-WASHINGTON 5,State House,63,Andrea Huisman,DEM,131Daviess,19-WASHINGTON 6,State House,63,Andrea Huisman,DEM,84Daviess,20-WASHINGTON 7,State House,63,Andrea Huisman,DEM,62Daviess,21-WASHINGTON 8,State House,63,Andrea Huisman,DEM,117Daviess,22-WASHINGTON 9,State House,63,Andrea Huisman,DEM,108Daviess,23-WASHINGTON 10,State House,63,Andrea Huisman,DEM,55Daviess,24-WASHINGTON 11,State House,63,Andrea Huisman,DEM,90Daviess,25-WASHINGTON 12,State House,63,Andrea Huisman,DEM,88Daviess,26-WASHINGTON 13,State House,63,Andrea Huisman,DEM,124Daviess,27-WASHINGTON 14,State House,63,Andrea Huisman,DEM,104Daviess,28-WASHINGTON 15,State House,63,Andrea Huisman,DEM,137Daviess,Total,State House,62,Steve Lindsey,DEM,231Daviess,Total,State House,63,Andrea Huisman,DEM,1965
+county,precinct,office,district,candidate,party,votes
+Daviess,01-BARR  1,President,,Donald Trump,REP,579
+Daviess,02-BARR  2,President,,Donald Trump,REP,475
+Daviess,03-BOGARD,President,,Donald Trump,REP,152
+Daviess,04-ELMORE  1,President,,Donald Trump,REP,235
+Daviess,05-ELMORE  2,President,,Donald Trump,REP,108
+Daviess,06-HARRISON,President,,Donald Trump,REP,272
+Daviess,07-MADISON 1,President,,Donald Trump,REP,177
+Daviess,08-MADISON 2,President,,Donald Trump,REP,325
+Daviess,09-MADISON 3,President,,Donald Trump,REP,451
+Daviess,10-REEVE,President,,Donald Trump,REP,250
+Daviess,11-STEELE,President,,Donald Trump,REP,364
+Daviess,12-VAN  BUREN,President,,Donald Trump,REP,211
+Daviess,13-VEALE,President,,Donald Trump,REP,525
+Daviess,14-WASHINGTON 1,President,,Donald Trump,REP,316
+Daviess,15-WASHINGTON 2,President,,Donald Trump,REP,240
+Daviess,16-WASHINGTON 3,President,,Donald Trump,REP,370
+Daviess,17-WASHINGTON 4,President,,Donald Trump,REP,568
+Daviess,18-WASHINGTON 5,President,,Donald Trump,REP,428
+Daviess,19-WASHINGTON 6,President,,Donald Trump,REP,285
+Daviess,20-WASHINGTON 7,President,,Donald Trump,REP,171
+Daviess,21-WASHINGTON 8,President,,Donald Trump,REP,257
+Daviess,22-WASHINGTON 9,President,,Donald Trump,REP,228
+Daviess,23-WASHINGTON 10,President,,Donald Trump,REP,135
+Daviess,24-WASHINGTON 11,President,,Donald Trump,REP,205
+Daviess,25-WASHINGTON 12,President,,Donald Trump,REP,156
+Daviess,26-WASHINGTON 13,President,,Donald Trump,REP,350
+Daviess,27-WASHINGTON 14,President,,Donald Trump,REP,279
+Daviess,28-WASHINGTON 15,President,,Donald Trump,REP,433
+Daviess,Total,President,,Donald Trump,REP,8545
+Daviess,01-BARR  1,President,,Hillary Clinton,DEM,99
+Daviess,02-BARR  2,President,,Hillary Clinton,DEM,39
+Daviess,03-BOGARD,President,,Hillary Clinton,DEM,14
+Daviess,04-ELMORE  1,President,,Hillary Clinton,DEM,40
+Daviess,05-ELMORE  2,President,,Hillary Clinton,DEM,21
+Daviess,06-HARRISON,President,,Hillary Clinton,DEM,31
+Daviess,07-MADISON 1,President,,Hillary Clinton,DEM,20
+Daviess,08-MADISON 2,President,,Hillary Clinton,DEM,36
+Daviess,09-MADISON 3,President,,Hillary Clinton,DEM,79
+Daviess,10-REEVE,President,,Hillary Clinton,DEM,32
+Daviess,11-STEELE,President,,Hillary Clinton,DEM,51
+Daviess,12-VAN  BUREN,President,,Hillary Clinton,DEM,29
+Daviess,13-VEALE,President,,Hillary Clinton,DEM,74
+Daviess,14-WASHINGTON 1,President,,Hillary Clinton,DEM,47
+Daviess,15-WASHINGTON 2,President,,Hillary Clinton,DEM,69
+Daviess,16-WASHINGTON 3,President,,Hillary Clinton,DEM,77
+Daviess,17-WASHINGTON 4,President,,Hillary Clinton,DEM,117
+Daviess,18-WASHINGTON 5,President,,Hillary Clinton,DEM,123
+Daviess,19-WASHINGTON 6,President,,Hillary Clinton,DEM,81
+Daviess,20-WASHINGTON 7,President,,Hillary Clinton,DEM,51
+Daviess,21-WASHINGTON 8,President,,Hillary Clinton,DEM,88
+Daviess,22-WASHINGTON 9,President,,Hillary Clinton,DEM,75
+Daviess,23-WASHINGTON 10,President,,Hillary Clinton,DEM,47
+Daviess,24-WASHINGTON 11,President,,Hillary Clinton,DEM,68
+Daviess,25-WASHINGTON 12,President,,Hillary Clinton,DEM,76
+Daviess,26-WASHINGTON 13,President,,Hillary Clinton,DEM,110
+Daviess,27-WASHINGTON 14,President,,Hillary Clinton,DEM,92
+Daviess,28-WASHINGTON 15,President,,Hillary Clinton,DEM,114
+Daviess,Total,President,,Hillary Clinton,DEM,1800
+Daviess,01-BARR  1,President,,Gary Johnson,LBT,24
+Daviess,02-BARR  2,President,,Gary Johnson,LBT,17
+Daviess,03-BOGARD,President,,Gary Johnson,LBT,3
+Daviess,04-ELMORE  1,President,,Gary Johnson,LBT,13
+Daviess,05-ELMORE  2,President,,Gary Johnson,LBT,14
+Daviess,06-HARRISON,President,,Gary Johnson,LBT,12
+Daviess,07-MADISON 1,President,,Gary Johnson,LBT,2
+Daviess,08-MADISON 2,President,,Gary Johnson,LBT,12
+Daviess,09-MADISON 3,President,,Gary Johnson,LBT,22
+Daviess,10-REEVE,President,,Gary Johnson,LBT,11
+Daviess,11-STEELE,President,,Gary Johnson,LBT,7
+Daviess,12-VAN  BUREN,President,,Gary Johnson,LBT,7
+Daviess,13-VEALE,President,,Gary Johnson,LBT,19
+Daviess,14-WASHINGTON 1,President,,Gary Johnson,LBT,19
+Daviess,15-WASHINGTON 2,President,,Gary Johnson,LBT,17
+Daviess,16-WASHINGTON 3,President,,Gary Johnson,LBT,10
+Daviess,17-WASHINGTON 4,President,,Gary Johnson,LBT,24
+Daviess,18-WASHINGTON 5,President,,Gary Johnson,LBT,19
+Daviess,19-WASHINGTON 6,President,,Gary Johnson,LBT,11
+Daviess,20-WASHINGTON 7,President,,Gary Johnson,LBT,10
+Daviess,21-WASHINGTON 8,President,,Gary Johnson,LBT,15
+Daviess,22-WASHINGTON 9,President,,Gary Johnson,LBT,16
+Daviess,23-WASHINGTON 10,President,,Gary Johnson,LBT,9
+Daviess,24-WASHINGTON 11,President,,Gary Johnson,LBT,13
+Daviess,25-WASHINGTON 12,President,,Gary Johnson,LBT,17
+Daviess,26-WASHINGTON 13,President,,Gary Johnson,LBT,20
+Daviess,27-WASHINGTON 14,President,,Gary Johnson,LBT,12
+Daviess,28-WASHINGTON 15,President,,Gary Johnson,LBT,16
+Daviess,Total,President,,Gary Johnson,LBT,391
+Daviess,01-BARR  1,President,,Write-ins,,2
+Daviess,02-BARR  2,President,,Write-ins,,1
+Daviess,03-BOGARD,President,,Write-ins,,0
+Daviess,04-ELMORE  1,President,,Write-ins,,0
+Daviess,05-ELMORE  2,President,,Write-ins,,4
+Daviess,06-HARRISON,President,,Write-ins,,3
+Daviess,07-MADISON 1,President,,Write-ins,,3
+Daviess,08-MADISON 2,President,,Write-ins,,0
+Daviess,09-MADISON 3,President,,Write-ins,,5
+Daviess,10-REEVE,President,,Write-ins,,2
+Daviess,11-STEELE,President,,Write-ins,,3
+Daviess,12-VAN  BUREN,President,,Write-ins,,0
+Daviess,13-VEALE,President,,Write-ins,,5
+Daviess,14-WASHINGTON 1,President,,Write-ins,,4
+Daviess,15-WASHINGTON 2,President,,Write-ins,,2
+Daviess,16-WASHINGTON 3,President,,Write-ins,,3
+Daviess,17-WASHINGTON 4,President,,Write-ins,,7
+Daviess,18-WASHINGTON 5,President,,Write-ins,,6
+Daviess,19-WASHINGTON 6,President,,Write-ins,,6
+Daviess,20-WASHINGTON 7,President,,Write-ins,,2
+Daviess,21-WASHINGTON 8,President,,Write-ins,,2
+Daviess,22-WASHINGTON 9,President,,Write-ins,,3
+Daviess,23-WASHINGTON 10,President,,Write-ins,,3
+Daviess,24-WASHINGTON 11,President,,Write-ins,,4
+Daviess,25-WASHINGTON 12,President,,Write-ins,,2
+Daviess,26-WASHINGTON 13,President,,Write-ins,,5
+Daviess,27-WASHINGTON 14,President,,Write-ins,,2
+Daviess,28-WASHINGTON 15,President,,Write-ins,,4
+Daviess,Total,President,,Write-ins,,83
+Daviess,01-BARR  1,U.S. Senate,,Todd Young,REP,502
+Daviess,02-BARR  2,U.S. Senate,,Todd Young,REP,419
+Daviess,03-BOGARD,U.S. Senate,,Todd Young,REP,132
+Daviess,04-ELMORE  1,U.S. Senate,,Todd Young,REP,192
+Daviess,05-ELMORE  2,U.S. Senate,,Todd Young,REP,96
+Daviess,06-HARRISON,U.S. Senate,,Todd Young,REP,229
+Daviess,07-MADISON 1,U.S. Senate,,Todd Young,REP,148
+Daviess,08-MADISON 2,U.S. Senate,,Todd Young,REP,275
+Daviess,09-MADISON 3,U.S. Senate,,Todd Young,REP,368
+Daviess,10-REEVE,U.S. Senate,,Todd Young,REP,217
+Daviess,11-STEELE,U.S. Senate,,Todd Young,REP,293
+Daviess,12-VAN  BUREN,U.S. Senate,,Todd Young,REP,188
+Daviess,13-VEALE,U.S. Senate,,Todd Young,REP,441
+Daviess,14-WASHINGTON 1,U.S. Senate,,Todd Young,REP,277
+Daviess,15-WASHINGTON 2,U.S. Senate,,Todd Young,REP,203
+Daviess,16-WASHINGTON 3,U.S. Senate,,Todd Young,REP,295
+Daviess,17-WASHINGTON 4,U.S. Senate,,Todd Young,REP,466
+Daviess,18-WASHINGTON 5,U.S. Senate,,Todd Young,REP,375
+Daviess,19-WASHINGTON 6,U.S. Senate,,Todd Young,REP,234
+Daviess,20-WASHINGTON 7,U.S. Senate,,Todd Young,REP,139
+Daviess,21-WASHINGTON 8,U.S. Senate,,Todd Young,REP,198
+Daviess,22-WASHINGTON 9,U.S. Senate,,Todd Young,REP,169
+Daviess,23-WASHINGTON 10,U.S. Senate,,Todd Young,REP,115
+Daviess,24-WASHINGTON 11,U.S. Senate,,Todd Young,REP,164
+Daviess,25-WASHINGTON 12,U.S. Senate,,Todd Young,REP,110
+Daviess,26-WASHINGTON 13,U.S. Senate,,Todd Young,REP,291
+Daviess,27-WASHINGTON 14,U.S. Senate,,Todd Young,REP,218
+Daviess,28-WASHINGTON 15,U.S. Senate,,Todd Young,REP,342
+Daviess,Total,U.S. Senate,,Todd Young,REP,7096
+Daviess,01-BARR  1,U.S. Senate,,Evan Bayh,DEM,180
+Daviess,02-BARR  2,U.S. Senate,,Evan Bayh,DEM,93
+Daviess,03-BOGARD,U.S. Senate,,Evan Bayh,DEM,30
+Daviess,04-ELMORE  1,U.S. Senate,,Evan Bayh,DEM,82
+Daviess,05-ELMORE  2,U.S. Senate,,Evan Bayh,DEM,42
+Daviess,06-HARRISON,U.S. Senate,,Evan Bayh,DEM,78
+Daviess,07-MADISON 1,U.S. Senate,,Evan Bayh,DEM,45
+Daviess,08-MADISON 2,U.S. Senate,,Evan Bayh,DEM,74
+Daviess,09-MADISON 3,U.S. Senate,,Evan Bayh,DEM,156
+Daviess,10-REEVE,U.S. Senate,,Evan Bayh,DEM,58
+Daviess,11-STEELE,U.S. Senate,,Evan Bayh,DEM,107
+Daviess,12-VAN  BUREN,U.S. Senate,,Evan Bayh,DEM,52
+Daviess,13-VEALE,U.S. Senate,,Evan Bayh,DEM,154
+Daviess,14-WASHINGTON 1,U.S. Senate,,Evan Bayh,DEM,85
+Daviess,15-WASHINGTON 2,U.S. Senate,,Evan Bayh,DEM,114
+Daviess,16-WASHINGTON 3,U.S. Senate,,Evan Bayh,DEM,132
+Daviess,17-WASHINGTON 4,U.S. Senate,,Evan Bayh,DEM,224
+Daviess,18-WASHINGTON 5,U.S. Senate,,Evan Bayh,DEM,176
+Daviess,19-WASHINGTON 6,U.S. Senate,,Evan Bayh,DEM,125
+Daviess,20-WASHINGTON 7,U.S. Senate,,Evan Bayh,DEM,80
+Daviess,21-WASHINGTON 8,U.S. Senate,,Evan Bayh,DEM,134
+Daviess,22-WASHINGTON 9,U.S. Senate,,Evan Bayh,DEM,125
+Daviess,23-WASHINGTON 10,U.S. Senate,,Evan Bayh,DEM,62
+Daviess,24-WASHINGTON 11,U.S. Senate,,Evan Bayh,DEM,104
+Daviess,25-WASHINGTON 12,U.S. Senate,,Evan Bayh,DEM,117
+Daviess,26-WASHINGTON 13,U.S. Senate,,Evan Bayh,DEM,177
+Daviess,27-WASHINGTON 14,U.S. Senate,,Evan Bayh,DEM,137
+Daviess,28-WASHINGTON 15,U.S. Senate,,Evan Bayh,DEM,188
+Daviess,Total,U.S. Senate,,Evan Bayh,DEM,3131
+Daviess,01-BARR  1,U.S. Senate,,Lucy Brenton,LBT,16
+Daviess,02-BARR  2,U.S. Senate,,Lucy Brenton,LBT,14
+Daviess,03-BOGARD,U.S. Senate,,Lucy Brenton,LBT,6
+Daviess,04-ELMORE  1,U.S. Senate,,Lucy Brenton,LBT,12
+Daviess,05-ELMORE  2,U.S. Senate,,Lucy Brenton,LBT,7
+Daviess,06-HARRISON,U.S. Senate,,Lucy Brenton,LBT,11
+Daviess,07-MADISON 1,U.S. Senate,,Lucy Brenton,LBT,4
+Daviess,08-MADISON 2,U.S. Senate,,Lucy Brenton,LBT,14
+Daviess,09-MADISON 3,U.S. Senate,,Lucy Brenton,LBT,30
+Daviess,10-REEVE,U.S. Senate,,Lucy Brenton,LBT,15
+Daviess,11-STEELE,U.S. Senate,,Lucy Brenton,LBT,19
+Daviess,12-VAN  BUREN,U.S. Senate,,Lucy Brenton,LBT,4
+Daviess,13-VEALE,U.S. Senate,,Lucy Brenton,LBT,26
+Daviess,14-WASHINGTON 1,U.S. Senate,,Lucy Brenton,LBT,17
+Daviess,15-WASHINGTON 2,U.S. Senate,,Lucy Brenton,LBT,13
+Daviess,16-WASHINGTON 3,U.S. Senate,,Lucy Brenton,LBT,21
+Daviess,17-WASHINGTON 4,U.S. Senate,,Lucy Brenton,LBT,23
+Daviess,18-WASHINGTON 5,U.S. Senate,,Lucy Brenton,LBT,14
+Daviess,19-WASHINGTON 6,U.S. Senate,,Lucy Brenton,LBT,15
+Daviess,20-WASHINGTON 7,U.S. Senate,,Lucy Brenton,LBT,7
+Daviess,21-WASHINGTON 8,U.S. Senate,,Lucy Brenton,LBT,28
+Daviess,22-WASHINGTON 9,U.S. Senate,,Lucy Brenton,LBT,23
+Daviess,23-WASHINGTON 10,U.S. Senate,,Lucy Brenton,LBT,13
+Daviess,24-WASHINGTON 11,U.S. Senate,,Lucy Brenton,LBT,17
+Daviess,25-WASHINGTON 12,U.S. Senate,,Lucy Brenton,LBT,18
+Daviess,26-WASHINGTON 13,U.S. Senate,,Lucy Brenton,LBT,20
+Daviess,27-WASHINGTON 14,U.S. Senate,,Lucy Brenton,LBT,19
+Daviess,28-WASHINGTON 15,U.S. Senate,,Lucy Brenton,LBT,24
+Daviess,Total,U.S. Senate,,Lucy Brenton,LBT,450
+Daviess,01-BARR  1,U.S. Senate,,Write-ins,,0
+Daviess,02-BARR  2,U.S. Senate,,Write-ins,,0
+Daviess,03-BOGARD,U.S. Senate,,Write-ins,,0
+Daviess,04-ELMORE  1,U.S. Senate,,Write-ins,,0
+Daviess,05-ELMORE  2,U.S. Senate,,Write-ins,,0
+Daviess,06-HARRISON,U.S. Senate,,Write-ins,,0
+Daviess,07-MADISON 1,U.S. Senate,,Write-ins,,0
+Daviess,08-MADISON 2,U.S. Senate,,Write-ins,,0
+Daviess,09-MADISON 3,U.S. Senate,,Write-ins,,0
+Daviess,10-REEVE,U.S. Senate,,Write-ins,,0
+Daviess,11-STEELE,U.S. Senate,,Write-ins,,0
+Daviess,12-VAN  BUREN,U.S. Senate,,Write-ins,,0
+Daviess,13-VEALE,U.S. Senate,,Write-ins,,0
+Daviess,14-WASHINGTON 1,U.S. Senate,,Write-ins,,0
+Daviess,15-WASHINGTON 2,U.S. Senate,,Write-ins,,0
+Daviess,16-WASHINGTON 3,U.S. Senate,,Write-ins,,0
+Daviess,17-WASHINGTON 4,U.S. Senate,,Write-ins,,1
+Daviess,18-WASHINGTON 5,U.S. Senate,,Write-ins,,0
+Daviess,19-WASHINGTON 6,U.S. Senate,,Write-ins,,0
+Daviess,20-WASHINGTON 7,U.S. Senate,,Write-ins,,0
+Daviess,21-WASHINGTON 8,U.S. Senate,,Write-ins,,0
+Daviess,22-WASHINGTON 9,U.S. Senate,,Write-ins,,0
+Daviess,23-WASHINGTON 10,U.S. Senate,,Write-ins,,0
+Daviess,24-WASHINGTON 11,U.S. Senate,,Write-ins,,0
+Daviess,25-WASHINGTON 12,U.S. Senate,,Write-ins,,0
+Daviess,26-WASHINGTON 13,U.S. Senate,,Write-ins,,0
+Daviess,27-WASHINGTON 14,U.S. Senate,,Write-ins,,0
+Daviess,28-WASHINGTON 15,U.S. Senate,,Write-ins,,0
+Daviess,Total,U.S. Senate,,Write-ins,,1
+Daviess,01-BARR  1,Governor,,Eric Holcomb,REP,435
+Daviess,02-BARR  2,Governor,,Eric Holcomb,REP,373
+Daviess,03-BOGARD,Governor,,Eric Holcomb,REP,123
+Daviess,04-ELMORE  1,Governor,,Eric Holcomb,REP,155
+Daviess,05-ELMORE  2,Governor,,Eric Holcomb,REP,76
+Daviess,06-HARRISON,Governor,,Eric Holcomb,REP,193
+Daviess,07-MADISON 1,Governor,,Eric Holcomb,REP,131
+Daviess,08-MADISON 2,Governor,,Eric Holcomb,REP,246
+Daviess,09-MADISON 3,Governor,,Eric Holcomb,REP,337
+Daviess,10-REEVE,Governor,,Eric Holcomb,REP,222
+Daviess,11-STEELE,Governor,,Eric Holcomb,REP,254
+Daviess,12-VAN  BUREN,Governor,,Eric Holcomb,REP,167
+Daviess,13-VEALE,Governor,,Eric Holcomb,REP,404
+Daviess,14-WASHINGTON 1,Governor,,Eric Holcomb,REP,265
+Daviess,15-WASHINGTON 2,Governor,,Eric Holcomb,REP,180
+Daviess,16-WASHINGTON 3,Governor,,Eric Holcomb,REP,285
+Daviess,17-WASHINGTON 4,Governor,,Eric Holcomb,REP,427
+Daviess,18-WASHINGTON 5,Governor,,Eric Holcomb,REP,329
+Daviess,19-WASHINGTON 6,Governor,,Eric Holcomb,REP,219
+Daviess,20-WASHINGTON 7,Governor,,Eric Holcomb,REP,122
+Daviess,21-WASHINGTON 8,Governor,,Eric Holcomb,REP,194
+Daviess,22-WASHINGTON 9,Governor,,Eric Holcomb,REP,152
+Daviess,23-WASHINGTON 10,Governor,,Eric Holcomb,REP,108
+Daviess,24-WASHINGTON 11,Governor,,Eric Holcomb,REP,148
+Daviess,25-WASHINGTON 12,Governor,,Eric Holcomb,REP,106
+Daviess,26-WASHINGTON 13,Governor,,Eric Holcomb,REP,283
+Daviess,27-WASHINGTON 14,Governor,,Eric Holcomb,REP,196
+Daviess,28-WASHINGTON 15,Governor,,Eric Holcomb,REP,330
+Daviess,Total,Governor,,Eric Holcomb,REP,6460
+Daviess,01-BARR  1,Governor,,John Gregg,DEM,251
+Daviess,02-BARR  2,Governor,,John Gregg,DEM,141
+Daviess,03-BOGARD,Governor,,John Gregg,DEM,44
+Daviess,04-ELMORE  1,Governor,,John Gregg,DEM,129
+Daviess,05-ELMORE  2,Governor,,John Gregg,DEM,68
+Daviess,06-HARRISON,Governor,,John Gregg,DEM,121
+Daviess,07-MADISON 1,Governor,,John Gregg,DEM,64
+Daviess,08-MADISON 2,Governor,,John Gregg,DEM,117
+Daviess,09-MADISON 3,Governor,,John Gregg,DEM,205
+Daviess,10-REEVE,Governor,,John Gregg,DEM,62
+Daviess,11-STEELE,Governor,,John Gregg,DEM,162
+Daviess,12-VAN  BUREN,Governor,,John Gregg,DEM,75
+Daviess,13-VEALE,Governor,,John Gregg,DEM,211
+Daviess,14-WASHINGTON 1,Governor,,John Gregg,DEM,113
+Daviess,15-WASHINGTON 2,Governor,,John Gregg,DEM,149
+Daviess,16-WASHINGTON 3,Governor,,John Gregg,DEM,159
+Daviess,17-WASHINGTON 4,Governor,,John Gregg,DEM,266
+Daviess,18-WASHINGTON 5,Governor,,John Gregg,DEM,233
+Daviess,19-WASHINGTON 6,Governor,,John Gregg,DEM,153
+Daviess,20-WASHINGTON 7,Governor,,John Gregg,DEM,103
+Daviess,21-WASHINGTON 8,Governor,,John Gregg,DEM,153
+Daviess,22-WASHINGTON 9,Governor,,John Gregg,DEM,154
+Daviess,23-WASHINGTON 10,Governor,,John Gregg,DEM,70
+Daviess,24-WASHINGTON 11,Governor,,John Gregg,DEM,130
+Daviess,25-WASHINGTON 12,Governor,,John Gregg,DEM,133
+Daviess,26-WASHINGTON 13,Governor,,John Gregg,DEM,193
+Daviess,27-WASHINGTON 14,Governor,,John Gregg,DEM,169
+Daviess,28-WASHINGTON 15,Governor,,John Gregg,DEM,221
+Daviess,Total,Governor,,John Gregg,DEM,4049
+Daviess,01-BARR  1,Governor,,Rex Bell,LBT,11
+Daviess,02-BARR  2,Governor,,Rex Bell,LBT,8
+Daviess,03-BOGARD,Governor,,Rex Bell,LBT,1
+Daviess,04-ELMORE  1,Governor,,Rex Bell,LBT,3
+Daviess,05-ELMORE  2,Governor,,Rex Bell,LBT,3
+Daviess,06-HARRISON,Governor,,Rex Bell,LBT,4
+Daviess,07-MADISON 1,Governor,,Rex Bell,LBT,3
+Daviess,08-MADISON 2,Governor,,Rex Bell,LBT,5
+Daviess,09-MADISON 3,Governor,,Rex Bell,LBT,15
+Daviess,10-REEVE,Governor,,Rex Bell,LBT,8
+Daviess,11-STEELE,Governor,,Rex Bell,LBT,7
+Daviess,12-VAN  BUREN,Governor,,Rex Bell,LBT,5
+Daviess,13-VEALE,Governor,,Rex Bell,LBT,12
+Daviess,14-WASHINGTON 1,Governor,,Rex Bell,LBT,6
+Daviess,15-WASHINGTON 2,Governor,,Rex Bell,LBT,3
+Daviess,16-WASHINGTON 3,Governor,,Rex Bell,LBT,5
+Daviess,17-WASHINGTON 4,Governor,,Rex Bell,LBT,18
+Daviess,18-WASHINGTON 5,Governor,,Rex Bell,LBT,4
+Daviess,19-WASHINGTON 6,Governor,,Rex Bell,LBT,4
+Daviess,20-WASHINGTON 7,Governor,,Rex Bell,LBT,4
+Daviess,21-WASHINGTON 8,Governor,,Rex Bell,LBT,14
+Daviess,22-WASHINGTON 9,Governor,,Rex Bell,LBT,12
+Daviess,23-WASHINGTON 10,Governor,,Rex Bell,LBT,9
+Daviess,24-WASHINGTON 11,Governor,,Rex Bell,LBT,9
+Daviess,25-WASHINGTON 12,Governor,,Rex Bell,LBT,9
+Daviess,26-WASHINGTON 13,Governor,,Rex Bell,LBT,13
+Daviess,27-WASHINGTON 14,Governor,,Rex Bell,LBT,12
+Daviess,28-WASHINGTON 15,Governor,,Rex Bell,LBT,10
+Daviess,Total,Governor,,Rex Bell,LBT,217
+Daviess,01-BARR  1,Governor,,Write-ins,,0
+Daviess,02-BARR  2,Governor,,Write-ins,,0
+Daviess,03-BOGARD,Governor,,Write-ins,,0
+Daviess,04-ELMORE  1,Governor,,Write-ins,,0
+Daviess,05-ELMORE  2,Governor,,Write-ins,,0
+Daviess,06-HARRISON,Governor,,Write-ins,,0
+Daviess,07-MADISON 1,Governor,,Write-ins,,0
+Daviess,08-MADISON 2,Governor,,Write-ins,,0
+Daviess,09-MADISON 3,Governor,,Write-ins,,0
+Daviess,10-REEVE,Governor,,Write-ins,,0
+Daviess,11-STEELE,Governor,,Write-ins,,0
+Daviess,12-VAN  BUREN,Governor,,Write-ins,,0
+Daviess,13-VEALE,Governor,,Write-ins,,1
+Daviess,14-WASHINGTON 1,Governor,,Write-ins,,0
+Daviess,15-WASHINGTON 2,Governor,,Write-ins,,0
+Daviess,16-WASHINGTON 3,Governor,,Write-ins,,0
+Daviess,17-WASHINGTON 4,Governor,,Write-ins,,0
+Daviess,18-WASHINGTON 5,Governor,,Write-ins,,0
+Daviess,19-WASHINGTON 6,Governor,,Write-ins,,0
+Daviess,20-WASHINGTON 7,Governor,,Write-ins,,0
+Daviess,21-WASHINGTON 8,Governor,,Write-ins,,0
+Daviess,22-WASHINGTON 9,Governor,,Write-ins,,0
+Daviess,23-WASHINGTON 10,Governor,,Write-ins,,0
+Daviess,24-WASHINGTON 11,Governor,,Write-ins,,1
+Daviess,25-WASHINGTON 12,Governor,,Write-ins,,0
+Daviess,26-WASHINGTON 13,Governor,,Write-ins,,0
+Daviess,27-WASHINGTON 14,Governor,,Write-ins,,0
+Daviess,28-WASHINGTON 15,Governor,,Write-ins,,0
+Daviess,Total,Governor,,Write-ins,,2
+Daviess,01-BARR  1,Attorney General,,Curtis Hill,REP,556
+Daviess,02-BARR  2,Attorney General,,Curtis Hill,REP,437
+Daviess,03-BOGARD,Attorney General,,Curtis Hill,REP,142
+Daviess,04-ELMORE  1,Attorney General,,Curtis Hill,REP,236
+Daviess,05-ELMORE  2,Attorney General,,Curtis Hill,REP,112
+Daviess,06-HARRISON,Attorney General,,Curtis Hill,REP,257
+Daviess,07-MADISON 1,Attorney General,,Curtis Hill,REP,168
+Daviess,08-MADISON 2,Attorney General,,Curtis Hill,REP,315
+Daviess,09-MADISON 3,Attorney General,,Curtis Hill,REP,436
+Daviess,10-REEVE,Attorney General,,Curtis Hill,REP,246
+Daviess,11-STEELE,Attorney General,,Curtis Hill,REP,334
+Daviess,12-VAN  BUREN,Attorney General,,Curtis Hill,REP,202
+Daviess,13-VEALE,Attorney General,,Curtis Hill,REP,503
+Daviess,14-WASHINGTON 1,Attorney General,,Curtis Hill,REP,314
+Daviess,15-WASHINGTON 2,Attorney General,,Curtis Hill,REP,240
+Daviess,16-WASHINGTON 3,Attorney General,,Curtis Hill,REP,347
+Daviess,17-WASHINGTON 4,Attorney General,,Curtis Hill,REP,541
+Daviess,18-WASHINGTON 5,Attorney General,,Curtis Hill,REP,429
+Daviess,19-WASHINGTON 6,Attorney General,,Curtis Hill,REP,294
+Daviess,20-WASHINGTON 7,Attorney General,,Curtis Hill,REP,170
+Daviess,21-WASHINGTON 8,Attorney General,,Curtis Hill,REP,249
+Daviess,22-WASHINGTON 9,Attorney General,,Curtis Hill,REP,212
+Daviess,23-WASHINGTON 10,Attorney General,,Curtis Hill,REP,136
+Daviess,24-WASHINGTON 11,Attorney General,,Curtis Hill,REP,197
+Daviess,25-WASHINGTON 12,Attorney General,,Curtis Hill,REP,149
+Daviess,26-WASHINGTON 13,Attorney General,,Curtis Hill,REP,355
+Daviess,27-WASHINGTON 14,Attorney General,,Curtis Hill,REP,269
+Daviess,28-WASHINGTON 15,Attorney General,,Curtis Hill,REP,407
+Daviess,Total,Attorney General,,Curtis Hill,REP,8253
+Daviess,01-BARR  1,Attorney General,,Lorenzo Arredondo,DEM,102
+Daviess,02-BARR  2,Attorney General,,Lorenzo Arredondo,DEM,64
+Daviess,03-BOGARD,Attorney General,,Lorenzo Arredondo,DEM,16
+Daviess,04-ELMORE  1,Attorney General,,Lorenzo Arredondo,DEM,42
+Daviess,05-ELMORE  2,Attorney General,,Lorenzo Arredondo,DEM,28
+Daviess,06-HARRISON,Attorney General,,Lorenzo Arredondo,DEM,41
+Daviess,07-MADISON 1,Attorney General,,Lorenzo Arredondo,DEM,21
+Daviess,08-MADISON 2,Attorney General,,Lorenzo Arredondo,DEM,37
+Daviess,09-MADISON 3,Attorney General,,Lorenzo Arredondo,DEM,84
+Daviess,10-REEVE,Attorney General,,Lorenzo Arredondo,DEM,36
+Daviess,11-STEELE,Attorney General,,Lorenzo Arredondo,DEM,57
+Daviess,12-VAN  BUREN,Attorney General,,Lorenzo Arredondo,DEM,27
+Daviess,13-VEALE,Attorney General,,Lorenzo Arredondo,DEM,84
+Daviess,14-WASHINGTON 1,Attorney General,,Lorenzo Arredondo,DEM,43
+Daviess,15-WASHINGTON 2,Attorney General,,Lorenzo Arredondo,DEM,75
+Daviess,16-WASHINGTON 3,Attorney General,,Lorenzo Arredondo,DEM,84
+Daviess,17-WASHINGTON 4,Attorney General,,Lorenzo Arredondo,DEM,135
+Daviess,18-WASHINGTON 5,Attorney General,,Lorenzo Arredondo,DEM,111
+Daviess,19-WASHINGTON 6,Attorney General,,Lorenzo Arredondo,DEM,73
+Daviess,20-WASHINGTON 7,Attorney General,,Lorenzo Arredondo,DEM,53
+Daviess,21-WASHINGTON 8,Attorney General,,Lorenzo Arredondo,DEM,95
+Daviess,22-WASHINGTON 9,Attorney General,,Lorenzo Arredondo,DEM,89
+Daviess,23-WASHINGTON 10,Attorney General,,Lorenzo Arredondo,DEM,47
+Daviess,24-WASHINGTON 11,Attorney General,,Lorenzo Arredondo,DEM,76
+Daviess,25-WASHINGTON 12,Attorney General,,Lorenzo Arredondo,DEM,87
+Daviess,26-WASHINGTON 13,Attorney General,,Lorenzo Arredondo,DEM,113
+Daviess,27-WASHINGTON 14,Attorney General,,Lorenzo Arredondo,DEM,95
+Daviess,28-WASHINGTON 15,Attorney General,,Lorenzo Arredondo,DEM,122
+Daviess,Total,Attorney General,,Lorenzo Arredondo,DEM,1937
+Daviess,01-BARR  1,Public Instruction,,Jennifer McCormick,REP,454
+Daviess,02-BARR  2,Public Instruction,,Jennifer McCormick,REP,380
+Daviess,03-BOGARD,Public Instruction,,Jennifer McCormick,REP,127
+Daviess,04-ELMORE  1,Public Instruction,,Jennifer McCormick,REP,200
+Daviess,05-ELMORE  2,Public Instruction,,Jennifer McCormick,REP,87
+Daviess,06-HARRISON,Public Instruction,,Jennifer McCormick,REP,215
+Daviess,07-MADISON 1,Public Instruction,,Jennifer McCormick,REP,151
+Daviess,08-MADISON 2,Public Instruction,,Jennifer McCormick,REP,276
+Daviess,09-MADISON 3,Public Instruction,,Jennifer McCormick,REP,389
+Daviess,10-REEVE,Public Instruction,,Jennifer McCormick,REP,224
+Daviess,11-STEELE,Public Instruction,,Jennifer McCormick,REP,285
+Daviess,12-VAN  BUREN,Public Instruction,,Jennifer McCormick,REP,173
+Daviess,13-VEALE,Public Instruction,,Jennifer McCormick,REP,423
+Daviess,14-WASHINGTON 1,Public Instruction,,Jennifer McCormick,REP,273
+Daviess,15-WASHINGTON 2,Public Instruction,,Jennifer McCormick,REP,198
+Daviess,16-WASHINGTON 3,Public Instruction,,Jennifer McCormick,REP,303
+Daviess,17-WASHINGTON 4,Public Instruction,,Jennifer McCormick,REP,443
+Daviess,18-WASHINGTON 5,Public Instruction,,Jennifer McCormick,REP,338
+Daviess,19-WASHINGTON 6,Public Instruction,,Jennifer McCormick,REP,249
+Daviess,20-WASHINGTON 7,Public Instruction,,Jennifer McCormick,REP,138
+Daviess,21-WASHINGTON 8,Public Instruction,,Jennifer McCormick,REP,194
+Daviess,22-WASHINGTON 9,Public Instruction,,Jennifer McCormick,REP,193
+Daviess,23-WASHINGTON 10,Public Instruction,,Jennifer McCormick,REP,130
+Daviess,24-WASHINGTON 11,Public Instruction,,Jennifer McCormick,REP,167
+Daviess,25-WASHINGTON 12,Public Instruction,,Jennifer McCormick,REP,138
+Daviess,26-WASHINGTON 13,Public Instruction,,Jennifer McCormick,REP,301
+Daviess,27-WASHINGTON 14,Public Instruction,,Jennifer McCormick,REP,216
+Daviess,28-WASHINGTON 15,Public Instruction,,Jennifer McCormick,REP,357
+Daviess,Total,Public Instruction,,Jennifer McCormick,REP,7022
+Daviess,01-BARR  1,Public Instruction,,Glenda Ritz,DEM,230
+Daviess,02-BARR  2,Public Instruction,,Glenda Ritz,DEM,136
+Daviess,03-BOGARD,Public Instruction,,Glenda Ritz,DEM,37
+Daviess,04-ELMORE  1,Public Instruction,,Glenda Ritz,DEM,84
+Daviess,05-ELMORE  2,Public Instruction,,Glenda Ritz,DEM,57
+Daviess,06-HARRISON,Public Instruction,,Glenda Ritz,DEM,94
+Daviess,07-MADISON 1,Public Instruction,,Glenda Ritz,DEM,48
+Daviess,08-MADISON 2,Public Instruction,,Glenda Ritz,DEM,83
+Daviess,09-MADISON 3,Public Instruction,,Glenda Ritz,DEM,148
+Daviess,10-REEVE,Public Instruction,,Glenda Ritz,DEM,63
+Daviess,11-STEELE,Public Instruction,,Glenda Ritz,DEM,121
+Daviess,12-VAN  BUREN,Public Instruction,,Glenda Ritz,DEM,65
+Daviess,13-VEALE,Public Instruction,,Glenda Ritz,DEM,180
+Daviess,14-WASHINGTON 1,Public Instruction,,Glenda Ritz,DEM,96
+Daviess,15-WASHINGTON 2,Public Instruction,,Glenda Ritz,DEM,127
+Daviess,16-WASHINGTON 3,Public Instruction,,Glenda Ritz,DEM,138
+Daviess,17-WASHINGTON 4,Public Instruction,,Glenda Ritz,DEM,260
+Daviess,18-WASHINGTON 5,Public Instruction,,Glenda Ritz,DEM,221
+Daviess,19-WASHINGTON 6,Public Instruction,,Glenda Ritz,DEM,123
+Daviess,20-WASHINGTON 7,Public Instruction,,Glenda Ritz,DEM,87
+Daviess,21-WASHINGTON 8,Public Instruction,,Glenda Ritz,DEM,159
+Daviess,22-WASHINGTON 9,Public Instruction,,Glenda Ritz,DEM,114
+Daviess,23-WASHINGTON 10,Public Instruction,,Glenda Ritz,DEM,59
+Daviess,24-WASHINGTON 11,Public Instruction,,Glenda Ritz,DEM,109
+Daviess,25-WASHINGTON 12,Public Instruction,,Glenda Ritz,DEM,103
+Daviess,26-WASHINGTON 13,Public Instruction,,Glenda Ritz,DEM,172
+Daviess,27-WASHINGTON 14,Public Instruction,,Glenda Ritz,DEM,157
+Daviess,28-WASHINGTON 15,Public Instruction,,Glenda Ritz,DEM,190
+Daviess,Total,Public Instruction,,Glenda Ritz,DEM,3461
+Daviess,01-BARR  1,U.S. House,8,Larry Bucshon,REP,590
+Daviess,02-BARR  2,U.S. House,8,Larry Bucshon,REP,448
+Daviess,03-BOGARD,U.S. House,8,Larry Bucshon,REP,152
+Daviess,04-ELMORE  1,U.S. House,8,Larry Bucshon,REP,241
+Daviess,05-ELMORE  2,U.S. House,8,Larry Bucshon,REP,110
+Daviess,06-HARRISON,U.S. House,8,Larry Bucshon,REP,255
+Daviess,07-MADISON 1,U.S. House,8,Larry Bucshon,REP,176
+Daviess,08-MADISON 2,U.S. House,8,Larry Bucshon,REP,317
+Daviess,09-MADISON 3,U.S. House,8,Larry Bucshon,REP,454
+Daviess,10-REEVE,U.S. House,8,Larry Bucshon,REP,246
+Daviess,11-STEELE,U.S. House,8,Larry Bucshon,REP,351
+Daviess,12-VAN  BUREN,U.S. House,8,Larry Bucshon,REP,208
+Daviess,13-VEALE,U.S. House,8,Larry Bucshon,REP,520
+Daviess,14-WASHINGTON 1,U.S. House,8,Larry Bucshon,REP,328
+Daviess,15-WASHINGTON 2,U.S. House,8,Larry Bucshon,REP,241
+Daviess,16-WASHINGTON 3,U.S. House,8,Larry Bucshon,REP,355
+Daviess,17-WASHINGTON 4,U.S. House,8,Larry Bucshon,REP,571
+Daviess,18-WASHINGTON 5,U.S. House,8,Larry Bucshon,REP,467
+Daviess,19-WASHINGTON 6,U.S. House,8,Larry Bucshon,REP,300
+Daviess,20-WASHINGTON 7,U.S. House,8,Larry Bucshon,REP,171
+Daviess,21-WASHINGTON 8,U.S. House,8,Larry Bucshon,REP,255
+Daviess,22-WASHINGTON 9,U.S. House,8,Larry Bucshon,REP,221
+Daviess,23-WASHINGTON 10,U.S. House,8,Larry Bucshon,REP,130
+Daviess,24-WASHINGTON 11,U.S. House,8,Larry Bucshon,REP,205
+Daviess,25-WASHINGTON 12,U.S. House,8,Larry Bucshon,REP,158
+Daviess,26-WASHINGTON 13,U.S. House,8,Larry Bucshon,REP,358
+Daviess,27-WASHINGTON 14,U.S. House,8,Larry Bucshon,REP,274
+Daviess,28-WASHINGTON 15,U.S. House,8,Larry Bucshon,REP,426
+Daviess,Total,U.S. House,8,Larry Bucshon,REP,8528
+Daviess,01-BARR  1,U.S. House,8,Ron Drake,DEM,89
+Daviess,02-BARR  2,U.S. House,8,Ron Drake,DEM,51
+Daviess,03-BOGARD,U.S. House,8,Ron Drake,DEM,10
+Daviess,04-ELMORE  1,U.S. House,8,Ron Drake,DEM,35
+Daviess,05-ELMORE  2,U.S. House,8,Ron Drake,DEM,29
+Daviess,06-HARRISON,U.S. House,8,Ron Drake,DEM,44
+Daviess,07-MADISON 1,U.S. House,8,Ron Drake,DEM,18
+Daviess,08-MADISON 2,U.S. House,8,Ron Drake,DEM,38
+Daviess,09-MADISON 3,U.S. House,8,Ron Drake,DEM,76
+Daviess,10-REEVE,U.S. House,8,Ron Drake,DEM,30
+Daviess,11-STEELE,U.S. House,8,Ron Drake,DEM,51
+Daviess,12-VAN  BUREN,U.S. House,8,Ron Drake,DEM,28
+Daviess,13-VEALE,U.S. House,8,Ron Drake,DEM,76
+Daviess,14-WASHINGTON 1,U.S. House,8,Ron Drake,DEM,37
+Daviess,15-WASHINGTON 2,U.S. House,8,Ron Drake,DEM,77
+Daviess,16-WASHINGTON 3,U.S. House,8,Ron Drake,DEM,78
+Daviess,17-WASHINGTON 4,U.S. House,8,Ron Drake,DEM,107
+Daviess,18-WASHINGTON 5,U.S. House,8,Ron Drake,DEM,92
+Daviess,19-WASHINGTON 6,U.S. House,8,Ron Drake,DEM,63
+Daviess,20-WASHINGTON 7,U.S. House,8,Ron Drake,DEM,49
+Daviess,21-WASHINGTON 8,U.S. House,8,Ron Drake,DEM,78
+Daviess,22-WASHINGTON 9,U.S. House,8,Ron Drake,DEM,72
+Daviess,23-WASHINGTON 10,U.S. House,8,Ron Drake,DEM,45
+Daviess,24-WASHINGTON 11,U.S. House,8,Ron Drake,DEM,63
+Daviess,25-WASHINGTON 12,U.S. House,8,Ron Drake,DEM,74
+Daviess,26-WASHINGTON 13,U.S. House,8,Ron Drake,DEM,101
+Daviess,27-WASHINGTON 14,U.S. House,8,Ron Drake,DEM,80
+Daviess,28-WASHINGTON 15,U.S. House,8,Ron Drake,DEM,107
+Daviess,Total,U.S. House,8,Ron Drake,DEM,1698
+Daviess,01-BARR  1,U.S. House,8,Andrew Horning,LBT,16
+Daviess,02-BARR  2,U.S. House,8,Andrew Horning,LBT,19
+Daviess,03-BOGARD,U.S. House,8,Andrew Horning,LBT,5
+Daviess,04-ELMORE  1,U.S. House,8,Andrew Horning,LBT,9
+Daviess,05-ELMORE  2,U.S. House,8,Andrew Horning,LBT,5
+Daviess,06-HARRISON,U.S. House,8,Andrew Horning,LBT,19
+Daviess,07-MADISON 1,U.S. House,8,Andrew Horning,LBT,4
+Daviess,08-MADISON 2,U.S. House,8,Andrew Horning,LBT,6
+Daviess,09-MADISON 3,U.S. House,8,Andrew Horning,LBT,19
+Daviess,10-REEVE,U.S. House,8,Andrew Horning,LBT,14
+Daviess,11-STEELE,U.S. House,8,Andrew Horning,LBT,14
+Daviess,12-VAN  BUREN,U.S. House,8,Andrew Horning,LBT,6
+Daviess,13-VEALE,U.S. House,8,Andrew Horning,LBT,23
+Daviess,14-WASHINGTON 1,U.S. House,8,Andrew Horning,LBT,7
+Daviess,15-WASHINGTON 2,U.S. House,8,Andrew Horning,LBT,8
+Daviess,16-WASHINGTON 3,U.S. House,8,Andrew Horning,LBT,12
+Daviess,17-WASHINGTON 4,U.S. House,8,Andrew Horning,LBT,24
+Daviess,18-WASHINGTON 5,U.S. House,8,Andrew Horning,LBT,8
+Daviess,19-WASHINGTON 6,U.S. House,8,Andrew Horning,LBT,11
+Daviess,20-WASHINGTON 7,U.S. House,8,Andrew Horning,LBT,6
+Daviess,21-WASHINGTON 8,U.S. House,8,Andrew Horning,LBT,20
+Daviess,22-WASHINGTON 9,U.S. House,8,Andrew Horning,LBT,18
+Daviess,23-WASHINGTON 10,U.S. House,8,Andrew Horning,LBT,11
+Daviess,24-WASHINGTON 11,U.S. House,8,Andrew Horning,LBT,16
+Daviess,25-WASHINGTON 12,U.S. House,8,Andrew Horning,LBT,13
+Daviess,26-WASHINGTON 13,U.S. House,8,Andrew Horning,LBT,20
+Daviess,27-WASHINGTON 14,U.S. House,8,Andrew Horning,LBT,12
+Daviess,28-WASHINGTON 15,U.S. House,8,Andrew Horning,LBT,18
+Daviess,Total,U.S. House,8,Andrew Horning,LBT,363
+Daviess,01-BARR  1,U.S. House,8,Write-ins,,0
+Daviess,02-BARR  2,U.S. House,8,Write-ins,,0
+Daviess,03-BOGARD,U.S. House,8,Write-ins,,0
+Daviess,04-ELMORE  1,U.S. House,8,Write-ins,,0
+Daviess,05-ELMORE  2,U.S. House,8,Write-ins,,0
+Daviess,06-HARRISON,U.S. House,8,Write-ins,,0
+Daviess,07-MADISON 1,U.S. House,8,Write-ins,,0
+Daviess,08-MADISON 2,U.S. House,8,Write-ins,,0
+Daviess,09-MADISON 3,U.S. House,8,Write-ins,,1
+Daviess,10-REEVE,U.S. House,8,Write-ins,,0
+Daviess,11-STEELE,U.S. House,8,Write-ins,,0
+Daviess,12-VAN  BUREN,U.S. House,8,Write-ins,,0
+Daviess,13-VEALE,U.S. House,8,Write-ins,,0
+Daviess,14-WASHINGTON 1,U.S. House,8,Write-ins,,0
+Daviess,15-WASHINGTON 2,U.S. House,8,Write-ins,,0
+Daviess,16-WASHINGTON 3,U.S. House,8,Write-ins,,1
+Daviess,17-WASHINGTON 4,U.S. House,8,Write-ins,,0
+Daviess,18-WASHINGTON 5,U.S. House,8,Write-ins,,0
+Daviess,19-WASHINGTON 6,U.S. House,8,Write-ins,,0
+Daviess,20-WASHINGTON 7,U.S. House,8,Write-ins,,0
+Daviess,21-WASHINGTON 8,U.S. House,8,Write-ins,,0
+Daviess,22-WASHINGTON 9,U.S. House,8,Write-ins,,0
+Daviess,23-WASHINGTON 10,U.S. House,8,Write-ins,,0
+Daviess,24-WASHINGTON 11,U.S. House,8,Write-ins,,1
+Daviess,25-WASHINGTON 12,U.S. House,8,Write-ins,,0
+Daviess,26-WASHINGTON 13,U.S. House,8,Write-ins,,0
+Daviess,27-WASHINGTON 14,U.S. House,8,Write-ins,,0
+Daviess,28-WASHINGTON 15,U.S. House,8,Write-ins,,1
+Daviess,Total,U.S. House,8,Write-ins,,4
+Daviess,01-BARR  1,State House,63,Mike Braun,REP,551
+Daviess,02-BARR  2,State House,63,Mike Braun,REP,441
+Daviess,03-BOGARD,State House,63,Mike Braun,REP,148
+Daviess,04-ELMORE  1,State House,62,Jeff Ellington,REP,226
+Daviess,05-ELMORE  2,State House,62,Jeff Ellington,REP,106
+Daviess,06-HARRISON,State House,63,Mike Braun,REP,262
+Daviess,07-MADISON 1,State House,63,Mike Braun,REP,164
+Daviess,08-MADISON 2,State House,62,Jeff Ellington,REP,311
+Daviess,09-MADISON 3,State House,62,Jeff Ellington,REP,449
+Daviess,10-REEVE,State House,63,Mike Braun,REP,246
+Daviess,11-STEELE,State House,45,Bruce Borders,REP,365
+Daviess,12-VAN  BUREN,State House,63,Mike Braun,REP,203
+Daviess,13-VEALE,State House,63,Mike Braun,REP,506
+Daviess,14-WASHINGTON 1,State House,63,Mike Braun,REP,317
+Daviess,15-WASHINGTON 2,State House,63,Mike Braun,REP,230
+Daviess,16-WASHINGTON 3,State House,63,Mike Braun,REP,337
+Daviess,17-WASHINGTON 4,State House,63,Mike Braun,REP,546
+Daviess,18-WASHINGTON 5,State House,63,Mike Braun,REP,430
+Daviess,19-WASHINGTON 6,State House,63,Mike Braun,REP,287
+Daviess,20-WASHINGTON 7,State House,63,Mike Braun,REP,162
+Daviess,21-WASHINGTON 8,State House,63,Mike Braun,REP,236
+Daviess,22-WASHINGTON 9,State House,63,Mike Braun,REP,202
+Daviess,23-WASHINGTON 10,State House,63,Mike Braun,REP,130
+Daviess,24-WASHINGTON 11,State House,63,Mike Braun,REP,187
+Daviess,25-WASHINGTON 12,State House,63,Mike Braun,REP,154
+Daviess,26-WASHINGTON 13,State House,63,Mike Braun,REP,350
+Daviess,27-WASHINGTON 14,State House,63,Mike Braun,REP,259
+Daviess,28-WASHINGTON 15,State House,63,Mike Braun,REP,405
+Daviess,Total,State House,45,Bruce Borders,REP,365
+Daviess,Total,State House,62,Jeff Ellington,REP,1092
+Daviess,Total,State House,63,Mike Braun,REP,6753
+Daviess,01-BARR  1,State House,63,Andrea Huisman,DEM,131
+Daviess,02-BARR  2,State House,63,Andrea Huisman,DEM,71
+Daviess,03-BOGARD,State House,63,Andrea Huisman,DEM,20
+Daviess,04-ELMORE  1,State House,62,Steve Lindsey,DEM,55
+Daviess,05-ELMORE  2,State House,62,Steve Lindsey,DEM,40
+Daviess,06-HARRISON,State House,63,Andrea Huisman,DEM,46
+Daviess,07-MADISON 1,State House,63,Andrea Huisman,DEM,31
+Daviess,08-MADISON 2,State House,62,Steve Lindsey,DEM,47
+Daviess,09-MADISON 3,State House,62,Steve Lindsey,DEM,89
+Daviess,10-REEVE,State House,63,Andrea Huisman,DEM,42
+Daviess,12-VAN  BUREN,State House,63,Andrea Huisman,DEM,37
+Daviess,13-VEALE,State House,63,Andrea Huisman,DEM,102
+Daviess,14-WASHINGTON 1,State House,63,Andrea Huisman,DEM,50
+Daviess,15-WASHINGTON 2,State House,63,Andrea Huisman,DEM,94
+Daviess,16-WASHINGTON 3,State House,63,Andrea Huisman,DEM,95
+Daviess,17-WASHINGTON 4,State House,63,Andrea Huisman,DEM,146
+Daviess,18-WASHINGTON 5,State House,63,Andrea Huisman,DEM,131
+Daviess,19-WASHINGTON 6,State House,63,Andrea Huisman,DEM,84
+Daviess,20-WASHINGTON 7,State House,63,Andrea Huisman,DEM,62
+Daviess,21-WASHINGTON 8,State House,63,Andrea Huisman,DEM,117
+Daviess,22-WASHINGTON 9,State House,63,Andrea Huisman,DEM,108
+Daviess,23-WASHINGTON 10,State House,63,Andrea Huisman,DEM,55
+Daviess,24-WASHINGTON 11,State House,63,Andrea Huisman,DEM,90
+Daviess,25-WASHINGTON 12,State House,63,Andrea Huisman,DEM,88
+Daviess,26-WASHINGTON 13,State House,63,Andrea Huisman,DEM,124
+Daviess,27-WASHINGTON 14,State House,63,Andrea Huisman,DEM,104
+Daviess,28-WASHINGTON 15,State House,63,Andrea Huisman,DEM,137
+Daviess,Total,State House,62,Steve Lindsey,DEM,231
+Daviess,Total,State House,63,Andrea Huisman,DEM,1965

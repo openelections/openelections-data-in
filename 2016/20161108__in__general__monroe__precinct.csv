@@ -1,4 +1,4 @@
-county,precinct,office,district,party,candidate,office
+county,precinct,office,district,party,candidate,votes
 Monroe,Bean Blossom 01,Attorney General,,REP,Curtis Hill,493
 Monroe,Bean Blossom 02,Attorney General,,REP,Curtis Hill,438
 Monroe,Benton 01,Attorney General,,REP,Curtis Hill,501
@@ -3014,7 +3014,7 @@ Monroe,Perry 06,U.S. House,9,,Under Votes:,15
 Monroe,Perry07,U.S. House,9,,Under Votes:,20
 Monroe,Perry 08,U.S. House,9,,Under Votes:,20
 Monroe,Perry 09,U.S. House,9,,Under Votes:,29
-Monroe,Perry 10,U.S. House,,,Under Votes:,21
+Monroe,Perry 10,U.S. House,9,,Under Votes:,21
 Monroe,Perry 11,U.S. House,9,,Under Votes:,20
 Monroe,Perry 12,U.S. House,9,,Under Votes:,18
 Monroe,Perry 13,U.S. House,9,,Under Votes:,19

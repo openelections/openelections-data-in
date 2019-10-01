@@ -1,0 +1,866 @@
+county,precinct,office,district,candidate,party,election_day,absentee,provisional,votes
+Morgan,Adams,Ballots Cast,,,,173,63,0,236
+Morgan,Adams,Registered Voters,,,,,,,805
+Morgan,Adams,U.S. Senate,,Mike Braun,REP,38,26,0,64
+Morgan,Adams,U.S. Senate,,Luke Messer,REP,34,7,0,41
+Morgan,Adams,U.S. Senate,,Todd Rokita,REP,60,15,0,75
+Morgan,Adams,U.S. Senate,,Joe Donnelly,DEM,16,7,0,23
+Morgan,Adams,U.S. House,4,Jim Baird,REP,80,25,0,105
+Morgan,Adams,U.S. House,4,Steve Braun,REP,24,10,0,34
+Morgan,Adams,U.S. House,4,Kevin J. Grant,REP,5,4,0,9
+Morgan,Adams,U.S. House,4,Diego Morales,REP,10,2,0,12
+Morgan,Adams,U.S. House,4,James Nease,REP,2,1,0,3
+Morgan,Adams,U.S. House,4,Tim Radice,REP,4,1,0,5
+Morgan,Adams,U.S. House,4,Jared Guy Thomas,REP,9,3,0,12
+Morgan,Adams,U.S. House,4,Tobi Beck,DEM,6,1,0,7
+Morgan,Adams,U.S. House,4,Roger D. Day,DEM,0,1,0,1
+Morgan,Adams,U.S. House,4,Roland Ellis,DEM,3,1,0,4
+Morgan,Adams,U.S. House,4,Darin Patrick Griesey,DEM,0,0,0,0
+Morgan,Adams,U.S. House,4,Joseph W. Mackey,DEM,4,1,0,5
+Morgan,Adams,U.S. House,4,Veronikka M. Ziol,DEM,4,2,0,6
+Morgan,Adams,State House,44,Beau Baird,REP,73,23,0,96
+Morgan,Adams,State House,44,Jess L. Norton,REP,43,20,0,63
+Morgan,Adams,State House,44,Kimberly Anne Fidler,DEM,15,6,0,21
+Morgan,Ashland 1,Ballots Cast,,,,150,76,0,226
+Morgan,Ashland 1,Registered Voters,,,,,,,662
+Morgan,Ashland 1,U.S. Senate,,Mike Braun,REP,53,19,0,72
+Morgan,Ashland 1,U.S. Senate,,Luke Messer,REP,26,14,0,40
+Morgan,Ashland 1,U.S. Senate,,Todd Rokita,REP,45,29,0,74
+Morgan,Ashland 1,U.S. Senate,,Joe Donnelly,DEM,8,6,0,14
+Morgan,Ashland 1,U.S. House,4,Jim Baird,REP,72,32,0,104
+Morgan,Ashland 1,U.S. House,4,Steve Braun,REP,33,14,0,47
+Morgan,Ashland 1,U.S. House,4,Kevin J. Grant,REP,3,4,0,7
+Morgan,Ashland 1,U.S. House,4,Diego Morales,REP,7,3,0,10
+Morgan,Ashland 1,U.S. House,4,James Nease,REP,3,4,0,7
+Morgan,Ashland 1,U.S. House,4,Tim Radice,REP,1,1,0,2
+Morgan,Ashland 1,U.S. House,4,Jared Guy Thomas,REP,6,3,0,9
+Morgan,Ashland 1,U.S. House,4,Tobi Beck,DEM,4,1,0,5
+Morgan,Ashland 1,U.S. House,4,Roger D. Day,DEM,2,1,0,3
+Morgan,Ashland 1,U.S. House,4,Roland Ellis,DEM,1,0,0,1
+Morgan,Ashland 1,U.S. House,4,Darin Patrick Griesey,DEM,0,0,0,0
+Morgan,Ashland 1,U.S. House,4,Joseph W. Mackey,DEM,2,1,0,3
+Morgan,Ashland 1,U.S. House,4,Veronikka M. Ziol,DEM,1,2,0,3
+Morgan,Ashland 1,State House,44,Beau Baird,REP,77,39,0,116
+Morgan,Ashland 1,State House,44,Jess L. Norton,REP,34,19,0,53
+Morgan,Ashland 1,State House,44,Kimberly Anne Fidler,DEM,10,5,0,15
+Morgan,Ashland 2,Ballots Cast,,,,130,52,0,182
+Morgan,Ashland 2,Registered Voters,,,,,,,530
+Morgan,Ashland 2,U.S. Senate,,Mike Braun,REP,45,15,0,60
+Morgan,Ashland 2,U.S. Senate,,Luke Messer,REP,22,6,0,28
+Morgan,Ashland 2,U.S. Senate,,Todd Rokita,REP,47,19,0,66
+Morgan,Ashland 2,U.S. Senate,,Joe Donnelly,DEM,10,2,0,12
+Morgan,Ashland 2,U.S. House,9,James Dean Alspach,REP,33,10,0,43
+Morgan,Ashland 2,U.S. House,9,Trey Hollingsworth,REP,75,29,0,104
+Morgan,Ashland 2,U.S. House,9,Dan Canon,DEM,7,0,0,7
+Morgan,Ashland 2,U.S. House,9,Rub Chatlos,DEM,1,0,0,1
+Morgan,Ashland 2,U.S. House,9,Liz Watson,DEM,2,2,0,4
+Morgan,Ashland 2,State House,44,Beau Baird,REP,54,23,0,77
+Morgan,Ashland 2,State House,44,Jess L. Norton,REP,39,12,0,51
+Morgan,Ashland 2,State House,44,Kimberly Anne Fidler,DEM,10,2,0,12
+Morgan,Baker,Ballots Cast,,,,99,37,0,136
+Morgan,Baker,Registered Voters,,,,,,,502
+Morgan,Baker,U.S. Senate,,Mike Braun,REP,25,11,0,36
+Morgan,Baker,U.S. Senate,,Luke Messer,REP,22,6,0,28
+Morgan,Baker,U.S. Senate,,Todd Rokita,REP,37,18,0,55
+Morgan,Baker,U.S. Senate,,Joe Donnelly,DEM,7,1,0,8
+Morgan,Baker,U.S. House,9,James Dean Alspach,REP,20,5,0,25
+Morgan,Baker,U.S. House,9,Trey Hollingsworth,REP,63,30,0,93
+Morgan,Baker,U.S. House,9,Dan Canon,DEM,3,0,0,3
+Morgan,Baker,U.S. House,9,Rub Chatlos,DEM,0,0,0,0
+Morgan,Baker,U.S. House,9,Liz Watson,DEM,6,1,0,7
+Morgan,Baker,State House,60,Peggy Mayfield,REP,77,32,0,109
+Morgan,Baker,State House,60,Penny Githens,DEM,8,1,0,9
+Morgan,Brown 1,Ballots Cast,,,,156,70,0,226
+Morgan,Brown 1,Registered Voters,,,,,,,1090
+Morgan,Brown 1,U.S. Senate,,Mike Braun,REP,47,15,0,62
+Morgan,Brown 1,U.S. Senate,,Luke Messer,REP,23,12,0,35
+Morgan,Brown 1,U.S. Senate,,Todd Rokita,REP,50,30,0,80
+Morgan,Brown 1,U.S. Senate,,Joe Donnelly,DEM,28,10,0,38
+Morgan,Brown 1,U.S. House,4,Jim Baird,REP,36,22,0,58
+Morgan,Brown 1,U.S. House,4,Steve Braun,REP,44,12,0,56
+Morgan,Brown 1,U.S. House,4,Kevin J. Grant,REP,6,4,0,10
+Morgan,Brown 1,U.S. House,4,Diego Morales,REP,11,6,0,17
+Morgan,Brown 1,U.S. House,4,James Nease,REP,4,1,0,5
+Morgan,Brown 1,U.S. House,4,Tim Radice,REP,4,0,0,4
+Morgan,Brown 1,U.S. House,4,Jared Guy Thomas,REP,12,5,0,17
+Morgan,Brown 1,U.S. House,4,Tobi Beck,DEM,4,2,0,6
+Morgan,Brown 1,U.S. House,4,Roger D. Day,DEM,9,1,0,10
+Morgan,Brown 1,U.S. House,4,Roland Ellis,DEM,6,1,0,7
+Morgan,Brown 1,U.S. House,4,Darin Patrick Griesey,DEM,5,2,0,7
+Morgan,Brown 1,U.S. House,4,Joseph W. Mackey,DEM,2,3,0,5
+Morgan,Brown 1,U.S. House,4,Veronikka M. Ziol,DEM,3,1,0,4
+Morgan,Brown 1,State House,60,Peggy Mayfield,REP,117,43,0,160
+Morgan,Brown 1,State House,60,Penny Githens,DEM,28,11,0,39
+Morgan,Brown 2,Ballots Cast,,,,75,47,0,122
+Morgan,Brown 2,Registered Voters,,,,,,,653
+Morgan,Brown 2,U.S. Senate,,Mike Braun,REP,24,19,0,43
+Morgan,Brown 2,U.S. Senate,,Luke Messer,REP,14,6,0,20
+Morgan,Brown 2,U.S. Senate,,Todd Rokita,REP,23,11,0,34
+Morgan,Brown 2,U.S. Senate,,Joe Donnelly,DEM,10,3,0,13
+Morgan,Brown 2,U.S. House,4,Jim Baird,REP,24,8,0,32
+Morgan,Brown 2,U.S. House,4,Steve Braun,REP,19,14,0,33
+Morgan,Brown 2,U.S. House,4,Kevin J. Grant,REP,3,3,0,6
+Morgan,Brown 2,U.S. House,4,Diego Morales,REP,7,5,0,12
+Morgan,Brown 2,U.S. House,4,James Nease,REP,0,0,0,0
+Morgan,Brown 2,U.S. House,4,Tim Radice,REP,3,1,0,4
+Morgan,Brown 2,U.S. House,4,Jared Guy Thomas,REP,5,5,0,10
+Morgan,Brown 2,U.S. House,4,Tobi Beck,DEM,4,1,0,5
+Morgan,Brown 2,U.S. House,4,Roger D. Day,DEM,2,1,0,3
+Morgan,Brown 2,U.S. House,4,Roland Ellis,DEM,1,0,0,1
+Morgan,Brown 2,U.S. House,4,Darin Patrick Griesey,DEM,0,0,0,0
+Morgan,Brown 2,U.S. House,4,Joseph W. Mackey,DEM,2,1,0,3
+Morgan,Brown 2,U.S. House,4,Veronikka M. Ziol,DEM,1,1,0,2
+Morgan,Brown 2,State House,60,Peggy Mayfield,REP,55,36,0,91
+Morgan,Brown 2,State House,60,Penny Githens,DEM,9,4,0,13
+Morgan,Brown 3,Ballots Cast,,,,97,98,0,195
+Morgan,Brown 3,Registered Voters,,,,,,,727
+Morgan,Brown 3,U.S. Senate,,Mike Braun,REP,38,30,0,68
+Morgan,Brown 3,U.S. Senate,,Luke Messer,REP,9,12,0,21
+Morgan,Brown 3,U.S. Senate,,Todd Rokita,REP,34,36,0,70
+Morgan,Brown 3,U.S. Senate,,Joe Donnelly,DEM,11,11,0,22
+Morgan,Brown 3,U.S. House,4,Jim Baird,REP,22,29,0,51
+Morgan,Brown 3,U.S. House,4,Steve Braun,REP,32,31,0,63
+Morgan,Brown 3,U.S. House,4,Kevin J. Grant,REP,3,1,0,4
+Morgan,Brown 3,U.S. House,4,Diego Morales,REP,13,11,0,24
+Morgan,Brown 3,U.S. House,4,James Nease,REP,2,2,0,4
+Morgan,Brown 3,U.S. House,4,Tim Radice,REP,0,0,0,0
+Morgan,Brown 3,U.S. House,4,Jared Guy Thomas,REP,6,2,0,8
+Morgan,Brown 3,U.S. House,4,Tobi Beck,DEM,1,4,0,5
+Morgan,Brown 3,U.S. House,4,Roger D. Day,DEM,0,0,0,0
+Morgan,Brown 3,U.S. House,4,Roland Ellis,DEM,2,3,0,5
+Morgan,Brown 3,U.S. House,4,Darin Patrick Griesey,DEM,2,0,0,2
+Morgan,Brown 3,U.S. House,4,Joseph W. Mackey,DEM,1,1,0,2
+Morgan,Brown 3,U.S. House,4,Veronikka M. Ziol,DEM,4,3,0,7
+Morgan,Brown 3,State House,60,Peggy Mayfield,REP,72,76,0,148
+Morgan,Brown 3,State House,60,Penny Githens,DEM,11,11,0,22
+Morgan,Brown 4,Ballots Cast,,,,102,51,0,153
+Morgan,Brown 4,Registered Voters,,,,,,,711
+Morgan,Brown 4,U.S. Senate,,Mike Braun,REP,32,19,0,51
+Morgan,Brown 4,U.S. Senate,,Luke Messer,REP,18,10,0,28
+Morgan,Brown 4,U.S. Senate,,Todd Rokita,REP,31,9,0,40
+Morgan,Brown 4,U.S. Senate,,Joe Donnelly,DEM,16,10,0,26
+Morgan,Brown 4,U.S. House,4,Jim Baird,REP,24,8,0,32
+Morgan,Brown 4,U.S. House,4,Steve Braun,REP,27,17,0,44
+Morgan,Brown 4,U.S. House,4,Kevin J. Grant,REP,3,1,0,4
+Morgan,Brown 4,U.S. House,4,Diego Morales,REP,13,4,0,17
+Morgan,Brown 4,U.S. House,4,James Nease,REP,2,1,0,3
+Morgan,Brown 4,U.S. House,4,Tim Radice,REP,2,1,0,3
+Morgan,Brown 4,U.S. House,4,Jared Guy Thomas,REP,7,2,0,9
+Morgan,Brown 4,U.S. House,4,Tobi Beck,DEM,5,3,0,8
+Morgan,Brown 4,U.S. House,4,Roger D. Day,DEM,1,0,0,1
+Morgan,Brown 4,U.S. House,4,Roland Ellis,DEM,2,2,0,4
+Morgan,Brown 4,U.S. House,4,Darin Patrick Griesey,DEM,0,0,0,0
+Morgan,Brown 4,U.S. House,4,Joseph W. Mackey,DEM,1,0,0,1
+Morgan,Brown 4,U.S. House,4,Veronikka M. Ziol,DEM,5,4,0,9
+Morgan,Brown 4,State House,60,Peggy Mayfield,REP,77,33,0,110
+Morgan,Brown 4,State House,60,Penny Githens,DEM,13,8,0,21
+Morgan,Brown 5,Ballots Cast,,,,122,129,0,251
+Morgan,Brown 5,Registered Voters,,,,,,,956
+Morgan,Brown 5,U.S. Senate,,Mike Braun,REP,44,37,0,81
+Morgan,Brown 5,U.S. Senate,,Luke Messer,REP,30,28,0,58
+Morgan,Brown 5,U.S. Senate,,Todd Rokita,REP,32,45,0,77
+Morgan,Brown 5,U.S. Senate,,Joe Donnelly,DEM,11,13,0,24
+Morgan,Brown 5,U.S. House,4,Jim Baird,REP,41,43,0,84
+Morgan,Brown 5,U.S. House,4,Steve Braun,REP,36,31,0,67
+Morgan,Brown 5,U.S. House,4,Kevin J. Grant,REP,0,8,0,8
+Morgan,Brown 5,U.S. House,4,Diego Morales,REP,14,15,0,29
+Morgan,Brown 5,U.S. House,4,James Nease,REP,3,2,0,5
+Morgan,Brown 5,U.S. House,4,Tim Radice,REP,0,0,0,0
+Morgan,Brown 5,U.S. House,4,Jared Guy Thomas,REP,10,7,0,17
+Morgan,Brown 5,U.S. House,4,Tobi Beck,DEM,4,4,0,8
+Morgan,Brown 5,U.S. House,4,Roger D. Day,DEM,0,2,0,2
+Morgan,Brown 5,U.S. House,4,Roland Ellis,DEM,3,3,0,6
+Morgan,Brown 5,U.S. House,4,Darin Patrick Griesey,DEM,0,0,0,0
+Morgan,Brown 5,U.S. House,4,Joseph W. Mackey,DEM,1,0,0,1
+Morgan,Brown 5,U.S. House,4,Veronikka M. Ziol,DEM,4,0,0,4
+Morgan,Brown 5,State House,60,Peggy Mayfield,REP,99,98,0,197
+Morgan,Brown 5,State House,60,Penny Githens,DEM,12,11,0,23
+Morgan,Brown 6,Ballots Cast,,,,117,65,0,182
+Morgan,Brown 6,Registered Voters,,,,,,,862
+Morgan,Brown 6,U.S. Senate,,Mike Braun,REP,39,24,0,63
+Morgan,Brown 6,U.S. Senate,,Luke Messer,REP,21,11,0,32
+Morgan,Brown 6,U.S. Senate,,Todd Rokita,REP,37,17,0,54
+Morgan,Brown 6,U.S. Senate,,Joe Donnelly,DEM,16,10,0,26
+Morgan,Brown 6,U.S. House,4,Jim Baird,REP,35,27,0,62
+Morgan,Brown 6,U.S. House,4,Steve Braun,REP,44,11,0,55
+Morgan,Brown 6,U.S. House,4,Kevin J. Grant,REP,2,2,0,4
+Morgan,Brown 6,U.S. House,4,Diego Morales,REP,3,3,0,6
+Morgan,Brown 6,U.S. House,4,James Nease,REP,1,1,0,2
+Morgan,Brown 6,U.S. House,4,Tim Radice,REP,0,1,0,1
+Morgan,Brown 6,U.S. House,4,Jared Guy Thomas,REP,7,2,0,9
+Morgan,Brown 6,U.S. House,4,Tobi Beck,DEM,3,5,0,8
+Morgan,Brown 6,U.S. House,4,Roger D. Day,DEM,1,0,0,1
+Morgan,Brown 6,U.S. House,4,Roland Ellis,DEM,2,1,0,3
+Morgan,Brown 6,U.S. House,4,Darin Patrick Griesey,DEM,1,1,0,2
+Morgan,Brown 6,U.S. House,4,Joseph W. Mackey,DEM,3,2,0,5
+Morgan,Brown 6,U.S. House,4,Veronikka M. Ziol,DEM,6,1,0,7
+Morgan,Brown 6,State House,60,Peggy Mayfield,REP,89,43,0,132
+Morgan,Brown 6,State House,60,Penny Githens,DEM,16,9,0,25
+Morgan,Brown 7,Ballots Cast,,,,122,54,0,176
+Morgan,Brown 7,Registered Voters,,,,,,,773
+Morgan,Brown 7,U.S. Senate,,Mike Braun,REP,41,8,0,49
+Morgan,Brown 7,U.S. Senate,,Luke Messer,REP,22,9,0,31
+Morgan,Brown 7,U.S. Senate,,Todd Rokita,REP,42,25,0,67
+Morgan,Brown 7,U.S. Senate,,Joe Donnelly,DEM,15,7,0,22
+Morgan,Brown 7,U.S. House,4,Jim Baird,REP,36,13,0,49
+Morgan,Brown 7,U.S. House,4,Steve Braun,REP,39,17,0,56
+Morgan,Brown 7,U.S. House,4,Kevin J. Grant,REP,5,5,0,10
+Morgan,Brown 7,U.S. House,4,Diego Morales,REP,13,5,0,18
+Morgan,Brown 7,U.S. House,4,James Nease,REP,1,1,0,2
+Morgan,Brown 7,U.S. House,4,Tim Radice,REP,3,0,0,3
+Morgan,Brown 7,U.S. House,4,Jared Guy Thomas,REP,5,0,0,5
+Morgan,Brown 7,U.S. House,4,Tobi Beck,DEM,3,5,0,8
+Morgan,Brown 7,U.S. House,4,Roger D. Day,DEM,2,0,0,2
+Morgan,Brown 7,U.S. House,4,Roland Ellis,DEM,2,1,0,3
+Morgan,Brown 7,U.S. House,4,Darin Patrick Griesey,DEM,2,0,0,2
+Morgan,Brown 7,U.S. House,4,Joseph W. Mackey,DEM,2,0,0,2
+Morgan,Brown 7,U.S. House,4,Veronikka M. Ziol,DEM,3,0,0,3
+Morgan,Brown 7,State House,60,Peggy Mayfield,REP,94,33,0,127
+Morgan,Brown 7,State House,60,Penny Githens,DEM,14,7,0,21
+Morgan,Brown 8,Ballots Cast,,,,150,72,0,222
+Morgan,Brown 8,Registered Voters,,,,,,,868
+Morgan,Brown 8,U.S. Senate,,Mike Braun,REP,54,20,0,74
+Morgan,Brown 8,U.S. Senate,,Luke Messer,REP,16,15,0,31
+Morgan,Brown 8,U.S. Senate,,Todd Rokita,REP,45,22,0,67
+Morgan,Brown 8,U.S. Senate,,Joe Donnelly,DEM,29,13,0,42
+Morgan,Brown 8,U.S. House,4,Jim Baird,REP,40,14,0,54
+Morgan,Brown 8,U.S. House,4,Steve Braun,REP,36,28,0,64
+Morgan,Brown 8,U.S. House,4,Kevin J. Grant,REP,5,0,0,5
+Morgan,Brown 8,U.S. House,4,Diego Morales,REP,20,3,0,23
+Morgan,Brown 8,U.S. House,4,James Nease,REP,3,2,0,5
+Morgan,Brown 8,U.S. House,4,Tim Radice,REP,0,0,0,0
+Morgan,Brown 8,U.S. House,4,Jared Guy Thomas,REP,9,6,0,15
+Morgan,Brown 8,U.S. House,4,Tobi Beck,DEM,9,4,0,13
+Morgan,Brown 8,U.S. House,4,Roger D. Day,DEM,2,0,0,2
+Morgan,Brown 8,U.S. House,4,Roland Ellis,DEM,3,1,0,4
+Morgan,Brown 8,U.S. House,4,Darin Patrick Griesey,DEM,1,2,0,3
+Morgan,Brown 8,U.S. House,4,Joseph W. Mackey,DEM,4,1,0,5
+Morgan,Brown 8,U.S. House,4,Veronikka M. Ziol,DEM,11,4,0,15
+Morgan,Brown 8,State House,60,Peggy Mayfield,REP,110,52,0,162
+Morgan,Brown 8,State House,60,Penny Githens,DEM,29,12,0,41
+Morgan,Brown 9,Ballots Cast,,,,96,39,0,135
+Morgan,Brown 9,Registered Voters,,,,,,,897
+Morgan,Brown 9,U.S. Senate,,Mike Braun,REP,38,13,0,51
+Morgan,Brown 9,U.S. Senate,,Luke Messer,REP,17,7,0,24
+Morgan,Brown 9,U.S. Senate,,Todd Rokita,REP,32,14,0,46
+Morgan,Brown 9,U.S. Senate,,Joe Donnelly,DEM,7,3,0,10
+Morgan,Brown 9,U.S. House,4,Jim Baird,REP,32,16,0,48
+Morgan,Brown 9,U.S. House,4,Steve Braun,REP,34,15,0,49
+Morgan,Brown 9,U.S. House,4,Kevin J. Grant,REP,5,2,0,7
+Morgan,Brown 9,U.S. House,4,Diego Morales,REP,5,0,0,5
+Morgan,Brown 9,U.S. House,4,James Nease,REP,1,2,0,3
+Morgan,Brown 9,U.S. House,4,Tim Radice,REP,2,0,0,2
+Morgan,Brown 9,U.S. House,4,Jared Guy Thomas,REP,4,0,0,4
+Morgan,Brown 9,U.S. House,4,Tobi Beck,DEM,1,0,0,1
+Morgan,Brown 9,U.S. House,4,Roger D. Day,DEM,1,0,0,1
+Morgan,Brown 9,U.S. House,4,Roland Ellis,DEM,0,0,0,0
+Morgan,Brown 9,U.S. House,4,Darin Patrick Griesey,DEM,1,0,0,1
+Morgan,Brown 9,U.S. House,4,Joseph W. Mackey,DEM,1,1,0,2
+Morgan,Brown 9,U.S. House,4,Veronikka M. Ziol,DEM,2,1,0,3
+Morgan,Brown 9,State House,60,Peggy Mayfield,REP,70,32,0,102
+Morgan,Brown 9,State House,60,Penny Githens,DEM,6,3,0,9
+Morgan,Brown 10,Ballots Cast,,,,10,8,0,18
+Morgan,Brown 10,Registered Voters,,,,,,,65
+Morgan,Brown 10,U.S. Senate,,Mike Braun,REP,2,4,0,6
+Morgan,Brown 10,U.S. Senate,,Luke Messer,REP,3,2,0,5
+Morgan,Brown 10,U.S. Senate,,Todd Rokita,REP,4,2,0,6
+Morgan,Brown 10,U.S. Senate,,Joe Donnelly,DEM,1,0,0,1
+Morgan,Brown 10,U.S. House,4,Jim Baird,REP,6,3,0,9
+Morgan,Brown 10,U.S. House,4,Steve Braun,REP,0,3,0,3
+Morgan,Brown 10,U.S. House,4,Kevin J. Grant,REP,0,0,0,0
+Morgan,Brown 10,U.S. House,4,Diego Morales,REP,1,1,0,2
+Morgan,Brown 10,U.S. House,4,James Nease,REP,0,0,0,0
+Morgan,Brown 10,U.S. House,4,Tim Radice,REP,0,1,0,1
+Morgan,Brown 10,U.S. House,4,Jared Guy Thomas,REP,2,0,0,2
+Morgan,Brown 10,U.S. House,4,Tobi Beck,DEM,1,0,0,1
+Morgan,Brown 10,U.S. House,4,Roger D. Day,DEM,0,0,0,0
+Morgan,Brown 10,U.S. House,4,Roland Ellis,DEM,0,0,0,0
+Morgan,Brown 10,U.S. House,4,Darin Patrick Griesey,DEM,0,0,0,0
+Morgan,Brown 10,U.S. House,4,Joseph W. Mackey,DEM,0,0,0,0
+Morgan,Brown 10,U.S. House,4,Veronikka M. Ziol,DEM,0,0,0,0
+Morgan,Brown 10,State House,60,Peggy Mayfield,REP,9,8,0,17
+Morgan,Brown 10,State House,60,Penny Githens,DEM,1,0,0,1
+Morgan,Brown 11,Ballots Cast,,,,118,66,0,184
+Morgan,Brown 11,Registered Voters,,,,,,,968
+Morgan,Brown 11,U.S. Senate,,Mike Braun,REP,40,22,0,62
+Morgan,Brown 11,U.S. Senate,,Luke Messer,REP,12,3,0,15
+Morgan,Brown 11,U.S. Senate,,Todd Rokita,REP,44,26,0,70
+Morgan,Brown 11,U.S. Senate,,Joe Donnelly,DEM,19,9,0,28
+Morgan,Brown 11,U.S. House,4,Jim Baird,REP,35,22,0,57
+Morgan,Brown 11,U.S. House,4,Steve Braun,REP,33,11,0,44
+Morgan,Brown 11,U.S. House,4,Kevin J. Grant,REP,1,5,0,6
+Morgan,Brown 11,U.S. House,4,Diego Morales,REP,9,6,0,15
+Morgan,Brown 11,U.S. House,4,James Nease,REP,2,2,0,4
+Morgan,Brown 11,U.S. House,4,Tim Radice,REP,0,0,0,0
+Morgan,Brown 11,U.S. House,4,Jared Guy Thomas,REP,14,5,0,19
+Morgan,Brown 11,U.S. House,4,Tobi Beck,DEM,2,2,0,4
+Morgan,Brown 11,U.S. House,4,Roger D. Day,DEM,3,4,0,7
+Morgan,Brown 11,U.S. House,4,Roland Ellis,DEM,2,1,0,3
+Morgan,Brown 11,U.S. House,4,Darin Patrick Griesey,DEM,5,0,0,5
+Morgan,Brown 11,U.S. House,4,Joseph W. Mackey,DEM,2,0,0,2
+Morgan,Brown 11,U.S. House,4,Veronikka M. Ziol,DEM,3,2,0,5
+Morgan,Brown 11,State House,60,Peggy Mayfield,REP,92,45,0,137
+Morgan,Brown 11,State House,60,Penny Githens,DEM,17,10,0,27
+Morgan,Clay 1,Ballots Cast,,,,167,69,0,236
+Morgan,Clay 1,Registered Voters,,,,,,,955
+Morgan,Clay 1,U.S. Senate,,Mike Braun,REP,64,22,0,86
+Morgan,Clay 1,U.S. Senate,,Luke Messer,REP,26,10,0,36
+Morgan,Clay 1,U.S. Senate,,Todd Rokita,REP,55,19,0,74
+Morgan,Clay 1,U.S. Senate,,Joe Donnelly,DEM,16,14,0,30
+Morgan,Clay 1,U.S. House,9,James Dean Alspach,REP,33,13,0,46
+Morgan,Clay 1,U.S. House,9,Trey Hollingsworth,REP,113,36,0,149
+Morgan,Clay 1,U.S. House,9,Dan Canon,DEM,2,2,0,4
+Morgan,Clay 1,U.S. House,9,Rob Chatlos,DEM,0,1,0,1
+Morgan,Clay 1,U.S. House,9,Liz Watson,DEM,13,11,0,24
+Morgan,Clay 1,State House,60,Peggy Mayfield,REP,136,47,0,183
+Morgan,Clay 1,State House,60,Penny Githens,DEM,15,14,0,29
+Morgan,Clay 2,Ballots Cast,,,,109,66,0,175
+Morgan,Clay 2,Registered Voters,,,,,,,996
+Morgan,Clay 2,U.S. Senate,,Mike Braun,REP,38,30,0,68
+Morgan,Clay 2,U.S. Senate,,Luke Messer,REP,18,7,0,25
+Morgan,Clay 2,U.S. Senate,,Todd Rokita,REP,38,19,0,57
+Morgan,Clay 2,U.S. Senate,,Joe Donnelly,DEM,12,10,0,22
+Morgan,Clay 2,U.S. House,9,James Dean Alspach,REP,27,12,0,39
+Morgan,Clay 2,U.S. House,9,Trey Hollingsworth,REP,65,43,0,108
+Morgan,Clay 2,U.S. House,9,Dan Canon,DEM,1,1,0,2
+Morgan,Clay 2,U.S. House,9,Rob Chatlos,DEM,1,0,0,1
+Morgan,Clay 2,U.S. House,9,Liz Watson,DEM,11,9,0,20
+Morgan,Clay 2,State House,60,Peggy Mayfield,REP,88,50,0,138
+Morgan,Clay 2,State House,60,Penny Githens,DEM,12,9,0,21
+Morgan,Clay 3,Ballots Cast,,,,119,74,0,193
+Morgan,Clay 3,Registered Voters,,,,,,,913
+Morgan,Clay 3,U.S. Senate,,Mike Braun,REP,38,25,0,63
+Morgan,Clay 3,U.S. Senate,,Luke Messer,REP,14,9,0,23
+Morgan,Clay 3,U.S. Senate,,Todd Rokita,REP,44,17,0,61
+Morgan,Clay 3,U.S. Senate,,Joe Donnelly,DEM,17,15,0,32
+Morgan,Clay 3,U.S. House,9,James Dean Alspach,REP,26,10,0,36
+Morgan,Clay 3,U.S. House,9,Trey Hollingsworth,REP,62,37,0,99
+Morgan,Clay 3,U.S. House,9,Dan Canon,DEM,3,3,0,6
+Morgan,Clay 3,U.S. House,9,Rob Chatlos,DEM,0,0,0,0
+Morgan,Clay 3,U.S. House,9,Liz Watson,DEM,15,12,0,27
+Morgan,Clay 3,State House,60,Peggy Mayfield,REP,88,40,0,128
+Morgan,Clay 3,State House,60,Penny Githens,DEM,16,11,0,27
+Morgan,Green 1,Ballots Cast,,,,171,105,0,276
+Morgan,Green 1,Registered Voters,,,,,,,1200
+Morgan,Green 1,U.S. Senate,,Mike Braun,REP,55,28,0,83
+Morgan,Green 1,U.S. Senate,,Luke Messer,REP,28,19,0,47
+Morgan,Green 1,U.S. Senate,,Todd Rokita,REP,49,34,0,83
+Morgan,Green 1,U.S. Senate,,Joe Donnelly,DEM,30,14,0,44
+Morgan,Green 1,U.S. House,9,James Dean Alspach,REP,23,22,0,45
+Morgan,Green 1,U.S. House,9,Trey Hollingsworth,REP,107,57,0,164
+Morgan,Green 1,U.S. House,9,Dan Canon,DEM,7,3,0,10
+Morgan,Green 1,U.S. House,9,Rob Chatlos,DEM,0,0,0,0
+Morgan,Green 1,U.S. House,9,Liz Watson,DEM,24,11,0,35
+Morgan,Green 1,State House,60,Peggy Mayfield,REP,126,79,0,205
+Morgan,Green 1,State House,60,Penny Githens,DEM,29,12,0,41
+Morgan,Green 2,Ballots Cast,,,,240,145,0,385
+Morgan,Green 2,Registered Voters,,,,,,,1332
+Morgan,Green 2,U.S. Senate,,Mike Braun,REP,87,43,0,130
+Morgan,Green 2,U.S. Senate,,Luke Messer,REP,35,22,0,57
+Morgan,Green 2,U.S. Senate,,Todd Rokita,REP,91,51,0,142
+Morgan,Green 2,U.S. Senate,,Joe Donnelly,DEM,16,24,0,40
+Morgan,Green 2,U.S. House,9,James Dean Alspach,REP,39,20,0,59
+Morgan,Green 2,U.S. House,9,Trey Hollingsworth,REP,171,94,0,265
+Morgan,Green 2,U.S. House,9,Dan Canon,DEM,2,4,0,6
+Morgan,Green 2,U.S. House,9,Rob Chatlos,DEM,1,4,0,5
+Morgan,Green 2,U.S. House,9,Liz Watson,DEM,13,14,0,27
+Morgan,Green 2,State House,60,Peggy Mayfield,REP,197,99,0,296
+Morgan,Green 2,State House,60,Penny Githens,DEM,15,21,0,36
+Morgan,Gregg 1,Ballots Cast,,,,166,84,0,250
+Morgan,Gregg 1,Registered Voters,,,,,,,1025
+Morgan,Gregg 1,U.S. Senate,,Mike Braun,REP,65,23,0,88
+Morgan,Gregg 1,U.S. Senate,,Luke Messer,REP,21,9,0,30
+Morgan,Gregg 1,U.S. Senate,,Todd Rokita,REP,62,37,0,99
+Morgan,Gregg 1,U.S. Senate,,Joe Donnelly,DEM,14,11,0,25
+Morgan,Gregg 1,U.S. House,4,Jim Baird,REP,86,39,0,125
+Morgan,Gregg 1,U.S. House,4,Steve Braun,REP,28,14,0,42
+Morgan,Gregg 1,U.S. House,4,Kevin J. Grant,REP,2,0,0,2
+Morgan,Gregg 1,U.S. House,4,Diego Morales,REP,19,7,0,26
+Morgan,Gregg 1,U.S. House,4,James Nease,REP,1,1,0,2
+Morgan,Gregg 1,U.S. House,4,Tim Radice,REP,1,0,0,1
+Morgan,Gregg 1,U.S. House,4,Jared Guy Thomas,REP,7,3,0,10
+Morgan,Gregg 1,U.S. House,4,Tobi Beck,DEM,3,4,0,7
+Morgan,Gregg 1,U.S. House,4,Roger D. Day,DEM,1,1,0,2
+Morgan,Gregg 1,U.S. House,4,Roland Ellis,DEM,2,2,0,4
+Morgan,Gregg 1,U.S. House,4,Darin Patrick Griesey,DEM,1,0,0,1
+Morgan,Gregg 1,U.S. House,4,Joseph W. Mackey,DEM,2,1,0,3
+Morgan,Gregg 1,U.S. House,4,Veronikka M. Ziol,DEM,4,1,0,5
+Morgan,Gregg 1,State House,44,Beau Baird,REP,86,34,0,120
+Morgan,Gregg 1,State House,44,Jess L. Norton,REP,40,28,0,68
+Morgan,Gregg 1,State House,44,Kimberly Anne Fidler,DEM,13,9,0,22
+Morgan,Gregg 2,Ballots Cast,,,,148,92,0,240
+Morgan,Gregg 2,Registered Voters,,,,,,,995
+Morgan,Gregg 2,U.S. Senate,,Mike Braun,REP,49,33,0,82
+Morgan,Gregg 2,U.S. Senate,,Luke Messer,REP,22,9,0,31
+Morgan,Gregg 2,U.S. Senate,,Todd Rokita,REP,55,30,0,85
+Morgan,Gregg 2,U.S. Senate,,Joe Donnelly,DEM,15,18,0,33
+Morgan,Gregg 2,U.S. House,4,Jim Baird,REP,63,28,0,91
+Morgan,Gregg 2,U.S. House,4,Steve Braun,REP,32,20,0,52
+Morgan,Gregg 2,U.S. House,4,Kevin J. Grant,REP,2,4,0,6
+Morgan,Gregg 2,U.S. House,4,Diego Morales,REP,9,10,0,19
+Morgan,Gregg 2,U.S. House,4,James Nease,REP,4,0,0,4
+Morgan,Gregg 2,U.S. House,4,Tim Radice,REP,2,0,0,2
+Morgan,Gregg 2,U.S. House,4,Jared Guy Thomas,REP,12,4,0,16
+Morgan,Gregg 2,U.S. House,4,Tobi Beck,DEM,5,5,0,10
+Morgan,Gregg 2,U.S. House,4,Roger D. Day,DEM,1,5,0,6
+Morgan,Gregg 2,U.S. House,4,Roland Ellis,DEM,2,1,0,3
+Morgan,Gregg 2,U.S. House,4,Darin Patrick Griesey,DEM,1,1,0,2
+Morgan,Gregg 2,U.S. House,4,Joseph W. Mackey,DEM,3,1,0,4
+Morgan,Gregg 2,U.S. House,4,Veronikka M. Ziol,DEM,5,4,0,9
+Morgan,Gregg 2,State House,44,Beau Baird,REP,62,35,0,97
+Morgan,Gregg 2,State House,44,Jess L. Norton,REP,49,26,0,75
+Morgan,Gregg 2,State House,44,Kimberly Anne Fidler,DEM,15,17,0,32
+Morgan,Harrison,Ballots Cast,,,,130,69,0,199
+Morgan,Harrison,Registered Voters,,,,,,,1152
+Morgan,Harrison,U.S. Senate,,Mike Braun,REP,35,21,0,56
+Morgan,Harrison,U.S. Senate,,Luke Messer,REP,28,11,0,39
+Morgan,Harrison,U.S. Senate,,Todd Rokita,REP,47,26,0,73
+Morgan,Harrison,U.S. Senate,,Joe Donnelly,DEM,17,9,0,26
+Morgan,Harrison,U.S. House,9,James Dean Alspach,REP,21,12,0,33
+Morgan,Harrison,U.S. House,9,Trey Hollingsworth,REP,84,46,0,130
+Morgan,Harrison,U.S. House,9,Dan Canon,DEM,5,3,0,8
+Morgan,Harrison,U.S. House,9,Rob Chatlos,DEM,0,0,0,0
+Morgan,Harrison,U.S. House,9,Liz Watson,DEM,13,7,0,20
+Morgan,Harrison,State House,47,Scott Horvath,REP,36,17,0,53
+Morgan,Harrison,State House,47,John T. Young,REP,69,39,0,108
+Morgan,Harrison,State House,47,Susan Clare Diagana,DEM,17,10,0,27
+Morgan,Jackson 1,Ballots Cast,,,,132,72,0,204
+Morgan,Jackson 1,Registered Voters,,,,,,,845
+Morgan,Jackson 1,U.S. Senate,,Mike Braun,REP,55,30,0,85
+Morgan,Jackson 1,U.S. Senate,,Luke Messer,REP,25,4,0,29
+Morgan,Jackson 1,U.S. Senate,,Todd Rokita,REP,40,26,0,66
+Morgan,Jackson 1,U.S. Senate,,Joe Donnelly,DEM,7,11,0,18
+Morgan,Jackson 1,U.S. House,9,James Dean Alspach,REP,22,14,0,36
+Morgan,Jackson 1,U.S. House,9,Trey Hollingsworth,REP,95,43,0,138
+Morgan,Jackson 1,U.S. House,9,Dan Canon,DEM,2,1,0,3
+Morgan,Jackson 1,U.S. House,9,Rob Chatlos,DEM,1,0,0,1
+Morgan,Jackson 1,U.S. House,9,Liz Watson,DEM,4,10,0,14
+Morgan,Jackson 1,State House,60,Peggy Mayfield,REP,112,56,0,168
+Morgan,Jackson 1,State House,60,Penny Githens,DEM,7,11,0,18
+Morgan,Jackson 2,Ballots Cast,,,,206,102,0,308
+Morgan,Jackson 2,Registered Voters,,,,,,,1096
+Morgan,Jackson 2,U.S. Senate,,Mike Braun,REP,87,32,0,119
+Morgan,Jackson 2,U.S. Senate,,Luke Messer,REP,26,19,0,45
+Morgan,Jackson 2,U.S. Senate,,Todd Rokita,REP,58,25,0,83
+Morgan,Jackson 2,U.S. Senate,,Joe Donnelly,DEM,16,10,0,26
+Morgan,Jackson 2,U.S. House,9,James Dean Alspach,REP,42,17,0,59
+Morgan,Jackson 2,U.S. House,9,Trey Hollingsworth,REP,129,57,0,186
+Morgan,Jackson 2,U.S. House,9,Dan Canon,DEM,2,3,0,5
+Morgan,Jackson 2,U.S. House,9,Rob Chatlos,DEM,4,0,0,4
+Morgan,Jackson 2,U.S. House,9,Liz Watson,DEM,15,7,0,22
+Morgan,Jackson 2,State House,60,Peggy Mayfield,REP,166,66,0,232
+Morgan,Jackson 2,State House,60,Penny Githens,DEM,17,7,0,24
+Morgan,Jackson 3,Ballots Cast,,,,94,72,0,166
+Morgan,Jackson 3,Registered Voters,,,,,,,552
+Morgan,Jackson 3,U.S. Senate,,Mike Braun,REP,38,16,0,54
+Morgan,Jackson 3,U.S. Senate,,Luke Messer,REP,17,11,0,28
+Morgan,Jackson 3,U.S. Senate,,Todd Rokita,REP,23,17,0,40
+Morgan,Jackson 3,U.S. Senate,,Joe Donnelly,DEM,13,27,0,40
+Morgan,Jackson 3,U.S. House,9,James Dean Alspach,REP,20,8,0,28
+Morgan,Jackson 3,U.S. House,9,Trey Hollingsworth,REP,54,33,0,87
+Morgan,Jackson 3,U.S. House,9,Dan Canon,DEM,0,2,0,2
+Morgan,Jackson 3,U.S. House,9,Rob Chatlos,DEM,0,0,0,0
+Morgan,Jackson 3,U.S. House,9,Liz Watson,DEM,14,25,0,39
+Morgan,Jackson 3,State House,60,Peggy Mayfield,REP,70,42,0,112
+Morgan,Jackson 3,State House,60,Penny Githens,DEM,13,26,0,39
+Morgan,Jefferson 1,Ballots Cast,,,,89,110,0,199
+Morgan,Jefferson 1,Registered Voters,,,,,,,808
+Morgan,Jefferson 1,U.S. Senate,,Mike Braun,REP,37,49,0,86
+Morgan,Jefferson 1,U.S. Senate,,Luke Messer,REP,17,14,0,31
+Morgan,Jefferson 1,U.S. Senate,,Todd Rokita,REP,25,33,0,58
+Morgan,Jefferson 1,U.S. Senate,,Joe Donnelly,DEM,9,10,0,19
+Morgan,Jefferson 1,U.S. House,9,James Dean Alspach,REP,22,23,0,45
+Morgan,Jefferson 1,U.S. House,9,Trey Hollingsworth,REP,56,70,0,126
+Morgan,Jefferson 1,U.S. House,9,Dan Canon,DEM,1,1,0,2
+Morgan,Jefferson 1,U.S. House,9,Rob Chatlos,DEM,0,0,0,0
+Morgan,Jefferson 1,U.S. House,9,Liz Watson,DEM,8,9,0,17
+Morgan,Jefferson 1,State House,44,Beau Baird,REP,44,52,0,96
+Morgan,Jefferson 1,State House,44,Jess L. Norton,REP,28,36,0,64
+Morgan,Jefferson 1,State House,44,Kimberly Anne Fidler,DEM,9,9,0,18
+Morgan,Jefferson 2,Ballots Cast,,,,85,99,0,184
+Morgan,Jefferson 2,Registered Voters,,,,,,,841
+Morgan,Jefferson 2,U.S. Senate,,Mike Braun,REP,30,21,0,51
+Morgan,Jefferson 2,U.S. Senate,,Luke Messer,REP,21,21,0,42
+Morgan,Jefferson 2,U.S. Senate,,Todd Rokita,REP,23,36,0,59
+Morgan,Jefferson 2,U.S. Senate,,Joe Donnelly,DEM,7,14,0,21
+Morgan,Jefferson 2,U.S. House,9,James Dean Alspach,REP,15,15,0,30
+Morgan,Jefferson 2,U.S. House,9,Trey Hollingsworth,REP,57,65,0,122
+Morgan,Jefferson 2,U.S. House,9,Dan Canon,DEM,0,3,0,3
+Morgan,Jefferson 2,U.S. House,9,Rob Chatlos,DEM,0,1,0,1
+Morgan,Jefferson 2,U.S. House,9,Liz Watson,DEM,7,9,0,16
+Morgan,Jefferson 2,State House,60,Peggy Mayfield,REP,70,71,0,141
+Morgan,Jefferson 2,State House,60,Penny Githens,DEM,7,14,0,21
+Morgan,Jefferson 3,Ballots Cast,,,,109,95,0,204
+Morgan,Jefferson 3,Registered Voters,,,,,,,863
+Morgan,Jefferson 3,U.S. Senate,,Mike Braun,REP,45,38,0,83
+Morgan,Jefferson 3,U.S. Senate,,Luke Messer,REP,20,13,0,33
+Morgan,Jefferson 3,U.S. Senate,,Todd Rokita,REP,31,23,0,54
+Morgan,Jefferson 3,U.S. Senate,,Joe Donnelly,DEM,10,17,0,27
+Morgan,Jefferson 3,U.S. House,9,James Dean Alspach,REP,22,22,0,44
+Morgan,Jefferson 3,U.S. House,9,Trey Hollingsworth,REP,72,53,0,125
+Morgan,Jefferson 3,U.S. House,9,Dan Canon,DEM,4,3,0,7
+Morgan,Jefferson 3,U.S. House,9,Rob Chatlos,DEM,1,0,0,1
+Morgan,Jefferson 3,U.S. House,9,Liz Watson,DEM,5,14,0,19
+Morgan,Jefferson 3,State House,44,Beau Baird,REP,54,40,0,94
+Morgan,Jefferson 3,State House,44,Jess L. Norton,REP,29,26,0,55
+Morgan,Jefferson 3,State House,44,Kimberly Anne Fidler,DEM,10,16,0,26
+Morgan,Madison 1,Ballots Cast,,,,164,65,0,229
+Morgan,Madison 1,Registered Voters,,,,,,,1215
+Morgan,Madison 1,U.S. Senate,,Mike Braun,REP,50,16,0,66
+Morgan,Madison 1,U.S. Senate,,Luke Messer,REP,35,11,0,46
+Morgan,Madison 1,U.S. Senate,,Todd Rokita,REP,54,25,0,79
+Morgan,Madison 1,U.S. Senate,,Joe Donnelly,DEM,21,11,0,32
+Morgan,Madison 1,U.S. House,9,James Dean Alspach,REP,37,5,0,42
+Morgan,Madison 1,U.S. House,9,Trey Hollingsworth,REP,99,47,0,146
+Morgan,Madison 1,U.S. House,9,Dan Canon,DEM,2,1,0,3
+Morgan,Madison 1,U.S. House,9,Rob Chatlos,DEM,0,0,0,0
+Morgan,Madison 1,U.S. House,9,Liz Watson,DEM,19,11,0,30
+Morgan,Madison 1,State House,47,Scott Horvath,REP,46,18,0,64
+Morgan,Madison 1,State House,47,John T. Young,REP,80,35,0,115
+Morgan,Madison 1,State House,47,Susan Clare Diagana,DEM,20,9,0,29
+Morgan,Madison 2,Ballots Cast,,,,179,74,0,253
+Morgan,Madison 2,Registered Voters,,,,,,,1216
+Morgan,Madison 2,U.S. Senate,,Mike Braun,REP,53,25,0,78
+Morgan,Madison 2,U.S. Senate,,Luke Messer,REP,37,11,0,48
+Morgan,Madison 2,U.S. Senate,,Todd Rokita,REP,62,25,0,87
+Morgan,Madison 2,U.S. Senate,,Joe Donnelly,DEM,22,11,0,33
+Morgan,Madison 2,U.S. House,9,James Dean Alspach,REP,37,15,0,52
+Morgan,Madison 2,U.S. House,9,Trey Hollingsworth,REP,106,47,0,153
+Morgan,Madison 2,U.S. House,9,Dan Canon,DEM,6,4,0,10
+Morgan,Madison 2,U.S. House,9,Rob Chatlos,DEM,1,0,0,1
+Morgan,Madison 2,U.S. House,9,Liz Watson,DEM,14,8,0,22
+Morgan,Madison 2,State House,47,Scott Horvath,REP,56,16,0,72
+Morgan,Madison 2,State House,47,John T. Young,REP,84,45,0,129
+Morgan,Madison 2,State House,47,Susan Clare Diagana,DEM,22,10,0,32
+Morgan,Madison 3,Ballots Cast,,,,137,59,0,196
+Morgan,Madison 3,Registered Voters,,,,,,,1049
+Morgan,Madison 3,U.S. Senate,,Mike Braun,REP,44,22,0,66
+Morgan,Madison 3,U.S. Senate,,Luke Messer,REP,30,5,0,35
+Morgan,Madison 3,U.S. Senate,,Todd Rokita,REP,46,20,0,66
+Morgan,Madison 3,U.S. Senate,,Joe Donnelly,DEM,10,9,0,19
+Morgan,Madison 3,U.S. House,9,James Dean Alspach,REP,21,9,0,30
+Morgan,Madison 3,U.S. House,9,Trey Hollingsworth,REP,94,37,0,131
+Morgan,Madison 3,U.S. House,9,Dan Canon,DEM,3,3,0,6
+Morgan,Madison 3,U.S. House,9,Rob Chatlos,DEM,0,0,0,0
+Morgan,Madison 3,U.S. House,9,Liz Watson,DEM,7,7,0,14
+Morgan,Madison 3,State House,47,Scott Horvath,REP,31,14,0,45
+Morgan,Madison 3,State House,47,John T. Young,REP,85,31,0,116
+Morgan,Madison 3,State House,47,Susan Clare Diagana,DEM,9,8,0,17
+Morgan,Madison 4,Ballots Cast,,,,177,55,0,232
+Morgan,Madison 4,Registered Voters,,,,,,,1173
+Morgan,Madison 4,U.S. Senate,,Mike Braun,REP,63,18,0,81
+Morgan,Madison 4,U.S. Senate,,Luke Messer,REP,38,12,0,50
+Morgan,Madison 4,U.S. Senate,,Todd Rokita,REP,45,16,0,61
+Morgan,Madison 4,U.S. Senate,,Joe Donnelly,DEM,21,8,0,29
+Morgan,Madison 4,U.S. House,9,James Dean Alspach,REP,49,11,0,60
+Morgan,Madison 4,U.S. House,9,Trey Hollingsworth,REP,97,35,0,132
+Morgan,Madison 4,U.S. House,9,Dan Canon,DEM,3,1,0,4
+Morgan,Madison 4,U.S. House,9,Rob Chatlos,DEM,1,1,0,2
+Morgan,Madison 4,U.S. House,9,Liz Watson,DEM,18,5,0,23
+Morgan,Madison 4,State House,47,Scott Horvath,REP,41,17,0,58
+Morgan,Madison 4,State House,47,John T. Young,REP,98,29,0,127
+Morgan,Madison 4,State House,47,Susan Clare Diagana,DEM,22,7,0,29
+Morgan,Madison 5,Ballots Cast,,,,99,64,0,163
+Morgan,Madison 5,Registered Voters,,,,,,,745
+Morgan,Madison 5,U.S. Senate,,Mike Braun,REP,28,21,0,49
+Morgan,Madison 5,U.S. Senate,,Luke Messer,REP,16,10,0,26
+Morgan,Madison 5,U.S. Senate,,Todd Rokita,REP,35,17,0,52
+Morgan,Madison 5,U.S. Senate,,Joe Donnelly,DEM,11,13,0,24
+Morgan,Madison 5,U.S. House,9,James Dean Alspach,REP,17,18,0,35
+Morgan,Madison 5,U.S. House,9,Trey Hollingsworth,REP,60,30,0,90
+Morgan,Madison 5,U.S. House,9,Dan Canon,DEM,0,4,0,4
+Morgan,Madison 5,U.S. House,9,Rob Chatlos,DEM,0,1,0,1
+Morgan,Madison 5,U.S. House,9,Liz Watson,DEM,12,7,0,19
+Morgan,Madison 5,State House,47,Scott Horvath,REP,26,15,0,41
+Morgan,Madison 5,State House,47,John T. Young,REP,54,32,0,86
+Morgan,Madison 5,State House,47,Susan Clare Diagana,DEM,10,11,0,21
+Morgan,Madison 6,Ballots Cast,,,,117,53,0,170
+Morgan,Madison 6,Registered Voters,,,,,,,1300
+Morgan,Madison 6,U.S. Senate,,Mike Braun,REP,42,21,0,63
+Morgan,Madison 6,U.S. Senate,,Luke Messer,REP,21,7,0,28
+Morgan,Madison 6,U.S. Senate,,Todd Rokita,REP,30,17,0,47
+Morgan,Madison 6,U.S. Senate,,Joe Donnelly,DEM,21,8,0,29
+Morgan,Madison 6,U.S. House,9,James Dean Alspach,REP,20,8,0,28
+Morgan,Madison 6,U.S. House,9,Trey Hollingsworth,REP,70,35,0,105
+Morgan,Madison 6,U.S. House,9,Dan Canon,DEM,2,1,0,3
+Morgan,Madison 6,U.S. House,9,Rob Chatlos,DEM,0,0,0,0
+Morgan,Madison 6,U.S. House,9,Liz Watson,DEM,19,6,0,25
+Morgan,Madison 6,State House,47,Scott Horvath,REP,44,12,0,56
+Morgan,Madison 6,State House,47,John T. Young,REP,44,28,0,72
+Morgan,Madison 6,State House,47,Susan Clare Diagana,DEM,20,8,0,28
+Morgan,Monroe 1,Ballots Cast,,,,122,92,0,214
+Morgan,Monroe 1,Registered Voters,,,,,,,1049
+Morgan,Monroe 1,U.S. Senate,,Mike Braun,REP,48,31,0,79
+Morgan,Monroe 1,U.S. Senate,,Luke Messer,REP,25,6,0,31
+Morgan,Monroe 1,U.S. Senate,,Todd Rokita,REP,35,34,0,69
+Morgan,Monroe 1,U.S. Senate,,Joe Donnelly,DEM,13,17,0,30
+Morgan,Monroe 1,U.S. House,4,Jim Baird,REP,56,43,0,99
+Morgan,Monroe 1,U.S. House,4,Steve Braun,REP,37,19,0,56
+Morgan,Monroe 1,U.S. House,4,Kevin J. Grant,REP,1,3,0,4
+Morgan,Monroe 1,U.S. House,4,Diego Morales,REP,5,1,0,6
+Morgan,Monroe 1,U.S. House,4,James Nease,REP,3,1,0,4
+Morgan,Monroe 1,U.S. House,4,Tim Radice,REP,0,0,0,0
+Morgan,Monroe 1,U.S. House,4,Jared Guy Thomas,REP,3,3,0,6
+Morgan,Monroe 1,U.S. House,4,Tobi Beck,DEM,6,5,0,11
+Morgan,Monroe 1,U.S. House,4,Roger D. Day,DEM,3,0,0,3
+Morgan,Monroe 1,U.S. House,4,Roland Ellis,DEM,2,2,0,4
+Morgan,Monroe 1,U.S. House,4,Darin Patrick Griesey,DEM,0,2,0,2
+Morgan,Monroe 1,U.S. House,4,Joseph W. Mackey,DEM,1,1,0,2
+Morgan,Monroe 1,U.S. House,4,Veronikka M. Ziol,DEM,1,5,0,6
+Morgan,Monroe 1,State House,44,Beau Baird,REP,65,37,0,102
+Morgan,Monroe 1,State House,44,Jess L. Norton,REP,38,24,0,62
+Morgan,Monroe 1,State House,44,Kimberly Anne Fidler,DEM,12,15,0,27
+Morgan,Monroe 2,Ballots Cast,,,,154,54,0,208
+Morgan,Monroe 2,Registered Voters,,,,,,,1073
+Morgan,Monroe 2,U.S. Senate,,Mike Braun,REP,48,12,0,60
+Morgan,Monroe 2,U.S. Senate,,Luke Messer,REP,37,12,0,49
+Morgan,Monroe 2,U.S. Senate,,Todd Rokita,REP,37,19,0,56
+Morgan,Monroe 2,U.S. Senate,,Joe Donnelly,DEM,23,10,0,33
+Morgan,Monroe 2,U.S. House,4,Jim Baird,REP,57,21,0,78
+Morgan,Monroe 2,U.S. House,4,Steve Braun,REP,32,7,0,39
+Morgan,Monroe 2,U.S. House,4,Kevin J. Grant,REP,5,3,0,8
+Morgan,Monroe 2,U.S. House,4,Diego Morales,REP,14,1,0,15
+Morgan,Monroe 2,U.S. House,4,James Nease,REP,3,1,0,4
+Morgan,Monroe 2,U.S. House,4,Tim Radice,REP,1,1,0,2
+Morgan,Monroe 2,U.S. House,4,Jared Guy Thomas,REP,5,6,0,11
+Morgan,Monroe 2,U.S. House,4,Tobi Beck,DEM,5,7,0,12
+Morgan,Monroe 2,U.S. House,4,Roger D. Day,DEM,1,0,0,1
+Morgan,Monroe 2,U.S. House,4,Roland Ellis,DEM,1,0,0,1
+Morgan,Monroe 2,U.S. House,4,Darin Patrick Griesey,DEM,3,1,0,4
+Morgan,Monroe 2,U.S. House,4,Joseph W. Mackey,DEM,4,0,0,4
+Morgan,Monroe 2,U.S. House,4,Veronikka M. Ziol,DEM,12,2,0,14
+Morgan,Monroe 2,State House,44,Beau Baird,REP,57,19,0,76
+Morgan,Monroe 2,State House,44,Jess L. Norton,REP,40,20,0,60
+Morgan,Monroe 2,State House,44,Kimberly Anne Fidler,DEM,27,10,0,37
+Morgan,Monroe 3,Ballots Cast,,,,190,111,0,301
+Morgan,Monroe 3,Registered Voters,,,,,,,1492
+Morgan,Monroe 3,U.S. Senate,,Mike Braun,REP,59,40,0,99
+Morgan,Monroe 3,U.S. Senate,,Luke Messer,REP,29,13,0,42
+Morgan,Monroe 3,U.S. Senate,,Todd Rokita,REP,60,44,0,104
+Morgan,Monroe 3,U.S. Senate,,Joe Donnelly,DEM,37,11,0,48
+Morgan,Monroe 3,U.S. House,4,Jim Baird,REP,72,49,0,121
+Morgan,Monroe 3,U.S. House,4,Steve Braun,REP,35,19,0,54
+Morgan,Monroe 3,U.S. House,4,Kevin J. Grant,REP,4,2,0,6
+Morgan,Monroe 3,U.S. House,4,Diego Morales,REP,17,14,0,31
+Morgan,Monroe 3,U.S. House,4,James Nease,REP,6,1,0,7
+Morgan,Monroe 3,U.S. House,4,Tim Radice,REP,0,0,0,0
+Morgan,Monroe 3,U.S. House,4,Jared Guy Thomas,REP,10,9,0,19
+Morgan,Monroe 3,U.S. House,4,Tobi Beck,DEM,11,6,0,17
+Morgan,Monroe 3,U.S. House,4,Roger D. Day,DEM,6,0,0,6
+Morgan,Monroe 3,U.S. House,4,Roland Ellis,DEM,0,1,0,1
+Morgan,Monroe 3,U.S. House,4,Darin Patrick Griesey,DEM,1,1,0,2
+Morgan,Monroe 3,U.S. House,4,Joseph W. Mackey,DEM,3,2,0,5
+Morgan,Monroe 3,U.S. House,4,Veronikka M. Ziol,DEM,11,3,0,14
+Morgan,Monroe 3,State House,44,Beau Baird,REP,78,52,0,130
+Morgan,Monroe 3,State House,44,Jess L. Norton,REP,59,35,0,94
+Morgan,Monroe 3,State House,44,Kimberly Anne Fidler,DEM,34,12,0,46
+Morgan,Ray 1,Ballots Cast,,,,128,38,0,166
+Morgan,Ray 1,Registered Voters,,,,,,,567
+Morgan,Ray 1,U.S. Senate,,Mike Braun,REP,44,16,0,60
+Morgan,Ray 1,U.S. Senate,,Luke Messer,REP,24,3,0,27
+Morgan,Ray 1,U.S. Senate,,Todd Rokita,REP,36,12,0,48
+Morgan,Ray 1,U.S. Senate,,Joe Donnelly,DEM,12,3,0,15
+Morgan,Ray 1,U.S. House,9,James Dean Alspach,REP,22,8,0,30
+Morgan,Ray 1,U.S. House,9,Trey Hollingsworth,REP,77,21,0,98
+Morgan,Ray 1,U.S. House,9,Dan Canon,DEM,2,0,0,2
+Morgan,Ray 1,U.S. House,9,Rob Chatlos,DEM,2,0,0,2
+Morgan,Ray 1,U.S. House,9,Liz Watson,DEM,6,1,0,7
+Morgan,Ray 1,State House,44,Beau Baird,REP,52,22,0,74
+Morgan,Ray 1,State House,44,Jess L. Norton,REP,35,6,0,41
+Morgan,Ray 1,State House,44,Kimberly Anne Fidler,DEM,10,3,0,13
+Morgan,Ray 2,Ballots Cast,,,,109,32,0,141
+Morgan,Ray 2,Registered Voters,,,,,,,452
+Morgan,Ray 2,U.S. Senate,,Mike Braun,REP,42,7,0,49
+Morgan,Ray 2,U.S. Senate,,Luke Messer,REP,16,5,0,21
+Morgan,Ray 2,U.S. Senate,,Todd Rokita,REP,34,12,0,46
+Morgan,Ray 2,U.S. Senate,,Joe Donnelly,DEM,9,3,0,12
+Morgan,Ray 2,U.S. House,9,James Dean Alspach,REP,19,8,0,27
+Morgan,Ray 2,U.S. House,9,Trey Hollingsworth,REP,68,17,0,85
+Morgan,Ray 2,U.S. House,9,Dan Canon,DEM,1,0,0,1
+Morgan,Ray 2,U.S. House,9,Rob Chatlos,DEM,1,0,0,1
+Morgan,Ray 2,U.S. House,9,Liz Watson,DEM,7,4,0,11
+Morgan,Ray 2,State House,44,Beau Baird,REP,51,12,0,63
+Morgan,Ray 2,State House,44,Jess L. Norton,REP,29,9,0,38
+Morgan,Ray 2,State House,44,Kimberly Anne Fidler,DEM,8,3,0,11
+Morgan,Washington 1,Ballots Cast,,,,112,79,0,191
+Morgan,Washington 1,Registered Voters,,,,,,,751
+Morgan,Washington 1,U.S. Senate,,Mike Braun,REP,21,26,0,47
+Morgan,Washington 1,U.S. Senate,,Luke Messer,REP,31,19,0,50
+Morgan,Washington 1,U.S. Senate,,Todd Rokita,REP,45,26,0,71
+Morgan,Washington 1,U.S. Senate,,Joe Donnelly,DEM,6,3,0,9
+Morgan,Washington 1,U.S. House,9,James Dean Alspach,REP,20,18,0,38
+Morgan,Washington 1,U.S. House,9,Trey Hollingsworth,REP,79,53,0,132
+Morgan,Washington 1,U.S. House,9,Dan Canon,DEM,1,1,0,2
+Morgan,Washington 1,U.S. House,9,Rob Chatlos,DEM,0,0,0,0
+Morgan,Washington 1,U.S. House,9,Liz Watson,DEM,7,1,0,8
+Morgan,Washington 1,State House,60,Peggy Mayfield,REP,92,64,0,156
+Morgan,Washington 1,State House,60,Penny Githens,DEM,7,3,0,10
+Morgan,Washington 2,Ballots Cast,,,,159,146,0,305
+Morgan,Washington 2,Registered Voters,,,,,,,953
+Morgan,Washington 2,U.S. Senate,,Mike Braun,REP,56,53,0,109
+Morgan,Washington 2,U.S. Senate,,Luke Messer,REP,22,24,0,46
+Morgan,Washington 2,U.S. Senate,,Todd Rokita,REP,58,50,0,108
+Morgan,Washington 2,U.S. Senate,,Joe Donnelly,DEM,12,9,0,21
+Morgan,Washington 2,U.S. House,9,James Dean Alspach,REP,36,27,0,63
+Morgan,Washington 2,U.S. House,9,Trey Hollingsworth,REP,95,94,0,189
+Morgan,Washington 2,U.S. House,9,Dan Canon,DEM,1,4,0,5
+Morgan,Washington 2,U.S. House,9,Rob Chatlos,DEM,1,0,0,1
+Morgan,Washington 2,U.S. House,9,Liz Watson,DEM,9,7,0,16
+Morgan,Washington 2,State House,60,Peggy Mayfield,REP,119,107,0,226
+Morgan,Washington 2,State House,60,Penny Githens,DEM,11,9,0,20
+Morgan,Washington 3,Ballots Cast,,,,70,55,0,125
+Morgan,Washington 3,Registered Voters,,,,,,,536
+Morgan,Washington 3,U.S. Senate,,Mike Braun,REP,19,15,0,34
+Morgan,Washington 3,U.S. Senate,,Luke Messer,REP,13,8,0,21
+Morgan,Washington 3,U.S. Senate,,Todd Rokita,REP,28,21,0,49
+Morgan,Washington 3,U.S. Senate,,Joe Donnelly,DEM,5,7,0,12
+Morgan,Washington 3,U.S. House,9,James Dean Alspach,REP,15,5,0,20
+Morgan,Washington 3,U.S. House,9,Trey Hollingsworth,REP,42,40,0,82
+Morgan,Washington 3,U.S. House,9,Dan Canon,DEM,2,2,0,4
+Morgan,Washington 3,U.S. House,9,Rob Chatlos,DEM,0,0,0,0
+Morgan,Washington 3,U.S. House,9,Liz Watson,DEM,3,5,0,8
+Morgan,Washington 3,State House,60,Peggy Mayfield,REP,55,45,0,100
+Morgan,Washington 3,State House,60,Penny Githens,DEM,4,6,0,10
+Morgan,Washington 4,Ballots Cast,,,,102,109,0,211
+Morgan,Washington 4,Registered Voters,,,,,,,661
+Morgan,Washington 4,U.S. Senate,,Mike Braun,REP,22,32,0,54
+Morgan,Washington 4,U.S. Senate,,Luke Messer,REP,21,15,0,36
+Morgan,Washington 4,U.S. Senate,,Todd Rokita,REP,44,47,0,91
+Morgan,Washington 4,U.S. Senate,,Joe Donnelly,DEM,9,6,0,15
+Morgan,Washington 4,U.S. House,9,James Dean Alspach,REP,19,25,0,44
+Morgan,Washington 4,U.S. House,9,Trey Hollingsworth,REP,66,70,0,136
+Morgan,Washington 4,U.S. House,9,Dan Canon,DEM,1,2,0,3
+Morgan,Washington 4,U.S. House,9,Rob Chatlos,DEM,0,0,0,0
+Morgan,Washington 4,U.S. House,9,Liz Watson,DEM,8,4,0,12
+Morgan,Washington 4,State House,60,Peggy Mayfield,REP,76,84,0,160
+Morgan,Washington 4,State House,60,Penny Githens,DEM,9,5,0,14
+Morgan,Washington 5,Ballots Cast,,,,113,113,0,226
+Morgan,Washington 5,Registered Voters,,,,,,,817
+Morgan,Washington 5,U.S. Senate,,Mike Braun,REP,33,38,0,71
+Morgan,Washington 5,U.S. Senate,,Luke Messer,REP,19,18,0,37
+Morgan,Washington 5,U.S. Senate,,Todd Rokita,REP,50,39,0,89
+Morgan,Washington 5,U.S. Senate,,Joe Donnelly,DEM,3,7,0,10
+Morgan,Washington 5,U.S. House,9,James Dean Alspach,REP,26,23,0,49
+Morgan,Washington 5,U.S. House,9,Trey Hollingsworth,REP,74,79,0,153
+Morgan,Washington 5,U.S. House,9,Dan Canon,DEM,1,2,0,3
+Morgan,Washington 5,U.S. House,9,Rob Chatlos,DEM,0,0,0,0
+Morgan,Washington 5,U.S. House,9,Liz Watson,DEM,2,7,0,9
+Morgan,Washington 5,State House,60,Peggy Mayfield,REP,89,87,0,176
+Morgan,Washington 5,State House,60,Penny Githens,DEM,2,7,0,9
+Morgan,Washington 6,Ballots Cast,,,,118,97,0,215
+Morgan,Washington 6,Registered Voters,,,,,,,1136
+Morgan,Washington 6,U.S. Senate,,Mike Braun,REP,33,29,0,62
+Morgan,Washington 6,U.S. Senate,,Luke Messer,REP,23,12,0,35
+Morgan,Washington 6,U.S. Senate,,Todd Rokita,REP,30,34,0,64
+Morgan,Washington 6,U.S. Senate,,Joe Donnelly,DEM,19,19,0,38
+Morgan,Washington 6,U.S. House,9,James Dean Alspach,REP,24,17,0,41
+Morgan,Washington 6,U.S. House,9,Trey Hollingsworth,REP,54,55,0,109
+Morgan,Washington 6,U.S. House,9,Dan Canon,DEM,6,7,0,13
+Morgan,Washington 6,U.S. House,9,Rob Chatlos,DEM,2,2,0,4
+Morgan,Washington 6,U.S. House,9,Liz Watson,DEM,13,8,0,21
+Morgan,Washington 6,State House,60,Peggy Mayfield,REP,73,68,0,141
+Morgan,Washington 6,State House,60,Penny Githens,DEM,19,18,0,37
+Morgan,Washington 7,Ballots Cast,,,,149,137,0,286
+Morgan,Washington 7,Registered Voters,,,,,,,953
+Morgan,Washington 7,U.S. Senate,,Mike Braun,REP,54,38,0,92
+Morgan,Washington 7,U.S. Senate,,Luke Messer,REP,30,27,0,57
+Morgan,Washington 7,U.S. Senate,,Todd Rokita,REP,44,50,0,94
+Morgan,Washington 7,U.S. Senate,,Joe Donnelly,DEM,13,12,0,25
+Morgan,Washington 7,U.S. House,9,James Dean Alspach,REP,28,29,0,57
+Morgan,Washington 7,U.S. House,9,Trey Hollingsworth,REP,93,88,0,181
+Morgan,Washington 7,U.S. House,9,Dan Canon,DEM,1,1,0,2
+Morgan,Washington 7,U.S. House,9,Rob Chatlos,DEM,0,0,0,0
+Morgan,Washington 7,U.S. House,9,Liz Watson,DEM,11,10,0,21
+Morgan,Washington 7,State House,60,Peggy Mayfield,REP,117,103,0,220
+Morgan,Washington 7,State House,60,Penny Githens,DEM,12,11,0,23
+Morgan,Washington 8,Ballots Cast,,,,182,155,0,337
+Morgan,Washington 8,Registered Voters,,,,,,,1110
+Morgan,Washington 8,U.S. Senate,,Mike Braun,REP,70,44,0,114
+Morgan,Washington 8,U.S. Senate,,Luke Messer,REP,20,29,0,49
+Morgan,Washington 8,U.S. Senate,,Todd Rokita,REP,59,55,0,114
+Morgan,Washington 8,U.S. Senate,,Joe Donnelly,DEM,21,19,0,40
+Morgan,Washington 8,U.S. House,9,James Dean Alspach,REP,28,31,0,59
+Morgan,Washington 8,U.S. House,9,Trey Hollingsworth,REP,123,99,0,222
+Morgan,Washington 8,U.S. House,9,Dan Canon,DEM,2,4,0,6
+Morgan,Washington 8,U.S. House,9,Rob Chatlos,DEM,1,1,0,2
+Morgan,Washington 8,U.S. House,9,Liz Watson,DEM,19,14,0,33
+Morgan,Washington 8,State House,60,Peggy Mayfield,REP,142,107,0,249
+Morgan,Washington 8,State House,60,Penny Githens,DEM,21,17,0,38
+Morgan,Washington 9,Ballots Cast,,,,145,123,0,268
+Morgan,Washington 9,Registered Voters,,,,,,,848
+Morgan,Washington 9,U.S. Senate,,Mike Braun,REP,50,42,0,92
+Morgan,Washington 9,U.S. Senate,,Luke Messer,REP,25,12,0,37
+Morgan,Washington 9,U.S. Senate,,Todd Rokita,REP,49,45,0,94
+Morgan,Washington 9,U.S. Senate,,Joe Donnelly,DEM,16,10,0,26
+Morgan,Washington 9,U.S. House,9,James Dean Alspach,REP,22,24,0,46
+Morgan,Washington 9,U.S. House,9,Trey Hollingsworth,REP,99,77,0,176
+Morgan,Washington 9,U.S. House,9,Dan Canon,DEM,0,4,0,4
+Morgan,Washington 9,U.S. House,9,Rob Chatlos,DEM,1,0,0,1
+Morgan,Washington 9,U.S. House,9,Liz Watson,DEM,13,7,0,20
+Morgan,Washington 9,State House,60,Peggy Mayfield,REP,114,92,0,206
+Morgan,Washington 9,State House,60,Penny Githens,DEM,14,11,0,25
+Morgan,Washington 10,Ballots Cast,,,,121,59,0,180
+Morgan,Washington 10,Registered Voters,,,,,,,786
+Morgan,Washington 10,U.S. Senate,,Mike Braun,REP,44,19,0,63
+Morgan,Washington 10,U.S. Senate,,Luke Messer,REP,17,6,0,23
+Morgan,Washington 10,U.S. Senate,,Todd Rokita,REP,46,20,0,66
+Morgan,Washington 10,U.S. Senate,,Joe Donnelly,DEM,11,10,0,21
+Morgan,Washington 10,U.S. House,9,James Dean Alspach,REP,24,6,0,30
+Morgan,Washington 10,U.S. House,9,Trey Hollingsworth,REP,80,37,0,117
+Morgan,Washington 10,U.S. House,9,Dan Canon,DEM,3,0,0,3
+Morgan,Washington 10,U.S. House,9,Rob Chatlos,DEM,0,1,0,1
+Morgan,Washington 10,U.S. House,9,Liz Watson,DEM,8,9,0,17
+Morgan,Washington 10,State House,60,Peggy Mayfield,REP,98,40,0,138
+Morgan,Washington 10,State House,60,Penny Githens,DEM,11,9,0,20
+Morgan,Washington 11,Ballots Cast,,,,167,116,0,283
+Morgan,Washington 11,Registered Voters,,,,,,,796
+Morgan,Washington 11,U.S. Senate,,Mike Braun,REP,49,37,0,86
+Morgan,Washington 11,U.S. Senate,,Luke Messer,REP,33,20,0,53
+Morgan,Washington 11,U.S. Senate,,Todd Rokita,REP,63,41,0,104
+Morgan,Washington 11,U.S. Senate,,Joe Donnelly,DEM,16,15,0,31
+Morgan,Washington 11,U.S. House,9,James Dean Alspach,REP,31,21,0,52
+Morgan,Washington 11,U.S. House,9,Trey Hollingsworth,REP,105,78,0,183
+Morgan,Washington 11,U.S. House,9,Dan Canon,DEM,5,3,0,8
+Morgan,Washington 11,U.S. House,9,Rob Chatlos,DEM,0,0,0,0
+Morgan,Washington 11,U.S. House,9,Liz Watson,DEM,11,12,0,23
+Morgan,Washington 11,State House,60,Peggy Mayfield,REP,135,87,0,222
+Morgan,Washington 11,State House,60,Penny Githens,DEM,16,15,0,31
+Morgan,Washington 12,Ballots Cast,,,,90,103,0,193
+Morgan,Washington 12,Registered Voters,,,,,,,786
+Morgan,Washington 12,U.S. Senate,,Mike Braun,REP,35,32,0,67
+Morgan,Washington 12,U.S. Senate,,Luke Messer,REP,20,15,0,35
+Morgan,Washington 12,U.S. Senate,,Todd Rokita,REP,23,40,0,63
+Morgan,Washington 12,U.S. Senate,,Joe Donnelly,DEM,8,10,0,18
+Morgan,Washington 12,U.S. House,9,James Dean Alspach,REP,24,15,0,39
+Morgan,Washington 12,U.S. House,9,Trey Hollingsworth,REP,53,70,0,123
+Morgan,Washington 12,U.S. House,9,Dan Canon,DEM,0,6,0,6
+Morgan,Washington 12,U.S. House,9,Rob Chatlos,DEM,2,0,0,2
+Morgan,Washington 12,U.S. House,9,Liz Watson,DEM,6,3,0,9
+Morgan,Washington 12,State House,60,Peggy Mayfield,REP,71,82,0,153
+Morgan,Washington 12,State House,60,Penny Githens,DEM,9,9,0,18
+Morgan,Washington 13,Ballots Cast,,,,124,75,0,199
+Morgan,Washington 13,Registered Voters,,,,,,,686
+Morgan,Washington 13,U.S. Senate,,Mike Braun,REP,39,24,0,63
+Morgan,Washington 13,U.S. Senate,,Luke Messer,REP,21,7,0,28
+Morgan,Washington 13,U.S. Senate,,Todd Rokita,REP,47,28,0,75
+Morgan,Washington 13,U.S. Senate,,Joe Donnelly,DEM,16,13,0,29
+Morgan,Washington 13,U.S. House,9,James Dean Alspach,REP,25,12,0,37
+Morgan,Washington 13,U.S. House,9,Trey Hollingsworth,REP,77,45,0,122
+Morgan,Washington 13,U.S. House,9,Dan Canon,DEM,2,5,0,7
+Morgan,Washington 13,U.S. House,9,Rob Chatlos,DEM,1,0,0,1
+Morgan,Washington 13,U.S. House,9,Liz Watson,DEM,11,8,0,19
+Morgan,Washington 13,State House,60,Peggy Mayfield,REP,93,50,0,143
+Morgan,Washington 13,State House,60,Penny Githens,DEM,13,13,0,26
+Morgan,Washington 14,Ballots Cast,,,,144,135,0,279
+Morgan,Washington 14,Registered Voters,,,,,,,794
+Morgan,Washington 14,U.S. Senate,,Mike Braun,REP,42,45,0,87
+Morgan,Washington 14,U.S. Senate,,Luke Messer,REP,28,12,0,40
+Morgan,Washington 14,U.S. Senate,,Todd Rokita,REP,52,51,0,103
+Morgan,Washington 14,U.S. Senate,,Joe Donnelly,DEM,10,14,0,24
+Morgan,Washington 14,U.S. House,9,James Dean Alspach,REP,23,23,0,46
+Morgan,Washington 14,U.S. House,9,Trey Hollingsworth,REP,99,82,0,181
+Morgan,Washington 14,U.S. House,9,Dan Canon,DEM,3,3,0,6
+Morgan,Washington 14,U.S. House,9,Rob Chatlos,DEM,0,0,0,0
+Morgan,Washington 14,U.S. House,9,Liz Watson,DEM,7,11,0,18
+Morgan,Washington 14,State House,60,Peggy Mayfield,REP,117,97,0,214
+Morgan,Washington 14,State House,60,Penny Githens,DEM,10,12,0,22

@@ -1,0 +1,247 @@
+county,precinct,office,district,candidate,party,election_day,absentee,provisional,votes
+Owen,Clay I,Ballots Cast,,,,129,59,0,188
+Owen,Clay I,Registered Voters,,,,,,,827
+Owen,Clay I,U.S. Senate,,Mike Braun,REP,45,20,0,65
+Owen,Clay I,U.S. Senate,,Luke Messer,REP,21,7,0,28
+Owen,Clay I,U.S. Senate,,Todd Rokita,REP,28,8,0,36
+Owen,Clay I,U.S. Senate,,Joe Donnelly,DEM,27,20,0,47
+Owen,Clay I,U.S. House,8,Larry D. Bucshon,REP,41,22,0,63
+Owen,Clay I,U.S. House,8,Rachel Covington,REP,24,5,0,29
+Owen,Clay I,U.S. House,8,Richard Moss,REP,22,8,0,30
+Owen,Clay I,U.S. House,8,William Tanoos,DEM,24,13,0,37
+Owen,Clay I,State Senate,39,Eric S. Bassler,REP,83,30,0,113
+Owen,Clay I,State Senate,39,No Candidate Filed,DEM,0,0,0,0
+Owen,Clay I,State House,46,Bob Heaton,REP,84,34,0,118
+Owen,Clay I,State House,46,E. Thomasina Marsili,DEM,25,13,0,38
+Owen,Clay II,Ballots Cast,,,,158,58,0,216
+Owen,Clay II,Registered Voters,,,,,,,875
+Owen,Clay II,U.S. Senate,,Mike Braun,REP,50,18,0,68
+Owen,Clay II,U.S. Senate,,Luke Messer,REP,24,6,0,30
+Owen,Clay II,U.S. Senate,,Todd Rokita,REP,30,11,0,41
+Owen,Clay II,U.S. Senate,,Joe Donnelly,DEM,33,20,0,53
+Owen,Clay II,U.S. House,8,Larry D. Bucshon,REP,46,28,0,74
+Owen,Clay II,U.S. House,8,Rachel Covington,REP,30,4,0,34
+Owen,Clay II,U.S. House,8,Richard Moss,REP,29,3,0,32
+Owen,Clay II,U.S. House,8,William Tanoos,DEM,31,16,0,47
+Owen,Clay II,State Senate,39,Eric S. Bassler,REP,91,34,0,125
+Owen,Clay II,State Senate,39,No Candidate Filed,DEM,0,0,0,0
+Owen,Clay II,State House,46,Bob Heaton,REP,96,34,0,130
+Owen,Clay II,State House,46,E. Thomasina Marsili,DEM,24,18,0,42
+Owen,Franklin,Ballots Cast,,,,172,63,1,236
+Owen,Franklin,Registered Voters,,,,,,,811
+Owen,Franklin,U.S. Senate,,Mike Braun,REP,36,23,1,60
+Owen,Franklin,U.S. Senate,,Luke Messer,REP,31,9,0,40
+Owen,Franklin,U.S. Senate,,Todd Rokita,REP,28,10,0,38
+Owen,Franklin,U.S. Senate,,Joe Donnelly,DEM,55,13,0,68
+Owen,Franklin,U.S. House,8,Larry D. Bucshon,REP,34,24,1,59
+Owen,Franklin,U.S. House,8,Rachel Covington,REP,24,7,0,31
+Owen,Franklin,U.S. House,8,Richard Moss,REP,32,10,0,42
+Owen,Franklin,U.S. House,8,William Tanoos,DEM,43,10,0,53
+Owen,Franklin,State Senate,39,Eric S. Bassler,REP,78,37,1,116
+Owen,Franklin,State Senate,39,No Candidate Filed,DEM,0,0,0,0
+Owen,Franklin,State House,46,Bob Heaton,REP,85,38,1,124
+Owen,Franklin,State House,46,E. Thomasina Marsili,DEM,43,11,0,54
+Owen,Harrison,Ballots Cast,,,,52,16,0,68
+Owen,Harrison,Registered Voters,,,,,,,259
+Owen,Harrison,U.S. Senate,,Mike Braun,REP,19,4,0,23
+Owen,Harrison,U.S. Senate,,Luke Messer,REP,10,2,0,12
+Owen,Harrison,U.S. Senate,,Todd Rokita,REP,7,8,0,15
+Owen,Harrison,U.S. Senate,,Joe Donnelly,DEM,12,0,0,12
+Owen,Harrison,U.S. House,8,Larry D. Bucshon,REP,21,9,0,30
+Owen,Harrison,U.S. House,8,Rachel Covington,REP,6,3,0,9
+Owen,Harrison,U.S. House,8,Richard Moss,REP,10,2,0,12
+Owen,Harrison,U.S. House,8,William Tanoos,DEM,8,0,0,8
+Owen,Harrison,State House,44,Beau Baird,REP,21,7,0,28
+Owen,Harrison,State House,44,Jess L. Norton,REP,12,6,0,18
+Owen,Harrison,State House,44,Kimberly Anne Fidler,DEM,9,0,0,9
+Owen,Jackson,Ballots Cast,,,,120,22,0,142
+Owen,Jackson,Registered Voters,,,,,,,999
+Owen,Jackson,U.S. Senate,,Mike Braun,REP,35,5,0,40
+Owen,Jackson,U.S. Senate,,Luke Messer,REP,23,2,0,25
+Owen,Jackson,U.S. Senate,,Todd Rokita,REP,32,6,0,38
+Owen,Jackson,U.S. Senate,,Joe Donnelly,DEM,18,8,0,26
+Owen,Jackson,U.S. House,8,Larry D. Bucshon,REP,38,9,0,47
+Owen,Jackson,U.S. House,8,Rachel Covington,REP,33,3,0,36
+Owen,Jackson,U.S. House,8,Richard Moss,REP,20,0,0,20
+Owen,Jackson,U.S. House,8,William Tanoos,DEM,12,7,0,19
+Owen,Jackson,State House,44,Beau Baird,REP,61,10,0,71
+Owen,Jackson,State House,44,Jess L. Norton,REP,26,2,0,28
+Owen,Jackson,State House,44,Kimberly Anne Fidler,DEM,20,8,0,28
+Owen,Jefferson,Ballots Cast,,,,124,48,0,172
+Owen,Jefferson,Registered Voters,,,,,,,620
+Owen,Jefferson,U.S. Senate,,Mike Braun,REP,35,7,0,42
+Owen,Jefferson,U.S. Senate,,Luke Messer,REP,19,2,0,21
+Owen,Jefferson,U.S. Senate,,Todd Rokita,REP,24,11,0,35
+Owen,Jefferson,U.S. Senate,,Joe Donnelly,DEM,33,22,0,55
+Owen,Jefferson,U.S. House,8,Larry D. Bucshon,REP,43,12,0,55
+Owen,Jefferson,U.S. House,8,Rachel Covington,REP,11,3,0,14
+Owen,Jefferson,U.S. House,8,Richard Moss,REP,28,6,0,34
+Owen,Jefferson,U.S. House,8,William Tanoos,DEM,19,19,0,38
+Owen,Jefferson,State Senate,39,Eric S. Bassler,REP,74,17,0,91
+Owen,Jefferson,State Senate,39,No Candidate Filed,DEM,0,0,0,0
+Owen,Jefferson,State House,46,Bob Heaton,REP,79,19,0,98
+Owen,Jefferson,State House,46,E. Thomasina Marsili,DEM,26,17,0,43
+Owen,Jennings,Ballots Cast,,,,66,26,0,92
+Owen,Jennings,Registered Voters,,,,,,,542
+Owen,Jennings,U.S. Senate,,Mike Braun,REP,29,9,0,38
+Owen,Jennings,U.S. Senate,,Luke Messer,REP,10,5,0,15
+Owen,Jennings,U.S. Senate,,Todd Rokita,REP,10,3,0,13
+Owen,Jennings,U.S. Senate,,Joe Donnelly,DEM,9,8,0,17
+Owen,Jennings,U.S. House,8,Larry D. Bucshon,REP,24,12,0,36
+Owen,Jennings,U.S. House,8,Rachel Covington,REP,8,4,0,12
+Owen,Jennings,U.S. House,8,Richard Moss,REP,17,1,0,18
+Owen,Jennings,U.S. House,8,William Tanoos,DEM,7,6,0,13
+Owen,Jennings,State House,44,Beau Baird,REP,29,16,0,45
+Owen,Jennings,State House,44,Jess L. Norton,REP,19,1,0,20
+Owen,Jennings,State House,44,Kimberly Anne Fidler,DEM,12,7,0,19
+Owen,Lafayette,Ballots Cast,,,,130,77,0,207
+Owen,Lafayette,Registered Voters,,,,,,,792
+Owen,Lafayette,U.S. Senate,,Mike Braun,REP,36,21,0,57
+Owen,Lafayette,U.S. Senate,,Luke Messer,REP,20,14,0,34
+Owen,Lafayette,U.S. Senate,,Todd Rokita,REP,29,11,0,40
+Owen,Lafayette,U.S. Senate,,Joe Donnelly,DEM,32,24,0,56
+Owen,Lafayette,U.S. House,8,Larry D. Bucshon,REP,37,28,0,65
+Owen,Lafayette,U.S. House,8,Rachel Covington,REP,19,9,0,28
+Owen,Lafayette,U.S. House,8,Richard Moss,REP,31,7,0,38
+Owen,Lafayette,U.S. House,8,William Tanoos,DEM,25,21,0,46
+Owen,Lafayette,State Senate,39,Eric S. Bassler,REP,72,35,0,107
+Owen,Lafayette,State Senate,39,No Candidate Filed,DEM,0,0,0,0
+Owen,Lafayette,State House,46,Bob Heaton,REP,81,43,0,124
+Owen,Lafayette,State House,46,E. Thomasina Marsili,DEM,27,21,0,48
+Owen,Marion,Ballots Cast,,,,106,47,0,153
+Owen,Marion,Registered Voters,,,,,,,575
+Owen,Marion,U.S. Senate,,Mike Braun,REP,32,15,0,47
+Owen,Marion,U.S. Senate,,Luke Messer,REP,17,4,0,21
+Owen,Marion,U.S. Senate,,Todd Rokita,REP,28,8,0,36
+Owen,Marion,U.S. Senate,,Joe Donnelly,DEM,18,15,0,33
+Owen,Marion,U.S. House,8,Larry D. Bucshon,REP,46,17,0,63
+Owen,Marion,U.S. House,8,Rachel Covington,REP,7,6,0,13
+Owen,Marion,U.S. House,8,Richard Moss,REP,24,5,0,29
+Owen,Marion,U.S. House,8,William Tanoos,DEM,20,9,0,29
+Owen,Marion,State Senate,39,Eric S. Bassler,REP,67,20,0,87
+Owen,Marion,State Senate,39,No Candidate Filed,DEM,0,0,0,0
+Owen,Marion,State House,46,Bob Heaton,REP,70,23,0,93
+Owen,Marion,State House,46,E. Thomasina Marsili,DEM,18,11,0,29
+Owen,Montgomery,Ballots Cast,,,,135,84,0,219
+Owen,Montgomery,Registered Voters,,,,,,,778
+Owen,Montgomery,U.S. Senate,,Mike Braun,REP,28,14,0,42
+Owen,Montgomery,U.S. Senate,,Luke Messer,REP,34,11,0,45
+Owen,Montgomery,U.S. Senate,,Todd Rokita,REP,28,19,0,47
+Owen,Montgomery,U.S. Senate,,Joe Donnelly,DEM,30,31,0,61
+Owen,Montgomery,U.S. House,8,Larry D. Bucshon,REP,41,23,0,64
+Owen,Montgomery,U.S. House,8,Rachel Covington,REP,21,15,0,36
+Owen,Montgomery,U.S. House,8,Richard Moss,REP,18,6,0,24
+Owen,Montgomery,U.S. House,8,William Tanoos,DEM,24,30,0,54
+Owen,Montgomery,State Senate,39,Eric S. Bassler,REP,73,36,0,109
+Owen,Montgomery,State Senate,39,No Candidate Filed,DEM,0,0,0,0
+Owen,Montgomery,State House,46,Bob Heaton,REP,79,37,0,116
+Owen,Montgomery,State House,46,E. Thomasina Marsili,DEM,26,28,0,54
+Owen,Morgan,Ballots Cast,,,,155,49,0,204
+Owen,Morgan,Registered Voters,,,,,,,750
+Owen,Morgan,U.S. Senate,,Mike Braun,REP,49,12,0,61
+Owen,Morgan,U.S. Senate,,Luke Messer,REP,24,1,0,25
+Owen,Morgan,U.S. Senate,,Todd Rokita,REP,32,19,0,51
+Owen,Morgan,U.S. Senate,,Joe Donnelly,DEM,42,13,0,55
+Owen,Morgan,U.S. House,8,Larry D. Bucshon,REP,58,24,0,82
+Owen,Morgan,U.S. House,8,Rachel Covington,REP,15,4,0,19
+Owen,Morgan,U.S. House,8,Richard Moss,REP,29,2,0,31
+Owen,Morgan,U.S. House,8,William Tanoos,DEM,32,10,0,42
+Owen,Morgan,State Senate,39,Eric S. Bassler,REP,91,25,0,116
+Owen,Morgan,State Senate,39,No Candidate Filed,DEM,0,0,0,0
+Owen,Morgan,State House,46,Bob Heaton,REP,97,28,0,125
+Owen,Morgan,State House,46,E. Thomasina Marsili,DEM,33,10,0,43
+Owen,Taylor,Ballots Cast,,,,121,28,0,149
+Owen,Taylor,Registered Voters,,,,,,,613
+Owen,Taylor,U.S. Senate,,Mike Braun,REP,48,8,0,56
+Owen,Taylor,U.S. Senate,,Luke Messer,REP,18,5,0,23
+Owen,Taylor,U.S. Senate,,Todd Rokita,REP,38,9,0,47
+Owen,Taylor,U.S. Senate,,Joe Donnelly,DEM,11,3,0,14
+Owen,Taylor,U.S. House,8,Larry D. Bucshon,REP,52,12,0,64
+Owen,Taylor,U.S. House,8,Rachel Covington,REP,21,6,0,27
+Owen,Taylor,U.S. House,8,Richard Moss,REP,28,3,0,31
+Owen,Taylor,U.S. House,8,William Tanoos,DEM,9,2,0,11
+Owen,Taylor,State House,44,Beau Baird,REP,61,12,0,73
+Owen,Taylor,State House,44,Jess L. Norton,REP,38,9,0,47
+Owen,Taylor,State House,44,Kimberly Anne Fidler,DEM,12,3,0,15
+Owen,Washington I,Ballots Cast,,,,266,193,0,459
+Owen,Washington I,Registered Voters,,,,,,,1373
+Owen,Washington I,U.S. Senate,,Mike Braun,REP,58,49,0,107
+Owen,Washington I,U.S. Senate,,Luke Messer,REP,44,17,0,61
+Owen,Washington I,U.S. Senate,,Todd Rokita,REP,42,38,0,80
+Owen,Washington I,U.S. Senate,,Joe Donnelly,DEM,87,71,0,158
+Owen,Washington I,U.S. House,8,Larry D. Bucshon,REP,78,70,0,148
+Owen,Washington I,U.S. House,8,Rachel Covington,REP,25,15,0,40
+Owen,Washington I,U.S. House,8,Richard Moss,REP,47,13,0,60
+Owen,Washington I,U.S. House,8,William Tanoos,DEM,74,54,0,128
+Owen,Washington I,State Senate,39,Eric S. Bassler,REP,129,87,0,216
+Owen,Washington I,State Senate,39,No Candidate Filed,DEM,0,0,0,0
+Owen,Washington I,State House,46,Bob Heaton,REP,144,93,0,237
+Owen,Washington I,State House,46,E. Thomasina Marsili,DEM,72,54,0,126
+Owen,Washington II,Ballots Cast,,,,128,114,0,242
+Owen,Washington II,Registered Voters,,,,,,,756
+Owen,Washington II,U.S. Senate,,Mike Braun,REP,26,21,0,47
+Owen,Washington II,U.S. Senate,,Luke Messer,REP,16,10,0,26
+Owen,Washington II,U.S. Senate,,Todd Rokita,REP,18,16,0,34
+Owen,Washington II,U.S. Senate,,Joe Donnelly,DEM,51,52,0,103
+Owen,Washington II,U.S. House,8,Larry D. Bucshon,REP,41,29,0,70
+Owen,Washington II,U.S. House,8,Rachel Covington,REP,11,7,0,18
+Owen,Washington II,U.S. House,8,Richard Moss,REP,9,9,0,18
+Owen,Washington II,U.S. House,8,William Tanoos,DEM,40,44,0,84
+Owen,Washington II,State Senate,39,Eric S. Bassler,REP,55,36,0,91
+Owen,Washington II,State Senate,39,No Candidate Filed,DEM,0,0,0,0
+Owen,Washington II,State House,46,Bob Heaton,REP,57,46,0,103
+Owen,Washington II,State House,46,E. Thomasina Marsili,DEM,43,40,0,83
+Owen,Washington III,Ballots Cast,,,,153,99,0,252
+Owen,Washington III,Registered Voters,,,,,,,828
+Owen,Washington III,U.S. Senate,,Mike Braun,REP,33,17,0,50
+Owen,Washington III,U.S. Senate,,Luke Messer,REP,21,10,0,31
+Owen,Washington III,U.S. Senate,,Todd Rokita,REP,24,18,0,42
+Owen,Washington III,U.S. Senate,,Joe Donnelly,DEM,54,37,0,91
+Owen,Washington III,U.S. House,8,Larry D. Bucshon,REP,36,32,0,68
+Owen,Washington III,U.S. House,8,Rachel Covington,REP,23,10,0,33
+Owen,Washington III,U.S. House,8,Richard Moss,REP,25,3,0,28
+Owen,Washington III,U.S. House,8,William Tanoos,DEM,39,26,0,65
+Owen,Washington III,State Senate,39,Eric S. Bassler,REP,75,45,0,120
+Owen,Washington III,State Senate,39,No Candidate Filed,DEM,0,0,0,0
+Owen,Washington III,State House,46,Bob Heaton,REP,79,43,0,122
+Owen,Washington III,State House,46,E. Thomasina Marsili,DEM,44,24,0,68
+Owen,Washington IV,Ballots Cast,,,,128,128,0,256
+Owen,Washington IV,Registered Voters,,,,,,,926
+Owen,Washington IV,U.S. Senate,,Mike Braun,REP,26,19,0,45
+Owen,Washington IV,U.S. Senate,,Luke Messer,REP,20,13,0,33
+Owen,Washington IV,U.S. Senate,,Todd Rokita,REP,24,14,0,38
+Owen,Washington IV,U.S. Senate,,Joe Donnelly,DEM,40,56,0,96
+Owen,Washington IV,U.S. House,8,Larry D. Bucshon,REP,35,31,0,66
+Owen,Washington IV,U.S. House,8,Rachel Covington,REP,9,6,0,15
+Owen,Washington IV,U.S. House,8,Richard Moss,REP,23,7,0,30
+Owen,Washington IV,U.S. House,8,William Tanoos,DEM,34,42,0,76
+Owen,Washington IV,State Senate,39,Eric S. Bassler,REP,57,40,0,97
+Owen,Washington IV,State Senate,39,No Candidate Filed,DEM,0,0,0,0
+Owen,Washington IV,State House,46,Bob Heaton,REP,64,44,0,108
+Owen,Washington IV,State House,46,E. Thomasina Marsili,DEM,33,40,0,73
+Owen,Wayne I,Ballots Cast,,,,120,34,0,154
+Owen,Wayne I,Registered Voters,,,,,,,465
+Owen,Wayne I,U.S. Senate,,Mike Braun,REP,40,7,0,47
+Owen,Wayne I,U.S. Senate,,Luke Messer,REP,16,7,0,23
+Owen,Wayne I,U.S. Senate,,Todd Rokita,REP,19,8,0,27
+Owen,Wayne I,U.S. Senate,,Joe Donnelly,DEM,33,8,0,41
+Owen,Wayne I,U.S. House,8,Larry D. Bucshon,REP,40,8,0,48
+Owen,Wayne I,U.S. House,8,Rachel Covington,REP,11,5,0,16
+Owen,Wayne I,U.S. House,8,Richard Moss,REP,24,5,0,29
+Owen,Wayne I,U.S. House,8,William Tanoos,DEM,22,5,0,27
+Owen,Wayne I,State House,46,Bob Heaton,REP,71,15,0,86
+Owen,Wayne I,State House,46,E. Thomasina Marsili,DEM,28,3,0,31
+Owen,Wayne II,Ballots Cast,,,,127,36,0,163
+Owen,Wayne II,Registered Voters,,,,,,,602
+Owen,Wayne II,U.S. Senate,,Mike Braun,REP,35,8,0,43
+Owen,Wayne II,U.S. Senate,,Luke Messer,REP,24,3,0,27
+Owen,Wayne II,U.S. Senate,,Todd Rokita,REP,20,8,0,28
+Owen,Wayne II,U.S. Senate,,Joe Donnelly,DEM,31,9,0,40
+Owen,Wayne II,U.S. House,8,Larry D. Bucshon,REP,35,13,0,48
+Owen,Wayne II,U.S. House,8,Rachel Covington,REP,19,3,0,22
+Owen,Wayne II,U.S. House,8,Richard Moss,REP,25,6,0,31
+Owen,Wayne II,U.S. House,8,William Tanoos,DEM,27,9,0,36
+Owen,Wayne II,State Senate,39,Eric S. Bassler,REP,66,19,0,85
+Owen,Wayne II,State Senate,39,No Candidate Filed,DEM,0,0,0,0
+Owen,Wayne II,State House,46,Bob Heaton,REP,76,20,0,96
+Owen,Wayne II,State House,46,E. Thomasina Marsili,DEM,26,8,0,34

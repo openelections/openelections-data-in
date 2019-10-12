@@ -1,0 +1,305 @@
+county,precinct,office,district,candidate,party,election_day,absentee,provisional,votes
+Scott,Johnson 1,Ballots Cast,,,,381,99,0,480
+Scott,Johnson 1,Registered Voters,,,,,,,1661
+Scott,Johnson 1,U.S. Senate,,Joe Donnelly,DEM,192,61,0,253
+Scott,Johnson 1,U.S. House,6,George T. Holland,DEM,33,9,0,42
+Scott,Johnson 1,U.S. House,6,Jeannine Lee Lake,DEM,48,11,0,59
+Scott,Johnson 1,U.S. House,6,K (Jasen) Lave,DEM,4,3,0,7
+Scott,Johnson 1,U.S. House,6,Jim Pruett,DEM,95,28,0,123
+Scott,Johnson 1,U.S. House,6,Lane Siekman,DEM,12,6,0,18
+Scott,Johnson 1,U.S. House,6,Joshua Williamson,DEM,17,4,0,21
+Scott,Johnson 1,State Senate,45,John Perkins,DEM,183,55,0,238
+Scott,Johnson 1,State House,66,Terry Goodin,DEM,247,80,0,327
+Scott,Johnson 1,U.S. Senate,,Mike Braun,REP,28,1,0,29
+Scott,Johnson 1,U.S. Senate,,Luke Messer,REP,54,3,0,57
+Scott,Johnson 1,U.S. Senate,,Todd Rokita,REP,10,1,0,11
+Scott,Johnson 1,U.S. House,6,Mike Campbell,REP,6,0,0,6
+Scott,Johnson 1,U.S. House,6,Jonathan M. Lamb,REP,14,0,0,14
+Scott,Johnson 1,U.S. House,6,Stephen M. Mackenzie,REP,2,0,0,2
+Scott,Johnson 1,U.S. House,6,Greg Pence,REP,66,4,0,70
+Scott,Johnson 1,U.S. House,6,Jeff Smith,REP,3,1,0,4
+Scott,Johnson 1,State Senate,45,Chris Garten,REP,83,3,0,86
+Scott,Johnson 1,State House,66,Mike Bowling,REP,71,5,0,76
+Scott,Johnson 1,State House,66,"Joe Van Wye, Sr.",REP,13,0,0,13
+Scott,Lexington 1,Ballots Cast,,,,262,30,0,292
+Scott,Lexington 1,Registered Voters,,,,,,,1154
+Scott,Lexington 1,U.S. Senate,,Joe Donnelly,DEM,124,18,0,140
+Scott,Lexington 1,U.S. House,6,George T. Holland,DEM,21,2,0,23
+Scott,Lexington 1,U.S. House,6,Jeannine Lee Lake,DEM,42,2,0,44
+Scott,Lexington 1,U.S. House,6,K (Jasen) Lave,DEM,0,0,0,0
+Scott,Lexington 1,U.S. House,6,Jim Pruett,DEM,45,9,0,54
+Scott,Lexington 1,U.S. House,6,Lane Siekman,DEM,9,1,0,10
+Scott,Lexington 1,U.S. House,6,Joshua Williamson,DEM,6,1,0,7
+Scott,Lexington 1,State Senate,45,John Perkins,DEM,110,18,0,128
+Scott,Lexington 1,State House,66,Terry Goodin,DEM,138,21,0,159
+Scott,Lexington 1,U.S. Senate,,Mike Braun,REP,39,3,0,42
+Scott,Lexington 1,U.S. Senate,,Luke Messer,REP,56,6,0,62
+Scott,Lexington 1,U.S. Senate,,Todd Rokita,REP,18,0,0,18
+Scott,Lexington 1,U.S. House,6,Mike Campbell,REP,8,0,0,8
+Scott,Lexington 1,U.S. House,6,Jonathan M. Lamb,REP,9,2,0,11
+Scott,Lexington 1,U.S. House,6,Stephen M. Mackenzie,REP,5,0,0,5
+Scott,Lexington 1,U.S. House,6,Greg Pence,REP,84,6,0,90
+Scott,Lexington 1,U.S. House,6,Jeff Smith,REP,5,0,0,5
+Scott,Lexington 1,State Senate,45,Chris Garten,REP,102,7,0,109
+Scott,Lexington 1,State House,66,Mike Bowling,REP,77,4,0,81
+Scott,Lexington 1,State House,66,"Joe Van Wye, Sr.",REP,21,1,0,22
+Scott,Lexington 2,Ballots Cast,,,,232,51,0,283
+Scott,Lexington 2,Registered Voters,,,,,,,1051
+Scott,Lexington 2,U.S. Senate,,Joe Donnelly,DEM,105,37,0,142
+Scott,Lexington 2,U.S. House,6,George T. Holland,DEM,12,5,0,17
+Scott,Lexington 2,U.S. House,6,Jeannine Lee Lake,DEM,21,12,0,33
+Scott,Lexington 2,U.S. House,6,K (Jasen) Lave,DEM,1,0,0,1
+Scott,Lexington 2,U.S. House,6,Jim Pruett,DEM,46,19,0,65
+Scott,Lexington 2,U.S. House,6,Lane Siekman,DEM,9,0,0,9
+Scott,Lexington 2,U.S. House,6,Joshua Williamson,DEM,8,0,0,8
+Scott,Lexington 2,State Senate,45,John Perkins,DEM,95,31,0,126
+Scott,Lexington 2,State House,66,Terry Goodin,DEM,117,41,0,158
+Scott,Lexington 2,U.S. Senate,,Mike Braun,REP,34,2,0,36
+Scott,Lexington 2,U.S. Senate,,Luke Messer,REP,45,3,0,48
+Scott,Lexington 2,U.S. Senate,,Todd Rokita,REP,12,0,0,12
+Scott,Lexington 2,U.S. House,6,Mike Campbell,REP,5,0,0,5
+Scott,Lexington 2,U.S. House,6,Jonathan M. Lamb,REP,6,1,0,7
+Scott,Lexington 2,U.S. House,6,Stephen M. Mackenzie,REP,2,0,0,2
+Scott,Lexington 2,U.S. House,6,Greg Pence,REP,70,5,0,75
+Scott,Lexington 2,U.S. House,6,Jeff Smith,REP,6,0,0,6
+Scott,Lexington 2,State Senate,45,Chris Garten,REP,87,5,0,92
+Scott,Lexington 2,State House,66,Mike Bowling,REP,77,3,0,80
+Scott,Lexington 2,State House,66,"Joe Van Wye, Sr.",REP,9,2,0,11
+Scott,Lexington 3,Ballots Cast,,,,39,2,0,41
+Scott,Lexington 3,Registered Voters,,,,,,,205
+Scott,Lexington 3,U.S. Senate,,Joe Donnelly,DEM,20,0,0,20
+Scott,Lexington 3,U.S. House,9,Dan Canon,DEM,9,0,0,9
+Scott,Lexington 3,U.S. House,9,Rob Chatlos,DEM,1,0,0,1
+Scott,Lexington 3,U.S. House,9,Liz Watson,DEM,12,0,0,12
+Scott,Lexington 3,State Senate,45,John Perkins,DEM,19,0,0,19
+Scott,Lexington 3,State House,66,Terry Goodin,DEM,24,0,0,24
+Scott,Lexington 3,U.S. Senate,,Mike Braun,REP,3,0,0,3
+Scott,Lexington 3,U.S. Senate,,Luke Messer,REP,5,0,0,5
+Scott,Lexington 3,U.S. Senate,,Todd Rokita,REP,2,1,0,3
+Scott,Lexington 3,U.S. House,9,James Dean Alspach,REP,1,0,0,1
+Scott,Lexington 3,U.S. House,9,Trey Hollingsworth,REP,10,1,0,11
+Scott,Lexington 3,State Senate,45,Chris Garten,REP,9,1,0,10
+Scott,Lexington 3,State House,66,Mike Bowling,REP,5,0,0,5
+Scott,Lexington 3,State House,66,"Joe Van Wye, Sr.",REP,4,1,0,5
+Scott,Vienna 1,Ballots Cast,,,,336,73,0,409
+Scott,Vienna 1,Registered Voters,,,,,,,1449
+Scott,Vienna 1,U.S. Senate,,Joe Donnelly,DEM,150,49,0,199
+Scott,Vienna 1,U.S. House,9,Dan Canon,DEM,43,14,0,57
+Scott,Vienna 1,U.S. House,9,Rob Chatlos,DEM,6,1,0,7
+Scott,Vienna 1,U.S. House,9,Liz Watson,DEM,100,41,0,141
+Scott,Vienna 1,State Senate,45,John Perkins,DEM,129,45,0,174
+Scott,Vienna 1,State House,66,Terry Goodin,DEM,160,54,0,214
+Scott,Vienna 1,U.S. Senate,,Mike Braun,REP,48,4,0,52
+Scott,Vienna 1,U.S. Senate,,Luke Messer,REP,61,9,0,70
+Scott,Vienna 1,U.S. Senate,,Todd Rokita,REP,28,1,0,29
+Scott,Vienna 1,U.S. House,9,James Dean Alspach,REP,22,2,0,24
+Scott,Vienna 1,U.S. House,9,Trey Hollingsworth,REP,115,11,0,126
+Scott,Vienna 1,State Senate,45,Chris Garten,REP,116,13,0,129
+Scott,Vienna 1,State House,66,Mike Bowling,REP,104,5,0,109
+Scott,Vienna 1,State House,66,"Joe Van Wye, Sr.",REP,19,6,0,25
+Scott,Vienna 2,Ballots Cast,,,,180,80,0,260
+Scott,Vienna 2,Registered Voters,,,,,,,1087
+Scott,Vienna 2,U.S. Senate,,Joe Donnelly,DEM,80,50,0,130
+Scott,Vienna 2,U.S. House,9,Dan Canon,DEM,16,21,0,37
+Scott,Vienna 2,U.S. House,9,Rob Chatlos,DEM,0,0,0,0
+Scott,Vienna 2,U.S. House,9,Liz Watson,DEM,81,32,0,113
+Scott,Vienna 2,State Senate,45,John Perkins,DEM,78,47,0,125
+Scott,Vienna 2,State House,66,Terry Goodin,DEM,102,54,0,156
+Scott,Vienna 2,U.S. Senate,,Mike Braun,REP,21,5,0,26
+Scott,Vienna 2,U.S. Senate,,Luke Messer,REP,19,6,0,25
+Scott,Vienna 2,U.S. Senate,,Todd Rokita,REP,14,2,0,16
+Scott,Vienna 2,U.S. House,9,James Dean Alspach,REP,9,1,0,10
+Scott,Vienna 2,U.S. House,9,Trey Hollingsworth,REP,44,12,0,56
+Scott,Vienna 2,State Senate,45,Chris Garten,REP,46,12,0,58
+Scott,Vienna 2,State House,66,Mike Bowling,REP,39,8,0,47
+Scott,Vienna 2,State House,66,"Joe Van Wye, Sr.",REP,8,0,0,8
+Scott,Fineley 1,Ballots Cast,,,,303,46,0,349
+Scott,Fineley 1,Registered Voters,,,,,,,1120
+Scott,Fineley 1,U.S. Senate,,Joe Donnelly,DEM,136,17,0,153
+Scott,Fineley 1,U.S. House,9,Dan Canon,DEM,27,3,0,30
+Scott,Fineley 1,U.S. House,9,Rob Chatlos,DEM,8,1,0,9
+Scott,Fineley 1,U.S. House,9,Liz Watson,DEM,99,17,0,116
+Scott,Fineley 1,State Senate,45,John Perkins,DEM,126,16,0,142
+Scott,Fineley 1,State House,66,Terry Goodin,DEM,159,24,0,183
+Scott,Fineley 1,U.S. Senate,,Mike Braun,REP,42,3,0,45
+Scott,Fineley 1,U.S. Senate,,Luke Messer,REP,47,8,0,55
+Scott,Fineley 1,U.S. Senate,,Todd Rokita,REP,26,4,0,30
+Scott,Fineley 1,U.S. House,9,James Dean Alspach,REP,18,0,0,18
+Scott,Fineley 1,U.S. House,9,Trey Hollingsworth,REP,99,14,0,113
+Scott,Fineley 1,State Senate,45,Chris Garten,REP,102,14,0,116
+Scott,Fineley 1,State House,66,Mike Bowling,REP,93,11,0,104
+Scott,Fineley 1,State House,66,"Joe Van Wye, Sr.",REP,11,1,0,12
+Scott,Jennings 1,Ballots Cast,,,,156,72,0,228
+Scott,Jennings 1,Registered Voters,,,,,,,885
+Scott,Jennings 1,U.S. Senate,,Joe Donnelly,DEM,85,46,0,131
+Scott,Jennings 1,U.S. House,6,George T. Holland,DEM,13,8,0,21
+Scott,Jennings 1,U.S. House,6,Jeannine Lee Lake,DEM,12,12,0,24
+Scott,Jennings 1,U.S. House,6,K (Jasen) Lave,DEM,0,0,0,0
+Scott,Jennings 1,U.S. House,6,Jim Pruett,DEM,38,18,0,56
+Scott,Jennings 1,U.S. House,6,Lane Siekman,DEM,6,0,0,6
+Scott,Jennings 1,U.S. House,6,Joshua Williamson,DEM,12,7,0,19
+Scott,Jennings 1,State Senate,45,John Perkins,DEM,70,42,0,112
+Scott,Jennings 1,State House,66,Terry Goodin,DEM,107,64,0,171
+Scott,Jennings 1,U.S. Senate,,Mike Braun,REP,6,0,0,6
+Scott,Jennings 1,U.S. Senate,,Luke Messer,REP,17,1,0,18
+Scott,Jennings 1,U.S. Senate,,Todd Rokita,REP,3,1,0,4
+Scott,Jennings 1,U.S. House,6,Mike Campbell,REP,2,0,0,2
+Scott,Jennings 1,U.S. House,6,Jonathan M. Lamb,REP,3,0,0,3
+Scott,Jennings 1,U.S. House,6,Stephen M. Mackenzie,REP,0,0,0,0
+Scott,Jennings 1,U.S. House,6,Greg Pence,REP,23,2,0,25
+Scott,Jennings 1,U.S. House,6,Jeff Smith,REP,0,1,0,1
+Scott,Jennings 1,State Senate,45,Chris Garten,REP,26,2,0,28
+Scott,Jennings 1,State House,66,Mike Bowling,REP,22,2,0,24
+Scott,Jennings 1,State House,66,"Joe Van Wye, Sr.",REP,3,0,0,3
+Scott,Jennings 2,Ballots Cast,,,,155,97,0,252
+Scott,Jennings 2,Registered Voters,,,,,,,767
+Scott,Jennings 2,U.S. Senate,,Joe Donnelly,DEM,92,65,0,157
+Scott,Jennings 2,U.S. House,6,George T. Holland,DEM,16,11,0,27
+Scott,Jennings 2,U.S. House,6,Jeannine Lee Lake,DEM,20,19,0,39
+Scott,Jennings 2,U.S. House,6,K (Jasen) Lave,DEM,3,2,0,5
+Scott,Jennings 2,U.S. House,6,Jim Pruett,DEM,46,18,0,64
+Scott,Jennings 2,U.S. House,6,Lane Siekman,DEM,3,3,0,6
+Scott,Jennings 2,U.S. House,6,Joshua Williamson,DEM,5,7,0,12
+Scott,Jennings 2,State Senate,45,John Perkins,DEM,86,57,0,143
+Scott,Jennings 2,State House,66,Terry Goodin,DEM,117,83,0,200
+Scott,Jennings 2,U.S. Senate,,Mike Braun,REP,10,2,0,12
+Scott,Jennings 2,U.S. Senate,,Luke Messer,REP,16,1,0,17
+Scott,Jennings 2,U.S. Senate,,Todd Rokita,REP,3,0,0,3
+Scott,Jennings 2,U.S. House,6,Mike Campbell,REP,2,0,0,2
+Scott,Jennings 2,U.S. House,6,Jonathan M. Lamb,REP,3,0,0,3
+Scott,Jennings 2,U.S. House,6,Stephen M. Mackenzie,REP,1,0,0,1
+Scott,Jennings 2,U.S. House,6,Greg Pence,REP,22,3,0,25
+Scott,Jennings 2,U.S. House,6,Jeff Smith,REP,1,0,0,1
+Scott,Jennings 2,State Senate,45,Chris Garten,REP,22,3,0,25
+Scott,Jennings 2,State House,66,Mike Bowling,REP,19,3,0,22
+Scott,Jennings 2,State House,66,"Joe Van Wye, Sr.",REP,5,0,0,5
+Scott,Jennings 3,Ballots Cast,,,,185,99,0,284
+Scott,Jennings 3,Registered Voters,,,,,,,1025
+Scott,Jennings 3,U.S. Senate,,Joe Donnelly,DEM,100,62,0,162
+Scott,Jennings 3,U.S. House,6,George T. Holland,DEM,18,6,0,24
+Scott,Jennings 3,U.S. House,6,Jeannine Lee Lake,DEM,20,9,0,29
+Scott,Jennings 3,U.S. House,6,K (Jasen) Lave,DEM,3,5,0,8
+Scott,Jennings 3,U.S. House,6,Jim Pruett,DEM,53,34,0,87
+Scott,Jennings 3,U.S. House,6,Lane Siekman,DEM,4,0,0,4
+Scott,Jennings 3,U.S. House,6,Joshua Williamson,DEM,4,3,0,7
+Scott,Jennings 3,State Senate,45,John Perkins,DEM,83,55,0,138
+Scott,Jennings 3,State House,66,Terry Goodin,DEM,131,84,0,215
+Scott,Jennings 3,U.S. Senate,,Mike Braun,REP,9,1,0,10
+Scott,Jennings 3,U.S. Senate,,Luke Messer,REP,20,3,0,23
+Scott,Jennings 3,U.S. Senate,,Todd Rokita,REP,6,0,0,6
+Scott,Jennings 3,U.S. House,6,Mike Campbell,REP,6,1,0,7
+Scott,Jennings 3,U.S. House,6,Jonathan M. Lamb,REP,4,1,0,5
+Scott,Jennings 3,U.S. House,6,Stephen M. Mackenzie,REP,1,0,0,1
+Scott,Jennings 3,U.S. House,6,Greg Pence,REP,25,2,0,27
+Scott,Jennings 3,U.S. House,6,Jeff Smith,REP,0,0,0,0
+Scott,Jennings 3,State Senate,45,Chris Garten,REP,32,3,0,35
+Scott,Jennings 3,State House,66,Mike Bowling,REP,25,3,0,28
+Scott,Jennings 3,State House,66,"Joe Van Wye, Sr.",REP,8,0,0,8
+Scott,Jennings 4,Ballots Cast,,,,264,96,0,360
+Scott,Jennings 4,Registered Voters,,,,,,,1031
+Scott,Jennings 4,U.S. Senate,,Joe Donnelly,DEM,132,68,0,200
+Scott,Jennings 4,U.S. House,6,George T. Holland,DEM,26,8,0,34
+Scott,Jennings 4,U.S. House,6,Jeannine Lee Lake,DEM,22,7,0,29
+Scott,Jennings 4,U.S. House,6,K (Jasen) Lave,DEM,4,0,0,4
+Scott,Jennings 4,U.S. House,6,Jim Pruett,DEM,79,24,0,103
+Scott,Jennings 4,U.S. House,6,Lane Siekman,DEM,8,5,0,13
+Scott,Jennings 4,U.S. House,6,Joshua Williamson,DEM,14,8,0,22
+Scott,Jennings 4,State Senate,45,John Perkins,DEM,132,55,0,187
+Scott,Jennings 4,State House,66,Terry Goodin,DEM,183,75,0,258
+Scott,Jennings 4,U.S. Senate,,Mike Braun,REP,16,1,0,17
+Scott,Jennings 4,U.S. Senate,,Luke Messer,REP,34,3,0,37
+Scott,Jennings 4,U.S. Senate,,Todd Rokita,REP,12,2,0,14
+Scott,Jennings 4,U.S. House,6,Mike Campbell,REP,2,0,0,2
+Scott,Jennings 4,U.S. House,6,Jonathan M. Lamb,REP,0,1,0,1
+Scott,Jennings 4,U.S. House,6,Stephen M. Mackenzie,REP,5,0,0,5
+Scott,Jennings 4,U.S. House,6,Greg Pence,REP,55,5,0,60
+Scott,Jennings 4,U.S. House,6,Jeff Smith,REP,1,0,0,1
+Scott,Jennings 4,State Senate,45,Chris Garten,REP,52,5,0,57
+Scott,Jennings 4,State House,66,Mike Bowling,REP,53,5,0,58
+Scott,Jennings 4,State House,66,"Joe Van Wye, Sr.",REP,6,0,0,6
+Scott,Jennings 5,Ballots Cast,,,,176,75,0,251
+Scott,Jennings 5,Registered Voters,,,,,,,689
+Scott,Jennings 5,U.S. Senate,,Joe Donnelly,DEM,97,44,0,141
+Scott,Jennings 5,U.S. House,6,George T. Holland,DEM,20,7,0,27
+Scott,Jennings 5,U.S. House,6,Jeannine Lee Lake,DEM,15,6,0,21
+Scott,Jennings 5,U.S. House,6,K (Jasen) Lave,DEM,3,2,0,5
+Scott,Jennings 5,U.S. House,6,Jim Pruett,DEM,49,26,0,75
+Scott,Jennings 5,U.S. House,6,Lane Siekman,DEM,7,2,0,9
+Scott,Jennings 5,U.S. House,6,Joshua Williamson,DEM,5,1,0,6
+Scott,Jennings 5,State Senate,45,John Perkins,DEM,81,42,0,123
+Scott,Jennings 5,State House,66,Terry Goodin,DEM,128,67,0,195
+Scott,Jennings 5,U.S. Senate,,Mike Braun,REP,8,1,0,9
+Scott,Jennings 5,U.S. Senate,,Luke Messer,REP,23,1,0,24
+Scott,Jennings 5,U.S. Senate,,Todd Rokita,REP,2,0,0,2
+Scott,Jennings 5,U.S. House,6,Mike Campbell,REP,3,0,0,3
+Scott,Jennings 5,U.S. House,6,Jonathan M. Lamb,REP,2,0,0,2
+Scott,Jennings 5,U.S. House,6,Stephen M. Mackenzie,REP,5,0,0,5
+Scott,Jennings 5,U.S. House,6,Greg Pence,REP,20,2,0,22
+Scott,Jennings 5,U.S. House,6,Jeff Smith,REP,2,0,0,2
+Scott,Jennings 5,State Senate,45,Chris Garten,REP,31,2,0,33
+Scott,Jennings 5,State House,66,Mike Bowling,REP,27,1,0,28
+Scott,Jennings 5,State House,66,"Joe Van Wye, Sr.",REP,4,1,0,5
+Scott,Vienna 3,Ballots Cast,,,,145,61,0,206
+Scott,Vienna 3,Registered Voters,,,,,,,935
+Scott,Vienna 3,U.S. Senate,,Joe Donnelly,DEM,73,38,0,111
+Scott,Vienna 3,U.S. House,9,Dan Canon,DEM,25,10,0,35
+Scott,Vienna 3,U.S. House,9,Rob Chatlos,DEM,3,2,0,5
+Scott,Vienna 3,U.S. House,9,Liz Watson,DEM,52,31,0,83
+Scott,Vienna 3,State Senate,45,John Perkins,DEM,61,33,0,94
+Scott,Vienna 3,State House,66,Terry Goodin,DEM,79,45,0,124
+Scott,Vienna 3,U.S. Senate,,Mike Braun,REP,15,0,0,15
+Scott,Vienna 3,U.S. Senate,,Luke Messer,REP,21,6,0,27
+Scott,Vienna 3,U.S. Senate,,Todd Rokita,REP,13,3,0,16
+Scott,Vienna 3,U.S. House,9,James Dean Alspach,REP,7,0,0,7
+Scott,Vienna 3,U.S. House,9,Trey Hollingsworth,REP,41,9,0,50
+Scott,Vienna 3,State Senate,45,Chris Garten,REP,42,8,0,50
+Scott,Vienna 3,State House,66,Mike Bowling,REP,39,8,0,47
+Scott,Vienna 3,State House,66,"Joe Van Wye, Sr.",REP,6,1,0,7
+Scott,Vienna 4,Ballots Cast,,,,209,123,0,332
+Scott,Vienna 4,Registered Voters,,,,,,,1244
+Scott,Vienna 4,U.S. Senate,,Joe Donnelly,DEM,96,81,0,177
+Scott,Vienna 4,U.S. House,9,Dan Canon,DEM,21,23,0,44
+Scott,Vienna 4,U.S. House,9,Rob Chatlos,DEM,3,4,0,7
+Scott,Vienna 4,U.S. House,9,Liz Watson,DEM,88,59,0,147
+Scott,Vienna 4,State Senate,45,John Perkins,DEM,90,75,0,165
+Scott,Vienna 4,State House,66,Terry Goodin,DEM,117,92,0,209
+Scott,Vienna 4,U.S. Senate,,Mike Braun,REP,33,2,0,35
+Scott,Vienna 4,U.S. Senate,,Luke Messer,REP,26,6,0,32
+Scott,Vienna 4,U.S. Senate,,Todd Rokita,REP,14,9,0,23
+Scott,Vienna 4,U.S. House,9,James Dean Alspach,REP,12,1,0,13
+Scott,Vienna 4,U.S. House,9,Trey Hollingsworth,REP,62,16,0,78
+Scott,Vienna 4,State Senate,45,Chris Garten,REP,67,16,0,83
+Scott,Vienna 4,State House,66,Mike Bowling,REP,60,11,0,71
+Scott,Vienna 4,State House,66,"Joe Van Wye, Sr.",REP,8,3,0,11
+Scott,Vienna 5,Ballots Cast,,,,269,117,0,386
+Scott,Vienna 5,Registered Voters,,,,,,,1271
+Scott,Vienna 5,U.S. Senate,,Joe Donnelly,DEM,119,66,0,185
+Scott,Vienna 5,U.S. House,9,Dan Canon,DEM,33,11,0,44
+Scott,Vienna 5,U.S. House,9,Rob Chatlos,DEM,4,1,0,5
+Scott,Vienna 5,U.S. House,9,Liz Watson,DEM,92,58,0,150
+Scott,Vienna 5,State Senate,45,John Perkins,DEM,112,55,0,167
+Scott,Vienna 5,State House,66,Terry Goodin,DEM,143,72,0,215
+Scott,Vienna 5,U.S. Senate,,Mike Braun,REP,39,7,0,46
+Scott,Vienna 5,U.S. Senate,,Luke Messer,REP,45,12,0,57
+Scott,Vienna 5,U.S. Senate,,Todd Rokita,REP,17,12,0,29
+Scott,Vienna 5,U.S. House,9,James Dean Alspach,REP,7,2,0,9
+Scott,Vienna 5,U.S. House,9,Trey Hollingsworth,REP,100,29,0,129
+Scott,Vienna 5,State Senate,45,Chris Garten,REP,99,31,0,130
+Scott,Vienna 5,State House,66,Mike Bowling,REP,87,24,0,111
+Scott,Vienna 5,State House,66,"Joe Van Wye, Sr.",REP,10,3,0,13
+Scott,Vienna 6,Ballots Cast,,,,219,79,0,298
+Scott,Vienna 6,Registered Voters,,,,,,,1034
+Scott,Vienna 6,U.S. Senate,,Joe Donnelly,DEM,97,39,0,136
+Scott,Vienna 6,U.S. House,9,Dan Canon,DEM,19,6,0,25
+Scott,Vienna 6,U.S. House,9,Rob Chatlos,DEM,4,1,0,5
+Scott,Vienna 6,U.S. House,9,Liz Watson,DEM,65,39,0,104
+Scott,Vienna 6,State Senate,45,John Perkins,DEM,85,31,0,116
+Scott,Vienna 6,State House,66,Terry Goodin,DEM,109,44,0,153
+Scott,Vienna 6,U.S. Senate,,Mike Braun,REP,30,5,0,35
+Scott,Vienna 6,U.S. Senate,,Luke Messer,REP,35,9,0,44
+Scott,Vienna 6,U.S. Senate,,Todd Rokita,REP,18,8,0,26
+Scott,Vienna 6,U.S. House,9,James Dean Alspach,REP,13,2,0,15
+Scott,Vienna 6,U.S. House,9,Trey Hollingsworth,REP,70,20,0,90
+Scott,Vienna 6,State Senate,45,Chris Garten,REP,68,22,0,90
+Scott,Vienna 6,State House,66,Mike Bowling,REP,61,14,0,75
+Scott,Vienna 6,State House,66,"Joe Van Wye, Sr.",REP,12,7,0,19

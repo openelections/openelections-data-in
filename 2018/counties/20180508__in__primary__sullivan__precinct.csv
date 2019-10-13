@@ -1,0 +1,281 @@
+county,precinct,office,district,candidate,party,election_day,absentee,provisional,votes
+Sullivan,Cass 1,Ballots Cast,,,,127,24,0,151
+Sullivan,Cass 1,Registered Voters,,,,,,,538
+Sullivan,Cass 1,U.S. Senate,,Mike Braun,REP,29,2,0,31
+Sullivan,Cass 1,U.S. Senate,,Luke Messer,REP,12,0,0,12
+Sullivan,Cass 1,U.S. Senate,,Todd Rokita,REP,6,2,0,8
+Sullivan,Cass 1,U.S. Senate,,Joe Donnelly,DEM,56,11,0,67
+Sullivan,Cass 1,U.S. House,8,Larry D. Bucshon,REP,29,3,0,32
+Sullivan,Cass 1,U.S. House,8,Rachel Covington,REP,10,1,0,11
+Sullivan,Cass 1,U.S. House,8,Richard Moss,REP,9,0,0,9
+Sullivan,Cass 1,U.S. House,8,William Tanoos,DEM,41,11,0,52
+Sullivan,Cass 1,State Senate,39,Eric S. Bassler,REP,39,3,0,42
+Sullivan,Cass 1,State Senate,39,No Candidate Filed,DEM,0,0,0,0
+Sullivan,Cass 1,State House,45,Bruce Borders,REP,44,3,0,47
+Sullivan,Cass 1,State House,45,Jim Exline,DEM,45,14,0,59
+Sullivan,Cass 2,Ballots Cast,,,,174,26,0,200
+Sullivan,Cass 2,Registered Voters,,,,,,,837
+Sullivan,Cass 2,U.S. Senate,,Mike Braun,REP,39,2,0,41
+Sullivan,Cass 2,U.S. Senate,,Luke Messer,REP,10,0,0,10
+Sullivan,Cass 2,U.S. Senate,,Todd Rokita,REP,8,1,0,9
+Sullivan,Cass 2,U.S. Senate,,Joe Donnelly,DEM,82,18,0,100
+Sullivan,Cass 2,U.S. House,8,Larry D. Bucshon,REP,37,1,0,38
+Sullivan,Cass 2,U.S. House,8,Rachel Covington,REP,9,0,0,9
+Sullivan,Cass 2,U.S. House,8,Richard Moss,REP,12,2,0,14
+Sullivan,Cass 2,U.S. House,8,William Tanoos,DEM,62,13,0,75
+Sullivan,Cass 2,State Senate,39,Eric S. Bassler,REP,49,2,0,51
+Sullivan,Cass 2,State Senate,39,No Candidate Filed,DEM,0,0,0,0
+Sullivan,Cass 2,State House,45,Bruce Borders,REP,56,1,0,57
+Sullivan,Cass 2,State House,45,Jim Exline,DEM,66,12,0,78
+Sullivan,Curry 1,Ballots Cast,,,,156,13,0,169
+Sullivan,Curry 1,Registered Voters,,,,,,,723
+Sullivan,Curry 1,U.S. Senate,,Mike Braun,REP,35,6,0,41
+Sullivan,Curry 1,U.S. Senate,,Luke Messer,REP,22,1,0,23
+Sullivan,Curry 1,U.S. Senate,,Todd Rokita,REP,19,0,0,19
+Sullivan,Curry 1,U.S. Senate,,Joe Donnelly,DEM,68,5,0,73
+Sullivan,Curry 1,U.S. House,8,Larry D. Bucshon,REP,48,6,0,54
+Sullivan,Curry 1,U.S. House,8,Rachel Covington,REP,19,2,0,21
+Sullivan,Curry 1,U.S. House,8,Richard Moss,REP,12,0,0,12
+Sullivan,Curry 1,U.S. House,8,William Tanoos,DEM,59,3,0,62
+Sullivan,Curry 1,State Senate,39,Eric S. Bassler,REP,66,8,0,74
+Sullivan,Curry 1,State Senate,39,No Candidate Filed,DEM,0,0,0,0
+Sullivan,Curry 1,State House,45,Bruce Borders,REP,74,8,0,82
+Sullivan,Curry 1,State House,45,Jim Exline,DEM,60,3,0,63
+Sullivan,Curry 2,Ballots Cast,,,,137,21,0,158
+Sullivan,Curry 2,Registered Voters,,,,,,,799
+Sullivan,Curry 2,U.S. Senate,,Mike Braun,REP,33,2,0,35
+Sullivan,Curry 2,U.S. Senate,,Luke Messer,REP,11,2,0,13
+Sullivan,Curry 2,U.S. Senate,,Todd Rokita,REP,16,6,0,22
+Sullivan,Curry 2,U.S. Senate,,Joe Donnelly,DEM,59,9,0,68
+Sullivan,Curry 2,U.S. House,8,Larry D. Bucshon,REP,33,9,0,42
+Sullivan,Curry 2,U.S. House,8,Rachel Covington,REP,10,1,0,11
+Sullivan,Curry 2,U.S. House,8,Richard Moss,REP,15,0,0,15
+Sullivan,Curry 2,U.S. House,8,William Tanoos,DEM,46,6,0,52
+Sullivan,Curry 2,State Senate,39,Eric S. Bassler,REP,48,10,0,58
+Sullivan,Curry 2,State Senate,39,No Candidate Filed,DEM,0,0,0,0
+Sullivan,Curry 2,State House,45,Bruce Borders,REP,63,8,0,71
+Sullivan,Curry 2,State House,45,Jim Exline,DEM,46,8,0,54
+Sullivan,Curry 3,Ballots Cast,,,,153,34,0,187
+Sullivan,Curry 3,Registered Voters,,,,,,,879
+Sullivan,Curry 3,U.S. Senate,,Mike Braun,REP,50,11,0,61
+Sullivan,Curry 3,U.S. Senate,,Luke Messer,REP,12,8,0,20
+Sullivan,Curry 3,U.S. Senate,,Todd Rokita,REP,20,1,0,21
+Sullivan,Curry 3,U.S. Senate,,Joe Donnelly,DEM,51,12,0,63
+Sullivan,Curry 3,U.S. House,8,Larry D. Bucshon,REP,52,19,0,71
+Sullivan,Curry 3,U.S. House,8,Rachel Covington,REP,10,2,0,12
+Sullivan,Curry 3,U.S. House,8,Richard Moss,REP,19,0,0,19
+Sullivan,Curry 3,U.S. House,8,William Tanoos,DEM,42,12,0,54
+Sullivan,Curry 3,State Senate,39,Eric S. Bassler,REP,67,18,0,85
+Sullivan,Curry 3,State Senate,39,No Candidate Filed,DEM,0,0,0,0
+Sullivan,Curry 3,State House,45,Bruce Borders,REP,79,20,0,99
+Sullivan,Curry 3,State House,45,Jim Exline,DEM,47,10,0,57
+Sullivan,Fairbanks,Ballots Cast,,,,156,14,0,170
+Sullivan,Fairbanks,Registered Voters,,,,,,,528
+Sullivan,Fairbanks,U.S. Senate,,Mike Braun,REP,48,4,0,52
+Sullivan,Fairbanks,U.S. Senate,,Luke Messer,REP,16,2,0,18
+Sullivan,Fairbanks,U.S. Senate,,Todd Rokita,REP,23,2,0,25
+Sullivan,Fairbanks,U.S. Senate,,Joe Donnelly,DEM,52,4,0,56
+Sullivan,Fairbanks,U.S. House,8,Larry D. Bucshon,REP,68,8,0,76
+Sullivan,Fairbanks,U.S. House,8,Rachel Covington,REP,5,1,0,6
+Sullivan,Fairbanks,U.S. House,8,Richard Moss,REP,16,0,0,16
+Sullivan,Fairbanks,U.S. House,8,William Tanoos,DEM,42,4,0,46
+Sullivan,Fairbanks,State Senate,39,Eric S. Bassler,REP,82,7,0,89
+Sullivan,Fairbanks,State Senate,39,No Candidate Filed,DEM,0,0,0,0
+Sullivan,Fairbanks,State House,45,Bruce Borders,REP,87,10,0,97
+Sullivan,Fairbanks,State House,45,Jim Exline,DEM,44,4,0,48
+Sullivan,Gill 1,Ballots Cast,,,,88,20,0,108
+Sullivan,Gill 1,Registered Voters,,,,,,,347
+Sullivan,Gill 1,U.S. Senate,,Mike Braun,REP,11,5,0,16
+Sullivan,Gill 1,U.S. Senate,,Luke Messer,REP,2,2,0,4
+Sullivan,Gill 1,U.S. Senate,,Todd Rokita,REP,8,2,0,10
+Sullivan,Gill 1,U.S. Senate,,Joe Donnelly,DEM,45,7,0,52
+Sullivan,Gill 1,U.S. House,8,Larry D. Bucshon,REP,17,8,0,25
+Sullivan,Gill 1,U.S. House,8,Rachel Covington,REP,1,1,0,2
+Sullivan,Gill 1,U.S. House,8,Richard Moss,REP,4,0,0,4
+Sullivan,Gill 1,U.S. House,8,William Tanoos,DEM,32,5,0,37
+Sullivan,Gill 1,State Senate,39,Eric S. Bassler,REP,20,5,0,25
+Sullivan,Gill 1,State Senate,39,No Candidate Filed,DEM,0,0,0,0
+Sullivan,Gill 1,State House,45,Bruce Borders,REP,21,9,0,30
+Sullivan,Gill 1,State House,45,Jim Exline,DEM,42,8,0,50
+Sullivan,Gill 2,Ballots Cast,,,,81,9,0,90
+Sullivan,Gill 2,Registered Voters,,,,,,,287
+Sullivan,Gill 2,U.S. Senate,,Mike Braun,REP,14,3,0,17
+Sullivan,Gill 2,U.S. Senate,,Luke Messer,REP,7,1,0,8
+Sullivan,Gill 2,U.S. Senate,,Todd Rokita,REP,11,2,0,13
+Sullivan,Gill 2,U.S. Senate,,Joe Donnelly,DEM,40,2,0,42
+Sullivan,Gill 2,U.S. House,8,Larry D. Bucshon,REP,19,6,0,25
+Sullivan,Gill 2,U.S. House,8,Rachel Covington,REP,7,0,0,7
+Sullivan,Gill 2,U.S. House,8,Richard Moss,REP,5,0,0,5
+Sullivan,Gill 2,U.S. House,8,William Tanoos,DEM,36,1,0,37
+Sullivan,Gill 2,State Senate,39,Eric S. Bassler,REP,28,3,0,31
+Sullivan,Gill 2,State Senate,39,No Candidate Filed,DEM,0,0,0,0
+Sullivan,Gill 2,State House,45,Bruce Borders,REP,29,5,0,34
+Sullivan,Gill 2,State House,45,Jim Exline,DEM,37,1,0,38
+Sullivan,Haddon 1,Ballots Cast,,,,86,9,0,95
+Sullivan,Haddon 1,Registered Voters,,,,,,,361
+Sullivan,Haddon 1,U.S. Senate,,Mike Braun,REP,11,4,0,15
+Sullivan,Haddon 1,U.S. Senate,,Luke Messer,REP,6,1,0,7
+Sullivan,Haddon 1,U.S. Senate,,Todd Rokita,REP,9,1,0,10
+Sullivan,Haddon 1,U.S. Senate,,Joe Donnelly,DEM,41,3,0,44
+Sullivan,Haddon 1,U.S. House,8,Larry D. Bucshon,REP,18,1,0,19
+Sullivan,Haddon 1,U.S. House,8,Rachel Covington,REP,4,3,0,7
+Sullivan,Haddon 1,U.S. House,8,Richard Moss,REP,7,2,0,9
+Sullivan,Haddon 1,U.S. House,8,William Tanoos,DEM,29,2,0,31
+Sullivan,Haddon 1,State Senate,39,Eric S. Bassler,REP,25,6,0,31
+Sullivan,Haddon 1,State Senate,39,No Candidate Filed,DEM,0,0,0,0
+Sullivan,Haddon 1,State House,45,Bruce Borders,REP,26,6,0,32
+Sullivan,Haddon 1,State House,45,Jim Exline,DEM,35,2,0,37
+Sullivan,Haddon 2,Ballots Cast,,,,221,20,0,241
+Sullivan,Haddon 2,Registered Voters,,,,,,,868
+Sullivan,Haddon 2,U.S. Senate,,Mike Braun,REP,56,2,0,58
+Sullivan,Haddon 2,U.S. Senate,,Luke Messer,REP,22,4,0,26
+Sullivan,Haddon 2,U.S. Senate,,Todd Rokita,REP,30,1,0,31
+Sullivan,Haddon 2,U.S. Senate,,Joe Donnelly,DEM,86,11,0,97
+Sullivan,Haddon 2,U.S. House,8,Larry D. Bucshon,REP,78,4,0,82
+Sullivan,Haddon 2,U.S. House,8,Rachel Covington,REP,13,3,0,16
+Sullivan,Haddon 2,U.S. House,8,Richard Moss,REP,18,0,0,18
+Sullivan,Haddon 2,U.S. House,8,William Tanoos,DEM,66,9,0,75
+Sullivan,Haddon 2,State Senate,39,Eric S. Bassler,REP,93,5,0,98
+Sullivan,Haddon 2,State Senate,39,No Candidate Filed,DEM,0,0,0,0
+Sullivan,Haddon 2,State House,45,Bruce Borders,REP,99,5,0,104
+Sullivan,Haddon 2,State House,45,Jim Exline,DEM,68,10,0,78
+Sullivan,Hamilton 1,Ballots Cast,,,,111,42,0,153
+Sullivan,Hamilton 1,Registered Voters,,,,,,,748
+Sullivan,Hamilton 1,U.S. Senate,,Mike Braun,REP,23,6,0,29
+Sullivan,Hamilton 1,U.S. Senate,,Luke Messer,REP,6,5,0,11
+Sullivan,Hamilton 1,U.S. Senate,,Todd Rokita,REP,6,4,0,10
+Sullivan,Hamilton 1,U.S. Senate,,Joe Donnelly,DEM,60,18,0,78
+Sullivan,Hamilton 1,U.S. House,8,Larry D. Bucshon,REP,21,9,0,30
+Sullivan,Hamilton 1,U.S. House,8,Rachel Covington,REP,4,5,0,9
+Sullivan,Hamilton 1,U.S. House,8,Richard Moss,REP,11,1,0,12
+Sullivan,Hamilton 1,U.S. House,8,William Tanoos,DEM,46,19,0,65
+Sullivan,Hamilton 1,State Senate,39,Eric S. Bassler,REP,34,13,0,47
+Sullivan,Hamilton 1,State Senate,39,No Candidate Filed,DEM,0,0,0,0
+Sullivan,Hamilton 1,State House,45,Bruce Borders,REP,35,18,0,53
+Sullivan,Hamilton 1,State House,45,Jim Exline,DEM,52,21,0,73
+Sullivan,Hamilton 2,Ballots Cast,,,,236,75,0,311
+Sullivan,Hamilton 2,Registered Voters,,,,,,,1001
+Sullivan,Hamilton 2,U.S. Senate,,Mike Braun,REP,40,14,0,54
+Sullivan,Hamilton 2,U.S. Senate,,Luke Messer,REP,11,6,0,17
+Sullivan,Hamilton 2,U.S. Senate,,Todd Rokita,REP,18,1,0,19
+Sullivan,Hamilton 2,U.S. Senate,,Joe Donnelly,DEM,122,49,0,171
+Sullivan,Hamilton 2,U.S. House,8,Larry D. Bucshon,REP,44,12,0,56
+Sullivan,Hamilton 2,U.S. House,8,Rachel Covington,REP,12,6,0,18
+Sullivan,Hamilton 2,U.S. House,8,Richard Moss,REP,16,2,0,18
+Sullivan,Hamilton 2,U.S. House,8,William Tanoos,DEM,102,39,0,141
+Sullivan,Hamilton 2,State Senate,39,Eric S. Bassler,REP,59,16,0,75
+Sullivan,Hamilton 2,State Senate,39,No Candidate Filed,DEM,0,0,0,0
+Sullivan,Hamilton 2,State House,45,Bruce Borders,REP,63,15,0,78
+Sullivan,Hamilton 2,State House,45,Jim Exline,DEM,112,44,0,156
+Sullivan,Hamilton 3,Ballots Cast,,,,153,58,0,211
+Sullivan,Hamilton 3,Registered Voters,,,,,,,795
+Sullivan,Hamilton 3,U.S. Senate,,Mike Braun,REP,30,9,0,39
+Sullivan,Hamilton 3,U.S. Senate,,Luke Messer,REP,14,2,0,16
+Sullivan,Hamilton 3,U.S. Senate,,Todd Rokita,REP,10,4,0,14
+Sullivan,Hamilton 3,U.S. Senate,,Joe Donnelly,DEM,79,35,0,114
+Sullivan,Hamilton 3,U.S. House,8,Larry D. Bucshon,REP,38,12,0,50
+Sullivan,Hamilton 3,U.S. House,8,Rachel Covington,REP,9,0,0,9
+Sullivan,Hamilton 3,U.S. House,8,Richard Moss,REP,8,3,0,11
+Sullivan,Hamilton 3,U.S. House,8,William Tanoos,DEM,59,28,0,87
+Sullivan,Hamilton 3,State Senate,39,Eric S. Bassler,REP,47,11,0,58
+Sullivan,Hamilton 3,State Senate,39,No Candidate Filed,DEM,0,0,0,0
+Sullivan,Hamilton 3,State House,45,Bruce Borders,REP,51,14,0,65
+Sullivan,Hamilton 3,State House,45,Jim Exline,DEM,73,30,0,103
+Sullivan,Hamilton 4,Ballots Cast,,,,96,24,0,120
+Sullivan,Hamilton 4,Registered Voters,,,,,,,536
+Sullivan,Hamilton 4,U.S. Senate,,Mike Braun,REP,14,1,0,15
+Sullivan,Hamilton 4,U.S. Senate,,Luke Messer,REP,7,1,0,8
+Sullivan,Hamilton 4,U.S. Senate,,Todd Rokita,REP,12,4,0,16
+Sullivan,Hamilton 4,U.S. Senate,,Joe Donnelly,DEM,57,15,0,72
+Sullivan,Hamilton 4,U.S. House,8,Larry D. Bucshon,REP,17,6,0,23
+Sullivan,Hamilton 4,U.S. House,8,Rachel Covington,REP,8,0,0,8
+Sullivan,Hamilton 4,U.S. House,8,Richard Moss,REP,8,0,0,8
+Sullivan,Hamilton 4,U.S. House,8,William Tanoos,DEM,45,14,0,59
+Sullivan,Hamilton 4,State Senate,39,Eric S. Bassler,REP,27,5,0,32
+Sullivan,Hamilton 4,State Senate,39,No Candidate Filed,DEM,0,0,0,0
+Sullivan,Hamilton 4,State House,45,Bruce Borders,REP,30,6,0,36
+Sullivan,Hamilton 4,State House,45,Jim Exline,DEM,46,16,0,62
+Sullivan,Hamilton 5,Ballots Cast,,,,203,85,0,288
+Sullivan,Hamilton 5,Registered Voters,,,,,,,971
+Sullivan,Hamilton 5,U.S. Senate,,Mike Braun,REP,45,15,0,60
+Sullivan,Hamilton 5,U.S. Senate,,Luke Messer,REP,16,8,0,24
+Sullivan,Hamilton 5,U.S. Senate,,Todd Rokita,REP,27,8,0,35
+Sullivan,Hamilton 5,U.S. Senate,,Joe Donnelly,DEM,84,38,0,122
+Sullivan,Hamilton 5,U.S. House,8,Larry D. Bucshon,REP,56,20,0,76
+Sullivan,Hamilton 5,U.S. House,8,Rachel Covington,REP,13,1,0,14
+Sullivan,Hamilton 5,U.S. House,8,Richard Moss,REP,19,9,0,28
+Sullivan,Hamilton 5,U.S. House,8,William Tanoos,DEM,66,34,0,100
+Sullivan,Hamilton 5,State Senate,39,Eric S. Bassler,REP,72,25,0,97
+Sullivan,Hamilton 5,State Senate,39,No Candidate Filed,DEM,0,0,0,0
+Sullivan,Hamilton 5,State House,45,Bruce Borders,REP,77,30,0,107
+Sullivan,Hamilton 5,State House,45,Jim Exline,DEM,74,38,0,112
+Sullivan,Hamilton 6,Ballots Cast,,,,253,106,0,359
+Sullivan,Hamilton 6,Registered Voters,,,,,,,1116
+Sullivan,Hamilton 6,U.S. Senate,,Mike Braun,REP,39,19,0,58
+Sullivan,Hamilton 6,U.S. Senate,,Luke Messer,REP,19,5,0,24
+Sullivan,Hamilton 6,U.S. Senate,,Todd Rokita,REP,37,9,0,46
+Sullivan,Hamilton 6,U.S. Senate,,Joe Donnelly,DEM,113,61,0,174
+Sullivan,Hamilton 6,U.S. House,8,Larry D. Bucshon,REP,69,26,0,95
+Sullivan,Hamilton 6,U.S. House,8,Rachel Covington,REP,8,4,0,12
+Sullivan,Hamilton 6,U.S. House,8,Richard Moss,REP,18,3,0,21
+Sullivan,Hamilton 6,U.S. House,8,William Tanoos,DEM,74,50,0,124
+Sullivan,Hamilton 6,State Senate,39,Eric S. Bassler,REP,78,26,0,104
+Sullivan,Hamilton 6,State Senate,39,No Candidate Filed,DEM,0,0,0,0
+Sullivan,Hamilton 6,State House,45,Bruce Borders,REP,84,30,0,114
+Sullivan,Hamilton 6,State House,45,Jim Exline,DEM,97,51,0,148
+Sullivan,Jackson 1,Ballots Cast,,,,203,17,0,220
+Sullivan,Jackson 1,Registered Voters,,,,,,,799
+Sullivan,Jackson 1,U.S. Senate,,Mike Braun,REP,38,5,0,43
+Sullivan,Jackson 1,U.S. Senate,,Luke Messer,REP,19,0,0,19
+Sullivan,Jackson 1,U.S. Senate,,Todd Rokita,REP,30,5,0,35
+Sullivan,Jackson 1,U.S. Senate,,Joe Donnelly,DEM,75,4,0,79
+Sullivan,Jackson 1,U.S. House,8,Larry D. Bucshon,REP,52,9,0,61
+Sullivan,Jackson 1,U.S. House,8,Rachel Covington,REP,10,0,0,10
+Sullivan,Jackson 1,U.S. House,8,Richard Moss,REP,26,1,0,27
+Sullivan,Jackson 1,U.S. House,8,William Tanoos,DEM,55,3,0,58
+Sullivan,Jackson 1,State Senate,39,Eric S. Bassler,REP,72,6,0,78
+Sullivan,Jackson 1,State Senate,39,No Candidate Filed,DEM,0,0,0,0
+Sullivan,Jackson 1,State House,45,Bruce Borders,REP,74,9,0,83
+Sullivan,Jackson 1,State House,45,Jim Exline,DEM,65,5,0,70
+Sullivan,Jackson 2,Ballots Cast,,,,155,17,0,172
+Sullivan,Jackson 2,Registered Voters,,,,,,,507
+Sullivan,Jackson 2,U.S. Senate,,Mike Braun,REP,28,4,0,32
+Sullivan,Jackson 2,U.S. Senate,,Luke Messer,REP,11,0,0,11
+Sullivan,Jackson 2,U.S. Senate,,Todd Rokita,REP,12,4,0,16
+Sullivan,Jackson 2,U.S. Senate,,Joe Donnelly,DEM,67,6,0,73
+Sullivan,Jackson 2,U.S. House,8,Larry D. Bucshon,REP,29,7,0,36
+Sullivan,Jackson 2,U.S. House,8,Rachel Covington,REP,6,0,0,6
+Sullivan,Jackson 2,U.S. House,8,Richard Moss,REP,16,1,0,17
+Sullivan,Jackson 2,U.S. House,8,William Tanoos,DEM,59,5,0,64
+Sullivan,Jackson 2,State Senate,39,Eric S. Bassler,REP,43,5,0,48
+Sullivan,Jackson 2,State Senate,39,No Candidate Filed,DEM,0,0,0,0
+Sullivan,Jackson 2,State House,45,Bruce Borders,REP,45,6,0,51
+Sullivan,Jackson 2,State House,45,Jim Exline,DEM,66,5,0,71
+Sullivan,Jefferson,Ballots Cast,,,,66,7,0,73
+Sullivan,Jefferson,Registered Voters,,,,,,,267
+Sullivan,Jefferson,U.S. Senate,,Mike Braun,REP,14,3,0,17
+Sullivan,Jefferson,U.S. Senate,,Luke Messer,REP,7,0,0,7
+Sullivan,Jefferson,U.S. Senate,,Todd Rokita,REP,8,0,0,8
+Sullivan,Jefferson,U.S. Senate,,Joe Donnelly,DEM,25,4,0,29
+Sullivan,Jefferson,U.S. House,8,Larry D. Bucshon,REP,15,3,0,18
+Sullivan,Jefferson,U.S. House,8,Rachel Covington,REP,3,0,0,3
+Sullivan,Jefferson,U.S. House,8,Richard Moss,REP,10,0,0,10
+Sullivan,Jefferson,U.S. House,8,William Tanoos,DEM,20,4,0,24
+Sullivan,Jefferson,State Senate,39,Eric S. Bassler,REP,19,2,0,21
+Sullivan,Jefferson,State Senate,39,No Candidate Filed,DEM,0,0,0,0
+Sullivan,Jefferson,State House,45,Bruce Borders,REP,24,3,0,27
+Sullivan,Jefferson,State House,45,Jim Exline,DEM,19,2,0,21
+Sullivan,Turman,Ballots Cast,,,,236,72,0,308
+Sullivan,Turman,Registered Voters,,,,,,,852
+Sullivan,Turman,U.S. Senate,,Mike Braun,REP,73,16,0,89
+Sullivan,Turman,U.S. Senate,,Luke Messer,REP,29,5,0,34
+Sullivan,Turman,U.S. Senate,,Todd Rokita,REP,26,9,0,35
+Sullivan,Turman,U.S. Senate,,Joe Donnelly,DEM,67,26,0,93
+Sullivan,Turman,U.S. House,8,Larry D. Bucshon,REP,104,24,0,128
+Sullivan,Turman,U.S. House,8,Rachel Covington,REP,8,2,0,10
+Sullivan,Turman,U.S. House,8,Richard Moss,REP,18,4,0,22
+Sullivan,Turman,U.S. House,8,William Tanoos,DEM,59,26,0,85
+Sullivan,Turman,State Senate,39,Eric S. Bassler,REP,111,27,0,138
+Sullivan,Turman,State Senate,39,No Candidate Filed,DEM,0,0,0,0
+Sullivan,Turman,State House,45,Bruce Borders,REP,119,31,0,150
+Sullivan,Turman,State House,45,Jim Exline,DEM,60,25,0,85

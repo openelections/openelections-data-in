@@ -1,0 +1,309 @@
+county,precinct,office,district,candidate,party,election_day,absentee,provisional,votes
+Perry,Cannelton 1,Registered Voters,,,,,,,207
+Perry,Cannelton 2,Registered Voters,,,,,,,683
+Perry,Tell City 1,Registered Voters,,,,,,,705
+Perry,Tell City 2,Registered Voters,,,,,,,588
+Perry,Tell City 3,Registered Voters,,,,,,,558
+Perry,Tell City 4,Registered Voters,,,,,,,688
+Perry,Tell City 5,Registered Voters,,,,,,,763
+Perry,Tell City 6,Registered Voters,,,,,,,571
+Perry,Tell City 7,Registered Voters,,,,,,,608
+Perry,Tell City 8,Registered Voters,,,,,,,612
+Perry,Troy Township 1,Registered Voters,,,,,,,1217
+Perry,Troy Township 2,Registered Voters,,,,,,,751
+Perry,Troy,Registered Voters,,,,,,,237
+Perry,Anderson,Registered Voters,,,,,,,1019
+Perry,Clark 1,Registered Voters,,,,,,,393
+Perry,Clark 2,Registered Voters,,,,,,,368
+Perry,Leopold,Registered Voters,,,,,,,497
+Perry,Oil,Registered Voters,,,,,,,798
+Perry,Tobin,Registered Voters,,,,,,,528
+Perry,Derby,Registered Voters,,,,,,,195
+Perry,Rono,Registered Voters,,,,,,,199
+Perry,Total,Registered Voters,,,,,,,12185
+Perry,Cannelton 1,Ballots Cast ,,,,44,16,0,60
+Perry,Cannelton 2,Ballots Cast ,,,,114,63,0,177
+Perry,Tell City 1,Ballots Cast ,,,,172,80,0,252
+Perry,Tell City 2,Ballots Cast ,,,,119,50,0,169
+Perry,Tell City 3,Ballots Cast ,,,,111,36,0,147
+Perry,Tell City 4,Ballots Cast ,,,,185,95,0,280
+Perry,Tell City 5,Ballots Cast ,,,,124,85,0,209
+Perry,Tell City 6,Ballots Cast ,,,,108,63,0,171
+Perry,Tell City 7,Ballots Cast ,,,,137,57,0,194
+Perry,Tell City 8,Ballots Cast ,,,,101,80,0,181
+Perry,Troy Township 1,Ballots Cast ,,,,285,131,0,416
+Perry,Troy Township 2,Ballots Cast ,,,,168,57,0,225
+Perry,Troy,Ballots Cast ,,,,58,5,0,63
+Perry,Anderson,Ballots Cast ,,,,234,92,0,326
+Perry,Clark 1,Ballots Cast ,,,,73,9,0,82
+Perry,Clark 2,Ballots Cast ,,,,60,14,0,74
+Perry,Leopold,Ballots Cast ,,,,115,58,0,173
+Perry,Oil,Ballots Cast ,,,,139,41,0,180
+Perry,Tobin,Ballots Cast ,,,,100,48,0,148
+Perry,Derby,Ballots Cast ,,,,38,22,0,60
+Perry,Rono,Ballots Cast ,,,,33,25,0,58
+Perry,Total,Ballots Cast ,,,,2518,1127,0,3645
+Perry,Cannelton 1,U.S. Senate,,JOE DONNELLY,DEM,24,13,0,37
+Perry,Cannelton 2,U.S. Senate,,JOE DONNELLY,DEM,54,32,0,86
+Perry,Tell City 1,U.S. Senate,,JOE DONNELLY,DEM,108,53,0,161
+Perry,Tell City 2,U.S. Senate,,JOE DONNELLY,DEM,84,30,0,114
+Perry,Tell City 3,U.S. Senate,,JOE DONNELLY,DEM,69,25,0,94
+Perry,Tell City 4,U.S. Senate,,JOE DONNELLY,DEM,118,54,0,172
+Perry,Tell City 5,U.S. Senate,,JOE DONNELLY,DEM,76,39,0,115
+Perry,Tell City 6,U.S. Senate,,JOE DONNELLY,DEM,66,46,0,112
+Perry,Tell City 7,U.S. Senate,,JOE DONNELLY,DEM,80,31,0,111
+Perry,Tell City 8,U.S. Senate,,JOE DONNELLY,DEM,53,45,0,98
+Perry,Troy Township 1,U.S. Senate,,JOE DONNELLY,DEM,156,91,0,247
+Perry,Troy Township 2,U.S. Senate,,JOE DONNELLY,DEM,105,31,0,136
+Perry,Troy,U.S. Senate,,JOE DONNELLY,DEM,30,4,0,34
+Perry,Anderson,U.S. Senate,,JOE DONNELLY,DEM,152,55,0,207
+Perry,Clark 1,U.S. Senate,,JOE DONNELLY,DEM,35,5,0,40
+Perry,Clark 2,U.S. Senate,,JOE DONNELLY,DEM,26,8,0,34
+Perry,Leopold,U.S. Senate,,JOE DONNELLY,DEM,68,35,0,103
+Perry,Oil,U.S. Senate,,JOE DONNELLY,DEM,52,16,0,68
+Perry,Tobin,U.S. Senate,,JOE DONNELLY,DEM,37,30,0,67
+Perry,Derby,U.S. Senate,,JOE DONNELLY,DEM,19,14,0,33
+Perry,Rono,U.S. Senate,,JOE DONNELLY,DEM,19,15,0,34
+Perry,Total,U.S. Senate,,JOE DONNELLY,DEM,1431,672,0,2103
+Perry,Cannelton 1,U.S. Senate,,MIKE BRAUN,REP,6,0,0,6
+Perry,Cannelton 2,U.S. Senate,,MIKE BRAUN,REP,23,5,0,28
+Perry,Tell City 1,U.S. Senate,,MIKE BRAUN,REP,24,6,0,30
+Perry,Tell City 2,U.S. Senate,,MIKE BRAUN,REP,15,7,0,22
+Perry,Tell City 3,U.S. Senate,,MIKE BRAUN,REP,15,2,0,17
+Perry,Tell City 4,U.S. Senate,,MIKE BRAUN,REP,10,7,0,17
+Perry,Tell City 5,U.S. Senate,,MIKE BRAUN,REP,17,11,0,28
+Perry,Tell City 6,U.S. Senate,,MIKE BRAUN,REP,18,8,0,26
+Perry,Tell City 7,U.S. Senate,,MIKE BRAUN,REP,13,2,0,15
+Perry,Tell City 8,U.S. Senate,,MIKE BRAUN,REP,16,9,0,25
+Perry,Troy Township 1,U.S. Senate,,MIKE BRAUN,REP,30,10,0,40
+Perry,Troy Township 2,U.S. Senate,,MIKE BRAUN,REP,22,9,0,31
+Perry,Troy,U.S. Senate,,MIKE BRAUN,REP,12,0,0,12
+Perry,Anderson,U.S. Senate,,MIKE BRAUN,REP,28,15,0,43
+Perry,Clark 1,U.S. Senate,,MIKE BRAUN,REP,19,0,0,19
+Perry,Clark 2,U.S. Senate,,MIKE BRAUN,REP,13,3,0,16
+Perry,Leopold,U.S. Senate,,MIKE BRAUN,REP,15,4,0,19
+Perry,Oil,U.S. Senate,,MIKE BRAUN,REP,32,9,0,41
+Perry,Tobin,U.S. Senate,,MIKE BRAUN,REP,27,9,0,36
+Perry,Derby,U.S. Senate,,MIKE BRAUN,REP,12,1,0,13
+Perry,Rono,U.S. Senate,,MIKE BRAUN,REP,8,1,0,9
+Perry,Total,U.S. Senate,,MIKE BRAUN,REP,375,118,0,493
+Perry,Cannelton 1,U.S. Senate,,LUKE MESSER,REP,3,0,0,3
+Perry,Cannelton 2,U.S. Senate,,LUKE MESSER,REP,10,3,0,13
+Perry,Tell City 1,U.S. Senate,,LUKE MESSER,REP,8,2,0,10
+Perry,Tell City 2,U.S. Senate,,LUKE MESSER,REP,4,0,0,4
+Perry,Tell City 3,U.S. Senate,,LUKE MESSER,REP,7,2,0,9
+Perry,Tell City 4,U.S. Senate,,LUKE MESSER,REP,9,2,0,11
+Perry,Tell City 5,U.S. Senate,,LUKE MESSER,REP,5,2,0,7
+Perry,Tell City 6,U.S. Senate,,LUKE MESSER,REP,2,0,0,2
+Perry,Tell City 7,U.S. Senate,,LUKE MESSER,REP,3,2,0,5
+Perry,Tell City 8,U.S. Senate,,LUKE MESSER,REP,4,3,0,7
+Perry,Troy Township 1,U.S. Senate,,LUKE MESSER,REP,14,2,0,16
+Perry,Troy Township 2,U.S. Senate,,LUKE MESSER,REP,5,3,0,8
+Perry,Troy,U.S. Senate,,LUKE MESSER,REP,2,0,0,2
+Perry,Anderson,U.S. Senate,,LUKE MESSER,REP,13,0,0,13
+Perry,Clark 1,U.S. Senate,,LUKE MESSER,REP,3,0,0,3
+Perry,Clark 2,U.S. Senate,,LUKE MESSER,REP,6,1,0,7
+Perry,Leopold,U.S. Senate,,LUKE MESSER,REP,10,1,0,11
+Perry,Oil,U.S. Senate,,LUKE MESSER,REP,17,4,0,21
+Perry,Tobin,U.S. Senate,,LUKE MESSER,REP,13,2,0,15
+Perry,Derby,U.S. Senate,,LUKE MESSER,REP,3,1,0,4
+Perry,Rono,U.S. Senate,,LUKE MESSER,REP,1,3,0,4
+Perry,Total,U.S. Senate,,LUKE MESSER,REP,142,33,0,175
+Perry,Cannelton 1,U.S. Senate,,TODD ROKITA,REP,1,1,0,2
+Perry,Cannelton 2,U.S. Senate,,TODD ROKITA,REP,3,3,0,6
+Perry,Tell City 1,U.S. Senate,,TODD ROKITA,REP,5,5,0,10
+Perry,Tell City 2,U.S. Senate,,TODD ROKITA,REP,5,1,0,6
+Perry,Tell City 3,U.S. Senate,,TODD ROKITA,REP,5,1,0,6
+Perry,Tell City 4,U.S. Senate,,TODD ROKITA,REP,10,5,0,15
+Perry,Tell City 5,U.S. Senate,,TODD ROKITA,REP,8,2,0,10
+Perry,Tell City 6,U.S. Senate,,TODD ROKITA,REP,4,0,0,4
+Perry,Tell City 7,U.S. Senate,,TODD ROKITA,REP,8,1,0,9
+Perry,Tell City 8,U.S. Senate,,TODD ROKITA,REP,3,6,0,9
+Perry,Troy Township 1,U.S. Senate,,TODD ROKITA,REP,14,6,0,20
+Perry,Troy Township 2,U.S. Senate,,TODD ROKITA,REP,8,2,0,10
+Perry,Troy,U.S. Senate,,TODD ROKITA,REP,3,0,0,3
+Perry,Anderson,U.S. Senate,,TODD ROKITA,REP,9,6,0,15
+Perry,Clark 1,U.S. Senate,,TODD ROKITA,REP,2,2,0,4
+Perry,Clark 2,U.S. Senate,,TODD ROKITA,REP,7,1,0,8
+Perry,Leopold,U.S. Senate,,TODD ROKITA,REP,4,5,0,9
+Perry,Oil,U.S. Senate,,TODD ROKITA,REP,16,6,0,22
+Perry,Tobin,U.S. Senate,,TODD ROKITA,REP,8,1,0,9
+Perry,Derby,U.S. Senate,,TODD ROKITA,REP,1,2,0,3
+Perry,Rono,U.S. Senate,,TODD ROKITA,REP,0,1,0,1
+Perry,Total,U.S. Senate,,TODD ROKITA,REP,124,57,0,181
+Perry,Cannelton 1,U.S.House,8,WILLIAM TANOOS,DEM,22,9,0,31
+Perry,Cannelton 2,U.S.House,8,WILLIAM TANOOS,DEM,38,27,0,65
+Perry,Tell City 1,U.S.House,8,WILLIAM TANOOS,DEM,71,38,0,109
+Perry,Tell City 2,U.S.House,8,WILLIAM TANOOS,DEM,59,23,0,82
+Perry,Tell City 3,U.S.House,8,WILLIAM TANOOS,DEM,57,22,0,79
+Perry,Tell City 4,U.S.House,8,WILLIAM TANOOS,DEM,66,38,0,104
+Perry,Tell City 5,U.S.House,8,WILLIAM TANOOS,DEM,52,36,0,88
+Perry,Tell City 6,U.S.House,8,WILLIAM TANOOS,DEM,43,33,0,76
+Perry,Tell City 7,U.S.House,8,WILLIAM TANOOS,DEM,49,24,0,73
+Perry,Tell City 8,U.S.House,8,WILLIAM TANOOS,DEM,35,20,0,55
+Perry,Troy Township 1,U.S.House,8,WILLIAM TANOOS,DEM,112,69,0,181
+Perry,Troy Township 2,U.S.House,8,WILLIAM TANOOS,DEM,79,25,0,104
+Perry,Troy,U.S.House,8,WILLIAM TANOOS,DEM,24,4,0,28
+Perry,Anderson,U.S.House,8,WILLIAM TANOOS,DEM,96,47,0,143
+Perry,Clark 1,U.S.House,8,WILLIAM TANOOS,DEM,25,4,0,29
+Perry,Clark 2,U.S.House,8,WILLIAM TANOOS,DEM,23,6,0,29
+Perry,Leopold,U.S.House,8,WILLIAM TANOOS,DEM,48,26,0,74
+Perry,Oil,U.S.House,8,WILLIAM TANOOS,DEM,39,12,0,51
+Perry,Tobin,U.S.House,8,WILLIAM TANOOS,DEM,21,22,0,43
+Perry,Derby,U.S.House,8,WILLIAM TANOOS,DEM,11,11,0,22
+Perry,Rono,U.S.House,8,WILLIAM TANOOS,DEM,14,8,0,22
+Perry,Total,U.S.House,8,WILLIAM TANOOS,DEM,984,504,0,1488
+Perry,Cannelton 1,U.S.House,8,LARRY D. BUCSHON,REP,5,1,0,6
+Perry,Cannelton 2,U.S.House,8,LARRY D. BUCSHON,REP,16,9,0,25
+Perry,Tell City 1,U.S.House,8,LARRY D. BUCSHON,REP,18,12,0,30
+Perry,Tell City 2,U.S.House,8,LARRY D. BUCSHON,REP,14,8,0,22
+Perry,Tell City 3,U.S.House,8,LARRY D. BUCSHON,REP,12,5,0,17
+Perry,Tell City 4,U.S.House,8,LARRY D. BUCSHON,REP,18,7,0,25
+Perry,Tell City 5,U.S.House,8,LARRY D. BUCSHON,REP,17,8,0,25
+Perry,Tell City 6,U.S.House,8,LARRY D. BUCSHON,REP,13,5,0,18
+Perry,Tell City 7,U.S.House,8,LARRY D. BUCSHON,REP,15,2,0,17
+Perry,Tell City 8,U.S.House,8,LARRY D. BUCSHON,REP,11,7,0,18
+Perry,Troy Township 1,U.S.House,8,LARRY D. BUCSHON,REP,37,14,0,51
+Perry,Troy Township 2,U.S.House,8,LARRY D. BUCSHON,REP,16,6,0,22
+Perry,Troy,U.S.House,8,LARRY D. BUCSHON,REP,13,0,0,13
+Perry,Anderson,U.S.House,8,LARRY D. BUCSHON,REP,29,17,0,46
+Perry,Clark 1,U.S.House,8,LARRY D. BUCSHON,REP,11,1,0,12
+Perry,Clark 2,U.S.House,8,LARRY D. BUCSHON,REP,13,3,0,16
+Perry,Leopold,U.S.House,8,LARRY D. BUCSHON,REP,22,8,0,30
+Perry,Oil,U.S.House,8,LARRY D. BUCSHON,REP,40,15,0,55
+Perry,Tobin,U.S.House,8,LARRY D. BUCSHON,REP,25,9,0,34
+Perry,Derby,U.S.House,8,LARRY D. BUCSHON,REP,7,1,0,8
+Perry,Rono,U.S.House,8,LARRY D. BUCSHON,REP,4,4,0,8
+Perry,Total,U.S.House,8,LARRY D. BUCSHON,REP,356,142,0,498
+Perry,Cannelton 1,U.S.House,8,RACHEL COVINGTON,REP,2,0,0,2
+Perry,Cannelton 2,U.S.House,8,RACHEL COVINGTON,REP,7,2,0,9
+Perry,Tell City 1,U.S.House,8,RACHEL COVINGTON,REP,4,1,0,5
+Perry,Tell City 2,U.S.House,8,RACHEL COVINGTON,REP,1,0,0,1
+Perry,Tell City 3,U.S.House,8,RACHEL COVINGTON,REP,5,0,0,5
+Perry,Tell City 4,U.S.House,8,RACHEL COVINGTON,REP,4,1,0,5
+Perry,Tell City 5,U.S.House,8,RACHEL COVINGTON,REP,1,1,0,2
+Perry,Tell City 6,U.S.House,8,RACHEL COVINGTON,REP,2,2,0,4
+Perry,Tell City 7,U.S.House,8,RACHEL COVINGTON,REP,3,0,0,3
+Perry,Tell City 8,U.S.House,8,RACHEL COVINGTON,REP,3,5,0,8
+Perry,Troy Township 1,U.S.House,8,RACHEL COVINGTON,REP,4,2,0,6
+Perry,Troy Township 2,U.S.House,8,RACHEL COVINGTON,REP,5,2,0,7
+Perry,Troy,U.S.House,8,RACHEL COVINGTON,REP,1,0,0,1
+Perry,Anderson,U.S.House,8,RACHEL COVINGTON,REP,9,2,0,11
+Perry,Clark 1,U.S.House,8,RACHEL COVINGTON,REP,3,0,0,3
+Perry,Clark 2,U.S.House,8,RACHEL COVINGTON,REP,2,0,0,2
+Perry,Leopold,U.S.House,8,RACHEL COVINGTON,REP,2,1,0,3
+Perry,Oil,U.S.House,8,RACHEL COVINGTON,REP,6,1,0,7
+Perry,Tobin,U.S.House,8,RACHEL COVINGTON,REP,6,1,0,7
+Perry,Derby,U.S.House,8,RACHEL COVINGTON,REP,2,1,0,3
+Perry,Rono,U.S.House,8,RACHEL COVINGTON,REP,1,1,0,2
+Perry,Total,U.S.House,8,RACHEL COVINGTON,REP,73,23,0,96
+Perry,Cannelton 1,U.S.House,8,RICHARD MOSS,REP,3,0,0,3
+Perry,Cannelton 2,U.S.House,8,RICHARD MOSS,REP,14,2,0,16
+Perry,Tell City 1,U.S.House,8,RICHARD MOSS,REP,16,1,0,17
+Perry,Tell City 2,U.S.House,8,RICHARD MOSS,REP,7,0,0,7
+Perry,Tell City 3,U.S.House,8,RICHARD MOSS,REP,9,1,0,10
+Perry,Tell City 4,U.S.House,8,RICHARD MOSS,REP,7,6,0,13
+Perry,Tell City 5,U.S.House,8,RICHARD MOSS,REP,12,6,0,18
+Perry,Tell City 6,U.S.House,8,RICHARD MOSS,REP,7,1,0,8
+Perry,Tell City 7,U.S.House,8,RICHARD MOSS,REP,4,3,0,7
+Perry,Tell City 8,U.S.House,8,RICHARD MOSS,REP,10,6,0,16
+Perry,Troy Township 1,U.S.House,8,RICHARD MOSS,REP,17,2,0,19
+Perry,Troy Township 2,U.S.House,8,RICHARD MOSS,REP,13,5,0,18
+Perry,Troy,U.S.House,8,RICHARD MOSS,REP,3,0,0,3
+Perry,Anderson,U.S.House,8,RICHARD MOSS,REP,10,2,0,12
+Perry,Clark 1,U.S.House,8,RICHARD MOSS,REP,10,1,0,11
+Perry,Clark 2,U.S.House,8,RICHARD MOSS,REP,6,2,0,8
+Perry,Leopold,U.S.House,8,RICHARD MOSS,REP,5,0,0,5
+Perry,Oil,U.S.House,8,RICHARD MOSS,REP,21,4,0,25
+Perry,Tobin,U.S.House,8,RICHARD MOSS,REP,17,2,0,19
+Perry,Derby,U.S.House,8,RICHARD MOSS,REP,7,2,0,9
+Perry,Rono,U.S.House,8,RICHARD MOSS,REP,3,1,0,4
+Perry,Total,U.S.House,8,RICHARD MOSS,REP,201,47,0,248
+Perry,Cannelton 1,State Senate,47,NICHOLAS A. (NICK) SILER,DEM,21,9,0,30
+Perry,Cannelton 2,State Senate,47,NICHOLAS A. (NICK) SILER,DEM,45,28,0,73
+Perry,Tell City 1,State Senate,47,NICHOLAS A. (NICK) SILER,DEM,84,42,0,126
+Perry,Tell City 2,State Senate,47,NICHOLAS A. (NICK) SILER,DEM,69,26,0,95
+Perry,Tell City 3,State Senate,47,NICHOLAS A. (NICK) SILER,DEM,54,20,0,74
+Perry,Tell City 4,State Senate,47,NICHOLAS A. (NICK) SILER,DEM,86,41,0,127
+Perry,Tell City 5,State Senate,47,NICHOLAS A. (NICK) SILER,DEM,62,38,0,100
+Perry,Tell City 6,State Senate,47,NICHOLAS A. (NICK) SILER,DEM,50,37,0,87
+Perry,Tell City 7,State Senate,47,NICHOLAS A. (NICK) SILER,DEM,57,27,0,84
+Perry,Tell City 8,State Senate,47,NICHOLAS A. (NICK) SILER,DEM,41,29,0,70
+Perry,Troy Township 1,State Senate,47,NICHOLAS A. (NICK) SILER,DEM,129,76,0,205
+Perry,Troy Township 2,State Senate,47,NICHOLAS A. (NICK) SILER,DEM,89,25,0,114
+Perry,Troy,State Senate,47,NICHOLAS A. (NICK) SILER,DEM,25,5,0,30
+Perry,Anderson,State Senate,47,NICHOLAS A. (NICK) SILER,DEM,111,50,0,161
+Perry,Clark 1,State Senate,47,NICHOLAS A. (NICK) SILER,DEM,30,4,0,34
+Perry,Clark 2,State Senate,47,NICHOLAS A. (NICK) SILER,DEM,24,7,0,31
+Perry,Leopold,State Senate,47,NICHOLAS A. (NICK) SILER,DEM,55,27,0,82
+Perry,Oil,State Senate,47,NICHOLAS A. (NICK) SILER,DEM,41,14,0,55
+Perry,Tobin,State Senate,47,NICHOLAS A. (NICK) SILER,DEM,24,24,0,48
+Perry,Derby,State Senate,47,NICHOLAS A. (NICK) SILER,DEM,15,9,0,24
+Perry,Rono,State Senate,47,NICHOLAS A. (NICK) SILER,DEM,15,12,0,27
+Perry,Total,State Senate,47,NICHOLAS A. (NICK) SILER,DEM,1127,550,0,1677
+Perry,Cannelton 1,State Senate,47,ERIN HOUCHIN,REP,10,1,0,11
+Perry,Cannelton 2,State Senate,47,ERIN HOUCHIN,REP,30,8,0,38
+Perry,Tell City 1,State Senate,47,ERIN HOUCHIN,REP,34,13,0,47
+Perry,Tell City 2,State Senate,47,ERIN HOUCHIN,REP,20,8,0,28
+Perry,Tell City 3,State Senate,47,ERIN HOUCHIN,REP,25,4,0,29
+Perry,Tell City 4,State Senate,47,ERIN HOUCHIN,REP,27,12,0,39
+Perry,Tell City 5,State Senate,47,ERIN HOUCHIN,REP,26,10,0,36
+Perry,Tell City 6,State Senate,47,ERIN HOUCHIN,REP,23,8,0,31
+Perry,Tell City 7,State Senate,47,ERIN HOUCHIN,REP,19,3,0,22
+Perry,Tell City 8,State Senate,47,ERIN HOUCHIN,REP,21,16,0,37
+Perry,Troy Township 1,State Senate,47,ERIN HOUCHIN,REP,56,16,0,72
+Perry,Troy Township 2,State Senate,47,ERIN HOUCHIN,REP,32,11,0,43
+Perry,Troy,State Senate,47,ERIN HOUCHIN,REP,15,0,0,15
+Perry,Anderson,State Senate,47,ERIN HOUCHIN,REP,47,17,0,64
+Perry,Clark 1,State Senate,47,ERIN HOUCHIN,REP,20,2,0,22
+Perry,Clark 2,State Senate,47,ERIN HOUCHIN,REP,20,4,0,24
+Perry,Leopold,State Senate,47,ERIN HOUCHIN,REP,29,7,0,36
+Perry,Oil,State Senate,47,ERIN HOUCHIN,REP,64,17,0,81
+Perry,Tobin,State Senate,47,ERIN HOUCHIN,REP,41,11,0,52
+Perry,Derby,State Senate,47,ERIN HOUCHIN,REP,17,4,0,21
+Perry,Rono,State Senate,47,ERIN HOUCHIN,REP,9,6,0,15
+Perry,Total,State Senate,47,ERIN HOUCHIN,REP,585,178,0,763
+Perry,Cannelton 1,State Representative,74,LARRY K. KLEEMAN,DEM,28,12,0,40
+Perry,Cannelton 2,State Representative,74,LARRY K. KLEEMAN,DEM,56,33,0,89
+Perry,Tell City 1,State Representative,74,LARRY K. KLEEMAN,DEM,113,55,0,168
+Perry,Tell City 2,State Representative,74,LARRY K. KLEEMAN,DEM,75,33,0,108
+Perry,Tell City 3,State Representative,74,LARRY K. KLEEMAN,DEM,68,25,0,93
+Perry,Tell City 4,State Representative,74,LARRY K. KLEEMAN,DEM,124,55,0,179
+Perry,Tell City 5,State Representative,74,LARRY K. KLEEMAN,DEM,78,45,0,123
+Perry,Tell City 6,State Representative,74,LARRY K. KLEEMAN,DEM,65,44,0,109
+Perry,Tell City 7,State Representative,74,LARRY K. KLEEMAN,DEM,86,34,0,120
+Perry,Tell City 8,State Representative,74,LARRY K. KLEEMAN,DEM,58,43,0,101
+Perry,Troy Township 1,State Representative,74,LARRY K. KLEEMAN,DEM,157,95,0,252
+Perry,Troy Township 2,State Representative,74,LARRY K. KLEEMAN,DEM,108,31,0,139
+Perry,Troy,State Representative,74,LARRY K. KLEEMAN,DEM,37,3,0,40
+Perry,Anderson,State Representative,74,LARRY K. KLEEMAN,DEM,136,53,0,189
+Perry,Clark 1,State Representative,74,LARRY K. KLEEMAN,DEM,34,4,0,38
+Perry,Clark 2,State Representative,74,LARRY K. KLEEMAN,DEM,26,6,0,32
+Perry,Leopold,State Representative,74,LARRY K. KLEEMAN,DEM,66,35,0,101
+Perry,Oil,State Representative,74,LARRY K. KLEEMAN,DEM,51,17,0,68
+Perry,Tobin,State Representative,74,LARRY K. KLEEMAN,DEM,38,30,0,68
+Perry,Derby,State Representative,74,LARRY K. KLEEMAN,DEM,17,10,0,27
+Perry,Rono,State Representative,74,LARRY K. KLEEMAN,DEM,20,14,0,34
+Perry,Total,State Representative,74,LARRY K. KLEEMAN,DEM,1441,677,0,2118
+Perry,Cannelton 1,State Representative,74,STEPHEN R. BARTELS,REP,9,1,0,10
+Perry,Cannelton 2,State Representative,74,STEPHEN R. BARTELS,REP,29,6,0,35
+Perry,Tell City 1,State Representative,74,STEPHEN R. BARTELS,REP,35,12,0,47
+Perry,Tell City 2,State Representative,74,STEPHEN R. BARTELS,REP,20,7,0,27
+Perry,Tell City 3,State Representative,74,STEPHEN R. BARTELS,REP,25,4,0,29
+Perry,Tell City 4,State Representative,74,STEPHEN R. BARTELS,REP,26,12,0,38
+Perry,Tell City 5,State Representative,74,STEPHEN R. BARTELS,REP,27,8,0,35
+Perry,Tell City 6,State Representative,74,STEPHEN R. BARTELS,REP,22,8,0,30
+Perry,Tell City 7,State Representative,74,STEPHEN R. BARTELS,REP,21,3,0,24
+Perry,Tell City 8,State Representative,74,STEPHEN R. BARTELS,REP,22,13,0,35
+Perry,Troy Township 1,State Representative,74,STEPHEN R. BARTELS,REP,55,17,0,72
+Perry,Troy Township 2,State Representative,74,STEPHEN R. BARTELS,REP,31,11,0,42
+Perry,Troy,State Representative,74,STEPHEN R. BARTELS,REP,16,0,0,16
+Perry,Anderson,State Representative,74,STEPHEN R. BARTELS,REP,42,16,0,58
+Perry,Clark 1,State Representative,74,STEPHEN R. BARTELS,REP,21,2,0,23
+Perry,Clark 2,State Representative,74,STEPHEN R. BARTELS,REP,19,4,0,23
+Perry,Leopold,State Representative,74,STEPHEN R. BARTELS,REP,27,7,0,34
+Perry,Oil,State Representative,74,STEPHEN R. BARTELS,REP,60,17,0,77
+Perry,Tobin,State Representative,74,STEPHEN R. BARTELS,REP,41,11,0,52
+Perry,Derby,State Representative,74,STEPHEN R. BARTELS,REP,16,2,0,18
+Perry,Rono,State Representative,74,STEPHEN R. BARTELS,REP,9,6,0,15
+Perry,Total,State Representative,74,STEPHEN R. BARTELS,REP,573,167,0,740

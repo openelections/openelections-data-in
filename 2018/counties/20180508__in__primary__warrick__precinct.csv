@@ -1,0 +1,753 @@
+county,precinct,office,district,candidate,party,election_day,absentee,provisional,votes
+Warrick,Anderson,Ballots Cast,,,,115,7,0,122
+Warrick,Anderson,Registered Voters,,,,,,,852
+Warrick,Anderson,U.S. Senate,,Mike Braun,REP,44,2,0,46
+Warrick,Anderson,U.S. Senate,,Luke Messer,REP,16,0,0,16
+Warrick,Anderson,U.S. Senate,,Todd Rokita,REP,20,1,0,21
+Warrick,Anderson,U.S. Senate,,Joe Donnelly,DEM,24,4,0,28
+Warrick,Anderson,U.S. House,8,Larry D. Bucshon,REP,41,3,0,44
+Warrick,Anderson,U.S. House,8,Rachel Covington,REP,9,0,0,9
+Warrick,Anderson,U.S. House,8,Richard Moss,REP,33,0,0,33
+Warrick,Anderson,U.S. House,8,William Tanoos,DEM,26,3,0,29
+Warrick,Anderson,State Senate,48,Mark Messmer,REP,73,3,0,76
+Warrick,Anderson,State Senate,48,No Candidate Filed,DEM,0,0,0,0
+Warrick,Anderson,State House,75,Ron Bacon,REP,75,3,0,78
+Warrick,Anderson,State House,75,John Hurley,DEM,24,4,0,28
+Warrick,Boon 1,Ballots Cast,,,,39,7,0,46
+Warrick,Boon 1,Registered Voters,,,,,,,274
+Warrick,Boon 1,U.S. Senate,,Mike Braun,REP,14,1,0,15
+Warrick,Boon 1,U.S. Senate,,Luke Messer,REP,7,3,0,10
+Warrick,Boon 1,U.S. Senate,,Todd Rokita,REP,10,0,0,10
+Warrick,Boon 1,U.S. Senate,,Joe Donnelly,DEM,6,3,0,9
+Warrick,Boon 1,U.S. House,8,Larry D. Bucshon,REP,21,1,0,22
+Warrick,Boon 1,U.S. House,8,Rachel Covington,REP,3,3,0,6
+Warrick,Boon 1,U.S. House,8,Richard Moss,REP,8,0,0,8
+Warrick,Boon 1,U.S. House,8,William Tanoos,DEM,3,1,0,4
+Warrick,Boon 1,State Senate,48,Mark Messmer,REP,25,4,0,29
+Warrick,Boon 1,State Senate,48,No Candidate Filed,DEM,0,0,0,0
+Warrick,Boon 1,State House,75,Ron Bacon,REP,28,4,0,32
+Warrick,Boon 1,State House,75,John Hurley,DEM,4,2,0,6
+Warrick,Boon 2,Ballots Cast,,,,86,17,0,103
+Warrick,Boon 2,Registered Voters,,,,,,,710
+Warrick,Boon 2,U.S. Senate,,Mike Braun,REP,21,2,0,23
+Warrick,Boon 2,U.S. Senate,,Luke Messer,REP,13,3,0,16
+Warrick,Boon 2,U.S. Senate,,Todd Rokita,REP,6,4,0,10
+Warrick,Boon 2,U.S. Senate,,Joe Donnelly,DEM,39,6,0,45
+Warrick,Boon 2,U.S. House,8,Larry D. Bucshon,REP,29,8,0,37
+Warrick,Boon 2,U.S. House,8,Rachel Covington,REP,4,0,0,4
+Warrick,Boon 2,U.S. House,8,Richard Moss,REP,8,1,0,9
+Warrick,Boon 2,U.S. House,8,William Tanoos,DEM,30,5,0,35
+Warrick,Boon 2,State Senate,48,Mark Messmer,REP,36,6,0,42
+Warrick,Boon 2,State Senate,48,No Candidate Filed,DEM,0,0,0,0
+Warrick,Boon 2,State House,75,Ron Bacon,REP,40,6,0,46
+Warrick,Boon 2,State House,75,John Hurley,DEM,32,4,0,36
+Warrick,Boon 3,Ballots Cast,,,,91,17,0,108
+Warrick,Boon 3,Registered Voters,,,,,,,568
+Warrick,Boon 3,U.S. Senate,,Mike Braun,REP,27,6,0,33
+Warrick,Boon 3,U.S. Senate,,Luke Messer,REP,16,4,0,20
+Warrick,Boon 3,U.S. Senate,,Todd Rokita,REP,7,2,0,9
+Warrick,Boon 3,U.S. Senate,,Joe Donnelly,DEM,30,3,0,33
+Warrick,Boon 3,U.S. House,8,Larry D. Bucshon,REP,32,11,0,43
+Warrick,Boon 3,U.S. House,8,Rachel Covington,REP,9,0,0,9
+Warrick,Boon 3,U.S. House,8,Richard Moss,REP,11,1,0,12
+Warrick,Boon 3,U.S. House,8,William Tanoos,DEM,22,1,0,23
+Warrick,Boon 3,State Senate,48,Mark Messmer,REP,44,11,0,55
+Warrick,Boon 3,State Senate,48,No Candidate Filed,DEM,0,0,0,0
+Warrick,Boon 3,State House,75,Ron Bacon,REP,49,13,0,62
+Warrick,Boon 3,State House,75,John Hurley,DEM,30,3,0,33
+Warrick,Boon 4,Ballots Cast,,,,67,14,0,81
+Warrick,Boon 4,Registered Voters,,,,,,,497
+Warrick,Boon 4,U.S. Senate,,Mike Braun,REP,14,3,0,17
+Warrick,Boon 4,U.S. Senate,,Luke Messer,REP,8,2,0,10
+Warrick,Boon 4,U.S. Senate,,Todd Rokita,REP,14,4,0,18
+Warrick,Boon 4,U.S. Senate,,Joe Donnelly,DEM,25,3,0,28
+Warrick,Boon 4,U.S. House,8,Larry D. Bucshon,REP,26,6,0,32
+Warrick,Boon 4,U.S. House,8,Rachel Covington,REP,1,3,0,4
+Warrick,Boon 4,U.S. House,8,Richard Moss,REP,10,0,0,10
+Warrick,Boon 4,U.S. House,8,William Tanoos,DEM,20,5,0,25
+Warrick,Boon 4,State Senate,48,Mark Messmer,REP,29,8,0,37
+Warrick,Boon 4,State Senate,48,No Candidate Filed,DEM,0,0,0,0
+Warrick,Boon 4,State House,75,Ron Bacon,REP,33,7,0,40
+Warrick,Boon 4,State House,75,John Hurley,DEM,22,3,0,25
+Warrick,Boon 5,Ballots Cast,,,,71,13,0,84
+Warrick,Boon 5,Registered Voters,,,,,,,413
+Warrick,Boon 5,U.S. Senate,,Mike Braun,REP,19,2,0,21
+Warrick,Boon 5,U.S. Senate,,Luke Messer,REP,7,1,0,8
+Warrick,Boon 5,U.S. Senate,,Todd Rokita,REP,12,4,0,16
+Warrick,Boon 5,U.S. Senate,,Joe Donnelly,DEM,24,2,0,26
+Warrick,Boon 5,U.S. House,8,Larry D. Bucshon,REP,27,7,0,34
+Warrick,Boon 5,U.S. House,8,Rachel Covington,REP,7,0,0,7
+Warrick,Boon 5,U.S. House,8,Richard Moss,REP,6,2,0,8
+Warrick,Boon 5,U.S. House,8,William Tanoos,DEM,18,1,0,19
+Warrick,Boon 5,State Senate,48,Mark Messmer,REP,34,6,0,40
+Warrick,Boon 5,State Senate,48,No Candidate Filed,DEM,0,0,0,0
+Warrick,Boon 5,State House,75,Ron Bacon,REP,34,6,0,40
+Warrick,Boon 5,State House,75,John Hurley,DEM,23,1,0,24
+Warrick,Boon 6,Ballots Cast,,,,48,17,0,65
+Warrick,Boon 6,Registered Voters,,,,,,,508
+Warrick,Boon 6,U.S. Senate,,Mike Braun,REP,17,6,0,23
+Warrick,Boon 6,U.S. Senate,,Luke Messer,REP,5,1,0,6
+Warrick,Boon 6,U.S. Senate,,Todd Rokita,REP,3,1,0,4
+Warrick,Boon 6,U.S. Senate,,Joe Donnelly,DEM,20,8,0,28
+Warrick,Boon 6,U.S. House,8,Larry D. Bucshon,REP,15,7,0,22
+Warrick,Boon 6,U.S. House,8,Rachel Covington,REP,5,0,0,5
+Warrick,Boon 6,U.S. House,8,Richard Moss,REP,4,2,0,6
+Warrick,Boon 6,U.S. House,8,William Tanoos,DEM,18,4,0,22
+Warrick,Boon 6,State Senate,48,Mark Messmer,REP,17,4,0,21
+Warrick,Boon 6,State Senate,48,No Candidate Filed,DEM,0,0,0,0
+Warrick,Boon 6,State House,75,Ron Bacon,REP,20,5,0,25
+Warrick,Boon 6,State House,75,John Hurley,DEM,15,4,0,19
+Warrick,Boon 7,Ballots Cast,,,,102,13,0,115
+Warrick,Boon 7,Registered Voters,,,,,,,646
+Warrick,Boon 7,U.S. Senate,,Mike Braun,REP,30,5,0,35
+Warrick,Boon 7,U.S. Senate,,Luke Messer,REP,9,0,0,9
+Warrick,Boon 7,U.S. Senate,,Todd Rokita,REP,16,1,0,17
+Warrick,Boon 7,U.S. Senate,,Joe Donnelly,DEM,34,6,0,40
+Warrick,Boon 7,U.S. House,8,Larry D. Bucshon,REP,33,5,0,38
+Warrick,Boon 7,U.S. House,8,Rachel Covington,REP,5,0,0,5
+Warrick,Boon 7,U.S. House,8,Richard Moss,REP,18,1,0,19
+Warrick,Boon 7,U.S. House,8,William Tanoos,DEM,31,4,0,35
+Warrick,Boon 7,State Senate,48,Mark Messmer,REP,45,4,0,49
+Warrick,Boon 7,State Senate,48,No Candidate Filed,DEM,0,0,0,0
+Warrick,Boon 7,State House,75,Ron Bacon,REP,47,5,0,52
+Warrick,Boon 7,State House,75,John Hurley,DEM,32,4,0,36
+Warrick,Boon 8,Ballots Cast,,,,95,13,0,108
+Warrick,Boon 8,Registered Voters,,,,,,,578
+Warrick,Boon 8,U.S. Senate,,Mike Braun,REP,39,3,0,42
+Warrick,Boon 8,U.S. Senate,,Luke Messer,REP,7,2,0,9
+Warrick,Boon 8,U.S. Senate,,Todd Rokita,REP,21,1,0,22
+Warrick,Boon 8,U.S. Senate,,Joe Donnelly,DEM,18,5,0,23
+Warrick,Boon 8,U.S. House,8,Larry D. Bucshon,REP,50,3,0,53
+Warrick,Boon 8,U.S. House,8,Rachel Covington,REP,6,0,0,6
+Warrick,Boon 8,U.S. House,8,Richard Moss,REP,14,3,0,17
+Warrick,Boon 8,U.S. House,8,William Tanoos,DEM,17,3,0,20
+Warrick,Boon 8,State Senate,48,Mark Messmer,REP,55,5,0,60
+Warrick,Boon 8,State Senate,48,No Candidate Filed,DEM,0,0,0,0
+Warrick,Boon 8,State House,75,Ron Bacon,REP,55,6,0,61
+Warrick,Boon 8,State House,75,John Hurley,DEM,18,4,0,22
+Warrick,Boon 9,Ballots Cast,,,,152,18,0,170
+Warrick,Boon 9,Registered Voters,,,,,,,852
+Warrick,Boon 9,U.S. Senate,,Mike Braun,REP,58,7,0,65
+Warrick,Boon 9,U.S. Senate,,Luke Messer,REP,25,2,0,27
+Warrick,Boon 9,U.S. Senate,,Todd Rokita,REP,29,2,0,31
+Warrick,Boon 9,U.S. Senate,,Joe Donnelly,DEM,30,4,0,34
+Warrick,Boon 9,U.S. House,8,Larry D. Bucshon,REP,74,5,0,79
+Warrick,Boon 9,U.S. House,8,Rachel Covington,REP,9,4,0,13
+Warrick,Boon 9,U.S. House,8,Richard Moss,REP,31,2,0,33
+Warrick,Boon 9,U.S. House,8,William Tanoos,DEM,26,3,0,29
+Warrick,Boon 9,State Senate,48,Mark Messmer,REP,96,5,0,101
+Warrick,Boon 9,State Senate,48,No Candidate Filed,DEM,0,0,0,0
+Warrick,Boon 9,State House,75,Ron Bacon,REP,96,9,0,105
+Warrick,Boon 9,State House,75,John Hurley,DEM,27,3,0,30
+Warrick,Boon 10,Ballots Cast,,,,115,12,0,127
+Warrick,Boon 10,Registered Voters,,,,,,,715
+Warrick,Boon 10,U.S. Senate,,Mike Braun,REP,41,3,0,44
+Warrick,Boon 10,U.S. Senate,,Luke Messer,REP,18,0,0,18
+Warrick,Boon 10,U.S. Senate,,Todd Rokita,REP,21,0,0,21
+Warrick,Boon 10,U.S. Senate,,Joe Donnelly,DEM,25,7,0,32
+Warrick,Boon 10,U.S. House,8,Larry D. Bucshon,REP,48,3,0,51
+Warrick,Boon 10,U.S. House,8,Rachel Covington,REP,6,1,0,7
+Warrick,Boon 10,U.S. House,8,Richard Moss,REP,30,0,0,30
+Warrick,Boon 10,U.S. House,8,William Tanoos,DEM,19,7,0,26
+Warrick,Boon 10,State Senate,48,Mark Messmer,REP,73,2,0,75
+Warrick,Boon 10,State Senate,48,No Candidate Filed,DEM,0,0,0,0
+Warrick,Boon 10,State House,75,Ron Bacon,REP,77,4,0,81
+Warrick,Boon 10,State House,75,John Hurley,DEM,25,7,0,32
+Warrick,Boon 11,Ballots Cast,,,,112,22,0,134
+Warrick,Boon 11,Registered Voters,,,,,,,797
+Warrick,Boon 11,U.S. Senate,,Mike Braun,REP,36,4,0,40
+Warrick,Boon 11,U.S. Senate,,Luke Messer,REP,29,5,0,34
+Warrick,Boon 11,U.S. Senate,,Todd Rokita,REP,16,7,0,23
+Warrick,Boon 11,U.S. Senate,,Joe Donnelly,DEM,23,5,0,28
+Warrick,Boon 11,U.S. House,8,Larry D. Bucshon,REP,44,15,0,59
+Warrick,Boon 11,U.S. House,8,Rachel Covington,REP,10,1,0,11
+Warrick,Boon 11,U.S. House,8,Richard Moss,REP,30,0,0,30
+Warrick,Boon 11,U.S. House,8,William Tanoos,DEM,18,4,0,22
+Warrick,Boon 11,State Senate,48,Mark Messmer,REP,72,13,0,85
+Warrick,Boon 11,State Senate,48,No Candidate Filed,DEM,0,0,0,0
+Warrick,Boon 11,State House,75,Ron Bacon,REP,71,14,0,85
+Warrick,Boon 11,State House,75,John Hurley,DEM,22,5,0,27
+Warrick,Boon 12,Ballots Cast,,,,59,28,0,87
+Warrick,Boon 12,Registered Voters,,,,,,,558
+Warrick,Boon 12,U.S. Senate,,Mike Braun,REP,11,9,0,20
+Warrick,Boon 12,U.S. Senate,,Luke Messer,REP,5,4,0,9
+Warrick,Boon 12,U.S. Senate,,Todd Rokita,REP,10,1,0,11
+Warrick,Boon 12,U.S. Senate,,Joe Donnelly,DEM,22,14,0,36
+Warrick,Boon 12,U.S. House,8,Larry D. Bucshon,REP,17,9,0,26
+Warrick,Boon 12,U.S. House,8,Rachel Covington,REP,3,1,0,4
+Warrick,Boon 12,U.S. House,8,Richard Moss,REP,8,3,0,11
+Warrick,Boon 12,U.S. House,8,William Tanoos,DEM,17,13,0,30
+Warrick,Boon 12,State Senate,48,Mark Messmer,REP,22,13,0,35
+Warrick,Boon 12,State Senate,48,No Candidate Filed,DEM,0,0,0,0
+Warrick,Boon 12,State House,75,Ron Bacon,REP,24,14,0,38
+Warrick,Boon 12,State House,75,John Hurley,DEM,20,13,0,33
+Warrick,Boon 13,Ballots Cast,,,,70,8,0,78
+Warrick,Boon 13,Registered Voters,,,,,,,449
+Warrick,Boon 13,U.S. Senate,,Mike Braun,REP,21,3,0,24
+Warrick,Boon 13,U.S. Senate,,Luke Messer,REP,14,0,0,14
+Warrick,Boon 13,U.S. Senate,,Todd Rokita,REP,12,1,0,13
+Warrick,Boon 13,U.S. Senate,,Joe Donnelly,DEM,17,2,0,19
+Warrick,Boon 13,U.S. House,8,Larry D. Bucshon,REP,34,3,0,37
+Warrick,Boon 13,U.S. House,8,Rachel Covington,REP,4,1,0,5
+Warrick,Boon 13,U.S. House,8,Richard Moss,REP,10,1,0,11
+Warrick,Boon 13,U.S. House,8,William Tanoos,DEM,14,2,0,16
+Warrick,Boon 13,State Senate,48,Mark Messmer,REP,43,4,0,47
+Warrick,Boon 13,State Senate,48,No Candidate Filed,DEM,0,0,0,0
+Warrick,Boon 13,State House,75,Ron Bacon,REP,47,5,0,52
+Warrick,Boon 13,State House,75,John Hurley,DEM,14,2,0,16
+Warrick,Boon 14,Ballots Cast,,,,21,0,0,21
+Warrick,Boon 14,Registered Voters,,,,,,,284
+Warrick,Boon 14,U.S. Senate,,Mike Braun,REP,7,0,0,7
+Warrick,Boon 14,U.S. Senate,,Luke Messer,REP,1,0,0,1
+Warrick,Boon 14,U.S. Senate,,Todd Rokita,REP,1,0,0,1
+Warrick,Boon 14,U.S. Senate,,Joe Donnelly,DEM,10,0,0,10
+Warrick,Boon 14,U.S. House,8,Larry D. Bucshon,REP,4,0,0,4
+Warrick,Boon 14,U.S. House,8,Rachel Covington,REP,5,0,0,5
+Warrick,Boon 14,U.S. House,8,Richard Moss,REP,1,0,0,1
+Warrick,Boon 14,U.S. House,8,William Tanoos,DEM,8,0,0,8
+Warrick,Boon 14,State House,75,Ron Bacon,REP,9,0,0,9
+Warrick,Boon 14,State House,75,John Hurley,DEM,9,0,0,9
+Warrick,Boon 15,Ballots Cast,,,,119,37,0,156
+Warrick,Boon 15,Registered Voters,,,,,,,1412
+Warrick,Boon 15,U.S. Senate,,Mike Braun,REP,45,11,0,56
+Warrick,Boon 15,U.S. Senate,,Luke Messer,REP,17,3,0,20
+Warrick,Boon 15,U.S. Senate,,Todd Rokita,REP,28,6,0,34
+Warrick,Boon 15,U.S. Senate,,Joe Donnelly,DEM,18,11,0,29
+Warrick,Boon 15,U.S. House,8,Larry D. Bucshon,REP,71,16,0,87
+Warrick,Boon 15,U.S. House,8,Rachel Covington,REP,6,2,0,8
+Warrick,Boon 15,U.S. House,8,Richard Moss,REP,16,3,0,19
+Warrick,Boon 15,U.S. House,8,William Tanoos,DEM,20,13,0,33
+Warrick,Boon 15,State Senate,48,Mark Messmer,REP,83,16,0,99
+Warrick,Boon 15,State Senate,48,No Candidate Filed,DEM,0,0,0,0
+Warrick,Boon 15,State House,75,Ron Bacon,REP,87,19,0,106
+Warrick,Boon 15,State House,75,John Hurley,DEM,20,13,0,33
+Warrick,Campbell,Ballots Cast,,,,98,6,0,104
+Warrick,Campbell,Registered Voters,,,,,,,749
+Warrick,Campbell,U.S. Senate,,Mike Braun,REP,49,3,0,52
+Warrick,Campbell,U.S. Senate,,Luke Messer,REP,14,0,0,14
+Warrick,Campbell,U.S. Senate,,Todd Rokita,REP,15,0,0,15
+Warrick,Campbell,U.S. Senate,,Joe Donnelly,DEM,14,2,0,16
+Warrick,Campbell,U.S. House,8,Larry D. Bucshon,REP,49,2,0,51
+Warrick,Campbell,U.S. House,8,Rachel Covington,REP,10,2,0,12
+Warrick,Campbell,U.S. House,8,Richard Moss,REP,22,0,0,22
+Warrick,Campbell,U.S. House,8,William Tanoos,DEM,14,2,0,16
+Warrick,Campbell,State House,75,Ron Bacon,REP,77,3,0,80
+Warrick,Campbell,State House,75,John Hurley,DEM,13,2,0,15
+Warrick,Greer 1,Ballots Cast,,,,120,8,0,128
+Warrick,Greer 1,Registered Voters,,,,,,,804
+Warrick,Greer 1,U.S. Senate,,Mike Braun,REP,50,7,0,57
+Warrick,Greer 1,U.S. Senate,,Luke Messer,REP,20,0,0,20
+Warrick,Greer 1,U.S. Senate,,Todd Rokita,REP,17,1,0,18
+Warrick,Greer 1,U.S. Senate,,Joe Donnelly,DEM,26,0,0,26
+Warrick,Greer 1,U.S. House,8,Larry D. Bucshon,REP,62,6,0,68
+Warrick,Greer 1,U.S. House,8,Rachel Covington,REP,6,1,0,7
+Warrick,Greer 1,U.S. House,8,Richard Moss,REP,20,1,0,21
+Warrick,Greer 1,U.S. House,8,William Tanoos,DEM,25,0,0,25
+Warrick,Greer 1,State House,75,Ron Bacon,REP,80,5,0,85
+Warrick,Greer 1,State House,75,John Hurley,DEM,25,0,0,25
+Warrick,Greer 2,Ballots Cast,,,,71,3,0,74
+Warrick,Greer 2,Registered Voters,,,,,,,527
+Warrick,Greer 2,U.S. Senate,,Mike Braun,REP,30,1,0,31
+Warrick,Greer 2,U.S. Senate,,Luke Messer,REP,9,0,0,9
+Warrick,Greer 2,U.S. Senate,,Todd Rokita,REP,15,2,0,17
+Warrick,Greer 2,U.S. Senate,,Joe Donnelly,DEM,13,0,0,13
+Warrick,Greer 2,U.S. House,8,Larry D. Bucshon,REP,36,1,0,37
+Warrick,Greer 2,U.S. House,8,Rachel Covington,REP,6,0,0,6
+Warrick,Greer 2,U.S. House,8,Richard Moss,REP,15,2,0,17
+Warrick,Greer 2,U.S. House,8,William Tanoos,DEM,11,0,0,11
+Warrick,Greer 2,State House,75,Ron Bacon,REP,54,2,0,56
+Warrick,Greer 2,State House,75,John Hurley,DEM,13,0,0,13
+Warrick,Hart 1,Ballots Cast,,,,191,15,0,206
+Warrick,Hart 1,Registered Voters,,,,,,,1002
+Warrick,Hart 1,U.S. Senate,,Mike Braun,REP,51,3,0,54
+Warrick,Hart 1,U.S. Senate,,Luke Messer,REP,25,0,0,25
+Warrick,Hart 1,U.S. Senate,,Todd Rokita,REP,15,5,0,20
+Warrick,Hart 1,U.S. Senate,,Joe Donnelly,DEM,72,5,0,77
+Warrick,Hart 1,U.S. House,8,Larry D. Bucshon,REP,52,3,0,55
+Warrick,Hart 1,U.S. House,8,Rachel Covington,REP,15,0,0,15
+Warrick,Hart 1,U.S. House,8,Richard Moss,REP,27,5,0,32
+Warrick,Hart 1,U.S. House,8,William Tanoos,DEM,49,4,0,53
+Warrick,Hart 1,State Senate,48,Mark Messmer,REP,72,4,0,76
+Warrick,Hart 1,State Senate,48,No Candidate Filed,DEM,0,0,0,0
+Warrick,Hart 1,State House,75,Ron Bacon,REP,76,3,0,79
+Warrick,Hart 1,State House,75,John Hurley,DEM,58,3,0,61
+Warrick,Hart 2,Ballots Cast,,,,10,0,0,10
+Warrick,Hart 2,Registered Voters,,,,,,,81
+Warrick,Hart 2,U.S. Senate,,Mike Braun,REP,4,0,0,4
+Warrick,Hart 2,U.S. Senate,,Luke Messer,REP,0,0,0,0
+Warrick,Hart 2,U.S. Senate,,Todd Rokita,REP,1,0,0,1
+Warrick,Hart 2,U.S. Senate,,Joe Donnelly,DEM,4,0,0,4
+Warrick,Hart 2,U.S. House,8,Larry D. Bucshon,REP,4,0,0,4
+Warrick,Hart 2,U.S. House,8,Rachel Covington,REP,1,0,0,1
+Warrick,Hart 2,U.S. House,8,Richard Moss,REP,0,0,0,0
+Warrick,Hart 2,U.S. House,8,William Tanoos,DEM,3,0,0,3
+Warrick,Hart 2,State Senate,48,Mark Messmer,REP,5,0,0,5
+Warrick,Hart 2,State Senate,48,No Candidate Filed,DEM,0,0,0,0
+Warrick,Hart 2,State House,75,Ron Bacon,REP,4,0,0,4
+Warrick,Hart 2,State House,75,John Hurley,DEM,2,0,0,2
+Warrick,Lane,Ballots Cast,,,,24,0,0,24
+Warrick,Lane,Registered Voters,,,,,,,169
+Warrick,Lane,U.S. Senate,,Mike Braun,REP,6,0,0,6
+Warrick,Lane,U.S. Senate,,Luke Messer,REP,6,0,0,6
+Warrick,Lane,U.S. Senate,,Todd Rokita,REP,4,0,0,4
+Warrick,Lane,U.S. Senate,,Joe Donnelly,DEM,4,0,0,4
+Warrick,Lane,U.S. House,8,Larry D. Bucshon,REP,12,0,0,12
+Warrick,Lane,U.S. House,8,Rachel Covington,REP,2,0,0,2
+Warrick,Lane,U.S. House,8,Richard Moss,REP,3,0,0,3
+Warrick,Lane,U.S. House,8,William Tanoos,DEM,3,0,0,3
+Warrick,Lane,State Senate,48,Mark Messmer,REP,15,0,0,15
+Warrick,Lane,State Senate,48,No Candidate Filed,DEM,0,0,0,0
+Warrick,Lane,State House,75,Ron Bacon,REP,16,0,0,16
+Warrick,Lane,State House,75,John Hurley,DEM,3,0,0,3
+Warrick,Ohio 1,Ballots Cast,,,,124,21,0,145
+Warrick,Ohio 1,Registered Voters,,,,,,,1181
+Warrick,Ohio 1,U.S. Senate,,Mike Braun,REP,47,4,0,51
+Warrick,Ohio 1,U.S. Senate,,Luke Messer,REP,19,3,0,22
+Warrick,Ohio 1,U.S. Senate,,Todd Rokita,REP,25,7,0,32
+Warrick,Ohio 1,U.S. Senate,,Joe Donnelly,DEM,27,7,0,34
+Warrick,Ohio 1,U.S. House,8,Larry D. Bucshon,REP,62,8,0,70
+Warrick,Ohio 1,U.S. House,8,Rachel Covington,REP,12,3,0,15
+Warrick,Ohio 1,U.S. House,8,Richard Moss,REP,18,2,0,20
+Warrick,Ohio 1,U.S. House,8,William Tanoos,DEM,26,7,0,33
+Warrick,Ohio 1,State House,75,Ron Bacon,REP,82,13,0,95
+Warrick,Ohio 1,State House,75,John Hurley,DEM,25,7,0,32
+Warrick,Ohio 2,Ballots Cast,,,,147,16,0,163
+Warrick,Ohio 2,Registered Voters,,,,,,,991
+Warrick,Ohio 2,U.S. Senate,,Mike Braun,REP,52,7,0,59
+Warrick,Ohio 2,U.S. Senate,,Luke Messer,REP,22,0,0,22
+Warrick,Ohio 2,U.S. Senate,,Todd Rokita,REP,36,5,0,41
+Warrick,Ohio 2,U.S. Senate,,Joe Donnelly,DEM,30,3,0,33
+Warrick,Ohio 2,U.S. House,8,Larry D. Bucshon,REP,80,10,0,90
+Warrick,Ohio 2,U.S. House,8,Rachel Covington,REP,10,0,0,10
+Warrick,Ohio 2,U.S. House,8,Richard Moss,REP,21,2,0,23
+Warrick,Ohio 2,U.S. House,8,William Tanoos,DEM,30,2,0,32
+Warrick,Ohio 2,State House,75,Ron Bacon,REP,97,11,0,108
+Warrick,Ohio 2,State House,75,John Hurley,DEM,27,1,0,28
+Warrick,Ohio 3,Ballots Cast,,,,86,5,0,91
+Warrick,Ohio 3,Registered Voters,,,,,,,555
+Warrick,Ohio 3,U.S. Senate,,Mike Braun,REP,29,2,0,31
+Warrick,Ohio 3,U.S. Senate,,Luke Messer,REP,13,0,0,13
+Warrick,Ohio 3,U.S. Senate,,Todd Rokita,REP,14,3,0,17
+Warrick,Ohio 3,U.S. Senate,,Joe Donnelly,DEM,22,0,0,22
+Warrick,Ohio 3,U.S. House,8,Larry D. Bucshon,REP,42,5,0,47
+Warrick,Ohio 3,U.S. House,8,Rachel Covington,REP,8,0,0,8
+Warrick,Ohio 3,U.S. House,8,Richard Moss,REP,11,0,0,11
+Warrick,Ohio 3,U.S. House,8,William Tanoos,DEM,23,0,0,23
+Warrick,Ohio 3,State House,78,Holli Sullivan,REP,51,3,0,54
+Warrick,Ohio 3,State House,78,No Candidate Filed,DEM,0,0,0,0
+Warrick,Ohio 4,Ballots Cast,,,,74,5,0,79
+Warrick,Ohio 4,Registered Voters,,,,,,,420
+Warrick,Ohio 4,U.S. Senate,,Mike Braun,REP,19,4,0,23
+Warrick,Ohio 4,U.S. Senate,,Luke Messer,REP,9,1,0,10
+Warrick,Ohio 4,U.S. Senate,,Todd Rokita,REP,8,0,0,8
+Warrick,Ohio 4,U.S. Senate,,Joe Donnelly,DEM,35,0,0,35
+Warrick,Ohio 4,U.S. House,8,Larry D. Bucshon,REP,20,4,0,24
+Warrick,Ohio 4,U.S. House,8,Rachel Covington,REP,7,1,0,8
+Warrick,Ohio 4,U.S. House,8,Richard Moss,REP,9,0,0,9
+Warrick,Ohio 4,U.S. House,8,William Tanoos,DEM,28,0,0,28
+Warrick,Ohio 4,State House,78,Holli Sullivan,REP,32,4,0,36
+Warrick,Ohio 4,State House,78,No Candidate Filed,DEM,0,0,0,0
+Warrick,Ohio 5,Ballots Cast,,,,67,9,0,76
+Warrick,Ohio 5,Registered Voters,,,,,,,881
+Warrick,Ohio 5,U.S. Senate,,Mike Braun,REP,18,1,0,19
+Warrick,Ohio 5,U.S. Senate,,Luke Messer,REP,6,0,0,6
+Warrick,Ohio 5,U.S. Senate,,Todd Rokita,REP,13,2,0,15
+Warrick,Ohio 5,U.S. Senate,,Joe Donnelly,DEM,28,5,0,33
+Warrick,Ohio 5,U.S. House,8,Larry D. Bucshon,REP,26,1,0,27
+Warrick,Ohio 5,U.S. House,8,Rachel Covington,REP,7,0,0,7
+Warrick,Ohio 5,U.S. House,8,Richard Moss,REP,4,2,0,6
+Warrick,Ohio 5,U.S. House,8,William Tanoos,DEM,28,4,0,32
+Warrick,Ohio 5,State House,75,Ron Bacon,REP,38,2,0,40
+Warrick,Ohio 5,State House,75,John Hurley,DEM,26,3,0,29
+Warrick,Ohio 6,Ballots Cast,,,,50,8,0,58
+Warrick,Ohio 6,Registered Voters,,,,,,,338
+Warrick,Ohio 6,U.S. Senate,,Mike Braun,REP,19,4,0,23
+Warrick,Ohio 6,U.S. Senate,,Luke Messer,REP,8,0,0,8
+Warrick,Ohio 6,U.S. Senate,,Todd Rokita,REP,11,4,0,15
+Warrick,Ohio 6,U.S. Senate,,Joe Donnelly,DEM,9,0,0,9
+Warrick,Ohio 6,U.S. House,8,Larry D. Bucshon,REP,25,7,0,32
+Warrick,Ohio 6,U.S. House,8,Rachel Covington,REP,6,0,0,6
+Warrick,Ohio 6,U.S. House,8,Richard Moss,REP,8,1,0,9
+Warrick,Ohio 6,U.S. House,8,William Tanoos,DEM,9,0,0,9
+Warrick,Ohio 6,State House,75,Ron Bacon,REP,34,8,0,42
+Warrick,Ohio 6,State House,75,John Hurley,DEM,10,0,0,10
+Warrick,Ohio 7,Ballots Cast,,,,92,5,0,97
+Warrick,Ohio 7,Registered Voters,,,,,,,738
+Warrick,Ohio 7,U.S. Senate,,Mike Braun,REP,22,1,0,23
+Warrick,Ohio 7,U.S. Senate,,Luke Messer,REP,9,1,0,10
+Warrick,Ohio 7,U.S. Senate,,Todd Rokita,REP,10,1,0,11
+Warrick,Ohio 7,U.S. Senate,,Joe Donnelly,DEM,44,2,0,46
+Warrick,Ohio 7,U.S. House,8,Larry D. Bucshon,REP,29,1,0,30
+Warrick,Ohio 7,U.S. House,8,Rachel Covington,REP,4,1,0,5
+Warrick,Ohio 7,U.S. House,8,Richard Moss,REP,12,1,0,13
+Warrick,Ohio 7,U.S. House,8,William Tanoos,DEM,38,2,0,40
+Warrick,Ohio 7,State House,75,Ron Bacon,REP,43,3,0,46
+Warrick,Ohio 7,State House,75,John Hurley,DEM,41,2,0,43
+Warrick,Ohio 8,Ballots Cast,,,,54,7,0,61
+Warrick,Ohio 8,Registered Voters,,,,,,,566
+Warrick,Ohio 8,U.S. Senate,,Mike Braun,REP,12,0,0,12
+Warrick,Ohio 8,U.S. Senate,,Luke Messer,REP,9,0,0,9
+Warrick,Ohio 8,U.S. Senate,,Todd Rokita,REP,13,0,0,13
+Warrick,Ohio 8,U.S. Senate,,Joe Donnelly,DEM,18,7,0,25
+Warrick,Ohio 8,U.S. House,8,Larry D. Bucshon,REP,23,0,0,23
+Warrick,Ohio 8,U.S. House,8,Rachel Covington,REP,7,0,0,7
+Warrick,Ohio 8,U.S. House,8,Richard Moss,REP,4,0,0,4
+Warrick,Ohio 8,U.S. House,8,William Tanoos,DEM,18,7,0,25
+Warrick,Ohio 8,State House,78,Holli Sullivan,REP,29,0,0,29
+Warrick,Ohio 8,State House,78,No Candidate Filed,DEM,0,0,0,0
+Warrick,Ohio 9,Ballots Cast,,,,81,7,0,88
+Warrick,Ohio 9,Registered Voters,,,,,,,949
+Warrick,Ohio 9,U.S. Senate,,Mike Braun,REP,28,0,0,28
+Warrick,Ohio 9,U.S. Senate,,Luke Messer,REP,6,3,0,9
+Warrick,Ohio 9,U.S. Senate,,Todd Rokita,REP,21,2,0,23
+Warrick,Ohio 9,U.S. Senate,,Joe Donnelly,DEM,22,1,0,23
+Warrick,Ohio 9,U.S. House,8,Larry D. Bucshon,REP,34,3,0,37
+Warrick,Ohio 9,U.S. House,8,Rachel Covington,REP,8,0,0,8
+Warrick,Ohio 9,U.S. House,8,Richard Moss,REP,17,2,0,19
+Warrick,Ohio 9,U.S. House,8,William Tanoos,DEM,20,1,0,21
+Warrick,Ohio 9,State House,78,Holli Sullivan,REP,51,5,0,56
+Warrick,Ohio 9,State House,78,No Candidate Filed,DEM,0,0,0,0
+Warrick,Ohio 10,Ballots Cast,,,,135,57,0,192
+Warrick,Ohio 10,Registered Voters,,,,,,,1196
+Warrick,Ohio 10,U.S. Senate,,Mike Braun,REP,53,14,0,67
+Warrick,Ohio 10,U.S. Senate,,Luke Messer,REP,14,6,0,20
+Warrick,Ohio 10,U.S. Senate,,Todd Rokita,REP,24,7,0,31
+Warrick,Ohio 10,U.S. Senate,,Joe Donnelly,DEM,32,25,0,57
+Warrick,Ohio 10,U.S. House,8,Larry D. Bucshon,REP,70,21,0,91
+Warrick,Ohio 10,U.S. House,8,Rachel Covington,REP,6,5,0,11
+Warrick,Ohio 10,U.S. House,8,Richard Moss,REP,23,2,0,25
+Warrick,Ohio 10,U.S. House,8,William Tanoos,DEM,32,23,0,55
+Warrick,Ohio 10,State House,78,Holli Sullivan,REP,81,19,0,100
+Warrick,Ohio 10,State House,78,No Candidate Filed,DEM,0,0,0,0
+Warrick,Ohio 11,Ballots Cast,,,,110,11,0,121
+Warrick,Ohio 11,Registered Voters,,,,,,,922
+Warrick,Ohio 11,U.S. Senate,,Mike Braun,REP,41,6,0,47
+Warrick,Ohio 11,U.S. Senate,,Luke Messer,REP,13,2,0,15
+Warrick,Ohio 11,U.S. Senate,,Todd Rokita,REP,24,2,0,26
+Warrick,Ohio 11,U.S. Senate,,Joe Donnelly,DEM,25,1,0,26
+Warrick,Ohio 11,U.S. House,8,Larry D. Bucshon,REP,43,4,0,47
+Warrick,Ohio 11,U.S. House,8,Rachel Covington,REP,13,0,0,13
+Warrick,Ohio 11,U.S. House,8,Richard Moss,REP,28,6,0,34
+Warrick,Ohio 11,U.S. House,8,William Tanoos,DEM,20,1,0,21
+Warrick,Ohio 11,State House,75,Ron Bacon,REP,76,10,0,86
+Warrick,Ohio 11,State House,75,John Hurley,DEM,20,1,0,21
+Warrick,Ohio 12,Ballots Cast,,,,123,13,0,136
+Warrick,Ohio 12,Registered Voters,,,,,,,1068
+Warrick,Ohio 12,U.S. Senate,,Mike Braun,REP,46,4,0,50
+Warrick,Ohio 12,U.S. Senate,,Luke Messer,REP,21,0,0,21
+Warrick,Ohio 12,U.S. Senate,,Todd Rokita,REP,19,3,0,22
+Warrick,Ohio 12,U.S. Senate,,Joe Donnelly,DEM,29,4,0,33
+Warrick,Ohio 12,U.S. House,8,Larry D. Bucshon,REP,64,4,0,68
+Warrick,Ohio 12,U.S. House,8,Rachel Covington,REP,12,0,0,12
+Warrick,Ohio 12,U.S. House,8,Richard Moss,REP,16,3,0,19
+Warrick,Ohio 12,U.S. House,8,William Tanoos,DEM,26,4,0,30
+Warrick,Ohio 12,State House,75,Ron Bacon,REP,77,4,0,81
+Warrick,Ohio 12,State House,75,John Hurley,DEM,27,5,0,32
+Warrick,Ohio 13,Ballots Cast,,,,178,44,0,222
+Warrick,Ohio 13,Registered Voters,,,,,,,1401
+Warrick,Ohio 13,U.S. Senate,,Mike Braun,REP,65,12,0,77
+Warrick,Ohio 13,U.S. Senate,,Luke Messer,REP,26,5,0,31
+Warrick,Ohio 13,U.S. Senate,,Todd Rokita,REP,46,7,0,53
+Warrick,Ohio 13,U.S. Senate,,Joe Donnelly,DEM,32,19,0,51
+Warrick,Ohio 13,U.S. House,8,Larry D. Bucshon,REP,90,21,0,111
+Warrick,Ohio 13,U.S. House,8,Rachel Covington,REP,15,1,0,16
+Warrick,Ohio 13,U.S. House,8,Richard Moss,REP,36,3,0,39
+Warrick,Ohio 13,U.S. House,8,William Tanoos,DEM,27,19,0,46
+Warrick,Ohio 13,State House,75,Ron Bacon,REP,127,17,0,144
+Warrick,Ohio 13,State House,75,John Hurley,DEM,28,17,0,45
+Warrick,Ohio 14,Ballots Cast,,,,112,15,0,127
+Warrick,Ohio 14,Registered Voters,,,,,,,1209
+Warrick,Ohio 14,U.S. Senate,,Mike Braun,REP,40,4,0,44
+Warrick,Ohio 14,U.S. Senate,,Luke Messer,REP,9,1,0,10
+Warrick,Ohio 14,U.S. Senate,,Todd Rokita,REP,13,3,0,16
+Warrick,Ohio 14,U.S. Senate,,Joe Donnelly,DEM,44,7,0,51
+Warrick,Ohio 14,U.S. House,8,Larry D. Bucshon,REP,42,7,0,49
+Warrick,Ohio 14,U.S. House,8,Rachel Covington,REP,4,0,0,4
+Warrick,Ohio 14,U.S. House,8,Richard Moss,REP,17,1,0,18
+Warrick,Ohio 14,U.S. House,8,William Tanoos,DEM,37,7,0,44
+Warrick,Ohio 14,State House,75,Ron Bacon,REP,56,7,0,63
+Warrick,Ohio 14,State House,75,John Hurley,DEM,39,6,0,45
+Warrick,Ohio 15,Ballots Cast,,,,90,12,0,102
+Warrick,Ohio 15,Registered Voters,,,,,,,995
+Warrick,Ohio 15,U.S. Senate,,Mike Braun,REP,32,4,0,36
+Warrick,Ohio 15,U.S. Senate,,Luke Messer,REP,15,0,0,15
+Warrick,Ohio 15,U.S. Senate,,Todd Rokita,REP,16,4,0,20
+Warrick,Ohio 15,U.S. Senate,,Joe Donnelly,DEM,21,2,0,23
+Warrick,Ohio 15,U.S. House,8,Larry D. Bucshon,REP,36,4,0,40
+Warrick,Ohio 15,U.S. House,8,Rachel Covington,REP,9,0,0,9
+Warrick,Ohio 15,U.S. House,8,Richard Moss,REP,22,3,0,25
+Warrick,Ohio 15,U.S. House,8,William Tanoos,DEM,21,2,0,23
+Warrick,Ohio 15,State House,75,Ron Bacon,REP,58,6,0,64
+Warrick,Ohio 15,State House,75,John Hurley,DEM,20,2,0,22
+Warrick,Ohio 16,Ballots Cast,,,,74,4,0,78
+Warrick,Ohio 16,Registered Voters,,,,,,,472
+Warrick,Ohio 16,U.S. Senate,,Mike Braun,REP,22,0,0,22
+Warrick,Ohio 16,U.S. Senate,,Luke Messer,REP,11,0,0,11
+Warrick,Ohio 16,U.S. Senate,,Todd Rokita,REP,23,0,0,23
+Warrick,Ohio 16,U.S. Senate,,Joe Donnelly,DEM,17,4,0,21
+Warrick,Ohio 16,U.S. House,8,Larry D. Bucshon,REP,38,0,0,38
+Warrick,Ohio 16,U.S. House,8,Rachel Covington,REP,2,0,0,2
+Warrick,Ohio 16,U.S. House,8,Richard Moss,REP,15,0,0,15
+Warrick,Ohio 16,U.S. House,8,William Tanoos,DEM,17,4,0,21
+Warrick,Ohio 16,State House,75,Ron Bacon,REP,53,0,0,53
+Warrick,Ohio 16,State House,75,John Hurley,DEM,16,4,0,20
+Warrick,Ohio 17,Ballots Cast,,,,87,2,0,89
+Warrick,Ohio 17,Registered Voters,,,,,,,616
+Warrick,Ohio 17,U.S. Senate,,Mike Braun,REP,37,0,0,37
+Warrick,Ohio 17,U.S. Senate,,Luke Messer,REP,11,0,0,11
+Warrick,Ohio 17,U.S. Senate,,Todd Rokita,REP,20,1,0,21
+Warrick,Ohio 17,U.S. Senate,,Joe Donnelly,DEM,16,1,0,17
+Warrick,Ohio 17,U.S. House,8,Larry D. Bucshon,REP,42,1,0,43
+Warrick,Ohio 17,U.S. House,8,Rachel Covington,REP,12,0,0,12
+Warrick,Ohio 17,U.S. House,8,Richard Moss,REP,16,0,0,16
+Warrick,Ohio 17,U.S. House,8,William Tanoos,DEM,16,0,0,16
+Warrick,Ohio 17,State House,75,Ron Bacon,REP,65,1,0,66
+Warrick,Ohio 17,State House,75,John Hurley,DEM,13,0,0,13
+Warrick,Ohio 18,Ballots Cast,,,,114,9,0,123
+Warrick,Ohio 18,Registered Voters,,,,,,,1190
+Warrick,Ohio 18,U.S. Senate,,Mike Braun,REP,49,5,0,54
+Warrick,Ohio 18,U.S. Senate,,Luke Messer,REP,12,0,0,12
+Warrick,Ohio 18,U.S. Senate,,Todd Rokita,REP,33,3,0,36
+Warrick,Ohio 18,U.S. Senate,,Joe Donnelly,DEM,19,1,0,20
+Warrick,Ohio 18,U.S. House,8,Larry D. Bucshon,REP,59,6,0,65
+Warrick,Ohio 18,U.S. House,8,Rachel Covington,REP,8,0,0,8
+Warrick,Ohio 18,U.S. House,8,Richard Moss,REP,24,2,0,26
+Warrick,Ohio 18,U.S. House,8,William Tanoos,DEM,17,1,0,18
+Warrick,Ohio 18,State House,75,Ron Bacon,REP,82,8,0,90
+Warrick,Ohio 18,State House,75,John Hurley,DEM,18,1,0,19
+Warrick,Ohio 19,Ballots Cast,,,,113,12,0,125
+Warrick,Ohio 19,Registered Voters,,,,,,,735
+Warrick,Ohio 19,U.S. Senate,,Mike Braun,REP,46,8,0,54
+Warrick,Ohio 19,U.S. Senate,,Luke Messer,REP,11,4,0,15
+Warrick,Ohio 19,U.S. Senate,,Todd Rokita,REP,25,0,0,25
+Warrick,Ohio 19,U.S. Senate,,Joe Donnelly,DEM,24,0,0,24
+Warrick,Ohio 19,U.S. House,8,Larry D. Bucshon,REP,64,8,0,72
+Warrick,Ohio 19,U.S. House,8,Rachel Covington,REP,10,3,0,13
+Warrick,Ohio 19,U.S. House,8,Richard Moss,REP,11,1,0,12
+Warrick,Ohio 19,U.S. House,8,William Tanoos,DEM,24,0,0,24
+Warrick,Ohio 19,State House,75,Ron Bacon,REP,76,8,0,84
+Warrick,Ohio 19,State House,75,John Hurley,DEM,25,0,0,25
+Warrick,Ohio 20,Ballots Cast,,,,164,14,0,178
+Warrick,Ohio 20,Registered Voters,,,,,,,1106
+Warrick,Ohio 20,U.S. Senate,,Mike Braun,REP,63,4,0,67
+Warrick,Ohio 20,U.S. Senate,,Luke Messer,REP,24,1,0,25
+Warrick,Ohio 20,U.S. Senate,,Todd Rokita,REP,27,3,0,30
+Warrick,Ohio 20,U.S. Senate,,Joe Donnelly,DEM,38,3,0,41
+Warrick,Ohio 20,U.S. House,8,Larry D. Bucshon,REP,83,5,0,88
+Warrick,Ohio 20,U.S. House,8,Rachel Covington,REP,10,2,0,12
+Warrick,Ohio 20,U.S. House,8,Richard Moss,REP,23,2,0,25
+Warrick,Ohio 20,U.S. House,8,William Tanoos,DEM,36,4,0,40
+Warrick,Ohio 20,State House,78,Holli Sullivan,REP,106,8,0,114
+Warrick,Ohio 20,State House,78,No Candidate Filed,DEM,0,0,0,0
+Warrick,Ohio 21,Ballots Cast,,,,150,36,0,186
+Warrick,Ohio 21,Registered Voters,,,,,,,1240
+Warrick,Ohio 21,U.S. Senate,,Mike Braun,REP,58,10,0,68
+Warrick,Ohio 21,U.S. Senate,,Luke Messer,REP,24,4,0,28
+Warrick,Ohio 21,U.S. Senate,,Todd Rokita,REP,26,11,0,37
+Warrick,Ohio 21,U.S. Senate,,Joe Donnelly,DEM,34,7,0,41
+Warrick,Ohio 21,U.S. House,8,Larry D. Bucshon,REP,80,20,0,100
+Warrick,Ohio 21,U.S. House,8,Rachel Covington,REP,13,4,0,17
+Warrick,Ohio 21,U.S. House,8,Richard Moss,REP,19,1,0,20
+Warrick,Ohio 21,U.S. House,8,William Tanoos,DEM,30,6,0,36
+Warrick,Ohio 21,State House,78,Holli Sullivan,REP,99,14,0,113
+Warrick,Ohio 21,State House,78,No Candidate Filed,DEM,0,0,0,0
+Warrick,Ohio 22,Ballots Cast,,,,48,4,0,52
+Warrick,Ohio 22,Registered Voters,,,,,,,346
+Warrick,Ohio 22,U.S. Senate,,Mike Braun,REP,14,1,0,15
+Warrick,Ohio 22,U.S. Senate,,Luke Messer,REP,8,0,0,8
+Warrick,Ohio 22,U.S. Senate,,Todd Rokita,REP,11,0,0,11
+Warrick,Ohio 22,U.S. Senate,,Joe Donnelly,DEM,13,2,0,15
+Warrick,Ohio 22,U.S. House,8,Larry D. Bucshon,REP,20,0,0,20
+Warrick,Ohio 22,U.S. House,8,Rachel Covington,REP,3,0,0,3
+Warrick,Ohio 22,U.S. House,8,Richard Moss,REP,10,1,0,11
+Warrick,Ohio 22,U.S. House,8,William Tanoos,DEM,10,3,0,13
+Warrick,Ohio 22,State House,78,Holli Sullivan,REP,31,1,0,32
+Warrick,Ohio 22,State House,78,No Candidate Filed,DEM,0,0,0,0
+Warrick,Ohio 23,Ballots Cast,,,,96,13,0,109
+Warrick,Ohio 23,Registered Voters,,,,,,,1056
+Warrick,Ohio 23,U.S. Senate,,Mike Braun,REP,27,10,0,37
+Warrick,Ohio 23,U.S. Senate,,Luke Messer,REP,9,0,0,9
+Warrick,Ohio 23,U.S. Senate,,Todd Rokita,REP,19,1,0,20
+Warrick,Ohio 23,U.S. Senate,,Joe Donnelly,DEM,32,2,0,34
+Warrick,Ohio 23,U.S. House,8,Larry D. Bucshon,REP,37,8,0,45
+Warrick,Ohio 23,U.S. House,8,Rachel Covington,REP,4,0,0,4
+Warrick,Ohio 23,U.S. House,8,Richard Moss,REP,14,3,0,17
+Warrick,Ohio 23,U.S. House,8,William Tanoos,DEM,30,2,0,32
+Warrick,Ohio 23,State House,75,Ron Bacon,REP,51,9,0,60
+Warrick,Ohio 23,State House,75,John Hurley,DEM,31,2,0,33
+Warrick,Ohio 24,Ballots Cast,,,,79,5,0,84
+Warrick,Ohio 24,Registered Voters,,,,,,,663
+Warrick,Ohio 24,U.S. Senate,,Mike Braun,REP,22,2,0,24
+Warrick,Ohio 24,U.S. Senate,,Luke Messer,REP,10,0,0,10
+Warrick,Ohio 24,U.S. Senate,,Todd Rokita,REP,19,0,0,19
+Warrick,Ohio 24,U.S. Senate,,Joe Donnelly,DEM,20,2,0,22
+Warrick,Ohio 24,U.S. House,8,Larry D. Bucshon,REP,34,2,0,36
+Warrick,Ohio 24,U.S. House,8,Rachel Covington,REP,5,0,0,5
+Warrick,Ohio 24,U.S. House,8,Richard Moss,REP,14,0,0,14
+Warrick,Ohio 24,U.S. House,8,William Tanoos,DEM,17,2,0,19
+Warrick,Ohio 24,State House,75,Ron Bacon,REP,50,2,0,52
+Warrick,Ohio 24,State House,75,John Hurley,DEM,20,2,0,22
+Warrick,Ohio 25,Ballots Cast,,,,91,14,0,105
+Warrick,Ohio 25,Registered Voters,,,,,,,666
+Warrick,Ohio 25,U.S. Senate,,Mike Braun,REP,33,6,0,39
+Warrick,Ohio 25,U.S. Senate,,Luke Messer,REP,19,1,0,20
+Warrick,Ohio 25,U.S. Senate,,Todd Rokita,REP,18,3,0,21
+Warrick,Ohio 25,U.S. Senate,,Joe Donnelly,DEM,15,2,0,17
+Warrick,Ohio 25,U.S. House,8,Larry D. Bucshon,REP,50,9,0,59
+Warrick,Ohio 25,U.S. House,8,Rachel Covington,REP,6,0,0,6
+Warrick,Ohio 25,U.S. House,8,Richard Moss,REP,14,1,0,15
+Warrick,Ohio 25,U.S. House,8,William Tanoos,DEM,14,2,0,16
+Warrick,Ohio 25,State House,75,Ron Bacon,REP,63,11,0,74
+Warrick,Ohio 25,State House,75,John Hurley,DEM,15,2,0,17
+Warrick,Ohio 26,Ballots Cast,,,,100,7,0,107
+Warrick,Ohio 26,Registered Voters,,,,,,,1270
+Warrick,Ohio 26,U.S. Senate,,Mike Braun,REP,41,2,0,43
+Warrick,Ohio 26,U.S. Senate,,Luke Messer,REP,8,1,0,9
+Warrick,Ohio 26,U.S. Senate,,Todd Rokita,REP,27,0,0,27
+Warrick,Ohio 26,U.S. Senate,,Joe Donnelly,DEM,18,4,0,22
+Warrick,Ohio 26,U.S. House,8,Larry D. Bucshon,REP,54,2,0,56
+Warrick,Ohio 26,U.S. House,8,Rachel Covington,REP,4,0,0,4
+Warrick,Ohio 26,U.S. House,8,Richard Moss,REP,19,1,0,20
+Warrick,Ohio 26,U.S. House,8,William Tanoos,DEM,20,3,0,23
+Warrick,Ohio 26,State House,75,Ron Bacon,REP,68,2,0,70
+Warrick,Ohio 26,State House,75,John Hurley,DEM,20,3,0,23
+Warrick,Ohio 27,Ballots Cast,,,,114,9,0,123
+Warrick,Ohio 27,Registered Voters,,,,,,,791
+Warrick,Ohio 27,U.S. Senate,,Mike Braun,REP,47,5,0,52
+Warrick,Ohio 27,U.S. Senate,,Luke Messer,REP,15,0,0,15
+Warrick,Ohio 27,U.S. Senate,,Todd Rokita,REP,21,4,0,25
+Warrick,Ohio 27,U.S. Senate,,Joe Donnelly,DEM,28,0,0,28
+Warrick,Ohio 27,U.S. House,8,Larry D. Bucshon,REP,64,8,0,72
+Warrick,Ohio 27,U.S. House,8,Rachel Covington,REP,10,0,0,10
+Warrick,Ohio 27,U.S. House,8,Richard Moss,REP,12,1,0,13
+Warrick,Ohio 27,U.S. House,8,William Tanoos,DEM,25,0,0,25
+Warrick,Ohio 27,State House,75,Ron Bacon,REP,78,7,0,85
+Warrick,Ohio 27,State House,75,John Hurley,DEM,25,0,0,25
+Warrick,Ohio 28,Ballots Cast,,,,144,8,0,152
+Warrick,Ohio 28,Registered Voters,,,,,,,871
+Warrick,Ohio 28,U.S. Senate,,Mike Braun,REP,67,6,0,73
+Warrick,Ohio 28,U.S. Senate,,Luke Messer,REP,27,0,0,27
+Warrick,Ohio 28,U.S. Senate,,Todd Rokita,REP,20,0,0,20
+Warrick,Ohio 28,U.S. Senate,,Joe Donnelly,DEM,23,2,0,25
+Warrick,Ohio 28,U.S. House,8,Larry D. Bucshon,REP,95,4,0,99
+Warrick,Ohio 28,U.S. House,8,Rachel Covington,REP,6,0,0,6
+Warrick,Ohio 28,U.S. House,8,Richard Moss,REP,14,2,0,16
+Warrick,Ohio 28,U.S. House,8,William Tanoos,DEM,22,2,0,24
+Warrick,Ohio 28,State House,78,Holli Sullivan,REP,108,4,0,112
+Warrick,Ohio 28,State House,78,No Candidate Filed,DEM,0,0,0,0
+Warrick,Ohio 29,Ballots Cast,,,,123,13,0,136
+Warrick,Ohio 29,Registered Voters,,,,,,,931
+Warrick,Ohio 29,U.S. Senate,,Mike Braun,REP,46,5,0,51
+Warrick,Ohio 29,U.S. Senate,,Luke Messer,REP,16,3,0,19
+Warrick,Ohio 29,U.S. Senate,,Todd Rokita,REP,34,2,0,36
+Warrick,Ohio 29,U.S. Senate,,Joe Donnelly,DEM,23,2,0,25
+Warrick,Ohio 29,U.S. House,8,Larry D. Bucshon,REP,76,9,0,85
+Warrick,Ohio 29,U.S. House,8,Rachel Covington,REP,5,1,0,6
+Warrick,Ohio 29,U.S. House,8,Richard Moss,REP,17,0,0,17
+Warrick,Ohio 29,U.S. House,8,William Tanoos,DEM,22,3,0,25
+Warrick,Ohio 29,State House,75,Ron Bacon,REP,91,7,0,98
+Warrick,Ohio 29,State House,75,John Hurley,DEM,21,2,0,23
+Warrick,Ohio 30,Ballots Cast,,,,68,9,0,77
+Warrick,Ohio 30,Registered Voters,,,,,,,426
+Warrick,Ohio 30,U.S. Senate,,Mike Braun,REP,21,4,0,25
+Warrick,Ohio 30,U.S. Senate,,Luke Messer,REP,16,0,0,16
+Warrick,Ohio 30,U.S. Senate,,Todd Rokita,REP,20,2,0,22
+Warrick,Ohio 30,U.S. Senate,,Joe Donnelly,DEM,9,3,0,12
+Warrick,Ohio 30,U.S. House,8,Larry D. Bucshon,REP,39,6,0,45
+Warrick,Ohio 30,U.S. House,8,Rachel Covington,REP,6,0,0,6
+Warrick,Ohio 30,U.S. House,8,Richard Moss,REP,13,0,0,13
+Warrick,Ohio 30,U.S. House,8,William Tanoos,DEM,9,3,0,12
+Warrick,Ohio 30,State House,75,Ron Bacon,REP,49,5,0,54
+Warrick,Ohio 30,State House,75,John Hurley,DEM,9,3,0,12
+Warrick,Ohio 31,Ballots Cast,,,,158,23,0,181
+Warrick,Ohio 31,Registered Voters,,,,,,,1337
+Warrick,Ohio 31,U.S. Senate,,Mike Braun,REP,49,5,0,54
+Warrick,Ohio 31,U.S. Senate,,Luke Messer,REP,24,0,0,24
+Warrick,Ohio 31,U.S. Senate,,Todd Rokita,REP,31,10,0,41
+Warrick,Ohio 31,U.S. Senate,,Joe Donnelly,DEM,46,7,0,53
+Warrick,Ohio 31,U.S. House,8,Larry D. Bucshon,REP,65,14,0,79
+Warrick,Ohio 31,U.S. House,8,Rachel Covington,REP,14,0,0,14
+Warrick,Ohio 31,U.S. House,8,Richard Moss,REP,27,1,0,28
+Warrick,Ohio 31,U.S. House,8,William Tanoos,DEM,45,7,0,52
+Warrick,Ohio 31,State House,78,Holli Sullivan,REP,99,13,0,112
+Warrick,Ohio 31,State House,78,No Candidate Filed,DEM,0,0,0,0
+Warrick,Ohio 32,Ballots Cast,,,,94,4,0,98
+Warrick,Ohio 32,Registered Voters,,,,,,,762
+Warrick,Ohio 32,U.S. Senate,,Mike Braun,REP,36,0,0,36
+Warrick,Ohio 32,U.S. Senate,,Luke Messer,REP,8,0,0,8
+Warrick,Ohio 32,U.S. Senate,,Todd Rokita,REP,22,0,0,22
+Warrick,Ohio 32,U.S. Senate,,Joe Donnelly,DEM,22,4,0,26
+Warrick,Ohio 32,U.S. House,8,Larry D. Bucshon,REP,42,0,0,42
+Warrick,Ohio 32,U.S. House,8,Rachel Covington,REP,8,0,0,8
+Warrick,Ohio 32,U.S. House,8,Richard Moss,REP,19,0,0,19
+Warrick,Ohio 32,U.S. House,8,William Tanoos,DEM,21,4,0,25
+Warrick,Ohio 32,State House,78,Holli Sullivan,REP,63,0,0,63
+Warrick,Ohio 32,State House,78,No Candidate Filed,DEM,0,0,0,0
+Warrick,Ohio 33,Ballots Cast,,,,85,12,0,97
+Warrick,Ohio 33,Registered Voters,,,,,,,840
+Warrick,Ohio 33,U.S. Senate,,Mike Braun,REP,38,4,0,42
+Warrick,Ohio 33,U.S. Senate,,Luke Messer,REP,13,2,0,15
+Warrick,Ohio 33,U.S. Senate,,Todd Rokita,REP,22,6,0,28
+Warrick,Ohio 33,U.S. Senate,,Joe Donnelly,DEM,8,0,0,8
+Warrick,Ohio 33,U.S. House,8,Larry D. Bucshon,REP,55,6,0,61
+Warrick,Ohio 33,U.S. House,8,Rachel Covington,REP,8,0,0,8
+Warrick,Ohio 33,U.S. House,8,Richard Moss,REP,11,6,0,17
+Warrick,Ohio 33,U.S. House,8,William Tanoos,DEM,8,0,0,8
+Warrick,Ohio 33,State House,75,Ron Bacon,REP,71,12,0,83
+Warrick,Ohio 33,State House,75,John Hurley,DEM,9,0,0,9
+Warrick,Owen,Ballots Cast,,,,74,4,0,78
+Warrick,Owen,Registered Voters,,,,,,,446
+Warrick,Owen,U.S. Senate,,Mike Braun,REP,23,2,0,25
+Warrick,Owen,U.S. Senate,,Luke Messer,REP,9,0,0,9
+Warrick,Owen,U.S. Senate,,Todd Rokita,REP,5,1,0,6
+Warrick,Owen,U.S. Senate,,Joe Donnelly,DEM,26,0,0,26
+Warrick,Owen,U.S. House,8,Larry D. Bucshon,REP,19,2,0,21
+Warrick,Owen,U.S. House,8,Rachel Covington,REP,0,0,0,0
+Warrick,Owen,U.S. House,8,Richard Moss,REP,21,1,0,22
+Warrick,Owen,U.S. House,8,William Tanoos,DEM,18,0,0,18
+Warrick,Owen,State Senate,48,Mark Messmer,REP,34,3,0,37
+Warrick,Owen,State Senate,48,No Candidate Filed,DEM,0,0,0,0
+Warrick,Owen,State House,75,Ron Bacon,REP,35,3,0,38
+Warrick,Owen,State House,75,John Hurley,DEM,19,0,0,19
+Warrick,Pigeon,Ballots Cast,,,,109,6,0,115
+Warrick,Pigeon,Registered Voters,,,,,,,672
+Warrick,Pigeon,U.S. Senate,,Mike Braun,REP,47,0,0,47
+Warrick,Pigeon,U.S. Senate,,Luke Messer,REP,18,0,0,18
+Warrick,Pigeon,U.S. Senate,,Todd Rokita,REP,11,0,0,11
+Warrick,Pigeon,U.S. Senate,,Joe Donnelly,DEM,27,3,0,30
+Warrick,Pigeon,U.S. House,8,Larry D. Bucshon,REP,47,0,0,47
+Warrick,Pigeon,U.S. House,8,Rachel Covington,REP,5,0,0,5
+Warrick,Pigeon,U.S. House,8,Richard Moss,REP,23,0,0,23
+Warrick,Pigeon,U.S. House,8,William Tanoos,DEM,23,3,0,26
+Warrick,Pigeon,State Senate,48,Mark Messmer,REP,63,0,0,63
+Warrick,Pigeon,State Senate,48,No Candidate Filed,DEM,0,0,0,0
+Warrick,Pigeon,State House,75,Ron Bacon,REP,65,0,0,65
+Warrick,Pigeon,State House,75,John Hurley,DEM,25,2,0,27
+Warrick,Skelton 1,Ballots Cast,,,,96,3,0,99
+Warrick,Skelton 1,Registered Voters,,,,,,,430
+Warrick,Skelton 1,U.S. Senate,,Mike Braun,REP,33,0,0,33
+Warrick,Skelton 1,U.S. Senate,,Luke Messer,REP,10,0,0,10
+Warrick,Skelton 1,U.S. Senate,,Todd Rokita,REP,10,0,0,10
+Warrick,Skelton 1,U.S. Senate,,Joe Donnelly,DEM,32,3,0,35
+Warrick,Skelton 1,U.S. House,8,Larry D. Bucshon,REP,29,0,0,29
+Warrick,Skelton 1,U.S. House,8,Rachel Covington,REP,10,0,0,10
+Warrick,Skelton 1,U.S. House,8,Richard Moss,REP,15,0,0,15
+Warrick,Skelton 1,U.S. House,8,William Tanoos,DEM,27,2,0,29
+Warrick,Skelton 1,State Senate,48,Mark Messmer,REP,45,0,0,45
+Warrick,Skelton 1,State Senate,48,No Candidate Filed,DEM,0,0,0,0
+Warrick,Skelton 1,State House,75,Ron Bacon,REP,48,0,0,48
+Warrick,Skelton 1,State House,75,John Hurley,DEM,28,3,0,31
+Warrick,Skelton 2,Ballots Cast,,,,101,11,0,112
+Warrick,Skelton 2,Registered Voters,,,,,,,739
+Warrick,Skelton 2,U.S. Senate,,Mike Braun,REP,48,2,0,50
+Warrick,Skelton 2,U.S. Senate,,Luke Messer,REP,12,2,0,14
+Warrick,Skelton 2,U.S. Senate,,Todd Rokita,REP,11,0,0,11
+Warrick,Skelton 2,U.S. Senate,,Joe Donnelly,DEM,25,4,0,29
+Warrick,Skelton 2,U.S. House,8,Larry D. Bucshon,REP,36,1,0,37
+Warrick,Skelton 2,U.S. House,8,Rachel Covington,REP,10,2,0,12
+Warrick,Skelton 2,U.S. House,8,Richard Moss,REP,25,2,0,27
+Warrick,Skelton 2,U.S. House,8,William Tanoos,DEM,16,4,0,20
+Warrick,Skelton 2,State Senate,48,Mark Messmer,REP,63,4,0,67
+Warrick,Skelton 2,State Senate,48,No Candidate Filed,DEM,0,0,0,0
+Warrick,Skelton 2,State House,75,Ron Bacon,REP,68,6,0,74
+Warrick,Skelton 2,State House,75,John Hurley,DEM,22,5,0,27

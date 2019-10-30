@@ -264,7 +264,7 @@ def main():
     pdf_in_dir = input('Enter folder location of .pdf files: ')
     
     pdf_lst = [f for f in listdir(pdf_in_dir) 
-               if (isfile(join(pdf_in_dir, f)) and f.endswith('.pdf') and 'general' in f)]
+               if (isfile(join(pdf_in_dir, f)) and f.endswith('.pdf'))]
     
     for pdf_filename in pdf_lst:
         pdf_file = pdf_in_dir + pdf_filename

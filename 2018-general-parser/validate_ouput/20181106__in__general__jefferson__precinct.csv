@@ -1,0 +1,737 @@
+county,precinct,office,district,party,candidate,votes
+Jefferson,1~1 ,State Auditor,,D,joselyn whitticker,225
+Jefferson,1~1 ,State Auditor,,L,john schick,14
+Jefferson,1~1 ,State Auditor,,R,tera klutz,168
+Jefferson,1~1 ,State House,66.0,D,terry goodin,267
+Jefferson,1~1 ,State House,66.0,R,mike bowling,147
+Jefferson,1~1 ,State Secretary,,D,jim harper,228
+Jefferson,1~1 ,State Secretary,,L,mark w rutherford,14
+Jefferson,1~1 ,State Secretary,,R,connie lawson,169
+Jefferson,1~1 ,State Secretary,,,write in,0
+Jefferson,1~1 ,State Senate,45.0,D,john perkins,226
+Jefferson,1~1 ,State Senate,45.0,L,charles johnson,18
+Jefferson,1~1 ,State Senate,45.0,R ,chris garlen,166
+Jefferson,1~1 ,State Treasurer,,D,john c aguilera,222
+Jefferson,1~1 ,State Treasurer,,R,kelly mitchell,184
+Jefferson,1~1 ,U.S. House,6.0,D,jeannine lee lake,233
+Jefferson,1~1 ,U.S. House,6.0,L,tom ferkinhoff,13
+Jefferson,1~1 ,U.S. House,6.0,R,greg pence,170
+Jefferson,1~1 ,U.S. House,6.0,,write in,0
+Jefferson,1~1 ,U.S. Senate,,D,joe donnelly,237
+Jefferson,1~1 ,U.S. Senate,,L,lucy m brenton,24
+Jefferson,1~1 ,U.S. Senate,,R,mike braun,158
+Jefferson,1~1 ,U.S. Senate,,,write in,0
+Jefferson,1~2,State Auditor,,D,joselyn whitticker,162
+Jefferson,1~2,State Auditor,,L,john schick,13
+Jefferson,1~2,State Auditor,,R,tera klutz,89
+Jefferson,1~2,State House,66.0,D,terry goodin,184
+Jefferson,1~2,State House,66.0,R,mike bowling,82
+Jefferson,1~2,State Secretary,,D,jim harper,153
+Jefferson,1~2,State Secretary,,L,mark w rutherford,12
+Jefferson,1~2,State Secretary,,R,connie lawson,99
+Jefferson,1~2,State Secretary,,,write in,0
+Jefferson,1~2,State Senate,45.0,D,john perkins,156
+Jefferson,1~2,State Senate,45.0,L,charles johnson,13
+Jefferson,1~2,State Senate,45.0,R ,chris garlen,98
+Jefferson,1~2,State Treasurer,,D,john c aguilera,161
+Jefferson,1~2,State Treasurer,,R,kelly mitchell,100
+Jefferson,1~2,U.S. House,6.0,D,jeannine lee lake,165
+Jefferson,1~2,U.S. House,6.0,L,tom ferkinhoff,12
+Jefferson,1~2,U.S. House,6.0,R,greg pence,93
+Jefferson,1~2,U.S. House,6.0,,write in,0
+Jefferson,1~2,U.S. Senate,,D,joe donnelly,161
+Jefferson,1~2,U.S. Senate,,L,lucy m brenton,21
+Jefferson,1~2,U.S. Senate,,R,mike braun,92
+Jefferson,1~2,U.S. Senate,,,write in,0
+Jefferson,2~1,State Auditor,,D,joselyn whitticker,180
+Jefferson,2~1,State Auditor,,L,john schick,15
+Jefferson,2~1,State Auditor,,R,tera klutz,212
+Jefferson,2~1,State House,66.0,D,terry goodin,239
+Jefferson,2~1,State House,66.0,R,mike bowling,175
+Jefferson,2~1,State Secretary,,D,jim harper,179
+Jefferson,2~1,State Secretary,,L,mark w rutherford,17
+Jefferson,2~1,State Secretary,,R,connie lawson,209
+Jefferson,2~1,State Secretary,,,write in,2
+Jefferson,2~1,State Senate,45.0,D,john perkins,189
+Jefferson,2~1,State Senate,45.0,L,charles johnson,12
+Jefferson,2~1,State Senate,45.0,R ,chris garlen,216
+Jefferson,2~1,State Treasurer,,D,john c aguilera,188
+Jefferson,2~1,State Treasurer,,R,kelly mitchell,217
+Jefferson,2~1,U.S. House,6.0,D,jeannine lee lake,203
+Jefferson,2~1,U.S. House,6.0,L,tom ferkinhoff,10
+Jefferson,2~1,U.S. House,6.0,R,greg pence,207
+Jefferson,2~1,U.S. House,6.0,,write in,0
+Jefferson,2~1,U.S. Senate,,D,joe donnelly,196
+Jefferson,2~1,U.S. Senate,,L,lucy m brenton,31
+Jefferson,2~1,U.S. Senate,,R,mike braun,190
+Jefferson,2~1,U.S. Senate,,,write in,1
+Jefferson,2~2,State Auditor,,D,joselyn whitticker,223
+Jefferson,2~2,State Auditor,,L,john schick,19
+Jefferson,2~2,State Auditor,,R,tera klutz,299
+Jefferson,2~2,State House,66.0,D,terry goodin,288
+Jefferson,2~2,State House,66.0,R,mike bowling,264
+Jefferson,2~2,State Secretary,,D,jim harper,220
+Jefferson,2~2,State Secretary,,L,mark w rutherford,16
+Jefferson,2~2,State Secretary,,R,connie lawson,309
+Jefferson,2~2,State Secretary,,,write in,1
+Jefferson,2~2,State Senate,45.0,D,john perkins,217
+Jefferson,2~2,State Senate,45.0,L,charles johnson,13
+Jefferson,2~2,State Senate,45.0,R ,chris garlen,318
+Jefferson,2~2,State Treasurer,,D,john c aguilera,211
+Jefferson,2~2,State Treasurer,,R,kelly mitchell,328
+Jefferson,2~2,U.S. House,6.0,D,jeannine lee lake,224
+Jefferson,2~2,U.S. House,6.0,L,tom ferkinhoff,13
+Jefferson,2~2,U.S. House,6.0,R,greg pence,317
+Jefferson,2~2,U.S. House,6.0,,write in,0
+Jefferson,2~2,U.S. Senate,,D,joe donnelly,235
+Jefferson,2~2,U.S. Senate,,L,lucy m brenton,19
+Jefferson,2~2,U.S. Senate,,R,mike braun,295
+Jefferson,2~2,U.S. Senate,,,write in,0
+Jefferson,3,State Auditor,,D,joselyn whitticker,150
+Jefferson,3,State Auditor,,L,john schick,11
+Jefferson,3,State Auditor,,R,tera klutz,160
+Jefferson,3,State House,66.0,D,terry goodin,173
+Jefferson,3,State House,66.0,R,mike bowling,151
+Jefferson,3,State Secretary,,D,jim harper,149
+Jefferson,3,State Secretary,,L,mark w rutherford,9
+Jefferson,3,State Secretary,,R,connie lawson,166
+Jefferson,3,State Secretary,,,write in,0
+Jefferson,3,State Senate,45.0,D,john perkins,145
+Jefferson,3,State Senate,45.0,L,charles johnson,11
+Jefferson,3,State Senate,45.0,R ,chris garlen,172
+Jefferson,3,State Treasurer,,D,john c aguilera,146
+Jefferson,3,State Treasurer,,R,kelly mitchell,173
+Jefferson,3,U.S. House,6.0,D,jeannine lee lake,150
+Jefferson,3,U.S. House,6.0,L,tom ferkinhoff,6
+Jefferson,3,U.S. House,6.0,R,greg pence,173
+Jefferson,3,U.S. House,6.0,,write in,0
+Jefferson,3,U.S. Senate,,D,joe donnelly,153
+Jefferson,3,U.S. Senate,,L,lucy m brenton,14
+Jefferson,3,U.S. Senate,,R,mike braun,160
+Jefferson,3,U.S. Senate,,,write in,0
+Jefferson,4~1,State Auditor,,D,joselyn whitticker,220
+Jefferson,4~1,State Auditor,,L,john schick,17
+Jefferson,4~1,State Auditor,,R,tera klutz,327
+Jefferson,4~1,State House,66.0,D,terry goodin,290
+Jefferson,4~1,State House,66.0,R,mike bowling,292
+Jefferson,4~1,State Secretary,,D,jim harper,220
+Jefferson,4~1,State Secretary,,L,mark w rutherford,14
+Jefferson,4~1,State Secretary,,R,connie lawson,334
+Jefferson,4~1,State Secretary,,,write in,0
+Jefferson,4~1,State Senate,45.0,D,john perkins,220
+Jefferson,4~1,State Senate,45.0,L,charles johnson,12
+Jefferson,4~1,State Senate,45.0,R ,chris garlen,343
+Jefferson,4~1,State Treasurer,,D,john c aguilera,221
+Jefferson,4~1,State Treasurer,,R,kelly mitchell,344
+Jefferson,4~1,U.S. House,6.0,D,jeannine lee lake,238
+Jefferson,4~1,U.S. House,6.0,L,tom ferkinhoff,7
+Jefferson,4~1,U.S. House,6.0,R,greg pence,341
+Jefferson,4~1,U.S. House,6.0,,write in,0
+Jefferson,4~1,U.S. Senate,,D,joe donnelly,245
+Jefferson,4~1,U.S. Senate,,L,lucy m brenton,20
+Jefferson,4~1,U.S. Senate,,R,mike braun,325
+Jefferson,4~1,U.S. Senate,,,write in,0
+Jefferson,4~1a,State Auditor,,D,joselyn whitticker,117
+Jefferson,4~1a,State Auditor,,L,john schick,10
+Jefferson,4~1a,State Auditor,,R,tera klutz,224
+Jefferson,4~1a,State House,66.0,D,terry goodin,169
+Jefferson,4~1a,State House,66.0,R,mike bowling,198
+Jefferson,4~1a,State Secretary,,D,jim harper,110
+Jefferson,4~1a,State Secretary,,L,mark w rutherford,12
+Jefferson,4~1a,State Secretary,,R,connie lawson,239
+Jefferson,4~1a,State Secretary,,,write in,0
+Jefferson,4~1a,State Senate,45.0,D,john perkins,113
+Jefferson,4~1a,State Senate,45.0,L,charles johnson,5
+Jefferson,4~1a,State Senate,45.0,R ,chris garlen,243
+Jefferson,4~1a,State Treasurer,,D,john c aguilera,112
+Jefferson,4~1a,State Treasurer,,R,kelly mitchell,237
+Jefferson,4~1a,U.S. House,6.0,D,jeannine lee lake,122
+Jefferson,4~1a,U.S. House,6.0,L,tom ferkinhoff,7
+Jefferson,4~1a,U.S. House,6.0,R,greg pence,240
+Jefferson,4~1a,U.S. House,6.0,,write in,0
+Jefferson,4~1a,U.S. Senate,,D,joe donnelly,136
+Jefferson,4~1a,U.S. Senate,,L,lucy m brenton,10
+Jefferson,4~1a,U.S. Senate,,R,mike braun,225
+Jefferson,4~1a,U.S. Senate,,,write in,0
+Jefferson,4~2,State Auditor,,D,joselyn whitticker,84
+Jefferson,4~2,State Auditor,,L,john schick,7
+Jefferson,4~2,State Auditor,,R,tera klutz,106
+Jefferson,4~2,State House,66.0,D,terry goodin,104
+Jefferson,4~2,State House,66.0,R,mike bowling,92
+Jefferson,4~2,State Secretary,,D,jim harper,83
+Jefferson,4~2,State Secretary,,L,mark w rutherford,5
+Jefferson,4~2,State Secretary,,R,connie lawson,109
+Jefferson,4~2,State Secretary,,,write in,0
+Jefferson,4~2,State Senate,45.0,D,john perkins,85
+Jefferson,4~2,State Senate,45.0,L,charles johnson,4
+Jefferson,4~2,State Senate,45.0,R ,chris garlen,107
+Jefferson,4~2,State Treasurer,,D,john c aguilera,79
+Jefferson,4~2,State Treasurer,,R,kelly mitchell,116
+Jefferson,4~2,U.S. House,6.0,D,jeannine lee lake,84
+Jefferson,4~2,U.S. House,6.0,L,tom ferkinhoff,4
+Jefferson,4~2,U.S. House,6.0,R,greg pence,110
+Jefferson,4~2,U.S. House,6.0,,write in,0
+Jefferson,4~2,U.S. Senate,,D,joe donnelly,84
+Jefferson,4~2,U.S. Senate,,L,lucy m brenton,11
+Jefferson,4~2,U.S. Senate,,R,mike braun,102
+Jefferson,4~2,U.S. Senate,,,write in,0
+Jefferson,4~3,State Auditor,,D,joselyn whitticker,152
+Jefferson,4~3,State Auditor,,L,john schick,20
+Jefferson,4~3,State Auditor,,R,tera klutz,241
+Jefferson,4~3,State House,66.0,D,terry goodin,205
+Jefferson,4~3,State House,66.0,R,mike bowling,217
+Jefferson,4~3,State Secretary,,D,jim harper,152
+Jefferson,4~3,State Secretary,,L,mark w rutherford,11
+Jefferson,4~3,State Secretary,,R,connie lawson,254
+Jefferson,4~3,State Secretary,,,write in,1
+Jefferson,4~3,State Senate,45.0,D,john perkins,156
+Jefferson,4~3,State Senate,45.0,L,charles johnson,17
+Jefferson,4~3,State Senate,45.0,R ,chris garlen,248
+Jefferson,4~3,State Treasurer,,D,john c aguilera,151
+Jefferson,4~3,State Treasurer,,R,kelly mitchell,265
+Jefferson,4~3,U.S. House,6.0,D,jeannine lee lake,161
+Jefferson,4~3,U.S. House,6.0,L,tom ferkinhoff,6
+Jefferson,4~3,U.S. House,6.0,R,greg pence,264
+Jefferson,4~3,U.S. House,6.0,,write in,1
+Jefferson,4~3,U.S. Senate,,D,joe donnelly,152
+Jefferson,4~3,U.S. Senate,,L,lucy m brenton,28
+Jefferson,4~3,U.S. Senate,,R,mike braun,239
+Jefferson,4~3,U.S. Senate,,,write in,1
+Jefferson,5~1,State Auditor,,D,joselyn whitticker,187
+Jefferson,5~1,State Auditor,,L,john schick,24
+Jefferson,5~1,State Auditor,,R,tera klutz,246
+Jefferson,5~1,State House,66.0,D,terry goodin,239
+Jefferson,5~1,State House,66.0,R,mike bowling,231
+Jefferson,5~1,State Secretary,,D,jim harper,182
+Jefferson,5~1,State Secretary,,L,mark w rutherford,24
+Jefferson,5~1,State Secretary,,R,connie lawson,259
+Jefferson,5~1,State Secretary,,,write in,1
+Jefferson,5~1,State Senate,45.0,D,john perkins,182
+Jefferson,5~1,State Senate,45.0,L,charles johnson,25
+Jefferson,5~1,State Senate,45.0,R ,chris garlen,262
+Jefferson,5~1,State Treasurer,,D,john c aguilera,181
+Jefferson,5~1,State Treasurer,,R,kelly mitchell,278
+Jefferson,5~1,U.S. House,6.0,D,jeannine lee lake,183
+Jefferson,5~1,U.S. House,6.0,L,tom ferkinhoff,17
+Jefferson,5~1,U.S. House,6.0,R,greg pence,271
+Jefferson,5~1,U.S. House,6.0,,write in,1
+Jefferson,5~1,U.S. Senate,,D,joe donnelly,193
+Jefferson,5~1,U.S. Senate,,L,lucy m brenton,29
+Jefferson,5~1,U.S. Senate,,R,mike braun,254
+Jefferson,5~1,U.S. Senate,,,write in,1
+Jefferson,5~2,State Auditor,,D,joselyn whitticker,170
+Jefferson,5~2,State Auditor,,L,john schick,10
+Jefferson,5~2,State Auditor,,R,tera klutz,260
+Jefferson,5~2,State House,66.0,D,terry goodin,230
+Jefferson,5~2,State House,66.0,R,mike bowling,217
+Jefferson,5~2,State Secretary,,D,jim harper,164
+Jefferson,5~2,State Secretary,,L,mark w rutherford,10
+Jefferson,5~2,State Secretary,,R,connie lawson,265
+Jefferson,5~2,State Secretary,,,write in,0
+Jefferson,5~2,State Senate,45.0,D,john perkins,172
+Jefferson,5~2,State Senate,45.0,L,charles johnson,15
+Jefferson,5~2,State Senate,45.0,R ,chris garlen,258
+Jefferson,5~2,State Treasurer,,D,john c aguilera,158
+Jefferson,5~2,State Treasurer,,R,kelly mitchell,280
+Jefferson,5~2,U.S. House,6.0,D,jeannine lee lake,180
+Jefferson,5~2,U.S. House,6.0,L,tom ferkinhoff,9
+Jefferson,5~2,U.S. House,6.0,R,greg pence,262
+Jefferson,5~2,U.S. House,6.0,,write in,0
+Jefferson,5~2,U.S. Senate,,D,joe donnelly,185
+Jefferson,5~2,U.S. Senate,,L,lucy m brenton,32
+Jefferson,5~2,U.S. Senate,,R,mike braun,237
+Jefferson,5~2,U.S. Senate,,,write in,0
+Jefferson,graham ,State Auditor,,D,joselyn whitticker,158
+Jefferson,graham ,State Auditor,,L,john schick,14
+Jefferson,graham ,State Auditor,,R,tera klutz,303
+Jefferson,graham ,State House,69.0,D,steve schoettmer,159
+Jefferson,graham ,State House,69.0,R,jim lucas,323
+Jefferson,graham ,State Secretary,,D,jim harper,146
+Jefferson,graham ,State Secretary,,L,mark w rutherford,16
+Jefferson,graham ,State Secretary,,R,connie lawson,314
+Jefferson,graham ,State Secretary,,,write in,1
+Jefferson,graham ,State Senate,45.0,D,john perkins,147
+Jefferson,graham ,State Senate,45.0,L,charles johnson,19
+Jefferson,graham ,State Senate,45.0,R ,chris garlen,318
+Jefferson,graham ,State Treasurer,,D,john c aguilera,155
+Jefferson,graham ,State Treasurer,,R,kelly mitchell,318
+Jefferson,graham ,U.S. House,6.0,D,jeannine lee lake,158
+Jefferson,graham ,U.S. House,6.0,L,tom ferkinhoff,12
+Jefferson,graham ,U.S. House,6.0,R,greg pence,319
+Jefferson,graham ,U.S. House,6.0,,write in,0
+Jefferson,graham ,U.S. Senate,,D,joe donnelly,165
+Jefferson,graham ,U.S. Senate,,L,lucy m brenton,31
+Jefferson,graham ,U.S. Senate,,R,mike braun,290
+Jefferson,graham ,U.S. Senate,,,write in,0
+Jefferson,hanover 1,State Auditor,,D,joselyn whitticker,201
+Jefferson,hanover 1,State Auditor,,L,john schick,9
+Jefferson,hanover 1,State Auditor,,R,tera klutz,140
+Jefferson,hanover 1,State House,66.0,D,terry goodin,230
+Jefferson,hanover 1,State House,66.0,R,mike bowling,123
+Jefferson,hanover 1,State Secretary,,D,jim harper,195
+Jefferson,hanover 1,State Secretary,,L,mark w rutherford,12
+Jefferson,hanover 1,State Secretary,,R,connie lawson,146
+Jefferson,hanover 1,State Secretary,,,write in,0
+Jefferson,hanover 1,State Senate,45.0,D,john perkins,205
+Jefferson,hanover 1,State Senate,45.0,L,charles johnson,8
+Jefferson,hanover 1,State Senate,45.0,R ,chris garlen,138
+Jefferson,hanover 1,State Treasurer,,D,john c aguilera,195
+Jefferson,hanover 1,State Treasurer,,R,kelly mitchell,151
+Jefferson,hanover 1,U.S. House,6.0,D,jeannine lee lake,208
+Jefferson,hanover 1,U.S. House,6.0,L,tom ferkinhoff,7
+Jefferson,hanover 1,U.S. House,6.0,R,greg pence,141
+Jefferson,hanover 1,U.S. House,6.0,,write in,0
+Jefferson,hanover 1,U.S. Senate,,D,joe donnelly,195
+Jefferson,hanover 1,U.S. Senate,,L,lucy m brenton,19
+Jefferson,hanover 1,U.S. Senate,,R,mike braun,143
+Jefferson,hanover 1,U.S. Senate,,,write in,0
+Jefferson,hanover 2,State Auditor,,D,joselyn whitticker,127
+Jefferson,hanover 2,State Auditor,,L,john schick,16
+Jefferson,hanover 2,State Auditor,,R,tera klutz,263
+Jefferson,hanover 2,State House,66.0,D,terry goodin,197
+Jefferson,hanover 2,State House,66.0,R,mike bowling,218
+Jefferson,hanover 2,State Secretary,,D,jim harper,121
+Jefferson,hanover 2,State Secretary,,L,mark w rutherford,13
+Jefferson,hanover 2,State Secretary,,R,connie lawson,276
+Jefferson,hanover 2,State Secretary,,,write in,1
+Jefferson,hanover 2,State Senate,45.0,D,john perkins,120
+Jefferson,hanover 2,State Senate,45.0,L,charles johnson,13
+Jefferson,hanover 2,State Senate,45.0,R ,chris garlen,282
+Jefferson,hanover 2,State Treasurer,,D,john c aguilera,120
+Jefferson,hanover 2,State Treasurer,,R,kelly mitchell,286
+Jefferson,hanover 2,U.S. House,6.0,D,jeannine lee lake,122
+Jefferson,hanover 2,U.S. House,6.0,L,tom ferkinhoff,10
+Jefferson,hanover 2,U.S. House,6.0,R,greg pence,285
+Jefferson,hanover 2,U.S. House,6.0,,write in,0
+Jefferson,hanover 2,U.S. Senate,,D,joe donnelly,130
+Jefferson,hanover 2,U.S. Senate,,L,lucy m brenton,19
+Jefferson,hanover 2,U.S. Senate,,R,mike braun,267
+Jefferson,hanover 2,U.S. Senate,,,write in,0
+Jefferson,hanover 2a,State Auditor,,D,joselyn whitticker,173
+Jefferson,hanover 2a,State Auditor,,D,joselyn whitticker,157
+Jefferson,hanover 2a,State Auditor,,D,joselyn whitticker,182
+Jefferson,hanover 2a,State Auditor,,D,joselyn whitticker,255
+Jefferson,hanover 2a,State Auditor,,D,joselyn whitticker,183
+Jefferson,hanover 2a,State Auditor,,D,joselyn whitticker,111
+Jefferson,hanover 2a,State Auditor,,D,joselyn whitticker,46
+Jefferson,hanover 2a,State Auditor,,D,joselyn whitticker,216
+Jefferson,hanover 2a,State Auditor,,D,joselyn whitticker,146
+Jefferson,hanover 2a,State Auditor,,D,joselyn whitticker,104
+Jefferson,hanover 2a,State Auditor,,D,joselyn whitticker,124
+Jefferson,hanover 2a,State Auditor,,D,joselyn whitticker,107
+Jefferson,hanover 2a,State Auditor,,L,john schick,29
+Jefferson,hanover 2a,State Auditor,,L,john schick,22
+Jefferson,hanover 2a,State Auditor,,L,john schick,21
+Jefferson,hanover 2a,State Auditor,,L,john schick,16
+Jefferson,hanover 2a,State Auditor,,L,john schick,4
+Jefferson,hanover 2a,State Auditor,,L,john schick,23
+Jefferson,hanover 2a,State Auditor,,L,john schick,9
+Jefferson,hanover 2a,State Auditor,,R,tera klutz,166
+Jefferson,hanover 2a,State Auditor,,R,tera klutz,354
+Jefferson,hanover 2a,State Auditor,,R,tera klutz,429
+Jefferson,hanover 2a,State Auditor,,R,tera klutz,444
+Jefferson,hanover 2a,State Auditor,,R,tera klutz,302
+Jefferson,hanover 2a,State Auditor,,R,tera klutz,195
+Jefferson,hanover 2a,State Auditor,,R,tera klutz,78
+Jefferson,hanover 2a,State Auditor,,R,tera klutz,392
+Jefferson,hanover 2a,State Auditor,,R,tera klutz,277
+Jefferson,hanover 2a,State Auditor,,R,tera klutz,308
+Jefferson,hanover 2a,State Auditor,,R,tera klutz,255
+Jefferson,hanover 2a,State Auditor,,R,tera klutz,202
+Jefferson,hanover 2a,State House,66.0,D,terry goodin,134
+Jefferson,hanover 2a,State House,66.0,R,mike bowling,186
+Jefferson,hanover 2a,State Secretary,,D,jim harper,166
+Jefferson,hanover 2a,State Secretary,,D,jim harper,150
+Jefferson,hanover 2a,State Secretary,,D,jim harper,171
+Jefferson,hanover 2a,State Secretary,,D,jim harper,251
+Jefferson,hanover 2a,State Secretary,,D,jim harper,176
+Jefferson,hanover 2a,State Secretary,,D,jim harper,106
+Jefferson,hanover 2a,State Secretary,,D,jim harper,46
+Jefferson,hanover 2a,State Secretary,,D,jim harper,218
+Jefferson,hanover 2a,State Secretary,,D,jim harper,101
+Jefferson,hanover 2a,State Secretary,,D,jim harper,116
+Jefferson,hanover 2a,State Secretary,,D,jim harper,97
+Jefferson,hanover 2a,State Secretary,,L,mark w rutherford,15
+Jefferson,hanover 2a,State Secretary,,L,mark w rutherford,10
+Jefferson,hanover 2a,State Secretary,,L,mark w rutherford,28
+Jefferson,hanover 2a,State Secretary,,L,mark w rutherford,17
+Jefferson,hanover 2a,State Secretary,,L,mark w rutherford,5
+Jefferson,hanover 2a,State Secretary,,L,mark w rutherford,16
+Jefferson,hanover 2a,State Secretary,,L,mark w rutherford,13
+Jefferson,hanover 2a,State Secretary,,L,mark w rutherford,11
+Jefferson,hanover 2a,State Secretary,,L,mark w rutherford,18
+Jefferson,hanover 2a,State Secretary,,L,mark w rutherford,8
+Jefferson,hanover 2a,State Secretary,,R,connie lawson,172
+Jefferson,hanover 2a,State Secretary,,R,connie lawson,372
+Jefferson,hanover 2a,State Secretary,,R,connie lawson,445
+Jefferson,hanover 2a,State Secretary,,R,connie lawson,456
+Jefferson,hanover 2a,State Secretary,,R,connie lawson,313
+Jefferson,hanover 2a,State Secretary,,R,connie lawson,200
+Jefferson,hanover 2a,State Secretary,,R,connie lawson,78
+Jefferson,hanover 2a,State Secretary,,R,connie lawson,400
+Jefferson,hanover 2a,State Secretary,,R,connie lawson,283
+Jefferson,hanover 2a,State Secretary,,R,connie lawson,309
+Jefferson,hanover 2a,State Secretary,,R,connie lawson,254
+Jefferson,hanover 2a,State Secretary,,R,connie lawson,216
+Jefferson,hanover 2a,State Secretary,,,(d) jim harper,0
+Jefferson,hanover 2a,State Senate,45.0,D,john perkins,95
+Jefferson,hanover 2a,State Senate,45.0,L,charles johnson,10
+Jefferson,hanover 2a,State Senate,45.0,R ,chris garlen,216
+Jefferson,hanover 2a,State Senate,,D,john perkins,166
+Jefferson,hanover 2a,State Senate,,D,john perkins,154
+Jefferson,hanover 2a,State Senate,,D,john perkins,180
+Jefferson,hanover 2a,State Senate,,D,john perkins,258
+Jefferson,hanover 2a,State Senate,,D,john perkins,173
+Jefferson,hanover 2a,State Senate,,D,john perkins,110
+Jefferson,hanover 2a,State Senate,,D,john perkins,48
+Jefferson,hanover 2a,State Senate,,D,john perkins,215
+Jefferson,hanover 2a,State Senate,,D,john perkins,139
+Jefferson,hanover 2a,State Senate,,D,john perkins,95
+Jefferson,hanover 2a,State Senate,,D,john perkins,113
+Jefferson,hanover 2a,State Senate,,L,charles johnson,15
+Jefferson,hanover 2a,State Senate,,L,charles johnson,25
+Jefferson,hanover 2a,State Senate,,L,charles johnson,16
+Jefferson,hanover 2a,State Senate,,L,charles johnson,20
+Jefferson,hanover 2a,State Senate,,L,charles johnson,14
+Jefferson,hanover 2a,State Senate,,L,charles johnson,1
+Jefferson,hanover 2a,State Senate,,L,charles johnson,10
+Jefferson,hanover 2a,State Senate,,R,chris galen,181
+Jefferson,hanover 2a,State Senate,,R,chris gaden,366
+Jefferson,hanover 2a,State Senate,,R,chris garten,444
+Jefferson,hanover 2a,State Senate,,R,chris garten,458
+Jefferson,hanover 2a,State Senate,,R,chris garten,315
+Jefferson,hanover 2a,State Senate,,R,chris garten,208
+Jefferson,hanover 2a,State Senate,,R,chris garten,83
+Jefferson,hanover 2a,State Senate,,R,chris garten,401
+Jefferson,hanover 2a,State Senate,,R,chris garten,295
+Jefferson,hanover 2a,State Senate,,R,chris garten,323
+Jefferson,hanover 2a,State Senate,,R,chris garton,261
+Jefferson,hanover 2a,State Treasurer,,D,john c aguilera,170
+Jefferson,hanover 2a,State Treasurer,,D,john c aguilera,153
+Jefferson,hanover 2a,State Treasurer,,D,john c aguilera,248
+Jefferson,hanover 2a,State Treasurer,,D,john c aguilera,110
+Jefferson,hanover 2a,State Treasurer,,D,john c aguilera,50
+Jefferson,hanover 2a,State Treasurer,,D,john c aguilera,216
+Jefferson,hanover 2a,State Treasurer,,D,john c aguilera,143
+Jefferson,hanover 2a,State Treasurer,,D,john c aguilera,97
+Jefferson,hanover 2a,State Treasurer,,D,john c aguilera,123
+Jefferson,hanover 2a,State Treasurer,,D,john c aguilera,99
+Jefferson,hanover 2a,State Treasurer,,R,kelly mitchell,180
+Jefferson,hanover 2a,State Treasurer,,R,kelly mitchell,373
+Jefferson,hanover 2a,State Treasurer,,R,kelly mitchell,465
+Jefferson,hanover 2a,State Treasurer,,R,kelly mitchell,471
+Jefferson,hanover 2a,State Treasurer,,R,kelly mitchell,332
+Jefferson,hanover 2a,State Treasurer,,R,kelly mitchell,214
+Jefferson,hanover 2a,State Treasurer,,R,kelly mitchell,80
+Jefferson,hanover 2a,State Treasurer,,R,kelly mitchell,413
+Jefferson,hanover 2a,State Treasurer,,R,kelly mitchell,292
+Jefferson,hanover 2a,State Treasurer,,R,kelly mitchell,327
+Jefferson,hanover 2a,State Treasurer,,R,kelly mitchell,264
+Jefferson,hanover 2a,State Treasurer,,R,kelly mitchell,217
+Jefferson,hanover 2a,U.S. House,6.0,D,jeannine lee lake,106
+Jefferson,hanover 2a,U.S. House,6.0,L,tom ferkinhoff,7
+Jefferson,hanover 2a,U.S. House,6.0,R,greg pence,209
+Jefferson,hanover 2a,U.S. House,6.0,,write in,0
+Jefferson,hanover 2a,U.S. House,,D,jeannine lee lake,174
+Jefferson,hanover 2a,U.S. House,,D,jeannine lee lake,160
+Jefferson,hanover 2a,U.S. House,,D,jeannine lee lake,178
+Jefferson,hanover 2a,U.S. House,,D,jeannine lee lake,254
+Jefferson,hanover 2a,U.S. House,,D,jeannine lee lake,180
+Jefferson,hanover 2a,U.S. House,,D,jeannine lee lake,114
+Jefferson,hanover 2a,U.S. House,,D,jeannine lee lake,49
+Jefferson,hanover 2a,U.S. House,,D,jeannine lee lake,217
+Jefferson,hanover 2a,U.S. House,,D,jeannine lee lake,143
+Jefferson,hanover 2a,U.S. House,,D,jeannine lee lake,109
+Jefferson,hanover 2a,U.S. House,,D,jeannine lee lake,120
+Jefferson,hanover 2a,U.S. House,,L,tom ferkinhoff,8
+Jefferson,hanover 2a,U.S. House,,L,tom ferkinhoff,6
+Jefferson,hanover 2a,U.S. House,,L,tom ferkinhoff,22
+Jefferson,hanover 2a,U.S. House,,L,tom fed(inhoff,15
+Jefferson,hanover 2a,U.S. House,,L,tom ferkinhoff,15
+Jefferson,hanover 2a,U.S. House,,L,tom ferkinhoff,2
+Jefferson,hanover 2a,U.S. House,,L,tom ferkinhoff,4
+Jefferson,hanover 2a,U.S. House,,L,tom ferkinhoff,7
+Jefferson,hanover 2a,U.S. House,,L,tom ferkinhoff,12
+Jefferson,hanover 2a,U.S. House,,R,greg pence,172
+Jefferson,hanover 2a,U.S. House,,R,greg pence,371
+Jefferson,hanover 2a,U.S. House,,R,greg pence,450
+Jefferson,hanover 2a,U.S. House,,R,greg pence,470
+Jefferson,hanover 2a,U.S. House,,R,greg pence,316
+Jefferson,hanover 2a,U.S. House,,R,greg pence,212
+Jefferson,hanover 2a,U.S. House,,R,greg pence,81
+Jefferson,hanover 2a,U.S. House,,R,greg pence,414
+Jefferson,hanover 2a,U.S. House,,R,greg pence,303
+Jefferson,hanover 2a,U.S. House,,R,greg pence,312
+Jefferson,hanover 2a,U.S. House,,R,greg pence,263
+Jefferson,hanover 2a,U.S. Senate,,D,joe donnelly,153
+Jefferson,hanover 2a,U.S. Senate,,D,joe donnelly,185
+Jefferson,hanover 2a,U.S. Senate,,D,joe donnelly,275
+Jefferson,hanover 2a,U.S. Senate,,D,joe donnelly,124
+Jefferson,hanover 2a,U.S. Senate,,D,joe donnelly,50
+Jefferson,hanover 2a,U.S. Senate,,D,joe donnelly,215
+Jefferson,hanover 2a,U.S. Senate,,D,joe donnelly,152
+Jefferson,hanover 2a,U.S. Senate,,D,joe donnelly,120
+Jefferson,hanover 2a,U.S. Senate,,L,lucy m brenton,23
+Jefferson,hanover 2a,U.S. Senate,,L,lucy m brenton,25
+Jefferson,hanover 2a,U.S. Senate,,L,lucy m brenton,34
+Jefferson,hanover 2a,U.S. Senate,,L,lucy m brenton,38
+Jefferson,hanover 2a,U.S. Senate,,L,lucy m brenton,9
+Jefferson,hanover 2a,U.S. Senate,,L,lucy m brenton,17
+Jefferson,hanover 2a,U.S. Senate,,L,lucy m brenton,26
+Jefferson,hanover 2a,U.S. Senate,,L,lucy m brenton,10
+Jefferson,hanover 2a,U.S. Senate,,R,mike braun,163
+Jefferson,hanover 2a,U.S. Senate,,R,mike braun,357
+Jefferson,hanover 2a,U.S. Senate,,R,mike braun,435
+Jefferson,hanover 2a,U.S. Senate,,R,mike braun,439
+Jefferson,hanover 2a,U.S. Senate,,R,mike braun,298
+Jefferson,hanover 2a,U.S. Senate,,R,mike braun,190
+Jefferson,hanover 2a,U.S. Senate,,R,mike braun,74
+Jefferson,hanover 2a,U.S. Senate,,R,mike braun,394
+Jefferson,hanover 2a,U.S. Senate,,R,mike braun,276
+Jefferson,hanover 2a,U.S. Senate,,R,mike braun,296
+Jefferson,hanover 2a,U.S. Senate,,R,mike braun,250
+Jefferson,hanover 2a,U.S. Senate,,R,mike braun,196
+Jefferson,hanover 2a,U.S. Senate,,,write-in,0
+Jefferson,hanover 2a,U.S. Senate,,,write in,1
+Jefferson,hanover 3,State Auditor,,D,joselyn whitticker,173
+Jefferson,hanover 3,State Auditor,,L,john schick,14
+Jefferson,hanover 3,State Auditor,,R,tera klutz,166
+Jefferson,hanover 3,State House,66.0,D,terry goodin,205
+Jefferson,hanover 3,State House,66.0,R,mike bowling,157
+Jefferson,hanover 3,State Secretary,,D,jim harper,166
+Jefferson,hanover 3,State Secretary,,L,mark w rutherford,15
+Jefferson,hanover 3,State Secretary,,R,connie lawson,172
+Jefferson,hanover 3,State Secretary,,,write in,0
+Jefferson,hanover 3,State Senate,45.0,D,john perkins,166
+Jefferson,hanover 3,State Senate,45.0,L,charles johnson,11
+Jefferson,hanover 3,State Senate,45.0,R ,chris garlen,181
+Jefferson,hanover 3,State Treasurer,,D,john c aguilera,170
+Jefferson,hanover 3,State Treasurer,,R,kelly mitchell,180
+Jefferson,hanover 3,U.S. House,6.0,D,jeannine lee lake,174
+Jefferson,hanover 3,U.S. House,6.0,L,tom ferkinhoff,8
+Jefferson,hanover 3,U.S. House,6.0,R,greg pence,172
+Jefferson,hanover 3,U.S. House,6.0,,write in,0
+Jefferson,hanover 3,U.S. Senate,,D,joe donnelly,176
+Jefferson,hanover 3,U.S. Senate,,L,lucy m brenton,23
+Jefferson,hanover 3,U.S. Senate,,R,mike braun,163
+Jefferson,hanover 3,U.S. Senate,,,write in,0
+Jefferson,lancaster,State Auditor,,D,joselyn whitticker,157
+Jefferson,lancaster,State Auditor,,L,john schick,14
+Jefferson,lancaster,State Auditor,,R,tera klutz,354
+Jefferson,lancaster,State House,69.0,D,steve schoettmer,157
+Jefferson,lancaster,State House,69.0,R,jim lucas,375
+Jefferson,lancaster,State Secretary,,D,jim harper,150
+Jefferson,lancaster,State Secretary,,L,mark w rutherford,10
+Jefferson,lancaster,State Secretary,,R,connie lawson,372
+Jefferson,lancaster,State Secretary,,,write in,0
+Jefferson,lancaster,State Senate,45.0,D,john perkins,154
+Jefferson,lancaster,State Senate,45.0,L,charles johnson,15
+Jefferson,lancaster,State Senate,45.0,R ,chris garlen,366
+Jefferson,lancaster,State Treasurer,,D,john c aguilera,153
+Jefferson,lancaster,State Treasurer,,R,kelly mitchell,373
+Jefferson,lancaster,U.S. House,6.0,D,jeannine lee lake,160
+Jefferson,lancaster,U.S. House,6.0,L,tom ferkinhoff,6
+Jefferson,lancaster,U.S. House,6.0,R,greg pence,371
+Jefferson,lancaster,U.S. House,6.0,,write in,0
+Jefferson,lancaster,U.S. Senate,,D,joe donnelly,153
+Jefferson,lancaster,U.S. Senate,,L,lucy m brenton,25
+Jefferson,lancaster,U.S. Senate,,R,mike braun,357
+Jefferson,lancaster,U.S. Senate,,,write in,0
+Jefferson,madison 1,State Auditor,,D,joselyn whitticker,182
+Jefferson,madison 1,State Auditor,,L,john schick,29
+Jefferson,madison 1,State Auditor,,R,tera klutz,429
+Jefferson,madison 1,State House,67.0,D,cordelle feuston,170
+Jefferson,madison 1,State House,67.0,R,randy frye,471
+Jefferson,madison 1,State Secretary,,D,jim harper,171
+Jefferson,madison 1,State Secretary,,L,mark w rutherford,28
+Jefferson,madison 1,State Secretary,,R,connie lawson,445
+Jefferson,madison 1,State Secretary,,,write in,1
+Jefferson,madison 1,State Senate,45.0,D,john perkins,180
+Jefferson,madison 1,State Senate,45.0,L,charles johnson,25
+Jefferson,madison 1,State Senate,45.0,R ,chris garlen,444
+Jefferson,madison 1,State Treasurer,,D,john c aguilera,173
+Jefferson,madison 1,State Treasurer,,R,kelly mitchell,465
+Jefferson,madison 1,U.S. House,6.0,D,jeannine lee lake,178
+Jefferson,madison 1,U.S. House,6.0,L,tom ferkinhoff,22
+Jefferson,madison 1,U.S. House,6.0,R,greg pence,450
+Jefferson,madison 1,U.S. House,6.0,,write in,0
+Jefferson,madison 1,U.S. Senate,,D,joe donnelly,185
+Jefferson,madison 1,U.S. Senate,,L,lucy m brenton,34
+Jefferson,madison 1,U.S. Senate,,R,mike braun,435
+Jefferson,madison 1,U.S. Senate,,,write in,0
+Jefferson,madison 2,State Auditor,,D,joselyn whitticker,255
+Jefferson,madison 2,State Auditor,,L,john schick,22
+Jefferson,madison 2,State Auditor,,R,tera klutz,444
+Jefferson,madison 2,State House,66.0,D,terry goodin,336
+Jefferson,madison 2,State House,66.0,R,mike bowling,393
+Jefferson,madison 2,State Secretary,,D,jim harper,251
+Jefferson,madison 2,State Secretary,,L,mark w rutherford,21
+Jefferson,madison 2,State Secretary,,R,connie lawson,456
+Jefferson,madison 2,State Secretary,,,write in,1
+Jefferson,madison 2,State Senate,45.0,D,john perkins,258
+Jefferson,madison 2,State Senate,45.0,L,charles johnson,16
+Jefferson,madison 2,State Senate,45.0,R ,chris garlen,458
+Jefferson,madison 2,State Treasurer,,D,john c aguilera,248
+Jefferson,madison 2,State Treasurer,,R,kelly mitchell,471
+Jefferson,madison 2,U.S. House,6.0,D,jeannine lee lake,254
+Jefferson,madison 2,U.S. House,6.0,L,tom ferkinhoff,15
+Jefferson,madison 2,U.S. House,6.0,R,greg pence,470
+Jefferson,madison 2,U.S. House,6.0,,write in,0
+Jefferson,madison 2,U.S. Senate,,D,joe donnelly,275
+Jefferson,madison 2,U.S. Senate,,L,lucy m brenton,27
+Jefferson,madison 2,U.S. Senate,,R,mike braun,439
+Jefferson,madison 2,U.S. Senate,,,write in,0
+Jefferson,madison 3,State Auditor,,D,joselyn whitticker,183
+Jefferson,madison 3,State Auditor,,L,john schick,21
+Jefferson,madison 3,State Auditor,,R,tera klutz,302
+Jefferson,madison 3,State House,67.0,D,cordelle feuston,160
+Jefferson,madison 3,State House,67.0,R,randy frye,351
+Jefferson,madison 3,State Secretary,,D,jim harper,176
+Jefferson,madison 3,State Secretary,,L,mark w rutherford,21
+Jefferson,madison 3,State Secretary,,R,connie lawson,313
+Jefferson,madison 3,State Secretary,,,write in,0
+Jefferson,madison 3,State Senate,45.0,D,john perkins,173
+Jefferson,madison 3,State Senate,45.0,L,charles johnson,20
+Jefferson,madison 3,State Senate,45.0,R ,chris garlen,315
+Jefferson,madison 3,State Treasurer,,D,john c aguilera,173
+Jefferson,madison 3,State Treasurer,,R,kelly mitchell,332
+Jefferson,madison 3,U.S. House,6.0,D,jeannine lee lake,180
+Jefferson,madison 3,U.S. House,6.0,L,tom ferkinhoff,15
+Jefferson,madison 3,U.S. House,6.0,R,greg pence,316
+Jefferson,madison 3,U.S. House,6.0,,write in,0
+Jefferson,madison 3,U.S. Senate,,D,joe donnelly,176
+Jefferson,madison 3,U.S. Senate,,L,lucy m brenton,38
+Jefferson,madison 3,U.S. Senate,,R,mike braun,298
+Jefferson,madison 3,U.S. Senate,,,write in,0
+Jefferson,milton,State Auditor,,D,joselyn whitticker,111
+Jefferson,milton,State Auditor,,L,john schick,16
+Jefferson,milton,State Auditor,,R,tera klutz,195
+Jefferson,milton,State House,67.0,D,cordelle feuston,107
+Jefferson,milton,State House,67.0,R,randy frye,226
+Jefferson,milton,State Secretary,,D,jim harper,106
+Jefferson,milton,State Secretary,,L,mark w rutherford,17
+Jefferson,milton,State Secretary,,R,connie lawson,200
+Jefferson,milton,State Secretary,,,write in,0
+Jefferson,milton,State Senate,45.0,D,john perkins,110
+Jefferson,milton,State Senate,45.0,L,charles johnson,14
+Jefferson,milton,State Senate,45.0,R ,chris garlen,208
+Jefferson,milton,State Treasurer,,D,john c aguilera,110
+Jefferson,milton,State Treasurer,,R,kelly mitchell,214
+Jefferson,milton,U.S. House,6.0,D,jeannine lee lake,114
+Jefferson,milton,U.S. House,6.0,L,tom ferkinhoff,10
+Jefferson,milton,U.S. House,6.0,R,greg pence,212
+Jefferson,milton,U.S. House,6.0,,write in,0
+Jefferson,milton,U.S. Senate,,D,joe donnelly,124
+Jefferson,milton,U.S. Senate,,L,lucy m brenton,20
+Jefferson,milton,U.S. Senate,,R,mike braun,190
+Jefferson,milton,U.S. Senate,,,write in,1
+Jefferson,monroe,State Auditor,,D,joselyn whitticker,46
+Jefferson,monroe,State Auditor,,L,john schick,4
+Jefferson,monroe,State Auditor,,R,tera klutz,78
+Jefferson,monroe,State House,67.0,D,cordelle feuston,41
+Jefferson,monroe,State House,67.0,R,randy frye,89
+Jefferson,monroe,State Secretary,,D,jim harper,46
+Jefferson,monroe,State Secretary,,L,mark w rutherford,5
+Jefferson,monroe,State Secretary,,R,connie lawson,78
+Jefferson,monroe,State Secretary,,,write in,0
+Jefferson,monroe,State Senate,45.0,D,john perkins,48
+Jefferson,monroe,State Senate,45.0,L,charles johnson,1
+Jefferson,monroe,State Senate,45.0,R ,chris garlen,83
+Jefferson,monroe,State Treasurer,,D,john c aguilera,50
+Jefferson,monroe,State Treasurer,,R,kelly mitchell,80
+Jefferson,monroe,U.S. House,6.0,D,jeannine lee lake,49
+Jefferson,monroe,U.S. House,6.0,L,tom ferkinhoff,2
+Jefferson,monroe,U.S. House,6.0,R,greg pence,81
+Jefferson,monroe,U.S. House,6.0,,write in,0
+Jefferson,monroe,U.S. Senate,,D,joe donnelly,50
+Jefferson,monroe,U.S. Senate,,L,lucy m brenton,9
+Jefferson,monroe,U.S. Senate,,R,mike braun,74
+Jefferson,monroe,U.S. Senate,,,write in,0
+Jefferson,republican,State Auditor,,D,joselyn whitticker,216
+Jefferson,republican,State Auditor,,L,john schick,23
+Jefferson,republican,State Auditor,,R,tera klutz,392
+Jefferson,republican,State House,69.0,D,steve schoettmer,213
+Jefferson,republican,State House,69.0,R,jim lucas,422
+Jefferson,republican,State Secretary,,D,jim harper,218
+Jefferson,republican,State Secretary,,L,mark w rutherford,16
+Jefferson,republican,State Secretary,,R,connie lawson,400
+Jefferson,republican,State Secretary,,,write in,0
+Jefferson,republican,State Senate,45.0,D,john perkins,215
+Jefferson,republican,State Senate,45.0,L,charles johnson,19
+Jefferson,republican,State Senate,45.0,R ,chris garlen,401
+Jefferson,republican,State Treasurer,,D,john c aguilera,216
+Jefferson,republican,State Treasurer,,R,kelly mitchell,413
+Jefferson,republican,U.S. House,6.0,D,jeannine lee lake,217
+Jefferson,republican,U.S. House,6.0,L,tom ferkinhoff,10
+Jefferson,republican,U.S. House,6.0,R,greg pence,414
+Jefferson,republican,U.S. House,6.0,,write in,0
+Jefferson,republican,U.S. Senate,,D,joe donnelly,215
+Jefferson,republican,U.S. Senate,,L,lucy m brenton,27
+Jefferson,republican,U.S. Senate,,R,mike braun,394
+Jefferson,republican,U.S. Senate,,,write in,0
+Jefferson,saluda,State Auditor,,D,joselyn whitticker,146
+Jefferson,saluda,State Auditor,,L,john schick,11
+Jefferson,saluda,State Auditor,,R,tera klutz,277
+Jefferson,saluda,State House,66.0,D,terry goodin,210
+Jefferson,saluda,State House,66.0,R,mike bowling,233
+Jefferson,saluda,State Secretary,,D,jim harper,141
+Jefferson,saluda,State Secretary,,L,mark w rutherford,13
+Jefferson,saluda,State Secretary,,R,connie lawson,283
+Jefferson,saluda,State Secretary,,,write in,1
+Jefferson,saluda,State Senate,45.0,D,john perkins,139
+Jefferson,saluda,State Senate,45.0,L,charles johnson,11
+Jefferson,saluda,State Senate,45.0,R ,chris garlen,295
+Jefferson,saluda,State Treasurer,,D,john c aguilera,143
+Jefferson,saluda,State Treasurer,,R,kelly mitchell,292
+Jefferson,saluda,U.S. House,6.0,D,jeannine lee lake,143
+Jefferson,saluda,U.S. House,6.0,L,tom ferkinhoff,4
+Jefferson,saluda,U.S. House,6.0,R,greg pence,303
+Jefferson,saluda,U.S. House,6.0,,write in,0
+Jefferson,saluda,U.S. Senate,,D,joe donnelly,152
+Jefferson,saluda,U.S. Senate,,L,lucy m brenton,17
+Jefferson,saluda,U.S. Senate,,R,mike braun,276
+Jefferson,saluda,U.S. Senate,,,write in,0
+Jefferson,shelby,State Auditor,,D,joselyn whitticker,104
+Jefferson,shelby,State Auditor,,L,john schick,11
+Jefferson,shelby,State Auditor,,R,tera klutz,308
+Jefferson,shelby,State House,67.0,D,cordelle feuston,94
+Jefferson,shelby,State House,67.0,R,randy frye,334
+Jefferson,shelby,State Secretary,,D,jim harper,101
+Jefferson,shelby,State Secretary,,L,mark w rutherford,11
+Jefferson,shelby,State Secretary,,R,connie lawson,309
+Jefferson,shelby,State Secretary,,,write in,1
+Jefferson,shelby,State Senate,45.0,D,john perkins,95
+Jefferson,shelby,State Senate,45.0,L,charles johnson,10
+Jefferson,shelby,State Senate,45.0,R ,chris garlen,323
+Jefferson,shelby,State Treasurer,,D,john c aguilera,97
+Jefferson,shelby,State Treasurer,,R,kelly mitchell,327
+Jefferson,shelby,U.S. House,6.0,D,jeannine lee lake,109
+Jefferson,shelby,U.S. House,6.0,L,tom ferkinhoff,7
+Jefferson,shelby,U.S. House,6.0,R,greg pence,312
+Jefferson,shelby,U.S. House,6.0,,write in,0
+Jefferson,shelby,U.S. Senate,,D,joe donnelly,110
+Jefferson,shelby,U.S. Senate,,L,lucy m brenton,20
+Jefferson,shelby,U.S. Senate,,R,mike braun,296
+Jefferson,shelby,U.S. Senate,,,write in,0
+Jefferson,smyrna,State Auditor,,D,joselyn whitticker,124
+Jefferson,smyrna,State Auditor,,L,john schick,9
+Jefferson,smyrna,State Auditor,,R,tera klutz,255
+Jefferson,smyrna,State House,69.0,D,steve schoettmer,123
+Jefferson,smyrna,State House,69.0,R,jim lucas,269
+Jefferson,smyrna,State Secretary,,D,jim harper,116
+Jefferson,smyrna,State Secretary,,L,mark w rutherford,18
+Jefferson,smyrna,State Secretary,,R,connie lawson,254
+Jefferson,smyrna,State Secretary,,,write in,0
+Jefferson,smyrna,State Senate,45.0,D,john perkins,113
+Jefferson,smyrna,State Senate,45.0,L,charles johnson,19
+Jefferson,smyrna,State Senate,45.0,R ,chris garlen,261
+Jefferson,smyrna,State Treasurer,,D,john c aguilera,123
+Jefferson,smyrna,State Treasurer,,R,kelly mitchell,264
+Jefferson,smyrna,U.S. House,6.0,D,jeannine lee lake,120
+Jefferson,smyrna,U.S. House,6.0,L,tom ferkinhoff,12
+Jefferson,smyrna,U.S. House,6.0,R,greg pence,263
+Jefferson,smyrna,U.S. House,6.0,,write in,0
+Jefferson,smyrna,U.S. Senate,,D,joe donnelly,120
+Jefferson,smyrna,U.S. Senate,,L,lucy m brenton,26
+Jefferson,smyrna,U.S. Senate,,R,mike braun,250
+Jefferson,smyrna,U.S. Senate,,,write in,0

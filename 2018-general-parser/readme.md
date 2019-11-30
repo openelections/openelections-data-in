@@ -7,9 +7,9 @@ Karen Santamaria
 # Data location
 https://github.com/openelections/openelections-data-in
 
-# Using the Parser 
+# Using the Parser
  - Go to directory of 2018-general-parser
- - `2018-general-parser$ pip install .` 
+ - `2018-general-parser$ pip install .`
  - `2018-general-parser$ python parser.py`
  - Input directories as prompted
 
@@ -17,7 +17,7 @@ https://github.com/openelections/openelections-data-in
 
  - Create a folder where you want your csv(s) to be
  - Open Terminal.app
- - Type into terminal and type `cd` (don't click enter) 
+ - Type into terminal and type `cd` (don't click enter)
  - Drag the folder 2018-general-parser onto the terminal app
  - Press enter
  - onto the terminal the folder where the parser is located

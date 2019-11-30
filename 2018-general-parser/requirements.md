@@ -1,8 +1,8 @@
 # Parser for Indiana 
-This parser has been tested successfully on the Clay, Shelby, Dubios, Marshall (all 2018) Statement of Votes General Election pdf files. It can be used for pdf files that are formatted such that: 
+This parser has been tested successfully on the Clay, Shelby, Dubios, Marshall (all 2018) Statement of Votes General Election pdf files. It can be used for pdf files that are formatted such that:
 
 
-## Requirements 
+## Requirements
 1. Table package (included in folder)
 2. Utilities package (included in folder)
 3. pdftotext package (https://pypi.org/project/pdftotext/)
@@ -13,4 +13,3 @@ This parser has been tested successfully on the Clay, Shelby, Dubios, Marshall (
 
 ## Author
 Karen Santamaria
-

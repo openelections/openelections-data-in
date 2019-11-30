@@ -1,0 +1,955 @@
+county,precinct,office,district,party,candidate,votes
+Marshall,bourbon 1,State Auditor,,D,joselyn whitticker,102
+Marshall,bourbon 1,State Auditor,,L,john schick,12
+Marshall,bourbon 1,State Auditor,,R,tera klutz,357
+Marshall,bourbon 1,State House,17.0,D,michelle livinghouse,106
+Marshall,bourbon 1,State House,17.0,R,jack jordan,364
+Marshall,bourbon 1,State Secretary,,D,jim harper,85
+Marshall,bourbon 1,State Secretary,,L,mark w rutherford,15
+Marshall,bourbon 1,State Secretary,,R,connie lawson,374
+Marshall,bourbon 1,State Secretary,,,write in,0
+Marshall,bourbon 1,State Treasurer,,D,john c aguilera,92
+Marshall,bourbon 1,State Treasurer,,R,kelly mitchell,376
+Marshall,bourbon 1,U.S. House,2.0,D,mel hall,119
+Marshall,bourbon 1,U.S. House,2.0,R,jackie walorski,359
+Marshall,bourbon 1,U.S. House,2.0,,write in,0
+Marshall,bourbon 1,U.S. Senate,,D,joe donnelly,128
+Marshall,bourbon 1,U.S. Senate,,L,lucy m brenton,15
+Marshall,bourbon 1,U.S. Senate,,R,mike braun,338
+Marshall,bourbon 1,U.S. Senate,,,write in,0
+Marshall,bourbon 2,State Auditor,,D,joselyn whitticker,97
+Marshall,bourbon 2,State Auditor,,L,john schick,14
+Marshall,bourbon 2,State Auditor,,R,tera klutz,348
+Marshall,bourbon 2,State House,17.0,D,michelle livinghouse,98
+Marshall,bourbon 2,State House,17.0,R,jack jordan,362
+Marshall,bourbon 2,State Secretary,,D,jim harper,86
+Marshall,bourbon 2,State Secretary,,L,mark w rutherford,16
+Marshall,bourbon 2,State Secretary,,R,connie lawson,358
+Marshall,bourbon 2,State Secretary,,,write in,0
+Marshall,bourbon 2,State Treasurer,,D,john c aguilera,87
+Marshall,bourbon 2,State Treasurer,,R,kelly mitchell,373
+Marshall,bourbon 2,U.S. House,2.0,D,mel hall,124
+Marshall,bourbon 2,U.S. House,2.0,R,jackie walorski,335
+Marshall,bourbon 2,U.S. House,2.0,,write in,1
+Marshall,bourbon 2,U.S. Senate,,D,joe donnelly,115
+Marshall,bourbon 2,U.S. Senate,,L,lucy m brenton,12
+Marshall,bourbon 2,U.S. Senate,,R,mike braun,336
+Marshall,bourbon 2,U.S. Senate,,,write in,0
+Marshall,center 1,State Auditor,,D,joselyn whitticker,142
+Marshall,center 1,State Auditor,,D,joselyn whitticker,231
+Marshall,center 1,State Auditor,,D,joselyn whitticker,301
+Marshall,center 1,State Auditor,,D,joselyn whitticker,297
+Marshall,center 1,State Auditor,,D,joselyn whitticker,142
+Marshall,center 1,State Auditor,,L,john schick,12
+Marshall,center 1,State Auditor,,L,john schick,31
+Marshall,center 1,State Auditor,,L,john schick,23
+Marshall,center 1,State Auditor,,L,john schick,28
+Marshall,center 1,State Auditor,,L,john schick,12
+Marshall,center 1,State Auditor,,R,tera klutz,203
+Marshall,center 1,State Auditor,,R,tera klutz,351
+Marshall,center 1,State Auditor,,R,tera klutz,385
+Marshall,center 1,State Auditor,,R,tera klutz,427
+Marshall,center 1,State Auditor,,R,tera klutz,203
+Marshall,center 1,State House,17.0,D,michelle livinghouse,156
+Marshall,center 1,State House,17.0,D,michelle livinghouse,273
+Marshall,center 1,State House,17.0,D,michelle livinghouse,156
+Marshall,center 1,State House,17.0,R,jack jordan,205
+Marshall,center 1,State House,17.0,R,jack jordan,344
+Marshall,center 1,State House,17.0,R,jack jordan,378
+Marshall,center 1,State House,17.0,R,jack jordan,421
+Marshall,center 1,State House,17.0,R,jack jordan,205
+Marshall,center 1,State Secretary,,D,jim harper,145
+Marshall,center 1,State Secretary,,D,jim harper,227
+Marshall,center 1,State Secretary,,D,jim harper,294
+Marshall,center 1,State Secretary,,D,jim harper,283
+Marshall,center 1,State Secretary,,D,jim harper,145
+Marshall,center 1,State Secretary,,L,mark w rutherford,12
+Marshall,center 1,State Secretary,,L,mark w rutherford,24
+Marshall,center 1,State Secretary,,L,mark w rutherford,29
+Marshall,center 1,State Secretary,,L,mark w rutherford,32
+Marshall,center 1,State Secretary,,L,mark w rutherford,12
+Marshall,center 1,State Secretary,,R,connie lawson,204
+Marshall,center 1,State Secretary,,R,connie lawson,368
+Marshall,center 1,State Secretary,,R,connie lawson,393
+Marshall,center 1,State Secretary,,R,connie lawson,442
+Marshall,center 1,State Secretary,,R,connie lawson,204
+Marshall,center 1,State Secretary,,,write in,1
+Marshall,center 1,State Secretary,,,write in,0
+Marshall,center 1,State Treasurer,,D,john c aguilera,142
+Marshall,center 1,State Treasurer,,D,john c aguilera,238
+Marshall,center 1,State Treasurer,,D,john c aguilera,302
+Marshall,center 1,State Treasurer,,D,john c aguilera,298
+Marshall,center 1,State Treasurer,,D,john c aguilera,142
+Marshall,center 1,State Treasurer,,R,kelly mitchell,216
+Marshall,center 1,State Treasurer,,R,kelly mitchell,373
+Marshall,center 1,State Treasurer,,R,kelly mitchell,405
+Marshall,center 1,State Treasurer,,R,kelly mitchell,452
+Marshall,center 1,State Treasurer,,R,kelly mitchell,216
+Marshall,center 1,U.S. House,2.0,D,mel hall,186
+Marshall,center 1,U.S. House,2.0,D,mel hall,294
+Marshall,center 1,U.S. House,2.0,D,mel hall,345
+Marshall,center 1,U.S. House,2.0,D,mel hall,352
+Marshall,center 1,U.S. House,2.0,D,mel hall,186
+Marshall,center 1,U.S. House,2.0,R,jackie walorski,177
+Marshall,center 1,U.S. House,2.0,R,jackie walorski,323
+Marshall,center 1,U.S. House,2.0,R,jackie walorski,370
+Marshall,center 1,U.S. House,2.0,R,jackie walorski,412
+Marshall,center 1,U.S. House,2.0,R,jackie walorski,177
+Marshall,center 1,U.S. House,2.0,,write in,1
+Marshall,center 1,U.S. House,2.0,,write in,0
+Marshall,center 1,U.S. House,2.0,,write in,3
+Marshall,center 1,U.S. House,2.0,,write in,2
+Marshall,center 1,U.S. House,2.0,,write in,1
+Marshall,center 1,U.S. Senate,,D,joe donnelly,165
+Marshall,center 1,U.S. Senate,,D,joe donnelly,291
+Marshall,center 1,U.S. Senate,,D,joe donnelly,367
+Marshall,center 1,U.S. Senate,,D,joe donnelly,358
+Marshall,center 1,U.S. Senate,,D,joe donnelly,165
+Marshall,center 1,U.S. Senate,,L,lucy m brenton,16
+Marshall,center 1,U.S. Senate,,L,lucy m brenton,35
+Marshall,center 1,U.S. Senate,,L,lucy m brenton,22
+Marshall,center 1,U.S. Senate,,L,lucy m brenton,36
+Marshall,center 1,U.S. Senate,,L,lucy m brenton,16
+Marshall,center 1,U.S. Senate,,R,mike braun,184
+Marshall,center 1,U.S. Senate,,R,mike braun,296
+Marshall,center 1,U.S. Senate,,R,mike braun,332
+Marshall,center 1,U.S. Senate,,R,mike braun,371
+Marshall,center 1,U.S. Senate,,R,mike braun,184
+Marshall,center 1,U.S. Senate,,,write in,1
+Marshall,center 1,U.S. Senate,,,write in,0
+Marshall,center 2,State Auditor,,D,joselyn whitticker,231
+Marshall,center 2,State Auditor,,L,john schick,31
+Marshall,center 2,State Auditor,,R,tera klutz,351
+Marshall,center 2,State House,17.0,D,michelle livinghouse,273
+Marshall,center 2,State House,17.0,R,jack jordan,344
+Marshall,center 2,State Secretary,,D,jim harper,227
+Marshall,center 2,State Secretary,,L,mark w rutherford,24
+Marshall,center 2,State Secretary,,R,connie lawson,368
+Marshall,center 2,State Secretary,,,write in,0
+Marshall,center 2,State Treasurer,,D,john c aguilera,238
+Marshall,center 2,State Treasurer,,R,kelly mitchell,373
+Marshall,center 2,U.S. House,2.0,D,mel hall,294
+Marshall,center 2,U.S. House,2.0,R,jackie walorski,323
+Marshall,center 2,U.S. House,2.0,,write in,0
+Marshall,center 2,U.S. Senate,,D,joe donnelly,291
+Marshall,center 2,U.S. Senate,,L,lucy m brenton,35
+Marshall,center 2,U.S. Senate,,R,mike braun,296
+Marshall,center 2,U.S. Senate,,,write in,0
+Marshall,center 3,State Auditor,,D,joselyn whitticker,301
+Marshall,center 3,State Auditor,,L,john schick,23
+Marshall,center 3,State Auditor,,R,tera klutz,385
+Marshall,center 3,State House,17.0,D,michelle livinghouse,342
+Marshall,center 3,State House,17.0,R,jack jordan,378
+Marshall,center 3,State Secretary,,D,jim harper,294
+Marshall,center 3,State Secretary,,L,mark w rutherford,29
+Marshall,center 3,State Secretary,,R,connie lawson,393
+Marshall,center 3,State Secretary,,,write in,1
+Marshall,center 3,State Treasurer,,D,john c aguilera,302
+Marshall,center 3,State Treasurer,,R,kelly mitchell,405
+Marshall,center 3,U.S. House,2.0,D,mel hall,345
+Marshall,center 3,U.S. House,2.0,R,jackie walorski,370
+Marshall,center 3,U.S. House,2.0,,write in,3
+Marshall,center 3,U.S. Senate,,D,joe donnelly,367
+Marshall,center 3,U.S. Senate,,L,lucy m brenton,22
+Marshall,center 3,U.S. Senate,,R,mike braun,332
+Marshall,center 3,U.S. Senate,,,write in,1
+Marshall,center 4,State Auditor,,D,joselyn whitticker,297
+Marshall,center 4,State Auditor,,L,john schick,28
+Marshall,center 4,State Auditor,,R,tera klutz,427
+Marshall,center 4,State House,17.0,D,michelle livinghouse,342
+Marshall,center 4,State House,17.0,R,jack jordan,421
+Marshall,center 4,State Secretary,,D,jim harper,283
+Marshall,center 4,State Secretary,,L,mark w rutherford,32
+Marshall,center 4,State Secretary,,R,connie lawson,442
+Marshall,center 4,State Secretary,,,write in,0
+Marshall,center 4,State Treasurer,,D,john c aguilera,298
+Marshall,center 4,State Treasurer,,R,kelly mitchell,452
+Marshall,center 4,U.S. House,2.0,D,mel hall,352
+Marshall,center 4,U.S. House,2.0,R,jackie walorski,412
+Marshall,center 4,U.S. House,2.0,,write in,2
+Marshall,center 4,U.S. Senate,,D,joe donnelly,358
+Marshall,center 4,U.S. Senate,,L,lucy m brenton,36
+Marshall,center 4,U.S. Senate,,R,mike braun,371
+Marshall,center 4,U.S. Senate,,,write in,0
+Marshall,center 5,State Auditor,,D,joselyn whitticker,141
+Marshall,center 5,State Auditor,,D,joselyn whitticker,191
+Marshall,center 5,State Auditor,,D,joselyn whitticker,192
+Marshall,center 5,State Auditor,,D,joselyn whitticker,134
+Marshall,center 5,State Auditor,,D,joselyn whitticker,111
+Marshall,center 5,State Auditor,,D,joselyn whitticker,141
+Marshall,center 5,State Auditor,,L,john schick,12
+Marshall,center 5,State Auditor,,L,john schick,10
+Marshall,center 5,State Auditor,,L,john schick,14
+Marshall,center 5,State Auditor,,L,john schick,12
+Marshall,center 5,State Auditor,,R,tera klutz,398
+Marshall,center 5,State Auditor,,R,tera klutz,395
+Marshall,center 5,State Auditor,,R,tera klutz,418
+Marshall,center 5,State Auditor,,R,tera klutz,302
+Marshall,center 5,State Auditor,,R,tera klutz,456
+Marshall,center 5,State Auditor,,R,tera klutz,398
+Marshall,center 5,State House,17.0,D,michelle livinghouse,169
+Marshall,center 5,State House,17.0,D,michelle livinghouse,222
+Marshall,center 5,State House,17.0,D,michelle livinghouse,248
+Marshall,center 5,State House,17.0,D,michelle livinghouse,160
+Marshall,center 5,State House,17.0,D,michelle livinghouse,112
+Marshall,center 5,State House,17.0,D,michelle livinghouse,169
+Marshall,center 5,State House,17.0,R,jack jordan,389
+Marshall,center 5,State House,17.0,R,jack jordan,292
+Marshall,center 5,State House,17.0,R,jack jordan,469
+Marshall,center 5,State House,17.0,R,jack jordan,389
+Marshall,center 5,State Secretary,,D,jim harper,133
+Marshall,center 5,State Secretary,,D,jim harper,181
+Marshall,center 5,State Secretary,,D,jim harper,192
+Marshall,center 5,State Secretary,,D,jim harper,132
+Marshall,center 5,State Secretary,,D,jim harper,98
+Marshall,center 5,State Secretary,,D,jim harper,133
+Marshall,center 5,State Secretary,,L,mark w rutherford,21
+Marshall,center 5,State Secretary,,L,mark w rutherford,20
+Marshall,center 5,State Secretary,,L,mark w rutherford,9
+Marshall,center 5,State Secretary,,L,mark w rutherford,18
+Marshall,center 5,State Secretary,,R,connie lawson,403
+Marshall,center 5,State Secretary,,R,connie lawson,409
+Marshall,center 5,State Secretary,,R,connie lawson,420
+Marshall,center 5,State Secretary,,R,connie lawson,310
+Marshall,center 5,State Secretary,,R,connie lawson,467
+Marshall,center 5,State Secretary,,R,connie lawson,403
+Marshall,center 5,State Secretary,,,write in,1
+Marshall,center 5,State Treasurer,,D,john c aguilera,185
+Marshall,center 5,State Treasurer,,D,john c aguilera,190
+Marshall,center 5,State Treasurer,,D,john c aguilera,100
+Marshall,center 5,State Treasurer,,D,john c aguilera,130
+Marshall,center 5,State Treasurer,,R,kelly mitchell,422
+Marshall,center 5,State Treasurer,,R,kelly mitchell,417
+Marshall,center 5,State Treasurer,,R,kelly mitchell,438
+Marshall,center 5,State Treasurer,,R,kelly mitchell,316
+Marshall,center 5,State Treasurer,,R,kelly mitchell,477
+Marshall,center 5,State Treasurer,,R,kelly mitchell,422
+Marshall,center 5,U.S. House,2.0,D,mel hall,170
+Marshall,center 5,U.S. House,2.0,D,mel hall,223
+Marshall,center 5,U.S. House,2.0,D,mel hall,249
+Marshall,center 5,U.S. House,2.0,D,mel hall,169
+Marshall,center 5,U.S. House,2.0,D,mel hall,147
+Marshall,center 5,U.S. House,2.0,D,mel hall,170
+Marshall,center 5,U.S. House,2.0,R,jackie walorski,388
+Marshall,center 5,U.S. House,2.0,R,jackie walorski,383
+Marshall,center 5,U.S. House,2.0,R,jackie walorski,393
+Marshall,center 5,U.S. House,2.0,R,jackie walorski,286
+Marshall,center 5,U.S. House,2.0,R,jackie walorski,440
+Marshall,center 5,U.S. House,2.0,R,jackie walorski,388
+Marshall,center 5,U.S. House,2.0,,write in,0
+Marshall,center 5,U.S. Senate,,D,joe donnelly,192
+Marshall,center 5,U.S. Senate,,D,joe donnelly,254
+Marshall,center 5,U.S. Senate,,D,joe donnelly,262
+Marshall,center 5,U.S. Senate,,D,joe donnelly,175
+Marshall,center 5,U.S. Senate,,D,joe donnelly,156
+Marshall,center 5,U.S. Senate,,D,joe donnelly,192
+Marshall,center 5,U.S. Senate,,L,lucy m brenton,17
+Marshall,center 5,U.S. Senate,,L,lucy m brenton,20
+Marshall,center 5,U.S. Senate,,L,lucy m brenton,16
+Marshall,center 5,U.S. Senate,,L,lucy m brenton,8
+Marshall,center 5,U.S. Senate,,L,lucy m brenton,21
+Marshall,center 5,U.S. Senate,,L,lucy m brenton,17
+Marshall,center 5,U.S. Senate,,R,mike braun,351
+Marshall,center 5,U.S. Senate,,R,mike braun,343
+Marshall,center 5,U.S. Senate,,R,mike braun,368
+Marshall,center 5,U.S. Senate,,R,mike braun,274
+Marshall,center 5,U.S. Senate,,R,mike braun,415
+Marshall,center 5,U.S. Senate,,R,mike braun,351
+Marshall,center 5,U.S. Senate,,,write in,0
+Marshall,center 6,State Auditor,,D,joselyn whitticker,191
+Marshall,center 6,State Auditor,,L,john schick,16
+Marshall,center 6,State Auditor,,R,tera klutz,395
+Marshall,center 6,State House,17.0,D,michelle livinghouse,222
+Marshall,center 6,State House,17.0,R,jack jordan,392
+Marshall,center 6,State Secretary,,D,jim harper,181
+Marshall,center 6,State Secretary,,L,mark w rutherford,21
+Marshall,center 6,State Secretary,,R,connie lawson,409
+Marshall,center 6,State Secretary,,,write in,0
+Marshall,center 6,State Treasurer,,D,john c aguilera,185
+Marshall,center 6,State Treasurer,,R,kelly mitchell,417
+Marshall,center 6,U.S. House,2.0,D,mel hall,223
+Marshall,center 6,U.S. House,2.0,R,jackie walorski,383
+Marshall,center 6,U.S. House,2.0,,write in,0
+Marshall,center 6,U.S. Senate,,D,joe donnelly,254
+Marshall,center 6,U.S. Senate,,L,lucy m brenton,20
+Marshall,center 6,U.S. Senate,,R,mike braun,343
+Marshall,center 6,U.S. Senate,,,write in,0
+Marshall,center 7,State Auditor,,D,joselyn whitticker,192
+Marshall,center 7,State Auditor,,L,john schick,16
+Marshall,center 7,State Auditor,,R,tera klutz,418
+Marshall,center 7,State House,17.0,D,michelle livinghouse,248
+Marshall,center 7,State House,17.0,R,jack jordan,392
+Marshall,center 7,State Secretary,,D,jim harper,192
+Marshall,center 7,State Secretary,,L,mark w rutherford,20
+Marshall,center 7,State Secretary,,R,connie lawson,420
+Marshall,center 7,State Secretary,,,write in,1
+Marshall,center 7,State Treasurer,,D,john c aguilera,190
+Marshall,center 7,State Treasurer,,R,kelly mitchell,438
+Marshall,center 7,U.S. House,2.0,D,mel hall,249
+Marshall,center 7,U.S. House,2.0,R,jackie walorski,393
+Marshall,center 7,U.S. House,2.0,,write in,1
+Marshall,center 7,U.S. Senate,,D,joe donnelly,262
+Marshall,center 7,U.S. Senate,,L,lucy m brenton,16
+Marshall,center 7,U.S. Senate,,R,mike braun,368
+Marshall,center 7,U.S. Senate,,,write in,0
+Marshall,center 8,State Auditor,,D,joselyn whitticker,134
+Marshall,center 8,State Auditor,,L,john schick,10
+Marshall,center 8,State Auditor,,R,tera klutz,302
+Marshall,center 8,State House,17.0,D,michelle livinghouse,160
+Marshall,center 8,State House,17.0,R,jack jordan,292
+Marshall,center 8,State Secretary,,D,jim harper,132
+Marshall,center 8,State Secretary,,L,mark w rutherford,9
+Marshall,center 8,State Secretary,,R,connie lawson,310
+Marshall,center 8,State Secretary,,,write in,0
+Marshall,center 8,State Treasurer,,D,john c aguilera,130
+Marshall,center 8,State Treasurer,,R,kelly mitchell,316
+Marshall,center 8,U.S. House,2.0,D,mel hall,169
+Marshall,center 8,U.S. House,2.0,R,jackie walorski,286
+Marshall,center 8,U.S. House,2.0,,write in,0
+Marshall,center 8,U.S. Senate,,D,joe donnelly,175
+Marshall,center 8,U.S. Senate,,L,lucy m brenton,8
+Marshall,center 8,U.S. Senate,,R,mike braun,274
+Marshall,center 8,U.S. Senate,,,write in,0
+Marshall,german 1,State Auditor,,D,joselyn whitticker,111
+Marshall,german 1,State Auditor,,L,john schick,14
+Marshall,german 1,State Auditor,,R,tera klutz,456
+Marshall,german 1,State House,17.0,D,michelle livinghouse,112
+Marshall,german 1,State House,17.0,R,jack jordan,469
+Marshall,german 1,State Secretary,,D,jim harper,98
+Marshall,german 1,State Secretary,,L,mark w rutherford,18
+Marshall,german 1,State Secretary,,R,connie lawson,467
+Marshall,german 1,State Secretary,,,write in,0
+Marshall,german 1,State Treasurer,,D,john c aguilera,100
+Marshall,german 1,State Treasurer,,R,kelly mitchell,477
+Marshall,german 1,U.S. House,2.0,D,mel hall,147
+Marshall,german 1,U.S. House,2.0,R,jackie walorski,440
+Marshall,german 1,U.S. House,2.0,,write in,1
+Marshall,german 1,U.S. Senate,,D,joe donnelly,156
+Marshall,german 1,U.S. Senate,,L,lucy m brenton,21
+Marshall,german 1,U.S. Senate,,R,mike braun,415
+Marshall,german 1,U.S. Senate,,,write in,0
+Marshall,german 2,State Auditor,,D,joselyn whitticker,89
+Marshall,german 2,State Auditor,,D,joselyn whitticker,108
+Marshall,german 2,State Auditor,,D,joselyn whitticker,114
+Marshall,german 2,State Auditor,,D,joselyn whitticker,133
+Marshall,german 2,State Auditor,,D,joselyn whitticker,89
+Marshall,german 2,State Auditor,,L,john schick,15
+Marshall,german 2,State Auditor,,L,john schick,10
+Marshall,german 2,State Auditor,,L,john schick,13
+Marshall,german 2,State Auditor,,L,john schick,19
+Marshall,german 2,State Auditor,,L,john schick,15
+Marshall,german 2,State Auditor,,R,tera klutz,419
+Marshall,german 2,State Auditor,,R,tera klutz,292
+Marshall,german 2,State Auditor,,R,tera klutz,228
+Marshall,german 2,State Auditor,,R,tera klutz,356
+Marshall,german 2,State Auditor,,R,tera klutz,419
+Marshall,german 2,State House,17.0,D,michelle livinghouse,89
+Marshall,german 2,State House,17.0,D,michelle livinghouse,106
+Marshall,german 2,State House,17.0,D,michelle livinghouse,112
+Marshall,german 2,State House,17.0,D,michelle livinghouse,142
+Marshall,german 2,State House,17.0,D,michelle livinghouse,89
+Marshall,german 2,State House,17.0,R,jack jordan,443
+Marshall,german 2,State House,17.0,R,jack jordan,314
+Marshall,german 2,State House,17.0,R,jack jordan,248
+Marshall,german 2,State House,17.0,R,jack jordan,374
+Marshall,german 2,State House,17.0,R,jack jordan,443
+Marshall,german 2,State Secretary,,D,jim harper,87
+Marshall,german 2,State Secretary,,D,jim harper,99
+Marshall,german 2,State Secretary,,D,jim harper,113
+Marshall,german 2,State Secretary,,D,jim harper,125
+Marshall,german 2,State Secretary,,D,jim harper,87
+Marshall,german 2,State Secretary,,L,mark w rutherford,17
+Marshall,german 2,State Secretary,,L,mark w rutherford,12
+Marshall,german 2,State Secretary,,L,mark w rutherford,13
+Marshall,german 2,State Secretary,,L,mark w rutherford,20
+Marshall,german 2,State Secretary,,L,mark w rutherford,17
+Marshall,german 2,State Secretary,,R,connie lawson,433
+Marshall,german 2,State Secretary,,R,connie lawson,307
+Marshall,german 2,State Secretary,,R,connie lawson,235
+Marshall,german 2,State Secretary,,R,connie lawson,364
+Marshall,german 2,State Secretary,,R,connie lawson,433
+Marshall,german 2,State Secretary,,,write in,1
+Marshall,german 2,State Secretary,,,write in,0
+Marshall,german 2,State Treasurer,,D,john c aguilera,92
+Marshall,german 2,State Treasurer,,D,john c aguilera,102
+Marshall,german 2,State Treasurer,,D,john c aguilera,108
+Marshall,german 2,State Treasurer,,D,john c aguilera,137
+Marshall,german 2,State Treasurer,,D,john c aguilera,92
+Marshall,german 2,State Treasurer,,R,kelly mitchell,436
+Marshall,german 2,State Treasurer,,R,kelly mitchell,310
+Marshall,german 2,State Treasurer,,R,kelly mitchell,245
+Marshall,german 2,State Treasurer,,R,kelly mitchell,369
+Marshall,german 2,State Treasurer,,R,kelly mitchell,436
+Marshall,german 2,U.S. House,2.0,D,mel hall,125
+Marshall,german 2,U.S. House,2.0,D,mel hall,128
+Marshall,german 2,U.S. House,2.0,D,mel hall,143
+Marshall,german 2,U.S. House,2.0,D,mel hall,171
+Marshall,german 2,U.S. House,2.0,D,mel hall,125
+Marshall,german 2,U.S. House,2.0,R,jackie walorski,410
+Marshall,german 2,U.S. House,2.0,R,jackie walorski,287
+Marshall,german 2,U.S. House,2.0,R,jackie walorski,219
+Marshall,german 2,U.S. House,2.0,R,jackie walorski,342
+Marshall,german 2,U.S. House,2.0,R,jackie walorski,410
+Marshall,german 2,U.S. House,2.0,,write in,4
+Marshall,german 2,U.S. House,2.0,,write in,0
+Marshall,german 2,U.S. Senate,,D,joe donnelly,141
+Marshall,german 2,U.S. Senate,,D,joe donnelly,154
+Marshall,german 2,U.S. Senate,,D,joe donnelly,148
+Marshall,german 2,U.S. Senate,,D,joe donnelly,162
+Marshall,german 2,U.S. Senate,,D,joe donnelly,141
+Marshall,german 2,U.S. Senate,,L,lucy m brenton,17
+Marshall,german 2,U.S. Senate,,L,lucy m brenton,9
+Marshall,german 2,U.S. Senate,,L,lucy m brenton,14
+Marshall,german 2,U.S. Senate,,L,lucy m brenton,26
+Marshall,german 2,U.S. Senate,,L,lucy m brenton,17
+Marshall,german 2,U.S. Senate,,R,mike braun,382
+Marshall,german 2,U.S. Senate,,R,mike braun,256
+Marshall,german 2,U.S. Senate,,R,mike braun,203
+Marshall,german 2,U.S. Senate,,R,mike braun,330
+Marshall,german 2,U.S. Senate,,R,mike braun,382
+Marshall,german 2,U.S. Senate,,,write in,0
+Marshall,german 3,State Auditor,,D,joselyn whitticker,108
+Marshall,german 3,State Auditor,,L,john schick,10
+Marshall,german 3,State Auditor,,R,tera klutz,292
+Marshall,german 3,State House,17.0,D,michelle livinghouse,106
+Marshall,german 3,State House,17.0,R,jack jordan,314
+Marshall,german 3,State Secretary,,D,jim harper,99
+Marshall,german 3,State Secretary,,L,mark w rutherford,12
+Marshall,german 3,State Secretary,,R,connie lawson,307
+Marshall,german 3,State Secretary,,,write in,0
+Marshall,german 3,State Treasurer,,D,john c aguilera,102
+Marshall,german 3,State Treasurer,,R,kelly mitchell,310
+Marshall,german 3,U.S. House,2.0,D,mel hall,128
+Marshall,german 3,U.S. House,2.0,R,jackie walorski,287
+Marshall,german 3,U.S. House,2.0,,write in,0
+Marshall,german 3,U.S. Senate,,D,joe donnelly,154
+Marshall,german 3,U.S. Senate,,L,lucy m brenton,9
+Marshall,german 3,U.S. Senate,,R,mike braun,256
+Marshall,german 3,U.S. Senate,,,write in,0
+Marshall,german 4,State Auditor,,D,joselyn whitticker,114
+Marshall,german 4,State Auditor,,L,john schick,13
+Marshall,german 4,State Auditor,,R,tera klutz,228
+Marshall,german 4,State House,17.0,D,michelle livinghouse,112
+Marshall,german 4,State House,17.0,R,jack jordan,248
+Marshall,german 4,State Secretary,,D,jim harper,113
+Marshall,german 4,State Secretary,,L,mark w rutherford,13
+Marshall,german 4,State Secretary,,R,connie lawson,235
+Marshall,german 4,State Secretary,,,write in,0
+Marshall,german 4,State Treasurer,,D,john c aguilera,108
+Marshall,german 4,State Treasurer,,R,kelly mitchell,245
+Marshall,german 4,U.S. House,2.0,D,mel hall,143
+Marshall,german 4,U.S. House,2.0,R,jackie walorski,219
+Marshall,german 4,U.S. House,2.0,,write in,0
+Marshall,german 4,U.S. Senate,,D,joe donnelly,148
+Marshall,german 4,U.S. Senate,,L,lucy m brenton,14
+Marshall,german 4,U.S. Senate,,R,mike braun,203
+Marshall,german 4,U.S. Senate,,,write in,0
+Marshall,german 5,State Auditor,,D,joselyn whitticker,133
+Marshall,german 5,State Auditor,,L,john schick,19
+Marshall,german 5,State Auditor,,R,tera klutz,356
+Marshall,german 5,State House,17.0,D,michelle livinghouse,142
+Marshall,german 5,State House,17.0,R,jack jordan,374
+Marshall,german 5,State Secretary,,D,jim harper,125
+Marshall,german 5,State Secretary,,L,mark w rutherford,20
+Marshall,german 5,State Secretary,,R,connie lawson,364
+Marshall,german 5,State Secretary,,,write in,1
+Marshall,german 5,State Treasurer,,D,john c aguilera,137
+Marshall,german 5,State Treasurer,,R,kelly mitchell,369
+Marshall,german 5,U.S. House,2.0,D,mel hall,171
+Marshall,german 5,U.S. House,2.0,R,jackie walorski,342
+Marshall,german 5,U.S. House,2.0,,write in,4
+Marshall,german 5,U.S. Senate,,D,joe donnelly,162
+Marshall,german 5,U.S. Senate,,L,lucy m brenton,26
+Marshall,german 5,U.S. Senate,,R,mike braun,330
+Marshall,german 5,U.S. Senate,,,write in,0
+Marshall,green,State Auditor,,D,joselyn whitticker,110
+Marshall,green,State Auditor,,D,joselyn whitticker,152
+Marshall,green,State Auditor,,D,joselyn whitticker,108
+Marshall,green,State Auditor,,D,joselyn whitticker,110
+Marshall,green,State Auditor,,L,john schick,10
+Marshall,green,State Auditor,,L,john schick,22
+Marshall,green,State Auditor,,L,john schick,7
+Marshall,green,State Auditor,,L,john schick,10
+Marshall,green,State Auditor,,R,tera klutz,272
+Marshall,green,State Auditor,,R,tera klutz,291
+Marshall,green,State Auditor,,R,tera klutz,285
+Marshall,green,State Auditor,,R,tera klutz,272
+Marshall,green,State House,17.0,D,michelle livinghouse,132
+Marshall,green,State House,17.0,D,michelle livinghouse,166
+Marshall,green,State House,17.0,D,michelle livinghouse,118
+Marshall,green,State House,17.0,D,michelle livinghouse,132
+Marshall,green,State House,17.0,R,jack jordan,261
+Marshall,green,State House,17.0,R,jack jordan,309
+Marshall,green,State House,17.0,R,jack jordan,289
+Marshall,green,State House,17.0,R,jack jordan,261
+Marshall,green,State Secretary,,D,jim harper,112
+Marshall,green,State Secretary,,D,jim harper,145
+Marshall,green,State Secretary,,D,jim harper,98
+Marshall,green,State Secretary,,D,jim harper,112
+Marshall,green,State Secretary,,L,mark w rutherford,10
+Marshall,green,State Secretary,,L,mark w rutherford,21
+Marshall,green,State Secretary,,L,mark w rutherford,7
+Marshall,green,State Secretary,,L,mark w rutherford,10
+Marshall,green,State Secretary,,R,connie lawson,274
+Marshall,green,State Secretary,,R,connie lawson,306
+Marshall,green,State Secretary,,R,connie lawson,303
+Marshall,green,State Secretary,,R,connie lawson,274
+Marshall,green,State Secretary,,,write in,0
+Marshall,green,State Treasurer,,D,john c aguilera,108
+Marshall,green,State Treasurer,,D,john c aguilera,145
+Marshall,green,State Treasurer,,D,john c aguilera,104
+Marshall,green,State Treasurer,,D,john c aguilera,108
+Marshall,green,State Treasurer,,R,kelly mitchell,283
+Marshall,green,State Treasurer,,R,kelly mitchell,316
+Marshall,green,State Treasurer,,R,kelly mitchell,298
+Marshall,green,State Treasurer,,R,kelly mitchell,283
+Marshall,green,U.S. House,2.0,D,mel hall,141
+Marshall,green,U.S. House,2.0,D,mel hall,189
+Marshall,green,U.S. House,2.0,D,mel hall,127
+Marshall,green,U.S. House,2.0,D,mel hall,141
+Marshall,green,U.S. House,2.0,R,jackie walorski,256
+Marshall,green,U.S. House,2.0,R,jackie walorski,281
+Marshall,green,U.S. House,2.0,R,jackie walorski,284
+Marshall,green,U.S. House,2.0,R,jackie walorski,256
+Marshall,green,U.S. House,2.0,,write in,1
+Marshall,green,U.S. House,2.0,,write in,0
+Marshall,green,U.S. Senate,,D,joe donnelly,141
+Marshall,green,U.S. Senate,,D,joe donnelly,196
+Marshall,green,U.S. Senate,,D,joe donnelly,140
+Marshall,green,U.S. Senate,,D,joe donnelly,141
+Marshall,green,U.S. Senate,,L,lucy m brenton,17
+Marshall,green,U.S. Senate,,L,lucy m brenton,16
+Marshall,green,U.S. Senate,,L,lucy m brenton,9
+Marshall,green,U.S. Senate,,L,lucy m brenton,17
+Marshall,green,U.S. Senate,,R,mike braun,239
+Marshall,green,U.S. Senate,,R,mike braun,267
+Marshall,green,U.S. Senate,,R,mike braun,265
+Marshall,green,U.S. Senate,,R,mike braun,239
+Marshall,green,U.S. Senate,,,write in,0
+Marshall,north 1,State Auditor,,D,joselyn whitticker,152
+Marshall,north 1,State Auditor,,L,john schick,22
+Marshall,north 1,State Auditor,,R,tera klutz,291
+Marshall,north 1,State House,17.0,D,michelle livinghouse,166
+Marshall,north 1,State House,17.0,R,jack jordan,309
+Marshall,north 1,State Secretary,,D,jim harper,145
+Marshall,north 1,State Secretary,,L,mark w rutherford,21
+Marshall,north 1,State Secretary,,R,connie lawson,306
+Marshall,north 1,State Secretary,,,write in,0
+Marshall,north 1,State Treasurer,,D,john c aguilera,145
+Marshall,north 1,State Treasurer,,R,kelly mitchell,316
+Marshall,north 1,U.S. House,2.0,D,mel hall,189
+Marshall,north 1,U.S. House,2.0,R,jackie walorski,281
+Marshall,north 1,U.S. House,2.0,,write in,1
+Marshall,north 1,U.S. Senate,,D,joe donnelly,196
+Marshall,north 1,U.S. Senate,,L,lucy m brenton,16
+Marshall,north 1,U.S. Senate,,R,mike braun,267
+Marshall,north 1,U.S. Senate,,,write in,0
+Marshall,north 2,State Auditor,,D,joselyn whitticker,108
+Marshall,north 2,State Auditor,,L,john schick,7
+Marshall,north 2,State Auditor,,R,tera klutz,285
+Marshall,north 2,State House,17.0,D,michelle livinghouse,118
+Marshall,north 2,State House,17.0,R,jack jordan,289
+Marshall,north 2,State Secretary,,D,jim harper,98
+Marshall,north 2,State Secretary,,L,mark w rutherford,7
+Marshall,north 2,State Secretary,,R,connie lawson,303
+Marshall,north 2,State Secretary,,,write in,0
+Marshall,north 2,State Treasurer,,D,john c aguilera,104
+Marshall,north 2,State Treasurer,,R,kelly mitchell,298
+Marshall,north 2,U.S. House,2.0,D,mel hall,127
+Marshall,north 2,U.S. House,2.0,R,jackie walorski,284
+Marshall,north 2,U.S. House,2.0,,write in,0
+Marshall,north 2,U.S. Senate,,D,joe donnelly,140
+Marshall,north 2,U.S. Senate,,L,lucy m brenton,9
+Marshall,north 2,U.S. Senate,,R,mike braun,265
+Marshall,north 2,U.S. Senate,,,write in,0
+Marshall,north 3,State Auditor,,D,joselyn whitticker,113
+Marshall,north 3,State Auditor,,D,joselyn whitticker,133
+Marshall,north 3,State Auditor,,D,joselyn whitticker,113
+Marshall,north 3,State Auditor,,L,john schick,20
+Marshall,north 3,State Auditor,,L,john schick,16
+Marshall,north 3,State Auditor,,L,john schick,20
+Marshall,north 3,State Auditor,,R,tera klutz,280
+Marshall,north 3,State Auditor,,R,tera klutz,298
+Marshall,north 3,State Auditor,,R,tera klutz,280
+Marshall,north 3,State House,17.0,D,michelle livinghouse,123
+Marshall,north 3,State House,17.0,D,michelle livinghouse,145
+Marshall,north 3,State House,17.0,D,michelle livinghouse,123
+Marshall,north 3,State House,17.0,R,jack jordan,293
+Marshall,north 3,State House,17.0,R,jack jordan,305
+Marshall,north 3,State House,17.0,R,jack jordan,293
+Marshall,north 3,State Secretary,,D,jim harper,110
+Marshall,north 3,State Secretary,,D,jim harper,131
+Marshall,north 3,State Secretary,,D,jim harper,110
+Marshall,north 3,State Secretary,,L,mark w rutherford,19
+Marshall,north 3,State Secretary,,R,connie lawson,289
+Marshall,north 3,State Secretary,,R,connie lawson,299
+Marshall,north 3,State Secretary,,R,connie lawson,289
+Marshall,north 3,State Secretary,,,write in,0
+Marshall,north 3,State Treasurer,,D,john c aguilera,117
+Marshall,north 3,State Treasurer,,D,john c aguilera,128
+Marshall,north 3,State Treasurer,,D,john c aguilera,117
+Marshall,north 3,State Treasurer,,R,kelly mitchell,299
+Marshall,north 3,State Treasurer,,R,kelly mitchell,317
+Marshall,north 3,State Treasurer,,R,kelly mitchell,299
+Marshall,north 3,U.S. House,2.0,D,mel hall,148
+Marshall,north 3,U.S. House,2.0,D,mel hall,170
+Marshall,north 3,U.S. House,2.0,D,mel hall,148
+Marshall,north 3,U.S. House,2.0,R,jackie walorski,274
+Marshall,north 3,U.S. House,2.0,R,jackie walorski,291
+Marshall,north 3,U.S. House,2.0,R,jackie walorski,274
+Marshall,north 3,U.S. House,2.0,,write in,0
+Marshall,north 3,U.S. Senate,,D,joe donnelly,144
+Marshall,north 3,U.S. Senate,,D,joe donnelly,172
+Marshall,north 3,U.S. Senate,,D,joe donnelly,144
+Marshall,north 3,U.S. Senate,,L,lucy m brenton,14
+Marshall,north 3,U.S. Senate,,L,lucy m brenton,15
+Marshall,north 3,U.S. Senate,,L,lucy m brenton,14
+Marshall,north 3,U.S. Senate,,R,mike braun,264
+Marshall,north 3,U.S. Senate,,R,mike braun,272
+Marshall,north 3,U.S. Senate,,R,mike braun,264
+Marshall,north 3,U.S. Senate,,,write in,0
+Marshall,north 3,U.S. Senate,,,write in,1
+Marshall,north 3,U.S. Senate,,,write in,0
+Marshall,polk 1,State Auditor,,D,joselyn whitticker,133
+Marshall,polk 1,State Auditor,,L,john schick,16
+Marshall,polk 1,State Auditor,,R,tera klutz,298
+Marshall,polk 1,State House,17.0,D,michelle livinghouse,145
+Marshall,polk 1,State House,17.0,R,jack jordan,305
+Marshall,polk 1,State Secretary,,D,jim harper,131
+Marshall,polk 1,State Secretary,,L,mark w rutherford,19
+Marshall,polk 1,State Secretary,,R,connie lawson,299
+Marshall,polk 1,State Secretary,,,write in,0
+Marshall,polk 1,State Treasurer,,D,john c aguilera,128
+Marshall,polk 1,State Treasurer,,R,kelly mitchell,317
+Marshall,polk 1,U.S. House,2.0,D,mel hall,170
+Marshall,polk 1,U.S. House,2.0,R,jackie walorski,291
+Marshall,polk 1,U.S. House,2.0,,write in,0
+Marshall,polk 1,U.S. Senate,,D,joe donnelly,172
+Marshall,polk 1,U.S. Senate,,L,lucy m brenton,15
+Marshall,polk 1,U.S. Senate,,R,mike braun,272
+Marshall,polk 1,U.S. Senate,,,write in,1
+Marshall,polk 2,State Auditor,,D,joselyn whitticker,147
+Marshall,polk 2,State Auditor,,D,joselyn whitticker,88
+Marshall,polk 2,State Auditor,,D,joselyn whitticker,185
+Marshall,polk 2,State Auditor,,D,joselyn whitticker,238
+Marshall,polk 2,State Auditor,,D,joselyn whitticker,138
+Marshall,polk 2,State Auditor,,D,joselyn whittigker,81
+Marshall,polk 2,State Auditor,,D,joselyn whitticker,0
+Marshall,polk 2,State Auditor,,D,joselyn whitticker,172
+Marshall,polk 2,State Auditor,,D,joselyn whitticker,142
+Marshall,polk 2,State Auditor,,D,joselyn whitticker,165
+Marshall,polk 2,State Auditor,,D,joselyn whitticker,147
+Marshall,polk 2,State Auditor,,L,john schick,31
+Marshall,polk 2,State Auditor,,L,john schick,18
+Marshall,polk 2,State Auditor,,L,john schick,27
+Marshall,polk 2,State Auditor,,L,john schick,25
+Marshall,polk 2,State Auditor,,L,john schick,23
+Marshall,polk 2,State Auditor,,L,john schick,9
+Marshall,polk 2,State Auditor,,L,john schick,0
+Marshall,polk 2,State Auditor,,L,john schick,31
+Marshall,polk 2,State Auditor,,R,tera klutz,366
+Marshall,polk 2,State Auditor,,R,tera klutz,315
+Marshall,polk 2,State Auditor,,R,tera klutz,299
+Marshall,polk 2,State Auditor,,R,tera klutz,455
+Marshall,polk 2,State Auditor,,R,tera klutz,269
+Marshall,polk 2,State Auditor,,R,tera klutz,274
+Marshall,polk 2,State Auditor,,R,tera klutz,0
+Marshall,polk 2,State Auditor,,R,tera klutz,296
+Marshall,polk 2,State Auditor,,R,tera klutz,330
+Marshall,polk 2,State Auditor,,R,tera klutz,350
+Marshall,polk 2,State Auditor,,R,tera klutz,366
+Marshall,polk 2,State Auditor,,,john schick,16
+Marshall,polk 2,State House,17.0,D,michelle livinghouse,164
+Marshall,polk 2,State House,17.0,D,michelle livinghouse,87
+Marshall,polk 2,State House,17.0,D,michelle livinghouse,221
+Marshall,polk 2,State House,17.0,D,michelle livinghouse,277
+Marshall,polk 2,State House,17.0,D,michelle livinghouse,161
+Marshall,polk 2,State House,17.0,D,michelle livinghouse,89
+Marshall,polk 2,State House,17.0,D,michelle livinghouse,188
+Marshall,polk 2,State House,17.0,D,michelle livinghouse,160
+Marshall,polk 2,State House,17.0,D,michelle livinghouse,190
+Marshall,polk 2,State House,17.0,D,michelle livinghouse,164
+Marshall,polk 2,State House,17.0,R,jack jordan,380
+Marshall,polk 2,State House,17.0,R,jack jordan,332
+Marshall,polk 2,State House,17.0,R,jack jordan,296
+Marshall,polk 2,State House,17.0,R,jack jordan,451
+Marshall,polk 2,State House,17.0,R,jack jordan,268
+Marshall,polk 2,State House,17.0,R,jack jordan,277
+Marshall,polk 2,State House,17.0,R,jack jordan,0
+Marshall,polk 2,State House,17.0,R,jack jordan,306
+Marshall,polk 2,State House,17.0,R,jack jordan,335
+Marshall,polk 2,State House,17.0,R,jack jordan,351
+Marshall,polk 2,State House,17.0,R,jack jordan,380
+Marshall,polk 2,State House,17.0,,livinghouse,0.00%
+Marshall,polk 2,State Secretary,,D,jim harper,144
+Marshall,polk 2,State Secretary,,D,jim harper,73
+Marshall,polk 2,State Secretary,,D,jim harper,208
+Marshall,polk 2,State Secretary,,D,jim harper,252
+Marshall,polk 2,State Secretary,,D,jim harper,134
+Marshall,polk 2,State Secretary,,D,jim harper,70
+Marshall,polk 2,State Secretary,,D,jim harper,"0,"
+Marshall,polk 2,State Secretary,,D,jim harper,138
+Marshall,polk 2,State Secretary,,D,jim harper,144
+Marshall,polk 2,State Secretary,,L,mark w rutherford,23
+Marshall,polk 2,State Secretary,,L,mark w rutherford,16
+Marshall,polk 2,State Secretary,,L,mark w rutherford,27
+Marshall,polk 2,State Secretary,,L,mark w rutherford,28
+Marshall,polk 2,State Secretary,,L,mark w rutherford,25
+Marshall,polk 2,State Secretary,,L,mark w rutherford,9
+Marshall,polk 2,State Secretary,,L,mark w rutherford,0
+Marshall,polk 2,State Secretary,,L,mark w rutherford,15
+Marshall,polk 2,State Secretary,,L,mark w rutherford,21
+Marshall,polk 2,State Secretary,,L,mark w rutherford,18
+Marshall,polk 2,State Secretary,,L,mark w rutherford,23
+Marshall,polk 2,State Secretary,,R,connie lawson,384
+Marshall,polk 2,State Secretary,,R,connie lawson,330
+Marshall,polk 2,State Secretary,,R,connie lawson,295
+Marshall,polk 2,State Secretary,,R,connie lawson,453
+Marshall,polk 2,State Secretary,,R,connie lawson,268
+Marshall,polk 2,State Secretary,,R,connie lawson,286
+Marshall,polk 2,State Secretary,,R,connie lawson,0
+Marshall,polk 2,State Secretary,,R,connie lawson,307
+Marshall,polk 2,State Secretary,,R,connie lawson,335
+Marshall,polk 2,State Secretary,,R,connie lawson,357
+Marshall,polk 2,State Secretary,,R,connie lawson,384
+Marshall,polk 2,State Secretary,,,write in,0
+Marshall,polk 2,State Treasurer,,D,john c aguilera,154
+Marshall,polk 2,State Treasurer,,D,john c aguilera,78
+Marshall,polk 2,State Treasurer,,D,john c aguilera,193
+Marshall,polk 2,State Treasurer,,D,john c aguilera,242
+Marshall,polk 2,State Treasurer,,D,john c aguilera,132
+Marshall,polk 2,State Treasurer,,D,john c aguilera,75
+Marshall,polk 2,State Treasurer,,D,john c aguilera,0
+Marshall,polk 2,State Treasurer,,D,john c aguilera,172
+Marshall,polk 2,State Treasurer,,D,john c aguilera,145
+Marshall,polk 2,State Treasurer,,D,john c aguilera,161
+Marshall,polk 2,State Treasurer,,D,john c aguilera,154
+Marshall,polk 2,State Treasurer,,R,kelly mitchell,388
+Marshall,polk 2,State Treasurer,,R,kelly mitchell,340
+Marshall,polk 2,State Treasurer,,R,kelly mitchell,310
+Marshall,polk 2,State Treasurer,,R,kelly mitchell,478
+Marshall,polk 2,State Treasurer,,R,kelly mitchell,291
+Marshall,polk 2,State Treasurer,,R,kelly mitchell,287
+Marshall,polk 2,State Treasurer,,R,kelly mitchell,0
+Marshall,polk 2,State Treasurer,,R,kelly mitchell,313
+Marshall,polk 2,State Treasurer,,R,kelly mitchell,347
+Marshall,polk 2,State Treasurer,,R,kelly mitchell,373
+Marshall,polk 2,State Treasurer,,R,kelly mitchell,388
+Marshall,polk 2,U.S. House,2.0,D,mel hall,218
+Marshall,polk 2,U.S. House,2.0,D,mel hall,106
+Marshall,polk 2,U.S. House,2.0,D,mel hall,246
+Marshall,polk 2,U.S. House,2.0,D,mel hall,323
+Marshall,polk 2,U.S. House,2.0,D,mel hall,172
+Marshall,polk 2,U.S. House,2.0,D,mel hall,102
+Marshall,polk 2,U.S. House,2.0,D,mel hall,0
+Marshall,polk 2,U.S. House,2.0,D,mel hall,205
+Marshall,polk 2,U.S. House,2.0,D,mel hall,182
+Marshall,polk 2,U.S. House,2.0,D,mel hall,212
+Marshall,polk 2,U.S. House,2.0,D,mel hall,218
+Marshall,polk 2,U.S. House,2.0,R,jackie walorski,334
+Marshall,polk 2,U.S. House,2.0,R,jackie walorski,278
+Marshall,polk 2,U.S. House,2.0,R,jackie walorski,423
+Marshall,polk 2,U.S. House,2.0,R,jackie walorski,249
+Marshall,polk 2,U.S. House,2.0,R,jackie walorski,265
+Marshall,polk 2,U.S. House,2.0,R,jackie walorski,0
+Marshall,polk 2,U.S. House,2.0,R,jackie walorski,291
+Marshall,polk 2,U.S. House,2.0,R,jackie walorski,333
+Marshall,polk 2,U.S. House,2.0,R,jackie walorski,334
+Marshall,polk 2,U.S. House,2.0,,write in,2
+Marshall,polk 2,U.S. House,2.0,,write in,3
+Marshall,polk 2,U.S. House,2.0,,write in,1
+Marshall,polk 2,U.S. Senate,,D,joe donnelly,197
+Marshall,polk 2,U.S. Senate,,D,joe donnelly,113
+Marshall,polk 2,U.S. Senate,,D,joe donnelly,244
+Marshall,polk 2,U.S. Senate,,D,joe donnelly,323
+Marshall,polk 2,U.S. Senate,,D,joe donnelly,166
+Marshall,polk 2,U.S. Senate,,D,joe donnelly,107
+Marshall,polk 2,U.S. Senate,,D,joe donnelly,0
+Marshall,polk 2,U.S. Senate,,D,joe donnelly,216
+Marshall,polk 2,U.S. Senate,,D,joe donnelly,170
+Marshall,polk 2,U.S. Senate,,D,joe donnelly,222
+Marshall,polk 2,U.S. Senate,,D,joe donnelly,197
+Marshall,polk 2,U.S. Senate,,L,lucy m brenton,33
+Marshall,polk 2,U.S. Senate,,L,lucy m brenton,13
+Marshall,polk 2,U.S. Senate,,L,"lucy m,brenton",20
+Marshall,polk 2,U.S. Senate,,L,lucy m brenton,27
+Marshall,polk 2,U.S. Senate,,L,lucy m brenton,24
+Marshall,polk 2,U.S. Senate,,L,lucy m brenton,10
+Marshall,polk 2,U.S. Senate,,L,lucy m brenton,0
+Marshall,polk 2,U.S. Senate,,L,lucy m brenton,19
+Marshall,polk 2,U.S. Senate,,L,lucy m brenton,33
+Marshall,polk 2,U.S. Senate,,R,mike braun,328
+Marshall,polk 2,U.S. Senate,,R,mike braun,296
+Marshall,polk 2,U.S. Senate,,R,mike braun,269
+Marshall,polk 2,U.S. Senate,,R,mike braun,394
+Marshall,polk 2,U.S. Senate,,R,mike braun,242
+Marshall,polk 2,U.S. Senate,,R,mike braun,248
+Marshall,polk 2,U.S. Senate,,R,mike braun,0
+Marshall,polk 2,U.S. Senate,,R,mike braun,268
+Marshall,polk 2,U.S. Senate,,R,mike braun,309
+Marshall,polk 2,U.S. Senate,,R,mike braun,307
+Marshall,polk 2,U.S. Senate,,R,mike braun,328
+Marshall,polk 2,U.S. Senate,,,write in,1
+Marshall,polk 2,U.S. Senate,,,write in,0
+Marshall,tippecanoe,State Auditor,,D,joselyn whitticker,88
+Marshall,tippecanoe,State Auditor,,L,john schick,18
+Marshall,tippecanoe,State Auditor,,R,tera klutz,315
+Marshall,tippecanoe,State House,17.0,D,michelle livinghouse,87
+Marshall,tippecanoe,State House,17.0,R,jack jordan,332
+Marshall,tippecanoe,State Secretary,,D,jim harper,73
+Marshall,tippecanoe,State Secretary,,L,mark w rutherford,16
+Marshall,tippecanoe,State Secretary,,R,connie lawson,330
+Marshall,tippecanoe,State Secretary,,,write in,0
+Marshall,tippecanoe,State Treasurer,,D,john c aguilera,78
+Marshall,tippecanoe,State Treasurer,,R,kelly mitchell,340
+Marshall,tippecanoe,U.S. House,2.0,D,mel hall,106
+Marshall,tippecanoe,U.S. House,2.0,R,jackie walorski,313
+Marshall,tippecanoe,U.S. House,2.0,,write in,0
+Marshall,tippecanoe,U.S. Senate,,D,joe donnelly,113
+Marshall,tippecanoe,U.S. Senate,,L,lucy m brenton,13
+Marshall,tippecanoe,U.S. Senate,,R,mike braun,296
+Marshall,tippecanoe,U.S. Senate,,,write in,0
+Marshall,union 1,State Auditor,,D,joselyn whitticker,185
+Marshall,union 1,State Auditor,,L,john schick,27
+Marshall,union 1,State Auditor,,R,tera klutz,299
+Marshall,union 1,State House,17.0,D,michelle livinghouse,221
+Marshall,union 1,State House,17.0,R,jack jordan,296
+Marshall,union 1,State Secretary,,D,jim harper,208
+Marshall,union 1,State Secretary,,L,mark w rutherford,27
+Marshall,union 1,State Secretary,,R,connie lawson,295
+Marshall,union 1,State Secretary,,,write in,0
+Marshall,union 1,State Treasurer,,D,john c aguilera,193
+Marshall,union 1,State Treasurer,,R,kelly mitchell,310
+Marshall,union 1,U.S. House,2.0,D,mel hall,246
+Marshall,union 1,U.S. House,2.0,R,jackie walorski,278
+Marshall,union 1,U.S. House,2.0,,write in,2
+Marshall,union 1,U.S. Senate,,D,joe donnelly,244
+Marshall,union 1,U.S. Senate,,L,lucy m brenton,20
+Marshall,union 1,U.S. Senate,,R,mike braun,269
+Marshall,union 1,U.S. Senate,,,write in,0
+Marshall,union 2,State Auditor,,D,joselyn whitticker,238
+Marshall,union 2,State Auditor,,L,john schick,25
+Marshall,union 2,State Auditor,,R,tera klutz,455
+Marshall,union 2,State House,17.0,D,michelle livinghouse,277
+Marshall,union 2,State House,17.0,R,jack jordan,451
+Marshall,union 2,State Secretary,,D,jim harper,252
+Marshall,union 2,State Secretary,,L,mark w rutherford,28
+Marshall,union 2,State Secretary,,R,connie lawson,453
+Marshall,union 2,State Secretary,,,write in,0
+Marshall,union 2,State Treasurer,,D,john c aguilera,242
+Marshall,union 2,State Treasurer,,R,kelly mitchell,478
+Marshall,union 2,U.S. House,2.0,D,mel hall,323
+Marshall,union 2,U.S. House,2.0,R,jackie walorski,423
+Marshall,union 2,U.S. House,2.0,,write in,1
+Marshall,union 2,U.S. Senate,,D,joe donnelly,323
+Marshall,union 2,U.S. Senate,,L,lucy m brenton,27
+Marshall,union 2,U.S. Senate,,R,mike braun,394
+Marshall,union 2,U.S. Senate,,,write in,0
+Marshall,walnut 1,State Auditor,,D,joselyn whitticker,138
+Marshall,walnut 1,State Auditor,,L,john schick,23
+Marshall,walnut 1,State Auditor,,R,tera klutz,269
+Marshall,walnut 1,State House,17.0,D,michelle livinghouse,161
+Marshall,walnut 1,State House,17.0,R,jack jordan,268
+Marshall,walnut 1,State Secretary,,D,jim harper,134
+Marshall,walnut 1,State Secretary,,L,mark w rutherford,25
+Marshall,walnut 1,State Secretary,,R,connie lawson,268
+Marshall,walnut 1,State Secretary,,,write in,1
+Marshall,walnut 1,State Treasurer,,D,john c aguilera,132
+Marshall,walnut 1,State Treasurer,,R,kelly mitchell,291
+Marshall,walnut 1,U.S. House,2.0,D,mel hall,172
+Marshall,walnut 1,U.S. House,2.0,R,jackie walorski,249
+Marshall,walnut 1,U.S. House,2.0,,write in,3
+Marshall,walnut 1,U.S. Senate,,D,joe donnelly,166
+Marshall,walnut 1,U.S. Senate,,L,lucy m brenton,24
+Marshall,walnut 1,U.S. Senate,,R,mike braun,242
+Marshall,walnut 1,U.S. Senate,,,write in,1
+Marshall,walnut 2,State Auditor,,D,joselyn whitticker,81
+Marshall,walnut 2,State Auditor,,L,john schick,9
+Marshall,walnut 2,State Auditor,,R,tera klutz,274
+Marshall,walnut 2,State House,17.0,D,michelle livinghouse,89
+Marshall,walnut 2,State House,17.0,R,jack jordan,277
+Marshall,walnut 2,State Secretary,,D,jim harper,70
+Marshall,walnut 2,State Secretary,,L,mark w rutherford,9
+Marshall,walnut 2,State Secretary,,R,connie lawson,286
+Marshall,walnut 2,State Secretary,,,write in,0
+Marshall,walnut 2,State Treasurer,,D,john c aguilera,75
+Marshall,walnut 2,State Treasurer,,R,kelly mitchell,287
+Marshall,walnut 2,U.S. House,2.0,D,mel hall,102
+Marshall,walnut 2,U.S. House,2.0,R,jackie walorski,265
+Marshall,walnut 2,U.S. House,2.0,,write in,0
+Marshall,walnut 2,U.S. Senate,,D,joe donnelly,107
+Marshall,walnut 2,U.S. Senate,,L,lucy m brenton,10
+Marshall,walnut 2,U.S. Senate,,R,mike braun,248
+Marshall,walnut 2,U.S. Senate,,,write in,0
+Marshall,west 1,State Auditor,,D,joselyn whitticker,172
+Marshall,west 1,State Auditor,,L,john schick,16
+Marshall,west 1,State Auditor,,R,tera klutz,296
+Marshall,west 1,State House,17.0,D,michelle livinghouse,188
+Marshall,west 1,State House,17.0,R,jack jordan,306
+Marshall,west 1,State Secretary,,D,jim harper,167
+Marshall,west 1,State Secretary,,L,mark w rutherford,15
+Marshall,west 1,State Secretary,,R,connie lawson,307
+Marshall,west 1,State Secretary,,,write in,0
+Marshall,west 1,State Treasurer,,D,john c aguilera,172
+Marshall,west 1,State Treasurer,,R,kelly mitchell,313
+Marshall,west 1,U.S. House,2.0,D,mel hall,205
+Marshall,west 1,U.S. House,2.0,R,jackie walorski,291
+Marshall,west 1,U.S. House,2.0,,write in,0
+Marshall,west 1,U.S. Senate,,D,joe donnelly,216
+Marshall,west 1,U.S. Senate,,L,lucy m brenton,16
+Marshall,west 1,U.S. Senate,,R,mike braun,268
+Marshall,west 1,U.S. Senate,,,write in,0
+Marshall,west 2,State Auditor,,D,joselyn whitticker,142
+Marshall,west 2,State Auditor,,L,john schick,20
+Marshall,west 2,State Auditor,,R,tera klutz,330
+Marshall,west 2,State House,17.0,D,michelle livinghouse,160
+Marshall,west 2,State House,17.0,R,jack jordan,335
+Marshall,west 2,State Secretary,,D,jim harper,138
+Marshall,west 2,State Secretary,,L,mark w rutherford,21
+Marshall,west 2,State Secretary,,R,connie lawson,335
+Marshall,west 2,State Secretary,,,write in,1
+Marshall,west 2,State Treasurer,,D,john c aguilera,145
+Marshall,west 2,State Treasurer,,R,kelly mitchell,347
+Marshall,west 2,U.S. House,2.0,D,mel hall,182
+Marshall,west 2,U.S. House,2.0,R,jackie walorski,313
+Marshall,west 2,U.S. House,2.0,,write in,0
+Marshall,west 2,U.S. Senate,,D,joe donnelly,170
+Marshall,west 2,U.S. Senate,,L,lucy m brenton,19
+Marshall,west 2,U.S. Senate,,R,mike braun,309
+Marshall,west 2,U.S. Senate,,,write in,0
+Marshall,west 3,State Auditor,,D,joselyn whitticker,165
+Marshall,west 3,State Auditor,,L,john schick,20
+Marshall,west 3,State Auditor,,R,tera klutz,350
+Marshall,west 3,State House,17.0,D,michelle livinghouse,190
+Marshall,west 3,State House,17.0,R,jack jordan,351
+Marshall,west 3,State Secretary,,D,jim harper,167
+Marshall,west 3,State Secretary,,L,mark w rutherford,18
+Marshall,west 3,State Secretary,,R,connie lawson,357
+Marshall,west 3,State Secretary,,,write in,0
+Marshall,west 3,State Treasurer,,D,john c aguilera,161
+Marshall,west 3,State Treasurer,,R,kelly mitchell,373
+Marshall,west 3,U.S. House,2.0,D,mel hall,212
+Marshall,west 3,U.S. House,2.0,R,jackie walorski,333
+Marshall,west 3,U.S. House,2.0,,write in,0
+Marshall,west 3,U.S. Senate,,D,joe donnelly,222
+Marshall,west 3,U.S. Senate,,L,lucy m brenton,16
+Marshall,west 3,U.S. Senate,,R,mike braun,307
+Marshall,west 3,U.S. Senate,,,write in,0
+Marshall,west-city of plymouth,State Auditor,,D,joselyn whitticker,0
+Marshall,west-city of plymouth,State Auditor,,L,john schick,0
+Marshall,west-city of plymouth,State Auditor,,R,tera klutz,0
+Marshall,west-city of plymouth,State House,17.0,D,michelle livinghouse,0
+Marshall,west-city of plymouth,State House,17.0,R,jack jordan,0
+Marshall,west-city of plymouth,State Secretary,,D,jim harper,0
+Marshall,west-city of plymouth,State Secretary,,L,mark w rutherford,0
+Marshall,west-city of plymouth,State Secretary,,R,connie lawson,0
+Marshall,west-city of plymouth,State Secretary,,,write in,0
+Marshall,west-city of plymouth,State Treasurer,,D,john c aguilera,0
+Marshall,west-city of plymouth,State Treasurer,,R,kelly mitchell,0
+Marshall,west-city of plymouth,U.S. House,2.0,D,mel hall,0
+Marshall,west-city of plymouth,U.S. House,2.0,R,jackie walorski,0
+Marshall,west-city of plymouth,U.S. House,2.0,,write in,0
+Marshall,west-city of plymouth,U.S. Senate,,D,joe donnelly,0
+Marshall,west-city of plymouth,U.S. Senate,,L,lucy m brenton,0
+Marshall,west-city of plymouth,U.S. Senate,,R,mike braun,0
+Marshall,west-city of plymouth,U.S. Senate,,,write in,0

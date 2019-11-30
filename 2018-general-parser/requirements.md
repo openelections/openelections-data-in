@@ -9,8 +9,7 @@ This parser has been tested successfully on the Clay, Shelby, Dubios, Marshall (
 4. re library (https://docs.python.org/3/library/re.html)
 5. os library (https://docs.python.org/3/library/os.html)
 6. csv library (https://docs.python.org/3/library/csv.html)
-
-Install either custom package by typing  `pip install .` in your terminal (make sure you are in the directory with both folders and the setup.py file).
+7. Python 3
 
 ## Author
 Karen Santamaria

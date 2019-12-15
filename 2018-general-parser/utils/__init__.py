@@ -6,9 +6,6 @@ Date: 11/19/2019
 """
 
 import csv
-import pandas as pd
-
-
 
 
 def standardize_office_name(office_to_check):

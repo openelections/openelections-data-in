@@ -61,3 +61,12 @@ for auto_parsed_csv in csv_lst:
         df = pd.concat([df_auto,df_man]).drop_duplicates(keep=False)
         df.sort_values(['precinct', 'office', 'district', 'party'], inplace=True)
         df.to_csv(diff_dir + auto_parsed_csv, index=False)
+        perc_correct = str( 
+                           round (
+                                (len(df_man) + len(df_auto) - len(df))
+                                /
+                                (len(df_man)  + len(df_auto)) * 100
+                           )
+                        ) 
+                           
+        print( auto_parsed_csv + "," + str(len(df_auto)) + "," + perc_correct)

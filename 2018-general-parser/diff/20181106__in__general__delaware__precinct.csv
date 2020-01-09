@@ -1,0 +1,1317 @@
+county,precinct,office,district,party,candidate,votes
+Delaware,.,State Senate,25.0,D,tim lanane,340
+Delaware,.,State Senate,25.0,D,sue errington,388
+Delaware,.,State Senate,25.0,L,robert o jozwiak,19
+Delaware,.,State Senate,25.0,R,zaki ali,138
+Delaware,.,State Senate,25.0,R,no candidate filed,0
+Delaware,1,State House,35.0,D,melanie m wright,274
+Delaware,1,State House,35.0,R,ben w fisher,241
+Delaware,1,State Senate,25.0,D,tim lanane,232
+Delaware,1,State Senate,25.0,D,tim lanane,297
+Delaware,1,State Senate,25.0,D,sue errington,344
+Delaware,1,State Senate,25.0,D,kimberly s dowling,341
+Delaware,1,State Senate,25.0,L,robert o jozwiak,9
+Delaware,1,State Senate,25.0,L,robert q jozwiak,16
+Delaware,1,State Senate,25.0,R,zaki ali,284
+Delaware,1,State Senate,25.0,R,zaki ali,146
+Delaware,1,U.S. House,6.0,D,jeannine lee lake,262
+Delaware,1,U.S. House,6.0,D,jeannine lee lake,305
+Delaware,1,U.S. House,6.0,L,tom ferkinhoff,7
+Delaware,1,U.S. House,6.0,L,tom ferkinhoff,12
+Delaware,1,U.S. House,6.0,R,greg pence,258
+Delaware,1,U.S. House,6.0,R,greg pence,141
+Delaware,l,State Senate,26.0,D,dave cravens,202
+Delaware,l,State Senate,26.0,L,greg ncland,19
+Delaware,l,State Senate,26.0,R,mike gaskill,348
+Delaware,l,State Treasurer,,D,jeannine lee lake,211
+Delaware,l,State Treasurer,,L,tom ferkinhoff,13
+Delaware,l,State Treasurer,,R,greg pence,351
+Delaware,l,State Treasurer,,,write in,0
+Delaware,prec1nct 35,State Senate,25.0,,:ler] aii,207
+Delaware,prec1nct 35,State Senate,25.0,,lanane,288
+Delaware,prec1nct 35,State Senate,25.0,,candidate filed,0
+Delaware,prec1nct 35,State Senate,25.0,,5:le enington,361
+Delaware,prec1nct 35,State Treasurer,,L,tom ferkinhoff,9
+Delaware,prec1nct 35,State Treasurer,,,(r) greg pence,0
+Delaware,prec1nct 35,State Treasurer,,,(d) jeannine lea lake,0
+Delaware,precact 39,U.S. House,6.0,R,greg pence,145
+Delaware,precact 39,U.S. House,6.0,,jeannine lee lake,202
+Delaware,precact 39,U.S. House,6.0,,torn f3tk'nhoff,14
+Delaware,precinct 01,State Auditor,,D,joselyn whitticker,317
+Delaware,precinct 01,State Auditor,,L,john schick,25
+Delaware,precinct 01,State Auditor,,R,tera klutz,137
+Delaware,precinct 01,State Secretary,,D,jim harper,313
+Delaware,precinct 01,State Secretary,,L,mark w rutherford,32
+Delaware,precinct 01,State Secretary,,R,connie lawson,146
+Delaware,precinct 01,State Secretary,,,write in,4
+Delaware,precinct 01,State Treasurer,,D,john c aguilera,326
+Delaware,precinct 01,State Treasurer,,R,kelly mitchell,152
+Delaware,precinct 01,U.S. Senate,,D,joe donnelly,342
+Delaware,precinct 01,U.S. Senate,,L,lucy m brenton,31
+Delaware,precinct 01,U.S. Senate,,R,mike braun,124
+Delaware,precinct 01,U.S. Senate,,,write in,2
+Delaware,precinct 02,State Auditor,,D,joselyn whitticker,218
+Delaware,precinct 02,State Auditor,,D,john c aguilera,216
+Delaware,precinct 02,State Auditor,,L,john schick,17
+Delaware,precinct 02,State Auditor,,R,tera klutz,283
+Delaware,precinct 02,State Auditor,,R,kelly mitchell,303
+Delaware,precinct 02,State Secretary,,L,mark w rutherford,16
+Delaware,precinct 02,State Secretary,,,(d) jim harper,0
+Delaware,precinct 02,State Secretary,,,write-in,0
+Delaware,precinct 02,U.S. Senate,,D,joe donnelly,253
+Delaware,precinct 02,U.S. Senate,,L,lucy m brenton,17
+Delaware,precinct 02,U.S. Senate,,R,mike braun,255
+Delaware,precinct 02,U.S. Senate,,,write in,0
+Delaware,precinct 03,State Auditor,,D,joselyn whitticker,182
+Delaware,precinct 03,State Auditor,,L,john schick,18
+Delaware,precinct 03,State Auditor,,R,tera klutz,206
+Delaware,precinct 03,State House,34.0,D,sue errington,286
+Delaware,precinct 03,State House,34.0,R,no candidate filed,0
+Delaware,precinct 03,State Secretary,,R,connie lawson,206
+Delaware,precinct 03,State Secretary,,,(d) jim harper,0
+Delaware,precinct 03,State Secretary,,,(l) mark w rutherford,0
+Delaware,precinct 03,State Secretary,,,write in,3
+Delaware,precinct 03,State Senate,25.0,D,tim lanane,213
+Delaware,precinct 03,State Senate,25.0,L,robert q jozwiak,15
+Delaware,precinct 03,State Senate,25.0,R,zaki ali,191
+Delaware,precinct 03,State Treasurer,,D,john c aguilera,187
+Delaware,precinct 03,State Treasurer,,R,kelly mitchell,217
+Delaware,precinct 03,U.S. House,6.0,D,jeannine lee lake,220
+Delaware,precinct 03,U.S. House,6.0,R,greg pence,194
+Delaware,precinct 03,U.S. House,6.0,,(l) tom ferkinhoff,0
+Delaware,precinct 03,U.S. House,6.0,,write in,2
+Delaware,precinct 03,U.S. Senate,,D,joe donnelly,219
+Delaware,precinct 03,U.S. Senate,,L,lucy m brenton,17
+Delaware,precinct 03,U.S. Senate,,R,mike braun,188
+Delaware,precinct 03,U.S. Senate,,,write in,0
+Delaware,precinct 04,State Auditor,,D,joselyn whitticker,298
+Delaware,precinct 04,State Auditor,,L,john schick,22
+Delaware,precinct 04,State Auditor,,R,tera klutz,190
+Delaware,precinct 04,State House,34.0,D,sue errington,405
+Delaware,precinct 04,State House,34.0,R,no candidate filed,0
+Delaware,precinct 04,State Secretary,,D,jim harper,303
+Delaware,precinct 04,State Secretary,,L,mark w rutherford,19
+Delaware,precinct 04,State Secretary,,R,connie lawson,188
+Delaware,precinct 04,State Secretary,,,write in,8
+Delaware,precinct 04,State Senate,25.0,D,tim lanane,314
+Delaware,precinct 04,State Senate,25.0,L,robert q jozwiak,17
+Delaware,precinct 04,State Senate,25.0,R,zaki ali,189
+Delaware,precinct 04,U.S. House,6.0,L,tom ferkinhoff,19
+Delaware,precinct 04,U.S. House,6.0,R,greg pence,156
+Delaware,precinct 04,U.S. House,6.0,,write-in,0
+Delaware,precinct 04,U.S. Senate,,R,mike braun,153
+Delaware,precinct 04,U.S. Senate,,,(d) joe donnelly,0
+Delaware,precinct 04,U.S. Senate,,,(l) lucy m brenton,0
+Delaware,precinct 04,U.S. Senate,,,write-in,0
+Delaware,precinct 05,State Auditor,,D,joselyn whitticker,3
+Delaware,precinct 05,State Auditor,,L,john schick,0
+Delaware,precinct 05,State Auditor,,R,tera klutz,7
+Delaware,precinct 05,State House,35.0,D,melanie m wright,4
+Delaware,precinct 05,State House,35.0,R,ben w fisher,6
+Delaware,precinct 05,State Secretary,,D,jim harper,2
+Delaware,precinct 05,State Secretary,,L,mark w rutherford,0
+Delaware,precinct 05,State Secretary,,R,connie lawson,8
+Delaware,precinct 05,State Secretary,,,write in,0
+Delaware,precinct 05,State Senate,25.0,D,tim lanane,3
+Delaware,precinct 05,State Senate,25.0,L,robert q jozwiak,0
+Delaware,precinct 05,State Senate,25.0,R,zaki ali,7
+Delaware,precinct 05,State Treasurer,,D,john c aguilera,2
+Delaware,precinct 05,State Treasurer,,R,kelly mitchell,8
+Delaware,precinct 05,U.S. House,6.0,D,jeannine lee lake,3
+Delaware,precinct 05,U.S. House,6.0,L,tom ferkinhoff,0
+Delaware,precinct 05,U.S. House,6.0,R,greg pence,7
+Delaware,precinct 05,U.S. House,6.0,,write in,0
+Delaware,precinct 05,U.S. Senate,,D,joe donnelly,2
+Delaware,precinct 05,U.S. Senate,,L,lucy m brenton,0
+Delaware,precinct 05,U.S. Senate,,R,mike bftaun,8
+Delaware,precinct 05,U.S. Senate,,,write in,0
+Delaware,precinct 06,State Auditor,,D,joselyn whitticker,317
+Delaware,precinct 06,State Auditor,,L,john schick,17
+Delaware,precinct 06,State Auditor,,R,tera klutz,108
+Delaware,precinct 06,State Secretary,,D,jim harper,318
+Delaware,precinct 06,State Secretary,,L,mark w rutherford,27
+Delaware,precinct 06,State Secretary,,R,connie lawson,103
+Delaware,precinct 06,State Secretary,,,write in,8
+Delaware,precinct 06,State Treasurer,,D,john c aguilera,318
+Delaware,precinct 06,State Treasurer,,R,kelly mitchell,124
+Delaware,precinct 06,U.S. Senate,,D,joe donnelly,341
+Delaware,precinct 06,U.S. Senate,,L,lucy m brenton,30
+Delaware,precinct 06,U.S. Senate,,R,mike braun,86
+Delaware,precinct 06,U.S. Senate,,,write in,0
+Delaware,"precinct 06,",State House,34.0,D,sue errington,385
+Delaware,"precinct 06,",State House,34.0,R,no candidate filed,0
+Delaware,"precinct 06,",U.S. House,6.0,D,jeannine lee lake,347
+Delaware,"precinct 06,",U.S. House,6.0,D,tim lanane,335
+Delaware,"precinct 06,",U.S. House,6.0,L,tom ferkinhoff,15
+Delaware,"precinct 06,",U.S. House,6.0,L,robert q jozwiak,21
+Delaware,"precinct 06,",U.S. House,6.0,R,greg pence,90
+Delaware,"precinct 06,",U.S. House,6.0,R,zaki ali,100
+Delaware,"precinct 06,",U.S. House,6.0,,write in,1
+Delaware,precinct 07,State Auditor,,D,joselyn whitticker,241
+Delaware,precinct 07,State Auditor,,L,john schick,15
+Delaware,precinct 07,State Auditor,,R,tera klutz,145
+Delaware,precinct 07,State House,34.0,D,sue errington,319
+Delaware,precinct 07,State House,34.0,R,no candidate filed,0
+Delaware,precinct 07,State Secretary,,D,jim harper,227
+Delaware,precinct 07,State Secretary,,L,mark w rutherford,17
+Delaware,precinct 07,State Secretary,,R,connie lawson,161
+Delaware,precinct 07,State Secretary,,,write in,2
+Delaware,precinct 07,State Senate,25.0,D,tim lanane,257
+Delaware,precinct 07,State Senate,25.0,L,roberto jozwiak,17
+Delaware,precinct 07,State Senate,25.0,R,zaki ali,141
+Delaware,precinct 07,State Treasurer,,D,john c aguilera,241
+Delaware,precinct 07,State Treasurer,,R,kelly mitchell,164
+Delaware,precinct 07,U.S. House,6.0,D,jeannine lee lake,259
+Delaware,precinct 07,U.S. House,6.0,L,torn ferkinhoff,20
+Delaware,precinct 07,U.S. House,6.0,R,greg pence,139
+Delaware,precinct 07,U.S. House,6.0,,write in,0
+Delaware,precinct 07,U.S. Senate,,D,joe donnelly,250
+Delaware,precinct 07,U.S. Senate,,L,lucy m brenton,30
+Delaware,precinct 07,U.S. Senate,,R,mike braun,136
+Delaware,precinct 07,U.S. Senate,,,write in,0
+Delaware,precinct 08,State Auditor,,D,joselyn whitticker,262
+Delaware,precinct 08,State Auditor,,L,john schick,18
+Delaware,precinct 08,State Auditor,,R,tera klutz,219
+Delaware,precinct 08,State House,34.0,D,sue errington,376
+Delaware,precinct 08,State House,34.0,R,no candidate filed,0
+Delaware,precinct 08,State Secretary,,D,jim harper,269
+Delaware,precinct 08,State Secretary,,L,mark w rutherford,21
+Delaware,precinct 08,State Secretary,,R,connie lawson,215
+Delaware,precinct 08,State Secretary,,,write in,5
+Delaware,precinct 08,State Senate,25.0,D,tim lanane,277
+Delaware,precinct 08,State Senate,25.0,L,robert q jozwiak,11
+Delaware,precinct 08,State Senate,25.0,R,zaki ali,224
+Delaware,precinct 08,State Treasurer,,D,john c aguilera,267
+Delaware,precinct 08,State Treasurer,,R,kelly mitchell,231
+Delaware,precinct 08,U.S. House,6.0,D,jeannine lee lake,302
+Delaware,precinct 08,U.S. House,6.0,L,torn ferkinhoff,19
+Delaware,precinct 08,U.S. House,6.0,R,greg pence,200
+Delaware,precinct 08,U.S. House,6.0,,write in,0
+Delaware,precinct 08,U.S. Senate,,L,lucy m brenton,31
+Delaware,precinct 08,U.S. Senate,,R,mike braun,197
+Delaware,precinct 08,U.S. Senate,,,(d) joe donnelly,0
+Delaware,precinct 08,U.S. Senate,,,write in,0
+Delaware,precinct 09,State Auditor,,D,joselyn whitticker,190
+Delaware,precinct 09,State Auditor,,L,john schick,22
+Delaware,precinct 09,State Auditor,,R,tera klutz,210
+Delaware,precinct 09,State Secretary,,D,jim harper,186
+Delaware,precinct 09,State Secretary,,L,mark w rutherford,16
+Delaware,precinct 09,State Secretary,,R,connie lawson,243
+Delaware,precinct 09,State Secretary,,,write in,0
+Delaware,precinct 09,State Senate,25.0,D,tim lanane,209
+Delaware,precinct 09,State Senate,25.0,L,robert q jozwiak,19
+Delaware,precinct 09,State Senate,25.0,R,zaki all,213
+Delaware,precinct 09,State Treasurer,,D,john c aguilera,187
+Delaware,precinct 09,State Treasurer,,R,kelly mitchell,238
+Delaware,precinct 09,U.S. Senate,,D,joe donnelly,208
+Delaware,precinct 09,U.S. Senate,,R,mike braun,209
+Delaware,precinct 09,U.S. Senate,,,(l) lucy m brenton,27
+Delaware,precinct 09,U.S. Senate,,,write in,0
+Delaware,precinct 1,State Auditor,,D,joselyn whitticker,317
+Delaware,precinct 1,State Auditor,,L,john schick,25
+Delaware,precinct 1,State Auditor,,R,tera klutz,137
+Delaware,precinct 1,State House,34.0,D,sue errington,388
+Delaware,precinct 1,State House,34.0,R ,no candidate filed,0
+Delaware,precinct 1,State Secretary,,D,jim harper,313
+Delaware,precinct 1,State Secretary,,L,mark w rutherford,32
+Delaware,precinct 1,State Secretary,,R,connie lawson,146
+Delaware,precinct 1,State Secretary,,,write in,4
+Delaware,precinct 1,State Senate,25.0,D,tim lanane,340
+Delaware,precinct 1,State Senate,25.0,L,robert q jozwiak,19
+Delaware,precinct 1,State Senate,25.0,R,zaki ali,138
+Delaware,precinct 1,State Treasurer,,D,john c aguilera,326
+Delaware,precinct 1,State Treasurer,,R,kelly mitchell,152
+Delaware,precinct 1,U.S. House,6.0,D,jeannine lee lake,353
+Delaware,precinct 1,U.S. House,6.0,L,tom ferkinhoff,16
+Delaware,precinct 1,U.S. House,6.0,R,greg pence,129
+Delaware,precinct 1,U.S. Senate,,D,joe donnelly,342
+Delaware,precinct 1,U.S. Senate,,L,lucy m brenton,31
+Delaware,precinct 1,U.S. Senate,,R,mike braun,124
+Delaware,precinct 1,U.S. Senate,,,write in,2
+Delaware,precinct 1,Write In,6.0,,write in,1
+Delaware,precinct 10,State House,34.0,R,no candidate filed,0
+Delaware,precinct 10,State House,34.0,R ,no candidate filed,0
+Delaware,precinct 10,State Secretary,,R,connie lawson,90
+Delaware,precinct 10,State Secretary,,,(r) connie lawson,0
+Delaware,precinct 10,U.S. House,6.0,L,torn ferkinhoff,13
+Delaware,precinct 10,U.S. House,6.0,L,tom ferkinhoff,13
+Delaware,precinct 10,U.S. House,6.0,,write in,0
+Delaware,precinct 10,U.S. Senate,,D,joe donnelly,200
+Delaware,precinct 10,Write In,6.0,,write in,0
+Delaware,precinct 11,State House,34.0,D,sue errington,344
+Delaware,precinct 11,State House,34.0,R ,no candidate filed,0
+Delaware,precinct 11,State Senate,25.0,D,tim lanane,297
+Delaware,precinct 11,State Senate,25.0,L,robert q jozwiak,16
+Delaware,precinct 11,State Senate,25.0,R,zaki ali,146
+Delaware,precinct 11,U.S. House,6.0,D,jeannine lee lake,305
+Delaware,precinct 11,U.S. House,6.0,L,tom ferkinhoff,12
+Delaware,precinct 11,U.S. House,6.0,R,greg pence,141
+Delaware,precinct 11,Write In,6.0,,write in,0
+Delaware,precinct 12,State House,34.0,R,no candidate filed,0
+Delaware,precinct 12,State House,34.0,R ,no candidate filed,0
+Delaware,precinct 12,State Secretary,,L,mark w rutherford,10
+Delaware,precinct 12,State Secretary,,,write in,0
+Delaware,precinct 12,State Senate,25.0,R,zaki all,109
+Delaware,precinct 12,State Senate,25.0,R,zaki ali,109
+Delaware,precinct 12,U.S. House,6.0,,write in,0
+Delaware,precinct 12,Write In,6.0,,write in,0
+Delaware,precinct 13,State House,34.0,R,no candidate filed 1,0
+Delaware,precinct 13,State House,34.0,R ,no candidate filed,0
+Delaware,precinct 13,U.S. House,6.0,L,tom ferkinhoff,9
+Delaware,precinct 13,U.S. House,6.0,,(l) tom ferkinhoff,0
+Delaware,precinct 13,U.S. House,6.0,,write in,0
+Delaware,precinct 13,Write In,6.0,,write in,0
+Delaware,precinct 14,State House,34.0,D,sue errington,394
+Delaware,precinct 14,State House,34.0,R,no candidate filed,0
+Delaware,precinct 14,State House,34.0,R ,no candidate filed,0
+Delaware,precinct 14,State House,34.0,,(d) sue errington,0
+Delaware,precinct 14,State Secretary,,D,jim harper,287
+Delaware,precinct 14,State Secretary,,L,mark w rutherford,29
+Delaware,precinct 14,State Secretary,,R,connie lawson,242
+Delaware,precinct 14,State Secretary,,,write in,4
+Delaware,precinct 14,State Senate,25.0,D,tim lanane,320
+Delaware,precinct 14,State Senate,25.0,L,robert q jozwiak,22
+Delaware,precinct 14,State Senate,25.0,R,zaki ali,225
+Delaware,precinct 14,State Treasurer,,L,tom ferkinhoff,24
+Delaware,precinct 14,State Treasurer,,,(r) greg pence,0
+Delaware,precinct 14,State Treasurer,,,(d) jeannine lee lake,0
+Delaware,precinct 14,State Treasurer,,,write in,1
+Delaware,precinct 14,U.S. House,6.0,D,jeannine lee lake,306
+Delaware,precinct 14,U.S. House,6.0,L,tom ferkinhoff,24
+Delaware,precinct 14,U.S. House,6.0,R,greg pence,239
+Delaware,precinct 14,Write In,6.0,,write in,1
+Delaware,precinct 15,State Auditor,,D,joselyn whitticker,199
+Delaware,precinct 15,State Auditor,,L,john schick,23
+Delaware,precinct 15,State Auditor,,R,tera klutz,157
+Delaware,precinct 15,State House,34.0,D,sue errington,272
+Delaware,precinct 15,State House,34.0,R ,no candidate filed,0
+Delaware,precinct 15,State Secretary,,D,jim harper,204
+Delaware,precinct 15,State Secretary,,L,mark w rutherford,19
+Delaware,precinct 15,State Secretary,,R,connie lawson,168
+Delaware,precinct 15,State Secretary,,,write in,0
+Delaware,precinct 15,State Senate,25.0,D,tim lanane,216
+Delaware,precinct 15,State Senate,25.0,L,robert q jozwiak,13
+Delaware,precinct 15,State Treasurer,,D,john c aguilera,201
+Delaware,precinct 15,State Treasurer,,R,kelly mitchell,176
+Delaware,precinct 15,U.S. House,6.0,D,jeannine lee lake,209
+Delaware,precinct 15,U.S. House,6.0,L,tom ferkinhoff,20
+Delaware,precinct 15,U.S. House,6.0,R,greg pence,166
+Delaware,precinct 15,U.S. Senate,,D,joe donnelly,209
+Delaware,precinct 15,U.S. Senate,,L,lucy m brenton,28
+Delaware,precinct 15,U.S. Senate,,R,mike braun,161
+Delaware,precinct 15,U.S. Senate,,,write in,1
+Delaware,precinct 15,Write In,6.0,,write in,0
+Delaware,precinct 15 if,State Auditor,,D,joselyn whitticker,199
+Delaware,precinct 15 if,State Auditor,,L,john schick,23
+Delaware,precinct 15 if,State Auditor,,R,tera klutz,157
+Delaware,precinct 15 if,State Secretary,,D,jim harper,204
+Delaware,precinct 15 if,State Secretary,,L,mark w rutherford,19
+Delaware,precinct 15 if,State Secretary,,R,connie lawson,168
+Delaware,precinct 15 if,State Secretary,,,write in,0
+Delaware,precinct 15 if,State Treasurer,,D,john c aguilera,201
+Delaware,precinct 15 if,State Treasurer,,,(r) kelly mitchell,0
+Delaware,precinct 15 if,U.S. Senate,,,(r) mike braun,0
+Delaware,precinct 15 if,U.S. Senate,,,(d) joe donnelly,0
+Delaware,precinct 15 if,U.S. Senate,,,(l) lucy m brenton,0
+Delaware,precinct 15 if,U.S. Senate,,,write in,1
+Delaware,precinct 18,State Auditor,,R,teraklutz,46
+Delaware,precinct 18,State Auditor,,R,tera klutz,46
+Delaware,precinct 18,State House,34.0,D,sue errington,300
+Delaware,precinct 18,State House,34.0,R ,no candidate filed,0
+Delaware,precinct 18,State Senate,25.0,D,tim lanane,232
+Delaware,precinct 18,State Senate,25.0,L,robert q jozwiak,7
+Delaware,precinct 18,State Senate,25.0,R,zaki ali,97
+Delaware,precinct 18,State Treasurer,,D,john c aguilera,282
+Delaware,precinct 18,State Treasurer,,R,kelly mitchell,44
+Delaware,precinct 18,U.S. House,6.0,D,jeannine lee lake,288
+Delaware,precinct 18,U.S. House,6.0,L,tom ferkinhoff,7
+Delaware,precinct 18,U.S. House,6.0,R,greg pence,42
+Delaware,precinct 18,Write In,6.0,,write in,0
+Delaware,precinct 18 t,State House,34.0,D,sue errington,300
+Delaware,precinct 18 t,State House,34.0,,(r) no candidate filed,0
+Delaware,precinct 18 t,State Senate,25.0,D,tim lanane,232
+Delaware,precinct 18 t,State Senate,25.0,L,robert q jozwiak,7
+Delaware,precinct 18 t,State Senate,25.0,R,zaki ali,97
+Delaware,precinct 18 t,U.S. House,6.0,D,jeannine lee lake,288
+Delaware,precinct 18 t,U.S. House,6.0,L,tom ferkinhoff,7
+Delaware,precinct 18 t,U.S. House,6.0,R,greg pence,42
+Delaware,precinct 18 t,U.S. House,6.0,,write in,0
+Delaware,precinct 19,State House,34.0,D,sue errington,241
+Delaware,precinct 19,State House,34.0,R ,no candidate filed,0
+Delaware,precinct 19,State Secretary,,,write in,1
+Delaware,precinct 19,State Senate,25.0,D,tim lanane,189
+Delaware,precinct 19,State Senate,25.0,L,robert q jozwiak,11
+Delaware,precinct 19,State Senate,25.0,,tim lanane,189
+Delaware,precinct 19,State Senate,25.0,,(l) robert q jozwiak,0
+Delaware,precinct 19,State Treasurer,,R,kelly mitchell,89
+Delaware,precinct 19,State Treasurer,,,(r) kelly mitchell,0
+Delaware,precinct 19,U.S. House,6.0,D,jeannine lee lake,213
+Delaware,precinct 19,U.S. House,6.0,L,tom ferkinhoff,9
+Delaware,precinct 19,U.S. House,6.0,R,greg pence,73
+Delaware,precinct 19,Write In,6.0,,write in,0
+Delaware,precinct 2,State Auditor,,D,joselyn whitticker,218
+Delaware,precinct 2,State Auditor,,L,john schick,17
+Delaware,precinct 2,State Auditor,,R,tera klutz,283
+Delaware,precinct 2,State House,35.0,D,melanie m wright,274
+Delaware,precinct 2,State House,35.0,R ,ben w fisher,241
+Delaware,precinct 2,State Secretary,,D,jim harper,210
+Delaware,precinct 2,State Secretary,,L,mark w rutherford,16
+Delaware,precinct 2,State Secretary,,R,connie lawson,297
+Delaware,precinct 2,State Secretary,,,write in,2
+Delaware,precinct 2,State Senate,25.0,D,tim lanane,232
+Delaware,precinct 2,State Senate,25.0,L,robert q jozwiak,9
+Delaware,precinct 2,State Senate,25.0,R,zaki ali,284
+Delaware,precinct 2,State Treasurer,,D,john c aguilera,216
+Delaware,precinct 2,State Treasurer,,R,kelly mitchell,303
+Delaware,precinct 2,U.S. House,6.0,D,jeannine lee lake,262
+Delaware,precinct 2,U.S. House,6.0,L,tom ferkinhoff,7
+Delaware,precinct 2,U.S. House,6.0,R,greg pence,258
+Delaware,precinct 2,U.S. Senate,,D,joe donnelly,253
+Delaware,precinct 2,U.S. Senate,,L,lucy m brenton,17
+Delaware,precinct 2,U.S. Senate,,R,mike braun,255
+Delaware,precinct 2,U.S. Senate,,,write in,0
+Delaware,precinct 2,Write In,6.0,,write in,0
+Delaware,precinct 20,State House,34.0,D,sue errington,354
+Delaware,precinct 20,State House,34.0,R ,no candidate filed,0
+Delaware,precinct 20,State Senate,25.0,D,tim lanane,299
+Delaware,precinct 20,State Senate,25.0,L,robert q jozwiak,4
+Delaware,precinct 20,State Senate,25.0,R,zaki ali,84
+Delaware,precinct 20,U.S. House,6.0,D,jeannine lee lake,355
+Delaware,precinct 20,U.S. House,6.0,L,tom ferkinhoff,6
+Delaware,precinct 20,U.S. House,6.0,R,greg pence,30
+Delaware,precinct 20,Write In,6.0,,write in,0
+Delaware,precinct 20 ',State House,34.0,D,sue errington,354
+Delaware,precinct 20 ',State House,34.0,,(r) no candidate filed,0
+Delaware,precinct 20 ',State Senate,25.0,,(r) zaki au,0
+Delaware,precinct 20 ',State Senate,25.0,,7726% (d) tim lanane,93
+Delaware,precinct 20 ',State Senate,25.0,,(l) robert q jozwiak,0
+Delaware,precinct 20 ',U.S. House,6.0,L,tom ferkinhoff,6
+Delaware,precinct 20 ',U.S. House,6.0,R,greg pence,30
+Delaware,precinct 20 ',U.S. House,6.0,,(d) jeannine lee lake,355
+Delaware,precinct 20 ',U.S. House,6.0,,write-in,0
+Delaware,precinct 22,State House,34.0,R ,no candidate filed,0
+Delaware,precinct 22,State Secretary,,D,jim harper,267
+Delaware,precinct 22,State Secretary,,,jim harper,267
+Delaware,precinct 22,U.S. House,6.0,,write in,0
+Delaware,precinct 22,U.S. Senate,,D,joe donnelly,292
+Delaware,precinct 22,U.S. Senate,,L,lucy m brenton,30
+Delaware,precinct 22,U.S. Senate,,R,mike braun,205
+Delaware,precinct 22,U.S. Senate,,,write in,1
+Delaware,precinct 22,Write In,6.0,,write in,0
+Delaware,precinct 23,State Auditor,,R,t era klutz,144
+Delaware,precinct 23,State Auditor,,R,tera klutz,144
+Delaware,precinct 23,State House,34.0,D,sue errington,234
+Delaware,precinct 23,State House,34.0,R ,no candidate filed,0
+Delaware,precinct 23,State Secretary,,L,mark w rutherford,19
+Delaware,precinct 23,State Senate,25.0,D,tim lanane i,173
+Delaware,precinct 23,State Senate,25.0,D,tim lanane,173
+Delaware,precinct 23,State Senate,25.0,L,robert q jozwiak i,17
+Delaware,precinct 23,State Senate,25.0,L,robert q jozwiak,17
+Delaware,precinct 23,U.S. House,6.0,,write in,0
+Delaware,precinct 23,Write In,6.0,,write in,0
+Delaware,precinct 25,State House,34.0,D,sue errington,280
+Delaware,precinct 25,State House,34.0,R,no candidate filed,0
+Delaware,precinct 25,State House,34.0,R ,no candidate filed,0
+Delaware,precinct 25,State House,34.0,,sue errington,280
+Delaware,precinct 25,State Secretary,,R,connie lawson,114
+Delaware,precinct 25,State Secretary,,,(r) connie lawson,0
+Delaware,precinct 25,State Senate,25.0,L,robert q jozwiak,12
+Delaware,precinct 25,State Senate,25.0,R,zaki aui,105
+Delaware,precinct 25,State Senate,25.0,R,zaki ali,105
+Delaware,precinct 25,U.S. House,6.0,,write in,0
+Delaware,precinct 25,Write In,6.0,,write in,0
+Delaware,precinct 26,State Auditor,,D,joselyn whitticker,140
+Delaware,precinct 26,State Auditor,,L,l0)n 9ohick,3
+Delaware,precinct 26,State Auditor,,L,john schick,3
+Delaware,precinct 26,State Auditor,,,whitticker,140
+Delaware,precinct 26,State House,34.0,D,sue errington,187
+Delaware,precinct 26,State House,34.0,R ,no candidate filed,0
+Delaware,precinct 26,State Secretary,,D,jim harper,144
+Delaware,precinct 26,State Secretary,,L,mark w rutherford,5
+Delaware,precinct 26,State Secretary,,R,connie lawson,89
+Delaware,precinct 26,State Secretary,,,write in,5
+Delaware,precinct 26,State Senate,25.0,D,tim lanane,155
+Delaware,precinct 26,State Senate,25.0,L,robert q jozwiak,3
+Delaware,precinct 26,State Senate,25.0,R,:zak' aii,85
+Delaware,precinct 26,State Senate,25.0,R,zaki ali,85
+Delaware,precinct 26,State Treasurer,,D,john c aguilera,144
+Delaware,precinct 26,State Treasurer,,,c aguilera,144
+Delaware,precinct 26,U.S. House,6.0,L,toni farkinhoff,5
+Delaware,precinct 26,U.S. House,6.0,L,tom ferkinhoff,5
+Delaware,precinct 26,U.S. House,6.0,R,grea pence,73
+Delaware,precinct 26,U.S. House,6.0,R,greg pence,73
+Delaware,precinct 26,U.S. House,6.0,,write in,0
+Delaware,precinct 26,Write In,6.0,,write in,0
+Delaware,precinct 27,State Auditor,,L,john schick,36
+Delaware,precinct 27,State Auditor,,R,tere klutz,123
+Delaware,precinct 27,State Auditor,,R,tera klutz,123
+Delaware,precinct 27,State Auditor,,,schick,36
+Delaware,precinct 27,State House,34.0,D,sue errington,522
+Delaware,precinct 27,State House,34.0,R,no candidate filed,0
+Delaware,precinct 27,State House,34.0,R ,no candidate filed,0
+Delaware,precinct 27,State House,34.0,,sue enington,522
+Delaware,precinct 27,State Secretary,,D,jim harper,443
+Delaware,precinct 27,State Secretary,,L,mark w rutherford,28
+Delaware,precinct 27,State Secretary,,R,connie lawson,126
+Delaware,precinct 27,State Secretary,,,write in,4
+Delaware,precinct 27,State Senate,25.0,L,robert u joavriak,30
+Delaware,precinct 27,State Senate,25.0,L,robert q jozwiak,30
+Delaware,precinct 27,State Senate,25.0,R,2aki ali,126
+Delaware,precinct 27,State Senate,25.0,R,zaki ali,126
+Delaware,precinct 27,U.S. House,6.0,,write-in,0
+Delaware,precinct 27,U.S. Senate,,D,joe donnelly,460
+Delaware,precinct 27,U.S. Senate,,,(d) joe donnelly,0
+Delaware,precinct 27,Write In,6.0,,write in,0
+Delaware,precinct 28,State Auditor,,D,joselyn whitticker,264
+Delaware,precinct 28,State Auditor,,L,john schick,26
+Delaware,precinct 28,State Auditor,,R,teiza klutz,236
+Delaware,precinct 28,State Auditor,,R,tera klutz,236
+Delaware,precinct 28,State Auditor,,,joselyn whitticker,264
+Delaware,precinct 28,State Auditor,,,john schick,26
+Delaware,precinct 28,State House,34.0,D,sue errington,383
+Delaware,precinct 28,State House,34.0,R,no candidate filed,0
+Delaware,precinct 28,State House,34.0,R,`in cundidete filed,0
+Delaware,precinct 28,State House,34.0,R ,no candidate filed,0
+Delaware,precinct 28,State House,34.0,,r ile eriington,383
+Delaware,precinct 28,State House,34.0,,kimberly s dowling,369
+Delaware,precinct 28,State Secretary,,D,jim harper,264
+Delaware,precinct 28,State Secretary,,L,mark w rutherford,27
+Delaware,precinct 28,State Secretary,,R,connie lawson,246
+Delaware,precinct 28,State Secretary,,,write in,0
+Delaware,precinct 28,State Senate,25.0,L,"rc,ocrt ci jozwiak",19
+Delaware,precinct 28,State Senate,25.0,L,robert q jozwiak,19
+Delaware,precinct 28,State Senate,25.0,R,zak; ai1,220
+Delaware,precinct 28,State Senate,25.0,R,zaki ali,220
+Delaware,precinct 28,U.S. House,6.0,L,toro ferkinhoff,11
+Delaware,precinct 28,U.S. House,6.0,L,tom ferkinhoff,11
+Delaware,precinct 28,U.S. House,6.0,,write in,0
+Delaware,precinct 28,Write In,6.0,,write in,0
+Delaware,precinct 29,State Auditor,,D,joselyn whitticker,284
+Delaware,precinct 29,State Auditor,,R,'teri\ klutz,275
+Delaware,precinct 29,State Auditor,,R,tera klutz,275
+Delaware,precinct 29,State Auditor,,,joselyi i whitticker,284
+Delaware,precinct 29,State House,33.0,D,s non byrum,291
+Delaware,precinct 29,State House,33.0,D,fimbeey s dowling,398
+Delaware,precinct 29,State House,33.0,D,shon byrum,291
+Delaware,precinct 29,State House,33.0,L,dale arnett,19
+Delaware,precinct 29,State House,33.0,L,dale amett,19
+Delaware,precinct 29,State House,33.0,R,john (jd) prescott,273
+Delaware,precinct 29,State House,33.0,R,no candidate filed,0
+Delaware,precinct 29,State House,33.0,R ,john (jd) prescott,273
+Delaware,precinct 29,State Secretary,,D,jim harper,279
+Delaware,precinct 29,State Secretary,,L,mark w rutherford,20
+Delaware,precinct 29,State Secretary,,R,connie lawson,295
+Delaware,precinct 29,State Secretary,,,write in,0
+Delaware,precinct 29,State Senate,25.0,D,tim lanane,297
+Delaware,precinct 29,State Senate,25.0,L,robert q jozwiak,17
+Delaware,precinct 29,State Senate,25.0,R,zaki ali,292
+Delaware,precinct 29,State Treasurer,,D,john c aguilera,274
+Delaware,precinct 29,State Treasurer,,,john c aguilera,274
+Delaware,precinct 29,Write In,6.0,,write in,0
+Delaware,precinct 3,State Auditor,,D,joselyn whitticker,182
+Delaware,precinct 3,State Auditor,,L,john schick,18
+Delaware,precinct 3,State Auditor,,R,tera klutz,206
+Delaware,precinct 3,State House,34.0,D,sue errington,286
+Delaware,precinct 3,State House,34.0,R ,no candidate filed,0
+Delaware,precinct 3,State Secretary,,D,jim harper,195
+Delaware,precinct 3,State Secretary,,L,mark w rutherford,16
+Delaware,precinct 3,State Secretary,,R,connie lawson,206
+Delaware,precinct 3,State Secretary,,,write in,3
+Delaware,precinct 3,State Senate,25.0,D,tim lanane,213
+Delaware,precinct 3,State Senate,25.0,L,robert q jozwiak,15
+Delaware,precinct 3,State Senate,25.0,R,zaki ali,191
+Delaware,precinct 3,State Treasurer,,D,john c aguilera,187
+Delaware,precinct 3,State Treasurer,,R,kelly mitchell,217
+Delaware,precinct 3,U.S. House,6.0,D,jeannine lee lake,220
+Delaware,precinct 3,U.S. House,6.0,L,tom ferkinhoff,9
+Delaware,precinct 3,U.S. House,6.0,R,greg pence,194
+Delaware,precinct 3,U.S. Senate,,D,joe donnelly,219
+Delaware,precinct 3,U.S. Senate,,L,lucy m brenton,17
+Delaware,precinct 3,U.S. Senate,,R,mike braun,188
+Delaware,precinct 3,U.S. Senate,,,write in,0
+Delaware,precinct 3,Write In,6.0,,write in,2
+Delaware,precinct 33,State Auditor,,D,joselyn whitticker,375
+Delaware,precinct 33,State Auditor,,L,john schick,32
+Delaware,precinct 33,State Auditor,,R,teira klutz,346
+Delaware,precinct 33,State Auditor,,R,tera klutz,346
+Delaware,precinct 33,State Auditor,,,"josely1,1 whitticker",375
+Delaware,precinct 33,State House,34.0,D,sue errington,566
+Delaware,precinct 33,State House,34.0,R,no candidate filed,0
+Delaware,precinct 33,State House,34.0,R ,no candidate filed,0
+Delaware,precinct 33,State House,34.0,,site errington,566
+Delaware,precinct 33,State Secretary,,D,jim harper,377
+Delaware,precinct 33,State Secretary,,L,mark w rutherford,30
+Delaware,precinct 33,State Secretary,,R,connie lawson,352
+Delaware,precinct 33,State Secretary,,,write in,14
+Delaware,precinct 33,State Senate,25.0,D,tim lanane,421
+Delaware,precinct 33,State Senate,25.0,L,robert q jozwiak,24
+Delaware,precinct 33,State Senate,25.0,R,zaki ali,331
+Delaware,precinct 33,State Treasurer,,D,john c aguilera,394
+Delaware,precinct 33,State Treasurer,,,john c aguilera,394
+Delaware,precinct 33,U.S. House,6.0,D,tim lanane,421
+Delaware,precinct 33,U.S. House,6.0,L,torn ferkinhoff,28
+Delaware,precinct 33,U.S. House,6.0,L,licibert 0 jozwiak,24
+Delaware,precinct 33,U.S. House,6.0,L,tom ferkinhoff,28
+Delaware,precinct 33,U.S. House,6.0,,write in,0
+Delaware,precinct 33,U.S. House,6.0,,zaki au,331
+Delaware,precinct 33,U.S. Senate,,R,mike braun,286
+Delaware,precinct 33,U.S. Senate,,,(r) mike braun,0
+Delaware,precinct 33,Write In,6.0,,write in,0
+Delaware,precinct 34,State Auditor,,D,joselyn whitticker,242
+Delaware,precinct 34,State Auditor,,L,john schick,17
+Delaware,precinct 34,State Auditor,,R,tera klutz,227
+Delaware,precinct 34,State Auditor,,,t era iclutz,200
+Delaware,precinct 34,State Auditor,,,whitticker,275
+Delaware,precinct 34,State House,34.0,D,sue errington,339
+Delaware,precinct 34,State House,34.0,R ,no candidate filed,0
+Delaware,precinct 34,State Secretary,,D,jim harper,243
+Delaware,precinct 34,State Secretary,,L,mark w rutherford,15
+Delaware,precinct 34,State Secretary,,R,connie lawson,244
+Delaware,precinct 34,State Secretary,,,write in,6
+Delaware,precinct 34,State Senate,25.0,D,tim lanane,277
+Delaware,precinct 34,State Senate,25.0,L,robert q jozwiak,9
+Delaware,precinct 34,State Senate,25.0,R,zaki ali,215
+Delaware,precinct 34,State Treasurer,,D,john c aguilera,273
+Delaware,precinct 34,State Treasurer,,D,john c aguilera,243
+Delaware,precinct 34,State Treasurer,,,john c aguilera,243
+Delaware,precinct 34,U.S. House,6.0,D,jeannine lee lake,290
+Delaware,precinct 34,U.S. House,6.0,L,trim farkinhoff,14
+Delaware,precinct 34,U.S. House,6.0,L,tom ferkinhoff,14
+Delaware,precinct 34,U.S. House,6.0,R,sreo pence,202
+Delaware,precinct 34,U.S. House,6.0,R,greg pence,202
+Delaware,precinct 34,U.S. House,6.0,,jeannine lee lake,290
+Delaware,precinct 34,U.S. House,6.0,,,0
+Delaware,precinct 34,U.S. Senate,,L,wc( u brenton,18
+Delaware,precinct 34,U.S. Senate,,L,lucy m brenton,40
+Delaware,precinct 34,U.S. Senate,,L,lucy m brenton,18
+Delaware,precinct 34,U.S. Senate,,R,mike braun,191
+Delaware,precinct 34,Write In,6.0,,write in,0
+Delaware,precinct 35,State Auditor,,D,joselyn whitticker,275
+Delaware,precinct 35,State Auditor,,L,john schick,23
+Delaware,precinct 35,State Auditor,,R,tera klutz,200
+Delaware,precinct 35,State House,34.0,D,sue errington,361
+Delaware,precinct 35,State House,34.0,R ,no candidate filed,0
+Delaware,precinct 35,State Secretary,,D,jim harper,258
+Delaware,precinct 35,State Secretary,,L,mark w rutherford,18
+Delaware,precinct 35,State Secretary,,R,connie lawson,230
+Delaware,precinct 35,State Secretary,,,write in,2
+Delaware,precinct 35,State Senate,25.0,D,tim lanane,288
+Delaware,precinct 35,State Senate,25.0,L,robert q jozwiak,9
+Delaware,precinct 35,State Senate,25.0,R,zaki ali,207
+Delaware,precinct 35,State Treasurer,,D,john c aguilera,273
+Delaware,precinct 35,State Treasurer,,R,kelly mitchell,226
+Delaware,precinct 35,U.S. House,6.0,D,jeannine lee lake,292
+Delaware,precinct 35,U.S. House,6.0,L,tom ferkinhoff,9
+Delaware,precinct 35,U.S. House,6.0,R,greg pence,207
+Delaware,precinct 35,U.S. Senate,,D,joe donnelly,282
+Delaware,precinct 35,U.S. Senate,,L,lucy m brenton,40
+Delaware,precinct 35,U.S. Senate,,R,mike braun,191
+Delaware,precinct 35,U.S. Senate,,,write in,0
+Delaware,precinct 35,Write In,6.0,,write in,2
+Delaware,precinct 36,State Auditor,,D,joselyn whitticker,340
+Delaware,precinct 36,State Auditor,,L,john schick,24
+Delaware,precinct 36,State Auditor,,R,cera klutz,275
+Delaware,precinct 36,State Auditor,,R,tera klutz,275
+Delaware,precinct 36,State Auditor,,,josel (14 vvhitticker,340
+Delaware,precinct 36,State House,34.0,D,sue errington,478
+Delaware,precinct 36,State House,34.0,R ,no candidate filed,0
+Delaware,precinct 36,State Secretary,,D,jim harper,327
+Delaware,precinct 36,State Secretary,,L,mark w rutherford,29
+Delaware,precinct 36,State Secretary,,R,connie lawson,285
+Delaware,precinct 36,State Secretary,,,write in,10
+Delaware,precinct 36,State Senate,25.0,D,tim lanane,389
+Delaware,precinct 36,State Senate,25.0,L,robert q jozwiak,20
+Delaware,precinct 36,State Senate,25.0,R,zaki ali,249
+Delaware,precinct 36,State Treasurer,,D,john c aguilera,352
+Delaware,precinct 36,State Treasurer,,,john c aguilera,352
+Delaware,precinct 36,U.S. House,6.0,D,tim lanane,389
+Delaware,precinct 36,U.S. House,6.0,D,jeannine lee lake,415
+Delaware,precinct 36,U.S. House,6.0,L,liabert 0 jozwiak,20
+Delaware,precinct 36,U.S. House,6.0,L,tom ferkinhoff,20
+Delaware,precinct 36,U.S. House,6.0,R,gyeg pence,227
+Delaware,precinct 36,U.S. House,6.0,R,greg pence,227
+Delaware,precinct 36,U.S. House,6.0,,jeannine lee lake,415
+Delaware,precinct 36,U.S. House,6.0,,tom ferkinhoff,20
+Delaware,precinct 36,U.S. House,6.0,,write in,0
+Delaware,precinct 36,U.S. House,6.0,,2 ali p;,249
+Delaware,precinct 36,U.S. Senate,,D,joe donnelly,395
+Delaware,precinct 36,Write In,6.0,,write in,0
+Delaware,precinct 38,State Auditor,,D,joselyn whitticker,236
+Delaware,precinct 38,State Auditor,,L,john schick,25
+Delaware,precinct 38,State Auditor,,R,tera klutz,268
+Delaware,precinct 38,State Auditor,,,1e1la klutz,268
+Delaware,precinct 38,State Auditor,,,j0:3e- _111 whitticker,236
+Delaware,precinct 38,State House,34.0,D,sue errington,362
+Delaware,precinct 38,State House,34.0,R ,no candidate filed,0
+Delaware,precinct 38,State Secretary,,D,jim harper,238
+Delaware,precinct 38,State Secretary,,L,mark w rutherford,22
+Delaware,precinct 38,State Secretary,,R,connie lawson,284
+Delaware,precinct 38,State Secretary,,,write in,1
+Delaware,precinct 38,State Senate,25.0,D,tim lanane,275
+Delaware,precinct 38,State Senate,25.0,L,robert q jozwiak,18
+Delaware,precinct 38,State Senate,25.0,R,zaki ali,255
+Delaware,precinct 38,State Senate,25.0,,(0) tim lanane,0
+Delaware,precinct 38,State Senate,25.0,,(l) robert q joawiak,0
+Delaware,precinct 38,State Senate,25.0,,(r) no candidate filed,0
+Delaware,precinct 38,State Senate,25.0,,(di sue ertington,0
+Delaware,precinct 38,State Treasurer,,D,john c aguilera,236
+Delaware,precinct 38,State Treasurer,,,john c aguilera,236
+Delaware,precinct 38,State Treasurer,,,kelly mitchell,156
+Delaware,precinct 38,State Treasurer,,,john c aguilera,188
+Delaware,precinct 38,U.S. House,6.0,D,jeannine lee lake,303
+Delaware,precinct 38,U.S. House,6.0,L,tom ferkinhoff,17
+Delaware,precinct 38,U.S. House,6.0,R,grog pence,230
+Delaware,precinct 38,U.S. House,6.0,R,greg pence,230
+Delaware,precinct 38,U.S. House,6.0,,(d) jeannine lee lake,0
+Delaware,precinct 38,U.S. House,6.0,,(l) tom fe:iiinhoff,0
+Delaware,precinct 38,U.S. Senate,,D,joe donnelly i,283
+Delaware,precinct 38,U.S. Senate,,D,joe donnelly,283
+Delaware,precinct 38,U.S. Senate,,L,luc'r m brenton,34
+Delaware,precinct 38,U.S. Senate,,L,lucy m brenton,22
+Delaware,precinct 38,U.S. Senate,,L,lucy m brenton,34
+Delaware,precinct 38,U.S. Senate,,R,mike braun i,234
+Delaware,precinct 38,U.S. Senate,,R,mike braun,234
+Delaware,precinct 38,U.S. Senate,,,(r) mike braun,0
+Delaware,precinct 38,U.S. Senate,,,(d) joe donnelly,0
+Delaware,precinct 38,U.S. Senate,,,write in,0
+Delaware,precinct 38,Write In,6.0,,write in,0
+Delaware,precinct 39,State Auditor,,D,joselyn whitticker,178
+Delaware,precinct 39,State Auditor,,L,john schick,18
+Delaware,precinct 39,State Auditor,,R,tera klutz,149
+Delaware,precinct 39,State House,34.0,D,sue errington,256
+Delaware,precinct 39,State House,34.0,R ,no candidate filed,0
+Delaware,precinct 39,State Secretary,,D,jim harper,190
+Delaware,precinct 39,State Secretary,,L,mark w rutherford,7
+Delaware,precinct 39,State Secretary,,R,connie lawson,157
+Delaware,precinct 39,State Secretary,,,write in,2
+Delaware,precinct 39,State Senate,25.0,D,tim lanane,200
+Delaware,precinct 39,State Senate,25.0,L,robert q jozwiak,16
+Delaware,precinct 39,State Senate,25.0,R,zaki ali,140
+Delaware,precinct 39,State Treasurer,,D,john c aguilera,188
+Delaware,precinct 39,State Treasurer,,R,kelly mitchell,156
+Delaware,precinct 39,U.S. House,6.0,D,jeannine lee lake,202
+Delaware,precinct 39,U.S. House,6.0,L,tom ferkinhoff,14
+Delaware,precinct 39,U.S. House,6.0,R,greg pence,145
+Delaware,precinct 39,U.S. Senate,,D,joe donnelly,204
+Delaware,precinct 39,U.S. Senate,,L,lucy m brenton,22
+Delaware,precinct 39,U.S. Senate,,R,mike braun,136
+Delaware,precinct 39,U.S. Senate,,,write in,0
+Delaware,precinct 39,Write In,6.0,,write in,0
+Delaware,precinct 4,State Auditor,,D,joselyn whitticker,298
+Delaware,precinct 4,State Auditor,,L,john schick,22
+Delaware,precinct 4,State Auditor,,R,tera klutz,190
+Delaware,precinct 4,State House,34.0,D,sue errington,405
+Delaware,precinct 4,State House,34.0,R ,no candidate filed,0
+Delaware,precinct 4,State Secretary,,D,jim harper,303
+Delaware,precinct 4,State Secretary,,L,mark w rutherford,19
+Delaware,precinct 4,State Secretary,,R,connie lawson,188
+Delaware,precinct 4,State Secretary,,,write in,8
+Delaware,precinct 4,State Senate,25.0,D,tim lanane,314
+Delaware,precinct 4,State Senate,25.0,L,robert q jozwiak,17
+Delaware,precinct 4,State Senate,25.0,R,zaki ali,189
+Delaware,precinct 4,State Treasurer,,D,john c aguilera,305
+Delaware,precinct 4,State Treasurer,,R,kelly mitchell,204
+Delaware,precinct 4,U.S. House,6.0,D,jeannine lee lake,346
+Delaware,precinct 4,U.S. House,6.0,L,tom ferkinhoff,19
+Delaware,precinct 4,U.S. House,6.0,R,greg pence,156
+Delaware,precinct 4,U.S. Senate,,D,joe donnelly,342
+Delaware,precinct 4,U.S. Senate,,L,lucy m brenton,24
+Delaware,precinct 4,U.S. Senate,,R,mike braun,153
+Delaware,precinct 4,U.S. Senate,,,write in,1
+Delaware,precinct 4,Write In,6.0,,write in,1
+Delaware,precinct 40,State House,34.0,D,sue errington,393
+Delaware,precinct 40,State House,34.0,R ,no candidate filed,0
+Delaware,precinct 40,U.S. House,6.0,D,jeannine lee lake,298
+Delaware,precinct 40,U.S. House,6.0,L,tom ferkinhoff,10
+Delaware,precinct 40,U.S. House,6.0,R,greg pence,275
+Delaware,precinct 40,Write In,6.0,,write in,0
+Delaware,precinct 41,State House,33.0,L,dale arnett,10
+Delaware,precinct 41,State House,33.0,L,dale amett,10
+Delaware,precinct 41,State House,33.0,R,john (jo) prescott,159
+Delaware,precinct 41,State House,33.0,R ,john (jd) prescott,159
+Delaware,precinct 41,State Senate,25.0,L,robert q jozwiak,14
+Delaware,precinct 41,U.S. House,6.0,,write in,0
+Delaware,precinct 41,Write In,6.0,,write in,0
+Delaware,precinct 42,State House,35.0,R,ben w fisher,17
+Delaware,precinct 42,State House,35.0,R ,ben w fisher,17
+Delaware,precinct 42,State Senate,25.0,R,zaki ali,19
+Delaware,precinct 42,State Senate,25.0,,(r) zaki ali,0
+Delaware,precinct 42,U.S. House,6.0,,write in,0
+Delaware,precinct 42,Write In,6.0,,write in,0
+Delaware,precinct 43,State Auditor,,D,joselyn whitticker,14
+Delaware,precinct 43,State Auditor,,L,john schick,0
+Delaware,precinct 43,State Auditor,,R,tera klutz,29
+Delaware,precinct 43,State House,34.0,R,no candidate filed ',0
+Delaware,precinct 43,State House,34.0,R ,no candidate filed,0
+Delaware,precinct 43,State Secretary,,R,connie lawson,32
+Delaware,precinct 43,State Senate,25.0,D,tim lanane i,15
+Delaware,precinct 43,State Senate,25.0,D,tim lanane,15
+Delaware,precinct 43,State Treasurer,,D,john c aguilefta,15
+Delaware,precinct 43,State Treasurer,,D,john c aguilera,15
+Delaware,precinct 43,State Treasurer,,R,kelly mitchell,28
+Delaware,precinct 43,U.S. House,6.0,L,torn ferkinhoff,0
+Delaware,precinct 43,U.S. House,6.0,L,tom ferkinhoff,0
+Delaware,precinct 43,U.S. House,6.0,,write in,0
+Delaware,precinct 43,U.S. Senate,,D,joe donnelly,17
+Delaware,precinct 43,U.S. Senate,,D,joe donnelly,1
+Delaware,precinct 43,U.S. Senate,,R,mike braun,28
+Delaware,precinct 43,Write In,6.0,,write in,0
+Delaware,precinct 44,State Auditor,,D,joselyn whitticker,104
+Delaware,precinct 44,State Auditor,,,(d) joselyn whitticker,0
+Delaware,precinct 44,State House,35.0,R,ben w fisher,142
+Delaware,precinct 44,State House,35.0,R ,ben w fisher,142
+Delaware,precinct 44,State Secretary,,D,jim harper,90
+Delaware,precinct 44,State Secretary,,L,mark w rutherford,10
+Delaware,precinct 44,State Secretary,,R,connie lawson,172
+Delaware,precinct 44,State Secretary,,,(r) connie lawson,0
+Delaware,precinct 44,State Secretary,,,(d) jim harper,0
+Delaware,precinct 44,State Secretary,,,(l) mark w rutherford,0
+Delaware,precinct 44,State Secretary,,,write-in,0
+Delaware,precinct 44,State Secretary,,,write in,1
+Delaware,precinct 44,U.S. House,6.0,,write in,0
+Delaware,precinct 44,U.S. Senate,,D,joe donnelly,102
+Delaware,precinct 44,U.S. Senate,,,3696% (d) joe donnelly ',0
+Delaware,precinct 44,Write In,6.0,,write in,0
+Delaware,precinct 45,State House,34.0,D,kimberly s dowling,367
+Delaware,precinct 45,State House,34.0,D,mike king,291
+Delaware,precinct 45,State House,34.0,D,steven g craycraft,378
+Delaware,precinct 45,State House,34.0,R,rick spangler,248
+Delaware,precinct 45,State House,34.0,R ,no candidate filed,0
+Delaware,precinct 45,State House,34.0,,(d) eric m hoffman,371
+Delaware,precinct 45,U.S. House,6.0,,write in,0
+Delaware,precinct 45,Write In,6.0,,write in,0
+Delaware,precinct 46,State House,34.0,D,sue errington,356
+Delaware,precinct 46,State House,34.0,R ,no candidate filed,0
+Delaware,precinct 46,State Secretary,,,write in,0
+Delaware,precinct 46,State Senate,25.0,D,tim lanane,268
+Delaware,precinct 46,State Senate,25.0,L,robert q jozwiak,15
+Delaware,precinct 46,State Senate,25.0,R,zaki ali,263
+Delaware,precinct 46,U.S. House,6.0,D,jeannine lee lake,265
+Delaware,precinct 46,U.S. House,6.0,L,tom ferkinhoff,16
+Delaware,precinct 46,U.S. House,6.0,R,greg pence,272
+Delaware,precinct 46,U.S. Senate,,D,joe donnelly,250
+Delaware,precinct 46,U.S. Senate,,L,lucy m brenton,45
+Delaware,precinct 46,Write In,6.0,,write in,0
+Delaware,precinct 46 !,State House,34.0,D,sue errington,356
+Delaware,precinct 46 !,State House,34.0,R,no candidate filed 1,0
+Delaware,precinct 46 !,U.S. House,6.0,L,tom ferkinhoff,16
+Delaware,precinct 46 !,U.S. House,6.0,R,greg pence,272
+Delaware,precinct 46 !,U.S. House,6.0,,(d) jeannine lee lake,0
+Delaware,precinct 46 !,U.S. House,6.0,,write in,0
+Delaware,precinct 47,State House,34.0,R,no candidate filed,0
+Delaware,precinct 47,State House,34.0,R ,no candidate filed,0
+Delaware,precinct 47,State Secretary,,R,connie lawson,176
+Delaware,precinct 47,U.S. House,6.0,L,tom ferkinhoff,14
+Delaware,precinct 47,U.S. House,6.0,,write in,0
+Delaware,precinct 47,Write In,6.0,,write in,0
+Delaware,precinct 48,State House,34.0,R,no candidate filed,0
+Delaware,precinct 48,State House,34.0,R ,no candidate filed,0
+Delaware,precinct 48,State Senate,25.0,D,tim lanane,140
+Delaware,precinct 48,State Senate,25.0,L,robert q jozwiak,6
+Delaware,precinct 48,State Senate,25.0,R,zaki ali,139
+Delaware,precinct 48,U.S. House,6.0,,write in,0
+Delaware,precinct 48,Write In,6.0,,write in,0
+Delaware,precinct 49,State House,35.0,D,melanie m wright i,28
+Delaware,precinct 49,State House,35.0,D,melanie m wright,28
+Delaware,precinct 49,State House,35.0,R,ben w fisher,29
+Delaware,precinct 49,State House,35.0,R ,ben w fisher,29
+Delaware,precinct 49,State Secretary,,D,jim harper,24
+Delaware,precinct 49,State Secretary,,R,connie lawson,34
+Delaware,precinct 49,State Secretary,,,(r) connie lawson,0
+Delaware,precinct 49,State Secretary,,,(d) jim harper,0
+Delaware,precinct 49,U.S. House,6.0,,write in,0
+Delaware,precinct 49,Write In,6.0,,write in,0
+Delaware,precinct 5,State Auditor,,D,joselyn whitticker,3
+Delaware,precinct 5,State Auditor,,L,john schick,0
+Delaware,precinct 5,State Auditor,,R,tera klutz,7
+Delaware,precinct 5,State House,35.0,D,melanie m wright,4
+Delaware,precinct 5,State House,35.0,R ,ben w fisher,6
+Delaware,precinct 5,State Secretary,,D,jim harper,2
+Delaware,precinct 5,State Secretary,,L,mark w rutherford,0
+Delaware,precinct 5,State Secretary,,R,connie lawson,8
+Delaware,precinct 5,State Secretary,,,write in,0
+Delaware,precinct 5,State Senate,25.0,D,tim lanane,3
+Delaware,precinct 5,State Senate,25.0,L,robert q jozwiak,0
+Delaware,precinct 5,State Senate,25.0,R,zaki ali,7
+Delaware,precinct 5,State Treasurer,,D,john c aguilera,2
+Delaware,precinct 5,State Treasurer,,R,kelly mitchell,8
+Delaware,precinct 5,U.S. House,6.0,D,jeannine lee lake,3
+Delaware,precinct 5,U.S. House,6.0,L,tom ferkinhoff,0
+Delaware,precinct 5,U.S. House,6.0,R,greg pence,7
+Delaware,precinct 5,U.S. Senate,,D,joe donnelly,2
+Delaware,precinct 5,U.S. Senate,,L,lucy m brenton,0
+Delaware,precinct 5,U.S. Senate,,R,mike braun,8
+Delaware,precinct 5,U.S. Senate,,,write in,0
+Delaware,precinct 5,Write In,6.0,,write in,0
+Delaware,precinct 50,State House,34.0,R,no candidate filed,0
+Delaware,precinct 50,State House,34.0,R ,no candidate filed,0
+Delaware,precinct 50,State Treasurer,,D,john c aguilefta,257
+Delaware,precinct 50,State Treasurer,,D,john c aguilera,257
+Delaware,precinct 50,U.S. House,6.0,,write in,0
+Delaware,precinct 50,Write In,6.0,,write in,0
+Delaware,precinct 51,State House,35.0,R,ben w fisher,250
+Delaware,precinct 51,State House,35.0,R ,ben w fisher,250
+Delaware,precinct 51,State Senate,25.0,D,tim lanane,197
+Delaware,precinct 51,State Senate,25.0,L,robert q jozwiak,24
+Delaware,precinct 51,State Senate,25.0,R,zaki ali,297
+Delaware,precinct 51,U.S. House,6.0,D,tim lanane,197
+Delaware,precinct 51,U.S. House,6.0,L,robert q jozwiak,24
+Delaware,precinct 51,U.S. House,6.0,R,zaki all,297
+Delaware,precinct 51,U.S. House,6.0,,write in,0
+Delaware,precinct 51,Write In,6.0,,write in,0
+Delaware,precinct 52,State House,35.0,R,ben w fisher,240
+Delaware,precinct 52,State House,35.0,R ,ben w fisher,240
+Delaware,precinct 52,State Senate,25.0,R,zaki all i,303
+Delaware,precinct 52,State Senate,25.0,R,zaki ali,303
+Delaware,precinct 52,State Treasurer,,R,kelly mitchell,339
+Delaware,precinct 52,State Treasurer,,,(r) kelly mitchell,0
+Delaware,precinct 52,U.S. House,6.0,,write in,0
+Delaware,precinct 52,Write In,6.0,,write in,0
+Delaware,precinct 53,State House,35.0,R,ben w fisher,218
+Delaware,precinct 53,State House,35.0,R ,ben w fisher,218
+Delaware,precinct 53,State Treasurer,,D,john c aguilefta,211
+Delaware,precinct 53,State Treasurer,,D,john c aguilera,211
+Delaware,precinct 53,U.S. House,6.0,,write in,0
+Delaware,precinct 53,Write In,6.0,,write in,0
+Delaware,precinct 54,State House,35.0,R,ben w fisher,337
+Delaware,precinct 54,State House,35.0,R ,ben w fisher,337
+Delaware,precinct 54,State Secretary,,D,jim harper,268
+Delaware,precinct 54,State Secretary,,D,jim harper,168
+Delaware,precinct 54,State Treasurer,,D,john c aguilera,263
+Delaware,precinct 54,State Treasurer,,,john c aguilera,263
+Delaware,precinct 54,U.S. House,6.0,R,greg pence i,388
+Delaware,precinct 54,U.S. House,6.0,R,greg pence,388
+Delaware,precinct 54,U.S. House,6.0,,write in,0
+Delaware,precinct 54,U.S. Senate,,L,lucy m brenton,34
+Delaware,precinct 54,U.S. Senate,,,(l) lucy m brenton,0
+Delaware,precinct 54,Write In,6.0,,write in,0
+Delaware,precinct 55,State Auditor,,D,joselyn whitticker,262
+Delaware,precinct 55,State Auditor,,L,john schick,31
+Delaware,precinct 55,State Auditor,,R,tera klutz,450
+Delaware,precinct 55,State House,35.0,D,melanie m wright,395
+Delaware,precinct 55,State House,35.0,R ,ben w fisher,367
+Delaware,precinct 55,State Secretary,,D,jim harper,265
+Delaware,precinct 55,State Secretary,,L,mark w rutherford,28
+Delaware,precinct 55,State Secretary,,R,connie lawson,473
+Delaware,precinct 55,State Secretary,,,write in,1
+Delaware,precinct 55,State Senate,26.0,D,melanie m wright,395
+Delaware,precinct 55,State Senate,26.0,R,ben w fisher,367
+Delaware,precinct 55,State Treasurer,,D,john c aguilera,253
+Delaware,precinct 55,State Treasurer,,R,kelly mitchell,493
+Delaware,precinct 55,U.S. House,6.0,,write in,0
+Delaware,precinct 55,U.S. Senate,,D,joe donnelly,314
+Delaware,precinct 55,U.S. Senate,,L,lucy m brenton,39
+Delaware,precinct 55,U.S. Senate,,R,mike braun,422
+Delaware,precinct 55,U.S. Senate,,,write in,1
+Delaware,precinct 55,Write In,6.0,,write in,0
+Delaware,precinct 56,State House,35.0,R,ben w fisher,358
+Delaware,precinct 56,State House,35.0,R ,ben w fisher,358
+Delaware,precinct 56,U.S. House,6.0,,write in,0
+Delaware,precinct 56,Write In,6.0,,write in,0
+Delaware,precinct 57,State Auditor,,D,joselyn whitticker,221
+Delaware,precinct 57,State Auditor,,L,john schick,30
+Delaware,precinct 57,State Auditor,,R,tera klutz,430
+Delaware,precinct 57,State House,32.0,D,arnie neiling,242
+Delaware,precinct 57,State House,32.0,D,amie neiling,242
+Delaware,precinct 57,State House,32.0,R,anthony j (tony) cook,447
+Delaware,precinct 57,State House,32.0,R ,"anthony j (""tony"") cook",447
+Delaware,precinct 57,State Secretary,,D,jim harper,219
+Delaware,precinct 57,State Secretary,,L,mark w rutherford,20
+Delaware,precinct 57,State Secretary,,R,connie lawson,463
+Delaware,precinct 57,State Secretary,,,write in,0
+Delaware,precinct 57,State Treasurer,,D,john c aguilera,215
+Delaware,precinct 57,State Treasurer,,R,kelly mitchell,465
+Delaware,precinct 57,U.S. House,6.0,D,jeannine lee lake,255
+Delaware,precinct 57,U.S. House,6.0,L,tom ferkinhoff,21
+Delaware,precinct 57,U.S. House,6.0,R,greg pence,429
+Delaware,precinct 57,U.S. Senate,,D,joe donnelly,251
+Delaware,precinct 57,U.S. Senate,,L,lucy m brenton,41
+Delaware,precinct 57,U.S. Senate,,R,mike braun,409
+Delaware,precinct 57,U.S. Senate,,,write in,1
+Delaware,precinct 57,Write In,6.0,,write in,0
+Delaware,precinct 58,State House,35.0,R,ben w fisher,57
+Delaware,precinct 58,State House,35.0,R ,ben w fisher,57
+Delaware,precinct 58,U.S. House,6.0,D,jeannine lee lake,43
+Delaware,precinct 58,U.S. House,6.0,L,tom ferkinhoff,2
+Delaware,precinct 58,U.S. House,6.0,R,greg pence,59
+Delaware,precinct 58,Write In,6.0,,write in,0
+Delaware,precinct 59,State House,33.0,D,dale arnett,22
+Delaware,precinct 59,State House,33.0,L,dale arnett,22
+Delaware,precinct 59,State House,33.0,R,john (jd) prescott,488
+Delaware,precinct 59,State House,33.0,R ,john (jd) prescott,488
+Delaware,precinct 59,State Secretary,,D,jim harper,249
+Delaware,precinct 59,State Secretary,,L,mark w rutherford,30
+Delaware,precinct 59,State Secretary,,R,connie lawson,511
+Delaware,precinct 59,State Secretary,,,write in,0
+Delaware,precinct 59,State Senate,25.0,R,zaki all,466
+Delaware,precinct 59,State Senate,25.0,R,zaki ali,466
+Delaware,precinct 59,U.S. House,6.0,D,jeannine lee lake,288
+Delaware,precinct 59,U.S. House,6.0,L,tom ferkinhoff,22
+Delaware,precinct 59,U.S. House,6.0,R,greg pence,488
+Delaware,precinct 59,U.S. Senate,,,write-in,0
+Delaware,precinct 59,U.S. Senate,,,write in,0
+Delaware,precinct 59,Write In,6.0,,write in,0
+Delaware,precinct 6,State Auditor,,D,joselyn whitticker,317
+Delaware,precinct 6,State Auditor,,L,john schick,17
+Delaware,precinct 6,State Auditor,,R,tera klutz,108
+Delaware,precinct 6,State House,34.0,D,sue errington,385
+Delaware,precinct 6,State House,34.0,R ,no candidate filed,0
+Delaware,precinct 6,State Secretary,,D,jim harper,318
+Delaware,precinct 6,State Secretary,,L,mark w rutherford,27
+Delaware,precinct 6,State Secretary,,R,connie lawson,103
+Delaware,precinct 6,State Secretary,,,write in,8
+Delaware,precinct 6,State Senate,25.0,D,tim lanane,335
+Delaware,precinct 6,State Senate,25.0,L,robert q jozwiak,21
+Delaware,precinct 6,State Senate,25.0,R,zaki ali,100
+Delaware,precinct 6,State Treasurer,,D,john c aguilera,318
+Delaware,precinct 6,State Treasurer,,R,kelly mitchell,124
+Delaware,precinct 6,U.S. House,6.0,D,jeannine lee lake,347
+Delaware,precinct 6,U.S. House,6.0,L,tom ferkinhoff,15
+Delaware,precinct 6,U.S. House,6.0,R,greg pence,90
+Delaware,precinct 6,U.S. Senate,,D,joe donnelly,341
+Delaware,precinct 6,U.S. Senate,,L,lucy m brenton,30
+Delaware,precinct 6,U.S. Senate,,R,mike braun,86
+Delaware,precinct 6,U.S. Senate,,,write in,0
+Delaware,precinct 6,Write In,6.0,,write in,1
+Delaware,precinct 60,State House,31.0,R,kevin a mahan,355
+Delaware,precinct 60,State House,31.0,R ,kevin a mahan,355
+Delaware,precinct 60,U.S. House,6.0,L,torn ferkinhoff,14
+Delaware,precinct 60,U.S. House,6.0,L,tom ferkinhoff,14
+Delaware,precinct 60,U.S. House,6.0,,write in,0
+Delaware,precinct 60,Write In,6.0,,write in,0
+Delaware,precinct 61,State House,31.0,R,kevin a mahan,180
+Delaware,precinct 61,State House,31.0,R ,kevin a mahan,180
+Delaware,precinct 61,U.S. House,6.0,L,torn ferkinhoff,7
+Delaware,precinct 61,U.S. House,6.0,L,tom ferkinhoff,7
+Delaware,precinct 61,U.S. House,6.0,,write in,0
+Delaware,precinct 61,Write In,6.0,,write in,0
+Delaware,precinct 62,State House,33.0,D,shon byrum,239
+Delaware,precinct 62,State House,33.0,D,dale arnett,26
+Delaware,precinct 62,State House,33.0,L,dale arnett,26
+Delaware,precinct 62,State House,33.0,R,john (jd) prescott,391
+Delaware,precinct 62,State House,33.0,R ,john (jd) prescott,391
+Delaware,precinct 62,State House,33.0,,(d) shon byrum,0
+Delaware,precinct 62,State Senate,25.0,R,zaki all,373
+Delaware,precinct 62,State Senate,25.0,R,zaki ali,373
+Delaware,precinct 62,U.S. House,6.0,L,torn ferkinhoff,24
+Delaware,precinct 62,U.S. House,6.0,L,tom ferkinhoff,24
+Delaware,precinct 62,U.S. House,6.0,,write in,0
+Delaware,precinct 62,Write In,6.0,,write in,0
+Delaware,precinct 63,State House,33.0,D,dale arnett,8
+Delaware,precinct 63,State House,33.0,L,dale arnett,8
+Delaware,precinct 63,State House,33.0,R,john (jo) prescott,145
+Delaware,precinct 63,State House,33.0,R ,john (jd) prescott,145
+Delaware,precinct 63,State Senate,25.0,D,tim lanane,146
+Delaware,precinct 63,State Senate,25.0,L,robert q jozwiak,0
+Delaware,precinct 63,State Senate,25.0,R,zaki ali,148
+Delaware,precinct 63,U.S. House,6.0,D,tim lanane,146
+Delaware,precinct 63,U.S. House,6.0,L,robert q jozwiak,0
+Delaware,precinct 63,U.S. House,6.0,R,zaki ali,148
+Delaware,precinct 63,U.S. House,6.0,,write in,0
+Delaware,precinct 63,Write In,6.0,,write in,0
+Delaware,precinct 64,State Senate,25.0,D,tim lanane,342
+Delaware,precinct 64,State Senate,25.0,,tim lanane,342
+Delaware,precinct 64,U.S. House,6.0,,write in,0
+Delaware,precinct 64,Write In,6.0,,write in,0
+Delaware,precinct 65,State House,33.0,D,dale arnett,11
+Delaware,precinct 65,State House,33.0,L,dale arnett,11
+Delaware,precinct 65,State House,33.0,R,john (jo) prescott,486
+Delaware,precinct 65,State House,33.0,R ,john (jd) prescott,486
+Delaware,precinct 65,State Secretary,,D,jim harper,211
+Delaware,precinct 65,State Secretary,,L,mark w rutherford,18
+Delaware,precinct 65,State Secretary,,R,connie lawson,514
+Delaware,precinct 65,State Secretary,,,write in,0
+Delaware,precinct 65,U.S. House,6.0,,write in,0
+Delaware,precinct 65,Write In,6.0,,write in,0
+Delaware,precinct 66,State House,33.0,R,john (jd) prescott,319
+Delaware,precinct 66,State House,33.0,R ,john (jd) prescott,319
+Delaware,precinct 66,State Treasurer,,D,john c aguilefta,211
+Delaware,precinct 66,State Treasurer,,D,jeannine lee lake,237
+Delaware,precinct 66,State Treasurer,,D,john c aguilera,211
+Delaware,precinct 66,State Treasurer,,L,tom ferkinhoff,19
+Delaware,precinct 66,State Treasurer,,R,greg pence,330
+Delaware,precinct 66,State Treasurer,,,write in,0
+Delaware,precinct 66,U.S. House,6.0,D,jeannine lee lake,237
+Delaware,precinct 66,U.S. House,6.0,L,tom ferkinhoff,19
+Delaware,precinct 66,U.S. House,6.0,R,greg pence,330
+Delaware,precinct 66,Write In,6.0,,write in,0
+Delaware,precinct 67,State Auditor,,D,joselyn whitticker,221
+Delaware,precinct 67,State Auditor,,L,john schick,30
+Delaware,precinct 67,State Auditor,,R,tera klutz,430
+Delaware,precinct 67,State House,33.0,R,john (jd) prescott,289
+Delaware,precinct 67,State House,33.0,R ,john (jd) prescott,289
+Delaware,precinct 67,State Secretary,,D,jim harper,219
+Delaware,precinct 67,State Secretary,,D,jim harper,118
+Delaware,precinct 67,State Secretary,,L,mark w rutherford,20
+Delaware,precinct 67,State Secretary,,L,mark w rutherford,7
+Delaware,precinct 67,State Secretary,,R,connie lawson,463
+Delaware,precinct 67,State Secretary,,R,connie lawson,316
+Delaware,precinct 67,State Secretary,,,write in,0
+Delaware,precinct 67,State Secretary,,,write in,1
+Delaware,precinct 67,State Treasurer,,D,john c aguilera,215
+Delaware,precinct 67,State Treasurer,,R,kelly mitchell,465
+Delaware,precinct 67,U.S. House,6.0,,write in,0
+Delaware,precinct 67,U.S. Senate,,D,joe donnelly,251
+Delaware,precinct 67,U.S. Senate,,R,mike braun,409
+Delaware,precinct 67,U.S. Senate,,,write in,1
+Delaware,precinct 67,Write In,6.0,,write in,0
+Delaware,precinct 68,State House,33.0,L,dale arnett,6
+Delaware,precinct 68,State House,33.0,R,john (jd) prescott,81
+Delaware,precinct 68,State House,33.0,R ,john (jd) prescott,81
+Delaware,precinct 68,State House,33.0,,(l) dale arnett l,0
+Delaware,precinct 68,State Secretary,,D,jim harper,24
+Delaware,precinct 68,State Secretary,,L,mark w rutherford,3
+Delaware,precinct 68,State Secretary,,R,connie lawson,88
+Delaware,precinct 68,State Secretary,,,write in,0
+Delaware,precinct 68,U.S. House,6.0,,write in,0
+Delaware,precinct 68,U.S. Senate,,D,joe donnelly,36
+Delaware,precinct 68,U.S. Senate,,L,lucy m brenton,9
+Delaware,precinct 68,U.S. Senate,,R,mike braun,72
+Delaware,precinct 68,U.S. Senate,,,write in,0
+Delaware,precinct 68,Write In,6.0,,write in,0
+Delaware,precinct 69,State House,31.0,R,kevin a mahan,349
+Delaware,precinct 69,State House,31.0,R ,kevin a mahan,349
+Delaware,precinct 69,U.S. House,6.0,D,jeannine lee lake,215
+Delaware,precinct 69,U.S. House,6.0,L,tom ferkinhoff,12
+Delaware,precinct 69,U.S. House,6.0,R,greg pence,322
+Delaware,precinct 69,Write In,6.0,,write in,0
+Delaware,precinct 7,State Auditor,,D,joselyn whitticker,241
+Delaware,precinct 7,State Auditor,,L,john schick,15
+Delaware,precinct 7,State Auditor,,R,tera klutz,145
+Delaware,precinct 7,State House,34.0,D,sue errington,319
+Delaware,precinct 7,State House,34.0,R ,no candidate filed,0
+Delaware,precinct 7,State Secretary,,D,jim harper,227
+Delaware,precinct 7,State Secretary,,L,mark w rutherford,17
+Delaware,precinct 7,State Secretary,,R,connie lawson,161
+Delaware,precinct 7,State Secretary,,,write in,2
+Delaware,precinct 7,State Senate,25.0,D,tim lanane,257
+Delaware,precinct 7,State Senate,25.0,L,robert q jozwiak,17
+Delaware,precinct 7,State Senate,25.0,R,zaki ali,141
+Delaware,precinct 7,State Treasurer,,D,john c aguilera,241
+Delaware,precinct 7,State Treasurer,,R,kelly mitchell,164
+Delaware,precinct 7,U.S. House,6.0,D,jeannine lee lake,259
+Delaware,precinct 7,U.S. House,6.0,L,tom ferkinhoff,20
+Delaware,precinct 7,U.S. House,6.0,R,greg pence,139
+Delaware,precinct 7,U.S. Senate,,D,joe donnelly,250
+Delaware,precinct 7,U.S. Senate,,L,lucy m brenton,30
+Delaware,precinct 7,U.S. Senate,,R,mike braun,136
+Delaware,precinct 7,U.S. Senate,,,write in,0
+Delaware,precinct 7,Write In,6.0,,write in,0
+Delaware,precinct 70,State House,35.0,R,ben w fisher,405
+Delaware,precinct 70,State House,35.0,R ,ben w fisher,405
+Delaware,precinct 70,State Senate,26.0,R,mike gaskill ,459
+Delaware,precinct 70,State Senate,26.0,R,mike gaskill,459
+Delaware,precinct 70,U.S. House,6.0,,write in,0
+Delaware,precinct 70,Write In,6.0,,write in,0
+Delaware,precinct 71,State House,35.0,R,ben w fisher,462
+Delaware,precinct 71,State House,35.0,R ,ben w fisher,462
+Delaware,precinct 71,State Senate,26.0,D,dave cravens,291
+Delaware,precinct 71,State Senate,26.0,L,greg noland,26
+Delaware,precinct 71,State Senate,26.0,R,mike gaskill,544
+Delaware,precinct 71,U.S. House,6.0,D,dave cravens,291
+Delaware,precinct 71,U.S. House,6.0,L,greg noland,26
+Delaware,precinct 71,U.S. House,6.0,R,mike gaskill,544
+Delaware,precinct 71,U.S. House,6.0,,write in,0
+Delaware,precinct 71,Write In,6.0,,write in,0
+Delaware,precinct 73,State House,33.0,D,short byrum,248
+Delaware,precinct 73,State House,33.0,D,shon byrum,248
+Delaware,precinct 73,State House,33.0,R,john (jd) prescott,542
+Delaware,precinct 73,State House,33.0,R ,john (jd) prescott,542
+Delaware,precinct 73,State Senate,25.0,R,zaki all,497
+Delaware,precinct 73,State Senate,25.0,R,zaki ali,497
+Delaware,precinct 73,U.S. House,6.0,D,jeannine lee lake,275
+Delaware,precinct 73,U.S. House,6.0,L,tom ferkinhoff,16
+Delaware,precinct 73,U.S. House,6.0,R,greg pence,540
+Delaware,precinct 73,U.S. Senate,,D,joe donnelly,282
+Delaware,precinct 73,U.S. Senate,,,(d) joe donnelly,282
+Delaware,precinct 73,Write In,6.0,,write in,0
+Delaware,precinct 74,State House,35.0,D,meanie m wright,412
+Delaware,precinct 74,State House,35.0,D,melanie m wright,412
+Delaware,precinct 74,State House,35.0,R,ben w fisher,330
+Delaware,precinct 74,State House,35.0,R ,ben w fisher,330
+Delaware,precinct 74,State Senate,26.0,L,greg noiand,24
+Delaware,precinct 74,State Senate,26.0,L,greg noland,24
+Delaware,precinct 74,U.S. House,6.0,,write in,0
+Delaware,precinct 74,U.S. Senate,,D,joe donnelly,379
+Delaware,precinct 74,U.S. Senate,,L,lucy m brenton,38
+Delaware,precinct 74,U.S. Senate,,R,mike braun,343
+Delaware,precinct 74,U.S. Senate,,,write in,1
+Delaware,precinct 74,Write In,6.0,,write in,0
+Delaware,precinct 75,State House,33.0,R,john (jd) prescott,387
+Delaware,precinct 75,State House,33.0,R ,john (jd) prescott,387
+Delaware,precinct 75,U.S. House,6.0,,write in,0
+Delaware,precinct 75,U.S. Senate,,D,joe donnelly,336
+Delaware,precinct 75,U.S. Senate,,L,lucy m brenton,44
+Delaware,precinct 75,U.S. Senate,,R,mike braun,387
+Delaware,precinct 75,U.S. Senate,,,write in,1
+Delaware,precinct 75,Write In,6.0,,write in,0
+Delaware,precinct 77,State House,31.0,D,lynn johnson,184
+Delaware,precinct 77,State House,31.0,R ,kevin a mahan,379
+Delaware,precinct 77,State Senate,26.0,D,dave cravens,202
+Delaware,precinct 77,State Senate,26.0,L,greg noland,19
+Delaware,precinct 77,State Senate,26.0,R,mike gaskill,348
+Delaware,precinct 77,U.S. House,6.0,D,jeannine lee lake,211
+Delaware,precinct 77,U.S. House,6.0,L,tom ferkinhoff,13
+Delaware,precinct 77,U.S. House,6.0,R,greg pence,351
+Delaware,precinct 77,Write In,6.0,,write in,0
+Delaware,precinct 78,State Auditor,,D,joselyn whitticker,211
+Delaware,precinct 78,State Auditor,,L,john schick,31
+Delaware,precinct 78,State Auditor,,R,ter4 klutz,483
+Delaware,precinct 78,State Auditor,,R,tera klutz,483
+Delaware,precinct 78,State Auditor,,,joselyn whitticker,211
+Delaware,precinct 78,State Auditor,,,john schick,31
+Delaware,precinct 78,State House,35.0,D,melanie m wright,302
+Delaware,precinct 78,State House,35.0,R ,ben w fisher,430
+Delaware,precinct 78,State Secretary,,D,jim harper,209
+Delaware,precinct 78,State Secretary,,L,mark w rutherford,18
+Delaware,precinct 78,State Secretary,,R,connie lawson,516
+Delaware,precinct 78,State Secretary,,,write in,0
+Delaware,precinct 78,State Senate,26.0,L,greg n:iiailti,24
+Delaware,precinct 78,State Senate,26.0,L,greg noland,24
+Delaware,precinct 78,State Senate,26.0,R,mike gaskill,475
+Delaware,precinct 78,State Senate,26.0,,mike gaskill,475
+Delaware,precinct 78,U.S. House,6.0,D,jesnnine lee lake,253
+Delaware,precinct 78,U.S. House,6.0,D,jeannine lee lake,253
+Delaware,precinct 78,U.S. House,6.0,,write in,0
+Delaware,precinct 78,Write In,6.0,,write in,0
+Delaware,precinct 8,State Auditor,,D,joselyn whitticker,262
+Delaware,precinct 8,State Auditor,,L,john schick,18
+Delaware,precinct 8,State Auditor,,R,tera klutz,219
+Delaware,precinct 8,State House,34.0,D,sue errington,376
+Delaware,precinct 8,State House,34.0,R ,no candidate filed,0
+Delaware,precinct 8,State Secretary,,D,jim harper,269
+Delaware,precinct 8,State Secretary,,L,mark w rutherford,21
+Delaware,precinct 8,State Secretary,,R,connie lawson,215
+Delaware,precinct 8,State Secretary,,,write in,5
+Delaware,precinct 8,State Senate,25.0,D,tim lanane,277
+Delaware,precinct 8,State Senate,25.0,L,robert q jozwiak,11
+Delaware,precinct 8,State Senate,25.0,R,zaki ali,224
+Delaware,precinct 8,State Treasurer,,D,john c aguilera,267
+Delaware,precinct 8,State Treasurer,,R,kelly mitchell,231
+Delaware,precinct 8,U.S. House,6.0,D,jeannine lee lake,302
+Delaware,precinct 8,U.S. House,6.0,L,tom ferkinhoff,19
+Delaware,precinct 8,U.S. House,6.0,R,greg pence,200
+Delaware,precinct 8,U.S. Senate,,D,joe donnelly,290
+Delaware,precinct 8,U.S. Senate,,L,lucy m brenton,31
+Delaware,precinct 8,U.S. Senate,,R,mike braun,197
+Delaware,precinct 8,U.S. Senate,,,write in,0
+Delaware,precinct 8,Write In,6.0,,write in,0
+Delaware,precinct 81,State House,35.0,R,ben w fisher,69
+Delaware,precinct 81,State House,35.0,R ,ben w fisher,69
+Delaware,precinct 81,State Secretary,,D,jim harper,94
+Delaware,precinct 81,State Secretary,,L,mark w rutherford,7
+Delaware,precinct 81,State Secretary,,R,connie lawson,84
+Delaware,precinct 81,State Secretary,,,write in,0
+Delaware,precinct 81,U.S. House,6.0,L,torn ferkinhoff,4
+Delaware,precinct 81,U.S. House,6.0,L,tom ferkinhoff,4
+Delaware,precinct 81,U.S. House,6.0,,write in,0
+Delaware,precinct 81,Write In,6.0,,write in,0
+Delaware,precinct 87,State Auditor,,D,joselyn whitticker,216
+Delaware,precinct 87,State Auditor,,L,john schick,28
+Delaware,precinct 87,State Auditor,,R,tera klutz,429
+Delaware,precinct 87,State House,35.0,R,ben w fisher,360
+Delaware,precinct 87,State House,35.0,R ,ben w fisher,360
+Delaware,precinct 87,State Secretary,,L,mark w rutherford,29
+Delaware,precinct 87,State Secretary,,,(l) mark w rutherford,0
+Delaware,precinct 87,U.S. House,6.0,,write-in,0
+Delaware,precinct 87,U.S. Senate,,L,lucy m brenton,35
+Delaware,precinct 87,U.S. Senate,,R,mike braun,386
+Delaware,precinct 87,U.S. Senate,,,(r) mike braun,0
+Delaware,precinct 87,U.S. Senate,,,(l) lucy m brenton,0
+Delaware,precinct 87,U.S. Senate,,,write-in,0
+Delaware,precinct 87,U.S. Senate,,,write in,1
+Delaware,precinct 87,Write In,6.0,,write in,1
+Delaware,precinct 88,State House,35.0,D,melanie m wright,329
+Delaware,precinct 88,State House,35.0,R ,ben w fisher,463
+Delaware,precinct 88,State Secretary,,D,jim harper,226
+Delaware,precinct 88,State Secretary,,L,mark w rutherford,18
+Delaware,precinct 88,State Secretary,,R,connie lawson,548
+Delaware,precinct 88,State Secretary,,,write in,3
+Delaware,precinct 88,U.S. House,6.0,D,jeannine lee lake,294
+Delaware,precinct 88,U.S. House,6.0,L,tom ferkinhoff,23
+Delaware,precinct 88,U.S. House,6.0,R,greg pence,486
+Delaware,precinct 88,Write In,6.0,,write in,0
+Delaware,precinct 9,State Auditor,,D,joselyn whitticker,190
+Delaware,precinct 9,State Auditor,,L,john schick,22
+Delaware,precinct 9,State Auditor,,R,tera klutz,210
+Delaware,precinct 9,State House,34.0,D,sue errington,277
+Delaware,precinct 9,State House,34.0,R ,no candidate filed,0
+Delaware,precinct 9,State Secretary,,D,jim harper,186
+Delaware,precinct 9,State Secretary,,L,mark w rutherford,16
+Delaware,precinct 9,State Secretary,,R,connie lawson,243
+Delaware,precinct 9,State Secretary,,,write in,0
+Delaware,precinct 9,State Senate,25.0,D,tim lanane,209
+Delaware,precinct 9,State Senate,25.0,L,robert q jozwiak,19
+Delaware,precinct 9,State Senate,25.0,R,zaki ali,213
+Delaware,precinct 9,State Treasurer,,D,john c aguilera,187
+Delaware,precinct 9,State Treasurer,,R,kelly mitchell,238
+Delaware,precinct 9,U.S. House,6.0,D,jeannine lee lake,219
+Delaware,precinct 9,U.S. House,6.0,L,tom ferkinhoff,9
+Delaware,precinct 9,U.S. House,6.0,R,greg pence,216
+Delaware,precinct 9,U.S. Senate,,D,joe donnelly,208
+Delaware,precinct 9,U.S. Senate,,L,lucy m brenton,27
+Delaware,precinct 9,U.S. Senate,,R,mike braun,209
+Delaware,precinct 9,U.S. Senate,,,write in,0
+Delaware,precinct 9,Write In,6.0,,write in,0
+Delaware,precinct 90,State Auditor,,D,joselyn whitticker,156
+Delaware,precinct 90,State Auditor,,L,john schick,19
+Delaware,precinct 90,State Auditor,,R,tera klutz,341
+Delaware,precinct 90,State House,31.0,D,lynn johnson,164
+Delaware,precinct 90,State House,31.0,R ,kevin a mahan,353
+Delaware,precinct 90,State Secretary,,D,jim harper,156
+Delaware,precinct 90,State Secretary,,L,mark w rutherford,14
+Delaware,precinct 90,State Secretary,,R,connie lawson,353
+Delaware,precinct 90,State Secretary,,,write in,1
+Delaware,precinct 90,State Senate,26.0,D,kimberly s dowling,320
+Delaware,precinct 90,State Senate,26.0,L,greg i‘;oiantt,11
+Delaware,precinct 90,State Senate,26.0,L,greg noland,11
+Delaware,precinct 90,State Senate,26.0,R,mike gaskill,335
+Delaware,precinct 90,State Senate,26.0,,jek gaskill,335
+Delaware,precinct 90,State Senate,26.0,,kevin a mahan,353
+Delaware,precinct 90,State Senate,26.0,,lynn johnson,164
+Delaware,precinct 90,State Treasurer,,D,john c aguilera,147
+Delaware,precinct 90,State Treasurer,,,jflhc c aguilera,147
+Delaware,precinct 90,U.S. House,6.0,D,jeannine lee lake,192
+Delaware,precinct 90,U.S. House,6.0,L,tom ferkinhoff,6
+Delaware,precinct 90,U.S. House,6.0,R,greg pence,335
+Delaware,precinct 90,U.S. House,6.0,,greg pence,335
+Delaware,precinct 90,U.S. House,6.0,,jeannine lee lake,192
+Delaware,precinct 90,U.S. House,6.0,,torn ferkinhoff,6
+Delaware,precinct 90,U.S. Senate,,L,lucy :‘1 brenton,29
+Delaware,precinct 90,U.S. Senate,,L,lucy m brenton,29
+Delaware,precinct 90,Write In,6.0,,write in,0
+Delaware,precinct 91,State House,31.0,R,kevin a mahan,35
+Delaware,precinct 91,State House,31.0,R ,kevin a mahan,35
+Delaware,precinct 91,U.S. House,6.0,,write in,0
+Delaware,precinct 91,Write In,6.0,,write in,0
+Delaware,precinct 92,State House,35.0,R,ben w fisher,6
+Delaware,precinct 92,State House,35.0,R ,ben w fisher,6
+Delaware,precinct 92,State Secretary,,R,connie lawson,6
+Delaware,precinct 92,U.S. House,6.0,,write in,0
+Delaware,precinct 92,U.S. Senate,,L,lucy m brenton,0
+Delaware,precinct 92,U.S. Senate,,,write in,0
+Delaware,precinct 92,Write In,6.0,,write in,0
+Delaware,precinct 93,State House,35.0,D,melanie m wright,362
+Delaware,precinct 93,State House,35.0,R ,ben w fisher,325
+Delaware,precinct 93,U.S. House,6.0,D,jeannine lee lake,336
+Delaware,precinct 93,U.S. House,6.0,L,tom ferkinhoff,21
+Delaware,precinct 93,U.S. House,6.0,R,greg pence,343
+Delaware,precinct 93,Write In,6.0,,write in,1
+Delaware,precinct 94,State House,35.0,R,ben w fisher,245
+Delaware,precinct 94,State House,35.0,R ,ben w fisher,245
+Delaware,precinct 94,U.S. House,6.0,,write in,0
+Delaware,precinct 94,Write In,6.0,,write in,0
+Delaware,precinct 95,State House,35.0,D,melanie m wright,198
+Delaware,precinct 95,State House,35.0,R ,ben w fisher,132
+Delaware,precinct 95,U.S. House,6.0,D,jeannine lee lake,175
+Delaware,precinct 95,U.S. House,6.0,L,tom ferkinhoff,7
+Delaware,precinct 95,U.S. House,6.0,R,greg pence,154
+Delaware,precinct 95,Write In,6.0,,write in,0
+Delaware,precinct 98,State Auditor,,D,joselyn whitticker,148
+Delaware,precinct 98,State Auditor,,L,john schick,15
+Delaware,precinct 98,State Auditor,,,(d) joselyn whitticker,0
+Delaware,precinct 98,State Auditor,,,(l) john schick,0
+Delaware,precinct 98,State House,35.0,R,ben w fisher,199
+Delaware,precinct 98,State House,35.0,R ,ben w fisher,199
+Delaware,precinct 98,U.S. House,6.0,,write in,0
+Delaware,precinct 98,Write In,6.0,,write in,0

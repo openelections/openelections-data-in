@@ -3,14 +3,15 @@ import requests
 from BeautifulSoup import BeautifulSoup
 results = []
 
-urls = ['http://www2.hamiltoncounty.in.gov/Elections/2016G/results/President%20and%20VP%20of%20the%20US.htm',
-'http://www2.hamiltoncounty.in.gov/Elections/2016G/results/United%20States%20Senator.htm', 'http://www2.hamiltoncounty.in.gov/Elections/2016G/results/Governor%20And%20Lieutenant%20Governor.htm',
-'http://www2.hamiltoncounty.in.gov/Elections/2016G/results/Attorney%20General.htm', 'http://www2.hamiltoncounty.in.gov/Elections/2016G/results/Superintendent%20of%20Public%20Inst.htm',
-'http://www2.hamiltoncounty.in.gov/Elections/2016G/results/US%20Representative%20District%205.htm', 'http://www2.hamiltoncounty.in.gov/Elections/2016G/results/State%20Senator%20District%2020.htm',
-'http://www2.hamiltoncounty.in.gov/Elections/2016G/results/State%20Senator%20District%2030.htm', 'http://www2.hamiltoncounty.in.gov/Elections/2016G/results/State%20Representative%20District%2024.htm',
-'http://www2.hamiltoncounty.in.gov/Elections/2016G/results/State%20Representative%20District%2029.htm', 'http://www2.hamiltoncounty.in.gov/Elections/2016G/results/State%20Representative%20District%2032.htm',
-'http://www2.hamiltoncounty.in.gov/Elections/2016G/results/State%20Representative%20District%2037.htm', 'http://www2.hamiltoncounty.in.gov/Elections/2016G/results/State%20Representative%20District%2039.htm',
-'http://www2.hamiltoncounty.in.gov/Elections/2016G/results/State%20Representative%20District%2088.htm']
+urls = ['https://secure2.hamiltoncounty.in.gov/Elections/2008G/President%20of%20the%20US.htm', 'https://secure2.hamiltoncounty.in.gov/Elections/2008G/Governor%20And%20Lieutenant%20Governor.htm',
+    'https://secure2.hamiltoncounty.in.gov/Elections/2008G/Attorney%20General.htm', 'https://secure2.hamiltoncounty.in.gov/Elections/2008G/Superintendent%20of%20Public%20Inst.htm', 'https://secure2.hamiltoncounty.in.gov/Elections/2008G/United%20States%20Rep%20District%205.htm',
+    'https://secure2.hamiltoncounty.in.gov/Elections/2008G/State%20Senator%20District%2020.htm', 'https://secure2.hamiltoncounty.in.gov/Elections/2008G/State%20Senator%20District%2028.htm',
+    'https://secure2.hamiltoncounty.in.gov/Elections/2008G/State%20Senator%20District%2030.htm', 'https://secure2.hamiltoncounty.in.gov/Elections/2008G/State%20Representative%20District%2029.htm',
+    'https://secure2.hamiltoncounty.in.gov/Elections/2008G/State%20Representative%20District%2032.htm', 'https://secure2.hamiltoncounty.in.gov/Elections/2008G/State%20Representative%20District%2035.htm',
+    'https://secure2.hamiltoncounty.in.gov/Elections/2008G/State%20Representative%20District%2036.htm', 'https://secure2.hamiltoncounty.in.gov/Elections/2008G/State%20Representative%20District%2038.htm',
+    'https://secure2.hamiltoncounty.in.gov/Elections/2008G/State%20Representative%20District%2039.htm', 'https://secure2.hamiltoncounty.in.gov/Elections/2008G/State%20Representative%20District%2086.htm',
+    'https://secure2.hamiltoncounty.in.gov/Elections/2008G/State%20Representative%20District%2087.htm', 'https://secure2.hamiltoncounty.in.gov/Elections/2008G/State%20Representative%20District%2088.htm'
+]
 
 for url in urls:
     r = requests.get(url)
@@ -38,7 +39,7 @@ for url in urls:
             else:
                 results.append(['Hamilton', precinct, office, district, None, candidate, votes])
 
-with open('20161108__in__general__hamilton__precinct.csv', 'wb') as outfile:
+with open('20081104__in__general__hamilton__precinct.csv', 'wb') as outfile:
     writer = csv.writer(outfile)
     writer.writerow(["county", "precinct", "office", "district", "party", "candidate", "votes"])
     writer.writerows(results)

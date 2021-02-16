@@ -1,0 +1,376 @@
+county,precinct,office,district,party,candidate,election_day,absentee,early_voting,votes
+Adams,01-Berne A,Registered Voters,,,,,,,1015
+Adams,01-Berne A,Ballots Cast ,,,,364,73,311,748
+Adams,01-Berne A,President,,R,Trump\Pence,295,38,249,582
+Adams,01-Berne A,President,,D,Biden\Harris,52,33,51,136
+Adams,01-Berne A,President,,L,Jorgense\Cohen,12,0,8,20
+Adams,01-Berne A,President,,,Write-In,1,0,1,2
+Adams,01-Berne A,Governor,,R,Holcomb\Crouch,242,43,212,497
+Adams,01-Berne A,Governor,,D,Myers\Lawson,33,25,47,105
+Adams,01-Berne A,Governor,,L,Rainwater II / Henry,88,2,47,137
+Adams,01-Berne A,Attorney General,,R,Todd Rokita,298,39,240,577
+Adams,01-Berne A,Attorney General,,D,Jonathan Weinzapfel,57,32,63,152
+Adams,01-Berne A,U.S. House,3,R,Jim Banks,307,38,253,598
+Adams,01-Berne A,U.S. House,3,D,Chip Coldiron,49,32,51,132
+Adams,01-Berne A,U.S. House,3,,Write-In,0,0,0,0
+Adams,01-Berne A,State Representative,79,R,Matthew S Lehman,333,50,267,650
+Adams,02-Berne B,Registered Voters,,,,,,,1038
+Adams,02-Berne B,Ballots Cast ,,,,417,73,282,772
+Adams,02-Berne B,President,,R,Trump\Pence,352,40,213,605
+Adams,02-Berne B,President,,D,Biden\Harris,50,29,53,132
+Adams,02-Berne B,President,,L,Jorgense\Cohen,11,3,12,26
+Adams,02-Berne B,President,,,Write-In,1,0,2,3
+Adams,02-Berne B,Governor,,R,Holcomb\Crouch,272,47,199,518
+Adams,02-Berne B,Governor,,D,Myers\Lawson,36,21,41,98
+Adams,02-Berne B,Governor,,L,Rainwater II / Henry,102,4,38,144
+Adams,02-Berne B,Attorney General,,R,Todd Rokita,340,44,207,591
+Adams,02-Berne B,Attorney General,,D,Jonathan Weinzapfel,59,20,64,143
+Adams,02-Berne B,U.S. House,3,R,Jim Banks,362,51,224,637
+Adams,02-Berne B,U.S. House,3,D,Chip Coldiron,47,18,50,115
+Adams,02-Berne B,U.S. House,3,,Write-In,0,0,0,0
+Adams,02-Berne B,State Representative,79,R,Matthew S Lehman,367,55,233,655
+Adams,03-Berne C,Registered Voters,,,,,,,866
+Adams,03-Berne C,Ballots Cast ,,,,241,150,312,703
+Adams,03-Berne C,President,,R,Trump\Pence,202,99,260,561
+Adams,03-Berne C,President,,D,Biden\Harris,32,46,50,128
+Adams,03-Berne C,President,,L,Jorgense\Cohen,4,0,2,6
+Adams,03-Berne C,President,,,Write-In,0,2,0,2
+Adams,03-Berne C,Governor,,R,Holcomb\Crouch,183,107,246,536
+Adams,03-Berne C,Governor,,D,Myers\Lawson,17,29,33,79
+Adams,03-Berne C,Governor,,L,Rainwater II / Henry,37,6,30,73
+Adams,03-Berne C,Attorney General,,R,Todd Rokita,189,98,253,540
+Adams,03-Berne C,Attorney General,,D,Jonathan Weinzapfel,38,41,53,132
+Adams,03-Berne C,U.S. House,3,R,Jim Banks,206,103,261,570
+Adams,03-Berne C,U.S. House,3,D,Chip Coldiron,28,36,47,111
+Adams,03-Berne C,U.S. House,3,,Write-In,0,0,0,0
+Adams,03-Berne C,State Representative,79,R,Matthew S Lehman,218,115,273,606
+Adams,04 - Blue Creek,Registered Voters,,,,,,,378
+Adams,04 - Blue Creek,Ballots Cast ,,,,99,25,116,240
+Adams,04 - Blue Creek,President,,R,Trump\Pence,91,19,102,212
+Adams,04 - Blue Creek,President,,D,Biden\Harris,7,5,12,24
+Adams,04 - Blue Creek,President,,L,Jorgense\Cohen,1,1,2,4
+Adams,04 - Blue Creek,President,,,Write-In,0,0,0,0
+Adams,04 - Blue Creek,Governor,,R,Holcomb\Crouch,65,21,85,171
+Adams,04 - Blue Creek,Governor,,D,Myers\Lawson,4,4,8,16
+Adams,04 - Blue Creek,Governor,,L,Rainwater II / Henry,27,0,21,48
+Adams,04 - Blue Creek,Attorney General,,R,Todd Rokita,83,19,96,198
+Adams,04 - Blue Creek,Attorney General,,D,Jonathan Weinzapfel,13,6,16,35
+Adams,04 - Blue Creek,U.S. House,3,R,Jim Banks,92,20,100,212
+Adams,04 - Blue Creek,U.S. House,3,D,Chip Coldiron,4,4,15,23
+Adams,04 - Blue Creek,U.S. House,3,,Write-In,0,0,0,0
+Adams,04 - Blue Creek,State Representative,79,R,Matthew S Lehman,91,19,98,208
+Adams,05 - Decatur 1,Registered Voters,,,,,,,1584
+Adams,05 - Decatur 1,Ballots Cast ,,,,283,76,725,1084
+Adams,05 - Decatur 1,President,,R,Trump\Pence,219,23,447,689
+Adams,05 - Decatur 1,President,,D,Biden\Harris,46,52,248,346
+Adams,05 - Decatur 1,President,,L,Jorgense\Cohen,12,1,23,36
+Adams,05 - Decatur 1,President,,,Write-In,1,0,2,3
+Adams,05 - Decatur 1,Governor,,R,Holcomb\Crouch,162,32,451,645
+Adams,05 - Decatur 1,Governor,,D,Myers\Lawson,33,37,148,218
+Adams,05 - Decatur 1,Governor,,L,Rainwater II / Henry,83,1,117,201
+Adams,05 - Decatur 1,Attorney General,,R,Todd Rokita,216,25,439,680
+Adams,05 - Decatur 1,Attorney General,,D,Jonathan Weinzapfel,57,43,257,357
+Adams,05 - Decatur 1,U.S. House,3,R,Jim Banks,224,28,473,725
+Adams,05 - Decatur 1,U.S. House,3,D,Chip Coldiron,51,43,235,329
+Adams,05 - Decatur 1,U.S. House,3,,Write-In,0,0,1,1
+Adams,05 - Decatur 1,State Representative,79,R,Matthew S Lehman,241,37,536,814
+Adams,06 - Decatur 2,Registered Voters,,,,,,,1614
+Adams,06 - Decatur 2,Ballots Cast ,,,,338,179,554,1071
+Adams,06 - Decatur 2,President,,R,Trump\Pence,232,80,343,655
+Adams,06 - Decatur 2,President,,D,Biden\Harris,83,93,195,371
+Adams,06 - Decatur 2,President,,L,Jorgense\Cohen,16,3,13,32
+Adams,06 - Decatur 2,President,,,Write-In,1,0,0,1
+Adams,06 - Decatur 2,Governor,,R,Holcomb\Crouch,176,110,308,594
+Adams,06 - Decatur 2,Governor,,D,Myers\Lawson,52,50,136,238
+Adams,06 - Decatur 2,Governor,,L,Rainwater II / Henry,101,10,101,212
+Adams,06 - Decatur 2,Attorney General,,R,Todd Rokita,223,89,329,641
+Adams,06 - Decatur 2,Attorney General,,D,Jonathan Weinzapfel,103,76,206,385
+Adams,06 - Decatur 2,U.S. House,3,R,Jim Banks,229,99,363,691
+Adams,06 - Decatur 2,U.S. House,3,D,Chip Coldiron,92,70,178,340
+Adams,06 - Decatur 2,U.S. House,3,,Write-In,0,0,0,0
+Adams,06 - Decatur 2,State Representative,79,R,Matthew S Lehman,259,116,403,778
+Adams,07 - Decatur 3,Registered Voters,,,,,,,935
+Adams,07 - Decatur 3,Ballots Cast ,,,,167,62,370,599
+Adams,07 - Decatur 3,President,,R,Trump\Pence,113,24,231,368
+Adams,07 - Decatur 3,President,,D,Biden\Harris,43,36,126,205
+Adams,07 - Decatur 3,President,,L,Jorgense\Cohen,10,2,6,18
+Adams,07 - Decatur 3,President,,,Write-In,0,0,0,0
+Adams,07 - Decatur 3,Governor,,R,Holcomb\Crouch,69,34,203,306
+Adams,07 - Decatur 3,Governor,,D,Myers\Lawson,35,23,95,153
+Adams,07 - Decatur 3,Governor,,L,Rainwater II / Henry,60,4,60,124
+Adams,07 - Decatur 3,Attorney General,,R,Todd Rokita,96,30,216,342
+Adams,07 - Decatur 3,Attorney General,,D,Jonathan Weinzapfel,58,27,136,221
+Adams,07 - Decatur 3,U.S. House,3,R,Jim Banks,112,30,235,377
+Adams,07 - Decatur 3,U.S. House,3,D,Chip Coldiron,44,30,118,192
+Adams,07 - Decatur 3,U.S. House,3,,Write-In,0,0,0,0
+Adams,07 - Decatur 3,State Representative,79,R,Matthew S Lehman,129,47,264,440
+Adams,08 - Decatur 4,Registered Voters,,,,,,,819
+Adams,08 - Decatur 4,Ballots Cast ,,,,155,65,439,659
+Adams,08 - Decatur 4,President,,R,Trump\Pence,118,28,313,459
+Adams,08 - Decatur 4,President,,D,Biden\Harris,29,35,122,186
+Adams,08 - Decatur 4,President,,L,Jorgense\Cohen,1,0,3,4
+Adams,08 - Decatur 4,President,,,Write-In,1,1,0,2
+Adams,08 - Decatur 4,Governor,,R,Holcomb\Crouch,104,36,290,430
+Adams,08 - Decatur 4,Governor,,D,Myers\Lawson,15,27,81,123
+Adams,08 - Decatur 4,Governor,,L,Rainwater II / Henry,33,0,64,97
+Adams,08 - Decatur 4,Attorney General,,R,Todd Rokita,114,31,307,452
+Adams,08 - Decatur 4,Attorney General,,D,Jonathan Weinzapfel,29,31,121,181
+Adams,08 - Decatur 4,U.S. House,3,R,Jim Banks,116,32,314,462
+Adams,08 - Decatur 4,U.S. House,3,D,Chip Coldiron,25,33,118,176
+Adams,08 - Decatur 4,U.S. House,3,,Write-In,0,0,0,0
+Adams,08 - Decatur 4,State Representative,79,R,Matthew S Lehman,121,43,335,499
+Adams,09 - Decatur 5,Registered Voters,,,,,,,1616
+Adams,09 - Decatur 5,Ballots Cast ,,,,330,96,708,1134
+Adams,09 - Decatur 5,President,,R,Trump\Pence,243,31,452,726
+Adams,09 - Decatur 5,President,,D,Biden\Harris,65,61,230,356
+Adams,09 - Decatur 5,President,,L,Jorgense\Cohen,16,3,16,35
+Adams,09 - Decatur 5,President,,,Write-In,2,0,3,5
+Adams,09 - Decatur 5,Governor,,R,Holcomb\Crouch,183,48,398,629
+Adams,09 - Decatur 5,Governor,,D,Myers\Lawson,45,42,154,241
+Adams,09 - Decatur 5,Governor,,L,Rainwater II / Henry,100,4,138,242
+Adams,09 - Decatur 5,Attorney General,,R,Todd Rokita,231,38,435,704
+Adams,09 - Decatur 5,Attorney General,,D,Jonathan Weinzapfel,88,53,248,389
+Adams,09 - Decatur 5,U.S. House,3,R,Jim Banks,252,43,462,757
+Adams,09 - Decatur 5,U.S. House,3,D,Chip Coldiron,69,49,224,342
+Adams,09 - Decatur 5,U.S. House,3,,Write-In,2,0,1,3
+Adams,09 - Decatur 5,State Representative,79,R,Matthew S Lehman,267,64,524,855
+Adams,10-East Root,Registered Voters,,,,,,,1163
+Adams,10-East Root,Ballots Cast ,,,,209,73,583,865
+Adams,10-East Root,President,,R,Trump\Pence,170,25,424,619
+Adams,10-East Root,President,,D,Biden\Harris,35,47,145,227
+Adams,10-East Root,President,,L,Jorgense\Cohen,3,1,9,13
+Adams,10-East Root,President,,,Write-In,0,0,1,1
+Adams,10-East Root,Governor,,R,Holcomb\Crouch,134,42,391,567
+Adams,10-East Root,Governor,,D,Myers\Lawson,17,25,98,140
+Adams,10-East Root,Governor,,L,Rainwater II / Henry,56,6,80,142
+Adams,10-East Root,Attorney General,,R,Todd Rokita,157,35,422,614
+Adams,10-East Root,Attorney General,,D,Jonathan Weinzapfel,46,36,142,224
+Adams,10-East Root,U.S. House,3,R,Jim Banks,169,32,433,634
+Adams,10-East Root,U.S. House,3,D,Chip Coldiron,36,38,133,207
+Adams,10-East Root,U.S. House,3,,Write-In,0,0,0,0
+Adams,10-East Root,State Representative,79,R,Matthew S Lehman,175,49,465,689
+Adams,11-French,Registered Voters,,,,,,,508
+Adams,11-French,Ballots Cast ,,,,153,29,206,388
+Adams,11-French,President,,R,Trump\Pence,139,17,181,337
+Adams,11-French,President,,D,Biden\Harris,12,10,15,37
+Adams,11-French,President,,L,Jorgense\Cohen,0,2,1,3
+Adams,11-French,President,,,Write-In,0,0,4,4
+Adams,11-French,Governor,,R,Holcomb\Crouch,109,20,169,298
+Adams,11-French,Governor,,D,Myers\Lawson,6,7,13,26
+Adams,11-French,Governor,,L,Rainwater II / Henry,36,0,19,55
+Adams,11-French,Attorney General,,R,Todd Rokita,135,20,181,336
+Adams,11-French,Attorney General,,D,Jonathan Weinzapfel,14,7,17,38
+Adams,11-French,U.S. House,3,R,Jim Banks,136,21,185,342
+Adams,11-French,U.S. House,3,D,Chip Coldiron,14,8,18,40
+Adams,11-French,U.S. House,3,,Write-In,0,0,0,0
+Adams,11-French,State Representative,79,R,Matthew S Lehman,133,24,180,337
+Adams,12-Geneva,Registered Voters,,,,,,,798
+Adams,12-Geneva,Ballots Cast ,,,,359,72,138,569
+Adams,12-Geneva,President,,R,Trump\Pence,272,30,107,409
+Adams,12-Geneva,President,,D,Biden\Harris,70,37,30,137
+Adams,12-Geneva,President,,L,Jorgense\Cohen,9,3,1,13
+Adams,12-Geneva,President,,,Write-In,2,0,0,2
+Adams,12-Geneva,Governor,,R,Holcomb\Crouch,227,39,85,351
+Adams,12-Geneva,Governor,,D,Myers\Lawson,46,28,22,96
+Adams,12-Geneva,Governor,,L,Rainwater II / Henry,83,5,30,118
+Adams,12-Geneva,Attorney General,,R,Todd Rokita,257,39,97,393
+Adams,12-Geneva,Attorney General,,D,Jonathan Weinzapfel,91,29,37,157
+Adams,12-Geneva,U.S. House,3,R,Jim Banks,281,34,105,420
+Adams,12-Geneva,U.S. House,3,D,Chip Coldiron,73,36,30,139
+Adams,12-Geneva,U.S. House,3,,Write-In,0,0,0,0
+Adams,12-Geneva,State Representative,79,R,Matthew S Lehman,299,50,107,456
+Adams,13-Hartford,Registered Voters,,,,,,,461
+Adams,13-Hartford,Ballots Cast ,,,,193,25,150,368
+Adams,13-Hartford,President,,R,Trump\Pence,167,16,122,305
+Adams,13-Hartford,President,,D,Biden\Harris,22,9,25,56
+Adams,13-Hartford,President,,L,Jorgense\Cohen,1,0,2,3
+Adams,13-Hartford,President,,,Write-In,0,0,0,0
+Adams,13-Hartford,Governor,,R,Holcomb\Crouch,119,17,101,237
+Adams,13-Hartford,Governor,,D,Myers\Lawson,15,8,16,39
+Adams,13-Hartford,Governor,,L,Rainwater II / Henry,59,0,33,92
+Adams,13-Hartford,Attorney General,,R,Todd Rokita,167,17,126,310
+Adams,13-Hartford,Attorney General,,D,Jonathan Weinzapfel,23,8,22,53
+Adams,13-Hartford,U.S. House,3,R,Jim Banks,172,16,124,312
+Adams,13-Hartford,U.S. House,3,D,Chip Coldiron,19,9,23,51
+Adams,13-Hartford,U.S. House,3,,Write-In,0,0,0,0
+Adams,13-Hartford,State Representative,79,R,Matthew S Lehman,176,17,134,327
+Adams,14-Jefferson,Registered Voters,,,,,,,281
+Adams,14-Jefferson,Ballots Cast ,,,,95,19,51,165
+Adams,14-Jefferson,President,,R,Trump\Pence,87,12,44,143
+Adams,14-Jefferson,President,,D,Biden\Harris,7,7,7,21
+Adams,14-Jefferson,President,,L,Jorgense\Cohen,1,0,0,1
+Adams,14-Jefferson,President,,,Write-In,0,0,0,0
+Adams,14-Jefferson,Governor,,R,Holcomb\Crouch,68,12,35,115
+Adams,14-Jefferson,Governor,,D,Myers\Lawson,5,7,6,18
+Adams,14-Jefferson,Governor,,L,Rainwater II / Henry,20,0,8,28
+Adams,14-Jefferson,Attorney General,,R,Todd Rokita,79,12,43,134
+Adams,14-Jefferson,Attorney General,,D,Jonathan Weinzapfel,15,7,7,29
+Adams,14-Jefferson,U.S. House,3,R,Jim Banks,88,12,44,144
+Adams,14-Jefferson,U.S. House,3,D,Chip Coldiron,6,6,6,18
+Adams,14-Jefferson,U.S. House,3,,Write-In,0,0,0,0
+Adams,14-Jefferson,State Representative,79,R,Matthew S Lehman,88,14,46,148
+Adams,15-Kirkland,Registered Voters,,,,,,,596
+Adams,15-Kirkland,Ballots Cast ,,,,159,36,305,500
+Adams,15-Kirkland,President,,R,Trump\Pence,138,18,258,414
+Adams,15-Kirkland,President,,D,Biden\Harris,15,18,41,74
+Adams,15-Kirkland,President,,L,Jorgense\Cohen,4,0,3,7
+Adams,15-Kirkland,President,,,Write-In,0,0,0,0
+Adams,15-Kirkland,Governor,,R,Holcomb\Crouch,110,23,242,375
+Adams,15-Kirkland,Governor,,D,Myers\Lawson,9,12,22,43
+Adams,15-Kirkland,Governor,,L,Rainwater II / Henry,38,1,39,78
+Adams,15-Kirkland,Attorney General,,R,Todd Rokita,133,20,260,413
+Adams,15-Kirkland,Attorney General,,D,Jonathan Weinzapfel,18,14,39,71
+Adams,15-Kirkland,U.S. House,3,R,Jim Banks,140,20,268,428
+Adams,15-Kirkland,U.S. House,3,D,Chip Coldiron,15,16,30,61
+Adams,15-Kirkland,U.S. House,3,,Write-In,0,0,0,0
+Adams,15-Kirkland,State Representative,79,R,Matthew S Lehman,146,27,257,430
+Adams,16-Monroe A,Registered Voters,,,,,,,116
+Adams,16-Monroe A,Ballots Cast ,,,,46,7,37,90
+Adams,16-Monroe A,President,,R,Trump\Pence,36,4,28,68
+Adams,16-Monroe A,President,,D,Biden\Harris,8,2,9,19
+Adams,16-Monroe A,President,,L,Jorgense\Cohen,1,1,0,2
+Adams,16-Monroe A,President,,,Write-In,0,0,0,0
+Adams,16-Monroe A,Governor,,R,Holcomb\Crouch,28,5,21,54
+Adams,16-Monroe A,Governor,,D,Myers\Lawson,6,1,7,14
+Adams,16-Monroe A,Governor,,L,Rainwater II / Henry,11,0,9,20
+Adams,16-Monroe A,Attorney General,,R,Todd Rokita,31,4,26,61
+Adams,16-Monroe A,Attorney General,,D,Jonathan Weinzapfel,13,2,10,25
+Adams,16-Monroe A,U.S. House,3,R,Jim Banks,32,5,28,65
+Adams,16-Monroe A,U.S. House,3,D,Chip Coldiron,11,1,8,20
+Adams,16-Monroe A,U.S. House,3,,Write-In,0,0,0,0
+Adams,16-Monroe A,State Representative,79,R,Matthew S Lehman,37,5,28,70
+Adams,17-Monroe B,Registered Voters,,,,,,,508
+Adams,17-Monroe B,Ballots Cast ,,,,191,29,179,399
+Adams,17-Monroe B,President,,R,Trump\Pence,167,11,126,304
+Adams,17-Monroe B,President,,D,Biden\Harris,18,15,48,81
+Adams,17-Monroe B,President,,L,Jorgense\Cohen,3,2,1,6
+Adams,17-Monroe B,President,,,Write-In,0,0,0,0
+Adams,17-Monroe B,Governor,,R,Holcomb\Crouch,129,16,105,250
+Adams,17-Monroe B,Governor,,D,Myers\Lawson,12,10,35,57
+Adams,17-Monroe B,Governor,,L,Rainwater II / Henry,47,1,37,85
+Adams,17-Monroe B,Attorney General,,R,Todd Rokita,157,16,136,309
+Adams,17-Monroe B,Attorney General,,D,Jonathan Weinzapfel,25,11,40,76
+Adams,17-Monroe B,U.S. House,3,R,Jim Banks,167,15,128,310
+Adams,17-Monroe B,U.S. House,3,D,Chip Coldiron,19,11,48,78
+Adams,17-Monroe B,U.S. House,3,,Write-In,0,0,0,0
+Adams,17-Monroe B,State Representative,79,R,Matthew S Lehman,165,22,142,329
+Adams,18-North Washington,Registered Voters,,,,,,,439
+Adams,18-North Washington,Ballots Cast ,,,,112,18,217,347
+Adams,18-North Washington,President,,R,Trump\Pence,95,9,177,281
+Adams,18-North Washington,President,,D,Biden\Harris,12,9,36,57
+Adams,18-North Washington,President,,L,Jorgense\Cohen,4,0,2,6
+Adams,18-North Washington,President,,,Write-In,0,0,0,0
+Adams,18-North Washington,Governor,,R,Holcomb\Crouch,77,12,165,254
+Adams,18-North Washington,Governor,,D,Myers\Lawson,6,6,19,31
+Adams,18-North Washington,Governor,,L,Rainwater II / Henry,27,0,30,57
+Adams,18-North Washington,Attorney General,,R,Todd Rokita,89,9,169,267
+Adams,18-North Washington,Attorney General,,D,Jonathan Weinzapfel,20,9,41,70
+Adams,18-North Washington,U.S. House,3,R,Jim Banks,95,10,180,285
+Adams,18-North Washington,U.S. House,3,D,Chip Coldiron,14,7,33,54
+Adams,18-North Washington,U.S. House,3,,Write-In,0,0,0,0
+Adams,18-North Washington,State Representative,79,R,Matthew S Lehman,100,12,188,300
+Adams,19-Preble,Registered Voters,,,,,,,781
+Adams,19-Preble,Ballots Cast ,,,,203,44,376,623
+Adams,19-Preble,President,,R,Trump\Pence,168,25,298,491
+Adams,19-Preble,President,,D,Biden\Harris,29,15,72,116
+Adams,19-Preble,President,,L,Jorgense\Cohen,5,4,3,12
+Adams,19-Preble,President,,,Write-In,0,0,0,0
+Adams,19-Preble,Governor,,R,Holcomb\Crouch,138,31,280,449
+Adams,19-Preble,Governor,,D,Myers\Lawson,19,11,47,77
+Adams,19-Preble,Governor,,L,Rainwater II / Henry,42,2,46,90
+Adams,19-Preble,Attorney General,,R,Todd Rokita,163,30,288,481
+Adams,19-Preble,Attorney General,,D,Jonathan Weinzapfel,33,12,82,127
+Adams,19-Preble,U.S. House,3,R,Jim Banks,169,30,306,505
+Adams,19-Preble,U.S. House,3,D,Chip Coldiron,30,13,65,108
+Adams,19-Preble,U.S. House,3,,Write-In,0,0,0,0
+Adams,19-Preble,State Representative,79,R,Matthew S Lehman,178,38,314,530
+Adams,20-South Monroe,Registered Voters,,,,,,,699
+Adams,20-South Monroe,Ballots Cast ,,,,212,20,205,437
+Adams,20-South Monroe,President,,R,Trump\Pence,193,16,185,394
+Adams,20-South Monroe,President,,D,Biden\Harris,15,3,13,31
+Adams,20-South Monroe,President,,L,Jorgense\Cohen,3,0,3,6
+Adams,20-South Monroe,President,,,Write-In,1,0,0,1
+Adams,20-South Monroe,Governor,,R,Holcomb\Crouch,156,17,153,326
+Adams,20-South Monroe,Governor,,D,Myers\Lawson,8,3,11,22
+Adams,20-South Monroe,Governor,,L,Rainwater II / Henry,47,0,38,85
+Adams,20-South Monroe,Attorney General,,R,Todd Rokita,182,16,178,376
+Adams,20-South Monroe,Attorney General,,D,Jonathan Weinzapfel,19,3,20,42
+Adams,20-South Monroe,U.S. House,3,R,Jim Banks,191,17,186,394
+Adams,20-South Monroe,U.S. House,3,D,Chip Coldiron,12,3,15,30
+Adams,20-South Monroe,U.S. House,3,,Write-In,0,0,0,0
+Adams,20-South Monroe,State Representative,79,R,Matthew S Lehman,185,17,185,387
+Adams,21-South Washington,Registered Voters,,,,,,,787
+Adams,21-South Washington,Ballots Cast ,,,,186,36,380,602
+Adams,21-South Washington,President,,R,Trump\Pence,166,15,288,469
+Adams,21-South Washington,President,,D,Biden\Harris,16,19,81,116
+Adams,21-South Washington,President,,L,Jorgense\Cohen,4,2,5,11
+Adams,21-South Washington,President,,,Write-In,0,0,1,1
+Adams,21-South Washington,Governor,,R,Holcomb\Crouch,127,17,255,399
+Adams,21-South Washington,Governor,,D,Myers\Lawson,8,13,50,71
+Adams,21-South Washington,Governor,,L,Rainwater II / Henry,51,4,72,127
+Adams,21-South Washington,Attorney General,,R,Todd Rokita,159,16,282,457
+Adams,21-South Washington,Attorney General,,D,Jonathan Weinzapfel,23,18,86,127
+Adams,21-South Washington,U.S. House,3,R,Jim Banks,168,17,289,474
+Adams,21-South Washington,U.S. House,3,D,Chip Coldiron,16,17,80,113
+Adams,21-South Washington,U.S. House,3,,Write-In,0,0,0,0
+Adams,21-South Washington,State Representative,79,R,Matthew S Lehman,167,20,300,487
+Adams,22-St Marys,Registered Voters,,,,,,,778
+Adams,22-St Marys,Ballots Cast ,,,,199,46,346,591
+Adams,22-St Marys,President,,R,Trump\Pence,176,25,273,474
+Adams,22-St Marys,President,,D,Biden\Harris,23,20,67,110
+Adams,22-St Marys,President,,L,Jorgense\Cohen,0,1,4,5
+Adams,22-St Marys,President,,,Write-In,0,0,0,0
+Adams,22-St Marys,Governor,,R,Holcomb\Crouch,144,28,250,422
+Adams,22-St Marys,Governor,,D,Myers\Lawson,11,13,41,65
+Adams,22-St Marys,Governor,,L,Rainwater II / Henry,40,5,51,96
+Adams,22-St Marys,Attorney General,,R,Todd Rokita,160,27,256,443
+Adams,22-St Marys,Attorney General,,D,Jonathan Weinzapfel,29,19,80,128
+Adams,22-St Marys,U.S. House,3,R,Jim Banks,177,27,272,476
+Adams,22-St Marys,U.S. House,3,D,Chip Coldiron,18,19,68,105
+Adams,22-St Marys,U.S. House,3,,Write-In,0,0,0,0
+Adams,22-St Marys,State Representative,79,R,Matthew S Lehman,175,30,280,485
+Adams,23-Union,Registered Voters,,,,,,,634
+Adams,23-Union,Ballots Cast ,,,,143,35,326,504
+Adams,23-Union,President,,R,Trump\Pence,130,22,252,404
+Adams,23-Union,President,,D,Biden\Harris,8,11,67,86
+Adams,23-Union,President,,L,Jorgense\Cohen,0,2,4,6
+Adams,23-Union,President,,,Write-In,1,0,0,1
+Adams,23-Union,Governor,,R,Holcomb\Crouch,106,24,230,360
+Adams,23-Union,Governor,,D,Myers\Lawson,4,8,42,54
+Adams,23-Union,Governor,,L,Rainwater II / Henry,32,3,49,84
+Adams,23-Union,Attorney General,,R,Todd Rokita,128,22,243,393
+Adams,23-Union,Attorney General,,D,Jonathan Weinzapfel,10,12,71,983
+Adams,23-Union,U.S. House,3,R,Jim Banks,130,21,252,403
+Adams,23-Union,U.S. House,3,D,Chip Coldiron,11,14,65,90
+Adams,23-Union,U.S. House,3,,Write-In,0,0,0,0
+Adams,23-Union,State Representative,79,R,Matthew S Lehman,128,27,276,431
+Adams,24-Wabash,Registered Voters,,,,,,,543
+Adams,24-Wabash,Ballots Cast ,,,,155,27,142,324
+Adams,24-Wabash,President,,R,Trump\Pence,138,18,107,263
+Adams,24-Wabash,President,,D,Biden\Harris,15,9,33,57
+Adams,24-Wabash,President,,L,Jorgense\Cohen,1,0,0,1
+Adams,24-Wabash,President,,,Write-In,1,0,0,1
+Adams,24-Wabash,Governor,,R,Holcomb\Crouch,110,20,106,236
+Adams,24-Wabash,Governor,,D,Myers\Lawson,14,7,15,36
+Adams,24-Wabash,Governor,,L,Rainwater II / Henry,31,0,18,49
+Adams,24-Wabash,Attorney General,,R,Todd Rokita,135,19,106,260
+Adams,24-Wabash,Attorney General,,D,Jonathan Weinzapfel,18,8,29,55
+Adams,24-Wabash,U.S. House,3,R,Jim Banks,138,17,106,261
+Adams,24-Wabash,U.S. House,3,D,Chip Coldiron,14,10,29,53
+Adams,24-Wabash,U.S. House,3,,Write-In,0,0,0,0
+Adams,24-Wabash,State Representative,79,R,Matthew S Lehman,141,19,118,278
+Adams,25-West Root,Registered Voters,,,,,,,780
+Adams,25-West Root,Ballots Cast ,,,,130,46,426,602
+Adams,25-West Root,President,,R,Trump\Pence,105,20,328,453
+Adams,25-West Root,President,,D,Biden\Harris,18,22,87,127
+Adams,25-West Root,President,,L,Jorgense\Cohen,2,1,8,11
+Adams,25-West Root,President,,,Write-In,0,0,1,1
+Adams,25-West Root,Governor,,R,Holcomb\Crouch,87,29,305,421
+Adams,25-West Root,Governor,,D,Myers\Lawson,13,16,54,83
+Adams,25-West Root,Governor,,L,Rainwater II / Henry,27,0,59,86
+Adams,25-West Root,Attorney General,,R,Todd Rokita,103,25,332,460
+Adams,25-West Root,Attorney General,,D,Jonathan Weinzapfel,23,21,85,129
+Adams,25-West Root,U.S. House,3,R,Jim Banks,108,27,336,471
+Adams,25-West Root,U.S. House,3,D,Chip Coldiron,18,19,81,118
+Adams,25-West Root,U.S. House,3,,Write-In,0,0,0,0
+Adams,25-West Root,State Representative,79,R,Matthew S Lehman,113,28,355,496

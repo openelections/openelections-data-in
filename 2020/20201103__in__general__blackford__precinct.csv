@@ -1,0 +1,245 @@
+id,county,precinct,office,district,party,candidate,election_day,absentee,early_voting,votes
+1,Blackford,Harrison 1,Registered Voters,,,,,,,952
+2,Blackford,Harrison 1,Ballots Cast ,,,,278,62,244,584
+3,Blackford,Harrison 1,President,,REP,Trump\Pence,208,28,176,412
+4,Blackford,Harrison 1,President,,DEM,Biden\Harris,49,30,63,142
+5,Blackford,Harrison 1,President,,LIB,Jorgense\Cohen,19,3,3,25
+6,Blackford,Harrison 1,President,,,Write-In,0,0,0,0
+7,Blackford,Harrison 1,Governor,,REP,Holcomb\Crouch,152,30,136,318
+8,Blackford,Harrison 1,Governor,,DEM,Myers\Lawson,28,25,39,92
+9,Blackford,Harrison 1,Governor,,LIB,Rainwater II\Henry,92,4,61,157
+10,Blackford,Harrison 1,Attorney General,,REP,Todd Rokita,197,28,171,396
+11,Blackford,Harrison 1,Attorney General,,DEM,Jonathan Weinzapfel,65,30,60,155
+12,Blackford,Harrison 1,U.S. House,3,REP,Jim Banks,210,28,183,421
+13,Blackford,Harrison 1,U.S. House,3,DEM,Chip Coldiron,53,30,52,135
+14,Blackford,Harrison 1,U.S. House,3,,Write-In,0,0,0,0
+15,Blackford,Harrison 1,State Representative ,31,REP,Ann Vermillion,225,36,202,463
+16,Blackford,Harrison 2,Registered Voters,,,,,,,598
+17,Blackford,Harrison 2,Ballots Cast ,,,,174,37,225,436
+18,Blackford,Harrison 2,President,,REP,Trump\Pence,147,18,182,347
+19,Blackford,Harrison 2,President,,DEM,Biden\Harris,21,19,37,77
+20,Blackford,Harrison 2,President,,LIB,Jorgense\Cohen,5,0,5,10
+21,Blackford,Harrison 2,President,,,Write-In,0,0,0,0
+22,Blackford,Harrison 2,Governor,,REP,Holcomb\Crouch,96,24,156,276
+23,Blackford,Harrison 2,Governor,,DEM,Myers\Lawson,14,11,21,46
+24,Blackford,Harrison 2,Governor,,LIB,Rainwater II\Henry,63,1,44,108
+25,Blackford,Harrison 2,Attorney General,,REP,Todd Rokita,135,23,178,336
+26,Blackford,Harrison 2,Attorney General,,DEM,Jonathan Weinzapfel,35,13,41,89
+27,Blackford,Harrison 2,U.S. House,3,REP,Jim Banks,149,17,183,349
+28,Blackford,Harrison 2,U.S. House,3,DEM,Chip Coldiron,23,15,37,75
+29,Blackford,Harrison 2,U.S. House,3,,Write-In,0,0,0,0
+30,Blackford,Harrison 2,State Representative ,31,REP,Ann Vermillion,160,19,186,365
+31,Blackford,Jackson 1,Registered Voters,,,,,,,72
+32,Blackford,Jackson 1,Ballots Cast ,,,,21,7,15,43
+33,Blackford,Jackson 1,President,,REP,Trump\Pence,10,5,9,24
+34,Blackford,Jackson 1,President,,DEM,Biden\Harris,10,2,6,18
+35,Blackford,Jackson 1,President,,LIB,Jorgense\Cohen,0,0,0,0
+36,Blackford,Jackson 1,President,,,Write-In,0,0,0,0
+37,Blackford,Jackson 1,Governor,,REP,Holcomb\Crouch,6,5,12,23
+38,Blackford,Jackson 1,Governor,,DEM,Myers\Lawson,6,2,1,9
+39,Blackford,Jackson 1,Governor,,LIB,Rainwater II\Henry,8,0,1,9
+40,Blackford,Jackson 1,Attorney General,,REP,Todd Rokita,9,5,9,23
+41,Blackford,Jackson 1,Attorney General,,DEM,Jonathan Weinzapfel,12,2,4,18
+42,Blackford,Jackson 1,U.S. House,5,REP,Victoria Spartz,7,4,9,20
+43,Blackford,Jackson 1,U.S. House,5,DEM,Christina Hale,12,2,3,17
+44,Blackford,Jackson 1,U.S. House,5,LIB,Kenneth Tucker,2,1,2,5
+45,Blackford,Jackson 1,U.S. House,5,,Write-In,0,0,0,0
+46,Blackford,Jackson 1,State Representative ,33,REP,John (J.D.) Prescott,9,5,10,24
+47,Blackford,Jackson 1,State Representative ,33,DEM,Julie Snider,12,2,3,17
+48,Blackford,Jackson 2,Registered Voters,,,,,,,801
+49,Blackford,Jackson 2,Ballots Cast ,,,,159,58,345,562
+50,Blackford,Jackson 2,President,,REP,Trump\Pence,135,32,259,426
+51,Blackford,Jackson 2,President,,DEM,Biden\Harris,19,24,81,124
+52,Blackford,Jackson 2,President,,LIB,Jorgense\Cohen,3,1,3,7
+53,Blackford,Jackson 2,President,,,Write-In,1,0,1,2
+54,Blackford,Jackson 2,Governor,,REP,Holcomb\Crouch,97,41,217,355
+55,Blackford,Jackson 2,Governor,,DEM,Myers\Lawson,14,13,58,85
+56,Blackford,Jackson 2,Governor,,LIB,Rainwater II\Henry,46,3,63,112
+57,Blackford,Jackson 2,Attorney General,,REP,Todd Rokita,131,35,258,424
+58,Blackford,Jackson 2,Attorney General,,DEM,Jonathan Weinzapfel,23,22,72,117
+59,Blackford,Jackson 2,U.S. House,5,REP,Victoria Spartz,126,27,242,395
+60,Blackford,Jackson 2,U.S. House,5,DEM,Christina Hale,20,25,79,124
+61,Blackford,Jackson 2,U.S. House,5,LIB,Kenneth Tucker,10,4,15,29
+62,Blackford,Jackson 2,U.S. House,5,,Write-In,0,0,0,0
+63,Blackford,Jackson 2,State Representative ,31,REP,Ann Vermillion,143,37,282,462
+64,Blackford,Licking 1,Registered Voters,,,,,,,1036
+65,Blackford,Licking 1,Ballots Cast ,,,,158,118,436,712
+66,Blackford,Licking 1,President,,REP,Trump\Pence,124,54,257,435
+67,Blackford,Licking 1,President,,DEM,Biden\Harris,25,60,163,248
+68,Blackford,Licking 1,President,,LIB,Jorgense\Cohen,7,2,10,19
+69,Blackford,Licking 1,President,,,Write-In,0,0,0,0
+70,Blackford,Licking 1,Governor,,REP,Holcomb\Crouch,103,72,257,432
+71,Blackford,Licking 1,Governor,,DEM,Myers\Lawson,20,35,109,164
+72,Blackford,Licking 1,Governor,,LIB,Rainwater II\Henry,31,6,55,92
+73,Blackford,Licking 1,Attorney General,,REP,Todd Rokita,125,57,269,451
+74,Blackford,Licking 1,Attorney General,,DEM,Jonathan Weinzapfel,25,55,145,225
+75,Blackford,Licking 1,U.S. House,5,REP,Victoria Spartz,110,46,232,388
+76,Blackford,Licking 1,U.S. House,5,DEM,Christina Hale,31,59,156,246
+77,Blackford,Licking 1,U.S. House,5,LIB,Kenneth Tucker,10,3,30,43
+78,Blackford,Licking 1,U.S. House,5,,Write-In,0,0,0,0
+79,Blackford,Licking 1,State Representative ,31,REP,Ann Vermillion,134,67,324,525
+80,Blackford,Licking 2,Registered Voters,,,,,,,1112
+81,Blackford,Licking 2,Ballots Cast ,,,,222,84,376,682
+82,Blackford,Licking 2,President,,REP,Trump\Pence,167,23,264,454
+83,Blackford,Licking 2,President,,DEM,Biden\Harris,39,60,98,197
+84,Blackford,Licking 2,President,,LIB,Jorgense\Cohen,13,1,10,24
+85,Blackford,Licking 2,President,,,Write-In,2,0,1,3
+86,Blackford,Licking 2,Governor,,REP,Holcomb\Crouch,119,36,232,387
+87,Blackford,Licking 2,Governor,,DEM,Myers\Lawson,34,42,71,147
+88,Blackford,Licking 2,Governor,,LIB,Rainwater II\Henry,64,5,62,131
+89,Blackford,Licking 2,Attorney General,,REP,Todd Rokita,159,31,261,451
+90,Blackford,Licking 2,Attorney General,,DEM,Jonathan Weinzapfel,58,52,95,205
+91,Blackford,Licking 2,U.S. House,5,REP,Victoria Spartz,144,18,236,398
+92,Blackford,Licking 2,U.S. House,5,DEM,Christina Hale,54,58,103,215
+93,Blackford,Licking 2,U.S. House,5,LIB,Kenneth Tucker,18,6,25,49
+94,Blackford,Licking 2,U.S. House,5,,Write-In,0,0,0,0
+95,Blackford,Licking 2,State Representative ,31,REP,Ann Vermillion,183,43,286,512
+96,Blackford,Licking 3,Registered Voters,,,,,,,919
+97,Blackford,Licking 3,Ballots Cast ,,,,154,61,306,521
+98,Blackford,Licking 3,President,,REP,Trump\Pence,117,31,225,373
+99,Blackford,Licking 3,President,,DEM,Biden\Harris,28,27,74,129
+100,Blackford,Licking 3,President,,LIB,Jorgense\Cohen,8,3,6,17
+101,Blackford,Licking 3,President,,,Write-In,0,0,0,0
+102,Blackford,Licking 3,Governor,,REP,Holcomb\Crouch,86,37,186,309
+103,Blackford,Licking 3,Governor,,DEM,Myers\Lawson,25,20,60,105
+104,Blackford,Licking 3,Governor,,LIB,Rainwater II\Henry,41,3,54,98
+105,Blackford,Licking 3,Attorney General,,REP,Todd Rokita,100,28,217,345
+106,Blackford,Licking 3,Attorney General,,DEM,Jonathan Weinzapfel,48,30,75,153
+107,Blackford,Licking 3,U.S. House,5,REP,Victoria Spartz,99,26,192,317
+108,Blackford,Licking 3,U.S. House,5,DEM,Christina Hale,39,24,76,139
+109,Blackford,Licking 3,U.S. House,5,LIB,Kenneth Tucker,11,8,30,49
+110,Blackford,Licking 3,U.S. House,5,,Write-In,0,0,0,0
+111,Blackford,Licking 3,State Representative ,31,REP,Ann Vermillion,127,40,234,401
+112,Blackford,Licking 4,Registered Voters,,,,,,,876
+113,Blackford,Licking 4,Ballots Cast ,,,,165,59,297,521
+114,Blackford,Licking 4,President,,REP,Trump\Pence,117,33,218,368
+115,Blackford,Licking 4,President,,DEM,Biden\Harris,38,21,71,130
+116,Blackford,Licking 4,President,,LIB,Jorgense\Cohen,9,2,3,14
+117,Blackford,Licking 4,President,,,Write-In,0,1,0,1
+118,Blackford,Licking 4,Governor,,REP,Holcomb\Crouch,88,40,203,331
+119,Blackford,Licking 4,Governor,,DEM,Myers\Lawson,28,13,45,86
+120,Blackford,Licking 4,Governor,,LIB,Rainwater II\Henry,46,3,41,90
+121,Blackford,Licking 4,Attorney General,,REP,Todd Rokita,106,37,215,358
+122,Blackford,Licking 4,Attorney General,,DEM,Jonathan Weinzapfel,54,20,69,143
+123,Blackford,Licking 4,U.S. House,5,REP,Victoria Spartz,92,32,191,315
+124,Blackford,Licking 4,U.S. House,5,DEM,Christina Hale,46,22,79,147
+125,Blackford,Licking 4,U.S. House,5,LIB,Kenneth Tucker,20,3,16,39
+126,Blackford,Licking 4,U.S. House,5,,Write-In,0,0,0,0
+127,Blackford,Licking 4,State Representative ,31,REP,Ann Vermillion,127,43,239,409
+128,Blackford,Licking 5,Registered Voters,,,,,,,1083
+129,Blackford,Licking 5,Ballots Cast ,,,,163,102,530,795
+130,Blackford,Licking 5,President,,REP,Trump\Pence,135,39,395,569
+131,Blackford,Licking 5,President,,DEM,Biden\Harris,23,57,127,207
+132,Blackford,Licking 5,President,,LIB,Jorgense\Cohen,3,3,3,9
+133,Blackford,Licking 5,President,,,Write-In,0,0,1,1
+134,Blackford,Licking 5,Governor,,REP,Holcomb\Crouch,103,64,348,515
+135,Blackford,Licking 5,Governor,,DEM,Myers\Lawson,18,31,88,137
+136,Blackford,Licking 5,Governor,,LIB,Rainwater II\Henry,39,6,83,128
+137,Blackford,Licking 5,Attorney General,,REP,Todd Rokita,120,45,384,549
+138,Blackford,Licking 5,Attorney General,,DEM,Jonathan Weinzapfel,37,52,122,211
+139,Blackford,Licking 5,U.S. House,5,REP,Victoria Spartz,119,40,346,505
+140,Blackford,Licking 5,U.S. House,5,DEM,Christina Hale,26,53,135,214
+141,Blackford,Licking 5,U.S. House,5,LIB,Kenneth Tucker,10,4,27,41
+142,Blackford,Licking 5,U.S. House,5,,Write-In,0,0,0,0
+143,Blackford,Licking 5,State Representative ,31,REP,Ann Vermillion,138,54,422,614
+144,Blackford,Licking 6,Registered Voters,,,,,,,175
+145,Blackford,Licking 6,Ballots Cast ,,,,43,15,82,140
+146,Blackford,Licking 6,President,,REP,Trump\Pence,39,7,64,110
+147,Blackford,Licking 6,President,,DEM,Biden\Harris,4,6,14,24
+148,Blackford,Licking 6,President,,LIB,Jorgense\Cohen,0,1,3,4
+149,Blackford,Licking 6,President,,,Write-In,0,0,0,0
+150,Blackford,Licking 6,Governor,,REP,Holcomb\Crouch,29,13,60,102
+151,Blackford,Licking 6,Governor,,DEM,Myers\Lawson,1,2,8,11
+152,Blackford,Licking 6,Governor,,LIB,Rainwater II\Henry,13,0,13,26
+153,Blackford,Licking 6,Attorney General,,REP,Todd Rokita,37,10,67,114
+154,Blackford,Licking 6,Attorney General,,DEM,Jonathan Weinzapfel,5,4,10,19
+155,Blackford,Licking 6,U.S. House,5,REP,Victoria Spartz,35,8,61,104
+156,Blackford,Licking 6,U.S. House,5,DEM,Christina Hale,6,4,18,28
+157,Blackford,Licking 6,U.S. House,5,LIB,Kenneth Tucker,2,0,3,5
+158,Blackford,Licking 6,U.S. House,5,,Write-In,0,0,0,0
+159,Blackford,Licking 6,State Representative ,31,REP,Ann Vermillion,40,11,71,122
+160,Blackford,Washington 1,Registered Voters,,,,,,,309
+161,Blackford,Washington 1,Ballots Cast ,,,,67,30,118,215
+162,Blackford,Washington 1,President,,REP,Trump\Pence,61,17,96,174
+163,Blackford,Washington 1,President,,DEM,Biden\Harris,6,10,20,36
+164,Blackford,Washington 1,President,,LIB,Jorgense\Cohen,0,0,1,1
+165,Blackford,Washington 1,President,,,Write-In,0,1,0,1
+166,Blackford,Washington 1,Governor,,REP,Holcomb\Crouch,43,19,81,143
+167,Blackford,Washington 1,Governor,,DEM,Myers\Lawson,3,8,15,26
+168,Blackford,Washington 1,Governor,,LIB,Rainwater II\Henry,21,0,18,39
+169,Blackford,Washington 1,Attorney General,,REP,Todd Rokita,57,19,95,171
+170,Blackford,Washington 1,Attorney General,,DEM,Jonathan Weinzapfel,8,9,17,34
+171,Blackford,Washington 1,U.S. House,5,REP,Victoria Spartz,58,16,86,160
+172,Blackford,Washington 1,U.S. House,5,DEM,Christina Hale,6,12,22,40
+173,Blackford,Washington 1,U.S. House,5,LIB,Kenneth Tucker,3,0,4,7
+174,Blackford,Washington 1,U.S. House,5,,Write-In,0,0,0,0
+175,Blackford,Washington 1,State Representative ,31,REP,Ann Vermillion,61,19,99,179
+176,Blackford,Washington 2,Registered Voters,,,,,,,280
+177,Blackford,Washington 2,Ballots Cast ,,,,63,16,118,197
+178,Blackford,Washington 2,President,,REP,Trump\Pence,50,6,93,149
+179,Blackford,Washington 2,President,,DEM,Biden\Harris,13,10,21,44
+180,Blackford,Washington 2,President,,LIB,Jorgense\Cohen,0,0,2,2
+181,Blackford,Washington 2,President,,,Write-In,0,0,1,1
+182,Blackford,Washington 2,Governor,,REP,Holcomb\Crouch,43,10,89,142
+183,Blackford,Washington 2,Governor,,DEM,Myers\Lawson,4,5,16,25
+184,Blackford,Washington 2,Governor,,LIB,Rainwater II\Henry,14,0,13,27
+185,Blackford,Washington 2,Attorney General,,REP,Todd Rokita,48,6,94,148
+186,Blackford,Washington 2,Attorney General,,DEM,Jonathan Weinzapfel,13,8,23,44
+187,Blackford,Washington 2,U.S. House,3,REP,Jim Banks,49,6,93,148
+188,Blackford,Washington 2,U.S. House,3,DEM,Chip Coldiron,10,8,21,39
+189,Blackford,Washington 2,U.S. House,3,,Write-In,0,0,0,0
+190,Blackford,Washington 2,State Representative ,31,REP,Ann Vermillion,56,8,101,165
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,

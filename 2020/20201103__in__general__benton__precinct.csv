@@ -1,0 +1,438 @@
+county,precinct,office,district,party,candidate,election_day,absentee,mail,votes
+Benton,Bolivar,Registered Voters,,,,,,,772
+Benton,Bolivar,Ballots Cast ,,,,354,114,36,504
+Benton,Bolivar,Straight Party,,REP,,148,26,7,181
+Benton,Bolivar,Straight Party,,DEM,,28,15,5,48
+Benton,Bolivar,Straight Party,,LIB,,2,2,0,4
+Benton,Bolivar,President,,REP,Trump\Pence,276,58,14,348
+Benton,Bolivar,President,,DEM,Biden\Harris,64,50,22,136
+Benton,Bolivar,President,,LIB,Jorgense\Cohen,11,4,0,15
+Benton,Bolivar,President,,,Write-In Votes,1,0,0,1
+Benton,Bolivar,Governor,,REP,Eric Holcomb,241,69,21,331
+Benton,Bolivar,Governor,,DEM,Woody Myers,44,31,14,89
+Benton,Bolivar,Governor,,LIB,Donald Rainwater,65,13,0,78
+Benton,Bolivar,Attorney General,,REP,Todd Rokita,268,68,18,354
+Benton,Bolivar,Attorney General,,DEM,Jonathan Weinzapfel,80,42,18,140
+Benton,Bolivar,U.S. House,4,REP,Jim Baird,272,62,17,351
+Benton,Bolivar,U.S. House,4,DEM,Joe Mackey,73,46,19,138
+Benton,Bolivar,U.S. House,4,,Write-In Votes,1,0,0,1
+Benton,Bolivar,State Representative ,13,REP,Sharon Negele,282,70,15,367
+Benton,Bolivar,State Representative ,13,DEM,Loretta Barnes,66,42,21,129
+Benton,Center East,Registered Voters,,,,,,,507
+Benton,Center East,Ballots Cast ,,,,148,177,36,361
+Benton,Center East,Straight Party,,REP,,46,50,7,103
+Benton,Center East,Straight Party,,DEM,,10,16,2,28
+Benton,Center East,Straight Party,,LIB,,1,0,0,1
+Benton,Center East,President,,REP,Trump\Pence,112,113,14,239
+Benton,Center East,President,,DEM,Biden\Harris,31,56,19,106
+Benton,Center East,President,,LIB,Jorgense\Cohen,3,5,1,9
+Benton,Center East,President,,,Write-In Votes,1,0,0,1
+Benton,Center East,Governor,,REP,Eric Holcomb,97,121,18,236
+Benton,Center East,Governor,,DEM,Woody Myers,23,36,14,73
+Benton,Center East,Governor,,LIB,Donald Rainwater,27,18,2,47
+Benton,Center East,Attorney General,,REP,Todd Rokita,105,115,14,234
+Benton,Center East,Attorney General,,DEM,Jonathan Weinzapfel,39,58,20,117
+Benton,Center East,U.S. House,4,REP,Jim Baird,110,117,13,240
+Benton,Center East,U.S. House,4,DEM,Joe Mackey,34,54,22,110
+Benton,Center East,U.S. House,4,,Write-In Votes,0,0,0,0
+Benton,Center East,State Representative ,13,REP,Sharon Negele,114,120,16,250
+Benton,Center East,State Representative ,13,DEM,Loretta Barnes,29,49,19,97
+Benton,Center North,Registered Voters,,,,,,,427
+Benton,Center North,Ballots Cast ,,,,137,126,27,290
+Benton,Center North,Straight Party,,REP,,47,37,5,89
+Benton,Center North,Straight Party,,DEM,,3,22,3,28
+Benton,Center North,Straight Party,,LIB,,2,0,0,2
+Benton,Center North,President,,REP,Trump\Pence,116,72,14,202
+Benton,Center North,President,,DEM,Biden\Harris,15,49,11,75
+Benton,Center North,President,,LIB,Jorgense\Cohen,6,1,2,9
+Benton,Center North,President,,,Write-In Votes,0,0,0,0
+Benton,Center North,Governor,,REP,Eric Holcomb,96,75,18,189
+Benton,Center North,Governor,,DEM,Woody Myers,14,36,7,57
+Benton,Center North,Governor,,LIB,Donald Rainwater,24,13,1,38
+Benton,Center North,Attorney General,,REP,Todd Rokita,110,76,17,203
+Benton,Center North,Attorney General,,DEM,Jonathan Weinzapfel,24,47,9,80
+Benton,Center North,U.S. House,4,REP,Jim Baird,109,77,15,201
+Benton,Center North,U.S. House,4,DEM,Joe Mackey,22,43,10,75
+Benton,Center North,U.S. House,4,,Write-In Votes,0,0,0,0
+Benton,Center North,State Representative ,13,REP,Sharon Negele,115,77,19,211
+Benton,Center North,State Representative ,13,DEM,Loretta Barnes,18,41,7,66
+Benton,Center South,Registered Voters,,,,,,,524
+Benton,Center South,Ballots Cast ,,,,133,172,42,347
+Benton,Center South,Straight Party,,REP,,33,57,5,95
+Benton,Center South,Straight Party,,DEM,,7,15,3,25
+Benton,Center South,Straight Party,,LIB,,0,0,0,0
+Benton,Center South,President,,REP,Trump\Pence,103,119,23,245
+Benton,Center South,President,,DEM,Biden\Harris,25,47,19,91
+Benton,Center South,President,,LIB,Jorgense\Cohen,3,4,0,7
+Benton,Center South,President,,,Write-In Votes,0,0,0,0
+Benton,Center South,Governor,,REP,Eric Holcomb,91,113,31,235
+Benton,Center South,Governor,,DEM,Woody Myers,14,22,9,45
+Benton,Center South,Governor,,LIB,Donald Rainwater,26,33,2,61
+Benton,Center South,Attorney General,,REP,Todd Rokita,93,120,27,240
+Benton,Center South,Attorney General,,DEM,Jonathan Weinzapfel,37,44,15,96
+Benton,Center South,U.S. House,4,REP,Jim Baird,106,116,24,246
+Benton,Center South,U.S. House,4,DEM,Joe Mackey,23,45,17,85
+Benton,Center South,U.S. House,4,,Write-In Votes,0,0,0,0
+Benton,Center South,State Representative ,13,REP,Sharon Negele,105,121,27,253
+Benton,Center South,State Representative ,13,DEM,Loretta Barnes,20,43,15,78
+Benton,Center West,Registered Voters,,,,,,,425
+Benton,Center West,Ballots Cast ,,,,145,134,30,309
+Benton,Center West,Straight Party,,REP,,40,41,5,86
+Benton,Center West,Straight Party,,DEM,,7,15,4,26
+Benton,Center West,Straight Party,,LIB,,1,2,1,4
+Benton,Center West,President,,REP,Trump\Pence,111,78,17,206
+Benton,Center West,President,,DEM,Biden\Harris,33,49,11,93
+Benton,Center West,President,,LIB,Jorgense\Cohen,1,3,1,5
+Benton,Center West,President,,,Write-In Votes,0,0,1,1
+Benton,Center West,Governor,,REP,Eric Holcomb,102,88,19,209
+Benton,Center West,Governor,,DEM,Woody Myers,16,28,9,53
+Benton,Center West,Governor,,LIB,Donald Rainwater,27,14,0,41
+Benton,Center West,Attorney General,,REP,Todd Rokita,106,85,17,208
+Benton,Center West,Attorney General,,DEM,Jonathan Weinzapfel,34,45,11,90
+Benton,Center West,U.S. House,4,REP,Jim Baird,116,83,19,218
+Benton,Center West,U.S. House,4,DEM,Joe Mackey,25,45,10,80
+Benton,Center West,U.S. House,4,,Write-In Votes,0,0,0,0
+Benton,Center West,State Representative ,13,REP,Sharon Negele,117,88,20,225
+Benton,Center West,State Representative ,13,DEM,Loretta Barnes,24,38,8,70
+Benton,Gilboa,Registered Voters,,,,,,,187
+Benton,Gilboa,Ballots Cast ,,,,90,35,16,141
+Benton,Gilboa,Straight Party,,REP,,41,14,5,60
+Benton,Gilboa,Straight Party,,DEM,,2,2,0,4
+Benton,Gilboa,Straight Party,,LIB,,1,0,0,1
+Benton,Gilboa,President,,REP,Trump\Pence,77,29,11,117
+Benton,Gilboa,President,,DEM,Biden\Harris,11,4,3,18
+Benton,Gilboa,President,,LIB,Jorgense\Cohen,2,2,2,6
+Benton,Gilboa,President,,,Write-In Votes,0,0,0,0
+Benton,Gilboa,Governor,,REP,Eric Holcomb,72,26,15,113
+Benton,Gilboa,Governor,,DEM,Woody Myers,5,3,1,9
+Benton,Gilboa,Governor,,LIB,Donald Rainwater,13,6,0,19
+Benton,Gilboa,Attorney General,,REP,Todd Rokita,81,29,13,123
+Benton,Gilboa,Attorney General,,DEM,Jonathan Weinzapfel,8,6,2,16
+Benton,Gilboa,U.S. House,4,REP,Jim Baird,80,28,12,120
+Benton,Gilboa,U.S. House,4,DEM,Joe Mackey,9,6,3,18
+Benton,Gilboa,U.S. House,4,,Write-In Votes,0,0,0,0
+Benton,Gilboa,State Representative ,13,REP,Sharon Negele,81,30,13,124
+Benton,Gilboa,State Representative ,13,DEM,Loretta Barnes,8,4,2,14
+Benton,Grant,Registered Voters,,,,,,,690
+Benton,Grant,Ballots Cast ,,,,327,106,28,461
+Benton,Grant,Straight Party,,REP,,111,43,4,158
+Benton,Grant,Straight Party,,DEM,,25,7,3,35
+Benton,Grant,Straight Party,,LIB,,1,0,0,1
+Benton,Grant,President,,REP,Trump\Pence,253,81,16,350
+Benton,Grant,President,,DEM,Biden\Harris,63,23,12,98
+Benton,Grant,President,,LIB,Jorgense\Cohen,8,1,0,9
+Benton,Grant,President,,,Write-In Votes,1,0,0,1
+Benton,Grant,Governor,,REP,Eric Holcomb,205,74,20,299
+Benton,Grant,Governor,,DEM,Woody Myers,47,16,6,69
+Benton,Grant,Governor,,LIB,Donald Rainwater,71,15,2,88
+Benton,Grant,Attorney General,,REP,Todd Rokita,219,79,18,316
+Benton,Grant,Attorney General,,DEM,Jonathan Weinzapfel,98,25,9,132
+Benton,Grant,U.S. House,4,REP,Jim Baird,254,78,17,349
+Benton,Grant,U.S. House,4,DEM,Joe Mackey,67,24,11,102
+Benton,Grant,U.S. House,4,,Write-In Votes,0,0,0,0
+Benton,Grant,State Representative ,13,REP,Sharon Negele,257,85,19,361
+Benton,Grant,State Representative ,13,DEM,Loretta Barnes,63,17,9,89
+Benton,Hickory Grove,Registered Voters,,,,,,,252
+Benton,Hickory Grove,Ballots Cast ,,,,107,37,16,160
+Benton,Hickory Grove,Straight Party,,REP,,43,14,3,60
+Benton,Hickory Grove,Straight Party,,DEM,,10,3,1,14
+Benton,Hickory Grove,Straight Party,,LIB,,1,0,0,1
+Benton,Hickory Grove,President,,REP,Trump\Pence,85,23,11,119
+Benton,Hickory Grove,President,,DEM,Biden\Harris,19,12,5,36
+Benton,Hickory Grove,President,,LIB,Jorgense\Cohen,2,0,0,2
+Benton,Hickory Grove,President,,,Write-In Votes,0,0,0,0
+Benton,Hickory Grove,Governor,,REP,Eric Holcomb,71,28,12,111
+Benton,Hickory Grove,Governor,,DEM,Woody Myers,18,5,2,25
+Benton,Hickory Grove,Governor,,LIB,Donald Rainwater,16,2,1,19
+Benton,Hickory Grove,Attorney General,,REP,Todd Rokita,80,24,9,113
+Benton,Hickory Grove,Attorney General,,DEM,Jonathan Weinzapfel,24,11,6,41
+Benton,Hickory Grove,U.S. House,4,REP,Jim Baird,78,24,8,110
+Benton,Hickory Grove,U.S. House,4,DEM,Joe Mackey,25,11,7,43
+Benton,Hickory Grove,U.S. House,4,,Write-In Votes,0,0,0,0
+Benton,Hickory Grove,State Representative ,13,REP,Sharon Negele,76,27,8,111
+Benton,Hickory Grove,State Representative ,13,DEM,Loretta Barnes,26,8,7,41
+Benton,Oak Grove North,Registered Voters,,,,,,,765
+Benton,Oak Grove North,Ballots Cast ,,,,335,149,46,530
+Benton,Oak Grove North,Straight Party,,REP,,122,56,11,189
+Benton,Oak Grove North,Straight Party,,DEM,,34,12,5,51
+Benton,Oak Grove North,Straight Party,,LIB,,3,0,0,3
+Benton,Oak Grove North,President,,REP,Trump\Pence,243,107,27,377
+Benton,Oak Grove North,President,,DEM,Biden\Harris,79,37,18,134
+Benton,Oak Grove North,President,,LIB,Jorgense\Cohen,6,2,0,8
+Benton,Oak Grove North,President,,,Write-In Votes,0,1,0,1
+Benton,Oak Grove North,Governor,,REP,Eric Holcomb,211,99,34,344
+Benton,Oak Grove North,Governor,,DEM,Woody Myers,56,31,9,96
+Benton,Oak Grove North,Governor,,LIB,Donald Rainwater,58,18,1,77
+Benton,Oak Grove North,Attorney General,,REP,Todd Rokita,235,107,32,374
+Benton,Oak Grove North,Attorney General,,DEM,Jonathan Weinzapfel,89,40,12,141
+Benton,Oak Grove North,U.S. House,4,REP,Jim Baird,242,106,29,377
+Benton,Oak Grove North,U.S. House,4,DEM,Joe Mackey,83,41,15,139
+Benton,Oak Grove North,U.S. House,4,,Write-In Votes,0,0,0,0
+Benton,Oak Grove North,State Representative ,13,REP,Sharon Negele,252,107,34,393
+Benton,Oak Grove North,State Representative ,13,DEM,Loretta Barnes,70,39,10,119
+Benton,Oak Grove South,Registered Voters,,,,,,,376
+Benton,Oak Grove South,Ballots Cast ,,,,191,62,11,264
+Benton,Oak Grove South,Straight Party,,REP,,74,18,3,95
+Benton,Oak Grove South,Straight Party,,DEM,,10,7,3,20
+Benton,Oak Grove South,Straight Party,,LIB,,3,1,0,4
+Benton,Oak Grove South,President,,REP,Trump\Pence,144,41,6,191
+Benton,Oak Grove South,President,,DEM,Biden\Harris,34,19,5,58
+Benton,Oak Grove South,President,,LIB,Jorgense\Cohen,9,1,0,10
+Benton,Oak Grove South,President,,,Write-In Votes,1,0,0,1
+Benton,Oak Grove South,Governor,,REP,Eric Holcomb,130,42,5,177
+Benton,Oak Grove South,Governor,,DEM,Woody Myers,21,14,5,40
+Benton,Oak Grove South,Governor,,LIB,Donald Rainwater,37,5,1,43
+Benton,Oak Grove South,Attorney General,,REP,Todd Rokita,137,39,5,181
+Benton,Oak Grove South,Attorney General,,DEM,Jonathan Weinzapfel,47,21,6,74
+Benton,Oak Grove South,U.S. House,4,REP,Jim Baird,146,41,5,192
+Benton,Oak Grove South,U.S. House,4,DEM,Joe Mackey,39,18,6,63
+Benton,Oak Grove South,U.S. House,4,,Write-In Votes,0,0,0,0
+Benton,Oak Grove South,State Representative ,13,REP,Sharon Negele,147,39,5,191
+Benton,Oak Grove South,State Representative ,13,DEM,Loretta Barnes,34,20,6,60
+Benton,Parish Grove,Registered Voters,,,,,,,154
+Benton,Parish Grove,Ballots Cast ,,,,50,46,12,108
+Benton,Parish Grove,Straight Party,,REP,,21,10,5,36
+Benton,Parish Grove,Straight Party,,DEM,,2,4,1,7
+Benton,Parish Grove,Straight Party,,LIB,,0,0,1,1
+Benton,Parish Grove,President,,REP,Trump\Pence,37,27,7,71
+Benton,Parish Grove,President,,DEM,Biden\Harris,9,18,5,32
+Benton,Parish Grove,President,,LIB,Jorgense\Cohen,1,1,0,2
+Benton,Parish Grove,President,,,Write-In Votes,0,0,0,0
+Benton,Parish Grove,Governor,,REP,Eric Holcomb,38,26,7,71
+Benton,Parish Grove,Governor,,DEM,Woody Myers,5,13,4,22
+Benton,Parish Grove,Governor,,LIB,Donald Rainwater,3,7,1,11
+Benton,Parish Grove,Attorney General,,REP,Todd Rokita,34,29,6,69
+Benton,Parish Grove,Attorney General,,DEM,Jonathan Weinzapfel,13,17,6,36
+Benton,Parish Grove,U.S. House,4,REP,Jim Baird,36,31,7,74
+Benton,Parish Grove,U.S. House,4,DEM,Joe Mackey,9,15,4,28
+Benton,Parish Grove,U.S. House,4,,Write-In Votes,0,0,0,0
+Benton,Parish Grove,State Representative ,13,REP,Sharon Negele,37,33,6,76
+Benton,Parish Grove,State Representative ,13,DEM,Loretta Barnes,8,13,5,26
+Benton,Pine,Registered Voters,,,,,,,247
+Benton,Pine,Ballots Cast ,,,,107,88,8,203
+Benton,Pine,Straight Party,,REP,,41,27,0,68
+Benton,Pine,Straight Party,,DEM,,6,3,0,9
+Benton,Pine,Straight Party,,LIB,,2,0,0,2
+Benton,Pine,President,,REP,Trump\Pence,87,70,3,160
+Benton,Pine,President,,DEM,Biden\Harris,18,17,5,40
+Benton,Pine,President,,LIB,Jorgense\Cohen,0,1,0,1
+Benton,Pine,President,,,Write-In Votes,0,0,0,0
+Benton,Pine,Governor,,REP,Eric Holcomb,80,68,6,154
+Benton,Pine,Governor,,DEM,Woody Myers,14,9,2,25
+Benton,Pine,Governor,,LIB,Donald Rainwater,13,11,0,24
+Benton,Pine,Attorney General,,REP,Todd Rokita,83,67,4,154
+Benton,Pine,Attorney General,,DEM,Jonathan Weinzapfel,23,17,3,43
+Benton,Pine,U.S. House,4,REP,Jim Baird,88,68,4,160
+Benton,Pine,U.S. House,4,DEM,Joe Mackey,14,18,4,36
+Benton,Pine,U.S. House,4,,Write-In Votes,0,0,0,0
+Benton,Pine,State Representative ,13,REP,Sharon Negele,86,74,5,165
+Benton,Pine,State Representative ,13,DEM,Loretta Barnes,17,11,3,31
+Benton,Richland,Registered Voters,,,,,,,414
+Benton,Richland,Ballots Cast ,,,,205,61,20,286
+Benton,Richland,Straight Party,,REP,,78,21,10,109
+Benton,Richland,Straight Party,,DEM,,10,13,3,26
+Benton,Richland,Straight Party,,LIB,,1,0,0,1
+Benton,Richland,President,,REP,Trump\Pence,160,39,13,215
+Benton,Richland,President,,DEM,Biden\Harris,36,20,7,63
+Benton,Richland,President,,LIB,Jorgense\Cohen,4,1,0,5
+Benton,Richland,President,,,Write-In Votes,1,0,0,1
+Benton,Richland,Governor,,REP,Eric Holcomb,138,37,14,189
+Benton,Richland,Governor,,DEM,Woody Myers,28,18,5,51
+Benton,Richland,Governor,,LIB,Donald Rainwater,37,4,0,41
+Benton,Richland,Attorney General,,REP,Todd Rokita,151,37,14,202
+Benton,Richland,Attorney General,,DEM,Jonathan Weinzapfel,49,21,5,75
+Benton,Richland,U.S. House,4,REP,Jim Baird,158,37,11,206
+Benton,Richland,U.S. House,4,DEM,Joe Mackey,42,22,8,72
+Benton,Richland,U.S. House,4,,Write-In Votes,0,0,0,0
+Benton,Richland,State Representative ,13,REP,Sharon Negele,170,35,15,220
+Benton,Richland,State Representative ,13,DEM,Loretta Barnes,28,23,4,55
+Benton,Union,Registered Voters,,,,,,,146
+Benton,Union,Ballots Cast ,,,,66,31,13,110
+Benton,Union,Straight Party,,REP,,29,11,3,43
+Benton,Union,Straight Party,,DEM,,3,2,0,5
+Benton,Union,Straight Party,,LIB,,0,0,0,0
+Benton,Union,President,,REP,Trump\Pence,60,22,10,92
+Benton,Union,President,,DEM,Biden\Harris,5,8,2,15
+Benton,Union,President,,LIB,Jorgense\Cohen,1,1,0,2
+Benton,Union,President,,,Write-In Votes,0,0,0,0
+Benton,Union,Governor,,REP,Eric Holcomb,53,23,12,88
+Benton,Union,Governor,,DEM,Woody Myers,4,5,1,10
+Benton,Union,Governor,,LIB,Donald Rainwater,9,2,0,11
+Benton,Union,Attorney General,,REP,Todd Rokita,58,20,12,90
+Benton,Union,Attorney General,,DEM,Jonathan Weinzapfel,6,9,1,16
+Benton,Union,U.S. House,4,REP,Jim Baird,58,22,11,91
+Benton,Union,U.S. House,4,DEM,Joe Mackey,6,8,2,16
+Benton,Union,U.S. House,4,,Write-In Votes,0,0,0,0
+Benton,Union,State Representative ,13,REP,Sharon Negele,57,23,11,91
+Benton,Union,State Representative ,13,DEM,Loretta Barnes,7,7,2,16
+Benton,York,Registered Voters,,,,,,,129
+Benton,York,Ballots Cast ,,,,74,13,5,92
+Benton,York,Straight Party,,REP,,29,7,1,37
+Benton,York,Straight Party,,DEM,,3,0,0,3
+Benton,York,Straight Party,,LIB,,2,0,0,2
+Benton,York,President,,REP,Trump\Pence,61,12,2,75
+Benton,York,President,,DEM,Biden\Harris,11,1,2,14
+Benton,York,President,,LIB,Jorgense\Cohen,2,0,0,2
+Benton,York,President,,,Write-In Votes,0,0,0,0
+Benton,York,Governor,,REP,Eric Holcomb,53,12,4,69
+Benton,York,Governor,,DEM,Woody Myers,7,0,0,7
+Benton,York,Governor,,LIB,Donald Rainwater,14,1,1,16
+Benton,York,Attorney General,,REP,Todd Rokita,62,11,3,76
+Benton,York,Attorney General,,DEM,Jonathan Weinzapfel,11,1,2,14
+Benton,York,U.S. House,4,REP,Jim Baird,63,12,3,78
+Benton,York,U.S. House,4,DEM,Joe Mackey,10,1,2,13
+Benton,York,U.S. House,4,,Write-In Votes,0,0,0,0
+Benton,York,State Representative ,13,REP,Sharon Negele,63,13,3,79
+Benton,York,State Representative ,13,DEM,Loretta Barnes,10,0,2,12
+Benton,TOTAL,Registered Voters,,,,,,,6015
+Benton,TOTAL,Ballots Cast ,,,,2469,1351,346,4166
+Benton,TOTAL,Straight Party,,REP,,903,432,74,1409
+Benton,TOTAL,Straight Party,,DEM,,160,136,33,329
+Benton,TOTAL,Straight Party,,LIB,,20,5,2,27
+Benton,TOTAL,President,,REP,Trump\Pence,1928,891,188,3007
+Benton,TOTAL,President,,DEM,Biden\Harris,453,410,146,1009
+Benton,TOTAL,President,,LIB,Jorgense\Cohen,59,27,6,92
+Benton,TOTAL,President,,,Write-In Votes,5,1,1,7
+Benton,TOTAL,Governor,,REP,Eric Holcomb,1678,901,236,2815
+Benton,TOTAL,Governor,,DEM,Woody Myers,316,267,88,671
+Benton,TOTAL,Governor,,LIB,Donald Rainwater,440,162,12,614
+Benton,TOTAL,Attorney General,,REP,Todd Rokita,1822,906,209,2937
+Benton,TOTAL,Attorney General,,DEM,Jonathan Weinzapfel,582,404,125,1111
+Benton,TOTAL,U.S. House,4,REP,Jim Baird,1916,902,195,3013
+Benton,TOTAL,U.S. House,4,DEM,Joe Mackey,481,397,140,1018
+Benton,TOTAL,U.S. House,4,,Write-In Votes,1,0,0,1
+Benton,TOTAL,State Representative ,13,REP,Sharon Negele,1959,942,216,3117
+Benton,TOTAL,State Representative ,13,DEM,Loretta Barnes,428,355,120,903
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,

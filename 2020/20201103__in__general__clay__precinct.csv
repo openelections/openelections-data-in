@@ -1,0 +1,431 @@
+county,precinct,office,district,party,candidate,election_day,absentee,early_voting,votes
+Clay,Brazil 1,Registered Voters,,,,,,,1246
+Clay,Brazil 1,Ballots Cast,,,,311,67,270,648
+Clay,Brazil 1,President,,REP,Donald J Trump,241,27,193,461
+Clay,Brazil 1,President,,DEM,Joseph R Biden,60,40,71,171
+Clay,Brazil 1,President,,LIB,Jo Jorgensen,8,0,4,12
+Clay,Brazil 1,President,,,Write-In,0,0,0,0
+Clay,Brazil 1,Governor,,REP,Eric Holcomb,175,32,150,357
+Clay,Brazil 1,Governor,,DEM,Woodrow (Woody) Myers,41,31,58,130
+Clay,Brazil 1,Governor,,LIB,Donald G Rainwater II,89,2,59,150
+Clay,Brazil 1,Attorney General,,REP,Todd Rokita,220,24,188,432
+Clay,Brazil 1,Attorney General,,DEM,Jonathan Weinzapfel,79,41,71,191
+Clay,Brazil 1,U.S. House,8,REP,Larry D Bucshon,229,26,192,447
+Clay,Brazil 1,U.S. House,8,DEM,E Thomasina Marsili,59,39,63,161
+Clay,Brazil 1,U.S. House,8,LIB,James D Rodenberger,15,0,12,27
+Clay,Brazil 1,U.S. House,8,,Write-In,0,0,0,0
+Clay,Brazil 1,State Representative,42,REP,Alan Morrison,215,21,181,417
+Clay,Brazil 1,State Representative,42,DEM,Amy Burke Adams,87,44,86,217
+Clay,Brazil 2,Registered Voters,,,,,,,1112
+Clay,Brazil 2,Ballots Cast,,,,336,59,271,666
+Clay,Brazil 2,President,,REP,Donald J Trump,274,17,196,487
+Clay,Brazil 2,President,,DEM,Joseph R Biden,48,42,67,157
+Clay,Brazil 2,President,,LIB,Jo Jorgensen,9,0,4,13
+Clay,Brazil 2,President,,,Write-In,2,0,3,5
+Clay,Brazil 2,Governor,,REP,Eric Holcomb,202,24,170,396
+Clay,Brazil 2,Governor,,DEM,Woodrow (Woody) Myers,36,29,55,120
+Clay,Brazil 2,Governor,,LIB,Donald G Rainwater II,92,4,43,139
+Clay,Brazil 2,Attorney General,,REP,Todd Rokita,259,22,192,473
+Clay,Brazil 2,Attorney General,,DEM,Jonathan Weinzapfel,63,34,62,159
+Clay,Brazil 2,U.S. House,8,REP,Larry D Bucshon,275,18,194,487
+Clay,Brazil 2,U.S. House,8,DEM,E Thomasina Marsili,38,36,69,143
+Clay,Brazil 2,U.S. House,8,LIB,James D Rodenberger,12,1,3,16
+Clay,Brazil 2,U.S. House,8,,Write-In,0,0,0,0
+Clay,Brazil 2,State Representative,42,REP,Alan Morrison,258,19,181,458
+Clay,Brazil 2,State Representative,42,DEM,Amy Burke Adams,67,37,84,188
+Clay,Brazil 3,Registered Voters,,,,,,,1186
+Clay,Brazil 3,Ballots Cast,,,,316,93,216,625
+Clay,Brazil 3,President,,REP,Donald J Trump,246,62,149,457
+Clay,Brazil 3,President,,DEM,Joseph R Biden,59,28,56,143
+Clay,Brazil 3,President,,LIB,Jo Jorgensen,6,1,5,12
+Clay,Brazil 3,President,,,Write-In,2,0,0,2
+Clay,Brazil 3,Governor,,REP,Eric Holcomb,195,63,134,392
+Clay,Brazil 3,Governor,,DEM,Woodrow (Woody) Myers,48,20,44,112
+Clay,Brazil 3,Governor,,LIB,Donald G Rainwater II,67,7,33,107
+Clay,Brazil 3,Attorney General,,REP,Todd Rokita,216,66,146,428
+Clay,Brazil 3,Attorney General,,DEM,Jonathan Weinzapfel,85,25,62,172
+Clay,Brazil 3,U.S. House,8,REP,Larry D Bucshon,238,64,142,444
+Clay,Brazil 3,U.S. House,8,DEM,E Thomasina Marsili,58,23,52,133
+Clay,Brazil 3,U.S. House,8,LIB,James D Rodenberger,11,4,11,26
+Clay,Brazil 3,U.S. House,8,,Write-In,0,0,0,0
+Clay,Brazil 3,State Representative,42,REP,Alan Morrison,217,62,141,420
+Clay,Brazil 3,State Representative,42,DEM,Amy Burke Adams,90,29,65,184
+Clay,Brazil 4,Registered Voters,,,,,,,794
+Clay,Brazil 4,Ballots Cast,,,,191,45,226,462
+Clay,Brazil 4,President,,REP,Donald J Trump,153,18,182,353
+Clay,Brazil 4,President,,DEM,Joseph R Biden,31,26,39,96
+Clay,Brazil 4,President,,LIB,Jo Jorgensen,4,1,5,10
+Clay,Brazil 4,President,,,Write-In,1,0,0,1
+Clay,Brazil 4,Governor,,REP,Eric Holcomb,107,18,159,284
+Clay,Brazil 4,Governor,,DEM,Woodrow (Woody) Myers,21,21,27,69
+Clay,Brazil 4,Governor,,LIB,Donald G Rainwater II,58,4,37,99
+Clay,Brazil 4,Attorney General,,REP,Todd Rokita,139,16,176,331
+Clay,Brazil 4,Attorney General,,DEM,Jonathan Weinzapfel,40,27,44,111
+Clay,Brazil 4,U.S. House,8,REP,Larry D Bucshon,141,17,181,339
+Clay,Brazil 4,U.S. House,8,DEM,E Thomasina Marsili,23,23,34,80
+Clay,Brazil 4,U.S. House,8,LIB,James D Rodenberger,20,4,9,33
+Clay,Brazil 4,U.S. House,8,,Write-In,0,0,0,0
+Clay,Brazil 4,State Representative,42,REP,Alan Morrison,136,15,173,324
+Clay,Brazil 4,State Representative,42,DEM,Amy Burke Adams,46,27,52,125
+Clay,Brazil 5,Registered Voters,,,,,,,645
+Clay,Brazil 5,Ballots Cast,,,,173,35,257,465
+Clay,Brazil 5,President,,REP,Donald J Trump,149,18,185,352
+Clay,Brazil 5,President,,DEM,Joseph R Biden,21,17,67,105
+Clay,Brazil 5,President,,LIB,Jo Jorgensen,1,0,3,4
+Clay,Brazil 5,President,,,Write-In,1,0,0,1
+Clay,Brazil 5,Governor,,REP,Eric Holcomb,117,25,185,327
+Clay,Brazil 5,Governor,,DEM,Woodrow (Woody) Myers,11,8,37,56
+Clay,Brazil 5,Governor,,LIB,Donald G Rainwater II,42,1,29,72
+Clay,Brazil 5,Attorney General,,REP,Todd Rokita,138,22,179,339
+Clay,Brazil 5,Attorney General,,DEM,Jonathan Weinzapfel,27,13,56,96
+Clay,Brazil 5,U.S. House,8,REP,Larry D Bucshon,146,17,186,349
+Clay,Brazil 5,U.S. House,8,DEM,E Thomasina Marsili,20,15,56,91
+Clay,Brazil 5,U.S. House,8,LIB,James D Rodenberger,1,1,8,10
+Clay,Brazil 5,U.S. House,8,,Write-In,0,0,0,0
+Clay,Brazil 5,State Representative,42,REP,Alan Morrison,136,17,167,320
+Clay,Brazil 5,State Representative,42,DEM,Amy Burke Adams,30,17,79,126
+Clay,Brazil 6,Registered Voters,,,,,,,558
+Clay,Brazil 6,Ballots Cast,,,,143,25,119,287
+Clay,Brazil 6,President,,REP,Donald J Trump,117,12,83,212
+Clay,Brazil 6,President,,DEM,Joseph R Biden,22,13,35,70
+Clay,Brazil 6,President,,LIB,Jo Jorgensen,3,0,0,3
+Clay,Brazil 6,President,,,Write-In,1,0,0,1
+Clay,Brazil 6,Governor,,REP,Eric Holcomb,96,13,83,192
+Clay,Brazil 6,Governor,,DEM,Woodrow (Woody) Myers,13,11,20,44
+Clay,Brazil 6,Governor,,LIB,Donald G Rainwater II,29,0,16,45
+Clay,Brazil 6,Attorney General,,REP,Todd Rokita,105,12,86,203
+Clay,Brazil 6,Attorney General,,DEM,Jonathan Weinzapfel,28,11,30,69
+Clay,Brazil 6,U.S. House,8,REP,Larry D Bucshon,113,9,88,210
+Clay,Brazil 6,U.S. House,8,DEM,E Thomasina Marsili,16,13,25,54
+Clay,Brazil 6,U.S. House,8,LIB,James D Rodenberger,8,1,4,13
+Clay,Brazil 6,U.S. House,8,,Write-In,0,0,0,0
+Clay,Brazil 6,State Representative,42,REP,Alan Morrison,103,10,81,194
+Clay,Brazil 6,State Representative,42,DEM,Amy Burke Adams,32,13,36,81
+Clay,Cass,Registered Voters,,,,,,,224
+Clay,Cass,Ballots Cast,,,,63,14,71,148
+Clay,Cass,President,,REP,Donald J Trump,51,8,56,115
+Clay,Cass,President,,DEM,Joseph R Biden,9,6,14,29
+Clay,Cass,President,,LIB,Jo Jorgensen,1,0,1,2
+Clay,Cass,President,,,Write-In,0,0,0,0
+Clay,Cass,Governor,,REP,Eric Holcomb,33,9,49,91
+Clay,Cass,Governor,,DEM,Woodrow (Woody) Myers,6,5,8,19
+Clay,Cass,Governor,,LIB,Donald G Rainwater II,24,0,12,36
+Clay,Cass,Attorney General,,REP,Todd Rokita,43,8,48,99
+Clay,Cass,Attorney General,,DEM,Jonathan Weinzapfel,12,6,16,34
+Clay,Cass,U.S. House,8,REP,Larry D Bucshon,46,5,54,105
+Clay,Cass,U.S. House,8,DEM,E Thomasina Marsili,8,6,11,25
+Clay,Cass,U.S. House,8,LIB,James D Rodenberger,4,2,3,9
+Clay,Cass,U.S. House,8,,Write-In,0,0,0,0
+Clay,Cass,State Representative,44,REP,Beau Baird,51,9,62,122
+Clay,Dick Johnson,Registered Voters,,,,,,,1041
+Clay,Dick Johnson,Ballots Cast,,,,297,74,335,706
+Clay,Dick Johnson,President,,REP,Donald J Trump,245,29,270,544
+Clay,Dick Johnson,President,,DEM,Joseph R Biden,46,44,52,142
+Clay,Dick Johnson,President,,LIB,Jo Jorgensen,5,0,8,13
+Clay,Dick Johnson,President,,,Write-In,0,0,0,0
+Clay,Dick Johnson,Governor,,REP,Eric Holcomb,187,50,241,478
+Clay,Dick Johnson,Governor,,DEM,Woodrow (Woody) Myers,26,22,38,86
+Clay,Dick Johnson,Governor,,LIB,Donald G Rainwater II,81,1,53,135
+Clay,Dick Johnson,Attorney General,,REP,Todd Rokita,218,36,261,515
+Clay,Dick Johnson,Attorney General,,DEM,Jonathan Weinzapfel,62,35,61,158
+Clay,Dick Johnson,U.S. House,8,REP,Larry D Bucshon,235,38,269,542
+Clay,Dick Johnson,U.S. House,8,DEM,E Thomasina Marsili,40,34,53,127
+Clay,Dick Johnson,U.S. House,8,LIB,James D Rodenberger,10,2,6,18
+Clay,Dick Johnson,U.S. House,8,,Write-In,0,0,0,0
+Clay,Dick Johnson,State Representative,42,REP,Alan Morrison,215,30,259,504
+Clay,Dick Johnson,State Representative,42,DEM,Amy Burke Adams,67,39,70,176
+Clay,Harrison 1,Registered Voters,,,,,,,683
+Clay,Harrison 1,Ballots Cast,,,,337,34,104,475
+Clay,Harrison 1,President,,REP,Donald J Trump,279,21,80,380
+Clay,Harrison 1,President,,DEM,Joseph R Biden,47,13,22,82
+Clay,Harrison 1,President,,LIB,Jo Jorgensen,5,0,1,6
+Clay,Harrison 1,President,,,Write-In,0,0,0,0
+Clay,Harrison 1,Governor,,REP,Eric Holcomb,224,25,73,322
+Clay,Harrison 1,Governor,,DEM,Woodrow (Woody) Myers,27,8,18,53
+Clay,Harrison 1,Governor,,LIB,Donald G Rainwater II,76,0,11,87
+Clay,Harrison 1,Attorney General,,REP,Todd Rokita,242,26,67,335
+Clay,Harrison 1,Attorney General,,DEM,Jonathan Weinzapfel,67,7,29,103
+Clay,Harrison 1,U.S. House,8,REP,Larry D Bucshon,258,22,74,354
+Clay,Harrison 1,U.S. House,8,DEM,E Thomasina Marsili,46,12,19,77
+Clay,Harrison 1,U.S. House,8,LIB,James D Rodenberger,16,0,4,20
+Clay,Harrison 1,U.S. House,8,,Write-In,0,0,0,0
+Clay,Harrison 1,State Representative,46,REP,Bob Heaton,285,30,82,397
+Clay,Harrison 2,Registered Voters,,,,,,,795
+Clay,Harrison 2,Ballots Cast,,,,377,55,171,603
+Clay,Harrison 2,President,,REP,Donald J Trump,324,41,144,509
+Clay,Harrison 2,President,,DEM,Joseph R Biden,41,11,23,75
+Clay,Harrison 2,President,,LIB,Jo Jorgensen,6,3,2,11
+Clay,Harrison 2,President,,,Write-In,1,0,1,2
+Clay,Harrison 2,Governor,,REP,Eric Holcomb,267,42,132,441
+Clay,Harrison 2,Governor,,DEM,Woodrow (Woody) Myers,27,10,16,53
+Clay,Harrison 2,Governor,,LIB,Donald G Rainwater II,75,2,23,100
+Clay,Harrison 2,Attorney General,,REP,Todd Rokita,289,41,138,468
+Clay,Harrison 2,Attorney General,,DEM,Jonathan Weinzapfel,55,13,27,95
+Clay,Harrison 2,U.S. House,8,REP,Larry D Bucshon,312,37,146,495
+Clay,Harrison 2,U.S. House,8,DEM,E Thomasina Marsili,35,16,24,75
+Clay,Harrison 2,U.S. House,8,LIB,James D Rodenberger,17,1,0,18
+Clay,Harrison 2,U.S. House,8,,Write-In,0,0,0,0
+Clay,Harrison 2,State Representative,46,REP,Bob Heaton,325,41,157,523
+Clay,Jackson 1,Registered Voters,,,,,,,700
+Clay,Jackson 1,Ballots Cast,,,,198,46,250,494
+Clay,Jackson 1,President,,REP,Donald J Trump,159,24,202,385
+Clay,Jackson 1,President,,DEM,Joseph R Biden,30,19,43,92
+Clay,Jackson 1,President,,LIB,Jo Jorgensen,7,2,3,12
+Clay,Jackson 1,President,,,Write-In,1,0,0,1
+Clay,Jackson 1,Governor,,REP,Eric Holcomb,121,28,176,325
+Clay,Jackson 1,Governor,,DEM,Woodrow (Woody) Myers,20,12,33,65
+Clay,Jackson 1,Governor,,LIB,Donald G Rainwater II,50,4,40,94
+Clay,Jackson 1,Attorney General,,REP,Todd Rokita,144,27,193,364
+Clay,Jackson 1,Attorney General,,DEM,Jonathan Weinzapfel,40,19,44,103
+Clay,Jackson 1,U.S. House,8,REP,Larry D Bucshon,157,27,200,384
+Clay,Jackson 1,U.S. House,8,DEM,E Thomasina Marsili,25,16,38,79
+Clay,Jackson 1,U.S. House,8,LIB,James D Rodenberger,6,2,6,14
+Clay,Jackson 1,U.S. House,8,,Write-In,0,0,0,0
+Clay,Jackson 1,State Representative,44,REP,Beau Baird,165,41,205,411
+Clay,Jackson 2,Registered Voters,,,,,,,1216
+Clay,Jackson 2,Ballots Cast,,,,313,104,456,873
+Clay,Jackson 2,President,,REP,Donald J Trump,277,51,348,676
+Clay,Jackson 2,President,,DEM,Joseph R Biden,30,48,104,182
+Clay,Jackson 2,President,,LIB,Jo Jorgensen,5,5,2,12
+Clay,Jackson 2,President,,,Write-In,1,0,0,1
+Clay,Jackson 2,Governor,,REP,Eric Holcomb,203,62,323,588
+Clay,Jackson 2,Governor,,DEM,Woodrow (Woody) Myers,21,37,66,124
+Clay,Jackson 2,Governor,,LIB,Donald G Rainwater II,83,3,65,151
+Clay,Jackson 2,Attorney General,,REP,Todd Rokita,252,55,341,648
+Clay,Jackson 2,Attorney General,,DEM,Jonathan Weinzapfel,47,46,96,189
+Clay,Jackson 2,U.S. House,8,REP,Larry D Bucshon,269,52,351,672
+Clay,Jackson 2,U.S. House,8,DEM,E Thomasina Marsili,31,43,86,160
+Clay,Jackson 2,U.S. House,8,LIB,James D Rodenberger,9,3,10,22
+Clay,Jackson 2,U.S. House,8,,Write-In,0,0,0,0
+Clay,Jackson 2,State Representative,44,REP,Beau Baird,280,66,378,724
+Clay,Jackson 3,Registered Voters,,,,,,,357
+Clay,Jackson 3,Ballots Cast,,,,90,45,141,276
+Clay,Jackson 3,President,,REP,Donald J Trump,71,12,107,190
+Clay,Jackson 3,President,,DEM,Joseph R Biden,18,31,30,79
+Clay,Jackson 3,President,,LIB,Jo Jorgensen,0,0,3,3
+Clay,Jackson 3,President,,,Write-In,0,0,0,0
+Clay,Jackson 3,Governor,,REP,Eric Holcomb,56,23,111,190
+Clay,Jackson 3,Governor,,DEM,Woodrow (Woody) Myers,13,22,20,55
+Clay,Jackson 3,Governor,,LIB,Donald G Rainwater II,21,0,10,31
+Clay,Jackson 3,Attorney General,,REP,Todd Rokita,66,17,109,192
+Clay,Jackson 3,Attorney General,,DEM,Jonathan Weinzapfel,21,26,27,74
+Clay,Jackson 3,U.S. House,8,REP,Larry D Bucshon,69,18,109,196
+Clay,Jackson 3,U.S. House,8,DEM,E Thomasina Marsili,15,22,30,67
+Clay,Jackson 3,U.S. House,8,LIB,James D Rodenberger,3,1,0,4
+Clay,Jackson 3,U.S. House,8,,Write-In,0,0,0,0
+Clay,Jackson 3,State Representative,44,REP,Beau Baird,77,22,116,215
+Clay,Lewis,Registered Voters,,,,,,,911
+Clay,Lewis,Ballots Cast,,,,538,51,69,658
+Clay,Lewis,President,,REP,Donald J Trump,445,31,49,525
+Clay,Lewis,President,,DEM,Joseph R Biden,85,20,18,123
+Clay,Lewis,President,,LIB,Jo Jorgensen,4,0,2,6
+Clay,Lewis,President,,,Write-In,0,0,0,0
+Clay,Lewis,Governor,,REP,Eric Holcomb,358,32,44,434
+Clay,Lewis,Governor,,DEM,Woodrow (Woody) Myers,50,16,16,82
+Clay,Lewis,Governor,,LIB,Donald G Rainwater II,121,3,7,131
+Clay,Lewis,Attorney General,,REP,Todd Rokita,393,30,49,472
+Clay,Lewis,Attorney General,,DEM,Jonathan Weinzapfel,110,20,18,148
+Clay,Lewis,U.S. House,8,REP,Larry D Bucshon,437,33,51,521
+Clay,Lewis,U.S. House,8,DEM,E Thomasina Marsili,68,18,17,103
+Clay,Lewis,U.S. House,8,LIB,James D Rodenberger,15,0,1,16
+Clay,Lewis,U.S. House,8,,Write-In,0,0,0,0
+Clay,Lewis,State Representative,46,REP,Bob Heaton,444,34,52,530
+Clay,Perry,Registered Voters,,,,,,,651
+Clay,Perry,Ballots Cast,,,,118,58,330,506
+Clay,Perry,President,,REP,Donald J Trump,108,28,283,419
+Clay,Perry,President,,DEM,Joseph R Biden,9,29,38,76
+Clay,Perry,President,,LIB,Jo Jorgensen,1,1,2,4
+Clay,Perry,President,,,Write-In,0,0,1,1
+Clay,Perry,Governor,,REP,Eric Holcomb,86,31,256,373
+Clay,Perry,Governor,,DEM,Woodrow (Woody) Myers,4,24,24,52
+Clay,Perry,Governor,,LIB,Donald G Rainwater II,26,0,39,65
+Clay,Perry,Attorney General,,REP,Todd Rokita,101,27,271,399
+Clay,Perry,Attorney General,,DEM,Jonathan Weinzapfel,10,26,39,75
+Clay,Perry,U.S. House,8,REP,Larry D Bucshon,105,26,278,409
+Clay,Perry,U.S. House,8,DEM,E Thomasina Marsili,7,30,31,68
+Clay,Perry,U.S. House,8,LIB,James D Rodenberger,0,1,8,9
+Clay,Perry,U.S. House,8,,Write-In,0,0,0,0
+Clay,Perry,State Representative,46,REP,Bob Heaton,106,32,284,422
+Clay,Posey 1,Registered Voters,,,,,,,1116
+Clay,Posey 1,Ballots Cast,,,,285,91,395,771
+Clay,Posey 1,President,,REP,Donald J Trump,234,44,293,571
+Clay,Posey 1,President,,DEM,Joseph R Biden,38,44,98,180
+Clay,Posey 1,President,,LIB,Jo Jorgensen,12,2,3,17
+Clay,Posey 1,President,,,Write-In,0,0,0,0
+Clay,Posey 1,Governor,,REP,Eric Holcomb,191,54,291,536
+Clay,Posey 1,Governor,,DEM,Woodrow (Woody) Myers,23,35,71,129
+Clay,Posey 1,Governor,,LIB,Donald G Rainwater II,71,1,31,103
+Clay,Posey 1,Attorney General,,REP,Todd Rokita,230,47,295,572
+Clay,Posey 1,Attorney General,,DEM,Jonathan Weinzapfel,41,43,90,174
+Clay,Posey 1,U.S. House,8,REP,Larry D Bucshon,237,46,303,586
+Clay,Posey 1,U.S. House,8,DEM,E Thomasina Marsili,32,42,83,157
+Clay,Posey 1,U.S. House,8,LIB,James D Rodenberger,13,0,5,18
+Clay,Posey 1,U.S. House,8,,Write-In,0,0,1,1
+Clay,Posey 1,State Representative,42,REP,Alan Morrison,224,41,289,554
+Clay,Posey 1,State Representative,42,DEM,Amy Burke Adams,55,48,104,207
+Clay,Posey 2,Registered Voters,,,,,,,616
+Clay,Posey 2,Ballots Cast,,,,180,34,178,392
+Clay,Posey 2,President,,REP,Donald J Trump,152,22,135,309
+Clay,Posey 2,President,,DEM,Joseph R Biden,23,11,39,73
+Clay,Posey 2,President,,LIB,Jo Jorgensen,3,1,3,7
+Clay,Posey 2,President,,,Write-In,2,0,0,2
+Clay,Posey 2,Governor,,REP,Eric Holcomb,120,24,114,258
+Clay,Posey 2,Governor,,DEM,Woodrow (Woody) Myers,13,8,27,48
+Clay,Posey 2,Governor,,LIB,Donald G Rainwater II,47,1,32,80
+Clay,Posey 2,Attorney General,,REP,Todd Rokita,142,22,130,294
+Clay,Posey 2,Attorney General,,DEM,Jonathan Weinzapfel,27,12,37,76
+Clay,Posey 2,U.S. House,8,REP,Larry D Bucshon,150,23,131,304
+Clay,Posey 2,U.S. House,8,DEM,E Thomasina Marsili,20,10,37,67
+Clay,Posey 2,U.S. House,8,LIB,James D Rodenberger,6,1,4,11
+Clay,Posey 2,U.S. House,8,,Write-In,0,0,0,0
+Clay,Posey 2,State Representative,42,REP,Alan Morrison,134,22,126,282
+Clay,Posey 2,State Representative,42,DEM,Amy Burke Adams,41,12,48,101
+Clay,Posey 3,Registered Voters,,,,,,,1278
+Clay,Posey 3,Ballots Cast,,,,346,85,456,887
+Clay,Posey 3,President,,REP,Donald J Trump,281,28,339,648
+Clay,Posey 3,President,,DEM,Joseph R Biden,43,50,101,194
+Clay,Posey 3,President,,LIB,Jo Jorgensen,18,1,5,24
+Clay,Posey 3,President,,,Write-In,1,0,2,3
+Clay,Posey 3,Governor,,REP,Eric Holcomb,229,46,309,584
+Clay,Posey 3,Governor,,DEM,Woodrow (Woody) Myers,25,31,76,132
+Clay,Posey 3,Governor,,LIB,Donald G Rainwater II,88,1,65,154
+Clay,Posey 3,Attorney General,,REP,Todd Rokita,258,33,330,621
+Clay,Posey 3,Attorney General,,DEM,Jonathan Weinzapfel,62,46,103,211
+Clay,Posey 3,U.S. House,8,REP,Larry D Bucshon,274,38,334,646
+Clay,Posey 3,U.S. House,8,DEM,E Thomasina Marsili,43,40,91,174
+Clay,Posey 3,U.S. House,8,LIB,James D Rodenberger,15,1,11,27
+Clay,Posey 3,U.S. House,8,,Write-In,0,0,0,0
+Clay,Posey 3,State Representative,42,REP,Alan Morrison,264,31,313,608
+Clay,Posey 3,State Representative,42,DEM,Amy Burke Adams,75,46,124,245
+Clay,Sugar Ridge,Registered Voters,,,,,,,694
+Clay,Sugar Ridge,Ballots Cast,,,,286,35,185,506
+Clay,Sugar Ridge,President,,REP,Donald J Trump,247,11,139,397
+Clay,Sugar Ridge,President,,DEM,Joseph R Biden,32,24,45,101
+Clay,Sugar Ridge,President,,LIB,Jo Jorgensen,5,0,0,5
+Clay,Sugar Ridge,President,,,Write-In,0,0,0,0
+Clay,Sugar Ridge,Governor,,REP,Eric Holcomb,199,17,130,346
+Clay,Sugar Ridge,Governor,,DEM,Woodrow (Woody) Myers,25,18,32,75
+Clay,Sugar Ridge,Governor,,LIB,Donald G Rainwater II,57,0,21,78
+Clay,Sugar Ridge,Attorney General,,REP,Todd Rokita,227,16,127,370
+Clay,Sugar Ridge,Attorney General,,DEM,Jonathan Weinzapfel,47,19,45,111
+Clay,Sugar Ridge,U.S. House,8,REP,Larry D Bucshon,239,17,137,393
+Clay,Sugar Ridge,U.S. House,8,DEM,E Thomasina Marsili,30,15,38,83
+Clay,Sugar Ridge,U.S. House,8,LIB,James D Rodenberger,7,1,2,10
+Clay,Sugar Ridge,U.S. House,8,,Write-In,0,0,0,0
+Clay,Sugar Ridge,State Representative,46,REP,Bob Heaton,251,19,153,423
+Clay,Van Buren 1,Registered Voters,,,,,,,501
+Clay,Van Buren 1,Ballots Cast,,,,135,34,133,302
+Clay,Van Buren 1,President,,REP,Donald J Trump,110,17,112,239
+Clay,Van Buren 1,President,,DEM,Joseph R Biden,21,15,18,54
+Clay,Van Buren 1,President,,LIB,Jo Jorgensen,4,0,3,7
+Clay,Van Buren 1,President,,,Write-In,0,2,0,2
+Clay,Van Buren 1,Governor,,REP,Eric Holcomb,86,20,104,210
+Clay,Van Buren 1,Governor,,DEM,Woodrow (Woody) Myers,10,12,14,36
+Clay,Van Buren 1,Governor,,LIB,Donald G Rainwater II,36,2,15,53
+Clay,Van Buren 1,Attorney General,,REP,Todd Rokita,102,19,107,228
+Clay,Van Buren 1,Attorney General,,DEM,Jonathan Weinzapfel,27,14,22,63
+Clay,Van Buren 1,U.S. House,8,REP,Larry D Bucshon,108,20,112,240
+Clay,Van Buren 1,U.S. House,8,DEM,E Thomasina Marsili,16,13,18,47
+Clay,Van Buren 1,U.S. House,8,LIB,James D Rodenberger,7,0,2,9
+Clay,Van Buren 1,U.S. House,8,,Write-In,0,0,0,0
+Clay,Van Buren 1,State Representative,44,REP,Alan Morrison,117,17,120,254
+Clay,Van Buren 2,Registered Voters,,,,,,,720
+Clay,Van Buren 2,Ballots Cast,,,,198,41,207,446
+Clay,Van Buren 2,President,,REP,Donald J Trump,155,23,151,329
+Clay,Van Buren 2,President,,DEM,Joseph R Biden,35,17,49,101
+Clay,Van Buren 2,President,,LIB,Jo Jorgensen,4,0,6,10
+Clay,Van Buren 2,President,,,Write-In,0,0,0,0
+Clay,Van Buren 2,Governor,,REP,Eric Holcomb,106,23,130,259
+Clay,Van Buren 2,Governor,,DEM,Woodrow (Woody) Myers,19,14,39,72
+Clay,Van Buren 2,Governor,,LIB,Donald G Rainwater II,68,1,36,105
+Clay,Van Buren 2,Attorney General,,REP,Todd Rokita,143,25,144,312
+Clay,Van Buren 2,Attorney General,,DEM,Jonathan Weinzapfel,45,14,51,110
+Clay,Van Buren 2,U.S. House,8,REP,Larry D Bucshon,154,22,155,331
+Clay,Van Buren 2,U.S. House,8,DEM,E Thomasina Marsili,28,16,43,87
+Clay,Van Buren 2,U.S. House,8,LIB,James D Rodenberger,9,1,4,14
+Clay,Van Buren 2,U.S. House,8,,Write-In,0,0,0,0
+Clay,Van Buren 2,State Representative,42,REP,Alan Morrison,137,21,147,305
+Clay,Van Buren 2,State Representative,42,DEM,Amy Burke Adams,53,18,56,127
+Clay,Van Buren 3,Registered Voters,,,,,,,1077
+Clay,Van Buren 3,Ballots Cast,,,,368,75,312,755
+Clay,Van Buren 3,President,,REP,Donald J Trump,321,38,234,593
+Clay,Van Buren 3,President,,DEM,Joseph R Biden,42,37,73,152
+Clay,Van Buren 3,President,,LIB,Jo Jorgensen,3,0,2,5
+Clay,Van Buren 3,President,,,Write-In,0,0,0,0
+Clay,Van Buren 3,Governor,,REP,Eric Holcomb,221,39,209,469
+Clay,Van Buren 3,Governor,,DEM,Woodrow (Woody) Myers,31,28,52,111
+Clay,Van Buren 3,Governor,,LIB,Donald G Rainwater II,109,8,47,164
+Clay,Van Buren 3,Attorney General,,REP,Todd Rokita,282,40,227,549
+Clay,Van Buren 3,Attorney General,,DEM,Jonathan Weinzapfel,67,35,71,173
+Clay,Van Buren 3,U.S. House,8,REP,Larry D Bucshon,308,38,239,585
+Clay,Van Buren 3,U.S. House,8,DEM,E Thomasina Marsili,42,32,54,128
+Clay,Van Buren 3,U.S. House,8,LIB,James D Rodenberger,7,4,12,23
+Clay,Van Buren 3,U.S. House,8,,Write-In,0,0,0,0
+Clay,Van Buren 3,State Representative,44,REP,Beau Baird,323,45,249,617
+Clay,Washington,Registered Voters,,,,,,,590
+Clay,Washington,Ballots Cast,,,,136,31,269,436
+Clay,Washington,President,,REP,Donald J Trump,114,16,218,348
+Clay,Washington,President,,DEM,Joseph R Biden,18,12,45,75
+Clay,Washington,President,,LIB,Jo Jorgensen,4,2,4,10
+Clay,Washington,President,,,Write-In,0,0,0,0
+Clay,Washington,Governor,,REP,Eric Holcomb,97,20,195,312
+Clay,Washington,Governor,,DEM,Woodrow (Woody) Myers,14,8,35,57
+Clay,Washington,Governor,,LIB,Donald G Rainwater II,24,3,36,63
+Clay,Washington,Attorney General,,REP,Todd Rokita,106,20,212,338
+Clay,Washington,Attorney General,,DEM,Jonathan Weinzapfel,17,9,44,70
+Clay,Washington,U.S. House,8,REP,Larry D Bucshon,108,20,219,347
+Clay,Washington,U.S. House,8,DEM,E Thomasina Marsili,17,8,44,69
+Clay,Washington,U.S. House,8,LIB,James D Rodenberger,8,3,3,14
+Clay,Washington,U.S. House,8,,Write-In,0,0,0,0
+Clay,Washington,State Representative,46,REP,Bob Heaton,120,21,227,368
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,

@@ -1,0 +1,579 @@
+county,precinct,office,district,party,candidate,election_day,absentee,early_voting,votes
+Daviess,BARR 1,Registered Voters,,,,,,,1202
+Daviess,BARR 1,Ballots Cast,,,,382,93,436,911
+Daviess,BARR 1,President,,REP,Donald J Trump,342,54,377,773
+Daviess,BARR 1,President,,DEM,Joseph R Biden,31,37,51,119
+Daviess,BARR 1,President,,LIB,Jo Jorgensen,5,1,3,9
+Daviess,BARR 1,President,,,Write-In,1,1,0,2
+Daviess,BARR 1,Governor,,REP,Eric Holcomb,259,66,318,643
+Daviess,BARR 1,Governor,,DEM,Woodrow (Woody) Myers,20,22,34,76
+Daviess,BARR 1,Governor,,LIB,Donald G Rainwater II,91,2,79,172
+Daviess,BARR 1,Attorney General,,REP,Todd Rokita,311,50,350,711
+Daviess,BARR 1,Attorney General,,DEM,Jonathan Weinzapfel,38,41,63,142
+Daviess,BARR 1,U.S. House,8,REP,Larry d Bucshon,346,61,378,785
+Daviess,BARR 1,U.S. House,8,DEM,E. Thomasina Marsili,18,27,44,89
+Daviess,BARR 1,U.S. House,8,LIB,James D. Rodenberger,6,3,8,17
+Daviess,BARR 1,U.S. House,9,,Write-In,0,0,0,0
+Daviess,BARR 1,State Representative,63,REP,Shane M Lindauer,333,54,371,758
+Daviess,BARR 1,State Representative,63,DEM,Teresa Kendall,30,37,54,121
+Daviess,BARR 2,Registered Voters,,,,,,,933
+Daviess,BARR 2,Ballots Cast,,,,391,77,238,706
+Daviess,BARR 2,President,,REP,Donald J Trump,352,53,219,624
+Daviess,BARR 2,President,,DEM,Joseph R Biden,25,23,17,65
+Daviess,BARR 2,President,,LIB,Jo Jorgensen,7,1,0,8
+Daviess,BARR 2,President,,,Write-In,0,0,0,0
+Daviess,BARR 2,Governor,,REP,Eric Holcomb,229,53,167,449
+Daviess,BARR 2,Governor,,DEM,Woodrow (Woody) Myers,19,19,16,54
+Daviess,BARR 2,Governor,,LIB,Donald G Rainwater II,133,3,47,183
+Daviess,BARR 2,Attorney General,,REP,Todd Rokita,323,52,210,585
+Daviess,BARR 2,Attorney General,,DEM,Jonathan Weinzapfel,35,23,16,74
+Daviess,BARR 2,U.S. House,8,REP,Larry d Bucshon,339,52,214,605
+Daviess,BARR 2,U.S. House,8,DEM,E. Thomasina Marsili,22,17,14,53
+Daviess,BARR 2,U.S. House,8,LIB,James D. Rodenberger,8,3,3,14
+Daviess,BARR 2,U.S. House,9,,Write-In,0,0,0,0
+Daviess,BARR 2,State Representative,63,REP,Shane M Lindauer,335,52,215,602
+Daviess,BARR 2,State Representative,63,DEM,Teresa Kendall,29,18,16,63
+Daviess,BOGARD,Registered Voters,,,,,,,307
+Daviess,BOGARD,Ballots Cast,,,,125,28,48,201
+Daviess,BOGARD,President,,REP,Donald J Trump,116,21,45,182
+Daviess,BOGARD,President,,DEM,Joseph R Biden,6,6,3,15
+Daviess,BOGARD,President,,LIB,Jo Jorgensen,0,1,0,1
+Daviess,BOGARD,President,,,Write-In,0,0,0,0
+Daviess,BOGARD,Governor,,REP,Eric Holcomb,86,20,35,141
+Daviess,BOGARD,Governor,,DEM,Woodrow (Woody) Myers,6,7,4,17
+Daviess,BOGARD,Governor,,LIB,Donald G Rainwater II,31,0,9,40
+Daviess,BOGARD,Attorney General,,REP,Todd Rokita,113,20,41,174
+Daviess,BOGARD,Attorney General,,DEM,Jonathan Weinzapfel,7,6,5,18
+Daviess,BOGARD,U.S. House,8,REP,Larry d Bucshon,113,22,43,178
+Daviess,BOGARD,U.S. House,8,DEM,E. Thomasina Marsili,6,5,3,14
+Daviess,BOGARD,U.S. House,8,LIB,James D. Rodenberger,1,0,2,3
+Daviess,BOGARD,U.S. House,9,,Write-In,0,0,0,0
+Daviess,BOGARD,State Representative,63,REP,Shane M Lindauer,112,20,41,173
+Daviess,BOGARD,State Representative,63,DEM,Teresa Kendall,7,7,7,21
+Daviess,ELMORE 1,Registered Voters,,,,,,,429
+Daviess,ELMORE 1,Ballots Cast,,,,207,35,75,317
+Daviess,ELMORE 1,President,,REP,Donald J Trump,191,18,63,272
+Daviess,ELMORE 1,President,,DEM,Joseph R Biden,15,13,12,40
+Daviess,ELMORE 1,President,,LIB,Jo Jorgensen,0,1,0,1
+Daviess,ELMORE 1,President,,,Write-In,0,1,0,1
+Daviess,ELMORE 1,Governor,,REP,Eric Holcomb,156,23,59,238
+Daviess,ELMORE 1,Governor,,DEM,Woodrow (Woody) Myers,5,8,6,19
+Daviess,ELMORE 1,Governor,,LIB,Donald G Rainwater II,44,3,10,57
+Daviess,ELMORE 1,Attorney General,,REP,Todd Rokita,173,20,61,254
+Daviess,ELMORE 1,Attorney General,,DEM,Jonathan Weinzapfel,26,14,11,51
+Daviess,ELMORE 1,U.S. House,8,REP,Larry d Bucshon,186,23,62,271
+Daviess,ELMORE 1,U.S. House,8,DEM,E. Thomasina Marsili,12,11,9,32
+Daviess,ELMORE 1,U.S. House,8,LIB,James D. Rodenberger,6,1,2,9
+Daviess,ELMORE 1,U.S. House,9,,Write-In,0,0,0,0
+Daviess,ELMORE 1,State Representative,62,REP,Jeff Ellington,175,22,62,259
+Daviess,ELMORE 1,State Representative,62,DEM,Alyssa Bailey,26,12,11,49
+Daviess,ELMORE 2,Registered Voters,,,,,,,273
+Daviess,ELMORE 2,Ballots Cast,,,,127,13,21,161
+Daviess,ELMORE 2,President,,REP,Donald J Trump,106,9,12,127
+Daviess,ELMORE 2,President,,DEM,Joseph R Biden,13,2,8,23
+Daviess,ELMORE 2,President,,LIB,Jo Jorgensen,5,1,1,7
+Daviess,ELMORE 2,President,,,Write-In,1,1,0,2
+Daviess,ELMORE 2,Governor,,REP,Eric Holcomb,87,11,16,114
+Daviess,ELMORE 2,Governor,,DEM,Woodrow (Woody) Myers,11,1,4,16
+Daviess,ELMORE 2,Governor,,LIB,Donald G Rainwater II,28,1,1,30
+Daviess,ELMORE 2,Attorney General,,REP,Todd Rokita,97,12,15,124
+Daviess,ELMORE 2,Attorney General,,DEM,Jonathan Weinzapfel,24,0,5,29
+Daviess,ELMORE 2,U.S. House,8,REP,Larry d Bucshon,107,10,17,134
+Daviess,ELMORE 2,U.S. House,8,DEM,E. Thomasina Marsili,11,3,4,18
+Daviess,ELMORE 2,U.S. House,8,LIB,James D. Rodenberger,9,0,0,9
+Daviess,ELMORE 2,U.S. House,9,,Write-In,0,0,0,0
+Daviess,ELMORE 2,State Representative,62,REP,Jeff Ellington,103,9,11,123
+Daviess,ELMORE 2,State Representative,62,DEM,Alyssa Bailey,21,4,9,34
+Daviess,HARRISON,Registered Voters,,,,,,,470
+Daviess,HARRISON,Ballots Cast,,,,213,32,133,378
+Daviess,HARRISON,President,,REP,Donald J Trump,191,23,113,327
+Daviess,HARRISON,President,,DEM,Joseph R Biden,17,8,17,42
+Daviess,HARRISON,President,,LIB,Jo Jorgensen,3,0,2,5
+Daviess,HARRISON,President,,,Write-In,2,0,0,2
+Daviess,HARRISON,Governor,,REP,Eric Holcomb,133,25,99,257
+Daviess,HARRISON,Governor,,DEM,Woodrow (Woody) Myers,14,6,12,32
+Daviess,HARRISON,Governor,,LIB,Donald G Rainwater II,62,0,20,82
+Daviess,HARRISON,Attorney General,,REP,Todd Rokita,166,24,97,287
+Daviess,HARRISON,Attorney General,,DEM,Jonathan Weinzapfel,33,8,24,65
+Daviess,HARRISON,U.S. House,8,REP,Larry d Bucshon,182,25,109,316
+Daviess,HARRISON,U.S. House,8,DEM,E. Thomasina Marsili,17,6,15,38
+Daviess,HARRISON,U.S. House,8,LIB,James D. Rodenberger,11,0,3,14
+Daviess,HARRISON,U.S. House,9,,Write-In,0,0,0,0
+Daviess,HARRISON,State Representative,63,REP,Shane M Lindauer,180,24,102,306
+Daviess,HARRISON,State Representative,63,DEM,Teresa Kendall,27,8,24,59
+Daviess,MADISON 1,Registered Voters,,,,,,,270
+Daviess,MADISON 1,Ballots Cast,,,,128,15,56,199
+Daviess,MADISON 1,President,,REP,Donald J Trump,118,10,43,171
+Daviess,MADISON 1,President,,DEM,Joseph R Biden,6,5,11,22
+Daviess,MADISON 1,President,,LIB,Jo Jorgensen,1,0,1,2
+Daviess,MADISON 1,President,,,Write-In,0,0,0,0
+Daviess,MADISON 1,Governor,,REP,Eric Holcomb,103,9,46,158
+Daviess,MADISON 1,Governor,,DEM,Woodrow (Woody) Myers,2,4,2,8
+Daviess,MADISON 1,Governor,,LIB,Donald G Rainwater II,19,1,6,26
+Daviess,MADISON 1,Attorney General,,REP,Todd Rokita,113,9,42,164
+Daviess,MADISON 1,Attorney General,,DEM,Jonathan Weinzapfel,5,4,11,20
+Daviess,MADISON 1,U.S. House,8,REP,Larry d Bucshon,117,9,48,174
+Daviess,MADISON 1,U.S. House,8,DEM,E. Thomasina Marsili,0,3,7,10
+Daviess,MADISON 1,U.S. House,8,LIB,James D. Rodenberger,4,0,0,4
+Daviess,MADISON 1,U.S. House,9,,Write-In,0,0,0,0
+Daviess,MADISON 1,State Representative,63,REP,Shane M Lindauer,114,8,43,165
+Daviess,MADISON 1,State Representative,63,DEM,Teresa Kendall,3,4,11,18
+Daviess,MADISON 2,Registered Voters,,,,,,,555
+Daviess,MADISON 2,Ballots Cast,,,,265,49,123,437
+Daviess,MADISON 2,President,,REP,Donald J Trump,245,37,99,381
+Daviess,MADISON 2,President,,DEM,Joseph R Biden,17,11,23,51
+Daviess,MADISON 2,President,,LIB,Jo Jorgensen,2,0,1,3
+Daviess,MADISON 2,President,,,Write-In,0,0,0,0
+Daviess,MADISON 2,Governor,,REP,Eric Holcomb,197,35,87,319
+Daviess,MADISON 2,Governor,,DEM,Woodrow (Woody) Myers,15,5,16,36
+Daviess,MADISON 2,Governor,,LIB,Donald G Rainwater II,49,3,19,71
+Daviess,MADISON 2,Attorney General,,REP,Todd Rokita,229,37,95,361
+Daviess,MADISON 2,Attorney General,,DEM,Jonathan Weinzapfel,27,10,26,63
+Daviess,MADISON 2,U.S. House,8,REP,Larry d Bucshon,235,40,101,376
+Daviess,MADISON 2,U.S. House,8,DEM,E. Thomasina Marsili,17,7,18,42
+Daviess,MADISON 2,U.S. House,8,LIB,James D. Rodenberger,9,1,2,12
+Daviess,MADISON 2,U.S. House,9,,Write-In,0,0,0,0
+Daviess,MADISON 2,State Representative,62,REP,Jeff Ellington,234,37,100,371
+Daviess,MADISON 2,State Representative,62,DEM,Alyssa Bailey,24,11,21,56
+Daviess,MADISON 3,Registered Voters,,,,,,,907
+Daviess,MADISON 3,Ballots Cast,,,,389,84,165,638
+Daviess,MADISON 3,President,,REP,Donald J Trump,334,51,136,521
+Daviess,MADISON 3,President,,DEM,Joseph R Biden,44,32,28,104
+Daviess,MADISON 3,President,,LIB,Jo Jorgensen,2,1,0,3
+Daviess,MADISON 3,President,,,Write-In,0,0,0,0
+Daviess,MADISON 3,Governor,,REP,Eric Holcomb,268,57,113,438
+Daviess,MADISON 3,Governor,,DEM,Woodrow (Woody) Myers,26,25,25,76
+Daviess,MADISON 3,Governor,,LIB,Donald G Rainwater II,89,0,24,113
+Daviess,MADISON 3,Attorney General,,REP,Todd Rokita,318,50,131,499
+Daviess,MADISON 3,Attorney General,,DEM,Jonathan Weinzapfel,44,31,30,105
+Daviess,MADISON 3,U.S. House,8,REP,Larry d Bucshon,336,51,135,522
+Daviess,MADISON 3,U.S. House,8,DEM,E. Thomasina Marsili,35,28,26,89
+Daviess,MADISON 3,U.S. House,8,LIB,James D. Rodenberger,11,1,2,14
+Daviess,MADISON 3,U.S. House,9,,Write-In,0,0,0,0
+Daviess,MADISON 3,State Representative,62,REP,Jeff Ellington,317,49,135,501
+Daviess,MADISON 3,State Representative,62,DEM,Alyssa Bailey,60,29,29,118
+Daviess,REEVE,Registered Voters,,,,,,,419
+Daviess,REEVE,Ballots Cast,,,,226,28,55,309
+Daviess,REEVE,President,,REP,Donald J Trump,191,21,45,257
+Daviess,REEVE,President,,DEM,Joseph R Biden,26,7,10,43
+Daviess,REEVE,President,,LIB,Jo Jorgensen,4,0,0,4
+Daviess,REEVE,President,,,Write-In,2,0,0,2
+Daviess,REEVE,Governor,,REP,Eric Holcomb,175,19,37,231
+Daviess,REEVE,Governor,,DEM,Woodrow (Woody) Myers,17,7,11,35
+Daviess,REEVE,Governor,,LIB,Donald G Rainwater II,33,2,7,42
+Daviess,REEVE,Attorney General,,REP,Todd Rokita,181,20,42,243
+Daviess,REEVE,Attorney General,,DEM,Jonathan Weinzapfel,41,7,13,61
+Daviess,REEVE,U.S. House,8,REP,Larry d Bucshon,195,21,41,257
+Daviess,REEVE,U.S. House,8,DEM,E. Thomasina Marsili,22,7,11,40
+Daviess,REEVE,U.S. House,8,LIB,James D. Rodenberger,5,0,1,6
+Daviess,REEVE,U.S. House,9,,Write-In,0,0,0,0
+Daviess,REEVE,State Representative,63,REP,Shane M Lindauer,192,21,43,256
+Daviess,REEVE,State Representative,63,DEM,Teresa Kendall,29,7,12,48
+Daviess,STEELE,Registered Voters,,,,,,,618
+Daviess,STEELE,Ballots Cast,,,,291,46,108,445
+Daviess,STEELE,President,,REP,Donald J Trump,258,33,89,380
+Daviess,STEELE,President,,DEM,Joseph R Biden,29,10,17,56
+Daviess,STEELE,President,,LIB,Jo Jorgensen,1,1,1,3
+Daviess,STEELE,President,,,Write-In,2,0,1,3
+Daviess,STEELE,Governor,,REP,Eric Holcomb,206,33,79,318
+Daviess,STEELE,Governor,,DEM,Woodrow (Woody) Myers,22,9,14,45
+Daviess,STEELE,Governor,,LIB,Donald G Rainwater II,60,4,15,79
+Daviess,STEELE,Attorney General,,REP,Todd Rokita,236,35,84,355
+Daviess,STEELE,Attorney General,,DEM,Jonathan Weinzapfel,40,10,18,68
+Daviess,STEELE,U.S. House,8,REP,Larry d Bucshon,249,32,90,371
+Daviess,STEELE,U.S. House,8,DEM,E. Thomasina Marsili,27,10,16,53
+Daviess,STEELE,U.S. House,8,LIB,James D. Rodenberger,5,2,1,8
+Daviess,STEELE,U.S. House,9,,Write-In,0,0,0,0
+Daviess,STEELE,State Representative,45,REP,Bruce Borders,265,36,95,396
+Daviess,STEELE,State Representative,45,DEM,No Candidate Filed,0,0,0,0
+Daviess,VAN BUREN,Registered Voters,,,,,,,477
+Daviess,VAN BUREN,Ballots Cast,,,,205,46,83,334
+Daviess,VAN BUREN,President,,REP,Donald J Trump,195,31,72,298
+Daviess,VAN BUREN,President,,DEM,Joseph R Biden,6,11,11,28
+Daviess,VAN BUREN,President,,LIB,Jo Jorgensen,1,4,0,5
+Daviess,VAN BUREN,President,,,Write-In,0,0,0,0
+Daviess,VAN BUREN,Governor,,REP,Eric Holcomb,145,33,60,238
+Daviess,VAN BUREN,Governor,,DEM,Woodrow (Woody) Myers,4,7,8,19
+Daviess,VAN BUREN,Governor,,LIB,Donald G Rainwater II,49,5,15,69
+Daviess,VAN BUREN,Attorney General,,REP,Todd Rokita,175,30,66,271
+Daviess,VAN BUREN,Attorney General,,DEM,Jonathan Weinzapfel,14,10,12,36
+Daviess,VAN BUREN,U.S. House,8,REP,Larry d Bucshon,183,33,70,286
+Daviess,VAN BUREN,U.S. House,8,DEM,E. Thomasina Marsili,6,8,11,25
+Daviess,VAN BUREN,U.S. House,8,LIB,James D. Rodenberger,3,5,1,9
+Daviess,VAN BUREN,U.S. House,9,,Write-In,0,0,0,0
+Daviess,VAN BUREN,State Representative,63,REP,Shane M Lindauer,182,36,70,288
+Daviess,VAN BUREN,State Representative,63,DEM,Teresa Kendall,9,9,12,30
+Daviess,VEALE,Registered Voters,,,,,,,911
+Daviess,VEALE,Ballots Cast,,,,256,90,368,714
+Daviess,VEALE,President,,REP,Donald J Trump,227,54,314,595
+Daviess,VEALE,President,,DEM,Joseph R Biden,18,33,44,95
+Daviess,VEALE,President,,LIB,Jo Jorgensen,9,1,4,14
+Daviess,VEALE,President,,,Write-In,1,0,1,2
+Daviess,VEALE,Governor,,REP,Eric Holcomb,181,66,287,534
+Daviess,VEALE,Governor,,DEM,Woodrow (Woody) Myers,18,20,35,73
+Daviess,VEALE,Governor,,LIB,Donald G Rainwater II,55,2,39,96
+Daviess,VEALE,Attorney General,,REP,Todd Rokita,208,61,292,561
+Daviess,VEALE,Attorney General,,DEM,Jonathan Weinzapfel,40,29,53,122
+Daviess,VEALE,U.S. House,8,REP,Larry d Bucshon,230,63,306,599
+Daviess,VEALE,U.S. House,8,DEM,E. Thomasina Marsili,19,23,39,81
+Daviess,VEALE,U.S. House,8,LIB,James D. Rodenberger,4,1,11,16
+Daviess,VEALE,U.S. House,9,,Write-In,0,0,0,0
+Daviess,VEALE,State Representative,63,REP,Shane M Lindauer,215,61,296,572
+Daviess,VEALE,State Representative,63,DEM,Teresa Kendall,34,27,55,116
+Daviess,WASHINGTON 1,Registered Voters,,,,,,,573
+Daviess,WASHINGTON 1,Ballots Cast,,,,150,59,216,425
+Daviess,WASHINGTON 1,President,,REP,Donald J Trump,129,29,178,336
+Daviess,WASHINGTON 1,President,,DEM,Joseph R Biden,17,30,30,77
+Daviess,WASHINGTON 1,President,,LIB,Jo Jorgensen,3,0,4,7
+Daviess,WASHINGTON 1,President,,,Write-In,0,0,0,0
+Daviess,WASHINGTON 1,Governor,,REP,Eric Holcomb,111,32,159,302
+Daviess,WASHINGTON 1,Governor,,DEM,Woodrow (Woody) Myers,4,19,20,43
+Daviess,WASHINGTON 1,Governor,,LIB,Donald G Rainwater II,32,4,33,69
+Daviess,WASHINGTON 1,Attorney General,,REP,Todd Rokita,120,28,177,325
+Daviess,WASHINGTON 1,Attorney General,,DEM,Jonathan Weinzapfel,20,25,30,75
+Daviess,WASHINGTON 1,U.S. House,8,REP,Larry d Bucshon,132,31,185,348
+Daviess,WASHINGTON 1,U.S. House,8,DEM,E. Thomasina Marsili,8,22,25,55
+Daviess,WASHINGTON 1,U.S. House,8,LIB,James D. Rodenberger,5,0,2,7
+Daviess,WASHINGTON 1,U.S. House,9,,Write-In,0,0,0,0
+Daviess,WASHINGTON 1,State Representative,63,REP,Shane M Lindauer,128,26,183,337
+Daviess,WASHINGTON 1,State Representative,63,DEM,Teresa Kendall,17,27,27,71
+Daviess,WASHINGTON 2,Registered Voters,,,,,,,521
+Daviess,WASHINGTON 2,Ballots Cast,,,,98,29,231,358
+Daviess,WASHINGTON 2,President,,REP,Donald J Trump,79,13,177,269
+Daviess,WASHINGTON 2,President,,DEM,Joseph R Biden,15,16,48,79
+Daviess,WASHINGTON 2,President,,LIB,Jo Jorgensen,1,0,5,6
+Daviess,WASHINGTON 2,President,,,Write-In,0,0,0,0
+Daviess,WASHINGTON 2,Governor,,REP,Eric Holcomb,65,11,167,243
+Daviess,WASHINGTON 2,Governor,,DEM,Woodrow (Woody) Myers,12,13,29,54
+Daviess,WASHINGTON 2,Governor,,LIB,Donald G Rainwater II,20,5,27,52
+Daviess,WASHINGTON 2,Attorney General,,REP,Todd Rokita,68,10,174,252
+Daviess,WASHINGTON 2,Attorney General,,DEM,Jonathan Weinzapfel,25,17,48,90
+Daviess,WASHINGTON 2,U.S. House,8,REP,Larry d Bucshon,80,12,177,269
+Daviess,WASHINGTON 2,U.S. House,8,DEM,E. Thomasina Marsili,14,12,41,67
+Daviess,WASHINGTON 2,U.S. House,8,LIB,James D. Rodenberger,2,3,6,11
+Daviess,WASHINGTON 2,U.S. House,9,,Write-In,0,0,0,0
+Daviess,WASHINGTON 2,State Representative,63,REP,Shane M Lindauer,80,12,182,274
+Daviess,WASHINGTON 2,State Representative,63,DEM,Teresa Kendall,17,15,40,72
+Daviess,WASHINGTON 3,Registered Voters,,,,,,,782
+Daviess,WASHINGTON 3,Ballots Cast,,,,202,41,269,512
+Daviess,WASHINGTON 3,President,,REP,Donald J Trump,164,19,236,419
+Daviess,WASHINGTON 3,President,,DEM,Joseph R Biden,29,19,29,77
+Daviess,WASHINGTON 3,President,,LIB,Jo Jorgensen,4,1,4,9
+Daviess,WASHINGTON 3,President,,,Write-In,0,0,0,0
+Daviess,WASHINGTON 3,Governor,,REP,Eric Holcomb,137,25,201,363
+Daviess,WASHINGTON 3,Governor,,DEM,Woodrow (Woody) Myers,22,14,23,59
+Daviess,WASHINGTON 3,Governor,,LIB,Donald G Rainwater II,39,0,42,81
+Daviess,WASHINGTON 3,Attorney General,,REP,Todd Rokita,142,18,222,382
+Daviess,WASHINGTON 3,Attorney General,,DEM,Jonathan Weinzapfel,39,21,38,98
+Daviess,WASHINGTON 3,U.S. House,8,REP,Larry d Bucshon,165,23,234,422
+Daviess,WASHINGTON 3,U.S. House,8,DEM,E. Thomasina Marsili,23,15,26,64
+Daviess,WASHINGTON 3,U.S. House,8,LIB,James D. Rodenberger,5,0,3,8
+Daviess,WASHINGTON 3,U.S. House,9,,Write-In,0,0,0,0
+Daviess,WASHINGTON 3,State Representative,63,REP,Shane M Lindauer,147,22,228,397
+Daviess,WASHINGTON 3,State Representative,63,DEM,Teresa Kendall,38,13,32,83
+Daviess,WASHINGTON 4,Registered Voters,,,,,,,973
+Daviess,WASHINGTON 4,Ballots Cast,,,,245,94,405,744
+Daviess,WASHINGTON 4,President,,REP,Donald J Trump,202,47,334,583
+Daviess,WASHINGTON 4,President,,DEM,Joseph R Biden,33,46,56,135
+Daviess,WASHINGTON 4,President,,LIB,Jo Jorgensen,9,1,7,17
+Daviess,WASHINGTON 4,President,,,Write-In,1,0,1,2
+Daviess,WASHINGTON 4,Governor,,REP,Eric Holcomb,167,58,312,537
+Daviess,WASHINGTON 4,Governor,,DEM,Woodrow (Woody) Myers,20,30,37,87
+Daviess,WASHINGTON 4,Governor,,LIB,Donald G Rainwater II,55,2,52,109
+Daviess,WASHINGTON 4,Attorney General,,REP,Todd Rokita,186,49,310,545
+Daviess,WASHINGTON 4,Attorney General,,DEM,Jonathan Weinzapfel,44,40,67,151
+Daviess,WASHINGTON 4,U.S. House,8,REP,Larry d Bucshon,196,55,345,596
+Daviess,WASHINGTON 4,U.S. House,8,DEM,E. Thomasina Marsili,30,33,42,105
+Daviess,WASHINGTON 4,U.S. House,8,LIB,James D. Rodenberger,13,2,7,22
+Daviess,WASHINGTON 4,U.S. House,9,,Write-In,0,0,0,0
+Daviess,WASHINGTON 4,State Representative,63,REP,Shane M Lindauer,187,54,324,565
+Daviess,WASHINGTON 4,State Representative,63,DEM,Teresa Kendall,45,34,64,143
+Daviess,WASHINGTON 5,Registered Voters,,,,,,,740
+Daviess,WASHINGTON 5,Ballots Cast,,,,198,85,325,608
+Daviess,WASHINGTON 5,President,,REP,Donald J Trump,151,40,247,438
+Daviess,WASHINGTON 5,President,,DEM,Joseph R Biden,41,39,73,153
+Daviess,WASHINGTON 5,President,,LIB,Jo Jorgensen,5,1,5,11
+Daviess,WASHINGTON 5,President,,,Write-In,1,0,0,1
+Daviess,WASHINGTON 5,Governor,,REP,Eric Holcomb,141,57,231,429
+Daviess,WASHINGTON 5,Governor,,DEM,Woodrow (Woody) Myers,22,24,51,97
+Daviess,WASHINGTON 5,Governor,,LIB,Donald G Rainwater II,32,3,38,73
+Daviess,WASHINGTON 5,Attorney General,,REP,Todd Rokita,131,41,235,407
+Daviess,WASHINGTON 5,Attorney General,,DEM,Jonathan Weinzapfel,51,38,69,158
+Daviess,WASHINGTON 5,U.S. House,8,REP,Larry d Bucshon,162,53,255,470
+Daviess,WASHINGTON 5,U.S. House,8,DEM,E. Thomasina Marsili,24,25,56,105
+Daviess,WASHINGTON 5,U.S. House,8,LIB,James D. Rodenberger,7,2,5,14
+Daviess,WASHINGTON 5,U.S. House,9,,Write-In,0,0,0,0
+Daviess,WASHINGTON 5,State Representative,63,REP,Shane M Lindauer,152,45,248,445
+Daviess,WASHINGTON 5,State Representative,63,DEM,Teresa Kendall,36,30,63,129
+Daviess,WASHINGTON 6,Registered Voters,,,,,,,713
+Daviess,WASHINGTON 6,Ballots Cast,,,,149,39,203,391
+Daviess,WASHINGTON 6,President,,REP,Donald J Trump,111,22,157,290
+Daviess,WASHINGTON 6,President,,DEM,Joseph R Biden,23,17,40,80
+Daviess,WASHINGTON 6,President,,LIB,Jo Jorgensen,13,0,3,16
+Daviess,WASHINGTON 6,President,,,Write-In,1,0,0,1
+Daviess,WASHINGTON 6,Governor,,REP,Eric Holcomb,101,24,145,270
+Daviess,WASHINGTON 6,Governor,,DEM,Woodrow (Woody) Myers,19,12,31,62
+Daviess,WASHINGTON 6,Governor,,LIB,Donald G Rainwater II,27,1,27,55
+Daviess,WASHINGTON 6,Attorney General,,REP,Todd Rokita,95,24,147,266
+Daviess,WASHINGTON 6,Attorney General,,DEM,Jonathan Weinzapfel,44,12,45,101
+Daviess,WASHINGTON 6,U.S. House,8,REP,Larry d Bucshon,112,24,158,294
+Daviess,WASHINGTON 6,U.S. House,8,DEM,E. Thomasina Marsili,20,11,37,68
+Daviess,WASHINGTON 6,U.S. House,8,LIB,James D. Rodenberger,9,2,4,15
+Daviess,WASHINGTON 6,U.S. House,9,,Write-In,0,0,0,0
+Daviess,WASHINGTON 6,State Representative,63,REP,Shane M Lindauer,110,23,157,290
+Daviess,WASHINGTON 6,State Representative,63,DEM,Teresa Kendall,29,11,43,83
+Daviess,WASHINGTON 7,Registered Voters,,,,,,,424
+Daviess,WASHINGTON 7,Ballots Cast,,,,102,26,116,244
+Daviess,WASHINGTON 7,President,,REP,Donald J Trump,82,9,69,160
+Daviess,WASHINGTON 7,President,,DEM,Joseph R Biden,14,16,43,73
+Daviess,WASHINGTON 7,President,,LIB,Jo Jorgensen,6,0,2,8
+Daviess,WASHINGTON 7,President,,,Write-In,0,0,0,0
+Daviess,WASHINGTON 7,Governor,,REP,Eric Holcomb,64,15,71,150
+Daviess,WASHINGTON 7,Governor,,DEM,Woodrow (Woody) Myers,8,9,35,52
+Daviess,WASHINGTON 7,Governor,,LIB,Donald G Rainwater II,29,0,9,38
+Daviess,WASHINGTON 7,Attorney General,,REP,Todd Rokita,77,12,72,161
+Daviess,WASHINGTON 7,Attorney General,,DEM,Jonathan Weinzapfel,20,12,41,73
+Daviess,WASHINGTON 7,U.S. House,8,REP,Larry d Bucshon,82,14,74,170
+Daviess,WASHINGTON 7,U.S. House,8,DEM,E. Thomasina Marsili,11,12,36,59
+Daviess,WASHINGTON 7,U.S. House,8,LIB,James D. Rodenberger,5,0,2,7
+Daviess,WASHINGTON 7,U.S. House,9,,Write-In,0,0,0,0
+Daviess,WASHINGTON 7,State Representative,63,REP,Shane M Lindauer,78,11,72,161
+Daviess,WASHINGTON 7,State Representative,63,DEM,Teresa Kendall,20,12,41,73
+Daviess,WASHINGTON 8,Registered Voters,,,,,,,591
+Daviess,WASHINGTON 8,Ballots Cast,,,,164,37,180,381
+Daviess,WASHINGTON 8,President,,REP,Donald J Trump,116,14,126,256
+Daviess,WASHINGTON 8,President,,DEM,Joseph R Biden,41,22,52,115
+Daviess,WASHINGTON 8,President,,LIB,Jo Jorgensen,5,1,2,8
+Daviess,WASHINGTON 8,President,,,Write-In,1,0,0,1
+Daviess,WASHINGTON 8,Governor,,REP,Eric Holcomb,99,18,111,228
+Daviess,WASHINGTON 8,Governor,,DEM,Woodrow (Woody) Myers,25,15,46,86
+Daviess,WASHINGTON 8,Governor,,LIB,Donald G Rainwater II,36,3,21,60
+Daviess,WASHINGTON 8,Attorney General,,REP,Todd Rokita,98,12,115,225
+Daviess,WASHINGTON 8,Attorney General,,DEM,Jonathan Weinzapfel,48,22,57,127
+Daviess,WASHINGTON 8,U.S. House,8,REP,Larry d Bucshon,115,15,123,253
+Daviess,WASHINGTON 8,U.S. House,8,DEM,E. Thomasina Marsili,32,20,49,101
+Daviess,WASHINGTON 8,U.S. House,8,LIB,James D. Rodenberger,11,1,5,17
+Daviess,WASHINGTON 8,U.S. House,9,,Write-In,0,0,0,0
+Daviess,WASHINGTON 8,State Representative,63,REP,Shane M Lindauer,121,13,122,256
+Daviess,WASHINGTON 8,State Representative,63,DEM,Teresa Kendall,36,21,53,110
+Daviess,WASHINGTON 9,Registered Voters,,,,,,,767
+Daviess,WASHINGTON 9,Ballots Cast,,,,156,46,152,354
+Daviess,WASHINGTON 9,President,,REP,Donald J Trump,115,20,98,233
+Daviess,WASHINGTON 9,President,,DEM,Joseph R Biden,35,26,51,112
+Daviess,WASHINGTON 9,President,,LIB,Jo Jorgensen,4,0,1,5
+Daviess,WASHINGTON 9,President,,,Write-In,0,0,0,0
+Daviess,WASHINGTON 9,Governor,,REP,Eric Holcomb,92,29,88,209
+Daviess,WASHINGTON 9,Governor,,DEM,Woodrow (Woody) Myers,23,16,44,83
+Daviess,WASHINGTON 9,Governor,,LIB,Donald G Rainwater II,39,1,19,59
+Daviess,WASHINGTON 9,Attorney General,,REP,Todd Rokita,104,20,92,216
+Daviess,WASHINGTON 9,Attorney General,,DEM,Jonathan Weinzapfel,41,26,57,124
+Daviess,WASHINGTON 9,U.S. House,8,REP,Larry d Bucshon,119,23,101,243
+Daviess,WASHINGTON 9,U.S. House,8,DEM,E. Thomasina Marsili,28,21,48,97
+Daviess,WASHINGTON 9,U.S. House,8,LIB,James D. Rodenberger,4,2,2,8
+Daviess,WASHINGTON 9,U.S. House,9,,Write-In,0,0,0,0
+Daviess,WASHINGTON 9,State Representative,63,REP,Shane M Lindauer,108,21,98,227
+Daviess,WASHINGTON 9,State Representative,63,DEM,Teresa Kendall,41,24,53,118
+Daviess,WASHINGTON 10,Registered Voters,,,,,,,574
+Daviess,WASHINGTON 10,Ballots Cast,,,,126,22,82,230
+Daviess,WASHINGTON 10,President,,REP,Donald J Trump,93,13,61,167
+Daviess,WASHINGTON 10,President,,DEM,Joseph R Biden,24,8,21,53
+Daviess,WASHINGTON 10,President,,LIB,Jo Jorgensen,6,1,0,7
+Daviess,WASHINGTON 10,President,,,Write-In,0,0,0,0
+Daviess,WASHINGTON 10,Governor,,REP,Eric Holcomb,78,16,47,141
+Daviess,WASHINGTON 10,Governor,,DEM,Woodrow (Woody) Myers,19,4,17,40
+Daviess,WASHINGTON 10,Governor,,LIB,Donald G Rainwater II,27,2,17,46
+Daviess,WASHINGTON 10,Attorney General,,REP,Todd Rokita,86,8,58,152
+Daviess,WASHINGTON 10,Attorney General,,DEM,Jonathan Weinzapfel,28,12,21,61
+Daviess,WASHINGTON 10,U.S. House,8,REP,Larry d Bucshon,91,12,62,165
+Daviess,WASHINGTON 10,U.S. House,8,DEM,E. Thomasina Marsili,23,7,17,47
+Daviess,WASHINGTON 10,U.S. House,8,LIB,James D. Rodenberger,7,3,0,10
+Daviess,WASHINGTON 10,U.S. House,9,,Write-In,0,0,0,0
+Daviess,WASHINGTON 10,State Representative,63,REP,Shane M Lindauer,90,12,60,162
+Daviess,WASHINGTON 10,State Representative,63,DEM,Teresa Kendall,29,10,19,58
+Daviess,WASHINGTON 11,Registered Voters,,,,,,,545
+Daviess,WASHINGTON 11,Ballots Cast,,,,142,32,131,305
+Daviess,WASHINGTON 11,President,,REP,Donald J Trump,115,17,99,231
+Daviess,WASHINGTON 11,President,,DEM,Joseph R Biden,23,13,28,64
+Daviess,WASHINGTON 11,President,,LIB,Jo Jorgensen,1,0,2,3
+Daviess,WASHINGTON 11,President,,,Write-In,2,0,0,2
+Daviess,WASHINGTON 11,Governor,,REP,Eric Holcomb,91,18,92,201
+Daviess,WASHINGTON 11,Governor,,DEM,Woodrow (Woody) Myers,17,11,22,50
+Daviess,WASHINGTON 11,Governor,,LIB,Donald G Rainwater II,30,2,13,45
+Daviess,WASHINGTON 11,Attorney General,,REP,Todd Rokita,98,17,95,210
+Daviess,WASHINGTON 11,Attorney General,,DEM,Jonathan Weinzapfel,36,15,31,82
+Daviess,WASHINGTON 11,U.S. House,8,REP,Larry d Bucshon,112,19,99,230
+Daviess,WASHINGTON 11,U.S. House,8,DEM,E. Thomasina Marsili,19,12,23,54
+Daviess,WASHINGTON 11,U.S. House,8,LIB,James D. Rodenberger,5,1,6,12
+Daviess,WASHINGTON 11,U.S. House,9,,Write-In,0,0,0,0
+Daviess,WASHINGTON 11,State Representative,63,REP,Shane M Lindauer,108,16,99,223
+Daviess,WASHINGTON 11,State Representative,63,DEM,Teresa Kendall,27,16,30,73
+Daviess,WASHINGTON 12,Registered Voters,,,,,,,470
+Daviess,WASHINGTON 12,Ballots Cast,,,,153,31,71,255
+Daviess,WASHINGTON 12,President,,REP,Donald J Trump,109,21,42,172
+Daviess,WASHINGTON 12,President,,DEM,Joseph R Biden,34,10,27,71
+Daviess,WASHINGTON 12,President,,LIB,Jo Jorgensen,8,0,2,10
+Daviess,WASHINGTON 12,President,,,Write-In,0,0,0,0
+Daviess,WASHINGTON 12,Governor,,REP,Eric Holcomb,96,23,39,158
+Daviess,WASHINGTON 12,Governor,,DEM,Woodrow (Woody) Myers,24,7,20,51
+Daviess,WASHINGTON 12,Governor,,LIB,Donald G Rainwater II,28,1,9,38
+Daviess,WASHINGTON 12,Attorney General,,REP,Todd Rokita,102,20,42,164
+Daviess,WASHINGTON 12,Attorney General,,DEM,Jonathan Weinzapfel,43,10,22,75
+Daviess,WASHINGTON 12,U.S. House,8,REP,Larry d Bucshon,109,22,47,178
+Daviess,WASHINGTON 12,U.S. House,8,DEM,E. Thomasina Marsili,31,8,20,59
+Daviess,WASHINGTON 12,U.S. House,8,LIB,James D. Rodenberger,10,1,3,14
+Daviess,WASHINGTON 12,U.S. House,9,,Write-In,0,0,0,0
+Daviess,WASHINGTON 12,State Representative,63,REP,Shane M Lindauer,110,20,42,172
+Daviess,WASHINGTON 12,State Representative,63,DEM,Teresa Kendall,36,10,25,71
+Daviess,WASHINGTON 13,Registered Voters,,,,,,,919
+Daviess,WASHINGTON 13,Ballots Cast,,,,208,85,225,518
+Daviess,WASHINGTON 13,President,,REP,Donald J Trump,153,40,168,361
+Daviess,WASHINGTON 13,President,,DEM,Joseph R Biden,48,44,51,143
+Daviess,WASHINGTON 13,President,,LIB,Jo Jorgensen,6,0,4,10
+Daviess,WASHINGTON 13,President,,,Write-In,0,0,0,0
+Daviess,WASHINGTON 13,Governor,,REP,Eric Holcomb,128,47,153,328
+Daviess,WASHINGTON 13,Governor,,DEM,Woodrow (Woody) Myers,39,29,37,105
+Daviess,WASHINGTON 13,Governor,,LIB,Donald G Rainwater II,40,5,31,76
+Daviess,WASHINGTON 13,Attorney General,,REP,Todd Rokita,141,40,163,344
+Daviess,WASHINGTON 13,Attorney General,,DEM,Jonathan Weinzapfel,49,41,52,142
+Daviess,WASHINGTON 13,U.S. House,8,REP,Larry d Bucshon,153,43,167,363
+Daviess,WASHINGTON 13,U.S. House,8,DEM,E. Thomasina Marsili,43,38,40,121
+Daviess,WASHINGTON 13,U.S. House,8,LIB,James D. Rodenberger,5,1,11,17
+Daviess,WASHINGTON 13,U.S. House,9,,Write-In,0,0,0,0
+Daviess,WASHINGTON 13,State Representative,63,REP,Shane M Lindauer,148,43,170,361
+Daviess,WASHINGTON 13,State Representative,63,DEM,Teresa Kendall,51,39,50,140
+Daviess,WASHINGTON 14,Registered Voters,,,,,,,630
+Daviess,WASHINGTON 14,Ballots Cast,,,,191,46,177,414
+Daviess,WASHINGTON 14,President,,REP,Donald J Trump,151,23,117,291
+Daviess,WASHINGTON 14,President,,DEM,Joseph R Biden,29,22,56,107
+Daviess,WASHINGTON 14,President,,LIB,Jo Jorgensen,9,0,3,12
+Daviess,WASHINGTON 14,President,,,Write-In,0,0,0,0
+Daviess,WASHINGTON 14,Governor,,REP,Eric Holcomb,117,27,108,252
+Daviess,WASHINGTON 14,Governor,,DEM,Woodrow (Woody) Myers,17,15,42,74
+Daviess,WASHINGTON 14,Governor,,LIB,Donald G Rainwater II,50,0,24,74
+Daviess,WASHINGTON 14,Attorney General,,REP,Todd Rokita,129,21,107,257
+Daviess,WASHINGTON 14,Attorney General,,DEM,Jonathan Weinzapfel,43,22,58,123
+Daviess,WASHINGTON 14,U.S. House,8,REP,Larry d Bucshon,142,24,121,287
+Daviess,WASHINGTON 14,U.S. House,8,DEM,E. Thomasina Marsili,27,17,42,86
+Daviess,WASHINGTON 14,U.S. House,8,LIB,James D. Rodenberger,12,1,9,22
+Daviess,WASHINGTON 14,U.S. House,9,,Write-In,0,0,0,0
+Daviess,WASHINGTON 14,State Representative,63,REP,Shane M Lindauer,141,21,119,281
+Daviess,WASHINGTON 14,State Representative,63,DEM,Teresa Kendall,38,21,50,109
+Daviess,WASHINGTON 15,Registered Voters,,,,,,,934
+Daviess,WASHINGTON 15,Ballots Cast,,,,219,85,304,608
+Daviess,WASHINGTON 15,President,,REP,Donald J Trump,174,49,239,462
+Daviess,WASHINGTON 15,President,,DEM,Joseph R Biden,35,34,58,127
+Daviess,WASHINGTON 15,President,,LIB,Jo Jorgensen,7,0,3,10
+Daviess,WASHINGTON 15,President,,,Write-In,0,0,1,1
+Daviess,WASHINGTON 15,Governor,,REP,Eric Holcomb,148,58,218,424
+Daviess,WASHINGTON 15,Governor,,DEM,Woodrow (Woody) Myers,23,18,41,82
+Daviess,WASHINGTON 15,Governor,,LIB,Donald G Rainwater II,38,4,39,81
+Daviess,WASHINGTON 15,Attorney General,,REP,Todd Rokita,156,54,226,436
+Daviess,WASHINGTON 15,Attorney General,,DEM,Jonathan Weinzapfel,46,29,64,139
+Daviess,WASHINGTON 15,U.S. House,8,REP,Larry d Bucshon,169,60,239,468
+Daviess,WASHINGTON 15,U.S. House,8,DEM,E. Thomasina Marsili,25,21,49,95
+Daviess,WASHINGTON 15,U.S. House,8,LIB,James D. Rodenberger,12,0,6,18
+Daviess,WASHINGTON 15,U.S. House,9,,Write-In,0,0,0,0
+Daviess,WASHINGTON 15,State Representative,63,REP,Shane M Lindauer,167,52,233,452
+Daviess,WASHINGTON 15,State Representative,63,DEM,Teresa Kendall,40,26,56,122
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,

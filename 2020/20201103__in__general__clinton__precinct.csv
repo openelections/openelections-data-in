@@ -1,0 +1,697 @@
+county,precinct,office,district,candidate,party,election_day,absentee,early_voting,votes
+Clinton,Precinct 1,Registered Voters,,,,,,,236
+Clinton,Precinct 1,Ballots Cast,,,,6,77,62,145
+Clinton,Precinct 1,President,,Trump / Pence,REP,5,44,43,92
+Clinton,Precinct 1,President,,Biden / Harris,DEM,0,30,16,46
+Clinton,Precinct 1,President,,Jorgensen / Cohen,LIB,0,1,0,1
+Clinton,Precinct 1,President,,Write-In,,0,0,0,0
+Clinton,Precinct 1,Governor,,Holcomb / Crouch,REP,3,63,50,116
+Clinton,Precinct 1,Governor,,Myers / Lawson,DEM,0,11,8,19
+Clinton,Precinct 1,Governor,,Rainwater II / Henry,LIB,2,1,3,6
+Clinton,Precinct 1,Attorney General,,Todd Rokita,REP,5,58,46,109
+Clinton,Precinct 1,Attorney General,,Jonathan Weinzapfel,DEM,0,16,15,31
+Clinton,Precinct 1,U.S. House,4,Jim Baird,REP,5,55,44,104
+Clinton,Precinct 1,U.S. House,4,Joe Mackey,DEM,0,17,14,31
+Clinton,Precinct 1,U.S. House,4,Write-In,,0,0,0,0
+Clinton,Precinct 1,State Senate,7,Brian W. Buchanan,REP,5,54,44,103
+Clinton,Precinct 1,State Senate,7,Tabitha N. Bartley,DEM,0,17,15,32
+Clinton,Precinct 1,State Representative,38,Heath R. Vannatter,REP,6,56,45,107
+Clinton,Precinct 1,State Representative,38,Tom Hedde,DEM,0,14,15,29
+Clinton,Precinct 2,Registered Voters,,,,,,,374
+Clinton,Precinct 2,Ballots Cast,,,,60,12,106,178
+Clinton,Precinct 2,President,,Trump / Pence,REP,32,7,70,109
+Clinton,Precinct 2,President,,Biden / Harris,DEM,25,5,31,61
+Clinton,Precinct 2,President,,Jorgensen / Cohen,LIB,2,0,5,7
+Clinton,Precinct 2,President,,Write-In,,0,0,0,0
+Clinton,Precinct 2,Governor,,Holcomb / Crouch,REP,26,9,64,99
+Clinton,Precinct 2,Governor,,Myers / Lawson,DEM,19,3,19,41
+Clinton,Precinct 2,Governor,,Rainwater II / Henry,LIB,12,0,21,33
+Clinton,Precinct 2,Attorney General,,Todd Rokita,REP,29,9,71,109
+Clinton,Precinct 2,Attorney General,,Jonathan Weinzapfel,DEM,26,3,31,60
+Clinton,Precinct 2,U.S. House,4,Jim Baird,REP,32,8,71,111
+Clinton,Precinct 2,U.S. House,4,Joe Mackey,DEM,23,4,33,60
+Clinton,Precinct 2,U.S. House,4,Write-In,,0,0,0,0
+Clinton,Precinct 2,State Senate,7,Brian W. Buchanan,REP,33,8,74,115
+Clinton,Precinct 2,State Senate,7,Tabitha N. Bartley,DEM,23,4,29,56
+Clinton,Precinct 2,State Representative,38,Heath R. Vannatter,REP,32,9,71,112
+Clinton,Precinct 2,State Representative,38,Tom Hedde,DEM,23,3,31,57
+Clinton,Precinct 3,Registered Voters,,,,,,,337
+Clinton,Precinct 3,Ballots Cast,,,,54,16,89,159
+Clinton,Precinct 3,President,,Trump / Pence,REP,39,10,60,109
+Clinton,Precinct 3,President,,Biden / Harris,DEM,12,5,24,41
+Clinton,Precinct 3,President,,Jorgensen / Cohen,LIB,2,0,2,4
+Clinton,Precinct 3,President,,Write-In,,1,0,0,1
+Clinton,Precinct 3,Governor,,Holcomb / Crouch,REP,31,11,50,92
+Clinton,Precinct 3,Governor,,Myers / Lawson,DEM,11,4,17,32
+Clinton,Precinct 3,Governor,,Rainwater II / Henry,LIB,12,0,19,31
+Clinton,Precinct 3,Attorney General,,Todd Rokita,REP,38,11,62,111
+Clinton,Precinct 3,Attorney General,,Jonathan Weinzapfel,DEM,16,4,23,43
+Clinton,Precinct 3,U.S. House,4,Jim Baird,REP,39,9,66,114
+Clinton,Precinct 3,U.S. House,4,Joe Mackey,DEM,15,5,20,40
+Clinton,Precinct 3,U.S. House,4,Write-In,,0,0,0,0
+Clinton,Precinct 3,State Senate,7,Brian W. Buchanan,REP,42,9,63,114
+Clinton,Precinct 3,State Senate,7,Tabitha N. Bartley,DEM,12,5,20,37
+Clinton,Precinct 3,State Representative,38,Heath R. Vannatter,REP,37,10,64,111
+Clinton,Precinct 3,State Representative,38,Tom Hedde,DEM,17,5,21,43
+Clinton,Precinct 4,Registered Voters,,,,,,,562
+Clinton,Precinct 4,Ballots Cast,,,,94,23,168,285
+Clinton,Precinct 4,President,,Trump / Pence,REP,65,9,113,187
+Clinton,Precinct 4,President,,Biden / Harris,DEM,26,11,48,85
+Clinton,Precinct 4,President,,Jorgensen / Cohen,LIB,2,1,4,7
+Clinton,Precinct 4,President,,Write-In,,0,1,0,1
+Clinton,Precinct 4,Governor,,Holcomb / Crouch,REP,48,15,96,159
+Clinton,Precinct 4,Governor,,Myers / Lawson,DEM,20,6,36,62
+Clinton,Precinct 4,Governor,,Rainwater II / Henry,LIB,25,1,33,59
+Clinton,Precinct 4,Attorney General,,Todd Rokita,REP,64,14,110,188
+Clinton,Precinct 4,Attorney General,,Jonathan Weinzapfel,DEM,26,7,54,87
+Clinton,Precinct 4,U.S. House,4,Jim Baird,REP,59,13,115,187
+Clinton,Precinct 4,U.S. House,4,Joe Mackey,DEM,32,8,50,90
+Clinton,Precinct 4,U.S. House,4,Write-In,,0,0,0,0
+Clinton,Precinct 4,State Senate,7,Brian W. Buchanan,REP,66,13,119,198
+Clinton,Precinct 4,State Senate,7,Tabitha N. Bartley,DEM,24,8,44,76
+Clinton,Precinct 4,State Representative,38,Heath R. Vannatter,REP,65,13,112,190
+Clinton,Precinct 4,State Representative,38,Tom Hedde,DEM,26,8,53,87
+Clinton,Precinct 5,Registered Voters,,,,,,,379
+Clinton,Precinct 5,Ballots Cast,,,,63,13,114,190
+Clinton,Precinct 5,President,,Trump / Pence,REP,47,5,74,126
+Clinton,Precinct 5,President,,Biden / Harris,DEM,14,6,39,59
+Clinton,Precinct 5,President,,Jorgensen / Cohen,LIB,2,1,1,4
+Clinton,Precinct 5,President,,Write-In,,0,0,0,0
+Clinton,Precinct 5,Governor,,Holcomb / Crouch,REP,30,6,65,101
+Clinton,Precinct 5,Governor,,Myers / Lawson,DEM,6,4,30,40
+Clinton,Precinct 5,Governor,,Rainwater II / Henry,LIB,25,1,18,44
+Clinton,Precinct 5,Attorney General,,Todd Rokita,REP,45,7,71,123
+Clinton,Precinct 5,Attorney General,,Jonathan Weinzapfel,DEM,18,4,40,62
+Clinton,Precinct 5,U.S. House,4,Jim Baird,REP,46,8,74,128
+Clinton,Precinct 5,U.S. House,4,Joe Mackey,DEM,17,4,38,59
+Clinton,Precinct 5,U.S. House,4,Write-In,,0,0,0,0
+Clinton,Precinct 5,State Senate,7,Brian W. Buchanan,REP,52,6,75,133
+Clinton,Precinct 5,State Senate,7,Tabitha N. Bartley,DEM,11,5,36,52
+Clinton,Precinct 5,State Representative,38,Heath R. Vannatter,REP,48,6,75,129
+Clinton,Precinct 5,State Representative,38,Tom Hedde,DEM,15,5,37,57
+Clinton,Precinct 6,Registered Voters,,,,,,,465
+Clinton,Precinct 6,Ballots Cast,,,,71,18,127,216
+Clinton,Precinct 6,President,,Trump / Pence,REP,53,6,91,150
+Clinton,Precinct 6,President,,Biden / Harris,DEM,14,12,35,61
+Clinton,Precinct 6,President,,Jorgensen / Cohen,LIB,3,0,0,3
+Clinton,Precinct 6,President,,Write-In,,0,0,0,0
+Clinton,Precinct 6,Governor,,Holcomb / Crouch,REP,38,8,71,117
+Clinton,Precinct 6,Governor,,Myers / Lawson,DEM,13,10,30,53
+Clinton,Precinct 6,Governor,,Rainwater II / Henry,LIB,19,0,24,43
+Clinton,Precinct 6,Attorney General,,Todd Rokita,REP,51,7,83,141
+Clinton,Precinct 6,Attorney General,,Jonathan Weinzapfel,DEM,17,10,37,64
+Clinton,Precinct 6,U.S. House,4,Jim Baird,REP,50,6,91,147
+Clinton,Precinct 6,U.S. House,4,Joe Mackey,DEM,18,12,31,61
+Clinton,Precinct 6,U.S. House,4,Write-In,,0,0,0,0
+Clinton,Precinct 6,State Senate,7,Brian W. Buchanan,REP,54,6,89,149
+Clinton,Precinct 6,State Senate,7,Tabitha N. Bartley,DEM,14,12,32,58
+Clinton,Precinct 6,State Representative,38,Heath R. Vannatter,REP,49,6,90,145
+Clinton,Precinct 6,State Representative,38,Tom Hedde,DEM,18,12,31,61
+Clinton,Precinct 7,Registered Voters,,,,,,,369
+Clinton,Precinct 7,Ballots Cast,,,,57,8,99,164
+Clinton,Precinct 7,President,,Trump / Pence,REP,32,2,68,102
+Clinton,Precinct 7,President,,Biden / Harris,DEM,22,6,27,55
+Clinton,Precinct 7,President,,Jorgensen / Cohen,LIB,3,0,3,6
+Clinton,Precinct 7,President,,Write-In,,0,0,0,0
+Clinton,Precinct 7,Governor,,Holcomb / Crouch,REP,32,2,50,84
+Clinton,Precinct 7,Governor,,Myers / Lawson,DEM,17,6,27,50
+Clinton,Precinct 7,Governor,,Rainwater II / Henry,LIB,8,0,19,27
+Clinton,Precinct 7,Attorney General,,Todd Rokita,REP,30,3,68,101
+Clinton,Precinct 7,Attorney General,,Jonathan Weinzapfel,DEM,26,5,26,57
+Clinton,Precinct 7,U.S. House,4,Jim Baird,REP,34,3,67,104
+Clinton,Precinct 7,U.S. House,4,Joe Mackey,DEM,20,5,28,53
+Clinton,Precinct 7,U.S. House,4,Write-In,,0,0,0,0
+Clinton,Precinct 7,State Senate,7,Brian W. Buchanan,REP,35,3,64,102
+Clinton,Precinct 7,State Senate,7,Tabitha N. Bartley,DEM,19,5,31,55
+Clinton,Precinct 7,State Representative,38,Heath R. Vannatter,REP,28,4,67,99
+Clinton,Precinct 7,State Representative,38,Tom Hedde,DEM,25,4,27,56
+Clinton,Precinct 8,Registered Voters,,,,,,,448
+Clinton,Precinct 8,Ballots Cast,,,,63,19,170,252
+Clinton,Precinct 8,President,,Trump / Pence,REP,37,10,115,162
+Clinton,Precinct 8,President,,Biden / Harris,DEM,25,8,48,81
+Clinton,Precinct 8,President,,Jorgensen / Cohen,LIB,1,0,6,7
+Clinton,Precinct 8,President,,Write-In,,0,0,0,0
+Clinton,Precinct 8,Governor,,Holcomb / Crouch,REP,25,8,94,127
+Clinton,Precinct 8,Governor,,Myers / Lawson,DEM,19,5,41,65
+Clinton,Precinct 8,Governor,,Rainwater II / Henry,LIB,19,2,33,54
+Clinton,Precinct 8,Attorney General,,Todd Rokita,REP,33,8,111,152
+Clinton,Precinct 8,Attorney General,,Jonathan Weinzapfel,DEM,27,9,51,87
+Clinton,Precinct 8,U.S. House,4,Jim Baird,REP,36,8,112,156
+Clinton,Precinct 8,U.S. House,4,Joe Mackey,DEM,24,8,48,80
+Clinton,Precinct 8,U.S. House,4,Write-In,,0,0,0,0
+Clinton,Precinct 8,State Senate,7,Brian W. Buchanan,REP,34,9,110,153
+Clinton,Precinct 8,State Senate,7,Tabitha N. Bartley,DEM,26,8,51,85
+Clinton,Precinct 8,State Representative,38,Heath R. Vannatter,REP,34,9,113,156
+Clinton,Precinct 8,State Representative,38,Tom Hedde,DEM,26,8,50,84
+Clinton,Precinct 9,Registered Voters,,,,,,,468
+Clinton,Precinct 9,Ballots Cast,,,,72,12,116,200
+Clinton,Precinct 9,President,,Trump / Pence,REP,42,5,57,104
+Clinton,Precinct 9,President,,Biden / Harris,DEM,26,7,59,92
+Clinton,Precinct 9,President,,Jorgensen / Cohen,LIB,2,0,0,2
+Clinton,Precinct 9,President,,Write-In,,0,0,0,0
+Clinton,Precinct 9,Governor,,Holcomb / Crouch,REP,33,5,51,89
+Clinton,Precinct 9,Governor,,Myers / Lawson,DEM,22,4,44,70
+Clinton,Precinct 9,Governor,,Rainwater II / Henry,LIB,14,2,15,31
+Clinton,Precinct 9,Attorney General,,Todd Rokita,REP,41,5,59,105
+Clinton,Precinct 9,Attorney General,,Jonathan Weinzapfel,DEM,28,6,50,84
+Clinton,Precinct 9,U.S. House,4,Jim Baird,REP,44,5,53,102
+Clinton,Precinct 9,U.S. House,4,Joe Mackey,DEM,25,7,57,89
+Clinton,Precinct 9,U.S. House,4,Write-In,,0,0,0,0
+Clinton,Precinct 9,State Senate,7,Brian W. Buchanan,REP,43,4,60,107
+Clinton,Precinct 9,State Senate,7,Tabitha N. Bartley,DEM,26,6,49,81
+Clinton,Precinct 9,State Representative,38,Heath R. Vannatter,REP,44,6,55,105
+Clinton,Precinct 9,State Representative,38,Tom Hedde,DEM,24,5,53,82
+Clinton,Precinct 10,Registered Voters,,,,,,,166
+Clinton,Precinct 10,Ballots Cast,,,,27,4,41,72
+Clinton,Precinct 10,President,,Trump / Pence,REP,17,2,23,42
+Clinton,Precinct 10,President,,Biden / Harris,DEM,10,2,16,28
+Clinton,Precinct 10,President,,Jorgensen / Cohen,LIB,0,0,2,2
+Clinton,Precinct 10,President,,Write-In,,0,0,0,0
+Clinton,Precinct 10,Governor,,Holcomb / Crouch,REP,12,2,20,34
+Clinton,Precinct 10,Governor,,Myers / Lawson,DEM,9,2,14,25
+Clinton,Precinct 10,Governor,,Rainwater II / Henry,LIB,6,0,5,11
+Clinton,Precinct 10,Attorney General,,Todd Rokita,REP,15,2,22,39
+Clinton,Precinct 10,Attorney General,,Jonathan Weinzapfel,DEM,10,2,15,27
+Clinton,Precinct 10,U.S. House,4,Jim Baird,REP,17,2,23,42
+Clinton,Precinct 10,U.S. House,4,Joe Mackey,DEM,7,2,17,26
+Clinton,Precinct 10,U.S. House,4,Write-In,,0,0,0,0
+Clinton,Precinct 10,State Senate,7,Brian W. Buchanan,REP,17,2,25,44
+Clinton,Precinct 10,State Senate,7,Tabitha N. Bartley,DEM,7,2,14,23
+Clinton,Precinct 10,State Representative,38,Heath R. Vannatter,REP,15,2,24,41
+Clinton,Precinct 10,State Representative,38,Tom Hedde,DEM,8,2,15,25
+Clinton,Precinct 11,Registered Voters,,,,,,,314
+Clinton,Precinct 11,Ballots Cast,,,,39,22,101,162
+Clinton,Precinct 11,President,,Trump / Pence,REP,23,10,64,97
+Clinton,Precinct 11,President,,Biden / Harris,DEM,15,11,35,61
+Clinton,Precinct 11,President,,Jorgensen / Cohen,LIB,0,0,1,1
+Clinton,Precinct 11,President,,Write-In,,1,0,0,1
+Clinton,Precinct 11,Governor,,Holcomb / Crouch,REP,19,13,51,83
+Clinton,Precinct 11,Governor,,Myers / Lawson,DEM,10,6,23,39
+Clinton,Precinct 11,Governor,,Rainwater II / Henry,LIB,10,2,24,36
+Clinton,Precinct 11,Attorney General,,Todd Rokita,REP,22,13,65,100
+Clinton,Precinct 11,Attorney General,,Jonathan Weinzapfel,DEM,16,7,31,54
+Clinton,Precinct 11,U.S. House,4,Jim Baird,REP,23,12,64,99
+Clinton,Precinct 11,U.S. House,4,Joe Mackey,DEM,14,8,33,55
+Clinton,Precinct 11,U.S. House,4,Write-In,,0,0,0,0
+Clinton,Precinct 11,State Senate,7,Brian W. Buchanan,REP,25,11,68,104
+Clinton,Precinct 11,State Senate,7,Tabitha N. Bartley,DEM,12,9,29,50
+Clinton,Precinct 11,State Representative,38,Heath R. Vannatter,REP,21,12,65,98
+Clinton,Precinct 11,State Representative,38,Tom Hedde,DEM,17,8,30,55
+Clinton,Precinct 12,Registered Voters,,,,,,,554
+Clinton,Precinct 12,Ballots Cast,,,,75,47,227,349
+Clinton,Precinct 12,President,,Trump / Pence,REP,54,24,157,235
+Clinton,Precinct 12,President,,Biden / Harris,DEM,14,22,60,96
+Clinton,Precinct 12,President,,Jorgensen / Cohen,LIB,7,0,7,14
+Clinton,Precinct 12,President,,Write-In,,0,0,0,0
+Clinton,Precinct 12,Governor,,Holcomb / Crouch,REP,40,33,150,223
+Clinton,Precinct 12,Governor,,Myers / Lawson,DEM,10,10,45,65
+Clinton,Precinct 12,Governor,,Rainwater II / Henry,LIB,24,1,31,56
+Clinton,Precinct 12,Attorney General,,Todd Rokita,REP,58,30,155,243
+Clinton,Precinct 12,Attorney General,,Jonathan Weinzapfel,DEM,13,16,69,98
+Clinton,Precinct 12,U.S. House,4,Jim Baird,REP,55,27,156,238
+Clinton,Precinct 12,U.S. House,4,Joe Mackey,DEM,17,18,67,102
+Clinton,Precinct 12,U.S. House,4,Write-In,,0,0,0,0
+Clinton,Precinct 12,State Senate,7,Brian W. Buchanan,REP,56,27,161,244
+Clinton,Precinct 12,State Senate,7,Tabitha N. Bartley,DEM,16,17,61,94
+Clinton,Precinct 12,State Representative,38,Heath R. Vannatter,REP,53,30,161,244
+Clinton,Precinct 12,State Representative,38,Tom Hedde,DEM,17,14,62,93
+Clinton,Precinct 13,Registered Voters,,,,,,,398
+Clinton,Precinct 13,Ballots Cast,,,,54,28,172,254
+Clinton,Precinct 13,President,,Trump / Pence,REP,34,15,121,170
+Clinton,Precinct 13,President,,Biden / Harris,DEM,16,12,44,72
+Clinton,Precinct 13,President,,Jorgensen / Cohen,LIB,2,0,2,4
+Clinton,Precinct 13,President,,Write-In,,2,1,0,3
+Clinton,Precinct 13,Governor,,Holcomb / Crouch,REP,27,16,114,157
+Clinton,Precinct 13,Governor,,Myers / Lawson,DEM,11,12,28,51
+Clinton,Precinct 13,Governor,,Rainwater II / Henry,LIB,15,0,26,41
+Clinton,Precinct 13,Attorney General,,Todd Rokita,REP,37,15,125,177
+Clinton,Precinct 13,Attorney General,,Jonathan Weinzapfel,DEM,16,12,40,68
+Clinton,Precinct 13,U.S. House,4,Jim Baird,REP,40,14,126,180
+Clinton,Precinct 13,U.S. House,4,Joe Mackey,DEM,14,12,42,68
+Clinton,Precinct 13,U.S. House,4,Write-In,,0,0,0,0
+Clinton,Precinct 13,State Senate,7,Brian W. Buchanan,REP,39,15,134,188
+Clinton,Precinct 13,State Senate,7,Tabitha N. Bartley,DEM,15,12,36,63
+Clinton,Precinct 13,State Representative,38,Heath R. Vannatter,REP,40,16,130,186
+Clinton,Precinct 13,State Representative,38,Tom Hedde,DEM,13,10,36,59
+Clinton,Precinct 14,Registered Voters,,,,,,,540
+Clinton,Precinct 14,Ballots Cast,,,,66,42,279,387
+Clinton,Precinct 14,President,,Trump / Pence,REP,42,20,188,250
+Clinton,Precinct 14,President,,Biden / Harris,DEM,21,22,84,127
+Clinton,Precinct 14,President,,Jorgensen / Cohen,LIB,1,0,2,3
+Clinton,Precinct 14,President,,Write-In,,2,0,0,2
+Clinton,Precinct 14,Governor,,Holcomb / Crouch,REP,37,26,187,250
+Clinton,Precinct 14,Governor,,Myers / Lawson,DEM,17,16,54,87
+Clinton,Precinct 14,Governor,,Rainwater II / Henry,LIB,12,0,34,46
+Clinton,Precinct 14,Attorney General,,Todd Rokita,REP,47,24,195,266
+Clinton,Precinct 14,Attorney General,,Jonathan Weinzapfel,DEM,19,18,73,110
+Clinton,Precinct 14,U.S. House,4,Jim Baird,REP,43,24,193,260
+Clinton,Precinct 14,U.S. House,4,Joe Mackey,DEM,20,18,77,115
+Clinton,Precinct 14,U.S. House,4,Write-In,,1,0,0,1
+Clinton,Precinct 14,State Senate,7,Brian W. Buchanan,REP,44,25,205,274
+Clinton,Precinct 14,State Senate,7,Tabitha N. Bartley,DEM,20,17,66,103
+Clinton,Precinct 14,State Representative,38,Heath R. Vannatter,REP,45,23,203,271
+Clinton,Precinct 14,State Representative,38,Tom Hedde,DEM,19,19,72,110
+Clinton,Precinct 15,Registered Voters,,,,,,,517
+Clinton,Precinct 15,Ballots Cast,,,,87,37,221,345
+Clinton,Precinct 15,President,,Trump / Pence,REP,62,10,140,212
+Clinton,Precinct 15,President,,Biden / Harris,DEM,20,22,74,116
+Clinton,Precinct 15,President,,Jorgensen / Cohen,LIB,3,4,6,13
+Clinton,Precinct 15,President,,Write-In,,0,0,0,0
+Clinton,Precinct 15,Governor,,Holcomb / Crouch,REP,50,16,132,198
+Clinton,Precinct 15,Governor,,Myers / Lawson,DEM,12,19,47,78
+Clinton,Precinct 15,Governor,,Rainwater II / Henry,LIB,23,1,37,61
+Clinton,Precinct 15,Attorney General,,Todd Rokita,REP,68,15,145,228
+Clinton,Precinct 15,Attorney General,,Jonathan Weinzapfel,DEM,18,21,72,111
+Clinton,Precinct 15,U.S. House,4,Jim Baird,REP,67,13,150,230
+Clinton,Precinct 15,U.S. House,4,Joe Mackey,DEM,16,22,63,101
+Clinton,Precinct 15,U.S. House,4,Write-In,,0,0,0,0
+Clinton,Precinct 15,State Senate,7,Brian W. Buchanan,REP,67,12,151,230
+Clinton,Precinct 15,State Senate,7,Tabitha N. Bartley,DEM,15,22,62,99
+Clinton,Precinct 15,State Representative,38,Heath R. Vannatter,REP,64,13,150,227
+Clinton,Precinct 15,State Representative,38,Tom Hedde,DEM,20,21,66,107
+Clinton,Precinct 16,Registered Voters,,,,,,,362
+Clinton,Precinct 16,Ballots Cast,,,,60,38,149,247
+Clinton,Precinct 16,President,,Trump / Pence,REP,42,17,102,161
+Clinton,Precinct 16,President,,Biden / Harris,DEM,17,19,46,82
+Clinton,Precinct 16,President,,Jorgensen / Cohen,LIB,1,0,0,1
+Clinton,Precinct 16,President,,Write-In,,0,1,0,1
+Clinton,Precinct 16,Governor,,Holcomb / Crouch,REP,33,20,98,151
+Clinton,Precinct 16,Governor,,Myers / Lawson,DEM,10,17,29,56
+Clinton,Precinct 16,Governor,,Rainwater II / Henry,LIB,17,1,21,39
+Clinton,Precinct 16,Attorney General,,Todd Rokita,REP,42,20,104,166
+Clinton,Precinct 16,Attorney General,,Jonathan Weinzapfel,DEM,17,16,43,76
+Clinton,Precinct 16,U.S. House,4,Jim Baird,REP,41,21,107,169
+Clinton,Precinct 16,U.S. House,4,Joe Mackey,DEM,15,16,40,71
+Clinton,Precinct 16,U.S. House,4,Write-In,,0,0,0,0
+Clinton,Precinct 16,State Senate,7,Brian W. Buchanan,REP,43,22,112,177
+Clinton,Precinct 16,State Senate,7,Tabitha N. Bartley,DEM,15,16,36,67
+Clinton,Precinct 16,State Representative,38,Heath R. Vannatter,REP,43,18,107,168
+Clinton,Precinct 16,State Representative,38,Tom Hedde,DEM,14,17,42,73
+Clinton,Precinct 17,Registered Voters,,,,,,,487
+Clinton,Precinct 17,Ballots Cast,,,,72,29,178,279
+Clinton,Precinct 17,President,,Trump / Pence,REP,54,15,98,167
+Clinton,Precinct 17,President,,Biden / Harris,DEM,17,13,71,101
+Clinton,Precinct 17,President,,Jorgensen / Cohen,LIB,0,0,6,6
+Clinton,Precinct 17,President,,Write-In,,0,0,1,1
+Clinton,Precinct 17,Governor,,Holcomb / Crouch,REP,41,21,95,157
+Clinton,Precinct 17,Governor,,Myers / Lawson,DEM,11,5,51,67
+Clinton,Precinct 17,Governor,,Rainwater II / Henry,LIB,19,0,29,48
+Clinton,Precinct 17,Attorney General,,Todd Rokita,REP,52,18,100,170
+Clinton,Precinct 17,Attorney General,,Jonathan Weinzapfel,DEM,18,8,72,98
+Clinton,Precinct 17,U.S. House,4,Jim Baird,REP,52,15,104,171
+Clinton,Precinct 17,U.S. House,4,Joe Mackey,DEM,19,11,64,94
+Clinton,Precinct 17,U.S. House,4,Write-In,,0,0,0,0
+Clinton,Precinct 17,State Senate,7,Brian W. Buchanan,REP,55,15,107,177
+Clinton,Precinct 17,State Senate,7,Tabitha N. Bartley,DEM,14,11,62,87
+Clinton,Precinct 17,State Representative,38,Heath R. Vannatter,REP,55,16,104,175
+Clinton,Precinct 17,State Representative,38,Tom Hedde,DEM,16,10,63,89
+Clinton,Precinct 18,Registered Voters,,,,,,,655
+Clinton,Precinct 18,Ballots Cast,,,,100,38,242,380
+Clinton,Precinct 18,President,,Trump / Pence,REP,66,16,158,240
+Clinton,Precinct 18,President,,Biden / Harris,DEM,32,22,78,132
+Clinton,Precinct 18,President,,Jorgensen / Cohen,LIB,2,0,4,6
+Clinton,Precinct 18,President,,Write-In,,0,0,0,0
+Clinton,Precinct 18,Governor,,Holcomb / Crouch,REP,49,19,157,225
+Clinton,Precinct 18,Governor,,Myers / Lawson,DEM,27,17,55,99
+Clinton,Precinct 18,Governor,,Rainwater II / Henry,LIB,23,1,28,52
+Clinton,Precinct 18,Attorney General,,Todd Rokita,REP,63,18,160,241
+Clinton,Precinct 18,Attorney General,,Jonathan Weinzapfel,DEM,34,18,76,128
+Clinton,Precinct 18,U.S. House,4,Jim Baird,REP,62,17,159,238
+Clinton,Precinct 18,U.S. House,4,Joe Mackey,DEM,34,18,75,127
+Clinton,Precinct 18,U.S. House,4,Write-In,,1,0,0,1
+Clinton,Precinct 18,State Senate,7,Brian W. Buchanan,REP,66,17,166,249
+Clinton,Precinct 18,State Senate,7,Tabitha N. Bartley,DEM,31,18,71,120
+Clinton,Precinct 18,State Representative,38,Heath R. Vannatter,REP,61,18,161,240
+Clinton,Precinct 18,State Representative,38,Tom Hedde,DEM,35,18,74,127
+Clinton,Precinct 19,Registered Voters,,,,,,,759
+Clinton,Precinct 19,Ballots Cast,,,,133,28,272,433
+Clinton,Precinct 19,President,,Trump / Pence,REP,94,8,192,294
+Clinton,Precinct 19,President,,Biden / Harris,DEM,35,18,77,130
+Clinton,Precinct 19,President,,Jorgensen / Cohen,LIB,4,1,2,7
+Clinton,Precinct 19,President,,Write-In,,0,0,0,0
+Clinton,Precinct 19,Governor,,Holcomb / Crouch,REP,79,12,158,249
+Clinton,Precinct 19,Governor,,Myers / Lawson,DEM,21,15,58,94
+Clinton,Precinct 19,Governor,,Rainwater II / Henry,LIB,31,1,50,82
+Clinton,Precinct 19,Attorney General,,Todd Rokita,REP,87,10,187,284
+Clinton,Precinct 19,Attorney General,,Jonathan Weinzapfel,DEM,42,18,80,140
+Clinton,Precinct 19,U.S. House,4,Jim Baird,REP,98,13,197,308
+Clinton,Precinct 19,U.S. House,4,Joe Mackey,DEM,33,14,70,117
+Clinton,Precinct 19,U.S. House,4,Write-In,,0,0,0,0
+Clinton,Precinct 19,State Senate,7,Brian W. Buchanan,REP,101,10,199,310
+Clinton,Precinct 19,State Senate,7,Tabitha N. Bartley,DEM,28,16,67,111
+Clinton,Precinct 19,State Representative,38,Heath R. Vannatter,REP,94,11,194,299
+Clinton,Precinct 19,State Representative,38,Tom Hedde,DEM,34,15,69,118
+Clinton,Precinct 20,Registered Voters,,,,,,,702
+Clinton,Precinct 20,Ballots Cast,,,,88,65,339,492
+Clinton,Precinct 20,President,,Trump / Pence,REP,63,35,264,362
+Clinton,Precinct 20,President,,Biden / Harris,DEM,21,28,61,110
+Clinton,Precinct 20,President,,Jorgensen / Cohen,LIB,3,1,3,7
+Clinton,Precinct 20,President,,Write-In,,0,0,1,1
+Clinton,Precinct 20,Governor,,Holcomb / Crouch,REP,57,48,256,361
+Clinton,Precinct 20,Governor,,Myers / Lawson,DEM,15,15,40,70
+Clinton,Precinct 20,Governor,,Rainwater II / Henry,LIB,15,2,34,51
+Clinton,Precinct 20,Attorney General,,Todd Rokita,REP,63,41,271,375
+Clinton,Precinct 20,Attorney General,,Jonathan Weinzapfel,DEM,23,22,54,99
+Clinton,Precinct 20,U.S. House,4,Jim Baird,REP,64,38,270,372
+Clinton,Precinct 20,U.S. House,4,Joe Mackey,DEM,21,25,57,103
+Clinton,Precinct 20,U.S. House,4,Write-In,,0,0,0,0
+Clinton,Precinct 20,State Senate,7,Brian W. Buchanan,REP,66,40,274,380
+Clinton,Precinct 20,State Senate,7,Tabitha N. Bartley,DEM,20,23,55,98
+Clinton,Precinct 20,State Representative,38,Heath R. Vannatter,REP,66,40,267,373
+Clinton,Precinct 20,State Representative,38,Tom Hedde,DEM,19,23,60,102
+Clinton,Precinct 21,Registered Voters,,,,,,,537
+Clinton,Precinct 21,Ballots Cast,,,,143,54,195,392
+Clinton,Precinct 21,President,,Trump / Pence,REP,115,29,161,305
+Clinton,Precinct 21,President,,Biden / Harris,DEM,21,21,31,73
+Clinton,Precinct 21,President,,Jorgensen / Cohen,LIB,5,0,2,7
+Clinton,Precinct 21,President,,Write-In,,0,0,0,0
+Clinton,Precinct 21,Governor,,Holcomb / Crouch,REP,78,34,119,231
+Clinton,Precinct 21,Governor,,Myers / Lawson,DEM,22,16,24,62
+Clinton,Precinct 21,Governor,,Rainwater II / Henry,LIB,40,2,51,93
+Clinton,Precinct 21,Attorney General,,Todd Rokita,REP,109,31,158,298
+Clinton,Precinct 21,Attorney General,,Jonathan Weinzapfel,DEM,31,21,34,86
+Clinton,Precinct 21,U.S. House,4,Jim Baird,REP,113,27,161,301
+Clinton,Precinct 21,U.S. House,4,Joe Mackey,DEM,26,23,30,79
+Clinton,Precinct 21,U.S. House,4,Write-In,,1,0,0,1
+Clinton,Precinct 21,State Senate,7,Brian W. Buchanan,REP,115,30,159,304
+Clinton,Precinct 21,State Senate,7,Tabitha N. Bartley,DEM,24,21,32,77
+Clinton,Precinct 22,Registered Voters,,,,,,,371
+Clinton,Precinct 22,Ballots Cast,,,,60,27,185,272
+Clinton,Precinct 22,President,,Trump / Pence,REP,57,16,151,224
+Clinton,Precinct 22,President,,Biden / Harris,DEM,2,10,27,39
+Clinton,Precinct 22,President,,Jorgensen / Cohen,LIB,1,0,4,5
+Clinton,Precinct 22,President,,Write-In,,0,0,0,0
+Clinton,Precinct 22,Governor,,Holcomb / Crouch,REP,37,16,126,179
+Clinton,Precinct 22,Governor,,Myers / Lawson,DEM,2,8,15,25
+Clinton,Precinct 22,Governor,,Rainwater II / Henry,LIB,19,3,41,63
+Clinton,Precinct 22,Attorney General,,Todd Rokita,REP,52,15,153,220
+Clinton,Precinct 22,Attorney General,,Jonathan Weinzapfel,DEM,7,11,28,46
+Clinton,Precinct 22,U.S. House,4,Jim Baird,REP,55,16,153,224
+Clinton,Precinct 22,U.S. House,4,Joe Mackey,DEM,5,10,24,39
+Clinton,Precinct 22,U.S. House,4,Write-In,,0,0,2,2
+Clinton,Precinct 22,State Senate,7,Brian W. Buchanan,REP,53,16,158,227
+Clinton,Precinct 22,State Senate,7,Tabitha N. Bartley,DEM,5,10,22,37
+Clinton,Precinct 22,State Representative,38,Heath R. Vannatter,REP,55,10,122,187
+Clinton,Precinct 22,State Representative,38,Tom Hedde,DEM,5,5,21,31
+Clinton,Precinct 23,Registered Voters,,,,,,,470
+Clinton,Precinct 23,Ballots Cast,,,,73,46,239,358
+Clinton,Precinct 23,President,,Trump / Pence,REP,62,23,190,275
+Clinton,Precinct 23,President,,Biden / Harris,DEM,10,21,42,73
+Clinton,Precinct 23,President,,Jorgensen / Cohen,LIB,0,2,4,6
+Clinton,Precinct 23,President,,Write-In,,1,0,0,1
+Clinton,Precinct 23,Governor,,Holcomb / Crouch,REP,42,23,168,233
+Clinton,Precinct 23,Governor,,Myers / Lawson,DEM,5,16,33,54
+Clinton,Precinct 23,Governor,,Rainwater II / Henry,LIB,25,3,37,65
+Clinton,Precinct 23,Attorney General,,Todd Rokita,REP,60,25,184,269
+Clinton,Precinct 23,Attorney General,,Jonathan Weinzapfel,DEM,11,16,50,77
+Clinton,Precinct 23,U.S. House,4,Jim Baird,REP,62,23,190,275
+Clinton,Precinct 23,U.S. House,4,Joe Mackey,DEM,8,17,44,69
+Clinton,Precinct 23,U.S. House,4,Write-In,,1,1,0,2
+Clinton,Precinct 23,State Senate,7,Brian W. Buchanan,REP,64,22,199,285
+Clinton,Precinct 23,State Senate,7,Tabitha N. Bartley,DEM,7,18,37,62
+Clinton,Precinct 23,State Representative,38,Heath R. Vannatter,REP,62,7,162,231
+Clinton,Precinct 23,State Representative,38,Tom Hedde,DEM,9,12,37,58
+Clinton,Precinct 24,Registered Voters,,,,,,,313
+Clinton,Precinct 24,Ballots Cast,,,,57,18,131,206
+Clinton,Precinct 24,President,,Trump / Pence,REP,46,8,95,149
+Clinton,Precinct 24,President,,Biden / Harris,DEM,8,10,36,54
+Clinton,Precinct 24,President,,Jorgensen / Cohen,LIB,3,0,0,3
+Clinton,Precinct 24,President,,Write-In,,0,0,0,0
+Clinton,Precinct 24,Governor,,Holcomb / Crouch,REP,33,11,75,119
+Clinton,Precinct 24,Governor,,Myers / Lawson,DEM,8,7,29,44
+Clinton,Precinct 24,Governor,,Rainwater II / Henry,LIB,16,0,25,41
+Clinton,Precinct 24,Attorney General,,Todd Rokita,REP,45,11,89,145
+Clinton,Precinct 24,Attorney General,,Jonathan Weinzapfel,DEM,11,7,38,56
+Clinton,Precinct 24,U.S. House,4,Jim Baird,REP,47,9,91,147
+Clinton,Precinct 24,U.S. House,4,Joe Mackey,DEM,9,9,36,54
+Clinton,Precinct 24,U.S. House,4,Write-In,,0,0,0,0
+Clinton,Precinct 24,State Senate,7,Brian W. Buchanan,REP,48,9,91,148
+Clinton,Precinct 24,State Senate,7,Tabitha N. Bartley,DEM,9,9,35,53
+Clinton,Precinct 25,Registered Voters,,,,,,,463
+Clinton,Precinct 25,Ballots Cast,,,,162,21,129,312
+Clinton,Precinct 25,President,,Trump / Pence,REP,130,11,97,238
+Clinton,Precinct 25,President,,Biden / Harris,DEM,29,10,31,70
+Clinton,Precinct 25,President,,Jorgensen / Cohen,LIB,2,0,1,3
+Clinton,Precinct 25,President,,Write-In,,0,0,0,0
+Clinton,Precinct 25,Governor,,Holcomb / Crouch,REP,96,10,76,182
+Clinton,Precinct 25,Governor,,Myers / Lawson,DEM,19,5,21,45
+Clinton,Precinct 25,Governor,,Rainwater II / Henry,LIB,46,5,32,83
+Clinton,Precinct 25,Attorney General,,Todd Rokita,REP,118,7,93,218
+Clinton,Precinct 25,Attorney General,,Jonathan Weinzapfel,DEM,41,12,34,87
+Clinton,Precinct 25,U.S. House,4,Jim Baird,REP,131,8,95,234
+Clinton,Precinct 25,U.S. House,4,Joe Mackey,DEM,29,12,33,74
+Clinton,Precinct 25,U.S. House,4,Write-In,,0,0,0,0
+Clinton,Precinct 25,State Senate,7,Brian W. Buchanan,REP,129,8,97,234
+Clinton,Precinct 25,State Senate,7,Tabitha N. Bartley,DEM,31,11,31,73
+Clinton,Precinct 25,State Representative,38,Heath R. Vannatter,REP,129,9,96,234
+Clinton,Precinct 25,State Representative,38,Tom Hedde,DEM,31,10,32,73
+Clinton,Precinct 26,Registered Voters,,,,,,,440
+Clinton,Precinct 26,Ballots Cast,,,,134,29,159,322
+Clinton,Precinct 26,President,,Trump / Pence,REP,115,20,116,251
+Clinton,Precinct 26,President,,Biden / Harris,DEM,16,6,40,62
+Clinton,Precinct 26,President,,Jorgensen / Cohen,LIB,2,1,2,5
+Clinton,Precinct 26,President,,Write-In,,0,0,0,0
+Clinton,Precinct 26,Governor,,Holcomb / Crouch,REP,87,23,107,217
+Clinton,Precinct 26,Governor,,Myers / Lawson,DEM,8,4,26,38
+Clinton,Precinct 26,Governor,,Rainwater II / Henry,LIB,39,1,25,65
+Clinton,Precinct 26,Attorney General,,Todd Rokita,REP,112,22,111,245
+Clinton,Precinct 26,Attorney General,,Jonathan Weinzapfel,DEM,20,5,41,66
+Clinton,Precinct 26,U.S. House,4,Jim Baird,REP,123,21,118,262
+Clinton,Precinct 26,U.S. House,4,Joe Mackey,DEM,10,6,37,53
+Clinton,Precinct 26,U.S. House,4,Write-In,,0,0,0,0
+Clinton,Precinct 26,State Senate,7,Brian W. Buchanan,REP,123,21,120,264
+Clinton,Precinct 26,State Senate,7,Tabitha N. Bartley,DEM,10,5,36,51
+Clinton,Precinct 26,State Representative,38,Heath R. Vannatter,REP,122,21,118,261
+Clinton,Precinct 26,State Representative,38,Tom Hedde,DEM,11,6,38,55
+Clinton,Precinct 27,Registered Voters,,,,,,,798
+Clinton,Precinct 27,Ballots Cast,,,,198,98,258,554
+Clinton,Precinct 27,President,,Trump / Pence,REP,146,41,160,347
+Clinton,Precinct 27,President,,Biden / Harris,DEM,47,55,87,189
+Clinton,Precinct 27,President,,Jorgensen / Cohen,LIB,4,1,5,10
+Clinton,Precinct 27,President,,Write-In,,0,0,0,0
+Clinton,Precinct 27,Governor,,Holcomb / Crouch,REP,116,59,135,310
+Clinton,Precinct 27,Governor,,Myers / Lawson,DEM,33,37,73,143
+Clinton,Precinct 27,Governor,,Rainwater II / Henry,LIB,49,2,46,97
+Clinton,Precinct 27,Attorney General,,Todd Rokita,REP,135,46,159,340
+Clinton,Precinct 27,Attorney General,,Jonathan Weinzapfel,DEM,60,50,93,203
+Clinton,Precinct 27,U.S. House,4,Jim Baird,REP,141,44,162,347
+Clinton,Precinct 27,U.S. House,4,Joe Mackey,DEM,55,50,89,194
+Clinton,Precinct 27,U.S. House,4,Write-In,,1,0,0,1
+Clinton,Precinct 27,State Senate,7,Brian W. Buchanan,REP,148,42,164,354
+Clinton,Precinct 27,State Senate,7,Tabitha N. Bartley,DEM,49,52,88,189
+Clinton,Precinct 27,State Representative,25,Donald J. Lehe,REP,145,45,161,351
+Clinton,Precinct 27,State Representative,25,Alex Sabol,DEM,52,47,90,189
+Clinton,Precinct 28,Registered Voters,,,,,,,654
+Clinton,Precinct 28,Ballots Cast,,,,152,63,289,504
+Clinton,Precinct 28,President,,Trump / Pence,REP,112,29,213,354
+Clinton,Precinct 28,President,,Biden / Harris,DEM,38,33,68,139
+Clinton,Precinct 28,President,,Jorgensen / Cohen,LIB,0,1,5,6
+Clinton,Precinct 28,President,,Write-In,,0,0,0,0
+Clinton,Precinct 28,Governor,,Holcomb / Crouch,REP,90,46,176,312
+Clinton,Precinct 28,Governor,,Myers / Lawson,DEM,30,15,53,98
+Clinton,Precinct 28,Governor,,Rainwater II / Henry,LIB,27,1,56,84
+Clinton,Precinct 28,Attorney General,,Todd Rokita,REP,111,37,210,358
+Clinton,Precinct 28,Attorney General,,Jonathan Weinzapfel,DEM,34,24,68,126
+Clinton,Precinct 28,U.S. House,4,Jim Baird,REP,106,32,215,353
+Clinton,Precinct 28,U.S. House,4,Joe Mackey,DEM,41,29,68,138
+Clinton,Precinct 28,U.S. House,4,Write-In,,0,0,0,0
+Clinton,Precinct 28,State Senate,7,Brian W. Buchanan,REP,115,36,216,367
+Clinton,Precinct 28,State Senate,7,Tabitha N. Bartley,DEM,33,26,64,123
+Clinton,Precinct 28,State Representative,25,Donald J. Lehe,REP,112,33,217,362
+Clinton,Precinct 28,State Representative,25,Alex Sabol,DEM,37,27,64,128
+Clinton,Precinct 29,Registered Voters,,,,,,,268
+Clinton,Precinct 29,Ballots Cast,,,,71,11,97,179
+Clinton,Precinct 29,President,,Trump / Pence,REP,60,3,74,137
+Clinton,Precinct 29,President,,Biden / Harris,DEM,9,8,22,39
+Clinton,Precinct 29,President,,Jorgensen / Cohen,LIB,2,0,0,2
+Clinton,Precinct 29,President,,Write-In,,0,0,0,0
+Clinton,Precinct 29,Governor,,Holcomb / Crouch,REP,45,4,53,102
+Clinton,Precinct 29,Governor,,Myers / Lawson,DEM,6,5,14,25
+Clinton,Precinct 29,Governor,,Rainwater II / Henry,LIB,20,1,29,50
+Clinton,Precinct 29,Attorney General,,Todd Rokita,REP,54,5,73,132
+Clinton,Precinct 29,Attorney General,,Jonathan Weinzapfel,DEM,17,5,20,42
+Clinton,Precinct 29,U.S. House,4,Jim Baird,REP,60,3,75,138
+Clinton,Precinct 29,U.S. House,4,Joe Mackey,DEM,11,6,20,37
+Clinton,Precinct 29,U.S. House,4,Write-In,,0,0,0,0
+Clinton,Precinct 29,State Senate,7,Brian W. Buchanan,REP,61,3,77,141
+Clinton,Precinct 29,State Senate,7,Tabitha N. Bartley,DEM,9,5,17,31
+Clinton,Precinct 29,State Representative,38,Heath R. Vannatter,REP,62,3,78,143
+Clinton,Precinct 29,State Representative,38,Tom Hedde,DEM,9,5,18,32
+Clinton,Precinct 30,Registered Voters,,,,,,,862
+Clinton,Precinct 30,Ballots Cast,,,,220,54,366,640
+Clinton,Precinct 30,President,,Trump / Pence,REP,183,26,298,507
+Clinton,Precinct 30,President,,Biden / Harris,DEM,33,26,59,118
+Clinton,Precinct 30,President,,Jorgensen / Cohen,LIB,2,1,5,8
+Clinton,Precinct 30,President,,Write-In,,0,0,0,0
+Clinton,Precinct 30,Governor,,Holcomb / Crouch,REP,135,33,260,428
+Clinton,Precinct 30,Governor,,Myers / Lawson,DEM,24,18,32,74
+Clinton,Precinct 30,Governor,,Rainwater II / Henry,LIB,59,0,69,128
+Clinton,Precinct 30,Attorney General,,Todd Rokita,REP,180,25,298,503
+Clinton,Precinct 30,Attorney General,,Jonathan Weinzapfel,DEM,38,27,58,123
+Clinton,Precinct 30,U.S. House,4,Jim Baird,REP,182,24,305,511
+Clinton,Precinct 30,U.S. House,4,Joe Mackey,DEM,34,26,51,111
+Clinton,Precinct 30,U.S. House,4,Write-In,,0,0,0,0
+Clinton,Precinct 30,State Senate,7,Brian W. Buchanan,REP,181,27,308,516
+Clinton,Precinct 30,State Senate,7,Tabitha N. Bartley,DEM,32,24,49,105
+Clinton,Precinct 30,State Representative,38,Heath R. Vannatter,REP,185,27,301,513
+Clinton,Precinct 30,State Representative,38,Tom Hedde,DEM,30,23,53,106
+Clinton,Precinct 31,Registered Voters,,,,,,,664
+Clinton,Precinct 31,Ballots Cast,,,,177,46,253,476
+Clinton,Precinct 31,President,,Trump / Pence,REP,146,20,189,355
+Clinton,Precinct 31,President,,Biden / Harris,DEM,25,24,50,99
+Clinton,Precinct 31,President,,Jorgensen / Cohen,LIB,5,0,11,16
+Clinton,Precinct 31,President,,Write-In,,0,0,1,1
+Clinton,Precinct 31,Governor,,Holcomb / Crouch,REP,111,25,163,299
+Clinton,Precinct 31,Governor,,Myers / Lawson,DEM,19,20,36,75
+Clinton,Precinct 31,Governor,,Rainwater II / Henry,LIB,46,1,53,100
+Clinton,Precinct 31,Attorney General,,Todd Rokita,REP,139,18,198,355
+Clinton,Precinct 31,Attorney General,,Jonathan Weinzapfel,DEM,29,28,51,108
+Clinton,Precinct 31,U.S. House,4,Jim Baird,REP,143,20,192,355
+Clinton,Precinct 31,U.S. House,4,Joe Mackey,DEM,27,26,56,109
+Clinton,Precinct 31,U.S. House,4,Write-In,,0,0,0,0
+Clinton,Precinct 31,State Senate,7,Brian W. Buchanan,REP,145,20,199,364
+Clinton,Precinct 31,State Senate,7,Tabitha N. Bartley,DEM,26,25,48,99
+Clinton,Precinct 31,State Representative,38,Heath R. Vannatter,REP,138,19,189,346
+Clinton,Precinct 31,State Representative,38,Tom Hedde,DEM,33,27,60,120
+Clinton,Precinct 32,Registered Voters,,,,,,,464
+Clinton,Precinct 32,Ballots Cast,,,,148,18,135,301
+Clinton,Precinct 32,President,,Trump / Pence,REP,112,6,95,213
+Clinton,Precinct 32,President,,Biden / Harris,DEM,30,12,37,79
+Clinton,Precinct 32,President,,Jorgensen / Cohen,LIB,3,0,3,6
+Clinton,Precinct 32,President,,Write-In,,0,0,0,0
+Clinton,Precinct 32,Governor,,Holcomb / Crouch,REP,69,9,67,145
+Clinton,Precinct 32,Governor,,Myers / Lawson,DEM,28,9,32,69
+Clinton,Precinct 32,Governor,,Rainwater II / Henry,LIB,46,0,32,78
+Clinton,Precinct 32,Attorney General,,Todd Rokita,REP,105,6,85,196
+Clinton,Precinct 32,Attorney General,,Jonathan Weinzapfel,DEM,39,12,45,96
+Clinton,Precinct 32,U.S. House,4,Jim Baird,REP,108,6,82,196
+Clinton,Precinct 32,U.S. House,4,Joe Mackey,DEM,38,12,46,96
+Clinton,Precinct 32,U.S. House,4,Write-In,,0,0,0,0
+Clinton,Precinct 32,State Senate,7,Brian W. Buchanan,REP,110,6,89,205
+Clinton,Precinct 32,State Senate,7,Tabitha N. Bartley,DEM,35,12,41,88
+Clinton,Precinct 32,State Representative,38,Heath R. Vannatter,REP,107,6,87,200
+Clinton,Precinct 32,State Representative,38,Tom Hedde,DEM,36,12,42,90
+Clinton,Precinct 33,Registered Voters,,,,,,,546
+Clinton,Precinct 33,Ballots Cast,,,,198,22,199,419
+Clinton,Precinct 33,President,,Trump / Pence,REP,176,15,159,350
+Clinton,Precinct 33,President,,Biden / Harris,DEM,18,5,36,59
+Clinton,Precinct 33,President,,Jorgensen / Cohen,LIB,3,2,2,7
+Clinton,Precinct 33,President,,Write-In,,0,0,0,0
+Clinton,Precinct 33,Governor,,Holcomb / Crouch,REP,116,13,114,243
+Clinton,Precinct 33,Governor,,Myers / Lawson,DEM,13,2,37,52
+Clinton,Precinct 33,Governor,,Rainwater II / Henry,LIB,68,4,46,118
+Clinton,Precinct 33,Attorney General,,Todd Rokita,REP,164,17,154,335
+Clinton,Precinct 33,Attorney General,,Jonathan Weinzapfel,DEM,31,3,41,75
+Clinton,Precinct 33,U.S. House,4,Jim Baird,REP,169,18,149,336
+Clinton,Precinct 33,U.S. House,4,Joe Mackey,DEM,26,2,42,70
+Clinton,Precinct 33,U.S. House,4,Write-In,,1,0,0,1
+Clinton,Precinct 33,State Senate,7,Brian W. Buchanan,REP,172,18,153,343
+Clinton,Precinct 33,State Senate,7,Tabitha N. Bartley,DEM,22,2,39,63
+Clinton,Precinct 33,State Representative,38,Heath R. Vannatter,REP,174,17,156,347
+Clinton,Precinct 33,State Representative,38,Tom Hedde,DEM,20,3,38,61
+Clinton,Precinct 34,Registered Voters,,,,,,,1055
+Clinton,Precinct 34,Ballots Cast,,,,248,84,372,704
+Clinton,Precinct 34,President,,Trump / Pence,REP,173,45,268,486
+Clinton,Precinct 34,President,,Biden / Harris,DEM,58,36,91,185
+Clinton,Precinct 34,President,,Jorgensen / Cohen,LIB,12,1,7,20
+Clinton,Precinct 34,President,,Write-In,,1,0,2,3
+Clinton,Precinct 34,Governor,,Holcomb / Crouch,REP,149,52,231,432
+Clinton,Precinct 34,Governor,,Myers / Lawson,DEM,35,26,72,133
+Clinton,Precinct 34,Governor,,Rainwater II / Henry,LIB,60,4,66,130
+Clinton,Precinct 34,Attorney General,,Todd Rokita,REP,185,49,263,497
+Clinton,Precinct 34,Attorney General,,Jonathan Weinzapfel,DEM,58,32,94,184
+Clinton,Precinct 34,U.S. House,4,Jim Baird,REP,184,49,271,504
+Clinton,Precinct 34,U.S. House,4,Joe Mackey,DEM,57,32,96,185
+Clinton,Precinct 34,U.S. House,4,Write-In,,0,0,0,0
+Clinton,Precinct 34,State Senate,7,Brian W. Buchanan,REP,185,48,276,509
+Clinton,Precinct 34,State Senate,7,Tabitha N. Bartley,DEM,57,31,90,178
+Clinton,Precinct 34,State Representative,25,Donald J. Lehe,REP,185,49,273,507
+Clinton,Precinct 34,State Representative,25,Alex Sabol,DEM,55,33,90,178
+Clinton,Precinct 35,Registered Voters,,,,,,,835
+Clinton,Precinct 35,Ballots Cast,,,,221,58,355,634
+Clinton,Precinct 35,President,,Trump / Pence,REP,188,34,288,510
+Clinton,Precinct 35,President,,Biden / Harris,DEM,27,22,58,107
+Clinton,Precinct 35,President,,Jorgensen / Cohen,LIB,4,2,4,10
+Clinton,Precinct 35,President,,Write-In,,1,0,1,2
+Clinton,Precinct 35,Governor,,Holcomb / Crouch,REP,137,41,250,428
+Clinton,Precinct 35,Governor,,Myers / Lawson,DEM,23,14,40,77
+Clinton,Precinct 35,Governor,,Rainwater II / Henry,LIB,59,0,62,121
+Clinton,Precinct 35,Attorney General,,Todd Rokita,REP,176,35,289,500
+Clinton,Precinct 35,Attorney General,,Jonathan Weinzapfel,DEM,42,19,62,123
+Clinton,Precinct 35,U.S. House,4,Jim Baird,REP,188,33,286,507
+Clinton,Precinct 35,U.S. House,4,Joe Mackey,DEM,30,22,62,114
+Clinton,Precinct 35,U.S. House,4,Write-In,,0,0,0,0
+Clinton,Precinct 35,State Senate,7,Brian W. Buchanan,REP,187,33,291,511
+Clinton,Precinct 35,State Senate,7,Tabitha N. Bartley,DEM,31,21,59,111
+Clinton,Precinct 35,State Representative,25,Donald J. Lehe,REP,181,34,293,508
+Clinton,Precinct 35,State Representative,25,Alex Sabol,DEM,36,17,58,111
+Clinton,Precinct 36,Registered Voters,,,,,,,337
+Clinton,Precinct 36,Ballots Cast,,,,113,28,118,259
+Clinton,Precinct 36,President,,Trump / Pence,REP,97,17,93,207
+Clinton,Precinct 36,President,,Biden / Harris,DEM,14,11,24,49
+Clinton,Precinct 36,President,,Jorgensen / Cohen,LIB,2,0,0,2
+Clinton,Precinct 36,President,,Write-In,,0,0,1,1
+Clinton,Precinct 36,Governor,,Holcomb / Crouch,REP,65,13,65,143
+Clinton,Precinct 36,Governor,,Myers / Lawson,DEM,12,12,15,39
+Clinton,Precinct 36,Governor,,Rainwater II / Henry,LIB,35,1,38,74
+Clinton,Precinct 36,Attorney General,,Todd Rokita,REP,91,12,89,192
+Clinton,Precinct 36,Attorney General,,Jonathan Weinzapfel,DEM,20,14,29,63
+Clinton,Precinct 36,U.S. House,4,Jim Baird,REP,96,12,93,201
+Clinton,Precinct 36,U.S. House,4,Joe Mackey,DEM,15,14,22,51
+Clinton,Precinct 36,U.S. House,4,Write-In,,0,0,0,0
+Clinton,Precinct 36,State Senate,7,Brian W. Buchanan,REP,94,11,95,200
+Clinton,Precinct 36,State Senate,7,Tabitha N. Bartley,DEM,15,15,22,52
+Clinton,Precinct 37,Registered Voters,,,,,,,759
+Clinton,Precinct 37,Ballots Cast,,,,81,55,391,527
+Clinton,Precinct 37,President,,Trump / Pence,REP,63,21,287,371
+Clinton,Precinct 37,President,,Biden / Harris,DEM,16,30,89,135
+Clinton,Precinct 37,President,,Jorgensen / Cohen,LIB,1,2,9,12
+Clinton,Precinct 37,President,,Write-In,,0,0,0,0
+Clinton,Precinct 37,Governor,,Holcomb / Crouch,REP,48,32,270,350
+Clinton,Precinct 37,Governor,,Myers / Lawson,DEM,12,18,57,87
+Clinton,Precinct 37,Governor,,Rainwater II / Henry,LIB,19,1,59,79
+Clinton,Precinct 37,Attorney General,,Todd Rokita,REP,58,26,288,372
+Clinton,Precinct 37,Attorney General,,Jonathan Weinzapfel,DEM,21,28,90,139
+Clinton,Precinct 37,U.S. House,4,Jim Baird,REP,59,26,292,377
+Clinton,Precinct 37,U.S. House,4,Joe Mackey,DEM,19,28,81,128
+Clinton,Precinct 37,U.S. House,4,Write-In,,0,0,1,1
+Clinton,Precinct 37,State Senate,7,Brian W. Buchanan,REP,62,25,290,377
+Clinton,Precinct 37,State Senate,7,Tabitha N. Bartley,DEM,15,27,82,124
+Clinton,Precinct 37,State Representative,38,Heath R. Vannatter,REP,59,26,289,374
+Clinton,Precinct 37,State Representative,38,Tom Hedde,DEM,18,25,85,128
+Clinton,Precinct 38,Registered Voters,,,,,,,450
+Clinton,Precinct 38,Ballots Cast,,,,111,22,189,322
+Clinton,Precinct 38,President,,Trump / Pence,REP,94,11,159,264
+Clinton,Precinct 38,President,,Biden / Harris,DEM,16,9,24,49
+Clinton,Precinct 38,President,,Jorgensen / Cohen,LIB,1,1,4,6
+Clinton,Precinct 38,President,,Write-In,,0,0,1,1
+Clinton,Precinct 38,Governor,,Holcomb / Crouch,REP,63,15,121,199
+Clinton,Precinct 38,Governor,,Myers / Lawson,DEM,13,7,15,35
+Clinton,Precinct 38,Governor,,Rainwater II / Henry,LIB,33,0,50,83
+Clinton,Precinct 38,Attorney General,,Todd Rokita,REP,87,12,161,260
+Clinton,Precinct 38,Attorney General,,Jonathan Weinzapfel,DEM,20,9,26,55
+Clinton,Precinct 38,U.S. House,4,Jim Baird,REP,89,10,161,260
+Clinton,Precinct 38,U.S. House,4,Joe Mackey,DEM,20,12,25,57
+Clinton,Precinct 38,U.S. House,4,Write-In,,0,0,0,0
+Clinton,Precinct 38,State Senate,7,Brian W. Buchanan,REP,93,12,163,268
+Clinton,Precinct 38,State Senate,7,Tabitha N. Bartley,DEM,15,9,22,46
+Clinton,Precinct 38,State Representative,38,Heath R. Vannatter,REP,88,10,157,255
+Clinton,Precinct 38,State Representative,38,Tom Hedde,DEM,20,11,29,60
+Clinton,Precinct 39,Registered Voters,,,,,,,762
+Clinton,Precinct 39,Ballots Cast,,,,135,49,353,537
+Clinton,Precinct 39,President,,Trump / Pence,REP,118,26,276,420
+Clinton,Precinct 39,President,,Biden / Harris,DEM,16,20,71,107
+Clinton,Precinct 39,President,,Jorgensen / Cohen,LIB,1,2,4,7
+Clinton,Precinct 39,President,,Write-In,,0,0,0,0
+Clinton,Precinct 39,Governor,,Holcomb / Crouch,REP,89,29,229,347
+Clinton,Precinct 39,Governor,,Myers / Lawson,DEM,7,16,45,68
+Clinton,Precinct 39,Governor,,Rainwater II / Henry,LIB,37,2,72,111
+Clinton,Precinct 39,Attorney General,,Todd Rokita,REP,107,28,271,406
+Clinton,Precinct 39,Attorney General,,Jonathan Weinzapfel,DEM,23,17,72,112
+Clinton,Precinct 39,U.S. House,4,Jim Baird,REP,113,26,272,411
+Clinton,Precinct 39,U.S. House,4,Joe Mackey,DEM,19,21,71,111
+Clinton,Precinct 39,U.S. House,4,Write-In,,0,0,0,0
+Clinton,Precinct 39,State Senate,7,Brian W. Buchanan,REP,114,28,276,418
+Clinton,Precinct 39,State Senate,7,Tabitha N. Bartley,DEM,18,18,67,103
+Clinton,Precinct 39,State Representative,25,Donald J. Lehe,REP,113,26,280,419
+Clinton,Precinct 39,State Representative,25,Alex Sabol,DEM,18,20,62,100

@@ -1,0 +1,476 @@
+county,precinct,office,district,candidate,party,election_day,absentee,early_voting,votes
+Fayette,C-1,Registered Voters,,,,,,,301
+Fayette,C-1,Ballots Cast,,,,39,19,63,121
+Fayette,C-1,President,,Trump / Pence,REP,29,8,45,82
+Fayette,C-1,President,,Biden / Harris,DEM,9,8,16,33
+Fayette,C-1,President,,Jo Jorgensen And Jeremy (Spike) Cohe,LIB,0,2,2,4
+Fayette,C-1,President,,Write-In,,0,0,0,0
+Fayette,C-1,Governor,,Holcomb / Crouch,REP,25,6,44,75
+Fayette,C-1,Governor,,Myers / Lawson,DEM,8,8,15,31
+Fayette,C-1,Governor,,Rainwater II / Henry,LIB,5,2,3,10
+Fayette,C-1,Attorney General,,Todd Rokita / Jonathan Weinzapfel,REP,27,5,43,75
+Fayette,C-1,Attorney General,,Jonathan Weinzapfel,DEM,10,9,19,38
+Fayette,C-1,U.S. House,6,Greg Pence,REP,29,5,41,75
+Fayette,C-1,U.S. House,6,Jeannine Lee Lake,DEM,9,9,17,35
+Fayette,C-1,U.S. House,6,Tom Ferkinhoff,LIB,1,2,3,6
+Fayette,C-1,U.S. House,6,Write-In,,0,0,0,0
+Fayette,C-1,State Senate,42,Jean Leising,REP,29,10,47,86
+Fayette,C-1,State Representative,55,Cindy Meyer Ziemke,REP,30,9,49,88
+Fayette,C-2,Registered Voters,,,,,,,1027
+Fayette,C-2,Ballots Cast,,,,289,62,307,658
+Fayette,C-2,President,,Trump / Pence,REP,228,25,204,457
+Fayette,C-2,President,,Biden / Harris,DEM,54,35,96,185
+Fayette,C-2,President,,Jo Jorgensen And Jeremy (Spike) Cohe,LIB,3,1,4,8
+Fayette,C-2,President,,Write-In,,1,0,0,1
+Fayette,C-2,Governor,,Holcomb / Crouch,REP,193,37,207,437
+Fayette,C-2,Governor,,Myers / Lawson,DEM,36,24,76,136
+Fayette,C-2,Governor,,Rainwater II / Henry,LIB,58,1,20,79
+Fayette,C-2,Attorney General,,Todd Rokita / Jonathan Weinzapfel,REP,211,29,197,437
+Fayette,C-2,Attorney General,,Jonathan Weinzapfel,DEM,60,31,98,189
+Fayette,C-2,U.S. House,6,Greg Pence,REP,228,29,204,461
+Fayette,C-2,U.S. House,6,Jeannine Lee Lake,DEM,51,31,97,179
+Fayette,C-2,U.S. House,6,Tom Ferkinhoff,LIB,5,0,3,8
+Fayette,C-2,U.S. House,6,Write-In,,0,0,0,0
+Fayette,C-2,State Senate,42,Jean Leising,REP,241,44,228,513
+Fayette,C-2,State Representative,55,Cindy Meyer Ziemke,REP,225,41,214,480
+Fayette,C-3,Registered Voters,,,,,,,702
+Fayette,C-3,Ballots Cast,,,,185,36,218,439
+Fayette,C-3,President,,Trump / Pence,REP,150,19,159,328
+Fayette,C-3,President,,Biden / Harris,DEM,30,17,54,101
+Fayette,C-3,President,,Jo Jorgensen And Jeremy (Spike) Cohe,LIB,4,0,2,6
+Fayette,C-3,President,,Write-In,,0,0,0,0
+Fayette,C-3,Governor,,Holcomb / Crouch,REP,127,20,163,310
+Fayette,C-3,Governor,,Myers / Lawson,DEM,22,15,38,75
+Fayette,C-3,Governor,,Rainwater II / Henry,LIB,35,1,14,50
+Fayette,C-3,Attorney General,,Todd Rokita / Jonathan Weinzapfel,REP,144,19,161,324
+Fayette,C-3,Attorney General,,Jonathan Weinzapfel,DEM,33,16,47,96
+Fayette,C-3,U.S. House,6,Greg Pence,REP,154,17,156,327
+Fayette,C-3,U.S. House,6,Jeannine Lee Lake,DEM,27,17,54,98
+Fayette,C-3,U.S. House,6,Tom Ferkinhoff,LIB,2,0,3,5
+Fayette,C-3,U.S. House,6,Write-In,,0,0,0,0
+Fayette,C-3,State Senate,42,Jean Leising,REP,160,25,180,365
+Fayette,C-3,State Representative,55,Cindy Meyer Ziemke,REP,155,22,165,342
+Fayette,C-4,Registered Voters,,,,,,,481
+Fayette,C-4,Ballots Cast,,,,82,21,111,214
+Fayette,C-4,President,,Trump / Pence,REP,61,13,79,153
+Fayette,C-4,President,,Biden / Harris,DEM,19,8,29,56
+Fayette,C-4,President,,Jo Jorgensen And Jeremy (Spike) Cohe,LIB,1,0,2,3
+Fayette,C-4,President,,Write-In,,0,0,0,0
+Fayette,C-4,Governor,,Holcomb / Crouch,REP,58,12,80,150
+Fayette,C-4,Governor,,Myers / Lawson,DEM,9,9,23,41
+Fayette,C-4,Governor,,Rainwater II / Henry,LIB,12,0,5,17
+Fayette,C-4,Attorney General,,Todd Rokita / Jonathan Weinzapfel,REP,54,13,71,138
+Fayette,C-4,Attorney General,,Jonathan Weinzapfel,DEM,19,8,29,56
+Fayette,C-4,U.S. House,6,Greg Pence,REP,62,14,74,150
+Fayette,C-4,U.S. House,6,Jeannine Lee Lake,DEM,17,7,29,53
+Fayette,C-4,U.S. House,6,Tom Ferkinhoff,LIB,1,0,1,2
+Fayette,C-4,U.S. House,6,Write-In,,0,0,0,0
+Fayette,C-4,State Senate,42,Jean Leising,REP,70,14,84,168
+Fayette,C-4,State Representative,55,Cindy Meyer Ziemke,REP,62,13,78,153
+Fayette,C-5,Registered Voters,,,,,,,364
+Fayette,C-5,Ballots Cast,,,,76,15,87,178
+Fayette,C-5,President,,Trump / Pence,REP,64,11,65,140
+Fayette,C-5,President,,Biden / Harris,DEM,11,4,18,33
+Fayette,C-5,President,,Jo Jorgensen And Jeremy (Spike) Cohe,LIB,1,0,1,2
+Fayette,C-5,President,,Write-In,,0,0,0,0
+Fayette,C-5,Governor,,Holcomb / Crouch,REP,51,12,58,121
+Fayette,C-5,Governor,,Myers / Lawson,DEM,9,2,17,28
+Fayette,C-5,Governor,,Rainwater II / Henry,LIB,15,0,10,25
+Fayette,C-5,Attorney General,,Todd Rokita / Jonathan Weinzapfel,REP,57,13,61,131
+Fayette,C-5,Attorney General,,Jonathan Weinzapfel,DEM,13,2,18,33
+Fayette,C-5,U.S. House,6,Greg Pence,REP,62,13,61,136
+Fayette,C-5,U.S. House,6,Jeannine Lee Lake,DEM,10,2,20,32
+Fayette,C-5,U.S. House,6,Tom Ferkinhoff,LIB,3,0,2,5
+Fayette,C-5,U.S. House,6,Write-In,,0,0,0,0
+Fayette,C-5,State Senate,42,Jean Leising,REP,67,13,65,145
+Fayette,C-5,State Representative,55,Cindy Meyer Ziemke,REP,60,11,63,134
+Fayette,C-6,Registered Voters,,,,,,,518
+Fayette,C-6,Ballots Cast,,,,145,29,115,289
+Fayette,C-6,President,,Trump / Pence,REP,104,13,84,201
+Fayette,C-6,President,,Biden / Harris,DEM,35,16,31,82
+Fayette,C-6,President,,Jo Jorgensen And Jeremy (Spike) Cohe,LIB,5,0,0,5
+Fayette,C-6,President,,Write-In,,0,0,0,0
+Fayette,C-6,Governor,,Holcomb / Crouch,REP,87,15,75,177
+Fayette,C-6,Governor,,Myers / Lawson,DEM,28,12,24,64
+Fayette,C-6,Governor,,Rainwater II / Henry,LIB,28,1,15,44
+Fayette,C-6,Attorney General,,Todd Rokita / Jonathan Weinzapfel,REP,95,13,78,186
+Fayette,C-6,Attorney General,,Jonathan Weinzapfel,DEM,42,15,32,89
+Fayette,C-6,U.S. House,6,Greg Pence,REP,102,15,79,196
+Fayette,C-6,U.S. House,6,Jeannine Lee Lake,DEM,33,13,33,79
+Fayette,C-6,U.S. House,6,Tom Ferkinhoff,LIB,8,0,0,8
+Fayette,C-6,U.S. House,6,Write-In,,0,0,0,0
+Fayette,C-6,State Senate,42,Jean Leising,REP,115,15,84,214
+Fayette,C-6,State Representative,55,Cindy Meyer Ziemke,REP,110,14,85,209
+Fayette,C-7,Registered Voters,,,,,,,511
+Fayette,C-7,Ballots Cast,,,,120,32,120,272
+Fayette,C-7,President,,Trump / Pence,REP,95,17,72,184
+Fayette,C-7,President,,Biden / Harris,DEM,21,13,45,79
+Fayette,C-7,President,,Jo Jorgensen And Jeremy (Spike) Cohe,LIB,4,1,1,6
+Fayette,C-7,President,,Write-In,,0,0,0,0
+Fayette,C-7,Governor,,Holcomb / Crouch,REP,89,19,75,183
+Fayette,C-7,Governor,,Myers / Lawson,DEM,19,7,37,63
+Fayette,C-7,Governor,,Rainwater II / Henry,LIB,10,1,5,16
+Fayette,C-7,Attorney General,,Todd Rokita / Jonathan Weinzapfel,REP,89,21,74,184
+Fayette,C-7,Attorney General,,Jonathan Weinzapfel,DEM,27,8,44,79
+Fayette,C-7,U.S. House,6,Greg Pence,REP,86,19,73,178
+Fayette,C-7,U.S. House,6,Jeannine Lee Lake,DEM,23,9,46,78
+Fayette,C-7,U.S. House,6,Tom Ferkinhoff,LIB,8,1,0,9
+Fayette,C-7,U.S. House,6,Write-In,,0,0,0,0
+Fayette,C-7,State Senate,42,Jean Leising,REP,101,20,83,204
+Fayette,C-7,State Representative,55,Cindy Meyer Ziemke,REP,93,20,82,195
+Fayette,C-8,Registered Voters,,,,,,,420
+Fayette,C-8,Ballots Cast,,,,109,30,100,239
+Fayette,C-8,President,,Trump / Pence,REP,83,13,67,163
+Fayette,C-8,President,,Biden / Harris,DEM,22,15,29,66
+Fayette,C-8,President,,Jo Jorgensen And Jeremy (Spike) Cohe,LIB,3,1,3,7
+Fayette,C-8,President,,Write-In,,0,0,0,0
+Fayette,C-8,Governor,,Holcomb / Crouch,REP,70,15,64,149
+Fayette,C-8,Governor,,Myers / Lawson,DEM,18,13,25,56
+Fayette,C-8,Governor,,Rainwater II / Henry,LIB,20,0,9,29
+Fayette,C-8,Attorney General,,Todd Rokita / Jonathan Weinzapfel,REP,77,13,63,153
+Fayette,C-8,Attorney General,,Jonathan Weinzapfel,DEM,24,13,32,69
+Fayette,C-8,U.S. House,6,Greg Pence,REP,81,13,68,162
+Fayette,C-8,U.S. House,6,Jeannine Lee Lake,DEM,19,14,28,61
+Fayette,C-8,U.S. House,6,Tom Ferkinhoff,LIB,6,0,2,8
+Fayette,C-8,U.S. House,6,Write-In,,0,0,0,0
+Fayette,C-8,State Senate,42,Jean Leising,REP,88,17,71,176
+Fayette,C-8,State Representative,55,Cindy Meyer Ziemke,REP,83,15,74,172
+Fayette,C-9,Registered Voters,,,,,,,631
+Fayette,C-9,Ballots Cast,,,,138,54,180,372
+Fayette,C-9,President,,Trump / Pence,REP,108,30,132,270
+Fayette,C-9,President,,Biden / Harris,DEM,24,24,44,92
+Fayette,C-9,President,,Jo Jorgensen And Jeremy (Spike) Cohe,LIB,3,0,1,4
+Fayette,C-9,President,,Write-In,,1,0,0,1
+Fayette,C-9,Governor,,Holcomb / Crouch,REP,85,40,131,256
+Fayette,C-9,Governor,,Myers / Lawson,DEM,21,13,25,59
+Fayette,C-9,Governor,,Rainwater II / Henry,LIB,28,1,18,47
+Fayette,C-9,Attorney General,,Todd Rokita / Jonathan Weinzapfel,REP,96,33,136,265
+Fayette,C-9,Attorney General,,Jonathan Weinzapfel,DEM,30,19,38,87
+Fayette,C-9,U.S. House,6,Greg Pence,REP,104,31,142,277
+Fayette,C-9,U.S. House,6,Jeannine Lee Lake,DEM,29,21,33,83
+Fayette,C-9,U.S. House,6,Tom Ferkinhoff,LIB,4,0,0,4
+Fayette,C-9,U.S. House,6,Write-In,,0,0,0,0
+Fayette,C-9,State Senate,42,Jean Leising,REP,108,42,152,302
+Fayette,C-9,State Representative,55,Cindy Meyer Ziemke,REP,104,38,144,286
+Fayette,C-10,Registered Voters,,,,,,,603
+Fayette,C-10,Ballots Cast,,,,152,15,143,310
+Fayette,C-10,President,,Trump / Pence,REP,124,3,110,237
+Fayette,C-10,President,,Biden / Harris,DEM,26,12,29,67
+Fayette,C-10,President,,Jo Jorgensen And Jeremy (Spike) Cohe,LIB,2,0,1,3
+Fayette,C-10,President,,Write-In,,0,0,0,0
+Fayette,C-10,Governor,,Holcomb / Crouch,REP,96,8,102,206
+Fayette,C-10,Governor,,Myers / Lawson,DEM,18,7,24,49
+Fayette,C-10,Governor,,Rainwater II / Henry,LIB,38,0,11,49
+Fayette,C-10,Attorney General,,Todd Rokita / Jonathan Weinzapfel,REP,111,4,105,220
+Fayette,C-10,Attorney General,,Jonathan Weinzapfel,DEM,34,11,28,73
+Fayette,C-10,U.S. House,6,Greg Pence,REP,118,4,111,233
+Fayette,C-10,U.S. House,6,Jeannine Lee Lake,DEM,25,11,28,64
+Fayette,C-10,U.S. House,6,Tom Ferkinhoff,LIB,7,0,0,7
+Fayette,C-10,U.S. House,6,Write-In,,0,0,0,0
+Fayette,C-10,State Senate,42,Jean Leising,REP,127,8,120,255
+Fayette,C-10,State Representative,55,Cindy Meyer Ziemke,REP,115,7,114,236
+Fayette,C-11,Registered Voters,,,,,,,1262
+Fayette,C-11,Ballots Cast,,,,358,102,445,905
+Fayette,C-11,President,,Trump / Pence,REP,277,41,344,662
+Fayette,C-11,President,,Biden / Harris,DEM,74,58,92,224
+Fayette,C-11,President,,Jo Jorgensen And Jeremy (Spike) Cohe,LIB,4,1,7,12
+Fayette,C-11,President,,Write-In,,0,0,0,0
+Fayette,C-11,Governor,,Holcomb / Crouch,REP,246,54,331,631
+Fayette,C-11,Governor,,Myers / Lawson,DEM,47,43,70,160
+Fayette,C-11,Governor,,Rainwater II / Henry,LIB,61,4,39,104
+Fayette,C-11,Attorney General,,Todd Rokita / Jonathan Weinzapfel,REP,264,51,345,660
+Fayette,C-11,Attorney General,,Jonathan Weinzapfel,DEM,63,48,87,198
+Fayette,C-11,U.S. House,6,Greg Pence,REP,276,46,344,666
+Fayette,C-11,U.S. House,6,Jeannine Lee Lake,DEM,69,52,87,208
+Fayette,C-11,U.S. House,6,Tom Ferkinhoff,LIB,4,3,7,14
+Fayette,C-11,U.S. House,6,Write-In,,0,0,0,0
+Fayette,C-11,State Senate,42,Jean Leising,REP,302,64,362,728
+Fayette,C-11,State Representative,55,Cindy Meyer Ziemke,REP,283,55,347,685
+Fayette,C-12,Registered Voters,,,,,,,756
+Fayette,C-12,Ballots Cast,,,,230,39,223,492
+Fayette,C-12,President,,Trump / Pence,REP,188,20,174,382
+Fayette,C-12,President,,Biden / Harris,DEM,28,18,38,84
+Fayette,C-12,President,,Jo Jorgensen And Jeremy (Spike) Cohe,LIB,10,0,4,14
+Fayette,C-12,President,,Write-In,,2,0,0,2
+Fayette,C-12,Governor,,Holcomb / Crouch,REP,164,24,156,344
+Fayette,C-12,Governor,,Myers / Lawson,DEM,19,14,33,66
+Fayette,C-12,Governor,,Rainwater II / Henry,LIB,43,1,33,77
+Fayette,C-12,Attorney General,,Todd Rokita / Jonathan Weinzapfel,REP,169,21,174,364
+Fayette,C-12,Attorney General,,Jonathan Weinzapfel,DEM,41,15,40,96
+Fayette,C-12,U.S. House,6,Greg Pence,REP,187,20,180,387
+Fayette,C-12,U.S. House,6,Jeannine Lee Lake,DEM,26,17,36,79
+Fayette,C-12,U.S. House,6,Tom Ferkinhoff,LIB,11,0,5,16
+Fayette,C-12,U.S. House,6,Write-In,,0,0,0,0
+Fayette,C-12,State Senate,42,Jean Leising,REP,199,24,187,410
+Fayette,C-12,State Representative,55,Cindy Meyer Ziemke,REP,187,26,179,392
+Fayette,C-13,Registered Voters,,,,,,,641
+Fayette,C-13,Ballots Cast,,,,214,40,213,467
+Fayette,C-13,President,,Trump / Pence,REP,184,23,164,371
+Fayette,C-13,President,,Biden / Harris,DEM,24,17,46,87
+Fayette,C-13,President,,Jo Jorgensen And Jeremy (Spike) Cohe,LIB,5,0,2,7
+Fayette,C-13,President,,Write-In,,0,0,0,0
+Fayette,C-13,Governor,,Holcomb / Crouch,REP,148,26,165,339
+Fayette,C-13,Governor,,Myers / Lawson,DEM,21,11,35,67
+Fayette,C-13,Governor,,Rainwater II / Henry,LIB,41,2,11,54
+Fayette,C-13,Attorney General,,Todd Rokita / Jonathan Weinzapfel,REP,166,24,161,351
+Fayette,C-13,Attorney General,,Jonathan Weinzapfel,DEM,39,12,45,96
+Fayette,C-13,U.S. House,6,Greg Pence,REP,176,22,162,360
+Fayette,C-13,U.S. House,6,Jeannine Lee Lake,DEM,26,16,46,88
+Fayette,C-13,U.S. House,6,Tom Ferkinhoff,LIB,9,1,1,11
+Fayette,C-13,U.S. House,6,Write-In,,0,0,0,0
+Fayette,C-13,State Senate,42,Jean Leising,REP,195,28,169,392
+Fayette,C-13,State Representative,55,Cindy Meyer Ziemke,REP,178,26,161,365
+Fayette,H-1,Registered Voters,,,,,,,448
+Fayette,H-1,Ballots Cast,,,,112,32,104,248
+Fayette,H-1,President,,Trump / Pence,REP,87,16,80,183
+Fayette,H-1,President,,Biden / Harris,DEM,23,15,23,61
+Fayette,H-1,President,,Jo Jorgensen And Jeremy (Spike) Cohe,LIB,2,0,1,3
+Fayette,H-1,President,,Write-In,,0,0,0,0
+Fayette,H-1,Governor,,Holcomb / Crouch,REP,76,19,76,171
+Fayette,H-1,Governor,,Myers / Lawson,DEM,20,11,15,46
+Fayette,H-1,Governor,,Rainwater II / Henry,LIB,13,1,12,26
+Fayette,H-1,Attorney General,,Todd Rokita / Jonathan Weinzapfel,REP,75,14,76,165
+Fayette,H-1,Attorney General,,Jonathan Weinzapfel,DEM,31,15,23,69
+Fayette,H-1,U.S. House,6,Greg Pence,REP,82,15,76,173
+Fayette,H-1,U.S. House,6,Jeannine Lee Lake,DEM,24,14,22,60
+Fayette,H-1,U.S. House,6,Tom Ferkinhoff,LIB,2,0,2,4
+Fayette,H-1,U.S. House,6,Write-In,,0,0,1,1
+Fayette,H-1,State Senate,42,Jean Leising,REP,89,18,80,187
+Fayette,H-1,State Representative,55,Cindy Meyer Ziemke,REP,91,15,79,185
+Fayette,H-2,Registered Voters,,,,,,,548
+Fayette,H-2,Ballots Cast,,,,158,38,173,369
+Fayette,H-2,President,,Trump / Pence,REP,133,24,122,279
+Fayette,H-2,President,,Biden / Harris,DEM,18,13,48,79
+Fayette,H-2,President,,Jo Jorgensen And Jeremy (Spike) Cohe,LIB,4,0,3,7
+Fayette,H-2,President,,Write-In,,1,0,0,1
+Fayette,H-2,Governor,,Holcomb / Crouch,REP,105,25,119,249
+Fayette,H-2,Governor,,Myers / Lawson,DEM,17,11,39,67
+Fayette,H-2,Governor,,Rainwater II / Henry,LIB,34,0,14,48
+Fayette,H-2,Attorney General,,Todd Rokita / Jonathan Weinzapfel,REP,120,25,118,263
+Fayette,H-2,Attorney General,,Jonathan Weinzapfel,DEM,29,11,47,87
+Fayette,H-2,U.S. House,6,Greg Pence,REP,131,24,121,276
+Fayette,H-2,U.S. House,6,Jeannine Lee Lake,DEM,21,12,45,78
+Fayette,H-2,U.S. House,6,Tom Ferkinhoff,LIB,4,0,2,6
+Fayette,H-2,U.S. House,6,Write-In,,0,0,0,0
+Fayette,H-2,State Senate,42,Jean Leising,REP,145,24,134,303
+Fayette,H-2,State Representative,55,Cindy Meyer Ziemke,REP,135,22,128,285
+Fayette,H-3,Registered Voters,,,,,,,459
+Fayette,H-3,Ballots Cast,,,,129,17,122,268
+Fayette,H-3,President,,Trump / Pence,REP,99,11,82,192
+Fayette,H-3,President,,Biden / Harris,DEM,27,6,37,70
+Fayette,H-3,President,,Jo Jorgensen And Jeremy (Spike) Cohe,LIB,3,0,2,5
+Fayette,H-3,President,,Write-In,,0,0,0,0
+Fayette,H-3,Governor,,Holcomb / Crouch,REP,84,11,73,168
+Fayette,H-3,Governor,,Myers / Lawson,DEM,21,4,29,54
+Fayette,H-3,Governor,,Rainwater II / Henry,LIB,22,1,17,40
+Fayette,H-3,Attorney General,,Todd Rokita / Jonathan Weinzapfel,REP,88,10,77,175
+Fayette,H-3,Attorney General,,Jonathan Weinzapfel,DEM,36,6,38,80
+Fayette,H-3,U.S. House,6,Greg Pence,REP,96,10,82,188
+Fayette,H-3,U.S. House,6,Jeannine Lee Lake,DEM,25,6,34,65
+Fayette,H-3,U.S. House,6,Tom Ferkinhoff,LIB,5,0,3,8
+Fayette,H-3,U.S. House,6,Write-In,,0,0,0,0
+Fayette,H-3,State Senate,42,Jean Leising,REP,107,13,92,212
+Fayette,H-3,State Representative,55,Cindy Meyer Ziemke,REP,104,12,83,199
+Fayette,H-4,Registered Voters,,,,,,,660
+Fayette,H-4,Ballots Cast,,,,154,66,185,405
+Fayette,H-4,President,,Trump / Pence,REP,125,42,127,294
+Fayette,H-4,President,,Biden / Harris,DEM,23,22,50,95
+Fayette,H-4,President,,Jo Jorgensen And Jeremy (Spike) Cohe,LIB,4,2,0,6
+Fayette,H-4,President,,Write-In,,1,0,0,1
+Fayette,H-4,Governor,,Holcomb / Crouch,REP,116,43,125,284
+Fayette,H-4,Governor,,Myers / Lawson,DEM,15,18,37,70
+Fayette,H-4,Governor,,Rainwater II / Henry,LIB,20,2,15,37
+Fayette,H-4,Attorney General,,Todd Rokita / Jonathan Weinzapfel,REP,117,37,128,282
+Fayette,H-4,Attorney General,,Jonathan Weinzapfel,DEM,27,23,44,94
+Fayette,H-4,U.S. House,6,Greg Pence,REP,122,40,129,291
+Fayette,H-4,U.S. House,6,Jeannine Lee Lake,DEM,23,21,47,91
+Fayette,H-4,U.S. House,6,Tom Ferkinhoff,LIB,5,0,2,7
+Fayette,H-4,U.S. House,6,Write-In,,0,0,0,0
+Fayette,H-4,State Senate,42,Jean Leising,REP,129,46,136,311
+Fayette,H-4,State Representative,55,Cindy Meyer Ziemke,REP,125,39,127,291
+Fayette,H-5,Registered Voters,,,,,,,631
+Fayette,H-5,Ballots Cast,,,,145,41,135,321
+Fayette,H-5,President,,Trump / Pence,REP,113,13,100,226
+Fayette,H-5,President,,Biden / Harris,DEM,27,23,34,84
+Fayette,H-5,President,,Jo Jorgensen And Jeremy (Spike) Cohe,LIB,3,0,1,4
+Fayette,H-5,President,,Write-In,,0,0,0,0
+Fayette,H-5,Governor,,Holcomb / Crouch,REP,99,14,94,207
+Fayette,H-5,Governor,,Myers / Lawson,DEM,18,20,24,62
+Fayette,H-5,Governor,,Rainwater II / Henry,LIB,26,0,12,38
+Fayette,H-5,Attorney General,,Todd Rokita / Jonathan Weinzapfel,REP,102,13,96,211
+Fayette,H-5,Attorney General,,Jonathan Weinzapfel,DEM,32,22,32,86
+Fayette,H-5,U.S. House,6,Greg Pence,REP,109,13,101,223
+Fayette,H-5,U.S. House,6,Jeannine Lee Lake,DEM,23,22,32,77
+Fayette,H-5,U.S. House,6,Tom Ferkinhoff,LIB,5,0,0,5
+Fayette,H-5,U.S. House,6,Write-In,,0,0,0,0
+Fayette,H-5,State Senate,42,Jean Leising,REP,120,16,109,245
+Fayette,H-5,State Representative,55,Cindy Meyer Ziemke,REP,111,16,97,224
+Fayette,H-6,Registered Voters,,,,,,,448
+Fayette,H-6,Ballots Cast,,,,132,34,106,272
+Fayette,H-6,President,,Trump / Pence,REP,95,15,72,182
+Fayette,H-6,President,,Biden / Harris,DEM,34,16,33,83
+Fayette,H-6,President,,Jo Jorgensen And Jeremy (Spike) Cohe,LIB,3,3,0,6
+Fayette,H-6,President,,Write-In,,0,0,0,0
+Fayette,H-6,Governor,,Holcomb / Crouch,REP,89,18,69,176
+Fayette,H-6,Governor,,Myers / Lawson,DEM,25,13,30,68
+Fayette,H-6,Governor,,Rainwater II / Henry,LIB,17,2,5,24
+Fayette,H-6,Attorney General,,Todd Rokita / Jonathan Weinzapfel,REP,87,14,68,169
+Fayette,H-6,Attorney General,,Jonathan Weinzapfel,DEM,38,18,34,90
+Fayette,H-6,U.S. House,6,Greg Pence,REP,89,14,71,174
+Fayette,H-6,U.S. House,6,Jeannine Lee Lake,DEM,36,17,32,85
+Fayette,H-6,U.S. House,6,Tom Ferkinhoff,LIB,4,1,1,6
+Fayette,H-6,U.S. House,6,Write-In,,0,0,0,0
+Fayette,H-6,State Senate,42,Jean Leising,REP,109,21,80,210
+Fayette,H-6,State Representative,55,Cindy Meyer Ziemke,REP,105,20,78,203
+Fayette,H-7,Registered Voters,,,,,,,432
+Fayette,H-7,Ballots Cast,,,,144,32,134,310
+Fayette,H-7,President,,Trump / Pence,REP,129,20,106,255
+Fayette,H-7,President,,Biden / Harris,DEM,15,12,27,54
+Fayette,H-7,President,,Jo Jorgensen And Jeremy (Spike) Cohe,LIB,0,0,1,1
+Fayette,H-7,President,,Write-In,,0,0,0,0
+Fayette,H-7,Governor,,Holcomb / Crouch,REP,104,22,98,224
+Fayette,H-7,Governor,,Myers / Lawson,DEM,8,7,18,33
+Fayette,H-7,Governor,,Rainwater II / Henry,LIB,29,2,16,47
+Fayette,H-7,Attorney General,,Todd Rokita / Jonathan Weinzapfel,REP,117,22,103,242
+Fayette,H-7,Attorney General,,Jonathan Weinzapfel,DEM,17,9,25,51
+Fayette,H-7,U.S. House,6,Greg Pence,REP,128,18,104,250
+Fayette,H-7,U.S. House,6,Jeannine Lee Lake,DEM,13,12,26,51
+Fayette,H-7,U.S. House,6,Tom Ferkinhoff,LIB,1,1,2,4
+Fayette,H-7,U.S. House,6,Write-In,,0,0,0,0
+Fayette,H-7,State Senate,42,Jean Leising,REP,131,25,117,273
+Fayette,H-7,State Representative,55,Cindy Meyer Ziemke,REP,125,21,109,255
+Fayette,H-8,Registered Voters,,,,,,,626
+Fayette,H-8,Ballots Cast,,,,175,24,183,382
+Fayette,H-8,President,,Trump / Pence,REP,154,12,147,313
+Fayette,H-8,President,,Biden / Harris,DEM,16,11,35,62
+Fayette,H-8,President,,Jo Jorgensen And Jeremy (Spike) Cohe,LIB,2,0,1,3
+Fayette,H-8,President,,Write-In,,0,1,0,1
+Fayette,H-8,Governor,,Holcomb / Crouch,REP,119,20,119,258
+Fayette,H-8,Governor,,Myers / Lawson,DEM,11,3,28,42
+Fayette,H-8,Governor,,Rainwater II / Henry,LIB,43,1,35,79
+Fayette,H-8,Attorney General,,Todd Rokita / Jonathan Weinzapfel,REP,148,16,138,302
+Fayette,H-8,Attorney General,,Jonathan Weinzapfel,DEM,17,7,37,61
+Fayette,H-8,U.S. House,6,Greg Pence,REP,154,16,147,317
+Fayette,H-8,U.S. House,6,Jeannine Lee Lake,DEM,12,4,32,48
+Fayette,H-8,U.S. House,6,Tom Ferkinhoff,LIB,7,2,2,11
+Fayette,H-8,U.S. House,6,Write-In,,0,0,0,0
+Fayette,H-8,State Senate,42,Jean Leising,REP,164,19,160,343
+Fayette,H-8,State Representative,55,Cindy Meyer Ziemke,REP,157,17,143,317
+Fayette,Columbia Township,Registered Voters,,,,,,,702
+Fayette,Columbia Township,Ballots Cast,,,,257,29,172,458
+Fayette,Columbia Township,President,,Trump / Pence,REP,232,21,141,394
+Fayette,Columbia Township,President,,Biden / Harris,DEM,21,7,29,57
+Fayette,Columbia Township,President,,Jo Jorgensen And Jeremy (Spike) Cohe,LIB,3,1,1,5
+Fayette,Columbia Township,President,,Write-In,,0,0,1,1
+Fayette,Columbia Township,Governor,,Holcomb / Crouch,REP,194,21,122,337
+Fayette,Columbia Township,Governor,,Myers / Lawson,DEM,16,6,25,47
+Fayette,Columbia Township,Governor,,Rainwater II / Henry,LIB,43,1,24,68
+Fayette,Columbia Township,Attorney General,,Todd Rokita / Jonathan Weinzapfel,REP,209,21,135,365
+Fayette,Columbia Township,Attorney General,,Jonathan Weinzapfel,DEM,34,6,32,72
+Fayette,Columbia Township,U.S. House,6,Greg Pence,REP,225,21,139,385
+Fayette,Columbia Township,U.S. House,6,Jeannine Lee Lake,DEM,19,7,28,54
+Fayette,Columbia Township,U.S. House,6,Tom Ferkinhoff,LIB,5,0,4,9
+Fayette,Columbia Township,U.S. House,6,Write-In,,0,0,0,0
+Fayette,Columbia Township,State Senate,42,Jean Leising,REP,223,24,144,391
+Fayette,Columbia Township,State Representative,55,Cindy Meyer Ziemke,REP,216,22,140,378
+Fayette,Fairview Township,Registered Voters,,,,,,,263
+Fayette,Fairview Township,Ballots Cast,,,,111,6,53,170
+Fayette,Fairview Township,President,,Trump / Pence,REP,107,2,44,153
+Fayette,Fairview Township,President,,Biden / Harris,DEM,4,4,9,17
+Fayette,Fairview Township,President,,Jo Jorgensen And Jeremy (Spike) Cohe,LIB,0,0,0,0
+Fayette,Fairview Township,President,,Write-In,,0,0,0,0
+Fayette,Fairview Township,Governor,,Holcomb / Crouch,REP,67,2,40,109
+Fayette,Fairview Township,Governor,,Myers / Lawson,DEM,3,4,5,12
+Fayette,Fairview Township,Governor,,Rainwater II / Henry,LIB,40,0,8,48
+Fayette,Fairview Township,Attorney General,,Todd Rokita / Jonathan Weinzapfel,REP,91,2,43,136
+Fayette,Fairview Township,Attorney General,,Jonathan Weinzapfel,DEM,10,4,8,22
+Fayette,Fairview Township,U.S. House,6,Greg Pence,REP,103,1,45,149
+Fayette,Fairview Township,U.S. House,6,Jeannine Lee Lake,DEM,5,4,6,15
+Fayette,Fairview Township,U.S. House,6,Tom Ferkinhoff,LIB,2,0,0,2
+Fayette,Fairview Township,U.S. House,6,Write-In,,0,0,0,0
+Fayette,Fairview Township,State Senate,42,Jean Leising,REP,102,3,48,153
+Fayette,Fairview Township,State Representative,55,Cindy Meyer Ziemke,REP,93,2,39,134
+Fayette,Jackson Township,Registered Voters,,,,,,,1128
+Fayette,Jackson Township,Ballots Cast,,,,403,72,322,797
+Fayette,Jackson Township,President,,Trump / Pence,REP,350,39,260,649
+Fayette,Jackson Township,President,,Biden / Harris,DEM,46,33,57,136
+Fayette,Jackson Township,President,,Jo Jorgensen And Jeremy (Spike) Cohe,LIB,2,0,2,4
+Fayette,Jackson Township,President,,Write-In,,0,0,0,0
+Fayette,Jackson Township,Governor,,Holcomb / Crouch,REP,282,45,218,545
+Fayette,Jackson Township,Governor,,Myers / Lawson,DEM,39,24,42,105
+Fayette,Jackson Township,Governor,,Rainwater II / Henry,LIB,74,3,54,131
+Fayette,Jackson Township,Attorney General,,Todd Rokita / Jonathan Weinzapfel,REP,318,40,250,608
+Fayette,Jackson Township,Attorney General,,Jonathan Weinzapfel,DEM,64,30,53,147
+Fayette,Jackson Township,U.S. House,6,Greg Pence,REP,334,37,259,630
+Fayette,Jackson Township,U.S. House,6,Jeannine Lee Lake,DEM,46,30,57,133
+Fayette,Jackson Township,U.S. House,6,Tom Ferkinhoff,LIB,10,2,3,15
+Fayette,Jackson Township,U.S. House,6,Write-In,,0,0,0,0
+Fayette,Jackson Township,State Senate,42,Jean Leising,REP,354,55,272,681
+Fayette,Jackson Township,State Representative,55,Cindy Meyer Ziemke,REP,331,55,252,638
+Fayette,Jennings Township,Registered Voters,,,,,,,587
+Fayette,Jennings Township,Ballots Cast,,,,223,32,179,434
+Fayette,Jennings Township,President,,Trump / Pence,REP,182,24,147,353
+Fayette,Jennings Township,President,,Biden / Harris,DEM,36,7,30,73
+Fayette,Jennings Township,President,,Jo Jorgensen And Jeremy (Spike) Cohe,LIB,3,1,1,5
+Fayette,Jennings Township,President,,Write-In,,0,0,1,1
+Fayette,Jennings Township,Governor,,Holcomb / Crouch,REP,139,24,134,297
+Fayette,Jennings Township,Governor,,Myers / Lawson,DEM,35,5,26,66
+Fayette,Jennings Township,Governor,,Rainwater II / Henry,LIB,43,3,16,62
+Fayette,Jennings Township,Attorney General,,Todd Rokita / Jonathan Weinzapfel,REP,174,27,140,341
+Fayette,Jennings Township,Attorney General,,Jonathan Weinzapfel,DEM,38,5,35,78
+Fayette,Jennings Township,U.S. House,6,Greg Pence,REP,179,27,141,347
+Fayette,Jennings Township,U.S. House,6,Jeannine Lee Lake,DEM,33,3,35,71
+Fayette,Jennings Township,U.S. House,6,Tom Ferkinhoff,LIB,8,2,1,11
+Fayette,Jennings Township,U.S. House,6,Write-In,,0,0,0,0
+Fayette,Jennings Township,State Senate,42,Jean Leising,REP,186,27,150,363
+Fayette,Jennings Township,State Representative,55,Cindy Meyer Ziemke,REP,172,27,143,342
+Fayette,Orange Township,Registered Voters,,,,,,,483
+Fayette,Orange Township,Ballots Cast,,,,182,35,105,322
+Fayette,Orange Township,President,,Trump / Pence,REP,152,15,81,248
+Fayette,Orange Township,President,,Biden / Harris,DEM,21,20,22,63
+Fayette,Orange Township,President,,Jo Jorgensen And Jeremy (Spike) Cohe,LIB,4,0,0,4
+Fayette,Orange Township,President,,Write-In,,1,0,0,1
+Fayette,Orange Township,Governor,,Holcomb / Crouch,REP,122,14,66,202
+Fayette,Orange Township,Governor,,Myers / Lawson,DEM,20,17,18,55
+Fayette,Orange Township,Governor,,Rainwater II / Henry,LIB,38,2,18,58
+Fayette,Orange Township,Attorney General,,Todd Rokita / Jonathan Weinzapfel,REP,138,15,76,229
+Fayette,Orange Township,Attorney General,,Jonathan Weinzapfel,DEM,37,18,25,80
+Fayette,Orange Township,U.S. House,6,Greg Pence,REP,150,16,78,244
+Fayette,Orange Township,U.S. House,6,Jeannine Lee Lake,DEM,23,19,22,64
+Fayette,Orange Township,U.S. House,6,Tom Ferkinhoff,LIB,5,0,2,7
+Fayette,Orange Township,U.S. House,6,Write-In,,1,0,0,1
+Fayette,Orange Township,State Senate,42,Jean Leising,REP,167,18,81,266
+Fayette,Orange Township,State Representative,55,Cindy Meyer Ziemke,REP,155,17,74,246
+Fayette,Posey Township,Registered Voters,,,,,,,336
+Fayette,Posey Township,Ballots Cast,,,,161,24,66,251
+Fayette,Posey Township,President,,Trump / Pence,REP,137,14,47,198
+Fayette,Posey Township,President,,Biden / Harris,DEM,19,9,18,46
+Fayette,Posey Township,President,,Jo Jorgensen And Jeremy (Spike) Cohe,LIB,4,1,1,6
+Fayette,Posey Township,President,,Write-In,,0,0,0,0
+Fayette,Posey Township,Governor,,Holcomb / Crouch,REP,94,14,39,147
+Fayette,Posey Township,Governor,,Myers / Lawson,DEM,19,7,11,37
+Fayette,Posey Township,Governor,,Rainwater II / Henry,LIB,47,3,15,65
+Fayette,Posey Township,Attorney General,,Todd Rokita / Jonathan Weinzapfel,REP,127,16,45,188
+Fayette,Posey Township,Attorney General,,Jonathan Weinzapfel,DEM,29,8,18,55
+Fayette,Posey Township,U.S. House,6,Greg Pence,REP,133,15,46,194
+Fayette,Posey Township,U.S. House,6,Jeannine Lee Lake,DEM,22,8,14,44
+Fayette,Posey Township,U.S. House,6,Tom Ferkinhoff,LIB,3,0,5,8
+Fayette,Posey Township,U.S. House,6,Write-In,,0,0,0,0
+Fayette,Posey Township,State Senate,42,Jean Leising,REP,143,17,60,220
+Fayette,Posey Township,State Representative,55,Cindy Meyer Ziemke,REP,135,16,54,205
+Fayette,Waterloo Township,Registered Voters,,,,,,,375
+Fayette,Waterloo Township,Ballots Cast,,,,127,33,120,280
+Fayette,Waterloo Township,President,,Trump / Pence,REP,101,22,83,206
+Fayette,Waterloo Township,President,,Biden / Harris,DEM,23,10,35,68
+Fayette,Waterloo Township,President,,Jo Jorgensen And Jeremy (Spike) Cohe,LIB,3,1,0,4
+Fayette,Waterloo Township,President,,Write-In,,0,0,0,0
+Fayette,Waterloo Township,Governor,,Holcomb / Crouch,REP,80,21,80,181
+Fayette,Waterloo Township,Governor,,Myers / Lawson,DEM,16,7,25,48
+Fayette,Waterloo Township,Governor,,Rainwater II / Henry,LIB,28,2,12,42
+Fayette,Waterloo Township,Attorney General,,Todd Rokita / Jonathan Weinzapfel,REP,87,19,84,190
+Fayette,Waterloo Township,Attorney General,,Jonathan Weinzapfel,DEM,30,10,32,72
+Fayette,Waterloo Township,U.S. House,6,Greg Pence,REP,97,20,86,203
+Fayette,Waterloo Township,U.S. House,6,Jeannine Lee Lake,DEM,25,10,30,65
+Fayette,Waterloo Township,U.S. House,6,Tom Ferkinhoff,LIB,2,1,1,4
+Fayette,Waterloo Township,U.S. House,6,Write-In,,0,0,0,0
+Fayette,Waterloo Township,State Representative,55,Cindy Meyer Ziemke,REP,100,24,91,215

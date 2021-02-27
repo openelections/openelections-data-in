@@ -1,0 +1,545 @@
+county,precinct,office,district,party,candidate,election_day,absentee,early_voting,votes
+Greene,Beach Creek 1,Registered Voters,,,,,,,769
+Greene,Beach Creek 1,Ballots Cast ,,,,266,125,189,580
+Greene,Beach Creek 1,President,,REP,Donald J Trump,222,61,128,411
+Greene,Beach Creek 1,President,,DEM,Joseph R Biden,39,62,55,156
+Greene,Beach Creek 1,President,,LIB,Jo Jorgensen,3,1,4,8
+Greene,Beach Creek 1,President,,,Write-In,0,0,1,1
+Greene,Beach Creek 1,Governor,,REP,Eric Holcomb,157,70,120,347
+Greene,Beach Creek 1,Governor,,DEM,Woodrow (Woody) Myers,27,46,41,114
+Greene,Beach Creek 1,Governor,,LIB,Donald G Rainwater II,78,7,25,110
+Greene,Beach Creek 1,Attorney General,,REP,Todd Rokita,203,63,130,396
+Greene,Beach Creek 1,Attorney General,,DEM,Jonathan Weinzapfel,55,56,53,164
+Greene,Beach Creek 1,U.S. House,8,REP,Larry d Bucshon,204,68,128,400
+Greene,Beach Creek 1,U.S. House,8,DEM,E. Thomasina Marsili,37,49,47,133
+Greene,Beach Creek 1,U.S. House,8,LIB,James D. Rodenberger,15,2,6,23
+Greene,Beach Creek 1,U.S. House,9,,Write-In,0,0,0,0
+Greene,Beach Creek 1,State Representative,62,REP,Jelf Ellington,222,61,129,412
+Greene,Beach Creek 1,State Representative,62,DEM,Alyssa Balley,38,56,54,148
+Greene,Beach Creek 2,Registered Voters,,,,,,,758
+Greene,Beach Creek 2,Ballots Cast ,,,,269,91,230,590
+Greene,Beach Creek 2,President,,REP,Donald J Trump,224,28,156,408
+Greene,Beach Creek 2,President,,DEM,Joseph R Biden,42,56,67,164
+Greene,Beach Creek 2,President,,LIB,Jo Jorgensen,2,7,5,14
+Greene,Beach Creek 2,President,,,Write-In,0,0,0,0
+Greene,Beach Creek 2,Governor,,REP,Eric Holcomb,174,41,131,346
+Greene,Beach Creek 2,Governor,,DEM,Woodrow (Woody) Myers,34,46,57,137
+Greene,Beach Creek 2,Governor,,LIB,Donald G Rainwater II,59,2,39,100
+Greene,Beach Creek 2,Attorney General,,REP,Todd Rokita,216,35,154,405
+Greene,Beach Creek 2,Attorney General,,DEM,Jonathan Weinzapfel,45,54,68,167
+Greene,Beach Creek 2,U.S. House,8,REP,Larry d Bucshon,213,33,153,399
+Greene,Beach Creek 2,U.S. House,8,DEM,E. Thomasina Marsili,36,52,63,151
+Greene,Beach Creek 2,U.S. House,8,LIB,James D. Rodenberger,13,3,10,26
+Greene,Beach Creek 2,U.S. House,9,,Write-In,0,0,0,0
+Greene,Beach Creek 2,State Representative,62,REP,Jelf Ellington,213,34,156,403
+Greene,Beach Creek 2,State Representative,62,DEM,Alyssa Balley,53,55,69,177
+Greene,Cass,Registered Voters,,,,,,,186
+Greene,Cass,Ballots Cast ,,,,71,16,43,130
+Greene,Cass,President,,REP,Donald J Trump,53,9,33,95
+Greene,Cass,President,,DEM,Joseph R Biden,16,5,7,28
+Greene,Cass,President,,LIB,Jo Jorgensen,1,1,1,3
+Greene,Cass,President,,,Write-In,0,0,0,0
+Greene,Cass,Governor,,REP,Eric Holcomb,41,7,23,71
+Greene,Cass,Governor,,DEM,Woodrow (Woody) Myers,11,3,6,20
+Greene,Cass,Governor,,LIB,Donald G Rainwater II,19,6,13,38
+Greene,Cass,Attorney General,,REP,Todd Rokita,47,7,35,89
+Greene,Cass,Attorney General,,DEM,Jonathan Weinzapfel,22,8,7,37
+Greene,Cass,U.S. House,8,REP,Larry d Bucshon,50,8,34,92
+Greene,Cass,U.S. House,8,DEM,E. Thomasina Marsili,19,6,7,32
+Greene,Cass,U.S. House,8,LIB,James D. Rodenberger,2,2,0,4
+Greene,Cass,U.S. House,9,,Write-In,0,0,0,0
+Greene,Cass,State Representative,62,REP,Jelf Ellington,43,7,31,81
+Greene,Cass,State Representative,62,DEM,Alyssa Balley,27,8,10,45
+Greene,Center 1,Registered Voters,,,,,,,668
+Greene,Center 1,Ballots Cast ,,,,232,67,205,504
+Greene,Center 1,President,,REP,Donald J Trump,188,30,140,358
+Greene,Center 1,President,,DEM,Joseph R Biden,37,36,48,121
+Greene,Center 1,President,,LIB,Jo Jorgensen,4,0,6,10
+Greene,Center 1,President,,,Write-In,1,0,1,2
+Greene,Center 1,Governor,,REP,Eric Holcomb,127,36,117,280
+Greene,Center 1,Governor,,DEM,Woodrow (Woody) Myers,29,28,39,96
+Greene,Center 1,Governor,,LIB,Donald G Rainwater II,72,1,43,116
+Greene,Center 1,Attorney General,,REP,Todd Rokita,165,32,136,333
+Greene,Center 1,Attorney General,,DEM,Jonathan Weinzapfel,59,34,55,148
+Greene,Center 1,U.S. House,8,REP,Larry d Bucshon,179,34,145,358
+Greene,Center 1,U.S. House,8,DEM,E. Thomasina Marsili,33,30,42,105
+Greene,Center 1,U.S. House,8,LIB,James D. Rodenberger,10,2,8,20
+Greene,Center 1,U.S. House,9,,Write-In,0,0,0,0
+Greene,Center 1,State Representative,62,REP,Jelf Ellington,173,31,130,334
+Greene,Center 1,State Representative,62,DEM,Alyssa Balley,54,34,63,151
+Greene,Center 2,Registered Voters,,,,,,,1396
+Greene,Center 2,Ballots Cast ,,,,447,123,488,1058
+Greene,Center 2,President,,REP,Donald J Trump,377,51,338,766
+Greene,Center 2,President,,DEM,Joseph R Biden,57,69,126,252
+Greene,Center 2,President,,LIB,Jo Jorgensen,8,3,13,24
+Greene,Center 2,President,,,Write-In,0,0,1,1
+Greene,Center 2,Governor,,REP,Eric Holcomb,271,58,303,632
+Greene,Center 2,Governor,,DEM,Woodrow (Woody) Myers,43,54,104,201
+Greene,Center 2,Governor,,LIB,Donald G Rainwater II,131,6,66,203
+Greene,Center 2,Attorney General,,REP,Todd Rokita,353,51,336,740
+Greene,Center 2,Attorney General,,DEM,Jonathan Weinzapfel,79,67,130,276
+Greene,Center 2,U.S. House,8,REP,Larry d Bucshon,357,48,321,726
+Greene,Center 2,U.S. House,8,DEM,E. Thomasina Marsili,56,63,121,240
+Greene,Center 2,U.S. House,8,LIB,James D. Rodenberger,22,7,18,47
+Greene,Center 2,U.S. House,9,,Write-In,0,0,0,0
+Greene,Center 2,State Representative,62,REP,Jelf Ellington,360,48,332,740
+Greene,Center 2,State Representative,62,DEM,Alyssa Balley,77,70,141,288
+Greene,Fairplay,Registered Voters,,,,,,,371
+Greene,Fairplay,Ballots Cast ,,,,151,49,80,280
+Greene,Fairplay,President,,REP,Donald J Trump,120,24,65,209
+Greene,Fairplay,President,,DEM,Joseph R Biden,29,24,12,65
+Greene,Fairplay,President,,LIB,Jo Jorgensen,0,0,2,2
+Greene,Fairplay,President,,,Write-In,1,0,0,1
+Greene,Fairplay,Governor,,REP,Eric Holcomb,105,34,53,192
+Greene,Fairplay,Governor,,DEM,Woodrow (Woody) Myers,19,11,9,39
+Greene,Fairplay,Governor,,LIB,Donald G Rainwater II,24,2,15,41
+Greene,Fairplay,Attorney General,,REP,Todd Rokita,117,25,63,205
+Greene,Fairplay,Attorney General,,DEM,Jonathan Weinzapfel,29,21,11,61
+Greene,Fairplay,U.S. House,8,REP,Larry d Bucshon,120,24,64,208
+Greene,Fairplay,U.S. House,8,DEM,E. Thomasina Marsili,21,22,10,53
+Greene,Fairplay,U.S. House,8,LIB,James D. Rodenberger,5,0,1,6
+Greene,Fairplay,U.S. House,9,,Write-In,0,0,0,0
+Greene,Fairplay,State Representative,62,REP,Jelf Ellington,118,27,58,203
+Greene,Fairplay,State Representative,62,DEM,Alyssa Balley,31,21,19,71
+Greene,Grant,Registered Voters,,,,,,,479
+Greene,Grant,Ballots Cast ,,,,156,49,158,363
+Greene,Grant,President,,REP,Donald J Trump,132,35,123,290
+Greene,Grant,President,,DEM,Joseph R Biden,18,13,27,58
+Greene,Grant,President,,LIB,Jo Jorgensen,3,0,3,6
+Greene,Grant,President,,,Write-In,0,0,0,0
+Greene,Grant,Governor,,REP,Eric Holcomb,108,35,111,254
+Greene,Grant,Governor,,DEM,Woodrow (Woody) Myers,9,11,23,43
+Greene,Grant,Governor,,LIB,Donald G Rainwater II,35,2,18,55
+Greene,Grant,Attorney General,,REP,Todd Rokita,127,33,119,279
+Greene,Grant,Attorney General,,DEM,Jonathan Weinzapfel,22,12,28,62
+Greene,Grant,U.S. House,8,REP,Larry d Bucshon,133,37,126,296
+Greene,Grant,U.S. House,8,DEM,E. Thomasina Marsili,13,11,26,50
+Greene,Grant,U.S. House,8,LIB,James D. Rodenberger,4,0,1,5
+Greene,Grant,U.S. House,9,,Write-In,0,0,0,0
+Greene,Grant,State Representative,62,REP,Jelf Ellington,120,35,121,276
+Greene,Grant,State Representative,62,DEM,Alyssa Balley,31,13,33,77
+Greene,Highland,Registered Voters,,,,,,,517
+Greene,Highland,Ballots Cast ,,,,140,39,194,373
+Greene,Highland,President,,REP,Donald J Trump,122,16,151,289
+Greene,Highland,President,,DEM,Joseph R Biden,14,21,37,72
+Greene,Highland,President,,LIB,Jo Jorgensen,3,0,4,7
+Greene,Highland,President,,,Write-In,0,0,0,0
+Greene,Highland,Governor,,REP,Eric Holcomb,92,22,143,257
+Greene,Highland,Governor,,DEM,Woodrow (Woody) Myers,13,11,23,47
+Greene,Highland,Governor,,LIB,Donald G Rainwater II,34,1,24,59
+Greene,Highland,Attorney General,,REP,Todd Rokita,117,18,147,282
+Greene,Highland,Attorney General,,DEM,Jonathan Weinzapfel,19,16,38,73
+Greene,Highland,U.S. House,8,REP,Larry d Bucshon,119,19,150,288
+Greene,Highland,U.S. House,8,DEM,E. Thomasina Marsili,12,15,29,56
+Greene,Highland,U.S. House,8,LIB,James D. Rodenberger,7,0,6,13
+Greene,Highland,U.S. House,9,,Write-In,0,0,0,0
+Greene,Highland,State Representative,62,REP,Jelf Ellington,113,18,140,271
+Greene,Highland,State Representative,62,DEM,Alyssa Balley,22,16,47,85
+Greene,Jackson,Registered Voters,,,,,,,1198
+Greene,Jackson,Ballots Cast ,,,,500,107,301,908
+Greene,Jackson,President,,REP,Donald J Trump,395,58,206,859
+Greene,Jackson,President,,DEM,Joseph R Biden,90,47,89,226
+Greene,Jackson,President,,LIB,Jo Jorgensen,8,1,3,12
+Greene,Jackson,President,,,Write-In,3,0,0,3
+Greene,Jackson,Governor,,REP,Eric Holcomb,290,57,180,527
+Greene,Jackson,Governor,,DEM,Woodrow (Woody) Myers,65,40,66,171
+Greene,Jackson,Governor,,LIB,Donald G Rainwater II,139,10,48,197
+Greene,Jackson,Attorney General,,REP,Todd Rokita,390,59,200,649
+Greene,Jackson,Attorney General,,DEM,Jonathan Weinzapfel,95,43,88,226
+Greene,Jackson,U.S. House,8,REP,Larry d Bucshon,390,58,200,648
+Greene,Jackson,U.S. House,8,DEM,E. Thomasina Marsili,76,41,78,195
+Greene,Jackson,U.S. House,8,LIB,James D. Rodenberger,20,3,10,33
+Greene,Jackson,U.S. House,9,,Write-In,1,0,0,1
+Greene,Jackson,State Representative,62,REP,Jelf Ellington,396,55,192,643
+Greene,Jackson,State Representative,62,DEM,Alyssa Balley,94,47,98,239
+Greene,Jefferson 1,Registered Voters,,,,,,,716
+Greene,Jefferson 1,Ballots Cast ,,,,316,74,129,519
+Greene,Jefferson 1,President,,REP,Donald J Trump,254,40,97,391
+Greene,Jefferson 1,President,,DEM,Joseph R Biden,54,33,29,116
+Greene,Jefferson 1,President,,LIB,Jo Jorgensen,6,0,2,8
+Greene,Jefferson 1,President,,,Write-In,0,0,0,0
+Greene,Jefferson 1,Governor,,REP,Eric Holcomb,211,47,79,337
+Greene,Jefferson 1,Governor,,DEM,Woodrow (Woody) Myers,36,24,20,80
+Greene,Jefferson 1,Governor,,LIB,Donald G Rainwater II,60,0,27,87
+Greene,Jefferson 1,Attorney General,,REP,Todd Rokita,243,40,94,377
+Greene,Jefferson 1,Attorney General,,DEM,Jonathan Weinzapfel,64,30,29,123
+Greene,Jefferson 1,U.S. House,8,REP,Larry d Bucshon,254,44,94,392
+Greene,Jefferson 1,U.S. House,8,DEM,E. Thomasina Marsili,44,24,25,93
+Greene,Jefferson 1,U.S. House,8,LIB,James D. Rodenberger,10,3,6,19
+Greene,Jefferson 1,U.S. House,9,,Write-In,0,0,0,0
+Greene,Jefferson 1,State Representative,62,REP,Jelf Ellington,234,41,93,368
+Greene,Jefferson 1,State Representative,62,DEM,Alyssa Balley,80,31,32,143
+Greene,Jefferson 2,Registered Voters,,,,,,,612
+Greene,Jefferson 2,Ballots Cast ,,,,280,58,100,438
+Greene,Jefferson 2,President,,REP,Donald J Trump,214,36,79,329
+Greene,Jefferson 2,President,,DEM,Joseph R Biden,55,21,19,95
+Greene,Jefferson 2,President,,LIB,Jo Jorgensen,2,0,2,4
+Greene,Jefferson 2,President,,,Write-In,3,0,0,3
+Greene,Jefferson 2,Governor,,REP,Eric Holcomb,176,39,60,275
+Greene,Jefferson 2,Governor,,DEM,Woodrow (Woody) Myers,33,14,18,65
+Greene,Jefferson 2,Governor,,LIB,Donald G Rainwater II,64,0,20,84
+Greene,Jefferson 2,Attorney General,,REP,Todd Rokita,194,30,70,294
+Greene,Jefferson 2,Attorney General,,DEM,Jonathan Weinzapfel,73,23,25,121
+Greene,Jefferson 2,U.S. House,8,REP,Larry d Bucshon,210,33,73,316
+Greene,Jefferson 2,U.S. House,8,DEM,E. Thomasina Marsili,45,19,21,85
+Greene,Jefferson 2,U.S. House,8,LIB,James D. Rodenberger,14,1,3,18
+Greene,Jefferson 2,U.S. House,9,,Write-In,0,0,0,0
+Greene,Jefferson 2,State Representative,62,REP,Jelf Ellington,192,33,68,293
+Greene,Jefferson 2,State Representative,62,DEM,Alyssa Balley,80,23,29,132
+Greene,Richland 1,Registered Voters,,,,,,,865
+Greene,Richland 1,Ballots Cast ,,,,156,70,439,665
+Greene,Richland 1,President,,REP,Donald J Trump,125,39,332,496
+Greene,Richland 1,President,,DEM,Joseph R Biden,21,27,92,140
+Greene,Richland 1,President,,LIB,Jo Jorgensen,8,1,9,18
+Greene,Richland 1,President,,,Write-In,0,0,1,1
+Greene,Richland 1,Governor,,REP,Eric Holcomb,100,44,313,457
+Greene,Richland 1,Governor,,DEM,Woodrow (Woody) Myers,12,22,63,97
+Greene,Richland 1,Governor,,LIB,Donald G Rainwater II,41,2,56,99
+Greene,Richland 1,Attorney General,,REP,Todd Rokita,111,42,332,485
+Greene,Richland 1,Attorney General,,DEM,Jonathan Weinzapfel,36,25,95,156
+Greene,Richland 1,U.S. House,8,REP,Larry d Bucshon,125,42,332,499
+Greene,Richland 1,U.S. House,8,DEM,E. Thomasina Marsili,17,20,84,121
+Greene,Richland 1,U.S. House,8,LIB,James D. Rodenberger,6,3,11,20
+Greene,Richland 1,U.S. House,9,,Write-In,0,0,0,0
+Greene,Richland 1,State Representative,62,REP,Jelf Ellington,106,40,316,462
+Greene,Richland 1,State Representative,62,DEM,Alyssa Balley,42,26,118,186
+Greene,Richland 2,Registered Voters,,,,,,,768
+Greene,Richland 2,Ballots Cast ,,,,120,81,378,579
+Greene,Richland 2,President,,REP,Donald J Trump,96,33,275,404
+Greene,Richland 2,President,,DEM,Joseph R Biden,19,44,85,148
+Greene,Richland 2,President,,LIB,Jo Jorgensen,4,3,4,11
+Greene,Richland 2,President,,,Write-In,0,0,2,2
+Greene,Richland 2,Governor,,REP,Eric Holcomb,81,51,274,406
+Greene,Richland 2,Governor,,DEM,Woodrow (Woody) Myers,15,27,61,103
+Greene,Richland 2,Governor,,LIB,Donald G Rainwater II,24,2,38,64
+Greene,Richland 2,Attorney General,,REP,Todd Rokita,88,45,286,419
+Greene,Richland 2,Attorney General,,DEM,Jonathan Weinzapfel,28,35,80,143
+Greene,Richland 2,U.S. House,8,REP,Larry d Bucshon,97,43,300,440
+Greene,Richland 2,U.S. House,8,DEM,E. Thomasina Marsili,18,36,65,119
+Greene,Richland 2,U.S. House,8,LIB,James D. Rodenberger,4,0,7,11
+Greene,Richland 2,U.S. House,9,,Write-In,0,0,0,0
+Greene,Richland 2,State Representative,62,REP,Jelf Ellington,91,35,280,406
+Greene,Richland 2,State Representative,62,DEM,Alyssa Balley,28,45,94,167
+Greene,Richland 3,Registered Voters,,,,,,,664
+Greene,Richland 3,Ballots Cast ,,,,126,61,303,490
+Greene,Richland 3,President,,REP,Donald J Trump,104,27,197,328
+Greene,Richland 3,President,,DEM,Joseph R Biden,16,32,98,146
+Greene,Richland 3,President,,LIB,Jo Jorgensen,3,1,3,7
+Greene,Richland 3,President,,,Write-In,1,0,0,1
+Greene,Richland 3,Governor,,REP,Eric Holcomb,79,31,197,307
+Greene,Richland 3,Governor,,DEM,Woodrow (Woody) Myers,14,25,71,110
+Greene,Richland 3,Governor,,LIB,Donald G Rainwater II,31,4,32,67
+Greene,Richland 3,Attorney General,,REP,Todd Rokita,90,31,199,320
+Greene,Richland 3,Attorney General,,DEM,Jonathan Weinzapfel,28,28,96,152
+Greene,Richland 3,U.S. House,8,REP,Larry d Bucshon,99,30,194,323
+Greene,Richland 3,U.S. House,8,DEM,E. Thomasina Marsili,17,26,89,132
+Greene,Richland 3,U.S. House,8,LIB,James D. Rodenberger,4,2,11,17
+Greene,Richland 3,U.S. House,9,,Write-In,0,0,0,0
+Greene,Richland 3,State Representative,62,REP,Jelf Ellington,95,30,195,320
+Greene,Richland 3,State Representative,62,DEM,Alyssa Balley,27,28,99,154
+Greene,Richland 4,Registered Voters,,,,,,,782
+Greene,Richland 4,Ballots Cast ,,,,192,77,358,627
+Greene,Richland 4,President,,REP,Donald J Trump,159,43,274,478
+Greene,Richland 4,President,,DEM,Joseph R Biden,24,30,73,127
+Greene,Richland 4,President,,LIB,Jo Jorgensen,6,1,6,13
+Greene,Richland 4,President,,,Write-In,1,3,0,4
+Greene,Richland 4,Governor,,REP,Eric Holcomb,126,51,240,417
+Greene,Richland 4,Governor,,DEM,Woodrow (Woody) Myers,16,21,64,101
+Greene,Richland 4,Governor,,LIB,Donald G Rainwater II,48,3,47,98
+Greene,Richland 4,Attorney General,,REP,Todd Rokita,146,44,272,462
+Greene,Richland 4,Attorney General,,DEM,Jonathan Weinzapfel,35,28,76,139
+Greene,Richland 4,U.S. House,8,REP,Larry d Bucshon,157,47,271,475
+Greene,Richland 4,U.S. House,8,DEM,E. Thomasina Marsili,23,23,70,116
+Greene,Richland 4,U.S. House,8,LIB,James D. Rodenberger,6,3,7,16
+Greene,Richland 4,U.S. House,9,,Write-In,0,0,0,0
+Greene,Richland 4,State Representative,62,REP,Jelf Ellington,148,47,262,457
+Greene,Richland 4,State Representative,62,DEM,Alyssa Balley,40,25,89,154
+Greene,Smith,Registered Voters,,,,,,,248
+Greene,Smith,Ballots Cast ,,,,90,30,76,196
+Greene,Smith,President,,REP,Donald J Trump,81,23,61,165
+Greene,Smith,President,,DEM,Joseph R Biden,8,7,13,28
+Greene,Smith,President,,LIB,Jo Jorgensen,0,0,0,0
+Greene,Smith,President,,,Write-In,0,0,0,0
+Greene,Smith,Governor,,REP,Eric Holcomb,67,20,53,140
+Greene,Smith,Governor,,DEM,Woodrow (Woody) Myers,4,4,12,20
+Greene,Smith,Governor,,LIB,Donald G Rainwater II,17,5,10,32
+Greene,Smith,Attorney General,,REP,Todd Rokita,78,20,55,153
+Greene,Smith,Attorney General,,DEM,Jonathan Weinzapfel,12,9,16,37
+Greene,Smith,U.S. House,8,REP,Larry d Bucshon,80,21,59,160
+Greene,Smith,U.S. House,8,DEM,E. Thomasina Marsili,7,4,14,25
+Greene,Smith,U.S. House,8,LIB,James D. Rodenberger,0,2,1,3
+Greene,Smith,U.S. House,9,,Write-In,0,0,0,0
+Greene,Smith,State Representative,62,REP,Jelf Ellington,73,18,54,145
+Greene,Smith,State Representative,62,DEM,Alyssa Balley,15,10,19,44
+Greene,Stafford,Registered Voters,,,,,,,306
+Greene,Stafford,Ballots Cast ,,,,133,28,64,225
+Greene,Stafford,President,,REP,Donald J Trump,118,18,51,187
+Greene,Stafford,President,,DEM,Joseph R Biden,13,10,10,33
+Greene,Stafford,President,,LIB,Jo Jorgensen,2,0,1,3
+Greene,Stafford,President,,,Write-In,0,0,0,0
+Greene,Stafford,Governor,,REP,Eric Holcomb,84,15,46,145
+Greene,Stafford,Governor,,DEM,Woodrow (Woody) Myers,12,10,10,32
+Greene,Stafford,Governor,,LIB,Donald G Rainwater II,33,3,8,44
+Greene,Stafford,Attorney General,,REP,Todd Rokita,112,12,49,173
+Greene,Stafford,Attorney General,,DEM,Jonathan Weinzapfel,18,16,12,46
+Greene,Stafford,U.S. House,8,REP,Larry d Bucshon,110,16,52,178
+Greene,Stafford,U.S. House,8,DEM,E. Thomasina Marsili,14,12,10,36
+Greene,Stafford,U.S. House,8,LIB,James D. Rodenberger,5,0,0,5
+Greene,Stafford,U.S. House,9,,Write-In,0,0,0,0
+Greene,Stafford,State Representative,62,REP,Jelf Ellington,97,12,46,155
+Greene,Stafford,State Representative,62,DEM,Alyssa Balley,33,16,17,66
+Greene,Stockton 1,Registered Voters,,,,,,,647
+Greene,Stockton 1,Ballots Cast ,,,,204,84,202,490
+Greene,Stockton 1,President,,REP,Donald J Trump,181,49,149,379
+Greene,Stockton 1,President,,DEM,Joseph R Biden,17,34,42,93
+Greene,Stockton 1,President,,LIB,Jo Jorgensen,4,0,8,12
+Greene,Stockton 1,President,,,Write-In,0,0,0,0
+Greene,Stockton 1,Governor,,REP,Eric Holcomb,141,60,146,347
+Greene,Stockton 1,Governor,,DEM,Woodrow (Woody) Myers,13,19,30,62
+Greene,Stockton 1,Governor,,LIB,Donald G Rainwater II,46,2,21,69
+Greene,Stockton 1,Attorney General,,REP,Todd Rokita,165,51,148,364
+Greene,Stockton 1,Attorney General,,DEM,Jonathan Weinzapfel,29,32,45,106
+Greene,Stockton 1,U.S. House,8,REP,Larry d Bucshon,177,52,155,384
+Greene,Stockton 1,U.S. House,8,DEM,E. Thomasina Marsili,17,29,35,81
+Greene,Stockton 1,U.S. House,8,LIB,James D. Rodenberger,5,1,7,13
+Greene,Stockton 1,U.S. House,9,,Write-In,0,0,0,0
+Greene,Stockton 1,State Representative,62,REP,Jelf Ellington,157,50,145,352
+Greene,Stockton 1,State Representative,62,DEM,Alyssa Balley,43,33,53,129
+Greene,Stockton 2,Registered Voters,,,,,,,1357
+Greene,Stockton 2,Ballots Cast ,,,,432,126,464,1022
+Greene,Stockton 2,President,,REP,Donald J Trump,373,62,370,805
+Greene,Stockton 2,President,,DEM,Joseph R Biden,44,63,81,188
+Greene,Stockton 2,President,,LIB,Jo Jorgensen,10,1,7,18
+Greene,Stockton 2,President,,,Write-In,0,0,0,0
+Greene,Stockton 2,Governor,,REP,Eric Holcomb,288,78,342,708
+Greene,Stockton 2,Governor,,DEM,Woodrow (Woody) Myers,31,40,62,133
+Greene,Stockton 2,Governor,,LIB,Donald G Rainwater II,104,5,51,160
+Greene,Stockton 2,Attorney General,,REP,Todd Rokita,339,63,353,755
+Greene,Stockton 2,Attorney General,,DEM,Jonathan Weinzapfel,71,59,97,227
+Greene,Stockton 2,U.S. House,8,REP,Larry d Bucshon,357,68,368,793
+Greene,Stockton 2,U.S. House,8,DEM,E. Thomasina Marsili,40,51,75,166
+Greene,Stockton 2,U.S. House,8,LIB,James D. Rodenberger,20,3,9,32
+Greene,Stockton 2,U.S. House,9,,Write-In,0,0,1,1
+Greene,Stockton 2,State Representative,62,REP,Jelf Ellington,319,70,348,737
+Greene,Stockton 2,State Representative,62,DEM,Alyssa Balley,98,54,101,253
+Greene,Stockton 3,Registered Voters,,,,,,,613
+Greene,Stockton 3,Ballots Cast ,,,,169,83,142,394
+Greene,Stockton 3,President,,REP,Donald J Trump,142,39,97,278
+Greene,Stockton 3,President,,DEM,Joseph R Biden,20,42,39,101
+Greene,Stockton 3,President,,LIB,Jo Jorgensen,5,1,1,7
+Greene,Stockton 3,President,,,Write-In,0,0,0,0
+Greene,Stockton 3,Governor,,REP,Eric Holcomb,111,53,89,253
+Greene,Stockton 3,Governor,,DEM,Woodrow (Woody) Myers,16,27,30,73
+Greene,Stockton 3,Governor,,LIB,Donald G Rainwater II,39,1,20,60
+Greene,Stockton 3,Attorney General,,REP,Todd Rokita,126,38,93,257
+Greene,Stockton 3,Attorney General,,DEM,Jonathan Weinzapfel,37,44,44,125
+Greene,Stockton 3,U.S. House,8,REP,Larry d Bucshon,139,40,97,276
+Greene,Stockton 3,U.S. House,8,DEM,E. Thomasina Marsili,13,41,36,90
+Greene,Stockton 3,U.S. House,8,LIB,James D. Rodenberger,13,0,2,15
+Greene,Stockton 3,U.S. House,9,,Write-In,0,0,0,0
+Greene,Stockton 3,State Representative,62,REP,Jelf Ellington,127,37,89,253
+Greene,Stockton 3,State Representative,62,DEM,Alyssa Balley,37,44,46,127
+Greene,Stockton 4,Registered Voters,,,,,,,629
+Greene,Stockton 4,Ballots Cast ,,,,196,75,140,411
+Greene,Stockton 4,President,,REP,Donald J Trump,156,32,108,296
+Greene,Stockton 4,President,,DEM,Joseph R Biden,34,35,30,99
+Greene,Stockton 4,President,,LIB,Jo Jorgensen,4,2,2,8
+Greene,Stockton 4,President,,,Write-In,1,2,0,3
+Greene,Stockton 4,Governor,,REP,Eric Holcomb,138,44,99,281
+Greene,Stockton 4,Governor,,DEM,Woodrow (Woody) Myers,20,22,26,68
+Greene,Stockton 4,Governor,,LIB,Donald G Rainwater II,32,3,14,49
+Greene,Stockton 4,Attorney General,,REP,Todd Rokita,140,40,105,285
+Greene,Stockton 4,Attorney General,,DEM,Jonathan Weinzapfel,48,32,31,111
+Greene,Stockton 4,U.S. House,8,REP,Larry d Bucshon,148,40,107,295
+Greene,Stockton 4,U.S. House,8,DEM,E. Thomasina Marsili,30,28,27,85
+Greene,Stockton 4,U.S. House,8,LIB,James D. Rodenberger,10,3,3,16
+Greene,Stockton 4,U.S. House,9,,Write-In,0,0,0,0
+Greene,Stockton 4,State Representative,62,REP,Jelf Ellington,136,39,102,277
+Greene,Stockton 4,State Representative,62,DEM,Alyssa Balley,56,31,35,122
+Greene,Stockton 5,Registered Voters,,,,,,,560
+Greene,Stockton 5,Ballots Cast ,,,,181,55,134,370
+Greene,Stockton 5,President,,REP,Donald J Trump,143,19,97,259
+Greene,Stockton 5,President,,DEM,Joseph R Biden,33,33,34,100
+Greene,Stockton 5,President,,LIB,Jo Jorgensen,4,0,1,5
+Greene,Stockton 5,President,,,Write-In,0,1,0,1
+Greene,Stockton 5,Governor,,REP,Eric Holcomb,112,27,76,215
+Greene,Stockton 5,Governor,,DEM,Woodrow (Woody) Myers,25,25,30,80
+Greene,Stockton 5,Governor,,LIB,Donald G Rainwater II,41,3,21,65
+Greene,Stockton 5,Attorney General,,REP,Todd Rokita,127,23,92,242
+Greene,Stockton 5,Attorney General,,DEM,Jonathan Weinzapfel,49,32,36,117
+Greene,Stockton 5,U.S. House,8,REP,Larry d Bucshon,140,26,95,261
+Greene,Stockton 5,U.S. House,8,DEM,E. Thomasina Marsili,30,27,33,90
+Greene,Stockton 5,U.S. House,8,LIB,James D. Rodenberger,8,0,4,12
+Greene,Stockton 5,U.S. House,9,,Write-In,0,0,0,0
+Greene,Stockton 5,State Representative,62,REP,Jelf Ellington,132,23,88,243
+Greene,Stockton 5,State Representative,62,DEM,Alyssa Balley,46,31,44,121
+Greene,Stockton 6,Registered Voters,,,,,,,751
+Greene,Stockton 6,Ballots Cast ,,,,198,123,229,550
+Greene,Stockton 6,President,,REP,Donald J Trump,149,59,161,369
+Greene,Stockton 6,President,,DEM,Joseph R Biden,41,61,62,164
+Greene,Stockton 6,President,,LIB,Jo Jorgensen,6,2,4,12
+Greene,Stockton 6,President,,,Write-In,0,0,0,0
+Greene,Stockton 6,Governor,,REP,Eric Holcomb,133,78,157,368
+Greene,Stockton 6,Governor,,DEM,Woodrow (Woody) Myers,26,38,46,110
+Greene,Stockton 6,Governor,,LIB,Donald G Rainwater II,39,5,24,68
+Greene,Stockton 6,Attorney General,,REP,Todd Rokita,144,62,155,361
+Greene,Stockton 6,Attorney General,,DEM,Jonathan Weinzapfel,49,54,67,170
+Greene,Stockton 6,U.S. House,8,REP,Larry d Bucshon,155,70,166,391
+Greene,Stockton 6,U.S. House,8,DEM,E. Thomasina Marsili,33,50,52,135
+Greene,Stockton 6,U.S. House,8,LIB,James D. Rodenberger,4,1,7,12
+Greene,Stockton 6,U.S. House,9,,Write-In,0,0,0,0
+Greene,Stockton 6,State Representative,62,REP,Jelf Ellington,142,65,148,355
+Greene,Stockton 6,State Representative,62,DEM,Alyssa Balley,50,53,76,179
+Greene,Stockton 7,Registered Voters,,,,,,,747
+Greene,Stockton 7,Ballots Cast ,,,,239,92,180,511
+Greene,Stockton 7,President,,REP,Donald J Trump,178,52,133,363
+Greene,Stockton 7,President,,DEM,Joseph R Biden,46,38,45,129
+Greene,Stockton 7,President,,LIB,Jo Jorgensen,12,2,1,15
+Greene,Stockton 7,President,,,Write-In,0,0,0,0
+Greene,Stockton 7,Governor,,REP,Eric Holcomb,148,66,119,333
+Greene,Stockton 7,Governor,,DEM,Woodrow (Woody) Myers,37,21,33,91
+Greene,Stockton 7,Governor,,LIB,Donald G Rainwater II,49,4,22,75
+Greene,Stockton 7,Attorney General,,REP,Todd Rokita,155,58,124,337
+Greene,Stockton 7,Attorney General,,DEM,Jonathan Weinzapfel,73,32,52,157
+Greene,Stockton 7,U.S. House,8,REP,Larry d Bucshon,180,60,135,375
+Greene,Stockton 7,U.S. House,8,DEM,E. Thomasina Marsili,37,29,41,107
+Greene,Stockton 7,U.S. House,8,LIB,James D. Rodenberger,12,2,2,16
+Greene,Stockton 7,U.S. House,9,,Write-In,0,0,0,0
+Greene,Stockton 7,State Representative,62,REP,Jelf Ellington,166,56,127,349
+Greene,Stockton 7,State Representative,62,DEM,Alyssa Balley,65,35,51,151
+Greene,Taylor,Registered Voters,,,,,,,815
+Greene,Taylor,Ballots Cast ,,,,296,79,285,660
+Greene,Taylor,President,,REP,Donald J Trump,245,33,214,492
+Greene,Taylor,President,,DEM,Joseph R Biden,42,45,67,154
+Greene,Taylor,President,,LIB,Jo Jorgensen,6,0,2,8
+Greene,Taylor,President,,,Write-In,0,1,0,1
+Greene,Taylor,Governor,,REP,Eric Holcomb,198,43,184,425
+Greene,Taylor,Governor,,DEM,Woodrow (Woody) Myers,31,33,52,116
+Greene,Taylor,Governor,,LIB,Donald G Rainwater II,58,0,44,102
+Greene,Taylor,Attorney General,,REP,Todd Rokita,228,37,204,469
+Greene,Taylor,Attorney General,,DEM,Jonathan Weinzapfel,59,40,69,168
+Greene,Taylor,U.S. House,8,REP,Larry d Bucshon,240,37,210,487
+Greene,Taylor,U.S. House,8,DEM,E. Thomasina Marsili,34,38,58,130
+Greene,Taylor,U.S. House,8,LIB,James D. Rodenberger,9,1,4,14
+Greene,Taylor,U.S. House,9,,Write-In,0,1,0,1
+Greene,Taylor,State Representative,62,REP,Jelf Ellington,230,36,209,475
+Greene,Taylor,State Representative,62,DEM,Alyssa Balley,54,41,70,165
+Greene,Washington 1,Registered Voters,,,,,,,307
+Greene,Washington 1,Ballots Cast ,,,,118,15,84,217
+Greene,Washington 1,President,,REP,Donald J Trump,103,6,59,168
+Greene,Washington 1,President,,DEM,Joseph R Biden,13,7,20,40
+Greene,Washington 1,President,,LIB,Jo Jorgensen,0,0,2,2
+Greene,Washington 1,President,,,Write-In,0,0,0,0
+Greene,Washington 1,Governor,,REP,Eric Holcomb,63,7,49,119
+Greene,Washington 1,Governor,,DEM,Woodrow (Woody) Myers,10,5,15,30
+Greene,Washington 1,Governor,,LIB,Donald G Rainwater II,43,1,18,62
+Greene,Washington 1,Attorney General,,REP,Todd Rokita,85,9,59,153
+Greene,Washington 1,Attorney General,,DEM,Jonathan Weinzapfel,27,5,21,53
+Greene,Washington 1,U.S. House,8,REP,Larry d Bucshon,94,8,57,159
+Greene,Washington 1,U.S. House,8,DEM,E. Thomasina Marsili,14,5,20,39
+Greene,Washington 1,U.S. House,8,LIB,James D. Rodenberger,5,1,4,10
+Greene,Washington 1,U.S. House,9,,Write-In,0,0,0,0
+Greene,Washington 1,State Representative,62,REP,Jelf Ellington,79,7,54,140
+Greene,Washington 1,State Representative,62,DEM,Alyssa Balley,36,8,27,71
+Greene,Washington 2,Registered Voters,,,,,,,338
+Greene,Washington 2,Ballots Cast ,,,,168,19,57,244
+Greene,Washington 2,President,,REP,Donald J Trump,135,11,50,196
+Greene,Washington 2,President,,DEM,Joseph R Biden,30,7,6,43
+Greene,Washington 2,President,,LIB,Jo Jorgensen,0,1,0,1
+Greene,Washington 2,President,,,Write-In,0,0,0,0
+Greene,Washington 2,Governor,,REP,Eric Holcomb,97,15,37,149
+Greene,Washington 2,Governor,,DEM,Woodrow (Woody) Myers,24,3,4,31
+Greene,Washington 2,Governor,,LIB,Donald G Rainwater II,42,0,15,57
+Greene,Washington 2,Attorney General,,REP,Todd Rokita,126,13,45,184
+Greene,Washington 2,Attorney General,,DEM,Jonathan Weinzapfel,33,5,7,45
+Greene,Washington 2,U.S. House,8,REP,Larry d Bucshon,132,14,48,194
+Greene,Washington 2,U.S. House,8,DEM,E. Thomasina Marsili,28,4,5,37
+Greene,Washington 2,U.S. House,8,LIB,James D. Rodenberger,3,0,0,3
+Greene,Washington 2,U.S. House,9,,Write-In,0,0,0,0
+Greene,Washington 2,State Representative,62,REP,Jelf Ellington,114,12,47,173
+Greene,Washington 2,State Representative,62,DEM,Alyssa Balley,50,6,8,64
+Greene,Wright 1,Registered Voters,,,,,,,405
+Greene,Wright 1,Ballots Cast ,,,,180,41,25,246
+Greene,Wright 1,President,,REP,Donald J Trump,142,20,23,185
+Greene,Wright 1,President,,DEM,Joseph R Biden,30,21,2,53
+Greene,Wright 1,President,,LIB,Jo Jorgensen,6,0,0,6
+Greene,Wright 1,President,,,Write-In,1,0,0,1
+Greene,Wright 1,Governor,,REP,Eric Holcomb,95,20,14,129
+Greene,Wright 1,Governor,,DEM,Woodrow (Woody) Myers,25,17,1,43
+Greene,Wright 1,Governor,,LIB,Donald G Rainwater II,52,3,10,65
+Greene,Wright 1,Attorney General,,REP,Todd Rokita,118,18,23,159
+Greene,Wright 1,Attorney General,,DEM,Jonathan Weinzapfel,54,23,2,79
+Greene,Wright 1,U.S. House,8,REP,Larry d Bucshon,131,17,23,171
+Greene,Wright 1,U.S. House,8,DEM,E. Thomasina Marsili,33,19,1,53
+Greene,Wright 1,U.S. House,8,LIB,James D. Rodenberger,9,4,0,13
+Greene,Wright 1,U.S. House,9,,Write-In,0,0,0,0
+Greene,Wright 1,State Representative,45,REP,Bruce Borders,132,25,22,179
+Greene,Wright 1,State Representative,45,DEM,No Candidate Filed,0,0,0,0
+Greene,Wright 2,Registered Voters,,,,,,,280
+Greene,Wright 2,Ballots Cast ,,,,158,12,28,198
+Greene,Wright 2,President,,REP,Donald J Trump,129,3,16,148
+Greene,Wright 2,President,,DEM,Joseph R Biden,21,8,7,36
+Greene,Wright 2,President,,LIB,Jo Jorgensen,8,1,5,14
+Greene,Wright 2,President,,,Write-In,0,0,0,0
+Greene,Wright 2,Governor,,REP,Eric Holcomb,102,6,14,122
+Greene,Wright 2,Governor,,DEM,Woodrow (Woody) Myers,13,6,6,25
+Greene,Wright 2,Governor,,LIB,Donald G Rainwater II,39,0,8,47
+Greene,Wright 2,Attorney General,,REP,Todd Rokita,113,1,17,131
+Greene,Wright 2,Attorney General,,DEM,Jonathan Weinzapfel,42,8,11,61
+Greene,Wright 2,U.S. House,8,REP,Larry d Bucshon,127,3,15,145
+Greene,Wright 2,U.S. House,8,DEM,E. Thomasina Marsili,20,7,5,32
+Greene,Wright 2,U.S. House,8,LIB,James D. Rodenberger,5,1,6,12
+Greene,Wright 2,U.S. House,9,,Write-In,0,0,0,0
+Greene,Wright 2,State Representative,45,REP,Bruce Borders,126,4,21,151
+Greene,Wright 2,State Representative,45,DEM,No Candidate Filed,0,0,0,0
+Greene,Wright 3,Registered Voters,,,,,,,455
+Greene,Wright 3,Ballots Cast ,,,,224,36,44,304
+Greene,Wright 3,President,,REP,Donald J Trump,186,26,31,243
+Greene,Wright 3,President,,DEM,Joseph R Biden,26,7,10,43
+Greene,Wright 3,President,,LIB,Jo Jorgensen,10,2,2,14
+Greene,Wright 3,President,,,Write-In,0,0,0,0
+Greene,Wright 3,Governor,,REP,Eric Holcomb,130,22,22,174
+Greene,Wright 3,Governor,,DEM,Woodrow (Woody) Myers,27,8,11,46
+Greene,Wright 3,Governor,,LIB,Donald G Rainwater II,63,3,11,77
+Greene,Wright 3,Attorney General,,REP,Todd Rokita,158,25,30,213
+Greene,Wright 3,Attorney General,,DEM,Jonathan Weinzapfel,59,8,13,80
+Greene,Wright 3,U.S. House,8,REP,Larry d Bucshon,175,24,30,229
+Greene,Wright 3,U.S. House,8,DEM,E. Thomasina Marsili,31,8,9,48
+Greene,Wright 3,U.S. House,8,LIB,James D. Rodenberger,13,2,4,19
+Greene,Wright 3,U.S. House,9,,Write-In,0,0,0,0
+Greene,Wright 3,State Representative,45,REP,Bruce Borders,161,26,31,218
+Greene,Wright 3,State Representative,45,DEM,No Candidate Filed,0,0,0,0
+Greene,Wright 4,Registered Voters,,,,,,,512
+Greene,Wright 4,Ballots Cast ,,,,227,42,108,377
+Greene,Wright 4,President,,REP,Donald J Trump,182,24,83,289
+Greene,Wright 4,President,,DEM,Joseph R Biden,37,18,20,75
+Greene,Wright 4,President,,LIB,Jo Jorgensen,6,0,4,10
+Greene,Wright 4,President,,,Write-In,0,0,0,0
+Greene,Wright 4,Governor,,REP,Eric Holcomb,153,26,69,248
+Greene,Wright 4,Governor,,DEM,Woodrow (Woody) Myers,26,14,17,57
+Greene,Wright 4,Governor,,LIB,Donald G Rainwater II,46,2,21,69
+Greene,Wright 4,Attorney General,,REP,Todd Rokita,163,23,80,266
+Greene,Wright 4,Attorney General,,DEM,Jonathan Weinzapfel,59,19,26,104
+Greene,Wright 4,U.S. House,8,REP,Larry d Bucshon,182,24,80,286
+Greene,Wright 4,U.S. House,8,DEM,E. Thomasina Marsili,29,18,20,67
+Greene,Wright 4,U.S. House,8,LIB,James D. Rodenberger,10,0,6,16
+Greene,Wright 4,U.S. House,9,,Write-In,0,0,0,0
+Greene,Wright 4,State Representative,45,REP,Bruce Borders,181,25,82,288
+Greene,Wright 4,State Representative,45,DEM,No Candidate Filed,0,0,0,0
+Greene,Wright 5,Registered Voters,,,,,,,642
+Greene,Wright 5,Ballots Cast ,,,,254,54,174,482
+Greene,Wright 5,President,,REP,Donald J Trump,215,31,126,372
+Greene,Wright 5,President,,DEM,Joseph R Biden,32,22,42,96
+Greene,Wright 5,President,,LIB,Jo Jorgensen,3,1,4,8
+Greene,Wright 5,President,,,Write-In,0,0,0,0
+Greene,Wright 5,Governor,,REP,Eric Holcomb,166,36,116,318
+Greene,Wright 5,Governor,,DEM,Woodrow (Woody) Myers,25,13,32,70
+Greene,Wright 5,Governor,,LIB,Donald G Rainwater II,59,3,23,85
+Greene,Wright 5,Attorney General,,REP,Todd Rokita,194,31,116,341
+Greene,Wright 5,Attorney General,,DEM,Jonathan Weinzapfel,49,22,54,125
+Greene,Wright 5,U.S. House,8,REP,Larry d Bucshon,205,32,127,364
+Greene,Wright 5,U.S. House,8,DEM,E. Thomasina Marsili,28,19,37,84
+Greene,Wright 5,U.S. House,8,LIB,James D. Rodenberger,11,1,5,17
+Greene,Wright 5,U.S. House,8,,Write-In,0,0,0,0
+Greene,Wright 5,State Representative,45,REP,Bruce Borders,193,35,130,358
+Greene,Wright 5,State Representative,45,DEM,No Candidate Filed,0,0,0,0

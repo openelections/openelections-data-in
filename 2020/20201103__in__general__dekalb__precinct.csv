@@ -1,0 +1,811 @@
+county,precinct,office,district,party,candidate,election_day,absentee,early_voting,votes
+DeKalb,Butler 1,Registered Voters,,,,,,,429
+DeKalb,Butler 1,Ballots Cast ,,,,115,49,142,306
+DeKalb,Butler 1,President,,REP,Donald J Trump,95,17,109,221
+DeKalb,Butler 1,President,,DEM,Joseph R Biden,17,30,26,73
+DeKalb,Butler 1,President,,LIB,Jo Jorgensen,3,2,5,10
+DeKalb,Butler 1,President,,,Write-In,0,0,0,0
+DeKalb,Butler 1,Governor,,REP,Eric Holcomb,77,25,96,198
+DeKalb,Butler 1,Governor,,DEM,Woodrow (Woody) Myers,14,16,23,53
+DeKalb,Butler 1,Governor,,LIB,Donald G Rainwater II,23,4,22,49
+DeKalb,Butler 1,Attorney General,,REP,Todd Rokita,85,20,105,210
+DeKalb,Butler 1,Attorney General,,DEM,Jonathan Weinzapfel,26,27,29,82
+DeKalb,Butler 1,U.S. House,3,REP,Jim Banks,95,17,112,224
+DeKalb,Butler 1,U.S. House,3,DEM,Chip Coldiron,19,31,29,79
+DeKalb,Butler 1,U.S. House,3,,Write-In,0,0,0,0
+DeKalb,Butler 1,State Senate,13,REP,C Susan Glick,99,28,118,245
+DeKalb,Butler 1,State Representative,52,REP,Ben Smaltz,92,18,100,210
+DeKalb,Butler 1,State Representative,52,DEM,Martha (Marty) Lemert,16,29,28,73
+DeKalb,Butler 1,State Representative,52,LIB,Morgan Rigg,6,1,9,16
+DeKalb,Butler 2,Registered Voters,,,,,,,883
+DeKalb,Butler 2,Ballots Cast ,,,,225,112,299,636
+DeKalb,Butler 2,President,,REP,Donald J Trump,177,53,233,463
+DeKalb,Butler 2,President,,DEM,Joseph R Biden,43,57,60,160
+DeKalb,Butler 2,President,,LIB,Jo Jorgensen,5,1,4,10
+DeKalb,Butler 2,President,,,Write-In,0,1,0,1
+DeKalb,Butler 2,Governor,,REP,Eric Holcomb,162,63,231,456
+DeKalb,Butler 2,Governor,,DEM,Woodrow (Woody) Myers,26,43,33,102
+DeKalb,Butler 2,Governor,,LIB,Donald G Rainwater II,37,5,31,73
+DeKalb,Butler 2,Attorney General,,REP,Todd Rokita,163,57,228,448
+DeKalb,Butler 2,Attorney General,,DEM,Jonathan Weinzapfel,52,55,60,167
+DeKalb,Butler 2,U.S. House,3,REP,Jim Banks,178,58,235,471
+DeKalb,Butler 2,U.S. House,3,DEM,Chip Coldiron,42,54,57,153
+DeKalb,Butler 2,U.S. House,3,,Write-In,0,0,0,0
+DeKalb,Butler 2,State Senate,13,REP,C Susan Glick,190,68,254,512
+DeKalb,Butler 2,State Representative,52,REP,Ben Smaltz,172,54,232,458
+DeKalb,Butler 2,State Representative,52,DEM,Martha (Marty) Lemert,37,54,49,140
+DeKalb,Butler 2,State Representative,52,LIB,Morgan Rigg,10,4,7,21
+DeKalb,Concord,Registered Voters,,,,,,,857
+DeKalb,Concord,Ballots Cast ,,,,237,54,299,590
+DeKalb,Concord,President,,REP,Donald J Trump,198,25,241,464
+DeKalb,Concord,President,,DEM,Joseph R Biden,31,28,52,111
+DeKalb,Concord,President,,LIB,Jo Jorgensen,7,1,5,13
+DeKalb,Concord,President,,,Write-In,0,0,0,0
+DeKalb,Concord,Governor,,REP,Eric Holcomb,148,40,223,411
+DeKalb,Concord,Governor,,DEM,Woodrow (Woody) Myers,26,13,32,71
+DeKalb,Concord,Governor,,LIB,Donald G Rainwater II,60,1,40,101
+DeKalb,Concord,Attorney General,,REP,Todd Rokita,178,31,229,438
+DeKalb,Concord,Attorney General,,DEM,Jonathan Weinzapfel,47,23,49,119
+DeKalb,Concord,U.S. House,3,REP,Jim Banks,196,29,242,467
+DeKalb,Concord,U.S. House,3,DEM,Chip Coldiron,35,25,48,108
+DeKalb,Concord,U.S. House,3,,Write-In,0,0,0,0
+DeKalb,Concord,State Senate,13,REP,C Susan Glick,,,,
+DeKalb,Concord,State Representative,52,REP,Ben Smaltz,190,32,241,463
+DeKalb,Concord,State Representative,52,DEM,Martha (Marty) Lemert,31,20,40,91
+DeKalb,Concord,State Representative,52,LIB,Morgan Rigg,11,2,8,21
+DeKalb,Fairfield,Registered Voters,,,,,,,991
+DeKalb,Fairfield,Ballots Cast ,,,,266,95,388,749
+DeKalb,Fairfield,President,,REP,Donald J Trump,224,49,304,577
+DeKalb,Fairfield,President,,DEM,Joseph R Biden,38,38,75,151
+DeKalb,Fairfield,President,,LIB,Jo Jorgensen,4,5,7,16
+DeKalb,Fairfield,President,,,Write-In,0,0,0,0
+DeKalb,Fairfield,Governor,,REP,Eric Holcomb,172,59,265,496
+DeKalb,Fairfield,Governor,,DEM,Woodrow (Woody) Myers,28,28,55,111
+DeKalb,Fairfield,Governor,,LIB,Donald G Rainwater II,62,6,65,133
+DeKalb,Fairfield,Attorney General,,REP,Todd Rokita,201,57,289,547
+DeKalb,Fairfield,Attorney General,,DEM,Jonathan Weinzapfel,50,34,77,161
+DeKalb,Fairfield,U.S. House,3,REP,Jim Banks,221,55,312,588
+DeKalb,Fairfield,U.S. House,3,DEM,Chip Coldiron,41,34,69,144
+DeKalb,Fairfield,U.S. House,3,,Write-In,0,0,0,0
+DeKalb,Fairfield,State Senate,13,REP,C Susan Glick,231,68,334,633
+DeKalb,Fairfield,State Representative,52,REP,Ben Smaltz,211,57,303,571
+DeKalb,Fairfield,State Representative,52,DEM,Martha (Marty) Lemert,36,29,65,130
+DeKalb,Fairfield,State Representative,52,LIB,Morgan Rigg,11,6,14,31
+DeKalb,Franklin,Registered Voters,,,,,,,829
+DeKalb,Franklin,Ballots Cast ,,,,272,74,222,568
+DeKalb,Franklin,President,,REP,Donald J Trump,219,35,181,435
+DeKalb,Franklin,President,,DEM,Joseph R Biden,45,34,37,116
+DeKalb,Franklin,President,,LIB,Jo Jorgensen,4,2,3,9
+DeKalb,Franklin,President,,,Write-In,0,0,0,0
+DeKalb,Franklin,Governor,,REP,Eric Holcomb,197,46,159,402
+DeKalb,Franklin,Governor,,DEM,Woodrow (Woody) Myers,29,23,23,75
+DeKalb,Franklin,Governor,,LIB,Donald G Rainwater II,42,3,35,80
+DeKalb,Franklin,Attorney General,,REP,Todd Rokita,200,38,171,409
+DeKalb,Franklin,Attorney General,,DEM,Jonathan Weinzapfel,53,34,38,125
+DeKalb,Franklin,U.S. House,3,REP,Jim Banks,220,42,185,447
+DeKalb,Franklin,U.S. House,3,DEM,Chip Coldiron,47,30,33,110
+DeKalb,Franklin,U.S. House,3,,Write-In,0,0,0,0
+DeKalb,Franklin,State Senate,13,REP,C Susan Glick,,,,
+DeKalb,Franklin,State Representative,52,REP,Ben Smaltz,217,42,171,430
+DeKalb,Franklin,State Representative,52,DEM,Martha (Marty) Lemert,39,26,36,101
+DeKalb,Franklin,State Representative,52,LIB,Morgan Rigg,10,4,9,23
+DeKalb,Grant 1,Registered Voters,,,,,,,378
+DeKalb,Grant 1,Ballots Cast ,,,,75,16,95,186
+DeKalb,Grant 1,President,,REP,Donald J Trump,58,10,55,123
+DeKalb,Grant 1,President,,DEM,Joseph R Biden,16,5,37,58
+DeKalb,Grant 1,President,,LIB,Jo Jorgensen,0,1,1,2
+DeKalb,Grant 1,President,,,Write-In,0,0,0,0
+DeKalb,Grant 1,Governor,,REP,Eric Holcomb,38,10,49,97
+DeKalb,Grant 1,Governor,,DEM,Woodrow (Woody) Myers,10,3,31,44
+DeKalb,Grant 1,Governor,,LIB,Donald G Rainwater II,25,2,14,41
+DeKalb,Grant 1,Attorney General,,REP,Todd Rokita,45,10,54,109
+DeKalb,Grant 1,Attorney General,,DEM,Jonathan Weinzapfel,24,5,38,67
+DeKalb,Grant 1,U.S. House,3,REP,Jim Banks,58,8,55,122
+DeKalb,Grant 1,U.S. House,3,DEM,Chip Coldiron,15,5,38,58
+DeKalb,Grant 1,U.S. House,3,,Write-In,0,0,0,0
+DeKalb,Grant 1,State Senate,13,REP,C Susan Glick,,,,
+DeKalb,Grant 1,State Representative,52,REP,Ben Smaltz,56,10,53,119
+DeKalb,Grant 1,State Representative,52,DEM,Martha (Marty) Lemert,12,4,37,53
+DeKalb,Grant 1,State Representative,52,LIB,Morgan Rigg,3,1,3,7
+DeKalb,Grant 2,Registered Voters,,,,,,,792
+DeKalb,Grant 2,Ballots Cast ,,,,137,83,392,612
+DeKalb,Grant 2,President,,REP,Donald J Trump,117,48,293,458
+DeKalb,Grant 2,President,,DEM,Joseph R Biden,15,29,92,136
+DeKalb,Grant 2,President,,LIB,Jo Jorgensen,3,2,2,7
+DeKalb,Grant 2,President,,,Write-In,1,0,0,1
+DeKalb,Grant 2,Governor,,REP,Eric Holcomb,99,60,280,439
+DeKalb,Grant 2,Governor,,DEM,Woodrow (Woody) Myers,7,22,52,81
+DeKalb,Grant 2,Governor,,LIB,Donald G Rainwater II,30,1,57,88
+DeKalb,Grant 2,Attorney General,,REP,Todd Rokita,114,52,304,470
+DeKalb,Grant 2,Attorney General,,DEM,Jonathan Weinzapfel,16,29,77,122
+DeKalb,Grant 2,U.S. House,3,REP,Jim Banks,118,52,311,481
+DeKalb,Grant 2,U.S. House,3,DEM,Chip Coldiron,14,30,73,117
+DeKalb,Grant 2,U.S. House,3,,Write-In,0,0,0,0
+DeKalb,Grant 2,State Senate,13,REP,C Susan Glick,,,,
+DeKalb,Grant 2,State Representative,52,REP,Ben Smaltz,119,55,316,490
+DeKalb,Grant 2,State Representative,52,DEM,Martha (Marty) Lemert,8,24,63,95
+DeKalb,Grant 2,State Representative,52,LIB,Morgan Rigg,6,3,8,17
+DeKalb,Grant 3,Registered Voters,,,,,,,812
+DeKalb,Grant 3,Ballots Cast ,,,,169,58,288,511
+DeKalb,Grant 3,President,,REP,Donald J Trump,121,25,203,349
+DeKalb,Grant 3,President,,DEM,Joseph R Biden,36,28,77,141
+DeKalb,Grant 3,President,,LIB,Jo Jorgensen,11,1,5,17
+DeKalb,Grant 3,President,,,Write-In,0,0,2,2
+DeKalb,Grant 3,Governor,,REP,Eric Holcomb,91,34,165,290
+DeKalb,Grant 3,Governor,,DEM,Woodrow (Woody) Myers,29,16,64,109
+DeKalb,Grant 3,Governor,,LIB,Donald G Rainwater II,43,1,54,98
+DeKalb,Grant 3,Attorney General,,REP,Todd Rokita,111,34,189,334
+DeKalb,Grant 3,Attorney General,,DEM,Jonathan Weinzapfel,46,17,83,146
+DeKalb,Grant 3,U.S. House,3,REP,Jim Banks,125,32,215,372
+DeKalb,Grant 3,U.S. House,3,DEM,Chip Coldiron,39,19,71,129
+DeKalb,Grant 3,U.S. House,3,,Write-In,0,0,0,0
+DeKalb,Grant 3,State Senate,13,REP,C Susan Glick,,,,
+DeKalb,Grant 3,State Representative,52,REP,Ben Smaltz,120,33,206,359
+DeKalb,Grant 3,State Representative,52,DEM,Martha (Marty) Lemert,33,16,63,112
+DeKalb,Grant 3,State Representative,52,LIB,Morgan Rigg,11,2,13,26
+DeKalb,Jackson North,Registered Voters,,,,,,,1421
+DeKalb,Jackson North,Ballots Cast ,,,,241,140,682,1063
+DeKalb,Jackson North,President,,REP,Donald J Trump,197,74,527,798
+DeKalb,Jackson North,President,,DEM,Joseph R Biden,37,64,140,241
+DeKalb,Jackson North,President,,LIB,Jo Jorgensen,4,2,9,15
+DeKalb,Jackson North,President,,,Write-In,1,0,0,1
+DeKalb,Jackson North,Governor,,REP,Eric Holcomb,162,93,481,736
+DeKalb,Jackson North,Governor,,DEM,Woodrow (Woody) Myers,23,40,91,154
+DeKalb,Jackson North,Governor,,LIB,Donald G Rainwater II,50,3,106,159
+DeKalb,Jackson North,Attorney General,,REP,Todd Rokita,184,79,527,790
+DeKalb,Jackson North,Attorney General,,DEM,Jonathan Weinzapfel,45,57,123,225
+DeKalb,Jackson North,U.S. House,3,REP,Jim Banks,201,82,544,827
+DeKalb,Jackson North,U.S. House,3,DEM,Chip Coldiron,34,54,124,212
+DeKalb,Jackson North,U.S. House,3,,Write-In,0,0,0,0
+DeKalb,Jackson North,State Senate,13,REP,C Susan Glick,,,,
+DeKalb,Jackson North,State Representative,52,REP,Ben Smaltz,195,87,546,828
+DeKalb,Jackson North,State Representative,52,DEM,Martha (Marty) Lemert,34,46,98,178
+DeKalb,Jackson North,State Representative,52,LIB,Morgan Rigg,5,1,25,31
+DeKalb,Jackson South,Registered Voters,,,,,,,1276
+DeKalb,Jackson South,Ballots Cast ,,,,222,142,602,966
+DeKalb,Jackson South,President,,REP,Donald J Trump,194,77,490,761
+DeKalb,Jackson South,President,,DEM,Joseph R Biden,20,61,100,181
+DeKalb,Jackson South,President,,LIB,Jo Jorgensen,6,3,8,17
+DeKalb,Jackson South,President,,,Write-In,0,0,1,1
+DeKalb,Jackson South,Governor,,REP,Eric Holcomb,148,100,447,695
+DeKalb,Jackson South,Governor,,DEM,Woodrow (Woody) Myers,17,34,64,115
+DeKalb,Jackson South,Governor,,LIB,Donald G Rainwater II,53,3,81,137
+DeKalb,Jackson South,Attorney General,,REP,Todd Rokita,185,81,477,743
+DeKalb,Jackson South,Attorney General,,DEM,Jonathan Weinzapfel,29,56,96,181
+DeKalb,Jackson South,U.S. House,3,REP,Jim Banks,195,84,493,772
+DeKalb,Jackson South,U.S. House,3,DEM,Chip Coldiron,25,55,96,176
+DeKalb,Jackson South,U.S. House,3,,Write-In,0,0,0,0
+DeKalb,Jackson South,State Senate,13,REP,C Susan Glick,,,,
+DeKalb,Jackson South,State Representative,52,REP,Ben Smaltz,186,83,486,755
+DeKalb,Jackson South,State Representative,52,DEM,Martha (Marty) Lemert,17,48,86,151
+DeKalb,Jackson South,State Representative,52,LIB,Morgan Rigg,18,4,13,35
+DeKalb,Keyser 1,Registered Voters,,,,,,,1025
+DeKalb,Keyser 1,Ballots Cast ,,,,260,48,179,487
+DeKalb,Keyser 1,President,,REP,Donald J Trump,202,20,109,331
+DeKalb,Keyser 1,President,,DEM,Joseph R Biden,48,25,64,137
+DeKalb,Keyser 1,President,,LIB,Jo Jorgensen,7,2,4,13
+DeKalb,Keyser 1,President,,,Write-In,0,0,1,1
+DeKalb,Keyser 1,Governor,,REP,Eric Holcomb,160,26,105,291
+DeKalb,Keyser 1,Governor,,DEM,Woodrow (Woody) Myers,29,14,45,88
+DeKalb,Keyser 1,Governor,,LIB,Donald G Rainwater II,66,6,26,98
+DeKalb,Keyser 1,Attorney General,,REP,Todd Rokita,173,24,102,299
+DeKalb,Keyser 1,Attorney General,,DEM,Jonathan Weinzapfel,68,18,66,152
+DeKalb,Keyser 1,U.S. House,3,REP,Jim Banks,202,23,109,334
+DeKalb,Keyser 1,U.S. House,3,DEM,Chip Coldiron,48,21,64,133
+DeKalb,Keyser 1,U.S. House,3,,Write-In,0,0,0,0
+DeKalb,Keyser 1,State Senate,13,REP,C Susan Glick,219,29,137,385
+DeKalb,Keyser 1,State Representative,52,REP,Ben Smaltz,196,23,109,328
+DeKalb,Keyser 1,State Representative,52,DEM,Martha (Marty) Lemert,40,16,58,114
+DeKalb,Keyser 1,State Representative,52,LIB,Morgan Rigg,12,3,7,22
+DeKalb,Keyser 2,Registered Voters,,,,,,,905
+DeKalb,Keyser 2,Ballots Cast ,,,,277,57,223,557
+DeKalb,Keyser 2,President,,REP,Donald J Trump,201,19,127,347
+DeKalb,Keyser 2,President,,DEM,Joseph R Biden,63,35,83,181
+DeKalb,Keyser 2,President,,LIB,Jo Jorgensen,11,2,8,21
+DeKalb,Keyser 2,President,,,Write-In,0,0,1,1
+DeKalb,Keyser 2,Governor,,REP,Eric Holcomb,161,30,123,314
+DeKalb,Keyser 2,Governor,,DEM,Woodrow (Woody) Myers,47,22,53,122
+DeKalb,Keyser 2,Governor,,LIB,Donald G Rainwater II,66,3,41,110
+DeKalb,Keyser 2,Attorney General,,REP,Todd Rokita,183,27,119,329
+DeKalb,Keyser 2,Attorney General,,DEM,Jonathan Weinzapfel,81,27,83,191
+DeKalb,Keyser 2,U.S. House,3,REP,Jim Banks,202,22,133,357
+DeKalb,Keyser 2,U.S. House,3,DEM,Chip Coldiron,69,31,82,182
+DeKalb,Keyser 2,U.S. House,3,,Write-In,0,0,0,0
+DeKalb,Keyser 2,State Senate,13,REP,C Susan Glick,230,38,163,431
+DeKalb,Keyser 2,State Representative,52,REP,Ben Smaltz,195,19,123,337
+DeKalb,Keyser 2,State Representative,52,DEM,Martha (Marty) Lemert,55,33,73,161
+DeKalb,Keyser 2,State Representative,52,LIB,Morgan Rigg,21,3,20,44
+DeKalb,Keyser 3,Registered Voters,,,,,,,1040
+DeKalb,Keyser 3,Ballots Cast ,,,,273,78,294,645
+DeKalb,Keyser 3,President,,REP,Donald J Trump,210,23,191,424
+DeKalb,Keyser 3,President,,DEM,Joseph R Biden,53,53,96,202
+DeKalb,Keyser 3,President,,LIB,Jo Jorgensen,8,2,3,13
+DeKalb,Keyser 3,President,,,Write-In,0,0,2,2
+DeKalb,Keyser 3,Governor,,REP,Eric Holcomb,165,43,173,381
+DeKalb,Keyser 3,Governor,,DEM,Woodrow (Woody) Myers,28,29,72,129
+DeKalb,Keyser 3,Governor,,LIB,Donald G Rainwater II,77,3,46,126
+DeKalb,Keyser 3,Attorney General,,REP,Todd Rokita,184,25,183,392
+DeKalb,Keyser 3,Attorney General,,DEM,Jonathan Weinzapfel,68,47,88,203
+DeKalb,Keyser 3,U.S. House,3,REP,Jim Banks,212,28,204,444
+DeKalb,Keyser 3,U.S. House,3,DEM,Chip Coldiron,55,46,87,188
+DeKalb,Keyser 3,U.S. House,3,,Write-In,0,0,0,0
+DeKalb,Keyser 3,State Senate,13,REP,C Susan Glick,237,40,233,510
+DeKalb,Keyser 3,State Representative,52,REP,Ben Smaltz,198,27,191,416
+DeKalb,Keyser 3,State Representative,52,DEM,Martha (Marty) Lemert,41,43,87,171
+DeKalb,Keyser 3,State Representative,52,LIB,Morgan Rigg,22,3,8,33
+DeKalb,Keyser 4,Registered Voters,,,,,,,1168
+DeKalb,Keyser 4,Ballots Cast ,,,,334,99,325,758
+DeKalb,Keyser 4,President,,REP,Donald J Trump,253,42,218,513
+DeKalb,Keyser 4,President,,DEM,Joseph R Biden,66,52,100,218
+DeKalb,Keyser 4,President,,LIB,Jo Jorgensen,14,2,5,21
+DeKalb,Keyser 4,President,,,Write-In,0,1,1,2
+DeKalb,Keyser 4,Governor,,REP,Eric Holcomb,205,64,202,471
+DeKalb,Keyser 4,Governor,,DEM,Woodrow (Woody) Myers,44,32,67,143
+DeKalb,Keyser 4,Governor,,LIB,Donald G Rainwater II,80,1,49,130
+DeKalb,Keyser 4,Attorney General,,REP,Todd Rokita,219,49,202,470
+DeKalb,Keyser 4,Attorney General,,DEM,Jonathan Weinzapfel,89,47,104,240
+DeKalb,Keyser 4,U.S. House,3,REP,Jim Banks,254,45,222,521
+DeKalb,Keyser 4,U.S. House,3,DEM,Chip Coldiron,71,50,93,214
+DeKalb,Keyser 4,U.S. House,3,,Write-In,1,0,0,1
+DeKalb,Keyser 4,State Senate,13,REP,C Susan Glick,270,59,259,588
+DeKalb,Keyser 4,State Representative,52,REP,Ben Smaltz,241,46,216,503
+DeKalb,Keyser 4,State Representative,52,DEM,Martha (Marty) Lemert,68,48,91,207
+DeKalb,Keyser 4,State Representative,52,LIB,Morgan Rigg,16,2,6,24
+DeKalb,Keyser 5,Registered Voters,,,,,,,812
+DeKalb,Keyser 5,Ballots Cast ,,,,216,72,259,547
+DeKalb,Keyser 5,President,,REP,Donald J Trump,179,36,205,420
+DeKalb,Keyser 5,President,,DEM,Joseph R Biden,33,35,50,118
+DeKalb,Keyser 5,President,,LIB,Jo Jorgensen,3,0,3,6
+DeKalb,Keyser 5,President,,,Write-In,0,0,0,0
+DeKalb,Keyser 5,Governor,,REP,Eric Holcomb,140,50,177,367
+DeKalb,Keyser 5,Governor,,DEM,Woodrow (Woody) Myers,15,20,39,74
+DeKalb,Keyser 5,Governor,,LIB,Donald G Rainwater II,57,0,38,95
+DeKalb,Keyser 5,Attorney General,,REP,Todd Rokita,159,39,192,390
+DeKalb,Keyser 5,Attorney General,,DEM,Jonathan Weinzapfel,44,31,51,126
+DeKalb,Keyser 5,U.S. House,3,REP,Jim Banks,178,38,208,424
+DeKalb,Keyser 5,U.S. House,3,DEM,Chip Coldiron,32,32,48,112
+DeKalb,Keyser 5,U.S. House,3,,Write-In,0,0,0,0
+DeKalb,Keyser 5,State Senate,13,REP,C Susan Glick,186,51,211,448
+DeKalb,Keyser 5,State Representative,52,REP,Ben Smaltz,168,43,201,412
+DeKalb,Keyser 5,State Representative,52,DEM,Martha (Marty) Lemert,24,28,48,100
+DeKalb,Keyser 5,State Representative,52,LIB,Morgan Rigg,17,0,5,22
+DeKalb,Keyser 6,Registered Voters,,,,,,,96
+DeKalb,Keyser 6,Ballots Cast ,,,,13,8,22,43
+DeKalb,Keyser 6,President,,REP,Donald J Trump,9,4,14,27
+DeKalb,Keyser 6,President,,DEM,Joseph R Biden,2,4,7,13
+DeKalb,Keyser 6,President,,LIB,Jo Jorgensen,2,0,0,2
+DeKalb,Keyser 6,President,,,Write-In,0,0,1,1
+DeKalb,Keyser 6,Governor,,REP,Eric Holcomb,6,7,11,24
+DeKalb,Keyser 6,Governor,,DEM,Woodrow (Woody) Myers,1,1,7,9
+DeKalb,Keyser 6,Governor,,LIB,Donald G Rainwater II,6,0,2,8
+DeKalb,Keyser 6,Attorney General,,REP,Todd Rokita,9,6,12,27
+DeKalb,Keyser 6,Attorney General,,DEM,Jonathan Weinzapfel,3,2,8,13
+DeKalb,Keyser 6,U.S. House,3,REP,Jim Banks,9,5,12,26
+DeKalb,Keyser 6,U.S. House,3,DEM,Chip Coldiron,4,3,9,16
+DeKalb,Keyser 6,U.S. House,3,,Write-In,0,0,0,0
+DeKalb,Keyser 6,State Senate,13,REP,C Susan Glick,10,6,16,32
+DeKalb,Keyser 6,State Representative,52,REP,Ben Smaltz,8,5,13,26
+DeKalb,Keyser 6,State Representative,52,DEM,Martha (Marty) Lemert,1,3,7,11
+DeKalb,Keyser 6,State Representative,52,LIB,Morgan Rigg,4,0,0,4
+DeKalb,Newville,Registered Voters,,,,,,,363
+DeKalb,Newville,Ballots Cast ,,,,154,15,81,250
+DeKalb,Newville,President,,REP,Donald J Trump,134,9,68,211
+DeKalb,Newville,President,,DEM,Joseph R Biden,15,6,10,31
+DeKalb,Newville,President,,LIB,Jo Jorgensen,3,0,1,4
+DeKalb,Newville,President,,,Write-In,1,0,1,2
+DeKalb,Newville,Governor,,REP,Eric Holcomb,110,11,58,179
+DeKalb,Newville,Governor,,DEM,Woodrow (Woody) Myers,12,4,7,23
+DeKalb,Newville,Governor,,LIB,Donald G Rainwater II,32,0,15,47
+DeKalb,Newville,Attorney General,,REP,Todd Rokita,131,7,65,203
+DeKalb,Newville,Attorney General,,DEM,Jonathan Weinzapfel,20,7,14,41
+DeKalb,Newville,U.S. House,3,REP,Jim Banks,137,10,69,216
+DeKalb,Newville,U.S. House,3,DEM,Chip Coldiron,16,5,11,32
+DeKalb,Newville,U.S. House,3,,Write-In,0,0,0,0
+DeKalb,Newville,State Senate,13,REP,C Susan Glick,,,,
+DeKalb,Newville,State Representative,52,REP,Ben Smaltz,136,9,68,213
+DeKalb,Newville,State Representative,52,DEM,Martha (Marty) Lemert,14,5,11,30
+DeKalb,Newville,State Representative,52,LIB,Morgan Rigg,2,1,1,4
+DeKalb,Richland,Registered Voters,,,,,,,996
+DeKalb,Richland,Ballots Cast ,,,,346,84,254,684
+DeKalb,Richland,President,,REP,Donald J Trump,294,37,192,523
+DeKalb,Richland,President,,DEM,Joseph R Biden,42,42,56,140
+DeKalb,Richland,President,,LIB,Jo Jorgensen,5,2,3,10
+DeKalb,Richland,President,,,Write-In,0,1,0,1
+DeKalb,Richland,Governor,,REP,Eric Holcomb,239,41,184,464
+DeKalb,Richland,Governor,,DEM,Woodrow (Woody) Myers,29,38,41,108
+DeKalb,Richland,Governor,,LIB,Donald G Rainwater II,71,2,26,99
+DeKalb,Richland,Attorney General,,REP,Todd Rokita,264,34,187,485
+DeKalb,Richland,Attorney General,,DEM,Jonathan Weinzapfel,59,45,55,159
+DeKalb,Richland,U.S. House,3,REP,Jim Banks,288,39,195,522
+DeKalb,Richland,U.S. House,3,DEM,Chip Coldiron,47,43,51,141
+DeKalb,Richland,U.S. House,3,,Write-In,0,0,0,0
+DeKalb,Richland,State Senate,13,REP,C Susan Glick,309,47,210,566
+DeKalb,Richland,State Representative,52,REP,Ben Smaltz,281,39,190,510
+DeKalb,Richland,State Representative,52,DEM,Martha (Marty) Lemert,39,38,46,123
+DeKalb,Richland,State Representative,52,LIB,Morgan Rigg,16,3,12,31
+DeKalb,Smithfield East,Registered Voters,,,,,,,516
+DeKalb,Smithfield East,Ballots Cast ,,,,116,63,220,399
+DeKalb,Smithfield East,President,,REP,Donald J Trump,99,39,179,317
+DeKalb,Smithfield East,President,,DEM,Joseph R Biden,14,21,39,74
+DeKalb,Smithfield East,President,,LIB,Jo Jorgensen,2,1,1,4
+DeKalb,Smithfield East,President,,,Write-In,0,0,0,0
+DeKalb,Smithfield East,Governor,,REP,Eric Holcomb,64,52,161,277
+DeKalb,Smithfield East,Governor,,DEM,Woodrow (Woody) Myers,11,8,23,42
+DeKalb,Smithfield East,Governor,,LIB,Donald G Rainwater II,39,1,35,75
+DeKalb,Smithfield East,Attorney General,,REP,Todd Rokita,91,45,170,306
+DeKalb,Smithfield East,Attorney General,,DEM,Jonathan Weinzapfel,22,14,40,76
+DeKalb,Smithfield East,U.S. House,3,REP,Jim Banks,95,43,182,320
+DeKalb,Smithfield East,U.S. House,3,DEM,Chip Coldiron,18,18,36,72
+DeKalb,Smithfield East,U.S. House,3,,Write-In,0,0,0,0
+DeKalb,Smithfield East,State Senate,13,REP,C Susan Glick,,,,
+DeKalb,Smithfield East,State Representative,52,REP,Ben Smaltz,97,43,178,318
+DeKalb,Smithfield East,State Representative,52,DEM,Martha (Marty) Lemert,14,14,33,61
+DeKalb,Smithfield East,State Representative,52,LIB,Morgan Rigg,3,5,5,13
+DeKalb,Smithfield South,Registered Voters,,,,,,,16
+DeKalb,Smithfield South,Ballots Cast ,,,,2,0,10,12
+DeKalb,Smithfield South,President,,REP,Donald J Trump,2,0,6,8
+DeKalb,Smithfield South,President,,DEM,Joseph R Biden,0,0,4,4
+DeKalb,Smithfield South,President,,LIB,Jo Jorgensen,0,0,0,0
+DeKalb,Smithfield South,President,,,Write-In,0,0,0,0
+DeKalb,Smithfield South,Governor,,REP,Eric Holcomb,2,0,7,9
+DeKalb,Smithfield South,Governor,,DEM,Woodrow (Woody) Myers,0,0,3,3
+DeKalb,Smithfield South,Governor,,LIB,Donald G Rainwater II,0,0,0,0
+DeKalb,Smithfield South,Attorney General,,REP,Todd Rokita,2,0,4,6
+DeKalb,Smithfield South,Attorney General,,DEM,Jonathan Weinzapfel,0,0,5,5
+DeKalb,Smithfield South,U.S. House,3,REP,Jim Banks,2,0,6,8
+DeKalb,Smithfield South,U.S. House,3,DEM,Chip Coldiron,0,0,4,4
+DeKalb,Smithfield South,U.S. House,3,,Write-In,0,0,0,0
+DeKalb,Smithfield South,State Senate,13,REP,C Susan Glick,,,,
+DeKalb,Smithfield South,State Representative,52,REP,Ben Smaltz,2,0,6,8
+DeKalb,Smithfield South,State Representative,52,DEM,Martha (Marty) Lemert,0,0,3,3
+DeKalb,Smithfield South,State Representative,52,LIB,Morgan Rigg,0,0,0,0
+DeKalb,Smithfield West,Registered Voters,,,,,,,566
+DeKalb,Smithfield West,Ballots Cast ,,,,253,25,89,367
+DeKalb,Smithfield West,President,,REP,Donald J Trump,186,11,65,262
+DeKalb,Smithfield West,President,,DEM,Joseph R Biden,62,12,23,97
+DeKalb,Smithfield West,President,,LIB,Jo Jorgensen,5,2,1,8
+DeKalb,Smithfield West,President,,,Write-In,0,0,0,0
+DeKalb,Smithfield West,Governor,,REP,Eric Holcomb,150,15,51,216
+DeKalb,Smithfield West,Governor,,DEM,Woodrow (Woody) Myers,46,8,16,70
+DeKalb,Smithfield West,Governor,,LIB,Donald G Rainwater II,57,2,20,79
+DeKalb,Smithfield West,Attorney General,,REP,Todd Rokita,181,12,59,252
+DeKalb,Smithfield West,Attorney General,,DEM,Jonathan Weinzapfel,66,12,26,104
+DeKalb,Smithfield West,U.S. House,3,REP,Jim Banks,197,12,66,275
+DeKalb,Smithfield West,U.S. House,3,DEM,Chip Coldiron,55,13,22,90
+DeKalb,Smithfield West,U.S. House,3,,Write-In,0,0,0,0
+DeKalb,Smithfield West,State Senate,13,REP,C Susan Glick,,,,
+DeKalb,Smithfield West,State Representative,52,REP,Ben Smaltz,189,12,63,264
+DeKalb,Smithfield West,State Representative,52,DEM,Martha (Marty) Lemert,50,9,17,76
+DeKalb,Smithfield West,State Representative,52,LIB,Morgan Rigg,12,3,8,23
+DeKalb,Spencer,Registered Voters,,,,,,,765
+DeKalb,Spencer,Ballots Cast ,,,,226,46,288,560
+DeKalb,Spencer,President,,REP,Donald J Trump,191,33,223,447
+DeKalb,Spencer,President,,DEM,Joseph R Biden,22,13,57,92
+DeKalb,Spencer,President,,LIB,Jo Jorgensen,9,0,3,12
+DeKalb,Spencer,President,,,Write-In,0,0,0,0
+DeKalb,Spencer,Governor,,REP,Eric Holcomb,148,35,205,388
+DeKalb,Spencer,Governor,,DEM,Woodrow (Woody) Myers,16,10,42,68
+DeKalb,Spencer,Governor,,LIB,Donald G Rainwater II,61,1,33,95
+DeKalb,Spencer,Attorney General,,REP,Todd Rokita,183,35,220,438
+DeKalb,Spencer,Attorney General,,DEM,Jonathan Weinzapfel,28,10,54,92
+DeKalb,Spencer,U.S. House,3,REP,Jim Banks,192,36,228,456
+DeKalb,Spencer,U.S. House,3,DEM,Chip Coldiron,27,9,54,90
+DeKalb,Spencer,U.S. House,3,,Write-In,0,0,0,0
+DeKalb,Spencer,State Senate,13,REP,C Susan Glick,,,,
+DeKalb,Spencer,State Representative,52,REP,Ben Smaltz,188,34,223,445
+DeKalb,Spencer,State Representative,52,DEM,Martha (Marty) Lemert,24,9,49,82
+DeKalb,Spencer,State Representative,52,LIB,Morgan Rigg,8,2,8,18
+DeKalb,Stafford,Registered Voters,,,,,,,215
+DeKalb,Stafford,Ballots Cast ,,,,68,16,61,145
+DeKalb,Stafford,President,,REP,Donald J Trump,64,10,46,120
+DeKalb,Stafford,President,,DEM,Joseph R Biden,1,5,13,19
+DeKalb,Stafford,President,,LIB,Jo Jorgensen,2,0,2,4
+DeKalb,Stafford,President,,,Write-In,0,0,0,0
+DeKalb,Stafford,Governor,,REP,Eric Holcomb,47,11,44,102
+DeKalb,Stafford,Governor,,DEM,Woodrow (Woody) Myers,1,5,9,15
+DeKalb,Stafford,Governor,,LIB,Donald G Rainwater II,17,0,8,25
+DeKalb,Stafford,Attorney General,,REP,Todd Rokita,59,10,44,113
+DeKalb,Stafford,Attorney General,,DEM,Jonathan Weinzapfel,6,6,14,26
+DeKalb,Stafford,U.S. House,3,REP,Jim Banks,63,9,44,116
+DeKalb,Stafford,U.S. House,3,DEM,Chip Coldiron,5,6,13,24
+DeKalb,Stafford,U.S. House,3,,Write-In,0,0,0,0
+DeKalb,Stafford,State Senate,13,REP,C Susan Glick,,,,
+DeKalb,Stafford,State Representative,52,REP,Ben Smaltz,59,8,42,109
+DeKalb,Stafford,State Representative,52,DEM,Martha (Marty) Lemert,3,8,14,25
+DeKalb,Stafford,State Representative,52,LIB,Morgan Rigg,4,0,3,7
+DeKalb,Troy,Registered Voters,,,,,,,230
+DeKalb,Troy,Ballots Cast ,,,,81,17,50,148
+DeKalb,Troy,President,,REP,Donald J Trump,70,13,38,121
+DeKalb,Troy,President,,DEM,Joseph R Biden,8,4,11,23
+DeKalb,Troy,President,,LIB,Jo Jorgensen,2,0,0,2
+DeKalb,Troy,President,,,Write-In,0,0,0,0
+DeKalb,Troy,Governor,,REP,Eric Holcomb,50,13,30,93
+DeKalb,Troy,Governor,,DEM,Woodrow (Woody) Myers,5,3,10,18
+DeKalb,Troy,Governor,,LIB,Donald G Rainwater II,25,1,10,36
+DeKalb,Troy,Attorney General,,REP,Todd Rokita,65,13,39,117
+DeKalb,Troy,Attorney General,,DEM,Jonathan Weinzapfel,10,4,10,24
+DeKalb,Troy,U.S. House,3,REP,Jim Banks,72,13,38,123
+DeKalb,Troy,U.S. House,3,DEM,Chip Coldiron,6,4,11,21
+DeKalb,Troy,U.S. House,3,,Write-In,0,0,0,0
+DeKalb,Troy,State Senate,13,REP,C Susan Glick,,,,
+DeKalb,Troy,State Representative,52,REP,Ben Smaltz,69,13,38,120
+DeKalb,Troy,State Representative,52,DEM,Martha (Marty) Lemert,4,4,10,18
+DeKalb,Troy,State Representative,52,LIB,Morgan Rigg,5,0,0,5
+DeKalb,Union 01,Registered Voters,,,,,,,1298
+DeKalb,Union 01,Ballots Cast ,,,,188,166,663,1017
+DeKalb,Union 01,President,,REP,Donald J Trump,149,83,466,698
+DeKalb,Union 01,President,,DEM,Joseph R Biden,32,77,186,295
+DeKalb,Union 01,President,,LIB,Jo Jorgensen,6,4,5,15
+DeKalb,Union 01,President,,,Write-In,0,0,0,0
+DeKalb,Union 01,Governor,,REP,Eric Holcomb,140,109,473,722
+DeKalb,Union 01,Governor,,DEM,Woodrow (Woody) Myers,11,48,113,172
+DeKalb,Union 01,Governor,,LIB,Donald G Rainwater II,36,8,64,108
+DeKalb,Union 01,Attorney General,,REP,Todd Rokita,136,93,461,690
+DeKalb,Union 01,Attorney General,,DEM,Jonathan Weinzapfel,40,66,164,270
+DeKalb,Union 01,U.S. House,3,REP,Jim Banks,153,98,478,729
+DeKalb,Union 01,U.S. House,3,DEM,Chip Coldiron,33,64,162,259
+DeKalb,Union 01,U.S. House,3,,Write-In,0,0,0,0
+DeKalb,Union 01,State Senate,13,REP,C Susan Glick,,,,
+DeKalb,Union 01,State Representative,52,REP,Ben Smaltz,146,98,475,719
+DeKalb,Union 01,State Representative,52,DEM,Martha (Marty) Lemert,28,55,151,234
+DeKalb,Union 01,State Representative,52,LIB,Morgan Rigg,9,5,19,33
+DeKalb,Union 02,Registered Voters,,,,,,,896
+DeKalb,Union 02,Ballots Cast ,,,,143,92,426,661
+DeKalb,Union 02,President,,REP,Donald J Trump,106,48,315,469
+DeKalb,Union 02,President,,DEM,Joseph R Biden,30,43,106,179
+DeKalb,Union 02,President,,LIB,Jo Jorgensen,5,0,4,9
+DeKalb,Union 02,President,,,Write-In,0,0,0,0
+DeKalb,Union 02,Governor,,REP,Eric Holcomb,92,57,301,450
+DeKalb,Union 02,Governor,,DEM,Woodrow (Woody) Myers,23,30,60,113
+DeKalb,Union 02,Governor,,LIB,Donald G Rainwater II,25,3,58,86
+DeKalb,Union 02,Attorney General,,REP,Todd Rokita,104,52,309,465
+DeKalb,Union 02,Attorney General,,DEM,Jonathan Weinzapfel,30,36,95,161
+DeKalb,Union 02,U.S. House,3,REP,Jim Banks,113,50,323,486
+DeKalb,Union 02,U.S. House,3,DEM,Chip Coldiron,25,41,93,159
+DeKalb,Union 02,U.S. House,3,,Write-In,0,0,0,0
+DeKalb,Union 02,State Senate,13,REP,C Susan Glick,,,,
+DeKalb,Union 02,State Representative,52,REP,Ben Smaltz,102,57,328,487
+DeKalb,Union 02,State Representative,52,DEM,Martha (Marty) Lemert,23,32,81,136
+DeKalb,Union 02,State Representative,52,LIB,Morgan Rigg,12,2,7,21
+DeKalb,Union 03,Registered Voters,,,,,,,1032
+DeKalb,Union 03,Ballots Cast ,,,,179,120,381,680
+DeKalb,Union 03,President,,REP,Donald J Trump,134,51,240,425
+DeKalb,Union 03,President,,DEM,Joseph R Biden,35,67,131,233
+DeKalb,Union 03,President,,LIB,Jo Jorgensen,8,2,8,18
+DeKalb,Union 03,President,,,Write-In,0,0,0,0
+DeKalb,Union 03,Governor,,REP,Eric Holcomb,110,70,263,443
+DeKalb,Union 03,Governor,,DEM,Woodrow (Woody) Myers,26,43,76,145
+DeKalb,Union 03,Governor,,LIB,Donald G Rainwater II,41,3,36,80
+DeKalb,Union 03,Attorney General,,REP,Todd Rokita,126,59,237,422
+DeKalb,Union 03,Attorney General,,DEM,Jonathan Weinzapfel,44,54,118,216
+DeKalb,Union 03,U.S. House,3,REP,Jim Banks,138,54,255,447
+DeKalb,Union 03,U.S. House,3,DEM,Chip Coldiron,39,60,116,215
+DeKalb,Union 03,U.S. House,3,,Write-In,0,0,0,0
+DeKalb,Union 03,State Senate,13,REP,C Susan Glick,,,,
+DeKalb,Union 03,State Representative,52,REP,Ben Smaltz,134,62,264,460
+DeKalb,Union 03,State Representative,52,DEM,Martha (Marty) Lemert,33,47,92,172
+DeKalb,Union 03,State Representative,52,LIB,Morgan Rigg,10,3,15,28
+DeKalb,Union 04,Registered Voters,,,,,,,623
+DeKalb,Union 04,Ballots Cast ,,,,93,43,149,285
+DeKalb,Union 04,President,,REP,Donald J Trump,71,9,110,190
+DeKalb,Union 04,President,,DEM,Joseph R Biden,18,31,37,86
+DeKalb,Union 04,President,,LIB,Jo Jorgensen,4,1,2,7
+DeKalb,Union 04,President,,,Write-In,0,0,0,0
+DeKalb,Union 04,Governor,,REP,Eric Holcomb,61,19,92,172
+DeKalb,Union 04,Governor,,DEM,Woodrow (Woody) Myers,11,22,30,63
+DeKalb,Union 04,Governor,,LIB,Donald G Rainwater II,20,1,22,43
+DeKalb,Union 04,Attorney General,,REP,Todd Rokita,67,11,102,180
+DeKalb,Union 04,Attorney General,,DEM,Jonathan Weinzapfel,22,29,35,86
+DeKalb,Union 04,U.S. House,3,REP,Jim Banks,73,12,110,195
+DeKalb,Union 04,U.S. House,3,DEM,Chip Coldiron,19,30,34,83
+DeKalb,Union 04,U.S. House,3,,Write-In,0,0,0,0
+DeKalb,Union 04,State Senate,13,REP,C Susan Glick,,,,
+DeKalb,Union 04,State Representative,52,REP,Ben Smaltz,67,18,106,191
+DeKalb,Union 04,State Representative,52,DEM,Martha (Marty) Lemert,16,22,35,73
+DeKalb,Union 04,State Representative,52,LIB,Morgan Rigg,9,2,3,14
+DeKalb,Union 05,Registered Voters,,,,,,,759
+DeKalb,Union 05,Ballots Cast ,,,,147,39,235,421
+DeKalb,Union 05,President,,REP,Donald J Trump,93,23,140,256
+DeKalb,Union 05,President,,DEM,Joseph R Biden,42,15,77,134
+DeKalb,Union 05,President,,LIB,Jo Jorgensen,12,1,15,28
+DeKalb,Union 05,President,,,Write-In,0,0,1,1
+DeKalb,Union 05,Governor,,REP,Eric Holcomb,78,26,115,219
+DeKalb,Union 05,Governor,,DEM,Woodrow (Woody) Myers,30,12,51,93
+DeKalb,Union 05,Governor,,LIB,Donald G Rainwater II,39,1,66,106
+DeKalb,Union 05,Attorney General,,REP,Todd Rokita,85,25,129,239
+DeKalb,Union 05,Attorney General,,DEM,Jonathan Weinzapfel,49,14,87,150
+DeKalb,Union 05,U.S. House,3,REP,Jim Banks,100,26,151,277
+DeKalb,Union 05,U.S. House,3,DEM,Chip Coldiron,41,13,77,131
+DeKalb,Union 05,U.S. House,3,,Write-In,1,0,0,1
+DeKalb,Union 05,State Senate,13,REP,C Susan Glick,,,,
+DeKalb,Union 05,State Representative,52,REP,Ben Smaltz,92,27,145,264
+DeKalb,Union 05,State Representative,52,DEM,Martha (Marty) Lemert,38,12,66,116
+DeKalb,Union 05,State Representative,52,LIB,Morgan Rigg,12,0,19,31
+DeKalb,Union 06,Registered Voters,,,,,,,629
+DeKalb,Union 06,Ballots Cast ,,,,124,57,170,351
+DeKalb,Union 06,President,,REP,Donald J Trump,80,24,103,207
+DeKalb,Union 06,President,,DEM,Joseph R Biden,34,31,64,129
+DeKalb,Union 06,President,,LIB,Jo Jorgensen,7,1,1,9
+DeKalb,Union 06,President,,,Write-In,2,0,1,3
+DeKalb,Union 06,Governor,,REP,Eric Holcomb,58,31,99,188
+DeKalb,Union 06,Governor,,DEM,Woodrow (Woody) Myers,21,21,44,86
+DeKalb,Union 06,Governor,,LIB,Donald G Rainwater II,39,2,21,62
+DeKalb,Union 06,Attorney General,,REP,Todd Rokita,78,27,100,205
+DeKalb,Union 06,Attorney General,,DEM,Jonathan Weinzapfel,34,25,58,117
+DeKalb,Union 06,U.S. House,3,REP,Jim Banks,82,25,107,214
+DeKalb,Union 06,U.S. House,3,DEM,Chip Coldiron,34,30,57,121
+DeKalb,Union 06,U.S. House,3,,Write-In,0,0,0,0
+DeKalb,Union 06,State Senate,13,REP,C Susan Glick,,,,
+DeKalb,Union 06,State Representative,52,REP,Ben Smaltz,78,32,103,213
+DeKalb,Union 06,State Representative,52,DEM,Martha (Marty) Lemert,25,20,53,98
+DeKalb,Union 06,State Representative,52,LIB,Morgan Rigg,14,0,8,22
+DeKalb,Union 07,Registered Voters,,,,,,,947
+DeKalb,Union 07,Ballots Cast ,,,,185,99,398,682
+DeKalb,Union 07,President,,REP,Donald J Trump,135,38,285,458
+DeKalb,Union 07,President,,DEM,Joseph R Biden,41,54,102,197
+DeKalb,Union 07,President,,LIB,Jo Jorgensen,7,2,6,15
+DeKalb,Union 07,President,,,Write-In,1,1,1,3
+DeKalb,Union 07,Governor,,REP,Eric Holcomb,117,60,282,459
+DeKalb,Union 07,Governor,,DEM,Woodrow (Woody) Myers,27,34,59,120
+DeKalb,Union 07,Governor,,LIB,Donald G Rainwater II,39,3,48,90
+DeKalb,Union 07,Attorney General,,REP,Todd Rokita,124,52,289,465
+DeKalb,Union 07,Attorney General,,DEM,Jonathan Weinzapfel,42,43,83,168
+DeKalb,Union 07,U.S. House,3,REP,Jim Banks,138,53,297,488
+DeKalb,Union 07,U.S. House,3,DEM,Chip Coldiron,41,45,86,172
+DeKalb,Union 07,U.S. House,3,,Write-In,0,0,1,1
+DeKalb,Union 07,State Senate,13,REP,C Susan Glick,,,,
+DeKalb,Union 07,State Representative,52,REP,Ben Smaltz,139,57,300,496
+DeKalb,Union 07,State Representative,52,DEM,Martha (Marty) Lemert,31,40,77,148
+DeKalb,Union 07,State Representative,52,LIB,Morgan Rigg,9,2,10,21
+DeKalb,Union 08,Registered Voters,,,,,,,768
+DeKalb,Union 08,Ballots Cast ,,,,151,47,273,471
+DeKalb,Union 08,President,,REP,Donald J Trump,112,12,201,325
+DeKalb,Union 08,President,,DEM,Joseph R Biden,30,32,67,129
+DeKalb,Union 08,President,,LIB,Jo Jorgensen,9,2,2,13
+DeKalb,Union 08,President,,,Write-In,0,0,1,1
+DeKalb,Union 08,Governor,,REP,Eric Holcomb,86,21,174,281
+DeKalb,Union 08,Governor,,DEM,Woodrow (Woody) Myers,20,20,51,91
+DeKalb,Union 08,Governor,,LIB,Donald G Rainwater II,45,4,44,93
+DeKalb,Union 08,Attorney General,,REP,Todd Rokita,101,16,185,302
+DeKalb,Union 08,Attorney General,,DEM,Jonathan Weinzapfel,42,28,73,143
+DeKalb,Union 08,U.S. House,3,REP,Jim Banks,117,15,198,330
+DeKalb,Union 08,U.S. House,3,DEM,Chip Coldiron,28,30,68,126
+DeKalb,Union 08,U.S. House,3,,Write-In,0,0,0,0
+DeKalb,Union 08,State Senate,13,REP,C Susan Glick,,,,
+DeKalb,Union 08,State Representative,52,REP,Ben Smaltz,113,20,193,326
+DeKalb,Union 08,State Representative,52,DEM,Martha (Marty) Lemert,27,24,61,112
+DeKalb,Union 08,State Representative,52,LIB,Morgan Rigg,8,1,10,19
+DeKalb,Union 09,Registered Voters,,,,,,,730
+DeKalb,Union 09,Ballots Cast ,,,,141,75,355,571
+DeKalb,Union 09,President,,REP,Donald J Trump,118,33,250,401
+DeKalb,Union 09,President,,DEM,Joseph R Biden,20,40,93,153
+DeKalb,Union 09,President,,LIB,Jo Jorgensen,3,1,10,14
+DeKalb,Union 09,President,,,Write-In,0,0,0,0
+DeKalb,Union 09,Governor,,REP,Eric Holcomb,94,40,251,385
+DeKalb,Union 09,Governor,,DEM,Woodrow (Woody) Myers,13,29,56,98
+DeKalb,Union 09,Governor,,LIB,Donald G Rainwater II,33,3,42,78
+DeKalb,Union 09,Attorney General,,REP,Todd Rokita,110,36,254,400
+DeKalb,Union 09,Attorney General,,DEM,Jonathan Weinzapfel,23,36,79,138
+DeKalb,Union 09,U.S. House,3,REP,Jim Banks,119,31,262,412
+DeKalb,Union 09,U.S. House,3,DEM,Chip Coldiron,18,41,84,143
+DeKalb,Union 09,U.S. House,3,,Write-In,0,0,0,0
+DeKalb,Union 09,State Senate,13,REP,C Susan Glick,,,,
+DeKalb,Union 09,State Representative,52,REP,Ben Smaltz,118,41,257,416
+DeKalb,Union 09,State Representative,52,DEM,Martha (Marty) Lemert,12,29,74,115
+DeKalb,Union 09,State Representative,52,LIB,Morgan Rigg,7,3,14,24
+DeKalb,Union 10,Registered Voters,,,,,,,1005
+DeKalb,Union 10,Ballots Cast ,,,,170,84,402,656
+DeKalb,Union 10,President,,REP,Donald J Trump,128,39,232,399
+DeKalb,Union 10,President,,DEM,Joseph R Biden,37,42,161,240
+DeKalb,Union 10,President,,LIB,Jo Jorgensen,4,2,8,14
+DeKalb,Union 10,President,,,Write-In,0,0,0,0
+DeKalb,Union 10,Governor,,REP,Eric Holcomb,100,48,239,387
+DeKalb,Union 10,Governor,,DEM,Woodrow (Woody) Myers,23,26,108,157
+DeKalb,Union 10,Governor,,LIB,Donald G Rainwater II,46,6,49,101
+DeKalb,Union 10,Attorney General,,REP,Todd Rokita,117,41,240,398
+DeKalb,Union 10,Attorney General,,DEM,Jonathan Weinzapfel,44,37,141,222
+DeKalb,Union 10,U.S. House,3,REP,Jim Banks,130,43,250,423
+DeKalb,Union 10,U.S. House,3,DEM,Chip Coldiron,35,38,144,217
+DeKalb,Union 10,U.S. House,3,,Write-In,0,0,0,0
+DeKalb,Union 10,State Senate,13,REP,C Susan Glick,,,,
+DeKalb,Union 10,State Representative,52,REP,Ben Smaltz,131,43,244,418
+DeKalb,Union 10,State Representative,52,DEM,Martha (Marty) Lemert,26,32,135,193
+DeKalb,Union 10,State Representative,52,LIB,Morgan Rigg,11,4,11,26
+DeKalb,Union 11,Registered Voters,,,,,,,978
+DeKalb,Union 11,Ballots Cast ,,,,190,113,486,789
+DeKalb,Union 11,President,,REP,Donald J Trump,160,62,354,576
+DeKalb,Union 11,President,,DEM,Joseph R Biden,26,48,125,199
+DeKalb,Union 11,President,,LIB,Jo Jorgensen,4,1,6,11
+DeKalb,Union 11,President,,,Write-In,0,0,1,1
+DeKalb,Union 11,Governor,,REP,Eric Holcomb,146,83,358,587
+DeKalb,Union 11,Governor,,DEM,Woodrow (Woody) Myers,12,26,79,117
+DeKalb,Union 11,Governor,,LIB,Donald G Rainwater II,29,0,39,68
+DeKalb,Union 11,Attorney General,,REP,Todd Rokita,145,72,343,560
+DeKalb,Union 11,Attorney General,,DEM,Jonathan Weinzapfel,33,36,114,183
+DeKalb,Union 11,U.S. House,3,REP,Jim Banks,165,66,362,593
+DeKalb,Union 11,U.S. House,3,DEM,Chip Coldiron,20,44,113,177
+DeKalb,Union 11,U.S. House,3,,Write-In,0,0,0,0
+DeKalb,Union 11,State Senate,13,REP,C Susan Glick,,,,
+DeKalb,Union 11,State Representative,52,REP,Ben Smaltz,156,78,375,609
+DeKalb,Union 11,State Representative,52,DEM,Martha (Marty) Lemert,19,31,95,145
+DeKalb,Union 11,State Representative,52,LIB,Morgan Rigg,8,1,6,15
+DeKalb,Wilmington 1,Registered Voters,,,,,,,615
+DeKalb,Wilmington 1,Ballots Cast ,,,,209,20,94,323
+DeKalb,Wilmington 1,President,,REP,Donald J Trump,156,11,75,242
+DeKalb,Wilmington 1,President,,DEM,Joseph R Biden,41,9,15,65
+DeKalb,Wilmington 1,President,,LIB,Jo Jorgensen,6,0,0,6
+DeKalb,Wilmington 1,President,,,Write-In,2,0,0,2
+DeKalb,Wilmington 1,Governor,,REP,Eric Holcomb,128,11,65,204
+DeKalb,Wilmington 1,Governor,,DEM,Woodrow (Woody) Myers,34,5,12,51
+DeKalb,Wilmington 1,Governor,,LIB,Donald G Rainwater II,42,4,13,59
+DeKalb,Wilmington 1,Attorney General,,REP,Todd Rokita,144,11,75,230
+DeKalb,Wilmington 1,Attorney General,,DEM,Jonathan Weinzapfel,53,7,15,75
+DeKalb,Wilmington 1,U.S. House,3,REP,Jim Banks,151,10,76,237
+DeKalb,Wilmington 1,U.S. House,3,DEM,Chip Coldiron,50,10,13,73
+DeKalb,Wilmington 1,U.S. House,3,,Write-In,0,0,0,0
+DeKalb,Wilmington 1,State Senate,13,REP,C Susan Glick,,,,
+DeKalb,Wilmington 1,State Representative,52,REP,Ben Smaltz,154,10,71,235
+DeKalb,Wilmington 1,State Representative,52,DEM,Martha (Marty) Lemert,39,9,17,65
+DeKalb,Wilmington 1,State Representative,52,LIB,Morgan Rigg,9,0,1,10
+DeKalb,Wilmington 2,Registered Voters,,,,,,,379
+DeKalb,Wilmington 2,Ballots Cast ,,,,119,23,56,198
+DeKalb,Wilmington 2,President,,REP,Donald J Trump,104,7,43,154
+DeKalb,Wilmington 2,President,,DEM,Joseph R Biden,14,16,12,42
+DeKalb,Wilmington 2,President,,LIB,Jo Jorgensen,0,0,1,1
+DeKalb,Wilmington 2,President,,,Write-In,0,0,0,0
+DeKalb,Wilmington 2,Governor,,REP,Eric Holcomb,81,13,40,134
+DeKalb,Wilmington 2,Governor,,DEM,Woodrow (Woody) Myers,9,10,7,26
+DeKalb,Wilmington 2,Governor,,LIB,Donald G Rainwater II,28,0,9,37
+DeKalb,Wilmington 2,Attorney General,,REP,Todd Rokita,89,13,41,143
+DeKalb,Wilmington 2,Attorney General,,DEM,Jonathan Weinzapfel,20,10,12,42
+DeKalb,Wilmington 2,U.S. House,3,REP,Jim Banks,99,12,46,157
+DeKalb,Wilmington 2,U.S. House,3,DEM,Chip Coldiron,16,11,9,36
+DeKalb,Wilmington 2,U.S. House,3,,Write-In,0,0,0,0
+DeKalb,Wilmington 2,State Senate,13,REP,C Susan Glick,,,,
+DeKalb,Wilmington 2,State Representative,52,REP,Ben Smaltz,99,12,40,151
+DeKalb,Wilmington 2,State Representative,52,DEM,Martha (Marty) Lemert,13,11,13,37
+DeKalb,Wilmington 2,State Representative,52,LIB,Morgan Rigg,3,0,2,5
+DeKalb,Wilmington 3,Registered Voters,,,,,,,386
+DeKalb,Wilmington 3,Ballots Cast ,,,,144,22,80,246
+DeKalb,Wilmington 3,President,,REP,Donald J Trump,118,14,52,184
+DeKalb,Wilmington 3,President,,DEM,Joseph R Biden,19,8,24,51
+DeKalb,Wilmington 3,President,,LIB,Jo Jorgensen,5,0,3,8
+DeKalb,Wilmington 3,President,,,Write-In,0,0,0,0
+DeKalb,Wilmington 3,Governor,,REP,Eric Holcomb,99,15,41,155
+DeKalb,Wilmington 3,Governor,,DEM,Woodrow (Woody) Myers,15,4,22,41
+DeKalb,Wilmington 3,Governor,,LIB,Donald G Rainwater II,30,2,17,49
+DeKalb,Wilmington 3,Attorney General,,REP,Todd Rokita,104,15,49,168
+DeKalb,Wilmington 3,Attorney General,,DEM,Jonathan Weinzapfel,28,6,26,60
+DeKalb,Wilmington 3,U.S. House,3,REP,Jim Banks,119,15,54,188
+DeKalb,Wilmington 3,U.S. House,3,DEM,Chip Coldiron,22,6,26,54
+DeKalb,Wilmington 3,U.S. House,3,,Write-In,0,0,0,0
+DeKalb,Wilmington 3,State Senate,13,REP,C Susan Glick,,,,
+DeKalb,Wilmington 3,State Representative,52,REP,Ben Smaltz,118,13,54,185
+DeKalb,Wilmington 3,State Representative,52,DEM,Martha (Marty) Lemert,20,6,21,47
+DeKalb,Wilmington 3,State Representative,52,LIB,Morgan Rigg,4,2,4,10
+DeKalb,Wilmington 4,Registered Voters,,,,,,,1012
+DeKalb,Wilmington 4,Ballots Cast ,,,,253,103,321,677
+DeKalb,Wilmington 4,President,,REP,Donald J Trump,214,63,256,533
+DeKalb,Wilmington 4,President,,DEM,Joseph R Biden,28,39,50,117
+DeKalb,Wilmington 4,President,,LIB,Jo Jorgensen,10,0,11,21
+DeKalb,Wilmington 4,President,,,Write-In,0,0,1,1
+DeKalb,Wilmington 4,Governor,,REP,Eric Holcomb,174,63,223,460
+DeKalb,Wilmington 4,Governor,,DEM,Woodrow (Woody) Myers,18,33,42,93
+DeKalb,Wilmington 4,Governor,,LIB,Donald G Rainwater II,60,6,50,116
+DeKalb,Wilmington 4,Attorney General,,REP,Todd Rokita,199,65,248,512
+DeKalb,Wilmington 4,Attorney General,,DEM,Jonathan Weinzapfel,38,36,50,124
+DeKalb,Wilmington 4,U.S. House,3,REP,Jim Banks,210,66,265,541
+DeKalb,Wilmington 4,U.S. House,3,DEM,Chip Coldiron,37,36,47,120
+DeKalb,Wilmington 4,U.S. House,3,,Write-In,1,0,1,2
+DeKalb,Wilmington 4,State Senate,13,REP,C Susan Glick,,,,
+DeKalb,Wilmington 4,State Representative,52,REP,Ben Smaltz,208,68,254,530
+DeKalb,Wilmington 4,State Representative,52,DEM,Martha (Marty) Lemert,23,31,41,95
+DeKalb,Wilmington 4,State Representative,52,LIB,Morgan Rigg,18,1,12,31
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,

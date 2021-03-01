@@ -1,0 +1,356 @@
+county,precinct,office,district,party,candidate,election_day,absentee,early_voting,votes
+LaGrange,Bloomfield 1,Registered Voters,,,,,,,1000
+LaGrange,Bloomfield 1,Ballots Cast ,,,,344,105,186,635
+LaGrange,Bloomfield 1,President,,REP,Donald J Trump,264,50,111,425
+LaGrange,Bloomfield 1,President,,DEM,Joseph R Biden,69,54,69,192
+LaGrange,Bloomfield 1,President,,LIB,Jo Jorgensen,7,0,2,9
+LaGrange,Bloomfield 1,President,,,Write-In,0,1,0,1
+LaGrange,Bloomfield 1,Governor,,REP,Eric Holcomb,241,62,117,420
+LaGrange,Bloomfield 1,Governor,,DEM,Woodrow (Woody) Myers,60,40,52,152
+LaGrange,Bloomfield 1,Governor,,LIB,Donald G Rainwater II,38,2,13,53
+LaGrange,Bloomfield 1,Attorney General,,REP,Todd Rokita,258,52,108,416
+LaGrange,Bloomfield 1,Attorney General,,DEM,Jonathan Weinzapfel,71,48,70,189
+LaGrange,Bloomfield 1,U.S. House,3,REP,Jim Banks,273,52,116,441
+LaGrange,Bloomfield 1,U.S. House,3,DEM,Chip Coldiron,59,51,61,171
+LaGrange,Bloomfield 1,U.S. House,3,,Write-In,0,0,0,0
+LaGrange,Bloomfield 1,State Senate,13,REP,C Susan Glick,272,70,129,471
+LaGrange,Bloomfield 1,State Representative,51,REP,Dennis J Zent,265,53,110,428
+LaGrange,Bloomfield 1,State Representative,51,DEM,Michael M Stepphenson,66,45,61,172
+LaGrange,Bloomfield 2,Registered Voters,,,,,,,727
+LaGrange,Bloomfield 2,Ballots Cast ,,,,222,48,146,416
+LaGrange,Bloomfield 2,President,,REP,Donald J Trump,159,18,83,260
+LaGrange,Bloomfield 2,President,,DEM,Joseph R Biden,47,29,57,133
+LaGrange,Bloomfield 2,President,,LIB,Jo Jorgensen,12,0,3,15
+LaGrange,Bloomfield 2,President,,,Write-In,2,0,1,3
+LaGrange,Bloomfield 2,Governor,,REP,Eric Holcomb,140,22,83,245
+LaGrange,Bloomfield 2,Governor,,DEM,Woodrow (Woody) Myers,37,17,51,105
+LaGrange,Bloomfield 2,Governor,,LIB,Donald G Rainwater II,41,1,10,52
+LaGrange,Bloomfield 2,Attorney General,,REP,Todd Rokita,154,22,86,262
+LaGrange,Bloomfield 2,Attorney General,,DEM,Jonathan Weinzapfel,55,17,54,126
+LaGrange,Bloomfield 2,U.S. House,3,REP,Jim Banks,165,23,0,278
+LaGrange,Bloomfield 2,U.S. House,3,DEM,Chip Coldiron,46,22,54,122
+LaGrange,Bloomfield 2,U.S. House,3,,Write-In,0,0,0,0
+LaGrange,Bloomfield 2,State Senate,13,REP,C Susan Glick,185,33,101,319
+LaGrange,Bloomfield 2,State Representative,51,REP,Dennis J Zent,158,21,91,270
+LaGrange,Bloomfield 2,State Representative,51,DEM,Michael M Stepphenson,51,18,51,120
+LaGrange,Bloomfield 3,Registered Voters,,,,,,,620
+LaGrange,Bloomfield 3,Ballots Cast ,,,,167,72,155,394
+LaGrange,Bloomfield 3,President,,REP,Donald J Trump,129,30,102,261
+LaGrange,Bloomfield 3,President,,DEM,Joseph R Biden,35,40,47,122
+LaGrange,Bloomfield 3,President,,LIB,Jo Jorgensen,2,1,1,4
+LaGrange,Bloomfield 3,President,,,Write-In,0,0,0,0
+LaGrange,Bloomfield 3,Governor,,REP,Eric Holcomb,118,46,101,265
+LaGrange,Bloomfield 3,Governor,,DEM,Woodrow (Woody) Myers,32,24,32,88
+LaGrange,Bloomfield 3,Governor,,LIB,Donald G Rainwater II,15,1,14,30
+LaGrange,Bloomfield 3,Attorney General,,REP,Todd Rokita,117,32,104,253
+LaGrange,Bloomfield 3,Attorney General,,DEM,Jonathan Weinzapfel,43,33,39,115
+LaGrange,Bloomfield 3,U.S. House,3,REP,Jim Banks,124,35,108,267
+LaGrange,Bloomfield 3,U.S. House,3,DEM,Chip Coldiron,37,32,38,107
+LaGrange,Bloomfield 3,U.S. House,3,,Write-In,0,0,0,0
+LaGrange,Bloomfield 3,State Senate,13,REP,C Susan Glick,131,52,112,295
+LaGrange,Bloomfield 3,State Representative,51,REP,Dennis J Zent,122,34,103,259
+LaGrange,Bloomfield 3,State Representative,51,DEM,Michael M Stepphenson,39,33,39,111
+LaGrange,Bloomfield 4,Registered Voters,,,,,,,788
+LaGrange,Bloomfield 4,Ballots Cast ,,,,306,65,173,544
+LaGrange,Bloomfield 4,President,,REP,Donald J Trump,258,23,131,412
+LaGrange,Bloomfield 4,President,,DEM,Joseph R Biden,41,39,40,120
+LaGrange,Bloomfield 4,President,,LIB,Jo Jorgensen,4,3,2,9
+LaGrange,Bloomfield 4,President,,,Write-In,0,0,0,0
+LaGrange,Bloomfield 4,Governor,,REP,Eric Holcomb,222,37,138,397
+LaGrange,Bloomfield 4,Governor,,DEM,Woodrow (Woody) Myers,31,24,26,81
+LaGrange,Bloomfield 4,Governor,,LIB,Donald G Rainwater II,48,2,8,58
+LaGrange,Bloomfield 4,Attorney General,,REP,Todd Rokita,246,27,133,406
+LaGrange,Bloomfield 4,Attorney General,,DEM,Jonathan Weinzapfel,49,34,36,119
+LaGrange,Bloomfield 4,U.S. House,3,REP,Jim Banks,258,27,137,422
+LaGrange,Bloomfield 4,U.S. House,3,DEM,Chip Coldiron,41,37,33,111
+LaGrange,Bloomfield 4,U.S. House,3,,Write-In,0,0,0,0
+LaGrange,Bloomfield 4,State Senate,13,REP,C Susan Glick,275,36,136,447
+LaGrange,Bloomfield 4,State Representative,51,REP,Dennis J Zent,254,30,137,421
+LaGrange,Bloomfield 4,State Representative,51,DEM,Michael M Stepphenson,39,31,30,100
+LaGrange,Clay,Registered Voters,,,,,,,943
+LaGrange,Clay,Ballots Cast ,,,,314,78,207,599
+LaGrange,Clay,President,,REP,Donald J Trump,261,41,156,458
+LaGrange,Clay,President,,DEM,Joseph R Biden,48,35,43,126
+LaGrange,Clay,President,,LIB,Jo Jorgensen,4,1,2,7
+LaGrange,Clay,President,,,Write-In,0,0,2,2
+LaGrange,Clay,Governor,,REP,Eric Holcomb,228,49,146,423
+LaGrange,Clay,Governor,,DEM,Woodrow (Woody) Myers,32,24,33,89
+LaGrange,Clay,Governor,,LIB,Donald G Rainwater II,50,0,21,71
+LaGrange,Clay,Attorney General,,REP,Todd Rokita,245,46,155,446
+LaGrange,Clay,Attorney General,,DEM,Jonathan Weinzapfel,52,28,40,120
+LaGrange,Clay,U.S. House,3,REP,Jim Banks,260,41,162,463
+LaGrange,Clay,U.S. House,3,DEM,Chip Coldiron,43,32,34,109
+LaGrange,Clay,U.S. House,3,,Write-In,0,0,1,1
+LaGrange,Clay,State Senate,13,REP,C Susan Glick,268,61,168,497
+LaGrange,Clay,State Representative,51,REP,Dennis J Zent,250,43,156,449
+LaGrange,Clay,State Representative,51,DEM,Michael M Stepphenson,47,28,36,111
+LaGrange,Clearspring,Registered Voters,,,,,,,1093
+LaGrange,Clearspring,Ballots Cast ,,,,401,74,191,666
+LaGrange,Clearspring,President,,REP,Donald J Trump,334,46,122,502
+LaGrange,Clearspring,President,,DEM,Joseph R Biden,57,22,65,144
+LaGrange,Clearspring,President,,LIB,Jo Jorgensen,8,2,0,10
+LaGrange,Clearspring,President,,,Write-In,1,1,0,2
+LaGrange,Clearspring,Governor,,REP,Eric Holcomb,296,51,131,478
+LaGrange,Clearspring,Governor,,DEM,Woodrow (Woody) Myers,41,16,44,101
+LaGrange,Clearspring,Governor,,LIB,Donald G Rainwater II,61,6,15,82
+LaGrange,Clearspring,Attorney General,,REP,Todd Rokita,320,50,135,505
+LaGrange,Clearspring,Attorney General,,DEM,Jonathan Weinzapfel,63,21,48,132
+LaGrange,Clearspring,U.S. House,3,REP,Jim Banks,340,51,132,523
+LaGrange,Clearspring,U.S. House,3,DEM,Chip Coldiron,51,21,53,125
+LaGrange,Clearspring,U.S. House,3,,Write-In,1,0,0,1
+LaGrange,Clearspring,State Senate,13,REP,C Susan Glick,344,52,144,540
+LaGrange,Clearspring,State Representative,51,REP,Dennis J Zent,328,49,133,510
+LaGrange,Clearspring,State Representative,51,DEM,Michael M Stepphenson,54,20,50,124
+LaGrange,Eden,Registered Voters,,,,,,,658
+LaGrange,Eden,Ballots Cast ,,,,314,28,63,405
+LaGrange,Eden,President,,REP,Donald J Trump,254,7,48,309
+LaGrange,Eden,President,,DEM,Joseph R Biden,52,20,14,86
+LaGrange,Eden,President,,LIB,Jo Jorgensen,4,1,0,5
+LaGrange,Eden,President,,,Write-In,2,0,0,2
+LaGrange,Eden,Governor,,REP,Eric Holcomb,191,14,43,248
+LaGrange,Eden,Governor,,DEM,Woodrow (Woody) Myers,40,12,9,61
+LaGrange,Eden,Governor,,LIB,Donald G Rainwater II,80,1,10,91
+LaGrange,Eden,Attorney General,,REP,Todd Rokita,251,11,46,308
+LaGrange,Eden,Attorney General,,DEM,Jonathan Weinzapfel,53,14,14,81
+LaGrange,Eden,U.S. House,3,REP,Jim Banks,259,10,47,316
+LaGrange,Eden,U.S. House,3,DEM,Chip Coldiron,47,14,13,74
+LaGrange,Eden,U.S. House,3,,Write-In,0,0,0,0
+LaGrange,Eden,State Senate,13,REP,C Susan Glick,268,12,48,328
+LaGrange,Eden,State Representative,51,REP,Dennis J Zent,254,10,43,307
+LaGrange,Eden,State Representative,51,DEM,Michael M Stepphenson,48,13,13,74
+LaGrange,Greenfield,Registered Voters,,,,,,,931
+LaGrange,Greenfield,Ballots Cast ,,,,446,67,118,631
+LaGrange,Greenfield,President,,REP,Donald J Trump,385,22,77,484
+LaGrange,Greenfield,President,,DEM,Joseph R Biden,55,41,38,134
+LaGrange,Greenfield,President,,LIB,Jo Jorgensen,4,3,1,8
+LaGrange,Greenfield,President,,,Write-In,0,0,0,0
+LaGrange,Greenfield,Governor,,REP,Eric Holcomb,348,27,77,452
+LaGrange,Greenfield,Governor,,DEM,Woodrow (Woody) Myers,38,33,30,101
+LaGrange,Greenfield,Governor,,LIB,Donald G Rainwater II,50,4,9,63
+LaGrange,Greenfield,Attorney General,,REP,Todd Rokita,365,23,81,469
+LaGrange,Greenfield,Attorney General,,DEM,Jonathan Weinzapfel,62,38,34,134
+LaGrange,Greenfield,U.S. House,3,REP,Jim Banks,381,23,80,484
+LaGrange,Greenfield,U.S. House,3,DEM,Chip Coldiron,54,40,35,129
+LaGrange,Greenfield,U.S. House,3,,Write-In,0,1,0,1
+LaGrange,Greenfield,State Senate,13,REP,C Susan Glick,393,33,84,510
+LaGrange,Greenfield,State Representative,51,REP,Dennis J Zent,371,26,78,475
+LaGrange,Greenfield,State Representative,51,DEM,Michael M Stepphenson,56,37,37,130
+LaGrange,Johnson North,Registered Voters,,,,,,,1096
+LaGrange,Johnson North,Ballots Cast ,,,,417,127,228,772
+LaGrange,Johnson North,President,,REP,Donald J Trump,339,61,175,575
+LaGrange,Johnson North,President,,DEM,Joseph R Biden,63,62,48,173
+LaGrange,Johnson North,President,,LIB,Jo Jorgensen,9,1,3,13
+LaGrange,Johnson North,President,,,Write-In,0,0,0,0
+LaGrange,Johnson North,Governor,,REP,Eric Holcomb,308,84,183,575
+LaGrange,Johnson North,Governor,,DEM,Woodrow (Woody) Myers,44,38,25,107
+LaGrange,Johnson North,Governor,,LIB,Donald G Rainwater II,60,3,16,79
+LaGrange,Johnson North,Attorney General,,REP,Todd Rokita,336,75,177,588
+LaGrange,Johnson North,Attorney General,,DEM,Jonathan Weinzapfel,66,51,43,160
+LaGrange,Johnson North,U.S. House,3,REP,Jim Banks,348,69,181,598
+LaGrange,Johnson North,U.S. House,3,DEM,Chip Coldiron,58,55,42,155
+LaGrange,Johnson North,U.S. House,3,,Write-In,0,0,0,0
+LaGrange,Johnson North,State Senate,13,REP,C Susan Glick,362,87,189,638
+LaGrange,Johnson North,State Representative,82,REP,David H Abbott,351,86,185,622
+LaGrange,Johnson South,Registered Voters,,,,,,,1199
+LaGrange,Johnson South,Ballots Cast ,,,,504,108,227,839
+LaGrange,Johnson South,President,,REP,Donald J Trump,427,53,165,645
+LaGrange,Johnson South,President,,DEM,Joseph R Biden,69,52,60,181
+LaGrange,Johnson South,President,,LIB,Jo Jorgensen,4,1,1,6
+LaGrange,Johnson South,President,,,Write-In,1,0,0,1
+LaGrange,Johnson South,Governor,,REP,Eric Holcomb,341,73,158,572
+LaGrange,Johnson South,Governor,,DEM,Woodrow (Woody) Myers,56,30,43,129
+LaGrange,Johnson South,Governor,,LIB,Donald G Rainwater II,101,2,23,126
+LaGrange,Johnson South,Attorney General,,REP,Todd Rokita,405,61,165,631
+LaGrange,Johnson South,Attorney General,,DEM,Jonathan Weinzapfel,79,44,55,178
+LaGrange,Johnson South,U.S. House,3,REP,Jim Banks,428,62,171,661
+LaGrange,Johnson South,U.S. House,3,DEM,Chip Coldiron,71,42,53,166
+LaGrange,Johnson South,U.S. House,3,,Write-In,0,0,0,0
+LaGrange,Johnson South,State Senate,13,REP,C Susan Glick,438,79,188,705
+LaGrange,Johnson South,State Representative,82,REP,David H Abbott,432,77,177,686
+LaGrange,Lima,Registered Voters,,,,,,,1505
+LaGrange,Lima,Ballots Cast ,,,,622,112,232,966
+LaGrange,Lima,President,,REP,Donald J Trump,486,47,150,683
+LaGrange,Lima,President,,DEM,Joseph R Biden,112,61,72,245
+LaGrange,Lima,President,,LIB,Jo Jorgensen,12,4,4,20
+LaGrange,Lima,President,,,Write-In,1,0,1,2
+LaGrange,Lima,Governor,,REP,Eric Holcomb,460,64,164,688
+LaGrange,Lima,Governor,,DEM,Woodrow (Woody) Myers,89,40,51,180
+LaGrange,Lima,Governor,,LIB,Donald G Rainwater II,62,3,15,80
+LaGrange,Lima,Attorney General,,REP,Todd Rokita,475,51,159,685
+LaGrange,Lima,Attorney General,,DEM,Jonathan Weinzapfel,112,53,68,233
+LaGrange,Lima,U.S. House,3,REP,Jim Banks,503,56,163,722
+LaGrange,Lima,U.S. House,3,DEM,Chip Coldiron,102,50,63,215
+LaGrange,Lima,U.S. House,3,,Write-In,0,0,0,0
+LaGrange,Lima,State Senate,13,REP,C Susan Glick,516,67,179,762
+LaGrange,Lima,State Representative,51,REP,Dennis J Zent,494,55,160,709
+LaGrange,Lima,State Representative,51,DEM,Michael M Stepphenson,105,47,64,216
+LaGrange,Milford East,Registered Voters,,,,,,,1265
+LaGrange,Milford East,Ballots Cast ,,,,500,153,255,908
+LaGrange,Milford East,President,,REP,Donald J Trump,427,68,189,684
+LaGrange,Milford East,President,,DEM,Joseph R Biden,63,77,59,199
+LaGrange,Milford East,President,,LIB,Jo Jorgensen,5,7,6,18
+LaGrange,Milford East,President,,,Write-In,1,0,0,1
+LaGrange,Milford East,Governor,,REP,Eric Holcomb,382,93,199,674
+LaGrange,Milford East,Governor,,DEM,Woodrow (Woody) Myers,43,57,39,139
+LaGrange,Milford East,Governor,,LIB,Donald G Rainwater II,63,2,17,82
+LaGrange,Milford East,Attorney General,,REP,Todd Rokita,389,81,187,657
+LaGrange,Milford East,Attorney General,,DEM,Jonathan Weinzapfel,81,67,61,209
+LaGrange,Milford East,U.S. House,3,REP,Jim Banks,422,81,199,702
+LaGrange,Milford East,U.S. House,3,DEM,Chip Coldiron,61,68,51,180
+LaGrange,Milford East,U.S. House,3,,Write-In,0,0,0,0
+LaGrange,Milford East,State Senate,13,REP,C Susan Glick,435,98,209,742
+LaGrange,Milford East,State Representative,51,REP,Dennis J Zent,419,85,192,696
+LaGrange,Milford East,State Representative,51,DEM,Michael M Stepphenson,55,65,56,176
+LaGrange,Milford West,Registered Voters,,,,,,,790
+LaGrange,Milford West,Ballots Cast ,,,,338,42,191,571
+LaGrange,Milford West,President,,REP,Donald J Trump,278,17,129,424
+LaGrange,Milford West,President,,DEM,Joseph R Biden,43,24,56,123
+LaGrange,Milford West,President,,LIB,Jo Jorgensen,9,0,4,13
+LaGrange,Milford West,President,,,Write-In,1,1,0,2
+LaGrange,Milford West,Governor,,REP,Eric Holcomb,235,24,132,391
+LaGrange,Milford West,Governor,,DEM,Woodrow (Woody) Myers,25,17,45,87
+LaGrange,Milford West,Governor,,LIB,Donald G Rainwater II,74,1,12,87
+LaGrange,Milford West,Attorney General,,REP,Todd Rokita,271,22,134,427
+LaGrange,Milford West,Attorney General,,DEM,Jonathan Weinzapfel,52,20,50,122
+LaGrange,Milford West,U.S. House,3,REP,Jim Banks,285,21,134,440
+LaGrange,Milford West,U.S. House,3,DEM,Chip Coldiron,44,21,51,116
+LaGrange,Milford West,U.S. House,3,,Write-In,0,0,0,0
+LaGrange,Milford West,State Senate,13,REP,C Susan Glick,297,28,150,475
+LaGrange,Milford West,State Representative,51,REP,Dennis J Zent,284,17,139,440
+LaGrange,Milford West,State Representative,51,DEM,Michael M Stepphenson,36,24,46,106
+LaGrange,Newbury,Registered Voters,,,,,,,1525
+LaGrange,Newbury,Ballots Cast ,,,,680,71,239,990
+LaGrange,Newbury,President,,REP,Donald J Trump,598,34,193,825
+LaGrange,Newbury,President,,DEM,Joseph R Biden,69,36,42,147
+LaGrange,Newbury,President,,LIB,Jo Jorgensen,5,1,2,8
+LaGrange,Newbury,President,,,Write-In,1,0,0,1
+LaGrange,Newbury,Governor,,REP,Eric Holcomb,471,35,165,671
+LaGrange,Newbury,Governor,,DEM,Woodrow (Woody) Myers,45,28,30,103
+LaGrange,Newbury,Governor,,LIB,Donald G Rainwater II,149,5,43,197
+LaGrange,Newbury,Attorney General,,REP,Todd Rokita,574,36,185,795
+LaGrange,Newbury,Attorney General,,DEM,Jonathan Weinzapfel,72,32,38,142
+LaGrange,Newbury,U.S. House,3,REP,Jim Banks,601,35,197,833
+LaGrange,Newbury,U.S. House,3,DEM,Chip Coldiron,59,33,34,126
+LaGrange,Newbury,U.S. House,3,,Write-In,0,0,0,0
+LaGrange,Newbury,State Senate,13,REP,C Susan Glick,593,50,196,839
+LaGrange,Newbury,State Representative,51,REP,Dennis J Zent,582,36,195,813
+LaGrange,Newbury,State Representative,51,DEM,Michael M Stepphenson,63,30,30,123
+LaGrange,Springfield,Registered Voters,,,,,,,756
+LaGrange,Springfield,Ballots Cast ,,,,333,37,134,504
+LaGrange,Springfield,President,,REP,Donald J Trump,284,17,95,396
+LaGrange,Springfield,President,,DEM,Joseph R Biden,35,20,31,86
+LaGrange,Springfield,President,,LIB,Jo Jorgensen,11,0,5,16
+LaGrange,Springfield,President,,,Write-In,0,0,0,0
+LaGrange,Springfield,Governor,,REP,Eric Holcomb,257,17,89,363
+LaGrange,Springfield,Governor,,DEM,Woodrow (Woody) Myers,20,15,25,60
+LaGrange,Springfield,Governor,,LIB,Donald G Rainwater II,51,2,19,72
+LaGrange,Springfield,Attorney General,,REP,Todd Rokita,272,17,97,386
+LaGrange,Springfield,Attorney General,,DEM,Jonathan Weinzapfel,49,17,27,93
+LaGrange,Springfield,U.S. House,3,REP,Jim Banks,288,16,101,405
+LaGrange,Springfield,U.S. House,3,DEM,Chip Coldiron,39,20,26,85
+LaGrange,Springfield,U.S. House,3,,Write-In,1,0,0,1
+LaGrange,Springfield,State Senate,13,REP,C Susan Glick,303,24,106,433
+LaGrange,Springfield,State Representative,51,REP,Dennis J Zent,287,16,101,404
+LaGrange,Springfield,State Representative,51,DEM,Michael M Stepphenson,35,18,23,76
+LaGrange,Van Buren,Registered Voters,,,,,,,1506
+LaGrange,Van Buren,Ballots Cast ,,,,676,58,191,925
+LaGrange,Van Buren,President,,REP,Donald J Trump,600,24,143,767
+LaGrange,Van Buren,President,,DEM,Joseph R Biden,65,34,45,144
+LaGrange,Van Buren,President,,LIB,Jo Jorgensen,6,0,1,7
+LaGrange,Van Buren,President,,,Write-In,2,0,0,2
+LaGrange,Van Buren,Governor,,REP,Eric Holcomb,490,32,136,658
+LaGrange,Van Buren,Governor,,DEM,Woodrow (Woody) Myers,55,20,32,107
+LaGrange,Van Buren,Governor,,LIB,Donald G Rainwater II,123,1,18,142
+LaGrange,Van Buren,Attorney General,,REP,Todd Rokita,566,25,146,737
+LaGrange,Van Buren,Attorney General,,DEM,Jonathan Weinzapfel,76,28,37,141
+LaGrange,Van Buren,U.S. House,3,REP,Jim Banks,592,23,148,763
+LaGrange,Van Buren,U.S. House,3,DEM,Chip Coldiron,63,29,40,132
+LaGrange,Van Buren,U.S. House,3,,Write-In,1,0,0,1
+LaGrange,Van Buren,State Senate,13,REP,C Susan Glick,592,30,157,779
+LaGrange,Van Buren,State Representative,51,REP,Dennis J Zent,583,24,144,751
+LaGrange,Van Buren,State Representative,51,DEM,Michael M Stepphenson,61,28,42,131
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,

@@ -1,0 +1,540 @@
+county,precinct,office,district,party,candidate,election_day,absentee,early_voting,votes
+Jasper,Barkley North,,,,Registered Voters,,,,377
+Jasper,Barkley North,,,,Ballots Cast ,172,27,82,281
+Jasper,Barkley North,President,,REP,Donald J Trump,142,19,51,212
+Jasper,Barkley North,President,,DEM,Joseph R Biden,22,8,28,58
+Jasper,Barkley North,President,,LIB,Jo Jorgensen,3,0,0,3
+Jasper,Barkley North,President,,,Write-In,0,0,0,0
+Jasper,Barkley North,Governor,,REP,Eric Holcomb,115,20,49,184
+Jasper,Barkley North,Governor,,DEM,Woodrow (Woody) Myers,14,7,23,44
+Jasper,Barkley North,Governor,,LIB,Donald G Rainwater II,40,0,8,48
+Jasper,Barkley North,Attorney General,,REP,Todd Rokita,135,20,55,210
+Jasper,Barkley North,Attorney General,,DEM,Jonathan Weinzapfel,27,7,26,60
+Jasper,Barkley North,U.S. House,4,REP,Todd Rokita,142,20,52,214
+Jasper,Barkley North,U.S. House,4,DEM,Jonathan Weinzapfel,25,6,28,59
+Jasper,Barkley North,U.S. House,4,,Write-In,0,0,0,0
+Jasper,Barkley North,State Senator,5,REP,Ed Charbonneau,140,20,56,216
+Jasper,Barkley North,State Senator,5,DEM,Luke Bohm,25,7,24,56
+Jasper,Barkley North,State Representative,16,REP,Douglas L Gutwein,142,19,52,213
+Jasper,Barkley North,State Representative,16,DEM,Michael A Lovely,27,8,27,62
+Jasper,Barkley South,,,,Registered Voters,,,,245
+Jasper,Barkley South,,,,Ballots Cast ,89,28,80,197
+Jasper,Barkley South,President,,REP,Donald J Trump,81,17,58,156
+Jasper,Barkley South,President,,DEM,Joseph R Biden,6,9,17,32
+Jasper,Barkley South,President,,LIB,Jo Jorgensen,1,2,5,8
+Jasper,Barkley South,President,,,Write-In,0,0,0,0
+Jasper,Barkley South,Governor,,REP,Eric Holcomb,47,18,57,122
+Jasper,Barkley South,Governor,,DEM,Woodrow (Woody) Myers,5,7,10,22
+Jasper,Barkley South,Governor,,LIB,Donald G Rainwater II,35,2,12,49
+Jasper,Barkley South,Attorney General,,REP,Todd Rokita,75,18,59,152
+Jasper,Barkley South,Attorney General,,DEM,Jonathan Weinzapfel,8,10,17,35
+Jasper,Barkley South,U.S. House,4,REP,Todd Rokita,77,19,61,157
+Jasper,Barkley South,U.S. House,4,DEM,Jonathan Weinzapfel,7,8,16,31
+Jasper,Barkley South,U.S. House,4,,Write-In,0,0,1,1
+Jasper,Barkley South,State Senator,5,REP,Ed Charbonneau,75,20,60,155
+Jasper,Barkley South,State Senator,5,DEM,Luke Bohm,7,7,14,28
+Jasper,Barkley South,State Representative,16,REP,Douglas L Gutwein,73,20,61,154
+Jasper,Barkley South,State Representative,16,DEM,Michael A Lovely,14,8,16,38
+Jasper,Carpenter East,,,,Registered Voters,,,,654
+Jasper,Carpenter East,,,,Ballots Cast ,271,8,168,447
+Jasper,Carpenter East,President,,REP,Donald J Trump,210,5,111,326
+Jasper,Carpenter East,President,,DEM,Joseph R Biden,47,3,53,103
+Jasper,Carpenter East,President,,LIB,Jo Jorgensen,9,0,1,10
+Jasper,Carpenter East,President,,,Write-In,0,0,0,0
+Jasper,Carpenter East,Governor,,REP,Eric Holcomb,201,5,98,304
+Jasper,Carpenter East,Governor,,DEM,Woodrow (Woody) Myers,26,3,42,71
+Jasper,Carpenter East,Governor,,LIB,Donald G Rainwater II,40,2,25,65
+Jasper,Carpenter East,Attorney General,,REP,Todd Rokita,211,5,119,335
+Jasper,Carpenter East,Attorney General,,DEM,Jonathan Weinzapfel,46,3,43,92
+Jasper,Carpenter East,U.S. House,4,REP,Todd Rokita,222,5,115,342
+Jasper,Carpenter East,U.S. House,4,DEM,Jonathan Weinzapfel,40,3,47,90
+Jasper,Carpenter East,U.S. House,4,,Write-In,0,0,0,0
+Jasper,Carpenter East,State Senator,7,REP,Brian W Buchanan,220,5,120,345
+Jasper,Carpenter East,State Senator,7,DEM,Tabitha N Bartley,43,3,46,92
+Jasper,Carpenter East,State Representative,13,REP,Sharon Negele,225,5,114,344
+Jasper,Carpenter East,State Representative,13,DEM,Loretta Barnes,38,3,47,88
+Jasper,Carpenter West,,,,Registered Voters,,,,626
+Jasper,Carpenter West,,,,Ballots Cast ,290,1,129,420
+Jasper,Carpenter West,President,,REP,Donald J Trump,244,1,80,325
+Jasper,Carpenter West,President,,DEM,Joseph R Biden,33,0,43,76
+Jasper,Carpenter West,President,,LIB,Jo Jorgensen,9,0,2,11
+Jasper,Carpenter West,President,,,Write-In,2,0,0,2
+Jasper,Carpenter West,Governor,,REP,Eric Holcomb,212,1,80,293
+Jasper,Carpenter West,Governor,,DEM,Woodrow (Woody) Myers,33,0,33,66
+Jasper,Carpenter West,Governor,,LIB,Donald G Rainwater II,40,0,13,53
+Jasper,Carpenter West,Attorney General,,REP,Todd Rokita,240,1,86,327
+Jasper,Carpenter West,Attorney General,,DEM,Jonathan Weinzapfel,35,0,39,74
+Jasper,Carpenter West,U.S. House,4,REP,Todd Rokita,243,0,85,328
+Jasper,Carpenter West,U.S. House,4,DEM,Jonathan Weinzapfel,36,0,40,76
+Jasper,Carpenter West,U.S. House,4,,Write-In,0,0,0,0
+Jasper,Carpenter West,State Senator,7,REP,Brian W Buchanan,246,0,88,334
+Jasper,Carpenter West,State Senator,7,DEM,Tabitha N Bartley,36,0,37,73
+Jasper,Carpenter West,State Representative,13,REP,Sharon Negele,248,0,88,336
+Jasper,Carpenter West,State Representative,13,DEM,Loretta Barnes,33,0,38,71
+Jasper,Gillam,,,,Registered Voters,,,,417
+Jasper,Gillam,,,,Ballots Cast ,186,42,56,284
+Jasper,Gillam,President,,REP,Donald J Trump,162,22,49,233
+Jasper,Gillam,President,,DEM,Joseph R Biden,21,18,5,44
+Jasper,Gillam,President,,LIB,Jo Jorgensen,2,2,1,5
+Jasper,Gillam,President,,,Write-In,0,0,0,0
+Jasper,Gillam,Governor,,REP,Eric Holcomb,122,25,37,184
+Jasper,Gillam,Governor,,DEM,Woodrow (Woody) Myers,18,16,6,40
+Jasper,Gillam,Governor,,LIB,Donald G Rainwater II,43,1,10,54
+Jasper,Gillam,Attorney General,,REP,Todd Rokita,152,22,45,219
+Jasper,Gillam,Attorney General,,DEM,Jonathan Weinzapfel,21,19,8,48
+Jasper,Gillam,U.S. House,4,REP,Todd Rokita,156,24,44,224
+Jasper,Gillam,U.S. House,4,DEM,Jonathan Weinzapfel,23,18,8,49
+Jasper,Gillam,U.S. House,4,,Write-In,0,0,1,1
+Jasper,Gillam,State Senator,5,REP,Ed Charbonneau,152,22,45,219
+Jasper,Gillam,State Senator,5,DEM,Luke Bohm,26,20,7,53
+Jasper,Gillam,State Representative,16,REP,Douglas L Gutwein,134,21,43,198
+Jasper,Gillam,State Representative,16,DEM,Michael A Lovely,48,21,12,81
+Jasper,Hanging Grove,,,,Registered Voters,,,,164
+Jasper,Hanging Grove,,,,Ballots Cast ,70,18,42,130
+Jasper,Hanging Grove,President,,REP,Donald J Trump,66,11,37,114
+Jasper,Hanging Grove,President,,DEM,Joseph R Biden,3,6,5,14
+Jasper,Hanging Grove,President,,LIB,Jo Jorgensen,1,1,0,2
+Jasper,Hanging Grove,President,,,Write-In,0,0,0,0
+Jasper,Hanging Grove,Governor,,REP,Eric Holcomb,50,17,31,98
+Jasper,Hanging Grove,Governor,,DEM,Woodrow (Woody) Myers,2,1,5,8
+Jasper,Hanging Grove,Governor,,LIB,Donald G Rainwater II,17,0,6,23
+Jasper,Hanging Grove,Attorney General,,REP,Todd Rokita,63,16,35,114
+Jasper,Hanging Grove,Attorney General,,DEM,Jonathan Weinzapfel,1,2,4,7
+Jasper,Hanging Grove,U.S. House,4,REP,Todd Rokita,65,15,37,117
+Jasper,Hanging Grove,U.S. House,4,DEM,Jonathan Weinzapfel,3,3,5,11
+Jasper,Hanging Grove,U.S. House,4,,Write-In,0,0,0,0
+Jasper,Hanging Grove,State Senator,7,REP,Brian W Buchanan,64,15,36,115
+Jasper,Hanging Grove,State Senator,7,DEM,Tabitha N Bartley,3,3,5,11
+Jasper,Hanging Grove,State Representative,16,REP,Douglas L Gutwein,61,12,36,109
+Jasper,Hanging Grove,State Representative,16,DEM,Michael A Lovely,6,5,5,16
+Jasper,Jordan,,,,Registered Voters,,,,231
+Jasper,Jordan,,,,Ballots Cast ,104,26,52,182
+Jasper,Jordan,President,,REP,Donald J Trump,83,7,35,125
+Jasper,Jordan,President,,DEM,Joseph R Biden,19,19,16,54
+Jasper,Jordan,President,,LIB,Jo Jorgensen,2,0,0,2
+Jasper,Jordan,President,,,Write-In,0,0,0,0
+Jasper,Jordan,Governor,,REP,Eric Holcomb,68,12,34,114
+Jasper,Jordan,Governor,,DEM,Woodrow (Woody) Myers,13,14,10,37
+Jasper,Jordan,Governor,,LIB,Donald G Rainwater II,21,0,7,28
+Jasper,Jordan,Attorney General,,REP,Todd Rokita,79,9,36,124
+Jasper,Jordan,Attorney General,,DEM,Jonathan Weinzapfel,22,17,14,53
+Jasper,Jordan,U.S. House,4,REP,Todd Rokita,85,10,35,130
+Jasper,Jordan,U.S. House,4,DEM,Jonathan Weinzapfel,17,14,15,46
+Jasper,Jordan,U.S. House,4,,Write-In,0,0,0,0
+Jasper,Jordan,State Senator,7,REP,Brian W Buchanan,85,8,38,131
+Jasper,Jordan,State Senator,7,DEM,Tabitha N Bartley,16,15,12,43
+Jasper,Jordan,State Representative,13,REP,Sharon Negele,79,14,41,134
+Jasper,Jordan,State Representative,13,DEM,Loretta Barnes,21,10,10,41
+Jasper,Kankakee,,,,Registered Voters,,,,660
+Jasper,Kankakee,,,,Ballots Cast ,332,43,75,450
+Jasper,Kankakee,President,,REP,Donald J Trump,239,18,46,303
+Jasper,Kankakee,President,,DEM,Joseph R Biden,80,22,26,128
+Jasper,Kankakee,President,,LIB,Jo Jorgensen,8,1,1,10
+Jasper,Kankakee,President,,,Write-In,0,0,0,0
+Jasper,Kankakee,Governor,,REP,Eric Holcomb,201,23,41,265
+Jasper,Kankakee,Governor,,DEM,Woodrow (Woody) Myers,65,17,19,101
+Jasper,Kankakee,Governor,,LIB,Donald G Rainwater II,56,0,12,68
+Jasper,Kankakee,Attorney General,,REP,Todd Rokita,224,19,47,290
+Jasper,Kankakee,Attorney General,,DEM,Jonathan Weinzapfel,85,21,25,131
+Jasper,Kankakee,U.S. House,4,REP,Todd Rokita,222,20,44,286
+Jasper,Kankakee,U.S. House,4,DEM,Jonathan Weinzapfel,90,18,26,134
+Jasper,Kankakee,U.S. House,4,,Write-In,0,0,0,0
+Jasper,Kankakee,State Senator,5,REP,Ed Charbonneau,230,20,47,297
+Jasper,Kankakee,State Senator,5,DEM,Luke Bohm,87,18,25,130
+Jasper,Kankakee,State Representative,16,REP,Douglas L Gutwein,221,17,45,283
+Jasper,Kankakee,State Representative,16,DEM,Michael A Lovely,98,22,27,147
+Jasper,Keener 1,,,,Registered Voters,,,,1422
+Jasper,Keener 1,,,,Ballots Cast ,445,146,384,975
+Jasper,Keener 1,President,,REP,Donald J Trump,341,68,272,681
+Jasper,Keener 1,President,,DEM,Joseph R Biden,82,75,100,257
+Jasper,Keener 1,President,,LIB,Jo Jorgensen,16,2,6,24
+Jasper,Keener 1,President,,,Write-In,0,0,1,1
+Jasper,Keener 1,Governor,,REP,Eric Holcomb,304,78,270,652
+Jasper,Keener 1,Governor,,DEM,Woodrow (Woody) Myers,77,62,75,214
+Jasper,Keener 1,Governor,,LIB,Donald G Rainwater II,60,1,33,94
+Jasper,Keener 1,Attorney General,,REP,Todd Rokita,337,73,274,684
+Jasper,Keener 1,Attorney General,,DEM,Jonathan Weinzapfel,91,68,96,255
+Jasper,Keener 1,U.S. House,4,REP,Todd Rokita,335,65,282,682
+Jasper,Keener 1,U.S. House,4,DEM,Jonathan Weinzapfel,95,70,95,260
+Jasper,Keener 1,U.S. House,4,,Write-In,0,0,0,0
+Jasper,Keener 1,State Senator,5,REP,Ed Charbonneau,339,70,282,691
+Jasper,Keener 1,State Senator,5,DEM,Luke Bohm,87,64,95,246
+Jasper,Keener 1,State Representative,16,REP,Douglas L Gutwein,330,75,280,685
+Jasper,Keener 1,State Representative,16,DEM,Michael A Lovely,103,59,97,259
+Jasper,Keener 2,,,,Registered Voters,,,,1518
+Jasper,Keener 2,,,,Ballots Cast ,501,136,444,1081
+Jasper,Keener 2,President,,REP,Donald J Trump,406,59,325,790
+Jasper,Keener 2,President,,DEM,Joseph R Biden,72,74,106,252
+Jasper,Keener 2,President,,LIB,Jo Jorgensen,14,1,7,22
+Jasper,Keener 2,President,,,Write-In,2,0,0,2
+Jasper,Keener 2,Governor,,REP,Eric Holcomb,351,78,308,737
+Jasper,Keener 2,Governor,,DEM,Woodrow (Woody) Myers,60,49,83,192
+Jasper,Keener 2,Governor,,LIB,Donald G Rainwater II,78,5,41,124
+Jasper,Keener 2,Attorney General,,REP,Todd Rokita,402,70,328,800
+Jasper,Keener 2,Attorney General,,DEM,Jonathan Weinzapfel,76,59,98,233
+Jasper,Keener 2,U.S. House,4,REP,Todd Rokita,398,69,335,802
+Jasper,Keener 2,U.S. House,4,DEM,Jonathan Weinzapfel,85,61,97,243
+Jasper,Keener 2,U.S. House,4,,Write-In,0,0,0,0
+Jasper,Keener 2,State Senator,5,REP,Ed Charbonneau,405,74,342,821
+Jasper,Keener 2,State Senator,5,DEM,Luke Bohm,82,58,94,234
+Jasper,Keener 2,State Representative,16,REP,Douglas L Gutwein,392,74,328,794
+Jasper,Keener 2,State Representative,16,DEM,Michael A Lovely,95,58,108,261
+Jasper,Keener 3,,,,Registered Voters,,,,1661
+Jasper,Keener 3,,,,Ballots Cast ,559,122,422,1103
+Jasper,Keener 3,President,,REP,Donald J Trump,455,43,315,813
+Jasper,Keener 3,President,,DEM,Joseph R Biden,92,76,95,263
+Jasper,Keener 3,President,,LIB,Jo Jorgensen,7,2,4,13
+Jasper,Keener 3,President,,,Write-In,1,1,0,2
+Jasper,Keener 3,Governor,,REP,Eric Holcomb,394,53,308,755
+Jasper,Keener 3,Governor,,DEM,Woodrow (Woody) Myers,71,59,67,197
+Jasper,Keener 3,Governor,,LIB,Donald G Rainwater II,88,4,41,133
+Jasper,Keener 3,Attorney General,,REP,Todd Rokita,441,50,324,815
+Jasper,Keener 3,Attorney General,,DEM,Jonathan Weinzapfel,93,66,82,241
+Jasper,Keener 3,U.S. House,4,REP,Todd Rokita,447,47,319,813
+Jasper,Keener 3,U.S. House,4,DEM,Jonathan Weinzapfel,95,68,90,253
+Jasper,Keener 3,U.S. House,4,,Write-In,0,0,0,0
+Jasper,Keener 3,State Senator,5,REP,Ed Charbonneau,454,48,328,830
+Jasper,Keener 3,State Senator,5,DEM,Luke Bohm,91,65,81,237
+Jasper,Keener 3,State Representative,16,REP,Douglas L Gutwein,442,48,316,806
+Jasper,Keener 3,State Representative,16,DEM,Michael A Lovely,106,68,94,268
+Jasper,Keener 4,,,,Registered Voters,,,,1479
+Jasper,Keener 4,,,,Ballots Cast ,321,151,514,986
+Jasper,Keener 4,President,,REP,Donald J Trump,243,69,361,673
+Jasper,Keener 4,President,,DEM,Joseph R Biden,66,81,133,280
+Jasper,Keener 4,President,,LIB,Jo Jorgensen,8,0,12,20
+Jasper,Keener 4,President,,,Write-In,2,0,1,3
+Jasper,Keener 4,Governor,,REP,Eric Holcomb,212,80,340,632
+Jasper,Keener 4,Governor,,DEM,Woodrow (Woody) Myers,56,64,116,236
+Jasper,Keener 4,Governor,,LIB,Donald G Rainwater II,48,2,44,94
+Jasper,Keener 4,Attorney General,,REP,Todd Rokita,235,75,366,676
+Jasper,Keener 4,Attorney General,,DEM,Jonathan Weinzapfel,65,70,125,260
+Jasper,Keener 4,U.S. House,4,REP,Todd Rokita,239,72,366,677
+Jasper,Keener 4,U.S. House,4,DEM,Jonathan Weinzapfel,68,72,132,272
+Jasper,Keener 4,U.S. House,4,,Write-In,0,0,0,0
+Jasper,Keener 4,State Senator,5,REP,Ed Charbonneau,239,75,366,680
+Jasper,Keener 4,State Senator,5,DEM,Luke Bohm,69,71,133,273
+Jasper,Keener 4,State Representative,16,REP,Douglas L Gutwein,228,74,360,662
+Jasper,Keener 4,State Representative,16,DEM,Michael A Lovely,85,73,143,301
+Jasper,Keener 5,,,,Registered Voters,,,,1425
+Jasper,Keener 5,,,,Ballots Cast ,430,181,481,1092
+Jasper,Keener 5,President,,REP,Donald J Trump,349,102,376,827
+Jasper,Keener 5,President,,DEM,Joseph R Biden,65,75,100,240
+Jasper,Keener 5,President,,LIB,Jo Jorgensen,6,2,1,9
+Jasper,Keener 5,President,,,Write-In,4,0,3,7
+Jasper,Keener 5,Governor,,REP,Eric Holcomb,300,114,364,778
+Jasper,Keener 5,Governor,,DEM,Woodrow (Woody) Myers,52,59,81,192
+Jasper,Keener 5,Governor,,LIB,Donald G Rainwater II,73,2,33,108
+Jasper,Keener 5,Attorney General,,REP,Todd Rokita,338,110,376,824
+Jasper,Keener 5,Attorney General,,DEM,Jonathan Weinzapfel,64,67,85,216
+Jasper,Keener 5,U.S. House,4,REP,Todd Rokita,353,103,381,837
+Jasper,Keener 5,U.S. House,4,DEM,Jonathan Weinzapfel,64,70,87,221
+Jasper,Keener 5,U.S. House,4,,Write-In,0,0,0,0
+Jasper,Keener 5,State Senator,5,REP,Ed Charbonneau,356,110,384,850
+Jasper,Keener 5,State Senator,5,DEM,Luke Bohm,60,63,86,209
+Jasper,Keener 5,State Representative,16,REP,Douglas L Gutwein,344,104,376,824
+Jasper,Keener 5,State Representative,16,DEM,Michael A Lovely,75,67,94,236
+Jasper,Marion 1,,,,Registered Voters,,,,978
+Jasper,Marion 1,,,,Ballots Cast ,243,108,303,654
+Jasper,Marion 1,President,,REP,Donald J Trump,194,64,219,477
+Jasper,Marion 1,President,,DEM,Joseph R Biden,44,39,71,154
+Jasper,Marion 1,President,,LIB,Jo Jorgensen,5,2,9,16
+Jasper,Marion 1,President,,,Write-In,0,0,0,0
+Jasper,Marion 1,Governor,,REP,Eric Holcomb,157,69,221,447
+Jasper,Marion 1,Governor,,DEM,Woodrow (Woody) Myers,29,33,52,114
+Jasper,Marion 1,Governor,,LIB,Donald G Rainwater II,53,0,25,78
+Jasper,Marion 1,Attorney General,,REP,Todd Rokita,175,63,225,463
+Jasper,Marion 1,Attorney General,,DEM,Jonathan Weinzapfel,49,39,68,156
+Jasper,Marion 1,U.S. House,4,REP,Todd Rokita,189,66,230,485
+Jasper,Marion 1,U.S. House,4,DEM,Jonathan Weinzapfel,46,35,67,148
+Jasper,Marion 1,U.S. House,4,,Write-In,0,0,0,0
+Jasper,Marion 1,State Senator,7,REP,Brian W Buchanan,182,62,231,475
+Jasper,Marion 1,State Senator,7,DEM,Tabitha N Bartley,50,37,65,152
+Jasper,Marion 1,State Representative,16,REP,Douglas L Gutwein,184,62,229,475
+Jasper,Marion 1,State Representative,16,DEM,Michael A Lovely,54,41,67,162
+Jasper,Marion 2,,,,Registered Voters,,,,732
+Jasper,Marion 2,,,,Ballots Cast ,211,49,196,456
+Jasper,Marion 2,President,,REP,Donald J Trump,162,25,121,308
+Jasper,Marion 2,President,,DEM,Joseph R Biden,43,17,67,127
+Jasper,Marion 2,President,,LIB,Jo Jorgensen,5,3,1,9
+Jasper,Marion 2,President,,,Write-In,0,0,0,0
+Jasper,Marion 2,Governor,,REP,Eric Holcomb,132,35,127,294
+Jasper,Marion 2,Governor,,DEM,Woodrow (Woody) Myers,25,1,46,81
+Jasper,Marion 2,Governor,,LIB,Donald G Rainwater II,50,1,18,69
+Jasper,Marion 2,Attorney General,,REP,Todd Rokita,154,32,126,312
+Jasper,Marion 2,Attorney General,,DEM,Jonathan Weinzapfel,46,13,63,122
+Jasper,Marion 2,U.S. House,4,REP,Todd Rokita,164,29,136,329
+Jasper,Marion 2,U.S. House,4,DEM,Jonathan Weinzapfel,40,17,56,113
+Jasper,Marion 2,U.S. House,4,,Write-In,0,0,0,0
+Jasper,Marion 2,State Senator,7,REP,Brian W Buchanan,163,31,137,331
+Jasper,Marion 2,State Senator,7,DEM,Tabitha N Bartley,39,15,55,109
+Jasper,Marion 2,State Representative,16,REP,Douglas L Gutwein,160,30,128,318
+Jasper,Marion 2,State Representative,16,DEM,Michael A Lovely,45,16,65,126
+Jasper,Marion 3,,,,Registered Voters,,,,488
+Jasper,Marion 3,,,,Ballots Cast ,110,50,162,322
+Jasper,Marion 3,President,,REP,Donald J Trump,89,17,89,195
+Jasper,Marion 3,President,,DEM,Joseph R Biden,18,33,67,118
+Jasper,Marion 3,President,,LIB,Jo Jorgensen,3,0,4,7
+Jasper,Marion 3,President,,,Write-In,0,0,1,1
+Jasper,Marion 3,Governor,,REP,Eric Holcomb,78,26,106,210
+Jasper,Marion 3,Governor,,DEM,Woodrow (Woody) Myers,10,23,40,73
+Jasper,Marion 3,Governor,,LIB,Donald G Rainwater II,18,1,13,32
+Jasper,Marion 3,Attorney General,,REP,Todd Rokita,87,25,99,211
+Jasper,Marion 3,Attorney General,,DEM,Jonathan Weinzapfel,16,24,53,93
+Jasper,Marion 3,U.S. House,4,REP,Todd Rokita,89,21,101,211
+Jasper,Marion 3,U.S. House,4,DEM,Jonathan Weinzapfel,16,27,56,99
+Jasper,Marion 3,U.S. House,4,,Write-In,0,0,0,0
+Jasper,Marion 3,State Senator,7,REP,Brian W Buchanan,83,19,101,203
+Jasper,Marion 3,State Senator,7,DEM,Tabitha N Bartley,19,29,53,101
+Jasper,Marion 3,State Representative,16,REP,Douglas L Gutwein,91,26,103,220
+Jasper,Marion 3,State Representative,16,DEM,Michael A Lovely,16,23,57,96
+Jasper,Marion 4,,,,Registered Voters,,,,506
+Jasper,Marion 4,,,,Ballots Cast ,163,30,101,294
+Jasper,Marion 4,President,,REP,Donald J Trump,126,19,60,205
+Jasper,Marion 4,President,,DEM,Joseph R Biden,31,10,36,77
+Jasper,Marion 4,President,,LIB,Jo Jorgensen,2,0,3,5
+Jasper,Marion 4,President,,,Write-In,1,0,2,3
+Jasper,Marion 4,Governor,,REP,Eric Holcomb,110,17,60,187
+Jasper,Marion 4,Governor,,DEM,Woodrow (Woody) Myers,23,10,28,61
+Jasper,Marion 4,Governor,,LIB,Donald G Rainwater II,26,2,11,39
+Jasper,Marion 4,Attorney General,,REP,Todd Rokita,125,18,55,198
+Jasper,Marion 4,Attorney General,,DEM,Jonathan Weinzapfel,30,9,37,76
+Jasper,Marion 4,U.S. House,4,REP,Todd Rokita,126,19,58,203
+Jasper,Marion 4,U.S. House,4,DEM,Jonathan Weinzapfel,33,10,40,83
+Jasper,Marion 4,U.S. House,4,,Write-In,0,0,0,0
+Jasper,Marion 4,State Senator,5,REP,Ed Charbonneau,123,19,60,202
+Jasper,Marion 4,State Senator,5,DEM,Luke Bohm,33,10,37,80
+Jasper,Marion 4,State Representative,16,REP,Douglas L Gutwein,123,19,58,200
+Jasper,Marion 4,State Representative,16,DEM,Michael A Lovely,37,10,40,87
+Jasper,Marion 5,,,,Registered Voters,,,,869
+Jasper,Marion 5,,,,Ballots Cast ,274,56,174,504
+Jasper,Marion 5,President,,REP,Donald J Trump,212,17,115,344
+Jasper,Marion 5,President,,DEM,Joseph R Biden,56,38,52,146
+Jasper,Marion 5,President,,LIB,Jo Jorgensen,5,0,3,8
+Jasper,Marion 5,President,,,Write-In,0,0,1,1
+Jasper,Marion 5,Governor,,REP,Eric Holcomb,170,26,106,302
+Jasper,Marion 5,Governor,,DEM,Woodrow (Woody) Myers,32,28,41,101
+Jasper,Marion 5,Governor,,LIB,Donald G Rainwater II,70,1,24,95
+Jasper,Marion 5,Attorney General,,REP,Todd Rokita,205,26,116,347
+Jasper,Marion 5,Attorney General,,DEM,Jonathan Weinzapfel,57,28,49,134
+Jasper,Marion 5,U.S. House,4,REP,Todd Rokita,207,24,114,345
+Jasper,Marion 5,U.S. House,4,DEM,Jonathan Weinzapfel,56,30,56,142
+Jasper,Marion 5,U.S. House,4,,Write-In,0,0,0,0
+Jasper,Marion 5,State Senator,5,REP,Ed Charbonneau,206,26,111,343
+Jasper,Marion 5,State Senator,5,DEM,Luke Bohm,58,26,54,141
+Jasper,Marion 5,State Representative,16,REP,Douglas L Gutwein,202,22,115,342
+Jasper,Marion 5,State Representative,16,DEM,Michael A Lovely,61,32,54,147
+Jasper,Marion 6,,,,Registered Voters,,,,475
+Jasper,Marion 6,,,,Ballots Cast ,170,35,128,333
+Jasper,Marion 6,President,,REP,Donald J Trump,135,25,93,253
+Jasper,Marion 6,President,,DEM,Joseph R Biden,28,10,34,72
+Jasper,Marion 6,President,,LIB,Jo Jorgensen,5,0,0,5
+Jasper,Marion 6,President,,,Write-In,0,0,0,0
+Jasper,Marion 6,Governor,,REP,Eric Holcomb,122,28,87,237
+Jasper,Marion 6,Governor,,DEM,Woodrow (Woody) Myers,14,7,19,40
+Jasper,Marion 6,Governor,,LIB,Donald G Rainwater II,29,0,20,49
+Jasper,Marion 6,Attorney General,,REP,Todd Rokita,134,26,96,256
+Jasper,Marion 6,Attorney General,,DEM,Jonathan Weinzapfel,26,8,27,61
+Jasper,Marion 6,U.S. House,4,REP,Todd Rokita,138,25,104,267
+Jasper,Marion 6,U.S. House,4,DEM,Jonathan Weinzapfel,26,8,19,53
+Jasper,Marion 6,U.S. House,4,,Write-In,0,0,0,0
+Jasper,Marion 6,State Senator,7,REP,Brian W Buchanan,142,25,100,267
+Jasper,Marion 6,State Senator,7,DEM,Tabitha N Bartley,22,8,23,53
+Jasper,Marion 6,State Representative,16,REP,Douglas L Gutwein,137,27,97,261
+Jasper,Marion 6,State Representative,16,DEM,Michael A Lovely,28,7,25,60
+Jasper,Marion 7,,,,Registered Voters,,,,270
+Jasper,Marion 7,,,,Ballots Cast ,69,22,101,192
+Jasper,Marion 7,President,,REP,Donald J Trump,54,12,80,146
+Jasper,Marion 7,President,,DEM,Joseph R Biden,13,10,20,43
+Jasper,Marion 7,President,,LIB,Jo Jorgensen,2,0,1,3
+Jasper,Marion 7,President,,,Write-In,0,0,0,0
+Jasper,Marion 7,Governor,,REP,Eric Holcomb,44,14,78,136
+Jasper,Marion 7,Governor,,DEM,Woodrow (Woody) Myers,8,8,13,29
+Jasper,Marion 7,Governor,,LIB,Donald G Rainwater II,16,0,7,23
+Jasper,Marion 7,Attorney General,,REP,Todd Rokita,52,9,77,138
+Jasper,Marion 7,Attorney General,,DEM,Jonathan Weinzapfel,14,13,15,42
+Jasper,Marion 7,U.S. House,4,REP,Todd Rokita,55,13,79,147
+Jasper,Marion 7,U.S. House,4,DEM,Jonathan Weinzapfel,10,9,21,40
+Jasper,Marion 7,U.S. House,4,,Write-In,0,0,0,0
+Jasper,Marion 7,State Senator,5,REP,Ed Charbonneau,54,12,80,146
+Jasper,Marion 7,State Senator,5,DEM,Luke Bohm,11,9,16,36
+Jasper,Marion 7,State Representative,16,REP,Douglas L Gutwein,57,10,74,141
+Jasper,Marion 7,State Representative,16,DEM,Michael A Lovely,10,12,23,45
+Jasper,Milroy,,,,Registered Voters,,,,172
+Jasper,Milroy,,,,Ballots Cast ,78,12,43,133
+Jasper,Milroy,President,,REP,Donald J Trump,64,6,32,102
+Jasper,Milroy,President,,DEM,Joseph R Biden,8,6,11,25
+Jasper,Milroy,President,,LIB,Jo Jorgensen,3,0,0,3
+Jasper,Milroy,President,,,Write-In,2,0,0,2
+Jasper,Milroy,Governor,,REP,Eric Holcomb,62,8,28,98
+Jasper,Milroy,Governor,,DEM,Woodrow (Woody) Myers,5,4,8,17
+Jasper,Milroy,Governor,,LIB,Donald G Rainwater II,10,0,5,15
+Jasper,Milroy,Attorney General,,REP,Todd Rokita,66,7,30,103
+Jasper,Milroy,Attorney General,,DEM,Jonathan Weinzapfel,6,5,11,22
+Jasper,Milroy,U.S. House,4,REP,Todd Rokita,67,7,31,105
+Jasper,Milroy,U.S. House,4,DEM,Jonathan Weinzapfel,9,4,10,23
+Jasper,Milroy,U.S. House,4,,Write-In,0,0,0,0
+Jasper,Milroy,State Senator,7,REP,Brian W Buchanan,71,7,31,109
+Jasper,Milroy,State Senator,7,DEM,Tabitha N Bartley,6,4,8,18
+Jasper,Milroy,State Representative,13,REP,Sharon Negele,70,7,30,107
+Jasper,Milroy,State Representative,13,DEM,Loretta Barnes,6,4,9,19
+Jasper,Newton,,,,Registered Voters,,,,613
+Jasper,Newton,,,,Ballots Cast ,219,66,184,469
+Jasper,Newton,President,,REP,Donald J Trump,169,40,129,338
+Jasper,Newton,President,,DEM,Joseph R Biden,42,21,49,112
+Jasper,Newton,President,,LIB,Jo Jorgensen,3,3,3,9
+Jasper,Newton,President,,,Write-In,0,0,0,0
+Jasper,Newton,Governor,,REP,Eric Holcomb,146,46,125,317
+Jasper,Newton,Governor,,DEM,Woodrow (Woody) Myers,25,15,31,71
+Jasper,Newton,Governor,,LIB,Donald G Rainwater II,46,3,22,71
+Jasper,Newton,Attorney General,,REP,Todd Rokita,168,46,130,344
+Jasper,Newton,Attorney General,,DEM,Jonathan Weinzapfel,45,17,43,105
+Jasper,Newton,U.S. House,4,REP,Todd Rokita,174,45,130,349
+Jasper,Newton,U.S. House,4,DEM,Jonathan Weinzapfel,38,18,46,102
+Jasper,Newton,U.S. House,4,,Write-In,0,0,0,0
+Jasper,Newton,State Senator,5,REP,Ed Charbonneau,175,46,133,354
+Jasper,Newton,State Senator,5,DEM,Luke Bohm,36,15,41,92
+Jasper,Newton,State Representative,16,REP,Douglas L Gutwein,169,41,127,337
+Jasper,Newton,State Representative,16,DEM,Michael A Lovely,45,21,48,114
+Jasper,Union North,,,,Registered Voters,,,,634
+Jasper,Union North,,,,Ballots Cast ,293,42,97,432
+Jasper,Union North,President,,REP,Donald J Trump,216,15,83,314
+Jasper,Union North,President,,DEM,Joseph R Biden,64,25,13,102
+Jasper,Union North,President,,LIB,Jo Jorgensen,8,0,0,8
+Jasper,Union North,President,,,Write-In,0,0,0,0
+Jasper,Union North,Governor,,REP,Eric Holcomb,182,21,72,275
+Jasper,Union North,Governor,,DEM,Woodrow (Woody) Myers,55,19,13,87
+Jasper,Union North,Governor,,LIB,Donald G Rainwater II,52,2,11,65
+Jasper,Union North,Attorney General,,REP,Todd Rokita,210,18,78,306
+Jasper,Union North,Attorney General,,DEM,Jonathan Weinzapfel,67,24,15,106
+Jasper,Union North,U.S. House,4,REP,Todd Rokita,216,18,83,317
+Jasper,Union North,U.S. House,4,DEM,Jonathan Weinzapfel,70,24,13,107
+Jasper,Union North,U.S. House,4,,Write-In,0,0,0,0
+Jasper,Union North,State Senator,5,REP,Ed Charbonneau,218,21,82,321
+Jasper,Union North,State Senator,5,DEM,Luke Bohm,64,21,13,98
+Jasper,Union North,State Representative,16,REP,Douglas L Gutwein,209,19,79,307
+Jasper,Union North,State Representative,16,DEM,Michael A Lovely,77,23,16,116
+Jasper,Union South,,,,Registered Voters,,,,359
+Jasper,Union South,,,,Ballots Cast ,149,28,87,264
+Jasper,Union South,President,,REP,Donald J Trump,124,13,62,199
+Jasper,Union South,President,,DEM,Joseph R Biden,22,13,25,60
+Jasper,Union South,President,,LIB,Jo Jorgensen,2,0,0,2
+Jasper,Union South,President,,,Write-In,0,0,0,0
+Jasper,Union South,Governor,,REP,Eric Holcomb,100,17,60,177
+Jasper,Union South,Governor,,DEM,Woodrow (Woody) Myers,15,9,20,44
+Jasper,Union South,Governor,,LIB,Donald G Rainwater II,28,0,6,34
+Jasper,Union South,Attorney General,,REP,Todd Rokita,122,16,61,199
+Jasper,Union South,Attorney General,,DEM,Jonathan Weinzapfel,20,12,20,52
+Jasper,Union South,U.S. House,4,REP,Todd Rokita,119,14,62,195
+Jasper,Union South,U.S. House,4,DEM,Jonathan Weinzapfel,23,12,24,59
+Jasper,Union South,U.S. House,4,,Write-In,0,0,0,0
+Jasper,Union South,State Senator,5,REP,Ed Charbonneau,118,15,64,197
+Jasper,Union South,State Senator,5,DEM,Luke Bohm,24,10,23,57
+Jasper,Union South,State Representative,16,REP,Douglas L Gutwein,117,15,65,197
+Jasper,Union South,State Representative,16,DEM,Michael A Lovely,24,11,21,56
+Jasper,Walker East,,,,Registered Voters,,,,983
+Jasper,Walker East,,,,Ballots Cast ,405,55,180,640
+Jasper,Walker East,President,,REP,Donald J Trump,318,22,129,469
+Jasper,Walker East,President,,DEM,Joseph R Biden,73,31,45,149
+Jasper,Walker East,President,,LIB,Jo Jorgensen,12,2,3,17
+Jasper,Walker East,President,,,Write-In,0,0,0,0
+Jasper,Walker East,Governor,,REP,Eric Holcomb,248,26,119,393
+Jasper,Walker East,Governor,,DEM,Woodrow (Woody) Myers,59,27,44,130
+Jasper,Walker East,Governor,,LIB,Donald G Rainwater II,87,1,15,103
+Jasper,Walker East,Attorney General,,REP,Todd Rokita,296,25,129,450
+Jasper,Walker East,Attorney General,,DEM,Jonathan Weinzapfel,88,29,48,165
+Jasper,Walker East,U.S. House,4,REP,Todd Rokita,298,23,128,449
+Jasper,Walker East,U.S. House,4,DEM,Jonathan Weinzapfel,92,30,47,169
+Jasper,Walker East,U.S. House,4,,Write-In,0,1,0,1
+Jasper,Walker East,State Senator,5,REP,Ed Charbonneau,309,25,131,465
+Jasper,Walker East,State Senator,5,DEM,Luke Bohm,79,29,46,154
+Jasper,Walker East,State Representative,16,REP,Douglas L Gutwein,276,25,122,423
+Jasper,Walker East,State Representative,16,DEM,Michael A Lovely,114,29,52,195
+Jasper,Walker West,,,,Registered Voters,,,,1743
+Jasper,Walker West,,,,Ballots Cast ,552,168,539,1259
+Jasper,Walker West,President,,REP,Donald J Trump,464,85,400,949
+Jasper,Walker West,President,,DEM,Joseph R Biden,76,80,125,281
+Jasper,Walker West,President,,LIB,Jo Jorgensen,7,2,8,17
+Jasper,Walker West,President,,,Write-In,1,0,0,1
+Jasper,Walker West,Governor,,REP,Eric Holcomb,380,84,368,832
+Jasper,Walker West,Governor,,DEM,Woodrow (Woody) Myers,59,67,103,229
+Jasper,Walker West,Governor,,LIB,Donald G Rainwater II,110,12,52,174
+Jasper,Walker West,Attorney General,,REP,Todd Rokita,443,81,385,909
+Jasper,Walker West,Attorney General,,DEM,Jonathan Weinzapfel,82,81,121,284
+Jasper,Walker West,U.S. House,4,REP,Todd Rokita,449,84,385,918
+Jasper,Walker West,U.S. House,4,DEM,Jonathan Weinzapfel,88,78,130,296
+Jasper,Walker West,U.S. House,4,,Write-In,0,0,0,0
+Jasper,Walker West,State Senator,5,REP,Ed Charbonneau,465,90,396,951
+Jasper,Walker West,State Senator,5,DEM,Luke Bohm,69,72,119,260
+Jasper,Walker West,State Representative,16,REP,Douglas L Gutwein,440,81,380,901
+Jasper,Walker West,State Representative,16,DEM,Michael A Lovely,98,82,142,322
+Jasper,Wheatfield East,,,,Registered Voters,,,,890
+Jasper,Wheatfield East,,,,Ballots Cast ,363,76,129,568
+Jasper,Wheatfield East,President,,REP,Donald J Trump,271,32,86,389
+Jasper,Wheatfield East,President,,DEM,Joseph R Biden,80,40,39,159
+Jasper,Wheatfield East,President,,LIB,Jo Jorgensen,8,2,2,12
+Jasper,Wheatfield East,President,,,Write-In,1,0,0,1
+Jasper,Wheatfield East,Governor,,REP,Eric Holcomb,227,37,70,334
+Jasper,Wheatfield East,Governor,,DEM,Woodrow (Woody) Myers,63,32,33,128
+Jasper,Wheatfield East,Governor,,LIB,Donald G Rainwater II,68,4,22,94
+Jasper,Wheatfield East,Attorney General,,REP,Todd Rokita,258,37,79,374
+Jasper,Wheatfield East,Attorney General,,DEM,Jonathan Weinzapfel,88,34,42,164
+Jasper,Wheatfield East,U.S. House,4,REP,Todd Rokita,260,33,81,374
+Jasper,Wheatfield East,U.S. House,4,DEM,Jonathan Weinzapfel,93,39,44,176
+Jasper,Wheatfield East,U.S. House,4,,Write-In,0,0,0,0
+Jasper,Wheatfield East,State Senator,5,REP,Ed Charbonneau,275,37,88,400
+Jasper,Wheatfield East,State Senator,5,DEM,Luke Bohm,77,36,38,151
+Jasper,Wheatfield East,State Representative,16,REP,Douglas L Gutwein,254,37,82,373
+Jasper,Wheatfield East,State Representative,16,DEM,Michael A Lovely,98,35,44,177
+Jasper,Wheatfield West 1,,,,Registered Voters,,,,754
+Jasper,Wheatfield West 1,,,,Ballots Cast ,305,45,123,473
+Jasper,Wheatfield West 1,President,,REP,Donald J Trump,232,19,85,336
+Jasper,Wheatfield West 1,President,,DEM,Joseph R Biden,57,21,35,113
+Jasper,Wheatfield West 1,President,,LIB,Jo Jorgensen,12,3,1,16
+Jasper,Wheatfield West 1,President,,,Write-In,0,0,0,0
+Jasper,Wheatfield West 1,Governor,,REP,Eric Holcomb,191,29,82,302
+Jasper,Wheatfield West 1,Governor,,DEM,Woodrow (Woody) Myers,37,15,26,78
+Jasper,Wheatfield West 1,Governor,,LIB,Donald G Rainwater II,70,1,14,85
+Jasper,Wheatfield West 1,Attorney General,,REP,Todd Rokita,227,21,82,330
+Jasper,Wheatfield West 1,Attorney General,,DEM,Jonathan Weinzapfel,60,23,35,118
+Jasper,Wheatfield West 1,U.S. House,4,REP,Todd Rokita,230,22,88,340
+Jasper,Wheatfield West 1,U.S. House,4,DEM,Jonathan Weinzapfel,61,22,30,113
+Jasper,Wheatfield West 1,U.S. House,4,,Write-In,0,0,0,0
+Jasper,Wheatfield West 1,State Senator,5,REP,Ed Charbonneau,237,26,91,354
+Jasper,Wheatfield West 1,State Senator,5,DEM,Luke Bohm,59,19,29,107
+Jasper,Wheatfield West 1,State Representative,16,REP,Douglas L Gutwein,223,24,85,332
+Jasper,Wheatfield West 1,State Representative,16,DEM,Michael A Lovely,70,20,35,125
+Jasper,Wheatfield West 2,,,,Registered Voters,,,,1514
+Jasper,Wheatfield West 2,,,,Ballots Cast ,541,145,376,1062
+Jasper,Wheatfield West 2,President,,REP,Donald J Trump,433,61,287,781
+Jasper,Wheatfield West 2,President,,DEM,Joseph R Biden,100,84,75,259
+Jasper,Wheatfield West 2,President,,LIB,Jo Jorgensen,7,0,5,12
+Jasper,Wheatfield West 2,President,,,Write-In,0,0,0,0
+Jasper,Wheatfield West 2,Governor,,REP,Eric Holcomb,383,70,266,719
+Jasper,Wheatfield West 2,Governor,,DEM,Woodrow (Woody) Myers,73,64,64,201
+Jasper,Wheatfield West 2,Governor,,LIB,Donald G Rainwater II,76,6,40,122
+Jasper,Wheatfield West 2,Attorney General,,REP,Todd Rokita,400,740,285,755
+Jasper,Wheatfield West 2,Attorney General,,DEM,Jonathan Weinzapfel,109,70,74,253
+Jasper,Wheatfield West 2,U.S. House,4,REP,Todd Rokita,414,64,285,763
+Jasper,Wheatfield West 2,U.S. House,4,DEM,Jonathan Weinzapfel,110,77,78,265
+Jasper,Wheatfield West 2,U.S. House,4,,Write-In,0,0,0,0
+Jasper,Wheatfield West 2,State Senator,5,REP,Ed Charbonneau,421,69,290,780
+Jasper,Wheatfield West 2,State Senator,5,DEM,Luke Bohm,102,70,74,246
+Jasper,Wheatfield West 2,State Representative,16,REP,Douglas L Gutwein,398,65,285,748
+Jasper,Wheatfield West 2,State Representative,16,DEM,Michael A Lovely,126,75,81,282
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,

@@ -1,0 +1,577 @@
+county,precinct,office,district,party,candidate,election_day,absentee,early_voting,votes
+Marshall,Bourbon 1,Registered Voters,,,,,,,944
+Marshall,Bourbon 1,Ballots Cast ,,,,419,57,185,661
+Marshall,Bourbon 1,President,,REP,Donald J Trump,353,41,136,530
+Marshall,Bourbon 1,President,,DEM,Joseph R Biden,52,15,43,110
+Marshall,Bourbon 1,President,,LIB,Jo Jorgensen,13,1,1,15
+Marshall,Bourbon 1,President,,,Write-In,0,0,1,1
+Marshall,Bourbon 1,Governor,,REP,Eric Holcomb,275,45,122,442
+Marshall,Bourbon 1,Governor,,DEM,Woodrow (Woody) Myers,39,11,25,75
+Marshall,Bourbon 1,Governor,,LIB,Donald G Rainwater II,98,0,36,134
+Marshall,Bourbon 1,Attorney General,,REP,Todd Rokita,332,41,135,508
+Marshall,Bourbon 1,Attorney General,,DEM,Jonathan Weinzapfel,62,14,37,113
+Marshall,Bourbon 1,U.S. House,2,REP,Jackie Walorski,344,41,138,523
+Marshall,Bourbon 1,U.S. House,2,DEM,Patricia (Pat) Hackett,66,14,41,121
+Marshall,Bourbon 1,U.S. House,2,,Write-In,0,0,0,0
+Marshall,Bourbon 1,State Senate,9,REP,Ryan Mishler,358,42,134,534
+Marshall,Bourbon 1,State Senate,9,DEM,Brandon M Cavanaugh,49,12,41,102
+Marshall,Bourbon 1,State Representative,17,REP,Jack Jordan,356,44,138,538
+Marshall,Bourbon 1,State Representative,17,DEM,Bianka M. Tinklenberg,50,8,37,95
+Marshall,Bourbon 2,Registered Voters,,,,,,,915
+Marshall,Bourbon 2,Ballots Cast ,,,,415,45,183,643
+Marshall,Bourbon 2,President,,REP,Donald J Trump,330,26,130,486
+Marshall,Bourbon 2,President,,DEM,Joseph R Biden,74,14,51,139
+Marshall,Bourbon 2,President,,LIB,Jo Jorgensen,9,4,1,14
+Marshall,Bourbon 2,President,,,Write-In,1,1,0,2
+Marshall,Bourbon 2,Governor,,REP,Eric Holcomb,225,28,115,368
+Marshall,Bourbon 2,Governor,,DEM,Woodrow (Woody) Myers,45,12,37,94
+Marshall,Bourbon 2,Governor,,LIB,Donald G Rainwater II,137,4,28,169
+Marshall,Bourbon 2,Attorney General,,REP,Todd Rokita,317,30,125,472
+Marshall,Bourbon 2,Attorney General,,DEM,Jonathan Weinzapfel,75,13,50,138
+Marshall,Bourbon 2,U.S. House,2,REP,Jackie Walorski,326,30,130,486
+Marshall,Bourbon 2,U.S. House,2,DEM,Patricia (Pat) Hackett,78,14,50,142
+Marshall,Bourbon 2,U.S. House,2,,Write-In,0,0,0,0
+Marshall,Bourbon 2,State Senate,9,REP,Ryan Mishler,334,30,131,495
+Marshall,Bourbon 2,State Senate,9,DEM,Brandon M Cavanaugh,65,14,48,127
+Marshall,Bourbon 2,State Representative,17,REP,Jack Jordan,339,30,133,502
+Marshall,Bourbon 2,State Representative,17,DEM,Bianka M. Tinklenberg,61,14,44,119
+Marshall,Center 1,Registered Voters,,,,,,,1144
+Marshall,Center 1,Ballots Cast ,,,,220,93,253,566
+Marshall,Center 1,President,,REP,Donald J Trump,140,45,138,323
+Marshall,Center 1,President,,DEM,Joseph R Biden,68,45,111,224
+Marshall,Center 1,President,,LIB,Jo Jorgensen,8,3,3,14
+Marshall,Center 1,President,,,Write-In,0,0,0,0
+Marshall,Center 1,Governor,,REP,Eric Holcomb,131,46,140,317
+Marshall,Center 1,Governor,,DEM,Woodrow (Woody) Myers,55,36,87,178
+Marshall,Center 1,Governor,,LIB,Donald G Rainwater II,31,4,21,56
+Marshall,Center 1,Attorney General,,REP,Todd Rokita,138,44,135,317
+Marshall,Center 1,Attorney General,,DEM,Jonathan Weinzapfel,71,38,104,213
+Marshall,Center 1,U.S. House,2,REP,Jackie Walorski,140,43,133,316
+Marshall,Center 1,U.S. House,2,DEM,Patricia (Pat) Hackett,79,42,114,235
+Marshall,Center 1,U.S. House,2,,Write-In,0,0,0,0
+Marshall,Center 1,State Senate,9,REP,Ryan Mishler,141,44,142,327
+Marshall,Center 1,State Senate,9,DEM,Brandon M Cavanaugh,69,40,102,211
+Marshall,Center 1,State Representative,17,REP,Jack Jordan,149,45,143,337
+Marshall,Center 1,State Representative,17,DEM,Bianka M. Tinklenberg,64,36,102,202
+Marshall,Center 2,Registered Voters,,,,,,,1490
+Marshall,Center 2,Ballots Cast ,,,,350,168,372,890
+Marshall,Center 2,President,,REP,Donald J Trump,244,74,219,537
+Marshall,Center 2,President,,DEM,Joseph R Biden,91,87,140,318
+Marshall,Center 2,President,,LIB,Jo Jorgensen,10,3,8,21
+Marshall,Center 2,President,,,Write-In,1,0,1,2
+Marshall,Center 2,Governor,,REP,Eric Holcomb,203,99,240,542
+Marshall,Center 2,Governor,,DEM,Woodrow (Woody) Myers,78,66,97,241
+Marshall,Center 2,Governor,,LIB,Donald G Rainwater II,58,2,32,92
+Marshall,Center 2,Attorney General,,REP,Todd Rokita,218,79,225,522
+Marshall,Center 2,Attorney General,,DEM,Jonathan Weinzapfel,109,79,132,320
+Marshall,Center 2,U.S. House,2,REP,Jackie Walorski,241,81,227,549
+Marshall,Center 2,U.S. House,2,DEM,Patricia (Pat) Hackett,96,82,139,317
+Marshall,Center 2,U.S. House,2,,Write-In,0,1,0,1
+Marshall,Center 2,State Senate,9,REP,Ryan Mishler,243,85,229,557
+Marshall,Center 2,State Senate,9,DEM,Brandon M Cavanaugh,91,74,131,296
+Marshall,Center 2,State Representative,17,REP,Jack Jordan,246,87,236,569
+Marshall,Center 2,State Representative,17,DEM,Bianka M. Tinklenberg,91,77,124,292
+Marshall,Center 3,Registered Voters,,,,,,,1558
+Marshall,Center 3,Ballots Cast ,,,,394,147,380,921
+Marshall,Center 3,President,,REP,Donald J Trump,261,52,186,499
+Marshall,Center 3,President,,DEM,Joseph R Biden,119,89,180,388
+Marshall,Center 3,President,,LIB,Jo Jorgensen,10,6,9,25
+Marshall,Center 3,President,,,Write-In,0,0,0,0
+Marshall,Center 3,Governor,,REP,Eric Holcomb,223,71,223,523
+Marshall,Center 3,Governor,,DEM,Woodrow (Woody) Myers,87,61,124,272
+Marshall,Center 3,Governor,,LIB,Donald G Rainwater II,78,4,29,111
+Marshall,Center 3,Attorney General,,REP,Todd Rokita,250,65,204,519
+Marshall,Center 3,Attorney General,,DEM,Jonathan Weinzapfel,118,67,160,345
+Marshall,Center 3,U.S. House,2,REP,Jackie Walorski,257,67,207,531
+Marshall,Center 3,U.S. House,2,DEM,Patricia (Pat) Hackett,126,76,165,367
+Marshall,Center 3,U.S. House,2,,Write-In,0,0,1,1
+Marshall,Center 3,State Senate,9,REP,Ryan Mishler,266,64,208,538
+Marshall,Center 3,State Senate,9,DEM,Brandon M Cavanaugh,111,74,159,344
+Marshall,Center 3,State Representative,17,REP,Jack Jordan,266,70,204,540
+Marshall,Center 3,State Representative,17,DEM,Bianka M. Tinklenberg,110,68,164,342
+Marshall,Center 4,Registered Voters,,,,,,,1610
+Marshall,Center 4,Ballots Cast ,,,,440,196,429,1065
+Marshall,Center 4,President,,REP,Donald J Trump,279,80,222,581
+Marshall,Center 4,President,,DEM,Joseph R Biden,135,112,189,436
+Marshall,Center 4,President,,LIB,Jo Jorgensen,20,1,11,32
+Marshall,Center 4,President,,,Write-In,1,1,0,2
+Marshall,Center 4,Governor,,REP,Eric Holcomb,273,106,249,628
+Marshall,Center 4,Governor,,DEM,Woodrow (Woody) Myers,92,75,136,303
+Marshall,Center 4,Governor,,LIB,Donald G Rainwater II,67,6,34,107
+Marshall,Center 4,Attorney General,,REP,Todd Rokita,270,95,232,597
+Marshall,Center 4,Attorney General,,DEM,Jonathan Weinzapfel,139,89,174,402
+Marshall,Center 4,U.S. House,2,REP,Jackie Walorski,273,89,230,592
+Marshall,Center 4,U.S. House,2,DEM,Patricia (Pat) Hackett,153,103,183,439
+Marshall,Center 4,U.S. House,2,,Write-In,2,0,0,2
+Marshall,Center 4,State Senate,9,REP,Ryan Mishler,287,100,249,636
+Marshall,Center 4,State Senate,9,DEM,Brandon M Cavanaugh,135,88,162,385
+Marshall,Center 4,State Representative,17,REP,Jack Jordan,291,98,250,639
+Marshall,Center 4,State Representative,17,DEM,Bianka M. Tinklenberg,130,87,162,379
+Marshall,Center 5,Registered Voters,,,,,,,1012
+Marshall,Center 5,Ballots Cast ,,,,323,83,312,718
+Marshall,Center 5,President,,REP,Donald J Trump,266,51,221,538
+Marshall,Center 5,President,,DEM,Joseph R Biden,49,28,84,161
+Marshall,Center 5,President,,LIB,Jo Jorgensen,7,2,3,12
+Marshall,Center 5,President,,,Write-In,0,0,0,0
+Marshall,Center 5,Governor,,REP,Eric Holcomb,227,59,236,522
+Marshall,Center 5,Governor,,DEM,Woodrow (Woody) Myers,34,21,49,104
+Marshall,Center 5,Governor,,LIB,Donald G Rainwater II,55,3,20,78
+Marshall,Center 5,Attorney General,,REP,Todd Rokita,246,53,219,518
+Marshall,Center 5,Attorney General,,DEM,Jonathan Weinzapfel,58,28,79,165
+Marshall,Center 5,U.S. House,2,REP,Jackie Walorski,260,57,225,542
+Marshall,Center 5,U.S. House,2,DEM,Patricia (Pat) Hackett,55,25,81,161
+Marshall,Center 5,U.S. House,2,,Write-In,0,0,0,0
+Marshall,Center 5,State Senate,9,REP,Ryan Mishler,255,55,231,541
+Marshall,Center 5,State Senate,9,DEM,Brandon M Cavanaugh,52,25,71,148
+Marshall,Center 5,State Representative,17,REP,Jack Jordan,253,58,232,543
+Marshall,Center 5,State Representative,17,DEM,Bianka M. Tinklenberg,51,22,72,145
+Marshall,Center 6,Registered Voters,,,,,,,1056
+Marshall,Center 6,Ballots Cast ,,,,352,95,341,788
+Marshall,Center 6,President,,REP,Donald J Trump,270,36,208,514
+Marshall,Center 6,President,,DEM,Joseph R Biden,72,58,125,255
+Marshall,Center 6,President,,LIB,Jo Jorgensen,6,0,1,7
+Marshall,Center 6,President,,,Write-In,0,0,1,1
+Marshall,Center 6,Governor,,REP,Eric Holcomb,230,54,208,492
+Marshall,Center 6,Governor,,DEM,Woodrow (Woody) Myers,54,38,92,184
+Marshall,Center 6,Governor,,LIB,Donald G Rainwater II,63,1,34,98
+Marshall,Center 6,Attorney General,,REP,Todd Rokita,253,50,213,516
+Marshall,Center 6,Attorney General,,DEM,Jonathan Weinzapfel,77,43,110,230
+Marshall,Center 6,U.S. House,2,REP,Jackie Walorski,266,46,210,522
+Marshall,Center 6,U.S. House,2,DEM,Patricia (Pat) Hackett,80,45,126,251
+Marshall,Center 6,U.S. House,2,,Write-In,0,0,0,0
+Marshall,Center 6,State Senate,9,REP,Ryan Mishler,271,51,220,542
+Marshall,Center 6,State Senate,9,DEM,Brandon M Cavanaugh,71,39,109,219
+Marshall,Center 6,State Representative,17,REP,Jack Jordan,266,45,223,534
+Marshall,Center 6,State Representative,17,DEM,Bianka M. Tinklenberg,75,45,109,229
+Marshall,Center 7,Registered Voters,,,,,,,1077
+Marshall,Center 7,Ballots Cast ,,,,321,104,401,826
+Marshall,Center 7,President,,REP,Donald J Trump,239,50,259,548
+Marshall,Center 7,President,,DEM,Joseph R Biden,71,52,129,252
+Marshall,Center 7,President,,LIB,Jo Jorgensen,9,2,8,19
+Marshall,Center 7,President,,,Write-In,1,0,0,1
+Marshall,Center 7,Governor,,REP,Eric Holcomb,207,73,270,550
+Marshall,Center 7,Governor,,DEM,Woodrow (Woody) Myers,40,25,85,150
+Marshall,Center 7,Governor,,LIB,Donald G Rainwater II,72,3,35,110
+Marshall,Center 7,Attorney General,,REP,Todd Rokita,229,56,270,555
+Marshall,Center 7,Attorney General,,DEM,Jonathan Weinzapfel,71,43,109,223
+Marshall,Center 7,U.S. House,2,REP,Jackie Walorski,239,60,273,572
+Marshall,Center 7,U.S. House,2,DEM,Patricia (Pat) Hackett,75,41,117,233
+Marshall,Center 7,U.S. House,2,,Write-In,0,0,0,0
+Marshall,Center 7,State Senate,9,REP,Ryan Mishler,249,59,276,584
+Marshall,Center 7,State Senate,9,DEM,Brandon M Cavanaugh,64,40,110,214
+Marshall,Center 7,State Representative,17,REP,Jack Jordan,244,57,279,580
+Marshall,Center 7,State Representative,17,DEM,Bianka M. Tinklenberg,69,41,107,217
+Marshall,Center 8,Registered Voters,,,,,,,805
+Marshall,Center 8,Ballots Cast ,,,,204,89,288,581
+Marshall,Center 8,President,,REP,Donald J Trump,171,47,179,397
+Marshall,Center 8,President,,DEM,Joseph R Biden,27,40,104,171
+Marshall,Center 8,President,,LIB,Jo Jorgensen,2,1,3,6
+Marshall,Center 8,President,,,Write-In,0,1,1,2
+Marshall,Center 8,Governor,,REP,Eric Holcomb,161,55,205,421
+Marshall,Center 8,Governor,,DEM,Woodrow (Woody) Myers,16,30,58,104
+Marshall,Center 8,Governor,,LIB,Donald G Rainwater II,24,0,21,45
+Marshall,Center 8,Attorney General,,REP,Todd Rokita,163,48,197,408
+Marshall,Center 8,Attorney General,,DEM,Jonathan Weinzapfel,32,35,82,149
+Marshall,Center 8,U.S. House,2,REP,Jackie Walorski,170,50,195,415
+Marshall,Center 8,U.S. House,2,DEM,Patricia (Pat) Hackett,29,35,90,154
+Marshall,Center 8,U.S. House,2,,Write-In,0,0,0,0
+Marshall,Center 8,State Senate,9,REP,Ryan Mishler,169,47,199,415
+Marshall,Center 8,State Senate,9,DEM,Brandon M Cavanaugh,26,36,85,147
+Marshall,Center 8,State Representative,17,REP,Jack Jordan,166,48,200,414
+Marshall,Center 8,State Representative,17,DEM,Bianka M. Tinklenberg,29,32,81,142
+Marshall,German 1,Registered Voters,,,,,,,1103
+Marshall,German 1,Ballots Cast ,,,,379,89,321,789
+Marshall,German 1,President,,REP,Donald J Trump,314,57,262,633
+Marshall,German 1,President,,DEM,Joseph R Biden,53,30,51,134
+Marshall,German 1,President,,LIB,Jo Jorgensen,4,0,2,6
+Marshall,German 1,President,,,Write-In,1,0,0,1
+Marshall,German 1,Governor,,REP,Eric Holcomb,278,62,243,583
+Marshall,German 1,Governor,,DEM,Woodrow (Woody) Myers,40,25,37,102
+Marshall,German 1,Governor,,LIB,Donald G Rainwater II,56,1,33,90
+Marshall,German 1,Attorney General,,REP,Todd Rokita,308,58,258,624
+Marshall,German 1,Attorney General,,DEM,Jonathan Weinzapfel,56,27,55,138
+Marshall,German 1,U.S. House,2,REP,Jackie Walorski,313,58,266,637
+Marshall,German 1,U.S. House,2,DEM,Patricia (Pat) Hackett,56,29,49,134
+Marshall,German 1,U.S. House,2,,Write-In,0,0,0,0
+Marshall,German 1,State Senate,9,REP,Ryan Mishler,325,63,267,655
+Marshall,German 1,State Senate,9,DEM,Brandon M Cavanaugh,46,24,49,119
+Marshall,German 1,State Representative,17,REP,Jack Jordan,320,58,262,640
+Marshall,German 1,State Representative,17,DEM,Bianka M. Tinklenberg,54,26,49,129
+Marshall,German 2,Registered Voters,,,,,,,937
+Marshall,German 2,Ballots Cast ,,,,395,77,215,687
+Marshall,German 2,President,,REP,Donald J Trump,336,39,167,542
+Marshall,German 2,President,,DEM,Joseph R Biden,43,34,46,123
+Marshall,German 2,President,,LIB,Jo Jorgensen,10,2,1,13
+Marshall,German 2,President,,,Write-In,1,0,1,2
+Marshall,German 2,Governor,,REP,Eric Holcomb,300,49,148,497
+Marshall,German 2,Governor,,DEM,Woodrow (Woody) Myers,30,24,33,87
+Marshall,German 2,Governor,,LIB,Donald G Rainwater II,63,1,32,96
+Marshall,German 2,Attorney General,,REP,Todd Rokita,329,47,162,538
+Marshall,German 2,Attorney General,,DEM,Jonathan Weinzapfel,47,25,41,113
+Marshall,German 2,U.S. House,2,REP,Jackie Walorski,338,49,162,549
+Marshall,German 2,U.S. House,2,DEM,Patricia (Pat) Hackett,46,25,48,119
+Marshall,German 2,U.S. House,2,,Write-In,0,0,0,0
+Marshall,German 2,State Senate,9,REP,Ryan Mishler,350,56,181,587
+Marshall,German 2,State Senate,9,DEM,Brandon M Cavanaugh,36,18,28,82
+Marshall,German 2,State Representative,17,REP,Jack Jordan,351,53,173,577
+Marshall,German 2,State Representative,17,DEM,Bianka M. Tinklenberg,36,19,33,88
+Marshall,German 3,Registered Voters,,,,,,,739
+Marshall,German 3,Ballots Cast ,,,,267,81,184,532
+Marshall,German 3,President,,REP,Donald J Trump,185,43,130,358
+Marshall,German 3,President,,DEM,Joseph R Biden,71,34,50,155
+Marshall,German 3,President,,LIB,Jo Jorgensen,7,0,0,7
+Marshall,German 3,President,,,Write-In,0,3,1,4
+Marshall,German 3,Governor,,REP,Eric Holcomb,177,54,137,368
+Marshall,German 3,Governor,,DEM,Woodrow (Woody) Myers,49,20,30,99
+Marshall,German 3,Governor,,LIB,Donald G Rainwater II,39,5,14,58
+Marshall,German 3,Attorney General,,REP,Todd Rokita,181,49,138,368
+Marshall,German 3,Attorney General,,DEM,Jonathan Weinzapfel,73,29,39,141
+Marshall,German 3,U.S. House,2,REP,Jackie Walorski,188,47,133,368
+Marshall,German 3,U.S. House,2,DEM,Patricia (Pat) Hackett,74,32,43,149
+Marshall,German 3,U.S. House,2,,Write-In,0,0,0,0
+Marshall,German 3,State Senate,9,REP,Ryan Mishler,203,57,148,408
+Marshall,German 3,State Senate,9,DEM,Brandon M Cavanaugh,61,22,31,114
+Marshall,German 3,State Representative,17,REP,Jack Jordan,198,54,148,400
+Marshall,German 3,State Representative,17,DEM,Bianka M. Tinklenberg,62,25,32,119
+Marshall,German 4,Registered Voters,,,,,,,890
+Marshall,German 4,Ballots Cast ,,,,303,74,173,550
+Marshall,German 4,President,,REP,Donald J Trump,203,34,115,352
+Marshall,German 4,President,,DEM,Joseph R Biden,90,38,55,183
+Marshall,German 4,President,,LIB,Jo Jorgensen,8,1,0,9
+Marshall,German 4,President,,,Write-In,0,0,1,1
+Marshall,German 4,Governor,,REP,Eric Holcomb,183,37,114,334
+Marshall,German 4,Governor,,DEM,Woodrow (Woody) Myers,64,32,43,139
+Marshall,German 4,Governor,,LIB,Donald G Rainwater II,48,3,16,67
+Marshall,German 4,Attorney General,,REP,Todd Rokita,202,33,116,351
+Marshall,German 4,Attorney General,,DEM,Jonathan Weinzapfel,83,39,51,173
+Marshall,German 4,U.S. House,2,REP,Jackie Walorski,211,36,114,361
+Marshall,German 4,U.S. House,2,DEM,Patricia (Pat) Hackett,87,35,56,178
+Marshall,German 4,U.S. House,2,,Write-In,0,0,0,0
+Marshall,German 4,State Senate,9,REP,Ryan Mishler,222,41,121,384
+Marshall,German 4,State Senate,9,DEM,Brandon M Cavanaugh,72,32,49,153
+Marshall,German 4,State Representative,17,REP,Jack Jordan,214,41,123,378
+Marshall,German 4,State Representative,17,DEM,Bianka M. Tinklenberg,78,31,44,153
+Marshall,German 5,Registered Voters,,,,,,,1138
+Marshall,German 5,Ballots Cast ,,,,426,90,219,735
+Marshall,German 5,President,,REP,Donald J Trump,320,40,153,513
+Marshall,German 5,President,,DEM,Joseph R Biden,94,43,61,198
+Marshall,German 5,President,,LIB,Jo Jorgensen,10,3,3,16
+Marshall,German 5,President,,,Write-In,1,0,0,1
+Marshall,German 5,Governor,,REP,Eric Holcomb,286,44,151,481
+Marshall,German 5,Governor,,DEM,Woodrow (Woody) Myers,67,39,42,148
+Marshall,German 5,Governor,,LIB,Donald G Rainwater II,71,2,23,96
+Marshall,German 5,Attorney General,,REP,Todd Rokita,329,46,159,534
+Marshall,German 5,Attorney General,,DEM,Jonathan Weinzapfel,90,38,48,176
+Marshall,German 5,U.S. House,2,REP,Jackie Walorski,328,47,159,534
+Marshall,German 5,U.S. House,2,DEM,Patricia (Pat) Hackett,95,39,57,191
+Marshall,German 5,U.S. House,2,,Write-In,1,0,0,1
+Marshall,German 5,State Senate,9,REP,Ryan Mishler,340,53,169,562
+Marshall,German 5,State Senate,9,DEM,Brandon M Cavanaugh,81,35,48,164
+Marshall,German 5,State Representative,17,REP,Jack Jordan,334,47,158,539
+Marshall,German 5,State Representative,17,DEM,Bianka M. Tinklenberg,81,38,53,172
+Marshall,Green,Registered Voters,,,,,,,716
+Marshall,Green,Ballots Cast ,,,,339,52,14,531
+Marshall,Green,President,,REP,Donald J Trump,265,26,105,396
+Marshall,Green,President,,DEM,Joseph R Biden,58,26,34,118
+Marshall,Green,President,,LIB,Jo Jorgensen,13,0,0,13
+Marshall,Green,President,,,Write-In,0,0,0,0
+Marshall,Green,Governor,,REP,Eric Holcomb,220,26,95,341
+Marshall,Green,Governor,,DEM,Woodrow (Woody) Myers,39,24,20,83
+Marshall,Green,Governor,,LIB,Donald G Rainwater II,78,2,25,105
+Marshall,Green,Attorney General,,REP,Todd Rokita,253,27,106,386
+Marshall,Green,Attorney General,,DEM,Jonathan Weinzapfel,71,24,30,125
+Marshall,Green,U.S. House,2,REP,Jackie Walorski,259,28,106,393
+Marshall,Green,U.S. House,2,DEM,Patricia (Pat) Hackett,74,24,33,131
+Marshall,Green,U.S. House,2,,Write-In,0,0,0,0
+Marshall,Green,State Senate,18,REP,Stacey A Donato,268,27,102,397
+Marshall,Green,State Senate,18,DEM,Laura Fred-Smith,64,24,29,117
+Marshall,Green,State Representative,17,REP,Jack Jordan,271,27,109,407
+Marshall,Green,State Representative,17,DEM,Bianka M. Tinklenberg,61,23,27,111
+Marshall,North 1,Registered Voters,,,,,,,1103
+Marshall,North 1,Ballots Cast ,,,,441,98,201,740
+Marshall,North 1,President,,REP,Donald J Trump,346,42,145,533
+Marshall,North 1,President,,DEM,Joseph R Biden,82,55,51,188
+Marshall,North 1,President,,LIB,Jo Jorgensen,7,0,3,10
+Marshall,North 1,President,,,Write-In,2,0,0,2
+Marshall,North 1,Governor,,REP,Eric Holcomb,306,62,143,511
+Marshall,North 1,Governor,,DEM,Woodrow (Woody) Myers,63,32,39,134
+Marshall,North 1,Governor,,LIB,Donald G Rainwater II,65,3,13,81
+Marshall,North 1,Attorney General,,REP,Todd Rokita,317,48,144,509
+Marshall,North 1,Attorney General,,DEM,Jonathan Weinzapfel,94,49,47,190
+Marshall,North 1,U.S. House,2,REP,Jackie Walorski,337,50,139,526
+Marshall,North 1,U.S. House,2,DEM,Patricia (Pat) Hackett,92,45,57,194
+Marshall,North 1,U.S. House,2,,Write-In,0,0,0,0
+Marshall,North 1,State Senate,9,REP,Ryan Mishler,342,55,146,543
+Marshall,North 1,State Senate,9,DEM,Brandon M Cavanaugh,78,40,48,166
+Marshall,North 1,State Representative,17,REP,Jack Jordan,340,52,150,542
+Marshall,North 1,State Representative,17,DEM,Bianka M. Tinklenberg,81,43,42,166
+Marshall,North 2,Registered Voters,,,,,,,791
+Marshall,North 2,Ballots Cast ,,,,274,75,201,550
+Marshall,North 2,President,,REP,Donald J Trump,237,34,145,416
+Marshall,North 2,President,,DEM,Joseph R Biden,32,39,53,124
+Marshall,North 2,President,,LIB,Jo Jorgensen,3,1,2,6
+Marshall,North 2,President,,,Write-In,0,0,0,0
+Marshall,North 2,Governor,,REP,Eric Holcomb,203,40,146,389
+Marshall,North 2,Governor,,DEM,Woodrow (Woody) Myers,18,31,35,84
+Marshall,North 2,Governor,,LIB,Donald G Rainwater II,51,2,16,69
+Marshall,North 2,Attorney General,,REP,Todd Rokita,221,37,144,402
+Marshall,North 2,Attorney General,,DEM,Jonathan Weinzapfel,43,36,50,129
+Marshall,North 2,U.S. House,2,REP,Jackie Walorski,233,33,149,415
+Marshall,North 2,U.S. House,2,DEM,Patricia (Pat) Hackett,36,40,48,124
+Marshall,North 2,U.S. House,2,,Write-In,0,0,0,0
+Marshall,North 2,State Senate,9,REP,Ryan Mishler,233,44,150,427
+Marshall,North 2,State Senate,9,DEM,Brandon M Cavanaugh,34,29,47,110
+Marshall,North 2,State Representative,17,REP,Jack Jordan,228,35,148,411
+Marshall,North 2,State Representative,17,DEM,Bianka M. Tinklenberg,33,37,49,119
+Marshall,North 3,Registered Voters,,,,,,,827
+Marshall,North 3,Ballots Cast ,,,,262,73,232,567
+Marshall,North 3,President,,REP,Donald J Trump,213,35,156,404
+Marshall,North 3,President,,DEM,Joseph R Biden,42,36,70,148
+Marshall,North 3,President,,LIB,Jo Jorgensen,4,1,4,9
+Marshall,North 3,President,,,Write-In,1,0,1,2
+Marshall,North 3,Governor,,REP,Eric Holcomb,166,44,147,357
+Marshall,North 3,Governor,,DEM,Woodrow (Woody) Myers,36,19,47,102
+Marshall,North 3,Governor,,LIB,Donald G Rainwater II,59,4,34,97
+Marshall,North 3,Attorney General,,REP,Todd Rokita,193,44,158,395
+Marshall,North 3,Attorney General,,DEM,Jonathan Weinzapfel,51,23,67,141
+Marshall,North 3,U.S. House,2,REP,Jackie Walorski,199,41,158,398
+Marshall,North 3,U.S. House,2,DEM,Patricia (Pat) Hackett,53,27,71,151
+Marshall,North 3,U.S. House,2,,Write-In,0,0,0,0
+Marshall,North 3,State Senate,9,REP,Ryan Mishler,208,42,164,414
+Marshall,North 3,State Senate,9,DEM,Brandon M Cavanaugh,39,23,64,126
+Marshall,North 3,State Representative,17,REP,Jack Jordan,208,45,161,414
+Marshall,North 3,State Representative,17,DEM,Bianka M. Tinklenberg,39,21,64,124
+Marshall,Polk 1,Registered Voters,,,,,,,888
+Marshall,Polk 1,Ballots Cast ,,,,337,89,197,623
+Marshall,Polk 1,President,,REP,Donald J Trump,288,40,128,456
+Marshall,Polk 1,President,,DEM,Joseph R Biden,44,45,67,156
+Marshall,Polk 1,President,,LIB,Jo Jorgensen,4,1,2,7
+Marshall,Polk 1,President,,,Write-In,0,0,0,0
+Marshall,Polk 1,Governor,,REP,Eric Holcomb,248,51,131,430
+Marshall,Polk 1,Governor,,DEM,Woodrow (Woody) Myers,32,35,54,121
+Marshall,Polk 1,Governor,,LIB,Donald G Rainwater II,51,1,10,62
+Marshall,Polk 1,Attorney General,,REP,Todd Rokita,266,43,122,431
+Marshall,Polk 1,Attorney General,,DEM,Jonathan Weinzapfel,57,41,68,166
+Marshall,Polk 1,U.S. House,2,REP,Jackie Walorski,281,41,127,449
+Marshall,Polk 1,U.S. House,2,DEM,Patricia (Pat) Hackett,49,44,69,162
+Marshall,Polk 1,U.S. House,2,,Write-In,0,0,0,0
+Marshall,Polk 1,State Senate,9,REP,Ryan Mishler,282,40,127,449
+Marshall,Polk 1,State Senate,9,DEM,Brandon M Cavanaugh,46,43,65,154
+Marshall,Polk 1,State Representative,17,REP,Jack Jordan,280,40,127,447
+Marshall,Polk 1,State Representative,17,DEM,Bianka M. Tinklenberg,49,43,66,158
+Marshall,Polk 2,Registered Voters,,,,,,,1117
+Marshall,Polk 2,Ballots Cast ,,,,477,111,204,792
+Marshall,Polk 2,President,,REP,Donald J Trump,387,56,139,582
+Marshall,Polk 2,President,,DEM,Joseph R Biden,79,51,62,192
+Marshall,Polk 2,President,,LIB,Jo Jorgensen,10,3,2,15
+Marshall,Polk 2,President,,,Write-In,0,0,0,0
+Marshall,Polk 2,Governor,,REP,Eric Holcomb,328,70,142,540
+Marshall,Polk 2,Governor,,DEM,Woodrow (Woody) Myers,51,37,49,137
+Marshall,Polk 2,Governor,,LIB,Donald G Rainwater II,96,2,12,110
+Marshall,Polk 2,Attorney General,,REP,Todd Rokita,361,66,139,566
+Marshall,Polk 2,Attorney General,,DEM,Jonathan Weinzapfel,99,41,59,199
+Marshall,Polk 2,U.S. House,2,REP,Jackie Walorski,376,62,142,580
+Marshall,Polk 2,U.S. House,2,DEM,Patricia (Pat) Hackett,93,46,61,200
+Marshall,Polk 2,U.S. House,2,,Write-In,2,0,0,2
+Marshall,Polk 2,State Senate,9,REP,Ryan Mishler,386,67,140,593
+Marshall,Polk 2,State Senate,9,DEM,Brandon M Cavanaugh,78,40,59,177
+Marshall,Polk 2,State Representative,17,REP,Jack Jordan,390,66,145,601
+Marshall,Polk 2,State Representative,17,DEM,Bianka M. Tinklenberg,75,40,54,169
+Marshall,Tippecanoe,Registered Voters,,,,,,,848
+Marshall,Tippecanoe,Ballots Cast ,,,,441,45,101,587
+Marshall,Tippecanoe,President,,REP,Donald J Trump,370,24,80,474
+Marshall,Tippecanoe,President,,DEM,Joseph R Biden,59,19,18,96
+Marshall,Tippecanoe,President,,LIB,Jo Jorgensen,6,0,1,7
+Marshall,Tippecanoe,President,,,Write-In,0,0,0,0
+Marshall,Tippecanoe,Governor,,REP,Eric Holcomb,285,30,66,381
+Marshall,Tippecanoe,Governor,,DEM,Woodrow (Woody) Myers,40,13,15,68
+Marshall,Tippecanoe,Governor,,LIB,Donald G Rainwater II,106,2,17,125
+Marshall,Tippecanoe,Attorney General,,REP,Todd Rokita,364,29,78,471
+Marshall,Tippecanoe,Attorney General,,DEM,Jonathan Weinzapfel,59,16,17,92
+Marshall,Tippecanoe,U.S. House,2,REP,Jackie Walorski,374,25,81,480
+Marshall,Tippecanoe,U.S. House,2,DEM,Patricia (Pat) Hackett,60,20,18,98
+Marshall,Tippecanoe,U.S. House,2,,Write-In,0,0,0,0
+Marshall,Tippecanoe,State Senate,18,REP,Stacey A Donato,372,25,80,477
+Marshall,Tippecanoe,State Senate,18,DEM,Laura Fred-Smith,52,19,18,89
+Marshall,Tippecanoe,State Representative,17,REP,Jack Jordan,378,26,79,483
+Marshall,Tippecanoe,State Representative,17,DEM,Bianka M. Tinklenberg,47,18,17,82
+Marshall,Union 1,Registered Voters,,,,,,,990
+Marshall,Union 1,Ballots Cast ,,,,214,125,332,671
+Marshall,Union 1,President,,REP,Donald J Trump,142,53,162,357
+Marshall,Union 1,President,,DEM,Joseph R Biden,62,69,160,291
+Marshall,Union 1,President,,LIB,Jo Jorgensen,5,1,5,11
+Marshall,Union 1,President,,,Write-In,2,2,0,4
+Marshall,Union 1,Governor,,REP,Eric Holcomb,147,69,193,409
+Marshall,Union 1,Governor,,DEM,Woodrow (Woody) Myers,36,46,115,197
+Marshall,Union 1,Governor,,LIB,Donald G Rainwater II,24,3,21,48
+Marshall,Union 1,Attorney General,,REP,Todd Rokita,147,58,179,384
+Marshall,Union 1,Attorney General,,DEM,Jonathan Weinzapfel,57,57,142,256
+Marshall,Union 1,U.S. House,2,REP,Jackie Walorski,151,58,178,387
+Marshall,Union 1,U.S. House,2,DEM,Patricia (Pat) Hackett,56,63,146,265
+Marshall,Union 1,U.S. House,2,,Write-In,0,1,0,1
+Marshall,Union 1,State Senate,18,REP,Stacey A Donato,148,53,176,377
+Marshall,Union 1,State Senate,18,DEM,Laura Fred-Smith,48,57,147,252
+Marshall,Union 1,State Representative,17,REP,Jack Jordan,156,60,192,408
+Marshall,Union 1,State Representative,17,DEM,Bianka M. Tinklenberg,46,55,129,230
+Marshall,Union 2,Registered Voters,,,,,,,1360
+Marshall,Union 2,Ballots Cast ,,,,326,167,441,934
+Marshall,Union 2,President,,REP,Donald J Trump,239,67,290,596
+Marshall,Union 2,President,,DEM,Joseph R Biden,80,95,145,320
+Marshall,Union 2,President,,LIB,Jo Jorgensen,7,2,4,13
+Marshall,Union 2,President,,,Write-In,0,0,1,1
+Marshall,Union 2,Governor,,REP,Eric Holcomb,215,87,305,607
+Marshall,Union 2,Governor,,DEM,Woodrow (Woody) Myers,59,65,103,227
+Marshall,Union 2,Governor,,LIB,Donald G Rainwater II,47,11,32,90
+Marshall,Union 2,Attorney General,,REP,Todd Rokita,230,79,295,604
+Marshall,Union 2,Attorney General,,DEM,Jonathan Weinzapfel,78,79,131,288
+Marshall,Union 2,U.S. House,2,REP,Jackie Walorski,234,82,291,607
+Marshall,Union 2,U.S. House,2,DEM,Patricia (Pat) Hackett,85,78,148,311
+Marshall,Union 2,U.S. House,2,,Write-In,0,0,0,0
+Marshall,Union 2,State Senate,18,REP,Stacey A Donato,229,72,295,596
+Marshall,Union 2,State Senate,18,DEM,Laura Fred-Smith,78,77,135,290
+Marshall,Union 2,State Representative,17,REP,Jack Jordan,242,76,301,619
+Marshall,Union 2,State Representative,17,DEM,Bianka M. Tinklenberg,69,78,129,276
+Marshall,Walnut 1,Registered Voters,,,,,,,992
+Marshall,Walnut 1,Ballots Cast ,,,,423,73,124,620
+Marshall,Walnut 1,President,,REP,Donald J Trump,333,35,82,450
+Marshall,Walnut 1,President,,DEM,Joseph R Biden,74,36,40,150
+Marshall,Walnut 1,President,,LIB,Jo Jorgensen,14,2,2,18
+Marshall,Walnut 1,President,,,Write-In,0,0,0,0
+Marshall,Walnut 1,Governor,,REP,Eric Holcomb,285,47,77,409
+Marshall,Walnut 1,Governor,,DEM,Woodrow (Woody) Myers,52,24,31,107
+Marshall,Walnut 1,Governor,,LIB,Donald G Rainwater II,81,2,14,97
+Marshall,Walnut 1,Attorney General,,REP,Todd Rokita,304,38,78,420
+Marshall,Walnut 1,Attorney General,,DEM,Jonathan Weinzapfel,100,34,43,177
+Marshall,Walnut 1,U.S. House,2,REP,Jackie Walorski,330,41,84,455
+Marshall,Walnut 1,U.S. House,2,DEM,Patricia (Pat) Hackett,88,32,39,159
+Marshall,Walnut 1,U.S. House,2,,Write-In,0,0,0,0
+Marshall,Walnut 1,State Senate,18,REP,Stacey A Donato,331,37,74,442
+Marshall,Walnut 1,State Senate,18,DEM,Laura Fred-Smith,80,34,45,159
+Marshall,Walnut 1,State Representative,17,REP,Jack Jordan,334,44,83,461
+Marshall,Walnut 1,State Representative,17,DEM,Bianka M. Tinklenberg,74,27,39,140
+Marshall,Walnut 2,Registered Voters,,,,,,,681
+Marshall,Walnut 2,Ballots Cast ,,,,332,51,113,496
+Marshall,Walnut 2,President,,REP,Donald J Trump,280,29,77,386
+Marshall,Walnut 2,President,,DEM,Joseph R Biden,42,18,34,94
+Marshall,Walnut 2,President,,LIB,Jo Jorgensen,8,3,2,13
+Marshall,Walnut 2,President,,,Write-In,0,0,0,0
+Marshall,Walnut 2,Governor,,REP,Eric Holcomb,230,35,72,337
+Marshall,Walnut 2,Governor,,DEM,Woodrow (Woody) Myers,27,10,24,61
+Marshall,Walnut 2,Governor,,LIB,Donald G Rainwater II,70,3,15,88
+Marshall,Walnut 2,Attorney General,,REP,Todd Rokita,263,31,79,373
+Marshall,Walnut 2,Attorney General,,DEM,Jonathan Weinzapfel,55,18,32,105
+Marshall,Walnut 2,U.S. House,2,REP,Jackie Walorski,274,30,79,383
+Marshall,Walnut 2,U.S. House,2,DEM,Patricia (Pat) Hackett,51,19,33,103
+Marshall,Walnut 2,U.S. House,2,,Write-In,0,0,0,0
+Marshall,Walnut 2,State Senate,18,REP,Stacey A Donato,278,31,78,387
+Marshall,Walnut 2,State Senate,18,DEM,Laura Fred-Smith,47,16,33,96
+Marshall,Walnut 2,State Representative,17,REP,Jack Jordan,276,32,80,388
+Marshall,Walnut 2,State Representative,17,DEM,Bianka M. Tinklenberg,48,17,31,96
+Marshall,West-City of Plymouth,Registered Voters,,,,,,,0
+Marshall,West-City of Plymouth,Ballots Cast ,,,,2,0,0,2
+Marshall,West-City of Plymouth,President,,REP,Donald J Trump,1,0,0,1
+Marshall,West-City of Plymouth,President,,DEM,Joseph R Biden,1,0,0,1
+Marshall,West-City of Plymouth,President,,LIB,Jo Jorgensen,0,0,0,0
+Marshall,West-City of Plymouth,President,,,Write-In,0,0,0,0
+Marshall,West-City of Plymouth,Governor,,REP,Eric Holcomb,2,0,0,2
+Marshall,West-City of Plymouth,Governor,,DEM,Woodrow (Woody) Myers,0,0,0,0
+Marshall,West-City of Plymouth,Governor,,LIB,Donald G Rainwater II,0,0,0,0
+Marshall,West-City of Plymouth,Attorney General,,REP,Todd Rokita,2,0,0,2
+Marshall,West-City of Plymouth,Attorney General,,DEM,Jonathan Weinzapfel,0,0,0,0
+Marshall,West-City of Plymouth,U.S. House,2,REP,Jackie Walorski,1,0,0,1
+Marshall,West-City of Plymouth,U.S. House,2,DEM,Patricia (Pat) Hackett,1,0,0,1
+Marshall,West-City of Plymouth,U.S. House,2,,Write-In,0,0,0,0
+Marshall,West-City of Plymouth,State Senate,18,REP,Stacey A Donato,1,0,0,1
+Marshall,West-City of Plymouth,State Senate,18,DEM,Laura Fred-Smith,1,0,0,1
+Marshall,West-City of Plymouth,State Representative,17,REP,Jack Jordan,2,0,0,2
+Marshall,West-City of Plymouth,State Representative,17,DEM,Bianka M. Tinklenberg,0,0,0,0
+Marshall,West 1,Registered Voters,,,,,,,981
+Marshall,West 1,Ballots Cast ,,,,302,143,243,688
+Marshall,West 1,President,,REP,Donald J Trump,241,44,177,462
+Marshall,West 1,President,,DEM,Joseph R Biden,51,98,62,211
+Marshall,West 1,President,,LIB,Jo Jorgensen,6,0,2,8
+Marshall,West 1,President,,,Write-In,3,1,0,4
+Marshall,West 1,Governor,,REP,Eric Holcomb,203,73,164,440
+Marshall,West 1,Governor,,DEM,Woodrow (Woody) Myers,28,61,49,138
+Marshall,West 1,Governor,,LIB,Donald G Rainwater II,65,3,27,95
+Marshall,West 1,Attorney General,,REP,Todd Rokita,239,49,168,456
+Marshall,West 1,Attorney General,,DEM,Jonathan Weinzapfel,49,83,60,192
+Marshall,West 1,U.S. House,2,REP,Jackie Walorski,238,47,175,460
+Marshall,West 1,U.S. House,2,DEM,Patricia (Pat) Hackett,58,90,62,210
+Marshall,West 1,U.S. House,2,,Write-In,0,0,0,0
+Marshall,West 1,State Senate,18,REP,Stacey A Donato,246,43,171,460
+Marshall,West 1,State Senate,18,DEM,Laura Fred-Smith,44,85,61,190
+Marshall,West 1,State Representative,17,REP,Jack Jordan,246,60,174,480
+Marshall,West 1,State Representative,17,DEM,Bianka M. Tinklenberg,48,66,59,173
+Marshall,West 2,Registered Voters,,,,,,,1000
+Marshall,West 2,Ballots Cast ,,,,372,99,240,711
+Marshall,West 2,President,,REP,Donald J Trump,311,41,174,526
+Marshall,West 2,President,,DEM,Joseph R Biden,49,56,62,167
+Marshall,West 2,President,,LIB,Jo Jorgensen,5,1,1,7
+Marshall,West 2,President,,,Write-In,0,0,1,1
+Marshall,West 2,Governor,,REP,Eric Holcomb,258,51,157,466
+Marshall,West 2,Governor,,DEM,Woodrow (Woody) Myers,39,41,50,130
+Marshall,West 2,Governor,,LIB,Donald G Rainwater II,67,3,28,98
+Marshall,West 2,Attorney General,,REP,Todd Rokita,282,42,168,492
+Marshall,West 2,Attorney General,,DEM,Jonathan Weinzapfel,68,53,63,184
+Marshall,West 2,U.S. House,2,REP,Jackie Walorski,292,45,173,510
+Marshall,West 2,U.S. House,2,DEM,Patricia (Pat) Hackett,71,51,64,186
+Marshall,West 2,U.S. House,2,,Write-In,0,0,0,0
+Marshall,West 2,State Senate,18,REP,Stacey A Donato,291,39,170,500
+Marshall,West 2,State Senate,18,DEM,Laura Fred-Smith,60,49,60,169
+Marshall,West 2,State Representative,17,REP,Jack Jordan,295,49,176,520
+Marshall,West 2,State Representative,17,DEM,Bianka M. Tinklenberg,58,44,58,160
+Marshall,West 3,Registered Voters,,,,,,,929
+Marshall,West 3,Ballots Cast ,,,,267,111,304,682
+Marshall,West 3,President,,REP,Donald J Trump,215,46,193,454
+Marshall,West 3,President,,DEM,Joseph R Biden,46,64,99,209
+Marshall,West 3,President,,LIB,Jo Jorgensen,3,1,5,9
+Marshall,West 3,President,,,Write-In,1,0,0,1
+Marshall,West 3,Governor,,REP,Eric Holcomb,196,56,206,458
+Marshall,West 3,Governor,,DEM,Woodrow (Woody) Myers,38,48,70,156
+Marshall,West 3,Governor,,LIB,Donald G Rainwater II,33,4,25,62
+Marshall,West 3,Attorney General,,REP,Todd Rokita,212,52,204,468
+Marshall,West 3,Attorney General,,DEM,Jonathan Weinzapfel,49,52,90,191
+Marshall,West 3,U.S. House,2,REP,Jackie Walorski,218,55,205,478
+Marshall,West 3,U.S. House,2,DEM,Patricia (Pat) Hackett,45,54,94,193
+Marshall,West 3,U.S. House,2,,Write-In,0,0,0,0
+Marshall,West 3,State Senate,18,REP,Stacey A Donato,214,55,198,467
+Marshall,West 3,State Senate,18,DEM,Laura Fred-Smith,46,47,93,186
+Marshall,West 3,State Representative,17,REP,Jack Jordan,212,56,209,477
+Marshall,West 3,State Representative,17,DEM,Bianka M. Tinklenberg,51,44,87,182
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,

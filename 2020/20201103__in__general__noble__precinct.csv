@@ -1,0 +1,497 @@
+county,precinct,office,district,party,candidate,election_day,absentee,early_voting,votes
+Noble,Washington 1,Registered Voters,,,,,,,753
+Noble,Washington 1,Ballots Cast,,,,181,59,283,23
+Noble,Washington 1,President,,REP,Donald J Trump,146,28,220,394
+Noble,Washington 1,President,,DEM,Joseph R Biden,27,29,59,115
+Noble,Washington 1,President,,LIB,Jo Jorgensen,5,2,0,7
+Noble,Washington 1,President,,,Write-In,0,0,0,0
+Noble,Washington 1,Governor,,REP,Eric Holcomb,113,34,196,343
+Noble,Washington 1,Governor,,DEM,Woodrow (Woody) Myers,19,19,50,88
+Noble,Washington 1,Governor,,LIB,Donald G Rainwater II,48,2,33,83
+Noble,Washington 1,Attorney General,,REP,Todd Rokita,139,29,212,380
+Noble,Washington 1,Attorney General,,DEM,Jonathan Weinzapfel,37,26,59,122
+Noble,Washington 1,U.S. House,3,REP,Jim Banks,145,28,216,389
+Noble,Washington 1,U.S. House,3,DEM,Chip Coldiron,34,29,61,124
+Noble,Washington 1,U.S. House,3,,Write-In,0,0,0,0
+Noble,Washington 1,State Senate,13,REP,C Susan Glick,154,36,234,424
+Noble,Washington 1,State Representative,82,REP,David H Abbott,156,35,232,423
+Noble,Sparta 2,Registered Voters,,,,,,,1628
+Noble,Sparta 2,Ballots Cast,,,,325,112,576,1013
+Noble,Sparta 2,President,,REP,Donald J Trump,264,44,446,754
+Noble,Sparta 2,President,,DEM,Joseph R Biden,53,66,120,239
+Noble,Sparta 2,President,,LIB,Jo Jorgensen,6,1,5,12
+Noble,Sparta 2,President,,,Write-In,1,0,0,1
+Noble,Sparta 2,Governor,,REP,Eric Holcomb,206,53,391,650
+Noble,Sparta 2,Governor,,DEM,Woodrow (Woody) Myers,41,52,83,176
+Noble,Sparta 2,Governor,,LIB,Donald G Rainwater II,75,3,94,172
+Noble,Sparta 2,Attorney General,,REP,Todd Rokita,242,46,440,728
+Noble,Sparta 2,Attorney General,,DEM,Jonathan Weinzapfel,62,63,118,243
+Noble,Sparta 2,U.S. House,3,REP,Jim Banks,264,45,465,774
+Noble,Sparta 2,U.S. House,3,DEM,Chip Coldiron,50,64,104,218
+Noble,Sparta 2,U.S. House,3,,Write-In,0,0,0,0
+Noble,Sparta 2,State Senate,13,REP,C Susan Glick,270,63,491,824
+Noble,Sparta 2,State Representative,82,REP,David H Abbott,272,62,483,817
+Noble,Perry 3,Registered Voters,,,,,,,994
+Noble,Perry 3,Ballots Cast,,,,206,56,299,561
+Noble,Perry 3,President,,REP,Donald J Trump,151,34,242,427
+Noble,Perry 3,President,,DEM,Joseph R Biden,48,22,51,121
+Noble,Perry 3,President,,LIB,Jo Jorgensen,5,0,0,5
+Noble,Perry 3,President,,,Write-In,0,0,1,1
+Noble,Perry 3,Governor,,REP,Eric Holcomb,117,34,212,363
+Noble,Perry 3,Governor,,DEM,Woodrow (Woody) Myers,43,18,42,103
+Noble,Perry 3,Governor,,LIB,Donald G Rainwater II,39,2,37,78
+Noble,Perry 3,Attorney General,,REP,Todd Rokita,140,33,239,412
+Noble,Perry 3,Attorney General,,DEM,Jonathan Weinzapfel,46,21,44,111
+Noble,Perry 3,U.S. House,3,REP,Jim Banks,149,34,239,422
+Noble,Perry 3,U.S. House,3,DEM,Chip Coldiron,45,20,47,112
+Noble,Perry 3,U.S. House,3,,Write-In,0,0,0,0
+Noble,Perry 3,State Senate,13,REP,C Susan Glick,150,37,249,436
+Noble,Perry 3,State Representative,82,REP,David H Abbott,153,39,245,437
+Noble,Perry 4,Registered Voters,,,,,,,570
+Noble,Perry 4,Ballots Cast,,,,101,21,136,258
+Noble,Perry 4,President,,REP,Donald J Trump,65,3,91,159
+Noble,Perry 4,President,,DEM,Joseph R Biden,31,16,40,87
+Noble,Perry 4,President,,LIB,Jo Jorgensen,4,1,4,9
+Noble,Perry 4,President,,,Write-In,0,0,0,0
+Noble,Perry 4,Governor,,REP,Eric Holcomb,58,5,78,141
+Noble,Perry 4,Governor,,DEM,Woodrow (Woody) Myers,27,14,36,77
+Noble,Perry 4,Governor,,LIB,Donald G Rainwater II,13,0,22,35
+Noble,Perry 4,Attorney General,,REP,Todd Rokita,57,4,89,150
+Noble,Perry 4,Attorney General,,DEM,Jonathan Weinzapfel,38,15,42,95
+Noble,Perry 4,U.S. House,3,REP,Jim Banks,65,3,92,160
+Noble,Perry 4,U.S. House,3,DEM,Chip Coldiron,31,14,40,85
+Noble,Perry 4,U.S. House,3,,Write-In,0,0,0,0
+Noble,Perry 4,State Senate,13,REP,C Susan Glick,74,9,106,189
+Noble,Perry 4,State Representative,82,REP,David H Abbott,71,6,104,181
+Noble,Perry 5,Registered Voters,,,,,,,461
+Noble,Perry 5,Ballots Cast,,,,101,18,79,198
+Noble,Perry 5,President,,REP,Donald J Trump,67,6,57,130
+Noble,Perry 5,President,,DEM,Joseph R Biden,31,12,21,64
+Noble,Perry 5,President,,LIB,Jo Jorgensen,3,0,0,3
+Noble,Perry 5,President,,,Write-In,0,0,1,1
+Noble,Perry 5,Governor,,REP,Eric Holcomb,54,13,48,115
+Noble,Perry 5,Governor,,DEM,Woodrow (Woody) Myers,26,5,17,48
+Noble,Perry 5,Governor,,LIB,Donald G Rainwater II,20,0,12,32
+Noble,Perry 5,Attorney General,,REP,Todd Rokita,66,12,58,136
+Noble,Perry 5,Attorney General,,DEM,Jonathan Weinzapfel,32,6,18,56
+Noble,Perry 5,U.S. House,3,REP,Jim Banks,64,11,57,132
+Noble,Perry 5,U.S. House,3,DEM,Chip Coldiron,33,6,20,59
+Noble,Perry 5,U.S. House,3,,Write-In,0,0,0,0
+Noble,Perry 5,State Senate,13,REP,C Susan Glick,78,12,58,148
+Noble,Perry 5,State Representative,82,REP,David H Abbott,78,10,58,146
+Noble,Perry 6,Registered Voters,,,,,,,1067
+Noble,Perry 6,Ballots Cast,,,,225,57,247,529
+Noble,Perry 6,President,,REP,Donald J Trump,137,28,163,328
+Noble,Perry 6,President,,DEM,Joseph R Biden,80,27,75,182
+Noble,Perry 6,President,,LIB,Jo Jorgensen,7,1,3,11
+Noble,Perry 6,President,,,Write-In,0,0,0,0
+Noble,Perry 6,Governor,,REP,Eric Holcomb,114,34,146,294
+Noble,Perry 6,Governor,,DEM,Woodrow (Woody) Myers,67,21,57,145
+Noble,Perry 6,Governor,,LIB,Donald G Rainwater II,40,1,38,79
+Noble,Perry 6,Attorney General,,REP,Todd Rokita,133,31,160,324
+Noble,Perry 6,Attorney General,,DEM,Jonathan Weinzapfel,81,25,74,180
+Noble,Perry 6,U.S. House,3,REP,Jim Banks,134,32,174,340
+Noble,Perry 6,U.S. House,3,DEM,Chip Coldiron,82,25,67,174
+Noble,Perry 6,U.S. House,3,,Write-In,0,0,0,0
+Noble,Perry 6,State Senate,13,REP,C Susan Glick,162,41,194,397
+Noble,Perry 6,State Representative,82,REP,David H Abbott,153,38,188,379
+Noble,Elkhart 7,Registered Voters,,,,,,,911
+Noble,Elkhart 7,Ballots Cast,,,,228,53,324,605
+Noble,Elkhart 7,President,,REP,Donald J Trump,203,30,258,489
+Noble,Elkhart 7,President,,DEM,Joseph R Biden,16,22,59,97
+Noble,Elkhart 7,President,,LIB,Jo Jorgensen,6,1,4,11
+Noble,Elkhart 7,President,,,Write-In,1,0,2,3
+Noble,Elkhart 7,Governor,,REP,Eric Holcomb,163,34,219,416
+Noble,Elkhart 7,Governor,,DEM,Woodrow (Woody) Myers,8,16,48,70
+Noble,Elkhart 7,Governor,,LIB,Donald G Rainwater II,54,2,55,111
+Noble,Elkhart 7,Attorney General,,REP,Todd Rokita,194,32,254,480
+Noble,Elkhart 7,Attorney General,,DEM,Jonathan Weinzapfel,22,18,59,99
+Noble,Elkhart 7,U.S. House,3,REP,Jim Banks,206,30,259,495
+Noble,Elkhart 7,U.S. House,3,DEM,Chip Coldiron,15,19,59,93
+Noble,Elkhart 7,U.S. House,3,,Write-In,0,0,0,0
+Noble,Elkhart 7,State Senate,13,REP,C Susan Glick,200,31,268,499
+Noble,Elkhart 7,State Representative,82,REP,David H Abbott,206,29,272,507
+Noble,York 8,Registered Voters,,,,,,,1136
+Noble,York 8,Ballots Cast,,,,297,96,409,802
+Noble,York 8,President,,REP,Donald J Trump,250,45,328,623
+Noble,York 8,President,,DEM,Joseph R Biden,40,49,69,158
+Noble,York 8,President,,LIB,Jo Jorgensen,5,1,7,13
+Noble,York 8,President,,,Write-In,0,0,0,0
+Noble,York 8,Governor,,REP,Eric Holcomb,194,52,277,523
+Noble,York 8,Governor,,DEM,Woodrow (Woody) Myers,29,36,44,109
+Noble,York 8,Governor,,LIB,Donald G Rainwater II,71,2,79,152
+Noble,York 8,Attorney General,,REP,Todd Rokita,239,52,324,615
+Noble,York 8,Attorney General,,DEM,Jonathan Weinzapfel,47,40,66,153
+Noble,York 8,U.S. House,3,REP,Jim Banks,254,46,329,629
+Noble,York 8,U.S. House,3,DEM,Chip Coldiron,34,45,70,149
+Noble,York 8,U.S. House,3,,Write-In,0,0,0,0
+Noble,York 8,State Senate,13,REP,C Susan Glick,263,51,351,665
+Noble,York 8,State Representative,82,REP,David H Abbott,261,51,342,854
+Noble,Noble 9,Registered Voters,,,,,,,1222
+Noble,Noble 9,Ballots Cast,,,,354,98,433,885
+Noble,Noble 9,President,,REP,Donald J Trump,287,41,336,664
+Noble,Noble 9,President,,DEM,Joseph R Biden,51,56,85,192
+Noble,Noble 9,President,,LIB,Jo Jorgensen,11,1,5,17
+Noble,Noble 9,President,,,Write-In,3,0,0,3
+Noble,Noble 9,Governor,,REP,Eric Holcomb,200,59,294,553
+Noble,Noble 9,Governor,,DEM,Woodrow (Woody) Myers,38,36,64,138
+Noble,Noble 9,Governor,,LIB,Donald G Rainwater II,110,2,71,183
+Noble,Noble 9,Attorney General,,REP,Todd Rokita,262,50,323,635
+Noble,Noble 9,Attorney General,,DEM,Jonathan Weinzapfel,73,47,89,209
+Noble,Noble 9,U.S. House,3,REP,Jim Banks,280,48,339,667
+Noble,Noble 9,U.S. House,3,DEM,Chip Coldiron,64,46,84,194
+Noble,Noble 9,U.S. House,3,,Write-In,0,0,0,0
+Noble,Noble 9,State Senate,13,REP,C Susan Glick,299,59,352,710
+Noble,Noble 9,State Representative,82,REP,David H Abbott,281,59,349,689
+Noble,Green 10,Registered Voters,,,,,,,1375
+Noble,Green 10,Ballots Cast,,,,412,109,575,1096
+Noble,Green 10,President,,REP,Donald J Trump,364,61,442,867
+Noble,Green 10,President,,DEM,Joseph R Biden,41,45,119,205
+Noble,Green 10,President,,LIB,Jo Jorgensen,5,1,6,12
+Noble,Green 10,President,,,Write-In,0,0,0,0
+Noble,Green 10,Governor,,REP,Eric Holcomb,293,66,399,758
+Noble,Green 10,Governor,,DEM,Woodrow (Woody) Myers,20,34,87,141
+Noble,Green 10,Governor,,LIB,Donald G Rainwater II,94,7,85,186
+Noble,Green 10,Attorney General,,REP,Todd Rokita,338,57,432,827
+Noble,Green 10,Attorney General,,DEM,Jonathan Weinzapfel,57,46,119,222
+Noble,Green 10,U.S. House,3,REP,Jim Banks,362,55,453,870
+Noble,Green 10,U.S. House,3,DEM,Chip Coldiron,44,46,114,204
+Noble,Green 10,U.S. House,3,,Write-In,0,0,0,0
+Noble,Green 10,State Senate,13,REP,C Susan Glick,366,57,465,888
+Noble,Green 10,State Representative,82,REP,David H Abbott,364,59,455,878
+Noble,Jefferson 11,Registered Voters,,,,,,,1184
+Noble,Jefferson 11,Ballots Cast,,,,274,77,491,842
+Noble,Jefferson 11,President,,REP,Donald J Trump,239,35,372,646
+Noble,Jefferson 11,President,,DEM,Joseph R Biden,27,38,109,174
+Noble,Jefferson 11,President,,LIB,Jo Jorgensen,5,0,2,7
+Noble,Jefferson 11,President,,,Write-In,0,0,0,0
+Noble,Jefferson 11,Governor,,REP,Eric Holcomb,173,46,339,558
+Noble,Jefferson 11,Governor,,DEM,Woodrow (Woody) Myers,15,23,73,111
+Noble,Jefferson 11,Governor,,LIB,Donald G Rainwater II,82,4,70,156
+Noble,Jefferson 11,Attorney General,,REP,Todd Rokita,230,39,351,620
+Noble,Jefferson 11,Attorney General,,DEM,Jonathan Weinzapfel,29,33,109,171
+Noble,Jefferson 11,U.S. House,3,REP,Jim Banks,235,44,367,646
+Noble,Jefferson 11,U.S. House,3,DEM,Chip Coldiron,29,28,107,164
+Noble,Jefferson 11,U.S. House,3,,Write-In,0,0,0,0
+Noble,Jefferson 11,State Senate,13,REP,C Susan Glick,238,53,392,683
+Noble,Jefferson 11,State Representative,82,REP,David H Abbott,242,56,392,690
+Noble,Orange 12,Registered Voters,,,,,,,922
+Noble,Orange 12,Ballots Cast,,,,258,71,244,573
+Noble,Orange 12,President,,REP,Donald J Trump,220,26,187,433
+Noble,Orange 12,President,,DEM,Joseph R Biden,32,44,48,124
+Noble,Orange 12,President,,LIB,Jo Jorgensen,2,1,4,7
+Noble,Orange 12,President,,,Write-In,1,0,0,1
+Noble,Orange 12,Governor,,REP,Eric Holcomb,175,37,174,386
+Noble,Orange 12,Governor,,DEM,Woodrow (Woody) Myers,30,30,31,91
+Noble,Orange 12,Governor,,LIB,Donald G Rainwater II,49,4,34,87
+Noble,Orange 12,Attorney General,,REP,Todd Rokita,198,27,184,409
+Noble,Orange 12,Attorney General,,DEM,Jonathan Weinzapfel,47,44,50,141
+Noble,Orange 12,U.S. House,3,REP,Jim Banks,217,29,195,441
+Noble,Orange 12,U.S. House,3,DEM,Chip Coldiron,33,41,41,115
+Noble,Orange 12,U.S. House,3,,Write-In,0,0,0,0
+Noble,Orange 12,State Senate,13,REP,C Susan Glick,221,46,206,473
+Noble,Orange 12,State Representative,82,REP,David H Abbott,228,43,204,475
+Noble,Orange 13,Registered Voters,,,,,,,1261
+Noble,Orange 13,Ballots Cast,,,,321,144,463,928
+Noble,Orange 13,President,,REP,Donald J Trump,261,61,357,679
+Noble,Orange 13,President,,DEM,Joseph R Biden,51,83,93,227
+Noble,Orange 13,President,,LIB,Jo Jorgensen,7,0,6,13
+Noble,Orange 13,President,,,Write-In,1,0,0,1
+Noble,Orange 13,Governor,,REP,Eric Holcomb,218,82,354,654
+Noble,Orange 13,Governor,,DEM,Woodrow (Woody) Myers,31,50,61,142
+Noble,Orange 13,Governor,,LIB,Donald G Rainwater II,67,8,44,119
+Noble,Orange 13,Attorney General,,REP,Todd Rokita,245,64,360,669
+Noble,Orange 13,Attorney General,,DEM,Jonathan Weinzapfel,66,69,86,221
+Noble,Orange 13,U.S. House,3,REP,Jim Banks,262,65,371,698
+Noble,Orange 13,U.S. House,3,DEM,Chip Coldiron,53,72,80,205
+Noble,Orange 13,U.S. House,3,,Write-In,0,0,0,0
+Noble,Orange 13,State Senate,13,REP,C Susan Glick,277,87,386,750
+Noble,Orange 13,State Representative,82,REP,David H Abbott,281,87,402,770
+Noble,Orange 14,Registered Voters,,,,,,,476
+Noble,Orange 14,Ballots Cast,,,,166,30,80,276
+Noble,Orange 14,President,,REP,Donald J Trump,139,12,59,210
+Noble,Orange 14,President,,DEM,Joseph R Biden,21,17,17,55
+Noble,Orange 14,President,,LIB,Jo Jorgensen,4,1,1,6
+Noble,Orange 14,President,,,Write-In,0,0,0,0
+Noble,Orange 14,Governor,,REP,Eric Holcomb,106,15,47,168
+Noble,Orange 14,Governor,,DEM,Woodrow (Woody) Myers,17,14,15,46
+Noble,Orange 14,Governor,,LIB,Donald G Rainwater II,41,0,15,56
+Noble,Orange 14,Attorney General,,REP,Todd Rokita,120,14,52,186
+Noble,Orange 14,Attorney General,,DEM,Jonathan Weinzapfel,41,13,20,74
+Noble,Orange 14,U.S. House,3,REP,Jim Banks,134,12,60,206
+Noble,Orange 14,U.S. House,3,DEM,Chip Coldiron,28,16,16,60
+Noble,Orange 14,U.S. House,3,,Write-In,0,0,0,0
+Noble,Orange 14,State Senate,13,REP,C Susan Glick,150,17,63,230
+Noble,Orange 14,State Representative,82,REP,David H Abbott,145,17,64,226
+Noble,Wayne 15,Registered Voters,,,,,,,822
+Noble,Wayne 15,Ballots Cast,,,,216,82,282,580
+Noble,Wayne 15,President,,REP,Donald J Trump,189,33,233,455
+Noble,Wayne 15,President,,DEM,Joseph R Biden,20,47,43,110
+Noble,Wayne 15,President,,LIB,Jo Jorgensen,6,0,4,10
+Noble,Wayne 15,President,,,Write-In,0,2,0,2
+Noble,Wayne 15,Governor,,REP,Eric Holcomb,156,52,211,419
+Noble,Wayne 15,Governor,,DEM,Woodrow (Woody) Myers,12,29,28,69
+Noble,Wayne 15,Governor,,LIB,Donald G Rainwater II,47,1,39,87
+Noble,Wayne 15,Attorney General,,REP,Todd Rokita,181,37,232,450
+Noble,Wayne 15,Attorney General,,DEM,Jonathan Weinzapfel,26,42,44,112
+Noble,Wayne 15,U.S. House,3,REP,Jim Banks,186,37,239,462
+Noble,Wayne 15,U.S. House,3,DEM,Chip Coldiron,19,41,41,101
+Noble,Wayne 15,U.S. House,3,,Write-In,1,0,0,1
+Noble,Wayne 15,State Senate,13,REP,C Susan Glick,183,50,250,483
+Noble,Wayne 15,State Representative,82,REP,David H Abbott,190,53,250,493
+Noble,Wayne 16,Registered Voters,,,,,,,1919
+Noble,Wayne 16,Ballots Cast,,,,353,238,699,1290
+Noble,Wayne 16,President,,REP,Donald J Trump,249,105,520,874
+Noble,Wayne 16,President,,DEM,Joseph R Biden,91,128,164,383
+Noble,Wayne 16,President,,LIB,Jo Jorgensen,10,2,8,20
+Noble,Wayne 16,President,,,Write-In,1,0,0,1
+Noble,Wayne 16,Governor,,REP,Eric Holcomb,220,151,506,877
+Noble,Wayne 16,Governor,,DEM,Woodrow (Woody) Myers,58,77,105,240
+Noble,Wayne 16,Governor,,LIB,Donald G Rainwater II,69,5,82,156
+Noble,Wayne 16,Attorney General,,REP,Todd Rokita,242,122,511,875
+Noble,Wayne 16,Attorney General,,DEM,Jonathan Weinzapfel,89,107,156,352
+Noble,Wayne 16,U.S. House,3,REP,Jim Banks,266,129,540,935
+Noble,Wayne 16,U.S. House,3,DEM,Chip Coldiron,78,101,147,326
+Noble,Wayne 16,U.S. House,3,,Write-In,0,0,0,0
+Noble,Wayne 16,State Senate,13,REP,C Susan Glick,288,161,565,1014
+Noble,Wayne 16,State Representative,82,REP,David H Abbott,286,154,581,1021
+Noble,Wayne 17,Registered Voters,,,,,,,826
+Noble,Wayne 17,Ballots Cast,,,,180,91,219,490
+Noble,Wayne 17,President,,REP,Donald J Trump,139,39,151,329
+Noble,Wayne 17,President,,DEM,Joseph R Biden,37,42,63,142
+Noble,Wayne 17,President,,LIB,Jo Jorgensen,3,2,3,8
+Noble,Wayne 17,President,,,Write-In,0,0,0,0
+Noble,Wayne 17,Governor,,REP,Eric Holcomb,107,55,150,312
+Noble,Wayne 17,Governor,,DEM,Woodrow (Woody) Myers,25,30,43,98
+Noble,Wayne 17,Governor,,LIB,Donald G Rainwater II,43,4,23,70
+Noble,Wayne 17,Attorney General,,REP,Todd Rokita,124,49,150,323
+Noble,Wayne 17,Attorney General,,DEM,Jonathan Weinzapfel,39,36,57,132
+Noble,Wayne 17,U.S. House,3,REP,Jim Banks,132,48,157,337
+Noble,Wayne 17,U.S. House,3,DEM,Chip Coldiron,39,38,53,130
+Noble,Wayne 17,U.S. House,3,,Write-In,0,0,0,0
+Noble,Wayne 17,State Senate,13,REP,C Susan Glick,144,59,171,374
+Noble,Wayne 17,State Representative,82,REP,David H Abbott,142,57,176,375
+Noble,Wayne 18,Registered Voters,,,,,,,1367
+Noble,Wayne 18,Ballots Cast,,,,279,157,421,857
+Noble,Wayne 18,President,,REP,Donald J Trump,201,69,286,556
+Noble,Wayne 18,President,,DEM,Joseph R Biden,61,83,122,266
+Noble,Wayne 18,President,,LIB,Jo Jorgensen,13,3,6,22
+Noble,Wayne 18,President,,,Write-In,2,0,0,2
+Noble,Wayne 18,Governor,,REP,Eric Holcomb,161,104,284,549
+Noble,Wayne 18,Governor,,DEM,Woodrow (Woody) Myers,43,41,75,159
+Noble,Wayne 18,Governor,,LIB,Donald G Rainwater II,68,5,55,128
+Noble,Wayne 18,Attorney General,,REP,Todd Rokita,187,83,292,562
+Noble,Wayne 18,Attorney General,,DEM,Jonathan Weinzapfel,68,65,111,244
+Noble,Wayne 18,U.S. House,3,REP,Jim Banks,203,84,302,589
+Noble,Wayne 18,U.S. House,3,DEM,Chip Coldiron,58,65,109,232
+Noble,Wayne 18,U.S. House,3,,Write-In,0,0,0,0
+Noble,Wayne 18,State Senate,13,REP,C Susan Glick,221,101,329,651
+Noble,Wayne 18,State Representative,82,REP,David H Abbott,212,102,327,641
+Noble,Wayne 19,Registered Voters,,,,,,,712
+Noble,Wayne 19,Ballots Cast,,,,168,47,218,433
+Noble,Wayne 19,President,,REP,Donald J Trump,129,18,154,301
+Noble,Wayne 19,President,,DEM,Joseph R Biden,29,25,61,115
+Noble,Wayne 19,President,,LIB,Jo Jorgensen,9,1,1,11
+Noble,Wayne 19,President,,,Write-In,0,0,0,0
+Noble,Wayne 19,Governor,,REP,Eric Holcomb,95,26,136,257
+Noble,Wayne 19,Governor,,DEM,Woodrow (Woody) Myers,16,17,41,74
+Noble,Wayne 19,Governor,,LIB,Donald G Rainwater II,56,1,39,96
+Noble,Wayne 19,Attorney General,,REP,Todd Rokita,128,23,150,301
+Noble,Wayne 19,Attorney General,,DEM,Jonathan Weinzapfel,32,22,60,114
+Noble,Wayne 19,U.S. House,3,REP,Jim Banks,135,19,160,314
+Noble,Wayne 19,U.S. House,3,DEM,Chip Coldiron,26,22,53,101
+Noble,Wayne 19,U.S. House,3,,Write-In,0,0,0,0
+Noble,Wayne 19,State Senate,13,REP,C Susan Glick,135,28,171,334
+Noble,Wayne 19,State Representative,82,REP,David H Abbott,142,28,174,344
+Noble,Wayne 20,Registered Voters,,,,,,,534
+Noble,Wayne 20,Ballots Cast,,,,121,31,119,271
+Noble,Wayne 20,President,,REP,Donald J Trump,91,8,82,181
+Noble,Wayne 20,President,,DEM,Joseph R Biden,22,22,35,79
+Noble,Wayne 20,President,,LIB,Jo Jorgensen,8,1,2,11
+Noble,Wayne 20,President,,,Write-In,0,0,0,0
+Noble,Wayne 20,Governor,,REP,Eric Holcomb,64,14,66,144
+Noble,Wayne 20,Governor,,DEM,Woodrow (Woody) Myers,14,15,28,57
+Noble,Wayne 20,Governor,,LIB,Donald G Rainwater II,41,1,22,64
+Noble,Wayne 20,Attorney General,,REP,Todd Rokita,84,10,78,172
+Noble,Wayne 20,Attorney General,,DEM,Jonathan Weinzapfel,27,19,33,79
+Noble,Wayne 20,U.S. House,3,REP,Jim Banks,91,10,81,182
+Noble,Wayne 20,U.S. House,3,DEM,Chip Coldiron,23,18,34,75
+Noble,Wayne 20,U.S. House,3,,Write-In,0,0,0,0
+Noble,Wayne 20,State Senate,13,REP,C Susan Glick,102,13,86,201
+Noble,Wayne 20,State Representative,82,REP,David H Abbott,102,13,84,199
+Noble,Wayne 21,Registered Voters,,,,,,,844
+Noble,Wayne 21,Ballots Cast,,,,200,69,240,509
+Noble,Wayne 21,President,,REP,Donald J Trump,148,21,162,331
+Noble,Wayne 21,President,,DEM,Joseph R Biden,46,44,67,157
+Noble,Wayne 21,President,,LIB,Jo Jorgensen,6,3,8,17
+Noble,Wayne 21,President,,,Write-In,0,0,1,1
+Noble,Wayne 21,Governor,,REP,Eric Holcomb,117,38,134,289
+Noble,Wayne 21,Governor,,DEM,Woodrow (Woody) Myers,25,30,52,107
+Noble,Wayne 21,Governor,,LIB,Donald G Rainwater II,57,1,54,112
+Noble,Wayne 21,Attorney General,,REP,Todd Rokita,135,30,161,326
+Noble,Wayne 21,Attorney General,,DEM,Jonathan Weinzapfel,52,39,72,163
+Noble,Wayne 21,U.S. House,3,REP,Jim Banks,152,26,171,349
+Noble,Wayne 21,U.S. House,3,DEM,Chip Coldiron,44,42,66,152
+Noble,Wayne 21,U.S. House,3,,Write-In,0,0,0,0
+Noble,Wayne 21,State Senate,13,REP,C Susan Glick,159,34,185,378
+Noble,Wayne 21,State Representative,82,REP,David H Abbott,165,36,182,383
+Noble,Wayne 22,Registered Voters,,,,,,,151
+Noble,Wayne 22,Ballots Cast,,,,28,13,55,96
+Noble,Wayne 22,President,,REP,Donald J Trump,19,6,32,57
+Noble,Wayne 22,President,,DEM,Joseph R Biden,8,6,20,34
+Noble,Wayne 22,President,,LIB,Jo Jorgensen,1,0,0,1
+Noble,Wayne 22,President,,,Write-In,0,0,2,2
+Noble,Wayne 22,Governor,,REP,Eric Holcomb,13,9,32,54
+Noble,Wayne 22,Governor,,DEM,Woodrow (Woody) Myers,7,2,11,20
+Noble,Wayne 22,Governor,,LIB,Donald G Rainwater II,8,2,11,21
+Noble,Wayne 22,Attorney General,,REP,Todd Rokita,19,8,32,59
+Noble,Wayne 22,Attorney General,,DEM,Jonathan Weinzapfel,7,5,19,31
+Noble,Wayne 22,U.S. House,3,REP,Jim Banks,18,8,35,61
+Noble,Wayne 22,U.S. House,3,DEM,Chip Coldiron,10,4,20,34
+Noble,Wayne 22,U.S. House,3,,Write-In,0,0,0,0
+Noble,Wayne 22,State Senate,13,REP,C Susan Glick,22,8,39,69
+Noble,Wayne 22,State Representative,82,REP,David H Abbott,23,9,36,68
+Noble,Kendallville-Allen 23,Registered Voters,,,,,,,1268
+Noble,Kendallville-Allen 23,Ballots Cast,,,,275,78,242,595
+Noble,Kendallville-Allen 23,President,,REP,Donald J Trump,193,26,172,391
+Noble,Kendallville-Allen 23,President,,DEM,Joseph R Biden,71,51,62,184
+Noble,Kendallville-Allen 23,President,,LIB,Jo Jorgensen,11,1,6,18
+Noble,Kendallville-Allen 23,President,,,Write-In,0,0,1,1
+Noble,Kendallville-Allen 23,Governor,,REP,Eric Holcomb,136,36,142,314
+Noble,Kendallville-Allen 23,Governor,,DEM,Woodrow (Woody) Myers,49,36,48,133
+Noble,Kendallville-Allen 23,Governor,,LIB,Donald G Rainwater II,85,3,48,136
+Noble,Kendallville-Allen 23,Attorney General,,REP,Todd Rokita,166,28,155,349
+Noble,Kendallville-Allen 23,Attorney General,,DEM,Jonathan Weinzapfel,90,46,76,212
+Noble,Kendallville-Allen 23,U.S. House,3,REP,Jim Banks,195,32,169,396
+Noble,Kendallville-Allen 23,U.S. House,3,DEM,Chip Coldiron,71,42,68,181
+Noble,Kendallville-Allen 23,U.S. House,3,,Write-In,0,0,0,0
+Noble,Kendallville-Allen 23,State Senate,13,REP,C Susan Glick,210,45,187,442
+Noble,Kendallville-Allen 23,State Representative,82,REP,David H Abbott,212,44,184,440
+Noble,Kendallville-Allen 24,Registered Voters,,,,,,,1046
+Noble,Kendallville-Allen 24,Ballots Cast,,,,270,82,357,719
+Noble,Kendallville-Allen 24,President,,REP,Donald J Trump,228,45,290,563
+Noble,Kendallville-Allen 24,President,,DEM,Joseph R Biden,36,46,63,145
+Noble,Kendallville-Allen 24,President,,LIB,Jo Jorgensen,4,1,0,5
+Noble,Kendallville-Allen 24,President,,,Write-In,0,0,0,0
+Noble,Kendallville-Allen 24,Governor,,REP,Eric Holcomb,179,50,260,489
+Noble,Kendallville-Allen 24,Governor,,DEM,Woodrow (Woody) Myers,19,35,40,94
+Noble,Kendallville-Allen 24,Governor,,LIB,Donald G Rainwater II,63,2,51,116
+Noble,Kendallville-Allen 24,Attorney General,,REP,Todd Rokita,209,51,275,535
+Noble,Kendallville-Allen 24,Attorney General,,DEM,Jonathan Weinzapfel,45,37,66,148
+Noble,Kendallville-Allen 24,U.S. House,3,REP,Jim Banks,221,48,288,557
+Noble,Kendallville-Allen 24,U.S. House,3,DEM,Chip Coldiron,41,39,60,140
+Noble,Kendallville-Allen 24,U.S. House,3,,Write-In,0,0,0,0
+Noble,Kendallville-Allen 24,State Senate,13,REP,C Susan Glick,231,53,302,586
+Noble,Kendallville-Allen 24,State Representative,82,REP,David H Abbott,232,53,300,585
+Noble,Allen 25,Registered Voters,,,,,,,1150
+Noble,Allen 25,Ballots Cast,,,,381,92,362,835
+Noble,Allen 25,President,,REP,Donald J Trump,314,47,274,635
+Noble,Allen 25,President,,DEM,Joseph R Biden,55,41,77,173
+Noble,Allen 25,President,,LIB,Jo Jorgensen,8,3,6,17
+Noble,Allen 25,President,,,Write-In,1,0,1,2
+Noble,Allen 25,Governor,,REP,Eric Holcomb,247,60,240,547
+Noble,Allen 25,Governor,,DEM,Woodrow (Woody) Myers,32,28,56,116
+Noble,Allen 25,Governor,,LIB,Donald G Rainwater II,97,2,62,161
+Noble,Allen 25,Attorney General,,REP,Todd Rokita,293,47,267,607
+Noble,Allen 25,Attorney General,,DEM,Jonathan Weinzapfel,65,40,77,182
+Noble,Allen 25,U.S. House,3,REP,Jim Banks,323,54,278,655
+Noble,Allen 25,U.S. House,3,DEM,Chip Coldiron,49,36,77,162
+Noble,Allen 25,U.S. House,3,,Write-In,0,0,0,0
+Noble,Allen 25,State Senate,13,REP,C Susan Glick,327,60,293,680
+Noble,Allen 25,State Representative,82,REP,David H Abbott,329,54,290,673
+Noble,Allen 26,Registered Voters,,,,,,,1156
+Noble,Allen 26,Ballots Cast,,,,374,83,271,728
+Noble,Allen 26,President,,REP,Donald J Trump,296,33,205,534
+Noble,Allen 26,President,,DEM,Joseph R Biden,68,46,57,171
+Noble,Allen 26,President,,LIB,Jo Jorgensen,8,3,5,16
+Noble,Allen 26,President,,,Write-In,0,0,1,1
+Noble,Allen 26,Governor,,REP,Eric Holcomb,224,49,176,449
+Noble,Allen 26,Governor,,DEM,Woodrow (Woody) Myers,50,30,45,125
+Noble,Allen 26,Governor,,LIB,Donald G Rainwater II,95,2,49,146
+Noble,Allen 26,Attorney General,,REP,Todd Rokita,266,41,196,503
+Noble,Allen 26,Attorney General,,DEM,Jonathan Weinzapfel,85,37,67,189
+Noble,Allen 26,U.S. House,3,REP,Jim Banks,297,39,205,541
+Noble,Allen 26,U.S. House,3,DEM,Chip Coldiron,62,38,62,162
+Noble,Allen 26,U.S. House,3,,Write-In,2,1,0,3
+Noble,Allen 26,State Senate,13,REP,C Susan Glick,319,54,228,601
+Noble,Allen 26,State Representative,82,REP,David H Abbott,311,47,227,585
+Noble,Swan 27,Registered Voters,,,,,,,1747
+Noble,Swan 27,Ballots Cast,,,,571,185,622,1378
+Noble,Swan 27,President,,REP,Donald J Trump,486,84,475,1045
+Noble,Swan 27,President,,DEM,Joseph R Biden,73,96,136,305
+Noble,Swan 27,President,,LIB,Jo Jorgensen,9,3,5,17
+Noble,Swan 27,President,,,Write-In,0,0,0,0
+Noble,Swan 27,Governor,,REP,Eric Holcomb,388,99,437,924
+Noble,Swan 27,Governor,,DEM,Woodrow (Woody) Myers,47,73,97,217
+Noble,Swan 27,Governor,,LIB,Donald G Rainwater II,130,5,82,217
+Noble,Swan 27,Attorney General,,REP,Todd Rokita,440,88,468,996
+Noble,Swan 27,Attorney General,,DEM,Jonathan Weinzapfel,101,87,141,329
+Noble,Swan 27,U.S. House,3,REP,Jim Banks,485,92,472,1049
+Noble,Swan 27,U.S. House,3,DEM,Chip Coldiron,75,84,138,297
+Noble,Swan 27,U.S. House,3,,Write-In,0,0,0,0
+Noble,Swan 27,State Senate,13,REP,C Susan Glick,502,109,493,1104
+Noble,Swan 27,State Representative,82,REP,David H Abbott,493,109,501,1103
+Noble,Albion 28,Registered Voters,,,,,,,1413
+Noble,Albion 28,Ballots Cast,,,,308,106,464,878
+Noble,Albion 28,President,,REP,Donald J Trump,250,53,353,656
+Noble,Albion 28,President,,DEM,Joseph R Biden,49,47,100,196
+Noble,Albion 28,President,,LIB,Jo Jorgensen,9,1,4,14
+Noble,Albion 28,President,,,Write-In,0,1,1,2
+Noble,Albion 28,Governor,,REP,Eric Holcomb,167,69,296,532
+Noble,Albion 28,Governor,,DEM,Woodrow (Woody) Myers,33,26,67,126
+Noble,Albion 28,Governor,,LIB,Donald G Rainwater II,102,1,88,191
+Noble,Albion 28,Attorney General,,REP,Todd Rokita,228,59,336,623
+Noble,Albion 28,Attorney General,,DEM,Jonathan Weinzapfel,63,36,95,194
+Noble,Albion 28,U.S. House,3,REP,Jim Banks,257,62,356,675
+Noble,Albion 28,U.S. House,3,DEM,Chip Coldiron,44,34,95,173
+Noble,Albion 28,U.S. House,3,,Write-In,0,0,0,0
+Noble,Albion 28,State Senate,13,REP,C Susan Glick,263,70,375,708
+Noble,Albion 28,State Representative,82,REP,David H Abbott,264,67,374,705
+Noble,Noble 29,Registered Voters,,,,,,,931
+Noble,Noble 29,Ballots Cast,,,,255,63,347,665
+Noble,Noble 29,President,,REP,Donald J Trump,213,26,245,484
+Noble,Noble 29,President,,DEM,Joseph R Biden,32,36,92,160
+Noble,Noble 29,President,,LIB,Jo Jorgensen,8,1,6,15
+Noble,Noble 29,President,,,Write-In,0,0,0,0
+Noble,Noble 29,Governor,,REP,Eric Holcomb,161,32,227,420
+Noble,Noble 29,Governor,,DEM,Woodrow (Woody) Myers,20,27,70,117
+Noble,Noble 29,Governor,,LIB,Donald G Rainwater II,71,2,50,123
+Noble,Noble 29,Attorney General,,REP,Todd Rokita,196,25,244,465
+Noble,Noble 29,Attorney General,,DEM,Jonathan Weinzapfel,45,35,95,175
+Noble,Noble 29,U.S. House,3,REP,Jim Banks,210,26,254,490
+Noble,Noble 29,U.S. House,3,DEM,Chip Coldiron,38,34,88,160
+Noble,Noble 29,U.S. House,3,,Write-In,0,0,0,0
+Noble,Noble 29,State Senate,13,REP,C Susan Glick,220,31,284,535
+Noble,Noble 29,State Representative,82,REP,David H Abbott,218,31,276,525
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,

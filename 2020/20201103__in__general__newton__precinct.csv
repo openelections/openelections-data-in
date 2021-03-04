@@ -1,0 +1,667 @@
+﻿county,precinct,office,district,party,candidate,election_day,early_voting,post_election,absentee,votes
+Newton,Beaver 1,Registered Voters,,,,,,,,503
+Newton,Beaver 1,Ballots Cast ,,,,210,60,0,35,305
+Newton,Beaver 1,Straight Party,,REP,,67,28,0,12,107
+Newton,Beaver 1,Straight Party,,DEM,,15,10,0,4,29
+Newton,Beaver 1,Straight Party,,LIB,,2,0,0,0,2
+Newton,Beaver 1,Straight Party,,,Over votes,0,0,0,0,0
+Newton,Beaver 1,Straight Party,,,Under votes,126,22,0,19,167
+Newton,Beaver 1,President ,,REP,Donald J Trump,168,35,0,18,221
+Newton,Beaver 1,President ,,DEM,Joseph R Biden,36,24,0,14,74
+Newton,Beaver 1,President ,,LIB,Jo Jorgensen,5,0,0,2,7
+Newton,Beaver 1,President ,,,Write-In votes,0,0,0,1,1
+Newton,Beaver 1,President ,,,Over votes,0,0,0,0,0
+Newton,Beaver 1,President ,,,Under votes,1,1,0,0,2
+Newton,Beaver 1,Governor,,REP,Eric Holcomb,145,39,0,19,203
+Newton,Beaver 1,Governor,,DEM,Woodrow (Woody) Myers,26,13,0,11,50
+Newton,Beaver 1,Governor,,LIB,Donald G Rainwater II,38,6,0,5,49
+Newton,Beaver 1,Governor,,,Over votes,0,0,0,0,0
+Newton,Beaver 1,Governor,,,Under votes,0,2,0,0,2
+Newton,Beaver 1,Attorney General,,REP,Todd Rokita,167,35,0,24,226
+Newton,Beaver 1,Attorney General,,DEM,Jonathan Weinzapfel ,38,21,0,10,69
+Newton,Beaver 1,Attorney General,,,Over votes,0,0,0,0,0
+Newton,Beaver 1,Attorney General,,,Under votes,4,4,0,1,9
+Newton,Beaver 1,U.S. House,4,REP,Jim Baird,170,36,0,21,227
+Newton,Beaver 1,U.S. House,4,DEM,Joe Mackey,35,20,0,13,68
+Newton,Beaver 1,U.S. House,4,,Write-In votes,0,0,0,0,0
+Newton,Beaver 1,U.S. House,4,,Over votes,0,0,0,0,0
+Newton,Beaver 1,U.S. House,4,,Under votes,4,4,0,1,9
+Newton,Beaver 1,State Representative,13,REP,Sharon Negele,,,,,
+Newton,Beaver 1,State Representative,13,DEM,Loretta Barnes,,,,,
+Newton,Beaver 1,State Representative,13,,Over votes,,,,,
+Newton,Beaver 1,State Representative,13,,Under votes,,,,,
+Newton,Beaver 1,State Representative,16,REP,Douglas L Gutwein,173,38,0,23,234
+Newton,Beaver 1,State Representative,16,DEM,Michael A Lovely,33,19,0,11,63
+Newton,Beaver 1,State Representative,16,,Over votes,0,0,0,0,0
+Newton,Beaver 1,State Representative,16,,Under votes,3,3,0,1,7
+Newton,Beaver 2,Registered Voters,,,,,,,,626
+Newton,Beaver 2,Ballots Cast ,,,,292,90,0,56,438
+Newton,Beaver 2,Straight Party,,REP,,103,29,0,8,140
+Newton,Beaver 2,Straight Party,,DEM,,11,8,0,13,32
+Newton,Beaver 2,Straight Party,,LIB,,2,1,0,0,3
+Newton,Beaver 2,Straight Party,,,Over votes,0,0,0,0,0
+Newton,Beaver 2,Straight Party,,,Under votes,176,52,0,35,263
+Newton,Beaver 2,President ,,REP,Donald J Trump,250,65,0,20,335
+Newton,Beaver 2,President ,,DEM,Joseph R Biden,38,23,0,31,92
+Newton,Beaver 2,President ,,LIB,Jo Jorgensen,4,1,0,2,7
+Newton,Beaver 2,President ,,,Write-In votes,0,0,0,0,0
+Newton,Beaver 2,President ,,,Over votes,0,0,0,0,0
+Newton,Beaver 2,President ,,,Under votes,0,1,0,3,4
+Newton,Beaver 2,Governor,,REP,Eric Holcomb,209,62,0,25,296
+Newton,Beaver 2,Governor,,DEM,Woodrow (Woody) Myers,25,15,0,26,66
+Newton,Beaver 2,Governor,,LIB,Donald G Rainwater II,54,12,0,3,69
+Newton,Beaver 2,Governor,,,Over votes,0,0,0,0,0
+Newton,Beaver 2,Governor,,,Under votes,4,1,0,2,7
+Newton,Beaver 2,Attorney General,,REP,Todd Rokita,243,69,0,28,340
+Newton,Beaver 2,Attorney General,,DEM,Jonathan Weinzapfel ,39,18,0,27,84
+Newton,Beaver 2,Attorney General,,,Over votes,0,0,0,0,0
+Newton,Beaver 2,Attorney General,,,Under votes,10,3,0,1,14
+Newton,Beaver 2,U.S. House,4,REP,Jim Baird,245,66,0,25,336
+Newton,Beaver 2,U.S. House,4,DEM,Joe Mackey,40,20,0,31,91
+Newton,Beaver 2,U.S. House,4,,Write-In votes,0,0,0,0,0
+Newton,Beaver 2,U.S. House,4,,Over votes,0,0,0,0,0
+Newton,Beaver 2,U.S. House,4,,Under votes,7,4,0,0,11
+Newton,Beaver 2,State Representative,13,REP,Sharon Negele,,,,,
+Newton,Beaver 2,State Representative,13,DEM,Loretta Barnes,,,,,
+Newton,Beaver 2,State Representative,13,,Over votes,,,,,
+Newton,Beaver 2,State Representative,13,,Under votes,,,,,
+Newton,Beaver 2,State Representative,16,REP,Douglas L Gutwein,245,71,0,25,341
+Newton,Beaver 2,State Representative,16,DEM,Michael A Lovely,41,14,0,29,84
+Newton,Beaver 2,State Representative,16,,Over votes,0,0,0,0,0
+Newton,Beaver 2,State Representative,16,,Under votes,6,5,0,2,13
+Newton,Colfax,Registered Voters,,,,,,,,120
+Newton,Colfax,Ballots Cast ,,,,68,4,0,3,75
+Newton,Colfax,Straight Party,,REP,,22,2,0,1,25
+Newton,Colfax,Straight Party,,DEM,,4,1,0,0,5
+Newton,Colfax,Straight Party,,LIB,,0,0,0,0,0
+Newton,Colfax,Straight Party,,,Over votes,0,0,0,0,0
+Newton,Colfax,Straight Party,,,Under votes,42,1,0,2,45
+Newton,Colfax,President ,,REP,Donald J Trump,54,3,0,2,59
+Newton,Colfax,President ,,DEM,Joseph R Biden,11,1,0,1,13
+Newton,Colfax,President ,,LIB,Jo Jorgensen,2,0,0,0,2
+Newton,Colfax,President ,,,Write-In votes,0,0,0,0,0
+Newton,Colfax,President ,,,Over votes,0,0,0,0,0
+Newton,Colfax,President ,,,Under votes,1,0,0,0,1
+Newton,Colfax,Governor,,REP,Eric Holcomb,46,2,0,2,50
+Newton,Colfax,Governor,,DEM,Woodrow (Woody) Myers,10,2,0,0,12
+Newton,Colfax,Governor,,LIB,Donald G Rainwater II,11,0,0,1,12
+Newton,Colfax,Governor,,,Over votes,0,0,0,0,0
+Newton,Colfax,Governor,,,Under votes,1,0,0,0,1
+Newton,Colfax,Attorney General,,REP,Todd Rokita,52,3,0,3,58
+Newton,Colfax,Attorney General,,DEM,Jonathan Weinzapfel ,13,1,0,0,14
+Newton,Colfax,Attorney General,,,Over votes,0,0,0,0,0
+Newton,Colfax,Attorney General,,,Under votes,3,0,0,0,3
+Newton,Colfax,U.S. House,4,REP,Jim Baird,53,3,0,3,59
+Newton,Colfax,U.S. House,4,DEM,Joe Mackey,12,1,0,0,13
+Newton,Colfax,U.S. House,4,,Write-In votes,0,0,0,0,0
+Newton,Colfax,U.S. House,4,,Over votes,0,0,0,0,0
+Newton,Colfax,U.S. House,4,,Under votes,3,0,0,0,3
+Newton,Colfax,State Representative,13,REP,Sharon Negele,,,,,
+Newton,Colfax,State Representative,13,DEM,Loretta Barnes,,,,,
+Newton,Colfax,State Representative,13,,Over votes,,,,,
+Newton,Colfax,State Representative,13,,Under votes,,,,,
+Newton,Colfax,State Representative,16,REP,Douglas L Gutwein,55,3,0,3,61
+Newton,Colfax,State Representative,16,DEM,Michael A Lovely,10,1,0,0,11
+Newton,Colfax,State Representative,16,,Over votes,0,0,0,0,0
+Newton,Colfax,State Representative,16,,Under votes,3,0,0,0,3
+Newton,Grant 1,Registered Voters,,,,,,,,453
+Newton,Grant 1,Ballots Cast ,,,,234,38,0,19,291
+Newton,Grant 1,Straight Party,,REP,,87,15,0,5,107
+Newton,Grant 1,Straight Party,,DEM,,10,10,0,2,22
+Newton,Grant 1,Straight Party,,LIB,,2,0,0,0,2
+Newton,Grant 1,Straight Party,,,Over votes,0,0,0,0,0
+Newton,Grant 1,Straight Party,,,Under votes,135,13,0,12,160
+Newton,Grant 1,President ,,REP,Donald J Trump,189,24,0,11,224
+Newton,Grant 1,President ,,DEM,Joseph R Biden,34,14,0,7,55
+Newton,Grant 1,President ,,LIB,Jo Jorgensen,6,0,0,0,6
+Newton,Grant 1,President ,,,Write-In votes,3,0,0,0,3
+Newton,Grant 1,President ,,,Over votes,0,0,0,0,0
+Newton,Grant 1,President ,,,Under votes,2,0,0,1,3
+Newton,Grant 1,Governor,,REP,Eric Holcomb,170,20,0,11,201
+Newton,Grant 1,Governor,,DEM,Woodrow (Woody) Myers,21,12,0,5,38
+Newton,Grant 1,Governor,,LIB,Donald G Rainwater II,40,3,0,3,46
+Newton,Grant 1,Governor,,,Over votes,0,0,0,0,0
+Newton,Grant 1,Governor,,,Under votes,3,3,0,0,6
+Newton,Grant 1,Attorney General,,REP,Todd Rokita,189,23,0,14,226
+Newton,Grant 1,Attorney General,,DEM,Jonathan Weinzapfel ,40,14,0,5,59
+Newton,Grant 1,Attorney General,,,Over votes,0,0,0,0,0
+Newton,Grant 1,Attorney General,,,Under votes,5,1,0,0,6
+Newton,Grant 1,U.S. House,4,REP,Jim Baird,194,25,0,14,233
+Newton,Grant 1,U.S. House,4,DEM,Joe Mackey,34,12,0,5,51
+Newton,Grant 1,U.S. House,4,,Write-In votes,0,0,0,0,0
+Newton,Grant 1,U.S. House,4,,Over votes,0,0,0,0,0
+Newton,Grant 1,U.S. House,4,,Under votes,6,1,0,0,7
+Newton,Grant 1,State Representative,13,REP,Sharon Negele,197,24,0,14,235
+Newton,Grant 1,State Representative,13,DEM,Loretta Barnes,32,12,0,5,49
+Newton,Grant 1,State Representative,13,,Over votes,0,0,0,0,0
+Newton,Grant 1,State Representative,13,,Under votes,5,2,0,0,7
+Newton,Grant 1,State Representative,16,REP,Douglas L Gutwein,,,,,
+Newton,Grant 1,State Representative,16,DEM,Michael A Lovely,,,,,
+Newton,Grant 1,State Representative,16,,Over votes,,,,,
+Newton,Grant 1,State Representative,16,,Under votes,,,,,
+Newton,Grant 2,Registered Voters,,,,,,,,282
+Newton,Grant 2,Ballots Cast ,,,,124,18,0,23,165
+Newton,Grant 2,Straight Party,,REP,,39,7,0,10,56
+Newton,Grant 2,Straight Party,,DEM,,11,4,0,2,17
+Newton,Grant 2,Straight Party,,LIB,,0,0,0,0,0
+Newton,Grant 2,Straight Party,,,Over votes,0,0,0,0,0
+Newton,Grant 2,Straight Party,,,Under votes,74,7,0,11,92
+Newton,Grant 2,President ,,REP,Donald J Trump,94,11,0,16,121
+Newton,Grant 2,President ,,DEM,Joseph R Biden,27,7,0,7,41
+Newton,Grant 2,President ,,LIB,Jo Jorgensen,3,0,0,0,3
+Newton,Grant 2,President ,,,Write-In votes,0,0,0,0,0
+Newton,Grant 2,President ,,,Over votes,0,0,0,0,0
+Newton,Grant 2,President ,,,Under votes,0,0,0,0,0
+Newton,Grant 2,Governor,,REP,Eric Holcomb,91,11,0,17,119
+Newton,Grant 2,Governor,,DEM,Woodrow (Woody) Myers,14,6,0,4,24
+Newton,Grant 2,Governor,,LIB,Donald G Rainwater II,18,1,0,1,20
+Newton,Grant 2,Governor,,,Over votes,0,0,0,0,0
+Newton,Grant 2,Governor,,,Under votes,1,0,0,1,2
+Newton,Grant 2,Attorney General,,REP,Todd Rokita,94,11,0,16,121
+Newton,Grant 2,Attorney General,,DEM,Jonathan Weinzapfel ,28,7,0,6,41
+Newton,Grant 2,Attorney General,,,Over votes,0,0,0,0,0
+Newton,Grant 2,Attorney General,,,Under votes,2,0,0,1,3
+Newton,Grant 2,U.S. House,4,REP,Jim Baird,94,10,0,15,119
+Newton,Grant 2,U.S. House,4,DEM,Joe Mackey,25,7,0,7,39
+Newton,Grant 2,U.S. House,4,,Write-In votes,0,0,0,0,0
+Newton,Grant 2,U.S. House,4,,Over votes,0,0,0,0,0
+Newton,Grant 2,U.S. House,4,,Under votes,5,1,0,1,7
+Newton,Grant 2,State Representative,13,REP,Sharon Negele,96,10,0,15,121
+Newton,Grant 2,State Representative,13,DEM,Loretta Barnes,25,8,0,6,39
+Newton,Grant 2,State Representative,13,,Over votes,0,0,0,0,0
+Newton,Grant 2,State Representative,13,,Under votes,3,0,0,2,5
+Newton,Grant 2,State Representative,16,REP,Douglas L Gutwein,,,,,
+Newton,Grant 2,State Representative,16,DEM,Michael A Lovely,,,,,
+Newton,Grant 2,State Representative,16,,Over votes,,,,,
+Newton,Grant 2,State Representative,16,,Under votes,,,,,
+Newton,Iroquois 1,Registered Voters,,,,,,,,333
+Newton,Iroquois 1,Ballots Cast ,,,,173,15,0,33,221
+Newton,Iroquois 1,Straight Party,,REP,,65,6,0,9,80
+Newton,Iroquois 1,Straight Party,,DEM,,10,1,0,3,14
+Newton,Iroquois 1,Straight Party,,LIB,,3,2,0,0,5
+Newton,Iroquois 1,Straight Party,,,Over votes,0,0,0,0,0
+Newton,Iroquois 1,Straight Party,,,Under votes,95,6,0,21,122
+Newton,Iroquois 1,President ,,REP,Donald J Trump,144,12,0,17,173
+Newton,Iroquois 1,President ,,DEM,Joseph R Biden,27,2,0,14,43
+Newton,Iroquois 1,President ,,LIB,Jo Jorgensen,2,1,0,1,4
+Newton,Iroquois 1,President ,,,Write-In votes,0,0,0,0,0
+Newton,Iroquois 1,President ,,,Over votes,0,0,0,0,0
+Newton,Iroquois 1,President ,,,Under votes,0,0,0,1,1
+Newton,Iroquois 1,Governor,,REP,Eric Holcomb,115,10,0,21,146
+Newton,Iroquois 1,Governor,,DEM,Woodrow (Woody) Myers,15,2,0,8,25
+Newton,Iroquois 1,Governor,,LIB,Donald G Rainwater II,40,3,0,2,45
+Newton,Iroquois 1,Governor,,,Over votes,0,0,0,0,0
+Newton,Iroquois 1,Governor,,,Under votes,1,0,0,2,3
+Newton,Iroquois 1,Attorney General,,REP,Todd Rokita,145,12,0,19,176
+Newton,Iroquois 1,Attorney General,,DEM,Jonathan Weinzapfel ,23,2,0,12,37
+Newton,Iroquois 1,Attorney General,,,Over votes,0,0,0,0,0
+Newton,Iroquois 1,Attorney General,,,Under votes,3,1,0,2,6
+Newton,Iroquois 1,U.S. House,4,REP,Jim Baird,143,12,0,19,174
+Newton,Iroquois 1,U.S. House,4,DEM,Joe Mackey,26,3,0,11,40
+Newton,Iroquois 1,U.S. House,4,,Write-In votes,0,0,0,0,0
+Newton,Iroquois 1,U.S. House,4,,Over votes,0,0,0,0,0
+Newton,Iroquois 1,U.S. House,4,,Under votes,2,0,0,3,5
+Newton,Iroquois 1,State Representative,13,REP,Sharon Negele,138,12,0,20,170
+Newton,Iroquois 1,State Representative,13,DEM,Loretta Barnes,28,3,0,11,42
+Newton,Iroquois 1,State Representative,13,,Over votes,0,0,0,0,0
+Newton,Iroquois 1,State Representative,13,,Under votes,5,0,0,2,7
+Newton,Iroquois 1,State Representative,16,REP,Douglas L Gutwein,,,,,
+Newton,Iroquois 1,State Representative,16,DEM,Michael A Lovely,,,,,
+Newton,Iroquois 1,State Representative,16,,Over votes,,,,,
+Newton,Iroquois 1,State Representative,16,,Under votes,,,,,
+Newton,Iroquois 2,Registered Voters,,,,,,,,484
+Newton,Iroquois 2,Ballots Cast ,,,,241,45,0,30,316
+Newton,Iroquois 2,Straight Party,,REP,,74,17,0,10,101
+Newton,Iroquois 2,Straight Party,,DEM,,8,6,0,3,17
+Newton,Iroquois 2,Straight Party,,LIB,,2,0,0,0,2
+Newton,Iroquois 2,Straight Party,,,Over votes,0,0,0,0,0
+Newton,Iroquois 2,Straight Party,,,Under votes,157,22,0,17,196
+Newton,Iroquois 2,President ,,REP,Donald J Trump,192,33,0,21,246
+Newton,Iroquois 2,President ,,DEM,Joseph R Biden,33,9,0,8,50
+Newton,Iroquois 2,President ,,LIB,Jo Jorgensen,9,1,0,1,11
+Newton,Iroquois 2,President ,,,Write-In votes,1,0,0,0,1
+Newton,Iroquois 2,President ,,,Over votes,0,0,0,0,0
+Newton,Iroquois 2,President ,,,Under votes,6,2,0,0,8
+Newton,Iroquois 2,Governor,,REP,Eric Holcomb,167,31,0,25,223
+Newton,Iroquois 2,Governor,,DEM,Woodrow (Woody) Myers,21,8,0,5,34
+Newton,Iroquois 2,Governor,,LIB,Donald G Rainwater II,48,4,0,0,52
+Newton,Iroquois 2,Governor,,,Over votes,0,0,0,0,0
+Newton,Iroquois 2,Governor,,,Under votes,4,2,0,0,6
+Newton,Iroquois 2,Attorney General,,REP,Todd Rokita,197,31,0,22,250
+Newton,Iroquois 2,Attorney General,,DEM,Jonathan Weinzapfel ,30,10,0,8,48
+Newton,Iroquois 2,Attorney General,,,Over votes,0,0,0,0,0
+Newton,Iroquois 2,Attorney General,,,Under votes,13,4,0,0,17
+Newton,Iroquois 2,U.S. House,4,REP,Jim Baird,193,32,0,21,246
+Newton,Iroquois 2,U.S. House,4,DEM,Joe Mackey,33,9,0,8,50
+Newton,Iroquois 2,U.S. House,4,,Write-In votes,0,0,0,0,0
+Newton,Iroquois 2,U.S. House,4,,Over votes,0,0,0,0,0
+Newton,Iroquois 2,U.S. House,4,,Under votes,14,4,0,1,19
+Newton,Iroquois 2,State Representative,13,REP,Sharon Negele,200,33,0,22,255
+Newton,Iroquois 2,State Representative,13,DEM,Loretta Barnes,29,8,0,8,45
+Newton,Iroquois 2,State Representative,13,,Over votes,0,0,0,0,0
+Newton,Iroquois 2,State Representative,13,,Under votes,11,4,0,0,15
+Newton,Iroquois 2,State Representative,16,REP,Douglas L Gutwein,,,,,
+Newton,Iroquois 2,State Representative,16,DEM,Michael A Lovely,,,,,
+Newton,Iroquois 2,State Representative,16,,Over votes,,,,,
+Newton,Iroquois 2,State Representative,16,,Under votes,,,,,
+Newton,Jackson,Registered Voters,,,,,,,,294
+Newton,Jackson,Ballots Cast ,,,,153,23,0,41,217
+Newton,Jackson,Straight Party,,REP,,44,8,0,3,55
+Newton,Jackson,Straight Party,,DEM,,3,3,0,4,10
+Newton,Jackson,Straight Party,,LIB,,2,0,0,1,3
+Newton,Jackson,Straight Party,,,Over votes,0,0,0,0,0
+Newton,Jackson,Straight Party,,,Under votes,104,12,0,33,149
+Newton,Jackson,President ,,REP,Donald J Trump,127,12,0,24,163
+Newton,Jackson,President ,,DEM,Joseph R Biden,21,11,0,17,49
+Newton,Jackson,President ,,LIB,Jo Jorgensen,5,0,0,0,5
+Newton,Jackson,President ,,,Write-In votes,0,0,0,0,0
+Newton,Jackson,President ,,,Over votes,0,0,0,0,0
+Newton,Jackson,President ,,,Under votes,0,0,0,0,0
+Newton,Jackson,Governor,,REP,Eric Holcomb,105,10,0,23,138
+Newton,Jackson,Governor,,DEM,Woodrow (Woody) Myers,16,8,0,14,38
+Newton,Jackson,Governor,,LIB,Donald G Rainwater II,31,5,0,4,40
+Newton,Jackson,Governor,,,Over votes,0,0,0,0,0
+Newton,Jackson,Governor,,,Under votes,1,0,0,0,1
+Newton,Jackson,Attorney General,,REP,Todd Rokita,129,16,0,22,167
+Newton,Jackson,Attorney General,,DEM,Jonathan Weinzapfel ,21,7,0,17,45
+Newton,Jackson,Attorney General,,,Over votes,0,0,0,0,0
+Newton,Jackson,Attorney General,,,Under votes,3,0,0,2,5
+Newton,Jackson,U.S. House,4,REP,Jim Baird,130,14,0,24,168
+Newton,Jackson,U.S. House,4,DEM,Joe Mackey,21,9,0,15,45
+Newton,Jackson,U.S. House,4,,Write-In votes,0,0,0,0,0
+Newton,Jackson,U.S. House,4,,Over votes,0,0,0,0,0
+Newton,Jackson,U.S. House,4,,Under votes,2,0,0,2,4
+Newton,Jackson,State Representative,13,REP,Sharon Negele,,,,,
+Newton,Jackson,State Representative,13,DEM,Loretta Barnes,,,,,
+Newton,Jackson,State Representative,13,,Over votes,,,,,
+Newton,Jackson,State Representative,13,,Under votes,,,,,
+Newton,Jackson,State Representative,16,REP,Douglas L Gutwein,124,13,0,27,164
+Newton,Jackson,State Representative,16,DEM,Michael A Lovely,26,9,0,13,48
+Newton,Jackson,State Representative,16,,Over votes,0,0,0,0,0
+Newton,Jackson,State Representative,16,,Under votes,3,1,0,1,5
+Newton,Jefferson 1,Registered Voters,,,,,,,,446
+Newton,Jefferson 1,Ballots Cast ,,,,189,83,0,47,319
+Newton,Jefferson 1,Straight Party,,REP,,81,29,0,16,126
+Newton,Jefferson 1,Straight Party,,DEM,,11,12,0,6,29
+Newton,Jefferson 1,Straight Party,,LIB,,1,1,0,0,2
+Newton,Jefferson 1,Straight Party,,,Over votes,0,0,0,2,2
+Newton,Jefferson 1,Straight Party,,,Under votes,96,41,0,23,160
+Newton,Jefferson 1,President ,,REP,Donald J Trump,146,51,0,25,222
+Newton,Jefferson 1,President ,,DEM,Joseph R Biden,39,28,0,22,89
+Newton,Jefferson 1,President ,,LIB,Jo Jorgensen,3,2,0,0,5
+Newton,Jefferson 1,President ,,,Write-In votes,1,0,0,0,1
+Newton,Jefferson 1,President ,,,Over votes,0,0,0,0,0
+Newton,Jefferson 1,President ,,,Under votes,0,2,0,0,2
+Newton,Jefferson 1,Governor,,REP,Eric Holcomb,134,50,0,31,215
+Newton,Jefferson 1,Governor,,DEM,Woodrow (Woody) Myers,30,22,0,16,68
+Newton,Jefferson 1,Governor,,LIB,Donald G Rainwater II,24,7,0,0,31
+Newton,Jefferson 1,Governor,,,Over votes,0,0,0,0,0
+Newton,Jefferson 1,Governor,,,Under votes,1,4,0,0,5
+Newton,Jefferson 1,Attorney General,,REP,Todd Rokita,151,54,0,29,234
+Newton,Jefferson 1,Attorney General,,DEM,Jonathan Weinzapfel ,33,26,0,15,74
+Newton,Jefferson 1,Attorney General,,,Over votes,1,0,0,0,1
+Newton,Jefferson 1,Attorney General,,,Under votes,4,3,0,3,10
+Newton,Jefferson 1,U.S. House,4,REP,Jim Baird,152,53,0,27,232
+Newton,Jefferson 1,U.S. House,4,DEM,Joe Mackey,34,26,0,17,77
+Newton,Jefferson 1,U.S. House,4,,Write-In votes,0,0,0,0,0
+Newton,Jefferson 1,U.S. House,4,,Over votes,0,0,0,0,0
+Newton,Jefferson 1,U.S. House,4,,Under votes,3,4,0,3,10
+Newton,Jefferson 1,State Representative,13,REP,Sharon Negele,158,57,0,28,243
+Newton,Jefferson 1,State Representative,13,DEM,Loretta Barnes,29,20,0,14,63
+Newton,Jefferson 1,State Representative,13,,Over votes,0,0,0,0,0
+Newton,Jefferson 1,State Representative,13,,Under votes,2,6,0,5,13
+Newton,Jefferson 1,State Representative,16,REP,Douglas L Gutwein,,,,,
+Newton,Jefferson 1,State Representative,16,DEM,Michael A Lovely,,,,,
+Newton,Jefferson 1,State Representative,16,,Over votes,,,,,
+Newton,Jefferson 1,State Representative,16,,Under votes,,,,,
+Newton,Jefferson 2,Registered Voters,,,,,,,,572
+Newton,Jefferson 2,Ballots Cast ,,,,214,135,0,55,404
+Newton,Jefferson 2,Straight Party,,REP,,71,42,0,11,124
+Newton,Jefferson 2,Straight Party,,DEM,,8,23,0,6,37
+Newton,Jefferson 2,Straight Party,,LIB,,0,2,0,0,2
+Newton,Jefferson 2,Straight Party,,,Over votes,0,0,0,0,0
+Newton,Jefferson 2,Straight Party,,,Under votes,135,68,0,38,241
+Newton,Jefferson 2,President ,,REP,Donald J Trump,167,78,0,28,273
+Newton,Jefferson 2,President ,,DEM,Joseph R Biden,43,51,0,25,119
+Newton,Jefferson 2,President ,,LIB,Jo Jorgensen,1,3,0,1,5
+Newton,Jefferson 2,President ,,,Write-In votes,1,1,0,0,2
+Newton,Jefferson 2,President ,,,Over votes,1,0,0,0,1
+Newton,Jefferson 2,President ,,,Under votes,1,2,0,1,4
+Newton,Jefferson 2,Governor,,REP,Eric Holcomb,157,78,0,37,272
+Newton,Jefferson 2,Governor,,DEM,Woodrow (Woody) Myers,19,45,0,14,78
+Newton,Jefferson 2,Governor,,LIB,Donald G Rainwater II,36,9,0,3,48
+Newton,Jefferson 2,Governor,,,Over votes,0,0,0,0,0
+Newton,Jefferson 2,Governor,,,Under votes,2,3,0,1,6
+Newton,Jefferson 2,Attorney General,,REP,Todd Rokita,176,79,0,37,292
+Newton,Jefferson 2,Attorney General,,DEM,Jonathan Weinzapfel ,33,51,0,16,100
+Newton,Jefferson 2,Attorney General,,,Over votes,0,0,0,0,0
+Newton,Jefferson 2,Attorney General,,,Under votes,5,5,0,2,12
+Newton,Jefferson 2,U.S. House,4,REP,Jim Baird,171,80,0,34,285
+Newton,Jefferson 2,U.S. House,4,DEM,Joe Mackey,38,51,0,19,108
+Newton,Jefferson 2,U.S. House,4,,Write-In votes,1,0,0,0,1
+Newton,Jefferson 2,U.S. House,4,,Over votes,0,0,0,0,0
+Newton,Jefferson 2,U.S. House,4,,Under votes,4,4,0,2,10
+Newton,Jefferson 2,State Representative,13,REP,Sharon Negele,178,82,0,37,297
+Newton,Jefferson 2,State Representative,13,DEM,Loretta Barnes,30,48,0,16,94
+Newton,Jefferson 2,State Representative,13,,Over votes,0,0,0,0,0
+Newton,Jefferson 2,State Representative,13,,Under votes,6,5,0,2,13
+Newton,Jefferson 2,State Representative,16,REP,Douglas L Gutwein,,,,,
+Newton,Jefferson 2,State Representative,16,DEM,Michael A Lovely,,,,,
+Newton,Jefferson 2,State Representative,16,,Over votes,,,,,
+Newton,Jefferson 2,State Representative,16,,Under votes,,,,,
+Newton,Jefferson 3,Registered Voters,,,,,,,,365
+Newton,Jefferson 3,Ballots Cast ,,,,135,59,0,20,214
+Newton,Jefferson 3,Straight Party,,REP,,40,21,0,3,64
+Newton,Jefferson 3,Straight Party,,DEM,,12,13,0,2,27
+Newton,Jefferson 3,Straight Party,,LIB,,1,0,0,1,2
+Newton,Jefferson 3,Straight Party,,,Over votes,0,0,0,0,0
+Newton,Jefferson 3,Straight Party,,,Under votes,82,25,0,14,121
+Newton,Jefferson 3,President ,,REP,Donald J Trump,91,34,0,10,135
+Newton,Jefferson 3,President ,,DEM,Joseph R Biden,34,25,0,10,69
+Newton,Jefferson 3,President ,,LIB,Jo Jorgensen,7,0,0,0,7
+Newton,Jefferson 3,President ,,,Write-In votes,2,0,0,0,2
+Newton,Jefferson 3,President ,,,Over votes,0,0,0,0,0
+Newton,Jefferson 3,President ,,,Under votes,1,0,0,0,1
+Newton,Jefferson 3,Governor,,REP,Eric Holcomb,85,35,0,7,127
+Newton,Jefferson 3,Governor,,DEM,Woodrow (Woody) Myers,20,20,0,5,45
+Newton,Jefferson 3,Governor,,LIB,Donald G Rainwater II,29,3,0,3,35
+Newton,Jefferson 3,Governor,,,Over votes,0,0,0,0,0
+Newton,Jefferson 3,Governor,,,Under votes,0,1,0,2,3
+Newton,Jefferson 3,Attorney General,,REP,Todd Rokita,101,33,0,9,143
+Newton,Jefferson 3,Attorney General,,DEM,Jonathan Weinzapfel ,30,25,0,6,61
+Newton,Jefferson 3,Attorney General,,,Over votes,0,0,0,0,0
+Newton,Jefferson 3,Attorney General,,,Under votes,3,1,0,2,6
+Newton,Jefferson 3,U.S. House,4,REP,Jim Baird,96,35,0,10,141
+Newton,Jefferson 3,U.S. House,4,DEM,Joe Mackey,37,23,0,8,68
+Newton,Jefferson 3,U.S. House,4,,Write-In votes,0,0,0,0,0
+Newton,Jefferson 3,U.S. House,4,,Over votes,0,0,0,0,0
+Newton,Jefferson 3,U.S. House,4,,Under votes,1,1,0,2,4
+Newton,Jefferson 3,State Representative,13,REP,Sharon Negele,102,37,0,10,149
+Newton,Jefferson 3,State Representative,13,DEM,Loretta Barnes,31,21,0,6,58
+Newton,Jefferson 3,State Representative,13,,Over votes,0,0,0,0,0
+Newton,Jefferson 3,State Representative,13,,Under votes,1,1,0,1,3
+Newton,Jefferson 3,State Representative,16,REP,Douglas L Gutwein,,,,,
+Newton,Jefferson 3,State Representative,16,DEM,Michael A Lovely,,,,,
+Newton,Jefferson 3,State Representative,16,,Over votes,,,,,
+Newton,Jefferson 3,State Representative,16,,Under votes,,,,,
+Newton,Lake 1,Registered Voters,,,,,,,,1033
+Newton,Lake 1,Ballots Cast ,,,,549,98,0,52,699
+Newton,Lake 1,Straight Party,,REP,,204,47,0,12,263
+Newton,Lake 1,Straight Party,,DEM,,35,12,0,8,55
+Newton,Lake 1,Straight Party,,LIB,,4,0,0,0,4
+Newton,Lake 1,Straight Party,,,Over votes,0,0,0,0,0
+Newton,Lake 1,Straight Party,,,Under votes,306,39,0,32,377
+Newton,Lake 1,President ,,REP,Donald J Trump,448,72,0,23,543
+Newton,Lake 1,President ,,DEM,Joseph R Biden,80,25,0,28,133
+Newton,Lake 1,President ,,LIB,Jo Jorgensen,18,1,0,1,20
+Newton,Lake 1,President ,,,Write-In votes,2,0,0,0,2
+Newton,Lake 1,President ,,,Over votes,0,0,0,0,0
+Newton,Lake 1,President ,,,Under votes,1,0,0,0,1
+Newton,Lake 1,Governor,,REP,Eric Holcomb,357,65,0,21,443
+Newton,Lake 1,Governor,,DEM,Woodrow (Woody) Myers,64,20,0,24,108
+Newton,Lake 1,Governor,,LIB,Donald G Rainwater II,120,12,0,5,137
+Newton,Lake 1,Governor,,,Over votes,0,0,0,0,0
+Newton,Lake 1,Governor,,,Under votes,8,1,0,2,11
+Newton,Lake 1,Attorney General,,REP,Todd Rokita,429,73,0,25,527
+Newton,Lake 1,Attorney General,,DEM,Jonathan Weinzapfel ,96,25,0,24,145
+Newton,Lake 1,Attorney General,,,Over votes,0,0,0,0,0
+Newton,Lake 1,Attorney General,,,Under votes,24,0,0,3,27
+Newton,Lake 1,U.S. House,4,REP,Jim Baird,433,72,0,26,531
+Newton,Lake 1,U.S. House,4,DEM,Joe Mackey,93,26,0,24,143
+Newton,Lake 1,U.S. House,4,,Write-In votes,2,0,0,0,2
+Newton,Lake 1,U.S. House,4,,Over votes,0,0,0,0,0
+Newton,Lake 1,U.S. House,4,,Under votes,21,0,0,2,23
+Newton,Lake 1,State Representative,13,REP,Sharon Negele,,,,,
+Newton,Lake 1,State Representative,13,DEM,Loretta Barnes,,,,,
+Newton,Lake 1,State Representative,13,,Over votes,,,,,
+Newton,Lake 1,State Representative,13,,Under votes,,,,,
+Newton,Lake 1,State Representative,16,REP,Douglas L Gutwein,425,74,0,26,525
+Newton,Lake 1,State Representative,16,DEM,Michael A Lovely,102,24,0,24,150
+Newton,Lake 1,State Representative,16,,Over votes,0,0,0,0,0
+Newton,Lake 1,State Representative,16,,Under votes,22,0,0,2,24
+Newton,Lake 2,Registered Voters,,,,,,,,829
+Newton,Lake 2,Ballots Cast ,,,,405,62,0,47,514
+Newton,Lake 2,Straight Party,,REP,,137,22,0,16,175
+Newton,Lake 2,Straight Party,,DEM,,25,10,0,11,46
+Newton,Lake 2,Straight Party,,LIB,,2,1,0,1,4
+Newton,Lake 2,Straight Party,,,Over votes,0,0,0,0,0
+Newton,Lake 2,Straight Party,,,Under votes,241,29,0,19,289
+Newton,Lake 2,President ,,REP,Donald J Trump,326,43,0,25,394
+Newton,Lake 2,President ,,DEM,Joseph R Biden,72,19,0,20,111
+Newton,Lake 2,President ,,LIB,Jo Jorgensen,5,0,0,1,6
+Newton,Lake 2,President ,,,Write-In votes,1,0,0,0,1
+Newton,Lake 2,President ,,,Over votes,0,0,0,0,0
+Newton,Lake 2,President ,,,Under votes,1,0,0,1,2
+Newton,Lake 2,Governor,,REP,Eric Holcomb,269,39,0,27,335
+Newton,Lake 2,Governor,,DEM,Woodrow (Woody) Myers,54,15,0,18,87
+Newton,Lake 2,Governor,,LIB,Donald G Rainwater II,78,8,0,0,86
+Newton,Lake 2,Governor,,,Over votes,0,0,0,0,0
+Newton,Lake 2,Governor,,,Under votes,4,0,0,2,6
+Newton,Lake 2,Attorney General,,REP,Todd Rokita,321,44,0,26,391
+Newton,Lake 2,Attorney General,,DEM,Jonathan Weinzapfel ,74,18,0,19,111
+Newton,Lake 2,Attorney General,,,Over votes,0,0,0,0,0
+Newton,Lake 2,Attorney General,,,Under votes,10,0,0,2,12
+Newton,Lake 2,U.S. House,4,REP,Jim Baird,309,45,0,25,379
+Newton,Lake 2,U.S. House,4,DEM,Joe Mackey,87,16,0,19,122
+Newton,Lake 2,U.S. House,4,,Write-In votes,0,0,0,1,1
+Newton,Lake 2,U.S. House,4,,Over votes,0,0,0,0,0
+Newton,Lake 2,U.S. House,4,,Under votes,9,1,0,2,12
+Newton,Lake 2,State Representative,13,REP,Sharon Negele,,,,,
+Newton,Lake 2,State Representative,13,DEM,Loretta Barnes,,,,,
+Newton,Lake 2,State Representative,13,,Over votes,,,,,
+Newton,Lake 2,State Representative,13,,Under votes,,,,,
+Newton,Lake 2,State Representative,16,REP,Douglas L Gutwein,320,46,0,25,391
+Newton,Lake 2,State Representative,16,DEM,Michael A Lovely,76,15,0,20,111
+Newton,Lake 2,State Representative,16,,Over votes,0,0,0,0,0
+Newton,Lake 2,State Representative,16,,Under votes,9,1,0,2,12
+,Lincoln 1,,,,,,,,,
+Newton,Lincoln 1,Registered Voters,,,,,,,,859
+Newton,Lincoln 1,Ballots Cast ,,,,401,72,0,70,543
+Newton,Lincoln 1,Straight Party,,REP,,147,41,0,18,206
+Newton,Lincoln 1,Straight Party,,DEM,,29,5,0,30,64
+Newton,Lincoln 1,Straight Party,,LIB,,1,1,0,0,2
+Newton,Lincoln 1,Straight Party,,,Over votes,0,0,0,0,0
+Newton,Lincoln 1,Straight Party,,,Under votes,224,25,0,22,271
+Newton,Lincoln 1,President ,,REP,Donald J Trump,318,54,0,23,395
+Newton,Lincoln 1,President ,,DEM,Joseph R Biden,74,16,0,42,132
+Newton,Lincoln 1,President ,,LIB,Jo Jorgensen,7,1,0,3,11
+Newton,Lincoln 1,President ,,,Write-In votes,1,0,0,1,2
+Newton,Lincoln 1,President ,,,Over votes,0,0,0,0,0
+Newton,Lincoln 1,President ,,,Under votes,1,1,0,1,3
+Newton,Lincoln 1,Governor,,REP,Eric Holcomb,269,60,0,27,356
+Newton,Lincoln 1,Governor,,DEM,Woodrow (Woody) Myers,58,9,0,40,107
+Newton,Lincoln 1,Governor,,LIB,Donald G Rainwater II,71,2,0,0,73
+Newton,Lincoln 1,Governor,,,Over votes,0,0,0,0,0
+Newton,Lincoln 1,Governor,,,Under votes,3,1,0,3,7
+Newton,Lincoln 1,Attorney General,,REP,Todd Rokita,310,56,0,25,391
+Newton,Lincoln 1,Attorney General,,DEM,Jonathan Weinzapfel ,83,13,0,41,137
+Newton,Lincoln 1,Attorney General,,,Over votes,0,0,0,0,0
+Newton,Lincoln 1,Attorney General,,,Under votes,8,3,0,4,15
+Newton,Lincoln 1,U.S. House,4,REP,Jim Baird,305,55,0,25,385
+Newton,Lincoln 1,U.S. House,4,DEM,Joe Mackey,84,14,0,41,139
+Newton,Lincoln 1,U.S. House,4,,Write-In votes,0,0,0,0,0
+Newton,Lincoln 1,U.S. House,4,,Over votes,0,0,0,0,0
+Newton,Lincoln 1,U.S. House,4,,Under votes,12,3,0,4,19
+Newton,Lincoln 1,State Representative,13,REP,Sharon Negele,,,,,
+Newton,Lincoln 1,State Representative,13,DEM,Loretta Barnes,,,,,
+Newton,Lincoln 1,State Representative,13,,Over votes,,,,,
+Newton,Lincoln 1,State Representative,13,,Under votes,,,,,
+Newton,Lincoln 1,State Representative,16,REP,Douglas L Gutwein,304,54,0,26,384
+Newton,Lincoln 1,State Representative,16,DEM,Michael A Lovely,86,15,0,40,141
+Newton,Lincoln 1,State Representative,16,,Over votes,0,0,0,0,0
+Newton,Lincoln 1,State Representative,16,,Under votes,11,3,0,4,18
+Newton,Lincoln 2,Registered Voters,,,,,,,,1255
+Newton,Lincoln 2,Ballots Cast ,,,,588,130,0,87,805
+Newton,Lincoln 2,Straight Party,,REP,,237,45,0,26,308
+Newton,Lincoln 2,Straight Party,,DEM,,43,21,0,16,80
+Newton,Lincoln 2,Straight Party,,LIB,,3,1,0,1,5
+Newton,Lincoln 2,Straight Party,,,Over votes,1,0,0,0,1
+Newton,Lincoln 2,Straight Party,,,Under votes,304,63,0,44,411
+Newton,Lincoln 2,President ,,REP,Donald J Trump,492,85,0,47,624
+Newton,Lincoln 2,President ,,DEM,Joseph R Biden,81,40,0,39,160
+Newton,Lincoln 2,President ,,LIB,Jo Jorgensen,11,3,0,1,15
+Newton,Lincoln 2,President ,,,Write-In votes,1,0,0,0,1
+Newton,Lincoln 2,President ,,,Over votes,0,0,0,0,0
+Newton,Lincoln 2,President ,,,Under votes,3,2,0,0,5
+Newton,Lincoln 2,Governor,,REP,Eric Holcomb,391,75,0,49,515
+Newton,Lincoln 2,Governor,,DEM,Woodrow (Woody) Myers,75,31,0,33,139
+Newton,Lincoln 2,Governor,,LIB,Donald G Rainwater II,118,20,0,3,141
+Newton,Lincoln 2,Governor,,,Over votes,0,0,0,0,0
+Newton,Lincoln 2,Governor,,,Under votes,4,4,0,2,10
+Newton,Lincoln 2,Attorney General,,REP,Todd Rokita,472,86,0,47,605
+Newton,Lincoln 2,Attorney General,,DEM,Jonathan Weinzapfel ,100,38,0,37,175
+Newton,Lincoln 2,Attorney General,,,Over votes,0,0,0,0,0
+Newton,Lincoln 2,Attorney General,,,Under votes,16,6,0,3,25
+Newton,Lincoln 2,U.S. House,4,REP,Jim Baird,458,87,0,47,592
+Newton,Lincoln 2,U.S. House,4,DEM,Joe Mackey,108,38,0,37,183
+Newton,Lincoln 2,U.S. House,4,,Write-In votes,0,0,0,0,0
+Newton,Lincoln 2,U.S. House,4,,Over votes,0,0,0,0,0
+Newton,Lincoln 2,U.S. House,4,,Under votes,22,5,0,3,30
+Newton,Lincoln 2,State Representative,13,REP,Sharon Negele,,,,,
+Newton,Lincoln 2,State Representative,13,DEM,Loretta Barnes,,,,,
+Newton,Lincoln 2,State Representative,13,,Over votes,,,,,
+Newton,Lincoln 2,State Representative,13,,Under votes,,,,,
+Newton,Lincoln 2,State Representative,16,REP,Douglas L Gutwein,470,85,0,47,602
+Newton,Lincoln 2,State Representative,16,DEM,Michael A Lovely,103,40,0,37,180
+Newton,Lincoln 2,State Representative,16,,Over votes,1,0,0,0,1
+Newton,Lincoln 2,State Representative,16,,Under votes,14,5,0,3,22
+Newton,Lincoln 3,Registered Voters,,,,,,,,1392
+Newton,Lincoln 3,Ballots Cast ,,,,636,111,0,85,832
+Newton,Lincoln 3,Straight Party,,REP,,241,57,0,27,325
+Newton,Lincoln 3,Straight Party,,DEM,,76,17,0,24,117
+Newton,Lincoln 3,Straight Party,,LIB,,3,0,0,1,4
+Newton,Lincoln 3,Straight Party,,,Over votes,1,0,0,1,2
+Newton,Lincoln 3,Straight Party,,,Under votes,315,37,0,32,384
+Newton,Lincoln 3,President ,,REP,Donald J Trump,461,81,0,36,578
+Newton,Lincoln 3,President ,,DEM,Joseph R Biden,154,30,0,46,230
+Newton,Lincoln 3,President ,,LIB,Jo Jorgensen,17,0,0,2,19
+Newton,Lincoln 3,President ,,,Write-In votes,1,0,0,0,1
+Newton,Lincoln 3,President ,,,Over votes,1,0,0,0,1
+Newton,Lincoln 3,President ,,,Under votes,2,0,0,1,3
+Newton,Lincoln 3,Governor,,REP,Eric Holcomb,402,72,0,33,507
+Newton,Lincoln 3,Governor,,DEM,Woodrow (Woody) Myers,124,26,0,40,190
+Newton,Lincoln 3,Governor,,LIB,Donald G Rainwater II,107,12,0,10,129
+Newton,Lincoln 3,Governor,,,Over votes,1,0,0,0,1
+Newton,Lincoln 3,Governor,,,Under votes,2,1,0,2,5
+Newton,Lincoln 3,Attorney General,,REP,Todd Rokita,451,79,0,37,567
+Newton,Lincoln 3,Attorney General,,DEM,Jonathan Weinzapfel ,175,29,0,42,246
+Newton,Lincoln 3,Attorney General,,,Over votes,0,0,0,0,0
+Newton,Lincoln 3,Attorney General,,,Under votes,10,3,0,6,19
+Newton,Lincoln 3,U.S. House,4,REP,Jim Baird,452,81,0,37,570
+Newton,Lincoln 3,U.S. House,4,DEM,Joe Mackey,171,28,0,43,242
+Newton,Lincoln 3,U.S. House,4,,Write-In votes,0,0,0,0,0
+Newton,Lincoln 3,U.S. House,4,,Over votes,0,0,0,0,0
+Newton,Lincoln 3,U.S. House,4,,Under votes,13,2,0,5,20
+Newton,Lincoln 3,State Representative,13,REP,Sharon Negele,,,,,
+Newton,Lincoln 3,State Representative,13,DEM,Loretta Barnes,,,,,
+Newton,Lincoln 3,State Representative,13,,Over votes,,,,,
+Newton,Lincoln 3,State Representative,13,,Under votes,,,,,
+Newton,Lincoln 3,State Representative,16,REP,Douglas L Gutwein,464,79,0,34,577
+Newton,Lincoln 3,State Representative,16,DEM,Michael A Lovely,161,29,0,45,235
+Newton,Lincoln 3,State Representative,16,,Over votes,0,0,0,0,0
+Newton,Lincoln 3,State Representative,16,,Under votes,11,3,0,6,20
+Newton,McClellan,Registered Voters,,,,,,,,154
+Newton,McClellan,Ballots Cast ,,,,64,27,0,10,101
+Newton,McClellan,Straight Party,,REP,,26,14,0,2,42
+Newton,McClellan,Straight Party,,DEM,,5,2,0,1,8
+Newton,McClellan,Straight Party,,LIB,,1,0,0,0,1
+Newton,McClellan,Straight Party,,,Over votes,0,0,0,0,0
+Newton,McClellan,Straight Party,,,Under votes,32,11,0,7,50
+Newton,McClellan,President ,,REP,Donald J Trump,50,23,0,5,78
+Newton,McClellan,President ,,DEM,Joseph R Biden,12,4,0,5,21
+Newton,McClellan,President ,,LIB,Jo Jorgensen,1,0,0,0,1
+Newton,McClellan,President ,,,Write-In votes,1,0,0,0,1
+Newton,McClellan,President ,,,Over votes,0,0,0,0,0
+Newton,McClellan,President ,,,Under votes,0,0,0,0,0
+Newton,McClellan,Governor,,REP,Eric Holcomb,45,17,0,5,67
+Newton,McClellan,Governor,,DEM,Woodrow (Woody) Myers,10,5,0,5,20
+Newton,McClellan,Governor,,LIB,Donald G Rainwater II,8,5,0,0,13
+Newton,McClellan,Governor,,,Over votes,0,0,0,0,0
+Newton,McClellan,Governor,,,Under votes,1,0,0,0,1
+Newton,McClellan,Attorney General,,REP,Todd Rokita,47,21,0,4,72
+Newton,McClellan,Attorney General,,DEM,Jonathan Weinzapfel ,13,6,0,5,24
+Newton,McClellan,Attorney General,,,Over votes,0,0,0,0,0
+Newton,McClellan,Attorney General,,,Under votes,4,0,0,1,5
+Newton,McClellan,U.S. House,4,REP,Jim Baird,46,23,0,4,73
+Newton,McClellan,U.S. House,4,DEM,Joe Mackey,13,3,0,6,22
+Newton,McClellan,U.S. House,4,,Write-In votes,0,0,0,0,0
+Newton,McClellan,U.S. House,4,,Over votes,0,0,0,0,0
+Newton,McClellan,U.S. House,4,,Under votes,5,1,0,0,6
+Newton,McClellan,State Representative,13,REP,Sharon Negele,,,,,
+Newton,McClellan,State Representative,13,DEM,Loretta Barnes,,,,,
+Newton,McClellan,State Representative,13,,Over votes,,,,,
+Newton,McClellan,State Representative,13,,Under votes,,,,,
+Newton,McClellan,State Representative,16,REP,Douglas L Gutwein,49,22,0,5,76
+Newton,McClellan,State Representative,16,DEM,Michael A Lovely,12,4,0,5,21
+Newton,McClellan,State Representative,16,,Over votes,0,0,0,0,0
+Newton,McClellan,State Representative,16,,Under votes,3,1,0,0,4
+Newton,Washington,Registered Voters,,,,,,,,254
+Newton,Washington,Ballots Cast ,,,,129,43,0,20,192
+Newton,Washington,Straight Party,,REP,,43,20,0,4,67
+Newton,Washington,Straight Party,,DEM,,2,2,0,2,6
+Newton,Washington,Straight Party,,LIB,,3,1,0,0,4
+Newton,Washington,Straight Party,,,Over votes,0,0,0,0,0
+Newton,Washington,Straight Party,,,Under votes,81,20,0,14,115
+Newton,Washington,President ,,REP,Donald J Trump,110,35,0,13,158
+Newton,Washington,President ,,DEM,Joseph R Biden,15,7,0,6,28
+Newton,Washington,President ,,LIB,Jo Jorgensen,4,1,0,1,6
+Newton,Washington,President ,,,Write-In votes,0,0,0,0,0
+Newton,Washington,President ,,,Over votes,0,0,0,0,0
+Newton,Washington,President ,,,Under votes,0,0,0,0,0
+Newton,Washington,Governor,,REP,Eric Holcomb,99,32,0,14,145
+Newton,Washington,Governor,,DEM,Woodrow (Woody) Myers,11,5,0,3,19
+Newton,Washington,Governor,,LIB,Donald G Rainwater II,17,4,0,3,24
+Newton,Washington,Governor,,,Over votes,0,0,0,0,0
+Newton,Washington,Governor,,,Under votes,0,0,0,0,0
+Newton,Washington,Attorney General,,REP,Todd Rokita,108,32,0,16,156
+Newton,Washington,Attorney General,,DEM,Jonathan Weinzapfel ,16,7,0,3,26
+Newton,Washington,Attorney General,,,Over votes,0,0,0,0,0
+Newton,Washington,Attorney General,,,Under votes,3,2,0,1,6
+Newton,Washington,U.S. House,4,REP,Jim Baird,109,35,0,15,159
+Newton,Washington,U.S. House,4,DEM,Joe Mackey,13,5,0,3,21
+Newton,Washington,U.S. House,4,,Write-In votes,1,0,0,0,1
+Newton,Washington,U.S. House,4,,Over votes,0,0,0,0,0
+Newton,Washington,U.S. House,4,,Under votes,4,1,0,2,7
+Newton,Washington,State Representative,13,REP,Sharon Negele,115,34,0,15,164
+Newton,Washington,State Representative,13,DEM,Loretta Barnes,10,6,0,3,19
+Newton,Washington,State Representative,13,,Over votes,0,0,0,0,0
+Newton,Washington,State Representative,13,,Under votes,2,1,0,2,5
+Newton,Washington,State Representative,16,REP,Douglas L Gutwein,,,,,
+Newton,Washington,State Representative,16,DEM,Michael A Lovely,,,,,
+Newton,Washington,State Representative,16,,Over votes,,,,,
+Newton,Washington,State Representative,16,,Under votes,,,,,
+Newton,TOTAL ,Registered Voters,,,,,,,,10254
+Newton,TOTAL ,Ballots Cast ,,,,4805,1113,0,733,6651
+Newton,TOTAL ,Straight Party,,REP,,1728,450,0,193,2371
+Newton,TOTAL ,Straight Party,,DEM,,318,160,0,137,615
+Newton,TOTAL ,Straight Party,,LIB,,32,10,0,5,47
+Newton,TOTAL ,Straight Party,,,Over votes,2,0,0,3,5
+Newton,TOTAL ,Straight Party,,,Under votes,2725,493,0,395,3613
+Newton,TOTAL ,President ,,REP,Donald J Trump,3827,751,0,364,4942
+Newton,TOTAL ,President ,,DEM,Joseph R Biden,831,336,0,342,1509
+Newton,TOTAL ,President ,,LIB,Jo Jorgensen,110,14,0,16,140
+Newton,TOTAL ,President ,,,Write-In votes,15,1,0,2,18
+Newton,TOTAL ,President ,,,Over votes,2,0,0,0,2
+Newton,TOTAL ,President ,,,Under votes,20,11,0,9,40
+Newton,TOTAL ,Governor,,REP,Eric Holcomb,3256,708,0,394,4358
+Newton,TOTAL ,Governor,,DEM,Woodrow (Woody) Myers,613,264,0,271,1148
+Newton,TOTAL ,Governor,,LIB,Donald G Rainwater II,888,116,0,46,1050
+Newton,TOTAL ,Governor,,,Over votes,1,0,0,0,1
+Newton,TOTAL ,Governor,,,Under votes,40,23,0,19,82
+Newton,TOTAL ,Attorney General,,REP,Todd Rokita,3782,757,0,403,4942
+Newton,TOTAL ,Attorney General,,DEM,Jonathan Weinzapfel ,885,318,0,293,1496
+Newton,TOTAL ,Attorney General,,,Over votes,1,0,0,0,1
+Newton,TOTAL ,Attorney General,,,Under votes,130,36,0,34,200
+Newton,TOTAL ,U.S. House,4,REP,Jim Baird,3753,764,0,392,4909
+Newton,TOTAL ,U.S. House,4,DEM,Joe Mackey,904,311,0,307,1522
+Newton,TOTAL ,U.S. House,4,,Write-In votes,4,0,0,1,5
+Newton,TOTAL ,U.S. House,4,,Over votes,0,0,0,0,0
+Newton,TOTAL ,U.S. House,4,,Under votes,137,36,0,33,206
+Newton,TOTAL ,State Representative,13,REP,Sharon Negele,1184,289,0,161,1634
+Newton,TOTAL ,State Representative,13,DEM,Loretta Barnes,214,126,0,69,409
+Newton,TOTAL ,State Representative,13,,Over votes,0,0,0,0,0
+Newton,TOTAL ,State Representative,13,,Under votes,35,19,0,14,68
+Newton,TOTAL ,State Representative,16,REP,Douglas L Gutwein,2629,485,0,241,3355
+Newton,TOTAL ,State Representative,16,DEM,Michael A Lovely,650,170,0,224,1044
+Newton,TOTAL ,State Representative,16,,Over votes,1,0,0,0,1
+Newton,TOTAL ,State Representative,16,,Under votes,85,22,0,21,128

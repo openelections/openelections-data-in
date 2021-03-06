@@ -1,0 +1,433 @@
+county,precinct,office,district,party,candidate,election_day,absentee,early_voting,votes
+Pulaski,Beaver,Registered Voters,,,,,,,323
+Pulaski,Beaver,Ballots Cast,,,,88,29,101,218
+Pulaski,Beaver,President,,REP,Donald J Trump,69,17,74,160
+Pulaski,Beaver,President,,DEM,Joseph R Biden,15,10,23,48
+Pulaski,Beaver,President,,LIB,Jo Jorgensen,2,2,1,5
+Pulaski,Beaver,President,,,Write-In,0,0,0,0
+Pulaski,Beaver,Governor,,REP,Eric Holcomb,52,21,64,137
+Pulaski,Beaver,Governor,,DEM,Woodrow (Woody) Myers,10,7,21,38
+Pulaski,Beaver,Governor,,LIB,Donald G Rainwater II,22,0,12,34
+Pulaski,Beaver,Attorney General,,REP,Todd Rokita,59,19,70,148
+Pulaski,Beaver,Attorney General,,DEM,Jonathan Weinzapfel,17,9,25,51
+Pulaski,Beaver,U.S. House,2,REP,Jackie Walorski,73,20,70,163
+Pulaski,Beaver,U.S. House,2,DEM,Patricia (Pat) Hackett,12,9,29,50
+Pulaski,Beaver,U.S. House,2,,Write-In,0,0,0,0
+Pulaski,Beaver,State Senate,5,REP,Ed Charbonneau,69,19,66,154
+Pulaski,Beaver,State Senate,5,DEM,Luke Bohm,14,9,29,52
+Pulaski,Beaver,State Representative,16,REP,Douglas L Gutwein,67,18,73,158
+Pulaski,Beaver,State Representative,16,DEM,Michael A Lovely,18,10,25,53
+Pulaski,Cass,Registered Voters,,,,,,,542
+Pulaski,Cass,Ballots Cast,,,,207,34,89,330
+Pulaski,Cass,President,,REP,Donald J Trump,169,13,52,234
+Pulaski,Cass,President,,DEM,Joseph R Biden,32,21,34,87
+Pulaski,Cass,President,,LIB,Jo Jorgensen,4,0,1,5
+Pulaski,Cass,President,,,Write-In,0,0,1,1
+Pulaski,Cass,Governor,,REP,Eric Holcomb,145,14,54,213
+Pulaski,Cass,Governor,,DEM,Woodrow (Woody) Myers,22,18,26,66
+Pulaski,Cass,Governor,,LIB,Donald G Rainwater II,35,2,8,45
+Pulaski,Cass,Attorney General,,REP,Todd Rokita,154,15,52,221
+Pulaski,Cass,Attorney General,,DEM,Jonathan Weinzapfel,43,19,33,95
+Pulaski,Cass,U.S. House,2,REP,Jackie Walorski,172,16,53,241
+Pulaski,Cass,U.S. House,2,DEM,Patricia (Pat) Hackett,32,18,32,82
+Pulaski,Cass,U.S. House,2,,Write-In,0,0,0,0
+Pulaski,Cass,State Senate,5,REP,Ed Charbonneau,164,16,52,232
+Pulaski,Cass,State Senate,5,DEM,Luke Bohm,38,18,33,89
+Pulaski,Cass,State Representative,16,REP,Douglas L Gutwein,158,16,53,227
+Pulaski,Cass,State Representative,16,DEM,Michael A Lovely,48,17,33,98
+Pulaski,Franklin,Registered Voters,,,,,,,503
+Pulaski,Franklin,Ballots Cast,,,,116,39,157,312
+Pulaski,Franklin,President,,REP,Donald J Trump,90,21,123,234
+Pulaski,Franklin,President,,DEM,Joseph R Biden,21,15,29,65
+Pulaski,Franklin,President,,LIB,Jo Jorgensen,4,1,2,7
+Pulaski,Franklin,President,,,Write-In,0,0,0,0
+Pulaski,Franklin,Governor,,REP,Eric Holcomb,66,21,116,203
+Pulaski,Franklin,Governor,,DEM,Woodrow (Woody) Myers,17,13,28,58
+Pulaski,Franklin,Governor,,LIB,Donald G Rainwater II,30,3,12,45
+Pulaski,Franklin,Attorney General,,REP,Todd Rokita,87,23,117,227
+Pulaski,Franklin,Attorney General,,DEM,Jonathan Weinzapfel,25,15,34,74
+Pulaski,Franklin,U.S. House,2,REP,Jackie Walorski,83,23,122,228
+Pulaski,Franklin,U.S. House,2,DEM,Patricia (Pat) Hackett,28,15,32,75
+Pulaski,Franklin,U.S. House,2,,Write-In,0,0,0,0
+Pulaski,Franklin,State Senate,5,REP,Ed Charbonneau,88,22,122,232
+Pulaski,Franklin,State Senate,5,DEM,Luke Bohm,23,16,30,69
+Pulaski,Franklin,State Representative,16,REP,Douglas L Gutwein,91,20,115,226
+Pulaski,Franklin,State Representative,16,DEM,Michael A Lovely,20,17,37,74
+Pulaski,Harrison,Registered Voters,,,,,,,479
+Pulaski,Harrison,Ballots Cast,,,,141,32,167,340
+Pulaski,Harrison,President,,REP,Donald J Trump,119,16,118,253
+Pulaski,Harrison,President,,DEM,Joseph R Biden,18,13,46,77
+Pulaski,Harrison,President,,LIB,Jo Jorgensen,1,0,0,1
+Pulaski,Harrison,President,,,Write-In,0,0,1,1
+Pulaski,Harrison,Governor,,REP,Eric Holcomb,87,15,111,213
+Pulaski,Harrison,Governor,,DEM,Woodrow (Woody) Myers,12,11,37,60
+Pulaski,Harrison,Governor,,LIB,Donald G Rainwater II,38,1,18,57
+Pulaski,Harrison,Attorney General,,REP,Todd Rokita,110,14,115,239
+Pulaski,Harrison,Attorney General,,DEM,Jonathan Weinzapfel,22,14,41,77
+Pulaski,Harrison,U.S. House,2,REP,Jackie Walorski,113,15,120,248
+Pulaski,Harrison,U.S. House,2,DEM,Patricia (Pat) Hackett,23,13,44,80
+Pulaski,Harrison,U.S. House,2,,Write-In,0,0,0,0
+Pulaski,Harrison,State Senate,5,REP,Ed Charbonneau,112,14,113,239
+Pulaski,Harrison,State Senate,5,DEM,Luke Bohm,20,14,46,80
+Pulaski,Harrison,State Representative,16,REP,Douglas L Gutwein,113,14,115,242
+Pulaski,Harrison,State Representative,16,DEM,Michael A Lovely,21,13,46,80
+Pulaski,Indian Creek,Registered Voters,,,,,,,473
+Pulaski,Indian Creek,Ballots Cast,,,,158,32,121,311
+Pulaski,Indian Creek,President,,REP,Donald J Trump,134,9,80,223
+Pulaski,Indian Creek,President,,DEM,Joseph R Biden,20,22,37,79
+Pulaski,Indian Creek,President,,LIB,Jo Jorgensen,2,1,3,6
+Pulaski,Indian Creek,President,,,Write-In,0,0,0,0
+Pulaski,Indian Creek,Governor,,REP,Eric Holcomb,103,13,83,199
+Pulaski,Indian Creek,Governor,,DEM,Woodrow (Woody) Myers,15,17,24,56
+Pulaski,Indian Creek,Governor,,LIB,Donald G Rainwater II,36,1,10,47
+Pulaski,Indian Creek,Attorney General,,REP,Todd Rokita,118,10,76,204
+Pulaski,Indian Creek,Attorney General,,DEM,Jonathan Weinzapfel,31,21,37,89
+Pulaski,Indian Creek,U.S. House,2,REP,Jackie Walorski,128,13,83,224
+Pulaski,Indian Creek,U.S. House,2,DEM,Patricia (Pat) Hackett,23,18,33,74
+Pulaski,Indian Creek,U.S. House,2,,Write-In,1,0,0,1
+Pulaski,Indian Creek,State Senate,5,REP,Ed Charbonneau,127,10,85,222
+Pulaski,Indian Creek,State Senate,5,DEM,Luke Bohm,19,20,31,70
+Pulaski,Indian Creek,State Representative,16,REP,Douglas L Gutwein,129,13,83,225
+Pulaski,Indian Creek,State Representative,16,DEM,Michael A Lovely,22,19,35,76
+Pulaski,Jefferson,Registered Voters,,,,,,,389
+Pulaski,Jefferson,Ballots Cast,,,,123,23,134,280
+Pulaski,Jefferson,President,,REP,Donald J Trump,107,13,100,220
+Pulaski,Jefferson,President,,DEM,Joseph R Biden,12,9,31,52
+Pulaski,Jefferson,President,,LIB,Jo Jorgensen,2,1,2,5
+Pulaski,Jefferson,President,,,Write-In,0,0,0,0
+Pulaski,Jefferson,Governor,,REP,Eric Holcomb,75,12,98,185
+Pulaski,Jefferson,Governor,,DEM,Woodrow (Woody) Myers,14,9,17,40
+Pulaski,Jefferson,Governor,,LIB,Donald G Rainwater II,32,1,16,49
+Pulaski,Jefferson,Attorney General,,REP,Todd Rokita,104,12,101,217
+Pulaski,Jefferson,Attorney General,,DEM,Jonathan Weinzapfel,17,9,27,53
+Pulaski,Jefferson,U.S. House,2,REP,Jackie Walorski,108,12,102,222
+Pulaski,Jefferson,U.S. House,2,DEM,Patricia (Pat) Hackett,13,10,30,53
+Pulaski,Jefferson,U.S. House,2,,Write-In,0,0,0,0
+Pulaski,Jefferson,State Senate,5,REP,Ed Charbonneau,105,12,106,223
+Pulaski,Jefferson,State Senate,5,DEM,Luke Bohm,17,10,27,54
+Pulaski,Jefferson,State Representative,16,REP,Douglas L Gutwein,101,15,105,221
+Pulaski,Jefferson,State Representative,16,DEM,Michael A Lovely,20,7,26,53
+Pulaski,Monroe I,Registered Voters,,,,,,,674
+Pulaski,Monroe I,Ballots Cast,,,,147,45,249,441
+Pulaski,Monroe I,President,,REP,Donald J Trump,114,20,166,300
+Pulaski,Monroe I,President,,DEM,Joseph R Biden,26,24,70,120
+Pulaski,Monroe I,President,,LIB,Jo Jorgensen,3,0,6,9
+Pulaski,Monroe I,President,,,Write-In,0,0,1,1
+Pulaski,Monroe I,Governor,,REP,Eric Holcomb,102,28,164,294
+Pulaski,Monroe I,Governor,,DEM,Woodrow (Woody) Myers,13,17,41,71
+Pulaski,Monroe I,Governor,,LIB,Donald G Rainwater II,29,0,35,64
+Pulaski,Monroe I,Attorney General,,REP,Todd Rokita,115,25,171,311
+Pulaski,Monroe I,Attorney General,,DEM,Jonathan Weinzapfel,25,19,63,107
+Pulaski,Monroe I,U.S. House,2,REP,Jackie Walorski,117,27,181,325
+Pulaski,Monroe I,U.S. House,2,DEM,Patricia (Pat) Hackett,26,18,60,104
+Pulaski,Monroe I,U.S. House,2,,Write-In,0,0,0,0
+Pulaski,Monroe I,State Senate,5,REP,Ed Charbonneau,119,25,170,314
+Pulaski,Monroe I,State Senate,5,DEM,Luke Bohm,23,19,65,107
+Pulaski,Monroe I,State Representative,16,REP,Douglas L Gutwein,114,23,181,318
+Pulaski,Monroe I,State Representative,16,DEM,Michael A Lovely,26,21,59,106
+Pulaski,Monroe II,Registered Voters,,,,,,,644
+Pulaski,Monroe II,Ballots Cast,,,,131,53,278,462
+Pulaski,Monroe II,President,,REP,Donald J Trump,97,29,161,287
+Pulaski,Monroe II,President,,DEM,Joseph R Biden,28,22,111,161
+Pulaski,Monroe II,President,,LIB,Jo Jorgensen,3,2,1,6
+Pulaski,Monroe II,President,,,Write-In,0,0,0,0
+Pulaski,Monroe II,Governor,,REP,Eric Holcomb,89,38,167,294
+Pulaski,Monroe II,Governor,,DEM,Woodrow (Woody) Myers,17,9,83,109
+Pulaski,Monroe II,Governor,,LIB,Donald G Rainwater II,21,5,21,47
+Pulaski,Monroe II,Attorney General,,REP,Todd Rokita,92,38,170,300
+Pulaski,Monroe II,Attorney General,,DEM,Jonathan Weinzapfel,27,13,97,137
+Pulaski,Monroe II,U.S. House,2,REP,Jackie Walorski,95,35,174,304
+Pulaski,Monroe II,U.S. House,2,DEM,Patricia (Pat) Hackett,28,13,100,141
+Pulaski,Monroe II,U.S. House,2,,Write-In,0,0,0,0
+Pulaski,Monroe II,State Senate,5,REP,Ed Charbonneau,92,31,178,301
+Pulaski,Monroe II,State Senate,5,DEM,Luke Bohm,29,18,93,140
+Pulaski,Monroe II,State Representative,16,REP,Douglas L Gutwein,95,36,171,302
+Pulaski,Monroe II,State Representative,16,DEM,Michael A Lovely,26,14,100,140
+Pulaski,Monroe III,Registered Voters,,,,,,,787
+Pulaski,Monroe III,Ballots Cast,,,,148,63,313,524
+Pulaski,Monroe III,President,,REP,Donald J Trump,117,25,208,350
+Pulaski,Monroe III,President,,DEM,Joseph R Biden,25,36,91,152
+Pulaski,Monroe III,President,,LIB,Jo Jorgensen,1,1,9,11
+Pulaski,Monroe III,President,,,Write-In,0,0,0,0
+Pulaski,Monroe III,Governor,,REP,Eric Holcomb,86,37,208,331
+Pulaski,Monroe III,Governor,,DEM,Woodrow (Woody) Myers,17,24,63,104
+Pulaski,Monroe III,Governor,,LIB,Donald G Rainwater II,40,2,36,78
+Pulaski,Monroe III,Attorney General,,REP,Todd Rokita,108,32,205,345
+Pulaski,Monroe III,Attorney General,,DEM,Jonathan Weinzapfel,27,27,82,136
+Pulaski,Monroe III,U.S. House,2,REP,Jackie Walorski,103,34,230,367
+Pulaski,Monroe III,U.S. House,2,DEM,Patricia (Pat) Hackett,36,28,79,143
+Pulaski,Monroe III,U.S. House,2,,Write-In,0,0,0,0
+Pulaski,Monroe III,State Senate,5,REP,Ed Charbonneau,103,31,214,348
+Pulaski,Monroe III,State Senate,5,DEM,Luke Bohm,32,27,88,147
+Pulaski,Monroe III,State Representative,16,REP,Douglas L Gutwein,109,40,230,379
+Pulaski,Monroe III,State Representative,16,DEM,Michael A Lovely,28,21,72,121
+Pulaski,Monroe IV,Registered Voters,,,,,,,675
+Pulaski,Monroe IV,Ballots Cast,,,,149,32,240,421
+Pulaski,Monroe IV,President,,REP,Donald J Trump,119,16,165,300
+Pulaski,Monroe IV,President,,DEM,Joseph R Biden,20,14,69,103
+Pulaski,Monroe IV,President,,LIB,Jo Jorgensen,6,1,5,12
+Pulaski,Monroe IV,President,,,Write-In,0,0,0,0
+Pulaski,Monroe IV,Governor,,REP,Eric Holcomb,101,22,154,277
+Pulaski,Monroe IV,Governor,,DEM,Woodrow (Woody) Myers,11,4,52,67
+Pulaski,Monroe IV,Governor,,LIB,Donald G Rainwater II,30,3,29,62
+Pulaski,Monroe IV,Attorney General,,REP,Todd Rokita,113,20,156,289
+Pulaski,Monroe IV,Attorney General,,DEM,Jonathan Weinzapfel,26,7,71,104
+Pulaski,Monroe IV,U.S. House,2,REP,Jackie Walorski,119,19,160,298
+Pulaski,Monroe IV,U.S. House,2,DEM,Patricia (Pat) Hackett,22,10,74,106
+Pulaski,Monroe IV,U.S. House,2,,Write-In,0,0,0,0
+Pulaski,Monroe IV,State Senate,5,REP,Ed Charbonneau,115,17,165,297
+Pulaski,Monroe IV,State Senate,5,DEM,Luke Bohm,22,11,69,102
+Pulaski,Monroe IV,State Representative,16,REP,Douglas L Gutwein,122,23,165,310
+Pulaski,Monroe IV,State Representative,16,DEM,Michael A Lovely,19,7,69,95
+Pulaski,Rich Grove,Registered Voters,,,,,,,574
+Pulaski,Rich Grove,Ballots Cast,,,,158,15,162,335
+Pulaski,Rich Grove,President,,REP,Donald J Trump,124,7,98,229
+Pulaski,Rich Grove,President,,DEM,Joseph R Biden,30,6,61,97
+Pulaski,Rich Grove,President,,LIB,Jo Jorgensen,3,0,0,3
+Pulaski,Rich Grove,President,,,Write-In,0,1,0,1
+Pulaski,Rich Grove,Governor,,REP,Eric Holcomb,103,12,100,215
+Pulaski,Rich Grove,Governor,,DEM,Woodrow (Woody) Myers,25,3,42,70
+Pulaski,Rich Grove,Governor,,LIB,Donald G Rainwater II,28,0,16,44
+Pulaski,Rich Grove,Attorney General,,REP,Todd Rokita,114,7,92,213
+Pulaski,Rich Grove,Attorney General,,DEM,Jonathan Weinzapfel,36,7,58,101
+Pulaski,Rich Grove,U.S. House,2,REP,Jackie Walorski,123,7,99,229
+Pulaski,Rich Grove,U.S. House,2,DEM,Patricia (Pat) Hackett,32,8,59,99
+Pulaski,Rich Grove,U.S. House,2,,Write-In,0,0,0,0
+Pulaski,Rich Grove,State Senate,5,REP,Ed Charbonneau,121,9,103,233
+Pulaski,Rich Grove,State Senate,5,DEM,Luke Bohm,30,6,52,88
+Pulaski,Rich Grove,State Representative,16,REP,Douglas L Gutwein,120,9,103,232
+Pulaski,Rich Grove,State Representative,16,DEM,Michael A Lovely,32,6,51,89
+Pulaski,Salem,Registered Voters,,,,,,,916
+Pulaski,Salem,Ballots Cast,,,,341,76,214,631
+Pulaski,Salem,President,,REP,Donald J Trump,288,49,173,510
+Pulaski,Salem,President,,DEM,Joseph R Biden,41,23,35,99
+Pulaski,Salem,President,,LIB,Jo Jorgensen,5,0,2,7
+Pulaski,Salem,President,,,Write-In,0,1,1,2
+Pulaski,Salem,Governor,,REP,Eric Holcomb,242,59,161,462
+Pulaski,Salem,Governor,,DEM,Woodrow (Woody) Myers,35,13,25,73
+Pulaski,Salem,Governor,,LIB,Donald G Rainwater II,54,3,25,82
+Pulaski,Salem,Attorney General,,REP,Todd Rokita,265,54,162,481
+Pulaski,Salem,Attorney General,,DEM,Jonathan Weinzapfel,53,20,40,113
+Pulaski,Salem,U.S. House,2,REP,Jackie Walorski,280,54,178,512
+Pulaski,Salem,U.S. House,2,DEM,Patricia (Pat) Hackett,52,21,31,104
+Pulaski,Salem,U.S. House,2,,Write-In,0,0,0,0
+Pulaski,Salem,State Senate,5,REP,Ed Charbonneau,277,54,169,500
+Pulaski,Salem,State Senate,5,DEM,Luke Bohm,49,17,36,102
+Pulaski,Salem,State Representative,16,REP,Douglas L Gutwein,268,59,167,494
+Pulaski,Salem,State Representative,16,DEM,Michael A Lovely,65,16,45,126
+Pulaski,Tippecanoe,Registered Voters,,,,,,,713
+Pulaski,Tippecanoe,Ballots Cast,,,,271,41,159,471
+Pulaski,Tippecanoe,President,,REP,Donald J Trump,210,15,104,329
+Pulaski,Tippecanoe,President,,DEM,Joseph R Biden,56,25,55,136
+Pulaski,Tippecanoe,President,,LIB,Jo Jorgensen,2,0,0,2
+Pulaski,Tippecanoe,President,,,Write-In,0,0,0,0
+Pulaski,Tippecanoe,Governor,,REP,Eric Holcomb,180,22,104,306
+Pulaski,Tippecanoe,Governor,,DEM,Woodrow (Woody) Myers,29,18,41,88
+Pulaski,Tippecanoe,Governor,,LIB,Donald G Rainwater II,52,0,10,62
+Pulaski,Tippecanoe,Attorney General,,REP,Todd Rokita,181,17,101,299
+Pulaski,Tippecanoe,Attorney General,,DEM,Jonathan Weinzapfel,61,21,51,133
+Pulaski,Tippecanoe,U.S. House,2,REP,Jackie Walorski,201,15,104,320
+Pulaski,Tippecanoe,U.S. House,2,DEM,Patricia (Pat) Hackett,63,23,52,138
+Pulaski,Tippecanoe,U.S. House,2,,Write-In,0,0,1,1
+Pulaski,Tippecanoe,State Senate,5,REP,Ed Charbonneau,191,16,104,311
+Pulaski,Tippecanoe,State Senate,5,DEM,Luke Bohm,62,21,51,134
+Pulaski,Tippecanoe,State Representative,16,REP,Douglas L Gutwein,192,16,111,319
+Pulaski,Tippecanoe,State Representative,16,DEM,Michael A Lovely,60,20,46,126
+Pulaski,Van Buren,Registered Voters,,,,,,,588
+Pulaski,Van Buren,Ballots Cast,,,,226,32,146,404
+Pulaski,Van Buren,President,,REP,Donald J Trump,177,13,105,295
+Pulaski,Van Buren,President,,DEM,Joseph R Biden,40,19,38,97
+Pulaski,Van Buren,President,,LIB,Jo Jorgensen,5,0,2,7
+Pulaski,Van Buren,President,,,Write-In,1,0,0,1
+Pulaski,Van Buren,Governor,,REP,Eric Holcomb,145,18,95,258
+Pulaski,Van Buren,Governor,,DEM,Woodrow (Woody) Myers,25,12,27,64
+Pulaski,Van Buren,Governor,,LIB,Donald G Rainwater II,54,1,23,78
+Pulaski,Van Buren,Attorney General,,REP,Todd Rokita,177,13,101,291
+Pulaski,Van Buren,Attorney General,,DEM,Jonathan Weinzapfel,33,16,38,87
+Pulaski,Van Buren,U.S. House,2,REP,Jackie Walorski,181,12,109,302
+Pulaski,Van Buren,U.S. House,2,DEM,Patricia (Pat) Hackett,38,18,33,89
+Pulaski,Van Buren,U.S. House,2,,Write-In,0,0,0,0
+Pulaski,Van Buren,State Senate,5,REP,Ed Charbonneau,173,14,109,296
+Pulaski,Van Buren,State Senate,5,DEM,Luke Bohm,39,15,34,88
+Pulaski,Van Buren,State Representative,16,REP,Douglas L Gutwein,190,13,106,309
+Pulaski,Van Buren,State Representative,16,DEM,Michael A Lovely,28,17,38,83
+Pulaski,White Post,Registered Voters,,,,,,,708
+Pulaski,White Post,Ballots Cast,,,,294,38,97,429
+Pulaski,White Post,President,,REP,Donald J Trump,228,21,73,322
+Pulaski,White Post,President,,DEM,Joseph R Biden,54,15,21,90
+Pulaski,White Post,President,,LIB,Jo Jorgensen,9,1,1,11
+Pulaski,White Post,President,,,Write-In,0,0,0,0
+Pulaski,White Post,Governor,,REP,Eric Holcomb,199,28,60,287
+Pulaski,White Post,Governor,,DEM,Woodrow (Woody) Myers,33,8,14,55
+Pulaski,White Post,Governor,,LIB,Donald G Rainwater II,60,1,20,81
+Pulaski,White Post,Attorney General,,REP,Todd Rokita,215,26,72,313
+Pulaski,White Post,Attorney General,,DEM,Jonathan Weinzapfel,66,12,19,97
+Pulaski,White Post,U.S. House,2,REP,Jackie Walorski,233,27,74,334
+Pulaski,White Post,U.S. House,2,DEM,Patricia (Pat) Hackett,54,11,21,86
+Pulaski,White Post,U.S. House,2,,Write-In,0,0,0,0
+Pulaski,White Post,State Senate,5,REP,Ed Charbonneau,227,24,74,325
+Pulaski,White Post,State Senate,5,DEM,Luke Bohm,57,14,21,92
+Pulaski,White Post,State Representative,16,REP,Douglas L Gutwein,226,26,65,317
+Pulaski,White Post,State Representative,16,DEM,Michael A Lovely,64,12,29,105
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,

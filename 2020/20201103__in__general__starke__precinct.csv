@@ -1,0 +1,401 @@
+county,precinct,office,district,party,candidate,election_day,absentee,early_voting,votes
+Starke,California 1,Registered Voters,,,,,,,786
+Starke,California 1,Ballots Cast,,,,215,63,232,510
+Starke,California 1,President,,REP,Donald J Trump,172,32,170,374
+Starke,California 1,President,,DEM,Joseph R Biden,37,28,57,122
+Starke,California 1,President,,LIB,Jo Jorgensen,3,0,1,4
+Starke,California 1,President,,,Write-In,0,0,0,0
+Starke,California 1,Governor,,REP,Eric Holcomb,159,39,164,362
+Starke,California 1,Governor,,DEM,Woodrow (Woody) Myers,21,17,50,88
+Starke,California 1,Governor,,LIB,Donald G Rainwater II,29,2,11,42
+Starke,California 1,Attorney General,,REP,Todd Rokita,166,33,159,358
+Starke,California 1,Attorney General,,DEM,Jonathan Weinzapfel,37,23,55,115
+Starke,California 1,U.S. House,2,REP,Jackie Walorski,175,37,169,381
+Starke,California 1,U.S. House,2,DEM,Patricia (Pat) Hackett,35,22,55,112
+Starke,California 1,U.S. House,2,,Write-In,0,0,0,0
+Starke,California 1,State Senate,5,REP,Ed Charbonneau,171,34,173,378
+Starke,California 1,State Senate,5,DEM,Luke Bohm,36,22,47,105
+Starke,California 1,State Representative,16,REP,Douglas L Gutwein,171,34,164,369
+Starke,California 1,State Representative,16,DEM,Michael A Lovely,35,22,54,111
+Starke,California 2,Registered Voters,,,,,,,842
+Starke,California 2,Ballots Cast,,,,282,67,210,559
+Starke,California 2,President,,REP,Donald J Trump,214,25,161,400
+Starke,California 2,President,,DEM,Joseph R Biden,55,41,41,137
+Starke,California 2,President,,LIB,Jo Jorgensen,8,0,4,12
+Starke,California 2,President,,,Write-In,0,0,0,0
+Starke,California 2,Governor,,REP,Eric Holcomb,173,32,146,351
+Starke,California 2,Governor,,DEM,Woodrow (Woody) Myers,46,33,35,114
+Starke,California 2,Governor,,LIB,Donald G Rainwater II,57,1,23,81
+Starke,California 2,Attorney General,,REP,Todd Rokita,197,26,157,380
+Starke,California 2,Attorney General,,DEM,Jonathan Weinzapfel,65,37,42,144
+Starke,California 2,U.S. House,2,REP,Jackie Walorski,214,23,159,396
+Starke,California 2,U.S. House,2,DEM,Patricia (Pat) Hackett,56,43,45,144
+Starke,California 2,U.S. House,2,,Write-In,0,0,0,0
+Starke,California 2,State Senate,5,REP,Ed Charbonneau,210,26,161,397
+Starke,California 2,State Senate,5,DEM,Luke Bohm,57,37,40,134
+Starke,California 2,State Representative,16,REP,Douglas L Gutwein,202,25,156,383
+Starke,California 2,State Representative,16,DEM,Michael A Lovely,62,36,45,143
+Starke,Center 1,Registered Voters,,,,,,,915
+Starke,Center 1,Ballots Cast,,,,235,34,197,466
+Starke,Center 1,President,,REP,Donald J Trump,186,20,132,338
+Starke,Center 1,President,,DEM,Joseph R Biden,40,14,59,113
+Starke,Center 1,President,,LIB,Jo Jorgensen,7,0,3,10
+Starke,Center 1,President,,,Write-In,2,0,0,2
+Starke,Center 1,Governor,,REP,Eric Holcomb,147,18,128,293
+Starke,Center 1,Governor,,DEM,Woodrow (Woody) Myers,42,13,40,95
+Starke,Center 1,Governor,,LIB,Donald G Rainwater II,38,3,17,58
+Starke,Center 1,Attorney General,,REP,Todd Rokita,161,11,117,289
+Starke,Center 1,Attorney General,,DEM,Jonathan Weinzapfel,54,18,63,135
+Starke,Center 1,U.S. House,2,REP,Jackie Walorski,179,18,125,322
+Starke,Center 1,U.S. House,2,DEM,Patricia (Pat) Hackett,47,16,63,126
+Starke,Center 1,U.S. House,2,,Write-In,0,0,0,0
+Starke,Center 1,State Senate,8,REP,Mike Bohacek,160,19,126,305
+Starke,Center 1,State Senate,8,DEM,Gary Davis,59,14,57,130
+Starke,Center 1,State Representative,20,REP,Jim Pressel,169,21,132,322
+Starke,Center 1,State Representative,20,DEM,Tim Gust,52,13,54,119
+Starke,Center 2,Registered Voters,,,,,,,552
+Starke,Center 2,Ballots Cast,,,,123,62,150,335
+Starke,Center 2,President,,REP,Donald J Trump,89,25,93,207
+Starke,Center 2,President,,DEM,Joseph R Biden,29,37,46,112
+Starke,Center 2,President,,LIB,Jo Jorgensen,4,0,3,7
+Starke,Center 2,President,,,Write-In,0,0,0,0
+Starke,Center 2,Governor,,REP,Eric Holcomb,84,30,94,208
+Starke,Center 2,Governor,,DEM,Woodrow (Woody) Myers,21,31,32,84
+Starke,Center 2,Governor,,LIB,Donald G Rainwater II,15,1,14,30
+Starke,Center 2,Attorney General,,REP,Todd Rokita,82,22,94,198
+Starke,Center 2,Attorney General,,DEM,Jonathan Weinzapfel,34,38,41,113
+Starke,Center 2,U.S. House,2,REP,Jackie Walorski,83,27,89,199
+Starke,Center 2,U.S. House,2,DEM,Patricia (Pat) Hackett,36,34,47,117
+Starke,Center 2,U.S. House,2,,Write-In,0,0,0,0
+Starke,Center 2,State Senate,8,REP,Mike Bohacek,84,22,90,196
+Starke,Center 2,State Senate,8,DEM,Gary Davis,33,37,44,114
+Starke,Center 2,State Representative,20,REP,Jim Pressel,91,25,102,218
+Starke,Center 2,State Representative,20,DEM,Tim Gust,26,36,34,96
+Starke,Center 3,Registered Voters,,,,,,,351
+Starke,Center 3,Ballots Cast,,,,88,9,44,141
+Starke,Center 3,President,,REP,Donald J Trump,71,3,34,108
+Starke,Center 3,President,,DEM,Joseph R Biden,15,4,8,27
+Starke,Center 3,President,,LIB,Jo Jorgensen,2,0,0,2
+Starke,Center 3,President,,,Write-In,0,0,0,0
+Starke,Center 3,Governor,,REP,Eric Holcomb,56,5,37,98
+Starke,Center 3,Governor,,DEM,Woodrow (Woody) Myers,14,3,5,22
+Starke,Center 3,Governor,,LIB,Donald G Rainwater II,15,1,2,18
+Starke,Center 3,Attorney General,,REP,Todd Rokita,58,6,34,98
+Starke,Center 3,Attorney General,,DEM,Jonathan Weinzapfel,27,3,9,39
+Starke,Center 3,U.S. House,2,REP,Jackie Walorski,66,5,34,105
+Starke,Center 3,U.S. House,2,DEM,Patricia (Pat) Hackett,22,4,10,36
+Starke,Center 3,U.S. House,2,,Write-In,0,0,0,0
+Starke,Center 3,State Senate,8,REP,Mike Bohacek,66,5,34,105
+Starke,Center 3,State Senate,8,DEM,Gary Davis,20,4,9,33
+Starke,Center 3,State Representative,20,REP,Jim Pressel,70,5,35,110
+Starke,Center 3,State Representative,20,DEM,Tim Gust,17,4,9,30
+Starke,Center 4,Registered Voters,,,,,,,829
+Starke,Center 4,Ballots Cast,,,,203,59,194,456
+Starke,Center 4,President,,REP,Donald J Trump,155,21,131,307
+Starke,Center 4,President,,DEM,Joseph R Biden,40,36,59,135
+Starke,Center 4,President,,LIB,Jo Jorgensen,5,0,2,7
+Starke,Center 4,President,,,Write-In,0,0,0,0
+Starke,Center 4,Governor,,REP,Eric Holcomb,132,31,120,283
+Starke,Center 4,Governor,,DEM,Woodrow (Woody) Myers,31,25,46,102
+Starke,Center 4,Governor,,LIB,Donald G Rainwater II,33,1,19,53
+Starke,Center 4,Attorney General,,REP,Todd Rokita,135,20,120,275
+Starke,Center 4,Attorney General,,DEM,Jonathan Weinzapfel,55,35,61,151
+Starke,Center 4,U.S. House,2,REP,Jackie Walorski,145,25,122,292
+Starke,Center 4,U.S. House,2,DEM,Patricia (Pat) Hackett,48,32,63,143
+Starke,Center 4,U.S. House,2,,Write-In,0,0,0,0
+Starke,Center 4,State Senate,8,REP,Mike Bohacek,141,20,120,281
+Starke,Center 4,State Senate,8,DEM,Gary Davis,50,35,58,143
+Starke,Center 4,State Representative,20,REP,Jim Pressel,145,22,128,295
+Starke,Center 4,State Representative,20,DEM,Tim Gust,46,32,54,132
+Starke,Center 5,Registered Voters,,,,,,,1267
+Starke,Center 5,Ballots Cast,,,,293,81,378,752
+Starke,Center 5,President,,REP,Donald J Trump,237,33,285,555
+Starke,Center 5,President,,DEM,Joseph R Biden,45,48,80,173
+Starke,Center 5,President,,LIB,Jo Jorgensen,9,0,5,14
+Starke,Center 5,President,,,Write-In,1,0,1,2
+Starke,Center 5,Governor,,REP,Eric Holcomb,202,39,267,508
+Starke,Center 5,Governor,,DEM,Woodrow (Woody) Myers,35,38,68,141
+Starke,Center 5,Governor,,LIB,Donald G Rainwater II,47,0,33,80
+Starke,Center 5,Attorney General,,REP,Todd Rokita,209,34,255,498
+Starke,Center 5,Attorney General,,DEM,Jonathan Weinzapfel,68,45,89,202
+Starke,Center 5,U.S. House,2,REP,Jackie Walorski,223,33,272,528
+Starke,Center 5,U.S. House,2,DEM,Patricia (Pat) Hackett,61,47,92,200
+Starke,Center 5,U.S. House,2,,Write-In,0,1,0,1
+Starke,Center 5,State Senate,8,REP,Mike Bohacek,224,33,273,530
+Starke,Center 5,State Senate,8,DEM,Gary Davis,61,48,80,189
+Starke,Center 5,State Representative,20,REP,Jim Pressel,230,34,284,548
+Starke,Center 5,State Representative,20,DEM,Tim Gust,54,47,77,178
+Starke,Center 6,Registered Voters,,,,,,,636
+Starke,Center 6,Ballots Cast,,,,172,47,187,406
+Starke,Center 6,President,,REP,Donald J Trump,148,20,128,296
+Starke,Center 6,President,,DEM,Joseph R Biden,20,26,54,100
+Starke,Center 6,President,,LIB,Jo Jorgensen,1,1,2,4
+Starke,Center 6,President,,,Write-In,1,0,1,2
+Starke,Center 6,Governor,,REP,Eric Holcomb,113,25,119,257
+Starke,Center 6,Governor,,DEM,Woodrow (Woody) Myers,18,18,45,81
+Starke,Center 6,Governor,,LIB,Donald G Rainwater II,36,4,20,60
+Starke,Center 6,Attorney General,,REP,Todd Rokita,132,20,116,268
+Starke,Center 6,Attorney General,,DEM,Jonathan Weinzapfel,28,22,54,104
+Starke,Center 6,U.S. House,2,REP,Jackie Walorski,138,19,124,281
+Starke,Center 6,U.S. House,2,DEM,Patricia (Pat) Hackett,27,27,58,112
+Starke,Center 6,U.S. House,2,,Write-In,0,0,0,0
+Starke,Center 6,State Senate,8,REP,Mike Bohacek,129,18,117,264
+Starke,Center 6,State Senate,8,DEM,Gary Davis,34,25,60,119
+Starke,Center 6,State Representative,20,REP,Jim Pressel,139,21,129,289
+Starke,Center 6,State Representative,20,DEM,Tim Gust,25,22,51,98
+Starke,Davis,Registered Voters,,,,,,,666
+Starke,Davis,Ballots Cast,,,,272,21,104,397
+Starke,Davis,President,,REP,Donald J Trump,207,9,80,296
+Starke,Davis,President,,DEM,Joseph R Biden,51,12,23,86
+Starke,Davis,President,,LIB,Jo Jorgensen,12,0,0,12
+Starke,Davis,President,,,Write-In,0,0,0,0
+Starke,Davis,Governor,,REP,Eric Holcomb,173,12,72,257
+Starke,Davis,Governor,,DEM,Woodrow (Woody) Myers,33,6,16,55
+Starke,Davis,Governor,,LIB,Donald G Rainwater II,57,2,12,71
+Starke,Davis,Attorney General,,REP,Todd Rokita,178,9,70,257
+Starke,Davis,Attorney General,,DEM,Jonathan Weinzapfel,68,11,21,100
+Starke,Davis,U.S. House,2,REP,Jackie Walorski,186,12,84,282
+Starke,Davis,U.S. House,2,DEM,Patricia (Pat) Hackett,74,9,19,102
+Starke,Davis,U.S. House,2,,Write-In,0,0,0,0
+Starke,Davis,State Senate,8,REP,Mike Bohacek,190,10,76,276
+Starke,Davis,State Senate,8,DEM,Gary Davis,64,9,20,93
+Starke,Davis,State Representative,20,REP,Jim Pressel,207,11,83,301
+Starke,Davis,State Representative,20,DEM,Tim Gust,50,10,17,77
+Starke,Jackson,Registered Voters,,,,,,,413
+Starke,Jackson,Ballots Cast,,,,107,21,129,257
+Starke,Jackson,President,,REP,Donald J Trump,94,6,102,202
+Starke,Jackson,President,,DEM,Joseph R Biden,10,15,24,49
+Starke,Jackson,President,,LIB,Jo Jorgensen,1,0,2,3
+Starke,Jackson,President,,,Write-In,0,0,0,0
+Starke,Jackson,Governor,,REP,Eric Holcomb,72,7,96,175
+Starke,Jackson,Governor,,DEM,Woodrow (Woody) Myers,13,12,16,41
+Starke,Jackson,Governor,,LIB,Donald G Rainwater II,18,0,14,32
+Starke,Jackson,Attorney General,,REP,Todd Rokita,82,7,97,186
+Starke,Jackson,Attorney General,,DEM,Jonathan Weinzapfel,14,14,24,52
+Starke,Jackson,U.S. House,2,REP,Jackie Walorski,88,5,96,189
+Starke,Jackson,U.S. House,2,DEM,Patricia (Pat) Hackett,14,16,26,56
+Starke,Jackson,U.S. House,2,,Write-In,0,0,0,0
+Starke,Jackson,State Senate,8,REP,Mike Bohacek,86,7,98,191
+Starke,Jackson,State Senate,8,DEM,Gary Davis,12,14,27,53
+Starke,Jackson,State Representative,20,REP,Jim Pressel,87,7,102,196
+Starke,Jackson,State Representative,20,DEM,Tim Gust,15,14,22,51
+Starke,North Bend,Registered Voters,,,,,,,1121
+Starke,North Bend,Ballots Cast,,,,294,82,308,684
+Starke,North Bend,President,,REP,Donald J Trump,239,34,210,483
+Starke,North Bend,President,,DEM,Joseph R Biden,42,46,90,178
+Starke,North Bend,President,,LIB,Jo Jorgensen,9,0,6,15
+Starke,North Bend,President,,,Write-In,1,0,1,2
+Starke,North Bend,Governor,,REP,Eric Holcomb,196,46,208,450
+Starke,North Bend,Governor,,DEM,Woodrow (Woody) Myers,36,33,67,136
+Starke,North Bend,Governor,,LIB,Donald G Rainwater II,55,1,26,82
+Starke,North Bend,Attorney General,,REP,Todd Rokita,218,31,203,452
+Starke,North Bend,Attorney General,,DEM,Jonathan Weinzapfel,55,48,84,185
+Starke,North Bend,U.S. House,2,REP,Jackie Walorski,228,34,210,472
+Starke,North Bend,U.S. House,2,DEM,Patricia (Pat) Hackett,57,48,89,194
+Starke,North Bend,U.S. House,2,,Write-In,0,0,1,1
+Starke,North Bend,State Senate,5,REP,Ed Charbonneau,224,39,218,481
+Starke,North Bend,State Senate,5,DEM,Luke Bohm,51,42,79,172
+Starke,North Bend,State Representative,16,REP,Douglas L Gutwein,222,36,212,470
+Starke,North Bend,State Representative,16,DEM,Michael A Lovely,54,43,83,180
+Starke,Oregon 1,Registered Voters,,,,,,,1033
+Starke,Oregon 1,Ballots Cast,,,,316,61,257,634
+Starke,Oregon 1,President,,REP,Donald J Trump,265,31,169,465
+Starke,Oregon 1,President,,DEM,Joseph R Biden,40,30,81,151
+Starke,Oregon 1,President,,LIB,Jo Jorgensen,10,0,4,14
+Starke,Oregon 1,President,,,Write-In,0,0,1,1
+Starke,Oregon 1,Governor,,REP,Eric Holcomb,201,37,158,396
+Starke,Oregon 1,Governor,,DEM,Woodrow (Woody) Myers,39,20,64,123
+Starke,Oregon 1,Governor,,LIB,Donald G Rainwater II,69,3,30,102
+Starke,Oregon 1,Attorney General,,REP,Todd Rokita,234,31,161,426
+Starke,Oregon 1,Attorney General,,DEM,Jonathan Weinzapfel,72,26,78,176
+Starke,Oregon 1,U.S. House,2,REP,Jackie Walorski,250,37,172,459
+Starke,Oregon 1,U.S. House,2,DEM,Patricia (Pat) Hackett,56,24,79,159
+Starke,Oregon 1,U.S. House,2,,Write-In,1,0,0,1
+Starke,Oregon 1,State Senate,8,REP,Mike Bohacek,256,33,158,447
+Starke,Oregon 1,State Senate,8,DEM,Gary Davis,51,24,81,156
+Starke,Oregon 1,State Representative,20,REP,Jim Pressel,263,39,167,469
+Starke,Oregon 1,State Representative,20,DEM,Tim Gust,43,21,74,138
+Starke,Oregon 2,Registered Voters,,,,,,,932
+Starke,Oregon 2,Ballots Cast,,,,260,65,267,592
+Starke,Oregon 2,President,,REP,Donald J Trump,199,19,180,398
+Starke,Oregon 2,President,,DEM,Joseph R Biden,56,44,73,173
+Starke,Oregon 2,President,,LIB,Jo Jorgensen,3,0,7,10
+Starke,Oregon 2,President,,,Write-In,0,0,3,3
+Starke,Oregon 2,Governor,,REP,Eric Holcomb,172,35,187,394
+Starke,Oregon 2,Governor,,DEM,Woodrow (Woody) Myers,35,28,56,119
+Starke,Oregon 2,Governor,,LIB,Donald G Rainwater II,50,0,21,71
+Starke,Oregon 2,Attorney General,,REP,Todd Rokita,171,26,182,379
+Starke,Oregon 2,Attorney General,,DEM,Jonathan Weinzapfel,75,36,76,187
+Starke,Oregon 2,U.S. House,2,REP,Jackie Walorski,191,25,172,388
+Starke,Oregon 2,U.S. House,2,DEM,Patricia (Pat) Hackett,66,38,90,194
+Starke,Oregon 2,U.S. House,2,,Write-In,1,0,0,1
+Starke,Oregon 2,State Senate,8,REP,Mike Bohacek,194,24,177,395
+Starke,Oregon 2,State Senate,8,DEM,Gary Davis,58,39,83,180
+Starke,Oregon 2,State Representative,20,REP,Jim Pressel,199,25,194,418
+Starke,Oregon 2,State Representative,20,DEM,Tim Gust,54,38,66,158
+Starke,Oregon 3,Registered Voters,,,,,,,520
+Starke,Oregon 3,Ballots Cast,,,,188,34,140,362
+Starke,Oregon 3,President,,REP,Donald J Trump,161,14,101,276
+Starke,Oregon 3,President,,DEM,Joseph R Biden,22,18,35,75
+Starke,Oregon 3,President,,LIB,Jo Jorgensen,2,1,2,5
+Starke,Oregon 3,President,,,Write-In,1,0,0,1
+Starke,Oregon 3,Governor,,REP,Eric Holcomb,125,18,94,237
+Starke,Oregon 3,Governor,,DEM,Woodrow (Woody) Myers,18,10,28,56
+Starke,Oregon 3,Governor,,LIB,Donald G Rainwater II,43,4,15,62
+Starke,Oregon 3,Attorney General,,REP,Todd Rokita,148,14,93,255
+Starke,Oregon 3,Attorney General,,DEM,Jonathan Weinzapfel,25,19,37,81
+Starke,Oregon 3,U.S. House,2,REP,Jackie Walorski,152,12,98,262
+Starke,Oregon 3,U.S. House,2,DEM,Patricia (Pat) Hackett,32,21,40,93
+Starke,Oregon 3,U.S. House,2,,Write-In,0,0,0,0
+Starke,Oregon 3,State Senate,8,REP,Mike Bohacek,152,15,101,268
+Starke,Oregon 3,State Senate,8,DEM,Gary Davis,26,15,33,74
+Starke,Oregon 3,State Representative,20,REP,Jim Pressel,156,16,102,274
+Starke,Oregon 3,State Representative,20,DEM,Tim Gust,24,14,33,71
+Starke,Railroad,Registered Voters,,,,,,,985
+Starke,Railroad,Ballots Cast,,,,443,70,158,671
+Starke,Railroad,President,,REP,Donald J Trump,358,19,103,480
+Starke,Railroad,President,,DEM,Joseph R Biden,72,46,51,169
+Starke,Railroad,President,,LIB,Jo Jorgensen,6,0,1,7
+Starke,Railroad,President,,,Write-In,0,0,0,0
+Starke,Railroad,Governor,,REP,Eric Holcomb,279,26,107,412
+Starke,Railroad,Governor,,DEM,Woodrow (Woody) Myers,59,37,37,133
+Starke,Railroad,Governor,,LIB,Donald G Rainwater II,98,3,10,111
+Starke,Railroad,Attorney General,,REP,Todd Rokita,329,19,101,449
+Starke,Railroad,Attorney General,,DEM,Jonathan Weinzapfel,94,46,50,190
+Starke,Railroad,U.S. House,2,REP,Jackie Walorski,333,26,103,462
+Starke,Railroad,U.S. House,2,DEM,Patricia (Pat) Hackett,93,40,48,181
+Starke,Railroad,U.S. House,2,,Write-In,0,0,0,0
+Starke,Railroad,State Senate,5,REP,Ed Charbonneau,346,28,107,481
+Starke,Railroad,State Senate,5,DEM,Luke Bohm,82,38,45,165
+Starke,Railroad,State Representative,20,REP,Jim Pressel,347,26,109,482
+Starke,Railroad,State Representative,20,DEM,Tim Gust,76,40,43,159
+Starke,Washington 1,Registered Voters,,,,,,,886
+Starke,Washington 1,Ballots Cast,,,,300,54,181,535
+Starke,Washington 1,President,,REP,Donald J Trump,247,25,112,384
+Starke,Washington 1,President,,DEM,Joseph R Biden,48,26,64,138
+Starke,Washington 1,President,,LIB,Jo Jorgensen,3,2,4,9
+Starke,Washington 1,President,,,Write-In,0,0,0,0
+Starke,Washington 1,Governor,,REP,Eric Holcomb,189,27,101,317
+Starke,Washington 1,Governor,,DEM,Woodrow (Woody) Myers,36,21,52,109
+Starke,Washington 1,Governor,,LIB,Donald G Rainwater II,66,5,23,94
+Starke,Washington 1,Attorney General,,REP,Todd Rokita,214,22,109,345
+Starke,Washington 1,Attorney General,,DEM,Jonathan Weinzapfel,57,29,64,150
+Starke,Washington 1,U.S. House,2,REP,Jackie Walorski,226,25,113,364
+Starke,Washington 1,U.S. House,2,DEM,Patricia (Pat) Hackett,60,28,66,154
+Starke,Washington 1,U.S. House,2,,Write-In,0,0,0,0
+Starke,Washington 1,State Senate,8,REP,Mike Bohacek,225,24,114,363
+Starke,Washington 1,State Senate,8,DEM,Gary Davis,56,29,62,147
+Starke,Washington 1,State Representative,20,REP,Jim Pressel,239,26,116,381
+Starke,Washington 1,State Representative,20,DEM,Tim Gust,46,27,61,134
+Starke,Washington 2,Registered Voters,,,,,,,1215
+Starke,Washington 2,Ballots Cast,,,,367,66,299,732
+Starke,Washington 2,President,,REP,Donald J Trump,301,31,215,547
+Starke,Washington 2,President,,DEM,Joseph R Biden,58,32,76,166
+Starke,Washington 2,President,,LIB,Jo Jorgensen,5,1,1,7
+Starke,Washington 2,President,,,Write-In,0,0,1,1
+Starke,Washington 2,Governor,,REP,Eric Holcomb,260,34,193,487
+Starke,Washington 2,Governor,,DEM,Woodrow (Woody) Myers,42,30,56,128
+Starke,Washington 2,Governor,,LIB,Donald G Rainwater II,59,1,47,107
+Starke,Washington 2,Attorney General,,REP,Todd Rokita,268,32,206,506
+Starke,Washington 2,Attorney General,,DEM,Jonathan Weinzapfel,72,33,77,182
+Starke,Washington 2,U.S. House,2,REP,Jackie Walorski,293,33,213,539
+Starke,Washington 2,U.S. House,2,DEM,Patricia (Pat) Hackett,60,31,78,169
+Starke,Washington 2,U.S. House,2,,Write-In,0,0,0,0
+Starke,Washington 2,State Senate,8,REP,Mike Bohacek,279,27,206,512
+Starke,Washington 2,State Senate,8,DEM,Gary Davis,66,34,74,174
+Starke,Washington 2,State Representative,16,REP,Douglas L Gutwein,279,29,214,522
+Starke,Washington 2,State Representative,16,DEM,Michael A Lovely,64,35,70,169
+Starke,Wayne 1,Registered Voters,,,,,,,728
+Starke,Wayne 1,Ballots Cast,,,,266,29,168,463
+Starke,Wayne 1,President,,REP,Donald J Trump,197,9,97,303
+Starke,Wayne 1,President,,DEM,Joseph R Biden,55,19,70,144
+Starke,Wayne 1,President,,LIB,Jo Jorgensen,6,1,1,8
+Starke,Wayne 1,President,,,Write-In,3,0,0,3
+Starke,Wayne 1,Governor,,REP,Eric Holcomb,177,10,112,299
+Starke,Wayne 1,Governor,,DEM,Woodrow (Woody) Myers,42,18,42,102
+Starke,Wayne 1,Governor,,LIB,Donald G Rainwater II,41,0,13,54
+Starke,Wayne 1,Attorney General,,REP,Todd Rokita,178,12,99,289
+Starke,Wayne 1,Attorney General,,DEM,Jonathan Weinzapfel,70,15,58,143
+Starke,Wayne 1,U.S. House,2,REP,Jackie Walorski,186,9,106,301
+Starke,Wayne 1,U.S. House,2,DEM,Patricia (Pat) Hackett,71,18,61,150
+Starke,Wayne 1,U.S. House,2,,Write-In,1,0,0,1
+Starke,Wayne 1,State Senate,5,REP,Ed Charbonneau,194,10,109,313
+Starke,Wayne 1,State Senate,5,DEM,Luke Bohm,63,16,55,134
+Starke,Wayne 1,State Representative,16,REP,Douglas L Gutwein,198,10,103,311
+Starke,Wayne 1,State Representative,16,DEM,Michael A Lovely,56,17,58,131
+Starke,Wayne 2,Registered Voters,,,,,,,636
+Starke,Wayne 2,Ballots Cast,,,,219,27,105,351
+Starke,Wayne 2,President,,REP,Donald J Trump,164,10,64,238
+Starke,Wayne 2,President,,DEM,Joseph R Biden,49,16,38,103
+Starke,Wayne 2,President,,LIB,Jo Jorgensen,3,0,1,4
+Starke,Wayne 2,President,,,Write-In,1,0,0,1
+Starke,Wayne 2,Governor,,REP,Eric Holcomb,144,15,62,221
+Starke,Wayne 2,Governor,,DEM,Woodrow (Woody) Myers,32,11,32,75
+Starke,Wayne 2,Governor,,LIB,Donald G Rainwater II,36,0,10,48
+Starke,Wayne 2,Attorney General,,REP,Todd Rokita,149,12,62,223
+Starke,Wayne 2,Attorney General,,DEM,Jonathan Weinzapfel,55,14,35,104
+Starke,Wayne 2,U.S. House,2,REP,Jackie Walorski,160,16,63,239
+Starke,Wayne 2,U.S. House,2,DEM,Patricia (Pat) Hackett,55,11,38,104
+Starke,Wayne 2,U.S. House,2,,Write-In,0,0,0,0
+Starke,Wayne 2,State Senate,5,REP,Ed Charbonneau,166,14,66,246
+Starke,Wayne 2,State Senate,5,DEM,Luke Bohm,46,13,31,90
+Starke,Wayne 2,State Representative,16,REP,Douglas L Gutwein,159,12,64,235
+Starke,Wayne 2,State Representative,16,DEM,Michael A Lovely,49,14,33,96
+Starke,Wayne 3,Registered Voters,,,,,,,1063
+Starke,Wayne 3,Ballots Cast,,,,314,47,235,596
+Starke,Wayne 3,President,,REP,Donald J Trump,252,14,167,433
+Starke,Wayne 3,President,,DEM,Joseph R Biden,55,30,61,146
+Starke,Wayne 3,President,,LIB,Jo Jorgensen,4,2,2,8
+Starke,Wayne 3,President,,,Write-In,1,0,0,1
+Starke,Wayne 3,Governor,,REP,Eric Holcomb,205,19,151,375
+Starke,Wayne 3,Governor,,DEM,Woodrow (Woody) Myers,46,26,44,116
+Starke,Wayne 3,Governor,,LIB,Donald G Rainwater II,56,2,33,91
+Starke,Wayne 3,Attorney General,,REP,Todd Rokita,222,13,145,380
+Starke,Wayne 3,Attorney General,,DEM,Jonathan Weinzapfel,62,33,70,165
+Starke,Wayne 3,U.S. House,2,REP,Jackie Walorski,240,18,157,415
+Starke,Wayne 3,U.S. House,2,DEM,Patricia (Pat) Hackett,60,29,66,155
+Starke,Wayne 3,U.S. House,2,,Write-In,0,0,0,0
+Starke,Wayne 3,State Senate,5,REP,Ed Charbonneau,246,17,164,427
+Starke,Wayne 3,State Senate,5,DEM,Luke Bohm,52,30,58,140
+Starke,Wayne 3,State Representative,16,REP,Douglas L Gutwein,234,15,164,413
+Starke,Wayne 3,State Representative,16,DEM,Michael A Lovely,58,32,60,150
+Starke,Wayne 4,Registered Voters,,,,,,,851
+Starke,Wayne 4,Ballots Cast,,,,297,48,204,549
+Starke,Wayne 4,President,,REP,Donald J Trump,241,16,119,376
+Starke,Wayne 4,President,,DEM,Joseph R Biden,45,29,79,153
+Starke,Wayne 4,President,,LIB,Jo Jorgensen,10,1,1,12
+Starke,Wayne 4,President,,,Write-In,0,0,0,0
+Starke,Wayne 4,Governor,,REP,Eric Holcomb,197,21,132,350
+Starke,Wayne 4,Governor,,DEM,Woodrow (Woody) Myers,27,25,54,106
+Starke,Wayne 4,Governor,,LIB,Donald G Rainwater II,68,2,12,82
+Starke,Wayne 4,Attorney General,,REP,Todd Rokita,214,18,118,350
+Starke,Wayne 4,Attorney General,,DEM,Jonathan Weinzapfel,58,29,72,159
+Starke,Wayne 4,U.S. House,2,REP,Jackie Walorski,222,19,127,368
+Starke,Wayne 4,U.S. House,2,DEM,Patricia (Pat) Hackett,59,28,70,157
+Starke,Wayne 4,U.S. House,2,,Write-In,1,0,0,1
+Starke,Wayne 4,State Senate,5,REP,Ed Charbonneau,225,21,123,369
+Starke,Wayne 4,State Senate,5,DEM,Luke Bohm,55,27,72,154
+Starke,Wayne 4,State Representative,16,REP,Douglas L Gutwein,232,20,121,373
+Starke,Wayne 4,State Representative,16,DEM,Michael A Lovely,49,28,71,148
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,

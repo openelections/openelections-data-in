@@ -1,0 +1,1525 @@
+county,precinct,office,district,party,candidate,election_day,absentee,early_voting,votes
+LaPorte,Cass,Registered Voters,,,,,,,878
+LaPorte,Cass,Ballots Cast,,,,202,60,389,651
+LaPorte,Cass,President,,DEM,Joseph R Biden,38,36,119,193
+LaPorte,Cass,President,,REP,Donald J Trump,153,22,263,438
+LaPorte,Cass,President,,LIB,Jo Jorgensen,8,1,4,13
+LaPorte,Cass,President,,,Write-In,0,0,1,1
+LaPorte,Cass,Governor,,DEM,Woodrow (Woody) Myers,27,30,92,149
+LaPorte,Cass,Governor,,REP,Eric Holcomb,130,25,229,384
+LaPorte,Cass,Governor,,LIB,Donald G Rainwater II,37,1,58,96
+LaPorte,Cass,Attorney General,,DEM,Jonathan Weinzapfel,37,33,116,186
+LaPorte,Cass,Attorney General,,REP,Todd Rokita,147,23,248,418
+LaPorte,Cass,U.S. House,1,DEM,Frank J Mrvan,39,34,118,191
+LaPorte,Cass,U.S. House,1,REP,Mark Leyva,141,19,233,393
+LaPorte,Cass,U.S. House,1,LIB,Michael Strauss,9,2,21,32
+LaPorte,Cass,U.S. House,1,,Write-In,0,0,0,0
+LaPorte,Cass,State Senator,5,DEM,Luke Bohm,34,32,111,177
+LaPorte,Cass,State Senator,5,REP,Ed Charbonneau,158,24,262,444
+LaPorte,Cass,State Representative,20,DEM,Tim Gust,32,29,100,161
+LaPorte,Cass,State Representative,20,REP,Jim Pressel,162,28,274,464
+LaPorte,Center 1,Registered Voters,,,,,,,1304
+LaPorte,Center 1,Ballots Cast,,,,403,153,390,946
+LaPorte,Center 1,President,,DEM,Joseph R Biden,97,106,180,383
+LaPorte,Center 1,President,,REP,Donald J Trump,291,43,202,536
+LaPorte,Center 1,President,,LIB,Jo Jorgensen,13,4,5,22
+LaPorte,Center 1,President,,,Write-In,0,0,0,0
+LaPorte,Center 1,Governor,,DEM,Woodrow (Woody) Myers,75,73,143,291
+LaPorte,Center 1,Governor,,REP,Eric Holcomb,275,76,216,567
+LaPorte,Center 1,Governor,,LIB,Donald G Rainwater II,45,3,21,69
+LaPorte,Center 1,Attorney General,,DEM,Jonathan Weinzapfel,107,94,166,367
+LaPorte,Center 1,Attorney General,,REP,Todd Rokita,267,54,210,531
+LaPorte,Center 1,State Senator,8,DEM,Gary Davis,104,85,170,359
+LaPorte,Center 1,State Senator,8,REP,Mike Bohacek,285,65,210,560
+LaPorte,Center 1,State Representative,20,DEM,Tim Gust,87,77,158,322
+LaPorte,Center 1,State Representative,20,REP,Jim Pressel,304,75,224,603
+LaPorte,Center 2,Registered Voters,,,,,,,1383
+LaPorte,Center 2,Ballots Cast,,,,322,130,60,1012
+LaPorte,Center 2,President,,DEM,Joseph R Biden,89,85,237,411
+LaPorte,Center 2,President,,REP,Donald J Trump,224,42,311,577
+LaPorte,Center 2,President,,LIB,Jo Jorgensen,8,2,2,12
+LaPorte,Center 2,President,,,Write-In,0,0,0,0
+LaPorte,Center 2,Governor,,DEM,Woodrow (Woody) Myers,70,62,185,317
+LaPorte,Center 2,Governor,,REP,Eric Holcomb,206,62,344,612
+LaPorte,Center 2,Governor,,LIB,Donald G Rainwater II,38,1,21,60
+LaPorte,Center 2,Attorney General,,DEM,Jonathan Weinzapfel,94,74,225,393
+LaPorte,Center 2,Attorney General,,REP,Todd Rokita,208,51,312,571
+LaPorte,Center 2,State Senator,8,DEM,Gary Davis,90,71,206,367
+LaPorte,Center 2,State Senator,8,REP,Mike Bohacek,220,52,336,608
+LaPorte,Center 2,State Representative,20,DEM,Tim Gust,72,60,196,328
+LaPorte,Center 2,State Representative,20,REP,Jim Pressel,240,64,346,650
+LaPorte,Center 3,Registered Voters,,,,,,,1077
+LaPorte,Center 3,Ballots Cast,,,,268,127,395,790
+LaPorte,Center 3,President,,DEM,Joseph R Biden,79,77,178,334
+LaPorte,Center 3,President,,REP,Donald J Trump,183,47,210,440
+LaPorte,Center 3,President,,LIB,Jo Jorgensen,4,0,4,8
+LaPorte,Center 3,President,,,Write-In,1,0,2,3
+LaPorte,Center 3,Governor,,DEM,Woodrow (Woody) Myers,64,60,136,260
+LaPorte,Center 3,Governor,,REP,Eric Holcomb,173,59,221,453
+LaPorte,Center 3,Governor,,LIB,Donald G Rainwater II,28,1,24,53
+LaPorte,Center 3,Attorney General,,DEM,Jonathan Weinzapfel,84,76,166,326
+LaPorte,Center 3,Attorney General,,REP,Todd Rokita,168,42,205,415
+LaPorte,Center 3,State Senator,8,DEM,Gary Davis,77,71,154,302
+LaPorte,Center 3,State Senator,8,REP,Mike Bohacek,188,49,233,470
+LaPorte,Center 3,State Representative,20,DEM,Tim Gust,63,62,156,281
+LaPorte,Center 3,State Representative,20,REP,Jim Pressel,200,58,231,489
+LaPorte,Center 4,Registered Voters,,,,,,,1058
+LaPorte,Center 4,Ballots Cast,,,,259,112,417,788
+LaPorte,Center 4,President,,DEM,Joseph R Biden,64,76,173,313
+LaPorte,Center 4,President,,REP,Donald J Trump,188,31,237,456
+LaPorte,Center 4,President,,LIB,Jo Jorgensen,4,2,4,10
+LaPorte,Center 4,President,,,Write-In,0,0,0,0
+LaPorte,Center 4,Governor,,DEM,Woodrow (Woody) Myers,46,62,145,253
+LaPorte,Center 4,Governor,,REP,Eric Holcomb,179,45,241,465
+LaPorte,Center 4,Governor,,LIB,Donald G Rainwater II,27,2,20,49
+LaPorte,Center 4,Attorney General,,DEM,Jonathan Weinzapfel,63,63,179,305
+LaPorte,Center 4,Attorney General,,REP,Todd Rokita,176,40,222,438
+LaPorte,Center 4,State Senator,8,DEM,Gary Davis,60,61,171,292
+LaPorte,Center 4,State Senator,8,REP,Mike Bohacek,187,43,231,461
+LaPorte,Center 4,State Representative,20,DEM,Tim Gust,51,55,158,264
+LaPorte,Center 4,State Representative,20,REP,Jim Pressel,199,49,248,496
+LaPorte,Center 5,Registered Voters,,,,,,,1167
+LaPorte,Center 5,Ballots Cast,,,,310,141,395,846
+LaPorte,Center 5,President,,DEM,Joseph R Biden,82,97,173,352
+LaPorte,Center 5,President,,REP,Donald J Trump,218,43,217,478
+LaPorte,Center 5,President,,LIB,Jo Jorgensen,7,0,2,9
+LaPorte,Center 5,President,,,Write-In,1,0,0,1
+LaPorte,Center 5,Governor,,DEM,Woodrow (Woody) Myers,61,73,129,263
+LaPorte,Center 5,Governor,,REP,Eric Holcomb,212,61,235,508
+LaPorte,Center 5,Governor,,LIB,Donald G Rainwater II,32,2,20,54
+LaPorte,Center 5,Attorney General,,DEM,Jonathan Weinzapfel,78,80,159,317
+LaPorte,Center 5,Attorney General,,REP,Todd Rokita,212,56,221,489
+LaPorte,Center 5,State Senator,8,DEM,Gary Davis,86,81,149,316
+LaPorte,Center 5,State Senator,8,REP,Mike Bohacek,216,55,237,508
+LaPorte,Center 5,State Representative,20,DEM,Tim Gust,71,67,129,267
+LaPorte,Center 5,State Representative,20,REP,Jim Pressel,231,67,260,558
+LaPorte,Clinton,Registered Voters,,,,,,,876
+LaPorte,Clinton,Ballots Cast,,,,298,80,276,654
+LaPorte,Clinton,President,,DEM,Joseph R Biden,54,38,91,183
+LaPorte,Clinton,President,,REP,Donald J Trump,235,39,177,451
+LaPorte,Clinton,President,,LIB,Jo Jorgensen,9,3,5,17
+LaPorte,Clinton,President,,,Write-In,0,0,1,1
+LaPorte,Clinton,Governor,,DEM,Woodrow (Woody) Myers,44,31,66,141
+LaPorte,Clinton,Governor,,REP,Eric Holcomb,197,44,160,401
+LaPorte,Clinton,Governor,,LIB,Donald G Rainwater II,53,4,45,102
+LaPorte,Clinton,Attorney General,,DEM,Jonathan Weinzapfel,68,36,83,187
+LaPorte,Clinton,Attorney General,,REP,Todd Rokita,212,40,183,435
+LaPorte,Clinton,U.S. House,1,DEM,Frank J Mrvan,56,35,88,179
+LaPorte,Clinton,U.S. House,1,REP,Mark Leyva,221,36,165,422
+LaPorte,Clinton,U.S. House,1,LIB,Michael Strauss,12,6,15,33
+LaPorte,Clinton,U.S. House,1,,Write-In,0,0,0,0
+LaPorte,Clinton,State Senator,5,DEM,Luke Bohm,49,35,75,159
+LaPorte,Clinton,State Senator,5,REP,Ed Charbonneau,243,43,194,480
+LaPorte,Clinton,State Representative,9,DEM,Patricia A (Pat) Boy,64,38,100,202
+LaPorte,Clinton,State Representative,9,REP,Dion Bergeron,221,39,165,425
+LaPorte,Coolspring 1,Registered Voters,,,,,,,1241
+LaPorte,Coolspring 1,Ballots Cast,,,,290,111,532,933
+LaPorte,Coolspring 1,President,,DEM,Joseph R Biden,86,90,217,393
+LaPorte,Coolspring 1,President,,REP,Donald J Trump,196,20,302,518
+LaPorte,Coolspring 1,President,,LIB,Jo Jorgensen,7,0,4,11
+LaPorte,Coolspring 1,President,,,Write-In,0,0,4,4
+LaPorte,Coolspring 1,Governor,,DEM,Woodrow (Woody) Myers,70,66,180,316
+LaPorte,Coolspring 1,Governor,,REP,Eric Holcomb,166,38,309,513
+LaPorte,Coolspring 1,Governor,,LIB,Donald G Rainwater II,45,2,32,79
+LaPorte,Coolspring 1,Attorney General,,DEM,Jonathan Weinzapfel,88,76,214,378
+LaPorte,Coolspring 1,Attorney General,,REP,Todd Rokita,181,31,297,509
+LaPorte,Coolspring 1,U.S. House,1,DEM,Frank J Mrvan,88,84,210,382
+LaPorte,Coolspring 1,U.S. House,1,REP,Mark Leyva,172,21,285,478
+LaPorte,Coolspring 1,U.S. House,1,LIB,Michael Strauss,18,1,15,34
+LaPorte,Coolspring 1,U.S. House,1,,Write-In,0,0,0,0
+LaPorte,Coolspring 1,State Representative,9,DEM,Patricia A (Pat) Boy,94,88,244,426
+LaPorte,Coolspring 1,State Representative,9,REP,Dion Bergeron,180,17,276,473
+LaPorte,Coolspring 2,Registered Voters,,,,,,,1083
+LaPorte,Coolspring 2,Ballots Cast,,,,344,135,299,778
+LaPorte,Coolspring 2,President,,DEM,Joseph R Biden,71,107,122,300
+LaPorte,Coolspring 2,President,,REP,Donald J Trump,262,28,169,459
+LaPorte,Coolspring 2,President,,LIB,Jo Jorgensen,9,0,2,11
+LaPorte,Coolspring 2,President,,,Write-In,1,0,1,2
+LaPorte,Coolspring 2,Governor,,DEM,Woodrow (Woody) Myers,56,80,92,228
+LaPorte,Coolspring 2,Governor,,REP,Eric Holcomb,236,49,186,471
+LaPorte,Coolspring 2,Governor,,LIB,Donald G Rainwater II,44,1,13,58
+LaPorte,Coolspring 2,Attorney General,,DEM,Jonathan Weinzapfel,81,96,122,299
+LaPorte,Coolspring 2,Attorney General,,REP,Todd Rokita,243,33,165,441
+LaPorte,Coolspring 2,U.S. House,1,DEM,Frank J Mrvan,81,101,118,300
+LaPorte,Coolspring 2,U.S. House,1,REP,Mark Leyva,230,30,161,421
+LaPorte,Coolspring 2,U.S. House,1,LIB,Michael Strauss,22,1,9,32
+LaPorte,Coolspring 2,U.S. House,1,,Write-In,1,0,0,1
+LaPorte,Coolspring 2,State Representative,9,DEM,Patricia A (Pat) Boy,110,108,136,354
+LaPorte,Coolspring 2,State Representative,9,REP,Dion Bergeron,227,22,153,402
+LaPorte,Coolspring 3,Registered Voters,,,,,,,989
+LaPorte,Coolspring 3,Ballots Cast,,,,174,123,374,671
+LaPorte,Coolspring 3,President,,DEM,Joseph R Biden,47,87,171,305
+LaPorte,Coolspring 3,President,,REP,Donald J Trump,120,34,195,349
+LaPorte,Coolspring 3,President,,LIB,Jo Jorgensen,6,1,3,10
+LaPorte,Coolspring 3,President,,,Write-In,0,0,0,0
+LaPorte,Coolspring 3,Governor,,DEM,Woodrow (Woody) Myers,36,69,144,249
+LaPorte,Coolspring 3,Governor,,REP,Eric Holcomb,99,50,204,353
+LaPorte,Coolspring 3,Governor,,LIB,Donald G Rainwater II,29,1,17,47
+LaPorte,Coolspring 3,Attorney General,,DEM,Jonathan Weinzapfel,47,81,169,297
+LaPorte,Coolspring 3,Attorney General,,REP,Todd Rokita,103,35,186,324
+LaPorte,Coolspring 3,U.S. House,1,DEM,Frank J Mrvan,54,80,168,302
+LaPorte,Coolspring 3,U.S. House,1,REP,Mark Leyva,89,33,174,296
+LaPorte,Coolspring 3,U.S. House,1,LIB,Michael Strauss,15,4,14,33
+LaPorte,Coolspring 3,U.S. House,1,,Write-In,0,0,0,0
+LaPorte,Coolspring 3,State Senator,8,DEM,Gary Davis,50,75,154,279
+LaPorte,Coolspring 3,State Senator,8,REP,Mike Bohacek,111,40,203,354
+LaPorte,Coolspring 3,State Representative,9,DEM,Patricia A (Pat) Boy,65,91,185,341
+LaPorte,Coolspring 3,State Representative,9,REP,Dion Bergeron,91,28,174,293
+LaPorte,Coolspring 4,Registered Voters,,,,,,,1667
+LaPorte,Coolspring 4,Ballots Cast,,,,347,168,556,1071
+LaPorte,Coolspring 4,President,,DEM,Joseph R Biden,96,130,258,484
+LaPorte,Coolspring 4,President,,REP,Donald J Trump,233,30,282,545
+LaPorte,Coolspring 4,President,,LIB,Jo Jorgensen,15,2,6,23
+LaPorte,Coolspring 4,President,,,Write-In,2,1,0,3
+LaPorte,Coolspring 4,Governor,,DEM,Woodrow (Woody) Myers,77,102,215,394
+LaPorte,Coolspring 4,Governor,,REP,Eric Holcomb,211,44,282,537
+LaPorte,Coolspring 4,Governor,,LIB,Donald G Rainwater II,51,9,40,100
+LaPorte,Coolspring 4,Attorney General,,DEM,Jonathan Weinzapfel,115,117,254,486
+LaPorte,Coolspring 4,Attorney General,,REP,Todd Rokita,208,35,272,515
+LaPorte,Coolspring 4,U.S. House,1,DEM,Frank J Mrvan,105,131,254,490
+LaPorte,Coolspring 4,U.S. House,1,REP,Mark Leyva,202,23,262,487
+LaPorte,Coolspring 4,U.S. House,1,LIB,Michael Strauss,28,4,15,47
+LaPorte,Coolspring 4,U.S. House,1,,Write-In,0,0,0,0
+LaPorte,Coolspring 4,State Representative,9,DEM,Patricia A (Pat) Boy,135,134,281,550
+LaPorte,Coolspring 4,State Representative,9,REP,Dion Bergeron,198,25,248,471
+LaPorte,Coolspring 5,Registered Voters,,,,,,,759
+LaPorte,Coolspring 5,Ballots Cast,,,,194,54,207,455
+LaPorte,Coolspring 5,President,,DEM,Joseph R Biden,96,47,119,262
+LaPorte,Coolspring 5,President,,REP,Donald J Trump,93,7,79,179
+LaPorte,Coolspring 5,President,,LIB,Jo Jorgensen,3,0,5,8
+LaPorte,Coolspring 5,President,,,Write-In,1,0,0,1
+LaPorte,Coolspring 5,Governor,,DEM,Woodrow (Woody) Myers,81,43,93,217
+LaPorte,Coolspring 5,Governor,,REP,Eric Holcomb,100,9,93,202
+LaPorte,Coolspring 5,Governor,,LIB,Donald G Rainwater II,8,1,14,23
+LaPorte,Coolspring 5,Attorney General,,DEM,Jonathan Weinzapfel,100,43,116,259
+LaPorte,Coolspring 5,Attorney General,,REP,Todd Rokita,83,8,83,174
+LaPorte,Coolspring 5,U.S. House,1,DEM,Frank J Mrvan,96,45,110,251
+LaPorte,Coolspring 5,U.S. House,1,REP,Mark Leyva,82,7,82,171
+LaPorte,Coolspring 5,U.S. House,1,LIB,Michael Strauss,5,1,10,16
+LaPorte,Coolspring 5,U.S. House,1,,Write-In,0,0,0,0
+LaPorte,Coolspring 5,State Senator,8,DEM,Gary Davis,89,41,103,233
+LaPorte,Coolspring 5,State Senator,8,REP,Mike Bohacek,95,12,98,205
+LaPorte,Coolspring 5,State Representative,9,DEM,Patricia A (Pat) Boy,104,47,122,273
+LaPorte,Coolspring 5,State Representative,9,REP,Dion Bergeron,81,6,78,165
+LaPorte,Dewey,Registered Voters,,,,,,,312
+LaPorte,Dewey,Ballots Cast,,,,146,18,63,227
+LaPorte,Dewey,President,,DEM,Joseph R Biden,44,8,14,66
+LaPorte,Dewey,President,,REP,Donald J Trump,97,8,47,152
+LaPorte,Dewey,President,,LIB,Jo Jorgensen,3,2,2,7
+LaPorte,Dewey,President,,,Write-In,1,0,0,1
+LaPorte,Dewey,Governor,,DEM,Woodrow (Woody) Myers,28,6,12,46
+LaPorte,Dewey,Governor,,REP,Eric Holcomb,84,10,43,137
+LaPorte,Dewey,Governor,,LIB,Donald G Rainwater II,28,1,7,36
+LaPorte,Dewey,Attorney General,,DEM,Jonathan Weinzapfel,43,6,16,65
+LaPorte,Dewey,Attorney General,,REP,Todd Rokita,95,10,42,147
+LaPorte,Dewey,U.S. House,1,DEM,Frank J Mrvan,49,8,15,72
+LaPorte,Dewey,U.S. House,1,REP,Mark Leyva,86,5,40,131
+LaPorte,Dewey,U.S. House,1,LIB,Michael Strauss,4,3,2,9
+LaPorte,Dewey,U.S. House,1,,Write-In,0,0,0,0
+LaPorte,Dewey,State Senator,5,DEM,Luke Bohm,39,7,15,61
+LaPorte,Dewey,State Senator,5,REP,Ed Charbonneau,101,9,43,153
+LaPorte,Dewey,State Representative,20,DEM,Tim Gust,35,5,12,52
+LaPorte,Dewey,State Representative,20,REP,Jim Pressel,108,12,49,169
+LaPorte,Duneland Beach,Registered Voters,,,,,,,215
+LaPorte,Duneland Beach,Ballots Cast,,,,45,41,71,157
+LaPorte,Duneland Beach,President,,DEM,Joseph R Biden,18,33,38,89
+LaPorte,Duneland Beach,President,,REP,Donald J Trump,27,8,33,68
+LaPorte,Duneland Beach,President,,LIB,Jo Jorgensen,0,0,0,0
+LaPorte,Duneland Beach,President,,,Write-In,0,0,0,0
+LaPorte,Duneland Beach,Governor,,DEM,Woodrow (Woody) Myers,8,30,31,69
+LaPorte,Duneland Beach,Governor,,REP,Eric Holcomb,34,9,38,81
+LaPorte,Duneland Beach,Governor,,LIB,Donald G Rainwater II,1,0,1,2
+LaPorte,Duneland Beach,Attorney General,,DEM,Jonathan Weinzapfel,17,30,36,83
+LaPorte,Duneland Beach,Attorney General,,REP,Todd Rokita,25,9,34,68
+LaPorte,Duneland Beach,U.S. House,1,DEM,Frank J Mrvan,16,30,36,82
+LaPorte,Duneland Beach,U.S. House,1,REP,Mark Leyva,26,8,34,68
+LaPorte,Duneland Beach,U.S. House,1,LIB,Michael Strauss,0,0,1,1
+LaPorte,Duneland Beach,U.S. House,1,,Write-In,0,0,0,0
+LaPorte,Duneland Beach,State Representative,9,DEM,Patricia A (Pat) Boy,20,33,34,87
+LaPorte,Duneland Beach,State Representative,9,REP,Dion Bergeron,25,4,37,66
+LaPorte,Galena 1,Registered Voters,,,,,,,731
+LaPorte,Galena 1,Ballots Cast,,,,275,79,160,514
+LaPorte,Galena 1,President,,DEM,Joseph R Biden,63,54,97,214
+LaPorte,Galena 1,President,,REP,Donald J Trump,206,24,63,293
+LaPorte,Galena 1,President,,LIB,Jo Jorgensen,5,1,0,6
+LaPorte,Galena 1,President,,,Write-In,0,0,0,0
+LaPorte,Galena 1,Governor,,DEM,Woodrow (Woody) Myers,51,48,79,178
+LaPorte,Galena 1,Governor,,REP,Eric Holcomb,188,27,77,292
+LaPorte,Galena 1,Governor,,LIB,Donald G Rainwater II,31,1,2,34
+LaPorte,Galena 1,Attorney General,,DEM,Jonathan Weinzapfel,68,55,95,218
+LaPorte,Galena 1,Attorney General,,REP,Todd Rokita,193,21,65,279
+LaPorte,Galena 1,U.S. House,1,DEM,Frank J Mrvan,67,53,94,214
+LaPorte,Galena 1,U.S. House,1,REP,Mark Leyva,186,18,59,263
+LaPorte,Galena 1,U.S. House,1,LIB,Michael Strauss,15,5,4,24
+LaPorte,Galena 1,U.S. House,1,,Write-In,0,0,0,0
+LaPorte,Galena 1,State Senator,8,DEM,Gary Davis,68,51,88,207
+LaPorte,Galena 1,State Senator,8,REP,Mike Bohacek,201,25,69,295
+LaPorte,Galena 1,State Representative,8,DEM,Ryan M Dvorak,82,53,97,232
+LaPorte,Galena 1,State Representative,8,REP,Timothy Jaycox,182,22,62,266
+LaPorte,Galena 2,Registered Voters,,,,,,,863
+LaPorte,Galena 2,Ballots Cast,,,,356,90,169,615
+LaPorte,Galena 2,President,,DEM,Joseph R Biden,75,66,97,238
+LaPorte,Galena 2,President,,REP,Donald J Trump,272,23,71,366
+LaPorte,Galena 2,President,,LIB,Jo Jorgensen,5,0,0,5
+LaPorte,Galena 2,President,,,Write-In,0,0,1,1
+LaPorte,Galena 2,Governor,,DEM,Woodrow (Woody) Myers,55,52,74,181
+LaPorte,Galena 2,Governor,,REP,Eric Holcomb,253,36,82,371
+LaPorte,Galena 2,Governor,,LIB,Donald G Rainwater II,39,1,9,49
+LaPorte,Galena 2,Attorney General,,DEM,Jonathan Weinzapfel,76,64,88,228
+LaPorte,Galena 2,Attorney General,,REP,Todd Rokita,260,24,74,358
+LaPorte,Galena 2,State Senator,8,DEM,Gary Davis,75,66,93,234
+LaPorte,Galena 2,State Senator,8,REP,Mike Bohacek,267,21,73,361
+LaPorte,Galena 2,State Representative,8,DEM,Ryan M Dvorak,87,63,90,240
+LaPorte,Galena 2,State Representative,8,REP,Timothy Jaycox,246,21,75,342
+LaPorte,Hanna,Registered Voters,,,,,,,783
+LaPorte,Hanna,Ballots Cast,,,,332,51,200,583
+LaPorte,Hanna,President,,DEM,Joseph R Biden,81,28,66,175
+LaPorte,Hanna,President,,REP,Donald J Trump,235,22,130,387
+LaPorte,Hanna,President,,LIB,Jo Jorgensen,11,1,2,14
+LaPorte,Hanna,President,,,Write-In,0,0,0,0
+LaPorte,Hanna,Governor,,DEM,Woodrow (Woody) Myers,58,18,50,126
+LaPorte,Hanna,Governor,,REP,Eric Holcomb,206,25,124,355
+LaPorte,Hanna,Governor,,LIB,Donald G Rainwater II,59,3,19,81
+LaPorte,Hanna,Attorney General,,DEM,Jonathan Weinzapfel,84,24,67,175
+LaPorte,Hanna,Attorney General,,REP,Todd Rokita,225,19,118,362
+LaPorte,Hanna,State Senator,8,DEM,Gary Davis,83,23,64,170
+LaPorte,Hanna,State Senator,8,REP,Mike Bohacek,237,22,126,385
+LaPorte,Hanna,State Representative,20,DEM,Tim Gust,62,21,53,136
+LaPorte,Hanna,State Representative,20,REP,Jim Pressel,260,27,139,426
+LaPorte,Hudson,Registered Voters,,,,,,,1353
+LaPorte,Hudson,Ballots Cast,,,,629,120,209,958
+LaPorte,Hudson,President,,DEM,Joseph R Biden,154,75,89,318
+LaPorte,Hudson,President,,REP,Donald J Trump,444,44,115,603
+LaPorte,Hudson,President,,LIB,Jo Jorgensen,22,0,5,27
+LaPorte,Hudson,President,,,Write-In,2,1,0,3
+LaPorte,Hudson,Governor,,DEM,Woodrow (Woody) Myers,124,56,60,240
+LaPorte,Hudson,Governor,,REP,Eric Holcomb,403,59,129,591
+LaPorte,Hudson,Governor,,LIB,Donald G Rainwater II,90,2,17,109
+LaPorte,Hudson,Attorney General,,DEM,Jonathan Weinzapfel,172,71,83,326
+LaPorte,Hudson,Attorney General,,REP,Todd Rokita,432,47,116,595
+LaPorte,Hudson,State Senator,8,DEM,Gary Davis,171,65,89,325
+LaPorte,Hudson,State Senator,8,REP,Mike Bohacek,443,50,116,609
+LaPorte,Hudson,State Representative,8,DEM,Ryan M Dvorak,201,78,91,370
+LaPorte,Hudson,State Representative,8,REP,Timothy Jaycox,409,38,113,560
+LaPorte,Johnson,Registered Voters,,,,,,,147
+LaPorte,Johnson,Ballots Cast,,,,97,5,8,110
+LaPorte,Johnson,President,,DEM,Joseph R Biden,26,1,5,32
+LaPorte,Johnson,President,,REP,Donald J Trump,69,4,2,75
+LaPorte,Johnson,President,,LIB,Jo Jorgensen,2,0,1,3
+LaPorte,Johnson,President,,,Write-In,0,0,0,0
+LaPorte,Johnson,Governor,,DEM,Woodrow (Woody) Myers,17,1,5,23
+LaPorte,Johnson,Governor,,REP,Eric Holcomb,61,4,3,68
+LaPorte,Johnson,Governor,,LIB,Donald G Rainwater II,17,0,0,17
+LaPorte,Johnson,Attorney General,,DEM,Jonathan Weinzapfel,23,1,5,29
+LaPorte,Johnson,Attorney General,,REP,Todd Rokita,70,4,3,77
+LaPorte,Johnson,State Senator,8,DEM,Gary Davis,23,1,5,29
+LaPorte,Johnson,State Senator,8,REP,Mike Bohacek,72,4,3,79
+LaPorte,Johnson,State Representative,20,DEM,Tim Gust,19,1,5,25
+LaPorte,Johnson,State Representative,20,REP,Jim Pressel,75,4,3,82
+LaPorte,Kankakee 1,Registered Voters,,,,,,,1515
+LaPorte,Kankakee 1,Ballots Cast,,,,520,163,391,1074
+LaPorte,Kankakee 1,President,,DEM,Joseph R Biden,122,117,160,399
+LaPorte,Kankakee 1,President,,REP,Donald J Trump,376,39,224,639
+LaPorte,Kankakee 1,President,,LIB,Jo Jorgensen,15,5,3,23
+LaPorte,Kankakee 1,President,,,Write-In,1,1,0,2
+LaPorte,Kankakee 1,Governor,,DEM,Woodrow (Woody) Myers,83,95,128,306
+LaPorte,Kankakee 1,Governor,,REP,Eric Holcomb,344,57,227,628
+LaPorte,Kankakee 1,Governor,,LIB,Donald G Rainwater II,84,7,26,117
+LaPorte,Kankakee 1,Attorney General,,DEM,Jonathan Weinzapfel,132,109,153,394
+LaPorte,Kankakee 1,Attorney General,,REP,Todd Rokita,355,48,223,626
+LaPorte,Kankakee 1,State Senator,8,DEM,Gary Davis,144,111,156,411
+LaPorte,Kankakee 1,State Senator,8,REP,Mike Bohacek,364,47,226,637
+LaPorte,Kankakee 1,State Representative,20,DEM,Tim Gust,107,91,133,331
+LaPorte,Kankakee 1,State Representative,20,REP,Jim Pressel,401,67,251,719
+LaPorte,Kankakee 2,Registered Voters,,,,,,,1352
+LaPorte,Kankakee 2,Ballots Cast,,,,620,100,224,944
+LaPorte,Kankakee 2,President,,DEM,Joseph R Biden,128,61,102,291
+LaPorte,Kankakee 2,President,,REP,Donald J Trump,471,37,120,628
+LaPorte,Kankakee 2,President,,LIB,Jo Jorgensen,18,2,1,21
+LaPorte,Kankakee 2,President,,,Write-In,1,0,1,2
+LaPorte,Kankakee 2,Governor,,DEM,Woodrow (Woody) Myers,103,46,76,225
+LaPorte,Kankakee 2,Governor,,REP,Eric Holcomb,408,48,130,586
+LaPorte,Kankakee 2,Governor,,LIB,Donald G Rainwater II,97,3,15,115
+LaPorte,Kankakee 2,Attorney General,,DEM,Jonathan Weinzapfel,168,59,94,321
+LaPorte,Kankakee 2,Attorney General,,REP,Todd Rokita,410,38,117,565
+LaPorte,Kankakee 2,State Senator,8,DEM,Gary Davis,159,58,93,310
+LaPorte,Kankakee 2,State Senator,8,REP,Mike Bohacek,442,37,125,604
+LaPorte,Kankakee 2,State Representative,20,DEM,Tim Gust,123,37,87,247
+LaPorte,Kankakee 2,State Representative,20,REP,Jim Pressel,484,56,131,671
+LaPorte,Kingsbury,Registered Voters,,,,,,,161
+LaPorte,Kingsbury,Ballots Cast,,,,73,16,14,103
+LaPorte,Kingsbury,President,,DEM,Joseph R Biden,15,9,7,31
+LaPorte,Kingsbury,President,,REP,Donald J Trump,54,5,6,65
+LaPorte,Kingsbury,President,,LIB,Jo Jorgensen,1,0,0,1
+LaPorte,Kingsbury,President,,,Write-In,0,0,0,0
+LaPorte,Kingsbury,Governor,,DEM,Woodrow (Woody) Myers,13,7,5,25
+LaPorte,Kingsbury,Governor,,REP,Eric Holcomb,47,8,7,62
+LaPorte,Kingsbury,Governor,,LIB,Donald G Rainwater II,12,1,2,15
+LaPorte,Kingsbury,Attorney General,,DEM,Jonathan Weinzapfel,23,8,6,37
+LaPorte,Kingsbury,Attorney General,,REP,Todd Rokita,44,8,7,59
+LaPorte,Kingsbury,State Senator,8,DEM,Gary Davis,20,8,6,34
+LaPorte,Kingsbury,State Senator,8,REP,Mike Bohacek,50,8,8,66
+LaPorte,Kingsbury,State Representative,20,DEM,Tim Gust,12,6,6,24
+LaPorte,Kingsbury,State Representative,20,REP,Jim Pressel,57,10,8,75
+LaPorte,Kingsford Heights,Registered Voters,,,,,,,843
+LaPorte,Kingsford Heights,Ballots Cast,,,,399,40,75,514
+LaPorte,Kingsford Heights,President,,DEM,Joseph R Biden,135,24,41,200
+LaPorte,Kingsford Heights,President,,REP,Donald J Trump,249,13,34,296
+LaPorte,Kingsford Heights,President,,LIB,Jo Jorgensen,8,1,0,9
+LaPorte,Kingsford Heights,President,,,Write-In,0,0,0,0
+LaPorte,Kingsford Heights,Governor,,DEM,Woodrow (Woody) Myers,106,18,38,162
+LaPorte,Kingsford Heights,Governor,,REP,Eric Holcomb,227,18,30,275
+LaPorte,Kingsford Heights,Governor,,LIB,Donald G Rainwater II,58,1,6,65
+LaPorte,Kingsford Heights,Attorney General,,DEM,Jonathan Weinzapfel,142,22,42,206
+LaPorte,Kingsford Heights,Attorney General,,REP,Todd Rokita,230,15,31,276
+LaPorte,Kingsford Heights,State Senator,8,DEM,Gary Davis,141,23,41,205
+LaPorte,Kingsford Heights,State Senator,8,REP,Mike Bohacek,247,14,33,294
+LaPorte,Kingsford Heights,State Representative,20,DEM,Tim Gust,126,23,39,188
+LaPorte,Kingsford Heights,State Representative,20,REP,Jim Pressel,263,14,35,312
+LaPorte,LaCrosse,Registered Voters,,,,,,,381
+LaPorte,LaCrosse,Ballots Cast,,,,186,17,55,258
+LaPorte,LaCrosse,President,,DEM,Joseph R Biden,51,12,24,87
+LaPorte,LaCrosse,President,,REP,Donald J Trump,128,3,31,162
+LaPorte,LaCrosse,President,,LIB,Jo Jorgensen,6,1,0,7
+LaPorte,LaCrosse,President,,,Write-In,0,0,0,0
+LaPorte,LaCrosse,Governor,,DEM,Woodrow (Woody) Myers,36,10,16,62
+LaPorte,LaCrosse,Governor,,REP,Eric Holcomb,123,7,28,158
+LaPorte,LaCrosse,Governor,,LIB,Donald G Rainwater II,23,0,11,34
+LaPorte,LaCrosse,Attorney General,,DEM,Jonathan Weinzapfel,53,12,22,87
+LaPorte,LaCrosse,Attorney General,,REP,Todd Rokita,123,5,31,159
+LaPorte,LaCrosse,U.S. House,1,DEM,Frank J Mrvan,50,10,21,81
+LaPorte,LaCrosse,U.S. House,1,REP,Mark Leyva,119,3,29,151
+LaPorte,LaCrosse,U.S. House,1,LIB,Michael Strauss,9,2,2,13
+LaPorte,LaCrosse,U.S. House,1,,Write-In,0,0,0,0
+LaPorte,LaCrosse,State Senator,5,DEM,Luke Bohm,45,9,22,76
+LaPorte,LaCrosse,State Senator,5,REP,Ed Charbonneau,135,8,32,175
+LaPorte,LaCrosse,State Representative,20,DEM,Tim Gust,42,8,18,68
+LaPorte,LaCrosse,State Representative,20,REP,Jim Pressel,139,9,37,185
+LaPorte,Lincoln,Registered Voters,,,,,,,1253
+LaPorte,Lincoln,Ballots Cast,,,,577,88,193,858
+LaPorte,Lincoln,President,,DEM,Joseph R Biden,143,66,78,287
+LaPorte,Lincoln,President,,REP,Donald J Trump,408,21,108,537
+LaPorte,Lincoln,President,,LIB,Jo Jorgensen,15,0,3,18
+LaPorte,Lincoln,President,,,Write-In,3,0,0,3
+LaPorte,Lincoln,Governor,,DEM,Woodrow (Woody) Myers,114,50,58,222
+LaPorte,Lincoln,Governor,,REP,Eric Holcomb,360,31,115,506
+LaPorte,Lincoln,Governor,,LIB,Donald G Rainwater II,84,1,13,98
+LaPorte,Lincoln,Attorney General,,DEM,Jonathan Weinzapfel,169,59,76,304
+LaPorte,Lincoln,Attorney General,,REP,Todd Rokita,376,23,110,509
+LaPorte,Lincoln,State Senator,8,DEM,Gary Davis,164,60,74,298
+LaPorte,Lincoln,State Senator,8,REP,Mike Bohacek,395,23,114,532
+LaPorte,Lincoln,State Representative,20,DEM,Tim Gust,130,53,65,248
+LaPorte,Lincoln,State Representative,20,REP,Jim Pressel,427,30,124,581
+LaPorte,Long Beach,Registered Voters,,,,,,,1313
+LaPorte,Long Beach,Ballots Cast,,,,295,215,419,929
+LaPorte,Long Beach,President,,DEM,Joseph R Biden,94,163,220,477
+LaPorte,Long Beach,President,,REP,Donald J Trump,195,49,193,437
+LaPorte,Long Beach,President,,LIB,Jo Jorgensen,2,3,4,9
+LaPorte,Long Beach,President,,,Write-In,1,0,0,1
+LaPorte,Long Beach,Governor,,DEM,Woodrow (Woody) Myers,64,130,170,364
+LaPorte,Long Beach,Governor,,REP,Eric Holcomb,219,75,234,528
+LaPorte,Long Beach,Governor,,LIB,Donald G Rainwater II,5,0,6,11
+LaPorte,Long Beach,Attorney General,,DEM,Jonathan Weinzapfel,91,133,191,415
+LaPorte,Long Beach,Attorney General,,REP,Todd Rokita,195,67,211,473
+LaPorte,Long Beach,U.S. House,1,DEM,Frank J Mrvan,89,149,203,441
+LaPorte,Long Beach,U.S. House,1,REP,Mark Leyva,190,53,197,440
+LaPorte,Long Beach,U.S. House,1,LIB,Michael Strauss,5,1,10,16
+LaPorte,Long Beach,U.S. House,1,,Write-In,0,0,0,0
+LaPorte,Long Beach,State Representative,9,DEM,Patricia A (Pat) Boy,113,148,220,481
+LaPorte,Long Beach,State Representative,9,REP,Dion Bergeron,173,50,188,411
+LaPorte,LP25,Registered Voters,,,,,,,1059
+LaPorte,LP25,Ballots Cast,,,,357,64,127,548
+LaPorte,LP25,President,,DEM,Joseph R Biden,120,43,60,223
+LaPorte,LP25,President,,REP,Donald J Trump,221,21,62,304
+LaPorte,LP25,President,,LIB,Jo Jorgensen,13,0,2,15
+LaPorte,LP25,President,,,Write-In,0,0,0,0
+LaPorte,LP25,Governor,,DEM,Woodrow (Woody) Myers,103,32,57,192
+LaPorte,LP25,Governor,,REP,Eric Holcomb,184,22,57,263
+LaPorte,LP25,Governor,,LIB,Donald G Rainwater II,58,3,9,70
+LaPorte,LP25,Attorney General,,DEM,Jonathan Weinzapfel,138,36,64,238
+LaPorte,LP25,Attorney General,,REP,Todd Rokita,196,20,57,273
+LaPorte,LP25,State Senator,8,DEM,Gary Davis,140,36,63,239
+LaPorte,LP25,State Senator,8,REP,Mike Bohacek,204,19,59,282
+LaPorte,LP25,State Representative,20,DEM,Tim Gust,119,31,56,206
+LaPorte,LP25,State Representative,20,REP,Jim Pressel,227,24,66,317
+LaPorte,LP26,Registered Voters,,,,,,,534
+LaPorte,LP26,Ballots Cast,,,,141,15,38,194
+LaPorte,LP26,President,,DEM,Joseph R Biden,49,13,19,81
+LaPorte,LP26,President,,REP,Donald J Trump,83,2,17,102
+LaPorte,LP26,President,,LIB,Jo Jorgensen,7,0,1,8
+LaPorte,LP26,President,,,Write-In,0,0,0,0
+LaPorte,LP26,Governor,,DEM,Woodrow (Woody) Myers,36,7,14,57
+LaPorte,LP26,Governor,,REP,Eric Holcomb,74,5,16,95
+LaPorte,LP26,Governor,,LIB,Donald G Rainwater II,22,1,6,29
+LaPorte,LP26,Attorney General,,DEM,Jonathan Weinzapfel,48,10,17,75
+LaPorte,LP26,Attorney General,,REP,Todd Rokita,80,3,17,100
+LaPorte,LP26,State Senator,8,DEM,Gary Davis,51,10,16,77
+LaPorte,LP26,State Senator,8,REP,Mike Bohacek,84,3,21,108
+LaPorte,LP26,State Representative,20,DEM,Tim Gust,41,11,15,67
+LaPorte,LP26,State Representative,20,REP,Jim Pressel,95,2,22,119
+LaPorte,LP27,Registered Voters,,,,,,,448
+LaPorte,LP27,Ballots Cast,,,,122,22,80,224
+LaPorte,LP27,President,,DEM,Joseph R Biden,46,17,50,113
+LaPorte,LP27,President,,REP,Donald J Trump,67,3,29,99
+LaPorte,LP27,President,,LIB,Jo Jorgensen,6,1,1,8
+LaPorte,LP27,President,,,Write-In,1,0,0,1
+LaPorte,LP27,Governor,,DEM,Woodrow (Woody) Myers,45,15,41,101
+LaPorte,LP27,Governor,,REP,Eric Holcomb,66,7,32,105
+LaPorte,LP27,Governor,,LIB,Donald G Rainwater II,8,0,3,11
+LaPorte,LP27,Attorney General,,DEM,Jonathan Weinzapfel,57,17,51,125
+LaPorte,LP27,Attorney General,,REP,Todd Rokita,61,5,27,93
+LaPorte,LP27,State Senator,8,DEM,Gary Davis,51,15,47,113
+LaPorte,LP27,State Senator,8,REP,Mike Bohacek,68,7,32,107
+LaPorte,LP27,State Representative,20,DEM,Tim Gust,48,15,44,107
+LaPorte,LP27,State Representative,20,REP,Jim Pressel,71,7,35,113
+LaPorte,LP28,Registered Voters,,,,,,,242
+LaPorte,LP28,Ballots Cast,,,,53,10,35,98
+LaPorte,LP28,President,,DEM,Joseph R Biden,14,9,17,40
+LaPorte,LP28,President,,REP,Donald J Trump,34,1,17,52
+LaPorte,LP28,President,,LIB,Jo Jorgensen,4,0,1,5
+LaPorte,LP28,President,,,Write-In,0,0,0,0
+LaPorte,LP28,Governor,,DEM,Woodrow (Woody) Myers,11,7,14,32
+LaPorte,LP28,Governor,,REP,Eric Holcomb,30,3,17,50
+LaPorte,LP28,Governor,,LIB,Donald G Rainwater II,11,0,3,14
+LaPorte,LP28,Attorney General,,DEM,Jonathan Weinzapfel,21,8,17,46
+LaPorte,LP28,Attorney General,,REP,Todd Rokita,29,1,15,45
+LaPorte,LP28,State Senator,8,DEM,Gary Davis,19,9,16,44
+LaPorte,LP28,State Senator,8,REP,Mike Bohacek,32,1,18,51
+LaPorte,LP28,State Representative,20,DEM,Tim Gust,13,9,16,38
+LaPorte,LP28,State Representative,20,REP,Jim Pressel,39,1,19,59
+LaPorte,LP29,Registered Voters,,,,,,,540
+LaPorte,LP29,Ballots Cast,,,,158,46,116,320
+LaPorte,LP29,President,,DEM,Joseph R Biden,53,25,45,123
+LaPorte,LP29,President,,REP,Donald J Trump,102,17,65,184
+LaPorte,LP29,President,,LIB,Jo Jorgensen,3,1,4,8
+LaPorte,LP29,President,,,Write-In,0,2,0,2
+LaPorte,LP29,Governor,,DEM,Woodrow (Woody) Myers,40,23,38,101
+LaPorte,LP29,Governor,,REP,Eric Holcomb,106,20,73,199
+LaPorte,LP29,Governor,,LIB,Donald G Rainwater II,11,3,5,19
+LaPorte,LP29,Attorney General,,DEM,Jonathan Weinzapfel,58,25,42,125
+LaPorte,LP29,Attorney General,,REP,Todd Rokita,93,20,68,181
+LaPorte,LP29,State Senator,8,DEM,Gary Davis,52,25,39,116
+LaPorte,LP29,State Senator,8,REP,Mike Bohacek,103,20,74,197
+LaPorte,LP29,State Representative,20,DEM,Tim Gust,44,22,34,100
+LaPorte,LP29,State Representative,20,REP,Jim Pressel,112,24,81,217
+LaPorte,LP30,Registered Voters,,,,,,,930
+LaPorte,LP30,Ballots Cast,,,,275,57,187,519
+LaPorte,LP30,President,,DEM,Joseph R Biden,81,42,93,216
+LaPorte,LP30,President,,REP,Donald J Trump,182,15,90,287
+LaPorte,LP30,President,,LIB,Jo Jorgensen,9,0,2,11
+LaPorte,LP30,President,,,Write-In,1,0,0,1
+LaPorte,LP30,Governor,,DEM,Woodrow (Woody) Myers,56,35,64,155
+LaPorte,LP30,Governor,,REP,Eric Holcomb,160,21,108,289
+LaPorte,LP30,Governor,,LIB,Donald G Rainwater II,56,1,13,70
+LaPorte,LP30,Attorney General,,DEM,Jonathan Weinzapfel,85,43,84,212
+LaPorte,LP30,Attorney General,,REP,Todd Rokita,170,13,94,277
+LaPorte,LP30,State Senator,8,DEM,Gary Davis,83,46,84,213
+LaPorte,LP30,State Senator,8,REP,Mike Bohacek,190,11,93,294
+LaPorte,LP30,State Representative,20,DEM,Tim Gust,85,39,71,195
+LaPorte,LP30,State Representative,20,REP,Jim Pressel,185,18,111,314
+LaPorte,LP31,Registered Voters,,,,,,,1422
+LaPorte,LP31,Ballots Cast,,,,370,149,247,766
+LaPorte,LP31,President,,DEM,Joseph R Biden,146,103,138,387
+LaPorte,LP31,President,,REP,Donald J Trump,211,43,106,360
+LaPorte,LP31,President,,LIB,Jo Jorgensen,8,1,0,9
+LaPorte,LP31,President,,,Write-In,1,0,2,3
+LaPorte,LP31,Governor,,DEM,Woodrow (Woody) Myers,123,77,116,316
+LaPorte,LP31,Governor,,REP,Eric Holcomb,201,63,110,374
+LaPorte,LP31,Governor,,LIB,Donald G Rainwater II,36,2,16,54
+LaPorte,LP31,Attorney General,,DEM,Jonathan Weinzapfel,162,95,132,389
+LaPorte,LP31,Attorney General,,REP,Todd Rokita,185,46,106,337
+LaPorte,LP31,State Senator,8,DEM,Gary Davis,159,92,126,377
+LaPorte,LP31,State Senator,8,REP,Mike Bohacek,204,47,113,364
+LaPorte,LP31,State Representative,20,DEM,Tim Gust,143,86,120,349
+LaPorte,LP31,State Representative,20,REP,Jim Pressel,219,54,120,393
+LaPorte,LP32,Registered Voters,,,,,,,1298
+LaPorte,LP32,Ballots Cast,,,,300,74,234,608
+LaPorte,LP32,President,,DEM,Joseph R Biden,111,47,126,284
+LaPorte,LP32,President,,REP,Donald J Trump,171,25,89,285
+LaPorte,LP32,President,,LIB,Jo Jorgensen,12,2,10,24
+LaPorte,LP32,President,,,Write-In,2,0,3,5
+LaPorte,LP32,Governor,,DEM,Woodrow (Woody) Myers,91,32,104,227
+LaPorte,LP32,Governor,,REP,Eric Holcomb,147,37,103,287
+LaPorte,LP32,Governor,,LIB,Donald G Rainwater II,50,1,22,73
+LaPorte,LP32,Attorney General,,DEM,Jonathan Weinzapfel,116,42,122,280
+LaPorte,LP32,Attorney General,,REP,Todd Rokita,164,29,104,297
+LaPorte,LP32,State Senator,8,DEM,Gary Davis,105,38,125,268
+LaPorte,LP32,State Senator,8,REP,Mike Bohacek,177,32,102,311
+LaPorte,LP32,State Representative,20,DEM,Tim Gust,101,38,110,249
+LaPorte,LP32,State Representative,20,REP,Jim Pressel,179,32,118,329
+LaPorte,LP33,Registered Voters,,,,,,,898
+LaPorte,LP33,Ballots Cast,,,,312,88,187,587
+LaPorte,LP33,President,,DEM,Joseph R Biden,90,68,98,256
+LaPorte,LP33,President,,REP,Donald J Trump,206,17,83,306
+LaPorte,LP33,President,,LIB,Jo Jorgensen,14,2,5,21
+LaPorte,LP33,President,,,Write-In,1,0,0,1
+LaPorte,LP33,Governor,,DEM,Woodrow (Woody) Myers,66,48,77,191
+LaPorte,LP33,Governor,,REP,Eric Holcomb,206,32,89,327
+LaPorte,LP33,Governor,,LIB,Donald G Rainwater II,37,2,18,57
+LaPorte,LP33,Attorney General,,DEM,Jonathan Weinzapfel,98,58,90,246
+LaPorte,LP33,Attorney General,,REP,Todd Rokita,198,26,88,312
+LaPorte,LP33,State Senator,8,DEM,Gary Davis,96,55,92,243
+LaPorte,LP33,State Senator,8,REP,Mike Bohacek,209,27,89,325
+LaPorte,LP33,State Representative,20,DEM,Tim Gust,93,43,86,222
+LaPorte,LP33,State Representative,20,REP,Jim Pressel,213,39,97,349
+LaPorte,LP34,Registered Voters,,,,,,,753
+LaPorte,LP34,Ballots Cast,,,,287,86,184,557
+LaPorte,LP34,President,,DEM,Joseph R Biden,105,62,117,284
+LaPorte,LP34,President,,REP,Donald J Trump,166,17,62,245
+LaPorte,LP34,President,,LIB,Jo Jorgensen,12,3,4,19
+LaPorte,LP34,President,,,Write-In,2,2,0,4
+LaPorte,LP34,Governor,,DEM,Woodrow (Woody) Myers,65,51,81,197
+LaPorte,LP34,Governor,,REP,Eric Holcomb,182,31,90,303
+LaPorte,LP34,Governor,,LIB,Donald G Rainwater II,34,1,8,43
+LaPorte,LP34,Attorney General,,DEM,Jonathan Weinzapfel,94,59,103,256
+LaPorte,LP34,Attorney General,,REP,Todd Rokita,179,23,72,274
+LaPorte,LP34,State Senator,8,DEM,Gary Davis,92,59,103,254
+LaPorte,LP34,State Senator,8,REP,Mike Bohacek,188,26,78,292
+LaPorte,LP34,State Representative,20,DEM,Tim Gust,76,46,90,212
+LaPorte,LP34,State Representative,20,REP,Jim Pressel,202,38,92,332
+LaPorte,LP35,Registered Voters,,,,,,,70
+LaPorte,LP35,Ballots Cast,,,,9,9,24,42
+LaPorte,LP35,President,,DEM,Joseph R Biden,3,7,9,19
+LaPorte,LP35,President,,REP,Donald J Trump,6,2,15,23
+LaPorte,LP35,President,,LIB,Jo Jorgensen,0,0,0,0
+LaPorte,LP35,President,,,Write-In,0,0,0,0
+LaPorte,LP35,Governor,,DEM,Woodrow (Woody) Myers,3,4,8,15
+LaPorte,LP35,Governor,,REP,Eric Holcomb,5,5,13,23
+LaPorte,LP35,Governor,,LIB,Donald G Rainwater II,1,0,3,4
+LaPorte,LP35,Attorney General,,DEM,Jonathan Weinzapfel,3,7,8,18
+LaPorte,LP35,Attorney General,,REP,Todd Rokita,6,2,16,24
+LaPorte,LP35,State Senator,8,DEM,Gary Davis,2,6,9,17
+LaPorte,LP35,State Senator,8,REP,Mike Bohacek,7,3,15,25
+LaPorte,LP35,State Representative,20,DEM,Tim Gust,2,4,6,12
+LaPorte,LP35,State Representative,20,REP,Jim Pressel,7,4,18,29
+LaPorte,LP36,Registered Voters,,,,,,,69
+LaPorte,LP36,Ballots Cast,,,,26,10,16,52
+LaPorte,LP36,President,,DEM,Joseph R Biden,5,9,8,22
+LaPorte,LP36,President,,REP,Donald J Trump,19,1,8,28
+LaPorte,LP36,President,,LIB,Jo Jorgensen,2,0,0,2
+LaPorte,LP36,President,,,Write-In,0,0,0,0
+LaPorte,LP36,Governor,,DEM,Woodrow (Woody) Myers,4,9,5,18
+LaPorte,LP36,Governor,,REP,Eric Holcomb,20,1,11,32
+LaPorte,LP36,Governor,,LIB,Donald G Rainwater II,2,0,0,2
+LaPorte,LP36,Attorney General,,DEM,Jonathan Weinzapfel,5,9,6,20
+LaPorte,LP36,Attorney General,,REP,Todd Rokita,20,1,9,30
+LaPorte,LP36,State Senator,8,DEM,Gary Davis,8,8,6,22
+LaPorte,LP36,State Senator,8,REP,Mike Bohacek,17,2,10,29
+LaPorte,LP36,State Representative,20,DEM,Tim Gust,4,7,5,16
+LaPorte,LP36,State Representative,20,REP,Jim Pressel,22,3,11,36
+LaPorte,LP37,Registered Voters,,,,,,,993
+LaPorte,LP37,Ballots Cast,,,,306,88,167,561
+LaPorte,LP37,President,,DEM,Joseph R Biden,103,62,94,259
+LaPorte,LP37,President,,REP,Donald J Trump,192,21,70,283
+LaPorte,LP37,President,,LIB,Jo Jorgensen,8,4,2,14
+LaPorte,LP37,President,,,Write-In,0,0,0,0
+LaPorte,LP37,Governor,,DEM,Woodrow (Woody) Myers,77,51,77,205
+LaPorte,LP37,Governor,,REP,Eric Holcomb,171,34,66,271
+LaPorte,LP37,Governor,,LIB,Donald G Rainwater II,54,1,17,72
+LaPorte,LP37,Attorney General,,DEM,Jonathan Weinzapfel,115,62,88,265
+LaPorte,LP37,Attorney General,,REP,Todd Rokita,179,23,66,268
+LaPorte,LP37,State Senator,8,DEM,Gary Davis,100,56,82,238
+LaPorte,LP37,State Senator,8,REP,Mike Bohacek,199,27,75,301
+LaPorte,LP37,State Representative,20,DEM,Tim Gust,86,47,81,214
+LaPorte,LP37,State Representative,20,REP,Jim Pressel,214,37,81,332
+LaPorte,LP38,Registered Voters,,,,,,,831
+LaPorte,LP38,Ballots Cast,,,,262,58,153,473
+LaPorte,LP38,President,,DEM,Joseph R Biden,97,40,80,217
+LaPorte,LP38,President,,REP,Donald J Trump,153,16,67,236
+LaPorte,LP38,President,,LIB,Jo Jorgensen,9,1,3,13
+LaPorte,LP38,President,,,Write-In,0,0,0,0
+LaPorte,LP38,Governor,,DEM,Woodrow (Woody) Myers,75,23,70,168
+LaPorte,LP38,Governor,,REP,Eric Holcomb,137,29,64,230
+LaPorte,LP38,Governor,,LIB,Donald G Rainwater II,43,4,13,60
+LaPorte,LP38,Attorney General,,DEM,Jonathan Weinzapfel,103,32,88,223
+LaPorte,LP38,Attorney General,,REP,Todd Rokita,142,23,60,225
+LaPorte,LP38,State Senator,8,DEM,Gary Davis,97,32,81,210
+LaPorte,LP38,State Senator,8,REP,Mike Bohacek,156,21,68,245
+LaPorte,LP38,State Representative,20,DEM,Tim Gust,88,23,68,179
+LaPorte,LP38,State Representative,20,REP,Jim Pressel,165,30,80,275
+LaPorte,LP39,Registered Voters,,,,,,,310
+LaPorte,LP39,Ballots Cast,,,,102,27,45,174
+LaPorte,LP39,President,,DEM,Joseph R Biden,33,18,32,83
+LaPorte,LP39,President,,REP,Donald J Trump,67,8,13,88
+LaPorte,LP39,President,,LIB,Jo Jorgensen,1,0,0,1
+LaPorte,LP39,President,,,Write-In,0,0,0,0
+LaPorte,LP39,Governor,,DEM,Woodrow (Woody) Myers,25,14,26,65
+LaPorte,LP39,Governor,,REP,Eric Holcomb,65,9,13,87
+LaPorte,LP39,Governor,,LIB,Donald G Rainwater II,9,0,3,12
+LaPorte,LP39,Attorney General,,DEM,Jonathan Weinzapfel,36,14,27,77
+LaPorte,LP39,Attorney General,,REP,Todd Rokita,62,8,13,83
+LaPorte,LP39,State Senator,8,DEM,Gary Davis,37,14,28,79
+LaPorte,LP39,State Senator,8,REP,Mike Bohacek,64,8,16,88
+LaPorte,LP39,State Representative,20,DEM,Tim Gust,33,14,26,73
+LaPorte,LP39,State Representative,20,REP,Jim Pressel,68,8,17,93
+LaPorte,LP40,Registered Voters,,,,,,,915
+LaPorte,LP40,Ballots Cast,,,,307,122,162,591
+LaPorte,LP40,President,,DEM,Joseph R Biden,84,83,89,256
+LaPorte,LP40,President,,REP,Donald J Trump,210,35,71,316
+LaPorte,LP40,President,,LIB,Jo Jorgensen,10,4,0,14
+LaPorte,LP40,President,,,Write-In,0,0,0,0
+LaPorte,LP40,Governor,,DEM,Woodrow (Woody) Myers,62,58,76,196
+LaPorte,LP40,Governor,,REP,Eric Holcomb,203,60,72,335
+LaPorte,LP40,Governor,,LIB,Donald G Rainwater II,38,2,8,48
+LaPorte,LP40,Attorney General,,DEM,Jonathan Weinzapfel,87,71,83,241
+LaPorte,LP40,Attorney General,,REP,Todd Rokita,198,46,72,316
+LaPorte,LP40,State Senator,8,DEM,Gary Davis,79,70,82,231
+LaPorte,LP40,State Senator,8,REP,Mike Bohacek,217,48,72,337
+LaPorte,LP40,State Representative,20,DEM,Tim Gust,72,68,74,214
+LaPorte,LP40,State Representative,20,REP,Jim Pressel,227,51,87,365
+LaPorte,LP41,Registered Voters,,,,,,,1074
+LaPorte,LP41,Ballots Cast,,,,351,109,228,688
+LaPorte,LP41,President,,DEM,Joseph R Biden,117,76,108,301
+LaPorte,LP41,President,,REP,Donald J Trump,225,30,114,369
+LaPorte,LP41,President,,LIB,Jo Jorgensen,6,2,4,12
+LaPorte,LP41,President,,,Write-In,0,0,0,0
+LaPorte,LP41,Governor,,DEM,Woodrow (Woody) Myers,85,59,82,226
+LaPorte,LP41,Governor,,REP,Eric Holcomb,226,49,130,405
+LaPorte,LP41,Governor,,LIB,Donald G Rainwater II,33,0,6,39
+LaPorte,LP41,Attorney General,,DEM,Jonathan Weinzapfel,114,67,96,277
+LaPorte,LP41,Attorney General,,REP,Todd Rokita,214,40,115,369
+LaPorte,LP41,State Senator,8,DEM,Gary Davis,112,62,102,276
+LaPorte,LP41,State Senator,8,REP,Mike Bohacek,224,42,121,387
+LaPorte,LP41,State Representative,20,DEM,Tim Gust,97,52,88,237
+LaPorte,LP41,State Representative,20,REP,Jim Pressel,240,53,134,427
+LaPorte,LP42,Registered Voters,,,,,,,244
+LaPorte,LP42,Ballots Cast,,,,89,12,69,170
+LaPorte,LP42,President,,DEM,Joseph R Biden,33,8,43,84
+LaPorte,LP42,President,,REP,Donald J Trump,50,4,25,79
+LaPorte,LP42,President,,LIB,Jo Jorgensen,2,0,0,2
+LaPorte,LP42,President,,,Write-In,0,0,0,0
+LaPorte,LP42,Governor,,DEM,Woodrow (Woody) Myers,26,4,37,67
+LaPorte,LP42,Governor,,REP,Eric Holcomb,45,8,27,80
+LaPorte,LP42,Governor,,LIB,Donald G Rainwater II,11,0,2,13
+LaPorte,LP42,Attorney General,,DEM,Jonathan Weinzapfel,33,5,40,78
+LaPorte,LP42,Attorney General,,REP,Todd Rokita,44,6,26,76
+LaPorte,LP42,State Senator,8,DEM,Gary Davis,30,5,43,78
+LaPorte,LP42,State Senator,8,REP,Mike Bohacek,48,6,23,77
+LaPorte,LP42,State Representative,20,DEM,Tim Gust,33,3,37,73
+LaPorte,LP42,State Representative,20,REP,Jim Pressel,49,8,29,86
+LaPorte,LP43,Registered Voters,,,,,,,761
+LaPorte,LP43,Ballots Cast,,,,238,80,131,449
+LaPorte,LP43,President,,DEM,Joseph R Biden,60,52,73,185
+LaPorte,LP43,President,,REP,Donald J Trump,168,28,51,247
+LaPorte,LP43,President,,LIB,Jo Jorgensen,6,0,2,8
+LaPorte,LP43,President,,,Write-In,0,0,1,1
+LaPorte,LP43,Governor,,DEM,Woodrow (Woody) Myers,53,38,60,151
+LaPorte,LP43,Governor,,REP,Eric Holcomb,147,38,59,244
+LaPorte,LP43,Governor,,LIB,Donald G Rainwater II,30,1,6,37
+LaPorte,LP43,Attorney General,,DEM,Jonathan Weinzapfel,74,44,65,183
+LaPorte,LP43,Attorney General,,REP,Todd Rokita,152,34,57,243
+LaPorte,LP43,State Senator,8,DEM,Gary Davis,75,45,62,182
+LaPorte,LP43,State Senator,8,REP,Mike Bohacek,155,31,65,251
+LaPorte,LP43,State Representative,20,DEM,Tim Gust,67,40,58,165
+LaPorte,LP43,State Representative,20,REP,Jim Pressel,165,36,69,270
+LaPorte,LP44,Registered Voters,,,,,,,886
+LaPorte,LP44,Ballots Cast,,,,292,59,163,514
+LaPorte,LP44,President,,DEM,Joseph R Biden,90,40,85,215
+LaPorte,LP44,President,,REP,Donald J Trump,176,18,69,263
+LaPorte,LP44,President,,LIB,Jo Jorgensen,21,1,6,28
+LaPorte,LP44,President,,,Write-In,2,0,1,3
+LaPorte,LP44,Governor,,DEM,Woodrow (Woody) Myers,71,35,77,183
+LaPorte,LP44,Governor,,REP,Eric Holcomb,170,20,74,264
+LaPorte,LP44,Governor,,LIB,Donald G Rainwater II,46,1,10,57
+LaPorte,LP44,Attorney General,,DEM,Jonathan Weinzapfel,101,35,85,221
+LaPorte,LP44,Attorney General,,REP,Todd Rokita,177,22,73,272
+LaPorte,LP44,State Senator,8,DEM,Gary Davis,90,33,85,208
+LaPorte,LP44,State Senator,8,REP,Mike Bohacek,195,21,75,291
+LaPorte,LP44,State Representative,20,DEM,Tim Gust,81,32,83,196
+LaPorte,LP44,State Representative,20,REP,Jim Pressel,203,21,78,302
+LaPorte,MC01,Registered Voters,,,,,,,1212
+LaPorte,MC01,Ballots Cast,,,,270,116,382,768
+LaPorte,MC01,President,,DEM,Joseph R Biden,126,76,251,453
+LaPorte,MC01,President,,REP,Donald J Trump,130,36,125,291
+LaPorte,MC01,President,,LIB,Jo Jorgensen,9,2,3,14
+LaPorte,MC01,President,,,Write-In,1,0,0,1
+LaPorte,MC01,Governor,,DEM,Woodrow (Woody) Myers,95,67,200,362
+LaPorte,MC01,Governor,,REP,Eric Holcomb,150,43,159,352
+LaPorte,MC01,Governor,,LIB,Donald G Rainwater II,16,0,12,28
+LaPorte,MC01,Attorney General,,DEM,Jonathan Weinzapfel,127,75,223,425
+LaPorte,MC01,Attorney General,,REP,Todd Rokita,132,35,144,311
+LaPorte,MC01,U.S. House,1,DEM,Frank J Mrvan,127,73,225,425
+LaPorte,MC01,U.S. House,1,REP,Mark Leyva,122,35,132,289
+LaPorte,MC01,U.S. House,1,LIB,Michael Strauss,15,0,12,27
+LaPorte,MC01,U.S. House,1,,Write-In,0,0,0,0
+LaPorte,MC01,State Representative,9,DEM,Patricia A (Pat) Boy,140,74,241,455
+LaPorte,MC01,State Representative,9,REP,Dion Bergeron,121,34,130,285
+LaPorte,MC02,Registered Voters,,,,,,,1043
+LaPorte,MC02,Ballots Cast,,,,167,61,227,455
+LaPorte,MC02,President,,DEM,Joseph R Biden,102,50,163,315
+LaPorte,MC02,President,,REP,Donald J Trump,58,10,58,126
+LaPorte,MC02,President,,LIB,Jo Jorgensen,4,0,1,5
+LaPorte,MC02,President,,,Write-In,1,0,1,2
+LaPorte,MC02,Governor,,DEM,Woodrow (Woody) Myers,86,41,151,278
+LaPorte,MC02,Governor,,REP,Eric Holcomb,62,13,58,133
+LaPorte,MC02,Governor,,LIB,Donald G Rainwater II,13,1,6,20
+LaPorte,MC02,Attorney General,,DEM,Jonathan Weinzapfel,92,42,160,294
+LaPorte,MC02,Attorney General,,REP,Todd Rokita,57,9,55,121
+LaPorte,MC02,U.S. House,1,DEM,Frank J Mrvan,91,42,155,288
+LaPorte,MC02,U.S. House,1,REP,Mark Leyva,57,10,54,121
+LaPorte,MC02,U.S. House,1,LIB,Michael Strauss,9,2,8,19
+LaPorte,MC02,U.S. House,1,,Write-In,1,0,0,1
+LaPorte,MC02,State Representative,9,DEM,Patricia A (Pat) Boy,105,44,170,319
+LaPorte,MC02,State Representative,9,REP,Dion Bergeron,54,9,48,111
+LaPorte,MC03,Registered Voters,,,,,,,1202
+LaPorte,MC03,Ballots Cast,,,,206,56,230,492
+LaPorte,MC03,President,,DEM,Joseph R Biden,137,46,185,368
+LaPorte,MC03,President,,REP,Donald J Trump,59,10,40,109
+LaPorte,MC03,President,,LIB,Jo Jorgensen,8,0,1,9
+LaPorte,MC03,President,,,Write-In,0,0,1,1
+LaPorte,MC03,Governor,,DEM,Woodrow (Woody) Myers,120,40,173,333
+LaPorte,MC03,Governor,,REP,Eric Holcomb,67,14,44,125
+LaPorte,MC03,Governor,,LIB,Donald G Rainwater II,11,1,10,22
+LaPorte,MC03,Attorney General,,DEM,Jonathan Weinzapfel,143,38,186,367
+LaPorte,MC03,Attorney General,,REP,Todd Rokita,54,16,34,104
+LaPorte,MC03,U.S. House,1,DEM,Frank J Mrvan,127,42,184,353
+LaPorte,MC03,U.S. House,1,REP,Mark Leyva,55,11,36,102
+LaPorte,MC03,U.S. House,1,LIB,Michael Strauss,13,0,6,19
+LaPorte,MC03,U.S. House,1,,Write-In,0,0,0,0
+LaPorte,MC03,State Representative,9,DEM,Patricia A (Pat) Boy,144,42,183,369
+LaPorte,MC03,State Representative,9,REP,Dion Bergeron,51,12,42,105
+LaPorte,MC04,Registered Voters,,,,,,,998
+LaPorte,MC04,Ballots Cast,,,,211,35,203,449
+LaPorte,MC04,President,,DEM,Joseph R Biden,177,30,186,393
+LaPorte,MC04,President,,REP,Donald J Trump,29,2,9,40
+LaPorte,MC04,President,,LIB,Jo Jorgensen,3,1,3,7
+LaPorte,MC04,President,,,Write-In,1,0,0,1
+LaPorte,MC04,Governor,,DEM,Woodrow (Woody) Myers,165,24,166,355
+LaPorte,MC04,Governor,,REP,Eric Holcomb,31,4,22,57
+LaPorte,MC04,Governor,,LIB,Donald G Rainwater II,8,1,8,17
+LaPorte,MC04,Attorney General,,DEM,Jonathan Weinzapfel,169,29,186,384
+LaPorte,MC04,Attorney General,,REP,Todd Rokita,28,1,10,39
+LaPorte,MC04,U.S. House,1,DEM,Frank J Mrvan,169,28,178,375
+LaPorte,MC04,U.S. House,1,REP,Mark Leyva,24,2,9,35
+LaPorte,MC04,U.S. House,1,LIB,Michael Strauss,5,1,8,14
+LaPorte,MC04,U.S. House,1,,Write-In,1,0,0,1
+LaPorte,MC04,State Representative,9,DEM,Patricia A (Pat) Boy,168,28,183,379
+LaPorte,MC04,State Representative,9,REP,Dion Bergeron,25,2,10,37
+LaPorte,MC05,Registered Voters,,,,,,,1000
+LaPorte,MC05,Ballots Cast,,,,213,68,204,485
+LaPorte,MC05,President,,DEM,Joseph R Biden,103,53,143,299
+LaPorte,MC05,President,,REP,Donald J Trump,98,14,60,172
+LaPorte,MC05,President,,LIB,Jo Jorgensen,11,1,0,12
+LaPorte,MC05,President,,,Write-In,0,0,0,0
+LaPorte,MC05,Governor,,DEM,Woodrow (Woody) Myers,96,40,121,257
+LaPorte,MC05,Governor,,REP,Eric Holcomb,87,24,67,178
+LaPorte,MC05,Governor,,LIB,Donald G Rainwater II,29,3,14,46
+LaPorte,MC05,Attorney General,,DEM,Jonathan Weinzapfel,121,47,137,305
+LaPorte,MC05,Attorney General,,REP,Todd Rokita,77,21,59,157
+LaPorte,MC05,U.S. House,1,DEM,Frank J Mrvan,104,49,135,288
+LaPorte,MC05,U.S. House,1,REP,Mark Leyva,77,14,55,146
+LaPorte,MC05,U.S. House,1,LIB,Michael Strauss,24,5,12,41
+LaPorte,MC05,U.S. House,1,,Write-In,0,0,0,0
+LaPorte,MC05,State Representative,9,DEM,Patricia A (Pat) Boy,125,55,143,323
+LaPorte,MC05,State Representative,9,REP,Dion Bergeron,80,12,57,149
+LaPorte,MC06,Registered Voters,,,,,,,1039
+LaPorte,MC06,Ballots Cast,,,,265,56,276,597
+LaPorte,MC06,President,,DEM,Joseph R Biden,111,43,176,330
+LaPorte,MC06,President,,REP,Donald J Trump,140,13,94,247
+LaPorte,MC06,President,,LIB,Jo Jorgensen,10,0,5,15
+LaPorte,MC06,President,,,Write-In,0,0,0,0
+LaPorte,MC06,Governor,,DEM,Woodrow (Woody) Myers,88,38,154,280
+LaPorte,MC06,Governor,,REP,Eric Holcomb,145,17,99,261
+LaPorte,MC06,Governor,,LIB,Donald G Rainwater II,27,0,17,44
+LaPorte,MC06,Attorney General,,DEM,Jonathan Weinzapfel,116,41,170,327
+LaPorte,MC06,Attorney General,,REP,Todd Rokita,130,14,91,235
+LaPorte,MC06,U.S. House,1,DEM,Frank J Mrvan,102,42,170,314
+LaPorte,MC06,U.S. House,1,REP,Mark Leyva,132,10,86,228
+LaPorte,MC06,U.S. House,1,LIB,Michael Strauss,16,2,9,27
+LaPorte,MC06,U.S. House,1,,Write-In,0,0,0,0
+LaPorte,MC06,State Representative,9,DEM,Patricia A (Pat) Boy,127,44,181,352
+LaPorte,MC06,State Representative,9,REP,Dion Bergeron,124,11,86,221
+LaPorte,MC07,Registered Voters,,,,,,,879
+LaPorte,MC07,Ballots Cast,,,,197,44,159,400
+LaPorte,MC07,President,,DEM,Joseph R Biden,88,36,82,206
+LaPorte,MC07,President,,REP,Donald J Trump,100,7,74,181
+LaPorte,MC07,President,,LIB,Jo Jorgensen,6,0,1,7
+LaPorte,MC07,President,,,Write-In,1,0,1,2
+LaPorte,MC07,Governor,,DEM,Woodrow (Woody) Myers,78,34,68,180
+LaPorte,MC07,Governor,,REP,Eric Holcomb,89,7,71,167
+LaPorte,MC07,Governor,,LIB,Donald G Rainwater II,23,1,14,38
+LaPorte,MC07,Attorney General,,DEM,Jonathan Weinzapfel,98,36,80,214
+LaPorte,MC07,Attorney General,,REP,Todd Rokita,90,7,72,169
+LaPorte,MC07,U.S. House,1,DEM,Frank J Mrvan,88,35,83,206
+LaPorte,MC07,U.S. House,1,REP,Mark Leyva,87,7,71,165
+LaPorte,MC07,U.S. House,1,LIB,Michael Strauss,17,1,3,21
+LaPorte,MC07,U.S. House,1,,Write-In,0,0,0,0
+LaPorte,MC07,State Representative,9,DEM,Patricia A (Pat) Boy,105,35,89,229
+LaPorte,MC07,State Representative,9,REP,Dion Bergeron,89,8,67,164
+LaPorte,MC08,Registered Voters,,,,,,,717
+LaPorte,MC08,Ballots Cast,,,,168,66,180,414
+LaPorte,MC08,President,,DEM,Joseph R Biden,45,60,111,216
+LaPorte,MC08,President,,REP,Donald J Trump,112,6,64,182
+LaPorte,MC08,President,,LIB,Jo Jorgensen,8,0,2,10
+LaPorte,MC08,President,,,Write-In,1,0,0,1
+LaPorte,MC08,Governor,,DEM,Woodrow (Woody) Myers,49,50,99,198
+LaPorte,MC08,Governor,,REP,Eric Holcomb,96,15,65,176
+LaPorte,MC08,Governor,,LIB,Donald G Rainwater II,21,1,12,34
+LaPorte,MC08,Attorney General,,DEM,Jonathan Weinzapfel,59,56,114,229
+LaPorte,MC08,Attorney General,,REP,Todd Rokita,102,10,58,170
+LaPorte,MC08,U.S. House,1,DEM,Frank J Mrvan,57,53,113,223
+LaPorte,MC08,U.S. House,1,REP,Mark Leyva,96,10,59,165
+LaPorte,MC08,U.S. House,1,LIB,Michael Strauss,10,0,5,15
+LaPorte,MC08,U.S. House,1,,Write-In,0,0,0,0
+LaPorte,MC08,State Representative,9,DEM,Patricia A (Pat) Boy,65,54,120,239
+LaPorte,MC08,State Representative,9,REP,Dion Bergeron,100,10,55,165
+LaPorte,MC09,Registered Voters,,,,,,,893
+LaPorte,MC09,Ballots Cast,,,,175,31,143,349
+LaPorte,MC09,President,,DEM,Joseph R Biden,113,26,115,254
+LaPorte,MC09,President,,REP,Donald J Trump,58,3,28,89
+LaPorte,MC09,President,,LIB,Jo Jorgensen,1,0,0,1
+LaPorte,MC09,President,,,Write-In,0,0,0,0
+LaPorte,MC09,Governor,,DEM,Woodrow (Woody) Myers,101,24,108,233
+LaPorte,MC09,Governor,,REP,Eric Holcomb,50,5,31,86
+LaPorte,MC09,Governor,,LIB,Donald G Rainwater II,14,0,2,16
+LaPorte,MC09,Attorney General,,DEM,Jonathan Weinzapfel,120,26,113,259
+LaPorte,MC09,Attorney General,,REP,Todd Rokita,46,3,25,74
+LaPorte,MC09,U.S. House,1,DEM,Frank J Mrvan,113,27,112,252
+LaPorte,MC09,U.S. House,1,REP,Mark Leyva,39,3,26,68
+LaPorte,MC09,U.S. House,1,LIB,Michael Strauss,16,0,2,18
+LaPorte,MC09,U.S. House,1,,Write-In,0,0,0,0
+LaPorte,MC09,State Representative,9,DEM,Patricia A (Pat) Boy,119,25,115,259
+LaPorte,MC09,State Representative,9,REP,Dion Bergeron,44,4,25,73
+LaPorte,MC10,Registered Voters,,,,,,,1080
+LaPorte,MC10,Ballots Cast,,,,236,48,228,512
+LaPorte,MC10,President,,DEM,Joseph R Biden,95,39,142,276
+LaPorte,MC10,President,,REP,Donald J Trump,132,9,80,221
+LaPorte,MC10,President,,LIB,Jo Jorgensen,8,0,2,10
+LaPorte,MC10,President,,,Write-In,0,0,1,1
+LaPorte,MC10,Governor,,DEM,Woodrow (Woody) Myers,84,36,122,242
+LaPorte,MC10,Governor,,REP,Eric Holcomb,112,11,87,210
+LaPorte,MC10,Governor,,LIB,Donald G Rainwater II,36,0,14,50
+LaPorte,MC10,Attorney General,,DEM,Jonathan Weinzapfel,99,37,134,270
+LaPorte,MC10,Attorney General,,REP,Todd Rokita,122,10,81,213
+LaPorte,MC10,U.S. House,1,DEM,Frank J Mrvan,94,39,138,271
+LaPorte,MC10,U.S. House,1,REP,Mark Leyva,120,6,69,195
+LaPorte,MC10,U.S. House,1,LIB,Michael Strauss,15,1,7,23
+LaPorte,MC10,U.S. House,1,,Write-In,1,0,1,2
+LaPorte,MC10,State Representative,9,DEM,Patricia A (Pat) Boy,107,39,152,298
+LaPorte,MC10,State Representative,9,REP,Dion Bergeron,119,7,67,193
+LaPorte,MC11,Registered Voters,,,,,,,227
+LaPorte,MC11,Ballots Cast,,,,69,12,55,136
+LaPorte,MC11,President,,DEM,Joseph R Biden,30,9,33,72
+LaPorte,MC11,President,,REP,Donald J Trump,37,2,22,61
+LaPorte,MC11,President,,LIB,Jo Jorgensen,1,0,0,1
+LaPorte,MC11,President,,,Write-In,0,0,0,0
+LaPorte,MC11,Governor,,DEM,Woodrow (Woody) Myers,25,8,23,56
+LaPorte,MC11,Governor,,REP,Eric Holcomb,29,2,24,55
+LaPorte,MC11,Governor,,LIB,Donald G Rainwater II,11,1,7,19
+LaPorte,MC11,Attorney General,,DEM,Jonathan Weinzapfel,34,9,32,75
+LaPorte,MC11,Attorney General,,REP,Todd Rokita,27,2,20,49
+LaPorte,MC11,U.S. House,1,DEM,Frank J Mrvan,30,9,31,70
+LaPorte,MC11,U.S. House,1,REP,Mark Leyva,25,2,20,47
+LaPorte,MC11,U.S. House,1,LIB,Michael Strauss,8,0,2,10
+LaPorte,MC11,U.S. House,1,,Write-In,0,0,0,0
+LaPorte,MC11,State Representative,9,DEM,Patricia A (Pat) Boy,34,9,35,78
+LaPorte,MC11,State Representative,9,REP,Dion Bergeron,30,2,20,52
+LaPorte,MC12,Registered Voters,,,,,,,1219
+LaPorte,MC12,Ballots Cast,,,,301,139,355,795
+LaPorte,MC12,President,,DEM,Joseph R Biden,129,102,214,445
+LaPorte,MC12,President,,REP,Donald J Trump,160,32,135,327
+LaPorte,MC12,President,,LIB,Jo Jorgensen,10,4,4,18
+LaPorte,MC12,President,,,Write-In,1,0,0,1
+LaPorte,MC12,Governor,,DEM,Woodrow (Woody) Myers,94,83,172,349
+LaPorte,MC12,Governor,,REP,Eric Holcomb,161,53,156,370
+LaPorte,MC12,Governor,,LIB,Donald G Rainwater II,35,0,15,50
+LaPorte,MC12,Attorney General,,DEM,Jonathan Weinzapfel,137,98,203,438
+LaPorte,MC12,Attorney General,,REP,Todd Rokita,146,36,133,315
+LaPorte,MC12,U.S. House,1,DEM,Frank J Mrvan,122,104,201,427
+LaPorte,MC12,U.S. House,1,REP,Mark Leyva,136,24,127,287
+LaPorte,MC12,U.S. House,1,LIB,Michael Strauss,24,4,12,40
+LaPorte,MC12,U.S. House,1,,Write-In,0,0,0,0
+LaPorte,MC12,State Representative,9,DEM,Patricia A (Pat) Boy,148,113,227,488
+LaPorte,MC12,State Representative,9,REP,Dion Bergeron,143,22,119,284
+LaPorte,MC13,Registered Voters,,,,,,,1001
+LaPorte,MC13,Ballots Cast,,,,219,41,197,457
+LaPorte,MC13,President,,DEM,Joseph R Biden,152,36,154,342
+LaPorte,MC13,President,,REP,Donald J Trump,62,5,38,105
+LaPorte,MC13,President,,LIB,Jo Jorgensen,3,0,1,4
+LaPorte,MC13,President,,,Write-In,0,0,0,0
+LaPorte,MC13,Governor,,DEM,Woodrow (Woody) Myers,149,32,136,317
+LaPorte,MC13,Governor,,REP,Eric Holcomb,54,7,49,110
+LaPorte,MC13,Governor,,LIB,Donald G Rainwater II,11,1,6,18
+LaPorte,MC13,Attorney General,,DEM,Jonathan Weinzapfel,156,32,146,334
+LaPorte,MC13,Attorney General,,REP,Todd Rokita,53,7,38,98
+LaPorte,MC13,U.S. House,1,DEM,Frank J Mrvan,151,35,142,328
+LaPorte,MC13,U.S. House,1,REP,Mark Leyva,51,5,35,91
+LaPorte,MC13,U.S. House,1,LIB,Michael Strauss,8,1,7,16
+LaPorte,MC13,U.S. House,1,,Write-In,0,0,0,0
+LaPorte,MC13,State Representative,9,DEM,Patricia A (Pat) Boy,151,35,145,331
+LaPorte,MC13,State Representative,9,REP,Dion Bergeron,52,5,37,94
+LaPorte,MC14,Registered Voters,,,,,,,937
+LaPorte,MC14,Ballots Cast,,,,201,34,120,355
+LaPorte,MC14,President,,DEM,Joseph R Biden,135,27,80,242
+LaPorte,MC14,President,,REP,Donald J Trump,60,6,34,100
+LaPorte,MC14,President,,LIB,Jo Jorgensen,5,1,3,9
+LaPorte,MC14,President,,,Write-In,0,0,1,1
+LaPorte,MC14,Governor,,DEM,Woodrow (Woody) Myers,127,24,73,224
+LaPorte,MC14,Governor,,REP,Eric Holcomb,57,8,36,101
+LaPorte,MC14,Governor,,LIB,Donald G Rainwater II,14,0,6,20
+LaPorte,MC14,Attorney General,,DEM,Jonathan Weinzapfel,137,24,80,241
+LaPorte,MC14,Attorney General,,REP,Todd Rokita,56,7,35,98
+LaPorte,MC14,U.S. House,1,DEM,Frank J Mrvan,132,23,76,231
+LaPorte,MC14,U.S. House,1,REP,Mark Leyva,50,3,31,84
+LaPorte,MC14,U.S. House,1,LIB,Michael Strauss,18,2,6,26
+LaPorte,MC14,U.S. House,1,,Write-In,0,0,0,0
+LaPorte,MC14,State Senator,8,DEM,Gary Davis,137,25,80,242
+LaPorte,MC14,State Senator,8,REP,Mike Bohacek,62,4,34,100
+LaPorte,MC14,State Representative,9,DEM,Patricia A (Pat) Boy,140,26,82,248
+LaPorte,MC14,State Representative,9,REP,Dion Bergeron,58,3,33,94
+LaPorte,MC15,Registered Voters,,,,,,,778
+LaPorte,MC15,Ballots Cast,,,,164,121,230,515
+LaPorte,MC15,President,,DEM,Joseph R Biden,70,85,149,304
+LaPorte,MC15,President,,REP,Donald J Trump,88,31,75,194
+LaPorte,MC15,President,,LIB,Jo Jorgensen,2,2,1,5
+LaPorte,MC15,President,,,Write-In,1,0,2,3
+LaPorte,MC15,Governor,,DEM,Woodrow (Woody) Myers,61,65,130,256
+LaPorte,MC15,Governor,,REP,Eric Holcomb,91,44,86,221
+LaPorte,MC15,Governor,,LIB,Donald G Rainwater II,6,2,4,12
+LaPorte,MC15,Attorney General,,DEM,Jonathan Weinzapfel,70,72,151,293
+LaPorte,MC15,Attorney General,,REP,Todd Rokita,83,36,66,185
+LaPorte,MC15,U.S. House,1,DEM,Frank J Mrvan,70,70,148,288
+LaPorte,MC15,U.S. House,1,REP,Mark Leyva,77,30,65,172
+LaPorte,MC15,U.S. House,1,LIB,Michael Strauss,9,5,5,19
+LaPorte,MC15,U.S. House,1,,Write-In,0,0,0,0
+LaPorte,MC15,State Senator,8,DEM,Gary Davis,67,65,140,272
+LaPorte,MC15,State Senator,8,REP,Mike Bohacek,90,42,79,211
+LaPorte,MC15,State Representative,9,DEM,Patricia A (Pat) Boy,79,80,164,323
+LaPorte,MC15,State Representative,9,REP,Dion Bergeron,77,30,59,166
+LaPorte,MC16,Registered Voters,,,,,,,1137
+LaPorte,MC16,Ballots Cast,,,,261,88,266,615
+LaPorte,MC16,President,,DEM,Joseph R Biden,137,76,173,386
+LaPorte,MC16,President,,REP,Donald J Trump,112,12,90,214
+LaPorte,MC16,President,,LIB,Jo Jorgensen,8,0,0,8
+LaPorte,MC16,President,,,Write-In,1,0,0,1
+LaPorte,MC16,Governor,,DEM,Woodrow (Woody) Myers,125,57,143,325
+LaPorte,MC16,Governor,,REP,Eric Holcomb,108,29,103,240
+LaPorte,MC16,Governor,,LIB,Donald G Rainwater II,22,0,11,33
+LaPorte,MC16,Attorney General,,DEM,Jonathan Weinzapfel,146,70,160,376
+LaPorte,MC16,Attorney General,,REP,Todd Rokita,97,15,92,204
+LaPorte,MC16,U.S. House,1,DEM,Frank J Mrvan,142,72,167,381
+LaPorte,MC16,U.S. House,1,REP,Mark Leyva,94,10,82,186
+LaPorte,MC16,U.S. House,1,LIB,Michael Strauss,14,1,10,25
+LaPorte,MC16,U.S. House,1,,Write-In,0,0,0,0
+LaPorte,MC16,State Representative,9,DEM,Patricia A (Pat) Boy,154,78,172,404
+LaPorte,MC16,State Representative,9,REP,Dion Bergeron,96,7,82,185
+LaPorte,MC17,Registered Voters,,,,,,,694
+LaPorte,MC17,Ballots Cast,,,,209,70,194,473
+LaPorte,MC17,President,,DEM,Joseph R Biden,99,58,120,277
+LaPorte,MC17,President,,REP,Donald J Trump,104,11,66,181
+LaPorte,MC17,President,,LIB,Jo Jorgensen,5,0,3,8
+LaPorte,MC17,President,,,Write-In,1,0,0,1
+LaPorte,MC17,Governor,,DEM,Woodrow (Woody) Myers,78,44,92,214
+LaPorte,MC17,Governor,,REP,Eric Holcomb,113,20,90,223
+LaPorte,MC17,Governor,,LIB,Donald G Rainwater II,13,0,8,21
+LaPorte,MC17,Attorney General,,DEM,Jonathan Weinzapfel,102,51,116,269
+LaPorte,MC17,Attorney General,,REP,Todd Rokita,96,12,69,177
+LaPorte,MC17,U.S. House,1,DEM,Frank J Mrvan,99,50,119,268
+LaPorte,MC17,U.S. House,1,REP,Mark Leyva,91,11,62,164
+LaPorte,MC17,U.S. House,1,LIB,Michael Strauss,10,3,6,19
+LaPorte,MC17,U.S. House,1,,Write-In,0,0,0,0
+LaPorte,MC17,State Representative,9,DEM,Patricia A (Pat) Boy,116,58,128,302
+LaPorte,MC17,State Representative,9,REP,Dion Bergeron,84,6,64,154
+LaPorte,MC18,Registered Voters,,,,,,,986
+LaPorte,MC18,Ballots Cast,,,,244,107,258,609
+LaPorte,MC18,President,,DEM,Joseph R Biden,120,94,162,376
+LaPorte,MC18,President,,REP,Donald J Trump,116,12,91,219
+LaPorte,MC18,President,,LIB,Jo Jorgensen,4,1,2,7
+LaPorte,MC18,President,,,Write-In,2,0,0,2
+LaPorte,MC18,Governor,,DEM,Woodrow (Woody) Myers,98,74,128,300
+LaPorte,MC18,Governor,,REP,Eric Holcomb,124,30,111,265
+LaPorte,MC18,Governor,,LIB,Donald G Rainwater II,13,1,10,24
+LaPorte,MC18,Attorney General,,DEM,Jonathan Weinzapfel,122,86,161,369
+LaPorte,MC18,Attorney General,,REP,Todd Rokita,110,18,89,217
+LaPorte,MC18,U.S. House,1,DEM,Frank J Mrvan,118,88,155,361
+LaPorte,MC18,U.S. House,1,REP,Mark Leyva,96,12,82,190
+LaPorte,MC18,U.S. House,1,LIB,Michael Strauss,20,3,11,34
+LaPorte,MC18,U.S. House,1,,Write-In,0,0,0,0
+LaPorte,MC18,State Representative,9,DEM,Patricia A (Pat) Boy,139,89,168,396
+LaPorte,MC18,State Representative,9,REP,Dion Bergeron,100,13,82,195
+LaPorte,MC19,Registered Voters,,,,,,,1013
+LaPorte,MC19,Ballots Cast,,,,255,62,218,535
+LaPorte,MC19,President,,DEM,Joseph R Biden,116,54,145,315
+LaPorte,MC19,President,,REP,Donald J Trump,130,5,68,203
+LaPorte,MC19,President,,LIB,Jo Jorgensen,7,0,4,11
+LaPorte,MC19,President,,,Write-In,0,1,0,1
+LaPorte,MC19,Governor,,DEM,Woodrow (Woody) Myers,101,44,122,267
+LaPorte,MC19,Governor,,REP,Eric Holcomb,128,12,74,214
+LaPorte,MC19,Governor,,LIB,Donald G Rainwater II,24,0,14,38
+LaPorte,MC19,Attorney General,,DEM,Jonathan Weinzapfel,126,50,136,312
+LaPorte,MC19,Attorney General,,REP,Todd Rokita,111,5,69,185
+LaPorte,MC19,U.S. House,1,DEM,Frank J Mrvan,115,48,135,298
+LaPorte,MC19,U.S. House,1,REP,Mark Leyva,114,7,61,182
+LaPorte,MC19,U.S. House,1,LIB,Michael Strauss,15,1,14,30
+LaPorte,MC19,U.S. House,1,,Write-In,0,0,0,0
+LaPorte,MC19,State Representative,9,DEM,Patricia A (Pat) Boy,134,47,152,333
+LaPorte,MC19,State Representative,9,REP,Dion Bergeron,111,8,58,177
+LaPorte,MC20,Registered Voters,,,,,,,1121
+LaPorte,MC20,Ballots Cast,,,,305,74,242,621
+LaPorte,MC20,President,,DEM,Joseph R Biden,187,56,167,410
+LaPorte,MC20,President,,REP,Donald J Trump,105,16,70,191
+LaPorte,MC20,President,,LIB,Jo Jorgensen,9,0,1,10
+LaPorte,MC20,President,,,Write-In,1,0,0,1
+LaPorte,MC20,Governor,,DEM,Woodrow (Woody) Myers,179,53,141,373
+LaPorte,MC20,Governor,,REP,Eric Holcomb,97,20,83,200
+LaPorte,MC20,Governor,,LIB,Donald G Rainwater II,21,0,11,32
+LaPorte,MC20,Attorney General,,DEM,Jonathan Weinzapfel,183,55,161,399
+LaPorte,MC20,Attorney General,,REP,Todd Rokita,106,16,66,188
+LaPorte,MC20,U.S. House,1,DEM,Frank J Mrvan,189,56,167,412
+LaPorte,MC20,U.S. House,1,REP,Mark Leyva,93,14,62,169
+LaPorte,MC20,U.S. House,1,LIB,Michael Strauss,12,0,4,16
+LaPorte,MC20,U.S. House,1,,Write-In,0,0,0,0
+LaPorte,MC20,State Senator,8,DEM,Gary Davis,180,54,159,393
+LaPorte,MC20,State Senator,8,REP,Mike Bohacek,110,17,73,200
+LaPorte,MC20,State Representative,9,DEM,Patricia A (Pat) Boy,200,57,169,426
+LaPorte,MC20,State Representative,9,REP,Dion Bergeron,90,13,63,166
+LaPorte,MC21,Registered Voters,,,,,,,320
+LaPorte,MC21,Ballots Cast,,,,62,11,48,121
+LaPorte,MC21,President,,DEM,Joseph R Biden,39,10,39,88
+LaPorte,MC21,President,,REP,Donald J Trump,20,1,9,30
+LaPorte,MC21,President,,LIB,Jo Jorgensen,3,0,0,3
+LaPorte,MC21,President,,,Write-In,0,0,,0
+LaPorte,MC21,Governor,,DEM,Woodrow (Woody) Myers,35,7,30,72
+LaPorte,MC21,Governor,,REP,Eric Holcomb,20,3,15,38
+LaPorte,MC21,Governor,,LIB,Donald G Rainwater II,4,0,1,5
+LaPorte,MC21,Attorney General,,DEM,Jonathan Weinzapfel,38,5,33,76
+LaPorte,MC21,Attorney General,,REP,Todd Rokita,17,5,11,33
+LaPorte,MC21,U.S. House,1,DEM,Frank J Mrvan,39,8,35,82
+LaPorte,MC21,U.S. House,1,REP,Mark Leyva,15,1,9,25
+LaPorte,MC21,U.S. House,1,LIB,Michael Strauss,4,2,2,8
+LaPorte,MC21,U.S. House,1,,Write-In,0,0,0,0
+LaPorte,MC21,State Senator,8,DEM,Gary Davis,40,7,35,82
+LaPorte,MC21,State Senator,8,REP,Mike Bohacek,22,3,11,36
+LaPorte,MC21,State Representative,9,DEM,Patricia A (Pat) Boy,41,7,37,85
+LaPorte,MC21,State Representative,9,REP,Dion Bergeron,18,4,9,31
+LaPorte,MC22,Registered Voters,,,,,,,1485
+LaPorte,MC22,Ballots Cast,,,,348,117,284,749
+LaPorte,MC22,President,,DEM,Joseph R Biden,147,79,169,395
+LaPorte,MC22,President,,REP,Donald J Trump,192,34,111,337
+LaPorte,MC22,President,,LIB,Jo Jorgensen,6,3,1,10
+LaPorte,MC22,President,,,Write-In,1,0,0,1
+LaPorte,MC22,Governor,,DEM,Woodrow (Woody) Myers,116,70,151,337
+LaPorte,MC22,Governor,,REP,Eric Holcomb,181,44,108,333
+LaPorte,MC22,Governor,,LIB,Donald G Rainwater II,41,1,16,58
+LaPorte,MC22,Attorney General,,DEM,Jonathan Weinzapfel,158,78,164,400
+LaPorte,MC22,Attorney General,,REP,Todd Rokita,172,36,106,314
+LaPorte,MC22,U.S. House,1,DEM,Frank J Mrvan,147,71,169,387
+LaPorte,MC22,U.S. House,1,REP,Mark Leyva,167,33,97,297
+LaPorte,MC22,U.S. House,1,LIB,Michael Strauss,21,8,9,38
+LaPorte,MC22,U.S. House,1,,Write-In,0,0,0,0
+LaPorte,MC22,State Senator,8,DEM,Gary Davis,156,71,165,392
+LaPorte,MC22,State Senator,8,REP,Mike Bohacek,178,39,114,331
+LaPorte,MC22,State Representative,9,DEM,Patricia A (Pat) Boy,157,84,172,413
+LaPorte,MC22,State Representative,9,REP,Dion Bergeron,179,29,104,312
+LaPorte,MC23,Registered Voters,,,,,,,1306
+LaPorte,MC23,Ballots Cast,,,,261,175,432,868
+LaPorte,MC23,President,,DEM,Joseph R Biden,115,140,281,536
+LaPorte,MC23,President,,REP,Donald J Trump,138,34,140,312
+LaPorte,MC23,President,,LIB,Jo Jorgensen,3,0,5,8
+LaPorte,MC23,President,,,Write-In,1,1,0,2
+LaPorte,MC23,Governor,,DEM,Woodrow (Woody) Myers,92,105,243,440
+LaPorte,MC23,Governor,,REP,Eric Holcomb,145,68,168,381
+LaPorte,MC23,Governor,,LIB,Donald G Rainwater II,20,1,11,32
+LaPorte,MC23,Attorney General,,DEM,Jonathan Weinzapfel,116,126,257,499
+LaPorte,MC23,Attorney General,,REP,Todd Rokita,124,45,146,315
+LaPorte,MC23,U.S. House,1,DEM,Frank J Mrvan,110,129,265,504
+LaPorte,MC23,U.S. House,1,REP,Mark Leyva,126,36,137,299
+LaPorte,MC23,U.S. House,1,LIB,Michael Strauss,12,2,13,27
+LaPorte,MC23,U.S. House,1,,Write-In,0,0,0,0
+LaPorte,MC23,State Representative,9,DEM,Patricia A (Pat) Boy,129,134,282,545
+LaPorte,MC23,State Representative,9,REP,Dion Bergeron,119,34,134,287
+LaPorte,MC24 NV,Registered Voters,,,,,,,0
+LaPorte,MC24 NV,Ballots Cast,,,,0,0,0,0
+LaPorte,MC24 NV,President,,DEM,Joseph R Biden,0,0,0,0
+LaPorte,MC24 NV,President,,REP,Donald J Trump,0,0,0,0
+LaPorte,MC24 NV,President,,LIB,Jo Jorgensen,0,0,0,0
+LaPorte,MC24 NV,President,,,Write-In,0,0,0,0
+LaPorte,MC24 NV,Governor,,DEM,Woodrow (Woody) Myers,0,0,0,0
+LaPorte,MC24 NV,Governor,,REP,Eric Holcomb,0,0,0,0
+LaPorte,MC24 NV,Governor,,LIB,Donald G Rainwater II,0,0,0,0
+LaPorte,MC24 NV,Attorney General,,DEM,Jonathan Weinzapfel,0,0,0,0
+LaPorte,MC24 NV,Attorney General,,REP,Todd Rokita,0,0,0,0
+LaPorte,MC24 NV,U.S. House,1,DEM,Frank J Mrvan,0,0,0,0
+LaPorte,MC24 NV,U.S. House,1,REP,Mark Leyva,0,0,0,0
+LaPorte,MC24 NV,U.S. House,1,LIB,Michael Strauss,0,0,0,0
+LaPorte,MC24 NV,U.S. House,1,,Write-In,0,0,0,0
+LaPorte,MC24 NV,State Representative,9,DEM,Patricia A (Pat) Boy,0,0,0,0
+LaPorte,MC24 NV,State Representative,9,REP,Dion Bergeron,0,0,0,0
+LaPorte,MC45,Registered Voters,,,,,,,144
+LaPorte,MC45,Ballots Cast,,,,28,16,31,75
+LaPorte,MC45,President,,DEM,Joseph R Biden,21,11,23,55
+LaPorte,MC45,President,,REP,Donald J Trump,7,2,5,14
+LaPorte,MC45,President,,LIB,Jo Jorgensen,0,1,0,1
+LaPorte,MC45,President,,,Write-In,0,0,2,2
+LaPorte,MC45,Governor,,DEM,Woodrow (Woody) Myers,19,10,24,53
+LaPorte,MC45,Governor,,REP,Eric Holcomb,7,2,4,13
+LaPorte,MC45,Governor,,LIB,Donald G Rainwater II,1,2,1,4
+LaPorte,MC45,Attorney General,,DEM,Jonathan Weinzapfel,23,13,24,60
+LaPorte,MC45,Attorney General,,REP,Todd Rokita,4,1,5,10
+LaPorte,MC45,U.S. House,1,DEM,Frank J Mrvan,23,11,23,57
+LaPorte,MC45,U.S. House,1,REP,Mark Leyva,4,2,4,10
+LaPorte,MC45,U.S. House,1,LIB,Michael Strauss,0,1,1,2
+LaPorte,MC45,U.S. House,1,,Write-In,0,0,0,0
+LaPorte,MC45,State Senator,8,DEM,Gary Davis,23,15,22,60
+LaPorte,MC45,State Senator,8,REP,Mike Bohacek,4,0,5,9
+LaPorte,MC45,State Representative,9,DEM,Patricia A (Pat) Boy,22,12,22,56
+LaPorte,MC45,State Representative,9,REP,Dion Bergeron,5,3,5,13
+LaPorte,Michiana Shores 01,Registered Voters,,,,,,,187
+LaPorte,Michiana Shores 01,Ballots Cast,,,,54,21,49,124
+LaPorte,Michiana Shores 01,President,,DEM,Joseph R Biden,25,16,37,78
+LaPorte,Michiana Shores 01,President,,REP,Donald J Trump,26,5,11,42
+LaPorte,Michiana Shores 01,President,,LIB,Jo Jorgensen,0,0,1,1
+LaPorte,Michiana Shores 01,President,,,Write-In,1,0,0,1
+LaPorte,Michiana Shores 01,Governor,,DEM,Woodrow (Woody) Myers,19,13,34,66
+LaPorte,Michiana Shores 01,Governor,,REP,Eric Holcomb,29,7,13,49
+LaPorte,Michiana Shores 01,Governor,,LIB,Donald G Rainwater II,6,0,2,8
+LaPorte,Michiana Shores 01,Attorney General,,DEM,Jonathan Weinzapfel,22,16,36,74
+LaPorte,Michiana Shores 01,Attorney General,,REP,Todd Rokita,30,4,11,45
+LaPorte,Michiana Shores 01,U.S. House,1,DEM,Frank J Mrvan,21,16,36,73
+LaPorte,Michiana Shores 01,U.S. House,1,REP,Mark Leyva,29,4,12,45
+LaPorte,Michiana Shores 01,U.S. House,1,LIB,Michael Strauss,2,0,1,3
+LaPorte,Michiana Shores 01,U.S. House,1,,Write-In,0,0,0,0
+LaPorte,Michiana Shores 01,State Representative,9,DEM,Patricia A (Pat) Boy,22,15,37,74
+LaPorte,Michiana Shores 01,State Representative,9,REP,Dion Bergeron,31,5,12,48
+LaPorte,Michiana Shores 02,Registered Voters,,,,,,,120
+LaPorte,Michiana Shores 02,Ballots Cast,,,,46,27,22,95
+LaPorte,Michiana Shores 02,President,,DEM,Joseph R Biden,22,20,19,61
+LaPorte,Michiana Shores 02,President,,REP,Donald J Trump,22,6,3,31
+LaPorte,Michiana Shores 02,President,,LIB,Jo Jorgensen,2,0,0,2
+LaPorte,Michiana Shores 02,President,,,Write-In,0,1,0,1
+LaPorte,Michiana Shores 02,Governor,,DEM,Woodrow (Woody) Myers,17,16,17,50
+LaPorte,Michiana Shores 02,Governor,,REP,Eric Holcomb,26,9,4,39
+LaPorte,Michiana Shores 02,Governor,,LIB,Donald G Rainwater II,2,0,0,2
+LaPorte,Michiana Shores 02,Attorney General,,DEM,Jonathan Weinzapfel,21,17,18,56
+LaPorte,Michiana Shores 02,Attorney General,,REP,Todd Rokita,24,7,3,34
+LaPorte,Michiana Shores 02,U.S. House,1,DEM,Frank J Mrvan,20,20,19,59
+LaPorte,Michiana Shores 02,U.S. House,1,REP,Mark Leyva,24,4,2,30
+LaPorte,Michiana Shores 02,U.S. House,1,LIB,Michael Strauss,1,1,0,2
+LaPorte,Michiana Shores 02,U.S. House,1,,Write-In,0,0,0,0
+LaPorte,Michiana Shores 02,State Senator,8,DEM,Gary Davis,23,15,15,53
+LaPorte,Michiana Shores 02,State Senator,8,REP,Mike Bohacek,22,10,6,38
+LaPorte,Michiana Shores 02,State Representative,9,DEM,Patricia A (Pat) Boy,22,20,18,60
+LaPorte,Michiana Shores 02,State Representative,9,REP,Dion Bergeron,23,5,3,31
+LaPorte,New Durham 01,Registered Voters,,,,,,,1457
+LaPorte,New Durham 01,Ballots Cast,,,,417,124,441,982
+LaPorte,New Durham 01,President,,DEM,Joseph R Biden,110,75,192,377
+LaPorte,New Durham 01,President,,REP,Donald J Trump,290,46,241,577
+LaPorte,New Durham 01,President,,LIB,Jo Jorgensen,11,1,6,18
+LaPorte,New Durham 01,President,,,Write-In,0,0,1,1
+LaPorte,New Durham 01,Governor,,DEM,Woodrow (Woody) Myers,88,62,159,309
+LaPorte,New Durham 01,Governor,,REP,Eric Holcomb,255,57,232,544
+LaPorte,New Durham 01,Governor,,LIB,Donald G Rainwater II,63,2,43,108
+LaPorte,New Durham 01,Attorney General,,DEM,Jonathan Weinzapfel,118,71,187,376
+LaPorte,New Durham 01,Attorney General,,REP,Todd Rokita,275,47,235,557
+LaPorte,New Durham 01,U.S. House,1,DEM,Frank J Mrvan,111,78,189,378
+LaPorte,New Durham 01,U.S. House,1,REP,Mark Leyva,264,39,222,525
+LaPorte,New Durham 01,U.S. House,1,LIB,Michael Strauss,23,4,19,46
+LaPorte,New Durham 01,U.S. House,1,,Write-In,0,0,1,1
+LaPorte,New Durham 01,State Representative,9,DEM,Patricia A (Pat) Boy,128,83,210,421
+LaPorte,New Durham 01,State Representative,9,REP,Dion Bergeron,268,35,219,522
+LaPorte,New Durham 02,Registered Voters,,,,,,,801
+LaPorte,New Durham 02,Ballots Cast,,,,217,103,224,544
+LaPorte,New Durham 02,President,,DEM,Joseph R Biden,45,68,72,185
+LaPorte,New Durham 02,President,,REP,Donald J Trump,162,33,145,340
+LaPorte,New Durham 02,President,,LIB,Jo Jorgensen,8,2,4,14
+LaPorte,New Durham 02,President,,,Write-In,0,0,0,0
+LaPorte,New Durham 02,Governor,,DEM,Woodrow (Woody) Myers,30,55,50,135
+LaPorte,New Durham 02,Governor,,REP,Eric Holcomb,146,46,138,330
+LaPorte,New Durham 02,Governor,,LIB,Donald G Rainwater II,37,1,33,71
+LaPorte,New Durham 02,Attorney General,,DEM,Jonathan Weinzapfel,52,66,72,190
+LaPorte,New Durham 02,Attorney General,,REP,Todd Rokita,144,36,141,321
+LaPorte,New Durham 02,U.S. House,1,DEM,Frank J Mrvan,49,65,71,185
+LaPorte,New Durham 02,U.S. House,1,REP,Mark Leyva,140,33,131,304
+LaPorte,New Durham 02,U.S. House,1,LIB,Michael Strauss,12,0,6,18
+LaPorte,New Durham 02,U.S. House,1,,Write-In,0,0,0,0
+LaPorte,New Durham 02,State Representative,9,DEM,Patricia A (Pat) Boy,65,65,80,210
+LaPorte,New Durham 02,State Representative,9,REP,Dion Bergeron,138,33,131,302
+LaPorte,Noble,Registered Voters,,,,,,,1256
+LaPorte,Noble,Ballots Cast,,,,579,93,224,896
+LaPorte,Noble,President,,DEM,Joseph R Biden,121,65,69,255
+LaPorte,Noble,President,,REP,Donald J Trump,430,27,154,611
+LaPorte,Noble,President,,LIB,Jo Jorgensen,22,1,1,24
+LaPorte,Noble,President,,,Write-In,1,0,0,1
+LaPorte,Noble,Governor,,DEM,Woodrow (Woody) Myers,96,47,52,195
+LaPorte,Noble,Governor,,REP,Eric Holcomb,374,40,142,556
+LaPorte,Noble,Governor,,LIB,Donald G Rainwater II,100,2,26,128
+LaPorte,Noble,Attorney General,,DEM,Jonathan Weinzapfel,154,63,67,284
+LaPorte,Noble,Attorney General,,REP,Todd Rokita,386,26,142,554
+LaPorte,Noble,State Senator,8,DEM,Gary Davis,141,61,64,266
+LaPorte,Noble,State Senator,8,REP,Mike Bohacek,413,30,147,590
+LaPorte,Noble,State Representative,20,DEM,Tim Gust,110,55,55,220
+LaPorte,Noble,State Representative,20,REP,Jim Pressel,453,36,165,654
+LaPorte,Pleasant,Registered Voters,,,,,,,1535
+LaPorte,Pleasant,Ballots Cast,,,,654,115,321,1090
+LaPorte,Pleasant,President,,DEM,Joseph R Biden,155,73,130,358
+LaPorte,Pleasant,President,,REP,Donald J Trump,475,40,185,700
+LaPorte,Pleasant,President,,LIB,Jo Jorgensen,19,0,2,21
+LaPorte,Pleasant,President,,,Write-In,2,0,0,2
+LaPorte,Pleasant,Governor,,DEM,Woodrow (Woody) Myers,119,54,96,269
+LaPorte,Pleasant,Governor,,REP,Eric Holcomb,420,57,190,667
+LaPorte,Pleasant,Governor,,LIB,Donald G Rainwater II,107,1,30,138
+LaPorte,Pleasant,Attorney General,,DEM,Jonathan Weinzapfel,184,69,134,387
+LaPorte,Pleasant,Attorney General,,REP,Todd Rokita,444,37,174,655
+LaPorte,Pleasant,State Senator,8,DEM,Gary Davis,163,68,123,354
+LaPorte,Pleasant,State Senator,8,REP,Mike Bohacek,470,38,192,700
+LaPorte,Pleasant,State Representative,20,DEM,Tim Gust,139,55,104,298
+LaPorte,Pleasant,State Representative,20,REP,Jim Pressel,496,54,210,760
+LaPorte,Pottawattomie Park,Registered Voters,,,,,,,229
+LaPorte,Pottawattomie Park,Ballots Cast,,,,67,28,60,155
+LaPorte,Pottawattomie Park,President,,DEM,Joseph R Biden,29,18,37,84
+LaPorte,Pottawattomie Park,President,,REP,Donald J Trump,38,10,23,71
+LaPorte,Pottawattomie Park,President,,LIB,Jo Jorgensen,0,0,0,0
+LaPorte,Pottawattomie Park,President,,,Write-In,0,0,0,0
+LaPorte,Pottawattomie Park,Governor,,DEM,Woodrow (Woody) Myers,23,11,35,69
+LaPorte,Pottawattomie Park,Governor,,REP,Eric Holcomb,34,16,23,73
+LaPorte,Pottawattomie Park,Governor,,LIB,Donald G Rainwater II,7,0,0,7
+LaPorte,Pottawattomie Park,Attorney General,,DEM,Jonathan Weinzapfel,26,14,34,74
+LaPorte,Pottawattomie Park,Attorney General,,REP,Todd Rokita,36,13,23,72
+LaPorte,Pottawattomie Park,U.S. House,1,DEM,Frank J Mrvan,24,13,36,73
+LaPorte,Pottawattomie Park,U.S. House,1,REP,Mark Leyva,34,12,21,67
+LaPorte,Pottawattomie Park,U.S. House,1,LIB,Michael Strauss,3,2,1,6
+LaPorte,Pottawattomie Park,U.S. House,1,,Write-In,0,0,0,0
+LaPorte,Pottawattomie Park,State Senator,8,DEM,Gary Davis,26,12,35,73
+LaPorte,Pottawattomie Park,State Senator,8,REP,Mike Bohacek,39,15,24,78
+LaPorte,Pottawattomie Park,State Representative,9,DEM,Patricia A (Pat) Boy,35,20,38,93
+LaPorte,Pottawattomie Park,State Representative,9,REP,Dion Bergeron,29,8,21,58
+LaPorte,Prairie,Registered Voters,,,,,,,174
+LaPorte,Prairie,Ballots Cast,,,,93,8,29,130
+LaPorte,Prairie,President,,DEM,Joseph R Biden,25,5,9,39
+LaPorte,Prairie,President,,REP,Donald J Trump,66,3,20,89
+LaPorte,Prairie,President,,LIB,Jo Jorgensen,2,0,0,2
+LaPorte,Prairie,President,,,Write-In,0,0,0,0
+LaPorte,Prairie,Governor,,DEM,Woodrow (Woody) Myers,19,3,9,31
+LaPorte,Prairie,Governor,,REP,Eric Holcomb,57,5,12,74
+LaPorte,Prairie,Governor,,LIB,Donald G Rainwater II,17,0,7,24
+LaPorte,Prairie,Attorney General,,DEM,Jonathan Weinzapfel,29,3,11,43
+LaPorte,Prairie,Attorney General,,REP,Todd Rokita,56,5,17,78
+LaPorte,Prairie,State Senator,8,DEM,Gary Davis,27,5,8,40
+LaPorte,Prairie,State Senator,8,REP,Mike Bohacek,61,3,20,84
+LaPorte,Prairie,State Representative,20,DEM,Tim Gust,23,1,7,31
+LaPorte,Prairie,State Representative,20,REP,Jim Pressel,67,7,21,95
+LaPorte,Scipio 1,Registered Voters,,,,,,,1333
+LaPorte,Scipio 1,Ballots Cast,,,,480,138,374,992
+LaPorte,Scipio 1,President,,DEM,Joseph R Biden,105,88,128,321
+LaPorte,Scipio 1,President,,REP,Donald J Trump,361,45,244,650
+LaPorte,Scipio 1,President,,LIB,Jo Jorgensen,10,4,2,16
+LaPorte,Scipio 1,President,,,Write-In,0,0,0,0
+LaPorte,Scipio 1,Governor,,DEM,Woodrow (Woody) Myers,79,57,107,243
+LaPorte,Scipio 1,Governor,,REP,Eric Holcomb,322,72,235,629
+LaPorte,Scipio 1,Governor,,LIB,Donald G Rainwater II,67,3,23,93
+LaPorte,Scipio 1,Attorney General,,DEM,Jonathan Weinzapfel,119,74,120,313
+LaPorte,Scipio 1,Attorney General,,REP,Todd Rokita,334,55,233,622
+LaPorte,Scipio 1,State Senator,8,DEM,Gary Davis,122,61,118,301
+LaPorte,Scipio 1,State Senator,8,REP,Mike Bohacek,340,69,249,658
+LaPorte,Scipio 1,State Representative,20,DEM,Tim Gust,96,62,117,275
+LaPorte,Scipio 1,State Representative,20,REP,Jim Pressel,375,70,250,695
+LaPorte,Scipio 2,Registered Voters,,,,,,,1184
+LaPorte,Scipio 2,Ballots Cast,,,,313,156,381,850
+LaPorte,Scipio 2,President,,DEM,Joseph R Biden,88,95,176,359
+LaPorte,Scipio 2,President,,REP,Donald J Trump,215,59,196,470
+LaPorte,Scipio 2,President,,LIB,Jo Jorgensen,8,2,5,15
+LaPorte,Scipio 2,President,,,Write-In,1,0,0,1
+LaPorte,Scipio 2,Governor,,DEM,Woodrow (Woody) Myers,60,65,152,277
+LaPorte,Scipio 2,Governor,,REP,Eric Holcomb,193,84,194,471
+LaPorte,Scipio 2,Governor,,LIB,Donald G Rainwater II,51,4,24,79
+LaPorte,Scipio 2,Attorney General,,DEM,Jonathan Weinzapfel,92,84,169,345
+LaPorte,Scipio 2,Attorney General,,REP,Todd Rokita,201,65,200,466
+LaPorte,Scipio 2,State Senator,8,DEM,Gary Davis,92,75,180,347
+LaPorte,Scipio 2,State Senator,8,REP,Mike Bohacek,209,76,191,476
+LaPorte,Scipio 2,State Representative,20,DEM,Tim Gust,77,66,149,292
+LaPorte,Scipio 2,State Representative,20,REP,Jim Pressel,226,86,224,536
+LaPorte,Springfield 1,Registered Voters,,,,,,,977
+LaPorte,Springfield 1,Ballots Cast,,,,379,86,142,607
+LaPorte,Springfield 1,President,,DEM,Joseph R Biden,97,53,69,219
+LaPorte,Springfield 1,President,,REP,Donald J Trump,269,33,67,369
+LaPorte,Springfield 1,President,,LIB,Jo Jorgensen,9,0,6,15
+LaPorte,Springfield 1,President,,,Write-In,0,0,0,0
+LaPorte,Springfield 1,Governor,,DEM,Woodrow (Woody) Myers,83,48,57,188
+LaPorte,Springfield 1,Governor,,REP,Eric Holcomb,244,36,66,346
+LaPorte,Springfield 1,Governor,,LIB,Donald G Rainwater II,45,2,17,64
+LaPorte,Springfield 1,Attorney General,,DEM,Jonathan Weinzapfel,107,51,71,229
+LaPorte,Springfield 1,Attorney General,,REP,Todd Rokita,250,34,68,352
+LaPorte,Springfield 1,U.S. House,1,DEM,Frank J Mrvan,99,54,66,219
+LaPorte,Springfield 1,U.S. House,1,REP,Mark Leyva,245,27,66,338
+LaPorte,Springfield 1,U.S. House,1,LIB,Michael Strauss,22,3,6,31
+LaPorte,Springfield 1,U.S. House,1,,Write-In,0,0,0,0
+LaPorte,Springfield 1,State Senator,8,DEM,Gary Davis,101,54,61,216
+LaPorte,Springfield 1,State Senator,8,REP,Mike Bohacek,262,30,75,367
+LaPorte,Springfield 1,State Representative,8,DEM,Ryan M Dvorak,117,54,65,236
+LaPorte,Springfield 1,State Representative,8,REP,Timothy Jaycox,241,28,71,340
+LaPorte,Springfield 2,Registered Voters,,,,,,,1058
+LaPorte,Springfield 2,Ballots Cast,,,,350,78,201,629
+LaPorte,Springfield 2,President,,DEM,Joseph R Biden,77,47,93,217
+LaPorte,Springfield 2,President,,REP,Donald J Trump,265,29,100,394
+LaPorte,Springfield 2,President,,LIB,Jo Jorgensen,7,1,3,11
+LaPorte,Springfield 2,President,,,Write-In,0,0,0,0
+LaPorte,Springfield 2,Governor,,DEM,Woodrow (Woody) Myers,68,46,82,196
+LaPorte,Springfield 2,Governor,,REP,Eric Holcomb,230,31,93,354
+LaPorte,Springfield 2,Governor,,LIB,Donald G Rainwater II,32,0,17,49
+LaPorte,Springfield 2,Attorney General,,DEM,Jonathan Weinzapfel,90,50,93,233
+LaPorte,Springfield 2,Attorney General,,REP,Todd Rokita,231,25,98,354
+LaPorte,Springfield 2,U.S. House,1,DEM,Frank J Mrvan,82,44,95,221
+LaPorte,Springfield 2,U.S. House,1,REP,Mark Leyva,228,26,87,341
+LaPorte,Springfield 2,U.S. House,1,LIB,Michael Strauss,17,5,10,32
+LaPorte,Springfield 2,U.S. House,1,,Write-In,0,0,0,0
+LaPorte,Springfield 2,State Senator,8,DEM,Gary Davis,77,48,92,217
+LaPorte,Springfield 2,State Senator,8,REP,Mike Bohacek,251,27,102,380
+LaPorte,Springfield 2,State Representative,8,DEM,Ryan M Dvorak,96,53,99,248
+LaPorte,Springfield 2,State Representative,8,REP,Timothy Jaycox,225,23,92,340
+LaPorte,Springfield 3,Registered Voters,,,,,,,721
+LaPorte,Springfield 3,Ballots Cast,,,,202,70,191,463
+LaPorte,Springfield 3,President,,DEM,Joseph R Biden,62,56,80,198
+LaPorte,Springfield 3,President,,REP,Donald J Trump,134,10,105,249
+LaPorte,Springfield 3,President,,LIB,Jo Jorgensen,5,0,2,7
+LaPorte,Springfield 3,President,,,Write-In,0,1,0,1
+LaPorte,Springfield 3,Governor,,DEM,Woodrow (Woody) Myers,49,46,74,169
+LaPorte,Springfield 3,Governor,,REP,Eric Holcomb,128,21,107,256
+LaPorte,Springfield 3,Governor,,LIB,Donald G Rainwater II,21,0,8,29
+LaPorte,Springfield 3,Attorney General,,DEM,Jonathan Weinzapfel,66,52,85,203
+LaPorte,Springfield 3,Attorney General,,REP,Todd Rokita,122,15,98,235
+LaPorte,Springfield 3,U.S. House,1,DEM,Frank J Mrvan,66,52,83,201
+LaPorte,Springfield 3,U.S. House,1,REP,Mark Leyva,119,13,98,230
+LaPorte,Springfield 3,U.S. House,1,LIB,Michael Strauss,8,1,5,14
+LaPorte,Springfield 3,U.S. House,1,,Write-In,0,0,0,0
+LaPorte,Springfield 3,State Senator,8,DEM,Gary Davis,62,51,78,191
+LaPorte,Springfield 3,State Senator,8,REP,Mike Bohacek,129,15,106,250
+LaPorte,Springfield 3,State Representative,9,DEM,Patricia A (Pat) Boy,75,58,95,228
+LaPorte,Springfield 3,State Representative,9,REP,Dion Bergeron,115,8,92,215
+LaPorte,Trail Creek 01,Registered Voters,,,,,,,1053
+LaPorte,Trail Creek 01,Ballots Cast,,,,295,131,308,734
+LaPorte,Trail Creek 01,President,,DEM,Joseph R Biden,106,93,173,372
+LaPorte,Trail Creek 01,President,,REP,Donald J Trump,178,36,130,344
+LaPorte,Trail Creek 01,President,,LIB,Jo Jorgensen,9,1,2,12
+LaPorte,Trail Creek 01,President,,,Write-In,0,0,0,0
+LaPorte,Trail Creek 01,Governor,,DEM,Woodrow (Woody) Myers,84,75,148,307
+LaPorte,Trail Creek 01,Governor,,REP,Eric Holcomb,174,54,141,369
+LaPorte,Trail Creek 01,Governor,,LIB,Donald G Rainwater II,26,0,15,41
+LaPorte,Trail Creek 01,Attorney General,,DEM,Jonathan Weinzapfel,106,87,161,354
+LaPorte,Trail Creek 01,Attorney General,,REP,Todd Rokita,169,41,130,340
+LaPorte,Trail Creek 01,U.S. House,1,DEM,Frank J Mrvan,102,90,168,360
+LaPorte,Trail Creek 01,U.S. House,1,REP,Mark Leyva,162,36,124,322
+LaPorte,Trail Creek 01,U.S. House,1,LIB,Michael Strauss,19,2,7,28
+LaPorte,Trail Creek 01,U.S. House,1,,Write-In,0,0,0,0
+LaPorte,Trail Creek 01,State Senator,8,DEM,Gary Davis,90,80,161,331
+LaPorte,Trail Creek 01,State Senator,8,REP,Mike Bohacek,194,47,143,384
+LaPorte,Trail Creek 01,State Representative,9,DEM,Patricia A (Pat) Boy,126,96,186,408
+LaPorte,Trail Creek 01,State Representative,9,REP,Dion Bergeron,154,30,114,298
+LaPorte,Trail Creek 02,Registered Voters,,,,,,,715
+LaPorte,Trail Creek 02,Ballots Cast,,,,188,92,190,470
+LaPorte,Trail Creek 02,President,,DEM,Joseph R Biden,64,65,103,232
+LaPorte,Trail Creek 02,President,,REP,Donald J Trump,118,26,84,228
+LaPorte,Trail Creek 02,President,,LIB,Jo Jorgensen,5,0,1,6
+LaPorte,Trail Creek 02,President,,,Write-In,0,0,1,1
+LaPorte,Trail Creek 02,Governor,,DEM,Woodrow (Woody) Myers,56,49,82,187
+LaPorte,Trail Creek 02,Governor,,REP,Eric Holcomb,112,41,89,242
+LaPorte,Trail Creek 02,Governor,,LIB,Donald G Rainwater II,10,0,12,22
+LaPorte,Trail Creek 02,Attorney General,,DEM,Jonathan Weinzapfel,66,58,95,219
+LaPorte,Trail Creek 02,Attorney General,,REP,Todd Rokita,108,29,84,221
+LaPorte,Trail Creek 02,U.S. House,1,DEM,Frank J Mrvan,70,62,98,230
+LaPorte,Trail Creek 02,U.S. House,1,REP,Mark Leyva,98,27,69,194
+LaPorte,Trail Creek 02,U.S. House,1,LIB,Michael Strauss,11,0,11,22
+LaPorte,Trail Creek 02,U.S. House,1,,Write-In,0,0,1,1
+LaPorte,Trail Creek 02,State Senator,8,DEM,Gary Davis,56,58,95,209
+LaPorte,Trail Creek 02,State Senator,8,REP,Mike Bohacek,126,32,88,246
+LaPorte,Trail Creek 02,State Representative,9,DEM,Patricia A (Pat) Boy,81,66,111,258
+LaPorte,Trail Creek 02,State Representative,9,REP,Dion Bergeron,98,25,72,195
+LaPorte,Union,Registered Voters,,,,,,,625
+LaPorte,Union,Ballots Cast,,,,270,38,98,406
+LaPorte,Union,President,,DEM,Joseph R Biden,53,25,37,115
+LaPorte,Union,President,,REP,Donald J Trump,211,13,60,284
+LaPorte,Union,President,,LIB,Jo Jorgensen,6,0,0,6
+LaPorte,Union,President,,,Write-In,0,0,1,1
+LaPorte,Union,Governor,,DEM,Woodrow (Woody) Myers,40,22,30,92
+LaPorte,Union,Governor,,REP,Eric Holcomb,184,15,58,257
+LaPorte,Union,Governor,,LIB,Donald G Rainwater II,44,1,9,54
+LaPorte,Union,Attorney General,,DEM,Jonathan Weinzapfel,62,25,39,126
+LaPorte,Union,Attorney General,,REP,Todd Rokita,197,13,57,267
+LaPorte,Union,State Senator,8,DEM,Gary Davis,59,25,37,121
+LaPorte,Union,State Senator,8,REP,Mike Bohacek,208,12,59,279
+LaPorte,Union,State Representative,20,DEM,Tim Gust,53,18,30,101
+LaPorte,Union,State Representative,20,REP,Jim Pressel,213,19,67,299
+LaPorte,Wanatah 01,Registered Voters,,,,,,,476
+LaPorte,Wanatah 01,Ballots Cast,,,,94,44,206,344
+LaPorte,Wanatah 01,President,,DEM,Joseph R Biden,26,27,78,131
+LaPorte,Wanatah 01,President,,REP,Donald J Trump,61,17,126,204
+LaPorte,Wanatah 01,President,,LIB,Jo Jorgensen,4,0,2,6
+LaPorte,Wanatah 01,President,,,Write-In,1,0,0,1
+LaPorte,Wanatah 01,Governor,,DEM,Woodrow (Woody) Myers,16,19,57,92
+LaPorte,Wanatah 01,Governor,,REP,Eric Holcomb,42,25,120,187
+LaPorte,Wanatah 01,Governor,,LIB,Donald G Rainwater II,31,0,25,56
+LaPorte,Wanatah 01,Attorney General,,DEM,Jonathan Weinzapfel,27,22,76,125
+LaPorte,Wanatah 01,Attorney General,,REP,Todd Rokita,51,20,119,190
+LaPorte,Wanatah 01,U.S. House,1,DEM,Frank J Mrvan,24,23,75,122
+LaPorte,Wanatah 01,U.S. House,1,REP,Mark Leyva,50,18,111,179
+LaPorte,Wanatah 01,U.S. House,1,LIB,Michael Strauss,9,3,9,21
+LaPorte,Wanatah 01,U.S. House,1,,Write-In,0,0,0,0
+LaPorte,Wanatah 01,State Senator,5,DEM,Luke Bohm,25,19,72,116
+LaPorte,Wanatah 01,State Senator,5,REP,Ed Charbonneau,63,23,124,210
+LaPorte,Wanatah 01,State Representative,20,DEM,Tim Gust,23,18,65,106
+LaPorte,Wanatah 01,State Representative,20,REP,Jim Pressel,65,26,133,224
+LaPorte,Wanatah 02,Registered Voters,,,,,,,313
+LaPorte,Wanatah 02,Ballots Cast,,,,76,25,134,235
+LaPorte,Wanatah 02,President,,DEM,Joseph R Biden,21,15,28,64
+LaPorte,Wanatah 02,President,,REP,Donald J Trump,53,9,99,161
+LaPorte,Wanatah 02,President,,LIB,Jo Jorgensen,2,0,5,7
+LaPorte,Wanatah 02,President,,,Write-In,0,0,0,0
+LaPorte,Wanatah 02,Governor,,DEM,Woodrow (Woody) Myers,16,14,24,54
+LaPorte,Wanatah 02,Governor,,REP,Eric Holcomb,47,9,83,139
+LaPorte,Wanatah 02,Governor,,LIB,Donald G Rainwater II,11,1,17,29
+LaPorte,Wanatah 02,Attorney General,,DEM,Jonathan Weinzapfel,19,15,29,63
+LaPorte,Wanatah 02,Attorney General,,REP,Todd Rokita,52,9,92,153
+LaPorte,Wanatah 02,U.S. House,1,DEM,Frank J Mrvan,22,16,29,67
+LaPorte,Wanatah 02,U.S. House,1,REP,Mark Leyva,48,9,88,145
+LaPorte,Wanatah 02,U.S. House,1,LIB,Michael Strauss,3,0,6,9
+LaPorte,Wanatah 02,U.S. House,1,,Write-In,0,0,0,0
+LaPorte,Wanatah 02,State Senator,5,DEM,Luke Bohm,21,14,25,60
+LaPorte,Wanatah 02,State Senator,5,REP,Ed Charbonneau,51,10,96,157
+LaPorte,Wanatah 02,State Representative,9,DEM,Patricia A (Pat) Boy,23,16,34,73
+LaPorte,Wanatah 02,State Representative,9,REP,Dion Bergeron,49,9,88,146
+LaPorte,Washington,Registered Voters,,,,,,,787
+LaPorte,Washington,Ballots Cast,,,,352,65,132,549
+LaPorte,Washington,President,,DEM,Joseph R Biden,82,44,52,178
+LaPorte,Washington,President,,REP,Donald J Trump,255,19,77,351
+LaPorte,Washington,President,,LIB,Jo Jorgensen,11,2,2,15
+LaPorte,Washington,President,,,Write-In,1,0,0,1
+LaPorte,Washington,Governor,,DEM,Woodrow (Woody) Myers,57,36,40,133
+LaPorte,Washington,Governor,,REP,Eric Holcomb,240,27,82,349
+LaPorte,Washington,Governor,,LIB,Donald G Rainwater II,44,0,8,52
+LaPorte,Washington,Attorney General,,DEM,Jonathan Weinzapfel,95,44,45,184
+LaPorte,Washington,Attorney General,,REP,Todd Rokita,239,19,78,336
+LaPorte,Washington,State Senator,8,DEM,Gary Davis,102,40,47,189
+LaPorte,Washington,State Senator,8,REP,Mike Bohacek,237,23,78,338
+LaPorte,Washington,State Representative,20,DEM,Tim Gust,88,36,47,171
+LaPorte,Washington,State Representative,20,REP,Jim Pressel,254,27,77,358
+LaPorte,Westville,Registered Voters,,,,,,,1651
+LaPorte,Westville,Ballots Cast,,,,620,119,267,1006
+LaPorte,Westville,President,,DEM,Joseph R Biden,185,84,121,390
+LaPorte,Westville,President,,REP,Donald J Trump,408,33,138,579
+LaPorte,Westville,President,,LIB,Jo Jorgensen,20,1,5,26
+LaPorte,Westville,President,,,Write-In,0,1,0,1
+LaPorte,Westville,Governor,,DEM,Woodrow (Woody) Myers,132,66,105,303
+LaPorte,Westville,Governor,,REP,Eric Holcomb,363,47,127,537
+LaPorte,Westville,Governor,,LIB,Donald G Rainwater II,115,1,30,146
+LaPorte,Westville,Attorney General,,DEM,Jonathan Weinzapfel,201,80,115,396
+LaPorte,Westville,Attorney General,,REP,Todd Rokita,391,37,140,568
+LaPorte,Westville,U.S. House,1,DEM,Frank J Mrvan,181,78,116,375
+LaPorte,Westville,U.S. House,1,REP,Mark Leyva,366,34,126,526
+LaPorte,Westville,U.S. House,1,LIB,Michael Strauss,52,2,15,69
+LaPorte,Westville,U.S. House,1,,Write-In,0,1,0,1
+LaPorte,Westville,State Representative,9,DEM,Patricia A (Pat) Boy,210,85,127,422
+LaPorte,Westville,State Representative,9,REP,Dion Bergeron,382,32,129,543
+LaPorte,Wills,Registered Voters,,,,,,,1699
+LaPorte,Wills,Ballots Cast,,,,784,144,297,1225
+LaPorte,Wills,President,,DEM,Joseph R Biden,157,93,126,376
+LaPorte,Wills,President,,REP,Donald J Trump,606,45,166,817
+LaPorte,Wills,President,,LIB,Jo Jorgensen,18,5,2,25
+LaPorte,Wills,President,,,Write-In,2,1,0,3
+LaPorte,Wills,Governor,,DEM,Woodrow (Woody) Myers,120,72,105,297
+LaPorte,Wills,Governor,,REP,Eric Holcomb,553,63,169,785
+LaPorte,Wills,Governor,,LIB,Donald G Rainwater II,97,4,17,118
+LaPorte,Wills,Attorney General,,DEM,Jonathan Weinzapfel,184,83,124,391
+LaPorte,Wills,Attorney General,,REP,Todd Rokita,569,48,169,786
+LaPorte,Wills,State Senator,8,DEM,Gary Davis,186,93,123,402
+LaPorte,Wills,State Senator,8,REP,Mike Bohacek,568,44,168,780
+LaPorte,Wills,State Representative,20,DEM,Tim Gust,137,76,108,321
+LaPorte,,State Representative,20,REP,Jim Pressel,621,62,184,867

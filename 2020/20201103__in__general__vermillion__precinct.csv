@@ -1,0 +1,477 @@
+county,precinct,office,district,party,candidate,election_day,absentee,early_voting,votes
+Vermillion,Cayuga,Registered Voters,,,,,,,731
+Vermillion,Cayuga,Ballots Cast,,,,298,35,155,488
+Vermillion,Cayuga,President,,REP,Donald J Trump,236,16,100,352
+Vermillion,Cayuga,President,,DEM,Joseph R Biden,52,19,49,120
+Vermillion,Cayuga,President,,LIB,Jo Jorgensen,6,0,5,11
+Vermillion,Cayuga,President,,,Write-In,0,0,0,0
+Vermillion,Cayuga,Governor,,REP,Eric Holcomb,214,18,103,335
+Vermillion,Cayuga,Governor,,DEM,Woodrow (Woody) Myers,42,16,37,95
+Vermillion,Cayuga,Governor,,LIB,Donald G Rainwater II,32,1,12,45
+Vermillion,Cayuga,Attorney General,,REP,Todd Rokita,194,18,90,302
+Vermillion,Cayuga,Attorney General,,DEM,Jonathan Weinzapfel,83,17,55,155
+Vermillion,Cayuga,U.S. House,8,REP,Larry D. Bucshon,217,16,95,328
+Vermillion,Cayuga,U.S. House,8,DEM,E. Thomasina Marsili,55,18,47,120
+Vermillion,Cayuga,U.S. House,8,LIB,James D Rodenberger,9,0,8,17
+Vermillion,Cayuga,U.S. House,8,,Write-In,0,0,0,0
+Vermillion,Cayuga,State Representative,42,REP,Alan Morrison,198,16,90,304
+Vermillion,Cayuga,State Representative,42,DEM,Amy Burke Adams,89,19,62,170
+Vermillion,Clinton City 1,Registered Voters,,,,,,,848
+Vermillion,Clinton City 1,Ballots Cast,,,,296,48,232,576
+Vermillion,Clinton City 1,President,,REP,Donald J Trump,201,14,127,342
+Vermillion,Clinton City 1,President,,DEM,Joseph R Biden,86,31,95,212
+Vermillion,Clinton City 1,President,,LIB,Jo Jorgensen,9,0,5,14
+Vermillion,Clinton City 1,President,,,Write-In,0,0,0,0
+Vermillion,Clinton City 1,Governor,,REP,Eric Holcomb,173,20,139,332
+Vermillion,Clinton City 1,Governor,,DEM,Woodrow (Woody) Myers,62,22,70,154
+Vermillion,Clinton City 1,Governor,,LIB,Donald G Rainwater II,54,1,15,70
+Vermillion,Clinton City 1,Attorney General,,REP,Todd Rokita,179,14,130,323
+Vermillion,Clinton City 1,Attorney General,,DEM,Jonathan Weinzapfel,107,28,86,221
+Vermillion,Clinton City 1,U.S. House,8,REP,Larry D. Bucshon,182,13,134,329
+Vermillion,Clinton City 1,U.S. House,8,DEM,E. Thomasina Marsili,83,28,83,194
+Vermillion,Clinton City 1,U.S. House,8,LIB,James D Rodenberger,21,0,4,25
+Vermillion,Clinton City 1,U.S. House,8,,Write-In,0,0,0,0
+Vermillion,Clinton City 1,State Representative,42,REP,Alan Morrison,169,11,116,296
+Vermillion,Clinton City 1,State Representative,42,DEM,Amy Burke Adams,115,32,104,251
+Vermillion,Clinton City 2,Registered Voters,,,,,,,672
+Vermillion,Clinton City 2,Ballots Cast,,,,166,29,203,398
+Vermillion,Clinton City 2,President,,REP,Donald J Trump,118,11,127,256
+Vermillion,Clinton City 2,President,,DEM,Joseph R Biden,39,18,72,129
+Vermillion,Clinton City 2,President,,LIB,Jo Jorgensen,7,0,4,11
+Vermillion,Clinton City 2,President,,,Write-In,0,0,0,0
+Vermillion,Clinton City 2,Governor,,REP,Eric Holcomb,105,14,130,249
+Vermillion,Clinton City 2,Governor,,DEM,Woodrow (Woody) Myers,37,13,50,100
+Vermillion,Clinton City 2,Governor,,LIB,Donald G Rainwater II,21,0,18,39
+Vermillion,Clinton City 2,Attorney General,,REP,Todd Rokita,106,11,119,236
+Vermillion,Clinton City 2,Attorney General,,DEM,Jonathan Weinzapfel,55,15,75,145
+Vermillion,Clinton City 2,U.S. House,8,REP,Larry D. Bucshon,112,10,126,248
+Vermillion,Clinton City 2,U.S. House,8,DEM,E. Thomasina Marsili,42,15,65,122
+Vermillion,Clinton City 2,U.S. House,8,LIB,James D Rodenberger,8,0,8,16
+Vermillion,Clinton City 2,U.S. House,8,,Write-In,0,0,0,0
+Vermillion,Clinton City 2,State Representative,42,REP,Alan Morrison,104,11,120,235
+Vermillion,Clinton City 2,State Representative,42,DEM,Amy Burke Adams,58,15,79,152
+Vermillion,Clinton City 3,Registered Voters,,,,,,,675
+Vermillion,Clinton City 3,Ballots Cast,,,,252,32,186,470
+Vermillion,Clinton City 3,President,,REP,Donald J Trump,177,12,101,290
+Vermillion,Clinton City 3,President,,DEM,Joseph R Biden,69,17,79,165
+Vermillion,Clinton City 3,President,,LIB,Jo Jorgensen,3,0,2,5
+Vermillion,Clinton City 3,President,,,Write-In,0,1,0,1
+Vermillion,Clinton City 3,Governor,,REP,Eric Holcomb,166,13,112,291
+Vermillion,Clinton City 3,Governor,,DEM,Woodrow (Woody) Myers,35,14,58,107
+Vermillion,Clinton City 3,Governor,,LIB,Donald G Rainwater II,46,3,15,64
+Vermillion,Clinton City 3,Attorney General,,REP,Todd Rokita,160,13,96,269
+Vermillion,Clinton City 3,Attorney General,,DEM,Jonathan Weinzapfel,81,14,82,177
+Vermillion,Clinton City 3,U.S. House,8,REP,Larry D. Bucshon,178,11,103,292
+Vermillion,Clinton City 3,U.S. House,8,DEM,E. Thomasina Marsili,50,13,76,139
+Vermillion,Clinton City 3,U.S. House,8,LIB,James D Rodenberger,17,3,3,23
+Vermillion,Clinton City 3,U.S. House,8,,Write-In,0,0,0,0
+Vermillion,Clinton City 3,State Representative,42,REP,Alan Morrison,161,14,96,271
+Vermillion,Clinton City 3,State Representative,42,DEM,Amy Burke Adams,86,14,87,187
+Vermillion,Clinton City 4,Registered Voters,,,,,,,731
+Vermillion,Clinton City 4,Ballots Cast,,,,250,45,192,487
+Vermillion,Clinton City 4,President,,REP,Donald J Trump,175,19,120,314
+Vermillion,Clinton City 4,President,,DEM,Joseph R Biden,60,25,66,151
+Vermillion,Clinton City 4,President,,LIB,Jo Jorgensen,12,0,2,14
+Vermillion,Clinton City 4,President,,,Write-In,1,1,1,3
+Vermillion,Clinton City 4,Governor,,REP,Eric Holcomb,156,25,109,290
+Vermillion,Clinton City 4,Governor,,DEM,Woodrow (Woody) Myers,45,18,55,118
+Vermillion,Clinton City 4,Governor,,LIB,Donald G Rainwater II,42,2,22,66
+Vermillion,Clinton City 4,Attorney General,,REP,Todd Rokita,144,20,115,279
+Vermillion,Clinton City 4,Attorney General,,DEM,Jonathan Weinzapfel,93,25,64,182
+Vermillion,Clinton City 4,U.S. House,8,REP,Larry D. Bucshon,162,23,121,306
+Vermillion,Clinton City 4,U.S. House,8,DEM,E. Thomasina Marsili,66,21,60,147
+Vermillion,Clinton City 4,U.S. House,8,LIB,James D Rodenberger,13,0,3,16
+Vermillion,Clinton City 4,U.S. House,8,,Write-In,0,0,0,0
+Vermillion,Clinton City 4,State Representative,42,REP,Alan Morrison,143,17,108,268
+Vermillion,Clinton City 4,State Representative,42,DEM,Amy Burke Adams,95,28,74,197
+Vermillion,Clinton Twp 1,Registered Voters,,,,,,,467
+Vermillion,Clinton Twp 1,Ballots Cast,,,,179,37,131,347
+Vermillion,Clinton Twp 1,President,,REP,Donald J Trump,138,4,76,218
+Vermillion,Clinton Twp 1,President,,DEM,Joseph R Biden,38,31,53,122
+Vermillion,Clinton Twp 1,President,,LIB,Jo Jorgensen,2,0,1,3
+Vermillion,Clinton Twp 1,President,,,Write-In,0,0,0,0
+Vermillion,Clinton Twp 1,Governor,,REP,Eric Holcomb,126,19,77,222
+Vermillion,Clinton Twp 1,Governor,,DEM,Woodrow (Woody) Myers,26,18,34,78
+Vermillion,Clinton Twp 1,Governor,,LIB,Donald G Rainwater II,22,0,14,36
+Vermillion,Clinton Twp 1,Attorney General,,REP,Todd Rokita,113,11,65,189
+Vermillion,Clinton Twp 1,Attorney General,,DEM,Jonathan Weinzapfel,53,24,60,137
+Vermillion,Clinton Twp 1,U.S. House,8,REP,Larry D. Bucshon,125,13,73,211
+Vermillion,Clinton Twp 1,U.S. House,8,DEM,E. Thomasina Marsili,41,23,51,115
+Vermillion,Clinton Twp 1,U.S. House,8,LIB,James D Rodenberger,7,0,3,10
+Vermillion,Clinton Twp 1,U.S. House,8,,Write-In,0,0,0,0
+Vermillion,Clinton Twp 1,State Representative,42,REP,Alan Morrison,108,9,61,178
+Vermillion,Clinton Twp 1,State Representative,42,DEM,Amy Burke Adams,63,26,64,153
+Vermillion,Clinton Twp 2,Registered Voters,,,,,,,662
+Vermillion,Clinton Twp 2,Ballots Cast,,,,288,33,186,507
+Vermillion,Clinton Twp 2,President,,REP,Donald J Trump,208,16,119,343
+Vermillion,Clinton Twp 2,President,,DEM,Joseph R Biden,72,15,63,150
+Vermillion,Clinton Twp 2,President,,LIB,Jo Jorgensen,7,1,1,9
+Vermillion,Clinton Twp 2,President,,,Write-In,0,0,0,0
+Vermillion,Clinton Twp 2,Governor,,REP,Eric Holcomb,195,21,123,339
+Vermillion,Clinton Twp 2,Governor,,DEM,Woodrow (Woody) Myers,61,10,47,118
+Vermillion,Clinton Twp 2,Governor,,LIB,Donald G Rainwater II,27,1,11,39
+Vermillion,Clinton Twp 2,Attorney General,,REP,Todd Rokita,188,17,103,308
+Vermillion,Clinton Twp 2,Attorney General,,DEM,Jonathan Weinzapfel,88,14,67,169
+Vermillion,Clinton Twp 2,U.S. House,8,REP,Larry D. Bucshon,198,19,118,335
+Vermillion,Clinton Twp 2,U.S. House,8,DEM,E. Thomasina Marsili,72,13,57,142
+Vermillion,Clinton Twp 2,U.S. House,8,LIB,James D Rodenberger,7,0,1,8
+Vermillion,Clinton Twp 2,U.S. House,8,,Write-In,0,0,0,0
+Vermillion,Clinton Twp 2,State Representative,42,REP,Alan Morrison,179,15,101,295
+Vermillion,Clinton Twp 2,State Representative,42,DEM,Amy Burke Adams,101,17,74,192
+Vermillion,Clinton Twp 3,Registered Voters,,,,,,,704
+Vermillion,Clinton Twp 3,Ballots Cast,,,,330,68,173,571
+Vermillion,Clinton Twp 3,President,,REP,Donald J Trump,232,21,107,360
+Vermillion,Clinton Twp 3,President,,DEM,Joseph R Biden,81,46,56,183
+Vermillion,Clinton Twp 3,President,,LIB,Jo Jorgensen,13,1,2,16
+Vermillion,Clinton Twp 3,President,,,Write-In,0,0,0,0
+Vermillion,Clinton Twp 3,Governor,,REP,Eric Holcomb,222,33,109,364
+Vermillion,Clinton Twp 3,Governor,,DEM,Woodrow (Woody) Myers,54,32,41,127
+Vermillion,Clinton Twp 3,Governor,,LIB,Donald G Rainwater II,46,2,18,66
+Vermillion,Clinton Twp 3,Attorney General,,REP,Todd Rokita,211,25,105,341
+Vermillion,Clinton Twp 3,Attorney General,,DEM,Jonathan Weinzapfel,107,42,54,203
+Vermillion,Clinton Twp 3,U.S. House,8,REP,Larry D. Bucshon,213,26,106,345
+Vermillion,Clinton Twp 3,U.S. House,8,DEM,E. Thomasina Marsili,77,40,50,167
+Vermillion,Clinton Twp 3,U.S. House,8,LIB,James D Rodenberger,23,1,5,29
+Vermillion,Clinton Twp 3,U.S. House,8,,Write-In,0,0,0,0
+Vermillion,Clinton Twp 3,State Representative,42,REP,Alan Morrison,194,21,95,310
+Vermillion,Clinton Twp 3,State Representative,42,DEM,Amy Burke Adams,123,44,86,233
+Vermillion,Dana,Registered Voters,,,,,,,464
+Vermillion,Dana,Ballots Cast,,,,223,29,89,341
+Vermillion,Dana,President,,REP,Donald J Trump,178,11,70,259
+Vermillion,Dana,President,,DEM,Joseph R Biden,35,16,16,67
+Vermillion,Dana,President,,LIB,Jo Jorgensen,8,1,3,12
+Vermillion,Dana,President,,,Write-In,0,0,0,0
+Vermillion,Dana,Governor,,REP,Eric Holcomb,148,17,64,229
+Vermillion,Dana,Governor,,DEM,Woodrow (Woody) Myers,24,11,13,48
+Vermillion,Dana,Governor,,LIB,Donald G Rainwater II,46,1,10,57
+Vermillion,Dana,Attorney General,,REP,Todd Rokita,166,12,72,250
+Vermillion,Dana,Attorney General,,DEM,Jonathan Weinzapfel,47,15,14,76
+Vermillion,Dana,U.S. House,8,REP,Larry D. Bucshon,162,12,67,241
+Vermillion,Dana,U.S. House,8,DEM,E. Thomasina Marsili,43,13,16,72
+Vermillion,Dana,U.S. House,8,LIB,James D Rodenberger,11,2,2,15
+Vermillion,Dana,U.S. House,8,,Write-In,0,0,0,0
+Vermillion,Dana,State Representative,42,REP,Alan Morrison,160,12,59,231
+Vermillion,Dana,State Representative,42,DEM,Amy Burke Adams,55,16,28,99
+Vermillion,East Helt,Registered Voters,,,,,,,593
+Vermillion,East Helt,Ballots Cast,,,,262,46,181,489
+Vermillion,East Helt,President,,REP,Donald J Trump,212,23,117,352
+Vermillion,East Helt,President,,DEM,Joseph R Biden,38,22,62,122
+Vermillion,East Helt,President,,LIB,Jo Jorgensen,6,1,0,7
+Vermillion,East Helt,President,,,Write-In,0,0,1,1
+Vermillion,East Helt,Governor,,REP,Eric Holcomb,203,29,127,359
+Vermillion,East Helt,Governor,,DEM,Woodrow (Woody) Myers,27,14,43,84
+Vermillion,East Helt,Governor,,LIB,Donald G Rainwater II,25,0,9,34
+Vermillion,East Helt,Attorney General,,REP,Todd Rokita,183,25,111,319
+Vermillion,East Helt,Attorney General,,DEM,Jonathan Weinzapfel,62,17,64,143
+Vermillion,East Helt,U.S. House,8,REP,Larry D. Bucshon,200,26,116,342
+Vermillion,East Helt,U.S. House,8,DEM,E. Thomasina Marsili,41,16,55,112
+Vermillion,East Helt,U.S. House,8,LIB,James D Rodenberger,13,2,3,18
+Vermillion,East Helt,U.S. House,8,,Write-In,0,0,0,0
+Vermillion,East Helt,State Representative,42,REP,Alan Morrison,180,20,102,302
+Vermillion,East Helt,State Representative,42,DEM,Amy Burke Adams,70,22,71,163
+Vermillion,Eugene,Registered Voters,,,,,,,475
+Vermillion,Eugene,Ballots Cast,,,,243,16,113,372
+Vermillion,Eugene,President,,REP,Donald J Trump,200,13,83,296
+Vermillion,Eugene,President,,DEM,Joseph R Biden,37,3,29,69
+Vermillion,Eugene,President,,LIB,Jo Jorgensen,2,0,1,3
+Vermillion,Eugene,President,,,Write-In,0,0,0,0
+Vermillion,Eugene,Governor,,REP,Eric Holcomb,182,12,78,272
+Vermillion,Eugene,Governor,,DEM,Woodrow (Woody) Myers,20,2,18,40
+Vermillion,Eugene,Governor,,LIB,Donald G Rainwater II,32,0,15,47
+Vermillion,Eugene,Attorney General,,REP,Todd Rokita,172,12,80,264
+Vermillion,Eugene,Attorney General,,DEM,Jonathan Weinzapfel,50,3,27,80
+Vermillion,Eugene,U.S. House,8,REP,Larry D. Bucshon,197,12,77,286
+Vermillion,Eugene,U.S. House,8,DEM,E. Thomasina Marsili,34,3,25,62
+Vermillion,Eugene,U.S. House,8,LIB,James D Rodenberger,2,0,3,5
+Vermillion,Eugene,U.S. House,8,,Write-In,0,0,0,0
+Vermillion,Eugene,State Representative,42,REP,Alan Morrison,177,11,72,260
+Vermillion,Eugene,State Representative,42,DEM,Amy Burke Adams,60,5,38,103
+Vermillion,Fairview 1,Registered Voters,,,,,,,445
+Vermillion,Fairview 1,Ballots Cast,,,,167,33,121,321
+Vermillion,Fairview 1,President,,REP,Donald J Trump,125,7,85,217
+Vermillion,Fairview 1,President,,DEM,Joseph R Biden,39,25,35,99
+Vermillion,Fairview 1,President,,LIB,Jo Jorgensen,2,0,0,2
+Vermillion,Fairview 1,President,,,Write-In,1,0,0,1
+Vermillion,Fairview 1,Governor,,REP,Eric Holcomb,108,11,79,198
+Vermillion,Fairview 1,Governor,,DEM,Woodrow (Woody) Myers,35,19,17,71
+Vermillion,Fairview 1,Governor,,LIB,Donald G Rainwater II,23,2,21,46
+Vermillion,Fairview 1,Attorney General,,REP,Todd Rokita,105,9,78,192
+Vermillion,Fairview 1,Attorney General,,DEM,Jonathan Weinzapfel,57,23,34,114
+Vermillion,Fairview 1,U.S. House,8,REP,Larry D. Bucshon,111,10,88,209
+Vermillion,Fairview 1,U.S. House,8,DEM,E. Thomasina Marsili,43,21,25,89
+Vermillion,Fairview 1,U.S. House,8,LIB,James D Rodenberger,8,1,3,12
+Vermillion,Fairview 1,U.S. House,8,,Write-In,0,0,0,0
+Vermillion,Fairview 1,State Representative,42,REP,Alan Morrison,101,7,78,186
+Vermillion,Fairview 1,State Representative,42,DEM,Amy Burke Adams,62,25,39,126
+Vermillion,Fairview 2,Registered Voters,,,,,,,612
+Vermillion,Fairview 2,Ballots Cast,,,,203,74,173,450
+Vermillion,Fairview 2,President,,REP,Donald J Trump,146,23,104,273
+Vermillion,Fairview 2,President,,DEM,Joseph R Biden,48,50,65,163
+Vermillion,Fairview 2,President,,LIB,Jo Jorgensen,6,1,2,9
+Vermillion,Fairview 2,President,,,Write-In,1,0,0,1
+Vermillion,Fairview 2,Governor,,REP,Eric Holcomb,148,27,109,284
+Vermillion,Fairview 2,Governor,,DEM,Woodrow (Woody) Myers,33,42,46,121
+Vermillion,Fairview 2,Governor,,LIB,Donald G Rainwater II,17,3,14,34
+Vermillion,Fairview 2,Attorney General,,REP,Todd Rokita,128,23,99,250
+Vermillion,Fairview 2,Attorney General,,DEM,Jonathan Weinzapfel,65,46,65,176
+Vermillion,Fairview 2,U.S. House,8,REP,Larry D. Bucshon,141,24,105,270
+Vermillion,Fairview 2,U.S. House,8,DEM,E. Thomasina Marsili,50,46,61,157
+Vermillion,Fairview 2,U.S. House,8,LIB,James D Rodenberger,6,0,1,7
+Vermillion,Fairview 2,U.S. House,8,,Write-In,0,0,0,0
+Vermillion,Fairview 2,State Representative,42,REP,Alan Morrison,127,20,99,246
+Vermillion,Fairview 2,State Representative,42,DEM,Amy Burke Adams,68,50,68,186
+Vermillion,Highland,Registered Voters,,,,,,,1060
+Vermillion,Highland,Ballots Cast,,,,495,78,215,788
+Vermillion,Highland,President,,REP,Donald J Trump,414,37,162,613
+Vermillion,Highland,President,,DEM,Joseph R Biden,66,37,53,156
+Vermillion,Highland,President,,LIB,Jo Jorgensen,12,1,0,13
+Vermillion,Highland,President,,,Write-In,1,0,0,1
+Vermillion,Highland,Governor,,REP,Eric Holcomb,334,42,149,525
+Vermillion,Highland,Governor,,DEM,Woodrow (Woody) Myers,34,28,43,105
+Vermillion,Highland,Governor,,LIB,Donald G Rainwater II,120,4,18,142
+Vermillion,Highland,Attorney General,,REP,Todd Rokita,387,36,153,576
+Vermillion,Highland,Attorney General,,DEM,Jonathan Weinzapfel,82,34,54,170
+Vermillion,Highland,U.S. House,8,REP,Larry D. Bucshon,399,42,157,598
+Vermillion,Highland,U.S. House,8,DEM,E. Thomasina Marsili,53,27,48,128
+Vermillion,Highland,U.S. House,8,LIB,James D Rodenberger,21,3,5,29
+Vermillion,Highland,U.S. House,8,,Write-In,0,0,0,0
+Vermillion,Highland,State Representative,42,REP,Alan Morrison,374,43,147,584
+Vermillion,Highland,State Representative,42,DEM,Amy Burke Adams,101,30,63,194
+Vermillion,St Bernice,Registered Voters,,,,,,,595
+Vermillion,St Bernice,Ballots Cast,,,,308,52,99,459
+Vermillion,St Bernice,President,,REP,Donald J Trump,218,14,70,302
+Vermillion,St Bernice,President,,DEM,Joseph R Biden,82,34,24,140
+Vermillion,St Bernice,President,,LIB,Jo Jorgensen,6,3,2,11
+Vermillion,St Bernice,President,,,Write-In,0,0,0,0
+Vermillion,St Bernice,Governor,,REP,Eric Holcomb,196,20,74,290
+Vermillion,St Bernice,Governor,,DEM,Woodrow (Woody) Myers,59,25,15,99
+Vermillion,St Bernice,Governor,,LIB,Donald G Rainwater II,46,4,8,58
+Vermillion,St Bernice,Attorney General,,REP,Todd Rokita,191,20,71,282
+Vermillion,St Bernice,Attorney General,,DEM,Jonathan Weinzapfel,104,31,24,159
+Vermillion,St Bernice,U.S. House,8,REP,Larry D. Bucshon,213,17,76,306
+Vermillion,St Bernice,U.S. House,8,DEM,E. Thomasina Marsili,72,32,20,124
+Vermillion,St Bernice,U.S. House,8,LIB,James D Rodenberger,14,3,0,17
+Vermillion,St Bernice,U.S. House,8,,Write-In,0,0,0,0
+Vermillion,St Bernice,State Representative,42,REP,Alan Morrison,183,21,62,266
+Vermillion,St Bernice,State Representative,42,DEM,Amy Burke Adams,114,30,33,177
+Vermillion,Vermillion 1,Registered Voters,,,,,,,336
+Vermillion,Vermillion 1,Ballots Cast,,,,104,22,120,246
+Vermillion,Vermillion 1,President,,REP,Donald J Trump,82,13,83,178
+Vermillion,Vermillion 1,President,,DEM,Joseph R Biden,17,8,32,57
+Vermillion,Vermillion 1,President,,LIB,Jo Jorgensen,3,1,3,7
+Vermillion,Vermillion 1,President,,,Write-In,0,0,0,0
+Vermillion,Vermillion 1,Governor,,REP,Eric Holcomb,66,13,78,157
+Vermillion,Vermillion 1,Governor,,DEM,Woodrow (Woody) Myers,17,5,18,40
+Vermillion,Vermillion 1,Governor,,LIB,Donald G Rainwater II,18,3,20,41
+Vermillion,Vermillion 1,Attorney General,,REP,Todd Rokita,68,12,75,155
+Vermillion,Vermillion 1,Attorney General,,DEM,Jonathan Weinzapfel,26,7,35,68
+Vermillion,Vermillion 1,U.S. House,8,REP,Larry D. Bucshon,68,11,67,146
+Vermillion,Vermillion 1,U.S. House,8,DEM,E. Thomasina Marsili,22,8,34,64
+Vermillion,Vermillion 1,U.S. House,8,LIB,James D Rodenberger,6,1,11,18
+Vermillion,Vermillion 1,U.S. House,8,,Write-In,0,0,0,0
+Vermillion,Vermillion 1,State Representative,42,REP,Alan Morrison,53,11,62,126
+Vermillion,Vermillion 1,State Representative,42,DEM,Amy Burke Adams,44,10,52,106
+Vermillion,Vermillion 2,Registered Voters,,,,,,,323
+Vermillion,Vermillion 2,Ballots Cast,,,,115,20,134,269
+Vermillion,Vermillion 2,President,,REP,Donald J Trump,100,12,107,219
+Vermillion,Vermillion 2,President,,DEM,Joseph R Biden,9,8,23,40
+Vermillion,Vermillion 2,President,,LIB,Jo Jorgensen,3,0,1,4
+Vermillion,Vermillion 2,President,,,Write-In,2,0,0,2
+Vermillion,Vermillion 2,Governor,,REP,Eric Holcomb,88,10,104,202
+Vermillion,Vermillion 2,Governor,,DEM,Woodrow (Woody) Myers,7,7,12,26
+Vermillion,Vermillion 2,Governor,,LIB,Donald G Rainwater II,15,3,15,33
+Vermillion,Vermillion 2,Attorney General,,REP,Todd Rokita,82,10,100,192
+Vermillion,Vermillion 2,Attorney General,,DEM,Jonathan Weinzapfel,19,8,26,53
+Vermillion,Vermillion 2,U.S. House,8,REP,Larry D. Bucshon,91,12,101,204
+Vermillion,Vermillion 2,U.S. House,8,DEM,E. Thomasina Marsili,10,8,24,42
+Vermillion,Vermillion 2,U.S. House,8,LIB,James D Rodenberger,5,0,2,7
+Vermillion,Vermillion 2,U.S. House,8,,Write-In,0,0,0,0
+Vermillion,Vermillion 2,State Representative,42,REP,Alan Morrison,84,11,93,188
+Vermillion,Vermillion 2,State Representative,42,DEM,Amy Burke Adams,24,8,36,68
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,

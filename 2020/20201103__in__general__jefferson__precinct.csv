@@ -1,0 +1,520 @@
+county,precinct,office,district,party,candidate,election_day,absentee,early_voting,votes
+Jefferson,1~1,Registered Voters,,,,,,,743
+Jefferson,1~1,Ballots Cast,,,,161,97,233,491
+Jefferson,1~1,President,,R,Trump \ Pence,105,14,106,225
+Jefferson,1~1,President,,D,Biden \ Harris,48,80,119,247
+Jefferson,1~1,President,,L,Jorgensen \ Cohen,6,0,6,12
+Jefferson,1~1,Governor,,,Write-ins,2,0,0,2
+Jefferson,1~1,Governor,,R,Holcomb \ Crouch,95,20,114,229
+Jefferson,1~1,Governor,,D,Myers \ Lawson,34,74,93,201
+Jefferson,1~1,Governor,,L,Rainwater II \ Henry,28,0,22,50
+Jefferson,1~1,Attorney General,,R,Todd Rokita,103,10,110,223
+Jefferson,1~1,Attorney General,,D,Jonathan Weinzapfel,48,77,112,237
+Jefferson,1~1,U.S. House,6,R,Greg Pence,102,14,110,226
+Jefferson,1~1,U.S. House,6,D,Jeannine Lee Lake,42,76,108,226
+Jefferson,1~1,U.S. House,6,L,Tom Ferkinhoff,9,0,12,21
+Jefferson,1~1,U.S. House,6,,Write-ins,0,0,0,0
+Jefferson,1~1,State House,66,R,Zach Payne,97,8,102,207
+Jefferson,1~1,State House,66,D,Terry Goodin,59,83,123,265
+Jefferson,1~1,Straight Party,,R,Republican,,,,90
+Jefferson,1~1,Straight Party,,D,Democratic,,,,67
+Jefferson,1~1,Straight Party,,L,Libertarian,,,,0
+Jefferson,1~2,Registered Voters,,,,,,,585
+Jefferson,1~2,Ballots Cast,,,,158,49,142,349
+Jefferson,1~2,President,,R,Trump \ Pence,98,14,60,172
+Jefferson,1~2,President,,D,Biden \ Harris,54,34,79,167
+Jefferson,1~2,President,,L,Jorgensen \ Cohen,6,0,2,8
+Jefferson,1~2,Governor,,,Write-ins,0,0,0,0
+Jefferson,1~2,Governor,,R,Holcomb \ Crouch,87,17,68,172
+Jefferson,1~2,Governor,,D,Myers \ Lawson,45,30,60,135
+Jefferson,1~2,Governor,,L,Rainwater II \ Henry,25,0,11,36
+Jefferson,1~2,Attorney General,,R,Todd Rokita,93,14,61,168
+Jefferson,1~2,Attorney General,,D,Jonathan Weinzapfel,52,33,73,158
+Jefferson,1~2,U.S. House,6,R,Greg Pence,90,13,60,163
+Jefferson,1~2,U.S. House,6,D,Jeannine Lee Lake,61,33,76,170
+Jefferson,1~2,U.S. House,6,L,Tom Ferkinhoff,6,1,2,9
+Jefferson,1~2,U.S. House,6,,Write-ins,0,0,0,0
+Jefferson,1~2,State House,66,R,Zach Payne,88,11,55,154
+Jefferson,1~2,State House,66,D,Terry Goodin,67,37,80,184
+Jefferson,1~2,Straight Party,,R,Republican,,,,66
+Jefferson,1~2,Straight Party,,D,Democratic,,,,60
+Jefferson,1~2,Straight Party,,L,Libertarian,,,,0
+Jefferson,2~1,Registered Voters,,,,,,,815
+Jefferson,2~1,Ballots Cast,,,,181,119,229,529
+Jefferson,2~1,President,,R,Trump \ Pence,114,34,132,280
+Jefferson,2~1,President,,D,Biden \ Harris,63,79,93,235
+Jefferson,2~1,President,,L,Jorgensen \ Cohen,3,3,4,10
+Jefferson,2~1,Governor,,,Write-ins,1,0,0,1
+Jefferson,2~1,Governor,,R,Holcomb \ Crouch,118,44,146,308
+Jefferson,2~1,Governor,,D,Myers \ Lawson,41,70,71,182
+Jefferson,2~1,Governor,,L,Rainwater II \ Henry,19,1,11,31
+Jefferson,2~1,Attorney General,,R,Todd Rokita,117,31,129,277
+Jefferson,2~1,Attorney General,,D,Jonathan Weinzapfel,56,76,86,218
+Jefferson,2~1,U.S. House,6,R,Greg Pence,112,33,134,279
+Jefferson,2~1,U.S. House,6,D,Jeannine Lee Lake,65,74,86,225
+Jefferson,2~1,U.S. House,6,L,Tom Ferkinhoff,3,7,5,15
+Jefferson,2~1,U.S. House,6,,Write-ins,0,0,0,0
+Jefferson,2~1,State House,66,R,Zach Payne,109,30,122,261
+Jefferson,2~1,State House,66,D,Terry Goodin,71,81,100,252
+Jefferson,2~1,Straight Party,,R,Republican,,,,92
+Jefferson,2~1,Straight Party,,D,Democratic,,,,55
+Jefferson,2~1,Straight Party,,L,Libertarian,,,,0
+Jefferson,2~2,Registered Voters,,,,,,,924
+Jefferson,2~2,Ballots Cast,,,,235,110,339,684
+Jefferson,2~2,President,,R,Trump \ Pence,175,31,197,403
+Jefferson,2~2,President,,D,Biden \ Harris,52,74,136,262
+Jefferson,2~2,President,,L,Jorgensen \ Cohen,6,2,2,10
+Jefferson,2~2,Governor,,,Write-ins,1,0,0,1
+Jefferson,2~2,Governor,,R,Holcomb \ Crouch,158,38,213,409
+Jefferson,2~2,Governor,,D,Myers \ Lawson,39,59,93,191
+Jefferson,2~2,Governor,,L,Rainwater II \ Henry,37,7,23,67
+Jefferson,2~2,Attorney General,,R,Todd Rokita,166,40,188,394
+Jefferson,2~2,Attorney General,,D,Jonathan Weinzapfel,53,65,122,240
+Jefferson,2~2,U.S. House,6,R,Greg Pence,161,34,199,394
+Jefferson,2~2,U.S. House,6,D,Jeannine Lee Lake,55,67,123,245
+Jefferson,2~2,U.S. House,6,L,Tom Ferkinhoff,12,6,4,22
+Jefferson,2~2,U.S. House,6,,Write-ins,0,0,0,0
+Jefferson,2~2,State House,66,R,Zach Payne,155,29,186,370
+Jefferson,2~2,State House,66,D,Terry Goodin,77,77,141,295
+Jefferson,2~2,Straight Party,,R,Republican,,,,111
+Jefferson,2~2,Straight Party,,D,Democratic,,,,52
+Jefferson,2~2,Straight Party,,L,Libertarian,,,,0
+Jefferson,3,Registered Voters,,,,,,,623
+Jefferson,3,Ballots Cast,,,,140,97,209,446
+Jefferson,3,President,,R,Trump \ Pence,95,36,115,246
+Jefferson,3,President,,D,Biden \ Harris,38,58,90,186
+Jefferson,3,President,,L,Jorgensen \ Cohen,7,0,2,9
+Jefferson,3,Governor,,,Write-ins,0,0,0,0
+Jefferson,3,Governor,,R,Holcomb \ Crouch,86,45,109,240
+Jefferson,3,Governor,,D,Myers \ Lawson,28,45,77,150
+Jefferson,3,Governor,,L,Rainwater II \ Henry,20,3,17,40
+Jefferson,3,Attorney General,,R,Todd Rokita,93,38,106,237
+Jefferson,3,Attorney General,,D,Jonathan Weinzapfel,36,54,89,179
+Jefferson,3,U.S. House,6,R,Greg Pence,89,35,111,235
+Jefferson,3,U.S. House,6,D,Jeannine Lee Lake,37,59,89,185
+Jefferson,3,U.S. House,6,L,Tom Ferkinhoff,7,0,4,11
+Jefferson,3,U.S. House,6,,Write-ins,0,0,0,0
+Jefferson,3,State House,66,R,Zach Payne,80,36,107,223
+Jefferson,3,State House,66,D,Terry Goodin,52,56,97,205
+Jefferson,3,Straight Party,,R,Republican,,,,77
+Jefferson,3,Straight Party,,D,Democratic,,,,54
+Jefferson,3,Straight Party,,L,Libertarian,,,,0
+Jefferson,4~1,Registered Voters,,,,,,,1007
+Jefferson,4~1,Ballots Cast,,,,239,146,327,712
+Jefferson,4~1,President,,R,Trump \ Pence,177,42,194,413
+Jefferson,4~1,President,,D,Biden \ Harris,53,100,122,275
+Jefferson,4~1,President,,L,Jorgensen \ Cohen,8,2,4,14
+Jefferson,4~1,Governor,,,Write-ins,0,0,0,0
+Jefferson,4~1,Governor,,R,Holcomb \ Crouch,171,65,211,447
+Jefferson,4~1,Governor,,D,Myers \ Lawson,36,72,88,196
+Jefferson,4~1,Governor,,L,Rainwater II \ Henry,26,0,18,44
+Jefferson,4~1,Attorney General,,R,Todd Rokita,174,52,200,426
+Jefferson,4~1,Attorney General,,D,Jonathan Weinzapfel,49,84,105,238
+Jefferson,4~1,U.S. House,6,R,Greg Pence,168,47,198,413
+Jefferson,4~1,U.S. House,6,D,Jeannine Lee Lake,50,87,114,251
+Jefferson,4~1,U.S. House,6,L,Tom Ferkinhoff,8,2,6,16
+Jefferson,4~1,U.S. House,6,,Write-ins,0,0,0,0
+Jefferson,4~1,State House,66,R,Zach Payne,162,40,189,391
+Jefferson,4~1,State House,66,D,Terry Goodin,65,101,131,297
+Jefferson,4~1,Straight Party,,R,Republican,,,,133
+Jefferson,4~1,Straight Party,,D,Democratic,,,,71
+Jefferson,4~1,Straight Party,,L,Libertarian,,,,0
+Jefferson,4-1A,Registered Voters,,,,,,,593
+Jefferson,4-1A,Ballots Cast,,,,157,70,225,452
+Jefferson,4-1A,President,,R,Trump \ Pence,115,33,160,308
+Jefferson,4-1A,President,,D,Biden \ Harris,37,35,59,131
+Jefferson,4-1A,President,,L,Jorgensen \ Cohen,4,2,2,8
+Jefferson,4-1A,Governor,,,Write-ins,0,0,0,0
+Jefferson,4-1A,Governor,,R,Holcomb \ Crouch,101,40,163,304
+Jefferson,4-1A,Governor,,D,Myers \ Lawson,25,27,44,96
+Jefferson,4-1A,Governor,,L,Rainwater II \ Henry,27,2,16,45
+Jefferson,4-1A,Attorney General,,R,Todd Rokita,110,32,161,303
+Jefferson,4-1A,Attorney General,,D,Jonathan Weinzapfel,32,36,57,125
+Jefferson,4-1A,U.S. House,6,R,Greg Pence,115,31,158,304
+Jefferson,4-1A,U.S. House,6,D,Jeannine Lee Lake,32,35,60,127
+Jefferson,4-1A,U.S. House,6,L,Tom Ferkinhoff,5,4,4,13
+Jefferson,4-1A,U.S. House,6,,Write-ins,0,0,0,0
+Jefferson,4-1A,State House,66,R,Zach Payne,114,26,152,292
+Jefferson,4-1A,State House,66,D,Terry Goodin,41,42,73,156
+Jefferson,4-1A,Straight Party,,R,Republican,,,,63
+Jefferson,4-1A,Straight Party,,D,Democratic,,,,23
+Jefferson,4-1A,Straight Party,,L,Libertarian,,,,0
+Jefferson,4~2,Registered Voters,,,,,,,621
+Jefferson,4~2,Ballots Cast,,,,131,48,104,283
+Jefferson,4~2,President,,R,Trump \ Pence,81,17,68,166
+Jefferson,4~2,President,,D,Biden \ Harris,48,31,32,111
+Jefferson,4~2,President,,L,Jorgensen \ Cohen,2,0,1,3
+Jefferson,4~2,Governor,,,Write-ins,0,0,0,0
+Jefferson,4~2,Governor,,R,Holcomb \ Crouch,70,19,69,158
+Jefferson,4~2,Governor,,D,Myers \ Lawson,33,27,26,86
+Jefferson,4~2,Governor,,L,Rainwater II \ Henry,28,0,7,35
+Jefferson,4~2,Attorney General,,R,Todd Rokita,78,20,71,169
+Jefferson,4~2,Attorney General,,D,Jonathan Weinzapfel,43,26,24,93
+Jefferson,4~2,U.S. House,6,R,Greg Pence,78,17,72,167
+Jefferson,4~2,U.S. House,6,D,Jeannine Lee Lake,44,28,29,101
+Jefferson,4~2,U.S. House,6,L,Tom Ferkinhoff,5,1,1,7
+Jefferson,4~2,U.S. House,6,,Write-ins,0,0,0,0
+Jefferson,4~2,State House,66,R,Zach Payne,74,14,62,150
+Jefferson,4~2,State House,66,D,Terry Goodin,55,32,40,127
+Jefferson,4~2,Straight Party,,R,Republican,,,,56
+Jefferson,4~2,Straight Party,,D,Democratic,,,,29
+Jefferson,4~2,Straight Party,,L,Libertarian,,,,0
+Jefferson,4~3,Registered Voters,,,,,,,799
+Jefferson,4~3,Ballots Cast,,,,260,85,195,540
+Jefferson,4~3,President,,R,Trump \ Pence,185,32,124,341
+Jefferson,4~3,President,,D,Biden \ Harris,63,52,69,184
+Jefferson,4~3,President,,L,Jorgensen \ Cohen,8,0,1,9
+Jefferson,4~3,Governor,,,Write-ins,2,1,0,3
+Jefferson,4~3,Governor,,R,Holcomb \ Crouch,173,37,123,333
+Jefferson,4~3,Governor,,D,Myers \ Lawson,46,43,58,147
+Jefferson,4~3,Governor,,L,Rainwater II \ Henry,36,3,10,49
+Jefferson,4~3,Attorney General,,R,Todd Rokita,173,38,118,329
+Jefferson,4~3,Attorney General,,D,Jonathan Weinzapfel,69,43,67,179
+Jefferson,4~3,U.S. House,6,R,Greg Pence,182,34,121,337
+Jefferson,4~3,U.S. House,6,D,Jeannine Lee Lake,65,48,68,181
+Jefferson,4~3,U.S. House,6,L,Tom Ferkinhoff,8,0,2,10
+Jefferson,4~3,U.S. House,6,,Write-ins,0,0,0,0
+Jefferson,4~3,State House,66,R,Zach Payne,176,28,113,317
+Jefferson,4~3,State House,66,D,Terry Goodin,77,57,77,211
+Jefferson,4~3,Straight Party,,R,Republican,,,,115
+Jefferson,4~3,Straight Party,,D,Democratic,,,,38
+Jefferson,4~3,Straight Party,,L,Libertarian,,,,0
+Jefferson,5~1,Registered Voters,,,,,,,1016
+Jefferson,5~1,Ballots Cast,,,,275,102,253,630
+Jefferson,5~1,President,,R,Trump \ Pence,203,39,173,415
+Jefferson,5~1,President,,D,Biden \ Harris,60,60,69,189
+Jefferson,5~1,President,,L,Jorgensen \ Cohen,7,2,3,12
+Jefferson,5~1,Governor,,,Write-ins,0,0,4,4
+Jefferson,5~1,Governor,,R,Holcomb \ Crouch,179,47,173,399
+Jefferson,5~1,Governor,,D,Myers \ Lawson,38,48,57,143
+Jefferson,5~1,Governor,,L,Rainwater II \ Henry,50,3,18,71
+Jefferson,5~1,Attorney General,,R,Todd Rokita,183,36,176,395
+Jefferson,5~1,Attorney General,,D,Jonathan Weinzapfel,71,64,65,200
+Jefferson,5~1,U.S. House,6,R,Greg Pence,192,34,182,408
+Jefferson,5~1,U.S. House,6,D,Jeannine Lee Lake,61,61,61,183
+Jefferson,5~1,U.S. House,6,L,Tom Ferkinhoff,15,3,6,24
+Jefferson,5~1,U.S. House,6,,Write-ins,0,0,0,0
+Jefferson,5~1,State House,66,R,Zach Payne,180,29,170,379
+Jefferson,5~1,State House,66,D,Terry Goodin,88,68,78,234
+Jefferson,5~1,Straight Party,,R,Republican,,,,165
+Jefferson,5~1,Straight Party,,D,Democratic,,,,55
+Jefferson,5~1,Straight Party,,L,Libertarian,,,,0
+Jefferson,5~2,Registered Voters,,,,,,,940
+Jefferson,5~2,Ballots Cast,,,,230,122,235,587
+Jefferson,5~2,President,,R,Trump \ Pence,157,49,147,353
+Jefferson,5~2,President,,D,Biden \ Harris,69,68,83,220
+Jefferson,5~2,President,,L,Jorgensen \ Cohen,3,2,4,9
+Jefferson,5~2,Governor,,,Write-ins,0,0,0,0
+Jefferson,5~2,Governor,,R,Holcomb \ Crouch,147,51,143,341
+Jefferson,5~2,Governor,,D,Myers \ Lawson,33,57,66,156
+Jefferson,5~2,Governor,,L,Rainwater II \ Henry,44,4,22,70
+Jefferson,5~2,Attorney General,,R,Todd Rokita,157,47,140,344
+Jefferson,5~2,Attorney General,,D,Jonathan Weinzapfel,61,61,79,201
+Jefferson,5~2,U.S. House,6,R,Greg Pence,153,46,148,347
+Jefferson,5~2,U.S. House,6,D,Jeannine Lee Lake,59,60,73,192
+Jefferson,5~2,U.S. House,6,L,Tom Ferkinhoff,8,4,5,17
+Jefferson,5~2,U.S. House,6,,Write-ins,0,0,0,0
+Jefferson,5~2,State House,66,R,Zach Payne,143,39,131,313
+Jefferson,5~2,State House,66,D,Terry Goodin,81,72,98,251
+Jefferson,5~2,Straight Party,,R,Republican,,,,112
+Jefferson,5~2,Straight Party,,D,Democratic,,,,59
+Jefferson,5~2,Straight Party,,L,Libertarian,,,,1
+Jefferson,Graham,Registered Voters,,,,,,,1036
+Jefferson,Graham,Ballots Cast,,,,441,115,170,726
+Jefferson,Graham,President,,R,Trump \ Pence,360,38,128,526
+Jefferson,Graham,President,,D,Biden \ Harris,68,71,38,177
+Jefferson,Graham,President,,L,Jorgensen \ Cohen,10,0,2,12
+Jefferson,Graham,Governor,,,Write-ins,1,1,0,2
+Jefferson,Graham,Governor,,R,Holcomb \ Crouch,283,37,115,435
+Jefferson,Graham,Governor,,D,Myers \ Lawson,52,67,30,149
+Jefferson,Graham,Governor,,L,Rainwater II \ Henry,101,5,21,127
+Jefferson,Graham,Attorney General,,R,Todd Rokita,330,38,120,488
+Jefferson,Graham,Attorney General,,D,Jonathan Weinzapfel,81,67,38,186
+Jefferson,Graham,U.S. House,6,R,Greg Pence,342,36,130,508
+Jefferson,Graham,U.S. House,6,D,Jeannine Lee Lake,70,67,35,172
+Jefferson,Graham,U.S. House,6,L,Tom Ferkinhoff,16,0,2,18
+Jefferson,Graham,U.S. House,6,,Write-ins,1,0,0,1
+Jefferson,Graham,State House,69,R,Jim Lucas,340,33,123,496
+Jefferson,Graham,State House,69,D,Jeffery W Prewitt,57,65,31,153
+Jefferson,Graham,State House,69,,Kattrina (Kat) Hardwick,27,6,8,41
+Jefferson,Graham,Straight Party,,R,Republican,,,,200
+Jefferson,Graham,Straight Party,,D,Democratic,,,,61
+Jefferson,Graham,Straight Party,,L,Libertarian,,,,0
+Jefferson,Hanover 1,Registered Voters,,,,,,,902
+Jefferson,Hanover 1,Ballots Cast,,,,206,102,214,522
+Jefferson,Hanover 1,President,,R,Trump \ Pence,122,24,106,252
+Jefferson,Hanover 1,President,,D,Biden \ Harris,72,77,105,254
+Jefferson,Hanover 1,President,,L,Jorgensen \ Cohen,8,1,2,11
+Jefferson,Hanover 1,Governor,,,Write-ins,3,0,1,4
+Jefferson,Hanover 1,Governor,,R,Holcomb \ Crouch,108,44,102,254
+Jefferson,Hanover 1,Governor,,D,Myers \ Lawson,58,54,85,197
+Jefferson,Hanover 1,Governor,,L,Rainwater II \ Henry,37,1,25,63
+Jefferson,Hanover 1,Attorney General,,R,Todd Rokita,113,30,108,251
+Jefferson,Hanover 1,Attorney General,,D,Jonathan Weinzapfel,70,69,97,236
+Jefferson,Hanover 1,U.S. House,6,R,Greg Pence,114,29,110,253
+Jefferson,Hanover 1,U.S. House,6,D,Jeannine Lee Lake,79,68,96,243
+Jefferson,Hanover 1,U.S. House,6,L,Tom Ferkinhoff,9,3,3,15
+Jefferson,Hanover 1,U.S. House,6,,Write-ins,0,0,0,0
+Jefferson,Hanover 1,State House,66,R,Zach Payne,113,25,101,239
+Jefferson,Hanover 1,State House,66,D,Terry Goodin,90,73,108,271
+Jefferson,Hanover 1,Straight Party,,R,Republican,,,,88
+Jefferson,Hanover 1,Straight Party,,D,Democratic,,,,82
+Jefferson,Hanover 1,Straight Party,,L,Libertarian,,,,0
+Jefferson,Hanover 2,Registered Voters,,,,,,,759
+Jefferson,Hanover 2,Ballots Cast,,,,212,82,254,548
+Jefferson,Hanover 2,President,,R,Trump \ Pence,161,39,165,365
+Jefferson,Hanover 2,President,,D,Biden \ Harris,41,41,81,163
+Jefferson,Hanover 2,President,,L,Jorgensen \ Cohen,6,1,7,14
+Jefferson,Hanover 2,Governor,,,Write-ins,2,1,1,4
+Jefferson,Hanover 2,Governor,,R,Holcomb \ Crouch,133,47,168,348
+Jefferson,Hanover 2,Governor,,D,Myers \ Lawson,36,31,66,133
+Jefferson,Hanover 2,Governor,,L,Rainwater II \ Henry,40,3,16,59
+Jefferson,Hanover 2,Attorney General,,R,Todd Rokita,150,39,166,355
+Jefferson,Hanover 2,Attorney General,,D,Jonathan Weinzapfel,45,40,71,156
+Jefferson,Hanover 2,U.S. House,6,R,Greg Pence,153,41,176,370
+Jefferson,Hanover 2,U.S. House,6,D,Jeannine Lee Lake,45,36,69,150
+Jefferson,Hanover 2,U.S. House,6,L,Tom Ferkinhoff,8,2,4,14
+Jefferson,Hanover 2,U.S. House,6,,Write-ins,0,0,0,0
+Jefferson,Hanover 2,State House,66,R,Zach Payne,141,28,146,315
+Jefferson,Hanover 2,State House,66,D,Terry Goodin,65,52,101,218
+Jefferson,Hanover 2,Straight Party,,R,Republican,,,,125
+Jefferson,Hanover 2,Straight Party,,D,Democratic,,,,47
+Jefferson,Hanover 2,Straight Party,,L,Libertarian,,,,0
+Jefferson,Hanover 2A,Registered Voters,,,,,,,654
+Jefferson,Hanover 2A,Ballots Cast,,,,225,61,163,449
+Jefferson,Hanover 2A,President,,R,Trump \ Pence,171,22,100,293
+Jefferson,Hanover 2A,President,,D,Biden \ Harris,42,38,58,138
+Jefferson,Hanover 2A,President,,L,Jorgensen \ Cohen,11,1,4,16
+Jefferson,Hanover 2A,Governor,,,Write-ins,0,0,0,0
+Jefferson,Hanover 2A,Governor,,R,Holcomb \ Crouch,154,30,97,281
+Jefferson,Hanover 2A,Governor,,D,Myers \ Lawson,30,26,48,104
+Jefferson,Hanover 2A,Governor,,L,Rainwater II \ Henry,39,2,15,56
+Jefferson,Hanover 2A,Attorney General,,R,Todd Rokita,171,22,99,292
+Jefferson,Hanover 2A,Attorney General,,D,Jonathan Weinzapfel,43,34,57,134
+Jefferson,Hanover 2A,U.S. House,6,R,Greg Pence,170,21,100,291
+Jefferson,Hanover 2A,U.S. House,6,D,Jeannine Lee Lake,41,34,51,126
+Jefferson,Hanover 2A,U.S. House,6,L,Tom Ferkinhoff,11,0,6,17
+Jefferson,Hanover 2A,U.S. House,6,,Write-ins,0,0,0,0
+Jefferson,Hanover 2A,State House,66,R,Zach Payne,162,18,90,270
+Jefferson,Hanover 2A,State House,66,D,Terry Goodin,56,40,69,165
+Jefferson,Hanover 2A,Straight Party,,R,Republican,,,,118
+Jefferson,Hanover 2A,Straight Party,,D,Democratic,,,,32
+Jefferson,Hanover 2A,Straight Party,,L,Libertarian,,,,0
+Jefferson,Hanover 3,Registered Voters,,,,,,,860
+Jefferson,Hanover 3,Ballots Cast,,,,189,84,202,475
+Jefferson,Hanover 3,President,,R,Trump \ Pence,135,17,125,277
+Jefferson,Hanover 3,President,,D,Biden \ Harris,45,67,70,182
+Jefferson,Hanover 3,President,,L,Jorgensen \ Cohen,7,0,7,14
+Jefferson,Hanover 3,Governor,,,Write-ins,1,0,0,1
+Jefferson,Hanover 3,Governor,,R,Holcomb \ Crouch,120,23,118,261
+Jefferson,Hanover 3,Governor,,D,Myers \ Lawson,29,58,61,148
+Jefferson,Hanover 3,Governor,,L,Rainwater II \ Henry,32,2,21,55
+Jefferson,Hanover 3,Attorney General,,R,Todd Rokita,122,15,112,249
+Jefferson,Hanover 3,Attorney General,,D,Jonathan Weinzapfel,49,63,78,190
+Jefferson,Hanover 3,U.S. House,6,R,Greg Pence,130,15,121,266
+Jefferson,Hanover 3,U.S. House,6,D,Jeannine Lee Lake,40,62,76,178
+Jefferson,Hanover 3,U.S. House,6,L,Tom Ferkinhoff,10,1,4,15
+Jefferson,Hanover 3,U.S. House,6,,Write-ins,0,0,0,0
+Jefferson,Hanover 3,State House,66,R,Zach Payne,126,14,106,246
+Jefferson,Hanover 3,State House,66,D,Terry Goodin,55,67,93,215
+Jefferson,Hanover 3,Straight Party,,R,Republican,,,,97
+Jefferson,Hanover 3,Straight Party,,D,Democratic,,,,50
+Jefferson,Hanover 3,Straight Party,,L,Libertarian,,,,0
+Jefferson,Lancaster,Registered Voters,,,,,,,1051
+Jefferson,Lancaster,Ballots Cast,,,,462,89,186,737
+Jefferson,Lancaster,President,,R,Trump \ Pence,390,31,134,555
+Jefferson,Lancaster,President,,D,Biden \ Harris,61,54,48,163
+Jefferson,Lancaster,President,,L,Jorgensen \ Cohen,8,3,3,14
+Jefferson,Lancaster,Governor,,,Write-ins,0,0,0,0
+Jefferson,Lancaster,Governor,,R,Holcomb \ Crouch,315,25,122,462
+Jefferson,Lancaster,Governor,,D,Myers \ Lawson,47,56,36,139
+Jefferson,Lancaster,Governor,,L,Rainwater II \ Henry,93,5,23,121
+Jefferson,Lancaster,Attorney General,,R,Todd Rokita,364,24,129,517
+Jefferson,Lancaster,Attorney General,,D,Jonathan Weinzapfel,67,61,48,176
+Jefferson,Lancaster,U.S. House,6,R,Greg Pence,377,26,131,534
+Jefferson,Lancaster,U.S. House,6,D,Jeannine Lee Lake,60,59,48,167
+Jefferson,Lancaster,U.S. House,6,L,Tom Ferkinhoff,14,1,5,20
+Jefferson,Lancaster,U.S. House,6,,Write-ins,0,0,0,0
+Jefferson,Lancaster,State House,69,R,Jim Lucas,371,29,135,535
+Jefferson,Lancaster,State House,69,D,Jeffery W Prewitt,56,55,40,151
+Jefferson,Lancaster,State House,69,,Kattrina (Kat) Hardwick,19,1,10,30
+Jefferson,Lancaster,Straight Party,,R,Republican,,,,212
+Jefferson,Lancaster,Straight Party,,D,Democratic,,,,61
+Jefferson,Lancaster,Straight Party,,L,Libertarian,,,,1
+Jefferson,Madison 1,Registered Voters,,,,,,,1177
+Jefferson,Madison 1,Ballots Cast,,,,413,76,352,841
+Jefferson,Madison 1,President,,R,Trump \ Pence,324,26,252,602
+Jefferson,Madison 1,President,,D,Biden \ Harris,65,46,91,202
+Jefferson,Madison 1,President,,L,Jorgensen \ Cohen,11,1,6,18
+Jefferson,Madison 1,Governor,,,Write-ins,4,1,2,7
+Jefferson,Madison 1,Governor,,R,Holcomb \ Crouch,283,32,257,572
+Jefferson,Madison 1,Governor,,D,Myers \ Lawson,60,40,69,169
+Jefferson,Madison 1,Governor,,L,Rainwater II \ Henry,59,3,22,84
+Jefferson,Madison 1,Attorney General,,R,Todd Rokita,313,32,242,587
+Jefferson,Madison 1,Attorney General,,D,Jonathan Weinzapfel,68,42,84,194
+Jefferson,Madison 1,U.S. House,6,R,Greg Pence,325,28,257,610
+Jefferson,Madison 1,U.S. House,6,D,Jeannine Lee Lake,66,45,78,189
+Jefferson,Madison 1,U.S. House,6,L,Tom Ferkinhoff,9,3,6,18
+Jefferson,Madison 1,U.S. House,6,,Write-ins,0,0,1,1
+Jefferson,Madison 1,State House,67,R,Randy Frye,338,43,279,660
+Jefferson,Madison 1,Straight Party,,R,Republican,,,,207
+Jefferson,Madison 1,Straight Party,,D,Democratic,,,,56
+Jefferson,Madison 1,Straight Party,,L,Libertarian,,,,0
+Jefferson,Madison 2,Registered Voters,,,,,,,1442
+Jefferson,Madison 2,Ballots Cast,,,,437,129,430,996
+Jefferson,Madison 2,President,,R,Trump \ Pence,347,44,277,668
+Jefferson,Madison 2,President,,D,Biden \ Harris,74,77,144,295
+Jefferson,Madison 2,President,,L,Jorgensen \ Cohen,10,4,6,20
+Jefferson,Madison 2,Governor,,,Write-ins,2,1,0,3
+Jefferson,Madison 2,Governor,,R,Holcomb \ Crouch,314,67,283,664
+Jefferson,Madison 2,Governor,,D,Myers \ Lawson,59,46,108,213
+Jefferson,Madison 2,Governor,,L,Rainwater II \ Henry,58,4,34,96
+Jefferson,Madison 2,Attorney General,,R,Todd Rokita,327,44,272,643
+Jefferson,Madison 2,Attorney General,,D,Jonathan Weinzapfel,82,72,125,279
+Jefferson,Madison 2,U.S. House,6,R,Greg Pence,344,46,275,665
+Jefferson,Madison 2,U.S. House,6,D,Jeannine Lee Lake,70,70,140,280
+Jefferson,Madison 2,U.S. House,6,L,Tom Ferkinhoff,15,1,7,23
+Jefferson,Madison 2,U.S. House,6,,Write-ins,0,0,0,0
+Jefferson,Madison 2,State House,66,R,Zach Payne,306,41,242,589
+Jefferson,Madison 2,State House,66,D,Terry Goodin,118,79,174,371
+Jefferson,Madison 2,Straight Party,,R,Republican,,,,208
+Jefferson,Madison 2,Straight Party,,D,Democratic,,,,78
+Jefferson,Madison 2,Straight Party,,L,Libertarian,,,,0
+Jefferson,Madison 3,Registered Voters,,,,,,,1189
+Jefferson,Madison 3,Ballots Cast,,,,350,97,240,687
+Jefferson,Madison 3,President,,R,Trump \ Pence,257,38,157,452
+Jefferson,Madison 3,President,,D,Biden \ Harris,79,58,78,215
+Jefferson,Madison 3,President,,L,Jorgensen \ Cohen,8,1,3,12
+Jefferson,Madison 3,Governor,,,Write-ins,1,0,0,1
+Jefferson,Madison 3,Governor,,R,Holcomb \ Crouch,217,49,158,424
+Jefferson,Madison 3,Governor,,D,Myers \ Lawson,59,46,59,164
+Jefferson,Madison 3,Governor,,L,Rainwater II \ Henry,62,1,18,81
+Jefferson,Madison 3,Attorney General,,R,Todd Rokita,241,40,153,434
+Jefferson,Madison 3,Attorney General,,D,Jonathan Weinzapfel,78,55,70,203
+Jefferson,Madison 3,U.S. House,6,R,Greg Pence,252,40,156,448
+Jefferson,Madison 3,U.S. House,6,D,Jeannine Lee Lake,77,52,69,198
+Jefferson,Madison 3,U.S. House,6,L,Tom Ferkinhoff,11,2,8,21
+Jefferson,Madison 3,U.S. House,6,,Write-ins,0,0,0,0
+Jefferson,Madison 3,State House,67,R,Randy Frye,274,56,182,512
+Jefferson,Madison 3,Straight Party,,R,Republican,,,,154
+Jefferson,Madison 3,Straight Party,,D,Democratic,,,,68
+Jefferson,Madison 3,Straight Party,,L,Libertarian,,,,1
+Jefferson,Milton,Registered Voters,,,,,,,625
+Jefferson,Milton,Ballots Cast,,,,264,48,133,445
+Jefferson,Milton,President,,R,Trump \ Pence,204,18,85,307
+Jefferson,Milton,President,,D,Biden \ Harris,49,29,44,122
+Jefferson,Milton,President,,L,Jorgensen \ Cohen,6,1,2,9
+Jefferson,Milton,Governor,,,Write-ins,1,0,0,1
+Jefferson,Milton,Governor,,R,Holcomb \ Crouch,185,20,81,286
+Jefferson,Milton,Governor,,D,Myers \ Lawson,34,24,36,94
+Jefferson,Milton,Governor,,L,Rainwater II \ Henry,41,2,13,56
+Jefferson,Milton,Attorney General,,R,Todd Rokita,192,16,85,293
+Jefferson,Milton,Attorney General,,D,Jonathan Weinzapfel,55,28,44,127
+Jefferson,Milton,U.S. House,6,R,Greg Pence,194,15,85,294
+Jefferson,Milton,U.S. House,6,D,Jeannine Lee Lake,54,28,42,124
+Jefferson,Milton,U.S. House,6,L,Tom Ferkinhoff,7,3,5,15
+Jefferson,Milton,U.S. House,6,,Write-ins,0,0,0,0
+Jefferson,Milton,State House,67,R,Randy Frye,209,21,97,327
+Jefferson,Milton,Straight Party,,R,Republican,,,,128
+Jefferson,Milton,Straight Party,,D,Democratic,,,,35
+Jefferson,Milton,Straight Party,,L,Libertarian,,,,0
+Jefferson,Monroe,Registered Voters,,,,,,,240
+Jefferson,Monroe,Ballots Cast,,,,108,22,54,184
+Jefferson,Monroe,President,,R,Trump \ Pence,89,5,36,130
+Jefferson,Monroe,President,,D,Biden \ Harris,15,16,16,47
+Jefferson,Monroe,President,,L,Jorgensen \ Cohen,3,0,0,3
+Jefferson,Monroe,Governor,,,Write-ins,0,0,0,0
+Jefferson,Monroe,Governor,,R,Holcomb \ Crouch,66,12,35,113
+Jefferson,Monroe,Governor,,D,Myers \ Lawson,11,8,13,32
+Jefferson,Monroe,Governor,,L,Rainwater II \ Henry,29,0,5,34
+Jefferson,Monroe,Attorney General,,R,Todd Rokita,80,4,34,118
+Jefferson,Monroe,Attorney General,,D,Jonathan Weinzapfel,22,17,15,54
+Jefferson,Monroe,U.S. House,6,R,Greg Pence,90,5,37,132
+Jefferson,Monroe,U.S. House,6,D,Jeannine Lee Lake,14,17,16,47
+Jefferson,Monroe,U.S. House,6,L,Tom Ferkinhoff,3,0,0,3
+Jefferson,Monroe,U.S. House,6,,Write-ins,0,0,0,0
+Jefferson,Monroe,State House,67,R,Randy Frye,93,8,40,141
+Jefferson,Monroe,Straight Party,,R,Republican,,,,35
+Jefferson,Monroe,Straight Party,,D,Democratic,,,,12
+Jefferson,Monroe,Straight Party,,L,Libertarian,,,,0
+Jefferson,Republican,Registered Voters,,,,,,,1150
+Jefferson,Republican,Ballots Cast,,,,454,127,240,821
+Jefferson,Republican,President,,R,Trump \ Pence,377,49,164,590
+Jefferson,Republican,President,,D,Biden \ Harris,64,75,69,208
+Jefferson,Republican,President,,L,Jorgensen \ Cohen,9,0,7,16
+Jefferson,Republican,Governor,,,Write-ins,1,0,0,1
+Jefferson,Republican,Governor,,R,Holcomb \ Crouch,286,63,159,508
+Jefferson,Republican,Governor,,D,Myers \ Lawson,63,54,56,173
+Jefferson,Republican,Governor,,L,Rainwater II \ Henry,96,4,22,122
+Jefferson,Republican,Attorney General,,R,Todd Rokita,346,42,159,547
+Jefferson,Republican,Attorney General,,D,Jonathan Weinzapfel,83,71,63,217
+Jefferson,Republican,U.S. House,6,R,Greg Pence,354,38,163,555
+Jefferson,Republican,U.S. House,6,D,Jeannine Lee Lake,76,77,61,214
+Jefferson,Republican,U.S. House,6,L,Tom Ferkinhoff,16,3,8,27
+Jefferson,Republican,U.S. House,6,,Write-ins,0,0,0,0
+Jefferson,Republican,State House,69,R,Jim Lucas,349,55,169,573
+Jefferson,Republican,State House,69,D,Jeffery W Prewitt,65,63,54,182
+Jefferson,Republican,State House,69,,Kattrina (Kat) Hardwick,25,3,9,37
+Jefferson,Republican,Straight Party,,R,Republican,,,,176
+Jefferson,Republican,Straight Party,,D,Democratic,,,,59
+Jefferson,Republican,Straight Party,,L,Libertarian,,,,0
+Jefferson,Saluda,Registered Voters,,,,,,,889
+Jefferson,Saluda,Ballots Cast,,,,339,78,191,608
+Jefferson,Saluda,President,,R,Trump \ Pence,269,33,151,453
+Jefferson,Saluda,President,,D,Biden \ Harris,62,42,38,142
+Jefferson,Saluda,President,,L,Jorgensen \ Cohen,7,1,2,10
+Jefferson,Saluda,Governor,,,Write-ins,0,1,0,1
+Jefferson,Saluda,Governor,,R,Holcomb \ Crouch,226,38,136,400
+Jefferson,Saluda,Governor,,D,Myers \ Lawson,59,37,30,126
+Jefferson,Saluda,Governor,,L,Rainwater II \ Henry,50,1,21,72
+Jefferson,Saluda,Attorney General,,R,Todd Rokita,239,30,148,417
+Jefferson,Saluda,Attorney General,,D,Jonathan Weinzapfel,68,44,33,145
+Jefferson,Saluda,U.S. House,6,R,Greg Pence,247,28,148,423
+Jefferson,Saluda,U.S. House,6,D,Jeannine Lee Lake,73,47,37,157
+Jefferson,Saluda,U.S. House,6,L,Tom Ferkinhoff,12,3,2,17
+Jefferson,Saluda,U.S. House,6,,Write-ins,0,0,0,0
+Jefferson,Saluda,State House,66,R,Zach Payne,217,22,134,373
+Jefferson,Saluda,State House,66,D,Terry Goodin,111,53,54,218
+Jefferson,Saluda,Straight Party,,R,Republican,,,,183
+Jefferson,Saluda,Straight Party,,D,Democratic,,,,40
+Jefferson,Saluda,Straight Party,,L,Libertarian,,,,1
+Jefferson,Shelby,Registered Voters,,,,,,,773
+Jefferson,Shelby,Ballots Cast,,,,356,42,165,563
+Jefferson,Shelby,President,,R,Trump \ Pence,308,16,126,450
+Jefferson,Shelby,President,,D,Biden \ Harris,33,26,31,90
+Jefferson,Shelby,President,,L,Jorgensen \ Cohen,10,0,4,14
+Jefferson,Shelby,Governor,,,Write-ins,1,0,0,1
+Jefferson,Shelby,Governor,,R,Holcomb \ Crouch,246,16,111,373
+Jefferson,Shelby,Governor,,D,Myers \ Lawson,25,24,28,77
+Jefferson,Shelby,Governor,,L,Rainwater II \ Henry,79,0,18,97
+Jefferson,Shelby,Attorney General,,R,Todd Rokita,296,16,121,433
+Jefferson,Shelby,Attorney General,,D,Jonathan Weinzapfel,39,24,32,95
+Jefferson,Shelby,U.S. House,6,R,Greg Pence,298,17,120,435
+Jefferson,Shelby,U.S. House,6,D,Jeannine Lee Lake,39,25,30,94
+Jefferson,Shelby,U.S. House,6,L,Tom Ferkinhoff,15,0,8,23
+Jefferson,Shelby,U.S. House,6,,Write-ins,0,0,0,0
+Jefferson,Shelby,State House,67,R,Randy Frye,312,18,130,460
+Jefferson,Shelby,Straight Party,,R,Republican,,,,163
+Jefferson,Shelby,Straight Party,,D,Democratic,,,,20
+Jefferson,Shelby,Straight Party,,L,Libertarian,,,,0
+Jefferson,Smyrna,Registered Voters,,,,,,,783
+Jefferson,Smyrna,Ballots Cast,,,,317,66,177,560
+Jefferson,Smyrna,President,,R,Trump \ Pence,251,31,135,417
+Jefferson,Smyrna,President,,D,Biden \ Harris,56,33,37,126
+Jefferson,Smyrna,President,,L,Jorgensen \ Cohen,6,0,2,8
+Jefferson,Smyrna,Governor,,,Write-ins,1,0,2,3
+Jefferson,Smyrna,Governor,,R,Holcomb \ Crouch,204,32,117,353
+Jefferson,Smyrna,Governor,,D,Myers \ Lawson,50,31,28,109
+Jefferson,Smyrna,Governor,,L,Rainwater II \ Henry,58,0,29,87
+Jefferson,Smyrna,Attorney General,,R,Todd Rokita,237,30,133,400
+Jefferson,Smyrna,Attorney General,,D,Jonathan Weinzapfel,63,32,34,129
+Jefferson,Smyrna,U.S. House,6,R,Greg Pence,239,31,135,405
+Jefferson,Smyrna,U.S. House,6,D,Jeannine Lee Lake,58,31,32,121
+Jefferson,Smyrna,U.S. House,6,L,Tom Ferkinhoff,12,1,5,18
+Jefferson,Smyrna,U.S. House,6,,Write-ins,0,0,0,0
+Jefferson,Smyrna,State House,69,R,Jim Lucas,236,32,132,400
+Jefferson,Smyrna,State House,69,D,Jeffery W Prewitt,52,28,27,107
+Jefferson,Smyrna,State House,69,,Kattrina (Kat) Hardwick,18,4,10,32
+Jefferson,Smyrna,Straight Party,,R,Republican,,,,142
+Jefferson,Smyrna,Straight Party,,D,Democratic,,,,41
+Jefferson,Smyrna,Straight Party,,L,Libertarian,,,,0

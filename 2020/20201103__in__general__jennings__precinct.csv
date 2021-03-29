@@ -1,0 +1,639 @@
+county,precinct,office,district,party,candidate,votes,absentee,election_day,provisional
+Jennings,Bigger,Registered Voters,,,,449,,,
+Jennings,Bigger,Ballots Cast,,,,299,122,177,0
+Jennings,Bigger,Straight Party,,REP,,79,35,44,0
+Jennings,Bigger,Straight Party,,DEM,,8,6,2,0
+Jennings,Bigger,Straight Party,,LIB,,0,0,0,0
+Jennings,Bigger,President,,REP,Donald J Trump,257,98,159,0
+Jennings,Bigger,President,,DEM,Joseph R Biden,36,20,16,0
+Jennings,Bigger,President,,LIB,Jo Jorgensen,4,3,1,0
+Jennings,Bigger,President,,,Write-In,0,0,0,0
+Jennings,Bigger,Governor,,REP,Eric Holcomb,167,71,96,0
+Jennings,Bigger,Governor,,DEM,Woodrow (Woody) Myers,35,22,13,0
+Jennings,Bigger,Governor,,LIB,Donald G Rainwater II,91,27,64,0
+Jennings,Bigger,Attorney General,,REP,Todd Rokita,241,96,145,0
+Jennings,Bigger,Attorney General,,DEM,Jonathan Weinzapfel,39,22,17,0
+Jennings,Bigger,U.S. House,6,REP,Greg Pence,241,91,150,0
+Jennings,Bigger,U.S. House,6,DEM,Jeannine Lee Lake,35,22,13,0
+Jennings,Bigger,U.S. House,6,LIB,Tom Ferkinhoff,12,5,7,0
+Jennings,Bigger,U.S. House,6,,Write-In,1,0,1,0
+Jennings,Bigger,State Representative,67,REP,Randy Frye,243,98,145,0
+Jennings,Bigger,State Representative,69,REP,Jim Lucas,,,,
+Jennings,Bigger,State Representative,69,DEM,Jeffrey W Prewitt,,,,
+Jennings,Bigger,State Representative,69,IND,Katrina (Kat) Hardwick,,,,
+Jennings,Campbell,Registered Voters,,,,743,,,
+Jennings,Campbell,Ballots Cast,,,,477,168,309,0
+Jennings,Campbell,Straight Party,,REP,,125,44,81,0
+Jennings,Campbell,Straight Party,,DEM,,37,27,10,0
+Jennings,Campbell,Straight Party,,LIB,,3,1,2,0
+Jennings,Campbell,President,,REP,Donald J Trump,363,103,260,0
+Jennings,Campbell,President,,DEM,Joseph R Biden,107,62,45,0
+Jennings,Campbell,President,,LIB,Jo Jorgensen,5,3,2,0
+Jennings,Campbell,President,,,Write-In,2,0,2,0
+Jennings,Campbell,Governor,,REP,Eric Holcomb,255,84,171,0
+Jennings,Campbell,Governor,,DEM,Woodrow (Woody) Myers,85,48,37,0
+Jennings,Campbell,Governor,,LIB,Donald G Rainwater II,132,34,98,0
+Jennings,Campbell,Attorney General,,REP,Todd Rokita,338,103,235,0
+Jennings,Campbell,Attorney General,,DEM,Jonathan Weinzapfel,118,60,58,0
+Jennings,Campbell,U.S. House,6,REP,Greg Pence,348,101,247,0
+Jennings,Campbell,U.S. House,6,DEM,Jeannine Lee Lake,105,58,47,0
+Jennings,Campbell,U.S. House,6,LIB,Tom Ferkinhoff,17,7,10,0
+Jennings,Campbell,U.S. House,6,,Write-In,0,0,0,0
+Jennings,Campbell,State Representative,67,REP,Randy Frye,390,122,268,0
+Jennings,Campbell,State Representative,69,REP,Jim Lucas,,,,
+Jennings,Campbell,State Representative,69,DEM,Jeffrey W Prewitt,,,,
+Jennings,Campbell,State Representative,69,IND,Katrina (Kat) Hardwick,,,,
+Jennings,Center East,Registered Voters,,,,633,,,
+Jennings,Center East,Ballots Cast,,,,451,205,246,0
+Jennings,Center East,Straight Party,,REP,,134,61,73,0
+Jennings,Center East,Straight Party,,DEM,,27,17,10,0
+Jennings,Center East,Straight Party,,LIB,,1,0,1,0
+Jennings,Center East,President,,REP,Donald J Trump,353,150,203,0
+Jennings,Center East,President,,DEM,Joseph R Biden,85,48,37,0
+Jennings,Center East,President,,LIB,Jo Jorgensen,9,4,5,0
+Jennings,Center East,President,,,Write-In,0,0,0,0
+Jennings,Center East,Governor,,REP,Eric Holcomb,301,145,156,0
+Jennings,Center East,Governor,,DEM,Woodrow (Woody) Myers,59,37,22,0
+Jennings,Center East,Governor,,LIB,Donald G Rainwater II,86,22,64,0
+Jennings,Center East,Attorney General,,REP,Todd Rokita,335,138,197,0
+Jennings,Center East,Attorney General,,DEM,Jonathan Weinzapfel,98,55,43,0
+Jennings,Center East,U.S. House,6,REP,Greg Pence,344,146,198,0
+Jennings,Center East,U.S. House,6,DEM,Jeannine Lee Lake,93,54,39,0
+Jennings,Center East,U.S. House,6,LIB,Tom Ferkinhoff,6,1,5,0
+Jennings,Center East,U.S. House,6,,Write-In,0,0,0,0
+Jennings,Center East,State Representative,67,REP,Randy Frye,,,,
+Jennings,Center East,State Representative,69,REP,Jim Lucas,325,141,184,0
+Jennings,Center East,State Representative,69,DEM,Jeffrey W Prewitt,76,46,30,0
+Jennings,Center East,State Representative,69,IND,Katrina (Kat) Hardwick,35,9,26,0
+Jennings,Center West,Registered Voters,,,,704,,,
+Jennings,Center West,Ballots Cast,,,,509,239,270,0
+Jennings,Center West,Straight Party,,REP,,129,74,55,0
+Jennings,Center West,Straight Party,,DEM,,36,26,10,0
+Jennings,Center West,Straight Party,,LIB,,1,0,1,0
+Jennings,Center West,President,,REP,Donald J Trump,373,153,220,0
+Jennings,Center West,President,,DEM,Joseph R Biden,118,80,38,0
+Jennings,Center West,President,,LIB,Jo Jorgensen,12,5,7,0
+Jennings,Center West,President,,,Write-In,0,0,0,0
+Jennings,Center West,Governor,,REP,Eric Holcomb,321,149,172,0
+Jennings,Center West,Governor,,DEM,Woodrow (Woody) Myers,82,58,24,0
+Jennings,Center West,Governor,,LIB,Donald G Rainwater II,98,29,69,0
+Jennings,Center West,Attorney General,,REP,Todd Rokita,346,149,197,0
+Jennings,Center West,Attorney General,,DEM,Jonathan Weinzapfel,128,76,52,0
+Jennings,Center West,U.S. House,6,REP,Greg Pence,361,151,210,0
+Jennings,Center West,U.S. House,6,DEM,Jeannine Lee Lake,121,82,39,0
+Jennings,Center West,U.S. House,6,LIB,Tom Ferkinhoff,12,1,11,0
+Jennings,Center West,U.S. House,6,,Write-In,0,0,0,0
+Jennings,Center West,State Representative,67,REP,Randy Frye,,,,
+Jennings,Center West,State Representative,69,REP,Jim Lucas,327,135,192,0
+Jennings,Center West,State Representative,69,DEM,Jeffrey W Prewitt,108,75,33,0
+Jennings,Center West,State Representative,69,IND,Katrina (Kat) Hardwick,59,24,35,0
+Jennings,Columbia,Registered Voters,,,,531,,,
+Jennings,Columbia,Ballots Cast,,,,389,107,282,0
+Jennings,Columbia,Straight Party,,REP,,124,33,91,0
+Jennings,Columbia,Straight Party,,DEM,,24,11,13,0
+Jennings,Columbia,Straight Party,,LIB,,2,1,1,0
+Jennings,Columbia,President,,REP,Donald J Trump,311,73,238,0
+Jennings,Columbia,President,,DEM,Joseph R Biden,68,32,36,0
+Jennings,Columbia,President,,LIB,Jo Jorgensen,7,1,6,0
+Jennings,Columbia,President,,,Write-In,1,1,0,0
+Jennings,Columbia,Governor,,REP,Eric Holcomb,233,69,164,0
+Jennings,Columbia,Governor,,DEM,Woodrow (Woody) Myers,52,24,28,0
+Jennings,Columbia,Governor,,LIB,Donald G Rainwater II,99,14,85,0
+Jennings,Columbia,Attorney General,,REP,Todd Rokita,295,67,228,0
+Jennings,Columbia,Attorney General,,DEM,Jonathan Weinzapfel,77,35,42,0
+Jennings,Columbia,U.S. House,6,REP,Greg Pence,299,67,232,0
+Jennings,Columbia,U.S. House,6,DEM,Jeannine Lee Lake,73,37,36,0
+Jennings,Columbia,U.S. House,6,LIB,Tom Ferkinhoff,10,2,8,0
+Jennings,Columbia,U.S. House,6,,Write-In,0,0,0,0
+Jennings,Columbia,State Representative,67,REP,Randy Frye,322,80,242,0
+Jennings,Columbia,State Representative,69,REP,Jim Lucas,,,,
+Jennings,Columbia,State Representative,69,DEM,Jeffrey W Prewitt,,,,
+Jennings,Columbia,State Representative,69,IND,Katrina (Kat) Hardwick,,,,
+Jennings,Geneva 1 East,Registered Voters,,,,1011,,,
+Jennings,Geneva 1 East,Ballots Cast,,,,706,317,389,0
+Jennings,Geneva 1 East,Straight Party,,REP,,211,102,109,0
+Jennings,Geneva 1 East,Straight Party,,DEM,,35,29,6,0
+Jennings,Geneva 1 East,Straight Party,,LIB,,0,0,0,0
+Jennings,Geneva 1 East,President,,REP,Donald J Trump,547,226,321,0
+Jennings,Geneva 1 East,President,,DEM,Joseph R Biden,135,81,54,0
+Jennings,Geneva 1 East,President,,LIB,Jo Jorgensen,15,5,10,0
+Jennings,Geneva 1 East,President,,,Write-In,4,1,3,0
+Jennings,Geneva 1 East,Governor,,REP,Eric Holcomb,453,197,256,0
+Jennings,Geneva 1 East,Governor,,DEM,Woodrow (Woody) Myers,92,57,35,0
+Jennings,Geneva 1 East,Governor,,LIB,Donald G Rainwater II,150,54,96,0
+Jennings,Geneva 1 East,Attorney General,,REP,Todd Rokita,549,230,319,0
+Jennings,Geneva 1 East,Attorney General,,DEM,Jonathan Weinzapfel,120,71,49,0
+Jennings,Geneva 1 East,U.S. House,6,REP,Greg Pence,541,228,313,0
+Jennings,Geneva 1 East,U.S. House,6,DEM,Jeannine Lee Lake,127,73,54,0
+Jennings,Geneva 1 East,U.S. House,6,LIB,Tom Ferkinhoff,26,11,15,0
+Jennings,Geneva 1 East,U.S. House,6,,Write-In,0,0,0,0
+Jennings,Geneva 1 East,State Representative,67,REP,Randy Frye,584,250,334,0
+Jennings,Geneva 1 East,State Representative,69,REP,Jim Lucas,,,,
+Jennings,Geneva 1 East,State Representative,69,DEM,Jeffrey W Prewitt,,,,
+Jennings,Geneva 1 East,State Representative,69,IND,Katrina (Kat) Hardwick,,,,
+Jennings,Geneva 1 West,Registered Voters,,,,1774,,,
+Jennings,Geneva 1 West,Ballots Cast,,,,824,271,553,0
+Jennings,Geneva 1 West,Straight Party,,REP,,314,97,217,0
+Jennings,Geneva 1 West,Straight Party,,DEM,,87,41,46,0
+Jennings,Geneva 1 West,Straight Party,,LIB,,10,3,7,0
+Jennings,Geneva 1 West,President,,REP,Donald J Trump,629,180,449,0
+Jennings,Geneva 1 West,President,,DEM,Joseph R Biden,175,82,93,0
+Jennings,Geneva 1 West,President,,LIB,Jo Jorgensen,17,8,9,0
+Jennings,Geneva 1 West,President,,,Write-In,3,1,2,0
+Jennings,Geneva 1 West,Governor,,REP,Eric Holcomb,514,162,352,0
+Jennings,Geneva 1 West,Governor,,DEM,Woodrow (Woody) Myers,146,69,77,0
+Jennings,Geneva 1 West,Governor,,LIB,Donald G Rainwater II,156,37,119,0
+Jennings,Geneva 1 West,Attorney General,,REP,Todd Rokita,595,174,421,0
+Jennings,Geneva 1 West,Attorney General,,DEM,Jonathan Weinzapfel,206,89,117,0
+Jennings,Geneva 1 West,U.S. House,6,REP,Greg Pence,602,171,431,0
+Jennings,Geneva 1 West,U.S. House,6,DEM,Jeannine Lee Lake,179,88,91,0
+Jennings,Geneva 1 West,U.S. House,6,LIB,Tom Ferkinhoff,36,10,26,0
+Jennings,Geneva 1 West,U.S. House,6,,Write-In,0,0,0,0
+Jennings,Geneva 1 West,State Representative,67,REP,Randy Frye,,,,
+Jennings,Geneva 1 West,State Representative,69,REP,Jim Lucas,579,167,412,0
+Jennings,Geneva 1 West,State Representative,69,DEM,Jeffrey W Prewitt,131,62,69,0
+Jennings,Geneva 1 West,State Representative,69,IND,Katrina (Kat) Hardwick,101,38,63,0
+Jennings,Geneva 2,Registered Voters,,,,1138,,,
+Jennings,Geneva 2,Ballots Cast,,,,795,303,492,0
+Jennings,Geneva 2,Straight Party,,REP,,280,106,174,0
+Jennings,Geneva 2,Straight Party,,DEM,,44,29,15,0
+Jennings,Geneva 2,Straight Party,,LIB,,5,3,2,0
+Jennings,Geneva 2,President,,REP,Donald J Trump,658,229,429,0
+Jennings,Geneva 2,President,,DEM,Joseph R Biden,118,64,54,0
+Jennings,Geneva 2,President,,LIB,Jo Jorgensen,15,8,7,0
+Jennings,Geneva 2,President,,,Write-In,1,1,0,0
+Jennings,Geneva 2,Governor,,REP,Eric Holcomb,529,216,313,0
+Jennings,Geneva 2,Governor,,DEM,Woodrow (Woody) Myers,83,48,35,0
+Jennings,Geneva 2,Governor,,LIB,Donald G Rainwater II,170,36,134,0
+Jennings,Geneva 2,Attorney General,,REP,Todd Rokita,640,226,414,0
+Jennings,Geneva 2,Attorney General,,DEM,Jonathan Weinzapfel,131,69,62,0
+Jennings,Geneva 2,U.S. House,6,REP,Greg Pence,645,227,418,0
+Jennings,Geneva 2,U.S. House,6,DEM,Jeannine Lee Lake,121,68,53,0
+Jennings,Geneva 2,U.S. House,6,LIB,Tom Ferkinhoff,20,7,13,0
+Jennings,Geneva 2,U.S. House,6,,Write-In,0,0,0,0
+Jennings,Geneva 2,State Representative,67,REP,Randy Frye,,,,
+Jennings,Geneva 2,State Representative,69,REP,Jim Lucas,614,214,400,0
+Jennings,Geneva 2,State Representative,69,DEM,Jeffrey W Prewitt,102,59,43,0
+Jennings,Geneva 2,State Representative,69,IND,Katrina (Kat) Hardwick,61,23,38,0
+Jennings,Geneva 3,Registered Voters,,,,733,,,
+Jennings,Geneva 3,Ballots Cast,,,,534,221,313,0
+Jennings,Geneva 3,Straight Party,,REP,,193,78,115,0
+Jennings,Geneva 3,Straight Party,,DEM,,40,27,13,0
+Jennings,Geneva 3,Straight Party,,LIB,,2,0,2,0
+Jennings,Geneva 3,President,,REP,Donald J Trump,433,162,271,0
+Jennings,Geneva 3,President,,DEM,Joseph R Biden,88,55,33,0
+Jennings,Geneva 3,President,,LIB,Jo Jorgensen,7,1,6,0
+Jennings,Geneva 3,President,,,Write-In,3,2,1,0
+Jennings,Geneva 3,Governor,,REP,Eric Holcomb,352,138,214,0
+Jennings,Geneva 3,Governor,,DEM,Woodrow (Woody) Myers,73,47,26,0
+Jennings,Geneva 3,Governor,,LIB,Donald G Rainwater II,97,31,66,0
+Jennings,Geneva 3,Attorney General,,REP,Todd Rokita,414,155,259,0
+Jennings,Geneva 3,Attorney General,,DEM,Jonathan Weinzapfel,100,59,41,0
+Jennings,Geneva 3,U.S. House,6,REP,Greg Pence,421,155,266,0
+Jennings,Geneva 3,U.S. House,6,DEM,Jeannine Lee Lake,91,56,35,0
+Jennings,Geneva 3,U.S. House,6,LIB,Tom Ferkinhoff,15,5,10,0
+Jennings,Geneva 3,U.S. House,6,,Write-In,0,0,0,0
+Jennings,Geneva 3,State Representative,67,REP,Randy Frye,451,172,279,0
+Jennings,Geneva 3,State Representative,69,REP,Jim Lucas,,,,
+Jennings,Geneva 3,State Representative,69,DEM,Jeffrey W Prewitt,,,,
+Jennings,Geneva 3,State Representative,69,IND,Katrina (Kat) Hardwick,,,,
+Jennings,Lovett,Registered Voters,,,,770,,,
+Jennings,Lovett,Ballots Cast,,,,565,190,375,0
+Jennings,Lovett,Straight Party,,REP,,146,57,89,0
+Jennings,Lovett,Straight Party,,DEM,,22,10,12,0
+Jennings,Lovett,Straight Party,,LIB,,2,0,2,0
+Jennings,Lovett,President,,REP,Donald J Trump,441,127,314,0
+Jennings,Lovett,President,,DEM,Joseph R Biden,110,58,52,0
+Jennings,Lovett,President,,LIB,Jo Jorgensen,11,3,8,0
+Jennings,Lovett,President,,,Write-In,0,0,0,0
+Jennings,Lovett,Governor,,REP,Eric Holcomb,358,125,233,0
+Jennings,Lovett,Governor,,DEM,Woodrow (Woody) Myers,82,41,41,0
+Jennings,Lovett,Governor,,LIB,Donald G Rainwater II,110,22,88,0
+Jennings,Lovett,Attorney General,,REP,Todd Rokita,396,125,271,0
+Jennings,Lovett,Attorney General,,DEM,Jonathan Weinzapfel,131,58,73,0
+Jennings,Lovett,U.S. House,6,REP,Greg Pence,421,131,290,0
+Jennings,Lovett,U.S. House,6,DEM,Jeannine Lee Lake,113,52,61,0
+Jennings,Lovett,U.S. House,6,LIB,Tom Ferkinhoff,12,3,9,0
+Jennings,Lovett,U.S. House,6,,Write-In,0,0,0,0
+Jennings,Lovett,State Representative,67,REP,Randy Frye,,,,
+Jennings,Lovett,State Representative,69,REP,Jim Lucas,370,116,254,0
+Jennings,Lovett,State Representative,69,DEM,Jeffrey W Prewitt,98,54,44,0
+Jennings,Lovett,State Representative,69,IND,Katrina (Kat) Hardwick,77,16,61,0
+Jennings,Marion,Registered Voters,,,,737,,,
+Jennings,Marion,Ballots Cast,,,,523,133,390,0
+Jennings,Marion,Straight Party,,REP,,156,44,112,0
+Jennings,Marion,Straight Party,,DEM,,30,17,13,0
+Jennings,Marion,Straight Party,,LIB,,1,0,1,0
+Jennings,Marion,President,,REP,Donald J Trump,420,89,331,0
+Jennings,Marion,President,,DEM,Joseph R Biden,88,42,46,0
+Jennings,Marion,President,,LIB,Jo Jorgensen,6,2,4,0
+Jennings,Marion,President,,,Write-In,3,0,3,0
+Jennings,Marion,Governor,,REP,Eric Holcomb,299,80,219,0
+Jennings,Marion,Governor,,DEM,Woodrow (Woody) Myers,73,34,39,0
+Jennings,Marion,Governor,,LIB,Donald G Rainwater II,143,19,124,0
+Jennings,Marion,Attorney General,,REP,Todd Rokita,396,89,307,0
+Jennings,Marion,Attorney General,,DEM,Jonathan Weinzapfel,95,42,53,0
+Jennings,Marion,U.S. House,6,REP,Greg Pence,389,85,304,0
+Jennings,Marion,U.S. House,6,DEM,Jeannine Lee Lake,97,42,55,0
+Jennings,Marion,U.S. House,6,LIB,Tom Ferkinhoff,16,4,12,0
+Jennings,Marion,U.S. House,6,,Write-In,0,0,0,0
+Jennings,Marion,State Representative,67,REP,Randy Frye,,,,
+Jennings,Marion,State Representative,69,REP,Jim Lucas,378,84,294,0
+Jennings,Marion,State Representative,69,DEM,Jeffrey W Prewitt,77,36,41,0
+Jennings,Marion,State Representative,69,IND,Katrina (Kat) Hardwick,50,9,41,0
+Jennings,Montgomery,Registered Voters,,,,706,,,
+Jennings,Montgomery,Ballots Cast,,,,481,156,324,1
+Jennings,Montgomery,Straight Party,,REP,,151,57,94,0
+Jennings,Montgomery,Straight Party,,DEM,,26,17,9,0
+Jennings,Montgomery,Straight Party,,LIB,,1,0,1,0
+Jennings,Montgomery,President,,REP,Donald J Trump,386,113,272,1
+Jennings,Montgomery,President,,DEM,Joseph R Biden,84,41,43,0
+Jennings,Montgomery,President,,LIB,Jo Jorgensen,9,1,8,0
+Jennings,Montgomery,President,,,Write-In,0,0,0,0
+Jennings,Montgomery,Governor,,REP,Eric Holcomb,284,97,186,1
+Jennings,Montgomery,Governor,,DEM,Woodrow (Woody) Myers,67,35,32,0
+Jennings,Montgomery,Governor,,LIB,Donald G Rainwater II,122,21,101,1
+Jennings,Montgomery,Attorney General,,REP,Todd Rokita,365,107,257,1
+Jennings,Montgomery,Attorney General,,DEM,Jonathan Weinzapfel,88,43,45,0
+Jennings,Montgomery,U.S. House,6,REP,Greg Pence,373,108,264,1
+Jennings,Montgomery,U.S. House,6,DEM,Jeannine Lee Lake,81,44,37,0
+Jennings,Montgomery,U.S. House,6,LIB,Tom Ferkinhoff,17,3,14,0
+Jennings,Montgomery,U.S. House,6,,Write-In,0,0,0,0
+Jennings,Montgomery,State Representative,67,REP,Randy Frye,,,,
+Jennings,Montgomery,State Representative,69,REP,Jim Lucas,336,107,228,1
+Jennings,Montgomery,State Representative,69,DEM,Jeffrey W Prewitt,52,32,20,0
+Jennings,Montgomery,State Representative,69,IND,Katrina (Kat) Hardwick,78,14,64,0
+Jennings,NV-1A,Registered Voters,,,,480,,,
+Jennings,NV-1A,Ballots Cast,,,,315,191,124,0
+Jennings,NV-1A,Straight Party,,REP,,91,54,37,0
+Jennings,NV-1A,Straight Party,,DEM,,29,24,5,0
+Jennings,NV-1A,Straight Party,,LIB,,1,1,0,0
+Jennings,NV-1A,President,,REP,Donald J Trump,228,128,100,0
+Jennings,NV-1A,President,,DEM,Joseph R Biden,75,57,18,0
+Jennings,NV-1A,President,,LIB,Jo Jorgensen,8,4,4,0
+Jennings,NV-1A,President,,,Write-In,2,1,1,0
+Jennings,NV-1A,Governor,,REP,Eric Holcomb,195,118,77,0
+Jennings,NV-1A,Governor,,DEM,Woodrow (Woody) Myers,59,45,14,0
+Jennings,NV-1A,Governor,,LIB,Donald G Rainwater II,54,24,30,0
+Jennings,NV-1A,Attorney General,,REP,Todd Rokita,220,124,96,0
+Jennings,NV-1A,Attorney General,,DEM,Jonathan Weinzapfel,77,57,20,0
+Jennings,NV-1A,U.S. House,6,REP,Greg Pence,218,124,94,0
+Jennings,NV-1A,U.S. House,6,DEM,Jeannine Lee Lake,73,53,20,0
+Jennings,NV-1A,U.S. House,6,LIB,Tom Ferkinhoff,15,8,7,0
+Jennings,NV-1A,U.S. House,6,,Write-In,0,0,0,0
+Jennings,NV-1A,State Representative,67,REP,Randy Frye,,,,
+Jennings,NV-1A,State Representative,69,REP,Jim Lucas,210,117,93,0
+Jennings,NV-1A,State Representative,69,DEM,Jeffrey W Prewitt,55,40,15,0
+Jennings,NV-1A,State Representative,69,IND,Katrina (Kat) Hardwick,39,26,13,0
+Jennings,NV-1B,Registered Voters,,,,548,,,
+Jennings,NV-1B,Ballots Cast,,,,356,202,154,0
+Jennings,NV-1B,Straight Party,,REP,,89,59,30,0
+Jennings,NV-1B,Straight Party,,DEM,,25,20,5,0
+Jennings,NV-1B,Straight Party,,LIB,,3,0,3,0
+Jennings,NV-1B,President,,REP,Donald J Trump,243,129,114,0
+Jennings,NV-1B,President,,DEM,Joseph R Biden,104,71,33,0
+Jennings,NV-1B,President,,LIB,Jo Jorgensen,8,2,6,0
+Jennings,NV-1B,President,,,Write-In,1,0,1,0
+Jennings,NV-1B,Governor,,REP,Eric Holcomb,227,130,97,0
+Jennings,NV-1B,Governor,,DEM,Woodrow (Woody) Myers,76,53,23,0
+Jennings,NV-1B,Governor,,LIB,Donald G Rainwater II,49,17,32,0
+Jennings,NV-1B,Attorney General,,REP,Todd Rokita,239,124,115,0
+Jennings,NV-1B,Attorney General,,DEM,Jonathan Weinzapfel,105,71,34,0
+Jennings,NV-1B,U.S. House,6,REP,Greg Pence,245,129,116,0
+Jennings,NV-1B,U.S. House,6,DEM,Jeannine Lee Lake,99,67,32,0
+Jennings,NV-1B,U.S. House,6,LIB,Tom Ferkinhoff,8,4,4,0
+Jennings,NV-1B,U.S. House,6,,Write-In,0,0,0,0
+Jennings,NV-1B,State Representative,67,REP,Randy Frye,,,,
+Jennings,NV-1B,State Representative,69,REP,Jim Lucas,216,115,101,0
+Jennings,NV-1B,State Representative,69,DEM,Jeffrey W Prewitt,85,61,24,0
+Jennings,NV-1B,State Representative,69,IND,Katrina (Kat) Hardwick,48,23,25,0
+Jennings,NV-2A,Registered Voters,,,,361,,,
+Jennings,NV-2A,Ballots Cast,,,,246,127,119,0
+Jennings,NV-2A,Straight Party,,REP,,58,37,21,0
+Jennings,NV-2A,Straight Party,,DEM,,17,13,4,0
+Jennings,NV-2A,Straight Party,,LIB,,1,0,1,0
+Jennings,NV-2A,President,,REP,Donald J Trump,166,79,87,0
+Jennings,NV-2A,President,,DEM,Joseph R Biden,69,41,28,0
+Jennings,NV-2A,President,,LIB,Jo Jorgensen,8,4,4,0
+Jennings,NV-2A,President,,,Write-In,1,1,0,0
+Jennings,NV-2A,Governor,,REP,Eric Holcomb,125,68,57,0
+Jennings,NV-2A,Governor,,DEM,Woodrow (Woody) Myers,52,30,22,0
+Jennings,NV-2A,Governor,,LIB,Donald G Rainwater II,63,25,38,0
+Jennings,NV-2A,Attorney General,,REP,Todd Rokita,155,76,79,0
+Jennings,NV-2A,Attorney General,,DEM,Jonathan Weinzapfel,77,46,32,0
+Jennings,NV-2A,U.S. House,6,REP,Greg Pence,162,76,86,0
+Jennings,NV-2A,U.S. House,6,DEM,Jeannine Lee Lake,70,41,29,0
+Jennings,NV-2A,U.S. House,6,LIB,Tom Ferkinhoff,7,5,2,0
+Jennings,NV-2A,U.S. House,6,,Write-In,0,0,0,0
+Jennings,NV-2A,State Representative,67,REP,Randy Frye,,,,
+Jennings,NV-2A,State Representative,69,REP,Jim Lucas,145,74,71,0
+Jennings,NV-2A,State Representative,69,DEM,Jeffrey W Prewitt,50,36,14,0
+Jennings,NV-2A,State Representative,69,IND,Katrina (Kat) Hardwick,43,12,31,0
+Jennings,NV-2B,Registered Voters,,,,681,,,
+Jennings,NV-2B,Ballots Cast,,,,472,220,252,0
+Jennings,NV-2B,Straight Party,,REP,,105,59,46,0
+Jennings,NV-2B,Straight Party,,DEM,,24,18,6,0
+Jennings,NV-2B,Straight Party,,LIB,,0,0,0,0
+Jennings,NV-2B,President,,REP,Donald J Trump,355,141,214,0
+Jennings,NV-2B,President,,DEM,Joseph R Biden,100,70,30,0
+Jennings,NV-2B,President,,LIB,Jo Jorgensen,11,5,6,0
+Jennings,NV-2B,President,,,Write-In,0,0,0,0
+Jennings,NV-2B,Governor,,REP,Eric Holcomb,292,138,154,0
+Jennings,NV-2B,Governor,,DEM,Woodrow (Woody) Myers,80,54,26,0
+Jennings,NV-2B,Governor,,LIB,Donald G Rainwater II,92,22,70,0
+Jennings,NV-2B,Attorney General,,REP,Todd Rokita,330,133,197,0
+Jennings,NV-2B,Attorney General,,DEM,Jonathan Weinzapfel,116,75,41,0
+Jennings,NV-2B,U.S. House,6,REP,Greg Pence,345,142,203,0
+Jennings,NV-2B,U.S. House,6,DEM,Jeannine Lee Lake,108,68,40,0
+Jennings,NV-2B,U.S. House,6,LIB,Tom Ferkinhoff,8,4,4,0
+Jennings,NV-2B,U.S. House,6,,Write-In,0,0,0,0
+Jennings,NV-2B,State Representative,67,REP,Randy Frye,,,,
+Jennings,NV-2B,State Representative,69,REP,Jim Lucas,305,126,179,0
+Jennings,NV-2B,State Representative,69,DEM,Jeffrey W Prewitt,94,66,28,0
+Jennings,NV-2B,State Representative,69,IND,Katrina (Kat) Hardwick,54,17,37,0
+Jennings,NV-3A,Registered Voters,,,,570,,,
+Jennings,NV-3A,Ballots Cast,,,,346,127,219,0
+Jennings,NV-3A,Straight Party,,REP,,90,35,55,0
+Jennings,NV-3A,Straight Party,,DEM,,27,17,10,0
+Jennings,NV-3A,Straight Party,,LIB,,3,1,2,0
+Jennings,NV-3A,President,,REP,Donald J Trump,246,84,162,0
+Jennings,NV-3A,President,,DEM,Joseph R Biden,89,43,46,0
+Jennings,NV-3A,President,,LIB,Jo Jorgensen,10,0,10,0
+Jennings,NV-3A,President,,,Write-In,1,0,1,0
+Jennings,NV-3A,Governor,,REP,Eric Holcomb,189,68,121,0
+Jennings,NV-3A,Governor,,DEM,Woodrow (Woody) Myers,72,38,34,0
+Jennings,NV-3A,Governor,,LIB,Donald G Rainwater II,80,20,60,0
+Jennings,NV-3A,Attorney General,,REP,Todd Rokita,235,78,157,0
+Jennings,NV-3A,Attorney General,,DEM,Jonathan Weinzapfel,100,45,55,0
+Jennings,NV-3A,U.S. House,6,REP,Greg Pence,234,79,155,0
+Jennings,NV-3A,U.S. House,6,DEM,Jeannine Lee Lake,95,44,51,0
+Jennings,NV-3A,U.S. House,6,LIB,Tom Ferkinhoff,11,3,8,0
+Jennings,NV-3A,U.S. House,6,,Write-In,0,0,0,0
+Jennings,NV-3A,State Representative,67,REP,Randy Frye,,,,
+Jennings,NV-3A,State Representative,69,REP,Jim Lucas,228,81,147,0
+Jennings,NV-3A,State Representative,69,DEM,Jeffrey W Prewitt,68,34,34,0
+Jennings,NV-3A,State Representative,69,IND,Katrina (Kat) Hardwick,44,11,33,0
+Jennings,NV-3B,Registered Voters,,,,472,,,
+Jennings,NV-3B,Ballots Cast,,,,299,172,127,0
+Jennings,NV-3B,Straight Party,,REP,,79,55,24,0
+Jennings,NV-3B,Straight Party,,DEM,,31,25,6,0
+Jennings,NV-3B,Straight Party,,LIB,,4,1,3,0
+Jennings,NV-3B,President,,REP,Donald J Trump,199,106,93,0
+Jennings,NV-3B,President,,DEM,Joseph R Biden,86,64,22,0
+Jennings,NV-3B,President,,LIB,Jo Jorgensen,12,2,10,0
+Jennings,NV-3B,President,,,Write-In,0,0,0,0
+Jennings,NV-3B,Governor,,REP,Eric Holcomb,171,104,67,0
+Jennings,NV-3B,Governor,,DEM,Woodrow (Woody) Myers,65,49,16,0
+Jennings,NV-3B,Governor,,LIB,Donald G Rainwater II,57,17,40,0
+Jennings,NV-3B,Attorney General,,REP,Todd Rokita,201,105,96,0
+Jennings,NV-3B,Attorney General,,DEM,Jonathan Weinzapfel,89,60,29,0
+Jennings,NV-3B,U.S. House,6,REP,Greg Pence,201,109,92,0
+Jennings,NV-3B,U.S. House,6,DEM,Jeannine Lee Lake,79,57,22,0
+Jennings,NV-3B,U.S. House,6,LIB,Tom Ferkinhoff,14,4,10,0
+Jennings,NV-3B,U.S. House,6,,Write-In,0,0,0,0
+Jennings,NV-3B,State Representative,67,REP,Randy Frye,,,,
+Jennings,NV-3B,State Representative,69,REP,Jim Lucas,191,105,86,0
+Jennings,NV-3B,State Representative,69,DEM,Jeffrey W Prewitt,62,45,17,0
+Jennings,NV-3B,State Representative,69,IND,Katrina (Kat) Hardwick,39,19,20,0
+Jennings,NV-4A,Registered Voters,,,,833,,,
+Jennings,NV-4A,Ballots Cast,,,,437,256,181,0
+Jennings,NV-4A,Straight Party,,REP,,139,82,57,0
+Jennings,NV-4A,Straight Party,,DEM,,54,41,13,0
+Jennings,NV-4A,Straight Party,,LIB,,2,0,2,0
+Jennings,NV-4A,President,,REP,Donald J Trump,305,164,141,0
+Jennings,NV-4A,President,,DEM,Joseph R Biden,125,88,37,0
+Jennings,NV-4A,President,,LIB,Jo Jorgensen,6,3,3,0
+Jennings,NV-4A,President,,,Write-In,0,0,0,0
+Jennings,NV-4A,Governor,,REP,Eric Holcomb,274,159,115,0
+Jennings,NV-4A,Governor,,DEM,Woodrow (Woody) Myers,105,76,29,0
+Jennings,NV-4A,Governor,,LIB,Donald G Rainwater II,56,20,36,0
+Jennings,NV-4A,Attorney General,,REP,Todd Rokita,293,159,134,0
+Jennings,NV-4A,Attorney General,,DEM,Jonathan Weinzapfel,129,88,41,0
+Jennings,NV-4A,U.S. House,6,REP,Greg Pence,297,161,136,0
+Jennings,NV-4A,U.S. House,6,DEM,Jeannine Lee Lake,122,86,36,0
+Jennings,NV-4A,U.S. House,6,LIB,Tom Ferkinhoff,10,4,6,0
+Jennings,NV-4A,U.S. House,6,,Write-In,0,0,0,0
+Jennings,NV-4A,State Representative,67,REP,Randy Frye,,,,
+Jennings,NV-4A,State Representative,69,REP,Jim Lucas,285,152,133,0
+Jennings,NV-4A,State Representative,69,DEM,Jeffrey W Prewitt,104,75,29,0
+Jennings,NV-4A,State Representative,69,IND,Katrina (Kat) Hardwick,39,24,15,0
+Jennings,NV-4B,Registered Voters,,,,397,,,
+Jennings,NV-4B,Ballots Cast,,,,214,98,116,0
+Jennings,NV-4B,Straight Party,,REP,,78,35,43,0
+Jennings,NV-4B,Straight Party,,DEM,,20,13,7,0
+Jennings,NV-4B,Straight Party,,LIB,,0,0,0,0
+Jennings,NV-4B,President,,REP,Donald J Trump,159,68,91,0
+Jennings,NV-4B,President,,DEM,Joseph R Biden,51,30,21,0
+Jennings,NV-4B,President,,LIB,Jo Jorgensen,3,0,3,0
+Jennings,NV-4B,President,,,Write-In,1,0,1,0
+Jennings,NV-4B,Governor,,REP,Eric Holcomb,136,62,74,0
+Jennings,NV-4B,Governor,,DEM,Woodrow (Woody) Myers,43,23,20,0
+Jennings,NV-4B,Governor,,LIB,Donald G Rainwater II,31,11,20,0
+Jennings,NV-4B,Attorney General,,REP,Todd Rokita,141,63,78,0
+Jennings,NV-4B,Attorney General,,DEM,Jonathan Weinzapfel,63,31,32,0
+Jennings,NV-4B,U.S. House,6,REP,Greg Pence,152,64,88,0
+Jennings,NV-4B,U.S. House,6,DEM,Jeannine Lee Lake,56,31,25,0
+Jennings,NV-4B,U.S. House,6,LIB,Tom Ferkinhoff,2,1,1,0
+Jennings,NV-4B,U.S. House,6,,Write-In,0,0,0,0
+Jennings,NV-4B,State Representative,67,REP,Randy Frye,,,,
+Jennings,NV-4B,State Representative,69,REP,Jim Lucas,140,61,79,0
+Jennings,NV-4B,State Representative,69,DEM,Jeffrey W Prewitt,50,31,19,0
+Jennings,NV-4B,State Representative,69,IND,Katrina (Kat) Hardwick,18,4,14,0
+Jennings,Sandcreek,Registered Voters,,,,642,,,
+Jennings,Sandcreek,Ballots Cast,,,,480,174,306,0
+Jennings,Sandcreek,Straight Party,,REP,,111,55,56,0
+Jennings,Sandcreek,Straight Party,,DEM,,24,16,8,0
+Jennings,Sandcreek,Straight Party,,LIB,,1,0,1,0
+Jennings,Sandcreek,President,,REP,Donald J Trump,391,125,266,0
+Jennings,Sandcreek,President,,DEM,Joseph R Biden,82,47,35,0
+Jennings,Sandcreek,President,,LIB,Jo Jorgensen,2,1,1,0
+Jennings,Sandcreek,President,,,Write-In,1,0,1,0
+Jennings,Sandcreek,Governor,,REP,Eric Holcomb,279,103,176,0
+Jennings,Sandcreek,Governor,,DEM,Woodrow (Woody) Myers,66,35,31,0
+Jennings,Sandcreek,Governor,,LIB,Donald G Rainwater II,131,35,96,0
+Jennings,Sandcreek,Attorney General,,REP,Todd Rokita,370,123,247,0
+Jennings,Sandcreek,Attorney General,,DEM,Jonathan Weinzapfel,89,46,43,0
+Jennings,Sandcreek,U.S. House,6,REP,Greg Pence,383,123,260,0
+Jennings,Sandcreek,U.S. House,6,DEM,Jeannine Lee Lake,83,47,36,0
+Jennings,Sandcreek,U.S. House,6,LIB,Tom Ferkinhoff,5,2,3,0
+Jennings,Sandcreek,U.S. House,6,,Write-In,0,0,0,0
+Jennings,Sandcreek,State Representative,67,REP,Randy Frye,406,138,268,0
+Jennings,Sandcreek,State Representative,69,REP,Jim Lucas,,,,
+Jennings,Sandcreek,State Representative,69,DEM,Jeffrey W Prewitt,,,,
+Jennings,Sandcreek,State Representative,69,IND,Katrina (Kat) Hardwick,,,,
+Jennings,Spencer North,Registered Voters,,,,913,,,
+Jennings,Spencer North,Ballots Cast,,,,665,211,454,0
+Jennings,Spencer North,Straight Party,,REP,,147,52,95,0
+Jennings,Spencer North,Straight Party,,DEM,,36,23,13,0
+Jennings,Spencer North,Straight Party,,LIB,,2,0,2,0
+Jennings,Spencer North,President,,REP,Donald J Trump,512,153,359,0
+Jennings,Spencer North,President,,DEM,Joseph R Biden,136,56,80,0
+Jennings,Spencer North,President,,LIB,Jo Jorgensen,13,2,11,0
+Jennings,Spencer North,President,,,Write-In,3,0,3,0
+Jennings,Spencer North,Governor,,REP,Eric Holcomb,386,127,259,0
+Jennings,Spencer North,Governor,,DEM,Woodrow (Woody) Myers,103,43,60,0
+Jennings,Spencer North,Governor,,LIB,Donald G Rainwater II,167,37,130,0
+Jennings,Spencer North,Attorney General,,REP,Todd Rokita,473,136,337,0
+Jennings,Spencer North,Attorney General,,DEM,Jonathan Weinzapfel,145,58,87,0
+Jennings,Spencer North,U.S. House,6,REP,Greg Pence,487,146,341,0
+Jennings,Spencer North,U.S. House,6,DEM,Jeannine Lee Lake,137,54,83,0
+Jennings,Spencer North,U.S. House,6,LIB,Tom Ferkinhoff,24,6,18,0
+Jennings,Spencer North,U.S. House,6,,Write-In,0,0,0,0
+Jennings,Spencer North,State Representative,67,REP,Randy Frye,,,,
+Jennings,Spencer North,State Representative,69,REP,Jim Lucas,434,129,305,0
+Jennings,Spencer North,State Representative,69,DEM,Jeffrey W Prewitt,99,47,52,0
+Jennings,Spencer North,State Representative,69,IND,Katrina (Kat) Hardwick,112,28,84,0
+Jennings,Spencer South,Registered Voters,,,,720,,,
+Jennings,Spencer South,Ballots Cast,,,,545,225,320,0
+Jennings,Spencer South,Straight Party,,REP,,142,63,79,0
+Jennings,Spencer South,Straight Party,,DEM,,30,22,8,0
+Jennings,Spencer South,Straight Party,,LIB,,0,0,0,0
+Jennings,Spencer South,President,,REP,Donald J Trump,424,155,269,0
+Jennings,Spencer South,President,,DEM,Joseph R Biden,109,67,42,0
+Jennings,Spencer South,President,,LIB,Jo Jorgensen,9,2,7,0
+Jennings,Spencer South,President,,,Write-In,0,0,0,0
+Jennings,Spencer South,Governor,,REP,Eric Holcomb,344,143,201,0
+Jennings,Spencer South,Governor,,DEM,Woodrow (Woody) Myers,73,47,26,0
+Jennings,Spencer South,Governor,,LIB,Donald G Rainwater II,123,34,89,0
+Jennings,Spencer South,Attorney General,,REP,Todd Rokita,398,149,249,0
+Jennings,Spencer South,Attorney General,,DEM,Jonathan Weinzapfel,125,68,57,0
+Jennings,Spencer South,U.S. House,6,REP,Greg Pence,402,153,249,0
+Jennings,Spencer South,U.S. House,6,DEM,Jeannine Lee Lake,116,66,50,0
+Jennings,Spencer South,U.S. House,6,LIB,Tom Ferkinhoff,19,4,15,0
+Jennings,Spencer South,U.S. House,6,,Write-In,0,0,0,0
+Jennings,Spencer South,State Representative,67,REP,Randy Frye,,,,
+Jennings,Spencer South,State Representative,69,REP,Jim Lucas,379,143,236,0
+Jennings,Spencer South,State Representative,69,DEM,Jeffrey W Prewitt,98,56,42,0
+Jennings,Spencer South,State Representative,69,IND,Katrina (Kat) Hardwick,54,22,32,0
+Jennings,Vernon East,Registered Voters,,,,1106,,,
+Jennings,Vernon East,Ballots Cast,,,,791,449,342,0
+Jennings,Vernon East,Straight Party,,REP,,205,130,75,0
+Jennings,Vernon East,Straight Party,,DEM,,39,27,12,0
+Jennings,Vernon East,Straight Party,,LIB,,5,3,2,0
+Jennings,Vernon East,President,,REP,Donald J Trump,616,326,290,0
+Jennings,Vernon East,President,,DEM,Joseph R Biden,151,110,41,0
+Jennings,Vernon East,President,,LIB,Jo Jorgensen,17,9,8,0
+Jennings,Vernon East,President,,,Write-In,0,0,0,0
+Jennings,Vernon East,Governor,,REP,Eric Holcomb,471,284,187,0
+Jennings,Vernon East,Governor,,DEM,Woodrow (Woody) Myers,109,77,32,0
+Jennings,Vernon East,Governor,,LIB,Donald G Rainwater II,189,79,110,0
+Jennings,Vernon East,Attorney General,,REP,Todd Rokita,585,321,264,0
+Jennings,Vernon East,Attorney General,,DEM,Jonathan Weinzapfel,158,106,52,0
+Jennings,Vernon East,U.S. House,6,REP,Greg Pence,588,316,272,0
+Jennings,Vernon East,U.S. House,6,DEM,Jeannine Lee Lake,144,110,34,0
+Jennings,Vernon East,U.S. House,6,LIB,Tom Ferkinhoff,30,14,16,0
+Jennings,Vernon East,U.S. House,6,,Write-In,1,0,1,0
+Jennings,Vernon East,State Representative,67,REP,Randy Frye,,,,
+Jennings,Vernon East,State Representative,69,REP,Jim Lucas,545,303,242,0
+Jennings,Vernon East,State Representative,69,DEM,Jeffrey W Prewitt,111,82,29,0
+Jennings,Vernon East,State Representative,69,IND,Katrina (Kat) Hardwick,99,47,52,0
+Jennings,Vernon West,Registered Voters,,,,887,,,
+Jennings,Vernon West,Ballots Cast,,,,629,340,289,0
+Jennings,Vernon West,Straight Party,,REP,,161,98,63,0
+Jennings,Vernon West,Straight Party,,DEM,,40,28,12,0
+Jennings,Vernon West,Straight Party,,LIB,,1,1,0,0
+Jennings,Vernon West,President,,REP,Donald J Trump,475,243,232,0
+Jennings,Vernon West,President,,DEM,Joseph R Biden,134,86,48,0
+Jennings,Vernon West,President,,LIB,Jo Jorgensen,14,7,7,0
+Jennings,Vernon West,President,,,Write-In,0,0,0,0
+Jennings,Vernon West,Governor,,REP,Eric Holcomb,392,224,168,0
+Jennings,Vernon West,Governor,,DEM,Woodrow (Woody) Myers,98,60,38,0
+Jennings,Vernon West,Governor,,LIB,Donald G Rainwater II,130,52,78,0
+Jennings,Vernon West,Attorney General,,REP,Todd Rokita,466,245,221,0
+Jennings,Vernon West,Attorney General,,DEM,Jonathan Weinzapfel,127,80,47,0
+Jennings,Vernon West,U.S. House,6,REP,Greg Pence,463,247,216,0
+Jennings,Vernon West,U.S. House,6,DEM,Jeannine Lee Lake,122,79,43,0
+Jennings,Vernon West,U.S. House,6,LIB,Tom Ferkinhoff,28,5,23,0
+Jennings,Vernon West,U.S. House,6,,Write-In,0,0,0,0
+Jennings,Vernon West,State Representative,67,REP,Randy Frye,,,,
+Jennings,Vernon West,State Representative,69,REP,Jim Lucas,442,242,200,0
+Jennings,Vernon West,State Representative,69,DEM,Jeffrey W Prewitt,106,69,37,0
+Jennings,Vernon West,State Representative,69,IND,Katrina (Kat) Hardwick,63,21,42,0
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,

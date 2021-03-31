@@ -1,0 +1,379 @@
+id,county,precinct,office,district,party,candidate,votes
+1,Fountain,Cain,Registered Voters,,,,765
+2,Fountain,Cain,Ballots Cast,,,,559
+3,Fountain,Cain,Straight Party,,REP,,209
+4,Fountain,Cain,Straight Party,,DEM,,30
+5,Fountain,Cain,Straight Party,,LIB,,5
+6,Fountain,Cain,President,,REP,Donald J Trump,442
+7,Fountain,Cain,President,,DEM,Joseph R Biden,96
+8,Fountain,Cain,President,,LIB,Jo Jorgensen,16
+9,Fountain,Cain,President,,,Brian Carroll,0
+10,Fountain,Cain,President,,,Howie Hawkins,1
+11,Fountain,Cain,President,,,Write-In Votes,1
+12,Fountain,Cain,Governor,,REP,Eric Holcomb,354
+13,Fountain,Cain,Governor,,DEM,Woodrow (Woody) Myers,60
+14,Fountain,Cain,Governor,,LIB,Donald G Rainwater II,140
+15,Fountain,Cain,Attorney General,,REP,Todd Rokita,442
+16,Fountain,Cain,Attorney General,,DEM,Jonathan Weinzapfel,99
+17,Fountain,Cain,U.S. House,4,REP,Jim Baird,444
+18,Fountain,Cain,U.S. House,4,DEM,Joe Mackey,92
+19,Fountain,Cain,U.S. House,4,LIB,Write-In Votes,1
+20,Fountain,Cain,State Representative,13,REP,Sharon Negele,445
+21,Fountain,Cain,State Representative,13,DEM,Loretta Barnes,89
+24,Fountain,Davis,Registered Voters,,,,434
+25,Fountain,Davis,Ballots Cast,,,,310
+26,Fountain,Davis,Straight Party,,REP,,120
+27,Fountain,Davis,Straight Party,,DEM,,31
+28,Fountain,Davis,Straight Party,,LIB,,1
+29,Fountain,Davis,President,,REP,Donald J Trump,241
+30,Fountain,Davis,President,,DEM,Joseph R Biden,63
+31,Fountain,Davis,President,,LIB,Jo Jorgensen,3
+32,Fountain,Davis,President,,,Brian Carroll,0
+33,Fountain,Davis,President,,,Howie Hawkins,0
+34,Fountain,Davis,President,,,Write-In Votes,0
+35,Fountain,Davis,Governor,,REP,Eric Holcomb,194
+36,Fountain,Davis,Governor,,DEM,Woodrow (Woody) Myers,44
+37,Fountain,Davis,Governor,,LIB,Donald G Rainwater II,66
+38,Fountain,Davis,Attorney General,,REP,Todd Rokita,226
+39,Fountain,Davis,Attorney General,,DEM,Jonathan Weinzapfel,76
+40,Fountain,Davis,U.S. House,4,REP,Jim Baird,231
+41,Fountain,Davis,U.S. House,4,DEM,Joe Mackey,64
+42,Fountain,Davis,U.S. House,4,LIB,Write-In Votes,0
+43,Fountain,Davis,State Representative,13,REP,Sharon Negele,227
+44,Fountain,Davis,State Representative,13,DEM,Loretta Barnes,65
+47,Fountain,Fulton,Registered Voters,,,,398
+48,Fountain,Fulton,Ballots Cast,,,,287
+49,Fountain,Fulton,Straight Party,,REP,,120
+50,Fountain,Fulton,Straight Party,,DEM,,14
+51,Fountain,Fulton,Straight Party,,LIB,,2
+52,Fountain,Fulton,President,,REP,Donald J Trump,229
+53,Fountain,Fulton,President,,DEM,Joseph R Biden,43
+54,Fountain,Fulton,President,,LIB,Jo Jorgensen,5
+55,Fountain,Fulton,President,,,Brian Carroll,0
+56,Fountain,Fulton,President,,,Howie Hawkins,0
+57,Fountain,Fulton,President,,,Write-In Votes,1
+58,Fountain,Fulton,Governor,,REP,Eric Holcomb,181
+59,Fountain,Fulton,Governor,,DEM,Woodrow (Woody) Myers,31
+60,Fountain,Fulton,Governor,,LIB,Donald G Rainwater II,61
+61,Fountain,Fulton,Attorney General,,REP,Todd Rokita,217
+62,Fountain,Fulton,Attorney General,,DEM,Jonathan Weinzapfel,54
+63,Fountain,Fulton,U.S. House,4,REP,Jim Baird,223
+64,Fountain,Fulton,U.S. House,4,DEM,Joe Mackey,45
+65,Fountain,Fulton,U.S. House,4,LIB,Write-In Votes,0
+68,Fountain,Fulton,State Representative,42,REP,Alan Morrison,219
+69,Fountain,Fulton,State Representative,42,DEM,Amy Burke Adams,49
+70,Fountain,Jackson,Registered Voters,,,,441
+71,Fountain,Jackson,Ballots Cast,,,,346
+72,Fountain,Jackson,Straight Party,,REP,,143
+73,Fountain,Jackson,Straight Party,,DEM,,22
+74,Fountain,Jackson,Straight Party,,LIB,,2
+75,Fountain,Jackson,President,,REP,Donald J Trump,291
+76,Fountain,Jackson,President,,DEM,Joseph R Biden,43
+77,Fountain,Jackson,President,,LIB,Jo Jorgensen,8
+78,Fountain,Jackson,President,,,Brian Carroll,0
+79,Fountain,Jackson,President,,,Howie Hawkins,0
+80,Fountain,Jackson,President,,,Write-In Votes,2
+81,Fountain,Jackson,Governor,,REP,Eric Holcomb,218
+82,Fountain,Jackson,Governor,,DEM,Woodrow (Woody) Myers,39
+83,Fountain,Jackson,Governor,,LIB,Donald G Rainwater II,84
+84,Fountain,Jackson,Attorney General,,REP,Todd Rokita,277
+85,Fountain,Jackson,Attorney General,,DEM,Jonathan Weinzapfel,62
+86,Fountain,Jackson,U.S. House,4,REP,Jim Baird,296
+87,Fountain,Jackson,U.S. House,4,DEM,Joe Mackey,46
+88,Fountain,Jackson,U.S. House,4,LIB,Write-In Votes,0
+89,Fountain,Jackson,State Representative,13,REP,Sharon Negele,282
+90,Fountain,Jackson,State Representative,13,DEM,Loretta Barnes,54
+93,Fountain,Logan 1,Registered Voters,,,,281
+94,Fountain,Logan 1,Ballots Cast,,,,207
+95,Fountain,Logan 1,Straight Party,,REP,,89
+96,Fountain,Logan 1,Straight Party,,DEM,,19
+97,Fountain,Logan 1,Straight Party,,LIB,,3
+98,Fountain,Logan 1,President,,REP,Donald J Trump,154
+99,Fountain,Logan 1,President,,DEM,Joseph R Biden,47
+100,Fountain,Logan 1,President,,LIB,Jo Jorgensen,4
+101,Fountain,Logan 1,President,,,Brian Carroll,0
+102,Fountain,Logan 1,President,,,Howie Hawkins,0
+103,Fountain,Logan 1,President,,,Write-In Votes,0
+104,Fountain,Logan 1,Governor,,REP,Eric Holcomb,154
+105,Fountain,Logan 1,Governor,,DEM,Woodrow (Woody) Myers,27
+106,Fountain,Logan 1,Governor,,LIB,Donald G Rainwater II,24
+107,Fountain,Logan 1,Attorney General,,REP,Todd Rokita,150
+108,Fountain,Logan 1,Attorney General,,DEM,Jonathan Weinzapfel,51
+109,Fountain,Logan 1,U.S. House,4,REP,Jim Baird,153
+110,Fountain,Logan 1,U.S. House,4,DEM,Joe Mackey,47
+111,Fountain,Logan 1,U.S. House,4,LIB,Write-In Votes,0
+112,Fountain,Logan 1,State Representative,13,REP,Sharon Negele,144
+113,Fountain,Logan 1,State Representative,13,DEM,Loretta Barnes,57
+116,Fountain,Logan 2,Registered Voters,,,,1006
+117,Fountain,Logan 2,Ballots Cast,,,,589
+118,Fountain,Logan 2,Straight Party,,REP,,219
+119,Fountain,Logan 2,Straight Party,,DEM,,68
+120,Fountain,Logan 2,Straight Party,,LIB,,6
+121,Fountain,Logan 2,President,,REP,Donald J Trump,397
+122,Fountain,Logan 2,President,,DEM,Joseph R Biden,159
+123,Fountain,Logan 2,President,,LIB,Jo Jorgensen,20
+124,Fountain,Logan 2,President,,,Brian Carroll,0
+125,Fountain,Logan 2,President,,,Howie Hawkins,0
+126,Fountain,Logan 2,President,,,Write-In Votes,0
+127,Fountain,Logan 2,Governor,,REP,Eric Holcomb,345
+128,Fountain,Logan 2,Governor,,DEM,Woodrow (Woody) Myers,114
+129,Fountain,Logan 2,Governor,,LIB,Donald G Rainwater II,111
+130,Fountain,Logan 2,Attorney General,,REP,Todd Rokita,377
+131,Fountain,Logan 2,Attorney General,,DEM,Jonathan Weinzapfel,192
+132,Fountain,Logan 2,U.S. House,4,REP,Jim Baird,383
+133,Fountain,Logan 2,U.S. House,4,DEM,Joe Mackey,178
+134,Fountain,Logan 2,U.S. House,4,LIB,Write-In Votes,0
+135,Fountain,Logan 2,State Representative,13,REP,Sharon Negele,370
+136,Fountain,Logan 2,State Representative,13,DEM,Loretta Barnes,189
+139,Fountain,Logan 3,Registered Voters,,,,972
+140,Fountain,Logan 3,Ballots Cast,,,,672
+141,Fountain,Logan 3,Straight Party,,REP,,241
+142,Fountain,Logan 3,Straight Party,,DEM,,73
+143,Fountain,Logan 3,Straight Party,,LIB,,7
+144,Fountain,Logan 3,President,,REP,Donald J Trump,451
+145,Fountain,Logan 3,President,,DEM,Joseph R Biden,186
+146,Fountain,Logan 3,President,,LIB,Jo Jorgensen,21
+147,Fountain,Logan 3,President,,,Brian Carroll,0
+148,Fountain,Logan 3,President,,,Howie Hawkins,0
+149,Fountain,Logan 3,President,,,Write-In Votes,1
+150,Fountain,Logan 3,Governor,,REP,Eric Holcomb,415
+151,Fountain,Logan 3,Governor,,DEM,Woodrow (Woody) Myers,135
+152,Fountain,Logan 3,Governor,,LIB,Donald G Rainwater II,107
+153,Fountain,Logan 3,Attorney General,,REP,Todd Rokita,452
+154,Fountain,Logan 3,Attorney General,,DEM,Jonathan Weinzapfel,196
+155,Fountain,Logan 3,U.S. House,4,REP,Jim Baird,464
+156,Fountain,Logan 3,U.S. House,4,DEM,Joe Mackey,184
+157,Fountain,Logan 3,U.S. House,4,LIB,Write-In Votes,0
+158,Fountain,Logan 3,State Representative,13,REP,Sharon Negele,435
+159,Fountain,Logan 3,State Representative,13,DEM,Loretta Barnes,207
+162,Fountain,Mill Creek,Registered Voters,,,,992
+163,Fountain,Mill Creek,Ballots Cast,,,,658
+164,Fountain,Mill Creek,Straight Party,,REP,,303
+165,Fountain,Mill Creek,Straight Party,,DEM,,51
+166,Fountain,Mill Creek,Straight Party,,LIB,,3
+167,Fountain,Mill Creek,President,,REP,Donald J Trump,520
+168,Fountain,Mill Creek,President,,DEM,Joseph R Biden,109
+169,Fountain,Mill Creek,President,,LIB,Jo Jorgensen,11
+170,Fountain,Mill Creek,President,,,Brian Carroll,0
+171,Fountain,Mill Creek,President,,,Howie Hawkins,0
+172,Fountain,Mill Creek,President,,,Write-In Votes,0
+173,Fountain,Mill Creek,Governor,,REP,Eric Holcomb,412
+174,Fountain,Mill Creek,Governor,,DEM,Woodrow (Woody) Myers,85
+175,Fountain,Mill Creek,Governor,,LIB,Donald G Rainwater II,140
+176,Fountain,Mill Creek,Attorney General,,REP,Todd Rokita,512
+177,Fountain,Mill Creek,Attorney General,,DEM,Jonathan Weinzapfel,127
+178,Fountain,Mill Creek,U.S. House,4,REP,Jim Baird,527
+179,Fountain,Mill Creek,U.S. House,4,DEM,Joe Mackey,106
+180,Fountain,Mill Creek,U.S. House,4,LIB,Write-In Votes,0
+181,Fountain,Mill Creek,State Representative,13,REP,Sharon Negele,499
+182,Fountain,Mill Creek,State Representative,13,DEM,Loretta Barnes,123
+185,Fountain,Richland 1,Registered Voters,,,,319
+186,Fountain,Richland 1,Ballots Cast,,,,239
+187,Fountain,Richland 1,Straight Party,,REP,,108
+188,Fountain,Richland 1,Straight Party,,DEM,,15
+189,Fountain,Richland 1,Straight Party,,LIB,,0
+190,Fountain,Richland 1,President,,REP,Donald J Trump,186
+191,Fountain,Richland 1,President,,DEM,Joseph R Biden,42
+192,Fountain,Richland 1,President,,LIB,Jo Jorgensen,6
+193,Fountain,Richland 1,President,,,Brian Carroll,0
+194,Fountain,Richland 1,President,,,Howie Hawkins,0
+195,Fountain,Richland 1,President,,,Write-In Votes,0
+196,Fountain,Richland 1,Governor,,REP,Eric Holcomb,152
+197,Fountain,Richland 1,Governor,,DEM,Woodrow (Woody) Myers,25
+198,Fountain,Richland 1,Governor,,LIB,Donald G Rainwater II,54
+199,Fountain,Richland 1,Attorney General,,REP,Todd Rokita,193
+200,Fountain,Richland 1,Attorney General,,DEM,Jonathan Weinzapfel,37
+201,Fountain,Richland 1,U.S. House,4,REP,Jim Baird,190
+202,Fountain,Richland 1,U.S. House,4,DEM,Joe Mackey,39
+203,Fountain,Richland 1,U.S. House,4,LIB,Write-In Votes,0
+204,Fountain,Richland 1,State Representative,13,REP,Sharon Negele,186
+205,Fountain,Richland 1,State Representative,13,DEM,Loretta Barnes,45
+208,Fountain,Richland 2,Registered Voters,,,,298
+209,Fountain,Richland 2,Ballots Cast,,,,216
+210,Fountain,Richland 2,Straight Party,,REP,,77
+211,Fountain,Richland 2,Straight Party,,DEM,,19
+212,Fountain,Richland 2,Straight Party,,LIB,,1
+213,Fountain,Richland 2,President,,REP,Donald J Trump,175
+214,Fountain,Richland 2,President,,DEM,Joseph R Biden,36
+215,Fountain,Richland 2,President,,LIB,Jo Jorgensen,3
+216,Fountain,Richland 2,President,,,Brian Carroll,0
+217,Fountain,Richland 2,President,,,Howie Hawkins,0
+218,Fountain,Richland 2,President,,,Write-In Votes,0
+219,Fountain,Richland 2,Governor,,REP,Eric Holcomb,122
+220,Fountain,Richland 2,Governor,,DEM,Woodrow (Woody) Myers,29
+221,Fountain,Richland 2,Governor,,LIB,Donald G Rainwater II,63
+222,Fountain,Richland 2,Attorney General,,REP,Todd Rokita,161
+223,Fountain,Richland 2,Attorney General,,DEM,Jonathan Weinzapfel,47
+224,Fountain,Richland 2,U.S. House,4,REP,Jim Baird,171
+225,Fountain,Richland 2,U.S. House,4,DEM,Joe Mackey,40
+226,Fountain,Richland 2,U.S. House,4,LIB,Write-In Votes,0
+227,Fountain,Richland 2,State Representative,13,REP,Sharon Negele,156
+228,Fountain,Richland 2,State Representative,13,DEM,Loretta Barnes,50
+231,Fountain,Shawnee,Registered Voters,,,,461
+232,Fountain,Shawnee,Ballots Cast,,,,325
+233,Fountain,Shawnee,Straight Party,,REP,,159
+234,Fountain,Shawnee,Straight Party,,DEM,,17
+235,Fountain,Shawnee,Straight Party,,LIB,,3
+236,Fountain,Shawnee,President,,REP,Donald J Trump,267
+237,Fountain,Shawnee,President,,DEM,Joseph R Biden,47
+238,Fountain,Shawnee,President,,LIB,Jo Jorgensen,7
+239,Fountain,Shawnee,President,,,Brian Carroll,0
+240,Fountain,Shawnee,President,,,Howie Hawkins,0
+241,Fountain,Shawnee,President,,,Write-In Votes,0
+242,Fountain,Shawnee,Governor,,REP,Eric Holcomb,234
+243,Fountain,Shawnee,Governor,,DEM,Woodrow (Woody) Myers,30
+244,Fountain,Shawnee,Governor,,LIB,Donald G Rainwater II,56
+245,Fountain,Shawnee,Attorney General,,REP,Todd Rokita,266
+246,Fountain,Shawnee,Attorney General,,DEM,Jonathan Weinzapfel,48
+247,Fountain,Shawnee,U.S. House,4,REP,Jim Baird,269
+248,Fountain,Shawnee,U.S. House,4,DEM,Joe Mackey,47
+249,Fountain,Shawnee,U.S. House,4,LIB,Write-In Votes,0
+250,Fountain,Shawnee,State Representative,13,REP,Sharon Negele,252
+251,Fountain,Shawnee,State Representative,13,DEM,Loretta Barnes,56
+254,Fountain,Troy 1,Registered Voters,,,,826
+255,Fountain,Troy 1,Ballots Cast,,,,613
+256,Fountain,Troy 1,Straight Party,,REP,,251
+257,Fountain,Troy 1,Straight Party,,DEM,,36
+258,Fountain,Troy 1,Straight Party,,LIB,,6
+259,Fountain,Troy 1,President,,REP,Donald J Trump,499
+260,Fountain,Troy 1,President,,DEM,Joseph R Biden,91
+261,Fountain,Troy 1,President,,LIB,Jo Jorgensen,15
+262,Fountain,Troy 1,President,,,Brian Carroll,0
+263,Fountain,Troy 1,President,,,Howie Hawkins,0
+264,Fountain,Troy 1,President,,,Write-In Votes,2
+265,Fountain,Troy 1,Governor,,REP,Eric Holcomb,419
+266,Fountain,Troy 1,Governor,,DEM,Woodrow (Woody) Myers,66
+267,Fountain,Troy 1,Governor,,LIB,Donald G Rainwater II,116
+268,Fountain,Troy 1,Attorney General,,REP,Todd Rokita,490
+269,Fountain,Troy 1,Attorney General,,DEM,Jonathan Weinzapfel,105
+270,Fountain,Troy 1,U.S. House,4,REP,Jim Baird,492
+271,Fountain,Troy 1,U.S. House,4,DEM,Joe Mackey,102
+272,Fountain,Troy 1,U.S. House,4,LIB,Write-In Votes,0
+275,Fountain,Troy 1,State Representative,42,REP,Alan Morrison,492
+276,Fountain,Troy 1,State Representative,42,DEM,Amy Burke Adams,101
+277,Fountain,Troy 2,Registered Voters,,,,963
+278,Fountain,Troy 2,Ballots Cast,,,,651
+279,Fountain,Troy 2,Straight Party,,REP,,231
+280,Fountain,Troy 2,Straight Party,,DEM,,67
+281,Fountain,Troy 2,Straight Party,,LIB,,2
+282,Fountain,Troy 2,President,,REP,Donald J Trump,448
+283,Fountain,Troy 2,President,,DEM,Joseph R Biden,176
+284,Fountain,Troy 2,President,,LIB,Jo Jorgensen,18
+285,Fountain,Troy 2,President,,,Brian Carroll,0
+286,Fountain,Troy 2,President,,,Howie Hawkins,0
+287,Fountain,Troy 2,President,,,Write-In Votes,0
+288,Fountain,Troy 2,Governor,,REP,Eric Holcomb,392
+289,Fountain,Troy 2,Governor,,DEM,Woodrow (Woody) Myers,109
+290,Fountain,Troy 2,Governor,,LIB,Donald G Rainwater II,137
+291,Fountain,Troy 2,Attorney General,,REP,Todd Rokita,450
+292,Fountain,Troy 2,Attorney General,,DEM,Jonathan Weinzapfel,186
+293,Fountain,Troy 2,U.S. House,4,REP,Jim Baird,455
+294,Fountain,Troy 2,U.S. House,4,DEM,Joe Mackey,179
+295,Fountain,Troy 2,U.S. House,4,LIB,Write-In Votes,0
+298,Fountain,Troy 2,State Representative,42,REP,Alan Morrison,453
+299,Fountain,Troy 2,State Representative,42,DEM,Amy Burke Adams,179
+300,Fountain,Troy 3,Registered Voters,,,,966
+301,Fountain,Troy 3,Ballots Cast,,,,718
+302,Fountain,Troy 3,Straight Party,,REP,,234
+303,Fountain,Troy 3,Straight Party,,DEM,,82
+304,Fountain,Troy 3,Straight Party,,LIB,,5
+305,Fountain,Troy 3,President,,REP,Donald J Trump,473
+306,Fountain,Troy 3,President,,DEM,Joseph R Biden,210
+307,Fountain,Troy 3,President,,LIB,Jo Jorgensen,17
+308,Fountain,Troy 3,President,,,Brian Carroll,0
+309,Fountain,Troy 3,President,,,Howie Hawkins,0
+310,Fountain,Troy 3,President,,,Write-In Votes,0
+311,Fountain,Troy 3,Governor,,REP,Eric Holcomb,453
+312,Fountain,Troy 3,Governor,,DEM,Woodrow (Woody) Myers,138
+313,Fountain,Troy 3,Governor,,LIB,Donald G Rainwater II,106
+314,Fountain,Troy 3,Attorney General,,REP,Todd Rokita,474
+315,Fountain,Troy 3,Attorney General,,DEM,Jonathan Weinzapfel,208
+316,Fountain,Troy 3,U.S. House,4,REP,Jim Baird,475
+317,Fountain,Troy 3,U.S. House,4,DEM,Joe Mackey,207
+318,Fountain,Troy 3,U.S. House,4,LIB,Write-In Votes,1
+321,Fountain,Troy 3,State Representative,42,REP,Alan Morrison,477
+322,Fountain,Troy 3,State Representative,42,DEM,Amy Burke Adams,206
+323,Fountain,Van Buren 1,Registered Voters,,,,609
+324,Fountain,Van Buren 1,Ballots Cast,,,,454
+325,Fountain,Van Buren 1,Straight Party,,REP,,194
+326,Fountain,Van Buren 1,Straight Party,,DEM,,20
+327,Fountain,Van Buren 1,Straight Party,,LIB,,2
+328,Fountain,Van Buren 1,President,,REP,Donald J Trump,385
+329,Fountain,Van Buren 1,President,,DEM,Joseph R Biden,51
+330,Fountain,Van Buren 1,President,,LIB,Jo Jorgensen,10
+331,Fountain,Van Buren 1,President,,,Brian Carroll,0
+332,Fountain,Van Buren 1,President,,,Howie Hawkins,1
+333,Fountain,Van Buren 1,President,,,Write-In Votes,0
+334,Fountain,Van Buren 1,Governor,,REP,Eric Holcomb,324
+335,Fountain,Van Buren 1,Governor,,DEM,Woodrow (Woody) Myers,38
+336,Fountain,Van Buren 1,Governor,,LIB,Donald G Rainwater II,88
+337,Fountain,Van Buren 1,Attorney General,,REP,Todd Rokita,379
+338,Fountain,Van Buren 1,Attorney General,,DEM,Jonathan Weinzapfel,65
+339,Fountain,Van Buren 1,U.S. House,4,REP,Jim Baird,391
+340,Fountain,Van Buren 1,U.S. House,4,DEM,Joe Mackey,56
+341,Fountain,Van Buren 1,U.S. House,4,LIB,Write-In Votes,0
+342,Fountain,Van Buren 1,State Representative,13,REP,Sharon Negele,369
+343,Fountain,Van Buren 1,State Representative,13,DEM,Loretta Barnes,72
+346,Fountain,Van Buren 2,Registered Voters,,,,519
+347,Fountain,Van Buren 2,Ballots Cast,,,,331
+348,Fountain,Van Buren 2,Straight Party,,REP,,143
+349,Fountain,Van Buren 2,Straight Party,,DEM,,32
+350,Fountain,Van Buren 2,Straight Party,,LIB,,3
+351,Fountain,Van Buren 2,President,,REP,Donald J Trump,259
+352,Fountain,Van Buren 2,President,,DEM,Joseph R Biden,61
+353,Fountain,Van Buren 2,President,,LIB,Jo Jorgensen,9
+354,Fountain,Van Buren 2,President,,,Brian Carroll,0
+355,Fountain,Van Buren 2,President,,,Howie Hawkins,0
+356,Fountain,Van Buren 2,President,,,Write-In Votes,0
+357,Fountain,Van Buren 2,Governor,,REP,Eric Holcomb,194
+358,Fountain,Van Buren 2,Governor,,DEM,Woodrow (Woody) Myers,56
+359,Fountain,Van Buren 2,Governor,,LIB,Donald G Rainwater II,74
+360,Fountain,Van Buren 2,Attorney General,,REP,Todd Rokita,249
+361,Fountain,Van Buren 2,Attorney General,,DEM,Jonathan Weinzapfel,69
+362,Fountain,Van Buren 2,U.S. House,4,REP,Jim Baird,243
+363,Fountain,Van Buren 2,U.S. House,4,DEM,Joe Mackey,76
+364,Fountain,Van Buren 2,U.S. House,4,LIB,Write-In Votes,0
+365,Fountain,Van Buren 2,State Representative,13,REP,Sharon Negele,237
+366,Fountain,Van Buren 2,State Representative,13,DEM,Loretta Barnes,77
+369,Fountain,Van Buren 3,Registered Voters,,,,835
+370,Fountain,Van Buren 3,Ballots Cast,,,,546
+371,Fountain,Van Buren 3,Straight Party,,REP,,213
+372,Fountain,Van Buren 3,Straight Party,,DEM,,42
+373,Fountain,Van Buren 3,Straight Party,,LIB,,5
+374,Fountain,Van Buren 3,President,,REP,Donald J Trump,412
+375,Fountain,Van Buren 3,President,,DEM,Joseph R Biden,107
+376,Fountain,Van Buren 3,President,,LIB,Jo Jorgensen,17
+377,Fountain,Van Buren 3,President,,,Brian Carroll,0
+378,Fountain,Van Buren 3,President,,,Howie Hawkins,0
+379,Fountain,Van Buren 3,President,,,Write-In Votes,0
+380,Fountain,Van Buren 3,Governor,,REP,Eric Holcomb,350
+381,Fountain,Van Buren 3,Governor,,DEM,Woodrow (Woody) Myers,78
+382,Fountain,Van Buren 3,Governor,,LIB,Donald G Rainwater II,111
+383,Fountain,Van Buren 3,Attorney General,,REP,Todd Rokita,405
+384,Fountain,Van Buren 3,Attorney General,,DEM,Jonathan Weinzapfel,123
+385,Fountain,Van Buren 3,U.S. House,4,REP,Jim Baird,424
+386,Fountain,Van Buren 3,U.S. House,4,DEM,Joe Mackey,106
+387,Fountain,Van Buren 3,U.S. House,4,LIB,Write-In Votes,0
+388,Fountain,Van Buren 3,State Representative,13,REP,Sharon Negele,408
+389,Fountain,Van Buren 3,State Representative,13,DEM,Loretta Barnes,118
+392,Fountain,Wabash,Registered Voters,,,,545
+393,Fountain,Wabash,Ballots Cast,,,,401
+394,Fountain,Wabash,Straight Party,,REP,,181
+395,Fountain,Wabash,Straight Party,,DEM,,29
+396,Fountain,Wabash,Straight Party,,LIB,,2
+397,Fountain,Wabash,President,,REP,Donald J Trump,325
+398,Fountain,Wabash,President,,DEM,Joseph R Biden,62
+399,Fountain,Wabash,President,,LIB,Jo Jorgensen,10
+400,Fountain,Wabash,President,,,Brian Carroll,1
+401,Fountain,Wabash,President,,,Howie Hawkins,0
+402,Fountain,Wabash,President,,,Write-In Votes,0
+403,Fountain,Wabash,Governor,,REP,Eric Holcomb,276
+404,Fountain,Wabash,Governor,,DEM,Woodrow (Woody) Myers,46
+405,Fountain,Wabash,Governor,,LIB,Donald G Rainwater II,75
+406,Fountain,Wabash,Attorney General,,REP,Todd Rokita,330
+407,Fountain,Wabash,Attorney General,,DEM,Jonathan Weinzapfel,66
+408,Fountain,Wabash,U.S. House,4,REP,Jim Baird,333
+409,Fountain,Wabash,U.S. House,4,DEM,Joe Mackey,62
+410,Fountain,Wabash,U.S. House,4,LIB,Write-In Votes,0
+413,Fountain,Wabash,State Representative,42,REP,Alan Morrison,329
+414,Fountain,Wabash,State Representative,42,DEM,Amy Burke Adams,65

@@ -1,0 +1,667 @@
+county,precinct,office,district,party,candidate,early_voting,election_day,votes
+Washington,Federal,Ballots Cast,,,,,,6
+Washington,Federal,Straight Party,,REP,,0,0,0
+Washington,Federal,Straight Party,,DEM,,2,0,2
+Washington,Federal,Straight Party,,LIB,,0,0,0
+Washington,Federal,President,,REP,Donald J Trump,1,0,1
+Washington,Federal,President,,DEM,Joseph R Biden,5,0,5
+Washington,Federal,President,,LIB,Jo Jorgensen,0,0,0
+Washington,Federal,President,,,Brian Carroll (W),0,0,0
+Washington,Federal,President,,,Howie Hawkins (W),0,0,0
+Washington,Federal,President,,,Over Votes,0,0,0
+Washington,Federal,President,,,Under Votes,0,0,0
+Washington,Federal,U.S. House,9,,Trey Hollingsworth,1,0,1
+Washington,Federal,U.S. House,9,,Andy Ruff,3,0,3
+Washington,Federal,U.S. House,9,,Tonya L Millis,0,0,0
+Washington,Federal,U.S. House,9,,Over Votes,0,0,0
+Washington,Federal,U.S. House,9,,Under Votes,2,0,2
+Washington,SAL1,Ballots Cast,,,,,,586
+Washington,SAL1,Straight Party,,REP,,94,79,173
+Washington,SAL1,Straight Party,,DEM,,34,19,53
+Washington,SAL1,Straight Party,,LIB,,3,3,6
+Washington,SAL1,President,,REP,Donald J Trump,182,224,406
+Washington,SAL1,President,,DEM,Joseph R Biden,93,71,164
+Washington,SAL1,President,,LIB,Jo Jorgensen,1,8,9
+Washington,SAL1,President,,,Brian Carroll (W),0,0,0
+Washington,SAL1,President,,,Howie Hawkins (W),0,0,0
+Washington,SAL1,President,,,Over Votes,0,0,0
+Washington,SAL1,President,,,Under Votes,2,5,7
+Washington,SAL1,Governor,,REP,Eric Holcomb,165,184,349
+Washington,SAL1,Governor,,DEM,Woodrow (Woody) Myers,79,58,137
+Washington,SAL1,Governor,,LIB,Donald G Rainwater II,33,65,98
+Washington,SAL1,Governor,,,Over Votes,0,0,0
+Washington,SAL1,Governor,,,Under Votes,1,1,2
+Washington,SAL1,Attorney General,,REP,Todd Rokita,180,221,401
+Washington,SAL1,Attorney General,,DEM,Jonathan Weinzapfel,93,78,171
+Washington,SAL1,Attorney General,,,Over Votes,0,0,0
+Washington,SAL1,Attorney General,,,Under Votes,5,9,14
+Washington,SAL1,U.S. House,9,,Trey Hollingsworth,181,222,403
+Washington,SAL1,U.S. House,9,,Andy Ruff,79,60,139
+Washington,SAL1,U.S. House,9,,Tonya L Millis,13,19,32
+Washington,SAL1,U.S. House,9,,Over Votes,0,0,0
+Washington,SAL1,U.S. House,9,,Under Votes,5,7,12
+Washington,SAL1,State Representative,73,,Steve Davisson,228,266,494
+Washington,SAL1,State Representative,73,,Over Votes,0,0,0
+Washington,SAL1,State Representative,73,,Under Votes,50,42,92
+Washington,SAL2,Ballots Cast,,,,,,608
+Washington,SAL2,Straight Party,,REP,,105,99,204
+Washington,SAL2,Straight Party,,DEM,,38,25,63
+Washington,SAL2,Straight Party,,LIB,,1,3,4
+Washington,SAL2,President,,REP,Donald J Trump,194,231,425
+Washington,SAL2,President,,DEM,Joseph R Biden,103,65,168
+Washington,SAL2,President,,LIB,Jo Jorgensen,3,9,12
+Washington,SAL2,President,,,Brian Carroll (W),0,0,0
+Washington,SAL2,President,,,Howie Hawkins (W),0,0,0
+Washington,SAL2,President,,,Over Votes,0,0,0
+Washington,SAL2,President,,,Under Votes,1,2,3
+Washington,SAL2,Governor,,REP,Eric Holcomb,185,189,374
+Washington,SAL2,Governor,,DEM,Woodrow (Woody) Myers,90,59,149
+Washington,SAL2,Governor,,LIB,Donald G Rainwater II,19,53,72
+Washington,SAL2,Governor,,,Over Votes,0,0,0
+Washington,SAL2,Governor,,,Under Votes,7,6,13
+Washington,SAL2,Attorney General,,REP,Todd Rokita,191,224,415
+Washington,SAL2,Attorney General,,DEM,Jonathan Weinzapfel,94,68,162
+Washington,SAL2,Attorney General,,,Over Votes,0,0,0
+Washington,SAL2,Attorney General,,,Under Votes,16,15,31
+Washington,SAL2,U.S. House,9,,Trey Hollingsworth,197,222,419
+Washington,SAL2,U.S. House,9,,Andy Ruff,90,61,151
+Washington,SAL2,U.S. House,9,,Tonya L Millis,6,16,22
+Washington,SAL2,U.S. House,9,,Over Votes,0,0,0
+Washington,SAL2,U.S. House,9,,Under Votes,8,8,16
+Washington,SAL2,State Representative,73,,Steve Davisson,244,262,506
+Washington,SAL2,State Representative,73,,Over Votes,0,0,0
+Washington,SAL2,State Representative,73,,Under Votes,57,45,102
+Washington,SAL3,Ballots Cast,,,,,,727
+Washington,SAL3,Straight Party,,REP,,93,84,177
+Washington,SAL3,Straight Party,,DEM,,32,26,58
+Washington,SAL3,Straight Party,,LIB,,3,3,6
+Washington,SAL3,President,,REP,Donald J Trump,217,257,474
+Washington,SAL3,President,,DEM,Joseph R Biden,133,85,218
+Washington,SAL3,President,,LIB,Jo Jorgensen,7,16,23
+Washington,SAL3,President,,,Brian Carroll (W),0,0,0
+Washington,SAL3,President,,,Howie Hawkins (W),1,0,1
+Washington,SAL3,President,,,Over Votes,1,1,2
+Washington,SAL3,President,,,Under Votes,3,6,9
+Washington,SAL3,Governor,,REP,Eric Holcomb,207,206,413
+Washington,SAL3,Governor,,DEM,Woodrow (Woody) Myers,112,78,190
+Washington,SAL3,Governor,,LIB,Donald G Rainwater II,36,76,112
+Washington,SAL3,Governor,,,Over Votes,0,0,0
+Washington,SAL3,Governor,,,Under Votes,7,5,12
+Washington,SAL3,Attorney General,,REP,Todd Rokita,222,252,474
+Washington,SAL3,Attorney General,,DEM,Jonathan Weinzapfel,118,99,217
+Washington,SAL3,Attorney General,,,Over Votes,0,0,0
+Washington,SAL3,Attorney General,,,Under Votes,22,14,36
+Washington,SAL3,U.S. House,9,,Trey Hollingsworth,229,255,484
+Washington,SAL3,U.S. House,9,,Andy Ruff,107,80,187
+Washington,SAL3,U.S. House,9,,Tonya L Millis,13,18,31
+Washington,SAL3,U.S. House,9,,Over Votes,0,0,0
+Washington,SAL3,U.S. House,9,,Under Votes,13,12,25
+Washington,SAL3,State Representative,73,,Steve Davisson,285,311,596
+Washington,SAL3,State Representative,73,,Over Votes,0,0,0
+Washington,SAL3,State Representative,73,,Under Votes,77,54,131
+Washington,SAL4,Ballots Cast,,,,,,618
+Washington,SAL4,Straight Party,,REP,,86,83,169
+Washington,SAL4,Straight Party,,DEM,,27,20,47
+Washington,SAL4,Straight Party,,LIB,,1,3,4
+Washington,SAL4,President,,REP,Donald J Trump,176,276,452
+Washington,SAL4,President,,DEM,Joseph R Biden,99,57,156
+Washington,SAL4,President,,LIB,Jo Jorgensen,2,4,6
+Washington,SAL4,President,,,Brian Carroll (W),0,0,0
+Washington,SAL4,President,,,Howie Hawkins (W),0,0,0
+Washington,SAL4,President,,,Over Votes,0,0,0
+Washington,SAL4,President,,,Under Votes,2,2,4
+Washington,SAL4,Governor,,REP,Eric Holcomb,170,212,382
+Washington,SAL4,Governor,,DEM,Woodrow (Woody) Myers,77,59,136
+Washington,SAL4,Governor,,LIB,Donald G Rainwater II,29,65,94
+Washington,SAL4,Governor,,,Over Votes,0,0,0
+Washington,SAL4,Governor,,,Under Votes,3,3,6
+Washington,SAL4,Attorney General,,REP,Todd Rokita,176,269,445
+Washington,SAL4,Attorney General,,DEM,Jonathan Weinzapfel,95,59,154
+Washington,SAL4,Attorney General,,,Over Votes,0,0,0
+Washington,SAL4,Attorney General,,,Under Votes,8,11,19
+Washington,SAL4,U.S. House,9,,Trey Hollingsworth,177,271,448
+Washington,SAL4,U.S. House,9,,Andy Ruff,80,47,127
+Washington,SAL4,U.S. House,9,,Tonya L Millis,17,10,27
+Washington,SAL4,U.S. House,9,,Over Votes,1,0,1
+Washington,SAL4,U.S. House,9,,Under Votes,4,11,15
+Washington,SAL4,State Representative,73,,Steve Davisson,227,296,523
+Washington,SAL4,State Representative,73,,Over Votes,0,0,0
+Washington,SAL4,State Representative,73,,Under Votes,52,43,95
+Washington,WAS1,Ballots Cast,,,,,,405
+Washington,WAS1,Straight Party,,REP,,71,48,119
+Washington,WAS1,Straight Party,,DEM,,23,8,31
+Washington,WAS1,Straight Party,,LIB,,1,0,1
+Washington,WAS1,President,,REP,Donald J Trump,132,144,276
+Washington,WAS1,President,,DEM,Joseph R Biden,83,38,121
+Washington,WAS1,President,,LIB,Jo Jorgensen,1,3,4
+Washington,WAS1,President,,,Brian Carroll (W),0,0,0
+Washington,WAS1,President,,,Howie Hawkins (W),0,0,0
+Washington,WAS1,President,,,Over Votes,0,0,0
+Washington,WAS1,President,,,Under Votes,3,1,4
+Washington,WAS1,Governor,,REP,Eric Holcomb,124,124,248
+Washington,WAS1,Governor,,DEM,Woodrow (Woody) Myers,76,29,105
+Washington,WAS1,Governor,,LIB,Donald G Rainwater II,16,28,44
+Washington,WAS1,Governor,,,Over Votes,0,0,0
+Washington,WAS1,Governor,,,Under Votes,3,5,8
+Washington,WAS1,Attorney General,,REP,Todd Rokita,134,152,286
+Washington,WAS1,Attorney General,,DEM,Jonathan Weinzapfel,78,27,105
+Washington,WAS1,Attorney General,,,Over Votes,0,0,0
+Washington,WAS1,Attorney General,,,Under Votes,7,7,14
+Washington,WAS1,U.S. House,9,,Trey Hollingsworth,135,150,285
+Washington,WAS1,U.S. House,9,,Andy Ruff,73,24,97
+Washington,WAS1,U.S. House,9,,Tonya L Millis,7,6,13
+Washington,WAS1,U.S. House,9,,Over Votes,0,0,0
+Washington,WAS1,U.S. House,9,,Under Votes,4,6,10
+Washington,WAS1,State Representative,73,,Steve Davisson,169,167,336
+Washington,WAS1,State Representative,73,,Over Votes,0,0,0
+Washington,WAS1,State Representative,73,,Under Votes,50,19,69
+Washington,WAS2,Ballots Cast,,,,,,300
+Washington,WAS2,Straight Party,,REP,,35,47,82
+Washington,WAS2,Straight Party,,DEM,,13,2,15
+Washington,WAS2,Straight Party,,LIB,,0,0,0
+Washington,WAS2,President,,REP,Donald J Trump,101,128,229
+Washington,WAS2,President,,DEM,Joseph R Biden,41,17,58
+Washington,WAS2,President,,LIB,Jo Jorgensen,3,3,6
+Washington,WAS2,President,,,Brian Carroll (W),1,0,1
+Washington,WAS2,President,,,Howie Hawkins (W),0,0,0
+Washington,WAS2,President,,,Over Votes,0,0,0
+Washington,WAS2,President,,,Under Votes,6,0,6
+Washington,WAS2,Governor,,REP,Eric Holcomb,91,107,198
+Washington,WAS2,Governor,,DEM,Woodrow (Woody) Myers,42,17,59
+Washington,WAS2,Governor,,LIB,Donald G Rainwater II,15,23,38
+Washington,WAS2,Governor,,,Over Votes,0,0,0
+Washington,WAS2,Governor,,,Under Votes,4,1,5
+Washington,WAS2,Attorney General,,REP,Todd Rokita,104,125,229
+Washington,WAS2,Attorney General,,DEM,Jonathan Weinzapfel,42,18,60
+Washington,WAS2,Attorney General,,,Over Votes,0,0,0
+Washington,WAS2,Attorney General,,,Under Votes,6,5,11
+Washington,WAS2,U.S. House,9,,Trey Hollingsworth,100,127,227
+Washington,WAS2,U.S. House,9,,Andy Ruff,41,12,53
+Washington,WAS2,U.S. House,9,,Tonya L Millis,4,6,10
+Washington,WAS2,U.S. House,9,,Over Votes,0,0,0
+Washington,WAS2,U.S. House,9,,Under Votes,7,3,10
+Washington,WAS2,State Representative,73,,Steve Davisson,118,131,249
+Washington,WAS2,State Representative,73,,Over Votes,0,0,0
+Washington,WAS2,State Representative,73,,Under Votes,34,17,51
+Washington,WAS3,Ballots Cast,,,,,,879
+Washington,WAS3,Straight Party,,REP,,141,118,259
+Washington,WAS3,Straight Party,,DEM,,32,16,48
+Washington,WAS3,Straight Party,,LIB,,1,3,4
+Washington,WAS3,President,,REP,Donald J Trump,313,364,677
+Washington,WAS3,President,,DEM,Joseph R Biden,122,62,184
+Washington,WAS3,President,,LIB,Jo Jorgensen,9,6,15
+Washington,WAS3,President,,,Brian Carroll (W),0,0,0
+Washington,WAS3,President,,,Howie Hawkins (W),0,0,0
+Washington,WAS3,President,,,Over Votes,0,0,0
+Washington,WAS3,President,,,Under Votes,2,1,3
+Washington,WAS3,Governor,,REP,Eric Holcomb,303,292,595
+Washington,WAS3,Governor,,DEM,Woodrow (Woody) Myers,101,50,151
+Washington,WAS3,Governor,,LIB,Donald G Rainwater II,38,83,121
+Washington,WAS3,Governor,,,Over Votes,0,0,0
+Washington,WAS3,Governor,,,Under Votes,4,8,12
+Washington,WAS3,Attorney General,,REP,Todd Rokita,315,346,661
+Washington,WAS3,Attorney General,,DEM,Jonathan Weinzapfel,118,68,186
+Washington,WAS3,Attorney General,,,Over Votes,0,0,0
+Washington,WAS3,Attorney General,,,Under Votes,13,19,32
+Washington,WAS3,U.S. House,9,,Trey Hollingsworth,324,357,681
+Washington,WAS3,U.S. House,9,,Andy Ruff,103,56,159
+Washington,WAS3,U.S. House,9,,Tonya L Millis,12,11,23
+Washington,WAS3,U.S. House,9,,Over Votes,0,0,0
+Washington,WAS3,U.S. House,9,,Under Votes,7,9,16
+Washington,WAS3,State Representative,73,,Steve Davisson,381,379,760
+Washington,WAS3,State Representative,73,,Over Votes,0,0,0
+Washington,WAS3,State Representative,73,,Under Votes,65,54,119
+Washington,WAS4,Ballots Cast,,,,,,539
+Washington,WAS4,Straight Party,,REP,,69,87,156
+Washington,WAS4,Straight Party,,DEM,,20,14,34
+Washington,WAS4,Straight Party,,LIB,,0,2,2
+Washington,WAS4,President,,REP,Donald J Trump,172,251,423
+Washington,WAS4,President,,DEM,Joseph R Biden,71,32,103
+Washington,WAS4,President,,LIB,Jo Jorgensen,2,5,7
+Washington,WAS4,President,,,Brian Carroll (W),0,0,0
+Washington,WAS4,President,,,Howie Hawkins (W),0,0,0
+Washington,WAS4,President,,,Over Votes,1,0,1
+Washington,WAS4,President,,,Under Votes,2,3,5
+Washington,WAS4,Governor,,REP,Eric Holcomb,155,192,347
+Washington,WAS4,Governor,,DEM,Woodrow (Woody) Myers,60,34,94
+Washington,WAS4,Governor,,LIB,Donald G Rainwater II,31,62,93
+Washington,WAS4,Governor,,,Over Votes,1,0,1
+Washington,WAS4,Governor,,,Under Votes,1,3,4
+Washington,WAS4,Attorney General,,REP,Todd Rokita,177,245,422
+Washington,WAS4,Attorney General,,DEM,Jonathan Weinzapfel,63,36,99
+Washington,WAS4,Attorney General,,,Over Votes,1,0,1
+Washington,WAS4,Attorney General,,,Under Votes,7,10,17
+Washington,WAS4,U.S. House,9,,Trey Hollingsworth,173,236,409
+Washington,WAS4,U.S. House,9,,Andy Ruff,64,33,97
+Washington,WAS4,U.S. House,9,,Tonya L Millis,9,11,20
+Washington,WAS4,U.S. House,9,,Over Votes,1,0,1
+Washington,WAS4,U.S. House,9,,Under Votes,1,11,12
+Washington,WAS4,State Representative,73,,Steve Davisson,201,254,455
+Washington,WAS4,State Representative,73,,Over Votes,1,0,1
+Washington,WAS4,State Representative,73,,Under Votes,46,37,83
+Washington,BROW,Ballots Cast,,,,,,258
+Washington,BROW,Straight Party,,REP,,51,49,100
+Washington,BROW,Straight Party,,DEM,,13,3,16
+Washington,BROW,Straight Party,,LIB,,0,1,1
+Washington,BROW,President,,REP,Donald J Trump,92,88,160
+Washington,BROW,President,,DEM,Joseph R Biden,50,20,70
+Washington,BROW,President,,LIB,Jo Jorgensen,4,3,7
+Washington,BROW,President,,,Brian Carroll (W),0,0,0
+Washington,BROW,President,,,Howie Hawkins (W),0,0,0
+Washington,BROW,President,,,Over Votes,0,0,0
+Washington,BROW,President,,,Under Votes,1,0,1
+Washington,BROW,Governor,,REP,Eric Holcomb,84,76,160
+Washington,BROW,Governor,,DEM,Woodrow (Woody) Myers,45,11,56
+Washington,BROW,Governor,,LIB,Donald G Rainwater II,16,24,40
+Washington,BROW,Governor,,,Over Votes,0,0,0
+Washington,BROW,Governor,,,Under Votes,2,0,2
+Washington,BROW,Attorney General,,REP,Todd Rokita,92,88,180
+Washington,BROW,Attorney General,,DEM,Jonathan Weinzapfel,48,20,68
+Washington,BROW,Attorney General,,,Over Votes,0,0,0
+Washington,BROW,Attorney General,,,Under Votes,7,3,10
+Washington,BROW,U.S. House,9,,Trey Hollingsworth,91,89,180
+Washington,BROW,U.S. House,9,,Andy Ruff,46,15,61
+Washington,BROW,U.S. House,9,,Tonya L Millis,6,6,12
+Washington,BROW,U.S. House,9,,Over Votes,0,0,0
+Washington,BROW,U.S. House,9,,Under Votes,4,1,5
+Washington,BROW,State Representative,73,,Steve Davisson,112,101,213
+Washington,BROW,State Representative,73,,Over Votes,0,0,0
+Washington,BROW,State Representative,73,,Under Votes,35,10,45
+Washington,FRAN,Ballots Cast,,,,,,959
+Washington,FRAN,Straight Party,,REP,,157,246,403
+Washington,FRAN,Straight Party,,DEM,,41,37,78
+Washington,FRAN,Straight Party,,LIB,,4,9,13
+Washington,FRAN,President,,REP,Donald J Trump,268,496,764
+Washington,FRAN,President,,DEM,Joseph R Biden,94,79,173
+Washington,FRAN,President,,LIB,Jo Jorgensen,8,7,15
+Washington,FRAN,President,,,Brian Carroll (W),0,0,0
+Washington,FRAN,President,,,Howie Hawkins (W),1,0,1
+Washington,FRAN,President,,,Over Votes,0,0,0
+Washington,FRAN,President,,,Under Votes,3,3,6
+Washington,FRAN,Governor,,REP,Eric Holcomb,252,407,659
+Washington,FRAN,Governor,,DEM,Woodrow (Woody) Myers,77,67,144
+Washington,FRAN,Governor,,LIB,Donald G Rainwater II,41,105,146
+Washington,FRAN,Governor,,,Over Votes,0,0,0
+Washington,FRAN,Governor,,,Under Votes,4,6,10
+Washington,FRAN,Attorney General,,REP,Todd Rokita,270,481,751
+Washington,FRAN,Attorney General,,DEM,Jonathan Weinzapfel,90,86,176
+Washington,FRAN,Attorney General,,,Over Votes,0,0,0
+Washington,FRAN,Attorney General,,,Under Votes,14,18,32
+Washington,FRAN,U.S. House,9,,Trey Hollingsworth,271,467,738
+Washington,FRAN,U.S. House,9,,Andy Ruff,82,76,158
+Washington,FRAN,U.S. House,9,,Tonya L Millis,14,31,45
+Washington,FRAN,U.S. House,9,,Over Votes,0,0,0
+Washington,FRAN,U.S. House,9,,Under Votes,7,11,18
+Washington,FRAN,State Representative,73,,Steve Davisson,304,518,822
+Washington,FRAN,State Representative,73,,Over Votes,0,0,0
+Washington,FRAN,State Representative,73,,Under Votes,70,67,137
+Washington,GIBS,Ballots Cast,,,,,,532
+Washington,GIBS,Straight Party,,REP,,50,116,166
+Washington,GIBS,Straight Party,,DEM,,37,31,68
+Washington,GIBS,Straight Party,,LIB,,1,1,2
+Washington,GIBS,President,,REP,Donald J Trump,90,286,376
+Washington,GIBS,President,,DEM,Joseph R Biden,70,76,146
+Washington,GIBS,President,,LIB,Jo Jorgensen,4,3,7
+Washington,GIBS,President,,,Brian Carroll (W),0,0,0
+Washington,GIBS,President,,,Howie Hawkins (W),0,0,0
+Washington,GIBS,President,,,Over Votes,0,0,0
+Washington,GIBS,President,,,Under Votes,1,2,3
+Washington,GIBS,Governor,,REP,Eric Holcomb,94,222,316
+Washington,GIBS,Governor,,DEM,Woodrow (Woody) Myers,60,63,123
+Washington,GIBS,Governor,,LIB,Donald G Rainwater II,8,78,86
+Washington,GIBS,Governor,,,Over Votes,0,0,0
+Washington,GIBS,Governor,,,Under Votes,3,4,7
+Washington,GIBS,Attorney General,,REP,Todd Rokita,84,270,354
+Washington,GIBS,Attorney General,,DEM,Jonathan Weinzapfel,75,86,161
+Washington,GIBS,Attorney General,,,Over Votes,0,0,0
+Washington,GIBS,Attorney General,,,Under Votes,6,11,17
+Washington,GIBS,U.S. House,9,,Trey Hollingsworth,90,274,364
+Washington,GIBS,U.S. House,9,,Andy Ruff,70,72,142
+Washington,GIBS,U.S. House,9,,Tonya L Millis,2,14,16
+Washington,GIBS,U.S. House,9,,Over Votes,0,0,0
+Washington,GIBS,U.S. House,9,,Under Votes,3,7,10
+Washington,GIBS,State Representative,73,,Steve Davisson,118,315,433
+Washington,GIBS,State Representative,73,,Over Votes,0,0,0
+Washington,GIBS,State Representative,73,,Under Votes,47,52,99
+Washington,HOWD,Ballots Cast,,,,,,537
+Washington,HOWD,Straight Party,,REP,,62,130,192
+Washington,HOWD,Straight Party,,DEM,,22,21,43
+Washington,HOWD,Straight Party,,LIB,,2,2,4
+Washington,HOWD,President,,REP,Donald J Trump,121,301,422
+Washington,HOWD,President,,DEM,Joseph R Biden,54,47,101
+Washington,HOWD,President,,LIB,Jo Jorgensen,1,10,11
+Washington,HOWD,President,,,Brian Carroll (W),0,1,1
+Washington,HOWD,President,,,Howie Hawkins (W),0,0,0
+Washington,HOWD,President,,,Over Votes,0,0,0
+Washington,HOWD,President,,,Under Votes,2,0,2
+Washington,HOWD,Governor,,REP,Eric Holcomb,99,233,332
+Washington,HOWD,Governor,,DEM,Woodrow (Woody) Myers,50,42,92
+Washington,HOWD,Governor,,LIB,Donald G Rainwater II,25,83,108
+Washington,HOWD,Governor,,,Over Votes,1,0,1
+Washington,HOWD,Governor,,,Under Votes,3,1,4
+Washington,HOWD,Attorney General,,REP,Todd Rokita,115,293,408
+Washington,HOWD,Attorney General,,DEM,Jonathan Weinzapfel,53,55,108
+Washington,HOWD,Attorney General,,,Over Votes,2,0,2
+Washington,HOWD,Attorney General,,,Under Votes,8,11,19
+Washington,HOWD,U.S. House,9,,Trey Hollingsworth,121,296,417
+Washington,HOWD,U.S. House,9,,Andy Ruff,48,44,92
+Washington,HOWD,U.S. House,9,,Tonya L Millis,6,16,22
+Washington,HOWD,U.S. House,9,,Over Votes,0,0,0
+Washington,HOWD,U.S. House,9,,Under Votes,3,3,6
+Washington,HOWD,State Representative,73,,Steve Davisson,135,321,456
+Washington,HOWD,State Representative,73,,Over Votes,0,0,0
+Washington,HOWD,State Representative,73,,Under Votes,43,38,81
+Washington,JACK,Ballots Cast,,,,,,969
+Washington,JACK,Straight Party,,REP,,179,248,427
+Washington,JACK,Straight Party,,DEM,,37,45,82
+Washington,JACK,Straight Party,,LIB,,0,2,2
+Washington,JACK,President,,REP,Donald J Trump,280,457,737
+Washington,JACK,President,,DEM,Joseph R Biden,119,86,205
+Washington,JACK,President,,LIB,Jo Jorgensen,7,13,20
+Washington,JACK,President,,,Brian Carroll (W),0,0,0
+Washington,JACK,President,,,Howie Hawkins (W),0,0,0
+Washington,JACK,President,,,Over Votes,2,0,2
+Washington,JACK,President,,,Under Votes,2,3,5
+Washington,JACK,Governor,,REP,Eric Holcomb,285,404,689
+Washington,JACK,Governor,,DEM,Woodrow (Woody) Myers,98,77,175
+Washington,JACK,Governor,,LIB,Donald G Rainwater II,20,67,87
+Washington,JACK,Governor,,,Over Votes,2,0,2
+Washington,JACK,Governor,,,Under Votes,5,11,16
+Washington,JACK,Attorney General,,REP,Todd Rokita,284,442,726
+Washington,JACK,Attorney General,,DEM,Jonathan Weinzapfel,115,94,209
+Washington,JACK,Attorney General,,,Over Votes,2,0,2
+Washington,JACK,Attorney General,,,Under Votes,9,23,32
+Washington,JACK,U.S. House,9,,Trey Hollingsworth,289,447,736
+Washington,JACK,U.S. House,9,,Andy Ruff,105,77,182
+Washington,JACK,U.S. House,9,,Tonya L Millis,9,23,32
+Washington,JACK,U.S. House,9,,Over Votes,2,0,2
+Washington,JACK,U.S. House,9,,Under Votes,5,12,17
+Washington,JACK,State Representative,73,,Steve Davisson,317,480,797
+Washington,JACK,State Representative,73,,Over Votes,2,0,2
+Washington,JACK,State Representative,73,,Under Votes,91,79,170
+Washington,JEFF,Ballots Cast,,,,,,377
+Washington,JEFF,Straight Party,,REP,,46,100,146
+Washington,JEFF,Straight Party,,DEM,,16,10,26
+Washington,JEFF,Straight Party,,LIB,,0,4,4
+Washington,JEFF,President,,REP,Donald J Trump,88,222,310
+Washington,JEFF,President,,DEM,Joseph R Biden,33,25,58
+Washington,JEFF,President,,LIB,Jo Jorgensen,2,4,6
+Washington,JEFF,President,,,Brian Carroll (W),0,0,0
+Washington,JEFF,President,,,Howie Hawkins (W),0,0,0
+Washington,JEFF,President,,,Over Votes,0,0,0
+Washington,JEFF,President,,,Under Votes,2,1,3
+Washington,JEFF,Governor,,REP,Eric Holcomb,79,158,237
+Washington,JEFF,Governor,,DEM,Woodrow (Woody) Myers,31,22,53
+Washington,JEFF,Governor,,LIB,Donald G Rainwater II,14,70,84
+Washington,JEFF,Governor,,,Over Votes,0,0,0
+Washington,JEFF,Governor,,,Under Votes,1,2,3
+Washington,JEFF,Attorney General,,REP,Todd Rokita,84,216,300
+Washington,JEFF,Attorney General,,DEM,Jonathan Weinzapfel,39,30,69
+Washington,JEFF,Attorney General,,,Over Votes,0,0,0
+Washington,JEFF,Attorney General,,,Under Votes,2,6,8
+Washington,JEFF,U.S. House,9,,Trey Hollingsworth,85,214,299
+Washington,JEFF,U.S. House,9,,Andy Ruff,34,23,57
+Washington,JEFF,U.S. House,9,,Tonya L Millis,4,13,17
+Washington,JEFF,U.S. House,9,,Over Votes,0,0,0
+Washington,JEFF,U.S. House,9,,Under Votes,2,2,4
+Washington,JEFF,State Representative,73,,Steve Davisson,100,224,324
+Washington,JEFF,State Representative,73,,Over Votes,0,0,0
+Washington,JEFF,State Representative,73,,Under Votes,25,28,53
+Washington,MADI,Ballots Cast,,,,,,262
+Washington,MADI,Straight Party,,REP,,27,63,90
+Washington,MADI,Straight Party,,DEM,,11,10,21
+Washington,MADI,Straight Party,,LIB,,0,2,2
+Washington,MADI,President,,REP,Donald J Trump,47,151,198
+Washington,MADI,President,,DEM,Joseph R Biden,29,27,56
+Washington,MADI,President,,LIB,Jo Jorgensen,4,4,8
+Washington,MADI,President,,,Brian Carroll (W),0,0,0
+Washington,MADI,President,,,Howie Hawkins (W),0,0,0
+Washington,MADI,President,,,Over Votes,0,0,0
+Washington,MADI,President,,,Under Votes,0,0,0
+Washington,MADI,Governor,,REP,Eric Holcomb,44,116,160
+Washington,MADI,Governor,,DEM,Woodrow (Woody) Myers,25,27,52
+Washington,MADI,Governor,,LIB,Donald G Rainwater II,7,35,42
+Washington,MADI,Governor,,,Over Votes,0,0,0
+Washington,MADI,Governor,,,Under Votes,4,4,8
+Washington,MADI,Attorney General,,REP,Todd Rokita,48,145,193
+Washington,MADI,Attorney General,,DEM,Jonathan Weinzapfel,27,31,58
+Washington,MADI,Attorney General,,,Over Votes,0,0,0
+Washington,MADI,Attorney General,,,Under Votes,5,6,11
+Washington,MADI,U.S. House,9,,Trey Hollingsworth,49,140,189
+Washington,MADI,U.S. House,9,,Andy Ruff,24,27,51
+Washington,MADI,U.S. House,9,,Tonya L Millis,3,12,15
+Washington,MADI,U.S. House,9,,Over Votes,0,0,0
+Washington,MADI,U.S. House,9,,Under Votes,4,3,7
+Washington,MADI,State Representative,73,,Steve Davisson,62,160,222
+Washington,MADI,State Representative,73,,Over Votes,0,0,0
+Washington,MADI,State Representative,73,,Under Votes,18,22,40
+Washington,MONR,Ballots Cast,,,,,,314
+Washington,MONR,Straight Party,,REP,,31,90,121
+Washington,MONR,Straight Party,,DEM,,14,9,23
+Washington,MONR,Straight Party,,LIB,,0,0,0
+Washington,MONR,President,,REP,Donald J Trump,57,194,251
+Washington,MONR,President,,DEM,Joseph R Biden,29,27,56
+Washington,MONR,President,,LIB,Jo Jorgensen,3,2,5
+Washington,MONR,President,,,Brian Carroll (W),0,0,0
+Washington,MONR,President,,,Howie Hawkins (W),0,0,0
+Washington,MONR,President,,,Over Votes,0,0,0
+Washington,MONR,President,,,Under Votes,1,1,2
+Washington,MONR,Governor,,REP,Eric Holcomb,53,154,207
+Washington,MONR,Governor,,DEM,Woodrow (Woody) Myers,25,24,49
+Washington,MONR,Governor,,LIB,Donald G Rainwater II,11,40,51
+Washington,MONR,Governor,,,Over Votes,0,1,1
+Washington,MONR,Governor,,,Under Votes,1,5,6
+Washington,MONR,Attorney General,,REP,Todd Rokita,61,184,245
+Washington,MONR,Attorney General,,DEM,Jonathan Weinzapfel,28,30,58
+Washington,MONR,Attorney General,,,Over Votes,0,0,0
+Washington,MONR,Attorney General,,,Under Votes,1,10,11
+Washington,MONR,U.S. House,9,,Trey Hollingsworth,60,177,237
+Washington,MONR,U.S. House,9,,Andy Ruff,26,29,55
+Washington,MONR,U.S. House,9,,Tonya L Millis,4,12,16
+Washington,MONR,U.S. House,9,,Over Votes,0,0,0
+Washington,MONR,U.S. House,9,,Under Votes,0,6,6
+Washington,MONR,State Representative,73,,Steve Davisson,71,201,272
+Washington,MONR,State Representative,73,,Over Votes,0,0,0
+Washington,MONR,State Representative,73,,Under Votes,19,23,42
+Washington,PIERCE,Ballots Cast,,,,,,1081
+Washington,PIERCE,Straight Party,,REP,,162,228,390
+Washington,PIERCE,Straight Party,,DEM,,68,29,97
+Washington,PIERCE,Straight Party,,LIB,,0,7,7
+Washington,PIERCE,President,,REP,Donald J Trump,305,518,823
+Washington,PIERCE,President,,DEM,Joseph R Biden,152,76,228
+Washington,PIERCE,President,,LIB,Jo Jorgensen,7,14,21
+Washington,PIERCE,President,,,Brian Carroll (W),0,0,0
+Washington,PIERCE,President,,,Howie Hawkins (W),0,2,2
+Washington,PIERCE,President,,,Over Votes,0,0,0
+Washington,PIERCE,President,,,Under Votes,4,3,7
+Washington,PIERCE,Governor,,REP,Eric Holcomb,297,446,743
+Washington,PIERCE,Governor,,DEM,Woodrow (Woody) Myers,137,68,205
+Washington,PIERCE,Governor,,LIB,Donald G Rainwater II,26,95,121
+Washington,PIERCE,Governor,,,Over Votes,0,0,0
+Washington,PIERCE,Governor,,,Under Votes,8,4,12
+Washington,PIERCE,Attorney General,,REP,Todd Rokita,298,517,815
+Washington,PIERCE,Attorney General,,DEM,Jonathan Weinzapfel,156,76,232
+Washington,PIERCE,Attorney General,,,Over Votes,0,0,0
+Washington,PIERCE,Attorney General,,,Under Votes,14,20,34
+Washington,PIERCE,U.S. House,9,,Trey Hollingsworth,307,511,818
+Washington,PIERCE,U.S. House,9,,Andy Ruff,143,69,212
+Washington,PIERCE,U.S. House,9,,Tonya L Millis,7,27,34
+Washington,PIERCE,U.S. House,9,,Over Votes,0,1,1
+Washington,PIERCE,U.S. House,9,,Under Votes,11,5,16
+Washington,PIERCE,State Representative,73,,Steve Davisson,348,551,899
+Washington,PIERCE,State Representative,73,,Over Votes,0,0,0
+Washington,PIERCE,State Representative,73,,Under Votes,120,62,182
+Washington,POLK,Ballots Cast,,,,,,1121
+Washington,POLK,Straight Party,,REP,,193,230,423
+Washington,POLK,Straight Party,,DEM,,86,20,106
+Washington,POLK,Straight Party,,LIB,,5,3,8
+Washington,POLK,President,,REP,Donald J Trump,344,489,833
+Washington,POLK,President,,DEM,Joseph R Biden,192,66,258
+Washington,POLK,President,,LIB,Jo Jorgensen,12,11,23
+Washington,POLK,President,,,Brian Carroll (W),0,0,0
+Washington,POLK,President,,,Howie Hawkins (W),1,0,1
+Washington,POLK,President,,,Over Votes,0,0,0
+Washington,POLK,President,,,Under Votes,4,2,6
+Washington,POLK,Governor,,REP,Eric Holcomb,334,406,740
+Washington,POLK,Governor,,DEM,Woodrow (Woody) Myers,173,61,234
+Washington,POLK,Governor,,LIB,Donald G Rainwater II,43,96,139
+Washington,POLK,Governor,,,Over Votes,0,1,1
+Washington,POLK,Governor,,,Under Votes,3,4,7
+Washington,POLK,Attorney General,,REP,Todd Rokita,346,476,822
+Washington,POLK,Attorney General,,DEM,Jonathan Weinzapfel,189,79,268
+Washington,POLK,Attorney General,,,Over Votes,0,0,0
+Washington,POLK,Attorney General,,,Under Votes,18,13,31
+Washington,POLK,U.S. House,9,,Trey Hollingsworth,355,477,832
+Washington,POLK,U.S. House,9,,Andy Ruff,177,60,237
+Washington,POLK,U.S. House,9,,Tonya L Millis,15,25,40
+Washington,POLK,U.S. House,9,,Over Votes,0,0,0
+Washington,POLK,U.S. House,9,,Under Votes,6,6,12
+Washington,POLK,State Representative,73,,Steve Davisson,430,524,954
+Washington,POLK,State Representative,73,,Over Votes,0,0,0
+Washington,POLK,State Representative,73,,Under Votes,123,44,167
+Washington,POSY,Ballots Cast,,,,,,812
+Washington,POSY,Straight Party,,REP,,103,242,345
+Washington,POSY,Straight Party,,DEM,,65,40,105
+Washington,POSY,Straight Party,,LIB,,4,4,8
+Washington,POSY,President,,REP,Donald J Trump,171,414,585
+Washington,POSY,President,,DEM,Joseph R Biden,110,89,199
+Washington,POSY,President,,LIB,Jo Jorgensen,5,17,22
+Washington,POSY,President,,,Brian Carroll (W),0,0,0
+Washington,POSY,President,,,Howie Hawkins (W),1,0,1
+Washington,POSY,President,,,Over Votes,0,0,0
+Washington,POSY,President,,,Under Votes,4,1,5
+Washington,POSY,Governor,,REP,Eric Holcomb,170,365,535
+Washington,POSY,Governor,,DEM,Woodrow (Woody) Myers,101,66,167
+Washington,POSY,Governor,,LIB,Donald G Rainwater II,19,89,108
+Washington,POSY,Governor,,,Over Votes,1,0,1
+Washington,POSY,Governor,,,Under Votes,0,1,1
+Washington,POSY,Attorney General,,REP,Todd Rokita,174,411,585
+Washington,POSY,Attorney General,,DEM,Jonathan Weinzapfel,109,101,210
+Washington,POSY,Attorney General,,,Over Votes,0,0,0
+Washington,POSY,Attorney General,,,Under Votes,8,9,17
+Washington,POSY,U.S. House,9,,Trey Hollingsworth,176,414,590
+Washington,POSY,U.S. House,9,,Andy Ruff,110,78,188
+Washington,POSY,U.S. House,9,,Tonya L Millis,4,26,30
+Washington,POSY,U.S. House,9,,Over Votes,0,0,0
+Washington,POSY,U.S. House,9,,Under Votes,1,3,4
+Washington,POSY,State Representative,73,,Steve Davisson,202,449,651
+Washington,POSY,State Representative,73,,Over Votes,0,0,0
+Washington,POSY,State Representative,73,,Under Votes,89,72,161
+Washington,VERN,Ballots Cast,,,,,,339
+Washington,VERN,Straight Party,,REP,,32,57,89
+Washington,VERN,Straight Party,,DEM,,7,5,12
+Washington,VERN,Straight Party,,LIB,,0,0,0
+Washington,VERN,President,,REP,Donald J Trump,70,202,272
+Washington,VERN,President,,DEM,Joseph R Biden,23,34,57
+Washington,VERN,President,,LIB,Jo Jorgensen,3,3,6
+Washington,VERN,President,,,Brian Carroll (W),0,0,0
+Washington,VERN,President,,,Howie Hawkins (W),0,0,0
+Washington,VERN,President,,,Over Votes,0,0,0
+Washington,VERN,President,,,Under Votes,1,3,4
+Washington,VERN,Governor,,REP,Eric Holcomb,70,165,235
+Washington,VERN,Governor,,DEM,Woodrow (Woody) Myers,16,21,37
+Washington,VERN,Governor,,LIB,Donald G Rainwater II,10,52,62
+Washington,VERN,Governor,,,Over Votes,0,0,0
+Washington,VERN,Governor,,,Under Votes,1,4,5
+Washington,VERN,Attorney General,,REP,Todd Rokita,75,193,268
+Washington,VERN,Attorney General,,DEM,Jonathan Weinzapfel,19,39,58
+Washington,VERN,Attorney General,,,Over Votes,0,0,0
+Washington,VERN,Attorney General,,,Under Votes,3,10,13
+Washington,VERN,U.S. House,9,,Trey Hollingsworth,71,200,271
+Washington,VERN,U.S. House,9,,Andy Ruff,24,30,54
+Washington,VERN,U.S. House,9,,Tonya L Millis,1,7,8
+Washington,VERN,U.S. House,9,,Over Votes,0,0,0
+Washington,VERN,U.S. House,9,,Under Votes,1,5,6
+Washington,VERN,State Representative,73,,Steve Davisson,78,218,296
+Washington,VERN,State Representative,73,,Over Votes,0,0,0
+Washington,VERN,State Representative,73,,Under Votes,19,24,43
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,

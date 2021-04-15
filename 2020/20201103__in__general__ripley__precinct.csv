@@ -1,714 +1,483 @@
-county,precinct,office,district,party,candidate,election_day,early_voting,post_election,absentee,votes,
-Ripley,Adams 1,Registered Voters,,,,,,,,1198,
-Ripley,Adams 1,Ballots Cast,,,,581,184,0,89,854,
-Ripley,Adams 1,Straight Party,,REP,,198,78,0,25,301,
-Ripley,Adams 1,Straight Party,,DEM,,29,20,0,15,64,
-Ripley,Adams 1,Straight Party,,LIB,,3,0,0,0,3,
-Ripley,Adams 1,President,,REP,Donald J Trump,489,131,0,52,672,
-Ripley,Adams 1,President,,DEM,Joseph R Biden,80,49,0,33,162,
-Ripley,Adams 1,President,,LIB,Jo Jorgensen,9,2,0,3,14,
-Ripley,Adams 1,President,,,Write-In,1,1,0,0,2,
-Ripley,Adams 1,Governor,,REP,Eric Holcomb,411,125,0,61,597,
-Ripley,Adams 1,Governor,,DEM,Woodrow (Woody) Myers,60,40,0,24,124,
-Ripley,Adams 1,Governor,,LIB,Donald G Rainwater II,107,15,0,2,124,
-Ripley,Adams 1,Attorney General,,REP,Todd Rokita,469,129,0,55,653,
-Ripley,Adams 1,Attorney General,,DEM,Jonathan Weinzapfel,84,49,0,30,163,
-Ripley,Adams 1,U.S. House,6,REP,Greg Pence,465,129,0,55,649,
-Ripley,Adams 1,U.S. House,6,DEM,Jeannine Lee Lake,84,49,0,27,160,
-Ripley,Adams 1,U.S. House,6,LIB,Tom Ferkinhoff,25,4,0,2,31,
-Ripley,Adams 1,U.S. House,6,,Write-In,1,0,0,0,1,
-Ripley,Adams 1,State Senate,42,REP,Jean Leising,525,146,0,67,738,
-Ripley,Adams 1,State Representative,55,REP,Cindy Meyer Ziemke,511,148,0,67,726,
-Ripley,Adams 2,Registered Voters,,,,,,,,1509,
-Ripley,Adams 2,Ballots Cast,,,,708,178,0,123,1009,
-Ripley,Adams 2,Straight Party,,REP,,290,83,0,40,413,
-Ripley,Adams 2,Straight Party,,DEM,,16,14,0,20,50,
-Ripley,Adams 2,Straight Party,,LIB,,6,0,0,0,6,
-Ripley,Adams 2,President,,REP,Donald J Trump,636,139,0,76,851,
-Ripley,Adams 2,President,,DEM,Joseph R Biden,54,29,0,45,128,
-Ripley,Adams 2,President,,LIB,Jo Jorgensen,11,3,0,2,16,
-Ripley,Adams 2,President,,,Write-In,3,0,0,0,3,
-Ripley,Adams 2,Governor,,REP,Eric Holcomb,511,131,0,77,719,
-Ripley,Adams 2,Governor,,DEM,Woodrow (Woody) Myers,49,23,0,40,112,
-Ripley,Adams 2,Governor,,LIB,Donald G Rainwater II,142,14,0,4,160,
-Ripley,Adams 2,Attorney General,,REP,Todd Rokita,622,133,0,74,829,
-Ripley,Adams 2,Attorney General,,DEM,Jonathan Weinzapfel,67,33,0,45,145,
-Ripley,Adams 2,U.S. House,6,REP,Greg Pence,617,132,0,76,825,
-Ripley,Adams 2,U.S. House,6,DEM,Jeannine Lee Lake,57,32,0,41,130,
-Ripley,Adams 2,U.S. House,6,LIB,Tom Ferkinhoff,27,5,0,4,36,
-Ripley,Adams 2,U.S. House,6,,Write-In,0,0,0,0,0,
-Ripley,Adams 2,State Senate,42,REP,Jean Leising,647,147,0,90,884,
-Ripley,Adams 2,State Representative,55,REP,Cindy Meyer Ziemke,634,144,0,85,863,
-Ripley,Adams 3,Registered Voters,,,,,,,,1065,
-Ripley,Adams 3,Ballots Cast,,,,383,175,0,156,714,
-Ripley,Adams 3,Straight Party,,REP,,128,64,0,35,227,
-Ripley,Adams 3,Straight Party,,DEM,,24,25,0,27,76,
-Ripley,Adams 3,Straight Party,,LIB,,0,0,0,1,1,
-Ripley,Adams 3,President,,REP,Donald J Trump,301,99,0,73,473,
-Ripley,Adams 3,President,,DEM,Joseph R Biden,72,72,0,76,220,
-Ripley,Adams 3,President,,LIB,Jo Jorgensen,3,2,0,3,8,
-Ripley,Adams 3,President,,,Write-In,2,0,0,0,2,
-Ripley,Adams 3,Governor,,REP,Eric Holcomb,285,113,0,88,486,
-Ripley,Adams 3,Governor,,DEM,Woodrow (Woody) Myers,51,51,0,60,162,
-Ripley,Adams 3,Governor,,LIB,Donald G Rainwater II,42,10,0,3,55,
-Ripley,Adams 3,Attorney General,,REP,Todd Rokita,304,114,0,78,496,
-Ripley,Adams 3,Attorney General,,DEM,Jonathan Weinzapfel,71,56,0,70,197,
-Ripley,Adams 3,U.S. House,6,REP,Greg Pence,301,111,0,76,488,
-Ripley,Adams 3,U.S. House,6,DEM,Jeannine Lee Lake,61,59,0,72,192,
-Ripley,Adams 3,U.S. House,6,LIB,Tom Ferkinhoff,14,2,0,4,20,
-Ripley,Adams 3,U.S. House,6,,Write-In,0,0,0,0,0,
-Ripley,Adams 3,State Senate,42,REP,Jean Leising,332,136,0,106,574,
-Ripley,Adams 3,State Representative,55,REP,Cindy Meyer Ziemke,334,136,0,112,582,
-Ripley,Brown 1,Registered Voters,,,,,,,,601,
-Ripley,Brown 1,Ballots Cast,,,,246,154,0,38,438,
-Ripley,Brown 1,Straight Party,,REP,,99,80,0,4,183,
-Ripley,Brown 1,Straight Party,,DEM,,6,11,0,5,22,
-Ripley,Brown 1,Straight Party,,LIB,,1,1,0,0,2,
-Ripley,Brown 1,President,,REP,Donald J Trump,224,126,0,18,368,
-Ripley,Brown 1,President,,DEM,Joseph R Biden,18,22,0,18,58,
-Ripley,Brown 1,President,,LIB,Jo Jorgensen,3,0,0,0,3,
-Ripley,Brown 1,President,,,Write-In,0,0,0,1,1,
-Ripley,Brown 1,Governor,,REP,Eric Holcomb,167,107,0,23,297,
-Ripley,Brown 1,Governor,,DEM,Woodrow (Woody) Myers,18,20,0,14,52,
-Ripley,Brown 1,Governor,,LIB,Donald G Rainwater II,58,24,0,1,83,
-Ripley,Brown 1,Attorney General,,REP,Todd Rokita,216,126,0,20,362,
-Ripley,Brown 1,Attorney General,,DEM,Jonathan Weinzapfel,24,22,0,17,63,
-Ripley,Brown 1,U.S. House,6,REP,Greg Pence,218,125,0,21,364,
-Ripley,Brown 1,U.S. House,6,DEM,Jeannine Lee Lake,22,22,0,17,61,
-Ripley,Brown 1,U.S. House,6,LIB,Tom Ferkinhoff,6,2,0,0,8,
-Ripley,Brown 1,U.S. House,6,,Write-In,0,0,0,0,0,
-Ripley,Brown 1,State Representative,67,REP,Randy Frye,227,133,0,25,385,
-Ripley,Brown 2,Registered Voters,,,,,,,,636,
-Ripley,Brown 2,Ballots Cast,,,,276,169,0,44,489,
-Ripley,Brown 2,Straight Party,,REP,,109,69,0,7,185,
-Ripley,Brown 2,Straight Party,,DEM,,11,23,0,11,45,
-Ripley,Brown 2,Straight Party,,LIB,,1,0,0,0,1,
-Ripley,Brown 2,President,,REP,Donald J Trump,248,125,0,21,394,
-Ripley,Brown 2,President,,DEM,Joseph R Biden,25,41,0,22,88,
-Ripley,Brown 2,President,,LIB,Jo Jorgensen,2,1,0,0,3,
-Ripley,Brown 2,President,,,Write-In,0,0,0,0,0,
-Ripley,Brown 2,Governor,,REP,Eric Holcomb,201,115,0,21,337,
-Ripley,Brown 2,Governor,,DEM,Woodrow (Woody) Myers,20,37,0,21,78,
-Ripley,Brown 2,Governor,,LIB,Donald G Rainwater II,53,12,0,2,67,
-Ripley,Brown 2,Attorney General,,REP,Todd Rokita,240,119,0,21,380,
-Ripley,Brown 2,Attorney General,,DEM,Jonathan Weinzapfel,28,40,0,23,91,
-Ripley,Brown 2,U.S. House,6,REP,Greg Pence,242,119,0,21,382,
-Ripley,Brown 2,U.S. House,6,DEM,Jeannine Lee Lake,27,43,0,20,90,
-Ripley,Brown 2,U.S. House,6,LIB,Tom Ferkinhoff,5,2,0,2,9,
-Ripley,Brown 2,U.S. House,6,,Write-In,0,0,0,0,0,
-Ripley,Brown 2,State Representative,67,REP,Randy Frye,250,138,0,29,417,
-Ripley,Center 1,Registered Voters,,,,,,,,414,
-Ripley,Center 1,Ballots Cast,,,,185,69,0,21,275,
-Ripley,Center 1,Straight Party,,REP,,66,20,0,3,89,
-Ripley,Center 1,Straight Party,,DEM,,8,10,0,4,22,
-Ripley,Center 1,Straight Party,,LIB,,3,1,0,0,4,
-Ripley,Center 1,President,,REP,Donald J Trump,160,49,0,11,220,
-Ripley,Center 1,President,,DEM,Joseph R Biden,16,16,0,7,39,
-Ripley,Center 1,President,,LIB,Jo Jorgensen,4,2,0,3,9,
-Ripley,Center 1,President,,,Write-In,0,0,0,0,0,
-Ripley,Center 1,Governor,,REP,Eric Holcomb,102,33,0,12,147,
-Ripley,Center 1,Governor,,DEM,Woodrow (Woody) Myers,17,15,0,7,39,
-Ripley,Center 1,Governor,,LIB,Donald G Rainwater II,60,19,0,1,80,
-Ripley,Center 1,Attorney General,,REP,Todd Rokita,148,47,0,12,207,
-Ripley,Center 1,Attorney General,,DEM,Jonathan Weinzapfel,25,16,0,7,48,
-Ripley,Center 1,U.S. House,6,REP,Greg Pence,149,48,0,10,207,
-Ripley,Center 1,U.S. House,6,DEM,Jeannine Lee Lake,19,16,0,9,44,
-Ripley,Center 1,U.S. House,6,LIB,Tom Ferkinhoff,11,1,0,2,14,
-Ripley,Center 1,U.S. House,6,,Write-In,0,0,0,0,0,
-Ripley,Center 1,State Representative,67,REP,Randy Frye,158,51,0,15,224,
-Ripley,Center 2,Registered Voters,,,,,,,,665,
-Ripley,Center 2,Ballots Cast,,,,261,115,0,59,435,
-Ripley,Center 2,Straight Party,,REP,,81,45,0,22,148,
-Ripley,Center 2,Straight Party,,DEM,,16,12,0,8,36,
-Ripley,Center 2,Straight Party,,LIB,,0,0,0,1,1,
-Ripley,Center 2,President,,REP,Donald J Trump,216,87,0,45,348,
-Ripley,Center 2,President,,DEM,Joseph R Biden,41,24,0,13,78,
-Ripley,Center 2,President,,LIB,Jo Jorgensen,2,0,0,1,3,
-Ripley,Center 2,President,,,Write-In,1,0,0,0,1,
-Ripley,Center 2,Governor,,REP,Eric Holcomb,139,71,0,43,253,
-Ripley,Center 2,Governor,,DEM,Woodrow (Woody) Myers,43,18,0,12,73,
-Ripley,Center 2,Governor,,LIB,Donald G Rainwater II,77,23,0,3,103,
-Ripley,Center 2,Attorney General,,REP,Todd Rokita,206,81,0,42,329,
-Ripley,Center 2,Attorney General,,DEM,Jonathan Weinzapfel,45,25,0,13,83,
-Ripley,Center 2,U.S. House,6,REP,Greg Pence,205,88,0,43,336,
-Ripley,Center 2,U.S. House,6,DEM,Jeannine Lee Lake,44,22,0,13,79,
-Ripley,Center 2,U.S. House,6,LIB,Tom Ferkinhoff,9,0,0,1,10,
-Ripley,Center 2,U.S. House,6,,Write-In,0,0,0,0,0,
-Ripley,Center 2,State Representative,67,REP,Randy Frye,220,93,0,47,360,
-Ripley,Center 3,Registered Voters,,,,,,,,637,
-Ripley,Center 3,Ballots Cast,,,,277,120,0,37,434,
-Ripley,Center 3,Straight Party,,REP,,104,46,0,10,160,
-Ripley,Center 3,Straight Party,,DEM,,8,15,0,4,27,
-Ripley,Center 3,Straight Party,,LIB,,0,0,0,0,0,
-Ripley,Center 3,President,,REP,Donald J Trump,239,86,0,24,349,
-Ripley,Center 3,President,,DEM,Joseph R Biden,33,33,0,12,78,
-Ripley,Center 3,President,,LIB,Jo Jorgensen,3,1,0,0,4,
-Ripley,Center 3,President,,,Write-In,1,0,0,0,1,
-Ripley,Center 3,Governor,,REP,Eric Holcomb,176,73,0,27,276,
-Ripley,Center 3,Governor,,DEM,Woodrow (Woody) Myers,24,27,0,9,60,
-Ripley,Center 3,Governor,,LIB,Donald G Rainwater II,74,19,0,1,94,
-Ripley,Center 3,Attorney General,,REP,Todd Rokita,235,83,0,24,342,
-Ripley,Center 3,Attorney General,,DEM,Jonathan Weinzapfel,34,35,0,11,80,
-Ripley,Center 3,U.S. House,6,REP,Greg Pence,229,85,0,24,338,
-Ripley,Center 3,U.S. House,6,DEM,Jeannine Lee Lake,37,30,0,10,77,
-Ripley,Center 3,U.S. House,6,LIB,Tom Ferkinhoff,8,3,0,1,12,
-Ripley,Center 3,U.S. House,6,,Write-In,0,0,0,0,0,
-Ripley,Center 3,State Representative,67,REP,Randy Frye,253,96,0,30,379,
-Ripley,Delaware,Registered Voters,,,,,,,,1054,
-Ripley,Delaware,Ballots Cast,,,,533,206,0,65,804,
-Ripley,Delaware,Straight Party,,REP,,183,72,0,17,272,
-Ripley,Delaware,Straight Party,,DEM,,22,24,0,12,58,
-Ripley,Delaware,Straight Party,,LIB,,2,0,0,0,2,
-Ripley,Delaware,President,,REP,Donald J Trump,457,153,0,38,648,
-Ripley,Delaware,President,,DEM,Joseph R Biden,61,50,0,25,136,
-Ripley,Delaware,President,,LIB,Jo Jorgensen,9,0,0,0,9,
-Ripley,Delaware,President,,,Write-In,1,1,0,0,2,
-Ripley,Delaware,Governor,,REP,Eric Holcomb,347,123,0,38,508,
-Ripley,Delaware,Governor,,DEM,Woodrow (Woody) Myers,50,44,0,25,119,
-Ripley,Delaware,Governor,,LIB,Donald G Rainwater II,123,34,0,1,158,
-Ripley,Delaware,Attorney General,,REP,Todd Rokita,445,145,0,37,627,
-Ripley,Delaware,Attorney General,,DEM,Jonathan Weinzapfel,60,54,0,27,141,
-Ripley,Delaware,U.S. House,6,REP,Greg Pence,438,148,0,38,624,
-Ripley,Delaware,U.S. House,6,DEM,Jeannine Lee Lake,58,50,0,25,133,
-Ripley,Delaware,U.S. House,6,LIB,Tom Ferkinhoff,19,3,0,0,22,
-Ripley,Delaware,U.S. House,6,,Write-In,0,0,0,0,0,
-Ripley,Delaware,State Representative,67,REP,Randy Frye,478,164,0,41,683,
-Ripley,Franklin 1,Registered Voters,,,,,,,,916,
-Ripley,Franklin 1,Ballots Cast,,,,418,109,0,82,609,
-Ripley,Franklin 1,Straight Party,,REP,,174,51,0,24,249,
-Ripley,Franklin 1,Straight Party,,DEM,,15,14,0,15,44,
-Ripley,Franklin 1,Straight Party,,LIB,,2,0,0,1,3,
-Ripley,Franklin 1,President,,REP,Donald J Trump,366,77,0,44,487,
-Ripley,Franklin 1,President,,DEM,Joseph R Biden,44,30,0,33,107,
-Ripley,Franklin 1,President,,LIB,Jo Jorgensen,5,2,0,4,11,
-Ripley,Franklin 1,President,,,Write-In,1,0,0,1,2,
-Ripley,Franklin 1,Governor,,REP,Eric Holcomb,290,69,0,55,414,
-Ripley,Franklin 1,Governor,,DEM,Woodrow (Woody) Myers,38,25,0,26,89,
-Ripley,Franklin 1,Governor,,LIB,Donald G Rainwater II,89,15,0,1,105,
-Ripley,Franklin 1,Attorney General,,REP,Todd Rokita,358,81,0,47,486,
-Ripley,Franklin 1,Attorney General,,DEM,Jonathan Weinzapfel,48,28,0,34,110,
-Ripley,Franklin 1,U.S. House,6,REP,Greg Pence,359,79,0,46,48,
-Ripley,Franklin 1,U.S. House,6,DEM,Jeannine Lee Lake,44,27,0,33,104,
-Ripley,Franklin 1,U.S. House,6,LIB,Tom Ferkinhoff,11,3,0,3,17,
-Ripley,Franklin 1,U.S. House,6,,Write-In,0,0,0,0,0,
-Ripley,Franklin 1,State Representative,67,REP,Randy Frye,388,90,0,54,532,
-Ripley,Franklin 2,Registered Voters,,,,,,,,818,
-Ripley,Franklin 2,Ballots Cast,,,,393,120,0,64,577,
-Ripley,Franklin 2,Straight Party,,REP,,192,61,0,20,273,
-Ripley,Franklin 2,Straight Party,,DEM,,14,17,0,6,37,
-Ripley,Franklin 2,Straight Party,,LIB,,2,0,0,0,2,
-Ripley,Franklin 2,President,,REP,Donald J Trump,352,91,0,35,478,
-Ripley,Franklin 2,President,,DEM,Joseph R Biden,33,26,0,28,87,
-Ripley,Franklin 2,President,,LIB,Jo Jorgensen,5,0,0,0,5,
-Ripley,Franklin 2,President,,,Write-In,0,0,0,1,1,
-Ripley,Franklin 2,Governor,,REP,Eric Holcomb,283,84,0,39,406,
-Ripley,Franklin 2,Governor,,DEM,Woodrow (Woody) Myers,33,20,0,22,75,
-Ripley,Franklin 2,Governor,,LIB,Donald G Rainwater II,68,12,0,1,81,
-Ripley,Franklin 2,Attorney General,,REP,Todd Rokita,342,90,0,35,467,
-Ripley,Franklin 2,Attorney General,,DEM,Jonathan Weinzapfel,28,26,0,23,87,
-Ripley,Franklin 2,U.S. House,6,REP,Greg Pence,343,91,0,36,470,
-Ripley,Franklin 2,U.S. House,6,DEM,Jeannine Lee Lake,28,24,0,26,78,
-Ripley,Franklin 2,U.S. House,6,LIB,Tom Ferkinhoff,13,1,0,0,14,
-Ripley,Franklin 2,U.S. House,6,,Write-In,0,0,0,0,0,
-Ripley,Franklin 2,State Representative,67,REP,Randy Frye,363,97,0,51,511,
-Ripley,Franklin 3,Registered Voters,,,,,,,,910,
-Ripley,Franklin 3,Ballots Cast,,,,345,104,0,88,537,
-Ripley,Franklin 3,Straight Party,,REP,,148,55,0,27,230,
-Ripley,Franklin 3,Straight Party,,DEM,,19,7,0,21,47,
-Ripley,Franklin 3,Straight Party,,LIB,,1,0,0,2,3,
-Ripley,Franklin 3,President,,REP,Donald J Trump,289,82,0,43,414,
-Ripley,Franklin 3,President,,DEM,Joseph R Biden,50,19,0,41,110,
-Ripley,Franklin 3,President,,LIB,Jo Jorgensen,3,2,0,3,8,
-Ripley,Franklin 3,President,,,Write-In,1,0,0,0,1,
-Ripley,Franklin 3,Governor,,REP,Eric Holcomb,226,76,0,45,347,
-Ripley,Franklin 3,Governor,,DEM,Woodrow (Woody) Myers,37,17,0,36,90,
-Ripley,Franklin 3,Governor,,LIB,Donald G Rainwater II,79,8,0,3,90,
-Ripley,Franklin 3,Attorney General,,REP,Todd Rokita,285,78,0,41,404,
-Ripley,Franklin 3,Attorney General,,DEM,Jonathan Weinzapfel,50,22,0,39,111,
-Ripley,Franklin 3,U.S. House,6,REP,Greg Pence,280,81,0,41,402,
-Ripley,Franklin 3,U.S. House,6,DEM,Jeannine Lee Lake,45,17,0,42,104,
-Ripley,Franklin 3,U.S. House,6,LIB,Tom Ferkinhoff,12,2,0,4,18,
-Ripley,Franklin 3,U.S. House,6,,Write-In,0,0,0,0,0,
-Ripley,Franklin 3,State Representative,67,REP,Randy Frye,310,87,0,61,458,
-Ripley,Jackson,Registered Voters,,,,,,,,683,
-Ripley,Jackson,Ballots Cast,,,,423,73,0,41,537,
-Ripley,Jackson,Straight Party,,REP,,133,31,0,10,174,
-Ripley,Jackson,Straight Party,,DEM,,10,6,0,6,22,
-Ripley,Jackson,Straight Party,,LIB,,2,0,0,0,2,
-Ripley,Jackson,President,,REP,Donald J Trump,370,50,0,29,449,
-Ripley,Jackson,President,,DEM,Joseph R Biden,37,19,0,8,64,
-Ripley,Jackson,President,,LIB,Jo Jorgensen,10,0,0,1,11,
-Ripley,Jackson,President,,,Write-In,0,0,0,1,1,
-Ripley,Jackson,Governor,,REP,Eric Holcomb,276,51,0,27,354,
-Ripley,Jackson,Governor,,DEM,Woodrow (Woody) Myers,27,9,0,8,44,
-Ripley,Jackson,Governor,,LIB,Donald G Rainwater II,115,10,0,4,129,
-Ripley,Jackson,Attorney General,,REP,Todd Rokita,366,54,0,30,450,
-Ripley,Jackson,Attorney General,,DEM,Jonathan Weinzapfel,42,17,0,8,67,
-Ripley,Jackson,U.S. House,6,REP,Greg Pence,367,51,0,28,446,
-Ripley,Jackson,U.S. House,6,DEM,Jeannine Lee Lake,35,16,0,8,59,
-Ripley,Jackson,U.S. House,6,LIB,Tom Ferkinhoff,13,3,0,2,18,
-Ripley,Jackson,U.S. House,6,,Write-In,0,0,0,0,0,
-Ripley,Jackson,State Representative,67,REP,Randy Frye,392,62,0,28,482,
-Ripley,Johnson 1,Registered Voters,,,,,,,,926,
-Ripley,Johnson 1,Ballots Cast,,,,275,258,0,67,600,
-Ripley,Johnson 1,Straight Party,,REP,,118,126,0,19,263,
-Ripley,Johnson 1,Straight Party,,DEM,,14,19,0,7,40,
-Ripley,Johnson 1,Straight Party,,LIB,,1,2,0,0,3,
-Ripley,Johnson 1,President,,REP,Donald J Trump,239,202,0,39,480,
-Ripley,Johnson 1,President,,DEM,Joseph R Biden,29,44,0,23,96,
-Ripley,Johnson 1,President,,LIB,Jo Jorgensen,7,5,0,4,16,
-Ripley,Johnson 1,President,,,Write-In,0,0,0,1,1,
-Ripley,Johnson 1,Governor,,REP,Eric Holcomb,177,177,0,44,398,
-Ripley,Johnson 1,Governor,,DEM,Woodrow (Woody) Myers,25,38,0,15,78,
-Ripley,Johnson 1,Governor,,LIB,Donald G Rainwater II,71,38,0,6,115,
-Ripley,Johnson 1,Attorney General,,REP,Todd Rokita,228,203,0,46,477,
-Ripley,Johnson 1,Attorney General,,DEM,Jonathan Weinzapfel,41,48,0,17,106,
-Ripley,Johnson 1,U.S. House,6,REP,Greg Pence,227,199,0,41,467,
-Ripley,Johnson 1,U.S. House,6,DEM,Jeannine Lee Lake,35,44,0,21,100,
-Ripley,Johnson 1,U.S. House,6,LIB,Tom Ferkinhoff,9,9,0,3,21,
-Ripley,Johnson 1,U.S. House,6,,Write-In,0,0,0,0,0,
-Ripley,Johnson 1,State Representative,67,REP,Randy Frye,243,219,0,50,512,
-Ripley,Johnson 2,Registered Voters,,,,,,,,870,
-Ripley,Johnson 2,Ballots Cast,,,,226,253,0,57,536,
-Ripley,Johnson 2,Straight Party,,REP,,92,108,0,13,213,
-Ripley,Johnson 2,Straight Party,,DEM,,10,14,0,11,35,
-Ripley,Johnson 2,Straight Party,,LIB,,2,1,0,0,3,
-Ripley,Johnson 2,President,,REP,Donald J Trump,197,206,0,28,431,
-Ripley,Johnson 2,President,,DEM,Joseph R Biden,25,38,0,29,92,
-Ripley,Johnson 2,President,,LIB,Jo Jorgensen,3,4,0,0,7,
-Ripley,Johnson 2,President,,,Write-In,0,0,0,0,0,
-Ripley,Johnson 2,Governor,,REP,Eric Holcomb,150,177,0,28,355,
-Ripley,Johnson 2,Governor,,DEM,Woodrow (Woody) Myers,22,30,0,25,77,
-Ripley,Johnson 2,Governor,,LIB,Donald G Rainwater II,52,40,0,3,95,
-Ripley,Johnson 2,Attorney General,,REP,Todd Rokita,190,204,0,29,423,
-Ripley,Johnson 2,Attorney General,,DEM,Jonathan Weinzapfel,30,41,0,26,97,
-Ripley,Johnson 2,U.S. House,6,REP,Greg Pence,188,205,0,31,424,
-Ripley,Johnson 2,U.S. House,6,DEM,Jeannine Lee Lake,30,37,0,24,91,
-Ripley,Johnson 2,U.S. House,6,LIB,Tom Ferkinhoff,3,5,0,0,8,
-Ripley,Johnson 2,U.S. House,6,,Write-In,0,1,0,0,1,
-Ripley,Johnson 2,State Representative,67,REP,Randy Frye,201,224,0,34,459,
-Ripley,Johnson 3,Registered Voters,,,,,,,,937,
-Ripley,Johnson 3,Ballots Cast,,,,289,286,0,94,669,
-Ripley,Johnson 3,Straight Party,,REP,,136,116,0,29,281,
-Ripley,Johnson 3,Straight Party,,DEM,,10,27,0,21,58,
-Ripley,Johnson 3,Straight Party,,LIB,,0,1,0,0,1,
-Ripley,Johnson 3,President,,REP,Donald J Trump,243,216,0,49,508,
-Ripley,Johnson 3,President,,DEM,Joseph R Biden,36,64,0,43,143,
-Ripley,Johnson 3,President,,LIB,Jo Jorgensen,7,4,0,1,12,
-Ripley,Johnson 3,President,,,Write-In,0,0,0,0,0,
-Ripley,Johnson 3,Governor,,REP,Eric Holcomb,213,191,0,53,457,
-Ripley,Johnson 3,Governor,,DEM,Woodrow (Woody) Myers,28,54,0,37,119,
-Ripley,Johnson 3,Governor,,LIB,Donald G Rainwater II,44,36,0,1,81,
-Ripley,Johnson 3,Attorney General,,REP,Todd Rokita,238,214,0,48,50,
-Ripley,Johnson 3,Attorney General,,DEM,Jonathan Weinzapfel,37,63,0,40,140,
-Ripley,Johnson 3,U.S. House,6,REP,Greg Pence,244,212,0,47,503,
-Ripley,Johnson 3,U.S. House,6,DEM,Jeannine Lee Lake,34,63,0,41,138,
-Ripley,Johnson 3,U.S. House,6,LIB,Tom Ferkinhoff,5,4,0,1,10,
-Ripley,Johnson 3,U.S. House,6,,Write-In,0,0,0,0,0,
-Ripley,Johnson 3,State Representative,67,REP,Randy Frye,254,236,0,63,553,
-Ripley,Laughery 1,Registered Voters,,,,,,,,998,
-Ripley,Laughery 1,Ballots Cast,,,,274,172,0,111,557,
-Ripley,Laughery 1,Straight Party,,REP,,71,65,0,23,159,
-Ripley,Laughery 1,Straight Party,,DEM,,7,11,0,10,28,
-Ripley,Laughery 1,Straight Party,,LIB,,3,0,0,2,5,
-Ripley,Laughery 1,President,,REP,Donald J Trump,240,131,0,65,436,
-Ripley,Laughery 1,President,,DEM,Joseph R Biden,28,36,0,43,107,
-Ripley,Laughery 1,President,,LIB,Jo Jorgensen,4,2,0,2,8,
-Ripley,Laughery 1,President,,,Write-In,0,0,0,0,0,
-Ripley,Laughery 1,Governor,,REP,Eric Holcomb,188,115,0,78,381,
-Ripley,Laughery 1,Governor,,DEM,Woodrow (Woody) Myers,19,26,0,26,71,
-Ripley,Laughery 1,Governor,,LIB,Donald G Rainwater II,66,27,0,5,98,
-Ripley,Laughery 1,Attorney General,,REP,Todd Rokita,235,131,0,66,432,
-Ripley,Laughery 1,Attorney General,,DEM,Jonathan Weinzapfel,29,34,0,42,105,
-Ripley,Laughery 1,U.S. House,6,REP,Greg Pence,225,128,0,67,420,
-Ripley,Laughery 1,U.S. House,6,DEM,Jeannine Lee Lake,23,32,0,38,93,
-Ripley,Laughery 1,U.S. House,6,LIB,Tom Ferkinhoff,24,7,0,4,35,
-Ripley,Laughery 1,U.S. House,6,,Write-In,0,0,0,0,0,
-Ripley,Laughery 1,State Senate,42,REP,Jean Leising,246,150,0,86,482,
-Ripley,Laughery 1,State Representative,55,REP,Cindy Meyer Ziemke,250,144,0,85,479,
-Ripley,Laughery 1-1,Registered Voters,,,,,,,,1234,
-Ripley,Laughery 1-1,Ballots Cast,,,,537,138,0,116,791,
-Ripley,Laughery 1-1,Straight Party,,REP,,180,33,0,26,239,
-Ripley,Laughery 1-1,Straight Party,,DEM,,43,28,0,23,94,
-Ripley,Laughery 1-1,Straight Party,,LIB,,2,0,0,1,3,
-Ripley,Laughery 1-1,President,,REP,Donald J Trump,384,72,0,50,506,
-Ripley,Laughery 1-1,President,,DEM,Joseph R Biden,131,59,0,65,255,
-Ripley,Laughery 1-1,President,,LIB,Jo Jorgensen,17,1,0,0,18,
-Ripley,Laughery 1-1,President,,,Write-In,2,2,0,0,4,
-Ripley,Laughery 1-1,Governor,,REP,Eric Holcomb,323,74,0,56,453,
-Ripley,Laughery 1-1,Governor,,DEM,Woodrow (Woody) Myers,92,41,0,54,187,
-Ripley,Laughery 1-1,Governor,,LIB,Donald G Rainwater II,113,17,0,3,133,
-Ripley,Laughery 1-1,Attorney General,,REP,Todd Rokita,383,74,0,48,505,
-Ripley,Laughery 1-1,Attorney General,,DEM,Jonathan Weinzapfel,137,56,0,61,254,
-Ripley,Laughery 1-1,U.S. House,6,REP,Greg Pence,367,71,0,47,485,
-Ripley,Laughery 1-1,U.S. House,6,DEM,Jeannine Lee Lake,113,53,0,62,228,
-Ripley,Laughery 1-1,U.S. House,6,LIB,Tom Ferkinhoff,46,7,0,4,57,
-Ripley,Laughery 1-1,U.S. House,6,,Write-In,0,0,0,0,0,
-Ripley,Laughery 1-1,State Senate,42,REP,Jean Leising,450,103,0,85,638,
-Ripley,Laughery 1-1,State Representative,55,REP,Cindy Meyer Ziemke,440,100,0,81,621,
-Ripley,Laughery 2-1,Registered Voters,,,,,,,,642,
-Ripley,Laughery 2-1,Ballots Cast,,,,324,80,0,42,446,
-Ripley,Laughery 2-1,Straight Party,,REP,,83,25,0,13,121,
-Ripley,Laughery 2-1,Straight Party,,DEM,,25,8,0,4,37,
-Ripley,Laughery 2-1,Straight Party,,LIB,,5,1,0,0,6,
-Ripley,Laughery 2-1,President,,REP,Donald J Trump,227,46,0,29,302,
-Ripley,Laughery 2-1,President,,DEM,Joseph R Biden,89,29,0,13,131,
-Ripley,Laughery 2-1,President,,LIB,Jo Jorgensen,5,3,0,0,8,
-Ripley,Laughery 2-1,President,,,Write-In,1,0,0,0,1,
-Ripley,Laughery 2-1,Governor,,REP,Eric Holcomb,203,51,0,34,288,
-Ripley,Laughery 2-1,Governor,,DEM,Woodrow (Woody) Myers,57,21,0,8,86,
-Ripley,Laughery 2-1,Governor,,LIB,Donald G Rainwater II,61,6,0,0,67,
-Ripley,Laughery 2-1,Attorney General,,REP,Todd Rokita,221,50,0,30,301,
-Ripley,Laughery 2-1,Attorney General,,DEM,Jonathan Weinzapfel,91,28,0,10,129,
-Ripley,Laughery 2-1,U.S. House,6,REP,Greg Pence,217,44,0,28,289,
-Ripley,Laughery 2-1,U.S. House,6,DEM,Jeannine Lee Lake,79,28,0,13,120,
-Ripley,Laughery 2-1,U.S. House,6,LIB,Tom Ferkinhoff,23,6,0,1,30,
-Ripley,Laughery 2-1,U.S. House,6,,Write-In,0,0,0,0,0,
-Ripley,Laughery 2-1,State Senate,42,REP,Jean Leising,276,62,0,37,375,
-Ripley,Laughery 2-1,State Representative,55,REP,Cindy Meyer Ziemke,273,64,0,37,374,
-Ripley,Laughery 3-1,Registered Voters,,,,,,,,879,
-Ripley,Laughery 3-1,Ballots Cast,,,,581,101,0,103,785,
-Ripley,Laughery 3-1,Straight Party,,REP,,190,23,0,19,232,
-Ripley,Laughery 3-1,Straight Party,,DEM,,43,20,0,16,79,
-Ripley,Laughery 3-1,Straight Party,,LIB,,7,0,0,1,8,
-Ripley,Laughery 3-1,President,,REP,Donald J Trump,450,40,0,53,543,
-Ripley,Laughery 3-1,President,,DEM,Joseph R Biden,114,55,0,49,218,
-Ripley,Laughery 3-1,President,,LIB,Jo Jorgensen,15,3,0,1,19,
-Ripley,Laughery 3-1,President,,,Write-In,0,1,0,0,1,
-Ripley,Laughery 3-1,Governor,,REP,Eric Holcomb,381,49,0,49,476,
-Ripley,Laughery 3-1,Governor,,DEM,Woodrow (Woody) Myers,86,41,0,40,167,
-Ripley,Laughery 3-1,Governor,,LIB,Donald G Rainwater II,105,10,0,11,126,
-Ripley,Laughery 3-1,Attorney General,,REP,Todd Rokita,446,48,0,55,549,
-Ripley,Laughery 3-1,Attorney General,,DEM,Jonathan Weinzapfel,110,50,0,42,202,
-Ripley,Laughery 3-1,U.S. House,6,REP,Greg Pence,430,41,0,50,521,
-Ripley,Laughery 3-1,U.S. House,6,DEM,Jeannine Lee Lake,103,50,0,42,195,
-Ripley,Laughery 3-1,U.S. House,6,LIB,Tom Ferkinhoff,34,8,0,8,50,
-Ripley,Laughery 3-1,U.S. House,6,,Write-In,0,0,0,0,0,
-Ripley,Laughery 3-1,State Senate,42,REP,Jean Leising,497,71,0,67,635,
-Ripley,Laughery 3-1,State Representative,55,REP,Cindy Meyer Ziemke,486,66,0,66,618,
-Ripley,Otter Creek 1,Registered Voters,,,,,,,,499,
-Ripley,Otter Creek 1,Ballots Cast,,,,193,86,0,24,303,
-Ripley,Otter Creek 1,Straight Party,,REP,,65,40,0,4,109,
-Ripley,Otter Creek 1,Straight Party,,DEM,,5,5,0,9,19,
-Ripley,Otter Creek 1,Straight Party,,LIB,,1,0,0,0,1,
-Ripley,Otter Creek 1,President,,REP,Donald J Trump,169,72,0,12,253,
-Ripley,Otter Creek 1,President,,DEM,Joseph R Biden,18,11,0,12,41,
-Ripley,Otter Creek 1,President,,LIB,Jo Jorgensen,4,0,0,0,4,
-Ripley,Otter Creek 1,President,,,Write-In,0,0,0,0,0,
-Ripley,Otter Creek 1,Governor,,REP,Eric Holcomb,121,59,0,10,190,
-Ripley,Otter Creek 1,Governor,,DEM,Woodrow (Woody) Myers,13,11,0,12,36,
-Ripley,Otter Creek 1,Governor,,LIB,Donald G Rainwater II,54,12,0,2,68,
-Ripley,Otter Creek 1,Attorney General,,REP,Todd Rokita,160,71,0,12,243,
-Ripley,Otter Creek 1,Attorney General,,DEM,Jonathan Weinzapfel,24,11,0,11,46,
-Ripley,Otter Creek 1,U.S. House,6,REP,Greg Pence,169,70,0,14,253,
-Ripley,Otter Creek 1,U.S. House,6,DEM,Jeannine Lee Lake,18,12,0,9,39,
-Ripley,Otter Creek 1,U.S. House,6,LIB,Tom Ferkinhoff,4,2,0,0,6,
-Ripley,Otter Creek 1,U.S. House,6,,Write-In,0,0,0,0,0,
-Ripley,Otter Creek 1,State Representative,67,REP,Randy Frye,166,76,0,13,255,
-Ripley,Otter Creek 2,Registered Voters,,,,,,,,489,
-Ripley,Otter Creek 2,Ballots Cast,,,,221,85,0,29,335,
-Ripley,Otter Creek 2,Straight Party,,REP,,79,33,0,9,121,
-Ripley,Otter Creek 2,Straight Party,,DEM,,10,6,0,4,20,
-Ripley,Otter Creek 2,Straight Party,,LIB,,1,0,0,0,1,
-Ripley,Otter Creek 2,President,,REP,Donald J Trump,193,66,0,15,274,
-Ripley,Otter Creek 2,President,,DEM,Joseph R Biden,25,17,0,12,54,
-Ripley,Otter Creek 2,President,,LIB,Jo Jorgensen,2,0,0,1,3,
-Ripley,Otter Creek 2,President,,,Write-In,0,0,0,0,0,
-Ripley,Otter Creek 2,Governor,,REP,Eric Holcomb,139,55,0,19,213,
-Ripley,Otter Creek 2,Governor,,DEM,Woodrow (Woody) Myers,26,12,0,10,48,
-Ripley,Otter Creek 2,Governor,,LIB,Donald G Rainwater II,53,17,0,0,70,
-Ripley,Otter Creek 2,Attorney General,,REP,Todd Rokita,182,64,0,16,262,
-Ripley,Otter Creek 2,Attorney General,,DEM,Jonathan Weinzapfel,35,17,0,12,64,
-Ripley,Otter Creek 2,U.S. House,6,REP,Greg Pence,188,65,0,16,269,
-Ripley,Otter Creek 2,U.S. House,6,DEM,Jeannine Lee Lake,28,15,0,10,53,
-Ripley,Otter Creek 2,U.S. House,6,LIB,Tom Ferkinhoff,2,2,0,3,7,
-Ripley,Otter Creek 2,U.S. House,6,,Write-In,0,0,0,0,0,
-Ripley,Otter Creek 2,State Representative,67,REP,Randy Frye,200,72,0,21,293,
-Ripley,Shelby,Registered Voters,,,,,,,,659,
-Ripley,Shelby,Ballots Cast,,,,257,112,0,51,420,
-Ripley,Shelby,Straight Party,,REP,,117,42,0,13,172,
-Ripley,Shelby,Straight Party,,DEM,,6,12,0,12,30,
-Ripley,Shelby,Straight Party,,LIB,,2,1,0,0,3,
-Ripley,Shelby,President,,REP,Donald J Trump,224,83,0,27,334,
-Ripley,Shelby,President,,DEM,Joseph R Biden,22,24,0,20,66,
-Ripley,Shelby,President,,LIB,Jo Jorgensen,7,2,0,1,10,
-Ripley,Shelby,President,,,Write-In,0,1,0,0,1,
-Ripley,Shelby,Governor,,REP,Eric Holcomb,176,71,0,31,278,
-Ripley,Shelby,Governor,,DEM,Woodrow (Woody) Myers,23,25,0,16,64,
-Ripley,Shelby,Governor,,LIB,Donald G Rainwater II,55,14,0,3,72,
-Ripley,Shelby,Attorney General,,REP,Todd Rokita,215,81,0,28,324,
-Ripley,Shelby,Attorney General,,DEM,Jonathan Weinzapfel,34,27,0,20,81,
-Ripley,Shelby,U.S. House,6,REP,Greg Pence,218,82,0,29,329,
-Ripley,Shelby,U.S. House,6,DEM,Jeannine Lee Lake,28,26,0,21,75,
-Ripley,Shelby,U.S. House,6,LIB,Tom Ferkinhoff,8,2,0,1,11,
-Ripley,Shelby,U.S. House,6,,Write-In,0,0,0,0,0,
-Ripley,Shelby,State Representative,67,REP,Randy Frye,237,96,0,36,369,
-Ripley,Washington 1,Registered Voters,,,,,,,,735,
-Ripley,Washington 1,Ballots Cast,,,,371,106,0,32,509,
-Ripley,Washington 1,Straight Party,,REP,,162,57,0,12,231,
-Ripley,Washington 1,Straight Party,,DEM,,13,10,0,3,26,
-Ripley,Washington 1,Straight Party,,LIB,,5,0,0,0,5,
-Ripley,Washington 1,President,,REP,Donald J Trump,322,91,0,25,438,
-Ripley,Washington 1,President,,DEM,Joseph R Biden,43,15,0,7,65,
-Ripley,Washington 1,President,,LIB,Jo Jorgensen,6,0,0,0,6,
-Ripley,Washington 1,President,,,Write-In,0,0,0,0,0,
-Ripley,Washington 1,Governor,,REP,Eric Holcomb,275,74,0,23,372,
-Ripley,Washington 1,Governor,,DEM,Woodrow (Woody) Myers,31,15,0,7,53,
-Ripley,Washington 1,Governor,,LIB,Donald G Rainwater II,63,14,0,2,79,
-Ripley,Washington 1,Attorney General,,REP,Todd Rokita,316,87,0,26,429,
-Ripley,Washington 1,Attorney General,,DEM,Jonathan Weinzapfel,49,16,0,6,71,
-Ripley,Washington 1,U.S. House,6,REP,Greg Pence,317,88,0,24,429,
-Ripley,Washington 1,U.S. House,6,DEM,Jeannine Lee Lake,42,16,0,8,66,
-Ripley,Washington 1,U.S. House,6,LIB,Tom Ferkinhoff,10,1,0,0,11,
-Ripley,Washington 1,U.S. House,6,,Write-In,0,0,0,0,0,
-Ripley,Washington 1,State Representative,67,REP,Randy Frye,336,92,0,26,454,
-Ripley,Washington 2,Registered Voters,,,,,,,,1066,
-Ripley,Washington 2,Ballots Cast,,,,462,238,0,83,783,
-Ripley,Washington 2,Straight Party,,REP,,194,110,0,21,325,
-Ripley,Washington 2,Straight Party,,DEM,,24,16,0,22,62,
-Ripley,Washington 2,Straight Party,,LIB,,5,4,0,0,9,
-Ripley,Washington 2,President,,REP,Donald J Trump,386,175,0,44,605,
-Ripley,Washington 2,President,,DEM,Joseph R Biden,60,54,0,37,151,
-Ripley,Washington 2,President,,LIB,Jo Jorgensen,10,3,0,1,14,
-Ripley,Washington 2,President,,,Write-In,2,0,0,1,3,
-Ripley,Washington 2,Governor,,REP,Eric Holcomb,318,150,0,45,513,
-Ripley,Washington 2,Governor,,DEM,Woodrow (Woody) Myers,52,42,0,34,128,
-Ripley,Washington 2,Governor,,LIB,Donald G Rainwater II,83,38,0,4,125,
-Ripley,Washington 2,Attorney General,,REP,Todd Rokita,373,177,0,44,594,
-Ripley,Washington 2,Attorney General,,DEM,Jonathan Weinzapfel,71,52,0,37,160,
-Ripley,Washington 2,U.S. House,6,REP,Greg Pence,376,173,0,44,593,
-Ripley,Washington 2,U.S. House,6,DEM,Jeannine Lee Lake,63,53,0,35,151,
-Ripley,Washington 2,U.S. House,6,LIB,Tom Ferkinhoff,13,6,0,3,22,
-Ripley,Washington 2,U.S. House,6,,Write-In,0,0,0,0,0,
-Ripley,Washington 2,State Representative,67,REP,Randy Frye,406,205,0,56,667,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,,,,,,,
+county,precinct,office,district,party,candidate,election_day,early_voting,post_election,absentee,votes
+Ripley,Adams 1,Registered Voters,,,,,,,,1198
+Ripley,Adams 1,Ballots Cast,,,,581,184,0,89,854
+Ripley,Adams 1,Straight Party,,REP,,198,78,0,25,301
+Ripley,Adams 1,Straight Party,,DEM,,29,20,0,15,64
+Ripley,Adams 1,Straight Party,,LIB,,3,0,0,0,3
+Ripley,Adams 1,President,,REP,Donald J Trump,489,131,0,52,672
+Ripley,Adams 1,President,,DEM,Joseph R Biden,80,49,0,33,162
+Ripley,Adams 1,President,,LIB,Jo Jorgensen,9,2,0,3,14
+Ripley,Adams 1,President,,,Write-In,1,1,0,0,2
+Ripley,Adams 1,Governor,,REP,Eric Holcomb,411,125,0,61,597
+Ripley,Adams 1,Governor,,DEM,Woodrow (Woody) Myers,60,40,0,24,124
+Ripley,Adams 1,Governor,,LIB,Donald G Rainwater II,107,15,0,2,124
+Ripley,Adams 1,Attorney General,,REP,Todd Rokita,469,129,0,55,653
+Ripley,Adams 1,Attorney General,,DEM,Jonathan Weinzapfel,84,49,0,30,163
+Ripley,Adams 1,U.S. House,6,REP,Greg Pence,465,129,0,55,649
+Ripley,Adams 1,U.S. House,6,DEM,Jeannine Lee Lake,84,49,0,27,160
+Ripley,Adams 1,U.S. House,6,LIB,Tom Ferkinhoff,25,4,0,2,31
+Ripley,Adams 1,U.S. House,6,,Write-In,1,0,0,0,1
+Ripley,Adams 1,State Senate,42,REP,Jean Leising,525,146,0,67,738
+Ripley,Adams 1,State Representative,55,REP,Cindy Meyer Ziemke,511,148,0,67,726
+Ripley,Adams 2,Registered Voters,,,,,,,,1509
+Ripley,Adams 2,Ballots Cast,,,,708,178,0,123,1009
+Ripley,Adams 2,Straight Party,,REP,,290,83,0,40,413
+Ripley,Adams 2,Straight Party,,DEM,,16,14,0,20,50
+Ripley,Adams 2,Straight Party,,LIB,,6,0,0,0,6
+Ripley,Adams 2,President,,REP,Donald J Trump,636,139,0,76,851
+Ripley,Adams 2,President,,DEM,Joseph R Biden,54,29,0,45,128
+Ripley,Adams 2,President,,LIB,Jo Jorgensen,11,3,0,2,16
+Ripley,Adams 2,President,,,Write-In,3,0,0,0,3
+Ripley,Adams 2,Governor,,REP,Eric Holcomb,511,131,0,77,719
+Ripley,Adams 2,Governor,,DEM,Woodrow (Woody) Myers,49,23,0,40,112
+Ripley,Adams 2,Governor,,LIB,Donald G Rainwater II,142,14,0,4,160
+Ripley,Adams 2,Attorney General,,REP,Todd Rokita,622,133,0,74,829
+Ripley,Adams 2,Attorney General,,DEM,Jonathan Weinzapfel,67,33,0,45,145
+Ripley,Adams 2,U.S. House,6,REP,Greg Pence,617,132,0,76,825
+Ripley,Adams 2,U.S. House,6,DEM,Jeannine Lee Lake,57,32,0,41,130
+Ripley,Adams 2,U.S. House,6,LIB,Tom Ferkinhoff,27,5,0,4,36
+Ripley,Adams 2,U.S. House,6,,Write-In,0,0,0,0,0
+Ripley,Adams 2,State Senate,42,REP,Jean Leising,647,147,0,90,884
+Ripley,Adams 2,State Representative,55,REP,Cindy Meyer Ziemke,634,144,0,85,863
+Ripley,Adams 3,Registered Voters,,,,,,,,1065
+Ripley,Adams 3,Ballots Cast,,,,383,175,0,156,714
+Ripley,Adams 3,Straight Party,,REP,,128,64,0,35,227
+Ripley,Adams 3,Straight Party,,DEM,,24,25,0,27,76
+Ripley,Adams 3,Straight Party,,LIB,,0,0,0,1,1
+Ripley,Adams 3,President,,REP,Donald J Trump,301,99,0,73,473
+Ripley,Adams 3,President,,DEM,Joseph R Biden,72,72,0,76,220
+Ripley,Adams 3,President,,LIB,Jo Jorgensen,3,2,0,3,8
+Ripley,Adams 3,President,,,Write-In,2,0,0,0,2
+Ripley,Adams 3,Governor,,REP,Eric Holcomb,285,113,0,88,486
+Ripley,Adams 3,Governor,,DEM,Woodrow (Woody) Myers,51,51,0,60,162
+Ripley,Adams 3,Governor,,LIB,Donald G Rainwater II,42,10,0,3,55
+Ripley,Adams 3,Attorney General,,REP,Todd Rokita,304,114,0,78,496
+Ripley,Adams 3,Attorney General,,DEM,Jonathan Weinzapfel,71,56,0,70,197
+Ripley,Adams 3,U.S. House,6,REP,Greg Pence,301,111,0,76,488
+Ripley,Adams 3,U.S. House,6,DEM,Jeannine Lee Lake,61,59,0,72,192
+Ripley,Adams 3,U.S. House,6,LIB,Tom Ferkinhoff,14,2,0,4,20
+Ripley,Adams 3,U.S. House,6,,Write-In,0,0,0,0,0
+Ripley,Adams 3,State Senate,42,REP,Jean Leising,332,136,0,106,574
+Ripley,Adams 3,State Representative,55,REP,Cindy Meyer Ziemke,334,136,0,112,582
+Ripley,Brown 1,Registered Voters,,,,,,,,601
+Ripley,Brown 1,Ballots Cast,,,,246,154,0,38,438
+Ripley,Brown 1,Straight Party,,REP,,99,80,0,4,183
+Ripley,Brown 1,Straight Party,,DEM,,6,11,0,5,22
+Ripley,Brown 1,Straight Party,,LIB,,1,1,0,0,2
+Ripley,Brown 1,President,,REP,Donald J Trump,224,126,0,18,368
+Ripley,Brown 1,President,,DEM,Joseph R Biden,18,22,0,18,58
+Ripley,Brown 1,President,,LIB,Jo Jorgensen,3,0,0,0,3
+Ripley,Brown 1,President,,,Write-In,0,0,0,1,1
+Ripley,Brown 1,Governor,,REP,Eric Holcomb,167,107,0,23,297
+Ripley,Brown 1,Governor,,DEM,Woodrow (Woody) Myers,18,20,0,14,52
+Ripley,Brown 1,Governor,,LIB,Donald G Rainwater II,58,24,0,1,83
+Ripley,Brown 1,Attorney General,,REP,Todd Rokita,216,126,0,20,362
+Ripley,Brown 1,Attorney General,,DEM,Jonathan Weinzapfel,24,22,0,17,63
+Ripley,Brown 1,U.S. House,6,REP,Greg Pence,218,125,0,21,364
+Ripley,Brown 1,U.S. House,6,DEM,Jeannine Lee Lake,22,22,0,17,61
+Ripley,Brown 1,U.S. House,6,LIB,Tom Ferkinhoff,6,2,0,0,8
+Ripley,Brown 1,U.S. House,6,,Write-In,0,0,0,0,0
+Ripley,Brown 1,State Representative,67,REP,Randy Frye,227,133,0,25,385
+Ripley,Brown 2,Registered Voters,,,,,,,,636
+Ripley,Brown 2,Ballots Cast,,,,276,169,0,44,489
+Ripley,Brown 2,Straight Party,,REP,,109,69,0,7,185
+Ripley,Brown 2,Straight Party,,DEM,,11,23,0,11,45
+Ripley,Brown 2,Straight Party,,LIB,,1,0,0,0,1
+Ripley,Brown 2,President,,REP,Donald J Trump,248,125,0,21,394
+Ripley,Brown 2,President,,DEM,Joseph R Biden,25,41,0,22,88
+Ripley,Brown 2,President,,LIB,Jo Jorgensen,2,1,0,0,3
+Ripley,Brown 2,President,,,Write-In,0,0,0,0,0
+Ripley,Brown 2,Governor,,REP,Eric Holcomb,201,115,0,21,337
+Ripley,Brown 2,Governor,,DEM,Woodrow (Woody) Myers,20,37,0,21,78
+Ripley,Brown 2,Governor,,LIB,Donald G Rainwater II,53,12,0,2,67
+Ripley,Brown 2,Attorney General,,REP,Todd Rokita,240,119,0,21,380
+Ripley,Brown 2,Attorney General,,DEM,Jonathan Weinzapfel,28,40,0,23,91
+Ripley,Brown 2,U.S. House,6,REP,Greg Pence,242,119,0,21,382
+Ripley,Brown 2,U.S. House,6,DEM,Jeannine Lee Lake,27,43,0,20,90
+Ripley,Brown 2,U.S. House,6,LIB,Tom Ferkinhoff,5,2,0,2,9
+Ripley,Brown 2,U.S. House,6,,Write-In,0,0,0,0,0
+Ripley,Brown 2,State Representative,67,REP,Randy Frye,250,138,0,29,417
+Ripley,Center 1,Registered Voters,,,,,,,,414
+Ripley,Center 1,Ballots Cast,,,,185,69,0,21,275
+Ripley,Center 1,Straight Party,,REP,,66,20,0,3,89
+Ripley,Center 1,Straight Party,,DEM,,8,10,0,4,22
+Ripley,Center 1,Straight Party,,LIB,,3,1,0,0,4
+Ripley,Center 1,President,,REP,Donald J Trump,160,49,0,11,220
+Ripley,Center 1,President,,DEM,Joseph R Biden,16,16,0,7,39
+Ripley,Center 1,President,,LIB,Jo Jorgensen,4,2,0,3,9
+Ripley,Center 1,President,,,Write-In,0,0,0,0,0
+Ripley,Center 1,Governor,,REP,Eric Holcomb,102,33,0,12,147
+Ripley,Center 1,Governor,,DEM,Woodrow (Woody) Myers,17,15,0,7,39
+Ripley,Center 1,Governor,,LIB,Donald G Rainwater II,60,19,0,1,80
+Ripley,Center 1,Attorney General,,REP,Todd Rokita,148,47,0,12,207
+Ripley,Center 1,Attorney General,,DEM,Jonathan Weinzapfel,25,16,0,7,48
+Ripley,Center 1,U.S. House,6,REP,Greg Pence,149,48,0,10,207
+Ripley,Center 1,U.S. House,6,DEM,Jeannine Lee Lake,19,16,0,9,44
+Ripley,Center 1,U.S. House,6,LIB,Tom Ferkinhoff,11,1,0,2,14
+Ripley,Center 1,U.S. House,6,,Write-In,0,0,0,0,0
+Ripley,Center 1,State Representative,67,REP,Randy Frye,158,51,0,15,224
+Ripley,Center 2,Registered Voters,,,,,,,,665
+Ripley,Center 2,Ballots Cast,,,,261,115,0,59,435
+Ripley,Center 2,Straight Party,,REP,,81,45,0,22,148
+Ripley,Center 2,Straight Party,,DEM,,16,12,0,8,36
+Ripley,Center 2,Straight Party,,LIB,,0,0,0,1,1
+Ripley,Center 2,President,,REP,Donald J Trump,216,87,0,45,348
+Ripley,Center 2,President,,DEM,Joseph R Biden,41,24,0,13,78
+Ripley,Center 2,President,,LIB,Jo Jorgensen,2,0,0,1,3
+Ripley,Center 2,President,,,Write-In,1,0,0,0,1
+Ripley,Center 2,Governor,,REP,Eric Holcomb,139,71,0,43,253
+Ripley,Center 2,Governor,,DEM,Woodrow (Woody) Myers,43,18,0,12,73
+Ripley,Center 2,Governor,,LIB,Donald G Rainwater II,77,23,0,3,103
+Ripley,Center 2,Attorney General,,REP,Todd Rokita,206,81,0,42,329
+Ripley,Center 2,Attorney General,,DEM,Jonathan Weinzapfel,45,25,0,13,83
+Ripley,Center 2,U.S. House,6,REP,Greg Pence,205,88,0,43,336
+Ripley,Center 2,U.S. House,6,DEM,Jeannine Lee Lake,44,22,0,13,79
+Ripley,Center 2,U.S. House,6,LIB,Tom Ferkinhoff,9,0,0,1,10
+Ripley,Center 2,U.S. House,6,,Write-In,0,0,0,0,0
+Ripley,Center 2,State Representative,67,REP,Randy Frye,220,93,0,47,360
+Ripley,Center 3,Registered Voters,,,,,,,,637
+Ripley,Center 3,Ballots Cast,,,,277,120,0,37,434
+Ripley,Center 3,Straight Party,,REP,,104,46,0,10,160
+Ripley,Center 3,Straight Party,,DEM,,8,15,0,4,27
+Ripley,Center 3,Straight Party,,LIB,,0,0,0,0,0
+Ripley,Center 3,President,,REP,Donald J Trump,239,86,0,24,349
+Ripley,Center 3,President,,DEM,Joseph R Biden,33,33,0,12,78
+Ripley,Center 3,President,,LIB,Jo Jorgensen,3,1,0,0,4
+Ripley,Center 3,President,,,Write-In,1,0,0,0,1
+Ripley,Center 3,Governor,,REP,Eric Holcomb,176,73,0,27,276
+Ripley,Center 3,Governor,,DEM,Woodrow (Woody) Myers,24,27,0,9,60
+Ripley,Center 3,Governor,,LIB,Donald G Rainwater II,74,19,0,1,94
+Ripley,Center 3,Attorney General,,REP,Todd Rokita,235,83,0,24,342
+Ripley,Center 3,Attorney General,,DEM,Jonathan Weinzapfel,34,35,0,11,80
+Ripley,Center 3,U.S. House,6,REP,Greg Pence,229,85,0,24,338
+Ripley,Center 3,U.S. House,6,DEM,Jeannine Lee Lake,37,30,0,10,77
+Ripley,Center 3,U.S. House,6,LIB,Tom Ferkinhoff,8,3,0,1,12
+Ripley,Center 3,U.S. House,6,,Write-In,0,0,0,0,0
+Ripley,Center 3,State Representative,67,REP,Randy Frye,253,96,0,30,379
+Ripley,Delaware,Registered Voters,,,,,,,,1054
+Ripley,Delaware,Ballots Cast,,,,533,206,0,65,804
+Ripley,Delaware,Straight Party,,REP,,183,72,0,17,272
+Ripley,Delaware,Straight Party,,DEM,,22,24,0,12,58
+Ripley,Delaware,Straight Party,,LIB,,2,0,0,0,2
+Ripley,Delaware,President,,REP,Donald J Trump,457,153,0,38,648
+Ripley,Delaware,President,,DEM,Joseph R Biden,61,50,0,25,136
+Ripley,Delaware,President,,LIB,Jo Jorgensen,9,0,0,0,9
+Ripley,Delaware,President,,,Write-In,1,1,0,0,2
+Ripley,Delaware,Governor,,REP,Eric Holcomb,347,123,0,38,508
+Ripley,Delaware,Governor,,DEM,Woodrow (Woody) Myers,50,44,0,25,119
+Ripley,Delaware,Governor,,LIB,Donald G Rainwater II,123,34,0,1,158
+Ripley,Delaware,Attorney General,,REP,Todd Rokita,445,145,0,37,627
+Ripley,Delaware,Attorney General,,DEM,Jonathan Weinzapfel,60,54,0,27,141
+Ripley,Delaware,U.S. House,6,REP,Greg Pence,438,148,0,38,624
+Ripley,Delaware,U.S. House,6,DEM,Jeannine Lee Lake,58,50,0,25,133
+Ripley,Delaware,U.S. House,6,LIB,Tom Ferkinhoff,19,3,0,0,22
+Ripley,Delaware,U.S. House,6,,Write-In,0,0,0,0,0
+Ripley,Delaware,State Representative,67,REP,Randy Frye,478,164,0,41,683
+Ripley,Franklin 1,Registered Voters,,,,,,,,916
+Ripley,Franklin 1,Ballots Cast,,,,418,109,0,82,609
+Ripley,Franklin 1,Straight Party,,REP,,174,51,0,24,249
+Ripley,Franklin 1,Straight Party,,DEM,,15,14,0,15,44
+Ripley,Franklin 1,Straight Party,,LIB,,2,0,0,1,3
+Ripley,Franklin 1,President,,REP,Donald J Trump,366,77,0,44,487
+Ripley,Franklin 1,President,,DEM,Joseph R Biden,44,30,0,33,107
+Ripley,Franklin 1,President,,LIB,Jo Jorgensen,5,2,0,4,11
+Ripley,Franklin 1,President,,,Write-In,1,0,0,1,2
+Ripley,Franklin 1,Governor,,REP,Eric Holcomb,290,69,0,55,414
+Ripley,Franklin 1,Governor,,DEM,Woodrow (Woody) Myers,38,25,0,26,89
+Ripley,Franklin 1,Governor,,LIB,Donald G Rainwater II,89,15,0,1,105
+Ripley,Franklin 1,Attorney General,,REP,Todd Rokita,358,81,0,47,486
+Ripley,Franklin 1,Attorney General,,DEM,Jonathan Weinzapfel,48,28,0,34,110
+Ripley,Franklin 1,U.S. House,6,REP,Greg Pence,359,79,0,46,48
+Ripley,Franklin 1,U.S. House,6,DEM,Jeannine Lee Lake,44,27,0,33,104
+Ripley,Franklin 1,U.S. House,6,LIB,Tom Ferkinhoff,11,3,0,3,17
+Ripley,Franklin 1,U.S. House,6,,Write-In,0,0,0,0,0
+Ripley,Franklin 1,State Representative,67,REP,Randy Frye,388,90,0,54,532
+Ripley,Franklin 2,Registered Voters,,,,,,,,818
+Ripley,Franklin 2,Ballots Cast,,,,393,120,0,64,577
+Ripley,Franklin 2,Straight Party,,REP,,192,61,0,20,273
+Ripley,Franklin 2,Straight Party,,DEM,,14,17,0,6,37
+Ripley,Franklin 2,Straight Party,,LIB,,2,0,0,0,2
+Ripley,Franklin 2,President,,REP,Donald J Trump,352,91,0,35,478
+Ripley,Franklin 2,President,,DEM,Joseph R Biden,33,26,0,28,87
+Ripley,Franklin 2,President,,LIB,Jo Jorgensen,5,0,0,0,5
+Ripley,Franklin 2,President,,,Write-In,0,0,0,1,1
+Ripley,Franklin 2,Governor,,REP,Eric Holcomb,283,84,0,39,406
+Ripley,Franklin 2,Governor,,DEM,Woodrow (Woody) Myers,33,20,0,22,75
+Ripley,Franklin 2,Governor,,LIB,Donald G Rainwater II,68,12,0,1,81
+Ripley,Franklin 2,Attorney General,,REP,Todd Rokita,342,90,0,35,467
+Ripley,Franklin 2,Attorney General,,DEM,Jonathan Weinzapfel,28,26,0,23,87
+Ripley,Franklin 2,U.S. House,6,REP,Greg Pence,343,91,0,36,470
+Ripley,Franklin 2,U.S. House,6,DEM,Jeannine Lee Lake,28,24,0,26,78
+Ripley,Franklin 2,U.S. House,6,LIB,Tom Ferkinhoff,13,1,0,0,14
+Ripley,Franklin 2,U.S. House,6,,Write-In,0,0,0,0,0
+Ripley,Franklin 2,State Representative,67,REP,Randy Frye,363,97,0,51,511
+Ripley,Franklin 3,Registered Voters,,,,,,,,910
+Ripley,Franklin 3,Ballots Cast,,,,345,104,0,88,537
+Ripley,Franklin 3,Straight Party,,REP,,148,55,0,27,230
+Ripley,Franklin 3,Straight Party,,DEM,,19,7,0,21,47
+Ripley,Franklin 3,Straight Party,,LIB,,1,0,0,2,3
+Ripley,Franklin 3,President,,REP,Donald J Trump,289,82,0,43,414
+Ripley,Franklin 3,President,,DEM,Joseph R Biden,50,19,0,41,110
+Ripley,Franklin 3,President,,LIB,Jo Jorgensen,3,2,0,3,8
+Ripley,Franklin 3,President,,,Write-In,1,0,0,0,1
+Ripley,Franklin 3,Governor,,REP,Eric Holcomb,226,76,0,45,347
+Ripley,Franklin 3,Governor,,DEM,Woodrow (Woody) Myers,37,17,0,36,90
+Ripley,Franklin 3,Governor,,LIB,Donald G Rainwater II,79,8,0,3,90
+Ripley,Franklin 3,Attorney General,,REP,Todd Rokita,285,78,0,41,404
+Ripley,Franklin 3,Attorney General,,DEM,Jonathan Weinzapfel,50,22,0,39,111
+Ripley,Franklin 3,U.S. House,6,REP,Greg Pence,280,81,0,41,402
+Ripley,Franklin 3,U.S. House,6,DEM,Jeannine Lee Lake,45,17,0,42,104
+Ripley,Franklin 3,U.S. House,6,LIB,Tom Ferkinhoff,12,2,0,4,18
+Ripley,Franklin 3,U.S. House,6,,Write-In,0,0,0,0,0
+Ripley,Franklin 3,State Representative,67,REP,Randy Frye,310,87,0,61,458
+Ripley,Jackson,Registered Voters,,,,,,,,683
+Ripley,Jackson,Ballots Cast,,,,423,73,0,41,537
+Ripley,Jackson,Straight Party,,REP,,133,31,0,10,174
+Ripley,Jackson,Straight Party,,DEM,,10,6,0,6,22
+Ripley,Jackson,Straight Party,,LIB,,2,0,0,0,2
+Ripley,Jackson,President,,REP,Donald J Trump,370,50,0,29,449
+Ripley,Jackson,President,,DEM,Joseph R Biden,37,19,0,8,64
+Ripley,Jackson,President,,LIB,Jo Jorgensen,10,0,0,1,11
+Ripley,Jackson,President,,,Write-In,0,0,0,1,1
+Ripley,Jackson,Governor,,REP,Eric Holcomb,276,51,0,27,354
+Ripley,Jackson,Governor,,DEM,Woodrow (Woody) Myers,27,9,0,8,44
+Ripley,Jackson,Governor,,LIB,Donald G Rainwater II,115,10,0,4,129
+Ripley,Jackson,Attorney General,,REP,Todd Rokita,366,54,0,30,450
+Ripley,Jackson,Attorney General,,DEM,Jonathan Weinzapfel,42,17,0,8,67
+Ripley,Jackson,U.S. House,6,REP,Greg Pence,367,51,0,28,446
+Ripley,Jackson,U.S. House,6,DEM,Jeannine Lee Lake,35,16,0,8,59
+Ripley,Jackson,U.S. House,6,LIB,Tom Ferkinhoff,13,3,0,2,18
+Ripley,Jackson,U.S. House,6,,Write-In,0,0,0,0,0
+Ripley,Jackson,State Representative,67,REP,Randy Frye,392,62,0,28,482
+Ripley,Johnson 1,Registered Voters,,,,,,,,926
+Ripley,Johnson 1,Ballots Cast,,,,275,258,0,67,600
+Ripley,Johnson 1,Straight Party,,REP,,118,126,0,19,263
+Ripley,Johnson 1,Straight Party,,DEM,,14,19,0,7,40
+Ripley,Johnson 1,Straight Party,,LIB,,1,2,0,0,3
+Ripley,Johnson 1,President,,REP,Donald J Trump,239,202,0,39,480
+Ripley,Johnson 1,President,,DEM,Joseph R Biden,29,44,0,23,96
+Ripley,Johnson 1,President,,LIB,Jo Jorgensen,7,5,0,4,16
+Ripley,Johnson 1,President,,,Write-In,0,0,0,1,1
+Ripley,Johnson 1,Governor,,REP,Eric Holcomb,177,177,0,44,398
+Ripley,Johnson 1,Governor,,DEM,Woodrow (Woody) Myers,25,38,0,15,78
+Ripley,Johnson 1,Governor,,LIB,Donald G Rainwater II,71,38,0,6,115
+Ripley,Johnson 1,Attorney General,,REP,Todd Rokita,228,203,0,46,477
+Ripley,Johnson 1,Attorney General,,DEM,Jonathan Weinzapfel,41,48,0,17,106
+Ripley,Johnson 1,U.S. House,6,REP,Greg Pence,227,199,0,41,467
+Ripley,Johnson 1,U.S. House,6,DEM,Jeannine Lee Lake,35,44,0,21,100
+Ripley,Johnson 1,U.S. House,6,LIB,Tom Ferkinhoff,9,9,0,3,21
+Ripley,Johnson 1,U.S. House,6,,Write-In,0,0,0,0,0
+Ripley,Johnson 1,State Representative,67,REP,Randy Frye,243,219,0,50,512
+Ripley,Johnson 2,Registered Voters,,,,,,,,870
+Ripley,Johnson 2,Ballots Cast,,,,226,253,0,57,536
+Ripley,Johnson 2,Straight Party,,REP,,92,108,0,13,213
+Ripley,Johnson 2,Straight Party,,DEM,,10,14,0,11,35
+Ripley,Johnson 2,Straight Party,,LIB,,2,1,0,0,3
+Ripley,Johnson 2,President,,REP,Donald J Trump,197,206,0,28,431
+Ripley,Johnson 2,President,,DEM,Joseph R Biden,25,38,0,29,92
+Ripley,Johnson 2,President,,LIB,Jo Jorgensen,3,4,0,0,7
+Ripley,Johnson 2,President,,,Write-In,0,0,0,0,0
+Ripley,Johnson 2,Governor,,REP,Eric Holcomb,150,177,0,28,355
+Ripley,Johnson 2,Governor,,DEM,Woodrow (Woody) Myers,22,30,0,25,77
+Ripley,Johnson 2,Governor,,LIB,Donald G Rainwater II,52,40,0,3,95
+Ripley,Johnson 2,Attorney General,,REP,Todd Rokita,190,204,0,29,423
+Ripley,Johnson 2,Attorney General,,DEM,Jonathan Weinzapfel,30,41,0,26,97
+Ripley,Johnson 2,U.S. House,6,REP,Greg Pence,188,205,0,31,424
+Ripley,Johnson 2,U.S. House,6,DEM,Jeannine Lee Lake,30,37,0,24,91
+Ripley,Johnson 2,U.S. House,6,LIB,Tom Ferkinhoff,3,5,0,0,8
+Ripley,Johnson 2,U.S. House,6,,Write-In,0,1,0,0,1
+Ripley,Johnson 2,State Representative,67,REP,Randy Frye,201,224,0,34,459
+Ripley,Johnson 3,Registered Voters,,,,,,,,937
+Ripley,Johnson 3,Ballots Cast,,,,289,286,0,94,669
+Ripley,Johnson 3,Straight Party,,REP,,136,116,0,29,281
+Ripley,Johnson 3,Straight Party,,DEM,,10,27,0,21,58
+Ripley,Johnson 3,Straight Party,,LIB,,0,1,0,0,1
+Ripley,Johnson 3,President,,REP,Donald J Trump,243,216,0,49,508
+Ripley,Johnson 3,President,,DEM,Joseph R Biden,36,64,0,43,143
+Ripley,Johnson 3,President,,LIB,Jo Jorgensen,7,4,0,1,12
+Ripley,Johnson 3,President,,,Write-In,0,0,0,0,0
+Ripley,Johnson 3,Governor,,REP,Eric Holcomb,213,191,0,53,457
+Ripley,Johnson 3,Governor,,DEM,Woodrow (Woody) Myers,28,54,0,37,119
+Ripley,Johnson 3,Governor,,LIB,Donald G Rainwater II,44,36,0,1,81
+Ripley,Johnson 3,Attorney General,,REP,Todd Rokita,238,214,0,48,50
+Ripley,Johnson 3,Attorney General,,DEM,Jonathan Weinzapfel,37,63,0,40,140
+Ripley,Johnson 3,U.S. House,6,REP,Greg Pence,244,212,0,47,503
+Ripley,Johnson 3,U.S. House,6,DEM,Jeannine Lee Lake,34,63,0,41,138
+Ripley,Johnson 3,U.S. House,6,LIB,Tom Ferkinhoff,5,4,0,1,10
+Ripley,Johnson 3,U.S. House,6,,Write-In,0,0,0,0,0
+Ripley,Johnson 3,State Representative,67,REP,Randy Frye,254,236,0,63,553
+Ripley,Laughery 1,Registered Voters,,,,,,,,998
+Ripley,Laughery 1,Ballots Cast,,,,274,172,0,111,557
+Ripley,Laughery 1,Straight Party,,REP,,71,65,0,23,159
+Ripley,Laughery 1,Straight Party,,DEM,,7,11,0,10,28
+Ripley,Laughery 1,Straight Party,,LIB,,3,0,0,2,5
+Ripley,Laughery 1,President,,REP,Donald J Trump,240,131,0,65,436
+Ripley,Laughery 1,President,,DEM,Joseph R Biden,28,36,0,43,107
+Ripley,Laughery 1,President,,LIB,Jo Jorgensen,4,2,0,2,8
+Ripley,Laughery 1,President,,,Write-In,0,0,0,0,0
+Ripley,Laughery 1,Governor,,REP,Eric Holcomb,188,115,0,78,381
+Ripley,Laughery 1,Governor,,DEM,Woodrow (Woody) Myers,19,26,0,26,71
+Ripley,Laughery 1,Governor,,LIB,Donald G Rainwater II,66,27,0,5,98
+Ripley,Laughery 1,Attorney General,,REP,Todd Rokita,235,131,0,66,432
+Ripley,Laughery 1,Attorney General,,DEM,Jonathan Weinzapfel,29,34,0,42,105
+Ripley,Laughery 1,U.S. House,6,REP,Greg Pence,225,128,0,67,420
+Ripley,Laughery 1,U.S. House,6,DEM,Jeannine Lee Lake,23,32,0,38,93
+Ripley,Laughery 1,U.S. House,6,LIB,Tom Ferkinhoff,24,7,0,4,35
+Ripley,Laughery 1,U.S. House,6,,Write-In,0,0,0,0,0
+Ripley,Laughery 1,State Senate,42,REP,Jean Leising,246,150,0,86,482
+Ripley,Laughery 1,State Representative,55,REP,Cindy Meyer Ziemke,250,144,0,85,479
+Ripley,Laughery 1-1,Registered Voters,,,,,,,,1234
+Ripley,Laughery 1-1,Ballots Cast,,,,537,138,0,116,791
+Ripley,Laughery 1-1,Straight Party,,REP,,180,33,0,26,239
+Ripley,Laughery 1-1,Straight Party,,DEM,,43,28,0,23,94
+Ripley,Laughery 1-1,Straight Party,,LIB,,2,0,0,1,3
+Ripley,Laughery 1-1,President,,REP,Donald J Trump,384,72,0,50,506
+Ripley,Laughery 1-1,President,,DEM,Joseph R Biden,131,59,0,65,255
+Ripley,Laughery 1-1,President,,LIB,Jo Jorgensen,17,1,0,0,18
+Ripley,Laughery 1-1,President,,,Write-In,2,2,0,0,4
+Ripley,Laughery 1-1,Governor,,REP,Eric Holcomb,323,74,0,56,453
+Ripley,Laughery 1-1,Governor,,DEM,Woodrow (Woody) Myers,92,41,0,54,187
+Ripley,Laughery 1-1,Governor,,LIB,Donald G Rainwater II,113,17,0,3,133
+Ripley,Laughery 1-1,Attorney General,,REP,Todd Rokita,383,74,0,48,505
+Ripley,Laughery 1-1,Attorney General,,DEM,Jonathan Weinzapfel,137,56,0,61,254
+Ripley,Laughery 1-1,U.S. House,6,REP,Greg Pence,367,71,0,47,485
+Ripley,Laughery 1-1,U.S. House,6,DEM,Jeannine Lee Lake,113,53,0,62,228
+Ripley,Laughery 1-1,U.S. House,6,LIB,Tom Ferkinhoff,46,7,0,4,57
+Ripley,Laughery 1-1,U.S. House,6,,Write-In,0,0,0,0,0
+Ripley,Laughery 1-1,State Senate,42,REP,Jean Leising,450,103,0,85,638
+Ripley,Laughery 1-1,State Representative,55,REP,Cindy Meyer Ziemke,440,100,0,81,621
+Ripley,Laughery 2-1,Registered Voters,,,,,,,,642
+Ripley,Laughery 2-1,Ballots Cast,,,,324,80,0,42,446
+Ripley,Laughery 2-1,Straight Party,,REP,,83,25,0,13,121
+Ripley,Laughery 2-1,Straight Party,,DEM,,25,8,0,4,37
+Ripley,Laughery 2-1,Straight Party,,LIB,,5,1,0,0,6
+Ripley,Laughery 2-1,President,,REP,Donald J Trump,227,46,0,29,302
+Ripley,Laughery 2-1,President,,DEM,Joseph R Biden,89,29,0,13,131
+Ripley,Laughery 2-1,President,,LIB,Jo Jorgensen,5,3,0,0,8
+Ripley,Laughery 2-1,President,,,Write-In,1,0,0,0,1
+Ripley,Laughery 2-1,Governor,,REP,Eric Holcomb,203,51,0,34,288
+Ripley,Laughery 2-1,Governor,,DEM,Woodrow (Woody) Myers,57,21,0,8,86
+Ripley,Laughery 2-1,Governor,,LIB,Donald G Rainwater II,61,6,0,0,67
+Ripley,Laughery 2-1,Attorney General,,REP,Todd Rokita,221,50,0,30,301
+Ripley,Laughery 2-1,Attorney General,,DEM,Jonathan Weinzapfel,91,28,0,10,129
+Ripley,Laughery 2-1,U.S. House,6,REP,Greg Pence,217,44,0,28,289
+Ripley,Laughery 2-1,U.S. House,6,DEM,Jeannine Lee Lake,79,28,0,13,120
+Ripley,Laughery 2-1,U.S. House,6,LIB,Tom Ferkinhoff,23,6,0,1,30
+Ripley,Laughery 2-1,U.S. House,6,,Write-In,0,0,0,0,0
+Ripley,Laughery 2-1,State Senate,42,REP,Jean Leising,276,62,0,37,375
+Ripley,Laughery 2-1,State Representative,55,REP,Cindy Meyer Ziemke,273,64,0,37,374
+Ripley,Laughery 3-1,Registered Voters,,,,,,,,879
+Ripley,Laughery 3-1,Ballots Cast,,,,581,101,0,103,785
+Ripley,Laughery 3-1,Straight Party,,REP,,190,23,0,19,232
+Ripley,Laughery 3-1,Straight Party,,DEM,,43,20,0,16,79
+Ripley,Laughery 3-1,Straight Party,,LIB,,7,0,0,1,8
+Ripley,Laughery 3-1,President,,REP,Donald J Trump,450,40,0,53,543
+Ripley,Laughery 3-1,President,,DEM,Joseph R Biden,114,55,0,49,218
+Ripley,Laughery 3-1,President,,LIB,Jo Jorgensen,15,3,0,1,19
+Ripley,Laughery 3-1,President,,,Write-In,0,1,0,0,1
+Ripley,Laughery 3-1,Governor,,REP,Eric Holcomb,381,49,0,49,476
+Ripley,Laughery 3-1,Governor,,DEM,Woodrow (Woody) Myers,86,41,0,40,167
+Ripley,Laughery 3-1,Governor,,LIB,Donald G Rainwater II,105,10,0,11,126
+Ripley,Laughery 3-1,Attorney General,,REP,Todd Rokita,446,48,0,55,549
+Ripley,Laughery 3-1,Attorney General,,DEM,Jonathan Weinzapfel,110,50,0,42,202
+Ripley,Laughery 3-1,U.S. House,6,REP,Greg Pence,430,41,0,50,521
+Ripley,Laughery 3-1,U.S. House,6,DEM,Jeannine Lee Lake,103,50,0,42,195
+Ripley,Laughery 3-1,U.S. House,6,LIB,Tom Ferkinhoff,34,8,0,8,50
+Ripley,Laughery 3-1,U.S. House,6,,Write-In,0,0,0,0,0
+Ripley,Laughery 3-1,State Senate,42,REP,Jean Leising,497,71,0,67,635
+Ripley,Laughery 3-1,State Representative,55,REP,Cindy Meyer Ziemke,486,66,0,66,618
+Ripley,Otter Creek 1,Registered Voters,,,,,,,,499
+Ripley,Otter Creek 1,Ballots Cast,,,,193,86,0,24,303
+Ripley,Otter Creek 1,Straight Party,,REP,,65,40,0,4,109
+Ripley,Otter Creek 1,Straight Party,,DEM,,5,5,0,9,19
+Ripley,Otter Creek 1,Straight Party,,LIB,,1,0,0,0,1
+Ripley,Otter Creek 1,President,,REP,Donald J Trump,169,72,0,12,253
+Ripley,Otter Creek 1,President,,DEM,Joseph R Biden,18,11,0,12,41
+Ripley,Otter Creek 1,President,,LIB,Jo Jorgensen,4,0,0,0,4
+Ripley,Otter Creek 1,President,,,Write-In,0,0,0,0,0
+Ripley,Otter Creek 1,Governor,,REP,Eric Holcomb,121,59,0,10,190
+Ripley,Otter Creek 1,Governor,,DEM,Woodrow (Woody) Myers,13,11,0,12,36
+Ripley,Otter Creek 1,Governor,,LIB,Donald G Rainwater II,54,12,0,2,68
+Ripley,Otter Creek 1,Attorney General,,REP,Todd Rokita,160,71,0,12,243
+Ripley,Otter Creek 1,Attorney General,,DEM,Jonathan Weinzapfel,24,11,0,11,46
+Ripley,Otter Creek 1,U.S. House,6,REP,Greg Pence,169,70,0,14,253
+Ripley,Otter Creek 1,U.S. House,6,DEM,Jeannine Lee Lake,18,12,0,9,39
+Ripley,Otter Creek 1,U.S. House,6,LIB,Tom Ferkinhoff,4,2,0,0,6
+Ripley,Otter Creek 1,U.S. House,6,,Write-In,0,0,0,0,0
+Ripley,Otter Creek 1,State Representative,67,REP,Randy Frye,166,76,0,13,255
+Ripley,Otter Creek 2,Registered Voters,,,,,,,,489
+Ripley,Otter Creek 2,Ballots Cast,,,,221,85,0,29,335
+Ripley,Otter Creek 2,Straight Party,,REP,,79,33,0,9,121
+Ripley,Otter Creek 2,Straight Party,,DEM,,10,6,0,4,20
+Ripley,Otter Creek 2,Straight Party,,LIB,,1,0,0,0,1
+Ripley,Otter Creek 2,President,,REP,Donald J Trump,193,66,0,15,274
+Ripley,Otter Creek 2,President,,DEM,Joseph R Biden,25,17,0,12,54
+Ripley,Otter Creek 2,President,,LIB,Jo Jorgensen,2,0,0,1,3
+Ripley,Otter Creek 2,President,,,Write-In,0,0,0,0,0
+Ripley,Otter Creek 2,Governor,,REP,Eric Holcomb,139,55,0,19,213
+Ripley,Otter Creek 2,Governor,,DEM,Woodrow (Woody) Myers,26,12,0,10,48
+Ripley,Otter Creek 2,Governor,,LIB,Donald G Rainwater II,53,17,0,0,70
+Ripley,Otter Creek 2,Attorney General,,REP,Todd Rokita,182,64,0,16,262
+Ripley,Otter Creek 2,Attorney General,,DEM,Jonathan Weinzapfel,35,17,0,12,64
+Ripley,Otter Creek 2,U.S. House,6,REP,Greg Pence,188,65,0,16,269
+Ripley,Otter Creek 2,U.S. House,6,DEM,Jeannine Lee Lake,28,15,0,10,53
+Ripley,Otter Creek 2,U.S. House,6,LIB,Tom Ferkinhoff,2,2,0,3,7
+Ripley,Otter Creek 2,U.S. House,6,,Write-In,0,0,0,0,0
+Ripley,Otter Creek 2,State Representative,67,REP,Randy Frye,200,72,0,21,293
+Ripley,Shelby,Registered Voters,,,,,,,,659
+Ripley,Shelby,Ballots Cast,,,,257,112,0,51,420
+Ripley,Shelby,Straight Party,,REP,,117,42,0,13,172
+Ripley,Shelby,Straight Party,,DEM,,6,12,0,12,30
+Ripley,Shelby,Straight Party,,LIB,,2,1,0,0,3
+Ripley,Shelby,President,,REP,Donald J Trump,224,83,0,27,334
+Ripley,Shelby,President,,DEM,Joseph R Biden,22,24,0,20,66
+Ripley,Shelby,President,,LIB,Jo Jorgensen,7,2,0,1,10
+Ripley,Shelby,President,,,Write-In,0,1,0,0,1
+Ripley,Shelby,Governor,,REP,Eric Holcomb,176,71,0,31,278
+Ripley,Shelby,Governor,,DEM,Woodrow (Woody) Myers,23,25,0,16,64
+Ripley,Shelby,Governor,,LIB,Donald G Rainwater II,55,14,0,3,72
+Ripley,Shelby,Attorney General,,REP,Todd Rokita,215,81,0,28,324
+Ripley,Shelby,Attorney General,,DEM,Jonathan Weinzapfel,34,27,0,20,81
+Ripley,Shelby,U.S. House,6,REP,Greg Pence,218,82,0,29,329
+Ripley,Shelby,U.S. House,6,DEM,Jeannine Lee Lake,28,26,0,21,75
+Ripley,Shelby,U.S. House,6,LIB,Tom Ferkinhoff,8,2,0,1,11
+Ripley,Shelby,U.S. House,6,,Write-In,0,0,0,0,0
+Ripley,Shelby,State Representative,67,REP,Randy Frye,237,96,0,36,369
+Ripley,Washington 1,Registered Voters,,,,,,,,735
+Ripley,Washington 1,Ballots Cast,,,,371,106,0,32,509
+Ripley,Washington 1,Straight Party,,REP,,162,57,0,12,231
+Ripley,Washington 1,Straight Party,,DEM,,13,10,0,3,26
+Ripley,Washington 1,Straight Party,,LIB,,5,0,0,0,5
+Ripley,Washington 1,President,,REP,Donald J Trump,322,91,0,25,438
+Ripley,Washington 1,President,,DEM,Joseph R Biden,43,15,0,7,65
+Ripley,Washington 1,President,,LIB,Jo Jorgensen,6,0,0,0,6
+Ripley,Washington 1,President,,,Write-In,0,0,0,0,0
+Ripley,Washington 1,Governor,,REP,Eric Holcomb,275,74,0,23,372
+Ripley,Washington 1,Governor,,DEM,Woodrow (Woody) Myers,31,15,0,7,53
+Ripley,Washington 1,Governor,,LIB,Donald G Rainwater II,63,14,0,2,79
+Ripley,Washington 1,Attorney General,,REP,Todd Rokita,316,87,0,26,429
+Ripley,Washington 1,Attorney General,,DEM,Jonathan Weinzapfel,49,16,0,6,71
+Ripley,Washington 1,U.S. House,6,REP,Greg Pence,317,88,0,24,429
+Ripley,Washington 1,U.S. House,6,DEM,Jeannine Lee Lake,42,16,0,8,66
+Ripley,Washington 1,U.S. House,6,LIB,Tom Ferkinhoff,10,1,0,0,11
+Ripley,Washington 1,U.S. House,6,,Write-In,0,0,0,0,0
+Ripley,Washington 1,State Representative,67,REP,Randy Frye,336,92,0,26,454
+Ripley,Washington 2,Registered Voters,,,,,,,,1066
+Ripley,Washington 2,Ballots Cast,,,,462,238,0,83,783
+Ripley,Washington 2,Straight Party,,REP,,194,110,0,21,325
+Ripley,Washington 2,Straight Party,,DEM,,24,16,0,22,62
+Ripley,Washington 2,Straight Party,,LIB,,5,4,0,0,9
+Ripley,Washington 2,President,,REP,Donald J Trump,386,175,0,44,605
+Ripley,Washington 2,President,,DEM,Joseph R Biden,60,54,0,37,151
+Ripley,Washington 2,President,,LIB,Jo Jorgensen,10,3,0,1,14
+Ripley,Washington 2,President,,,Write-In,2,0,0,1,3
+Ripley,Washington 2,Governor,,REP,Eric Holcomb,318,150,0,45,513
+Ripley,Washington 2,Governor,,DEM,Woodrow (Woody) Myers,52,42,0,34,128
+Ripley,Washington 2,Governor,,LIB,Donald G Rainwater II,83,38,0,4,125
+Ripley,Washington 2,Attorney General,,REP,Todd Rokita,373,177,0,44,594
+Ripley,Washington 2,Attorney General,,DEM,Jonathan Weinzapfel,71,52,0,37,160
+Ripley,Washington 2,U.S. House,6,REP,Greg Pence,376,173,0,44,593
+Ripley,Washington 2,U.S. House,6,DEM,Jeannine Lee Lake,63,53,0,35,151
+Ripley,Washington 2,U.S. House,6,LIB,Tom Ferkinhoff,13,6,0,3,22
+Ripley,Washington 2,U.S. House,6,,Write-In,0,0,0,0,0
+Ripley,Washington 2,State Representative,67,REP,Randy Frye,406,205,0,56,667

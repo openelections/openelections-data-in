@@ -1,735 +1,600 @@
-candidate,office,district,party,county,precinct,election_day,absentee,provisional,votes,
-,Registered Voters,,,Dubois,Marion 2,,,,755,
-,Ballots Cast,,,Dubois,Marion 2,104,58,0,162,
-Mike Braun,U S Senate,,REP,Dubois,Marion 2,55,24,0,79,
-Luke Messer,U S Senate,,REP,Dubois,Marion 2,8,5,0,13,
-Todd Rokita,U S Senate,,REP,Dubois,Marion 2,3,5,0,8,
-Joe Donnelly,U S Senate,,DEM,Dubois,Marion 2,28,20,0,48,
-Larry D Bucshon,U S House,8,REP,Dubois,Marion 2,17,18,0,35,
-Rachel Covington,U S House,8,REP,Dubois,Marion 2,10,2,0,12,
-Richard Moss,U S House,8,REP,Dubois,Marion 2,32,12,0,44,
-William Tanoos,U S House,8,DEM,Dubois,Marion 2,24,15,0,39,
-Erin Houchin,State Senate,47,REP,Dubois,Marion 2,46,31,0,77,
-Nicholas A (Nick) Siler,State Senate,47,DEM,Dubois,Marion 2,28,17,0,45,
-Shane M Lindauer,State Representative,63,REP,Dubois,Marion 2,44,30,0,74,
-"Joseph ""Joe"" Lannan",State Representative,63,DEM,Dubois,Marion 2,29,11,0,40,
-Dennis Tedrow,State Representative,63,DEM,Dubois,Marion 2,6,9,0,15,
-,Registered Voters,,,Dubois,Patoka 1,,,,946,
-,Ballots Cast,,,Dubois,Patoka 1,118,22,0,140,
-Mike Braun,U S Senate,,REP,Dubois,Patoka 1,71,11,0,82,
-Luke Messer,U S Senate,,REP,Dubois,Patoka 1,13,2,0,15,
-Todd Rokita,U S Senate,,REP,Dubois,Patoka 1,15,3,0,18,
-Joe Donnelly,U S Senate,,DEM,Dubois,Patoka 1,16,4,0,20,
-Larry D Bucshon,U S House,8,REP,Dubois,Patoka 1,51,8,0,59,
-Rachel Covington,U S House,8,REP,Dubois,Patoka 1,6,1,0,7,
-Richard Moss,U S House,8,REP,Dubois,Patoka 1,41,7,0,48,
-William Tanoos,U S House,8,DEM,Dubois,Patoka 1,16,5,0,21,
-Mark Messmer,State Senate,48,REP,Dubois,Patoka 1,94,13,0,107,
-No Candidate Filed,State Senate,48,DEM,Dubois,Patoka 1,0,0,0,0,
-Stephen R Bartels,State Representative,74,REP,Dubois,Patoka 1,89,10,0,99,
-Larry K Kleeman,State Representative,74,DEM,Dubois,Patoka 1,17,5,0,22,
-,Registered Voters,,,Dubois,Patoka 2,,,,856,
-,Ballots Cast,,,Dubois,Patoka 2,94,21,0,115,
-Mike Braun,U S Senate,,REP,Dubois,Patoka 2,44,11,0,55,
-Luke Messer,U S Senate,,REP,Dubois,Patoka 2,14,4,0,18,
-Todd Rokita,U S Senate,,REP,Dubois,Patoka 2,5,2,0,7,
-Joe Donnelly,U S Senate,,DEM,Dubois,Patoka 2,29,3,0,32,
-Larry D Bucshon,U S House,8,REP,Dubois,Patoka 2,26,8,0,34,
-Rachel Covington,U S House,8,REP,Dubois,Patoka 2,6,3,0,9,
-Richard Moss,U S House,8,REP,Dubois,Patoka 2,31,6,0,37,
-William Tanoos,U S House,8,DEM,Dubois,Patoka 2,23,2,0,25,
-Mark Messmer,State Senate,48,REP,Dubois,Patoka 2,60,17,0,77,
-No Candidate Filed,State Senate,48,DEM,Dubois,Patoka 2,0,0,0,0,
-Stephen R Bartels,State Representative,74,REP,Dubois,Patoka 2,57,16,0,73,
-Larry K Kleeman,State Representative,74,DEM,Dubois,Patoka 2,26,4,0,30,
-,Registered Voters,,,Dubois,Patoka 3,,,,899,
-,Ballots Cast,,,Dubois,Patoka 3,86,25,0,111,
-Mike Braun,U S Senate,,REP,Dubois,Patoka 3,48,10,0,58,
-Luke Messer,U S Senate,,REP,Dubois,Patoka 3,14,5,0,19,
-Todd Rokita,U S Senate,,REP,Dubois,Patoka 3,7,2,0,9,
-Joe Donnelly,U S Senate,,DEM,Dubois,Patoka 3,13,7,0,20,
-Larry D Bucshon,U S House,8,REP,Dubois,Patoka 3,27,9,0,36,
-Rachel Covington,U S House,8,REP,Dubois,Patoka 3,4,2,0,6,
-Richard Moss,U S House,8,REP,Dubois,Patoka 3,38,6,0,44,
-William Tanoos,U S House,8,DEM,Dubois,Patoka 3,12,6,0,18,
-Mark Messmer,State Senate,48,REP,Dubois,Patoka 3,65,15,0,80,
-No Candidate Filed,State Senate,48,DEM,Dubois,Patoka 3,0,0,0,0,
-Stephen R Bartels,State Representative,74,REP,Dubois,Patoka 3,59,16,0,75,
-Larry K Kleeman,State Representative,74,DEM,Dubois,Patoka 3,13,8,0,21,
-,Registered Voters,,,Dubois,Patoka 4,,,,780,
-,Ballots Cast,,,Dubois,Patoka 4,55,14,0,69,
-Mike Braun,U S Senate,,REP,Dubois,Patoka 4,26,2,0,28,
-Luke Messer,U S Senate,,REP,Dubois,Patoka 4,7,1,0,8,
-Todd Rokita,U S Senate,,REP,Dubois,Patoka 4,3,0,0,3,
-Joe Donnelly,U S Senate,,DEM,Dubois,Patoka 4,18,8,0,26,
-Larry D Bucshon,U S House,8,REP,Dubois,Patoka 4,21,1,0,22,
-Rachel Covington,U S House,8,REP,Dubois,Patoka 4,1,0,0,1,
-Richard Moss,U S House,8,REP,Dubois,Patoka 4,14,2,0,16,
-William Tanoos,U S House,8,DEM,Dubois,Patoka 4,17,5,0,22,
-Mark Messmer,State Senate,48,REP,Dubois,Patoka 4,33,3,0,36,
-No Candidate Filed,State Senate,48,DEM,Dubois,Patoka 4,0,0,0,0,
-Stephen R Bartels,State Representative,74,REP,Dubois,Patoka 4,32,3,0,35,
-Larry K Kleeman,State Representative,74,DEM,Dubois,Patoka 4,19,7,0,26,
-,Registered Voters,,,Dubois,Patoka 5,,,,347,
-,Ballots Cast,,,Dubois,Patoka 5,39,12,0,51,
-Mike Braun,U S Senate,,REP,Dubois,Patoka 5,22,5,0,27,
-Luke Messer,U S Senate,,REP,Dubois,Patoka 5,0,4,0,4,
-Todd Rokita,U S Senate,,REP,Dubois,Patoka 5,6,1,0,7,
-Joe Donnelly,U S Senate,,DEM,Dubois,Patoka 5,7,1,0,8,
-Larry D Bucshon,U S House,8,REP,Dubois,Patoka 5,20,7,0,27,
-Rachel Covington,U S House,8,REP,Dubois,Patoka 5,2,3,0,5,
-Richard Moss,U S House,8,REP,Dubois,Patoka 5,6,0,0,6,
-William Tanoos,U S House,8,DEM,Dubois,Patoka 5,6,0,0,6,
-Mark Messmer,State Senate,48,REP,Dubois,Patoka 5,27,8,0,35,
-No Candidate Filed,State Senate,48,DEM,Dubois,Patoka 5,0,0,0,0,
-Stephen R Bartels,State Representative,74,REP,Dubois,Patoka 5,24,6,0,30,
-Larry K Kleeman,State Representative,74,DEM,Dubois,Patoka 5,7,0,0,7,
-,Registered Voters,,,Dubois,Patoka 6,,,,765,
-,Ballots Cast,,,Dubois,Patoka 6,77,24,0,101,
-Mike Braun,U S Senate,,REP,Dubois,Patoka 6,51,14,0,65,
-Luke Messer,U S Senate,,REP,Dubois,Patoka 6,3,1,0,4,
-Todd Rokita,U S Senate,,REP,Dubois,Patoka 6,12,1,0,13,
-Joe Donnelly,U S Senate,,DEM,Dubois,Patoka 6,7,8,0,15,
-Larry D Bucshon,U S House,8,REP,Dubois,Patoka 6,31,7,0,38,
-Rachel Covington,U S House,8,REP,Dubois,Patoka 6,10,2,0,12,
-Richard Moss,U S House,8,REP,Dubois,Patoka 6,27,6,0,33,
-William Tanoos,U S House,8,DEM,Dubois,Patoka 6,7,5,0,12,
-Mark Messmer,State Senate,48,REP,Dubois,Patoka 6,68,15,0,83,
-No Candidate Filed,State Senate,48,DEM,Dubois,Patoka 6,0,0,0,0,
-Stephen R Bartels,State Representative,74,REP,Dubois,Patoka 6,63,13,0,76,
-Larry K Kleeman,State Representative,74,DEM,Dubois,Patoka 6,8,5,0,13,
-,Registered Voters,,,Dubois,Boone-Jasper,,,,78,
-,Ballots Cast,,,Dubois,Boone-Jasper,11,6,0,17,
-Mike Braun,U S Senate,,REP,Dubois,Boone-Jasper,4,2,0,6,
-Luke Messer,U S Senate,,REP,Dubois,Boone-Jasper,0,2,0,2,
-Todd Rokita,U S Senate,,REP,Dubois,Boone-Jasper,2,0,0,2,
-Joe Donnelly,U S Senate,,DEM,Dubois,Boone-Jasper,4,2,0,6,
-Larry D Bucshon,U S House,8,REP,Dubois,Boone-Jasper,2,3,0,5,
-Rachel Covington,U S House,8,REP,Dubois,Boone-Jasper,1,0,0,1,
-Richard Moss,U S House,8,REP,Dubois,Boone-Jasper,2,1,0,3,
-William Tanoos,U S House,8,DEM,Dubois,Boone-Jasper,4,1,0,5,
-Mark Messmer,State Senate,48,REP,Dubois,Boone-Jasper,5,4,0,9,
-No Candidate Filed,State Senate,48,DEM,Dubois,Boone-Jasper,0,0,0,0,
-Shane M Lindauer,State Representative,63,REP,Dubois,Boone-Jasper,6,4,0,10,
-"Joseph ""Joe"" Lannan",State Representative,63,DEM,Dubois,Boone-Jasper,5,2,0,7,
-Dennis Tedrow,State Representative,63,DEM,Dubois,Boone-Jasper,0,0,0,0,
-,Registered Voters,,,Dubois,Bainbridge 6S,,,,1059,
-,Ballots Cast,,,Dubois,Bainbridge 6S,138,154,0,292,
-Mike Braun,U S Senate,,REP,Dubois,Bainbridge 6S,105,85,0,190,
-Luke Messer,U S Senate,,REP,Dubois,Bainbridge 6S,5,4,0,9,
-Todd Rokita,U S Senate,,REP,Dubois,Bainbridge 6S,3,9,0,12,
-Joe Donnelly,U S Senate,,DEM,Dubois,Bainbridge 6S,19,43,0,62,
-Larry D Bucshon,U S House,8,REP,Dubois,Bainbridge 6S,45,59,0,104,
-Rachel Covington,U S House,8,REP,Dubois,Bainbridge 6S,13,6,0,19,
-Richard Moss,U S House,8,REP,Dubois,Bainbridge 6S,47,29,0,76,
-William Tanoos,U S House,8,DEM,Dubois,Bainbridge 6S,17,31,0,48,
-Mark Messmer,State Senate,48,REP,Dubois,Bainbridge 6S,99,92,0,191,
-No Candidate Filed,State Senate,48,DEM,Dubois,Bainbridge 6S,0,0,0,0,
-Shane M Lindauer,State Representative,63,REP,Dubois,Bainbridge 6S,98,91,0,189,
-"Joseph ""Joe"" Lannan",State Representative,63,DEM,Dubois,Bainbridge 6S,14,27,0,41,
-Dennis Tedrow,State Representative,63,DEM,Dubois,Bainbridge 6S,7,14,0,21,
-,Registered Voters,,,Dubois,Bainbridge 7,,,,704,
-,Ballots Cast,,,Dubois,Bainbridge 7,91,64,0,155,
-Mike Braun,U S Senate,,REP,Dubois,Bainbridge 7,58,38,0,96,
-Luke Messer,U S Senate,,REP,Dubois,Bainbridge 7,3,5,0,8,
-Todd Rokita,U S Senate,,REP,Dubois,Bainbridge 7,3,0,0,3,
-Joe Donnelly,U S Senate,,DEM,Dubois,Bainbridge 7,24,15,0,39,
-Larry D Bucshon,U S House,8,REP,Dubois,Bainbridge 7,26,23,0,49,
-Rachel Covington,U S House,8,REP,Dubois,Bainbridge 7,7,7,0,14,
-Richard Moss,U S House,8,REP,Dubois,Bainbridge 7,27,11,0,38,
-William Tanoos,U S House,8,DEM,Dubois,Bainbridge 7,20,14,0,34,
-Mark Messmer,State Senate,48,REP,Dubois,Bainbridge 7,64,42,0,106,
-No Candidate Filed,State Senate,48,DEM,Dubois,Bainbridge 7,0,0,0,0,
-Shane M Lindauer,State Representative,63,REP,Dubois,Bainbridge 7,56,39,0,94,
-"Joseph ""Joe"" Lannan",State Representative,63,DEM,Dubois,Bainbridge 7,18,8,0,26,
-Dennis Tedrow,State Representative,63,DEM,Dubois,Bainbridge 7,8,11,0,19,
-,Registered Voters,,,Dubois,Boone 1,,,,570,
-,Ballots Cast,,,Dubois,Boone 1,67,59,0,126,
-Mike Braun,U S Senate,,REP,Dubois,Boone 1,42,39,0,81,
-Luke Messer,U S Senate,,REP,Dubois,Boone 1,5,1,0,6,
-Todd Rokita,U S Senate,,REP,Dubois,Boone 1,1,3,0,4,
-Joe Donnelly,U S Senate,,DEM,Dubois,Boone 1,14,13,0,27,
-Larry D Bucshon,U S House,8,REP,Dubois,Boone 1,18,23,0,41,
-Rachel Covington,U S House,8,REP,Dubois,Boone 1,3,1,0,4,
-Richard Moss,U S House,8,REP,Dubois,Boone 1,25,16,0,41,
-William Tanoos,U S House,8,DEM,Dubois,Boone 1,12,13,0,25,
-Mark Messmer,State Senate,48,REP,Dubois,Boone 1,41,38,0,79,
-No Candidate Filed,State Senate,48,DEM,Dubois,Boone 1,0,0,0,0,
-Shane M Lindauer,State Representative,63,REP,Dubois,Boone 1,41,39,0,80,
-"Joseph ""Joe"" Lannan",State Representative,63,DEM,Dubois,Boone 1,8,11,0,19,
-Dennis Tedrow,State Representative,63,DEM,Dubois,Boone 1,7,3,0,10,
-,Registered Voters,,,Dubois,Cass 1,,,,434,
-,Ballots Cast,,,Dubois,Cass 1,66,4,0,70,
-Mike Braun,U S Senate,,REP,Dubois,Cass 1,36,4,0,40,
-Luke Messer,U S Senate,,REP,Dubois,Cass 1,8,0,0,8,
-Todd Rokita,U S Senate,,REP,Dubois,Cass 1,6,0,0,6,
-Joe Donnelly,U S Senate,,DEM,Dubois,Cass 1,10,0,0,10,
-Larry D Bucshon,U S House,8,REP,Dubois,Cass 1,23,2,0,25,
-Rachel Covington,U S House,8,REP,Dubois,Cass 1,3,0,0,3,
-Richard Moss,U S House,8,REP,Dubois,Cass 1,23,2,0,25,
-William Tanoos,U S House,8,DEM,Dubois,Cass 1,8,0,0,8,
-Mark Messmer,State Senate,48,REP,Dubois,Cass 1,47,4,0,51,
-No Candidate Filed,State Senate,48,DEM,Dubois,Cass 1,0,0,0,0,
-Stephen R Bartels,State Representative,74,REP,Dubois,Cass 1,44,3,0,47,
-Larry K Kleeman,State Representative,74,DEM,Dubois,Cass 1,9,0,0,9,
-,Registered Voters,,,Dubois,Cass 2,,,,499,
-,Ballots Cast,,,Dubois,Cass 2,33,14,0,47,
-Mike Braun,U S Senate,,REP,Dubois,Cass 2,18,6,0,24,
-Luke Messer,U S Senate,,REP,Dubois,Cass 2,1,0,0,1,
-Todd Rokita,U S Senate,,REP,Dubois,Cass 2,6,0,0,6,
-Joe Donnelly,U S Senate,,DEM,Dubois,Cass 2,7,7,0,14,
-Larry D Bucshon,U S House,8,REP,Dubois,Cass 2,13,5,0,18,
-Rachel Covington,U S House,8,REP,Dubois,Cass 2,1,0,0,1,
-Richard Moss,U S House,8,REP,Dubois,Cass 2,9,0,0,9,
-William Tanoos,U S House,8,DEM,Dubois,Cass 2,5,7,0,12,
-Mark Messmer,State Senate,48,REP,Dubois,Cass 2,22,5,0,27,
-No Candidate Filed,State Senate,48,DEM,Dubois,Cass 2,0,0,0,0,
-Stephen R Bartels,State Representative,74,REP,Dubois,Cass 2,22,2,0,24,
-Larry K Kleeman,State Representative,74,DEM,Dubois,Cass 2,6,7,0,13,
-,Registered Voters,,,Dubois,Cass 3,,,,626,
-,Ballots Cast,,,Dubois,Cass 3,97,13,0,110,
-Mike Braun,U S Senate,,REP,Dubois,Cass 3,57,7,0,64,
-Luke Messer,U S Senate,,REP,Dubois,Cass 3,10,1,0,11,
-Todd Rokita,U S Senate,,REP,Dubois,Cass 3,2,0,0,2,
-Joe Donnelly,U S Senate,,DEM,Dubois,Cass 3,25,5,0,30,
-Larry D Bucshon,U S House,8,REP,Dubois,Cass 3,34,6,0,40,
-Rachel Covington,U S House,8,REP,Dubois,Cass 3,7,1,0,8,
-Richard Moss,U S House,8,REP,Dubois,Cass 3,27,1,0,28,
-William Tanoos,U S House,8,DEM,Dubois,Cass 3,23,5,0,28,
-Mark Messmer,State Senate,48,REP,Dubois,Cass 3,61,8,0,69,
-No Candidate Filed,State Senate,48,DEM,Dubois,Cass 3,0,0,0,0,
-Stephen R Bartels,State Representative,74,REP,Dubois,Cass 3,50,7,0,57,
-Larry K Kleeman,State Representative,74,DEM,Dubois,Cass 3,26,4,0,30,
-,Registered Voters,,,Dubois,Columbia 1,,,,747,
-,Ballots Cast,,,Dubois,Columbia 1,73,39,0,112,
-Mike Braun,U S Senate,,REP,Dubois,Columbia 1,48,25,0,73,
-Luke Messer,U S Senate,,REP,Dubois,Columbia 1,7,2,0,9,
-Todd Rokita,U S Senate,,REP,Dubois,Columbia 1,0,0,0,0,
-Joe Donnelly,U S Senate,,DEM,Dubois,Columbia 1,16,9,0,25,
-Larry D Bucshon,U S House,8,REP,Dubois,Columbia 1,22,6,0,28,
-Rachel Covington,U S House,8,REP,Dubois,Columbia 1,4,8,0,12,
-Richard Moss,U S House,8,REP,Dubois,Columbia 1,25,13,0,38,
-William Tanoos,U S House,8,DEM,Dubois,Columbia 1,15,7,0,22,
-Erin Houchin,State Senate,47,REP,Dubois,Columbia 1,45,23,0,68,
-Nicholas A (Nick) Siler,State Senate,47,DEM,Dubois,Columbia 1,15,7,0,22,
-Shane M Lindauer,State Representative,63,REP,Dubois,Columbia 1,46,25,0,71,
-"Joseph ""Joe"" Lannan",State Representative,63,DEM,Dubois,Columbia 1,12,7,0,19,
-Dennis Tedrow,State Representative,63,DEM,Dubois,Columbia 1,3,2,0,5,
-,Registered Voters,,,Dubois,Ferdinand 1,,,,910,
-,Ballots Cast,,,Dubois,Ferdinand 1,133,44,0,177,
-Mike Braun,U S Senate,,REP,Dubois,Ferdinand 1,51,13,0,64,
-Luke Messer,U S Senate,,REP,Dubois,Ferdinand 1,8,1,0,9,
-Todd Rokita,U S Senate,,REP,Dubois,Ferdinand 1,4,0,0,4,
-Joe Donnelly,U S Senate,,DEM,Dubois,Ferdinand 1,60,25,0,85,
-Larry D Bucshon,U S House,8,REP,Dubois,Ferdinand 1,38,6,0,44,
-Rachel Covington,U S House,8,REP,Dubois,Ferdinand 1,6,2,0,8,
-Richard Moss,U S House,8,REP,Dubois,Ferdinand 1,16,6,0,22,
-William Tanoos,U S House,8,DEM,Dubois,Ferdinand 1,50,24,0,74,
-Erin Houchin,State Senate,47,REP,Dubois,Ferdinand 1,48,11,0,59,
-Nicholas A (Nick) Siler,State Senate,47,DEM,Dubois,Ferdinand 1,52,24,0,76,
-Stephen R Bartels,State Representative,74,REP,Dubois,Ferdinand 1,46,11,0,57,
-Larry K Kleeman,State Representative,74,DEM,Dubois,Ferdinand 1,60,27,0,87,
-,Registered Voters,,,Dubois,Ferdinand 2,,,,676,
-,Ballots Cast,,,Dubois,Ferdinand 2,75,32,0,107,
-Mike Braun,U S Senate,,REP,Dubois,Ferdinand 2,31,8,0,39,
-Luke Messer,U S Senate,,REP,Dubois,Ferdinand 2,6,2,0,8,
-Todd Rokita,U S Senate,,REP,Dubois,Ferdinand 2,7,2,0,9,
-Joe Donnelly,U S Senate,,DEM,Dubois,Ferdinand 2,27,18,0,45,
-Larry D Bucshon,U S House,8,REP,Dubois,Ferdinand 2,16,7,0,23,
-Rachel Covington,U S House,8,REP,Dubois,Ferdinand 2,1,0,0,1,
-Richard Moss,U S House,8,REP,Dubois,Ferdinand 2,26,4,0,30,
-William Tanoos,U S House,8,DEM,Dubois,Ferdinand 2,23,16,0,39,
-Erin Houchin,State Senate,47,REP,Dubois,Ferdinand 2,38,9,0,47,
-Nicholas A (Nick) Siler,State Senate,47,DEM,Dubois,Ferdinand 2,23,17,0,40,
-Stephen R Bartels,State Representative,74,REP,Dubois,Ferdinand 2,35,6,0,41,
-Larry K Kleeman,State Representative,74,DEM,Dubois,Ferdinand 2,22,18,0,40,
-,Registered Voters,,,Dubois,Ferdinand 3,,,,1120,
-,Ballots Cast,,,Dubois,Ferdinand 3,102,25,0,127,
-Mike Braun,U S Senate,,REP,Dubois,Ferdinand 3,58,9,0,67,
-Luke Messer,U S Senate,,REP,Dubois,Ferdinand 3,9,1,0,10,
-Todd Rokita,U S Senate,,REP,Dubois,Ferdinand 3,8,1,0,9,
-Joe Donnelly,U S Senate,,DEM,Dubois,Ferdinand 3,22,11,0,33,
-Larry D Bucshon,U S House,8,REP,Dubois,Ferdinand 3,42,6,0,48,
-Rachel Covington,U S House,8,REP,Dubois,Ferdinand 3,5,2,0,7,
-Richard Moss,U S House,8,REP,Dubois,Ferdinand 3,28,3,0,31,
-William Tanoos,U S House,8,DEM,Dubois,Ferdinand 3,18,10,0,28,
-Erin Houchin,State Senate,47,REP,Dubois,Ferdinand 3,63,9,0,72,
-Nicholas A (Nick) Siler,State Senate,47,DEM,Dubois,Ferdinand 3,20,10,0,30,
-Stephen R Bartels,State Representative,74,REP,Dubois,Ferdinand 3,64,8,0,72,
-Larry K Kleeman,State Representative,74,DEM,Dubois,Ferdinand 3,22,11,0,33,
-,Registered Voters,,,Dubois,Hall 1,,,,913,
-,Ballots Cast,,,Dubois,Hall 1,155,41,0,196,
-Mike Braun,U S Senate,,REP,Dubois,Hall 1,81,16,0,97,
-Luke Messer,U S Senate,,REP,Dubois,Hall 1,6,0,0,6,
-Todd Rokita,U S Senate,,REP,Dubois,Hall 1,2,0,0,2,
-Joe Donnelly,U S Senate,,DEM,Dubois,Hall 1,50,17,0,67,
-Larry D Bucshon,U S House,8,REP,Dubois,Hall 1,35,6,0,41,
-Rachel Covington,U S House,8,REP,Dubois,Hall 1,12,3,0,15,
-Richard Moss,U S House,8,REP,Dubois,Hall 1,40,6,0,46,
-William Tanoos,U S House,8,DEM,Dubois,Hall 1,43,19,0,62,
-Erin Houchin,State Senate,47,REP,Dubois,Hall 1,80,14,0,94,
-Nicholas A (Nick) Siler,State Senate,47,DEM,Dubois,Hall 1,42,20,0,62,
-Shane M Lindauer,State Representative,63,REP,Dubois,Hall 1,80,14,0,94,
-"Joseph ""Joe"" Lannan",State Representative,63,DEM,Dubois,Hall 1,38,14,0,52,
-Dennis Tedrow,State Representative,63,DEM,Dubois,Hall 1,17,9,0,26,
-,Registered Voters,,,Dubois,Harbison 1,,,,588,
-,Ballots Cast,,,Dubois,Harbison 1,77,63,0,140,
-Mike Braun,U S Senate,,REP,Dubois,Harbison 1,47,48,0,95,
-Luke Messer,U S Senate,,REP,Dubois,Harbison 1,7,2,0,9,
-Todd Rokita,U S Senate,,REP,Dubois,Harbison 1,4,7,0,11,
-Joe Donnelly,U S Senate,,DEM,Dubois,Harbison 1,16,4,0,20,
-Larry D Bucshon,U S House,8,REP,Dubois,Harbison 1,31,31,0,62,
-Rachel Covington,U S House,8,REP,Dubois,Harbison 1,8,6,0,14,
-Richard Moss,U S House,8,REP,Dubois,Harbison 1,19,18,0,37,
-William Tanoos,U S House,8,DEM,Dubois,Harbison 1,14,3,0,17,
-Erin Houchin,State Senate,47,REP,Dubois,Harbison 1,49,50,0,99,
-Nicholas A (Nick) Siler,State Senate,47,DEM,Dubois,Harbison 1,14,3,0,17,
-Shane M Lindauer,State Representative,63,REP,Dubois,Harbison 1,50,52,0,102,
-"Joseph ""Joe"" Lannan",State Representative,63,DEM,Dubois,Harbison 1,11,2,0,13,
-Dennis Tedrow,State Representative,63,DEM,Dubois,Harbison 1,5,2,0,7,
-,Registered Voters,,,Dubois,Harbison 2,,,,573,
-,Ballots Cast,,,Dubois,Harbison 2,65,25,0,90,
-Mike Braun,U S Senate,,REP,Dubois,Harbison 2,37,13,0,50,
-Luke Messer,U S Senate,,REP,Dubois,Harbison 2,7,0,0,7,
-Todd Rokita,U S Senate,,REP,Dubois,Harbison 2,2,2,0,4,
-Joe Donnelly,U S Senate,,DEM,Dubois,Harbison 2,17,7,0,24,
-Larry D Bucshon,U S House,8,REP,Dubois,Harbison 2,16,10,0,26,
-Rachel Covington,U S House,8,REP,Dubois,Harbison 2,7,3,0,10,
-Richard Moss,U S House,8,REP,Dubois,Harbison 2,22,2,0,24,
-William Tanoos,U S House,8,DEM,Dubois,Harbison 2,12,5,0,17,
-Erin Houchin,State Senate,47,REP,Dubois,Harbison 2,41,13,0,54,
-Nicholas A (Nick) Siler,State Senate,47,DEM,Dubois,Harbison 2,12,4,0,16,
-Shane M Lindauer,State Representative,63,REP,Dubois,Harbison 2,37,12,0,49,
-"Joseph ""Joe"" Lannan",State Representative,63,DEM,Dubois,Harbison 2,7,4,0,11,
-Dennis Tedrow,State Representative,63,DEM,Dubois,Harbison 2,9,5,0,14,
-,Registered Voters,,,Dubois,Bainbridge 1,,,,542,
-,Ballots Cast,,,Dubois,Bainbridge 1,109,60,0,169,
-Mike Braun,U S Senate,,REP,Dubois,Bainbridge 1,71,41,0,112,
-Luke Messer,U S Senate,,REP,Dubois,Bainbridge 1,5,4,0,9,
-Todd Rokita,U S Senate,,REP,Dubois,Bainbridge 1,5,0,0,5,
-Joe Donnelly,U S Senate,,DEM,Dubois,Bainbridge 1,19,8,0,27,
-Larry D Bucshon,U S House,8,REP,Dubois,Bainbridge 1,47,27,0,74,
-Rachel Covington,U S House,8,REP,Dubois,Bainbridge 1,5,3,0,8,
-Richard Moss,U S House,8,REP,Dubois,Bainbridge 1,29,12,0,41,
-William Tanoos,U S House,8,DEM,Dubois,Bainbridge 1,12,9,0,21,
-Mark Messmer,State Senate,48,REP,Dubois,Bainbridge 1,75,43,0,118,
-No Candidate Filed,State Senate,48,DEM,Dubois,Bainbridge 1,0,0,0,0,
-Shane M Lindauer,State Representative,63,REP,Dubois,Bainbridge 1,70,41,0,111,
-"Joseph ""Joe"" Lannan",State Representative,63,DEM,Dubois,Bainbridge 1,14,7,0,21,
-Dennis Tedrow,State Representative,63,DEM,Dubois,Bainbridge 1,6,4,0,10,
-,Registered Voters,,,Dubois,Bainbridge 2E,,,,774,
-,Ballots Cast,,,Dubois,Bainbridge 2E,56,78,0,134,
-Mike Braun,U S Senate,,REP,Dubois,Bainbridge 2E,20,34,0,54,
-Luke Messer,U S Senate,,REP,Dubois,Bainbridge 2E,3,3,0,6,
-Todd Rokita,U S Senate,,REP,Dubois,Bainbridge 2E,2,3,0,5,
-Joe Donnelly,U S Senate,,DEM,Dubois,Bainbridge 2E,27,30,0,57,
-Larry D Bucshon,U S House,8,REP,Dubois,Bainbridge 2E,13,15,0,28,
-Rachel Covington,U S House,8,REP,Dubois,Bainbridge 2E,4,7,0,11,
-Richard Moss,U S House,8,REP,Dubois,Bainbridge 2E,8,16,0,24,
-William Tanoos,U S House,8,DEM,Dubois,Bainbridge 2E,27,23,0,50,
-Mark Messmer,State Senate,48,REP,Dubois,Bainbridge 2E,24,36,0,60,
-No Candidate Filed,State Senate,48,DEM,Dubois,Bainbridge 2E,0,0,0,0,
-Shane M Lindauer,State Representative,63,REP,Dubois,Bainbridge 2E,23,36,0,59,
-"Joseph ""Joe"" Lannan",State Representative,63,DEM,Dubois,Bainbridge 2E,20,24,0,44,
-Dennis Tedrow,State Representative,63,DEM,Dubois,Bainbridge 2E,10,6,0,16,
-,Registered Voters,,,Dubois,Bainbridge 2W,,,,1415,
-,Ballots Cast,,,Dubois,Bainbridge 2W,203,163,0,366,
-Mike Braun,U S Senate,,REP,Dubois,Bainbridge 2W,128,89,0,217,
-Luke Messer,U S Senate,,REP,Dubois,Bainbridge 2W,7,7,0,14,
-Todd Rokita,U S Senate,,REP,Dubois,Bainbridge 2W,11,8,0,19,
-Joe Donnelly,U S Senate,,DEM,Dubois,Bainbridge 2W,43,49,0,92,
-Larry D Bucshon,U S House,8,REP,Dubois,Bainbridge 2W,77,53,0,130,
-Rachel Covington,U S House,8,REP,Dubois,Bainbridge 2W,11,10,0,21,
-Richard Moss,U S House,8,REP,Dubois,Bainbridge 2W,55,35,0,90,
-William Tanoos,U S House,8,DEM,Dubois,Bainbridge 2W,35,45,0,80,
-Mark Messmer,State Senate,48,REP,Dubois,Bainbridge 2W,141,99,0,240,
-No Candidate Filed,State Senate,48,DEM,Dubois,Bainbridge 2W,0,0,0,0,
-Shane M Lindauer,State Representative,63,REP,Dubois,Bainbridge 2W,134,94,0,228,
-"Joseph ""Joe"" Lannan",State Representative,63,DEM,Dubois,Bainbridge 2W,36,36,0,72,
-Dennis Tedrow,State Representative,63,DEM,Dubois,Bainbridge 2W,9,15,0,24,
-,Registered Voters,,,Dubois,Bainbridge 3E,,,,1064,
-,Ballots Cast,,,Dubois,Bainbridge 3E,156,136,0,292,
-Mike Braun,U S Senate,,REP,Dubois,Bainbridge 3E,99,86,0,185,
-Luke Messer,U S Senate,,REP,Dubois,Bainbridge 3E,8,6,0,14,
-Todd Rokita,U S Senate,,REP,Dubois,Bainbridge 3E,4,9,0,13,
-Joe Donnelly,U S Senate,,DEM,Dubois,Bainbridge 3E,32,27,0,59,
-Larry D Bucshon,U S House,8,REP,Dubois,Bainbridge 3E,38,51,0,89,
-Rachel Covington,U S House,8,REP,Dubois,Bainbridge 3E,10,9,0,19,
-Richard Moss,U S House,8,REP,Dubois,Bainbridge 3E,58,39,0,97,
-William Tanoos,U S House,8,DEM,Dubois,Bainbridge 3E,33,26,0,59,
-Mark Messmer,State Senate,48,REP,Dubois,Bainbridge 3E,103,94,0,197,
-No Candidate Filed,State Senate,48,DEM,Dubois,Bainbridge 3E,0,0,0,0,
-Shane M Lindauer,State Representative,63,REP,Dubois,Bainbridge 3E,101,95,0,196,
-"Joseph ""Joe"" Lannan",State Representative,63,DEM,Dubois,Bainbridge 3E,28,27,0,55,
-Dennis Tedrow,State Representative,63,DEM,Dubois,Bainbridge 3E,11,6,0,17,
-,Registered Voters,,,Dubois,Bainbridge 3W,,,,0,
-,Ballots Cast,,,Dubois,Bainbridge 3W,173,142,0,315,
-Mike Braun,U S Senate,,REP,Dubois,Bainbridge 3W,122,108,0,230,
-Luke Messer,U S Senate,,REP,Dubois,Bainbridge 3W,9,6,0,15,
-Todd Rokita,U S Senate,,REP,Dubois,Bainbridge 3W,7,2,0,9,
-Joe Donnelly,U S Senate,,DEM,Dubois,Bainbridge 3W,30,23,0,53,
-Larry D Bucshon,U S House,8,REP,Dubois,Bainbridge 3W,71,62,0,133,
-Rachel Covington,U S House,8,REP,Dubois,Bainbridge 3W,12,11,0,23,
-Richard Moss,U S House,8,REP,Dubois,Bainbridge 3W,52,38,0,90,
-William Tanoos,U S House,8,DEM,Dubois,Bainbridge 3W,25,20,0,45,
-Mark Messmer,State Senate,48,REP,Dubois,Bainbridge 3W,127,111,0,238,
-No Candidate Filed,State Senate,48,DEM,Dubois,Bainbridge 3W,0,0,0,0,
-Shane M Lindauer,State Representative,63,REP,Dubois,Bainbridge 3W,128,107,0,235,
-"Joseph ""Joe"" Lannan",State Representative,63,DEM,Dubois,Bainbridge 3W,24,19,0,43,
-Dennis Tedrow,State Representative,63,DEM,Dubois,Bainbridge 3W,8,5,0,13,
-,Registered Voters,,,Dubois,Bainbridge 4N,,,,1021,
-,Ballots Cast,,,Dubois,Bainbridge 4N,139,91,0,230,
-Mike Braun,U S Senate,,REP,Dubois,Bainbridge 4N,81,48,0,129,
-Luke Messer,U S Senate,,REP,Dubois,Bainbridge 4N,11,3,0,14,
-Todd Rokita,U S Senate,,REP,Dubois,Bainbridge 4N,10,4,0,14,
-Joe Donnelly,U S Senate,,DEM,Dubois,Bainbridge 4N,31,28,0,59,
-Larry D Bucshon,U S House,8,REP,Dubois,Bainbridge 4N,47,36,0,83,
-Rachel Covington,U S House,8,REP,Dubois,Bainbridge 4N,15,3,0,18,
-Richard Moss,U S House,8,REP,Dubois,Bainbridge 4N,37,12,0,49,
-William Tanoos,U S House,8,DEM,Dubois,Bainbridge 4N,25,22,0,47,
-Mark Messmer,State Senate,48,REP,Dubois,Bainbridge 4N,94,54,0,148,
-No Candidate Filed,State Senate,48,DEM,Dubois,Bainbridge 4N,0,0,0,0,
-Shane M Lindauer,State Representative,63,REP,Dubois,Bainbridge 4N,85,51,0,136,
-"Joseph ""Joe"" Lannan",State Representative,63,DEM,Dubois,Bainbridge 4N,19,23,0,42,
-Dennis Tedrow,State Representative,63,DEM,Dubois,Bainbridge 4N,12,9,0,21,
-,Registered Voters,,,Dubois,Bainbridge 4S,,,,941,
-,Ballots Cast,,,Dubois,Bainbridge 4S,138,93,0,231,
-Mike Braun,U S Senate,,REP,Dubois,Bainbridge 4S,91,52,0,143,
-Luke Messer,U S Senate,,REP,Dubois,Bainbridge 4S,8,2,0,10,
-Todd Rokita,U S Senate,,REP,Dubois,Bainbridge 4S,5,7,0,12,
-Joe Donnelly,U S Senate,,DEM,Dubois,Bainbridge 4S,30,25,0,55,
-Larry D Bucshon,U S House,8,REP,Dubois,Bainbridge 4S,51,24,0,75,
-Rachel Covington,U S House,8,REP,Dubois,Bainbridge 4S,10,6,0,16,
-Richard Moss,U S House,8,REP,Dubois,Bainbridge 4S,40,27,0,67,
-William Tanoos,U S House,8,DEM,Dubois,Bainbridge 4S,28,18,0,46,
-Mark Messmer,State Senate,48,REP,Dubois,Bainbridge 4S,94,48,0,142,
-No Candidate Filed,State Senate,48,DEM,Dubois,Bainbridge 4S,48,0,0,0,
-Shane M Lindauer,State Representative,63,REP,Dubois,Bainbridge 4S,93,46,0,139,
-"Joseph ""Joe"" Lannan",State Representative,63,DEM,Dubois,Bainbridge 4S,24,15,0,39,
-Dennis Tedrow,State Representative,63,DEM,Dubois,Bainbridge 4S,9,7,0,16,
-,Registered Voters,,,Dubois,Bainbridge 5N,,,,985,
-,Ballots Cast,,,Dubois,Bainbridge 5N,63,53,0,116,
-Mike Braun,U S Senate,,REP,Dubois,Bainbridge 5N,30,30,0,60,
-Luke Messer,U S Senate,,REP,Dubois,Bainbridge 5N,13,1,0,14,
-Todd Rokita,U S Senate,,REP,Dubois,Bainbridge 5N,8,5,0,13,
-Joe Donnelly,U S Senate,,DEM,Dubois,Bainbridge 5N,9,11,0,20,
-Larry D Bucshon,U S House,8,REP,Dubois,Bainbridge 5N,23,23,0,46,
-Rachel Covington,U S House,8,REP,Dubois,Bainbridge 5N,5,5,0,10,
-Richard Moss,U S House,8,REP,Dubois,Bainbridge 5N,22,8,0,30,
-William Tanoos,U S House,8,DEM,Dubois,Bainbridge 5N,9,7,0,16,
-Mark Messmer,State Senate,48,REP,Dubois,Bainbridge 5N,46,34,0,80,
-No Candidate Filed,State Senate,48,DEM,Dubois,Bainbridge 5N,0,0,0,0,
-Shane M Lindauer,State Representative,63,REP,Dubois,Bainbridge 5N,45,30,0,75,
-"Joseph ""Joe"" Lannan",State Representative,63,DEM,Dubois,Bainbridge 5N,7,8,0,13,
-Dennis Tedrow,State Representative,63,DEM,Dubois,Bainbridge 5N,3,7,0,10,
-,Registered Voters,,,Dubois,Bainbridge 5S,,,,885,
-,Ballots Cast,,,Dubois,Bainbridge 5S,80,74,0,154,
-Mike Braun,U S Senate,,REP,Dubois,Bainbridge 5S,48,36,0,84,
-Luke Messer,U S Senate,,REP,Dubois,Bainbridge 5S,5,4,0,9,
-Todd Rokita,U S Senate,,REP,Dubois,Bainbridge 5S,3,1,0,4,
-Joe Donnelly,U S Senate,,DEM,Dubois,Bainbridge 5S,20,27,0,47,
-Larry D Bucshon,U S House,8,REP,Dubois,Bainbridge 5S,22,23,0,45,
-Rachel Covington,U S House,8,REP,Dubois,Bainbridge 5S,7,4,0,11,
-Richard Moss,U S House,8,REP,Dubois,Bainbridge 5S,26,13,0,39,
-William Tanoos,U S House,8,DEM,Dubois,Bainbridge 5S,15,21,0,36,
-Mark Messmer,State Senate,48,REP,Dubois,Bainbridge 5S,51,39,0,90,
-No Candidate Filed,State Senate,48,DEM,Dubois,Bainbridge 5S,0,0,0,0,
-Shane M Lindauer,State Representative,63,REP,Dubois,Bainbridge 5S,47,36,0,83,
-"Joseph ""Joe"" Lannan",State Representative,63,DEM,Dubois,Bainbridge 5S,19,13,0,32,
-Dennis Tedrow,State Representative,63,DEM,Dubois,Bainbridge 5S,4,11,0,15,
-,Registered Voters,,,Dubois,Bainbridge 6N,,,,995,
-,Ballots Cast,,,Dubois,Bainbridge 6N,144,78,0,222,
-Mike Braun,U S Senate,,REP,Dubois,Bainbridge 6N,93,49,0,142,
-Luke Messer,U S Senate,,REP,Dubois,Bainbridge 6N,8,1,0,9,
-Todd Rokita,U S Senate,,REP,Dubois,Bainbridge 6N,6,4,0,10,
-Joe Donnelly,U S Senate,,DEM,Dubois,Bainbridge 6N,29,19,0,48,
-Larry D Bucshon,U S House,8,REP,Dubois,Bainbridge 6N,58,23,0,81,
-Rachel Covington,U S House,8,REP,Dubois,Bainbridge 6N,11,5,0,16,
-Richard Moss,U S House,8,REP,Dubois,Bainbridge 6N,33,23,0,56,
-William Tanoos,U S House,8,DEM,Dubois,Bainbridge 6N,25,15,0,40,
-Mark Messmer,State Senate,48,REP,Dubois,Bainbridge 6N,105,51,0,156,
-No Candidate Filed,State Senate,48,DEM,Dubois,Bainbridge 6N,0,0,0,0,
-Shane M Lindauer,State Representative,63,REP,Dubois,Bainbridge 6N,97,48,0,145,
-"Joseph ""Joe"" Lannan",State Representative,63,DEM,Dubois,Bainbridge 6N,20,20,0,40,
-Dennis Tedrow,State Representative,63,DEM,Dubois,Bainbridge 6N,10,3,0,13,
-,Registered Voters,,,Dubois,Bainbridge 6S,,,,1059,
-,Ballots Cast,,,Dubois,Bainbridge 6S,138,154,0,292,
-Mike Braun,U S Senate,,REP,Dubois,Bainbridge 6S,105,85,0,190,
-Luke Messer,U S Senate,,REP,Dubois,Bainbridge 6S,5,4,0,9,
-Todd Rokita,U S Senate,,REP,Dubois,Bainbridge 6S,3,9,0,12,
-Joe Donnelly,U S Senate,,DEM,Dubois,Bainbridge 6S,19,43,0,62,
-Larry D Bucshon,U S House,8,REP,Dubois,Bainbridge 6S,45,59,0,104,
-Rachel Covington,U S House,8,REP,Dubois,Bainbridge 6S,13,6,0,19,
-Richard Moss,U S House,8,REP,Dubois,Bainbridge 6S,47,29,0,76,
-William Tanoos,U S House,8,DEM,Dubois,Bainbridge 6S,17,31,0,48,
-Mark Messmer,State Senate,48,REP,Dubois,Bainbridge 6S,99,92,0,191,
-No Candidate Filed,State Senate,48,DEM,Dubois,Bainbridge 6S,0,0,0,0,
-Shane M Lindauer,State Representative,63,REP,Dubois,Bainbridge 6S,98,91,0,189,
-"Joseph ""Joe"" Lannan",State Representative,63,DEM,Dubois,Bainbridge 6S,14,27,0,41,
-Dennis Tedrow,State Representative,63,DEM,Dubois,Bainbridge 6S,7,14,0,21,
-,Registered Voters,,,Dubois,Jackson 1,,,,741,
-,Ballots Cast,,,Dubois,Jackson 1,116,32,0,148,
-Mike Braun,U S Senate,,REP,Dubois,Jackson 1,49,14,0,63,
-Luke Messer,U S Senate,,REP,Dubois,Jackson 1,9,2,0,11,
-Todd Rokita,U S Senate,,REP,Dubois,Jackson 1,5,2,0,7,
-Joe Donnelly,U S Senate,,DEM,Dubois,Jackson 1,46,10,0,56,
-Larry D Bucshon,U S House,8,REP,Dubois,Jackson 1,28,9,0,37,
-Rachel Covington,U S House,8,REP,Dubois,Jackson 1,8,2,0,10,
-Richard Moss,U S House,8,REP,Dubois,Jackson 1,25,7,0,32,
-William Tanoos,U S House,8,DEM,Dubois,Jackson 1,32,7,0,39,
-Erin Houchin,State Senate,47,REP,Dubois,Jackson 1,51,16,0,67,
-Nicholas A (Nick) Siler,State Senate,47,DEM,Dubois,Jackson 1,33,8,0,41,
-Stephen R Bartels,State Representative,74,REP,Dubois,Jackson 1,51,16,0,67,
-Larry D Bucshon,State Representative,74,DEM,Dubois,Jackson 1,41,9,0,50,
-,Registered Voters,,,Dubois,Jackson 2,,,,895,
-,Ballots Cast,,,Dubois,Jackson 2,127,38,0,165,
-Mike Braun,U S Senate,,REP,Dubois,Jackson 2,68,24,0,92,
-Luke Messer,U S Senate,,REP,Dubois,Jackson 2,10,1,0,11,
-Todd Rokita,U S Senate,,REP,Dubois,Jackson 2,5,1,0,6,
-Joe Donnelly,U S Senate,,DEM,Dubois,Jackson 2,37,10,0,47,
-Larry D Bucshon,U S House,8,REP,Dubois,Jackson 2,39,17,0,56,
-Rachel Covington,U S House,8,REP,Dubois,Jackson 2,10,3,0,13,
-Richard Moss,U S House,8,REP,Dubois,Jackson 2,31,5,0,36,
-William Tanoos,U S House,8,DEM,Dubois,Jackson 2,33,6,0,39,
-Erin Houchin,State Senate,47,REP,Dubois,Jackson 2,67,20,0,87,
-Nicholas A (Nick) Siler,State Senate,47,DEM,Dubois,Jackson 2,36,7,0,43,
-Stephen R Bartels,State Representative,74,REP,Dubois,Jackson 2,67,21,0,88,
-Larry K Kleeman,State Representative,74,DEM,Dubois,Jackson 2,34,9,0,43,
-,Registered Voters,,,Dubois,Jefferson 1,,,,781,
-,Ballots Cast,,,Dubois,Jefferson 1,53,54,0,107,
-Mike Braun,U S Senate,,REP,Dubois,Jefferson 1,20,22,0,42,
-Luke Messer,U S Senate,,REP,Dubois,Jefferson 1,4,3,0,7,
-Todd Rokita,U S Senate,,REP,Dubois,Jefferson 1,4,3,0,7,
-Joe Donnelly,U S Senate,,DEM,Dubois,Jefferson 1,22,19,0,41,
-Larry D Bucshon,U S House,8,REP,Dubois,Jefferson 1,12,11,0,23,
-Rachel Covington,U S House,8,REP,Dubois,Jefferson 1,3,3,0,6,
-Richard Moss,U S House,8,REP,Dubois,Jefferson 1,13,14,0,27,
-William Tanoos,U S House,8,DEM,Dubois,Jefferson 1,17,14,0,31,
-Erin Houchin,State Senate,47,REP,Dubois,Jefferson 1,26,23,0,49,
-Nicholas A (Nick) Siler,State Senate,47,DEM,Dubois,Jefferson 1,19,15,0,34,
-Stephen R Bartels,State Representative,74,REP,Dubois,Jefferson 1,22,21,0,43,
-Larry K Kleeman,State Representative,74,DEM,Dubois,Jefferson 1,20,19,0,39,
-,Registered Voters,,,Dubois,Jefferson 2,,,,255,
-,Ballots Cast,,,Dubois,Jefferson 2,10,89,0,99,
-Mike Braun,U S Senate,,REP,Dubois,Jefferson 2,2,13,0,15,
-Luke Messer,U S Senate,,REP,Dubois,Jefferson 2,0,6,0,6,
-Todd Rokita,U S Senate,,REP,Dubois,Jefferson 2,1,0,0,1,
-Joe Donnelly,U S Senate,,DEM,Dubois,Jefferson 2,7,41,0,48,
-Larry D Bucshon,U S House,8,REP,Dubois,Jefferson 2,0,3,0,3,
-Rachel Covington,U S House,8,REP,Dubois,Jefferson 2,0,4,0,4,
-Richard Moss,U S House,8,REP,Dubois,Jefferson 2,3,12,0,15,
-William Tanoos,U S House,8,DEM,Dubois,Jefferson 2,5,40,0,45,
-Erin Houchin,State Senate,47,REP,Dubois,Jefferson 2,3,20,0,23,
-Nicholas A (Nick) Siler,State Senate,47,DEM,Dubois,Jefferson 2,5,43,0,48,
-Stephen R Bartels,State Representative,74,REP,Dubois,Jefferson 2,3,18,0,21,
-Larry K Kleeman,State Representative,74,DEM,Dubois,Jefferson 2,6,53,0,59,
-,Registered Voters,,,Dubois,Madison 1,,,,575,
-,Ballots Cast,,,Dubois,Madison 1,101,24,0,125,
-Mike Braun,U S Senate,,REP,Dubois,Madison 1,70,18,0,88,
-Luke Messer,U S Senate,,REP,Dubois,Madison 1,6,2,0,8,
-Todd Rokita,U S Senate,,REP,Dubois,Madison 1,2,0,0,2,
-Joe Donnelly,U S Senate,,DEM,Dubois,Madison 1,12,3,0,15,
-Larry D Bucshon,U S House,8,REP,Dubois,Madison 1,34,8,0,42,
-Rachel Covington,U S House,8,REP,Dubois,Madison 1,12,0,0,12,
-Richard Moss,U S House,8,REP,Dubois,Madison 1,28,8,0,36,
-William Tanoos,U S House,8,DEM,Dubois,Madison 1,10,2,0,12,
-Mark Messmer,State Senate,48,REP,Dubois,Madison 1,70,19,0,89,
-No Candidate Filed,State Senate,48,DEM,Dubois,Madison 1,0,0,0,0,
-Shane M Lindauer,State Representative,63,REP,Dubois,Madison 1,70,18,0,88,
-"Joseph ""Joe"" Lannan",State Representative,63,DEM,Dubois,Madison 1,12,2,0,14,
-Dennis Tedrow,State Representative,63,DEM,Dubois,Madison 1,7,2,0,9,
-,Registered Voters,,,Dubois,Madison 2,,,,1081,
-,Ballots Cast,,,Dubois,Madison 2,149,72,0,221,
-Mike Braun,U S Senate,,REP,Dubois,Madison 2,94,39,0,133,
-Luke Messer,U S Senate,,REP,Dubois,Madison 2,3,2,0,5,
-Todd Rokita,U S Senate,,REP,Dubois,Madison 2,7,0,0,7,
-Joe Donnelly,U S Senate,,DEM,Dubois,Madison 2,32,27,0,59,
-Larry D Bucshon,U S House,8,REP,Dubois,Madison 2,46,20,0,66,
-Rachel Covington,U S House,8,REP,Dubois,Madison 2,12,6,0,18,
-Richard Moss,U S House,8,REP,Dubois,Madison 2,42,12,0,54,
-William Tanoos,U S House,8,DEM,Dubois,Madison 2,24,19,0,43,
-Mark Messmer,State Senate,48,REP,Dubois,Madison 2,99,40,0,139,
-No Candidate Filed,State Senate,48,DEM,Dubois,Madison 2,0,0,0,0,
-Shane M Lindauer,State Representative,63,REP,Dubois,Madison 2,95,39,0,134,
-"Joseph ""Joe"" Lannan",State Representative,63,DEM,Dubois,Madison 2,23,22,0,45,
-Dennis Tedrow,State Representative,63,DEM,Dubois,Madison 2,14,2,0,16,
-,Registered Voters,,,Dubois,Madison-Jasper North,,,,414,
-,Ballots Cast,,,Dubois,Madison-Jasper North,73,20,0,93,
-Mike Braun,U S Senate,,REP,Dubois,Madison-Jasper North,65,19,0,84,
-Luke Messer,U S Senate,,REP,Dubois,Madison-Jasper North,2,0,0,2,
-Todd Rokita,U S Senate,,REP,Dubois,Madison-Jasper North,0,1,0,1,
-Joe Donnelly,U S Senate,,DEM,Dubois,Madison-Jasper North,4,0,0,4,
-Larry D Bucshon,U S House,8,REP,Dubois,Madison-Jasper North,33,15,0,48,
-Rachel Covington,U S House,8,REP,Dubois,Madison-Jasper North,3,2,0,5,
-Richard Moss,U S House,8,REP,Dubois,Madison-Jasper North,30,3,0,33,
-William Tanoos,U S House,8,DEM,Dubois,Madison-Jasper North,4,0,0,4,
-Mark Messmer,State Senate,48,REP,Dubois,Madison-Jasper North,64,20,0,84,
-No Candidate Filed,State Senate,48,DEM,Dubois,Madison-Jasper North,0,0,0,0,
-Shane M Lindauer,State Representative,63,REP,Dubois,Madison-Jasper North,63,18,0,81,
-"Joseph ""Joe"" Lannan",State Representative,63,DEM,Dubois,Madison-Jasper North,1,0,0,1,
-Dennis Tedrow,State Representative,63,DEM,Dubois,Madison-Jasper North,3,0,0,3,
-,Registered Voters,,,Dubois,Madison-Jasper South,,,,91,
-,Ballots Cast,,,Dubois,Madison-Jasper South,9,5,0,14,
-Mike Braun,U S Senate,,REP,Dubois,Madison-Jasper South,5,4,0,9,
-Luke Messer,U S Senate,,REP,Dubois,Madison-Jasper South,0,0,0,0,
-Todd Rokita,U S Senate,,REP,Dubois,Madison-Jasper South,0,0,0,0,
-Joe Donnelly,U S Senate,,DEM,Dubois,Madison-Jasper South,2,1,0,3,
-Larry D Bucshon,U S House,8,REP,Dubois,Madison-Jasper South,2,1,0,3,
-Rachel Covington,U S House,8,REP,Dubois,Madison-Jasper South,0,0,0,0,
-Richard Moss,U S House,8,REP,Dubois,Madison-Jasper South,2,3,0,5,
-William Tanoos,U S House,8,DEM,Dubois,Madison-Jasper South,2,0,0,2,
-Mark Messmer,State Senate,48,REP,Dubois,Madison-Jasper South,5,4,0,9,
-No Candidate Filed,State Senate,48,DEM,Dubois,Madison-Jasper South,0,0,0,0,
-Shane M Lindauer,State Representative,63,REP,Dubois,Madison-Jasper South,5,3,0,8,
-"Joseph ""Joe"" Lannan",State Representative,63,DEM,Dubois,Madison-Jasper South,3,1,0,4,
-Dennis Tedrow,State Representative,63,DEM,Dubois,Madison-Jasper South,0,0,0,0,
-,Registered Voters,,,Dubois,Marion 1,,,,282,
-,Ballots Cast,,,Dubois,Marion 1,41,11,0,52,
-Mike Braun,U S Senate,,REP,Dubois,Marion 1,22,5,0,27,
-Luke Messer,U S Senate,,REP,Dubois,Marion 1,1,0,0,1,
-Todd Rokita,U S Senate,,REP,Dubois,Marion 1,3,2,0,5,
-Joe Donnelly,U S Senate,,DEM,Dubois,Marion 1,11,3,0,14,
-Larry D Bucshon,U S House,8,REP,Dubois,Marion 1,18,5,0,23,
-Rachel Covington,U S House,8,REP,Dubois,Marion 1,0,0,0,0,
-Richard Moss,U S House,8,REP,Dubois,Marion 1,9,2,0,11,
-William Tanoos,U S House,8,DEM,Dubois,Marion 1,9,3,0,12,
-Erin Houchin,State Senate,47,REP,Dubois,Marion 1,26,6,0,32,
-Nicholas A (Nick) Siler,State Senate,47,DEM,Dubois,Marion 1,9,2,0,11,
-Shane M Lindauer,State Representative,63,REP,Dubois,Marion 1,26,7,0,33,
-"Joseph ""Joe"" Lannan",State Representative,63,DEM,Dubois,Marion 1,9,2,0,11,
-Dennis Tedrow,State Representative,63,DEM,Dubois,Marion 1,5,1,0,6,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
+candidate,office,district,party,county,precinct,election_day,absentee,provisional,votes
+,Registered Voters,,,Dubois,Marion 2,,,,755
+,Ballots Cast,,,Dubois,Marion 2,104,58,0,162
+Mike Braun,U S Senate,,REP,Dubois,Marion 2,55,24,0,79
+Luke Messer,U S Senate,,REP,Dubois,Marion 2,8,5,0,13
+Todd Rokita,U S Senate,,REP,Dubois,Marion 2,3,5,0,8
+Joe Donnelly,U S Senate,,DEM,Dubois,Marion 2,28,20,0,48
+Larry D Bucshon,U S House,8,REP,Dubois,Marion 2,17,18,0,35
+Rachel Covington,U S House,8,REP,Dubois,Marion 2,10,2,0,12
+Richard Moss,U S House,8,REP,Dubois,Marion 2,32,12,0,44
+William Tanoos,U S House,8,DEM,Dubois,Marion 2,24,15,0,39
+Erin Houchin,State Senate,47,REP,Dubois,Marion 2,46,31,0,77
+Nicholas A (Nick) Siler,State Senate,47,DEM,Dubois,Marion 2,28,17,0,45
+Shane M Lindauer,State Representative,63,REP,Dubois,Marion 2,44,30,0,74
+"Joseph ""Joe"" Lannan",State Representative,63,DEM,Dubois,Marion 2,29,11,0,40
+Dennis Tedrow,State Representative,63,DEM,Dubois,Marion 2,6,9,0,15
+,Registered Voters,,,Dubois,Patoka 1,,,,946
+,Ballots Cast,,,Dubois,Patoka 1,118,22,0,140
+Mike Braun,U S Senate,,REP,Dubois,Patoka 1,71,11,0,82
+Luke Messer,U S Senate,,REP,Dubois,Patoka 1,13,2,0,15
+Todd Rokita,U S Senate,,REP,Dubois,Patoka 1,15,3,0,18
+Joe Donnelly,U S Senate,,DEM,Dubois,Patoka 1,16,4,0,20
+Larry D Bucshon,U S House,8,REP,Dubois,Patoka 1,51,8,0,59
+Rachel Covington,U S House,8,REP,Dubois,Patoka 1,6,1,0,7
+Richard Moss,U S House,8,REP,Dubois,Patoka 1,41,7,0,48
+William Tanoos,U S House,8,DEM,Dubois,Patoka 1,16,5,0,21
+Mark Messmer,State Senate,48,REP,Dubois,Patoka 1,94,13,0,107
+No Candidate Filed,State Senate,48,DEM,Dubois,Patoka 1,0,0,0,0
+Stephen R Bartels,State Representative,74,REP,Dubois,Patoka 1,89,10,0,99
+Larry K Kleeman,State Representative,74,DEM,Dubois,Patoka 1,17,5,0,22
+,Registered Voters,,,Dubois,Patoka 2,,,,856
+,Ballots Cast,,,Dubois,Patoka 2,94,21,0,115
+Mike Braun,U S Senate,,REP,Dubois,Patoka 2,44,11,0,55
+Luke Messer,U S Senate,,REP,Dubois,Patoka 2,14,4,0,18
+Todd Rokita,U S Senate,,REP,Dubois,Patoka 2,5,2,0,7
+Joe Donnelly,U S Senate,,DEM,Dubois,Patoka 2,29,3,0,32
+Larry D Bucshon,U S House,8,REP,Dubois,Patoka 2,26,8,0,34
+Rachel Covington,U S House,8,REP,Dubois,Patoka 2,6,3,0,9
+Richard Moss,U S House,8,REP,Dubois,Patoka 2,31,6,0,37
+William Tanoos,U S House,8,DEM,Dubois,Patoka 2,23,2,0,25
+Mark Messmer,State Senate,48,REP,Dubois,Patoka 2,60,17,0,77
+No Candidate Filed,State Senate,48,DEM,Dubois,Patoka 2,0,0,0,0
+Stephen R Bartels,State Representative,74,REP,Dubois,Patoka 2,57,16,0,73
+Larry K Kleeman,State Representative,74,DEM,Dubois,Patoka 2,26,4,0,30
+,Registered Voters,,,Dubois,Patoka 3,,,,899
+,Ballots Cast,,,Dubois,Patoka 3,86,25,0,111
+Mike Braun,U S Senate,,REP,Dubois,Patoka 3,48,10,0,58
+Luke Messer,U S Senate,,REP,Dubois,Patoka 3,14,5,0,19
+Todd Rokita,U S Senate,,REP,Dubois,Patoka 3,7,2,0,9
+Joe Donnelly,U S Senate,,DEM,Dubois,Patoka 3,13,7,0,20
+Larry D Bucshon,U S House,8,REP,Dubois,Patoka 3,27,9,0,36
+Rachel Covington,U S House,8,REP,Dubois,Patoka 3,4,2,0,6
+Richard Moss,U S House,8,REP,Dubois,Patoka 3,38,6,0,44
+William Tanoos,U S House,8,DEM,Dubois,Patoka 3,12,6,0,18
+Mark Messmer,State Senate,48,REP,Dubois,Patoka 3,65,15,0,80
+No Candidate Filed,State Senate,48,DEM,Dubois,Patoka 3,0,0,0,0
+Stephen R Bartels,State Representative,74,REP,Dubois,Patoka 3,59,16,0,75
+Larry K Kleeman,State Representative,74,DEM,Dubois,Patoka 3,13,8,0,21
+,Registered Voters,,,Dubois,Patoka 4,,,,780
+,Ballots Cast,,,Dubois,Patoka 4,55,14,0,69
+Mike Braun,U S Senate,,REP,Dubois,Patoka 4,26,2,0,28
+Luke Messer,U S Senate,,REP,Dubois,Patoka 4,7,1,0,8
+Todd Rokita,U S Senate,,REP,Dubois,Patoka 4,3,0,0,3
+Joe Donnelly,U S Senate,,DEM,Dubois,Patoka 4,18,8,0,26
+Larry D Bucshon,U S House,8,REP,Dubois,Patoka 4,21,1,0,22
+Rachel Covington,U S House,8,REP,Dubois,Patoka 4,1,0,0,1
+Richard Moss,U S House,8,REP,Dubois,Patoka 4,14,2,0,16
+William Tanoos,U S House,8,DEM,Dubois,Patoka 4,17,5,0,22
+Mark Messmer,State Senate,48,REP,Dubois,Patoka 4,33,3,0,36
+No Candidate Filed,State Senate,48,DEM,Dubois,Patoka 4,0,0,0,0
+Stephen R Bartels,State Representative,74,REP,Dubois,Patoka 4,32,3,0,35
+Larry K Kleeman,State Representative,74,DEM,Dubois,Patoka 4,19,7,0,26
+,Registered Voters,,,Dubois,Patoka 5,,,,347
+,Ballots Cast,,,Dubois,Patoka 5,39,12,0,51
+Mike Braun,U S Senate,,REP,Dubois,Patoka 5,22,5,0,27
+Luke Messer,U S Senate,,REP,Dubois,Patoka 5,0,4,0,4
+Todd Rokita,U S Senate,,REP,Dubois,Patoka 5,6,1,0,7
+Joe Donnelly,U S Senate,,DEM,Dubois,Patoka 5,7,1,0,8
+Larry D Bucshon,U S House,8,REP,Dubois,Patoka 5,20,7,0,27
+Rachel Covington,U S House,8,REP,Dubois,Patoka 5,2,3,0,5
+Richard Moss,U S House,8,REP,Dubois,Patoka 5,6,0,0,6
+William Tanoos,U S House,8,DEM,Dubois,Patoka 5,6,0,0,6
+Mark Messmer,State Senate,48,REP,Dubois,Patoka 5,27,8,0,35
+No Candidate Filed,State Senate,48,DEM,Dubois,Patoka 5,0,0,0,0
+Stephen R Bartels,State Representative,74,REP,Dubois,Patoka 5,24,6,0,30
+Larry K Kleeman,State Representative,74,DEM,Dubois,Patoka 5,7,0,0,7
+,Registered Voters,,,Dubois,Patoka 6,,,,765
+,Ballots Cast,,,Dubois,Patoka 6,77,24,0,101
+Mike Braun,U S Senate,,REP,Dubois,Patoka 6,51,14,0,65
+Luke Messer,U S Senate,,REP,Dubois,Patoka 6,3,1,0,4
+Todd Rokita,U S Senate,,REP,Dubois,Patoka 6,12,1,0,13
+Joe Donnelly,U S Senate,,DEM,Dubois,Patoka 6,7,8,0,15
+Larry D Bucshon,U S House,8,REP,Dubois,Patoka 6,31,7,0,38
+Rachel Covington,U S House,8,REP,Dubois,Patoka 6,10,2,0,12
+Richard Moss,U S House,8,REP,Dubois,Patoka 6,27,6,0,33
+William Tanoos,U S House,8,DEM,Dubois,Patoka 6,7,5,0,12
+Mark Messmer,State Senate,48,REP,Dubois,Patoka 6,68,15,0,83
+No Candidate Filed,State Senate,48,DEM,Dubois,Patoka 6,0,0,0,0
+Stephen R Bartels,State Representative,74,REP,Dubois,Patoka 6,63,13,0,76
+Larry K Kleeman,State Representative,74,DEM,Dubois,Patoka 6,8,5,0,13
+,Registered Voters,,,Dubois,Boone-Jasper,,,,78
+,Ballots Cast,,,Dubois,Boone-Jasper,11,6,0,17
+Mike Braun,U S Senate,,REP,Dubois,Boone-Jasper,4,2,0,6
+Luke Messer,U S Senate,,REP,Dubois,Boone-Jasper,0,2,0,2
+Todd Rokita,U S Senate,,REP,Dubois,Boone-Jasper,2,0,0,2
+Joe Donnelly,U S Senate,,DEM,Dubois,Boone-Jasper,4,2,0,6
+Larry D Bucshon,U S House,8,REP,Dubois,Boone-Jasper,2,3,0,5
+Rachel Covington,U S House,8,REP,Dubois,Boone-Jasper,1,0,0,1
+Richard Moss,U S House,8,REP,Dubois,Boone-Jasper,2,1,0,3
+William Tanoos,U S House,8,DEM,Dubois,Boone-Jasper,4,1,0,5
+Mark Messmer,State Senate,48,REP,Dubois,Boone-Jasper,5,4,0,9
+No Candidate Filed,State Senate,48,DEM,Dubois,Boone-Jasper,0,0,0,0
+Shane M Lindauer,State Representative,63,REP,Dubois,Boone-Jasper,6,4,0,10
+"Joseph ""Joe"" Lannan",State Representative,63,DEM,Dubois,Boone-Jasper,5,2,0,7
+Dennis Tedrow,State Representative,63,DEM,Dubois,Boone-Jasper,0,0,0,0
+,Registered Voters,,,Dubois,Bainbridge 6S,,,,1059
+,Ballots Cast,,,Dubois,Bainbridge 6S,138,154,0,292
+Mike Braun,U S Senate,,REP,Dubois,Bainbridge 6S,105,85,0,190
+Luke Messer,U S Senate,,REP,Dubois,Bainbridge 6S,5,4,0,9
+Todd Rokita,U S Senate,,REP,Dubois,Bainbridge 6S,3,9,0,12
+Joe Donnelly,U S Senate,,DEM,Dubois,Bainbridge 6S,19,43,0,62
+Larry D Bucshon,U S House,8,REP,Dubois,Bainbridge 6S,45,59,0,104
+Rachel Covington,U S House,8,REP,Dubois,Bainbridge 6S,13,6,0,19
+Richard Moss,U S House,8,REP,Dubois,Bainbridge 6S,47,29,0,76
+William Tanoos,U S House,8,DEM,Dubois,Bainbridge 6S,17,31,0,48
+Mark Messmer,State Senate,48,REP,Dubois,Bainbridge 6S,99,92,0,191
+No Candidate Filed,State Senate,48,DEM,Dubois,Bainbridge 6S,0,0,0,0
+Shane M Lindauer,State Representative,63,REP,Dubois,Bainbridge 6S,98,91,0,189
+"Joseph ""Joe"" Lannan",State Representative,63,DEM,Dubois,Bainbridge 6S,14,27,0,41
+Dennis Tedrow,State Representative,63,DEM,Dubois,Bainbridge 6S,7,14,0,21
+,Registered Voters,,,Dubois,Bainbridge 7,,,,704
+,Ballots Cast,,,Dubois,Bainbridge 7,91,64,0,155
+Mike Braun,U S Senate,,REP,Dubois,Bainbridge 7,58,38,0,96
+Luke Messer,U S Senate,,REP,Dubois,Bainbridge 7,3,5,0,8
+Todd Rokita,U S Senate,,REP,Dubois,Bainbridge 7,3,0,0,3
+Joe Donnelly,U S Senate,,DEM,Dubois,Bainbridge 7,24,15,0,39
+Larry D Bucshon,U S House,8,REP,Dubois,Bainbridge 7,26,23,0,49
+Rachel Covington,U S House,8,REP,Dubois,Bainbridge 7,7,7,0,14
+Richard Moss,U S House,8,REP,Dubois,Bainbridge 7,27,11,0,38
+William Tanoos,U S House,8,DEM,Dubois,Bainbridge 7,20,14,0,34
+Mark Messmer,State Senate,48,REP,Dubois,Bainbridge 7,64,42,0,106
+No Candidate Filed,State Senate,48,DEM,Dubois,Bainbridge 7,0,0,0,0
+Shane M Lindauer,State Representative,63,REP,Dubois,Bainbridge 7,56,39,0,94
+"Joseph ""Joe"" Lannan",State Representative,63,DEM,Dubois,Bainbridge 7,18,8,0,26
+Dennis Tedrow,State Representative,63,DEM,Dubois,Bainbridge 7,8,11,0,19
+,Registered Voters,,,Dubois,Boone 1,,,,570
+,Ballots Cast,,,Dubois,Boone 1,67,59,0,126
+Mike Braun,U S Senate,,REP,Dubois,Boone 1,42,39,0,81
+Luke Messer,U S Senate,,REP,Dubois,Boone 1,5,1,0,6
+Todd Rokita,U S Senate,,REP,Dubois,Boone 1,1,3,0,4
+Joe Donnelly,U S Senate,,DEM,Dubois,Boone 1,14,13,0,27
+Larry D Bucshon,U S House,8,REP,Dubois,Boone 1,18,23,0,41
+Rachel Covington,U S House,8,REP,Dubois,Boone 1,3,1,0,4
+Richard Moss,U S House,8,REP,Dubois,Boone 1,25,16,0,41
+William Tanoos,U S House,8,DEM,Dubois,Boone 1,12,13,0,25
+Mark Messmer,State Senate,48,REP,Dubois,Boone 1,41,38,0,79
+No Candidate Filed,State Senate,48,DEM,Dubois,Boone 1,0,0,0,0
+Shane M Lindauer,State Representative,63,REP,Dubois,Boone 1,41,39,0,80
+"Joseph ""Joe"" Lannan",State Representative,63,DEM,Dubois,Boone 1,8,11,0,19
+Dennis Tedrow,State Representative,63,DEM,Dubois,Boone 1,7,3,0,10
+,Registered Voters,,,Dubois,Cass 1,,,,434
+,Ballots Cast,,,Dubois,Cass 1,66,4,0,70
+Mike Braun,U S Senate,,REP,Dubois,Cass 1,36,4,0,40
+Luke Messer,U S Senate,,REP,Dubois,Cass 1,8,0,0,8
+Todd Rokita,U S Senate,,REP,Dubois,Cass 1,6,0,0,6
+Joe Donnelly,U S Senate,,DEM,Dubois,Cass 1,10,0,0,10
+Larry D Bucshon,U S House,8,REP,Dubois,Cass 1,23,2,0,25
+Rachel Covington,U S House,8,REP,Dubois,Cass 1,3,0,0,3
+Richard Moss,U S House,8,REP,Dubois,Cass 1,23,2,0,25
+William Tanoos,U S House,8,DEM,Dubois,Cass 1,8,0,0,8
+Mark Messmer,State Senate,48,REP,Dubois,Cass 1,47,4,0,51
+No Candidate Filed,State Senate,48,DEM,Dubois,Cass 1,0,0,0,0
+Stephen R Bartels,State Representative,74,REP,Dubois,Cass 1,44,3,0,47
+Larry K Kleeman,State Representative,74,DEM,Dubois,Cass 1,9,0,0,9
+,Registered Voters,,,Dubois,Cass 2,,,,499
+,Ballots Cast,,,Dubois,Cass 2,33,14,0,47
+Mike Braun,U S Senate,,REP,Dubois,Cass 2,18,6,0,24
+Luke Messer,U S Senate,,REP,Dubois,Cass 2,1,0,0,1
+Todd Rokita,U S Senate,,REP,Dubois,Cass 2,6,0,0,6
+Joe Donnelly,U S Senate,,DEM,Dubois,Cass 2,7,7,0,14
+Larry D Bucshon,U S House,8,REP,Dubois,Cass 2,13,5,0,18
+Rachel Covington,U S House,8,REP,Dubois,Cass 2,1,0,0,1
+Richard Moss,U S House,8,REP,Dubois,Cass 2,9,0,0,9
+William Tanoos,U S House,8,DEM,Dubois,Cass 2,5,7,0,12
+Mark Messmer,State Senate,48,REP,Dubois,Cass 2,22,5,0,27
+No Candidate Filed,State Senate,48,DEM,Dubois,Cass 2,0,0,0,0
+Stephen R Bartels,State Representative,74,REP,Dubois,Cass 2,22,2,0,24
+Larry K Kleeman,State Representative,74,DEM,Dubois,Cass 2,6,7,0,13
+,Registered Voters,,,Dubois,Cass 3,,,,626
+,Ballots Cast,,,Dubois,Cass 3,97,13,0,110
+Mike Braun,U S Senate,,REP,Dubois,Cass 3,57,7,0,64
+Luke Messer,U S Senate,,REP,Dubois,Cass 3,10,1,0,11
+Todd Rokita,U S Senate,,REP,Dubois,Cass 3,2,0,0,2
+Joe Donnelly,U S Senate,,DEM,Dubois,Cass 3,25,5,0,30
+Larry D Bucshon,U S House,8,REP,Dubois,Cass 3,34,6,0,40
+Rachel Covington,U S House,8,REP,Dubois,Cass 3,7,1,0,8
+Richard Moss,U S House,8,REP,Dubois,Cass 3,27,1,0,28
+William Tanoos,U S House,8,DEM,Dubois,Cass 3,23,5,0,28
+Mark Messmer,State Senate,48,REP,Dubois,Cass 3,61,8,0,69
+No Candidate Filed,State Senate,48,DEM,Dubois,Cass 3,0,0,0,0
+Stephen R Bartels,State Representative,74,REP,Dubois,Cass 3,50,7,0,57
+Larry K Kleeman,State Representative,74,DEM,Dubois,Cass 3,26,4,0,30
+,Registered Voters,,,Dubois,Columbia 1,,,,747
+,Ballots Cast,,,Dubois,Columbia 1,73,39,0,112
+Mike Braun,U S Senate,,REP,Dubois,Columbia 1,48,25,0,73
+Luke Messer,U S Senate,,REP,Dubois,Columbia 1,7,2,0,9
+Todd Rokita,U S Senate,,REP,Dubois,Columbia 1,0,0,0,0
+Joe Donnelly,U S Senate,,DEM,Dubois,Columbia 1,16,9,0,25
+Larry D Bucshon,U S House,8,REP,Dubois,Columbia 1,22,6,0,28
+Rachel Covington,U S House,8,REP,Dubois,Columbia 1,4,8,0,12
+Richard Moss,U S House,8,REP,Dubois,Columbia 1,25,13,0,38
+William Tanoos,U S House,8,DEM,Dubois,Columbia 1,15,7,0,22
+Erin Houchin,State Senate,47,REP,Dubois,Columbia 1,45,23,0,68
+Nicholas A (Nick) Siler,State Senate,47,DEM,Dubois,Columbia 1,15,7,0,22
+Shane M Lindauer,State Representative,63,REP,Dubois,Columbia 1,46,25,0,71
+"Joseph ""Joe"" Lannan",State Representative,63,DEM,Dubois,Columbia 1,12,7,0,19
+Dennis Tedrow,State Representative,63,DEM,Dubois,Columbia 1,3,2,0,5
+,Registered Voters,,,Dubois,Ferdinand 1,,,,910
+,Ballots Cast,,,Dubois,Ferdinand 1,133,44,0,177
+Mike Braun,U S Senate,,REP,Dubois,Ferdinand 1,51,13,0,64
+Luke Messer,U S Senate,,REP,Dubois,Ferdinand 1,8,1,0,9
+Todd Rokita,U S Senate,,REP,Dubois,Ferdinand 1,4,0,0,4
+Joe Donnelly,U S Senate,,DEM,Dubois,Ferdinand 1,60,25,0,85
+Larry D Bucshon,U S House,8,REP,Dubois,Ferdinand 1,38,6,0,44
+Rachel Covington,U S House,8,REP,Dubois,Ferdinand 1,6,2,0,8
+Richard Moss,U S House,8,REP,Dubois,Ferdinand 1,16,6,0,22
+William Tanoos,U S House,8,DEM,Dubois,Ferdinand 1,50,24,0,74
+Erin Houchin,State Senate,47,REP,Dubois,Ferdinand 1,48,11,0,59
+Nicholas A (Nick) Siler,State Senate,47,DEM,Dubois,Ferdinand 1,52,24,0,76
+Stephen R Bartels,State Representative,74,REP,Dubois,Ferdinand 1,46,11,0,57
+Larry K Kleeman,State Representative,74,DEM,Dubois,Ferdinand 1,60,27,0,87
+,Registered Voters,,,Dubois,Ferdinand 2,,,,676
+,Ballots Cast,,,Dubois,Ferdinand 2,75,32,0,107
+Mike Braun,U S Senate,,REP,Dubois,Ferdinand 2,31,8,0,39
+Luke Messer,U S Senate,,REP,Dubois,Ferdinand 2,6,2,0,8
+Todd Rokita,U S Senate,,REP,Dubois,Ferdinand 2,7,2,0,9
+Joe Donnelly,U S Senate,,DEM,Dubois,Ferdinand 2,27,18,0,45
+Larry D Bucshon,U S House,8,REP,Dubois,Ferdinand 2,16,7,0,23
+Rachel Covington,U S House,8,REP,Dubois,Ferdinand 2,1,0,0,1
+Richard Moss,U S House,8,REP,Dubois,Ferdinand 2,26,4,0,30
+William Tanoos,U S House,8,DEM,Dubois,Ferdinand 2,23,16,0,39
+Erin Houchin,State Senate,47,REP,Dubois,Ferdinand 2,38,9,0,47
+Nicholas A (Nick) Siler,State Senate,47,DEM,Dubois,Ferdinand 2,23,17,0,40
+Stephen R Bartels,State Representative,74,REP,Dubois,Ferdinand 2,35,6,0,41
+Larry K Kleeman,State Representative,74,DEM,Dubois,Ferdinand 2,22,18,0,40
+,Registered Voters,,,Dubois,Ferdinand 3,,,,1120
+,Ballots Cast,,,Dubois,Ferdinand 3,102,25,0,127
+Mike Braun,U S Senate,,REP,Dubois,Ferdinand 3,58,9,0,67
+Luke Messer,U S Senate,,REP,Dubois,Ferdinand 3,9,1,0,10
+Todd Rokita,U S Senate,,REP,Dubois,Ferdinand 3,8,1,0,9
+Joe Donnelly,U S Senate,,DEM,Dubois,Ferdinand 3,22,11,0,33
+Larry D Bucshon,U S House,8,REP,Dubois,Ferdinand 3,42,6,0,48
+Rachel Covington,U S House,8,REP,Dubois,Ferdinand 3,5,2,0,7
+Richard Moss,U S House,8,REP,Dubois,Ferdinand 3,28,3,0,31
+William Tanoos,U S House,8,DEM,Dubois,Ferdinand 3,18,10,0,28
+Erin Houchin,State Senate,47,REP,Dubois,Ferdinand 3,63,9,0,72
+Nicholas A (Nick) Siler,State Senate,47,DEM,Dubois,Ferdinand 3,20,10,0,30
+Stephen R Bartels,State Representative,74,REP,Dubois,Ferdinand 3,64,8,0,72
+Larry K Kleeman,State Representative,74,DEM,Dubois,Ferdinand 3,22,11,0,33
+,Registered Voters,,,Dubois,Hall 1,,,,913
+,Ballots Cast,,,Dubois,Hall 1,155,41,0,196
+Mike Braun,U S Senate,,REP,Dubois,Hall 1,81,16,0,97
+Luke Messer,U S Senate,,REP,Dubois,Hall 1,6,0,0,6
+Todd Rokita,U S Senate,,REP,Dubois,Hall 1,2,0,0,2
+Joe Donnelly,U S Senate,,DEM,Dubois,Hall 1,50,17,0,67
+Larry D Bucshon,U S House,8,REP,Dubois,Hall 1,35,6,0,41
+Rachel Covington,U S House,8,REP,Dubois,Hall 1,12,3,0,15
+Richard Moss,U S House,8,REP,Dubois,Hall 1,40,6,0,46
+William Tanoos,U S House,8,DEM,Dubois,Hall 1,43,19,0,62
+Erin Houchin,State Senate,47,REP,Dubois,Hall 1,80,14,0,94
+Nicholas A (Nick) Siler,State Senate,47,DEM,Dubois,Hall 1,42,20,0,62
+Shane M Lindauer,State Representative,63,REP,Dubois,Hall 1,80,14,0,94
+"Joseph ""Joe"" Lannan",State Representative,63,DEM,Dubois,Hall 1,38,14,0,52
+Dennis Tedrow,State Representative,63,DEM,Dubois,Hall 1,17,9,0,26
+,Registered Voters,,,Dubois,Harbison 1,,,,588
+,Ballots Cast,,,Dubois,Harbison 1,77,63,0,140
+Mike Braun,U S Senate,,REP,Dubois,Harbison 1,47,48,0,95
+Luke Messer,U S Senate,,REP,Dubois,Harbison 1,7,2,0,9
+Todd Rokita,U S Senate,,REP,Dubois,Harbison 1,4,7,0,11
+Joe Donnelly,U S Senate,,DEM,Dubois,Harbison 1,16,4,0,20
+Larry D Bucshon,U S House,8,REP,Dubois,Harbison 1,31,31,0,62
+Rachel Covington,U S House,8,REP,Dubois,Harbison 1,8,6,0,14
+Richard Moss,U S House,8,REP,Dubois,Harbison 1,19,18,0,37
+William Tanoos,U S House,8,DEM,Dubois,Harbison 1,14,3,0,17
+Erin Houchin,State Senate,47,REP,Dubois,Harbison 1,49,50,0,99
+Nicholas A (Nick) Siler,State Senate,47,DEM,Dubois,Harbison 1,14,3,0,17
+Shane M Lindauer,State Representative,63,REP,Dubois,Harbison 1,50,52,0,102
+"Joseph ""Joe"" Lannan",State Representative,63,DEM,Dubois,Harbison 1,11,2,0,13
+Dennis Tedrow,State Representative,63,DEM,Dubois,Harbison 1,5,2,0,7
+,Registered Voters,,,Dubois,Harbison 2,,,,573
+,Ballots Cast,,,Dubois,Harbison 2,65,25,0,90
+Mike Braun,U S Senate,,REP,Dubois,Harbison 2,37,13,0,50
+Luke Messer,U S Senate,,REP,Dubois,Harbison 2,7,0,0,7
+Todd Rokita,U S Senate,,REP,Dubois,Harbison 2,2,2,0,4
+Joe Donnelly,U S Senate,,DEM,Dubois,Harbison 2,17,7,0,24
+Larry D Bucshon,U S House,8,REP,Dubois,Harbison 2,16,10,0,26
+Rachel Covington,U S House,8,REP,Dubois,Harbison 2,7,3,0,10
+Richard Moss,U S House,8,REP,Dubois,Harbison 2,22,2,0,24
+William Tanoos,U S House,8,DEM,Dubois,Harbison 2,12,5,0,17
+Erin Houchin,State Senate,47,REP,Dubois,Harbison 2,41,13,0,54
+Nicholas A (Nick) Siler,State Senate,47,DEM,Dubois,Harbison 2,12,4,0,16
+Shane M Lindauer,State Representative,63,REP,Dubois,Harbison 2,37,12,0,49
+"Joseph ""Joe"" Lannan",State Representative,63,DEM,Dubois,Harbison 2,7,4,0,11
+Dennis Tedrow,State Representative,63,DEM,Dubois,Harbison 2,9,5,0,14
+,Registered Voters,,,Dubois,Bainbridge 1,,,,542
+,Ballots Cast,,,Dubois,Bainbridge 1,109,60,0,169
+Mike Braun,U S Senate,,REP,Dubois,Bainbridge 1,71,41,0,112
+Luke Messer,U S Senate,,REP,Dubois,Bainbridge 1,5,4,0,9
+Todd Rokita,U S Senate,,REP,Dubois,Bainbridge 1,5,0,0,5
+Joe Donnelly,U S Senate,,DEM,Dubois,Bainbridge 1,19,8,0,27
+Larry D Bucshon,U S House,8,REP,Dubois,Bainbridge 1,47,27,0,74
+Rachel Covington,U S House,8,REP,Dubois,Bainbridge 1,5,3,0,8
+Richard Moss,U S House,8,REP,Dubois,Bainbridge 1,29,12,0,41
+William Tanoos,U S House,8,DEM,Dubois,Bainbridge 1,12,9,0,21
+Mark Messmer,State Senate,48,REP,Dubois,Bainbridge 1,75,43,0,118
+No Candidate Filed,State Senate,48,DEM,Dubois,Bainbridge 1,0,0,0,0
+Shane M Lindauer,State Representative,63,REP,Dubois,Bainbridge 1,70,41,0,111
+"Joseph ""Joe"" Lannan",State Representative,63,DEM,Dubois,Bainbridge 1,14,7,0,21
+Dennis Tedrow,State Representative,63,DEM,Dubois,Bainbridge 1,6,4,0,10
+,Registered Voters,,,Dubois,Bainbridge 2E,,,,774
+,Ballots Cast,,,Dubois,Bainbridge 2E,56,78,0,134
+Mike Braun,U S Senate,,REP,Dubois,Bainbridge 2E,20,34,0,54
+Luke Messer,U S Senate,,REP,Dubois,Bainbridge 2E,3,3,0,6
+Todd Rokita,U S Senate,,REP,Dubois,Bainbridge 2E,2,3,0,5
+Joe Donnelly,U S Senate,,DEM,Dubois,Bainbridge 2E,27,30,0,57
+Larry D Bucshon,U S House,8,REP,Dubois,Bainbridge 2E,13,15,0,28
+Rachel Covington,U S House,8,REP,Dubois,Bainbridge 2E,4,7,0,11
+Richard Moss,U S House,8,REP,Dubois,Bainbridge 2E,8,16,0,24
+William Tanoos,U S House,8,DEM,Dubois,Bainbridge 2E,27,23,0,50
+Mark Messmer,State Senate,48,REP,Dubois,Bainbridge 2E,24,36,0,60
+No Candidate Filed,State Senate,48,DEM,Dubois,Bainbridge 2E,0,0,0,0
+Shane M Lindauer,State Representative,63,REP,Dubois,Bainbridge 2E,23,36,0,59
+"Joseph ""Joe"" Lannan",State Representative,63,DEM,Dubois,Bainbridge 2E,20,24,0,44
+Dennis Tedrow,State Representative,63,DEM,Dubois,Bainbridge 2E,10,6,0,16
+,Registered Voters,,,Dubois,Bainbridge 2W,,,,1415
+,Ballots Cast,,,Dubois,Bainbridge 2W,203,163,0,366
+Mike Braun,U S Senate,,REP,Dubois,Bainbridge 2W,128,89,0,217
+Luke Messer,U S Senate,,REP,Dubois,Bainbridge 2W,7,7,0,14
+Todd Rokita,U S Senate,,REP,Dubois,Bainbridge 2W,11,8,0,19
+Joe Donnelly,U S Senate,,DEM,Dubois,Bainbridge 2W,43,49,0,92
+Larry D Bucshon,U S House,8,REP,Dubois,Bainbridge 2W,77,53,0,130
+Rachel Covington,U S House,8,REP,Dubois,Bainbridge 2W,11,10,0,21
+Richard Moss,U S House,8,REP,Dubois,Bainbridge 2W,55,35,0,90
+William Tanoos,U S House,8,DEM,Dubois,Bainbridge 2W,35,45,0,80
+Mark Messmer,State Senate,48,REP,Dubois,Bainbridge 2W,141,99,0,240
+No Candidate Filed,State Senate,48,DEM,Dubois,Bainbridge 2W,0,0,0,0
+Shane M Lindauer,State Representative,63,REP,Dubois,Bainbridge 2W,134,94,0,228
+"Joseph ""Joe"" Lannan",State Representative,63,DEM,Dubois,Bainbridge 2W,36,36,0,72
+Dennis Tedrow,State Representative,63,DEM,Dubois,Bainbridge 2W,9,15,0,24
+,Registered Voters,,,Dubois,Bainbridge 3E,,,,1064
+,Ballots Cast,,,Dubois,Bainbridge 3E,156,136,0,292
+Mike Braun,U S Senate,,REP,Dubois,Bainbridge 3E,99,86,0,185
+Luke Messer,U S Senate,,REP,Dubois,Bainbridge 3E,8,6,0,14
+Todd Rokita,U S Senate,,REP,Dubois,Bainbridge 3E,4,9,0,13
+Joe Donnelly,U S Senate,,DEM,Dubois,Bainbridge 3E,32,27,0,59
+Larry D Bucshon,U S House,8,REP,Dubois,Bainbridge 3E,38,51,0,89
+Rachel Covington,U S House,8,REP,Dubois,Bainbridge 3E,10,9,0,19
+Richard Moss,U S House,8,REP,Dubois,Bainbridge 3E,58,39,0,97
+William Tanoos,U S House,8,DEM,Dubois,Bainbridge 3E,33,26,0,59
+Mark Messmer,State Senate,48,REP,Dubois,Bainbridge 3E,103,94,0,197
+No Candidate Filed,State Senate,48,DEM,Dubois,Bainbridge 3E,0,0,0,0
+Shane M Lindauer,State Representative,63,REP,Dubois,Bainbridge 3E,101,95,0,196
+"Joseph ""Joe"" Lannan",State Representative,63,DEM,Dubois,Bainbridge 3E,28,27,0,55
+Dennis Tedrow,State Representative,63,DEM,Dubois,Bainbridge 3E,11,6,0,17
+,Registered Voters,,,Dubois,Bainbridge 3W,,,,0
+,Ballots Cast,,,Dubois,Bainbridge 3W,173,142,0,315
+Mike Braun,U S Senate,,REP,Dubois,Bainbridge 3W,122,108,0,230
+Luke Messer,U S Senate,,REP,Dubois,Bainbridge 3W,9,6,0,15
+Todd Rokita,U S Senate,,REP,Dubois,Bainbridge 3W,7,2,0,9
+Joe Donnelly,U S Senate,,DEM,Dubois,Bainbridge 3W,30,23,0,53
+Larry D Bucshon,U S House,8,REP,Dubois,Bainbridge 3W,71,62,0,133
+Rachel Covington,U S House,8,REP,Dubois,Bainbridge 3W,12,11,0,23
+Richard Moss,U S House,8,REP,Dubois,Bainbridge 3W,52,38,0,90
+William Tanoos,U S House,8,DEM,Dubois,Bainbridge 3W,25,20,0,45
+Mark Messmer,State Senate,48,REP,Dubois,Bainbridge 3W,127,111,0,238
+No Candidate Filed,State Senate,48,DEM,Dubois,Bainbridge 3W,0,0,0,0
+Shane M Lindauer,State Representative,63,REP,Dubois,Bainbridge 3W,128,107,0,235
+"Joseph ""Joe"" Lannan",State Representative,63,DEM,Dubois,Bainbridge 3W,24,19,0,43
+Dennis Tedrow,State Representative,63,DEM,Dubois,Bainbridge 3W,8,5,0,13
+,Registered Voters,,,Dubois,Bainbridge 4N,,,,1021
+,Ballots Cast,,,Dubois,Bainbridge 4N,139,91,0,230
+Mike Braun,U S Senate,,REP,Dubois,Bainbridge 4N,81,48,0,129
+Luke Messer,U S Senate,,REP,Dubois,Bainbridge 4N,11,3,0,14
+Todd Rokita,U S Senate,,REP,Dubois,Bainbridge 4N,10,4,0,14
+Joe Donnelly,U S Senate,,DEM,Dubois,Bainbridge 4N,31,28,0,59
+Larry D Bucshon,U S House,8,REP,Dubois,Bainbridge 4N,47,36,0,83
+Rachel Covington,U S House,8,REP,Dubois,Bainbridge 4N,15,3,0,18
+Richard Moss,U S House,8,REP,Dubois,Bainbridge 4N,37,12,0,49
+William Tanoos,U S House,8,DEM,Dubois,Bainbridge 4N,25,22,0,47
+Mark Messmer,State Senate,48,REP,Dubois,Bainbridge 4N,94,54,0,148
+No Candidate Filed,State Senate,48,DEM,Dubois,Bainbridge 4N,0,0,0,0
+Shane M Lindauer,State Representative,63,REP,Dubois,Bainbridge 4N,85,51,0,136
+"Joseph ""Joe"" Lannan",State Representative,63,DEM,Dubois,Bainbridge 4N,19,23,0,42
+Dennis Tedrow,State Representative,63,DEM,Dubois,Bainbridge 4N,12,9,0,21
+,Registered Voters,,,Dubois,Bainbridge 4S,,,,941
+,Ballots Cast,,,Dubois,Bainbridge 4S,138,93,0,231
+Mike Braun,U S Senate,,REP,Dubois,Bainbridge 4S,91,52,0,143
+Luke Messer,U S Senate,,REP,Dubois,Bainbridge 4S,8,2,0,10
+Todd Rokita,U S Senate,,REP,Dubois,Bainbridge 4S,5,7,0,12
+Joe Donnelly,U S Senate,,DEM,Dubois,Bainbridge 4S,30,25,0,55
+Larry D Bucshon,U S House,8,REP,Dubois,Bainbridge 4S,51,24,0,75
+Rachel Covington,U S House,8,REP,Dubois,Bainbridge 4S,10,6,0,16
+Richard Moss,U S House,8,REP,Dubois,Bainbridge 4S,40,27,0,67
+William Tanoos,U S House,8,DEM,Dubois,Bainbridge 4S,28,18,0,46
+Mark Messmer,State Senate,48,REP,Dubois,Bainbridge 4S,94,48,0,142
+No Candidate Filed,State Senate,48,DEM,Dubois,Bainbridge 4S,48,0,0,0
+Shane M Lindauer,State Representative,63,REP,Dubois,Bainbridge 4S,93,46,0,139
+"Joseph ""Joe"" Lannan",State Representative,63,DEM,Dubois,Bainbridge 4S,24,15,0,39
+Dennis Tedrow,State Representative,63,DEM,Dubois,Bainbridge 4S,9,7,0,16
+,Registered Voters,,,Dubois,Bainbridge 5N,,,,985
+,Ballots Cast,,,Dubois,Bainbridge 5N,63,53,0,116
+Mike Braun,U S Senate,,REP,Dubois,Bainbridge 5N,30,30,0,60
+Luke Messer,U S Senate,,REP,Dubois,Bainbridge 5N,13,1,0,14
+Todd Rokita,U S Senate,,REP,Dubois,Bainbridge 5N,8,5,0,13
+Joe Donnelly,U S Senate,,DEM,Dubois,Bainbridge 5N,9,11,0,20
+Larry D Bucshon,U S House,8,REP,Dubois,Bainbridge 5N,23,23,0,46
+Rachel Covington,U S House,8,REP,Dubois,Bainbridge 5N,5,5,0,10
+Richard Moss,U S House,8,REP,Dubois,Bainbridge 5N,22,8,0,30
+William Tanoos,U S House,8,DEM,Dubois,Bainbridge 5N,9,7,0,16
+Mark Messmer,State Senate,48,REP,Dubois,Bainbridge 5N,46,34,0,80
+No Candidate Filed,State Senate,48,DEM,Dubois,Bainbridge 5N,0,0,0,0
+Shane M Lindauer,State Representative,63,REP,Dubois,Bainbridge 5N,45,30,0,75
+"Joseph ""Joe"" Lannan",State Representative,63,DEM,Dubois,Bainbridge 5N,7,8,0,13
+Dennis Tedrow,State Representative,63,DEM,Dubois,Bainbridge 5N,3,7,0,10
+,Registered Voters,,,Dubois,Bainbridge 5S,,,,885
+,Ballots Cast,,,Dubois,Bainbridge 5S,80,74,0,154
+Mike Braun,U S Senate,,REP,Dubois,Bainbridge 5S,48,36,0,84
+Luke Messer,U S Senate,,REP,Dubois,Bainbridge 5S,5,4,0,9
+Todd Rokita,U S Senate,,REP,Dubois,Bainbridge 5S,3,1,0,4
+Joe Donnelly,U S Senate,,DEM,Dubois,Bainbridge 5S,20,27,0,47
+Larry D Bucshon,U S House,8,REP,Dubois,Bainbridge 5S,22,23,0,45
+Rachel Covington,U S House,8,REP,Dubois,Bainbridge 5S,7,4,0,11
+Richard Moss,U S House,8,REP,Dubois,Bainbridge 5S,26,13,0,39
+William Tanoos,U S House,8,DEM,Dubois,Bainbridge 5S,15,21,0,36
+Mark Messmer,State Senate,48,REP,Dubois,Bainbridge 5S,51,39,0,90
+No Candidate Filed,State Senate,48,DEM,Dubois,Bainbridge 5S,0,0,0,0
+Shane M Lindauer,State Representative,63,REP,Dubois,Bainbridge 5S,47,36,0,83
+"Joseph ""Joe"" Lannan",State Representative,63,DEM,Dubois,Bainbridge 5S,19,13,0,32
+Dennis Tedrow,State Representative,63,DEM,Dubois,Bainbridge 5S,4,11,0,15
+,Registered Voters,,,Dubois,Bainbridge 6N,,,,995
+,Ballots Cast,,,Dubois,Bainbridge 6N,144,78,0,222
+Mike Braun,U S Senate,,REP,Dubois,Bainbridge 6N,93,49,0,142
+Luke Messer,U S Senate,,REP,Dubois,Bainbridge 6N,8,1,0,9
+Todd Rokita,U S Senate,,REP,Dubois,Bainbridge 6N,6,4,0,10
+Joe Donnelly,U S Senate,,DEM,Dubois,Bainbridge 6N,29,19,0,48
+Larry D Bucshon,U S House,8,REP,Dubois,Bainbridge 6N,58,23,0,81
+Rachel Covington,U S House,8,REP,Dubois,Bainbridge 6N,11,5,0,16
+Richard Moss,U S House,8,REP,Dubois,Bainbridge 6N,33,23,0,56
+William Tanoos,U S House,8,DEM,Dubois,Bainbridge 6N,25,15,0,40
+Mark Messmer,State Senate,48,REP,Dubois,Bainbridge 6N,105,51,0,156
+No Candidate Filed,State Senate,48,DEM,Dubois,Bainbridge 6N,0,0,0,0
+Shane M Lindauer,State Representative,63,REP,Dubois,Bainbridge 6N,97,48,0,145
+"Joseph ""Joe"" Lannan",State Representative,63,DEM,Dubois,Bainbridge 6N,20,20,0,40
+Dennis Tedrow,State Representative,63,DEM,Dubois,Bainbridge 6N,10,3,0,13
+,Registered Voters,,,Dubois,Bainbridge 6S,,,,1059
+,Ballots Cast,,,Dubois,Bainbridge 6S,138,154,0,292
+Mike Braun,U S Senate,,REP,Dubois,Bainbridge 6S,105,85,0,190
+Luke Messer,U S Senate,,REP,Dubois,Bainbridge 6S,5,4,0,9
+Todd Rokita,U S Senate,,REP,Dubois,Bainbridge 6S,3,9,0,12
+Joe Donnelly,U S Senate,,DEM,Dubois,Bainbridge 6S,19,43,0,62
+Larry D Bucshon,U S House,8,REP,Dubois,Bainbridge 6S,45,59,0,104
+Rachel Covington,U S House,8,REP,Dubois,Bainbridge 6S,13,6,0,19
+Richard Moss,U S House,8,REP,Dubois,Bainbridge 6S,47,29,0,76
+William Tanoos,U S House,8,DEM,Dubois,Bainbridge 6S,17,31,0,48
+Mark Messmer,State Senate,48,REP,Dubois,Bainbridge 6S,99,92,0,191
+No Candidate Filed,State Senate,48,DEM,Dubois,Bainbridge 6S,0,0,0,0
+Shane M Lindauer,State Representative,63,REP,Dubois,Bainbridge 6S,98,91,0,189
+"Joseph ""Joe"" Lannan",State Representative,63,DEM,Dubois,Bainbridge 6S,14,27,0,41
+Dennis Tedrow,State Representative,63,DEM,Dubois,Bainbridge 6S,7,14,0,21
+,Registered Voters,,,Dubois,Jackson 1,,,,741
+,Ballots Cast,,,Dubois,Jackson 1,116,32,0,148
+Mike Braun,U S Senate,,REP,Dubois,Jackson 1,49,14,0,63
+Luke Messer,U S Senate,,REP,Dubois,Jackson 1,9,2,0,11
+Todd Rokita,U S Senate,,REP,Dubois,Jackson 1,5,2,0,7
+Joe Donnelly,U S Senate,,DEM,Dubois,Jackson 1,46,10,0,56
+Larry D Bucshon,U S House,8,REP,Dubois,Jackson 1,28,9,0,37
+Rachel Covington,U S House,8,REP,Dubois,Jackson 1,8,2,0,10
+Richard Moss,U S House,8,REP,Dubois,Jackson 1,25,7,0,32
+William Tanoos,U S House,8,DEM,Dubois,Jackson 1,32,7,0,39
+Erin Houchin,State Senate,47,REP,Dubois,Jackson 1,51,16,0,67
+Nicholas A (Nick) Siler,State Senate,47,DEM,Dubois,Jackson 1,33,8,0,41
+Stephen R Bartels,State Representative,74,REP,Dubois,Jackson 1,51,16,0,67
+Larry D Bucshon,State Representative,74,DEM,Dubois,Jackson 1,41,9,0,50
+,Registered Voters,,,Dubois,Jackson 2,,,,895
+,Ballots Cast,,,Dubois,Jackson 2,127,38,0,165
+Mike Braun,U S Senate,,REP,Dubois,Jackson 2,68,24,0,92
+Luke Messer,U S Senate,,REP,Dubois,Jackson 2,10,1,0,11
+Todd Rokita,U S Senate,,REP,Dubois,Jackson 2,5,1,0,6
+Joe Donnelly,U S Senate,,DEM,Dubois,Jackson 2,37,10,0,47
+Larry D Bucshon,U S House,8,REP,Dubois,Jackson 2,39,17,0,56
+Rachel Covington,U S House,8,REP,Dubois,Jackson 2,10,3,0,13
+Richard Moss,U S House,8,REP,Dubois,Jackson 2,31,5,0,36
+William Tanoos,U S House,8,DEM,Dubois,Jackson 2,33,6,0,39
+Erin Houchin,State Senate,47,REP,Dubois,Jackson 2,67,20,0,87
+Nicholas A (Nick) Siler,State Senate,47,DEM,Dubois,Jackson 2,36,7,0,43
+Stephen R Bartels,State Representative,74,REP,Dubois,Jackson 2,67,21,0,88
+Larry K Kleeman,State Representative,74,DEM,Dubois,Jackson 2,34,9,0,43
+,Registered Voters,,,Dubois,Jefferson 1,,,,781
+,Ballots Cast,,,Dubois,Jefferson 1,53,54,0,107
+Mike Braun,U S Senate,,REP,Dubois,Jefferson 1,20,22,0,42
+Luke Messer,U S Senate,,REP,Dubois,Jefferson 1,4,3,0,7
+Todd Rokita,U S Senate,,REP,Dubois,Jefferson 1,4,3,0,7
+Joe Donnelly,U S Senate,,DEM,Dubois,Jefferson 1,22,19,0,41
+Larry D Bucshon,U S House,8,REP,Dubois,Jefferson 1,12,11,0,23
+Rachel Covington,U S House,8,REP,Dubois,Jefferson 1,3,3,0,6
+Richard Moss,U S House,8,REP,Dubois,Jefferson 1,13,14,0,27
+William Tanoos,U S House,8,DEM,Dubois,Jefferson 1,17,14,0,31
+Erin Houchin,State Senate,47,REP,Dubois,Jefferson 1,26,23,0,49
+Nicholas A (Nick) Siler,State Senate,47,DEM,Dubois,Jefferson 1,19,15,0,34
+Stephen R Bartels,State Representative,74,REP,Dubois,Jefferson 1,22,21,0,43
+Larry K Kleeman,State Representative,74,DEM,Dubois,Jefferson 1,20,19,0,39
+,Registered Voters,,,Dubois,Jefferson 2,,,,255
+,Ballots Cast,,,Dubois,Jefferson 2,10,89,0,99
+Mike Braun,U S Senate,,REP,Dubois,Jefferson 2,2,13,0,15
+Luke Messer,U S Senate,,REP,Dubois,Jefferson 2,0,6,0,6
+Todd Rokita,U S Senate,,REP,Dubois,Jefferson 2,1,0,0,1
+Joe Donnelly,U S Senate,,DEM,Dubois,Jefferson 2,7,41,0,48
+Larry D Bucshon,U S House,8,REP,Dubois,Jefferson 2,0,3,0,3
+Rachel Covington,U S House,8,REP,Dubois,Jefferson 2,0,4,0,4
+Richard Moss,U S House,8,REP,Dubois,Jefferson 2,3,12,0,15
+William Tanoos,U S House,8,DEM,Dubois,Jefferson 2,5,40,0,45
+Erin Houchin,State Senate,47,REP,Dubois,Jefferson 2,3,20,0,23
+Nicholas A (Nick) Siler,State Senate,47,DEM,Dubois,Jefferson 2,5,43,0,48
+Stephen R Bartels,State Representative,74,REP,Dubois,Jefferson 2,3,18,0,21
+Larry K Kleeman,State Representative,74,DEM,Dubois,Jefferson 2,6,53,0,59
+,Registered Voters,,,Dubois,Madison 1,,,,575
+,Ballots Cast,,,Dubois,Madison 1,101,24,0,125
+Mike Braun,U S Senate,,REP,Dubois,Madison 1,70,18,0,88
+Luke Messer,U S Senate,,REP,Dubois,Madison 1,6,2,0,8
+Todd Rokita,U S Senate,,REP,Dubois,Madison 1,2,0,0,2
+Joe Donnelly,U S Senate,,DEM,Dubois,Madison 1,12,3,0,15
+Larry D Bucshon,U S House,8,REP,Dubois,Madison 1,34,8,0,42
+Rachel Covington,U S House,8,REP,Dubois,Madison 1,12,0,0,12
+Richard Moss,U S House,8,REP,Dubois,Madison 1,28,8,0,36
+William Tanoos,U S House,8,DEM,Dubois,Madison 1,10,2,0,12
+Mark Messmer,State Senate,48,REP,Dubois,Madison 1,70,19,0,89
+No Candidate Filed,State Senate,48,DEM,Dubois,Madison 1,0,0,0,0
+Shane M Lindauer,State Representative,63,REP,Dubois,Madison 1,70,18,0,88
+"Joseph ""Joe"" Lannan",State Representative,63,DEM,Dubois,Madison 1,12,2,0,14
+Dennis Tedrow,State Representative,63,DEM,Dubois,Madison 1,7,2,0,9
+,Registered Voters,,,Dubois,Madison 2,,,,1081
+,Ballots Cast,,,Dubois,Madison 2,149,72,0,221
+Mike Braun,U S Senate,,REP,Dubois,Madison 2,94,39,0,133
+Luke Messer,U S Senate,,REP,Dubois,Madison 2,3,2,0,5
+Todd Rokita,U S Senate,,REP,Dubois,Madison 2,7,0,0,7
+Joe Donnelly,U S Senate,,DEM,Dubois,Madison 2,32,27,0,59
+Larry D Bucshon,U S House,8,REP,Dubois,Madison 2,46,20,0,66
+Rachel Covington,U S House,8,REP,Dubois,Madison 2,12,6,0,18
+Richard Moss,U S House,8,REP,Dubois,Madison 2,42,12,0,54
+William Tanoos,U S House,8,DEM,Dubois,Madison 2,24,19,0,43
+Mark Messmer,State Senate,48,REP,Dubois,Madison 2,99,40,0,139
+No Candidate Filed,State Senate,48,DEM,Dubois,Madison 2,0,0,0,0
+Shane M Lindauer,State Representative,63,REP,Dubois,Madison 2,95,39,0,134
+"Joseph ""Joe"" Lannan",State Representative,63,DEM,Dubois,Madison 2,23,22,0,45
+Dennis Tedrow,State Representative,63,DEM,Dubois,Madison 2,14,2,0,16
+,Registered Voters,,,Dubois,Madison-Jasper North,,,,414
+,Ballots Cast,,,Dubois,Madison-Jasper North,73,20,0,93
+Mike Braun,U S Senate,,REP,Dubois,Madison-Jasper North,65,19,0,84
+Luke Messer,U S Senate,,REP,Dubois,Madison-Jasper North,2,0,0,2
+Todd Rokita,U S Senate,,REP,Dubois,Madison-Jasper North,0,1,0,1
+Joe Donnelly,U S Senate,,DEM,Dubois,Madison-Jasper North,4,0,0,4
+Larry D Bucshon,U S House,8,REP,Dubois,Madison-Jasper North,33,15,0,48
+Rachel Covington,U S House,8,REP,Dubois,Madison-Jasper North,3,2,0,5
+Richard Moss,U S House,8,REP,Dubois,Madison-Jasper North,30,3,0,33
+William Tanoos,U S House,8,DEM,Dubois,Madison-Jasper North,4,0,0,4
+Mark Messmer,State Senate,48,REP,Dubois,Madison-Jasper North,64,20,0,84
+No Candidate Filed,State Senate,48,DEM,Dubois,Madison-Jasper North,0,0,0,0
+Shane M Lindauer,State Representative,63,REP,Dubois,Madison-Jasper North,63,18,0,81
+"Joseph ""Joe"" Lannan",State Representative,63,DEM,Dubois,Madison-Jasper North,1,0,0,1
+Dennis Tedrow,State Representative,63,DEM,Dubois,Madison-Jasper North,3,0,0,3
+,Registered Voters,,,Dubois,Madison-Jasper South,,,,91
+,Ballots Cast,,,Dubois,Madison-Jasper South,9,5,0,14
+Mike Braun,U S Senate,,REP,Dubois,Madison-Jasper South,5,4,0,9
+Luke Messer,U S Senate,,REP,Dubois,Madison-Jasper South,0,0,0,0
+Todd Rokita,U S Senate,,REP,Dubois,Madison-Jasper South,0,0,0,0
+Joe Donnelly,U S Senate,,DEM,Dubois,Madison-Jasper South,2,1,0,3
+Larry D Bucshon,U S House,8,REP,Dubois,Madison-Jasper South,2,1,0,3
+Rachel Covington,U S House,8,REP,Dubois,Madison-Jasper South,0,0,0,0
+Richard Moss,U S House,8,REP,Dubois,Madison-Jasper South,2,3,0,5
+William Tanoos,U S House,8,DEM,Dubois,Madison-Jasper South,2,0,0,2
+Mark Messmer,State Senate,48,REP,Dubois,Madison-Jasper South,5,4,0,9
+No Candidate Filed,State Senate,48,DEM,Dubois,Madison-Jasper South,0,0,0,0
+Shane M Lindauer,State Representative,63,REP,Dubois,Madison-Jasper South,5,3,0,8
+"Joseph ""Joe"" Lannan",State Representative,63,DEM,Dubois,Madison-Jasper South,3,1,0,4
+Dennis Tedrow,State Representative,63,DEM,Dubois,Madison-Jasper South,0,0,0,0
+,Registered Voters,,,Dubois,Marion 1,,,,282
+,Ballots Cast,,,Dubois,Marion 1,41,11,0,52
+Mike Braun,U S Senate,,REP,Dubois,Marion 1,22,5,0,27
+Luke Messer,U S Senate,,REP,Dubois,Marion 1,1,0,0,1
+Todd Rokita,U S Senate,,REP,Dubois,Marion 1,3,2,0,5
+Joe Donnelly,U S Senate,,DEM,Dubois,Marion 1,11,3,0,14
+Larry D Bucshon,U S House,8,REP,Dubois,Marion 1,18,5,0,23
+Rachel Covington,U S House,8,REP,Dubois,Marion 1,0,0,0,0
+Richard Moss,U S House,8,REP,Dubois,Marion 1,9,2,0,11
+William Tanoos,U S House,8,DEM,Dubois,Marion 1,9,3,0,12
+Erin Houchin,State Senate,47,REP,Dubois,Marion 1,26,6,0,32
+Nicholas A (Nick) Siler,State Senate,47,DEM,Dubois,Marion 1,9,2,0,11
+Shane M Lindauer,State Representative,63,REP,Dubois,Marion 1,26,7,0,33
+"Joseph ""Joe"" Lannan",State Representative,63,DEM,Dubois,Marion 1,9,2,0,11
+Dennis Tedrow,State Representative,63,DEM,Dubois,Marion 1,5,1,0,6

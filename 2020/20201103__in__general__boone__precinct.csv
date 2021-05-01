@@ -1,6 +1,6 @@
 county,precinct,office,district,party,candidate,election_day,absentee,early_votin,votes
 Boone,CENTER 01,Registered Voters,,,,,,,726
-Boone,CENTER 01,Ballots Cast ,,,,66,98,384,548
+Boone,CENTER 01,Ballots Cast,,,,66,98,384,548
 Boone,CENTER 01,President,,R,Trump\Pence,50,52,245,347
 Boone,CENTER 01,President,,D,Biden\Harris,14,40,120,174
 Boone,CENTER 01,President,,L,Jorgense\Cohen,2,2,11,15
@@ -16,7 +16,7 @@ Boone,CENTER 01,U.S. House,4,,Write-In,0,0,0,0
 Boone,CENTER 01,State Representative,41,R,Tim Brown,49,60,263,372
 Boone,CENTER 01,State Representative,41,D,Greg A. Woods,13,29,99,141
 Boone,CENTER 02,Registered Voters,,,,,,,963
-Boone,CENTER 02,Ballots Cast ,,,,143,74,367,584
+Boone,CENTER 02,Ballots Cast,,,,143,74,367,584
 Boone,CENTER 02,President,,R,Trump\Pence,92,35,252,379
 Boone,CENTER 02,President,,D,Biden\Harris,45,36,100,181
 Boone,CENTER 02,President,,L,Jorgense\Cohen,5,2,11,18
@@ -32,7 +32,7 @@ Boone,CENTER 02,U.S. House,4,,Write-In,0,0,0,0
 Boone,CENTER 02,State Representative,41,R,Tim Brown,92,38,254,384
 Boone,CENTER 02,State Representative,41,D,Greg A. Woods,44,36,100,180
 Boone,CENTER 03,Registered Voters,,,,,,,982
-Boone,CENTER 03,Ballots Cast ,,,,121,63,307,491
+Boone,CENTER 03,Ballots Cast,,,,121,63,307,491
 Boone,CENTER 03,President,,R,Trump\Pence,86,31,216,333
 Boone,CENTER 03,President,,D,Biden\Harris,27,31,81,139
 Boone,CENTER 03,President,,L,Jorgense\Cohen,8,1,8,17
@@ -48,7 +48,7 @@ Boone,CENTER 03,U.S. House,4,,Write-In,0,0,0,0
 Boone,CENTER 03,State Representative,41,R,Tim Brown,77,33,217,327
 Boone,CENTER 03,State Representative,41,D,Greg A. Woods,35,29,77,141
 Boone,CENTER 04,Registered Voters,,,,,,,765
-Boone,CENTER 04,Ballots Cast ,,,,135,42,293,470
+Boone,CENTER 04,Ballots Cast,,,,135,42,293,470
 Boone,CENTER 04,President,,R,Trump\Pence,97,20,199,316
 Boone,CENTER 04,President,,D,Biden\Harris,31,21,79,131
 Boone,CENTER 04,President,,L,Jorgense\Cohen,4,1,12,17
@@ -64,7 +64,7 @@ Boone,CENTER 04,U.S. House,4,,Write-In,0,0,0,0
 Boone,CENTER 04,State Representative,41,R,Tim Brown,96,24,201,321
 Boone,CENTER 04,State Representative,41,D,Greg A. Woods,30,16,77,123
 Boone,CENTER 05,Registered Voters,,,,,,,1043
-Boone,CENTER 05,Ballots Cast ,,,,149,104,546,799
+Boone,CENTER 05,Ballots Cast,,,,149,104,546,799
 Boone,CENTER 05,President,,R,Trump\Pence,130,47,423,600
 Boone,CENTER 05,President,,D,Biden\Harris,14,55,111,180
 Boone,CENTER 05,President,,L,Jorgense\Cohen,4,0,3,7
@@ -80,7 +80,7 @@ Boone,CENTER 05,U.S. House,4,,Write-In,0,0,0,0
 Boone,CENTER 05,State Representative,41,R,Tim Brown,126,54,431,611
 Boone,CENTER 05,State Representative,41,D,Greg A. Woods,16,46,102,164
 Boone,CENTER 06,Registered Voters,,,,,,,817
-Boone,CENTER 06,Ballots Cast ,,,,92,77,316,485
+Boone,CENTER 06,Ballots Cast,,,,92,77,316,485
 Boone,CENTER 06,President,,R,Trump\Pence,64,35,208,307
 Boone,CENTER 06,President,,D,Biden\Harris,24,39,95,158
 Boone,CENTER 06,President,,L,Jorgense\Cohen,3,1,4,8
@@ -96,7 +96,7 @@ Boone,CENTER 06,U.S. House,4,,Write-In,0,0,0,0
 Boone,CENTER 06,State Representative,41,R,Tim Brown,63,37,209,309
 Boone,CENTER 06,State Representative,41,D,Greg A. Woods,25,34,94,153
 Boone,CENTER 07,Registered Voters,,,,,,,904
-Boone,CENTER 07,Ballots Cast ,,,,82,140,370,592
+Boone,CENTER 07,Ballots Cast,,,,82,140,370,592
 Boone,CENTER 07,President,,R,Trump\Pence,59,67,240,366
 Boone,CENTER 07,President,,D,Biden\Harris,22,65,121,208
 Boone,CENTER 07,President,,L,Jorgense\Cohen,0,4,6,10
@@ -112,7 +112,7 @@ Boone,CENTER 07,U.S. House,4,,Write-In,0,0,0,0
 Boone,CENTER 07,State Representative,41,R,Tim Brown,59,77,246,382
 Boone,CENTER 07,State Representative,41,D,Greg A. Woods,19,55,112,186
 Boone,CENTER 08,Registered Voters,,,,,,,688
-Boone,CENTER 08,Ballots Cast ,,,,83,35,209,327
+Boone,CENTER 08,Ballots Cast,,,,83,35,209,327
 Boone,CENTER 08,President,,R,Trump\Pence,59,17,136,212
 Boone,CENTER 08,President,,D,Biden\Harris,19,18,66,103
 Boone,CENTER 08,President,,L,Jorgense\Cohen,5,0,5,10
@@ -128,7 +128,7 @@ Boone,CENTER 08,U.S. House,4,,Write-In,0,0,0,0
 Boone,CENTER 08,State Representative,41,R,Tim Brown,60,18,134,212
 Boone,CENTER 08,State Representative,41,D,Greg A. Woods,18,14,65,97
 Boone,CENTER 09,Registered Voters,,,,,,,882
-Boone,CENTER 09,Ballots Cast ,,,,100,81,431,612
+Boone,CENTER 09,Ballots Cast,,,,100,81,431,612
 Boone,CENTER 09,President,,R,Trump\Pence,73,46,280,399
 Boone,CENTER 09,President,,D,Biden\Harris,22,35,135,192
 Boone,CENTER 09,President,,L,Jorgense\Cohen,3,0,8,11
@@ -144,7 +144,7 @@ Boone,CENTER 09,U.S. House,4,,Write-In,0,0,0,0
 Boone,CENTER 09,State Representative,41,R,Tim Brown,70,45,304,419
 Boone,CENTER 09,State Representative,41,D,Greg A. Woods,19,31,110,160
 Boone,CENTER 10,Registered Voters,,,,,,,1081
-Boone,CENTER 10,Ballots Cast ,,,,143,77,421,641
+Boone,CENTER 10,Ballots Cast,,,,143,77,421,641
 Boone,CENTER 10,President,,R,Trump\Pence,100,38,258,396
 Boone,CENTER 10,President,,D,Biden\Harris,30,37,145,212
 Boone,CENTER 10,President,,L,Jorgense\Cohen,11,1,13,25
@@ -160,7 +160,7 @@ Boone,CENTER 10,U.S. House,4,,Write-In,0,0,0,0
 Boone,CENTER 10,State Representative,41,R,Tim Brown,101,43,262,406
 Boone,CENTER 10,State Representative,41,D,Greg A. Woods,34,30,141,205
 Boone,CENTER 11,Registered Voters,,,,,,,1071
-Boone,CENTER 11,Ballots Cast ,,,,149,79,405,633
+Boone,CENTER 11,Ballots Cast,,,,149,79,405,633
 Boone,CENTER 11,President,,R,Trump\Pence,116,46,275,437
 Boone,CENTER 11,President,,D,Biden\Harris,23,29,116,168
 Boone,CENTER 11,President,,L,Jorgense\Cohen,9,3,10,22
@@ -176,7 +176,7 @@ Boone,CENTER 11,U.S. House,4,,Write-In,0,0,0,0
 Boone,CENTER 11,State Representative,41,R,Tim Brown,115,48,269,432
 Boone,CENTER 11,State Representative,41,D,Greg A. Woods,28,27,119,174
 Boone,CENTER 12,Registered Voters,,,,,,,993
-Boone,CENTER 12,Ballots Cast ,,,,135,102,506,743
+Boone,CENTER 12,Ballots Cast,,,,135,102,506,743
 Boone,CENTER 12,President,,R,Trump\Pence,97,46,343,486
 Boone,CENTER 12,President,,D,Biden\Harris,28,56,146,230
 Boone,CENTER 12,President,,L,Jorgense\Cohen,6,0,11,17
@@ -192,7 +192,7 @@ Boone,CENTER 12,U.S. House,4,,Write-In,0,0,0,0
 Boone,CENTER 12,State Representative,41,R,Tim Brown,107,51,360,518
 Boone,CENTER 12,State Representative,41,D,Greg A. Woods,26,45,129,200
 Boone,CENTER 13,Registered Voters,,,,,,,867
-Boone,CENTER 13,Ballots Cast ,,,,114,87,243,444
+Boone,CENTER 13,Ballots Cast,,,,114,87,243,444
 Boone,CENTER 13,President,,R,Trump\Pence,74,20,155,249
 Boone,CENTER 13,President,,D,Biden\Harris,28,66,78,172
 Boone,CENTER 13,President,,L,Jorgense\Cohen,11,1,5,17
@@ -208,7 +208,7 @@ Boone,CENTER 13,U.S. House,4,,Write-In,0,0,0,0
 Boone,CENTER 13,State Representative,41,R,Tim Brown,72,21,162,255
 Boone,CENTER 13,State Representative,41,D,Greg A. Woods,33,19,70,122
 Boone,CENTER 14,Registered Voters,,,,,,,802
-Boone,CENTER 14,Ballots Cast ,,,,143,72,367,582
+Boone,CENTER 14,Ballots Cast,,,,143,72,367,582
 Boone,CENTER 14,President,,R,Trump\Pence,120,42,283,445
 Boone,CENTER 14,President,,D,Biden\Harris,15,29,68,112
 Boone,CENTER 14,President,,L,Jorgense\Cohen,6,1,11,18
@@ -224,7 +224,7 @@ Boone,CENTER 14,U.S. House,4,,Write-In,0,0,0,0
 Boone,CENTER 14,State Representative,41,R,Tim Brown,127,44,298,469
 Boone,CENTER 14,State Representative,41,D,Greg A. Woods,15,24,57,96
 Boone,CENTER 15,Registered Voters,,,,,,,151
-Boone,CENTER 15,Ballots Cast ,,,,15,29,80,124
+Boone,CENTER 15,Ballots Cast,,,,15,29,80,124
 Boone,CENTER 15,President,,R,Trump\Pence,11,14,54,79
 Boone,CENTER 15,President,,D,Biden\Harris,3,13,25,41
 Boone,CENTER 15,President,,L,Jorgense\Cohen,1,1,0,2
@@ -240,7 +240,7 @@ Boone,CENTER 15,U.S. House,4,,Write-In,0,0,0,0
 Boone,CENTER 15,State Representative,41,R,Tim Brown,12,19,61,92
 Boone,CENTER 15,State Representative,41,D,Greg A. Woods,3,9,16,28
 Boone,CENTER 16,Registered Voters,,,,,,,129
-Boone,CENTER 16,Ballots Cast ,,,,16,10,66,92
+Boone,CENTER 16,Ballots Cast,,,,16,10,66,92
 Boone,CENTER 16,President,,R,Trump\Pence,12,9,56,77
 Boone,CENTER 16,President,,D,Biden\Harris,4,1,7,12
 Boone,CENTER 16,President,,L,Jorgense\Cohen,0,0,3,3
@@ -256,7 +256,7 @@ Boone,CENTER 16,U.S. House,4,,Write-In,0,0,0,0
 Boone,CENTER 16,State Representative,41,R,Tim Brown,11,10,8,79
 Boone,CENTER 16,State Representative,41,D,Greg A. Woods,3,0,8,11
 Boone,CENTER 17,Registered Voters,,,,,,,1000
-Boone,CENTER 17,Ballots Cast ,,,,143,59,373,575
+Boone,CENTER 17,Ballots Cast,,,,143,59,373,575
 Boone,CENTER 17,President,,R,Trump\Pence,103,32,256,391
 Boone,CENTER 17,President,,D,Biden\Harris,34,22,104,160
 Boone,CENTER 17,President,,L,Jorgense\Cohen,3,1,5,9
@@ -272,7 +272,7 @@ Boone,CENTER 17,U.S. House,4,,Write-In,0,0,0,0
 Boone,CENTER 17,State Representative,41,R,Tim Brown,100,35,259,394
 Boone,CENTER 17,State Representative,41,D,Greg A. Woods,32,22,104,158
 Boone,CLINTON,Registered Voters,,,,,,,716
-Boone,CLINTON,Ballots Cast ,,,,134,54,347,535
+Boone,CLINTON,Ballots Cast,,,,134,54,347,535
 Boone,CLINTON,President,,R,Trump\Pence,108,30,247,385
 Boone,CLINTON,President,,D,Biden\Harris,19,23,90,132
 Boone,CLINTON,President,,L,Jorgense\Cohen,6,1,6,13
@@ -290,7 +290,7 @@ Boone,CLINTON,State Senate,7,D,Tabitha N. Bartley,15,17,70,102
 Boone,CLINTON,State Representative,41,R,Tim Brown,114,32,254,400
 Boone,CLINTON,State Representative,41,D,Greg A. Woods,15,20,80,115
 Boone,EAGLE 01,Registered Voters,,,,,,,1205
-Boone,EAGLE 01,Ballots Cast ,,,,55,257,627,939
+Boone,EAGLE 01,Ballots Cast,,,,55,257,627,939
 Boone,EAGLE 01,President,,R,Trump\Pence,28,103,311,442
 Boone,EAGLE 01,President,,D,Biden\Harris,21,149,290,460
 Boone,EAGLE 01,President,,L,Jorgense\Cohen,3,3,8,14
@@ -307,7 +307,7 @@ Boone,EAGLE 01,U.S. House,5,,Write-In,0,0,0,0
 Boone,EAGLE 01,State Representative,24,R,Donna Schaibley,41,137,380,558
 Boone,EAGLE 01,State Representative,24,D,Naomo S Bechtold,13,107,228,348
 Boone,EAGLE 02,Registered Voters,,,,,,,864
-Boone,EAGLE 02,Ballots Cast ,,,,71,193,376,640
+Boone,EAGLE 02,Ballots Cast,,,,71,193,376,640
 Boone,EAGLE 02,President,,R,Trump\Pence,44,84,166,294
 Boone,EAGLE 02,President,,D,Biden\Harris,25,104,196,325
 Boone,EAGLE 02,President,,L,Jorgense\Cohen,2,2,8,12
@@ -324,7 +324,7 @@ Boone,EAGLE 02,U.S. House,5,,Write-In,0,0,0,0
 Boone,EAGLE 02,State Representative,24,R,Donna Schaibley,51,93,194,338
 Boone,EAGLE 02,State Representative,24,D,Naomo S Bechtold,18,94,168,280
 Boone,EAGLE 03,Registered Voters,,,,,,,868
-Boone,EAGLE 03,Ballots Cast ,,,,74,144,459,677
+Boone,EAGLE 03,Ballots Cast,,,,74,144,459,677
 Boone,EAGLE 03,President,,R,Trump\Pence,35,41,169,245
 Boone,EAGLE 03,President,,D,Biden\Harris,33,99,278,410
 Boone,EAGLE 03,President,,L,Jorgense\Cohen,4,2,8,14
@@ -341,7 +341,7 @@ Boone,EAGLE 03,U.S. House,5,,Write-In,0,0,0,0
 Boone,EAGLE 03,State Representative,24,R,Donna Schaibley,38,58,207,303
 Boone,EAGLE 03,State Representative,24,D,Naomo S Bechtold,34,83,247,364
 Boone,EAGLE 04,Registered Voters,,,,,,,1414
-Boone,EAGLE 04,Ballots Cast ,,,,153,245,567,965
+Boone,EAGLE 04,Ballots Cast,,,,153,245,567,965
 Boone,EAGLE 04,President,,R,Trump\Pence,87,82,224,393
 Boone,EAGLE 04,President,,D,Biden\Harris,58,154,320,532
 Boone,EAGLE 04,President,,L,Jorgense\Cohen,5,1,11,17
@@ -358,7 +358,7 @@ Boone,EAGLE 04,U.S. House,5,,Write-In,0,0,0,0
 Boone,EAGLE 04,State Representative,24,R,Donna Schaibley,96,116,264,476
 Boone,EAGLE 04,State Representative,24,D,Naomo S Bechtold,52,111,286,449
 Boone,EAGLE 05,Registered Voters,,,,,,,830
-Boone,EAGLE 05,Ballots Cast ,,,,56,115,498,669
+Boone,EAGLE 05,Ballots Cast,,,,56,115,498,669
 Boone,EAGLE 05,President,,R,Trump\Pence,33,45,244,322
 Boone,EAGLE 05,President,,D,Biden\Harris,17,66,236,319
 Boone,EAGLE 05,President,,L,Jorgense\Cohen,5,3,9,17
@@ -375,7 +375,7 @@ Boone,EAGLE 05,U.S. House,5,,Write-In,0,0,0,0
 Boone,EAGLE 05,State Representative,24,R,Donna Schaibley,39,57,292,388
 Boone,EAGLE 05,State Representative,24,D,Naomo S Bechtold,16,53,199,268
 Boone,EAGLE 06,Registered Voters,,,,,,,1698
-Boone,EAGLE 06,Ballots Cast ,,,,153,393,913,1369
+Boone,EAGLE 06,Ballots Cast,,,,153,393,913,1369
 Boone,EAGLE 06,President,,R,Trump\Pence,100,112,466,678
 Boone,EAGLE 06,President,,D,Biden\Harris,44,179,415,638
 Boone,EAGLE 06,President,,L,Jorgense\Cohen,7,8,16,31
@@ -392,7 +392,7 @@ Boone,EAGLE 06,U.S. House,5,,Write-In,0,0,2,2
 Boone,EAGLE 06,State Representative,24,R,Donna Schaibley,111,152,557,820
 Boone,EAGLE 06,State Representative,24,D,Naomo S Bechtold,33,135,341,509
 Boone,EAGLE 07,Registered Voters,,,,,,,1407
-Boone,EAGLE 07,Ballots Cast ,,,,89,268,722,1079
+Boone,EAGLE 07,Ballots Cast,,,,89,268,722,1079
 Boone,EAGLE 07,President,,R,Trump\Pence,54,116,381,551
 Boone,EAGLE 07,President,,D,Biden\Harris,31,149,323,503
 Boone,EAGLE 07,President,,L,Jorgense\Cohen,4,3,9,16
@@ -409,7 +409,7 @@ Boone,EAGLE 07,U.S. House,5,,Write-In,1,0,1,2
 Boone,EAGLE 07,State Representative,24,R,Donna Schaibley,58,146,462,666
 Boone,EAGLE 07,State Representative,24,D,Naomo S Bechtold,22,107,247,376
 Boone,EAGLE 08,Registered Voters,,,,,,,1245
-Boone,EAGLE 08,Ballots Cast ,,,,86,264,605,955
+Boone,EAGLE 08,Ballots Cast,,,,86,264,605,955
 Boone,EAGLE 08,President,,R,Trump\Pence,45,114,295,454
 Boone,EAGLE 08,President,,D,Biden\Harris,34,142,284,460
 Boone,EAGLE 08,President,,L,Jorgense\Cohen,6,5,12,23
@@ -426,7 +426,7 @@ Boone,EAGLE 08,U.S. House,5,,Write-In,0,0,0,0
 Boone,EAGLE 08,State Representative,24,R,Donna Schaibley,49,145,369,563
 Boone,EAGLE 08,State Representative,24,D,Naomo S Bechtold,33,113,214,360
 Boone,EAGLE 09,Registered Voters,,,,,,,1385
-Boone,EAGLE 09,Ballots Cast ,,,,87,214,838,1149
+Boone,EAGLE 09,Ballots Cast,,,,87,214,838,1149
 Boone,EAGLE 09,President,,R,Trump\Pence,57,87,429,573
 Boone,EAGLE 09,President,,D,Biden\Harris,32,117,369,518
 Boone,EAGLE 09,President,,L,Jorgense\Cohen,5,3,27,35
@@ -443,7 +443,7 @@ Boone,EAGLE 09,U.S. House,5,,Write-In,0,0,0,0
 Boone,EAGLE 09,State Representative,24,R,Donna Schaibley,66,112,514,692
 Boone,EAGLE 09,State Representative,24,D,Naomo S Bechtold,25,95,311,431
 Boone,EAGLE 10,Registered Voters,,,,,,,1829
-Boone,EAGLE 10,Ballots Cast ,,,,155,278,946,1379
+Boone,EAGLE 10,Ballots Cast,,,,155,278,946,1379
 Boone,EAGLE 10,President,,R,Trump\Pence,99,110,475,684
 Boone,EAGLE 10,President,,D,Biden\Harris,48,155,429,632
 Boone,EAGLE 10,President,,L,Jorgense\Cohen,5,4,25,34
@@ -460,7 +460,7 @@ Boone,EAGLE 10,U.S. House,5,,Write-In,0,0,0,0
 Boone,EAGLE 10,State Representative,24,R,Donna Schaibley,117,135,560,812
 Boone,EAGLE 10,State Representative,24,D,Naomo S Bechtold,36,119,365,520
 Boone,EAGLE 11,Registered Voters,,,,,,,783
-Boone,EAGLE 11,Ballots Cast ,,,,56,151,406,613
+Boone,EAGLE 11,Ballots Cast,,,,56,151,406,613
 Boone,EAGLE 11,President,,R,Trump\Pence,36,60,216,312
 Boone,EAGLE 11,President,,D,Biden\Harris,16,86,178,280
 Boone,EAGLE 11,President,,L,Jorgense\Cohen,2,5,7,14
@@ -477,7 +477,7 @@ Boone,EAGLE 11,U.S. House,5,,Write-In,0,0,0,0
 Boone,EAGLE 11,State Representative,24,R,Donna Schaibley,39,76,248,363
 Boone,EAGLE 11,State Representative,24,D,Naomo S Bechtold,13,71,154,238
 Boone,EAGLE 12,Registered Voters,,,,,,,997
-Boone,EAGLE 12,Ballots Cast ,,,,84,152,509,745
+Boone,EAGLE 12,Ballots Cast,,,,84,152,509,745
 Boone,EAGLE 12,President,,R,Trump\Pence,46,51,232,329
 Boone,EAGLE 12,President,,D,Biden\Harris,29,97,259,385
 Boone,EAGLE 12,President,,L,Jorgense\Cohen,6,2,15,23
@@ -494,7 +494,7 @@ Boone,EAGLE 12,U.S. House,5,,Write-In,0,0,0,0
 Boone,EAGLE 12,State Representative,24,R,Donna Schaibley,60,63,279,402
 Boone,EAGLE 12,State Representative,24,D,Naomo S Bechtold,23,87,222,332
 Boone,EAGLE 13,Registered Voters,,,,,,,1894
-Boone,EAGLE 13,Ballots Cast ,,,,194,216,977,1387
+Boone,EAGLE 13,Ballots Cast,,,,194,216,977,1387
 Boone,EAGLE 13,President,,R,Trump\Pence,105,64,448,617
 Boone,EAGLE 13,President,,D,Biden\Harris,76,143,503,722
 Boone,EAGLE 13,President,,L,Jorgense\Cohen,12,5,19,36
@@ -511,7 +511,7 @@ Boone,EAGLE 13,U.S. House,5,,Write-In,0,0,0,0
 Boone,EAGLE 13,State Representative,24,R,Donna Schaibley,113,81,524,718
 Boone,EAGLE 13,State Representative,24,D,Naomo S Bechtold,70,126,434,630
 Boone,EAGLE 14,Registered Voters,,,,,,,1231
-Boone,EAGLE 14,Ballots Cast ,,,,94,164,712,970
+Boone,EAGLE 14,Ballots Cast,,,,94,164,712,970
 Boone,EAGLE 14,President,,R,Trump\Pence,67,46,319,432
 Boone,EAGLE 14,President,,D,Biden\Harris,20,109,374,503
 Boone,EAGLE 14,President,,L,Jorgense\Cohen,3,3,11,17
@@ -528,7 +528,7 @@ Boone,EAGLE 14,U.S. House,5,,Write-In,0,0,0,0
 Boone,EAGLE 14,State Representative,24,R,Donna Schaibley,74,77,399,550
 Boone,EAGLE 14,State Representative,24,D,Naomo S Bechtold,14,84,295,393
 Boone,EAGLE 15,Registered Voters,,,,,,,682
-Boone,EAGLE 15,Ballots Cast ,,,,38,112,385,535
+Boone,EAGLE 15,Ballots Cast,,,,38,112,385,535
 Boone,EAGLE 15,President,,R,Trump\Pence,28,38,198,264
 Boone,EAGLE 15,President,,D,Biden\Harris,9,68,178,255
 Boone,EAGLE 15,President,,L,Jorgense\Cohen,0,2,9,11
@@ -545,7 +545,7 @@ Boone,EAGLE 15,U.S. House,5,,Write-In,0,0,0,0
 Boone,EAGLE 15,State Representative,24,R,Donna Schaibley,31,52,237,320
 Boone,EAGLE 15,State Representative,24,D,Naomo S Bechtold,7,49,142,198
 Boone,EAGLE 16,Registered Voters,,,,,,,891
-Boone,EAGLE 16,Ballots Cast ,,,,31,449,266,746
+Boone,EAGLE 16,Ballots Cast,,,,31,449,266,746
 Boone,EAGLE 16,President,,R,Trump\Pence,24,189,127,340
 Boone,EAGLE 16,President,,D,Biden\Harris,6,249,135,390
 Boone,EAGLE 16,President,,L,Jorgense\Cohen,1,3,3,7
@@ -562,7 +562,7 @@ Boone,EAGLE 16,U.S. House,5,,Write-In,0,0,0,0
 Boone,EAGLE 16,State Representative,24,R,Donna Schaibley,24,233,142,399
 Boone,EAGLE 16,State Representative,24,D,Naomo S Bechtold,7,192,118,317
 Boone,EAGLE 17,Registered Voters,,,,,,,1016
-Boone,EAGLE 17,Ballots Cast ,,,,85,153,481,719
+Boone,EAGLE 17,Ballots Cast,,,,85,153,481,719
 Boone,EAGLE 17,President,,R,Trump\Pence,46,59,248,353
 Boone,EAGLE 17,President,,D,Biden\Harris,31,91,220,342
 Boone,EAGLE 17,President,,L,Jorgense\Cohen,8,2,10,20
@@ -579,7 +579,7 @@ Boone,EAGLE 17,U.S. House,5,,Write-In,0,0,0,0
 Boone,EAGLE 17,State Representative,24,R,Donna Schaibley,48,89,283,400
 Boone,EAGLE 17,State Representative,24,D,Naomo S Bechtold,32,78,187,297
 Boone,EAGLE 18,Registered Voters,,,,,,,957
-Boone,EAGLE 18,Ballots Cast ,,,,74,187,479,740
+Boone,EAGLE 18,Ballots Cast,,,,74,187,479,740
 Boone,EAGLE 18,President,,R,Trump\Pence,45,67,231,343
 Boone,EAGLE 18,President,,D,Biden\Harris,21,114,226,361
 Boone,EAGLE 18,President,,L,Jorgense\Cohen,5,3,13,21
@@ -596,7 +596,7 @@ Boone,EAGLE 18,U.S. House,5,,Write-In,0,0,0,0
 Boone,EAGLE 18,State Representative,24,R,Donna Schaibley,54,94,289,437
 Boone,EAGLE 18,State Representative,24,D,Naomo S Bechtold,19,84,186,289
 Boone,EAGLE 19,Registered Voters,,,,,,,1492
-Boone,EAGLE 19,Ballots Cast ,,,,133,184,854,1171
+Boone,EAGLE 19,Ballots Cast,,,,133,184,854,1171
 Boone,EAGLE 19,President,,R,Trump\Pence,83,54,412,549
 Boone,EAGLE 19,President,,D,Biden\Harris,45,119,410,574
 Boone,EAGLE 19,President,,L,Jorgense\Cohen,4,8,24,36
@@ -613,7 +613,7 @@ Boone,EAGLE 19,U.S. House,5,,Write-In,0,0,0,0
 Boone,EAGLE 19,State Representative,24,R,Donna Schaibley,90,77,452,619
 Boone,EAGLE 19,State Representative,24,D,Naomo S Bechtold,37,100,377,514
 Boone,EAGLE 20,Registered Voters,,,,,,,1895
-Boone,EAGLE 20,Ballots Cast ,,,,181,229,1031,1441
+Boone,EAGLE 20,Ballots Cast,,,,181,229,1031,1441
 Boone,EAGLE 20,President,,R,Trump\Pence,100,81,465,646
 Boone,EAGLE 20,President,,D,Biden\Harris,71,138,541,750
 Boone,EAGLE 20,President,,L,Jorgense\Cohen,6,7,14,27
@@ -630,7 +630,7 @@ Boone,EAGLE 20,U.S. House,5,,Write-In,0,0,1,1
 Boone,EAGLE 20,State Representative,24,R,Donna Schaibley,110,98,531,739
 Boone,EAGLE 20,State Representative,24,D,Naomo S Bechtold,58,120,475,653
 Boone,HARRISON,Registered Voters,,,,,,,551
-Boone,HARRISON,Ballots Cast ,,,,89,48,279,416
+Boone,HARRISON,Ballots Cast,,,,89,48,279,416
 Boone,HARRISON,President,,R,Trump\Pence,73,28,212,313
 Boone,HARRISON,President,,D,Biden\Harris,10,20,60,90
 Boone,HARRISON,President,,L,Jorgense\Cohen,4,0,3,7
@@ -646,7 +646,7 @@ Boone,HARRISON,U.S. House,4,,Write-In,0,0,0,0
 Boone,HARRISON,State Representative,41,R,Tim Brown,80,29,215,324
 Boone,HARRISON,State Representative,41,D,Greg A. Woods,6,18,58,82
 Boone,JACKSON 1,Registered Voters,,,,,,,727
-Boone,JACKSON 1,Ballots Cast ,,,,220,51,242,513
+Boone,JACKSON 1,Ballots Cast,,,,220,51,242,513
 Boone,JACKSON 1,President,,R,Trump\Pence,185,34,204,423
 Boone,JACKSON 1,President,,D,Biden\Harris,27,16,36,79
 Boone,JACKSON 1,President,,L,Jorgense\Cohen,5,0,2,7
@@ -662,7 +662,7 @@ Boone,JACKSON 1,U.S. House,4,,Write-In,1,0,0,1
 Boone,JACKSON 1,State Representative,41,R,Tim Brown,179,31,203,413
 Boone,JACKSON 1,State Representative,41,D,Greg A. Woods,28,15,32,75
 Boone,JACKSON 2,Registered Voters,,,,,,,683
-Boone,JACKSON 2,Ballots Cast ,,,,166,54,279,499
+Boone,JACKSON 2,Ballots Cast,,,,166,54,279,499
 Boone,JACKSON 2,President,,R,Trump\Pence,134,23,202,359
 Boone,JACKSON 2,President,,D,Biden\Harris,25,30,65,120
 Boone,JACKSON 2,President,,L,Jorgense\Cohen,4,1,5,10
@@ -678,7 +678,7 @@ Boone,JACKSON 2,U.S. House,4,,Write-In,0,0,0,0
 Boone,JACKSON 2,State Representative,41,R,Tim Brown,130,27,202,359
 Boone,JACKSON 2,State Representative,41,D,Greg A. Woods,25,25,66,116
 Boone,JACKSON 3,Registered Voters,,,,,,,546
-Boone,JACKSON 3,Ballots Cast ,,,,141,31,225,397
+Boone,JACKSON 3,Ballots Cast,,,,141,31,225,397
 Boone,JACKSON 3,President,,R,Trump\Pence,117,15,187,319
 Boone,JACKSON 3,President,,D,Biden\Harris,17,14,34,65
 Boone,JACKSON 3,President,,L,Jorgense\Cohen,5,1,3,9
@@ -694,7 +694,7 @@ Boone,JACKSON 3,U.S. House,4,,Write-In,0,0,0,0
 Boone,JACKSON 3,State Representative,41,R,Tim Brown,119,17,181,317
 Boone,JACKSON 3,State Representative,41,D,Greg A. Woods,17,10,36,63
 Boone,JEFFERSON,Registered Voters,,,,,,,1172
-Boone,JEFFERSON,Ballots Cast ,,,,237,81,582,900
+Boone,JEFFERSON,Ballots Cast,,,,237,81,582,900
 Boone,JEFFERSON,President,,R,Trump\Pence,205,51,461,717
 Boone,JEFFERSON,President,,D,Biden\Harris,23,25,106,154
 Boone,JEFFERSON,President,,L,Jorgense\Cohen,8,4,11,23
@@ -712,7 +712,7 @@ Boone,JEFFERSON,State Senate,7,D,Tabitha N. Bartley,19,26,81,126
 Boone,JEFFERSON,State Representative,41,R,Tim Brown,198,53,481,732
 Boone,JEFFERSON,State Representative,41,D,Greg A. Woods,27,24,84,135
 Boone,MARION 1,Registered Voters,,,,,,,454
-Boone,MARION 1,Ballots Cast ,,,,92,53,195,340
+Boone,MARION 1,Ballots Cast,,,,92,53,195,340
 Boone,MARION 1,President,,R,Trump\Pence,73,31,157,261
 Boone,MARION 1,President,,D,Biden\Harris,19,18,29,66
 Boone,MARION 1,President,,L,Jorgense\Cohen,0,2,8,10
@@ -731,7 +731,7 @@ Boone,MARION 1,State Senate,7,D,Tabitha N. Bartley,14,15,25,54
 Boone,MARION 1,State Representative,41,R,Tim Brown,73,35,167,275
 Boone,MARION 1,State Representative,41,D,Greg A. Woods,16,14,25,55
 Boone,MARION 2,Registered Voters,,,,,,,518
-Boone,MARION 2,Ballots Cast ,,,,79,65,251,395
+Boone,MARION 2,Ballots Cast,,,,79,65,251,395
 Boone,MARION 2,President,,R,Trump\Pence,71,32,193,296
 Boone,MARION 2,President,,D,Biden\Harris,7,30,54,91
 Boone,MARION 2,President,,L,Jorgense\Cohen,1,0,2,3
@@ -750,7 +750,7 @@ Boone,MARION 2,State Senate,7,D,Tabitha N. Bartley,10,26,44,80
 Boone,MARION 2,State Representative,41,R,Tim Brown,71,32,192,295
 Boone,MARION 2,State Representative,41,D,Greg A. Woods,8,30,48,86
 Boone,PERRY,Registered Voters,,,,,,,1108
-Boone,PERRY,Ballots Cast ,,,,136,146,551,833
+Boone,PERRY,Ballots Cast,,,,136,146,551,833
 Boone,PERRY,President,,R,Trump\Pence,109,70,374,553
 Boone,PERRY,President,,D,Biden\Harris,20,71,161,252
 Boone,PERRY,President,,L,Jorgense\Cohen,6,4,9,19
@@ -766,7 +766,7 @@ Boone,PERRY,U.S. House,4,,Write-In,0,0,0,0
 Boone,PERRY,State Representative,28,R,Jeffrey A Thompson,114,86,393,593
 Boone,PERRY,State Representative,28,D,Eric C. Shotwell,17,57,142,216
 Boone,SUGAR CREEK 1,Registered Voters,,,,,,,721
-Boone,SUGAR CREEK 1,Ballots Cast ,,,,144,60,293,497
+Boone,SUGAR CREEK 1,Ballots Cast,,,,144,60,293,497
 Boone,SUGAR CREEK 1,President,,R,Trump\Pence,115,28,226,369
 Boone,SUGAR CREEK 1,President,,D,Biden\Harris,22,30,61,113
 Boone,SUGAR CREEK 1,President,,L,Jorgense\Cohen,5,2,4,11
@@ -784,7 +784,7 @@ Boone,SUGAR CREEK 1,State Senate,7,D,Tabitha N. Bartley,20,26,61,107
 Boone,SUGAR CREEK 1,State Representative,41,R,Tim Brown,117,30,222,369
 Boone,SUGAR CREEK 1,State Representative,41,D,Greg A. Woods,24,27,61,112
 Boone,SUGAR CREEK 2,Registered Voters,,,,,,,827
-Boone,SUGAR CREEK 2,Ballots Cast ,,,,187,59,319,565
+Boone,SUGAR CREEK 2,Ballots Cast,,,,187,59,319,565
 Boone,SUGAR CREEK 2,President,,R,Trump\Pence,159,26,243,428
 Boone,SUGAR CREEK 2,President,,D,Biden\Harris,20,29,64,113
 Boone,SUGAR CREEK 2,President,,L,Jorgense\Cohen,5,2,10,17
@@ -802,7 +802,7 @@ Boone,SUGAR CREEK 2,State Senate,7,D,Tabitha N. Bartley,23,25,54,102
 Boone,SUGAR CREEK 2,State Representative,41,R,Tim Brown,154,34,239,427
 Boone,SUGAR CREEK 2,State Representative,41,D,Greg A. Woods,21,24,65,110
 Boone,UNION 1,Registered Voters,,,,,,,1462
-Boone,UNION 1,Ballots Cast ,,,,156,207,766,1129
+Boone,UNION 1,Ballots Cast,,,,156,207,766,1129
 Boone,UNION 1,President,,R,Trump\Pence,103,76,433,612
 Boone,UNION 1,President,,D,Biden\Harris,43,124,315,482
 Boone,UNION 1,President,,L,Jorgense\Cohen,9,6,9,24
@@ -821,7 +821,7 @@ Boone,UNION 1,State Senate,7,D,Tabitha N. Bartley,30,101,252,383
 Boone,UNION 1,State Representative,24,R,Donna Schaibley,117,87,497,701
 Boone,UNION 1,State Representative,24,D,Naomo S Bechtold,31,112,257,400
 Boone,UNION 2,Registered Voters,,,,,,,1238
-Boone,UNION 2,Ballots Cast ,,,,104,180,658,942
+Boone,UNION 2,Ballots Cast,,,,104,180,658,942
 Boone,UNION 2,President,,R,Trump\Pence,74,89,433,596
 Boone,UNION 2,President,,D,Biden\Harris,24,89,207,320
 Boone,UNION 2,President,,L,Jorgense\Cohen,2,0,9,11
@@ -840,7 +840,7 @@ Boone,UNION 2,State Senate,7,D,Tabitha N. Bartley,17,57,165,239
 Boone,UNION 2,State Representative,24,R,Donna Schaibley,83,102,472,657
 Boone,UNION 2,State Representative,24,D,Naomo S Bechtold,18,65,169,252
 Boone,WASHINGTON,Registered Voters,,,,,,,1104
-Boone,WASHINGTON,Ballots Cast ,,,,153,93,568,814
+Boone,WASHINGTON,Ballots Cast,,,,153,93,568,814
 Boone,WASHINGTON,President,,R,Trump\Pence,134,46,443,623
 Boone,WASHINGTON,President,,D,Biden\Harris,11,40,109,160
 Boone,WASHINGTON,President,,L,Jorgense\Cohen,6,2,8,16
@@ -858,7 +858,7 @@ Boone,WASHINGTON,State Senate,7,D,Tabitha N. Bartley,11,34,83,128
 Boone,WASHINGTON,State Representative,41,R,Tim Brown,134,51,456,641
 Boone,WASHINGTON,State Representative,41,D,Greg A. Woods,12,36,90,138
 Boone,WORTH 1,Registered Voters,,,,,,,2461
-Boone,WORTH 1,Ballots Cast ,,,,298,232,1236,1766
+Boone,WORTH 1,Ballots Cast,,,,298,232,1236,1766
 Boone,WORTH 1,President,,R,Trump\Pence,196,75,658,929
 Boone,WORTH 1,President,,D,Biden\Harris,85,148,536,770
 Boone,WORTH 1,President,,L,Jorgense\Cohen,16,6,35,57
@@ -874,7 +874,7 @@ Boone,WORTH 1,U.S. House,4,,Write-In,0,0,0,0
 Boone,WORTH 1,State Representative,28,R,Jeffrey A Thompson,210,86,729,1025
 Boone,WORTH 1,State Representative,28,D,Eric C. Shotwell,75,136,468,679
 Boone,WORTH 2,Registered Voters,,,,,,,1106
-Boone,WORTH 2,Ballots Cast ,,,,147,148,564,859
+Boone,WORTH 2,Ballots Cast,,,,147,148,564,859
 Boone,WORTH 2,President,,R,Trump\Pence,98,64,366,528
 Boone,WORTH 2,President,,D,Biden\Harris,37,80,188,305
 Boone,WORTH 2,President,,L,Jorgense\Cohen,7,3,7,17

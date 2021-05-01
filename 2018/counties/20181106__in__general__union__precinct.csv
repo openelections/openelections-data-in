@@ -1,6 +1,6 @@
 county,precinct,office,district,candidate,party,votes
 Union,Brownsville,Registered Voters,,,,608
-Union,Brownsville,Ballots Cast ,,,,29
+Union,Brownsville,Ballots Cast,,,,29
 Union,Brownsville,Straight Party,,,REP,104
 Union,Brownsville,Straight Party,,,DEM,28
 Union,Brownsville,Straight Party,,,LIB,1
@@ -26,7 +26,7 @@ Union,Brownsville,State Senate,27,Jerome (Jake) Hoog,DEM,64
 Union,Brownsville,State Representative,68,Randy Lyness,REP,222
 Union,Brownsville,State Representative,68,Matt Gaustad,DEM,63
 Union,Liberty,Registered Voters,,,,772
-Union,Liberty,Ballots Cast ,,,,435
+Union,Liberty,Ballots Cast,,,,435
 Union,Liberty,Straight Party,,,REP,159
 Union,Liberty,Straight Party,,,DEM,38
 Union,Liberty,Straight Party,,,LIB,0
@@ -52,7 +52,7 @@ Union,Liberty,State Senate,27,Jerome (Jake) Hoog,DEM,110
 Union,Liberty,State Representative,68,Randy Lyness,REP,322
 Union,Liberty,State Representative,68,Matt Gaustad,DEM,98
 Union,Center,Registered Voters,,,,657
-Union,Center,Ballots Cast ,,,,382
+Union,Center,Ballots Cast,,,,382
 Union,Center,Straight Party,,,REP,168
 Union,Center,Straight Party,,,DEM,42
 Union,Center,Straight Party,,,LIB,0
@@ -78,7 +78,7 @@ Union,Center,State Senate,27,Jerome (Jake) Hoog,DEM,79
 Union,Center,State Representative,68,Randy Lyness,REP,297
 Union,Center,State Representative,68,Matt Gaustad,DEM,77
 Union,Harrison,Registered Voters,,,,324
-Union,Harrison,Ballots Cast ,,,,183
+Union,Harrison,Ballots Cast,,,,183
 Union,Harrison,Straight Party,,,REP,64
 Union,Harrison,Straight Party,,,DEM,9
 Union,Harrison,Straight Party,,,LIB,0
@@ -104,7 +104,7 @@ Union,Harrison,State Senate,27,Jerome (Jake) Hoog,DEM,22
 Union,Harrison,State Representative,68,Randy Lyness,REP,156
 Union,Harrison,State Representative,68,Matt Gaustad,DEM,23
 Union,Center 1,Registered Voters,,,,468
-Union,Center 1,Ballots Cast ,,,,187
+Union,Center 1,Ballots Cast,,,,187
 Union,Center 1,Straight Party,,,REP,69
 Union,Center 1,Straight Party,,,DEM,27
 Union,Center 1,Straight Party,,,LIB,0
@@ -130,7 +130,7 @@ Union,Center 1,State Senate,27,Jerome (Jake) Hoog,DEM,60
 Union,Center 1,State Representative,68,Randy Lyness,REP,123
 Union,Center 1,State Representative,68,Matt Gaustad,DEM,59
 Union,Center 2,Registered Voters,,,,445
-Union,Center 2,Ballots Cast ,,,,201
+Union,Center 2,Ballots Cast,,,,201
 Union,Center 2,Straight Party,,,REP,65
 Union,Center 2,Straight Party,,,DEM,22
 Union,Center 2,Straight Party,,,LIB,3
@@ -156,7 +156,7 @@ Union,Center 2,State Senate,27,Jerome (Jake) Hoog,DEM,55
 Union,Center 2,State Representative,68,Randy Lyness,REP,140
 Union,Center 2,State Representative,68,Matt Gaustad,DEM,55
 Union,Center 3,Registered Voters,,,,428
-Union,Center 3,Ballots Cast ,,,,221
+Union,Center 3,Ballots Cast,,,,221
 Union,Center 3,Straight Party,,,REP,63
 Union,Center 3,Straight Party,,,DEM,19
 Union,Center 3,Straight Party,,,LIB,3
@@ -182,7 +182,7 @@ Union,Center 3,State Senate,27,Jerome (Jake) Hoog,DEM,60
 Union,Center 3,State Representative,68,Randy Lyness,REP,158
 Union,Center 3,State Representative,68,Matt Gaustad,DEM,56
 Union,Harmony,Registered Voters,,,,430
-Union,Harmony,Ballots Cast ,,,,192
+Union,Harmony,Ballots Cast,,,,192
 Union,Harmony,Straight Party,,,REP,82
 Union,Harmony,Straight Party,,,DEM,32
 Union,Harmony,Straight Party,,,LIB,0
@@ -208,7 +208,7 @@ Union,Harmony,State Senate,27,Jerome (Jake) Hoog,DEM,59
 Union,Harmony,State Representative,68,Randy Lyness,REP,134
 Union,Harmony,State Representative,68,Matt Gaustad,DEM,54
 Union,Union,Registered Voters,,,,648
-Union,Union,Ballots Cast ,,,,319
+Union,Union,Ballots Cast,,,,319
 Union,Union,Straight Party,,,REP,108
 Union,Union,Straight Party,,,DEM,35
 Union,Union,Straight Party,,,LIB,2
@@ -234,7 +234,7 @@ Union,Union,State Senate,27,Jerome (Jake) Hoog,DEM,66
 Union,Union,State Representative,68,Randy Lyness,REP,242
 Union,Union,State Representative,68,Matt Gaustad,DEM,65
 Union,West College Corner,Registered Voters,,,,476
-Union,West College Corner,Ballots Cast ,,,,136
+Union,West College Corner,Ballots Cast,,,,136
 Union,West College Corner,Straight Party,,,REP,34
 Union,West College Corner,Straight Party,,,DEM,21
 Union,West College Corner,Straight Party,,,LIB,0

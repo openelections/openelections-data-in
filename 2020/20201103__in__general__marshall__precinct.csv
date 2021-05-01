@@ -1,6 +1,6 @@
 county,precinct,office,district,party,candidate,election_day,absentee,early_voting,votes
 Marshall,Bourbon 1,Registered Voters,,,,,,,944
-Marshall,Bourbon 1,Ballots Cast ,,,,419,57,185,661
+Marshall,Bourbon 1,Ballots Cast,,,,419,57,185,661
 Marshall,Bourbon 1,President,,REP,Donald J Trump,353,41,136,530
 Marshall,Bourbon 1,President,,DEM,Joseph R Biden,52,15,43,110
 Marshall,Bourbon 1,President,,LIB,Jo Jorgensen,13,1,1,15
@@ -18,7 +18,7 @@ Marshall,Bourbon 1,State Senate,9,DEM,Brandon M Cavanaugh,49,12,41,102
 Marshall,Bourbon 1,State Representative,17,REP,Jack Jordan,356,44,138,538
 Marshall,Bourbon 1,State Representative,17,DEM,Bianka M. Tinklenberg,50,8,37,95
 Marshall,Bourbon 2,Registered Voters,,,,,,,915
-Marshall,Bourbon 2,Ballots Cast ,,,,415,45,183,643
+Marshall,Bourbon 2,Ballots Cast,,,,415,45,183,643
 Marshall,Bourbon 2,President,,REP,Donald J Trump,330,26,130,486
 Marshall,Bourbon 2,President,,DEM,Joseph R Biden,74,14,51,139
 Marshall,Bourbon 2,President,,LIB,Jo Jorgensen,9,4,1,14
@@ -36,7 +36,7 @@ Marshall,Bourbon 2,State Senate,9,DEM,Brandon M Cavanaugh,65,14,48,127
 Marshall,Bourbon 2,State Representative,17,REP,Jack Jordan,339,30,133,502
 Marshall,Bourbon 2,State Representative,17,DEM,Bianka M. Tinklenberg,61,14,44,119
 Marshall,Center 1,Registered Voters,,,,,,,1144
-Marshall,Center 1,Ballots Cast ,,,,220,93,253,566
+Marshall,Center 1,Ballots Cast,,,,220,93,253,566
 Marshall,Center 1,President,,REP,Donald J Trump,140,45,138,323
 Marshall,Center 1,President,,DEM,Joseph R Biden,68,45,111,224
 Marshall,Center 1,President,,LIB,Jo Jorgensen,8,3,3,14
@@ -54,7 +54,7 @@ Marshall,Center 1,State Senate,9,DEM,Brandon M Cavanaugh,69,40,102,211
 Marshall,Center 1,State Representative,17,REP,Jack Jordan,149,45,143,337
 Marshall,Center 1,State Representative,17,DEM,Bianka M. Tinklenberg,64,36,102,202
 Marshall,Center 2,Registered Voters,,,,,,,1490
-Marshall,Center 2,Ballots Cast ,,,,350,168,372,890
+Marshall,Center 2,Ballots Cast,,,,350,168,372,890
 Marshall,Center 2,President,,REP,Donald J Trump,244,74,219,537
 Marshall,Center 2,President,,DEM,Joseph R Biden,91,87,140,318
 Marshall,Center 2,President,,LIB,Jo Jorgensen,10,3,8,21
@@ -72,7 +72,7 @@ Marshall,Center 2,State Senate,9,DEM,Brandon M Cavanaugh,91,74,131,296
 Marshall,Center 2,State Representative,17,REP,Jack Jordan,246,87,236,569
 Marshall,Center 2,State Representative,17,DEM,Bianka M. Tinklenberg,91,77,124,292
 Marshall,Center 3,Registered Voters,,,,,,,1558
-Marshall,Center 3,Ballots Cast ,,,,394,147,380,921
+Marshall,Center 3,Ballots Cast,,,,394,147,380,921
 Marshall,Center 3,President,,REP,Donald J Trump,261,52,186,499
 Marshall,Center 3,President,,DEM,Joseph R Biden,119,89,180,388
 Marshall,Center 3,President,,LIB,Jo Jorgensen,10,6,9,25
@@ -90,7 +90,7 @@ Marshall,Center 3,State Senate,9,DEM,Brandon M Cavanaugh,111,74,159,344
 Marshall,Center 3,State Representative,17,REP,Jack Jordan,266,70,204,540
 Marshall,Center 3,State Representative,17,DEM,Bianka M. Tinklenberg,110,68,164,342
 Marshall,Center 4,Registered Voters,,,,,,,1610
-Marshall,Center 4,Ballots Cast ,,,,440,196,429,1065
+Marshall,Center 4,Ballots Cast,,,,440,196,429,1065
 Marshall,Center 4,President,,REP,Donald J Trump,279,80,222,581
 Marshall,Center 4,President,,DEM,Joseph R Biden,135,112,189,436
 Marshall,Center 4,President,,LIB,Jo Jorgensen,20,1,11,32
@@ -108,7 +108,7 @@ Marshall,Center 4,State Senate,9,DEM,Brandon M Cavanaugh,135,88,162,385
 Marshall,Center 4,State Representative,17,REP,Jack Jordan,291,98,250,639
 Marshall,Center 4,State Representative,17,DEM,Bianka M. Tinklenberg,130,87,162,379
 Marshall,Center 5,Registered Voters,,,,,,,1012
-Marshall,Center 5,Ballots Cast ,,,,323,83,312,718
+Marshall,Center 5,Ballots Cast,,,,323,83,312,718
 Marshall,Center 5,President,,REP,Donald J Trump,266,51,221,538
 Marshall,Center 5,President,,DEM,Joseph R Biden,49,28,84,161
 Marshall,Center 5,President,,LIB,Jo Jorgensen,7,2,3,12
@@ -126,7 +126,7 @@ Marshall,Center 5,State Senate,9,DEM,Brandon M Cavanaugh,52,25,71,148
 Marshall,Center 5,State Representative,17,REP,Jack Jordan,253,58,232,543
 Marshall,Center 5,State Representative,17,DEM,Bianka M. Tinklenberg,51,22,72,145
 Marshall,Center 6,Registered Voters,,,,,,,1056
-Marshall,Center 6,Ballots Cast ,,,,352,95,341,788
+Marshall,Center 6,Ballots Cast,,,,352,95,341,788
 Marshall,Center 6,President,,REP,Donald J Trump,270,36,208,514
 Marshall,Center 6,President,,DEM,Joseph R Biden,72,58,125,255
 Marshall,Center 6,President,,LIB,Jo Jorgensen,6,0,1,7
@@ -144,7 +144,7 @@ Marshall,Center 6,State Senate,9,DEM,Brandon M Cavanaugh,71,39,109,219
 Marshall,Center 6,State Representative,17,REP,Jack Jordan,266,45,223,534
 Marshall,Center 6,State Representative,17,DEM,Bianka M. Tinklenberg,75,45,109,229
 Marshall,Center 7,Registered Voters,,,,,,,1077
-Marshall,Center 7,Ballots Cast ,,,,321,104,401,826
+Marshall,Center 7,Ballots Cast,,,,321,104,401,826
 Marshall,Center 7,President,,REP,Donald J Trump,239,50,259,548
 Marshall,Center 7,President,,DEM,Joseph R Biden,71,52,129,252
 Marshall,Center 7,President,,LIB,Jo Jorgensen,9,2,8,19
@@ -162,7 +162,7 @@ Marshall,Center 7,State Senate,9,DEM,Brandon M Cavanaugh,64,40,110,214
 Marshall,Center 7,State Representative,17,REP,Jack Jordan,244,57,279,580
 Marshall,Center 7,State Representative,17,DEM,Bianka M. Tinklenberg,69,41,107,217
 Marshall,Center 8,Registered Voters,,,,,,,805
-Marshall,Center 8,Ballots Cast ,,,,204,89,288,581
+Marshall,Center 8,Ballots Cast,,,,204,89,288,581
 Marshall,Center 8,President,,REP,Donald J Trump,171,47,179,397
 Marshall,Center 8,President,,DEM,Joseph R Biden,27,40,104,171
 Marshall,Center 8,President,,LIB,Jo Jorgensen,2,1,3,6
@@ -180,7 +180,7 @@ Marshall,Center 8,State Senate,9,DEM,Brandon M Cavanaugh,26,36,85,147
 Marshall,Center 8,State Representative,17,REP,Jack Jordan,166,48,200,414
 Marshall,Center 8,State Representative,17,DEM,Bianka M. Tinklenberg,29,32,81,142
 Marshall,German 1,Registered Voters,,,,,,,1103
-Marshall,German 1,Ballots Cast ,,,,379,89,321,789
+Marshall,German 1,Ballots Cast,,,,379,89,321,789
 Marshall,German 1,President,,REP,Donald J Trump,314,57,262,633
 Marshall,German 1,President,,DEM,Joseph R Biden,53,30,51,134
 Marshall,German 1,President,,LIB,Jo Jorgensen,4,0,2,6
@@ -198,7 +198,7 @@ Marshall,German 1,State Senate,9,DEM,Brandon M Cavanaugh,46,24,49,119
 Marshall,German 1,State Representative,17,REP,Jack Jordan,320,58,262,640
 Marshall,German 1,State Representative,17,DEM,Bianka M. Tinklenberg,54,26,49,129
 Marshall,German 2,Registered Voters,,,,,,,937
-Marshall,German 2,Ballots Cast ,,,,395,77,215,687
+Marshall,German 2,Ballots Cast,,,,395,77,215,687
 Marshall,German 2,President,,REP,Donald J Trump,336,39,167,542
 Marshall,German 2,President,,DEM,Joseph R Biden,43,34,46,123
 Marshall,German 2,President,,LIB,Jo Jorgensen,10,2,1,13
@@ -216,7 +216,7 @@ Marshall,German 2,State Senate,9,DEM,Brandon M Cavanaugh,36,18,28,82
 Marshall,German 2,State Representative,17,REP,Jack Jordan,351,53,173,577
 Marshall,German 2,State Representative,17,DEM,Bianka M. Tinklenberg,36,19,33,88
 Marshall,German 3,Registered Voters,,,,,,,739
-Marshall,German 3,Ballots Cast ,,,,267,81,184,532
+Marshall,German 3,Ballots Cast,,,,267,81,184,532
 Marshall,German 3,President,,REP,Donald J Trump,185,43,130,358
 Marshall,German 3,President,,DEM,Joseph R Biden,71,34,50,155
 Marshall,German 3,President,,LIB,Jo Jorgensen,7,0,0,7
@@ -234,7 +234,7 @@ Marshall,German 3,State Senate,9,DEM,Brandon M Cavanaugh,61,22,31,114
 Marshall,German 3,State Representative,17,REP,Jack Jordan,198,54,148,400
 Marshall,German 3,State Representative,17,DEM,Bianka M. Tinklenberg,62,25,32,119
 Marshall,German 4,Registered Voters,,,,,,,890
-Marshall,German 4,Ballots Cast ,,,,303,74,173,550
+Marshall,German 4,Ballots Cast,,,,303,74,173,550
 Marshall,German 4,President,,REP,Donald J Trump,203,34,115,352
 Marshall,German 4,President,,DEM,Joseph R Biden,90,38,55,183
 Marshall,German 4,President,,LIB,Jo Jorgensen,8,1,0,9
@@ -252,7 +252,7 @@ Marshall,German 4,State Senate,9,DEM,Brandon M Cavanaugh,72,32,49,153
 Marshall,German 4,State Representative,17,REP,Jack Jordan,214,41,123,378
 Marshall,German 4,State Representative,17,DEM,Bianka M. Tinklenberg,78,31,44,153
 Marshall,German 5,Registered Voters,,,,,,,1138
-Marshall,German 5,Ballots Cast ,,,,426,90,219,735
+Marshall,German 5,Ballots Cast,,,,426,90,219,735
 Marshall,German 5,President,,REP,Donald J Trump,320,40,153,513
 Marshall,German 5,President,,DEM,Joseph R Biden,94,43,61,198
 Marshall,German 5,President,,LIB,Jo Jorgensen,10,3,3,16
@@ -270,7 +270,7 @@ Marshall,German 5,State Senate,9,DEM,Brandon M Cavanaugh,81,35,48,164
 Marshall,German 5,State Representative,17,REP,Jack Jordan,334,47,158,539
 Marshall,German 5,State Representative,17,DEM,Bianka M. Tinklenberg,81,38,53,172
 Marshall,Green,Registered Voters,,,,,,,716
-Marshall,Green,Ballots Cast ,,,,339,52,14,531
+Marshall,Green,Ballots Cast,,,,339,52,14,531
 Marshall,Green,President,,REP,Donald J Trump,265,26,105,396
 Marshall,Green,President,,DEM,Joseph R Biden,58,26,34,118
 Marshall,Green,President,,LIB,Jo Jorgensen,13,0,0,13
@@ -288,7 +288,7 @@ Marshall,Green,State Senate,18,DEM,Laura Fred-Smith,64,24,29,117
 Marshall,Green,State Representative,17,REP,Jack Jordan,271,27,109,407
 Marshall,Green,State Representative,17,DEM,Bianka M. Tinklenberg,61,23,27,111
 Marshall,North 1,Registered Voters,,,,,,,1103
-Marshall,North 1,Ballots Cast ,,,,441,98,201,740
+Marshall,North 1,Ballots Cast,,,,441,98,201,740
 Marshall,North 1,President,,REP,Donald J Trump,346,42,145,533
 Marshall,North 1,President,,DEM,Joseph R Biden,82,55,51,188
 Marshall,North 1,President,,LIB,Jo Jorgensen,7,0,3,10
@@ -306,7 +306,7 @@ Marshall,North 1,State Senate,9,DEM,Brandon M Cavanaugh,78,40,48,166
 Marshall,North 1,State Representative,17,REP,Jack Jordan,340,52,150,542
 Marshall,North 1,State Representative,17,DEM,Bianka M. Tinklenberg,81,43,42,166
 Marshall,North 2,Registered Voters,,,,,,,791
-Marshall,North 2,Ballots Cast ,,,,274,75,201,550
+Marshall,North 2,Ballots Cast,,,,274,75,201,550
 Marshall,North 2,President,,REP,Donald J Trump,237,34,145,416
 Marshall,North 2,President,,DEM,Joseph R Biden,32,39,53,124
 Marshall,North 2,President,,LIB,Jo Jorgensen,3,1,2,6
@@ -324,7 +324,7 @@ Marshall,North 2,State Senate,9,DEM,Brandon M Cavanaugh,34,29,47,110
 Marshall,North 2,State Representative,17,REP,Jack Jordan,228,35,148,411
 Marshall,North 2,State Representative,17,DEM,Bianka M. Tinklenberg,33,37,49,119
 Marshall,North 3,Registered Voters,,,,,,,827
-Marshall,North 3,Ballots Cast ,,,,262,73,232,567
+Marshall,North 3,Ballots Cast,,,,262,73,232,567
 Marshall,North 3,President,,REP,Donald J Trump,213,35,156,404
 Marshall,North 3,President,,DEM,Joseph R Biden,42,36,70,148
 Marshall,North 3,President,,LIB,Jo Jorgensen,4,1,4,9
@@ -342,7 +342,7 @@ Marshall,North 3,State Senate,9,DEM,Brandon M Cavanaugh,39,23,64,126
 Marshall,North 3,State Representative,17,REP,Jack Jordan,208,45,161,414
 Marshall,North 3,State Representative,17,DEM,Bianka M. Tinklenberg,39,21,64,124
 Marshall,Polk 1,Registered Voters,,,,,,,888
-Marshall,Polk 1,Ballots Cast ,,,,337,89,197,623
+Marshall,Polk 1,Ballots Cast,,,,337,89,197,623
 Marshall,Polk 1,President,,REP,Donald J Trump,288,40,128,456
 Marshall,Polk 1,President,,DEM,Joseph R Biden,44,45,67,156
 Marshall,Polk 1,President,,LIB,Jo Jorgensen,4,1,2,7
@@ -360,7 +360,7 @@ Marshall,Polk 1,State Senate,9,DEM,Brandon M Cavanaugh,46,43,65,154
 Marshall,Polk 1,State Representative,17,REP,Jack Jordan,280,40,127,447
 Marshall,Polk 1,State Representative,17,DEM,Bianka M. Tinklenberg,49,43,66,158
 Marshall,Polk 2,Registered Voters,,,,,,,1117
-Marshall,Polk 2,Ballots Cast ,,,,477,111,204,792
+Marshall,Polk 2,Ballots Cast,,,,477,111,204,792
 Marshall,Polk 2,President,,REP,Donald J Trump,387,56,139,582
 Marshall,Polk 2,President,,DEM,Joseph R Biden,79,51,62,192
 Marshall,Polk 2,President,,LIB,Jo Jorgensen,10,3,2,15
@@ -378,7 +378,7 @@ Marshall,Polk 2,State Senate,9,DEM,Brandon M Cavanaugh,78,40,59,177
 Marshall,Polk 2,State Representative,17,REP,Jack Jordan,390,66,145,601
 Marshall,Polk 2,State Representative,17,DEM,Bianka M. Tinklenberg,75,40,54,169
 Marshall,Tippecanoe,Registered Voters,,,,,,,848
-Marshall,Tippecanoe,Ballots Cast ,,,,441,45,101,587
+Marshall,Tippecanoe,Ballots Cast,,,,441,45,101,587
 Marshall,Tippecanoe,President,,REP,Donald J Trump,370,24,80,474
 Marshall,Tippecanoe,President,,DEM,Joseph R Biden,59,19,18,96
 Marshall,Tippecanoe,President,,LIB,Jo Jorgensen,6,0,1,7
@@ -396,7 +396,7 @@ Marshall,Tippecanoe,State Senate,18,DEM,Laura Fred-Smith,52,19,18,89
 Marshall,Tippecanoe,State Representative,17,REP,Jack Jordan,378,26,79,483
 Marshall,Tippecanoe,State Representative,17,DEM,Bianka M. Tinklenberg,47,18,17,82
 Marshall,Union 1,Registered Voters,,,,,,,990
-Marshall,Union 1,Ballots Cast ,,,,214,125,332,671
+Marshall,Union 1,Ballots Cast,,,,214,125,332,671
 Marshall,Union 1,President,,REP,Donald J Trump,142,53,162,357
 Marshall,Union 1,President,,DEM,Joseph R Biden,62,69,160,291
 Marshall,Union 1,President,,LIB,Jo Jorgensen,5,1,5,11
@@ -414,7 +414,7 @@ Marshall,Union 1,State Senate,18,DEM,Laura Fred-Smith,48,57,147,252
 Marshall,Union 1,State Representative,17,REP,Jack Jordan,156,60,192,408
 Marshall,Union 1,State Representative,17,DEM,Bianka M. Tinklenberg,46,55,129,230
 Marshall,Union 2,Registered Voters,,,,,,,1360
-Marshall,Union 2,Ballots Cast ,,,,326,167,441,934
+Marshall,Union 2,Ballots Cast,,,,326,167,441,934
 Marshall,Union 2,President,,REP,Donald J Trump,239,67,290,596
 Marshall,Union 2,President,,DEM,Joseph R Biden,80,95,145,320
 Marshall,Union 2,President,,LIB,Jo Jorgensen,7,2,4,13
@@ -432,7 +432,7 @@ Marshall,Union 2,State Senate,18,DEM,Laura Fred-Smith,78,77,135,290
 Marshall,Union 2,State Representative,17,REP,Jack Jordan,242,76,301,619
 Marshall,Union 2,State Representative,17,DEM,Bianka M. Tinklenberg,69,78,129,276
 Marshall,Walnut 1,Registered Voters,,,,,,,992
-Marshall,Walnut 1,Ballots Cast ,,,,423,73,124,620
+Marshall,Walnut 1,Ballots Cast,,,,423,73,124,620
 Marshall,Walnut 1,President,,REP,Donald J Trump,333,35,82,450
 Marshall,Walnut 1,President,,DEM,Joseph R Biden,74,36,40,150
 Marshall,Walnut 1,President,,LIB,Jo Jorgensen,14,2,2,18
@@ -450,7 +450,7 @@ Marshall,Walnut 1,State Senate,18,DEM,Laura Fred-Smith,80,34,45,159
 Marshall,Walnut 1,State Representative,17,REP,Jack Jordan,334,44,83,461
 Marshall,Walnut 1,State Representative,17,DEM,Bianka M. Tinklenberg,74,27,39,140
 Marshall,Walnut 2,Registered Voters,,,,,,,681
-Marshall,Walnut 2,Ballots Cast ,,,,332,51,113,496
+Marshall,Walnut 2,Ballots Cast,,,,332,51,113,496
 Marshall,Walnut 2,President,,REP,Donald J Trump,280,29,77,386
 Marshall,Walnut 2,President,,DEM,Joseph R Biden,42,18,34,94
 Marshall,Walnut 2,President,,LIB,Jo Jorgensen,8,3,2,13
@@ -468,7 +468,7 @@ Marshall,Walnut 2,State Senate,18,DEM,Laura Fred-Smith,47,16,33,96
 Marshall,Walnut 2,State Representative,17,REP,Jack Jordan,276,32,80,388
 Marshall,Walnut 2,State Representative,17,DEM,Bianka M. Tinklenberg,48,17,31,96
 Marshall,West-City of Plymouth,Registered Voters,,,,,,,0
-Marshall,West-City of Plymouth,Ballots Cast ,,,,2,0,0,2
+Marshall,West-City of Plymouth,Ballots Cast,,,,2,0,0,2
 Marshall,West-City of Plymouth,President,,REP,Donald J Trump,1,0,0,1
 Marshall,West-City of Plymouth,President,,DEM,Joseph R Biden,1,0,0,1
 Marshall,West-City of Plymouth,President,,LIB,Jo Jorgensen,0,0,0,0
@@ -486,7 +486,7 @@ Marshall,West-City of Plymouth,State Senate,18,DEM,Laura Fred-Smith,1,0,0,1
 Marshall,West-City of Plymouth,State Representative,17,REP,Jack Jordan,2,0,0,2
 Marshall,West-City of Plymouth,State Representative,17,DEM,Bianka M. Tinklenberg,0,0,0,0
 Marshall,West 1,Registered Voters,,,,,,,981
-Marshall,West 1,Ballots Cast ,,,,302,143,243,688
+Marshall,West 1,Ballots Cast,,,,302,143,243,688
 Marshall,West 1,President,,REP,Donald J Trump,241,44,177,462
 Marshall,West 1,President,,DEM,Joseph R Biden,51,98,62,211
 Marshall,West 1,President,,LIB,Jo Jorgensen,6,0,2,8
@@ -504,7 +504,7 @@ Marshall,West 1,State Senate,18,DEM,Laura Fred-Smith,44,85,61,190
 Marshall,West 1,State Representative,17,REP,Jack Jordan,246,60,174,480
 Marshall,West 1,State Representative,17,DEM,Bianka M. Tinklenberg,48,66,59,173
 Marshall,West 2,Registered Voters,,,,,,,1000
-Marshall,West 2,Ballots Cast ,,,,372,99,240,711
+Marshall,West 2,Ballots Cast,,,,372,99,240,711
 Marshall,West 2,President,,REP,Donald J Trump,311,41,174,526
 Marshall,West 2,President,,DEM,Joseph R Biden,49,56,62,167
 Marshall,West 2,President,,LIB,Jo Jorgensen,5,1,1,7
@@ -522,7 +522,7 @@ Marshall,West 2,State Senate,18,DEM,Laura Fred-Smith,60,49,60,169
 Marshall,West 2,State Representative,17,REP,Jack Jordan,295,49,176,520
 Marshall,West 2,State Representative,17,DEM,Bianka M. Tinklenberg,58,44,58,160
 Marshall,West 3,Registered Voters,,,,,,,929
-Marshall,West 3,Ballots Cast ,,,,267,111,304,682
+Marshall,West 3,Ballots Cast,,,,267,111,304,682
 Marshall,West 3,President,,REP,Donald J Trump,215,46,193,454
 Marshall,West 3,President,,DEM,Joseph R Biden,46,64,99,209
 Marshall,West 3,President,,LIB,Jo Jorgensen,3,1,5,9

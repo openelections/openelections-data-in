@@ -20,9 +20,9 @@ Tom Ferkinhoff,U.S. House,6,L,Delaware,Precinct 1,13,3,0,16
 Write in,Write In,6,,Delaware,Precinct 1,1,0,0,1
 Zaki Ali,State Senate,25,R,Delaware,Precinct 1,105,33,0,138
 Tim Lanane,State Senate,25,D,Delaware,Precinct 1,244,96,0,340
-Robert Q Jozwiak ,State Senate,25,L,Delaware,Precinct 1,14,5,0,19
-No Candidate Filed,State Representative,34,R ,Delaware,Precinct 1,0,0,0,0
-Sue Errington ,State Representative,34,D,Delaware,Precinct 1,280,108,0,388
+Robert Q Jozwiak,State Senate,25,L,Delaware,Precinct 1,14,5,0,19
+No Candidate Filed,State Representative,34,R,Delaware,Precinct 1,0,0,0,0
+Sue Errington,State Representative,34,D,Delaware,Precinct 1,280,108,0,388
 ,Registered Voters,,,Delaware,Precinct 2,,,,847
 ,Ballots Cast,,,Delaware,Precinct 2,404,130,0,534
 Mike Braun,U.S. Senate,,R,Delaware,Precinct 2,187,68,0,255
@@ -44,8 +44,8 @@ Tom Ferkinhoff,U.S. House,6,L,Delaware,Precinct 2,7,0,0,7
 Write in,Write In,6,,Delaware,Precinct 2,0,0,0,0
 Zaki Ali,State Senate,25,R,Delaware,Precinct 2,208,76,0,284
 Tim Lanane,State Senate,25,D,Delaware,Precinct 2,184,48,0,232
-Robert Q Jozwiak ,State Senate,25,L,Delaware,Precinct 2,4,5,0,9
-Ben W Fisher,State Representative,35,R ,Delaware,Precinct 2,177,64,0,241
+Robert Q Jozwiak,State Senate,25,L,Delaware,Precinct 2,4,5,0,9
+Ben W Fisher,State Representative,35,R,Delaware,Precinct 2,177,64,0,241
 Melanie M Wright,State Representative,35,D,Delaware,Precinct 2,212,62,0,274
 ,Registered Voters,,,Delaware,Precinct 3,,,,673
 ,Ballots Cast,,,Delaware,Precinct 3,322,107,0,429
@@ -68,9 +68,9 @@ Tom Ferkinhoff,U.S. House,6,L,Delaware,Precinct 3,8,1,0,9
 Write in,Write In,6,,Delaware,Precinct 3,2,0,0,2
 Zaki Ali,State Senate,25,R,Delaware,Precinct 3,155,36,0,191
 Tim Lanane,State Senate,25,D,Delaware,Precinct 3,148,65,0,213
-Robert Q Jozwiak ,State Senate,25,L,Delaware,Precinct 3,13,2,0,15
-No Candidate Filed,State Representative,34,R ,Delaware,Precinct 3,0,0,0,0
-Sue Errington ,State Representative,34,D,Delaware,Precinct 3,211,75,0,286
+Robert Q Jozwiak,State Senate,25,L,Delaware,Precinct 3,13,2,0,15
+No Candidate Filed,State Representative,34,R,Delaware,Precinct 3,0,0,0,0
+Sue Errington,State Representative,34,D,Delaware,Precinct 3,211,75,0,286
 ,Registered Voters,,,Delaware,Precinct 4,,,,1520
 ,Ballots Cast,,,Delaware,Precinct 4,404,124,0,528
 Mike Braun,U.S. Senate,,R,Delaware,Precinct 4,110,43,0,153
@@ -92,9 +92,9 @@ Tom Ferkinhoff,U.S. House,6,L,Delaware,Precinct 4,16,3,0,19
 Write in,Write In,6,,Delaware,Precinct 4,0,1,0,1
 Zaki Ali,State Senate,25,R,Delaware,Precinct 4,145,44,0,189
 Tim Lanane,State Senate,25,D,Delaware,Precinct 4,240,74,0,314
-Robert Q Jozwiak ,State Senate,25,L,Delaware,Precinct 4,14,3,0,17
-No Candidate Filed,State Representative,34,R ,Delaware,Precinct 4,0,0,0,0
-Sue Errington ,State Representative,34,D,Delaware,Precinct 4,315,90,0,405
+Robert Q Jozwiak,State Senate,25,L,Delaware,Precinct 4,14,3,0,17
+No Candidate Filed,State Representative,34,R,Delaware,Precinct 4,0,0,0,0
+Sue Errington,State Representative,34,D,Delaware,Precinct 4,315,90,0,405
 ,Registered Voters,,,Delaware,Precinct 5,,,,13
 ,Ballots Cast,,,Delaware,Precinct 5,9,1,0,10
 Mike Braun,U.S. Senate,,R,Delaware,Precinct 5,7,1,0,8
@@ -116,8 +116,8 @@ Tom Ferkinhoff,U.S. House,6,L,Delaware,Precinct 5,0,0,0,0
 Write in,Write In,6,,Delaware,Precinct 5,0,0,0,0
 Zaki Ali,State Senate,25,R,Delaware,Precinct 5,6,1,0,7
 Tim Lanane,State Senate,25,D,Delaware,Precinct 5,3,0,0,3
-Robert Q Jozwiak ,State Senate,25,L,Delaware,Precinct 5,0,0,0,0
-Ben W Fisher,State Representative,35,R ,Delaware,Precinct 5,5,1,0,6
+Robert Q Jozwiak,State Senate,25,L,Delaware,Precinct 5,0,0,0,0
+Ben W Fisher,State Representative,35,R,Delaware,Precinct 5,5,1,0,6
 Melanie M Wright,State Representative,35,D,Delaware,Precinct 5,4,0,0,4
 ,Registered Voters,,,Delaware,Precinct 6,,,,1669
 ,Ballots Cast,,,Delaware,Precinct 6,389,71,0,460
@@ -140,9 +140,9 @@ Tom Ferkinhoff,U.S. House,6,L,Delaware,Precinct 6,15,0,0,15
 Write in,Write In,6,,Delaware,Precinct 6,1,0,0,1
 Zaki Ali,State Senate,25,R,Delaware,Precinct 6,85,15,0,100
 Tim Lanane,State Senate,25,D,Delaware,Precinct 6,282,53,0,335
-Robert Q Jozwiak ,State Senate,25,L,Delaware,Precinct 6,20,1,0,21
-No Candidate Filed,State Representative,34,R ,Delaware,Precinct 6,0,0,0,0
-Sue Errington ,State Representative,34,D,Delaware,Precinct 6,327,58,0,385
+Robert Q Jozwiak,State Senate,25,L,Delaware,Precinct 6,20,1,0,21
+No Candidate Filed,State Representative,34,R,Delaware,Precinct 6,0,0,0,0
+Sue Errington,State Representative,34,D,Delaware,Precinct 6,327,58,0,385
 ,Registered Voters,,,Delaware,Precinct 7,,,,1372
 ,Ballots Cast,,,Delaware,Precinct 7,311,110,0,421
 Mike Braun,U.S. Senate,,R,Delaware,Precinct 7,111,25,0,136
@@ -164,9 +164,9 @@ Tom Ferkinhoff,U.S. House,6,L,Delaware,Precinct 7,17,3,0,20
 Write in,Write In,6,,Delaware,Precinct 7,0,0,0,0
 Zaki Ali,State Senate,25,R,Delaware,Precinct 7,114,27,0,141
 Tim Lanane,State Senate,25,D,Delaware,Precinct 7,180,77,0,257
-Robert Q Jozwiak ,State Senate,25,L,Delaware,Precinct 7,13,4,0,17
-No Candidate Filed,State Representative,34,R ,Delaware,Precinct 7,0,0,0,0
-Sue Errington ,State Representative,34,D,Delaware,Precinct 7,233,86,0,319
+Robert Q Jozwiak,State Senate,25,L,Delaware,Precinct 7,13,4,0,17
+No Candidate Filed,State Representative,34,R,Delaware,Precinct 7,0,0,0,0
+Sue Errington,State Representative,34,D,Delaware,Precinct 7,233,86,0,319
 ,Registered Voters,,,Delaware,Precinct 8,,,,1144
 ,Ballots Cast,,,Delaware,Precinct 8,419,104,0,523
 Mike Braun,U.S. Senate,,R,Delaware,Precinct 8,161,36,0,197
@@ -188,9 +188,9 @@ Tom Ferkinhoff,U.S. House,6,L,Delaware,Precinct 8,15,4,0,19
 Write in,Write In,6,,Delaware,Precinct 8,0,0,0,0
 Zaki Ali,State Senate,25,R,Delaware,Precinct 8,190,34,0,224
 Tim Lanane,State Senate,25,D,Delaware,Precinct 8,213,64,0,277
-Robert Q Jozwiak ,State Senate,25,L,Delaware,Precinct 8,10,1,0,11
-No Candidate Filed,State Representative,34,R ,Delaware,Precinct 8,0,0,0,0
-Sue Errington ,State Representative,34,D,Delaware,Precinct 8,301,75,0,376
+Robert Q Jozwiak,State Senate,25,L,Delaware,Precinct 8,10,1,0,11
+No Candidate Filed,State Representative,34,R,Delaware,Precinct 8,0,0,0,0
+Sue Errington,State Representative,34,D,Delaware,Precinct 8,301,75,0,376
 ,Registered Voters,,,Delaware,Precinct 9,,,,1364
 ,Ballots Cast,,,Delaware,Precinct 9,339,111,0,450
 Mike Braun,U.S. Senate,,R,Delaware,Precinct 9,164,45,0,209
@@ -212,9 +212,9 @@ Tom Ferkinhoff,U.S. House,6,L,Delaware,Precinct 9,5,4,0,9
 Write in,Write In,6,,Delaware,Precinct 9,0,0,0,0
 Zaki Ali,State Senate,25,R,Delaware,Precinct 9,169,44,0,213
 Tim Lanane,State Senate,25,D,Delaware,Precinct 9,151,58,0,209
-Robert Q Jozwiak ,State Senate,25,L,Delaware,Precinct 9,14,5,0,19
-No Candidate Filed,State Representative,34,R ,Delaware,Precinct 9,0,0,0,0
-Sue Errington ,State Representative,34,D,Delaware,Precinct 9,213,64,0,277
+Robert Q Jozwiak,State Senate,25,L,Delaware,Precinct 9,14,5,0,19
+No Candidate Filed,State Representative,34,R,Delaware,Precinct 9,0,0,0,0
+Sue Errington,State Representative,34,D,Delaware,Precinct 9,213,64,0,277
 ,Registered Voters,,,Delaware,Precinct 10,,,,1259
 ,Ballots Cast,,,Delaware,Precinct 10,221,68,0,289
 Mike Braun,U.S. Senate,,R,Delaware,Precinct 10,49,23,0,72
@@ -236,9 +236,9 @@ Tom Ferkinhoff,U.S. House,6,L,Delaware,Precinct 10,13,0,0,13
 Write in,Write In,6,,Delaware,Precinct 10,0,0,0,0
 Zaki Ali,State Senate,25,R,Delaware,Precinct 10,56,21,0,77
 Tim Lanane,State Senate,25,D,Delaware,Precinct 10,147,47,0,194
-Robert Q Jozwiak ,State Senate,25,L,Delaware,Precinct 10,12,0,0,12
-No Candidate Filed,State Representative,34,R ,Delaware,Precinct 10,0,0,0,0
-Sue Errington ,State Representative,34,D,Delaware,Precinct 10,190,51,0,241
+Robert Q Jozwiak,State Senate,25,L,Delaware,Precinct 10,12,0,0,12
+No Candidate Filed,State Representative,34,R,Delaware,Precinct 10,0,0,0,0
+Sue Errington,State Representative,34,D,Delaware,Precinct 10,190,51,0,241
 ,Registered Voters,,,Delaware,Precinct 11,,,,1218
 ,Ballots Cast,,,Delaware,Precinct 11,335,131,0,466
 Mike Braun,U.S. Senate,,R,Delaware,Precinct 11,96,35,0,131
@@ -260,9 +260,9 @@ Tom Ferkinhoff,U.S. House,6,L,Delaware,Precinct 11,12,0,0,12
 Write in,Write In,6,,Delaware,Precinct 11,0,0,0,0
 Zaki Ali,State Senate,25,R,Delaware,Precinct 11,109,37,0,146
 Tim Lanane,State Senate,25,D,Delaware,Precinct 11,209,88,0,297
-Robert Q Jozwiak ,State Senate,25,L,Delaware,Precinct 11,13,3,0,16
-No Candidate Filed,State Representative,34,R ,Delaware,Precinct 11,0,0,0,0
-Sue Errington ,State Representative,34,D,Delaware,Precinct 11,246,98,0,344
+Robert Q Jozwiak,State Senate,25,L,Delaware,Precinct 11,13,3,0,16
+No Candidate Filed,State Representative,34,R,Delaware,Precinct 11,0,0,0,0
+Sue Errington,State Representative,34,D,Delaware,Precinct 11,246,98,0,344
 ,Registered Voters,,,Delaware,Precinct 12,,,,800
 ,Ballots Cast,,,Delaware,Precinct 12,251,109,0,360
 Mike Braun,U.S. Senate,,R,Delaware,Precinct 12,21,5,0,26
@@ -284,9 +284,9 @@ Tom Ferkinhoff,U.S. House,6,L,Delaware,Precinct 12,6,1,0,7
 Write in,Write In,6,,Delaware,Precinct 12,0,0,0,0
 Zaki Ali,State Senate,25,R,Delaware,Precinct 12,82,27,0,109
 Tim Lanane,State Senate,25,D,Delaware,Precinct 12,164,76,0,240
-Robert Q Jozwiak ,State Senate,25,L,Delaware,Precinct 12,3,2,0,5
-No Candidate Filed,State Representative,34,R ,Delaware,Precinct 12,0,0,0,0
-Sue Errington ,State Representative,34,D,Delaware,Precinct 12,229,102,0,331
+Robert Q Jozwiak,State Senate,25,L,Delaware,Precinct 12,3,2,0,5
+No Candidate Filed,State Representative,34,R,Delaware,Precinct 12,0,0,0,0
+Sue Errington,State Representative,34,D,Delaware,Precinct 12,229,102,0,331
 ,Registered Voters,,,Delaware,Precinct 13,,,,1407
 ,Ballots Cast,,,Delaware,Precinct 13,310,99,0,409
 Mike Braun,U.S. Senate,,R,Delaware,Precinct 13,128,25,0,153
@@ -308,9 +308,9 @@ Tom Ferkinhoff,U.S. House,6,L,Delaware,Precinct 13,8,1,0,9
 Write in,Write In,6,,Delaware,Precinct 13,0,0,0,0
 Zaki Ali,State Senate,25,R,Delaware,Precinct 13,137,28,0,165
 Tim Lanane,State Senate,25,D,Delaware,Precinct 13,158,66,0,224
-Robert Q Jozwiak ,State Senate,25,L,Delaware,Precinct 13,11,1,0,12
-No Candidate Filed,State Representative,34,R ,Delaware,Precinct 13,0,0,0,0
-Sue Errington ,State Representative,34,D,Delaware,Precinct 13,222,75,0,297
+Robert Q Jozwiak,State Senate,25,L,Delaware,Precinct 13,11,1,0,12
+No Candidate Filed,State Representative,34,R,Delaware,Precinct 13,0,0,0,0
+Sue Errington,State Representative,34,D,Delaware,Precinct 13,222,75,0,297
 ,Registered Voters,,,Delaware,Precinct 14,,,,1238
 ,Ballots Cast,,,Delaware,Precinct 14,452,131,0,583
 Mike Braun,U.S. Senate,,R,Delaware,Precinct 14,176,49,0,225
@@ -332,9 +332,9 @@ Tom Ferkinhoff,U.S. House,6,L,Delaware,Precinct 14,23,1,0,24
 Write in,Write In,6,,Delaware,Precinct 14,0,1,0,1
 Zaki Ali,State Senate,25,R,Delaware,Precinct 14,176,49,0,225
 Tim Lanane,State Senate,25,D,Delaware,Precinct 14,241,79,0,320
-Robert Q Jozwiak ,State Senate,25,L,Delaware,Precinct 14,19,3,0,22
-No Candidate Filed,State Representative,34,R ,Delaware,Precinct 14,0,0,0,0
-Sue Errington ,State Representative,34,D,Delaware,Precinct 14,314,80,0,394
+Robert Q Jozwiak,State Senate,25,L,Delaware,Precinct 14,19,3,0,22
+No Candidate Filed,State Representative,34,R,Delaware,Precinct 14,0,0,0,0
+Sue Errington,State Representative,34,D,Delaware,Precinct 14,314,80,0,394
 ,Registered Voters,,,Delaware,Precinct 15,,,,1328
 ,Ballots Cast,,,Delaware,Precinct 15,324,79,0,403
 Mike Braun,U.S. Senate,,R,Delaware,Precinct 15,141,20,0,161
@@ -356,9 +356,9 @@ Tom Ferkinhoff,U.S. House,6,L,Delaware,Precinct 15,18,2,0,20
 Write in,Write In,6,,Delaware,Precinct 15,0,0,0,0
 Zaki Ali,State Senate,25,R,Delaware,Precinct 15,142,21,0,163
 Tim Lanane,State Senate,25,D,Delaware,Precinct 15,163,53,0,216
-Robert Q Jozwiak ,State Senate,25,L,Delaware,Precinct 15,11,2,0,13
-No Candidate Filed,State Representative,34,R ,Delaware,Precinct 15,0,0,0,0
-Sue Errington ,State Representative,34,D,Delaware,Precinct 15,218,54,0,272
+Robert Q Jozwiak,State Senate,25,L,Delaware,Precinct 15,11,2,0,13
+No Candidate Filed,State Representative,34,R,Delaware,Precinct 15,0,0,0,0
+Sue Errington,State Representative,34,D,Delaware,Precinct 15,218,54,0,272
 ,Registered Voters,,,Delaware,Precinct 18,,,,969
 ,Ballots Cast,,,Delaware,Precinct 18,257,88,0,345
 Mike Braun,U.S. Senate,,R,Delaware,Precinct 18,33,9,0,42
@@ -380,9 +380,9 @@ Tom Ferkinhoff,U.S. House,6,L,Delaware,Precinct 18,6,1,0,7
 Write in,Write In,6,,Delaware,Precinct 18,0,0,0,0
 Zaki Ali,State Senate,25,R,Delaware,Precinct 18,74,23,0,97
 Tim Lanane,State Senate,25,D,Delaware,Precinct 18,170,62,0,232
-Robert Q Jozwiak ,State Senate,25,L,Delaware,Precinct 18,6,1,0,7
-No Candidate Filed,State Representative,34,R ,Delaware,Precinct 18,0,0,0,0
-Sue Errington ,State Representative,34,D,Delaware,Precinct 18,223,77,0,300
+Robert Q Jozwiak,State Senate,25,L,Delaware,Precinct 18,6,1,0,7
+No Candidate Filed,State Representative,34,R,Delaware,Precinct 18,0,0,0,0
+Sue Errington,State Representative,34,D,Delaware,Precinct 18,223,77,0,300
 ,Registered Voters,,,Delaware,Precinct 19,,,,1095
 ,Ballots Cast,,,Delaware,Precinct 19,245,57,1,303
 Mike Braun,U.S. Senate,,R,Delaware,Precinct 19,56,10,0,66
@@ -404,9 +404,9 @@ Tom Ferkinhoff,U.S. House,6,L,Delaware,Precinct 19,7,2,0,9
 Write in,Write In,6,,Delaware,Precinct 19,0,0,0,0
 Zaki Ali,State Senate,25,R,Delaware,Precinct 19,80,17,0,97
 Tim Lanane,State Senate,25,D,Delaware,Precinct 19,150,38,1,189
-Robert Q Jozwiak ,State Senate,25,L,Delaware,Precinct 19,10,1,0,11
-No Candidate Filed,State Representative,34,R ,Delaware,Precinct 19,0,0,0,0
-Sue Errington ,State Representative,34,D,Delaware,Precinct 19,192,48,1,241
+Robert Q Jozwiak,State Senate,25,L,Delaware,Precinct 19,10,1,0,11
+No Candidate Filed,State Representative,34,R,Delaware,Precinct 19,0,0,0,0
+Sue Errington,State Representative,34,D,Delaware,Precinct 19,192,48,1,241
 ,Registered Voters,,,Delaware,Precinct 20,,,,1217
 ,Ballots Cast,,,Delaware,Precinct 20,281,116,0,397
 Mike Braun,U.S. Senate,,R,Delaware,Precinct 20,21,8,0,29
@@ -428,9 +428,9 @@ Tom Ferkinhoff,U.S. House,6,L,Delaware,Precinct 20,6,0,0,6
 Write in,Write In,6,,Delaware,Precinct 20,0,0,0,0
 Zaki Ali,State Senate,25,R,Delaware,Precinct 20,63,21,0,84
 Tim Lanane,State Senate,25,D,Delaware,Precinct 20,206,93,0,299
-Robert Q Jozwiak ,State Senate,25,L,Delaware,Precinct 20,4,0,0,4
-No Candidate Filed,State Representative,34,R ,Delaware,Precinct 20,0,0,0,0
-Sue Errington ,State Representative,34,D,Delaware,Precinct 20,252,102,0,354
+Robert Q Jozwiak,State Senate,25,L,Delaware,Precinct 20,4,0,0,4
+No Candidate Filed,State Representative,34,R,Delaware,Precinct 20,0,0,0,0
+Sue Errington,State Representative,34,D,Delaware,Precinct 20,252,102,0,354
 ,Registered Voters,,,Delaware,Precinct 22,,,,1663
 ,Ballots Cast,,,Delaware,Precinct 22,419,113,0,532
 Mike Braun,U.S. Senate,,R,Delaware,Precinct 22,163,42,0,205
@@ -452,9 +452,9 @@ Tom Ferkinhoff,U.S. House,6,L,Delaware,Precinct 22,17,2,0,19
 Write in,Write In,6,,Delaware,Precinct 22,0,0,0,0
 Zaki Ali,State Senate,25,R,Delaware,Precinct 22,176,34,0,210
 Tim Lanane,State Senate,25,D,Delaware,Precinct 22,211,73,0,284
-Robert Q Jozwiak ,State Senate,25,L,Delaware,Precinct 22,24,5,0,29
-No Candidate Filed,State Representative,34,R ,Delaware,Precinct 22,0,0,,0
-Sue Errington ,State Representative,34,D,Delaware,Precinct 22,311,77,0,388
+Robert Q Jozwiak,State Senate,25,L,Delaware,Precinct 22,24,5,0,29
+No Candidate Filed,State Representative,34,R,Delaware,Precinct 22,0,0,,0
+Sue Errington,State Representative,34,D,Delaware,Precinct 22,311,77,0,388
 ,Registered Voters,,,Delaware,Precinct 23,,,,969
 ,Ballots Cast,,,Delaware,Precinct 23,284,74,0,358
 Mike Braun,U.S. Senate,,R,Delaware,Precinct 23,138,21,0,159
@@ -476,9 +476,9 @@ Tom Ferkinhoff,U.S. House,6,L,Delaware,Precinct 23,9,1,0,10
 Write in,Write In,6,,Delaware,Precinct 23,0,0,0,0
 Zaki Ali,State Senate,25,R,Delaware,Precinct 23,134,25,0,159
 Tim Lanane,State Senate,25,D,Delaware,Precinct 23,127,46,0,173
-Robert Q Jozwiak ,State Senate,25,L,Delaware,Precinct 23,16,1,0,17
-No Candidate Filed,State Representative,34,R ,Delaware,Precinct 23,0,0,0,0
-Sue Errington ,State Representative,34,D,Delaware,Precinct 23,177,57,0,234
+Robert Q Jozwiak,State Senate,25,L,Delaware,Precinct 23,16,1,0,17
+No Candidate Filed,State Representative,34,R,Delaware,Precinct 23,0,0,0,0
+Sue Errington,State Representative,34,D,Delaware,Precinct 23,177,57,0,234
 ,Registered Voters,,,Delaware,Precinct 25,,,,1076
 ,Ballots Cast,,,Delaware,Precinct 25,272,84,0,356
 Mike Braun,U.S. Senate,,R,Delaware,Precinct 25,73,21,0,94
@@ -500,9 +500,9 @@ Tom Ferkinhoff,U.S. House,6,L,Delaware,Precinct 25,14,1,0,15
 Write in,Write In,6,,Delaware,Precinct 25,0,0,0,0
 Zaki Ali,State Senate,25,R,Delaware,Precinct 25,84,21,0,105
 Tim Lanane,State Senate,25,D,Delaware,Precinct 25,173,59,0,232
-Robert Q Jozwiak ,State Senate,25,L,Delaware,Precinct 25,10,2,0,12
-No Candidate Filed,State Representative,34,R ,Delaware,Precinct 25,0,0,0,0
-Sue Errington ,State Representative,34,D,Delaware,Precinct 25,214,66,0,280
+Robert Q Jozwiak,State Senate,25,L,Delaware,Precinct 25,10,2,0,12
+No Candidate Filed,State Representative,34,R,Delaware,Precinct 25,0,0,0,0
+Sue Errington,State Representative,34,D,Delaware,Precinct 25,214,66,0,280
 ,Registered Voters,,,Delaware,Precinct 26,,,,463
 ,Ballots Cast,,,Delaware,Precinct 26,166,79,0,245
 Mike Braun,U.S. Senate,,R,Delaware,Precinct 26,44,27,0,71
@@ -524,9 +524,9 @@ Tom Ferkinhoff,U.S. House,6,L,Delaware,Precinct 26,4,1,0,5
 Write in,Write In,6,,Delaware,Precinct 26,0,0,0,0
 Zaki Ali,State Senate,25,R,Delaware,Precinct 26,56,29,0,85
 Tim Lanane,State Senate,25,D,Delaware,Precinct 26,107,48,0,155
-Robert Q Jozwiak ,State Senate,25,L,Delaware,Precinct 26,2,1,0,3
-No Candidate Filed,State Representative,34,R ,Delaware,Precinct 26,0,0,0,0
-Sue Errington ,State Representative,34,D,Delaware,Precinct 26,131,56,0,187
+Robert Q Jozwiak,State Senate,25,L,Delaware,Precinct 26,2,1,0,3
+No Candidate Filed,State Representative,34,R,Delaware,Precinct 26,0,0,0,0
+Sue Errington,State Representative,34,D,Delaware,Precinct 26,131,56,0,187
 ,Registered Voters,,,Delaware,Precinct 27,,,,2628
 ,Ballots Cast,,,Delaware,Precinct 27,516,87,0,603
 Mike Braun,U.S. Senate,,R,Delaware,Precinct 27,86,14,0,100
@@ -548,9 +548,9 @@ Tom Ferkinhoff,U.S. House,6,L,Delaware,Precinct 27,29,2,0,31
 Write in,Write In,6,,Delaware,Precinct 27,0,0,0,0
 Zaki Ali,State Senate,25,R,Delaware,Precinct 27,112,14,0,126
 Tim Lanane,State Senate,25,D,Delaware,Precinct 27,376,70,0,446
-Robert Q Jozwiak ,State Senate,25,L,Delaware,Precinct 27,27,3,0,30
-No Candidate Filed,State Representative,34,R ,Delaware,Precinct 27,0,0,0,0
-Sue Errington ,State Representative,34,D,Delaware,Precinct 27,446,76,0,522
+Robert Q Jozwiak,State Senate,25,L,Delaware,Precinct 27,27,3,0,30
+No Candidate Filed,State Representative,34,R,Delaware,Precinct 27,0,0,0,0
+Sue Errington,State Representative,34,D,Delaware,Precinct 27,446,76,0,522
 ,Registered Voters,,,Delaware,Precinct 28,,,,1526
 ,Ballots Cast,,,Delaware,Precinct 28,421,131,0,552
 Mike Braun,U.S. Senate,,R,Delaware,Precinct 28,169,49,0,218
@@ -572,9 +572,9 @@ Tom Ferkinhoff,U.S. House,6,L,Delaware,Precinct 28,11,0,0,11
 Write in,Write In,6,,Delaware,Precinct 28,0,0,0,0
 Zaki Ali,State Senate,25,R,Delaware,Precinct 28,171,49,0,220
 Tim Lanane,State Senate,25,D,Delaware,Precinct 28,222,78,0,300
-Robert Q Jozwiak ,State Senate,25,L,Delaware,Precinct 28,18,1,0,19
-No Candidate Filed,State Representative,34,R ,Delaware,Precinct 28,0,0,0,0
-Sue Errington ,State Representative,34,D,Delaware,Precinct 28,298,85,0,383
+Robert Q Jozwiak,State Senate,25,L,Delaware,Precinct 28,18,1,0,19
+No Candidate Filed,State Representative,34,R,Delaware,Precinct 28,0,0,0,0
+Sue Errington,State Representative,34,D,Delaware,Precinct 28,298,85,0,383
 ,Registered Voters,,,Delaware,Precinct 29,,,,1327
 ,Ballots Cast,,,Delaware,Precinct 29,467,151,0,618
 Mike Braun,U.S. Senate,,R,Delaware,Precinct 29,226,63,0,289
@@ -596,8 +596,8 @@ Tom Ferkinhoff,U.S. House,6,L,Delaware,Precinct 29,12,1,0,13
 Write in,Write In,6,,Delaware,Precinct 29,0,0,0,0
 Zaki Ali,State Senate,25,R,Delaware,Precinct 29,239,53,0,292
 Tim Lanane,State Senate,25,D,Delaware,Precinct 29,207,90,0,297
-Robert Q Jozwiak ,State Senate,25,L,Delaware,Precinct 29,15,2,0,17
-John (J.D.) Prescott,State Representative,33,R ,Delaware,Precinct 29,217,56,0,273
+Robert Q Jozwiak,State Senate,25,L,Delaware,Precinct 29,15,2,0,17
+John (J.D.) Prescott,State Representative,33,R,Delaware,Precinct 29,217,56,0,273
 Shon Byrum,State Representative,33,D,Delaware,Precinct 29,205,86,0,291
 Dale Amett,State Representative,33,L,Delaware,Precinct 29,17,2,0,19
 ,Registered Voters,,,Delaware,Precinct 33,,,,1251
@@ -621,9 +621,9 @@ Tom Ferkinhoff,U.S. House,6,L,Delaware,Precinct 33,24,4,0,28
 Write in,Write In,6,,Delaware,Precinct 33,0,0,0,0
 Zaki Ali,State Senate,25,R,Delaware,Precinct 33,276,55,0,331
 Tim Lanane,State Senate,25,D,Delaware,Precinct 33,317,104,0,421
-Robert Q Jozwiak ,State Senate,25,L,Delaware,Precinct 33,22,2,0,24
-No Candidate Filed,State Representative,34,R ,Delaware,Precinct 33,0,0,0,0
-Sue Errington ,State Representative,34,D,Delaware,Precinct 33,448,118,0,566
+Robert Q Jozwiak,State Senate,25,L,Delaware,Precinct 33,22,2,0,24
+No Candidate Filed,State Representative,34,R,Delaware,Precinct 33,0,0,0,0
+Sue Errington,State Representative,34,D,Delaware,Precinct 33,448,118,0,566
 ,Registered Voters,,,Delaware,Precinct 34,,,,757
 ,Ballots Cast,,,Delaware,Precinct 34,399,112,0,511
 Mike Braun,U.S. Senate,,R,Delaware,Precinct 34,171,37,0,208
@@ -645,9 +645,9 @@ Tom Ferkinhoff,U.S. House,6,L,Delaware,Precinct 34,11,3,0,14
 Write in,Write In,6,,Delaware,Precinct 34,0,0,0,0
 Zaki Ali,State Senate,25,R,Delaware,Precinct 34,180,35,0,215
 Tim Lanane,State Senate,25,D,Delaware,Precinct 34,203,74,0,277
-Robert Q Jozwiak ,State Senate,25,L,Delaware,Precinct 34,8,1,0,9
-No Candidate Filed,State Representative,34,R ,Delaware,Precinct 34,0,0,0,0
-Sue Errington ,State Representative,34,D,Delaware,Precinct 34,262,77,0,339
+Robert Q Jozwiak,State Senate,25,L,Delaware,Precinct 34,8,1,0,9
+No Candidate Filed,State Representative,34,R,Delaware,Precinct 34,0,0,0,0
+Sue Errington,State Representative,34,D,Delaware,Precinct 34,262,77,0,339
 ,Registered Voters,,,Delaware,Precinct 35,,,,1261
 ,Ballots Cast,,,Delaware,Precinct 35,387,132,0,519
 Mike Braun,U.S. Senate,,R,Delaware,Precinct 35,151,40,0,191
@@ -669,9 +669,9 @@ Tom Ferkinhoff,U.S. House,6,L,Delaware,Precinct 35,9,0,0,9
 Write in,Write In,6,,Delaware,Precinct 35,1,1,0,2
 Zaki Ali,State Senate,25,R,Delaware,Precinct 35,165,42,0,207
 Tim Lanane,State Senate,25,D,Delaware,Precinct 35,201,87,0,288
-Robert Q Jozwiak ,State Senate,25,L,Delaware,Precinct 35,7,2,0,9
-No Candidate Filed,State Representative,34,R ,Delaware,Precinct 35,0,0,0,0
-Sue Errington ,State Representative,34,D,Delaware,Precinct 35,270,91,0,361
+Robert Q Jozwiak,State Senate,25,L,Delaware,Precinct 35,7,2,0,9
+No Candidate Filed,State Representative,34,R,Delaware,Precinct 35,0,0,0,0
+Sue Errington,State Representative,34,D,Delaware,Precinct 35,270,91,0,361
 ,Registered Voters,,,Delaware,Precinct 36,,,,1264
 ,Ballots Cast,,,Delaware,Precinct 36,467,201,0,668
 Mike Braun,U.S. Senate,,R,Delaware,Precinct 36,163,63,0,226
@@ -693,9 +693,9 @@ Tom Ferkinhoff,U.S. House,6,L,Delaware,Precinct 36,17,3,0,20
 Write in,Write In,6,,Delaware,Precinct 36,0,0,0,0
 Zaki Ali,State Senate,25,R,Delaware,Precinct 36,179,70,0,249
 Tim Lanane,State Senate,25,D,Delaware,Precinct 36,263,126,0,389
-Robert Q Jozwiak ,State Senate,25,L,Delaware,Precinct 36,16,4,0,20
-No Candidate Filed,State Representative,34,R ,Delaware,Precinct 36,0,0,0,0
-Sue Errington ,State Representative,34,D,Delaware,Precinct 36,338,140,0,478
+Robert Q Jozwiak,State Senate,25,L,Delaware,Precinct 36,16,4,0,20
+No Candidate Filed,State Representative,34,R,Delaware,Precinct 36,0,0,0,0
+Sue Errington,State Representative,34,D,Delaware,Precinct 36,338,140,0,478
 ,Registered Voters,,,Delaware,Precinct 38,,,,891
 ,Ballots Cast,,,Delaware,Precinct 38,420,136,0,556
 Mike Braun,U.S. Senate,,R,Delaware,Precinct 38,186,48,0,234
@@ -717,9 +717,9 @@ Tom Ferkinhoff,U.S. House,6,L,Delaware,Precinct 38,15,2,0,17
 Write in,Write In,6,,Delaware,Precinct 38,0,0,0,0
 Zaki Ali,State Senate,25,R,Delaware,Precinct 38,206,49,0,255
 Tim Lanane,State Senate,25,D,Delaware,Precinct 38,192,83,0,275
-Robert Q Jozwiak ,State Senate,25,L,Delaware,Precinct 38,16,2,0,18
-No Candidate Filed,State Representative,34,R ,Delaware,Precinct 38,0,0,0,0
-Sue Errington ,State Representative,34,D,Delaware,Precinct 38,275,87,0,362
+Robert Q Jozwiak,State Senate,25,L,Delaware,Precinct 38,16,2,0,18
+No Candidate Filed,State Representative,34,R,Delaware,Precinct 38,0,0,0,0
+Sue Errington,State Representative,34,D,Delaware,Precinct 38,275,87,0,362
 ,Registered Voters,,,Delaware,Precinct 39,,,,877
 ,Ballots Cast,,,Delaware,Precinct 39,231,137,0,368
 Mike Braun,U.S. Senate,,R,Delaware,Precinct 39,99,37,0,136
@@ -741,9 +741,9 @@ Tom Ferkinhoff,U.S. House,6,L,Delaware,Precinct 39,9,5,0,14
 Write in,Write In,6,,Delaware,Precinct 39,0,0,0,0
 Zaki Ali,State Senate,25,R,Delaware,Precinct 39,98,42,0,140
 Tim Lanane,State Senate,25,D,Delaware,Precinct 39,113,87,0,200
-Robert Q Jozwiak ,State Senate,25,L,Delaware,Precinct 39,14,2,0,16
-No Candidate Filed,State Representative,34,R ,Delaware,Precinct 39,0,0,0,0
-Sue Errington ,State Representative,34,D,Delaware,Precinct 39,156,100,0,256
+Robert Q Jozwiak,State Senate,25,L,Delaware,Precinct 39,14,2,0,16
+No Candidate Filed,State Representative,34,R,Delaware,Precinct 39,0,0,0,0
+Sue Errington,State Representative,34,D,Delaware,Precinct 39,156,100,0,256
 ,Registered Voters,,,Delaware,Precinct 40,,,,1135
 ,Ballots Cast,,,Delaware,Precinct 40,428,163,0,591
 Mike Braun,U.S. Senate,,R,Delaware,Precinct 40,185,67,0,252
@@ -765,9 +765,9 @@ Tom Ferkinhoff,U.S. House,6,L,Delaware,Precinct 40,8,2,0,10
 Write in,Write In,6,,Delaware,Precinct 40,0,0,0,0
 Zaki Ali,State Senate,25,R,Delaware,Precinct 40,200,72,0,272
 Tim Lanane,State Senate,25,D,Delaware,Precinct 40,207,87,0,294
-Robert Q Jozwiak ,State Senate,25,L,Delaware,Precinct 40,8,2,0,10
-No Candidate Filed,State Representative,34,R ,Delaware,Precinct 40,0,0,0,0
-Sue Errington ,State Representative,34,D,Delaware,Precinct 40,285,108,0,393
+Robert Q Jozwiak,State Senate,25,L,Delaware,Precinct 40,8,2,0,10
+No Candidate Filed,State Representative,34,R,Delaware,Precinct 40,0,0,0,0
+Sue Errington,State Representative,34,D,Delaware,Precinct 40,285,108,0,393
 ,Registered Voters,,,Delaware,Precinct 41,,,,697
 ,Ballots Cast,,,Delaware,Precinct 41,242,96,0,338
 Mike Braun,U.S. Senate,,R,Delaware,Precinct 41,111,37,0,148
@@ -789,8 +789,8 @@ Tom Ferkinhoff,U.S. House,6,L,Delaware,Precinct 41,9,2,0,11
 Write in,Write In,6,,Delaware,Precinct 41,0,0,0,0
 Zaki Ali,State Senate,25,R,Delaware,Precinct 41,120,36,0,156
 Tim Lanane,State Senate,25,D,Delaware,Precinct 41,104,56,0,160
-Robert Q Jozwiak ,State Senate,25,L,Delaware,Precinct 41,13,1,0,14
-John (J.D.) Prescott,State Representative,33,R ,Delaware,Precinct 41,120,39,0,159
+Robert Q Jozwiak,State Senate,25,L,Delaware,Precinct 41,13,1,0,14
+John (J.D.) Prescott,State Representative,33,R,Delaware,Precinct 41,120,39,0,159
 Shon Byrum,State Representative,33,D,Delaware,Precinct 41,106,51,0,157
 Dale Amett,State Representative,33,L,Delaware,Precinct 41,9,1,0,10
 ,Registered Voters,,,Delaware,Precinct 42,,,,76
@@ -814,8 +814,8 @@ Tom Ferkinhoff,U.S. House,6,L,Delaware,Precinct 42,2,1,0,3
 Write in,Write In,6,,Delaware,Precinct 42,0,0,0,0
 Zaki Ali,State Senate,25,R,Delaware,Precinct 42,17,2,0,19
 Tim Lanane,State Senate,25,D,Delaware,Precinct 42,22,9,0,31
-Robert Q Jozwiak ,State Senate,25,L,Delaware,Precinct 42,0,1,0,1
-Ben W. Fisher,State Representative,35,R ,Delaware,Precinct 42,14,3,0,17
+Robert Q Jozwiak,State Senate,25,L,Delaware,Precinct 42,0,1,0,1
+Ben W. Fisher,State Representative,35,R,Delaware,Precinct 42,14,3,0,17
 Melanie M Wright,State Representative,35,D,Delaware,Precinct 42,25,9,0,34
 ,Registered Voters,,,Delaware,Precinct 43,,,,100
 ,Ballots Cast,,,Delaware,Precinct 43,44,4,0,48
@@ -838,9 +838,9 @@ Tom Ferkinhoff,U.S. House,6,L,Delaware,Precinct 43,0,0,0,0
 Write in,Write In,6,,Delaware,Precinct 43,0,0,0,0
 Zaki Ali,State Senate,25,R,Delaware,Precinct 43,27,3,0,30
 Tim Lanane,State Senate,25,D,Delaware,Precinct 43,14,1,0,15
-Robert Q Jozwiak ,State Senate,25,L,Delaware,Precinct 43,2,0,0,2
-No Candidate Filed,State Representative,34,R ,Delaware,Precinct 43,0,0,0,0
-Sue Errington ,State Representative,34,D,Delaware,Precinct 43,24,1,0,25
+Robert Q Jozwiak,State Senate,25,L,Delaware,Precinct 43,2,0,0,2
+No Candidate Filed,State Representative,34,R,Delaware,Precinct 43,0,0,0,0
+Sue Errington,State Representative,34,D,Delaware,Precinct 43,24,1,0,25
 ,Registered Voters,,,Delaware,Precinct 44,,,,630
 ,Ballots Cast,,,Delaware,Precinct 44,230,51,0,281
 Mike Braun,U.S. Senate,,R,Delaware,Precinct 44,134,24,0,158
@@ -862,8 +862,8 @@ Tom Ferkinhoff,U.S. House,6,L,Delaware,Precinct 44,7,2,0,9
 Write in,Write In,6,,Delaware,Precinct 44,0,0,0,0
 Zaki Ali,State Senate,25,R,Delaware,Precinct 44,130,20,0,150
 Tim Lanane,State Senate,25,D,Delaware,Precinct 44,85,27,0,112
-Robert Q Jozwiak ,State Senate,25,L,Delaware,Precinct 44,12,0,0,12
-Ben W. Fisher,State Representative,35,R ,Delaware,Precinct 44,119,23,0,142
+Robert Q Jozwiak,State Senate,25,L,Delaware,Precinct 44,12,0,0,12
+Ben W. Fisher,State Representative,35,R,Delaware,Precinct 44,119,23,0,142
 Melanie M Wright,State Representative,35,D,Delaware,Precinct 44,106,26,0,132
 ,Registered Voters,,,Delaware,Precinct 45,,,,983
 ,Ballots Cast,,,Delaware,Precinct 45,429,128,0,557
@@ -886,9 +886,9 @@ Tom Ferkinhoff,U.S. House,6,L,Delaware,Precinct 45,11,0,0,11
 Write in,Write In,6,,Delaware,Precinct 45,0,0,0,0
 Zaki Ali,State Senate,25,R,Delaware,Precinct 45,197,54,0,251
 Tim Lanane,State Senate,25,D,Delaware,Precinct 45,208,67,0,275
-Robert Q Jozwiak ,State Senate,25,L,Delaware,Precinct 45,15,2,0,17
-No Candidate Filed,State Representative,34,R ,Delaware,Precinct 45,0,0,0,0
-Sue Errington ,State Representative,34,D,Delaware,Precinct 45,294,80,0,374
+Robert Q Jozwiak,State Senate,25,L,Delaware,Precinct 45,15,2,0,17
+No Candidate Filed,State Representative,34,R,Delaware,Precinct 45,0,0,0,0
+Sue Errington,State Representative,34,D,Delaware,Precinct 45,294,80,0,374
 ,Registered Voters,,,Delaware,Precinct 46,,,,1453
 ,Ballots Cast,,,Delaware,Precinct 46,422,144,0,566
 Mike Braun,U.S. Senate,,R,Delaware,Precinct 46,195,63,0,258
@@ -910,9 +910,9 @@ Tom Ferkinhoff,U.S. House,6,L,Delaware,Precinct 46,11,5,0,16
 Write in,Write In,6,,Delaware,Precinct 46,0,0,0,0
 Zaki Ali,State Senate,25,R,Delaware,Precinct 46,203,60,0,263
 Tim Lanane,State Senate,25,D,Delaware,Precinct 46,200,68,0,268
-Robert Q Jozwiak ,State Senate,25,L,Delaware,Precinct 46,12,0,3,15
-No Candidate Filed,State Representative,34,R ,Delaware,Precinct 46,0,0,0,0
-Sue Errington ,State Representative,34,D,Delaware,Precinct 46,275,81,0,356
+Robert Q Jozwiak,State Senate,25,L,Delaware,Precinct 46,12,0,3,15
+No Candidate Filed,State Representative,34,R,Delaware,Precinct 46,0,0,0,0
+Sue Errington,State Representative,34,D,Delaware,Precinct 46,275,81,0,356
 ,Registered Voters,,,Delaware,Precinct 47,,,,642
 ,Ballots Cast,,,Delaware,Precinct 47,312,73,0,385
 Mike Braun,U.S. Senate,,R,Delaware,Precinct 47,127,21,0,148
@@ -934,9 +934,9 @@ Tom Ferkinhoff,U.S. House,6,L,Delaware,Precinct 47,12,2,0,14
 Write in,Write In,6,,Delaware,Precinct 47,0,0,0,0
 Zaki Ali,State Senate,25,R,Delaware,Precinct 47,138,20,0,158
 Tim Lanane,State Senate,25,D,Delaware,Precinct 47,158,50,0,208
-Robert Q Jozwiak ,State Senate,25,L,Delaware,Precinct 47,11,1,0,12
-No Candidate Filed,State Representative,34,R ,Delaware,Precinct 47,0,0,0,0
-Sue Errington ,State Representative,34,D,Delaware,Precinct 47,208,52,0,260
+Robert Q Jozwiak,State Senate,25,L,Delaware,Precinct 47,11,1,0,12
+No Candidate Filed,State Representative,34,R,Delaware,Precinct 47,0,0,0,0
+Sue Errington,State Representative,34,D,Delaware,Precinct 47,208,52,0,260
 ,Registered Voters,,,Delaware,Precinct 48,,,,991
 ,Ballots Cast,,,Delaware,Precinct 48,248,48,0,296
 Mike Braun,U.S. Senate,,R,Delaware,Precinct 48,111,21,0,132
@@ -958,9 +958,9 @@ Tom Ferkinhoff,U.S. House,6,L,Delaware,Precinct 48,8,0,0,8
 Write in,Write In,6,,Delaware,Precinct 48,0,0,0,0
 Zaki Ali,State Senate,25,R,Delaware,Precinct 48,119,20,0,139
 Tim Lanane,State Senate,25,D,Delaware,Precinct 48,114,26,0,140
-Robert Q Jozwiak ,State Senate,25,L,Delaware,Precinct 48,6,0,0,6
-No Candidate Filed,State Representative,34,R ,Delaware,Precinct 48,0,0,0,0
-Sue Errington ,State Representative,34,D,Delaware,Precinct 48,169,29,0,198
+Robert Q Jozwiak,State Senate,25,L,Delaware,Precinct 48,6,0,0,6
+No Candidate Filed,State Representative,34,R,Delaware,Precinct 48,0,0,0,0
+Sue Errington,State Representative,34,D,Delaware,Precinct 48,169,29,0,198
 ,Registered Voters,,,Delaware,Precinct 49,,,,114
 ,Ballots Cast,,,Delaware,Precinct 49,42,17,0,59
 Mike Braun,U.S. Senate,,R,Delaware,Precinct 49,24,4,0,28
@@ -982,8 +982,8 @@ Tom Ferkinhoff,U.S. House,6,L,Delaware,Precinct 49,5,0,0,5
 Write in,Write In,6,,Delaware,Precinct 49,0,0,0,0
 Zaki Ali,State Senate,25,R,Delaware,Precinct 49,26,5,0,31
 Tim Lanane,State Senate,25,D,Delaware,Precinct 49,15,12,0,27
-Robert Q Jozwiak ,State Senate,25,L,Delaware,Precinct 49,1,0,0,1
-Ben W. Fisher,State Representative,35,R ,Delaware,Precinct 49,24,5,0,29
+Robert Q Jozwiak,State Senate,25,L,Delaware,Precinct 49,1,0,0,1
+Ben W. Fisher,State Representative,35,R,Delaware,Precinct 49,24,5,0,29
 Melanie M Wright,State Representative,35,D,Delaware,Precinct 49,16,12,0,28
 ,Registered Voters,,,Delaware,Precinct 50,,,,982
 ,Ballots Cast,,,Delaware,Precinct 50,437,179,0,616
@@ -1006,9 +1006,9 @@ Tom Ferkinhoff,U.S. House,6,L,Delaware,Precinct 50,12,2,0,14
 Write in,Write In,6,,Delaware,Precinct 50,0,0,0,0
 Zaki Ali,State Senate,25,R,Delaware,Precinct 50,220,80,0,300
 Tim Lanane,State Senate,25,D,Delaware,Precinct 50,194,92,0,286
-Robert Q Jozwiak ,State Senate,25,L,Delaware,Precinct 50,10,2,0,12
-No Candidate Filed,State Representative,34,R ,Delaware,Precinct 50,0,0,0,0
-Sue Errington ,State Representative,34,D,Delaware,Precinct 50,271,110,0,381
+Robert Q Jozwiak,State Senate,25,L,Delaware,Precinct 50,10,2,0,12
+No Candidate Filed,State Representative,34,R,Delaware,Precinct 50,0,0,0,0
+Sue Errington,State Representative,34,D,Delaware,Precinct 50,271,110,0,381
 ,Registered Voters,,,Delaware,Precinct 51,,,,979
 ,Ballots Cast,,,Delaware,Precinct 51,388,142,0,530
 Mike Braun,U.S. Senate,,R,Delaware,Precinct 51,239,72,0,311
@@ -1030,8 +1030,8 @@ Tom Ferkinhoff,U.S. House,6,L,Delaware,Precinct 51,10,1,0,11
 Write in,Write In,6,,Delaware,Precinct 51,0,0,0,0
 Zaki Ali,State Senate,25,R,Delaware,Precinct 51,224,73,0,297
 Tim Lanane,State Senate,25,D,Delaware,Precinct 51,134,63,0,197
-Robert Q Jozwiak ,State Senate,25,L,Delaware,Precinct 51,20,4,0,24
-Ben W. Fisher,State Representative,35,R ,Delaware,Precinct 51,190,60,0,250
+Robert Q Jozwiak,State Senate,25,L,Delaware,Precinct 51,20,4,0,24
+Ben W. Fisher,State Representative,35,R,Delaware,Precinct 51,190,60,0,250
 Melanie M Wright,State Representative,35,D,Delaware,Precinct 51,181,78,0,259
 ,Registered Voters,,,Delaware,Precinct 52,,,,852
 ,Ballots Cast,,,Delaware,Precinct 52,400,109,0,509
@@ -1054,8 +1054,8 @@ Tom Ferkinhoff,U.S. House,6,L,Delaware,Precinct 52,10,5,0,15
 Write in,Write In,6,,Delaware,Precinct 52,0,0,0,0
 Zaki Ali,State Senate,25,R,Delaware,Precinct 52,248,55,0,303
 Tim Lanane,State Senate,25,D,Delaware,Precinct 52,133,51,0,184
-Robert Q Jozwiak ,State Senate,25,L,Delaware,Precinct 52,15,1,0,16
-Ben W. Fisher,State Representative,35,R ,Delaware,Precinct 52,192,48,0,240
+Robert Q Jozwiak,State Senate,25,L,Delaware,Precinct 52,15,1,0,16
+Ben W. Fisher,State Representative,35,R,Delaware,Precinct 52,192,48,0,240
 Melanie M Wright,State Representative,35,D,Delaware,Precinct 52,195,58,0,253
 ,Registered Voters,,,Delaware,Precinct 53,,,,1127
 ,Ballots Cast,,,Delaware,Precinct 53,436,92,0,528
@@ -1079,7 +1079,7 @@ Write in,Write In,6,,Delaware,Precinct 53,0,0,0,0
 Mike Gaskill,State Senate,26,R,Delaware,Precinct 53,221,34,0,255
 Dave Cravens,State Senate,26,D,Delaware,Precinct 53,182,52,0,234
 Greg Noland,State Senate,26,L,Delaware,Precinct 53,18,2,0,20
-Ben W. Fisher,State Representative,35,R ,Delaware,Precinct 53,190,28,0,218
+Ben W. Fisher,State Representative,35,R,Delaware,Precinct 53,190,28,0,218
 Melanie M Wright,State Representative,35,D,Delaware,Precinct 53,231,62,0,293
 ,Registered Voters,,,Delaware,Precinct 54,,,,1357
 ,Ballots Cast,,,Delaware,Precinct 54,510,223,0,733
@@ -1103,7 +1103,7 @@ Write in,Write In,6,,Delaware,Precinct 54,0,0,0,0
 Mike Gaskill,State Senate,26,R,Delaware,Precinct 54,300,103,0,403
 Dave Cravens,State Senate,26,D,Delaware,Precinct 54,181,119,0,300
 Greg Noland,State Senate,26,L,Delaware,Precinct 54,19,1,0,20
-Ben W. Fisher,State Representative,35,R ,Delaware,Precinct 54,246,91,0,337
+Ben W. Fisher,State Representative,35,R,Delaware,Precinct 54,246,91,0,337
 Melanie M Wright,State Representative,35,D,Delaware,Precinct 54,246,129,0,375
 ,Registered Voters,,,Delaware,Precinct 55,,,,1285
 ,Ballots Cast,,,Delaware,Precinct 55,622,164,0,786
@@ -1127,7 +1127,7 @@ Write in,Write In,6,,Delaware,Precinct 55,0,0,0,0
 Mike Gaskill,State Senate,26,R,Delaware,Precinct 55,373,72,0,445
 Dave Cravens,State Senate,26,D,Delaware,Precinct 55,219,90,0,309
 Greg Noland,State Senate,26,L,Delaware,Precinct 55,15,1,0,16
-Ben W. Fisher,State Representative,35,R ,Delaware,Precinct 55,307,60,0,367
+Ben W. Fisher,State Representative,35,R,Delaware,Precinct 55,307,60,0,367
 Melanie M Wright,State Representative,35,D,Delaware,Precinct 55,293,102,0,395
 ,Registered Voters,,,Delaware,Precinct 56,,,,1194
 ,Ballots Cast,,,Delaware,Precinct 56,499,149,0,648
@@ -1151,7 +1151,7 @@ Write in,Write In,6,,Delaware,Precinct 56,0,0,0,0
 Mike Gaskill,State Senate,26,R,Delaware,Precinct 56,323,76,0,399
 Dave Cravens,State Senate,26,D,Delaware,Precinct 56,149,68,0,217
 Greg Noland,State Senate,26,L,Delaware,Precinct 56,14,3,0,17
-Ben W. Fisher,State Representative,35,R ,Delaware,Precinct 56,290,68,0,358
+Ben W. Fisher,State Representative,35,R,Delaware,Precinct 56,290,68,0,358
 Melanie M Wright,State Representative,35,D,Delaware,Precinct 56,187,76,0,263
 ,Registered Voters,,,Delaware,Precinct 57,,,,1318
 ,Ballots Cast,,,Delaware,Precinct 57,626,89,0,715
@@ -1175,7 +1175,7 @@ Write in,Write In,6,,Delaware,Precinct 57,0,0,0,0
 Mike Gaskill,State Senate,26,R,Delaware,Precinct 57,381,41,0,422
 Dave Cravens,State Senate,26,D,Delaware,Precinct 57,210,43,0,253
 Greg Noland,State Senate,26,L,Delaware,Precinct 57,21,3,0,24
-"Anthony J. (""Tony"") Cook",State Representative,32,R ,Delaware,Precinct 57,404,43,0,447
+"Anthony J. (""Tony"") Cook",State Representative,32,R,Delaware,Precinct 57,404,43,0,447
 Amie Neiling,State Representative,32,D,Delaware,Precinct 57,199,43,0,242
 ,Registered Voters,,,Delaware,Precinct 58,,,,164
 ,Ballots Cast,,,Delaware,Precinct 58,65,43,0,108
@@ -1199,7 +1199,7 @@ Write in,Write In,6,,Delaware,Precinct 58,0,0,0,0
 Mike Gaskill,State Senate,26,R,Delaware,Precinct 58,36,28,0,64
 Dave Cravens,State Senate,26,D,Delaware,Precinct 58,25,12,0,37
 Greg Noland,State Senate,26,L,Delaware,Precinct 58,1,1,0,2
-Ben W. Fisher,State Representative,35,R ,Delaware,Precinct 58,30,27,0,57
+Ben W. Fisher,State Representative,35,R,Delaware,Precinct 58,30,27,0,57
 Melanie M Wright,State Representative,35,D,Delaware,Precinct 58,30,13,0,43
 ,Registered Voters,,,Delaware,Precinct 59,,,,1428
 ,Ballots Cast,,,Delaware,Precinct 59,600,211,0,811
@@ -1222,8 +1222,8 @@ Tom Ferkinhoff,U.S. House,6,L,Delaware,Precinct 59,17,5,0,22
 Write in,Write In,6,,Delaware,Precinct 59,0,0,0,0
 Zaki Ali,State Senate,25,R,Delaware,Precinct 59,358,108,0,466
 Tim Lanane,State Senate,25,D,Delaware,Precinct 59,204,96,0,300
-Robert Q Jozwiak ,State Senate,25,L,Delaware,Precinct 59,27,5,0,32
-John (J.D.) Prescott,State Representative,33,R ,Delaware,Precinct 59,379,109,0,488
+Robert Q Jozwiak,State Senate,25,L,Delaware,Precinct 59,27,5,0,32
+John (J.D.) Prescott,State Representative,33,R,Delaware,Precinct 59,379,109,0,488
 Shon Byrum,State Representative,33,D,Delaware,Precinct 59,182,90,0,272
 Dale Arnett,State Representative,33,D,Delaware,Precinct 59,18,4,0,22
 ,Registered Voters,,,Delaware,Precinct 60,,,,1045
@@ -1248,7 +1248,7 @@ Write in,Write In,6,,Delaware,Precinct 60,0,0,0,0
 Mike Gaskill,State Senate,26,R,Delaware,Precinct 60,264,74,0,338
 Dave Cravens,State Senate,26,D,Delaware,Precinct 60,165,47,0,212
 Greg Noland,State Senate,26,L,Delaware,Precinct 60,15,2,0,17
-Kevin A Mahan,State Representative,31,R ,Delaware,Precinct 60,281,74,0,355
+Kevin A Mahan,State Representative,31,R,Delaware,Precinct 60,281,74,0,355
 Lynn Johnson,State Representative,31,D,Delaware,Precinct 60,153,48,0,201
 ,Registered Voters,,,Delaware,Precinct 61,,,,662
 ,Ballots Cast,,,Delaware,Precinct 61,250,47,0,297
@@ -1272,7 +1272,7 @@ Write in,Write In,6,,Delaware,Precinct 61,0,0,0,0
 Mike Gaskill,State Senate,26,R,Delaware,Precinct 61,143,20,0,163
 Dave Cravens,State Senate,26,D,Delaware,Precinct 61,90,25,0,115
 Greg Noland,State Senate,26,L,Delaware,Precinct 61,10,1,0,11
-Kevin A Mahan,State Representative,31,R ,Delaware,Precinct 61,155,25,0,180
+Kevin A Mahan,State Representative,31,R,Delaware,Precinct 61,155,25,0,180
 Lynn Johnson,State Representative,31,D,Delaware,Precinct 61,84,21,0,105
 ,Registered Voters,,,Delaware,Precinct 62,,,,1229
 ,Ballots Cast,,,Delaware,Precinct 62,530,156,0,686
@@ -1295,8 +1295,8 @@ Tom Ferkinhoff,U.S. House,6,L,Delaware,Precinct 62,22,2,0,24
 Write in,Write In,6,,Delaware,Precinct 62,0,0,0,0
 Zaki Ali,State Senate,25,R,Delaware,Precinct 62,290,83,0,373
 Tim Lanane,State Senate,25,D,Delaware,Precinct 62,201,66,0,267
-Robert Q Jozwiak ,State Senate,25,L,Delaware,Precinct 62,21,1,0,22
-John (J.D.) Prescott,State Representative,33,R ,Delaware,Precinct 62,305,86,0,391
+Robert Q Jozwiak,State Senate,25,L,Delaware,Precinct 62,21,1,0,22
+John (J.D.) Prescott,State Representative,33,R,Delaware,Precinct 62,305,86,0,391
 Shon Byrum,State Representative,33,D,Delaware,Precinct 62,178,61,0,239
 Dale Arnett,State Representative,33,D,Delaware,Precinct 62,24,2,0,26
 ,Registered Voters,,,Delaware,Precinct 63,,,,572
@@ -1320,8 +1320,8 @@ Tom Ferkinhoff,U.S. House,6,L,Delaware,Precinct 63,7,0,0,7
 Write in,Write In,6,,Delaware,Precinct 63,0,0,0,0
 Zaki Ali,State Senate,25,R,Delaware,Precinct 63,134,14,0,148
 Tim Lanane,State Senate,25,D,Delaware,Precinct 63,126,20,0,146
-Robert Q Jozwiak ,State Senate,25,L,Delaware,Precinct 63,0,0,0,0
-John (J.D.) Prescott,State Representative,33,R ,Delaware,Precinct 63,133,12,0,145
+Robert Q Jozwiak,State Senate,25,L,Delaware,Precinct 63,0,0,0,0
+John (J.D.) Prescott,State Representative,33,R,Delaware,Precinct 63,133,12,0,145
 Shon Byrum,State Representative,33,D,Delaware,Precinct 63,114,19,0,133
 Dale Arnett,State Representative,33,D,Delaware,Precinct 63,8,0,0,8
 ,Registered Voters,,,Delaware,Precinct 64,,,,1447
@@ -1345,7 +1345,7 @@ Tom Ferkinhoff,U.S. House,6,L,Delaware,Precinct 64,16,4,0,20
 Write in,Write In,6,,Delaware,Precinct 64,0,0,0,0
 Zaki Ali,State Senate,25,R,Delaware,Precinct 64,329,72,0,401
 Tim Lanane,State Senate,25,D,Delaware,Precinct 64,271,71,0,342
-Robert Q Jozwiak ,State Senate,25,L,Delaware,Precinct 64,24,3,0,27
+Robert Q Jozwiak,State Senate,25,L,Delaware,Precinct 64,24,3,0,27
 John (J.D.) Prescott,State Representative,33,R,Delaware,Precinct 64,335,69,0,404
 Shon Byrum,State Representative,33,D,Delaware,Precinct 64,255,66,0,321
 Dale Arnett,State Representative,33,L,Delaware,Precinct 64,21,4,0,25
@@ -1371,7 +1371,7 @@ Write in,Write In,6,,Delaware,Precinct 65,0,0,0,0
 Mike Gaskill,State Senate,26,R,Delaware,Precinct 65,403,77,0,480
 Dave Cravens,State Senate,26,D,Delaware,Precinct 65,170,68,0,238
 Greg Noland,State Senate,26,L,Delaware,Precinct 65,18,3,0,21
-John (J.D.) Prescott,State Representative,33,R ,Delaware,Precinct 65,403,83,0,486
+John (J.D.) Prescott,State Representative,33,R,Delaware,Precinct 65,403,83,0,486
 Shon Byrum,State Representative,33,D,Delaware,Precinct 65,171,61,0,232
 Dale Arnett,State Representative,33,D,Delaware,Precinct 65,10,1,0,11
 ,Registered Voters,,,Delaware,Precinct 66,,,,1160
@@ -1396,7 +1396,7 @@ Write in,Write In,6,,Delaware,Precinct 66,0,0,0,0
 Mike Gaskill,State Senate,26,R,Delaware,Precinct 66,299,36,0,335
 Dave Cravens,State Senate,26,D,Delaware,Precinct 66,170,53,0,223
 Greg Noland,State Senate,26,L,Delaware,Precinct 66,21,2,0,23
-John (J.D.) Prescott,State Representative,33,R ,Delaware,Precinct 66,283,36,0,319
+John (J.D.) Prescott,State Representative,33,R,Delaware,Precinct 66,283,36,0,319
 Shon Byrum,State Representative,33,D,Delaware,Precinct 66,186,55,0,241
 Dale Arnett,State Representative,33,L,Delaware,Precinct 66,10,0,0,10
 ,Registered Voters,,,Delaware,Precinct 67,,,,794
@@ -1421,7 +1421,7 @@ Write in,Write In,6,,Delaware,Precinct 67,0,0,0,0
 Mike Gaskill,State Senate,26,R,Delaware,Precinct 67,238,54,0,292
 Dave Cravens,State Senate,26,D,Delaware,Precinct 67,112,27,0,139
 Greg Noland,State Senate,26,L,Delaware,Precinct 67,7,1,0,8
-John (J.D.) Prescott,State Representative,33,R ,Delaware,Precinct 67,234,55,0,289
+John (J.D.) Prescott,State Representative,33,R,Delaware,Precinct 67,234,55,0,289
 Shon Byrum,State Representative,33,D,Delaware,Precinct 67,112,28,0,140
 Dale Arnett,State Representative,33,L,Delaware,Precinct 67,5,0,0,5
 ,Registered Voters,,,Delaware,Precinct 68,,,,200
@@ -1446,7 +1446,7 @@ Write in,Write In,6,,Delaware,Precinct 68,0,0,0,0
 Mike Gaskill,State Senate,26,R,Delaware,Precinct 68,70,13,0,83
 Dave Cravens,State Senate,26,D,Delaware,Precinct 68,27,2,0,29
 Greg Noland,State Senate,26,L,Delaware,Precinct 68,1,1,0,2
-John (J.D.) Prescott,State Representative,33,R ,Delaware,Precinct 68,68,13,0,81
+John (J.D.) Prescott,State Representative,33,R,Delaware,Precinct 68,68,13,0,81
 Shon Byrum,State Representative,33,D,Delaware,Precinct 68,23,2,0,25
 Dale Arnett,State Representative,33,L,Delaware,Precinct 68,5,1,0,6
 ,Registered Voters,,,Delaware,Precinct 69,,,,955
@@ -1471,7 +1471,7 @@ Write in,Write In,6,,Delaware,Precinct 69,0,0,0,0
 Mike Gaskill,State Senate,26,R,Delaware,Precinct 69,257,77,0,334
 Dave Cravens,State Senate,26,D,Delaware,Precinct 69,130,69,0,199
 Greg Noland,State Senate,26,L,Delaware,Precinct 69,7,5,0,12
-Kevin A Mahan,State Representative,31,R ,Delaware,Precinct 69,271,78,0,349
+Kevin A Mahan,State Representative,31,R,Delaware,Precinct 69,271,78,0,349
 Lynn Johnson,State Representative,31,D,Delaware,Precinct 69,123,71,0,194
 ,Registered Voters,,,Delaware,Precinct 70,,,,1290
 ,Ballots Cast,,,Delaware,Precinct 70,597,211,0,808
@@ -1495,7 +1495,7 @@ Write in,Write In,6,,Delaware,Precinct 70,0,0,0,0
 Mike Gaskill,State Senate,26,R,Delaware,Precinct 70,351,108,0,459
 Dave Cravens,State Senate,26,D,Delaware,Precinct 70,214,92,0,306
 Greg Noland,State Senate,26,L,Delaware,Precinct 70,12,4,0,16
-Ben W. Fisher,State Representative,35,R ,Delaware,Precinct 70,304,101,0,405
+Ben W. Fisher,State Representative,35,R,Delaware,Precinct 70,304,101,0,405
 Melanie M Wright,State Representative,35,D,Delaware,Precinct 70,261,103,0,364
 ,Registered Voters,,,Delaware,Precinct 71,,,,1451
 ,Ballots Cast,,,Delaware,Precinct 71,647,231,0,878
@@ -1519,7 +1519,7 @@ Write in,Write In,6,,Delaware,Precinct 71,0,0,0,0
 Mike Gaskill,State Senate,26,R,Delaware,Precinct 71,402,142,0,544
 Dave Cravens,State Senate,26,D,Delaware,Precinct 71,210,81,0,291
 Greg Noland,State Senate,26,L,Delaware,Precinct 71,22,4,0,26
-Ben W. Fisher,State Representative,35,R ,Delaware,Precinct 71,337,125,0,462
+Ben W. Fisher,State Representative,35,R,Delaware,Precinct 71,337,125,0,462
 Melanie M Wright,State Representative,35,D,Delaware,Precinct 71,291,102,0,393
 ,Registered Voters,,,Delaware,Precinct 73,,,,1511
 ,Ballots Cast,,,Delaware,Precinct 73,667,175,0,842
@@ -1542,8 +1542,8 @@ Tom Ferkinhoff,U.S. House,6,L,Delaware,Precinct 73,13,3,0,16
 Write in,Write In,6,,Delaware,Precinct 73,0,0,0,0
 Zaki Ali,State Senate,25,R,Delaware,Precinct 73,411,86,0,497
 Tim Lanane,State Senate,25,D,Delaware,Precinct 73,228,76,0,304
-Robert Q Jozwiak ,State Senate,25,L,Delaware,Precinct 73,19,8,0,27
-John (J.D.) Prescott,State Representative,33,R ,Delaware,Precinct 73,450,92,0,542
+Robert Q Jozwiak,State Senate,25,L,Delaware,Precinct 73,19,8,0,27
+John (J.D.) Prescott,State Representative,33,R,Delaware,Precinct 73,450,92,0,542
 Shon Byrum,State Representative,33,D,Delaware,Precinct 73,176,72,0,248
 Dale Arnett,State Representative,33,L,Delaware,Precinct 73,21,6,0,27
 ,Registered Voters,,,Delaware,Precinct 74,,,,1603
@@ -1568,7 +1568,7 @@ Write in,Write In,6,,Delaware,Precinct 74,0,0,0,0
 Mike Gaskill,State Senate,26,R,Delaware,Precinct 74,262,110,0,372
 Dave Cravens,State Senate,26,D,Delaware,Precinct 74,227,126,0,353
 Greg Noland,State Senate,26,L,Delaware,Precinct 74,16,8,0,24
-Ben W. Fisher,State Representative,35,R ,Delaware,Precinct 74,231,99,0,330
+Ben W. Fisher,State Representative,35,R,Delaware,Precinct 74,231,99,0,330
 Melanie M Wright,State Representative,35,D,Delaware,Precinct 74,267,145,0,412
 ,Registered Voters,,,Delaware,Precinct 75,,,,1523
 ,Ballots Cast,,,Delaware,Precinct 75,556,217,0,773
@@ -1591,8 +1591,8 @@ Tom Ferkinhoff,U.S. House,6,L,Delaware,Precinct 75,11,4,0,15
 Write in,Write In,6,,Delaware,Precinct 75,0,0,0,0
 Zaki Ali,State Senate,25,R,Delaware,Precinct 75,300,82,0,382
 Tim Lanane,State Senate,25,D,Delaware,Precinct 75,224,126,0,350
-Robert Q Jozwiak ,State Senate,25,L,Delaware,Precinct 75,16,4,0,20
-John (J.D.) Prescott,State Representative,33,R ,Delaware,Precinct 75,302,85,0,387
+Robert Q Jozwiak,State Senate,25,L,Delaware,Precinct 75,16,4,0,20
+John (J.D.) Prescott,State Representative,33,R,Delaware,Precinct 75,302,85,0,387
 Shon Byrum,State Representative,33,D,Delaware,Precinct 75,214,122,0,336
 Dale Arnett,State Representative,33,L,Delaware,Precinct 75,18,4,0,22
 ,Registered Voters,,,Delaware,Precinct 77,,,,1160
@@ -1617,7 +1617,7 @@ Write in,Write In,6,,Delaware,Precinct 77,0,0,0,0
 Mike Gaskill,State Senate,26,R,Delaware,Precinct 77,304,44,0,348
 Dave Cravens,State Senate,26,D,Delaware,Precinct 77,155,47,0,202
 Greg Noland,State Senate,26,L,Delaware,Precinct 77,17,2,0,19
-Kevin A Mahan,State Representative,31,R ,Delaware,Precinct 77,330,49,0,379
+Kevin A Mahan,State Representative,31,R,Delaware,Precinct 77,330,49,0,379
 Lynn Johnson,State Representative,31,D,Delaware,Precinct 77,140,44,0,184
 ,Registered Voters,,,Delaware,Precinct 78,,,,1343
 ,Ballots Cast,,,Delaware,Precinct 78,516,240,0,756
@@ -1641,7 +1641,7 @@ Write in,Write In,6,,Delaware,Precinct 78,0,0,0,0
 Mike Gaskill,State Senate,26,R,Delaware,Precinct 78,336,139,0,475
 Dave Cravens,State Senate,26,D,Delaware,Precinct 78,151,87,0,238
 Greg Noland,State Senate,26,L,Delaware,Precinct 78,15,9,0,24
-Ben W. Fisher,State Representative,35,R ,Delaware,Precinct 78,303,127,0,430
+Ben W. Fisher,State Representative,35,R,Delaware,Precinct 78,303,127,0,430
 Melanie M Wright,State Representative,35,D,Delaware,Precinct 78,195,107,0,302
 ,Registered Voters,,,Delaware,Precinct 81,,,,460
 ,Ballots Cast,,,Delaware,Precinct 81,145,42,0,187
@@ -1665,7 +1665,7 @@ Write in,Write In,6,,Delaware,Precinct 81,0,0,0,0
 Mike Gaskill,State Senate,26,R,Delaware,Precinct 81,58,17,0,75
 Dave Cravens,State Senate,26,D,Delaware,Precinct 81,82,22,0,104
 Greg Noland,State Senate,26,L,Delaware,Precinct 81,3,2,0,5
-Ben W. Fisher,State Representative,35,R ,Delaware,Precinct 81,52,17,0,69
+Ben W. Fisher,State Representative,35,R,Delaware,Precinct 81,52,17,0,69
 Melanie M Wright,State Representative,35,D,Delaware,Precinct 81,91,25,0,116
 ,Registered Voters,,,Delaware,Precinct 87,,,,1074
 ,Ballots Cast,,,Delaware,Precinct 87,527,179,0,706
@@ -1689,7 +1689,7 @@ Write in,Write In,6,,Delaware,Precinct 87,1,0,0,1
 Mike Gaskill,State Senate,26,R,Delaware,Precinct 87,317,95,0,412
 Dave Cravens,State Senate,26,D,Delaware,Precinct 87,173,74,0,247
 Greg Noland,State Senate,26,L,Delaware,Precinct 87,23,6,0,29
-Ben W. Fisher,State Representative,35,R ,Delaware,Precinct 87,272,88,0,360
+Ben W. Fisher,State Representative,35,R,Delaware,Precinct 87,272,88,0,360
 Melanie M Wright,State Representative,35,D,Delaware,Precinct 87,240,89,0,329
 ,Registered Voters,,,Delaware,Precinct 88,,,,1272
 ,Ballots Cast,,,Delaware,Precinct 88,546,267,0,813
@@ -1713,7 +1713,7 @@ Write in,Write In,6,,Delaware,Precinct 88,0,0,0,0
 Mike Gaskill,State Senate,26,R,Delaware,Precinct 88,353,166,0,519
 Dave Cravens,State Senate,26,D,Delaware,Precinct 88,161,89,0,250
 Greg Noland,State Senate,26,L,Delaware,Precinct 88,14,3,0,17
-Ben W. Fisher,State Representative,35,R ,Delaware,Precinct 88,315,148,0,463
+Ben W. Fisher,State Representative,35,R,Delaware,Precinct 88,315,148,0,463
 Melanie M Wright,State Representative,35,D,Delaware,Precinct 88,215,114,0,329
 ,Registered Voters,,,Delaware,Precinct 90,,,,886
 ,Ballots Cast,,,Delaware,Precinct 90,468,73,0,541
@@ -1737,7 +1737,7 @@ Write in,Write In,6,,Delaware,Precinct 90,0,0,0,0
 Mike Gaskill,State Senate,26,R,Delaware,Precinct 90,289,46,0,335
 Dave Cravens,State Senate,26,D,Delaware,Precinct 90,154,27,0,181
 Greg Noland,State Senate,26,L,Delaware,Precinct 90,11,0,0,11
-Kevin A Mahan,State Representative,31,R ,Delaware,Precinct 90,310,43,0,353
+Kevin A Mahan,State Representative,31,R,Delaware,Precinct 90,310,43,0,353
 Lynn Johnson,State Representative,31,D,Delaware,Precinct 90,135,29,0,164
 ,Registered Voters,,,Delaware,Precinct 91,,,,96
 ,Ballots Cast,,,Delaware,Precinct 91,46,7,0,53
@@ -1761,7 +1761,7 @@ Write in,Write In,6,,Delaware,Precinct 91,0,0,0,0
 Mike Gaskill,State Senate,26,R,Delaware,Precinct 91,30,4,0,34
 Dave Cravens,State Senate,26,D,Delaware,Precinct 91,13,2,0,15
 Greg Noland,State Senate,26,L,Delaware,Precinct 91,3,1,0,4
-Kevin A Mahan,State Representative,31,R ,Delaware,Precinct 91,31,4,0,35
+Kevin A Mahan,State Representative,31,R,Delaware,Precinct 91,31,4,0,35
 Lynn Johnson,State Representative,31,D,Delaware,Precinct 91,14,3,0,17
 ,Registered Voters,,,Delaware,Precinct 92,,,,24
 ,Ballots Cast,,,Delaware,Precinct 92,10,0,0,10
@@ -1785,7 +1785,7 @@ Write in,Write In,6,,Delaware,Precinct 92,0,0,0,0
 Mike Gaskill,State Senate,26,R,Delaware,Precinct 92,7,0,0,7
 Dave Cravens,State Senate,26,D,Delaware,Precinct 92,2,0,0,2
 Greg Noland,State Senate,26,L,Delaware,Precinct 92,1,0,0,1
-Ben W. Fisher,State Representative,35,R ,Delaware,Precinct 92,6,0,0,6
+Ben W. Fisher,State Representative,35,R,Delaware,Precinct 92,6,0,0,6
 Melanie M Wright,State Representative,35,D,Delaware,Precinct 92,3,0,0,3
 ,Registered Voters,,,Delaware,Precinct 93,,,,1266
 ,Ballots Cast,,,Delaware,Precinct 93,552,160,0,712
@@ -1809,7 +1809,7 @@ Write in,Write In,6,,Delaware,Precinct 93,1,0,0,1
 Mike Gaskill,State Senate,26,R,Delaware,Precinct 93,260,85,0,345
 Dave Cravens,State Senate,26,D,Delaware,Precinct 93,253,68,0,321
 Greg Noland,State Senate,26,L,Delaware,Precinct 93,23,5,0,28
-Ben W. Fisher,State Representative,35,R ,Delaware,Precinct 93,246,79,0,325
+Ben W. Fisher,State Representative,35,R,Delaware,Precinct 93,246,79,0,325
 Melanie M Wright,State Representative,35,D,Delaware,Precinct 93,284,78,0,362
 ,Registered Voters,,,Delaware,Precinct 94,,,,1115
 ,Ballots Cast,,,Delaware,Precinct 94,548,75,0,623
@@ -1832,8 +1832,8 @@ Tom Ferkinhoff,U.S. House,6,L,Delaware,Precinct 94,21,4,0,25
 Write in,Write In,6,,Delaware,Precinct 94,0,0,0,0
 Zaki Ali,State Senate,25,R,Delaware,Precinct 94,305,36,0,341
 Tim Lanane,State Senate,25,D,Delaware,Precinct 94,214,38,0,252
-Robert Q Jozwiak ,State Senate,25,L,Delaware,Precinct 94,24,0,0,24
-Ben W. Fisher,State Representative,35,R ,Delaware,Precinct 94,217,28,0,245
+Robert Q Jozwiak,State Senate,25,L,Delaware,Precinct 94,24,0,0,24
+Ben W. Fisher,State Representative,35,R,Delaware,Precinct 94,217,28,0,245
 Melanie M Wright,State Representative,35,D,Delaware,Precinct 94,319,43,0,362
 ,Registered Voters,,,Delaware,Precinct 95,,,,598
 ,Ballots Cast,,,Delaware,Precinct 95,238,100,0,338
@@ -1857,7 +1857,7 @@ Write in,Write In,6,,Delaware,Precinct 95,0,0,0,0
 Mike Gaskill,State Senate,26,R,Delaware,Precinct 95,109,49,0,158
 Dave Cravens,State Senate,26,D,Delaware,Precinct 95,118,48,0,166
 Greg Noland,State Senate,26,L,Delaware,Precinct 95,8,0,0,8
-Ben W. Fisher,State Representative,35,R ,Delaware,Precinct 95,89,43,0,132
+Ben W. Fisher,State Representative,35,R,Delaware,Precinct 95,89,43,0,132
 Melanie M Wright,State Representative,35,D,Delaware,Precinct 95,145,53,0,198
 ,Registered Voters,,,Delaware,Precinct 98,,,,650
 ,Ballots Cast,,,Delaware,Precinct 98,342,101,0,443
@@ -1881,5 +1881,5 @@ Write in,Write In,6,,Delaware,Precinct 98,0,0,0,0
 Mike Gaskill,State Senate,26,R,Delaware,Precinct 98,195,38,0,233
 Dave Cravens,State Senate,26,D,Delaware,Precinct 98,119,56,0,175
 Greg Noland,State Senate,26,L,Delaware,Precinct 98,17,3,0,20
-Ben W. Fisher,State Representative,35,R ,Delaware,Precinct 98,166,33,0,199
+Ben W. Fisher,State Representative,35,R,Delaware,Precinct 98,166,33,0,199
 Melanie M Wright,State Representative,35,D,Delaware,Precinct 98,161,64,0,225

@@ -1,6 +1,6 @@
 county,precinct,office,district,party,candidate,election_day,absentee,early_voting,votes
 Adams,01-Berne A,Registered Voters,,,,,,,1015
-Adams,01-Berne A,Ballots Cast ,,,,364,73,311,748
+Adams,01-Berne A,Ballots Cast,,,,364,73,311,748
 Adams,01-Berne A,President,,R,Trump\Pence,295,38,249,582
 Adams,01-Berne A,President,,D,Biden\Harris,52,33,51,136
 Adams,01-Berne A,President,,L,Jorgense\Cohen,12,0,8,20
@@ -15,7 +15,7 @@ Adams,01-Berne A,U.S. House,3,D,Chip Coldiron,49,32,51,132
 Adams,01-Berne A,U.S. House,3,,Write-In,0,0,0,0
 Adams,01-Berne A,State Representative,79,R,Matthew S Lehman,333,50,267,650
 Adams,02-Berne B,Registered Voters,,,,,,,1038
-Adams,02-Berne B,Ballots Cast ,,,,417,73,282,772
+Adams,02-Berne B,Ballots Cast,,,,417,73,282,772
 Adams,02-Berne B,President,,R,Trump\Pence,352,40,213,605
 Adams,02-Berne B,President,,D,Biden\Harris,50,29,53,132
 Adams,02-Berne B,President,,L,Jorgense\Cohen,11,3,12,26
@@ -30,7 +30,7 @@ Adams,02-Berne B,U.S. House,3,D,Chip Coldiron,47,18,50,115
 Adams,02-Berne B,U.S. House,3,,Write-In,0,0,0,0
 Adams,02-Berne B,State Representative,79,R,Matthew S Lehman,367,55,233,655
 Adams,03-Berne C,Registered Voters,,,,,,,866
-Adams,03-Berne C,Ballots Cast ,,,,241,150,312,703
+Adams,03-Berne C,Ballots Cast,,,,241,150,312,703
 Adams,03-Berne C,President,,R,Trump\Pence,202,99,260,561
 Adams,03-Berne C,President,,D,Biden\Harris,32,46,50,128
 Adams,03-Berne C,President,,L,Jorgense\Cohen,4,0,2,6
@@ -45,7 +45,7 @@ Adams,03-Berne C,U.S. House,3,D,Chip Coldiron,28,36,47,111
 Adams,03-Berne C,U.S. House,3,,Write-In,0,0,0,0
 Adams,03-Berne C,State Representative,79,R,Matthew S Lehman,218,115,273,606
 Adams,04 - Blue Creek,Registered Voters,,,,,,,378
-Adams,04 - Blue Creek,Ballots Cast ,,,,99,25,116,240
+Adams,04 - Blue Creek,Ballots Cast,,,,99,25,116,240
 Adams,04 - Blue Creek,President,,R,Trump\Pence,91,19,102,212
 Adams,04 - Blue Creek,President,,D,Biden\Harris,7,5,12,24
 Adams,04 - Blue Creek,President,,L,Jorgense\Cohen,1,1,2,4
@@ -60,7 +60,7 @@ Adams,04 - Blue Creek,U.S. House,3,D,Chip Coldiron,4,4,15,23
 Adams,04 - Blue Creek,U.S. House,3,,Write-In,0,0,0,0
 Adams,04 - Blue Creek,State Representative,79,R,Matthew S Lehman,91,19,98,208
 Adams,05 - Decatur 1,Registered Voters,,,,,,,1584
-Adams,05 - Decatur 1,Ballots Cast ,,,,283,76,725,1084
+Adams,05 - Decatur 1,Ballots Cast,,,,283,76,725,1084
 Adams,05 - Decatur 1,President,,R,Trump\Pence,219,23,447,689
 Adams,05 - Decatur 1,President,,D,Biden\Harris,46,52,248,346
 Adams,05 - Decatur 1,President,,L,Jorgense\Cohen,12,1,23,36
@@ -75,7 +75,7 @@ Adams,05 - Decatur 1,U.S. House,3,D,Chip Coldiron,51,43,235,329
 Adams,05 - Decatur 1,U.S. House,3,,Write-In,0,0,1,1
 Adams,05 - Decatur 1,State Representative,79,R,Matthew S Lehman,241,37,536,814
 Adams,06 - Decatur 2,Registered Voters,,,,,,,1614
-Adams,06 - Decatur 2,Ballots Cast ,,,,338,179,554,1071
+Adams,06 - Decatur 2,Ballots Cast,,,,338,179,554,1071
 Adams,06 - Decatur 2,President,,R,Trump\Pence,232,80,343,655
 Adams,06 - Decatur 2,President,,D,Biden\Harris,83,93,195,371
 Adams,06 - Decatur 2,President,,L,Jorgense\Cohen,16,3,13,32
@@ -90,7 +90,7 @@ Adams,06 - Decatur 2,U.S. House,3,D,Chip Coldiron,92,70,178,340
 Adams,06 - Decatur 2,U.S. House,3,,Write-In,0,0,0,0
 Adams,06 - Decatur 2,State Representative,79,R,Matthew S Lehman,259,116,403,778
 Adams,07 - Decatur 3,Registered Voters,,,,,,,935
-Adams,07 - Decatur 3,Ballots Cast ,,,,167,62,370,599
+Adams,07 - Decatur 3,Ballots Cast,,,,167,62,370,599
 Adams,07 - Decatur 3,President,,R,Trump\Pence,113,24,231,368
 Adams,07 - Decatur 3,President,,D,Biden\Harris,43,36,126,205
 Adams,07 - Decatur 3,President,,L,Jorgense\Cohen,10,2,6,18
@@ -105,7 +105,7 @@ Adams,07 - Decatur 3,U.S. House,3,D,Chip Coldiron,44,30,118,192
 Adams,07 - Decatur 3,U.S. House,3,,Write-In,0,0,0,0
 Adams,07 - Decatur 3,State Representative,79,R,Matthew S Lehman,129,47,264,440
 Adams,08 - Decatur 4,Registered Voters,,,,,,,819
-Adams,08 - Decatur 4,Ballots Cast ,,,,155,65,439,659
+Adams,08 - Decatur 4,Ballots Cast,,,,155,65,439,659
 Adams,08 - Decatur 4,President,,R,Trump\Pence,118,28,313,459
 Adams,08 - Decatur 4,President,,D,Biden\Harris,29,35,122,186
 Adams,08 - Decatur 4,President,,L,Jorgense\Cohen,1,0,3,4
@@ -120,7 +120,7 @@ Adams,08 - Decatur 4,U.S. House,3,D,Chip Coldiron,25,33,118,176
 Adams,08 - Decatur 4,U.S. House,3,,Write-In,0,0,0,0
 Adams,08 - Decatur 4,State Representative,79,R,Matthew S Lehman,121,43,335,499
 Adams,09 - Decatur 5,Registered Voters,,,,,,,1616
-Adams,09 - Decatur 5,Ballots Cast ,,,,330,96,708,1134
+Adams,09 - Decatur 5,Ballots Cast,,,,330,96,708,1134
 Adams,09 - Decatur 5,President,,R,Trump\Pence,243,31,452,726
 Adams,09 - Decatur 5,President,,D,Biden\Harris,65,61,230,356
 Adams,09 - Decatur 5,President,,L,Jorgense\Cohen,16,3,16,35
@@ -135,7 +135,7 @@ Adams,09 - Decatur 5,U.S. House,3,D,Chip Coldiron,69,49,224,342
 Adams,09 - Decatur 5,U.S. House,3,,Write-In,2,0,1,3
 Adams,09 - Decatur 5,State Representative,79,R,Matthew S Lehman,267,64,524,855
 Adams,10-East Root,Registered Voters,,,,,,,1163
-Adams,10-East Root,Ballots Cast ,,,,209,73,583,865
+Adams,10-East Root,Ballots Cast,,,,209,73,583,865
 Adams,10-East Root,President,,R,Trump\Pence,170,25,424,619
 Adams,10-East Root,President,,D,Biden\Harris,35,47,145,227
 Adams,10-East Root,President,,L,Jorgense\Cohen,3,1,9,13
@@ -150,7 +150,7 @@ Adams,10-East Root,U.S. House,3,D,Chip Coldiron,36,38,133,207
 Adams,10-East Root,U.S. House,3,,Write-In,0,0,0,0
 Adams,10-East Root,State Representative,79,R,Matthew S Lehman,175,49,465,689
 Adams,11-French,Registered Voters,,,,,,,508
-Adams,11-French,Ballots Cast ,,,,153,29,206,388
+Adams,11-French,Ballots Cast,,,,153,29,206,388
 Adams,11-French,President,,R,Trump\Pence,139,17,181,337
 Adams,11-French,President,,D,Biden\Harris,12,10,15,37
 Adams,11-French,President,,L,Jorgense\Cohen,0,2,1,3
@@ -165,7 +165,7 @@ Adams,11-French,U.S. House,3,D,Chip Coldiron,14,8,18,40
 Adams,11-French,U.S. House,3,,Write-In,0,0,0,0
 Adams,11-French,State Representative,79,R,Matthew S Lehman,133,24,180,337
 Adams,12-Geneva,Registered Voters,,,,,,,798
-Adams,12-Geneva,Ballots Cast ,,,,359,72,138,569
+Adams,12-Geneva,Ballots Cast,,,,359,72,138,569
 Adams,12-Geneva,President,,R,Trump\Pence,272,30,107,409
 Adams,12-Geneva,President,,D,Biden\Harris,70,37,30,137
 Adams,12-Geneva,President,,L,Jorgense\Cohen,9,3,1,13
@@ -180,7 +180,7 @@ Adams,12-Geneva,U.S. House,3,D,Chip Coldiron,73,36,30,139
 Adams,12-Geneva,U.S. House,3,,Write-In,0,0,0,0
 Adams,12-Geneva,State Representative,79,R,Matthew S Lehman,299,50,107,456
 Adams,13-Hartford,Registered Voters,,,,,,,461
-Adams,13-Hartford,Ballots Cast ,,,,193,25,150,368
+Adams,13-Hartford,Ballots Cast,,,,193,25,150,368
 Adams,13-Hartford,President,,R,Trump\Pence,167,16,122,305
 Adams,13-Hartford,President,,D,Biden\Harris,22,9,25,56
 Adams,13-Hartford,President,,L,Jorgense\Cohen,1,0,2,3
@@ -195,7 +195,7 @@ Adams,13-Hartford,U.S. House,3,D,Chip Coldiron,19,9,23,51
 Adams,13-Hartford,U.S. House,3,,Write-In,0,0,0,0
 Adams,13-Hartford,State Representative,79,R,Matthew S Lehman,176,17,134,327
 Adams,14-Jefferson,Registered Voters,,,,,,,281
-Adams,14-Jefferson,Ballots Cast ,,,,95,19,51,165
+Adams,14-Jefferson,Ballots Cast,,,,95,19,51,165
 Adams,14-Jefferson,President,,R,Trump\Pence,87,12,44,143
 Adams,14-Jefferson,President,,D,Biden\Harris,7,7,7,21
 Adams,14-Jefferson,President,,L,Jorgense\Cohen,1,0,0,1
@@ -210,7 +210,7 @@ Adams,14-Jefferson,U.S. House,3,D,Chip Coldiron,6,6,6,18
 Adams,14-Jefferson,U.S. House,3,,Write-In,0,0,0,0
 Adams,14-Jefferson,State Representative,79,R,Matthew S Lehman,88,14,46,148
 Adams,15-Kirkland,Registered Voters,,,,,,,596
-Adams,15-Kirkland,Ballots Cast ,,,,159,36,305,500
+Adams,15-Kirkland,Ballots Cast,,,,159,36,305,500
 Adams,15-Kirkland,President,,R,Trump\Pence,138,18,258,414
 Adams,15-Kirkland,President,,D,Biden\Harris,15,18,41,74
 Adams,15-Kirkland,President,,L,Jorgense\Cohen,4,0,3,7
@@ -225,7 +225,7 @@ Adams,15-Kirkland,U.S. House,3,D,Chip Coldiron,15,16,30,61
 Adams,15-Kirkland,U.S. House,3,,Write-In,0,0,0,0
 Adams,15-Kirkland,State Representative,79,R,Matthew S Lehman,146,27,257,430
 Adams,16-Monroe A,Registered Voters,,,,,,,116
-Adams,16-Monroe A,Ballots Cast ,,,,46,7,37,90
+Adams,16-Monroe A,Ballots Cast,,,,46,7,37,90
 Adams,16-Monroe A,President,,R,Trump\Pence,36,4,28,68
 Adams,16-Monroe A,President,,D,Biden\Harris,8,2,9,19
 Adams,16-Monroe A,President,,L,Jorgense\Cohen,1,1,0,2
@@ -240,7 +240,7 @@ Adams,16-Monroe A,U.S. House,3,D,Chip Coldiron,11,1,8,20
 Adams,16-Monroe A,U.S. House,3,,Write-In,0,0,0,0
 Adams,16-Monroe A,State Representative,79,R,Matthew S Lehman,37,5,28,70
 Adams,17-Monroe B,Registered Voters,,,,,,,508
-Adams,17-Monroe B,Ballots Cast ,,,,191,29,179,399
+Adams,17-Monroe B,Ballots Cast,,,,191,29,179,399
 Adams,17-Monroe B,President,,R,Trump\Pence,167,11,126,304
 Adams,17-Monroe B,President,,D,Biden\Harris,18,15,48,81
 Adams,17-Monroe B,President,,L,Jorgense\Cohen,3,2,1,6
@@ -255,7 +255,7 @@ Adams,17-Monroe B,U.S. House,3,D,Chip Coldiron,19,11,48,78
 Adams,17-Monroe B,U.S. House,3,,Write-In,0,0,0,0
 Adams,17-Monroe B,State Representative,79,R,Matthew S Lehman,165,22,142,329
 Adams,18-North Washington,Registered Voters,,,,,,,439
-Adams,18-North Washington,Ballots Cast ,,,,112,18,217,347
+Adams,18-North Washington,Ballots Cast,,,,112,18,217,347
 Adams,18-North Washington,President,,R,Trump\Pence,95,9,177,281
 Adams,18-North Washington,President,,D,Biden\Harris,12,9,36,57
 Adams,18-North Washington,President,,L,Jorgense\Cohen,4,0,2,6
@@ -270,7 +270,7 @@ Adams,18-North Washington,U.S. House,3,D,Chip Coldiron,14,7,33,54
 Adams,18-North Washington,U.S. House,3,,Write-In,0,0,0,0
 Adams,18-North Washington,State Representative,79,R,Matthew S Lehman,100,12,188,300
 Adams,19-Preble,Registered Voters,,,,,,,781
-Adams,19-Preble,Ballots Cast ,,,,203,44,376,623
+Adams,19-Preble,Ballots Cast,,,,203,44,376,623
 Adams,19-Preble,President,,R,Trump\Pence,168,25,298,491
 Adams,19-Preble,President,,D,Biden\Harris,29,15,72,116
 Adams,19-Preble,President,,L,Jorgense\Cohen,5,4,3,12
@@ -285,7 +285,7 @@ Adams,19-Preble,U.S. House,3,D,Chip Coldiron,30,13,65,108
 Adams,19-Preble,U.S. House,3,,Write-In,0,0,0,0
 Adams,19-Preble,State Representative,79,R,Matthew S Lehman,178,38,314,530
 Adams,20-South Monroe,Registered Voters,,,,,,,699
-Adams,20-South Monroe,Ballots Cast ,,,,212,20,205,437
+Adams,20-South Monroe,Ballots Cast,,,,212,20,205,437
 Adams,20-South Monroe,President,,R,Trump\Pence,193,16,185,394
 Adams,20-South Monroe,President,,D,Biden\Harris,15,3,13,31
 Adams,20-South Monroe,President,,L,Jorgense\Cohen,3,0,3,6
@@ -300,7 +300,7 @@ Adams,20-South Monroe,U.S. House,3,D,Chip Coldiron,12,3,15,30
 Adams,20-South Monroe,U.S. House,3,,Write-In,0,0,0,0
 Adams,20-South Monroe,State Representative,79,R,Matthew S Lehman,185,17,185,387
 Adams,21-South Washington,Registered Voters,,,,,,,787
-Adams,21-South Washington,Ballots Cast ,,,,186,36,380,602
+Adams,21-South Washington,Ballots Cast,,,,186,36,380,602
 Adams,21-South Washington,President,,R,Trump\Pence,166,15,288,469
 Adams,21-South Washington,President,,D,Biden\Harris,16,19,81,116
 Adams,21-South Washington,President,,L,Jorgense\Cohen,4,2,5,11
@@ -315,7 +315,7 @@ Adams,21-South Washington,U.S. House,3,D,Chip Coldiron,16,17,80,113
 Adams,21-South Washington,U.S. House,3,,Write-In,0,0,0,0
 Adams,21-South Washington,State Representative,79,R,Matthew S Lehman,167,20,300,487
 Adams,22-St Marys,Registered Voters,,,,,,,778
-Adams,22-St Marys,Ballots Cast ,,,,199,46,346,591
+Adams,22-St Marys,Ballots Cast,,,,199,46,346,591
 Adams,22-St Marys,President,,R,Trump\Pence,176,25,273,474
 Adams,22-St Marys,President,,D,Biden\Harris,23,20,67,110
 Adams,22-St Marys,President,,L,Jorgense\Cohen,0,1,4,5
@@ -330,7 +330,7 @@ Adams,22-St Marys,U.S. House,3,D,Chip Coldiron,18,19,68,105
 Adams,22-St Marys,U.S. House,3,,Write-In,0,0,0,0
 Adams,22-St Marys,State Representative,79,R,Matthew S Lehman,175,30,280,485
 Adams,23-Union,Registered Voters,,,,,,,634
-Adams,23-Union,Ballots Cast ,,,,143,35,326,504
+Adams,23-Union,Ballots Cast,,,,143,35,326,504
 Adams,23-Union,President,,R,Trump\Pence,130,22,252,404
 Adams,23-Union,President,,D,Biden\Harris,8,11,67,86
 Adams,23-Union,President,,L,Jorgense\Cohen,0,2,4,6
@@ -345,7 +345,7 @@ Adams,23-Union,U.S. House,3,D,Chip Coldiron,11,14,65,90
 Adams,23-Union,U.S. House,3,,Write-In,0,0,0,0
 Adams,23-Union,State Representative,79,R,Matthew S Lehman,128,27,276,431
 Adams,24-Wabash,Registered Voters,,,,,,,543
-Adams,24-Wabash,Ballots Cast ,,,,155,27,142,324
+Adams,24-Wabash,Ballots Cast,,,,155,27,142,324
 Adams,24-Wabash,President,,R,Trump\Pence,138,18,107,263
 Adams,24-Wabash,President,,D,Biden\Harris,15,9,33,57
 Adams,24-Wabash,President,,L,Jorgense\Cohen,1,0,0,1
@@ -360,7 +360,7 @@ Adams,24-Wabash,U.S. House,3,D,Chip Coldiron,14,10,29,53
 Adams,24-Wabash,U.S. House,3,,Write-In,0,0,0,0
 Adams,24-Wabash,State Representative,79,R,Matthew S Lehman,141,19,118,278
 Adams,25-West Root,Registered Voters,,,,,,,780
-Adams,25-West Root,Ballots Cast ,,,,130,46,426,602
+Adams,25-West Root,Ballots Cast,,,,130,46,426,602
 Adams,25-West Root,President,,R,Trump\Pence,105,20,328,453
 Adams,25-West Root,President,,D,Biden\Harris,18,22,87,127
 Adams,25-West Root,President,,L,Jorgense\Cohen,2,1,8,11

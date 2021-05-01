@@ -1,6 +1,6 @@
 id,county,precinct,office,district,party,candidate,election_day,absentee,early_voting,votes
 1,Blackford,Harrison 1,Registered Voters,,,,,,,952
-2,Blackford,Harrison 1,Ballots Cast ,,,,278,62,244,584
+2,Blackford,Harrison 1,Ballots Cast,,,,278,62,244,584
 3,Blackford,Harrison 1,President,,REP,Trump\Pence,208,28,176,412
 4,Blackford,Harrison 1,President,,DEM,Biden\Harris,49,30,63,142
 5,Blackford,Harrison 1,President,,LIB,Jorgense\Cohen,19,3,3,25
@@ -13,9 +13,9 @@ id,county,precinct,office,district,party,candidate,election_day,absentee,early_v
 12,Blackford,Harrison 1,U.S. House,3,REP,Jim Banks,210,28,183,421
 13,Blackford,Harrison 1,U.S. House,3,DEM,Chip Coldiron,53,30,52,135
 14,Blackford,Harrison 1,U.S. House,3,,Write-In,0,0,0,0
-15,Blackford,Harrison 1,State Representative ,31,REP,Ann Vermillion,225,36,202,463
+15,Blackford,Harrison 1,State Representative,31,REP,Ann Vermillion,225,36,202,463
 16,Blackford,Harrison 2,Registered Voters,,,,,,,598
-17,Blackford,Harrison 2,Ballots Cast ,,,,174,37,225,436
+17,Blackford,Harrison 2,Ballots Cast,,,,174,37,225,436
 18,Blackford,Harrison 2,President,,REP,Trump\Pence,147,18,182,347
 19,Blackford,Harrison 2,President,,DEM,Biden\Harris,21,19,37,77
 20,Blackford,Harrison 2,President,,LIB,Jorgense\Cohen,5,0,5,10
@@ -28,9 +28,9 @@ id,county,precinct,office,district,party,candidate,election_day,absentee,early_v
 27,Blackford,Harrison 2,U.S. House,3,REP,Jim Banks,149,17,183,349
 28,Blackford,Harrison 2,U.S. House,3,DEM,Chip Coldiron,23,15,37,75
 29,Blackford,Harrison 2,U.S. House,3,,Write-In,0,0,0,0
-30,Blackford,Harrison 2,State Representative ,31,REP,Ann Vermillion,160,19,186,365
+30,Blackford,Harrison 2,State Representative,31,REP,Ann Vermillion,160,19,186,365
 31,Blackford,Jackson 1,Registered Voters,,,,,,,72
-32,Blackford,Jackson 1,Ballots Cast ,,,,21,7,15,43
+32,Blackford,Jackson 1,Ballots Cast,,,,21,7,15,43
 33,Blackford,Jackson 1,President,,REP,Trump\Pence,10,5,9,24
 34,Blackford,Jackson 1,President,,DEM,Biden\Harris,10,2,6,18
 35,Blackford,Jackson 1,President,,LIB,Jorgense\Cohen,0,0,0,0
@@ -44,10 +44,10 @@ id,county,precinct,office,district,party,candidate,election_day,absentee,early_v
 43,Blackford,Jackson 1,U.S. House,5,DEM,Christina Hale,12,2,3,17
 44,Blackford,Jackson 1,U.S. House,5,LIB,Kenneth Tucker,2,1,2,5
 45,Blackford,Jackson 1,U.S. House,5,,Write-In,0,0,0,0
-46,Blackford,Jackson 1,State Representative ,33,REP,John (J.D.) Prescott,9,5,10,24
-47,Blackford,Jackson 1,State Representative ,33,DEM,Julie Snider,12,2,3,17
+46,Blackford,Jackson 1,State Representative,33,REP,John (J.D.) Prescott,9,5,10,24
+47,Blackford,Jackson 1,State Representative,33,DEM,Julie Snider,12,2,3,17
 48,Blackford,Jackson 2,Registered Voters,,,,,,,801
-49,Blackford,Jackson 2,Ballots Cast ,,,,159,58,345,562
+49,Blackford,Jackson 2,Ballots Cast,,,,159,58,345,562
 50,Blackford,Jackson 2,President,,REP,Trump\Pence,135,32,259,426
 51,Blackford,Jackson 2,President,,DEM,Biden\Harris,19,24,81,124
 52,Blackford,Jackson 2,President,,LIB,Jorgense\Cohen,3,1,3,7
@@ -61,9 +61,9 @@ id,county,precinct,office,district,party,candidate,election_day,absentee,early_v
 60,Blackford,Jackson 2,U.S. House,5,DEM,Christina Hale,20,25,79,124
 61,Blackford,Jackson 2,U.S. House,5,LIB,Kenneth Tucker,10,4,15,29
 62,Blackford,Jackson 2,U.S. House,5,,Write-In,0,0,0,0
-63,Blackford,Jackson 2,State Representative ,31,REP,Ann Vermillion,143,37,282,462
+63,Blackford,Jackson 2,State Representative,31,REP,Ann Vermillion,143,37,282,462
 64,Blackford,Licking 1,Registered Voters,,,,,,,1036
-65,Blackford,Licking 1,Ballots Cast ,,,,158,118,436,712
+65,Blackford,Licking 1,Ballots Cast,,,,158,118,436,712
 66,Blackford,Licking 1,President,,REP,Trump\Pence,124,54,257,435
 67,Blackford,Licking 1,President,,DEM,Biden\Harris,25,60,163,248
 68,Blackford,Licking 1,President,,LIB,Jorgense\Cohen,7,2,10,19
@@ -77,9 +77,9 @@ id,county,precinct,office,district,party,candidate,election_day,absentee,early_v
 76,Blackford,Licking 1,U.S. House,5,DEM,Christina Hale,31,59,156,246
 77,Blackford,Licking 1,U.S. House,5,LIB,Kenneth Tucker,10,3,30,43
 78,Blackford,Licking 1,U.S. House,5,,Write-In,0,0,0,0
-79,Blackford,Licking 1,State Representative ,31,REP,Ann Vermillion,134,67,324,525
+79,Blackford,Licking 1,State Representative,31,REP,Ann Vermillion,134,67,324,525
 80,Blackford,Licking 2,Registered Voters,,,,,,,1112
-81,Blackford,Licking 2,Ballots Cast ,,,,222,84,376,682
+81,Blackford,Licking 2,Ballots Cast,,,,222,84,376,682
 82,Blackford,Licking 2,President,,REP,Trump\Pence,167,23,264,454
 83,Blackford,Licking 2,President,,DEM,Biden\Harris,39,60,98,197
 84,Blackford,Licking 2,President,,LIB,Jorgense\Cohen,13,1,10,24
@@ -93,9 +93,9 @@ id,county,precinct,office,district,party,candidate,election_day,absentee,early_v
 92,Blackford,Licking 2,U.S. House,5,DEM,Christina Hale,54,58,103,215
 93,Blackford,Licking 2,U.S. House,5,LIB,Kenneth Tucker,18,6,25,49
 94,Blackford,Licking 2,U.S. House,5,,Write-In,0,0,0,0
-95,Blackford,Licking 2,State Representative ,31,REP,Ann Vermillion,183,43,286,512
+95,Blackford,Licking 2,State Representative,31,REP,Ann Vermillion,183,43,286,512
 96,Blackford,Licking 3,Registered Voters,,,,,,,919
-97,Blackford,Licking 3,Ballots Cast ,,,,154,61,306,521
+97,Blackford,Licking 3,Ballots Cast,,,,154,61,306,521
 98,Blackford,Licking 3,President,,REP,Trump\Pence,117,31,225,373
 99,Blackford,Licking 3,President,,DEM,Biden\Harris,28,27,74,129
 100,Blackford,Licking 3,President,,LIB,Jorgense\Cohen,8,3,6,17
@@ -109,9 +109,9 @@ id,county,precinct,office,district,party,candidate,election_day,absentee,early_v
 108,Blackford,Licking 3,U.S. House,5,DEM,Christina Hale,39,24,76,139
 109,Blackford,Licking 3,U.S. House,5,LIB,Kenneth Tucker,11,8,30,49
 110,Blackford,Licking 3,U.S. House,5,,Write-In,0,0,0,0
-111,Blackford,Licking 3,State Representative ,31,REP,Ann Vermillion,127,40,234,401
+111,Blackford,Licking 3,State Representative,31,REP,Ann Vermillion,127,40,234,401
 112,Blackford,Licking 4,Registered Voters,,,,,,,876
-113,Blackford,Licking 4,Ballots Cast ,,,,165,59,297,521
+113,Blackford,Licking 4,Ballots Cast,,,,165,59,297,521
 114,Blackford,Licking 4,President,,REP,Trump\Pence,117,33,218,368
 115,Blackford,Licking 4,President,,DEM,Biden\Harris,38,21,71,130
 116,Blackford,Licking 4,President,,LIB,Jorgense\Cohen,9,2,3,14
@@ -125,9 +125,9 @@ id,county,precinct,office,district,party,candidate,election_day,absentee,early_v
 124,Blackford,Licking 4,U.S. House,5,DEM,Christina Hale,46,22,79,147
 125,Blackford,Licking 4,U.S. House,5,LIB,Kenneth Tucker,20,3,16,39
 126,Blackford,Licking 4,U.S. House,5,,Write-In,0,0,0,0
-127,Blackford,Licking 4,State Representative ,31,REP,Ann Vermillion,127,43,239,409
+127,Blackford,Licking 4,State Representative,31,REP,Ann Vermillion,127,43,239,409
 128,Blackford,Licking 5,Registered Voters,,,,,,,1083
-129,Blackford,Licking 5,Ballots Cast ,,,,163,102,530,795
+129,Blackford,Licking 5,Ballots Cast,,,,163,102,530,795
 130,Blackford,Licking 5,President,,REP,Trump\Pence,135,39,395,569
 131,Blackford,Licking 5,President,,DEM,Biden\Harris,23,57,127,207
 132,Blackford,Licking 5,President,,LIB,Jorgense\Cohen,3,3,3,9
@@ -141,9 +141,9 @@ id,county,precinct,office,district,party,candidate,election_day,absentee,early_v
 140,Blackford,Licking 5,U.S. House,5,DEM,Christina Hale,26,53,135,214
 141,Blackford,Licking 5,U.S. House,5,LIB,Kenneth Tucker,10,4,27,41
 142,Blackford,Licking 5,U.S. House,5,,Write-In,0,0,0,0
-143,Blackford,Licking 5,State Representative ,31,REP,Ann Vermillion,138,54,422,614
+143,Blackford,Licking 5,State Representative,31,REP,Ann Vermillion,138,54,422,614
 144,Blackford,Licking 6,Registered Voters,,,,,,,175
-145,Blackford,Licking 6,Ballots Cast ,,,,43,15,82,140
+145,Blackford,Licking 6,Ballots Cast,,,,43,15,82,140
 146,Blackford,Licking 6,President,,REP,Trump\Pence,39,7,64,110
 147,Blackford,Licking 6,President,,DEM,Biden\Harris,4,6,14,24
 148,Blackford,Licking 6,President,,LIB,Jorgense\Cohen,0,1,3,4
@@ -157,9 +157,9 @@ id,county,precinct,office,district,party,candidate,election_day,absentee,early_v
 156,Blackford,Licking 6,U.S. House,5,DEM,Christina Hale,6,4,18,28
 157,Blackford,Licking 6,U.S. House,5,LIB,Kenneth Tucker,2,0,3,5
 158,Blackford,Licking 6,U.S. House,5,,Write-In,0,0,0,0
-159,Blackford,Licking 6,State Representative ,31,REP,Ann Vermillion,40,11,71,122
+159,Blackford,Licking 6,State Representative,31,REP,Ann Vermillion,40,11,71,122
 160,Blackford,Washington 1,Registered Voters,,,,,,,309
-161,Blackford,Washington 1,Ballots Cast ,,,,67,30,118,215
+161,Blackford,Washington 1,Ballots Cast,,,,67,30,118,215
 162,Blackford,Washington 1,President,,REP,Trump\Pence,61,17,96,174
 163,Blackford,Washington 1,President,,DEM,Biden\Harris,6,10,20,36
 164,Blackford,Washington 1,President,,LIB,Jorgense\Cohen,0,0,1,1
@@ -173,9 +173,9 @@ id,county,precinct,office,district,party,candidate,election_day,absentee,early_v
 172,Blackford,Washington 1,U.S. House,5,DEM,Christina Hale,6,12,22,40
 173,Blackford,Washington 1,U.S. House,5,LIB,Kenneth Tucker,3,0,4,7
 174,Blackford,Washington 1,U.S. House,5,,Write-In,0,0,0,0
-175,Blackford,Washington 1,State Representative ,31,REP,Ann Vermillion,61,19,99,179
+175,Blackford,Washington 1,State Representative,31,REP,Ann Vermillion,61,19,99,179
 176,Blackford,Washington 2,Registered Voters,,,,,,,280
-177,Blackford,Washington 2,Ballots Cast ,,,,63,16,118,197
+177,Blackford,Washington 2,Ballots Cast,,,,63,16,118,197
 178,Blackford,Washington 2,President,,REP,Trump\Pence,50,6,93,149
 179,Blackford,Washington 2,President,,DEM,Biden\Harris,13,10,21,44
 180,Blackford,Washington 2,President,,LIB,Jorgense\Cohen,0,0,2,2
@@ -188,7 +188,7 @@ id,county,precinct,office,district,party,candidate,election_day,absentee,early_v
 187,Blackford,Washington 2,U.S. House,3,REP,Jim Banks,49,6,93,148
 188,Blackford,Washington 2,U.S. House,3,DEM,Chip Coldiron,10,8,21,39
 189,Blackford,Washington 2,U.S. House,3,,Write-In,0,0,0,0
-190,Blackford,Washington 2,State Representative ,31,REP,Ann Vermillion,56,8,101,165
+190,Blackford,Washington 2,State Representative,31,REP,Ann Vermillion,56,8,101,165
 ,,,,,,,,,,
 ,,,,,,,,,,
 ,,,,,,,,,,

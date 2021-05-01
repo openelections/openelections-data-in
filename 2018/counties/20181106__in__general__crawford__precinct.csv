@@ -6,17 +6,17 @@ Crawford,0004 WHISKEY RUN 2,REGISTERED VOTERS,,,,0
 Crawford,0005 LIBERTY 1,REGISTERED VOTERS,,,,0
 Crawford,0006 LIBERTY 2,REGISTERED VOTERS,,,,0
 Crawford,0007 STERLING 1,REGISTERED VOTERS,,,,0
-Crawford,0008 STERLING 2 ,REGISTERED VOTERS,,,,0
-Crawford,0009 STERLING 3 ,REGISTERED VOTERS,,,,0
-Crawford,0010 PATNA 1 ,REGISTERED VOTERS,,,,0
-Crawford,0011 PATOKA 2 ,REGISTERED VOTERS,,,,0
+Crawford,0008 STERLING 2,REGISTERED VOTERS,,,,0
+Crawford,0009 STERLING 3,REGISTERED VOTERS,,,,0
+Crawford,0010 PATNA 1,REGISTERED VOTERS,,,,0
+Crawford,0011 PATOKA 2,REGISTERED VOTERS,,,,0
 Crawford,0012 JOHNSON 1,REGISTERED VOTERS,,,,0
 Crawford,0013 JOHNSON 2,REGISTERED VOTERS,,,,0
 Crawford,0014 UNION 1,REGISTERED VOTERS,,,,0
 Crawford,0015 UNION 2,REGISTERED VOTERS,,,,0
 Crawford,0016 OHIO 1,REGISTERED VOTERS,,,,0
 Crawford,0017 OHIO 2,REGISTERED VOTERS,,,,0
-Crawford,0018 BOONE ,REGISTERED VOTERS,,,,0
+Crawford,0018 BOONE,REGISTERED VOTERS,,,,0
 Crawford,0001 JENNINGS 1,BALLOTS CAST,,,,304
 Crawford,0002 JENNINGS 2,BALLOTS CAST,,,,301
 Crawford,0003 WHISKEY RUN 1,BALLOTS CAST,,,,311
@@ -24,17 +24,17 @@ Crawford,0004 WHISKEY RUN 2,BALLOTS CAST,,,,445
 Crawford,0005 LIBERTY 1,BALLOTS CAST,,,,369
 Crawford,0006 LIBERTY 2,BALLOTS CAST,,,,380
 Crawford,0007 STERLING 1,BALLOTS CAST,,,,127
-Crawford,0008 STERLING 2 ,BALLOTS CAST,,,,256
-Crawford,0009 STERLING 3 ,BALLOTS CAST,,,,253
-Crawford,0010 PATNA 1 ,BALLOTS CAST,,,,432
-Crawford,0011 PATOKA 2 ,BALLOTS CAST,,,,192
+Crawford,0008 STERLING 2,BALLOTS CAST,,,,256
+Crawford,0009 STERLING 3,BALLOTS CAST,,,,253
+Crawford,0010 PATNA 1,BALLOTS CAST,,,,432
+Crawford,0011 PATOKA 2,BALLOTS CAST,,,,192
 Crawford,0012 JOHNSON 1,BALLOTS CAST,,,,130
 Crawford,0013 JOHNSON 2,BALLOTS CAST,,,,1
 Crawford,0014 UNION 1,BALLOTS CAST,,,,178
 Crawford,0015 UNION 2,BALLOTS CAST,,,,119
 Crawford,0016 OHIO 1,BALLOTS CAST,,,,167
 Crawford,0017 OHIO 2,BALLOTS CAST,,,,100
-Crawford,0018 BOONE ,BALLOTS CAST,,,,56
+Crawford,0018 BOONE,BALLOTS CAST,,,,56
 Crawford,0001 JENNINGS 1,Straight Party,,REPUBLICAN,REP,50
 Crawford,0002 JENNINGS 2,Straight Party,,REPUBLICAN,REP,75
 Crawford,0003 WHISKEY RUN 1,Straight Party,,REPUBLICAN,REP,51
@@ -42,17 +42,17 @@ Crawford,0004 WHISKEY RUN 2,Straight Party,,REPUBLICAN,REP,72
 Crawford,0005 LIBERTY 1,Straight Party,,REPUBLICAN,REP,32
 Crawford,0006 LIBERTY 2,Straight Party,,REPUBLICAN,REP,46
 Crawford,0007 STERLING 1,Straight Party,,REPUBLICAN,REP,10
-Crawford,0008 STERLING 2 ,Straight Party,,REPUBLICAN,REP,33
-Crawford,0009 STERLING 3 ,Straight Party,,REPUBLICAN,REP,46
-Crawford,0010 PATNA 1 ,Straight Party,,REPUBLICAN,REP,70
-Crawford,0011 PATOKA 2 ,Straight Party,,REPUBLICAN,REP,50
+Crawford,0008 STERLING 2,Straight Party,,REPUBLICAN,REP,33
+Crawford,0009 STERLING 3,Straight Party,,REPUBLICAN,REP,46
+Crawford,0010 PATNA 1,Straight Party,,REPUBLICAN,REP,70
+Crawford,0011 PATOKA 2,Straight Party,,REPUBLICAN,REP,50
 Crawford,0012 JOHNSON 1,Straight Party,,REPUBLICAN,REP,24
 Crawford,0013 JOHNSON 2,Straight Party,,REPUBLICAN,REP,1
 Crawford,0014 UNION 1,Straight Party,,REPUBLICAN,REP,32
 Crawford,0015 UNION 2,Straight Party,,REPUBLICAN,REP,39
 Crawford,0016 OHIO 1,Straight Party,,REPUBLICAN,REP,25
 Crawford,0017 OHIO 2,Straight Party,,REPUBLICAN,REP,17
-Crawford,0018 BOONE ,Straight Party,,REPUBLICAN,REP,21
+Crawford,0018 BOONE,Straight Party,,REPUBLICAN,REP,21
 Crawford,0001 JENNINGS 1,Straight Party,,DEMOCRATIC,DEM,26
 Crawford,0002 JENNINGS 2,Straight Party,,DEMOCRATIC,DEM,29
 Crawford,0003 WHISKEY RUN 1,Straight Party,,DEMOCRATIC,DEM,39
@@ -60,17 +60,17 @@ Crawford,0004 WHISKEY RUN 2,Straight Party,,DEMOCRATIC,DEM,50
 Crawford,0005 LIBERTY 1,Straight Party,,DEMOCRATIC,DEM,42
 Crawford,0006 LIBERTY 2,Straight Party,,DEMOCRATIC,DEM,50
 Crawford,0007 STERLING 1,Straight Party,,DEMOCRATIC,DEM,9
-Crawford,0008 STERLING 2 ,Straight Party,,DEMOCRATIC,DEM,26
-Crawford,0009 STERLING 3 ,Straight Party,,DEMOCRATIC,DEM,27
-Crawford,0010 PATNA 1 ,Straight Party,,DEMOCRATIC,DEM,38
-Crawford,0011 PATOKA 2 ,Straight Party,,DEMOCRATIC,DEM,27
+Crawford,0008 STERLING 2,Straight Party,,DEMOCRATIC,DEM,26
+Crawford,0009 STERLING 3,Straight Party,,DEMOCRATIC,DEM,27
+Crawford,0010 PATNA 1,Straight Party,,DEMOCRATIC,DEM,38
+Crawford,0011 PATOKA 2,Straight Party,,DEMOCRATIC,DEM,27
 Crawford,0012 JOHNSON 1,Straight Party,,DEMOCRATIC,DEM,13
 Crawford,0013 JOHNSON 2,Straight Party,,DEMOCRATIC,DEM,0
 Crawford,0014 UNION 1,Straight Party,,DEMOCRATIC,DEM,24
 Crawford,0015 UNION 2,Straight Party,,DEMOCRATIC,DEM,12
 Crawford,0016 OHIO 1,Straight Party,,DEMOCRATIC,DEM,21
 Crawford,0017 OHIO 2,Straight Party,,DEMOCRATIC,DEM,11
-Crawford,0018 BOONE ,Straight Party,,DEMOCRATIC,DEM,4
+Crawford,0018 BOONE,Straight Party,,DEMOCRATIC,DEM,4
 Crawford,0001 JENNINGS 1,Straight Party,,LIBERTARIAN,LIB,2
 Crawford,0002 JENNINGS 2,Straight Party,,LIBERTARIAN,LIB,1
 Crawford,0003 WHISKEY RUN 1,Straight Party,,LIBERTARIAN,LIB,1
@@ -78,17 +78,17 @@ Crawford,0004 WHISKEY RUN 2,Straight Party,,LIBERTARIAN,LIB,1
 Crawford,0005 LIBERTY 1,Straight Party,,LIBERTARIAN,LIB,4
 Crawford,0006 LIBERTY 2,Straight Party,,LIBERTARIAN,LIB,2
 Crawford,0007 STERLING 1,Straight Party,,LIBERTARIAN,LIB,3
-Crawford,0008 STERLING 2 ,Straight Party,,LIBERTARIAN,LIB,2
-Crawford,0009 STERLING 3 ,Straight Party,,LIBERTARIAN,LIB,1
-Crawford,0010 PATNA 1 ,Straight Party,,LIBERTARIAN,LIB,2
-Crawford,0011 PATOKA 2 ,Straight Party,,LIBERTARIAN,LIB,0
+Crawford,0008 STERLING 2,Straight Party,,LIBERTARIAN,LIB,2
+Crawford,0009 STERLING 3,Straight Party,,LIBERTARIAN,LIB,1
+Crawford,0010 PATNA 1,Straight Party,,LIBERTARIAN,LIB,2
+Crawford,0011 PATOKA 2,Straight Party,,LIBERTARIAN,LIB,0
 Crawford,0012 JOHNSON 1,Straight Party,,LIBERTARIAN,LIB,2
 Crawford,0013 JOHNSON 2,Straight Party,,LIBERTARIAN,LIB,0
 Crawford,0014 UNION 1,Straight Party,,LIBERTARIAN,LIB,0
 Crawford,0015 UNION 2,Straight Party,,LIBERTARIAN,LIB,0
 Crawford,0016 OHIO 1,Straight Party,,LIBERTARIAN,LIB,1
 Crawford,0017 OHIO 2,Straight Party,,LIBERTARIAN,LIB,1
-Crawford,0018 BOONE ,Straight Party,,LIBERTARIAN,LIB,2
+Crawford,0018 BOONE,Straight Party,,LIBERTARIAN,LIB,2
 Crawford,0001 JENNINGS 1,Straight Party,,Over Votes,,0
 Crawford,0002 JENNINGS 2,Straight Party,,Over Votes,,0
 Crawford,0003 WHISKEY RUN 1,Straight Party,,Over Votes,,0
@@ -96,17 +96,17 @@ Crawford,0004 WHISKEY RUN 2,Straight Party,,Over Votes,,0
 Crawford,0005 LIBERTY 1,Straight Party,,Over Votes,,1
 Crawford,0006 LIBERTY 2,Straight Party,,Over Votes,,1
 Crawford,0007 STERLING 1,Straight Party,,Over Votes,,0
-Crawford,0008 STERLING 2 ,Straight Party,,Over Votes,,1
-Crawford,0009 STERLING 3 ,Straight Party,,Over Votes,,0
-Crawford,0010 PATNA 1 ,Straight Party,,Over Votes,,0
-Crawford,0011 PATOKA 2 ,Straight Party,,Over Votes,,0
+Crawford,0008 STERLING 2,Straight Party,,Over Votes,,1
+Crawford,0009 STERLING 3,Straight Party,,Over Votes,,0
+Crawford,0010 PATNA 1,Straight Party,,Over Votes,,0
+Crawford,0011 PATOKA 2,Straight Party,,Over Votes,,0
 Crawford,0012 JOHNSON 1,Straight Party,,Over Votes,,0
 Crawford,0013 JOHNSON 2,Straight Party,,Over Votes,,0
 Crawford,0014 UNION 1,Straight Party,,Over Votes,,0
 Crawford,0015 UNION 2,Straight Party,,Over Votes,,0
 Crawford,0016 OHIO 1,Straight Party,,Over Votes,,0
 Crawford,0017 OHIO 2,Straight Party,,Over Votes,,0
-Crawford,0018 BOONE ,Straight Party,,Over Votes,,0
+Crawford,0018 BOONE,Straight Party,,Over Votes,,0
 Crawford,0001 JENNINGS 1,Straight Party,,Under Votes,,226
 Crawford,0002 JENNINGS 2,Straight Party,,Under Votes,,196
 Crawford,0003 WHISKEY RUN 1,Straight Party,,Under Votes,,220
@@ -114,17 +114,17 @@ Crawford,0004 WHISKEY RUN 2,Straight Party,,Under Votes,,322
 Crawford,0005 LIBERTY 1,Straight Party,,Under Votes,,290
 Crawford,0006 LIBERTY 2,Straight Party,,Under Votes,,281
 Crawford,0007 STERLING 1,Straight Party,,Under Votes,,105
-Crawford,0008 STERLING 2 ,Straight Party,,Under Votes,,194
-Crawford,0009 STERLING 3 ,Straight Party,,Under Votes,,179
-Crawford,0010 PATNA 1 ,Straight Party,,Under Votes,,322
-Crawford,0011 PATOKA 2 ,Straight Party,,Under Votes,,115
+Crawford,0008 STERLING 2,Straight Party,,Under Votes,,194
+Crawford,0009 STERLING 3,Straight Party,,Under Votes,,179
+Crawford,0010 PATNA 1,Straight Party,,Under Votes,,322
+Crawford,0011 PATOKA 2,Straight Party,,Under Votes,,115
 Crawford,0012 JOHNSON 1,Straight Party,,Under Votes,,91
 Crawford,0013 JOHNSON 2,Straight Party,,Under Votes,,0
 Crawford,0014 UNION 1,Straight Party,,Under Votes,,122
 Crawford,0015 UNION 2,Straight Party,,Under Votes,,68
 Crawford,0016 OHIO 1,Straight Party,,Under Votes,,120
 Crawford,0017 OHIO 2,Straight Party,,Under Votes,,71
-Crawford,0018 BOONE ,Straight Party,,Under Votes,,29
+Crawford,0018 BOONE,Straight Party,,Under Votes,,29
 Crawford,0001 JENNINGS 1,U.S. Senate,,MIKE BRAUN,REP,169
 Crawford,0002 JENNINGS 2,U.S. Senate,,MIKE BRAUN,REP,187
 Crawford,0003 WHISKEY RUN 1,U.S. Senate,,MIKE BRAUN,REP,178
@@ -132,17 +132,17 @@ Crawford,0004 WHISKEY RUN 2,U.S. Senate,,MIKE BRAUN,REP,265
 Crawford,0005 LIBERTY 1,U.S. Senate,,MIKE BRAUN,REP,171
 Crawford,0006 LIBERTY 2,U.S. Senate,,MIKE BRAUN,REP,182
 Crawford,0007 STERLING 1,U.S. Senate,,MIKE BRAUN,REP,54
-Crawford,0008 STERLING 2 ,U.S. Senate,,MIKE BRAUN,REP,138
-Crawford,0009 STERLING 3 ,U.S. Senate,,MIKE BRAUN,REP,157
-Crawford,0010 PATNA 1 ,U.S. Senate,,MIKE BRAUN,REP,222
-Crawford,0011 PATOKA 2 ,U.S. Senate,,MIKE BRAUN,REP,109
+Crawford,0008 STERLING 2,U.S. Senate,,MIKE BRAUN,REP,138
+Crawford,0009 STERLING 3,U.S. Senate,,MIKE BRAUN,REP,157
+Crawford,0010 PATNA 1,U.S. Senate,,MIKE BRAUN,REP,222
+Crawford,0011 PATOKA 2,U.S. Senate,,MIKE BRAUN,REP,109
 Crawford,0012 JOHNSON 1,U.S. Senate,,MIKE BRAUN,REP,75
 Crawford,0013 JOHNSON 2,U.S. Senate,,MIKE BRAUN,REP,1
 Crawford,0014 UNION 1,U.S. Senate,,MIKE BRAUN,REP,98
 Crawford,0015 UNION 2,U.S. Senate,,MIKE BRAUN,REP,76
 Crawford,0016 OHIO 1,U.S. Senate,,MIKE BRAUN,REP,84
 Crawford,0017 OHIO 2,U.S. Senate,,MIKE BRAUN,REP,47
-Crawford,0018 BOONE ,U.S. Senate,,MIKE BRAUN,REP,36
+Crawford,0018 BOONE,U.S. Senate,,MIKE BRAUN,REP,36
 Crawford,0001 JENNINGS 1,U.S. Senate,,JOE DONNELLY,DEM,108
 Crawford,0002 JENNINGS 2,U.S. Senate,,JOE DONNELLY,DEM,96
 Crawford,0003 WHISKEY RUN 1,U.S. Senate,,JOE DONNELLY,DEM,121
@@ -150,17 +150,17 @@ Crawford,0004 WHISKEY RUN 2,U.S. Senate,,JOE DONNELLY,DEM,150
 Crawford,0005 LIBERTY 1,U.S. Senate,,JOE DONNELLY,DEM,155
 Crawford,0006 LIBERTY 2,U.S. Senate,,JOE DONNELLY,DEM,153
 Crawford,0007 STERLING 1,U.S. Senate,,JOE DONNELLY,DEM,53
-Crawford,0008 STERLING 2 ,U.S. Senate,,JOE DONNELLY,DEM,87
-Crawford,0009 STERLING 3 ,U.S. Senate,,JOE DONNELLY,DEM,76
-Crawford,0010 PATNA 1 ,U.S. Senate,,JOE DONNELLY,DEM,165
-Crawford,0011 PATOKA 2 ,U.S. Senate,,JOE DONNELLY,DEM,71
+Crawford,0008 STERLING 2,U.S. Senate,,JOE DONNELLY,DEM,87
+Crawford,0009 STERLING 3,U.S. Senate,,JOE DONNELLY,DEM,76
+Crawford,0010 PATNA 1,U.S. Senate,,JOE DONNELLY,DEM,165
+Crawford,0011 PATOKA 2,U.S. Senate,,JOE DONNELLY,DEM,71
 Crawford,0012 JOHNSON 1,U.S. Senate,,JOE DONNELLY,DEM,42
 Crawford,0013 JOHNSON 2,U.S. Senate,,JOE DONNELLY,DEM,0
 Crawford,0014 UNION 1,U.S. Senate,,JOE DONNELLY,DEM,66
 Crawford,0015 UNION 2,U.S. Senate,,JOE DONNELLY,DEM,32
 Crawford,0016 OHIO 1,U.S. Senate,,JOE DONNELLY,DEM,65
 Crawford,0017 OHIO 2,U.S. Senate,,JOE DONNELLY,DEM,45
-Crawford,0018 BOONE ,U.S. Senate,,JOE DONNELLY,DEM,16
+Crawford,0018 BOONE,U.S. Senate,,JOE DONNELLY,DEM,16
 Crawford,0001 JENNINGS 1,U.S. Senate,,LUCY M. BRENTON,LIB,14
 Crawford,0002 JENNINGS 2,U.S. Senate,,LUCY M. BRENTON,LIB,12
 Crawford,0003 WHISKEY RUN 1,U.S. Senate,,LUCY M. BRENTON,LIB,8
@@ -168,17 +168,17 @@ Crawford,0004 WHISKEY RUN 2,U.S. Senate,,LUCY M. BRENTON,LIB,15
 Crawford,0005 LIBERTY 1,U.S. Senate,,LUCY M. BRENTON,LIB,28
 Crawford,0006 LIBERTY 2,U.S. Senate,,LUCY M. BRENTON,LIB,26
 Crawford,0007 STERLING 1,U.S. Senate,,LUCY M. BRENTON,LIB,11
-Crawford,0008 STERLING 2 ,U.S. Senate,,LUCY M. BRENTON,LIB,18
-Crawford,0009 STERLING 3 ,U.S. Senate,,LUCY M. BRENTON,LIB,13
-Crawford,0010 PATNA 1 ,U.S. Senate,,LUCY M. BRENTON,LIB,22
-Crawford,0011 PATOKA 2 ,U.S. Senate,,LUCY M. BRENTON,LIB,8
+Crawford,0008 STERLING 2,U.S. Senate,,LUCY M. BRENTON,LIB,18
+Crawford,0009 STERLING 3,U.S. Senate,,LUCY M. BRENTON,LIB,13
+Crawford,0010 PATNA 1,U.S. Senate,,LUCY M. BRENTON,LIB,22
+Crawford,0011 PATOKA 2,U.S. Senate,,LUCY M. BRENTON,LIB,8
 Crawford,0012 JOHNSON 1,U.S. Senate,,LUCY M. BRENTON,LIB,6
 Crawford,0013 JOHNSON 2,U.S. Senate,,LUCY M. BRENTON,LIB,0
 Crawford,0014 UNION 1,U.S. Senate,,LUCY M. BRENTON,LIB,6
 Crawford,0015 UNION 2,U.S. Senate,,LUCY M. BRENTON,LIB,2
 Crawford,0016 OHIO 1,U.S. Senate,,LUCY M. BRENTON,LIB,13
 Crawford,0017 OHIO 2,U.S. Senate,,LUCY M. BRENTON,LIB,4
-Crawford,0018 BOONE ,U.S. Senate,,LUCY M. BRENTON,LIB,1
+Crawford,0018 BOONE,U.S. Senate,,LUCY M. BRENTON,LIB,1
 Crawford,0001 JENNINGS 1,U.S. Senate,,WRITE IN,,0
 Crawford,0002 JENNINGS 2,U.S. Senate,,WRITE IN,,0
 Crawford,0003 WHISKEY RUN 1,U.S. Senate,,WRITE-IN,,1
@@ -186,17 +186,17 @@ Crawford,0004 WHISKEY RUN 2,U.S. Senate,,WRITE IN,,1
 Crawford,0005 LIBERTY 1,U.S. Senate,,WRITE IN,,0
 Crawford,0006 LIBERTY 2,U.S. Senate,,WRITE-IN,,0
 Crawford,0007 STERLING 1,U.S. Senate,,WRITE IN,,0
-Crawford,0008 STERLING 2 ,U.S. Senate,,WRITE-IN,,0
-Crawford,0009 STERLING 3 ,U.S. Senate,,WRITE-IN,,0
-Crawford,0010 PATNA 1 ,U.S. Senate,,WRITE-IN,,0
-Crawford,0011 PATOKA 2 ,U.S. Senate,,WRITE-IN,,0
+Crawford,0008 STERLING 2,U.S. Senate,,WRITE-IN,,0
+Crawford,0009 STERLING 3,U.S. Senate,,WRITE-IN,,0
+Crawford,0010 PATNA 1,U.S. Senate,,WRITE-IN,,0
+Crawford,0011 PATOKA 2,U.S. Senate,,WRITE-IN,,0
 Crawford,0012 JOHNSON 1,U.S. Senate,,WRITE-IN,,0
 Crawford,0013 JOHNSON 2,U.S. Senate,,WRITE IN,,0
 Crawford,0014 UNION 1,U.S. Senate,,WRITE-IN,,0
 Crawford,0015 UNION 2,U.S. Senate,,WRITE-IN,,0
 Crawford,0016 OHIO 1,U.S. Senate,,WRITE-IN,,0
 Crawford,0017 OHIO 2,U.S. Senate,,WRITE-IN,,0
-Crawford,0018 BOONE ,U.S. Senate,,WRITE IN,,0
+Crawford,0018 BOONE,U.S. Senate,,WRITE IN,,0
 Crawford,0001 JENNINGS 1,U.S. Senate,,Over Votes,,0
 Crawford,0002 JENNINGS 2,U.S. Senate,,Over Votes,,0
 Crawford,0003 WHISKEY RUN 1,U.S. Senate,,Over Votes,,0
@@ -204,17 +204,17 @@ Crawford,0004 WHISKEY RUN 2,U.S. Senate,,Over Votes,,0
 Crawford,0005 LIBERTY 1,U.S. Senate,,Over Votes,,1
 Crawford,0006 LIBERTY 2,U.S. Senate,,Over Votes,,2
 Crawford,0007 STERLING 1,U.S. Senate,,Over Votes,,0
-Crawford,0008 STERLING 2 ,U.S. Senate,,Over Votes,,2
-Crawford,0009 STERLING 3 ,U.S. Senate,,Over Votes,,0
-Crawford,0010 PATNA 1 ,U.S. Senate,,Over Votes,,0
-Crawford,0011 PATOKA 2 ,U.S. Senate,,Over Votes,,0
+Crawford,0008 STERLING 2,U.S. Senate,,Over Votes,,2
+Crawford,0009 STERLING 3,U.S. Senate,,Over Votes,,0
+Crawford,0010 PATNA 1,U.S. Senate,,Over Votes,,0
+Crawford,0011 PATOKA 2,U.S. Senate,,Over Votes,,0
 Crawford,0012 JOHNSON 1,U.S. Senate,,Over Votes,,0
 Crawford,0013 JOHNSON 2,U.S. Senate,,Over Votes,,0
 Crawford,0014 UNION 1,U.S. Senate,,Over Votes,,1
 Crawford,0015 UNION 2,U.S. Senate,,Over Votes,,0
 Crawford,0016 OHIO 1,U.S. Senate,,Over Votes,,0
 Crawford,0017 OHIO 2,U.S. Senate,,Over Votes,,0
-Crawford,0018 BOONE ,U.S. Senate,,Over Votes,,1
+Crawford,0018 BOONE,U.S. Senate,,Over Votes,,1
 Crawford,0001 JENNINGS 1,U.S. Senate,,Under Votes,,13
 Crawford,0002 JENNINGS 2,U.S. Senate,,Under Votes,,6
 Crawford,0003 WHISKEY RUN 1,U.S. Senate,,Under Votes,,3
@@ -222,17 +222,17 @@ Crawford,0004 WHISKEY RUN 2,U.S. Senate,,Under Votes,,14
 Crawford,0005 LIBERTY 1,U.S. Senate,,Under Votes,,14
 Crawford,0006 LIBERTY 2,U.S. Senate,,Under Votes,,17
 Crawford,0007 STERLING 1,U.S. Senate,,Under Votes,,9
-Crawford,0008 STERLING 2 ,U.S. Senate,,Under Votes,,11
-Crawford,0009 STERLING 3 ,U.S. Senate,,Under Votes,,7
-Crawford,0010 PATNA 1 ,U.S. Senate,,Under Votes,,23
-Crawford,0011 PATOKA 2 ,U.S. Senate,,Under Votes,,4
+Crawford,0008 STERLING 2,U.S. Senate,,Under Votes,,11
+Crawford,0009 STERLING 3,U.S. Senate,,Under Votes,,7
+Crawford,0010 PATNA 1,U.S. Senate,,Under Votes,,23
+Crawford,0011 PATOKA 2,U.S. Senate,,Under Votes,,4
 Crawford,0012 JOHNSON 1,U.S. Senate,,Under Votes,,7
 Crawford,0013 JOHNSON 2,U.S. Senate,,Under Votes,,0
 Crawford,0014 UNION 1,U.S. Senate,,Under Votes,,7
 Crawford,0015 UNION 2,U.S. Senate,,Under Votes,,9
 Crawford,0016 OHIO 1,U.S. Senate,,Under Votes,,5
 Crawford,0017 OHIO 2,U.S. Senate,,Under Votes,,4
-Crawford,0018 BOONE ,U.S. Senate,,Under Votes,,2
+Crawford,0018 BOONE,U.S. Senate,,Under Votes,,2
 Crawford,0001 JENNINGS 1,Secretary of State,,CONNIE LAWSON,REP,159
 Crawford,0002 JENNINGS 2,Secretary of State,,CONNIE LAWSON,REP,184
 Crawford,0003 WHISKEY RUN 1,Secretary of State,,CONNIE LAWSON,REP,182
@@ -240,17 +240,17 @@ Crawford,0004 WHISKEY RUN 2,Secretary of State,,CONNIE LAWSON,REP,260
 Crawford,0005 LIBERTY 1,Secretary of State,,CONNIE LAWSON,REP,180
 Crawford,0006 LIBERTY 2,Secretary of State,,CONNIE LAWSON,REP,193
 Crawford,0007 STERLING 1,Secretary of State,,CONNIE LAWSON,REP,54
-Crawford,0008 STERLING 2 ,Secretary of State,,CONNIE LAWSON,REP,128
-Crawford,0009 STERLING 3 ,Secretary of State,,CONNIE LAWSON,REP,149
-Crawford,0010 PATNA 1 ,Secretary of State,,CONNIE LAWSON,REP,224
-Crawford,0011 PATOKA 2 ,Secretary of State,,CONNIE LAWSON,REP,113
+Crawford,0008 STERLING 2,Secretary of State,,CONNIE LAWSON,REP,128
+Crawford,0009 STERLING 3,Secretary of State,,CONNIE LAWSON,REP,149
+Crawford,0010 PATNA 1,Secretary of State,,CONNIE LAWSON,REP,224
+Crawford,0011 PATOKA 2,Secretary of State,,CONNIE LAWSON,REP,113
 Crawford,0012 JOHNSON 1,Secretary of State,,CONNIE LAWSON,REP,73
 Crawford,0013 JOHNSON 2,Secretary of State,,CONNIE LAWSON,REP,1
 Crawford,0014 UNION 1,Secretary of State,,CONNIE LAWSON,REP,95
 Crawford,0015 UNION 2,Secretary of State,,CONNIE LAWSON,REP,75
 Crawford,0016 OHIO 1,Secretary of State,,CONNIE LAWSON,REP,80
 Crawford,0017 OHIO 2,Secretary of State,,CONNIE LAWSON,REP,48
-Crawford,0018 BOONE ,Secretary of State,,CONNIE LAWSON,REP,36
+Crawford,0018 BOONE,Secretary of State,,CONNIE LAWSON,REP,36
 Crawford,0001 JENNINGS 1,Secretary of State,,JIM HARPER,DEM,114
 Crawford,0002 JENNINGS 2,Secretary of State,,JIM HARPER,DEM,94
 Crawford,0003 WHISKEY RUN 1,Secretary of State,,JIM HARPER,DEM,112
@@ -258,17 +258,17 @@ Crawford,0004 WHISKEY RUN 2,Secretary of State,,JIM HARPER,DEM,145
 Crawford,0005 LIBERTY 1,Secretary of State,,JIM HARPER,DEM,146
 Crawford,0006 LIBERTY 2,Secretary of State,,JIM HARPER,DEM,135
 Crawford,0007 STERLING 1,Secretary of State,,JIM HARPER,DEM,53
-Crawford,0008 STERLING 2 ,Secretary of State,,JIM HARPER,DEM,95
-Crawford,0009 STERLING 3 ,Secretary of State,,JIM HARPER,DEM,77
-Crawford,0010 PATNA 1 ,Secretary of State,,JIM HARPER,DEM,151
-Crawford,0011 PATOKA 2 ,Secretary of State,,JIM HARPER,DEM,61
+Crawford,0008 STERLING 2,Secretary of State,,JIM HARPER,DEM,95
+Crawford,0009 STERLING 3,Secretary of State,,JIM HARPER,DEM,77
+Crawford,0010 PATNA 1,Secretary of State,,JIM HARPER,DEM,151
+Crawford,0011 PATOKA 2,Secretary of State,,JIM HARPER,DEM,61
 Crawford,0012 JOHNSON 1,Secretary of State,,JIM HARPER,DEM,37
 Crawford,0013 JOHNSON 2,Secretary of State,,JIM HARPER,DEM,0
 Crawford,0014 UNION 1,Secretary of State,,JIM HARPER,DEM,69
 Crawford,0015 UNION 2,Secretary of State,,JIM HARPER,DEM,30
 Crawford,0016 OHIO 1,Secretary of State,,JIM HARPER,DEM,71
 Crawford,0017 OHIO 2,Secretary of State,,JIM HARPER,DEM,40
-Crawford,0018 BOONE ,Secretary of State,,JIM HARPER,DEM,14
+Crawford,0018 BOONE,Secretary of State,,JIM HARPER,DEM,14
 Crawford,0001 JENNINGS 1,Secretary of State,,MARK W. RUTHERFORD,LIB,11
 Crawford,0002 JENNINGS 2,Secretary of State,,MARK W. RUTHERFORD,LIB,9
 Crawford,0003 WHISKEY RUN 1,Secretary of State,,MARK W. RUTHERFORD,LIB,7
@@ -276,17 +276,17 @@ Crawford,0004 WHISKEY RUN 2,Secretary of State,,MARK W. RUTHERFORD,LIB,13
 Crawford,0005 LIBERTY 1,Secretary of State,,MARK W. RUTHERFORD,LIB,17
 Crawford,0006 LIBERTY 2,Secretary of State,,MARK W. RUTHERFORD,LIB,15
 Crawford,0007 STERLING 1,Secretary of State,,MARK W. RUTHERFORD,LIB,6
-Crawford,0008 STERLING 2 ,Secretary of State,,MARK W. RUTHERFORD,LIB,7
-Crawford,0009 STERLING 3 ,Secretary of State,,MARK W. RUTHERFORD,LIB,8
-Crawford,0010 PATNA 1 ,Secretary of State,,MARK W. RUTHERFORD,LIB,15
-Crawford,0011 PATOKA 2 ,Secretary of State,,MARK W. RUTHERFORD,LIB,7
+Crawford,0008 STERLING 2,Secretary of State,,MARK W. RUTHERFORD,LIB,7
+Crawford,0009 STERLING 3,Secretary of State,,MARK W. RUTHERFORD,LIB,8
+Crawford,0010 PATNA 1,Secretary of State,,MARK W. RUTHERFORD,LIB,15
+Crawford,0011 PATOKA 2,Secretary of State,,MARK W. RUTHERFORD,LIB,7
 Crawford,0012 JOHNSON 1,Secretary of State,,MARK W. RUTHERFORD,LIB,5
 Crawford,0013 JOHNSON 2,Secretary of State,,MARK W. RUTHERFORD,LIB,0
 Crawford,0014 UNION 1,Secretary of State,,MARK W. RUTHERFORD,LIB,4
 Crawford,0015 UNION 2,Secretary of State,,MARK W. RUTHERFORD,LIB,1
 Crawford,0016 OHIO 1,Secretary of State,,MARK W. RUTHERFORD,LIB,5
 Crawford,0017 OHIO 2,Secretary of State,,MARK W. RUTHERFORD,LIB,3
-Crawford,0018 BOONE ,Secretary of State,,MARK W. RUTHERFORD,LIB,2
+Crawford,0018 BOONE,Secretary of State,,MARK W. RUTHERFORD,LIB,2
 Crawford,0001 JENNINGS 1,Secretary of State,,WRITE-IN,,0
 Crawford,0002 JENNINGS 2,Secretary of State,,WRITE-IN,,0
 Crawford,0003 WHISKEY RUN 1,Secretary of State,,WRITE-IN,,0
@@ -294,17 +294,17 @@ Crawford,0004 WHISKEY RUN 2,Secretary of State,,WRITE-IN,,0
 Crawford,0005 LIBERTY 1,Secretary of State,,WRITE-IN,,0
 Crawford,0006 LIBERTY 2,Secretary of State,,WRITE-IN,,0
 Crawford,0007 STERLING 1,Secretary of State,,WRITE-IN,,0
-Crawford,0008 STERLING 2 ,Secretary of State,,WRITE-IN,,0
-Crawford,0009 STERLING 3 ,Secretary of State,,WRITE-IN,,0
-Crawford,0010 PATNA 1 ,Secretary of State,,WRITE-IN,,0
-Crawford,0011 PATOKA 2 ,Secretary of State,,WRITE IN,,0
+Crawford,0008 STERLING 2,Secretary of State,,WRITE-IN,,0
+Crawford,0009 STERLING 3,Secretary of State,,WRITE-IN,,0
+Crawford,0010 PATNA 1,Secretary of State,,WRITE-IN,,0
+Crawford,0011 PATOKA 2,Secretary of State,,WRITE IN,,0
 Crawford,0012 JOHNSON 1,Secretary of State,,WRITE IN,,0
 Crawford,0013 JOHNSON 2,Secretary of State,,WRITE IN,,0
 Crawford,0014 UNION 1,Secretary of State,,WRITE-IN,,0
 Crawford,0015 UNION 2,Secretary of State,,WRITE-1N,,0
 Crawford,0016 OHIO 1,Secretary of State,,WRITE-IN,,0
 Crawford,0017 OHIO 2,Secretary of State,,WRITE-IN,,0
-Crawford,0018 BOONE ,Secretary of State,,WRITE-IN,,0
+Crawford,0018 BOONE,Secretary of State,,WRITE-IN,,0
 Crawford,0001 JENNINGS 1,Secretary of State,,Over Votes,,0
 Crawford,0002 JENNINGS 2,Secretary of State,,Over Votes,,0
 Crawford,0003 WHISKEY RUN 1,Secretary of State,,Over Votes,,0
@@ -312,17 +312,17 @@ Crawford,0004 WHISKEY RUN 2,Secretary of State,,Over Votes,,0
 Crawford,0005 LIBERTY 1,Secretary of State,,Over Votes,,1
 Crawford,0006 LIBERTY 2,Secretary of State,,Over Votes,,2
 Crawford,0007 STERLING 1,Secretary of State,,Over Votes,,0
-Crawford,0008 STERLING 2 ,Secretary of State,,Over Votes,,2
-Crawford,0009 STERLING 3 ,Secretary of State,,Over Votes,,0
-Crawford,0010 PATNA 1 ,Secretary of State,,Over Votes,,0
-Crawford,0011 PATOKA 2 ,Secretary of State,,Over Votes,,0
+Crawford,0008 STERLING 2,Secretary of State,,Over Votes,,2
+Crawford,0009 STERLING 3,Secretary of State,,Over Votes,,0
+Crawford,0010 PATNA 1,Secretary of State,,Over Votes,,0
+Crawford,0011 PATOKA 2,Secretary of State,,Over Votes,,0
 Crawford,0012 JOHNSON 1,Secretary of State,,Over Votes,,0
 Crawford,0013 JOHNSON 2,Secretary of State,,Over Votes,,0
 Crawford,0014 UNION 1,Secretary of State,,Over Votes,,0
 Crawford,0015 UNION 2,Secretary of State,,Over Votes,,0
 Crawford,0016 OHIO 1,Secretary of State,,Over Votes,,0
 Crawford,0017 OHIO 2,Secretary of State,,Over Votes,,9
-Crawford,0018 BOONE ,Secretary of State,,Over Votes,,0
+Crawford,0018 BOONE,Secretary of State,,Over Votes,,0
 Crawford,0001 JENNINGS 1,Secretary of State,,Under Votes,,20
 Crawford,0002 JENNINGS 2,Secretary of State,,Under Votes,,14
 Crawford,0003 WHISKEY RUN 1,Secretary of State,,Under Votes,,10
@@ -330,17 +330,17 @@ Crawford,0004 WHISKEY RUN 2,Secretary of State,,Under Votes,,27
 Crawford,0005 LIBERTY 1,Secretary of State,,Under Votes,,25
 Crawford,0006 LIBERTY 2,Secretary of State,,Under Votes,,35
 Crawford,0007 STERLING 1,Secretary of State,,Under Votes,,14
-Crawford,0008 STERLING 2 ,Secretary of State,,Under Votes,,22
-Crawford,0009 STERLING 3 ,Secretary of State,,Under Votes,,19
-Crawford,0010 PATNA 1 ,Secretary of State,,Under Votes,,42
-Crawford,0011 PATOKA 2 ,Secretary of State,,Under Votes,,11
+Crawford,0008 STERLING 2,Secretary of State,,Under Votes,,22
+Crawford,0009 STERLING 3,Secretary of State,,Under Votes,,19
+Crawford,0010 PATNA 1,Secretary of State,,Under Votes,,42
+Crawford,0011 PATOKA 2,Secretary of State,,Under Votes,,11
 Crawford,0012 JOHNSON 1,Secretary of State,,Under Votes,,15
 Crawford,0013 JOHNSON 2,Secretary of State,,Under Votes,,0
 Crawford,0014 UNION 1,Secretary of State,,Under Votes,,10
 Crawford,0015 UNION 2,Secretary of State,,Under Votes,,13
 Crawford,0016 OHIO 1,Secretary of State,,Under Votes,,11
 Crawford,0017 OHIO 2,Secretary of State,,Under Votes,,9
-Crawford,0018 BOONE ,Secretary of State,,Under Votes,,4
+Crawford,0018 BOONE,Secretary of State,,Under Votes,,4
 Crawford,0001 JENNINGS 1,Auditor of State,,TERA KLUTZ,REP,165
 Crawford,0002 JENNINGS 2,Auditor of State,,TERA KLUTZ,REP,182
 Crawford,0003 WHISKEY RUN 1,Auditor of State,,TERA KLUTZ,REP,181
@@ -348,17 +348,17 @@ Crawford,0004 WHISKEY RUN 2,Auditor of State,,TERA KLUTZ,REP,252
 Crawford,0005 LIBERTY 1,Auditor of State,,TERA KLUTZ,REP,170
 Crawford,0006 LIBERTY 2,Auditor of State,,TERA KLUTZ,REP,175
 Crawford,0007 STERLING 1,Auditor of State,,TERA KLUTZ,REP,46
-Crawford,0008 STERLING 2 ,Auditor of State,,TERA KLUTZ,REP,123
-Crawford,0009 STERLING 3 ,Auditor of State,,TERA KLUTZ,REP,150
-Crawford,0010 PATNA 1 ,Auditor of State,,TERA KLUTZ,REP,209
-Crawford,0011 PATOKA 2 ,Auditor of State,,TERA KLUTZ,REP,108
+Crawford,0008 STERLING 2,Auditor of State,,TERA KLUTZ,REP,123
+Crawford,0009 STERLING 3,Auditor of State,,TERA KLUTZ,REP,150
+Crawford,0010 PATNA 1,Auditor of State,,TERA KLUTZ,REP,209
+Crawford,0011 PATOKA 2,Auditor of State,,TERA KLUTZ,REP,108
 Crawford,0012 JOHNSON 1,Auditor of State,,TERA KLUTZ,REP,70
 Crawford,0013 JOHNSON 2,Auditor of State,,TERA KLUTZ,REP,1
 Crawford,0014 UNION 1,Auditor of State,,TERA KLUTZ,REP,88
 Crawford,0015 UNION 2,Auditor of State,,TERA KLUTZ,REP,72
 Crawford,0016 OHIO 1,Auditor of State,,TERA KLUTZ,REP,82
 Crawford,0017 OHIO 2,Auditor of State,,TERA KLUTZ,REP,45
-Crawford,0018 BOONE ,Auditor of State,,TERA KLUTZ,REP,40
+Crawford,0018 BOONE,Auditor of State,,TERA KLUTZ,REP,40
 Crawford,0001 JENNINGS 1,Auditor of State,,JOSELYN WHITTICKER,DEM,108
 Crawford,0002 JENNINGS 2,Auditor of State,,JOSELYN WHITTICKER,DEM,91
 Crawford,0003 WHISKEY RUN 1,Auditor of State,,JOSELYN WHITTICKER,DEM,108
@@ -366,17 +366,17 @@ Crawford,0004 WHISKEY RUN 2,Auditor of State,,JOSELYN WHITTICKER,DEM,147
 Crawford,0005 LIBERTY 1,Auditor of State,,JOSELYN WHITTICKER,DEM,153
 Crawford,0006 LIBERTY 2,Auditor of State,,JOSELYN WHITTICKER,DEM,143
 Crawford,0007 STERLING 1,Auditor of State,,JOSELYN WHITTICKER,DEM,54
-Crawford,0008 STERLING 2 ,Auditor of State,,JOSELYN WHITTICKER,DEM,95
-Crawford,0009 STERLING 3 ,Auditor of State,,JOSELYN WHITTICKER,DEM,76
-Crawford,0010 PATNA 1 ,Auditor of State,,JOSELYN WHITTICKER,DEM,158
-Crawford,0011 PATOKA 2 ,Auditor of State,,JOSELYN WHITTICKER,DEM,63
+Crawford,0008 STERLING 2,Auditor of State,,JOSELYN WHITTICKER,DEM,95
+Crawford,0009 STERLING 3,Auditor of State,,JOSELYN WHITTICKER,DEM,76
+Crawford,0010 PATNA 1,Auditor of State,,JOSELYN WHITTICKER,DEM,158
+Crawford,0011 PATOKA 2,Auditor of State,,JOSELYN WHITTICKER,DEM,63
 Crawford,0012 JOHNSON 1,Auditor of State,,JOSELYN WHITTICKER,DEM,37
 Crawford,0013 JOHNSON 2,Auditor of State,,JOSELYN WHITTICKER,DEM,0
 Crawford,0014 UNION 1,Auditor of State,,JOSELYN WHITTICKER,DEM,74
 Crawford,0015 UNION 2,Auditor of State,,JOSELYN WHITTICKER,DEM,33
 Crawford,0016 OHIO 1,Auditor of State,,JOSELYN WHITTICKER,DEM,64
 Crawford,0017 OHIO 2,Auditor of State,,JOSELYN WHITTICKER,DEM,42
-Crawford,0018 BOONE ,Auditor of State,,JOSELYN WHITTICKER,DEM,10
+Crawford,0018 BOONE,Auditor of State,,JOSELYN WHITTICKER,DEM,10
 Crawford,0001 JENNINGS 1,Auditor of State,,JOHN SCHICK,LIB,8
 Crawford,0002 JENNINGS 2,Auditor of State,,JOHN SCHICK,LIB,11
 Crawford,0003 WHISKEY RUN 1,Auditor of State,,JOHN SCHICK,LIB,7
@@ -384,17 +384,17 @@ Crawford,0004 WHISKEY RUN 2,Auditor of State,,JOHN SCHICK,LIB,13
 Crawford,0005 LIBERTY 1,Auditor of State,,JOHN SCHICK,LIB,15
 Crawford,0006 LIBERTY 2,Auditor of State,,JOHN SCHICK,LIB,16
 Crawford,0007 STERLING 1,Auditor of State,,JOHN SCHICK,LIB,8
-Crawford,0008 STERLING 2 ,Auditor of State,,JOHN SCHICK,LIB,8
-Crawford,0009 STERLING 3 ,Auditor of State,,JOHN SCHICK,LIB,4
-Crawford,0010 PATNA 1 ,Auditor of State,,JOHN SCHICK,LIB,18
-Crawford,0011 PATOKA 2 ,Auditor of State,,JOHN SCHICK,LIB,9
+Crawford,0008 STERLING 2,Auditor of State,,JOHN SCHICK,LIB,8
+Crawford,0009 STERLING 3,Auditor of State,,JOHN SCHICK,LIB,4
+Crawford,0010 PATNA 1,Auditor of State,,JOHN SCHICK,LIB,18
+Crawford,0011 PATOKA 2,Auditor of State,,JOHN SCHICK,LIB,9
 Crawford,0012 JOHNSON 1,Auditor of State,,JOHN SCHICK,LIB,5
 Crawford,0013 JOHNSON 2,Auditor of State,,JOHN SCHICK,LIB,0
 Crawford,0014 UNION 1,Auditor of State,,JOHN SCHICK,LIB,3
 Crawford,0015 UNION 2,Auditor of State,,JOHN SCHICK,LIB,2
 Crawford,0016 OHIO 1,Auditor of State,,JOHN SCHICK,LIB,5
 Crawford,0017 OHIO 2,Auditor of State,,JOHN SCHICK,LIB,3
-Crawford,0018 BOONE ,Auditor of State,,JOHN SCHICK,LIB,3
+Crawford,0018 BOONE,Auditor of State,,JOHN SCHICK,LIB,3
 Crawford,0001 JENNINGS 1,Auditor of State,,Over Votes,,0
 Crawford,0002 JENNINGS 2,Auditor of State,,Over Votes,,0
 Crawford,0003 WHISKEY RUN 1,Auditor of State,,Over Votes,,0
@@ -402,35 +402,35 @@ Crawford,0004 WHISKEY RUN 2,Auditor of State,,Over Votes,,0
 Crawford,0005 LIBERTY 1,Auditor of State,,Over Votes,,1
 Crawford,0006 LIBERTY 2,Auditor of State,,Over Votes,,1
 Crawford,0007 STERLING 1,Auditor of State,,Over Votes,,0
-Crawford,0008 STERLING 2 ,Auditor of State,,Over Votes,,1
-Crawford,0009 STERLING 3 ,Auditor of State,,Over Votes,,0
-Crawford,0010 PATNA 1 ,Auditor of State,,Over Votes,,0
-Crawford,0011 PATOKA 2 ,Auditor of State,,Over Votes,,0
-Crawford,0012 JOHNSON 1,Auditor of State,,Over Votes ,,0
+Crawford,0008 STERLING 2,Auditor of State,,Over Votes,,1
+Crawford,0009 STERLING 3,Auditor of State,,Over Votes,,0
+Crawford,0010 PATNA 1,Auditor of State,,Over Votes,,0
+Crawford,0011 PATOKA 2,Auditor of State,,Over Votes,,0
+Crawford,0012 JOHNSON 1,Auditor of State,,Over Votes,,0
 Crawford,0013 JOHNSON 2,Auditor of State,,Over Votes,,0
 Crawford,0014 UNION 1,Auditor of State,,Over Votes,,0
 Crawford,0015 UNION 2,Auditor of State,,Over Votes,,0
 Crawford,0016 OHIO 1,Auditor of State,,Over Votes,,0
 Crawford,0017 OHIO 2,Auditor of State,,Over Votes,,0
-Crawford,0018 BOONE ,Auditor of State,,Over Votes,,0
+Crawford,0018 BOONE,Auditor of State,,Over Votes,,0
 Crawford,0001 JENNINGS 1,Auditor of State,,Under Votes,,23
 Crawford,0002 JENNINGS 2,Auditor of State,,Under Votes,,17
 Crawford,0003 WHISKEY RUN 1,Auditor of State,,Under Votes,,15
-Crawford,0004 WHISKEY RUN 2,Auditor of State,,Under Votes ,,33
+Crawford,0004 WHISKEY RUN 2,Auditor of State,,Under Votes,,33
 Crawford,0005 LIBERTY 1,Auditor of State,,Under Votes,,30
 Crawford,0006 LIBERTY 2,Auditor of State,,Under Votes,,45
 Crawford,0007 STERLING 1,Auditor of State,,Under Votes,,19
-Crawford,0008 STERLING 2 ,Auditor of State,,Under Votes,,27
-Crawford,0009 STERLING 3 ,Auditor of State,,Under Votes,,23
-Crawford,0010 PATNA 1 ,Auditor of State,,Under Votes,,47
-Crawford,0011 PATOKA 2 ,Auditor of State,,Under Votes,,12
+Crawford,0008 STERLING 2,Auditor of State,,Under Votes,,27
+Crawford,0009 STERLING 3,Auditor of State,,Under Votes,,23
+Crawford,0010 PATNA 1,Auditor of State,,Under Votes,,47
+Crawford,0011 PATOKA 2,Auditor of State,,Under Votes,,12
 Crawford,0012 JOHNSON 1,Auditor of State,,Under Votes,,18
 Crawford,0013 JOHNSON 2,Auditor of State,,Under Votes,,0
 Crawford,0014 UNION 1,Auditor of State,,Under Votes,,13
 Crawford,0015 UNION 2,Auditor of State,,Under Votes,,12
 Crawford,0016 OHIO 1,Auditor of State,,Under Votes,,16
 Crawford,0017 OHIO 2,Auditor of State,,Under Votes,,10
-Crawford,0018 BOONE ,Auditor of State,,Under Votes,,3
+Crawford,0018 BOONE,Auditor of State,,Under Votes,,3
 Crawford,0001 JENNINGS 1,Treasurer of State,,KELLY MITCHELL,REP,169
 Crawford,0002 JENNINGS 2,Treasurer of State,,KELLY MITCHELL,REP,195
 Crawford,0003 WHISKEY RUN 1,Treasurer of State,,KELLY MITCHELL,REP,196
@@ -438,17 +438,17 @@ Crawford,0004 WHISKEY RUN 2,Treasurer of State,,KELLY MITCHELL,REP,267
 Crawford,0005 LIBERTY 1,Treasurer of State,,KELLY MITCHELL,REP,195
 Crawford,0006 LIBERTY 2,Treasurer of State,,KELLY MITCHELL,REP,193
 Crawford,0007 STERLING 1,Treasurer of State,,KELLY MITCHELL,REP,61
-Crawford,0008 STERLING 2 ,Treasurer of State,,KELLY MITCHELL,REP,134
-Crawford,0009 STERLING 3 ,Treasurer of State,,KELLY MITCHELL,REP,161
-Crawford,0010 PATNA 1 ,Treasurer of State,,KELLY MITCHELL,REP,234
-Crawford,0011 PATOKA 2 ,Treasurer of State,,KELLY MITCHELL,REP,121
+Crawford,0008 STERLING 2,Treasurer of State,,KELLY MITCHELL,REP,134
+Crawford,0009 STERLING 3,Treasurer of State,,KELLY MITCHELL,REP,161
+Crawford,0010 PATNA 1,Treasurer of State,,KELLY MITCHELL,REP,234
+Crawford,0011 PATOKA 2,Treasurer of State,,KELLY MITCHELL,REP,121
 Crawford,0012 JOHNSON 1,Treasurer of State,,KELLY MITCHELL,REP,79
 Crawford,0013 JOHNSON 2,Treasurer of State,,KELLY MITCHELL,REP,1
 Crawford,0014 UNION 1,Treasurer of State,,KELLY MITCHELL,REP,97
 Crawford,0015 UNION 2,Treasurer of State,,KELLY MITCHELL,REP,78
 Crawford,0016 OHIO 1,Treasurer of State,,KELLY MITCHELL,REP,80
 Crawford,0017 OHIO 2,Treasurer of State,,KELLY MITCHELL,REP,49
-Crawford,0018 BOONE ,Treasurer of State,,KELLY MITCHELL,REP,39
+Crawford,0018 BOONE,Treasurer of State,,KELLY MITCHELL,REP,39
 Crawford,0001 JENNINGS 1,Treasurer of State,,JOHN C. AGUILERA,DEM,112
 Crawford,0002 JENNINGS 2,Treasurer of State,,JOHN C. AGUILERA,DEM,89
 Crawford,0003 WHISKEY RUN 1,Treasurer of State,,JOHN C. AGUILERA,DEM,99
@@ -456,17 +456,17 @@ Crawford,0004 WHISKEY RUN 2,Treasurer of State,,JOHN C. AGUILERA,DEM,142
 Crawford,0005 LIBERTY 1,Treasurer of State,,JOHN C. AGUILERA,DEM,141
 Crawford,0006 LIBERTY 2,Treasurer of State,,JOHN C. AGUILERA,DEM,138
 Crawford,0007 STERLING 1,Treasurer of State,,JOHN C. AGUILERA,DEM,51
-Crawford,0008 STERLING 2 ,Treasurer of State,,JOHN C. AGUILERA,DEM,92
-Crawford,0009 STERLING 3 ,Treasurer of State,,JOHN C. AGUILERA,DEM,72
-Crawford,0010 PATNA 1 ,Treasurer of State,,JOHN C. AGUILERA,DEM,151
-Crawford,0011 PATOKA 2 ,Treasurer of State,,JOHN C. AGUILERA,DEM,60
+Crawford,0008 STERLING 2,Treasurer of State,,JOHN C. AGUILERA,DEM,92
+Crawford,0009 STERLING 3,Treasurer of State,,JOHN C. AGUILERA,DEM,72
+Crawford,0010 PATNA 1,Treasurer of State,,JOHN C. AGUILERA,DEM,151
+Crawford,0011 PATOKA 2,Treasurer of State,,JOHN C. AGUILERA,DEM,60
 Crawford,0012 JOHNSON 1,Treasurer of State,,JOHN C. AGUILERA,DEM,36
 Crawford,0013 JOHNSON 2,Treasurer of State,,JOHN C. AGUILERA,DEM,0
 Crawford,0014 UNION 1,Treasurer of State,,JOHN C. AGUILERA,DEM,66
 Crawford,0015 UNION 2,Treasurer of State,,JOHN C. AGUILERA,DEM,29
 Crawford,0016 OHIO 1,Treasurer of State,,JOHN C. AGUILERA,DEM,73
 Crawford,0017 OHIO 2,Treasurer of State,,JOHN C. AGUILERA,DEM,41
-Crawford,0018 BOONE ,Treasurer of State,,JOHN C. AGUILERA,DEM,12
+Crawford,0018 BOONE,Treasurer of State,,JOHN C. AGUILERA,DEM,12
 Crawford,0001 JENNINGS 1,Treasurer of State,,Over Votes,,0
 Crawford,0002 JENNINGS 2,Treasurer of State,,Over Votes,,0
 Crawford,0003 WHISKEY RUN 1,Treasurer of State,,Over Votes,,0
@@ -474,17 +474,17 @@ Crawford,0004 WHISKEY RUN 2,Treasurer of State,,Over Votes,,0
 Crawford,0005 LIBERTY 1,Treasurer of State,,Over Votes,,1
 Crawford,0006 LIBERTY 2,Treasurer of State,,Over Votes,,2
 Crawford,0007 STERLING 1,Treasurer of State,,Over Votes,,0
-Crawford,0008 STERLING 2 ,Treasurer of State,,Over Votes,,1
-Crawford,0009 STERLING 3 ,Treasurer of State,,Over Votes,,0
-Crawford,0010 PATNA 1 ,Treasurer of State,,Over Votes,,0
-Crawford,0011 PATOKA 2 ,Treasurer of State,,Over Votes,,0
+Crawford,0008 STERLING 2,Treasurer of State,,Over Votes,,1
+Crawford,0009 STERLING 3,Treasurer of State,,Over Votes,,0
+Crawford,0010 PATNA 1,Treasurer of State,,Over Votes,,0
+Crawford,0011 PATOKA 2,Treasurer of State,,Over Votes,,0
 Crawford,0012 JOHNSON 1,Treasurer of State,,Over Votes,,0
 Crawford,0013 JOHNSON 2,Treasurer of State,,Over Votes,,0
 Crawford,0014 UNION 1,Treasurer of State,,Over Votes,,0
 Crawford,0015 UNION 2,Treasurer of State,,Over Votes,,0
 Crawford,0016 OHIO 1,Treasurer of State,,Over Votes,,0
 Crawford,0017 OHIO 2,Treasurer of State,,Over Votes,,0
-Crawford,0018 BOONE ,Treasurer of State,,Over Votes,,0
+Crawford,0018 BOONE,Treasurer of State,,Over Votes,,0
 Crawford,0001 JENNINGS 1,Treasurer of State,,Under Votes,,23
 Crawford,0002 JENNINGS 2,Treasurer of State,,Under Votes,,23
 Crawford,0003 WHISKEY RUN 1,Treasurer of State,,Under Votes,,17
@@ -492,41 +492,41 @@ Crawford,0004 WHISKEY RUN 2,Treasurer of State,,Under Votes,,16
 Crawford,0005 LIBERTY 1,Treasurer of State,,Under Votes,,36
 Crawford,0006 LIBERTY 2,Treasurer of State,,Under Votes,,32
 Crawford,0007 STERLING 1,Treasurer of State,,Under Votes,,47
-Crawford,0008 STERLING 2 ,Treasurer of State,,Under Votes,,15
-Crawford,0009 STERLING 3 ,Treasurer of State,,Under Votes,,27
-Crawford,0010 PATNA 1 ,Treasurer of State,,Under Votes,,20
-Crawford,0011 PATOKA 2 ,Treasurer of State,,Under Votes,,47
+Crawford,0008 STERLING 2,Treasurer of State,,Under Votes,,15
+Crawford,0009 STERLING 3,Treasurer of State,,Under Votes,,27
+Crawford,0010 PATNA 1,Treasurer of State,,Under Votes,,20
+Crawford,0011 PATOKA 2,Treasurer of State,,Under Votes,,47
 Crawford,0012 JOHNSON 1,Treasurer of State,,Under Votes,,11
 Crawford,0013 JOHNSON 2,Treasurer of State,,Under Votes,,0
 Crawford,0014 UNION 1,Treasurer of State,,Under Votes,,0
 Crawford,0015 UNION 2,Treasurer of State,,Under Votes,,12
 Crawford,0016 OHIO 1,Treasurer of State,,Under Votes,,14
 Crawford,0017 OHIO 2,Treasurer of State,,Under Votes,,10
-Crawford,0018 BOONE ,Treasurer of State,,Under Votes,,5
-Crawford,0008 STERLING 2 ,U.S. House,8,LARRY D. BUCSHON,REP,0
-Crawford,0011 PATOKA 2 ,U.S. House,8,LARRY D. BUCSHON,REP,117
+Crawford,0018 BOONE,Treasurer of State,,Under Votes,,5
+Crawford,0008 STERLING 2,U.S. House,8,LARRY D. BUCSHON,REP,0
+Crawford,0011 PATOKA 2,U.S. House,8,LARRY D. BUCSHON,REP,117
 Crawford,0012 JOHNSON 1,U.S. House,8,LARRY D. BUCSHON,REP,76
 Crawford,0015 UNION 2,U.S. House,8,LARRY D. BUCSHON,REP,81
 Crawford,0017 OHIO 2,U.S. House,8,LARRY D. BUCSHON,REP,50
-Crawford,0018 BOONE ,U.S. House,8,LARRY D. BUCSHON,REP,39
-Crawford,0008 STERLING 2 ,U.S. House,8,WILLIAM TANOOS,DEM,0
-Crawford,0011 PATOKA 2 ,U.S. House,8,WILLIAM TANOOS,DEM,60
+Crawford,0018 BOONE,U.S. House,8,LARRY D. BUCSHON,REP,39
+Crawford,0008 STERLING 2,U.S. House,8,WILLIAM TANOOS,DEM,0
+Crawford,0011 PATOKA 2,U.S. House,8,WILLIAM TANOOS,DEM,60
 Crawford,0012 JOHNSON 1,U.S. House,8,WILLIAM TANOOS,DEM,39
 Crawford,0015 UNION 2,U.S. House,8,WILLIAM TANOOS,DEM,25
-Crawford,0017 OHIO 2,U.S. House,8,WILLIAM TANOOS,DEM ,42
-Crawford,0018 BOONE ,U.S. House,8,WILLIAM TANOOS,DEM,12
-Crawford,0008 STERLING 2 ,U.S. House,8,Over Votes,,0
-Crawford,0011 PATOKA 2 ,U.S. House,8,Over Votes,,0
+Crawford,0017 OHIO 2,U.S. House,8,WILLIAM TANOOS,DEM,42
+Crawford,0018 BOONE,U.S. House,8,WILLIAM TANOOS,DEM,12
+Crawford,0008 STERLING 2,U.S. House,8,Over Votes,,0
+Crawford,0011 PATOKA 2,U.S. House,8,Over Votes,,0
 Crawford,0012 JOHNSON 1,U.S. House,8,Over Votes,,0
 Crawford,0015 UNION 2,U.S. House,8,Over Votes,,0
 Crawford,0017 OHIO 2,U.S. House,8,Over Votes,,0
-Crawford,0018 BOONE ,U.S. House,8,Over Votes,,0
-Crawford,0008 STERLING 2 ,U.S. House,8,Under Votes,,0
-Crawford,0011 PATOKA 2 ,U.S. House,8,Under Votes,,15
+Crawford,0018 BOONE,U.S. House,8,Over Votes,,0
+Crawford,0008 STERLING 2,U.S. House,8,Under Votes,,0
+Crawford,0011 PATOKA 2,U.S. House,8,Under Votes,,15
 Crawford,0012 JOHNSON 1,U.S. House,8,Under Votes,,15
 Crawford,0015 UNION 2,U.S. House,8,Under Votes,,13
 Crawford,0017 OHIO 2,U.S. House,8,Under Votes,,8
-Crawford,0018 BOONE ,U.S. House,8,Under Votes,,5
+Crawford,0018 BOONE,U.S. House,8,Under Votes,,5
 Crawford,0001 JENNINGS 1,U.S. House,9,TREY HOLLINGSWORTH,REP,168
 Crawford,0002 JENNINGS 2,U.S. House,9,TREY HOLLINGSWORTH,REP,190
 Crawford,0003 WHISKEY RUN 1,U.S. House,9,TREY HOLLINGSWORTH,REP,194
@@ -534,9 +534,9 @@ Crawford,0004 WHISKEY RUN 2,U.S. House,9,TREY HOLLINGSWORTH,REP,272
 Crawford,0005 LIBERTY 1,U.S. House,9,TREY HOLLINGSWORTH,REP,190
 Crawford,0006 LIBERTY 2,U.S. House,9,TREY HOLLINGSWORTH,REP,197
 Crawford,0007 STERLING 1,U.S. House,9,TREY HOLLINGSWORTH,REP,58
-Crawford,0008 STERLING 2 ,U.S. House,9,TREY HOLLINGSWORTH,REP,134
-Crawford,0009 STERLING 3 ,U.S. House,9,TREY HOLLINGSWORTH,REP,149
-Crawford,0010 PATNA 1 ,U.S. House,9,TREY HOLLINGSWORTH,REP,231
+Crawford,0008 STERLING 2,U.S. House,9,TREY HOLLINGSWORTH,REP,134
+Crawford,0009 STERLING 3,U.S. House,9,TREY HOLLINGSWORTH,REP,149
+Crawford,0010 PATNA 1,U.S. House,9,TREY HOLLINGSWORTH,REP,231
 Crawford,0013 JOHNSON 2,U.S. House,9,TREY HOLLINGSWORTH,REP,1
 Crawford,0014 UNION 1,U.S. House,9,TREY HOLLINGSWORTH,REP,98
 Crawford,0016 OHIO 1,U.S. House,9,TREY HOLLINGSWORTH,REP,90
@@ -547,9 +547,9 @@ Crawford,0004 WHISKEY RUN 2,U.S. House,9,LIZ WATSON,DEM,160
 Crawford,0005 LIBERTY 1,U.S. House,9,LIZ WATSON,DEM,159
 Crawford,0006 LIBERTY 2,U.S. House,9,LIZ WATSON,DEM,161
 Crawford,0007 STERLING 1,U.S. House,9,LIZ WATSON,DEM,60
-Crawford,0008 STERLING 2 ,U.S. House,9,LIZ WATSON,DEM,105
-Crawford,0009 STERLING 3 ,U.S. House,9,LIZ WATSON,DEM,95
-Crawford,0010 PATNA 1 ,U.S. House,9,LIZ WATSON,DEM,177
+Crawford,0008 STERLING 2,U.S. House,9,LIZ WATSON,DEM,105
+Crawford,0009 STERLING 3,U.S. House,9,LIZ WATSON,DEM,95
+Crawford,0010 PATNA 1,U.S. House,9,LIZ WATSON,DEM,177
 Crawford,0013 JOHNSON 2,U.S. House,9,LIZ WATSON,DEM,0
 Crawford,0014 UNION 1,U.S. House,9,LIZ WATSON,DEM,72
 Crawford,0016 OHIO 1,U.S. House,9,LIZ WATSON,DEM,71
@@ -560,9 +560,9 @@ Crawford,0004 WHISKEY RUN 2,U.S. House,9,Over Votes,,0
 Crawford,0005 LIBERTY 1,U.S. House,9,Over Votes,,1
 Crawford,0006 LIBERTY 2,U.S. House,9,Over Votes,,1
 Crawford,0007 STERLING 1,U.S. House,9,Over Votes,,0
-Crawford,0008 STERLING 2 ,U.S. House,9,Over Votes,,0
-Crawford,0009 STERLING 3 ,U.S. House,9,Over Votes,,0
-Crawford,0010 PATNA 1 ,U.S. House,9,Over Votes,,0
+Crawford,0008 STERLING 2,U.S. House,9,Over Votes,,0
+Crawford,0009 STERLING 3,U.S. House,9,Over Votes,,0
+Crawford,0010 PATNA 1,U.S. House,9,Over Votes,,0
 Crawford,0013 JOHNSON 2,U.S. House,9,Over Votes,,0
 Crawford,0014 UNION 1,U.S. House,9,Over Votes,,0
 Crawford,0016 OHIO 1,U.S. House,9,Over Votes,,0
@@ -573,9 +573,9 @@ Crawford,0004 WHISKEY RUN 2,U.S. House,9,Under Votes,,13
 Crawford,0005 LIBERTY 1,U.S. House,9,Under Votes,,19
 Crawford,0006 LIBERTY 2,U.S. House,9,Under Votes,,21
 Crawford,0007 STERLING 1,U.S. House,9,Under Votes,,9
-Crawford,0008 STERLING 2 ,U.S. House,9,Under Votes,,16
-Crawford,0009 STERLING 3 ,U.S. House,9,Under Votes,,9
-Crawford,0010 PATNA 1 ,U.S. House,9,Under Votes,,24
+Crawford,0008 STERLING 2,U.S. House,9,Under Votes,,16
+Crawford,0009 STERLING 3,U.S. House,9,Under Votes,,9
+Crawford,0010 PATNA 1,U.S. House,9,Under Votes,,24
 Crawford,0013 JOHNSON 2,U.S. House,9,Under Votes,,0
 Crawford,0014 UNION 1,U.S. House,9,Under Votes,,8
 Crawford,0016 OHIO 1,U.S. House,9,Under Votes,,6
@@ -586,17 +586,17 @@ Crawford,0004 WHISKEY RUN 2,State Senate,47,ERIN HOUCHIN,REP,253
 Crawford,0005 LIBERTY 1,State Senate,47,ERIN HOUCHIN,REP,187
 Crawford,0006 LIBERTY 2,State Senate,47,ERIN HOUCHIN,REP,195
 Crawford,0007 STERLING 1,State Senate,47,ERIN HOUCHIN,REP,66
-Crawford,0008 STERLING 2 ,State Senate,47,ERIN HOUCHIN,REP,134
-Crawford,0009 STERLING 3 ,State Senate,47,ERIN HOUCHIN,REP,155
-Crawford,0010 PATNA 1 ,State Senate,47,ERIN HOUCHIN,REP,229
-Crawford,0011 PATOKA 2 ,State Senate,47,ERIN HOUCHIN,REP,121
+Crawford,0008 STERLING 2,State Senate,47,ERIN HOUCHIN,REP,134
+Crawford,0009 STERLING 3,State Senate,47,ERIN HOUCHIN,REP,155
+Crawford,0010 PATNA 1,State Senate,47,ERIN HOUCHIN,REP,229
+Crawford,0011 PATOKA 2,State Senate,47,ERIN HOUCHIN,REP,121
 Crawford,0012 JOHNSON 1,State Senate,47,ERIN HOUCHIN,REP,77
 Crawford,0013 JOHNSON 2,State Senate,47,ERIN HOUCHIN,REP,1
 Crawford,0014 UNION 1,State Senate,47,ERIN HOUCHIN,REP,103
 Crawford,0015 UNION 2,State Senate,47,ERIN HOUCHIN,REP,81
 Crawford,0016 OHIO 1,State Senate,47,ERIN HOUCHIN,REP,83
 Crawford,0017 OHIO 2,State Senate,47,ERIN HOUCHIN,REP,50
-Crawford,0018 BOONE ,State Senate,47,ERIN HOUCHIN,REP,36
+Crawford,0018 BOONE,State Senate,47,ERIN HOUCHIN,REP,36
 Crawford,0001 JENNINGS 1,State Senate,47,NICHOLAS A. (NICK) SILER,DEM,127
 Crawford,0002 JENNINGS 2,State Senate,47,NICHOLAS A. (NICK) SILER,DEM,106
 Crawford,0003 WHISKEY RUN 1,State Senate,47,NICHOLAS A. (NICK) SILER,DEM,119
@@ -604,17 +604,17 @@ Crawford,0004 WHISKEY RUN 2,State Senate,47,NICHOLAS A. (NICK) SILER,DEM,179
 Crawford,0005 LIBERTY 1,State Senate,47,NICHOLAS A. (NICK) SILER,DEM,168
 Crawford,0006 LIBERTY 2,State Senate,47,NICHOLAS A. (NICK) SILER,DEM,169
 Crawford,0007 STERLING 1,State Senate,47,NICHOLAS A. (NICK) SILER,DEM,53
-Crawford,0008 STERLING 2 ,State Senate,47,NICHOLAS A. (NICK) SILER,DEM,104
-Crawford,0009 STERLING 3 ,State Senate,47,NICHOLAS A. (NICK) SILER,DEM,87
-Crawford,0010 PATNA 1 ,State Senate,47,NICHOLAS A. (NICK) SILER,DEM,177
-Crawford,0011 PATOKA 2 ,State Senate,47,NICHOLAS A. (NICK) SILER,DEM,64
+Crawford,0008 STERLING 2,State Senate,47,NICHOLAS A. (NICK) SILER,DEM,104
+Crawford,0009 STERLING 3,State Senate,47,NICHOLAS A. (NICK) SILER,DEM,87
+Crawford,0010 PATNA 1,State Senate,47,NICHOLAS A. (NICK) SILER,DEM,177
+Crawford,0011 PATOKA 2,State Senate,47,NICHOLAS A. (NICK) SILER,DEM,64
 Crawford,0012 JOHNSON 1,State Senate,47,NICHOLAS A. (NICK) SILER,DEM,47
 Crawford,0013 JOHNSON 2,State Senate,47,NICHOLAS A. (NICK) SILER,DEM,0
 Crawford,0014 UNION 1,State Senate,47,NICHOLAS A. (NICK) SILER,DEM,67
 Crawford,0015 UNION 2,State Senate,47,NICHOLAS A. (NICK) SILER,DEM,31
 Crawford,0016 OHIO 1,State Senate,47,NICHOLAS A. (NICK) SILER,DEM,81
 Crawford,0017 OHIO 2,State Senate,47,NICHOLAS A. (NICK) SILER,DEM,45
-Crawford,0018 BOONE ,State Senate,47,NICHOLAS A. (NICK) SILER,DEM,17
+Crawford,0018 BOONE,State Senate,47,NICHOLAS A. (NICK) SILER,DEM,17
 Crawford,0001 JENNINGS 1,State Senate,47,Over Votes,,0
 Crawford,0002 JENNINGS 2,State Senate,47,Over Votes,,0
 Crawford,0003 WHISKEY RUN 1,State Senate,47,Over Votes,,0
@@ -622,17 +622,17 @@ Crawford,0004 WHISKEY RUN 2,State Senate,47,Over Votes,,0
 Crawford,0005 LIBERTY 1,State Senate,47,Over Votes,,1
 Crawford,0006 LIBERTY 2,State Senate,47,Over Votes,,1
 Crawford,0007 STERLING 1,State Senate,47,Over Votes,,0
-Crawford,0008 STERLING 2 ,State Senate,47,Over Votes,,1
-Crawford,0009 STERLING 3 ,State Senate,47,Over Votes,,0
-Crawford,0010 PATNA 1 ,State Senate,47,Over Votes,,0
-Crawford,0011 PATOKA 2 ,State Senate,47,Over Votes,,0
+Crawford,0008 STERLING 2,State Senate,47,Over Votes,,1
+Crawford,0009 STERLING 3,State Senate,47,Over Votes,,0
+Crawford,0010 PATNA 1,State Senate,47,Over Votes,,0
+Crawford,0011 PATOKA 2,State Senate,47,Over Votes,,0
 Crawford,0012 JOHNSON 1,State Senate,47,Over Votes,,0
 Crawford,0013 JOHNSON 2,State Senate,47,Over Votes,,0
 Crawford,0014 UNION 1,State Senate,47,Over Votes,,0
 Crawford,0015 UNION 2,State Senate,47,Over Votes,,0
 Crawford,0016 OHIO 1,State Senate,47,Over Votes,,0
 Crawford,0017 OHIO 2,State Senate,47,Over Votes,,0
-Crawford,0018 BOONE ,State Senate,47,Over Votes,,0
+Crawford,0018 BOONE,State Senate,47,Over Votes,,0
 Crawford,0001 JENNINGS 1,State Senate,47,Under Votes,,11
 Crawford,0002 JENNINGS 2,State Senate,47,Under Votes,,5
 Crawford,0003 WHISKEY RUN 1,State Senate,47,Under Votes,,6
@@ -640,17 +640,17 @@ Crawford,0004 WHISKEY RUN 2,State Senate,47,Under Votes,,13
 Crawford,0005 LIBERTY 1,State Senate,47,Under Votes,,13
 Crawford,0006 LIBERTY 2,State Senate,47,Under Votes,,15
 Crawford,0007 STERLING 1,State Senate,47,Under Votes,,8
-Crawford,0008 STERLING 2 ,State Senate,47,Under Votes,,15
-Crawford,0009 STERLING 3 ,State Senate,47,Under Votes,,11
-Crawford,0010 PATNA 1 ,State Senate,47,Under Votes,,26
-Crawford,0011 PATOKA 2 ,State Senate,47,Under Votes,,7
+Crawford,0008 STERLING 2,State Senate,47,Under Votes,,15
+Crawford,0009 STERLING 3,State Senate,47,Under Votes,,11
+Crawford,0010 PATNA 1,State Senate,47,Under Votes,,26
+Crawford,0011 PATOKA 2,State Senate,47,Under Votes,,7
 Crawford,0012 JOHNSON 1,State Senate,47,Under Votes,,6
 Crawford,0013 JOHNSON 2,State Senate,47,Under Votes,,0
 Crawford,0014 UNION 1,State Senate,47,Under Votes,,8
 Crawford,0015 UNION 2,State Senate,47,Under Votes,,7
 Crawford,0016 OHIO 1,State Senate,47,Under Votes,,3
 Crawford,0017 OHIO 2,State Senate,47,Under Votes,,5
-Crawford,0018 BOONE ,State Senate,47,Under Votes,,3
+Crawford,0018 BOONE,State Senate,47,Under Votes,,3
 Crawford,0001 JENNINGS 1,State Representative,74,STEPHEN R. BARTELS,REP,162
 Crawford,0002 JENNINGS 2,State Representative,74,STEPHEN R. BARTELS,REP,191
 Crawford,0003 WHISKEY RUN 1,State Representative,74,STEPHEN R. BARTELS,REP,194
@@ -658,17 +658,17 @@ Crawford,0004 WHISKEY RUN 2,State Representative,74,STEPHEN R. BARTELS,REP,264
 Crawford,0005 LIBERTY 1,State Representative,74,STEPHEN R. BARTELS,REP,189
 Crawford,0006 LIBERTY 2,State Representative,74,STEPHEN R. BARTELS,REP,189
 Crawford,0007 STERLING 1,State Representative,74,STEPHEN R. BARTELS,REP,54
-Crawford,0008 STERLING 2 ,State Representative,74,STEPHEN R. BARTELS,REP,142
-Crawford,0009 STERLING 3 ,State Representative,74,STEPHEN R. BARTELS,REP,158
-Crawford,0010 PATNA 1 ,State Representative,74,STEPHEN R. BARTELS,REP,233
-Crawford,0011 PATOKA 2 ,State Representative,74,STEPHEN R. BARTELS,REP,116
+Crawford,0008 STERLING 2,State Representative,74,STEPHEN R. BARTELS,REP,142
+Crawford,0009 STERLING 3,State Representative,74,STEPHEN R. BARTELS,REP,158
+Crawford,0010 PATNA 1,State Representative,74,STEPHEN R. BARTELS,REP,233
+Crawford,0011 PATOKA 2,State Representative,74,STEPHEN R. BARTELS,REP,116
 Crawford,0012 JOHNSON 1,State Representative,74,STEPHEN R. BARTELS,REP,75
 Crawford,0013 JOHNSON 2,State Representative,74,STEPHEN R. BARTELS,REP,1
 Crawford,0014 UNION 1,State Representative,74,STEPHEN R. BARTELS,REP,97
 Crawford,0015 UNION 2,State Representative,74,STEPHEN R. BARTELS,REP,77
 Crawford,0016 OHIO 1,State Representative,74,STEPHEN R. BARTELS,REP,95
 Crawford,0017 OHIO 2,State Representative,74,STEPHEN R. BARTELS,REP,50
-Crawford,0018 BOONE ,State Representative,74,STEPHEN R. BARTELS,REP,39
+Crawford,0018 BOONE,State Representative,74,STEPHEN R. BARTELS,REP,39
 Crawford,0001 JENNINGS 1,State Representative,74,LARRY K. KLEEMAN,DEM,124
 Crawford,0002 JENNINGS 2,State Representative,74,LARRY K. KLEEMAN,DEM,106
 Crawford,0003 WHISKEY RUN 1,State Representative,74,LARRY K. KLEEMAN,DEM,112
@@ -676,17 +676,17 @@ Crawford,0004 WHISKEY RUN 2,State Representative,74,LARRY K. KLEEMAN,DEM,158
 Crawford,0005 LIBERTY 1,State Representative,74,LARRY K. KLEEMAN,DEM,161
 Crawford,0006 LIBERTY 2,State Representative,74,LARRY K. KLEEMAN,DEM,170
 Crawford,0007 STERLING 1,State Representative,74,LARRY K. KLEEMAN,DEM,62
-Crawford,0008 STERLING 2 ,State Representative,74,LARRY K. KLEEMAN,DEM,96
-Crawford,0009 STERLING 3 ,State Representative,74,LARRY K. KLEEMAN,DEM,86
-Crawford,0010 PATNA 1 ,State Representative,74,LARRY K. KLEEMAN,DEM,177
-Crawford,0011 PATOKA 2 ,State Representative,74,LARRY K. KLEEMAN,DEM,67
+Crawford,0008 STERLING 2,State Representative,74,LARRY K. KLEEMAN,DEM,96
+Crawford,0009 STERLING 3,State Representative,74,LARRY K. KLEEMAN,DEM,86
+Crawford,0010 PATNA 1,State Representative,74,LARRY K. KLEEMAN,DEM,177
+Crawford,0011 PATOKA 2,State Representative,74,LARRY K. KLEEMAN,DEM,67
 Crawford,0012 JOHNSON 1,State Representative,74,LARRY K. KLEEMAN,DEM,47
 Crawford,0013 JOHNSON 2,State Representative,74,LARRY K. KLEEMAN,DEM,0
 Crawford,0014 UNION 1,State Representative,74,LARRY K. KLEEMAN,DEM,73
 Crawford,0015 UNION 2,State Representative,74,LARRY K. KLEEMAN,DEM,32
 Crawford,0016 OHIO 1,State Representative,74,LARRY K. KLEEMAN,DEM,68
 Crawford,0017 OHIO 2,State Representative,74,LARRY K. KLEEMAN,DEM,43
-Crawford,0018 BOONE ,State Representative,74,LARRY K. KLEEMAN,DEM,15
+Crawford,0018 BOONE,State Representative,74,LARRY K. KLEEMAN,DEM,15
 Crawford,0001 JENNINGS 1,State Representative,74,Over Votes,,0
 Crawford,0002 JENNINGS 2,State Representative,74,Over Votes,,0
 Crawford,0003 WHISKEY RUN 1,State Representative,74,Over Votes,,0
@@ -694,16 +694,16 @@ Crawford,0004 WHISKEY RUN 2,State Representative,74,Over Votes,,0
 Crawford,0005 LIBERTY 1,State Representative,74,Over Votes,,1
 Crawford,0006 LIBERTY 2,State Representative,74,Over Votes,,1
 Crawford,0007 STERLING 1,State Representative,74,Over Votes,,0
-Crawford,0009 STERLING 3 ,State Representative,74,Over Votes,,0
-Crawford,0010 PATNA 1 ,State Representative,74,Over Votes,,0
-Crawford,0011 PATOKA 2 ,State Representative,74,Over Votes,,0
+Crawford,0009 STERLING 3,State Representative,74,Over Votes,,0
+Crawford,0010 PATNA 1,State Representative,74,Over Votes,,0
+Crawford,0011 PATOKA 2,State Representative,74,Over Votes,,0
 Crawford,0012 JOHNSON 1,State Representative,74,Over Votes,,0
 Crawford,0013 JOHNSON 2,State Representative,74,Over Votes,,0
 Crawford,0014 UNION 1,State Representative,74,Over Votes,,0
 Crawford,0015 UNION 2,State Representative,74,Over Votes,,0
 Crawford,0016 OHIO 1,State Representative,74,Over Votes,,0
 Crawford,0017 OHIO 2,State Representative,74,Over Votes,,0
-Crawford,0018 BOONE ,State Representative,74,Over Votes,,0
+Crawford,0018 BOONE,State Representative,74,Over Votes,,0
 Crawford,0001 JENNINGS 1,State Representative,74,Under Votes,,18
 Crawford,0002 JENNINGS 2,State Representative,74,Under Votes,,4
 Crawford,0003 WHISKEY RUN 1,State Representative,74,Under Votes,,5
@@ -711,13 +711,13 @@ Crawford,0004 WHISKEY RUN 2,State Representative,74,Under Votes,,23
 Crawford,0005 LIBERTY 1,State Representative,74,Under Votes,,18
 Crawford,0006 LIBERTY 2,State Representative,74,Under Votes,,20
 Crawford,0007 STERLING 1,State Representative,74,Under Votes,,11
-Crawford,0009 STERLING 3 ,State Representative,74,Under Votes,,9
-Crawford,0010 PATNA 1 ,State Representative,74,Under Votes,,22
-Crawford,0011 PATOKA 2 ,State Representative,74,Under Votes,,9
+Crawford,0009 STERLING 3,State Representative,74,Under Votes,,9
+Crawford,0010 PATNA 1,State Representative,74,Under Votes,,22
+Crawford,0011 PATOKA 2,State Representative,74,Under Votes,,9
 Crawford,0012 JOHNSON 1,State Representative,74,Under Votes,,8
 Crawford,0013 JOHNSON 2,State Representative,74,Under Votes,,0
 Crawford,0014 UNION 1,State Representative,74,Under Votes,,8
 Crawford,0015 UNION 2,State Representative,74,Under Votes,,10
 Crawford,0016 OHIO 1,State Representative,74,Under Votes,,4
 Crawford,0017 OHIO 2,State Representative,74,Under Votes,,7
-Crawford,0018 BOONE ,State Representative,74,Under Votes,,2
+Crawford,0018 BOONE,State Representative,74,Under Votes,,2

@@ -1,6 +1,6 @@
 county,precinct,office,district,party,candidate,election_day,absentee,early_voting,votes
 Greene,Beach Creek 1,Registered Voters,,,,,,,769
-Greene,Beach Creek 1,Ballots Cast ,,,,266,125,189,580
+Greene,Beach Creek 1,Ballots Cast,,,,266,125,189,580
 Greene,Beach Creek 1,President,,REP,Donald J Trump,222,61,128,411
 Greene,Beach Creek 1,President,,DEM,Joseph R Biden,39,62,55,156
 Greene,Beach Creek 1,President,,LIB,Jo Jorgensen,3,1,4,8
@@ -17,7 +17,7 @@ Greene,Beach Creek 1,U.S. House,9,,Write-In,0,0,0,0
 Greene,Beach Creek 1,State Representative,62,REP,Jelf Ellington,222,61,129,412
 Greene,Beach Creek 1,State Representative,62,DEM,Alyssa Balley,38,56,54,148
 Greene,Beach Creek 2,Registered Voters,,,,,,,758
-Greene,Beach Creek 2,Ballots Cast ,,,,269,91,230,590
+Greene,Beach Creek 2,Ballots Cast,,,,269,91,230,590
 Greene,Beach Creek 2,President,,REP,Donald J Trump,224,28,156,408
 Greene,Beach Creek 2,President,,DEM,Joseph R Biden,42,56,67,164
 Greene,Beach Creek 2,President,,LIB,Jo Jorgensen,2,7,5,14
@@ -34,7 +34,7 @@ Greene,Beach Creek 2,U.S. House,9,,Write-In,0,0,0,0
 Greene,Beach Creek 2,State Representative,62,REP,Jelf Ellington,213,34,156,403
 Greene,Beach Creek 2,State Representative,62,DEM,Alyssa Balley,53,55,69,177
 Greene,Cass,Registered Voters,,,,,,,186
-Greene,Cass,Ballots Cast ,,,,71,16,43,130
+Greene,Cass,Ballots Cast,,,,71,16,43,130
 Greene,Cass,President,,REP,Donald J Trump,53,9,33,95
 Greene,Cass,President,,DEM,Joseph R Biden,16,5,7,28
 Greene,Cass,President,,LIB,Jo Jorgensen,1,1,1,3
@@ -51,7 +51,7 @@ Greene,Cass,U.S. House,9,,Write-In,0,0,0,0
 Greene,Cass,State Representative,62,REP,Jelf Ellington,43,7,31,81
 Greene,Cass,State Representative,62,DEM,Alyssa Balley,27,8,10,45
 Greene,Center 1,Registered Voters,,,,,,,668
-Greene,Center 1,Ballots Cast ,,,,232,67,205,504
+Greene,Center 1,Ballots Cast,,,,232,67,205,504
 Greene,Center 1,President,,REP,Donald J Trump,188,30,140,358
 Greene,Center 1,President,,DEM,Joseph R Biden,37,36,48,121
 Greene,Center 1,President,,LIB,Jo Jorgensen,4,0,6,10
@@ -68,7 +68,7 @@ Greene,Center 1,U.S. House,9,,Write-In,0,0,0,0
 Greene,Center 1,State Representative,62,REP,Jelf Ellington,173,31,130,334
 Greene,Center 1,State Representative,62,DEM,Alyssa Balley,54,34,63,151
 Greene,Center 2,Registered Voters,,,,,,,1396
-Greene,Center 2,Ballots Cast ,,,,447,123,488,1058
+Greene,Center 2,Ballots Cast,,,,447,123,488,1058
 Greene,Center 2,President,,REP,Donald J Trump,377,51,338,766
 Greene,Center 2,President,,DEM,Joseph R Biden,57,69,126,252
 Greene,Center 2,President,,LIB,Jo Jorgensen,8,3,13,24
@@ -85,7 +85,7 @@ Greene,Center 2,U.S. House,9,,Write-In,0,0,0,0
 Greene,Center 2,State Representative,62,REP,Jelf Ellington,360,48,332,740
 Greene,Center 2,State Representative,62,DEM,Alyssa Balley,77,70,141,288
 Greene,Fairplay,Registered Voters,,,,,,,371
-Greene,Fairplay,Ballots Cast ,,,,151,49,80,280
+Greene,Fairplay,Ballots Cast,,,,151,49,80,280
 Greene,Fairplay,President,,REP,Donald J Trump,120,24,65,209
 Greene,Fairplay,President,,DEM,Joseph R Biden,29,24,12,65
 Greene,Fairplay,President,,LIB,Jo Jorgensen,0,0,2,2
@@ -102,7 +102,7 @@ Greene,Fairplay,U.S. House,9,,Write-In,0,0,0,0
 Greene,Fairplay,State Representative,62,REP,Jelf Ellington,118,27,58,203
 Greene,Fairplay,State Representative,62,DEM,Alyssa Balley,31,21,19,71
 Greene,Grant,Registered Voters,,,,,,,479
-Greene,Grant,Ballots Cast ,,,,156,49,158,363
+Greene,Grant,Ballots Cast,,,,156,49,158,363
 Greene,Grant,President,,REP,Donald J Trump,132,35,123,290
 Greene,Grant,President,,DEM,Joseph R Biden,18,13,27,58
 Greene,Grant,President,,LIB,Jo Jorgensen,3,0,3,6
@@ -119,7 +119,7 @@ Greene,Grant,U.S. House,9,,Write-In,0,0,0,0
 Greene,Grant,State Representative,62,REP,Jelf Ellington,120,35,121,276
 Greene,Grant,State Representative,62,DEM,Alyssa Balley,31,13,33,77
 Greene,Highland,Registered Voters,,,,,,,517
-Greene,Highland,Ballots Cast ,,,,140,39,194,373
+Greene,Highland,Ballots Cast,,,,140,39,194,373
 Greene,Highland,President,,REP,Donald J Trump,122,16,151,289
 Greene,Highland,President,,DEM,Joseph R Biden,14,21,37,72
 Greene,Highland,President,,LIB,Jo Jorgensen,3,0,4,7
@@ -136,7 +136,7 @@ Greene,Highland,U.S. House,9,,Write-In,0,0,0,0
 Greene,Highland,State Representative,62,REP,Jelf Ellington,113,18,140,271
 Greene,Highland,State Representative,62,DEM,Alyssa Balley,22,16,47,85
 Greene,Jackson,Registered Voters,,,,,,,1198
-Greene,Jackson,Ballots Cast ,,,,500,107,301,908
+Greene,Jackson,Ballots Cast,,,,500,107,301,908
 Greene,Jackson,President,,REP,Donald J Trump,395,58,206,859
 Greene,Jackson,President,,DEM,Joseph R Biden,90,47,89,226
 Greene,Jackson,President,,LIB,Jo Jorgensen,8,1,3,12
@@ -153,7 +153,7 @@ Greene,Jackson,U.S. House,9,,Write-In,1,0,0,1
 Greene,Jackson,State Representative,62,REP,Jelf Ellington,396,55,192,643
 Greene,Jackson,State Representative,62,DEM,Alyssa Balley,94,47,98,239
 Greene,Jefferson 1,Registered Voters,,,,,,,716
-Greene,Jefferson 1,Ballots Cast ,,,,316,74,129,519
+Greene,Jefferson 1,Ballots Cast,,,,316,74,129,519
 Greene,Jefferson 1,President,,REP,Donald J Trump,254,40,97,391
 Greene,Jefferson 1,President,,DEM,Joseph R Biden,54,33,29,116
 Greene,Jefferson 1,President,,LIB,Jo Jorgensen,6,0,2,8
@@ -170,7 +170,7 @@ Greene,Jefferson 1,U.S. House,9,,Write-In,0,0,0,0
 Greene,Jefferson 1,State Representative,62,REP,Jelf Ellington,234,41,93,368
 Greene,Jefferson 1,State Representative,62,DEM,Alyssa Balley,80,31,32,143
 Greene,Jefferson 2,Registered Voters,,,,,,,612
-Greene,Jefferson 2,Ballots Cast ,,,,280,58,100,438
+Greene,Jefferson 2,Ballots Cast,,,,280,58,100,438
 Greene,Jefferson 2,President,,REP,Donald J Trump,214,36,79,329
 Greene,Jefferson 2,President,,DEM,Joseph R Biden,55,21,19,95
 Greene,Jefferson 2,President,,LIB,Jo Jorgensen,2,0,2,4
@@ -187,7 +187,7 @@ Greene,Jefferson 2,U.S. House,9,,Write-In,0,0,0,0
 Greene,Jefferson 2,State Representative,62,REP,Jelf Ellington,192,33,68,293
 Greene,Jefferson 2,State Representative,62,DEM,Alyssa Balley,80,23,29,132
 Greene,Richland 1,Registered Voters,,,,,,,865
-Greene,Richland 1,Ballots Cast ,,,,156,70,439,665
+Greene,Richland 1,Ballots Cast,,,,156,70,439,665
 Greene,Richland 1,President,,REP,Donald J Trump,125,39,332,496
 Greene,Richland 1,President,,DEM,Joseph R Biden,21,27,92,140
 Greene,Richland 1,President,,LIB,Jo Jorgensen,8,1,9,18
@@ -204,7 +204,7 @@ Greene,Richland 1,U.S. House,9,,Write-In,0,0,0,0
 Greene,Richland 1,State Representative,62,REP,Jelf Ellington,106,40,316,462
 Greene,Richland 1,State Representative,62,DEM,Alyssa Balley,42,26,118,186
 Greene,Richland 2,Registered Voters,,,,,,,768
-Greene,Richland 2,Ballots Cast ,,,,120,81,378,579
+Greene,Richland 2,Ballots Cast,,,,120,81,378,579
 Greene,Richland 2,President,,REP,Donald J Trump,96,33,275,404
 Greene,Richland 2,President,,DEM,Joseph R Biden,19,44,85,148
 Greene,Richland 2,President,,LIB,Jo Jorgensen,4,3,4,11
@@ -221,7 +221,7 @@ Greene,Richland 2,U.S. House,9,,Write-In,0,0,0,0
 Greene,Richland 2,State Representative,62,REP,Jelf Ellington,91,35,280,406
 Greene,Richland 2,State Representative,62,DEM,Alyssa Balley,28,45,94,167
 Greene,Richland 3,Registered Voters,,,,,,,664
-Greene,Richland 3,Ballots Cast ,,,,126,61,303,490
+Greene,Richland 3,Ballots Cast,,,,126,61,303,490
 Greene,Richland 3,President,,REP,Donald J Trump,104,27,197,328
 Greene,Richland 3,President,,DEM,Joseph R Biden,16,32,98,146
 Greene,Richland 3,President,,LIB,Jo Jorgensen,3,1,3,7
@@ -238,7 +238,7 @@ Greene,Richland 3,U.S. House,9,,Write-In,0,0,0,0
 Greene,Richland 3,State Representative,62,REP,Jelf Ellington,95,30,195,320
 Greene,Richland 3,State Representative,62,DEM,Alyssa Balley,27,28,99,154
 Greene,Richland 4,Registered Voters,,,,,,,782
-Greene,Richland 4,Ballots Cast ,,,,192,77,358,627
+Greene,Richland 4,Ballots Cast,,,,192,77,358,627
 Greene,Richland 4,President,,REP,Donald J Trump,159,43,274,478
 Greene,Richland 4,President,,DEM,Joseph R Biden,24,30,73,127
 Greene,Richland 4,President,,LIB,Jo Jorgensen,6,1,6,13
@@ -255,7 +255,7 @@ Greene,Richland 4,U.S. House,9,,Write-In,0,0,0,0
 Greene,Richland 4,State Representative,62,REP,Jelf Ellington,148,47,262,457
 Greene,Richland 4,State Representative,62,DEM,Alyssa Balley,40,25,89,154
 Greene,Smith,Registered Voters,,,,,,,248
-Greene,Smith,Ballots Cast ,,,,90,30,76,196
+Greene,Smith,Ballots Cast,,,,90,30,76,196
 Greene,Smith,President,,REP,Donald J Trump,81,23,61,165
 Greene,Smith,President,,DEM,Joseph R Biden,8,7,13,28
 Greene,Smith,President,,LIB,Jo Jorgensen,0,0,0,0
@@ -272,7 +272,7 @@ Greene,Smith,U.S. House,9,,Write-In,0,0,0,0
 Greene,Smith,State Representative,62,REP,Jelf Ellington,73,18,54,145
 Greene,Smith,State Representative,62,DEM,Alyssa Balley,15,10,19,44
 Greene,Stafford,Registered Voters,,,,,,,306
-Greene,Stafford,Ballots Cast ,,,,133,28,64,225
+Greene,Stafford,Ballots Cast,,,,133,28,64,225
 Greene,Stafford,President,,REP,Donald J Trump,118,18,51,187
 Greene,Stafford,President,,DEM,Joseph R Biden,13,10,10,33
 Greene,Stafford,President,,LIB,Jo Jorgensen,2,0,1,3
@@ -289,7 +289,7 @@ Greene,Stafford,U.S. House,9,,Write-In,0,0,0,0
 Greene,Stafford,State Representative,62,REP,Jelf Ellington,97,12,46,155
 Greene,Stafford,State Representative,62,DEM,Alyssa Balley,33,16,17,66
 Greene,Stockton 1,Registered Voters,,,,,,,647
-Greene,Stockton 1,Ballots Cast ,,,,204,84,202,490
+Greene,Stockton 1,Ballots Cast,,,,204,84,202,490
 Greene,Stockton 1,President,,REP,Donald J Trump,181,49,149,379
 Greene,Stockton 1,President,,DEM,Joseph R Biden,17,34,42,93
 Greene,Stockton 1,President,,LIB,Jo Jorgensen,4,0,8,12
@@ -306,7 +306,7 @@ Greene,Stockton 1,U.S. House,9,,Write-In,0,0,0,0
 Greene,Stockton 1,State Representative,62,REP,Jelf Ellington,157,50,145,352
 Greene,Stockton 1,State Representative,62,DEM,Alyssa Balley,43,33,53,129
 Greene,Stockton 2,Registered Voters,,,,,,,1357
-Greene,Stockton 2,Ballots Cast ,,,,432,126,464,1022
+Greene,Stockton 2,Ballots Cast,,,,432,126,464,1022
 Greene,Stockton 2,President,,REP,Donald J Trump,373,62,370,805
 Greene,Stockton 2,President,,DEM,Joseph R Biden,44,63,81,188
 Greene,Stockton 2,President,,LIB,Jo Jorgensen,10,1,7,18
@@ -323,7 +323,7 @@ Greene,Stockton 2,U.S. House,9,,Write-In,0,0,1,1
 Greene,Stockton 2,State Representative,62,REP,Jelf Ellington,319,70,348,737
 Greene,Stockton 2,State Representative,62,DEM,Alyssa Balley,98,54,101,253
 Greene,Stockton 3,Registered Voters,,,,,,,613
-Greene,Stockton 3,Ballots Cast ,,,,169,83,142,394
+Greene,Stockton 3,Ballots Cast,,,,169,83,142,394
 Greene,Stockton 3,President,,REP,Donald J Trump,142,39,97,278
 Greene,Stockton 3,President,,DEM,Joseph R Biden,20,42,39,101
 Greene,Stockton 3,President,,LIB,Jo Jorgensen,5,1,1,7
@@ -340,7 +340,7 @@ Greene,Stockton 3,U.S. House,9,,Write-In,0,0,0,0
 Greene,Stockton 3,State Representative,62,REP,Jelf Ellington,127,37,89,253
 Greene,Stockton 3,State Representative,62,DEM,Alyssa Balley,37,44,46,127
 Greene,Stockton 4,Registered Voters,,,,,,,629
-Greene,Stockton 4,Ballots Cast ,,,,196,75,140,411
+Greene,Stockton 4,Ballots Cast,,,,196,75,140,411
 Greene,Stockton 4,President,,REP,Donald J Trump,156,32,108,296
 Greene,Stockton 4,President,,DEM,Joseph R Biden,34,35,30,99
 Greene,Stockton 4,President,,LIB,Jo Jorgensen,4,2,2,8
@@ -357,7 +357,7 @@ Greene,Stockton 4,U.S. House,9,,Write-In,0,0,0,0
 Greene,Stockton 4,State Representative,62,REP,Jelf Ellington,136,39,102,277
 Greene,Stockton 4,State Representative,62,DEM,Alyssa Balley,56,31,35,122
 Greene,Stockton 5,Registered Voters,,,,,,,560
-Greene,Stockton 5,Ballots Cast ,,,,181,55,134,370
+Greene,Stockton 5,Ballots Cast,,,,181,55,134,370
 Greene,Stockton 5,President,,REP,Donald J Trump,143,19,97,259
 Greene,Stockton 5,President,,DEM,Joseph R Biden,33,33,34,100
 Greene,Stockton 5,President,,LIB,Jo Jorgensen,4,0,1,5
@@ -374,7 +374,7 @@ Greene,Stockton 5,U.S. House,9,,Write-In,0,0,0,0
 Greene,Stockton 5,State Representative,62,REP,Jelf Ellington,132,23,88,243
 Greene,Stockton 5,State Representative,62,DEM,Alyssa Balley,46,31,44,121
 Greene,Stockton 6,Registered Voters,,,,,,,751
-Greene,Stockton 6,Ballots Cast ,,,,198,123,229,550
+Greene,Stockton 6,Ballots Cast,,,,198,123,229,550
 Greene,Stockton 6,President,,REP,Donald J Trump,149,59,161,369
 Greene,Stockton 6,President,,DEM,Joseph R Biden,41,61,62,164
 Greene,Stockton 6,President,,LIB,Jo Jorgensen,6,2,4,12
@@ -391,7 +391,7 @@ Greene,Stockton 6,U.S. House,9,,Write-In,0,0,0,0
 Greene,Stockton 6,State Representative,62,REP,Jelf Ellington,142,65,148,355
 Greene,Stockton 6,State Representative,62,DEM,Alyssa Balley,50,53,76,179
 Greene,Stockton 7,Registered Voters,,,,,,,747
-Greene,Stockton 7,Ballots Cast ,,,,239,92,180,511
+Greene,Stockton 7,Ballots Cast,,,,239,92,180,511
 Greene,Stockton 7,President,,REP,Donald J Trump,178,52,133,363
 Greene,Stockton 7,President,,DEM,Joseph R Biden,46,38,45,129
 Greene,Stockton 7,President,,LIB,Jo Jorgensen,12,2,1,15
@@ -408,7 +408,7 @@ Greene,Stockton 7,U.S. House,9,,Write-In,0,0,0,0
 Greene,Stockton 7,State Representative,62,REP,Jelf Ellington,166,56,127,349
 Greene,Stockton 7,State Representative,62,DEM,Alyssa Balley,65,35,51,151
 Greene,Taylor,Registered Voters,,,,,,,815
-Greene,Taylor,Ballots Cast ,,,,296,79,285,660
+Greene,Taylor,Ballots Cast,,,,296,79,285,660
 Greene,Taylor,President,,REP,Donald J Trump,245,33,214,492
 Greene,Taylor,President,,DEM,Joseph R Biden,42,45,67,154
 Greene,Taylor,President,,LIB,Jo Jorgensen,6,0,2,8
@@ -425,7 +425,7 @@ Greene,Taylor,U.S. House,9,,Write-In,0,1,0,1
 Greene,Taylor,State Representative,62,REP,Jelf Ellington,230,36,209,475
 Greene,Taylor,State Representative,62,DEM,Alyssa Balley,54,41,70,165
 Greene,Washington 1,Registered Voters,,,,,,,307
-Greene,Washington 1,Ballots Cast ,,,,118,15,84,217
+Greene,Washington 1,Ballots Cast,,,,118,15,84,217
 Greene,Washington 1,President,,REP,Donald J Trump,103,6,59,168
 Greene,Washington 1,President,,DEM,Joseph R Biden,13,7,20,40
 Greene,Washington 1,President,,LIB,Jo Jorgensen,0,0,2,2
@@ -442,7 +442,7 @@ Greene,Washington 1,U.S. House,9,,Write-In,0,0,0,0
 Greene,Washington 1,State Representative,62,REP,Jelf Ellington,79,7,54,140
 Greene,Washington 1,State Representative,62,DEM,Alyssa Balley,36,8,27,71
 Greene,Washington 2,Registered Voters,,,,,,,338
-Greene,Washington 2,Ballots Cast ,,,,168,19,57,244
+Greene,Washington 2,Ballots Cast,,,,168,19,57,244
 Greene,Washington 2,President,,REP,Donald J Trump,135,11,50,196
 Greene,Washington 2,President,,DEM,Joseph R Biden,30,7,6,43
 Greene,Washington 2,President,,LIB,Jo Jorgensen,0,1,0,1
@@ -459,7 +459,7 @@ Greene,Washington 2,U.S. House,9,,Write-In,0,0,0,0
 Greene,Washington 2,State Representative,62,REP,Jelf Ellington,114,12,47,173
 Greene,Washington 2,State Representative,62,DEM,Alyssa Balley,50,6,8,64
 Greene,Wright 1,Registered Voters,,,,,,,405
-Greene,Wright 1,Ballots Cast ,,,,180,41,25,246
+Greene,Wright 1,Ballots Cast,,,,180,41,25,246
 Greene,Wright 1,President,,REP,Donald J Trump,142,20,23,185
 Greene,Wright 1,President,,DEM,Joseph R Biden,30,21,2,53
 Greene,Wright 1,President,,LIB,Jo Jorgensen,6,0,0,6
@@ -476,7 +476,7 @@ Greene,Wright 1,U.S. House,9,,Write-In,0,0,0,0
 Greene,Wright 1,State Representative,45,REP,Bruce Borders,132,25,22,179
 Greene,Wright 1,State Representative,45,DEM,No Candidate Filed,0,0,0,0
 Greene,Wright 2,Registered Voters,,,,,,,280
-Greene,Wright 2,Ballots Cast ,,,,158,12,28,198
+Greene,Wright 2,Ballots Cast,,,,158,12,28,198
 Greene,Wright 2,President,,REP,Donald J Trump,129,3,16,148
 Greene,Wright 2,President,,DEM,Joseph R Biden,21,8,7,36
 Greene,Wright 2,President,,LIB,Jo Jorgensen,8,1,5,14
@@ -493,7 +493,7 @@ Greene,Wright 2,U.S. House,9,,Write-In,0,0,0,0
 Greene,Wright 2,State Representative,45,REP,Bruce Borders,126,4,21,151
 Greene,Wright 2,State Representative,45,DEM,No Candidate Filed,0,0,0,0
 Greene,Wright 3,Registered Voters,,,,,,,455
-Greene,Wright 3,Ballots Cast ,,,,224,36,44,304
+Greene,Wright 3,Ballots Cast,,,,224,36,44,304
 Greene,Wright 3,President,,REP,Donald J Trump,186,26,31,243
 Greene,Wright 3,President,,DEM,Joseph R Biden,26,7,10,43
 Greene,Wright 3,President,,LIB,Jo Jorgensen,10,2,2,14
@@ -510,7 +510,7 @@ Greene,Wright 3,U.S. House,9,,Write-In,0,0,0,0
 Greene,Wright 3,State Representative,45,REP,Bruce Borders,161,26,31,218
 Greene,Wright 3,State Representative,45,DEM,No Candidate Filed,0,0,0,0
 Greene,Wright 4,Registered Voters,,,,,,,512
-Greene,Wright 4,Ballots Cast ,,,,227,42,108,377
+Greene,Wright 4,Ballots Cast,,,,227,42,108,377
 Greene,Wright 4,President,,REP,Donald J Trump,182,24,83,289
 Greene,Wright 4,President,,DEM,Joseph R Biden,37,18,20,75
 Greene,Wright 4,President,,LIB,Jo Jorgensen,6,0,4,10
@@ -527,7 +527,7 @@ Greene,Wright 4,U.S. House,9,,Write-In,0,0,0,0
 Greene,Wright 4,State Representative,45,REP,Bruce Borders,181,25,82,288
 Greene,Wright 4,State Representative,45,DEM,No Candidate Filed,0,0,0,0
 Greene,Wright 5,Registered Voters,,,,,,,642
-Greene,Wright 5,Ballots Cast ,,,,254,54,174,482
+Greene,Wright 5,Ballots Cast,,,,254,54,174,482
 Greene,Wright 5,President,,REP,Donald J Trump,215,31,126,372
 Greene,Wright 5,President,,DEM,Joseph R Biden,32,22,42,96
 Greene,Wright 5,President,,LIB,Jo Jorgensen,3,1,4,8

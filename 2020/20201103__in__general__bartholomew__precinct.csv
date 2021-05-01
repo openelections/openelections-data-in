@@ -1,6 +1,6 @@
 county,precinct,office,district,party,candidate,election_day,absentee,early_voting,votes
 Bartholomew,Pct. 0100,Registered Voters,,,,,,,1201
-Bartholomew,Pct. 0100,Ballots Cast ,,,,144,149,379,672
+Bartholomew,Pct. 0100,Ballots Cast,,,,144,149,379,672
 Bartholomew,Pct. 0100,President,,R,Trump\Pence,90,40,180,310
 Bartholomew,Pct. 0100,President,,D,Biden\Harris,47,104,185,336
 Bartholomew,Pct. 0100,President,,L,Jorgense\Cohen,5,4,8,17
@@ -19,7 +19,7 @@ Bartholomew,Pct. 0100,State Senate,44,D,Cynthia (Cinde) Wirth,51,94,179,324
 Bartholomew,Pct. 0100,State Representative,59,R,Ryan Lauer,90,37,175,302
 Bartholomew,Pct. 0100,State Representative,59,D,Dale Nowlin,45,99,189,333
 Bartholomew,Pct. 0200,Registered Voters,,,,,,,1435
-Bartholomew,Pct. 0200,Ballots Cast ,,,,199,189,632,1020
+Bartholomew,Pct. 0200,Ballots Cast,,,,199,189,632,1020
 Bartholomew,Pct. 0200,President,,R,Trump\Pence,134,59,329,522
 Bartholomew,Pct. 0200,President,,D,Biden\Harris,53,122,288,463
 Bartholomew,Pct. 0200,President,,L,Jorgense\Cohen,9,5,14,28
@@ -38,7 +38,7 @@ Bartholomew,Pct. 0200,State Senate,44,D,Cynthia (Cinde) Wirth,51,104,260,415
 Bartholomew,Pct. 0200,State Representative,59,R,Ryan Lauer,131,59,333,523
 Bartholomew,Pct. 0200,State Representative,59,D,Dale Nowlin,57,123,293,473
 Bartholomew,Pct. 0225,Registered Voters,,,,,,,1398
-Bartholomew,Pct. 0225,Ballots Cast ,,,,254,125,576,955
+Bartholomew,Pct. 0225,Ballots Cast,,,,254,125,576,955
 Bartholomew,Pct. 0225,President,,R,Trump\Pence,174,45,297,516
 Bartholomew,Pct. 0225,President,,D,Biden\Harris,67,77,264,408
 Bartholomew,Pct. 0225,President,,L,Jorgense\Cohen,9,2,13,24
@@ -57,7 +57,7 @@ Bartholomew,Pct. 0225,State Senate,44,D,Cynthia (Cinde) Wirth,63,73,248,384
 Bartholomew,Pct. 0225,State Representative,59,R,Ryan Lauer,173,43,294,510
 Bartholomew,Pct. 0225,State Representative,59,D,Dale Nowlin,71,80,269,420
 Bartholomew,Pct. 0250,Registered Voters,,,,,,,1153
-Bartholomew,Pct. 0250,Ballots Cast ,,,,126,226,503,855
+Bartholomew,Pct. 0250,Ballots Cast,,,,126,226,503,855
 Bartholomew,Pct. 0250,President,,R,Trump\Pence,81,63,241,385
 Bartholomew,Pct. 0250,President,,D,Biden\Harris,35,157,242,434
 Bartholomew,Pct. 0250,President,,L,Jorgense\Cohen,9,0,13,22
@@ -76,7 +76,7 @@ Bartholomew,Pct. 0250,State Senate,44,D,Cynthia (Cinde) Wirth,28,134,212,374
 Bartholomew,Pct. 0250,State Representative,59,R,Ryan Lauer,82,72,245,399
 Bartholomew,Pct. 0250,State Representative,59,D,Dale Nowlin,43,145,248,436
 Bartholomew,Pct. 0300,Registered Voters,,,,,,,653
-Bartholomew,Pct. 0300,Ballots Cast ,,,,84,70,205,359
+Bartholomew,Pct. 0300,Ballots Cast,,,,84,70,205,359
 Bartholomew,Pct. 0300,President,,R,Trump\Pence,43,23,88,154
 Bartholomew,Pct. 0300,President,,D,Biden\Harris,36,44,107,187
 Bartholomew,Pct. 0300,President,,L,Jorgense\Cohen,5,3,6,14
@@ -95,7 +95,7 @@ Bartholomew,Pct. 0300,State Senate,44,D,Cynthia (Cinde) Wirth,,,,
 Bartholomew,Pct. 0300,State Representative,59,R,Ryan Lauer,43,24,89,156
 Bartholomew,Pct. 0300,State Representative,59,D,Dale Nowlin,36,44,110,190
 Bartholomew,Pct. 0400,Registered Voters,,,,,,,1135
-Bartholomew,Pct. 0400,Ballots Cast ,,,,153,175,451,779
+Bartholomew,Pct. 0400,Ballots Cast,,,,153,175,451,779
 Bartholomew,Pct. 0400,President,,R,Trump\Pence,86,43,190,319
 Bartholomew,Pct. 0400,President,,D,Biden\Harris,52,129,251,432
 Bartholomew,Pct. 0400,President,,L,Jorgense\Cohen,11,1,6,18
@@ -114,7 +114,7 @@ Bartholomew,Pct. 0400,State Senate,44,D,Cynthia (Cinde) Wirth,,,,
 Bartholomew,Pct. 0400,State Representative,59,R,Ryan Lauer,84,40,194,318
 Bartholomew,Pct. 0400,State Representative,59,D,Dale Nowlin,65,126,251,442
 Bartholomew,Pct. 0500,Registered Voters,,,,,,,1139
-Bartholomew,Pct. 0500,Ballots Cast ,,,,149,134,514,797
+Bartholomew,Pct. 0500,Ballots Cast,,,,149,134,514,797
 Bartholomew,Pct. 0500,President,,R,Trump\Pence,109,40,321,470
 Bartholomew,Pct. 0500,President,,D,Biden\Harris,34,92,181,307
 Bartholomew,Pct. 0500,President,,L,Jorgense\Cohen,6,1,9,16
@@ -133,7 +133,7 @@ Bartholomew,Pct. 0500,State Senate,44,D,Cynthia (Cinde) Wirth,,,,
 Bartholomew,Pct. 0500,State Representative,59,R,Ryan Lauer,102,40,303,445
 Bartholomew,Pct. 0500,State Representative,59,D,Dale Nowlin,41,90,199,330
 Bartholomew,Pct. 0600,Registered Voters,,,,,,,713
-Bartholomew,Pct. 0600,Ballots Cast ,,,,95,115,340,550
+Bartholomew,Pct. 0600,Ballots Cast,,,,95,115,340,550
 Bartholomew,Pct. 0600,President,,R,Trump\Pence,64,38,175,277
 Bartholomew,Pct. 0600,President,,D,Biden\Harris,23,75,154,252
 Bartholomew,Pct. 0600,President,,L,Jorgense\Cohen,5,2,7,14
@@ -152,7 +152,7 @@ Bartholomew,Pct. 0600,State Senate,44,D,Cynthia (Cinde) Wirth,,,,
 Bartholomew,Pct. 0600,State Representative,59,R,Ryan Lauer,65,43,170,278
 Bartholomew,Pct. 0600,State Representative,59,D,Dale Nowlin,28,69,162,259
 Bartholomew,Pct. 0700,Registered Voters,,,,,,,882
-Bartholomew,Pct. 0700,Ballots Cast ,,,,98,193,322,613
+Bartholomew,Pct. 0700,Ballots Cast,,,,98,193,322,613
 Bartholomew,Pct. 0700,President,,R,Trump\Pence,67,91,204,362
 Bartholomew,Pct. 0700,President,,D,Biden\Harris,25,92,109,226
 Bartholomew,Pct. 0700,President,,L,Jorgense\Cohen,3,6,7,16
@@ -171,7 +171,7 @@ Bartholomew,Pct. 0700,State Senate,44,D,Cynthia (Cinde) Wirth,,,,
 Bartholomew,Pct. 0700,State Representative,59,R,Ryan Lauer,66,90,199,355
 Bartholomew,Pct. 0700,State Representative,59,D,Dale Nowlin,26,95,117,238
 Bartholomew,Pct. 0800,Registered Voters,,,,,,,842
-Bartholomew,Pct. 0800,Ballots Cast ,,,,117,94,328,539
+Bartholomew,Pct. 0800,Ballots Cast,,,,117,94,328,539
 Bartholomew,Pct. 0800,President,,R,Trump\Pence,76,21,185,282
 Bartholomew,Pct. 0800,President,,D,Biden\Harris,30,71,134,235
 Bartholomew,Pct. 0800,President,,L,Jorgense\Cohen,8,2,6,16
@@ -190,7 +190,7 @@ Bartholomew,Pct. 0800,State Senate,44,D,Cynthia (Cinde) Wirth,,,,
 Bartholomew,Pct. 0800,State Representative,59,R,Ryan Lauer,75,26,181,282
 Bartholomew,Pct. 0800,State Representative,59,D,Dale Nowlin,38,68,137,243
 Bartholomew,Pct. 0900,Registered Voters,,,,,,,1097
-Bartholomew,Pct. 0900,Ballots Cast ,,,,144,160,483,787
+Bartholomew,Pct. 0900,Ballots Cast,,,,144,160,483,787
 Bartholomew,Pct. 0900,President,,R,Trump\Pence,94,57,303,454
 Bartholomew,Pct. 0900,President,,D,Biden\Harris,40,98,165,303
 Bartholomew,Pct. 0900,President,,L,Jorgense\Cohen,8,2,10,20
@@ -209,7 +209,7 @@ Bartholomew,Pct. 0900,State Senate,44,D,Cynthia (Cinde) Wirth,,,,
 Bartholomew,Pct. 0900,State Representative,59,R,Ryan Lauer,93,59,294,446
 Bartholomew,Pct. 0900,State Representative,59,D,Dale Nowlin,46,94,178,318
 Bartholomew,Pct. 1000,Registered Voters,,,,,,,922
-Bartholomew,Pct. 1000,Ballots Cast ,,,,142,126,390,658
+Bartholomew,Pct. 1000,Ballots Cast,,,,142,126,390,658
 Bartholomew,Pct. 1000,President,,R,Trump\Pence,91,51,226,368
 Bartholomew,Pct. 1000,President,,D,Biden\Harris,33,71,150,254
 Bartholomew,Pct. 1000,President,,L,Jorgense\Cohen,15,3,11,29
@@ -228,7 +228,7 @@ Bartholomew,Pct. 1000,State Senate,44,D,Cynthia (Cinde) Wirth,,,,
 Bartholomew,Pct. 1000,State Representative,59,R,Ryan Lauer,94,46,224,364
 Bartholomew,Pct. 1000,State Representative,59,D,Dale Nowlin,43,72,159,274
 Bartholomew,Pct. 1100,Registered Voters,,,,,,,870
-Bartholomew,Pct. 1100,Ballots Cast ,,,,104,134,441,679
+Bartholomew,Pct. 1100,Ballots Cast,,,,104,134,441,679
 Bartholomew,Pct. 1100,President,,R,Trump\Pence,77,55,269,401
 Bartholomew,Pct. 1100,President,,D,Biden\Harris,23,76,157,256
 Bartholomew,Pct. 1100,President,,L,Jorgense\Cohen,1,1,7,9
@@ -247,7 +247,7 @@ Bartholomew,Pct. 1100,State Senate,44,D,Cynthia (Cinde) Wirth,,,,
 Bartholomew,Pct. 1100,State Representative,59,R,Ryan Lauer,72,52,288,412
 Bartholomew,Pct. 1100,State Representative,59,D,Dale Nowlin,30,76,150,256
 Bartholomew,Pct. 1200,Registered Voters,,,,,,,807
-Bartholomew,Pct. 1200,Ballots Cast ,,,,140,99,317,556
+Bartholomew,Pct. 1200,Ballots Cast,,,,140,99,317,556
 Bartholomew,Pct. 1200,President,,R,Trump\Pence,88,41,201,330
 Bartholomew,Pct. 1200,President,,D,Biden\Harris,39,53,104,196
 Bartholomew,Pct. 1200,President,,L,Jorgense\Cohen,10,4,7,21
@@ -266,7 +266,7 @@ Bartholomew,Pct. 1200,State Senate,44,D,Cynthia (Cinde) Wirth,,,,
 Bartholomew,Pct. 1200,State Representative,59,R,Ryan Lauer,81,44,200,325
 Bartholomew,Pct. 1200,State Representative,59,D,Dale Nowlin,51,53,107,211
 Bartholomew,Pct. 1300,Registered Voters,,,,,,,1099
-Bartholomew,Pct. 1300,Ballots Cast ,,,,145,274,445,864
+Bartholomew,Pct. 1300,Ballots Cast,,,,145,274,445,864
 Bartholomew,Pct. 1300,President,,R,Trump\Pence,105,123,302,530
 Bartholomew,Pct. 1300,President,,D,Biden\Harris,29,147,134,310
 Bartholomew,Pct. 1300,President,,L,Jorgense\Cohen,5,0,7,12
@@ -285,7 +285,7 @@ Bartholomew,Pct. 1300,State Senate,44,D,Cynthia (Cinde) Wirth,,,,
 Bartholomew,Pct. 1300,State Representative,59,R,Ryan Lauer,99,122,304,525
 Bartholomew,Pct. 1300,State Representative,59,D,Dale Nowlin,38,137,135,310
 Bartholomew,Pct. 1400,Registered Voters,,,,,,,1139
-Bartholomew,Pct. 1400,Ballots Cast ,,,,227,116,446,789
+Bartholomew,Pct. 1400,Ballots Cast,,,,227,116,446,789
 Bartholomew,Pct. 1400,President,,R,Trump\Pence,144,36,235,415
 Bartholomew,Pct. 1400,President,,D,Biden\Harris,70,73,196,339
 Bartholomew,Pct. 1400,President,,L,Jorgense\Cohen,9,4,12,25
@@ -304,7 +304,7 @@ Bartholomew,Pct. 1400,State Senate,44,D,Cynthia (Cinde) Wirth,,,,
 Bartholomew,Pct. 1400,State Representative,59,R,Ryan Lauer,136,36,232,404
 Bartholomew,Pct. 1400,State Representative,59,D,Dale Nowlin,83,72,206,361
 Bartholomew,Pct. 1500,Registered Voters,,,,,,,514
-Bartholomew,Pct. 1500,Ballots Cast ,,,,65,142,103,310
+Bartholomew,Pct. 1500,Ballots Cast,,,,65,142,103,310
 Bartholomew,Pct. 1500,President,,R,Trump\Pence,35,63,53,151
 Bartholomew,Pct. 1500,President,,D,Biden\Harris,25,76,42,143
 Bartholomew,Pct. 1500,President,,L,Jorgense\Cohen,3,0,5,8
@@ -323,7 +323,7 @@ Bartholomew,Pct. 1500,State Senate,44,D,Cynthia (Cinde) Wirth,,,,
 Bartholomew,Pct. 1500,State Representative,59,R,Ryan Lauer,31,62,55,148
 Bartholomew,Pct. 1500,State Representative,59,D,Dale Nowlin,27,71,44,142
 Bartholomew,Pct. 1600,Registered Voters,,,,,,,672
-Bartholomew,Pct. 1600,Ballots Cast ,,,,85,97,314,496
+Bartholomew,Pct. 1600,Ballots Cast,,,,85,97,314,496
 Bartholomew,Pct. 1600,President,,R,Trump\Pence,61,42,182,285
 Bartholomew,Pct. 1600,President,,D,Biden\Harris,16,53,121,190
 Bartholomew,Pct. 1600,President,,L,Jorgense\Cohen,6,2,7,15
@@ -342,7 +342,7 @@ Bartholomew,Pct. 1600,State Senate,44,D,Cynthia (Cinde) Wirth,,,,
 Bartholomew,Pct. 1600,State Representative,59,R,Ryan Lauer,58,41,183,282
 Bartholomew,Pct. 1600,State Representative,59,D,Dale Nowlin,23,54,120,197
 Bartholomew,Pct. 1700,Registered Voters,,,,,,,1101
-Bartholomew,Pct. 1700,Ballots Cast ,,,,156,104,332,592
+Bartholomew,Pct. 1700,Ballots Cast,,,,156,104,332,592
 Bartholomew,Pct. 1700,President,,R,Trump\Pence,91,25,155,271
 Bartholomew,Pct. 1700,President,,D,Biden\Harris,56,71,162,289
 Bartholomew,Pct. 1700,President,,L,Jorgense\Cohen,7,3,8,18
@@ -361,7 +361,7 @@ Bartholomew,Pct. 1700,State Senate,44,D,Cynthia (Cinde) Wirth,,,,
 Bartholomew,Pct. 1700,State Representative,59,R,Ryan Lauer,91,24,154,269
 Bartholomew,Pct. 1700,State Representative,59,D,Dale Nowlin,58,71,164,293
 Bartholomew,Pct. 1800,Registered Voters,,,,,,,690
-Bartholomew,Pct. 1800,Ballots Cast ,,,,96,88,258,442
+Bartholomew,Pct. 1800,Ballots Cast,,,,96,88,258,442
 Bartholomew,Pct. 1800,President,,R,Trump\Pence,63,43,183,289
 Bartholomew,Pct. 1800,President,,D,Biden\Harris,24,43,65,132
 Bartholomew,Pct. 1800,President,,L,Jorgense\Cohen,7,1,6,14
@@ -380,7 +380,7 @@ Bartholomew,Pct. 1800,State Senate,44,D,Cynthia (Cinde) Wirth,,,,
 Bartholomew,Pct. 1800,State Representative,59,R,Ryan Lauer,59,42,186,287
 Bartholomew,Pct. 1800,State Representative,59,D,Dale Nowlin,32,41,64,137
 Bartholomew,Pct. 1900,Registered Voters,,,,,,,687
-Bartholomew,Pct. 1900,Ballots Cast ,,,,109,53,186,348
+Bartholomew,Pct. 1900,Ballots Cast,,,,109,53,186,348
 Bartholomew,Pct. 1900,President,,R,Trump\Pence,69,19,106,194
 Bartholomew,Pct. 1900,President,,D,Biden\Harris,32,34,68,134
 Bartholomew,Pct. 1900,President,,L,Jorgense\Cohen,6,0,7,13
@@ -399,7 +399,7 @@ Bartholomew,Pct. 1900,State Senate,44,D,Cynthia (Cinde) Wirth,,,,
 Bartholomew,Pct. 1900,State Representative,59,R,Ryan Lauer,73,19,105,197
 Bartholomew,Pct. 1900,State Representative,59,D,Dale Nowlin,31,30,67,128
 Bartholomew,Pct. 2000,Registered Voters,,,,,,,597
-Bartholomew,Pct. 2000,Ballots Cast ,,,,86,35,160,281
+Bartholomew,Pct. 2000,Ballots Cast,,,,86,35,160,281
 Bartholomew,Pct. 2000,President,,R,Trump\Pence,50,20,87,157
 Bartholomew,Pct. 2000,President,,D,Biden\Harris,28,14,65,107
 Bartholomew,Pct. 2000,President,,L,Jorgense\Cohen,5,1,4,10
@@ -418,7 +418,7 @@ Bartholomew,Pct. 2000,State Senate,44,D,Cynthia (Cinde) Wirth,33,11,65,109
 Bartholomew,Pct. 2000,State Representative,59,R,Ryan Lauer,50,22,84,156
 Bartholomew,Pct. 2000,State Representative,59,D,Dale Nowlin,34,11,66,111
 Bartholomew,Pct. 2100,Registered Voters,,,,,,,857
-Bartholomew,Pct. 2100,Ballots Cast ,,,,134,60,244,438
+Bartholomew,Pct. 2100,Ballots Cast,,,,134,60,244,438
 Bartholomew,Pct. 2100,President,,R,Trump\Pence,97,20,147,264
 Bartholomew,Pct. 2100,President,,D,Biden\Harris,30,39,91,160
 Bartholomew,Pct. 2100,President,,L,Jorgense\Cohen,5,1,3,9
@@ -437,7 +437,7 @@ Bartholomew,Pct. 2100,State Senate,44,D,Cynthia (Cinde) Wirth,37,32,88,157
 Bartholomew,Pct. 2100,State Representative,59,R,Ryan Lauer,89,22,145,256
 Bartholomew,Pct. 2100,State Representative,59,D,Dale Nowlin,38,33,93,164
 Bartholomew,Pct. 2200,Registered Voters,,,,,,,582
-Bartholomew,Pct. 2200,Ballots Cast ,,,,101,67,217,385
+Bartholomew,Pct. 2200,Ballots Cast,,,,101,67,217,385
 Bartholomew,Pct. 2200,President,,R,Trump\Pence,73,36,156,265
 Bartholomew,Pct. 2200,President,,D,Biden\Harris,25,27,56,108
 Pct. 2200,Pct. 2200,President,,L,Jorgense\Cohen,3,3,3,9
@@ -456,7 +456,7 @@ Bartholomew,Pct. 2200,State Senate,44,D,Cynthia (Cinde) Wirth,23,27,60,110
 Bartholomew,Pct. 2200,State Representative,59,R,Ryan Lauer,64,34,141,239
 Bartholomew,Pct. 2200,State Representative,59,D,Dale Nowlin,33,29,63,125
 Bartholomew,Pct. 2300,Registered Voters,,,,,,,410
-Bartholomew,Pct. 2300,Ballots Cast ,,,,61,30,108,199
+Bartholomew,Pct. 2300,Ballots Cast,,,,61,30,108,199
 Bartholomew,Pct. 2300,President,,R,Trump\Pence,40,12,60,112
 Bartholomew,Pct. 2300,President,,D,Biden\Harris,19,18,46,83
 Bartholomew,Pct. 2300,President,,L,Jorgense\Cohen,2,0,2,4
@@ -475,7 +475,7 @@ Bartholomew,Pct. 2300,State Senate,44,D,Cynthia (Cinde) Wirth,21,18,48,87
 Bartholomew,Pct. 2300,State Representative,59,R,Ryan Lauer,35,12,59,106
 Bartholomew,Pct. 2300,State Representative,59,D,Dale Nowlin,24,17,47,88
 Bartholomew,Pct. 2400,Registered Voters,,,,,,,654
-Bartholomew,Pct. 2400,Ballots Cast ,,,,104,45,175,324
+Bartholomew,Pct. 2400,Ballots Cast,,,,104,45,175,324
 Bartholomew,Pct. 2400,President,,R,Trump\Pence,81,15,97,193
 Bartholomew,Pct. 2400,President,,D,Biden\Harris,18,29,70,117
 Bartholomew,Pct. 2400,President,,L,Jorgense\Cohen,2,0,5,7
@@ -494,7 +494,7 @@ Bartholomew,Pct. 2400,State Senate,44,D,Cynthia (Cinde) Wirth,21,24,70,115
 Bartholomew,Pct. 2400,State Representative,59,R,Ryan Lauer,72,15,97,184
 Bartholomew,Pct. 2400,State Representative,59,D,Dale Nowlin,23,28,72,123
 Bartholomew,Pct. 2500,Registered Voters,,,,,,,764
-Bartholomew,Pct. 2500,Ballots Cast ,,,,90,121,362,573
+Bartholomew,Pct. 2500,Ballots Cast,,,,90,121,362,573
 Bartholomew,Pct. 2500,President,,R,Trump\Pence,58,52,194,304
 Bartholomew,Pct. 2500,President,,D,Biden\Harris,25,67,162,254
 Bartholomew,Pct. 2500,President,,L,Jorgense\Cohen,3,1,6,10
@@ -513,7 +513,7 @@ Bartholomew,Pct. 2500,State Senate,44,D,Cynthia (Cinde) Wirth,,,,
 Bartholomew,Pct. 2500,State Representative,59,R,Ryan Lauer,55,49,187,291
 Bartholomew,Pct. 2500,State Representative,59,D,Dale Nowlin,30,64,170,264
 Bartholomew,Pct. 2600,Registered Voters,,,,,,,958
-Bartholomew,Pct. 2600,Ballots Cast ,,,,77,131,494,702
+Bartholomew,Pct. 2600,Ballots Cast,,,,77,131,494,702
 Bartholomew,Pct. 2600,President,,R,Trump\Pence,59,34,249,342
 Bartholomew,Pct. 2600,President,,D,Biden\Harris,15,95,234,344
 Bartholomew,Pct. 2600,President,,L,Jorgense\Cohen,3,1,6,10
@@ -532,7 +532,7 @@ Bartholomew,Pct. 2600,State Senate,44,D,Cynthia (Cinde) Wirth,,,,
 Bartholomew,Pct. 2600,State Representative,59,R,Ryan Lauer,53,35,225,313
 Bartholomew,Pct. 2600,State Representative,59,D,Dale Nowlin,23,90,260,373
 Bartholomew,Pct. 2700,Registered Voters,,,,,,,1070
-Bartholomew,Pct. 2700,Ballots Cast ,,,,128,161,547,836
+Bartholomew,Pct. 2700,Ballots Cast,,,,128,161,547,836
 Bartholomew,Pct. 2700,President,,R,Trump\Pence,79,54,266,399
 Bartholomew,Pct. 2700,President,,D,Biden\Harris,43,101,256,400
 Bartholomew,Pct. 2700,President,,L,Jorgense\Cohen,6,2,20,28
@@ -551,7 +551,7 @@ Bartholomew,Pct. 2700,State Senate,44,D,Cynthia (Cinde) Wirth,,,,
 Bartholomew,Pct. 2700,State Representative,59,R,Ryan Lauer,75,55,274,404
 Bartholomew,Pct. 2700,State Representative,59,D,Dale Nowlin,49,99,260,408
 Bartholomew,Pct. 2800,Registered Voters,,,,,,,1139
-Bartholomew,Pct. 2800,Ballots Cast ,,,,189,85,444,718
+Bartholomew,Pct. 2800,Ballots Cast,,,,189,85,444,718
 Bartholomew,Pct. 2800,President,,R,Trump\Pence,124,30,250,404
 Bartholomew,Pct. 2800,President,,D,Biden\Harris,52,54,176,282
 Bartholomew,Pct. 2800,President,,L,Jorgense\Cohen,11,1,11,23
@@ -570,7 +570,7 @@ Bartholomew,Pct. 2800,State Senate,44,D,Cynthia (Cinde) Wirth,,,,
 Bartholomew,Pct. 2800,State Representative,59,R,Ryan Lauer,117,28,252,397
 Bartholomew,Pct. 2800,State Representative,59,D,Dale Nowlin,63,52,177,292
 Bartholomew,Pct. 2850,Registered Voters,,,,,,,262
-Bartholomew,Pct. 2850,Ballots Cast ,,,,47,14,81,142
+Bartholomew,Pct. 2850,Ballots Cast,,,,47,14,81,142
 Bartholomew,Pct. 2850,President,,R,Trump\Pence,40,5,43,88
 Bartholomew,Pct. 2850,President,,D,Biden\Harris,6,9,38,53
 Bartholomew,Pct. 2850,President,,L,Jorgense\Cohen,1,0,0,1
@@ -589,7 +589,7 @@ Bartholomew,Pct. 2850,State Senate,44,D,Cynthia (Cinde) Wirth,,,,
 Bartholomew,Pct. 2850,State Representative,59,R,Ryan Lauer,34,3,42,79
 Bartholomew,Pct. 2850,State Representative,59,D,Dale Nowlin,12,11,38,61
 Bartholomew,Pct. 2900,Registered Voters,,,,,,,1018
-Bartholomew,Pct. 2900,Ballots Cast ,,,,133,203,471,807
+Bartholomew,Pct. 2900,Ballots Cast,,,,133,203,471,807
 Bartholomew,Pct. 2900,President,,R,Trump\Pence,93,80,272,445
 Bartholomew,Pct. 2900,President,,D,Biden\Harris,32,118,179,329
 Bartholomew,Pct. 2900,President,,L,Jorgense\Cohen,7,1,10,18
@@ -608,7 +608,7 @@ Bartholomew,Pct. 2900,State Senate,44,D,Cynthia (Cinde) Wirth,,,,
 Bartholomew,Pct. 2900,State Representative,59,R,Ryan Lauer,89,88,275,452
 Bartholomew,Pct. 2900,State Representative,59,D,Dale Nowlin,40,108,186,334
 Bartholomew,Pct. 3000,Registered Voters,,,,,,,689
-Bartholomew,Pct. 3000,Ballots Cast ,,,,94,63,272,429
+Bartholomew,Pct. 3000,Ballots Cast,,,,94,63,272,429
 Bartholomew,Pct. 3000,President,,R,Trump\Pence,79,33,186,298
 Bartholomew,Pct. 3000,President,,D,Biden\Harris,11,28,78,117
 Bartholomew,Pct. 3000,President,,L,Jorgense\Cohen,3,2,6,11
@@ -627,7 +627,7 @@ Bartholomew,Pct. 3000,State Senate,44,D,Cynthia (Cinde) Wirth,15,27,71,113
 Bartholomew,Pct. 3000,State Representative,59,R,Ryan Lauer,73,30,194,297
 Bartholomew,Pct. 3000,State Representative,59,D,Dale Nowlin,16,31,73,120
 Bartholomew,Pct. 3100,Registered Voters,,,,,,,855
-Bartholomew,Pct. 3100,Ballots Cast ,,,,123,137,351,611
+Bartholomew,Pct. 3100,Ballots Cast,,,,123,137,351,611
 Bartholomew,Pct. 3100,President,,R,Trump\Pence,100,60,237,397
 Bartholomew,Pct. 3100,President,,D,Biden\Harris,21,76,95,192
 Bartholomew,Pct. 3100,President,,L,Jorgense\Cohen,2,0,10,12
@@ -646,7 +646,7 @@ Bartholomew,Pct. 3100,State Senate,44,D,Cynthia (Cinde) Wirth,23,75,85,183
 Bartholomew,Pct. 3100,State Representative,59,R,Ryan Lauer,91,58,245,394
 Bartholomew,Pct. 3100,State Representative,59,D,Dale Nowlin,28,76,91,195
 Bartholomew,Pct. 3200,Registered Voters,,,,,,,15
-Bartholomew,Pct. 3200,Ballots Cast ,,,,1,5,7,13
+Bartholomew,Pct. 3200,Ballots Cast,,,,1,5,7,13
 Bartholomew,Pct. 3200,President,,R,Trump\Pence,0,0,5,5
 Bartholomew,Pct. 3200,President,,D,Biden\Harris,1,5,2,8
 Bartholomew,Pct. 3200,President,,L,Jorgense\Cohen,0,0,0,0
@@ -665,7 +665,7 @@ Bartholomew,Pct. 3200,State Senate,44,D,Cynthia (Cinde) Wirth,,,,
 Bartholomew,Pct. 3200,State Representative,59,R,Ryan Lauer,1,0,5,6
 Bartholomew,Pct. 3200,State Representative,59,D,Dale Nowlin,0,5,1,6
 Bartholomew,Pct. 3300,Registered Voters,,,,,,,861
-Bartholomew,Pct. 3300,Ballots Cast ,,,,83,127,478,688
+Bartholomew,Pct. 3300,Ballots Cast,,,,83,127,478,688
 Bartholomew,Pct. 3300,President,,R,Trump\Pence,56,41,260,357
 Bartholomew,Pct. 3300,President,,D,Biden\Harris,14,83,202,299
 Bartholomew,Pct. 3300,President,,L,Jorgense\Cohen,10,2,10,22
@@ -684,7 +684,7 @@ Bartholomew,Pct. 3300,State Senate,44,D,Cynthia (Cinde) Wirth,,,,
 Bartholomew,Pct. 3300,State Representative,59,R,Ryan Lauer,52,38,244,334
 Bartholomew,Pct. 3300,State Representative,59,D,Dale Nowlin,24,86,224,334
 Bartholomew,Pct. 3350,Registered Voters,,,,,,,266
-Bartholomew,Pct. 3350,Ballots Cast ,,,,22,43,114,179
+Bartholomew,Pct. 3350,Ballots Cast,,,,22,43,114,179
 Bartholomew,Pct. 3350,President,,R,Trump\Pence,16,17,83,116
 Bartholomew,Pct. 3350,President,,D,Biden\Harris,5,26,28,59
 Bartholomew,Pct. 3350,President,,L,Jorgense\Cohen,1,0,3,4
@@ -703,7 +703,7 @@ Bartholomew,Pct. 3350,State Senate,44,D,Cynthia (Cinde) Wirth,,,,
 Bartholomew,Pct. 3350,State Representative,59,R,Ryan Lauer,14,16,74,104
 Bartholomew,Pct. 3350,State Representative,59,D,Dale Nowlin,8,24,38,70
 Bartholomew,Pct. 3400,Registered Voters,,,,,,,912
-Bartholomew,Pct. 3400,Ballots Cast ,,,,151,105,372,628
+Bartholomew,Pct. 3400,Ballots Cast,,,,151,105,372,628
 Bartholomew,Pct. 3400,President,,R,Trump\Pence,112,34,272,418
 Bartholomew,Pct. 3400,President,,D,Biden\Harris,34,67,90,191
 Bartholomew,Pct. 3400,President,,L,Jorgense\Cohen,4,1,6,11
@@ -722,7 +722,7 @@ Bartholomew,Pct. 3400,State Senate,44,D,Cynthia (Cinde) Wirth,,,,
 Bartholomew,Pct. 3400,State Representative,59,R,Ryan Lauer,103,36,257,396
 Bartholomew,Pct. 3400,State Representative,59,D,Dale Nowlin,42,66,104,212
 Bartholomew,Pct. 3500,Registered Voters,,,,,,,726
-Bartholomew,Pct. 3500,Ballots Cast ,,,,132,97,281,510
+Bartholomew,Pct. 3500,Ballots Cast,,,,132,97,281,510
 Bartholomew,Pct. 3500,President,,R,Trump\Pence,95,54,210,359
 Bartholomew,Pct. 3500,President,,D,Biden\Harris,29,40,62,131
 Bartholomew,Pct. 3500,President,,L,Jorgense\Cohen,6,2,5,13
@@ -740,7 +740,7 @@ Bartholomew,Pct. 3500,State Senate,44,R,Eric A Koch,,,,
 Bartholomew,Pct. 3500,State Senate,44,D,Cynthia (Cinde) Wirth,,,,
 Bartholomew,Pct. 3500,State Representative,57,R,Sean R Eberhart,105,66,228,399
 Bartholomew,Pct. 3550,Registered Voters,,,,,,,532
-Bartholomew,Pct. 3550,Ballots Cast ,,,,70,81,255,406
+Bartholomew,Pct. 3550,Ballots Cast,,,,70,81,255,406
 Bartholomew,Pct. 3550,President,,R,Trump\Pence,46,29,158,233
 Bartholomew,Pct. 3550,President,,D,Biden\Harris,22,50,90,162
 Bartholomew,Pct. 3550,President,,L,Jorgense\Cohen,1,0,3,4
@@ -758,7 +758,7 @@ Bartholomew,Pct. 3550,State Senate,44,R,Eric A Koch,,,,
 Bartholomew,Pct. 3550,State Senate,44,D,Cynthia (Cinde) Wirth,,,,
 Bartholomew,Pct. 3550,State Representative,57,R,Sean R Eberhart,53,44,187,284
 Bartholomew,Pct. 3600,Registered Voters,,,,,,,1069
-Bartholomew,Pct. 3600,Ballots Cast ,,,,178,123,438,739
+Bartholomew,Pct. 3600,Ballots Cast,,,,178,123,438,739
 Bartholomew,Pct. 3600,President,,R,Trump\Pence,142,52,328,522
 Bartholomew,Pct. 3600,President,,D,Biden\Harris,32,67,96,195
 Bartholomew,Pct. 3600,President,,L,Jorgense\Cohen,4,1,9,14
@@ -776,7 +776,7 @@ Bartholomew,Pct. 3600,State Senate,44,R,Eric A Koch,,,,
 Bartholomew,Pct. 3600,State Senate,44,D,Cynthia (Cinde) Wirth,,,,
 Bartholomew,Pct. 3600,State Representative,57,R,Sean R Eberhart,148,68,364,580
 Bartholomew,Pct. 3700,Registered Voters,,,,,,,744
-Bartholomew,Pct. 3700,Ballots Cast ,,,,142,87,288,517
+Bartholomew,Pct. 3700,Ballots Cast,,,,142,87,288,517
 Bartholomew,Pct. 3700,President,,R,Trump\Pence,121,44,216,381
 Bartholomew,Pct. 3700,President,,D,Biden\Harris,14,40,65,119
 Bartholomew,Pct. 3700,President,,L,Jorgense\Cohen,5,2,5,12
@@ -794,7 +794,7 @@ Bartholomew,Pct. 3700,State Senate,44,R,Eric A Koch,,,,
 Bartholomew,Pct. 3700,State Senate,44,D,Cynthia (Cinde) Wirth,,,,
 Bartholomew,Pct. 3700,State Representative,57,R,Sean R Eberhart,127,48,236,411
 Bartholomew,Pct. 3800,Registered Voters,,,,,,,1141
-Bartholomew,Pct. 3800,Ballots Cast ,,,,331,134,397,862
+Bartholomew,Pct. 3800,Ballots Cast,,,,331,134,397,862
 Bartholomew,Pct. 3800,President,,R,Trump\Pence,267,72,305,644
 Bartholomew,Pct. 3800,President,,D,Biden\Harris,52,59,77,188
 Bartholomew,Pct. 3800,President,,L,Jorgense\Cohen,9,1,10,20
@@ -812,7 +812,7 @@ Bartholomew,Pct. 3800,State Senate,44,R,Eric A Koch,,,,
 Bartholomew,Pct. 3800,State Senate,44,D,Cynthia (Cinde) Wirth,,,,
 Bartholomew,Pct. 3800,State Representative,57,R,Sean R Eberhart,290,73,325,688
 Bartholomew,Pct. 3900,Registered Voters,,,,,,,248
-Bartholomew,Pct. 3900,Ballots Cast ,,,,40,17,59,116
+Bartholomew,Pct. 3900,Ballots Cast,,,,40,17,59,116
 Bartholomew,Pct. 3900,President,,R,Trump\Pence,40,8,45,93
 Bartholomew,Pct. 3900,President,,D,Biden\Harris,0,7,11,18
 Bartholomew,Pct. 3900,President,,L,Jorgense\Cohen,0,1,1,2
@@ -831,7 +831,7 @@ Bartholomew,Pct. 3900,State Senate,44,D,Cynthia (Cinde) Wirth,,,,
 Bartholomew,Pct. 3900,State Representative,59,R,Ryan Lauer,38,8,44,90
 Bartholomew,Pct. 3900,State Representative,59,D,Dale Nowlin,1,7,13,21
 Bartholomew,Pct. 4000,Registered Voters,,,,,,,561
-Bartholomew,Pct. 4000,Ballots Cast ,,,,102,54,198,354
+Bartholomew,Pct. 4000,Ballots Cast,,,,102,54,198,354
 Bartholomew,Pct. 4000,President,,R,Trump\Pence,85,20,136,241
 Bartholomew,Pct. 4000,President,,D,Biden\Harris,16,33,55,104
 Bartholomew,Pct. 4000,President,,L,Jorgense\Cohen,1,0,3,4
@@ -850,7 +850,7 @@ Bartholomew,Pct. 4000,State Senate,44,D,Cynthia (Cinde) Wirth,,,,
 Bartholomew,Pct. 4000,State Representative,59,R,Ryan Lauer,79,21,137,237
 Bartholomew,Pct. 4000,State Representative,59,D,Dale Nowlin,23,29,56,108
 Bartholomew,Pct. 4100,Registered Voters,,,,,,,594
-Bartholomew,Pct. 4100,Ballots Cast ,,,,105,61,245,411
+Bartholomew,Pct. 4100,Ballots Cast,,,,105,61,245,411
 Bartholomew,Pct. 4100,President,,R,Trump\Pence,82,26,193,301
 Bartholomew,Pct. 4100,President,,D,Biden\Harris,17,34,43,94
 Bartholomew,Pct. 4100,President,,L,Jorgense\Cohen,3,1,3,7
@@ -869,7 +869,7 @@ Bartholomew,Pct. 4100,State Senate,44,D,Cynthia (Cinde) Wirth,,,,
 Bartholomew,Pct. 4100,State Representative,59,R,Ryan Lauer,83,26,182,291
 Bartholomew,Pct. 4100,State Representative,59,D,Dale Nowlin,20,34,55,109
 Bartholomew,Pct. 4200,Registered Voters,,,,,,,1099
-Bartholomew,Pct. 4200,Ballots Cast ,,,,242,122,383,747
+Bartholomew,Pct. 4200,Ballots Cast,,,,242,122,383,747
 Bartholomew,Pct. 4200,President,,R,Trump\Pence,194,57,264,515
 Bartholomew,Pct. 4200,President,,D,Biden\Harris,37,60,101,198
 Bartholomew,Pct. 4200,President,,L,Jorgense\Cohen,9,2,12,23
@@ -888,7 +888,7 @@ Bartholomew,Pct. 4200,State Senate,44,D,Cynthia (Cinde) Wirth,,,,
 Bartholomew,Pct. 4200,State Representative,59,R,Ryan Lauer,188,54,265,507
 Bartholomew,Pct. 4200,State Representative,59,D,Dale Nowlin,43,57,106,206
 Bartholomew,Pct. 4300,Registered Voters,,,,,,,473
-Bartholomew,Pct. 4300,Ballots Cast ,,,,103,38,179,320
+Bartholomew,Pct. 4300,Ballots Cast,,,,103,38,179,320
 Bartholomew,Pct. 4300,President,,R,Trump\Pence,77,21,137,235
 Bartholomew,Pct. 4300,President,,D,Biden\Harris,21,15,36,72
 Bartholomew,Pct. 4300,President,,L,Jorgense\Cohen,5,2,5,12
@@ -907,7 +907,7 @@ Bartholomew,Pct. 4300,State Senate,44,D,Cynthia (Cinde) Wirth,,,,
 Bartholomew,Pct. 4300,State Representative,59,R,Ryan Lauer,73,20,132,225
 Bartholomew,Pct. 4300,State Representative,59,D,Dale Nowlin,26,17,41,84
 Bartholomew,Pct. 4350,Registered Voters,,,,,,,1088
-Bartholomew,Pct. 4350,Ballots Cast ,,,,213,54,334,601
+Bartholomew,Pct. 4350,Ballots Cast,,,,213,54,334,601
 Bartholomew,Pct. 4350,President,,R,Trump\Pence,156,22,214,392
 Bartholomew,Pct. 4350,President,,D,Biden\Harris,49,32,112,193
 Bartholomew,Pct. 4350,President,,L,Jorgense\Cohen,6,0,8,14
@@ -926,7 +926,7 @@ Bartholomew,Pct. 4350,State Senate,44,D,Cynthia (Cinde) Wirth,,,,
 Bartholomew,Pct. 4350,State Representative,59,R,Ryan Lauer,145,25,207,377
 Bartholomew,Pct. 4350,State Representative,59,D,Dale Nowlin,57,28,117,202
 Bartholomew,Pct. 4400,Registered Voters,,,,,,,1099
-Bartholomew,Pct. 4400,Ballots Cast ,,,,175,147,485,807
+Bartholomew,Pct. 4400,Ballots Cast,,,,175,147,485,807
 Bartholomew,Pct. 4400,President,,R,Trump\Pence,151,69,328,548
 Bartholomew,Pct. 4400,President,,D,Biden\Harris,19,73,140,232
 Bartholomew,Pct. 4400,President,,L,Jorgense\Cohen,3,5,12,20
@@ -945,7 +945,7 @@ Bartholomew,Pct. 4400,State Senate,44,D,Cynthia (Cinde) Wirth,19,70,128,217
 Bartholomew,Pct. 4400,State Representative,59,R,Ryan Lauer,141,64,320,525
 Bartholomew,Pct. 4400,State Representative,59,D,Dale Nowlin,22,79,147,248
 Bartholomew,Pct. 4450,Registered Voters,,,,,,,796
-Bartholomew,Pct. 4450,Ballots Cast ,,,,81,157,387,625
+Bartholomew,Pct. 4450,Ballots Cast,,,,81,157,387,625
 Bartholomew,Pct. 4450,President,,R,Trump\Pence,51,44,178,273
 Bartholomew,Pct. 4450,President,,D,Biden\Harris,27,107,201,335
 Bartholomew,Pct. 4450,President,,L,Jorgense\Cohen,3,4,3,10
@@ -964,7 +964,7 @@ Bartholomew,Pct. 4450,State Senate,44,D,Cynthia (Cinde) Wirth,26,89,168,283
 Bartholomew,Pct. 4450,State Representative,59,R,Ryan Lauer,49,44,184,277
 Bartholomew,Pct. 4450,State Representative,59,D,Dale Nowlin,29,109,198,336
 Bartholomew,Pct. 4500,Registered Voters,,,,,,,1070
-Bartholomew,Pct. 4500,Ballots Cast ,,,,145,152,516,813
+Bartholomew,Pct. 4500,Ballots Cast,,,,145,152,516,813
 Bartholomew,Pct. 4500,President,,R,Trump\Pence,122,62,365,549
 Bartholomew,Pct. 4500,President,,D,Biden\Harris,16,82,143,241
 Bartholomew,Pct. 4500,President,,L,Jorgense\Cohen,6,1,3,10
@@ -983,7 +983,7 @@ Bartholomew,Pct. 4500,State Senate,44,D,Cynthia (Cinde) Wirth,21,73,127,221
 Bartholomew,Pct. 4500,State Representative,59,R,Ryan Lauer,114,66,356,536
 Bartholomew,Pct. 4500,State Representative,59,D,Dale Nowlin,27,83,153,263
 Bartholomew,Pct. 4550,Registered Voters,,,,,,,254
-Bartholomew,Pct. 4550,Ballots Cast ,,,,17,65,131,213
+Bartholomew,Pct. 4550,Ballots Cast,,,,17,65,131,213
 Bartholomew,Pct. 4550,President,,R,Trump\Pence,14,14,85,113
 Bartholomew,Pct. 4550,President,,D,Biden\Harris,3,48,44,95
 Bartholomew,Pct. 4550,President,,L,Jorgense\Cohen,0,1,0,1
@@ -1002,7 +1002,7 @@ Bartholomew,Pct. 4550,State Senate,44,D,Cynthia (Cinde) Wirth,2,32,35,69
 Bartholomew,Pct. 4550,State Representative,59,R,Ryan Lauer,14,17,86,117
 Bartholomew,Pct. 4550,State Representative,59,D,Dale Nowlin,3,47,44,94
 Bartholomew,Pct. 4600,Registered Voters,,,,,,,992
-Bartholomew,Pct. 4600,Ballots Cast ,,,,298,121,338,757
+Bartholomew,Pct. 4600,Ballots Cast,,,,298,121,338,757
 Bartholomew,Pct. 4600,President,,R,Trump\Pence,244,58,227,529
 Bartholomew,Pct. 4600,President,,D,Biden\Harris,40,59,103,202
 Bartholomew,Pct. 4600,President,,L,Jorgense\Cohen,12,1,5,18
@@ -1020,7 +1020,7 @@ Bartholomew,Pct. 4600,State Senate,44,R,Eric A Koch,,,,
 Bartholomew,Pct. 4600,State Senate,44,D,Cynthia (Cinde) Wirth,,,,
 Bartholomew,Pct. 4600,State Representative,57,R,Sean R. Eberhart,253,66,265,584
 Bartholomew,Pct. 4700,Registered Voters,,,,,,,212
-Bartholomew,Pct. 4700,Ballots Cast ,,,,57,21,59,137
+Bartholomew,Pct. 4700,Ballots Cast,,,,57,21,59,137
 Bartholomew,Pct. 4700,President,,R,Trump\Pence,44,9,46,99
 Bartholomew,Pct. 4700,President,,D,Biden\Harris,11,10,11,32
 Bartholomew,Pct. 4700,President,,L,Jorgense\Cohen,2,1,2,5
@@ -1038,7 +1038,7 @@ Bartholomew,Pct. 4700,State Senate,44,R,Eric A Koch,,,,
 Bartholomew,Pct. 4700,State Senate,44,D,Cynthia (Cinde) Wirth,,,,
 Bartholomew,Pct. 4700,State Representative,57,R,Sean R. Eberhart,50,9,47,106
 Bartholomew,Pct. 4800,Registered Voters,,,,,,,529
-Bartholomew,Pct. 4800,Ballots Cast ,,,,170,60,111,341
+Bartholomew,Pct. 4800,Ballots Cast,,,,170,60,111,341
 Bartholomew,Pct. 4800,President,,R,Trump\Pence,128,27,80,235
 Bartholomew,Pct. 4800,President,,D,Biden\Harris,29,32,26,87
 Bartholomew,Pct. 4800,President,,L,Jorgense\Cohen,7,0,4,11
@@ -1056,7 +1056,7 @@ Bartholomew,Pct. 4800,State Senate,44,R,Eric A Koch,,,,
 Bartholomew,Pct. 4800,State Senate,44,D,Cynthia (Cinde) Wirth,,,,
 Bartholomew,Pct. 4800,State Representative,57,R,Sean R. Eberhart,144,35,84,263
 Bartholomew,Pct. 4900,Registered Voters,,,,,,,718
-Bartholomew,Pct. 4900,Ballots Cast ,,,,233,36,180,449
+Bartholomew,Pct. 4900,Ballots Cast,,,,233,36,180,449
 Bartholomew,Pct. 4900,President,,R,Trump\Pence,196,15,128,339
 Bartholomew,Pct. 4900,President,,D,Biden\Harris,28,19,44,91
 Bartholomew,Pct. 4900,President,,L,Jorgense\Cohen,8,2,5,15
@@ -1074,7 +1074,7 @@ Bartholomew,Pct. 4900,State Senate,44,R,Eric A Koch,,,,
 Bartholomew,Pct. 4900,State Senate,44,D,Cynthia (Cinde) Wirth,,,,
 Bartholomew,Pct. 4900,State Representative,57,R,Sean R. Eberhart,196,18,139,353
 Bartholomew,Pct. 5000,Registered Voters,,,,,,,736
-Bartholomew,Pct. 5000,Ballots Cast ,,,,216,64,278,558
+Bartholomew,Pct. 5000,Ballots Cast,,,,216,64,278,558
 Bartholomew,Pct. 5000,President,,R,Trump\Pence,190,32,220,442
 Bartholomew,Pct. 5000,President,,D,Biden\Harris,24,29,49,102
 Bartholomew,Pct. 5000,President,,L,Jorgense\Cohen,1,2,3,6
@@ -1093,7 +1093,7 @@ Bartholomew,Pct. 5000,State Senate,44,D,Cynthia (Cinde) Wirth,22,26,52,100
 Bartholomew,Pct. 5000,State Representative,59,R,Ryan Lauer,184,33,212,429
 Bartholomew,Pct. 5000,State Representative,59,D,Dale Nowlin,26,28,56,110
 Bartholomew,Pct. 5100,Registered Voters,,,,,,,1420
-Bartholomew,Pct. 5100,Ballots Cast ,,,,326,185,570,1081
+Bartholomew,Pct. 5100,Ballots Cast,,,,326,185,570,1081
 Bartholomew,Pct. 5100,President,,R,Trump\Pence,260,93,420,773
 Bartholomew,Pct. 5100,President,,D,Biden\Harris,56,87,137,280
 Bartholomew,Pct. 5100,President,,L,Jorgense\Cohen,9,2,7,18
@@ -1112,7 +1112,7 @@ Bartholomew,Pct. 5100,State Senate,44,D,Cynthia (Cinde) Wirth,52,82,128,262
 Bartholomew,Pct. 5100,State Representative,59,R,Ryan Lauer,261,91,416,768
 Bartholomew,Pct. 5100,State Representative,59,D,Dale Nowlin,58,85,142,285
 Bartholomew,Pct. 5200,Registered Voters,,,,,,,1065
-Bartholomew,Pct. 5200,Ballots Cast ,,,,266,103,413,782
+Bartholomew,Pct. 5200,Ballots Cast,,,,266,103,413,782
 Bartholomew,Pct. 5200,President,,R,Trump\Pence,212,59,262,533
 Bartholomew,Pct. 5200,President,,D,Biden\Harris,38,39,141,218
 Bartholomew,Pct. 5200,President,,L,Jorgense\Cohen,10,4,6,20
@@ -1130,7 +1130,7 @@ Bartholomew,Pct. 5200,State Senate,44,R,Eric A Koch,,,,
 Bartholomew,Pct. 5200,State Senate,44,D,Cynthia (Cinde) Wirth,,,,
 Bartholomew,Pct. 5200,State Representative,57,R,Sean R. Eberhart,226,64,314,604
 Bartholomew,Pct. 5300,Registered Voters,,,,,,,778
-Bartholomew,Pct. 5300,Ballots Cast ,,,,210,99,284,593
+Bartholomew,Pct. 5300,Ballots Cast,,,,210,99,284,593
 Bartholomew,Pct. 5300,President,,R,Trump\Pence,177,41,219,437
 Bartholomew,Pct. 5300,President,,D,Biden\Harris,30,52,59,141
 Bartholomew,Pct. 5300,President,,L,Jorgense\Cohen,2,4,4,10
@@ -1149,7 +1149,7 @@ Bartholomew,Pct. 5300,State Senate,44,D,Cynthia (Cinde) Wirth,,,,
 Bartholomew,Pct. 5300,State Representative,59,R,Ryan Lauer,159,45,214,418
 Bartholomew,Pct. 5300,State Representative,59,D,Dale Nowlin,48,50,56,154
 Bartholomew,Pct. 5400,Registered Voters,,,,,,,813
-Bartholomew,Pct. 5400,Ballots Cast ,,,,252,89,236,577
+Bartholomew,Pct. 5400,Ballots Cast,,,,252,89,236,577
 Bartholomew,Pct. 5400,President,,R,Trump\Pence,203,46,178,427
 Bartholomew,Pct. 5400,President,,D,Biden\Harris,39,41,51,131
 Bartholomew,Pct. 5400,President,,L,Jorgense\Cohen,4,1,6,11
@@ -1169,7 +1169,7 @@ Bartholomew,Pct. 5400,State Representative,69,R,Jim Lucas,197,49,168,414
 Bartholomew,Pct. 5400,State Representative,69,D,Jeffery W. Prewitt,28,32,44,104
 Bartholomew,Pct. 5400,State Representative,69,I,Katrina (Kat) Hardwick,19,5,17,41
 Bartholomew,Pct. 5500,Registered Voters,,,,,,,621
-Bartholomew,Pct. 5500,Ballots Cast ,,,,113,62,194,369
+Bartholomew,Pct. 5500,Ballots Cast,,,,113,62,194,369
 Bartholomew,Pct. 5500,President,,R,Trump\Pence,83,34,151,268
 Bartholomew,Pct. 5500,President,,D,Biden\Harris,20,27,37,84
 Bartholomew,Pct. 5500,President,,L,Jorgense\Cohen,5,1,5,11
@@ -1188,7 +1188,7 @@ Bartholomew,Pct. 5500,State Senate,44,D,Cynthia (Cinde) Wirth,24,24,37,85
 Bartholomew,Pct. 5500,State Representative,59,R,Ryan Lauer,77,34,145,256
 Bartholomew,Pct. 5500,State Representative,59,D,Dale Nowlin,27,27,43,97
 Bartholomew,Pct. 5600,Registered Voters,,,,,,,958
-Bartholomew,Pct. 5600,Ballots Cast ,,,,181,94,355,630
+Bartholomew,Pct. 5600,Ballots Cast,,,,181,94,355,630
 Bartholomew,Pct. 5600,President,,R,Trump\Pence,156,57,292,505
 Bartholomew,Pct. 5600,President,,D,Biden\Harris,22,34,54,110
 Bartholomew,Pct. 5600,President,,L,Jorgense\Cohen,2,1,5,8
@@ -1207,7 +1207,7 @@ Bartholomew,Pct. 5600,State Senate,44,D,Cynthia (Cinde) Wirth,22,31,52,105
 Bartholomew,Pct. 5600,State Representative,59,R,Ryan Lauer,150,58,284,492
 Bartholomew,Pct. 5600,State Representative,59,D,Dale Nowlin,23,32,58,113
 Bartholomew,Pct. 5700,Registered Voters,,,,,,,685
-Bartholomew,Pct. 5700,Ballots Cast ,,,,166,57,277,500
+Bartholomew,Pct. 5700,Ballots Cast,,,,166,57,277,500
 Bartholomew,Pct. 5700,President,,R,Trump\Pence,141,35,227,403
 Bartholomew,Pct. 5700,President,,D,Biden\Harris,18,22,45,85
 Bartholomew,Pct. 5700,President,,L,Jorgense\Cohen,6,0,1,7
@@ -1226,7 +1226,7 @@ Bartholomew,Pct. 5700,State Senate,44,D,Cynthia (Cinde) Wirth,16,22,32,70
 Bartholomew,Pct. 5700,State Representative,59,R,Ryan Lauer,137,28,222,387
 Bartholomew,Pct. 5700,State Representative,59,D,Dale Nowlin,20,26,49,95
 Bartholomew,Pct. 5800,Registered Voters,,,,,,,375
-Bartholomew,Pct. 5800,Ballots Cast ,,,,87,25,134,246
+Bartholomew,Pct. 5800,Ballots Cast,,,,87,25,134,246
 Bartholomew,Pct. 5800,President,,R,Trump\Pence,64,9,99,172
 Bartholomew,Pct. 5800,President,,D,Biden\Harris,15,16,34,65
 Bartholomew,Pct. 5800,President,,L,Jorgense\Cohen,7,0,1,8

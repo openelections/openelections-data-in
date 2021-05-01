@@ -219,7 +219,7 @@ William Tanoos,217,U.S. House,8,D,Warrick,Boon 10,99,68,0,167
 Write in,218,U.S. House,8,,Warrick,Boon 10,0,0,0,0
 Mark Messmer,219,State Senate,48,R,Warrick,Boon 10,246,77,0,323
 No Candidate Filed,220,State Senate,48,D,Warrick,Boon 10,0,0,0,0
-Ron Bacon ,221,State Representative,75,R,Warrick,Boon 10,202,68,0,270
+Ron Bacon,221,State Representative,75,R,Warrick,Boon 10,202,68,0,270
 ,222,Registered Voters,,,Warrick,Boon 11,,,,812
 ,223,Ballots Cast,,,Warrick,Boon 11,346,,,
 Mike Braun,224,U.S. Senate,,R,Warrick,Boon 11,208,56,0,264
@@ -260,7 +260,7 @@ William Tanoos,258,U.S. House,8,D,Warrick,Boon 12,83,38,0,121
 Write in,259,U.S. House,8,,Warrick,Boon 12,0,0,0,0
 Mark Messmer,260,State Senate,48,R,Warrick,Boon 12,122,38,0,160
 No Candidate Filed,261,State Senate,48,D,Warrick,Boon 12,0,0,0,0
-Ron Bacon ,262,State Representative,75,R,Warrick,Boon 12,92,35,0,127
+Ron Bacon,262,State Representative,75,R,Warrick,Boon 12,92,35,0,127
 ,263,Registered Voters,,,Warrick,Boon 13,,,,447
 ,264,Ballots Cast,,,Warrick,Boon 13,200,,,
 Mike Braun,265,U.S. Senate,,R,Warrick,Boon 13,119,38,0,157
@@ -299,8 +299,8 @@ John C. Aguilera,297,Treasurer of State,,D,Warrick,Boon 14,29,8,0,37
 Larry D Bucshon,298,U.S. House,8,R,Warrick,Boon 14,42,8,0,50
 William Tanoos,299,U.S. House,8,D,Warrick,Boon 14,31,11,0,42
 Write in,300,U.S. House,8,,Warrick,Boon 14,0,0,0,0
-Ron Bacon ,301,State Representative,75,R,Warrick,Boon 14,40,11,0,51
-John Hurley ,302,State Representative,75,D,Warrick,Boon 14,32,8,0,40
+Ron Bacon,301,State Representative,75,R,Warrick,Boon 14,40,11,0,51
+John Hurley,302,State Representative,75,D,Warrick,Boon 14,32,8,0,40
 ,303,Registered Voters,,,Warrick,Boon 15,,,,1464
 ,304,Ballots Cast,,,Warrick,Boon 15,458,,,
 Mike Braun,305,U.S. Senate,,R,Warrick,Boon 15,298,225,0,523
@@ -339,8 +339,8 @@ John C. Aguilera,337,Treasurer of State,,D,Warrick,Campbell,85,43,0,128
 Larry D Bucshon,338,U.S. House,8,R,Warrick,Campbell,277,61,0,338
 William Tanoos,339,U.S. House,8,D,Warrick,Campbell,81,48,0,129
 Write in,340,U.S. House,8,,Warrick,Campbell,1,0,0,1
-Ron Bacon ,341,State Representative,75,R,Warrick,Campbell,278,65,0,343
-John Hurley ,342,State Representative,75,D,Warrick,Campbell,83,43,0,126
+Ron Bacon,341,State Representative,75,R,Warrick,Campbell,278,65,0,343
+John Hurley,342,State Representative,75,D,Warrick,Campbell,83,43,0,126
 ,343,Registered Voters,,,Warrick,Greer 1,,,,810
 ,344,Ballots Cast,,,Warrick,Greer 1,385,,,
 Mike Braun,345,U.S. Senate,,R,Warrick,Greer 1,245,23,0,268
@@ -359,8 +359,8 @@ John C. Aguilera,357,Treasurer of State,,D,Warrick,Greer 1,107,12,0,119
 Larry D Bucshon,358,U.S. House,8,R,Warrick,Greer 1,266,26,0,292
 William Tanoos,359,U.S. House,8,D,Warrick,Greer 1,110,13,0,123
 Write in,360,U.S. House,8,,Warrick,Greer 1,1,0,0,1
-Ron Bacon ,361,State Representative,75,R,Warrick,Greer 1,252,25,0,277
-John Hurley ,362,State Representative,75,D,Warrick,Greer 1,127,14,0,141
+Ron Bacon,361,State Representative,75,R,Warrick,Greer 1,252,25,0,277
+John Hurley,362,State Representative,75,D,Warrick,Greer 1,127,14,0,141
 ,363,Registered Voters,,,Warrick,Greer 2,,,,542
 ,364,Ballots Cast,,,Warrick,Greer 2,285,,,
 Mike Braun,365,U.S. Senate,,R,Warrick,Greer 2,191,22,0,213
@@ -379,8 +379,8 @@ John C. Aguilera,377,Treasurer of State,,D,Warrick,Greer 2,66,11,0,77
 Larry D Bucshon,378,U.S. House,8,R,Warrick,Greer 2,215,21,0,236
 William Tanoos,379,U.S. House,8,D,Warrick,Greer 2,65,12,0,77
 Write in,380,U.S. House,8,,Warrick,Greer 2,0,0,0,0
-Ron Bacon ,381,State Representative,75,R,Warrick,Greer 2,209,23,0,232
-John Hurley ,382,State Representative,75,D,Warrick,Greer 2,66,10,0,76
+Ron Bacon,381,State Representative,75,R,Warrick,Greer 2,209,23,0,232
+John Hurley,382,State Representative,75,D,Warrick,Greer 2,66,10,0,76
 ,383,Registered Voters,,,Warrick,Hart 1,,,,1022
 ,384,Ballots Cast,,,Warrick,Hart 1,553,,,
 Mike Braun,385,U.S. Senate,,R,Warrick,Hart 1,273,36,0,309
@@ -459,8 +459,8 @@ John C. Aguilera,457,Treasurer of State,,D,Warrick,Ohio 1,141,71,0,212
 Larry D Bucshon,458,U.S. House,8,R,Warrick,Ohio 1,319,137,0,456
 William Tanoos,459,U.S. House,8,D,Warrick,Ohio 1,154,73,0,227
 Write in,460,U.S. House,8,,Warrick,Ohio 1,0,0,0,0
-Ron Bacon ,461,State Representative,75,R,Warrick,Ohio 1,295,136,0,431
-John Hurley ,462,State Representative,75,D,Warrick,Ohio 1,177,73,0,250
+Ron Bacon,461,State Representative,75,R,Warrick,Ohio 1,295,136,0,431
+John Hurley,462,State Representative,75,D,Warrick,Ohio 1,177,73,0,250
 ,463,Registered Voters,,,Warrick,Ohio 2,,,,982
 ,464,Ballots Cast,,,Warrick,Ohio 2,396,,,
 Mike Braun,465,U.S. Senate,,R,Warrick,Ohio 2,262,83,0,345
@@ -479,8 +479,8 @@ John C. Aguilera,477,Treasurer of State,,D,Warrick,Ohio 2,105,80,0,185
 Larry D Bucshon,478,U.S. House,8,R,Warrick,Ohio 2,275,90,0,365
 William Tanoos,479,U.S. House,8,D,Warrick,Ohio 2,115,80,0,195
 Write in,480,U.S. House,8,,Warrick,Ohio 2,0,0,0,0
-Ron Bacon ,481,State Representative,75,R,Warrick,Ohio 2,282,93,0,375
-John Hurley ,482,State Representative,75,D,Warrick,Ohio 2,106,77,0,183
+Ron Bacon,481,State Representative,75,R,Warrick,Ohio 2,282,93,0,375
+John Hurley,482,State Representative,75,D,Warrick,Ohio 2,106,77,0,183
 ,483,Registered Voters,,,Warrick,Ohio 3,,,,573
 ,484,Ballots Cast,,,Warrick,Ohio 3,269,,,
 Mike Braun,485,U.S. Senate,,R,Warrick,Ohio 3,146,32,0,178
@@ -539,8 +539,8 @@ John C. Aguilera,537,Treasurer of State,,D,Warrick,Ohio 5,157,39,0,196
 Larry D Bucshon,538,U.S. House,8,R,Warrick,Ohio 5,176,38,0,214
 William Tanoos,539,U.S. House,8,D,Warrick,Ohio 5,163,39,0,202
 Write in,540,U.S. House,8,,Warrick,Ohio 5,0,0,0,0
-Ron Bacon ,541,State Representative,75,R,Warrick,Ohio 5,181,36,0,217
-John Hurley ,542,State Representative,75,D,Warrick,Ohio 5,158,38,0,196
+Ron Bacon,541,State Representative,75,R,Warrick,Ohio 5,181,36,0,217
+John Hurley,542,State Representative,75,D,Warrick,Ohio 5,158,38,0,196
 ,543,Registered Voters,,,Warrick,Ohio 6,,,,340
 ,544,Ballots Cast,,,Warrick,Ohio 6,142,,,
 Mike Braun,545,U.S. Senate,,R,Warrick,Ohio 6,77,36,0,113
@@ -559,8 +559,8 @@ John C. Aguilera,557,Treasurer of State,,D,Warrick,Ohio 6,45,8,0,53
 Larry D Bucshon,558,U.S. House,8,R,Warrick,Ohio 6,93,40,0,133
 William Tanoos,559,U.S. House,8,D,Warrick,Ohio 6,43,7,0,50
 Write in,560,U.S. House,8,,Warrick,Ohio 6,0,0,0,0
-Ron Bacon ,561,State Representative,75,R,Warrick,Ohio 6,94,39,0,133
-John Hurley ,562,State Representative,75,D,Warrick,Ohio 6,44,8,0,52
+Ron Bacon,561,State Representative,75,R,Warrick,Ohio 6,94,39,0,133
+John Hurley,562,State Representative,75,D,Warrick,Ohio 6,44,8,0,52
 ,563,Registered Voters,,,Warrick,Ohio 7,,,,745
 ,564,Ballots Cast,,,Warrick,Ohio 7,274,,,
 Mike Braun,565,U.S. Senate,,R,Warrick,Ohio 7,146,40,0,186
@@ -579,8 +579,8 @@ John C. Aguilera,577,Treasurer of State,,D,Warrick,Ohio 7,111,25,0,136
 Larry D Bucshon,578,U.S. House,8,R,Warrick,Ohio 7,158,41,0,199
 William Tanoos,579,U.S. House,8,D,Warrick,Ohio 7,109,24,0,133
 Write in,580,U.S. House,8,,Warrick,Ohio 7,1,0,0,1
-Ron Bacon ,581,State Representative,75,R,Warrick,Ohio 7,160,39,0,199
-John Hurley ,582,State Representative,75,D,Warrick,Ohio 7,110,27,0,137
+Ron Bacon,581,State Representative,75,R,Warrick,Ohio 7,160,39,0,199
+John Hurley,582,State Representative,75,D,Warrick,Ohio 7,110,27,0,137
 ,583,Registered Voters,,,Warrick,Ohio 8,,,,563
 ,584,Ballots Cast,,,Warrick,Ohio 8,279,,,
 Mike Braun,585,U.S. Senate,,R,Warrick,Ohio 8,177,24,0,201
@@ -659,8 +659,8 @@ John C. Aguilera,657,Treasurer of State,,D,Warrick,Ohio 11,155,31,0,186
 Larry D Bucshon,658,U.S. House,8,R,Warrick,Ohio 11,215,43,0,258
 William Tanoos,659,U.S. House,8,D,Warrick,Ohio 11,160,32,0,192
 Write in,660,U.S. House,8,,Warrick,Ohio 11,0,0,0,0
-Ron Bacon ,661,State Representative,75,R,Warrick,Ohio 11,216,44,0,260
-John Hurley ,662,State Representative,75,D,Warrick,Ohio 11,158,31,0,189
+Ron Bacon,661,State Representative,75,R,Warrick,Ohio 11,216,44,0,260
+John Hurley,662,State Representative,75,D,Warrick,Ohio 11,158,31,0,189
 ,663,Registered Voters,,,Warrick,Ohio 12,,,,1086
 ,664,Ballots Cast,,,Warrick,Ohio 12,379,,,
 Mike Braun,665,U.S. Senate,,R,Warrick,Ohio 12,241,105,0,346
@@ -679,8 +679,8 @@ John C. Aguilera,677,Treasurer of State,,D,Warrick,Ohio 12,112,95,0,207
 Larry D Bucshon,678,U.S. House,8,R,Warrick,Ohio 12,254,114,0,368
 William Tanoos,679,U.S. House,8,D,Warrick,Ohio 12,120,94,0,214
 Write in,680,U.S. House,8,,Warrick,Ohio 12,0,0,0,0
-Ron Bacon ,681,State Representative,75,R,Warrick,Ohio 12,244,112,0,356
-John Hurley ,682,State Representative,75,D,Warrick,Ohio 12,129,95,0,224
+Ron Bacon,681,State Representative,75,R,Warrick,Ohio 12,244,112,0,356
+John Hurley,682,State Representative,75,D,Warrick,Ohio 12,129,95,0,224
 ,683,Registered Voters,,,Warrick,Ohio 13,,,,1475
 ,684,Ballots Cast,,,Warrick,Ohio 13,494,,,
 Mike Braun,685,U.S. Senate,,R,Warrick,Ohio 13,267,159,0,426
@@ -699,8 +699,8 @@ John C. Aguilera,697,Treasurer of State,,D,Warrick,Ohio 13,164,131,0,295
 Larry D Bucshon,698,U.S. House,8,R,Warrick,Ohio 13,307,167,0,474
 William Tanoos,699,U.S. House,8,D,Warrick,Ohio 13,176,131,0,307
 Write in,700,U.S. House,8,,Warrick,Ohio 13,0,0,0,0
-Ron Bacon ,701,State Representative,75,R,Warrick,Ohio 13,303,169,0,472
-John Hurley ,702,State Representative,75,D,Warrick,Ohio 13,179,129,0,308
+Ron Bacon,701,State Representative,75,R,Warrick,Ohio 13,303,169,0,472
+John Hurley,702,State Representative,75,D,Warrick,Ohio 13,179,129,0,308
 ,703,Registered Voters,,,Warrick,Ohio 14,,,,1241
 ,704,Ballots Cast,,,Warrick,Ohio 14,484,,,
 Mike Braun,705,U.S. Senate,,R,Warrick,Ohio 14,256,38,0,294
@@ -719,8 +719,8 @@ John C. Aguilera,717,Treasurer of State,,D,Warrick,Ohio 14,191,51,0,242
 Larry D Bucshon,718,U.S. House,8,R,Warrick,Ohio 14,285,41,0,326
 William Tanoos,719,U.S. House,8,D,Warrick,Ohio 14,192,51,0,243
 Write in,720,U.S. House,8,,Warrick,Ohio 14,0,0,0,0
-Ron Bacon ,721,State Representative,75,R,Warrick,Ohio 14,298,50,0,348
-John Hurley ,722,State Representative,75,D,Warrick,Ohio 14,179,46,0,225
+Ron Bacon,721,State Representative,75,R,Warrick,Ohio 14,298,50,0,348
+John Hurley,722,State Representative,75,D,Warrick,Ohio 14,179,46,0,225
 ,723,Registered Voters,,,Warrick,Ohio 15,,,,1019
 ,724,Ballots Cast,,,Warrick,Ohio 15,388,,,
 Mike Braun,725,U.S. Senate,,R,Warrick,Ohio 15,210,55,0,265
@@ -739,8 +739,8 @@ John C. Aguilera,737,Treasurer of State,,D,Warrick,Ohio 15,137,38,0,175
 Larry D Bucshon,738,U.S. House,8,R,Warrick,Ohio 15,237,57,0,294
 William Tanoos,739,U.S. House,8,D,Warrick,Ohio 15,145,35,0,180
 Write in,740,U.S. House,8,,Warrick,Ohio 15,0,1,0,1
-Ron Bacon ,741,State Representative,75,R,Warrick,Ohio 15,232,59,0,291
-John Hurley ,742,State Representative,75,D,Warrick,Ohio 15,151,34,0,185
+Ron Bacon,741,State Representative,75,R,Warrick,Ohio 15,232,59,0,291
+John Hurley,742,State Representative,75,D,Warrick,Ohio 15,151,34,0,185
 ,743,Registered Voters,,,Warrick,Ohio 16,,,,476
 ,744,Ballots Cast,,,Warrick,Ohio 16,203,,,
 Mike Braun,745,U.S. Senate,,R,Warrick,Ohio 16,102,25,0,127
@@ -759,8 +759,8 @@ John C. Aguilera,757,Treasurer of State,,D,Warrick,Ohio 16,84,27,0,111
 Larry D Bucshon,758,U.S. House,8,R,Warrick,Ohio 16,116,25,0,141
 William Tanoos,759,U.S. House,8,D,Warrick,Ohio 16,86,28,0,114
 Write in,760,U.S. House,8,,Warrick,Ohio 16,0,0,0,0
-Ron Bacon ,761,State Representative,75,R,Warrick,Ohio 16,118,26,0,144
-John Hurley ,762,State Representative,75,D,Warrick,Ohio 16,83,27,0,110
+Ron Bacon,761,State Representative,75,R,Warrick,Ohio 16,118,26,0,144
+John Hurley,762,State Representative,75,D,Warrick,Ohio 16,83,27,0,110
 ,763,Registered Voters,,,Warrick,Ohio 17,,,,620
 ,764,Ballots Cast,,,Warrick,Ohio 17,293,,,
 Mike Braun,765,U.S. Senate,,R,Warrick,Ohio 17,144,36,0,180
@@ -779,8 +779,8 @@ John C. Aguilera,777,Treasurer of State,,D,Warrick,Ohio 17,123,44,0,167
 Larry D Bucshon,778,U.S. House,8,R,Warrick,Ohio 17,174,37,0,211
 William Tanoos,779,U.S. House,8,D,Warrick,Ohio 17,119,45,0,164
 Write in,780,U.S. House,8,,Warrick,Ohio 17,0,0,0,0
-Ron Bacon ,781,State Representative,75,R,Warrick,Ohio 17,168,38,0,206
-John Hurley ,782,State Representative,75,D,Warrick,Ohio 17,125,42,0,167
+Ron Bacon,781,State Representative,75,R,Warrick,Ohio 17,168,38,0,206
+John Hurley,782,State Representative,75,D,Warrick,Ohio 17,125,42,0,167
 ,783,Registered Voters,,,Warrick,Ohio 18,,,,1207
 ,784,Ballots Cast,,,Warrick,Ohio 18,433,,,
 Mike Braun,785,U.S. Senate,,R,Warrick,Ohio 18,269,86,0,355
@@ -799,8 +799,8 @@ John C. Aguilera,797,Treasurer of State,,D,Warrick,Ohio 18,128,84,0,212
 Larry D Bucshon,798,U.S. House,8,R,Warrick,Ohio 18,292,90,0,382
 William Tanoos,799,U.S. House,8,D,Warrick,Ohio 18,138,80,0,218
 Write in,800,U.S. House,8,,Warrick,Ohio 18,0,2,0,2
-Ron Bacon ,801,State Representative,75,R,Warrick,Ohio 18,283,91,0,374
-John Hurley ,802,State Representative,75,D,Warrick,Ohio 18,144,80,0,224
+Ron Bacon,801,State Representative,75,R,Warrick,Ohio 18,283,91,0,374
+John Hurley,802,State Representative,75,D,Warrick,Ohio 18,144,80,0,224
 ,803,Registered Voters,,,Warrick,Ohio 19,,,,733
 ,804,Ballots Cast,,,Warrick,Ohio 19,350,,,
 Mike Braun,805,U.S. Senate,,R,Warrick,Ohio 19,226,63,0,289
@@ -819,8 +819,8 @@ John C. Aguilera,817,Treasurer of State,,D,Warrick,Ohio 19,82,47,0,129
 Larry D Bucshon,818,U.S. House,8,R,Warrick,Ohio 19,254,65,0,319
 William Tanoos,819,U.S. House,8,D,Warrick,Ohio 19,94,54,0,148
 Write in,820,U.S. House,8,,Warrick,Ohio 19,0,0,0,0
-Ron Bacon ,821,State Representative,75,R,Warrick,Ohio 19,250,69,0,319
-John Hurley ,822,State Representative,75,D,Warrick,Ohio 19,95,50,0,145
+Ron Bacon,821,State Representative,75,R,Warrick,Ohio 19,250,69,0,319
+John Hurley,822,State Representative,75,D,Warrick,Ohio 19,95,50,0,145
 ,823,Registered Voters,,,Warrick,Ohio 20,,,,1125
 ,824,Ballots Cast,,,Warrick,Ohio 20,486,,,
 Mike Braun,825,U.S. Senate,,R,Warrick,Ohio 20,278,110,0,388
@@ -899,8 +899,8 @@ John C. Aguilera,897,Treasurer of State,,D,Warrick,Ohio 23,132,68,0,200
 Larry D Bucshon,898,U.S. House,8,R,Warrick,Ohio 23,238,105,0,343
 William Tanoos,899,U.S. House,8,D,Warrick,Ohio 23,143,68,0,211
 Write in,900,U.S. House,8,,Warrick,Ohio 23,0,0,0,0
-Ron Bacon ,901,State Representative,75,R,Warrick,Ohio 23,235,104,0,339
-John Hurley ,902,State Representative,75,D,Warrick,Ohio 23,143,71,0,214
+Ron Bacon,901,State Representative,75,R,Warrick,Ohio 23,235,104,0,339
+John Hurley,902,State Representative,75,D,Warrick,Ohio 23,143,71,0,214
 ,903,Registered Voters,,,Warrick,Ohio 24,,,,670
 ,904,Ballots Cast,,,Warrick,Ohio 24,273,,,
 Mike Braun,905,U.S. Senate,,R,Warrick,Ohio 24,165,57,0,222
@@ -919,8 +919,8 @@ John C. Aguilera,917,Treasurer of State,,D,Warrick,Ohio 24,72,55,0,127
 Larry D Bucshon,918,U.S. House,8,R,Warrick,Ohio 24,191,67,0,258
 William Tanoos,919,U.S. House,8,D,Warrick,Ohio 24,80,55,0,135
 Write in,920,U.S. House,8,,Warrick,Ohio 24,0,0,0,0
-Ron Bacon ,921,State Representative,75,R,Warrick,Ohio 24,185,64,0,249
-John Hurley ,922,State Representative,75,D,Warrick,Ohio 24,85,58,0,143
+Ron Bacon,921,State Representative,75,R,Warrick,Ohio 24,185,64,0,249
+John Hurley,922,State Representative,75,D,Warrick,Ohio 24,85,58,0,143
 ,923,Registered Voters,,,Warrick,Ohio 25,,,,692
 ,924,Ballots Cast,,,Warrick,Ohio 25,273,,,
 Mike Braun,925,U.S. Senate,,R,Warrick,Ohio 25,186,77,0,263
@@ -939,8 +939,8 @@ John C. Aguilera,937,Treasurer of State,,D,Warrick,Ohio 25,72,43,0,115
 Larry D Bucshon,938,U.S. House,8,R,Warrick,Ohio 25,195,80,0,275
 William Tanoos,939,U.S. House,8,D,Warrick,Ohio 25,73,45,0,118
 Write in,940,U.S. House,8,,Warrick,Ohio 25,0,0,0,0
-Ron Bacon ,941,State Representative,75,R,Warrick,Ohio 25,179,80,0,259
-John Hurley ,942,State Representative,75,D,Warrick,Ohio 25,90,46,0,136
+Ron Bacon,941,State Representative,75,R,Warrick,Ohio 25,179,80,0,259
+John Hurley,942,State Representative,75,D,Warrick,Ohio 25,90,46,0,136
 ,943,Registered Voters,,,Warrick,Ohio 26,,,,1310
 ,944,Ballots Cast,,,Warrick,Ohio 26,527,,,
 Mike Braun,945,U.S. Senate,,R,Warrick,Ohio 26,330,82,0,412
@@ -959,8 +959,8 @@ John C. Aguilera,957,Treasurer of State,,D,Warrick,Ohio 26,162,60,0,222
 Larry D Bucshon,958,U.S. House,8,R,Warrick,Ohio 26,350,87,0,437
 William Tanoos,959,U.S. House,8,D,Warrick,Ohio 26,169,65,0,234
 Write in,960,U.S. House,8,,Warrick,Ohio 26,0,0,0,0
-Ron Bacon ,961,State Representative,75,R,Warrick,Ohio 26,350,86,0,436
-John Hurley ,962,State Representative,75,D,Warrick,Ohio 26,170,65,0,235
+Ron Bacon,961,State Representative,75,R,Warrick,Ohio 26,350,86,0,436
+John Hurley,962,State Representative,75,D,Warrick,Ohio 26,170,65,0,235
 ,963,Registered Voters,,,Warrick,Ohio 27,,,,784
 ,964,Ballots Cast,,,Warrick,Ohio 27,339,,,
 Mike Braun,965,U.S. Senate,,R,Warrick,Ohio 27,196,76,0,272
@@ -979,8 +979,8 @@ John C. Aguilera,977,Treasurer of State,,D,Warrick,Ohio 27,115,35,0,150
 Larry D Bucshon,978,U.S. House,8,R,Warrick,Ohio 27,212,80,0,292
 William Tanoos,979,U.S. House,8,D,Warrick,Ohio 27,123,41,0,164
 Write in,980,U.S. House,8,,Warrick,Ohio 27,0,0,0,0
-Ron Bacon ,981,State Representative,75,R,Warrick,Ohio 27,215,76,0,291
-John Hurley ,982,State Representative,75,D,Warrick,Ohio 27,119,46,0,165
+Ron Bacon,981,State Representative,75,R,Warrick,Ohio 27,215,76,0,291
+John Hurley,982,State Representative,75,D,Warrick,Ohio 27,119,46,0,165
 ,983,Registered Voters,,,Warrick,Ohio 28,,,,890
 ,984,Ballots Cast,,,Warrick,Ohio 28,400,,,
 Mike Braun,985,U.S. Senate,,R,Warrick,Ohio 28,249,48,0,297
@@ -1019,8 +1019,8 @@ John C. Aguilera,1017,Treasurer of State,,D,Warrick,Ohio 29,93,67,0,160
 Larry D Bucshon,1018,U.S. House,8,R,Warrick,Ohio 29,289,78,0,367
 William Tanoos,1019,U.S. House,8,D,Warrick,Ohio 29,95,70,0,165
 Write in,1020,U.S. House,8,,Warrick,Ohio 29,0,0,0,0
-Ron Bacon ,1021,State Representative,75,R,Warrick,Ohio 29,277,74,0,351
-John Hurley ,1022,State Representative,75,D,Warrick,Ohio 29,105,73,0,178
+Ron Bacon,1021,State Representative,75,R,Warrick,Ohio 29,277,74,0,351
+John Hurley,1022,State Representative,75,D,Warrick,Ohio 29,105,73,0,178
 ,1023,Registered Voters,,,Warrick,Ohio 30,,,,419
 ,1024,Ballots Cast,,,Warrick,Ohio 30,196,,,
 Mike Braun,1025,U.S. Senate,,R,Warrick,Ohio 30,130,33,0,163
@@ -1039,8 +1039,8 @@ John C. Aguilera,1037,Treasurer of State,,D,Warrick,Ohio 30,51,31,0,82
 Larry D Bucshon,1038,U.S. House,8,R,Warrick,Ohio 30,142,34,0,176
 William Tanoos,1039,U.S. House,8,D,Warrick,Ohio 30,52,32,0,84
 Write in,1040,U.S. House,8,,Warrick,Ohio 30,0,0,0,0
-Ron Bacon ,1041,State Representative,75,R,Warrick,Ohio 30,143,34,0,177
-John Hurley ,1042,State Representative,75,D,Warrick,Ohio 30,50,31,0,81
+Ron Bacon,1041,State Representative,75,R,Warrick,Ohio 30,143,34,0,177
+John Hurley,1042,State Representative,75,D,Warrick,Ohio 30,50,31,0,81
 ,1043,Registered Voters,,,Warrick,Ohio 31,,,,1371
 ,1044,Ballots Cast,,,Warrick,Ohio 31,516,,,
 Mike Braun,1045,U.S. Senate,,R,Warrick,Ohio 31,305,122,0,427
@@ -1099,8 +1099,8 @@ John C. Aguilera,1097,Treasurer of State,,D,Warrick,Ohio 33,91,55,0,146
 Larry D Bucshon,1098,U.S. House,8,R,Warrick,Ohio 33,248,79,0,327
 William Tanoos,1099,U.S. House,8,D,Warrick,Ohio 33,96,66,0,162
 Write in,1100,U.S. House,8,,Warrick,Ohio 33,0,0,0,0
-Ron Bacon ,1101,State Representative,75,R,Warrick,Ohio 33,242,80,0,322
-John Hurley ,1102,State Representative,75,D,Warrick,Ohio 33,100,64,0,164
+Ron Bacon,1101,State Representative,75,R,Warrick,Ohio 33,242,80,0,322
+John Hurley,1102,State Representative,75,D,Warrick,Ohio 33,100,64,0,164
 ,1103,Registered Voters,,,Warrick,Owen,,,,450
 ,1104,Ballots Cast,,,Warrick,Owen,220,,,
 Mike Braun,1105,U.S. Senate,,R,Warrick,Owen,126,14,0,140
@@ -1121,8 +1121,8 @@ William Tanoos,1119,U.S. House,8,D,Warrick,Owen,75,14,0,89
 Write in,1120,U.S. House,8,,Warrick,Owen,1,0,0,1
 Mark Messmer,1121,State Senate,48,R,Warrick,Owen,163,18,0,181
 No Candidate Filed,1122,State Senate,48,D,Warrick,Owen,0,0,0,0
-Ron Bacon ,1123,State Representative,75,R,Warrick,Owen,,,,152
-John Hurley ,1124,State Representative,75,D,Warrick,Owen,,,,93
+Ron Bacon,1123,State Representative,75,R,Warrick,Owen,,,,152
+John Hurley,1124,State Representative,75,D,Warrick,Owen,,,,93
 ,1125,Registered Voters,,,Warrick,Pigeon,,,,682
 ,1126,Ballots Cast,,,Warrick,Pigeon,329,,,
 Mike Braun,1127,U.S. Senate,,R,Warrick,Pigeon,191,22,0,213
@@ -1143,8 +1143,8 @@ William Tanoos,1141,U.S. House,8,D,Warrick,Pigeon,104,23,0,127
 Write in,1142,U.S. House,8,,Warrick,Pigeon,0,0,0,0
 Mark Messmer,1143,State Senate,48,R,Warrick,Pigeon,266,32,0,298
 No Candidate Filed,1144,State Senate,48,D,Warrick,Pigeon,0,0,0,0
-Ron Bacon ,1145,State Representative,75,R,Warrick,Pigeon,,,,233
-John Hurley ,1146,State Representative,75,D,Warrick,Pigeon,,,,137
+Ron Bacon,1145,State Representative,75,R,Warrick,Pigeon,,,,233
+John Hurley,1146,State Representative,75,D,Warrick,Pigeon,,,,137
 ,1147,Registered Voters,,,Warrick,Skelton 1,,,,433
 ,1148,Ballots Cast,,,Warrick,Skelton 1,200,,,
 Mike Braun,1149,U.S. Senate,,R,Warrick,Skelton 1,125,23,0,148
@@ -1165,8 +1165,8 @@ William Tanoos,1163,U.S. House,8,D,Warrick,Skelton 1,52,14,0,66
 Write in,1164,U.S. House,8,,Warrick,Skelton 1,0,0,0,0
 Mark Messmer,1165,State Senate,48,R,Warrick,Skelton 1,153,26,0,179
 No Candidate Filed,1166,State Senate,48,D,Warrick,Skelton 1,0,0,0,0
-Ron Bacon ,1167,State Representative,75,R,Warrick,Skelton 1,,,,164
-John Hurley ,1168,State Representative,75,D,Warrick,Skelton 1,,,,70
+Ron Bacon,1167,State Representative,75,R,Warrick,Skelton 1,,,,164
+John Hurley,1168,State Representative,75,D,Warrick,Skelton 1,,,,70
 ,1169,Registered Voters,,,Warrick,Skelton 2,,,,732
 ,1170,Ballots Cast,,,Warrick,Skelton 2,334,,,
 Mike Braun,1171,U.S. Senate,,R,Warrick,Skelton 2,190,40,0,230
@@ -1187,5 +1187,5 @@ William Tanoos,1185,U.S. House,8,D,Warrick,Skelton 2,113,25,0,138
 Write in,1186,U.S. House,8,,Warrick,Skelton 2,0,0,0,0
 Mark Messmer,1187,State Senate,48,R,Warrick,Skelton 2,258,49,0,307
 No Candidate Filed,1188,State Senate,48,D,Warrick,Skelton 2,0,0,0,0
-Ron Bacon ,1189,State Representative,75,R,Warrick,Skelton 2,,,,250
-John Hurley ,1190,State Representative,75,D,Warrick,Skelton 2,,,,147
+Ron Bacon,1189,State Representative,75,R,Warrick,Skelton 2,,,,250
+John Hurley,1190,State Representative,75,D,Warrick,Skelton 2,,,,147

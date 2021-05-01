@@ -7,11 +7,11 @@ candidate,office,district,party,county,precinct,election_day,absentee,early_voti
 Mike Braun,U.S. Senate,,R,Floyd,FRANKLIN 1,209,99,14,0,322
 Joe Donnelly,U.S. Senate,,D,Floyd,FRANKLIN 1,12,13,1,0,26
 Lucy M Brenton,U.S. Senate,,L,Floyd,FRANKLIN 1,134,83,3,0,220
-Write In ,U.S. Senate,,,Floyd,FRANKLIN 1,0,0,0,0,0
+Write In,U.S. Senate,,,Floyd,FRANKLIN 1,0,0,0,0,0
 Connie Lawson,Secretary of State,,R,Floyd,FRANKLIN 1,206,97,10,0,313
 Jim Harper,Secretary of State,,D,Floyd,FRANKLIN 1,13,12,1,,26
 Mark W. Rutherford,Secretary of State,,L,Floyd,FRANKLIN 1,140,77,5,0,222
-Write In ,Secretary of State,,,Floyd,FRANKLIN 1,0,0,0,0,0
+Write In,Secretary of State,,,Floyd,FRANKLIN 1,0,0,0,0,0
 Tera Klutz,Auditor of State,,R,Floyd,FRANKLIN 1,200,12,137,0,349
 Joselyn Whitticker,Auditor of State,,D,Floyd,FRANKLIN 1,100,13,78,0,191
 John Schick,Auditor of State,,L,Floyd,FRANKLIN 1,11,1,6,0,18
@@ -19,7 +19,7 @@ Kelly Mitchell,Treasurer of State,,R,Floyd,FRANKLIN 1,215,14,143,0,372
 John C. Aguilera,Treasurer of State,,D,Floyd,FRANKLIN 1,91,12,78,0,181
 Trey Hollingsworth,U.S. House,9,R,Floyd,FRANKLIN 1,213,12,136,0,361
 Liz Watson,U.S. House,9,D,Floyd,FRANKLIN 1,112,12,86,0,210
-Write In ,U.S. House,9,,Floyd,FRANKLIN 1,0,1,0,0,1
+Write In,U.S. House,9,,Floyd,FRANKLIN 1,0,1,0,0,1
 Ron Grooms,State Senate,46,R,Floyd,FRANKLIN 1,209,14,146,0,369
 Anna Murray,State Senate,46,D,Floyd,FRANKLIN 1,112,12,76,0,200
 Karen Engleman,State Representative,70,R,Floyd,FRANKLIN 1,211,16,142,0,369
@@ -34,11 +34,11 @@ Sam Charbonne Au,State Representative,72,D,Floyd,FRANKLIN 1,,,,,0
 Mike Braun,U.S. Senate,,R,Floyd,GEORGETOWN 1,210,142,16,0,368
 Joe Donnelly,U.S. Senate,,D,Floyd,GEORGETOWN 1,21,16,1,0,38
 Lucy M Brenton,U.S. Senate,,L,Floyd,GEORGETOWN 1,193,122,7,0,322
-Write In ,U.S. Senate,,,Floyd,GEORGETOWN 1,0,0,0,0,0
+Write In,U.S. Senate,,,Floyd,GEORGETOWN 1,0,0,0,0,0
 Connie Lawson,Secretary of State,,R,Floyd,GEORGETOWN 1,233,123,9,0,365
 Jim Harper,Secretary of State,,D,Floyd,GEORGETOWN 1,21,16,1,0,38
 Mark W. Rutherford,Secretary of State,,L,Floyd,GEORGETOWN 1,197,114,6,0,317
-Write In ,Secretary of State,,,Floyd,GEORGETOWN 1,0,0,0,0,0
+Write In,Secretary of State,,,Floyd,GEORGETOWN 1,0,0,0,0,0
 Tera Klutz,Auditor of State,,R,Floyd,GEORGETOWN 1,228,22,196,0,446
 Joselyn Whitticker,Auditor of State,,D,Floyd,GEORGETOWN 1,120,15,113,0,248
 John Schick,Auditor of State,,L,Floyd,GEORGETOWN 1,12,1,5,0,18
@@ -46,7 +46,7 @@ Kelly Mitchell,Treasurer of State,,R,Floyd,GEORGETOWN 1,233,24,203,0,460
 John C. Aguilera,Treasurer of State,,D,Floyd,GEORGETOWN 1,124,13,113,0,250
 Trey Hollingsworth,U.S. House,9,R,Floyd,GEORGETOWN 1,228,22,196,0,446
 Liz Watson,U.S. House,9,D,Floyd,GEORGETOWN 1,138,16,124,0,278
-Write In ,U.S. House,9,,Floyd,GEORGETOWN 1,0,0,0,0,0
+Write In,U.S. House,9,,Floyd,GEORGETOWN 1,0,0,0,0,0
 Ron Grooms,State Senate,46,R,Floyd,GEORGETOWN 1,232,23,205,0,460
 Anna Murray,State Senate,46,D,Floyd,GEORGETOWN 1,135,15,115,0,265
 Karen Engleman,State Representative,70,R,Floyd,GEORGETOWN 1,,,,,0
@@ -61,11 +61,11 @@ Sam Charbonne Au,State Representative,72,D,Floyd,GEORGETOWN 1,135,15,120,0,270
 Mike Braun,U.S. Senate,,R,Floyd,GEORGETOWN 2,266,149,20,0,435
 Joe Donnelly,U.S. Senate,,D,Floyd,GEORGETOWN 2,25,29,0,0,54
 Lucy M Brenton,U.S. Senate,,L,Floyd,GEORGETOWN 2,199,126,12,0,337
-Write In ,U.S. Senate,,,Floyd,GEORGETOWN 2,0,0,0,0,0
+Write In,U.S. Senate,,,Floyd,GEORGETOWN 2,0,0,0,0,0
 Connie Lawson,Secretary of State,,R,Floyd,GEORGETOWN 2,286,126,21,0,433
 Jim Harper,Secretary of State,,D,Floyd,GEORGETOWN 2,24,28,1,0,53
 Mark W. Rutherford,Secretary of State,,L,Floyd,GEORGETOWN 2,201,126,4,0,331
-Write In ,Secretary of State,,,Floyd,GEORGETOWN 2,0,0,0,0,0
+Write In,Secretary of State,,,Floyd,GEORGETOWN 2,0,0,0,0,0
 Tera Klutz,Auditor of State,,R,Floyd,GEORGETOWN 2,282,24,201,0,507
 Joselyn Whitticker,Auditor of State,,D,Floyd,GEORGETOWN 2,135,25,123,0,283
 John Schick,Auditor of State,,L,Floyd,GEORGETOWN 2,14,4,4,0,22
@@ -73,7 +73,7 @@ Kelly Mitchell,Treasurer of State,,R,Floyd,GEORGETOWN 2,301,25,209,0,535
 John C. Aguilera,Treasurer of State,,D,Floyd,GEORGETOWN 2,125,29,122,0,276
 Trey Hollingsworth,U.S. House,9,R,Floyd,GEORGETOWN 2,281,26,202,0,509
 Liz Watson,U.S. House,9,D,Floyd,GEORGETOWN 2,154,28,134,0,316
-Write In ,U.S. House,9,,Floyd,GEORGETOWN 2,0,0,0,0,0
+Write In,U.S. House,9,,Floyd,GEORGETOWN 2,0,0,0,0,0
 Ron Grooms,State Senate,46,R,Floyd,GEORGETOWN 2,296,27,211,0,534
 Anna Murray,State Senate,46,D,Floyd,GEORGETOWN 2,137,27,125,0,289
 Karen Engleman,State Representative,70,R,Floyd,GEORGETOWN 2,,,,,0
@@ -88,11 +88,11 @@ Sam Charbonne Au,State Representative,72,D,Floyd,GEORGETOWN 2,152,26,119,0,297
 Mike Braun,U.S. Senate,,R,Floyd,GEORGETOWN 3,238,125,8,0,371
 Joe Donnelly,U.S. Senate,,D,Floyd,GEORGETOWN 3,10,21,0,0,31
 Lucy M Brenton,U.S. Senate,,L,Floyd,GEORGETOWN 3,191,100,3,0,294
-Write In ,U.S. Senate,,,Floyd,GEORGETOWN 3,0,0,0,0,0
+Write In,U.S. Senate,,,Floyd,GEORGETOWN 3,0,0,0,0,0
 Connie Lawson,Secretary of State,,R,Floyd,GEORGETOWN 3,245,117,6,0,368
 Jim Harper,Secretary of State,,D,Floyd,GEORGETOWN 3,9,21,0,0,30
 Mark W. Rutherford,Secretary of State,,L,Floyd,GEORGETOWN 3,194,89,5,0,288
-Write In ,Secretary of State,,,Floyd,GEORGETOWN 3,0,0,0,0,0
+Write In,Secretary of State,,,Floyd,GEORGETOWN 3,0,0,0,0,0
 Tera Klutz,Auditor of State,,R,Floyd,GEORGETOWN 3,241,9,184,0,434
 Joselyn Whitticker,Auditor of State,,D,Floyd,GEORGETOWN 3,108,20,95,0,223
 John Schick,Auditor of State,,L,Floyd,GEORGETOWN 3,12,1,6,0,19
@@ -100,7 +100,7 @@ Kelly Mitchell,Treasurer of State,,R,Floyd,GEORGETOWN 3,249,9,191,0,449
 John C. Aguilera,Treasurer of State,,D,Floyd,GEORGETOWN 3,111,20,91,0,222
 Trey Hollingsworth,U.S. House,9,R,Floyd,GEORGETOWN 3,255,11,192,0,458
 Liz Watson,U.S. House,9,D,Floyd,GEORGETOWN 3,117,20,98,0,235
-Write In ,U.S. House,9,,Floyd,GEORGETOWN 3,0,0,1,0,1
+Write In,U.S. House,9,,Floyd,GEORGETOWN 3,0,0,1,0,1
 Ron Grooms,State Senate,46,R,Floyd,GEORGETOWN 3,253,11,191,0,455
 Anna Murray,State Senate,46,D,Floyd,GEORGETOWN 3,116,20,99,0,235
 Karen Engleman,State Representative,70,R,Floyd,GEORGETOWN 3,,,,,0
@@ -115,11 +115,11 @@ Sam Charbonne Au,State Representative,72,D,Floyd,GEORGETOWN 3,124,22,95,0,241
 Mike Braun,U.S. Senate,,R,Floyd,GEORGETOWN 4,324,133,19,0,476
 Joe Donnelly,U.S. Senate,,D,Floyd,GEORGETOWN 4,15,21,1,0,37
 Lucy M Brenton,U.S. Senate,,L,Floyd,GEORGETOWN 4,275,124,5,0,404
-Write In ,U.S. Senate,,,Floyd,GEORGETOWN 4,0,0,0,0,0
+Write In,U.S. Senate,,,Floyd,GEORGETOWN 4,0,0,0,0,0
 Connie Lawson,Secretary of State,,R,Floyd,GEORGETOWN 4,324,121,22,0,467
 Jim Harper,Secretary of State,,D,Floyd,GEORGETOWN 4,17,15,2,0,34
 Mark W. Rutherford,Secretary of State,,L,Floyd,GEORGETOWN 4,277,121,5,0,403
-Write In ,Secretary of State,,,Floyd,GEORGETOWN 4,0,0,0,0,0
+Write In,Secretary of State,,,Floyd,GEORGETOWN 4,0,0,0,0,0
 Tera Klutz,Auditor of State,,R,Floyd,GEORGETOWN 4,319,15,274,0,608
 Joselyn Whitticker,Auditor of State,,D,Floyd,GEORGETOWN 4,121,17,118,0,256
 John Schick,Auditor of State,,L,Floyd,GEORGETOWN 4,21,2,9,0,32
@@ -127,7 +127,7 @@ Kelly Mitchell,Treasurer of State,,R,Floyd,GEORGETOWN 4,344,18,280,0,642
 John C. Aguilera,Treasurer of State,,D,Floyd,GEORGETOWN 4,116,16,119,0,251
 Trey Hollingsworth,U.S. House,9,R,Floyd,GEORGETOWN 4,339,15,278,0,632
 Liz Watson,U.S. House,9,D,Floyd,GEORGETOWN 4,132,21,125,0,278
-Write In ,U.S. House,9,,Floyd,GEORGETOWN 4,0,1,0,0,1
+Write In,U.S. House,9,,Floyd,GEORGETOWN 4,0,1,0,0,1
 Ron Grooms,State Senate,46,R,Floyd,GEORGETOWN 4,339,20,283,0,642
 Anna Murray,State Senate,46,D,Floyd,GEORGETOWN 4,132,16,125,0,273
 Karen Engleman,State Representative,70,R,Floyd,GEORGETOWN 4,,,,,0
@@ -142,11 +142,11 @@ Sam Charbonne Au,State Representative,72,D,Floyd,GEORGETOWN 4,142,17,126,0,285
 Mike Braun,U.S. Senate,,R,Floyd,GEORGETOWN 5,262,171,36,1,470
 Joe Donnelly,U.S. Senate,,D,Floyd,GEORGETOWN 5,27,39,0,0,66
 Lucy M Brenton,U.S. Senate,,L,Floyd,GEORGETOWN 5,173,139,8,0,320
-Write In ,U.S. Senate,,,Floyd,GEORGETOWN 5,0,0,0,0,0
+Write In,U.S. Senate,,,Floyd,GEORGETOWN 5,0,0,0,0,0
 Connie Lawson,Secretary of State,,R,Floyd,GEORGETOWN 5,275,158,26,0,459
 Jim Harper,Secretary of State,,D,Floyd,GEORGETOWN 5,25,39,0,0,64
 Mark W. Rutherford,Secretary of State,,L,Floyd,GEORGETOWN 5,182,126,8,0,316
-Write In ,Secretary of State,,,Floyd,GEORGETOWN 5,0,0,0,0,0
+Write In,Secretary of State,,,Floyd,GEORGETOWN 5,0,0,0,0,0
 Tera Klutz,Auditor of State,,R,Floyd,GEORGETOWN 5,277,20,179,0,476
 Joselyn Whitticker,Auditor of State,,D,Floyd,GEORGETOWN 5,151,43,128,0,322
 John Schick,Auditor of State,,L,Floyd,GEORGETOWN 5,24,1,8,0,33
@@ -154,7 +154,7 @@ Kelly Mitchell,Treasurer of State,,R,Floyd,GEORGETOWN 5,288,24,188,0,500
 John C. Aguilera,Treasurer of State,,D,Floyd,GEORGETOWN 5,163,38,127,0,328
 Trey Hollingsworth,U.S. House,9,R,Floyd,GEORGETOWN 5,279,25,180,0,484
 Liz Watson,U.S. House,9,D,Floyd,GEORGETOWN 5,187,40,139,0,366
-Write In ,U.S. House,9,,Floyd,GEORGETOWN 5,0,0,0,0,0
+Write In,U.S. House,9,,Floyd,GEORGETOWN 5,0,0,0,0,0
 Ron Grooms,State Senate,46,R,Floyd,GEORGETOWN 5,280,28,187,0,495
 Anna Murray,State Senate,46,D,Floyd,GEORGETOWN 5,179,37,136,0,352
 Karen Engleman,State Representative,70,R,Floyd,GEORGETOWN 5,,,,,0
@@ -169,11 +169,11 @@ Sam Charbonne Au,State Representative,72,D,Floyd,GEORGETOWN 5,183,37,137,0,357
 Mike Braun,U.S. Senate,,R,Floyd,GEORGETOWN 6,214,144,19,1,378
 Joe Donnelly,U.S. Senate,,D,Floyd,GEORGETOWN 6,13,4,3,0,20
 Lucy M Brenton,U.S. Senate,,L,Floyd,GEORGETOWN 6,95,90,10,0,195
-Write In ,U.S. Senate,,,Floyd,GEORGETOWN 6,0,0,0,0,0
+Write In,U.S. Senate,,,Floyd,GEORGETOWN 6,0,0,0,0,0
 Connie Lawson,Secretary of State,,R,Floyd,GEORGETOWN 6,221,135,18,0,374
 Jim Harper,Secretary of State,,D,Floyd,GEORGETOWN 6,13,6,1,0,20
 Mark W. Rutherford,Secretary of State,,L,Floyd,GEORGETOWN 6,102,81,9,0,192
-Write In ,Secretary of State,,,Floyd,GEORGETOWN 6,0,0,0,0,0
+Write In,Secretary of State,,,Floyd,GEORGETOWN 6,0,0,0,0,0
 Tera Klutz,Auditor of State,,R,Floyd,GEORGETOWN 6,224,14,95,0,333
 Joselyn Whitticker,Auditor of State,,D,Floyd,GEORGETOWN 6,129,5,90,0,224
 John Schick,Auditor of State,,L,Floyd,GEORGETOWN 6,16,1,7,0,24
@@ -181,7 +181,7 @@ Kelly Mitchell,Treasurer of State,,R,Floyd,GEORGETOWN 6,236,15,111,0,362
 John C. Aguilera,Treasurer of State,,D,Floyd,GEORGETOWN 6,133,4,82,0,219
 Trey Hollingsworth,U.S. House,9,R,Floyd,GEORGETOWN 6,224,13,102,0,339
 Liz Watson,U.S. House,9,D,Floyd,GEORGETOWN 6,151,7,94,0,252
-Write In ,U.S. House,9,,Floyd,GEORGETOWN 6,1,0,0,0,1
+Write In,U.S. House,9,,Floyd,GEORGETOWN 6,1,0,0,0,1
 Ron Grooms,State Senate,46,R,Floyd,GEORGETOWN 6,224,14,98,0,336
 Anna Murray,State Senate,46,D,Floyd,GEORGETOWN 6,149,6,96,0,251
 Karen Engleman,State Representative,70,R,Floyd,GEORGETOWN 6,222,15,108,0,345
@@ -196,11 +196,11 @@ Sam Charbonne Au,State Representative,72,D,Floyd,GEORGETOWN 6,,,,,0
 Mike Braun,U.S. Senate,,R,Floyd,GEORGETOWN 7,145,56,7,0,208
 Joe Donnelly,U.S. Senate,,D,Floyd,GEORGETOWN 7,6,10,0,0,16
 Lucy M Brenton,U.S. Senate,,L,Floyd,GEORGETOWN 7,108,41,3,0,152
-Write In ,U.S. Senate,,,Floyd,GEORGETOWN 7,0,0,0,0,0
+Write In,U.S. Senate,,,Floyd,GEORGETOWN 7,0,0,0,0,0
 Connie Lawson,Secretary of State,,R,Floyd,GEORGETOWN 7,149,46,10,0,205
 Jim Harper,Secretary of State,,D,Floyd,GEORGETOWN 7,7,9,0,0,16
 Mark W. Rutherford,Secretary of State,,L,Floyd,GEORGETOWN 7,107,38,3,0,148
-Write In ,Secretary of State,,,Floyd,GEORGETOWN 7,0,0,0,0,0
+Write In,Secretary of State,,,Floyd,GEORGETOWN 7,0,0,0,0,0
 Tera Klutz,Auditor of State,,R,Floyd,GEORGETOWN 7,146,6,109,0,261
 Joselyn Whitticker,Auditor of State,,D,Floyd,GEORGETOWN 7,46,10,37,0,93
 John Schick,Auditor of State,,L,Floyd,GEORGETOWN 7,11,0,2,0,13
@@ -208,7 +208,7 @@ Kelly Mitchell,Treasurer of State,,R,Floyd,GEORGETOWN 7,151,7,110,0,268
 John C. Aguilera,Treasurer of State,,D,Floyd,GEORGETOWN 7,50,9,35,0,94
 Trey Hollingsworth,U.S. House,9,R,Floyd,GEORGETOWN 7,143,6,107,0,256
 Liz Watson,U.S. House,9,D,Floyd,GEORGETOWN 7,63,10,46,0,119
-Write In ,U.S. House,9,,Floyd,GEORGETOWN 7,0,0,0,0,0
+Write In,U.S. House,9,,Floyd,GEORGETOWN 7,0,0,0,0,0
 Ron Grooms,State Senate,46,R,Floyd,GEORGETOWN 7,150,6,115,0,271
 Anna Murray,State Senate,46,D,Floyd,GEORGETOWN 7,55,10,36,0,101
 Karen Engleman,State Representative,70,R,Floyd,GEORGETOWN 7,,,,,0
@@ -223,11 +223,11 @@ Sam Charbonne Au,State Representative,72,D,Floyd,GEORGETOWN 7,55,9,38,0,102
 Mike Braun,U.S. Senate,,R,Floyd,GREENVILLE 1,229,98,5,0,332
 Joe Donnelly,U.S. Senate,,D,Floyd,GREENVILLE 1,12,9,0,0,21
 Lucy M Brenton,U.S. Senate,,L,Floyd,GREENVILLE 1,242,140,9,0,391
-Write In ,U.S. Senate,,,Floyd,GREENVILLE 1,0,0,0,0,0
+Write In,U.S. Senate,,,Floyd,GREENVILLE 1,0,0,0,0,0
 Connie Lawson,Secretary of State,,R,Floyd,GREENVILLE 1,233,89,7,0,329
 Jim Harper,Secretary of State,,D,Floyd,GREENVILLE 1,10,11,0,0,21
 Mark W. Rutherford,Secretary of State,,L,Floyd,GREENVILLE 1,258,125,4,0,387
-Write In ,Secretary of State,,,Floyd,GREENVILLE 1,0,0,0,0,0
+Write In,Secretary of State,,,Floyd,GREENVILLE 1,0,0,0,0,0
 Tera Klutz,Auditor of State,,R,Floyd,GREENVILLE 1,222,11,250,0,483
 Joselyn Whitticker,Auditor of State,,D,Floyd,GREENVILLE 1,99,10,121,0,230
 John Schick,Auditor of State,,L,Floyd,GREENVILLE 1,5,0,10,0,15
@@ -235,7 +235,7 @@ Kelly Mitchell,Treasurer of State,,R,Floyd,GREENVILLE 1,228,10,250,0,488
 John C. Aguilera,Treasurer of State,,D,Floyd,GREENVILLE 1,97,11,129,0,237
 Trey Hollingsworth,U.S. House,9,R,Floyd,GREENVILLE 1,235,11,253,0,499
 Liz Watson,U.S. House,9,D,Floyd,GREENVILLE 1,100,10,136,0,246
-Write In ,U.S. House,9,,Floyd,GREENVILLE 1,0,0,0,0,0
+Write In,U.S. House,9,,Floyd,GREENVILLE 1,0,0,0,0,0
 Ron Grooms,State Senate,46,R,Floyd,GREENVILLE 1,237,11,267,0,515
 Anna Murray,State Senate,46,D,Floyd,GREENVILLE 1,94,11,124,0,229
 Karen Engleman,State Representative,70,R,Floyd,GREENVILLE 1,236,10,257,0,503
@@ -250,11 +250,11 @@ Sam Charbonne Au,State Representative,72,D,Floyd,GREENVILLE 1,,,,,0
 Mike Braun,U.S. Senate,,R,Floyd,GREENVILLE 2,201,89,20,0,310
 Joe Donnelly,U.S. Senate,,D,Floyd,GREENVILLE 2,12,13,0,0,25
 Lucy M Brenton,U.S. Senate,,L,Floyd,GREENVILLE 2,157,109,11,0,277
-Write In ,U.S. Senate,,,Floyd,GREENVILLE 2,0,0,0,0,0
+Write In,U.S. Senate,,,Floyd,GREENVILLE 2,0,0,0,0,0
 Connie Lawson,Secretary of State,,R,Floyd,GREENVILLE 2,204,84,9,0,297
 Jim Harper,Secretary of State,,D,Floyd,GREENVILLE 2,9,13,2,0,24
 Mark W. Rutherford,Secretary of State,,L,Floyd,GREENVILLE 2,167,97,10,0,274
-Write In ,Secretary of State,,,Floyd,GREENVILLE 2,0,0,0,0,0
+Write In,Secretary of State,,,Floyd,GREENVILLE 2,0,0,0,0,0
 Tera Klutz,Auditor of State,,R,Floyd,GREENVILLE 2,204,9,168,0,381
 Joselyn Whitticker,Auditor of State,,D,Floyd,GREENVILLE 2,80,13,99,0,192
 John Schick,Auditor of State,,L,Floyd,GREENVILLE 2,11,2,5,0,18
@@ -262,7 +262,7 @@ Kelly Mitchell,Treasurer of State,,R,Floyd,GREENVILLE 2,209,11,168,0,388
 John C. Aguilera,Treasurer of State,,D,Floyd,GREENVILLE 2,84,13,103,0,200
 Trey Hollingsworth,U.S. House,9,R,Floyd,GREENVILLE 2,201,12,156,0,369
 Liz Watson,U.S. House,9,D,Floyd,GREENVILLE 2,103,13,122,0,238
-Write In ,U.S. House,9,,Floyd,GREENVILLE 2,0,0,0,0,0
+Write In,U.S. House,9,,Floyd,GREENVILLE 2,0,0,0,0,0
 Ron Grooms,State Senate,46,R,Floyd,GREENVILLE 2,213,10,171,0,394
 Anna Murray,State Senate,46,D,Floyd,GREENVILLE 2,90,15,106,0,211
 Karen Engleman,State Representative,70,R,Floyd,GREENVILLE 2,205,9,158,0,372
@@ -277,11 +277,11 @@ Sam Charbonne Au,State Representative,72,D,Floyd,GREENVILLE 2,,,,,0
 Mike Braun,U.S. Senate,,R,Floyd,GREENVILLE 3,169,76,13,0,258
 Joe Donnelly,U.S. Senate,,D,Floyd,GREENVILLE 3,9,9,4,0,22
 Lucy M Brenton,U.S. Senate,,L,Floyd,GREENVILLE 3,133,83,5,1,222
-Write In ,U.S. Senate,,,Floyd,GREENVILLE 3,0,0,0,0,0
+Write In,U.S. Senate,,,Floyd,GREENVILLE 3,0,0,0,0,0
 Connie Lawson,Secretary of State,,R,Floyd,GREENVILLE 3,180,71,9,0,260
 Jim Harper,Secretary of State,,D,Floyd,GREENVILLE 3,10,10,2,0,22
 Mark W. Rutherford,Secretary of State,,L,Floyd,GREENVILLE 3,131,74,8,0,213
-Write In ,Secretary of State,,,Floyd,GREENVILLE 3,0,0,0,0,0
+Write In,Secretary of State,,,Floyd,GREENVILLE 3,0,0,0,0,0
 Tera Klutz,Auditor of State,,R,Floyd,GREENVILLE 3,175,9,136,0,320
 Joselyn Whitticker,Auditor of State,,D,Floyd,GREENVILLE 3,75,9,72,0,156
 John Schick,Auditor of State,,L,Floyd,GREENVILLE 3,8,3,4,0,15
@@ -289,7 +289,7 @@ Kelly Mitchell,Treasurer of State,,R,Floyd,GREENVILLE 3,183,10,140,0,333
 John C. Aguilera,Treasurer of State,,D,Floyd,GREENVILLE 3,75,11,72,0,158
 Trey Hollingsworth,U.S. House,9,R,Floyd,GREENVILLE 3,183,9,138,0,330
 Liz Watson,U.S. House,9,D,Floyd,GREENVILLE 3,75,11,82,0,168
-Write In ,U.S. House,9,,Floyd,GREENVILLE 3,2,0,0,0,2
+Write In,U.S. House,9,,Floyd,GREENVILLE 3,2,0,0,0,2
 Ron Grooms,State Senate,46,R,Floyd,GREENVILLE 3,183,10,146,0,339
 Anna Murray,State Senate,46,D,Floyd,GREENVILLE 3,76,11,75,0,162
 Karen Engleman,State Representative,70,R,Floyd,GREENVILLE 3,177,13,135,0,325
@@ -304,11 +304,11 @@ Sam Charbonne Au,State Representative,72,D,Floyd,GREENVILLE 3,,,,,0
 Mike Braun,U.S. Senate,,R,Floyd,GREENVILLE 4,202,126,20,0,348
 Joe Donnelly,U.S. Senate,,D,Floyd,GREENVILLE 4,24,17,1,0,42
 Lucy M Brenton,U.S. Senate,,L,Floyd,GREENVILLE 4,177,106,9,0,292
-Write In ,U.S. Senate,,,Floyd,GREENVILLE 4,0,0,0,0,0
+Write In,U.S. Senate,,,Floyd,GREENVILLE 4,0,0,0,0,0
 Connie Lawson,Secretary of State,,R,Floyd,GREENVILLE 4,218,111,16,0,345
 Jim Harper,Secretary of State,,D,Floyd,GREENVILLE 4,26,16,0,0,42
 Mark W. Rutherford,Secretary of State,,L,Floyd,GREENVILLE 4,177,101,7,0,285
-Write In ,Secretary of State,,,Floyd,GREENVILLE 4,0,0,0,0,0
+Write In,Secretary of State,,,Floyd,GREENVILLE 4,0,0,0,0,0
 Tera Klutz,Auditor of State,,R,Floyd,GREENVILLE 4,216,27,171,0,414
 Joselyn Whitticker,Auditor of State,,D,Floyd,GREENVILLE 4,112,15,104,0,231
 John Schick,Auditor of State,,L,Floyd,GREENVILLE 4,10,0,7,0,17
@@ -316,7 +316,7 @@ Kelly Mitchell,Treasurer of State,,R,Floyd,GREENVILLE 4,223,28,175,0,426
 John C. Aguilera,Treasurer of State,,D,Floyd,GREENVILLE 4,112,14,104,0,230
 Trey Hollingsworth,U.S. House,9,R,Floyd,GREENVILLE 4,214,27,178,0,419
 Liz Watson,U.S. House,9,D,Floyd,GREENVILLE 4,134,15,116,0,265
-Write In ,U.S. House,9,,Floyd,GREENVILLE 4,0,0,0,0,0
+Write In,U.S. House,9,,Floyd,GREENVILLE 4,0,0,0,0,0
 Ron Grooms,State Senate,46,R,Floyd,GREENVILLE 4,226,25,182,0,433
 Anna Murray,State Senate,46,D,Floyd,GREENVILLE 4,121,17,109,0,247
 Karen Engleman,State Representative,70,R,Floyd,GREENVILLE 4,223,26,172,0,421
@@ -331,11 +331,11 @@ Sam Charbonne Au,State Representative,72,D,Floyd,GREENVILLE 4,,,,,0
 Mike Braun,U.S. Senate,,R,Floyd,GREENVILLE 5,209,94,17,0,320
 Joe Donnelly,U.S. Senate,,D,Floyd,GREENVILLE 5,4,21,1,0,26
 Lucy M Brenton,U.S. Senate,,L,Floyd,GREENVILLE 5,168,117,13,0,298
-Write In ,U.S. Senate,,,Floyd,GREENVILLE 5,0,0,0,0,0
+Write In,U.S. Senate,,,Floyd,GREENVILLE 5,0,0,0,0,0
 Connie Lawson,Secretary of State,,R,Floyd,GREENVILLE 5,224,77,11,0,312
 Jim Harper,Secretary of State,,D,Floyd,GREENVILLE 5,6,20,0,0,26
 Mark W. Rutherford,Secretary of State,,L,Floyd,GREENVILLE 5,170,114,8,0,292
-Write In ,Secretary of State,,,Floyd,GREENVILLE 5,0,0,0,0,0
+Write In,Secretary of State,,,Floyd,GREENVILLE 5,0,0,0,0,0
 Tera Klutz,Auditor of State,,R,Floyd,GREENVILLE 5,220,5,167,0,392
 Joselyn Whitticker,Auditor of State,,D,Floyd,GREENVILLE 5,77,20,113,0,210
 John Schick,Auditor of State,,L,Floyd,GREENVILLE 5,10,1,10,0,21
@@ -343,7 +343,7 @@ Kelly Mitchell,Treasurer of State,,R,Floyd,GREENVILLE 5,232,7,174,0,413
 John C. Aguilera,Treasurer of State,,D,Floyd,GREENVILLE 5,78,19,117,0,214
 Trey Hollingsworth,U.S. House,9,R,Floyd,GREENVILLE 5,221,4,176,0,401
 Liz Watson,U.S. House,9,D,Floyd,GREENVILLE 5,94,22,121,0,237
-Write In ,U.S. House,9,,Floyd,GREENVILLE 5,1,0,0,0,1
+Write In,U.S. House,9,,Floyd,GREENVILLE 5,1,0,0,0,1
 Ron Grooms,State Senate,46,R,Floyd,GREENVILLE 5,229,7,181,0,417
 Anna Murray,State Senate,46,D,Floyd,GREENVILLE 5,87,19,115,0,221
 Karen Engleman,State Representative,70,R,Floyd,GREENVILLE 5,223,3,165,0,391
@@ -358,11 +358,11 @@ Sam Charbonne Au,State Representative,72,D,Floyd,GREENVILLE 5,,,,,0
 Mike Braun,U.S. Senate,,R,Floyd,GREENVILLE 6,82,45,10,0,137
 Joe Donnelly,U.S. Senate,,D,Floyd,GREENVILLE 6,3,10,0,0,13
 Lucy M Brenton,U.S. Senate,,L,Floyd,GREENVILLE 6,99,35,2,0,136
-Write In ,U.S. Senate,,,Floyd,GREENVILLE 6,0,0,0,0,0
+Write In,U.S. Senate,,,Floyd,GREENVILLE 6,0,0,0,0,0
 Connie Lawson,Secretary of State,,R,Floyd,GREENVILLE 6,87,42,6,0,135
 Jim Harper,Secretary of State,,D,Floyd,GREENVILLE 6,3,9,1,0,13
 Mark W. Rutherford,Secretary of State,,L,Floyd,GREENVILLE 6,103,34,0,1,138
-Write In ,Secretary of State,,,Floyd,GREENVILLE 6,0,0,0,0,0
+Write In,Secretary of State,,,Floyd,GREENVILLE 6,0,0,0,0,0
 Tera Klutz,Auditor of State,,R,Floyd,GREENVILLE 6,87,3,102,0,192
 Joselyn Whitticker,Auditor of State,,D,Floyd,GREENVILLE 6,38,10,36,0,84
 John Schick,Auditor of State,,L,Floyd,GREENVILLE 6,9,0,0,0,9
@@ -370,7 +370,7 @@ Kelly Mitchell,Treasurer of State,,R,Floyd,GREENVILLE 6,95,3,102,0,200
 John C. Aguilera,Treasurer of State,,D,Floyd,GREENVILLE 6,39,10,36,0,85
 Trey Hollingsworth,U.S. House,9,R,Floyd,GREENVILLE 6,87,4,101,0,192
 Liz Watson,U.S. House,9,D,Floyd,GREENVILLE 6,50,9,37,0,96
-Write In ,U.S. House,9,,Floyd,GREENVILLE 6,0,0,0,0,0
+Write In,U.S. House,9,,Floyd,GREENVILLE 6,0,0,0,0,0
 Ron Grooms,State Senate,46,R,Floyd,GREENVILLE 6,93,4,106,0,203
 Anna Murray,State Senate,46,D,Floyd,GREENVILLE 6,43,9,32,0,84
 Karen Engleman,State Representative,70,R,Floyd,GREENVILLE 6,88,3,102,0,193
@@ -385,11 +385,11 @@ Sam Charbonne Au,State Representative,72,D,Floyd,GREENVILLE 6,,,,,0
 Mike Braun,U.S. Senate,,R,Floyd,LAFAYETTE 1,241,124,10,0,375
 Joe Donnelly,U.S. Senate,,D,Floyd,LAFAYETTE 1,30,49,0,0,79
 Lucy M Brenton,U.S. Senate,,L,Floyd,LAFAYETTE 1,231,142,7,0,380
-Write In ,U.S. Senate,,,Floyd,LAFAYETTE 1,0,0,0,0,0
+Write In,U.S. Senate,,,Floyd,LAFAYETTE 1,0,0,0,0,0
 Connie Lawson,Secretary of State,,R,Floyd,LAFAYETTE 1,253,104,8,0,365
 Jim Harper,Secretary of State,,D,Floyd,LAFAYETTE 1,31,45,4,0,80
 Mark W. Rutherford,Secretary of State,,L,Floyd,LAFAYETTE 1,234,135,1,0,370
-Write In ,Secretary of State,,,Floyd,LAFAYETTE 1,0,0,0,0,0
+Write In,Secretary of State,,,Floyd,LAFAYETTE 1,0,0,0,0,0
 Tera Klutz,Auditor of State,,R,Floyd,LAFAYETTE 1,248,29,234,0,511
 Joselyn Whitticker,Auditor of State,,D,Floyd,LAFAYETTE 1,102,46,134,0,282
 John Schick,Auditor of State,,L,Floyd,LAFAYETTE 1,10,2,3,0,15
@@ -397,7 +397,7 @@ Kelly Mitchell,Treasurer of State,,R,Floyd,LAFAYETTE 1,255,32,241,0,528
 John C. Aguilera,Treasurer of State,,D,Floyd,LAFAYETTE 1,103,46,127,0,276
 Trey Hollingsworth,U.S. House,9,R,Floyd,LAFAYETTE 1,244,30,242,0,516
 Liz Watson,U.S. House,9,D,Floyd,LAFAYETTE 1,128,50,141,0,319
-Write In ,U.S. House,9,,Floyd,LAFAYETTE 1,0,0,0,0,0
+Write In,U.S. House,9,,Floyd,LAFAYETTE 1,0,0,0,0,0
 Ron Grooms,State Senate,46,R,Floyd,LAFAYETTE 1,257,32,247,0,536
 Anna Murray,State Senate,46,D,Floyd,LAFAYETTE 1,112,47,133,0,292
 Karen Engleman,State Representative,70,R,Floyd,LAFAYETTE 1,,,,,0
@@ -412,11 +412,11 @@ Sam Charbonne Au,State Representative,72,D,Floyd,LAFAYETTE 1,119,46,144,0,309
 Mike Braun,U.S. Senate,,R,Floyd,LAFAYETTE 2,134,74,10,0,218
 Joe Donnelly,U.S. Senate,,D,Floyd,LAFAYETTE 2,18,22,0,0,40
 Lucy M Brenton,U.S. Senate,,L,Floyd,LAFAYETTE 2,124,77,7,0,208
-Write In ,U.S. Senate,,,Floyd,LAFAYETTE 2,0,0,0,0,0
+Write In,U.S. Senate,,,Floyd,LAFAYETTE 2,0,0,0,0,0
 Connie Lawson,Secretary of State,,R,Floyd,LAFAYETTE 2,138,63,10,0,211
 Jim Harper,Secretary of State,,D,Floyd,LAFAYETTE 2,18,22,0,0,40
 Mark W. Rutherford,Secretary of State,,L,Floyd,LAFAYETTE 2,134,68,6,0,208
-Write In ,Secretary of State,,,Floyd,LAFAYETTE 2,0,0,0,0,0
+Write In,Secretary of State,,,Floyd,LAFAYETTE 2,0,0,0,0,0
 Tera Klutz,Auditor of State,,R,Floyd,LAFAYETTE 2,138,18,127,0,283
 Joselyn Whitticker,Auditor of State,,D,Floyd,LAFAYETTE 2,64,21,75,0,160
 John Schick,Auditor of State,,L,Floyd,LAFAYETTE 2,8,1,4,0,13
@@ -424,7 +424,7 @@ Kelly Mitchell,Treasurer of State,,R,Floyd,LAFAYETTE 2,143,18,135,0,296
 John C. Aguilera,Treasurer of State,,D,Floyd,LAFAYETTE 2,70,22,70,0,162
 Trey Hollingsworth,U.S. House,9,R,Floyd,LAFAYETTE 2,138,18,127,0,283
 Liz Watson,U.S. House,9,D,Floyd,LAFAYETTE 2,78,22,83,0,183
-Write In ,U.S. House,9,,Floyd,LAFAYETTE 2,0,0,0,0,0
+Write In,U.S. House,9,,Floyd,LAFAYETTE 2,0,0,0,0,0
 Ron Grooms,State Senate,46,R,Floyd,LAFAYETTE 2,141,20,134,0,295
 Anna Murray,State Senate,46,D,Floyd,LAFAYETTE 2,77,19,77,0,173
 Karen Engleman,State Representative,70,R,Floyd,LAFAYETTE 2,,,,,0
@@ -439,11 +439,11 @@ Sam Charbonne Au,State Representative,72,D,Floyd,LAFAYETTE 2,71,22,74,0,167
 Mike Braun,U.S. Senate,,R,Floyd,LAFAYETTE 3,155,77,6,0,238
 Joe Donnelly,U.S. Senate,,D,Floyd,LAFAYETTE 3,14,19,3,0,36
 Lucy M Brenton,U.S. Senate,,L,Floyd,LAFAYETTE 3,88,70,6,0,164
-Write In ,U.S. Senate,,,Floyd,LAFAYETTE 3,0,0,0,0,0
+Write In,U.S. Senate,,,Floyd,LAFAYETTE 3,0,0,0,0,0
 Connie Lawson,Secretary of State,,R,Floyd,LAFAYETTE 3,159,68,8,0,235
 Jim Harper,Secretary of State,,D,Floyd,LAFAYETTE 3,14,21,0,0,35
 Mark W. Rutherford,Secretary of State,,L,Floyd,LAFAYETTE 3,95,59,6,0,160
-Write In ,Secretary of State,,,Floyd,LAFAYETTE 3,0,0,0,0,0
+Write In,Secretary of State,,,Floyd,LAFAYETTE 3,0,0,0,0,0
 Tera Klutz,Auditor of State,,R,Floyd,LAFAYETTE 3,163,17,94,0,274
 Joselyn Whitticker,Auditor of State,,D,Floyd,LAFAYETTE 3,62,17,64,0,143
 John Schick,Auditor of State,,L,Floyd,LAFAYETTE 3,6,0,1,0,7
@@ -451,7 +451,7 @@ Kelly Mitchell,Treasurer of State,,R,Floyd,LAFAYETTE 3,167,15,95,0,277
 John C. Aguilera,Treasurer of State,,D,Floyd,LAFAYETTE 3,63,19,65,0,147
 Trey Hollingsworth,U.S. House,9,R,Floyd,LAFAYETTE 3,159,14,91,0,264
 Liz Watson,U.S. House,9,D,Floyd,LAFAYETTE 3,75,22,71,0,168
-Write In ,U.S. House,9,,Floyd,LAFAYETTE 3,0,0,0,0,0
+Write In,U.S. House,9,,Floyd,LAFAYETTE 3,0,0,0,0,0
 Ron Grooms,State Senate,46,R,Floyd,LAFAYETTE 3,168,18,100,0,286
 Anna Murray,State Senate,46,D,Floyd,LAFAYETTE 3,67,18,63,0,148
 Karen Engleman,State Representative,70,R,Floyd,LAFAYETTE 3,,,,,0
@@ -466,11 +466,11 @@ Sam Charbonne Au,State Representative,72,D,Floyd,LAFAYETTE 3,75,22,58,0,155
 Mike Braun,U.S. Senate,,R,Floyd,LAFAYETTE 4,210,136,17,0,363
 Joe Donnelly,U.S. Senate,,D,Floyd,LAFAYETTE 4,9,25,3,0,37
 Lucy M Brenton,U.S. Senate,,L,Floyd,LAFAYETTE 4,128,81,4,0,213
-Write In ,U.S. Senate,,,Floyd,LAFAYETTE 4,0,0,0,0,0
+Write In,U.S. Senate,,,Floyd,LAFAYETTE 4,0,0,0,0,0
 Connie Lawson,Secretary of State,,R,Floyd,LAFAYETTE 4,220,124,16,0,360
 Jim Harper,Secretary of State,,D,Floyd,LAFAYETTE 4,19,23,3,0,45
 Mark W. Rutherford,Secretary of State,,L,Floyd,LAFAYETTE 4,128,75,3,0,206
-Write In ,Secretary of State,,,Floyd,LAFAYETTE 4,0,0,0,0,0
+Write In,Secretary of State,,,Floyd,LAFAYETTE 4,0,0,0,0,0
 Tera Klutz,Auditor of State,,R,Floyd,LAFAYETTE 4,221,22,127,0,370
 Joselyn Whitticker,Auditor of State,,D,Floyd,LAFAYETTE 4,122,22,70,0,214
 John Schick,Auditor of State,,L,Floyd,LAFAYETTE 4,12,1,7,0,20
@@ -478,7 +478,7 @@ Kelly Mitchell,Treasurer of State,,R,Floyd,LAFAYETTE 4,230,21,132,0,383
 John C. Aguilera,Treasurer of State,,D,Floyd,LAFAYETTE 4,126,24,71,0,221
 Trey Hollingsworth,U.S. House,9,R,Floyd,LAFAYETTE 4,218,20,129,0,367
 Liz Watson,U.S. House,9,D,Floyd,LAFAYETTE 4,143,26,83,0,252
-Write In ,U.S. House,9,,Floyd,LAFAYETTE 4,1,0,0,0,1
+Write In,U.S. House,9,,Floyd,LAFAYETTE 4,1,0,0,0,1
 Ron Grooms,State Senate,46,R,Floyd,LAFAYETTE 4,233,23,136,0,392
 Anna Murray,State Senate,46,D,Floyd,LAFAYETTE 4,127,23,75,0,225
 Karen Engleman,State Representative,70,R,Floyd,LAFAYETTE 4,,,,,0
@@ -493,11 +493,11 @@ Sam Charbonne Au,State Representative,72,D,Floyd,LAFAYETTE 4,135,24,81,0,240
 Mike Braun,U.S. Senate,,R,Floyd,LAFAYETTE 5,289,195,17,0,501
 Joe Donnelly,U.S. Senate,,D,Floyd,LAFAYETTE 5,7,25,3,0,35
 Lucy M Brenton,U.S. Senate,,L,Floyd,LAFAYETTE 5,193,139,4,0,336
-Write In ,U.S. Senate,,,Floyd,LAFAYETTE 5,0,0,0,0,0
+Write In,U.S. Senate,,,Floyd,LAFAYETTE 5,0,0,0,0,0
 Connie Lawson,Secretary of State,,R,Floyd,LAFAYETTE 5,309,170,16,0,495
 Jim Harper,Secretary of State,,D,Floyd,LAFAYETTE 5,9,24,2,0,35
 Mark W. Rutherford,Secretary of State,,L,Floyd,LAFAYETTE 5,198,130,6,1,335
-Write In ,Secretary of State,,,Floyd,LAFAYETTE 5,0,0,0,0,0
+Write In,Secretary of State,,,Floyd,LAFAYETTE 5,0,0,0,0,0
 Tera Klutz,Auditor of State,,R,Floyd,LAFAYETTE 5,307,9,197,0,513
 Joselyn Whitticker,Auditor of State,,D,Floyd,LAFAYETTE 5,167,24,129,0,320
 John Schick,Auditor of State,,L,Floyd,LAFAYETTE 5,20,2,4,0,26
@@ -505,7 +505,7 @@ Kelly Mitchell,Treasurer of State,,R,Floyd,LAFAYETTE 5,314,9,202,0,525
 John C. Aguilera,Treasurer of State,,D,Floyd,LAFAYETTE 5,172,26,127,0,325
 Trey Hollingsworth,U.S. House,9,R,Floyd,LAFAYETTE 5,309,8,203,0,520
 Liz Watson,U.S. House,9,D,Floyd,LAFAYETTE 5,194,27,134,0,355
-Write In ,U.S. House,9,,Floyd,LAFAYETTE 5,0,0,0,0,0
+Write In,U.S. House,9,,Floyd,LAFAYETTE 5,0,0,0,0,0
 Ron Grooms,State Senate,46,R,Floyd,LAFAYETTE 5,320,8,208,0,536
 Anna Murray,State Senate,46,D,Floyd,LAFAYETTE 5,179,27,128,0,334
 Karen Engleman,State Representative,70,R,Floyd,LAFAYETTE 5,,,,,0
@@ -520,11 +520,11 @@ Sam Charbonne Au,State Representative,72,D,Floyd,LAFAYETTE 5,193,26,139,0,358
 Mike Braun,U.S. Senate,,R,Floyd,LAFAYETTE 6,190,118,10,0,318
 Joe Donnelly,U.S. Senate,,D,Floyd,LAFAYETTE 6,9,15,1,0,25
 Lucy M Brenton,U.S. Senate,,L,Floyd,LAFAYETTE 6,81,87,3,0,171
-Write In ,U.S. Senate,,,Floyd,LAFAYETTE 6,0,0,0,0,0
+Write In,U.S. Senate,,,Floyd,LAFAYETTE 6,0,0,0,0,0
 Connie Lawson,Secretary of State,,R,Floyd,LAFAYETTE 6,193,102,12,0,307
 Jim Harper,Secretary of State,,D,Floyd,LAFAYETTE 6,8,15,2,0,25
 Mark W. Rutherford,Secretary of State,,L,Floyd,LAFAYETTE 6,85,77,5,0,167
-Write In ,Secretary of State,,,Floyd,LAFAYETTE 6,0,0,0,0,0
+Write In,Secretary of State,,,Floyd,LAFAYETTE 6,0,0,0,0,0
 Tera Klutz,Auditor of State,,R,Floyd,LAFAYETTE 6,195,7,82,0,284
 Joselyn Whitticker,Auditor of State,,D,Floyd,LAFAYETTE 6,100,17,79,0,196
 John Schick,Auditor of State,,L,Floyd,LAFAYETTE 6,12,1,5,0,18
@@ -532,7 +532,7 @@ Kelly Mitchell,Treasurer of State,,R,Floyd,LAFAYETTE 6,207,7,88,0,302
 John C. Aguilera,Treasurer of State,,D,Floyd,LAFAYETTE 6,99,16,79,0,194
 Trey Hollingsworth,U.S. House,9,R,Floyd,LAFAYETTE 6,198,11,85,0,294
 Liz Watson,U.S. House,9,D,Floyd,LAFAYETTE 6,116,14,84,0,214
-Write In ,U.S. House,9,,Floyd,LAFAYETTE 6,0,0,0,0,0
+Write In,U.S. House,9,,Floyd,LAFAYETTE 6,0,0,0,0,0
 Ron Grooms,State Senate,46,R,Floyd,LAFAYETTE 6,208,13,94,0,315
 Anna Murray,State Senate,46,D,Floyd,LAFAYETTE 6,111,12,76,0,199
 Karen Engleman,State Representative,70,R,Floyd,LAFAYETTE 6,,,,,0
@@ -547,11 +547,11 @@ Sam Charbonne Au,State Representative,72,D,Floyd,LAFAYETTE 6,112,15,83,0,210
 Mike Braun,U.S. Senate,,R,Floyd,LAFAYETTE 7,149,55,7,0,211
 Joe Donnelly,U.S. Senate,,D,Floyd,LAFAYETTE 7,12,25,2,0,39
 Lucy M Brenton,U.S. Senate,,L,Floyd,LAFAYETTE 7,112,82,4,0,198
-Write In ,U.S. Senate,,,Floyd,LAFAYETTE 7,1,0,0,0,1
+Write In,U.S. Senate,,,Floyd,LAFAYETTE 7,1,0,0,0,1
 Connie Lawson,Secretary of State,,R,Floyd,LAFAYETTE 7,156,50,3,0,209
 Jim Harper,Secretary of State,,D,Floyd,LAFAYETTE 7,14,24,1,0,39
 Mark W. Rutherford,Secretary of State,,L,Floyd,LAFAYETTE 7,114,74,4,0,192
-Write In ,Secretary of State,,,Floyd,LAFAYETTE 7,1,0,0,0,1
+Write In,Secretary of State,,,Floyd,LAFAYETTE 7,1,0,0,0,1
 Tera Klutz,Auditor of State,,R,Floyd,LAFAYETTE 7,148,12,110,1,271
 Joselyn Whitticker,Auditor of State,,D,Floyd,LAFAYETTE 7,52,24,77,0,153
 John Schick,Auditor of State,,L,Floyd,LAFAYETTE 7,5,1,2,0,8
@@ -559,7 +559,7 @@ Kelly Mitchell,Treasurer of State,,R,Floyd,LAFAYETTE 7,154,14,114,1,283
 John C. Aguilera,Treasurer of State,,D,Floyd,LAFAYETTE 7,52,21,75,0,148
 Trey Hollingsworth,U.S. House,9,R,Floyd,LAFAYETTE 7,151,15,116,1,283
 Liz Watson,U.S. House,9,D,Floyd,LAFAYETTE 7,59,24,81,0,164
-Write In ,U.S. House,9,,Floyd,LAFAYETTE 7,0,0,0,0,0
+Write In,U.S. House,9,,Floyd,LAFAYETTE 7,0,0,0,0,0
 Ron Grooms,State Senate,46,R,Floyd,LAFAYETTE 7,155,19,123,1,298
 Anna Murray,State Senate,46,D,Floyd,LAFAYETTE 7,55,18,75,0,148
 Karen Engleman,State Representative,70,R,Floyd,LAFAYETTE 7,,,,,0
@@ -574,11 +574,11 @@ Sam Charbonne Au,State Representative,72,D,Floyd,LAFAYETTE 7,64,21,74,0,159
 Mike Braun,U.S. Senate,,R,Floyd,NEW ALBANY 01,164,176,17,1,358
 Joe Donnelly,U.S. Senate,,D,Floyd,NEW ALBANY 01,10,53,7,0,70
 Lucy M Brenton,U.S. Senate,,L,Floyd,NEW ALBANY 01,48,74,9,0,131
-Write In ,U.S. Senate,,,Floyd,NEW ALBANY 01,0,1,0,0,1
+Write In,U.S. Senate,,,Floyd,NEW ALBANY 01,0,1,0,0,1
 Connie Lawson,Secretary of State,,R,Floyd,NEW ALBANY 01,171,167,15,0,353
 Jim Harper,Secretary of State,,D,Floyd,NEW ALBANY 01,9,46,3,0,58
 Mark W. Rutherford,Secretary of State,,L,Floyd,NEW ALBANY 01,53,72,4,1,130
-Write In ,Secretary of State,,,Floyd,NEW ALBANY 01,0,0,0,0,0
+Write In,Secretary of State,,,Floyd,NEW ALBANY 01,0,0,0,0,0
 Tera Klutz,Auditor of State,,R,Floyd,NEW ALBANY 01,169,9,51,0,229
 Joselyn Whitticker,Auditor of State,,D,Floyd,NEW ALBANY 01,169,48,74,0,291
 John Schick,Auditor of State,,L,Floyd,NEW ALBANY 01,12,1,5,0,18
@@ -586,7 +586,7 @@ Kelly Mitchell,Treasurer of State,,R,Floyd,NEW ALBANY 01,178,14,51,0,243
 John C. Aguilera,Treasurer of State,,D,Floyd,NEW ALBANY 01,172,44,78,0,294
 Trey Hollingsworth,U.S. House,9,R,Floyd,NEW ALBANY 01,171,11,54,0,236
 Liz Watson,U.S. House,9,D,Floyd,NEW ALBANY 01,185,59,79,1,324
-Write In ,U.S. House,9,,Floyd,NEW ALBANY 01,0,0,0,0,0
+Write In,U.S. House,9,,Floyd,NEW ALBANY 01,0,0,0,0,0
 Ron Grooms,State Senate,46,R,Floyd,NEW ALBANY 01,179,10,52,0,241
 Anna Murray,State Senate,46,D,Floyd,NEW ALBANY 01,175,48,79,0,302
 Karen Engleman,State Representative,70,R,Floyd,NEW ALBANY 01,,,,,0
@@ -601,11 +601,11 @@ Sam Charbonne Au,State Representative,72,D,Floyd,NEW ALBANY 01,185,48,74,0,307
 Mike Braun,U.S. Senate,,R,Floyd,NEW ALBANY 03,75,156,20,1,252
 Joe Donnelly,U.S. Senate,,D,Floyd,NEW ALBANY 03,5,14,2,1,22
 Lucy M Brenton,U.S. Senate,,L,Floyd,NEW ALBANY 03,42,104,4,0,150
-Write In ,U.S. Senate,,,Floyd,NEW ALBANY 03,0,0,0,0,0
+Write In,U.S. Senate,,,Floyd,NEW ALBANY 03,0,0,0,0,0
 Connie Lawson,Secretary of State,,R,Floyd,NEW ALBANY 03,80,152,16,1,249
 Jim Harper,Secretary of State,,D,Floyd,NEW ALBANY 03,5,15,2,0,22
 Mark W. Rutherford,Secretary of State,,L,Floyd,NEW ALBANY 03,41,104,3,0,148
-Write In ,Secretary of State,,,Floyd,NEW ALBANY 03,0,0,0,0,0
+Write In,Secretary of State,,,Floyd,NEW ALBANY 03,0,0,0,0,0
 Tera Klutz,Auditor of State,,R,Floyd,NEW ALBANY 03,86,5,45,0,136
 Joselyn Whitticker,Auditor of State,,D,Floyd,NEW ALBANY 03,143,15,99,0,257
 John Schick,Auditor of State,,L,Floyd,NEW ALBANY 03,17,2,3,0,22
@@ -613,7 +613,7 @@ Kelly Mitchell,Treasurer of State,,R,Floyd,NEW ALBANY 03,93,6,43,0,142
 John C. Aguilera,Treasurer of State,,D,Floyd,NEW ALBANY 03,152,16,103,0,271
 Trey Hollingsworth,U.S. House,9,R,Floyd,NEW ALBANY 03,81,7,43,0,131
 Liz Watson,U.S. House,9,D,Floyd,NEW ALBANY 03,171,14,107,0,292
-Write In ,U.S. House,9,,Floyd,NEW ALBANY 03,0,0,0,0,0
+Write In,U.S. House,9,,Floyd,NEW ALBANY 03,0,0,0,0,0
 Ron Grooms,State Senate,46,R,Floyd,NEW ALBANY 03,91,7,46,0,144
 Anna Murray,State Senate,46,D,Floyd,NEW ALBANY 03,160,15,102,0,277
 Karen Engleman,State Representative,70,R,Floyd,NEW ALBANY 03,,,,,0
@@ -628,11 +628,11 @@ Sam Charbonne Au,State Representative,72,D,Floyd,NEW ALBANY 03,151,13,98,0,262
 Mike Braun,U.S. Senate,,R,Floyd,NEW ALBANY 05,90,180,17,1,288
 Joe Donnelly,U.S. Senate,,D,Floyd,NEW ALBANY 05,8,18,1,0,27
 Lucy M Brenton,U.S. Senate,,L,Floyd,NEW ALBANY 05,50,131,12,1,194
-Write In ,U.S. Senate,,,Floyd,NEW ALBANY 05,0,0,0,0,0
+Write In,U.S. Senate,,,Floyd,NEW ALBANY 05,0,0,0,0,0
 Connie Lawson,Secretary of State,,R,Floyd,NEW ALBANY 05,99,175,15,0,289
 Jim Harper,Secretary of State,,D,Floyd,NEW ALBANY 05,8,16,3,0,27
 Mark W. Rutherford,Secretary of State,,L,Floyd,NEW ALBANY 05,54,122,13,1,190
-Write In ,Secretary of State,,,Floyd,NEW ALBANY 05,0,0,0,0,0
+Write In,Secretary of State,,,Floyd,NEW ALBANY 05,0,0,0,0,0
 Tera Klutz,Auditor of State,,R,Floyd,NEW ALBANY 05,95,10,55,0,160
 Joselyn Whitticker,Auditor of State,,D,Floyd,NEW ALBANY 05,178,17,122,0,317
 John Schick,Auditor of State,,L,Floyd,NEW ALBANY 05,14,0,13,0,27
@@ -640,7 +640,7 @@ Kelly Mitchell,Treasurer of State,,R,Floyd,NEW ALBANY 05,103,10,59,0,172
 John C. Aguilera,Treasurer of State,,D,Floyd,NEW ALBANY 05,182,17,131,0,330
 Trey Hollingsworth,U.S. House,9,R,Floyd,NEW ALBANY 05,90,10,51,0,151
 Liz Watson,U.S. House,9,D,Floyd,NEW ALBANY 05,203,17,141,0,361
-Write In ,U.S. House,9,,Floyd,NEW ALBANY 05,0,0,0,0,0
+Write In,U.S. House,9,,Floyd,NEW ALBANY 05,0,0,0,0,0
 Ron Grooms,State Senate,46,R,Floyd,NEW ALBANY 05,98,9,58,0,165
 Anna Murray,State Senate,46,D,Floyd,NEW ALBANY 05,192,18,134,0,344
 Karen Engleman,State Representative,70,R,Floyd,NEW ALBANY 05,,,,,0
@@ -655,11 +655,11 @@ Sam Charbonne Au,State Representative,72,D,Floyd,NEW ALBANY 05,182,18,131,0,331
 Mike Braun,U.S. Senate,,R,Floyd,NEW ALBANY 07,59,120,10,1,190
 Joe Donnelly,U.S. Senate,,D,Floyd,NEW ALBANY 07,6,18,2,0,26
 Lucy M Brenton,U.S. Senate,,L,Floyd,NEW ALBANY 07,28,46,5,0,79
-Write In ,U.S. Senate,,,Floyd,NEW ALBANY 07,0,0,0,0,0
+Write In,U.S. Senate,,,Floyd,NEW ALBANY 07,0,0,0,0,0
 Connie Lawson,Secretary of State,,R,Floyd,NEW ALBANY 07,62,118,8,1,189
 Jim Harper,Secretary of State,,D,Floyd,NEW ALBANY 07,6,18,1,1,26
 Mark W. Rutherford,Secretary of State,,L,Floyd,NEW ALBANY 07,32,46,1,0,79
-Write In ,Secretary of State,,,Floyd,NEW ALBANY 07,0,0,0,0,0
+Write In,Secretary of State,,,Floyd,NEW ALBANY 07,0,0,0,0,0
 Tera Klutz,Auditor of State,,R,Floyd,NEW ALBANY 07,62,9,29,0,100
 Joselyn Whitticker,Auditor of State,,D,Floyd,NEW ALBANY 07,119,17,48,0,184
 John Schick,Auditor of State,,L,Floyd,NEW ALBANY 07,8,0,1,0,9
@@ -667,7 +667,7 @@ Kelly Mitchell,Treasurer of State,,R,Floyd,NEW ALBANY 07,73,8,33,0,114
 John C. Aguilera,Treasurer of State,,D,Floyd,NEW ALBANY 07,116,18,46,0,180
 Trey Hollingsworth,U.S. House,9,R,Floyd,NEW ALBANY 07,67,8,31,0,106
 Liz Watson,U.S. House,9,D,Floyd,NEW ALBANY 07,122,18,49,0,189
-Write In ,U.S. House,9,,Floyd,NEW ALBANY 07,0,0,0,0,0
+Write In,U.S. House,9,,Floyd,NEW ALBANY 07,0,0,0,0,0
 Ron Grooms,State Senate,46,R,Floyd,NEW ALBANY 07,70,9,31,0,110
 Anna Murray,State Senate,46,D,Floyd,NEW ALBANY 07,119,17,48,0,184
 Karen Engleman,State Representative,70,R,Floyd,NEW ALBANY 07,,,,,0
@@ -682,11 +682,11 @@ Sam Charbonne Au,State Representative,72,D,Floyd,NEW ALBANY 07,120,19,50,0,189
 Mike Braun,U.S. Senate,,R,Floyd,NEW ALBANY 09,119,138,11,0,268
 Joe Donnelly,U.S. Senate,,D,Floyd,NEW ALBANY 09,19,17,0,0,36
 Lucy M Brenton,U.S. Senate,,L,Floyd,NEW ALBANY 09,111,128,5,0,244
-Write In ,U.S. Senate,,,Floyd,NEW ALBANY 09,0,0,0,0,0
+Write In,U.S. Senate,,,Floyd,NEW ALBANY 09,0,0,0,0,0
 Connie Lawson,Secretary of State,,R,Floyd,NEW ALBANY 09,124,130,8,1,263
 Jim Harper,Secretary of State,,D,Floyd,NEW ALBANY 09,18,18,0,0,36
 Mark W. Rutherford,Secretary of State,,L,Floyd,NEW ALBANY 09,117,114,7,0,238
-Write In ,Secretary of State,,,Floyd,NEW ALBANY 09,0,0,0,0,0
+Write In,Secretary of State,,,Floyd,NEW ALBANY 09,0,0,0,0,0
 Tera Klutz,Auditor of State,,R,Floyd,NEW ALBANY 09,123,17,118,0,258
 Joselyn Whitticker,Auditor of State,,D,Floyd,NEW ALBANY 09,128,18,115,0,261
 John Schick,Auditor of State,,L,Floyd,NEW ALBANY 09,8,0,3,0,11
@@ -694,7 +694,7 @@ Kelly Mitchell,Treasurer of State,,R,Floyd,NEW ALBANY 09,129,17,118,0,264
 John C. Aguilera,Treasurer of State,,D,Floyd,NEW ALBANY 09,129,18,117,0,264
 Trey Hollingsworth,U.S. House,9,R,Floyd,NEW ALBANY 09,127,18,108,0,253
 Liz Watson,U.S. House,9,D,Floyd,NEW ALBANY 09,142,18,135,0,295
-Write In ,U.S. House,9,,Floyd,NEW ALBANY 09,0,0,0,0,0
+Write In,U.S. House,9,,Floyd,NEW ALBANY 09,0,0,0,0,0
 Ron Grooms,State Senate,46,R,Floyd,NEW ALBANY 09,133,19,121,0,273
 Anna Murray,State Senate,46,D,Floyd,NEW ALBANY 09,134,17,120,0,271
 Karen Engleman,State Representative,70,R,Floyd,NEW ALBANY 09,,,,,0
@@ -709,11 +709,11 @@ Sam Charbonne Au,State Representative,72,D,Floyd,NEW ALBANY 09,141,18,115,0,274
 Mike Braun,U.S. Senate,,R,Floyd,NEW ALBANY 10,110,135,23,0,268
 Joe Donnelly,U.S. Senate,,D,Floyd,NEW ALBANY 10,9,14,2,0,25
 Lucy M Brenton,U.S. Senate,,L,Floyd,NEW ALBANY 10,52,100,8,0,160
-Write In ,U.S. Senate,,,Floyd,NEW ALBANY 10,0,0,0,0,0
+Write In,U.S. Senate,,,Floyd,NEW ALBANY 10,0,0,0,0,0
 Connie Lawson,Secretary of State,,R,Floyd,NEW ALBANY 10,120,132,13,1,266
 Jim Harper,Secretary of State,,D,Floyd,NEW ALBANY 10,9,14,2,0,25
 Mark W. Rutherford,Secretary of State,,L,Floyd,NEW ALBANY 10,53,99,5,0,157
-Write In ,Secretary of State,,,Floyd,NEW ALBANY 10,0,0,0,0,0
+Write In,Secretary of State,,,Floyd,NEW ALBANY 10,0,0,0,0,0
 Tera Klutz,Auditor of State,,R,Floyd,NEW ALBANY 10,115,9,51,0,175
 Joselyn Whitticker,Auditor of State,,D,Floyd,NEW ALBANY 10,135,16,104,0,255
 John Schick,Auditor of State,,L,Floyd,NEW ALBANY 10,15,1,2,0,18
@@ -721,7 +721,7 @@ Kelly Mitchell,Treasurer of State,,R,Floyd,NEW ALBANY 10,127,8,52,0,187
 John C. Aguilera,Treasurer of State,,D,Floyd,NEW ALBANY 10,132,18,105,0,255
 Trey Hollingsworth,U.S. House,9,R,Floyd,NEW ALBANY 10,115,10,51,0,176
 Liz Watson,U.S. House,9,D,Floyd,NEW ALBANY 10,149,16,109,0,274
-Write In ,U.S. House,9,,Floyd,NEW ALBANY 10,0,0,0,0,0
+Write In,U.S. House,9,,Floyd,NEW ALBANY 10,0,0,0,0,0
 Ron Grooms,State Senate,46,R,Floyd,NEW ALBANY 10,120,10,50,0,180
 Anna Murray,State Senate,46,D,Floyd,NEW ALBANY 10,144,17,108,0,269
 Karen Engleman,State Representative,70,R,Floyd,NEW ALBANY 10,,,,,0
@@ -736,11 +736,11 @@ Sam Charbonne Au,State Representative,72,D,Floyd,NEW ALBANY 10,139,18,98,0,255
 Mike Braun,U.S. Senate,,R,Floyd,NEW ALBANY 11,102,193,18,1,314
 Joe Donnelly,U.S. Senate,,D,Floyd,NEW ALBANY 11,6,40,1,0,47
 Lucy M Brenton,U.S. Senate,,L,Floyd,NEW ALBANY 11,57,164,12,1,234
-Write In ,U.S. Senate,,,Floyd,NEW ALBANY 11,0,1,0,0,1
+Write In,U.S. Senate,,,Floyd,NEW ALBANY 11,0,1,0,0,1
 Connie Lawson,Secretary of State,,R,Floyd,NEW ALBANY 11,99,186,18,1,304
 Jim Harper,Secretary of State,,D,Floyd,NEW ALBANY 11,7,40,0,0,47
 Mark W. Rutherford,Secretary of State,,L,Floyd,NEW ALBANY 11,68,156,10,0,234
-Write In ,Secretary of State,,,Floyd,NEW ALBANY 11,0,1,0,0,1
+Write In,Secretary of State,,,Floyd,NEW ALBANY 11,0,1,0,0,1
 Tera Klutz,Auditor of State,,R,Floyd,NEW ALBANY 11,104,6,68,0,178
 Joselyn Whitticker,Auditor of State,,D,Floyd,NEW ALBANY 11,182,41,157,1,381
 John Schick,Auditor of State,,L,Floyd,NEW ALBANY 11,16,0,9,0,25
@@ -748,7 +748,7 @@ Kelly Mitchell,Treasurer of State,,R,Floyd,NEW ALBANY 11,117,7,69,0,193
 John C. Aguilera,Treasurer of State,,D,Floyd,NEW ALBANY 11,185,40,164,1,390
 Trey Hollingsworth,U.S. House,9,R,Floyd,NEW ALBANY 11,117,6,65,0,188
 Liz Watson,U.S. House,9,D,Floyd,NEW ALBANY 11,196,41,170,1,408
-Write In ,U.S. House,9,,Floyd,NEW ALBANY 11,0,0,0,0,0
+Write In,U.S. House,9,,Floyd,NEW ALBANY 11,0,0,0,0,0
 Ron Grooms,State Senate,46,R,Floyd,NEW ALBANY 11,115,9,72,0,196
 Anna Murray,State Senate,46,D,Floyd,NEW ALBANY 11,196,38,164,1,399
 Karen Engleman,State Representative,70,R,Floyd,NEW ALBANY 11,,,,,0
@@ -763,11 +763,11 @@ Sam Charbonne Au,State Representative,72,D,Floyd,NEW ALBANY 11,184,37,152,1,374
 Mike Braun,U.S. Senate,,R,Floyd,NEW ALBANY 13,88,76,11,0,175
 Joe Donnelly,U.S. Senate,,D,Floyd,NEW ALBANY 13,7,14,0,0,21
 Lucy M Brenton,U.S. Senate,,L,Floyd,NEW ALBANY 13,46,56,0,0,102
-Write In ,U.S. Senate,,,Floyd,NEW ALBANY 13,0,2,0,0,2
+Write In,U.S. Senate,,,Floyd,NEW ALBANY 13,0,2,0,0,2
 Connie Lawson,Secretary of State,,R,Floyd,NEW ALBANY 13,88,78,8,0,174
 Jim Harper,Secretary of State,,D,Floyd,NEW ALBANY 13,6,15,0,0,21
 Mark W. Rutherford,Secretary of State,,L,Floyd,NEW ALBANY 13,51,52,1,0,104
-Write In ,Secretary of State,,,Floyd,NEW ALBANY 13,0,2,0,0,2
+Write In,Secretary of State,,,Floyd,NEW ALBANY 13,0,2,0,0,2
 Tera Klutz,Auditor of State,,R,Floyd,NEW ALBANY 13,89,8,48,0,145
 Joselyn Whitticker,Auditor of State,,D,Floyd,NEW ALBANY 13,72,13,52,2,139
 John Schick,Auditor of State,,L,Floyd,NEW ALBANY 13,11,0,2,0,13
@@ -775,7 +775,7 @@ Kelly Mitchell,Treasurer of State,,R,Floyd,NEW ALBANY 13,93,7,51,0,151
 John C. Aguilera,Treasurer of State,,D,Floyd,NEW ALBANY 13,79,14,53,2,148
 Trey Hollingsworth,U.S. House,9,R,Floyd,NEW ALBANY 13,94,6,47,0,147
 Liz Watson,U.S. House,9,D,Floyd,NEW ALBANY 13,81,15,57,2,155
-Write In ,U.S. House,9,,Floyd,NEW ALBANY 13,0,0,0,0,0
+Write In,U.S. House,9,,Floyd,NEW ALBANY 13,0,0,0,0,0
 Ron Grooms,State Senate,46,R,Floyd,NEW ALBANY 13,93,4,51,0,148
 Anna Murray,State Senate,46,D,Floyd,NEW ALBANY 13,81,15,54,2,152
 Karen Engleman,State Representative,70,R,Floyd,NEW ALBANY 13,,,,,0
@@ -790,11 +790,11 @@ Sam Charbonne Au,State Representative,72,D,Floyd,NEW ALBANY 13,80,13,55,2,150
 Mike Braun,U.S. Senate,,R,Floyd,NEW ALBANY 14,128,135,8,1,272
 Joe Donnelly,U.S. Senate,,D,Floyd,NEW ALBANY 14,9,31,1,0,41
 Lucy M Brenton,U.S. Senate,,L,Floyd,NEW ALBANY 14,60,146,6,0,212
-Write In ,U.S. Senate,,,Floyd,NEW ALBANY 14,0,1,0,0,1
+Write In,U.S. Senate,,,Floyd,NEW ALBANY 14,0,1,0,0,1
 Connie Lawson,Secretary of State,,R,Floyd,NEW ALBANY 14,128,134,9,0,271
 Jim Harper,Secretary of State,,D,Floyd,NEW ALBANY 14,8,32,0,0,40
 Mark W. Rutherford,Secretary of State,,L,Floyd,NEW ALBANY 14,66,136,6,0,208
-Write In ,Secretary of State,,,Floyd,NEW ALBANY 14,0,1,0,0,1
+Write In,Secretary of State,,,Floyd,NEW ALBANY 14,0,1,0,0,1
 Tera Klutz,Auditor of State,,R,Floyd,NEW ALBANY 14,128,8,69,0,205
 Joselyn Whitticker,Auditor of State,,D,Floyd,NEW ALBANY 14,129,31,133,1,294
 John Schick,Auditor of State,,L,Floyd,NEW ALBANY 14,14,1,4,0,19
@@ -802,7 +802,7 @@ Kelly Mitchell,Treasurer of State,,R,Floyd,NEW ALBANY 14,134,10,74,0,218
 John C. Aguilera,Treasurer of State,,D,Floyd,NEW ALBANY 14,137,30,132,1,300
 Trey Hollingsworth,U.S. House,9,R,Floyd,NEW ALBANY 14,137,10,69,0,216
 Liz Watson,U.S. House,9,D,Floyd,NEW ALBANY 14,131,30,143,1,305
-Write In ,U.S. House,9,,Floyd,NEW ALBANY 14,2,1,2,0,5
+Write In,U.S. House,9,,Floyd,NEW ALBANY 14,2,1,2,0,5
 Ron Grooms,State Senate,46,R,Floyd,NEW ALBANY 14,135,11,79,0,225
 Anna Murray,State Senate,46,D,Floyd,NEW ALBANY 14,136,30,135,1,302
 Karen Engleman,State Representative,70,R,Floyd,NEW ALBANY 14,,,,,0
@@ -817,11 +817,11 @@ Sam Charbonne Au,State Representative,72,D,Floyd,NEW ALBANY 14,133,28,133,1,295
 Mike Braun,U.S. Senate,,R,Floyd,NEW ALBANY 16,105,123,7,0,235
 Joe Donnelly,U.S. Senate,,D,Floyd,NEW ALBANY 16,25,14,1,0,40
 Lucy M Brenton,U.S. Senate,,L,Floyd,NEW ALBANY 16,76,87,6,0,169
-Write In ,U.S. Senate,,,Floyd,NEW ALBANY 16,1,1,0,0,2
+Write In,U.S. Senate,,,Floyd,NEW ALBANY 16,1,1,0,0,2
 Connie Lawson,Secretary of State,,R,Floyd,NEW ALBANY 16,108,110,11,0,229
 Jim Harper,Secretary of State,,D,Floyd,NEW ALBANY 16,23,16,1,0,40
 Mark W. Rutherford,Secretary of State,,L,Floyd,NEW ALBANY 16,82,84,3,1,170
-Write In ,Secretary of State,,,Floyd,NEW ALBANY 16,0,1,0,0,1
+Write In,Secretary of State,,,Floyd,NEW ALBANY 16,0,1,0,0,1
 Tera Klutz,Auditor of State,,R,Floyd,NEW ALBANY 16,110,24,76,1,211
 Joselyn Whitticker,Auditor of State,,D,Floyd,NEW ALBANY 16,108,15,88,1,212
 John Schick,Auditor of State,,L,Floyd,NEW ALBANY 16,12,1,4,0,17
@@ -829,7 +829,7 @@ Kelly Mitchell,Treasurer of State,,R,Floyd,NEW ALBANY 16,115,23,79,0,217
 John C. Aguilera,Treasurer of State,,D,Floyd,NEW ALBANY 16,114,17,88,2,221
 Trey Hollingsworth,U.S. House,9,R,Floyd,NEW ALBANY 16,109,24,76,1,210
 Liz Watson,U.S. House,9,D,Floyd,NEW ALBANY 16,124,16,95,1,236
-Write In ,U.S. House,9,,Floyd,NEW ALBANY 16,0,0,0,0,0
+Write In,U.S. House,9,,Floyd,NEW ALBANY 16,0,0,0,0,0
 Ron Grooms,State Senate,46,R,Floyd,NEW ALBANY 16,114,24,81,1,220
 Anna Murray,State Senate,46,D,Floyd,NEW ALBANY 16,119,14,90,1,224
 Karen Engleman,State Representative,70,R,Floyd,NEW ALBANY 16,,,,,0
@@ -844,11 +844,11 @@ Sam Charbonne Au,State Representative,72,D,Floyd,NEW ALBANY 16,117,13,93,1,224
 Mike Braun,U.S. Senate,,R,Floyd,NEW ALBANY 18,103,119,9,0,231
 Joe Donnelly,U.S. Senate,,D,Floyd,NEW ALBANY 18,10,18,1,0,29
 Lucy M Brenton,U.S. Senate,,L,Floyd,NEW ALBANY 18,86,140,4,0,230
-Write In ,U.S. Senate,,,Floyd,NEW ALBANY 18,0,0,0,0,0
+Write In,U.S. Senate,,,Floyd,NEW ALBANY 18,0,0,0,0,0
 Connie Lawson,Secretary of State,,R,Floyd,NEW ALBANY 18,107,106,11,1,225
 Jim Harper,Secretary of State,,D,Floyd,NEW ALBANY 18,10,17,1,0,28
 Mark W. Rutherford,Secretary of State,,L,Floyd,NEW ALBANY 18,90,130,3,0,223
-Write In ,Secretary of State,,,Floyd,NEW ALBANY 18,0,0,0,0,0
+Write In,Secretary of State,,,Floyd,NEW ALBANY 18,0,0,0,0,0
 Tera Klutz,Auditor of State,,R,Floyd,NEW ALBANY 18,108,9,94,0,211
 Joselyn Whitticker,Auditor of State,,D,Floyd,NEW ALBANY 18,105,17,124,0,246
 John Schick,Auditor of State,,L,Floyd,NEW ALBANY 18,10,1,6,0,17
@@ -856,7 +856,7 @@ Kelly Mitchell,Treasurer of State,,R,Floyd,NEW ALBANY 18,117,10,93,0,220
 John C. Aguilera,Treasurer of State,,D,Floyd,NEW ALBANY 18,104,18,130,0,252
 Trey Hollingsworth,U.S. House,9,R,Floyd,NEW ALBANY 18,105,10,85,0,200
 Liz Watson,U.S. House,9,D,Floyd,NEW ALBANY 18,123,19,141,0,283
-Write In ,U.S. House,9,,Floyd,NEW ALBANY 18,0,0,0,0,0
+Write In,U.S. House,9,,Floyd,NEW ALBANY 18,0,0,0,0,0
 Ron Grooms,State Senate,46,R,Floyd,NEW ALBANY 18,121,11,101,0,233
 Anna Murray,State Senate,46,D,Floyd,NEW ALBANY 18,109,18,127,0,254
 Karen Engleman,State Representative,70,R,Floyd,NEW ALBANY 18,,,,,0
@@ -871,11 +871,11 @@ Sam Charbonne Au,State Representative,72,D,Floyd,NEW ALBANY 18,106,16,119,0,241
 Mike Braun,U.S. Senate,,R,Floyd,NEW ALBANY 19,88,94,12,0,194
 Joe Donnelly,U.S. Senate,,D,Floyd,NEW ALBANY 19,16,23,0,0,39
 Lucy M Brenton,U.S. Senate,,L,Floyd,NEW ALBANY 19,80,97,6,0,183
-Write In ,U.S. Senate,,,Floyd,NEW ALBANY 19,1,0,0,0,1
+Write In,U.S. Senate,,,Floyd,NEW ALBANY 19,1,0,0,0,1
 Connie Lawson,Secretary of State,,R,Floyd,NEW ALBANY 19,93,91,13,0,197
 Jim Harper,Secretary of State,,D,Floyd,NEW ALBANY 19,18,21,0,0,39
 Mark W. Rutherford,Secretary of State,,L,Floyd,NEW ALBANY 19,83,97,4,0,184
-Write In ,Secretary of State,,,Floyd,NEW ALBANY 19,1,0,0,0,1
+Write In,Secretary of State,,,Floyd,NEW ALBANY 19,1,0,0,0,1
 Tera Klutz,Auditor of State,,R,Floyd,NEW ALBANY 19,91,20,79,1,191
 Joselyn Whitticker,Auditor of State,,D,Floyd,NEW ALBANY 19,91,19,98,0,208
 John Schick,Auditor of State,,L,Floyd,NEW ALBANY 19,15,0,4,0,19
@@ -883,7 +883,7 @@ Kelly Mitchell,Treasurer of State,,R,Floyd,NEW ALBANY 19,95,17,85,1,198
 John C. Aguilera,Treasurer of State,,D,Floyd,NEW ALBANY 19,99,22,97,0,218
 Trey Hollingsworth,U.S. House,9,R,Floyd,NEW ALBANY 19,94,20,75,1,190
 Liz Watson,U.S. House,9,D,Floyd,NEW ALBANY 19,102,19,108,0,229
-Write In ,U.S. House,9,,Floyd,NEW ALBANY 19,1,0,0,0,1
+Write In,U.S. House,9,,Floyd,NEW ALBANY 19,1,0,0,0,1
 Ron Grooms,State Senate,46,R,Floyd,NEW ALBANY 19,90,21,85,1,197
 Anna Murray,State Senate,46,D,Floyd,NEW ALBANY 19,106,19,97,0,222
 Karen Engleman,State Representative,70,R,Floyd,NEW ALBANY 19,,,,,0
@@ -898,11 +898,11 @@ Sam Charbonne Au,State Representative,72,D,Floyd,NEW ALBANY 19,104,18,107,0,229
 Mike Braun,U.S. Senate,,R,Floyd,NEW ALBANY 20,163,149,8,0,320
 Joe Donnelly,U.S. Senate,,D,Floyd,NEW ALBANY 20,12,28,2,0,42
 Lucy M Brenton,U.S. Senate,,L,Floyd,NEW ALBANY 20,95,128,3,0,226
-Write In ,U.S. Senate,,,Floyd,NEW ALBANY 20,0,0,0,0,0
+Write In,U.S. Senate,,,Floyd,NEW ALBANY 20,0,0,0,0,0
 Connie Lawson,Secretary of State,,R,Floyd,NEW ALBANY 20,173,130,10,1,314
 Jim Harper,Secretary of State,,D,Floyd,NEW ALBANY 20,13,28,2,0,43
 Mark W. Rutherford,Secretary of State,,L,Floyd,NEW ALBANY 20,100,119,1,1,221
-Write In ,Secretary of State,,,Floyd,NEW ALBANY 20,0,0,0,0,0
+Write In,Secretary of State,,,Floyd,NEW ALBANY 20,0,0,0,0,0
 Tera Klutz,Auditor of State,,R,Floyd,NEW ALBANY 20,169,14,102,0,285
 Joselyn Whitticker,Auditor of State,,D,Floyd,NEW ALBANY 20,131,27,111,0,269
 John Schick,Auditor of State,,L,Floyd,NEW ALBANY 20,9,0,6,0,15
@@ -910,7 +910,7 @@ Kelly Mitchell,Treasurer of State,,R,Floyd,NEW ALBANY 20,177,12,100,0,289
 John C. Aguilera,Treasurer of State,,D,Floyd,NEW ALBANY 20,133,29,119,0,281
 Trey Hollingsworth,U.S. House,9,R,Floyd,NEW ALBANY 20,179,15,102,0,296
 Liz Watson,U.S. House,9,D,Floyd,NEW ALBANY 20,143,28,124,0,295
-Write In ,U.S. House,9,,Floyd,NEW ALBANY 20,0,0,0,0,0
+Write In,U.S. House,9,,Floyd,NEW ALBANY 20,0,0,0,0,0
 Ron Grooms,State Senate,46,R,Floyd,NEW ALBANY 20,179,17,115,0,311
 Anna Murray,State Senate,46,D,Floyd,NEW ALBANY 20,143,25,111,0,279
 Karen Engleman,State Representative,70,R,Floyd,NEW ALBANY 20,,,,,0
@@ -925,11 +925,11 @@ Sam Charbonne Au,State Representative,72,D,Floyd,NEW ALBANY 20,140,25,112,0,277
 Mike Braun,U.S. Senate,,R,Floyd,NEW ALBANY 21,58,137,12,0,207
 Joe Donnelly,U.S. Senate,,D,Floyd,NEW ALBANY 21,6,17,3,0,26
 Lucy M Brenton,U.S. Senate,,L,Floyd,NEW ALBANY 21,31,33,4,0,68
-Write In ,U.S. Senate,,,Floyd,NEW ALBANY 21,0,0,0,0,0
+Write In,U.S. Senate,,,Floyd,NEW ALBANY 21,0,0,0,0,0
 Connie Lawson,Secretary of State,,R,Floyd,NEW ALBANY 21,66,132,8,1,207
 Jim Harper,Secretary of State,,D,Floyd,NEW ALBANY 21,6,21,0,0,27
 Mark W. Rutherford,Secretary of State,,L,Floyd,NEW ALBANY 21,34,34,0,0,68
-Write In ,Secretary of State,,,Floyd,NEW ALBANY 21,0,0,0,0,0
+Write In,Secretary of State,,,Floyd,NEW ALBANY 21,0,0,0,0,0
 Tera Klutz,Auditor of State,,R,Floyd,NEW ALBANY 21,65,6,34,0,105
 Joselyn Whitticker,Auditor of State,,D,Floyd,NEW ALBANY 21,133,21,34,0,188
 John Schick,Auditor of State,,L,Floyd,NEW ALBANY 21,9,0,0,0,9
@@ -937,7 +937,7 @@ Kelly Mitchell,Treasurer of State,,R,Floyd,NEW ALBANY 21,75,5,35,0,115
 John C. Aguilera,Treasurer of State,,D,Floyd,NEW ALBANY 21,132,21,33,0,186
 Trey Hollingsworth,U.S. House,9,R,Floyd,NEW ALBANY 21,63,8,31,0,102
 Liz Watson,U.S. House,9,D,Floyd,NEW ALBANY 21,144,19,38,0,201
-Write In ,U.S. House,9,,Floyd,NEW ALBANY 21,0,0,0,0,0
+Write In,U.S. House,9,,Floyd,NEW ALBANY 21,0,0,0,0,0
 Ron Grooms,State Senate,46,R,Floyd,NEW ALBANY 21,65,8,35,0,108
 Anna Murray,State Senate,46,D,Floyd,NEW ALBANY 21,142,19,32,0,193
 Karen Engleman,State Representative,70,R,Floyd,NEW ALBANY 21,,,,,0
@@ -952,11 +952,11 @@ Sam Charbonne Au,State Representative,72,D,Floyd,NEW ALBANY 21,139,21,33,0,193
 Mike Braun,U.S. Senate,,R,Floyd,NEW ALBANY 22,89,113,12,0,214
 Joe Donnelly,U.S. Senate,,D,Floyd,NEW ALBANY 22,20,36,1,0,57
 Lucy M Brenton,U.S. Senate,,L,Floyd,NEW ALBANY 22,70,90,4,0,164
-Write In ,U.S. Senate,,,Floyd,NEW ALBANY 22,0,0,0,0,0
+Write In,U.S. Senate,,,Floyd,NEW ALBANY 22,0,0,0,0,0
 Connie Lawson,Secretary of State,,R,Floyd,NEW ALBANY 22,93,113,9,1,216
 Jim Harper,Secretary of State,,D,Floyd,NEW ALBANY 22,17,34,3,0,54
 Mark W. Rutherford,Secretary of State,,L,Floyd,NEW ALBANY 22,66,90,4,0,160
-Write In ,Secretary of State,,,Floyd,NEW ALBANY 22,0,0,0,0,0
+Write In,Secretary of State,,,Floyd,NEW ALBANY 22,0,0,0,0,0
 Tera Klutz,Auditor of State,,R,Floyd,NEW ALBANY 22,90,14,69,0,173
 Joselyn Whitticker,Auditor of State,,D,Floyd,NEW ALBANY 22,116,36,84,0,236
 John Schick,Auditor of State,,L,Floyd,NEW ALBANY 22,9,3,6,0,18
@@ -964,7 +964,7 @@ Kelly Mitchell,Treasurer of State,,R,Floyd,NEW ALBANY 22,106,18,72,0,196
 John C. Aguilera,Treasurer of State,,D,Floyd,NEW ALBANY 22,110,35,87,0,232
 Trey Hollingsworth,U.S. House,9,R,Floyd,NEW ALBANY 22,98,19,69,0,186
 Liz Watson,U.S. House,9,D,Floyd,NEW ALBANY 22,119,35,95,0,249
-Write In ,U.S. House,9,,Floyd,NEW ALBANY 22,0,0,0,0,0
+Write In,U.S. House,9,,Floyd,NEW ALBANY 22,0,0,0,0,0
 Ron Grooms,State Senate,46,R,Floyd,NEW ALBANY 22,99,22,74,0,195
 Anna Murray,State Senate,46,D,Floyd,NEW ALBANY 22,119,32,90,0,241
 Karen Engleman,State Representative,70,R,Floyd,NEW ALBANY 22,,,,,0
@@ -979,11 +979,11 @@ Sam Charbonne Au,State Representative,72,D,Floyd,NEW ALBANY 22,119,29,83,0,231
 Mike Braun,U.S. Senate,,R,Floyd,NEW ALBANY 23,96,162,13,0,271
 Joe Donnelly,U.S. Senate,,D,Floyd,NEW ALBANY 23,9,38,1,0,48
 Lucy M Brenton,U.S. Senate,,L,Floyd,NEW ALBANY 23,54,85,5,0,144
-Write In ,U.S. Senate,,,Floyd,NEW ALBANY 23,0,0,0,0,0
+Write In,U.S. Senate,,,Floyd,NEW ALBANY 23,0,0,0,0,0
 Connie Lawson,Secretary of State,,R,Floyd,NEW ALBANY 23,101,155,15,0,271
 Jim Harper,Secretary of State,,D,Floyd,NEW ALBANY 23,9,39,0,0,48
 Mark W. Rutherford,Secretary of State,,L,Floyd,NEW ALBANY 23,61,79,3,0,143
-Write In ,Secretary of State,,,Floyd,NEW ALBANY 23,0,0,0,0,0
+Write In,Secretary of State,,,Floyd,NEW ALBANY 23,0,0,0,0,0
 Tera Klutz,Auditor of State,,R,Floyd,NEW ALBANY 23,96,11,60,0,167
 Joselyn Whitticker,Auditor of State,,D,Floyd,NEW ALBANY 23,157,37,80,0,274
 John Schick,Auditor of State,,L,Floyd,NEW ALBANY 23,17,0,1,0,18
@@ -991,7 +991,7 @@ Kelly Mitchell,Treasurer of State,,R,Floyd,NEW ALBANY 23,99,12,60,0,171
 John C. Aguilera,Treasurer of State,,D,Floyd,NEW ALBANY 23,166,36,80,0,282
 Trey Hollingsworth,U.S. House,9,R,Floyd,NEW ALBANY 23,102,8,62,0,172
 Liz Watson,U.S. House,9,D,Floyd,NEW ALBANY 23,171,42,84,0,297
-Write In ,U.S. House,9,,Floyd,NEW ALBANY 23,0,0,0,0,0
+Write In,U.S. House,9,,Floyd,NEW ALBANY 23,0,0,0,0,0
 Ron Grooms,State Senate,46,R,Floyd,NEW ALBANY 23,99,9,60,0,168
 Anna Murray,State Senate,46,D,Floyd,NEW ALBANY 23,171,39,85,0,295
 Karen Engleman,State Representative,70,R,Floyd,NEW ALBANY 23,,,,,0
@@ -1006,11 +1006,11 @@ Sam Charbonne Au,State Representative,72,D,Floyd,NEW ALBANY 23,170,42,84,0,296
 Mike Braun,U.S. Senate,,R,Floyd,NEW ALBANY 24,64,98,12,0,174
 Joe Donnelly,U.S. Senate,,D,Floyd,NEW ALBANY 24,2,12,1,0,15
 Lucy M Brenton,U.S. Senate,,L,Floyd,NEW ALBANY 24,34,52,1,0,87
-Write In ,U.S. Senate,,,Floyd,NEW ALBANY 24,0,0,0,0,0
+Write In,U.S. Senate,,,Floyd,NEW ALBANY 24,0,0,0,0,0
 Connie Lawson,Secretary of State,,R,Floyd,NEW ALBANY 24,71,90,14,0,175
 Jim Harper,Secretary of State,,D,Floyd,NEW ALBANY 24,3,11,1,0,15
 Mark W. Rutherford,Secretary of State,,L,Floyd,NEW ALBANY 24,36,49,1,0,86
-Write In ,Secretary of State,,,Floyd,NEW ALBANY 24,0,0,0,0,0
+Write In,Secretary of State,,,Floyd,NEW ALBANY 24,0,0,0,0,0
 Tera Klutz,Auditor of State,,R,Floyd,NEW ALBANY 24,73,3,36,0,112
 Joselyn Whitticker,Auditor of State,,D,Floyd,NEW ALBANY 24,87,12,50,0,149
 John Schick,Auditor of State,,L,Floyd,NEW ALBANY 24,13,0,0,0,13
@@ -1018,7 +1018,7 @@ Kelly Mitchell,Treasurer of State,,R,Floyd,NEW ALBANY 24,82,2,38,0,122
 John C. Aguilera,Treasurer of State,,D,Floyd,NEW ALBANY 24,92,13,48,0,153
 Trey Hollingsworth,U.S. House,9,R,Floyd,NEW ALBANY 24,72,2,36,0,110
 Liz Watson,U.S. House,9,D,Floyd,NEW ALBANY 24,101,13,51,0,165
-Write In ,U.S. House,9,,Floyd,NEW ALBANY 24,1,0,0,0,1
+Write In,U.S. House,9,,Floyd,NEW ALBANY 24,1,0,0,0,1
 Ron Grooms,State Senate,46,R,Floyd,NEW ALBANY 24,77,5,38,0,120
 Anna Murray,State Senate,46,D,Floyd,NEW ALBANY 24,99,10,49,0,158
 Karen Engleman,State Representative,70,R,Floyd,NEW ALBANY 24,,,,,0
@@ -1033,11 +1033,11 @@ Sam Charbonne Au,State Representative,72,D,Floyd,NEW ALBANY 24,96,10,46,0,152
 Mike Braun,U.S. Senate,,R,Floyd,NEW ALBANY 25,39,62,7,0,108
 Joe Donnelly,U.S. Senate,,D,Floyd,NEW ALBANY 25,12,10,3,0,25
 Lucy M Brenton,U.S. Senate,,L,Floyd,NEW ALBANY 25,16,24,2,0,42
-Write In ,U.S. Senate,,,Floyd,NEW ALBANY 25,0,0,0,0,0
+Write In,U.S. Senate,,,Floyd,NEW ALBANY 25,0,0,0,0,0
 Connie Lawson,Secretary of State,,R,Floyd,NEW ALBANY 25,40,62,6,0,108
 Jim Harper,Secretary of State,,D,Floyd,NEW ALBANY 25,12,13,0,0,25
 Mark W. Rutherford,Secretary of State,,L,Floyd,NEW ALBANY 25,18,23,1,0,42
-Write In ,Secretary of State,,,Floyd,NEW ALBANY 25,0,0,0,0,0
+Write In,Secretary of State,,,Floyd,NEW ALBANY 25,0,0,0,0,0
 Tera Klutz,Auditor of State,,R,Floyd,NEW ALBANY 25,44,11,19,0,74
 Joselyn Whitticker,Auditor of State,,D,Floyd,NEW ALBANY 25,61,14,22,0,97
 John Schick,Auditor of State,,L,Floyd,NEW ALBANY 25,3,0,1,0,4
@@ -1045,7 +1045,7 @@ Kelly Mitchell,Treasurer of State,,R,Floyd,NEW ALBANY 25,44,12,17,0,73
 John C. Aguilera,Treasurer of State,,D,Floyd,NEW ALBANY 25,63,13,25,0,101
 Trey Hollingsworth,U.S. House,9,R,Floyd,NEW ALBANY 25,38,12,17,0,67
 Liz Watson,U.S. House,9,D,Floyd,NEW ALBANY 25,71,13,25,0,109
-Write In ,U.S. House,9,,Floyd,NEW ALBANY 25,0,0,0,0,0
+Write In,U.S. House,9,,Floyd,NEW ALBANY 25,0,0,0,0,0
 Ron Grooms,State Senate,46,R,Floyd,NEW ALBANY 25,40,12,16,0,68
 Anna Murray,State Senate,46,D,Floyd,NEW ALBANY 25,68,13,26,0,107
 Karen Engleman,State Representative,70,R,Floyd,NEW ALBANY 25,,,,,0
@@ -1060,11 +1060,11 @@ Sam Charbonne Au,State Representative,72,D,Floyd,NEW ALBANY 25,66,14,25,0,105
 Mike Braun,U.S. Senate,,R,Floyd,NEW ALBANY 26,157,145,15,0,317
 Joe Donnelly,U.S. Senate,,D,Floyd,NEW ALBANY 26,16,12,2,0,30
 Lucy M Brenton,U.S. Senate,,L,Floyd,NEW ALBANY 26,68,85,5,0,158
-Write In ,U.S. Senate,,,Floyd,NEW ALBANY 26,0,0,0,0,0
+Write In,U.S. Senate,,,Floyd,NEW ALBANY 26,0,0,0,0,0
 Connie Lawson,Secretary of State,,R,Floyd,NEW ALBANY 26,161,139,16,0,316
 Jim Harper,Secretary of State,,D,Floyd,NEW ALBANY 26,13,17,0,0,30
 Mark W. Rutherford,Secretary of State,,L,Floyd,NEW ALBANY 26,69,83,6,0,158
-Write In ,Secretary of State,,,Floyd,NEW ALBANY 26,0,0,0,0,0
+Write In,Secretary of State,,,Floyd,NEW ALBANY 26,0,0,0,0,0
 Tera Klutz,Auditor of State,,R,Floyd,NEW ALBANY 26,165,12,67,0,244
 Joselyn Whitticker,Auditor of State,,D,Floyd,NEW ALBANY 26,137,18,81,0,236
 John Schick,Auditor of State,,L,Floyd,NEW ALBANY 26,11,0,9,0,20
@@ -1072,7 +1072,7 @@ Kelly Mitchell,Treasurer of State,,R,Floyd,NEW ALBANY 26,173,13,74,0,260
 John C. Aguilera,Treasurer of State,,D,Floyd,NEW ALBANY 26,138,17,82,0,237
 Trey Hollingsworth,U.S. House,9,R,Floyd,NEW ALBANY 26,169,15,74,0,258
 Liz Watson,U.S. House,9,D,Floyd,NEW ALBANY 26,153,15,86,0,254
-Write In ,U.S. House,9,,Floyd,NEW ALBANY 26,0,0,0,0,0
+Write In,U.S. House,9,,Floyd,NEW ALBANY 26,0,0,0,0,0
 Ron Grooms,State Senate,46,R,Floyd,NEW ALBANY 26,168,13,75,0,256
 Anna Murray,State Senate,46,D,Floyd,NEW ALBANY 26,147,17,83,0,247
 Karen Engleman,State Representative,70,R,Floyd,NEW ALBANY 26,,,,,0
@@ -1087,11 +1087,11 @@ Sam Charbonne Au,State Representative,72,D,Floyd,NEW ALBANY 26,152,14,81,0,247
 Mike Braun,U.S. Senate,,R,Floyd,NEW ALBANY 27,106,136,14,0,256
 Joe Donnelly,U.S. Senate,,D,Floyd,NEW ALBANY 27,13,21,3,0,37
 Lucy M Brenton,U.S. Senate,,L,Floyd,NEW ALBANY 27,48,104,12,0,164
-Write In ,U.S. Senate,,,Floyd,NEW ALBANY 27,0,0,0,0,0
+Write In,U.S. Senate,,,Floyd,NEW ALBANY 27,0,0,0,0,0
 Connie Lawson,Secretary of State,,R,Floyd,NEW ALBANY 27,106,133,11,0,250
 Jim Harper,Secretary of State,,D,Floyd,NEW ALBANY 27,17,17,1,0,35
 Mark W. Rutherford,Secretary of State,,L,Floyd,NEW ALBANY 27,60,95,7,0,162
-Write In ,Secretary of State,,,Floyd,NEW ALBANY 27,0,0,0,0,0
+Write In,Secretary of State,,,Floyd,NEW ALBANY 27,0,0,0,0,0
 Tera Klutz,Auditor of State,,R,Floyd,NEW ALBANY 27,110,16,58,0,184
 Joselyn Whitticker,Auditor of State,,D,Floyd,NEW ALBANY 27,125,18,96,0,239
 John Schick,Auditor of State,,L,Floyd,NEW ALBANY 27,12,2,4,0,18
@@ -1099,7 +1099,7 @@ Kelly Mitchell,Treasurer of State,,R,Floyd,NEW ALBANY 27,117,15,61,0,193
 John C. Aguilera,Treasurer of State,,D,Floyd,NEW ALBANY 27,131,21,101,0,253
 Trey Hollingsworth,U.S. House,9,R,Floyd,NEW ALBANY 27,114,17,53,0,184
 Liz Watson,U.S. House,9,D,Floyd,NEW ALBANY 27,140,19,113,0,272
-Write In ,U.S. House,9,,Floyd,NEW ALBANY 27,0,0,0,0,0
+Write In,U.S. House,9,,Floyd,NEW ALBANY 27,0,0,0,0,0
 Ron Grooms,State Senate,46,R,Floyd,NEW ALBANY 27,120,20,67,0,207
 Anna Murray,State Senate,46,D,Floyd,NEW ALBANY 27,134,17,98,0,249
 Karen Engleman,State Representative,70,R,Floyd,NEW ALBANY 27,,,,,0
@@ -1114,11 +1114,11 @@ Sam Charbonne Au,State Representative,72,D,Floyd,NEW ALBANY 27,141,20,100,0,261
 Mike Braun,U.S. Senate,,R,Floyd,NEW ALBANY 28,185,141,12,1,339
 Joe Donnelly,U.S. Senate,,D,Floyd,NEW ALBANY 28,19,19,2,0,40
 Lucy M Brenton,U.S. Senate,,L,Floyd,NEW ALBANY 28,112,96,4,0,212
-Write In ,U.S. Senate,,,Floyd,NEW ALBANY 28,1,0,0,0,1
+Write In,U.S. Senate,,,Floyd,NEW ALBANY 28,1,0,0,0,1
 Connie Lawson,Secretary of State,,R,Floyd,NEW ALBANY 28,202,123,12,0,337
 Jim Harper,Secretary of State,,D,Floyd,NEW ALBANY 28,20,21,0,0,41
 Mark W. Rutherford,Secretary of State,,L,Floyd,NEW ALBANY 28,118,90,2,0,210
-Write In ,Secretary of State,,,Floyd,NEW ALBANY 28,1,0,0,0,1
+Write In,Secretary of State,,,Floyd,NEW ALBANY 28,1,0,0,0,1
 Tera Klutz,Auditor of State,,R,Floyd,NEW ALBANY 28,196,19,118,1,334
 Joselyn Whitticker,Auditor of State,,D,Floyd,NEW ALBANY 28,121,19,90,0,230
 John Schick,Auditor of State,,L,Floyd,NEW ALBANY 28,17,2,2,0,21
@@ -1126,7 +1126,7 @@ Kelly Mitchell,Treasurer of State,,R,Floyd,NEW ALBANY 28,207,20,126,1,354
 John C. Aguilera,Treasurer of State,,D,Floyd,NEW ALBANY 28,126,19,85,0,230
 Trey Hollingsworth,U.S. House,9,R,Floyd,NEW ALBANY 28,191,17,112,1,321
 Liz Watson,U.S. House,9,D,Floyd,NEW ALBANY 28,144,24,102,0,270
-Write In ,U.S. House,9,,Floyd,NEW ALBANY 28,0,0,0,0,0
+Write In,U.S. House,9,,Floyd,NEW ALBANY 28,0,0,0,0,0
 Ron Grooms,State Senate,46,R,Floyd,NEW ALBANY 28,205,17,119,1,342
 Anna Murray,State Senate,46,D,Floyd,NEW ALBANY 28,133,23,94,0,250
 Karen Engleman,State Representative,70,R,Floyd,NEW ALBANY 28,,,,,0
@@ -1141,11 +1141,11 @@ Sam Charbonne Au,State Representative,72,D,Floyd,NEW ALBANY 28,143,20,89,0,252
 Mike Braun,U.S. Senate,,R,Floyd,NEW ALBANY 29,111,147,13,0,271
 Joe Donnelly,U.S. Senate,,D,Floyd,NEW ALBANY 29,5,20,0,0,25
 Lucy M Brenton,U.S. Senate,,L,Floyd,NEW ALBANY 29,93,86,9,0,188
-Write In ,U.S. Senate,,,Floyd,NEW ALBANY 29,0,0,0,0,0
+Write In,U.S. Senate,,,Floyd,NEW ALBANY 29,0,0,0,0,0
 Connie Lawson,Secretary of State,,R,Floyd,NEW ALBANY 29,109,138,21,0,268
 Jim Harper,Secretary of State,,D,Floyd,NEW ALBANY 29,8,16,0,0,24
 Mark W. Rutherford,Secretary of State,,L,Floyd,NEW ALBANY 29,103,77,5,1,186
-Write In ,Secretary of State,,,Floyd,NEW ALBANY 29,0,0,0,0,0
+Write In,Secretary of State,,,Floyd,NEW ALBANY 29,0,0,0,0,0
 Tera Klutz,Auditor of State,,R,Floyd,NEW ALBANY 29,117,7,96,0,220
 Joselyn Whitticker,Auditor of State,,D,Floyd,NEW ALBANY 29,132,17,81,0,230
 John Schick,Auditor of State,,L,Floyd,NEW ALBANY 29,17,0,6,0,23
@@ -1153,7 +1153,7 @@ Kelly Mitchell,Treasurer of State,,R,Floyd,NEW ALBANY 29,125,6,100,0,231
 John C. Aguilera,Treasurer of State,,D,Floyd,NEW ALBANY 29,142,17,84,0,243
 Trey Hollingsworth,U.S. House,9,R,Floyd,NEW ALBANY 29,121,4,98,0,223
 Liz Watson,U.S. House,9,D,Floyd,NEW ALBANY 29,150,20,92,0,262
-Write In ,U.S. House,9,,Floyd,NEW ALBANY 29,0,0,0,0,0
+Write In,U.S. House,9,,Floyd,NEW ALBANY 29,0,0,0,0,0
 Ron Grooms,State Senate,46,R,Floyd,NEW ALBANY 29,125,8,105,0,238
 Anna Murray,State Senate,46,D,Floyd,NEW ALBANY 29,145,14,84,0,243
 Karen Engleman,State Representative,70,R,Floyd,NEW ALBANY 29,,,,,0
@@ -1168,11 +1168,11 @@ Sam Charbonne Au,State Representative,72,D,Floyd,NEW ALBANY 29,148,16,85,0,249
 Mike Braun,U.S. Senate,,R,Floyd,NEW ALBANY 30,141,64,11,0,216
 Joe Donnelly,U.S. Senate,,D,Floyd,NEW ALBANY 30,10,22,2,0,34
 Lucy M Brenton,U.S. Senate,,L,Floyd,NEW ALBANY 30,125,93,2,0,220
-Write In ,U.S. Senate,,,Floyd,NEW ALBANY 30,0,0,0,0,0
+Write In,U.S. Senate,,,Floyd,NEW ALBANY 30,0,0,0,0,0
 Connie Lawson,Secretary of State,,R,Floyd,NEW ALBANY 30,139,63,6,0,208
 Jim Harper,Secretary of State,,D,Floyd,NEW ALBANY 30,10,24,0,0,34
 Mark W. Rutherford,Secretary of State,,L,Floyd,NEW ALBANY 30,121,88,10,0,219
-Write In ,Secretary of State,,,Floyd,NEW ALBANY 30,0,0,0,0,0
+Write In,Secretary of State,,,Floyd,NEW ALBANY 30,0,0,0,0,0
 Tera Klutz,Auditor of State,,R,Floyd,NEW ALBANY 30,140,11,124,0,275
 Joselyn Whitticker,Auditor of State,,D,Floyd,NEW ALBANY 30,59,22,91,0,172
 John Schick,Auditor of State,,L,Floyd,NEW ALBANY 30,7,1,5,0,13
@@ -1180,7 +1180,7 @@ Kelly Mitchell,Treasurer of State,,R,Floyd,NEW ALBANY 30,148,11,129,0,288
 John C. Aguilera,Treasurer of State,,D,Floyd,NEW ALBANY 30,59,22,88,0,169
 Trey Hollingsworth,U.S. House,9,R,Floyd,NEW ALBANY 30,143,11,132,0,286
 Liz Watson,U.S. House,9,D,Floyd,NEW ALBANY 30,72,23,92,0,187
-Write In ,U.S. House,9,,Floyd,NEW ALBANY 30,0,0,0,0,0
+Write In,U.S. House,9,,Floyd,NEW ALBANY 30,0,0,0,0,0
 Ron Grooms,State Senate,46,R,Floyd,NEW ALBANY 30,149,12,135,0,296
 Anna Murray,State Senate,46,D,Floyd,NEW ALBANY 30,62,21,89,0,172
 Karen Engleman,State Representative,70,R,Floyd,NEW ALBANY 30,,,,,0
@@ -1195,11 +1195,11 @@ Sam Charbonne Au,State Representative,72,D,Floyd,NEW ALBANY 30,68,18,90,0,176
 Mike Braun,U.S. Senate,,R,Floyd,NEW ALBANY 31,209,84,11,0,304
 Joe Donnelly,U.S. Senate,,D,Floyd,NEW ALBANY 31,13,27,2,0,42
 Lucy M Brenton,U.S. Senate,,L,Floyd,NEW ALBANY 31,187,111,11,0,309
-Write In ,U.S. Senate,,,Floyd,NEW ALBANY 31,0,0,0,0,0
+Write In,U.S. Senate,,,Floyd,NEW ALBANY 31,0,0,0,0,0
 Connie Lawson,Secretary of State,,R,Floyd,NEW ALBANY 31,209,78,9,0,296
 Jim Harper,Secretary of State,,D,Floyd,NEW ALBANY 31,14,26,1,0,41
 Mark W. Rutherford,Secretary of State,,L,Floyd,NEW ALBANY 31,209,99,6,0,314
-Write In ,Secretary of State,,,Floyd,NEW ALBANY 31,0,0,0,0,0
+Write In,Secretary of State,,,Floyd,NEW ALBANY 31,0,0,0,0,0
 Tera Klutz,Auditor of State,,R,Floyd,NEW ALBANY 31,210,14,200,0,424
 Joselyn Whitticker,Auditor of State,,D,Floyd,NEW ALBANY 31,77,23,105,0,205
 John Schick,Auditor of State,,L,Floyd,NEW ALBANY 31,9,3,5,0,17
@@ -1207,7 +1207,7 @@ Kelly Mitchell,Treasurer of State,,R,Floyd,NEW ALBANY 31,221,15,208,0,444
 John C. Aguilera,Treasurer of State,,D,Floyd,NEW ALBANY 31,74,25,101,0,200
 Trey Hollingsworth,U.S. House,9,R,Floyd,NEW ALBANY 31,214,14,200,0,428
 Liz Watson,U.S. House,9,D,Floyd,NEW ALBANY 31,88,28,117,0,233
-Write In ,U.S. House,9,,Floyd,NEW ALBANY 31,1,0,0,0,1
+Write In,U.S. House,9,,Floyd,NEW ALBANY 31,1,0,0,0,1
 Ron Grooms,State Senate,46,R,Floyd,NEW ALBANY 31,221,18,214,0,453
 Anna Murray,State Senate,46,D,Floyd,NEW ALBANY 31,77,24,100,0,201
 Karen Engleman,State Representative,70,R,Floyd,NEW ALBANY 31,,,,,0
@@ -1222,11 +1222,11 @@ Sam Charbonne Au,State Representative,72,D,Floyd,NEW ALBANY 31,85,19,105,0,209
 Mike Braun,U.S. Senate,,R,Floyd,NEW ALBANY 32,186,129,10,0,325
 Joe Donnelly,U.S. Senate,,D,Floyd,NEW ALBANY 32,11,12,1,0,24
 Lucy M Brenton,U.S. Senate,,L,Floyd,NEW ALBANY 32,83,76,2,0,161
-Write In ,U.S. Senate,,,Floyd,NEW ALBANY 32,0,0,0,0,0
+Write In,U.S. Senate,,,Floyd,NEW ALBANY 32,0,0,0,0,0
 Connie Lawson,Secretary of State,,R,Floyd,NEW ALBANY 32,192,120,6,1,319
 Jim Harper,Secretary of State,,D,Floyd,NEW ALBANY 32,11,12,1,0,24
 Mark W. Rutherford,Secretary of State,,L,Floyd,NEW ALBANY 32,92,64,4,1,161
-Write In ,Secretary of State,,,Floyd,NEW ALBANY 32,0,0,0,0,0
+Write In,Secretary of State,,,Floyd,NEW ALBANY 32,0,0,0,0,0
 Tera Klutz,Auditor of State,,R,Floyd,NEW ALBANY 32,210,14,200,0,424
 Joselyn Whitticker,Auditor of State,,D,Floyd,NEW ALBANY 32,77,23,105,0,205
 John Schick,Auditor of State,,L,Floyd,NEW ALBANY 32,9,3,5,0,17
@@ -1234,7 +1234,7 @@ Kelly Mitchell,Treasurer of State,,R,Floyd,NEW ALBANY 32,221,15,208,0,444
 John C. Aguilera,Treasurer of State,,D,Floyd,NEW ALBANY 32,74,25,101,0,200
 Trey Hollingsworth,U.S. House,9,R,Floyd,NEW ALBANY 32,191,11,94,0,296
 Liz Watson,U.S. House,9,D,Floyd,NEW ALBANY 32,133,14,70,0,217
-Write In ,U.S. House,9,,Floyd,NEW ALBANY 32,0,0,0,0,0
+Write In,U.S. House,9,,Floyd,NEW ALBANY 32,0,0,0,0,0
 Ron Grooms,State Senate,46,R,Floyd,NEW ALBANY 32,202,10,95,0,307
 Anna Murray,State Senate,46,D,Floyd,NEW ALBANY 32,119,14,67,0,200
 Karen Engleman,State Representative,70,R,Floyd,NEW ALBANY 32,,,,,0
@@ -1249,11 +1249,11 @@ Sam Charbonne Au,State Representative,72,D,Floyd,NEW ALBANY 32,118,12,65,0,195
 Mike Braun,U.S. Senate,,R,Floyd,NEW ALBANY 33,175,104,4,0,283
 Joe Donnelly,U.S. Senate,,D,Floyd,NEW ALBANY 33,10,15,0,0,25
 Lucy M Brenton,U.S. Senate,,L,Floyd,NEW ALBANY 33,79,59,0,0,138
-Write In ,U.S. Senate,,,Floyd,NEW ALBANY 33,0,0,0,0,0
+Write In,U.S. Senate,,,Floyd,NEW ALBANY 33,0,0,0,0,0
 Connie Lawson,Secretary of State,,R,Floyd,NEW ALBANY 33,182,91,8,2,283
 Jim Harper,Secretary of State,,D,Floyd,NEW ALBANY 33,9,15,0,0,24
 Mark W. Rutherford,Secretary of State,,L,Floyd,NEW ALBANY 33,78,58,1,0,137
-Write In ,Secretary of State,,,Floyd,NEW ALBANY 33,0,0,0,0,0
+Write In,Secretary of State,,,Floyd,NEW ALBANY 33,0,0,0,0,0
 Tera Klutz,Auditor of State,,R,Floyd,NEW ALBANY 33,175,10,79,0,264
 Joselyn Whitticker,Auditor of State,,D,Floyd,NEW ALBANY 33,98,15,56,0,169
 John Schick,Auditor of State,,L,Floyd,NEW ALBANY 33,6,0,1,0,7
@@ -1261,7 +1261,7 @@ Kelly Mitchell,Treasurer of State,,R,Floyd,NEW ALBANY 33,185,10,77,0,272
 John C. Aguilera,Treasurer of State,,D,Floyd,NEW ALBANY 33,92,15,58,0,165
 Trey Hollingsworth,U.S. House,9,R,Floyd,NEW ALBANY 33,165,9,76,0,250
 Liz Watson,U.S. House,9,D,Floyd,NEW ALBANY 33,118,16,63,0,197
-Write In ,U.S. House,9,,Floyd,NEW ALBANY 33,0,0,0,0,0
+Write In,U.S. House,9,,Floyd,NEW ALBANY 33,0,0,0,0,0
 Ron Grooms,State Senate,46,R,Floyd,NEW ALBANY 33,180,10,86,0,276
 Anna Murray,State Senate,46,D,Floyd,NEW ALBANY 33,102,15,53,0,170
 Karen Engleman,State Representative,70,R,Floyd,NEW ALBANY 33,,,,,0
@@ -1276,11 +1276,11 @@ Sam Charbonne Au,State Representative,72,D,Floyd,NEW ALBANY 33,99,15,57,0,171
 Mike Braun,U.S. Senate,,R,Floyd,NEW ALBANY 34,176,126,6,0,308
 Joe Donnelly,U.S. Senate,,D,Floyd,NEW ALBANY 34,17,9,0,0,26
 Lucy M Brenton,U.S. Senate,,L,Floyd,NEW ALBANY 34,149,120,5,0,274
-Write In ,U.S. Senate,,,Floyd,NEW ALBANY 34,0,0,0,0,0
+Write In,U.S. Senate,,,Floyd,NEW ALBANY 34,0,0,0,0,0
 Connie Lawson,Secretary of State,,R,Floyd,NEW ALBANY 34,187,108,6,0,301
 Jim Harper,Secretary of State,,D,Floyd,NEW ALBANY 34,15,9,1,0,25
 Mark W. Rutherford,Secretary of State,,L,Floyd,NEW ALBANY 34,153,116,4,0,273
-Write In ,Secretary of State,,,Floyd,NEW ALBANY 34,0,0,0,0,0
+Write In,Secretary of State,,,Floyd,NEW ALBANY 34,0,0,0,0,0
 Tera Klutz,Auditor of State,,R,Floyd,NEW ALBANY 34,178,15,149,0,342
 Joselyn Whitticker,Auditor of State,,D,Floyd,NEW ALBANY 34,110,9,118,0,237
 John Schick,Auditor of State,,L,Floyd,NEW ALBANY 34,7,1,3,0,11
@@ -1288,7 +1288,7 @@ Kelly Mitchell,Treasurer of State,,R,Floyd,NEW ALBANY 34,194,16,157,0,367
 John C. Aguilera,Treasurer of State,,D,Floyd,NEW ALBANY 34,105,9,113,0,227
 Trey Hollingsworth,U.S. House,9,R,Floyd,NEW ALBANY 34,187,16,154,0,357
 Liz Watson,U.S. House,9,D,Floyd,NEW ALBANY 34,120,10,123,0,253
-Write In ,U.S. House,9,,Floyd,NEW ALBANY 34,0,0,0,0,0
+Write In,U.S. House,9,,Floyd,NEW ALBANY 34,0,0,0,0,0
 Ron Grooms,State Senate,46,R,Floyd,NEW ALBANY 34,192,17,162,0,371
 Anna Murray,State Senate,46,D,Floyd,NEW ALBANY 34,114,8,115,0,237
 Karen Engleman,State Representative,70,R,Floyd,NEW ALBANY 34,,,,,0
@@ -1303,11 +1303,11 @@ Sam Charbonne Au,State Representative,72,D,Floyd,NEW ALBANY 34,115,8,120,0,243
 Mike Braun,U.S. Senate,,R,Floyd,NEW ALBANY 35,200,135,12,1,348
 Joe Donnelly,U.S. Senate,,D,Floyd,NEW ALBANY 35,16,17,4,0,37
 Lucy M Brenton,U.S. Senate,,L,Floyd,NEW ALBANY 35,137,143,7,0,287
-Write In ,U.S. Senate,,,Floyd,NEW ALBANY 35,0,0,0,0,0
+Write In,U.S. Senate,,,Floyd,NEW ALBANY 35,0,0,0,0,0
 Connie Lawson,Secretary of State,,R,Floyd,NEW ALBANY 35,200,127,16,0,343
 Jim Harper,Secretary of State,,D,Floyd,NEW ALBANY 35,17,17,3,0,37
 Mark W. Rutherford,Secretary of State,,L,Floyd,NEW ALBANY 35,145,136,6,1,288
-Write In ,Secretary of State,,,Floyd,NEW ALBANY 35,0,0,0,0,0
+Write In,Secretary of State,,,Floyd,NEW ALBANY 35,0,0,0,0,0
 Tera Klutz,Auditor of State,,R,Floyd,NEW ALBANY 35,198,14,145,0,357
 Joselyn Whitticker,Auditor of State,,D,Floyd,NEW ALBANY 35,130,21,134,0,285
 John Schick,Auditor of State,,L,Floyd,NEW ALBANY 35,13,2,6,0,21
@@ -1315,7 +1315,7 @@ Kelly Mitchell,Treasurer of State,,R,Floyd,NEW ALBANY 35,207,18,149,0,374
 John C. Aguilera,Treasurer of State,,D,Floyd,NEW ALBANY 35,134,19,134,0,287
 Trey Hollingsworth,U.S. House,9,R,Floyd,NEW ALBANY 35,202,16,142,0,360
 Liz Watson,U.S. House,9,D,Floyd,NEW ALBANY 35,145,21,145,0,311
-Write In ,U.S. House,9,,Floyd,NEW ALBANY 35,1,0,0,0,1
+Write In,U.S. House,9,,Floyd,NEW ALBANY 35,1,0,0,0,1
 Ron Grooms,State Senate,46,R,Floyd,NEW ALBANY 35,209,15,155,0,379
 Anna Murray,State Senate,46,D,Floyd,NEW ALBANY 35,137,22,132,0,291
 Karen Engleman,State Representative,70,R,Floyd,NEW ALBANY 35,,,,,0
@@ -1330,11 +1330,11 @@ Sam Charbonne Au,State Representative,72,D,Floyd,NEW ALBANY 35,145,21,139,0,305
 Mike Braun,U.S. Senate,,R,Floyd,NEW ALBANY 36,116,123,6,0,245
 Joe Donnelly,U.S. Senate,,D,Floyd,NEW ALBANY 36,19,21,0,0,40
 Lucy M Brenton,U.S. Senate,,L,Floyd,NEW ALBANY 36,83,78,7,0,168
-Write In ,U.S. Senate,,,Floyd,NEW ALBANY 36,0,0,0,0,0
+Write In,U.S. Senate,,,Floyd,NEW ALBANY 36,0,0,0,0,0
 Connie Lawson,Secretary of State,,R,Floyd,NEW ALBANY 36,119,119,4,0,242
 Jim Harper,Secretary of State,,D,Floyd,NEW ALBANY 36,19,21,1,0,41
 Mark W. Rutherford,Secretary of State,,L,Floyd,NEW ALBANY 36,87,73,6,0,166
-Write In ,Secretary of State,,,Floyd,NEW ALBANY 36,0,0,0,0,0
+Write In,Secretary of State,,,Floyd,NEW ALBANY 36,0,0,0,0,0
 Tera Klutz,Auditor of State,,R,Floyd,NEW ALBANY 36,117,16,89,0,222
 Joselyn Whitticker,Auditor of State,,D,Floyd,NEW ALBANY 36,123,25,74,0,222
 John Schick,Auditor of State,,L,Floyd,NEW ALBANY 36,2,0,3,0,5
@@ -1342,7 +1342,7 @@ Kelly Mitchell,Treasurer of State,,R,Floyd,NEW ALBANY 36,128,19,93,0,240
 John C. Aguilera,Treasurer of State,,D,Floyd,NEW ALBANY 36,114,21,71,0,206
 Trey Hollingsworth,U.S. House,9,R,Floyd,NEW ALBANY 36,122,19,89,0,230
 Liz Watson,U.S. House,9,D,Floyd,NEW ALBANY 36,122,22,78,0,222
-Write In ,U.S. House,9,,Floyd,NEW ALBANY 36,0,0,0,0,0
+Write In,U.S. House,9,,Floyd,NEW ALBANY 36,0,0,0,0,0
 Ron Grooms,State Senate,46,R,Floyd,NEW ALBANY 36,129,22,93,0,244
 Anna Murray,State Senate,46,D,Floyd,NEW ALBANY 36,115,19,75,0,209
 Karen Engleman,State Representative,70,R,Floyd,NEW ALBANY 36,,,,,0
@@ -1357,11 +1357,11 @@ Sam Charbonne Au,State Representative,72,D,Floyd,NEW ALBANY 36,128,22,74,0,224
 Mike Braun,U.S. Senate,,R,Floyd,NEW ALBANY 37,153,107,11,1,272
 Joe Donnelly,U.S. Senate,,D,Floyd,NEW ALBANY 37,10,21,3,0,34
 Lucy M Brenton,U.S. Senate,,L,Floyd,NEW ALBANY 37,110,113,5,0,228
-Write In ,U.S. Senate,,,Floyd,NEW ALBANY 37,0,0,0,0,0
+Write In,U.S. Senate,,,Floyd,NEW ALBANY 37,0,0,0,0,0
 Connie Lawson,Secretary of State,,R,Floyd,NEW ALBANY 37,161,103,9,0,273
 Jim Harper,Secretary of State,,D,Floyd,NEW ALBANY 37,13,17,3,0,33
 Mark W. Rutherford,Secretary of State,,L,Floyd,NEW ALBANY 37,111,107,3,0,221
-Write In ,Secretary of State,,,Floyd,NEW ALBANY 37,0,0,0,0,0
+Write In,Secretary of State,,,Floyd,NEW ALBANY 37,0,0,0,0,0
 Tera Klutz,Auditor of State,,R,Floyd,NEW ALBANY 37,161,14,109,0,284
 Joselyn Whitticker,Auditor of State,,D,Floyd,NEW ALBANY 37,101,17,106,0,224
 John Schick,Auditor of State,,L,Floyd,NEW ALBANY 37,6,1,5,0,12
@@ -1369,7 +1369,7 @@ Kelly Mitchell,Treasurer of State,,R,Floyd,NEW ALBANY 37,168,13,113,0,294
 John C. Aguilera,Treasurer of State,,D,Floyd,NEW ALBANY 37,102,19,109,0,230
 Trey Hollingsworth,U.S. House,9,R,Floyd,NEW ALBANY 37,167,10,109,0,286
 Liz Watson,U.S. House,9,D,Floyd,NEW ALBANY 37,106,24,116,0,246
-Write In ,U.S. House,9,,Floyd,NEW ALBANY 37,0,0,0,0,0
+Write In,U.S. House,9,,Floyd,NEW ALBANY 37,0,0,0,0,0
 Ron Grooms,State Senate,46,R,Floyd,NEW ALBANY 37,168,11,117,0,296
 Anna Murray,State Senate,46,D,Floyd,NEW ALBANY 37,107,23,109,0,239
 Karen Engleman,State Representative,70,R,Floyd,NEW ALBANY 37,,,,,0
@@ -1384,11 +1384,11 @@ Sam Charbonne Au,State Representative,72,D,Floyd,NEW ALBANY 37,108,22,113,0,243
 Mike Braun,U.S. Senate,,R,Floyd,NEW ALBANY 38,207,124,5,0,336
 Joe Donnelly,U.S. Senate,,D,Floyd,NEW ALBANY 38,10,14,1,0,25
 Lucy M Brenton,U.S. Senate,,L,Floyd,NEW ALBANY 38,145,132,10,0,287
-Write In ,U.S. Senate,,,Floyd,NEW ALBANY 38,0,0,0,0,0
+Write In,U.S. Senate,,,Floyd,NEW ALBANY 38,0,0,0,0,0
 Connie Lawson,Secretary of State,,R,Floyd,NEW ALBANY 38,217,105,3,0,325
 Jim Harper,Secretary of State,,D,Floyd,NEW ALBANY 38,9,16,0,0,25
 Mark W. Rutherford,Secretary of State,,L,Floyd,NEW ALBANY 38,152,125,9,0,286
-Write In ,Secretary of State,,,Floyd,NEW ALBANY 38,0,0,0,0,0
+Write In,Secretary of State,,,Floyd,NEW ALBANY 38,0,0,0,0,0
 Tera Klutz,Auditor of State,,R,Floyd,NEW ALBANY 38,209,8,156,0,373
 Joselyn Whitticker,Auditor of State,,D,Floyd,NEW ALBANY 38,104,15,122,0,241
 John Schick,Auditor of State,,L,Floyd,NEW ALBANY 38,7,2,7,0,16
@@ -1396,7 +1396,7 @@ Kelly Mitchell,Treasurer of State,,R,Floyd,NEW ALBANY 38,216,10,163,0,389
 John C. Aguilera,Treasurer of State,,D,Floyd,NEW ALBANY 38,103,15,123,0,241
 Trey Hollingsworth,U.S. House,9,R,Floyd,NEW ALBANY 38,215,10,156,0,381
 Liz Watson,U.S. House,9,D,Floyd,NEW ALBANY 38,118,15,133,0,266
-Write In ,U.S. House,9,,Floyd,NEW ALBANY 38,0,0,0,0,0
+Write In,U.S. House,9,,Floyd,NEW ALBANY 38,0,0,0,0,0
 Ron Grooms,State Senate,46,R,Floyd,NEW ALBANY 38,219,8,163,0,390
 Anna Murray,State Senate,46,D,Floyd,NEW ALBANY 38,114,17,124,0,255
 Karen Engleman,State Representative,70,R,Floyd,NEW ALBANY 38,,,,,0
@@ -1411,11 +1411,11 @@ Sam Charbonne Au,State Representative,72,D,Floyd,NEW ALBANY 38,122,15,134,0,271
 Mike Braun,U.S. Senate,,R,Floyd,NEW ALBANY 39,213,91,7,0,311
 Joe Donnelly,U.S. Senate,,D,Floyd,NEW ALBANY 39,10,23,0,0,33
 Lucy M Brenton,U.S. Senate,,L,Floyd,NEW ALBANY 39,162,98,4,0,264
-Write In ,U.S. Senate,,,Floyd,NEW ALBANY 39,0,0,0,0,0
+Write In,U.S. Senate,,,Floyd,NEW ALBANY 39,0,0,0,0,0
 Connie Lawson,Secretary of State,,R,Floyd,NEW ALBANY 39,225,76,7,0,308
 Jim Harper,Secretary of State,,D,Floyd,NEW ALBANY 39,11,21,1,0,33
 Mark W. Rutherford,Secretary of State,,L,Floyd,NEW ALBANY 39,170,89,2,0,261
-Write In ,Secretary of State,,,Floyd,NEW ALBANY 39,0,0,0,0,0
+Write In,Secretary of State,,,Floyd,NEW ALBANY 39,0,0,0,0,0
 Tera Klutz,Auditor of State,,R,Floyd,NEW ALBANY 39,218,12,168,0,398
 Joselyn Whitticker,Auditor of State,,D,Floyd,NEW ALBANY 39,83,20,87,0,190
 John Schick,Auditor of State,,L,Floyd,NEW ALBANY 39,6,0,5,0,11
@@ -1423,7 +1423,7 @@ Kelly Mitchell,Treasurer of State,,R,Floyd,NEW ALBANY 39,231,13,172,0,416
 John C. Aguilera,Treasurer of State,,D,Floyd,NEW ALBANY 39,77,19,89,0,185
 Trey Hollingsworth,U.S. House,9,R,Floyd,NEW ALBANY 39,225,11,171,0,407
 Liz Watson,U.S. House,9,D,Floyd,NEW ALBANY 39,90,22,94,0,206
-Write In ,U.S. House,9,,Floyd,NEW ALBANY 39,0,0,0,0,0
+Write In,U.S. House,9,,Floyd,NEW ALBANY 39,0,0,0,0,0
 Ron Grooms,State Senate,46,R,Floyd,NEW ALBANY 39,236,13,181,0,430
 Anna Murray,State Senate,46,D,Floyd,NEW ALBANY 39,78,20,85,0,183
 Karen Engleman,State Representative,70,R,Floyd,NEW ALBANY 39,,,,,0
@@ -1438,11 +1438,11 @@ Sam Charbonne Au,State Representative,72,D,Floyd,NEW ALBANY 39,79,20,84,0,183
 Mike Braun,U.S. Senate,,R,Floyd,NEW ALBANY 40,104,102,14,0,220
 Joe Donnelly,U.S. Senate,,D,Floyd,NEW ALBANY 40,10,26,0,0,36
 Lucy M Brenton,U.S. Senate,,L,Floyd,NEW ALBANY 40,109,106,7,0,222
-Write In ,U.S. Senate,,,Floyd,NEW ALBANY 40,0,0,0,0,0
+Write In,U.S. Senate,,,Floyd,NEW ALBANY 40,0,0,0,0,0
 Connie Lawson,Secretary of State,,R,Floyd,NEW ALBANY 40,104,98,10,0,212
 Jim Harper,Secretary of State,,D,Floyd,NEW ALBANY 40,10,24,1,0,35
 Mark W. Rutherford,Secretary of State,,L,Floyd,NEW ALBANY 40,106,106,7,0,219
-Write In ,Secretary of State,,,Floyd,NEW ALBANY 40,0,0,0,0,0
+Write In,Secretary of State,,,Floyd,NEW ALBANY 40,0,0,0,0,0
 Tera Klutz,Auditor of State,,R,Floyd,NEW ALBANY 40,106,10,106,0,222
 Joselyn Whitticker,Auditor of State,,D,Floyd,NEW ALBANY 40,93,25,107,0,225
 John Schick,Auditor of State,,L,Floyd,NEW ALBANY 40,9,0,6,0,15
@@ -1450,7 +1450,7 @@ Kelly Mitchell,Treasurer of State,,R,Floyd,NEW ALBANY 40,114,9,114,0,237
 John C. Aguilera,Treasurer of State,,D,Floyd,NEW ALBANY 40,97,25,105,0,227
 Trey Hollingsworth,U.S. House,9,R,Floyd,NEW ALBANY 40,111,9,107,0,227
 Liz Watson,U.S. House,9,D,Floyd,NEW ALBANY 40,103,26,110,0,239
-Write In ,U.S. House,9,,Floyd,NEW ALBANY 40,1,0,1,0,2
+Write In,U.S. House,9,,Floyd,NEW ALBANY 40,1,0,1,0,2
 Ron Grooms,State Senate,46,R,Floyd,NEW ALBANY 40,106,11,108,0,225
 Anna Murray,State Senate,46,D,Floyd,NEW ALBANY 40,106,24,109,0,239
 Karen Engleman,State Representative,70,R,Floyd,NEW ALBANY 40,,,,,0
@@ -1465,11 +1465,11 @@ Sam Charbonne Au,State Representative,72,D,Floyd,NEW ALBANY 40,93,24,103,0,220
 Mike Braun,U.S. Senate,,R,Floyd,NEW ALBANY 41,165,139,12,0,316
 Joe Donnelly,U.S. Senate,,D,Floyd,NEW ALBANY 41,20,36,2,0,58
 Lucy M Brenton,U.S. Senate,,L,Floyd,NEW ALBANY 41,129,102,7,0,238
-Write In ,U.S. Senate,,,Floyd,NEW ALBANY 41,0,0,0,0,0
+Write In,U.S. Senate,,,Floyd,NEW ALBANY 41,0,0,0,0,0
 Connie Lawson,Secretary of State,,R,Floyd,NEW ALBANY 41,166,135,12,0,313
 Jim Harper,Secretary of State,,D,Floyd,NEW ALBANY 41,27,31,1,0,59
 Mark W. Rutherford,Secretary of State,,L,Floyd,NEW ALBANY 41,135,101,1,0,237
-Write In ,Secretary of State,,,Floyd,NEW ALBANY 41,0,0,0,0,0
+Write In,Secretary of State,,,Floyd,NEW ALBANY 41,0,0,0,0,0
 Tera Klutz,Auditor of State,,R,Floyd,NEW ALBANY 41,168,22,137,0,327
 Joselyn Whitticker,Auditor of State,,D,Floyd,NEW ALBANY 41,134,36,96,0,266
 John Schick,Auditor of State,,L,Floyd,NEW ALBANY 41,9,0,1,0,10
@@ -1477,7 +1477,7 @@ Kelly Mitchell,Treasurer of State,,R,Floyd,NEW ALBANY 41,170,24,139,0,333
 John C. Aguilera,Treasurer of State,,D,Floyd,NEW ALBANY 41,143,33,96,0,272
 Trey Hollingsworth,U.S. House,9,R,Floyd,NEW ALBANY 41,170,21,135,0,326
 Liz Watson,U.S. House,9,D,Floyd,NEW ALBANY 41,149,38,104,0,291
-Write In ,U.S. House,9,,Floyd,NEW ALBANY 41,0,0,1,0,1
+Write In,U.S. House,9,,Floyd,NEW ALBANY 41,0,0,1,0,1
 Ron Grooms,State Senate,46,R,Floyd,NEW ALBANY 41,177,26,143,0,346
 Anna Murray,State Senate,46,D,Floyd,NEW ALBANY 41,140,34,96,0,270
 Karen Engleman,State Representative,70,R,Floyd,NEW ALBANY 41,,,,,0
@@ -1492,11 +1492,11 @@ Sam Charbonne Au,State Representative,72,D,Floyd,NEW ALBANY 41,144,33,99,0,276
 Mike Braun,U.S. Senate,,R,Floyd,NEW ALBANY 42,86,88,5,0,179
 Joe Donnelly,U.S. Senate,,D,Floyd,NEW ALBANY 42,8,24,0,0,32
 Lucy M Brenton,U.S. Senate,,L,Floyd,NEW ALBANY 42,151,119,10,0,280
-Write In ,U.S. Senate,,,Floyd,NEW ALBANY 42,0,0,0,0,0
+Write In,U.S. Senate,,,Floyd,NEW ALBANY 42,0,0,0,0,0
 Connie Lawson,Secretary of State,,R,Floyd,NEW ALBANY 42,83,84,6,0,173
 Jim Harper,Secretary of State,,D,Floyd,NEW ALBANY 42,8,26,0,0,34
 Mark W. Rutherford,Secretary of State,,L,Floyd,NEW ALBANY 42,157,112,8,0,277
-Write In ,Secretary of State,,,Floyd,NEW ALBANY 42,0,0,0,0,0
+Write In,Secretary of State,,,Floyd,NEW ALBANY 42,0,0,0,0,0
 Tera Klutz,Auditor of State,,R,Floyd,NEW ALBANY 42,89,8,155,0,252
 Joselyn Whitticker,Auditor of State,,D,Floyd,NEW ALBANY 42,75,25,115,0,215
 John Schick,Auditor of State,,L,Floyd,NEW ALBANY 42,6,0,6,0,12
@@ -1504,7 +1504,7 @@ Kelly Mitchell,Treasurer of State,,R,Floyd,NEW ALBANY 42,91,9,158,0,258
 John C. Aguilera,Treasurer of State,,D,Floyd,NEW ALBANY 42,81,24,115,0,220
 Trey Hollingsworth,U.S. House,9,R,Floyd,NEW ALBANY 42,91,8,160,0,259
 Liz Watson,U.S. House,9,D,Floyd,NEW ALBANY 42,87,26,121,0,234
-Write In ,U.S. House,9,,Floyd,NEW ALBANY 42,0,0,0,0,0
+Write In,U.S. House,9,,Floyd,NEW ALBANY 42,0,0,0,0,0
 Ron Grooms,State Senate,46,R,Floyd,NEW ALBANY 42,86,12,168,0,266
 Anna Murray,State Senate,46,D,Floyd,NEW ALBANY 42,89,21,112,0,222
 Karen Engleman,State Representative,70,R,Floyd,NEW ALBANY 42,,,,,0
@@ -1519,11 +1519,11 @@ Sam Charbonne Au,State Representative,72,D,Floyd,NEW ALBANY 42,88,23,110,0,221
 Mike Braun,U.S. Senate,,R,Floyd,NEW ALBANY 43,77,99,7,1,184
 Joe Donnelly,U.S. Senate,,D,Floyd,NEW ALBANY 43,8,12,0,0,20
 Lucy M Brenton,U.S. Senate,,L,Floyd,NEW ALBANY 43,63,80,7,0,150
-Write In ,U.S. Senate,,,Floyd,NEW ALBANY 43,0,0,0,0,0
+Write In,U.S. Senate,,,Floyd,NEW ALBANY 43,0,0,0,0,0
 Connie Lawson,Secretary of State,,R,Floyd,NEW ALBANY 43,80,92,4,0,176
 Jim Harper,Secretary of State,,D,Floyd,NEW ALBANY 43,9,11,0,0,20
 Mark W. Rutherford,Secretary of State,,L,Floyd,NEW ALBANY 43,75,71,3,0,149
-Write In ,Secretary of State,,,Floyd,NEW ALBANY 43,0,0,0,0,0
+Write In,Secretary of State,,,Floyd,NEW ALBANY 43,0,0,0,0,0
 Tera Klutz,Auditor of State,,R,Floyd,NEW ALBANY 43,73,9,68,0,150
 Joselyn Whitticker,Auditor of State,,D,Floyd,NEW ALBANY 43,94,9,77,0,180
 John Schick,Auditor of State,,L,Floyd,NEW ALBANY 43,6,2,3,0,11
@@ -1531,7 +1531,7 @@ Kelly Mitchell,Treasurer of State,,R,Floyd,NEW ALBANY 43,83,10,74,0,167
 John C. Aguilera,Treasurer of State,,D,Floyd,NEW ALBANY 43,93,10,74,0,177
 Trey Hollingsworth,U.S. House,9,R,Floyd,NEW ALBANY 43,81,8,70,0,159
 Liz Watson,U.S. House,9,D,Floyd,NEW ALBANY 43,100,13,80,0,193
-Write In ,U.S. House,9,,Floyd,NEW ALBANY 43,0,0,0,0,0
+Write In,U.S. House,9,,Floyd,NEW ALBANY 43,0,0,0,0,0
 Ron Grooms,State Senate,46,R,Floyd,NEW ALBANY 43,80,11,71,0,162
 Anna Murray,State Senate,46,D,Floyd,NEW ALBANY 43,98,10,78,0,186
 Karen Engleman,State Representative,70,R,Floyd,NEW ALBANY 43,,,,,0
@@ -1546,11 +1546,11 @@ Sam Charbonne Au,State Representative,72,D,Floyd,NEW ALBANY 43,100,13,76,0,189
 Mike Braun,U.S. Senate,,R,Floyd,NEW ALBANY 44,196,150,16,0,362
 Joe Donnelly,U.S. Senate,,D,Floyd,NEW ALBANY 44,8,23,3,0,34
 Lucy M Brenton,U.S. Senate,,L,Floyd,NEW ALBANY 44,89,127,11,0,227
-Write In ,U.S. Senate,,,Floyd,NEW ALBANY 44,1,0,0,0,1
+Write In,U.S. Senate,,,Floyd,NEW ALBANY 44,1,0,0,0,1
 Connie Lawson,Secretary of State,,R,Floyd,NEW ALBANY 44,204,132,20,0,356
 Jim Harper,Secretary of State,,D,Floyd,NEW ALBANY 44,10,23,1,0,34
 Mark W. Rutherford,Secretary of State,,L,Floyd,NEW ALBANY 44,92,121,5,0,218
-Write In ,Secretary of State,,,Floyd,NEW ALBANY 44,1,0,0,0,1
+Write In,Secretary of State,,,Floyd,NEW ALBANY 44,1,0,0,0,1
 Tera Klutz,Auditor of State,,R,Floyd,NEW ALBANY 44,206,10,91,0,307
 Joselyn Whitticker,Auditor of State,,D,Floyd,NEW ALBANY 44,132,23,116,0,271
 John Schick,Auditor of State,,L,Floyd,NEW ALBANY 44,14,0,9,0,23
@@ -1558,7 +1558,7 @@ Kelly Mitchell,Treasurer of State,,R,Floyd,NEW ALBANY 44,211,10,100,1,322
 John C. Aguilera,Treasurer of State,,D,Floyd,NEW ALBANY 44,137,24,114,0,275
 Trey Hollingsworth,U.S. House,9,R,Floyd,NEW ALBANY 44,213,9,98,1,321
 Liz Watson,U.S. House,9,D,Floyd,NEW ALBANY 44,152,25,128,0,305
-Write In ,U.S. House,9,,Floyd,NEW ALBANY 44,0,0,0,0,0
+Write In,U.S. House,9,,Floyd,NEW ALBANY 44,0,0,0,0,0
 Ron Grooms,State Senate,46,R,Floyd,NEW ALBANY 44,219,13,112,1,345
 Anna Murray,State Senate,46,D,Floyd,NEW ALBANY 44,141,21,113,0,275
 Karen Engleman,State Representative,70,R,Floyd,NEW ALBANY 44,,,,,0
@@ -1573,11 +1573,11 @@ Sam Charbonne Au,State Representative,72,D,Floyd,NEW ALBANY 44,152,22,126,0,300
 Mike Braun,U.S. Senate,,R,Floyd,NEW ALBANY 45,88,58,6,0,152
 Joe Donnelly,U.S. Senate,,D,Floyd,NEW ALBANY 45,4,9,0,0,13
 Lucy M Brenton,U.S. Senate,,L,Floyd,NEW ALBANY 45,64,58,4,0,126
-Write In ,U.S. Senate,,,Floyd,NEW ALBANY 45,0,0,0,0,0
+Write In,U.S. Senate,,,Floyd,NEW ALBANY 45,0,0,0,0,0
 Connie Lawson,Secretary of State,,R,Floyd,NEW ALBANY 45,95,47,6,0,148
 Jim Harper,Secretary of State,,D,Floyd,NEW ALBANY 45,7,6,0,0,13
 Mark W. Rutherford,Secretary of State,,L,Floyd,NEW ALBANY 45,70,54,1,0,125
-Write In ,Secretary of State,,,Floyd,NEW ALBANY 45,0,0,0,0,0
+Write In,Secretary of State,,,Floyd,NEW ALBANY 45,0,0,0,0,0
 Tera Klutz,Auditor of State,,R,Floyd,NEW ALBANY 45,94,6,65,0,165
 Joselyn Whitticker,Auditor of State,,D,Floyd,NEW ALBANY 45,51,7,58,0,116
 John Schick,Auditor of State,,L,Floyd,NEW ALBANY 45,3,0,2,0,5
@@ -1585,7 +1585,7 @@ Kelly Mitchell,Treasurer of State,,R,Floyd,NEW ALBANY 45,99,5,72,0,176
 John C. Aguilera,Treasurer of State,,D,Floyd,NEW ALBANY 45,48,8,53,0,109
 Trey Hollingsworth,U.S. House,9,R,Floyd,NEW ALBANY 45,96,5,67,0,168
 Liz Watson,U.S. House,9,D,Floyd,NEW ALBANY 45,55,8,60,0,123
-Write In ,U.S. House,9,,Floyd,NEW ALBANY 45,0,0,0,0,0
+Write In,U.S. House,9,,Floyd,NEW ALBANY 45,0,0,0,0,0
 Ron Grooms,State Senate,46,R,Floyd,NEW ALBANY 45,101,7,69,0,177
 Anna Murray,State Senate,46,D,Floyd,NEW ALBANY 45,50,6,58,0,114
 Karen Engleman,State Representative,70,R,Floyd,NEW ALBANY 45,,,,,0
@@ -1600,11 +1600,11 @@ Sam Charbonne Au,State Representative,72,D,Floyd,NEW ALBANY 45,50,4,47,0,101
 Mike Braun,U.S. Senate,,R,Floyd,NEW ALBANY 46,111,58,3,0,172
 Joe Donnelly,U.S. Senate,,D,Floyd,NEW ALBANY 46,10,4,0,0,14
 Lucy M Brenton,U.S. Senate,,L,Floyd,NEW ALBANY 46,89,44,1,0,134
-Write In ,U.S. Senate,,,Floyd,NEW ALBANY 46,1,0,0,0,1
+Write In,U.S. Senate,,,Floyd,NEW ALBANY 46,1,0,0,0,1
 Connie Lawson,Secretary of State,,R,Floyd,NEW ALBANY 46,117,52,4,0,173
 Jim Harper,Secretary of State,,D,Floyd,NEW ALBANY 46,10,4,0,0,14
 Mark W. Rutherford,Secretary of State,,L,Floyd,NEW ALBANY 46,92,41,1,0,134
-Write In ,Secretary of State,,,Floyd,NEW ALBANY 46,1,0,0,0,1
+Write In,Secretary of State,,,Floyd,NEW ALBANY 46,1,0,0,0,1
 Tera Klutz,Auditor of State,,R,Floyd,NEW ALBANY 46,118,10,92,1,221
 Joselyn Whitticker,Auditor of State,,D,Floyd,NEW ALBANY 46,47,4,40,0,91
 John Schick,Auditor of State,,L,Floyd,NEW ALBANY 46,4,0,1,0,5
@@ -1612,7 +1612,7 @@ Kelly Mitchell,Treasurer of State,,R,Floyd,NEW ALBANY 46,124,10,95,1,230
 John C. Aguilera,Treasurer of State,,D,Floyd,NEW ALBANY 46,46,4,39,0,89
 Trey Hollingsworth,U.S. House,9,R,Floyd,NEW ALBANY 46,120,10,94,1,225
 Liz Watson,U.S. House,9,D,Floyd,NEW ALBANY 46,57,4,40,0,101
-Write In ,U.S. House,9,,Floyd,NEW ALBANY 46,0,0,0,0,0
+Write In,U.S. House,9,,Floyd,NEW ALBANY 46,0,0,0,0,0
 Ron Grooms,State Senate,46,R,Floyd,NEW ALBANY 46,123,10,95,1,229
 Anna Murray,State Senate,46,D,Floyd,NEW ALBANY 46,52,4,38,0,94
 Karen Engleman,State Representative,70,R,Floyd,NEW ALBANY 46,,,,,0

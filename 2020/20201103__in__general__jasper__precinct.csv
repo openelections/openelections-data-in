@@ -1,6 +1,6 @@
 county,precinct,office,district,party,candidate,election_day,absentee,early_voting,votes
 Jasper,Barkley North,,,,Registered Voters,,,,377
-Jasper,Barkley North,,,,Ballots Cast ,172,27,82,281
+Jasper,Barkley North,,,,Ballots Cast,172,27,82,281
 Jasper,Barkley North,President,,REP,Donald J Trump,142,19,51,212
 Jasper,Barkley North,President,,DEM,Joseph R Biden,22,8,28,58
 Jasper,Barkley North,President,,LIB,Jo Jorgensen,3,0,0,3
@@ -18,7 +18,7 @@ Jasper,Barkley North,State Senator,5,DEM,Luke Bohm,25,7,24,56
 Jasper,Barkley North,State Representative,16,REP,Douglas L Gutwein,142,19,52,213
 Jasper,Barkley North,State Representative,16,DEM,Michael A Lovely,27,8,27,62
 Jasper,Barkley South,,,,Registered Voters,,,,245
-Jasper,Barkley South,,,,Ballots Cast ,89,28,80,197
+Jasper,Barkley South,,,,Ballots Cast,89,28,80,197
 Jasper,Barkley South,President,,REP,Donald J Trump,81,17,58,156
 Jasper,Barkley South,President,,DEM,Joseph R Biden,6,9,17,32
 Jasper,Barkley South,President,,LIB,Jo Jorgensen,1,2,5,8
@@ -36,7 +36,7 @@ Jasper,Barkley South,State Senator,5,DEM,Luke Bohm,7,7,14,28
 Jasper,Barkley South,State Representative,16,REP,Douglas L Gutwein,73,20,61,154
 Jasper,Barkley South,State Representative,16,DEM,Michael A Lovely,14,8,16,38
 Jasper,Carpenter East,,,,Registered Voters,,,,654
-Jasper,Carpenter East,,,,Ballots Cast ,271,8,168,447
+Jasper,Carpenter East,,,,Ballots Cast,271,8,168,447
 Jasper,Carpenter East,President,,REP,Donald J Trump,210,5,111,326
 Jasper,Carpenter East,President,,DEM,Joseph R Biden,47,3,53,103
 Jasper,Carpenter East,President,,LIB,Jo Jorgensen,9,0,1,10
@@ -54,7 +54,7 @@ Jasper,Carpenter East,State Senator,7,DEM,Tabitha N Bartley,43,3,46,92
 Jasper,Carpenter East,State Representative,13,REP,Sharon Negele,225,5,114,344
 Jasper,Carpenter East,State Representative,13,DEM,Loretta Barnes,38,3,47,88
 Jasper,Carpenter West,,,,Registered Voters,,,,626
-Jasper,Carpenter West,,,,Ballots Cast ,290,1,129,420
+Jasper,Carpenter West,,,,Ballots Cast,290,1,129,420
 Jasper,Carpenter West,President,,REP,Donald J Trump,244,1,80,325
 Jasper,Carpenter West,President,,DEM,Joseph R Biden,33,0,43,76
 Jasper,Carpenter West,President,,LIB,Jo Jorgensen,9,0,2,11
@@ -72,7 +72,7 @@ Jasper,Carpenter West,State Senator,7,DEM,Tabitha N Bartley,36,0,37,73
 Jasper,Carpenter West,State Representative,13,REP,Sharon Negele,248,0,88,336
 Jasper,Carpenter West,State Representative,13,DEM,Loretta Barnes,33,0,38,71
 Jasper,Gillam,,,,Registered Voters,,,,417
-Jasper,Gillam,,,,Ballots Cast ,186,42,56,284
+Jasper,Gillam,,,,Ballots Cast,186,42,56,284
 Jasper,Gillam,President,,REP,Donald J Trump,162,22,49,233
 Jasper,Gillam,President,,DEM,Joseph R Biden,21,18,5,44
 Jasper,Gillam,President,,LIB,Jo Jorgensen,2,2,1,5
@@ -90,7 +90,7 @@ Jasper,Gillam,State Senator,5,DEM,Luke Bohm,26,20,7,53
 Jasper,Gillam,State Representative,16,REP,Douglas L Gutwein,134,21,43,198
 Jasper,Gillam,State Representative,16,DEM,Michael A Lovely,48,21,12,81
 Jasper,Hanging Grove,,,,Registered Voters,,,,164
-Jasper,Hanging Grove,,,,Ballots Cast ,70,18,42,130
+Jasper,Hanging Grove,,,,Ballots Cast,70,18,42,130
 Jasper,Hanging Grove,President,,REP,Donald J Trump,66,11,37,114
 Jasper,Hanging Grove,President,,DEM,Joseph R Biden,3,6,5,14
 Jasper,Hanging Grove,President,,LIB,Jo Jorgensen,1,1,0,2
@@ -108,7 +108,7 @@ Jasper,Hanging Grove,State Senator,7,DEM,Tabitha N Bartley,3,3,5,11
 Jasper,Hanging Grove,State Representative,16,REP,Douglas L Gutwein,61,12,36,109
 Jasper,Hanging Grove,State Representative,16,DEM,Michael A Lovely,6,5,5,16
 Jasper,Jordan,,,,Registered Voters,,,,231
-Jasper,Jordan,,,,Ballots Cast ,104,26,52,182
+Jasper,Jordan,,,,Ballots Cast,104,26,52,182
 Jasper,Jordan,President,,REP,Donald J Trump,83,7,35,125
 Jasper,Jordan,President,,DEM,Joseph R Biden,19,19,16,54
 Jasper,Jordan,President,,LIB,Jo Jorgensen,2,0,0,2
@@ -126,7 +126,7 @@ Jasper,Jordan,State Senator,7,DEM,Tabitha N Bartley,16,15,12,43
 Jasper,Jordan,State Representative,13,REP,Sharon Negele,79,14,41,134
 Jasper,Jordan,State Representative,13,DEM,Loretta Barnes,21,10,10,41
 Jasper,Kankakee,,,,Registered Voters,,,,660
-Jasper,Kankakee,,,,Ballots Cast ,332,43,75,450
+Jasper,Kankakee,,,,Ballots Cast,332,43,75,450
 Jasper,Kankakee,President,,REP,Donald J Trump,239,18,46,303
 Jasper,Kankakee,President,,DEM,Joseph R Biden,80,22,26,128
 Jasper,Kankakee,President,,LIB,Jo Jorgensen,8,1,1,10
@@ -144,7 +144,7 @@ Jasper,Kankakee,State Senator,5,DEM,Luke Bohm,87,18,25,130
 Jasper,Kankakee,State Representative,16,REP,Douglas L Gutwein,221,17,45,283
 Jasper,Kankakee,State Representative,16,DEM,Michael A Lovely,98,22,27,147
 Jasper,Keener 1,,,,Registered Voters,,,,1422
-Jasper,Keener 1,,,,Ballots Cast ,445,146,384,975
+Jasper,Keener 1,,,,Ballots Cast,445,146,384,975
 Jasper,Keener 1,President,,REP,Donald J Trump,341,68,272,681
 Jasper,Keener 1,President,,DEM,Joseph R Biden,82,75,100,257
 Jasper,Keener 1,President,,LIB,Jo Jorgensen,16,2,6,24
@@ -162,7 +162,7 @@ Jasper,Keener 1,State Senator,5,DEM,Luke Bohm,87,64,95,246
 Jasper,Keener 1,State Representative,16,REP,Douglas L Gutwein,330,75,280,685
 Jasper,Keener 1,State Representative,16,DEM,Michael A Lovely,103,59,97,259
 Jasper,Keener 2,,,,Registered Voters,,,,1518
-Jasper,Keener 2,,,,Ballots Cast ,501,136,444,1081
+Jasper,Keener 2,,,,Ballots Cast,501,136,444,1081
 Jasper,Keener 2,President,,REP,Donald J Trump,406,59,325,790
 Jasper,Keener 2,President,,DEM,Joseph R Biden,72,74,106,252
 Jasper,Keener 2,President,,LIB,Jo Jorgensen,14,1,7,22
@@ -180,7 +180,7 @@ Jasper,Keener 2,State Senator,5,DEM,Luke Bohm,82,58,94,234
 Jasper,Keener 2,State Representative,16,REP,Douglas L Gutwein,392,74,328,794
 Jasper,Keener 2,State Representative,16,DEM,Michael A Lovely,95,58,108,261
 Jasper,Keener 3,,,,Registered Voters,,,,1661
-Jasper,Keener 3,,,,Ballots Cast ,559,122,422,1103
+Jasper,Keener 3,,,,Ballots Cast,559,122,422,1103
 Jasper,Keener 3,President,,REP,Donald J Trump,455,43,315,813
 Jasper,Keener 3,President,,DEM,Joseph R Biden,92,76,95,263
 Jasper,Keener 3,President,,LIB,Jo Jorgensen,7,2,4,13
@@ -198,7 +198,7 @@ Jasper,Keener 3,State Senator,5,DEM,Luke Bohm,91,65,81,237
 Jasper,Keener 3,State Representative,16,REP,Douglas L Gutwein,442,48,316,806
 Jasper,Keener 3,State Representative,16,DEM,Michael A Lovely,106,68,94,268
 Jasper,Keener 4,,,,Registered Voters,,,,1479
-Jasper,Keener 4,,,,Ballots Cast ,321,151,514,986
+Jasper,Keener 4,,,,Ballots Cast,321,151,514,986
 Jasper,Keener 4,President,,REP,Donald J Trump,243,69,361,673
 Jasper,Keener 4,President,,DEM,Joseph R Biden,66,81,133,280
 Jasper,Keener 4,President,,LIB,Jo Jorgensen,8,0,12,20
@@ -216,7 +216,7 @@ Jasper,Keener 4,State Senator,5,DEM,Luke Bohm,69,71,133,273
 Jasper,Keener 4,State Representative,16,REP,Douglas L Gutwein,228,74,360,662
 Jasper,Keener 4,State Representative,16,DEM,Michael A Lovely,85,73,143,301
 Jasper,Keener 5,,,,Registered Voters,,,,1425
-Jasper,Keener 5,,,,Ballots Cast ,430,181,481,1092
+Jasper,Keener 5,,,,Ballots Cast,430,181,481,1092
 Jasper,Keener 5,President,,REP,Donald J Trump,349,102,376,827
 Jasper,Keener 5,President,,DEM,Joseph R Biden,65,75,100,240
 Jasper,Keener 5,President,,LIB,Jo Jorgensen,6,2,1,9
@@ -234,7 +234,7 @@ Jasper,Keener 5,State Senator,5,DEM,Luke Bohm,60,63,86,209
 Jasper,Keener 5,State Representative,16,REP,Douglas L Gutwein,344,104,376,824
 Jasper,Keener 5,State Representative,16,DEM,Michael A Lovely,75,67,94,236
 Jasper,Marion 1,,,,Registered Voters,,,,978
-Jasper,Marion 1,,,,Ballots Cast ,243,108,303,654
+Jasper,Marion 1,,,,Ballots Cast,243,108,303,654
 Jasper,Marion 1,President,,REP,Donald J Trump,194,64,219,477
 Jasper,Marion 1,President,,DEM,Joseph R Biden,44,39,71,154
 Jasper,Marion 1,President,,LIB,Jo Jorgensen,5,2,9,16
@@ -252,7 +252,7 @@ Jasper,Marion 1,State Senator,7,DEM,Tabitha N Bartley,50,37,65,152
 Jasper,Marion 1,State Representative,16,REP,Douglas L Gutwein,184,62,229,475
 Jasper,Marion 1,State Representative,16,DEM,Michael A Lovely,54,41,67,162
 Jasper,Marion 2,,,,Registered Voters,,,,732
-Jasper,Marion 2,,,,Ballots Cast ,211,49,196,456
+Jasper,Marion 2,,,,Ballots Cast,211,49,196,456
 Jasper,Marion 2,President,,REP,Donald J Trump,162,25,121,308
 Jasper,Marion 2,President,,DEM,Joseph R Biden,43,17,67,127
 Jasper,Marion 2,President,,LIB,Jo Jorgensen,5,3,1,9
@@ -270,7 +270,7 @@ Jasper,Marion 2,State Senator,7,DEM,Tabitha N Bartley,39,15,55,109
 Jasper,Marion 2,State Representative,16,REP,Douglas L Gutwein,160,30,128,318
 Jasper,Marion 2,State Representative,16,DEM,Michael A Lovely,45,16,65,126
 Jasper,Marion 3,,,,Registered Voters,,,,488
-Jasper,Marion 3,,,,Ballots Cast ,110,50,162,322
+Jasper,Marion 3,,,,Ballots Cast,110,50,162,322
 Jasper,Marion 3,President,,REP,Donald J Trump,89,17,89,195
 Jasper,Marion 3,President,,DEM,Joseph R Biden,18,33,67,118
 Jasper,Marion 3,President,,LIB,Jo Jorgensen,3,0,4,7
@@ -288,7 +288,7 @@ Jasper,Marion 3,State Senator,7,DEM,Tabitha N Bartley,19,29,53,101
 Jasper,Marion 3,State Representative,16,REP,Douglas L Gutwein,91,26,103,220
 Jasper,Marion 3,State Representative,16,DEM,Michael A Lovely,16,23,57,96
 Jasper,Marion 4,,,,Registered Voters,,,,506
-Jasper,Marion 4,,,,Ballots Cast ,163,30,101,294
+Jasper,Marion 4,,,,Ballots Cast,163,30,101,294
 Jasper,Marion 4,President,,REP,Donald J Trump,126,19,60,205
 Jasper,Marion 4,President,,DEM,Joseph R Biden,31,10,36,77
 Jasper,Marion 4,President,,LIB,Jo Jorgensen,2,0,3,5
@@ -306,7 +306,7 @@ Jasper,Marion 4,State Senator,5,DEM,Luke Bohm,33,10,37,80
 Jasper,Marion 4,State Representative,16,REP,Douglas L Gutwein,123,19,58,200
 Jasper,Marion 4,State Representative,16,DEM,Michael A Lovely,37,10,40,87
 Jasper,Marion 5,,,,Registered Voters,,,,869
-Jasper,Marion 5,,,,Ballots Cast ,274,56,174,504
+Jasper,Marion 5,,,,Ballots Cast,274,56,174,504
 Jasper,Marion 5,President,,REP,Donald J Trump,212,17,115,344
 Jasper,Marion 5,President,,DEM,Joseph R Biden,56,38,52,146
 Jasper,Marion 5,President,,LIB,Jo Jorgensen,5,0,3,8
@@ -324,7 +324,7 @@ Jasper,Marion 5,State Senator,5,DEM,Luke Bohm,58,26,54,141
 Jasper,Marion 5,State Representative,16,REP,Douglas L Gutwein,202,22,115,342
 Jasper,Marion 5,State Representative,16,DEM,Michael A Lovely,61,32,54,147
 Jasper,Marion 6,,,,Registered Voters,,,,475
-Jasper,Marion 6,,,,Ballots Cast ,170,35,128,333
+Jasper,Marion 6,,,,Ballots Cast,170,35,128,333
 Jasper,Marion 6,President,,REP,Donald J Trump,135,25,93,253
 Jasper,Marion 6,President,,DEM,Joseph R Biden,28,10,34,72
 Jasper,Marion 6,President,,LIB,Jo Jorgensen,5,0,0,5
@@ -342,7 +342,7 @@ Jasper,Marion 6,State Senator,7,DEM,Tabitha N Bartley,22,8,23,53
 Jasper,Marion 6,State Representative,16,REP,Douglas L Gutwein,137,27,97,261
 Jasper,Marion 6,State Representative,16,DEM,Michael A Lovely,28,7,25,60
 Jasper,Marion 7,,,,Registered Voters,,,,270
-Jasper,Marion 7,,,,Ballots Cast ,69,22,101,192
+Jasper,Marion 7,,,,Ballots Cast,69,22,101,192
 Jasper,Marion 7,President,,REP,Donald J Trump,54,12,80,146
 Jasper,Marion 7,President,,DEM,Joseph R Biden,13,10,20,43
 Jasper,Marion 7,President,,LIB,Jo Jorgensen,2,0,1,3
@@ -360,7 +360,7 @@ Jasper,Marion 7,State Senator,5,DEM,Luke Bohm,11,9,16,36
 Jasper,Marion 7,State Representative,16,REP,Douglas L Gutwein,57,10,74,141
 Jasper,Marion 7,State Representative,16,DEM,Michael A Lovely,10,12,23,45
 Jasper,Milroy,,,,Registered Voters,,,,172
-Jasper,Milroy,,,,Ballots Cast ,78,12,43,133
+Jasper,Milroy,,,,Ballots Cast,78,12,43,133
 Jasper,Milroy,President,,REP,Donald J Trump,64,6,32,102
 Jasper,Milroy,President,,DEM,Joseph R Biden,8,6,11,25
 Jasper,Milroy,President,,LIB,Jo Jorgensen,3,0,0,3
@@ -378,7 +378,7 @@ Jasper,Milroy,State Senator,7,DEM,Tabitha N Bartley,6,4,8,18
 Jasper,Milroy,State Representative,13,REP,Sharon Negele,70,7,30,107
 Jasper,Milroy,State Representative,13,DEM,Loretta Barnes,6,4,9,19
 Jasper,Newton,,,,Registered Voters,,,,613
-Jasper,Newton,,,,Ballots Cast ,219,66,184,469
+Jasper,Newton,,,,Ballots Cast,219,66,184,469
 Jasper,Newton,President,,REP,Donald J Trump,169,40,129,338
 Jasper,Newton,President,,DEM,Joseph R Biden,42,21,49,112
 Jasper,Newton,President,,LIB,Jo Jorgensen,3,3,3,9
@@ -396,7 +396,7 @@ Jasper,Newton,State Senator,5,DEM,Luke Bohm,36,15,41,92
 Jasper,Newton,State Representative,16,REP,Douglas L Gutwein,169,41,127,337
 Jasper,Newton,State Representative,16,DEM,Michael A Lovely,45,21,48,114
 Jasper,Union North,,,,Registered Voters,,,,634
-Jasper,Union North,,,,Ballots Cast ,293,42,97,432
+Jasper,Union North,,,,Ballots Cast,293,42,97,432
 Jasper,Union North,President,,REP,Donald J Trump,216,15,83,314
 Jasper,Union North,President,,DEM,Joseph R Biden,64,25,13,102
 Jasper,Union North,President,,LIB,Jo Jorgensen,8,0,0,8
@@ -414,7 +414,7 @@ Jasper,Union North,State Senator,5,DEM,Luke Bohm,64,21,13,98
 Jasper,Union North,State Representative,16,REP,Douglas L Gutwein,209,19,79,307
 Jasper,Union North,State Representative,16,DEM,Michael A Lovely,77,23,16,116
 Jasper,Union South,,,,Registered Voters,,,,359
-Jasper,Union South,,,,Ballots Cast ,149,28,87,264
+Jasper,Union South,,,,Ballots Cast,149,28,87,264
 Jasper,Union South,President,,REP,Donald J Trump,124,13,62,199
 Jasper,Union South,President,,DEM,Joseph R Biden,22,13,25,60
 Jasper,Union South,President,,LIB,Jo Jorgensen,2,0,0,2
@@ -432,7 +432,7 @@ Jasper,Union South,State Senator,5,DEM,Luke Bohm,24,10,23,57
 Jasper,Union South,State Representative,16,REP,Douglas L Gutwein,117,15,65,197
 Jasper,Union South,State Representative,16,DEM,Michael A Lovely,24,11,21,56
 Jasper,Walker East,,,,Registered Voters,,,,983
-Jasper,Walker East,,,,Ballots Cast ,405,55,180,640
+Jasper,Walker East,,,,Ballots Cast,405,55,180,640
 Jasper,Walker East,President,,REP,Donald J Trump,318,22,129,469
 Jasper,Walker East,President,,DEM,Joseph R Biden,73,31,45,149
 Jasper,Walker East,President,,LIB,Jo Jorgensen,12,2,3,17
@@ -450,7 +450,7 @@ Jasper,Walker East,State Senator,5,DEM,Luke Bohm,79,29,46,154
 Jasper,Walker East,State Representative,16,REP,Douglas L Gutwein,276,25,122,423
 Jasper,Walker East,State Representative,16,DEM,Michael A Lovely,114,29,52,195
 Jasper,Walker West,,,,Registered Voters,,,,1743
-Jasper,Walker West,,,,Ballots Cast ,552,168,539,1259
+Jasper,Walker West,,,,Ballots Cast,552,168,539,1259
 Jasper,Walker West,President,,REP,Donald J Trump,464,85,400,949
 Jasper,Walker West,President,,DEM,Joseph R Biden,76,80,125,281
 Jasper,Walker West,President,,LIB,Jo Jorgensen,7,2,8,17
@@ -468,7 +468,7 @@ Jasper,Walker West,State Senator,5,DEM,Luke Bohm,69,72,119,260
 Jasper,Walker West,State Representative,16,REP,Douglas L Gutwein,440,81,380,901
 Jasper,Walker West,State Representative,16,DEM,Michael A Lovely,98,82,142,322
 Jasper,Wheatfield East,,,,Registered Voters,,,,890
-Jasper,Wheatfield East,,,,Ballots Cast ,363,76,129,568
+Jasper,Wheatfield East,,,,Ballots Cast,363,76,129,568
 Jasper,Wheatfield East,President,,REP,Donald J Trump,271,32,86,389
 Jasper,Wheatfield East,President,,DEM,Joseph R Biden,80,40,39,159
 Jasper,Wheatfield East,President,,LIB,Jo Jorgensen,8,2,2,12
@@ -486,7 +486,7 @@ Jasper,Wheatfield East,State Senator,5,DEM,Luke Bohm,77,36,38,151
 Jasper,Wheatfield East,State Representative,16,REP,Douglas L Gutwein,254,37,82,373
 Jasper,Wheatfield East,State Representative,16,DEM,Michael A Lovely,98,35,44,177
 Jasper,Wheatfield West 1,,,,Registered Voters,,,,754
-Jasper,Wheatfield West 1,,,,Ballots Cast ,305,45,123,473
+Jasper,Wheatfield West 1,,,,Ballots Cast,305,45,123,473
 Jasper,Wheatfield West 1,President,,REP,Donald J Trump,232,19,85,336
 Jasper,Wheatfield West 1,President,,DEM,Joseph R Biden,57,21,35,113
 Jasper,Wheatfield West 1,President,,LIB,Jo Jorgensen,12,3,1,16
@@ -504,7 +504,7 @@ Jasper,Wheatfield West 1,State Senator,5,DEM,Luke Bohm,59,19,29,107
 Jasper,Wheatfield West 1,State Representative,16,REP,Douglas L Gutwein,223,24,85,332
 Jasper,Wheatfield West 1,State Representative,16,DEM,Michael A Lovely,70,20,35,125
 Jasper,Wheatfield West 2,,,,Registered Voters,,,,1514
-Jasper,Wheatfield West 2,,,,Ballots Cast ,541,145,376,1062
+Jasper,Wheatfield West 2,,,,Ballots Cast,541,145,376,1062
 Jasper,Wheatfield West 2,President,,REP,Donald J Trump,433,61,287,781
 Jasper,Wheatfield West 2,President,,DEM,Joseph R Biden,100,84,75,259
 Jasper,Wheatfield West 2,President,,LIB,Jo Jorgensen,7,0,5,12

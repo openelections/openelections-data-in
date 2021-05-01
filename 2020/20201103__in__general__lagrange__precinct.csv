@@ -1,6 +1,6 @@
 county,precinct,office,district,party,candidate,election_day,absentee,early_voting,votes
 LaGrange,Bloomfield 1,Registered Voters,,,,,,,1000
-LaGrange,Bloomfield 1,Ballots Cast ,,,,344,105,186,635
+LaGrange,Bloomfield 1,Ballots Cast,,,,344,105,186,635
 LaGrange,Bloomfield 1,President,,REP,Donald J Trump,264,50,111,425
 LaGrange,Bloomfield 1,President,,DEM,Joseph R Biden,69,54,69,192
 LaGrange,Bloomfield 1,President,,LIB,Jo Jorgensen,7,0,2,9
@@ -17,7 +17,7 @@ LaGrange,Bloomfield 1,State Senate,13,REP,C Susan Glick,272,70,129,471
 LaGrange,Bloomfield 1,State Representative,51,REP,Dennis J Zent,265,53,110,428
 LaGrange,Bloomfield 1,State Representative,51,DEM,Michael M Stepphenson,66,45,61,172
 LaGrange,Bloomfield 2,Registered Voters,,,,,,,727
-LaGrange,Bloomfield 2,Ballots Cast ,,,,222,48,146,416
+LaGrange,Bloomfield 2,Ballots Cast,,,,222,48,146,416
 LaGrange,Bloomfield 2,President,,REP,Donald J Trump,159,18,83,260
 LaGrange,Bloomfield 2,President,,DEM,Joseph R Biden,47,29,57,133
 LaGrange,Bloomfield 2,President,,LIB,Jo Jorgensen,12,0,3,15
@@ -34,7 +34,7 @@ LaGrange,Bloomfield 2,State Senate,13,REP,C Susan Glick,185,33,101,319
 LaGrange,Bloomfield 2,State Representative,51,REP,Dennis J Zent,158,21,91,270
 LaGrange,Bloomfield 2,State Representative,51,DEM,Michael M Stepphenson,51,18,51,120
 LaGrange,Bloomfield 3,Registered Voters,,,,,,,620
-LaGrange,Bloomfield 3,Ballots Cast ,,,,167,72,155,394
+LaGrange,Bloomfield 3,Ballots Cast,,,,167,72,155,394
 LaGrange,Bloomfield 3,President,,REP,Donald J Trump,129,30,102,261
 LaGrange,Bloomfield 3,President,,DEM,Joseph R Biden,35,40,47,122
 LaGrange,Bloomfield 3,President,,LIB,Jo Jorgensen,2,1,1,4
@@ -51,7 +51,7 @@ LaGrange,Bloomfield 3,State Senate,13,REP,C Susan Glick,131,52,112,295
 LaGrange,Bloomfield 3,State Representative,51,REP,Dennis J Zent,122,34,103,259
 LaGrange,Bloomfield 3,State Representative,51,DEM,Michael M Stepphenson,39,33,39,111
 LaGrange,Bloomfield 4,Registered Voters,,,,,,,788
-LaGrange,Bloomfield 4,Ballots Cast ,,,,306,65,173,544
+LaGrange,Bloomfield 4,Ballots Cast,,,,306,65,173,544
 LaGrange,Bloomfield 4,President,,REP,Donald J Trump,258,23,131,412
 LaGrange,Bloomfield 4,President,,DEM,Joseph R Biden,41,39,40,120
 LaGrange,Bloomfield 4,President,,LIB,Jo Jorgensen,4,3,2,9
@@ -68,7 +68,7 @@ LaGrange,Bloomfield 4,State Senate,13,REP,C Susan Glick,275,36,136,447
 LaGrange,Bloomfield 4,State Representative,51,REP,Dennis J Zent,254,30,137,421
 LaGrange,Bloomfield 4,State Representative,51,DEM,Michael M Stepphenson,39,31,30,100
 LaGrange,Clay,Registered Voters,,,,,,,943
-LaGrange,Clay,Ballots Cast ,,,,314,78,207,599
+LaGrange,Clay,Ballots Cast,,,,314,78,207,599
 LaGrange,Clay,President,,REP,Donald J Trump,261,41,156,458
 LaGrange,Clay,President,,DEM,Joseph R Biden,48,35,43,126
 LaGrange,Clay,President,,LIB,Jo Jorgensen,4,1,2,7
@@ -85,7 +85,7 @@ LaGrange,Clay,State Senate,13,REP,C Susan Glick,268,61,168,497
 LaGrange,Clay,State Representative,51,REP,Dennis J Zent,250,43,156,449
 LaGrange,Clay,State Representative,51,DEM,Michael M Stepphenson,47,28,36,111
 LaGrange,Clearspring,Registered Voters,,,,,,,1093
-LaGrange,Clearspring,Ballots Cast ,,,,401,74,191,666
+LaGrange,Clearspring,Ballots Cast,,,,401,74,191,666
 LaGrange,Clearspring,President,,REP,Donald J Trump,334,46,122,502
 LaGrange,Clearspring,President,,DEM,Joseph R Biden,57,22,65,144
 LaGrange,Clearspring,President,,LIB,Jo Jorgensen,8,2,0,10
@@ -102,7 +102,7 @@ LaGrange,Clearspring,State Senate,13,REP,C Susan Glick,344,52,144,540
 LaGrange,Clearspring,State Representative,51,REP,Dennis J Zent,328,49,133,510
 LaGrange,Clearspring,State Representative,51,DEM,Michael M Stepphenson,54,20,50,124
 LaGrange,Eden,Registered Voters,,,,,,,658
-LaGrange,Eden,Ballots Cast ,,,,314,28,63,405
+LaGrange,Eden,Ballots Cast,,,,314,28,63,405
 LaGrange,Eden,President,,REP,Donald J Trump,254,7,48,309
 LaGrange,Eden,President,,DEM,Joseph R Biden,52,20,14,86
 LaGrange,Eden,President,,LIB,Jo Jorgensen,4,1,0,5
@@ -119,7 +119,7 @@ LaGrange,Eden,State Senate,13,REP,C Susan Glick,268,12,48,328
 LaGrange,Eden,State Representative,51,REP,Dennis J Zent,254,10,43,307
 LaGrange,Eden,State Representative,51,DEM,Michael M Stepphenson,48,13,13,74
 LaGrange,Greenfield,Registered Voters,,,,,,,931
-LaGrange,Greenfield,Ballots Cast ,,,,446,67,118,631
+LaGrange,Greenfield,Ballots Cast,,,,446,67,118,631
 LaGrange,Greenfield,President,,REP,Donald J Trump,385,22,77,484
 LaGrange,Greenfield,President,,DEM,Joseph R Biden,55,41,38,134
 LaGrange,Greenfield,President,,LIB,Jo Jorgensen,4,3,1,8
@@ -136,7 +136,7 @@ LaGrange,Greenfield,State Senate,13,REP,C Susan Glick,393,33,84,510
 LaGrange,Greenfield,State Representative,51,REP,Dennis J Zent,371,26,78,475
 LaGrange,Greenfield,State Representative,51,DEM,Michael M Stepphenson,56,37,37,130
 LaGrange,Johnson North,Registered Voters,,,,,,,1096
-LaGrange,Johnson North,Ballots Cast ,,,,417,127,228,772
+LaGrange,Johnson North,Ballots Cast,,,,417,127,228,772
 LaGrange,Johnson North,President,,REP,Donald J Trump,339,61,175,575
 LaGrange,Johnson North,President,,DEM,Joseph R Biden,63,62,48,173
 LaGrange,Johnson North,President,,LIB,Jo Jorgensen,9,1,3,13
@@ -152,7 +152,7 @@ LaGrange,Johnson North,U.S. House,3,,Write-In,0,0,0,0
 LaGrange,Johnson North,State Senate,13,REP,C Susan Glick,362,87,189,638
 LaGrange,Johnson North,State Representative,82,REP,David H Abbott,351,86,185,622
 LaGrange,Johnson South,Registered Voters,,,,,,,1199
-LaGrange,Johnson South,Ballots Cast ,,,,504,108,227,839
+LaGrange,Johnson South,Ballots Cast,,,,504,108,227,839
 LaGrange,Johnson South,President,,REP,Donald J Trump,427,53,165,645
 LaGrange,Johnson South,President,,DEM,Joseph R Biden,69,52,60,181
 LaGrange,Johnson South,President,,LIB,Jo Jorgensen,4,1,1,6
@@ -168,7 +168,7 @@ LaGrange,Johnson South,U.S. House,3,,Write-In,0,0,0,0
 LaGrange,Johnson South,State Senate,13,REP,C Susan Glick,438,79,188,705
 LaGrange,Johnson South,State Representative,82,REP,David H Abbott,432,77,177,686
 LaGrange,Lima,Registered Voters,,,,,,,1505
-LaGrange,Lima,Ballots Cast ,,,,622,112,232,966
+LaGrange,Lima,Ballots Cast,,,,622,112,232,966
 LaGrange,Lima,President,,REP,Donald J Trump,486,47,150,683
 LaGrange,Lima,President,,DEM,Joseph R Biden,112,61,72,245
 LaGrange,Lima,President,,LIB,Jo Jorgensen,12,4,4,20
@@ -185,7 +185,7 @@ LaGrange,Lima,State Senate,13,REP,C Susan Glick,516,67,179,762
 LaGrange,Lima,State Representative,51,REP,Dennis J Zent,494,55,160,709
 LaGrange,Lima,State Representative,51,DEM,Michael M Stepphenson,105,47,64,216
 LaGrange,Milford East,Registered Voters,,,,,,,1265
-LaGrange,Milford East,Ballots Cast ,,,,500,153,255,908
+LaGrange,Milford East,Ballots Cast,,,,500,153,255,908
 LaGrange,Milford East,President,,REP,Donald J Trump,427,68,189,684
 LaGrange,Milford East,President,,DEM,Joseph R Biden,63,77,59,199
 LaGrange,Milford East,President,,LIB,Jo Jorgensen,5,7,6,18
@@ -202,7 +202,7 @@ LaGrange,Milford East,State Senate,13,REP,C Susan Glick,435,98,209,742
 LaGrange,Milford East,State Representative,51,REP,Dennis J Zent,419,85,192,696
 LaGrange,Milford East,State Representative,51,DEM,Michael M Stepphenson,55,65,56,176
 LaGrange,Milford West,Registered Voters,,,,,,,790
-LaGrange,Milford West,Ballots Cast ,,,,338,42,191,571
+LaGrange,Milford West,Ballots Cast,,,,338,42,191,571
 LaGrange,Milford West,President,,REP,Donald J Trump,278,17,129,424
 LaGrange,Milford West,President,,DEM,Joseph R Biden,43,24,56,123
 LaGrange,Milford West,President,,LIB,Jo Jorgensen,9,0,4,13
@@ -219,7 +219,7 @@ LaGrange,Milford West,State Senate,13,REP,C Susan Glick,297,28,150,475
 LaGrange,Milford West,State Representative,51,REP,Dennis J Zent,284,17,139,440
 LaGrange,Milford West,State Representative,51,DEM,Michael M Stepphenson,36,24,46,106
 LaGrange,Newbury,Registered Voters,,,,,,,1525
-LaGrange,Newbury,Ballots Cast ,,,,680,71,239,990
+LaGrange,Newbury,Ballots Cast,,,,680,71,239,990
 LaGrange,Newbury,President,,REP,Donald J Trump,598,34,193,825
 LaGrange,Newbury,President,,DEM,Joseph R Biden,69,36,42,147
 LaGrange,Newbury,President,,LIB,Jo Jorgensen,5,1,2,8
@@ -236,7 +236,7 @@ LaGrange,Newbury,State Senate,13,REP,C Susan Glick,593,50,196,839
 LaGrange,Newbury,State Representative,51,REP,Dennis J Zent,582,36,195,813
 LaGrange,Newbury,State Representative,51,DEM,Michael M Stepphenson,63,30,30,123
 LaGrange,Springfield,Registered Voters,,,,,,,756
-LaGrange,Springfield,Ballots Cast ,,,,333,37,134,504
+LaGrange,Springfield,Ballots Cast,,,,333,37,134,504
 LaGrange,Springfield,President,,REP,Donald J Trump,284,17,95,396
 LaGrange,Springfield,President,,DEM,Joseph R Biden,35,20,31,86
 LaGrange,Springfield,President,,LIB,Jo Jorgensen,11,0,5,16
@@ -253,7 +253,7 @@ LaGrange,Springfield,State Senate,13,REP,C Susan Glick,303,24,106,433
 LaGrange,Springfield,State Representative,51,REP,Dennis J Zent,287,16,101,404
 LaGrange,Springfield,State Representative,51,DEM,Michael M Stepphenson,35,18,23,76
 LaGrange,Van Buren,Registered Voters,,,,,,,1506
-LaGrange,Van Buren,Ballots Cast ,,,,676,58,191,925
+LaGrange,Van Buren,Ballots Cast,,,,676,58,191,925
 LaGrange,Van Buren,President,,REP,Donald J Trump,600,24,143,767
 LaGrange,Van Buren,President,,DEM,Joseph R Biden,65,34,45,144
 LaGrange,Van Buren,President,,LIB,Jo Jorgensen,6,0,1,7

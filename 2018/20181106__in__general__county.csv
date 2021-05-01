@@ -2533,7 +2533,7 @@ Wayne,State House,56,Jeremy Why,Independent,528
 Bartholomew,State House,57,Sean R. Eberhart,Republican,3174
 Hancock,State House,57,Sean R. Eberhart,Republican,3266
 Shelby,State House,57,Sean R. Eberhart,Republican,11645
-Johnson,State House,58, (Cindy) Cynthia Reinert,Democratic,7981
+Johnson,State House,58,(Cindy) Cynthia Reinert,Democratic,7981
 Johnson,State House,58,Woody Burton,Republican,13784
 Bartholomew,State House,59,Clyde D. Myers,Libertarian,573
 Bartholomew,State House,59,Dale Nowlin,Democratic,8930
@@ -4005,16 +4005,16 @@ Martin,"Martin County Council, District 2",,"James A. ""Buck"" Stiles",Republica
 Miami,"Miami County Council, District 2",,Ralph Duckwall Ii,Republican,1876
 Morgan,"Morgan County Council, District 2",,Kim Milford,Democratic,1680
 Morgan,"Morgan County Council, District 2",,Paul D. Prather,Republican,5151
-Newton,"Newton County Council, District 2",, Scott Carlson,Republican,190
-Newton,"Newton County Council, District 2",, Scott Carlson,Republican,274
-Newton,"Newton County Council, District 2",, Scott Carlson,Republican,140
-Newton,"Newton County Council, District 2",, Scott Carlson,Republican,215
-Newton,"Newton County Council, District 2",, Scott Carlson,Republican,122
+Newton,"Newton County Council, District 2",,Scott Carlson,Republican,190
+Newton,"Newton County Council, District 2",,Scott Carlson,Republican,274
+Newton,"Newton County Council, District 2",,Scott Carlson,Republican,140
+Newton,"Newton County Council, District 2",,Scott Carlson,Republican,215
+Newton,"Newton County Council, District 2",,Scott Carlson,Republican,122
 Ohio,"Ohio County Council, District 2",,Chris Flood,Republican,288
 Ohio,"Ohio County Council, District 2",,Jeff Rumsey,Democratic,210
 Owen,"Owen County Council, District 2",,Anton Karl Neff,Democratic,1576
 Parke,"Parke County Council, District 2",,Rick Patton,Republican,1013
-Perry,"Perry County Council, District 2",, Danny J. Bolin,Democratic,1359
+Perry,"Perry County Council, District 2",,Danny J. Bolin,Democratic,1359
 Pike,"County Council, Dist 2",,Jon W Craig,Republican,1128
 Porter,"Porter County Council, District 2",,Jeremy T Rivas,Democratic,9170
 Putnam,"Putnam County Council, District 2",,Jill D Bridgewater,Republican,2649
@@ -4548,7 +4548,7 @@ Wells,"Chester Township Trustee, Wells County",,Steven Studebaker,Republican,326
 Tipton,"Cicero Township Trustee, Tipton County",,Korey D Henderson,Republican,2504
 Johnson,"Clark Township Trustee, Johnson County",,Neil Trisler,Republican,968
 Montgomery,"Clark Township Trustee, Montgomery County",,Madonna Light,Republican,488
-Perry,"Clark Township Trustee, Perry County",, Korre Ubelhor,Republican,348
+Perry,"Clark Township Trustee, Perry County",,Korre Ubelhor,Republican,348
 Bartholomew,"Clay Township Trustee, Bartholomew County",,John A. Mcdonald,Republican,930
 Carroll,"Clay Township Trustee, Carroll County",,Marla R Milazzo,Republican,319
 Cass,"Clay Township Trustee, Cass County",,Jennifer M. Nies,Republican,946
@@ -4943,7 +4943,7 @@ Franklin,"Laurel Township Trustee, Franklin County",,Delbert Spurlock,Democratic
 Marion,"Lawrence Township Trustee, Marion County",,Michael Reeves,Republican,16706
 Marion,"Lawrence Township Trustee, Marion County",,Steve Talley,Democratic,28026
 Dearborn,"Lawrenceburg Township Trustee, Dearborn County",,Lonnie G Walcott,Democratic,1875
-Perry,"Leopold Township Trustee, Perry County",, Roger Hagman,Democratic,264
+Perry,"Leopold Township Trustee, Perry County",,Roger Hagman,Democratic,264
 Clay,"Lewis Township Trustee, Clay County",,Carolyn Mullens,Democratic,319
 Scott,"Lexington Township Trustee, Scott County",,Danny Basham,Democratic,736
 Carroll,"Liberty Township Trustee, Carroll County",,Kathy A. Justice,Republican,157
@@ -5346,7 +5346,7 @@ Tippecanoe,"Tippecanoe Township Trustee, Tippecanoe County",,"Margaret ""Magie""
 Cass,"Tipton Township Trustee, Cass County",,Marcia A. Harness,Republican,770
 Perry,"Tobin Township Trustee, Perry County",,Rachel D Driver,Republican,249
 Dekalb,"Troy Township Trustee, Dekalb County",,Mark  Jennings,Republican,99
-Perry,"Troy Township Trustee, Perry County",," Patricia ""Pat"" Reed",Democratic,3539
+Perry,"Troy Township Trustee, Perry County",,"Patricia ""Pat"" Reed",Democratic,3539
 Fountain,"Troy Township Trustee, Fountain County",,Troy M. Stewart,Republican,1232
 Kosciusko,"Turkey Creek Township Trustee, Kosciusko County",,Julie Close,Republican,1990
 Kosciusko,"Turkey Creek Township Trustee, Kosciusko County",,Martha Stoelting,Democratic,957
@@ -7052,7 +7052,7 @@ Porter,"Liberty Township Board Member, Porter County",,Terry E Dunn,Republican,1
 Porter,"Liberty Township Board Member, Porter County",,Tim Cole,Republican,1583
 Shelby,"Liberty Township Board Member, Shelby County",,Bruce A. Kuhn,Republican,422
 Shelby,"Liberty Township Board Member, Shelby County",,Earl C Weaver,Democratic,247
-Tipton,"Liberty Township Board Member, Tipton County",, Steve Mcnally,Republican,569
+Tipton,"Liberty Township Board Member, Tipton County",,Steve Mcnally,Republican,569
 Tipton,"Liberty Township Board Member, Tipton County",,Linda Kay Cox,Republican,554
 Tipton,"Liberty Township Board Member, Tipton County",,Terry L Farris,Republican,455
 Wabash,"Liberty Township Board Member, Wabash County",,Diana K Heath,Republican,571
@@ -7272,7 +7272,7 @@ Jasper,"Milroy Township Board Member, Jasper County",,Rick Mcelfresh,Republican,
 Jefferson,"Milton Township Board Member, Jefferson County",,Karen L Shuler,Democratic,168
 Jefferson,"Milton Township Board Member, Jefferson County",,Sara Baxter Bickis,Democratic,177
 Jefferson,"Milton Township Board Member, Jefferson County",,Sharon L Stevens,Democratic,142
-Martin,"Mitcheltree Township Board Member, Martin County",, Kay Belcher,Republican,126
+Martin,"Mitcheltree Township Board Member, Martin County",,Kay Belcher,Republican,126
 Martin,"Mitcheltree Township Board Member, Martin County",,Becky  Sellers,Republican,156
 Martin,"Mitcheltree Township Board Member, Martin County",,Charity (Belcher) Tolbert,Republican,118
 White,"Monon Township Board Member, White County",,Jennifer T. Annis,Republican,590
@@ -8057,13 +8057,13 @@ Tippecanoe,"Tippecanoe Township Board Member, Tippecanoe County",,Jon W Eads,Rep
 Cass,"Tipton Township Board Member, Cass County",,Joyce Beechy,Republican,627
 Cass,"Tipton Township Board Member, Cass County",,Larry Phipps,Republican,548
 Cass,"Tipton Township Board Member, Cass County",,Linda Riley,Republican,553
-Perry,"Tobin Township Board Member, Perry County",, Carolyn Harpe,Republican,154
+Perry,"Tobin Township Board Member, Perry County",,Carolyn Harpe,Republican,154
 Perry,"Tobin Township Board Member, Perry County",,Beverly Biever,Democratic,184
 Perry,"Tobin Township Board Member, Perry County",,Shelly Cash,Republican,195
 Dekalb,"Troy Township Board Member, Dekalb County",,Erick Nickerson,Republican,62
 Dekalb,"Troy Township Board Member, Dekalb County",,Keith E Crowl,Republican,89
 Dekalb,"Troy Township Board Member, Dekalb County",,Matt Peckhart,Republican,64
-Perry,"Troy Township Board Member, Perry County",, Christie Froehlich,Democratic,2786
+Perry,"Troy Township Board Member, Perry County",,Christie Froehlich,Democratic,2786
 Perry,"Troy Township Board Member, Perry County",,Pam Wittman,Democratic,2570
 Perry,"Troy Township Board Member, Perry County",,Tom Hagedorn,Democratic,2734
 Fountain,"Troy Township Board Member, Fountain County",,Mariann Martin,Republican,924
@@ -8195,7 +8195,7 @@ Parke,"Union Township Board Member, Parke County",,Candy Bowsher,Republican,311
 Parke,"Union Township Board Member, Parke County",,Jeanette (Sue) Berry,Republican,397
 Parke,"Union Township Board Member, Parke County",,Shaun L. Reinoehl,Democratic,165
 Parke,"Union Township Board Member, Parke County",,Travis Collings,Republican,339
-Perry,"Union Township Board Member, Perry County",, Danny Toothman,Democratic,172
+Perry,"Union Township Board Member, Perry County",,Danny Toothman,Democratic,172
 Perry,"Union Township Board Member, Perry County",,Darla Sixx,Democratic,150
 Perry,"Union Township Board Member, Perry County",,Noah Steve Howell,Democratic,152
 Porter,Union Township,,Bryan C Waisanen,Republican,1143
@@ -8989,11 +8989,11 @@ Brown,"Nashville Town Council Member, District 1",,Charles (Buzz) King,Independe
 Brown,"Nashville Town Council Member, District 1",,Nancy Crocker,Independent,400
 Washington,New Pekin Town Council Member,,Tom Bricker,Non Partisan,226
 Vermillion,Town Council Member,,Paul M Lee,Independent,134
-Starke,North Judson Town Council At-Large,, Scott Pajor,Republican,168
+Starke,North Judson Town Council At-Large,,Scott Pajor,Republican,168
 Starke,North Judson Town Council At-Large,,John Rowe,Democratic,281
 Starke,North Judson Town Council At-Large,,Josh Brown,Republican,303
 Hendricks,"North Salem Town Council, Hendricks County",,Becky Fancher,Republican,154
-Porter,"Ogden Dunes Town Council Member, District 5",, Douglas Cannon,Democratic,529
+Porter,"Ogden Dunes Town Council Member, District 5",,Douglas Cannon,Democratic,529
 Ripley,Osgood Town Council,,Holley M Rose,Republican,223
 Ripley,Osgood Town Council,,Norman Kappes,Democratic,176
 Wells,"Ossian Town Council Member, At Large",,Jeffrey L Kemper,Republican,746
@@ -9734,7 +9734,7 @@ Laporte,"Tri-Township Consolidated School, District 3, Prairie",,Melanie Ann Mil
 Laporte,"Tri-Township Consolidated School, District 3, Prairie",,Shawnda Nelson,Non Partisan,41
 Marion,"Marion Lawrence Township School Board, At Large",,Reginald Mcgregor,Non Partisan,19776
 Marion,"Marion Lawrence Township School Board, District 2",,"Richard T. Freije, Jr.",Non Partisan,20329
-Dearborn,Lawrenceburg School  Board Member - District #1 (Dearborn),, H. Bryan Johnson,Non Partisan,1936
+Dearborn,Lawrenceburg School  Board Member - District #1 (Dearborn),,H. Bryan Johnson,Non Partisan,1936
 Dearborn,Lawrenceburg School Board Member - District #2 (Dearborn),,Kevin R Mollaun,Non Partisan,1574
 Dearborn,Lawrenceburg School Board Member - District #2 (Dearborn),,Mark Knigga,Non Partisan,1727
 Dearborn,Lawrenceburg School Board Member - District #3 (Dearborn),,Brian P Jansen,Non Partisan,2004
@@ -9819,7 +9819,7 @@ Porter,"Michigan City Area School Board, Civil City (Laporte, Porter)",,Dennis A
 Porter,"Michigan City Area School Board, Civil City (Laporte, Porter)",,Joanne Tedesco,Non Partisan,324
 Porter,"Michigan City Area School Board, Civil City (Laporte, Porter)",,Theresa C. Edwards,Non Partisan,323
 Porter,"Michigan City Area School Board, Civil City (Laporte, Porter)",,Thomas R. Dombkowski,Non Partisan,319
-Ripley," Milan Community School Board, At Large",,Timothy W. Tuttle,Non Partisan,1150
+Ripley,"Milan Community School Board, At Large",,Timothy W. Tuttle,Non Partisan,1150
 Ripley,"Milan Community School Board, Franklin Township",,Greg Lewis,Non Partisan,1178
 Ripley,"Milan Community School Board, Washington Township",,Michael Brandes,Non Partisan,1150
 Hendricks,"Hendricks Mill Creek School Board, At Large",,Jim Bryant,Non Partisan,1062

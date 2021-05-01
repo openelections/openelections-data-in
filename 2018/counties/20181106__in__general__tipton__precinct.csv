@@ -19,7 +19,7 @@ Dee Thornton,U.S. House,5,D,Tipton,Cicero 1,88,27,0,115
 James R Buck,State Senate,21,R,Tipton,Cicero 1,242,60,0,302
 Christina Fivecoate,State Senate,21,D,Tipton,Cicero 1,100,30,0,130
 "Anthony J (""Tony"") Cook",State Representative,32,R,Tipton,Cicero 1,254,59,0,313
-Amie Neiling ,State Representative,32,D,Tipton,Cicero 1,86,29,0,115
+Amie Neiling,State Representative,32,D,Tipton,Cicero 1,86,29,0,115
 ,Registered Voters,,,Tipton,Cicero 2,,,,861
 ,Ballots Cast,,,Tipton,Cicero 2,,,,340
 Mike Braun,U.S. Senate,,R,Tipton,Cicero 2,195,84,0,279
@@ -40,7 +40,7 @@ Dee Thornton,U.S. House,5,D,Tipton,Cicero 2,88,53,0,141
 James R Buck,State Senate,21,R,Tipton,Cicero 2,227,89,0,316
 Christina Fivecoate,State Senate,21,D,Tipton,Cicero 2,109,55,0,164
 "Anthony J (""Tony"") Cook",State Representative,32,R,Tipton,Cicero 2,231,95,0,326
-Amie Neiling ,State Representative,32,D,Tipton,Cicero 2,100,49,0,149
+Amie Neiling,State Representative,32,D,Tipton,Cicero 2,100,49,0,149
 ,Registered Voters,,,Tipton,Cicero 4,,,,792
 ,Ballots Cast,,,Tipton,Cicero 4,,,,296
 Mike Braun,U.S. Senate,,R,Tipton,Cicero 4,177,48,0,225
@@ -61,7 +61,7 @@ Dee Thornton,U.S. House,5,D,Tipton,Cicero 4,73,34,0,107
 James R Buck,State Senate,21,R,Tipton,Cicero 4,197,51,0,248
 Christina Fivecoate,State Senate,21,D,Tipton,Cicero 4,87,34,0,121
 "Anthony J (""Tony"") Cook",State Representative,32,R,Tipton,Cicero 4,203,57,0,260
-Amie Neiling ,State Representative,32,D,Tipton,Cicero 4,82,28,0,110
+Amie Neiling,State Representative,32,D,Tipton,Cicero 4,82,28,0,110
 ,Registered Voters,,,Tipton,Cicero 5,,,,839
 ,Ballots Cast,,,Tipton,Cicero 5,,,,395
 Mike Braun,U.S. Senate,,R,Tipton,Cicero 5,234,70,0,304
@@ -82,7 +82,7 @@ Dee Thornton,U.S. House,5,D,Tipton,Cicero 5,93,41,0,134
 James R Buck,State Senate,21,R,Tipton,Cicero 5,264,70,0,334
 Christina Fivecoate,State Senate,21,D,Tipton,Cicero 5,115,45,0,160
 "Anthony J (""Tony"") Cook",State Representative,32,R,Tipton,Cicero 5,277,74,0,351
-Amie Neiling ,State Representative,32,D,Tipton,Cicero 5,102,40,0,142
+Amie Neiling,State Representative,32,D,Tipton,Cicero 5,102,40,0,142
 ,Registered Voters,,,Tipton,Cicero 6,,,,520
 ,Ballots Cast,,,Tipton,Cicero 6,,,,265
 Mike Braun,U.S. Senate,,R,Tipton,Cicero 6,175,33,0,208
@@ -103,7 +103,7 @@ Dee Thornton,U.S. House,5,D,Tipton,Cicero 6,53,23,0,76
 James R Buck,State Senate,21,R,Tipton,Cicero 6,191,33,0,224
 Christina Fivecoate,State Senate,21,D,Tipton,Cicero 6,62,28,0,90
 "Anthony J (""Tony"") Cook",State Representative,32,R,Tipton,Cicero 6,201,36,0,237
-Amie Neiling ,State Representative,32,D,Tipton,Cicero 6,56,25,0,81
+Amie Neiling,State Representative,32,D,Tipton,Cicero 6,56,25,0,81
 ,Registered Voters,,,Tipton,Cicero 7,,,,878
 ,Ballots Cast,,,Tipton,Cicero 7,,,,388
 Mike Braun,U.S. Senate,,R,Tipton,Cicero 7,275,115,0,390
@@ -124,7 +124,7 @@ Dee Thornton,U.S. House,5,D,Tipton,Cicero 7,56,46,0,102
 James R Buck,State Senate,21,R,Tipton,Cicero 7,309,124,0,433
 Christina Fivecoate,State Senate,21,D,Tipton,Cicero 7,65,49,0,114
 "Anthony J (""Tony"") Cook",State Representative,32,R,Tipton,Cicero 7,315,131,0,446
-Amie Neiling ,State Representative,32,D,Tipton,Cicero 7,62,45,0,107
+Amie Neiling,State Representative,32,D,Tipton,Cicero 7,62,45,0,107
 ,Registered Voters,,,Tipton,Jefferson 1,,,,562
 ,Ballots Cast,,,Tipton,Jefferson 1,,,,250
 Mike Braun,U.S. Senate,,R,Tipton,Jefferson 1,192,46,0,238
@@ -145,7 +145,7 @@ Dee Thornton,U.S. House,5,D,Tipton,Jefferson 1,40,18,0,58
 James R Buck,State Senate,21,R,Tipton,Jefferson 1,208,40,0,248
 Christina Fivecoate,State Senate,21,D,Tipton,Jefferson 1,39,27,0,66
 "Anthony J (""Tony"") Cook",State Representative,32,R,Tipton,Jefferson 1,211,45,0,256
-Amie Neiling ,State Representative,32,D,Tipton,Jefferson 1,38,20,0,58
+Amie Neiling,State Representative,32,D,Tipton,Jefferson 1,38,20,0,58
 ,Registered Voters,,,Tipton,Jefferson 2,,,,445
 ,Ballots Cast,,,Tipton,Jefferson 2,,,,218
 Mike Braun,U.S. Senate,,R,Tipton,Jefferson 2,133,10,0,143
@@ -166,7 +166,7 @@ Dee Thornton,U.S. House,5,D,Tipton,Jefferson 2,49,7,0,56
 James R Buck,State Senate,21,R,Tipton,Jefferson 2,153,14,0,167
 Christina Fivecoate,State Senate,21,D,Tipton,Jefferson 2,58,8,0,66
 "Anthony J (""Tony"") Cook",State Representative,32,R,Tipton,Jefferson 2,154,14,0,168
-Amie Neiling ,State Representative,32,D,Tipton,Jefferson 2,56,8,0,64
+Amie Neiling,State Representative,32,D,Tipton,Jefferson 2,56,8,0,64
 ,Registered Voters,,,Tipton,Liberty 1,,,,889
 ,Ballots Cast,,,Tipton,Liberty 1,,,,348
 Mike Braun,U.S. Senate,,R,Tipton,Liberty 1,244,97,0,341
@@ -187,7 +187,7 @@ Dee Thornton,U.S. House,5,D,Tipton,Liberty 1,70,35,0,105
 James R Buck,State Senate,21,R,Tipton,Liberty 1,262,98,0,360
 Christina Fivecoate,State Senate,21,D,Tipton,Liberty 1,82,45,0,127
 "Anthony J (""Tony"") Cook",State Representative,32,R,Tipton,Liberty 1,267,103,0,370
-Amie Neiling ,State Representative,32,D,Tipton,Liberty 1,75,40,0,115
+Amie Neiling,State Representative,32,D,Tipton,Liberty 1,75,40,0,115
 ,Registered Voters,,,Tipton,Liberty 2,,,,863
 ,Ballots Cast,,,Tipton,Liberty 2,,,,394
 Mike Braun,U.S. Senate,,R,Tipton,Liberty 2,296,88,0,384
@@ -208,7 +208,7 @@ Dee Thornton,U.S. House,5,D,Tipton,Liberty 2,63,36,0,99
 James R Buck,State Senate,21,R,Tipton,Liberty 2,305,94,0,399
 Christina Fivecoate,State Senate,21,D,Tipton,Liberty 2,81,36,0,117
 "Anthony J (""Tony"") Cook",State Representative,32,R,Tipton,Liberty 2,317,93,0,410
-Amie Neiling ,State Representative,32,D,Tipton,Liberty 2,67,37,0,104
+Amie Neiling,State Representative,32,D,Tipton,Liberty 2,67,37,0,104
 ,Registered Voters,,,Tipton,Madison 1,,,,394
 ,Ballots Cast,,,Tipton,Madison 1,,,,179
 Mike Braun,U.S. Senate,,R,Tipton,Madison 1,134,22,0,156
@@ -229,7 +229,7 @@ Dee Thornton,U.S. House,5,D,Tipton,Madison 1,33,8,0,41
 James R Buck,State Senate,21,R,Tipton,Madison 1,133,25,0,158
 Christina Fivecoate,State Senate,21,D,Tipton,Madison 1,39,10,0,49
 "Anthony J (""Tony"") Cook",State Representative,32,R,Tipton,Madison 1,133,23,0,156
-Amie Neiling ,State Representative,32,D,Tipton,Madison 1,37,12,0,49
+Amie Neiling,State Representative,32,D,Tipton,Madison 1,37,12,0,49
 ,Registered Voters,,,Tipton,Madison 2,,,,529
 ,Ballots Cast,,,Tipton,Madison 2,,,,241
 Mike Braun,U.S. Senate,,R,Tipton,Madison 2,158,38,0,196
@@ -250,7 +250,7 @@ Dee Thornton,U.S. House,5,D,Tipton,Madison 2,52,19,0,71
 James R Buck,State Senate,21,R,Tipton,Madison 2,176,43,0,219
 Christina Fivecoate,State Senate,21,D,Tipton,Madison 2,61,21,0,82
 "Anthony J (""Tony"") Cook",State Representative,32,R,Tipton,Madison 2,179,43,0,222
-Amie Neiling ,State Representative,32,D,Tipton,Madison 2,59,22,0,81
+Amie Neiling,State Representative,32,D,Tipton,Madison 2,59,22,0,81
 ,Registered Voters,,,Tipton,Prairie,,,,824
 ,Ballots Cast,,,Tipton,Prairie,,,,417
 Mike Braun,U.S. Senate,,R,Tipton,Prairie,289,82,0,371
@@ -271,7 +271,7 @@ Dee Thornton,U.S. House,5,D,Tipton,Prairie,85,18,0,103
 James R Buck,State Senate,21,R,Tipton,Prairie,311,83,0,394
 Christina Fivecoate,State Senate,21,D,Tipton,Prairie,95,24,0,119
 "Anthony J (""Tony"") Cook",State Representative,32,R,Tipton,Prairie,314,82,0,396
-Amie Neiling ,State Representative,32,D,Tipton,Prairie,94,22,0,116
+Amie Neiling,State Representative,32,D,Tipton,Prairie,94,22,0,116
 ,Registered Voters,,,Tipton,Wildcat,,,,905
 ,Ballots Cast,,,Tipton,Wildcat,,,,318
 Mike Braun,U.S. Senate,,R,Tipton,Wildcat,220,73,0,293
@@ -292,7 +292,7 @@ Dee Thornton,U.S. House,5,D,Tipton,Wildcat,60,34,0,94
 James R Buck,State Senate,21,R,Tipton,Wildcat,238,76,0,314
 Christina Fivecoate,State Senate,21,D,Tipton,Wildcat,71,40,0,111
 "Anthony J (""Tony"") Cook",State Representative,32,R,Tipton,Wildcat,246,73,0,319
-Amie Neiling ,State Representative,32,D,Tipton,Wildcat,65,42,0,107
+Amie Neiling,State Representative,32,D,Tipton,Wildcat,65,42,0,107
 ,,,,,,,,,
 ,,,,,,,,,
 ,,,,,,,,,

@@ -22,7 +22,7 @@ Kosciusko,Clay 01,United States Representative,2,REP,Rudy Yakym,250,11,112,373
 Kosciusko,Clay 01,United States Representative,2,DEM,Lori A. Camp,19,4,30,53
 Kosciusko,Clay 01,United States Representative,2,LIB,William E. Henry,14,0,2,16
 Kosciusko,Clay 01,United States Representative,2,,Write-In,0,0,0,0
-Kosciusko,Clay 01,State Senator District 18,,REP,Stacey A. Donato,250,11,117,378
+Kosciusko,Clay 01,State Senator,18,REP,Stacey A. Donato,250,11,117,378
 Kosciusko,Clay 01,State Representative,22,REP,Craig Snow,240,11,117,368
 Kosciusko,Clay 01,State Representative,22,LIB,Josh Vergiels,24,1,11,36
 Kosciusko,Clay 01,Judge of the Circuit Court 54th Judicial,,REP,Matthew J. Buehler,272,11,126,409
@@ -68,7 +68,7 @@ Kosciusko,Clay 02,United States Representative,2,REP,Rudy Yakym,162,6,74,242
 Kosciusko,Clay 02,United States Representative,2,DEM,Lori A. Camp,28,1,11,40
 Kosciusko,Clay 02,United States Representative,2,LIB,William E. Henry,11,0,0,11
 Kosciusko,Clay 02,United States Representative,2,,Write-In,0,0,0,0
-Kosciusko,Clay 02,State Senator District 18,,REP,Stacey A. Donato,172,6,72,250
+Kosciusko,Clay 02,State Senator,18,REP,Stacey A. Donato,172,6,72,250
 Kosciusko,Clay 02,State Representative,22,REP,Craig Snow,160,6,65,231
 Kosciusko,Clay 02,State Representative,22,LIB,Josh Vergiels,18,0,12,30
 Kosciusko,Clay 02,Judge of the Circuit Court 54th Judicial,,REP,Matthew J. Buehler,189,6,73,268
@@ -114,7 +114,7 @@ Kosciusko,Etna,United States Representative,2,REP,Rudy Yakym,320,6,85,411
 Kosciusko,Etna,United States Representative,2,DEM,Lori A. Camp,49,3,20,72
 Kosciusko,Etna,United States Representative,2,LIB,William E. Henry,11,0,7,18
 Kosciusko,Etna,United States Representative,2,,Write-In,0,0,0,0
-Kosciusko,Etna,State Senator District 9,,REP,Ryan Mishler,340,6,87,433
+Kosciusko,Etna,State Senator,9,REP,Ryan Mishler,340,6,87,433
 Kosciusko,Etna,State Representative,22,REP,Craig Snow,311,8,78,397
 Kosciusko,Etna,State Representative,22,LIB,Josh Vergiels,32,0,11,43
 Kosciusko,Etna,Judge of the Circuit Court 54th Judicial,,REP,Matthew J. Buehler,347,7,91,445
@@ -162,7 +162,7 @@ Kosciusko,Franklin 01,United States Representative,2,REP,Rudy Yakym,155,1,55,211
 Kosciusko,Franklin 01,United States Representative,2,DEM,Lori A. Camp,23,1,9,33
 Kosciusko,Franklin 01,United States Representative,2,LIB,William E. Henry,9,0,3,12
 Kosciusko,Franklin 01,United States Representative,2,,Write-In,0,0,0,0
-Kosciusko,Franklin 01,State Senator District 18,,REP,Stacey A. Donato,167,2,62,231
+Kosciusko,Franklin 01,State Senator,18,REP,Stacey A. Donato,167,2,62,231
 Kosciusko,Franklin 01,State Representative,22,REP,Craig Snow,156,2,60,218
 Kosciusko,Franklin 01,State Representative,22,LIB,Josh Vergiels,10,0,5,15
 Kosciusko,Franklin 01,Judge of the Circuit Court 54th Judicial,,REP,Matthew J. Buehler,174,2,66,242
@@ -210,7 +210,7 @@ Kosciusko,Franklin 02,United States Representative,2,REP,Rudy Yakym,140,1,66,207
 Kosciusko,Franklin 02,United States Representative,2,DEM,Lori A. Camp,19,2,12,33
 Kosciusko,Franklin 02,United States Representative,2,LIB,William E. Henry,3,0,3,6
 Kosciusko,Franklin 02,United States Representative,2,,Write-In,0,0,0,0
-Kosciusko,Franklin 02,State Senator District 18,,REP,Stacey A. Donato,143,0,68,211
+Kosciusko,Franklin 02,State Senator,18,REP,Stacey A. Donato,143,0,68,211
 Kosciusko,Franklin 02,State Representative,22,REP,Craig Snow,137,1,66,204
 Kosciusko,Franklin 02,State Representative,22,LIB,Josh Vergiels,12,0,7,19
 Kosciusko,Franklin 02,Judge of the Circuit Court 54th Judicial,,REP,Matthew J. Buehler,153,0,70,223
@@ -258,7 +258,7 @@ Kosciusko,Harrison 01,United States Representative,2,REP,Rudy Yakym,273,13,141,4
 Kosciusko,Harrison 01,United States Representative,2,DEM,Lori A. Camp,78,6,31,115
 Kosciusko,Harrison 01,United States Representative,2,LIB,William E. Henry,18,0,3,21
 Kosciusko,Harrison 01,United States Representative,2,,Write-In,0,0,0,0
-Kosciusko,Harrison 01,State Senator District 18,,REP,Stacey A. Donato,293,15,150,458
+Kosciusko,Harrison 01,State Senator,18,REP,Stacey A. Donato,293,15,150,458
 Kosciusko,Harrison 01,State Representative,22,REP,Craig Snow,262,14,144,420
 Kosciusko,Harrison 01,State Representative,22,LIB,Josh Vergiels,62,1,17,80
 Kosciusko,Harrison 01,Judge of the Circuit Court 54th Judicial,,REP,Matthew J. Buehler,320,15,156,491
@@ -306,7 +306,7 @@ Kosciusko,Harrison 02,United States Representative,2,REP,Rudy Yakym,299,13,105,4
 Kosciusko,Harrison 02,United States Representative,2,DEM,Lori A. Camp,57,5,23,85
 Kosciusko,Harrison 02,United States Representative,2,LIB,William E. Henry,12,2,5,19
 Kosciusko,Harrison 02,United States Representative,2,,Write-In,0,0,0,0
-Kosciusko,Harrison 02,State Senator District 18,,REP,Stacey A. Donato,302,13,111,426
+Kosciusko,Harrison 02,State Senator,18,REP,Stacey A. Donato,302,13,111,426
 Kosciusko,Harrison 02,State Representative,22,REP,Craig Snow,288,14,98,400
 Kosciusko,Harrison 02,State Representative,22,LIB,Josh Vergiels,48,1,16,65
 Kosciusko,Harrison 02,Judge of the Circuit Court 54th Judicial,,REP,Matthew J. Buehler,333,12,120,465
@@ -354,7 +354,7 @@ Kosciusko,Harrison 03,United States Representative,2,REP,Rudy Yakym,155,7,167,32
 Kosciusko,Harrison 03,United States Representative,2,DEM,Lori A. Camp,22,2,16,40
 Kosciusko,Harrison 03,United States Representative,2,LIB,William E. Henry,8,1,4,13
 Kosciusko,Harrison 03,United States Representative,2,,Write-In,0,0,0,0
-Kosciusko,Harrison 03,State Senator District 18,,REP,Stacey A. Donato,157,8,159,324
+Kosciusko,Harrison 03,State Senator,18,REP,Stacey A. Donato,157,8,159,324
 Kosciusko,Harrison 03,State Representative,22,REP,Craig Snow,153,9,165,327
 Kosciusko,Harrison 03,State Representative,22,LIB,Josh Vergiels,13,1,8,22
 Kosciusko,Harrison 03,Judge of the Circuit Court 54th Judicial,,REP,Matthew J. Buehler,170,9,169,348
@@ -402,7 +402,7 @@ Kosciusko,Jackson 01,United States Representative,2,REP,Rudy Yakym,150,4,30,184
 Kosciusko,Jackson 01,United States Representative,2,DEM,Lori A. Camp,33,0,4,37
 Kosciusko,Jackson 01,United States Representative,2,LIB,William E. Henry,10,0,1,11
 Kosciusko,Jackson 01,United States Representative,2,,Write-In,0,0,0,0
-Kosciusko,Jackson 01,State Senator District 18,,REP,Stacey A. Donato,158,4,29,191
+Kosciusko,Jackson 01,State Senator,18,REP,Stacey A. Donato,158,4,29,191
 Kosciusko,Jackson 01,State Representative,22,REP,Craig Snow,152,4,28,184
 Kosciusko,Jackson 01,State Representative,22,LIB,Josh Vergiels,29,0,4,33
 Kosciusko,Jackson 01,Judge of the Circuit Court 54th Judicial,,REP,Matthew J. Buehler,176,4,31,211
@@ -452,7 +452,7 @@ Kosciusko,Jackson 02,United States Representative,2,REP,Rudy Yakym,171,6,68,245
 Kosciusko,Jackson 02,United States Representative,2,DEM,Lori A. Camp,24,3,14,41
 Kosciusko,Jackson 02,United States Representative,2,LIB,William E. Henry,7,0,4,11
 Kosciusko,Jackson 02,United States Representative,2,,Write-In,0,0,0,0
-Kosciusko,Jackson 02,State Senator District 18,,REP,Stacey A. Donato,169,5,70,244
+Kosciusko,Jackson 02,State Senator,18,REP,Stacey A. Donato,169,5,70,244
 Kosciusko,Jackson 02,State Representative,22,REP,Craig Snow,172,6,69,247
 Kosciusko,Jackson 02,State Representative,22,LIB,Josh Vergiels,17,1,5,23
 Kosciusko,Jackson 02,Judge of the Circuit Court 54th Judicial,,REP,Matthew J. Buehler,185,5,74,264
@@ -502,7 +502,7 @@ Kosciusko,Jefferson 01,United States Representative,2,REP,Rudy Yakym,38,0,10,48
 Kosciusko,Jefferson 01,United States Representative,2,DEM,Lori A. Camp,17,1,3,21
 Kosciusko,Jefferson 01,United States Representative,2,LIB,William E. Henry,0,0,1,1
 Kosciusko,Jefferson 01,United States Representative,2,,Write-In,0,0,0,0
-Kosciusko,Jefferson 01,State Senator District 9,,REP,Ryan Mishler,45,0,12,57
+Kosciusko,Jefferson 01,State Senator,9,REP,Ryan Mishler,45,0,12,57
 Kosciusko,Jefferson 01,State Representative,22,REP,Craig Snow,30,0,8,38
 Kosciusko,Jefferson 01,State Representative,22,LIB,Josh Vergiels,10,1,3,14
 Kosciusko,Jefferson 01,Judge of the Circuit Court 54th Judicial,,REP,Matthew J. Buehler,47,0,13,60
@@ -553,7 +553,7 @@ Kosciusko,Jefferson 02,United States Representative,2,REP,Rudy Yakym,159,9,45,21
 Kosciusko,Jefferson 02,United States Representative,2,DEM,Lori A. Camp,17,1,13,31
 Kosciusko,Jefferson 02,United States Representative,2,LIB,William E. Henry,7,1,0,8
 Kosciusko,Jefferson 02,United States Representative,2,,Write-In,0,0,0,0
-Kosciusko,Jefferson 02,State Senator District 9,,REP,Ryan Mishler,160,9,50,219
+Kosciusko,Jefferson 02,State Senator,9,REP,Ryan Mishler,160,9,50,219
 Kosciusko,Jefferson 02,State Representative,22,REP,Craig Snow,142,9,46,197
 Kosciusko,Jefferson 02,State Representative,22,LIB,Josh Vergiels,13,1,3,17
 Kosciusko,Jefferson 02,Judge of the Circuit Court 54th Judicial,,REP,Matthew J. Buehler,167,8,53,228
@@ -604,7 +604,7 @@ Kosciusko,Jefferson 03,United States Representative,2,REP,Rudy Yakym,100,2,52,15
 Kosciusko,Jefferson 03,United States Representative,2,DEM,Lori A. Camp,7,2,6,15
 Kosciusko,Jefferson 03,United States Representative,2,LIB,William E. Henry,3,0,0,3
 Kosciusko,Jefferson 03,United States Representative,2,,Write-In,0,0,0,0
-Kosciusko,Jefferson 03,State Senator District 9,,REP,Ryan Mishler,104,4,47,155
+Kosciusko,Jefferson 03,State Senator,9,REP,Ryan Mishler,104,4,47,155
 Kosciusko,Jefferson 03,State Representative,22,REP,Craig Snow,98,4,49,151
 Kosciusko,Jefferson 03,State Representative,22,LIB,Josh Vergiels,4,0,2,6
 Kosciusko,Jefferson 03,Judge of the Circuit Court 54th Judicial,,REP,Matthew J. Buehler,97,4,52,153
@@ -653,7 +653,7 @@ Kosciusko,Lake 01,United States Representative,2,REP,Rudy Yakym,216,10,71,297
 Kosciusko,Lake 01,United States Representative,2,DEM,Lori A. Camp,44,8,19,71
 Kosciusko,Lake 01,United States Representative,2,LIB,William E. Henry,15,2,3,20
 Kosciusko,Lake 01,United States Representative,2,,Write-In,0,0,0,0
-Kosciusko,Lake 01,State Senator District 18,,REP,Stacey A. Donato,223,15,69,307
+Kosciusko,Lake 01,State Senator,18,REP,Stacey A. Donato,223,15,69,307
 Kosciusko,Lake 01,State Representative,22,REP,Craig Snow,222,12,70,304
 Kosciusko,Lake 01,State Representative,22,LIB,Josh Vergiels,29,3,12,44
 Kosciusko,Lake 01,Judge of the Circuit Court 54th Judicial,,REP,Matthew J. Buehler,241,16,82,339
@@ -699,7 +699,7 @@ Kosciusko,Lake 02,United States Representative,2,REP,Rudy Yakym,146,4,58,208
 Kosciusko,Lake 02,United States Representative,2,DEM,Lori A. Camp,18,5,12,35
 Kosciusko,Lake 02,United States Representative,2,LIB,William E. Henry,7,1,1,9
 Kosciusko,Lake 02,United States Representative,2,,Write-In,0,0,0,0
-Kosciusko,Lake 02,State Senator District 18,,REP,Stacey A. Donato,138,5,55,198
+Kosciusko,Lake 02,State Senator,18,REP,Stacey A. Donato,138,5,55,198
 Kosciusko,Lake 02,State Representative,22,REP,Craig Snow,145,4,56,205
 Kosciusko,Lake 02,State Representative,22,LIB,Josh Vergiels,14,6,4,24
 Kosciusko,Lake 02,Judge of the Circuit Court 54th Judicial,,REP,Matthew J. Buehler,156,6,62,224
@@ -745,7 +745,7 @@ Kosciusko,Monroe,United States Representative,2,REP,Rudy Yakym,301,9,152,462
 Kosciusko,Monroe,United States Representative,2,DEM,Lori A. Camp,42,8,26,76
 Kosciusko,Monroe,United States Representative,2,LIB,William E. Henry,23,0,6,29
 Kosciusko,Monroe,United States Representative,2,,Write-In,0,0,0,0
-Kosciusko,Monroe,State Senator District 18,,REP,Stacey A. Donato,293,9,153,455
+Kosciusko,Monroe,State Senator,18,REP,Stacey A. Donato,293,9,153,455
 Kosciusko,Monroe,State Representative,22,REP,Craig Snow,301,9,148,458
 Kosciusko,Monroe,State Representative,22,LIB,Josh Vergiels,27,2,12,41
 Kosciusko,Monroe,Judge of the Circuit Court 54th Judicial,,REP,Matthew J. Buehler,335,9,162,506
@@ -796,7 +796,7 @@ Kosciusko,Plain 01,United States Representative,2,REP,Rudy Yakym,288,24,235,547
 Kosciusko,Plain 01,United States Representative,2,DEM,Lori A. Camp,63,17,62,142
 Kosciusko,Plain 01,United States Representative,2,LIB,William E. Henry,11,1,7,19
 Kosciusko,Plain 01,United States Representative,2,,Write-In,0,0,0,0
-Kosciusko,Plain 01,State Senator District 9,,REP,Ryan Mishler,308,26,241,575
+Kosciusko,Plain 01,State Senator,9,REP,Ryan Mishler,308,26,241,575
 Kosciusko,Plain 01,State Representative,22,REP,Craig Snow,279,26,225,530
 Kosciusko,Plain 01,State Representative,22,LIB,Josh Vergiels,49,6,39,94
 Kosciusko,Plain 01,Judge of the Circuit Court 54th Judicial,,REP,Matthew J. Buehler,323,29,266,618
@@ -843,7 +843,7 @@ Kosciusko,Plain 02,United States Representative,2,REP,Rudy Yakym,316,6,102,424
 Kosciusko,Plain 02,United States Representative,2,DEM,Lori A. Camp,88,3,37,128
 Kosciusko,Plain 02,United States Representative,2,LIB,William E. Henry,14,0,3,17
 Kosciusko,Plain 02,United States Representative,2,,Write-In,0,0,0,0
-Kosciusko,Plain 02,State Senator District 9,,REP,Ryan Mishler,346,7,104,457
+Kosciusko,Plain 02,State Senator,9,REP,Ryan Mishler,346,7,104,457
 Kosciusko,Plain 02,State Representative,22,REP,Craig Snow,306,6,97,409
 Kosciusko,Plain 02,State Representative,22,LIB,Josh Vergiels,66,1,22,89
 Kosciusko,Plain 02,Judge of the Circuit Court 54th Judicial,,REP,Matthew J. Buehler,364,7,112,483
@@ -889,7 +889,7 @@ Kosciusko,Plain 03,United States Representative,2,REP,Rudy Yakym,208,1,180,389
 Kosciusko,Plain 03,United States Representative,2,DEM,Lori A. Camp,45,7,44,96
 Kosciusko,Plain 03,United States Representative,2,LIB,William E. Henry,8,1,4,13
 Kosciusko,Plain 03,United States Representative,2,,Write-In,0,0,0,0
-Kosciusko,Plain 03,State Senator District 9,,REP,Ryan Mishler,219,6,190,415
+Kosciusko,Plain 03,State Senator,9,REP,Ryan Mishler,219,6,190,415
 Kosciusko,Plain 03,State Representative,22,REP,Craig Snow,195,4,180,379
 Kosciusko,Plain 03,State Representative,22,LIB,Josh Vergiels,42,3,26,71
 Kosciusko,Plain 03,Judge of the Circuit Court 54th Judicial,,REP,Matthew J. Buehler,237,4,200,441
@@ -936,7 +936,7 @@ Kosciusko,Plain 04,United States Representative,2,REP,Rudy Yakym,383,26,359,768
 Kosciusko,Plain 04,United States Representative,2,DEM,Lori A. Camp,63,23,101,187
 Kosciusko,Plain 04,United States Representative,2,LIB,William E. Henry,23,0,14,37
 Kosciusko,Plain 04,United States Representative,2,,Write-In,0,0,0,0
-Kosciusko,Plain 04,State Senator District 9,,REP,Ryan Mishler,413,30,380,823
+Kosciusko,Plain 04,State Senator,9,REP,Ryan Mishler,413,30,380,823
 Kosciusko,Plain 04,State Representative,22,REP,Craig Snow,367,29,375,771
 Kosciusko,Plain 04,State Representative,22,LIB,Josh Vergiels,48,6,53,107
 Kosciusko,Plain 04,Judge of the Circuit Court 54th Judicial,,REP,Matthew J. Buehler,435,28,410,873
@@ -984,7 +984,7 @@ Kosciusko,Plain 05 City Of Warsaw,United States Representative,2,REP,Rudy Yakym,
 Kosciusko,Plain 05 City Of Warsaw,United States Representative,2,DEM,Lori A. Camp,37,14,62,113
 Kosciusko,Plain 05 City Of Warsaw,United States Representative,2,LIB,William E. Henry,10,0,7,17
 Kosciusko,Plain 05 City Of Warsaw,United States Representative,2,,Write-In,0,0,0,0
-Kosciusko,Plain 05 City Of Warsaw,State Senator District 9,,REP,Ryan Mishler,129,28,142,299
+Kosciusko,Plain 05 City Of Warsaw,State Senator,9,REP,Ryan Mishler,129,28,142,299
 Kosciusko,Plain 05 City Of Warsaw,State Representative,22,REP,Craig Snow,118,25,126,269
 Kosciusko,Plain 05 City Of Warsaw,State Representative,22,LIB,Josh Vergiels,22,4,31,57
 Kosciusko,Plain 05 City Of Warsaw,Judge of the Circuit Court 54th Judicial,,REP,Matthew J. Buehler,143,28,150,321
@@ -1031,7 +1031,7 @@ Kosciusko,Plain 07,United States Representative,2,REP,Rudy Yakym,261,12,172,445
 Kosciusko,Plain 07,United States Representative,2,DEM,Lori A. Camp,65,8,57,130
 Kosciusko,Plain 07,United States Representative,2,LIB,William E. Henry,14,0,4,18
 Kosciusko,Plain 07,United States Representative,2,,Write-In,0,0,0,0
-Kosciusko,Plain 07,State Senator District 9,,REP,Ryan Mishler,291,18,192,501
+Kosciusko,Plain 07,State Senator,9,REP,Ryan Mishler,291,18,192,501
 Kosciusko,Plain 07,State Representative,22,REP,Craig Snow,252,17,173,442
 Kosciusko,Plain 07,State Representative,22,LIB,Josh Vergiels,46,1,27,74
 Kosciusko,Plain 07,Judge of the Circuit Court 54th Judicial,,REP,Matthew J. Buehler,308,16,196,520
@@ -1077,7 +1077,7 @@ Kosciusko,Prairie 01,United States Representative,2,REP,Rudy Yakym,158,6,72,236
 Kosciusko,Prairie 01,United States Representative,2,DEM,Lori A. Camp,29,6,20,55
 Kosciusko,Prairie 01,United States Representative,2,LIB,William E. Henry,11,2,1,14
 Kosciusko,Prairie 01,United States Representative,2,,Write-In,0,0,0,0
-Kosciusko,Prairie 01,State Senator District 9,,REP,Ryan Mishler,167,9,75,251
+Kosciusko,Prairie 01,State Senator,9,REP,Ryan Mishler,167,9,75,251
 Kosciusko,Prairie 01,State Representative,22,REP,Craig Snow,148,6,75,229
 Kosciusko,Prairie 01,State Representative,22,LIB,Josh Vergiels,31,6,7,44
 Kosciusko,Prairie 01,Judge of the Circuit Court 54th Judicial,,REP,Matthew J. Buehler,173,8,75,256
@@ -1123,7 +1123,7 @@ Kosciusko,Prairie 02,United States Representative,2,REP,Rudy Yakym,274,5,138,417
 Kosciusko,Prairie 02,United States Representative,2,DEM,Lori A. Camp,43,8,26,77
 Kosciusko,Prairie 02,United States Representative,2,LIB,William E. Henry,11,0,0,11
 Kosciusko,Prairie 02,United States Representative,2,,Write-In,0,0,0,0
-Kosciusko,Prairie 02,State Senator District 9,,REP,Ryan Mishler,282,6,142,430
+Kosciusko,Prairie 02,State Senator,9,REP,Ryan Mishler,282,6,142,430
 Kosciusko,Prairie 02,State Representative,22,REP,Craig Snow,262,5,129,396
 Kosciusko,Prairie 02,State Representative,22,LIB,Josh Vergiels,35,2,10,47
 Kosciusko,Prairie 02,Judge of the Circuit Court 54th Judicial,,REP,Matthew J. Buehler,292,7,142,441
@@ -1169,7 +1169,7 @@ Kosciusko,Scott,United States Representative,2,REP,Rudy Yakym,168,8,45,221
 Kosciusko,Scott,United States Representative,2,DEM,Lori A. Camp,15,1,7,23
 Kosciusko,Scott,United States Representative,2,LIB,William E. Henry,2,0,0,2
 Kosciusko,Scott,United States Representative,2,,Write-In,1,1,0,2
-Kosciusko,Scott,State Senator District 9,,REP,Ryan Mishler,168,9,47,224
+Kosciusko,Scott,State Senator,9,REP,Ryan Mishler,168,9,47,224
 Kosciusko,Scott,State Representative,22,REP,Craig Snow,150,8,49,207
 Kosciusko,Scott,State Representative,22,LIB,Josh Vergiels,6,1,1,8
 Kosciusko,Scott,Judge of the Circuit Court 54th Judicial,,REP,Matthew J. Buehler,173,7,49,229
@@ -1220,7 +1220,7 @@ Kosciusko,Seward 01,United States Representative,2,REP,Rudy Yakym,242,11,117,370
 Kosciusko,Seward 01,United States Representative,2,DEM,Lori A. Camp,42,7,16,65
 Kosciusko,Seward 01,United States Representative,2,LIB,William E. Henry,11,0,4,15
 Kosciusko,Seward 01,United States Representative,2,,Write-In,0,0,0,0
-Kosciusko,Seward 01,State Senator District 18,,REP,Stacey A. Donato,245,15,107,367
+Kosciusko,Seward 01,State Senator,18,REP,Stacey A. Donato,245,15,107,367
 Kosciusko,Seward 01,State Representative,22,REP,Craig Snow,229,15,111,355
 Kosciusko,Seward 01,State Representative,22,LIB,Josh Vergiels,34,0,13,47
 Kosciusko,Seward 01,Judge of the Circuit Court 54th Judicial,,REP,Matthew J. Buehler,268,13,122,403
@@ -1268,7 +1268,7 @@ Kosciusko,Seward 02,United States Representative,2,REP,Rudy Yakym,286,12,181,479
 Kosciusko,Seward 02,United States Representative,2,DEM,Lori A. Camp,44,10,43,97
 Kosciusko,Seward 02,United States Representative,2,LIB,William E. Henry,12,0,9,21
 Kosciusko,Seward 02,United States Representative,2,,Write-In,0,0,0,0
-Kosciusko,Seward 02,State Senator District 18,,REP,Stacey A. Donato,281,16,179,476
+Kosciusko,Seward 02,State Senator,18,REP,Stacey A. Donato,281,16,179,476
 Kosciusko,Seward 02,State Representative,22,REP,Craig Snow,268,12,177,457
 Kosciusko,Seward 02,State Representative,22,LIB,Josh Vergiels,35,4,17,56
 Kosciusko,Seward 02,Judge of the Circuit Court 54th Judicial,,REP,Matthew J. Buehler,302,16,201,519
@@ -1316,7 +1316,7 @@ Kosciusko,Tippecanoe 01,United States Representative,3,REP,Marlin A. Stutzman,34
 Kosciusko,Tippecanoe 01,United States Representative,3,DEM,Kiley M. Adolph,74,16,80,170
 Kosciusko,Tippecanoe 01,United States Representative,3,LIB,Jarrad Lancaster,22,4,5,31
 Kosciusko,Tippecanoe 01,United States Representative,3,,Write-In,0,0,1,1
-Kosciusko,Tippecanoe 01,State Senator District 9,,REP,Ryan Mishler,391,27,245,663
+Kosciusko,Tippecanoe 01,State Senator,9,REP,Ryan Mishler,391,27,245,663
 Kosciusko,Tippecanoe 01,State Representative,18,REP,David H. Abbott,338,26,226,590
 Kosciusko,Tippecanoe 01,Judge of the Circuit Court 54th Judicial,,REP,Matthew J. Buehler,401,26,262,689
 Kosciusko,Tippecanoe 01,Circuit Court Clerk,,REP,Melissa Boggs,386,27,258,671
@@ -1364,7 +1364,7 @@ Kosciusko,Tippecanoe 02,United States Representative,3,REP,Marlin A. Stutzman,36
 Kosciusko,Tippecanoe 02,United States Representative,3,DEM,Kiley M. Adolph,57,22,104,183
 Kosciusko,Tippecanoe 02,United States Representative,3,LIB,Jarrad Lancaster,29,1,10,40
 Kosciusko,Tippecanoe 02,United States Representative,3,,Write-In,0,0,0,0
-Kosciusko,Tippecanoe 02,State Senator District 9,,REP,Ryan Mishler,407,29,287,723
+Kosciusko,Tippecanoe 02,State Senator,9,REP,Ryan Mishler,407,29,287,723
 Kosciusko,Tippecanoe 02,State Representative,18,REP,David H. Abbott,365,29,248,642
 Kosciusko,Tippecanoe 02,Judge of the Circuit Court 54th Judicial,,REP,Matthew J. Buehler,417,28,294,739
 Kosciusko,Tippecanoe 02,Circuit Court Clerk,,REP,Melissa Boggs,407,28,284,719
@@ -1412,7 +1412,7 @@ Kosciusko,Tippecanoe 03,United States Representative,3,REP,Marlin A. Stutzman,34
 Kosciusko,Tippecanoe 03,United States Representative,3,DEM,Kiley M. Adolph,64,28,81,173
 Kosciusko,Tippecanoe 03,United States Representative,3,LIB,Jarrad Lancaster,19,0,8,27
 Kosciusko,Tippecanoe 03,United States Representative,3,,Write-In,0,0,1,1
-Kosciusko,Tippecanoe 03,State Senator District 9,,REP,Ryan Mishler,372,30,331,733
+Kosciusko,Tippecanoe 03,State Senator,9,REP,Ryan Mishler,372,30,331,733
 Kosciusko,Tippecanoe 03,State Representative,18,REP,David H. Abbott,322,28,296,646
 Kosciusko,Tippecanoe 03,Judge of the Circuit Court 54th Judicial,,REP,Matthew J. Buehler,379,31,343,753
 Kosciusko,Tippecanoe 03,Circuit Court Clerk,,REP,Melissa Boggs,366,31,336,733
@@ -1460,7 +1460,7 @@ Kosciusko,Tippecanoe 04,United States Representative,3,REP,Marlin A. Stutzman,33
 Kosciusko,Tippecanoe 04,United States Representative,3,DEM,Kiley M. Adolph,74,19,63,156
 Kosciusko,Tippecanoe 04,United States Representative,3,LIB,Jarrad Lancaster,18,1,10,29
 Kosciusko,Tippecanoe 04,United States Representative,3,,Write-In,0,0,1,1
-Kosciusko,Tippecanoe 04,State Senator District 9,,REP,Ryan Mishler,360,22,320,702
+Kosciusko,Tippecanoe 04,State Senator,9,REP,Ryan Mishler,360,22,320,702
 Kosciusko,Tippecanoe 04,State Representative,18,REP,David H. Abbott,326,22,283,631
 Kosciusko,Tippecanoe 04,Judge of the Circuit Court 54th Judicial,,REP,Matthew J. Buehler,370,23,324,717
 Kosciusko,Tippecanoe 04,Circuit Court Clerk,,REP,Melissa Boggs,367,25,324,716
@@ -1508,7 +1508,7 @@ Kosciusko,Turkey Creek 01,United States Representative,3,REP,Marlin A. Stutzman,
 Kosciusko,Turkey Creek 01,United States Representative,3,DEM,Kiley M. Adolph,79,20,62,161
 Kosciusko,Turkey Creek 01,United States Representative,3,LIB,Jarrad Lancaster,13,0,5,18
 Kosciusko,Turkey Creek 01,United States Representative,3,,Write-In,0,0,0,0
-Kosciusko,Turkey Creek 01,State Senator District 9,,REP,Ryan Mishler,328,54,235,617
+Kosciusko,Turkey Creek 01,State Senator,9,REP,Ryan Mishler,328,54,235,617
 Kosciusko,Turkey Creek 01,State Representative,18,REP,David H. Abbott,305,54,217,576
 Kosciusko,Turkey Creek 01,Judge of the Circuit Court 54th Judicial,,REP,Matthew J. Buehler,337,54,243,634
 Kosciusko,Turkey Creek 01,Circuit Court Clerk,,REP,Melissa Boggs,332,54,240,626
@@ -1556,7 +1556,7 @@ Kosciusko,Turkey Creek 02,United States Representative,3,REP,Marlin A. Stutzman,
 Kosciusko,Turkey Creek 02,United States Representative,3,DEM,Kiley M. Adolph,41,13,30,84
 Kosciusko,Turkey Creek 02,United States Representative,3,LIB,Jarrad Lancaster,5,1,3,9
 Kosciusko,Turkey Creek 02,United States Representative,3,,Write-In,0,0,0,0
-Kosciusko,Turkey Creek 02,State Senator District 9,,REP,Ryan Mishler,180,33,99,312
+Kosciusko,Turkey Creek 02,State Senator,9,REP,Ryan Mishler,180,33,99,312
 Kosciusko,Turkey Creek 02,State Representative,18,REP,David H. Abbott,160,32,84,276
 Kosciusko,Turkey Creek 02,Judge of the Circuit Court 54th Judicial,,REP,Matthew J. Buehler,184,29,103,316
 Kosciusko,Turkey Creek 02,Circuit Court Clerk,,REP,Melissa Boggs,178,31,99,308
@@ -1604,7 +1604,7 @@ Kosciusko,Turkey Creek 03,United States Representative,3,REP,Marlin A. Stutzman,
 Kosciusko,Turkey Creek 03,United States Representative,3,DEM,Kiley M. Adolph,78,15,74,167
 Kosciusko,Turkey Creek 03,United States Representative,3,LIB,Jarrad Lancaster,17,2,5,24
 Kosciusko,Turkey Creek 03,United States Representative,3,,Write-In,0,0,0,0
-Kosciusko,Turkey Creek 03,State Senator District 9,,REP,Ryan Mishler,332,33,161,526
+Kosciusko,Turkey Creek 03,State Senator,9,REP,Ryan Mishler,332,33,161,526
 Kosciusko,Turkey Creek 03,State Representative,18,REP,David H. Abbott,298,33,145,476
 Kosciusko,Turkey Creek 03,Judge of the Circuit Court 54th Judicial,,REP,Matthew J. Buehler,339,29,170,538
 Kosciusko,Turkey Creek 03,Circuit Court Clerk,,REP,Melissa Boggs,335,29,163,527
@@ -1653,7 +1653,7 @@ Kosciusko,Turkey Creek 04,United States Representative,3,REP,Marlin A. Stutzman,
 Kosciusko,Turkey Creek 04,United States Representative,3,DEM,Kiley M. Adolph,69,17,57,143
 Kosciusko,Turkey Creek 04,United States Representative,3,LIB,Jarrad Lancaster,17,0,7,24
 Kosciusko,Turkey Creek 04,United States Representative,3,,Write-In,0,0,0,0
-Kosciusko,Turkey Creek 04,State Senator District 9,,REP,Ryan Mishler,312,18,154,484
+Kosciusko,Turkey Creek 04,State Senator,9,REP,Ryan Mishler,312,18,154,484
 Kosciusko,Turkey Creek 04,State Representative,18,REP,David H. Abbott,280,16,132,428
 Kosciusko,Turkey Creek 04,Judge of the Circuit Court 54th Judicial,,REP,Matthew J. Buehler,317,16,155,488
 Kosciusko,Turkey Creek 04,Circuit Court Clerk,,REP,Melissa Boggs,311,16,153,480
@@ -1701,7 +1701,7 @@ Kosciusko,Turkey Creek 05,United States Representative,3,REP,Marlin A. Stutzman,
 Kosciusko,Turkey Creek 05,United States Representative,3,DEM,Kiley M. Adolph,64,29,72,165
 Kosciusko,Turkey Creek 05,United States Representative,3,LIB,Jarrad Lancaster,14,1,7,22
 Kosciusko,Turkey Creek 05,United States Representative,3,,Write-In,1,0,0,1
-Kosciusko,Turkey Creek 05,State Senator District 9,,REP,Ryan Mishler,393,49,304,746
+Kosciusko,Turkey Creek 05,State Senator,9,REP,Ryan Mishler,393,49,304,746
 Kosciusko,Turkey Creek 05,State Representative,18,REP,David H. Abbott,356,47,262,665
 Kosciusko,Turkey Creek 05,Judge of the Circuit Court 54th Judicial,,REP,Matthew J. Buehler,402,50,307,759
 Kosciusko,Turkey Creek 05,Circuit Court Clerk,,REP,Melissa Boggs,390,50,295,735
@@ -1749,7 +1749,7 @@ Kosciusko,Turkey Creek 06,United States Representative,3,REP,Marlin A. Stutzman,
 Kosciusko,Turkey Creek 06,United States Representative,3,DEM,Kiley M. Adolph,58,23,58,139
 Kosciusko,Turkey Creek 06,United States Representative,3,LIB,Jarrad Lancaster,5,4,8,17
 Kosciusko,Turkey Creek 06,United States Representative,3,,Write-In,0,0,0,0
-Kosciusko,Turkey Creek 06,State Senator District 9,,REP,Ryan Mishler,225,41,206,472
+Kosciusko,Turkey Creek 06,State Senator,9,REP,Ryan Mishler,225,41,206,472
 Kosciusko,Turkey Creek 06,State Representative,18,REP,David H. Abbott,204,40,188,432
 Kosciusko,Turkey Creek 06,Judge of the Circuit Court 54th Judicial,,REP,Matthew J. Buehler,229,37,209,475
 Kosciusko,Turkey Creek 06,Circuit Court Clerk,,REP,Melissa Boggs,229,36,204,469
@@ -1797,7 +1797,7 @@ Kosciusko,Van Buren 01,United States Representative,2,REP,Rudy Yakym,371,20,157,
 Kosciusko,Van Buren 01,United States Representative,2,DEM,Lori A. Camp,82,6,58,146
 Kosciusko,Van Buren 01,United States Representative,2,LIB,William E. Henry,17,2,6,25
 Kosciusko,Van Buren 01,United States Representative,2,,Write-In,0,0,0,0
-Kosciusko,Van Buren 01,State Senator District 9,,REP,Ryan Mishler,403,21,182,606
+Kosciusko,Van Buren 01,State Senator,9,REP,Ryan Mishler,403,21,182,606
 Kosciusko,Van Buren 01,State Representative,22,REP,Craig Snow,362,20,154,536
 Kosciusko,Van Buren 01,State Representative,22,LIB,Josh Vergiels,46,3,28,77
 Kosciusko,Van Buren 01,Judge of the Circuit Court 54th Judicial,,REP,Matthew J. Buehler,421,18,183,622
@@ -1846,7 +1846,7 @@ Kosciusko,Van Buren 02,United States Representative,2,REP,Rudy Yakym,155,6,76,23
 Kosciusko,Van Buren 02,United States Representative,2,DEM,Lori A. Camp,34,11,25,70
 Kosciusko,Van Buren 02,United States Representative,2,LIB,William E. Henry,12,0,2,14
 Kosciusko,Van Buren 02,United States Representative,2,,Write-In,0,0,0,0
-Kosciusko,Van Buren 02,State Senator District 9,,REP,Ryan Mishler,180,13,87,280
+Kosciusko,Van Buren 02,State Senator,9,REP,Ryan Mishler,180,13,87,280
 Kosciusko,Van Buren 02,State Representative,22,REP,Craig Snow,152,8,68,228
 Kosciusko,Van Buren 02,State Representative,22,LIB,Josh Vergiels,23,4,15,42
 Kosciusko,Van Buren 02,Judge of the Circuit Court 54th Judicial,,REP,Matthew J. Buehler,184,13,86,283
@@ -1895,7 +1895,7 @@ Kosciusko,Van Buren 03,United States Representative,2,REP,Rudy Yakym,382,22,250,
 Kosciusko,Van Buren 03,United States Representative,2,DEM,Lori A. Camp,82,19,58,159
 Kosciusko,Van Buren 03,United States Representative,2,LIB,William E. Henry,13,1,2,16
 Kosciusko,Van Buren 03,United States Representative,2,,Write-In,0,0,1,1
-Kosciusko,Van Buren 03,State Senator District 9,,REP,Ryan Mishler,404,23,257,684
+Kosciusko,Van Buren 03,State Senator,9,REP,Ryan Mishler,404,23,257,684
 Kosciusko,Van Buren 03,State Representative,22,REP,Craig Snow,360,23,239,622
 Kosciusko,Van Buren 03,State Representative,22,LIB,Josh Vergiels,51,7,25,83
 Kosciusko,Van Buren 03,Judge of the Circuit Court 54th Judicial,,REP,Matthew J. Buehler,417,22,268,707
@@ -1945,7 +1945,7 @@ Kosciusko,Ward 01 Precinct 01,United States Representative,2,REP,Rudy Yakym,159,
 Kosciusko,Ward 01 Precinct 01,United States Representative,2,DEM,Lori A. Camp,66,13,62,141
 Kosciusko,Ward 01 Precinct 01,United States Representative,2,LIB,William E. Henry,15,0,4,19
 Kosciusko,Ward 01 Precinct 01,United States Representative,2,,Write-In,0,0,0,0
-Kosciusko,Ward 01 Precinct 01,State Senator District 9,,REP,Ryan Mishler,198,12,159,369
+Kosciusko,Ward 01 Precinct 01,State Senator,9,REP,Ryan Mishler,198,12,159,369
 Kosciusko,Ward 01 Precinct 01,State Representative,22,REP,Craig Snow,167,12,154,333
 Kosciusko,Ward 01 Precinct 01,State Representative,22,LIB,Josh Vergiels,43,2,26,71
 Kosciusko,Ward 01 Precinct 01,Judge of the Circuit Court 54th Judicial,,REP,Matthew J. Buehler,210,11,175,396
@@ -1992,7 +1992,7 @@ Kosciusko,Ward 01 Precinct 02,United States Representative,2,REP,Rudy Yakym,312,
 Kosciusko,Ward 01 Precinct 02,United States Representative,2,DEM,Lori A. Camp,151,17,127,295
 Kosciusko,Ward 01 Precinct 02,United States Representative,2,LIB,William E. Henry,22,0,13,35
 Kosciusko,Ward 01 Precinct 02,United States Representative,2,,Write-In,1,0,1,2
-Kosciusko,Ward 01 Precinct 02,State Senator District 9,,REP,Ryan Mishler,368,34,296,698
+Kosciusko,Ward 01 Precinct 02,State Senator,9,REP,Ryan Mishler,368,34,296,698
 Kosciusko,Ward 01 Precinct 02,State Representative,22,REP,Craig Snow,343,33,283,659
 Kosciusko,Ward 01 Precinct 02,State Representative,22,LIB,Josh Vergiels,80,4,53,137
 Kosciusko,Ward 01 Precinct 02,Judge of the Circuit Court 54th Judicial,,REP,Matthew J. Buehler,391,33,320,744
@@ -2039,7 +2039,7 @@ Kosciusko,Ward 02 Precinct 01,United States Representative,2,REP,Rudy Yakym,340,
 Kosciusko,Ward 02 Precinct 01,United States Representative,2,DEM,Lori A. Camp,153,19,139,311
 Kosciusko,Ward 02 Precinct 01,United States Representative,2,LIB,William E. Henry,27,3,6,36
 Kosciusko,Ward 02 Precinct 01,United States Representative,2,,Write-In,0,0,0,0
-Kosciusko,Ward 02 Precinct 01,State Senator District 9,,REP,Ryan Mishler,403,47,366,816
+Kosciusko,Ward 02 Precinct 01,State Senator,9,REP,Ryan Mishler,403,47,366,816
 Kosciusko,Ward 02 Precinct 01,State Representative,22,REP,Craig Snow,358,46,328,732
 Kosciusko,Ward 02 Precinct 01,State Representative,22,LIB,Josh Vergiels,97,8,62,167
 Kosciusko,Ward 02 Precinct 01,Judge of the Circuit Court 54th Judicial,,REP,Matthew J. Buehler,438,46,376,860
@@ -2088,7 +2088,7 @@ Kosciusko,Ward 03 Precinct 01,United States Representative,2,REP,Rudy Yakym,314,
 Kosciusko,Ward 03 Precinct 01,United States Representative,2,DEM,Lori A. Camp,93,16,115,224
 Kosciusko,Ward 03 Precinct 01,United States Representative,2,LIB,William E. Henry,20,1,10,31
 Kosciusko,Ward 03 Precinct 01,United States Representative,2,,Write-In,0,0,1,1
-Kosciusko,Ward 03 Precinct 01,State Senator District 9,,REP,Ryan Mishler,357,16,335,708
+Kosciusko,Ward 03 Precinct 01,State Senator,9,REP,Ryan Mishler,357,16,335,708
 Kosciusko,Ward 03 Precinct 01,State Representative,22,REP,Craig Snow,340,17,311,668
 Kosciusko,Ward 03 Precinct 01,State Representative,22,LIB,Josh Vergiels,51,7,58,116
 Kosciusko,Ward 03 Precinct 01,Judge of the Circuit Court 54th Judicial,,REP,Matthew J. Buehler,382,16,361,759
@@ -2134,7 +2134,7 @@ Kosciusko,Ward 03 Precinct 02,United States Representative,2,REP,Rudy Yakym,236,
 Kosciusko,Ward 03 Precinct 02,United States Representative,2,DEM,Lori A. Camp,86,10,65,161
 Kosciusko,Ward 03 Precinct 02,United States Representative,2,LIB,William E. Henry,31,1,14,46
 Kosciusko,Ward 03 Precinct 02,United States Representative,2,,Write-In,0,0,0,0
-Kosciusko,Ward 03 Precinct 02,State Senator District 9,,REP,Ryan Mishler,282,11,238,531
+Kosciusko,Ward 03 Precinct 02,State Senator,9,REP,Ryan Mishler,282,11,238,531
 Kosciusko,Ward 03 Precinct 02,State Representative,22,REP,Craig Snow,244,9,220,473
 Kosciusko,Ward 03 Precinct 02,State Representative,22,LIB,Josh Vergiels,67,2,37,106
 Kosciusko,Ward 03 Precinct 02,Judge of the Circuit Court 54th Judicial,,REP,Matthew J. Buehler,291,11,252,554
@@ -2182,7 +2182,7 @@ Kosciusko,Ward 04 Precinct 01,United States Representative,2,REP,Rudy Yakym,226,
 Kosciusko,Ward 04 Precinct 01,United States Representative,2,DEM,Lori A. Camp,118,46,98,262
 Kosciusko,Ward 04 Precinct 01,United States Representative,2,LIB,William E. Henry,25,3,8,36
 Kosciusko,Ward 04 Precinct 01,United States Representative,2,,Write-In,0,0,0,0
-Kosciusko,Ward 04 Precinct 01,State Senator District 9,,REP,Ryan Mishler,275,18,239,532
+Kosciusko,Ward 04 Precinct 01,State Senator,9,REP,Ryan Mishler,275,18,239,532
 Kosciusko,Ward 04 Precinct 01,State Representative,22,REP,Craig Snow,232,21,209,462
 Kosciusko,Ward 04 Precinct 01,State Representative,22,LIB,Josh Vergiels,79,6,60,145
 Kosciusko,Ward 04 Precinct 01,Judge of the Circuit Court 54th Judicial,,REP,Matthew J. Buehler,306,19,253,578
@@ -2230,7 +2230,7 @@ Kosciusko,Ward 04 Precinct 02,United States Representative,2,REP,Rudy Yakym,90,1
 Kosciusko,Ward 04 Precinct 02,United States Representative,2,DEM,Lori A. Camp,41,6,43,90
 Kosciusko,Ward 04 Precinct 02,United States Representative,2,LIB,William E. Henry,3,0,2,5
 Kosciusko,Ward 04 Precinct 02,United States Representative,2,,Write-In,0,0,0,0
-Kosciusko,Ward 04 Precinct 02,State Senator District 9,,REP,Ryan Mishler,97,18,110,225
+Kosciusko,Ward 04 Precinct 02,State Senator,9,REP,Ryan Mishler,97,18,110,225
 Kosciusko,Ward 04 Precinct 02,State Representative,22,REP,Craig Snow,92,17,109,218
 Kosciusko,Ward 04 Precinct 02,State Representative,22,LIB,Josh Vergiels,20,2,16,38
 Kosciusko,Ward 04 Precinct 02,Judge of the Circuit Court 54th Judicial,,REP,Matthew J. Buehler,102,18,121,241
@@ -2277,7 +2277,7 @@ Kosciusko,Ward 05 Precinct 01,United States Representative,2,REP,Rudy Yakym,141,
 Kosciusko,Ward 05 Precinct 01,United States Representative,2,DEM,Lori A. Camp,48,8,46,102
 Kosciusko,Ward 05 Precinct 01,United States Representative,2,LIB,William E. Henry,9,0,0,9
 Kosciusko,Ward 05 Precinct 01,United States Representative,2,,Write-In,0,0,0,0
-Kosciusko,Ward 05 Precinct 01,State Senator District 9,,REP,Ryan Mishler,155,30,156,341
+Kosciusko,Ward 05 Precinct 01,State Senator,9,REP,Ryan Mishler,155,30,156,341
 Kosciusko,Ward 05 Precinct 01,State Representative,22,REP,Craig Snow,141,28,145,314
 Kosciusko,Ward 05 Precinct 01,State Representative,22,LIB,Josh Vergiels,22,2,21,45
 Kosciusko,Ward 05 Precinct 01,Judge of the Circuit Court 54th Judicial,,REP,Matthew J. Buehler,168,29,169,366
@@ -2324,7 +2324,7 @@ Kosciusko,Ward 05 Precinct 02,United States Representative,2,REP,Rudy Yakym,48,1
 Kosciusko,Ward 05 Precinct 02,United States Representative,2,DEM,Lori A. Camp,6,6,27,39
 Kosciusko,Ward 05 Precinct 02,United States Representative,2,LIB,William E. Henry,1,0,1,2
 Kosciusko,Ward 05 Precinct 02,United States Representative,2,,Write-In,0,1,1,2
-Kosciusko,Ward 05 Precinct 02,State Senator District 9,,REP,Ryan Mishler,48,14,35,97
+Kosciusko,Ward 05 Precinct 02,State Senator,9,REP,Ryan Mishler,48,14,35,97
 Kosciusko,Ward 05 Precinct 02,State Representative,22,REP,Craig Snow,45,15,29,89
 Kosciusko,Ward 05 Precinct 02,State Representative,22,LIB,Josh Vergiels,5,3,14,22
 Kosciusko,Ward 05 Precinct 02,Judge of the Circuit Court 54th Judicial,,REP,Matthew J. Buehler,52,13,38,103
@@ -2371,7 +2371,7 @@ Kosciusko,Washington 01,United States Representative,3,REP,Marlin A. Stutzman,21
 Kosciusko,Washington 01,United States Representative,3,DEM,Kiley M. Adolph,49,16,26,91
 Kosciusko,Washington 01,United States Representative,3,LIB,Jarrad Lancaster,17,1,2,20
 Kosciusko,Washington 01,United States Representative,3,,Write-In,0,0,0,0
-Kosciusko,Washington 01,State Senator District 18,,REP,Stacey A. Donato,225,21,77,323
+Kosciusko,Washington 01,State Senator,18,REP,Stacey A. Donato,225,21,77,323
 Kosciusko,Washington 01,State Representative,22,REP,Craig Snow,217,19,77,313
 Kosciusko,Washington 01,State Representative,22,LIB,Josh Vergiels,38,6,13,57
 Kosciusko,Washington 01,Judge of the Circuit Court 54th Judicial,,REP,Matthew J. Buehler,249,20,90,359
@@ -2421,7 +2421,7 @@ Kosciusko,Washington 02,United States Representative,3,REP,Marlin A. Stutzman,23
 Kosciusko,Washington 02,United States Representative,3,DEM,Kiley M. Adolph,41,8,23,72
 Kosciusko,Washington 02,United States Representative,3,LIB,Jarrad Lancaster,14,0,7,21
 Kosciusko,Washington 02,United States Representative,3,,Write-In,0,0,0,0
-Kosciusko,Washington 02,State Senator District 18,,REP,Stacey A. Donato,234,12,119,365
+Kosciusko,Washington 02,State Senator,18,REP,Stacey A. Donato,234,12,119,365
 Kosciusko,Washington 02,State Representative,22,REP,Craig Snow,231,11,110,352
 Kosciusko,Washington 02,State Representative,22,LIB,Josh Vergiels,33,2,16,51
 Kosciusko,Washington 02,Judge of the Circuit Court 54th Judicial,,REP,Matthew J. Buehler,249,11,123,383
@@ -2472,7 +2472,7 @@ Kosciusko,Washington 03,United States Representative,3,REP,Marlin A. Stutzman,23
 Kosciusko,Washington 03,United States Representative,3,DEM,Kiley M. Adolph,48,9,23,80
 Kosciusko,Washington 03,United States Representative,3,LIB,Jarrad Lancaster,23,0,6,29
 Kosciusko,Washington 03,United States Representative,3,,Write-In,0,0,0,0
-Kosciusko,Washington 03,State Senator District 18,,REP,Stacey A. Donato,241,6,70,317
+Kosciusko,Washington 03,State Senator,18,REP,Stacey A. Donato,241,6,70,317
 Kosciusko,Washington 03,State Representative,22,REP,Craig Snow,229,6,66,301
 Kosciusko,Washington 03,State Representative,22,LIB,Josh Vergiels,46,1,15,62
 Kosciusko,Washington 03,Judge of the Circuit Court 54th Judicial,,REP,Matthew J. Buehler,258,6,78,342
@@ -2522,7 +2522,7 @@ Kosciusko,Wayne 01,United States Representative,2,REP,Rudy Yakym,277,75,307,659
 Kosciusko,Wayne 01,United States Representative,2,DEM,Lori A. Camp,74,22,85,181
 Kosciusko,Wayne 01,United States Representative,2,LIB,William E. Henry,17,0,3,20
 Kosciusko,Wayne 01,United States Representative,2,,Write-In,0,0,0,0
-Kosciusko,Wayne 01,State Senator District 9,,REP,Ryan Mishler,298,80,335,713
+Kosciusko,Wayne 01,State Senator,9,REP,Ryan Mishler,298,80,335,713
 Kosciusko,Wayne 01,State Representative,22,REP,Craig Snow,301,79,332,712
 Kosciusko,Wayne 01,State Representative,22,LIB,Josh Vergiels,40,6,24,70
 Kosciusko,Wayne 01,Judge of the Circuit Court 54th Judicial,,REP,Matthew J. Buehler,317,80,353,750
@@ -2569,7 +2569,7 @@ Kosciusko,Wayne 02,United States Representative,2,REP,Rudy Yakym,256,19,231,506
 Kosciusko,Wayne 02,United States Representative,2,DEM,Lori A. Camp,57,9,66,132
 Kosciusko,Wayne 02,United States Representative,2,LIB,William E. Henry,23,0,6,29
 Kosciusko,Wayne 02,United States Representative,2,,Write-In,0,0,0,0
-Kosciusko,Wayne 02,State Senator District 18,,REP,Stacey A. Donato,265,22,232,519
+Kosciusko,Wayne 02,State Senator,18,REP,Stacey A. Donato,265,22,232,519
 Kosciusko,Wayne 02,State Representative,22,REP,Craig Snow,277,22,240,539
 Kosciusko,Wayne 02,State Representative,22,LIB,Josh Vergiels,40,1,31,72
 Kosciusko,Wayne 02,Judge of the Circuit Court 54th Judicial,,REP,Matthew J. Buehler,298,21,254,573
@@ -2615,7 +2615,7 @@ Kosciusko,Wayne 03,United States Representative,2,REP,Rudy Yakym,71,15,103,189
 Kosciusko,Wayne 03,United States Representative,2,DEM,Lori A. Camp,27,4,31,62
 Kosciusko,Wayne 03,United States Representative,2,LIB,William E. Henry,7,0,8,15
 Kosciusko,Wayne 03,United States Representative,2,,Write-In,0,0,0,0
-Kosciusko,Wayne 03,State Senator District 9,,REP,Ryan Mishler,87,18,111,216
+Kosciusko,Wayne 03,State Senator,9,REP,Ryan Mishler,87,18,111,216
 Kosciusko,Wayne 03,State Representative,22,REP,Craig Snow,75,17,114,206
 Kosciusko,Wayne 03,State Representative,22,LIB,Josh Vergiels,21,1,11,33
 Kosciusko,Wayne 03,Judge of the Circuit Court 54th Judicial,,REP,Matthew J. Buehler,93,18,118,229
@@ -2661,7 +2661,7 @@ Kosciusko,Wayne 04,United States Representative,2,REP,Rudy Yakym,91,3,64,158
 Kosciusko,Wayne 04,United States Representative,2,DEM,Lori A. Camp,40,4,39,83
 Kosciusko,Wayne 04,United States Representative,2,LIB,William E. Henry,7,2,3,12
 Kosciusko,Wayne 04,United States Representative,2,,Write-In,0,0,0,0
-Kosciusko,Wayne 04,State Senator District 9,,REP,Ryan Mishler,101,7,73,181
+Kosciusko,Wayne 04,State Senator,9,REP,Ryan Mishler,101,7,73,181
 Kosciusko,Wayne 04,State Representative,22,REP,Craig Snow,109,6,70,185
 Kosciusko,Wayne 04,State Representative,22,LIB,Josh Vergiels,22,1,23,46
 Kosciusko,Wayne 04,Judge of the Circuit Court 54th Judicial,,REP,Matthew J. Buehler,115,5,81,201
@@ -2707,7 +2707,7 @@ Kosciusko,Wayne 05,United States Representative,2,REP,Rudy Yakym,203,11,191,405
 Kosciusko,Wayne 05,United States Representative,2,DEM,Lori A. Camp,46,10,54,110
 Kosciusko,Wayne 05,United States Representative,2,LIB,William E. Henry,19,0,4,23
 Kosciusko,Wayne 05,United States Representative,2,,Write-In,0,0,0,0
-Kosciusko,Wayne 05,State Senator District 9,,REP,Ryan Mishler,231,11,196,438
+Kosciusko,Wayne 05,State Senator,9,REP,Ryan Mishler,231,11,196,438
 Kosciusko,Wayne 05,State Representative,22,REP,Craig Snow,200,13,190,403
 Kosciusko,Wayne 05,State Representative,22,LIB,Josh Vergiels,49,1,28,78
 Kosciusko,Wayne 05,Judge of the Circuit Court 54th Judicial,,REP,Matthew J. Buehler,250,12,214,476
@@ -2755,7 +2755,7 @@ Kosciusko,Wayne 06,United States Representative,2,REP,Rudy Yakym,229,13,197,439
 Kosciusko,Wayne 06,United States Representative,2,DEM,Lori A. Camp,96,11,43,150
 Kosciusko,Wayne 06,United States Representative,2,LIB,William E. Henry,14,0,3,17
 Kosciusko,Wayne 06,United States Representative,2,,Write-In,0,0,0,0
-Kosciusko,Wayne 06,State Senator District 18,,REP,Stacey A. Donato,265,15,197,477
+Kosciusko,Wayne 06,State Senator,18,REP,Stacey A. Donato,265,15,197,477
 Kosciusko,Wayne 06,State Representative,22,REP,Craig Snow,238,14,191,443
 Kosciusko,Wayne 06,State Representative,22,LIB,Josh Vergiels,59,4,23,86
 Kosciusko,Wayne 06,Judge of the Circuit Court 54th Judicial,,REP,Matthew J. Buehler,288,16,215,519
@@ -2801,7 +2801,7 @@ Kosciusko,Wayne 07,United States Representative,2,REP,Rudy Yakym,254,12,224,490
 Kosciusko,Wayne 07,United States Representative,2,DEM,Lori A. Camp,85,18,72,175
 Kosciusko,Wayne 07,United States Representative,2,LIB,William E. Henry,18,0,9,27
 Kosciusko,Wayne 07,United States Representative,2,,Write-In,0,0,0,0
-Kosciusko,Wayne 07,State Senator District 18,,REP,Stacey A. Donato,277,16,233,526
+Kosciusko,Wayne 07,State Senator,18,REP,Stacey A. Donato,277,16,233,526
 Kosciusko,Wayne 07,State Representative,22,REP,Craig Snow,256,17,223,496
 Kosciusko,Wayne 07,State Representative,22,LIB,Josh Vergiels,68,6,48,122
 Kosciusko,Wayne 07,Judge of the Circuit Court 54th Judicial,,REP,Matthew J. Buehler,307,18,249,574
@@ -2847,7 +2847,7 @@ Kosciusko,Wayne 08,United States Representative,2,REP,Rudy Yakym,249,30,223,502
 Kosciusko,Wayne 08,United States Representative,2,DEM,Lori A. Camp,70,17,69,156
 Kosciusko,Wayne 08,United States Representative,2,LIB,William E. Henry,10,3,12,25
 Kosciusko,Wayne 08,United States Representative,2,,Write-In,1,0,0,1
-Kosciusko,Wayne 08,State Senator District 18,,REP,Stacey A. Donato,270,36,229,535
+Kosciusko,Wayne 08,State Senator,18,REP,Stacey A. Donato,270,36,229,535
 Kosciusko,Wayne 08,State Representative,22,REP,Craig Snow,259,38,234,531
 Kosciusko,Wayne 08,State Representative,22,LIB,Josh Vergiels,39,4,39,82
 Kosciusko,Wayne 08,Judge of the Circuit Court 54th Judicial,,REP,Matthew J. Buehler,292,37,253,582
@@ -2893,7 +2893,7 @@ Kosciusko,Wayne 09,United States Representative,2,REP,Rudy Yakym,291,15,251,557
 Kosciusko,Wayne 09,United States Representative,2,DEM,Lori A. Camp,73,10,92,175
 Kosciusko,Wayne 09,United States Representative,2,LIB,William E. Henry,23,1,12,36
 Kosciusko,Wayne 09,United States Representative,2,,Write-In,0,0,0,0
-Kosciusko,Wayne 09,State Senator District 18,,REP,Stacey A. Donato,306,19,271,596
+Kosciusko,Wayne 09,State Senator,18,REP,Stacey A. Donato,306,19,271,596
 Kosciusko,Wayne 09,State Representative,22,REP,Craig Snow,304,20,260,584
 Kosciusko,Wayne 09,State Representative,22,LIB,Josh Vergiels,47,3,48,98
 Kosciusko,Wayne 09,Judge of the Circuit Court 54th Judicial,,REP,Matthew J. Buehler,333,19,300,652
@@ -2939,7 +2939,7 @@ Kosciusko,Wayne 10,United States Representative,2,REP,Rudy Yakym,333,11,276,620
 Kosciusko,Wayne 10,United States Representative,2,DEM,Lori A. Camp,68,9,62,139
 Kosciusko,Wayne 10,United States Representative,2,LIB,William E. Henry,18,3,3,24
 Kosciusko,Wayne 10,United States Representative,2,,Write-In,0,0,0,0
-Kosciusko,Wayne 10,State Senator District 9,,REP,Ryan Mishler,359,14,288,661
+Kosciusko,Wayne 10,State Senator,9,REP,Ryan Mishler,359,14,288,661
 Kosciusko,Wayne 10,State Representative,22,REP,Craig Snow,346,15,291,652
 Kosciusko,Wayne 10,State Representative,22,LIB,Josh Vergiels,43,4,24,71
 Kosciusko,Wayne 10,Judge of the Circuit Court 54th Judicial,,REP,Matthew J. Buehler,376,14,301,691
@@ -2985,7 +2985,7 @@ Kosciusko,Wayne 11,United States Representative,2,REP,Rudy Yakym,250,13,192,455
 Kosciusko,Wayne 11,United States Representative,2,DEM,Lori A. Camp,52,7,42,101
 Kosciusko,Wayne 11,United States Representative,2,LIB,William E. Henry,12,0,7,19
 Kosciusko,Wayne 11,United States Representative,2,,Write-In,0,0,0,0
-Kosciusko,Wayne 11,State Senator District 9,,REP,Ryan Mishler,269,16,198,483
+Kosciusko,Wayne 11,State Senator,9,REP,Ryan Mishler,269,16,198,483
 Kosciusko,Wayne 11,State Representative,22,REP,Craig Snow,253,16,199,468
 Kosciusko,Wayne 11,State Representative,22,LIB,Josh Vergiels,36,3,20,59
 Kosciusko,Wayne 11,Judge of the Circuit Court 54th Judicial,,REP,Matthew J. Buehler,291,15,206,512
@@ -3033,7 +3033,7 @@ Kosciusko,Wayne 12,United States Representative,3,REP,Marlin A. Stutzman,6,0,0,6
 Kosciusko,Wayne 12,United States Representative,3,DEM,Kiley M. Adolph,0,1,0,1
 Kosciusko,Wayne 12,United States Representative,3,LIB,Jarrad Lancaster,0,0,0,0
 Kosciusko,Wayne 12,United States Representative,3,,Write-In,0,0,0,0
-Kosciusko,Wayne 12,State Senator District 18,,REP,Stacey A. Donato,5,0,1,6
+Kosciusko,Wayne 12,State Senator,18,REP,Stacey A. Donato,5,0,1,6
 Kosciusko,Wayne 12,State Representative,22,REP,Craig Snow,6,0,1,7
 Kosciusko,Wayne 12,State Representative,22,LIB,Josh Vergiels,0,0,0,0
 Kosciusko,Wayne 12,Judge of the Circuit Court 54th Judicial,,REP,Matthew J. Buehler,6,0,1,7
@@ -3079,7 +3079,7 @@ Kosciusko,Wayne 13,United States Representative,2,REP,Rudy Yakym,1,0,0,1
 Kosciusko,Wayne 13,United States Representative,2,DEM,Lori A. Camp,0,0,0,0
 Kosciusko,Wayne 13,United States Representative,2,LIB,William E. Henry,0,0,0,0
 Kosciusko,Wayne 13,United States Representative,2,,Write-In,0,0,0,0
-Kosciusko,Wayne 13,State Senator District 9,,REP,Ryan Mishler,1,0,0,1
+Kosciusko,Wayne 13,State Senator,9,REP,Ryan Mishler,1,0,0,1
 Kosciusko,Wayne 13,State Representative,22,REP,Craig Snow,1,0,0,1
 Kosciusko,Wayne 13,State Representative,22,LIB,Josh Vergiels,0,0,0,0
 Kosciusko,Wayne 13,Judge of the Circuit Court 54th Judicial,,REP,Matthew J. Buehler,1,0,0,1

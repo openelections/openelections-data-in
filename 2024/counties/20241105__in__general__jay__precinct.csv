@@ -1,0 +1,881 @@
+county,precinct,office,district,party,candidate,votes,absentee,early_voting,election_day
+Jay,Dunkirk 3,Registered Voters,,,,754,,,
+Jay,Dunkirk 3,Ballots Cast,,,,477,15,117,345
+Jay,Dunkirk 3,"Public Question Const Amendment",,,Yes,225,2,52,171
+Jay,Dunkirk 3,"Public Question Const Amendment",,,No,175,8,38,129
+Jay,Dunkirk 3,"President",,REP,"Donald J. Trump",337,6,74,257
+Jay,Dunkirk 3,"President",,DEM,"Kamala D. Harris",129,9,39,81
+Jay,Dunkirk 3,"President",,LIB,"Chase Oliver",2,0,0,2
+Jay,Dunkirk 3,"President",,WTP,"Robert F. Kennedy Jr.",0,0,0,0
+Jay,Dunkirk 3,"President",,,"Write-ins",1,0,0,1
+Jay,Dunkirk 3,"U.S. Senate",,REP,"Jim Banks",314,6,68,240
+Jay,Dunkirk 3,"U.S. Senate",,DEM,"Valerie McCray",121,9,37,75
+Jay,Dunkirk 3,"U.S. Senate",,LIB,"Andrew Horning",12,0,5,7
+Jay,Dunkirk 3,"U.S. Senate",,,"Write-ins",0,0,0,0
+Jay,Dunkirk 3,"Governor",,REP,"Braun \ Beckwith",264,7,64,193
+Jay,Dunkirk 3,"Governor",,DEM,"Mccormick \ Goodin",145,8,41,96
+Jay,Dunkirk 3,"Governor",,LIB,"Rainwater \ Hudson",40,0,6,34
+Jay,Dunkirk 3,"Governor",,,"Write-ins",0,0,0,0
+Jay,Dunkirk 3,"Attorney General",,REP,"Todd Rokita",307,6,74,227
+Jay,Dunkirk 3,"Attorney General",,DEM,"Destiny Wells",140,9,37,94
+Jay,Dunkirk 3,"U.S. House",3,REP,"Marlin A. Stutzman",306,7,73,226
+Jay,Dunkirk 3,"U.S. House",3,DEM,"Kiley M. Adolph",116,8,32,76
+Jay,Dunkirk 3,"U.S. House",3,LIB,"Jarrad Lancaster",17,0,2,15
+Jay,Dunkirk 3,"U.S. House",3,,"Write-ins",0,0,0,0
+Jay,Dunkirk 3,"State House",33,REP,"John (J.D.) Prescott",319,6,72,241
+Jay,Dunkirk 3,"State House",33,DEM,"John E. Bartlett",127,9,38,80
+Jay,Dunkirk 3,"Judge of the Circuit Court 58th Judicial",,REP,"Brian David Hutchison",361,8,88,265
+Jay,Dunkirk 3,"Circuit Court Clerk",,REP,"Missy Eads Elliott",357,8,88,261
+Jay,Dunkirk 3,"County Treasurer",,REP,"Jonelle Foreman",339,7,83,249
+Jay,Dunkirk 3,"County Coroner",,REP,"Brayden Fields",360,8,86,266
+Jay,Dunkirk 3,"County Surveyor",,REP,"Bradley A. Daniels",366,8,87,271
+Jay,Dunkirk 3,"County Commissioner North District",,REP,"Doug Horn",358,8,86,264
+Jay,Dunkirk 3,"County Commissioner South District",,REP,"Duane Monroe",319,7,76,236
+Jay,Dunkirk 3,"County Commissioner South District",,DEM,"Blake B. Watson",133,8,35,90
+Jay,Dunkirk 3,"County Council Member At Large",,REP,"Bryan Alexander",241,3,57,181
+Jay,Dunkirk 3,"County Council Member At Large",,REP,"Michael E. Brewster",200,4,56,140
+Jay,Dunkirk 3,"County Council Member At Large",,REP,"Matt Minnich",191,2,50,139
+Jay,Dunkirk 3,"Jay School Board",1,NP,"Jon Eads",324,8,80,236
+Jay,Dunkirk 3,"Jay School Board",4,NP,"Aaron Lee Clark",283,6,66,211
+Jay,Dunkirk 3,"Jay School Board",6,NP,"Chad Towell",293,6,69,218
+Jay,Dunkirk 3,"IN Supreme Court-Rush",,,Yes,251,5,56,190
+Jay,Dunkirk 3,"IN Supreme Court-Rush",,,No,96,5,27,64
+Jay,Dunkirk 3,"IN Supreme Court-Massa",,,Yes,250,5,56,189
+Jay,Dunkirk 3,"IN Supreme Court-Massa",,,No,90,5,26,59
+Jay,Dunkirk 3,"IN Supreme Court-Molter",,,Yes,252,4,57,191
+Jay,Dunkirk 3,"IN Supreme Court-Molter",,,No,90,6,26,58
+Jay,Dunkirk 3,"Court of Appeals Dist 4-Pyle III",,,Yes,255,5,56,194
+Jay,Dunkirk 3,"Court of Appeals Dist 4-Pyle III",,,No,90,4,27,59
+Jay,Dunkirk 3,"Straight Party",,DEM,"Democratic Party",36,,,
+Jay,Dunkirk 3,"Straight Party",,REP,"Republican Party",134,,,
+Jay,Dunkirk 1,Registered Voters,,,,664,,,
+Jay,Dunkirk 1,Ballots Cast,,,,420,23,106,291
+Jay,Dunkirk 1,"Public Question Const Amendment",,,Yes,193,4,42,147
+Jay,Dunkirk 1,"Public Question Const Amendment",,,No,161,8,51,102
+Jay,Dunkirk 1,"President",,REP,"Donald J. Trump",287,16,66,205
+Jay,Dunkirk 1,"President",,DEM,"Kamala D. Harris",114,7,37,70
+Jay,Dunkirk 1,"President",,LIB,"Chase Oliver",5,0,0,5
+Jay,Dunkirk 1,"President",,WTP,"Robert F. Kennedy Jr.",6,0,1,5
+Jay,Dunkirk 1,"President",,,"Write-ins",1,0,0,1
+Jay,Dunkirk 1,"U.S. Senate",,REP,"Jim Banks",276,14,65,197
+Jay,Dunkirk 1,"U.S. Senate",,DEM,"Valerie McCray",109,8,33,68
+Jay,Dunkirk 1,"U.S. Senate",,LIB,"Andrew Horning",14,1,2,11
+Jay,Dunkirk 1,"U.S. Senate",,,"Write-ins",0,0,0,0
+Jay,Dunkirk 1,"Governor",,REP,"Braun \ Beckwith",234,14,58,162
+Jay,Dunkirk 1,"Governor",,DEM,"Mccormick \ Goodin",131,8,39,84
+Jay,Dunkirk 1,"Governor",,LIB,"Rainwater \ Hudson",37,1,4,32
+Jay,Dunkirk 1,"Governor",,,"Write-ins",0,0,0,0
+Jay,Dunkirk 1,"Attorney General",,REP,"Todd Rokita",266,14,64,188
+Jay,Dunkirk 1,"Attorney General",,DEM,"Destiny Wells",137,9,41,87
+Jay,Dunkirk 1,"U.S. House",3,REP,"Marlin A. Stutzman",271,15,65,191
+Jay,Dunkirk 1,"U.S. House",3,DEM,"Kiley M. Adolph",111,8,36,67
+Jay,Dunkirk 1,"U.S. House",3,LIB,"Jarrad Lancaster",21,0,3,18
+Jay,Dunkirk 1,"U.S. House",3,,"Write-ins",0,0,0,0
+Jay,Dunkirk 1,"State House",33,REP,"John (J.D.) Prescott",285,16,68,201
+Jay,Dunkirk 1,"State House",33,DEM,"John E. Bartlett",120,7,33,80
+Jay,Dunkirk 1,"Judge of the Circuit Court 58th Judicial",,REP,"Brian David Hutchison",312,19,71,222
+Jay,Dunkirk 1,"Circuit Court Clerk",,REP,"Missy Eads Elliott",320,19,77,224
+Jay,Dunkirk 1,"County Treasurer",,REP,"Jonelle Foreman",310,18,73,219
+Jay,Dunkirk 1,"County Coroner",,REP,"Brayden Fields",325,19,76,230
+Jay,Dunkirk 1,"County Surveyor",,REP,"Bradley A. Daniels",322,18,77,227
+Jay,Dunkirk 1,"County Commissioner North District",,REP,"Doug Horn",316,18,73,225
+Jay,Dunkirk 1,"County Commissioner South District",,REP,"Duane Monroe",277,16,68,193
+Jay,Dunkirk 1,"County Commissioner South District",,DEM,"Blake B. Watson",118,6,34,78
+Jay,Dunkirk 1,"County Council Member At Large",,REP,"Bryan Alexander",206,8,42,156
+Jay,Dunkirk 1,"County Council Member At Large",,REP,"Michael E. Brewster",177,5,42,130
+Jay,Dunkirk 1,"County Council Member At Large",,REP,"Matt Minnich",151,4,31,116
+Jay,Dunkirk 1,"Jay School Board",1,NP,"Jon Eads",270,7,61,202
+Jay,Dunkirk 1,"Jay School Board",4,NP,"Aaron Lee Clark",244,6,56,182
+Jay,Dunkirk 1,"Jay School Board",6,NP,"Chad Towell",240,4,55,181
+Jay,Dunkirk 1,"IN Supreme Court-Rush",,,Yes,213,4,51,158
+Jay,Dunkirk 1,"IN Supreme Court-Rush",,,No,94,5,23,66
+Jay,Dunkirk 1,"IN Supreme Court-Massa",,,Yes,203,4,52,147
+Jay,Dunkirk 1,"IN Supreme Court-Massa",,,No,104,6,25,73
+Jay,Dunkirk 1,"IN Supreme Court-Molter",,,Yes,215,5,54,156
+Jay,Dunkirk 1,"IN Supreme Court-Molter",,,No,94,5,23,66
+Jay,Dunkirk 1,"Court of Appeals Dist 4-Pyle III",,,Yes,210,4,52,154
+Jay,Dunkirk 1,"Court of Appeals Dist 4-Pyle III",,,No,100,5,24,71
+Jay,Dunkirk 1,"Straight Party",,DEM,"Democratic Party",41,,,
+Jay,Dunkirk 1,"Straight Party",,REP,"Republican Party",114,,,
+Jay,Knox,Registered Voters,,,,303,,,
+Jay,Knox,Ballots Cast,,,,214,5,97,112
+Jay,Knox,"Public Question Const Amendment",,,Yes,113,1,53,59
+Jay,Knox,"Public Question Const Amendment",,,No,80,2,36,42
+Jay,Knox,"President",,REP,"Donald J. Trump",173,4,78,91
+Jay,Knox,"President",,DEM,"Kamala D. Harris",34,1,14,19
+Jay,Knox,"President",,LIB,"Chase Oliver",4,0,3,1
+Jay,Knox,"President",,WTP,"Robert F. Kennedy Jr.",1,0,0,1
+Jay,Knox,"President",,,"Write-ins",0,0,0,0
+Jay,Knox,"U.S. Senate",,REP,"Jim Banks",176,4,81,91
+Jay,Knox,"U.S. Senate",,DEM,"Valerie McCray",28,1,12,15
+Jay,Knox,"U.S. Senate",,LIB,"Andrew Horning",3,0,2,1
+Jay,Knox,"U.S. Senate",,,"Write-ins",0,0,0,0
+Jay,Knox,"Governor",,REP,"Braun \ Beckwith",150,4,70,76
+Jay,Knox,"Governor",,DEM,"Mccormick \ Goodin",44,1,20,23
+Jay,Knox,"Governor",,LIB,"Rainwater \ Hudson",11,0,5,6
+Jay,Knox,"Governor",,,"Write-ins",0,0,0,0
+Jay,Knox,"Attorney General",,REP,"Todd Rokita",177,4,83,90
+Jay,Knox,"Attorney General",,DEM,"Destiny Wells",34,1,12,21
+Jay,Knox,"U.S. House",3,REP,"Marlin A. Stutzman",175,4,79,92
+Jay,Knox,"U.S. House",3,DEM,"Kiley M. Adolph",27,1,11,15
+Jay,Knox,"U.S. House",3,LIB,"Jarrad Lancaster",5,0,4,1
+Jay,Knox,"U.S. House",3,,"Write-ins",0,0,0,0
+Jay,Knox,"State House",33,REP,"John (J.D.) Prescott",176,4,82,90
+Jay,Knox,"State House",33,DEM,"John E. Bartlett",33,1,14,18
+Jay,Knox,"Judge of the Circuit Court 58th Judicial",,REP,"Brian David Hutchison",188,4,89,95
+Jay,Knox,"Circuit Court Clerk",,REP,"Missy Eads Elliott",191,5,91,95
+Jay,Knox,"County Treasurer",,REP,"Jonelle Foreman",193,5,89,99
+Jay,Knox,"County Coroner",,REP,"Brayden Fields",194,4,90,100
+Jay,Knox,"County Surveyor",,REP,"Bradley A. Daniels",193,5,90,98
+Jay,Knox,"County Commissioner North District",,REP,"Doug Horn",197,4,90,103
+Jay,Knox,"County Commissioner South District",,REP,"Duane Monroe",182,4,85,93
+Jay,Knox,"County Commissioner South District",,DEM,"Blake B. Watson",27,1,10,16
+Jay,Knox,"County Council Member At Large",,REP,"Bryan Alexander",119,0,53,66
+Jay,Knox,"County Council Member At Large",,REP,"Michael E. Brewster",114,1,56,57
+Jay,Knox,"County Council Member At Large",,REP,"Matt Minnich",117,1,57,59
+Jay,Knox,"Jay School Board",1,NP,"Jon Eads",162,1,74,87
+Jay,Knox,"Jay School Board",4,NP,"Aaron Lee Clark",151,1,71,79
+Jay,Knox,"Jay School Board",6,NP,"Chad Towell",156,0,66,90
+Jay,Knox,"IN Supreme Court-Rush",,,Yes,126,0,58,68
+Jay,Knox,"IN Supreme Court-Rush",,,No,42,1,19,22
+Jay,Knox,"IN Supreme Court-Massa",,,Yes,114,0,54,60
+Jay,Knox,"IN Supreme Court-Massa",,,No,50,1,21,28
+Jay,Knox,"IN Supreme Court-Molter",,,Yes,125,0,54,71
+Jay,Knox,"IN Supreme Court-Molter",,,No,45,1,23,21
+Jay,Knox,"Court of Appeals Dist 4-Pyle III",,,Yes,123,0,58,65
+Jay,Knox,"Court of Appeals Dist 4-Pyle III",,,No,44,1,18,25
+Jay,Knox,"Straight Party",,DEM,"Democratic Party",4,,,
+Jay,Knox,"Straight Party",,REP,"Republican Party",69,,,
+Jay,Redkey,Registered Voters,,,,1135,,,
+Jay,Redkey,Ballots Cast,,,,757,29,272,456
+Jay,Redkey,"Public Question Const Amendment",,,Yes,369,8,131,230
+Jay,Redkey,"Public Question Const Amendment",,,No,273,13,102,158
+Jay,Redkey,"President",,REP,"Donald J. Trump",542,20,190,332
+Jay,Redkey,"President",,DEM,"Kamala D. Harris",189,9,73,107
+Jay,Redkey,"President",,LIB,"Chase Oliver",5,0,1,4
+Jay,Redkey,"President",,WTP,"Robert F. Kennedy Jr.",12,0,4,8
+Jay,Redkey,"President",,,"Write-ins",1,0,1,0
+Jay,Redkey,"U.S. Senate",,REP,"Jim Banks",514,20,184,310
+Jay,Redkey,"U.S. Senate",,DEM,"Valerie McCray",174,9,68,97
+Jay,Redkey,"U.S. Senate",,LIB,"Andrew Horning",21,0,3,18
+Jay,Redkey,"U.S. Senate",,,"Write-ins",0,0,0,0
+Jay,Redkey,"Governor",,REP,"Braun \ Beckwith",459,19,176,264
+Jay,Redkey,"Governor",,DEM,"Mccormick \ Goodin",198,9,69,120
+Jay,Redkey,"Governor",,LIB,"Rainwater \ Hudson",49,0,10,39
+Jay,Redkey,"Governor",,,"Write-ins",0,0,0,0
+Jay,Redkey,"Attorney General",,REP,"Todd Rokita",510,20,185,305
+Jay,Redkey,"Attorney General",,DEM,"Destiny Wells",201,9,71,121
+Jay,Redkey,"U.S. House",3,REP,"Marlin A. Stutzman",486,20,176,290
+Jay,Redkey,"U.S. House",3,DEM,"Kiley M. Adolph",185,9,67,109
+Jay,Redkey,"U.S. House",3,LIB,"Jarrad Lancaster",37,0,12,25
+Jay,Redkey,"U.S. House",3,,"Write-ins",0,0,0,0
+Jay,Redkey,"State House",33,REP,"John (J.D.) Prescott",517,20,189,308
+Jay,Redkey,"State House",33,DEM,"John E. Bartlett",198,9,69,120
+Jay,Redkey,"Judge of the Circuit Court 58th Judicial",,REP,"Brian David Hutchison",596,20,210,366
+Jay,Redkey,"Circuit Court Clerk",,REP,"Missy Eads Elliott",582,20,213,349
+Jay,Redkey,"County Treasurer",,REP,"Jonelle Foreman",560,20,199,341
+Jay,Redkey,"County Coroner",,REP,"Brayden Fields",594,20,214,360
+Jay,Redkey,"County Surveyor",,REP,"Bradley A. Daniels",592,21,213,358
+Jay,Redkey,"County Commissioner North District",,REP,"Doug Horn",582,20,212,350
+Jay,Redkey,"County Commissioner South District",,REP,"Duane Monroe",512,19,191,302
+Jay,Redkey,"County Commissioner South District",,DEM,"Blake B. Watson",192,10,67,115
+Jay,Redkey,"County Council Member At Large",,REP,"Bryan Alexander",373,13,140,220
+Jay,Redkey,"County Council Member At Large",,REP,"Michael E. Brewster",362,11,141,210
+Jay,Redkey,"County Council Member At Large",,REP,"Matt Minnich",319,12,125,182
+Jay,Redkey,"Jay School Board",1,NP,"Jon Eads",524,14,188,322
+Jay,Redkey,"Jay School Board",4,NP,"Aaron Lee Clark",462,9,168,285
+Jay,Redkey,"Jay School Board",6,NP,"Chad Towell",479,9,166,304
+Jay,Redkey,"IN Supreme Court-Rush",,,Yes,426,13,149,264
+Jay,Redkey,"IN Supreme Court-Rush",,,No,162,2,60,100
+Jay,Redkey,"IN Supreme Court-Massa",,,Yes,405,12,144,249
+Jay,Redkey,"IN Supreme Court-Massa",,,No,169,3,62,104
+Jay,Redkey,"IN Supreme Court-Molter",,,Yes,408,13,151,244
+Jay,Redkey,"IN Supreme Court-Molter",,,No,170,3,61,106
+Jay,Redkey,"Court of Appeals Dist 4-Pyle III",,,Yes,413,14,153,246
+Jay,Redkey,"Court of Appeals Dist 4-Pyle III",,,No,167,2,57,108
+Jay,Redkey,"Straight Party",,DEM,"Democratic Party",35,,,
+Jay,Redkey,"Straight Party",,REP,"Republican Party",164,,,
+Jay,Redkey,"Straight Party",,WTP,"We The People",1,,,
+Jay,Pike,Registered Voters,,,,598,,,
+Jay,Pike,Ballots Cast,,,,444,15,262,167
+Jay,Pike,"Public Question Const Amendment",,,Yes,208,4,107,97
+Jay,Pike,"Public Question Const Amendment",,,No,186,9,117,60
+Jay,Pike,"President",,REP,"Donald J. Trump",349,8,208,133
+Jay,Pike,"President",,DEM,"Kamala D. Harris",80,7,45,28
+Jay,Pike,"President",,LIB,"Chase Oliver",2,0,1,1
+Jay,Pike,"President",,WTP,"Robert F. Kennedy Jr.",4,0,1,3
+Jay,Pike,"President",,,"Write-ins",1,0,1,0
+Jay,Pike,"U.S. Senate",,REP,"Jim Banks",329,8,198,123
+Jay,Pike,"U.S. Senate",,DEM,"Valerie McCray",69,5,39,25
+Jay,Pike,"U.S. Senate",,LIB,"Andrew Horning",21,0,10,11
+Jay,Pike,"U.S. Senate",,,"Write-ins",0,0,0,0
+Jay,Pike,"Governor",,REP,"Braun \ Beckwith",283,9,173,101
+Jay,Pike,"Governor",,DEM,"Mccormick \ Goodin",94,6,49,39
+Jay,Pike,"Governor",,LIB,"Rainwater \ Hudson",39,0,21,18
+Jay,Pike,"Governor",,,"Write-ins",0,0,0,0
+Jay,Pike,"Attorney General",,REP,"Todd Rokita",332,8,197,127
+Jay,Pike,"Attorney General",,DEM,"Destiny Wells",84,5,50,29
+Jay,Pike,"U.S. House",3,REP,"Marlin A. Stutzman",326,8,201,117
+Jay,Pike,"U.S. House",3,DEM,"Kiley M. Adolph",63,5,36,22
+Jay,Pike,"U.S. House",3,LIB,"Jarrad Lancaster",21,0,7,14
+Jay,Pike,"U.S. House",3,,"Write-ins",0,0,0,0
+Jay,Pike,"State House",33,REP,"John (J.D.) Prescott",331,8,195,128
+Jay,Pike,"State House",33,DEM,"John E. Bartlett",92,7,54,31
+Jay,Pike,"Judge of the Circuit Court 58th Judicial",,REP,"Brian David Hutchison",356,12,210,134
+Jay,Pike,"Circuit Court Clerk",,REP,"Missy Eads Elliott",341,10,197,134
+Jay,Pike,"County Treasurer",,REP,"Jonelle Foreman",353,12,207,134
+Jay,Pike,"County Coroner",,REP,"Brayden Fields",348,12,199,137
+Jay,Pike,"County Surveyor",,REP,"Bradley A. Daniels",358,12,207,139
+Jay,Pike,"County Commissioner North District",,REP,"Doug Horn",355,12,206,137
+Jay,Pike,"County Commissioner South District",,REP,"Duane Monroe",341,13,202,126
+Jay,Pike,"County Commissioner South District",,DEM,"Blake B. Watson",77,1,44,32
+Jay,Pike,"County Council Member At Large",,REP,"Bryan Alexander",235,7,138,90
+Jay,Pike,"County Council Member At Large",,REP,"Michael E. Brewster",247,5,150,92
+Jay,Pike,"County Council Member At Large",,REP,"Matt Minnich",252,8,150,94
+Jay,Pike,"Jay School Board",1,NP,"Jon Eads",305,6,177,122
+Jay,Pike,"Jay School Board",4,NP,"Aaron Lee Clark",266,7,150,109
+Jay,Pike,"Jay School Board",6,NP,"Chad Towell",298,5,166,127
+Jay,Pike,"IN Supreme Court-Rush",,,Yes,235,10,128,97
+Jay,Pike,"IN Supreme Court-Rush",,,No,115,2,74,39
+Jay,Pike,"IN Supreme Court-Massa",,,Yes,242,10,130,102
+Jay,Pike,"IN Supreme Court-Massa",,,No,104,2,68,34
+Jay,Pike,"IN Supreme Court-Molter",,,Yes,244,10,134,100
+Jay,Pike,"IN Supreme Court-Molter",,,No,104,2,68,34
+Jay,Pike,"Court of Appeals Dist 4-Pyle III",,,Yes,236,9,129,98
+Jay,Pike,"Court of Appeals Dist 4-Pyle III",,,No,106,3,68,35
+Jay,Pike,"Straight Party",,DEM,"Democratic Party",15,,,
+Jay,Pike,"Straight Party",,REP,"Republican Party",98,,,
+Jay,Jefferson,Registered Voters,,,,465,,,
+Jay,Jefferson,Ballots Cast,,,,331,5,136,190
+Jay,Jefferson,"Public Question Const Amendment",,,Yes,148,1,56,91
+Jay,Jefferson,"Public Question Const Amendment",,,No,149,2,57,90
+Jay,Jefferson,"President",,REP,"Donald J. Trump",277,3,111,163
+Jay,Jefferson,"President",,DEM,"Kamala D. Harris",49,2,22,25
+Jay,Jefferson,"President",,LIB,"Chase Oliver",1,0,1,0
+Jay,Jefferson,"President",,WTP,"Robert F. Kennedy Jr.",4,0,2,2
+Jay,Jefferson,"President",,,"Write-ins",0,0,0,0
+Jay,Jefferson,"U.S. Senate",,REP,"Jim Banks",258,3,99,156
+Jay,Jefferson,"U.S. Senate",,DEM,"Valerie McCray",49,2,23,24
+Jay,Jefferson,"U.S. Senate",,LIB,"Andrew Horning",5,0,3,2
+Jay,Jefferson,"U.S. Senate",,,"Write-ins",0,0,0,0
+Jay,Jefferson,"Governor",,REP,"Braun \ Beckwith",221,3,89,129
+Jay,Jefferson,"Governor",,DEM,"Mccormick \ Goodin",55,2,24,29
+Jay,Jefferson,"Governor",,LIB,"Rainwater \ Hudson",37,0,12,25
+Jay,Jefferson,"Governor",,,"Write-ins",0,0,0,0
+Jay,Jefferson,"Attorney General",,REP,"Todd Rokita",257,3,105,149
+Jay,Jefferson,"Attorney General",,DEM,"Destiny Wells",60,2,22,36
+Jay,Jefferson,"U.S. House",3,REP,"Marlin A. Stutzman",258,3,104,151
+Jay,Jefferson,"U.S. House",3,DEM,"Kiley M. Adolph",51,2,22,27
+Jay,Jefferson,"U.S. House",3,LIB,"Jarrad Lancaster",8,0,2,6
+Jay,Jefferson,"U.S. House",3,,"Write-ins",0,0,0,0
+Jay,Jefferson,"State House",33,REP,"John (J.D.) Prescott",255,3,105,147
+Jay,Jefferson,"State House",33,DEM,"John E. Bartlett",63,2,24,37
+Jay,Jefferson,"Judge of the Circuit Court 58th Judicial",,REP,"Brian David Hutchison",271,3,109,159
+Jay,Jefferson,"Circuit Court Clerk",,REP,"Missy Eads Elliott",259,3,104,152
+Jay,Jefferson,"County Treasurer",,REP,"Jonelle Foreman",253,3,101,149
+Jay,Jefferson,"County Coroner",,REP,"Brayden Fields",273,3,112,158
+Jay,Jefferson,"County Surveyor",,REP,"Bradley A. Daniels",274,3,111,160
+Jay,Jefferson,"County Commissioner North District",,REP,"Doug Horn",267,3,106,158
+Jay,Jefferson,"County Commissioner South District",,REP,"Duane Monroe",252,3,105,144
+Jay,Jefferson,"County Commissioner South District",,DEM,"Blake B. Watson",65,2,23,40
+Jay,Jefferson,"County Council Member At Large",,REP,"Bryan Alexander",159,3,60,96
+Jay,Jefferson,"County Council Member At Large",,REP,"Michael E. Brewster",157,3,66,88
+Jay,Jefferson,"County Council Member At Large",,REP,"Matt Minnich",154,3,62,89
+Jay,Jefferson,"Jay School Board",1,NP,"Jon Eads",224,1,89,134
+Jay,Jefferson,"Jay School Board",4,NP,"Aaron Lee Clark",197,1,74,122
+Jay,Jefferson,"Jay School Board",6,NP,"Chad Towell",211,1,81,129
+Jay,Jefferson,"IN Supreme Court-Rush",,,Yes,179,2,64,113
+Jay,Jefferson,"IN Supreme Court-Rush",,,No,68,2,28,38
+Jay,Jefferson,"IN Supreme Court-Massa",,,Yes,175,2,61,112
+Jay,Jefferson,"IN Supreme Court-Massa",,,No,65,2,28,35
+Jay,Jefferson,"IN Supreme Court-Molter",,,Yes,180,2,67,111
+Jay,Jefferson,"IN Supreme Court-Molter",,,No,64,2,25,37
+Jay,Jefferson,"Court of Appeals Dist 4-Pyle III",,,Yes,171,2,60,109
+Jay,Jefferson,"Court of Appeals Dist 4-Pyle III",,,No,70,2,30,38
+Jay,Jefferson,"Straight Party",,DEM,"Democratic Party",19,,,
+Jay,Jefferson,"Straight Party",,REP,"Republican Party",97,,,
+Jay,Greene,Registered Voters,,,,662,,,
+Jay,Greene,Ballots Cast,,,,507,13,320,174
+Jay,Greene,"Public Question Const Amendment",,,Yes,242,9,139,94
+Jay,Greene,"Public Question Const Amendment",,,No,215,1,144,70
+Jay,Greene,"President",,REP,"Donald J. Trump",379,8,237,134
+Jay,Greene,"President",,DEM,"Kamala D. Harris",104,5,68,31
+Jay,Greene,"President",,LIB,"Chase Oliver",2,0,2,0
+Jay,Greene,"President",,WTP,"Robert F. Kennedy Jr.",11,0,7,4
+Jay,Greene,"President",,,"Write-ins",3,0,2,1
+Jay,Greene,"U.S. Senate",,REP,"Jim Banks",380,9,243,128
+Jay,Greene,"U.S. Senate",,DEM,"Valerie McCray",95,4,58,33
+Jay,Greene,"U.S. Senate",,LIB,"Andrew Horning",13,0,8,5
+Jay,Greene,"U.S. Senate",,,"Write-ins",0,0,0,0
+Jay,Greene,"Governor",,REP,"Braun \ Beckwith",328,9,206,113
+Jay,Greene,"Governor",,DEM,"Mccormick \ Goodin",131,4,80,47
+Jay,Greene,"Governor",,LIB,"Rainwater \ Hudson",29,0,22,7
+Jay,Greene,"Governor",,,"Write-ins",0,0,0,0
+Jay,Greene,"Attorney General",,REP,"Todd Rokita",376,9,237,130
+Jay,Greene,"Attorney General",,DEM,"Destiny Wells",113,4,72,37
+Jay,Greene,"U.S. House",3,REP,"Marlin A. Stutzman",383,9,245,129
+Jay,Greene,"U.S. House",3,DEM,"Kiley M. Adolph",89,4,53,32
+Jay,Greene,"U.S. House",3,LIB,"Jarrad Lancaster",16,0,10,6
+Jay,Greene,"U.S. House",3,,"Write-ins",0,0,0,0
+Jay,Greene,"State House",33,REP,"John (J.D.) Prescott",363,9,236,118
+Jay,Greene,"State House",33,DEM,"John E. Bartlett",131,4,77,50
+Jay,Greene,"Judge of the Circuit Court 58th Judicial",,REP,"Brian David Hutchison",422,11,266,145
+Jay,Greene,"Circuit Court Clerk",,REP,"Missy Eads Elliott",414,11,259,144
+Jay,Greene,"County Treasurer",,REP,"Jonelle Foreman",409,11,256,142
+Jay,Greene,"County Coroner",,REP,"Brayden Fields",418,11,263,144
+Jay,Greene,"County Surveyor",,REP,"Bradley A. Daniels",434,11,271,152
+Jay,Greene,"County Commissioner North District",,REP,"Doug Horn",417,11,263,143
+Jay,Greene,"County Commissioner South District",,REP,"Duane Monroe",400,9,261,130
+Jay,Greene,"County Commissioner South District",,DEM,"Blake B. Watson",89,4,48,37
+Jay,Greene,"County Council Member At Large",,REP,"Bryan Alexander",276,4,189,83
+Jay,Greene,"County Council Member At Large",,REP,"Michael E. Brewster",323,6,216,101
+Jay,Greene,"County Council Member At Large",,REP,"Matt Minnich",287,8,190,89
+Jay,Greene,"Jay School Board",1,NP,"Jon Eads",370,8,241,121
+Jay,Greene,"Jay School Board",4,NP,"Aaron Lee Clark",329,6,214,109
+Jay,Greene,"Jay School Board",6,NP,"Chad Towell",350,8,218,124
+Jay,Greene,"IN Supreme Court-Rush",,,Yes,271,8,169,94
+Jay,Greene,"IN Supreme Court-Rush",,,No,118,3,75,40
+Jay,Greene,"IN Supreme Court-Massa",,,Yes,278,10,173,95
+Jay,Greene,"IN Supreme Court-Massa",,,No,112,2,73,37
+Jay,Greene,"IN Supreme Court-Molter",,,Yes,281,10,176,95
+Jay,Greene,"IN Supreme Court-Molter",,,No,106,2,67,37
+Jay,Greene,"Court of Appeals Dist 4-Pyle III",,,Yes,282,10,171,101
+Jay,Greene,"Court of Appeals Dist 4-Pyle III",,,No,103,1,71,31
+Jay,Greene,"Straight Party",,DEM,"Democratic Party",20,,,
+Jay,Greene,"Straight Party",,REP,"Republican Party",106,,,
+Jay,Jackson,Registered Voters,,,,408,,,
+Jay,Jackson,Ballots Cast,,,,311,4,157,150
+Jay,Jackson,"Public Question Const Amendment",,,Yes,163,1,77,85
+Jay,Jackson,"Public Question Const Amendment",,,No,123,2,65,56
+Jay,Jackson,"President",,REP,"Donald J. Trump",250,1,124,125
+Jay,Jackson,"President",,DEM,"Kamala D. Harris",54,3,31,20
+Jay,Jackson,"President",,LIB,"Chase Oliver",1,0,0,1
+Jay,Jackson,"President",,WTP,"Robert F. Kennedy Jr.",2,0,1,1
+Jay,Jackson,"President",,,"Write-ins",0,0,0,0
+Jay,Jackson,"U.S. Senate",,REP,"Jim Banks",242,1,120,121
+Jay,Jackson,"U.S. Senate",,DEM,"Valerie McCray",50,3,28,19
+Jay,Jackson,"U.S. Senate",,LIB,"Andrew Horning",6,0,3,3
+Jay,Jackson,"U.S. Senate",,,"Write-ins",0,0,0,0
+Jay,Jackson,"Governor",,REP,"Braun \ Beckwith",210,1,107,102
+Jay,Jackson,"Governor",,DEM,"Mccormick \ Goodin",62,3,32,27
+Jay,Jackson,"Governor",,LIB,"Rainwater \ Hudson",27,0,12,15
+Jay,Jackson,"Governor",,,"Write-ins",0,0,0,0
+Jay,Jackson,"Attorney General",,REP,"Todd Rokita",236,1,114,121
+Jay,Jackson,"Attorney General",,DEM,"Destiny Wells",65,3,40,22
+Jay,Jackson,"U.S. House",3,REP,"Marlin A. Stutzman",239,1,123,115
+Jay,Jackson,"U.S. House",3,DEM,"Kiley M. Adolph",52,3,29,20
+Jay,Jackson,"U.S. House",3,LIB,"Jarrad Lancaster",12,0,2,10
+Jay,Jackson,"U.S. House",3,,"Write-ins",0,0,0,0
+Jay,Jackson,"State House",79,REP,"Matthew S. Lehman",274,2,136,136
+Jay,Jackson,"Judge of the Circuit Court 58th Judicial",,REP,"Brian David Hutchison",273,2,137,134
+Jay,Jackson,"Circuit Court Clerk",,REP,"Missy Eads Elliott",268,2,134,132
+Jay,Jackson,"County Treasurer",,REP,"Jonelle Foreman",268,2,134,132
+Jay,Jackson,"County Coroner",,REP,"Brayden Fields",264,2,134,128
+Jay,Jackson,"County Surveyor",,REP,"Bradley A. Daniels",275,2,140,133
+Jay,Jackson,"County Commissioner North District",,REP,"Doug Horn",272,3,137,132
+Jay,Jackson,"County Commissioner South District",,REP,"Duane Monroe",250,2,123,125
+Jay,Jackson,"County Commissioner South District",,DEM,"Blake B. Watson",51,2,30,19
+Jay,Jackson,"County Council Member At Large",,REP,"Bryan Alexander",191,0,102,89
+Jay,Jackson,"County Council Member At Large",,REP,"Michael E. Brewster",201,1,104,96
+Jay,Jackson,"County Council Member At Large",,REP,"Matt Minnich",180,2,91,87
+Jay,Jackson,"Jay School Board",1,NP,"Jon Eads",245,2,126,117
+Jay,Jackson,"Jay School Board",4,NP,"Aaron Lee Clark",226,2,105,119
+Jay,Jackson,"Jay School Board",6,NP,"Chad Towell",237,3,119,115
+Jay,Jackson,"IN Supreme Court-Rush",,,Yes,184,4,94,86
+Jay,Jackson,"IN Supreme Court-Rush",,,No,69,0,29,40
+Jay,Jackson,"IN Supreme Court-Massa",,,Yes,181,4,91,86
+Jay,Jackson,"IN Supreme Court-Massa",,,No,70,0,29,41
+Jay,Jackson,"IN Supreme Court-Molter",,,Yes,185,4,94,87
+Jay,Jackson,"IN Supreme Court-Molter",,,No,66,0,27,39
+Jay,Jackson,"Court of Appeals Dist 4-Pyle III",,,Yes,183,4,94,85
+Jay,Jackson,"Court of Appeals Dist 4-Pyle III",,,No,68,0,28,40
+Jay,Jackson,"Straight Party",,DEM,"Democratic Party",6,,,
+Jay,Jackson,"Straight Party",,REP,"Republican Party",66,,,
+Jay,Penn,Registered Voters,,,,672,,,
+Jay,Penn,Ballots Cast,,,,466,12,145,309
+Jay,Penn,"Public Question Const Amendment",,,Yes,246,6,71,169
+Jay,Penn,"Public Question Const Amendment",,,No,178,4,51,123
+Jay,Penn,"President",,REP,"Donald J. Trump",383,9,117,257
+Jay,Penn,"President",,DEM,"Kamala D. Harris",73,3,26,44
+Jay,Penn,"President",,LIB,"Chase Oliver",2,0,0,2
+Jay,Penn,"President",,WTP,"Robert F. Kennedy Jr.",7,0,1,6
+Jay,Penn,"President",,,"Write-ins",0,0,0,0
+Jay,Penn,"U.S. Senate",,REP,"Jim Banks",337,8,100,229
+Jay,Penn,"U.S. Senate",,DEM,"Valerie McCray",73,4,25,44
+Jay,Penn,"U.S. Senate",,LIB,"Andrew Horning",20,0,4,16
+Jay,Penn,"U.S. Senate",,,"Write-ins",0,0,0,0
+Jay,Penn,"Governor",,REP,"Braun \ Beckwith",292,8,88,196
+Jay,Penn,"Governor",,DEM,"Mccormick \ Goodin",91,3,29,59
+Jay,Penn,"Governor",,LIB,"Rainwater \ Hudson",54,1,11,42
+Jay,Penn,"Governor",,,"Write-ins",0,0,0,0
+Jay,Penn,"Attorney General",,REP,"Todd Rokita",347,9,107,231
+Jay,Penn,"Attorney General",,DEM,"Destiny Wells",98,3,29,66
+Jay,Penn,"U.S. House",3,REP,"Marlin A. Stutzman",345,8,107,230
+Jay,Penn,"U.S. House",3,DEM,"Kiley M. Adolph",77,4,23,50
+Jay,Penn,"U.S. House",3,LIB,"Jarrad Lancaster",23,0,6,17
+Jay,Penn,"U.S. House",3,,"Write-ins",0,0,0,0
+Jay,Penn,"State House",79,REP,"Matthew S. Lehman",373,8,108,257
+Jay,Penn,"Judge of the Circuit Court 58th Judicial",,REP,"Brian David Hutchison",367,8,109,250
+Jay,Penn,"Circuit Court Clerk",,REP,"Missy Eads Elliott",375,8,111,256
+Jay,Penn,"County Treasurer",,REP,"Jonelle Foreman",366,8,108,250
+Jay,Penn,"County Coroner",,REP,"Brayden Fields",373,8,108,257
+Jay,Penn,"County Surveyor",,REP,"Bradley A. Daniels",381,9,106,266
+Jay,Penn,"County Commissioner North District",,REP,"Doug Horn",376,8,105,263
+Jay,Penn,"County Commissioner South District",,REP,"Duane Monroe",348,10,99,239
+Jay,Penn,"County Commissioner South District",,DEM,"Blake B. Watson",79,2,29,48
+Jay,Penn,"County Council Member At Large",,REP,"Bryan Alexander",239,7,70,162
+Jay,Penn,"County Council Member At Large",,REP,"Michael E. Brewster",256,7,69,180
+Jay,Penn,"County Council Member At Large",,REP,"Matt Minnich",235,8,67,160
+Jay,Penn,"Jay School Board",1,NP,"Jon Eads",325,8,91,226
+Jay,Penn,"Jay School Board",4,NP,"Aaron Lee Clark",295,8,81,206
+Jay,Penn,"Jay School Board",6,NP,"Chad Towell",314,9,88,217
+Jay,Penn,"IN Supreme Court-Rush",,,Yes,249,6,73,170
+Jay,Penn,"IN Supreme Court-Rush",,,No,128,5,28,95
+Jay,Penn,"IN Supreme Court-Massa",,,Yes,252,5,75,172
+Jay,Penn,"IN Supreme Court-Massa",,,No,121,6,25,90
+Jay,Penn,"IN Supreme Court-Molter",,,Yes,257,5,77,175
+Jay,Penn,"IN Supreme Court-Molter",,,No,114,4,25,85
+Jay,Penn,"Court of Appeals Dist 4-Pyle III",,,Yes,253,7,75,171
+Jay,Penn,"Court of Appeals Dist 4-Pyle III",,,No,122,4,26,92
+Jay,Penn,"Straight Party",,DEM,"Democratic Party",15,,,
+Jay,Penn,"Straight Party",,REP,"Republican Party",117,,,
+Jay,Noble,Registered Voters,,,,402,,,
+Jay,Noble,Ballots Cast,,,,302,9,174,119
+Jay,Noble,"Public Question Const Amendment",,,Yes,131,3,70,58
+Jay,Noble,"Public Question Const Amendment",,,No,130,2,79,49
+Jay,Noble,"President",,REP,"Donald J. Trump",254,5,143,106
+Jay,Noble,"President",,DEM,"Kamala D. Harris",45,4,30,11
+Jay,Noble,"President",,LIB,"Chase Oliver",1,0,0,1
+Jay,Noble,"President",,WTP,"Robert F. Kennedy Jr.",2,0,1,1
+Jay,Noble,"President",,,"Write-ins",0,0,0,0
+Jay,Noble,"U.S. Senate",,REP,"Jim Banks",244,5,136,103
+Jay,Noble,"U.S. Senate",,DEM,"Valerie McCray",41,4,27,10
+Jay,Noble,"U.S. Senate",,LIB,"Andrew Horning",6,0,3,3
+Jay,Noble,"U.S. Senate",,,"Write-ins",0,0,0,0
+Jay,Noble,"Governor",,REP,"Braun \ Beckwith",224,5,129,90
+Jay,Noble,"Governor",,DEM,"Mccormick \ Goodin",49,3,32,14
+Jay,Noble,"Governor",,LIB,"Rainwater \ Hudson",13,0,1,12
+Jay,Noble,"Governor",,,"Write-ins",0,0,0,0
+Jay,Noble,"Attorney General",,REP,"Todd Rokita",247,6,138,103
+Jay,Noble,"Attorney General",,DEM,"Destiny Wells",42,3,28,11
+Jay,Noble,"U.S. House",3,REP,"Marlin A. Stutzman",238,6,140,92
+Jay,Noble,"U.S. House",3,DEM,"Kiley M. Adolph",39,3,24,12
+Jay,Noble,"U.S. House",3,LIB,"Jarrad Lancaster",13,0,3,10
+Jay,Noble,"U.S. House",3,,"Write-ins",0,0,0,0
+Jay,Noble,"State House",33,REP,"John (J.D.) Prescott",236,6,139,91
+Jay,Noble,"State House",33,DEM,"John E. Bartlett",56,3,30,23
+Jay,Noble,"Judge of the Circuit Court 58th Judicial",,REP,"Brian David Hutchison",265,7,148,110
+Jay,Noble,"Circuit Court Clerk",,REP,"Missy Eads Elliott",253,7,139,107
+Jay,Noble,"County Treasurer",,REP,"Jonelle Foreman",249,5,138,106
+Jay,Noble,"County Coroner",,REP,"Brayden Fields",257,7,146,104
+Jay,Noble,"County Surveyor",,REP,"Bradley A. Daniels",262,7,147,108
+Jay,Noble,"County Commissioner North District",,REP,"Doug Horn",253,5,145,103
+Jay,Noble,"County Commissioner South District",,REP,"Duane Monroe",249,6,142,101
+Jay,Noble,"County Commissioner South District",,DEM,"Blake B. Watson",41,2,23,16
+Jay,Noble,"County Council Member At Large",,REP,"Bryan Alexander",169,3,101,65
+Jay,Noble,"County Council Member At Large",,REP,"Michael E. Brewster",186,4,110,72
+Jay,Noble,"County Council Member At Large",,REP,"Matt Minnich",192,5,112,75
+Jay,Noble,"Jay School Board",1,NP,"Jon Eads",218,3,128,87
+Jay,Noble,"Jay School Board",4,NP,"Aaron Lee Clark",196,3,111,82
+Jay,Noble,"Jay School Board",6,NP,"Chad Towell",214,3,126,85
+Jay,Noble,"IN Supreme Court-Rush",,,Yes,163,4,99,60
+Jay,Noble,"IN Supreme Court-Rush",,,No,73,2,37,34
+Jay,Noble,"IN Supreme Court-Massa",,,Yes,171,3,102,66
+Jay,Noble,"IN Supreme Court-Massa",,,No,64,2,34,28
+Jay,Noble,"IN Supreme Court-Molter",,,Yes,169,3,102,64
+Jay,Noble,"IN Supreme Court-Molter",,,No,65,2,33,30
+Jay,Noble,"Court of Appeals Dist 4-Pyle III",,,Yes,170,3,102,65
+Jay,Noble,"Court of Appeals Dist 4-Pyle III",,,No,64,2,33,29
+Jay,Noble,"Straight Party",,DEM,"Democratic Party",8,,,
+Jay,Noble,"Straight Party",,REP,"Republican Party",67,,,
+Jay,Madison,Registered Voters,,,,408,,,
+Jay,Madison,Ballots Cast,,,,281,6,163,112
+Jay,Madison,"Public Question Const Amendment",,,Yes,145,3,81,61
+Jay,Madison,"Public Question Const Amendment",,,No,98,1,54,43
+Jay,Madison,"President",,REP,"Donald J. Trump",238,2,139,97
+Jay,Madison,"President",,DEM,"Kamala D. Harris",39,4,23,12
+Jay,Madison,"President",,LIB,"Chase Oliver",1,0,1,0
+Jay,Madison,"President",,WTP,"Robert F. Kennedy Jr.",2,0,0,2
+Jay,Madison,"President",,,"Write-ins",0,0,0,0
+Jay,Madison,"U.S. Senate",,REP,"Jim Banks",238,4,140,94
+Jay,Madison,"U.S. Senate",,DEM,"Valerie McCray",27,1,17,9
+Jay,Madison,"U.S. Senate",,LIB,"Andrew Horning",6,0,2,4
+Jay,Madison,"U.S. Senate",,,"Write-ins",0,0,0,0
+Jay,Madison,"Governor",,REP,"Braun \ Beckwith",217,3,127,87
+Jay,Madison,"Governor",,DEM,"Mccormick \ Goodin",38,2,22,14
+Jay,Madison,"Governor",,LIB,"Rainwater \ Hudson",14,0,8,6
+Jay,Madison,"Governor",,,"Write-ins",0,0,0,0
+Jay,Madison,"Attorney General",,REP,"Todd Rokita",229,2,135,92
+Jay,Madison,"Attorney General",,DEM,"Destiny Wells",38,3,21,14
+Jay,Madison,"U.S. House",3,REP,"Marlin A. Stutzman",229,3,135,91
+Jay,Madison,"U.S. House",3,DEM,"Kiley M. Adolph",28,2,18,8
+Jay,Madison,"U.S. House",3,LIB,"Jarrad Lancaster",11,0,3,8
+Jay,Madison,"U.S. House",3,,"Write-ins",0,0,0,0
+Jay,Madison,"State House",33,REP,"John (J.D.) Prescott",241,4,143,94
+Jay,Madison,"State House",33,DEM,"John E. Bartlett",26,1,12,13
+Jay,Madison,"Judge of the Circuit Court 58th Judicial",,REP,"Brian David Hutchison",248,5,143,100
+Jay,Madison,"Circuit Court Clerk",,REP,"Missy Eads Elliott",240,4,141,95
+Jay,Madison,"County Treasurer",,REP,"Jonelle Foreman",241,4,139,98
+Jay,Madison,"County Coroner",,REP,"Brayden Fields",251,5,144,102
+Jay,Madison,"County Surveyor",,REP,"Bradley A. Daniels",249,5,143,101
+Jay,Madison,"County Commissioner North District",,REP,"Doug Horn",252,5,144,103
+Jay,Madison,"County Commissioner South District",,REP,"Duane Monroe",232,2,136,94
+Jay,Madison,"County Commissioner South District",,DEM,"Blake B. Watson",35,3,18,14
+Jay,Madison,"County Council Member At Large",,REP,"Bryan Alexander",162,3,95,64
+Jay,Madison,"County Council Member At Large",,REP,"Michael E. Brewster",153,2,89,62
+Jay,Madison,"County Council Member At Large",,REP,"Matt Minnich",173,5,99,69
+Jay,Madison,"Jay School Board",1,NP,"Jon Eads",195,3,108,84
+Jay,Madison,"Jay School Board",4,NP,"Aaron Lee Clark",184,3,96,85
+Jay,Madison,"Jay School Board",6,NP,"Chad Towell",191,2,102,87
+Jay,Madison,"IN Supreme Court-Rush",,,Yes,164,2,83,79
+Jay,Madison,"IN Supreme Court-Rush",,,No,54,2,35,17
+Jay,Madison,"IN Supreme Court-Massa",,,Yes,152,1,78,73
+Jay,Madison,"IN Supreme Court-Massa",,,No,59,3,37,19
+Jay,Madison,"IN Supreme Court-Molter",,,Yes,156,1,80,75
+Jay,Madison,"IN Supreme Court-Molter",,,No,51,3,33,15
+Jay,Madison,"Court of Appeals Dist 4-Pyle III",,,Yes,162,1,84,77
+Jay,Madison,"Court of Appeals Dist 4-Pyle III",,,No,47,3,30,14
+Jay,Madison,"Straight Party",,DEM,"Democratic Party",7,,,
+Jay,Madison,"Straight Party",,REP,"Republican Party",85,,,
+Jay,Wayne 4,Registered Voters,,,,1011,,,
+Jay,Wayne 4,Ballots Cast,,,,688,18,423,247
+Jay,Wayne 4,"Public Question Const Amendment",,,Yes,320,4,187,129
+Jay,Wayne 4,"Public Question Const Amendment",,,No,278,8,184,86
+Jay,Wayne 4,"President",,REP,"Donald J. Trump",498,10,306,182
+Jay,Wayne 4,"President",,DEM,"Kamala D. Harris",177,8,114,55
+Jay,Wayne 4,"President",,LIB,"Chase Oliver",1,0,0,1
+Jay,Wayne 4,"President",,WTP,"Robert F. Kennedy Jr.",3,0,0,3
+Jay,Wayne 4,"President",,,"Write-ins",1,0,0,1
+Jay,Wayne 4,"U.S. Senate",,REP,"Jim Banks",483,9,300,174
+Jay,Wayne 4,"U.S. Senate",,DEM,"Valerie McCray",155,8,96,51
+Jay,Wayne 4,"U.S. Senate",,LIB,"Andrew Horning",15,0,4,11
+Jay,Wayne 4,"U.S. Senate",,,"Write-ins",1,0,0,1
+Jay,Wayne 4,"Governor",,REP,"Braun \ Beckwith",426,9,270,147
+Jay,Wayne 4,"Governor",,DEM,"Mccormick \ Goodin",198,8,123,67
+Jay,Wayne 4,"Governor",,LIB,"Rainwater \ Hudson",33,0,11,22
+Jay,Wayne 4,"Governor",,,"Write-ins",0,0,0,0
+Jay,Wayne 4,"Attorney General",,REP,"Todd Rokita",473,9,289,175
+Jay,Wayne 4,"Attorney General",,DEM,"Destiny Wells",179,8,112,59
+Jay,Wayne 4,"U.S. House",3,REP,"Marlin A. Stutzman",480,9,295,176
+Jay,Wayne 4,"U.S. House",3,DEM,"Kiley M. Adolph",149,6,96,47
+Jay,Wayne 4,"U.S. House",3,LIB,"Jarrad Lancaster",26,1,13,12
+Jay,Wayne 4,"U.S. House",3,,"Write-ins",0,0,0,0
+Jay,Wayne 4,"State House",33,REP,"John (J.D.) Prescott",485,10,292,183
+Jay,Wayne 4,"State House",33,DEM,"John E. Bartlett",175,7,113,55
+Jay,Wayne 4,"Judge of the Circuit Court 58th Judicial",,REP,"Brian David Hutchison",564,11,343,210
+Jay,Wayne 4,"Circuit Court Clerk",,REP,"Missy Eads Elliott",542,11,329,202
+Jay,Wayne 4,"County Treasurer",,REP,"Jonelle Foreman",543,11,327,205
+Jay,Wayne 4,"County Coroner",,REP,"Brayden Fields",557,11,338,208
+Jay,Wayne 4,"County Surveyor",,REP,"Bradley A. Daniels",569,11,346,212
+Jay,Wayne 4,"County Commissioner North District",,REP,"Doug Horn",562,11,342,209
+Jay,Wayne 4,"County Commissioner South District",,REP,"Duane Monroe",518,11,316,191
+Jay,Wayne 4,"County Commissioner South District",,DEM,"Blake B. Watson",131,6,82,43
+Jay,Wayne 4,"County Council Member At Large",,REP,"Bryan Alexander",344,7,217,120
+Jay,Wayne 4,"County Council Member At Large",,REP,"Michael E. Brewster",387,10,229,148
+Jay,Wayne 4,"County Council Member At Large",,REP,"Matt Minnich",369,8,243,118
+Jay,Wayne 4,"Jay School Board",1,NP,"Jon Eads",504,7,308,189
+Jay,Wayne 4,"Jay School Board",4,NP,"Aaron Lee Clark",434,7,264,163
+Jay,Wayne 4,"Jay School Board",6,NP,"Chad Towell",458,7,280,171
+Jay,Wayne 4,"IN Supreme Court-Rush",,,Yes,375,9,232,134
+Jay,Wayne 4,"IN Supreme Court-Rush",,,No,165,1,99,65
+Jay,Wayne 4,"IN Supreme Court-Massa",,,Yes,371,8,227,136
+Jay,Wayne 4,"IN Supreme Court-Massa",,,No,162,2,98,62
+Jay,Wayne 4,"IN Supreme Court-Molter",,,Yes,382,9,230,143
+Jay,Wayne 4,"IN Supreme Court-Molter",,,No,156,1,96,59
+Jay,Wayne 4,"Court of Appeals Dist 4-Pyle III",,,Yes,380,8,229,143
+Jay,Wayne 4,"Court of Appeals Dist 4-Pyle III",,,No,156,2,95,59
+Jay,Wayne 4,"Straight Party",,DEM,"Democratic Party",32,,,
+Jay,Wayne 4,"Straight Party",,REP,"Republican Party",134,,,
+Jay,Wayne 3,Registered Voters,,,,1020,,,
+Jay,Wayne 3,Ballots Cast,,,,607,16,336,255
+Jay,Wayne 3,"Public Question Const Amendment",,,Yes,303,6,160,137
+Jay,Wayne 3,"Public Question Const Amendment",,,No,228,6,133,89
+Jay,Wayne 3,"President",,REP,"Donald J. Trump",443,5,238,200
+Jay,Wayne 3,"President",,DEM,"Kamala D. Harris",138,9,84,45
+Jay,Wayne 3,"President",,LIB,"Chase Oliver",3,0,2,1
+Jay,Wayne 3,"President",,WTP,"Robert F. Kennedy Jr.",12,2,4,6
+Jay,Wayne 3,"President",,,"Write-ins",1,0,0,1
+Jay,Wayne 3,"U.S. Senate",,REP,"Jim Banks",429,7,230,192
+Jay,Wayne 3,"U.S. Senate",,DEM,"Valerie McCray",126,9,74,43
+Jay,Wayne 3,"U.S. Senate",,LIB,"Andrew Horning",14,0,8,6
+Jay,Wayne 3,"U.S. Senate",,,"Write-ins",0,0,0,0
+Jay,Wayne 3,"Governor",,REP,"Braun \ Beckwith",367,6,200,161
+Jay,Wayne 3,"Governor",,DEM,"Mccormick \ Goodin",158,10,91,57
+Jay,Wayne 3,"Governor",,LIB,"Rainwater \ Hudson",41,0,20,21
+Jay,Wayne 3,"Governor",,,"Write-ins",0,0,0,0
+Jay,Wayne 3,"Attorney General",,REP,"Todd Rokita",411,7,228,176
+Jay,Wayne 3,"Attorney General",,DEM,"Destiny Wells",164,9,88,67
+Jay,Wayne 3,"U.S. House",3,REP,"Marlin A. Stutzman",420,9,230,181
+Jay,Wayne 3,"U.S. House",3,DEM,"Kiley M. Adolph",128,7,76,45
+Jay,Wayne 3,"U.S. House",3,LIB,"Jarrad Lancaster",27,0,12,15
+Jay,Wayne 3,"U.S. House",3,,"Write-ins",0,0,0,0
+Jay,Wayne 3,"State House",33,REP,"John (J.D.) Prescott",426,7,235,184
+Jay,Wayne 3,"State House",33,DEM,"John E. Bartlett",148,9,83,56
+Jay,Wayne 3,"Judge of the Circuit Court 58th Judicial",,REP,"Brian David Hutchison",495,11,265,219
+Jay,Wayne 3,"Circuit Court Clerk",,REP,"Missy Eads Elliott",484,12,261,211
+Jay,Wayne 3,"County Treasurer",,REP,"Jonelle Foreman",491,12,259,220
+Jay,Wayne 3,"County Coroner",,REP,"Brayden Fields",497,11,263,223
+Jay,Wayne 3,"County Surveyor",,REP,"Bradley A. Daniels",507,12,268,227
+Jay,Wayne 3,"County Commissioner North District",,REP,"Doug Horn",503,11,265,227
+Jay,Wayne 3,"County Commissioner South District",,REP,"Duane Monroe",439,8,239,192
+Jay,Wayne 3,"County Commissioner South District",,DEM,"Blake B. Watson",125,7,69,49
+Jay,Wayne 3,"County Council Member At Large",,REP,"Bryan Alexander",316,9,173,134
+Jay,Wayne 3,"County Council Member At Large",,REP,"Michael E. Brewster",331,8,181,142
+Jay,Wayne 3,"County Council Member At Large",,REP,"Matt Minnich",312,10,174,128
+Jay,Wayne 3,"Jay School Board",1,NP,"Jon Eads",459,9,249,201
+Jay,Wayne 3,"Jay School Board",4,NP,"Aaron Lee Clark",404,8,206,190
+Jay,Wayne 3,"Jay School Board",6,NP,"Chad Towell",414,9,216,189
+Jay,Wayne 3,"IN Supreme Court-Rush",,,Yes,337,5,184,148
+Jay,Wayne 3,"IN Supreme Court-Rush",,,No,130,4,77,49
+Jay,Wayne 3,"IN Supreme Court-Massa",,,Yes,333,5,184,144
+Jay,Wayne 3,"IN Supreme Court-Massa",,,No,134,4,77,53
+Jay,Wayne 3,"IN Supreme Court-Molter",,,Yes,336,5,186,145
+Jay,Wayne 3,"IN Supreme Court-Molter",,,No,135,4,75,56
+Jay,Wayne 3,"Court of Appeals Dist 4-Pyle III",,,Yes,343,7,184,152
+Jay,Wayne 3,"Court of Appeals Dist 4-Pyle III",,,No,127,2,77,48
+Jay,Wayne 3,"Straight Party",,DEM,"Democratic Party",22,,,
+Jay,Wayne 3,"Straight Party",,REP,"Republican Party",131,,,
+Jay,Wayne 1,Registered Voters,,,,883,,,
+Jay,Wayne 1,Ballots Cast,,,,535,40,332,163
+Jay,Wayne 1,"Public Question Const Amendment",,,Yes,228,9,132,87
+Jay,Wayne 1,"Public Question Const Amendment",,,No,210,14,141,55
+Jay,Wayne 1,"President",,REP,"Donald J. Trump",382,24,234,124
+Jay,Wayne 1,"President",,DEM,"Kamala D. Harris",133,12,88,33
+Jay,Wayne 1,"President",,LIB,"Chase Oliver",5,0,3,2
+Jay,Wayne 1,"President",,WTP,"Robert F. Kennedy Jr.",5,1,2,2
+Jay,Wayne 1,"President",,,"Write-ins",2,0,1,1
+Jay,Wayne 1,"U.S. Senate",,REP,"Jim Banks",368,23,225,120
+Jay,Wayne 1,"U.S. Senate",,DEM,"Valerie McCray",124,13,79,32
+Jay,Wayne 1,"U.S. Senate",,LIB,"Andrew Horning",10,1,4,5
+Jay,Wayne 1,"U.S. Senate",,,"Write-ins",0,0,0,0
+Jay,Wayne 1,"Governor",,REP,"Braun \ Beckwith",333,22,210,101
+Jay,Wayne 1,"Governor",,DEM,"Mccormick \ Goodin",138,13,83,42
+Jay,Wayne 1,"Governor",,LIB,"Rainwater \ Hudson",26,3,15,8
+Jay,Wayne 1,"Governor",,,"Write-ins",0,0,0,0
+Jay,Wayne 1,"Attorney General",,REP,"Todd Rokita",361,21,227,113
+Jay,Wayne 1,"Attorney General",,DEM,"Destiny Wells",140,14,85,41
+Jay,Wayne 1,"U.S. House",3,REP,"Marlin A. Stutzman",378,26,235,117
+Jay,Wayne 1,"U.S. House",3,DEM,"Kiley M. Adolph",112,10,72,30
+Jay,Wayne 1,"U.S. House",3,LIB,"Jarrad Lancaster",15,2,7,6
+Jay,Wayne 1,"U.S. House",3,,"Write-ins",0,0,0,0
+Jay,Wayne 1,"State House",33,REP,"John (J.D.) Prescott",371,28,228,115
+Jay,Wayne 1,"State House",33,DEM,"John E. Bartlett",135,9,86,40
+Jay,Wayne 1,"Judge of the Circuit Court 58th Judicial",,REP,"Brian David Hutchison",424,33,259,132
+Jay,Wayne 1,"Circuit Court Clerk",,REP,"Missy Eads Elliott",408,32,247,129
+Jay,Wayne 1,"County Treasurer",,REP,"Jonelle Foreman",421,31,256,134
+Jay,Wayne 1,"County Coroner",,REP,"Brayden Fields",424,30,259,135
+Jay,Wayne 1,"County Surveyor",,REP,"Bradley A. Daniels",438,30,266,142
+Jay,Wayne 1,"County Commissioner North District",,REP,"Doug Horn",421,30,254,137
+Jay,Wayne 1,"County Commissioner South District",,REP,"Duane Monroe",383,25,237,121
+Jay,Wayne 1,"County Commissioner South District",,DEM,"Blake B. Watson",112,10,68,34
+Jay,Wayne 1,"County Council Member At Large",,REP,"Bryan Alexander",270,24,155,91
+Jay,Wayne 1,"County Council Member At Large",,REP,"Michael E. Brewster",309,18,191,100
+Jay,Wayne 1,"County Council Member At Large",,REP,"Matt Minnich",277,23,170,84
+Jay,Wayne 1,"Jay School Board",1,NP,"Jon Eads",386,23,234,129
+Jay,Wayne 1,"Jay School Board",4,NP,"Aaron Lee Clark",339,19,205,115
+Jay,Wayne 1,"Jay School Board",6,NP,"Chad Towell",348,19,209,120
+Jay,Wayne 1,"IN Supreme Court-Rush",,,Yes,279,17,162,100
+Jay,Wayne 1,"IN Supreme Court-Rush",,,No,123,5,80,38
+Jay,Wayne 1,"IN Supreme Court-Massa",,,Yes,272,15,164,93
+Jay,Wayne 1,"IN Supreme Court-Massa",,,No,121,7,74,40
+Jay,Wayne 1,"IN Supreme Court-Molter",,,Yes,278,14,166,98
+Jay,Wayne 1,"IN Supreme Court-Molter",,,No,116,7,73,36
+Jay,Wayne 1,"Court of Appeals Dist 4-Pyle III",,,Yes,276,15,163,98
+Jay,Wayne 1,"Court of Appeals Dist 4-Pyle III",,,No,116,6,76,34
+Jay,Wayne 1,"Straight Party",,DEM,"Democratic Party",28,,,
+Jay,Wayne 1,"Straight Party",,REP,"Republican Party",116,,,
+Jay,Wayne 1,"Straight Party",,WTP,"We The People",1,,,
+Jay,Wabash,Registered Voters,,,,307,,,
+Jay,Wabash,Ballots Cast,,,,237,2,101,134
+Jay,Wabash,"Public Question Const Amendment",,,Yes,114,0,47,67
+Jay,Wabash,"Public Question Const Amendment",,,No,92,0,37,55
+Jay,Wabash,"President",,REP,"Donald J. Trump",217,2,91,124
+Jay,Wabash,"President",,DEM,"Kamala D. Harris",17,0,10,7
+Jay,Wabash,"President",,LIB,"Chase Oliver",0,0,0,0
+Jay,Wabash,"President",,WTP,"Robert F. Kennedy Jr.",1,0,0,1
+Jay,Wabash,"President",,,"Write-ins",0,0,0,0
+Jay,Wabash,"U.S. Senate",,REP,"Jim Banks",215,2,90,123
+Jay,Wabash,"U.S. Senate",,DEM,"Valerie McCray",16,0,7,9
+Jay,Wabash,"U.S. Senate",,LIB,"Andrew Horning",4,0,2,2
+Jay,Wabash,"U.S. Senate",,,"Write-ins",0,0,0,0
+Jay,Wabash,"Governor",,REP,"Braun \ Beckwith",209,2,85,122
+Jay,Wabash,"Governor",,DEM,"Mccormick \ Goodin",17,0,8,9
+Jay,Wabash,"Governor",,LIB,"Rainwater \ Hudson",6,0,4,2
+Jay,Wabash,"Governor",,,"Write-ins",0,0,0,0
+Jay,Wabash,"Attorney General",,REP,"Todd Rokita",213,2,89,122
+Jay,Wabash,"Attorney General",,DEM,"Destiny Wells",19,0,9,10
+Jay,Wabash,"U.S. House",3,REP,"Marlin A. Stutzman",212,2,86,124
+Jay,Wabash,"U.S. House",3,DEM,"Kiley M. Adolph",11,0,5,6
+Jay,Wabash,"U.S. House",3,LIB,"Jarrad Lancaster",9,0,6,3
+Jay,Wabash,"U.S. House",3,,"Write-ins",0,0,0,0
+Jay,Wabash,"State House",79,REP,"Matthew S. Lehman",219,2,93,124
+Jay,Wabash,"Judge of the Circuit Court 58th Judicial",,REP,"Brian David Hutchison",212,2,91,119
+Jay,Wabash,"Circuit Court Clerk",,REP,"Missy Eads Elliott",215,2,90,123
+Jay,Wabash,"County Treasurer",,REP,"Jonelle Foreman",216,2,92,122
+Jay,Wabash,"County Coroner",,REP,"Brayden Fields",210,2,87,121
+Jay,Wabash,"County Surveyor",,REP,"Bradley A. Daniels",214,2,88,124
+Jay,Wabash,"County Commissioner North District",,REP,"Doug Horn",218,2,89,127
+Jay,Wabash,"County Commissioner South District",,REP,"Duane Monroe",213,2,89,122
+Jay,Wabash,"County Commissioner South District",,DEM,"Blake B. Watson",13,0,6,7
+Jay,Wabash,"County Council Member At Large",,REP,"Bryan Alexander",140,0,59,81
+Jay,Wabash,"County Council Member At Large",,REP,"Michael E. Brewster",139,0,54,85
+Jay,Wabash,"County Council Member At Large",,REP,"Matt Minnich",159,0,69,90
+Jay,Wabash,"Jay School Board",1,NP,"Jon Eads",168,0,66,102
+Jay,Wabash,"Jay School Board",4,NP,"Aaron Lee Clark",154,0,59,95
+Jay,Wabash,"Jay School Board",6,NP,"Chad Towell",166,0,65,101
+Jay,Wabash,"IN Supreme Court-Rush",,,Yes,132,0,51,81
+Jay,Wabash,"IN Supreme Court-Rush",,,No,35,0,15,20
+Jay,Wabash,"IN Supreme Court-Massa",,,Yes,133,0,53,80
+Jay,Wabash,"IN Supreme Court-Massa",,,No,32,0,12,20
+Jay,Wabash,"IN Supreme Court-Molter",,,Yes,132,0,53,79
+Jay,Wabash,"IN Supreme Court-Molter",,,No,32,0,12,20
+Jay,Wabash,"Court of Appeals Dist 4-Pyle III",,,Yes,130,0,52,78
+Jay,Wabash,"Court of Appeals Dist 4-Pyle III",,,No,34,0,14,20
+Jay,Wabash,"Straight Party",,DEM,"Democratic Party",1,,,
+Jay,Wabash,"Straight Party",,REP,"Republican Party",58,,,
+Jay,Bearcreek,Registered Voters,,,,582,,,
+Jay,Bearcreek,Ballots Cast,,,,446,7,177,262
+Jay,Bearcreek,"Public Question Const Amendment",,,Yes,223,3,99,121
+Jay,Bearcreek,"Public Question Const Amendment",,,No,184,4,61,119
+Jay,Bearcreek,"President",,REP,"Donald J. Trump",368,3,145,220
+Jay,Bearcreek,"President",,DEM,"Kamala D. Harris",61,4,24,33
+Jay,Bearcreek,"President",,LIB,"Chase Oliver",1,0,0,1
+Jay,Bearcreek,"President",,WTP,"Robert F. Kennedy Jr.",5,0,2,3
+Jay,Bearcreek,"President",,,"Write-ins",0,0,0,0
+Jay,Bearcreek,"U.S. Senate",,REP,"Jim Banks",355,3,139,213
+Jay,Bearcreek,"U.S. Senate",,DEM,"Valerie McCray",54,4,24,26
+Jay,Bearcreek,"U.S. Senate",,LIB,"Andrew Horning",8,0,1,7
+Jay,Bearcreek,"U.S. Senate",,,"Write-ins",0,0,0,0
+Jay,Bearcreek,"Governor",,REP,"Braun \ Beckwith",327,3,122,202
+Jay,Bearcreek,"Governor",,DEM,"Mccormick \ Goodin",63,4,30,29
+Jay,Bearcreek,"Governor",,LIB,"Rainwater \ Hudson",25,0,11,14
+Jay,Bearcreek,"Governor",,,"Write-ins",0,0,0,0
+Jay,Bearcreek,"Attorney General",,REP,"Todd Rokita",351,3,141,207
+Jay,Bearcreek,"Attorney General",,DEM,"Destiny Wells",66,4,25,37
+Jay,Bearcreek,"U.S. House",3,REP,"Marlin A. Stutzman",348,3,137,208
+Jay,Bearcreek,"U.S. House",3,DEM,"Kiley M. Adolph",56,4,23,29
+Jay,Bearcreek,"U.S. House",3,LIB,"Jarrad Lancaster",13,0,5,8
+Jay,Bearcreek,"U.S. House",3,,"Write-ins",0,0,0,0
+Jay,Bearcreek,"State House",79,REP,"Matthew S. Lehman",384,4,148,232
+Jay,Bearcreek,"Judge of the Circuit Court 58th Judicial",,REP,"Brian David Hutchison",375,4,145,226
+Jay,Bearcreek,"Circuit Court Clerk",,REP,"Missy Eads Elliott",366,4,147,215
+Jay,Bearcreek,"County Treasurer",,REP,"Jonelle Foreman",369,4,144,221
+Jay,Bearcreek,"County Coroner",,REP,"Brayden Fields",377,4,148,225
+Jay,Bearcreek,"County Surveyor",,REP,"Bradley A. Daniels",386,4,149,233
+Jay,Bearcreek,"County Commissioner North District",,REP,"Doug Horn",379,4,151,224
+Jay,Bearcreek,"County Commissioner South District",,REP,"Duane Monroe",362,3,148,211
+Jay,Bearcreek,"County Commissioner South District",,DEM,"Blake B. Watson",48,4,16,28
+Jay,Bearcreek,"County Council Member At Large",,REP,"Bryan Alexander",244,3,95,146
+Jay,Bearcreek,"County Council Member At Large",,REP,"Michael E. Brewster",257,3,102,152
+Jay,Bearcreek,"County Council Member At Large",,REP,"Matt Minnich",288,4,117,167
+Jay,Bearcreek,"Jay School Board",1,NP,"Jon Eads",325,3,132,190
+Jay,Bearcreek,"Jay School Board",4,NP,"Aaron Lee Clark",302,3,124,175
+Jay,Bearcreek,"Jay School Board",6,NP,"Chad Towell",315,3,127,185
+Jay,Bearcreek,"IN Supreme Court-Rush",,,Yes,257,2,98,157
+Jay,Bearcreek,"IN Supreme Court-Rush",,,No,108,4,39,65
+Jay,Bearcreek,"IN Supreme Court-Massa",,,Yes,259,2,102,155
+Jay,Bearcreek,"IN Supreme Court-Massa",,,No,103,4,36,63
+Jay,Bearcreek,"IN Supreme Court-Molter",,,Yes,271,4,105,162
+Jay,Bearcreek,"IN Supreme Court-Molter",,,No,95,2,34,59
+Jay,Bearcreek,"Court of Appeals Dist 4-Pyle III",,,Yes,267,4,104,159
+Jay,Bearcreek,"Court of Appeals Dist 4-Pyle III",,,No,94,2,34,58
+Jay,Bearcreek,"Straight Party",,DEM,"Democratic Party",9,,,
+Jay,Bearcreek,"Straight Party",,REP,"Republican Party",99,,,
+Jay,Wayne 7,Registered Voters,,,,901,,,
+Jay,Wayne 7,Ballots Cast,,,,622,27,385,210
+Jay,Wayne 7,"Public Question Const Amendment",,,Yes,309,6,189,114
+Jay,Wayne 7,"Public Question Const Amendment",,,No,225,8,148,69
+Jay,Wayne 7,"President",,REP,"Donald J. Trump",451,22,267,162
+Jay,Wayne 7,"President",,DEM,"Kamala D. Harris",153,5,109,39
+Jay,Wayne 7,"President",,LIB,"Chase Oliver",3,0,2,1
+Jay,Wayne 7,"President",,WTP,"Robert F. Kennedy Jr.",7,0,4,3
+Jay,Wayne 7,"President",,,"Write-ins",1,0,0,1
+Jay,Wayne 7,"U.S. Senate",,REP,"Jim Banks",443,23,256,164
+Jay,Wayne 7,"U.S. Senate",,DEM,"Valerie McCray",132,4,94,34
+Jay,Wayne 7,"U.S. Senate",,LIB,"Andrew Horning",17,0,11,6
+Jay,Wayne 7,"U.S. Senate",,,"Write-ins",0,0,0,0
+Jay,Wayne 7,"Governor",,REP,"Braun \ Beckwith",386,22,225,139
+Jay,Wayne 7,"Governor",,DEM,"Mccormick \ Goodin",162,5,108,49
+Jay,Wayne 7,"Governor",,LIB,"Rainwater \ Hudson",34,0,21,13
+Jay,Wayne 7,"Governor",,,"Write-ins",0,0,0,0
+Jay,Wayne 7,"Attorney General",,REP,"Todd Rokita",429,23,251,155
+Jay,Wayne 7,"Attorney General",,DEM,"Destiny Wells",154,3,105,46
+Jay,Wayne 7,"U.S. House",3,REP,"Marlin A. Stutzman",427,23,249,155
+Jay,Wayne 7,"U.S. House",3,DEM,"Kiley M. Adolph",135,4,93,38
+Jay,Wayne 7,"U.S. House",3,LIB,"Jarrad Lancaster",20,0,12,8
+Jay,Wayne 7,"U.S. House",3,,"Write-ins",0,0,0,0
+Jay,Wayne 7,"State House",33,REP,"John (J.D.) Prescott",433,23,249,161
+Jay,Wayne 7,"State House",33,DEM,"John E. Bartlett",155,4,108,43
+Jay,Wayne 7,"Judge of the Circuit Court 58th Judicial",,REP,"Brian David Hutchison",510,25,304,181
+Jay,Wayne 7,"Circuit Court Clerk",,REP,"Missy Eads Elliott",489,25,282,182
+Jay,Wayne 7,"County Treasurer",,REP,"Jonelle Foreman",497,25,292,180
+Jay,Wayne 7,"County Coroner",,REP,"Brayden Fields",506,25,299,182
+Jay,Wayne 7,"County Surveyor",,REP,"Bradley A. Daniels",507,25,301,181
+Jay,Wayne 7,"County Commissioner North District",,REP,"Doug Horn",508,24,303,181
+Jay,Wayne 7,"County Commissioner South District",,REP,"Duane Monroe",463,21,271,171
+Jay,Wayne 7,"County Commissioner South District",,DEM,"Blake B. Watson",124,5,87,32
+Jay,Wayne 7,"County Council Member At Large",,REP,"Bryan Alexander",326,12,203,111
+Jay,Wayne 7,"County Council Member At Large",,REP,"Michael E. Brewster",367,16,215,136
+Jay,Wayne 7,"County Council Member At Large",,REP,"Matt Minnich",324,12,200,112
+Jay,Wayne 7,"Jay School Board",1,NP,"Jon Eads",445,15,272,158
+Jay,Wayne 7,"Jay School Board",4,NP,"Aaron Lee Clark",400,14,245,141
+Jay,Wayne 7,"Jay School Board",6,NP,"Chad Towell",411,15,248,148
+Jay,Wayne 7,"IN Supreme Court-Rush",,,Yes,328,12,202,114
+Jay,Wayne 7,"IN Supreme Court-Rush",,,No,149,4,99,46
+Jay,Wayne 7,"IN Supreme Court-Massa",,,Yes,319,12,193,114
+Jay,Wayne 7,"IN Supreme Court-Massa",,,No,151,4,105,42
+Jay,Wayne 7,"IN Supreme Court-Molter",,,Yes,329,11,201,117
+Jay,Wayne 7,"IN Supreme Court-Molter",,,No,145,4,102,39
+Jay,Wayne 7,"Court of Appeals Dist 4-Pyle III",,,Yes,326,14,198,114
+Jay,Wayne 7,"Court of Appeals Dist 4-Pyle III",,,No,150,2,105,43
+Jay,Wayne 7,"Straight Party",,DEM,"Democratic Party",28,,,
+Jay,Wayne 7,"Straight Party",,REP,"Republican Party",158,,,
+Jay,Wayne 2,Registered Voters,,,,823,,,
+Jay,Wayne 2,Ballots Cast,,,,571,23,370,178
+Jay,Wayne 2,"Public Question Const Amendment",,,Yes,253,6,166,81
+Jay,Wayne 2,"Public Question Const Amendment",,,No,242,4,159,79
+Jay,Wayne 2,"President",,REP,"Donald J. Trump",389,10,255,124
+Jay,Wayne 2,"President",,DEM,"Kamala D. Harris",158,13,102,43
+Jay,Wayne 2,"President",,LIB,"Chase Oliver",1,0,1,0
+Jay,Wayne 2,"President",,WTP,"Robert F. Kennedy Jr.",14,0,7,7
+Jay,Wayne 2,"President",,,"Write-ins",1,0,0,1
+Jay,Wayne 2,"U.S. Senate",,REP,"Jim Banks",375,11,242,122
+Jay,Wayne 2,"U.S. Senate",,DEM,"Valerie McCray",151,12,99,40
+Jay,Wayne 2,"U.S. Senate",,LIB,"Andrew Horning",14,0,6,8
+Jay,Wayne 2,"U.S. Senate",,,"Write-ins",0,0,0,0
+Jay,Wayne 2,"Governor",,REP,"Braun \ Beckwith",332,10,218,104
+Jay,Wayne 2,"Governor",,DEM,"Mccormick \ Goodin",169,10,114,45
+Jay,Wayne 2,"Governor",,LIB,"Rainwater \ Hudson",38,0,16,22
+Jay,Wayne 2,"Governor",,,"Write-ins",0,0,0,0
+Jay,Wayne 2,"Attorney General",,REP,"Todd Rokita",357,7,233,117
+Jay,Wayne 2,"Attorney General",,DEM,"Destiny Wells",175,10,115,50
+Jay,Wayne 2,"U.S. House",3,REP,"Marlin A. Stutzman",376,9,249,118
+Jay,Wayne 2,"U.S. House",3,DEM,"Kiley M. Adolph",139,11,90,38
+Jay,Wayne 2,"U.S. House",3,LIB,"Jarrad Lancaster",23,0,13,10
+Jay,Wayne 2,"U.S. House",3,,"Write-ins",0,0,0,0
+Jay,Wayne 2,"State House",33,REP,"John (J.D.) Prescott",379,10,249,120
+Jay,Wayne 2,"State House",33,DEM,"John E. Bartlett",165,10,106,49
+Jay,Wayne 2,"Judge of the Circuit Court 58th Judicial",,REP,"Brian David Hutchison",469,18,297,154
+Jay,Wayne 2,"Circuit Court Clerk",,REP,"Missy Eads Elliott",458,14,291,153
+Jay,Wayne 2,"County Treasurer",,REP,"Jonelle Foreman",445,14,285,146
+Jay,Wayne 2,"County Coroner",,REP,"Brayden Fields",461,12,300,149
+Jay,Wayne 2,"County Surveyor",,REP,"Bradley A. Daniels",472,15,300,157
+Jay,Wayne 2,"County Commissioner North District",,REP,"Doug Horn",455,14,290,151
+Jay,Wayne 2,"County Commissioner South District",,REP,"Duane Monroe",408,10,274,124
+Jay,Wayne 2,"County Commissioner South District",,DEM,"Blake B. Watson",130,9,77,44
+Jay,Wayne 2,"County Council Member At Large",,REP,"Bryan Alexander",300,9,196,95
+Jay,Wayne 2,"County Council Member At Large",,REP,"Michael E. Brewster",345,10,221,114
+Jay,Wayne 2,"County Council Member At Large",,REP,"Matt Minnich",271,9,186,76
+Jay,Wayne 2,"Jay School Board",1,NP,"Jon Eads",420,14,263,143
+Jay,Wayne 2,"Jay School Board",4,NP,"Aaron Lee Clark",371,9,234,128
+Jay,Wayne 2,"Jay School Board",6,NP,"Chad Towell",391,10,244,137
+Jay,Wayne 2,"IN Supreme Court-Rush",,,Yes,314,9,202,103
+Jay,Wayne 2,"IN Supreme Court-Rush",,,No,134,3,84,47
+Jay,Wayne 2,"IN Supreme Court-Massa",,,Yes,312,8,205,99
+Jay,Wayne 2,"IN Supreme Court-Massa",,,No,131,3,80,48
+Jay,Wayne 2,"IN Supreme Court-Molter",,,Yes,304,6,200,98
+Jay,Wayne 2,"IN Supreme Court-Molter",,,No,138,4,85,49
+Jay,Wayne 2,"Court of Appeals Dist 4-Pyle III",,,Yes,311,9,200,102
+Jay,Wayne 2,"Court of Appeals Dist 4-Pyle III",,,No,136,2,86,48
+Jay,Wayne 2,"Straight Party",,DEM,"Democratic Party",24,,,
+Jay,Wayne 2,"Straight Party",,REP,"Republican Party",108,,,

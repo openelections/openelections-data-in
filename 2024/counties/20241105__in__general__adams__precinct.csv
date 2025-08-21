@@ -1,1208 +1,1208 @@
 county,precinct,office,district,seats,party,candidate,votes,early_voting,election_day,absentee
 Adams,01 Berne A,Registered Voters,,,,,1006,,,
 Adams,01 Berne A,Ballots Cast,,,,,698,,,
-Adams,01 Berne A,Public Question-Const Amendment,,,,Yes,341,142,189,10
-Adams,01 Berne A,Public Question-Const Amendment,,,,No,258,112,142,4
-Adams,01 Berne A,President,,,REP,Donald J. TRUMP / JD VANCE,539,209,317,13
-Adams,01 Berne A,President,,,DEM,Kamala D. HARRIS / Tim WALZ,140,82,54,4
-Adams,01 Berne A,President,,,LBT,Chase OLIVER / Mike terr MATT,4,0,4,0
-Adams,01 Berne A,President,,,WTP,Robert F. KENNEDY JR. / Nichole SHANAHAN,9,1,7,1
-Adams,01 Berne A,President,,,,Write-In,1,0,1,0
-Adams,01 Berne A,U.S. Senate,,,REP,Jim BANKS,486,193,281,12
-Adams,01 Berne A,U.S. Senate,,,DEM,Valerie McCRAY,106,61,39,6
-Adams,01 Berne A,U.S. Senate,,,LBT,Andrew HORNING,17,6,11,0
-Adams,01 Berne A,U.S. Senate,,,,Write-In,0,0,0,0
-Adams,01 Berne A,Governor,,,DEM,Jennifer G. McCORMICK / Terry GOODIN,165,94,64,7
-Adams,01 Berne A,Governor,,,LBT,Donald RAINWATER / Tonya HUDSON,32,4,28,0
-Adams,01 Berne A,Governor,,,,Write-In,0,0,0,0
-Adams,01 Berne A,Attorney General,,,REP,Todd ROKITA,498,199,286,13
-Adams,01 Berne A,Attorney General,,,DEM,Destiny WELLS,130,77,48,5
-Adams,01 Berne A,U.S. House,3,,REP,Marlin A. STUTZMAN,522,209,300,13
-Adams,01 Berne A,U.S. House,3,,DEM,Kiley M. ADOLPH,112,67,40,5
-Adams,01 Berne A,U.S. House,3,,LBT,Jarrad LANCASTER,18,2,16,0
-Adams,01 Berne A,U.S. House,3,,,Write-In,0,0,0,0
-Adams,01 Berne A,State House,79,,REP,Matthew S. LEHMAN,573,229,329,15
-Adams,01 Berne A,Judge of the Circuit Court 26th Judicial,,,REP,Chad E. KUKELHAN,565,233,318,14
-Adams,01 Berne A,County Auditor,,,REP,Tony L. MELLENCAMP,612,252,346,14
-Adams,01 Berne A,County Recorder,,,REP,Thomas R KRUECKEBERG,572,234,324,14
-Adams,01 Berne A,County Treasurer,,,REP,Edgar B. (Ed) DYER,575,236,326,13
-Adams,01 Berne A,County Coroner,,,REP,Monica FENNIG,574,232,328,14
-Adams,01 Berne A,County Commissioner,1,,REP,Stan A STOPPENHAGEN,564,228,323,13
-Adams,01 Berne A,County Commissioner,3,,REP,Douglas L. BAUMAN,574,232,328,14
-Adams,01 Berne A,County Council Member,At Large,,REP,Dennis C. BLUHM,427,177,235,15
-Adams,01 Berne A,County Council Member,At Large,,REP,John P. SUMMERS,355,145,198,12
-Adams,01 Berne A,County Council Member,At Large,,REP,Jim VOGLEWEDE,354,144,199,11
-Adams,01 Berne A,South Adams School,At Large,,,Kyle LITWILLER,394,172,214,8
-Adams,01 Berne A,South Adams School,At Large,,,Benjamin REDIGER,198,77,114,7
-Adams,01 Berne A,South Adams School,2,,,Arlene J AMSTUTZ,523,218,290,15
-Adams,01 Berne A,South Adams School,5,,,Brian (Buzz) CAFFEE,529,225,291,13
-Adams,01 Berne A,IN Supreme Court-Rush,,,,Yes,434,166,256,12
-Adams,01 Berne A,IN Supreme Court-Rush,,,,No,94,53,39,2
-Adams,01 Berne A,IN Supreme Court-Massa,,,,Yes,427,164,251,12
-Adams,01 Berne A,IN Supreme Court-Massa,,,,No,92,51,39,2
-Adams,01 Berne A,IN Supreme Court-Molter,,,,Yes,433,169,252,12
-Adams,01 Berne A,IN Supreme Court-Molter,,,,No,90,46,42,2
-Adams,01 Berne A,Court of Appeals Dist 4-Pyle III,,,,Yes,436,172,252,12
-Adams,01 Berne A,Court of Appeals Dist 4-Pyle III,,,,No,86,45,39,2
+Adams,01 Berne A,Public Question-Const Amendment,,1,,Yes,341,142,189,10
+Adams,01 Berne A,Public Question-Const Amendment,,1,,No,258,112,142,4
+Adams,01 Berne A,President,,1,REP,Donald J. TRUMP / JD VANCE,539,209,317,13
+Adams,01 Berne A,President,,1,DEM,Kamala D. HARRIS / Tim WALZ,140,82,54,4
+Adams,01 Berne A,President,,1,LBT,Chase OLIVER / Mike terr MATT,4,0,4,0
+Adams,01 Berne A,President,,1,WTP,Robert F. KENNEDY JR. / Nichole SHANAHAN,9,1,7,1
+Adams,01 Berne A,President,,1,,Write-In,1,0,1,0
+Adams,01 Berne A,U.S. Senate,,1,REP,Jim BANKS,486,193,281,12
+Adams,01 Berne A,U.S. Senate,,1,DEM,Valerie McCRAY,106,61,39,6
+Adams,01 Berne A,U.S. Senate,,1,LBT,Andrew HORNING,17,6,11,0
+Adams,01 Berne A,U.S. Senate,,1,,Write-In,0,0,0,0
+Adams,01 Berne A,Governor,,1,DEM,Jennifer G. McCORMICK / Terry GOODIN,165,94,64,7
+Adams,01 Berne A,Governor,,1,LBT,Donald RAINWATER / Tonya HUDSON,32,4,28,0
+Adams,01 Berne A,Governor,,1,,Write-In,0,0,0,0
+Adams,01 Berne A,Attorney General,,1,REP,Todd ROKITA,498,199,286,13
+Adams,01 Berne A,Attorney General,,1,DEM,Destiny WELLS,130,77,48,5
+Adams,01 Berne A,U.S. House,3,1,REP,Marlin A. STUTZMAN,522,209,300,13
+Adams,01 Berne A,U.S. House,3,1,DEM,Kiley M. ADOLPH,112,67,40,5
+Adams,01 Berne A,U.S. House,3,1,LBT,Jarrad LANCASTER,18,2,16,0
+Adams,01 Berne A,U.S. House,3,1,,Write-In,0,0,0,0
+Adams,01 Berne A,State House,79,1,REP,Matthew S. LEHMAN,573,229,329,15
+Adams,01 Berne A,Judge of the Circuit Court 26th Judicial,,1,REP,Chad E. KUKELHAN,565,233,318,14
+Adams,01 Berne A,County Auditor,,1,REP,Tony L. MELLENCAMP,612,252,346,14
+Adams,01 Berne A,County Recorder,,1,REP,Thomas R KRUECKEBERG,572,234,324,14
+Adams,01 Berne A,County Treasurer,,1,REP,Edgar B. (Ed) DYER,575,236,326,13
+Adams,01 Berne A,County Coroner,,1,REP,Monica FENNIG,574,232,328,14
+Adams,01 Berne A,County Commissioner,1,1,REP,Stan A STOPPENHAGEN,564,228,323,13
+Adams,01 Berne A,County Commissioner,3,1,REP,Douglas L. BAUMAN,574,232,328,14
+Adams,01 Berne A,County Council Member,At Large,3,REP,Dennis C. BLUHM,427,177,235,15
+Adams,01 Berne A,County Council Member,At Large,3,REP,John P. SUMMERS,355,145,198,12
+Adams,01 Berne A,County Council Member,At Large,3,REP,Jim VOGLEWEDE,354,144,199,11
+Adams,01 Berne A,South Adams School,At Large,1,,Kyle LITWILLER,394,172,214,8
+Adams,01 Berne A,South Adams School,At Large,1,,Benjamin REDIGER,198,77,114,7
+Adams,01 Berne A,South Adams School,2,1,,Arlene J AMSTUTZ,523,218,290,15
+Adams,01 Berne A,South Adams School,5,1,,Brian (Buzz) CAFFEE,529,225,291,13
+Adams,01 Berne A,IN Supreme Court-Rush,,1,,Yes,434,166,256,12
+Adams,01 Berne A,IN Supreme Court-Rush,,1,,No,94,53,39,2
+Adams,01 Berne A,IN Supreme Court-Massa,,1,,Yes,427,164,251,12
+Adams,01 Berne A,IN Supreme Court-Massa,,1,,No,92,51,39,2
+Adams,01 Berne A,IN Supreme Court-Molter,,1,,Yes,433,169,252,12
+Adams,01 Berne A,IN Supreme Court-Molter,,1,,No,90,46,42,2
+Adams,01 Berne A,Court of Appeals Dist 4-Pyle III,,1,,Yes,436,172,252,12
+Adams,01 Berne A,Court of Appeals Dist 4-Pyle III,,1,,No,86,45,39,2
 Adams,01 Berne A,Straight Party,,,DEM,,29,,,
 Adams,01 Berne A,Straight Party,,,REP,,169,,,
 Adams,02 Berne B,Registered Voters,,,,,1061,,,
 Adams,02 Berne B,Ballots Cast,,,,,766,,,
-Adams,02 Berne B,Public Question-Const Amendment,,,,Yes,377,167,198,12
-Adams,02 Berne B,Public Question-Const Amendment,,,,No,262,112,144,6
-Adams,02 Berne B,President,,,REP,Donald J. TRUMP / JD VANCE,593,260,317,16
-Adams,02 Berne B,President,,,DEM,Kamala D. HARRIS / Tim WALZ,141,57,70,14
-Adams,02 Berne B,President,,,LBT,Chase OLIVER / Mike terr MATT,8,1,7,0
-Adams,02 Berne B,President,,,WTP,Robert F. KENNEDY JR. / Nichole SHANAHAN,8,0,7,1
-Adams,02 Berne B,President,,,,Write-In,3,0,3,0
-Adams,02 Berne B,U.S. Senate,,,REP,Jim BANKS,540,228,295,17
-Adams,02 Berne B,U.S. Senate,,,DEM,Valerie McCRAY,107,45,49,13
-Adams,02 Berne B,U.S. Senate,,,LBT,Andrew HORNING,19,7,12,0
-Adams,02 Berne B,U.S. Senate,,,,Write-In,0,0,0,0
-Adams,02 Berne B,Governor,,,DEM,Jennifer G. McCORMICK / Terry GOODIN,146,65,75,6
-Adams,02 Berne B,Governor,,,LBT,Donald RAINWATER / Tonya HUDSON,38,10,28,0
-Adams,02 Berne B,Governor,,,,Write-In,0,0,0,0
-Adams,02 Berne B,Attorney General,,,REP,Todd ROKITA,541,238,288,15
-Adams,02 Berne B,Attorney General,,,DEM,Destiny WELLS,124,52,64,8
-Adams,02 Berne B,U.S. House,3,,REP,Marlin A. STUTZMAN,569,249,303,17
-Adams,02 Berne B,U.S. House,3,,DEM,Kiley M. ADOLPH,114,49,54,11
-Adams,02 Berne B,U.S. House,3,,LBT,Jarrad LANCASTER,27,8,19,0
-Adams,02 Berne B,U.S. House,3,,,Write-In,0,0,0,0
-Adams,02 Berne B,State House,79,,REP,Matthew S. LEHMAN,623,268,332,23
-Adams,02 Berne B,Judge of the Circuit Court 26th Judicial,,,REP,Chad E. KUKELHAN,608,270,320,18
-Adams,02 Berne B,County Auditor,,,REP,Tony L. MELLENCAMP,642,277,345,20
-Adams,02 Berne B,County Recorder,,,REP,Thomas R KRUECKEBERG,618,272,328,18
-Adams,02 Berne B,County Treasurer,,,REP,Edgar B. (Ed) DYER,610,268,324,18
-Adams,02 Berne B,County Coroner,,,REP,Monica FENNIG,617,271,328,18
-Adams,02 Berne B,County Commissioner,1,,REP,Stan A STOPPENHAGEN,608,266,326,16
-Adams,02 Berne B,County Commissioner,3,,REP,Douglas L. BAUMAN,612,263,330,19
-Adams,02 Berne B,County Council Member,At Large,,REP,Dennis C. BLUHM,443,215,218,10
-Adams,02 Berne B,County Council Member,At Large,,REP,John P. SUMMERS,353,168,175,10
-Adams,02 Berne B,County Council Member,At Large,,REP,Jim VOGLEWEDE,353,184,160,9
-Adams,02 Berne B,South Adams School,At Large,,,Kyle LITWILLER,433,203,222,8
-Adams,02 Berne B,South Adams School,At Large,,,Benjamin REDIGER,199,86,107,6
-Adams,02 Berne B,South Adams School,2,,,Arlene J AMSTUTZ,558,246,296,16
-Adams,02 Berne B,South Adams School,5,,,Brian (Buzz) CAFFEE,570,252,304,14
-Adams,02 Berne B,IN Supreme Court-Rush,,,,Yes,456,206,237,13
-Adams,02 Berne B,IN Supreme Court-Rush,,,,No,104,42,59,3
-Adams,02 Berne B,IN Supreme Court-Massa,,,,Yes,443,200,231,12
-Adams,02 Berne B,IN Supreme Court-Massa,,,,No,110,45,61,4
-Adams,02 Berne B,IN Supreme Court-Molter,,,,Yes,451,205,234,12
-Adams,02 Berne B,IN Supreme Court-Molter,,,,No,100,39,57,4
-Adams,02 Berne B,Court of Appeals Dist 4-Pyle III,,,,Yes,450,199,240,11
-Adams,02 Berne B,Court of Appeals Dist 4-Pyle III,,,,No,103,46,53,4
+Adams,02 Berne B,Public Question-Const Amendment,,1,,Yes,377,167,198,12
+Adams,02 Berne B,Public Question-Const Amendment,,1,,No,262,112,144,6
+Adams,02 Berne B,President,,1,REP,Donald J. TRUMP / JD VANCE,593,260,317,16
+Adams,02 Berne B,President,,1,DEM,Kamala D. HARRIS / Tim WALZ,141,57,70,14
+Adams,02 Berne B,President,,1,LBT,Chase OLIVER / Mike terr MATT,8,1,7,0
+Adams,02 Berne B,President,,1,WTP,Robert F. KENNEDY JR. / Nichole SHANAHAN,8,0,7,1
+Adams,02 Berne B,President,,1,,Write-In,3,0,3,0
+Adams,02 Berne B,U.S. Senate,,1,REP,Jim BANKS,540,228,295,17
+Adams,02 Berne B,U.S. Senate,,1,DEM,Valerie McCRAY,107,45,49,13
+Adams,02 Berne B,U.S. Senate,,1,LBT,Andrew HORNING,19,7,12,0
+Adams,02 Berne B,U.S. Senate,,1,,Write-In,0,0,0,0
+Adams,02 Berne B,Governor,,1,DEM,Jennifer G. McCORMICK / Terry GOODIN,146,65,75,6
+Adams,02 Berne B,Governor,,1,LBT,Donald RAINWATER / Tonya HUDSON,38,10,28,0
+Adams,02 Berne B,Governor,,1,,Write-In,0,0,0,0
+Adams,02 Berne B,Attorney General,,1,REP,Todd ROKITA,541,238,288,15
+Adams,02 Berne B,Attorney General,,1,DEM,Destiny WELLS,124,52,64,8
+Adams,02 Berne B,U.S. House,3,1,REP,Marlin A. STUTZMAN,569,249,303,17
+Adams,02 Berne B,U.S. House,3,1,DEM,Kiley M. ADOLPH,114,49,54,11
+Adams,02 Berne B,U.S. House,3,1,LBT,Jarrad LANCASTER,27,8,19,0
+Adams,02 Berne B,U.S. House,3,1,,Write-In,0,0,0,0
+Adams,02 Berne B,State House,79,1,REP,Matthew S. LEHMAN,623,268,332,23
+Adams,02 Berne B,Judge of the Circuit Court 26th Judicial,,1,REP,Chad E. KUKELHAN,608,270,320,18
+Adams,02 Berne B,County Auditor,,1,REP,Tony L. MELLENCAMP,642,277,345,20
+Adams,02 Berne B,County Recorder,,1,REP,Thomas R KRUECKEBERG,618,272,328,18
+Adams,02 Berne B,County Treasurer,,1,REP,Edgar B. (Ed) DYER,610,268,324,18
+Adams,02 Berne B,County Coroner,,1,REP,Monica FENNIG,617,271,328,18
+Adams,02 Berne B,County Commissioner,1,1,REP,Stan A STOPPENHAGEN,608,266,326,16
+Adams,02 Berne B,County Commissioner,3,1,REP,Douglas L. BAUMAN,612,263,330,19
+Adams,02 Berne B,County Council Member,At Large,3,REP,Dennis C. BLUHM,443,215,218,10
+Adams,02 Berne B,County Council Member,At Large,3,REP,John P. SUMMERS,353,168,175,10
+Adams,02 Berne B,County Council Member,At Large,3,REP,Jim VOGLEWEDE,353,184,160,9
+Adams,02 Berne B,South Adams School,At Large,1,,Kyle LITWILLER,433,203,222,8
+Adams,02 Berne B,South Adams School,At Large,1,,Benjamin REDIGER,199,86,107,6
+Adams,02 Berne B,South Adams School,2,1,,Arlene J AMSTUTZ,558,246,296,16
+Adams,02 Berne B,South Adams School,5,1,,Brian (Buzz) CAFFEE,570,252,304,14
+Adams,02 Berne B,IN Supreme Court-Rush,,1,,Yes,456,206,237,13
+Adams,02 Berne B,IN Supreme Court-Rush,,1,,No,104,42,59,3
+Adams,02 Berne B,IN Supreme Court-Massa,,1,,Yes,443,200,231,12
+Adams,02 Berne B,IN Supreme Court-Massa,,1,,No,110,45,61,4
+Adams,02 Berne B,IN Supreme Court-Molter,,1,,Yes,451,205,234,12
+Adams,02 Berne B,IN Supreme Court-Molter,,1,,No,100,39,57,4
+Adams,02 Berne B,Court of Appeals Dist 4-Pyle III,,1,,Yes,450,199,240,11
+Adams,02 Berne B,Court of Appeals Dist 4-Pyle III,,1,,No,103,46,53,4
 Adams,02 Berne B,Straight Party,,,DEM,,25,,,
 Adams,02 Berne B,Straight Party,,,REP,,185,,,
 Adams,03 Berne C,Registered Voters,,,,,856,,,
 Adams,03 Berne C,Ballots Cast,,,,,674,,,
-Adams,03 Berne C,Public Question-Const Amendment,,,,Yes,344,198,137,9
-Adams,03 Berne C,Public Question-Const Amendment,,,,No,239,130,102,7
-Adams,03 Berne C,President,,,REP,Donald J. TRUMP / JD VANCE,525,284,230,11
-Adams,03 Berne C,President,,,DEM,Kamala D. HARRIS / Tim WALZ,120,60,48,12
-Adams,03 Berne C,President,,,LBT,Chase OLIVER / Mike terr MATT,3,1,2,0
-Adams,03 Berne C,President,,,WTP,Robert F. KENNEDY JR. / Nichole SHANAHAN,6,3,3,0
-Adams,03 Berne C,President,,,,Write-In,1,1,0,0
-Adams,03 Berne C,U.S. Senate,,,REP,Jim BANKS,479,254,213,12
-Adams,03 Berne C,U.S. Senate,,,DEM,Valerie McCRAY,93,43,38,12
-Adams,03 Berne C,U.S. Senate,,,LBT,Andrew HORNING,4,3,1,0
-Adams,03 Berne C,U.S. Senate,,,,Write-In,0,0,0,0
-Adams,03 Berne C,Governor,,,DEM,Jennifer G. McCORMICK / Terry GOODIN,142,67,63,12
-Adams,03 Berne C,Governor,,,LBT,Donald RAINWATER / Tonya HUDSON,11,4,7,0
-Adams,03 Berne C,Governor,,,,Write-In,0,0,0,0
-Adams,03 Berne C,Attorney General,,,REP,Todd ROKITA,464,252,200,12
-Adams,03 Berne C,Attorney General,,,DEM,Destiny WELLS,116,59,45,12
-Adams,03 Berne C,U.S. House,3,,REP,Marlin A. STUTZMAN,505,274,220,11
-Adams,03 Berne C,U.S. House,3,,DEM,Kiley M. ADOLPH,97,47,38,12
-Adams,03 Berne C,U.S. House,3,,LBT,Jarrad LANCASTER,8,5,3,0
-Adams,03 Berne C,U.S. House,3,,,Write-In,0,0,0,0
-Adams,03 Berne C,State House,79,,REP,Matthew S. LEHMAN,546,282,247,17
-Adams,03 Berne C,Judge of the Circuit Court 26th Judicial,,,REP,Chad E. KUKELHAN,532,277,238,17
-Adams,03 Berne C,County Auditor,,,REP,Tony L. MELLENCAMP,564,296,251,17
-Adams,03 Berne C,County Recorder,,,REP,Thomas R KRUECKEBERG,535,280,239,16
-Adams,03 Berne C,County Treasurer,,,REP,Edgar B. (Ed) DYER,530,278,236,16
-Adams,03 Berne C,County Coroner,,,REP,Monica FENNIG,531,279,235,17
-Adams,03 Berne C,County Commissioner,1,,REP,Stan A STOPPENHAGEN,530,275,239,16
-Adams,03 Berne C,County Commissioner,3,,REP,Douglas L. BAUMAN,530,280,233,17
-Adams,03 Berne C,County Council Member,At Large,,REP,Dennis C. BLUHM,445,241,194,10
-Adams,03 Berne C,County Council Member,At Large,,REP,John P. SUMMERS,363,191,163,9
-Adams,03 Berne C,County Council Member,At Large,,REP,Jim VOGLEWEDE,353,191,151,11
-Adams,03 Berne C,South Adams School,At Large,,,Kyle LITWILLER,373,208,159,6
-Adams,03 Berne C,South Adams School,At Large,,,Benjamin REDIGER,196,95,90,11
-Adams,03 Berne C,South Adams School,2,,,Arlene J AMSTUTZ,491,263,213,15
-Adams,03 Berne C,South Adams School,5,,,Brian (Buzz) CAFFEE,505,268,222,15
-Adams,03 Berne C,IN Supreme Court-Rush,,,,Yes,400,215,173,12
-Adams,03 Berne C,IN Supreme Court-Rush,,,,No,78,43,31,4
-Adams,03 Berne C,IN Supreme Court-Massa,,,,Yes,389,204,174,11
-Adams,03 Berne C,IN Supreme Court-Massa,,,,No,80,46,29,5
-Adams,03 Berne C,IN Supreme Court-Molter,,,,Yes,398,215,173,10
-Adams,03 Berne C,IN Supreme Court-Molter,,,,No,71,38,28,5
-Adams,03 Berne C,Court of Appeals Dist 4-Pyle III,,,,Yes,392,212,169,11
-Adams,03 Berne C,Court of Appeals Dist 4-Pyle III,,,,No,72,37,31,4
+Adams,03 Berne C,Public Question-Const Amendment,,1,,Yes,344,198,137,9
+Adams,03 Berne C,Public Question-Const Amendment,,1,,No,239,130,102,7
+Adams,03 Berne C,President,,1,REP,Donald J. TRUMP / JD VANCE,525,284,230,11
+Adams,03 Berne C,President,,1,DEM,Kamala D. HARRIS / Tim WALZ,120,60,48,12
+Adams,03 Berne C,President,,1,LBT,Chase OLIVER / Mike terr MATT,3,1,2,0
+Adams,03 Berne C,President,,1,WTP,Robert F. KENNEDY JR. / Nichole SHANAHAN,6,3,3,0
+Adams,03 Berne C,President,,1,,Write-In,1,1,0,0
+Adams,03 Berne C,U.S. Senate,,1,REP,Jim BANKS,479,254,213,12
+Adams,03 Berne C,U.S. Senate,,1,DEM,Valerie McCRAY,93,43,38,12
+Adams,03 Berne C,U.S. Senate,,1,LBT,Andrew HORNING,4,3,1,0
+Adams,03 Berne C,U.S. Senate,,1,,Write-In,0,0,0,0
+Adams,03 Berne C,Governor,,1,DEM,Jennifer G. McCORMICK / Terry GOODIN,142,67,63,12
+Adams,03 Berne C,Governor,,1,LBT,Donald RAINWATER / Tonya HUDSON,11,4,7,0
+Adams,03 Berne C,Governor,,1,,Write-In,0,0,0,0
+Adams,03 Berne C,Attorney General,,1,REP,Todd ROKITA,464,252,200,12
+Adams,03 Berne C,Attorney General,,1,DEM,Destiny WELLS,116,59,45,12
+Adams,03 Berne C,U.S. House,3,1,REP,Marlin A. STUTZMAN,505,274,220,11
+Adams,03 Berne C,U.S. House,3,1,DEM,Kiley M. ADOLPH,97,47,38,12
+Adams,03 Berne C,U.S. House,3,1,LBT,Jarrad LANCASTER,8,5,3,0
+Adams,03 Berne C,U.S. House,3,1,,Write-In,0,0,0,0
+Adams,03 Berne C,State House,79,1,REP,Matthew S. LEHMAN,546,282,247,17
+Adams,03 Berne C,Judge of the Circuit Court 26th Judicial,,1,REP,Chad E. KUKELHAN,532,277,238,17
+Adams,03 Berne C,County Auditor,,1,REP,Tony L. MELLENCAMP,564,296,251,17
+Adams,03 Berne C,County Recorder,,1,REP,Thomas R KRUECKEBERG,535,280,239,16
+Adams,03 Berne C,County Treasurer,,1,REP,Edgar B. (Ed) DYER,530,278,236,16
+Adams,03 Berne C,County Coroner,,1,REP,Monica FENNIG,531,279,235,17
+Adams,03 Berne C,County Commissioner,1,1,REP,Stan A STOPPENHAGEN,530,275,239,16
+Adams,03 Berne C,County Commissioner,3,1,REP,Douglas L. BAUMAN,530,280,233,17
+Adams,03 Berne C,County Council Member,At Large,3,REP,Dennis C. BLUHM,445,241,194,10
+Adams,03 Berne C,County Council Member,At Large,3,REP,John P. SUMMERS,363,191,163,9
+Adams,03 Berne C,County Council Member,At Large,3,REP,Jim VOGLEWEDE,353,191,151,11
+Adams,03 Berne C,South Adams School,At Large,1,,Kyle LITWILLER,373,208,159,6
+Adams,03 Berne C,South Adams School,At Large,1,,Benjamin REDIGER,196,95,90,11
+Adams,03 Berne C,South Adams School,2,1,,Arlene J AMSTUTZ,491,263,213,15
+Adams,03 Berne C,South Adams School,5,1,,Brian (Buzz) CAFFEE,505,268,222,15
+Adams,03 Berne C,IN Supreme Court-Rush,,1,,Yes,400,215,173,12
+Adams,03 Berne C,IN Supreme Court-Rush,,1,,No,78,43,31,4
+Adams,03 Berne C,IN Supreme Court-Massa,,1,,Yes,389,204,174,11
+Adams,03 Berne C,IN Supreme Court-Massa,,1,,No,80,46,29,5
+Adams,03 Berne C,IN Supreme Court-Molter,,1,,Yes,398,215,173,10
+Adams,03 Berne C,IN Supreme Court-Molter,,1,,No,71,38,28,5
+Adams,03 Berne C,Court of Appeals Dist 4-Pyle III,,1,,Yes,392,212,169,11
+Adams,03 Berne C,Court of Appeals Dist 4-Pyle III,,1,,No,72,37,31,4
 Adams,03 Berne C,Straight Party,,,DEM,,18,,,
 Adams,03 Berne C,Straight Party,,,REP,,164,,,
 Adams,04 Blue Creek,Registered Voters,,,,,362,,,
 Adams,04 Blue Creek,Ballots Cast,,,,,239,,,
-Adams,04 Blue Creek,Public Question-Const Amendment,,,,Yes,118,61,55,2
-Adams,04 Blue Creek,Public Question-Const Amendment,,,,No,78,38,37,3
-Adams,04 Blue Creek,President,,,REP,Donald J. TRUMP / JD VANCE,204,105,92,7
-Adams,04 Blue Creek,President,,,DEM,Kamala D. HARRIS / Tim WALZ,29,21,8,0
-Adams,04 Blue Creek,President,,,LBT,Chase OLIVER / Mike terr MATT,2,0,2,0
-Adams,04 Blue Creek,President,,,WTP,Robert F. KENNEDY JR. / Nichole SHANAHAN,2,1,1,0
-Adams,04 Blue Creek,President,,,,Write-In,0,0,0,0
-Adams,04 Blue Creek,U.S. Senate,,,REP,Jim BANKS,189,95,87,7
-Adams,04 Blue Creek,U.S. Senate,,,DEM,Valerie McCRAY,20,15,5,0
-Adams,04 Blue Creek,U.S. Senate,,,LBT,Andrew HORNING,2,0,2,0
-Adams,04 Blue Creek,U.S. Senate,,,,Write-In,0,0,0,0
-Adams,04 Blue Creek,Governor,,,DEM,Jennifer G. McCORMICK / Terry GOODIN,39,26,13,0
-Adams,04 Blue Creek,Governor,,,LBT,Donald RAINWATER / Tonya HUDSON,12,2,10,0
-Adams,04 Blue Creek,Governor,,,,Write-In,0,0,0,0
-Adams,04 Blue Creek,Attorney General,,,REP,Todd ROKITA,177,92,78,7
-Adams,04 Blue Creek,Attorney General,,,DEM,Destiny WELLS,28,17,11,0
-Adams,04 Blue Creek,U.S. House,3,,REP,Marlin A. STUTZMAN,196,98,91,7
-Adams,04 Blue Creek,U.S. House,3,,DEM,Kiley M. ADOLPH,24,19,5,0
-Adams,04 Blue Creek,U.S. House,3,,LBT,Jarrad LANCASTER,3,1,2,0
-Adams,04 Blue Creek,U.S. House,3,,,Write-In,0,0,0,0
-Adams,04 Blue Creek,State House,79,,REP,Matthew S. LEHMAN,198,105,87,6
-Adams,04 Blue Creek,Judge of the Circuit Court 26th Judicial,,,REP,Chad E. KUKELHAN,196,105,85,6
-Adams,04 Blue Creek,County Auditor,,,REP,Tony L. MELLENCAMP,203,110,86,7
-Adams,04 Blue Creek,County Recorder,,,REP,Thomas R KRUECKEBERG,200,106,88,6
-Adams,04 Blue Creek,County Treasurer,,,REP,Edgar B. (Ed) DYER,193,102,84,7
-Adams,04 Blue Creek,County Coroner,,,REP,Monica FENNIG,203,109,87,7
-Adams,04 Blue Creek,County Commissioner,1,,REP,Stan A STOPPENHAGEN,198,104,87,7
-Adams,04 Blue Creek,County Commissioner,3,,REP,Douglas L. BAUMAN,186,97,82,7
-Adams,04 Blue Creek,County Council Member,At Large,,REP,Dennis C. BLUHM,141,68,69,4
-Adams,04 Blue Creek,County Council Member,At Large,,REP,John P. SUMMERS,120,60,57,3
-Adams,04 Blue Creek,County Council Member,At Large,,REP,Jim VOGLEWEDE,111,52,55,4
-Adams,04 Blue Creek,Adams Central Community SB,At Large,,,Jason GERBER,138,70,64,4
-Adams,04 Blue Creek,Adams Central Community SB,1,,,Benjamin L LIECHTY,150,80,65,5
-Adams,04 Blue Creek,Adams Central Community SB,5,,,Rhonda M. ISCH,144,78,62,4
-Adams,04 Blue Creek,Adams Central Community SB,6,,,Write-In,6,4,2,0
-Adams,04 Blue Creek,South Adams School,At Large,,,Kyle LITWILLER,9,2,7,0
-Adams,04 Blue Creek,South Adams School,At Large,,,Benjamin REDIGER,9,5,4,0
-Adams,04 Blue Creek,South Adams School,2,,,Arlene J AMSTUTZ,16,8,8,0
-Adams,04 Blue Creek,South Adams School,5,,,Brian (Buzz) CAFFEE,15,6,9,0
-Adams,04 Blue Creek,IN Supreme Court-Rush,,,,Yes,130,61,64,5
-Adams,04 Blue Creek,IN Supreme Court-Rush,,,,No,40,27,13,0
-Adams,04 Blue Creek,IN Supreme Court-Massa,,,,Yes,126,57,64,5
-Adams,04 Blue Creek,IN Supreme Court-Massa,,,,No,43,30,13,0
-Adams,04 Blue Creek,IN Supreme Court-Molter,,,,Yes,128,57,66,5
-Adams,04 Blue Creek,IN Supreme Court-Molter,,,,No,40,29,11,0
-Adams,04 Blue Creek,Court of Appeals Dist 4-Pyle III,,,,Yes,127,55,67,5
-Adams,04 Blue Creek,Court of Appeals Dist 4-Pyle III,,,,No,44,33,11,0
+Adams,04 Blue Creek,Public Question-Const Amendment,,1,,Yes,118,61,55,2
+Adams,04 Blue Creek,Public Question-Const Amendment,,1,,No,78,38,37,3
+Adams,04 Blue Creek,President,,1,REP,Donald J. TRUMP / JD VANCE,204,105,92,7
+Adams,04 Blue Creek,President,,1,DEM,Kamala D. HARRIS / Tim WALZ,29,21,8,0
+Adams,04 Blue Creek,President,,1,LBT,Chase OLIVER / Mike terr MATT,2,0,2,0
+Adams,04 Blue Creek,President,,1,WTP,Robert F. KENNEDY JR. / Nichole SHANAHAN,2,1,1,0
+Adams,04 Blue Creek,President,,1,,Write-In,0,0,0,0
+Adams,04 Blue Creek,U.S. Senate,,1,REP,Jim BANKS,189,95,87,7
+Adams,04 Blue Creek,U.S. Senate,,1,DEM,Valerie McCRAY,20,15,5,0
+Adams,04 Blue Creek,U.S. Senate,,1,LBT,Andrew HORNING,2,0,2,0
+Adams,04 Blue Creek,U.S. Senate,,1,,Write-In,0,0,0,0
+Adams,04 Blue Creek,Governor,,1,DEM,Jennifer G. McCORMICK / Terry GOODIN,39,26,13,0
+Adams,04 Blue Creek,Governor,,1,LBT,Donald RAINWATER / Tonya HUDSON,12,2,10,0
+Adams,04 Blue Creek,Governor,,1,,Write-In,0,0,0,0
+Adams,04 Blue Creek,Attorney General,,1,REP,Todd ROKITA,177,92,78,7
+Adams,04 Blue Creek,Attorney General,,1,DEM,Destiny WELLS,28,17,11,0
+Adams,04 Blue Creek,U.S. House,3,1,REP,Marlin A. STUTZMAN,196,98,91,7
+Adams,04 Blue Creek,U.S. House,3,1,DEM,Kiley M. ADOLPH,24,19,5,0
+Adams,04 Blue Creek,U.S. House,3,1,LBT,Jarrad LANCASTER,3,1,2,0
+Adams,04 Blue Creek,U.S. House,3,1,,Write-In,0,0,0,0
+Adams,04 Blue Creek,State House,79,1,REP,Matthew S. LEHMAN,198,105,87,6
+Adams,04 Blue Creek,Judge of the Circuit Court 26th Judicial,,1,REP,Chad E. KUKELHAN,196,105,85,6
+Adams,04 Blue Creek,County Auditor,,1,REP,Tony L. MELLENCAMP,203,110,86,7
+Adams,04 Blue Creek,County Recorder,,1,REP,Thomas R KRUECKEBERG,200,106,88,6
+Adams,04 Blue Creek,County Treasurer,,1,REP,Edgar B. (Ed) DYER,193,102,84,7
+Adams,04 Blue Creek,County Coroner,,1,REP,Monica FENNIG,203,109,87,7
+Adams,04 Blue Creek,County Commissioner,1,1,REP,Stan A STOPPENHAGEN,198,104,87,7
+Adams,04 Blue Creek,County Commissioner,3,1,REP,Douglas L. BAUMAN,186,97,82,7
+Adams,04 Blue Creek,County Council Member,At Large,3,REP,Dennis C. BLUHM,141,68,69,4
+Adams,04 Blue Creek,County Council Member,At Large,3,REP,John P. SUMMERS,120,60,57,3
+Adams,04 Blue Creek,County Council Member,At Large,3,REP,Jim VOGLEWEDE,111,52,55,4
+Adams,04 Blue Creek,Adams Central Community SB,At Large,1,,Jason GERBER,138,70,64,4
+Adams,04 Blue Creek,Adams Central Community SB,1,1,,Benjamin L LIECHTY,150,80,65,5
+Adams,04 Blue Creek,Adams Central Community SB,5,1,,Rhonda M. ISCH,144,78,62,4
+Adams,04 Blue Creek,Adams Central Community SB,6,1,,Write-In,6,4,2,0
+Adams,04 Blue Creek,South Adams School,At Large,1,,Kyle LITWILLER,9,2,7,0
+Adams,04 Blue Creek,South Adams School,At Large,1,,Benjamin REDIGER,9,5,4,0
+Adams,04 Blue Creek,South Adams School,2,1,,Arlene J AMSTUTZ,16,8,8,0
+Adams,04 Blue Creek,South Adams School,5,1,,Brian (Buzz) CAFFEE,15,6,9,0
+Adams,04 Blue Creek,IN Supreme Court-Rush,,1,,Yes,130,61,64,5
+Adams,04 Blue Creek,IN Supreme Court-Rush,,1,,No,40,27,13,0
+Adams,04 Blue Creek,IN Supreme Court-Massa,,1,,Yes,126,57,64,5
+Adams,04 Blue Creek,IN Supreme Court-Massa,,1,,No,43,30,13,0
+Adams,04 Blue Creek,IN Supreme Court-Molter,,1,,Yes,128,57,66,5
+Adams,04 Blue Creek,IN Supreme Court-Molter,,1,,No,40,29,11,0
+Adams,04 Blue Creek,Court of Appeals Dist 4-Pyle III,,1,,Yes,127,55,67,5
+Adams,04 Blue Creek,Court of Appeals Dist 4-Pyle III,,1,,No,44,33,11,0
 Adams,04 Blue Creek,Straight Party,,,DEM,,6,,,
 Adams,04 Blue Creek,Straight Party,,,REP,,62,,,
 Adams,05 Decatur 1,Registered Voters,,,,,1709,,,
 Adams,05 Decatur 1,Ballots Cast,,,,,1129,,,
-Adams,05 Decatur 1,Public Question-Const Amendment,,,,Yes,492,308,167,17
-Adams,05 Decatur 1,Public Question-Const Amendment,,,,No,475,305,164,6
-Adams,05 Decatur 1,President,,,REP,Donald J. TRUMP / JD VANCE,685,424,248,13
-Adams,05 Decatur 1,President,,,DEM,Kamala D. HARRIS / Tim WALZ,395,255,118,22
-Adams,05 Decatur 1,President,,,LBT,Chase OLIVER / Mike terr MATT,18,11,6,1
-Adams,05 Decatur 1,President,,,WTP,Robert F. KENNEDY JR. / Nichole SHANAHAN,15,6,7,2
-Adams,05 Decatur 1,President,,,,Write-In,1,0,1,0
-Adams,05 Decatur 1,U.S. Senate,,,REP,Jim BANKS,624,394,213,17
-Adams,05 Decatur 1,U.S. Senate,,,DEM,Valerie McCRAY,330,209,100,21
-Adams,05 Decatur 1,U.S. Senate,,,LBT,Andrew HORNING,34,19,15,0
-Adams,05 Decatur 1,U.S. Senate,,,,Write-In,0,0,0,0
-Adams,05 Decatur 1,Governor,,,DEM,Jennifer G. McCORMICK / Terry GOODIN,407,263,124,20
-Adams,05 Decatur 1,Governor,,,LBT,Donald RAINWATER / Tonya HUDSON,55,26,29,0
-Adams,05 Decatur 1,Governor,,,,Write-In,0,0,0,0
-Adams,05 Decatur 1,Attorney General,,,REP,Todd ROKITA,623,389,220,14
-Adams,05 Decatur 1,Attorney General,,,DEM,Destiny WELLS,364,239,105,20
-Adams,05 Decatur 1,U.S. House,3,,REP,Marlin A. STUTZMAN,660,414,230,16
-Adams,05 Decatur 1,U.S. House,3,,DEM,Kiley M. ADOLPH,350,227,104,19
-Adams,05 Decatur 1,U.S. House,3,,LBT,Jarrad LANCASTER,45,24,20,1
-Adams,05 Decatur 1,U.S. House,3,,,Write-In,0,0,0,0
-Adams,05 Decatur 1,State House,79,,REP,Matthew S. LEHMAN,795,486,290,19
-Adams,05 Decatur 1,Judge of the Circuit Court 26th Judicial,,,REP,Chad E. KUKELHAN,833,519,294,20
-Adams,05 Decatur 1,County Auditor,,,REP,Tony L. MELLENCAMP,830,521,293,16
-Adams,05 Decatur 1,County Recorder,,,REP,Thomas R KRUECKEBERG,819,506,296,17
-Adams,05 Decatur 1,County Treasurer,,,REP,Edgar B. (Ed) DYER,812,498,297,17
-Adams,05 Decatur 1,County Coroner,,,REP,Monica FENNIG,812,505,292,15
-Adams,05 Decatur 1,County Commissioner,1,,REP,Stan A STOPPENHAGEN,826,523,286,17
-Adams,05 Decatur 1,County Commissioner,3,,REP,Douglas L. BAUMAN,773,482,276,15
-Adams,05 Decatur 1,County Council Member,At Large,,REP,Dennis C. BLUHM,471,303,157,11
-Adams,05 Decatur 1,County Council Member,At Large,,REP,John P. SUMMERS,514,338,167,9
-Adams,05 Decatur 1,County Council Member,At Large,,REP,Jim VOGLEWEDE,509,310,190,9
-Adams,05 Decatur 1,North Adams Community SB,1,,,Eric W ALLMON,341,218,115,8
-Adams,05 Decatur 1,North Adams Community SB,1,,,Joel A. MILLER,431,284,137,10
-Adams,05 Decatur 1,North Adams Community SB,1,,,Wylie SIRK,432,269,157,6
-Adams,05 Decatur 1,North Adams Community SB,2,,,Jill COLCLASURE,516,333,173,10
-Adams,05 Decatur 1,North Adams Community SB,2,,,Darlene Hebble JUENGEL,411,262,141,8
-Adams,05 Decatur 1,North Adams Community SB,2,,,Eric SOMMERS,280,177,99,4
-Adams,05 Decatur 1,IN Supreme Court-Rush,,,,Yes,568,365,196,7
-Adams,05 Decatur 1,IN Supreme Court-Rush,,,,No,267,164,92,11
-Adams,05 Decatur 1,IN Supreme Court-Massa,,,,Yes,571,363,202,6
-Adams,05 Decatur 1,IN Supreme Court-Massa,,,,No,262,166,87,9
-Adams,05 Decatur 1,IN Supreme Court-Molter,,,,Yes,572,366,200,6
-Adams,05 Decatur 1,IN Supreme Court-Molter,,,,No,259,161,88,10
-Adams,05 Decatur 1,Court of Appeals Dist 4-Pyle III,,,,Yes,555,358,191,6
-Adams,05 Decatur 1,Court of Appeals Dist 4-Pyle III,,,,No,269,163,96,10
+Adams,05 Decatur 1,Public Question-Const Amendment,,1,,Yes,492,308,167,17
+Adams,05 Decatur 1,Public Question-Const Amendment,,1,,No,475,305,164,6
+Adams,05 Decatur 1,President,,1,REP,Donald J. TRUMP / JD VANCE,685,424,248,13
+Adams,05 Decatur 1,President,,1,DEM,Kamala D. HARRIS / Tim WALZ,395,255,118,22
+Adams,05 Decatur 1,President,,1,LBT,Chase OLIVER / Mike terr MATT,18,11,6,1
+Adams,05 Decatur 1,President,,1,WTP,Robert F. KENNEDY JR. / Nichole SHANAHAN,15,6,7,2
+Adams,05 Decatur 1,President,,1,,Write-In,1,0,1,0
+Adams,05 Decatur 1,U.S. Senate,,1,REP,Jim BANKS,624,394,213,17
+Adams,05 Decatur 1,U.S. Senate,,1,DEM,Valerie McCRAY,330,209,100,21
+Adams,05 Decatur 1,U.S. Senate,,1,LBT,Andrew HORNING,34,19,15,0
+Adams,05 Decatur 1,U.S. Senate,,1,,Write-In,0,0,0,0
+Adams,05 Decatur 1,Governor,,1,DEM,Jennifer G. McCORMICK / Terry GOODIN,407,263,124,20
+Adams,05 Decatur 1,Governor,,1,LBT,Donald RAINWATER / Tonya HUDSON,55,26,29,0
+Adams,05 Decatur 1,Governor,,1,,Write-In,0,0,0,0
+Adams,05 Decatur 1,Attorney General,,1,REP,Todd ROKITA,623,389,220,14
+Adams,05 Decatur 1,Attorney General,,1,DEM,Destiny WELLS,364,239,105,20
+Adams,05 Decatur 1,U.S. House,3,1,REP,Marlin A. STUTZMAN,660,414,230,16
+Adams,05 Decatur 1,U.S. House,3,1,DEM,Kiley M. ADOLPH,350,227,104,19
+Adams,05 Decatur 1,U.S. House,3,1,LBT,Jarrad LANCASTER,45,24,20,1
+Adams,05 Decatur 1,U.S. House,3,1,,Write-In,0,0,0,0
+Adams,05 Decatur 1,State House,79,1,REP,Matthew S. LEHMAN,795,486,290,19
+Adams,05 Decatur 1,Judge of the Circuit Court 26th Judicial,,1,REP,Chad E. KUKELHAN,833,519,294,20
+Adams,05 Decatur 1,County Auditor,,1,REP,Tony L. MELLENCAMP,830,521,293,16
+Adams,05 Decatur 1,County Recorder,,1,REP,Thomas R KRUECKEBERG,819,506,296,17
+Adams,05 Decatur 1,County Treasurer,,1,REP,Edgar B. (Ed) DYER,812,498,297,17
+Adams,05 Decatur 1,County Coroner,,1,REP,Monica FENNIG,812,505,292,15
+Adams,05 Decatur 1,County Commissioner,1,1,REP,Stan A STOPPENHAGEN,826,523,286,17
+Adams,05 Decatur 1,County Commissioner,3,1,REP,Douglas L. BAUMAN,773,482,276,15
+Adams,05 Decatur 1,County Council Member,At Large,3,REP,Dennis C. BLUHM,471,303,157,11
+Adams,05 Decatur 1,County Council Member,At Large,3,REP,John P. SUMMERS,514,338,167,9
+Adams,05 Decatur 1,County Council Member,At Large,3,REP,Jim VOGLEWEDE,509,310,190,9
+Adams,05 Decatur 1,North Adams Community SB,1,2,,Eric W ALLMON,341,218,115,8
+Adams,05 Decatur 1,North Adams Community SB,1,2,,Joel A. MILLER,431,284,137,10
+Adams,05 Decatur 1,North Adams Community SB,1,2,,Wylie SIRK,432,269,157,6
+Adams,05 Decatur 1,North Adams Community SB,2,2,,Jill COLCLASURE,516,333,173,10
+Adams,05 Decatur 1,North Adams Community SB,2,2,,Darlene Hebble JUENGEL,411,262,141,8
+Adams,05 Decatur 1,North Adams Community SB,2,2,,Eric SOMMERS,280,177,99,4
+Adams,05 Decatur 1,IN Supreme Court-Rush,,1,,Yes,568,365,196,7
+Adams,05 Decatur 1,IN Supreme Court-Rush,,1,,No,267,164,92,11
+Adams,05 Decatur 1,IN Supreme Court-Massa,,1,,Yes,571,363,202,6
+Adams,05 Decatur 1,IN Supreme Court-Massa,,1,,No,262,166,87,9
+Adams,05 Decatur 1,IN Supreme Court-Molter,,1,,Yes,572,366,200,6
+Adams,05 Decatur 1,IN Supreme Court-Molter,,1,,No,259,161,88,10
+Adams,05 Decatur 1,Court of Appeals Dist 4-Pyle III,,1,,Yes,555,358,191,6
+Adams,05 Decatur 1,Court of Appeals Dist 4-Pyle III,,1,,No,269,163,96,10
 Adams,05 Decatur 1,Straight Party,,,DEM,,71,,,
 Adams,05 Decatur 1,Straight Party,,,REP,,218,,,
 Adams,06 Decatur 2,Registered Voters,,,,,1637,,,
 Adams,06 Decatur 2,Ballots Cast,,,,,1049,,,
-Adams,06 Decatur 2,Public Question-Const Amendment,,,,Yes,450,282,161,7
-Adams,06 Decatur 2,Public Question-Const Amendment,,,,No,403,256,125,22
-Adams,06 Decatur 2,President,,,REP,Donald J. TRUMP / JD VANCE,642,403,227,12
-Adams,06 Decatur 2,President,,,DEM,Kamala D. HARRIS / Tim WALZ,369,240,107,22
-Adams,06 Decatur 2,President,,,LBT,Chase OLIVER / Mike terr MATT,10,7,3,0
-Adams,06 Decatur 2,President,,,WTP,Robert F. KENNEDY JR. / Nichole SHANAHAN,11,6,5,0
-Adams,06 Decatur 2,President,,,,Write-In,3,1,2,0
-Adams,06 Decatur 2,U.S. Senate,,,REP,Jim BANKS,563,351,199,13
-Adams,06 Decatur 2,U.S. Senate,,,DEM,Valerie McCRAY,307,198,91,18
-Adams,06 Decatur 2,U.S. Senate,,,LBT,Andrew HORNING,26,15,9,2
-Adams,06 Decatur 2,U.S. Senate,,,,Write-In,0,0,0,0
-Adams,06 Decatur 2,Governor,,,DEM,Jennifer G. McCORMICK / Terry GOODIN,359,240,99,20
-Adams,06 Decatur 2,Governor,,,LBT,Donald RAINWATER / Tonya HUDSON,74,38,34,2
-Adams,06 Decatur 2,Governor,,,,Write-In,1,0,1,0
-Adams,06 Decatur 2,Attorney General,,,REP,Todd ROKITA,563,354,195,14
-Adams,06 Decatur 2,Attorney General,,,DEM,Destiny WELLS,356,229,108,19
-Adams,06 Decatur 2,U.S. House,3,,REP,Marlin A. STUTZMAN,604,389,201,14
-Adams,06 Decatur 2,U.S. House,3,,DEM,Kiley M. ADOLPH,322,210,97,15
-Adams,06 Decatur 2,U.S. House,3,,LBT,Jarrad LANCASTER,48,23,21,4
-Adams,06 Decatur 2,U.S. House,3,,,Write-In,0,0,0,0
-Adams,06 Decatur 2,State House,79,,REP,Matthew S. LEHMAN,712,435,254,23
-Adams,06 Decatur 2,Judge of the Circuit Court 26th Judicial,,,REP,Chad E. KUKELHAN,749,469,255,25
-Adams,06 Decatur 2,County Auditor,,,REP,Tony L. MELLENCAMP,731,455,253,23
-Adams,06 Decatur 2,County Recorder,,,REP,Thomas R KRUECKEBERG,725,447,255,23
-Adams,06 Decatur 2,County Treasurer,,,REP,Edgar B. (Ed) DYER,716,437,256,23
-Adams,06 Decatur 2,County Coroner,,,REP,Monica FENNIG,716,440,253,23
-Adams,06 Decatur 2,County Commissioner,1,,REP,Stan A STOPPENHAGEN,735,456,256,23
-Adams,06 Decatur 2,County Commissioner,3,,REP,Douglas L. BAUMAN,698,420,255,23
-Adams,06 Decatur 2,County Council Member,At Large,,REP,Dennis C. BLUHM,436,273,145,18
-Adams,06 Decatur 2,County Council Member,At Large,,REP,John P. SUMMERS,472,288,165,19
-Adams,06 Decatur 2,County Council Member,At Large,,REP,Jim VOGLEWEDE,444,269,156,19
-Adams,06 Decatur 2,North Adams Community SB,1,,,Eric W ALLMON,341,213,111,17
-Adams,06 Decatur 2,North Adams Community SB,1,,,Joel A. MILLER,382,234,131,17
-Adams,06 Decatur 2,North Adams Community SB,1,,,Wylie SIRK,337,204,120,13
-Adams,06 Decatur 2,North Adams Community SB,2,,,Jill COLCLASURE,467,295,155,17
-Adams,06 Decatur 2,North Adams Community SB,2,,,Darlene Hebble JUENGEL,360,234,110,16
-Adams,06 Decatur 2,North Adams Community SB,2,,,Eric SOMMERS,253,146,95,12
-Adams,06 Decatur 2,IN Supreme Court-Rush,,,,Yes,515,309,185,21
-Adams,06 Decatur 2,IN Supreme Court-Rush,,,,No,228,152,69,7
-Adams,06 Decatur 2,IN Supreme Court-Massa,,,,Yes,498,299,179,20
-Adams,06 Decatur 2,IN Supreme Court-Massa,,,,No,237,154,74,9
-Adams,06 Decatur 2,IN Supreme Court-Molter,,,,Yes,504,302,183,19
-Adams,06 Decatur 2,IN Supreme Court-Molter,,,,No,225,148,69,8
-Adams,06 Decatur 2,Court of Appeals Dist 4-Pyle III,,,,Yes,503,304,180,19
-Adams,06 Decatur 2,Court of Appeals Dist 4-Pyle III,,,,No,236,156,73,7
+Adams,06 Decatur 2,Public Question-Const Amendment,,1,,Yes,450,282,161,7
+Adams,06 Decatur 2,Public Question-Const Amendment,,1,,No,403,256,125,22
+Adams,06 Decatur 2,President,,1,REP,Donald J. TRUMP / JD VANCE,642,403,227,12
+Adams,06 Decatur 2,President,,1,DEM,Kamala D. HARRIS / Tim WALZ,369,240,107,22
+Adams,06 Decatur 2,President,,1,LBT,Chase OLIVER / Mike terr MATT,10,7,3,0
+Adams,06 Decatur 2,President,,1,WTP,Robert F. KENNEDY JR. / Nichole SHANAHAN,11,6,5,0
+Adams,06 Decatur 2,President,,1,,Write-In,3,1,2,0
+Adams,06 Decatur 2,U.S. Senate,,1,REP,Jim BANKS,563,351,199,13
+Adams,06 Decatur 2,U.S. Senate,,1,DEM,Valerie McCRAY,307,198,91,18
+Adams,06 Decatur 2,U.S. Senate,,1,LBT,Andrew HORNING,26,15,9,2
+Adams,06 Decatur 2,U.S. Senate,,1,,Write-In,0,0,0,0
+Adams,06 Decatur 2,Governor,,1,DEM,Jennifer G. McCORMICK / Terry GOODIN,359,240,99,20
+Adams,06 Decatur 2,Governor,,1,LBT,Donald RAINWATER / Tonya HUDSON,74,38,34,2
+Adams,06 Decatur 2,Governor,,1,,Write-In,1,0,1,0
+Adams,06 Decatur 2,Attorney General,,1,REP,Todd ROKITA,563,354,195,14
+Adams,06 Decatur 2,Attorney General,,1,DEM,Destiny WELLS,356,229,108,19
+Adams,06 Decatur 2,U.S. House,3,1,REP,Marlin A. STUTZMAN,604,389,201,14
+Adams,06 Decatur 2,U.S. House,3,1,DEM,Kiley M. ADOLPH,322,210,97,15
+Adams,06 Decatur 2,U.S. House,3,1,LBT,Jarrad LANCASTER,48,23,21,4
+Adams,06 Decatur 2,U.S. House,3,1,,Write-In,0,0,0,0
+Adams,06 Decatur 2,State House,79,1,REP,Matthew S. LEHMAN,712,435,254,23
+Adams,06 Decatur 2,Judge of the Circuit Court 26th Judicial,,1,REP,Chad E. KUKELHAN,749,469,255,25
+Adams,06 Decatur 2,County Auditor,,1,REP,Tony L. MELLENCAMP,731,455,253,23
+Adams,06 Decatur 2,County Recorder,,1,REP,Thomas R KRUECKEBERG,725,447,255,23
+Adams,06 Decatur 2,County Treasurer,,1,REP,Edgar B. (Ed) DYER,716,437,256,23
+Adams,06 Decatur 2,County Coroner,,1,REP,Monica FENNIG,716,440,253,23
+Adams,06 Decatur 2,County Commissioner,1,1,REP,Stan A STOPPENHAGEN,735,456,256,23
+Adams,06 Decatur 2,County Commissioner,3,1,REP,Douglas L. BAUMAN,698,420,255,23
+Adams,06 Decatur 2,County Council Member,At Large,3,REP,Dennis C. BLUHM,436,273,145,18
+Adams,06 Decatur 2,County Council Member,At Large,3,REP,John P. SUMMERS,472,288,165,19
+Adams,06 Decatur 2,County Council Member,At Large,3,REP,Jim VOGLEWEDE,444,269,156,19
+Adams,06 Decatur 2,North Adams Community SB,1,2,,Eric W ALLMON,341,213,111,17
+Adams,06 Decatur 2,North Adams Community SB,1,2,,Joel A. MILLER,382,234,131,17
+Adams,06 Decatur 2,North Adams Community SB,1,2,,Wylie SIRK,337,204,120,13
+Adams,06 Decatur 2,North Adams Community SB,2,2,,Jill COLCLASURE,467,295,155,17
+Adams,06 Decatur 2,North Adams Community SB,2,2,,Darlene Hebble JUENGEL,360,234,110,16
+Adams,06 Decatur 2,North Adams Community SB,2,2,,Eric SOMMERS,253,146,95,12
+Adams,06 Decatur 2,IN Supreme Court-Rush,,1,,Yes,515,309,185,21
+Adams,06 Decatur 2,IN Supreme Court-Rush,,1,,No,228,152,69,7
+Adams,06 Decatur 2,IN Supreme Court-Massa,,1,,Yes,498,299,179,20
+Adams,06 Decatur 2,IN Supreme Court-Massa,,1,,No,237,154,74,9
+Adams,06 Decatur 2,IN Supreme Court-Molter,,1,,Yes,504,302,183,19
+Adams,06 Decatur 2,IN Supreme Court-Molter,,1,,No,225,148,69,8
+Adams,06 Decatur 2,Court of Appeals Dist 4-Pyle III,,1,,Yes,503,304,180,19
+Adams,06 Decatur 2,Court of Appeals Dist 4-Pyle III,,1,,No,236,156,73,7
 Adams,06 Decatur 2,Straight Party,,,DEM,,93,,,
 Adams,06 Decatur 2,Straight Party,,,REP,,207,,,
 Adams,07 Decatur 3,Registered Voters,,,,,856,,,
 Adams,07 Decatur 3,Ballots Cast,,,,,527,,,
-Adams,07 Decatur 3,Public Question-Const Amendment,,,,Yes,228,126,97,5
-Adams,07 Decatur 3,Public Question-Const Amendment,,,,No,210,140,61,9
-Adams,07 Decatur 3,President,,,REP,Donald J. TRUMP / JD VANCE,339,201,125,13
-Adams,07 Decatur 3,President,,,DEM,Kamala D. HARRIS / Tim WALZ,168,111,51,6
-Adams,07 Decatur 3,President,,,LBT,Chase OLIVER / Mike terr MATT,7,4,3,0
-Adams,07 Decatur 3,President,,,WTP,Robert F. KENNEDY JR. / Nichole SHANAHAN,8,4,4,0
-Adams,07 Decatur 3,President,,,,Write-In,1,0,1,0
-Adams,07 Decatur 3,U.S. Senate,,,REP,Jim BANKS,291,176,106,9
-Adams,07 Decatur 3,U.S. Senate,,,DEM,Valerie McCRAY,148,90,51,7
-Adams,07 Decatur 3,U.S. Senate,,,LBT,Andrew HORNING,18,10,8,0
-Adams,07 Decatur 3,U.S. Senate,,,,Write-In,0,0,0,0
-Adams,07 Decatur 3,Governor,,,DEM,Jennifer G. McCORMICK / Terry GOODIN,169,105,57,7
-Adams,07 Decatur 3,Governor,,,LBT,Donald RAINWATER / Tonya HUDSON,44,21,23,0
-Adams,07 Decatur 3,Governor,,,,Write-In,0,0,0,0
-Adams,07 Decatur 3,Attorney General,,,REP,Todd ROKITA,288,176,103,9
-Adams,07 Decatur 3,Attorney General,,,DEM,Destiny WELLS,158,99,53,6
-Adams,07 Decatur 3,U.S. House,3,,REP,Marlin A. STUTZMAN,307,186,111,10
-Adams,07 Decatur 3,U.S. House,3,,DEM,Kiley M. ADOLPH,154,98,50,6
-Adams,07 Decatur 3,U.S. House,3,,LBT,Jarrad LANCASTER,20,9,11,0
-Adams,07 Decatur 3,U.S. House,3,,,Write-In,1,1,0,0
-Adams,07 Decatur 3,State House,79,,REP,Matthew S. LEHMAN,378,219,146,13
-Adams,07 Decatur 3,Judge of the Circuit Court 26th Judicial,,,REP,Chad E. KUKELHAN,382,226,145,11
-Adams,07 Decatur 3,County Auditor,,,REP,Tony L. MELLENCAMP,397,234,151,12
-Adams,07 Decatur 3,County Recorder,,,REP,Thomas R KRUECKEBERG,391,229,150,12
-Adams,07 Decatur 3,County Treasurer,,,REP,Edgar B. (Ed) DYER,385,232,141,12
-Adams,07 Decatur 3,County Coroner,,,REP,Monica FENNIG,383,224,147,12
-Adams,07 Decatur 3,County Commissioner,1,,REP,Stan A STOPPENHAGEN,396,238,146,12
-Adams,07 Decatur 3,County Commissioner,3,,REP,Douglas L. BAUMAN,372,212,146,14
-Adams,07 Decatur 3,County Council Member,At Large,,REP,Dennis C. BLUHM,228,130,84,14
-Adams,07 Decatur 3,County Council Member,At Large,,REP,John P. SUMMERS,234,136,89,9
-Adams,07 Decatur 3,County Council Member,At Large,,REP,Jim VOGLEWEDE,250,149,89,12
-Adams,07 Decatur 3,North Adams Community SB,1,,,Eric W ALLMON,195,116,67,12
-Adams,07 Decatur 3,North Adams Community SB,1,,,Joel A. MILLER,203,119,77,7
-Adams,07 Decatur 3,North Adams Community SB,1,,,Wylie SIRK,154,93,53,8
-Adams,07 Decatur 3,North Adams Community SB,2,,,Jill COLCLASURE,250,152,86,12
-Adams,07 Decatur 3,North Adams Community SB,2,,,Darlene Hebble JUENGEL,170,105,60,5
-Adams,07 Decatur 3,North Adams Community SB,2,,,Eric SOMMERS,128,67,51,10
-Adams,07 Decatur 3,IN Supreme Court-Rush,,,,Yes,276,165,99,12
-Adams,07 Decatur 3,IN Supreme Court-Rush,,,,No,111,67,39,5
-Adams,07 Decatur 3,IN Supreme Court-Massa,,,,Yes,267,162,94,11
-Adams,07 Decatur 3,IN Supreme Court-Massa,,,,No,117,67,44,6
-Adams,07 Decatur 3,IN Supreme Court-Molter,,,,Yes,270,165,93,12
-Adams,07 Decatur 3,IN Supreme Court-Molter,,,,No,114,68,41,5
-Adams,07 Decatur 3,Court of Appeals Dist 4-Pyle III,,,,Yes,272,167,92,13
-Adams,07 Decatur 3,Court of Appeals Dist 4-Pyle III,,,,No,112,63,45,4
+Adams,07 Decatur 3,Public Question-Const Amendment,,1,,Yes,228,126,97,5
+Adams,07 Decatur 3,Public Question-Const Amendment,,1,,No,210,140,61,9
+Adams,07 Decatur 3,President,,1,REP,Donald J. TRUMP / JD VANCE,339,201,125,13
+Adams,07 Decatur 3,President,,1,DEM,Kamala D. HARRIS / Tim WALZ,168,111,51,6
+Adams,07 Decatur 3,President,,1,LBT,Chase OLIVER / Mike terr MATT,7,4,3,0
+Adams,07 Decatur 3,President,,1,WTP,Robert F. KENNEDY JR. / Nichole SHANAHAN,8,4,4,0
+Adams,07 Decatur 3,President,,1,,Write-In,1,0,1,0
+Adams,07 Decatur 3,U.S. Senate,,1,REP,Jim BANKS,291,176,106,9
+Adams,07 Decatur 3,U.S. Senate,,1,DEM,Valerie McCRAY,148,90,51,7
+Adams,07 Decatur 3,U.S. Senate,,1,LBT,Andrew HORNING,18,10,8,0
+Adams,07 Decatur 3,U.S. Senate,,1,,Write-In,0,0,0,0
+Adams,07 Decatur 3,Governor,,1,DEM,Jennifer G. McCORMICK / Terry GOODIN,169,105,57,7
+Adams,07 Decatur 3,Governor,,1,LBT,Donald RAINWATER / Tonya HUDSON,44,21,23,0
+Adams,07 Decatur 3,Governor,,1,,Write-In,0,0,0,0
+Adams,07 Decatur 3,Attorney General,,1,REP,Todd ROKITA,288,176,103,9
+Adams,07 Decatur 3,Attorney General,,1,DEM,Destiny WELLS,158,99,53,6
+Adams,07 Decatur 3,U.S. House,3,1,REP,Marlin A. STUTZMAN,307,186,111,10
+Adams,07 Decatur 3,U.S. House,3,1,DEM,Kiley M. ADOLPH,154,98,50,6
+Adams,07 Decatur 3,U.S. House,3,1,LBT,Jarrad LANCASTER,20,9,11,0
+Adams,07 Decatur 3,U.S. House,3,1,,Write-In,1,1,0,0
+Adams,07 Decatur 3,State House,79,1,REP,Matthew S. LEHMAN,378,219,146,13
+Adams,07 Decatur 3,Judge of the Circuit Court 26th Judicial,,1,REP,Chad E. KUKELHAN,382,226,145,11
+Adams,07 Decatur 3,County Auditor,,1,REP,Tony L. MELLENCAMP,397,234,151,12
+Adams,07 Decatur 3,County Recorder,,1,REP,Thomas R KRUECKEBERG,391,229,150,12
+Adams,07 Decatur 3,County Treasurer,,1,REP,Edgar B. (Ed) DYER,385,232,141,12
+Adams,07 Decatur 3,County Coroner,,1,REP,Monica FENNIG,383,224,147,12
+Adams,07 Decatur 3,County Commissioner,1,1,REP,Stan A STOPPENHAGEN,396,238,146,12
+Adams,07 Decatur 3,County Commissioner,3,1,REP,Douglas L. BAUMAN,372,212,146,14
+Adams,07 Decatur 3,County Council Member,At Large,3,REP,Dennis C. BLUHM,228,130,84,14
+Adams,07 Decatur 3,County Council Member,At Large,3,REP,John P. SUMMERS,234,136,89,9
+Adams,07 Decatur 3,County Council Member,At Large,3,REP,Jim VOGLEWEDE,250,149,89,12
+Adams,07 Decatur 3,North Adams Community SB,1,2,,Eric W ALLMON,195,116,67,12
+Adams,07 Decatur 3,North Adams Community SB,1,2,,Joel A. MILLER,203,119,77,7
+Adams,07 Decatur 3,North Adams Community SB,1,2,,Wylie SIRK,154,93,53,8
+Adams,07 Decatur 3,North Adams Community SB,2,2,,Jill COLCLASURE,250,152,86,12
+Adams,07 Decatur 3,North Adams Community SB,2,2,,Darlene Hebble JUENGEL,170,105,60,5
+Adams,07 Decatur 3,North Adams Community SB,2,2,,Eric SOMMERS,128,67,51,10
+Adams,07 Decatur 3,IN Supreme Court-Rush,,1,,Yes,276,165,99,12
+Adams,07 Decatur 3,IN Supreme Court-Rush,,1,,No,111,67,39,5
+Adams,07 Decatur 3,IN Supreme Court-Massa,,1,,Yes,267,162,94,11
+Adams,07 Decatur 3,IN Supreme Court-Massa,,1,,No,117,67,44,6
+Adams,07 Decatur 3,IN Supreme Court-Molter,,1,,Yes,270,165,93,12
+Adams,07 Decatur 3,IN Supreme Court-Molter,,1,,No,114,68,41,5
+Adams,07 Decatur 3,Court of Appeals Dist 4-Pyle III,,1,,Yes,272,167,92,13
+Adams,07 Decatur 3,Court of Appeals Dist 4-Pyle III,,1,,No,112,63,45,4
 Adams,07 Decatur 3,Straight Party,,,DEM,,29,,,
 Adams,07 Decatur 3,Straight Party,,,REP,,106,,,
 Adams,08 Decatur 4,Registered Voters,,,,,894,,,
 Adams,08 Decatur 4,Ballots Cast,,,,,714,,,
-Adams,08 Decatur 4,Public Question-Const Amendment,,,,Yes,337,223,105,9
-Adams,08 Decatur 4,Public Question-Const Amendment,,,,No,263,178,80,5
-Adams,08 Decatur 4,President,,,REP,Donald J. TRUMP / JD VANCE,512,343,158,11
-Adams,08 Decatur 4,President,,,DEM,Kamala D. HARRIS / Tim WALZ,182,124,47,11
-Adams,08 Decatur 4,President,,,LBT,Chase OLIVER / Mike terr MATT,1,0,1,0
-Adams,08 Decatur 4,President,,,WTP,Robert F. KENNEDY JR. / Nichole SHANAHAN,6,5,0,1
-Adams,08 Decatur 4,President,,,,Write-In,2,2,0,0
-Adams,08 Decatur 4,U.S. Senate,,,REP,Jim BANKS,440,290,139,11
-Adams,08 Decatur 4,U.S. Senate,,,DEM,Valerie McCRAY,161,110,41,10
-Adams,08 Decatur 4,U.S. Senate,,,LBT,Andrew HORNING,9,4,4,1
-Adams,08 Decatur 4,U.S. Senate,,,,Write-In,1,0,1,0
-Adams,08 Decatur 4,Governor,,,DEM,Jennifer G. McCORMICK / Terry GOODIN,194,136,49,9
-Adams,08 Decatur 4,Governor,,,LBT,Donald RAINWATER / Tonya HUDSON,30,14,15,1
-Adams,08 Decatur 4,Governor,,,,Write-In,0,0,0,0
-Adams,08 Decatur 4,Attorney General,,,REP,Todd ROKITA,447,299,137,11
-Adams,08 Decatur 4,Attorney General,,,DEM,Destiny WELLS,189,128,50,11
-Adams,08 Decatur 4,U.S. House,3,,REP,Marlin A. STUTZMAN,479,317,150,12
-Adams,08 Decatur 4,U.S. House,3,,DEM,Kiley M. ADOLPH,169,115,44,10
-Adams,08 Decatur 4,U.S. House,3,,LBT,Jarrad LANCASTER,14,8,5,1
-Adams,08 Decatur 4,U.S. House,3,,,Write-In,0,0,0,0
-Adams,08 Decatur 4,State House,79,,REP,Matthew S. LEHMAN,510,336,161,13
-Adams,08 Decatur 4,Judge of the Circuit Court 26th Judicial,,,REP,Chad E. KUKELHAN,549,365,171,13
-Adams,08 Decatur 4,County Auditor,,,REP,Tony L. MELLENCAMP,546,366,168,12
-Adams,08 Decatur 4,County Recorder,,,REP,Thomas R KRUECKEBERG,550,371,167,12
-Adams,08 Decatur 4,County Treasurer,,,REP,Edgar B. (Ed) DYER,535,356,166,13
-Adams,08 Decatur 4,County Coroner,,,REP,Monica FENNIG,535,355,167,13
-Adams,08 Decatur 4,County Commissioner,1,,REP,Stan A STOPPENHAGEN,539,358,168,13
-Adams,08 Decatur 4,County Commissioner,3,,REP,Douglas L. BAUMAN,508,335,162,11
-Adams,08 Decatur 4,County Council Member,At Large,,REP,Dennis C. BLUHM,319,226,85,8
-Adams,08 Decatur 4,County Council Member,At Large,,REP,John P. SUMMERS,444,294,139,11
-Adams,08 Decatur 4,County Council Member,At Large,,REP,Jim VOGLEWEDE,343,237,98,8
-Adams,08 Decatur 4,North Adams Community SB,1,,,Eric W ALLMON,254,177,72,5
-Adams,08 Decatur 4,North Adams Community SB,1,,,Joel A. MILLER,251,176,70,5
-Adams,08 Decatur 4,North Adams Community SB,1,,,Wylie SIRK,319,213,98,8
-Adams,08 Decatur 4,North Adams Community SB,2,,,Jill COLCLASURE,390,274,106,10
-Adams,08 Decatur 4,North Adams Community SB,2,,,Darlene Hebble JUENGEL,219,143,68,8
-Adams,08 Decatur 4,North Adams Community SB,2,,,Eric SOMMERS,211,151,58,2
-Adams,08 Decatur 4,IN Supreme Court-Rush,,,,Yes,364,248,107,9
-Adams,08 Decatur 4,IN Supreme Court-Rush,,,,No,157,100,52,5
-Adams,08 Decatur 4,IN Supreme Court-Massa,,,,Yes,369,248,113,8
-Adams,08 Decatur 4,IN Supreme Court-Massa,,,,No,151,100,46,5
-Adams,08 Decatur 4,IN Supreme Court-Molter,,,,Yes,364,245,109,10
-Adams,08 Decatur 4,IN Supreme Court-Molter,,,,No,143,96,43,4
-Adams,08 Decatur 4,Court of Appeals Dist 4-Pyle III,,,,Yes,361,244,109,8
-Adams,08 Decatur 4,Court of Appeals Dist 4-Pyle III,,,,No,148,98,46,4
+Adams,08 Decatur 4,Public Question-Const Amendment,,1,,Yes,337,223,105,9
+Adams,08 Decatur 4,Public Question-Const Amendment,,1,,No,263,178,80,5
+Adams,08 Decatur 4,President,,1,REP,Donald J. TRUMP / JD VANCE,512,343,158,11
+Adams,08 Decatur 4,President,,1,DEM,Kamala D. HARRIS / Tim WALZ,182,124,47,11
+Adams,08 Decatur 4,President,,1,LBT,Chase OLIVER / Mike terr MATT,1,0,1,0
+Adams,08 Decatur 4,President,,1,WTP,Robert F. KENNEDY JR. / Nichole SHANAHAN,6,5,0,1
+Adams,08 Decatur 4,President,,1,,Write-In,2,2,0,0
+Adams,08 Decatur 4,U.S. Senate,,1,REP,Jim BANKS,440,290,139,11
+Adams,08 Decatur 4,U.S. Senate,,1,DEM,Valerie McCRAY,161,110,41,10
+Adams,08 Decatur 4,U.S. Senate,,1,LBT,Andrew HORNING,9,4,4,1
+Adams,08 Decatur 4,U.S. Senate,,1,,Write-In,1,0,1,0
+Adams,08 Decatur 4,Governor,,1,DEM,Jennifer G. McCORMICK / Terry GOODIN,194,136,49,9
+Adams,08 Decatur 4,Governor,,1,LBT,Donald RAINWATER / Tonya HUDSON,30,14,15,1
+Adams,08 Decatur 4,Governor,,1,,Write-In,0,0,0,0
+Adams,08 Decatur 4,Attorney General,,1,REP,Todd ROKITA,447,299,137,11
+Adams,08 Decatur 4,Attorney General,,1,DEM,Destiny WELLS,189,128,50,11
+Adams,08 Decatur 4,U.S. House,3,1,REP,Marlin A. STUTZMAN,479,317,150,12
+Adams,08 Decatur 4,U.S. House,3,1,DEM,Kiley M. ADOLPH,169,115,44,10
+Adams,08 Decatur 4,U.S. House,3,1,LBT,Jarrad LANCASTER,14,8,5,1
+Adams,08 Decatur 4,U.S. House,3,1,,Write-In,0,0,0,0
+Adams,08 Decatur 4,State House,79,1,REP,Matthew S. LEHMAN,510,336,161,13
+Adams,08 Decatur 4,Judge of the Circuit Court 26th Judicial,,1,REP,Chad E. KUKELHAN,549,365,171,13
+Adams,08 Decatur 4,County Auditor,,1,REP,Tony L. MELLENCAMP,546,366,168,12
+Adams,08 Decatur 4,County Recorder,,1,REP,Thomas R KRUECKEBERG,550,371,167,12
+Adams,08 Decatur 4,County Treasurer,,1,REP,Edgar B. (Ed) DYER,535,356,166,13
+Adams,08 Decatur 4,County Coroner,,1,REP,Monica FENNIG,535,355,167,13
+Adams,08 Decatur 4,County Commissioner,1,1,REP,Stan A STOPPENHAGEN,539,358,168,13
+Adams,08 Decatur 4,County Commissioner,3,1,REP,Douglas L. BAUMAN,508,335,162,11
+Adams,08 Decatur 4,County Council Member,At Large,3,REP,Dennis C. BLUHM,319,226,85,8
+Adams,08 Decatur 4,County Council Member,At Large,3,REP,John P. SUMMERS,444,294,139,11
+Adams,08 Decatur 4,County Council Member,At Large,3,REP,Jim VOGLEWEDE,343,237,98,8
+Adams,08 Decatur 4,North Adams Community SB,1,2,,Eric W ALLMON,254,177,72,5
+Adams,08 Decatur 4,North Adams Community SB,1,2,,Joel A. MILLER,251,176,70,5
+Adams,08 Decatur 4,North Adams Community SB,1,2,,Wylie SIRK,319,213,98,8
+Adams,08 Decatur 4,North Adams Community SB,2,2,,Jill COLCLASURE,390,274,106,10
+Adams,08 Decatur 4,North Adams Community SB,2,2,,Darlene Hebble JUENGEL,219,143,68,8
+Adams,08 Decatur 4,North Adams Community SB,2,2,,Eric SOMMERS,211,151,58,2
+Adams,08 Decatur 4,IN Supreme Court-Rush,,1,,Yes,364,248,107,9
+Adams,08 Decatur 4,IN Supreme Court-Rush,,1,,No,157,100,52,5
+Adams,08 Decatur 4,IN Supreme Court-Massa,,1,,Yes,369,248,113,8
+Adams,08 Decatur 4,IN Supreme Court-Massa,,1,,No,151,100,46,5
+Adams,08 Decatur 4,IN Supreme Court-Molter,,1,,Yes,364,245,109,10
+Adams,08 Decatur 4,IN Supreme Court-Molter,,1,,No,143,96,43,4
+Adams,08 Decatur 4,Court of Appeals Dist 4-Pyle III,,1,,Yes,361,244,109,8
+Adams,08 Decatur 4,Court of Appeals Dist 4-Pyle III,,1,,No,148,98,46,4
 Adams,08 Decatur 4,Straight Party,,,DEM,,37,,,
 Adams,08 Decatur 4,Straight Party,,,REP,,124,,,
 Adams,09 Decatur 5,Registered Voters,,,,,1681,,,
 Adams,09 Decatur 5,Ballots Cast,,,,,1124,,,
-Adams,09 Decatur 5,Public Question-Const Amendment,,,,Yes,512,315,187,10
-Adams,09 Decatur 5,Public Question-Const Amendment,,,,No,426,278,134,14
-Adams,09 Decatur 5,President,,,REP,Donald J. TRUMP / JD VANCE,744,447,283,14
-Adams,09 Decatur 5,President,,,DEM,Kamala D. HARRIS / Tim WALZ,345,232,92,21
-Adams,09 Decatur 5,President,,,LBT,Chase OLIVER / Mike terr MATT,9,4,5,0
-Adams,09 Decatur 5,President,,,WTP,Robert F. KENNEDY JR. / Nichole SHANAHAN,11,7,4,0
-Adams,09 Decatur 5,President,,,,Write-In,3,3,0,0
-Adams,09 Decatur 5,U.S. Senate,,,REP,Jim BANKS,642,390,238,14
-Adams,09 Decatur 5,U.S. Senate,,,DEM,Valerie McCRAY,297,197,82,18
-Adams,09 Decatur 5,U.S. Senate,,,LBT,Andrew HORNING,33,15,18,0
-Adams,09 Decatur 5,U.S. Senate,,,,Write-In,0,0,0,0
-Adams,09 Decatur 5,Governor,,,DEM,Jennifer G. McCORMICK / Terry GOODIN,355,243,92,20
-Adams,09 Decatur 5,Governor,,,LBT,Donald RAINWATER / Tonya HUDSON,82,42,40,0
-Adams,09 Decatur 5,Governor,,,,Write-In,0,0,0,0
-Adams,09 Decatur 5,Attorney General,,,REP,Todd ROKITA,656,398,245,13
-Adams,09 Decatur 5,Attorney General,,,DEM,Destiny WELLS,334,225,89,20
-Adams,09 Decatur 5,U.S. House,3,,REP,Marlin A. STUTZMAN,695,425,258,12
-Adams,09 Decatur 5,U.S. House,3,,DEM,Kiley M. ADOLPH,319,218,80,21
-Adams,09 Decatur 5,U.S. House,3,,LBT,Jarrad LANCASTER,45,18,27,0
-Adams,09 Decatur 5,U.S. House,3,,,Write-In,0,0,0,0
-Adams,09 Decatur 5,State House,79,,REP,Matthew S. LEHMAN,805,483,302,20
-Adams,09 Decatur 5,Judge of the Circuit Court 26th Judicial,,,REP,Chad E. KUKELHAN,853,522,309,22
-Adams,09 Decatur 5,County Auditor,,,REP,Tony L. MELLENCAMP,844,519,305,20
-Adams,09 Decatur 5,County Recorder,,,REP,Thomas R KRUECKEBERG,835,511,303,21
-Adams,09 Decatur 5,County Treasurer,,,REP,Edgar B. (Ed) DYER,826,507,298,21
-Adams,09 Decatur 5,County Coroner,,,REP,Monica FENNIG,835,512,304,19
-Adams,09 Decatur 5,County Commissioner,1,,REP,Stan A STOPPENHAGEN,826,502,302,22
-Adams,09 Decatur 5,County Commissioner,3,,REP,Douglas L. BAUMAN,807,489,298,20
-Adams,09 Decatur 5,County Council Member,At Large,,REP,Dennis C. BLUHM,463,277,167,19
-Adams,09 Decatur 5,County Council Member,At Large,,REP,John P. SUMMERS,524,326,178,20
-Adams,09 Decatur 5,County Council Member,At Large,,REP,Jim VOGLEWEDE,494,303,175,16
-Adams,09 Decatur 5,North Adams Community SB,1,,,Eric W ALLMON,350,204,136,10
-Adams,09 Decatur 5,North Adams Community SB,1,,,Joel A. MILLER,420,258,144,18
-Adams,09 Decatur 5,North Adams Community SB,1,,,Wylie SIRK,390,255,120,15
-Adams,09 Decatur 5,North Adams Community SB,2,,,Jill COLCLASURE,524,311,196,17
-Adams,09 Decatur 5,North Adams Community SB,2,,,Darlene Hebble JUENGEL,369,239,114,16
-Adams,09 Decatur 5,North Adams Community SB,2,,,Eric SOMMERS,290,175,105,10
-Adams,09 Decatur 5,IN Supreme Court-Rush,,,,Yes,600,375,201,24
-Adams,09 Decatur 5,IN Supreme Court-Rush,,,,No,222,142,79,1
-Adams,09 Decatur 5,IN Supreme Court-Massa,,,,Yes,581,363,196,22
-Adams,09 Decatur 5,IN Supreme Court-Massa,,,,No,232,148,81,3
-Adams,09 Decatur 5,IN Supreme Court-Molter,,,,Yes,565,349,195,21
-Adams,09 Decatur 5,IN Supreme Court-Molter,,,,No,242,158,80,4
-Adams,09 Decatur 5,Court of Appeals Dist 4-Pyle III,,,,Yes,576,357,197,22
-Adams,09 Decatur 5,Court of Appeals Dist 4-Pyle III,,,,No,237,156,78,3
+Adams,09 Decatur 5,Public Question-Const Amendment,,1,,Yes,512,315,187,10
+Adams,09 Decatur 5,Public Question-Const Amendment,,1,,No,426,278,134,14
+Adams,09 Decatur 5,President,,1,REP,Donald J. TRUMP / JD VANCE,744,447,283,14
+Adams,09 Decatur 5,President,,1,DEM,Kamala D. HARRIS / Tim WALZ,345,232,92,21
+Adams,09 Decatur 5,President,,1,LBT,Chase OLIVER / Mike terr MATT,9,4,5,0
+Adams,09 Decatur 5,President,,1,WTP,Robert F. KENNEDY JR. / Nichole SHANAHAN,11,7,4,0
+Adams,09 Decatur 5,President,,1,,Write-In,3,3,0,0
+Adams,09 Decatur 5,U.S. Senate,,1,REP,Jim BANKS,642,390,238,14
+Adams,09 Decatur 5,U.S. Senate,,1,DEM,Valerie McCRAY,297,197,82,18
+Adams,09 Decatur 5,U.S. Senate,,1,LBT,Andrew HORNING,33,15,18,0
+Adams,09 Decatur 5,U.S. Senate,,1,,Write-In,0,0,0,0
+Adams,09 Decatur 5,Governor,,1,DEM,Jennifer G. McCORMICK / Terry GOODIN,355,243,92,20
+Adams,09 Decatur 5,Governor,,1,LBT,Donald RAINWATER / Tonya HUDSON,82,42,40,0
+Adams,09 Decatur 5,Governor,,1,,Write-In,0,0,0,0
+Adams,09 Decatur 5,Attorney General,,1,REP,Todd ROKITA,656,398,245,13
+Adams,09 Decatur 5,Attorney General,,1,DEM,Destiny WELLS,334,225,89,20
+Adams,09 Decatur 5,U.S. House,3,1,REP,Marlin A. STUTZMAN,695,425,258,12
+Adams,09 Decatur 5,U.S. House,3,1,DEM,Kiley M. ADOLPH,319,218,80,21
+Adams,09 Decatur 5,U.S. House,3,1,LBT,Jarrad LANCASTER,45,18,27,0
+Adams,09 Decatur 5,U.S. House,3,1,,Write-In,0,0,0,0
+Adams,09 Decatur 5,State House,79,1,REP,Matthew S. LEHMAN,805,483,302,20
+Adams,09 Decatur 5,Judge of the Circuit Court 26th Judicial,,1,REP,Chad E. KUKELHAN,853,522,309,22
+Adams,09 Decatur 5,County Auditor,,1,REP,Tony L. MELLENCAMP,844,519,305,20
+Adams,09 Decatur 5,County Recorder,,1,REP,Thomas R KRUECKEBERG,835,511,303,21
+Adams,09 Decatur 5,County Treasurer,,1,REP,Edgar B. (Ed) DYER,826,507,298,21
+Adams,09 Decatur 5,County Coroner,,1,REP,Monica FENNIG,835,512,304,19
+Adams,09 Decatur 5,County Commissioner,1,1,REP,Stan A STOPPENHAGEN,826,502,302,22
+Adams,09 Decatur 5,County Commissioner,3,1,REP,Douglas L. BAUMAN,807,489,298,20
+Adams,09 Decatur 5,County Council Member,At Large,3,REP,Dennis C. BLUHM,463,277,167,19
+Adams,09 Decatur 5,County Council Member,At Large,3,REP,John P. SUMMERS,524,326,178,20
+Adams,09 Decatur 5,County Council Member,At Large,3,REP,Jim VOGLEWEDE,494,303,175,16
+Adams,09 Decatur 5,North Adams Community SB,1,2,,Eric W ALLMON,350,204,136,10
+Adams,09 Decatur 5,North Adams Community SB,1,2,,Joel A. MILLER,420,258,144,18
+Adams,09 Decatur 5,North Adams Community SB,1,2,,Wylie SIRK,390,255,120,15
+Adams,09 Decatur 5,North Adams Community SB,2,2,,Jill COLCLASURE,524,311,196,17
+Adams,09 Decatur 5,North Adams Community SB,2,2,,Darlene Hebble JUENGEL,369,239,114,16
+Adams,09 Decatur 5,North Adams Community SB,2,2,,Eric SOMMERS,290,175,105,10
+Adams,09 Decatur 5,IN Supreme Court-Rush,,1,,Yes,600,375,201,24
+Adams,09 Decatur 5,IN Supreme Court-Rush,,1,,No,222,142,79,1
+Adams,09 Decatur 5,IN Supreme Court-Massa,,1,,Yes,581,363,196,22
+Adams,09 Decatur 5,IN Supreme Court-Massa,,1,,No,232,148,81,3
+Adams,09 Decatur 5,IN Supreme Court-Molter,,1,,Yes,565,349,195,21
+Adams,09 Decatur 5,IN Supreme Court-Molter,,1,,No,242,158,80,4
+Adams,09 Decatur 5,Court of Appeals Dist 4-Pyle III,,1,,Yes,576,357,197,22
+Adams,09 Decatur 5,Court of Appeals Dist 4-Pyle III,,1,,No,237,156,78,3
 Adams,09 Decatur 5,Straight Party,,,DEM,,65,,,
 Adams,09 Decatur 5,Straight Party,,,REP,,233,,,
 Adams,10 East Root,Registered Voters,,,,,1161,,,
 Adams,10 East Root,Ballots Cast,,,,,867,,,
-Adams,10 East Root,Public Question-Const Amendment,,,,Yes,395,257,131,7
-Adams,10 East Root,Public Question-Const Amendment,,,,No,329,212,110,7
-Adams,10 East Root,President,,,REP,Donald J. TRUMP / JD VANCE,629,407,210,12
-Adams,10 East Root,President,,,DEM,Kamala D. HARRIS / Tim WALZ,210,133,68,9
-Adams,10 East Root,President,,,LBT,Chase OLIVER / Mike terr MATT,3,2,1,0
-Adams,10 East Root,President,,,WTP,Robert F. KENNEDY JR. / Nichole SHANAHAN,12,5,7,0
-Adams,10 East Root,President,,,,Write-In,1,0,1,0
-Adams,10 East Root,U.S. Senate,,,REP,Jim BANKS,568,366,190,12
-Adams,10 East Root,U.S. Senate,,,DEM,Valerie McCRAY,169,105,56,8
-Adams,10 East Root,U.S. Senate,,,LBT,Andrew HORNING,17,6,11,0
-Adams,10 East Root,U.S. Senate,,,,Write-In,1,1,0,0
-Adams,10 East Root,Governor,,,DEM,Jennifer G. McCORMICK / Terry GOODIN,217,137,72,8
-Adams,10 East Root,Governor,,,LBT,Donald RAINWATER / Tonya HUDSON,50,23,25,2
-Adams,10 East Root,Governor,,,,Write-In,0,0,0,0
-Adams,10 East Root,Attorney General,,,REP,Todd ROKITA,558,366,180,12
-Adams,10 East Root,Attorney General,,,DEM,Destiny WELLS,206,121,77,8
-Adams,10 East Root,U.S. House,3,,REP,Marlin A. STUTZMAN,602,398,192,12
-Adams,10 East Root,U.S. House,3,,DEM,Kiley M. ADOLPH,176,109,59,8
-Adams,10 East Root,U.S. House,3,,LBT,Jarrad LANCASTER,30,14,16,0
-Adams,10 East Root,U.S. House,3,,,Write-In,0,0,0,0
-Adams,10 East Root,State House,79,,REP,Matthew S. LEHMAN,652,418,222,12
-Adams,10 East Root,Judge of the Circuit Court 26th Judicial,,,REP,Chad E. KUKELHAN,699,450,237,12
-Adams,10 East Root,County Auditor,,,REP,Tony L. MELLENCAMP,686,441,233,12
-Adams,10 East Root,County Recorder,,,REP,Thomas R KRUECKEBERG,682,436,234,12
-Adams,10 East Root,County Treasurer,,,REP,Edgar B. (Ed) DYER,666,426,228,12
-Adams,10 East Root,County Coroner,,,REP,Monica FENNIG,680,436,232,12
-Adams,10 East Root,County Commissioner,1,,REP,Stan A STOPPENHAGEN,682,440,228,14
-Adams,10 East Root,County Commissioner,3,,REP,Douglas L. BAUMAN,656,418,226,12
-Adams,10 East Root,County Council Member,At Large,,REP,Dennis C. BLUHM,425,278,136,11
-Adams,10 East Root,County Council Member,At Large,,REP,John P. SUMMERS,462,310,141,11
-Adams,10 East Root,County Council Member,At Large,,REP,Jim VOGLEWEDE,457,300,144,13
-Adams,10 East Root,North Adams Community SB,1,,,Eric W ALLMON,309,197,104,8
-Adams,10 East Root,North Adams Community SB,1,,,Joel A. MILLER,317,210,104,3
-Adams,10 East Root,North Adams Community SB,1,,,Wylie SIRK,308,204,98,6
-Adams,10 East Root,North Adams Community SB,2,,,Jill COLCLASURE,454,296,151,7
-Adams,10 East Root,North Adams Community SB,2,,,Darlene Hebble JUENGEL,286,184,98,4
-Adams,10 East Root,North Adams Community SB,2,,,Eric SOMMERS,213,143,63,7
-Adams,10 East Root,IN Supreme Court-Rush,,,,Yes,471,305,156,10
-Adams,10 East Root,IN Supreme Court-Rush,,,,No,169,105,59,5
-Adams,10 East Root,IN Supreme Court-Massa,,,,Yes,469,304,153,12
-Adams,10 East Root,IN Supreme Court-Massa,,,,No,164,102,59,3
-Adams,10 East Root,IN Supreme Court-Molter,,,,Yes,462,303,149,10
-Adams,10 East Root,IN Supreme Court-Molter,,,,No,167,100,62,5
-Adams,10 East Root,Court of Appeals Dist 4-Pyle III,,,,Yes,461,300,150,11
-Adams,10 East Root,Court of Appeals Dist 4-Pyle III,,,,No,167,103,60,4
+Adams,10 East Root,Public Question-Const Amendment,,1,,Yes,395,257,131,7
+Adams,10 East Root,Public Question-Const Amendment,,1,,No,329,212,110,7
+Adams,10 East Root,President,,1,REP,Donald J. TRUMP / JD VANCE,629,407,210,12
+Adams,10 East Root,President,,1,DEM,Kamala D. HARRIS / Tim WALZ,210,133,68,9
+Adams,10 East Root,President,,1,LBT,Chase OLIVER / Mike terr MATT,3,2,1,0
+Adams,10 East Root,President,,1,WTP,Robert F. KENNEDY JR. / Nichole SHANAHAN,12,5,7,0
+Adams,10 East Root,President,,1,,Write-In,1,0,1,0
+Adams,10 East Root,U.S. Senate,,1,REP,Jim BANKS,568,366,190,12
+Adams,10 East Root,U.S. Senate,,1,DEM,Valerie McCRAY,169,105,56,8
+Adams,10 East Root,U.S. Senate,,1,LBT,Andrew HORNING,17,6,11,0
+Adams,10 East Root,U.S. Senate,,1,,Write-In,1,1,0,0
+Adams,10 East Root,Governor,,1,DEM,Jennifer G. McCORMICK / Terry GOODIN,217,137,72,8
+Adams,10 East Root,Governor,,1,LBT,Donald RAINWATER / Tonya HUDSON,50,23,25,2
+Adams,10 East Root,Governor,,1,,Write-In,0,0,0,0
+Adams,10 East Root,Attorney General,,1,REP,Todd ROKITA,558,366,180,12
+Adams,10 East Root,Attorney General,,1,DEM,Destiny WELLS,206,121,77,8
+Adams,10 East Root,U.S. House,3,1,REP,Marlin A. STUTZMAN,602,398,192,12
+Adams,10 East Root,U.S. House,3,1,DEM,Kiley M. ADOLPH,176,109,59,8
+Adams,10 East Root,U.S. House,3,1,LBT,Jarrad LANCASTER,30,14,16,0
+Adams,10 East Root,U.S. House,3,1,,Write-In,0,0,0,0
+Adams,10 East Root,State House,79,1,REP,Matthew S. LEHMAN,652,418,222,12
+Adams,10 East Root,Judge of the Circuit Court 26th Judicial,,1,REP,Chad E. KUKELHAN,699,450,237,12
+Adams,10 East Root,County Auditor,,1,REP,Tony L. MELLENCAMP,686,441,233,12
+Adams,10 East Root,County Recorder,,1,REP,Thomas R KRUECKEBERG,682,436,234,12
+Adams,10 East Root,County Treasurer,,1,REP,Edgar B. (Ed) DYER,666,426,228,12
+Adams,10 East Root,County Coroner,,1,REP,Monica FENNIG,680,436,232,12
+Adams,10 East Root,County Commissioner,1,1,REP,Stan A STOPPENHAGEN,682,440,228,14
+Adams,10 East Root,County Commissioner,3,1,REP,Douglas L. BAUMAN,656,418,226,12
+Adams,10 East Root,County Council Member,At Large,3,REP,Dennis C. BLUHM,425,278,136,11
+Adams,10 East Root,County Council Member,At Large,3,REP,John P. SUMMERS,462,310,141,11
+Adams,10 East Root,County Council Member,At Large,3,REP,Jim VOGLEWEDE,457,300,144,13
+Adams,10 East Root,North Adams Community SB,1,2,,Eric W ALLMON,309,197,104,8
+Adams,10 East Root,North Adams Community SB,1,2,,Joel A. MILLER,317,210,104,3
+Adams,10 East Root,North Adams Community SB,1,2,,Wylie SIRK,308,204,98,6
+Adams,10 East Root,North Adams Community SB,2,2,,Jill COLCLASURE,454,296,151,7
+Adams,10 East Root,North Adams Community SB,2,2,,Darlene Hebble JUENGEL,286,184,98,4
+Adams,10 East Root,North Adams Community SB,2,2,,Eric SOMMERS,213,143,63,7
+Adams,10 East Root,IN Supreme Court-Rush,,1,,Yes,471,305,156,10
+Adams,10 East Root,IN Supreme Court-Rush,,1,,No,169,105,59,5
+Adams,10 East Root,IN Supreme Court-Massa,,1,,Yes,469,304,153,12
+Adams,10 East Root,IN Supreme Court-Massa,,1,,No,164,102,59,3
+Adams,10 East Root,IN Supreme Court-Molter,,1,,Yes,462,303,149,10
+Adams,10 East Root,IN Supreme Court-Molter,,1,,No,167,100,62,5
+Adams,10 East Root,Court of Appeals Dist 4-Pyle III,,1,,Yes,461,300,150,11
+Adams,10 East Root,Court of Appeals Dist 4-Pyle III,,1,,No,167,103,60,4
 Adams,10 East Root,Straight Party,,,DEM,,37,,,
 Adams,10 East Root,Straight Party,,,REP,,173,,,
 Adams,11 French,Registered Voters,,,,,504,,,
 Adams,11 French,Ballots Cast,,,,,393,,,
-Adams,11 French,Public Question-Const Amendment,,,,Yes,182,93,85,4
-Adams,11 French,Public Question-Const Amendment,,,,No,133,67,64,2
-Adams,11 French,President,,,REP,Donald J. TRUMP / JD VANCE,336,167,163,6
-Adams,11 French,President,,,DEM,Kamala D. HARRIS / Tim WALZ,41,24,16,1
-Adams,11 French,President,,,LBT,Chase OLIVER / Mike terr MATT,1,1,0,0
-Adams,11 French,President,,,WTP,Robert F. KENNEDY JR. / Nichole SHANAHAN,5,1,2,2
-Adams,11 French,President,,,,Write-In,3,0,3,0
-Adams,11 French,U.S. Senate,,,REP,Jim BANKS,324,162,155,7
-Adams,11 French,U.S. Senate,,,DEM,Valerie McCRAY,33,18,14,1
-Adams,11 French,U.S. Senate,,,LBT,Andrew HORNING,6,1,3,2
-Adams,11 French,U.S. Senate,,,,Write-In,0,0,0,0
-Adams,11 French,Governor,,,DEM,Jennifer G. McCORMICK / Terry GOODIN,46,27,19,0
-Adams,11 French,Governor,,,LBT,Donald RAINWATER / Tonya HUDSON,8,2,4,2
-Adams,11 French,Governor,,,,Write-In,0,0,0,0
-Adams,11 French,Attorney General,,,REP,Todd ROKITA,312,160,143,9
-Adams,11 French,Attorney General,,,DEM,Destiny WELLS,39,19,20,0
-Adams,11 French,U.S. House,3,,REP,Marlin A. STUTZMAN,337,172,157,8
-Adams,11 French,U.S. House,3,,DEM,Kiley M. ADOLPH,34,18,16,0
-Adams,11 French,U.S. House,3,,LBT,Jarrad LANCASTER,7,1,4,2
-Adams,11 French,U.S. House,3,,,Write-In,0,0,0,0
-Adams,11 French,State House,79,,REP,Matthew S. LEHMAN,345,177,160,8
-Adams,11 French,Judge of the Circuit Court 26th Judicial,,,REP,Chad E. KUKELHAN,345,176,160,9
-Adams,11 French,County Auditor,,,REP,Tony L. MELLENCAMP,355,182,165,8
-Adams,11 French,County Recorder,,,REP,Thomas R KRUECKEBERG,339,170,162,7
-Adams,11 French,County Treasurer,,,REP,Edgar B. (Ed) DYER,344,174,162,8
-Adams,11 French,County Coroner,,,REP,Monica FENNIG,348,177,163,8
-Adams,11 French,County Commissioner,1,,REP,Stan A STOPPENHAGEN,333,171,154,8
-Adams,11 French,County Commissioner,3,,REP,Douglas L. BAUMAN,340,171,161,8
-Adams,11 French,County Council Member,At Large,,REP,Dennis C. BLUHM,253,131,119,3
-Adams,11 French,County Council Member,At Large,,REP,John P. SUMMERS,222,117,102,3
-Adams,11 French,County Council Member,At Large,,REP,Jim VOGLEWEDE,200,114,83,3
-Adams,11 French,Adams Central Community SB,At Large,,,Jason GERBER,258,136,118,4
-Adams,11 French,Adams Central Community SB,1,,,Benjamin L LIECHTY,213,112,97,4
-Adams,11 French,Adams Central Community SB,5,,,Rhonda M. ISCH,217,119,94,4
-Adams,11 French,Adams Central Community SB,6,,,Write-In,4,1,2,1
-Adams,11 French,South Adams School,At Large,,,Kyle LITWILLER,41,22,19,0
-Adams,11 French,South Adams School,At Large,,,Benjamin REDIGER,23,7,16,0
-Adams,11 French,South Adams School,2,,,Arlene J AMSTUTZ,58,26,32,0
-Adams,11 French,South Adams School,5,,,Brian (Buzz) CAFFEE,57,25,32,0
-Adams,11 French,IN Supreme Court-Rush,,,,Yes,244,130,111,3
-Adams,11 French,IN Supreme Court-Rush,,,,No,48,20,28,0
-Adams,11 French,IN Supreme Court-Massa,,,,Yes,238,128,107,3
-Adams,11 French,IN Supreme Court-Massa,,,,No,51,20,31,0
-Adams,11 French,IN Supreme Court-Molter,,,,Yes,243,130,111,2
-Adams,11 French,IN Supreme Court-Molter,,,,No,46,19,27,0
-Adams,11 French,Court of Appeals Dist 4-Pyle III,,,,Yes,234,122,110,2
-Adams,11 French,Court of Appeals Dist 4-Pyle III,,,,No,49,25,24,0
+Adams,11 French,Public Question-Const Amendment,,1,,Yes,182,93,85,4
+Adams,11 French,Public Question-Const Amendment,,1,,No,133,67,64,2
+Adams,11 French,President,,1,REP,Donald J. TRUMP / JD VANCE,336,167,163,6
+Adams,11 French,President,,1,DEM,Kamala D. HARRIS / Tim WALZ,41,24,16,1
+Adams,11 French,President,,1,LBT,Chase OLIVER / Mike terr MATT,1,1,0,0
+Adams,11 French,President,,1,WTP,Robert F. KENNEDY JR. / Nichole SHANAHAN,5,1,2,2
+Adams,11 French,President,,1,,Write-In,3,0,3,0
+Adams,11 French,U.S. Senate,,1,REP,Jim BANKS,324,162,155,7
+Adams,11 French,U.S. Senate,,1,DEM,Valerie McCRAY,33,18,14,1
+Adams,11 French,U.S. Senate,,1,LBT,Andrew HORNING,6,1,3,2
+Adams,11 French,U.S. Senate,,1,,Write-In,0,0,0,0
+Adams,11 French,Governor,,1,DEM,Jennifer G. McCORMICK / Terry GOODIN,46,27,19,0
+Adams,11 French,Governor,,1,LBT,Donald RAINWATER / Tonya HUDSON,8,2,4,2
+Adams,11 French,Governor,,1,,Write-In,0,0,0,0
+Adams,11 French,Attorney General,,1,REP,Todd ROKITA,312,160,143,9
+Adams,11 French,Attorney General,,1,DEM,Destiny WELLS,39,19,20,0
+Adams,11 French,U.S. House,3,1,REP,Marlin A. STUTZMAN,337,172,157,8
+Adams,11 French,U.S. House,3,1,DEM,Kiley M. ADOLPH,34,18,16,0
+Adams,11 French,U.S. House,3,1,LBT,Jarrad LANCASTER,7,1,4,2
+Adams,11 French,U.S. House,3,1,,Write-In,0,0,0,0
+Adams,11 French,State House,79,1,REP,Matthew S. LEHMAN,345,177,160,8
+Adams,11 French,Judge of the Circuit Court 26th Judicial,,1,REP,Chad E. KUKELHAN,345,176,160,9
+Adams,11 French,County Auditor,,1,REP,Tony L. MELLENCAMP,355,182,165,8
+Adams,11 French,County Recorder,,1,REP,Thomas R KRUECKEBERG,339,170,162,7
+Adams,11 French,County Treasurer,,1,REP,Edgar B. (Ed) DYER,344,174,162,8
+Adams,11 French,County Coroner,,1,REP,Monica FENNIG,348,177,163,8
+Adams,11 French,County Commissioner,1,1,REP,Stan A STOPPENHAGEN,333,171,154,8
+Adams,11 French,County Commissioner,3,1,REP,Douglas L. BAUMAN,340,171,161,8
+Adams,11 French,County Council Member,At Large,3,REP,Dennis C. BLUHM,253,131,119,3
+Adams,11 French,County Council Member,At Large,3,REP,John P. SUMMERS,222,117,102,3
+Adams,11 French,County Council Member,At Large,3,REP,Jim VOGLEWEDE,200,114,83,3
+Adams,11 French,Adams Central Community SB,At Large,1,,Jason GERBER,258,136,118,4
+Adams,11 French,Adams Central Community SB,1,1,,Benjamin L LIECHTY,213,112,97,4
+Adams,11 French,Adams Central Community SB,5,1,,Rhonda M. ISCH,217,119,94,4
+Adams,11 French,Adams Central Community SB,6,1,,Write-In,4,1,2,1
+Adams,11 French,South Adams School,At Large,1,,Kyle LITWILLER,41,22,19,0
+Adams,11 French,South Adams School,At Large,1,,Benjamin REDIGER,23,7,16,0
+Adams,11 French,South Adams School,2,1,,Arlene J AMSTUTZ,58,26,32,0
+Adams,11 French,South Adams School,5,1,,Brian (Buzz) CAFFEE,57,25,32,0
+Adams,11 French,IN Supreme Court-Rush,,1,,Yes,244,130,111,3
+Adams,11 French,IN Supreme Court-Rush,,1,,No,48,20,28,0
+Adams,11 French,IN Supreme Court-Massa,,1,,Yes,238,128,107,3
+Adams,11 French,IN Supreme Court-Massa,,1,,No,51,20,31,0
+Adams,11 French,IN Supreme Court-Molter,,1,,Yes,243,130,111,2
+Adams,11 French,IN Supreme Court-Molter,,1,,No,46,19,27,0
+Adams,11 French,Court of Appeals Dist 4-Pyle III,,1,,Yes,234,122,110,2
+Adams,11 French,Court of Appeals Dist 4-Pyle III,,1,,No,49,25,24,0
 Adams,11 French,Straight Party,,,DEM,,2,,,
 Adams,11 French,Straight Party,,,REP,,134,,,
 Adams,12 Geneva,Registered Voters,,,,,821,,,
 Adams,12 Geneva,Ballots Cast,,,,,543,,,
-Adams,12 Geneva,Public Question-Const Amendment,,,,Yes,270,73,190,7
-Adams,12 Geneva,Public Question-Const Amendment,,,,No,201,71,125,5
-Adams,12 Geneva,President,,,REP,Donald J. TRUMP / JD VANCE,405,127,267,11
-Adams,12 Geneva,President,,,DEM,Kamala D. HARRIS / Tim WALZ,114,38,68,8
-Adams,12 Geneva,President,,,LBT,Chase OLIVER / Mike terr MATT,8,0,7,1
-Adams,12 Geneva,President,,,WTP,Robert F. KENNEDY JR. / Nichole SHANAHAN,7,3,4,0
-Adams,12 Geneva,President,,,,Write-In,2,0,2,0
-Adams,12 Geneva,U.S. Senate,,,REP,Jim BANKS,366,115,240,11
-Adams,12 Geneva,U.S. Senate,,,DEM,Valerie McCRAY,95,33,55,7
-Adams,12 Geneva,U.S. Senate,,,LBT,Andrew HORNING,15,2,12,1
-Adams,12 Geneva,U.S. Senate,,,,Write-In,1,0,1,0
-Adams,12 Geneva,Governor,,,DEM,Jennifer G. McCORMICK / Terry GOODIN,130,41,80,9
-Adams,12 Geneva,Governor,,,LBT,Donald RAINWATER / Tonya HUDSON,40,14,26,0
-Adams,12 Geneva,Governor,,,,Write-In,0,0,0,0
-Adams,12 Geneva,Attorney General,,,REP,Todd ROKITA,354,111,231,12
-Adams,12 Geneva,Attorney General,,,DEM,Destiny WELLS,125,44,73,8
-Adams,12 Geneva,U.S. House,3,,REP,Marlin A. STUTZMAN,380,116,252,12
-Adams,12 Geneva,U.S. House,3,,DEM,Kiley M. ADOLPH,104,36,62,6
-Adams,12 Geneva,U.S. House,3,,LBT,Jarrad LANCASTER,19,4,14,1
-Adams,12 Geneva,U.S. House,3,,,Write-In,0,0,0,0
-Adams,12 Geneva,State House,79,,REP,Matthew S. LEHMAN,425,124,289,12
-Adams,12 Geneva,Judge of the Circuit Court 26th Judicial,,,REP,Chad E. KUKELHAN,425,130,283,12
-Adams,12 Geneva,County Auditor,,,REP,Tony L. MELLENCAMP,446,137,296,13
-Adams,12 Geneva,County Recorder,,,REP,Thomas R KRUECKEBERG,431,132,288,11
-Adams,12 Geneva,County Treasurer,,,REP,Edgar B. (Ed) DYER,430,130,288,12
-Adams,12 Geneva,County Coroner,,,REP,Monica FENNIG,432,139,281,12
-Adams,12 Geneva,County Commissioner,1,,REP,Stan A STOPPENHAGEN,420,127,281,12
-Adams,12 Geneva,County Commissioner,3,,REP,Douglas L. BAUMAN,411,124,275,12
-Adams,12 Geneva,County Council Member,At Large,,REP,Dennis C. BLUHM,296,89,197,10
-Adams,12 Geneva,County Council Member,At Large,,REP,John P. SUMMERS,229,77,143,9
-Adams,12 Geneva,County Council Member,At Large,,REP,Jim VOGLEWEDE,236,77,148,11
-Adams,12 Geneva,South Adams School,At Large,,,Kyle LITWILLER,197,66,125,6
-Adams,12 Geneva,South Adams School,At Large,,,Benjamin REDIGER,222,66,149,7
-Adams,12 Geneva,South Adams School,2,,,Arlene J AMSTUTZ,353,114,227,12
-Adams,12 Geneva,South Adams School,5,,,Brian (Buzz) CAFFEE,364,119,234,11
-Adams,12 Geneva,IN Supreme Court-Rush,,,,Yes,295,97,186,12
-Adams,12 Geneva,IN Supreme Court-Rush,,,,No,101,25,73,3
-Adams,12 Geneva,IN Supreme Court-Massa,,,,Yes,287,94,181,12
-Adams,12 Geneva,IN Supreme Court-Massa,,,,No,97,25,70,2
-Adams,12 Geneva,IN Supreme Court-Molter,,,,Yes,290,98,182,10
-Adams,12 Geneva,IN Supreme Court-Molter,,,,No,90,20,66,4
-Adams,12 Geneva,Court of Appeals Dist 4-Pyle III,,,,Yes,287,97,179,11
-Adams,12 Geneva,Court of Appeals Dist 4-Pyle III,,,,No,92,20,68,4
+Adams,12 Geneva,Public Question-Const Amendment,,1,,Yes,270,73,190,7
+Adams,12 Geneva,Public Question-Const Amendment,,1,,No,201,71,125,5
+Adams,12 Geneva,President,,1,REP,Donald J. TRUMP / JD VANCE,405,127,267,11
+Adams,12 Geneva,President,,1,DEM,Kamala D. HARRIS / Tim WALZ,114,38,68,8
+Adams,12 Geneva,President,,1,LBT,Chase OLIVER / Mike terr MATT,8,0,7,1
+Adams,12 Geneva,President,,1,WTP,Robert F. KENNEDY JR. / Nichole SHANAHAN,7,3,4,0
+Adams,12 Geneva,President,,1,,Write-In,2,0,2,0
+Adams,12 Geneva,U.S. Senate,,1,REP,Jim BANKS,366,115,240,11
+Adams,12 Geneva,U.S. Senate,,1,DEM,Valerie McCRAY,95,33,55,7
+Adams,12 Geneva,U.S. Senate,,1,LBT,Andrew HORNING,15,2,12,1
+Adams,12 Geneva,U.S. Senate,,1,,Write-In,1,0,1,0
+Adams,12 Geneva,Governor,,1,DEM,Jennifer G. McCORMICK / Terry GOODIN,130,41,80,9
+Adams,12 Geneva,Governor,,1,LBT,Donald RAINWATER / Tonya HUDSON,40,14,26,0
+Adams,12 Geneva,Governor,,1,,Write-In,0,0,0,0
+Adams,12 Geneva,Attorney General,,1,REP,Todd ROKITA,354,111,231,12
+Adams,12 Geneva,Attorney General,,1,DEM,Destiny WELLS,125,44,73,8
+Adams,12 Geneva,U.S. House,3,1,REP,Marlin A. STUTZMAN,380,116,252,12
+Adams,12 Geneva,U.S. House,3,1,DEM,Kiley M. ADOLPH,104,36,62,6
+Adams,12 Geneva,U.S. House,3,1,LBT,Jarrad LANCASTER,19,4,14,1
+Adams,12 Geneva,U.S. House,3,1,,Write-In,0,0,0,0
+Adams,12 Geneva,State House,79,1,REP,Matthew S. LEHMAN,425,124,289,12
+Adams,12 Geneva,Judge of the Circuit Court 26th Judicial,,1,REP,Chad E. KUKELHAN,425,130,283,12
+Adams,12 Geneva,County Auditor,,1,REP,Tony L. MELLENCAMP,446,137,296,13
+Adams,12 Geneva,County Recorder,,1,REP,Thomas R KRUECKEBERG,431,132,288,11
+Adams,12 Geneva,County Treasurer,,1,REP,Edgar B. (Ed) DYER,430,130,288,12
+Adams,12 Geneva,County Coroner,,1,REP,Monica FENNIG,432,139,281,12
+Adams,12 Geneva,County Commissioner,1,1,REP,Stan A STOPPENHAGEN,420,127,281,12
+Adams,12 Geneva,County Commissioner,3,1,REP,Douglas L. BAUMAN,411,124,275,12
+Adams,12 Geneva,County Council Member,At Large,3,REP,Dennis C. BLUHM,296,89,197,10
+Adams,12 Geneva,County Council Member,At Large,3,REP,John P. SUMMERS,229,77,143,9
+Adams,12 Geneva,County Council Member,At Large,3,REP,Jim VOGLEWEDE,236,77,148,11
+Adams,12 Geneva,South Adams School,At Large,1,,Kyle LITWILLER,197,66,125,6
+Adams,12 Geneva,South Adams School,At Large,1,,Benjamin REDIGER,222,66,149,7
+Adams,12 Geneva,South Adams School,2,1,,Arlene J AMSTUTZ,353,114,227,12
+Adams,12 Geneva,South Adams School,5,1,,Brian (Buzz) CAFFEE,364,119,234,11
+Adams,12 Geneva,IN Supreme Court-Rush,,1,,Yes,295,97,186,12
+Adams,12 Geneva,IN Supreme Court-Rush,,1,,No,101,25,73,3
+Adams,12 Geneva,IN Supreme Court-Massa,,1,,Yes,287,94,181,12
+Adams,12 Geneva,IN Supreme Court-Massa,,1,,No,97,25,70,2
+Adams,12 Geneva,IN Supreme Court-Molter,,1,,Yes,290,98,182,10
+Adams,12 Geneva,IN Supreme Court-Molter,,1,,No,90,20,66,4
+Adams,12 Geneva,Court of Appeals Dist 4-Pyle III,,1,,Yes,287,97,179,11
+Adams,12 Geneva,Court of Appeals Dist 4-Pyle III,,1,,No,92,20,68,4
 Adams,12 Geneva,Straight Party,,,DEM,,21,,,
 Adams,12 Geneva,Straight Party,,,REP,,139,,,
 Adams,13 Hartford,Registered Voters,,,,,463,,,
 Adams,13 Hartford,Ballots Cast,,,,,371,,,
-Adams,13 Hartford,Public Question-Const Amendment,,,,Yes,167,78,87,2
-Adams,13 Hartford,Public Question-Const Amendment,,,,No,162,68,88,6
-Adams,13 Hartford,President,,,REP,Donald J. TRUMP / JD VANCE,298,128,165,5
-Adams,13 Hartford,President,,,DEM,Kamala D. HARRIS / Tim WALZ,57,23,30,4
-Adams,13 Hartford,President,,,LBT,Chase OLIVER / Mike terr MATT,2,1,1,0
-Adams,13 Hartford,President,,,WTP,Robert F. KENNEDY JR. / Nichole SHANAHAN,6,3,2,1
-Adams,13 Hartford,President,,,,Write-In,0,0,0,0
-Adams,13 Hartford,U.S. Senate,,,REP,Jim BANKS,282,124,153,5
-Adams,13 Hartford,U.S. Senate,,,DEM,Valerie McCRAY,45,18,22,5
-Adams,13 Hartford,U.S. Senate,,,LBT,Andrew HORNING,7,3,4,0
-Adams,13 Hartford,U.S. Senate,,,,Write-In,0,0,0,0
-Adams,13 Hartford,Governor,,,DEM,Jennifer G. McCORMICK / Terry GOODIN,67,27,35,5
-Adams,13 Hartford,Governor,,,LBT,Donald RAINWATER / Tonya HUDSON,20,6,13,1
-Adams,13 Hartford,Governor,,,,Write-In,0,0,0,0
-Adams,13 Hartford,Attorney General,,,REP,Todd ROKITA,268,118,145,5
-Adams,13 Hartford,Attorney General,,,DEM,Destiny WELLS,49,18,26,5
-Adams,13 Hartford,U.S. House,3,,REP,Marlin A. STUTZMAN,292,131,157,4
-Adams,13 Hartford,U.S. House,3,,DEM,Kiley M. ADOLPH,46,18,23,5
-Adams,13 Hartford,U.S. House,3,,LBT,Jarrad LANCASTER,11,4,6,1
-Adams,13 Hartford,U.S. House,3,,,Write-In,0,0,0,0
-Adams,13 Hartford,State House,79,,REP,Matthew S. LEHMAN,311,136,169,6
-Adams,13 Hartford,Judge of the Circuit Court 26th Judicial,,,REP,Chad E. KUKELHAN,295,131,158,6
-Adams,13 Hartford,County Auditor,,,REP,Tony L. MELLENCAMP,328,144,178,6
-Adams,13 Hartford,County Recorder,,,REP,Thomas R KRUECKEBERG,306,131,169,6
-Adams,13 Hartford,County Treasurer,,,REP,Edgar B. (Ed) DYER,300,131,163,6
-Adams,13 Hartford,County Coroner,,,REP,Monica FENNIG,307,133,168,6
-Adams,13 Hartford,County Commissioner,1,,REP,Stan A STOPPENHAGEN,300,129,165,6
-Adams,13 Hartford,County Commissioner,3,,REP,Douglas L. BAUMAN,303,135,163,5
-Adams,13 Hartford,County Council Member,At Large,,REP,Dennis C. BLUHM,224,106,114,4
-Adams,13 Hartford,County Council Member,At Large,,REP,John P. SUMMERS,187,85,98,4
-Adams,13 Hartford,County Council Member,At Large,,REP,Jim VOGLEWEDE,180,85,91,4
-Adams,13 Hartford,South Adams School,At Large,,,Kyle LITWILLER,164,82,77,5
-Adams,13 Hartford,South Adams School,At Large,,,Benjamin REDIGER,166,62,102,2
-Adams,13 Hartford,South Adams School,2,,,Arlene J AMSTUTZ,268,125,138,5
-Adams,13 Hartford,South Adams School,5,,,Brian (Buzz) CAFFEE,281,130,147,4
-Adams,13 Hartford,IN Supreme Court-Rush,,,,Yes,217,101,113,3
-Adams,13 Hartford,IN Supreme Court-Rush,,,,No,59,25,30,4
-Adams,13 Hartford,IN Supreme Court-Massa,,,,Yes,216,100,113,3
-Adams,13 Hartford,IN Supreme Court-Massa,,,,No,61,27,30,4
-Adams,13 Hartford,IN Supreme Court-Molter,,,,Yes,218,100,115,3
-Adams,13 Hartford,IN Supreme Court-Molter,,,,No,58,25,29,4
-Adams,13 Hartford,Court of Appeals Dist 4-Pyle III,,,,Yes,222,105,114,3
-Adams,13 Hartford,Court of Appeals Dist 4-Pyle III,,,,No,53,21,28,4
+Adams,13 Hartford,Public Question-Const Amendment,,1,,Yes,167,78,87,2
+Adams,13 Hartford,Public Question-Const Amendment,,1,,No,162,68,88,6
+Adams,13 Hartford,President,,1,REP,Donald J. TRUMP / JD VANCE,298,128,165,5
+Adams,13 Hartford,President,,1,DEM,Kamala D. HARRIS / Tim WALZ,57,23,30,4
+Adams,13 Hartford,President,,1,LBT,Chase OLIVER / Mike terr MATT,2,1,1,0
+Adams,13 Hartford,President,,1,WTP,Robert F. KENNEDY JR. / Nichole SHANAHAN,6,3,2,1
+Adams,13 Hartford,President,,1,,Write-In,0,0,0,0
+Adams,13 Hartford,U.S. Senate,,1,REP,Jim BANKS,282,124,153,5
+Adams,13 Hartford,U.S. Senate,,1,DEM,Valerie McCRAY,45,18,22,5
+Adams,13 Hartford,U.S. Senate,,1,LBT,Andrew HORNING,7,3,4,0
+Adams,13 Hartford,U.S. Senate,,1,,Write-In,0,0,0,0
+Adams,13 Hartford,Governor,,1,DEM,Jennifer G. McCORMICK / Terry GOODIN,67,27,35,5
+Adams,13 Hartford,Governor,,1,LBT,Donald RAINWATER / Tonya HUDSON,20,6,13,1
+Adams,13 Hartford,Governor,,1,,Write-In,0,0,0,0
+Adams,13 Hartford,Attorney General,,1,REP,Todd ROKITA,268,118,145,5
+Adams,13 Hartford,Attorney General,,1,DEM,Destiny WELLS,49,18,26,5
+Adams,13 Hartford,U.S. House,3,1,REP,Marlin A. STUTZMAN,292,131,157,4
+Adams,13 Hartford,U.S. House,3,1,DEM,Kiley M. ADOLPH,46,18,23,5
+Adams,13 Hartford,U.S. House,3,1,LBT,Jarrad LANCASTER,11,4,6,1
+Adams,13 Hartford,U.S. House,3,1,,Write-In,0,0,0,0
+Adams,13 Hartford,State House,79,1,REP,Matthew S. LEHMAN,311,136,169,6
+Adams,13 Hartford,Judge of the Circuit Court 26th Judicial,,1,REP,Chad E. KUKELHAN,295,131,158,6
+Adams,13 Hartford,County Auditor,,1,REP,Tony L. MELLENCAMP,328,144,178,6
+Adams,13 Hartford,County Recorder,,1,REP,Thomas R KRUECKEBERG,306,131,169,6
+Adams,13 Hartford,County Treasurer,,1,REP,Edgar B. (Ed) DYER,300,131,163,6
+Adams,13 Hartford,County Coroner,,1,REP,Monica FENNIG,307,133,168,6
+Adams,13 Hartford,County Commissioner,1,1,REP,Stan A STOPPENHAGEN,300,129,165,6
+Adams,13 Hartford,County Commissioner,3,1,REP,Douglas L. BAUMAN,303,135,163,5
+Adams,13 Hartford,County Council Member,At Large,3,REP,Dennis C. BLUHM,224,106,114,4
+Adams,13 Hartford,County Council Member,At Large,3,REP,John P. SUMMERS,187,85,98,4
+Adams,13 Hartford,County Council Member,At Large,3,REP,Jim VOGLEWEDE,180,85,91,4
+Adams,13 Hartford,South Adams School,At Large,1,,Kyle LITWILLER,164,82,77,5
+Adams,13 Hartford,South Adams School,At Large,1,,Benjamin REDIGER,166,62,102,2
+Adams,13 Hartford,South Adams School,2,1,,Arlene J AMSTUTZ,268,125,138,5
+Adams,13 Hartford,South Adams School,5,1,,Brian (Buzz) CAFFEE,281,130,147,4
+Adams,13 Hartford,IN Supreme Court-Rush,,1,,Yes,217,101,113,3
+Adams,13 Hartford,IN Supreme Court-Rush,,1,,No,59,25,30,4
+Adams,13 Hartford,IN Supreme Court-Massa,,1,,Yes,216,100,113,3
+Adams,13 Hartford,IN Supreme Court-Massa,,1,,No,61,27,30,4
+Adams,13 Hartford,IN Supreme Court-Molter,,1,,Yes,218,100,115,3
+Adams,13 Hartford,IN Supreme Court-Molter,,1,,No,58,25,29,4
+Adams,13 Hartford,Court of Appeals Dist 4-Pyle III,,1,,Yes,222,105,114,3
+Adams,13 Hartford,Court of Appeals Dist 4-Pyle III,,1,,No,53,21,28,4
 Adams,13 Hartford,Straight Party,,,DEM,,7,,,
 Adams,13 Hartford,Straight Party,,,REP,,95,,,
 Adams,14 Jefferson,Registered Voters,,,,,244,,,
 Adams,14 Jefferson,Ballots Cast,,,,,153,,,
-Adams,14 Jefferson,Public Question-Const Amendment,,,,Yes,81,19,61,1
-Adams,14 Jefferson,Public Question-Const Amendment,,,,No,50,16,31,3
-Adams,14 Jefferson,President,,,REP,Donald J. TRUMP / JD VANCE,134,35,95,4
-Adams,14 Jefferson,President,,,DEM,Kamala D. HARRIS / Tim WALZ,17,2,12,3
-Adams,14 Jefferson,President,,,LBT,Chase OLIVER / Mike terr MATT,0,0,0,0
-Adams,14 Jefferson,President,,,WTP,Robert F. KENNEDY JR. / Nichole SHANAHAN,0,0,0,0
-Adams,14 Jefferson,President,,,,Write-In,0,0,0,0
-Adams,14 Jefferson,U.S. Senate,,,REP,Jim BANKS,117,28,84,5
-Adams,14 Jefferson,U.S. Senate,,,DEM,Valerie McCRAY,12,1,9,2
-Adams,14 Jefferson,U.S. Senate,,,LBT,Andrew HORNING,2,0,2,0
-Adams,14 Jefferson,U.S. Senate,,,,Write-In,0,0,0,0
-Adams,14 Jefferson,Governor,,,DEM,Jennifer G. McCORMICK / Terry GOODIN,19,3,13,3
-Adams,14 Jefferson,Governor,,,LBT,Donald RAINWATER / Tonya HUDSON,5,0,5,0
-Adams,14 Jefferson,Governor,,,,Write-In,0,0,0,0
-Adams,14 Jefferson,Attorney General,,,REP,Todd ROKITA,113,29,80,4
-Adams,14 Jefferson,Attorney General,,,DEM,Destiny WELLS,17,2,12,3
-Adams,14 Jefferson,U.S. House,3,,REP,Marlin A. STUTZMAN,127,32,90,5
-Adams,14 Jefferson,U.S. House,3,,DEM,Kiley M. ADOLPH,11,2,7,2
-Adams,14 Jefferson,U.S. House,3,,LBT,Jarrad LANCASTER,2,0,2,0
-Adams,14 Jefferson,U.S. House,3,,,Write-In,0,0,0,0
-Adams,14 Jefferson,State House,79,,REP,Matthew S. LEHMAN,126,28,92,6
-Adams,14 Jefferson,Judge of the Circuit Court 26th Judicial,,,REP,Chad E. KUKELHAN,130,31,93,6
-Adams,14 Jefferson,County Auditor,,,REP,Tony L. MELLENCAMP,136,31,98,7
-Adams,14 Jefferson,County Recorder,,,REP,Thomas R KRUECKEBERG,125,28,92,5
-Adams,14 Jefferson,County Treasurer,,,REP,Edgar B. (Ed) DYER,126,28,93,5
-Adams,14 Jefferson,County Coroner,,,REP,Monica FENNIG,129,30,94,5
-Adams,14 Jefferson,County Commissioner,1,,REP,Stan A STOPPENHAGEN,123,28,90,5
-Adams,14 Jefferson,County Commissioner,3,,REP,Douglas L. BAUMAN,130,31,94,5
-Adams,14 Jefferson,County Council Member,At Large,,REP,Dennis C. BLUHM,102,23,78,1
-Adams,14 Jefferson,County Council Member,At Large,,REP,John P. SUMMERS,81,20,61,0
-Adams,14 Jefferson,County Council Member,At Large,,REP,Jim VOGLEWEDE,78,18,57,3
-Adams,14 Jefferson,South Adams School,At Large,,,Kyle LITWILLER,52,9,42,1
-Adams,14 Jefferson,South Adams School,At Large,,,Benjamin REDIGER,79,20,56,3
-Adams,14 Jefferson,South Adams School,2,,,Arlene J AMSTUTZ,114,25,84,5
-Adams,14 Jefferson,South Adams School,5,,,Brian (Buzz) CAFFEE,123,26,92,5
-Adams,14 Jefferson,IN Supreme Court-Rush,,,,Yes,95,19,69,7
-Adams,14 Jefferson,IN Supreme Court-Rush,,,,No,21,6,15,0
-Adams,14 Jefferson,IN Supreme Court-Massa,,,,Yes,94,20,67,7
-Adams,14 Jefferson,IN Supreme Court-Massa,,,,No,21,5,16,0
-Adams,14 Jefferson,IN Supreme Court-Molter,,,,Yes,98,23,69,6
-Adams,14 Jefferson,IN Supreme Court-Molter,,,,No,20,4,15,1
-Adams,14 Jefferson,Court of Appeals Dist 4-Pyle III,,,,Yes,95,21,67,7
-Adams,14 Jefferson,Court of Appeals Dist 4-Pyle III,,,,No,19,4,15,0
+Adams,14 Jefferson,Public Question-Const Amendment,,1,,Yes,81,19,61,1
+Adams,14 Jefferson,Public Question-Const Amendment,,1,,No,50,16,31,3
+Adams,14 Jefferson,President,,1,REP,Donald J. TRUMP / JD VANCE,134,35,95,4
+Adams,14 Jefferson,President,,1,DEM,Kamala D. HARRIS / Tim WALZ,17,2,12,3
+Adams,14 Jefferson,President,,1,LBT,Chase OLIVER / Mike terr MATT,0,0,0,0
+Adams,14 Jefferson,President,,1,WTP,Robert F. KENNEDY JR. / Nichole SHANAHAN,0,0,0,0
+Adams,14 Jefferson,President,,1,,Write-In,0,0,0,0
+Adams,14 Jefferson,U.S. Senate,,1,REP,Jim BANKS,117,28,84,5
+Adams,14 Jefferson,U.S. Senate,,1,DEM,Valerie McCRAY,12,1,9,2
+Adams,14 Jefferson,U.S. Senate,,1,LBT,Andrew HORNING,2,0,2,0
+Adams,14 Jefferson,U.S. Senate,,1,,Write-In,0,0,0,0
+Adams,14 Jefferson,Governor,,1,DEM,Jennifer G. McCORMICK / Terry GOODIN,19,3,13,3
+Adams,14 Jefferson,Governor,,1,LBT,Donald RAINWATER / Tonya HUDSON,5,0,5,0
+Adams,14 Jefferson,Governor,,1,,Write-In,0,0,0,0
+Adams,14 Jefferson,Attorney General,,1,REP,Todd ROKITA,113,29,80,4
+Adams,14 Jefferson,Attorney General,,1,DEM,Destiny WELLS,17,2,12,3
+Adams,14 Jefferson,U.S. House,3,1,REP,Marlin A. STUTZMAN,127,32,90,5
+Adams,14 Jefferson,U.S. House,3,1,DEM,Kiley M. ADOLPH,11,2,7,2
+Adams,14 Jefferson,U.S. House,3,1,LBT,Jarrad LANCASTER,2,0,2,0
+Adams,14 Jefferson,U.S. House,3,1,,Write-In,0,0,0,0
+Adams,14 Jefferson,State House,79,1,REP,Matthew S. LEHMAN,126,28,92,6
+Adams,14 Jefferson,Judge of the Circuit Court 26th Judicial,,1,REP,Chad E. KUKELHAN,130,31,93,6
+Adams,14 Jefferson,County Auditor,,1,REP,Tony L. MELLENCAMP,136,31,98,7
+Adams,14 Jefferson,County Recorder,,1,REP,Thomas R KRUECKEBERG,125,28,92,5
+Adams,14 Jefferson,County Treasurer,,1,REP,Edgar B. (Ed) DYER,126,28,93,5
+Adams,14 Jefferson,County Coroner,,1,REP,Monica FENNIG,129,30,94,5
+Adams,14 Jefferson,County Commissioner,1,1,REP,Stan A STOPPENHAGEN,123,28,90,5
+Adams,14 Jefferson,County Commissioner,3,1,REP,Douglas L. BAUMAN,130,31,94,5
+Adams,14 Jefferson,County Council Member,At Large,3,REP,Dennis C. BLUHM,102,23,78,1
+Adams,14 Jefferson,County Council Member,At Large,3,REP,John P. SUMMERS,81,20,61,0
+Adams,14 Jefferson,County Council Member,At Large,3,REP,Jim VOGLEWEDE,78,18,57,3
+Adams,14 Jefferson,South Adams School,At Large,1,,Kyle LITWILLER,52,9,42,1
+Adams,14 Jefferson,South Adams School,At Large,1,,Benjamin REDIGER,79,20,56,3
+Adams,14 Jefferson,South Adams School,2,1,,Arlene J AMSTUTZ,114,25,84,5
+Adams,14 Jefferson,South Adams School,5,1,,Brian (Buzz) CAFFEE,123,26,92,5
+Adams,14 Jefferson,IN Supreme Court-Rush,,1,,Yes,95,19,69,7
+Adams,14 Jefferson,IN Supreme Court-Rush,,1,,No,21,6,15,0
+Adams,14 Jefferson,IN Supreme Court-Massa,,1,,Yes,94,20,67,7
+Adams,14 Jefferson,IN Supreme Court-Massa,,1,,No,21,5,16,0
+Adams,14 Jefferson,IN Supreme Court-Molter,,1,,Yes,98,23,69,6
+Adams,14 Jefferson,IN Supreme Court-Molter,,1,,No,20,4,15,1
+Adams,14 Jefferson,Court of Appeals Dist 4-Pyle III,,1,,Yes,95,21,67,7
+Adams,14 Jefferson,Court of Appeals Dist 4-Pyle III,,1,,No,19,4,15,0
 Adams,14 Jefferson,Straight Party,,,REP,,44,,,
 Adams,15 Kirkland,Registered Voters,,,,,605,,,
 Adams,15 Kirkland,Ballots Cast,,,,,491,,,
-Adams,15 Kirkland,Public Question-Const Amendment,,,,Yes,228,133,91,4
-Adams,15 Kirkland,Public Question-Const Amendment,,,,No,186,119,61,6
-Adams,15 Kirkland,President,,,REP,Donald J. TRUMP / JD VANCE,411,245,157,9
-Adams,15 Kirkland,President,,,DEM,Kamala D. HARRIS / Tim WALZ,66,46,16,4
-Adams,15 Kirkland,President,,,LBT,Chase OLIVER / Mike terr MATT,2,1,1,0
-Adams,15 Kirkland,President,,,WTP,Robert F. KENNEDY JR. / Nichole SHANAHAN,2,0,2,0
-Adams,15 Kirkland,President,,,,Write-In,2,2,0,0
-Adams,15 Kirkland,U.S. Senate,,,REP,Jim BANKS,371,212,150,9
-Adams,15 Kirkland,U.S. Senate,,,DEM,Valerie McCRAY,55,40,12,3
-Adams,15 Kirkland,U.S. Senate,,,LBT,Andrew HORNING,8,5,2,1
-Adams,15 Kirkland,U.S. Senate,,,,Write-In,0,0,0,0
-Adams,15 Kirkland,Governor,,,DEM,Jennifer G. McCORMICK / Terry GOODIN,85,53,28,4
-Adams,15 Kirkland,Governor,,,LBT,Donald RAINWATER / Tonya HUDSON,18,10,8,0
-Adams,15 Kirkland,Governor,,,,Write-In,0,0,0,0
-Adams,15 Kirkland,Attorney General,,,REP,Todd ROKITA,374,219,146,9
-Adams,15 Kirkland,Attorney General,,,DEM,Destiny WELLS,64,43,17,4
-Adams,15 Kirkland,U.S. House,3,,REP,Marlin A. STUTZMAN,398,236,153,9
-Adams,15 Kirkland,U.S. House,3,,DEM,Kiley M. ADOLPH,55,38,13,4
-Adams,15 Kirkland,U.S. House,3,,LBT,Jarrad LANCASTER,11,7,4,0
-Adams,15 Kirkland,U.S. House,3,,,Write-In,0,0,0,0
-Adams,15 Kirkland,State House,79,,REP,Matthew S. LEHMAN,401,238,154,9
-Adams,15 Kirkland,Judge of the Circuit Court 26th Judicial,,,REP,Chad E. KUKELHAN,408,246,154,8
-Adams,15 Kirkland,County Auditor,,,REP,Tony L. MELLENCAMP,423,249,163,11
-Adams,15 Kirkland,County Recorder,,,REP,Thomas R KRUECKEBERG,416,247,160,9
-Adams,15 Kirkland,County Treasurer,,,REP,Edgar B. (Ed) DYER,419,249,159,11
-Adams,15 Kirkland,County Coroner,,,REP,Monica FENNIG,416,249,158,9
-Adams,15 Kirkland,County Commissioner,1,,REP,Stan A STOPPENHAGEN,420,248,161,11
-Adams,15 Kirkland,County Commissioner,3,,REP,Douglas L. BAUMAN,391,234,148,9
-Adams,15 Kirkland,County Council Member,At Large,,REP,Dennis C. BLUHM,288,169,110,9
-Adams,15 Kirkland,County Council Member,At Large,,REP,John P. SUMMERS,262,159,97,6
-Adams,15 Kirkland,County Council Member,At Large,,REP,Jim VOGLEWEDE,239,142,89,8
-Adams,15 Kirkland,Adams Central Community SB,At Large,,,Jason GERBER,328,190,129,9
-Adams,15 Kirkland,Adams Central Community SB,1,,,Benjamin L LIECHTY,356,216,132,8
-Adams,15 Kirkland,Adams Central Community SB,5,,,Rhonda M. ISCH,312,186,118,8
-Adams,15 Kirkland,Adams Central Community SB,6,,,Write-In,14,7,5,2
-Adams,15 Kirkland,IN Supreme Court-Rush,,,,Yes,275,167,101,7
-Adams,15 Kirkland,IN Supreme Court-Rush,,,,No,76,45,29,2
-Adams,15 Kirkland,IN Supreme Court-Massa,,,,Yes,269,165,100,4
-Adams,15 Kirkland,IN Supreme Court-Massa,,,,No,73,43,26,4
-Adams,15 Kirkland,IN Supreme Court-Molter,,,,Yes,270,164,100,6
-Adams,15 Kirkland,IN Supreme Court-Molter,,,,No,73,44,26,3
-Adams,15 Kirkland,Court of Appeals Dist 4-Pyle III,,,,Yes,266,159,100,7
-Adams,15 Kirkland,Court of Appeals Dist 4-Pyle III,,,,No,76,48,26,2
+Adams,15 Kirkland,Public Question-Const Amendment,,1,,Yes,228,133,91,4
+Adams,15 Kirkland,Public Question-Const Amendment,,1,,No,186,119,61,6
+Adams,15 Kirkland,President,,1,REP,Donald J. TRUMP / JD VANCE,411,245,157,9
+Adams,15 Kirkland,President,,1,DEM,Kamala D. HARRIS / Tim WALZ,66,46,16,4
+Adams,15 Kirkland,President,,1,LBT,Chase OLIVER / Mike terr MATT,2,1,1,0
+Adams,15 Kirkland,President,,1,WTP,Robert F. KENNEDY JR. / Nichole SHANAHAN,2,0,2,0
+Adams,15 Kirkland,President,,1,,Write-In,2,2,0,0
+Adams,15 Kirkland,U.S. Senate,,1,REP,Jim BANKS,371,212,150,9
+Adams,15 Kirkland,U.S. Senate,,1,DEM,Valerie McCRAY,55,40,12,3
+Adams,15 Kirkland,U.S. Senate,,1,LBT,Andrew HORNING,8,5,2,1
+Adams,15 Kirkland,U.S. Senate,,1,,Write-In,0,0,0,0
+Adams,15 Kirkland,Governor,,1,DEM,Jennifer G. McCORMICK / Terry GOODIN,85,53,28,4
+Adams,15 Kirkland,Governor,,1,LBT,Donald RAINWATER / Tonya HUDSON,18,10,8,0
+Adams,15 Kirkland,Governor,,1,,Write-In,0,0,0,0
+Adams,15 Kirkland,Attorney General,,1,REP,Todd ROKITA,374,219,146,9
+Adams,15 Kirkland,Attorney General,,1,DEM,Destiny WELLS,64,43,17,4
+Adams,15 Kirkland,U.S. House,3,1,REP,Marlin A. STUTZMAN,398,236,153,9
+Adams,15 Kirkland,U.S. House,3,1,DEM,Kiley M. ADOLPH,55,38,13,4
+Adams,15 Kirkland,U.S. House,3,1,LBT,Jarrad LANCASTER,11,7,4,0
+Adams,15 Kirkland,U.S. House,3,1,,Write-In,0,0,0,0
+Adams,15 Kirkland,State House,79,1,REP,Matthew S. LEHMAN,401,238,154,9
+Adams,15 Kirkland,Judge of the Circuit Court 26th Judicial,,1,REP,Chad E. KUKELHAN,408,246,154,8
+Adams,15 Kirkland,County Auditor,,1,REP,Tony L. MELLENCAMP,423,249,163,11
+Adams,15 Kirkland,County Recorder,,1,REP,Thomas R KRUECKEBERG,416,247,160,9
+Adams,15 Kirkland,County Treasurer,,1,REP,Edgar B. (Ed) DYER,419,249,159,11
+Adams,15 Kirkland,County Coroner,,1,REP,Monica FENNIG,416,249,158,9
+Adams,15 Kirkland,County Commissioner,1,1,REP,Stan A STOPPENHAGEN,420,248,161,11
+Adams,15 Kirkland,County Commissioner,3,1,REP,Douglas L. BAUMAN,391,234,148,9
+Adams,15 Kirkland,County Council Member,At Large,3,REP,Dennis C. BLUHM,288,169,110,9
+Adams,15 Kirkland,County Council Member,At Large,3,REP,John P. SUMMERS,262,159,97,6
+Adams,15 Kirkland,County Council Member,At Large,3,REP,Jim VOGLEWEDE,239,142,89,8
+Adams,15 Kirkland,Adams Central Community SB,At Large,1,,Jason GERBER,328,190,129,9
+Adams,15 Kirkland,Adams Central Community SB,1,1,,Benjamin L LIECHTY,356,216,132,8
+Adams,15 Kirkland,Adams Central Community SB,5,1,,Rhonda M. ISCH,312,186,118,8
+Adams,15 Kirkland,Adams Central Community SB,6,1,,Write-In,14,7,5,2
+Adams,15 Kirkland,IN Supreme Court-Rush,,1,,Yes,275,167,101,7
+Adams,15 Kirkland,IN Supreme Court-Rush,,1,,No,76,45,29,2
+Adams,15 Kirkland,IN Supreme Court-Massa,,1,,Yes,269,165,100,4
+Adams,15 Kirkland,IN Supreme Court-Massa,,1,,No,73,43,26,4
+Adams,15 Kirkland,IN Supreme Court-Molter,,1,,Yes,270,164,100,6
+Adams,15 Kirkland,IN Supreme Court-Molter,,1,,No,73,44,26,3
+Adams,15 Kirkland,Court of Appeals Dist 4-Pyle III,,1,,Yes,266,159,100,7
+Adams,15 Kirkland,Court of Appeals Dist 4-Pyle III,,1,,No,76,48,26,2
 Adams,15 Kirkland,Straight Party,,,DEM,,8,,,
 Adams,15 Kirkland,Straight Party,,,REP,,115,,,
 Adams,16 Monroe A,Registered Voters,,,,,126,,,
 Adams,16 Monroe A,Ballots Cast,,,,,86,,,
-Adams,16 Monroe A,Public Question-Const Amendment,,,,Yes,36,17,18,1
-Adams,16 Monroe A,Public Question-Const Amendment,,,,No,27,12,14,1
-Adams,16 Monroe A,President,,,REP,Donald J. TRUMP / JD VANCE,64,32,31,1
-Adams,16 Monroe A,President,,,DEM,Kamala D. HARRIS / Tim WALZ,20,8,9,3
-Adams,16 Monroe A,President,,,LBT,Chase OLIVER / Mike terr MATT,0,0,0,0
-Adams,16 Monroe A,President,,,WTP,Robert F. KENNEDY JR. / Nichole SHANAHAN,2,0,2,0
-Adams,16 Monroe A,President,,,,Write-In,0,0,0,0
-Adams,16 Monroe A,U.S. Senate,,,REP,Jim BANKS,49,25,23,1
-Adams,16 Monroe A,U.S. Senate,,,DEM,Valerie McCRAY,18,8,8,2
-Adams,16 Monroe A,U.S. Senate,,,LBT,Andrew HORNING,5,0,4,1
-Adams,16 Monroe A,U.S. Senate,,,,Write-In,0,0,0,0
-Adams,16 Monroe A,Governor,,,DEM,Jennifer G. McCORMICK / Terry GOODIN,19,9,9,1
-Adams,16 Monroe A,Governor,,,LBT,Donald RAINWATER / Tonya HUDSON,8,1,7,0
-Adams,16 Monroe A,Governor,,,,Write-In,0,0,0,0
-Adams,16 Monroe A,Attorney General,,,REP,Todd ROKITA,58,31,26,1
-Adams,16 Monroe A,Attorney General,,,DEM,Destiny WELLS,19,7,10,2
-Adams,16 Monroe A,U.S. House,3,,REP,Marlin A. STUTZMAN,60,29,29,2
-Adams,16 Monroe A,U.S. House,3,,DEM,Kiley M. ADOLPH,18,9,7,2
-Adams,16 Monroe A,U.S. House,3,,LBT,Jarrad LANCASTER,4,1,3,0
-Adams,16 Monroe A,U.S. House,3,,,Write-In,0,0,0,0
-Adams,16 Monroe A,State House,79,,REP,Matthew S. LEHMAN,62,29,30,3
-Adams,16 Monroe A,Judge of the Circuit Court 26th Judicial,,,REP,Chad E. KUKELHAN,66,32,31,3
-Adams,16 Monroe A,County Auditor,,,REP,Tony L. MELLENCAMP,66,31,32,3
-Adams,16 Monroe A,County Recorder,,,REP,Thomas R KRUECKEBERG,62,31,29,2
-Adams,16 Monroe A,County Treasurer,,,REP,Edgar B. (Ed) DYER,65,33,29,3
-Adams,16 Monroe A,County Coroner,,,REP,Monica FENNIG,66,31,32,3
-Adams,16 Monroe A,County Commissioner,1,,REP,Stan A STOPPENHAGEN,67,35,30,2
-Adams,16 Monroe A,County Commissioner,3,,REP,Douglas L. BAUMAN,64,30,31,3
-Adams,16 Monroe A,County Council Member,At Large,,REP,Dennis C. BLUHM,53,26,25,2
-Adams,16 Monroe A,County Council Member,At Large,,REP,John P. SUMMERS,43,22,19,2
-Adams,16 Monroe A,County Council Member,At Large,,REP,Jim VOGLEWEDE,38,19,17,2
-Adams,16 Monroe A,Adams Central Community SB,At Large,,,Jason GERBER,57,28,26,3
-Adams,16 Monroe A,Adams Central Community SB,1,,,Benjamin L LIECHTY,55,25,27,3
-Adams,16 Monroe A,Adams Central Community SB,5,,,Rhonda M. ISCH,51,23,26,2
-Adams,16 Monroe A,Adams Central Community SB,6,,,Write-In,1,0,1,0
-Adams,16 Monroe A,IN Supreme Court-Rush,,,,Yes,41,18,21,2
-Adams,16 Monroe A,IN Supreme Court-Rush,,,,No,17,10,6,1
-Adams,16 Monroe A,IN Supreme Court-Massa,,,,Yes,43,21,21,1
-Adams,16 Monroe A,IN Supreme Court-Massa,,,,No,12,6,5,1
-Adams,16 Monroe A,IN Supreme Court-Molter,,,,Yes,41,21,19,1
-Adams,16 Monroe A,IN Supreme Court-Molter,,,,No,14,8,5,1
-Adams,16 Monroe A,Court of Appeals Dist 4-Pyle III,,,,Yes,41,17,22,2
-Adams,16 Monroe A,Court of Appeals Dist 4-Pyle III,,,,No,16,10,5,1
+Adams,16 Monroe A,Public Question-Const Amendment,,1,,Yes,36,17,18,1
+Adams,16 Monroe A,Public Question-Const Amendment,,1,,No,27,12,14,1
+Adams,16 Monroe A,President,,1,REP,Donald J. TRUMP / JD VANCE,64,32,31,1
+Adams,16 Monroe A,President,,1,DEM,Kamala D. HARRIS / Tim WALZ,20,8,9,3
+Adams,16 Monroe A,President,,1,LBT,Chase OLIVER / Mike terr MATT,0,0,0,0
+Adams,16 Monroe A,President,,1,WTP,Robert F. KENNEDY JR. / Nichole SHANAHAN,2,0,2,0
+Adams,16 Monroe A,President,,1,,Write-In,0,0,0,0
+Adams,16 Monroe A,U.S. Senate,,1,REP,Jim BANKS,49,25,23,1
+Adams,16 Monroe A,U.S. Senate,,1,DEM,Valerie McCRAY,18,8,8,2
+Adams,16 Monroe A,U.S. Senate,,1,LBT,Andrew HORNING,5,0,4,1
+Adams,16 Monroe A,U.S. Senate,,1,,Write-In,0,0,0,0
+Adams,16 Monroe A,Governor,,1,DEM,Jennifer G. McCORMICK / Terry GOODIN,19,9,9,1
+Adams,16 Monroe A,Governor,,1,LBT,Donald RAINWATER / Tonya HUDSON,8,1,7,0
+Adams,16 Monroe A,Governor,,1,,Write-In,0,0,0,0
+Adams,16 Monroe A,Attorney General,,1,REP,Todd ROKITA,58,31,26,1
+Adams,16 Monroe A,Attorney General,,1,DEM,Destiny WELLS,19,7,10,2
+Adams,16 Monroe A,U.S. House,3,1,REP,Marlin A. STUTZMAN,60,29,29,2
+Adams,16 Monroe A,U.S. House,3,1,DEM,Kiley M. ADOLPH,18,9,7,2
+Adams,16 Monroe A,U.S. House,3,1,LBT,Jarrad LANCASTER,4,1,3,0
+Adams,16 Monroe A,U.S. House,3,1,,Write-In,0,0,0,0
+Adams,16 Monroe A,State House,79,1,REP,Matthew S. LEHMAN,62,29,30,3
+Adams,16 Monroe A,Judge of the Circuit Court 26th Judicial,,1,REP,Chad E. KUKELHAN,66,32,31,3
+Adams,16 Monroe A,County Auditor,,1,REP,Tony L. MELLENCAMP,66,31,32,3
+Adams,16 Monroe A,County Recorder,,1,REP,Thomas R KRUECKEBERG,62,31,29,2
+Adams,16 Monroe A,County Treasurer,,1,REP,Edgar B. (Ed) DYER,65,33,29,3
+Adams,16 Monroe A,County Coroner,,1,REP,Monica FENNIG,66,31,32,3
+Adams,16 Monroe A,County Commissioner,1,1,REP,Stan A STOPPENHAGEN,67,35,30,2
+Adams,16 Monroe A,County Commissioner,3,1,REP,Douglas L. BAUMAN,64,30,31,3
+Adams,16 Monroe A,County Council Member,At Large,3,REP,Dennis C. BLUHM,53,26,25,2
+Adams,16 Monroe A,County Council Member,At Large,3,REP,John P. SUMMERS,43,22,19,2
+Adams,16 Monroe A,County Council Member,At Large,3,REP,Jim VOGLEWEDE,38,19,17,2
+Adams,16 Monroe A,Adams Central Community SB,At Large,1,,Jason GERBER,57,28,26,3
+Adams,16 Monroe A,Adams Central Community SB,1,1,,Benjamin L LIECHTY,55,25,27,3
+Adams,16 Monroe A,Adams Central Community SB,5,1,,Rhonda M. ISCH,51,23,26,2
+Adams,16 Monroe A,Adams Central Community SB,6,1,,Write-In,1,0,1,0
+Adams,16 Monroe A,IN Supreme Court-Rush,,1,,Yes,41,18,21,2
+Adams,16 Monroe A,IN Supreme Court-Rush,,1,,No,17,10,6,1
+Adams,16 Monroe A,IN Supreme Court-Massa,,1,,Yes,43,21,21,1
+Adams,16 Monroe A,IN Supreme Court-Massa,,1,,No,12,6,5,1
+Adams,16 Monroe A,IN Supreme Court-Molter,,1,,Yes,41,21,19,1
+Adams,16 Monroe A,IN Supreme Court-Molter,,1,,No,14,8,5,1
+Adams,16 Monroe A,Court of Appeals Dist 4-Pyle III,,1,,Yes,41,17,22,2
+Adams,16 Monroe A,Court of Appeals Dist 4-Pyle III,,1,,No,16,10,5,1
 Adams,16 Monroe A,Straight Party,,,DEM,,6,,,
 Adams,16 Monroe A,Straight Party,,,REP,,20,,,
 Adams,17 Monroe B,Registered Voters,,,,,514,,,
 Adams,17 Monroe B,Ballots Cast,,,,,398,,,
-Adams,17 Monroe B,Public Question-Const Amendment,,,,Yes,159,92,65,2
-Adams,17 Monroe B,Public Question-Const Amendment,,,,No,162,72,90,0
-Adams,17 Monroe B,President,,,REP,Donald J. TRUMP / JD VANCE,313,159,151,3
-Adams,17 Monroe B,President,,,DEM,Kamala D. HARRIS / Tim WALZ,68,31,37,0
-Adams,17 Monroe B,President,,,LBT,Chase OLIVER / Mike terr MATT,5,1,4,0
-Adams,17 Monroe B,President,,,WTP,Robert F. KENNEDY JR. / Nichole SHANAHAN,7,5,2,0
-Adams,17 Monroe B,President,,,,Write-In,1,1,0,0
-Adams,17 Monroe B,U.S. Senate,,,REP,Jim BANKS,295,146,146,3
-Adams,17 Monroe B,U.S. Senate,,,DEM,Valerie McCRAY,57,28,29,0
-Adams,17 Monroe B,U.S. Senate,,,LBT,Andrew HORNING,7,3,4,0
-Adams,17 Monroe B,U.S. Senate,,,,Write-In,0,0,0,0
-Adams,17 Monroe B,Governor,,,DEM,Jennifer G. McCORMICK / Terry GOODIN,91,42,49,0
-Adams,17 Monroe B,Governor,,,LBT,Donald RAINWATER / Tonya HUDSON,23,13,10,0
-Adams,17 Monroe B,Governor,,,,Write-In,0,0,0,0
-Adams,17 Monroe B,Attorney General,,,REP,Todd ROKITA,273,142,128,3
-Adams,17 Monroe B,Attorney General,,,DEM,Destiny WELLS,75,34,41,0
-Adams,17 Monroe B,U.S. House,3,,REP,Marlin A. STUTZMAN,298,150,145,3
-Adams,17 Monroe B,U.S. House,3,,DEM,Kiley M. ADOLPH,60,29,31,0
-Adams,17 Monroe B,U.S. House,3,,LBT,Jarrad LANCASTER,16,7,9,0
-Adams,17 Monroe B,U.S. House,3,,,Write-In,0,0,0,0
-Adams,17 Monroe B,State House,79,,REP,Matthew S. LEHMAN,315,152,160,3
-Adams,17 Monroe B,Judge of the Circuit Court 26th Judicial,,,REP,Chad E. KUKELHAN,333,165,165,3
-Adams,17 Monroe B,County Auditor,,,REP,Tony L. MELLENCAMP,336,167,166,3
-Adams,17 Monroe B,County Recorder,,,REP,Thomas R KRUECKEBERG,323,158,162,3
-Adams,17 Monroe B,County Treasurer,,,REP,Edgar B. (Ed) DYER,322,161,158,3
-Adams,17 Monroe B,County Coroner,,,REP,Monica FENNIG,330,163,164,3
-Adams,17 Monroe B,County Commissioner,1,,REP,Stan A STOPPENHAGEN,324,161,160,3
-Adams,17 Monroe B,County Commissioner,3,,REP,Douglas L. BAUMAN,305,147,155,3
-Adams,17 Monroe B,County Council Member,At Large,,REP,Dennis C. BLUHM,229,110,116,3
-Adams,17 Monroe B,County Council Member,At Large,,REP,John P. SUMMERS,184,93,88,3
-Adams,17 Monroe B,County Council Member,At Large,,REP,Jim VOGLEWEDE,182,95,84,3
-Adams,17 Monroe B,Adams Central Community SB,At Large,,,Jason GERBER,246,120,123,3
-Adams,17 Monroe B,Adams Central Community SB,1,,,Benjamin L LIECHTY,271,141,127,3
-Adams,17 Monroe B,Adams Central Community SB,5,,,Rhonda M. ISCH,250,126,121,3
-Adams,17 Monroe B,Adams Central Community SB,6,,,Write-In,5,2,3,0
-Adams,17 Monroe B,IN Supreme Court-Rush,,,,Yes,204,105,99,0
-Adams,17 Monroe B,IN Supreme Court-Rush,,,,No,68,30,38,0
-Adams,17 Monroe B,IN Supreme Court-Massa,,,,Yes,209,106,103,0
-Adams,17 Monroe B,IN Supreme Court-Massa,,,,No,57,24,33,0
-Adams,17 Monroe B,IN Supreme Court-Molter,,,,Yes,210,107,103,0
-Adams,17 Monroe B,IN Supreme Court-Molter,,,,No,58,25,33,0
-Adams,17 Monroe B,Court of Appeals Dist 4-Pyle III,,,,Yes,205,105,100,0
-Adams,17 Monroe B,Court of Appeals Dist 4-Pyle III,,,,No,61,25,36,0
+Adams,17 Monroe B,Public Question-Const Amendment,,1,,Yes,159,92,65,2
+Adams,17 Monroe B,Public Question-Const Amendment,,1,,No,162,72,90,0
+Adams,17 Monroe B,President,,1,REP,Donald J. TRUMP / JD VANCE,313,159,151,3
+Adams,17 Monroe B,President,,1,DEM,Kamala D. HARRIS / Tim WALZ,68,31,37,0
+Adams,17 Monroe B,President,,1,LBT,Chase OLIVER / Mike terr MATT,5,1,4,0
+Adams,17 Monroe B,President,,1,WTP,Robert F. KENNEDY JR. / Nichole SHANAHAN,7,5,2,0
+Adams,17 Monroe B,President,,1,,Write-In,1,1,0,0
+Adams,17 Monroe B,U.S. Senate,,1,REP,Jim BANKS,295,146,146,3
+Adams,17 Monroe B,U.S. Senate,,1,DEM,Valerie McCRAY,57,28,29,0
+Adams,17 Monroe B,U.S. Senate,,1,LBT,Andrew HORNING,7,3,4,0
+Adams,17 Monroe B,U.S. Senate,,1,,Write-In,0,0,0,0
+Adams,17 Monroe B,Governor,,1,DEM,Jennifer G. McCORMICK / Terry GOODIN,91,42,49,0
+Adams,17 Monroe B,Governor,,1,LBT,Donald RAINWATER / Tonya HUDSON,23,13,10,0
+Adams,17 Monroe B,Governor,,1,,Write-In,0,0,0,0
+Adams,17 Monroe B,Attorney General,,1,REP,Todd ROKITA,273,142,128,3
+Adams,17 Monroe B,Attorney General,,1,DEM,Destiny WELLS,75,34,41,0
+Adams,17 Monroe B,U.S. House,3,1,REP,Marlin A. STUTZMAN,298,150,145,3
+Adams,17 Monroe B,U.S. House,3,1,DEM,Kiley M. ADOLPH,60,29,31,0
+Adams,17 Monroe B,U.S. House,3,1,LBT,Jarrad LANCASTER,16,7,9,0
+Adams,17 Monroe B,U.S. House,3,1,,Write-In,0,0,0,0
+Adams,17 Monroe B,State House,79,1,REP,Matthew S. LEHMAN,315,152,160,3
+Adams,17 Monroe B,Judge of the Circuit Court 26th Judicial,,1,REP,Chad E. KUKELHAN,333,165,165,3
+Adams,17 Monroe B,County Auditor,,1,REP,Tony L. MELLENCAMP,336,167,166,3
+Adams,17 Monroe B,County Recorder,,1,REP,Thomas R KRUECKEBERG,323,158,162,3
+Adams,17 Monroe B,County Treasurer,,1,REP,Edgar B. (Ed) DYER,322,161,158,3
+Adams,17 Monroe B,County Coroner,,1,REP,Monica FENNIG,330,163,164,3
+Adams,17 Monroe B,County Commissioner,1,1,REP,Stan A STOPPENHAGEN,324,161,160,3
+Adams,17 Monroe B,County Commissioner,3,1,REP,Douglas L. BAUMAN,305,147,155,3
+Adams,17 Monroe B,County Council Member,At Large,3,REP,Dennis C. BLUHM,229,110,116,3
+Adams,17 Monroe B,County Council Member,At Large,3,REP,John P. SUMMERS,184,93,88,3
+Adams,17 Monroe B,County Council Member,At Large,3,REP,Jim VOGLEWEDE,182,95,84,3
+Adams,17 Monroe B,Adams Central Community SB,At Large,1,,Jason GERBER,246,120,123,3
+Adams,17 Monroe B,Adams Central Community SB,1,1,,Benjamin L LIECHTY,271,141,127,3
+Adams,17 Monroe B,Adams Central Community SB,5,1,,Rhonda M. ISCH,250,126,121,3
+Adams,17 Monroe B,Adams Central Community SB,6,1,,Write-In,5,2,3,0
+Adams,17 Monroe B,IN Supreme Court-Rush,,1,,Yes,204,105,99,0
+Adams,17 Monroe B,IN Supreme Court-Rush,,1,,No,68,30,38,0
+Adams,17 Monroe B,IN Supreme Court-Massa,,1,,Yes,209,106,103,0
+Adams,17 Monroe B,IN Supreme Court-Massa,,1,,No,57,24,33,0
+Adams,17 Monroe B,IN Supreme Court-Molter,,1,,Yes,210,107,103,0
+Adams,17 Monroe B,IN Supreme Court-Molter,,1,,No,58,25,33,0
+Adams,17 Monroe B,Court of Appeals Dist 4-Pyle III,,1,,Yes,205,105,100,0
+Adams,17 Monroe B,Court of Appeals Dist 4-Pyle III,,1,,No,61,25,36,0
 Adams,17 Monroe B,Straight Party,,,DEM,,11,,,
 Adams,17 Monroe B,Straight Party,,,REP,,86,,,
 Adams,18 North Washington,Registered Voters,,,,,434,,,
 Adams,18 North Washington,Ballots Cast,,,,,319,,,
-Adams,18 North Washington,Public Question-Const Amendment,,,,Yes,156,94,60,2
-Adams,18 North Washington,Public Question-Const Amendment,,,,No,107,75,29,3
-Adams,18 North Washington,President,,,REP,Donald J. TRUMP / JD VANCE,261,167,89,5
-Adams,18 North Washington,President,,,DEM,Kamala D. HARRIS / Tim WALZ,49,30,17,2
-Adams,18 North Washington,President,,,LBT,Chase OLIVER / Mike terr MATT,1,0,1,0
-Adams,18 North Washington,President,,,WTP,Robert F. KENNEDY JR. / Nichole SHANAHAN,4,3,1,0
-Adams,18 North Washington,President,,,,Write-In,0,0,0,0
-Adams,18 North Washington,U.S. Senate,,,REP,Jim BANKS,234,157,72,5
-Adams,18 North Washington,U.S. Senate,,,DEM,Valerie McCRAY,41,24,15,2
-Adams,18 North Washington,U.S. Senate,,,LBT,Andrew HORNING,8,3,5,0
-Adams,18 North Washington,U.S. Senate,,,,Write-In,0,0,0,0
-Adams,18 North Washington,Governor,,,DEM,Jennifer G. McCORMICK / Terry GOODIN,57,36,19,2
-Adams,18 North Washington,Governor,,,LBT,Donald RAINWATER / Tonya HUDSON,27,13,12,2
-Adams,18 North Washington,Governor,,,,Write-In,0,0,0,0
-Adams,18 North Washington,Attorney General,,,REP,Todd ROKITA,236,156,75,5
-Adams,18 North Washington,Attorney General,,,DEM,Destiny WELLS,44,27,15,2
-Adams,18 North Washington,U.S. House,3,,REP,Marlin A. STUTZMAN,242,158,79,5
-Adams,18 North Washington,U.S. House,3,,DEM,Kiley M. ADOLPH,44,27,15,2
-Adams,18 North Washington,U.S. House,3,,LBT,Jarrad LANCASTER,11,6,5,0
-Adams,18 North Washington,U.S. House,3,,,Write-In,0,0,0,0
-Adams,18 North Washington,State House,79,,REP,Matthew S. LEHMAN,259,168,86,5
-Adams,18 North Washington,Judge of the Circuit Court 26th Judicial,,,REP,Chad E. KUKELHAN,273,178,89,6
-Adams,18 North Washington,County Auditor,,,REP,Tony L. MELLENCAMP,273,177,91,5
-Adams,18 North Washington,County Recorder,,,REP,Thomas R KRUECKEBERG,266,173,88,5
-Adams,18 North Washington,County Treasurer,,,REP,Edgar B. (Ed) DYER,257,167,85,5
-Adams,18 North Washington,County Coroner,,,REP,Monica FENNIG,260,170,85,5
-Adams,18 North Washington,County Commissioner,1,,REP,Stan A STOPPENHAGEN,267,174,88,5
-Adams,18 North Washington,County Commissioner,3,,REP,Douglas L. BAUMAN,252,162,85,5
-Adams,18 North Washington,County Council Member,At Large,,REP,Dennis C. BLUHM,177,117,57,3
-Adams,18 North Washington,County Council Member,At Large,,REP,John P. SUMMERS,185,129,55,1
-Adams,18 North Washington,County Council Member,At Large,,REP,Jim VOGLEWEDE,151,100,51,0
-Adams,18 North Washington,North Adams Community SB,1,,,Eric W ALLMON,133,90,42,1
-Adams,18 North Washington,North Adams Community SB,1,,,Joel A. MILLER,113,77,33,3
-Adams,18 North Washington,North Adams Community SB,1,,,Wylie SIRK,120,82,38,0
-Adams,18 North Washington,North Adams Community SB,2,,,Jill COLCLASURE,149,97,52,0
-Adams,18 North Washington,North Adams Community SB,2,,,Darlene Hebble JUENGEL,124,81,39,4
-Adams,18 North Washington,North Adams Community SB,2,,,Eric SOMMERS,88,66,21,1
-Adams,18 North Washington,IN Supreme Court-Rush,,,,Yes,185,121,62,2
-Adams,18 North Washington,IN Supreme Court-Rush,,,,No,55,32,19,4
-Adams,18 North Washington,IN Supreme Court-Massa,,,,Yes,179,120,57,2
-Adams,18 North Washington,IN Supreme Court-Massa,,,,No,58,33,21,4
-Adams,18 North Washington,IN Supreme Court-Molter,,,,Yes,185,123,60,2
-Adams,18 North Washington,IN Supreme Court-Molter,,,,No,51,29,19,3
-Adams,18 North Washington,Court of Appeals Dist 4-Pyle III,,,,Yes,174,115,57,2
-Adams,18 North Washington,Court of Appeals Dist 4-Pyle III,,,,No,58,32,22,4
+Adams,18 North Washington,Public Question-Const Amendment,,1,,Yes,156,94,60,2
+Adams,18 North Washington,Public Question-Const Amendment,,1,,No,107,75,29,3
+Adams,18 North Washington,President,,1,REP,Donald J. TRUMP / JD VANCE,261,167,89,5
+Adams,18 North Washington,President,,1,DEM,Kamala D. HARRIS / Tim WALZ,49,30,17,2
+Adams,18 North Washington,President,,1,LBT,Chase OLIVER / Mike terr MATT,1,0,1,0
+Adams,18 North Washington,President,,1,WTP,Robert F. KENNEDY JR. / Nichole SHANAHAN,4,3,1,0
+Adams,18 North Washington,President,,1,,Write-In,0,0,0,0
+Adams,18 North Washington,U.S. Senate,,1,REP,Jim BANKS,234,157,72,5
+Adams,18 North Washington,U.S. Senate,,1,DEM,Valerie McCRAY,41,24,15,2
+Adams,18 North Washington,U.S. Senate,,1,LBT,Andrew HORNING,8,3,5,0
+Adams,18 North Washington,U.S. Senate,,1,,Write-In,0,0,0,0
+Adams,18 North Washington,Governor,,1,DEM,Jennifer G. McCORMICK / Terry GOODIN,57,36,19,2
+Adams,18 North Washington,Governor,,1,LBT,Donald RAINWATER / Tonya HUDSON,27,13,12,2
+Adams,18 North Washington,Governor,,1,,Write-In,0,0,0,0
+Adams,18 North Washington,Attorney General,,1,REP,Todd ROKITA,236,156,75,5
+Adams,18 North Washington,Attorney General,,1,DEM,Destiny WELLS,44,27,15,2
+Adams,18 North Washington,U.S. House,3,1,REP,Marlin A. STUTZMAN,242,158,79,5
+Adams,18 North Washington,U.S. House,3,1,DEM,Kiley M. ADOLPH,44,27,15,2
+Adams,18 North Washington,U.S. House,3,1,LBT,Jarrad LANCASTER,11,6,5,0
+Adams,18 North Washington,U.S. House,3,1,,Write-In,0,0,0,0
+Adams,18 North Washington,State House,79,1,REP,Matthew S. LEHMAN,259,168,86,5
+Adams,18 North Washington,Judge of the Circuit Court 26th Judicial,,1,REP,Chad E. KUKELHAN,273,178,89,6
+Adams,18 North Washington,County Auditor,,1,REP,Tony L. MELLENCAMP,273,177,91,5
+Adams,18 North Washington,County Recorder,,1,REP,Thomas R KRUECKEBERG,266,173,88,5
+Adams,18 North Washington,County Treasurer,,1,REP,Edgar B. (Ed) DYER,257,167,85,5
+Adams,18 North Washington,County Coroner,,1,REP,Monica FENNIG,260,170,85,5
+Adams,18 North Washington,County Commissioner,1,1,REP,Stan A STOPPENHAGEN,267,174,88,5
+Adams,18 North Washington,County Commissioner,3,1,REP,Douglas L. BAUMAN,252,162,85,5
+Adams,18 North Washington,County Council Member,At Large,3,REP,Dennis C. BLUHM,177,117,57,3
+Adams,18 North Washington,County Council Member,At Large,3,REP,John P. SUMMERS,185,129,55,1
+Adams,18 North Washington,County Council Member,At Large,3,REP,Jim VOGLEWEDE,151,100,51,0
+Adams,18 North Washington,North Adams Community SB,1,2,,Eric W ALLMON,133,90,42,1
+Adams,18 North Washington,North Adams Community SB,1,2,,Joel A. MILLER,113,77,33,3
+Adams,18 North Washington,North Adams Community SB,1,2,,Wylie SIRK,120,82,38,0
+Adams,18 North Washington,North Adams Community SB,2,2,,Jill COLCLASURE,149,97,52,0
+Adams,18 North Washington,North Adams Community SB,2,2,,Darlene Hebble JUENGEL,124,81,39,4
+Adams,18 North Washington,North Adams Community SB,2,2,,Eric SOMMERS,88,66,21,1
+Adams,18 North Washington,IN Supreme Court-Rush,,1,,Yes,185,121,62,2
+Adams,18 North Washington,IN Supreme Court-Rush,,1,,No,55,32,19,4
+Adams,18 North Washington,IN Supreme Court-Massa,,1,,Yes,179,120,57,2
+Adams,18 North Washington,IN Supreme Court-Massa,,1,,No,58,33,21,4
+Adams,18 North Washington,IN Supreme Court-Molter,,1,,Yes,185,123,60,2
+Adams,18 North Washington,IN Supreme Court-Molter,,1,,No,51,29,19,3
+Adams,18 North Washington,Court of Appeals Dist 4-Pyle III,,1,,Yes,174,115,57,2
+Adams,18 North Washington,Court of Appeals Dist 4-Pyle III,,1,,No,58,32,22,4
 Adams,18 North Washington,Straight Party,,,DEM,,7,,,
 Adams,18 North Washington,Straight Party,,,REP,,62,,,
 Adams,18 North Washington,Straight Party,,,WTP,,1,,,
 Adams,19 Preble,Registered Voters,,,,,793,,,
 Adams,19 Preble,Ballots Cast,,,,,625,,,
-Adams,19 Preble,Public Question-Const Amendment,,,,Yes,309,191,113,5
-Adams,19 Preble,Public Question-Const Amendment,,,,No,221,134,86,1
-Adams,19 Preble,President,,,REP,Donald J. TRUMP / JD VANCE,505,312,187,6
-Adams,19 Preble,President,,,DEM,Kamala D. HARRIS / Tim WALZ,108,61,44,3
-Adams,19 Preble,President,,,LBT,Chase OLIVER / Mike terr MATT,5,4,1,0
-Adams,19 Preble,President,,,WTP,Robert F. KENNEDY JR. / Nichole SHANAHAN,6,2,4,0
-Adams,19 Preble,President,,,,Write-In,0,0,0,0
-Adams,19 Preble,U.S. Senate,,,REP,Jim BANKS,459,285,171,3
-Adams,19 Preble,U.S. Senate,,,DEM,Valerie McCRAY,91,56,31,4
-Adams,19 Preble,U.S. Senate,,,LBT,Andrew HORNING,15,8,6,1
-Adams,19 Preble,U.S. Senate,,,,Write-In,0,0,0,0
-Adams,19 Preble,Governor,,,DEM,Jennifer G. McCORMICK / Terry GOODIN,114,65,45,4
-Adams,19 Preble,Governor,,,LBT,Donald RAINWATER / Tonya HUDSON,30,17,13,0
-Adams,19 Preble,Governor,,,,Write-In,0,0,0,0
-Adams,19 Preble,Attorney General,,,REP,Todd ROKITA,442,281,159,2
-Adams,19 Preble,Attorney General,,,DEM,Destiny WELLS,113,64,44,5
-Adams,19 Preble,U.S. House,3,,REP,Marlin A. STUTZMAN,487,305,177,5
-Adams,19 Preble,U.S. House,3,,DEM,Kiley M. ADOLPH,92,57,33,2
-Adams,19 Preble,U.S. House,3,,LBT,Jarrad LANCASTER,15,6,8,1
-Adams,19 Preble,U.S. House,3,,,Write-In,0,0,0,0
-Adams,19 Preble,State House,79,,REP,Matthew S. LEHMAN,506,307,193,6
-Adams,19 Preble,Judge of the Circuit Court 26th Judicial,,,REP,Chad E. KUKELHAN,525,321,196,8
-Adams,19 Preble,County Auditor,,,REP,Tony L. MELLENCAMP,516,318,192,6
-Adams,19 Preble,County Recorder,,,REP,Thomas R KRUECKEBERG,515,318,193,4
-Adams,19 Preble,County Treasurer,,,REP,Edgar B. (Ed) DYER,508,311,193,4
-Adams,19 Preble,County Coroner,,,REP,Monica FENNIG,505,309,190,6
-Adams,19 Preble,County Commissioner,1,,REP,Stan A STOPPENHAGEN,534,326,200,8
-Adams,19 Preble,County Commissioner,3,,REP,Douglas L. BAUMAN,498,296,196,6
-Adams,19 Preble,County Council Member,At Large,,REP,Dennis C. BLUHM,327,199,123,5
-Adams,19 Preble,County Council Member,At Large,,REP,John P. SUMMERS,333,196,133,4
-Adams,19 Preble,County Council Member,At Large,,REP,Jim VOGLEWEDE,309,179,128,2
-Adams,19 Preble,North Adams Community SB,1,,,Eric W ALLMON,220,129,87,4
-Adams,19 Preble,North Adams Community SB,1,,,Joel A. MILLER,219,129,87,3
-Adams,19 Preble,North Adams Community SB,1,,,Wylie SIRK,222,138,79,5
-Adams,19 Preble,North Adams Community SB,2,,,Jill COLCLASURE,251,147,100,4
-Adams,19 Preble,North Adams Community SB,2,,,Darlene Hebble JUENGEL,245,144,95,6
-Adams,19 Preble,North Adams Community SB,2,,,Eric SOMMERS,177,106,71,0
-Adams,19 Preble,IN Supreme Court-Rush,,,,Yes,329,206,117,6
-Adams,19 Preble,IN Supreme Court-Rush,,,,No,125,75,50,0
-Adams,19 Preble,IN Supreme Court-Massa,,,,Yes,325,205,115,5
-Adams,19 Preble,IN Supreme Court-Massa,,,,No,123,73,49,1
-Adams,19 Preble,IN Supreme Court-Molter,,,,Yes,320,200,115,5
-Adams,19 Preble,IN Supreme Court-Molter,,,,No,123,74,48,1
-Adams,19 Preble,Court of Appeals Dist 4-Pyle III,,,,Yes,322,199,118,5
-Adams,19 Preble,Court of Appeals Dist 4-Pyle III,,,,No,123,75,47,1
+Adams,19 Preble,Public Question-Const Amendment,,1,,Yes,309,191,113,5
+Adams,19 Preble,Public Question-Const Amendment,,1,,No,221,134,86,1
+Adams,19 Preble,President,,1,REP,Donald J. TRUMP / JD VANCE,505,312,187,6
+Adams,19 Preble,President,,1,DEM,Kamala D. HARRIS / Tim WALZ,108,61,44,3
+Adams,19 Preble,President,,1,LBT,Chase OLIVER / Mike terr MATT,5,4,1,0
+Adams,19 Preble,President,,1,WTP,Robert F. KENNEDY JR. / Nichole SHANAHAN,6,2,4,0
+Adams,19 Preble,President,,1,,Write-In,0,0,0,0
+Adams,19 Preble,U.S. Senate,,1,REP,Jim BANKS,459,285,171,3
+Adams,19 Preble,U.S. Senate,,1,DEM,Valerie McCRAY,91,56,31,4
+Adams,19 Preble,U.S. Senate,,1,LBT,Andrew HORNING,15,8,6,1
+Adams,19 Preble,U.S. Senate,,1,,Write-In,0,0,0,0
+Adams,19 Preble,Governor,,1,DEM,Jennifer G. McCORMICK / Terry GOODIN,114,65,45,4
+Adams,19 Preble,Governor,,1,LBT,Donald RAINWATER / Tonya HUDSON,30,17,13,0
+Adams,19 Preble,Governor,,1,,Write-In,0,0,0,0
+Adams,19 Preble,Attorney General,,1,REP,Todd ROKITA,442,281,159,2
+Adams,19 Preble,Attorney General,,1,DEM,Destiny WELLS,113,64,44,5
+Adams,19 Preble,U.S. House,3,1,REP,Marlin A. STUTZMAN,487,305,177,5
+Adams,19 Preble,U.S. House,3,1,DEM,Kiley M. ADOLPH,92,57,33,2
+Adams,19 Preble,U.S. House,3,1,LBT,Jarrad LANCASTER,15,6,8,1
+Adams,19 Preble,U.S. House,3,1,,Write-In,0,0,0,0
+Adams,19 Preble,State House,79,1,REP,Matthew S. LEHMAN,506,307,193,6
+Adams,19 Preble,Judge of the Circuit Court 26th Judicial,,1,REP,Chad E. KUKELHAN,525,321,196,8
+Adams,19 Preble,County Auditor,,1,REP,Tony L. MELLENCAMP,516,318,192,6
+Adams,19 Preble,County Recorder,,1,REP,Thomas R KRUECKEBERG,515,318,193,4
+Adams,19 Preble,County Treasurer,,1,REP,Edgar B. (Ed) DYER,508,311,193,4
+Adams,19 Preble,County Coroner,,1,REP,Monica FENNIG,505,309,190,6
+Adams,19 Preble,County Commissioner,1,1,REP,Stan A STOPPENHAGEN,534,326,200,8
+Adams,19 Preble,County Commissioner,3,1,REP,Douglas L. BAUMAN,498,296,196,6
+Adams,19 Preble,County Council Member,At Large,3,REP,Dennis C. BLUHM,327,199,123,5
+Adams,19 Preble,County Council Member,At Large,3,REP,John P. SUMMERS,333,196,133,4
+Adams,19 Preble,County Council Member,At Large,3,REP,Jim VOGLEWEDE,309,179,128,2
+Adams,19 Preble,North Adams Community SB,1,2,,Eric W ALLMON,220,129,87,4
+Adams,19 Preble,North Adams Community SB,1,2,,Joel A. MILLER,219,129,87,3
+Adams,19 Preble,North Adams Community SB,1,2,,Wylie SIRK,222,138,79,5
+Adams,19 Preble,North Adams Community SB,2,2,,Jill COLCLASURE,251,147,100,4
+Adams,19 Preble,North Adams Community SB,2,2,,Darlene Hebble JUENGEL,245,144,95,6
+Adams,19 Preble,North Adams Community SB,2,2,,Eric SOMMERS,177,106,71,0
+Adams,19 Preble,IN Supreme Court-Rush,,1,,Yes,329,206,117,6
+Adams,19 Preble,IN Supreme Court-Rush,,1,,No,125,75,50,0
+Adams,19 Preble,IN Supreme Court-Massa,,1,,Yes,325,205,115,5
+Adams,19 Preble,IN Supreme Court-Massa,,1,,No,123,73,49,1
+Adams,19 Preble,IN Supreme Court-Molter,,1,,Yes,320,200,115,5
+Adams,19 Preble,IN Supreme Court-Molter,,1,,No,123,74,48,1
+Adams,19 Preble,Court of Appeals Dist 4-Pyle III,,1,,Yes,322,199,118,5
+Adams,19 Preble,Court of Appeals Dist 4-Pyle III,,1,,No,123,75,47,1
 Adams,19 Preble,Straight Party,,,DEM,,14,,,
 Adams,19 Preble,Straight Party,,,REP,,147,,,
 Adams,20 South Monroe,Registered Voters,,,,,695,,,
 Adams,20 South Monroe,Ballots Cast,,,,,425,,,
-Adams,20 South Monroe,Public Question-Const Amendment,,,,Yes,207,88,118,1
-Adams,20 South Monroe,Public Question-Const Amendment,,,,No,141,50,88,3
-Adams,20 South Monroe,President,,,REP,Donald J. TRUMP / JD VANCE,381,149,230,2
-Adams,20 South Monroe,President,,,DEM,Kamala D. HARRIS / Tim WALZ,31,17,11,3
-Adams,20 South Monroe,President,,,LBT,Chase OLIVER / Mike terr MATT,2,0,2,0
-Adams,20 South Monroe,President,,,WTP,Robert F. KENNEDY JR. / Nichole SHANAHAN,4,2,2,0
-Adams,20 South Monroe,President,,,,Write-In,1,0,1,0
-Adams,20 South Monroe,U.S. Senate,,,REP,Jim BANKS,352,138,210,4
-Adams,20 South Monroe,U.S. Senate,,,DEM,Valerie McCRAY,22,10,10,2
-Adams,20 South Monroe,U.S. Senate,,,LBT,Andrew HORNING,2,1,1,0
-Adams,20 South Monroe,U.S. Senate,,,,Write-In,0,0,0,0
-Adams,20 South Monroe,Governor,,,DEM,Jennifer G. McCORMICK / Terry GOODIN,39,18,19,2
-Adams,20 South Monroe,Governor,,,LBT,Donald RAINWATER / Tonya HUDSON,10,2,8,0
-Adams,20 South Monroe,Governor,,,,Write-In,0,0,0,0
-Adams,20 South Monroe,Attorney General,,,REP,Todd ROKITA,337,134,199,4
-Adams,20 South Monroe,Attorney General,,,DEM,Destiny WELLS,36,16,18,2
-Adams,20 South Monroe,U.S. House,3,,REP,Marlin A. STUTZMAN,364,141,219,4
-Adams,20 South Monroe,U.S. House,3,,DEM,Kiley M. ADOLPH,32,17,13,2
-Adams,20 South Monroe,U.S. House,3,,LBT,Jarrad LANCASTER,3,2,1,0
-Adams,20 South Monroe,U.S. House,3,,,Write-In,0,0,0,0
-Adams,20 South Monroe,State House,79,,REP,Matthew S. LEHMAN,365,146,213,6
-Adams,20 South Monroe,Judge of the Circuit Court 26th Judicial,,,REP,Chad E. KUKELHAN,362,143,213,6
-Adams,20 South Monroe,County Auditor,,,REP,Tony L. MELLENCAMP,383,151,227,5
-Adams,20 South Monroe,County Recorder,,,REP,Thomas R KRUECKEBERG,372,149,217,6
-Adams,20 South Monroe,County Treasurer,,,REP,Edgar B. (Ed) DYER,370,149,215,6
-Adams,20 South Monroe,County Coroner,,,REP,Monica FENNIG,370,149,215,6
-Adams,20 South Monroe,County Commissioner,1,,REP,Stan A STOPPENHAGEN,355,140,209,6
-Adams,20 South Monroe,County Commissioner,3,,REP,Douglas L. BAUMAN,354,137,211,6
-Adams,20 South Monroe,County Council Member,At Large,,REP,Dennis C. BLUHM,269,104,161,4
-Adams,20 South Monroe,County Council Member,At Large,,REP,John P. SUMMERS,220,83,132,5
-Adams,20 South Monroe,County Council Member,At Large,,REP,Jim VOGLEWEDE,219,90,124,5
-Adams,20 South Monroe,Adams Central Community SB,At Large,,,Jason GERBER,170,62,106,2
-Adams,20 South Monroe,Adams Central Community SB,1,,,Benjamin L LIECHTY,191,69,120,2
-Adams,20 South Monroe,Adams Central Community SB,5,,,Rhonda M. ISCH,177,64,111,2
-Adams,20 South Monroe,Adams Central Community SB,6,,,Write-In,7,4,2,1
-Adams,20 South Monroe,South Adams School,At Large,,,Kyle LITWILLER,81,32,48,1
-Adams,20 South Monroe,South Adams School,At Large,,,Benjamin REDIGER,71,33,36,2
-Adams,20 South Monroe,South Adams School,2,,,Arlene J AMSTUTZ,134,58,73,3
-Adams,20 South Monroe,South Adams School,5,,,Brian (Buzz) CAFFEE,141,59,79,3
-Adams,20 South Monroe,IN Supreme Court-Rush,,,,Yes,265,106,156,3
-Adams,20 South Monroe,IN Supreme Court-Rush,,,,No,50,17,32,1
-Adams,20 South Monroe,IN Supreme Court-Massa,,,,Yes,266,106,157,3
-Adams,20 South Monroe,IN Supreme Court-Massa,,,,No,43,16,26,1
-Adams,20 South Monroe,IN Supreme Court-Molter,,,,Yes,263,106,154,3
-Adams,20 South Monroe,IN Supreme Court-Molter,,,,No,46,16,29,1
-Adams,20 South Monroe,Court of Appeals Dist 4-Pyle III,,,,Yes,262,106,153,3
-Adams,20 South Monroe,Court of Appeals Dist 4-Pyle III,,,,No,45,15,29,1
+Adams,20 South Monroe,Public Question-Const Amendment,,1,,Yes,207,88,118,1
+Adams,20 South Monroe,Public Question-Const Amendment,,1,,No,141,50,88,3
+Adams,20 South Monroe,President,,1,REP,Donald J. TRUMP / JD VANCE,381,149,230,2
+Adams,20 South Monroe,President,,1,DEM,Kamala D. HARRIS / Tim WALZ,31,17,11,3
+Adams,20 South Monroe,President,,1,LBT,Chase OLIVER / Mike terr MATT,2,0,2,0
+Adams,20 South Monroe,President,,1,WTP,Robert F. KENNEDY JR. / Nichole SHANAHAN,4,2,2,0
+Adams,20 South Monroe,President,,1,,Write-In,1,0,1,0
+Adams,20 South Monroe,U.S. Senate,,1,REP,Jim BANKS,352,138,210,4
+Adams,20 South Monroe,U.S. Senate,,1,DEM,Valerie McCRAY,22,10,10,2
+Adams,20 South Monroe,U.S. Senate,,1,LBT,Andrew HORNING,2,1,1,0
+Adams,20 South Monroe,U.S. Senate,,1,,Write-In,0,0,0,0
+Adams,20 South Monroe,Governor,,1,DEM,Jennifer G. McCORMICK / Terry GOODIN,39,18,19,2
+Adams,20 South Monroe,Governor,,1,LBT,Donald RAINWATER / Tonya HUDSON,10,2,8,0
+Adams,20 South Monroe,Governor,,1,,Write-In,0,0,0,0
+Adams,20 South Monroe,Attorney General,,1,REP,Todd ROKITA,337,134,199,4
+Adams,20 South Monroe,Attorney General,,1,DEM,Destiny WELLS,36,16,18,2
+Adams,20 South Monroe,U.S. House,3,1,REP,Marlin A. STUTZMAN,364,141,219,4
+Adams,20 South Monroe,U.S. House,3,1,DEM,Kiley M. ADOLPH,32,17,13,2
+Adams,20 South Monroe,U.S. House,3,1,LBT,Jarrad LANCASTER,3,2,1,0
+Adams,20 South Monroe,U.S. House,3,1,,Write-In,0,0,0,0
+Adams,20 South Monroe,State House,79,1,REP,Matthew S. LEHMAN,365,146,213,6
+Adams,20 South Monroe,Judge of the Circuit Court 26th Judicial,,1,REP,Chad E. KUKELHAN,362,143,213,6
+Adams,20 South Monroe,County Auditor,,1,REP,Tony L. MELLENCAMP,383,151,227,5
+Adams,20 South Monroe,County Recorder,,1,REP,Thomas R KRUECKEBERG,372,149,217,6
+Adams,20 South Monroe,County Treasurer,,1,REP,Edgar B. (Ed) DYER,370,149,215,6
+Adams,20 South Monroe,County Coroner,,1,REP,Monica FENNIG,370,149,215,6
+Adams,20 South Monroe,County Commissioner,1,1,REP,Stan A STOPPENHAGEN,355,140,209,6
+Adams,20 South Monroe,County Commissioner,3,1,REP,Douglas L. BAUMAN,354,137,211,6
+Adams,20 South Monroe,County Council Member,At Large,3,REP,Dennis C. BLUHM,269,104,161,4
+Adams,20 South Monroe,County Council Member,At Large,3,REP,John P. SUMMERS,220,83,132,5
+Adams,20 South Monroe,County Council Member,At Large,3,REP,Jim VOGLEWEDE,219,90,124,5
+Adams,20 South Monroe,Adams Central Community SB,At Large,1,,Jason GERBER,170,62,106,2
+Adams,20 South Monroe,Adams Central Community SB,1,1,,Benjamin L LIECHTY,191,69,120,2
+Adams,20 South Monroe,Adams Central Community SB,5,1,,Rhonda M. ISCH,177,64,111,2
+Adams,20 South Monroe,Adams Central Community SB,6,1,,Write-In,7,4,2,1
+Adams,20 South Monroe,South Adams School,At Large,1,,Kyle LITWILLER,81,32,48,1
+Adams,20 South Monroe,South Adams School,At Large,1,,Benjamin REDIGER,71,33,36,2
+Adams,20 South Monroe,South Adams School,2,1,,Arlene J AMSTUTZ,134,58,73,3
+Adams,20 South Monroe,South Adams School,5,1,,Brian (Buzz) CAFFEE,141,59,79,3
+Adams,20 South Monroe,IN Supreme Court-Rush,,1,,Yes,265,106,156,3
+Adams,20 South Monroe,IN Supreme Court-Rush,,1,,No,50,17,32,1
+Adams,20 South Monroe,IN Supreme Court-Massa,,1,,Yes,266,106,157,3
+Adams,20 South Monroe,IN Supreme Court-Massa,,1,,No,43,16,26,1
+Adams,20 South Monroe,IN Supreme Court-Molter,,1,,Yes,263,106,154,3
+Adams,20 South Monroe,IN Supreme Court-Molter,,1,,No,46,16,29,1
+Adams,20 South Monroe,Court of Appeals Dist 4-Pyle III,,1,,Yes,262,106,153,3
+Adams,20 South Monroe,Court of Appeals Dist 4-Pyle III,,1,,No,45,15,29,1
 Adams,20 South Monroe,Straight Party,,,DEM,,4,,,
 Adams,20 South Monroe,Straight Party,,,REP,,108,,,
 Adams,21 South Washington,Registered Voters,,,,,788,,,
 Adams,21 South Washington,Ballots Cast,,,,,587,,,
-Adams,21 South Washington,Public Question-Const Amendment,,,,Yes,264,154,106,4
-Adams,21 South Washington,Public Question-Const Amendment,,,,No,213,136,70,7
-Adams,21 South Washington,President,,,REP,Donald J. TRUMP / JD VANCE,444,263,175,6
-Adams,21 South Washington,President,,,DEM,Kamala D. HARRIS / Tim WALZ,132,93,33,6
-Adams,21 South Washington,President,,,LBT,Chase OLIVER / Mike terr MATT,2,0,2,0
-Adams,21 South Washington,President,,,WTP,Robert F. KENNEDY JR. / Nichole SHANAHAN,5,1,3,1
-Adams,21 South Washington,President,,,,Write-In,1,0,1,0
-Adams,21 South Washington,U.S. Senate,,,REP,Jim BANKS,400,230,164,6
-Adams,21 South Washington,U.S. Senate,,,DEM,Valerie McCRAY,98,67,24,7
-Adams,21 South Washington,U.S. Senate,,,LBT,Andrew HORNING,7,4,3,0
-Adams,21 South Washington,U.S. Senate,,,,Write-In,0,0,0,0
-Adams,21 South Washington,Governor,,,DEM,Jennifer G. McCORMICK / Terry GOODIN,129,92,30,7
-Adams,21 South Washington,Governor,,,LBT,Donald RAINWATER / Tonya HUDSON,30,16,14,0
-Adams,21 South Washington,Governor,,,,Write-In,0,0,0,0
-Adams,21 South Washington,Attorney General,,,REP,Todd ROKITA,381,231,145,5
-Adams,21 South Washington,Attorney General,,,DEM,Destiny WELLS,124,80,37,7
-Adams,21 South Washington,U.S. House,3,,REP,Marlin A. STUTZMAN,417,248,161,8
-Adams,21 South Washington,U.S. House,3,,DEM,Kiley M. ADOLPH,104,75,24,5
-Adams,21 South Washington,U.S. House,3,,LBT,Jarrad LANCASTER,21,10,11,0
-Adams,21 South Washington,U.S. House,3,,,Write-In,0,0,0,0
-Adams,21 South Washington,State House,79,,REP,Matthew S. LEHMAN,428,251,167,10
-Adams,21 South Washington,Judge of the Circuit Court 26th Judicial,,,REP,Chad E. KUKELHAN,456,275,171,10
-Adams,21 South Washington,County Auditor,,,REP,Tony L. MELLENCAMP,455,267,180,8
-Adams,21 South Washington,County Recorder,,,REP,Thomas R KRUECKEBERG,442,267,166,9
-Adams,21 South Washington,County Treasurer,,,REP,Edgar B. (Ed) DYER,428,257,162,9
-Adams,21 South Washington,County Coroner,,,REP,Monica FENNIG,447,270,168,9
-Adams,21 South Washington,County Commissioner,1,,REP,Stan A STOPPENHAGEN,445,271,166,8
-Adams,21 South Washington,County Commissioner,3,,REP,Douglas L. BAUMAN,414,252,153,9
-Adams,21 South Washington,County Council Member,At Large,,REP,Dennis C. BLUHM,299,185,108,6
-Adams,21 South Washington,County Council Member,At Large,,REP,John P. SUMMERS,271,166,101,4
-Adams,21 South Washington,County Council Member,At Large,,REP,Jim VOGLEWEDE,257,158,92,7
-Adams,21 South Washington,Adams Central Community SB,At Large,,,Jason GERBER,342,203,131,8
-Adams,21 South Washington,Adams Central Community SB,1,,,Benjamin L LIECHTY,383,219,156,8
-Adams,21 South Washington,Adams Central Community SB,5,,,Rhonda M. ISCH,351,217,126,8
-Adams,21 South Washington,Adams Central Community SB,6,,,Write-In,6,3,3,0
-Adams,21 South Washington,IN Supreme Court-Rush,,,,Yes,297,175,116,6
-Adams,21 South Washington,IN Supreme Court-Rush,,,,No,107,71,33,3
-Adams,21 South Washington,IN Supreme Court-Massa,,,,Yes,306,179,120,7
-Adams,21 South Washington,IN Supreme Court-Massa,,,,No,95,65,29,1
-Adams,21 South Washington,IN Supreme Court-Molter,,,,Yes,306,180,120,6
-Adams,21 South Washington,IN Supreme Court-Molter,,,,No,93,65,26,2
-Adams,21 South Washington,Court of Appeals Dist 4-Pyle III,,,,Yes,304,176,122,6
-Adams,21 South Washington,Court of Appeals Dist 4-Pyle III,,,,No,95,67,26,2
+Adams,21 South Washington,Public Question-Const Amendment,,1,,Yes,264,154,106,4
+Adams,21 South Washington,Public Question-Const Amendment,,1,,No,213,136,70,7
+Adams,21 South Washington,President,,1,REP,Donald J. TRUMP / JD VANCE,444,263,175,6
+Adams,21 South Washington,President,,1,DEM,Kamala D. HARRIS / Tim WALZ,132,93,33,6
+Adams,21 South Washington,President,,1,LBT,Chase OLIVER / Mike terr MATT,2,0,2,0
+Adams,21 South Washington,President,,1,WTP,Robert F. KENNEDY JR. / Nichole SHANAHAN,5,1,3,1
+Adams,21 South Washington,President,,1,,Write-In,1,0,1,0
+Adams,21 South Washington,U.S. Senate,,1,REP,Jim BANKS,400,230,164,6
+Adams,21 South Washington,U.S. Senate,,1,DEM,Valerie McCRAY,98,67,24,7
+Adams,21 South Washington,U.S. Senate,,1,LBT,Andrew HORNING,7,4,3,0
+Adams,21 South Washington,U.S. Senate,,1,,Write-In,0,0,0,0
+Adams,21 South Washington,Governor,,1,DEM,Jennifer G. McCORMICK / Terry GOODIN,129,92,30,7
+Adams,21 South Washington,Governor,,1,LBT,Donald RAINWATER / Tonya HUDSON,30,16,14,0
+Adams,21 South Washington,Governor,,1,,Write-In,0,0,0,0
+Adams,21 South Washington,Attorney General,,1,REP,Todd ROKITA,381,231,145,5
+Adams,21 South Washington,Attorney General,,1,DEM,Destiny WELLS,124,80,37,7
+Adams,21 South Washington,U.S. House,3,1,REP,Marlin A. STUTZMAN,417,248,161,8
+Adams,21 South Washington,U.S. House,3,1,DEM,Kiley M. ADOLPH,104,75,24,5
+Adams,21 South Washington,U.S. House,3,1,LBT,Jarrad LANCASTER,21,10,11,0
+Adams,21 South Washington,U.S. House,3,1,,Write-In,0,0,0,0
+Adams,21 South Washington,State House,79,1,REP,Matthew S. LEHMAN,428,251,167,10
+Adams,21 South Washington,Judge of the Circuit Court 26th Judicial,,1,REP,Chad E. KUKELHAN,456,275,171,10
+Adams,21 South Washington,County Auditor,,1,REP,Tony L. MELLENCAMP,455,267,180,8
+Adams,21 South Washington,County Recorder,,1,REP,Thomas R KRUECKEBERG,442,267,166,9
+Adams,21 South Washington,County Treasurer,,1,REP,Edgar B. (Ed) DYER,428,257,162,9
+Adams,21 South Washington,County Coroner,,1,REP,Monica FENNIG,447,270,168,9
+Adams,21 South Washington,County Commissioner,1,1,REP,Stan A STOPPENHAGEN,445,271,166,8
+Adams,21 South Washington,County Commissioner,3,1,REP,Douglas L. BAUMAN,414,252,153,9
+Adams,21 South Washington,County Council Member,At Large,3,REP,Dennis C. BLUHM,299,185,108,6
+Adams,21 South Washington,County Council Member,At Large,3,REP,John P. SUMMERS,271,166,101,4
+Adams,21 South Washington,County Council Member,At Large,3,REP,Jim VOGLEWEDE,257,158,92,7
+Adams,21 South Washington,Adams Central Community SB,At Large,1,,Jason GERBER,342,203,131,8
+Adams,21 South Washington,Adams Central Community SB,1,1,,Benjamin L LIECHTY,383,219,156,8
+Adams,21 South Washington,Adams Central Community SB,5,1,,Rhonda M. ISCH,351,217,126,8
+Adams,21 South Washington,Adams Central Community SB,6,1,,Write-In,6,3,3,0
+Adams,21 South Washington,IN Supreme Court-Rush,,1,,Yes,297,175,116,6
+Adams,21 South Washington,IN Supreme Court-Rush,,1,,No,107,71,33,3
+Adams,21 South Washington,IN Supreme Court-Massa,,1,,Yes,306,179,120,7
+Adams,21 South Washington,IN Supreme Court-Massa,,1,,No,95,65,29,1
+Adams,21 South Washington,IN Supreme Court-Molter,,1,,Yes,306,180,120,6
+Adams,21 South Washington,IN Supreme Court-Molter,,1,,No,93,65,26,2
+Adams,21 South Washington,Court of Appeals Dist 4-Pyle III,,1,,Yes,304,176,122,6
+Adams,21 South Washington,Court of Appeals Dist 4-Pyle III,,1,,No,95,67,26,2
 Adams,21 South Washington,Straight Party,,,DEM,,17,,,
 Adams,21 South Washington,Straight Party,,,REP,,116,,,
 Adams,22 St Marys,Registered Voters,,,,,772,,,
 Adams,22 St Marys,Ballots Cast,,,,,570,,,
-Adams,22 St Marys,Public Question-Const Amendment,,,,Yes,261,159,100,2
-Adams,22 St Marys,Public Question-Const Amendment,,,,No,220,132,84,4
-Adams,22 St Marys,President,,,REP,Donald J. TRUMP / JD VANCE,452,256,187,9
-Adams,22 St Marys,President,,,DEM,Kamala D. HARRIS / Tim WALZ,102,73,27,2
-Adams,22 St Marys,President,,,LBT,Chase OLIVER / Mike terr MATT,4,2,2,0
-Adams,22 St Marys,President,,,WTP,Robert F. KENNEDY JR. / Nichole SHANAHAN,6,2,4,0
-Adams,22 St Marys,President,,,,Write-In,0,0,0,0
-Adams,22 St Marys,U.S. Senate,,,REP,Jim BANKS,395,225,162,8
-Adams,22 St Marys,U.S. Senate,,,DEM,Valerie McCRAY,95,65,27,3
-Adams,22 St Marys,U.S. Senate,,,LBT,Andrew HORNING,8,4,4,0
-Adams,22 St Marys,U.S. Senate,,,,Write-In,0,0,0,0
-Adams,22 St Marys,Governor,,,DEM,Jennifer G. McCORMICK / Terry GOODIN,117,78,37,2
-Adams,22 St Marys,Governor,,,LBT,Donald RAINWATER / Tonya HUDSON,26,12,13,1
-Adams,22 St Marys,Governor,,,,Write-In,0,0,0,0
-Adams,22 St Marys,Attorney General,,,REP,Todd ROKITA,394,223,162,9
-Adams,22 St Marys,Attorney General,,,DEM,Destiny WELLS,96,67,27,2
-Adams,22 St Marys,U.S. House,3,,REP,Marlin A. STUTZMAN,418,233,176,9
-Adams,22 St Marys,U.S. House,3,,DEM,Kiley M. ADOLPH,89,67,20,2
-Adams,22 St Marys,U.S. House,3,,LBT,Jarrad LANCASTER,19,11,8,0
-Adams,22 St Marys,U.S. House,3,,,Write-In,1,1,0,0
-Adams,22 St Marys,State House,79,,REP,Matthew S. LEHMAN,439,247,183,9
-Adams,22 St Marys,Judge of the Circuit Court 26th Judicial,,,REP,Chad E. KUKELHAN,455,262,183,10
-Adams,22 St Marys,County Auditor,,,REP,Tony L. MELLENCAMP,471,271,190,10
-Adams,22 St Marys,County Recorder,,,REP,Thomas R KRUECKEBERG,463,268,185,10
-Adams,22 St Marys,County Treasurer,,,REP,Edgar B. (Ed) DYER,454,259,185,10
-Adams,22 St Marys,County Coroner,,,REP,Monica FENNIG,469,268,191,10
-Adams,22 St Marys,County Commissioner,1,,REP,Stan A STOPPENHAGEN,453,263,180,10
-Adams,22 St Marys,County Commissioner,3,,REP,Douglas L. BAUMAN,428,239,179,10
-Adams,22 St Marys,County Council Member,At Large,,REP,Dennis C. BLUHM,315,197,113,5
-Adams,22 St Marys,County Council Member,At Large,,REP,John P. SUMMERS,280,159,115,6
-Adams,22 St Marys,County Council Member,At Large,,REP,Jim VOGLEWEDE,283,160,119,4
-Adams,22 St Marys,Adams Central Community SB,At Large,,,Jason GERBER,343,198,136,9
-Adams,22 St Marys,Adams Central Community SB,1,,,Benjamin L LIECHTY,369,215,145,9
-Adams,22 St Marys,Adams Central Community SB,5,,,Rhonda M. ISCH,373,223,141,9
-Adams,22 St Marys,Adams Central Community SB,6,,,Write-In,14,5,5,4
-Adams,22 St Marys,IN Supreme Court-Rush,,,,Yes,302,171,125,6
-Adams,22 St Marys,IN Supreme Court-Rush,,,,No,119,75,43,1
-Adams,22 St Marys,IN Supreme Court-Massa,,,,Yes,291,164,120,7
-Adams,22 St Marys,IN Supreme Court-Massa,,,,No,118,73,45,0
-Adams,22 St Marys,IN Supreme Court-Molter,,,,Yes,291,162,123,6
-Adams,22 St Marys,IN Supreme Court-Molter,,,,No,120,77,42,1
-Adams,22 St Marys,Court of Appeals Dist 4-Pyle III,,,,Yes,290,159,126,5
-Adams,22 St Marys,Court of Appeals Dist 4-Pyle III,,,,No,120,77,42,1
+Adams,22 St Marys,Public Question-Const Amendment,,1,,Yes,261,159,100,2
+Adams,22 St Marys,Public Question-Const Amendment,,1,,No,220,132,84,4
+Adams,22 St Marys,President,,1,REP,Donald J. TRUMP / JD VANCE,452,256,187,9
+Adams,22 St Marys,President,,1,DEM,Kamala D. HARRIS / Tim WALZ,102,73,27,2
+Adams,22 St Marys,President,,1,LBT,Chase OLIVER / Mike terr MATT,4,2,2,0
+Adams,22 St Marys,President,,1,WTP,Robert F. KENNEDY JR. / Nichole SHANAHAN,6,2,4,0
+Adams,22 St Marys,President,,1,,Write-In,0,0,0,0
+Adams,22 St Marys,U.S. Senate,,1,REP,Jim BANKS,395,225,162,8
+Adams,22 St Marys,U.S. Senate,,1,DEM,Valerie McCRAY,95,65,27,3
+Adams,22 St Marys,U.S. Senate,,1,LBT,Andrew HORNING,8,4,4,0
+Adams,22 St Marys,U.S. Senate,,1,,Write-In,0,0,0,0
+Adams,22 St Marys,Governor,,1,DEM,Jennifer G. McCORMICK / Terry GOODIN,117,78,37,2
+Adams,22 St Marys,Governor,,1,LBT,Donald RAINWATER / Tonya HUDSON,26,12,13,1
+Adams,22 St Marys,Governor,,1,,Write-In,0,0,0,0
+Adams,22 St Marys,Attorney General,,1,REP,Todd ROKITA,394,223,162,9
+Adams,22 St Marys,Attorney General,,1,DEM,Destiny WELLS,96,67,27,2
+Adams,22 St Marys,U.S. House,3,1,REP,Marlin A. STUTZMAN,418,233,176,9
+Adams,22 St Marys,U.S. House,3,1,DEM,Kiley M. ADOLPH,89,67,20,2
+Adams,22 St Marys,U.S. House,3,1,LBT,Jarrad LANCASTER,19,11,8,0
+Adams,22 St Marys,U.S. House,3,1,,Write-In,1,1,0,0
+Adams,22 St Marys,State House,79,1,REP,Matthew S. LEHMAN,439,247,183,9
+Adams,22 St Marys,Judge of the Circuit Court 26th Judicial,,1,REP,Chad E. KUKELHAN,455,262,183,10
+Adams,22 St Marys,County Auditor,,1,REP,Tony L. MELLENCAMP,471,271,190,10
+Adams,22 St Marys,County Recorder,,1,REP,Thomas R KRUECKEBERG,463,268,185,10
+Adams,22 St Marys,County Treasurer,,1,REP,Edgar B. (Ed) DYER,454,259,185,10
+Adams,22 St Marys,County Coroner,,1,REP,Monica FENNIG,469,268,191,10
+Adams,22 St Marys,County Commissioner,1,1,REP,Stan A STOPPENHAGEN,453,263,180,10
+Adams,22 St Marys,County Commissioner,3,1,REP,Douglas L. BAUMAN,428,239,179,10
+Adams,22 St Marys,County Council Member,At Large,3,REP,Dennis C. BLUHM,315,197,113,5
+Adams,22 St Marys,County Council Member,At Large,3,REP,John P. SUMMERS,280,159,115,6
+Adams,22 St Marys,County Council Member,At Large,3,REP,Jim VOGLEWEDE,283,160,119,4
+Adams,22 St Marys,Adams Central Community SB,At Large,1,,Jason GERBER,343,198,136,9
+Adams,22 St Marys,Adams Central Community SB,1,1,,Benjamin L LIECHTY,369,215,145,9
+Adams,22 St Marys,Adams Central Community SB,5,1,,Rhonda M. ISCH,373,223,141,9
+Adams,22 St Marys,Adams Central Community SB,6,1,,Write-In,14,5,5,4
+Adams,22 St Marys,IN Supreme Court-Rush,,1,,Yes,302,171,125,6
+Adams,22 St Marys,IN Supreme Court-Rush,,1,,No,119,75,43,1
+Adams,22 St Marys,IN Supreme Court-Massa,,1,,Yes,291,164,120,7
+Adams,22 St Marys,IN Supreme Court-Massa,,1,,No,118,73,45,0
+Adams,22 St Marys,IN Supreme Court-Molter,,1,,Yes,291,162,123,6
+Adams,22 St Marys,IN Supreme Court-Molter,,1,,No,120,77,42,1
+Adams,22 St Marys,Court of Appeals Dist 4-Pyle III,,1,,Yes,290,159,126,5
+Adams,22 St Marys,Court of Appeals Dist 4-Pyle III,,1,,No,120,77,42,1
 Adams,22 St Marys,Straight Party,,,DEM,,20,,,
 Adams,22 St Marys,Straight Party,,,REP,,140,,,
 Adams,23 Union,Registered Voters,,,,,619,,,
 Adams,23 Union,Ballots Cast,,,,,478,,,
-Adams,23 Union,Public Question-Const Amendment,,,,Yes,198,126,71,1
-Adams,23 Union,Public Question-Const Amendment,,,,No,205,130,70,5
-Adams,23 Union,President,,,REP,Donald J. TRUMP / JD VANCE,380,233,142,5
-Adams,23 Union,President,,,DEM,Kamala D. HARRIS / Tim WALZ,86,61,22,3
-Adams,23 Union,President,,,LBT,Chase OLIVER / Mike terr MATT,1,0,1,0
-Adams,23 Union,President,,,WTP,Robert F. KENNEDY JR. / Nichole SHANAHAN,3,1,2,0
-Adams,23 Union,President,,,,Write-In,1,0,1,0
-Adams,23 Union,U.S. Senate,,,REP,Jim BANKS,334,214,115,5
-Adams,23 Union,U.S. Senate,,,DEM,Valerie McCRAY,71,49,19,3
-Adams,23 Union,U.S. Senate,,,LBT,Andrew HORNING,8,1,7,0
-Adams,23 Union,U.S. Senate,,,,Write-In,0,0,0,0
-Adams,23 Union,Governor,,,DEM,Jennifer G. McCORMICK / Terry GOODIN,86,58,25,3
-Adams,23 Union,Governor,,,LBT,Donald RAINWATER / Tonya HUDSON,32,15,17,0
-Adams,23 Union,Governor,,,,Write-In,0,0,0,0
-Adams,23 Union,Attorney General,,,REP,Todd ROKITA,339,214,120,5
-Adams,23 Union,Attorney General,,,DEM,Destiny WELLS,90,60,27,3
-Adams,23 Union,U.S. House,3,,REP,Marlin A. STUTZMAN,361,224,132,5
-Adams,23 Union,U.S. House,3,,DEM,Kiley M. ADOLPH,74,52,19,3
-Adams,23 Union,U.S. House,3,,LBT,Jarrad LANCASTER,8,4,4,0
-Adams,23 Union,U.S. House,3,,,Write-In,0,0,0,0
-Adams,23 Union,State House,79,,REP,Matthew S. LEHMAN,399,248,144,7
-Adams,23 Union,Judge of the Circuit Court 26th Judicial,,,REP,Chad E. KUKELHAN,402,256,141,5
-Adams,23 Union,County Auditor,,,REP,Tony L. MELLENCAMP,405,257,143,5
-Adams,23 Union,County Recorder,,,REP,Thomas R KRUECKEBERG,408,259,144,5
-Adams,23 Union,County Treasurer,,,REP,Edgar B. (Ed) DYER,393,249,139,5
-Adams,23 Union,County Coroner,,,REP,Monica FENNIG,395,249,141,5
-Adams,23 Union,County Commissioner,1,,REP,Stan A STOPPENHAGEN,392,246,141,5
-Adams,23 Union,County Commissioner,3,,REP,Douglas L. BAUMAN,378,239,134,5
-Adams,23 Union,County Council Member,At Large,,REP,Dennis C. BLUHM,247,164,79,4
-Adams,23 Union,County Council Member,At Large,,REP,John P. SUMMERS,273,176,93,4
-Adams,23 Union,County Council Member,At Large,,REP,Jim VOGLEWEDE,251,158,88,5
-Adams,23 Union,North Adams Community SB,1,,,Eric W ALLMON,184,113,68,3
-Adams,23 Union,North Adams Community SB,1,,,Joel A. MILLER,203,129,69,5
-Adams,23 Union,North Adams Community SB,1,,,Wylie SIRK,168,107,59,2
-Adams,23 Union,North Adams Community SB,2,,,Jill COLCLASURE,244,163,77,4
-Adams,23 Union,North Adams Community SB,2,,,Darlene Hebble JUENGEL,160,99,56,5
-Adams,23 Union,North Adams Community SB,2,,,Eric SOMMERS,156,94,60,2
-Adams,23 Union,IN Supreme Court-Rush,,,,Yes,265,163,97,5
-Adams,23 Union,IN Supreme Court-Rush,,,,No,90,52,37,1
-Adams,23 Union,IN Supreme Court-Massa,,,,Yes,261,165,93,3
-Adams,23 Union,IN Supreme Court-Massa,,,,No,90,51,36,3
-Adams,23 Union,IN Supreme Court-Molter,,,,Yes,256,158,93,5
-Adams,23 Union,IN Supreme Court-Molter,,,,No,92,55,36,1
-Adams,23 Union,Court of Appeals Dist 4-Pyle III,,,,Yes,258,162,93,3
-Adams,23 Union,Court of Appeals Dist 4-Pyle III,,,,No,91,52,36,3
+Adams,23 Union,Public Question-Const Amendment,,1,,Yes,198,126,71,1
+Adams,23 Union,Public Question-Const Amendment,,1,,No,205,130,70,5
+Adams,23 Union,President,,1,REP,Donald J. TRUMP / JD VANCE,380,233,142,5
+Adams,23 Union,President,,1,DEM,Kamala D. HARRIS / Tim WALZ,86,61,22,3
+Adams,23 Union,President,,1,LBT,Chase OLIVER / Mike terr MATT,1,0,1,0
+Adams,23 Union,President,,1,WTP,Robert F. KENNEDY JR. / Nichole SHANAHAN,3,1,2,0
+Adams,23 Union,President,,1,,Write-In,1,0,1,0
+Adams,23 Union,U.S. Senate,,1,REP,Jim BANKS,334,214,115,5
+Adams,23 Union,U.S. Senate,,1,DEM,Valerie McCRAY,71,49,19,3
+Adams,23 Union,U.S. Senate,,1,LBT,Andrew HORNING,8,1,7,0
+Adams,23 Union,U.S. Senate,,1,,Write-In,0,0,0,0
+Adams,23 Union,Governor,,1,DEM,Jennifer G. McCORMICK / Terry GOODIN,86,58,25,3
+Adams,23 Union,Governor,,1,LBT,Donald RAINWATER / Tonya HUDSON,32,15,17,0
+Adams,23 Union,Governor,,1,,Write-In,0,0,0,0
+Adams,23 Union,Attorney General,,1,REP,Todd ROKITA,339,214,120,5
+Adams,23 Union,Attorney General,,1,DEM,Destiny WELLS,90,60,27,3
+Adams,23 Union,U.S. House,3,1,REP,Marlin A. STUTZMAN,361,224,132,5
+Adams,23 Union,U.S. House,3,1,DEM,Kiley M. ADOLPH,74,52,19,3
+Adams,23 Union,U.S. House,3,1,LBT,Jarrad LANCASTER,8,4,4,0
+Adams,23 Union,U.S. House,3,1,,Write-In,0,0,0,0
+Adams,23 Union,State House,79,1,REP,Matthew S. LEHMAN,399,248,144,7
+Adams,23 Union,Judge of the Circuit Court 26th Judicial,,1,REP,Chad E. KUKELHAN,402,256,141,5
+Adams,23 Union,County Auditor,,1,REP,Tony L. MELLENCAMP,405,257,143,5
+Adams,23 Union,County Recorder,,1,REP,Thomas R KRUECKEBERG,408,259,144,5
+Adams,23 Union,County Treasurer,,1,REP,Edgar B. (Ed) DYER,393,249,139,5
+Adams,23 Union,County Coroner,,1,REP,Monica FENNIG,395,249,141,5
+Adams,23 Union,County Commissioner,1,1,REP,Stan A STOPPENHAGEN,392,246,141,5
+Adams,23 Union,County Commissioner,3,1,REP,Douglas L. BAUMAN,378,239,134,5
+Adams,23 Union,County Council Member,At Large,3,REP,Dennis C. BLUHM,247,164,79,4
+Adams,23 Union,County Council Member,At Large,3,REP,John P. SUMMERS,273,176,93,4
+Adams,23 Union,County Council Member,At Large,3,REP,Jim VOGLEWEDE,251,158,88,5
+Adams,23 Union,North Adams Community SB,1,2,,Eric W ALLMON,184,113,68,3
+Adams,23 Union,North Adams Community SB,1,2,,Joel A. MILLER,203,129,69,5
+Adams,23 Union,North Adams Community SB,1,2,,Wylie SIRK,168,107,59,2
+Adams,23 Union,North Adams Community SB,2,2,,Jill COLCLASURE,244,163,77,4
+Adams,23 Union,North Adams Community SB,2,2,,Darlene Hebble JUENGEL,160,99,56,5
+Adams,23 Union,North Adams Community SB,2,2,,Eric SOMMERS,156,94,60,2
+Adams,23 Union,IN Supreme Court-Rush,,1,,Yes,265,163,97,5
+Adams,23 Union,IN Supreme Court-Rush,,1,,No,90,52,37,1
+Adams,23 Union,IN Supreme Court-Massa,,1,,Yes,261,165,93,3
+Adams,23 Union,IN Supreme Court-Massa,,1,,No,90,51,36,3
+Adams,23 Union,IN Supreme Court-Molter,,1,,Yes,256,158,93,5
+Adams,23 Union,IN Supreme Court-Molter,,1,,No,92,55,36,1
+Adams,23 Union,Court of Appeals Dist 4-Pyle III,,1,,Yes,258,162,93,3
+Adams,23 Union,Court of Appeals Dist 4-Pyle III,,1,,No,91,52,36,3
 Adams,23 Union,Straight Party,,,DEM,,9,,,
 Adams,23 Union,Straight Party,,,REP,,101,,,
 Adams,24 Wabash,Registered Voters,,,,,565,,,
 Adams,24 Wabash,Ballots Cast,,,,,352,,,
-Adams,24 Wabash,Public Question-Const Amendment,,,,Yes,159,72,81,6
-Adams,24 Wabash,Public Question-Const Amendment,,,,No,137,65,66,6
-Adams,24 Wabash,President,,,REP,Donald J. TRUMP / JD VANCE,281,120,153,8
-Adams,24 Wabash,President,,,DEM,Kamala D. HARRIS / Tim WALZ,62,33,24,5
-Adams,24 Wabash,President,,,LBT,Chase OLIVER / Mike terr MATT,1,1,0,0
-Adams,24 Wabash,President,,,WTP,Robert F. KENNEDY JR. / Nichole SHANAHAN,1,0,1,0
-Adams,24 Wabash,President,,,,Write-In,0,0,0,0
-Adams,24 Wabash,U.S. Senate,,,REP,Jim BANKS,255,109,138,8
-Adams,24 Wabash,U.S. Senate,,,DEM,Valerie McCRAY,48,26,17,5
-Adams,24 Wabash,U.S. Senate,,,LBT,Andrew HORNING,3,2,1,0
-Adams,24 Wabash,U.S. Senate,,,,Write-In,1,1,0,0
-Adams,24 Wabash,Governor,,,DEM,Jennifer G. McCORMICK / Terry GOODIN,73,38,30,5
-Adams,24 Wabash,Governor,,,LBT,Donald RAINWATER / Tonya HUDSON,7,3,4,0
-Adams,24 Wabash,Governor,,,,Write-In,0,0,0,0
-Adams,24 Wabash,Attorney General,,,REP,Todd ROKITA,251,113,130,8
-Adams,24 Wabash,Attorney General,,,DEM,Destiny WELLS,60,32,23,5
-Adams,24 Wabash,U.S. House,3,,REP,Marlin A. STUTZMAN,274,119,147,8
-Adams,24 Wabash,U.S. House,3,,DEM,Kiley M. ADOLPH,59,31,23,5
-Adams,24 Wabash,U.S. House,3,,LBT,Jarrad LANCASTER,3,2,1,0
-Adams,24 Wabash,U.S. House,3,,,Write-In,0,0,0,0
-Adams,24 Wabash,State House,79,,REP,Matthew S. LEHMAN,300,130,160,10
-Adams,24 Wabash,Judge of the Circuit Court 26th Judicial,,,REP,Chad E. KUKELHAN,298,132,156,10
-Adams,24 Wabash,County Auditor,,,REP,Tony L. MELLENCAMP,308,139,159,10
-Adams,24 Wabash,County Recorder,,,REP,Thomas R KRUECKEBERG,301,134,159,8
-Adams,24 Wabash,County Treasurer,,,REP,Edgar B. (Ed) DYER,295,131,156,8
-Adams,24 Wabash,County Coroner,,,REP,Monica FENNIG,301,135,156,10
-Adams,24 Wabash,County Commissioner,1,,REP,Stan A STOPPENHAGEN,290,123,159,8
-Adams,24 Wabash,County Commissioner,3,,REP,Douglas L. BAUMAN,295,124,163,8
-Adams,24 Wabash,County Council Member,At Large,,REP,Dennis C. BLUHM,220,100,115,5
-Adams,24 Wabash,County Council Member,At Large,,REP,John P. SUMMERS,183,90,89,4
-Adams,24 Wabash,County Council Member,At Large,,REP,Jim VOGLEWEDE,180,88,88,4
-Adams,24 Wabash,South Adams School,At Large,,,Kyle LITWILLER,146,63,78,5
-Adams,24 Wabash,South Adams School,At Large,,,Benjamin REDIGER,154,75,75,4
-Adams,24 Wabash,South Adams School,2,,,Arlene J AMSTUTZ,270,123,139,8
-Adams,24 Wabash,South Adams School,5,,,Brian (Buzz) CAFFEE,275,122,145,8
-Adams,24 Wabash,IN Supreme Court-Rush,,,,Yes,216,98,112,6
-Adams,24 Wabash,IN Supreme Court-Rush,,,,No,57,29,26,2
-Adams,24 Wabash,IN Supreme Court-Massa,,,,Yes,215,95,114,6
-Adams,24 Wabash,IN Supreme Court-Massa,,,,No,50,27,22,1
-Adams,24 Wabash,IN Supreme Court-Molter,,,,Yes,212,94,112,6
-Adams,24 Wabash,IN Supreme Court-Molter,,,,No,52,27,24,1
-Adams,24 Wabash,Court of Appeals Dist 4-Pyle III,,,,Yes,213,97,111,5
-Adams,24 Wabash,Court of Appeals Dist 4-Pyle III,,,,No,55,27,26,2
+Adams,24 Wabash,Public Question-Const Amendment,,1,,Yes,159,72,81,6
+Adams,24 Wabash,Public Question-Const Amendment,,1,,No,137,65,66,6
+Adams,24 Wabash,President,,1,REP,Donald J. TRUMP / JD VANCE,281,120,153,8
+Adams,24 Wabash,President,,1,DEM,Kamala D. HARRIS / Tim WALZ,62,33,24,5
+Adams,24 Wabash,President,,1,LBT,Chase OLIVER / Mike terr MATT,1,1,0,0
+Adams,24 Wabash,President,,1,WTP,Robert F. KENNEDY JR. / Nichole SHANAHAN,1,0,1,0
+Adams,24 Wabash,President,,1,,Write-In,0,0,0,0
+Adams,24 Wabash,U.S. Senate,,1,REP,Jim BANKS,255,109,138,8
+Adams,24 Wabash,U.S. Senate,,1,DEM,Valerie McCRAY,48,26,17,5
+Adams,24 Wabash,U.S. Senate,,1,LBT,Andrew HORNING,3,2,1,0
+Adams,24 Wabash,U.S. Senate,,1,,Write-In,1,1,0,0
+Adams,24 Wabash,Governor,,1,DEM,Jennifer G. McCORMICK / Terry GOODIN,73,38,30,5
+Adams,24 Wabash,Governor,,1,LBT,Donald RAINWATER / Tonya HUDSON,7,3,4,0
+Adams,24 Wabash,Governor,,1,,Write-In,0,0,0,0
+Adams,24 Wabash,Attorney General,,1,REP,Todd ROKITA,251,113,130,8
+Adams,24 Wabash,Attorney General,,1,DEM,Destiny WELLS,60,32,23,5
+Adams,24 Wabash,U.S. House,3,1,REP,Marlin A. STUTZMAN,274,119,147,8
+Adams,24 Wabash,U.S. House,3,1,DEM,Kiley M. ADOLPH,59,31,23,5
+Adams,24 Wabash,U.S. House,3,1,LBT,Jarrad LANCASTER,3,2,1,0
+Adams,24 Wabash,U.S. House,3,1,,Write-In,0,0,0,0
+Adams,24 Wabash,State House,79,1,REP,Matthew S. LEHMAN,300,130,160,10
+Adams,24 Wabash,Judge of the Circuit Court 26th Judicial,,1,REP,Chad E. KUKELHAN,298,132,156,10
+Adams,24 Wabash,County Auditor,,1,REP,Tony L. MELLENCAMP,308,139,159,10
+Adams,24 Wabash,County Recorder,,1,REP,Thomas R KRUECKEBERG,301,134,159,8
+Adams,24 Wabash,County Treasurer,,1,REP,Edgar B. (Ed) DYER,295,131,156,8
+Adams,24 Wabash,County Coroner,,1,REP,Monica FENNIG,301,135,156,10
+Adams,24 Wabash,County Commissioner,1,1,REP,Stan A STOPPENHAGEN,290,123,159,8
+Adams,24 Wabash,County Commissioner,3,1,REP,Douglas L. BAUMAN,295,124,163,8
+Adams,24 Wabash,County Council Member,At Large,3,REP,Dennis C. BLUHM,220,100,115,5
+Adams,24 Wabash,County Council Member,At Large,3,REP,John P. SUMMERS,183,90,89,4
+Adams,24 Wabash,County Council Member,At Large,3,REP,Jim VOGLEWEDE,180,88,88,4
+Adams,24 Wabash,South Adams School,At Large,1,,Kyle LITWILLER,146,63,78,5
+Adams,24 Wabash,South Adams School,At Large,1,,Benjamin REDIGER,154,75,75,4
+Adams,24 Wabash,South Adams School,2,1,,Arlene J AMSTUTZ,270,123,139,8
+Adams,24 Wabash,South Adams School,5,1,,Brian (Buzz) CAFFEE,275,122,145,8
+Adams,24 Wabash,IN Supreme Court-Rush,,1,,Yes,216,98,112,6
+Adams,24 Wabash,IN Supreme Court-Rush,,1,,No,57,29,26,2
+Adams,24 Wabash,IN Supreme Court-Massa,,1,,Yes,215,95,114,6
+Adams,24 Wabash,IN Supreme Court-Massa,,1,,No,50,27,22,1
+Adams,24 Wabash,IN Supreme Court-Molter,,1,,Yes,212,94,112,6
+Adams,24 Wabash,IN Supreme Court-Molter,,1,,No,52,27,24,1
+Adams,24 Wabash,Court of Appeals Dist 4-Pyle III,,1,,Yes,213,97,111,5
+Adams,24 Wabash,Court of Appeals Dist 4-Pyle III,,1,,No,55,27,26,2
 Adams,24 Wabash,Straight Party,,,DEM,,10,,,
 Adams,24 Wabash,Straight Party,,,REP,,82,,,
 Adams,25 West Root,Registered Voters,,,,,768,,,
 Adams,25 West Root,Ballots Cast,,,,,592,,,
-Adams,25 West Root,Public Question-Const Amendment,,,,Yes,275,195,78,2
-Adams,25 West Root,Public Question-Const Amendment,,,,No,230,177,49,4
-Adams,25 West Root,President,,,REP,Donald J. TRUMP / JD VANCE,451,319,124,8
-Adams,25 West Root,President,,,DEM,Kamala D. HARRIS / Tim WALZ,127,90,28,9
-Adams,25 West Root,President,,,LBT,Chase OLIVER / Mike terr MATT,3,1,2,0
-Adams,25 West Root,President,,,WTP,Robert F. KENNEDY JR. / Nichole SHANAHAN,4,1,3,0
-Adams,25 West Root,President,,,,Write-In,0,0,0,0
-Adams,25 West Root,U.S. Senate,,,REP,Jim BANKS,398,279,111,8
-Adams,25 West Root,U.S. Senate,,,DEM,Valerie McCRAY,104,71,25,8
-Adams,25 West Root,U.S. Senate,,,LBT,Andrew HORNING,20,19,1,0
-Adams,25 West Root,U.S. Senate,,,,Write-In,0,0,0,0
-Adams,25 West Root,Governor,,,DEM,Jennifer G. McCORMICK / Terry GOODIN,134,96,30,8
-Adams,25 West Root,Governor,,,LBT,Donald RAINWATER / Tonya HUDSON,37,26,11,0
-Adams,25 West Root,Governor,,,,Write-In,0,0,0,0
-Adams,25 West Root,Attorney General,,,REP,Todd ROKITA,397,282,108,7
-Adams,25 West Root,Attorney General,,,DEM,Destiny WELLS,124,85,31,8
-Adams,25 West Root,U.S. House,3,,REP,Marlin A. STUTZMAN,432,307,117,8
-Adams,25 West Root,U.S. House,3,,DEM,Kiley M. ADOLPH,111,77,26,8
-Adams,25 West Root,U.S. House,3,,LBT,Jarrad LANCASTER,17,12,5,0
-Adams,25 West Root,U.S. House,3,,,Write-In,0,0,0,0
-Adams,25 West Root,State House,79,,REP,Matthew S. LEHMAN,459,324,127,8
-Adams,25 West Root,Judge of the Circuit Court 26th Judicial,,,REP,Chad E. KUKELHAN,475,340,127,8
-Adams,25 West Root,County Auditor,,,REP,Tony L. MELLENCAMP,479,338,133,8
-Adams,25 West Root,County Recorder,,,REP,Thomas R KRUECKEBERG,476,339,130,7
-Adams,25 West Root,County Treasurer,,,REP,Edgar B. (Ed) DYER,462,330,125,7
-Adams,25 West Root,County Coroner,,,REP,Monica FENNIG,474,335,131,8
-Adams,25 West Root,County Commissioner,1,,REP,Stan A STOPPENHAGEN,470,335,128,7
-Adams,25 West Root,County Commissioner,3,,REP,Douglas L. BAUMAN,449,322,120,7
-Adams,25 West Root,County Council Member,At Large,,REP,Dennis C. BLUHM,286,203,78,5
-Adams,25 West Root,County Council Member,At Large,,REP,John P. SUMMERS,325,229,90,6
-Adams,25 West Root,County Council Member,At Large,,REP,Jim VOGLEWEDE,287,204,76,7
-Adams,25 West Root,North Adams Community SB,1,,,Eric W ALLMON,214,166,45,3
-Adams,25 West Root,North Adams Community SB,1,,,Joel A. MILLER,228,157,67,4
-Adams,25 West Root,North Adams Community SB,1,,,Wylie SIRK,197,136,56,5
-Adams,25 West Root,North Adams Community SB,2,,,Jill COLCLASURE,271,186,79,6
-Adams,25 West Root,North Adams Community SB,2,,,Darlene Hebble JUENGEL,216,150,63,3
-Adams,25 West Root,North Adams Community SB,2,,,Eric SOMMERS,153,111,40,2
-Adams,25 West Root,IN Supreme Court-Rush,,,,Yes,293,204,86,3
-Adams,25 West Root,IN Supreme Court-Rush,,,,No,126,94,29,3
-Adams,25 West Root,IN Supreme Court-Massa,,,,Yes,307,212,92,3
-Adams,25 West Root,IN Supreme Court-Massa,,,,No,112,85,24,3
-Adams,25 West Root,IN Supreme Court-Molter,,,,Yes,297,207,87,3
-Adams,25 West Root,IN Supreme Court-Molter,,,,No,118,88,27,3
-Adams,25 West Root,Court of Appeals Dist 4-Pyle III,,,,Yes,294,201,91,2
-Adams,25 West Root,Court of Appeals Dist 4-Pyle III,,,,No,122,94,25,3
+Adams,25 West Root,Public Question-Const Amendment,,1,,Yes,275,195,78,2
+Adams,25 West Root,Public Question-Const Amendment,,1,,No,230,177,49,4
+Adams,25 West Root,President,,1,REP,Donald J. TRUMP / JD VANCE,451,319,124,8
+Adams,25 West Root,President,,1,DEM,Kamala D. HARRIS / Tim WALZ,127,90,28,9
+Adams,25 West Root,President,,1,LBT,Chase OLIVER / Mike terr MATT,3,1,2,0
+Adams,25 West Root,President,,1,WTP,Robert F. KENNEDY JR. / Nichole SHANAHAN,4,1,3,0
+Adams,25 West Root,President,,1,,Write-In,0,0,0,0
+Adams,25 West Root,U.S. Senate,,1,REP,Jim BANKS,398,279,111,8
+Adams,25 West Root,U.S. Senate,,1,DEM,Valerie McCRAY,104,71,25,8
+Adams,25 West Root,U.S. Senate,,1,LBT,Andrew HORNING,20,19,1,0
+Adams,25 West Root,U.S. Senate,,1,,Write-In,0,0,0,0
+Adams,25 West Root,Governor,,1,DEM,Jennifer G. McCORMICK / Terry GOODIN,134,96,30,8
+Adams,25 West Root,Governor,,1,LBT,Donald RAINWATER / Tonya HUDSON,37,26,11,0
+Adams,25 West Root,Governor,,1,,Write-In,0,0,0,0
+Adams,25 West Root,Attorney General,,1,REP,Todd ROKITA,397,282,108,7
+Adams,25 West Root,Attorney General,,1,DEM,Destiny WELLS,124,85,31,8
+Adams,25 West Root,U.S. House,3,1,REP,Marlin A. STUTZMAN,432,307,117,8
+Adams,25 West Root,U.S. House,3,1,DEM,Kiley M. ADOLPH,111,77,26,8
+Adams,25 West Root,U.S. House,3,1,LBT,Jarrad LANCASTER,17,12,5,0
+Adams,25 West Root,U.S. House,3,1,,Write-In,0,0,0,0
+Adams,25 West Root,State House,79,1,REP,Matthew S. LEHMAN,459,324,127,8
+Adams,25 West Root,Judge of the Circuit Court 26th Judicial,,1,REP,Chad E. KUKELHAN,475,340,127,8
+Adams,25 West Root,County Auditor,,1,REP,Tony L. MELLENCAMP,479,338,133,8
+Adams,25 West Root,County Recorder,,1,REP,Thomas R KRUECKEBERG,476,339,130,7
+Adams,25 West Root,County Treasurer,,1,REP,Edgar B. (Ed) DYER,462,330,125,7
+Adams,25 West Root,County Coroner,,1,REP,Monica FENNIG,474,335,131,8
+Adams,25 West Root,County Commissioner,1,1,REP,Stan A STOPPENHAGEN,470,335,128,7
+Adams,25 West Root,County Commissioner,3,1,REP,Douglas L. BAUMAN,449,322,120,7
+Adams,25 West Root,County Council Member,At Large,3,REP,Dennis C. BLUHM,286,203,78,5
+Adams,25 West Root,County Council Member,At Large,3,REP,John P. SUMMERS,325,229,90,6
+Adams,25 West Root,County Council Member,At Large,3,REP,Jim VOGLEWEDE,287,204,76,7
+Adams,25 West Root,North Adams Community SB,1,2,,Eric W ALLMON,214,166,45,3
+Adams,25 West Root,North Adams Community SB,1,2,,Joel A. MILLER,228,157,67,4
+Adams,25 West Root,North Adams Community SB,1,2,,Wylie SIRK,197,136,56,5
+Adams,25 West Root,North Adams Community SB,2,2,,Jill COLCLASURE,271,186,79,6
+Adams,25 West Root,North Adams Community SB,2,2,,Darlene Hebble JUENGEL,216,150,63,3
+Adams,25 West Root,North Adams Community SB,2,2,,Eric SOMMERS,153,111,40,2
+Adams,25 West Root,IN Supreme Court-Rush,,1,,Yes,293,204,86,3
+Adams,25 West Root,IN Supreme Court-Rush,,1,,No,126,94,29,3
+Adams,25 West Root,IN Supreme Court-Massa,,1,,Yes,307,212,92,3
+Adams,25 West Root,IN Supreme Court-Massa,,1,,No,112,85,24,3
+Adams,25 West Root,IN Supreme Court-Molter,,1,,Yes,297,207,87,3
+Adams,25 West Root,IN Supreme Court-Molter,,1,,No,118,88,27,3
+Adams,25 West Root,Court of Appeals Dist 4-Pyle III,,1,,Yes,294,201,91,2
+Adams,25 West Root,Court of Appeals Dist 4-Pyle III,,1,,No,122,94,25,3
 Adams,25 West Root,Straight Party,,,DEM,,22,,,
 Adams,25 West Root,Straight Party,,,REP,,133,,,

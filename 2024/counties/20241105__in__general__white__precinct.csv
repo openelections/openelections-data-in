@@ -1,0 +1,995 @@
+county,precinct,office,district,party,candidate,votes,absentee,early_voting,election_day
+White,Big Creek,Registered Voters,,,,608,,,
+White,Big Creek,Ballots Cast,,,,449,21,258,170
+White,Big Creek,"Public Question-Const Amendment",,,Yes,212,10,122,80
+White,Big Creek,"Public Question-Const Amendment",,,No,203,9,119,75
+White,Big Creek,"President",,REP,"Donald J. Trump",329,5,191,133
+White,Big Creek,"President",,DEM,"Kamala D. Harris",105,16,61,28
+White,Big Creek,"President",,LIB,"Chase Oliver",8,0,2,6
+White,Big Creek,"President",,WTP,"Robert F. Kennedy Jr.",4,0,1,3
+White,Big Creek,"President",,,"Write-ins",1,0,1,0
+White,Big Creek,"U.S. Senate",,REP,"Jim Banks",308,6,183,119
+White,Big Creek,"U.S. Senate",,DEM,"Valerie McCray",97,14,57,26
+White,Big Creek,"U.S. Senate",,LIB,"Andrew Horning",17,0,4,13
+White,Big Creek,"U.S. Senate",,,"Write-ins",0,0,0,0
+White,Big Creek,"Governor",,REP,"Braun \ Beckwith",268,9,162,97
+White,Big Creek,"Governor",,DEM,"Mccormick \ Goodin",116,12,67,37
+White,Big Creek,"Governor",,LIB,"Rainwater \ Hudson",44,0,19,25
+White,Big Creek,"Governor",,,"Write-ins",0,0,0,0
+White,Big Creek,"Attorney General",,REP,"Todd Rokita",315,8,182,125
+White,Big Creek,"Attorney General",,DEM,"Destiny Wells",116,12,67,37
+White,Big Creek,"U.S. House",4,REP,"Jim Baird",321,8,187,126
+White,Big Creek,"U.S. House",4,DEM,"Derrick Holder",83,11,49,23
+White,Big Creek,"U.S. House",4,LIB,"Ashley Groff",32,2,15,15
+White,Big Creek,"U.S. House",4,,"Write-ins",0,0,0,0
+White,Big Creek,"State Senate",5,REP,"Ed Charbonneau",326,8,189,129
+White,Big Creek,"State Senate",5,DEM,"Leslie Nuss Bamesberger",105,12,62,31
+White,Big Creek,"State House",16,REP,"Kendell Culp",337,8,195,134
+White,Big Creek,"State House",16,DEM,"Dennis Collins",92,13,55,24
+White,Big Creek,"Judge of the Circuit Court 39th Circuit",,REP,"Jason A. Thompson",370,10,211,149
+White,Big Creek,"County Treasurer",,REP,"Barbara Ann Nydegger",360,13,203,144
+White,Big Creek,"County Commissioner District 1",,REP,"David L. Davis",375,13,213,149
+White,Big Creek,"County Commissioner District 2",,REP,"Kaleb D. Pass",330,9,190,131
+White,Big Creek,"County Commissioner District 2",,DEM,"Darin Patrick Griesey",99,11,60,28
+White,Big Creek,"County Council Member At Large",,REP,"Art Anderson Jr",241,6,147,88
+White,Big Creek,"County Council Member At Large",,REP,"Matthew A. McKean",229,8,123,98
+White,Big Creek,"County Council Member At Large",,REP,"Joanne Mosher",230,9,131,90
+White,Big Creek,"County Council Member At Large",,DEM,"Ray Anderson Jr.",119,11,66,42
+White,Big Creek,"Frontier SB At-Large",,NP,"Stephanie Laorange",274,8,171,95
+White,Big Creek,"Frontier SB At-Large",,NP,"David Rosenbarger",318,9,186,123
+White,Big Creek,"IN Supreme Court-Rush",,,Yes,280,13,164,103
+White,Big Creek,"IN Supreme Court-Rush",,,No,110,4,64,42
+White,Big Creek,"IN Supreme Court-Massa",,,Yes,262,9,153,100
+White,Big Creek,"IN Supreme Court-Massa",,,No,119,8,68,43
+White,Big Creek,"IN Supreme Court-Molter",,,Yes,271,10,158,103
+White,Big Creek,"IN Supreme Court-Molter",,,No,112,7,64,41
+White,Big Creek,"Court of Appeals Dist 4-Pyle III",,,Yes,267,9,157,101
+White,Big Creek,"Court of Appeals Dist 4-Pyle III",,,No,110,8,62,40
+White,Big Creek,"Straight Party",,DEM,"Democratic Party",28,,,
+White,Big Creek,"Straight Party",,LIB,"Libertarian Party",1,,,
+White,Big Creek,"Straight Party",,REP,"Republican Party",111,,,
+White,Cass,Registered Voters,,,,363,,,
+White,Cass,Ballots Cast,,,,262,14,125,123
+White,Cass,"Public Question-Const Amendment",,,Yes,125,5,61,59
+White,Cass,"Public Question-Const Amendment",,,No,111,7,49,55
+White,Cass,"Public Question-Twin Lakes",,,Yes,20,1,12,7
+White,Cass,"Public Question-Twin Lakes",,,No,73,1,45,27
+White,Cass,"President",,REP,"Donald J. Trump",210,5,104,101
+White,Cass,"President",,DEM,"Kamala D. Harris",42,9,17,16
+White,Cass,"President",,LIB,"Chase Oliver",4,0,3,1
+White,Cass,"President",,WTP,"Robert F. Kennedy Jr.",4,0,0,4
+White,Cass,"President",,,"Write-ins",0,0,0,0
+White,Cass,"U.S. Senate",,REP,"Jim Banks",206,6,101,99
+White,Cass,"U.S. Senate",,DEM,"Valerie McCray",41,8,18,15
+White,Cass,"U.S. Senate",,LIB,"Andrew Horning",7,0,2,5
+White,Cass,"U.S. Senate",,,"Write-ins",0,0,0,0
+White,Cass,"Governor",,REP,"Braun \ Beckwith",176,5,84,87
+White,Cass,"Governor",,DEM,"Mccormick \ Goodin",50,9,23,18
+White,Cass,"Governor",,LIB,"Rainwater \ Hudson",32,0,18,14
+White,Cass,"Governor",,,"Write-ins",0,0,0,0
+White,Cass,"Attorney General",,REP,"Todd Rokita",206,6,102,98
+White,Cass,"Attorney General",,DEM,"Destiny Wells",52,8,22,22
+White,Cass,"U.S. House",4,REP,"Jim Baird",206,6,101,99
+White,Cass,"U.S. House",4,DEM,"Derrick Holder",39,8,16,15
+White,Cass,"U.S. House",4,LIB,"Ashley Groff",11,0,5,6
+White,Cass,"U.S. House",4,,"Write-ins",0,0,0,0
+White,Cass,"State Senate",5,REP,"Ed Charbonneau",204,6,99,99
+White,Cass,"State Senate",5,DEM,"Leslie Nuss Bamesberger",50,8,20,22
+White,Cass,"State House",16,REP,"Kendell Culp",207,6,104,97
+White,Cass,"State House",16,DEM,"Dennis Collins",44,8,16,20
+White,Cass,"Judge of the Circuit Court 39th Circuit",,REP,"Jason A. Thompson",234,7,115,112
+White,Cass,"County Treasurer",,REP,"Barbara Ann Nydegger",227,7,110,110
+White,Cass,"County Commissioner District 1",,REP,"David L. Davis",228,7,109,112
+White,Cass,"County Commissioner District 2",,REP,"Kaleb D. Pass",205,7,102,96
+White,Cass,"County Commissioner District 2",,DEM,"Darin Patrick Griesey",49,7,19,23
+White,Cass,"County Council Member At Large",,REP,"Art Anderson Jr",130,5,67,58
+White,Cass,"County Council Member At Large",,REP,"Matthew A. McKean",129,5,73,51
+White,Cass,"County Council Member At Large",,REP,"Joanne Mosher",140,5,69,66
+White,Cass,"County Council Member At Large",,DEM,"Ray Anderson Jr.",51,3,21,27
+White,Cass,"Pioneer SB Dist 1 - Cass Twp",,NP,"Alex S. Cosgray",73,5,36,32
+White,Cass,"Pioneer SB Dist 1 - Cass Twp",,NP,"Chandra L Felker",68,6,21,41
+White,Cass,"Pioneer SB Dist 3 - Harrison Twp",,NP,"Dennis J. Herd",104,8,41,55
+White,Cass,"Pioneer SB Dist 5 - Noble Twp",,NP,"Lisa Ann Kesling",73,5,32,36
+White,Cass,"Pioneer SB Dist 5 - Noble Twp",,NP,"Sean Thomas",39,3,15,21
+White,Cass,"Twin Lakes SB District 2",,NP,"Becky O'Farrell",74,1,44,29
+White,Cass,"Twin Lakes SB District 3",,NP,"Jason A. Lingenfelter",76,1,46,29
+White,Cass,"Twin Lakes SB District 4",,NP,"Michael J True",76,1,46,29
+White,Cass,"Twin Lakes SB At-Lg District 5",,NP,"Ryan David Hurd",49,1,29,19
+White,Cass,"Twin Lakes SB At-Lg District 5",,NP,"Charles J. Kubly",30,0,20,10
+White,Cass,"IN Supreme Court-Rush",,,Yes,147,3,74,70
+White,Cass,"IN Supreme Court-Rush",,,No,60,5,26,29
+White,Cass,"IN Supreme Court-Massa",,,Yes,142,3,73,66
+White,Cass,"IN Supreme Court-Massa",,,No,61,5,25,31
+White,Cass,"IN Supreme Court-Molter",,,Yes,144,3,75,66
+White,Cass,"IN Supreme Court-Molter",,,No,60,5,25,30
+White,Cass,"Court of Appeals Dist 4-Pyle III",,,Yes,149,3,76,70
+White,Cass,"Court of Appeals Dist 4-Pyle III",,,No,55,5,23,27
+White,Cass,"Straight Party",,DEM,"Democratic Party",10,,,
+White,Cass,"Straight Party",,REP,"Republican Party",106,,,
+White,Honey Creek,Registered Voters,,,,775,,,
+White,Honey Creek,Ballots Cast,,,,509,23,277,209
+White,Honey Creek,"Public Question-Const Amendment",,,Yes,265,4,153,108
+White,Honey Creek,"Public Question-Const Amendment",,,No,201,11,104,86
+White,Honey Creek,"Public Question-Twin Lakes",,,Yes,0,0,0,0
+White,Honey Creek,"Public Question-Twin Lakes",,,No,4,0,4,0
+White,Honey Creek,"President",,REP,"Donald J. Trump",373,6,213,154
+White,Honey Creek,"President",,DEM,"Kamala D. Harris",113,14,54,45
+White,Honey Creek,"President",,LIB,"Chase Oliver",4,1,3,0
+White,Honey Creek,"President",,WTP,"Robert F. Kennedy Jr.",14,0,5,9
+White,Honey Creek,"President",,,"Write-ins",0,0,0,0
+White,Honey Creek,"U.S. Senate",,REP,"Jim Banks",372,7,216,149
+White,Honey Creek,"U.S. Senate",,DEM,"Valerie McCray",109,15,49,45
+White,Honey Creek,"U.S. Senate",,LIB,"Andrew Horning",13,0,4,9
+White,Honey Creek,"U.S. Senate",,,"Write-ins",0,0,0,0
+White,Honey Creek,"Governor",,REP,"Braun \ Beckwith",322,6,189,127
+White,Honey Creek,"Governor",,DEM,"Mccormick \ Goodin",130,17,64,49
+White,Honey Creek,"Governor",,LIB,"Rainwater \ Hudson",49,0,19,30
+White,Honey Creek,"Governor",,,"Write-ins",0,0,0,0
+White,Honey Creek,"Attorney General",,REP,"Todd Rokita",376,8,216,152
+White,Honey Creek,"Attorney General",,DEM,"Destiny Wells",121,15,55,51
+White,Honey Creek,"U.S. House",4,REP,"Jim Baird",371,10,216,145
+White,Honey Creek,"U.S. House",4,DEM,"Derrick Holder",92,13,40,39
+White,Honey Creek,"U.S. House",4,LIB,"Ashley Groff",29,0,13,16
+White,Honey Creek,"U.S. House",4,,"Write-ins",0,0,0,0
+White,Honey Creek,"State Senate",5,REP,"Ed Charbonneau",375,9,215,151
+White,Honey Creek,"State Senate",5,DEM,"Leslie Nuss Bamesberger",116,13,52,51
+White,Honey Creek,"State House",16,REP,"Kendell Culp",401,10,231,160
+White,Honey Creek,"State House",16,DEM,"Dennis Collins",96,12,42,42
+White,Honey Creek,"Judge of the Circuit Court 39th Circuit",,REP,"Jason A. Thompson",426,12,238,176
+White,Honey Creek,"County Treasurer",,REP,"Barbara Ann Nydegger",432,11,242,179
+White,Honey Creek,"County Commissioner District 1",,REP,"David L. Davis",438,13,244,181
+White,Honey Creek,"County Commissioner District 2",,REP,"Kaleb D. Pass",391,9,225,157
+White,Honey Creek,"County Commissioner District 2",,DEM,"Darin Patrick Griesey",94,10,43,41
+White,Honey Creek,"County Council Member At Large",,REP,"Art Anderson Jr",247,8,144,95
+White,Honey Creek,"County Council Member At Large",,REP,"Matthew A. McKean",235,11,132,92
+White,Honey Creek,"County Council Member At Large",,REP,"Joanne Mosher",243,13,130,100
+White,Honey Creek,"County Council Member At Large",,DEM,"Ray Anderson Jr.",117,8,57,52
+White,Honey Creek,"North White SB Honey Creek Twp",,NP,"Scott E. Denton",350,12,187,151
+White,Honey Creek,"North White SB Liberty Twp",,NP,"Carlene Hunt",326,9,172,145
+White,Honey Creek,"North White SB Monon Twp",,NP,"James J (Jim) White",331,9,178,144
+White,Honey Creek,"Twin Lakes SB District 2",,NP,"Becky O'Farrell",2,0,2,0
+White,Honey Creek,"Twin Lakes SB District 3",,NP,"Jason A. Lingenfelter",1,0,1,0
+White,Honey Creek,"Twin Lakes SB District 4",,NP,"Michael J True",1,0,1,0
+White,Honey Creek,"Twin Lakes SB At-Lg District 5",,NP,"Ryan David Hurd",2,0,2,0
+White,Honey Creek,"Twin Lakes SB At-Lg District 5",,NP,"Charles J. Kubly",0,0,0,0
+White,Honey Creek,"IN Supreme Court-Rush",,,Yes,312,8,172,132
+White,Honey Creek,"IN Supreme Court-Rush",,,No,101,6,52,43
+White,Honey Creek,"IN Supreme Court-Massa",,,Yes,292,6,163,123
+White,Honey Creek,"IN Supreme Court-Massa",,,No,107,7,53,47
+White,Honey Creek,"IN Supreme Court-Molter",,,Yes,298,8,162,128
+White,Honey Creek,"IN Supreme Court-Molter",,,No,104,4,54,46
+White,Honey Creek,"Court of Appeals Dist 4-Pyle III",,,Yes,295,7,163,125
+White,Honey Creek,"Court of Appeals Dist 4-Pyle III",,,No,113,6,56,51
+White,Honey Creek,"Straight Party",,DEM,"Democratic Party",28,,,
+White,Honey Creek,"Straight Party",,REP,"Republican Party",212,,,
+White,Jackson,Registered Voters,,,,422,,,
+White,Jackson,Ballots Cast,,,,258,5,123,130
+White,Jackson,"Public Question-Const Amendment",,,Yes,136,3,66,67
+White,Jackson,"Public Question-Const Amendment",,,No,106,2,50,54
+White,Jackson,"Public Question-Twin Lakes",,,Yes,63,2,37,24
+White,Jackson,"Public Question-Twin Lakes",,,No,179,3,81,95
+White,Jackson,"President",,REP,"Donald J. Trump",199,4,99,96
+White,Jackson,"President",,DEM,"Kamala D. Harris",50,1,22,27
+White,Jackson,"President",,LIB,"Chase Oliver",1,0,1,0
+White,Jackson,"President",,WTP,"Robert F. Kennedy Jr.",5,0,0,5
+White,Jackson,"President",,,"Write-ins",0,0,0,0
+White,Jackson,"U.S. Senate",,REP,"Jim Banks",202,4,98,100
+White,Jackson,"U.S. Senate",,DEM,"Valerie McCray",43,1,21,21
+White,Jackson,"U.S. Senate",,LIB,"Andrew Horning",3,0,1,2
+White,Jackson,"U.S. Senate",,,"Write-ins",0,0,0,0
+White,Jackson,"Governor",,REP,"Braun \ Beckwith",176,4,84,88
+White,Jackson,"Governor",,DEM,"Mccormick \ Goodin",55,1,25,29
+White,Jackson,"Governor",,LIB,"Rainwater \ Hudson",23,0,12,11
+White,Jackson,"Governor",,,"Write-ins",0,0,0,0
+White,Jackson,"Attorney General",,REP,"Todd Rokita",204,4,101,99
+White,Jackson,"Attorney General",,DEM,"Destiny Wells",49,1,20,28
+White,Jackson,"U.S. House",4,REP,"Jim Baird",199,4,96,99
+White,Jackson,"U.S. House",4,DEM,"Derrick Holder",44,1,22,21
+White,Jackson,"U.S. House",4,LIB,"Ashley Groff",8,0,2,6
+White,Jackson,"U.S. House",4,,"Write-ins",0,0,0,0
+White,Jackson,"State Senate",5,REP,"Ed Charbonneau",201,4,98,99
+White,Jackson,"State Senate",5,DEM,"Leslie Nuss Bamesberger",48,1,21,26
+White,Jackson,"State House",16,REP,"Kendell Culp",207,4,99,104
+White,Jackson,"State House",16,DEM,"Dennis Collins",45,1,20,24
+White,Jackson,"Judge of the Circuit Court 39th Circuit",,REP,"Jason A. Thompson",233,3,111,119
+White,Jackson,"County Treasurer",,REP,"Barbara Ann Nydegger",234,4,109,121
+White,Jackson,"County Commissioner District 1",,REP,"David L. Davis",225,3,106,116
+White,Jackson,"County Commissioner District 2",,REP,"Kaleb D. Pass",208,4,97,107
+White,Jackson,"County Commissioner District 2",,DEM,"Darin Patrick Griesey",44,1,24,19
+White,Jackson,"County Council Member At Large",,REP,"Art Anderson Jr",133,3,68,62
+White,Jackson,"County Council Member At Large",,REP,"Matthew A. McKean",147,3,66,78
+White,Jackson,"County Council Member At Large",,REP,"Joanne Mosher",136,3,69,64
+White,Jackson,"County Council Member At Large",,DEM,"Ray Anderson Jr.",62,0,27,35
+White,Jackson,"Twin Lakes SB District 2",,NP,"Becky O'Farrell",167,1,79,87
+White,Jackson,"Twin Lakes SB District 3",,NP,"Jason A. Lingenfelter",184,3,83,98
+White,Jackson,"Twin Lakes SB District 4",,NP,"Michael J True",146,0,70,76
+White,Jackson,"Twin Lakes SB At-Lg District 5",,NP,"Ryan David Hurd",136,1,55,80
+White,Jackson,"Twin Lakes SB At-Lg District 5",,NP,"Charles J. Kubly",81,0,47,34
+White,Jackson,"IN Supreme Court-Rush",,,Yes,157,2,70,85
+White,Jackson,"IN Supreme Court-Rush",,,No,64,0,34,30
+White,Jackson,"IN Supreme Court-Massa",,,Yes,145,2,67,76
+White,Jackson,"IN Supreme Court-Massa",,,No,70,0,33,37
+White,Jackson,"IN Supreme Court-Molter",,,Yes,143,2,68,73
+White,Jackson,"IN Supreme Court-Molter",,,No,71,0,32,39
+White,Jackson,"Court of Appeals Dist 4-Pyle III",,,Yes,148,2,69,77
+White,Jackson,"Court of Appeals Dist 4-Pyle III",,,No,65,0,30,35
+White,Jackson,"Straight Party",,DEM,"Democratic Party",14,,,
+White,Jackson,"Straight Party",,REP,"Republican Party",104,,,
+White,Liberty,Registered Voters,,,,1742,,,
+White,Liberty,Ballots Cast,,,,1170,69,625,476
+White,Liberty,"Public Question-Const Amendment",,,Yes,609,18,331,260
+White,Liberty,"Public Question-Const Amendment",,,No,470,42,255,173
+White,Liberty,"Public Question-Twin Lakes",,,Yes,87,6,63,18
+White,Liberty,"Public Question-Twin Lakes",,,No,210,19,137,54
+White,Liberty,"President",,REP,"Donald J. Trump",896,45,468,383
+White,Liberty,"President",,DEM,"Kamala D. Harris",248,24,146,78
+White,Liberty,"President",,LIB,"Chase Oliver",7,0,3,4
+White,Liberty,"President",,WTP,"Robert F. Kennedy Jr.",9,0,4,5
+White,Liberty,"President",,,"Write-ins",1,0,1,0
+White,Liberty,"U.S. Senate",,REP,"Jim Banks",896,50,470,376
+White,Liberty,"U.S. Senate",,DEM,"Valerie McCray",222,17,135,70
+White,Liberty,"U.S. Senate",,LIB,"Andrew Horning",31,0,10,21
+White,Liberty,"U.S. Senate",,,"Write-ins",0,0,0,0
+White,Liberty,"Governor",,REP,"Braun \ Beckwith",792,43,430,319
+White,Liberty,"Governor",,DEM,"Mccormick \ Goodin",281,25,156,100
+White,Liberty,"Governor",,LIB,"Rainwater \ Hudson",79,0,30,49
+White,Liberty,"Governor",,,"Write-ins",0,0,0,0
+White,Liberty,"Attorney General",,REP,"Todd Rokita",871,45,457,369
+White,Liberty,"Attorney General",,DEM,"Destiny Wells",278,23,159,96
+White,Liberty,"U.S. House",4,REP,"Jim Baird",887,48,471,368
+White,Liberty,"U.S. House",4,DEM,"Derrick Holder",210,18,126,66
+White,Liberty,"U.S. House",4,LIB,"Ashley Groff",48,3,18,27
+White,Liberty,"U.S. House",4,,"Write-ins",0,0,0,0
+White,Liberty,"State Senate",5,REP,"Ed Charbonneau",870,46,454,370
+White,Liberty,"State Senate",5,DEM,"Leslie Nuss Bamesberger",259,20,150,89
+White,Liberty,"State House",16,REP,"Kendell Culp",910,52,481,377
+White,Liberty,"State House",16,DEM,"Dennis Collins",229,14,133,82
+White,Liberty,"Judge of the Circuit Court 39th Circuit",,REP,"Jason A. Thompson",1002,58,523,421
+White,Liberty,"County Treasurer",,REP,"Barbara Ann Nydegger",993,59,521,413
+White,Liberty,"County Commissioner District 1",,REP,"David L. Davis",990,57,519,414
+White,Liberty,"County Commissioner District 2",,REP,"Kaleb D. Pass",918,51,481,386
+White,Liberty,"County Commissioner District 2",,DEM,"Darin Patrick Griesey",222,16,133,73
+White,Liberty,"County Council Member At Large",,REP,"Art Anderson Jr",538,34,296,208
+White,Liberty,"County Council Member At Large",,REP,"Matthew A. McKean",547,37,301,209
+White,Liberty,"County Council Member At Large",,REP,"Joanne Mosher",582,40,331,211
+White,Liberty,"County Council Member At Large",,DEM,"Ray Anderson Jr.",260,17,141,102
+White,Liberty,"North White SB Honey Creek Twp",,NP,"Scott E. Denton",509,20,239,250
+White,Liberty,"North White SB Liberty Twp",,NP,"Carlene Hunt",531,21,260,250
+White,Liberty,"North White SB Monon Twp",,NP,"James J (Jim) White",509,21,239,249
+White,Liberty,"Twin Lakes SB District 2",,NP,"Becky O'Farrell",230,17,152,61
+White,Liberty,"Twin Lakes SB District 3",,NP,"Jason A. Lingenfelter",214,20,141,53
+White,Liberty,"Twin Lakes SB District 4",,NP,"Michael J True",199,18,128,53
+White,Liberty,"Twin Lakes SB At-Lg District 5",,NP,"Ryan David Hurd",138,13,94,31
+White,Liberty,"Twin Lakes SB At-Lg District 5",,NP,"Charles J. Kubly",91,7,57,27
+White,Liberty,"IN Supreme Court-Rush",,,Yes,687,46,374,267
+White,Liberty,"IN Supreme Court-Rush",,,No,245,4,141,100
+White,Liberty,"IN Supreme Court-Massa",,,Yes,675,44,367,264
+White,Liberty,"IN Supreme Court-Massa",,,No,249,7,145,97
+White,Liberty,"IN Supreme Court-Molter",,,Yes,685,43,371,271
+White,Liberty,"IN Supreme Court-Molter",,,No,245,7,142,96
+White,Liberty,"Court of Appeals Dist 4-Pyle III",,,Yes,671,46,364,261
+White,Liberty,"Court of Appeals Dist 4-Pyle III",,,No,261,5,152,104
+White,Liberty,"Straight Party",,DEM,"Democratic Party",92,,,
+White,Liberty,"Straight Party",,REP,"Republican Party",474,,,
+White,Lincoln,Registered Voters,,,,396,,,
+White,Lincoln,Ballots Cast,,,,269,4,101,164
+White,Lincoln,"Public Question-Const Amendment",,,Yes,146,2,50,94
+White,Lincoln,"Public Question-Const Amendment",,,No,106,0,44,62
+White,Lincoln,"Public Question-Twin Lakes",,,Yes,50,0,23,27
+White,Lincoln,"Public Question-Twin Lakes",,,No,210,4,75,131
+White,Lincoln,"President",,REP,"Donald J. Trump",208,4,80,124
+White,Lincoln,"President",,DEM,"Kamala D. Harris",52,0,18,34
+White,Lincoln,"President",,LIB,"Chase Oliver",4,0,1,3
+White,Lincoln,"President",,WTP,"Robert F. Kennedy Jr.",4,0,1,3
+White,Lincoln,"President",,,"Write-ins",0,0,0,0
+White,Lincoln,"U.S. Senate",,REP,"Jim Banks",202,4,79,119
+White,Lincoln,"U.S. Senate",,DEM,"Valerie McCray",57,0,18,39
+White,Lincoln,"U.S. Senate",,LIB,"Andrew Horning",6,0,1,5
+White,Lincoln,"U.S. Senate",,,"Write-ins",0,0,0,0
+White,Lincoln,"Governor",,REP,"Braun \ Beckwith",178,4,74,100
+White,Lincoln,"Governor",,DEM,"Mccormick \ Goodin",62,0,20,42
+White,Lincoln,"Governor",,LIB,"Rainwater \ Hudson",25,0,4,21
+White,Lincoln,"Governor",,,"Write-ins",0,0,0,0
+White,Lincoln,"Attorney General",,REP,"Todd Rokita",194,4,75,115
+White,Lincoln,"Attorney General",,DEM,"Destiny Wells",72,0,23,49
+White,Lincoln,"U.S. House",4,REP,"Jim Baird",199,3,78,118
+White,Lincoln,"U.S. House",4,DEM,"Derrick Holder",53,0,16,37
+White,Lincoln,"U.S. House",4,LIB,"Ashley Groff",12,0,4,8
+White,Lincoln,"U.S. House",4,,"Write-ins",0,0,0,0
+White,Lincoln,"State Senate",5,REP,"Ed Charbonneau",200,4,77,119
+White,Lincoln,"State Senate",5,DEM,"Leslie Nuss Bamesberger",63,0,21,42
+White,Lincoln,"State House",16,REP,"Kendell Culp",206,2,76,128
+White,Lincoln,"State House",16,DEM,"Dennis Collins",59,1,22,36
+White,Lincoln,"Judge of the Circuit Court 39th Circuit",,REP,"Jason A. Thompson",227,4,85,138
+White,Lincoln,"County Treasurer",,REP,"Barbara Ann Nydegger",228,4,87,137
+White,Lincoln,"County Commissioner District 1",,REP,"David L. Davis",227,4,87,136
+White,Lincoln,"County Commissioner District 2",,REP,"Kaleb D. Pass",201,4,79,118
+White,Lincoln,"County Commissioner District 2",,DEM,"Darin Patrick Griesey",62,0,20,42
+White,Lincoln,"County Council Member At Large",,REP,"Art Anderson Jr",141,3,43,95
+White,Lincoln,"County Council Member At Large",,REP,"Matthew A. McKean",138,3,59,76
+White,Lincoln,"County Council Member At Large",,REP,"Joanne Mosher",139,4,55,80
+White,Lincoln,"County Council Member At Large",,DEM,"Ray Anderson Jr.",77,0,32,45
+White,Lincoln,"Twin Lakes SB District 2",,NP,"Becky O'Farrell",190,2,70,118
+White,Lincoln,"Twin Lakes SB District 3",,NP,"Jason A. Lingenfelter",198,2,70,126
+White,Lincoln,"Twin Lakes SB District 4",,NP,"Michael J True",171,2,64,105
+White,Lincoln,"Twin Lakes SB At-Lg District 5",,NP,"Ryan David Hurd",145,1,53,91
+White,Lincoln,"Twin Lakes SB At-Lg District 5",,NP,"Charles J. Kubly",80,1,32,47
+White,Lincoln,"IN Supreme Court-Rush",,,Yes,143,3,52,88
+White,Lincoln,"IN Supreme Court-Rush",,,No,91,0,35,56
+White,Lincoln,"IN Supreme Court-Massa",,,Yes,138,3,48,87
+White,Lincoln,"IN Supreme Court-Massa",,,No,91,0,36,55
+White,Lincoln,"IN Supreme Court-Molter",,,Yes,149,3,53,93
+White,Lincoln,"IN Supreme Court-Molter",,,No,80,0,31,49
+White,Lincoln,"Court of Appeals Dist 4-Pyle III",,,Yes,140,2,49,89
+White,Lincoln,"Court of Appeals Dist 4-Pyle III",,,No,85,0,33,52
+White,Lincoln,"Straight Party",,DEM,"Democratic Party",19,,,
+White,Lincoln,"Straight Party",,REP,"Republican Party",100,,,
+White,Monon,Registered Voters,,,,1758,,,
+White,Monon,Ballots Cast,,,,1094,51,500,543
+White,Monon,"Public Question-Const Amendment",,,Yes,540,20,233,287
+White,Monon,"Public Question-Const Amendment",,,No,446,15,235,196
+White,Monon,"President",,REP,"Donald J. Trump",790,17,342,431
+White,Monon,"President",,DEM,"Kamala D. Harris",275,31,149,95
+White,Monon,"President",,LIB,"Chase Oliver",6,1,1,4
+White,Monon,"President",,WTP,"Robert F. Kennedy Jr.",14,2,3,9
+White,Monon,"President",,,"Write-ins",1,0,1,0
+White,Monon,"U.S. Senate",,REP,"Jim Banks",761,24,331,406
+White,Monon,"U.S. Senate",,DEM,"Valerie McCray",242,24,139,79
+White,Monon,"U.S. Senate",,LIB,"Andrew Horning",29,1,6,22
+White,Monon,"U.S. Senate",,,"Write-ins",2,0,2,0
+White,Monon,"Governor",,REP,"Braun \ Beckwith",676,19,307,350
+White,Monon,"Governor",,DEM,"Mccormick \ Goodin",282,29,147,106
+White,Monon,"Governor",,LIB,"Rainwater \ Hudson",89,2,26,61
+White,Monon,"Governor",,,"Write-ins",1,0,1,0
+White,Monon,"Attorney General",,REP,"Todd Rokita",772,19,334,419
+White,Monon,"Attorney General",,DEM,"Destiny Wells",286,30,151,105
+White,Monon,"U.S. House",4,REP,"Jim Baird",767,20,341,406
+White,Monon,"U.S. House",4,DEM,"Derrick Holder",235,24,131,80
+White,Monon,"U.S. House",4,LIB,"Ashley Groff",56,3,16,37
+White,Monon,"U.S. House",4,,"Write-ins",0,0,0,0
+White,Monon,"State Senate",5,REP,"Ed Charbonneau",769,19,336,414
+White,Monon,"State Senate",5,DEM,"Leslie Nuss Bamesberger",274,28,145,101
+White,Monon,"State House",16,REP,"Kendell Culp",799,25,345,429
+White,Monon,"State House",16,DEM,"Dennis Collins",235,22,132,81
+White,Monon,"Judge of the Circuit Court 39th Circuit",,REP,"Jason A. Thompson",864,32,373,459
+White,Monon,"County Treasurer",,REP,"Barbara Ann Nydegger",852,33,376,443
+White,Monon,"County Commissioner District 1",,REP,"David L. Davis",845,31,369,445
+White,Monon,"County Commissioner District 2",,REP,"Kaleb D. Pass",799,23,354,422
+White,Monon,"County Commissioner District 2",,DEM,"Darin Patrick Griesey",251,24,135,92
+White,Monon,"County Council Member At Large",,REP,"Art Anderson Jr",544,17,247,280
+White,Monon,"County Council Member At Large",,REP,"Matthew A. McKean",536,18,255,263
+White,Monon,"County Council Member At Large",,REP,"Joanne Mosher",611,23,276,312
+White,Monon,"County Council Member At Large",,DEM,"Ray Anderson Jr.",279,26,125,128
+White,Monon,"North White SB Honey Creek Twp",,NP,"Scott E. Denton",679,24,291,364
+White,Monon,"North White SB Liberty Twp",,NP,"Carlene Hunt",646,21,282,343
+White,Monon,"North White SB Monon Twp",,NP,"James J (Jim) White",693,31,306,356
+White,Monon,"IN Supreme Court-Rush",,,Yes,634,18,290,326
+White,Monon,"IN Supreme Court-Rush",,,No,256,12,116,128
+White,Monon,"IN Supreme Court-Massa",,,Yes,600,19,269,312
+White,Monon,"IN Supreme Court-Massa",,,No,272,12,129,131
+White,Monon,"IN Supreme Court-Molter",,,Yes,629,17,281,331
+White,Monon,"IN Supreme Court-Molter",,,No,252,12,121,119
+White,Monon,"Court of Appeals Dist 4-Pyle III",,,Yes,624,19,279,326
+White,Monon,"Court of Appeals Dist 4-Pyle III",,,No,251,10,121,120
+White,Monon,"Straight Party",,DEM,"Democratic Party",83,,,
+White,Monon,"Straight Party",,REP,"Republican Party",298,,,
+White,Prairie 1,Registered Voters,,,,1026,,,
+White,Prairie 1,Ballots Cast,,,,706,25,386,295
+White,Prairie 1,"Public Question-Const Amendment",,,Yes,336,6,167,163
+White,Prairie 1,"Public Question-Const Amendment",,,No,325,13,201,111
+White,Prairie 1,"President",,REP,"Donald J. Trump",454,9,228,217
+White,Prairie 1,"President",,DEM,"Kamala D. Harris",228,14,146,68
+White,Prairie 1,"President",,LIB,"Chase Oliver",4,1,2,1
+White,Prairie 1,"President",,WTP,"Robert F. Kennedy Jr.",5,0,2,3
+White,Prairie 1,"President",,,"Write-ins",4,0,2,2
+White,Prairie 1,"U.S. Senate",,REP,"Jim Banks",454,17,231,206
+White,Prairie 1,"U.S. Senate",,DEM,"Valerie McCray",191,6,124,61
+White,Prairie 1,"U.S. Senate",,LIB,"Andrew Horning",21,2,8,11
+White,Prairie 1,"U.S. Senate",,,"Write-ins",0,0,0,0
+White,Prairie 1,"Governor",,REP,"Braun \ Beckwith",384,13,197,174
+White,Prairie 1,"Governor",,DEM,"Mccormick \ Goodin",232,10,147,75
+White,Prairie 1,"Governor",,LIB,"Rainwater \ Hudson",62,1,25,36
+White,Prairie 1,"Governor",,,"Write-ins",0,0,0,0
+White,Prairie 1,"Attorney General",,REP,"Todd Rokita",451,14,232,205
+White,Prairie 1,"Attorney General",,DEM,"Destiny Wells",234,11,143,80
+White,Prairie 1,"U.S. House",4,REP,"Jim Baird",466,15,240,211
+White,Prairie 1,"U.S. House",4,DEM,"Derrick Holder",191,10,128,53
+White,Prairie 1,"U.S. House",4,LIB,"Ashley Groff",31,0,11,20
+White,Prairie 1,"U.S. House",4,,"Write-ins",0,0,0,0
+White,Prairie 1,"State Senate",5,REP,"Ed Charbonneau",474,15,239,220
+White,Prairie 1,"State Senate",5,DEM,"Leslie Nuss Bamesberger",198,8,129,61
+White,Prairie 1,"State House",16,REP,"Kendell Culp",479,16,239,224
+White,Prairie 1,"State House",16,DEM,"Dennis Collins",197,8,131,58
+White,Prairie 1,"Judge of the Circuit Court 39th Circuit",,REP,"Jason A. Thompson",551,21,288,242
+White,Prairie 1,"County Treasurer",,REP,"Barbara Ann Nydegger",530,21,281,228
+White,Prairie 1,"County Commissioner District 1",,REP,"David L. Davis",544,20,287,237
+White,Prairie 1,"County Commissioner District 2",,REP,"Kaleb D. Pass",480,15,243,222
+White,Prairie 1,"County Commissioner District 2",,DEM,"Darin Patrick Griesey",201,8,131,62
+White,Prairie 1,"County Council Member At Large",,REP,"Art Anderson Jr",354,12,193,149
+White,Prairie 1,"County Council Member At Large",,REP,"Matthew A. McKean",353,9,192,152
+White,Prairie 1,"County Council Member At Large",,REP,"Joanne Mosher",342,12,193,137
+White,Prairie 1,"County Council Member At Large",,DEM,"Ray Anderson Jr.",210,10,134,66
+White,Prairie 1,"Frontier SB At-Large",,NP,"Stephanie Laorange",448,13,237,198
+White,Prairie 1,"Frontier SB At-Large",,NP,"David Rosenbarger",490,17,265,208
+White,Prairie 1,"IN Supreme Court-Rush",,,Yes,450,16,242,192
+White,Prairie 1,"IN Supreme Court-Rush",,,No,172,1,100,71
+White,Prairie 1,"IN Supreme Court-Massa",,,Yes,429,15,223,191
+White,Prairie 1,"IN Supreme Court-Massa",,,No,175,2,109,64
+White,Prairie 1,"IN Supreme Court-Molter",,,Yes,442,15,229,198
+White,Prairie 1,"IN Supreme Court-Molter",,,No,166,1,103,62
+White,Prairie 1,"Court of Appeals Dist 4-Pyle III",,,Yes,436,15,226,195
+White,Prairie 1,"Court of Appeals Dist 4-Pyle III",,,No,169,1,106,62
+White,Prairie 1,"Straight Party",,DEM,"Democratic Party",71,,,
+White,Prairie 1,"Straight Party",,REP,"Republican Party",184,,,
+White,Prairie 2,Registered Voters,,,,1421,,,
+White,Prairie 2,Ballots Cast,,,,1016,43,525,448
+White,Prairie 2,"Public Question-Const Amendment",,,Yes,515,10,252,253
+White,Prairie 2,"Public Question-Const Amendment",,,No,416,24,228,164
+White,Prairie 2,"President",,REP,"Donald J. Trump",721,16,359,346
+White,Prairie 2,"President",,DEM,"Kamala D. Harris",270,27,155,88
+White,Prairie 2,"President",,LIB,"Chase Oliver",9,0,3,6
+White,Prairie 2,"President",,WTP,"Robert F. Kennedy Jr.",12,0,7,5
+White,Prairie 2,"President",,,"Write-ins",0,0,0,0
+White,Prairie 2,"U.S. Senate",,REP,"Jim Banks",697,17,352,328
+White,Prairie 2,"U.S. Senate",,DEM,"Valerie McCray",239,25,139,75
+White,Prairie 2,"U.S. Senate",,LIB,"Andrew Horning",34,0,12,22
+White,Prairie 2,"U.S. Senate",,,"Write-ins",1,0,0,1
+White,Prairie 2,"Governor",,REP,"Braun \ Beckwith",594,13,306,275
+White,Prairie 2,"Governor",,DEM,"Mccormick \ Goodin",289,27,162,100
+White,Prairie 2,"Governor",,LIB,"Rainwater \ Hudson",92,2,33,57
+White,Prairie 2,"Governor",,,"Write-ins",0,0,0,0
+White,Prairie 2,"Attorney General",,REP,"Todd Rokita",698,15,357,326
+White,Prairie 2,"Attorney General",,DEM,"Destiny Wells",288,26,157,105
+White,Prairie 2,"U.S. House",4,REP,"Jim Baird",714,14,368,332
+White,Prairie 2,"U.S. House",4,DEM,"Derrick Holder",228,27,129,72
+White,Prairie 2,"U.S. House",4,LIB,"Ashley Groff",49,1,18,30
+White,Prairie 2,"U.S. House",4,,"Write-ins",0,0,0,0
+White,Prairie 2,"State Senate",5,REP,"Ed Charbonneau",718,16,361,341
+White,Prairie 2,"State Senate",5,DEM,"Leslie Nuss Bamesberger",252,25,145,82
+White,Prairie 2,"State House",16,REP,"Kendell Culp",734,16,366,352
+White,Prairie 2,"State House",16,DEM,"Dennis Collins",229,25,130,74
+White,Prairie 2,"Judge of the Circuit Court 39th Circuit",,REP,"Jason A. Thompson",817,21,414,382
+White,Prairie 2,"County Treasurer",,REP,"Barbara Ann Nydegger",801,20,411,370
+White,Prairie 2,"County Commissioner District 1",,REP,"David L. Davis",804,21,411,372
+White,Prairie 2,"County Commissioner District 2",,REP,"Kaleb D. Pass",724,17,365,342
+White,Prairie 2,"County Commissioner District 2",,DEM,"Darin Patrick Griesey",245,24,140,81
+White,Prairie 2,"County Council Member At Large",,REP,"Art Anderson Jr",532,13,282,237
+White,Prairie 2,"County Council Member At Large",,REP,"Matthew A. McKean",527,16,268,243
+White,Prairie 2,"County Council Member At Large",,REP,"Joanne Mosher",522,19,274,229
+White,Prairie 2,"County Council Member At Large",,DEM,"Ray Anderson Jr.",258,21,149,88
+White,Prairie 2,"Frontier SB At-Large",,NP,"Stephanie Laorange",670,23,361,286
+White,Prairie 2,"Frontier SB At-Large",,NP,"David Rosenbarger",684,22,362,300
+White,Prairie 2,"IN Supreme Court-Rush",,,Yes,689,16,362,311
+White,Prairie 2,"IN Supreme Court-Rush",,,No,189,13,94,82
+White,Prairie 2,"IN Supreme Court-Massa",,,Yes,664,13,335,316
+White,Prairie 2,"IN Supreme Court-Massa",,,No,200,15,112,73
+White,Prairie 2,"IN Supreme Court-Molter",,,Yes,673,13,342,318
+White,Prairie 2,"IN Supreme Court-Molter",,,No,190,14,104,72
+White,Prairie 2,"Court of Appeals Dist 4-Pyle III",,,Yes,669,14,343,312
+White,Prairie 2,"Court of Appeals Dist 4-Pyle III",,,No,191,14,104,73
+White,Prairie 2,"Straight Party",,DEM,"Democratic Party",64,,,
+White,Prairie 2,"Straight Party",,REP,"Republican Party",263,,,
+White,Princeton,Registered Voters,,,,1002,,,
+White,Princeton,Ballots Cast,,,,698,22,139,537
+White,Princeton,"Public Question-Const Amendment",,,Yes,381,5,76,300
+White,Princeton,"Public Question-Const Amendment",,,No,266,11,52,203
+White,Princeton,"President",,REP,"Donald J. Trump",543,16,106,421
+White,Princeton,"President",,DEM,"Kamala D. Harris",137,6,31,100
+White,Princeton,"President",,LIB,"Chase Oliver",6,0,0,6
+White,Princeton,"President",,WTP,"Robert F. Kennedy Jr.",7,0,1,6
+White,Princeton,"President",,,"Write-ins",0,0,0,0
+White,Princeton,"U.S. Senate",,REP,"Jim Banks",509,17,102,390
+White,Princeton,"U.S. Senate",,DEM,"Valerie McCray",121,5,27,89
+White,Princeton,"U.S. Senate",,LIB,"Andrew Horning",22,0,4,18
+White,Princeton,"U.S. Senate",,,"Write-ins",0,0,0,0
+White,Princeton,"Governor",,REP,"Braun \ Beckwith",471,17,98,356
+White,Princeton,"Governor",,DEM,"Mccormick \ Goodin",159,5,33,121
+White,Princeton,"Governor",,LIB,"Rainwater \ Hudson",30,0,4,26
+White,Princeton,"Governor",,,"Write-ins",1,0,1,0
+White,Princeton,"Attorney General",,REP,"Todd Rokita",516,17,105,394
+White,Princeton,"Attorney General",,DEM,"Destiny Wells",155,5,31,119
+White,Princeton,"U.S. House",4,REP,"Jim Baird",532,16,109,407
+White,Princeton,"U.S. House",4,DEM,"Derrick Holder",109,5,22,82
+White,Princeton,"U.S. House",4,LIB,"Ashley Groff",29,0,5,24
+White,Princeton,"U.S. House",4,,"Write-ins",0,0,0,0
+White,Princeton,"State Senate",5,REP,"Ed Charbonneau",532,15,104,413
+White,Princeton,"State Senate",5,DEM,"Leslie Nuss Bamesberger",131,7,30,94
+White,Princeton,"State House",16,REP,"Kendell Culp",555,17,111,427
+White,Princeton,"State House",16,DEM,"Dennis Collins",113,5,22,86
+White,Princeton,"Judge of the Circuit Court 39th Circuit",,REP,"Jason A. Thompson",591,18,118,455
+White,Princeton,"County Treasurer",,REP,"Barbara Ann Nydegger",588,18,117,453
+White,Princeton,"County Commissioner District 1",,REP,"David L. Davis",588,18,118,452
+White,Princeton,"County Commissioner District 2",,REP,"Kaleb D. Pass",540,17,108,415
+White,Princeton,"County Commissioner District 2",,DEM,"Darin Patrick Griesey",124,5,26,93
+White,Princeton,"County Council Member At Large",,REP,"Art Anderson Jr",396,11,77,308
+White,Princeton,"County Council Member At Large",,REP,"Matthew A. McKean",380,12,68,300
+White,Princeton,"County Council Member At Large",,REP,"Joanne Mosher",375,12,76,287
+White,Princeton,"County Council Member At Large",,DEM,"Ray Anderson Jr.",178,4,37,137
+White,Princeton,"Tri-Co SB At-Large",,NP,"Brandon (Brandi) Schemerhorn",460,12,84,364
+White,Princeton,"Tri-Co SB At-Large",,NP,"Frank Zussman",390,8,81,301
+White,Princeton,"Tri-Co SB East District",,NP,"Jason Kilmer",570,13,119,438
+White,Princeton,"Tri-Co SB West District",,NP,"Spencer James Geib",574,14,115,445
+White,Princeton,"IN Supreme Court-Rush",,,Yes,438,9,93,336
+White,Princeton,"IN Supreme Court-Rush",,,No,150,7,27,116
+White,Princeton,"IN Supreme Court-Massa",,,Yes,422,10,90,322
+White,Princeton,"IN Supreme Court-Massa",,,No,155,6,29,120
+White,Princeton,"IN Supreme Court-Molter",,,Yes,448,11,91,346
+White,Princeton,"IN Supreme Court-Molter",,,No,141,5,29,107
+White,Princeton,"Court of Appeals Dist 4-Pyle III",,,Yes,437,10,89,338
+White,Princeton,"Court of Appeals Dist 4-Pyle III",,,No,152,6,30,116
+White,Princeton,"Straight Party",,DEM,"Democratic Party",28,,,
+White,Princeton,"Straight Party",,REP,"Republican Party",198,,,
+White,Round Grove,Registered Voters,,,,201,,,
+White,Round Grove,Ballots Cast,,,,140,5,69,66
+White,Round Grove,"Public Question-Const Amendment",,,Yes,78,2,40,36
+White,Round Grove,"Public Question-Const Amendment",,,No,55,1,25,29
+White,Round Grove,"President",,REP,"Donald J. Trump",105,2,50,53
+White,Round Grove,"President",,DEM,"Kamala D. Harris",34,3,19,12
+White,Round Grove,"President",,LIB,"Chase Oliver",0,0,0,0
+White,Round Grove,"President",,WTP,"Robert F. Kennedy Jr.",1,0,0,1
+White,Round Grove,"President",,,"Write-ins",0,0,0,0
+White,Round Grove,"U.S. Senate",,REP,"Jim Banks",103,2,50,51
+White,Round Grove,"U.S. Senate",,DEM,"Valerie McCray",33,2,18,13
+White,Round Grove,"U.S. Senate",,LIB,"Andrew Horning",2,1,0,1
+White,Round Grove,"U.S. Senate",,,"Write-ins",0,0,0,0
+White,Round Grove,"Governor",,REP,"Braun \ Beckwith",89,2,40,47
+White,Round Grove,"Governor",,DEM,"Mccormick \ Goodin",44,3,25,16
+White,Round Grove,"Governor",,LIB,"Rainwater \ Hudson",5,0,3,2
+White,Round Grove,"Governor",,,"Write-ins",0,0,0,0
+White,Round Grove,"Attorney General",,REP,"Todd Rokita",96,2,46,48
+White,Round Grove,"Attorney General",,DEM,"Destiny Wells",43,3,23,17
+White,Round Grove,"U.S. House",4,REP,"Jim Baird",103,2,47,54
+White,Round Grove,"U.S. House",4,DEM,"Derrick Holder",27,2,17,8
+White,Round Grove,"U.S. House",4,LIB,"Ashley Groff",6,1,3,2
+White,Round Grove,"U.S. House",4,,"Write-ins",0,0,0,0
+White,Round Grove,"State Senate",5,REP,"Ed Charbonneau",103,2,50,51
+White,Round Grove,"State Senate",5,DEM,"Leslie Nuss Bamesberger",34,3,18,13
+White,Round Grove,"State House",13,REP,"Matthew (Matt) Commons",104,2,50,52
+White,Round Grove,"State House",13,DEM,"Edward (Ed) Moyer Jr.",33,3,17,13
+White,Round Grove,"Judge of the Circuit Court 39th Circuit",,REP,"Jason A. Thompson",125,2,58,65
+White,Round Grove,"County Treasurer",,REP,"Barbara Ann Nydegger",121,2,55,64
+White,Round Grove,"County Commissioner District 1",,REP,"David L. Davis",124,3,57,64
+White,Round Grove,"County Commissioner District 2",,REP,"Kaleb D. Pass",107,2,51,54
+White,Round Grove,"County Commissioner District 2",,DEM,"Darin Patrick Griesey",29,2,18,9
+White,Round Grove,"County Council Member At Large",,REP,"Art Anderson Jr",79,0,36,43
+White,Round Grove,"County Council Member At Large",,REP,"Matthew A. McKean",84,0,45,39
+White,Round Grove,"County Council Member At Large",,REP,"Joanne Mosher",80,0,41,39
+White,Round Grove,"County Council Member At Large",,DEM,"Ray Anderson Jr.",38,2,23,13
+White,Round Grove,"Tri-Co SB At-Large",,NP,"Brandon (Brandi) Schemerhorn",92,1,44,47
+White,Round Grove,"Tri-Co SB At-Large",,NP,"Frank Zussman",72,1,28,43
+White,Round Grove,"Tri-Co SB East District",,NP,"Jason Kilmer",116,1,53,62
+White,Round Grove,"Tri-Co SB West District",,NP,"Spencer James Geib",105,1,46,58
+White,Round Grove,"IN Supreme Court-Rush",,,Yes,94,1,46,47
+White,Round Grove,"IN Supreme Court-Rush",,,No,28,1,14,13
+White,Round Grove,"IN Supreme Court-Massa",,,Yes,92,2,47,43
+White,Round Grove,"IN Supreme Court-Massa",,,No,28,0,12,16
+White,Round Grove,"IN Supreme Court-Molter",,,Yes,93,1,45,47
+White,Round Grove,"IN Supreme Court-Molter",,,No,26,0,14,12
+White,Round Grove,"Court of Appeals Dist 4-Pyle III",,,Yes,90,2,43,45
+White,Round Grove,"Court of Appeals Dist 4-Pyle III",,,No,31,0,16,15
+White,Round Grove,"Straight Party",,DEM,"Democratic Party",4,,,
+White,Round Grove,"Straight Party",,REP,"Republican Party",31,,,
+White,Union 1,Registered Voters,,,,1327,,,
+White,Union 1,Ballots Cast,,,,931,45,671,215
+White,Union 1,"Public Question-Const Amendment",,,Yes,455,14,326,115
+White,Union 1,"Public Question-Const Amendment",,,No,406,20,297,89
+White,Union 1,"Public Question-Twin Lakes",,,Yes,308,11,226,71
+White,Union 1,"Public Question-Twin Lakes",,,No,573,28,412,133
+White,Union 1,"President",,REP,"Donald J. Trump",637,21,454,162
+White,Union 1,"President",,DEM,"Kamala D. Harris",264,22,198,44
+White,Union 1,"President",,LIB,"Chase Oliver",4,1,3,0
+White,Union 1,"President",,WTP,"Robert F. Kennedy Jr.",14,1,6,7
+White,Union 1,"President",,,"Write-ins",3,0,2,1
+White,Union 1,"U.S. Senate",,REP,"Jim Banks",632,22,457,153
+White,Union 1,"U.S. Senate",,DEM,"Valerie McCray",240,19,173,48
+White,Union 1,"U.S. Senate",,LIB,"Andrew Horning",31,1,23,7
+White,Union 1,"U.S. Senate",,,"Write-ins",1,0,0,1
+White,Union 1,"Governor",,REP,"Braun \ Beckwith",564,19,406,139
+White,Union 1,"Governor",,DEM,"Mccormick \ Goodin",289,22,214,53
+White,Union 1,"Governor",,LIB,"Rainwater \ Hudson",53,2,33,18
+White,Union 1,"Governor",,,"Write-ins",0,0,0,0
+White,Union 1,"Attorney General",,REP,"Todd Rokita",634,20,452,162
+White,Union 1,"Attorney General",,DEM,"Destiny Wells",270,23,199,48
+White,Union 1,"U.S. House",4,REP,"Jim Baird",640,22,458,160
+White,Union 1,"U.S. House",4,DEM,"Derrick Holder",225,20,166,39
+White,Union 1,"U.S. House",4,LIB,"Ashley Groff",39,0,28,11
+White,Union 1,"U.S. House",4,,"Write-ins",0,0,0,0
+White,Union 1,"State Senate",5,REP,"Ed Charbonneau",642,22,465,155
+White,Union 1,"State Senate",5,DEM,"Leslie Nuss Bamesberger",249,19,177,53
+White,Union 1,"State House",16,REP,"Kendell Culp",662,21,479,162
+White,Union 1,"State House",16,DEM,"Dennis Collins",236,19,169,48
+White,Union 1,"Judge of the Circuit Court 39th Circuit",,REP,"Jason A. Thompson",767,35,544,188
+White,Union 1,"County Treasurer",,REP,"Barbara Ann Nydegger",791,33,568,190
+White,Union 1,"County Commissioner District 1",,REP,"David L. Davis",764,31,547,186
+White,Union 1,"County Commissioner District 2",,REP,"Kaleb D. Pass",649,23,470,156
+White,Union 1,"County Commissioner District 2",,DEM,"Darin Patrick Griesey",236,18,169,49
+White,Union 1,"County Council Member At Large",,REP,"Art Anderson Jr",422,18,321,83
+White,Union 1,"County Council Member At Large",,REP,"Matthew A. McKean",482,15,359,108
+White,Union 1,"County Council Member At Large",,REP,"Joanne Mosher",478,14,364,100
+White,Union 1,"County Council Member At Large",,DEM,"Ray Anderson Jr.",289,15,206,68
+White,Union 1,"Twin Lakes SB District 2",,NP,"Becky O'Farrell",652,21,474,157
+White,Union 1,"Twin Lakes SB District 3",,NP,"Jason A. Lingenfelter",697,24,504,169
+White,Union 1,"Twin Lakes SB District 4",,NP,"Michael J True",583,18,428,137
+White,Union 1,"Twin Lakes SB At-Lg District 5",,NP,"Ryan David Hurd",348,10,246,92
+White,Union 1,"Twin Lakes SB At-Lg District 5",,NP,"Charles J. Kubly",407,16,303,88
+White,Union 1,"IN Supreme Court-Rush",,,Yes,542,21,395,126
+White,Union 1,"IN Supreme Court-Rush",,,No,230,6,161,63
+White,Union 1,"IN Supreme Court-Massa",,,Yes,519,18,378,123
+White,Union 1,"IN Supreme Court-Massa",,,No,238,9,170,59
+White,Union 1,"IN Supreme Court-Molter",,,Yes,531,17,384,130
+White,Union 1,"IN Supreme Court-Molter",,,No,227,10,162,55
+White,Union 1,"Court of Appeals Dist 4-Pyle III",,,Yes,512,17,370,125
+White,Union 1,"Court of Appeals Dist 4-Pyle III",,,No,245,10,175,60
+White,Union 1,"Straight Party",,DEM,"Democratic Party",66,,,
+White,Union 1,"Straight Party",,REP,"Republican Party",316,,,
+White,Union 2,Registered Voters,,,,1170,,,
+White,Union 2,Ballots Cast,,,,773,34,554,185
+White,Union 2,"Public Question-Const Amendment",,,Yes,372,20,262,90
+White,Union 2,"Public Question-Const Amendment",,,No,340,11,252,77
+White,Union 2,"Public Question-Twin Lakes",,,Yes,251,7,180,64
+White,Union 2,"Public Question-Twin Lakes",,,No,462,22,332,108
+White,Union 2,"President",,REP,"Donald J. Trump",564,18,405,141
+White,Union 2,"President",,DEM,"Kamala D. Harris",186,16,133,37
+White,Union 2,"President",,LIB,"Chase Oliver",6,0,4,2
+White,Union 2,"President",,WTP,"Robert F. Kennedy Jr.",12,0,8,4
+White,Union 2,"President",,,"Write-ins",0,0,0,0
+White,Union 2,"U.S. Senate",,REP,"Jim Banks",572,15,415,142
+White,Union 2,"U.S. Senate",,DEM,"Valerie McCray",169,16,120,33
+White,Union 2,"U.S. Senate",,LIB,"Andrew Horning",20,2,12,6
+White,Union 2,"U.S. Senate",,,"Write-ins",0,0,0,0
+White,Union 2,"Governor",,REP,"Braun \ Beckwith",501,16,360,125
+White,Union 2,"Governor",,DEM,"Mccormick \ Goodin",209,16,148,45
+White,Union 2,"Governor",,LIB,"Rainwater \ Hudson",43,2,29,12
+White,Union 2,"Governor",,,"Write-ins",0,0,0,0
+White,Union 2,"Attorney General",,REP,"Todd Rokita",564,17,410,137
+White,Union 2,"Attorney General",,DEM,"Destiny Wells",196,17,136,43
+White,Union 2,"U.S. House",4,REP,"Jim Baird",575,17,416,142
+White,Union 2,"U.S. House",4,DEM,"Derrick Holder",155,16,108,31
+White,Union 2,"U.S. House",4,LIB,"Ashley Groff",27,1,18,8
+White,Union 2,"U.S. House",4,,"Write-ins",0,0,0,0
+White,Union 2,"State Senate",5,REP,"Ed Charbonneau",571,18,410,143
+White,Union 2,"State Senate",5,DEM,"Leslie Nuss Bamesberger",179,16,128,35
+White,Union 2,"State House",16,REP,"Kendell Culp",578,17,418,143
+White,Union 2,"State House",16,DEM,"Dennis Collins",170,17,118,35
+White,Union 2,"Judge of the Circuit Court 39th Circuit",,REP,"Jason A. Thompson",666,22,479,165
+White,Union 2,"County Treasurer",,REP,"Barbara Ann Nydegger",658,20,471,167
+White,Union 2,"County Commissioner District 1",,REP,"David L. Davis",640,21,461,158
+White,Union 2,"County Commissioner District 2",,REP,"Kaleb D. Pass",571,20,414,137
+White,Union 2,"County Commissioner District 2",,DEM,"Darin Patrick Griesey",176,14,120,42
+White,Union 2,"County Council Member At Large",,REP,"Art Anderson Jr",357,11,262,84
+White,Union 2,"County Council Member At Large",,REP,"Matthew A. McKean",394,12,284,98
+White,Union 2,"County Council Member At Large",,REP,"Joanne Mosher",356,11,262,83
+White,Union 2,"County Council Member At Large",,DEM,"Ray Anderson Jr.",197,12,144,41
+White,Union 2,"Twin Lakes SB District 2",,NP,"Becky O'Farrell",513,14,362,137
+White,Union 2,"Twin Lakes SB District 3",,NP,"Jason A. Lingenfelter",532,15,379,138
+White,Union 2,"Twin Lakes SB District 4",,NP,"Michael J True",466,13,328,125
+White,Union 2,"Twin Lakes SB At-Lg District 5",,NP,"Ryan David Hurd",323,5,240,78
+White,Union 2,"Twin Lakes SB At-Lg District 5",,NP,"Charles J. Kubly",254,12,181,61
+White,Union 2,"IN Supreme Court-Rush",,,Yes,447,13,321,113
+White,Union 2,"IN Supreme Court-Rush",,,No,173,7,134,32
+White,Union 2,"IN Supreme Court-Massa",,,Yes,441,12,319,110
+White,Union 2,"IN Supreme Court-Massa",,,No,166,7,123,36
+White,Union 2,"IN Supreme Court-Molter",,,Yes,453,15,328,110
+White,Union 2,"IN Supreme Court-Molter",,,No,156,4,117,35
+White,Union 2,"Court of Appeals Dist 4-Pyle III",,,Yes,454,13,325,116
+White,Union 2,"Court of Appeals Dist 4-Pyle III",,,No,158,7,120,31
+White,Union 2,"Straight Party",,DEM,"Democratic Party",51,,,
+White,Union 2,"Straight Party",,REP,"Republican Party",302,,,
+White,Union 3,Registered Voters,,,,1067,,,
+White,Union 3,Ballots Cast,,,,760,37,521,202
+White,Union 3,"Public Question-Const Amendment",,,Yes,360,14,231,115
+White,Union 3,"Public Question-Const Amendment",,,No,340,20,251,69
+White,Union 3,"Public Question-Twin Lakes",,,Yes,247,11,165,71
+White,Union 3,"Public Question-Twin Lakes",,,No,478,23,334,121
+White,Union 3,"President",,REP,"Donald J. Trump",520,12,356,152
+White,Union 3,"President",,DEM,"Kamala D. Harris",218,23,149,46
+White,Union 3,"President",,LIB,"Chase Oliver",5,1,3,1
+White,Union 3,"President",,WTP,"Robert F. Kennedy Jr.",12,0,10,2
+White,Union 3,"President",,,"Write-ins",1,1,0,0
+White,Union 3,"U.S. Senate",,REP,"Jim Banks",538,13,374,151
+White,Union 3,"U.S. Senate",,DEM,"Valerie McCray",196,22,131,43
+White,Union 3,"U.S. Senate",,LIB,"Andrew Horning",9,1,3,5
+White,Union 3,"U.S. Senate",,,"Write-ins",0,0,0,0
+White,Union 3,"Governor",,REP,"Braun \ Beckwith",484,12,338,134
+White,Union 3,"Governor",,DEM,"Mccormick \ Goodin",218,21,147,50
+White,Union 3,"Governor",,LIB,"Rainwater \ Hudson",43,2,25,16
+White,Union 3,"Governor",,,"Write-ins",0,0,0,0
+White,Union 3,"Attorney General",,REP,"Todd Rokita",518,12,356,150
+White,Union 3,"Attorney General",,DEM,"Destiny Wells",224,23,154,47
+White,Union 3,"U.S. House",4,REP,"Jim Baird",546,13,374,159
+White,Union 3,"U.S. House",4,DEM,"Derrick Holder",178,20,120,38
+White,Union 3,"U.S. House",4,LIB,"Ashley Groff",24,3,18,3
+White,Union 3,"U.S. House",4,,"Write-ins",0,0,0,0
+White,Union 3,"State Senate",5,REP,"Ed Charbonneau",535,13,373,149
+White,Union 3,"State Senate",5,DEM,"Leslie Nuss Bamesberger",208,23,136,49
+White,Union 3,"State House",16,REP,"Kendell Culp",549,14,380,155
+White,Union 3,"State House",16,DEM,"Dennis Collins",183,20,124,39
+White,Union 3,"Judge of the Circuit Court 39th Circuit",,REP,"Jason A. Thompson",642,28,435,179
+White,Union 3,"County Treasurer",,REP,"Barbara Ann Nydegger",648,30,443,175
+White,Union 3,"County Commissioner District 1",,REP,"David L. Davis",633,27,432,174
+White,Union 3,"County Commissioner District 2",,REP,"Kaleb D. Pass",535,18,371,146
+White,Union 3,"County Commissioner District 2",,DEM,"Darin Patrick Griesey",195,15,132,48
+White,Union 3,"County Council Member At Large",,REP,"Art Anderson Jr",350,15,252,83
+White,Union 3,"County Council Member At Large",,REP,"Matthew A. McKean",415,17,293,105
+White,Union 3,"County Council Member At Large",,REP,"Joanne Mosher",397,24,280,93
+White,Union 3,"County Council Member At Large",,DEM,"Ray Anderson Jr.",241,20,165,56
+White,Union 3,"Twin Lakes SB District 2",,NP,"Becky O'Farrell",523,25,347,151
+White,Union 3,"Twin Lakes SB District 3",,NP,"Jason A. Lingenfelter",544,25,366,153
+White,Union 3,"Twin Lakes SB District 4",,NP,"Michael J True",482,26,319,137
+White,Union 3,"Twin Lakes SB At-Lg District 5",,NP,"Ryan David Hurd",274,8,199,67
+White,Union 3,"Twin Lakes SB At-Lg District 5",,NP,"Charles J. Kubly",300,19,184,97
+White,Union 3,"IN Supreme Court-Rush",,,Yes,468,21,323,124
+White,Union 3,"IN Supreme Court-Rush",,,No,160,6,108,46
+White,Union 3,"IN Supreme Court-Massa",,,Yes,435,14,303,118
+White,Union 3,"IN Supreme Court-Massa",,,No,165,13,109,43
+White,Union 3,"IN Supreme Court-Molter",,,Yes,447,18,306,123
+White,Union 3,"IN Supreme Court-Molter",,,No,152,8,104,40
+White,Union 3,"Court of Appeals Dist 4-Pyle III",,,Yes,442,17,300,125
+White,Union 3,"Court of Appeals Dist 4-Pyle III",,,No,156,9,107,40
+White,Union 3,"Straight Party",,DEM,"Democratic Party",45,,,
+White,Union 3,"Straight Party",,REP,"Republican Party",252,,,
+White,Union 4,Registered Voters,,,,960,,,
+White,Union 4,Ballots Cast,,,,554,40,371,143
+White,Union 4,"Public Question-Const Amendment",,,Yes,253,16,171,66
+White,Union 4,"Public Question-Const Amendment",,,No,245,14,166,65
+White,Union 4,"Public Question-Twin Lakes",,,Yes,198,10,137,51
+White,Union 4,"Public Question-Twin Lakes",,,No,301,22,201,78
+White,Union 4,"President",,REP,"Donald J. Trump",321,13,218,90
+White,Union 4,"President",,DEM,"Kamala D. Harris",213,26,138,49
+White,Union 4,"President",,LIB,"Chase Oliver",4,0,2,2
+White,Union 4,"President",,WTP,"Robert F. Kennedy Jr.",7,1,5,1
+White,Union 4,"President",,,"Write-ins",0,0,0,0
+White,Union 4,"U.S. Senate",,REP,"Jim Banks",323,12,224,87
+White,Union 4,"U.S. Senate",,DEM,"Valerie McCray",194,25,128,41
+White,Union 4,"U.S. Senate",,LIB,"Andrew Horning",14,0,6,8
+White,Union 4,"U.S. Senate",,,"Write-ins",0,0,0,0
+White,Union 4,"Governor",,REP,"Braun \ Beckwith",284,10,203,71
+White,Union 4,"Governor",,DEM,"Mccormick \ Goodin",218,27,141,50
+White,Union 4,"Governor",,LIB,"Rainwater \ Hudson",32,1,15,16
+White,Union 4,"Governor",,,"Write-ins",0,0,0,0
+White,Union 4,"Attorney General",,REP,"Todd Rokita",315,12,222,81
+White,Union 4,"Attorney General",,DEM,"Destiny Wells",219,26,142,51
+White,Union 4,"U.S. House",4,REP,"Jim Baird",330,10,231,89
+White,Union 4,"U.S. House",4,DEM,"Derrick Holder",180,25,121,34
+White,Union 4,"U.S. House",4,LIB,"Ashley Groff",20,2,10,8
+White,Union 4,"U.S. House",4,,"Write-ins",0,0,0,0
+White,Union 4,"State Senate",5,REP,"Ed Charbonneau",334,12,234,88
+White,Union 4,"State Senate",5,DEM,"Leslie Nuss Bamesberger",196,25,126,45
+White,Union 4,"State House",16,REP,"Kendell Culp",344,12,239,93
+White,Union 4,"State House",16,DEM,"Dennis Collins",181,24,120,37
+White,Union 4,"Judge of the Circuit Court 39th Circuit",,REP,"Jason A. Thompson",425,23,288,114
+White,Union 4,"County Treasurer",,REP,"Barbara Ann Nydegger",425,20,290,115
+White,Union 4,"County Commissioner District 1",,REP,"David L. Davis",408,20,275,113
+White,Union 4,"County Commissioner District 2",,REP,"Kaleb D. Pass",339,13,236,90
+White,Union 4,"County Commissioner District 2",,DEM,"Darin Patrick Griesey",190,22,125,43
+White,Union 4,"County Council Member At Large",,REP,"Art Anderson Jr",232,13,157,62
+White,Union 4,"County Council Member At Large",,REP,"Matthew A. McKean",253,18,165,70
+White,Union 4,"County Council Member At Large",,REP,"Joanne Mosher",241,19,162,60
+White,Union 4,"County Council Member At Large",,DEM,"Ray Anderson Jr.",180,19,126,35
+White,Union 4,"Twin Lakes SB District 2",,NP,"Becky O'Farrell",347,21,225,101
+White,Union 4,"Twin Lakes SB District 3",,NP,"Jason A. Lingenfelter",398,25,263,110
+White,Union 4,"Twin Lakes SB District 4",,NP,"Michael J True",324,20,210,94
+White,Union 4,"Twin Lakes SB At-Lg District 5",,NP,"Ryan David Hurd",211,8,130,73
+White,Union 4,"Twin Lakes SB At-Lg District 5",,NP,"Charles J. Kubly",209,16,147,46
+White,Union 4,"IN Supreme Court-Rush",,,Yes,309,18,196,95
+White,Union 4,"IN Supreme Court-Rush",,,No,130,13,96,21
+White,Union 4,"IN Supreme Court-Massa",,,Yes,284,14,180,90
+White,Union 4,"IN Supreme Court-Massa",,,No,139,16,99,24
+White,Union 4,"IN Supreme Court-Molter",,,Yes,288,15,186,87
+White,Union 4,"IN Supreme Court-Molter",,,No,140,13,98,29
+White,Union 4,"Court of Appeals Dist 4-Pyle III",,,Yes,286,12,185,89
+White,Union 4,"Court of Appeals Dist 4-Pyle III",,,No,145,17,102,26
+White,Union 4,"Straight Party",,DEM,"Democratic Party",57,,,
+White,Union 4,"Straight Party",,LIB,"Libertarian Party",1,,,
+White,Union 4,"Straight Party",,REP,"Republican Party",165,,,
+White,Union 5,Registered Voters,,,,713,,,
+White,Union 5,Ballots Cast,,,,384,40,223,121
+White,Union 5,"Public Question-Const Amendment",,,Yes,199,17,121,61
+White,Union 5,"Public Question-Const Amendment",,,No,138,13,81,44
+White,Union 5,"Public Question-Twin Lakes",,,Yes,121,13,74,34
+White,Union 5,"Public Question-Twin Lakes",,,No,217,19,121,77
+White,Union 5,"President",,REP,"Donald J. Trump",248,20,141,87
+White,Union 5,"President",,DEM,"Kamala D. Harris",120,16,74,30
+White,Union 5,"President",,LIB,"Chase Oliver",3,1,2,0
+White,Union 5,"President",,WTP,"Robert F. Kennedy Jr.",8,1,3,4
+White,Union 5,"President",,,"Write-ins",1,0,1,0
+White,Union 5,"U.S. Senate",,REP,"Jim Banks",249,23,145,81
+White,Union 5,"U.S. Senate",,DEM,"Valerie McCray",107,12,63,32
+White,Union 5,"U.S. Senate",,LIB,"Andrew Horning",14,1,8,5
+White,Union 5,"U.S. Senate",,,"Write-ins",0,0,0,0
+White,Union 5,"Governor",,REP,"Braun \ Beckwith",214,17,126,71
+White,Union 5,"Governor",,DEM,"Mccormick \ Goodin",129,15,79,35
+White,Union 5,"Governor",,LIB,"Rainwater \ Hudson",31,5,11,15
+White,Union 5,"Governor",,,"Write-ins",0,0,0,0
+White,Union 5,"Attorney General",,REP,"Todd Rokita",238,21,137,80
+White,Union 5,"Attorney General",,DEM,"Destiny Wells",126,13,76,37
+White,Union 5,"U.S. House",4,REP,"Jim Baird",246,23,141,82
+White,Union 5,"U.S. House",4,DEM,"Derrick Holder",100,11,61,28
+White,Union 5,"U.S. House",4,LIB,"Ashley Groff",20,2,10,8
+White,Union 5,"U.S. House",4,,"Write-ins",0,0,0,0
+White,Union 5,"State Senate",5,REP,"Ed Charbonneau",248,22,142,84
+White,Union 5,"State Senate",5,DEM,"Leslie Nuss Bamesberger",113,13,67,33
+White,Union 5,"State House",16,REP,"Kendell Culp",259,21,150,88
+White,Union 5,"State House",16,DEM,"Dennis Collins",103,12,63,28
+White,Union 5,"Judge of the Circuit Court 39th Circuit",,REP,"Jason A. Thompson",317,31,183,103
+White,Union 5,"County Treasurer",,REP,"Barbara Ann Nydegger",311,29,178,104
+White,Union 5,"County Commissioner District 1",,REP,"David L. Davis",305,29,177,99
+White,Union 5,"County Commissioner District 2",,REP,"Kaleb D. Pass",256,25,145,86
+White,Union 5,"County Commissioner District 2",,DEM,"Darin Patrick Griesey",110,10,68,32
+White,Union 5,"County Council Member At Large",,REP,"Art Anderson Jr",166,14,96,56
+White,Union 5,"County Council Member At Large",,REP,"Matthew A. McKean",171,13,101,57
+White,Union 5,"County Council Member At Large",,REP,"Joanne Mosher",160,15,95,50
+White,Union 5,"County Council Member At Large",,DEM,"Ray Anderson Jr.",106,11,69,26
+White,Union 5,"Twin Lakes SB District 2",,NP,"Becky O'Farrell",256,18,150,88
+White,Union 5,"Twin Lakes SB District 3",,NP,"Jason A. Lingenfelter",276,22,163,91
+White,Union 5,"Twin Lakes SB District 4",,NP,"Michael J True",227,20,126,81
+White,Union 5,"Twin Lakes SB At-Lg District 5",,NP,"Ryan David Hurd",147,7,82,58
+White,Union 5,"Twin Lakes SB At-Lg District 5",,NP,"Charles J. Kubly",146,10,96,40
+White,Union 5,"IN Supreme Court-Rush",,,Yes,214,16,119,79
+White,Union 5,"IN Supreme Court-Rush",,,No,90,5,65,20
+White,Union 5,"IN Supreme Court-Massa",,,Yes,199,13,116,70
+White,Union 5,"IN Supreme Court-Massa",,,No,94,7,62,25
+White,Union 5,"IN Supreme Court-Molter",,,Yes,211,14,121,76
+White,Union 5,"IN Supreme Court-Molter",,,No,87,6,59,22
+White,Union 5,"Court of Appeals Dist 4-Pyle III",,,Yes,218,16,129,73
+White,Union 5,"Court of Appeals Dist 4-Pyle III",,,No,79,4,52,23
+White,Union 5,"Straight Party",,DEM,"Democratic Party",34,,,
+White,Union 5,"Straight Party",,REP,"Republican Party",134,,,
+White,Union 6,Registered Voters,,,,844,,,
+White,Union 6,Ballots Cast,,,,503,31,327,145
+White,Union 6,"Public Question-Const Amendment",,,Yes,245,13,165,67
+White,Union 6,"Public Question-Const Amendment",,,No,215,15,135,65
+White,Union 6,"Public Question-Twin Lakes",,,Yes,173,12,110,51
+White,Union 6,"Public Question-Twin Lakes",,,No,295,15,198,82
+White,Union 6,"President",,REP,"Donald J. Trump",319,19,211,89
+White,Union 6,"President",,DEM,"Kamala D. Harris",168,10,107,51
+White,Union 6,"President",,LIB,"Chase Oliver",4,0,3,1
+White,Union 6,"President",,WTP,"Robert F. Kennedy Jr.",7,1,5,1
+White,Union 6,"President",,,"Write-ins",2,1,0,1
+White,Union 6,"U.S. Senate",,REP,"Jim Banks",325,18,214,93
+White,Union 6,"U.S. Senate",,DEM,"Valerie McCray",146,9,94,43
+White,Union 6,"U.S. Senate",,LIB,"Andrew Horning",20,2,13,5
+White,Union 6,"U.S. Senate",,,"Write-ins",0,0,0,0
+White,Union 6,"Governor",,REP,"Braun \ Beckwith",289,19,190,80
+White,Union 6,"Governor",,DEM,"Mccormick \ Goodin",171,10,113,48
+White,Union 6,"Governor",,LIB,"Rainwater \ Hudson",35,0,21,14
+White,Union 6,"Governor",,,"Write-ins",0,0,0,0
+White,Union 6,"Attorney General",,REP,"Todd Rokita",323,21,207,95
+White,Union 6,"Attorney General",,DEM,"Destiny Wells",170,8,116,46
+White,Union 6,"U.S. House",4,REP,"Jim Baird",335,22,222,91
+White,Union 6,"U.S. House",4,DEM,"Derrick Holder",129,8,84,37
+White,Union 6,"U.S. House",4,LIB,"Ashley Groff",27,0,14,13
+White,Union 6,"U.S. House",4,,"Write-ins",0,0,0,0
+White,Union 6,"State Senate",5,REP,"Ed Charbonneau",325,18,219,88
+White,Union 6,"State Senate",5,DEM,"Leslie Nuss Bamesberger",160,10,98,52
+White,Union 6,"State House",16,REP,"Kendell Culp",341,24,223,94
+White,Union 6,"State House",16,DEM,"Dennis Collins",144,6,94,44
+White,Union 6,"Judge of the Circuit Court 39th Circuit",,REP,"Jason A. Thompson",396,23,260,113
+White,Union 6,"County Treasurer",,REP,"Barbara Ann Nydegger",400,24,262,114
+White,Union 6,"County Commissioner District 1",,REP,"David L. Davis",381,23,247,111
+White,Union 6,"County Commissioner District 2",,REP,"Kaleb D. Pass",324,16,219,89
+White,Union 6,"County Commissioner District 2",,DEM,"Darin Patrick Griesey",160,10,98,52
+White,Union 6,"County Council Member At Large",,REP,"Art Anderson Jr",205,11,143,51
+White,Union 6,"County Council Member At Large",,REP,"Matthew A. McKean",256,17,174,65
+White,Union 6,"County Council Member At Large",,REP,"Joanne Mosher",229,15,168,46
+White,Union 6,"County Council Member At Large",,DEM,"Ray Anderson Jr.",157,11,101,45
+White,Union 6,"Twin Lakes SB District 2",,NP,"Becky O'Farrell",335,18,221,96
+White,Union 6,"Twin Lakes SB District 3",,NP,"Jason A. Lingenfelter",379,19,248,112
+White,Union 6,"Twin Lakes SB District 4",,NP,"Michael J True",311,14,203,94
+White,Union 6,"Twin Lakes SB At-Lg District 5",,NP,"Ryan David Hurd",178,7,110,61
+White,Union 6,"Twin Lakes SB At-Lg District 5",,NP,"Charles J. Kubly",212,14,149,49
+White,Union 6,"IN Supreme Court-Rush",,,Yes,293,14,199,80
+White,Union 6,"IN Supreme Court-Rush",,,No,124,11,73,40
+White,Union 6,"IN Supreme Court-Massa",,,Yes,269,12,180,77
+White,Union 6,"IN Supreme Court-Massa",,,No,133,10,84,39
+White,Union 6,"IN Supreme Court-Molter",,,Yes,268,12,181,75
+White,Union 6,"IN Supreme Court-Molter",,,No,132,11,82,39
+White,Union 6,"Court of Appeals Dist 4-Pyle III",,,Yes,265,13,178,74
+White,Union 6,"Court of Appeals Dist 4-Pyle III",,,No,131,8,83,40
+White,Union 6,"Straight Party",,DEM,"Democratic Party",48,,,
+White,Union 6,"Straight Party",,REP,"Republican Party",156,,,
+White,Union 7,Registered Voters,,,,984,,,
+White,Union 7,Ballots Cast,,,,621,42,421,158
+White,Union 7,"Public Question-Const Amendment",,,Yes,300,8,203,89
+White,Union 7,"Public Question-Const Amendment",,,No,260,12,187,61
+White,Union 7,"Public Question-Twin Lakes",,,Yes,225,9,156,60
+White,Union 7,"Public Question-Twin Lakes",,,No,348,14,244,90
+White,Union 7,"President",,REP,"Donald J. Trump",388,18,256,114
+White,Union 7,"President",,DEM,"Kamala D. Harris",201,19,145,37
+White,Union 7,"President",,LIB,"Chase Oliver",6,1,4,1
+White,Union 7,"President",,WTP,"Robert F. Kennedy Jr.",18,1,12,5
+White,Union 7,"President",,,"Write-ins",0,0,0,0
+White,Union 7,"U.S. Senate",,REP,"Jim Banks",408,21,270,117
+White,Union 7,"U.S. Senate",,DEM,"Valerie McCray",184,17,132,35
+White,Union 7,"U.S. Senate",,LIB,"Andrew Horning",10,1,7,2
+White,Union 7,"U.S. Senate",,,"Write-ins",1,0,1,0
+White,Union 7,"Governor",,REP,"Braun \ Beckwith",363,17,244,102
+White,Union 7,"Governor",,DEM,"Mccormick \ Goodin",209,15,149,45
+White,Union 7,"Governor",,LIB,"Rainwater \ Hudson",25,0,17,8
+White,Union 7,"Governor",,,"Write-ins",1,0,0,1
+White,Union 7,"Attorney General",,REP,"Todd Rokita",408,18,275,115
+White,Union 7,"Attorney General",,DEM,"Destiny Wells",192,15,137,40
+White,Union 7,"U.S. House",4,REP,"Jim Baird",411,21,274,116
+White,Union 7,"U.S. House",4,DEM,"Derrick Holder",168,19,118,31
+White,Union 7,"U.S. House",4,LIB,"Ashley Groff",22,1,15,6
+White,Union 7,"U.S. House",4,,"Write-ins",1,0,1,0
+White,Union 7,"State Senate",5,REP,"Ed Charbonneau",406,20,274,112
+White,Union 7,"State Senate",5,DEM,"Leslie Nuss Bamesberger",191,13,136,42
+White,Union 7,"State House",16,REP,"Kendell Culp",424,21,284,119
+White,Union 7,"State House",16,DEM,"Dennis Collins",172,13,124,35
+White,Union 7,"Judge of the Circuit Court 39th Circuit",,REP,"Jason A. Thompson",499,19,342,138
+White,Union 7,"County Treasurer",,REP,"Barbara Ann Nydegger",500,19,344,137
+White,Union 7,"County Commissioner District 1",,REP,"David L. Davis",485,17,335,133
+White,Union 7,"County Commissioner District 2",,REP,"Kaleb D. Pass",439,21,302,116
+White,Union 7,"County Commissioner District 2",,DEM,"Darin Patrick Griesey",153,11,107,35
+White,Union 7,"County Council Member At Large",,REP,"Art Anderson Jr",272,11,196,65
+White,Union 7,"County Council Member At Large",,REP,"Matthew A. McKean",304,7,225,72
+White,Union 7,"County Council Member At Large",,REP,"Joanne Mosher",270,8,210,52
+White,Union 7,"County Council Member At Large",,DEM,"Ray Anderson Jr.",175,12,128,35
+White,Union 7,"Twin Lakes SB District 2",,NP,"Becky O'Farrell",398,11,276,111
+White,Union 7,"Twin Lakes SB District 3",,NP,"Jason A. Lingenfelter",447,11,311,125
+White,Union 7,"Twin Lakes SB District 4",,NP,"Michael J True",383,10,270,103
+White,Union 7,"Twin Lakes SB At-Lg District 5",,NP,"Ryan David Hurd",234,5,155,74
+White,Union 7,"Twin Lakes SB At-Lg District 5",,NP,"Charles J. Kubly",267,11,201,55
+White,Union 7,"IN Supreme Court-Rush",,,Yes,362,9,259,94
+White,Union 7,"IN Supreme Court-Rush",,,No,154,13,105,36
+White,Union 7,"IN Supreme Court-Massa",,,Yes,351,7,254,90
+White,Union 7,"IN Supreme Court-Massa",,,No,159,15,106,38
+White,Union 7,"IN Supreme Court-Molter",,,Yes,360,10,259,91
+White,Union 7,"IN Supreme Court-Molter",,,No,150,12,100,38
+White,Union 7,"Court of Appeals Dist 4-Pyle III",,,Yes,360,10,259,91
+White,Union 7,"Court of Appeals Dist 4-Pyle III",,,No,147,8,101,38
+White,Union 7,"Straight Party",,DEM,"Democratic Party",46,,,
+White,Union 7,"Straight Party",,REP,"Republican Party",210,,,
+White,West Point,Registered Voters,,,,257,,,
+White,West Point,Ballots Cast,,,,174,2,59,113
+White,West Point,"Public Question-Const Amendment",,,Yes,87,0,30,57
+White,West Point,"Public Question-Const Amendment",,,No,70,2,24,44
+White,West Point,"President",,REP,"Donald J. Trump",144,0,50,94
+White,West Point,"President",,DEM,"Kamala D. Harris",21,1,7,13
+White,West Point,"President",,LIB,"Chase Oliver",4,1,0,3
+White,West Point,"President",,WTP,"Robert F. Kennedy Jr.",2,0,1,1
+White,West Point,"President",,,"Write-ins",0,0,0,0
+White,West Point,"U.S. Senate",,REP,"Jim Banks",143,1,51,91
+White,West Point,"U.S. Senate",,DEM,"Valerie McCray",19,1,5,13
+White,West Point,"U.S. Senate",,LIB,"Andrew Horning",6,0,2,4
+White,West Point,"U.S. Senate",,,"Write-ins",0,0,0,0
+White,West Point,"Governor",,REP,"Braun \ Beckwith",122,0,46,76
+White,West Point,"Governor",,DEM,"Mccormick \ Goodin",26,1,9,16
+White,West Point,"Governor",,LIB,"Rainwater \ Hudson",18,1,2,15
+White,West Point,"Governor",,,"Write-ins",0,0,0,0
+White,West Point,"Attorney General",,REP,"Todd Rokita",141,1,51,89
+White,West Point,"Attorney General",,DEM,"Destiny Wells",29,1,8,20
+White,West Point,"U.S. House",4,REP,"Jim Baird",141,0,50,91
+White,West Point,"U.S. House",4,DEM,"Derrick Holder",18,1,6,11
+White,West Point,"U.S. House",4,LIB,"Ashley Groff",10,1,1,8
+White,West Point,"U.S. House",4,,"Write-ins",0,0,0,0
+White,West Point,"State Senate",5,REP,"Ed Charbonneau",144,1,48,95
+White,West Point,"State Senate",5,DEM,"Leslie Nuss Bamesberger",23,1,8,14
+White,West Point,"State House",16,REP,"Kendell Culp",142,1,49,92
+White,West Point,"State House",16,DEM,"Dennis Collins",24,1,8,15
+White,West Point,"Judge of the Circuit Court 39th Circuit",,REP,"Jason A. Thompson",157,2,56,99
+White,West Point,"County Treasurer",,REP,"Barbara Ann Nydegger",147,2,53,92
+White,West Point,"County Commissioner District 1",,REP,"David L. Davis",157,2,55,100
+White,West Point,"County Commissioner District 2",,REP,"Kaleb D. Pass",149,1,50,98
+White,West Point,"County Commissioner District 2",,DEM,"Darin Patrick Griesey",20,1,8,11
+White,West Point,"County Council Member At Large",,REP,"Art Anderson Jr",100,1,31,68
+White,West Point,"County Council Member At Large",,REP,"Matthew A. McKean",111,1,40,70
+White,West Point,"County Council Member At Large",,REP,"Joanne Mosher",114,1,38,75
+White,West Point,"County Council Member At Large",,DEM,"Ray Anderson Jr.",46,1,18,27
+White,West Point,"Frontier SB At-Large",,NP,"Stephanie Laorange",41,0,25,16
+White,West Point,"Frontier SB At-Large",,NP,"David Rosenbarger",42,0,28,14
+White,West Point,"Tri-Co SB At-Large",,NP,"Brandon (Brandi) Schemerhorn",81,1,18,62
+White,West Point,"Tri-Co SB At-Large",,NP,"Frank Zussman",65,2,11,52
+White,West Point,"Tri-Co SB East District",,NP,"Jason Kilmer",102,2,21,79
+White,West Point,"Tri-Co SB West District",,NP,"Spencer James Geib",94,2,21,71
+White,West Point,"IN Supreme Court-Rush",,,Yes,104,1,45,58
+White,West Point,"IN Supreme Court-Rush",,,No,38,1,6,31
+White,West Point,"IN Supreme Court-Massa",,,Yes,102,1,42,59
+White,West Point,"IN Supreme Court-Massa",,,No,36,1,7,28
+White,West Point,"IN Supreme Court-Molter",,,Yes,104,2,44,58
+White,West Point,"IN Supreme Court-Molter",,,No,33,0,4,29
+White,West Point,"Court of Appeals Dist 4-Pyle III",,,Yes,101,1,40,60
+White,West Point,"Court of Appeals Dist 4-Pyle III",,,No,39,1,8,30
+White,West Point,"Straight Party",,DEM,"Democratic Party",2,,,
+White,West Point,"Straight Party",,REP,"Republican Party",45,,,

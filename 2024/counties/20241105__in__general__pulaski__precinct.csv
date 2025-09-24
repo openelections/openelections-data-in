@@ -1,0 +1,830 @@
+county,precinct,office,district,seats,party,candidate,votes,early_voting,election_day,absentee
+Pulaski,01 Beaver,Registered Voters,,,,,327,,,
+Pulaski,01 Beaver,Ballots Cast,,,,,223,,,
+Pulaski,01 Beaver,Public Question-Const Amendment,,1,,Yes,100,52,45,3
+Pulaski,01 Beaver,Public Question-Const Amendment,,1,,No,99,59,31,9
+Pulaski,01 Beaver,President,,1,REP,Donald J. TRUMP / JD VANCE,158,79,68,11
+Pulaski,01 Beaver,President,,1,DEM,Kamala D. HARRIS / Tim WALZ,58,35,19,4
+Pulaski,01 Beaver,President,,1,LBT,Chase OLIVER / Mike terr MAAT,1,1,0,0
+Pulaski,01 Beaver,President,,1,WTP,Robert F. KENNEDY JR. / Nichole SHANAHAN,2,2,0,0
+Pulaski,01 Beaver,President,,1,,Write-In,0,0,0,0
+Pulaski,01 Beaver,U.S. Senate,,1,REP,Jim BANKS,148,75,61,12
+Pulaski,01 Beaver,U.S. Senate,,1,DEM,Valerie McCRAY,50,33,15,2
+Pulaski,01 Beaver,U.S. Senate,,1,LBT,Andrew HORNING,3,0,3,0
+Pulaski,01 Beaver,U.S. Senate,,1,,Write-In,0,0,0,0
+Pulaski,01 Beaver,Governor,,1,REP,Mike BRAUN / Micah BECKWITH,128,63,52,13
+Pulaski,01 Beaver,Governor,,1,DEM,Jennifer G. McCORMICK / Terry GOODIN,64,39,22,3
+Pulaski,01 Beaver,Governor,,1,LBT,Donald RAINWATER / Tonya HUDSON,16,10,6,0
+Pulaski,01 Beaver,Governor,,1,,Write-In,0,0,0,0
+Pulaski,01 Beaver,Attorney General,,1,REP,Todd ROKITA,147,76,58,13
+Pulaski,01 Beaver,Attorney General,,1,DEM,Destiny WELLS,63,37,23,3
+Pulaski,01 Beaver,U.S. House,2,1,REP,Rudy YAKYM,148,79,58,11
+Pulaski,01 Beaver,U.S. House,2,1,DEM,Lori A. CAMP,58,37,18,3
+Pulaski,01 Beaver,U.S. House,2,1,LBT,William E. HENRY,3,1,2,0
+Pulaski,01 Beaver,U.S. House,2,1,,Write-In,0,0,0,0
+Pulaski,01 Beaver,State Senate,5,1,REP,Ed CHARBONNEAU,158,81,64,13
+Pulaski,01 Beaver,State Senate,5,1,DEM,Leslie Nuss BAMESBERGER,48,32,15,1
+Pulaski,01 Beaver,State House,17,1,REP,Kendell CULP,161,80,68,13
+Pulaski,01 Beaver,Judge of the Circuit Court 59th Judicial,,1,REP,Mary C. WELKER,164,84,64,16
+Pulaski,01 Beaver,Judge of the Superior Court,,1,REP,Crystal A. Brucker KOCHER,164,81,67,16
+Pulaski,01 Beaver,County Auditor,,1,REP,Teresa Lynn BRYANT,165,86,65,14
+Pulaski,01 Beaver,County Recorder,,1,REP,Marsha A. TETZLOFF,169,87,67,15
+Pulaski,01 Beaver,County Treasurer,,1,REP,Laura WHEELER,170,90,65,15
+Pulaski,01 Beaver,County Commissioner,1,1,REP,Jenny Halleck KNEBEL,147,79,58,10
+Pulaski,01 Beaver,County Commissioner,1,1,DEM,Doug DENTON,61,33,24,4
+Pulaski,01 Beaver,County Commissioner,2,1,REP,Donald (Don) STREET JR.,87,43,34,10
+Pulaski,01 Beaver,County Commissioner,2,1,IND,Logan R. WUETHRICH,121,66,50,5
+Pulaski,01 Beaver,County Council Member,At Large,3,REP,Albert Aj GUTWEIN,132,73,52,7
+Pulaski,01 Beaver,County Council Member,At Large,3,REP,Sheila Hazemi JIMENEZ,116,64,46,6
+Pulaski,01 Beaver,County Council Member,At Large,3,REP,Tim OVERMYER,116,60,49,7
+Pulaski,01 Beaver,Eastern Pulaski SB,Monroe Township,3,,Waylon BURKE,0,0,0,0
+Pulaski,01 Beaver,Eastern Pulaski SB,Monroe Township,3,,Scott HANSON,6,5,1,0
+Pulaski,01 Beaver,Eastern Pulaski SB,Monroe Township,3,,Greg KISER,5,4,1,0
+Pulaski,01 Beaver,Eastern Pulaski SB,Monroe Township,3,,Monica POTTHOFF,0,0,0,0
+Pulaski,01 Beaver,Eastern Pulaski SB,Monroe Township,3,,Stephen E. Steve RAUSCH,6,5,1,0
+Pulaski,01 Beaver,Eastern Pulaski SB,Monroe Township,3,,Jimmy TERRY,1,1,0,0
+Pulaski,01 Beaver,Eastern Pulaski SB,Van Buren Township,1,,Taylor WHITE,5,4,1,0
+Pulaski,01 Beaver,West Central SB,At Large,1,,Dennis GUTWEIN,151,76,65,10
+Pulaski,01 Beaver,West Central SB,Gillam Township,1,,Jonathan GUTWEIN,132,72,56,4
+Pulaski,01 Beaver,West Central SB,Jefferson Township,1,,Jacob E. TANNER,146,79,63,4
+Pulaski,01 Beaver,West Central SB,White Post Township,1,,Darin GUDEMAN,143,76,63,4
+Pulaski,01 Beaver,IN Supreme Court-Rush,,1,,Yes,132,65,57,10
+Pulaski,01 Beaver,IN Supreme Court-Rush,,1,,No,35,23,12,0
+Pulaski,01 Beaver,IN Supreme Court-Massa,,1,,Yes,122,60,53,9
+Pulaski,01 Beaver,IN Supreme Court-Massa,,1,,No,37,24,13,0
+Pulaski,01 Beaver,IN Supreme Court-Molter,,1,,Yes,124,62,53,9
+Pulaski,01 Beaver,IN Supreme Court-Molter,,1,,No,37,24,13,0
+Pulaski,01 Beaver,Court of Appeals Dist 4-Pyle III,,1,,Yes,123,61,53,9
+Pulaski,01 Beaver,Court of Appeals Dist 4-Pyle III,,1,,No,38,25,13,0
+Pulaski,01 Beaver,Straight Party,,,DEM,,7,,,
+Pulaski,01 Beaver,Straight Party,,,REP,,30,,,
+Pulaski,02 Cass,Registered Voters,,,,,596,,,
+Pulaski,02 Cass,Ballots Cast,,,,,349,,,
+Pulaski,02 Cass,Public Question-Const Amendment,,1,,Yes,165,54,103,8
+Pulaski,02 Cass,Public Question-Const Amendment,,1,,No,146,35,98,13
+Pulaski,02 Cass,President,,1,REP,Donald J. TRUMP / JD VANCE,264,75,179,10
+Pulaski,02 Cass,President,,1,DEM,Kamala D. HARRIS / Tim WALZ,76,29,35,12
+Pulaski,02 Cass,President,,1,LBT,Chase OLIVER / Mike terr MAAT,1,0,1,0
+Pulaski,02 Cass,President,,1,WTP,Robert F. KENNEDY JR. / Nichole SHANAHAN,4,0,3,1
+Pulaski,02 Cass,President,,1,,Write-In,0,0,0,0
+Pulaski,02 Cass,U.S. Senate,,1,REP,Jim BANKS,244,69,165,10
+Pulaski,02 Cass,U.S. Senate,,1,DEM,Valerie McCRAY,71,26,33,12
+Pulaski,02 Cass,U.S. Senate,,1,LBT,Andrew HORNING,9,2,6,1
+Pulaski,02 Cass,U.S. Senate,,1,,Write-In,0,0,0,0
+Pulaski,02 Cass,Governor,,1,REP,Mike BRAUN / Micah BECKWITH,222,63,149,10
+Pulaski,02 Cass,Governor,,1,DEM,Jennifer G. McCORMICK / Terry GOODIN,76,27,38,11
+Pulaski,02 Cass,Governor,,1,LBT,Donald RAINWATER / Tonya HUDSON,28,7,19,2
+Pulaski,02 Cass,Governor,,1,,Write-In,0,0,0,0
+Pulaski,02 Cass,Attorney General,,1,REP,Todd ROKITA,252,71,169,12
+Pulaski,02 Cass,Attorney General,,1,DEM,Destiny WELLS,82,28,43,11
+Pulaski,02 Cass,U.S. House,2,1,REP,Rudy YAKYM,248,68,168,12
+Pulaski,02 Cass,U.S. House,2,1,DEM,Lori A. CAMP,73,30,34,9
+Pulaski,02 Cass,U.S. House,2,1,LBT,William E. HENRY,17,3,12,2
+Pulaski,02 Cass,U.S. House,2,1,,Write-In,0,0,0,0
+Pulaski,02 Cass,State Senate,5,1,REP,Ed CHARBONNEAU,256,70,173,13
+Pulaski,02 Cass,State Senate,5,1,DEM,Leslie Nuss BAMESBERGER,77,28,39,10
+Pulaski,02 Cass,State House,17,1,REP,Kendell CULP,256,73,171,12
+Pulaski,02 Cass,Judge of the Circuit Court 59th Judicial,,1,REP,Mary C. WELKER,265,72,179,14
+Pulaski,02 Cass,Judge of the Superior Court,,1,REP,Crystal A. Brucker KOCHER,253,68,171,14
+Pulaski,02 Cass,County Auditor,,1,REP,Teresa Lynn BRYANT,269,73,180,16
+Pulaski,02 Cass,County Recorder,,1,REP,Marsha A. TETZLOFF,264,75,175,14
+Pulaski,02 Cass,County Treasurer,,1,REP,Laura WHEELER,259,71,174,14
+Pulaski,02 Cass,County Commissioner,1,1,REP,Jenny Halleck KNEBEL,239,67,161,11
+Pulaski,02 Cass,County Commissioner,1,1,DEM,Doug DENTON,90,30,48,12
+Pulaski,02 Cass,County Commissioner,2,1,REP,Donald (Don) STREET JR.,199,64,126,9
+Pulaski,02 Cass,County Commissioner,2,1,,Logan R. WUETHRICH,125,35,79,11
+Pulaski,02 Cass,County Council Member,At Large,3,REP,Albert Aj GUTWEIN,197,54,133,10
+Pulaski,02 Cass,County Council Member,At Large,3,REP,Sheila Hazemi JIMENEZ,135,37,86,12
+Pulaski,02 Cass,County Council Member,At Large,3,REP,Tim OVERMYER,144,37,95,12
+Pulaski,02 Cass,West Central SB,At Large,1,,Dennis GUTWEIN,203,48,141,14
+Pulaski,02 Cass,West Central SB,Gillam Township,1,,Jonathan GUTWEIN,176,40,123,13
+Pulaski,02 Cass,West Central SB,Jefferson Township,1,,Jacob E. TANNER,185,44,126,15
+Pulaski,02 Cass,West Central SB,White Post Township,1,,Darin GUDEMAN,199,47,137,15
+Pulaski,02 Cass,IN Supreme Court-Rush,,1,,Yes,190,47,133,10
+Pulaski,02 Cass,IN Supreme Court-Rush,,1,,No,86,26,49,11
+Pulaski,02 Cass,IN Supreme Court-Massa,,1,,Yes,193,50,133,10
+Pulaski,02 Cass,IN Supreme Court-Massa,,1,,No,85,22,52,11
+Pulaski,02 Cass,IN Supreme Court-Molter,,1,,Yes,188,46,131,11
+Pulaski,02 Cass,IN Supreme Court-Molter,,1,,No,86,25,51,10
+Pulaski,02 Cass,Court of Appeals Dist 4-Pyle III,,1,,Yes,190,48,131,11
+Pulaski,02 Cass,Court of Appeals Dist 4-Pyle III,,1,,No,85,24,51,10
+Pulaski,02 Cass,Straight Party,,,DEM,,15,,,
+Pulaski,02 Cass,Straight Party,,,REP,,93,,,
+Pulaski,03 Franklin,Registered Voters,,,,,563,,,
+Pulaski,03 Franklin,Ballots Cast,,,,,339,,,
+Pulaski,03 Franklin,Public Question-Const Amendment,,1,,Yes,159,106,48,5
+Pulaski,03 Franklin,Public Question-Const Amendment,,1,,No,137,84,45,8
+Pulaski,03 Franklin,President,,1,REP,Donald J. TRUMP / JD VANCE,266,164,91,11
+Pulaski,03 Franklin,President,,1,DEM,Kamala D. HARRIS / Tim WALZ,66,49,12,5
+Pulaski,03 Franklin,President,,1,LBT,Chase OLIVER / Mike terr MAAT,1,0,1,0
+Pulaski,03 Franklin,President,,1,WTP,Robert F. KENNEDY JR. / Nichole SHANAHAN,4,3,1,0
+Pulaski,03 Franklin,President,,1,,Write-In,1,1,0,0
+Pulaski,03 Franklin,U.S. Senate,,1,REP,Jim BANKS,236,155,71,10
+Pulaski,03 Franklin,U.S. Senate,,1,DEM,Valerie McCRAY,62,43,14,5
+Pulaski,03 Franklin,U.S. Senate,,1,LBT,Andrew HORNING,14,7,7,0
+Pulaski,03 Franklin,U.S. Senate,,1,,Write-In,1,1,0,0
+Pulaski,03 Franklin,Governor,,1,REP,Mike BRAUN / Micah BECKWITH,214,138,66,10
+Pulaski,03 Franklin,Governor,,1,DEM,Jennifer G. McCORMICK / Terry GOODIN,71,49,17,5
+Pulaski,03 Franklin,Governor,,1,LBT,Donald RAINWATER / Tonya HUDSON,35,23,12,0
+Pulaski,03 Franklin,Governor,,1,,Write-In,0,0,0,0
+Pulaski,03 Franklin,Attorney General,,1,REP,Todd ROKITA,241,152,79,10
+Pulaski,03 Franklin,Attorney General,,1,DEM,Destiny WELLS,71,51,15,5
+Pulaski,03 Franklin,U.S. House,2,1,REP,Rudy YAKYM,234,149,76,9
+Pulaski,03 Franklin,U.S. House,2,1,DEM,Lori A. CAMP,59,43,11,5
+Pulaski,03 Franklin,U.S. House,2,1,LBT,William E. HENRY,18,10,8,0
+Pulaski,03 Franklin,U.S. House,2,1,,Write-In,2,2,0,0
+Pulaski,03 Franklin,State Senate,5,1,REP,Ed CHARBONNEAU,250,157,82,11
+Pulaski,03 Franklin,State Senate,5,1,DEM,Leslie Nuss BAMESBERGER,64,46,13,5
+Pulaski,03 Franklin,State House,17,1,REP,Kendell CULP,249,157,81,11
+Pulaski,03 Franklin,Judge of the Circuit Court 59th Judicial,,1,REP,Mary C. WELKER,261,166,81,14
+Pulaski,03 Franklin,Judge of the Superior Court,,1,REP,Crystal A. Brucker KOCHER,254,161,80,13
+Pulaski,03 Franklin,County Auditor,,1,REP,Teresa Lynn BRYANT,269,168,88,13
+Pulaski,03 Franklin,County Recorder,,1,REP,Marsha A. TETZLOFF,268,173,81,14
+Pulaski,03 Franklin,County Treasurer,,1,REP,Laura WHEELER,268,169,86,13
+Pulaski,03 Franklin,County Commissioner,1,1,REP,Jenny Halleck KNEBEL,219,141,71,7
+Pulaski,03 Franklin,County Commissioner,1,1,DEM,Doug DENTON,99,67,23,9
+Pulaski,03 Franklin,County Commissioner,2,1,REP,Donald (Don) STREET JR.,193,120,61,12
+Pulaski,03 Franklin,County Commissioner,2,1,IND,Logan R. WUETHRICH,109,74,31,4
+Pulaski,03 Franklin,County Council Member,At Large,3,REP,Albert Aj GUTWEIN,156,100,50,6
+Pulaski,03 Franklin,County Council Member,At Large,3,REP,Sheila Hazemi JIMENEZ,151,97,44,10
+Pulaski,03 Franklin,County Council Member,At Large,3,REP,Tim OVERMYER,166,111,45,10
+Pulaski,03 Franklin,Eastern Pulaski SB,Monroe Township,3,,Waylon BURKE,57,36,16,5
+Pulaski,03 Franklin,Eastern Pulaski SB,Monroe Township,3,,Scott HANSON,115,73,35,7
+Pulaski,03 Franklin,Eastern Pulaski SB,Monroe Township,3,,Greg KISER,109,73,34,2
+Pulaski,03 Franklin,Eastern Pulaski SB,Monroe Township,3,,Monica POTTHOFF,101,60,33,8
+Pulaski,03 Franklin,Eastern Pulaski SB,Monroe Township,3,,Stephen E. Steve RAUSCH,126,82,37,7
+Pulaski,03 Franklin,Eastern Pulaski SB,Monroe Township,3,,Jimmy TERRY,150,99,43,8
+Pulaski,03 Franklin,Eastern Pulaski SB,Van Buren Township,1,,Taylor WHITE,213,134,69,10
+Pulaski,03 Franklin,IN Supreme Court-Rush,,1,,Yes,167,106,51,10
+Pulaski,03 Franklin,IN Supreme Court-Rush,,1,,No,80,53,27,0
+Pulaski,03 Franklin,IN Supreme Court-Massa,,1,,Yes,174,109,56,9
+Pulaski,03 Franklin,IN Supreme Court-Massa,,1,,No,75,51,23,1
+Pulaski,03 Franklin,IN Supreme Court-Molter,,1,,Yes,174,108,57,9
+Pulaski,03 Franklin,IN Supreme Court-Molter,,1,,No,75,52,22,1
+Pulaski,03 Franklin,Court of Appeals Dist 4-Pyle III,,1,,Yes,170,103,58,9
+Pulaski,03 Franklin,Court of Appeals Dist 4-Pyle III,,1,,No,79,55,23,1
+Pulaski,03 Franklin,Straight Party,,,DEM,,14,,,
+Pulaski,03 Franklin,Straight Party,,,REP,,66,,,
+Pulaski,04 Harrison,Registered Voters,,,,,502,,,
+Pulaski,04 Harrison,Ballots Cast,,,,,339,,,
+Pulaski,04 Harrison,Public Question-Const Amendment,,1,,Yes,166,83,78,5
+Pulaski,04 Harrison,Public Question-Const Amendment,,1,,No,134,70,58,6
+Pulaski,04 Harrison,President,,1,REP,Donald J. TRUMP / JD VANCE,255,128,118,9
+Pulaski,04 Harrison,President,,1,DEM,Kamala D. HARRIS / Tim WALZ,70,45,21,4
+Pulaski,04 Harrison,President,,1,LBT,Chase OLIVER / Mike terr MAAT,0,0,0,0
+Pulaski,04 Harrison,President,,1,WTP,Robert F. KENNEDY JR. / Nichole SHANAHAN,7,2,5,0
+Pulaski,04 Harrison,President,,1,,Write-In,0,0,0,0
+Pulaski,04 Harrison,U.S. Senate,,1,REP,Jim BANKS,237,121,107,9
+Pulaski,04 Harrison,U.S. Senate,,1,DEM,Valerie McCRAY,68,43,22,3
+Pulaski,04 Harrison,U.S. Senate,,1,LBT,Andrew HORNING,9,3,5,1
+Pulaski,04 Harrison,U.S. Senate,,1,,Write-In,0,0,0,0
+Pulaski,04 Harrison,Governor,,1,REP,Mike BRAUN / Micah BECKWITH,209,105,97,7
+Pulaski,04 Harrison,Governor,,1,DEM,Jennifer G. McCORMICK / Terry GOODIN,89,55,30,4
+Pulaski,04 Harrison,Governor,,1,LBT,Donald RAINWATER / Tonya HUDSON,25,12,12,1
+Pulaski,04 Harrison,Governor,,1,,Write-In,0,0,0,0
+Pulaski,04 Harrison,Attorney General,,1,REP,Todd ROKITA,234,119,107,8
+Pulaski,04 Harrison,Attorney General,,1,DEM,Destiny WELLS,80,46,30,4
+Pulaski,04 Harrison,U.S. House,2,1,REP,Rudy YAKYM,256,130,117,9
+Pulaski,04 Harrison,U.S. House,2,1,DEM,Lori A. CAMP,60,36,20,4
+Pulaski,04 Harrison,U.S. House,2,1,LBT,William E. HENRY,5,1,4,0
+Pulaski,04 Harrison,U.S. House,2,1,,Write-In,0,0,0,0
+Pulaski,04 Harrison,State Senate,5,1,REP,Ed CHARBONNEAU,257,128,122,7
+Pulaski,04 Harrison,State Senate,5,1,DEM,Leslie Nuss BAMESBERGER,61,38,18,5
+Pulaski,04 Harrison,Judge of the Circuit Court 59th Judicial,,1,REP,Mary C. WELKER,258,131,119,8
+Pulaski,04 Harrison,Judge of the Superior Court,,1,REP,Crystal A. Brucker KOCHER,249,126,115,8
+Pulaski,04 Harrison,County Auditor,,1,REP,Teresa Lynn BRYANT,270,138,124,8
+Pulaski,04 Harrison,County Recorder,,1,REP,Marsha A. TETZLOFF,265,130,127,8
+Pulaski,04 Harrison,County Treasurer,,1,REP,Laura WHEELER,260,131,121,8
+Pulaski,04 Harrison,County Commissioner,1,1,REP,Jenny Halleck KNEBEL,220,109,105,6
+Pulaski,04 Harrison,County Commissioner,1,1,DEM,Doug DENTON,95,51,39,5
+Pulaski,04 Harrison,County Commissioner,2,1,REP,Donald (Don) STREET JR.,199,103,88,8
+Pulaski,04 Harrison,County Commissioner,2,1,,Logan R. WUETHRICH,105,55,49,1
+Pulaski,04 Harrison,County Council Member,At Large,3,REP,Albert Aj GUTWEIN,181,93,84,4
+Pulaski,04 Harrison,County Council Member,At Large,3,REP,Sheila Hazemi JIMENEZ,174,79,89,6
+Pulaski,04 Harrison,County Council Member,At Large,3,REP,Tim OVERMYER,188,95,87,6
+Pulaski,04 Harrison,Eastern Pulaski SB,Monroe Township,3,,Waylon BURKE,50,29,21,0
+Pulaski,04 Harrison,Eastern Pulaski SB,Monroe Township,3,,Scott HANSON,118,54,61,3
+Pulaski,04 Harrison,Eastern Pulaski SB,Monroe Township,3,,Greg KISER,150,75,70,5
+Pulaski,04 Harrison,Eastern Pulaski SB,Monroe Township,3,,Monica POTTHOFF,118,55,59,4
+Pulaski,04 Harrison,Eastern Pulaski SB,Monroe Township,3,,Stephen E. Steve RAUSCH,149,70,73,6
+Pulaski,04 Harrison,Eastern Pulaski SB,Monroe Township,3,,Jimmy TERRY,160,85,73,2
+Pulaski,04 Harrison,Eastern Pulaski SB,Van Buren Township,1,,Taylor WHITE,221,108,106,7
+Pulaski,04 Harrison,IN Supreme Court-Rush,,1,,Yes,184,89,88,7
+Pulaski,04 Harrison,IN Supreme Court-Rush,,1,,No,76,46,29,1
+Pulaski,04 Harrison,IN Supreme Court-Massa,,1,,Yes,177,84,87,6
+Pulaski,04 Harrison,IN Supreme Court-Massa,,1,,No,84,53,30,1
+Pulaski,04 Harrison,IN Supreme Court-Massa,,1,,Yes,180,85,88,7
+Pulaski,04 Harrison,IN Supreme Court-Massa,,1,,No,82,53,28,1
+Pulaski,04 Harrison,Court of Appeals Dist 4-Pyle III,,1,,Yes,180,83,90,7
+Pulaski,04 Harrison,Court of Appeals Dist 4-Pyle III,,1,,No,81,52,28,1
+Pulaski,04 Harrison,Straight Party,,,DEM,,10,,,
+Pulaski,04 Harrison,Straight Party,,,REP,,62,,,
+Pulaski,05 Indian Creek,Registered Voters,,,,,504,,,
+Pulaski,05 Indian Creek,Ballots Cast,,,,,302,,,
+Pulaski,05 Indian Creek,Public Question-Const Amendment,,1,,Yes,146,75,66,5
+Pulaski,05 Indian Creek,Public Question-Const Amendment,,1,,No,116,61,53,2
+Pulaski,05 Indian Creek,President,,1,REP,Donald J. TRUMP / JD VANCE,219,113,99,7
+Pulaski,05 Indian Creek,President,,1,DEM,Kamala D. HARRIS / Tim WALZ,76,42,27,7
+Pulaski,05 Indian Creek,President,,1,LBT,Chase OLIVER / Mike terr MAAT,1,1,0,0
+Pulaski,05 Indian Creek,President,,1,WTP,Robert F. KENNEDY JR. / Nichole SHANAHAN,4,1,3,0
+Pulaski,05 Indian Creek,President,,1,,Write-In,0,0,0,0
+Pulaski,05 Indian Creek,U.S. Senate,,1,REP,Jim BANKS,213,111,94,8
+Pulaski,05 Indian Creek,U.S. Senate,,1,DEM,Valerie McCRAY,65,36,23,6
+Pulaski,05 Indian Creek,U.S. Senate,,1,LBT,Andrew HORNING,7,3,4,0
+Pulaski,05 Indian Creek,U.S. Senate,,1,,Write-In,0,0,0,0
+Pulaski,05 Indian Creek,Governor,,1,REP,Mike BRAUN / Micah BECKWITH,190,97,85,8
+Pulaski,05 Indian Creek,Governor,,1,DEM,Jennifer G. McCORMICK / Terry GOODIN,78,40,32,6
+Pulaski,05 Indian Creek,Governor,,1,LBT,Donald RAINWATER / Tonya HUDSON,24,14,10,0
+Pulaski,05 Indian Creek,Governor,,1,,Write-In,0,0,0,0
+Pulaski,05 Indian Creek,Attorney General,,1,REP,Todd ROKITA,219,112,99,8
+Pulaski,05 Indian Creek,Attorney General,,1,DEM,Destiny WELLS,77,42,29,6
+Pulaski,05 Indian Creek,U.S. House,2,1,REP,Rudy YAKYM,215,116,91,8
+Pulaski,05 Indian Creek,U.S. House,2,1,DEM,Lori A. CAMP,67,35,26,6
+Pulaski,05 Indian Creek,U.S. House,2,1,LBT,William E. HENRY,10,2,8,0
+Pulaski,05 Indian Creek,U.S. House,2,1,,Write-In,0,0,0,0
+Pulaski,05 Indian Creek,State Senate,5,1,REP,Ed CHARBONNEAU,228,119,101,8
+Pulaski,05 Indian Creek,State Senate,5,1,DEM,Leslie Nuss BAMESBERGER,65,33,26,6
+Pulaski,05 Indian Creek,State House,17,1,REP,Kendell CULP,216,111,97,8
+Pulaski,05 Indian Creek,Judge of the Circuit Court 59th Judicial,,1,REP,Mary C. WELKER,239,130,103,6
+Pulaski,05 Indian Creek,Judge of the Superior Court,,1,REP,Crystal A. Brucker KOCHER,238,127,103,8
+Pulaski,05 Indian Creek,County Auditor,,1,REP,Teresa Lynn BRYANT,244,132,104,8
+Pulaski,05 Indian Creek,County Recorder,,1,REP,Marsha A. TETZLOFF,252,139,105,8
+Pulaski,05 Indian Creek,County Treasurer,,1,REP,Laura WHEELER,235,128,99,8
+Pulaski,05 Indian Creek,County Commissioner,1,1,REP,Jenny Halleck KNEBEL,190,91,91,8
+Pulaski,05 Indian Creek,County Commissioner,1,1,DEM,Doug DENTON,99,61,32,6
+Pulaski,05 Indian Creek,County Commissioner,2,1,REP,Donald (Don) STREET JR.,167,95,67,5
+Pulaski,05 Indian Creek,County Commissioner,2,1,IND,Logan R. WUETHRICH,106,53,49,4
+Pulaski,05 Indian Creek,County Council Member,At Large,3,REP,Albert Aj GUTWEIN,138,73,61,4
+Pulaski,05 Indian Creek,County Council Member,At Large,3,REP,Sheila Hazemi JIMENEZ,148,85,61,2
+Pulaski,05 Indian Creek,County Council Member,At Large,3,REP,Tim OVERMYER,159,87,69,3
+Pulaski,05 Indian Creek,Eastern Pulaski SB,Monroe Township,3,,Waylon BURKE,58,22,31,5
+Pulaski,05 Indian Creek,Eastern Pulaski SB,Monroe Township,3,,Scott HANSON,112,62,48,2
+Pulaski,05 Indian Creek,Eastern Pulaski SB,Monroe Township,3,,Greg KISER,145,75,67,3
+Pulaski,05 Indian Creek,Eastern Pulaski SB,Monroe Township,3,,Monica POTTHOFF,124,69,52,3
+Pulaski,05 Indian Creek,Eastern Pulaski SB,Monroe Township,3,,Stephen E. Steve RAUSCH,104,59,44,1
+Pulaski,05 Indian Creek,Eastern Pulaski SB,Monroe Township,3,,Jimmy TERRY,142,66,71,5
+Pulaski,05 Indian Creek,IN Supreme Court-Rush,,1,,Yes,167,90,72,5
+Pulaski,05 Indian Creek,IN Supreme Court-Rush,,1,,No,70,35,32,3
+Pulaski,05 Indian Creek,IN Supreme Court-Massa,,1,,Yes,165,85,75,5
+Pulaski,05 Indian Creek,IN Supreme Court-Massa,,1,,No,70,39,28,3
+Pulaski,05 Indian Creek,IN Supreme Court-Molter,,1,,Yes,159,82,73,4
+Pulaski,05 Indian Creek,IN Supreme Court-Molter,,1,,No,77,42,31,4
+Pulaski,05 Indian Creek,Court of Appeals Dist 4-Pyle III,,1,,Yes,160,84,71,5
+Pulaski,05 Indian Creek,Court of Appeals Dist 4-Pyle III,,1,,No,75,40,32,3
+Pulaski,05 Indian Creek,Straight Party,,,DEM,,10,,,
+Pulaski,05 Indian Creek,Straight Party,,,REP,,51,,,
+Pulaski,06 Jefferson,Registered Voters,,,,,379,,,
+Pulaski,06 Jefferson,Ballots Cast,,,,,263,,,
+Pulaski,06 Jefferson,Public Question-Const Amendment,,1,,Yes,118,64,52,2
+Pulaski,06 Jefferson,Public Question-Const Amendment,,1,,No,114,55,50,9
+Pulaski,06 Jefferson,President,,1,REP,Donald J. TRUMP / JD VANCE,216,104,97,15
+Pulaski,06 Jefferson,President,,1,DEM,Kamala D. HARRIS / Tim WALZ,38,26,11,1
+Pulaski,06 Jefferson,President,,1,LBT,Chase OLIVER / Mike terr MAAT,2,0,2,0
+Pulaski,06 Jefferson,President,,1,WTP,Robert F. KENNEDY JR. / Nichole SHANAHAN,0,0,0,0
+Pulaski,06 Jefferson,President,,1,,Write-In,0,0,0,0
+Pulaski,06 Jefferson,U.S. Senate,,1,REP,Jim BANKS,192,95,84,13
+Pulaski,06 Jefferson,U.S. Senate,,1,DEM,Valerie McCRAY,33,21,11,1
+Pulaski,06 Jefferson,U.S. Senate,,1,LBT,Andrew HORNING,9,6,3,0
+Pulaski,06 Jefferson,U.S. Senate,,1,,Write-In,0,0,0,0
+Pulaski,06 Jefferson,Governor,,1,REP,Mike BRAUN / Micah BECKWITH,179,88,78,13
+Pulaski,06 Jefferson,Governor,,1,DEM,Jennifer G. McCORMICK / Terry GOODIN,43,25,16,2
+Pulaski,06 Jefferson,Governor,,1,LBT,Donald RAINWATER / Tonya HUDSON,23,13,10,0
+Pulaski,06 Jefferson,Governor,,1,,Write-In,0,0,0,0
+Pulaski,06 Jefferson,Attorney General,,1,REP,Todd ROKITA,202,104,86,12
+Pulaski,06 Jefferson,Attorney General,,1,DEM,Destiny WELLS,43,24,18,1
+Pulaski,06 Jefferson,U.S. House,2,1,REP,Rudy YAKYM,196,104,79,13
+Pulaski,06 Jefferson,U.S. House,2,1,DEM,Lori A. CAMP,35,19,15,1
+Pulaski,06 Jefferson,U.S. House,2,1,LBT,William E. HENRY,9,3,6,0
+Pulaski,06 Jefferson,U.S. House,2,1,,Write-In,0,0,0,0
+Pulaski,06 Jefferson,State Senate,5,1,REP,Ed CHARBONNEAU,207,109,85,13
+Pulaski,06 Jefferson,State Senate,5,1,DEM,Leslie Nuss BAMESBERGER,33,19,13,1
+Pulaski,06 Jefferson,State House,17,1,REP,Kendell CULP,212,106,93,13
+Pulaski,06 Jefferson,Judge of the Circuit Court 59th Judicial,,1,REP,Mary C. WELKER,207,101,92,14
+Pulaski,06 Jefferson,Judge of the Superior Court,,1,REP,Crystal A. Brucker KOCHER,210,107,90,13
+Pulaski,06 Jefferson,County Auditor,,1,REP,Teresa Lynn BRYANT,214,111,91,12
+Pulaski,06 Jefferson,County Recorder,,1,REP,Marsha A. TETZLOFF,219,116,91,12
+Pulaski,06 Jefferson,County Treasurer,,1,REP,Laura WHEELER,208,106,89,13
+Pulaski,06 Jefferson,County Commissioner,1,1,REP,Jenny Halleck KNEBEL,168,80,79,9
+Pulaski,06 Jefferson,County Commissioner,1,1,DEM,Doug DENTON,76,47,25,4
+Pulaski,06 Jefferson,County Commissioner,2,1,REP,Donald (Don) STREET JR.,131,63,59,9
+Pulaski,06 Jefferson,County Commissioner,2,1,,Logan R. WUETHRICH,110,58,47,5
+Pulaski,06 Jefferson,County Council Member,At Large,3,REP,Albert Aj GUTWEIN,160,87,64,9
+Pulaski,06 Jefferson,County Council Member,At Large,3,REP,Sheila Hazemi JIMENEZ,139,78,52,9
+Pulaski,06 Jefferson,County Council Member,At Large,3,REP,Tim OVERMYER,140,78,51,11
+Pulaski,06 Jefferson,Eastern Pulaski SB,Monroe Township,3,,Waylon BURKE,22,13,8,1
+Pulaski,06 Jefferson,Eastern Pulaski SB,Monroe Township,3,,Scott HANSON,32,21,9,2
+Pulaski,06 Jefferson,Eastern Pulaski SB,Monroe Township,3,,Greg KISER,38,30,4,4
+Pulaski,06 Jefferson,Eastern Pulaski SB,Monroe Township,3,,Monica POTTHOFF,21,16,4,1
+Pulaski,06 Jefferson,Eastern Pulaski SB,Monroe Township,3,,Stephen E. Steve RAUSCH,49,33,11,5
+Pulaski,06 Jefferson,Eastern Pulaski SB,Monroe Township,3,,Jimmy TERRY,45,34,9,2
+Pulaski,06 Jefferson,Eastern Pulaski SB,Van Buren Township,1,,Taylor WHITE,60,42,14,4
+Pulaski,06 Jefferson,West Central SB,At Large,1,,Dennis GUTWEIN,130,59,67,4
+Pulaski,06 Jefferson,West Central SB,Gillam Township,1,,Jonathan GUTWEIN,110,46,60,4
+Pulaski,06 Jefferson,West Central SB,Jefferson Township,1,,Jacob E. TANNER,132,58,70,4
+Pulaski,06 Jefferson,West Central SB,White Post Township,1,,Darin GUDEMAN,126,58,64,4
+Pulaski,06 Jefferson,West Central SB,,1,,No,54,30,24,0
+Pulaski,06 Jefferson,IN Supreme Court-Massa,,1,,Yes,141,75,60,6
+Pulaski,06 Jefferson,IN Supreme Court-Massa,,1,,No,56,30,26,0
+Pulaski,06 Jefferson,IN Supreme Court-Molter,,1,,Yes,144,74,64,6
+Pulaski,06 Jefferson,IN Supreme Court-Molter,,1,,No,49,27,22,0
+Pulaski,06 Jefferson,Court of Appeals Dist 4-Pyle III,,1,,Yes,144,78,61,5
+Pulaski,06 Jefferson,Court of Appeals Dist 4-Pyle III,,1,,No,50,25,24,1
+Pulaski,06 Jefferson,Straight Party,,,DEM,,5,,,
+Pulaski,06 Jefferson,Straight Party,,,REP,,41,,,
+Pulaski,07 Monroe 1,Registered Voters,,,,,678,,,
+Pulaski,07 Monroe 1,Ballots Cast,,,,,432,,,
+Pulaski,07 Monroe 1,Public Question-Const Amendment,,1,,Yes,196,128,60,8
+Pulaski,07 Monroe 1,Public Question-Const Amendment,,1,,No,185,121,51,13
+Pulaski,07 Monroe 1,President,,1,REP,Donald J. TRUMP / JD VANCE,304,202,88,14
+Pulaski,07 Monroe 1,President,,1,DEM,Kamala D. HARRIS / Tim WALZ,111,65,32,14
+Pulaski,07 Monroe 1,President,,1,LBT,Chase OLIVER / Mike terr MAAT,1,0,1,0
+Pulaski,07 Monroe 1,President,,1,WTP,Robert F. KENNEDY JR. / Nichole SHANAHAN,7,3,3,1
+Pulaski,07 Monroe 1,President,,1,,Write-In,2,2,0,0
+Pulaski,07 Monroe 1,U.S. Senate,,1,REP,Jim BANKS,291,191,87,13
+Pulaski,07 Monroe 1,U.S. Senate,,1,DEM,Valerie McCRAY,93,59,22,12
+Pulaski,07 Monroe 1,U.S. Senate,,1,LBT,Andrew HORNING,6,3,3,0
+Pulaski,07 Monroe 1,U.S. Senate,,1,,Write-In,0,0,0,0
+Pulaski,07 Monroe 1,Governor,,1,REP,Mike BRAUN / Micah BECKWITH,257,171,72,14
+Pulaski,07 Monroe 1,Governor,,1,DEM,Jennifer G. McCORMICK / Terry GOODIN,113,71,30,12
+Pulaski,07 Monroe 1,Governor,,1,LBT,Donald RAINWATER / Tonya HUDSON,32,20,12,0
+Pulaski,07 Monroe 1,Governor,,1,,Write-In,0,0,0,0
+Pulaski,07 Monroe 1,Attorney General,,1,REP,Todd ROKITA,295,196,84,15
+Pulaski,07 Monroe 1,Attorney General,,1,DEM,Destiny WELLS,108,65,32,11
+Pulaski,07 Monroe 1,U.S. House,2,1,REP,Rudy YAKYM,291,189,89,13
+Pulaski,07 Monroe 1,U.S. House,2,1,DEM,Lori A. CAMP,102,67,23,12
+Pulaski,07 Monroe 1,U.S. House,2,1,LBT,William E. HENRY,9,4,4,1
+Pulaski,07 Monroe 1,U.S. House,2,1,,Write-In,0,0,0,0
+Pulaski,07 Monroe 1,State Senate,5,1,REP,Ed CHARBONNEAU,312,202,93,17
+Pulaski,07 Monroe 1,State Senate,5,1,DEM,Leslie Nuss BAMESBERGER,93,61,21,11
+Pulaski,07 Monroe 1,State House,17,1,REP,Kendell CULP,314,204,95,15
+Pulaski,07 Monroe 1,Judge of the Circuit Court 59th Judicial,,1,REP,Mary C. WELKER,330,211,101,18
+Pulaski,07 Monroe 1,Judge of the Superior Court,,1,REP,Crystal A. Brucker KOCHER,327,209,98,20
+Pulaski,07 Monroe 1,County Auditor,,1,REP,Teresa Lynn BRYANT,340,218,104,18
+Pulaski,07 Monroe 1,County Recorder,,1,REP,Marsha A. TETZLOFF,347,221,107,19
+Pulaski,07 Monroe 1,County Treasurer,,1,REP,Laura WHEELER,322,205,98,19
+Pulaski,07 Monroe 1,County Commissioner,1,1,REP,Jenny Halleck KNEBEL,263,167,82,14
+Pulaski,07 Monroe 1,County Commissioner,1,1,DEM,Doug DENTON,139,94,34,11
+Pulaski,07 Monroe 1,County Commissioner,2,1,REP,Donald (Don) STREET JR.,237,147,72,18
+Pulaski,07 Monroe 1,County Commissioner,2,1,,Logan R. WUETHRICH,156,110,42,4
+Pulaski,07 Monroe 1,County Council Member,,3,REP,Albert Aj GUTWEIN,220,149,63,8
+Pulaski,07 Monroe 1,County Council Member,,3,REP,Sheila Hazemi JIMENEZ,213,135,67,11
+Pulaski,07 Monroe 1,Winamac Town Clerk - Treasurer,,1,REP,Kendra K. CRAFT,217,124,76,17
+Pulaski,07 Monroe 1,Winamac Town Council,At Large,3,REP,Tom J. (Tommy) MURRAY,144,86,48,10
+Pulaski,07 Monroe 1,Winamac Town Council,At Large,3,REP,James Walter WATKINS,137,80,45,12
+Pulaski,07 Monroe 1,Winamac Town Council,At Large,3,DEM,Aaron HOOVER,99,55,36,8
+Pulaski,07 Monroe 1,Winamac Town Council,At Large,3,DEM,Larry L. WEAVER,133,72,49,12
+Pulaski,07 Monroe 1,Eastern Pulaski SB,Monroe Township,3,,Waylon BURKE,105,74,25,6
+Pulaski,07 Monroe 1,Eastern Pulaski SB,Monroe Township,3,,Scott HANSON,140,95,39,6
+Pulaski,07 Monroe 1,Eastern Pulaski SB,Monroe Township,3,,Greg KISER,212,140,61,11
+Pulaski,07 Monroe 1,Eastern Pulaski SB,Monroe Township,3,,Monica POTTHOFF,155,96,55,4
+Pulaski,07 Monroe 1,Eastern Pulaski SB,Monroe Township,3,,Stephen E. Steve RAUSCH,180,123,53,4
+Pulaski,07 Monroe 1,Eastern Pulaski SB,Monroe Township,3,,Jimmy TERRY,182,132,46,4
+Pulaski,07 Monroe 1,Eastern Pulaski SB,Van Buren Township,1,,Taylor WHITE,272,175,89,8
+Pulaski,07 Monroe 1,Eastern Pulaski SB,,1,,Yes,233,151,74,8
+Pulaski,07 Monroe 1,Eastern Pulaski SB,,1,,No,102,67,29,6
+Pulaski,07 Monroe 1,IN Supreme Court-Massa,,1,,Yes,227,147,72,8
+Pulaski,07 Monroe 1,IN Supreme Court-Massa,,1,,No,98,65,29,4
+Pulaski,07 Monroe 1,IN Supreme Court-Molter,,1,,Yes,224,142,73,9
+Pulaski,07 Monroe 1,IN Supreme Court-Molter,,1,,No,104,70,29,5
+Pulaski,07 Monroe 1,Court of Appeals Dist 4-Pyle III,,1,,Yes,220,141,71,8
+Pulaski,07 Monroe 1,Court of Appeals Dist 4-Pyle III,,1,,No,106,69,31,6
+Pulaski,07 Monroe 1,Straight Party,,,DEM,,11,,,
+Pulaski,07 Monroe 1,Straight Party,,,REP,,62,,,
+Pulaski,08 Monroe 2,Registered Voters,,,,,622,,,
+Pulaski,08 Monroe 2,Ballots Cast,,,,,411,,,
+Pulaski,08 Monroe 2,Public Question-Const Amendment,,1,,Yes,177,120,46,11
+Pulaski,08 Monroe 2,Public Question-Const Amendment,,1,,No,177,127,41,9
+Pulaski,08 Monroe 2,President,,1,REP,Donald J. TRUMP / JD VANCE,256,180,62,14
+Pulaski,08 Monroe 2,President,,1,DEM,Kamala D. HARRIS / Tim WALZ,132,89,33,10
+Pulaski,08 Monroe 2,President,,1,LBT,Chase OLIVER / Mike terr MAAT,4,3,1,0
+Pulaski,08 Monroe 2,President,,1,WTP,Robert F. KENNEDY JR. / Nichole SHANAHAN,6,2,2,2
+Pulaski,08 Monroe 2,President,,1,,Write-In,2,2,0,0
+Pulaski,08 Monroe 2,U.S. Senate,,1,REP,Jim BANKS,245,175,55,15
+Pulaski,08 Monroe 2,U.S. Senate,,1,DEM,Valerie McCRAY,127,84,34,9
+Pulaski,08 Monroe 2,U.S. Senate,,1,LBT,Andrew HORNING,9,6,2,1
+Pulaski,08 Monroe 2,U.S. Senate,,1,,Write-In,0,0,0,0
+Pulaski,08 Monroe 2,Governor,,1,REP,Mike BRAUN / Micah BECKWITH,222,156,52,14
+Pulaski,08 Monroe 2,Governor,,1,DEM,Jennifer G. McCORMICK / Terry GOODIN,144,99,34,11
+Pulaski,08 Monroe 2,Governor,,1,LBT,Donald RAINWATER / Tonya HUDSON,24,16,6,2
+Pulaski,08 Monroe 2,Governor,,1,,Write-In,0,0,0,0
+Pulaski,08 Monroe 2,Attorney General,,1,REP,Todd ROKITA,250,178,57,15
+Pulaski,08 Monroe 2,Attorney General,,1,DEM,Destiny WELLS,137,89,37,11
+Pulaski,08 Monroe 2,U.S. House,2,1,REP,Rudy YAKYM,261,187,60,14
+Pulaski,08 Monroe 2,U.S. House,2,1,DEM,Lori A. CAMP,121,81,32,8
+Pulaski,08 Monroe 2,U.S. House,2,1,LBT,William E. HENRY,9,5,3,1
+Pulaski,08 Monroe 2,U.S. House,2,1,,Write-In,0,0,0,0
+Pulaski,08 Monroe 2,State Senate,5,1,REP,Ed CHARBONNEAU,267,194,58,15
+Pulaski,08 Monroe 2,State Senate,5,1,DEM,Leslie Nuss BAMESBERGER,122,79,35,8
+Pulaski,08 Monroe 2,State House,17,1,REP,Kendell CULP,271,194,64,13
+Pulaski,08 Monroe 2,Judge of the Circuit Court 59th Judicial,,1,REP,Mary C. WELKER,320,231,69,20
+Pulaski,08 Monroe 2,Judge of the Superior Court,,1,REP,Crystal A. Brucker KOCHER,328,233,75,20
+Pulaski,08 Monroe 2,County Auditor,,1,REP,Teresa Lynn BRYANT,321,230,72,19
+Pulaski,08 Monroe 2,County Recorder,,1,REP,Marsha A. TETZLOFF,330,235,74,21
+Pulaski,08 Monroe 2,County Treasurer,,1,REP,Laura WHEELER,285,201,66,18
+Pulaski,08 Monroe 2,County Commissioner,1,1,REP,Jenny Halleck KNEBEL,234,166,54,14
+Pulaski,08 Monroe 2,County Commissioner,1,1,DEM,Doug DENTON,161,111,40,10
+Pulaski,08 Monroe 2,County Commissioner,2,1,REP,Donald (Don) STREET JR.,226,158,53,15
+Pulaski,08 Monroe 2,County Commissioner,2,1,,Logan R. WUETHRICH,143,100,38,5
+Pulaski,08 Monroe 2,County Council Member,At Large,3,REP,Albert Aj GUTWEIN,206,143,53,10
+Pulaski,08 Monroe 2,County Council Member,At Large,3,REP,Sheila Hazemi JIMENEZ,240,167,61,12
+Pulaski,08 Monroe 2,County Council Member,At Large,3,REP,Tim OVERMYER,186,133,43,10
+Pulaski,08 Monroe 2,Winamac Town Clerk - Treasurer,,1,REP,Kendra K. CRAFT,145,83,46,16
+Pulaski,08 Monroe 2,Winamac Town Council,At Large,3,REP,Tom J. (Tommy) MURRAY,94,54,29,11
+Pulaski,08 Monroe 2,Winamac Town Council,At Large,3,REP,James Walter WATKINS,84,52,23,9
+Pulaski,08 Monroe 2,Winamac Town Council,At Large,3,DEM,Aaron HOOVER,83,47,29,7
+Pulaski,08 Monroe 2,Winamac Town Council,At Large,3,DEM,Larry L. WEAVER,120,68,39,13
+Pulaski,08 Monroe 2,Eastern Pulaski SB,Monroe Township,3,,Waylon BURKE,79,55,23,1
+Pulaski,08 Monroe 2,Eastern Pulaski SB,Monroe Township,3,,Scott HANSON,137,100,27,10
+Pulaski,08 Monroe 2,Eastern Pulaski SB,Monroe Township,3,,Greg KISER,199,142,48,9
+Pulaski,08 Monroe 2,Eastern Pulaski SB,Monroe Township,3,,Monica POTTHOFF,154,112,37,5
+Pulaski,08 Monroe 2,Eastern Pulaski SB,Monroe Township,3,,Stephen E. Steve RAUSCH,176,129,38,9
+Pulaski,08 Monroe 2,Eastern Pulaski SB,Monroe Township,3,,Jimmy TERRY,186,122,52,12
+Pulaski,08 Monroe 2,Eastern Pulaski SB,Van Buren Township,1,,Taylor WHITE,255,186,58,11
+Pulaski,08 Monroe 2,IN Supreme Court-Rush,,1,,Yes,215,153,53,9
+Pulaski,08 Monroe 2,IN Supreme Court-Rush,,1,,No,97,63,26,8
+Pulaski,08 Monroe 2,IN Supreme Court-Massa,,1,,Yes,199,144,44,11
+Pulaski,08 Monroe 2,IN Supreme Court-Massa,,1,,No,105,66,33,6
+Pulaski,08 Monroe 2,IN Supreme Court-Molter,,1,,Yes,203,143,47,13
+Pulaski,08 Monroe 2,IN Supreme Court-Molter,,1,,No,100,67,29,4
+Pulaski,08 Monroe 2,Court of Appeals Dist 4-Pyle III,,1,,Yes,201,141,49,11
+Pulaski,08 Monroe 2,Court of Appeals Dist 4-Pyle III,,1,,No,104,70,28,6
+Pulaski,08 Monroe 2,Straight Party,,,DEM,,10,,,
+Pulaski,08 Monroe 2,Straight Party,,,REP,,51,,,
+Pulaski,09 Monroe 3,Registered Voters,,,,,817,,,
+Pulaski,09 Monroe 3,Ballots Cast,,,,,486,,,
+Pulaski,09 Monroe 3,Public Question-Const Amendment,,1,,Yes,217,140,71,6
+Pulaski,09 Monroe 3,Public Question-Const Amendment,,1,,No,202,123,69,10
+Pulaski,09 Monroe 3,President,,1,REP,Donald J. TRUMP / JD VANCE,354,214,127,13
+Pulaski,09 Monroe 3,President,,1,DEM,Kamala D. HARRIS / Tim WALZ,109,72,28,9
+Pulaski,09 Monroe 3,President,,1,LBT,Chase OLIVER / Mike terr MAAT,7,5,2,0
+Pulaski,09 Monroe 3,President,,1,WTP,Robert F. KENNEDY JR. / Nichole SHANAHAN,10,6,4,0
+Pulaski,09 Monroe 3,President,,1,,Write-In,0,0,0,0
+Pulaski,09 Monroe 3,U.S. Senate,,1,REP,Jim BANKS,328,195,120,13
+Pulaski,09 Monroe 3,U.S. Senate,,1,DEM,Valerie McCRAY,97,65,24,8
+Pulaski,09 Monroe 3,U.S. Senate,,1,LBT,Andrew HORNING,19,14,5,0
+Pulaski,09 Monroe 3,U.S. Senate,,1,,Write-In,0,0,0,0
+Pulaski,09 Monroe 3,Governor,,1,REP,Mike BRAUN / Micah BECKWITH,283,172,98,13
+Pulaski,09 Monroe 3,Governor,,1,DEM,Jennifer G. McCORMICK / Terry GOODIN,125,84,34,7
+Pulaski,09 Monroe 3,Governor,,1,LBT,Donald RAINWATER / Tonya HUDSON,45,27,18,0
+Pulaski,09 Monroe 3,Governor,,1,,Write-In,0,0,0,0
+Pulaski,09 Monroe 3,Attorney General,,1,REP,Todd ROKITA,348,211,124,13
+Pulaski,09 Monroe 3,Attorney General,,1,DEM,Destiny WELLS,112,73,32,7
+Pulaski,09 Monroe 3,U.S. House,2,1,REP,Rudy YAKYM,337,206,118,13
+Pulaski,09 Monroe 3,U.S. House,2,1,DEM,Lori A. CAMP,106,70,28,8
+Pulaski,09 Monroe 3,U.S. House,2,1,LBT,William E. HENRY,20,11,9,0
+Pulaski,09 Monroe 3,U.S. House,2,1,,Write-In,0,0,0,0
+Pulaski,09 Monroe 3,State Senate,5,1,REP,Ed CHARBONNEAU,360,218,127,15
+Pulaski,09 Monroe 3,State Senate,5,1,DEM,Leslie Nuss BAMESBERGER,93,63,25,5
+Pulaski,09 Monroe 3,State House,17,1,REP,Kendell CULP,362,224,123,15
+Pulaski,09 Monroe 3,Judge of the Circuit Court 59th Judicial,,1,REP,Mary C. WELKER,386,238,134,14
+Pulaski,09 Monroe 3,Judge of the Superior Court,,1,REP,Crystal A. Brucker KOCHER,398,243,140,15
+Pulaski,09 Monroe 3,County Auditor,,1,REP,Teresa Lynn BRYANT,396,249,133,14
+Pulaski,09 Monroe 3,County Recorder,,1,REP,Marsha A. TETZLOFF,404,249,138,17
+Pulaski,09 Monroe 3,County Treasurer,,1,REP,Laura WHEELER,372,226,130,16
+Pulaski,09 Monroe 3,County Commissioner,1,1,REP,Jenny Halleck KNEBEL,311,190,112,9
+Pulaski,09 Monroe 3,County Commissioner,1,1,DEM,Doug DENTON,145,91,43,11
+Pulaski,09 Monroe 3,County Commissioner,2,1,REP,Donald (Don) STREET JR.,286,183,89,14
+Pulaski,09 Monroe 3,County Commissioner,2,1,IND,Logan R. WUETHRICH,152,93,55,4
+Pulaski,09 Monroe 3,County Council Member,At Large,3,REP,Albert Aj GUTWEIN,252,150,87,15
+Pulaski,09 Monroe 3,County Council Member,At Large,3,REP,Sheila Hazemi JIMENEZ,246,152,81,13
+Pulaski,09 Monroe 3,County Council Member,At Large,3,REP,Tim OVERMYER,264,155,97,12
+Pulaski,09 Monroe 3,Winamac Town Clerk - Treasurer,,1,REP,Kendra K. CRAFT,161,93,61,7
+Pulaski,09 Monroe 3,Winamac Town Council,At Large,3,REP,Tom J. (Tommy) MURRAY,109,58,45,6
+Pulaski,09 Monroe 3,Winamac Town Council,At Large,3,REP,James Walter WATKINS,98,62,31,5
+Pulaski,09 Monroe 3,Winamac Town Council,At Large,3,DEM,Aaron HOOVER,64,42,20,2
+Pulaski,09 Monroe 3,Winamac Town Council,At Large,3,DEM,Larry L. WEAVER,93,59,30,4
+Pulaski,09 Monroe 3,Eastern Pulaski SB,Monroe Township,3,,Waylon BURKE,79,46,32,1
+Pulaski,09 Monroe 3,Eastern Pulaski SB,Monroe Township,3,,Scott HANSON,173,107,60,6
+Pulaski,09 Monroe 3,Eastern Pulaski SB,Monroe Township,3,,Greg KISER,224,143,71,10
+Pulaski,09 Monroe 3,Eastern Pulaski SB,Monroe Township,3,,Monica POTTHOFF,185,115,62,8
+Pulaski,09 Monroe 3,Eastern Pulaski SB,Monroe Township,3,,Stephen E. Steve RAUSCH,222,141,68,13
+Pulaski,09 Monroe 3,Eastern Pulaski SB,Monroe Township,3,,Jimmy TERRY,258,162,86,10
+Pulaski,09 Monroe 3,Eastern Pulaski SB,Van Buren Township,1,,Taylor WHITE,320,195,112,13
+Pulaski,09 Monroe 3,IN Supreme Court-Rush,,1,,Yes,273,163,97,13
+Pulaski,09 Monroe 3,IN Supreme Court-Rush,,1,,No,96,69,23,4
+Pulaski,09 Monroe 3,IN Supreme Court-Massa,,1,,Yes,267,163,92,12
+Pulaski,09 Monroe 3,IN Supreme Court-Massa,,1,,No,92,63,25,4
+Pulaski,09 Monroe 3,IN Supreme Court-Molter,,1,,Yes,263,159,92,12
+Pulaski,09 Monroe 3,IN Supreme Court-Molter,,1,,No,95,65,25,5
+Pulaski,09 Monroe 3,Court of Appeals Dist 4-Pyle III,,1,,Yes,266,165,86,15
+Pulaski,09 Monroe 3,Court of Appeals Dist 4-Pyle III,,1,,No,93,63,28,2
+Pulaski,09 Monroe 3,Straight Party,,,DEM,,8,,,
+Pulaski,09 Monroe 3,Straight Party,,,REP,,78,,,
+Pulaski,10 Monroe 4,Registered Voters,,,,,743,,,
+Pulaski,10 Monroe 4,Ballots Cast,,,,,443,,,
+Pulaski,10 Monroe 4,Public Question-Const Amendment,,1,,Yes,196,108,86,2
+Pulaski,10 Monroe 4,Public Question-Const Amendment,,1,,No,199,129,62,8
+Pulaski,10 Monroe 4,President,,1,REP,Donald J. TRUMP / JD VANCE,316,181,131,4
+Pulaski,10 Monroe 4,President,,1,DEM,Kamala D. HARRIS / Tim WALZ,108,73,28,7
+Pulaski,10 Monroe 4,President,,1,LBT,Chase OLIVER / Mike terr MAAT,5,3,2,0
+Pulaski,10 Monroe 4,President,,1,WTP,Robert F. KENNEDY JR. / Nichole SHANAHAN,9,2,6,1
+Pulaski,10 Monroe 4,President,,1,,Write-In,1,1,0,0
+Pulaski,10 Monroe 4,U.S. Senate,,1,REP,Jim BANKS,292,175,113,4
+Pulaski,10 Monroe 4,U.S. Senate,,1,DEM,Valerie McCRAY,88,54,29,5
+Pulaski,10 Monroe 4,U.S. Senate,,1,LBT,Andrew HORNING,21,9,12,0
+Pulaski,10 Monroe 4,U.S. Senate,,1,,Write-In,0,0,0,0
+Pulaski,10 Monroe 4,Governor,,1,REP,Mike BRAUN / Micah BECKWITH,258,155,99,4
+Pulaski,10 Monroe 4,Governor,,1,DEM,Jennifer G. McCORMICK / Terry GOODIN,111,73,32,6
+Pulaski,10 Monroe 4,Governor,,1,LBT,Donald RAINWATER / Tonya HUDSON,46,19,27,0
+Pulaski,10 Monroe 4,Governor,,1,,Write-In,0,0,0,0
+Pulaski,10 Monroe 4,Attorney General,,1,REP,Todd ROKITA,307,185,118,4
+Pulaski,10 Monroe 4,Attorney General,,1,DEM,Destiny WELLS,106,65,36,5
+Pulaski,10 Monroe 4,U.S. House,2,1,REP,Rudy YAKYM,301,181,116,4
+Pulaski,10 Monroe 4,U.S. House,2,1,DEM,Lori A. CAMP,95,61,29,5
+Pulaski,10 Monroe 4,U.S. House,2,1,LBT,William E. HENRY,19,7,12,0
+Pulaski,10 Monroe 4,U.S. House,2,1,,Write-In,0,0,0,0
+Pulaski,10 Monroe 4,State Senate,5,1,REP,Ed CHARBONNEAU,322,193,125,4
+Pulaski,10 Monroe 4,State Senate,5,1,DEM,Leslie Nuss BAMESBERGER,90,56,29,5
+Pulaski,10 Monroe 4,State House,17,1,REP,Kendell CULP,324,196,124,4
+Pulaski,10 Monroe 4,Judge of the Circuit Court 59th Judicial,,1,REP,Mary C. WELKER,346,207,132,7
+Pulaski,10 Monroe 4,Judge of the Superior Court,,1,REP,Crystal A. Brucker KOCHER,358,216,135,7
+Pulaski,10 Monroe 4,County Auditor,,1,REP,Teresa Lynn BRYANT,369,224,139,6
+Pulaski,10 Monroe 4,County Recorder,,1,REP,Marsha A. TETZLOFF,364,217,139,8
+Pulaski,10 Monroe 4,County Treasurer,,1,REP,Laura WHEELER,349,208,135,6
+Pulaski,10 Monroe 4,County Commissioner,1,1,REP,Jenny Halleck KNEBEL,282,159,121,2
+Pulaski,10 Monroe 4,County Commissioner,1,1,DEM,Doug DENTON,134,88,38,8
+Pulaski,10 Monroe 4,County Commissioner,2,1,REP,Donald (Don) STREET JR.,251,163,83,5
+Pulaski,10 Monroe 4,County Commissioner,2,1,,Logan R. WUETHRICH,159,83,72,4
+Pulaski,10 Monroe 4,County Council Member,At Large,3,REP,Albert Aj GUTWEIN,230,144,81,5
+Pulaski,10 Monroe 4,County Council Member,At Large,3,REP,Sheila Hazemi JIMENEZ,228,145,74,9
+Pulaski,10 Monroe 4,County Council Member,At Large,3,REP,Tim OVERMYER,222,141,75,6
+Pulaski,10 Monroe 4,Winamac Town Clerk - Treasurer,,1,REP,Kendra K. CRAFT,250,146,98,6
+Pulaski,10 Monroe 4,Winamac Town Council,At Large,3,REP,Tom J. (Tommy) MURRAY,183,111,67,5
+Pulaski,10 Monroe 4,Winamac Town Council,At Large,3,REP,James Walter WATKINS,147,84,59,4
+Pulaski,10 Monroe 4,Winamac Town Council,At Large,3,DEM,Aaron HOOVER,118,73,41,4
+Pulaski,10 Monroe 4,Winamac Town Council,At Large,3,DEM,Larry L. WEAVER,142,93,45,4
+Pulaski,10 Monroe 4,Eastern Pulaski SB,Monroe Township,3,,Waylon BURKE,86,55,30,1
+Pulaski,10 Monroe 4,Eastern Pulaski SB,Monroe Township,3,,Scott HANSON,143,89,49,5
+Pulaski,10 Monroe 4,Eastern Pulaski SB,Monroe Township,3,,Greg KISER,209,125,80,4
+Pulaski,10 Monroe 4,Eastern Pulaski SB,Monroe Township,3,,Monica POTTHOFF,142,86,52,4
+Pulaski,10 Monroe 4,Eastern Pulaski SB,Monroe Township,3,,Stephen E. Steve RAUSCH,187,120,63,4
+Pulaski,10 Monroe 4,Eastern Pulaski SB,Monroe Township,3,,Jimmy TERRY,198,117,79,2
+Pulaski,10 Monroe 4,Eastern Pulaski SB,Van Buren Township,1,,Taylor WHITE,297,174,120,3
+Pulaski,10 Monroe 4,IN Supreme Court-Rush,,1,,Yes,242,149,90,3
+Pulaski,10 Monroe 4,IN Supreme Court-Rush,,1,,No,102,60,42,0
+Pulaski,10 Monroe 4,IN Supreme Court-Massa,,1,,Yes,230,143,86,1
+Pulaski,10 Monroe 4,IN Supreme Court-Massa,,1,,No,112,65,45,2
+Pulaski,10 Monroe 4,IN Supreme Court-Molter,,1,,Yes,229,144,84,1
+Pulaski,10 Monroe 4,IN Supreme Court-Molter,,1,,No,116,65,49,2
+Pulaski,10 Monroe 4,Court of Appeals Dist 4-Pyle III,,1,,Yes,234,143,88,3
+Pulaski,10 Monroe 4,Court of Appeals Dist 4-Pyle III,,1,,No,108,62,46,0
+Pulaski,10 Monroe 4,Straight Party,,,DEM,,3,,,
+Pulaski,10 Monroe 4,Straight Party,,,REP,,0,,,
+Pulaski,11 Rich Grove,Registered Voters,,,,,631,,,
+Pulaski,11 Rich Grove,Ballots Cast,,,,,365,,,
+Pulaski,11 Rich Grove,Public Question-Const Amendment,,1,,Yes,164,87,70,7
+Pulaski,11 Rich Grove,Public Question-Const Amendment,,1,,No,164,92,72,0
+Pulaski,11 Rich Grove,President,,1,REP,Donald J. TRUMP / JD VANCE,268,146,116,6
+Pulaski,11 Rich Grove,President,,1,DEM,Kamala D. HARRIS / Tim WALZ,88,46,35,7
+Pulaski,11 Rich Grove,President,,1,LBT,Chase OLIVER / Mike terr MAAT,1,0,1,0
+Pulaski,11 Rich Grove,President,,1,WTP,Robert F. KENNEDY JR. / Nichole SHANAHAN,2,0,1,1
+Pulaski,11 Rich Grove,President,,1,,Write-In,0,0,0,0
+Pulaski,11 Rich Grove,U.S. Senate,,1,REP,Jim BANKS,248,138,103,7
+Pulaski,11 Rich Grove,U.S. Senate,,1,DEM,Valerie McCRAY,83,43,34,6
+Pulaski,11 Rich Grove,U.S. Senate,,1,LBT,Andrew HORNING,6,0,6,0
+Pulaski,11 Rich Grove,U.S. Senate,,1,,Write-In,0,0,0,0
+Pulaski,11 Rich Grove,Governor,,1,REP,Mike BRAUN / Micah BECKWITH,228,131,90,7
+Pulaski,11 Rich Grove,Governor,,1,DEM,Jennifer G. McCORMICK / Terry GOODIN,92,43,43,6
+Pulaski,11 Rich Grove,Governor,,1,LBT,Donald RAINWATER / Tonya HUDSON,26,11,15,0
+Pulaski,11 Rich Grove,Governor,,1,,Write-In,0,0,0,0
+Pulaski,11 Rich Grove,Attorney General,,1,REP,Todd ROKITA,263,143,114,6
+Pulaski,11 Rich Grove,Attorney General,,1,DEM,Destiny WELLS,86,44,35,7
+Pulaski,11 Rich Grove,U.S. House,2,1,REP,Rudy YAKYM,254,140,107,7
+Pulaski,11 Rich Grove,U.S. House,2,1,DEM,Lori A. CAMP,84,44,34,6
+Pulaski,11 Rich Grove,U.S. House,2,1,LBT,William E. HENRY,12,4,8,0
+Pulaski,11 Rich Grove,U.S. House,2,1,,Write-In,0,0,0,0
+Pulaski,11 Rich Grove,State Senate,5,1,REP,Ed CHARBONNEAU,264,146,112,6
+Pulaski,11 Rich Grove,State Senate,5,1,DEM,Leslie Nuss BAMESBERGER,88,45,36,7
+Pulaski,11 Rich Grove,State House,17,1,REP,Kendell CULP,261,142,112,7
+Pulaski,11 Rich Grove,Judge of the Circuit Court 59th Judicial,,1,REP,Mary C. WELKER,263,142,114,7
+Pulaski,11 Rich Grove,Judge of the Superior Court,,1,REP,Crystal A. Brucker KOCHER,255,138,110,7
+Pulaski,11 Rich Grove,County Auditor,,1,REP,Teresa Lynn BRYANT,284,157,120,7
+Pulaski,11 Rich Grove,County Recorder,,1,REP,Marsha A. TETZLOFF,279,152,120,7
+Pulaski,11 Rich Grove,County Treasurer,,1,REP,Laura WHEELER,276,150,119,7
+Pulaski,11 Rich Grove,County Commissioner,1,1,REP,Jenny Halleck KNEBEL,261,142,113,6
+Pulaski,11 Rich Grove,County Commissioner,1,1,DEM,Doug DENTON,90,48,36,6
+Pulaski,11 Rich Grove,County Commissioner,2,1,REP,Donald (Don) STREET JR.,175,91,78,6
+Pulaski,11 Rich Grove,County Commissioner,2,1,,Logan R. WUETHRICH,141,78,61,2
+Pulaski,11 Rich Grove,County Council Member,At Large,3,REP,Albert Aj GUTWEIN,185,108,73,4
+Pulaski,11 Rich Grove,County Council Member,At Large,3,REP,Sheila Hazemi JIMENEZ,121,60,59,2
+Pulaski,11 Rich Grove,County Council Member,At Large,3,REP,Tim OVERMYER,182,100,79,3
+Pulaski,11 Rich Grove,IN Supreme Court-Rush,,1,,Yes,187,99,84,4
+Pulaski,11 Rich Grove,IN Supreme Court-Rush,,1,,No,94,48,45,1
+Pulaski,11 Rich Grove,IN Supreme Court-Massa,,1,,Yes,197,102,91,4
+Pulaski,11 Rich Grove,IN Supreme Court-Massa,,1,,No,84,46,37,1
+Pulaski,11 Rich Grove,IN Supreme Court-Molter,,1,,Yes,202,108,90,4
+Pulaski,11 Rich Grove,IN Supreme Court-Molter,,1,,No,77,40,36,1
+Pulaski,11 Rich Grove,Court of Appeals Dist 4-Pyle III,,1,,Yes,196,105,87,4
+Pulaski,11 Rich Grove,Court of Appeals Dist 4-Pyle III,,1,,No,83,43,39,1
+Pulaski,11 Rich Grove,Straight Party,,,DEM,,20,,,
+Pulaski,11 Rich Grove,Straight Party,,,REP,,81,,,
+Pulaski,12 Salem,Registered Voters,,,,,938,,,
+Pulaski,12 Salem,Ballots Cast,,,,,615,,,
+Pulaski,12 Salem,Public Question-Const Amendment,,1,,Yes,288,114,158,16
+Pulaski,12 Salem,Public Question-Const Amendment,,1,,No,242,83,146,13
+Pulaski,12 Salem,President,,1,REP,Donald J. TRUMP / JD VANCE,483,177,276,30
+Pulaski,12 Salem,President,,1,DEM,Kamala D. HARRIS / Tim WALZ,107,37,52,18
+Pulaski,12 Salem,President,,1,LBT,Chase OLIVER / Mike terr MAAT,3,0,2,1
+Pulaski,12 Salem,President,,1,WTP,Robert F. KENNEDY JR. / Nichole SHANAHAN,7,2,4,1
+Pulaski,12 Salem,President,,1,,Write-In,1,1,0,0
+Pulaski,12 Salem,U.S. Senate,,1,REP,Jim BANKS,445,158,254,33
+Pulaski,12 Salem,U.S. Senate,,1,DEM,Valerie McCRAY,96,38,46,12
+Pulaski,12 Salem,U.S. Senate,,1,LBT,Andrew HORNING,11,1,9,1
+Pulaski,12 Salem,U.S. Senate,,1,,Write-In,0,0,0,0
+Pulaski,12 Salem,Governor,,1,REP,Mike BRAUN / Micah BECKWITH,402,138,235,29
+Pulaski,12 Salem,Governor,,1,DEM,Jennifer G. McCORMICK / Terry GOODIN,125,48,62,15
+Pulaski,12 Salem,Governor,,1,LBT,Donald RAINWATER / Tonya HUDSON,46,21,22,3
+Pulaski,12 Salem,Governor,,1,,Write-In,0,0,0,0
+Pulaski,12 Salem,Attorney General,,1,REP,Todd ROKITA,461,164,263,34
+Pulaski,12 Salem,Attorney General,,1,DEM,Destiny WELLS,113,43,58,12
+Pulaski,12 Salem,U.S. House,2,1,REP,Rudy YAKYM,451,169,253,29
+Pulaski,12 Salem,U.S. House,2,1,DEM,Lori A. CAMP,100,34,51,15
+Pulaski,12 Salem,U.S. House,2,1,LBT,William E. HENRY,17,2,13,2
+Pulaski,12 Salem,U.S. House,2,1,,Write-In,0,0,0,0
+Pulaski,12 Salem,State Senate,5,1,REP,Ed CHARBONNEAU,465,166,266,33
+Pulaski,12 Salem,State Senate,5,1,DEM,Leslie Nuss BAMESBERGER,101,36,52,13
+Pulaski,12 Salem,State House,17,1,REP,Kendell CULP,486,180,274,32
+Pulaski,12 Salem,Judge of the Circuit Court 59th Judicial,,1,REP,Mary C. WELKER,502,180,286,36
+Pulaski,12 Salem,Judge of the Superior Court,,1,REP,Crystal A. Brucker KOCHER,462,162,267,33
+Pulaski,12 Salem,County Auditor,,1,REP,Teresa Lynn BRYANT,495,179,284,32
+Pulaski,12 Salem,County Recorder,,1,REP,Marsha A. TETZLOFF,482,174,275,33
+Pulaski,12 Salem,County Treasurer,,1,REP,Laura WHEELER,486,177,276,33
+Pulaski,12 Salem,County Commissioner,1,1,REP,Jenny Halleck KNEBEL,396,139,230,27
+Pulaski,12 Salem,County Commissioner,1,1,DEM,Doug DENTON,168,65,86,17
+Pulaski,12 Salem,County Commissioner,2,1,REP,Donald (Don) STREET JR.,320,118,178,24
+Pulaski,12 Salem,County Commissioner,2,1,IND,Logan R. WUETHRICH,262,98,151,13
+Pulaski,12 Salem,County Council Member,At Large,3,REP,Albert Aj GUTWEIN,399,144,237,18
+Pulaski,12 Salem,County Council Member,At Large,3,REP,Sheila Hazemi JIMENEZ,282,96,169,17
+Pulaski,12 Salem,County Council Member,At Large,3,REP,Tim OVERMYER,312,106,186,20
+Pulaski,12 Salem,West Central SB,At Large,1,,Dennis GUTWEIN,498,177,293,28
+Pulaski,12 Salem,West Central SB,Gillam Township,1,,Jonathan GUTWEIN,449,158,264,27
+Pulaski,12 Salem,West Central SB,Jefferson Township,1,,Jacob E. TANNER,483,171,282,30
+Pulaski,12 Salem,West Central SB,White Post Township,1,,Darin GUDEMAN,490,180,283,27
+Pulaski,12 Salem,IN Supreme Court-Rush,,1,,Yes,365,124,215,26
+Pulaski,12 Salem,IN Supreme Court-Rush,,1,,No,96,39,54,3
+Pulaski,12 Salem,IN Supreme Court-Rush,,1,,Yes,353,119,211,23
+Pulaski,12 Salem,IN Supreme Court-Rush,,1,,No,94,37,54,3
+Pulaski,12 Salem,IN Supreme Court-Rush,,1,,Yes,354,118,214,22
+Pulaski,12 Salem,Court of Appeals Dist 4-Pyle III,,1,,Yes,353,119,210,24
+Pulaski,12 Salem,Court of Appeals Dist 4-Pyle III,,1,,No,97,38,56,3
+Pulaski,12 Salem,Straight Party,,,DEM,,7,,,
+Pulaski,12 Salem,Straight Party,,,REP,,95,,,
+Pulaski,13 Tippecanoe,Registered Voters,,,,,742,,,
+Pulaski,13 Tippecanoe,Ballots Cast,,,,,443,,,
+Pulaski,13 Tippecanoe,Public Question-Const Amendment,,1,,Yes,177,69,99,9
+Pulaski,13 Tippecanoe,Public Question-Const Amendment,,1,,No,191,70,114,7
+Pulaski,13 Tippecanoe,President,,1,REP,Donald J. TRUMP / JD VANCE,339,108,216,15
+Pulaski,13 Tippecanoe,President,,1,DEM,Kamala D. HARRIS / Tim WALZ,98,46,44,8
+Pulaski,13 Tippecanoe,President,,1,LBT,Chase OLIVER / Mike terr MAAT,0,0,0,0
+Pulaski,13 Tippecanoe,President,,1,WTP,Robert F. KENNEDY JR. / Nichole SHANAHAN,4,1,3,0
+Pulaski,13 Tippecanoe,President,,1,,Write-In,0,0,0,0
+Pulaski,13 Tippecanoe,U.S. Senate,,1,REP,Jim BANKS,302,99,189,14
+Pulaski,13 Tippecanoe,U.S. Senate,,1,DEM,Valerie McCRAY,89,44,37,8
+Pulaski,13 Tippecanoe,U.S. Senate,,1,LBT,Andrew HORNING,5,1,3,1
+Pulaski,13 Tippecanoe,U.S. Senate,,1,,Write-In,0,0,0,0
+Pulaski,13 Tippecanoe,Governor,,1,REP,Mike BRAUN / Micah BECKWITH,280,94,172,14
+Pulaski,13 Tippecanoe,Governor,,1,DEM,Jennifer G. McCORMICK / Terry GOODIN,108,47,53,8
+Pulaski,13 Tippecanoe,Governor,,1,LBT,Donald RAINWATER / Tonya HUDSON,25,8,16,1
+Pulaski,13 Tippecanoe,Governor,,1,,Write-In,0,0,0,0
+Pulaski,13 Tippecanoe,Attorney General,,1,REP,Todd ROKITA,315,100,199,16
+Pulaski,13 Tippecanoe,Attorney General,,1,DEM,Destiny WELLS,95,46,43,6
+Pulaski,13 Tippecanoe,U.S. House,2,1,REP,Rudy YAKYM,316,100,203,13
+Pulaski,13 Tippecanoe,U.S. House,2,1,DEM,Lori A. CAMP,92,45,39,8
+Pulaski,13 Tippecanoe,U.S. House,2,1,LBT,William E. HENRY,9,4,3,2
+Pulaski,13 Tippecanoe,U.S. House,2,1,,Write-In,0,0,0,0
+Pulaski,13 Tippecanoe,State Senate,5,1,REP,Ed CHARBONNEAU,323,104,204,15
+Pulaski,13 Tippecanoe,State Senate,5,1,DEM,Leslie Nuss BAMESBERGER,91,44,40,7
+Pulaski,13 Tippecanoe,Judge of the Circuit Court 59th Judicial,,1,REP,Mary C. WELKER,308,109,184,15
+Pulaski,13 Tippecanoe,Judge of the Superior Court,,1,REP,Crystal A. Brucker KOCHER,319,107,196,16
+Pulaski,13 Tippecanoe,County Auditor,,1,REP,Teresa Lynn BRYANT,332,114,202,16
+Pulaski,13 Tippecanoe,County Recorder,,1,REP,Marsha A. TETZLOFF,335,116,204,15
+Pulaski,13 Tippecanoe,County Treasurer,,1,REP,Laura WHEELER,333,114,204,15
+Pulaski,13 Tippecanoe,County Commissioner,1,1,REP,Jenny Halleck KNEBEL,276,88,175,13
+Pulaski,13 Tippecanoe,County Commissioner,1,1,DEM,Doug DENTON,137,57,71,9
+Pulaski,13 Tippecanoe,County Commissioner,2,1,REP,Donald (Don) STREET JR.,274,85,175,14
+Pulaski,13 Tippecanoe,County Commissioner,2,1,IND,Logan R. WUETHRICH,101,47,49,5
+Pulaski,13 Tippecanoe,County Council Member,At Large,3,REP,Albert Aj GUTWEIN,158,64,86,8
+Pulaski,13 Tippecanoe,County Council Member,At Large,3,REP,Sheila Hazemi JIMENEZ,151,62,85,4
+Pulaski,13 Tippecanoe,County Council Member,At Large,3,REP,Tim OVERMYER,256,90,151,15
+Pulaski,13 Tippecanoe,Culver Community SB,1 - Aubbeenaubee Twp,1,,Anthony ZEHNER,263,91,165,7
+Pulaski,13 Tippecanoe,Culver Community SB,2,1,,Mark MAES,238,84,142,12
+Pulaski,13 Tippecanoe,Culver Community SB,5 - Culver,1,,J.D. UEBLER,223,81,136,6
+Pulaski,13 Tippecanoe,IN Supreme Court-Rush,,1,,Yes,187,68,110,9
+Pulaski,13 Tippecanoe,IN Supreme Court-Rush,,1,,No,96,40,53,3
+Pulaski,13 Tippecanoe,IN Supreme Court-Massa,,1,,Yes,189,74,108,7
+Pulaski,13 Tippecanoe,IN Supreme Court-Massa,,1,,No,88,34,51,3
+Pulaski,13 Tippecanoe,IN Supreme Court-Massa,,1,,Yes,191,74,110,7
+Pulaski,13 Tippecanoe,IN Supreme Court-Massa,,1,,No,89,35,51,3
+Pulaski,13 Tippecanoe,Court of Appeals Dist 4-Pyle III,,1,,Yes,188,74,107,7
+Pulaski,13 Tippecanoe,Court of Appeals Dist 4-Pyle III,,1,,No,91,36,52,3
+Pulaski,13 Tippecanoe,Straight Party,,,DEM,,22,,,
+Pulaski,13 Tippecanoe,Straight Party,,,REP,,94,,,
+Pulaski,14 Van Buren,Registered Voters,,,,,616,,,
+Pulaski,14 Van Buren,Ballots Cast,,,,,410,,,
+Pulaski,14 Van Buren,Public Question-Const Amendment,,1,,Yes,196,74,118,4
+Pulaski,14 Van Buren,Public Question-Const Amendment,,1,,No,155,70,83,2
+Pulaski,14 Van Buren,President,,1,REP,Donald J. TRUMP / JD VANCE,316,129,181,6
+Pulaski,14 Van Buren,President,,1,DEM,Kamala D. HARRIS / Tim WALZ,83,39,40,4
+Pulaski,14 Van Buren,President,,1,LBT,Chase OLIVER / Mike terr MAAT,3,2,1,0
+Pulaski,14 Van Buren,President,,1,WTP,Robert F. KENNEDY JR. / Nichole SHANAHAN,4,1,3,0
+Pulaski,14 Van Buren,President,,1,,Write-In,0,0,0,0
+Pulaski,14 Van Buren,U.S. Senate,,1,REP,Jim BANKS,285,117,162,6
+Pulaski,14 Van Buren,U.S. Senate,,1,DEM,Valerie McCRAY,79,36,38,5
+Pulaski,14 Van Buren,U.S. Senate,,1,LBT,Andrew HORNING,16,9,7,0
+Pulaski,14 Van Buren,U.S. Senate,,1,,Write-In,0,0,0,0
+Pulaski,14 Van Buren,Governor,,1,REP,Mike BRAUN / Micah BECKWITH,255,106,143,6
+Pulaski,14 Van Buren,Governor,,1,DEM,Jennifer G. McCORMICK / Terry GOODIN,98,47,46,5
+Pulaski,14 Van Buren,Governor,,1,LBT,Donald RAINWATER / Tonya HUDSON,42,15,27,0
+Pulaski,14 Van Buren,Governor,,1,,Write-In,0,0,0,0
+Pulaski,14 Van Buren,Attorney General,,1,REP,Todd ROKITA,309,129,174,6
+Pulaski,14 Van Buren,Attorney General,,1,DEM,Destiny WELLS,85,39,41,5
+Pulaski,14 Van Buren,U.S. House,2,1,REP,Rudy YAKYM,295,119,171,5
+Pulaski,14 Van Buren,U.S. House,2,1,DEM,Lori A. CAMP,82,38,38,6
+Pulaski,14 Van Buren,U.S. House,2,1,LBT,William E. HENRY,18,7,11,0
+Pulaski,14 Van Buren,U.S. House,2,1,,Write-In,0,0,0,0
+Pulaski,14 Van Buren,State Senate,5,1,REP,Ed CHARBONNEAU,307,130,171,6
+Pulaski,14 Van Buren,State Senate,5,1,DEM,Leslie Nuss BAMESBERGER,84,34,46,4
+Pulaski,14 Van Buren,Judge of the Circuit Court 59th Judicial,,1,REP,Mary C. WELKER,320,132,180,8
+Pulaski,14 Van Buren,Judge of the Superior Court,,1,REP,Crystal A. Brucker KOCHER,331,140,184,7
+Pulaski,14 Van Buren,County Auditor,,1,REP,Teresa Lynn BRYANT,335,142,186,7
+Pulaski,14 Van Buren,County Recorder,,1,REP,Marsha A. TETZLOFF,336,143,186,7
+Pulaski,14 Van Buren,County Treasurer,,1,REP,Laura WHEELER,312,130,176,6
+Pulaski,14 Van Buren,County Commissioner,1,1,REP,Jenny Halleck KNEBEL,273,108,160,5
+Pulaski,14 Van Buren,County Commissioner,1,1,DEM,Doug DENTON,117,56,55,6
+Pulaski,14 Van Buren,County Commissioner,2,1,REP,Donald (Don) STREET JR.,250,101,142,7
+Pulaski,14 Van Buren,County Commissioner,2,1,,Logan R. WUETHRICH,125,58,65,2
+Pulaski,14 Van Buren,County Council Member,At Large,3,REP,Albert Aj GUTWEIN,204,84,117,3
+Pulaski,14 Van Buren,County Council Member,At Large,3,REP,Sheila Hazemi JIMENEZ,214,89,120,5
+Pulaski,14 Van Buren,County Council Member,At Large,3,REP,Tim OVERMYER,241,94,143,4
+Pulaski,14 Van Buren,Eastern Pulaski SB,Monroe Township,3,,Waylon BURKE,66,32,34,0
+Pulaski,14 Van Buren,Eastern Pulaski SB,Monroe Township,3,,Scott HANSON,194,72,119,3
+Pulaski,14 Van Buren,Eastern Pulaski SB,Monroe Township,3,,Greg KISER,187,79,104,4
+Pulaski,14 Van Buren,Eastern Pulaski SB,Monroe Township,3,,Monica POTTHOFF,145,52,90,3
+Pulaski,14 Van Buren,Eastern Pulaski SB,Monroe Township,3,,Stephen E. Steve RAUSCH,162,69,92,1
+Pulaski,14 Van Buren,Eastern Pulaski SB,Monroe Township,3,,Jimmy TERRY,174,75,97,2
+Pulaski,14 Van Buren,Eastern Pulaski SB,Van Buren Township,1,,Taylor WHITE,306,129,174,3
+Pulaski,14 Van Buren,IN Supreme Court-Rush,,1,,Yes,225,83,137,5
+Pulaski,14 Van Buren,IN Supreme Court-Rush,,1,,No,94,48,46,0
+Pulaski,14 Van Buren,IN Supreme Court-Massa,,1,,Yes,226,81,140,5
+Pulaski,14 Van Buren,IN Supreme Court-Massa,,1,,No,89,45,44,0
+Pulaski,14 Van Buren,IN Supreme Court-Molter,,1,,Yes,222,79,140,3
+Pulaski,14 Van Buren,IN Supreme Court-Molter,,1,,No,91,46,43,2
+Pulaski,14 Van Buren,Court of Appeals Dist 4-Pyle III,,1,,Yes,229,81,145,3
+Pulaski,14 Van Buren,Court of Appeals Dist 4-Pyle III,,1,,No,86,46,38,2
+Pulaski,14 Van Buren,Straight Party,,,DEM,,8,,,
+Pulaski,14 Van Buren,Straight Party,,,REP,,77,,,
+Pulaski,15 White Post,Registered Voters,,,,,741,,,
+Pulaski,15 White Post,Ballots Cast,,,,,428,,,
+Pulaski,15 White Post,Public Question-Const Amendment,,1,,Yes,229,67,153,9
+Pulaski,15 White Post,Public Question-Const Amendment,,1,,No,152,45,102,5
+Pulaski,15 White Post,President,,1,REP,Donald J. TRUMP / JD VANCE,354,103,239,12
+Pulaski,15 White Post,President,,1,DEM,Kamala D. HARRIS / Tim WALZ,60,18,33,9
+Pulaski,15 White Post,President,,1,LBT,Chase OLIVER / Mike terr MAAT,3,0,3,0
+Pulaski,15 White Post,President,,1,WTP,Robert F. KENNEDY JR. / Nichole SHANAHAN,6,1,5,0
+Pulaski,15 White Post,President,,1,,Write-In,0,0,0,0
+Pulaski,15 White Post,U.S. Senate,,1,REP,Jim BANKS,321,96,213,12
+Pulaski,15 White Post,U.S. Senate,,1,DEM,Valerie McCRAY,57,15,35,7
+Pulaski,15 White Post,U.S. Senate,,1,LBT,Andrew HORNING,19,5,13,1
+Pulaski,15 White Post,U.S. Senate,,1,,Write-In,0,0,0,0
+Pulaski,15 White Post,Governor,,1,REP,Mike BRAUN / Micah BECKWITH,291,79,199,13
+Pulaski,15 White Post,Governor,,1,DEM,Jennifer G. McCORMICK / Terry GOODIN,71,23,41,7
+Pulaski,15 White Post,Governor,,1,LBT,Donald RAINWATER / Tonya HUDSON,43,14,28,1
+Pulaski,15 White Post,Governor,,1,,Write-In,0,0,0,0
+Pulaski,15 White Post,Attorney General,,1,REP,Todd ROKITA,344,100,232,12
+Pulaski,15 White Post,Attorney General,,1,DEM,Destiny WELLS,66,18,39,9
+Pulaski,15 White Post,U.S. House,2,1,REP,Rudy YAKYM,321,93,215,13
+Pulaski,15 White Post,U.S. House,2,1,DEM,Lori A. CAMP,61,14,40,7
+Pulaski,15 White Post,U.S. House,2,1,LBT,William E. HENRY,25,7,17,1
+Pulaski,15 White Post,U.S. House,2,1,,Write-In,0,0,0,0
+Pulaski,15 White Post,State Senate,5,1,REP,Ed CHARBONNEAU,344,97,235,12
+Pulaski,15 White Post,State Senate,5,1,DEM,Leslie Nuss BAMESBERGER,63,19,36,8
+Pulaski,15 White Post,State House,17,1,REP,Kendell CULP,347,99,235,13
+Pulaski,15 White Post,Judge of the Circuit Court 59th Judicial,,1,REP,Mary C. WELKER,353,102,236,15
+Pulaski,15 White Post,Judge of the Superior Court,,1,REP,Crystal A. Brucker KOCHER,341,103,222,16
+Pulaski,15 White Post,County Auditor,,1,REP,Teresa Lynn BRYANT,362,104,243,15
+Pulaski,15 White Post,County Recorder,,1,REP,Marsha A. TETZLOFF,344,98,231,15
+Pulaski,15 White Post,County Treasurer,,1,REP,Laura WHEELER,346,100,230,16
+Pulaski,15 White Post,County Commissioner,1,1,REP,Jenny Halleck KNEBEL,298,89,197,12
+Pulaski,15 White Post,County Commissioner,1,1,DEM,Doug DENTON,102,28,66,8
+Pulaski,15 White Post,County Commissioner,2,1,REP,Donald (Don) STREET JR.,227,63,150,14
+Pulaski,15 White Post,County Commissioner,2,1,,Logan R. WUETHRICH,175,53,116,6
+Pulaski,15 White Post,County Council Member,At Large,3,REP,Albert Aj GUTWEIN,251,72,166,13
+Pulaski,15 White Post,County Council Member,At Large,3,REP,Sheila Hazemi JIMENEZ,173,47,115,11
+Pulaski,15 White Post,County Council Member,At Large,3,REP,Tim OVERMYER,215,62,140,13
+Pulaski,15 White Post,Medaryville Town Clerk - Treasurer,,1,REP,Stacy CONLEY,149,29,114,6
+Pulaski,15 White Post,Medaryville Town Council,At Large,3,REP,Ashlee SALYER,123,28,91,4
+Pulaski,15 White Post,Medaryville Town Council,At Large,3,,Write-In,23,3,18,2
+Pulaski,15 White Post,West Central SB,At Large,1,,Dennis GUTWEIN,327,95,218,14
+Pulaski,15 White Post,West Central SB,Gillam Township,1,,Jonathan GUTWEIN,301,90,199,12
+Pulaski,15 White Post,West Central SB,Jefferson Township,1,,Jacob E. TANNER,314,92,210,12
+Pulaski,15 White Post,West Central SB,White Post Township,1,,Darin GUDEMAN,334,97,223,14
+Pulaski,15 White Post,IN Supreme Court-Rush,,1,,Yes,257,76,170,11
+Pulaski,15 White Post,IN Supreme Court-Rush,,1,,No,82,26,50,6
+Pulaski,15 White Post,IN Supreme Court-Rush,,1,,Yes,259,75,175,9
+Pulaski,15 White Post,IN Supreme Court-Rush,,1,,No,79,25,46,8
+Pulaski,15 White Post,IN Supreme Court-Molter,,1,,Yes,266,77,182,7
+Pulaski,15 White Post,IN Supreme Court-Molter,,1,,No,78,26,43,9
+Pulaski,15 White Post,Court of Appeals Dist 4-Pyle III,,1,,Yes,262,76,174,12
+Pulaski,15 White Post,Court of Appeals Dist 4-Pyle III,,1,,No,77,26,46,5
+Pulaski,15 White Post,Straight Party,,,DEM,,5,,,
+Pulaski,15 White Post,Straight Party,,,REP,,72,,,

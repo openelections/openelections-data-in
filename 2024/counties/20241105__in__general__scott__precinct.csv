@@ -1,0 +1,995 @@
+county,precinct,office,district,seats,party,candidate,votes,early_voting,election_day,absentee
+Scott,01-Finley 1,Registered Voters,,,,,1143,,,
+Scott,01-Finley 1,Ballots Cast,,,,,823,,,
+Scott,01-Finley 1,Public Question-Const Amendment,,1,,Yes,370,170,181,19
+Scott,01-Finley 1,Public Question-Const Amendment,,1,,No,342,169,142,31
+Scott,01-Finley 1,President,,1,REP,Donald J. TRUMP / JD VANCE,633,312,302,19
+Scott,01-Finley 1,President,,1,DEM,Kamala D. HARRIS / Tim WALZ,171,74,59,38
+Scott,01-Finley 1,President,,1,,Chase OLIVER / Mike terr MAAT,1,1,0,0
+Scott,01-Finley 1,President,,1,WTP,Robert F. KENNEDY JR. / Nichole SHANAHAN,7,2,5,0
+Scott,01-Finley 1,President,,1,,Write-In,4,2,2,0
+Scott,01-Finley 1,U.S. Senate,,1,REP,Jim BANKS,515,259,241,15
+Scott,01-Finley 1,U.S. Senate,,1,DEM,Valerie McCRAY,175,81,57,37
+Scott,01-Finley 1,U.S. Senate,,1,LBT,Andrew HORNING,16,3,11,2
+Scott,01-Finley 1,U.S. Senate,,1,,Write-In,0,0,0,0
+Scott,01-Finley 1,Governor,,1,REP,Mike BRAUN / Micah BECKWITH,509,268,226,15
+Scott,01-Finley 1,Governor,,1,DEM,Jennifer G. McCORMICK / Terry GOODIN,254,108,109,37
+Scott,01-Finley 1,Governor,,1,LBT,Donald RAINWATER / Tonya HUDSON,37,10,24,3
+Scott,01-Finley 1,Governor,,1,,Write-In,0,0,0,0
+Scott,01-Finley 1,Attorney General,,1,REP,Todd ROKITA,519,263,238,18
+Scott,01-Finley 1,Attorney General,,1,DEM,Destiny WELLS,184,83,66,35
+Scott,01-Finley 1,U.S. House,9,1,REP,Erin HOUCHIN,591,301,267,23
+Scott,01-Finley 1,U.S. House,9,1,DEM,Timothy (Tim) PECK,153,67,57,29
+Scott,01-Finley 1,U.S. House,9,1,LBT,Russell (Russ) BROOKSBANK,20,3,14,3
+Scott,01-Finley 1,U.S. House,9,1,,Write-In,0,0,0,0
+Scott,01-Finley 1,State House,69,1,REP,Jim LUCAS,551,271,260,20
+Scott,01-Finley 1,State House,69,1,DEM,Trish WHITCOMB,197,93,69,35
+Scott,01-Finley 1,Circuit Court Clerk,,1,REP,Michelle SHELTON,463,230,217,16
+Scott,01-Finley 1,Circuit Court Clerk,,1,DEM,Stacey Broady TURNER,320,148,133,39
+Scott,01-Finley 1,County Recorder,,1,REP,Sarah M. HELTON,548,275,255,18
+Scott,01-Finley 1,County Recorder,,1,DEM,Kristi RICHIE-JOHNSON,216,97,82,37
+Scott,01-Finley 1,County Treasurer,,1,REP,Ryan GABBARD,449,225,208,16
+Scott,01-Finley 1,County Treasurer,,1,DEM,Missy APPLEGATE,319,148,132,39
+Scott,01-Finley 1,County Coroner,,1,REP,Bryton RICHEY,640,316,293,31
+Scott,01-Finley 1,County Surveyor,,1,REP,Mark A. GARDNER,628,301,293,34
+Scott,01-Finley 1,County Commissioner,1,1,REP,Randy JULIAN,465,232,213,20
+Scott,01-Finley 1,County Commissioner,1,1,DEM,Donnie RICHIE,279,128,115,36
+Scott,01-Finley 1,County Commissioner,2,1,REP,Adam BOMAR,420,219,188,13
+Scott,01-Finley 1,County Commissioner,2,1,DEM,Larry BLEVINS,218,106,79,33
+Scott,01-Finley 1,County Commissioner,2,1,IND,David G. BARRETT,130,47,73,10
+Scott,01-Finley 1,County Council Member,At Large,3,REP,Justin CHEATHAM,338,158,169,11
+Scott,01-Finley 1,County Council Member,At Large,3,REP,John HARDIN,341,169,161,11
+Scott,01-Finley 1,County Council Member,At Large,3,REP,James RICHEY,370,190,170,10
+Scott,01-Finley 1,County Council Member,At Large,3,DEM,Jim BOSWELL,199,86,82,31
+Scott,01-Finley 1,County Council Member,At Large,3,DEM,John C. LIZENBY,288,130,121,37
+Scott,01-Finley 1,County Council Member,At Large,3,DEM,Teresa Baker VANNARSDALL,186,91,67,28
+Scott,01-Finley 1,Scott County SB,2 Finley Twp,1,,Terry Lee JONES,309,148,144,17
+Scott,01-Finley 1,Scott County SB,2 Finley Twp,1,,Melissa Jean Woods,332,164,138,30
+Scott,01-Finley 1,Scott County SB,2 Johnson Twp,1,,William Bj BEST,253,125,114,14
+Scott,01-Finley 1,Scott County SB,2 Johnson Twp,1,,Wesley (Wes) COWAN,70,26,34,10
+Scott,01-Finley 1,Scott County SB,2 Johnson Twp,1,,Dustin D. McINTOSH,278,134,121,23
+Scott,01-Finley 1,Scott County SB,2 Vienna Twp,1,,Gene Ann SHAPINSKY SHAWLER,264,136,109,19
+Scott,01-Finley 1,Scott County SB,2 Vienna Twp,1,,Rick ZOLLMAN,388,181,181,26
+Scott,01-Finley 1,IN Supreme Court-Rush,,1,,Yes,436,216,195,25
+Scott,01-Finley 1,IN Supreme Court-Rush,,1,,No,185,86,83,16
+Scott,01-Finley 1,IN Supreme Court-Massa,,1,,Yes,417,214,183,20
+Scott,01-Finley 1,IN Supreme Court-Massa,,1,,No,192,84,88,20
+Scott,01-Finley 1,IN Supreme Court-Molter,,1,,Yes,435,221,194,20
+Scott,01-Finley 1,IN Supreme Court-Molter,,1,,No,182,79,85,18
+Scott,01-Finley 1,Court of Appeals Dist 1-Foley,,1,,Yes,425,218,184,23
+Scott,01-Finley 1,Court of Appeals Dist 1-Foley,,1,,No,185,84,86,15
+Scott,01-Finley 1,Court of Appeals Dist 4-Pyle III,,1,,Yes,416,210,187,19
+Scott,01-Finley 1,Court of Appeals Dist 4-Pyle III,,1,,No,191,88,83,20
+Scott,01-Finley 1,Straight Party,,,DEM,,35,,,
+Scott,01-Finley 1,Straight Party,,,REP,,161,,,
+Scott,02-Jennings 1,Registered Voters,,,,,892,,,
+Scott,02-Jennings 1,Ballots Cast,,,,,415,,,
+Scott,02-Jennings 1,Public Question-Const Amendment,,1,,Yes,201,50,134,17
+Scott,02-Jennings 1,Public Question-Const Amendment,,1,,No,151,41,91,19
+Scott,02-Jennings 1,President,,1,REP,Donald J. TRUMP / JD VANCE,318,89,194,35
+Scott,02-Jennings 1,President,,1,DEM,Kamala D. HARRIS / Tim WALZ,81,15,49,17
+Scott,02-Jennings 1,President,,1,LBT,Chase OLIVER / Mike terr MAAT,2,0,2,0
+Scott,02-Jennings 1,President,,1,WTP,Robert F. KENNEDY JR. / Nichole SHANAHAN,9,1,8,0
+Scott,02-Jennings 1,President,,1,,Write-In,0,0,0,0
+Scott,02-Jennings 1,U.S. Senate,,1,REP,Jim BANKS,236,65,141,30
+Scott,02-Jennings 1,U.S. Senate,,1,DEM,Valerie McCRAY,94,20,56,18
+Scott,02-Jennings 1,U.S. Senate,,1,,Andrew HORNING,8,1,6,1
+Scott,02-Jennings 1,U.S. Senate,,1,,Write-In,0,0,0,0
+Scott,02-Jennings 1,Governor,,1,REP,Mike BRAUN / Micah BECKWITH,211,66,127,18
+Scott,02-Jennings 1,Governor,,1,DEM,Jennifer G. McCORMICK / Terry GOODIN,162,28,101,33
+Scott,02-Jennings 1,Governor,,1,LBT,Donald RAINWATER / Tonya HUDSON,20,5,13,2
+Scott,02-Jennings 1,Governor,,1,,Write-In,0,0,0,0
+Scott,02-Jennings 1,Attorney General,,1,REP,Todd ROKITA,225,66,130,29
+Scott,02-Jennings 1,Attorney General,,1,DEM,Destiny WELLS,103,19,66,18
+Scott,02-Jennings 1,U.S. House,9,1,REP,Erin HOUCHIN,265,72,163,30
+Scott,02-Jennings 1,U.S. House,9,1,DEM,Timothy (Tim) PECK,81,15,49,17
+Scott,02-Jennings 1,U.S. House,9,1,LBT,Russell (Russ) BROOKSBANK,6,2,4,0
+Scott,02-Jennings 1,U.S. House,9,1,,Write-In,0,0,0,0
+Scott,02-Jennings 1,State House,69,1,REP,Jim LUCAS,233,68,135,30
+Scott,02-Jennings 1,State House,69,1,DEM,Trish WHITCOMB,111,20,75,16
+Scott,02-Jennings 1,Circuit Court Clerk,,1,REP,Michelle SHELTON,226,66,137,23
+Scott,02-Jennings 1,Circuit Court Clerk,,1,DEM,Stacey Broady TURNER,138,28,86,24
+Scott,02-Jennings 1,County Recorder,,1,REP,Sarah M. HELTON,218,69,128,21
+Scott,02-Jennings 1,County Recorder,,1,DEM,Kristi RICHIE-JOHNSON,149,25,97,27
+Scott,02-Jennings 1,County Treasurer,,1,REP,Ryan GABBARD,228,68,131,29
+Scott,02-Jennings 1,County Treasurer,,1,DEM,Missy APPLEGATE,153,29,102,22
+Scott,02-Jennings 1,County Coroner,,1,REP,Bryton RICHEY,304,78,191,35
+Scott,02-Jennings 1,County Surveyor,,1,REP,Mark A. GARDNER,298,75,190,33
+Scott,02-Jennings 1,County Commissioner,1,1,REP,Randy JULIAN,187,59,103,25
+Scott,02-Jennings 1,County Commissioner,1,1,DEM,Donnie RICHIE,178,31,118,29
+Scott,02-Jennings 1,County Commissioner,2,1,REP,Adam BOMAR,175,55,103,17
+Scott,02-Jennings 1,County Commissioner,2,1,DEM,Larry BLEVINS,116,22,69,25
+Scott,02-Jennings 1,County Commissioner,2,1,,David G. BARRETT,72,15,52,5
+Scott,02-Jennings 1,County Council Member,At Large,3,REP,Justin CHEATHAM,158,48,93,17
+Scott,02-Jennings 1,County Council Member,At Large,3,REP,John HARDIN,128,35,77,16
+Scott,02-Jennings 1,County Council Member,At Large,3,REP,James RICHEY,135,36,84,15
+Scott,02-Jennings 1,County Council Member,At Large,3,DEM,Jim BOSWELL,99,18,62,19
+Scott,02-Jennings 1,County Council Member,At Large,3,DEM,John C. LIZENBY,189,37,121,31
+Scott,02-Jennings 1,County Council Member,At Large,3,DEM,Teresa Baker VANNARSDALL,122,20,82,20
+Scott,02-Jennings 1,Scott County SB,1 Jennings Twp,3,,Michael BAUTISTA,177,50,96,31
+Scott,02-Jennings 1,Scott County SB,1 Jennings Twp,3,,David F. DEATON,235,55,146,34
+Scott,02-Jennings 1,Scott County SB,1 Jennings Twp,3,,Darlene HALL,142,35,84,23
+Scott,02-Jennings 1,Scott County SB,1 Jennings Twp,3,,Kasey WHITE,184,45,117,22
+Scott,02-Jennings 1,IN Supreme Court-Rush,,1,,Yes,227,46,159,22
+Scott,02-Jennings 1,IN Supreme Court-Rush,,1,,No,82,28,44,10
+Scott,02-Jennings 1,IN Supreme Court-Massa,,1,,Yes,212,41,151,20
+Scott,02-Jennings 1,IN Supreme Court-Massa,,1,,No,94,31,51,12
+Scott,02-Jennings 1,IN Supreme Court-Molter,,1,,Yes,219,45,154,20
+Scott,02-Jennings 1,IN Supreme Court-Molter,,1,,No,77,28,40,9
+Scott,02-Jennings 1,Court of Appeals Dist 1-Foley,,1,,Yes,229,46,164,19
+Scott,02-Jennings 1,Court of Appeals Dist 1-Foley,,1,,No,75,26,37,12
+Scott,02-Jennings 1,Court of Appeals Dist 4-Pyle III,,1,,Yes,224,45,160,19
+Scott,02-Jennings 1,Court of Appeals Dist 4-Pyle III,,1,,No,75,26,39,10
+Scott,02-Jennings 1,Straight Party,,,DEM,,11,,,
+Scott,02-Jennings 1,Straight Party,,,REP,,70,,,
+Scott,03-Jennings 2,Registered Voters,,,,,824,,,
+Scott,03-Jennings 2,Ballots Cast,,,,,398,,,
+Scott,03-Jennings 2,Public Question-Const Amendment,,1,,Yes,170,34,115,21
+Scott,03-Jennings 2,Public Question-Const Amendment,,1,,No,163,39,96,28
+Scott,03-Jennings 2,President,,1,REP,Donald J. TRUMP / JD VANCE,288,63,186,39
+Scott,03-Jennings 2,President,,1,DEM,Kamala D. HARRIS / Tim WALZ,101,30,44,27
+Scott,03-Jennings 2,President,,1,LBT,Chase OLIVER / Mike terr MAAT,0,0,0,0
+Scott,03-Jennings 2,President,,1,WTP,Robert F. KENNEDY JR. / Nichole SHANAHAN,2,0,1,1
+Scott,03-Jennings 2,President,,1,,Write-In,0,0,0,0
+Scott,03-Jennings 2,U.S. Senate,,1,REP,Jim BANKS,186,43,119,24
+Scott,03-Jennings 2,U.S. Senate,,1,DEM,Valerie McCRAY,127,31,57,39
+Scott,03-Jennings 2,U.S. Senate,,1,LBT,Andrew HORNING,10,2,7,1
+Scott,03-Jennings 2,U.S. Senate,,1,,Write-In,0,0,0,0
+Scott,03-Jennings 2,Governor,,1,REP,Mike BRAUN / Micah BECKWITH,158,38,106,14
+Scott,03-Jennings 2,Governor,,1,DEM,Jennifer G. McCORMICK / Terry GOODIN,205,46,103,56
+Scott,03-Jennings 2,Governor,,1,LBT,Donald RAINWATER / Tonya HUDSON,8,2,6,0
+Scott,03-Jennings 2,Governor,,1,,Write-In,0,0,0,0
+Scott,03-Jennings 2,Attorney General,,1,REP,Todd ROKITA,186,44,120,22
+Scott,03-Jennings 2,Attorney General,,1,DEM,Destiny WELLS,133,33,57,43
+Scott,03-Jennings 2,U.S. House,9,1,REP,Erin HOUCHIN,216,53,141,22
+Scott,03-Jennings 2,U.S. House,9,1,DEM,Timothy (Tim) PECK,126,32,54,40
+Scott,03-Jennings 2,U.S. House,9,1,LBT,Russell (Russ) BROOKSBANK,11,1,5,5
+Scott,03-Jennings 2,U.S. House,9,1,,Write-In,0,0,0,0
+Scott,03-Jennings 2,State House,69,1,REP,Jim LUCAS,190,47,123,20
+Scott,03-Jennings 2,State House,69,1,DEM,Trish WHITCOMB,158,41,73,44
+Scott,03-Jennings 2,Circuit Court Clerk,,1,REP,Michelle SHELTON,200,50,129,21
+Scott,03-Jennings 2,Circuit Court Clerk,,1,DEM,Stacey Broady TURNER,155,34,77,44
+Scott,03-Jennings 2,County Recorder,,1,REP,Sarah M. HELTON,180,43,118,19
+Scott,03-Jennings 2,County Recorder,,1,DEM,Kristi RICHIE-JOHNSON,175,43,88,44
+Scott,03-Jennings 2,County Treasurer,,1,REP,Ryan GABBARD,179,39,120,20
+Scott,03-Jennings 2,County Treasurer,,1,DEM,Missy APPLEGATE,188,48,95,45
+Scott,03-Jennings 2,County Coroner,,1,REP,Bryton RICHEY,270,66,166,38
+Scott,03-Jennings 2,County Surveyor,,1,REP,Mark A. GARDNER,271,68,158,45
+Scott,03-Jennings 2,County Commissioner,1,1,REP,Randy JULIAN,163,38,108,17
+Scott,03-Jennings 2,County Commissioner,1,1,DEM,Donnie RICHIE,195,47,96,52
+Scott,03-Jennings 2,County Commissioner,2,1,REP,Adam BOMAR,139,35,89,15
+Scott,03-Jennings 2,County Commissioner,2,1,DEM,Larry BLEVINS,146,29,71,46
+Scott,03-Jennings 2,County Commissioner,2,1,IND,David G. BARRETT,63,23,36,4
+Scott,03-Jennings 2,County Council Member,At Large,3,REP,Justin CHEATHAM,125,30,80,15
+Scott,03-Jennings 2,County Council Member,At Large,3,REP,John HARDIN,105,27,61,17
+Scott,03-Jennings 2,County Council Member,At Large,3,REP,James RICHEY,119,37,70,12
+Scott,03-Jennings 2,County Council Member,At Large,3,DEM,Jim BOSWELL,128,29,62,37
+Scott,03-Jennings 2,County Council Member,At Large,3,DEM,John C. LIZENBY,204,43,107,54
+Scott,03-Jennings 2,County Council Member,At Large,3,DEM,Teresa Baker VANNARSDALL,136,33,68,35
+Scott,03-Jennings 2,Scott County SB,1 Jennings Twp,3,,Michael BAUTISTA,166,39,98,29
+Scott,03-Jennings 2,Scott County SB,1 Jennings Twp,3,,David F. DEATON,238,59,126,53
+Scott,03-Jennings 2,Scott County SB,1 Jennings Twp,3,,Darlene HALL,144,39,73,32
+Scott,03-Jennings 2,Scott County SB,1 Jennings Twp,3,,Kasey WHITE,163,39,94,30
+Scott,03-Jennings 2,IN Supreme Court-Rush,,1,,Yes,200,44,125,31
+Scott,03-Jennings 2,IN Supreme Court-Rush,,1,,No,96,23,59,14
+Scott,03-Jennings 2,IN Supreme Court-Massa,,1,,Yes,184,42,119,23
+Scott,03-Jennings 2,IN Supreme Court-Massa,,1,,No,108,24,61,23
+Scott,03-Jennings 2,IN Supreme Court-Molter,,1,,Yes,189,45,115,29
+Scott,03-Jennings 2,IN Supreme Court-Molter,,1,,No,101,24,61,16
+Scott,03-Jennings 2,Court of Appeals Dist 1-Foley,,1,,Yes,193,47,117,29
+Scott,03-Jennings 2,Court of Appeals Dist 1-Foley,,1,,No,99,21,62,16
+Scott,03-Jennings 2,Court of Appeals Dist 4-Pyle III,,1,,Yes,195,50,122,23
+Scott,03-Jennings 2,Court of Appeals Dist 4-Pyle III,,1,,No,98,19,60,19
+Scott,03-Jennings 2,Straight Party,,,DEM,,22,,,
+Scott,03-Jennings 2,Straight Party,,,REP,,58,,,
+Scott,"04-Jennings 3 ",Registered Voters,,,,,934,,,
+Scott,"04-Jennings 3 ",Ballots Cast,,,,,433,,,
+Scott,"04-Jennings 3 ",Public Question-Const Amendment,,1,,Yes,176,43,118,15
+Scott,"04-Jennings 3 ",Public Question-Const Amendment,,1,,No,169,48,108,13
+Scott,"04-Jennings 3 ",President,,1,REP,Donald J. TRUMP / JD VANCE,308,73,205,30
+Scott,"04-Jennings 3 ",President,,1,DEM,Kamala D. HARRIS / Tim WALZ,104,33,50,21
+Scott,"04-Jennings 3 ",President,,1,LBT,Chase OLIVER / Mike terr MAAT,2,0,2,0
+Scott,"04-Jennings 3 ",President,,1,WTP,Robert F. KENNEDY JR. / Nichole SHANAHAN,11,5,6,0
+Scott,"04-Jennings 3 ",President,,1,,Write-In,0,0,0,0
+Scott,"04-Jennings 3 ",U.S. Senate,,1,REP,Jim BANKS,215,54,140,21
+Scott,"04-Jennings 3 ",U.S. Senate,,1,DEM,Valerie McCRAY,112,33,56,23
+Scott,"04-Jennings 3 ",U.S. Senate,,1,LBT,Andrew HORNING,9,2,7,0
+Scott,"04-Jennings 3 ",U.S. Senate,,1,,Write-In,0,0,0,0
+Scott,"04-Jennings 3 ",Governor,,1,REP,Mike BRAUN / Micah BECKWITH,212,58,135,19
+Scott,"04-Jennings 3 ",Governor,,1,DEM,Jennifer G. McCORMICK / Terry GOODIN,182,44,105,33
+Scott,"04-Jennings 3 ",Governor,,1,LBT,Donald RAINWATER / Tonya HUDSON,11,4,7,0
+Scott,"04-Jennings 3 ",Governor,,1,,Write-In,0,0,0,0
+Scott,"04-Jennings 3 ",Attorney General,,1,REP,Todd ROKITA,231,60,148,23
+Scott,"04-Jennings 3 ",Attorney General,,1,DEM,Destiny WELLS,120,37,59,24
+Scott,"04-Jennings 3 ",U.S. House,9,1,REP,Erin HOUCHIN,254,63,165,26
+Scott,"04-Jennings 3 ",U.S. House,9,1,DEM,Timothy (Tim) PECK,106,32,53,21
+Scott,"04-Jennings 3 ",U.S. House,9,1,LBT,Russell (Russ) BROOKSBANK,5,1,3,1
+Scott,"04-Jennings 3 ",U.S. House,9,1,,Write-In,0,0,0,0
+Scott,"04-Jennings 3 ",State House,69,1,REP,Jim LUCAS,227,58,146,23
+Scott,"04-Jennings 3 ",State House,69,1,DEM,Trish WHITCOMB,137,40,74,23
+Scott,"04-Jennings 3 ",Circuit Court Clerk,,1,REP,Michelle SHELTON,234,64,148,22
+Scott,"04-Jennings 3 ",Circuit Court Clerk,,1,DEM,Stacey Broady TURNER,145,41,79,25
+Scott,"04-Jennings 3 ",County Recorder,,1,REP,Sarah M. HELTON,215,56,141,18
+Scott,"04-Jennings 3 ",County Recorder,,1,DEM,Kristi RICHIE-JOHNSON,171,47,95,29
+Scott,"04-Jennings 3 ",County Treasurer,,1,REP,Ryan GABBARD,223,64,139,20
+Scott,"04-Jennings 3 ",County Treasurer,,1,DEM,Missy APPLEGATE,174,43,102,29
+Scott,"04-Jennings 3 ",County Coroner,,1,REP,Bryton RICHEY,290,68,194,28
+Scott,"04-Jennings 3 ",County Surveyor,,1,REP,Mark A. GARDNER,283,69,191,23
+Scott,"04-Jennings 3 ",County Commissioner,1,1,REP,Randy JULIAN,170,46,115,9
+Scott,"04-Jennings 3 ",County Commissioner,1,1,DEM,Donnie RICHIE,205,56,116,33
+Scott,"04-Jennings 3 ",County Commissioner,2,1,REP,Adam BOMAR,170,45,109,16
+Scott,"04-Jennings 3 ",County Commissioner,2,1,DEM,Larry BLEVINS,132,31,76,25
+Scott,"04-Jennings 3 ",County Commissioner,2,1,IND,David G. BARRETT,68,23,39,6
+Scott,"04-Jennings 3 ",County Council Member,At Large,3,REP,Justin CHEATHAM,109,29,72,8
+Scott,"04-Jennings 3 ",County Council Member,At Large,3,REP,John HARDIN,115,32,69,14
+Scott,"04-Jennings 3 ",County Council Member,At Large,3,REP,James RICHEY,123,35,70,18
+Scott,"04-Jennings 3 ",County Council Member,At Large,3,DEM,Jim BOSWELL,103,26,56,21
+Scott,"04-Jennings 3 ",County Council Member,At Large,3,DEM,John C. LIZENBY,190,50,111,29
+Scott,"04-Jennings 3 ",County Council Member,At Large,3,DEM,Teresa Baker VANNARSDALL,129,32,73,24
+Scott,"04-Jennings 3 ",Scott County SB,1 Jennings Twp,3,,Michael BAUTISTA,165,46,90,29
+Scott,"04-Jennings 3 ",Scott County SB,1 Jennings Twp,3,,David F. DEATON,231,48,151,32
+Scott,"04-Jennings 3 ",Scott County SB,1 Jennings Twp,3,,Darlene HALL,149,40,85,24
+Scott,"04-Jennings 3 ",Scott County SB,1 Jennings Twp,3,,Kasey WHITE,155,36,97,22
+Scott,"04-Jennings 3 ",IN Supreme Court-Rush,,1,,Yes,193,44,130,19
+Scott,"04-Jennings 3 ",IN Supreme Court-Rush,,1,,No,115,29,74,12
+Scott,"04-Jennings 3 ",IN Supreme Court-Massa,,1,,Yes,197,50,126,21
+Scott,"04-Jennings 3 ",IN Supreme Court-Massa,,1,,No,108,23,76,9
+Scott,"04-Jennings 3 ",IN Supreme Court-Molter,,1,,Yes,198,43,133,22
+Scott,"04-Jennings 3 ",IN Supreme Court-Molter,,1,,No,99,26,65,8
+Scott,"04-Jennings 3 ",Court of Appeals Dist 1-Foley,,1,,Yes,203,47,139,17
+Scott,"04-Jennings 3 ",Court of Appeals Dist 1-Foley,,1,,No,100,26,63,11
+Scott,"04-Jennings 3 ",Court of Appeals Dist 4-Pyle III,,1,,Yes,205,49,138,18
+Scott,"04-Jennings 3 ",Court of Appeals Dist 4-Pyle III,,1,,No,98,22,65,11
+Scott,"04-Jennings 3 ",Straight Party,,,DEM,,28,,,
+Scott,"04-Jennings 3 ",Straight Party,,,REP,,69,,,
+Scott,"04-Jennings 3 ",Straight Party,,,WTP,,1,,,
+Scott,05-Jennings 4,Registered Voters,,,,,1129,,,
+Scott,05-Jennings 4,Ballots Cast,,,,,712,,,
+Scott,05-Jennings 4,Public Question-Const Amendment,,1,,Yes,287,112,156,19
+Scott,05-Jennings 4,Public Question-Const Amendment,,1,,No,297,103,165,29
+Scott,05-Jennings 4,President,,1,REP,Donald J. TRUMP / JD VANCE,558,207,311,40
+Scott,05-Jennings 4,President,,1,DEM,Kamala D. HARRIS / Tim WALZ,139,53,58,28
+Scott,05-Jennings 4,President,,1,LBT,Chase OLIVER / Mike terr MAAT,1,0,1,0
+Scott,05-Jennings 4,President,,1,WTP,Robert F. KENNEDY JR. / Nichole SHANAHAN,3,2,0,1
+Scott,05-Jennings 4,President,,1,,Write-In,2,1,1,0
+Scott,05-Jennings 4,U.S. Senate,,1,REP,Jim BANKS,420,156,225,39
+Scott,05-Jennings 4,U.S. Senate,,1,DEM,Valerie McCRAY,146,55,62,29
+Scott,05-Jennings 4,U.S. Senate,,1,LBT,Andrew HORNING,15,2,13,0
+Scott,05-Jennings 4,U.S. Senate,,1,,Write-In,0,0,0,0
+Scott,05-Jennings 4,Governor,,1,REP,Mike BRAUN / Micah BECKWITH,354,151,177,26
+Scott,05-Jennings 4,Governor,,1,DEM,Jennifer G. McCORMICK / Terry GOODIN,309,103,162,44
+Scott,05-Jennings 4,Governor,,1,LBT,Donald RAINWATER / Tonya HUDSON,21,4,16,1
+Scott,05-Jennings 4,Governor,,1,,Write-In,0,0,0,0
+Scott,05-Jennings 4,Attorney General,,1,REP,Todd ROKITA,428,161,233,34
+Scott,05-Jennings 4,Attorney General,,1,DEM,Destiny WELLS,166,60,74,32
+Scott,05-Jennings 4,U.S. House,9,1,REP,Erin HOUCHIN,480,180,261,39
+Scott,05-Jennings 4,U.S. House,9,1,DEM,Timothy (Tim) PECK,143,54,59,30
+Scott,05-Jennings 4,U.S. House,9,1,LBT,Russell (Russ) BROOKSBANK,10,0,10,0
+Scott,05-Jennings 4,U.S. House,9,1,,Write-In,0,0,0,0
+Scott,05-Jennings 4,State House,69,1,REP,Jim LUCAS,454,177,237,40
+Scott,05-Jennings 4,State House,69,1,DEM,Trish WHITCOMB,182,61,92,29
+Scott,05-Jennings 4,Circuit Court Clerk,,1,REP,Michelle SHELTON,416,159,218,39
+Scott,05-Jennings 4,Circuit Court Clerk,,1,DEM,Stacey Broady TURNER,237,87,119,31
+Scott,05-Jennings 4,County Recorder,,1,REP,Sarah M. HELTON,399,154,210,35
+Scott,05-Jennings 4,County Recorder,,1,DEM,Kristi RICHIE-JOHNSON,245,88,125,32
+Scott,05-Jennings 4,County Treasurer,,1,REP,Ryan GABBARD,349,143,178,28
+Scott,05-Jennings 4,County Treasurer,,1,DEM,Missy APPLEGATE,320,111,166,43
+Scott,05-Jennings 4,County Coroner,,1,REP,Bryton RICHEY,527,194,287,46
+Scott,05-Jennings 4,County Surveyor,,1,REP,Mark A. GARDNER,537,198,290,49
+Scott,05-Jennings 4,County Commissioner,1,1,REP,Randy JULIAN,349,133,191,25
+Scott,05-Jennings 4,County Commissioner,1,1,DEM,Donnie RICHIE,296,105,148,43
+Scott,05-Jennings 4,County Commissioner,2,1,REP,Adam BOMAR,265,107,138,20
+Scott,05-Jennings 4,County Commissioner,2,1,DEM,Larry BLEVINS,200,64,101,35
+Scott,05-Jennings 4,County Commissioner,2,1,,David G. BARRETT,187,70,104,13
+Scott,05-Jennings 4,County Council Member,At Large,3,REP,Justin CHEATHAM,279,102,156,21
+Scott,05-Jennings 4,County Council Member,At Large,3,REP,John HARDIN,241,102,113,26
+Scott,05-Jennings 4,County Council Member,At Large,3,REP,James RICHEY,258,82,152,24
+Scott,05-Jennings 4,County Council Member,At Large,3,DEM,Jim BOSWELL,164,56,81,27
+Scott,05-Jennings 4,County Council Member,At Large,3,DEM,John C. LIZENBY,311,94,172,45
+Scott,05-Jennings 4,County Council Member,At Large,3,DEM,Teresa Baker VANNARSDALL,227,92,107,28
+Scott,05-Jennings 4,Scott County SB,1 Jennings Twp,3,,Michael BAUTISTA,293,109,162,22
+Scott,05-Jennings 4,Scott County SB,1 Jennings Twp,3,,David F. DEATON,407,148,206,53
+Scott,05-Jennings 4,Scott County SB,1 Jennings Twp,3,,Darlene HALL,275,107,128,40
+Scott,05-Jennings 4,Scott County SB,1 Jennings Twp,3,,Kasey WHITE,291,104,162,25
+Scott,05-Jennings 4,IN Supreme Court-Rush,,1,,Yes,349,130,187,32
+Scott,05-Jennings 4,IN Supreme Court-Rush,,1,,No,184,64,106,14
+Scott,05-Jennings 4,IN Supreme Court-Massa,,1,,Yes,346,134,180,32
+Scott,05-Jennings 4,IN Supreme Court-Massa,,1,,No,182,63,106,13
+Scott,05-Jennings 4,IN Supreme Court-Molter,,1,,Yes,345,126,187,32
+Scott,05-Jennings 4,IN Supreme Court-Molter,,1,,No,179,64,102,13
+Scott,05-Jennings 4,Court of Appeals Dist 1-Foley,,1,,Yes,345,127,184,34
+Scott,05-Jennings 4,Court of Appeals Dist 1-Foley,,1,,No,182,62,107,13
+Scott,05-Jennings 4,Court of Appeals Dist 4-Pyle III,,1,,Yes,349,131,184,34
+Scott,05-Jennings 4,Court of Appeals Dist 4-Pyle III,,1,,No,179,59,105,15
+Scott,05-Jennings 4,Straight Party,,,DEM,,26,,,
+Scott,05-Jennings 4,Straight Party,,,REP,,104,,,
+Scott,06-Jennings 5,Registered Voters,,,,,694,,,
+Scott,06-Jennings 5,Ballots Cast,,,,,410,,,
+Scott,06-Jennings 5,Public Question-Const Amendment,,1,,Yes,171,50,113,8
+Scott,06-Jennings 5,Public Question-Const Amendment,,1,,No,181,46,105,30
+Scott,06-Jennings 5,President,,1,REP,Donald J. TRUMP / JD VANCE,303,97,188,18
+Scott,06-Jennings 5,President,,1,DEM,Kamala D. HARRIS / Tim WALZ,100,25,46,29
+Scott,06-Jennings 5,President,,1,LBT,Chase OLIVER / Mike terr MAAT,0,0,0,0
+Scott,06-Jennings 5,President,,1,WTP,Robert F. KENNEDY JR. / Nichole SHANAHAN,5,0,5,0
+Scott,06-Jennings 5,President,,1,,Write-In,0,0,0,0
+Scott,06-Jennings 5,U.S. Senate,,1,REP,Jim BANKS,211,68,129,14
+Scott,06-Jennings 5,U.S. Senate,,1,DEM,Valerie McCRAY,110,28,52,30
+Scott,06-Jennings 5,U.S. Senate,,1,LBT,Andrew HORNING,10,0,10,0
+Scott,06-Jennings 5,U.S. Senate,,1,,Write-In,0,0,0,0
+Scott,06-Jennings 5,Governor,,1,REP,Mike BRAUN / Micah BECKWITH,166,55,101,10
+Scott,06-Jennings 5,Governor,,1,DEM,Jennifer G. McCORMICK / Terry GOODIN,213,55,122,36
+Scott,06-Jennings 5,Governor,,1,LBT,Donald RAINWATER / Tonya HUDSON,15,5,10,0
+Scott,06-Jennings 5,Governor,,1,,Write-In,0,0,0,0
+Scott,06-Jennings 5,Attorney General,,1,REP,Todd ROKITA,203,65,125,13
+Scott,06-Jennings 5,Attorney General,,1,DEM,Destiny WELLS,121,28,63,30
+Scott,06-Jennings 5,U.S. House,9,1,REP,Erin HOUCHIN,260,81,160,19
+Scott,06-Jennings 5,U.S. House,9,1,DEM,Timothy (Tim) PECK,98,26,46,26
+Scott,06-Jennings 5,U.S. House,9,1,LBT,Russell (Russ) BROOKSBANK,10,0,9,1
+Scott,06-Jennings 5,U.S. House,9,1,,Write-In,0,0,0,0
+Scott,06-Jennings 5,State House,69,1,REP,Jim LUCAS,215,72,131,12
+Scott,06-Jennings 5,State House,69,1,DEM,Trish WHITCOMB,143,34,76,33
+Scott,06-Jennings 5,Circuit Court Clerk,,1,REP,Michelle SHELTON,212,63,137,12
+Scott,06-Jennings 5,Circuit Court Clerk,,1,DEM,Stacey Broady TURNER,156,44,80,32
+Scott,06-Jennings 5,County Recorder,,1,REP,Sarah M. HELTON,201,66,126,9
+Scott,06-Jennings 5,County Recorder,,1,DEM,Kristi RICHIE-JOHNSON,165,38,92,35
+Scott,06-Jennings 5,County Treasurer,,1,REP,Ryan GABBARD,189,63,118,8
+Scott,06-Jennings 5,County Treasurer,,1,DEM,Missy APPLEGATE,194,51,106,37
+Scott,06-Jennings 5,County Coroner,,1,REP,Bryton RICHEY,290,88,177,25
+Scott,06-Jennings 5,County Surveyor,,1,REP,Mark A. GARDNER,291,81,184,26
+Scott,06-Jennings 5,County Commissioner,1,1,REP,Randy JULIAN,181,54,118,9
+Scott,06-Jennings 5,County Commissioner,1,1,DEM,Donnie RICHIE,184,49,99,36
+Scott,06-Jennings 5,County Commissioner,2,1,REP,Adam BOMAR,137,44,86,7
+Scott,06-Jennings 5,County Commissioner,2,1,DEM,Larry BLEVINS,126,32,61,33
+Scott,06-Jennings 5,County Commissioner,2,1,IND,David G. BARRETT,107,33,70,4
+Scott,06-Jennings 5,County Council Member,At Large,3,REP,Justin CHEATHAM,144,47,92,5
+Scott,06-Jennings 5,County Council Member,At Large,3,REP,John HARDIN,107,38,61,8
+Scott,06-Jennings 5,County Council Member,At Large,3,REP,James RICHEY,136,43,86,7
+Scott,06-Jennings 5,County Council Member,At Large,3,DEM,Jim BOSWELL,119,36,56,27
+Scott,06-Jennings 5,County Council Member,At Large,3,DEM,John C. LIZENBY,202,48,120,34
+Scott,06-Jennings 5,County Council Member,At Large,3,DEM,Teresa Baker VANNARSDALL,154,43,82,29
+Scott,06-Jennings 5,Scott County SB,1 Jennings Twp,3,,Michael BAUTISTA,170,51,106,13
+Scott,06-Jennings 5,Scott County SB,1 Jennings Twp,3,,David F. DEATON,271,75,157,39
+Scott,06-Jennings 5,Scott County SB,1 Jennings Twp,3,,Darlene HALL,175,49,93,33
+Scott,06-Jennings 5,Scott County SB,1 Jennings Twp,3,,Kasey WHITE,192,48,118,26
+Scott,06-Jennings 5,IN Supreme Court-Rush,,1,,Yes,206,59,133,14
+Scott,06-Jennings 5,IN Supreme Court-Rush,,1,,No,97,27,50,20
+Scott,06-Jennings 5,IN Supreme Court-Massa,,1,,Yes,199,57,128,14
+Scott,06-Jennings 5,IN Supreme Court-Massa,,1,,No,101,28,53,20
+Scott,06-Jennings 5,IN Supreme Court-Molter,,1,,Yes,188,54,121,13
+Scott,06-Jennings 5,IN Supreme Court-Molter,,1,,No,109,28,61,20
+Scott,06-Jennings 5,Court of Appeals Dist 1-Foley,,1,,Yes,193,57,120,16
+Scott,06-Jennings 5,Court of Appeals Dist 1-Foley,,1,,No,105,27,60,18
+Scott,06-Jennings 5,Court of Appeals Dist 4-Pyle III,,1,,Yes,197,57,129,11
+Scott,06-Jennings 5,Court of Appeals Dist 4-Pyle III,,1,,No,102,27,54,21
+Scott,06-Jennings 5,Straight Party,,,DEM,,16,,,
+Scott,06-Jennings 5,Straight Party,,,REP,,54,,,
+Scott,07-Johnson 1,Registered Voters,,,,,1768,,,
+Scott,07-Johnson 1,Ballots Cast,,,,,1064,,,
+Scott,07-Johnson 1,Public Question-Const Amendment,,1,,Yes,477,194,262,21
+Scott,07-Johnson 1,Public Question-Const Amendment,,1,,No,428,180,218,30
+Scott,07-Johnson 1,President,,1,REP,Donald J. TRUMP / JD VANCE,825,346,446,33
+Scott,07-Johnson 1,President,,1,DEM,Kamala D. HARRIS / Tim WALZ,199,96,69,34
+Scott,07-Johnson 1,President,,1,LBT,Chase OLIVER / Mike terr MAAT,9,2,7,0
+Scott,07-Johnson 1,President,,1,WTP,Robert F. KENNEDY JR. / Nichole SHANAHAN,12,5,7,0
+Scott,07-Johnson 1,President,,1,,Write-In,4,3,1,0
+Scott,07-Johnson 1,U.S. Senate,,1,REP,Jim BANKS,644,267,347,30
+Scott,07-Johnson 1,U.S. Senate,,1,DEM,Valerie McCRAY,210,101,76,33
+Scott,07-Johnson 1,U.S. Senate,,1,LBT,Andrew HORNING,28,9,18,1
+Scott,07-Johnson 1,U.S. Senate,,1,,Write-In,0,0,0,0
+Scott,07-Johnson 1,Governor,,1,REP,Mike BRAUN / Micah BECKWITH,564,252,297,15
+Scott,07-Johnson 1,Governor,,1,DEM,Jennifer G. McCORMICK / Terry GOODIN,415,171,195,49
+Scott,07-Johnson 1,Governor,,1,LBT,Donald RAINWATER / Tonya HUDSON,42,17,23,2
+Scott,07-Johnson 1,Governor,,1,,Write-In,0,0,0,0
+Scott,07-Johnson 1,Attorney General,,1,REP,Todd ROKITA,646,279,339,28
+Scott,07-Johnson 1,Attorney General,,1,DEM,Destiny WELLS,233,108,88,37
+Scott,07-Johnson 1,U.S. House,9,1,REP,Erin HOUCHIN,729,302,395,32
+Scott,07-Johnson 1,U.S. House,9,1,DEM,Timothy (Tim) PECK,200,90,73,37
+Scott,07-Johnson 1,U.S. House,9,1,LBT,Russell (Russ) BROOKSBANK,26,10,16,0
+Scott,07-Johnson 1,U.S. House,9,1,,Write-In,1,0,1,0
+Scott,07-Johnson 1,State House,69,1,REP,Jim LUCAS,656,278,352,26
+Scott,07-Johnson 1,State House,69,1,DEM,Trish WHITCOMB,278,122,119,37
+Scott,07-Johnson 1,Circuit Court Clerk,,1,REP,Michelle SHELTON,653,275,351,27
+Scott,07-Johnson 1,Circuit Court Clerk,,1,DEM,Stacey Broady TURNER,350,156,153,41
+Scott,07-Johnson 1,County Recorder,,1,REP,Sarah M. HELTON,687,295,361,31
+Scott,07-Johnson 1,County Recorder,,1,DEM,Kristi RICHIE-JOHNSON,297,129,131,37
+Scott,07-Johnson 1,County Treasurer,,1,REP,Ryan GABBARD,554,241,293,20
+Scott,07-Johnson 1,County Treasurer,,1,DEM,Missy APPLEGATE,447,192,207,48
+Scott,07-Johnson 1,County Coroner,,1,REP,Bryton RICHEY,818,337,440,41
+Scott,07-Johnson 1,County Surveyor,,1,REP,Mark A. GARDNER,792,333,413,46
+Scott,07-Johnson 1,County Commissioner,1,1,REP,Randy JULIAN,595,249,324,22
+Scott,07-Johnson 1,County Commissioner,1,1,DEM,Donnie RICHIE,367,159,161,47
+Scott,07-Johnson 1,County Commissioner,2,1,REP,Adam BOMAR,467,205,247,15
+Scott,07-Johnson 1,County Commissioner,2,1,DEM,Larry BLEVINS,267,123,105,39
+Scott,07-Johnson 1,County Commissioner,2,1,IND,David G. BARRETT,237,84,140,13
+Scott,07-Johnson 1,County Council Member,At Large,3,REP,Justin CHEATHAM,451,175,256,20
+Scott,07-Johnson 1,County Council Member,At Large,3,REP,John HARDIN,435,181,230,24
+Scott,07-Johnson 1,County Council Member,At Large,3,REP,James RICHEY,414,159,235,20
+Scott,07-Johnson 1,County Council Member,At Large,3,DEM,Jim BOSWELL,227,95,110,22
+Scott,07-Johnson 1,County Council Member,At Large,3,DEM,John C. LIZENBY,399,161,192,46
+Scott,07-Johnson 1,County Council Member,At Large,3,DEM,Teresa Baker VANNARSDALL,254,123,100,31
+Scott,07-Johnson 1,Scott County SB,2 Finley Twp,1,,Terry Lee JONES,406,152,224,30
+Scott,07-Johnson 1,Scott County SB,2 Finley Twp,1,,Melissa Jean Woods,369,170,177,22
+Scott,07-Johnson 1,Scott County SB,2 Johnson Twp,1,,William Bj BEST,284,112,159,13
+Scott,07-Johnson 1,Scott County SB,2 Johnson Twp,1,,Wesley (Wes) COWAN,115,51,58,6
+Scott,07-Johnson 1,Scott County SB,2 Johnson Twp,1,,Dustin D. McINTOSH,425,175,215,35
+Scott,07-Johnson 1,Scott County SB,2 Vienna Twp,1,,Gene Ann SHAPINSKY SHAWLER,333,149,162,22
+Scott,07-Johnson 1,Scott County SB,2 Vienna Twp,1,,Rick ZOLLMAN,496,196,271,29
+Scott,07-Johnson 1,IN Supreme Court-Rush,,1,,Yes,530,214,293,23
+Scott,07-Johnson 1,IN Supreme Court-Rush,,1,,No,289,130,134,25
+Scott,07-Johnson 1,IN Supreme Court-Massa,,1,,Yes,507,205,281,21
+Scott,07-Johnson 1,IN Supreme Court-Massa,,1,,No,299,129,143,27
+Scott,07-Johnson 1,IN Supreme Court-Molter,,1,,Yes,534,220,295,19
+Scott,07-Johnson 1,IN Supreme Court-Molter,,1,,No,286,126,132,28
+Scott,07-Johnson 1,Court of Appeals Dist 1-Foley,,1,,Yes,543,216,302,25
+Scott,07-Johnson 1,Court of Appeals Dist 1-Foley,,1,,No,268,119,129,20
+Scott,07-Johnson 1,Court of Appeals Dist 4-Pyle III,,1,,Yes,527,207,294,26
+Scott,07-Johnson 1,Court of Appeals Dist 4-Pyle III,,1,,No,276,124,132,20
+Scott,07-Johnson 1,Straight Party,,,DEM,,43,,,
+Scott,07-Johnson 1,Straight Party,,,REP,,190,,,
+Scott,08-Lexington 1,Registered Voters,,,,,1262,,,
+Scott,08-Lexington 1,Ballots Cast,,,,,794,,,
+Scott,08-Lexington 1,Public Question-Const Amendment,,1,,Yes,339,153,168,18
+Scott,08-Lexington 1,Public Question-Const Amendment,,1,,No,308,141,134,33
+Scott,08-Lexington 1,President,,1,REP,Donald J. TRUMP / JD VANCE,619,288,288,43
+Scott,08-Lexington 1,President,,1,DEM,Kamala D. HARRIS / Tim WALZ,152,72,53,27
+Scott,08-Lexington 1,President,,1,LBT,Chase OLIVER / Mike terr MAAT,4,1,3,0
+Scott,08-Lexington 1,President,,1,WTP,Robert F. KENNEDY JR. / Nichole SHANAHAN,11,4,7,0
+Scott,08-Lexington 1,President,,1,,Write-In,0,0,0,0
+Scott,08-Lexington 1,U.S. Senate,,1,REP,Jim BANKS,531,246,244,41
+Scott,08-Lexington 1,U.S. Senate,,1,DEM,Valerie McCRAY,144,64,53,27
+Scott,08-Lexington 1,U.S. Senate,,1,LBT,Andrew HORNING,16,9,5,2
+Scott,08-Lexington 1,U.S. Senate,,1,,Write-In,0,0,0,0
+Scott,08-Lexington 1,Governor,,1,REP,Mike BRAUN / Micah BECKWITH,506,234,237,35
+Scott,08-Lexington 1,Governor,,1,DEM,Jennifer G. McCORMICK / Terry GOODIN,235,105,95,35
+Scott,08-Lexington 1,Governor,,1,LBT,Donald RAINWATER / Tonya HUDSON,20,10,9,1
+Scott,08-Lexington 1,Governor,,1,,Write-In,0,0,0,0
+Scott,08-Lexington 1,Attorney General,,1,REP,Todd ROKITA,519,243,232,44
+Scott,08-Lexington 1,Attorney General,,1,DEM,Destiny WELLS,156,76,54,26
+Scott,08-Lexington 1,U.S. House,9,1,REP,Erin HOUCHIN,570,264,259,47
+Scott,08-Lexington 1,U.S. House,9,1,DEM,Timothy (Tim) PECK,140,63,53,24
+Scott,08-Lexington 1,U.S. House,9,1,LBT,Russell (Russ) BROOKSBANK,13,5,8,0
+Scott,08-Lexington 1,U.S. House,9,1,,Write-In,0,0,0,0
+Scott,08-Lexington 1,State House,66,1,REP,Zach PAYNE,565,259,262,44
+Scott,08-Lexington 1,State House,66,1,DEM,Jennifer DAVID,158,72,58,28
+Scott,08-Lexington 1,Circuit Court Clerk,,1,REP,Michelle SHELTON,550,254,253,43
+Scott,08-Lexington 1,Circuit Court Clerk,,1,DEM,Stacey Broady TURNER,191,93,68,30
+Scott,08-Lexington 1,County Recorder,,1,REP,Sarah M. HELTON,546,251,254,41
+Scott,08-Lexington 1,County Recorder,,1,DEM,Kristi RICHIE-JOHNSON,175,88,60,27
+Scott,08-Lexington 1,County Treasurer,,1,REP,Ryan GABBARD,490,226,228,36
+Scott,08-Lexington 1,County Treasurer,,1,DEM,Missy APPLEGATE,254,119,99,36
+Scott,08-Lexington 1,County Coroner,,1,REP,Bryton RICHEY,618,284,285,49
+Scott,08-Lexington 1,County Surveyor,,1,REP,Mark A. GARDNER,602,278,275,49
+Scott,08-Lexington 1,County Commissioner,1,1,REP,Randy JULIAN,491,218,237,36
+Scott,08-Lexington 1,County Commissioner,1,1,DEM,Donnie RICHIE,223,111,77,35
+Scott,08-Lexington 1,County Commissioner,2,1,REP,Adam BOMAR,434,202,201,31
+Scott,08-Lexington 1,County Commissioner,2,1,DEM,Larry BLEVINS,195,90,67,38
+Scott,08-Lexington 1,County Commissioner,2,1,,David G. BARRETT,103,42,58,3
+Scott,08-Lexington 1,County Council Member,At Large,3,REP,Justin CHEATHAM,326,146,161,19
+Scott,08-Lexington 1,County Council Member,At Large,3,REP,John HARDIN,370,166,173,31
+Scott,08-Lexington 1,County Council Member,At Large,3,REP,James RICHEY,305,138,144,23
+Scott,08-Lexington 1,County Council Member,At Large,3,DEM,Jim BOSWELL,140,56,60,24
+Scott,08-Lexington 1,County Council Member,At Large,3,DEM,John C. LIZENBY,223,97,93,33
+Scott,08-Lexington 1,County Council Member,At Large,3,DEM,Teresa Baker VANNARSDALL,154,74,55,25
+Scott,08-Lexington 1,Scott County SB,2 Finley Twp,1,,Terry Lee JONES,279,133,128,18
+Scott,08-Lexington 1,Scott County SB,2 Finley Twp,1,,Melissa Jean Woods,240,102,113,25
+Scott,08-Lexington 1,Scott County SB,2 Johnson Twp,1,,William Bj BEST,202,93,96,13
+Scott,08-Lexington 1,Scott County SB,2 Johnson Twp,1,,Wesley (Wes) COWAN,95,32,52,11
+Scott,08-Lexington 1,Scott County SB,2 Johnson Twp,1,,Dustin D. McINTOSH,233,109,104,20
+Scott,08-Lexington 1,Scott County SB,2 Vienna Twp,1,,Gene Ann SHAPINSKY SHAWLER,233,103,106,24
+Scott,08-Lexington 1,Scott County SB,2 Vienna Twp,1,,Rick ZOLLMAN,317,146,150,21
+Scott,08-Lexington 1,IN Supreme Court-Rush,,1,,Yes,390,173,189,28
+Scott,08-Lexington 1,IN Supreme Court-Rush,,1,,No,179,87,83,9
+Scott,08-Lexington 1,IN Supreme Court-Massa,,1,,Yes,387,168,194,25
+Scott,08-Lexington 1,IN Supreme Court-Massa,,1,,No,177,91,74,12
+Scott,08-Lexington 1,IN Supreme Court-Molter,,1,,Yes,386,172,190,24
+Scott,08-Lexington 1,IN Supreme Court-Molter,,1,,No,179,90,77,12
+Scott,08-Lexington 1,Court of Appeals Dist 1-Foley,,1,,Yes,401,178,197,26
+Scott,08-Lexington 1,Court of Appeals Dist 1-Foley,,1,,No,162,81,71,10
+Scott,08-Lexington 1,Court of Appeals Dist 4-Pyle III,,1,,Yes,390,174,191,25
+Scott,08-Lexington 1,Court of Appeals Dist 4-Pyle III,,1,,No,165,83,73,9
+Scott,08-Lexington 1,Straight Party,,,DEM,,44,,,
+Scott,08-Lexington 1,Straight Party,,,REP,,208,,,
+Scott,09-Lexington 2,Registered Voters,,,,,1021,,,
+Scott,09-Lexington 2,Ballots Cast,,,,,628,,,
+Scott,09-Lexington 2,Public Question-Const Amendment,,1,,Yes,292,117,155,20
+Scott,09-Lexington 2,Public Question-Const Amendment,,1,,No,261,117,119,25
+Scott,09-Lexington 2,President,,1,REP,Donald J. TRUMP / JD VANCE,469,198,241,30
+Scott,09-Lexington 2,President,,1,DEM,Kamala D. HARRIS / Tim WALZ,144,66,56,22
+Scott,09-Lexington 2,President,,1,LBT,Chase OLIVER / Mike terr MAAT,3,1,0,2
+Scott,09-Lexington 2,President,,1,WTP,Robert F. KENNEDY JR. / Nichole SHANAHAN,8,3,5,0
+Scott,09-Lexington 2,President,,1,,Write-In,1,0,1,0
+Scott,09-Lexington 2,U.S. Senate,,1,REP,Jim BANKS,391,163,203,25
+Scott,09-Lexington 2,U.S. Senate,,1,DEM,Valerie McCRAY,141,64,51,26
+Scott,09-Lexington 2,U.S. Senate,,1,LBT,Andrew HORNING,16,7,8,1
+Scott,09-Lexington 2,U.S. Senate,,1,,Write-In,0,0,0,0
+Scott,09-Lexington 2,Governor,,1,REP,Mike BRAUN / Micah BECKWITH,365,160,181,24
+Scott,09-Lexington 2,Governor,,1,DEM,Jennifer G. McCORMICK / Terry GOODIN,222,94,97,31
+Scott,09-Lexington 2,Governor,,1,LBT,Donald RAINWATER / Tonya HUDSON,24,8,16,0
+Scott,09-Lexington 2,Governor,,1,,Write-In,0,0,0,0
+Scott,09-Lexington 2,Attorney General,,1,REP,Todd ROKITA,397,173,198,26
+Scott,09-Lexington 2,Attorney General,,1,DEM,Destiny WELLS,155,69,58,28
+Scott,09-Lexington 2,U.S. House,9,1,REP,Erin HOUCHIN,428,186,211,31
+Scott,09-Lexington 2,U.S. House,9,1,DEM,Timothy (Tim) PECK,138,62,53,23
+Scott,09-Lexington 2,U.S. House,9,1,LBT,Russell (Russ) BROOKSBANK,14,4,10,0
+Scott,09-Lexington 2,U.S. House,9,1,,Write-In,0,0,0,0
+Scott,09-Lexington 2,State House,66,1,REP,Zach PAYNE,402,170,205,27
+Scott,09-Lexington 2,State House,66,1,DEM,Jennifer DAVID,174,79,68,27
+Scott,09-Lexington 2,Circuit Court Clerk,,1,REP,Michelle SHELTON,393,173,199,21
+Scott,09-Lexington 2,Circuit Court Clerk,,1,DEM,Stacey Broady TURNER,203,85,85,33
+Scott,09-Lexington 2,County Recorder,,1,REP,Sarah M. HELTON,410,178,208,24
+Scott,09-Lexington 2,County Recorder,,1,DEM,Kristi RICHIE-JOHNSON,179,80,72,27
+Scott,09-Lexington 2,County Treasurer,,1,REP,Ryan GABBARD,334,137,176,21
+Scott,09-Lexington 2,County Treasurer,,1,DEM,Missy APPLEGATE,264,122,109,33
+Scott,09-Lexington 2,County Coroner,,1,REP,Bryton RICHEY,493,211,249,33
+Scott,09-Lexington 2,County Surveyor,,1,REP,Mark A. GARDNER,482,203,245,34
+Scott,09-Lexington 2,County Commissioner,1,1,REP,Randy JULIAN,356,148,184,24
+Scott,09-Lexington 2,County Commissioner,1,1,DEM,Donnie RICHIE,213,95,90,28
+Scott,09-Lexington 2,County Commissioner,2,1,REP,Adam BOMAR,278,130,132,16
+Scott,09-Lexington 2,County Commissioner,2,1,DEM,Larry BLEVINS,198,83,85,30
+Scott,09-Lexington 2,County Commissioner,2,1,,David G. BARRETT,105,37,63,5
+Scott,09-Lexington 2,County Council Member,At Large,3,REP,Justin CHEATHAM,247,99,130,18
+Scott,09-Lexington 2,County Council Member,At Large,3,REP,John HARDIN,310,131,153,26
+Scott,09-Lexington 2,County Council Member,At Large,3,REP,James RICHEY,260,110,131,19
+Scott,09-Lexington 2,County Council Member,At Large,3,DEM,Jim BOSWELL,144,62,56,26
+Scott,09-Lexington 2,County Council Member,At Large,3,DEM,John C. LIZENBY,241,99,109,33
+Scott,09-Lexington 2,County Council Member,At Large,3,DEM,Teresa Baker VANNARSDALL,136,54,58,24
+Scott,09-Lexington 2,Scott County SB,2 Finley Twp,1,,Terry Lee JONES,238,102,117,19
+Scott,09-Lexington 2,Scott County SB,2 Finley Twp,1,,Melissa Jean Woods,245,103,112,30
+Scott,09-Lexington 2,Scott County SB,2 Johnson Twp,1,,William Bj BEST,190,89,88,13
+Scott,09-Lexington 2,Scott County SB,2 Johnson Twp,1,,Wesley (Wes) COWAN,74,27,39,8
+Scott,09-Lexington 2,Scott County SB,2 Johnson Twp,1,,Dustin D. McINTOSH,219,83,108,28
+Scott,09-Lexington 2,Scott County SB,2 Vienna Twp,1,,Gene Ann SHAPINSKY SHAWLER,231,101,105,25
+Scott,09-Lexington 2,Scott County SB,2 Vienna Twp,1,,Rick ZOLLMAN,274,109,140,25
+Scott,09-Lexington 2,IN Supreme Court-Rush,,1,,Yes,319,137,157,25
+Scott,09-Lexington 2,IN Supreme Court-Rush,,1,,No,158,68,75,15
+Scott,09-Lexington 2,IN Supreme Court-Massa,,1,,Yes,304,132,148,24
+Scott,09-Lexington 2,IN Supreme Court-Massa,,1,,No,171,73,82,16
+Scott,09-Lexington 2,IN Supreme Court-Molter,,1,,Yes,316,138,157,21
+Scott,09-Lexington 2,IN Supreme Court-Molter,,1,,No,166,68,79,19
+Scott,09-Lexington 2,Court of Appeals Dist 1-Foley,,1,,Yes,311,130,159,22
+Scott,09-Lexington 2,Court of Appeals Dist 1-Foley,,1,,No,165,74,75,16
+Scott,09-Lexington 2,Court of Appeals Dist 4-Pyle III,,1,,Yes,308,129,155,24
+Scott,09-Lexington 2,Court of Appeals Dist 4-Pyle III,,1,,No,166,73,79,14
+Scott,09-Lexington 2,Straight Party,,,DEM,,35,,,
+Scott,09-Lexington 2,Straight Party,,,REP,,118,,,
+Scott,10-Lexington 3,Registered Voters,,,,,213,,,
+Scott,10-Lexington 3,Ballots Cast,,,,,126,,,
+Scott,10-Lexington 3,Public Question-Const Amendment,,1,,Yes,54,21,30,3
+Scott,10-Lexington 3,Public Question-Const Amendment,,1,,No,60,22,37,1
+Scott,10-Lexington 3,President,,1,REP,Donald J. TRUMP / JD VANCE,105,42,61,2
+Scott,10-Lexington 3,President,,1,DEM,Kamala D. HARRIS / Tim WALZ,16,4,9,3
+Scott,10-Lexington 3,President,,1,LBT,Chase OLIVER / Mike terr MAAT,0,0,0,0
+Scott,10-Lexington 3,President,,1,WTP,Robert F. KENNEDY JR. / Nichole SHANAHAN,1,0,1,0
+Scott,10-Lexington 3,President,,1,,Write-In,2,0,2,0
+Scott,10-Lexington 3,U.S. Senate,,1,REP,Jim BANKS,85,33,51,1
+Scott,10-Lexington 3,U.S. Senate,,1,DEM,Valerie McCRAY,18,4,10,4
+Scott,10-Lexington 3,U.S. Senate,,1,LBT,Andrew HORNING,4,0,4,0
+Scott,10-Lexington 3,U.S. Senate,,1,,Write-In,0,0,0,0
+Scott,10-Lexington 3,Governor,,1,REP,Mike BRAUN / Micah BECKWITH,78,32,45,1
+Scott,10-Lexington 3,Governor,,1,DEM,Jennifer G. McCORMICK / Terry GOODIN,36,11,21,4
+Scott,10-Lexington 3,Governor,,1,LBT,Donald RAINWATER / Tonya HUDSON,6,2,4,0
+Scott,10-Lexington 3,Governor,,1,,Write-In,0,0,0,0
+Scott,10-Lexington 3,Attorney General,,1,REP,Todd ROKITA,90,36,53,1
+Scott,10-Lexington 3,Attorney General,,1,DEM,Destiny WELLS,19,4,11,4
+Scott,10-Lexington 3,U.S. House,9,1,REP,Erin HOUCHIN,96,40,55,1
+Scott,10-Lexington 3,U.S. House,9,1,DEM,Timothy (Tim) PECK,19,3,12,4
+Scott,10-Lexington 3,U.S. House,9,1,LBT,Russell (Russ) BROOKSBANK,4,0,4,0
+Scott,10-Lexington 3,U.S. House,9,1,,Write-In,0,0,0,0
+Scott,10-Lexington 3,State House,66,1,REP,Zach PAYNE,96,38,57,1
+Scott,10-Lexington 3,State House,66,1,DEM,Jennifer DAVID,20,4,12,4
+Scott,10-Lexington 3,Circuit Court Clerk,,1,REP,Michelle SHELTON,80,31,49,0
+Scott,10-Lexington 3,Circuit Court Clerk,,1,DEM,Stacey Broady TURNER,40,14,21,5
+Scott,10-Lexington 3,County Recorder,,1,REP,Sarah M. HELTON,90,35,54,1
+Scott,10-Lexington 3,County Recorder,,1,DEM,Kristi RICHIE-JOHNSON,29,9,16,4
+Scott,10-Lexington 3,County Treasurer,,1,REP,Ryan GABBARD,77,28,49,0
+Scott,10-Lexington 3,County Treasurer,,1,DEM,Missy APPLEGATE,44,17,22,5
+Scott,10-Lexington 3,County Coroner,,1,REP,Bryton RICHEY,106,35,66,5
+Scott,10-Lexington 3,County Surveyor,,1,REP,Mark A. GARDNER,103,37,61,5
+Scott,10-Lexington 3,County Commissioner,1,1,REP,Randy JULIAN,80,28,51,1
+Scott,10-Lexington 3,County Commissioner,1,1,DEM,Donnie RICHIE,35,15,16,4
+Scott,10-Lexington 3,County Commissioner,2,1,REP,Adam BOMAR,61,23,38,0
+Scott,10-Lexington 3,County Commissioner,2,1,DEM,Larry BLEVINS,33,13,16,4
+Scott,10-Lexington 3,County Commissioner,2,1,,David G. BARRETT,24,8,15,1
+Scott,10-Lexington 3,County Council Member,At Large,3,REP,Justin CHEATHAM,40,14,26,0
+Scott,10-Lexington 3,County Council Member,At Large,3,REP,John HARDIN,56,22,34,0
+Scott,10-Lexington 3,County Council Member,At Large,3,REP,James RICHEY,49,20,26,3
+Scott,10-Lexington 3,County Council Member,At Large,3,DEM,Jim BOSWELL,26,8,14,4
+Scott,10-Lexington 3,County Council Member,At Large,3,DEM,John C. LIZENBY,45,17,25,3
+Scott,10-Lexington 3,County Council Member,At Large,3,DEM,Teresa Baker VANNARSDALL,18,7,7,4
+Scott,10-Lexington 3,Scott County SB,2 Finley Twp,1,,Terry Lee JONES,48,20,28,0
+Scott,10-Lexington 3,Scott County SB,2 Finley Twp,1,,Melissa Jean Woods,46,14,29,3
+Scott,10-Lexington 3,Scott County SB,2 Johnson Twp,1,,William Bj BEST,36,15,21,0
+Scott,10-Lexington 3,Scott County SB,2 Johnson Twp,1,,Wesley (Wes) COWAN,12,2,9,1
+Scott,10-Lexington 3,Scott County SB,2 Johnson Twp,1,,Dustin D. McINTOSH,42,17,23,2
+Scott,10-Lexington 3,Scott County SB,2 Vienna Twp,1,,Gene Ann SHAPINSKY SHAWLER,41,13,26,2
+Scott,10-Lexington 3,Scott County SB,2 Vienna Twp,1,,Rick ZOLLMAN,55,23,30,2
+Scott,10-Lexington 3,IN Supreme Court-Rush,,1,,Yes,62,26,34,2
+Scott,10-Lexington 3,IN Supreme Court-Rush,,1,,No,33,11,21,1
+Scott,10-Lexington 3,IN Supreme Court-Massa,,1,,Yes,60,27,31,2
+Scott,10-Lexington 3,IN Supreme Court-Massa,,1,,No,34,9,24,1
+Scott,10-Lexington 3,IN Supreme Court-Molter,,1,,Yes,63,26,35,2
+Scott,10-Lexington 3,IN Supreme Court-Molter,,1,,No,37,13,23,1
+Scott,10-Lexington 3,Court of Appeals Dist 1-Foley,,1,,Yes,63,24,37,2
+Scott,10-Lexington 3,Court of Appeals Dist 1-Foley,,1,,No,35,12,22,1
+Scott,10-Lexington 3,Court of Appeals Dist 4-Pyle III,,1,,Yes,63,26,35,2
+Scott,10-Lexington 3,Court of Appeals Dist 4-Pyle III,,1,,No,35,11,23,1
+Scott,10-Lexington 3,Straight Party,,,DEM,,2,,,
+Scott,10-Lexington 3,Straight Party,,,REP,,29,,,
+Scott,11-Vienna 1,Registered Voters,,,,,1467,,,
+Scott,11-Vienna 1,Ballots Cast,,,,,976,,,
+Scott,11-Vienna 1,Public Question-Const Amendment,,1,,Yes,447,171,251,25
+Scott,11-Vienna 1,Public Question-Const Amendment,,1,,No,373,146,204,23
+Scott,11-Vienna 1,President,,1,REP,Donald J. TRUMP / JD VANCE,733,297,408,28
+Scott,11-Vienna 1,President,,1,DEM,Kamala D. HARRIS / Tim WALZ,216,85,97,34
+Scott,11-Vienna 1,President,,1,LBT,Chase OLIVER / Mike terr MAAT,5,3,2,0
+Scott,11-Vienna 1,President,,1,WTP,Robert F. KENNEDY JR. / Nichole SHANAHAN,15,8,7,0
+Scott,11-Vienna 1,President,,1,,Write-In,0,0,0,0
+Scott,11-Vienna 1,U.S. Senate,,1,REP,Jim BANKS,599,246,326,27
+Scott,11-Vienna 1,U.S. Senate,,1,DEM,Valerie McCRAY,204,78,92,34
+Scott,11-Vienna 1,U.S. Senate,,1,LBT,Andrew HORNING,23,10,13,0
+Scott,11-Vienna 1,U.S. Senate,,1,,Write-In,0,0,0,0
+Scott,11-Vienna 1,Governor,,1,REP,Mike BRAUN / Micah BECKWITH,606,247,336,23
+Scott,11-Vienna 1,Governor,,1,DEM,Jennifer G. McCORMICK / Terry GOODIN,290,116,138,36
+Scott,11-Vienna 1,Governor,,1,LBT,Donald RAINWATER / Tonya HUDSON,29,10,17,2
+Scott,11-Vienna 1,Governor,,1,,Write-In,1,0,1,0
+Scott,11-Vienna 1,Attorney General,,1,REP,Todd ROKITA,620,258,337,25
+Scott,11-Vienna 1,Attorney General,,1,DEM,Destiny WELLS,224,86,102,36
+Scott,11-Vienna 1,U.S. House,9,1,REP,Erin HOUCHIN,662,267,365,30
+Scott,11-Vienna 1,U.S. House,9,1,DEM,Timothy (Tim) PECK,210,88,91,31
+Scott,11-Vienna 1,U.S. House,9,1,LBT,Russell (Russ) BROOKSBANK,16,6,10,0
+Scott,11-Vienna 1,U.S. House,9,1,,Write-In,0,0,0,0
+Scott,11-Vienna 1,State House,66,1,REP,Zach PAYNE,652,265,362,25
+Scott,11-Vienna 1,State House,66,1,DEM,Jennifer DAVID,231,93,103,35
+Scott,11-Vienna 1,Circuit Court Clerk,,1,REP,Michelle SHELTON,607,256,334,17
+Scott,11-Vienna 1,Circuit Court Clerk,,1,DEM,Stacey Broady TURNER,312,121,148,43
+Scott,11-Vienna 1,County Recorder,,1,REP,Sarah M. HELTON,643,262,356,25
+Scott,11-Vienna 1,County Recorder,,1,DEM,Kristi RICHIE-JOHNSON,269,104,129,36
+Scott,11-Vienna 1,County Treasurer,,1,REP,Ryan GABBARD,562,227,318,17
+Scott,11-Vienna 1,County Treasurer,,1,DEM,Missy APPLEGATE,360,150,167,43
+Scott,11-Vienna 1,County Coroner,,1,REP,Bryton RICHEY,756,306,415,35
+Scott,11-Vienna 1,County Surveyor,,1,REP,Mark A. GARDNER,733,294,400,39
+Scott,11-Vienna 1,County Commissioner,1,1,REP,Randy JULIAN,553,227,304,22
+Scott,11-Vienna 1,County Commissioner,1,1,DEM,Donnie RICHIE,329,131,161,37
+Scott,11-Vienna 1,County Commissioner,2,1,REP,Adam BOMAR,481,207,257,17
+Scott,11-Vienna 1,County Commissioner,2,1,DEM,Larry BLEVINS,250,96,120,34
+Scott,11-Vienna 1,County Commissioner,2,1,,David G. BARRETT,172,65,100,7
+Scott,11-Vienna 1,County Council Member,At Large,3,REP,Justin CHEATHAM,369,146,207,16
+Scott,11-Vienna 1,County Council Member,At Large,3,REP,John HARDIN,380,154,207,19
+Scott,11-Vienna 1,County Council Member,At Large,3,REP,James RICHEY,394,164,208,22
+Scott,11-Vienna 1,County Council Member,At Large,3,DEM,Jim BOSWELL,225,94,100,31
+Scott,11-Vienna 1,County Council Member,At Large,3,DEM,John C. LIZENBY,356,138,184,34
+Scott,11-Vienna 1,County Council Member,At Large,3,DEM,Teresa Baker VANNARSDALL,211,91,96,24
+Scott,11-Vienna 1,Scott County SB,2 Finley Twp,1,,Terry Lee JONES,363,140,195,28
+Scott,11-Vienna 1,Scott County SB,2 Finley Twp,1,,Melissa Jean Woods,327,127,185,15
+Scott,11-Vienna 1,Scott County SB,2 Johnson Twp,1,,William Bj BEST,244,91,141,12
+Scott,11-Vienna 1,Scott County SB,2 Johnson Twp,1,,Wesley (Wes) COWAN,108,46,59,3
+Scott,11-Vienna 1,Scott County SB,2 Johnson Twp,1,,Dustin D. McINTOSH,324,124,174,26
+Scott,11-Vienna 1,Scott County SB,2 Vienna Twp,1,,Gene Ann SHAPINSKY SHAWLER,310,131,151,28
+Scott,11-Vienna 1,Scott County SB,2 Vienna Twp,1,,Rick ZOLLMAN,435,161,253,21
+Scott,11-Vienna 1,IN Supreme Court-Rush,,1,,Yes,511,195,290,26
+Scott,11-Vienna 1,IN Supreme Court-Rush,,1,,No,216,88,112,16
+Scott,11-Vienna 1,IN Supreme Court-Massa,,1,,Yes,490,189,280,21
+Scott,11-Vienna 1,IN Supreme Court-Massa,,1,,No,234,91,121,22
+Scott,11-Vienna 1,IN Supreme Court-Molter,,1,,Yes,509,198,289,22
+Scott,11-Vienna 1,IN Supreme Court-Molter,,1,,No,228,88,119,21
+Scott,11-Vienna 1,Court of Appeals Dist 1-Foley,,1,,Yes,511,202,289,20
+Scott,11-Vienna 1,Court of Appeals Dist 1-Foley,,1,,No,225,88,115,22
+Scott,11-Vienna 1,Court of Appeals Dist 4-Pyle III,,1,,Yes,495,193,281,21
+Scott,11-Vienna 1,Court of Appeals Dist 4-Pyle III,,1,,No,237,93,122,22
+Scott,11-Vienna 1,Straight Party,,,DEM,,52,,,
+Scott,11-Vienna 1,Straight Party,,,REP,,212,,,
+Scott,12-Vienna 2,Registered Voters,,,,,1117,,,
+Scott,12-Vienna 2,Ballots Cast,,,,,578,,,
+Scott,12-Vienna 2,Public Question-Const Amendment,,1,,Yes,267,99,148,20
+Scott,12-Vienna 2,Public Question-Const Amendment,,1,,No,211,59,132,20
+Scott,12-Vienna 2,President,,1,REP,Donald J. TRUMP / JD VANCE,382,132,220,30
+Scott,12-Vienna 2,President,,1,DEM,Kamala D. HARRIS / Tim WALZ,179,69,81,29
+Scott,12-Vienna 2,President,,1,LBT,Chase OLIVER / Mike terr MAAT,0,0,0,0
+Scott,12-Vienna 2,President,,1,WTP,Robert F. KENNEDY JR. / Nichole SHANAHAN,9,3,6,0
+Scott,12-Vienna 2,President,,1,,Write-In,1,0,0,1
+Scott,12-Vienna 2,U.S. Senate,,1,REP,Jim BANKS,291,97,174,20
+Scott,12-Vienna 2,U.S. Senate,,1,DEM,Valerie McCRAY,175,61,79,35
+Scott,12-Vienna 2,U.S. Senate,,1,LBT,Andrew HORNING,16,5,11,0
+Scott,12-Vienna 2,U.S. Senate,,1,,Write-In,0,0,0,0
+Scott,12-Vienna 2,Governor,,1,REP,Mike BRAUN / Micah BECKWITH,283,96,169,18
+Scott,12-Vienna 2,Governor,,1,DEM,Jennifer G. McCORMICK / Terry GOODIN,249,90,119,40
+Scott,12-Vienna 2,Governor,,1,LBT,Donald RAINWATER / Tonya HUDSON,19,8,11,0
+Scott,12-Vienna 2,Governor,,1,,Write-In,0,0,0,0
+Scott,12-Vienna 2,Attorney General,,1,REP,Todd ROKITA,297,108,171,18
+Scott,12-Vienna 2,Attorney General,,1,DEM,Destiny WELLS,187,66,87,34
+Scott,12-Vienna 2,U.S. House,9,1,REP,Erin HOUCHIN,347,128,193,26
+Scott,12-Vienna 2,U.S. House,9,1,DEM,Timothy (Tim) PECK,166,54,82,30
+Scott,12-Vienna 2,U.S. House,9,1,LBT,Russell (Russ) BROOKSBANK,12,3,9,0
+Scott,12-Vienna 2,U.S. House,9,1,,Write-In,0,0,0,0
+Scott,12-Vienna 2,State House,66,1,REP,Zach PAYNE,319,111,185,23
+Scott,12-Vienna 2,State House,66,1,DEM,Jennifer DAVID,200,73,95,32
+Scott,12-Vienna 2,Circuit Court Clerk,,1,REP,Michelle SHELTON,314,112,186,16
+Scott,12-Vienna 2,Circuit Court Clerk,,1,DEM,Stacey Broady TURNER,223,80,103,40
+Scott,12-Vienna 2,County Recorder,,1,REP,Sarah M. HELTON,326,115,192,19
+Scott,12-Vienna 2,County Recorder,,1,DEM,Kristi RICHIE-JOHNSON,202,74,94,34
+Scott,12-Vienna 2,County Treasurer,,1,REP,Ryan GABBARD,260,98,153,9
+Scott,12-Vienna 2,County Treasurer,,1,DEM,Missy APPLEGATE,286,98,141,47
+Scott,12-Vienna 2,County Coroner,,1,REP,Bryton RICHEY,419,153,235,31
+Scott,12-Vienna 2,County Surveyor,,1,REP,Mark A. GARDNER,392,139,223,30
+Scott,12-Vienna 2,County Commissioner,1,1,REP,Randy JULIAN,281,104,167,10
+Scott,12-Vienna 2,County Commissioner,1,1,DEM,Donnie RICHIE,243,88,109,46
+Scott,12-Vienna 2,County Commissioner,2,1,REP,Adam BOMAR,242,85,143,14
+Scott,12-Vienna 2,County Commissioner,2,1,DEM,Larry BLEVINS,200,66,96,38
+Scott,12-Vienna 2,County Commissioner,2,1,,David G. BARRETT,86,35,48,3
+Scott,12-Vienna 2,County Council Member,At Large,3,REP,Justin CHEATHAM,180,63,107,10
+Scott,12-Vienna 2,County Council Member,At Large,3,REP,John HARDIN,177,59,105,13
+Scott,12-Vienna 2,County Council Member,At Large,3,REP,James RICHEY,188,70,105,13
+Scott,12-Vienna 2,County Council Member,At Large,3,DEM,Jim BOSWELL,174,50,91,33
+Scott,12-Vienna 2,County Council Member,At Large,3,DEM,John C. LIZENBY,253,82,128,43
+Scott,12-Vienna 2,County Council Member,At Large,3,DEM,Teresa Baker VANNARSDALL,183,65,87,31
+Scott,12-Vienna 2,Scott County SB,2 Finley Twp,1,,Terry Lee JONES,219,68,127,24
+Scott,12-Vienna 2,Scott County SB,2 Finley Twp,1,,Melissa Jean Woods,219,84,113,22
+Scott,12-Vienna 2,Scott County SB,2 Johnson Twp,1,,William Bj BEST,188,62,108,18
+Scott,12-Vienna 2,Scott County SB,2 Johnson Twp,1,,Wesley (Wes) COWAN,70,21,41,8
+Scott,12-Vienna 2,Scott County SB,2 Johnson Twp,1,,Dustin D. McINTOSH,170,63,90,17
+Scott,12-Vienna 2,Scott County SB,2 Vienna Twp,1,,Gene Ann SHAPINSKY SHAWLER,196,72,102,22
+Scott,12-Vienna 2,Scott County SB,2 Vienna Twp,1,,Rick ZOLLMAN,281,96,156,29
+Scott,12-Vienna 2,IN Supreme Court-Rush,,1,,Yes,287,97,165,25
+Scott,12-Vienna 2,IN Supreme Court-Rush,,1,,No,141,55,76,10
+Scott,12-Vienna 2,IN Supreme Court-Massa,,1,,Yes,269,86,160,23
+Scott,12-Vienna 2,IN Supreme Court-Massa,,1,,No,152,60,80,12
+Scott,12-Vienna 2,IN Supreme Court-Molter,,1,,Yes,281,91,167,23
+Scott,12-Vienna 2,IN Supreme Court-Molter,,1,,No,155,64,79,12
+Scott,12-Vienna 2,Court of Appeals Dist 1-Foley,,1,,Yes,283,92,168,23
+Scott,12-Vienna 2,Court of Appeals Dist 1-Foley,,1,,No,147,62,73,12
+Scott,12-Vienna 2,Court of Appeals Dist 4-Pyle III,,1,,Yes,283,89,170,24
+Scott,12-Vienna 2,Court of Appeals Dist 4-Pyle III,,1,,No,141,59,71,11
+Scott,12-Vienna 2,Straight Party,,,DEM,,48,,,
+Scott,12-Vienna 2,Straight Party,,,REP,,106,,,
+Scott,13-Vienna 3,Registered Voters,,,,,1028,,,
+Scott,13-Vienna 3,Ballots Cast,,,,,528,,,
+Scott,13-Vienna 3,Public Question-Const Amendment,,1,,Yes,232,89,132,11
+Scott,13-Vienna 3,Public Question-Const Amendment,,1,,No,217,76,122,19
+Scott,13-Vienna 3,President,,1,REP,Donald J. TRUMP / JD VANCE,368,141,212,15
+Scott,13-Vienna 3,President,,1,DEM,Kamala D. HARRIS / Tim WALZ,143,54,67,22
+Scott,13-Vienna 3,President,,1,LBT,Chase OLIVER / Mike terr MAAT,2,0,2,0
+Scott,13-Vienna 3,President,,1,WTP,Robert F. KENNEDY JR. / Nichole SHANAHAN,9,3,3,3
+Scott,13-Vienna 3,President,,1,,Write-In,2,0,2,0
+Scott,13-Vienna 3,U.S. Senate,,1,REP,Jim BANKS,295,110,170,15
+Scott,13-Vienna 3,U.S. Senate,,1,DEM,Valerie McCRAY,135,49,65,21
+Scott,13-Vienna 3,U.S. Senate,,1,LBT,Andrew HORNING,11,3,7,1
+Scott,13-Vienna 3,U.S. Senate,,1,,Write-In,0,0,0,0
+Scott,13-Vienna 3,Governor,,1,REP,Mike BRAUN / Micah BECKWITH,279,111,157,11
+Scott,13-Vienna 3,Governor,,1,DEM,Jennifer G. McCORMICK / Terry GOODIN,209,75,107,27
+Scott,13-Vienna 3,Governor,,1,LBT,Donald RAINWATER / Tonya HUDSON,20,6,14,0
+Scott,13-Vienna 3,Governor,,1,,Write-In,0,0,0,0
+Scott,13-Vienna 3,Attorney General,,1,REP,Todd ROKITA,292,116,163,13
+Scott,13-Vienna 3,Attorney General,,1,DEM,Destiny WELLS,143,51,69,23
+Scott,13-Vienna 3,U.S. House,9,1,REP,Erin HOUCHIN,332,124,190,18
+Scott,13-Vienna 3,U.S. House,9,1,DEM,Timothy (Tim) PECK,134,54,61,19
+Scott,13-Vienna 3,U.S. House,9,1,LBT,Russell (Russ) BROOKSBANK,14,4,10,0
+Scott,13-Vienna 3,U.S. House,9,1,,Write-In,0,0,0,0
+Scott,13-Vienna 3,State House,66,1,REP,Zach PAYNE,313,118,178,17
+Scott,13-Vienna 3,State House,66,1,DEM,Jennifer DAVID,159,59,79,21
+Scott,13-Vienna 3,Circuit Court Clerk,,1,REP,Michelle SHELTON,309,120,175,14
+Scott,13-Vienna 3,Circuit Court Clerk,,1,DEM,Stacey Broady TURNER,188,69,98,21
+Scott,13-Vienna 3,County Recorder,,1,REP,Sarah M. HELTON,310,117,180,13
+Scott,13-Vienna 3,County Recorder,,1,DEM,Kristi RICHIE-JOHNSON,174,65,86,23
+Scott,13-Vienna 3,County Treasurer,,1,REP,Ryan GABBARD,246,92,145,9
+Scott,13-Vienna 3,County Treasurer,,1,DEM,Missy APPLEGATE,251,93,128,30
+Scott,13-Vienna 3,County Coroner,,1,REP,Bryton RICHEY,392,149,219,24
+Scott,13-Vienna 3,County Surveyor,,1,REP,Mark A. GARDNER,368,136,209,23
+Scott,13-Vienna 3,County Commissioner,1,1,REP,Randy JULIAN,276,109,153,14
+Scott,13-Vienna 3,County Commissioner,1,1,DEM,Donnie RICHIE,198,71,102,25
+Scott,13-Vienna 3,County Commissioner,2,1,REP,Adam BOMAR,239,93,135,11
+Scott,13-Vienna 3,County Commissioner,2,1,DEM,Larry BLEVINS,166,57,83,26
+Scott,13-Vienna 3,County Commissioner,2,1,IND,David G. BARRETT,84,33,50,1
+Scott,13-Vienna 3,County Council Member,At Large,3,REP,Justin CHEATHAM,175,64,101,10
+Scott,13-Vienna 3,County Council Member,At Large,3,REP,John HARDIN,151,53,90,8
+Scott,13-Vienna 3,County Council Member,At Large,3,REP,James RICHEY,185,69,104,12
+Scott,13-Vienna 3,County Council Member,At Large,3,DEM,Jim BOSWELL,154,60,73,21
+Scott,13-Vienna 3,County Council Member,At Large,3,DEM,John C. LIZENBY,223,90,106,27
+Scott,13-Vienna 3,County Council Member,At Large,3,DEM,Teresa Baker VANNARSDALL,150,59,66,25
+Scott,13-Vienna 3,Scott County SB,2 Finley Twp,1,,Terry Lee JONES,176,58,104,14
+Scott,13-Vienna 3,Scott County SB,2 Finley Twp,1,,Melissa Jean Woods,211,81,112,18
+Scott,13-Vienna 3,Scott County SB,2 Johnson Twp,1,,William Bj BEST,162,64,86,12
+Scott,13-Vienna 3,Scott County SB,2 Johnson Twp,1,,Wesley (Wes) COWAN,66,22,39,5
+Scott,13-Vienna 3,Scott County SB,2 Johnson Twp,1,,Dustin D. McINTOSH,160,56,93,11
+Scott,13-Vienna 3,Scott County SB,2 Vienna Twp,1,,Gene Ann SHAPINSKY SHAWLER,169,67,91,11
+Scott,13-Vienna 3,Scott County SB,2 Vienna Twp,1,,Rick ZOLLMAN,269,97,152,20
+Scott,13-Vienna 3,IN Supreme Court-Rush,,1,,Yes,269,100,155,14
+Scott,13-Vienna 3,IN Supreme Court-Rush,,1,,No,126,43,71,12
+Scott,13-Vienna 3,IN Supreme Court-Massa,,1,,Yes,259,98,150,11
+Scott,13-Vienna 3,IN Supreme Court-Massa,,1,,No,137,47,76,14
+Scott,13-Vienna 3,IN Supreme Court-Molter,,1,,Yes,271,103,155,13
+Scott,13-Vienna 3,IN Supreme Court-Molter,,1,,No,131,47,73,11
+Scott,13-Vienna 3,Court of Appeals Dist 1-Foley,,1,,Yes,278,102,161,15
+Scott,13-Vienna 3,Court of Appeals Dist 1-Foley,,1,,No,122,43,70,9
+Scott,13-Vienna 3,Court of Appeals Dist 4-Pyle III,,1,,Yes,261,97,154,10
+Scott,13-Vienna 3,Court of Appeals Dist 4-Pyle III,,1,,No,137,47,76,14
+Scott,13-Vienna 3,Straight Party,,,DEM,,33,,,
+Scott,13-Vienna 3,Straight Party,,,REP,,103,,,
+Scott,14-Vienna 4,Registered Voters,,,,,1369,,,
+Scott,14-Vienna 4,Ballots Cast,,,,,735,,,
+Scott,14-Vienna 4,Public Question-Const Amendment,,1,,Yes,344,129,187,28
+Scott,14-Vienna 4,Public Question-Const Amendment,,1,,No,279,112,120,47
+Scott,14-Vienna 4,President,,1,REP,Donald J. TRUMP / JD VANCE,514,209,248,57
+Scott,14-Vienna 4,President,,1,DEM,Kamala D. HARRIS / Tim WALZ,203,78,80,45
+Scott,14-Vienna 4,President,,1,LBT,Chase OLIVER / Mike terr MAAT,5,3,2,0
+Scott,14-Vienna 4,President,,1,WTP,Robert F. KENNEDY JR. / Nichole SHANAHAN,4,0,1,3
+Scott,14-Vienna 4,President,,1,,Write-In,1,0,1,0
+Scott,14-Vienna 4,U.S. Senate,,1,REP,Jim BANKS,413,167,197,49
+Scott,14-Vienna 4,U.S. Senate,,1,DEM,Valerie McCRAY,198,75,81,42
+Scott,14-Vienna 4,U.S. Senate,,1,LBT,Andrew HORNING,19,5,13,1
+Scott,14-Vienna 4,U.S. Senate,,1,,Write-In,0,0,0,0
+Scott,14-Vienna 4,Governor,,1,REP,Mike BRAUN / Micah BECKWITH,391,167,187,37
+Scott,14-Vienna 4,Governor,,1,DEM,Jennifer G. McCORMICK / Terry GOODIN,290,111,121,58
+Scott,14-Vienna 4,Governor,,1,LBT,Donald RAINWATER / Tonya HUDSON,20,4,14,2
+Scott,14-Vienna 4,Governor,,1,,Write-In,0,0,0,0
+Scott,14-Vienna 4,Attorney General,,1,REP,Todd ROKITA,403,163,190,50
+Scott,14-Vienna 4,Attorney General,,1,DEM,Destiny WELLS,217,85,90,42
+Scott,14-Vienna 4,U.S. House,9,1,REP,Erin HOUCHIN,456,191,210,55
+Scott,14-Vienna 4,U.S. House,9,1,DEM,Timothy (Tim) PECK,186,70,77,39
+Scott,14-Vienna 4,U.S. House,9,1,LBT,Russell (Russ) BROOKSBANK,21,7,14,0
+Scott,14-Vienna 4,U.S. House,9,1,,Write-In,0,0,0,0
+Scott,14-Vienna 4,State House,66,1,REP,Zach PAYNE,441,184,206,51
+Scott,14-Vienna 4,State House,66,1,DEM,Jennifer DAVID,214,81,91,42
+Scott,14-Vienna 4,Circuit Court Clerk,,1,REP,Michelle SHELTON,399,163,190,46
+Scott,14-Vienna 4,Circuit Court Clerk,,1,DEM,Stacey Broady TURNER,281,113,119,49
+Scott,14-Vienna 4,County Recorder,,1,REP,Sarah M. HELTON,435,182,206,47
+Scott,14-Vienna 4,County Recorder,,1,DEM,Kristi RICHIE-JOHNSON,238,90,101,47
+Scott,14-Vienna 4,County Treasurer,,1,REP,Ryan GABBARD,342,142,159,41
+Scott,14-Vienna 4,County Treasurer,,1,DEM,Missy APPLEGATE,331,127,149,55
+Scott,14-Vienna 4,County Coroner,,1,REP,Bryton RICHEY,516,204,250,62
+Scott,14-Vienna 4,County Surveyor,,1,REP,Mark A. GARDNER,508,199,243,66
+Scott,14-Vienna 4,County Commissioner,1,1,REP,Randy JULIAN,383,149,192,42
+Scott,14-Vienna 4,County Commissioner,1,1,DEM,Donnie RICHIE,283,120,112,51
+Scott,14-Vienna 4,County Commissioner,2,1,REP,Adam BOMAR,309,124,150,35
+Scott,14-Vienna 4,County Commissioner,2,1,DEM,Larry BLEVINS,252,110,91,51
+Scott,14-Vienna 4,County Commissioner,2,1,IND,David G. BARRETT,107,37,65,5
+Scott,14-Vienna 4,County Council Member,At Large,3,REP,Justin CHEATHAM,263,103,130,30
+Scott,14-Vienna 4,County Council Member,At Large,3,REP,John HARDIN,235,97,104,34
+Scott,14-Vienna 4,County Council Member,At Large,3,REP,James RICHEY,260,93,127,40
+Scott,14-Vienna 4,County Council Member,At Large,3,DEM,Jim BOSWELL,191,74,84,33
+Scott,14-Vienna 4,County Council Member,At Large,3,DEM,John C. LIZENBY,306,116,126,64
+Scott,14-Vienna 4,County Council Member,At Large,3,DEM,Teresa Baker VANNARSDALL,212,83,86,43
+Scott,14-Vienna 4,Scott County SB,2 Finley Twp,1,,Terry Lee JONES,243,102,112,29
+Scott,14-Vienna 4,Scott County SB,2 Finley Twp,1,,Melissa Jean Woods,290,111,142,37
+Scott,14-Vienna 4,Scott County SB,2 Johnson Twp,1,,William Bj BEST,197,76,97,24
+Scott,14-Vienna 4,Scott County SB,2 Johnson Twp,1,,Wesley (Wes) COWAN,86,38,38,10
+Scott,14-Vienna 4,Scott County SB,2 Johnson Twp,1,,Dustin D. McINTOSH,229,82,116,31
+Scott,14-Vienna 4,Scott County SB,2 Vienna Twp,1,,Gene Ann SHAPINSKY SHAWLER,228,103,95,30
+Scott,14-Vienna 4,Scott County SB,2 Vienna Twp,1,,Rick ZOLLMAN,355,130,177,48
+Scott,14-Vienna 4,IN Supreme Court-Rush,,1,,Yes,393,148,200,45
+Scott,14-Vienna 4,IN Supreme Court-Rush,,1,,No,165,67,80,18
+Scott,14-Vienna 4,IN Supreme Court-Massa,,1,,Yes,363,133,192,38
+Scott,14-Vienna 4,IN Supreme Court-Massa,,1,,No,187,75,86,26
+Scott,14-Vienna 4,IN Supreme Court-Molter,,1,,Yes,392,151,198,43
+Scott,14-Vienna 4,IN Supreme Court-Molter,,1,,No,176,70,84,22
+Scott,14-Vienna 4,Court of Appeals Dist 1-Foley,,1,,Yes,387,150,191,46
+Scott,14-Vienna 4,Court of Appeals Dist 1-Foley,,1,,No,172,66,88,18
+Scott,14-Vienna 4,Court of Appeals Dist 4-Pyle III,,1,,Yes,375,147,186,42
+Scott,14-Vienna 4,Court of Appeals Dist 4-Pyle III,,1,,No,177,68,87,22
+Scott,14-Vienna 4,Straight Party,,,DEM,,54,,,
+Scott,14-Vienna 4,Straight Party,,,REP,,116,,,
+Scott,15-Vienna 5,Registered Voters,,,,,1487,,,
+Scott,15-Vienna 5,Ballots Cast,,,,,969,,,
+Scott,15-Vienna 5,Public Question-Const Amendment,,1,,Yes,425,148,243,34
+Scott,15-Vienna 5,Public Question-Const Amendment,,1,,No,404,146,195,63
+Scott,15-Vienna 5,President,,1,REP,Donald J. TRUMP / JD VANCE,688,248,371,69
+Scott,15-Vienna 5,President,,1,DEM,Kamala D. HARRIS / Tim WALZ,259,97,111,51
+Scott,15-Vienna 5,President,,1,LBT,Chase OLIVER / Mike terr MAAT,3,0,2,1
+Scott,15-Vienna 5,President,,1,WTP,Robert F. KENNEDY JR. / Nichole SHANAHAN,7,1,6,0
+Scott,15-Vienna 5,President,,1,,Write-In,1,1,0,0
+Scott,15-Vienna 5,U.S. Senate,,1,REP,Jim BANKS,563,204,290,69
+Scott,15-Vienna 5,U.S. Senate,,1,DEM,Valerie McCRAY,238,86,108,44
+Scott,15-Vienna 5,U.S. Senate,,1,LBT,Andrew HORNING,21,4,15,2
+Scott,15-Vienna 5,U.S. Senate,,1,,Write-In,1,0,1,0
+Scott,15-Vienna 5,Governor,,1,REP,Mike BRAUN / Micah BECKWITH,542,206,279,57
+Scott,15-Vienna 5,Governor,,1,DEM,Jennifer G. McCORMICK / Terry GOODIN,373,127,180,66
+Scott,15-Vienna 5,Governor,,1,LBT,Donald RAINWATER / Tonya HUDSON,37,11,25,1
+Scott,15-Vienna 5,Governor,,1,,Write-In,0,0,0,0
+Scott,15-Vienna 5,Attorney General,,1,REP,Todd ROKITA,577,218,288,71
+Scott,15-Vienna 5,Attorney General,,1,DEM,Destiny WELLS,257,93,118,46
+Scott,15-Vienna 5,U.S. House,9,1,REP,Erin HOUCHIN,640,230,335,75
+Scott,15-Vienna 5,U.S. House,9,1,DEM,Timothy (Tim) PECK,226,87,95,44
+Scott,15-Vienna 5,U.S. House,9,1,LBT,Russell (Russ) BROOKSBANK,27,3,22,2
+Scott,15-Vienna 5,U.S. House,9,1,,Write-In,1,1,0,0
+Scott,15-Vienna 5,State House,66,1,REP,Zach PAYNE,616,224,319,73
+Scott,15-Vienna 5,State House,66,1,DEM,Jennifer DAVID,272,95,127,50
+Scott,15-Vienna 5,Circuit Court Clerk,,1,REP,Michelle SHELTON,572,215,295,62
+Scott,15-Vienna 5,Circuit Court Clerk,,1,DEM,Stacey Broady TURNER,345,124,166,55
+Scott,15-Vienna 5,County Recorder,,1,REP,Sarah M. HELTON,609,219,325,65
+Scott,15-Vienna 5,County Recorder,,1,DEM,Kristi RICHIE-JOHNSON,297,114,129,54
+Scott,15-Vienna 5,County Treasurer,,1,REP,Ryan GABBARD,490,174,264,52
+Scott,15-Vienna 5,County Treasurer,,1,DEM,Missy APPLEGATE,435,163,202,70
+Scott,15-Vienna 5,County Coroner,,1,REP,Bryton RICHEY,719,252,380,87
+Scott,15-Vienna 5,County Surveyor,,1,REP,Mark A. GARDNER,723,253,376,94
+Scott,15-Vienna 5,County Commissioner,1,1,REP,Randy JULIAN,536,187,282,67
+Scott,15-Vienna 5,County Commissioner,1,1,DEM,Donnie RICHIE,349,128,169,52
+Scott,15-Vienna 5,County Commissioner,2,1,REP,Adam BOMAR,437,164,219,54
+Scott,15-Vienna 5,County Commissioner,2,1,DEM,Larry BLEVINS,304,114,128,62
+Scott,15-Vienna 5,County Commissioner,2,1,,David G. BARRETT,162,47,110,5
+Scott,15-Vienna 5,County Council Member,At Large,3,REP,Justin CHEATHAM,344,113,196,35
+Scott,15-Vienna 5,County Council Member,At Large,3,REP,John HARDIN,312,119,155,38
+Scott,15-Vienna 5,County Council Member,At Large,3,REP,James RICHEY,414,146,216,52
+Scott,15-Vienna 5,County Council Member,At Large,3,DEM,Jim BOSWELL,290,96,136,58
+Scott,15-Vienna 5,County Council Member,At Large,3,DEM,John C. LIZENBY,389,135,188,66
+Scott,15-Vienna 5,County Council Member,At Large,3,DEM,Teresa Baker VANNARSDALL,267,97,123,47
+Scott,15-Vienna 5,Scott County SB,2 Finley Twp,1,,Terry Lee JONES,329,114,168,47
+Scott,15-Vienna 5,Scott County SB,2 Finley Twp,1,,Melissa Jean Woods,411,145,223,43
+Scott,15-Vienna 5,Scott County SB,2 Johnson Twp,1,,William Bj BEST,282,103,144,35
+Scott,15-Vienna 5,Scott County SB,2 Johnson Twp,1,,Wesley (Wes) COWAN,105,39,53,13
+Scott,15-Vienna 5,Scott County SB,2 Johnson Twp,1,,Dustin D. McINTOSH,317,104,180,33
+Scott,15-Vienna 5,Scott County SB,2 Vienna Twp,1,,Gene Ann SHAPINSKY SHAWLER,318,114,171,33
+Scott,15-Vienna 5,Scott County SB,2 Vienna Twp,1,,Rick ZOLLMAN,475,168,240,67
+Scott,15-Vienna 5,IN Supreme Court-Rush,,1,,Yes,484,171,259,54
+Scott,15-Vienna 5,IN Supreme Court-Rush,,1,,No,239,93,125,21
+Scott,15-Vienna 5,IN Supreme Court-Massa,,1,,Yes,458,165,245,48
+Scott,15-Vienna 5,IN Supreme Court-Massa,,1,,No,255,99,133,23
+Scott,15-Vienna 5,IN Supreme Court-Molter,,1,,Yes,489,177,264,48
+Scott,15-Vienna 5,IN Supreme Court-Molter,,1,,No,237,94,122,21
+Scott,15-Vienna 5,Court of Appeals Dist 1-Foley,,1,,Yes,475,175,255,45
+Scott,15-Vienna 5,Court of Appeals Dist 1-Foley,,1,,No,240,91,124,25
+Scott,15-Vienna 5,Court of Appeals Dist 4-Pyle III,,1,,Yes,477,176,253,48
+Scott,15-Vienna 5,Court of Appeals Dist 4-Pyle III,,1,,No,235,88,124,23
+Scott,15-Vienna 5,Straight Party,,,DEM,,41,,,
+Scott,15-Vienna 5,Straight Party,,,REP,,162,,,
+Scott,16-Vienna 6,Registered Voters,,,,,1038,,,
+Scott,16-Vienna 6,Ballots Cast,,,,,729,,,
+Scott,16-Vienna 6,Public Question-Const Amendment,,1,,Yes,329,135,177,17
+Scott,16-Vienna 6,Public Question-Const Amendment,,1,,No,290,143,114,33
+Scott,16-Vienna 6,President,,1,REP,Donald J. TRUMP / JD VANCE,522,242,258,22
+Scott,16-Vienna 6,President,,1,DEM,Kamala D. HARRIS / Tim WALZ,182,91,53,38
+Scott,16-Vienna 6,President,,1,LBT,Chase OLIVER / Mike terr MAAT,2,1,1,0
+Scott,16-Vienna 6,President,,1,WTP,Robert F. KENNEDY JR. / Nichole SHANAHAN,13,5,8,0
+Scott,16-Vienna 6,President,,1,,Write-In,4,0,3,1
+Scott,16-Vienna 6,U.S. Senate,,1,REP,Jim BANKS,447,206,216,25
+Scott,16-Vienna 6,U.S. Senate,,1,DEM,Valerie McCRAY,166,86,46,34
+Scott,16-Vienna 6,U.S. Senate,,1,LBT,Andrew HORNING,19,5,13,1
+Scott,16-Vienna 6,U.S. Senate,,1,,Write-In,0,0,0,0
+Scott,16-Vienna 6,Governor,,1,REP,Mike BRAUN / Micah BECKWITH,403,194,192,17
+Scott,16-Vienna 6,Governor,,1,DEM,Jennifer G. McCORMICK / Terry GOODIN,284,123,115,46
+Scott,16-Vienna 6,Governor,,1,LBT,Donald RAINWATER / Tonya HUDSON,15,8,6,1
+Scott,16-Vienna 6,Governor,,1,,Write-In,0,0,0,0
+Scott,16-Vienna 6,Attorney General,,1,REP,Todd ROKITA,446,205,216,25
+Scott,16-Vienna 6,Attorney General,,1,DEM,Destiny WELLS,181,88,59,34
+Scott,16-Vienna 6,U.S. House,9,1,REP,Erin HOUCHIN,490,220,243,27
+Scott,16-Vienna 6,U.S. House,9,1,DEM,Timothy (Tim) PECK,174,90,50,34
+Scott,16-Vienna 6,U.S. House,9,1,LBT,Russell (Russ) BROOKSBANK,11,5,5,1
+Scott,16-Vienna 6,U.S. House,9,1,,Write-In,0,0,0,0
+Scott,16-Vienna 6,State House,66,1,REP,Zach PAYNE,462,210,226,26
+Scott,16-Vienna 6,State House,66,1,DEM,Jennifer DAVID,204,100,68,36
+Scott,16-Vienna 6,Circuit Court Clerk,,1,REP,Michelle SHELTON,428,197,214,17
+Scott,16-Vienna 6,Circuit Court Clerk,,1,DEM,Stacey Broady TURNER,265,127,96,42
+Scott,16-Vienna 6,County Recorder,,1,REP,Sarah M. HELTON,462,217,224,21
+Scott,16-Vienna 6,County Recorder,,1,DEM,Kristi RICHIE-JOHNSON,211,99,74,38
+Scott,16-Vienna 6,County Treasurer,,1,REP,Ryan GABBARD,393,187,190,16
+Scott,16-Vienna 6,County Treasurer,,1,DEM,Missy APPLEGATE,303,137,120,46
+Scott,16-Vienna 6,County Coroner,,1,REP,Bryton RICHEY,558,259,262,37
+Scott,16-Vienna 6,County Surveyor,,1,REP,Mark A. GARDNER,549,250,258,41
+Scott,16-Vienna 6,County Commissioner,1,1,REP,Randy JULIAN,401,186,196,19
+Scott,16-Vienna 6,County Commissioner,1,1,DEM,Donnie RICHIE,262,127,93,42
+Scott,16-Vienna 6,County Commissioner,2,1,REP,Adam BOMAR,350,168,163,19
+Scott,16-Vienna 6,County Commissioner,2,1,DEM,Larry BLEVINS,212,96,79,37
+Scott,16-Vienna 6,County Commissioner,2,1,IND,David G. BARRETT,110,50,56,4
+Scott,16-Vienna 6,County Council Member,At Large,3,REP,Justin CHEATHAM,278,120,139,19
+Scott,16-Vienna 6,County Council Member,At Large,3,REP,John HARDIN,270,119,133,18
+Scott,16-Vienna 6,County Council Member,At Large,3,REP,James RICHEY,333,147,167,19
+Scott,16-Vienna 6,County Council Member,At Large,3,DEM,Jim BOSWELL,194,88,76,30
+Scott,16-Vienna 6,County Council Member,At Large,3,DEM,John C. LIZENBY,281,125,111,45
+Scott,16-Vienna 6,County Council Member,At Large,3,DEM,Teresa Baker VANNARSDALL,213,98,80,35
+Scott,16-Vienna 6,Scott County SB,2 Finley Twp,1,,Terry Lee JONES,273,121,128,24
+Scott,16-Vienna 6,Scott County SB,2 Finley Twp,1,,Melissa Jean Woods,286,127,131,28
+Scott,16-Vienna 6,Scott County SB,2 Johnson Twp,1,,William Bj BEST,224,103,100,21
+Scott,16-Vienna 6,Scott County SB,2 Johnson Twp,1,,Wesley (Wes) COWAN,77,38,31,8
+Scott,16-Vienna 6,Scott County SB,2 Johnson Twp,1,,Dustin D. McINTOSH,217,82,114,21
+Scott,16-Vienna 6,Scott County SB,2 Vienna Twp,1,,Gene Ann SHAPINSKY SHAWLER,271,126,117,28
+Scott,16-Vienna 6,Scott County SB,2 Vienna Twp,1,,Rick ZOLLMAN,334,141,158,35
+Scott,16-Vienna 6,IN Supreme Court-Rush,,1,,Yes,366,159,185,22
+Scott,16-Vienna 6,IN Supreme Court-Rush,,1,,No,177,82,68,27
+Scott,16-Vienna 6,IN Supreme Court-Massa,,1,,Yes,355,159,174,22
+Scott,16-Vienna 6,IN Supreme Court-Massa,,1,,No,180,81,72,27
+Scott,16-Vienna 6,IN Supreme Court-Molter,,1,,Yes,362,159,185,18
+Scott,16-Vienna 6,IN Supreme Court-Molter,,1,,No,182,86,66,30
+Scott,16-Vienna 6,Court of Appeals Dist 1-Foley,,1,,Yes,370,160,186,24
+Scott,16-Vienna 6,Court of Appeals Dist 1-Foley,,1,,No,168,81,63,24
+Scott,16-Vienna 6,Court of Appeals Dist 4-Pyle III,,1,,Yes,356,152,180,24
+Scott,16-Vienna 6,Court of Appeals Dist 4-Pyle III,,1,,No,182,89,69,24
+Scott,16-Vienna 6,Straight Party,,,DEM,,39,,,
+Scott,16-Vienna 6,Straight Party,,,REP,,141,,,

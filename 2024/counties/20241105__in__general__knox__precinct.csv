@@ -1,777 +1,1397 @@
-county,precinct,office,district,seats,party,candidate,votes
-Knox,Bicknell 1,President,,1,,Write-In,0
-Knox,Bicknell 1,President,,1,LBT,Chase OLIVER / Mike Ter MAAT,2
-Knox,Bicknell 1,President,,1,REP,Donald J. TRUMP / JD Vance,205
-Knox,Bicknell 1,President,,1,DEM,Kamala D. HARRIS / Tim Walz,61
-Knox,Bicknell 1,President,,1,WTP,Robert F. KENNEDY JR. / Nicole SHANAHAN,4
-Knox,Bicknell 1,U.S. Senate,,1,LBT,Andrew HORNING,4
-Knox,Bicknell 1,U.S. Senate,,1,,Write-In,0
-Knox,Bicknell 1,U.S. Senate,,1,REP,Jim BANKS,192
-Knox,Bicknell 1,U.S. Senate,,1,DEM,Valerie McCRAY,61
-Knox,Bicknell 1,U.S. House,8,1,DEM,Erik HURT,53
-Knox,Bicknell 1,U.S. House,8,1,LBT,K Richard FITZLAFF,8
-Knox,Bicknell 1,U.S. House,8,1,REP,Mark MESSMER,198
-Knox,Bicknell 1,Governor,,1,,Write-In,0
-Knox,Bicknell 1,Governor,,1,LBT,Donald RAINWATER / Tonya  HUDSON,13
-Knox,Bicknell 1,Governor,,1,DEM,Jennifer G. McCORMICK / Terry  GOODIN,71
-Knox,Bicknell 1,Governor,,1,REP,Mike BRAUN / Micah  BECKWITH,176
-Knox,Bicknell 1,Attorney General,,1,DEM,Destiny WELLS,69
-Knox,Bicknell 1,Attorney General,,1,REP,Todd ROKITA,188
-Knox,Bicknell 1,State House,45,1,REP,Bruce BORDERS,215
-Knox,Bicknell 1,County Commissioner,1,1,REP,Thomas (TJ) BRINK,225
-Knox,Bicknell 1,County Commissioner,2,1,REP,Timothy J ELLERMAN II,231
-Knox,Bicknell 1,County Coroner,,1,REP,Joe J MILLSPAUGH,233
-Knox,Bicknell 1,County Treasurer,,1,REP,Cendy L JOSLIN,236
-Knox,Bicknell 1,County Council,At Large,3,REP,Dan REITMEYER,108
-Knox,Bicknell 1,County Council,At Large,3,REP,Jon HILLENBRAND,146
-Knox,Bicknell 1,County Council,At Large,3,REP,Kevin L MEYER,117
-Knox,Bicknell 1,North Knox School Board,C,1,,Write-In,4
-Knox,Bicknell 1,North Knox School Board,E,1,,Write-In,2
-Knox,Bicknell 2,President,,1,,Write-In,0
-Knox,Bicknell 2,President,,1,LBT,Chase OLIVER / Mike Ter MAAT,3
-Knox,Bicknell 2,President,,1,REP,Donald J. TRUMP / JD Vance,238
-Knox,Bicknell 2,President,,1,DEM,Kamala D. HARRIS / Tim Walz,57
-Knox,Bicknell 2,President,,1,WTP,Robert F. KENNEDY JR. / Nicole SHANAHAN,1
-Knox,Bicknell 2,U.S. Senate,,1,LBT,Andrew HORNING,10
-Knox,Bicknell 2,U.S. Senate,,1,,Write-In,0
-Knox,Bicknell 2,U.S. Senate,,1,REP,Jim BANKS,207
-Knox,Bicknell 2,U.S. Senate,,1,DEM,Valerie McCRAY,60
-Knox,Bicknell 2,U.S. House,8,1,DEM,Erik HURT,50
-Knox,Bicknell 2,U.S. House,8,1,LBT,K Richard FITZLAFF,9
-Knox,Bicknell 2,U.S. House,8,1,REP,Mark MESSMER,222
-Knox,Bicknell 2,Governor,,1,,Write-In,0
-Knox,Bicknell 2,Governor,,1,LBT,Donald RAINWATER / Tonya  HUDSON,21
-Knox,Bicknell 2,Governor,,1,DEM,Jennifer G. McCORMICK / Terry  GOODIN,60
-Knox,Bicknell 2,Governor,,1,REP,Mike BRAUN / Micah  BECKWITH,199
-Knox,Bicknell 2,Attorney General,,1,DEM,Destiny WELLS,67
-Knox,Bicknell 2,Attorney General,,1,REP,Todd ROKITA,214
-Knox,Bicknell 2,State House,45,1,REP,Bruce BORDERS,238
-Knox,Bicknell 2,County Commissioner,1,1,REP,Thomas (TJ) BRINK,245
-Knox,Bicknell 2,County Commissioner,2,1,REP,Timothy J ELLERMAN II,248
-Knox,Bicknell 2,County Coroner,,1,REP,Joe J MILLSPAUGH,248
-Knox,Bicknell 2,County Treasurer,,1,REP,Cendy L JOSLIN,256
-Knox,Bicknell 2,County Council,At Large,3,REP,Dan REITMEYER,123
-Knox,Bicknell 2,County Council,At Large,3,REP,Jon HILLENBRAND,175
-Knox,Bicknell 2,County Council,At Large,3,REP,Kevin L MEYER,131
-Knox,Bicknell 2,North Knox School Board,C,1,,Write-In,1
-Knox,Bicknell 2,North Knox School Board,E,1,,Write-In,2
-Knox,Bicknell 3,President,,1,,Write-In,0
-Knox,Bicknell 3,President,,1,LBT,Chase OLIVER / Mike Ter MAAT,3
-Knox,Bicknell 3,President,,1,REP,Donald J. TRUMP / JD Vance,197
-Knox,Bicknell 3,President,,1,DEM,Kamala D. HARRIS / Tim Walz,56
-Knox,Bicknell 3,President,,1,WTP,Robert F. KENNEDY JR. / Nicole SHANAHAN,6
-Knox,Bicknell 3,U.S. Senate,,1,LBT,Andrew HORNING,6
-Knox,Bicknell 3,U.S. Senate,,1,,Write-In,0
-Knox,Bicknell 3,U.S. Senate,,1,REP,Jim BANKS,177
-Knox,Bicknell 3,U.S. Senate,,1,DEM,Valerie McCRAY,63
-Knox,Bicknell 3,U.S. House,8,1,DEM,Erik HURT,53
-Knox,Bicknell 3,U.S. House,8,1,LBT,K Richard FITZLAFF,5
-Knox,Bicknell 3,U.S. House,8,1,REP,Mark MESSMER,196
-Knox,Bicknell 3,Governor,,1,,Write-In,0
-Knox,Bicknell 3,Governor,,1,LBT,Donald RAINWATER / Tonya  HUDSON,9
-Knox,Bicknell 3,Governor,,1,DEM,Jennifer G. McCORMICK / Terry  GOODIN,69
-Knox,Bicknell 3,Governor,,1,REP,Mike BRAUN / Micah  BECKWITH,169
-Knox,Bicknell 3,Attorney General,,1,DEM,Destiny WELLS,66
-Knox,Bicknell 3,Attorney General,,1,REP,Todd ROKITA,185
-Knox,Bicknell 3,State House,45,1,REP,Bruce BORDERS,207
-Knox,Bicknell 3,County Commissioner,1,1,REP,Thomas (TJ) BRINK,203
-Knox,Bicknell 3,County Commissioner,2,1,REP,Timothy J ELLERMAN II,212
-Knox,Bicknell 3,County Coroner,,1,REP,Joe J MILLSPAUGH,210
-Knox,Bicknell 3,County Treasurer,,1,REP,Cendy L JOSLIN,219
-Knox,Bicknell 3,County Council,At Large,3,REP,Dan REITMEYER,109
-Knox,Bicknell 3,County Council,At Large,3,REP,Jon HILLENBRAND,139
-Knox,Bicknell 3,County Council,At Large,3,REP,Kevin L MEYER,110
-Knox,Bicknell 3,North Knox School Board,C,1,,Write-In,0
-Knox,Bicknell 3,North Knox School Board,E,1,,Write-In,0
-Knox,Bicknell 4,President,,1,,Write-In,0
-Knox,Bicknell 4,President,,1,LBT,Chase OLIVER / Mike Ter MAAT,0
-Knox,Bicknell 4,President,,1,REP,Donald J. TRUMP / JD Vance,106
-Knox,Bicknell 4,President,,1,DEM,Kamala D. HARRIS / Tim Walz,30
-Knox,Bicknell 4,President,,1,WTP,Robert F. KENNEDY JR. / Nicole SHANAHAN,0
-Knox,Bicknell 4,U.S. Senate,,1,LBT,Andrew HORNING,7
-Knox,Bicknell 4,U.S. Senate,,1,,Write-In,0
-Knox,Bicknell 4,U.S. Senate,,1,REP,Jim BANKS,93
-Knox,Bicknell 4,U.S. Senate,,1,DEM,Valerie McCRAY,19
-Knox,Bicknell 4,U.S. House,8,1,DEM,Erik HURT,25
-Knox,Bicknell 4,U.S. House,8,1,LBT,K Richard FITZLAFF,5
-Knox,Bicknell 4,U.S. House,8,1,REP,Mark MESSMER,93
-Knox,Bicknell 4,Governor,,1,,Write-In,0
-Knox,Bicknell 4,Governor,,1,LBT,Donald RAINWATER / Tonya  HUDSON,5
-Knox,Bicknell 4,Governor,,1,DEM,Jennifer G. McCORMICK / Terry  GOODIN,23
-Knox,Bicknell 4,Governor,,1,REP,Mike BRAUN / Micah  BECKWITH,92
-Knox,Bicknell 4,Attorney General,,1,DEM,Destiny WELLS,27
-Knox,Bicknell 4,Attorney General,,1,REP,Todd ROKITA,98
-Knox,Bicknell 4,State House,45,1,REP,Bruce BORDERS,111
-Knox,Bicknell 4,County Commissioner,1,1,REP,Thomas (TJ) BRINK,109
-Knox,Bicknell 4,County Commissioner,2,1,REP,Timothy J ELLERMAN II,113
-Knox,Bicknell 4,County Coroner,,1,REP,Joe J MILLSPAUGH,112
-Knox,Bicknell 4,County Treasurer,,1,REP,Cendy L JOSLIN,120
-Knox,Bicknell 4,County Council,At Large,3,REP,Dan REITMEYER,54
-Knox,Bicknell 4,County Council,At Large,3,REP,Jon HILLENBRAND,68
-Knox,Bicknell 4,County Council,At Large,3,REP,Kevin L MEYER,54
-Knox,Bicknell 4,North Knox School Board,C,1,,Write-In,0
-Knox,Bicknell 4,North Knox School Board,E,1,,Write-In,0
-Knox,Busseron,President,,1,,Write-In,0
-Knox,Busseron,President,,1,LBT,Chase OLIVER / Mike Ter MAAT,4
-Knox,Busseron,President,,1,REP,Donald J. TRUMP / JD Vance,445
-Knox,Busseron,President,,1,DEM,Kamala D. HARRIS / Tim Walz,98
-Knox,Busseron,President,,1,WTP,Robert F. KENNEDY JR. / Nicole SHANAHAN,9
-Knox,Busseron,U.S. Senate,,1,LBT,Andrew HORNING,11
-Knox,Busseron,U.S. Senate,,1,,Write-In,0
-Knox,Busseron,U.S. Senate,,1,REP,Jim BANKS,393
-Knox,Busseron,U.S. Senate,,1,DEM,Valerie McCRAY,106
-Knox,Busseron,U.S. House,8,1,DEM,Erik HURT,113
-Knox,Busseron,U.S. House,8,1,LBT,K Richard FITZLAFF,11
-Knox,Busseron,U.S. House,8,1,REP,Mark MESSMER,398
-Knox,Busseron,Governor,,1,,Write-In,0
-Knox,Busseron,Governor,,1,LBT,Donald RAINWATER / Tonya  HUDSON,23
-Knox,Busseron,Governor,,1,DEM,Jennifer G. McCORMICK / Terry  GOODIN,113
-Knox,Busseron,Governor,,1,REP,Mike BRAUN / Micah  BECKWITH,380
-Knox,Busseron,Attorney General,,1,DEM,Destiny WELLS,109
-Knox,Busseron,Attorney General,,1,REP,Todd ROKITA,403
-Knox,Busseron,State House,45,1,REP,Bruce BORDERS,438
-Knox,Busseron,County Commissioner,1,1,REP,Thomas (TJ) BRINK,450
-Knox,Busseron,County Commissioner,2,1,REP,Timothy J ELLERMAN II,451
-Knox,Busseron,County Coroner,,1,REP,Joe J MILLSPAUGH,456
-Knox,Busseron,County Treasurer,,1,REP,Cendy L JOSLIN,470
-Knox,Busseron,County Council,At Large,3,REP,Dan REITMEYER,232
-Knox,Busseron,County Council,At Large,3,REP,Jon HILLENBRAND,287
-Knox,Busseron,County Council,At Large,3,REP,Kevin L MEYER,247
-Knox,Busseron,North Knox School Board,C,1,,Write-In,1
-Knox,Busseron,North Knox School Board,E,1,,Write-In,1
-Knox,Decker,President,,1,,Write-In,0
-Knox,Decker,President,,1,LBT,Chase OLIVER / Mike Ter MAAT,0
-Knox,Decker,President,,1,REP,Donald J. TRUMP / JD Vance,90
-Knox,Decker,President,,1,DEM,Kamala D. HARRIS / Tim Walz,21
-Knox,Decker,President,,1,WTP,Robert F. KENNEDY JR. / Nicole SHANAHAN,0
-Knox,Decker,U.S. Senate,,1,LBT,Andrew HORNING,2
-Knox,Decker,U.S. Senate,,1,,Write-In,0
-Knox,Decker,U.S. Senate,,1,REP,Jim BANKS,80
-Knox,Decker,U.S. Senate,,1,DEM,Valerie McCRAY,25
-Knox,Decker,U.S. House,8,1,DEM,Erik HURT,21
-Knox,Decker,U.S. House,8,1,LBT,K Richard FITZLAFF,3
-Knox,Decker,U.S. House,8,1,REP,Mark MESSMER,85
-Knox,Decker,Governor,,1,,Write-In,0
-Knox,Decker,Governor,,1,LBT,Donald RAINWATER / Tonya  HUDSON,6
-Knox,Decker,Governor,,1,DEM,Jennifer G. McCORMICK / Terry  GOODIN,25
-Knox,Decker,Governor,,1,REP,Mike BRAUN / Micah  BECKWITH,79
-Knox,Decker,Attorney General,,1,DEM,Destiny WELLS,27
-Knox,Decker,Attorney General,,1,REP,Todd ROKITA,81
-Knox,Decker,State House,64,1,REP,Matt HOSTETTLER,91
-Knox,Decker,County Commissioner,1,1,REP,Thomas (TJ) BRINK,88
-Knox,Decker,County Commissioner,2,1,REP,Timothy J ELLERMAN II,81
-Knox,Decker,County Coroner,,1,REP,Joe J MILLSPAUGH,89
-Knox,Decker,County Treasurer,,1,REP,Cendy L JOSLIN,89
-Knox,Decker,County Council,At Large,3,REP,Dan REITMEYER,54
-Knox,Decker,County Council,At Large,3,REP,Jon HILLENBRAND,58
-Knox,Decker,County Council,At Large,3,REP,Kevin L MEYER,63
-Knox,Decker,South Knox School Board,B,1,NP,Jason C ELLERMAN,82
-Knox,Decker,South Knox School Board,C,1,NP,John  CARNAHAN,65
-Knox,Decker,South Knox School Board,C,1,NP,Michael EDWARDS,30
-Knox,Decker,South Knox School Board,E,1,NP,Alicia (Bunny) HOUCHIN,71
-Knox,Harrison,President,,1,,Write-In,0
-Knox,Harrison,President,,1,LBT,Chase OLIVER / Mike Ter MAAT,4
-Knox,Harrison,President,,1,REP,Donald J. TRUMP / JD Vance,862
-Knox,Harrison,President,,1,DEM,Kamala D. HARRIS / Tim Walz,165
-Knox,Harrison,President,,1,WTP,Robert F. KENNEDY JR. / Nicole SHANAHAN,12
-Knox,Harrison,U.S. Senate,,1,LBT,Andrew HORNING,23
-Knox,Harrison,U.S. Senate,,1,,Write-In,0
-Knox,Harrison,U.S. Senate,,1,REP,Jim BANKS,781
-Knox,Harrison,U.S. Senate,,1,DEM,Valerie McCRAY,165
-Knox,Harrison,U.S. House,8,1,DEM,Erik HURT,151
-Knox,Harrison,U.S. House,8,1,LBT,K Richard FITZLAFF,14
-Knox,Harrison,U.S. House,8,1,REP,Mark MESSMER,830
-Knox,Harrison,Governor,,1,,Write-In,0
-Knox,Harrison,Governor,,1,LBT,Donald RAINWATER / Tonya  HUDSON,38
-Knox,Harrison,Governor,,1,DEM,Jennifer G. McCORMICK / Terry  GOODIN,185
-Knox,Harrison,Governor,,1,REP,Mike BRAUN / Micah  BECKWITH,775
-Knox,Harrison,Attorney General,,1,DEM,Destiny WELLS,181
-Knox,Harrison,Attorney General,,1,REP,Todd ROKITA,797
-Knox,Harrison,State House,64,1,REP,Matt HOSTETTLER,880
-Knox,Harrison,County Commissioner,1,1,REP,Thomas (TJ) BRINK,846
-Knox,Harrison,County Commissioner,2,1,REP,Timothy J ELLERMAN II,809
-Knox,Harrison,County Coroner,,1,REP,Joe J MILLSPAUGH,875
-Knox,Harrison,County Treasurer,,1,REP,Cendy L JOSLIN,879
-Knox,Harrison,County Council,At Large,3,REP,Dan REITMEYER,515
-Knox,Harrison,County Council,At Large,3,REP,Jon HILLENBRAND,556
-Knox,Harrison,County Council,At Large,3,REP,Kevin L MEYER,688
-Knox,Harrison,South Knox School Board,B,1,NP,Jason C ELLERMAN,698
-Knox,Harrison,South Knox School Board,C,1,NP,John  CARNAHAN,659
-Knox,Harrison,South Knox School Board,C,1,NP,Michael EDWARDS,297
-Knox,Harrison,South Knox School Board,E,1,NP,Alicia (Bunny) HOUCHIN,747
-Knox,Johnson,President,,1,,Write-In,0
-Knox,Johnson,President,,1,LBT,Chase OLIVER / Mike Ter MAAT,3
-Knox,Johnson,President,,1,REP,Donald J. TRUMP / JD Vance,539
-Knox,Johnson,President,,1,DEM,Kamala D. HARRIS / Tim Walz,115
-Knox,Johnson,President,,1,WTP,Robert F. KENNEDY JR. / Nicole SHANAHAN,10
-Knox,Johnson,U.S. Senate,,1,LBT,Andrew HORNING,13
-Knox,Johnson,U.S. Senate,,1,,Write-In,0
-Knox,Johnson,U.S. Senate,,1,REP,Jim BANKS,478
-Knox,Johnson,U.S. Senate,,1,DEM,Valerie McCRAY,124
-Knox,Johnson,U.S. House,8,1,DEM,Erik HURT,106
-Knox,Johnson,U.S. House,8,1,LBT,K Richard FITZLAFF,13
-Knox,Johnson,U.S. House,8,1,REP,Mark MESSMER,525
-Knox,Johnson,Governor,,1,,Write-In,0
-Knox,Johnson,Governor,,1,LBT,Donald RAINWATER / Tonya  HUDSON,27
-Knox,Johnson,Governor,,1,DEM,Jennifer G. McCORMICK / Terry  GOODIN,134
-Knox,Johnson,Governor,,1,REP,Mike BRAUN / Micah  BECKWITH,473
-Knox,Johnson,Attorney General,,1,DEM,Destiny WELLS,135
-Knox,Johnson,Attorney General,,1,REP,Todd ROKITA,488
-Knox,Johnson,State House,64,1,REP,Matt HOSTETTLER,555
-Knox,Johnson,County Commissioner,1,1,REP,Thomas (TJ) BRINK,507
-Knox,Johnson,County Commissioner,2,1,REP,Timothy J ELLERMAN II,506
-Knox,Johnson,County Coroner,,1,REP,Joe J MILLSPAUGH,531
-Knox,Johnson,County Treasurer,,1,REP,Cendy L JOSLIN,544
-Knox,Johnson,County Council,At Large,3,REP,Dan REITMEYER,334
-Knox,Johnson,County Council,At Large,3,REP,Jon HILLENBRAND,368
-Knox,Johnson,County Council,At Large,3,REP,Kevin L MEYER,412
-Knox,Johnson,South Knox School Board,B,1,NP,Jason C ELLERMAN,486
-Knox,Johnson,South Knox School Board,C,1,NP,John  CARNAHAN,415
-Knox,Johnson,South Knox School Board,C,1,NP,Michael EDWARDS,170
-Knox,Johnson,South Knox School Board,E,1,NP,Alicia (Bunny) HOUCHIN,469
-Knox,Palmyra,President,,1,,Write-In,0
-Knox,Palmyra,President,,1,LBT,Chase OLIVER / Mike Ter MAAT,2
-Knox,Palmyra,President,,1,REP,Donald J. TRUMP / JD Vance,706
-Knox,Palmyra,President,,1,DEM,Kamala D. HARRIS / Tim Walz,169
-Knox,Palmyra,President,,1,WTP,Robert F. KENNEDY JR. / Nicole SHANAHAN,8
-Knox,Palmyra,U.S. Senate,,1,LBT,Andrew HORNING,16
-Knox,Palmyra,U.S. Senate,,1,,Write-In,0
-Knox,Palmyra,U.S. Senate,,1,REP,Jim BANKS,629
-Knox,Palmyra,U.S. Senate,,1,DEM,Valerie McCRAY,171
-Knox,Palmyra,U.S. House,8,1,DEM,Erik HURT,157
-Knox,Palmyra,U.S. House,8,1,LBT,K Richard FITZLAFF,17
-Knox,Palmyra,U.S. House,8,1,REP,Mark MESSMER,674
-Knox,Palmyra,Governor,,1,,Write-In,0
-Knox,Palmyra,Governor,,1,LBT,Donald RAINWATER / Tonya  HUDSON,37
-Knox,Palmyra,Governor,,1,DEM,Jennifer G. McCORMICK / Terry  GOODIN,200
-Knox,Palmyra,Governor,,1,REP,Mike BRAUN / Micah  BECKWITH,600
-Knox,Palmyra,Attorney General,,1,DEM,Destiny WELLS,179
-Knox,Palmyra,Attorney General,,1,REP,Todd ROKITA,639
-Knox,Palmyra,State House,64,1,REP,Matt HOSTETTLER,715
-Knox,Palmyra,County Commissioner,1,1,REP,Thomas (TJ) BRINK,698
-Knox,Palmyra,County Commissioner,2,1,REP,Timothy J ELLERMAN II,682
-Knox,Palmyra,County Coroner,,1,REP,Joe J MILLSPAUGH,720
-Knox,Palmyra,County Treasurer,,1,REP,Cendy L JOSLIN,729
-Knox,Palmyra,County Council,At Large,3,REP,Dan REITMEYER,452
-Knox,Palmyra,County Council,At Large,3,REP,Jon HILLENBRAND,509
-Knox,Palmyra,County Council,At Large,3,REP,Kevin L MEYER,533
-Knox,Palmyra,South Knox School Board,B,1,NP,Jason C ELLERMAN,559
-Knox,Palmyra,South Knox School Board,C,1,NP,John  CARNAHAN,542
-Knox,Palmyra,South Knox School Board,C,1,NP,Michael EDWARDS,225
-Knox,Palmyra,South Knox School Board,E,1,NP,Alicia (Bunny) HOUCHIN,577
-Knox,Steen,President,,1,,Write-In,0
-Knox,Steen,President,,1,LBT,Chase OLIVER / Mike Ter MAAT,2
-Knox,Steen,President,,1,REP,Donald J. TRUMP / JD Vance,332
-Knox,Steen,President,,1,DEM,Kamala D. HARRIS / Tim Walz,66
-Knox,Steen,President,,1,WTP,Robert F. KENNEDY JR. / Nicole SHANAHAN,1
-Knox,Steen,U.S. Senate,,1,LBT,Andrew HORNING,14
-Knox,Steen,U.S. Senate,,1,,Write-In,0
-Knox,Steen,U.S. Senate,,1,REP,Jim BANKS,291
-Knox,Steen,U.S. Senate,,1,DEM,Valerie McCRAY,70
-Knox,Steen,U.S. House,8,1,DEM,Erik HURT,68
-Knox,Steen,U.S. House,8,1,LBT,K Richard FITZLAFF,9
-Knox,Steen,U.S. House,8,1,REP,Mark MESSMER,306
-Knox,Steen,Governor,,1,,Write-In,0
-Knox,Steen,Governor,,1,LBT,Donald RAINWATER / Tonya  HUDSON,19
-Knox,Steen,Governor,,1,DEM,Jennifer G. McCORMICK / Terry  GOODIN,77
-Knox,Steen,Governor,,1,REP,Mike BRAUN / Micah  BECKWITH,288
-Knox,Steen,Attorney General,,1,DEM,Destiny WELLS,77
-Knox,Steen,Attorney General,,1,REP,Todd ROKITA,303
-Knox,Steen,State House,64,1,REP,Matt HOSTETTLER,340
-Knox,Steen,County Commissioner,1,1,REP,Thomas (TJ) BRINK,330
-Knox,Steen,County Commissioner,2,1,REP,Timothy J ELLERMAN II,319
-Knox,Steen,County Coroner,,1,REP,Joe J MILLSPAUGH,331
-Knox,Steen,County Treasurer,,1,REP,Cendy L JOSLIN,343
-Knox,Steen,County Council,At Large,3,REP,Dan REITMEYER,195
-Knox,Steen,County Council,At Large,3,REP,Jon HILLENBRAND,216
-Knox,Steen,County Council,At Large,3,REP,Kevin L MEYER,232
-Knox,Steen,South Knox School Board,B,1,NP,Jason C ELLERMAN,261
-Knox,Steen,South Knox School Board,C,1,NP,John  CARNAHAN,280
-Knox,Steen,South Knox School Board,C,1,NP,Michael EDWARDS,89
-Knox,Steen,South Knox School Board,E,1,NP,Alicia (Bunny) HOUCHIN,268
-Knox,Vigo 1,President,,1,,Write-In,0
-Knox,Vigo 1,President,,1,LBT,Chase OLIVER / Mike Ter MAAT,4
-Knox,Vigo 1,President,,1,REP,Donald J. TRUMP / JD Vance,588
-Knox,Vigo 1,President,,1,DEM,Kamala D. HARRIS / Tim Walz,143
-Knox,Vigo 1,President,,1,WTP,Robert F. KENNEDY JR. / Nicole SHANAHAN,7
-Knox,Vigo 1,U.S. Senate,,1,LBT,Andrew HORNING,23
-Knox,Vigo 1,U.S. Senate,,1,,Write-In,0
-Knox,Vigo 1,U.S. Senate,,1,REP,Jim BANKS,542
-Knox,Vigo 1,U.S. Senate,,1,DEM,Valerie McCRAY,142
-Knox,Vigo 1,U.S. House,8,1,DEM,Erik HURT,119
-Knox,Vigo 1,U.S. House,8,1,LBT,K Richard FITZLAFF,26
-Knox,Vigo 1,U.S. House,8,1,REP,Mark MESSMER,572
-Knox,Vigo 1,Governor,,1,,Write-In,0
-Knox,Vigo 1,Governor,,1,LBT,Donald RAINWATER / Tonya  HUDSON,62
-Knox,Vigo 1,Governor,,1,DEM,Jennifer G. McCORMICK / Terry  GOODIN,157
-Knox,Vigo 1,Governor,,1,REP,Mike BRAUN / Micah  BECKWITH,500
-Knox,Vigo 1,Attorney General,,1,DEM,Destiny WELLS,158
-Knox,Vigo 1,Attorney General,,1,REP,Todd ROKITA,553
-Knox,Vigo 1,State House,45,1,REP,Bruce BORDERS,602
-Knox,Vigo 1,County Commissioner,1,1,REP,Thomas (TJ) BRINK,611
-Knox,Vigo 1,County Commissioner,2,1,REP,Timothy J ELLERMAN II,612
-Knox,Vigo 1,County Coroner,,1,REP,Joe J MILLSPAUGH,619
-Knox,Vigo 1,County Treasurer,,1,REP,Cendy L JOSLIN,656
-Knox,Vigo 1,County Council,At Large,3,REP,Dan REITMEYER,331
-Knox,Vigo 1,County Council,At Large,3,REP,Jon HILLENBRAND,400
-Knox,Vigo 1,County Council,At Large,3,REP,Kevin L MEYER,372
-Knox,Vigo 1,North Knox School Board,C,1,,Write-In,6
-Knox,Vigo 1,North Knox School Board,E,1,,Write-In,3
-Knox,Vincennes City 1,President,,1,,Write-In,0
-Knox,Vincennes City 1,President,,1,LBT,Chase OLIVER / Mike Ter MAAT,5
-Knox,Vincennes City 1,President,,1,REP,Donald J. TRUMP / JD Vance,467
-Knox,Vincennes City 1,President,,1,DEM,Kamala D. HARRIS / Tim Walz,286
-Knox,Vincennes City 1,President,,1,WTP,Robert F. KENNEDY JR. / Nicole SHANAHAN,9
-Knox,Vincennes City 1,U.S. Senate,,1,LBT,Andrew HORNING,26
-Knox,Vincennes City 1,U.S. Senate,,1,,Write-In,0
-Knox,Vincennes City 1,U.S. Senate,,1,REP,Jim BANKS,425
-Knox,Vincennes City 1,U.S. Senate,,1,DEM,Valerie McCRAY,265
-Knox,Vincennes City 1,U.S. House,8,1,DEM,Erik HURT,246
-Knox,Vincennes City 1,U.S. House,8,1,LBT,K Richard FITZLAFF,21
-Knox,Vincennes City 1,U.S. House,8,1,REP,Mark MESSMER,468
-Knox,Vincennes City 1,Governor,,1,,Write-In,0
-Knox,Vincennes City 1,Governor,,1,LBT,Donald RAINWATER / Tonya  HUDSON,30
-Knox,Vincennes City 1,Governor,,1,DEM,Jennifer G. McCORMICK / Terry  GOODIN,275
-Knox,Vincennes City 1,Governor,,1,REP,Mike BRAUN / Micah  BECKWITH,428
-Knox,Vincennes City 1,Attorney General,,1,DEM,Destiny WELLS,284
-Knox,Vincennes City 1,Attorney General,,1,REP,Todd ROKITA,433
-Knox,Vincennes City 1,State House,64,1,REP,Matt HOSTETTLER,538
-Knox,Vincennes City 1,County Commissioner,1,1,REP,Thomas (TJ) BRINK,543
-Knox,Vincennes City 1,County Commissioner,2,1,REP,Timothy J ELLERMAN II,542
-Knox,Vincennes City 1,County Coroner,,1,REP,Joe J MILLSPAUGH,554
-Knox,Vincennes City 1,County Treasurer,,1,REP,Cendy L JOSLIN,567
-Knox,Vincennes City 1,County Council,At Large,3,REP,Dan REITMEYER,331
-Knox,Vincennes City 1,County Council,At Large,3,REP,Jon HILLENBRAND,385
-Knox,Vincennes City 1,County Council,At Large,3,REP,Kevin L MEYER,325
-Knox,Vincennes City 1,Vincennes School Board,At Large,2,NP,Aaron M BAUER,284
-Knox,Vincennes City 1,Vincennes School Board,At Large,2,NP,Barb TOOLE,265
-Knox,Vincennes City 1,Vincennes School Board,At Large,2,NP,Karla A SMITH,303
-Knox,Vincennes City 1,Vincennes School Board,At Large,2,NP,Kolby KERZAN,263
-Knox,Vincennes City 1,Vincennes School Board,At Large,2,NP,Mckenzie M YOUNG,258
-Knox,Vincennes City 2,President,,1,,Write-In,0
-Knox,Vincennes City 2,President,,1,LBT,Chase OLIVER / Mike Ter MAAT,3
-Knox,Vincennes City 2,President,,1,REP,Donald J. TRUMP / JD Vance,258
-Knox,Vincennes City 2,President,,1,DEM,Kamala D. HARRIS / Tim Walz,101
-Knox,Vincennes City 2,President,,1,WTP,Robert F. KENNEDY JR. / Nicole SHANAHAN,3
-Knox,Vincennes City 2,U.S. Senate,,1,LBT,Andrew HORNING,12
-Knox,Vincennes City 2,U.S. Senate,,1,,Write-In,0
-Knox,Vincennes City 2,U.S. Senate,,1,REP,Jim BANKS,210
-Knox,Vincennes City 2,U.S. Senate,,1,DEM,Valerie McCRAY,95
-Knox,Vincennes City 2,U.S. House,8,1,DEM,Erik HURT,91
-Knox,Vincennes City 2,U.S. House,8,1,LBT,K Richard FITZLAFF,13
-Knox,Vincennes City 2,U.S. House,8,1,REP,Mark MESSMER,232
-Knox,Vincennes City 2,Governor,,1,,Write-In,0
-Knox,Vincennes City 2,Governor,,1,LBT,Donald RAINWATER / Tonya  HUDSON,13
-Knox,Vincennes City 2,Governor,,1,DEM,Jennifer G. McCORMICK / Terry  GOODIN,107
-Knox,Vincennes City 2,Governor,,1,REP,Mike BRAUN / Micah  BECKWITH,212
-Knox,Vincennes City 2,Attorney General,,1,DEM,Destiny WELLS,101
-Knox,Vincennes City 2,Attorney General,,1,REP,Todd ROKITA,222
-Knox,Vincennes City 2,State House,64,1,REP,Matt HOSTETTLER,257
-Knox,Vincennes City 2,County Commissioner,1,1,REP,Thomas (TJ) BRINK,258
-Knox,Vincennes City 2,County Commissioner,2,1,REP,Timothy J ELLERMAN II,262
-Knox,Vincennes City 2,County Coroner,,1,REP,Joe J MILLSPAUGH,261
-Knox,Vincennes City 2,County Treasurer,,1,REP,Cendy L JOSLIN,262
-Knox,Vincennes City 2,County Council,At Large,3,REP,Dan REITMEYER,124
-Knox,Vincennes City 2,County Council,At Large,3,REP,Jon HILLENBRAND,169
-Knox,Vincennes City 2,County Council,At Large,3,REP,Kevin L MEYER,144
-Knox,Vincennes City 2,Vincennes School Board,At Large,2,NP,Aaron M BAUER,133
-Knox,Vincennes City 2,Vincennes School Board,At Large,2,NP,Barb TOOLE,109
-Knox,Vincennes City 2,Vincennes School Board,At Large,2,NP,Karla A SMITH,135
-Knox,Vincennes City 2,Vincennes School Board,At Large,2,NP,Kolby KERZAN,110
-Knox,Vincennes City 2,Vincennes School Board,At Large,2,NP,Mckenzie M YOUNG,110
-Knox,Vincennes City 3,President,,1,,Write-In,0
-Knox,Vincennes City 3,President,,1,LBT,Chase OLIVER / Mike Ter MAAT,3
-Knox,Vincennes City 3,President,,1,REP,Donald J. TRUMP / JD Vance,356
-Knox,Vincennes City 3,President,,1,DEM,Kamala D. HARRIS / Tim Walz,166
-Knox,Vincennes City 3,President,,1,WTP,Robert F. KENNEDY JR. / Nicole SHANAHAN,5
-Knox,Vincennes City 3,U.S. Senate,,1,LBT,Andrew HORNING,18
-Knox,Vincennes City 3,U.S. Senate,,1,,Write-In,0
-Knox,Vincennes City 3,U.S. Senate,,1,REP,Jim BANKS,318
-Knox,Vincennes City 3,U.S. Senate,,1,DEM,Valerie McCRAY,150
-Knox,Vincennes City 3,U.S. House,8,1,DEM,Erik HURT,141
-Knox,Vincennes City 3,U.S. House,8,1,LBT,K Richard FITZLAFF,16
-Knox,Vincennes City 3,U.S. House,8,1,REP,Mark MESSMER,337
-Knox,Vincennes City 3,Governor,,1,,Write-In,0
-Knox,Vincennes City 3,Governor,,1,LBT,Donald RAINWATER / Tonya  HUDSON,29
-Knox,Vincennes City 3,Governor,,1,DEM,Jennifer G. McCORMICK / Terry  GOODIN,165
-Knox,Vincennes City 3,Governor,,1,REP,Mike BRAUN / Micah  BECKWITH,299
-Knox,Vincennes City 3,Attorney General,,1,DEM,Destiny WELLS,161
-Knox,Vincennes City 3,Attorney General,,1,REP,Todd ROKITA,327
-Knox,Vincennes City 3,State House,64,1,REP,Matt HOSTETTLER,397
-Knox,Vincennes City 3,County Commissioner,1,1,REP,Thomas (TJ) BRINK,409
-Knox,Vincennes City 3,County Commissioner,2,1,REP,Timothy J ELLERMAN II,412
-Knox,Vincennes City 3,County Coroner,,1,REP,Joe J MILLSPAUGH,414
-Knox,Vincennes City 3,County Treasurer,,1,REP,Cendy L JOSLIN,413
-Knox,Vincennes City 3,County Council,At Large,3,REP,Dan REITMEYER,217
-Knox,Vincennes City 3,County Council,At Large,3,REP,Jon HILLENBRAND,261
-Knox,Vincennes City 3,County Council,At Large,3,REP,Kevin L MEYER,240
-Knox,Vincennes City 3,Vincennes School Board,At Large,2,NP,Aaron M BAUER,199
-Knox,Vincennes City 3,Vincennes School Board,At Large,2,NP,Barb TOOLE,162
-Knox,Vincennes City 3,Vincennes School Board,At Large,2,NP,Karla A SMITH,223
-Knox,Vincennes City 3,Vincennes School Board,At Large,2,NP,Kolby KERZAN,187
-Knox,Vincennes City 3,Vincennes School Board,At Large,2,NP,Mckenzie M YOUNG,151
-Knox,Vincennes City 4,President,,1,,Write-In,1
-Knox,Vincennes City 4,President,,1,LBT,Chase OLIVER / Mike Ter MAAT,7
-Knox,Vincennes City 4,President,,1,REP,Donald J. TRUMP / JD Vance,688
-Knox,Vincennes City 4,President,,1,DEM,Kamala D. HARRIS / Tim Walz,312
-Knox,Vincennes City 4,President,,1,WTP,Robert F. KENNEDY JR. / Nicole SHANAHAN,12
-Knox,Vincennes City 4,U.S. Senate,,1,LBT,Andrew HORNING,25
-Knox,Vincennes City 4,U.S. Senate,,1,,Write-In,0
-Knox,Vincennes City 4,U.S. Senate,,1,REP,Jim BANKS,613
-Knox,Vincennes City 4,U.S. Senate,,1,DEM,Valerie McCRAY,306
-Knox,Vincennes City 4,U.S. House,8,1,DEM,Erik HURT,273
-Knox,Vincennes City 4,U.S. House,8,1,LBT,K Richard FITZLAFF,26
-Knox,Vincennes City 4,U.S. House,8,1,REP,Mark MESSMER,666
-Knox,Vincennes City 4,Governor,,1,,Write-In,0
-Knox,Vincennes City 4,Governor,,1,LBT,Donald RAINWATER / Tonya  HUDSON,43
-Knox,Vincennes City 4,Governor,,1,DEM,Jennifer G. McCORMICK / Terry  GOODIN,315
-Knox,Vincennes City 4,Governor,,1,REP,Mike BRAUN / Micah  BECKWITH,596
-Knox,Vincennes City 4,Attorney General,,1,DEM,Destiny WELLS,330
-Knox,Vincennes City 4,Attorney General,,1,REP,Todd ROKITA,633
-Knox,Vincennes City 4,State House,64,1,REP,Matt HOSTETTLER,790
-Knox,Vincennes City 4,County Commissioner,1,1,REP,Thomas (TJ) BRINK,794
-Knox,Vincennes City 4,County Commissioner,2,1,REP,Timothy J ELLERMAN II,794
-Knox,Vincennes City 4,County Coroner,,1,REP,Joe J MILLSPAUGH,803
-Knox,Vincennes City 4,County Treasurer,,1,REP,Cendy L JOSLIN,806
-Knox,Vincennes City 4,County Council,At Large,3,REP,Dan REITMEYER,456
-Knox,Vincennes City 4,County Council,At Large,3,REP,Jon HILLENBRAND,526
-Knox,Vincennes City 4,County Council,At Large,3,REP,Kevin L MEYER,453
-Knox,Vincennes City 4,Vincennes School Board,At Large,2,NP,Aaron M BAUER,430
-Knox,Vincennes City 4,Vincennes School Board,At Large,2,NP,Barb TOOLE,342
-Knox,Vincennes City 4,Vincennes School Board,At Large,2,NP,Karla A SMITH,440
-Knox,Vincennes City 4,Vincennes School Board,At Large,2,NP,Kolby KERZAN,379
-Knox,Vincennes City 4,Vincennes School Board,At Large,2,NP,Mckenzie M YOUNG,351
-Knox,Vincennes City 5,President,,1,,Write-In,0
-Knox,Vincennes City 5,President,,1,LBT,Chase OLIVER / Mike Ter MAAT,2
-Knox,Vincennes City 5,President,,1,REP,Donald J. TRUMP / JD Vance,381
-Knox,Vincennes City 5,President,,1,DEM,Kamala D. HARRIS / Tim Walz,147
-Knox,Vincennes City 5,President,,1,WTP,Robert F. KENNEDY JR. / Nicole SHANAHAN,6
-Knox,Vincennes City 5,U.S. Senate,,1,LBT,Andrew HORNING,21
-Knox,Vincennes City 5,U.S. Senate,,1,,Write-In,0
-Knox,Vincennes City 5,U.S. Senate,,1,REP,Jim BANKS,335
-Knox,Vincennes City 5,U.S. Senate,,1,DEM,Valerie McCRAY,138
-Knox,Vincennes City 5,U.S. House,8,1,DEM,Erik HURT,136
-Knox,Vincennes City 5,U.S. House,8,1,LBT,K Richard FITZLAFF,16
-Knox,Vincennes City 5,U.S. House,8,1,REP,Mark MESSMER,353
-Knox,Vincennes City 5,Governor,,1,,Write-In,0
-Knox,Vincennes City 5,Governor,,1,LBT,Donald RAINWATER / Tonya  HUDSON,28
-Knox,Vincennes City 5,Governor,,1,DEM,Jennifer G. McCORMICK / Terry  GOODIN,143
-Knox,Vincennes City 5,Governor,,1,REP,Mike BRAUN / Micah  BECKWITH,336
-Knox,Vincennes City 5,Attorney General,,1,DEM,Destiny WELLS,148
-Knox,Vincennes City 5,Attorney General,,1,REP,Todd ROKITA,348
-Knox,Vincennes City 5,State House,64,1,REP,Matt HOSTETTLER,403
-Knox,Vincennes City 5,County Commissioner,1,1,REP,Thomas (TJ) BRINK,406
-Knox,Vincennes City 5,County Commissioner,2,1,REP,Timothy J ELLERMAN II,386
-Knox,Vincennes City 5,County Coroner,,1,REP,Joe J MILLSPAUGH,409
-Knox,Vincennes City 5,County Treasurer,,1,REP,Cendy L JOSLIN,416
-Knox,Vincennes City 5,County Council,At Large,3,REP,Dan REITMEYER,223
-Knox,Vincennes City 5,County Council,At Large,3,REP,Jon HILLENBRAND,273
-Knox,Vincennes City 5,County Council,At Large,3,REP,Kevin L MEYER,244
-Knox,Vincennes City 5,Vincennes School Board,At Large,2,NP,Aaron M BAUER,223
-Knox,Vincennes City 5,Vincennes School Board,At Large,2,NP,Barb TOOLE,172
-Knox,Vincennes City 5,Vincennes School Board,At Large,2,NP,Karla A SMITH,226
-Knox,Vincennes City 5,Vincennes School Board,At Large,2,NP,Kolby KERZAN,204
-Knox,Vincennes City 5,Vincennes School Board,At Large,2,NP,Mckenzie M YOUNG,158
-Knox,Vincennes City 6,President,,1,,Write-In,1
-Knox,Vincennes City 6,President,,1,LBT,Chase OLIVER / Mike Ter MAAT,7
-Knox,Vincennes City 6,President,,1,REP,Donald J. TRUMP / JD Vance,583
-Knox,Vincennes City 6,President,,1,DEM,Kamala D. HARRIS / Tim Walz,259
-Knox,Vincennes City 6,President,,1,WTP,Robert F. KENNEDY JR. / Nicole SHANAHAN,6
-Knox,Vincennes City 6,U.S. Senate,,1,LBT,Andrew HORNING,23
-Knox,Vincennes City 6,U.S. Senate,,1,,Write-In,0
-Knox,Vincennes City 6,U.S. Senate,,1,REP,Jim BANKS,536
-Knox,Vincennes City 6,U.S. Senate,,1,DEM,Valerie McCRAY,246
-Knox,Vincennes City 6,U.S. House,8,1,DEM,Erik HURT,227
-Knox,Vincennes City 6,U.S. House,8,1,LBT,K Richard FITZLAFF,18
-Knox,Vincennes City 6,U.S. House,8,1,REP,Mark MESSMER,571
-Knox,Vincennes City 6,Governor,,1,,Write-In,0
-Knox,Vincennes City 6,Governor,,1,LBT,Donald RAINWATER / Tonya  HUDSON,30
-Knox,Vincennes City 6,Governor,,1,DEM,Jennifer G. McCORMICK / Terry  GOODIN,252
-Knox,Vincennes City 6,Governor,,1,REP,Mike BRAUN / Micah  BECKWITH,530
-Knox,Vincennes City 6,Attorney General,,1,DEM,Destiny WELLS,266
-Knox,Vincennes City 6,Attorney General,,1,REP,Todd ROKITA,536
-Knox,Vincennes City 6,State House,64,1,REP,Matt HOSTETTLER,656
-Knox,Vincennes City 6,County Commissioner,1,1,REP,Thomas (TJ) BRINK,650
-Knox,Vincennes City 6,County Commissioner,2,1,REP,Timothy J ELLERMAN II,645
-Knox,Vincennes City 6,County Coroner,,1,REP,Joe J MILLSPAUGH,666
-Knox,Vincennes City 6,County Treasurer,,1,REP,Cendy L JOSLIN,669
-Knox,Vincennes City 6,County Council,At Large,3,REP,Dan REITMEYER,381
-Knox,Vincennes City 6,County Council,At Large,3,REP,Jon HILLENBRAND,456
-Knox,Vincennes City 6,County Council,At Large,3,REP,Kevin L MEYER,439
-Knox,Vincennes City 6,Vincennes School Board,At Large,2,NP,Aaron M BAUER,362
-Knox,Vincennes City 6,Vincennes School Board,At Large,2,NP,Barb TOOLE,294
-Knox,Vincennes City 6,Vincennes School Board,At Large,2,NP,Karla A SMITH,397
-Knox,Vincennes City 6,Vincennes School Board,At Large,2,NP,Kolby KERZAN,299
-Knox,Vincennes City 6,Vincennes School Board,At Large,2,NP,Mckenzie M YOUNG,256
-Knox,Vincennes City 7,President,,1,,Write-In,0
-Knox,Vincennes City 7,President,,1,LBT,Chase OLIVER / Mike Ter MAAT,4
-Knox,Vincennes City 7,President,,1,REP,Donald J. TRUMP / JD Vance,533
-Knox,Vincennes City 7,President,,1,DEM,Kamala D. HARRIS / Tim Walz,253
-Knox,Vincennes City 7,President,,1,WTP,Robert F. KENNEDY JR. / Nicole SHANAHAN,12
-Knox,Vincennes City 7,U.S. Senate,,1,LBT,Andrew HORNING,28
-Knox,Vincennes City 7,U.S. Senate,,1,,Write-In,0
-Knox,Vincennes City 7,U.S. Senate,,1,REP,Jim BANKS,492
-Knox,Vincennes City 7,U.S. Senate,,1,DEM,Valerie McCRAY,240
-Knox,Vincennes City 7,U.S. House,8,1,DEM,Erik HURT,225
-Knox,Vincennes City 7,U.S. House,8,1,LBT,K Richard FITZLAFF,16
-Knox,Vincennes City 7,U.S. House,8,1,REP,Mark MESSMER,534
-Knox,Vincennes City 7,Governor,,1,,Write-In,0
-Knox,Vincennes City 7,Governor,,1,LBT,Donald RAINWATER / Tonya  HUDSON,22
-Knox,Vincennes City 7,Governor,,1,DEM,Jennifer G. McCORMICK / Terry  GOODIN,257
-Knox,Vincennes City 7,Governor,,1,REP,Mike BRAUN / Micah  BECKWITH,493
-Knox,Vincennes City 7,Attorney General,,1,DEM,Destiny WELLS,245
-Knox,Vincennes City 7,Attorney General,,1,REP,Todd ROKITA,519
-Knox,Vincennes City 7,State House,64,1,REP,Matt HOSTETTLER,626
-Knox,Vincennes City 7,County Commissioner,1,1,REP,Thomas (TJ) BRINK,606
-Knox,Vincennes City 7,County Commissioner,2,1,REP,Timothy J ELLERMAN II,591
-Knox,Vincennes City 7,County Coroner,,1,REP,Joe J MILLSPAUGH,629
-Knox,Vincennes City 7,County Treasurer,,1,REP,Cendy L JOSLIN,628
-Knox,Vincennes City 7,County Council,At Large,3,REP,Dan REITMEYER,389
-Knox,Vincennes City 7,County Council,At Large,3,REP,Jon HILLENBRAND,459
-Knox,Vincennes City 7,County Council,At Large,3,REP,Kevin L MEYER,404
-Knox,Vincennes City 7,Vincennes School Board,At Large,2,NP,Aaron M BAUER,357
-Knox,Vincennes City 7,Vincennes School Board,At Large,2,NP,Barb TOOLE,304
-Knox,Vincennes City 7,Vincennes School Board,At Large,2,NP,Karla A SMITH,372
-Knox,Vincennes City 7,Vincennes School Board,At Large,2,NP,Kolby KERZAN,323
-Knox,Vincennes City 7,Vincennes School Board,At Large,2,NP,Mckenzie M YOUNG,305
-Knox,Vincennes City 8,President,,1,,Write-In,1
-Knox,Vincennes City 8,President,,1,LBT,Chase OLIVER / Mike Ter MAAT,3
-Knox,Vincennes City 8,President,,1,REP,Donald J. TRUMP / JD Vance,551
-Knox,Vincennes City 8,President,,1,DEM,Kamala D. HARRIS / Tim Walz,274
-Knox,Vincennes City 8,President,,1,WTP,Robert F. KENNEDY JR. / Nicole SHANAHAN,8
-Knox,Vincennes City 8,U.S. Senate,,1,LBT,Andrew HORNING,28
-Knox,Vincennes City 8,U.S. Senate,,1,,Write-In,0
-Knox,Vincennes City 8,U.S. Senate,,1,REP,Jim BANKS,498
-Knox,Vincennes City 8,U.S. Senate,,1,DEM,Valerie McCRAY,258
-Knox,Vincennes City 8,U.S. House,8,1,DEM,Erik HURT,247
-Knox,Vincennes City 8,U.S. House,8,1,LBT,K Richard FITZLAFF,16
-Knox,Vincennes City 8,U.S. House,8,1,REP,Mark MESSMER,551
-Knox,Vincennes City 8,Governor,,1,,Write-In,0
-Knox,Vincennes City 8,Governor,,1,LBT,Donald RAINWATER / Tonya  HUDSON,20
-Knox,Vincennes City 8,Governor,,1,DEM,Jennifer G. McCORMICK / Terry  GOODIN,297
-Knox,Vincennes City 8,Governor,,1,REP,Mike BRAUN / Micah  BECKWITH,486
-Knox,Vincennes City 8,Attorney General,,1,DEM,Destiny WELLS,278
-Knox,Vincennes City 8,Attorney General,,1,REP,Todd ROKITA,526
-Knox,Vincennes City 8,State House,64,1,REP,Matt HOSTETTLER,625
-Knox,Vincennes City 8,County Commissioner,1,1,REP,Thomas (TJ) BRINK,608
-Knox,Vincennes City 8,County Commissioner,2,1,REP,Timothy J ELLERMAN II,591
-Knox,Vincennes City 8,County Coroner,,1,REP,Joe J MILLSPAUGH,631
-Knox,Vincennes City 8,County Treasurer,,1,REP,Cendy L JOSLIN,637
-Knox,Vincennes City 8,County Council,At Large,3,REP,Dan REITMEYER,408
-Knox,Vincennes City 8,County Council,At Large,3,REP,Jon HILLENBRAND,448
-Knox,Vincennes City 8,County Council,At Large,3,REP,Kevin L MEYER,414
-Knox,Vincennes City 8,Vincennes School Board,At Large,2,NP,Aaron M BAUER,361
-Knox,Vincennes City 8,Vincennes School Board,At Large,2,NP,Barb TOOLE,319
-Knox,Vincennes City 8,Vincennes School Board,At Large,2,NP,Karla A SMITH,387
-Knox,Vincennes City 8,Vincennes School Board,At Large,2,NP,Kolby KERZAN,333
-Knox,Vincennes City 8,Vincennes School Board,At Large,2,NP,Mckenzie M YOUNG,304
-Knox,Vincennes Township 1,President,,1,,Write-In,1
-Knox,Vincennes Township 1,President,,1,LBT,Chase OLIVER / Mike Ter MAAT,5
-Knox,Vincennes Township 1,President,,1,REP,Donald J. TRUMP / JD Vance,515
-Knox,Vincennes Township 1,President,,1,DEM,Kamala D. HARRIS / Tim Walz,164
-Knox,Vincennes Township 1,President,,1,WTP,Robert F. KENNEDY JR. / Nicole SHANAHAN,10
-Knox,Vincennes Township 1,U.S. Senate,,1,LBT,Andrew HORNING,13
-Knox,Vincennes Township 1,U.S. Senate,,1,,Write-In,0
-Knox,Vincennes Township 1,U.S. Senate,,1,REP,Jim BANKS,482
-Knox,Vincennes Township 1,U.S. Senate,,1,DEM,Valerie McCRAY,151
-Knox,Vincennes Township 1,U.S. House,8,1,DEM,Erik HURT,150
-Knox,Vincennes Township 1,U.S. House,8,1,LBT,K Richard FITZLAFF,16
-Knox,Vincennes Township 1,U.S. House,8,1,REP,Mark MESSMER,497
-Knox,Vincennes Township 1,Governor,,1,,Write-In,0
-Knox,Vincennes Township 1,Governor,,1,LBT,Donald RAINWATER / Tonya  HUDSON,32
-Knox,Vincennes Township 1,Governor,,1,DEM,Jennifer G. McCORMICK / Terry  GOODIN,167
-Knox,Vincennes Township 1,Governor,,1,REP,Mike BRAUN / Micah  BECKWITH,460
-Knox,Vincennes Township 1,Attorney General,,1,DEM,Destiny WELLS,162
-Knox,Vincennes Township 1,Attorney General,,1,REP,Todd ROKITA,482
-Knox,Vincennes Township 1,State House,64,1,REP,Matt HOSTETTLER,553
-Knox,Vincennes Township 1,County Commissioner,1,1,REP,Thomas (TJ) BRINK,537
-Knox,Vincennes Township 1,County Commissioner,2,1,REP,Timothy J ELLERMAN II,524
-Knox,Vincennes Township 1,County Coroner,,1,REP,Joe J MILLSPAUGH,560
-Knox,Vincennes Township 1,County Treasurer,,1,REP,Cendy L JOSLIN,551
-Knox,Vincennes Township 1,County Council,At Large,3,REP,Dan REITMEYER,331
-Knox,Vincennes Township 1,County Council,At Large,3,REP,Jon HILLENBRAND,386
-Knox,Vincennes Township 1,County Council,At Large,3,REP,Kevin L MEYER,369
-Knox,Vincennes Township 1,Vincennes School Board,At Large,2,NP,Aaron M BAUER,297
-Knox,Vincennes Township 1,Vincennes School Board,At Large,2,NP,Barb TOOLE,253
-Knox,Vincennes Township 1,Vincennes School Board,At Large,2,NP,Karla A SMITH,298
-Knox,Vincennes Township 1,Vincennes School Board,At Large,2,NP,Kolby KERZAN,300
-Knox,Vincennes Township 1,Vincennes School Board,At Large,2,NP,Mckenzie M YOUNG,231
-Knox,Vincennes Township 2,President,,1,,Write-In,1
-Knox,Vincennes Township 2,President,,1,LBT,Chase OLIVER / Mike Ter MAAT,10
-Knox,Vincennes Township 2,President,,1,REP,Donald J. TRUMP / JD Vance,651
-Knox,Vincennes Township 2,President,,1,DEM,Kamala D. HARRIS / Tim Walz,218
-Knox,Vincennes Township 2,President,,1,WTP,Robert F. KENNEDY JR. / Nicole SHANAHAN,8
-Knox,Vincennes Township 2,U.S. Senate,,1,LBT,Andrew HORNING,19
-Knox,Vincennes Township 2,U.S. Senate,,1,,Write-In,0
-Knox,Vincennes Township 2,U.S. Senate,,1,REP,Jim BANKS,601
-Knox,Vincennes Township 2,U.S. Senate,,1,DEM,Valerie McCRAY,205
-Knox,Vincennes Township 2,U.S. House,8,1,DEM,Erik HURT,192
-Knox,Vincennes Township 2,U.S. House,8,1,LBT,K Richard FITZLAFF,18
-Knox,Vincennes Township 2,U.S. House,8,1,REP,Mark MESSMER,647
-Knox,Vincennes Township 2,Governor,,1,,Write-In,0
-Knox,Vincennes Township 2,Governor,,1,LBT,Donald RAINWATER / Tonya  HUDSON,25
-Knox,Vincennes Township 2,Governor,,1,DEM,Jennifer G. McCORMICK / Terry  GOODIN,234
-Knox,Vincennes Township 2,Governor,,1,REP,Mike BRAUN / Micah  BECKWITH,595
-Knox,Vincennes Township 2,Attorney General,,1,DEM,Destiny WELLS,218
-Knox,Vincennes Township 2,Attorney General,,1,REP,Todd ROKITA,620
-Knox,Vincennes Township 2,State House,64,1,REP,Matt HOSTETTLER,712
-Knox,Vincennes Township 2,County Commissioner,1,1,REP,Thomas (TJ) BRINK,700
-Knox,Vincennes Township 2,County Commissioner,2,1,REP,Timothy J ELLERMAN II,681
-Knox,Vincennes Township 2,County Coroner,,1,REP,Joe J MILLSPAUGH,718
-Knox,Vincennes Township 2,County Treasurer,,1,REP,Cendy L JOSLIN,728
-Knox,Vincennes Township 2,County Council,At Large,3,REP,Dan REITMEYER,475
-Knox,Vincennes Township 2,County Council,At Large,3,REP,Jon HILLENBRAND,546
-Knox,Vincennes Township 2,County Council,At Large,3,REP,Kevin L MEYER,514
-Knox,Vincennes Township 2,Vincennes School Board,At Large,2,NP,Aaron M BAUER,380
-Knox,Vincennes Township 2,Vincennes School Board,At Large,2,NP,Barb TOOLE,355
-Knox,Vincennes Township 2,Vincennes School Board,At Large,2,NP,Karla A SMITH,420
-Knox,Vincennes Township 2,Vincennes School Board,At Large,2,NP,Kolby KERZAN,398
-Knox,Vincennes Township 2,Vincennes School Board,At Large,2,NP,Mckenzie M YOUNG,325
-Knox,Vincennes Township 3,President,,1,,Write-In,0
-Knox,Vincennes Township 3,President,,1,LBT,Chase OLIVER / Mike Ter MAAT,0
-Knox,Vincennes Township 3,President,,1,REP,Donald J. TRUMP / JD Vance,233
-Knox,Vincennes Township 3,President,,1,DEM,Kamala D. HARRIS / Tim Walz,78
-Knox,Vincennes Township 3,President,,1,WTP,Robert F. KENNEDY JR. / Nicole SHANAHAN,2
-Knox,Vincennes Township 3,U.S. Senate,,1,LBT,Andrew HORNING,3
-Knox,Vincennes Township 3,U.S. Senate,,1,,Write-In,0
-Knox,Vincennes Township 3,U.S. Senate,,1,REP,Jim BANKS,211
-Knox,Vincennes Township 3,U.S. Senate,,1,DEM,Valerie McCRAY,69
-Knox,Vincennes Township 3,U.S. House,8,1,DEM,Erik HURT,70
-Knox,Vincennes Township 3,U.S. House,8,1,LBT,K Richard FITZLAFF,8
-Knox,Vincennes Township 3,U.S. House,8,1,REP,Mark MESSMER,215
-Knox,Vincennes Township 3,Governor,,1,,Write-In,0
-Knox,Vincennes Township 3,Governor,,1,LBT,Donald RAINWATER / Tonya  HUDSON,14
-Knox,Vincennes Township 3,Governor,,1,DEM,Jennifer G. McCORMICK / Terry  GOODIN,77
-Knox,Vincennes Township 3,Governor,,1,REP,Mike BRAUN / Micah  BECKWITH,206
-Knox,Vincennes Township 3,Attorney General,,1,DEM,Destiny WELLS,72
-Knox,Vincennes Township 3,Attorney General,,1,REP,Todd ROKITA,212
-Knox,Vincennes Township 3,State House,64,1,REP,Matt HOSTETTLER,238
-Knox,Vincennes Township 3,County Commissioner,1,1,REP,Thomas (TJ) BRINK,237
-Knox,Vincennes Township 3,County Commissioner,2,1,REP,Timothy J ELLERMAN II,232
-Knox,Vincennes Township 3,County Coroner,,1,REP,Joe J MILLSPAUGH,246
-Knox,Vincennes Township 3,County Treasurer,,1,REP,Cendy L JOSLIN,245
-Knox,Vincennes Township 3,County Council,At Large,3,REP,Dan REITMEYER,139
-Knox,Vincennes Township 3,County Council,At Large,3,REP,Jon HILLENBRAND,163
-Knox,Vincennes Township 3,County Council,At Large,3,REP,Kevin L MEYER,164
-Knox,Vincennes Township 3,Vincennes School Board,At Large,2,NP,Aaron M BAUER,131
-Knox,Vincennes Township 3,Vincennes School Board,At Large,2,NP,Barb TOOLE,114
-Knox,Vincennes Township 3,Vincennes School Board,At Large,2,NP,Karla A SMITH,134
-Knox,Vincennes Township 3,Vincennes School Board,At Large,2,NP,Kolby KERZAN,133
-Knox,Vincennes Township 3,Vincennes School Board,At Large,2,NP,Mckenzie M YOUNG,112
-Knox,Vincennes Township 4,President,,1,,Write-In,0
-Knox,Vincennes Township 4,President,,1,LBT,Chase OLIVER / Mike Ter MAAT,0
-Knox,Vincennes Township 4,President,,1,REP,Donald J. TRUMP / JD Vance,360
-Knox,Vincennes Township 4,President,,1,DEM,Kamala D. HARRIS / Tim Walz,94
-Knox,Vincennes Township 4,President,,1,WTP,Robert F. KENNEDY JR. / Nicole SHANAHAN,4
-Knox,Vincennes Township 4,U.S. Senate,,1,LBT,Andrew HORNING,10
-Knox,Vincennes Township 4,U.S. Senate,,1,,Write-In,0
-Knox,Vincennes Township 4,U.S. Senate,,1,REP,Jim BANKS,334
-Knox,Vincennes Township 4,U.S. Senate,,1,DEM,Valerie McCRAY,85
-Knox,Vincennes Township 4,U.S. House,8,1,DEM,Erik HURT,71
-Knox,Vincennes Township 4,U.S. House,8,1,LBT,K Richard FITZLAFF,10
-Knox,Vincennes Township 4,U.S. House,8,1,REP,Mark MESSMER,356
-Knox,Vincennes Township 4,Governor,,1,,Write-In,0
-Knox,Vincennes Township 4,Governor,,1,LBT,Donald RAINWATER / Tonya  HUDSON,21
-Knox,Vincennes Township 4,Governor,,1,DEM,Jennifer G. McCORMICK / Terry  GOODIN,99
-Knox,Vincennes Township 4,Governor,,1,REP,Mike BRAUN / Micah  BECKWITH,319
-Knox,Vincennes Township 4,Attorney General,,1,DEM,Destiny WELLS,86
-Knox,Vincennes Township 4,Attorney General,,1,REP,Todd ROKITA,349
-Knox,Vincennes Township 4,State House,64,1,REP,Matt HOSTETTLER,388
-Knox,Vincennes Township 4,County Commissioner,1,1,REP,Thomas (TJ) BRINK,379
-Knox,Vincennes Township 4,County Commissioner,2,1,REP,Timothy J ELLERMAN II,371
-Knox,Vincennes Township 4,County Coroner,,1,REP,Joe J MILLSPAUGH,391
-Knox,Vincennes Township 4,County Treasurer,,1,REP,Cendy L JOSLIN,395
-Knox,Vincennes Township 4,County Council,At Large,3,REP,Dan REITMEYER,218
-Knox,Vincennes Township 4,County Council,At Large,3,REP,Jon HILLENBRAND,242
-Knox,Vincennes Township 4,County Council,At Large,3,REP,Kevin L MEYER,231
-Knox,Vincennes Township 4,Vincennes School Board,At Large,2,NP,Aaron M BAUER,210
-Knox,Vincennes Township 4,Vincennes School Board,At Large,2,NP,Barb TOOLE,152
-Knox,Vincennes Township 4,Vincennes School Board,At Large,2,NP,Karla A SMITH,192
-Knox,Vincennes Township 4,Vincennes School Board,At Large,2,NP,Kolby KERZAN,184
-Knox,Vincennes Township 4,Vincennes School Board,At Large,2,NP,Mckenzie M YOUNG,136
-Knox,Vincennes Township 5,President,,1,,Write-In,0
-Knox,Vincennes Township 5,President,,1,LBT,Chase OLIVER / Mike Ter MAAT,3
-Knox,Vincennes Township 5,President,,1,REP,Donald J. TRUMP / JD Vance,108
-Knox,Vincennes Township 5,President,,1,DEM,Kamala D. HARRIS / Tim Walz,40
-Knox,Vincennes Township 5,President,,1,WTP,Robert F. KENNEDY JR. / Nicole SHANAHAN,1
-Knox,Vincennes Township 5,U.S. Senate,,1,LBT,Andrew HORNING,7
-Knox,Vincennes Township 5,U.S. Senate,,1,,Write-In,0
-Knox,Vincennes Township 5,U.S. Senate,,1,REP,Jim BANKS,93
-Knox,Vincennes Township 5,U.S. Senate,,1,DEM,Valerie McCRAY,39
-Knox,Vincennes Township 5,U.S. House,8,1,DEM,Erik HURT,35
-Knox,Vincennes Township 5,U.S. House,8,1,LBT,K Richard FITZLAFF,0
-Knox,Vincennes Township 5,U.S. House,8,1,REP,Mark MESSMER,108
-Knox,Vincennes Township 5,Governor,,1,,Write-In,0
-Knox,Vincennes Township 5,Governor,,1,LBT,Donald RAINWATER / Tonya  HUDSON,12
-Knox,Vincennes Township 5,Governor,,1,DEM,Jennifer G. McCORMICK / Terry  GOODIN,43
-Knox,Vincennes Township 5,Governor,,1,REP,Mike BRAUN / Micah  BECKWITH,91
-Knox,Vincennes Township 5,Attorney General,,1,DEM,Destiny WELLS,38
-Knox,Vincennes Township 5,Attorney General,,1,REP,Todd ROKITA,98
-Knox,Vincennes Township 5,State House,64,1,REP,Matt HOSTETTLER,119
-Knox,Vincennes Township 5,County Commissioner,1,1,REP,Thomas (TJ) BRINK,117
-Knox,Vincennes Township 5,County Commissioner,2,1,REP,Timothy J ELLERMAN II,110
-Knox,Vincennes Township 5,County Coroner,,1,REP,Joe J MILLSPAUGH,119
-Knox,Vincennes Township 5,County Treasurer,,1,REP,Cendy L JOSLIN,123
-Knox,Vincennes Township 5,County Council,At Large,3,REP,Dan REITMEYER,63
-Knox,Vincennes Township 5,County Council,At Large,3,REP,Jon HILLENBRAND,71
-Knox,Vincennes Township 5,County Council,At Large,3,REP,Kevin L MEYER,83
-Knox,Vincennes Township 5,South Knox School Board,B,1,NP,Jason C ELLERMAN,99
-Knox,Vincennes Township 5,South Knox School Board,C,1,NP,John  CARNAHAN,79
-Knox,Vincennes Township 5,South Knox School Board,C,1,NP,Michael EDWARDS,36
-Knox,Vincennes Township 5,South Knox School Board,E,1,NP,Alicia (Bunny) HOUCHIN,101
-Knox,Washington,President,,1,,Write-In,0
-Knox,Washington,President,,1,LBT,Chase OLIVER / Mike Ter MAAT,6
-Knox,Washington,President,,1,REP,Donald J. TRUMP / JD Vance,772
-Knox,Washington,President,,1,DEM,Kamala D. HARRIS / Tim Walz,176
-Knox,Washington,President,,1,WTP,Robert F. KENNEDY JR. / Nicole SHANAHAN,7
-Knox,Washington,U.S. Senate,,1,LBT,Andrew HORNING,12
-Knox,Washington,U.S. Senate,,1,,Write-In,0
-Knox,Washington,U.S. Senate,,1,REP,Jim BANKS,713
-Knox,Washington,U.S. Senate,,1,DEM,Valerie McCRAY,175
-Knox,Washington,U.S. House,8,1,DEM,Erik HURT,162
-Knox,Washington,U.S. House,8,1,LBT,K Richard FITZLAFF,16
-Knox,Washington,U.S. House,8,1,REP,Mark MESSMER,738
-Knox,Washington,Governor,,1,,Write-In,0
-Knox,Washington,Governor,,1,LBT,Donald RAINWATER / Tonya  HUDSON,53
-Knox,Washington,Governor,,1,DEM,Jennifer G. McCORMICK / Terry  GOODIN,185
-Knox,Washington,Governor,,1,REP,Mike BRAUN / Micah  BECKWITH,680
-Knox,Washington,Attorney General,,1,DEM,Destiny WELLS,176
-Knox,Washington,Attorney General,,1,REP,Todd ROKITA,715
-Knox,Washington,State House,45,1,REP,Bruce BORDERS,751
-Knox,Washington,County Commissioner,1,1,REP,Thomas (TJ) BRINK,746
-Knox,Washington,County Commissioner,2,1,REP,Timothy J ELLERMAN II,730
-Knox,Washington,County Coroner,,1,REP,Joe J MILLSPAUGH,774
-Knox,Washington,County Treasurer,,1,REP,Cendy L JOSLIN,806
-Knox,Washington,County Council,At Large,3,REP,Dan REITMEYER,434
-Knox,Washington,County Council,At Large,3,REP,Jon HILLENBRAND,491
-Knox,Washington,County Council,At Large,3,REP,Kevin L MEYER,477
-Knox,Washington,North Knox School Board,C,1,,Write-In,6
-Knox,Washington,North Knox School Board,E,1,,Write-In,3
-Knox,Widner,President,,1,,Write-In,0
-Knox,Widner,President,,1,LBT,Chase OLIVER / Mike Ter MAAT,1
-Knox,Widner,President,,1,REP,Donald J. TRUMP / JD Vance,472
-Knox,Widner,President,,1,DEM,Kamala D. HARRIS / Tim Walz,76
-Knox,Widner,President,,1,WTP,Robert F. KENNEDY JR. / Nicole SHANAHAN,7
-Knox,Widner,U.S. Senate,,1,LBT,Andrew HORNING,10
-Knox,Widner,U.S. Senate,,1,,Write-In,0
-Knox,Widner,U.S. Senate,,1,REP,Jim BANKS,443
-Knox,Widner,U.S. Senate,,1,DEM,Valerie McCRAY,73
-Knox,Widner,U.S. House,8,1,DEM,Erik HURT,67
-Knox,Widner,U.S. House,8,1,LBT,K Richard FITZLAFF,14
-Knox,Widner,U.S. House,8,1,REP,Mark MESSMER,452
-Knox,Widner,Governor,,1,,Write-In,0
-Knox,Widner,Governor,,1,LBT,Donald RAINWATER / Tonya  HUDSON,26
-Knox,Widner,Governor,,1,DEM,Jennifer G. McCORMICK / Terry  GOODIN,83
-Knox,Widner,Governor,,1,REP,Mike BRAUN / Micah  BECKWITH,418
-Knox,Widner,Attorney General,,1,DEM,Destiny WELLS,75
-Knox,Widner,Attorney General,,1,REP,Todd ROKITA,453
-Knox,Widner,State House,45,1,REP,Bruce BORDERS,459
-Knox,Widner,County Commissioner,1,1,REP,Thomas (TJ) BRINK,483
-Knox,Widner,County Commissioner,2,1,REP,Timothy J ELLERMAN II,459
-Knox,Widner,County Coroner,,1,REP,Joe J MILLSPAUGH,485
-Knox,Widner,County Treasurer,,1,REP,Cendy L JOSLIN,503
-Knox,Widner,County Council,At Large,3,REP,Dan REITMEYER,272
-Knox,Widner,County Council,At Large,3,REP,Jon HILLENBRAND,315
-Knox,Widner,County Council,At Large,3,REP,Kevin L MEYER,289
-Knox,Widner,North Knox School Board,C,1,,Write-In,8
-Knox,Widner,North Knox School Board,E,1,,Write-In,6
+county,precinct,office,district,seats,party,candidate,votes,early_voting,election_day,absentee
+,001 - BICKNELL 1,,,,,,,,,
+,001 - BICKNELL 1,,,,,,,,,
+Knox,001 - BICKNELL 1,Registered Voters,,,,,468,,,
+Knox,001 - BICKNELL 1,Ballots Cast,,,,,278,103,160,15
+Knox,001 - BICKNELL 1,Public Question-Const Amendment,,1,,Yes,144,51,86,7
+Knox,001 - BICKNELL 1,Public Question-Const Amendment,,1,,No,107,44,59,4
+Knox,001 - BICKNELL 1,President,,1,REP,Donald J. TRUMP / JD VANCE,205,74,124,7
+Knox,001 - BICKNELL 1,President,,1,DEM,Kamala D. HARRIS / Tim WALZ,61,25,30,6
+Knox,001 - BICKNELL 1,President,,1,LBT,Chase OLIVER / Mike terr MAAT,2,1,1,0
+Knox,001 - BICKNELL 1,President,,1,WTP,Robert F. KENNEDY JR. / Nichole SHANAHAN,4,1,2,1
+Knox,001 - BICKNELL 1,President,,1,,Write-In,0,0,0,0
+Knox,001 - BICKNELL 1,U.S. Senate,,1,REP,Jim BANKS,192,68,116,8
+Knox,001 - BICKNELL 1,U.S. Senate,,1,DEM,Valerie McCRAY,61,27,28,6
+Knox,001 - BICKNELL 1,U.S. Senate,,1,LBT,Andrew HORNING,4,1,3,0
+Knox,001 - BICKNELL 1,U.S. Senate,,1,,Write-In,0,0,0,0
+Knox,001 - BICKNELL 1,Governor,,1,REP,Mike BRAUN / Micah BECKWITH,176,62,107,7
+Knox,001 - BICKNELL 1,Governor,,1,DEM,Jennifer G. McCORMICK / Terry GOODIN,71,27,37,7
+Knox,001 - BICKNELL 1,Governor,,1,LBT,Donald RAINWATER / Tonya HUDSON,13,7,6,0
+Knox,001 - BICKNELL 1,Governor,,1,,Write-In,0,0,0,0
+Knox,001 - BICKNELL 1,Attorney General,,1,REP,Todd ROKITA,188,68,114,6
+Knox,001 - BICKNELL 1,Attorney General,,1,DEM,Destiny WELLS,69,27,35,7
+Knox,001 - BICKNELL 1,U.S. House,8,1,REP,Mark MESSMER,198,70,119,9
+Knox,001 - BICKNELL 1,U.S. House,8,1,DEM,Erik HURT,53,23,26,4
+Knox,001 - BICKNELL 1,U.S. House,8,1,LBT,K Richard FITZLAFF,8,4,3,1
+Knox,001 - BICKNELL 1,U.S. House,8,1,,Write-In,0,0,0,0
+Knox,001 - BICKNELL 1,State House,45,1,REP,Bruce BORDERS,215,76,133,6
+Knox,001 - BICKNELL 1,State House,45,1,DEM,No Candidate Filed,0,0,0,0
+Knox,001 - BICKNELL 1,County Treasurer,,1,REP,Cendy L. JOSLIN,236,85,142,9
+Knox,001 - BICKNELL 1,County Treasurer,,1,DEM,No Candidate Filed,0,0,0,0
+Knox,001 - BICKNELL 1,County Coroner,,1,REP,Joe J. MILLSPAUGH,233,85,141,7
+Knox,001 - BICKNELL 1,County Coroner,,1,DEM,No Candidate Filed,0,0,0,0
+Knox,001 - BICKNELL 1,County Commissioner,1,1,REP,Thomas (TJ) BRINK,225,81,140,4
+Knox,001 - BICKNELL 1,County Commissioner,1,1,DEM,No Candidate Filed,0,0,0,0
+Knox,001 - BICKNELL 1,County Commissioner,2,1,REP,Timothy J. ELLERMAN II,231,82,141,8
+Knox,001 - BICKNELL 1,County Commissioner,2,1,DEM,No Candidate Filed,0,0,0,0
+Knox,001 - BICKNELL 1,County Council Member,At Large,3,REP,Jon HILLENBRAND,146,49,87,10
+Knox,001 - BICKNELL 1,County Council Member,At Large,3,REP,Kevin L. MEYER,117,43,66,8
+Knox,001 - BICKNELL 1,County Council Member,At Large,3,REP,Dan REITMEYER,108,38,62,8
+Knox,001 - BICKNELL 1,County Council Member,At Large,3,DEM,No Candidate Filed,0,0,0,0
+Knox,001 - BICKNELL 1,North Knox School Board,C,1,,No Candidate Filed,0,0,0,0
+Knox,001 - BICKNELL 1,North Knox School Board,C,1,,Write-In,10,5,5,0
+Knox,001 - BICKNELL 1,North Knox School Board,E,1,,No Candidate Filed,0,0,0,0
+Knox,001 - BICKNELL 1,North Knox School Board,E,1,,Write-In,5,4,1,0
+Knox,001 - BICKNELL 1,IN Supreme Court-Rush,,1,,Yes,143,53,83,7
+Knox,001 - BICKNELL 1,IN Supreme Court-Rush,,1,,No,62,23,37,2
+Knox,001 - BICKNELL 1,IN Supreme Court-Massa,,1,,Yes,148,56,86,6
+Knox,001 - BICKNELL 1,IN Supreme Court-Massa,,1,,No,57,18,36,3
+Knox,001 - BICKNELL 1,IN Supreme Court-Molter,,1,,Yes,155,55,94,6
+Knox,001 - BICKNELL 1,IN Supreme Court-Molter,,1,,No,58,23,33,2
+Knox,001 - BICKNELL 1,Court of Appeals Dist 1-Foley,,1,,Yes,155,54,92,9
+Knox,001 - BICKNELL 1,Court of Appeals Dist 1-Foley,,1,,No,57,22,34,1
+Knox,001 - BICKNELL 1,Court of Appeals Dist 4-Pyle III,,1,,Yes,152,51,93,8
+Knox,001 - BICKNELL 1,Court of Appeals Dist 4-Pyle III,,1,,No,57,23,33,1
+Knox,001 - BICKNELL 1,Straight Party,,,DEM,Democratic Party,8,,,
+Knox,001 - BICKNELL 1,Straight Party,,,REP,Republican Party,66,,,
+Knox,002 - BICKNELL 2,Registered Voters,,,,,480,,,
+Knox,002 - BICKNELL 2,Ballots Cast,,,,,303,119,171,13
+Knox,002 - BICKNELL 2,Public Question-Const Amendment,,1,,Yes,160,59,95,6
+Knox,002 - BICKNELL 2,Public Question-Const Amendment,,1,,No,127,51,71,5
+Knox,002 - BICKNELL 2,President,,1,REP,Donald J. TRUMP / JD VANCE,238,88,144,6
+Knox,002 - BICKNELL 2,President,,1,DEM,Kamala D. HARRIS / Tim WALZ,57,28,23,6
+Knox,002 - BICKNELL 2,President,,1,LBT,Chase OLIVER / Mike terr MAAT,3,1,2,0
+Knox,002 - BICKNELL 2,President,,1,WTP,Robert F. KENNEDY JR. / Nichole SHANAHAN,1,0,1,0
+Knox,002 - BICKNELL 2,President,,1,,Write-In,1,1,0,0
+Knox,002 - BICKNELL 2,U.S. Senate,,1,REP,Jim BANKS,207,82,118,7
+Knox,002 - BICKNELL 2,U.S. Senate,,1,DEM,Valerie McCRAY,60,27,28,5
+Knox,002 - BICKNELL 2,U.S. Senate,,1,LBT,Andrew HORNING,10,0,9,1
+Knox,002 - BICKNELL 2,U.S. Senate,,1,,Write-In,0,0,0,0
+Knox,002 - BICKNELL 2,Governor,,1,REP,Mike BRAUN / Micah BECKWITH,199,77,116,6
+Knox,002 - BICKNELL 2,Governor,,1,DEM,Jennifer G. McCORMICK / Terry GOODIN,60,28,28,4
+Knox,002 - BICKNELL 2,Governor,,1,LBT,Donald RAINWATER / Tonya HUDSON,21,3,16,2
+Knox,002 - BICKNELL 2,Governor,,1,,Write-In,1,1,0,0
+Knox,002 - BICKNELL 2,Attorney General,,1,REP,Todd ROKITA,214,82,126,6
+Knox,002 - BICKNELL 2,Attorney General,,1,DEM,Destiny WELLS,67,29,31,7
+Knox,002 - BICKNELL 2,U.S. House,8,1,REP,Mark MESSMER,222,86,128,8
+Knox,002 - BICKNELL 2,U.S. House,8,1,DEM,Erik HURT,50,24,23,3
+Knox,002 - BICKNELL 2,U.S. House,8,1,LBT,K Richard FITZLAFF,9,0,7,2
+Knox,002 - BICKNELL 2,U.S. House,8,1,,Write-In,0,0,0,0
+Knox,002 - BICKNELL 2,State House,45,1,REP,Bruce BORDERS,238,87,143,8
+Knox,002 - BICKNELL 2,State House,45,1,DEM,No Candidate Filed,0,0,0,0
+Knox,002 - BICKNELL 2,County Treasurer,,1,REP,Cendy L. JOSLIN,256,97,150,9
+Knox,002 - BICKNELL 2,County Treasurer,,1,DEM,No Candidate Filed,0,0,0,0
+Knox,002 - BICKNELL 2,County Coroner,,1,REP,Joe J. MILLSPAUGH,248,94,145,9
+Knox,002 - BICKNELL 2,County Coroner,,1,DEM,No Candidate Filed,0,0,0,0
+Knox,002 - BICKNELL 2,County Commissioner,1,1,REP,Thomas (TJ) BRINK,245,90,147,8
+Knox,002 - BICKNELL 2,County Commissioner,1,1,DEM,No Candidate Filed,0,0,0,0
+Knox,002 - BICKNELL 2,County Commissioner,2,1,REP,Timothy J. ELLERMAN II,248,92,147,9
+Knox,002 - BICKNELL 2,County Commissioner,2,1,DEM,No Candidate Filed,0,0,0,0
+Knox,002 - BICKNELL 2,County Council Member,At Large,3,REP,Jon HILLENBRAND,175,66,104,5
+Knox,002 - BICKNELL 2,County Council Member,At Large,3,REP,Kevin L. MEYER,131,45,80,6
+Knox,002 - BICKNELL 2,County Council Member,At Large,3,REP,Dan REITMEYER,123,43,71,9
+Knox,002 - BICKNELL 2,County Council Member,At Large,3,DEM,No Candidate Filed,0,0,0,0
+Knox,002 - BICKNELL 2,North Knox School Board,C,1,,No Candidate Filed,0,0,0,0
+Knox,002 - BICKNELL 2,North Knox School Board,C,1,,Write-In,8,1,5,2
+Knox,002 - BICKNELL 2,North Knox School Board,E,1,,No Candidate Filed,0,0,0,0
+Knox,002 - BICKNELL 2,North Knox School Board,E,1,,Write-In,6,1,4,1
+Knox,002 - BICKNELL 2,IN Supreme Court-Rush,,1,,Yes,162,57,98,7
+Knox,002 - BICKNELL 2,IN Supreme Court-Rush,,1,,No,68,28,36,4
+Knox,002 - BICKNELL 2,IN Supreme Court-Massa,,1,,Yes,163,57,99,7
+Knox,002 - BICKNELL 2,IN Supreme Court-Massa,,1,,No,68,26,38,4
+Knox,002 - BICKNELL 2,IN Supreme Court-Molter,,1,,Yes,171,64,101,6
+Knox,002 - BICKNELL 2,IN Supreme Court-Molter,,1,,No,73,28,40,5
+Knox,002 - BICKNELL 2,Court of Appeals Dist 1-Foley,,1,,Yes,171,66,97,8
+Knox,002 - BICKNELL 2,Court of Appeals Dist 1-Foley,,1,,No,73,27,43,3
+Knox,002 - BICKNELL 2,Court of Appeals Dist 4-Pyle III,,1,,Yes,169,66,96,7
+Knox,002 - BICKNELL 2,Court of Appeals Dist 4-Pyle III,,1,,No,75,27,44,4
+Knox,002 - BICKNELL 2,Straight Party,,,DEM,Democratic Party,8,,,
+Knox,002 - BICKNELL 2,Straight Party,,,REP,Republican Party,68,,,
+Knox,003 - BICKNELL 3,Registered Voters,,,,,427,,,
+Knox,003 - BICKNELL 3,Ballots Cast,,,,,266,101,150,15
+Knox,003 - BICKNELL 3,Public Question-Const Amendment,,1,,Yes,136,48,83,5
+Knox,003 - BICKNELL 3,Public Question-Const Amendment,,1,,No,101,39,57,5
+Knox,003 - BICKNELL 3,President,,1,REP,Donald J. TRUMP / JD VANCE,197,80,108,9
+Knox,003 - BICKNELL 3,President,,1,DEM,Kamala D. HARRIS / Tim WALZ,56,15,35,6
+Knox,003 - BICKNELL 3,President,,1,LBT,Chase OLIVER / Mike terr MAAT,3,3,0,0
+Knox,003 - BICKNELL 3,President,,1,WTP,Robert F. KENNEDY JR. / Nichole SHANAHAN,6,2,4,0
+Knox,003 - BICKNELL 3,President,,1,,Write-In,0,0,0,0
+Knox,003 - BICKNELL 3,U.S. Senate,,1,REP,Jim BANKS,177,71,99,7
+Knox,003 - BICKNELL 3,U.S. Senate,,1,DEM,Valerie McCRAY,63,19,37,7
+Knox,003 - BICKNELL 3,U.S. Senate,,1,LBT,Andrew HORNING,6,4,2,0
+Knox,003 - BICKNELL 3,U.S. Senate,,1,,Write-In,0,0,0,0
+Knox,003 - BICKNELL 3,Governor,,1,REP,Mike BRAUN / Micah BECKWITH,169,69,94,6
+Knox,003 - BICKNELL 3,Governor,,1,DEM,Jennifer G. McCORMICK / Terry GOODIN,69,21,40,8
+Knox,003 - BICKNELL 3,Governor,,1,LBT,Donald RAINWATER / Tonya HUDSON,9,5,4,0
+Knox,003 - BICKNELL 3,Governor,,1,,Write-In,0,0,0,0
+Knox,003 - BICKNELL 3,Attorney General,,1,REP,Todd ROKITA,185,74,105,6
+Knox,003 - BICKNELL 3,Attorney General,,1,DEM,Destiny WELLS,66,20,38,8
+Knox,003 - BICKNELL 3,U.S. House,8,1,REP,Mark MESSMER,196,77,111,8
+Knox,003 - BICKNELL 3,U.S. House,8,1,DEM,Erik HURT,53,17,30,6
+Knox,003 - BICKNELL 3,U.S. House,8,1,LBT,K Richard FITZLAFF,5,3,2,0
+Knox,003 - BICKNELL 3,U.S. House,8,1,,Write-In,0,0,0,0
+Knox,003 - BICKNELL 3,State House,45,1,REP,Bruce BORDERS,207,78,118,11
+Knox,003 - BICKNELL 3,State House,45,1,DEM,No Candidate Filed,0,0,0,0
+Knox,003 - BICKNELL 3,County Treasurer,,1,REP,Cendy L. JOSLIN,219,82,127,10
+Knox,003 - BICKNELL 3,County Treasurer,,1,DEM,No Candidate Filed,0,0,0,0
+Knox,003 - BICKNELL 3,County Coroner,,1,REP,Joe J. MILLSPAUGH,210,77,124,9
+Knox,003 - BICKNELL 3,County Coroner,,1,DEM,No Candidate Filed,0,0,0,0
+Knox,003 - BICKNELL 3,County Commissioner,1,1,REP,Thomas (TJ) BRINK,203,76,117,10
+Knox,003 - BICKNELL 3,County Commissioner,1,1,DEM,No Candidate Filed,0,0,0,0
+Knox,003 - BICKNELL 3,County Commissioner,2,1,REP,Timothy J. ELLERMAN II,212,78,124,10
+Knox,003 - BICKNELL 3,County Commissioner,2,1,DEM,No Candidate Filed,0,0,0,0
+Knox,003 - BICKNELL 3,County Council Member,At Large,3,REP,Jon HILLENBRAND,139,49,85,5
+Knox,003 - BICKNELL 3,County Council Member,At Large,3,REP,Kevin L. MEYER,110,42,63,5
+Knox,003 - BICKNELL 3,County Council Member,At Large,3,REP,Dan REITMEYER,109,37,67,5
+Knox,003 - BICKNELL 3,County Council Member,At Large,3,DEM,No Candidate Filed,0,0,0,0
+Knox,003 - BICKNELL 3,North Knox School Board,C,1,,No Candidate Filed,0,0,0,0
+Knox,003 - BICKNELL 3,North Knox School Board,C,1,,Write-In,4,2,2,0
+Knox,003 - BICKNELL 3,North Knox School Board,E,1,,No Candidate Filed,0,0,0,0
+Knox,003 - BICKNELL 3,North Knox School Board,E,1,,Write-In,1,1,0,0
+Knox,003 - BICKNELL 3,IN Supreme Court-Rush,,1,,Yes,140,48,84,8
+Knox,003 - BICKNELL 3,IN Supreme Court-Rush,,1,,No,52,20,32,0
+Knox,003 - BICKNELL 3,IN Supreme Court-Massa,,1,,Yes,138,49,81,8
+Knox,003 - BICKNELL 3,IN Supreme Court-Massa,,1,,No,55,19,36,0
+Knox,003 - BICKNELL 3,IN Supreme Court-Molter,,1,,Yes,139,52,80,7
+Knox,003 - BICKNELL 3,IN Supreme Court-Molter,,1,,No,54,21,33,0
+Knox,003 - BICKNELL 3,Court of Appeals Dist 1-Foley,,1,,Yes,146,54,84,8
+Knox,003 - BICKNELL 3,Court of Appeals Dist 1-Foley,,1,,No,48,18,30,0
+Knox,003 - BICKNELL 3,Court of Appeals Dist 4-Pyle III,,1,,Yes,139,52,79,8
+Knox,003 - BICKNELL 3,Court of Appeals Dist 4-Pyle III,,1,,No,54,20,34,0
+Knox,003 - BICKNELL 3,Straight Party,,,DEM,Democratic Party,11,,,
+Knox,003 - BICKNELL 3,Straight Party,,,LBT,Libertarian Party,1,,,
+Knox,003 - BICKNELL 3,Straight Party,,,REP,Republican Party,54,,,
+Knox,004 - BICKNELL 4,Registered Voters,,,,,233,,,
+Knox,004 - BICKNELL 4,Ballots Cast,,,,,137,49,81,7
+Knox,004 - BICKNELL 4,Public Question-Const Amendment,,1,,Yes,70,28,40,2
+Knox,004 - BICKNELL 4,Public Question-Const Amendment,,1,,No,56,16,38,2
+Knox,004 - BICKNELL 4,President,,1,REP,Donald J. TRUMP / JD VANCE,106,41,60,5
+Knox,004 - BICKNELL 4,President,,1,DEM,Kamala D. HARRIS / Tim WALZ,30,7,21,2
+Knox,004 - BICKNELL 4,President,,1,LBT,Chase OLIVER / Mike terr MAAT,0,0,0,0
+Knox,004 - BICKNELL 4,President,,1,WTP,Robert F. KENNEDY JR. / Nichole SHANAHAN,0,0,0,0
+Knox,004 - BICKNELL 4,President,,1,,Write-In,0,0,0,0
+Knox,004 - BICKNELL 4,U.S. Senate,,1,REP,Jim BANKS,93,37,51,5
+Knox,004 - BICKNELL 4,U.S. Senate,,1,DEM,Valerie McCRAY,19,5,13,1
+Knox,004 - BICKNELL 4,U.S. Senate,,1,LBT,Andrew HORNING,7,1,6,0
+Knox,004 - BICKNELL 4,U.S. Senate,,1,,Write-In,0,0,0,0
+Knox,004 - BICKNELL 4,Governor,,1,REP,Mike BRAUN / Micah BECKWITH,92,37,50,5
+Knox,004 - BICKNELL 4,Governor,,1,DEM,Jennifer G. McCORMICK / Terry GOODIN,23,7,15,1
+Knox,004 - BICKNELL 4,Governor,,1,LBT,Donald RAINWATER / Tonya HUDSON,5,2,3,0
+Knox,004 - BICKNELL 4,Governor,,1,,Write-In,0,0,0,0
+Knox,004 - BICKNELL 4,Attorney General,,1,REP,Todd ROKITA,98,40,54,4
+Knox,004 - BICKNELL 4,Attorney General,,1,DEM,Destiny WELLS,27,7,18,2
+Knox,004 - BICKNELL 4,U.S. House,8,1,REP,Mark MESSMER,93,38,50,5
+Knox,004 - BICKNELL 4,U.S. House,8,1,DEM,Erik HURT,25,7,17,1
+Knox,004 - BICKNELL 4,U.S. House,8,1,LBT,K Richard FITZLAFF,5,0,5,0
+Knox,004 - BICKNELL 4,U.S. House,8,1,,Write-In,0,0,0,0
+Knox,004 - BICKNELL 4,State House,45,1,REP,Bruce BORDERS,111,42,64,5
+Knox,004 - BICKNELL 4,State House,45,1,DEM,No Candidate Filed,0,0,0,0
+Knox,004 - BICKNELL 4,County Treasurer,,1,REP,Cendy L. JOSLIN,120,44,70,6
+Knox,004 - BICKNELL 4,County Treasurer,,1,DEM,No Candidate Filed,0,0,0,0
+Knox,004 - BICKNELL 4,County Coroner,,1,REP,Joe J. MILLSPAUGH,112,41,66,5
+Knox,004 - BICKNELL 4,County Coroner,,1,DEM,No Candidate Filed,0,0,0,0
+Knox,004 - BICKNELL 4,County Commissioner,1,1,REP,Thomas (TJ) BRINK,109,41,63,5
+Knox,004 - BICKNELL 4,County Commissioner,1,1,DEM,No Candidate Filed,0,0,0,0
+Knox,004 - BICKNELL 4,County Commissioner,2,1,REP,Timothy J. ELLERMAN II,113,41,67,5
+Knox,004 - BICKNELL 4,County Commissioner,2,1,DEM,No Candidate Filed,0,0,0,0
+Knox,004 - BICKNELL 4,County Council Member,At Large,3,REP,Jon HILLENBRAND,68,30,36,2
+Knox,004 - BICKNELL 4,County Council Member,At Large,3,REP,Kevin L. MEYER,54,25,27,2
+Knox,004 - BICKNELL 4,County Council Member,At Large,3,REP,Dan REITMEYER,54,23,29,2
+Knox,004 - BICKNELL 4,County Council Member,At Large,3,DEM,No Candidate Filed,0,0,0,0
+Knox,004 - BICKNELL 4,North Knox School Board,C,1,,No Candidate Filed,0,0,0,0
+Knox,004 - BICKNELL 4,North Knox School Board,C,1,,Write-In,4,1,2,1
+Knox,004 - BICKNELL 4,North Knox School Board,E,1,,No Candidate Filed,0,0,0,0
+Knox,004 - BICKNELL 4,North Knox School Board,E,1,,Write-In,5,2,2,1
+Knox,004 - BICKNELL 4,IN Supreme Court-Rush,,1,,Yes,77,31,44,2
+Knox,004 - BICKNELL 4,IN Supreme Court-Rush,,1,,No,20,3,17,0
+Knox,004 - BICKNELL 4,IN Supreme Court-Massa,,1,,Yes,71,30,39,2
+Knox,004 - BICKNELL 4,IN Supreme Court-Massa,,1,,No,23,4,19,0
+Knox,004 - BICKNELL 4,IN Supreme Court-Molter,,1,,Yes,72,31,40,1
+Knox,004 - BICKNELL 4,IN Supreme Court-Molter,,1,,No,24,3,21,0
+Knox,004 - BICKNELL 4,Court of Appeals Dist 1-Foley,,1,,Yes,74,30,43,1
+Knox,004 - BICKNELL 4,Court of Appeals Dist 1-Foley,,1,,No,21,3,18,0
+Knox,004 - BICKNELL 4,Court of Appeals Dist 4-Pyle III,,1,,Yes,74,31,41,2
+Knox,004 - BICKNELL 4,Court of Appeals Dist 4-Pyle III,,1,,No,23,3,20,0
+Knox,004 - BICKNELL 4,Straight Party,,,DEM,Democratic Party,1,,,
+Knox,004 - BICKNELL 4,Straight Party,,,REP,Republican Party,35,,,
+Knox,005 - BUSSERON,Registered Voters,,,,,815,,,
+Knox,005 - BUSSERON,Ballots Cast,,,,,565,150,392,23
+Knox,005 - BUSSERON,Public Question-Const Amendment,,1,,Yes,274,80,186,8
+Knox,005 - BUSSERON,Public Question-Const Amendment,,1,,No,204,50,147,7
+Knox,005 - BUSSERON,President,,1,REP,Donald J. TRUMP / JD VANCE,445,104,330,11
+Knox,005 - BUSSERON,President,,1,DEM,Kamala D. HARRIS / Tim WALZ,98,41,47,10
+Knox,005 - BUSSERON,President,,1,LBT,Chase OLIVER / Mike terr MAAT,4,1,3,0
+Knox,005 - BUSSERON,President,,1,WTP,Robert F. KENNEDY JR. / Nichole SHANAHAN,9,1,6,2
+Knox,005 - BUSSERON,President,,1,,Write-In,0,0,0,0
+Knox,005 - BUSSERON,U.S. Senate,,1,REP,Jim BANKS,393,99,284,10
+Knox,005 - BUSSERON,U.S. Senate,,1,DEM,Valerie McCRAY,106,34,64,8
+Knox,005 - BUSSERON,U.S. Senate,,1,LBT,Andrew HORNING,11,2,7,2
+Knox,005 - BUSSERON,U.S. Senate,,1,,Write-In,0,0,0,0
+Knox,005 - BUSSERON,Governor,,1,REP,Mike BRAUN / Micah BECKWITH,380,98,273,9
+Knox,005 - BUSSERON,Governor,,1,DEM,Jennifer G. McCORMICK / Terry GOODIN,113,38,65,10
+Knox,005 - BUSSERON,Governor,,1,LBT,Donald RAINWATER / Tonya HUDSON,23,2,19,2
+Knox,005 - BUSSERON,Governor,,1,,Write-In,0,0,0,0
+Knox,005 - BUSSERON,Attorney General,,1,REP,Todd ROKITA,403,101,292,10
+Knox,005 - BUSSERON,Attorney General,,1,DEM,Destiny WELLS,109,36,63,10
+Knox,005 - BUSSERON,U.S. House,8,1,REP,Mark MESSMER,398,101,287,10
+Knox,005 - BUSSERON,U.S. House,8,1,DEM,Erik HURT,113,37,66,10
+Knox,005 - BUSSERON,U.S. House,8,1,LBT,K Richard FITZLAFF,11,2,8,1
+Knox,005 - BUSSERON,U.S. House,8,1,,Write-In,0,0,0,0
+Knox,005 - BUSSERON,State House,45,1,REP,Bruce BORDERS,438,106,317,15
+Knox,005 - BUSSERON,State House,45,1,DEM,No Candidate Filed,0,0,0,0
+Knox,005 - BUSSERON,County Treasurer,,1,REP,Cendy L. JOSLIN,470,122,331,17
+Knox,005 - BUSSERON,County Treasurer,,1,DEM,No Candidate Filed,0,0,0,0
+Knox,005 - BUSSERON,County Coroner,,1,REP,Joe J. MILLSPAUGH,456,118,323,15
+Knox,005 - BUSSERON,County Coroner,,1,DEM,No Candidate Filed,0,0,0,0
+Knox,005 - BUSSERON,County Commissioner,1,1,REP,Thomas (TJ) BRINK,450,116,319,15
+Knox,005 - BUSSERON,County Commissioner,1,1,DEM,No Candidate Filed,0,0,0,0
+Knox,005 - BUSSERON,County Commissioner,2,1,REP,Timothy J. ELLERMAN II,451,118,319,14
+Knox,005 - BUSSERON,County Commissioner,2,1,DEM,No Candidate Filed,0,0,0,0
+Knox,005 - BUSSERON,County Council Member,At Large,3,REP,Jon HILLENBRAND,287,70,206,11
+Knox,005 - BUSSERON,County Council Member,At Large,3,REP,Kevin L. MEYER,247,69,167,11
+Knox,005 - BUSSERON,County Council Member,At Large,3,REP,Dan REITMEYER,232,61,160,11
+Knox,005 - BUSSERON,County Council Member,At Large,3,DEM,No Candidate Filed,0,0,0,0
+Knox,005 - BUSSERON,North Knox School Board,C,1,,No Candidate Filed,0,0,0,0
+Knox,005 - BUSSERON,North Knox School Board,C,1,,Write-In,3,1,2,0
+Knox,005 - BUSSERON,North Knox School Board,E,1,,No Candidate Filed,0,0,0,0
+Knox,005 - BUSSERON,North Knox School Board,E,1,,Write-In,2,1,1,0
+Knox,005 - BUSSERON,IN Supreme Court-Rush,,1,,Yes,279,71,198,10
+Knox,005 - BUSSERON,IN Supreme Court-Rush,,1,,No,107,29,75,3
+Knox,005 - BUSSERON,IN Supreme Court-Massa,,1,,Yes,282,69,204,9
+Knox,005 - BUSSERON,IN Supreme Court-Massa,,1,,No,107,33,71,3
+Knox,005 - BUSSERON,IN Supreme Court-Molter,,1,,Yes,296,74,213,9
+Knox,005 - BUSSERON,IN Supreme Court-Molter,,1,,No,106,33,70,3
+Knox,005 - BUSSERON,Court of Appeals Dist 1-Foley,,1,,Yes,290,75,206,9
+Knox,005 - BUSSERON,Court of Appeals Dist 1-Foley,,1,,No,107,29,75,3
+Knox,005 - BUSSERON,Court of Appeals Dist 4-Pyle III,,1,,Yes,286,75,202,9
+Knox,005 - BUSSERON,Court of Appeals Dist 4-Pyle III,,1,,No,114,31,80,3
+Knox,005 - BUSSERON,Straight Party,,,DEM,Democratic Party,31,,,
+Knox,005 - BUSSERON,Straight Party,,,REP,Republican Party,134,,,
+Knox,006 - DECKER,Registered Voters,,,,,151,,,
+Knox,006 - DECKER,Ballots Cast,,,,,112,34,74,4
+Knox,006 - DECKER,Public Question-Const Amendment,,1,,Yes,53,15,38,0
+Knox,006 - DECKER,Public Question-Const Amendment,,1,,No,43,16,26,1
+Knox,006 - DECKER,President,,1,REP,Donald J. TRUMP / JD VANCE,90,24,65,1
+Knox,006 - DECKER,President,,1,DEM,Kamala D. HARRIS / Tim WALZ,21,9,9,3
+Knox,006 - DECKER,President,,1,LBT,Chase OLIVER / Mike terr MAAT,0,0,0,0
+Knox,006 - DECKER,President,,1,WTP,Robert F. KENNEDY JR. / Nichole SHANAHAN,0,0,0,0
+Knox,006 - DECKER,President,,1,,Write-In,0,0,0,0
+Knox,006 - DECKER,U.S. Senate,,1,REP,Jim BANKS,80,21,58,1
+Knox,006 - DECKER,U.S. Senate,,1,DEM,Valerie McCRAY,25,10,12,3
+Knox,006 - DECKER,U.S. Senate,,1,LBT,Andrew HORNING,2,0,2,0
+Knox,006 - DECKER,U.S. Senate,,1,,Write-In,0,0,0,0
+Knox,006 - DECKER,Governor,,1,REP,Mike BRAUN / Micah BECKWITH,79,21,57,1
+Knox,006 - DECKER,Governor,,1,DEM,Jennifer G. McCORMICK / Terry GOODIN,25,11,11,3
+Knox,006 - DECKER,Governor,,1,LBT,Donald RAINWATER / Tonya HUDSON,6,1,5,0
+Knox,006 - DECKER,Governor,,1,,Write-In,0,0,0,0
+Knox,006 - DECKER,Attorney General,,1,REP,Todd ROKITA,81,24,56,1
+Knox,006 - DECKER,Attorney General,,1,DEM,Destiny WELLS,27,9,15,3
+Knox,006 - DECKER,U.S. House,8,1,REP,Mark MESSMER,85,25,59,1
+Knox,006 - DECKER,U.S. House,8,1,DEM,Erik HURT,21,8,10,3
+Knox,006 - DECKER,U.S. House,8,1,LBT,K Richard FITZLAFF,3,0,3,0
+Knox,006 - DECKER,U.S. House,8,1,,Write-In,0,0,0,0
+Knox,006 - DECKER,State House,64,1,REP,Matt HOSTETTLER,91,26,64,1
+Knox,006 - DECKER,State House,64,1,DEM,No Candidate Filed,0,0,0,0
+Knox,006 - DECKER,County Treasurer,,1,REP,Cendy L. JOSLIN,89,26,62,1
+Knox,006 - DECKER,County Treasurer,,1,DEM,No Candidate Filed,0,0,0,0
+Knox,006 - DECKER,County Coroner,,1,REP,Joe J. MILLSPAUGH,89,26,62,1
+Knox,006 - DECKER,County Coroner,,1,DEM,No Candidate Filed,0,0,0,0
+Knox,006 - DECKER,County Commissioner,1,1,REP,Thomas (TJ) BRINK,88,25,62,1
+Knox,006 - DECKER,County Commissioner,1,1,DEM,No Candidate Filed,0,0,0,0
+Knox,006 - DECKER,County Commissioner,2,1,REP,Timothy J. ELLERMAN II,81,24,56,1
+Knox,006 - DECKER,County Commissioner,2,1,DEM,No Candidate Filed,0,0,0,0
+Knox,006 - DECKER,County Council Member,At Large,3,REP,Jon HILLENBRAND,58,18,39,1
+Knox,006 - DECKER,County Council Member,At Large,3,REP,Kevin L. MEYER,63,24,38,1
+Knox,006 - DECKER,County Council Member,At Large,3,REP,Dan REITMEYER,54,17,36,1
+Knox,006 - DECKER,County Council Member,At Large,3,DEM,No Candidate Filed,0,0,0,0
+Knox,006 - DECKER,South Knox School Board,B,1,,Jason C. ELLERMAN,82,25,56,1
+Knox,006 - DECKER,South Knox School Board,C,1,,John CARNAHAN,65,27,37,1
+Knox,006 - DECKER,South Knox School Board,C,1,,Michael EDWARDS,30,6,24,0
+Knox,006 - DECKER,South Knox School Board,E,1,,Alicia (Bunny) HOUCHIN,71,23,47,1
+Knox,006 - DECKER,IN Supreme Court-Rush,,1,,Yes,60,17,43,0
+Knox,006 - DECKER,IN Supreme Court-Rush,,1,,No,25,8,16,1
+Knox,006 - DECKER,IN Supreme Court-Massa,,1,,Yes,60,17,43,0
+Knox,006 - DECKER,IN Supreme Court-Massa,,1,,No,26,9,16,1
+Knox,006 - DECKER,IN Supreme Court-Molter,,1,,Yes,60,19,41,0
+Knox,006 - DECKER,IN Supreme Court-Molter,,1,,No,25,7,17,1
+Knox,006 - DECKER,Court of Appeals Dist 1-Foley,,1,,Yes,61,19,42,0
+Knox,006 - DECKER,Court of Appeals Dist 1-Foley,,1,,No,24,7,16,1
+Knox,006 - DECKER,Court of Appeals Dist 4-Pyle III,,1,,Yes,57,17,40,0
+Knox,006 - DECKER,Court of Appeals Dist 4-Pyle III,,1,,No,29,10,18,1
+Knox,006 - DECKER,Straight Party,,,DEM,Democratic Party,5,,,
+Knox,006 - DECKER,Straight Party,,,REP,Republican Party,31,,,
+Knox,007 - HARRISON,Registered Voters,,,,,1348,,,
+Knox,007 - HARRISON,Ballots Cast,,,,,1056,550,447,59
+Knox,007 - HARRISON,Public Question-Const Amendment,,1,,Yes,506,276,210,20
+Knox,007 - HARRISON,Public Question-Const Amendment,,1,,No,414,214,174,26
+Knox,007 - HARRISON,President,,1,REP,Donald J. TRUMP / JD VANCE,862,459,371,32
+Knox,007 - HARRISON,President,,1,DEM,Kamala D. HARRIS / Tim WALZ,165,76,65,24
+Knox,007 - HARRISON,President,,1,LBT,Chase OLIVER / Mike terr MAAT,4,1,3,0
+Knox,007 - HARRISON,President,,1,WTP,Robert F. KENNEDY JR. / Nichole SHANAHAN,12,9,3,0
+Knox,007 - HARRISON,President,,1,,Write-In,1,0,0,1
+Knox,007 - HARRISON,U.S. Senate,,1,REP,Jim BANKS,781,417,330,34
+Knox,007 - HARRISON,U.S. Senate,,1,DEM,Valerie McCRAY,165,79,64,22
+Knox,007 - HARRISON,U.S. Senate,,1,LBT,Andrew HORNING,23,14,8,1
+Knox,007 - HARRISON,U.S. Senate,,1,,Write-In,0,0,0,0
+Knox,007 - HARRISON,Governor,,1,REP,Mike BRAUN / Micah BECKWITH,775,412,332,31
+Knox,007 - HARRISON,Governor,,1,DEM,Jennifer G. McCORMICK / Terry GOODIN,185,91,68,26
+Knox,007 - HARRISON,Governor,,1,LBT,Donald RAINWATER / Tonya HUDSON,38,17,19,2
+Knox,007 - HARRISON,Governor,,1,,Write-In,0,0,0,0
+Knox,007 - HARRISON,Attorney General,,1,REP,Todd ROKITA,797,435,327,35
+Knox,007 - HARRISON,Attorney General,,1,DEM,Destiny WELLS,181,83,76,22
+Knox,007 - HARRISON,U.S. House,8,1,REP,Mark MESSMER,830,442,354,34
+Knox,007 - HARRISON,U.S. House,8,1,DEM,Erik HURT,151,73,56,22
+Knox,007 - HARRISON,U.S. House,8,1,LBT,K Richard FITZLAFF,14,6,7,1
+Knox,007 - HARRISON,U.S. House,8,1,,Write-In,0,0,0,0
+Knox,007 - HARRISON,State House,64,1,REP,Matt HOSTETTLER,880,469,376,35
+Knox,007 - HARRISON,State House,64,1,DEM,No Candidate Filed,0,0,0,0
+Knox,007 - HARRISON,County Treasurer,,1,REP,Cendy L. JOSLIN,879,470,373,36
+Knox,007 - HARRISON,County Treasurer,,1,DEM,No Candidate Filed,0,0,0,0
+Knox,007 - HARRISON,County Coroner,,1,REP,Joe J. MILLSPAUGH,875,466,373,36
+Knox,007 - HARRISON,County Coroner,,1,DEM,No Candidate Filed,0,0,0,0
+Knox,007 - HARRISON,County Commissioner,1,1,REP,Thomas (TJ) BRINK,846,452,362,32
+Knox,007 - HARRISON,County Commissioner,1,1,DEM,No Candidate Filed,0,0,0,0
+Knox,007 - HARRISON,County Commissioner,2,1,REP,Timothy J. ELLERMAN II,809,424,351,34
+Knox,007 - HARRISON,County Commissioner,2,1,DEM,No Candidate Filed,0,0,0,0
+Knox,007 - HARRISON,County Council Member,At Large,3,REP,Jon HILLENBRAND,556,300,232,24
+Knox,007 - HARRISON,County Council Member,At Large,3,REP,Kevin L. MEYER,688,361,294,33
+Knox,007 - HARRISON,County Council Member,At Large,3,REP,Dan REITMEYER,515,274,214,27
+Knox,007 - HARRISON,County Council Member,At Large,3,DEM,No Candidate Filed,0,0,0,0
+Knox,007 - HARRISON,South Knox School Board,B,1,,Jason C. ELLERMAN,698,368,298,32
+Knox,007 - HARRISON,South Knox School Board,C,1,,John CARNAHAN,659,373,255,31
+Knox,007 - HARRISON,South Knox School Board,C,1,,Michael EDWARDS,297,127,155,15
+Knox,007 - HARRISON,South Knox School Board,E,1,,Alicia (Bunny) HOUCHIN,747,399,311,37
+Knox,007 - HARRISON,IN Supreme Court-Rush,,1,,Yes,549,301,225,23
+Knox,007 - HARRISON,IN Supreme Court-Rush,,1,,No,228,109,102,17
+Knox,007 - HARRISON,IN Supreme Court-Massa,,1,,Yes,555,303,230,22
+Knox,007 - HARRISON,IN Supreme Court-Massa,,1,,No,221,108,97,16
+Knox,007 - HARRISON,IN Supreme Court-Molter,,1,,Yes,555,304,231,20
+Knox,007 - HARRISON,IN Supreme Court-Molter,,1,,No,222,107,97,18
+Knox,007 - HARRISON,Court of Appeals Dist 1-Foley,,1,,Yes,548,298,231,19
+Knox,007 - HARRISON,Court of Appeals Dist 1-Foley,,1,,No,222,110,94,18
+Knox,007 - HARRISON,Court of Appeals Dist 4-Pyle III,,1,,Yes,551,300,230,21
+Knox,007 - HARRISON,Court of Appeals Dist 4-Pyle III,,1,,No,226,113,96,17
+Knox,007 - HARRISON,Straight Party,,,DEM,Democratic Party,18,,,
+Knox,007 - HARRISON,Straight Party,,,REP,Republican Party,202,,,
+Knox,008 - JOHNSON,Registered Voters,,,,,870,,,
+Knox,008 - JOHNSON,Ballots Cast,,,,,681,307,341,33
+Knox,008 - JOHNSON,Public Question-Const Amendment,,1,,Yes,304,142,154,8
+Knox,008 - JOHNSON,Public Question-Const Amendment,,1,,No,264,120,136,8
+Knox,008 - JOHNSON,President,,1,REP,Donald J. TRUMP / JD VANCE,539,239,286,14
+Knox,008 - JOHNSON,President,,1,DEM,Kamala D. HARRIS / Tim WALZ,115,57,43,15
+Knox,008 - JOHNSON,President,,1,LBT,Chase OLIVER / Mike terr MAAT,3,0,3,0
+Knox,008 - JOHNSON,President,,1,WTP,Robert F. KENNEDY JR. / Nichole SHANAHAN,10,5,5,0
+Knox,008 - JOHNSON,President,,1,,Write-In,0,0,0,0
+Knox,008 - JOHNSON,U.S. Senate,,1,REP,Jim BANKS,478,215,251,12
+Knox,008 - JOHNSON,U.S. Senate,,1,DEM,Valerie McCRAY,124,55,51,18
+Knox,008 - JOHNSON,U.S. Senate,,1,LBT,Andrew HORNING,13,7,5,1
+Knox,008 - JOHNSON,U.S. Senate,,1,,Write-In,0,0,0,0
+Knox,008 - JOHNSON,Governor,,1,REP,Mike BRAUN / Micah BECKWITH,473,210,249,14
+Knox,008 - JOHNSON,Governor,,1,DEM,Jennifer G. McCORMICK / Terry GOODIN,134,67,55,12
+Knox,008 - JOHNSON,Governor,,1,LBT,Donald RAINWATER / Tonya HUDSON,27,11,13,3
+Knox,008 - JOHNSON,Governor,,1,,Write-In,0,0,0,0
+Knox,008 - JOHNSON,Attorney General,,1,REP,Todd ROKITA,488,218,254,16
+Knox,008 - JOHNSON,Attorney General,,1,DEM,Destiny WELLS,135,68,52,15
+Knox,008 - JOHNSON,U.S. House,8,1,REP,Mark MESSMER,525,232,273,20
+Knox,008 - JOHNSON,U.S. House,8,1,DEM,Erik HURT,106,52,42,12
+Knox,008 - JOHNSON,U.S. House,8,1,LBT,K Richard FITZLAFF,13,8,5,0
+Knox,008 - JOHNSON,U.S. House,8,1,,Write-In,0,0,0,0
+Knox,008 - JOHNSON,State House,64,1,REP,Matt HOSTETTLER,555,252,282,21
+Knox,008 - JOHNSON,State House,64,1,DEM,No Candidate Filed,0,0,0,0
+Knox,008 - JOHNSON,County Treasurer,,1,REP,Cendy L. JOSLIN,544,249,277,18
+Knox,008 - JOHNSON,County Treasurer,,1,DEM,No Candidate Filed,0,0,0,0
+Knox,008 - JOHNSON,County Coroner,,1,REP,Joe J. MILLSPAUGH,531,240,275,16
+Knox,008 - JOHNSON,County Coroner,,1,DEM,No Candidate Filed,0,0,0,0
+Knox,008 - JOHNSON,County Commissioner,1,1,REP,Thomas (TJ) BRINK,507,230,261,16
+Knox,008 - JOHNSON,County Commissioner,1,1,DEM,No Candidate Filed,0,0,0,0
+Knox,008 - JOHNSON,County Commissioner,2,1,REP,Timothy J. ELLERMAN II,506,227,263,16
+Knox,008 - JOHNSON,County Commissioner,2,1,DEM,No Candidate Filed,0,0,0,0
+Knox,008 - JOHNSON,County Council Member,At Large,3,REP,Jon HILLENBRAND,368,172,188,8
+Knox,008 - JOHNSON,County Council Member,At Large,3,REP,Kevin L. MEYER,412,192,206,14
+Knox,008 - JOHNSON,County Council Member,At Large,3,REP,Dan REITMEYER,334,157,168,9
+Knox,008 - JOHNSON,County Council Member,At Large,3,DEM,No Candidate Filed,0,0,0,0
+Knox,008 - JOHNSON,South Knox School Board,B,1,,Jason C. ELLERMAN,486,216,253,17
+Knox,008 - JOHNSON,South Knox School Board,C,1,,John CARNAHAN,415,192,206,17
+Knox,008 - JOHNSON,South Knox School Board,C,1,,Michael EDWARDS,170,69,93,8
+Knox,008 - JOHNSON,South Knox School Board,E,1,,Alicia (Bunny) HOUCHIN,469,208,242,19
+Knox,008 - JOHNSON,IN Supreme Court-Rush,,1,,Yes,334,146,174,14
+Knox,008 - JOHNSON,IN Supreme Court-Rush,,1,,No,154,70,80,4
+Knox,008 - JOHNSON,IN Supreme Court-Massa,,1,,Yes,338,146,178,14
+Knox,008 - JOHNSON,IN Supreme Court-Massa,,1,,No,149,69,77,3
+Knox,008 - JOHNSON,IN Supreme Court-Molter,,1,,Yes,351,153,187,11
+Knox,008 - JOHNSON,IN Supreme Court-Molter,,1,,No,146,63,77,6
+Knox,008 - JOHNSON,Court of Appeals Dist 1-Foley,,1,,Yes,354,150,189,15
+Knox,008 - JOHNSON,Court of Appeals Dist 1-Foley,,1,,No,140,65,72,3
+Knox,008 - JOHNSON,Court of Appeals Dist 4-Pyle III,,1,,Yes,346,144,188,14
+Knox,008 - JOHNSON,Court of Appeals Dist 4-Pyle III,,1,,No,138,68,67,3
+Knox,008 - JOHNSON,Straight Party,,,DEM,Democratic Party,16,,,
+Knox,008 - JOHNSON,Straight Party,,,REP,Republican Party,127,,,
+Knox,009 - PALMYRA,Registered Voters,,,,,1142,,,
+Knox,009 - PALMYRA,Ballots Cast,,,,,897,541,322,34
+Knox,009 - PALMYRA,Public Question-Const Amendment,,1,,Yes,421,246,164,11
+Knox,009 - PALMYRA,Public Question-Const Amendment,,1,,No,336,213,108,15
+Knox,009 - PALMYRA,President,,1,REP,Donald J. TRUMP / JD VANCE,706,415,271,20
+Knox,009 - PALMYRA,President,,1,DEM,Kamala D. HARRIS / Tim WALZ,169,114,42,13
+Knox,009 - PALMYRA,President,,1,LBT,Chase OLIVER / Mike terr MAAT,2,1,1,0
+Knox,009 - PALMYRA,President,,1,WTP,Robert F. KENNEDY JR. / Nichole SHANAHAN,8,2,5,1
+Knox,009 - PALMYRA,President,,1,,Write-In,0,0,0,0
+Knox,009 - PALMYRA,U.S. Senate,,1,REP,Jim BANKS,629,367,244,18
+Knox,009 - PALMYRA,U.S. Senate,,1,DEM,Valerie McCRAY,171,114,44,13
+Knox,009 - PALMYRA,U.S. Senate,,1,LBT,Andrew HORNING,16,6,8,2
+Knox,009 - PALMYRA,U.S. Senate,,1,,Write-In,0,0,0,0
+Knox,009 - PALMYRA,Governor,,1,REP,Mike BRAUN / Micah BECKWITH,600,359,224,17
+Knox,009 - PALMYRA,Governor,,1,DEM,Jennifer G. McCORMICK / Terry GOODIN,200,130,59,11
+Knox,009 - PALMYRA,Governor,,1,LBT,Donald RAINWATER / Tonya HUDSON,37,15,18,4
+Knox,009 - PALMYRA,Governor,,1,,Write-In,0,0,0,0
+Knox,009 - PALMYRA,Attorney General,,1,REP,Todd ROKITA,639,372,247,20
+Knox,009 - PALMYRA,Attorney General,,1,DEM,Destiny WELLS,179,115,50,14
+Knox,009 - PALMYRA,U.S. House,8,1,REP,Mark MESSMER,674,400,255,19
+Knox,009 - PALMYRA,U.S. House,8,1,DEM,Erik HURT,157,102,43,12
+Knox,009 - PALMYRA,U.S. House,8,1,LBT,K Richard FITZLAFF,17,7,7,3
+Knox,009 - PALMYRA,U.S. House,8,1,,Write-In,0,0,0,0
+Knox,009 - PALMYRA,State House,64,1,REP,Matt HOSTETTLER,715,415,275,25
+Knox,009 - PALMYRA,State House,64,1,DEM,No Candidate Filed,0,0,0,0
+Knox,009 - PALMYRA,County Treasurer,,1,REP,Cendy L. JOSLIN,729,433,270,26
+Knox,009 - PALMYRA,County Treasurer,,1,DEM,No Candidate Filed,0,0,0,0
+Knox,009 - PALMYRA,County Coroner,,1,REP,Joe J. MILLSPAUGH,720,423,271,26
+Knox,009 - PALMYRA,County Coroner,,1,DEM,No Candidate Filed,0,0,0,0
+Knox,009 - PALMYRA,County Commissioner,1,1,REP,Thomas (TJ) BRINK,698,410,263,25
+Knox,009 - PALMYRA,County Commissioner,1,1,DEM,No Candidate Filed,0,0,0,0
+Knox,009 - PALMYRA,County Commissioner,2,1,REP,Timothy J. ELLERMAN II,682,402,256,24
+Knox,009 - PALMYRA,County Commissioner,2,1,DEM,No Candidate Filed,0,0,0,0
+Knox,009 - PALMYRA,County Council Member,At Large,3,REP,Jon HILLENBRAND,509,305,182,22
+Knox,009 - PALMYRA,County Council Member,At Large,3,REP,Kevin L. MEYER,533,325,192,16
+Knox,009 - PALMYRA,County Council Member,At Large,3,REP,Dan REITMEYER,452,274,157,21
+Knox,009 - PALMYRA,County Council Member,At Large,3,DEM,No Candidate Filed,0,0,0,0
+Knox,009 - PALMYRA,South Knox School Board,B,1,,Jason C. ELLERMAN,559,331,204,24
+Knox,009 - PALMYRA,South Knox School Board,C,1,,John CARNAHAN,542,324,200,18
+Knox,009 - PALMYRA,South Knox School Board,C,1,,Michael EDWARDS,225,140,74,11
+Knox,009 - PALMYRA,South Knox School Board,E,1,,Alicia (Bunny) HOUCHIN,577,340,213,24
+Knox,009 - PALMYRA,IN Supreme Court-Rush,,1,,Yes,440,263,158,19
+Knox,009 - PALMYRA,IN Supreme Court-Rush,,1,,No,198,123,69,6
+Knox,009 - PALMYRA,IN Supreme Court-Massa,,1,,Yes,435,260,157,18
+Knox,009 - PALMYRA,IN Supreme Court-Massa,,1,,No,197,120,69,8
+Knox,009 - PALMYRA,IN Supreme Court-Molter,,1,,Yes,429,249,162,18
+Knox,009 - PALMYRA,IN Supreme Court-Molter,,1,,No,198,122,68,8
+Knox,009 - PALMYRA,Court of Appeals Dist 1-Foley,,1,,Yes,426,253,159,14
+Knox,009 - PALMYRA,Court of Appeals Dist 1-Foley,,1,,No,197,118,68,11
+Knox,009 - PALMYRA,Court of Appeals Dist 4-Pyle III,,1,,Yes,419,248,154,17
+Knox,009 - PALMYRA,Court of Appeals Dist 4-Pyle III,,1,,No,200,119,73,8
+Knox,009 - PALMYRA,Straight Party,,,DEM,Democratic Party,21,,,
+Knox,009 - PALMYRA,Straight Party,,,REP,Republican Party,167,,,
+Knox,010 - STEEN,Registered Voters,,,,,548,,,
+Knox,010 - STEEN,Ballots Cast,,,,,404,102,289,13
+Knox,010 - STEEN,Public Question-Const Amendment,,1,,Yes,231,55,175,1
+Knox,010 - STEEN,Public Question-Const Amendment,,1,,No,128,36,84,8
+Knox,010 - STEEN,President,,1,REP,Donald J. TRUMP / JD VANCE,332,83,245,4
+Knox,010 - STEEN,President,,1,DEM,Kamala D. HARRIS / Tim WALZ,66,18,40,8
+Knox,010 - STEEN,President,,1,LBT,Chase OLIVER / Mike terr MAAT,2,1,1,0
+Knox,010 - STEEN,President,,1,WTP,Robert F. KENNEDY JR. / Nichole SHANAHAN,1,0,0,1
+Knox,010 - STEEN,President,,1,,Write-In,0,0,0,0
+Knox,010 - STEEN,U.S. Senate,,1,REP,Jim BANKS,291,76,212,3
+Knox,010 - STEEN,U.S. Senate,,1,DEM,Valerie McCRAY,70,15,46,9
+Knox,010 - STEEN,U.S. Senate,,1,LBT,Andrew HORNING,14,3,11,0
+Knox,010 - STEEN,U.S. Senate,,1,,Write-In,0,0,0,0
+Knox,010 - STEEN,Governor,,1,REP,Mike BRAUN / Micah BECKWITH,288,77,207,4
+Knox,010 - STEEN,Governor,,1,DEM,Jennifer G. McCORMICK / Terry GOODIN,77,19,50,8
+Knox,010 - STEEN,Governor,,1,LBT,Donald RAINWATER / Tonya HUDSON,19,2,17,0
+Knox,010 - STEEN,Governor,,1,,Write-In,0,0,0,0
+Knox,010 - STEEN,Attorney General,,1,REP,Todd ROKITA,303,80,219,4
+Knox,010 - STEEN,Attorney General,,1,DEM,Destiny WELLS,77,18,51,8
+Knox,010 - STEEN,U.S. House,8,1,REP,Mark MESSMER,306,76,226,4
+Knox,010 - STEEN,U.S. House,8,1,DEM,Erik HURT,68,20,40,8
+Knox,010 - STEEN,U.S. House,8,1,LBT,K Richard FITZLAFF,9,4,5,0
+Knox,010 - STEEN,U.S. House,8,1,,Write-In,0,0,0,0
+Knox,010 - STEEN,State House,64,1,REP,Matt HOSTETTLER,340,85,249,6
+Knox,010 - STEEN,State House,64,1,DEM,No Candidate Filed,0,0,0,0
+Knox,010 - STEEN,County Treasurer,,1,REP,Cendy L. JOSLIN,343,84,252,7
+Knox,010 - STEEN,County Treasurer,,1,DEM,No Candidate Filed,0,0,0,0
+Knox,010 - STEEN,County Coroner,,1,REP,Joe J. MILLSPAUGH,331,84,240,7
+Knox,010 - STEEN,County Coroner,,1,DEM,No Candidate Filed,0,0,0,0
+Knox,010 - STEEN,County Commissioner,1,1,REP,Thomas (TJ) BRINK,330,84,240,6
+Knox,010 - STEEN,County Commissioner,1,1,DEM,No Candidate Filed,0,0,0,0
+Knox,010 - STEEN,County Commissioner,2,1,REP,Timothy J. ELLERMAN II,319,78,236,5
+Knox,010 - STEEN,County Commissioner,2,1,DEM,No Candidate Filed,0,0,0,0
+Knox,010 - STEEN,County Council Member,At Large,3,REP,Jon HILLENBRAND,216,50,158,8
+Knox,010 - STEEN,County Council Member,At Large,3,REP,Kevin L. MEYER,232,54,170,8
+Knox,010 - STEEN,County Council Member,At Large,3,REP,Dan REITMEYER,195,47,140,8
+Knox,010 - STEEN,County Council Member,At Large,3,DEM,No Candidate Filed,0,0,0,0
+Knox,010 - STEEN,South Knox School Board,B,1,,Jason C. ELLERMAN,261,64,190,7
+Knox,010 - STEEN,South Knox School Board,C,1,,John CARNAHAN,280,64,206,10
+Knox,010 - STEEN,South Knox School Board,C,1,,Michael EDWARDS,89,26,60,3
+Knox,010 - STEEN,South Knox School Board,E,1,,Alicia (Bunny) HOUCHIN,268,67,193,8
+Knox,010 - STEEN,IN Supreme Court-Rush,,1,,Yes,227,54,166,7
+Knox,010 - STEEN,IN Supreme Court-Rush,,1,,No,79,24,53,2
+Knox,010 - STEEN,IN Supreme Court-Massa,,1,,Yes,226,55,165,6
+Knox,010 - STEEN,IN Supreme Court-Massa,,1,,No,84,24,57,3
+Knox,010 - STEEN,IN Supreme Court-Molter,,1,,Yes,232,55,172,5
+Knox,010 - STEEN,IN Supreme Court-Molter,,1,,No,84,26,54,4
+Knox,010 - STEEN,Court of Appeals Dist 1-Foley,,1,,Yes,226,53,168,5
+Knox,010 - STEEN,Court of Appeals Dist 1-Foley,,1,,No,85,25,56,4
+Knox,010 - STEEN,Court of Appeals Dist 4-Pyle III,,1,,Yes,222,52,165,5
+Knox,010 - STEEN,Court of Appeals Dist 4-Pyle III,,1,,No,92,28,60,4
+Knox,010 - STEEN,Straight Party,,,DEM,Democratic Party,13,,,
+Knox,010 - STEEN,Straight Party,,,REP,Republican Party,84,,,
+Knox,011 - VIGO 1,Registered Voters,,,,,1004,,,
+Knox,011 - VIGO 1,Ballots Cast,,,,,757,139,591,27
+Knox,011 - VIGO 1,Public Question-Const Amendment,,1,,Yes,378,76,293,9
+Knox,011 - VIGO 1,Public Question-Const Amendment,,1,,No,270,51,214,5
+Knox,011 - VIGO 1,President,,1,REP,Donald J. TRUMP / JD VANCE,588,114,458,16
+Knox,011 - VIGO 1,President,,1,DEM,Kamala D. HARRIS / Tim WALZ,143,23,110,10
+Knox,011 - VIGO 1,President,,1,LBT,Chase OLIVER / Mike terr MAAT,4,0,4,0
+Knox,011 - VIGO 1,President,,1,WTP,Robert F. KENNEDY JR. / Nichole SHANAHAN,7,0,7,0
+Knox,011 - VIGO 1,President,,1,,Write-In,0,0,0,0
+Knox,011 - VIGO 1,U.S. Senate,,1,REP,Jim BANKS,542,103,425,14
+Knox,011 - VIGO 1,U.S. Senate,,1,DEM,Valerie McCRAY,142,21,111,10
+Knox,011 - VIGO 1,U.S. Senate,,1,LBT,Andrew HORNING,23,4,19,0
+Knox,011 - VIGO 1,U.S. Senate,,1,,Write-In,0,0,0,0
+Knox,011 - VIGO 1,Governor,,1,REP,Mike BRAUN / Micah BECKWITH,500,98,390,12
+Knox,011 - VIGO 1,Governor,,1,DEM,Jennifer G. McCORMICK / Terry GOODIN,157,21,125,11
+Knox,011 - VIGO 1,Governor,,1,LBT,Donald RAINWATER / Tonya HUDSON,62,12,49,1
+Knox,011 - VIGO 1,Governor,,1,,Write-In,0,0,0,0
+Knox,011 - VIGO 1,Attorney General,,1,REP,Todd ROKITA,553,106,434,13
+Knox,011 - VIGO 1,Attorney General,,1,DEM,Destiny WELLS,158,23,125,10
+Knox,011 - VIGO 1,U.S. House,8,1,REP,Mark MESSMER,572,110,448,14
+Knox,011 - VIGO 1,U.S. House,8,1,DEM,Erik HURT,119,18,92,9
+Knox,011 - VIGO 1,U.S. House,8,1,LBT,K Richard FITZLAFF,26,3,23,0
+Knox,011 - VIGO 1,U.S. House,8,1,,Write-In,1,0,1,0
+Knox,011 - VIGO 1,State House,45,1,REP,Bruce BORDERS,602,107,481,14
+Knox,011 - VIGO 1,State House,45,1,DEM,No Candidate Filed,0,0,0,0
+Knox,011 - VIGO 1,County Treasurer,,1,REP,Cendy L. JOSLIN,656,121,520,15
+Knox,011 - VIGO 1,County Treasurer,,1,DEM,No Candidate Filed,0,0,0,0
+Knox,011 - VIGO 1,County Coroner,,1,REP,Joe J. MILLSPAUGH,619,115,490,14
+Knox,011 - VIGO 1,County Coroner,,1,DEM,No Candidate Filed,0,0,0,0
+Knox,011 - VIGO 1,County Commissioner,1,1,REP,Thomas (TJ) BRINK,611,112,485,14
+Knox,011 - VIGO 1,County Commissioner,1,1,DEM,No Candidate Filed,0,0,0,0
+Knox,011 - VIGO 1,County Commissioner,2,1,REP,Timothy J. ELLERMAN II,612,108,490,14
+Knox,011 - VIGO 1,County Commissioner,2,1,DEM,No Candidate Filed,0,0,0,0
+Knox,011 - VIGO 1,County Council Member,At Large,3,REP,Jon HILLENBRAND,400,70,322,8
+Knox,011 - VIGO 1,County Council Member,At Large,3,REP,Kevin L. MEYER,372,72,292,8
+Knox,011 - VIGO 1,County Council Member,At Large,3,REP,Dan REITMEYER,331,63,262,6
+Knox,011 - VIGO 1,County Council Member,At Large,3,DEM,No Candidate Filed,0,0,0,0
+Knox,011 - VIGO 1,North Knox School Board,C,1,,No Candidate Filed,0,0,0,0
+Knox,011 - VIGO 1,North Knox School Board,C,1,,Write-In,14,3,10,1
+Knox,011 - VIGO 1,North Knox School Board,E,1,,No Candidate Filed,0,0,0,0
+Knox,011 - VIGO 1,North Knox School Board,E,1,,Write-In,8,3,4,1
+Knox,011 - VIGO 1,IN Supreme Court-Rush,,1,,Yes,407,73,328,6
+Knox,011 - VIGO 1,IN Supreme Court-Rush,,1,,No,124,24,94,6
+Knox,011 - VIGO 1,IN Supreme Court-Massa,,1,,Yes,396,72,321,3
+Knox,011 - VIGO 1,IN Supreme Court-Massa,,1,,No,131,25,97,9
+Knox,011 - VIGO 1,IN Supreme Court-Molter,,1,,Yes,406,71,332,3
+Knox,011 - VIGO 1,IN Supreme Court-Molter,,1,,No,130,29,92,9
+Knox,011 - VIGO 1,Court of Appeals Dist 1-Foley,,1,,Yes,402,68,329,5
+Knox,011 - VIGO 1,Court of Appeals Dist 1-Foley,,1,,No,123,26,90,7
+Knox,011 - VIGO 1,Court of Appeals Dist 4-Pyle III,,1,,Yes,399,69,326,4
+Knox,011 - VIGO 1,Court of Appeals Dist 4-Pyle III,,1,,No,131,27,96,8
+Knox,011 - VIGO 1,Straight Party,,,DEM,Democratic Party,31,,,
+Knox,011 - VIGO 1,Straight Party,,,REP,Republican Party,183,,,
+Knox,012 - VINCENNES CITY 1,Registered Voters,,,,,1575,,,
+Knox,012 - VINCENNES CITY 1,Ballots Cast,,,,,779,423,322,34
+Knox,012 - VINCENNES CITY 1,Public Question-Const Amendment,,1,,Yes,373,195,166,12
+Knox,012 - VINCENNES CITY 1,Public Question-Const Amendment,,1,,No,282,168,106,8
+Knox,012 - VINCENNES CITY 1,President,,1,REP,Donald J. TRUMP / JD VANCE,467,240,208,19
+Knox,012 - VINCENNES CITY 1,President,,1,DEM,Kamala D. HARRIS / Tim WALZ,286,176,96,14
+Knox,012 - VINCENNES CITY 1,President,,1,LBT,Chase OLIVER / Mike terr MAAT,5,1,4,0
+Knox,012 - VINCENNES CITY 1,President,,1,WTP,Robert F. KENNEDY JR. / Nichole SHANAHAN,9,3,5,1
+Knox,012 - VINCENNES CITY 1,President,,1,,Write-In,0,0,0,0
+Knox,012 - VINCENNES CITY 1,U.S. Senate,,1,REP,Jim BANKS,425,221,188,16
+Knox,012 - VINCENNES CITY 1,U.S. Senate,,1,DEM,Valerie McCRAY,265,164,85,16
+Knox,012 - VINCENNES CITY 1,U.S. Senate,,1,LBT,Andrew HORNING,26,9,16,1
+Knox,012 - VINCENNES CITY 1,U.S. Senate,,1,,Write-In,0,0,0,0
+Knox,012 - VINCENNES CITY 1,Governor,,1,REP,Mike BRAUN / Micah BECKWITH,428,225,187,16
+Knox,012 - VINCENNES CITY 1,Governor,,1,DEM,Jennifer G. McCORMICK / Terry GOODIN,275,165,94,16
+Knox,012 - VINCENNES CITY 1,Governor,,1,LBT,Donald RAINWATER / Tonya HUDSON,30,12,18,0
+Knox,012 - VINCENNES CITY 1,Governor,,1,,Write-In,0,0,0,0
+Knox,012 - VINCENNES CITY 1,Attorney General,,1,REP,Todd ROKITA,433,226,189,18
+Knox,012 - VINCENNES CITY 1,Attorney General,,1,DEM,Destiny WELLS,284,169,101,14
+Knox,012 - VINCENNES CITY 1,U.S. House,8,1,REP,Mark MESSMER,468,243,205,20
+Knox,012 - VINCENNES CITY 1,U.S. House,8,1,DEM,Erik HURT,246,152,81,13
+Knox,012 - VINCENNES CITY 1,U.S. House,8,1,LBT,K Richard FITZLAFF,21,9,12,0
+Knox,012 - VINCENNES CITY 1,U.S. House,8,1,,Write-In,0,0,0,0
+Knox,012 - VINCENNES CITY 1,State House,64,1,REP,Matt HOSTETTLER,538,278,241,19
+Knox,012 - VINCENNES CITY 1,State House,64,1,DEM,No Candidate Filed,0,0,0,0
+Knox,012 - VINCENNES CITY 1,County Treasurer,,1,REP,Cendy L. JOSLIN,567,300,247,20
+Knox,012 - VINCENNES CITY 1,County Treasurer,,1,DEM,No Candidate Filed,0,0,0,0
+Knox,012 - VINCENNES CITY 1,County Coroner,,1,REP,Joe J. MILLSPAUGH,554,298,237,19
+Knox,012 - VINCENNES CITY 1,County Coroner,,1,DEM,No Candidate Filed,0,0,0,0
+Knox,012 - VINCENNES CITY 1,County Commissioner,1,1,REP,Thomas (TJ) BRINK,543,288,236,19
+Knox,012 - VINCENNES CITY 1,County Commissioner,1,1,DEM,No Candidate Filed,0,0,0,0
+Knox,012 - VINCENNES CITY 1,County Commissioner,2,1,REP,Timothy J. ELLERMAN II,542,289,236,17
+Knox,012 - VINCENNES CITY 1,County Commissioner,2,1,DEM,No Candidate Filed,0,0,0,0
+Knox,012 - VINCENNES CITY 1,County Council Member,At Large,3,REP,Jon HILLENBRAND,385,209,163,13
+Knox,012 - VINCENNES CITY 1,County Council Member,At Large,3,REP,Kevin L. MEYER,325,186,129,10
+Knox,012 - VINCENNES CITY 1,County Council Member,At Large,3,REP,Dan REITMEYER,331,192,128,11
+Knox,012 - VINCENNES CITY 1,County Council Member,At Large,3,DEM,No Candidate Filed,0,0,0,0
+Knox,012 - VINCENNES CITY 1,Vincennes Community SB,At Large,3,,Aaron M. BAUER,284,171,102,11
+Knox,012 - VINCENNES CITY 1,Vincennes Community SB,At Large,3,,Kolby KERZAN,263,143,113,7
+Knox,012 - VINCENNES CITY 1,Vincennes Community SB,At Large,3,,Karla A. SMITH,303,180,110,13
+Knox,012 - VINCENNES CITY 1,Vincennes Community SB,At Large,3,,Barb TOOLE,265,153,100,12
+Knox,012 - VINCENNES CITY 1,Vincennes Community SB,At Large,3,,McKenzie M. YOUNG,258,142,108,8
+Knox,012 - VINCENNES CITY 1,IN Supreme Court-Rush,,1,,Yes,422,233,174,15
+Knox,012 - VINCENNES CITY 1,IN Supreme Court-Rush,,1,,No,174,94,75,5
+Knox,012 - VINCENNES CITY 1,IN Supreme Court-Massa,,1,,Yes,411,230,166,15
+Knox,012 - VINCENNES CITY 1,IN Supreme Court-Massa,,1,,No,176,94,78,4
+Knox,012 - VINCENNES CITY 1,IN Supreme Court-Molter,,1,,Yes,402,216,174,12
+Knox,012 - VINCENNES CITY 1,IN Supreme Court-Molter,,1,,No,176,96,73,7
+Knox,012 - VINCENNES CITY 1,Court of Appeals Dist 1-Foley,,1,,Yes,415,228,172,15
+Knox,012 - VINCENNES CITY 1,Court of Appeals Dist 1-Foley,,1,,No,163,84,74,5
+Knox,012 - VINCENNES CITY 1,Court of Appeals Dist 4-Pyle III,,1,,Yes,405,220,171,14
+Knox,012 - VINCENNES CITY 1,Court of Appeals Dist 4-Pyle III,,1,,No,169,89,75,5
+Knox,012 - VINCENNES CITY 1,Straight Party,,,DEM,Democratic Party,57,,,
+Knox,012 - VINCENNES CITY 1,Straight Party,,,LBT,Libertarian Party,1,,,
+Knox,012 - VINCENNES CITY 1,Straight Party,,,REP,Republican Party,166,,,
+Knox,013 - VINCENNES CITY 2,Registered Voters,,,,,757,,,
+Knox,013 - VINCENNES CITY 2,Ballots Cast,,,,,371,158,198,15
+Knox,013 - VINCENNES CITY 2,Public Question-Const Amendment,,1,,Yes,173,72,96,5
+Knox,013 - VINCENNES CITY 2,Public Question-Const Amendment,,1,,No,117,55,58,4
+Knox,013 - VINCENNES CITY 2,President,,1,REP,Donald J. TRUMP / JD VANCE,258,107,144,7
+Knox,013 - VINCENNES CITY 2,President,,1,DEM,Kamala D. HARRIS / Tim WALZ,101,46,47,8
+Knox,013 - VINCENNES CITY 2,President,,1,LBT,Chase OLIVER / Mike terr MAAT,3,2,1,0
+Knox,013 - VINCENNES CITY 2,President,,1,WTP,Robert F. KENNEDY JR. / Nichole SHANAHAN,3,0,3,0
+Knox,013 - VINCENNES CITY 2,President,,1,,Write-In,0,0,0,0
+Knox,013 - VINCENNES CITY 2,U.S. Senate,,1,REP,Jim BANKS,210,94,112,4
+Knox,013 - VINCENNES CITY 2,U.S. Senate,,1,DEM,Valerie McCRAY,95,41,46,8
+Knox,013 - VINCENNES CITY 2,U.S. Senate,,1,LBT,Andrew HORNING,12,4,8,0
+Knox,013 - VINCENNES CITY 2,U.S. Senate,,1,,Write-In,0,0,0,0
+Knox,013 - VINCENNES CITY 2,Governor,,1,REP,Mike BRAUN / Micah BECKWITH,212,89,120,3
+Knox,013 - VINCENNES CITY 2,Governor,,1,DEM,Jennifer G. McCORMICK / Terry GOODIN,107,50,49,8
+Knox,013 - VINCENNES CITY 2,Governor,,1,LBT,Donald RAINWATER / Tonya HUDSON,13,2,10,1
+Knox,013 - VINCENNES CITY 2,Governor,,1,,Write-In,0,0,0,0
+Knox,013 - VINCENNES CITY 2,Attorney General,,1,REP,Todd ROKITA,222,96,122,4
+Knox,013 - VINCENNES CITY 2,Attorney General,,1,DEM,Destiny WELLS,101,43,50,8
+Knox,013 - VINCENNES CITY 2,U.S. House,8,1,REP,Mark MESSMER,232,100,128,4
+Knox,013 - VINCENNES CITY 2,U.S. House,8,1,DEM,Erik HURT,91,42,42,7
+Knox,013 - VINCENNES CITY 2,U.S. House,8,1,LBT,K Richard FITZLAFF,13,3,9,1
+Knox,013 - VINCENNES CITY 2,U.S. House,8,1,,Write-In,0,0,0,0
+Knox,013 - VINCENNES CITY 2,State House,64,1,REP,Matt HOSTETTLER,257,105,147,5
+Knox,013 - VINCENNES CITY 2,State House,64,1,DEM,No Candidate Filed,0,0,0,0
+Knox,013 - VINCENNES CITY 2,County Treasurer,,1,REP,Cendy L. JOSLIN,262,105,151,6
+Knox,013 - VINCENNES CITY 2,County Treasurer,,1,DEM,No Candidate Filed,0,0,0,0
+Knox,013 - VINCENNES CITY 2,County Coroner,,1,REP,Joe J. MILLSPAUGH,261,105,151,5
+Knox,013 - VINCENNES CITY 2,County Coroner,,1,DEM,No Candidate Filed,0,0,0,0
+Knox,013 - VINCENNES CITY 2,County Commissioner,1,1,REP,Thomas (TJ) BRINK,258,103,149,6
+Knox,013 - VINCENNES CITY 2,County Commissioner,1,1,DEM,No Candidate Filed,0,0,0,0
+Knox,013 - VINCENNES CITY 2,County Commissioner,2,1,REP,Timothy J. ELLERMAN II,262,104,152,6
+Knox,013 - VINCENNES CITY 2,County Commissioner,2,1,DEM,No Candidate Filed,0,0,0,0
+Knox,013 - VINCENNES CITY 2,County Council Member,At Large,3,REP,Jon HILLENBRAND,169,69,97,3
+Knox,013 - VINCENNES CITY 2,County Council Member,At Large,3,REP,Kevin L. MEYER,144,64,77,3
+Knox,013 - VINCENNES CITY 2,County Council Member,At Large,3,REP,Dan REITMEYER,124,52,70,2
+Knox,013 - VINCENNES CITY 2,County Council Member,At Large,3,DEM,No Candidate Filed,0,0,0,0
+Knox,013 - VINCENNES CITY 2,Vincennes Community SB,At Large,3,,Aaron M. BAUER,133,60,70,3
+Knox,013 - VINCENNES CITY 2,Vincennes Community SB,At Large,3,,Kolby KERZAN,110,46,62,2
+Knox,013 - VINCENNES CITY 2,Vincennes Community SB,At Large,3,,Karla A. SMITH,135,58,73,4
+Knox,013 - VINCENNES CITY 2,Vincennes Community SB,At Large,3,,Barb TOOLE,109,46,61,2
+Knox,013 - VINCENNES CITY 2,Vincennes Community SB,At Large,3,,McKenzie M. YOUNG,110,40,62,8
+Knox,013 - VINCENNES CITY 2,IN Supreme Court-Rush,,1,,Yes,178,76,98,4
+Knox,013 - VINCENNES CITY 2,IN Supreme Court-Rush,,1,,No,73,32,37,4
+Knox,013 - VINCENNES CITY 2,IN Supreme Court-Massa,,1,,Yes,167,74,93,0
+Knox,013 - VINCENNES CITY 2,IN Supreme Court-Massa,,1,,No,83,35,40,8
+Knox,013 - VINCENNES CITY 2,IN Supreme Court-Molter,,1,,Yes,177,76,99,2
+Knox,013 - VINCENNES CITY 2,IN Supreme Court-Molter,,1,,No,79,38,36,5
+Knox,013 - VINCENNES CITY 2,Court of Appeals Dist 1-Foley,,1,,Yes,175,76,98,1
+Knox,013 - VINCENNES CITY 2,Court of Appeals Dist 1-Foley,,1,,No,81,37,37,7
+Knox,013 - VINCENNES CITY 2,Court of Appeals Dist 4-Pyle III,,1,,Yes,180,77,98,5
+Knox,013 - VINCENNES CITY 2,Court of Appeals Dist 4-Pyle III,,1,,No,71,30,37,4
+Knox,013 - VINCENNES CITY 2,Straight Party,,,DEM,Democratic Party,25,,,
+Knox,013 - VINCENNES CITY 2,Straight Party,,,REP,Republican Party,93,,,
+Knox,014 - VINCENNES CITY 3,Registered Voters,,,,,989,,,
+Knox,014 - VINCENNES CITY 3,Ballots Cast,,,,,532,278,236,18
+Knox,014 - VINCENNES CITY 3,Public Question-Const Amendment,,1,,Yes,261,129,126,6
+Knox,014 - VINCENNES CITY 3,Public Question-Const Amendment,,1,,No,187,101,80,6
+Knox,014 - VINCENNES CITY 3,President,,1,REP,Donald J. TRUMP / JD VANCE,356,177,169,10
+Knox,014 - VINCENNES CITY 3,President,,1,DEM,Kamala D. HARRIS / Tim WALZ,166,97,61,8
+Knox,014 - VINCENNES CITY 3,President,,1,LBT,Chase OLIVER / Mike terr MAAT,3,1,2,0
+Knox,014 - VINCENNES CITY 3,President,,1,WTP,Robert F. KENNEDY JR. / Nichole SHANAHAN,5,2,3,0
+Knox,014 - VINCENNES CITY 3,President,,1,,Write-In,1,0,1,0
+Knox,014 - VINCENNES CITY 3,U.S. Senate,,1,REP,Jim BANKS,318,162,148,8
+Knox,014 - VINCENNES CITY 3,U.S. Senate,,1,DEM,Valerie McCRAY,150,82,59,9
+Knox,014 - VINCENNES CITY 3,U.S. Senate,,1,LBT,Andrew HORNING,18,5,13,0
+Knox,014 - VINCENNES CITY 3,U.S. Senate,,1,,Write-In,0,0,0,0
+Knox,014 - VINCENNES CITY 3,Governor,,1,REP,Mike BRAUN / Micah BECKWITH,299,159,133,7
+Knox,014 - VINCENNES CITY 3,Governor,,1,DEM,Jennifer G. McCORMICK / Terry GOODIN,165,90,66,9
+Knox,014 - VINCENNES CITY 3,Governor,,1,LBT,Donald RAINWATER / Tonya HUDSON,29,8,20,1
+Knox,014 - VINCENNES CITY 3,Governor,,1,,Write-In,0,0,0,0
+Knox,014 - VINCENNES CITY 3,Attorney General,,1,REP,Todd ROKITA,327,164,156,7
+Knox,014 - VINCENNES CITY 3,Attorney General,,1,DEM,Destiny WELLS,161,89,63,9
+Knox,014 - VINCENNES CITY 3,U.S. House,8,1,REP,Mark MESSMER,337,175,155,7
+Knox,014 - VINCENNES CITY 3,U.S. House,8,1,DEM,Erik HURT,141,78,55,8
+Knox,014 - VINCENNES CITY 3,U.S. House,8,1,LBT,K Richard FITZLAFF,16,4,11,1
+Knox,014 - VINCENNES CITY 3,U.S. House,8,1,,Write-In,0,0,0,0
+Knox,014 - VINCENNES CITY 3,State House,64,1,REP,Matt HOSTETTLER,397,198,188,11
+Knox,014 - VINCENNES CITY 3,State House,64,1,DEM,No Candidate Filed,0,0,0,0
+Knox,014 - VINCENNES CITY 3,County Treasurer,,1,REP,Cendy L. JOSLIN,413,207,197,9
+Knox,014 - VINCENNES CITY 3,County Treasurer,,1,DEM,No Candidate Filed,0,0,0,0
+Knox,014 - VINCENNES CITY 3,County Coroner,,1,REP,Joe J. MILLSPAUGH,414,206,198,10
+Knox,014 - VINCENNES CITY 3,County Coroner,,1,DEM,No Candidate Filed,0,0,0,0
+Knox,014 - VINCENNES CITY 3,County Commissioner,1,1,REP,Thomas (TJ) BRINK,409,203,196,10
+Knox,014 - VINCENNES CITY 3,County Commissioner,1,1,DEM,No Candidate Filed,0,0,0,0
+Knox,014 - VINCENNES CITY 3,County Commissioner,2,1,REP,Timothy J. ELLERMAN II,412,207,194,11
+Knox,014 - VINCENNES CITY 3,County Commissioner,2,1,DEM,No Candidate Filed,0,0,0,0
+Knox,014 - VINCENNES CITY 3,County Council Member,At Large,3,REP,Jon HILLENBRAND,261,121,132,8
+Knox,014 - VINCENNES CITY 3,County Council Member,At Large,3,REP,Kevin L. MEYER,240,117,116,7
+Knox,014 - VINCENNES CITY 3,County Council Member,At Large,3,REP,Dan REITMEYER,217,105,105,7
+Knox,014 - VINCENNES CITY 3,County Council Member,At Large,3,DEM,No Candidate Filed,0,0,0,0
+Knox,014 - VINCENNES CITY 3,Vincennes Community SB,At Large,3,,Aaron M. BAUER,199,101,95,3
+Knox,014 - VINCENNES CITY 3,Vincennes Community SB,At Large,3,,Kolby KERZAN,187,80,102,5
+Knox,014 - VINCENNES CITY 3,Vincennes Community SB,At Large,3,,Karla A. SMITH,223,123,93,7
+Knox,014 - VINCENNES CITY 3,Vincennes Community SB,At Large,3,,Barb TOOLE,162,83,72,7
+Knox,014 - VINCENNES CITY 3,Vincennes Community SB,At Large,3,,McKenzie M. YOUNG,151,78,70,3
+Knox,014 - VINCENNES CITY 3,IN Supreme Court-Rush,,1,,Yes,281,142,131,8
+Knox,014 - VINCENNES CITY 3,IN Supreme Court-Rush,,1,,No,109,51,57,1
+Knox,014 - VINCENNES CITY 3,IN Supreme Court-Massa,,1,,Yes,270,134,130,6
+Knox,014 - VINCENNES CITY 3,IN Supreme Court-Massa,,1,,No,118,56,60,2
+Knox,014 - VINCENNES CITY 3,IN Supreme Court-Molter,,1,,Yes,275,138,132,5
+Knox,014 - VINCENNES CITY 3,IN Supreme Court-Molter,,1,,No,117,55,59,3
+Knox,014 - VINCENNES CITY 3,Court of Appeals Dist 1-Foley,,1,,Yes,281,141,134,6
+Knox,014 - VINCENNES CITY 3,Court of Appeals Dist 1-Foley,,1,,No,103,45,56,2
+Knox,014 - VINCENNES CITY 3,Court of Appeals Dist 4-Pyle III,,1,,Yes,270,135,131,4
+Knox,014 - VINCENNES CITY 3,Court of Appeals Dist 4-Pyle III,,1,,No,117,54,59,4
+Knox,014 - VINCENNES CITY 3,Straight Party,,,DEM,Democratic Party,34,,,
+Knox,014 - VINCENNES CITY 3,Straight Party,,,REP,Republican Party,124,,,
+Knox,015 - VINCENNES CITY 4,Registered Voters,,,,,1914,,,
+Knox,015 - VINCENNES CITY 4,Ballots Cast,,,,,1033,502,469,62
+Knox,015 - VINCENNES CITY 4,Public Question-Const Amendment,,1,,Yes,499,241,236,22
+Knox,015 - VINCENNES CITY 4,Public Question-Const Amendment,,1,,No,362,177,164,21
+Knox,015 - VINCENNES CITY 4,President,,1,REP,Donald J. TRUMP / JD VANCE,688,325,335,28
+Knox,015 - VINCENNES CITY 4,President,,1,DEM,Kamala D. HARRIS / Tim WALZ,312,164,121,27
+Knox,015 - VINCENNES CITY 4,President,,1,LBT,Chase OLIVER / Mike terr MAAT,7,2,4,1
+Knox,015 - VINCENNES CITY 4,President,,1,WTP,Robert F. KENNEDY JR. / Nichole SHANAHAN,12,4,4,4
+Knox,015 - VINCENNES CITY 4,President,,1,,Write-In,2,1,1,0
+Knox,015 - VINCENNES CITY 4,U.S. Senate,,1,REP,Jim BANKS,613,284,297,32
+Knox,015 - VINCENNES CITY 4,U.S. Senate,,1,DEM,Valerie McCRAY,306,160,120,26
+Knox,015 - VINCENNES CITY 4,U.S. Senate,,1,LBT,Andrew HORNING,25,7,16,2
+Knox,015 - VINCENNES CITY 4,U.S. Senate,,1,,Write-In,0,0,0,0
+Knox,015 - VINCENNES CITY 4,Governor,,1,REP,Mike BRAUN / Micah BECKWITH,596,286,281,29
+Knox,015 - VINCENNES CITY 4,Governor,,1,DEM,Jennifer G. McCORMICK / Terry GOODIN,315,155,133,27
+Knox,015 - VINCENNES CITY 4,Governor,,1,LBT,Donald RAINWATER / Tonya HUDSON,43,16,24,3
+Knox,015 - VINCENNES CITY 4,Governor,,1,,Write-In,0,0,0,0
+Knox,015 - VINCENNES CITY 4,Attorney General,,1,REP,Todd ROKITA,633,298,305,30
+Knox,015 - VINCENNES CITY 4,Attorney General,,1,DEM,Destiny WELLS,330,163,140,27
+Knox,015 - VINCENNES CITY 4,U.S. House,8,1,REP,Mark MESSMER,666,320,315,31
+Knox,015 - VINCENNES CITY 4,U.S. House,8,1,DEM,Erik HURT,273,138,111,24
+Knox,015 - VINCENNES CITY 4,U.S. House,8,1,LBT,K Richard FITZLAFF,26,9,14,3
+Knox,015 - VINCENNES CITY 4,U.S. House,8,1,,Write-In,0,0,0,0
+Knox,015 - VINCENNES CITY 4,State House,64,1,REP,Matt HOSTETTLER,790,365,388,37
+Knox,015 - VINCENNES CITY 4,State House,64,1,DEM,No Candidate Filed,0,0,0,0
+Knox,015 - VINCENNES CITY 4,County Treasurer,,1,REP,Cendy L. JOSLIN,806,375,393,38
+Knox,015 - VINCENNES CITY 4,County Treasurer,,1,DEM,No Candidate Filed,0,0,0,0
+Knox,015 - VINCENNES CITY 4,County Coroner,,1,REP,Joe J. MILLSPAUGH,803,372,393,38
+Knox,015 - VINCENNES CITY 4,County Coroner,,1,DEM,No Candidate Filed,0,0,0,0
+Knox,015 - VINCENNES CITY 4,County Commissioner,1,1,REP,Thomas (TJ) BRINK,794,371,387,36
+Knox,015 - VINCENNES CITY 4,County Commissioner,1,1,DEM,No Candidate Filed,0,0,0,0
+Knox,015 - VINCENNES CITY 4,County Commissioner,2,1,REP,Timothy J. ELLERMAN II,794,367,392,35
+Knox,015 - VINCENNES CITY 4,County Commissioner,2,1,DEM,No Candidate Filed,0,0,0,0
+Knox,015 - VINCENNES CITY 4,County Council Member,At Large,3,REP,Jon HILLENBRAND,526,246,249,31
+Knox,015 - VINCENNES CITY 4,County Council Member,At Large,3,REP,Kevin L. MEYER,453,212,209,32
+Knox,015 - VINCENNES CITY 4,County Council Member,At Large,3,REP,Dan REITMEYER,456,223,203,30
+Knox,015 - VINCENNES CITY 4,County Council Member,At Large,3,DEM,No Candidate Filed,0,0,0,0
+Knox,015 - VINCENNES CITY 4,Vincennes Community SB,At Large,3,,Aaron M. BAUER,430,219,189,22
+Knox,015 - VINCENNES CITY 4,Vincennes Community SB,At Large,3,,Kolby KERZAN,379,155,209,15
+Knox,015 - VINCENNES CITY 4,Vincennes Community SB,At Large,3,,Karla A. SMITH,440,227,189,24
+Knox,015 - VINCENNES CITY 4,Vincennes Community SB,At Large,3,,Barb TOOLE,342,166,154,22
+Knox,015 - VINCENNES CITY 4,Vincennes Community SB,At Large,3,,McKenzie M. YOUNG,351,167,165,19
+Knox,015 - VINCENNES CITY 4,IN Supreme Court-Rush,,1,,Yes,532,238,271,23
+Knox,015 - VINCENNES CITY 4,IN Supreme Court-Rush,,1,,No,235,119,105,11
+Knox,015 - VINCENNES CITY 4,IN Supreme Court-Massa,,1,,Yes,540,259,263,18
+Knox,015 - VINCENNES CITY 4,IN Supreme Court-Massa,,1,,No,217,96,105,16
+Knox,015 - VINCENNES CITY 4,IN Supreme Court-Molter,,1,,Yes,545,255,274,16
+Knox,015 - VINCENNES CITY 4,IN Supreme Court-Molter,,1,,No,224,106,103,15
+Knox,015 - VINCENNES CITY 4,Court of Appeals Dist 1-Foley,,1,,Yes,539,255,265,19
+Knox,015 - VINCENNES CITY 4,Court of Appeals Dist 1-Foley,,1,,No,221,100,108,13
+Knox,015 - VINCENNES CITY 4,Court of Appeals Dist 4-Pyle III,,1,,Yes,544,251,272,21
+Knox,015 - VINCENNES CITY 4,Court of Appeals Dist 4-Pyle III,,1,,No,217,101,103,13
+Knox,015 - VINCENNES CITY 4,Straight Party,,,DEM,Democratic Party,62,,,
+Knox,015 - VINCENNES CITY 4,Straight Party,,,REP,Republican Party,231,,,
+Knox,016 - VINCENNES CITY 5,Registered Voters,,,,,862,,,
+Knox,016 - VINCENNES CITY 5,Ballots Cast,,,,,544,291,217,36
+Knox,016 - VINCENNES CITY 5,Public Question-Const Amendment,,1,,Yes,245,138,101,6
+Knox,016 - VINCENNES CITY 5,Public Question-Const Amendment,,1,,No,193,102,76,15
+Knox,016 - VINCENNES CITY 5,President,,1,REP,Donald J. TRUMP / JD VANCE,381,215,150,16
+Knox,016 - VINCENNES CITY 5,President,,1,DEM,Kamala D. HARRIS / Tim WALZ,147,72,59,16
+Knox,016 - VINCENNES CITY 5,President,,1,LBT,Chase OLIVER / Mike terr MAAT,2,0,2,0
+Knox,016 - VINCENNES CITY 5,President,,1,WTP,Robert F. KENNEDY JR. / Nichole SHANAHAN,6,0,3,3
+Knox,016 - VINCENNES CITY 5,President,,1,,Write-In,0,0,0,0
+Knox,016 - VINCENNES CITY 5,U.S. Senate,,1,REP,Jim BANKS,335,195,122,18
+Knox,016 - VINCENNES CITY 5,U.S. Senate,,1,DEM,Valerie McCRAY,138,65,62,11
+Knox,016 - VINCENNES CITY 5,U.S. Senate,,1,LBT,Andrew HORNING,21,11,10,0
+Knox,016 - VINCENNES CITY 5,U.S. Senate,,1,,Write-In,0,0,0,0
+Knox,016 - VINCENNES CITY 5,Governor,,1,REP,Mike BRAUN / Micah BECKWITH,336,186,131,19
+Knox,016 - VINCENNES CITY 5,Governor,,1,DEM,Jennifer G. McCORMICK / Terry GOODIN,143,71,59,13
+Knox,016 - VINCENNES CITY 5,Governor,,1,LBT,Donald RAINWATER / Tonya HUDSON,28,16,12,0
+Knox,016 - VINCENNES CITY 5,Governor,,1,,Write-In,0,0,0,0
+Knox,016 - VINCENNES CITY 5,Attorney General,,1,REP,Todd ROKITA,348,199,133,16
+Knox,016 - VINCENNES CITY 5,Attorney General,,1,DEM,Destiny WELLS,148,68,65,15
+Knox,016 - VINCENNES CITY 5,U.S. House,8,1,REP,Mark MESSMER,353,200,135,18
+Knox,016 - VINCENNES CITY 5,U.S. House,8,1,DEM,Erik HURT,136,65,57,14
+Knox,016 - VINCENNES CITY 5,U.S. House,8,1,LBT,K Richard FITZLAFF,16,9,7,0
+Knox,016 - VINCENNES CITY 5,U.S. House,8,1,,Write-In,0,0,0,0
+Knox,016 - VINCENNES CITY 5,State House,64,1,REP,Matt HOSTETTLER,403,219,165,19
+Knox,016 - VINCENNES CITY 5,State House,64,1,DEM,No Candidate Filed,0,0,0,0
+Knox,016 - VINCENNES CITY 5,County Treasurer,,1,REP,Cendy L. JOSLIN,416,222,177,17
+Knox,016 - VINCENNES CITY 5,County Treasurer,,1,DEM,No Candidate Filed,0,0,0,0
+Knox,016 - VINCENNES CITY 5,County Coroner,,1,REP,Joe J. MILLSPAUGH,409,221,171,17
+Knox,016 - VINCENNES CITY 5,County Coroner,,1,DEM,No Candidate Filed,0,0,0,0
+Knox,016 - VINCENNES CITY 5,County Commissioner,1,1,REP,Thomas (TJ) BRINK,406,216,173,17
+Knox,016 - VINCENNES CITY 5,County Commissioner,1,1,DEM,No Candidate Filed,0,0,0,0
+Knox,016 - VINCENNES CITY 5,County Commissioner,2,1,REP,Timothy J. ELLERMAN II,386,200,170,16
+Knox,016 - VINCENNES CITY 5,County Commissioner,2,1,DEM,No Candidate Filed,0,0,0,0
+Knox,016 - VINCENNES CITY 5,County Council Member,At Large,3,REP,Jon HILLENBRAND,273,145,117,11
+Knox,016 - VINCENNES CITY 5,County Council Member,At Large,3,REP,Kevin L. MEYER,244,133,98,13
+Knox,016 - VINCENNES CITY 5,County Council Member,At Large,3,REP,Dan REITMEYER,223,130,81,12
+Knox,016 - VINCENNES CITY 5,County Council Member,At Large,3,DEM,No Candidate Filed,0,0,0,0
+Knox,016 - VINCENNES CITY 5,Vincennes Community SB,At Large,3,,Aaron M. BAUER,223,132,83,8
+Knox,016 - VINCENNES CITY 5,Vincennes Community SB,At Large,3,,Kolby KERZAN,204,108,83,13
+Knox,016 - VINCENNES CITY 5,Vincennes Community SB,At Large,3,,Karla A. SMITH,226,138,78,10
+Knox,016 - VINCENNES CITY 5,Vincennes Community SB,At Large,3,,Barb TOOLE,172,97,65,10
+Knox,016 - VINCENNES CITY 5,Vincennes Community SB,At Large,3,,McKenzie M. YOUNG,158,92,57,9
+Knox,016 - VINCENNES CITY 5,IN Supreme Court-Rush,,1,,Yes,300,169,121,10
+Knox,016 - VINCENNES CITY 5,IN Supreme Court-Rush,,1,,No,88,43,39,6
+Knox,016 - VINCENNES CITY 5,IN Supreme Court-Massa,,1,,Yes,300,164,125,11
+Knox,016 - VINCENNES CITY 5,IN Supreme Court-Massa,,1,,No,82,42,36,4
+Knox,016 - VINCENNES CITY 5,IN Supreme Court-Molter,,1,,Yes,291,159,122,10
+Knox,016 - VINCENNES CITY 5,IN Supreme Court-Molter,,1,,No,91,50,36,5
+Knox,016 - VINCENNES CITY 5,Court of Appeals Dist 1-Foley,,1,,Yes,298,166,123,9
+Knox,016 - VINCENNES CITY 5,Court of Appeals Dist 1-Foley,,1,,No,81,42,34,5
+Knox,016 - VINCENNES CITY 5,Court of Appeals Dist 4-Pyle III,,1,,Yes,304,172,121,11
+Knox,016 - VINCENNES CITY 5,Court of Appeals Dist 4-Pyle III,,1,,No,79,40,36,3
+Knox,016 - VINCENNES CITY 5,Straight Party,,,DEM,Democratic Party,33,,,
+Knox,016 - VINCENNES CITY 5,Straight Party,,,REP,Republican Party,137,,,
+Knox,017 - VINCENNES CITY 6,Registered Voters,,,,,1376,,,
+Knox,017 - VINCENNES CITY 6,Ballots Cast,,,,,869,455,349,65
+Knox,017 - VINCENNES CITY 6,Public Question-Const Amendment,,1,,Yes,424,203,189,32
+Knox,017 - VINCENNES CITY 6,Public Question-Const Amendment,,1,,No,323,197,114,12
+Knox,017 - VINCENNES CITY 6,President,,1,REP,Donald J. TRUMP / JD VANCE,583,296,259,28
+Knox,017 - VINCENNES CITY 6,President,,1,DEM,Kamala D. HARRIS / Tim WALZ,259,150,77,32
+Knox,017 - VINCENNES CITY 6,President,,1,LBT,Chase OLIVER / Mike terr MAAT,7,2,5,0
+Knox,017 - VINCENNES CITY 6,President,,1,WTP,Robert F. KENNEDY JR. / Nichole SHANAHAN,6,2,4,0
+Knox,017 - VINCENNES CITY 6,President,,1,,Write-In,2,0,1,1
+Knox,017 - VINCENNES CITY 6,U.S. Senate,,1,REP,Jim BANKS,536,282,225,29
+Knox,017 - VINCENNES CITY 6,U.S. Senate,,1,DEM,Valerie McCRAY,246,143,73,30
+Knox,017 - VINCENNES CITY 6,U.S. Senate,,1,LBT,Andrew HORNING,23,5,15,3
+Knox,017 - VINCENNES CITY 6,U.S. Senate,,1,,Write-In,1,0,1,0
+Knox,017 - VINCENNES CITY 6,Governor,,1,REP,Mike BRAUN / Micah BECKWITH,530,276,223,31
+Knox,017 - VINCENNES CITY 6,Governor,,1,DEM,Jennifer G. McCORMICK / Terry GOODIN,252,146,74,32
+Knox,017 - VINCENNES CITY 6,Governor,,1,LBT,Donald RAINWATER / Tonya HUDSON,30,11,19,0
+Knox,017 - VINCENNES CITY 6,Governor,,1,,Write-In,0,0,0,0
+Knox,017 - VINCENNES CITY 6,Attorney General,,1,REP,Todd ROKITA,536,280,228,28
+Knox,017 - VINCENNES CITY 6,Attorney General,,1,DEM,Destiny WELLS,266,144,89,33
+Knox,017 - VINCENNES CITY 6,U.S. House,8,1,REP,Mark MESSMER,571,296,240,35
+Knox,017 - VINCENNES CITY 6,U.S. House,8,1,DEM,Erik HURT,227,129,70,28
+Knox,017 - VINCENNES CITY 6,U.S. House,8,1,LBT,K Richard FITZLAFF,18,5,13,0
+Knox,017 - VINCENNES CITY 6,U.S. House,8,1,,Write-In,0,0,0,0
+Knox,017 - VINCENNES CITY 6,State House,64,1,REP,Matt HOSTETTLER,656,346,273,37
+Knox,017 - VINCENNES CITY 6,State House,64,1,DEM,No Candidate Filed,0,0,0,0
+Knox,017 - VINCENNES CITY 6,County Treasurer,,1,REP,Cendy L. JOSLIN,669,363,270,36
+Knox,017 - VINCENNES CITY 6,County Treasurer,,1,DEM,No Candidate Filed,0,0,0,0
+Knox,017 - VINCENNES CITY 6,County Coroner,,1,REP,Joe J. MILLSPAUGH,666,360,272,34
+Knox,017 - VINCENNES CITY 6,County Coroner,,1,DEM,No Candidate Filed,0,0,0,0
+Knox,017 - VINCENNES CITY 6,County Commissioner,1,1,REP,Thomas (TJ) BRINK,650,346,269,35
+Knox,017 - VINCENNES CITY 6,County Commissioner,1,1,DEM,No Candidate Filed,0,0,0,0
+Knox,017 - VINCENNES CITY 6,County Commissioner,2,1,REP,Timothy J. ELLERMAN II,645,342,271,32
+Knox,017 - VINCENNES CITY 6,County Commissioner,2,1,DEM,No Candidate Filed,0,0,0,0
+Knox,017 - VINCENNES CITY 6,County Council Member,At Large,3,REP,Jon HILLENBRAND,456,249,188,19
+Knox,017 - VINCENNES CITY 6,County Council Member,At Large,3,REP,Kevin L. MEYER,439,250,169,20
+Knox,017 - VINCENNES CITY 6,County Council Member,At Large,3,REP,Dan REITMEYER,381,216,147,18
+Knox,017 - VINCENNES CITY 6,County Council Member,At Large,3,DEM,No Candidate Filed,0,0,0,0
+Knox,017 - VINCENNES CITY 6,Vincennes Community SB,At Large,3,,Aaron M. BAUER,362,210,125,27
+Knox,017 - VINCENNES CITY 6,Vincennes Community SB,At Large,3,,Kolby KERZAN,299,145,135,19
+Knox,017 - VINCENNES CITY 6,Vincennes Community SB,At Large,3,,Karla A. SMITH,397,238,134,25
+Knox,017 - VINCENNES CITY 6,Vincennes Community SB,At Large,3,,Barb TOOLE,294,167,102,25
+Knox,017 - VINCENNES CITY 6,Vincennes Community SB,At Large,3,,McKenzie M. YOUNG,256,140,102,14
+Knox,017 - VINCENNES CITY 6,IN Supreme Court-Rush,,1,,Yes,480,249,200,31
+Knox,017 - VINCENNES CITY 6,IN Supreme Court-Rush,,1,,No,166,100,64,2
+Knox,017 - VINCENNES CITY 6,IN Supreme Court-Massa,,1,,Yes,469,241,202,26
+Knox,017 - VINCENNES CITY 6,IN Supreme Court-Massa,,1,,No,166,99,59,8
+Knox,017 - VINCENNES CITY 6,IN Supreme Court-Molter,,1,,Yes,470,240,207,23
+Knox,017 - VINCENNES CITY 6,IN Supreme Court-Molter,,1,,No,170,103,59,8
+Knox,017 - VINCENNES CITY 6,Court of Appeals Dist 1-Foley,,1,,Yes,461,232,202,27
+Knox,017 - VINCENNES CITY 6,Court of Appeals Dist 1-Foley,,1,,No,163,104,55,4
+Knox,017 - VINCENNES CITY 6,Court of Appeals Dist 4-Pyle III,,1,,Yes,460,236,198,26
+Knox,017 - VINCENNES CITY 6,Court of Appeals Dist 4-Pyle III,,1,,No,171,105,60,6
+Knox,017 - VINCENNES CITY 6,Straight Party,,,DEM,Democratic Party,53,,,
+Knox,017 - VINCENNES CITY 6,Straight Party,,,REP,Republican Party,173,,,
+Knox,018 - VINCENNES CITY 7,Registered Voters,,,,,1197,,,
+Knox,018 - VINCENNES CITY 7,Ballots Cast,,,,,816,463,309,44
+Knox,018 - VINCENNES CITY 7,Public Question-Const Amendment,,1,,Yes,397,236,148,13
+Knox,018 - VINCENNES CITY 7,Public Question-Const Amendment,,1,,No,307,175,112,20
+Knox,018 - VINCENNES CITY 7,President,,1,REP,Donald J. TRUMP / JD VANCE,533,309,203,21
+Knox,018 - VINCENNES CITY 7,President,,1,DEM,Kamala D. HARRIS / Tim WALZ,253,136,96,21
+Knox,018 - VINCENNES CITY 7,President,,1,LBT,Chase OLIVER / Mike terr MAAT,4,1,3,0
+Knox,018 - VINCENNES CITY 7,President,,1,WTP,Robert F. KENNEDY JR. / Nichole SHANAHAN,12,7,5,0
+Knox,018 - VINCENNES CITY 7,President,,1,,Write-In,3,3,0,0
+Knox,018 - VINCENNES CITY 7,U.S. Senate,,1,REP,Jim BANKS,492,294,177,21
+Knox,018 - VINCENNES CITY 7,U.S. Senate,,1,DEM,Valerie McCRAY,240,132,86,22
+Knox,018 - VINCENNES CITY 7,U.S. Senate,,1,LBT,Andrew HORNING,28,9,19,0
+Knox,018 - VINCENNES CITY 7,U.S. Senate,,1,,Write-In,0,0,0,0
+Knox,018 - VINCENNES CITY 7,Governor,,1,REP,Mike BRAUN / Micah BECKWITH,493,293,182,18
+Knox,018 - VINCENNES CITY 7,Governor,,1,DEM,Jennifer G. McCORMICK / Terry GOODIN,257,136,97,24
+Knox,018 - VINCENNES CITY 7,Governor,,1,LBT,Donald RAINWATER / Tonya HUDSON,22,10,12,0
+Knox,018 - VINCENNES CITY 7,Governor,,1,,Write-In,0,0,0,0
+Knox,018 - VINCENNES CITY 7,Attorney General,,1,REP,Todd ROKITA,519,310,189,20
+Knox,018 - VINCENNES CITY 7,Attorney General,,1,DEM,Destiny WELLS,245,132,92,21
+Knox,018 - VINCENNES CITY 7,U.S. House,8,1,REP,Mark MESSMER,534,318,196,20
+Knox,018 - VINCENNES CITY 7,U.S. House,8,1,DEM,Erik HURT,225,123,80,22
+Knox,018 - VINCENNES CITY 7,U.S. House,8,1,LBT,K Richard FITZLAFF,16,4,12,0
+Knox,018 - VINCENNES CITY 7,U.S. House,8,1,,Write-In,0,0,0,0
+Knox,018 - VINCENNES CITY 7,State House,64,1,REP,Matt HOSTETTLER,626,360,238,28
+Knox,018 - VINCENNES CITY 7,State House,64,1,DEM,No Candidate Filed,0,0,0,0
+Knox,018 - VINCENNES CITY 7,County Treasurer,,1,REP,Cendy L. JOSLIN,628,365,234,29
+Knox,018 - VINCENNES CITY 7,County Treasurer,,1,DEM,No Candidate Filed,0,0,0,0
+Knox,018 - VINCENNES CITY 7,County Coroner,,1,REP,Joe J. MILLSPAUGH,629,363,240,26
+Knox,018 - VINCENNES CITY 7,County Coroner,,1,DEM,No Candidate Filed,0,0,0,0
+Knox,018 - VINCENNES CITY 7,County Commissioner,1,1,REP,Thomas (TJ) BRINK,606,350,230,26
+Knox,018 - VINCENNES CITY 7,County Commissioner,1,1,DEM,No Candidate Filed,0,0,0,0
+Knox,018 - VINCENNES CITY 7,County Commissioner,2,1,REP,Timothy J. ELLERMAN II,591,337,228,26
+Knox,018 - VINCENNES CITY 7,County Commissioner,2,1,DEM,No Candidate Filed,0,0,0,0
+Knox,018 - VINCENNES CITY 7,County Council Member,At Large,3,REP,Jon HILLENBRAND,459,271,165,23
+Knox,018 - VINCENNES CITY 7,County Council Member,At Large,3,REP,Kevin L. MEYER,404,246,137,21
+Knox,018 - VINCENNES CITY 7,County Council Member,At Large,3,REP,Dan REITMEYER,389,223,145,21
+Knox,018 - VINCENNES CITY 7,County Council Member,At Large,3,DEM,No Candidate Filed,0,0,0,0
+Knox,018 - VINCENNES CITY 7,Vincennes Community SB,At Large,3,,Aaron M. BAUER,357,218,119,20
+Knox,018 - VINCENNES CITY 7,Vincennes Community SB,At Large,3,,Kolby KERZAN,323,180,128,15
+Knox,018 - VINCENNES CITY 7,Vincennes Community SB,At Large,3,,Karla A. SMITH,372,240,116,16
+Knox,018 - VINCENNES CITY 7,Vincennes Community SB,At Large,3,,Barb TOOLE,304,182,102,20
+Knox,018 - VINCENNES CITY 7,Vincennes Community SB,At Large,3,,McKenzie M. YOUNG,305,176,117,12
+Knox,018 - VINCENNES CITY 7,IN Supreme Court-Rush,,1,,Yes,455,256,178,21
+Knox,018 - VINCENNES CITY 7,IN Supreme Court-Rush,,1,,No,154,87,60,7
+Knox,018 - VINCENNES CITY 7,IN Supreme Court-Massa,,1,,Yes,446,249,177,20
+Knox,018 - VINCENNES CITY 7,IN Supreme Court-Massa,,1,,No,151,87,57,7
+Knox,018 - VINCENNES CITY 7,IN Supreme Court-Molter,,1,,Yes,449,253,172,24
+Knox,018 - VINCENNES CITY 7,IN Supreme Court-Molter,,1,,No,150,89,57,4
+Knox,018 - VINCENNES CITY 7,Court of Appeals Dist 1-Foley,,1,,Yes,449,261,168,20
+Knox,018 - VINCENNES CITY 7,Court of Appeals Dist 1-Foley,,1,,No,146,80,59,7
+Knox,018 - VINCENNES CITY 7,Court of Appeals Dist 4-Pyle III,,1,,Yes,440,252,168,20
+Knox,018 - VINCENNES CITY 7,Court of Appeals Dist 4-Pyle III,,1,,No,153,86,59,8
+Knox,018 - VINCENNES CITY 7,Straight Party,,,DEM,Democratic Party,43,,,
+Knox,018 - VINCENNES CITY 7,Straight Party,,,LBT,Libertarian Party,2,,,
+Knox,018 - VINCENNES CITY 7,Straight Party,,,REP,Republican Party,157,,,
+Knox,019 - VINCENNES CITY 8,Registered Voters,,,,,1205,,,
+Knox,019 - VINCENNES CITY 8,Ballots Cast,,,,,856,514,260,82
+Knox,019 - VINCENNES CITY 8,Public Question-Const Amendment,,1,,Yes,407,235,139,33
+Knox,019 - VINCENNES CITY 8,Public Question-Const Amendment,,1,,No,337,217,91,29
+Knox,019 - VINCENNES CITY 8,President,,1,REP,Donald J. TRUMP / JD VANCE,551,321,189,41
+Knox,019 - VINCENNES CITY 8,President,,1,DEM,Kamala D. HARRIS / Tim WALZ,274,174,63,37
+Knox,019 - VINCENNES CITY 8,President,,1,LBT,Chase OLIVER / Mike terr MAAT,3,0,1,2
+Knox,019 - VINCENNES CITY 8,President,,1,WTP,Robert F. KENNEDY JR. / Nichole SHANAHAN,8,3,4,1
+Knox,019 - VINCENNES CITY 8,President,,1,,Write-In,4,4,0,0
+Knox,019 - VINCENNES CITY 8,U.S. Senate,,1,REP,Jim BANKS,498,289,169,40
+Knox,019 - VINCENNES CITY 8,U.S. Senate,,1,DEM,Valerie McCRAY,258,160,64,34
+Knox,019 - VINCENNES CITY 8,U.S. Senate,,1,LBT,Andrew HORNING,28,17,7,4
+Knox,019 - VINCENNES CITY 8,U.S. Senate,,1,,Write-In,0,0,0,0
+Knox,019 - VINCENNES CITY 8,Governor,,1,REP,Mike BRAUN / Micah BECKWITH,486,290,155,41
+Knox,019 - VINCENNES CITY 8,Governor,,1,DEM,Jennifer G. McCORMICK / Terry GOODIN,297,180,82,35
+Knox,019 - VINCENNES CITY 8,Governor,,1,LBT,Donald RAINWATER / Tonya HUDSON,20,13,6,1
+Knox,019 - VINCENNES CITY 8,Governor,,1,,Write-In,0,0,0,0
+Knox,019 - VINCENNES CITY 8,Attorney General,,1,REP,Todd ROKITA,526,307,178,41
+Knox,019 - VINCENNES CITY 8,Attorney General,,1,DEM,Destiny WELLS,278,175,70,33
+Knox,019 - VINCENNES CITY 8,U.S. House,8,1,REP,Mark MESSMER,551,325,183,43
+Knox,019 - VINCENNES CITY 8,U.S. House,8,1,DEM,Erik HURT,247,155,60,32
+Knox,019 - VINCENNES CITY 8,U.S. House,8,1,LBT,K Richard FITZLAFF,16,7,6,3
+Knox,019 - VINCENNES CITY 8,U.S. House,8,1,,Write-In,1,0,1,0
+Knox,019 - VINCENNES CITY 8,State House,64,1,REP,Matt HOSTETTLER,625,364,215,46
+Knox,019 - VINCENNES CITY 8,State House,64,1,DEM,No Candidate Filed,0,0,0,0
+Knox,019 - VINCENNES CITY 8,County Treasurer,,1,REP,Cendy L. JOSLIN,637,381,208,48
+Knox,019 - VINCENNES CITY 8,County Treasurer,,1,DEM,No Candidate Filed,0,0,0,0
+Knox,019 - VINCENNES CITY 8,County Coroner,,1,REP,Joe J. MILLSPAUGH,631,380,207,44
+Knox,019 - VINCENNES CITY 8,County Coroner,,1,DEM,No Candidate Filed,0,0,0,0
+Knox,019 - VINCENNES CITY 8,County Commissioner,1,1,REP,Thomas (TJ) BRINK,608,365,198,45
+Knox,019 - VINCENNES CITY 8,County Commissioner,1,1,DEM,No Candidate Filed,0,0,0,0
+Knox,019 - VINCENNES CITY 8,County Commissioner,2,1,REP,Timothy J. ELLERMAN II,591,345,201,45
+Knox,019 - VINCENNES CITY 8,County Commissioner,2,1,DEM,No Candidate Filed,0,0,0,0
+Knox,019 - VINCENNES CITY 8,County Council Member,At Large,3,REP,Jon HILLENBRAND,448,258,166,24
+Knox,019 - VINCENNES CITY 8,County Council Member,At Large,3,REP,Kevin L. MEYER,414,256,130,28
+Knox,019 - VINCENNES CITY 8,County Council Member,At Large,3,REP,Dan REITMEYER,408,246,135,27
+Knox,019 - VINCENNES CITY 8,County Council Member,At Large,3,DEM,No Candidate Filed,0,0,0,0
+Knox,019 - VINCENNES CITY 8,Vincennes Community SB,At Large,3,,Aaron M. BAUER,361,225,107,29
+Knox,019 - VINCENNES CITY 8,Vincennes Community SB,At Large,3,,Kolby KERZAN,333,200,116,17
+Knox,019 - VINCENNES CITY 8,Vincennes Community SB,At Large,3,,Karla A. SMITH,387,248,108,31
+Knox,019 - VINCENNES CITY 8,Vincennes Community SB,At Large,3,,Barb TOOLE,319,202,89,28
+Knox,019 - VINCENNES CITY 8,Vincennes Community SB,At Large,3,,McKenzie M. YOUNG,304,179,99,26
+Knox,019 - VINCENNES CITY 8,IN Supreme Court-Rush,,1,,Yes,424,253,142,29
+Knox,019 - VINCENNES CITY 8,IN Supreme Court-Rush,,1,,No,199,127,61,11
+Knox,019 - VINCENNES CITY 8,IN Supreme Court-Massa,,1,,Yes,415,251,139,25
+Knox,019 - VINCENNES CITY 8,IN Supreme Court-Massa,,1,,No,198,123,62,13
+Knox,019 - VINCENNES CITY 8,IN Supreme Court-Molter,,1,,Yes,430,262,143,25
+Knox,019 - VINCENNES CITY 8,IN Supreme Court-Molter,,1,,No,190,114,62,14
+Knox,019 - VINCENNES CITY 8,Court of Appeals Dist 1-Foley,,1,,Yes,434,263,143,28
+Knox,019 - VINCENNES CITY 8,Court of Appeals Dist 1-Foley,,1,,No,179,107,60,12
+Knox,019 - VINCENNES CITY 8,Court of Appeals Dist 4-Pyle III,,1,,Yes,431,262,140,29
+Knox,019 - VINCENNES CITY 8,Court of Appeals Dist 4-Pyle III,,1,,No,185,111,63,11
+Knox,019 - VINCENNES CITY 8,Straight Party,,,DEM,Democratic Party,52,,,
+Knox,019 - VINCENNES CITY 8,Straight Party,,,REP,Republican Party,165,,,
+Knox,020 - VINCENNES TOWNSHIP 1,Registered Voters,,,,,951,,,
+Knox,020 - VINCENNES TOWNSHIP 1,Ballots Cast,,,,,702,416,232,54
+Knox,020 - VINCENNES TOWNSHIP 1,Public Question-Const Amendment,,1,,Yes,311,179,107,25
+Knox,020 - VINCENNES TOWNSHIP 1,Public Question-Const Amendment,,1,,No,278,162,101,15
+Knox,020 - VINCENNES TOWNSHIP 1,President,,1,REP,Donald J. TRUMP / JD VANCE,515,295,185,35
+Knox,020 - VINCENNES TOWNSHIP 1,President,,1,DEM,Kamala D. HARRIS / Tim WALZ,164,108,38,18
+Knox,020 - VINCENNES TOWNSHIP 1,President,,1,LBT,Chase OLIVER / Mike terr MAAT,5,3,1,1
+Knox,020 - VINCENNES TOWNSHIP 1,President,,1,WTP,Robert F. KENNEDY JR. / Nichole SHANAHAN,10,5,5,0
+Knox,020 - VINCENNES TOWNSHIP 1,President,,1,,Write-In,1,1,0,0
+Knox,020 - VINCENNES TOWNSHIP 1,U.S. Senate,,1,REP,Jim BANKS,482,277,174,31
+Knox,020 - VINCENNES TOWNSHIP 1,U.S. Senate,,1,DEM,Valerie McCRAY,151,98,35,18
+Knox,020 - VINCENNES TOWNSHIP 1,U.S. Senate,,1,LBT,Andrew HORNING,13,8,5,0
+Knox,020 - VINCENNES TOWNSHIP 1,U.S. Senate,,1,,Write-In,1,0,1,0
+Knox,020 - VINCENNES TOWNSHIP 1,Governor,,1,REP,Mike BRAUN / Micah BECKWITH,460,264,163,33
+Knox,020 - VINCENNES TOWNSHIP 1,Governor,,1,DEM,Jennifer G. McCORMICK / Terry GOODIN,167,113,39,15
+Knox,020 - VINCENNES TOWNSHIP 1,Governor,,1,LBT,Donald RAINWATER / Tonya HUDSON,32,15,16,1
+Knox,020 - VINCENNES TOWNSHIP 1,Governor,,1,,Write-In,0,0,0,0
+Knox,020 - VINCENNES TOWNSHIP 1,Attorney General,,1,REP,Todd ROKITA,482,278,171,33
+Knox,020 - VINCENNES TOWNSHIP 1,Attorney General,,1,DEM,Destiny WELLS,162,101,44,17
+Knox,020 - VINCENNES TOWNSHIP 1,U.S. House,8,1,REP,Mark MESSMER,497,288,175,34
+Knox,020 - VINCENNES TOWNSHIP 1,U.S. House,8,1,DEM,Erik HURT,150,94,38,18
+Knox,020 - VINCENNES TOWNSHIP 1,U.S. House,8,1,LBT,K Richard FITZLAFF,16,11,5,0
+Knox,020 - VINCENNES TOWNSHIP 1,U.S. House,8,1,,Write-In,0,0,0,0
+Knox,020 - VINCENNES TOWNSHIP 1,State House,64,1,REP,Matt HOSTETTLER,553,312,201,40
+Knox,020 - VINCENNES TOWNSHIP 1,State House,64,1,DEM,No Candidate Filed,0,0,0,0
+Knox,020 - VINCENNES TOWNSHIP 1,County Treasurer,,1,REP,Cendy L. JOSLIN,551,322,195,34
+Knox,020 - VINCENNES TOWNSHIP 1,County Treasurer,,1,DEM,No Candidate Filed,0,0,0,0
+Knox,020 - VINCENNES TOWNSHIP 1,County Coroner,,1,REP,Joe J. MILLSPAUGH,560,328,198,34
+Knox,020 - VINCENNES TOWNSHIP 1,County Coroner,,1,DEM,No Candidate Filed,0,0,0,0
+Knox,020 - VINCENNES TOWNSHIP 1,County Commissioner,1,1,REP,Thomas (TJ) BRINK,537,308,195,34
+Knox,020 - VINCENNES TOWNSHIP 1,County Commissioner,1,1,DEM,No Candidate Filed,0,0,0,0
+Knox,020 - VINCENNES TOWNSHIP 1,County Commissioner,2,1,REP,Timothy J. ELLERMAN II,524,300,194,30
+Knox,020 - VINCENNES TOWNSHIP 1,County Commissioner,2,1,DEM,No Candidate Filed,0,0,0,0
+Knox,020 - VINCENNES TOWNSHIP 1,County Council Member,At Large,3,REP,Jon HILLENBRAND,386,227,134,25
+Knox,020 - VINCENNES TOWNSHIP 1,County Council Member,At Large,3,REP,Kevin L. MEYER,369,216,126,27
+Knox,020 - VINCENNES TOWNSHIP 1,County Council Member,At Large,3,REP,Dan REITMEYER,331,198,107,26
+Knox,020 - VINCENNES TOWNSHIP 1,County Council Member,At Large,3,DEM,No Candidate Filed,0,0,0,0
+Knox,020 - VINCENNES TOWNSHIP 1,Vincennes Community SB,At Large,3,,Aaron M. BAUER,297,173,101,23
+Knox,020 - VINCENNES TOWNSHIP 1,Vincennes Community SB,At Large,3,,Kolby KERZAN,300,175,109,16
+Knox,020 - VINCENNES TOWNSHIP 1,Vincennes Community SB,At Large,3,,Karla A. SMITH,298,183,90,25
+Knox,020 - VINCENNES TOWNSHIP 1,Vincennes Community SB,At Large,3,,Barb TOOLE,253,148,85,20
+Knox,020 - VINCENNES TOWNSHIP 1,Vincennes Community SB,At Large,3,,McKenzie M. YOUNG,231,140,75,16
+Knox,020 - VINCENNES TOWNSHIP 1,IN Supreme Court-Rush,,1,,Yes,386,211,148,27
+Knox,020 - VINCENNES TOWNSHIP 1,IN Supreme Court-Rush,,1,,No,131,88,36,7
+Knox,020 - VINCENNES TOWNSHIP 1,IN Supreme Court-Massa,,1,,Yes,377,213,142,22
+Knox,020 - VINCENNES TOWNSHIP 1,IN Supreme Court-Massa,,1,,No,138,86,41,11
+Knox,020 - VINCENNES TOWNSHIP 1,IN Supreme Court-Molter,,1,,Yes,387,215,149,23
+Knox,020 - VINCENNES TOWNSHIP 1,IN Supreme Court-Molter,,1,,No,119,78,31,10
+Knox,020 - VINCENNES TOWNSHIP 1,Court of Appeals Dist 1-Foley,,1,,Yes,371,204,142,25
+Knox,020 - VINCENNES TOWNSHIP 1,Court of Appeals Dist 1-Foley,,1,,No,130,84,37,9
+Knox,020 - VINCENNES TOWNSHIP 1,Court of Appeals Dist 4-Pyle III,,1,,Yes,378,208,144,26
+Knox,020 - VINCENNES TOWNSHIP 1,Court of Appeals Dist 4-Pyle III,,1,,No,126,82,36,8
+Knox,020 - VINCENNES TOWNSHIP 1,Straight Party,,,DEM,Democratic Party,32,,,
+Knox,020 - VINCENNES TOWNSHIP 1,Straight Party,,,REP,Republican Party,145,,,
+Knox,020 - VINCENNES TOWNSHIP 1,Straight Party,,,WTP,We The People,1,,,
+Knox,021 - VINCENNES TOWNSHIP 2,Registered Voters,,,,,1221,,,
+Knox,021 - VINCENNES TOWNSHIP 2,Ballots Cast,,,,,896,572,272,52
+Knox,021 - VINCENNES TOWNSHIP 2,Public Question-Const Amendment,,1,,Yes,448,289,141,18
+Knox,021 - VINCENNES TOWNSHIP 2,Public Question-Const Amendment,,1,,No,323,205,101,17
+Knox,021 - VINCENNES TOWNSHIP 2,President,,1,REP,Donald J. TRUMP / JD VANCE,651,416,213,22
+Knox,021 - VINCENNES TOWNSHIP 2,President,,1,DEM,Kamala D. HARRIS / Tim WALZ,218,141,50,27
+Knox,021 - VINCENNES TOWNSHIP 2,President,,1,LBT,Chase OLIVER / Mike terr MAAT,10,5,5,0
+Knox,021 - VINCENNES TOWNSHIP 2,President,,1,WTP,Robert F. KENNEDY JR. / Nichole SHANAHAN,8,4,3,1
+Knox,021 - VINCENNES TOWNSHIP 2,President,,1,,Write-In,2,0,0,2
+Knox,021 - VINCENNES TOWNSHIP 2,U.S. Senate,,1,REP,Jim BANKS,601,386,192,23
+Knox,021 - VINCENNES TOWNSHIP 2,U.S. Senate,,1,DEM,Valerie McCRAY,205,135,48,22
+Knox,021 - VINCENNES TOWNSHIP 2,U.S. Senate,,1,LBT,Andrew HORNING,19,11,7,1
+Knox,021 - VINCENNES TOWNSHIP 2,U.S. Senate,,1,,Write-In,0,0,0,0
+Knox,021 - VINCENNES TOWNSHIP 2,Governor,,1,REP,Mike BRAUN / Micah BECKWITH,595,383,191,21
+Knox,021 - VINCENNES TOWNSHIP 2,Governor,,1,DEM,Jennifer G. McCORMICK / Terry GOODIN,234,153,57,24
+Knox,021 - VINCENNES TOWNSHIP 2,Governor,,1,LBT,Donald RAINWATER / Tonya HUDSON,25,14,10,1
+Knox,021 - VINCENNES TOWNSHIP 2,Governor,,1,,Write-In,0,0,0,0
+Knox,021 - VINCENNES TOWNSHIP 2,Attorney General,,1,REP,Todd ROKITA,620,402,195,23
+Knox,021 - VINCENNES TOWNSHIP 2,Attorney General,,1,DEM,Destiny WELLS,218,140,57,21
+Knox,021 - VINCENNES TOWNSHIP 2,U.S. House,8,1,REP,Mark MESSMER,647,416,207,24
+Knox,021 - VINCENNES TOWNSHIP 2,U.S. House,8,1,DEM,Erik HURT,192,127,44,21
+Knox,021 - VINCENNES TOWNSHIP 2,U.S. House,8,1,LBT,K Richard FITZLAFF,18,8,8,2
+Knox,021 - VINCENNES TOWNSHIP 2,U.S. House,8,1,,Write-In,0,0,0,0
+Knox,021 - VINCENNES TOWNSHIP 2,State House,64,1,REP,Matt HOSTETTLER,712,452,232,28
+Knox,021 - VINCENNES TOWNSHIP 2,State House,64,1,DEM,No Candidate Filed,0,0,0,0
+Knox,021 - VINCENNES TOWNSHIP 2,County Treasurer,,1,REP,Cendy L. JOSLIN,728,469,230,29
+Knox,021 - VINCENNES TOWNSHIP 2,County Treasurer,,1,DEM,No Candidate Filed,0,0,0,0
+Knox,021 - VINCENNES TOWNSHIP 2,County Coroner,,1,REP,Joe J. MILLSPAUGH,718,462,229,27
+Knox,021 - VINCENNES TOWNSHIP 2,County Coroner,,1,DEM,No Candidate Filed,0,0,0,0
+Knox,021 - VINCENNES TOWNSHIP 2,County Commissioner,1,1,REP,Thomas (TJ) BRINK,700,446,227,27
+Knox,021 - VINCENNES TOWNSHIP 2,County Commissioner,1,1,DEM,No Candidate Filed,0,0,0,0
+Knox,021 - VINCENNES TOWNSHIP 2,County Commissioner,2,1,REP,Timothy J. ELLERMAN II,681,432,222,27
+Knox,021 - VINCENNES TOWNSHIP 2,County Commissioner,2,1,DEM,No Candidate Filed,0,0,0,0
+Knox,021 - VINCENNES TOWNSHIP 2,County Council Member,At Large,3,REP,Jon HILLENBRAND,546,353,172,21
+Knox,021 - VINCENNES TOWNSHIP 2,County Council Member,At Large,3,REP,Kevin L. MEYER,514,341,148,25
+Knox,021 - VINCENNES TOWNSHIP 2,County Council Member,At Large,3,REP,Dan REITMEYER,475,316,133,26
+Knox,021 - VINCENNES TOWNSHIP 2,County Council Member,At Large,3,DEM,No Candidate Filed,0,0,0,0
+Knox,021 - VINCENNES TOWNSHIP 2,Vincennes Community SB,At Large,3,,Aaron M. BAUER,380,246,119,15
+Knox,021 - VINCENNES TOWNSHIP 2,Vincennes Community SB,At Large,3,,Kolby KERZAN,398,259,124,15
+Knox,021 - VINCENNES TOWNSHIP 2,Vincennes Community SB,At Large,3,,Karla A. SMITH,420,289,110,21
+Knox,021 - VINCENNES TOWNSHIP 2,Vincennes Community SB,At Large,3,,Barb TOOLE,355,231,106,18
+Knox,021 - VINCENNES TOWNSHIP 2,Vincennes Community SB,At Large,3,,McKenzie M. YOUNG,325,207,99,19
+Knox,021 - VINCENNES TOWNSHIP 2,IN Supreme Court-Rush,,1,,Yes,503,333,155,15
+Knox,021 - VINCENNES TOWNSHIP 2,IN Supreme Court-Rush,,1,,No,167,98,60,9
+Knox,021 - VINCENNES TOWNSHIP 2,IN Supreme Court-Massa,,1,,Yes,496,331,151,14
+Knox,021 - VINCENNES TOWNSHIP 2,IN Supreme Court-Massa,,1,,No,163,94,61,8
+Knox,021 - VINCENNES TOWNSHIP 2,IN Supreme Court-Molter,,1,,Yes,488,319,154,15
+Knox,021 - VINCENNES TOWNSHIP 2,IN Supreme Court-Molter,,1,,No,171,103,59,9
+Knox,021 - VINCENNES TOWNSHIP 2,Court of Appeals Dist 1-Foley,,1,,Yes,492,321,155,16
+Knox,021 - VINCENNES TOWNSHIP 2,Court of Appeals Dist 1-Foley,,1,,No,161,99,55,7
+Knox,021 - VINCENNES TOWNSHIP 2,Court of Appeals Dist 4-Pyle III,,1,,Yes,488,317,155,16
+Knox,021 - VINCENNES TOWNSHIP 2,Court of Appeals Dist 4-Pyle III,,1,,No,165,101,57,7
+Knox,021 - VINCENNES TOWNSHIP 2,Straight Party,,,DEM,Democratic Party,34,,,
+Knox,021 - VINCENNES TOWNSHIP 2,Straight Party,,,REP,Republican Party,178,,,
+Knox,022 - VINCENNES TOWNSHIP 3,Registered Voters,,,,,443,,,
+Knox,022 - VINCENNES TOWNSHIP 3,Ballots Cast,,,,,315,153,142,20
+Knox,022 - VINCENNES TOWNSHIP 3,Public Question-Const Amendment,,1,,Yes,164,77,83,4
+Knox,022 - VINCENNES TOWNSHIP 3,Public Question-Const Amendment,,1,,No,105,52,49,4
+Knox,022 - VINCENNES TOWNSHIP 3,President,,1,REP,Donald J. TRUMP / JD VANCE,233,110,112,11
+Knox,022 - VINCENNES TOWNSHIP 3,President,,1,DEM,Kamala D. HARRIS / Tim WALZ,78,42,28,8
+Knox,022 - VINCENNES TOWNSHIP 3,President,,1,LBT,Chase OLIVER / Mike terr MAAT,0,0,0,0
+Knox,022 - VINCENNES TOWNSHIP 3,President,,1,WTP,Robert F. KENNEDY JR. / Nichole SHANAHAN,2,1,1,0
+Knox,022 - VINCENNES TOWNSHIP 3,President,,1,,Write-In,0,0,0,0
+Knox,022 - VINCENNES TOWNSHIP 3,U.S. Senate,,1,REP,Jim BANKS,211,102,99,10
+Knox,022 - VINCENNES TOWNSHIP 3,U.S. Senate,,1,DEM,Valerie McCRAY,69,35,27,7
+Knox,022 - VINCENNES TOWNSHIP 3,U.S. Senate,,1,LBT,Andrew HORNING,3,0,2,1
+Knox,022 - VINCENNES TOWNSHIP 3,U.S. Senate,,1,,Write-In,1,0,1,0
+Knox,022 - VINCENNES TOWNSHIP 3,Governor,,1,REP,Mike BRAUN / Micah BECKWITH,206,99,96,11
+Knox,022 - VINCENNES TOWNSHIP 3,Governor,,1,DEM,Jennifer G. McCORMICK / Terry GOODIN,77,41,29,7
+Knox,022 - VINCENNES TOWNSHIP 3,Governor,,1,LBT,Donald RAINWATER / Tonya HUDSON,14,7,6,1
+Knox,022 - VINCENNES TOWNSHIP 3,Governor,,1,,Write-In,0,0,0,0
+Knox,022 - VINCENNES TOWNSHIP 3,Attorney General,,1,REP,Todd ROKITA,212,104,98,10
+Knox,022 - VINCENNES TOWNSHIP 3,Attorney General,,1,DEM,Destiny WELLS,72,37,27,8
+Knox,022 - VINCENNES TOWNSHIP 3,U.S. House,8,1,REP,Mark MESSMER,215,103,102,10
+Knox,022 - VINCENNES TOWNSHIP 3,U.S. House,8,1,DEM,Erik HURT,70,39,24,7
+Knox,022 - VINCENNES TOWNSHIP 3,U.S. House,8,1,LBT,K Richard FITZLAFF,8,3,2,3
+Knox,022 - VINCENNES TOWNSHIP 3,U.S. House,8,1,,Write-In,0,0,0,0
+Knox,022 - VINCENNES TOWNSHIP 3,State House,64,1,REP,Matt HOSTETTLER,238,109,115,14
+Knox,022 - VINCENNES TOWNSHIP 3,State House,64,1,DEM,No Candidate Filed,0,0,0,0
+Knox,022 - VINCENNES TOWNSHIP 3,County Treasurer,,1,REP,Cendy L. JOSLIN,245,113,118,14
+Knox,022 - VINCENNES TOWNSHIP 3,County Treasurer,,1,DEM,No Candidate Filed,0,0,0,0
+Knox,022 - VINCENNES TOWNSHIP 3,County Coroner,,1,REP,Joe J. MILLSPAUGH,246,114,119,13
+Knox,022 - VINCENNES TOWNSHIP 3,County Coroner,,1,DEM,No Candidate Filed,0,0,0,0
+Knox,022 - VINCENNES TOWNSHIP 3,County Commissioner,1,1,REP,Thomas (TJ) BRINK,237,108,116,13
+Knox,022 - VINCENNES TOWNSHIP 3,County Commissioner,1,1,DEM,No Candidate Filed,0,0,0,0
+Knox,022 - VINCENNES TOWNSHIP 3,County Commissioner,2,1,REP,Timothy J. ELLERMAN II,232,107,111,14
+Knox,022 - VINCENNES TOWNSHIP 3,County Commissioner,2,1,DEM,No Candidate Filed,0,0,0,0
+Knox,022 - VINCENNES TOWNSHIP 3,County Council Member,At Large,3,REP,Jon HILLENBRAND,163,74,82,7
+Knox,022 - VINCENNES TOWNSHIP 3,County Council Member,At Large,3,REP,Kevin L. MEYER,164,76,83,5
+Knox,022 - VINCENNES TOWNSHIP 3,County Council Member,At Large,3,REP,Dan REITMEYER,139,60,72,7
+Knox,022 - VINCENNES TOWNSHIP 3,County Council Member,At Large,3,DEM,No Candidate Filed,0,0,0,0
+Knox,022 - VINCENNES TOWNSHIP 3,Vincennes Community SB,At Large,3,,Aaron M. BAUER,131,62,67,2
+Knox,022 - VINCENNES TOWNSHIP 3,Vincennes Community SB,At Large,3,,Kolby KERZAN,133,61,68,4
+Knox,022 - VINCENNES TOWNSHIP 3,Vincennes Community SB,At Large,3,,Karla A. SMITH,134,73,56,5
+Knox,022 - VINCENNES TOWNSHIP 3,Vincennes Community SB,At Large,3,,Barb TOOLE,114,47,59,8
+Knox,022 - VINCENNES TOWNSHIP 3,Vincennes Community SB,At Large,3,,McKenzie M. YOUNG,112,49,57,6
+Knox,022 - VINCENNES TOWNSHIP 3,IN Supreme Court-Rush,,1,,Yes,177,81,90,6
+Knox,022 - VINCENNES TOWNSHIP 3,IN Supreme Court-Rush,,1,,No,66,33,31,2
+Knox,022 - VINCENNES TOWNSHIP 3,IN Supreme Court-Massa,,1,,Yes,170,79,86,5
+Knox,022 - VINCENNES TOWNSHIP 3,IN Supreme Court-Massa,,1,,No,71,33,35,3
+Knox,022 - VINCENNES TOWNSHIP 3,IN Supreme Court-Molter,,1,,Yes,168,78,86,4
+Knox,022 - VINCENNES TOWNSHIP 3,IN Supreme Court-Molter,,1,,No,66,30,33,3
+Knox,022 - VINCENNES TOWNSHIP 3,Court of Appeals Dist 1-Foley,,1,,Yes,164,73,85,6
+Knox,022 - VINCENNES TOWNSHIP 3,Court of Appeals Dist 1-Foley,,1,,No,67,32,33,2
+Knox,022 - VINCENNES TOWNSHIP 3,Court of Appeals Dist 4-Pyle III,,1,,Yes,169,76,88,5
+Knox,022 - VINCENNES TOWNSHIP 3,Court of Appeals Dist 4-Pyle III,,1,,No,64,32,30,2
+Knox,022 - VINCENNES TOWNSHIP 3,Straight Party,,,DEM,Democratic Party,16,,,
+Knox,022 - VINCENNES TOWNSHIP 3,Straight Party,,,REP,Republican Party,61,,,
+Knox,023 - VINCENNES TOWNSHIP 4,Registered Voters,,,,,690,,,
+Knox,023 - VINCENNES TOWNSHIP 4,Ballots Cast,,,,,467,241,205,21
+Knox,023 - VINCENNES TOWNSHIP 4,Public Question-Const Amendment,,1,,Yes,233,118,108,7
+Knox,023 - VINCENNES TOWNSHIP 4,Public Question-Const Amendment,,1,,No,163,84,71,8
+Knox,023 - VINCENNES TOWNSHIP 4,President,,1,REP,Donald J. TRUMP / JD VANCE,360,176,168,16
+Knox,023 - VINCENNES TOWNSHIP 4,President,,1,DEM,Kamala D. HARRIS / Tim WALZ,94,55,35,4
+Knox,023 - VINCENNES TOWNSHIP 4,President,,1,LBT,Chase OLIVER / Mike terr MAAT,0,0,0,0
+Knox,023 - VINCENNES TOWNSHIP 4,President,,1,WTP,Robert F. KENNEDY JR. / Nichole SHANAHAN,4,1,2,1
+Knox,023 - VINCENNES TOWNSHIP 4,President,,1,,Write-In,0,0,0,0
+Knox,023 - VINCENNES TOWNSHIP 4,U.S. Senate,,1,REP,Jim BANKS,334,170,148,16
+Knox,023 - VINCENNES TOWNSHIP 4,U.S. Senate,,1,DEM,Valerie McCRAY,85,44,36,5
+Knox,023 - VINCENNES TOWNSHIP 4,U.S. Senate,,1,LBT,Andrew HORNING,10,5,5,0
+Knox,023 - VINCENNES TOWNSHIP 4,U.S. Senate,,1,,Write-In,0,0,0,0
+Knox,023 - VINCENNES TOWNSHIP 4,Governor,,1,REP,Mike BRAUN / Micah BECKWITH,319,165,138,16
+Knox,023 - VINCENNES TOWNSHIP 4,Governor,,1,DEM,Jennifer G. McCORMICK / Terry GOODIN,99,49,45,5
+Knox,023 - VINCENNES TOWNSHIP 4,Governor,,1,LBT,Donald RAINWATER / Tonya HUDSON,21,11,10,0
+Knox,023 - VINCENNES TOWNSHIP 4,Governor,,1,,Write-In,0,0,0,0
+Knox,023 - VINCENNES TOWNSHIP 4,Attorney General,,1,REP,Todd ROKITA,349,176,156,17
+Knox,023 - VINCENNES TOWNSHIP 4,Attorney General,,1,DEM,Destiny WELLS,86,46,37,3
+Knox,023 - VINCENNES TOWNSHIP 4,U.S. House,8,1,REP,Mark MESSMER,356,177,162,17
+Knox,023 - VINCENNES TOWNSHIP 4,U.S. House,8,1,DEM,Erik HURT,71,40,28,3
+Knox,023 - VINCENNES TOWNSHIP 4,U.S. House,8,1,LBT,K Richard FITZLAFF,10,6,3,1
+Knox,023 - VINCENNES TOWNSHIP 4,U.S. House,8,1,,Write-In,0,0,0,0
+Knox,023 - VINCENNES TOWNSHIP 4,State House,64,1,REP,Matt HOSTETTLER,388,193,176,19
+Knox,023 - VINCENNES TOWNSHIP 4,State House,64,1,DEM,No Candidate Filed,0,0,0,0
+Knox,023 - VINCENNES TOWNSHIP 4,County Treasurer,,1,REP,Cendy L. JOSLIN,395,199,177,19
+Knox,023 - VINCENNES TOWNSHIP 4,County Treasurer,,1,DEM,No Candidate Filed,0,0,0,0
+Knox,023 - VINCENNES TOWNSHIP 4,County Coroner,,1,REP,Joe J. MILLSPAUGH,391,198,176,17
+Knox,023 - VINCENNES TOWNSHIP 4,County Coroner,,1,DEM,No Candidate Filed,0,0,0,0
+Knox,023 - VINCENNES TOWNSHIP 4,County Commissioner,1,1,REP,Thomas (TJ) BRINK,379,187,173,19
+Knox,023 - VINCENNES TOWNSHIP 4,County Commissioner,1,1,DEM,No Candidate Filed,0,0,0,0
+Knox,023 - VINCENNES TOWNSHIP 4,County Commissioner,2,1,REP,Timothy J. ELLERMAN II,371,181,172,18
+Knox,023 - VINCENNES TOWNSHIP 4,County Commissioner,2,1,DEM,No Candidate Filed,0,0,0,0
+Knox,023 - VINCENNES TOWNSHIP 4,County Council Member,At Large,3,REP,Jon HILLENBRAND,242,113,114,15
+Knox,023 - VINCENNES TOWNSHIP 4,County Council Member,At Large,3,REP,Kevin L. MEYER,231,108,110,13
+Knox,023 - VINCENNES TOWNSHIP 4,County Council Member,At Large,3,REP,Dan REITMEYER,218,107,97,14
+Knox,023 - VINCENNES TOWNSHIP 4,County Council Member,At Large,3,DEM,No Candidate Filed,0,0,0,0
+Knox,023 - VINCENNES TOWNSHIP 4,Vincennes Community SB,At Large,3,,Aaron M. BAUER,210,97,102,11
+Knox,023 - VINCENNES TOWNSHIP 4,Vincennes Community SB,At Large,3,,Kolby KERZAN,184,93,84,7
+Knox,023 - VINCENNES TOWNSHIP 4,Vincennes Community SB,At Large,3,,Karla A. SMITH,192,94,90,8
+Knox,023 - VINCENNES TOWNSHIP 4,Vincennes Community SB,At Large,3,,Barb TOOLE,152,77,71,4
+Knox,023 - VINCENNES TOWNSHIP 4,Vincennes Community SB,At Large,3,,McKenzie M. YOUNG,136,77,53,6
+Knox,023 - VINCENNES TOWNSHIP 4,IN Supreme Court-Rush,,1,,Yes,255,125,117,13
+Knox,023 - VINCENNES TOWNSHIP 4,IN Supreme Court-Rush,,1,,No,84,37,45,2
+Knox,023 - VINCENNES TOWNSHIP 4,IN Supreme Court-Massa,,1,,Yes,250,122,115,13
+Knox,023 - VINCENNES TOWNSHIP 4,IN Supreme Court-Massa,,1,,No,85,39,44,2
+Knox,023 - VINCENNES TOWNSHIP 4,IN Supreme Court-Molter,,1,,Yes,253,121,119,13
+Knox,023 - VINCENNES TOWNSHIP 4,IN Supreme Court-Molter,,1,,No,80,39,39,2
+Knox,023 - VINCENNES TOWNSHIP 4,Court of Appeals Dist 1-Foley,,1,,Yes,242,112,118,12
+Knox,023 - VINCENNES TOWNSHIP 4,Court of Appeals Dist 1-Foley,,1,,No,84,41,40,3
+Knox,023 - VINCENNES TOWNSHIP 4,Court of Appeals Dist 4-Pyle III,,1,,Yes,243,115,116,12
+Knox,023 - VINCENNES TOWNSHIP 4,Court of Appeals Dist 4-Pyle III,,1,,No,81,38,40,3
+Knox,023 - VINCENNES TOWNSHIP 4,Straight Party,,,DEM,Democratic Party,16,,,
+Knox,023 - VINCENNES TOWNSHIP 4,Straight Party,,,REP,Republican Party,134,,,
+Knox,024 - VINCENNES TOWNSHIP 5,Registered Voters,,,,,199,,,
+Knox,024 - VINCENNES TOWNSHIP 5,Ballots Cast,,,,,154,66,77,11
+Knox,024 - VINCENNES TOWNSHIP 5,Public Question-Const Amendment,,1,,Yes,73,31,37,5
+Knox,024 - VINCENNES TOWNSHIP 5,Public Question-Const Amendment,,1,,No,55,24,28,3
+Knox,024 - VINCENNES TOWNSHIP 5,President,,1,REP,Donald J. TRUMP / JD VANCE,108,46,56,6
+Knox,024 - VINCENNES TOWNSHIP 5,President,,1,DEM,Kamala D. HARRIS / Tim WALZ,40,18,17,5
+Knox,024 - VINCENNES TOWNSHIP 5,President,,1,LBT,Chase OLIVER / Mike terr MAAT,3,1,2,0
+Knox,024 - VINCENNES TOWNSHIP 5,President,,1,WTP,Robert F. KENNEDY JR. / Nichole SHANAHAN,1,0,1,0
+Knox,024 - VINCENNES TOWNSHIP 5,President,,1,,Write-In,0,0,0,0
+Knox,024 - VINCENNES TOWNSHIP 5,U.S. Senate,,1,REP,Jim BANKS,93,39,48,6
+Knox,024 - VINCENNES TOWNSHIP 5,U.S. Senate,,1,DEM,Valerie McCRAY,39,18,16,5
+Knox,024 - VINCENNES TOWNSHIP 5,U.S. Senate,,1,LBT,Andrew HORNING,7,2,5,0
+Knox,024 - VINCENNES TOWNSHIP 5,U.S. Senate,,1,,Write-In,0,0,0,0
+Knox,024 - VINCENNES TOWNSHIP 5,Governor,,1,REP,Mike BRAUN / Micah BECKWITH,91,39,46,6
+Knox,024 - VINCENNES TOWNSHIP 5,Governor,,1,DEM,Jennifer G. McCORMICK / Terry GOODIN,43,21,17,5
+Knox,024 - VINCENNES TOWNSHIP 5,Governor,,1,LBT,Donald RAINWATER / Tonya HUDSON,12,2,10,0
+Knox,024 - VINCENNES TOWNSHIP 5,Governor,,1,,Write-In,0,0,0,0
+Knox,024 - VINCENNES TOWNSHIP 5,Attorney General,,1,REP,Todd ROKITA,98,42,50,6
+Knox,024 - VINCENNES TOWNSHIP 5,Attorney General,,1,DEM,Destiny WELLS,38,17,17,4
+Knox,024 - VINCENNES TOWNSHIP 5,U.S. House,8,1,REP,Mark MESSMER,108,45,57,6
+Knox,024 - VINCENNES TOWNSHIP 5,U.S. House,8,1,DEM,Erik HURT,35,16,14,5
+Knox,024 - VINCENNES TOWNSHIP 5,U.S. House,8,1,LBT,K Richard FITZLAFF,0,0,0,0
+Knox,024 - VINCENNES TOWNSHIP 5,U.S. House,8,1,,Write-In,0,0,0,0
+Knox,024 - VINCENNES TOWNSHIP 5,State House,64,1,REP,Matt HOSTETTLER,119,50,61,8
+Knox,024 - VINCENNES TOWNSHIP 5,State House,64,1,DEM,No Candidate Filed,0,0,0,0
+Knox,024 - VINCENNES TOWNSHIP 5,County Treasurer,,1,REP,Cendy L. JOSLIN,123,51,64,8
+Knox,024 - VINCENNES TOWNSHIP 5,County Treasurer,,1,DEM,No Candidate Filed,0,0,0,0
+Knox,024 - VINCENNES TOWNSHIP 5,County Coroner,,1,REP,Joe J. MILLSPAUGH,119,48,64,7
+Knox,024 - VINCENNES TOWNSHIP 5,County Coroner,,1,DEM,No Candidate Filed,0,0,0,0
+Knox,024 - VINCENNES TOWNSHIP 5,County Commissioner,1,1,REP,Thomas (TJ) BRINK,117,48,62,7
+Knox,024 - VINCENNES TOWNSHIP 5,County Commissioner,1,1,DEM,No Candidate Filed,0,0,0,0
+Knox,024 - VINCENNES TOWNSHIP 5,County Commissioner,2,1,REP,Timothy J. ELLERMAN II,110,41,63,6
+Knox,024 - VINCENNES TOWNSHIP 5,County Commissioner,2,1,DEM,No Candidate Filed,0,0,0,0
+Knox,024 - VINCENNES TOWNSHIP 5,County Council Member,At Large,3,REP,Jon HILLENBRAND,71,25,39,7
+Knox,024 - VINCENNES TOWNSHIP 5,County Council Member,At Large,3,REP,Kevin L. MEYER,83,35,41,7
+Knox,024 - VINCENNES TOWNSHIP 5,County Council Member,At Large,3,REP,Dan REITMEYER,63,26,31,6
+Knox,024 - VINCENNES TOWNSHIP 5,County Council Member,At Large,3,DEM,No Candidate Filed,0,0,0,0
+Knox,024 - VINCENNES TOWNSHIP 5,South Knox School Board,B,1,,Jason C. ELLERMAN,99,39,53,7
+Knox,024 - VINCENNES TOWNSHIP 5,South Knox School Board,C,1,,John CARNAHAN,79,33,40,6
+Knox,024 - VINCENNES TOWNSHIP 5,South Knox School Board,C,1,,Michael EDWARDS,36,12,21,3
+Knox,024 - VINCENNES TOWNSHIP 5,South Knox School Board,E,1,,Alicia (Bunny) HOUCHIN,101,39,55,7
+Knox,024 - VINCENNES TOWNSHIP 5,IN Supreme Court-Rush,,1,,Yes,74,32,38,4
+Knox,024 - VINCENNES TOWNSHIP 5,IN Supreme Court-Rush,,1,,No,32,13,17,2
+Knox,024 - VINCENNES TOWNSHIP 5,IN Supreme Court-Massa,,1,,Yes,70,27,38,5
+Knox,024 - VINCENNES TOWNSHIP 5,IN Supreme Court-Massa,,1,,No,37,16,19,2
+Knox,024 - VINCENNES TOWNSHIP 5,IN Supreme Court-Molter,,1,,Yes,72,31,36,5
+Knox,024 - VINCENNES TOWNSHIP 5,IN Supreme Court-Molter,,1,,No,36,17,17,2
+Knox,024 - VINCENNES TOWNSHIP 5,Court of Appeals Dist 1-Foley,,1,,Yes,73,31,36,6
+Knox,024 - VINCENNES TOWNSHIP 5,Court of Appeals Dist 1-Foley,,1,,No,36,17,18,1
+Knox,024 - VINCENNES TOWNSHIP 5,Court of Appeals Dist 4-Pyle III,,1,,Yes,73,32,36,5
+Knox,024 - VINCENNES TOWNSHIP 5,Court of Appeals Dist 4-Pyle III,,1,,No,37,18,17,2
+Knox,024 - VINCENNES TOWNSHIP 5,Straight Party,,,DEM,Democratic Party,7,,,
+Knox,024 - VINCENNES TOWNSHIP 5,Straight Party,,,REP,Republican Party,25,,,
+Knox,025 - WASHINGTON,Registered Voters,,,,,1274,,,
+Knox,025 - WASHINGTON,Ballots Cast,,,,,969,419,506,44
+Knox,025 - WASHINGTON,Public Question-Const Amendment,,1,,Yes,432,194,225,13
+Knox,025 - WASHINGTON,Public Question-Const Amendment,,1,,No,375,156,202,17
+Knox,025 - WASHINGTON,President,,1,REP,Donald J. TRUMP / JD VANCE,772,342,416,14
+Knox,025 - WASHINGTON,President,,1,DEM,Kamala D. HARRIS / Tim WALZ,176,69,79,28
+Knox,025 - WASHINGTON,President,,1,LBT,Chase OLIVER / Mike terr MAAT,6,3,2,1
+Knox,025 - WASHINGTON,President,,1,WTP,Robert F. KENNEDY JR. / Nichole SHANAHAN,7,1,5,1
+Knox,025 - WASHINGTON,President,,1,,Write-In,0,0,0,0
+Knox,025 - WASHINGTON,U.S. Senate,,1,REP,Jim BANKS,713,319,380,14
+Knox,025 - WASHINGTON,U.S. Senate,,1,DEM,Valerie McCRAY,175,69,77,29
+Knox,025 - WASHINGTON,U.S. Senate,,1,LBT,Andrew HORNING,12,4,7,1
+Knox,025 - WASHINGTON,U.S. Senate,,1,,Write-In,0,0,0,0
+Knox,025 - WASHINGTON,Governor,,1,REP,Mike BRAUN / Micah BECKWITH,680,307,360,13
+Knox,025 - WASHINGTON,Governor,,1,DEM,Jennifer G. McCORMICK / Terry GOODIN,185,74,83,28
+Knox,025 - WASHINGTON,Governor,,1,LBT,Donald RAINWATER / Tonya HUDSON,53,18,33,2
+Knox,025 - WASHINGTON,Governor,,1,,Write-In,0,0,0,0
+Knox,025 - WASHINGTON,Attorney General,,1,REP,Todd ROKITA,715,320,379,16
+Knox,025 - WASHINGTON,Attorney General,,1,DEM,Destiny WELLS,176,67,82,27
+Knox,025 - WASHINGTON,U.S. House,8,1,REP,Mark MESSMER,738,325,397,16
+Knox,025 - WASHINGTON,U.S. House,8,1,DEM,Erik HURT,162,67,68,27
+Knox,025 - WASHINGTON,U.S. House,8,1,LBT,K Richard FITZLAFF,16,7,8,1
+Knox,025 - WASHINGTON,U.S. House,8,1,,Write-In,0,0,0,0
+Knox,025 - WASHINGTON,State House,45,1,REP,Bruce BORDERS,751,322,409,20
+Knox,025 - WASHINGTON,State House,45,1,DEM,No Candidate Filed,0,0,0,0
+Knox,025 - WASHINGTON,County Treasurer,,1,REP,Cendy L. JOSLIN,806,355,432,19
+Knox,025 - WASHINGTON,County Treasurer,,1,DEM,No Candidate Filed,0,0,0,0
+Knox,025 - WASHINGTON,County Coroner,,1,REP,Joe J. MILLSPAUGH,774,346,408,20
+Knox,025 - WASHINGTON,County Coroner,,1,DEM,No Candidate Filed,0,0,0,0
+Knox,025 - WASHINGTON,County Commissioner,1,1,REP,Thomas (TJ) BRINK,746,332,395,19
+Knox,025 - WASHINGTON,County Commissioner,1,1,DEM,No Candidate Filed,0,0,0,0
+Knox,025 - WASHINGTON,County Commissioner,2,1,REP,Timothy J. ELLERMAN II,730,320,391,19
+Knox,025 - WASHINGTON,County Commissioner,2,1,DEM,No Candidate Filed,0,0,0,0
+Knox,025 - WASHINGTON,County Council Member,At Large,3,REP,Jon HILLENBRAND,491,216,264,11
+Knox,025 - WASHINGTON,County Council Member,At Large,3,REP,Kevin L. MEYER,477,203,258,16
+Knox,025 - WASHINGTON,County Council Member,At Large,3,REP,Dan REITMEYER,434,183,239,12
+Knox,025 - WASHINGTON,County Council Member,At Large,3,DEM,No Candidate Filed,0,0,0,0
+Knox,025 - WASHINGTON,North Knox School Board,C,1,,No Candidate Filed,0,0,0,0
+Knox,025 - WASHINGTON,North Knox School Board,C,1,,Write-In,13,6,7,0
+Knox,025 - WASHINGTON,North Knox School Board,E,1,,No Candidate Filed,0,0,0,0
+Knox,025 - WASHINGTON,North Knox School Board,E,1,,Write-In,7,4,3,0
+Knox,025 - WASHINGTON,IN Supreme Court-Rush,,1,,Yes,468,199,256,13
+Knox,025 - WASHINGTON,IN Supreme Court-Rush,,1,,No,159,64,83,12
+Knox,025 - WASHINGTON,IN Supreme Court-Massa,,1,,Yes,470,192,269,9
+Knox,025 - WASHINGTON,IN Supreme Court-Massa,,1,,No,157,65,77,15
+Knox,025 - WASHINGTON,IN Supreme Court-Molter,,1,,Yes,487,212,263,12
+Knox,025 - WASHINGTON,IN Supreme Court-Molter,,1,,No,156,63,81,12
+Knox,025 - WASHINGTON,Court of Appeals Dist 1-Foley,,1,,Yes,477,201,262,14
+Knox,025 - WASHINGTON,Court of Appeals Dist 1-Foley,,1,,No,158,69,80,9
+Knox,025 - WASHINGTON,Court of Appeals Dist 4-Pyle III,,1,,Yes,490,214,264,12
+Knox,025 - WASHINGTON,Court of Appeals Dist 4-Pyle III,,1,,No,144,57,75,12
+Knox,025 - WASHINGTON,Straight Party,,,DEM,Democratic Party,56,,,
+Knox,025 - WASHINGTON,Straight Party,,,REP,Republican Party,213,,,
+Knox,026 - WIDNER,Registered Voters,,,,,741,,,
+Knox,026 - WIDNER,Ballots Cast,,,,,561,165,366,30
+Knox,026 - WIDNER,Public Question-Const Amendment,,1,,Yes,289,74,200,15
+Knox,026 - WIDNER,Public Question-Const Amendment,,1,,No,191,75,110,6
+Knox,026 - WIDNER,President,,1,REP,Donald J. TRUMP / JD VANCE,472,145,302,25
+Knox,026 - WIDNER,President,,1,DEM,Kamala D. HARRIS / Tim WALZ,76,15,59,2
+Knox,026 - WIDNER,President,,1,LBT,Chase OLIVER / Mike terr MAAT,1,0,1,0
+Knox,026 - WIDNER,President,,1,WTP,Robert F. KENNEDY JR. / Nichole SHANAHAN,7,1,3,3
+Knox,026 - WIDNER,President,,1,,Write-In,1,1,0,0
+Knox,026 - WIDNER,U.S. Senate,,1,REP,Jim BANKS,443,135,285,23
+Knox,026 - WIDNER,U.S. Senate,,1,DEM,Valerie McCRAY,73,17,51,5
+Knox,026 - WIDNER,U.S. Senate,,1,LBT,Andrew HORNING,10,2,8,0
+Knox,026 - WIDNER,U.S. Senate,,1,,Write-In,0,0,0,0
+Knox,026 - WIDNER,Governor,,1,REP,Mike BRAUN / Micah BECKWITH,418,127,268,23
+Knox,026 - WIDNER,Governor,,1,DEM,Jennifer G. McCORMICK / Terry GOODIN,83,20,59,4
+Knox,026 - WIDNER,Governor,,1,LBT,Donald RAINWATER / Tonya HUDSON,26,5,19,2
+Knox,026 - WIDNER,Governor,,1,,Write-In,0,0,0,0
+Knox,026 - WIDNER,Attorney General,,1,REP,Todd ROKITA,453,137,292,24
+Knox,026 - WIDNER,Attorney General,,1,DEM,Destiny WELLS,75,18,55,2
+Knox,026 - WIDNER,U.S. House,8,1,REP,Mark MESSMER,452,139,288,25
+Knox,026 - WIDNER,U.S. House,8,1,DEM,Erik HURT,67,15,49,3
+Knox,026 - WIDNER,U.S. House,8,1,LBT,K Richard FITZLAFF,14,2,12,0
+Knox,026 - WIDNER,U.S. House,8,1,,Write-In,0,0,0,0
+Knox,026 - WIDNER,State House,45,1,REP,Bruce BORDERS,459,130,305,24
+Knox,026 - WIDNER,State House,45,1,DEM,No Candidate Filed,0,0,0,0
+Knox,026 - WIDNER,County Treasurer,,1,REP,Cendy L. JOSLIN,503,147,332,24
+Knox,026 - WIDNER,County Treasurer,,1,DEM,No Candidate Filed,0,0,0,0
+Knox,026 - WIDNER,County Coroner,,1,REP,Joe J. MILLSPAUGH,485,140,321,24
+Knox,026 - WIDNER,County Coroner,,1,DEM,No Candidate Filed,0,0,0,0
+Knox,026 - WIDNER,County Commissioner,1,1,REP,Thomas (TJ) BRINK,483,140,319,24
+Knox,026 - WIDNER,County Commissioner,1,1,DEM,No Candidate Filed,0,0,0,0
+Knox,026 - WIDNER,County Commissioner,2,1,REP,Timothy J. ELLERMAN II,459,130,305,24
+Knox,026 - WIDNER,County Commissioner,2,1,DEM,No Candidate Filed,0,0,0,0
+Knox,026 - WIDNER,County Council Member,At Large,3,REP,Jon HILLENBRAND,315,98,203,14
+Knox,026 - WIDNER,County Council Member,At Large,3,REP,Kevin L. MEYER,289,86,189,14
+Knox,026 - WIDNER,County Council Member,At Large,3,REP,Dan REITMEYER,272,74,180,18
+Knox,026 - WIDNER,County Council Member,At Large,3,DEM,No Candidate Filed,0,0,0,0
+Knox,026 - WIDNER,North Knox School Board,C,1,,No Candidate Filed,0,0,0,0
+Knox,026 - WIDNER,North Knox School Board,C,1,,Write-In,14,4,9,1
+Knox,026 - WIDNER,North Knox School Board,E,1,,No Candidate Filed,0,0,0,0
+Knox,026 - WIDNER,North Knox School Board,E,1,,Write-In,11,4,6,1
+Knox,026 - WIDNER,IN Supreme Court-Rush,,1,,Yes,305,88,201,16
+Knox,026 - WIDNER,IN Supreme Court-Rush,,1,,No,104,32,70,2
+Knox,026 - WIDNER,IN Supreme Court-Massa,,1,,Yes,314,94,206,14
+Knox,026 - WIDNER,IN Supreme Court-Massa,,1,,No,92,27,61,4
+Knox,026 - WIDNER,IN Supreme Court-Molter,,1,,Yes,321,99,206,16
+Knox,026 - WIDNER,IN Supreme Court-Molter,,1,,No,91,25,65,1
+Knox,026 - WIDNER,Court of Appeals Dist 1-Foley,,1,,Yes,313,96,203,14
+Knox,026 - WIDNER,Court of Appeals Dist 1-Foley,,1,,No,91,25,64,2
+Knox,026 - WIDNER,Court of Appeals Dist 4-Pyle III,,1,,Yes,312,96,199,17
+Knox,026 - WIDNER,Court of Appeals Dist 4-Pyle III,,1,,No,93,26,66,1
+Knox,026 - WIDNER,Straight Party,,,DEM,Democratic Party,10,,,
+Knox,026 - WIDNER,Straight Party,,,REP,Republican Party,152,,,

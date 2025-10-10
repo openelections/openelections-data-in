@@ -1,0 +1,523 @@
+county,precinct,office,district,seats,party,candidate,votes
+Martin,Crane,President,,1,,Write-In,0
+Martin,Crane,President,,1,LBT,Chase OLIVER / Mike Ter MAAT,0
+Martin,Crane,President,,1,REP,Donald J. TRUMP / JD Vance,66
+Martin,Crane,President,,1,DEM,Kamala D. HARRIS / Tim Walz,27
+Martin,Crane,President,,1,WTP,Robert F. KENNEDY JR. / Nicole SHANAHAN,1
+Martin,Crane,U.S. Senate,,1,LBT,Andrew HORNING,3
+Martin,Crane,U.S. Senate,,1,,Write-In,0
+Martin,Crane,U.S. Senate,,1,REP,Jim BANKS,64
+Martin,Crane,U.S. Senate,,1,DEM,Valerie McCRAY,26
+Martin,Crane,U.S. House,8,1,DEM,Erik HURT,23
+Martin,Crane,U.S. House,8,1,LBT,K Richard FITZLAFF,6
+Martin,Crane,U.S. House,8,1,REP,Mark MESSMER,65
+Martin,Crane,Governor,,1,,Write-In,0
+Martin,Crane,Governor,,1,LBT,Donald RAINWATER / Tonya  HUDSON,5
+Martin,Crane,Governor,,1,DEM,Jennifer G. McCORMICK / Terry  GOODIN,30
+Martin,Crane,Governor,,1,REP,Mike BRAUN / Micah  BECKWITH,58
+Martin,Crane,Attorney General,,1,DEM,Destiny WELLS,27
+Martin,Crane,Attorney General,,1,REP,Todd ROKITA,67
+Martin,Crane,County Auditor,,1,DEM,Michelle NORRIS,50
+Martin,Crane,County Commissioner,1,1,REP,Retha WARNER,74
+Martin,Crane,County Commissioner,3,1,REP,Aaron Moose SUMMERS,57
+Martin,Crane,County Commissioner,3,1,IND,Jason B McCOY,22
+Martin,Crane,County Coroner,,1,REP,Tony ABEL,74
+Martin,Crane,County Recorder,,1,REP,Sheri CRANDALL,76
+Martin,Crane,County Surveyor,,1,REP,Nathan Dale HOFFMAN,74
+Martin,Crane,County Treasurer,,1,REP,Rhonda SANDERS,75
+Martin,Crane,County Council,At Large,3,REP,Gerald D MONTGOMERY,35
+Martin,Crane,County Council,At Large,3,REP,Jim WOODY,37
+Martin,Crane,County Council,At Large,3,REP,Warren D ALBRIGHT,40
+Martin,East Memphis,President,,1,,Write-In,0
+Martin,East Memphis,President,,1,LBT,Chase OLIVER / Mike Ter MAAT,0
+Martin,East Memphis,President,,1,REP,Donald J. TRUMP / JD Vance,67
+Martin,East Memphis,President,,1,DEM,Kamala D. HARRIS / Tim Walz,14
+Martin,East Memphis,President,,1,WTP,Robert F. KENNEDY JR. / Nicole SHANAHAN,1
+Martin,East Memphis,U.S. Senate,,1,LBT,Andrew HORNING,1
+Martin,East Memphis,U.S. Senate,,1,,Write-In,0
+Martin,East Memphis,U.S. Senate,,1,REP,Jim BANKS,58
+Martin,East Memphis,U.S. Senate,,1,DEM,Valerie McCRAY,18
+Martin,East Memphis,U.S. House,8,1,DEM,Erik HURT,16
+Martin,East Memphis,U.S. House,8,1,LBT,K Richard FITZLAFF,3
+Martin,East Memphis,U.S. House,8,1,REP,Mark MESSMER,59
+Martin,East Memphis,Governor,,1,,Write-In,0
+Martin,East Memphis,Governor,,1,LBT,Donald RAINWATER / Tonya  HUDSON,12
+Martin,East Memphis,Governor,,1,DEM,Jennifer G. McCORMICK / Terry  GOODIN,16
+Martin,East Memphis,Governor,,1,REP,Mike BRAUN / Micah  BECKWITH,52
+Martin,East Memphis,Attorney General,,1,DEM,Destiny WELLS,17
+Martin,East Memphis,Attorney General,,1,REP,Todd ROKITA,60
+Martin,East Memphis,County Auditor,,1,DEM,Michelle NORRIS,50
+Martin,East Memphis,County Commissioner,1,1,REP,Retha WARNER,67
+Martin,East Memphis,County Commissioner,3,1,REP,Aaron Moose SUMMERS,52
+Martin,East Memphis,County Commissioner,3,1,IND,Jason B McCOY,29
+Martin,East Memphis,County Coroner,,1,REP,Tony ABEL,69
+Martin,East Memphis,County Recorder,,1,REP,Sheri CRANDALL,64
+Martin,East Memphis,County Surveyor,,1,REP,Nathan Dale HOFFMAN,68
+Martin,East Memphis,County Treasurer,,1,REP,Rhonda SANDERS,62
+Martin,East Memphis,County Council,At Large,3,REP,Gerald D MONTGOMERY,33
+Martin,East Memphis,County Council,At Large,3,REP,Jim WOODY,38
+Martin,East Memphis,County Council,At Large,3,REP,Warren D ALBRIGHT,44
+Martin,Lost River,President,,1,,Write-In,0
+Martin,Lost River,President,,1,LBT,Chase OLIVER / Mike Ter MAAT,3
+Martin,Lost River,President,,1,REP,Donald J. TRUMP / JD Vance,223
+Martin,Lost River,President,,1,DEM,Kamala D. HARRIS / Tim Walz,35
+Martin,Lost River,President,,1,WTP,Robert F. KENNEDY JR. / Nicole SHANAHAN,3
+Martin,Lost River,U.S. Senate,,1,LBT,Andrew HORNING,9
+Martin,Lost River,U.S. Senate,,1,,Write-In,0
+Martin,Lost River,U.S. Senate,,1,REP,Jim BANKS,205
+Martin,Lost River,U.S. Senate,,1,DEM,Valerie McCRAY,46
+Martin,Lost River,U.S. House,8,1,DEM,Erik HURT,35
+Martin,Lost River,U.S. House,8,1,LBT,K Richard FITZLAFF,12
+Martin,Lost River,U.S. House,8,1,REP,Mark MESSMER,217
+Martin,Lost River,Governor,,1,,Write-In,0
+Martin,Lost River,Governor,,1,LBT,Donald RAINWATER / Tonya  HUDSON,32
+Martin,Lost River,Governor,,1,DEM,Jennifer G. McCORMICK / Terry  GOODIN,64
+Martin,Lost River,Governor,,1,REP,Mike BRAUN / Micah  BECKWITH,168
+Martin,Lost River,Attorney General,,1,DEM,Destiny WELLS,52
+Martin,Lost River,Attorney General,,1,REP,Todd ROKITA,209
+Martin,Lost River,County Auditor,,1,DEM,Michelle NORRIS,131
+Martin,Lost River,County Commissioner,1,1,REP,Retha WARNER,229
+Martin,Lost River,County Commissioner,3,1,REP,Aaron Moose SUMMERS,173
+Martin,Lost River,County Commissioner,3,1,IND,Jason B McCOY,75
+Martin,Lost River,County Coroner,,1,REP,Tony ABEL,220
+Martin,Lost River,County Recorder,,1,REP,Sheri CRANDALL,221
+Martin,Lost River,County Surveyor,,1,REP,Nathan Dale HOFFMAN,229
+Martin,Lost River,County Treasurer,,1,REP,Rhonda SANDERS,227
+Martin,Lost River,County Council,At Large,3,REP,Gerald D MONTGOMERY,120
+Martin,Lost River,County Council,At Large,3,REP,Jim WOODY,111
+Martin,Lost River,County Council,At Large,3,REP,Warren D ALBRIGHT,136
+Martin,Mitcheltree,President,,1,,Write-In,0
+Martin,Mitcheltree,President,,1,LBT,Chase OLIVER / Mike Ter MAAT,1
+Martin,Mitcheltree,President,,1,REP,Donald J. TRUMP / JD Vance,216
+Martin,Mitcheltree,President,,1,DEM,Kamala D. HARRIS / Tim Walz,61
+Martin,Mitcheltree,President,,1,WTP,Robert F. KENNEDY JR. / Nicole SHANAHAN,8
+Martin,Mitcheltree,U.S. Senate,,1,LBT,Andrew HORNING,13
+Martin,Mitcheltree,U.S. Senate,,1,,Write-In,0
+Martin,Mitcheltree,U.S. Senate,,1,REP,Jim BANKS,205
+Martin,Mitcheltree,U.S. Senate,,1,DEM,Valerie McCRAY,62
+Martin,Mitcheltree,U.S. House,8,1,DEM,Erik HURT,59
+Martin,Mitcheltree,U.S. House,8,1,LBT,K Richard FITZLAFF,14
+Martin,Mitcheltree,U.S. House,8,1,REP,Mark MESSMER,203
+Martin,Mitcheltree,Governor,,1,,Write-In,0
+Martin,Mitcheltree,Governor,,1,LBT,Donald RAINWATER / Tonya  HUDSON,18
+Martin,Mitcheltree,Governor,,1,DEM,Jennifer G. McCORMICK / Terry  GOODIN,71
+Martin,Mitcheltree,Governor,,1,REP,Mike BRAUN / Micah  BECKWITH,196
+Martin,Mitcheltree,Attorney General,,1,DEM,Destiny WELLS,72
+Martin,Mitcheltree,Attorney General,,1,REP,Todd ROKITA,204
+Martin,Mitcheltree,County Auditor,,1,DEM,Michelle NORRIS,140
+Martin,Mitcheltree,County Commissioner,1,1,REP,Retha WARNER,224
+Martin,Mitcheltree,County Commissioner,3,1,REP,Aaron Moose SUMMERS,172
+Martin,Mitcheltree,County Commissioner,3,1,IND,Jason B McCOY,89
+Martin,Mitcheltree,County Coroner,,1,REP,Tony ABEL,221
+Martin,Mitcheltree,County Recorder,,1,REP,Sheri CRANDALL,217
+Martin,Mitcheltree,County Surveyor,,1,REP,Nathan Dale HOFFMAN,229
+Martin,Mitcheltree,County Treasurer,,1,REP,Rhonda SANDERS,227
+Martin,Mitcheltree,County Council,At Large,3,REP,Gerald D MONTGOMERY,128
+Martin,Mitcheltree,County Council,At Large,3,REP,Jim WOODY,106
+Martin,Mitcheltree,County Council,At Large,3,REP,Warren D ALBRIGHT,136
+Martin,North Center,President,,1,,Write-In,0
+Martin,North Center,President,,1,LBT,Chase OLIVER / Mike Ter MAAT,2
+Martin,North Center,President,,1,REP,Donald J. TRUMP / JD Vance,311
+Martin,North Center,President,,1,DEM,Kamala D. HARRIS / Tim Walz,54
+Martin,North Center,President,,1,WTP,Robert F. KENNEDY JR. / Nicole SHANAHAN,6
+Martin,North Center,U.S. Senate,,1,LBT,Andrew HORNING,16
+Martin,North Center,U.S. Senate,,1,,Write-In,0
+Martin,North Center,U.S. Senate,,1,REP,Jim BANKS,288
+Martin,North Center,U.S. Senate,,1,DEM,Valerie McCRAY,55
+Martin,North Center,U.S. House,8,1,DEM,Erik HURT,54
+Martin,North Center,U.S. House,8,1,LBT,K Richard FITZLAFF,14
+Martin,North Center,U.S. House,8,1,REP,Mark MESSMER,291
+Martin,North Center,Governor,,1,,Write-In,0
+Martin,North Center,Governor,,1,LBT,Donald RAINWATER / Tonya  HUDSON,50
+Martin,North Center,Governor,,1,DEM,Jennifer G. McCORMICK / Terry  GOODIN,70
+Martin,North Center,Governor,,1,REP,Mike BRAUN / Micah  BECKWITH,239
+Martin,North Center,Attorney General,,1,DEM,Destiny WELLS,60
+Martin,North Center,Attorney General,,1,REP,Todd ROKITA,296
+Martin,North Center,County Auditor,,1,DEM,Michelle NORRIS,186
+Martin,North Center,County Commissioner,1,1,REP,Retha WARNER,320
+Martin,North Center,County Commissioner,3,1,REP,Aaron Moose SUMMERS,239
+Martin,North Center,County Commissioner,3,1,IND,Jason B McCOY,115
+Martin,North Center,County Coroner,,1,REP,Tony ABEL,309
+Martin,North Center,County Recorder,,1,REP,Sheri CRANDALL,303
+Martin,North Center,County Surveyor,,1,REP,Nathan Dale HOFFMAN,302
+Martin,North Center,County Treasurer,,1,REP,Rhonda SANDERS,312
+Martin,North Center,County Council,At Large,3,REP,Gerald D MONTGOMERY,184
+Martin,North Center,County Council,At Large,3,REP,Jim WOODY,167
+Martin,North Center,County Council,At Large,3,REP,Warren D ALBRIGHT,203
+Martin,North Halbert,President,,1,,Write-In,0
+Martin,North Halbert,President,,1,LBT,Chase OLIVER / Mike Ter MAAT,0
+Martin,North Halbert,President,,1,REP,Donald J. TRUMP / JD Vance,218
+Martin,North Halbert,President,,1,DEM,Kamala D. HARRIS / Tim Walz,29
+Martin,North Halbert,President,,1,WTP,Robert F. KENNEDY JR. / Nicole SHANAHAN,4
+Martin,North Halbert,U.S. Senate,,1,LBT,Andrew HORNING,7
+Martin,North Halbert,U.S. Senate,,1,,Write-In,0
+Martin,North Halbert,U.S. Senate,,1,REP,Jim BANKS,204
+Martin,North Halbert,U.S. Senate,,1,DEM,Valerie McCRAY,33
+Martin,North Halbert,U.S. House,8,1,DEM,Erik HURT,33
+Martin,North Halbert,U.S. House,8,1,LBT,K Richard FITZLAFF,9
+Martin,North Halbert,U.S. House,8,1,REP,Mark MESSMER,203
+Martin,North Halbert,Governor,,1,,Write-In,0
+Martin,North Halbert,Governor,,1,LBT,Donald RAINWATER / Tonya  HUDSON,26
+Martin,North Halbert,Governor,,1,DEM,Jennifer G. McCORMICK / Terry  GOODIN,43
+Martin,North Halbert,Governor,,1,REP,Mike BRAUN / Micah  BECKWITH,173
+Martin,North Halbert,Attorney General,,1,DEM,Destiny WELLS,40
+Martin,North Halbert,Attorney General,,1,REP,Todd ROKITA,204
+Martin,North Halbert,County Auditor,,1,DEM,Michelle NORRIS,128
+Martin,North Halbert,County Commissioner,1,1,REP,Retha WARNER,212
+Martin,North Halbert,County Commissioner,3,1,REP,Aaron Moose SUMMERS,170
+Martin,North Halbert,County Commissioner,3,1,IND,Jason B McCOY,69
+Martin,North Halbert,County Coroner,,1,REP,Tony ABEL,209
+Martin,North Halbert,County Recorder,,1,REP,Sheri CRANDALL,218
+Martin,North Halbert,County Surveyor,,1,REP,Nathan Dale HOFFMAN,207
+Martin,North Halbert,County Treasurer,,1,REP,Rhonda SANDERS,218
+Martin,North Halbert,County Council,At Large,3,REP,Gerald D MONTGOMERY,123
+Martin,North Halbert,County Council,At Large,3,REP,Jim WOODY,103
+Martin,North Halbert,County Council,At Large,3,REP,Warren D ALBRIGHT,142
+Martin,Perry 1,President,,1,,Write-In,0
+Martin,Perry 1,President,,1,LBT,Chase OLIVER / Mike Ter MAAT,1
+Martin,Perry 1,President,,1,REP,Donald J. TRUMP / JD Vance,327
+Martin,Perry 1,President,,1,DEM,Kamala D. HARRIS / Tim Walz,81
+Martin,Perry 1,President,,1,WTP,Robert F. KENNEDY JR. / Nicole SHANAHAN,4
+Martin,Perry 1,U.S. Senate,,1,LBT,Andrew HORNING,12
+Martin,Perry 1,U.S. Senate,,1,,Write-In,0
+Martin,Perry 1,U.S. Senate,,1,REP,Jim BANKS,300
+Martin,Perry 1,U.S. Senate,,1,DEM,Valerie McCRAY,85
+Martin,Perry 1,U.S. House,8,1,DEM,Erik HURT,85
+Martin,Perry 1,U.S. House,8,1,LBT,K Richard FITZLAFF,24
+Martin,Perry 1,U.S. House,8,1,REP,Mark MESSMER,295
+Martin,Perry 1,Governor,,1,,Write-In,0
+Martin,Perry 1,Governor,,1,LBT,Donald RAINWATER / Tonya  HUDSON,61
+Martin,Perry 1,Governor,,1,DEM,Jennifer G. McCORMICK / Terry  GOODIN,120
+Martin,Perry 1,Governor,,1,REP,Mike BRAUN / Micah  BECKWITH,217
+Martin,Perry 1,Attorney General,,1,DEM,Destiny WELLS,88
+Martin,Perry 1,Attorney General,,1,REP,Todd ROKITA,306
+Martin,Perry 1,County Auditor,,1,DEM,Michelle NORRIS,221
+Martin,Perry 1,County Commissioner,1,1,REP,Retha WARNER,322
+Martin,Perry 1,County Commissioner,3,1,REP,Aaron Moose SUMMERS,214
+Martin,Perry 1,County Commissioner,3,1,IND,Jason B McCOY,169
+Martin,Perry 1,County Coroner,,1,REP,Tony ABEL,321
+Martin,Perry 1,County Recorder,,1,REP,Sheri CRANDALL,321
+Martin,Perry 1,County Surveyor,,1,REP,Nathan Dale HOFFMAN,314
+Martin,Perry 1,County Treasurer,,1,REP,Rhonda SANDERS,320
+Martin,Perry 1,County Council,At Large,3,REP,Gerald D MONTGOMERY,147
+Martin,Perry 1,County Council,At Large,3,REP,Jim WOODY,205
+Martin,Perry 1,County Council,At Large,3,REP,Warren D ALBRIGHT,186
+Martin,Perry 2,President,,1,,Write-In,1
+Martin,Perry 2,President,,1,LBT,Chase OLIVER / Mike Ter MAAT,1
+Martin,Perry 2,President,,1,REP,Donald J. TRUMP / JD Vance,205
+Martin,Perry 2,President,,1,DEM,Kamala D. HARRIS / Tim Walz,78
+Martin,Perry 2,President,,1,WTP,Robert F. KENNEDY JR. / Nicole SHANAHAN,6
+Martin,Perry 2,U.S. Senate,,1,LBT,Andrew HORNING,12
+Martin,Perry 2,U.S. Senate,,1,,Write-In,0
+Martin,Perry 2,U.S. Senate,,1,REP,Jim BANKS,187
+Martin,Perry 2,U.S. Senate,,1,DEM,Valerie McCRAY,82
+Martin,Perry 2,U.S. House,8,1,DEM,Erik HURT,79
+Martin,Perry 2,U.S. House,8,1,LBT,K Richard FITZLAFF,24
+Martin,Perry 2,U.S. House,8,1,REP,Mark MESSMER,186
+Martin,Perry 2,Governor,,1,,Write-In,0
+Martin,Perry 2,Governor,,1,LBT,Donald RAINWATER / Tonya  HUDSON,58
+Martin,Perry 2,Governor,,1,DEM,Jennifer G. McCORMICK / Terry  GOODIN,108
+Martin,Perry 2,Governor,,1,REP,Mike BRAUN / Micah  BECKWITH,123
+Martin,Perry 2,Attorney General,,1,DEM,Destiny WELLS,90
+Martin,Perry 2,Attorney General,,1,REP,Todd ROKITA,193
+Martin,Perry 2,County Auditor,,1,DEM,Michelle NORRIS,187
+Martin,Perry 2,County Commissioner,1,1,REP,Retha WARNER,215
+Martin,Perry 2,County Commissioner,3,1,REP,Aaron Moose SUMMERS,149
+Martin,Perry 2,County Commissioner,3,1,IND,Jason B McCOY,118
+Martin,Perry 2,County Coroner,,1,REP,Tony ABEL,213
+Martin,Perry 2,County Recorder,,1,REP,Sheri CRANDALL,212
+Martin,Perry 2,County Surveyor,,1,REP,Nathan Dale HOFFMAN,214
+Martin,Perry 2,County Treasurer,,1,REP,Rhonda SANDERS,215
+Martin,Perry 2,County Council,At Large,3,REP,Gerald D MONTGOMERY,122
+Martin,Perry 2,County Council,At Large,3,REP,Jim WOODY,140
+Martin,Perry 2,County Council,At Large,3,REP,Warren D ALBRIGHT,124
+Martin,Perry 3,President,,1,,Write-In,0
+Martin,Perry 3,President,,1,LBT,Chase OLIVER / Mike Ter MAAT,0
+Martin,Perry 3,President,,1,REP,Donald J. TRUMP / JD Vance,189
+Martin,Perry 3,President,,1,DEM,Kamala D. HARRIS / Tim Walz,39
+Martin,Perry 3,President,,1,WTP,Robert F. KENNEDY JR. / Nicole SHANAHAN,3
+Martin,Perry 3,U.S. Senate,,1,LBT,Andrew HORNING,2
+Martin,Perry 3,U.S. Senate,,1,,Write-In,0
+Martin,Perry 3,U.S. Senate,,1,REP,Jim BANKS,179
+Martin,Perry 3,U.S. Senate,,1,DEM,Valerie McCRAY,42
+Martin,Perry 3,U.S. House,8,1,DEM,Erik HURT,40
+Martin,Perry 3,U.S. House,8,1,LBT,K Richard FITZLAFF,9
+Martin,Perry 3,U.S. House,8,1,REP,Mark MESSMER,177
+Martin,Perry 3,Governor,,1,,Write-In,0
+Martin,Perry 3,Governor,,1,LBT,Donald RAINWATER / Tonya  HUDSON,28
+Martin,Perry 3,Governor,,1,DEM,Jennifer G. McCORMICK / Terry  GOODIN,56
+Martin,Perry 3,Governor,,1,REP,Mike BRAUN / Micah  BECKWITH,140
+Martin,Perry 3,Attorney General,,1,DEM,Destiny WELLS,42
+Martin,Perry 3,Attorney General,,1,REP,Todd ROKITA,183
+Martin,Perry 3,County Auditor,,1,DEM,Michelle NORRIS,146
+Martin,Perry 3,County Commissioner,1,1,REP,Retha WARNER,194
+Martin,Perry 3,County Commissioner,3,1,REP,Aaron Moose SUMMERS,126
+Martin,Perry 3,County Commissioner,3,1,IND,Jason B McCOY,88
+Martin,Perry 3,County Coroner,,1,REP,Tony ABEL,196
+Martin,Perry 3,County Recorder,,1,REP,Sheri CRANDALL,198
+Martin,Perry 3,County Surveyor,,1,REP,Nathan Dale HOFFMAN,194
+Martin,Perry 3,County Treasurer,,1,REP,Rhonda SANDERS,194
+Martin,Perry 3,County Council,At Large,3,REP,Gerald D MONTGOMERY,87
+Martin,Perry 3,County Council,At Large,3,REP,Jim WOODY,101
+Martin,Perry 3,County Council,At Large,3,REP,Warren D ALBRIGHT,102
+Martin,Perry 4,President,,1,,Write-In,0
+Martin,Perry 4,President,,1,LBT,Chase OLIVER / Mike Ter MAAT,3
+Martin,Perry 4,President,,1,REP,Donald J. TRUMP / JD Vance,220
+Martin,Perry 4,President,,1,DEM,Kamala D. HARRIS / Tim Walz,74
+Martin,Perry 4,President,,1,WTP,Robert F. KENNEDY JR. / Nicole SHANAHAN,2
+Martin,Perry 4,U.S. Senate,,1,LBT,Andrew HORNING,15
+Martin,Perry 4,U.S. Senate,,1,,Write-In,0
+Martin,Perry 4,U.S. Senate,,1,REP,Jim BANKS,205
+Martin,Perry 4,U.S. Senate,,1,DEM,Valerie McCRAY,76
+Martin,Perry 4,U.S. House,8,1,DEM,Erik HURT,81
+Martin,Perry 4,U.S. House,8,1,LBT,K Richard FITZLAFF,17
+Martin,Perry 4,U.S. House,8,1,REP,Mark MESSMER,200
+Martin,Perry 4,Governor,,1,,Write-In,0
+Martin,Perry 4,Governor,,1,LBT,Donald RAINWATER / Tonya  HUDSON,48
+Martin,Perry 4,Governor,,1,DEM,Jennifer G. McCORMICK / Terry  GOODIN,97
+Martin,Perry 4,Governor,,1,REP,Mike BRAUN / Micah  BECKWITH,153
+Martin,Perry 4,Attorney General,,1,DEM,Destiny WELLS,82
+Martin,Perry 4,Attorney General,,1,REP,Todd ROKITA,216
+Martin,Perry 4,County Auditor,,1,DEM,Michelle NORRIS,193
+Martin,Perry 4,County Commissioner,1,1,REP,Retha WARNER,246
+Martin,Perry 4,County Commissioner,3,1,REP,Aaron Moose SUMMERS,169
+Martin,Perry 4,County Commissioner,3,1,IND,Jason B McCOY,111
+Martin,Perry 4,County Coroner,,1,REP,Tony ABEL,246
+Martin,Perry 4,County Recorder,,1,REP,Sheri CRANDALL,242
+Martin,Perry 4,County Surveyor,,1,REP,Nathan Dale HOFFMAN,239
+Martin,Perry 4,County Treasurer,,1,REP,Rhonda SANDERS,246
+Martin,Perry 4,County Council,At Large,3,REP,Gerald D MONTGOMERY,126
+Martin,Perry 4,County Council,At Large,3,REP,Jim WOODY,149
+Martin,Perry 4,County Council,At Large,3,REP,Warren D ALBRIGHT,155
+Martin,Perry 5,President,,1,,Write-In,4
+Martin,Perry 5,President,,1,LBT,Chase OLIVER / Mike Ter MAAT,3
+Martin,Perry 5,President,,1,REP,Donald J. TRUMP / JD Vance,258
+Martin,Perry 5,President,,1,DEM,Kamala D. HARRIS / Tim Walz,70
+Martin,Perry 5,President,,1,WTP,Robert F. KENNEDY JR. / Nicole SHANAHAN,6
+Martin,Perry 5,U.S. Senate,,1,LBT,Andrew HORNING,10
+Martin,Perry 5,U.S. Senate,,1,,Write-In,1
+Martin,Perry 5,U.S. Senate,,1,REP,Jim BANKS,242
+Martin,Perry 5,U.S. Senate,,1,DEM,Valerie McCRAY,81
+Martin,Perry 5,U.S. House,8,1,DEM,Erik HURT,81
+Martin,Perry 5,U.S. House,8,1,LBT,K Richard FITZLAFF,26
+Martin,Perry 5,U.S. House,8,1,REP,Mark MESSMER,235
+Martin,Perry 5,Governor,,1,,Write-In,0
+Martin,Perry 5,Governor,,1,LBT,Donald RAINWATER / Tonya  HUDSON,72
+Martin,Perry 5,Governor,,1,DEM,Jennifer G. McCORMICK / Terry  GOODIN,111
+Martin,Perry 5,Governor,,1,REP,Mike BRAUN / Micah  BECKWITH,156
+Martin,Perry 5,Attorney General,,1,DEM,Destiny WELLS,90
+Martin,Perry 5,Attorney General,,1,REP,Todd ROKITA,245
+Martin,Perry 5,County Auditor,,1,DEM,Michelle NORRIS,211
+Martin,Perry 5,County Commissioner,1,1,REP,Retha WARNER,269
+Martin,Perry 5,County Commissioner,3,1,REP,Aaron Moose SUMMERS,171
+Martin,Perry 5,County Commissioner,3,1,IND,Jason B McCOY,149
+Martin,Perry 5,County Coroner,,1,REP,Tony ABEL,271
+Martin,Perry 5,County Recorder,,1,REP,Sheri CRANDALL,266
+Martin,Perry 5,County Surveyor,,1,REP,Nathan Dale HOFFMAN,268
+Martin,Perry 5,County Treasurer,,1,REP,Rhonda SANDERS,272
+Martin,Perry 5,County Council,At Large,3,REP,Gerald D MONTGOMERY,144
+Martin,Perry 5,County Council,At Large,3,REP,Jim WOODY,169
+Martin,Perry 5,County Council,At Large,3,REP,Warren D ALBRIGHT,164
+Martin,Perry 6,President,,1,,Write-In,0
+Martin,Perry 6,President,,1,LBT,Chase OLIVER / Mike Ter MAAT,1
+Martin,Perry 6,President,,1,REP,Donald J. TRUMP / JD Vance,335
+Martin,Perry 6,President,,1,DEM,Kamala D. HARRIS / Tim Walz,112
+Martin,Perry 6,President,,1,WTP,Robert F. KENNEDY JR. / Nicole SHANAHAN,2
+Martin,Perry 6,U.S. Senate,,1,LBT,Andrew HORNING,21
+Martin,Perry 6,U.S. Senate,,1,,Write-In,0
+Martin,Perry 6,U.S. Senate,,1,REP,Jim BANKS,305
+Martin,Perry 6,U.S. Senate,,1,DEM,Valerie McCRAY,115
+Martin,Perry 6,U.S. House,8,1,DEM,Erik HURT,115
+Martin,Perry 6,U.S. House,8,1,LBT,K Richard FITZLAFF,30
+Martin,Perry 6,U.S. House,8,1,REP,Mark MESSMER,299
+Martin,Perry 6,Governor,,1,,Write-In,0
+Martin,Perry 6,Governor,,1,LBT,Donald RAINWATER / Tonya  HUDSON,85
+Martin,Perry 6,Governor,,1,DEM,Jennifer G. McCORMICK / Terry  GOODIN,153
+Martin,Perry 6,Governor,,1,REP,Mike BRAUN / Micah  BECKWITH,208
+Martin,Perry 6,Attorney General,,1,DEM,Destiny WELLS,113
+Martin,Perry 6,Attorney General,,1,REP,Todd ROKITA,323
+Martin,Perry 6,County Auditor,,1,DEM,Michelle NORRIS,289
+Martin,Perry 6,County Commissioner,1,1,REP,Retha WARNER,357
+Martin,Perry 6,County Commissioner,3,1,REP,Aaron Moose SUMMERS,240
+Martin,Perry 6,County Commissioner,3,1,IND,Jason B McCOY,179
+Martin,Perry 6,County Coroner,,1,REP,Tony ABEL,352
+Martin,Perry 6,County Recorder,,1,REP,Sheri CRANDALL,349
+Martin,Perry 6,County Surveyor,,1,REP,Nathan Dale HOFFMAN,348
+Martin,Perry 6,County Treasurer,,1,REP,Rhonda SANDERS,354
+Martin,Perry 6,County Council,At Large,3,REP,Gerald D MONTGOMERY,199
+Martin,Perry 6,County Council,At Large,3,REP,Jim WOODY,250
+Martin,Perry 6,County Council,At Large,3,REP,Warren D ALBRIGHT,210
+Martin,Perry 7,President,,1,,Write-In,0
+Martin,Perry 7,President,,1,LBT,Chase OLIVER / Mike Ter MAAT,3
+Martin,Perry 7,President,,1,REP,Donald J. TRUMP / JD Vance,282
+Martin,Perry 7,President,,1,DEM,Kamala D. HARRIS / Tim Walz,60
+Martin,Perry 7,President,,1,WTP,Robert F. KENNEDY JR. / Nicole SHANAHAN,4
+Martin,Perry 7,U.S. Senate,,1,LBT,Andrew HORNING,13
+Martin,Perry 7,U.S. Senate,,1,,Write-In,0
+Martin,Perry 7,U.S. Senate,,1,REP,Jim BANKS,259
+Martin,Perry 7,U.S. Senate,,1,DEM,Valerie McCRAY,64
+Martin,Perry 7,U.S. House,8,1,DEM,Erik HURT,60
+Martin,Perry 7,U.S. House,8,1,LBT,K Richard FITZLAFF,29
+Martin,Perry 7,U.S. House,8,1,REP,Mark MESSMER,249
+Martin,Perry 7,Governor,,1,,Write-In,0
+Martin,Perry 7,Governor,,1,LBT,Donald RAINWATER / Tonya  HUDSON,86
+Martin,Perry 7,Governor,,1,DEM,Jennifer G. McCORMICK / Terry  GOODIN,85
+Martin,Perry 7,Governor,,1,REP,Mike BRAUN / Micah  BECKWITH,172
+Martin,Perry 7,Attorney General,,1,DEM,Destiny WELLS,66
+Martin,Perry 7,Attorney General,,1,REP,Todd ROKITA,270
+Martin,Perry 7,County Auditor,,1,DEM,Michelle NORRIS,173
+Martin,Perry 7,County Commissioner,1,1,REP,Retha WARNER,270
+Martin,Perry 7,County Commissioner,3,1,REP,Aaron Moose SUMMERS,179
+Martin,Perry 7,County Commissioner,3,1,IND,Jason B McCOY,142
+Martin,Perry 7,County Coroner,,1,REP,Tony ABEL,271
+Martin,Perry 7,County Recorder,,1,REP,Sheri CRANDALL,270
+Martin,Perry 7,County Surveyor,,1,REP,Nathan Dale HOFFMAN,264
+Martin,Perry 7,County Treasurer,,1,REP,Rhonda SANDERS,269
+Martin,Perry 7,County Council,At Large,3,REP,Gerald D MONTGOMERY,133
+Martin,Perry 7,County Council,At Large,3,REP,Jim WOODY,167
+Martin,Perry 7,County Council,At Large,3,REP,Warren D ALBRIGHT,154
+Martin,Rutherford,President,,1,,Write-In,0
+Martin,Rutherford,President,,1,LBT,Chase OLIVER / Mike Ter MAAT,4
+Martin,Rutherford,President,,1,REP,Donald J. TRUMP / JD Vance,321
+Martin,Rutherford,President,,1,DEM,Kamala D. HARRIS / Tim Walz,63
+Martin,Rutherford,President,,1,WTP,Robert F. KENNEDY JR. / Nicole SHANAHAN,4
+Martin,Rutherford,U.S. Senate,,1,LBT,Andrew HORNING,14
+Martin,Rutherford,U.S. Senate,,1,,Write-In,0
+Martin,Rutherford,U.S. Senate,,1,REP,Jim BANKS,290
+Martin,Rutherford,U.S. Senate,,1,DEM,Valerie McCRAY,69
+Martin,Rutherford,U.S. House,8,1,DEM,Erik HURT,89
+Martin,Rutherford,U.S. House,8,1,LBT,K Richard FITZLAFF,28
+Martin,Rutherford,U.S. House,8,1,REP,Mark MESSMER,270
+Martin,Rutherford,Governor,,1,,Write-In,0
+Martin,Rutherford,Governor,,1,LBT,Donald RAINWATER / Tonya  HUDSON,98
+Martin,Rutherford,Governor,,1,DEM,Jennifer G. McCORMICK / Terry  GOODIN,116
+Martin,Rutherford,Governor,,1,REP,Mike BRAUN / Micah  BECKWITH,165
+Martin,Rutherford,Attorney General,,1,DEM,Destiny WELLS,81
+Martin,Rutherford,Attorney General,,1,REP,Todd ROKITA,294
+Martin,Rutherford,County Auditor,,1,DEM,Michelle NORRIS,228
+Martin,Rutherford,County Commissioner,1,1,REP,Retha WARNER,297
+Martin,Rutherford,County Commissioner,3,1,REP,Aaron Moose SUMMERS,144
+Martin,Rutherford,County Commissioner,3,1,IND,Jason B McCOY,216
+Martin,Rutherford,County Coroner,,1,REP,Tony ABEL,304
+Martin,Rutherford,County Recorder,,1,REP,Sheri CRANDALL,303
+Martin,Rutherford,County Surveyor,,1,REP,Nathan Dale HOFFMAN,296
+Martin,Rutherford,County Treasurer,,1,REP,Rhonda SANDERS,308
+Martin,Rutherford,County Council,At Large,3,REP,Gerald D MONTGOMERY,171
+Martin,Rutherford,County Council,At Large,3,REP,Jim WOODY,216
+Martin,Rutherford,County Council,At Large,3,REP,Warren D ALBRIGHT,189
+Martin,South Center,President,,1,,Write-In,0
+Martin,South Center,President,,1,LBT,Chase OLIVER / Mike Ter MAAT,3
+Martin,South Center,President,,1,REP,Donald J. TRUMP / JD Vance,153
+Martin,South Center,President,,1,DEM,Kamala D. HARRIS / Tim Walz,26
+Martin,South Center,President,,1,WTP,Robert F. KENNEDY JR. / Nicole SHANAHAN,2
+Martin,South Center,U.S. Senate,,1,LBT,Andrew HORNING,8
+Martin,South Center,U.S. Senate,,1,,Write-In,0
+Martin,South Center,U.S. Senate,,1,REP,Jim BANKS,131
+Martin,South Center,U.S. Senate,,1,DEM,Valerie McCRAY,35
+Martin,South Center,U.S. House,8,1,DEM,Erik HURT,26
+Martin,South Center,U.S. House,8,1,LBT,K Richard FITZLAFF,12
+Martin,South Center,U.S. House,8,1,REP,Mark MESSMER,142
+Martin,South Center,Governor,,1,,Write-In,0
+Martin,South Center,Governor,,1,LBT,Donald RAINWATER / Tonya  HUDSON,24
+Martin,South Center,Governor,,1,DEM,Jennifer G. McCORMICK / Terry  GOODIN,39
+Martin,South Center,Governor,,1,REP,Mike BRAUN / Micah  BECKWITH,116
+Martin,South Center,Attorney General,,1,DEM,Destiny WELLS,29
+Martin,South Center,Attorney General,,1,REP,Todd ROKITA,143
+Martin,South Center,County Auditor,,1,DEM,Michelle NORRIS,104
+Martin,South Center,County Commissioner,1,1,REP,Retha WARNER,153
+Martin,South Center,County Commissioner,3,1,REP,Aaron Moose SUMMERS,100
+Martin,South Center,County Commissioner,3,1,IND,Jason B McCOY,76
+Martin,South Center,County Coroner,,1,REP,Tony ABEL,152
+Martin,South Center,County Recorder,,1,REP,Sheri CRANDALL,148
+Martin,South Center,County Surveyor,,1,REP,Nathan Dale HOFFMAN,153
+Martin,South Center,County Treasurer,,1,REP,Rhonda SANDERS,154
+Martin,South Center,County Council,At Large,3,REP,Gerald D MONTGOMERY,96
+Martin,South Center,County Council,At Large,3,REP,Jim WOODY,86
+Martin,South Center,County Council,At Large,3,REP,Warren D ALBRIGHT,107
+Martin,South Halbert,President,,1,,Write-In,0
+Martin,South Halbert,President,,1,LBT,Chase OLIVER / Mike Ter MAAT,1
+Martin,South Halbert,President,,1,REP,Donald J. TRUMP / JD Vance,198
+Martin,South Halbert,President,,1,DEM,Kamala D. HARRIS / Tim Walz,22
+Martin,South Halbert,President,,1,WTP,Robert F. KENNEDY JR. / Nicole SHANAHAN,4
+Martin,South Halbert,U.S. Senate,,1,LBT,Andrew HORNING,5
+Martin,South Halbert,U.S. Senate,,1,,Write-In,0
+Martin,South Halbert,U.S. Senate,,1,REP,Jim BANKS,186
+Martin,South Halbert,U.S. Senate,,1,DEM,Valerie McCRAY,22
+Martin,South Halbert,U.S. House,8,1,DEM,Erik HURT,19
+Martin,South Halbert,U.S. House,8,1,LBT,K Richard FITZLAFF,9
+Martin,South Halbert,U.S. House,8,1,REP,Mark MESSMER,186
+Martin,South Halbert,Governor,,1,,Write-In,0
+Martin,South Halbert,Governor,,1,LBT,Donald RAINWATER / Tonya  HUDSON,27
+Martin,South Halbert,Governor,,1,DEM,Jennifer G. McCORMICK / Terry  GOODIN,26
+Martin,South Halbert,Governor,,1,REP,Mike BRAUN / Micah  BECKWITH,164
+Martin,South Halbert,Attorney General,,1,DEM,Destiny WELLS,27
+Martin,South Halbert,Attorney General,,1,REP,Todd ROKITA,184
+Martin,South Halbert,County Auditor,,1,DEM,Michelle NORRIS,92
+Martin,South Halbert,County Commissioner,1,1,REP,Retha WARNER,188
+Martin,South Halbert,County Commissioner,3,1,REP,Aaron Moose SUMMERS,147
+Martin,South Halbert,County Commissioner,3,1,IND,Jason B McCOY,68
+Martin,South Halbert,County Coroner,,1,REP,Tony ABEL,179
+Martin,South Halbert,County Recorder,,1,REP,Sheri CRANDALL,180
+Martin,South Halbert,County Surveyor,,1,REP,Nathan Dale HOFFMAN,185
+Martin,South Halbert,County Treasurer,,1,REP,Rhonda SANDERS,185
+Martin,South Halbert,County Council,At Large,3,REP,Gerald D MONTGOMERY,133
+Martin,South Halbert,County Council,At Large,3,REP,Jim WOODY,93
+Martin,South Halbert,County Council,At Large,3,REP,Warren D ALBRIGHT,141
+Martin,Southeast Halbert,President,,1,,Write-In,0
+Martin,Southeast Halbert,President,,1,LBT,Chase OLIVER / Mike Ter MAAT,0
+Martin,Southeast Halbert,President,,1,REP,Donald J. TRUMP / JD Vance,184
+Martin,Southeast Halbert,President,,1,DEM,Kamala D. HARRIS / Tim Walz,32
+Martin,Southeast Halbert,President,,1,WTP,Robert F. KENNEDY JR. / Nicole SHANAHAN,4
+Martin,Southeast Halbert,U.S. Senate,,1,LBT,Andrew HORNING,10
+Martin,Southeast Halbert,U.S. Senate,,1,,Write-In,0
+Martin,Southeast Halbert,U.S. Senate,,1,REP,Jim BANKS,163
+Martin,Southeast Halbert,U.S. Senate,,1,DEM,Valerie McCRAY,34
+Martin,Southeast Halbert,U.S. House,8,1,DEM,Erik HURT,31
+Martin,Southeast Halbert,U.S. House,8,1,LBT,K Richard FITZLAFF,15
+Martin,Southeast Halbert,U.S. House,8,1,REP,Mark MESSMER,171
+Martin,Southeast Halbert,Governor,,1,,Write-In,0
+Martin,Southeast Halbert,Governor,,1,LBT,Donald RAINWATER / Tonya  HUDSON,45
+Martin,Southeast Halbert,Governor,,1,DEM,Jennifer G. McCORMICK / Terry  GOODIN,41
+Martin,Southeast Halbert,Governor,,1,REP,Mike BRAUN / Micah  BECKWITH,130
+Martin,Southeast Halbert,Attorney General,,1,DEM,Destiny WELLS,40
+Martin,Southeast Halbert,Attorney General,,1,REP,Todd ROKITA,172
+Martin,Southeast Halbert,County Auditor,,1,DEM,Michelle NORRIS,109
+Martin,Southeast Halbert,County Commissioner,1,1,REP,Retha WARNER,170
+Martin,Southeast Halbert,County Commissioner,3,1,REP,Aaron Moose SUMMERS,113
+Martin,Southeast Halbert,County Commissioner,3,1,IND,Jason B McCOY,84
+Martin,Southeast Halbert,County Coroner,,1,REP,Tony ABEL,163
+Martin,Southeast Halbert,County Recorder,,1,REP,Sheri CRANDALL,161
+Martin,Southeast Halbert,County Surveyor,,1,REP,Nathan Dale HOFFMAN,163
+Martin,Southeast Halbert,County Treasurer,,1,REP,Rhonda SANDERS,167
+Martin,Southeast Halbert,County Council,At Large,3,REP,Gerald D MONTGOMERY,91
+Martin,Southeast Halbert,County Council,At Large,3,REP,Jim WOODY,68
+Martin,Southeast Halbert,County Council,At Large,3,REP,Warren D ALBRIGHT,102
+Martin,West Memphis,President,,1,,Write-In,0
+Martin,West Memphis,President,,1,LBT,Chase OLIVER / Mike Ter MAAT,1
+Martin,West Memphis,President,,1,REP,Donald J. TRUMP / JD Vance,188
+Martin,West Memphis,President,,1,DEM,Kamala D. HARRIS / Tim Walz,56
+Martin,West Memphis,President,,1,WTP,Robert F. KENNEDY JR. / Nicole SHANAHAN,2
+Martin,West Memphis,U.S. Senate,,1,LBT,Andrew HORNING,12
+Martin,West Memphis,U.S. Senate,,1,,Write-In,0
+Martin,West Memphis,U.S. Senate,,1,REP,Jim BANKS,162
+Martin,West Memphis,U.S. Senate,,1,DEM,Valerie McCRAY,57
+Martin,West Memphis,U.S. House,8,1,DEM,Erik HURT,51
+Martin,West Memphis,U.S. House,8,1,LBT,K Richard FITZLAFF,7
+Martin,West Memphis,U.S. House,8,1,REP,Mark MESSMER,177
+Martin,West Memphis,Governor,,1,,Write-In,0
+Martin,West Memphis,Governor,,1,LBT,Donald RAINWATER / Tonya  HUDSON,24
+Martin,West Memphis,Governor,,1,DEM,Jennifer G. McCORMICK / Terry  GOODIN,59
+Martin,West Memphis,Governor,,1,REP,Mike BRAUN / Micah  BECKWITH,157
+Martin,West Memphis,Attorney General,,1,DEM,Destiny WELLS,65
+Martin,West Memphis,Attorney General,,1,REP,Todd ROKITA,167
+Martin,West Memphis,County Auditor,,1,DEM,Michelle NORRIS,125
+Martin,West Memphis,County Commissioner,1,1,REP,Retha WARNER,196
+Martin,West Memphis,County Commissioner,3,1,REP,Aaron Moose SUMMERS,150
+Martin,West Memphis,County Commissioner,3,1,IND,Jason B McCOY,78
+Martin,West Memphis,County Coroner,,1,REP,Tony ABEL,180
+Martin,West Memphis,County Recorder,,1,REP,Sheri CRANDALL,173
+Martin,West Memphis,County Surveyor,,1,REP,Nathan Dale HOFFMAN,183
+Martin,West Memphis,County Treasurer,,1,REP,Rhonda SANDERS,182
+Martin,West Memphis,County Council,At Large,3,REP,Gerald D MONTGOMERY,114
+Martin,West Memphis,County Council,At Large,3,REP,Jim WOODY,93
+Martin,West Memphis,County Council,At Large,3,REP,Warren D ALBRIGHT,131

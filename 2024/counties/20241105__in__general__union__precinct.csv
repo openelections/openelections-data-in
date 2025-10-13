@@ -1,0 +1,561 @@
+county,precinct,office,district,seats,party,candidate,votes
+Union,0001 Brownsville,Registered Voters,,,,,525
+Union,0001 Brownsville,Ballots Cast,,,,,398
+Union,0001 Brownsville,Public Question-Const Amendment,,1,,Yes,130
+Union,0001 Brownsville,Public Question-Const Amendment,,1,,No,148
+Union,0001 Brownsville,Straight Party,,,REP,Republican,146
+Union,0001 Brownsville,Straight Party,,,DEM,Democratic,29
+Union,0001 Brownsville,Straight Party,,,LBT,Libertarian,1
+Union,0001 Brownsville,Straight Party,,,WTP,We The People,3
+Union,0001 Brownsville,President,,1,REP,Donald J. TRUMP / JD VANCE,313
+Union,0001 Brownsville,President,,1,DEM,Kamala D. HARRIS / Tim WALZ,74
+Union,0001 Brownsville,President,,1,LBT,Chase OLIVER / Mike terr MAAT,3
+Union,0001 Brownsville,President,,1,WTP,Robert F. KENNEDY JR. / Nichole SHANAHAN,2
+Union,0001 Brownsville,President,,1,,Write-In,2
+Union,0001 Brownsville,U.S. Senate,,1,REP,Jim BANKS,297
+Union,0001 Brownsville,U.S. Senate,,1,DEM,Valerie McCRAY,81
+Union,0001 Brownsville,U.S. Senate,,1,LBT,Andrew HORNING,11
+Union,0001 Brownsville,U.S. Senate,,1,,Write-In,0
+Union,0001 Brownsville,Governor,,1,REP,Mike BRAUN / Micah BECKWITH,292
+Union,0001 Brownsville,Governor,,1,DEM,Jennifer G. McCORMICK / Terry GOODIN,82
+Union,0001 Brownsville,Governor,,1,LBT,Donald RAINWATER / Tonya HUDSON,16
+Union,0001 Brownsville,Governor,,1,,Write-In,0
+Union,0001 Brownsville,Attorney General,,1,REP,Todd ROKITA,300
+Union,0001 Brownsville,Attorney General,,1,DEM,Destiny WELLS,86
+Union,0001 Brownsville,U.S. House,6,1,REP,Jefferson SHREVE,294
+Union,0001 Brownsville,U.S. House,6,1,DEM,Cynthia (Cinde) WIRTH,79
+Union,0001 Brownsville,U.S. House,6,1,LBT,James Michael SCENIAK,13
+Union,0001 Brownsville,State House,55,1,REP,Lindsay PATTERSON,304
+Union,0001 Brownsville,State House,55,1,DEM,Victoria C MARTZ,81
+Union,0001 Brownsville,County Treasurer,,1,REP,Tammy (DAVIS) HARTMAN,344
+Union,0001 Brownsville,County Treasurer,,1,DEM,No Candidate Filed,0
+Union,0001 Brownsville,County Coroner,,1,REP,Robert E LEAVITT II,341
+Union,0001 Brownsville,County Coroner,,1,DEM,No Candidate Filed,0
+Union,0001 Brownsville,County Commissioner,2,1,REP,Tim M Williams,338
+Union,0001 Brownsville,County Commissioner,2,1,DEM,No Candidate Filed,0
+Union,0001 Brownsville,County Commissioner,3,1,REP,Dean VANWINKLE,278
+Union,0001 Brownsville,County Commissioner,3,1,DEM,Barry M EDWARDS,107
+Union,0001 Brownsville,County Council Member,At Large,3,,Bonnie ADAMS,186
+Union,0001 Brownsville,County Council Member,At Large,3,,Marilyn K RAVALEE,129
+Union,Coll Corner Joint School Harmony,County Council Member,At Large,3,,Chris ROSENBERGER,182
+Union,0001 Brownsville,County Council Member,At Large,3,,James R HENSLEY JR,112
+Union,0001 Brownsville,County Council Member,At Large,3,,Russel RUDE,133
+Union,0001 Brownsville,Coll Corner Joint School Center,,1,,Douglas M GARNER,99
+Union,0001 Brownsville,Coll Corner Joint School Center,,1,,Matthew Lakoff SNYDER,189
+Union,0001 Brownsville,Coll Corner Joint School Harmony,,1,,Mallory R HELTON,163
+Union,0001 Brownsville,Coll Corner Joint School Harmony,,1,,Kelvin J KLEIN,126
+Union,0001 Brownsville,Coll Corner Joint School Harrison,,1,,Drew EWING,262
+Union,0001 Brownsville,IN Supreme Court-Rush,,1,,Yes,219
+Union,0001 Brownsville,IN Supreme Court-Rush,,1,,No,75
+Union,0001 Brownsville,IN Supreme Court-Massa,,1,,Yes,222
+Union,0001 Brownsville,IN Supreme Court-Massa,,1,,No,69
+Union,0001 Brownsville,IN Supreme Court-Molter,,1,,Yes,225
+Union,0001 Brownsville,IN Supreme Court-Molter,,1,,No,64
+Union,0001 Brownsville,Court of Appeals Dist 1-Foley,,1,,Yes,228
+Union,0001 Brownsville,Court of Appeals Dist 1-Foley,,1,,No,61
+Union,0001 Brownsville,Court of Appeals Dist 4-Pyle III,,1,,Yes,223
+Union,0001 Brownsville,Court of Appeals Dist 4-Pyle III,,1,,No,67
+Union,0002 Harrison,Registered Voters,,,,,296
+Union,0002 Harrison,Ballots Cast,,,,,229
+Union,0002 Harrison,Public Question-Const Amendment,,1,,Yes,81
+Union,0002 Harrison,Public Question-Const Amendment,,1,,No,84
+Union,0002 Harrison,Straight Party,,,REP,Republican,62
+Union,0002 Harrison,Straight Party,,,DEM,Democratic,12
+Union,0002 Harrison,Straight Party,,,LBT,Libertarian,0
+Union,0002 Harrison,Straight Party,,,WTP,We The People,0
+Union,0002 Harrison,President,,1,REP,Donald J. TRUMP / JD VANCE,184
+Union,0002 Harrison,President,,1,DEM,Kamala D. HARRIS / Tim WALZ,38
+Union,0002 Harrison,President,,1,LBT,Chase OLIVER / Mike terr MAAT,1
+Union,0002 Harrison,President,,1,WTP,Robert F. KENNEDY JR. / Nichole SHANAHAN,2
+Union,0002 Harrison,President,,1,,Write-In,0
+Union,0002 Harrison,U.S. Senate,,1,REP,Jim BANKS,186
+Union,0002 Harrison,U.S. Senate,,1,DEM,Valerie McCRAY,26
+Union,0002 Harrison,U.S. Senate,,1,LBT,Andrew HORNING,9
+Union,0002 Harrison,U.S. Senate,,1,,Write-In,0
+Union,0002 Harrison,Governor,,1,REP,Mike BRAUN / Micah BECKWITH,176
+Union,0002 Harrison,Governor,,1,DEM,Jennifer G. McCORMICK / Terry GOODIN,38
+Union,0002 Harrison,Governor,,1,LBT,Donald RAINWATER / Tonya HUDSON,7
+Union,0002 Harrison,Governor,,1,,Write-In,0
+Union,0002 Harrison,Attorney General,,1,REP,Todd ROKITA,183
+Union,0002 Harrison,Attorney General,,1,DEM,Destiny WELLS,34
+Union,0002 Harrison,U.S. House,6,1,REP,Jefferson SHREVE,176
+Union,0002 Harrison,U.S. House,6,1,DEM,Cynthia (Cinde) WIRTH,33
+Union,0002 Harrison,U.S. House,6,1,LBT,James Michael SCENIAK,6
+Union,0002 Harrison,State House,55,1,REP,Lindsay PATTERSON,189
+Union,0002 Harrison,State House,55,1,DEM,Victoria C MARTZ,31
+Union,0002 Harrison,County Treasurer,,1,REP,Tammy (DAVIS) HARTMAN,194
+Union,0002 Harrison,County Treasurer,,1,DEM,No Candidate Filed,0
+Union,0002 Harrison,County Coroner,,1,REP,Robert E LEAVITT II,186
+Union,0002 Harrison,County Coroner,,1,DEM,No Candidate Filed,0
+Union,0002 Harrison,County Commissioner,2,1,REP,Tim M Williams,192
+Union,0002 Harrison,County Commissioner,2,1,DEM,No Candidate Filed,0
+Union,0002 Harrison,County Commissioner,3,1,REP,Dean VANWINKLE,166
+Union,0002 Harrison,County Commissioner,3,1,DEM,Barry M EDWARDS,48
+Union,0002 Harrison,County Council Member,At Large,3,,Bonnie ADAMS,119
+Union,0002 Harrison,County Council Member,At Large,3,,Marilyn K RAVALEE,84
+Union,0002 Harrison,County Council Member,At Large,3,,Chris ROSENBERGER,117
+Union,0002 Harrison,County Council Member,At Large,3,,James R HENSLEY JR,69
+Union,0002 Harrison,County Council Member,At Large,3,,Russel RUDE,52
+Union,0002 Harrison,Coll Corner Joint School Center,,1,,Douglas M GARNER,74
+Union,0002 Harrison,Coll Corner Joint School Center,,1,,Matthew Lakoff SNYDER,93
+Union,0002 Harrison,Coll Corner Joint School Harmony,,1,,Mallory R HELTON,100
+Union,0002 Harrison,Coll Corner Joint School Harmony,,1,,Kelvin J KLEIN,62
+Union,0002 Harrison,Coll Corner Joint School Harrison,,1,,Drew EWING,156
+Union,0002 Harrison,IN Supreme Court-Rush,,1,,Yes,129
+Union,0002 Harrison,IN Supreme Court-Rush,,1,,No,39
+Union,0002 Harrison,IN Supreme Court-Massa,,1,,Yes,125
+Union,0002 Harrison,IN Supreme Court-Massa,,1,,No,39
+Union,0002 Harrison,IN Supreme Court-Molter,,1,,Yes,116
+Union,0002 Harrison,IN Supreme Court-Molter,,1,,No,48
+Union,0002 Harrison,Court of Appeals Dist 1-Foley,,1,,Yes,115
+Union,0002 Harrison,Court of Appeals Dist 1-Foley,,1,,No,47
+Union,0002 Harrison,Court of Appeals Dist 4-Pyle III,,1,,Yes,118
+Union,0002 Harrison,Court of Appeals Dist 4-Pyle III,,1,,No,44
+Union,0003 Liberty,Registered Voters,,,,,789
+Union,0003 Liberty,Ballots Cast,,,,,573
+Union,0003 Liberty,Public Question-Const Amendment,,1,,Yes,195
+Union,0003 Liberty,Public Question-Const Amendment,,1,,No,225
+Union,0003 Liberty,Straight Party,,,REP,Republican,194
+Union,0003 Liberty,Straight Party,,,DEM,Democratic,36
+Union,0003 Liberty,Straight Party,,,LBT,Libertarian,1
+Union,0003 Liberty,Straight Party,,,WTP,We The People,2
+Union,0003 Liberty,President,,1,REP,Donald J. TRUMP / JD VANCE,444
+Union,0003 Liberty,President,,1,DEM,Kamala D. HARRIS / Tim WALZ,120
+Union,0003 Liberty,President,,1,LBT,Chase OLIVER / Mike terr MAAT,3
+Union,0003 Liberty,President,,1,WTP,Robert F. KENNEDY JR. / Nichole SHANAHAN,0
+Union,0003 Liberty,President,,1,,Write-In,2
+Union,0003 Liberty,U.S. Senate,,1,REP,Jim BANKS,435
+Union,0003 Liberty,U.S. Senate,,1,DEM,Valerie McCRAY,116
+Union,0003 Liberty,U.S. Senate,,1,LBT,Andrew HORNING,8
+Union,0003 Liberty,U.S. Senate,,1,,Write-In,1
+Union,0003 Liberty,Governor,,1,REP,Mike BRAUN / Micah BECKWITH,417
+Union,0003 Liberty,Governor,,1,DEM,Jennifer G. McCORMICK / Terry GOODIN,129
+Union,0003 Liberty,Governor,,1,LBT,Donald RAINWATER / Tonya HUDSON,16
+Union,0003 Liberty,Governor,,1,,Write-In,1
+Union,0003 Liberty,Attorney General,,1,REP,Todd ROKITA,437
+Union,0003 Liberty,Attorney General,,1,DEM,Destiny WELLS,116
+Union,0003 Liberty,U.S. House,6,1,REP,Jefferson SHREVE,424
+Union,0003 Liberty,U.S. House,6,1,DEM,Cynthia (Cinde) WIRTH,109
+Union,0003 Liberty,U.S. House,6,1,LBT,James Michael SCENIAK,18
+Union,0003 Liberty,State House,55,1,REP,Lindsay PATTERSON,441
+Union,0003 Liberty,State House,55,1,DEM,Victoria C MARTZ,112
+Union,0003 Liberty,County Treasurer,,1,REP,Tammy (DAVIS) HARTMAN,506
+Union,0003 Liberty,County Treasurer,,1,DEM,No Candidate Filed,0
+Union,0003 Liberty,County Coroner,,1,REP,Robert E LEAVITT II,503
+Union,0003 Liberty,County Coroner,,1,DEM,No Candidate Filed,0
+Union,0003 Liberty,County Commissioner,2,1,REP,Tim M Williams,507
+Union,0003 Liberty,County Commissioner,2,1,DEM,No Candidate Filed,0
+Union,0003 Liberty,County Commissioner,3,1,REP,Dean VANWINKLE,411
+Union,0003 Liberty,County Commissioner,3,1,DEM,Barry M EDWARDS,142
+Union,0003 Liberty,County Council Member,At Large,3,,Bonnie ADAMS,256
+Union,0003 Liberty,County Council Member,At Large,3,,Marilyn K RAVALEE,207
+Union,0003 Liberty,County Council Member,At Large,3,,Chris ROSENBERGER,268
+Union,0003 Liberty,County Council Member,At Large,3,,James R HENSLEY JR,196
+Union,0003 Liberty,County Council Member,At Large,3,,Russel RUDE,148
+Union,0003 Liberty,Coll Corner Joint School Center,,1,,Douglas M GARNER,165
+Union,0003 Liberty,Coll Corner Joint School Center,,1,,Matthew Lakoff SNYDER,300
+Union,0003 Liberty,Coll Corner Joint School Harmony,,1,,Mallory R HELTON,281
+Union,0003 Liberty,Coll Corner Joint School Harmony,,1,,Kelvin J KLEIN,186
+Union,0003 Liberty,Coll Corner Joint School Harrison,,1,,Drew EWING,407
+Union,0003 Liberty,IN Supreme Court-Rush,,1,,Yes,330
+Union,0003 Liberty,IN Supreme Court-Rush,,1,,No,108
+Union,0003 Liberty,IN Supreme Court-Massa,,1,,Yes,325
+Union,0003 Liberty,IN Supreme Court-Massa,,1,,No,107
+Union,0003 Liberty,IN Supreme Court-Molter,,1,,Yes,329
+Union,0003 Liberty,IN Supreme Court-Molter,,1,,No,101
+Union,0003 Liberty,Court of Appeals Dist 1-Foley,,1,,Yes,329
+Union,0003 Liberty,Court of Appeals Dist 1-Foley,,1,,No,103
+Union,0003 Liberty,Court of Appeals Dist 4-Pyle III,,1,,Yes,319
+Union,0003 Liberty,Court of Appeals Dist 4-Pyle III,,1,,No,113
+Union,0004 Center,Registered Voters,,,,,671
+Union,0004 Center,Ballots Cast,,,,,480
+Union,0004 Center,Public Question-Const Amendment,,1,,Yes,171
+Union,0004 Center,Public Question-Const Amendment,,1,,No,199
+Union,0004 Center,Straight Party,,,REP,Republican,136
+Union,0004 Center,Straight Party,,,DEM,Democratic,19
+Union,0004 Center,Straight Party,,,LBT,Libertarian,2
+Union,0004 Center,Straight Party,,,WTP,We The People,5
+Union,0004 Center,President,,1,REP,Donald J. TRUMP / JD VANCE,390
+Union,0004 Center,President,,1,DEM,Kamala D. HARRIS / Tim WALZ,84
+Union,0004 Center,President,,1,LBT,Chase OLIVER / Mike terr MAAT,2
+Union,0004 Center,President,,1,WTP,Robert F. KENNEDY JR. / Nichole SHANAHAN,1
+Union,0004 Center,President,,1,,Write-In,1
+Union,0004 Center,U.S. Senate,,1,REP,Jim BANKS,375
+Union,0004 Center,U.S. Senate,,1,DEM,Valerie McCRAY,72
+Union,0004 Center,U.S. Senate,,1,LBT,Andrew HORNING,18
+Union,0004 Center,U.S. Senate,,1,,Write-In,0
+Union,0004 Center,Governor,,1,REP,Mike BRAUN / Micah BECKWITH,369
+Union,0004 Center,Governor,,1,DEM,Jennifer G. McCORMICK / Terry GOODIN,81
+Union,0004 Center,Governor,,1,LBT,Donald RAINWATER / Tonya HUDSON,18
+Union,0004 Center,Governor,,1,,Write-In,0
+Union,0004 Center,Attorney General,,1,REP,Todd ROKITA,390
+Union,0004 Center,Attorney General,,1,DEM,Destiny WELLS,77
+Union,0004 Center,U.S. House,6,1,REP,Jefferson SHREVE,372
+Union,0004 Center,U.S. House,6,1,DEM,Cynthia (Cinde) WIRTH,67
+Union,0004 Center,U.S. House,6,1,LBT,James Michael SCENIAK,20
+Union,0004 Center,State House,55,1,REP,Lindsay PATTERSON,396
+Union,0004 Center,State House,55,1,DEM,Victoria C MARTZ,68
+Union,0004 Center,County Treasurer,,1,REP,Tammy (DAVIS) HARTMAN,428
+Union,0004 Center,County Treasurer,,1,DEM,No Candidate Filed,0
+Union,0004 Center,County Coroner,,1,REP,Robert E LEAVITT II,420
+Union,0004 Center,County Coroner,,1,DEM,No Candidate Filed,0
+Union,0004 Center,County Commissioner,2,1,REP,Tim M Williams,417
+Union,0004 Center,County Commissioner,2,1,DEM,No Candidate Filed,0
+Union,0004 Center,County Commissioner,3,1,REP,Dean VANWINKLE,375
+Union,0004 Center,County Commissioner,3,1,DEM,Barry M EDWARDS,86
+Union,0004 Center,County Council Member,At Large,3,,Bonnie ADAMS,236
+Union,0004 Center,County Council Member,At Large,3,,Marilyn K RAVALEE,212
+Union,0004 Center,County Council Member,At Large,3,,Chris ROSENBERGER,249
+Union,0004 Center,County Council Member,At Large,3,,James R HENSLEY JR,151
+Union,0004 Center,County Council Member,At Large,3,,Russel RUDE,121
+Union,0004 Center,Coll Corner Joint School Center,,1,,Douglas M GARNER,149
+Union,0004 Center,Coll Corner Joint School Center,,1,,Matthew Lakoff SNYDER,223
+Union,0004 Center,Coll Corner Joint School Harmony,,1,,Mallory R HELTON,225
+Union,0004 Center,Coll Corner Joint School Harmony,,1,,Kelvin J KLEIN,140
+Union,0004 Center,Coll Corner Joint School Harrison,,1,,Drew EWING,341
+Union,0004 Center,IN Supreme Court-Rush,,1,,Yes,276
+Union,0004 Center,IN Supreme Court-Rush,,1,,No,81
+Union,0004 Center,IN Supreme Court-Massa,,1,,Yes,277
+Union,0004 Center,IN Supreme Court-Massa,,1,,No,78
+Union,0004 Center,IN Supreme Court-Molter,,1,,Yes,274
+Union,0004 Center,IN Supreme Court-Molter,,1,,No,82
+Union,0004 Center,Court of Appeals Dist 1-Foley,,1,,Yes,280
+Union,0004 Center,Court of Appeals Dist 1-Foley,,1,,No,74
+Union,0004 Center,Court of Appeals Dist 4-Pyle III,,1,,Yes,280
+Union,0004 Center,Court of Appeals Dist 4-Pyle III,,1,,No,74
+Union,0005 Center 1,Registered Voters,,,,,482
+Union,0005 Center 1,Ballots Cast,,,,,294
+Union,0005 Center 1,Public Question-Const Amendment,,1,,Yes,123
+Union,0005 Center 1,Public Question-Const Amendment,,1,,No,94
+Union,0005 Center 1,Straight Party,,,REP,Republican,90
+Union,0005 Center 1,Straight Party,,,DEM,Democratic,28
+Union,0005 Center 1,Straight Party,,,LBT,Libertarian,1
+Union,0005 Center 1,Straight Party,,,WTP,We The People,2
+Union,0005 Center 1,President,,1,REP,Donald J. TRUMP / JD VANCE,224
+Union,0005 Center 1,President,,1,DEM,Kamala D. HARRIS / Tim WALZ,58
+Union,0005 Center 1,President,,1,LBT,Chase OLIVER / Mike terr MAAT,2
+Union,0005 Center 1,President,,1,WTP,Robert F. KENNEDY JR. / Nichole SHANAHAN,7
+Union,0005 Center 1,President,,1,,Write-In,1
+Union,0005 Center 1,U.S. Senate,,1,REP,Jim BANKS,212
+Union,0005 Center 1,U.S. Senate,,1,DEM,Valerie McCRAY,59
+Union,0005 Center 1,U.S. Senate,,1,LBT,Andrew HORNING,9
+Union,0005 Center 1,U.S. Senate,,1,,Write-In,0
+Union,0005 Center 1,Governor,,1,REP,Mike BRAUN / Micah BECKWITH,196
+Union,0005 Center 1,Governor,,1,DEM,Jennifer G. McCORMICK / Terry GOODIN,62
+Union,0005 Center 1,Governor,,1,LBT,Donald RAINWATER / Tonya HUDSON,22
+Union,0005 Center 1,Governor,,1,,Write-In,0
+Union,0005 Center 1,Attorney General,,1,REP,Todd ROKITA,209
+Union,0005 Center 1,Attorney General,,1,DEM,Destiny WELLS,59
+Union,0005 Center 1,U.S. House,6,1,REP,Jefferson SHREVE,216
+Union,0005 Center 1,U.S. House,6,1,DEM,Cynthia (Cinde) WIRTH,53
+Union,0005 Center 1,U.S. House,6,1,LBT,James Michael SCENIAK,7
+Union,0005 Center 1,State House,55,1,REP,Lindsay PATTERSON,215
+Union,0005 Center 1,State House,55,1,DEM,Victoria C MARTZ,59
+Union,0005 Center 1,County Treasurer,,1,REP,Tammy (DAVIS) HARTMAN,243
+Union,0005 Center 1,County Treasurer,,1,DEM,No Candidate Filed,0
+Union,0005 Center 1,County Coroner,,1,REP,Robert E LEAVITT II,237
+Union,0005 Center 1,County Coroner,,1,DEM,No Candidate Filed,0
+Union,0005 Center 1,County Commissioner,2,1,REP,Tim M Williams,234
+Union,0005 Center 1,County Commissioner,2,1,DEM,No Candidate Filed,0
+Union,0005 Center 1,County Commissioner,3,1,REP,Dean VANWINKLE,203
+Union,0005 Center 1,County Commissioner,3,1,DEM,Barry M EDWARDS,70
+Union,0005 Center 1,County Council Member,At Large,3,,Bonnie ADAMS,138
+Union,0005 Center 1,County Council Member,At Large,3,,Marilyn K RAVALEE,113
+Union,0005 Center 1,County Council Member,At Large,3,,Chris ROSENBERGER,107
+Union,0005 Center 1,County Council Member,At Large,3,,James R HENSLEY JR,96
+Union,0005 Center 1,County Council Member,At Large,3,,Russel RUDE,76
+Union,0005 Center 1,Coll Corner Joint School Center,,1,,Douglas M GARNER,94
+Union,0005 Center 1,Coll Corner Joint School Center,,1,,Matthew Lakoff SNYDER,129
+Union,0005 Center 1,Coll Corner Joint School Harmony,,1,,Mallory R HELTON,151
+Union,0005 Center 1,Coll Corner Joint School Harmony,,1,,Kelvin J KLEIN,76
+Union,0005 Center 1,Coll Corner Joint School Harrison,,1,,Drew EWING,202
+Union,0005 Center 1,IN Supreme Court-Rush,,1,,Yes,161
+Union,0005 Center 1,IN Supreme Court-Rush,,1,,No,58
+Union,0005 Center 1,IN Supreme Court-Massa,,1,,Yes,153
+Union,0005 Center 1,IN Supreme Court-Massa,,1,,No,64
+Union,0005 Center 1,IN Supreme Court-Molter,,1,,Yes,155
+Union,0005 Center 1,IN Supreme Court-Molter,,1,,No,62
+Union,0005 Center 1,Court of Appeals Dist 1-Foley,,1,,Yes,155
+Union,0005 Center 1,Court of Appeals Dist 1-Foley,,1,,No,62
+Union,0005 Center 1,Court of Appeals Dist 4-Pyle III,,1,,Yes,148
+Union,0005 Center 1,Court of Appeals Dist 4-Pyle III,,1,,No,68
+Union,0006 Center 2,Registered Voters,,,,,457
+Union,0006 Center 2,Ballots Cast,,,,,285
+Union,0006 Center 2,Public Question-Const Amendment,,1,,Yes,117
+Union,0006 Center 2,Public Question-Const Amendment,,1,,No,102
+Union,0006 Center 2,Straight Party,,,REP,Republican,70
+Union,0006 Center 2,Straight Party,,,DEM,Democratic,16
+Union,0006 Center 2,Straight Party,,,LBT,Libertarian,1
+Union,0006 Center 2,Straight Party,,,WTP,We The People,5
+Union,0006 Center 2,President,,1,REP,Donald J. TRUMP / JD VANCE,204
+Union,0006 Center 2,President,,1,DEM,Kamala D. HARRIS / Tim WALZ,75
+Union,0006 Center 2,President,,1,LBT,Chase OLIVER / Mike terr MAAT,3
+Union,0006 Center 2,President,,1,WTP,Robert F. KENNEDY JR. / Nichole SHANAHAN,1
+Union,0006 Center 2,President,,1,,Write-In,0
+Union,0006 Center 2,U.S. Senate,,1,REP,Jim BANKS,200
+Union,0006 Center 2,U.S. Senate,,1,DEM,Valerie McCRAY,68
+Union,0006 Center 2,U.S. Senate,,1,LBT,Andrew HORNING,7
+Union,0006 Center 2,U.S. Senate,,1,,Write-In,0
+Union,0006 Center 2,Governor,,1,REP,Mike BRAUN / Micah BECKWITH,182
+Union,0006 Center 2,Governor,,1,DEM,Jennifer G. McCORMICK / Terry GOODIN,82
+Union,0006 Center 2,Governor,,1,LBT,Donald RAINWATER / Tonya HUDSON,13
+Union,0006 Center 2,Governor,,1,,Write-In,0
+Union,0006 Center 2,Attorney General,,1,REP,Todd ROKITA,199
+Union,0006 Center 2,Attorney General,,1,DEM,Destiny WELLS,71
+Union,0006 Center 2,U.S. House,6,1,REP,Jefferson SHREVE,188
+Union,0006 Center 2,U.S. House,6,1,DEM,Cynthia (Cinde) WIRTH,63
+Union,0006 Center 2,U.S. House,6,1,LBT,James Michael SCENIAK,15
+Union,0006 Center 2,State House,55,1,REP,Lindsay PATTERSON,206
+Union,0006 Center 2,State House,55,1,DEM,Victoria C MARTZ,64
+Union,0006 Center 2,County Treasurer,,1,REP,Tammy (DAVIS) HARTMAN,249
+Union,0006 Center 2,County Treasurer,,1,DEM,No Candidate Filed,0
+Union,0006 Center 2,County Coroner,,1,REP,Robert E LEAVITT II,242
+Union,0006 Center 2,County Coroner,,1,DEM,No Candidate Filed,0
+Union,0006 Center 2,County Commissioner,2,1,REP,Tim M Williams,243
+Union,0006 Center 2,County Commissioner,2,1,DEM,No Candidate Filed,0
+Union,0006 Center 2,County Commissioner,3,1,REP,Dean VANWINKLE,184
+Union,0006 Center 2,County Commissioner,3,1,DEM,Barry M EDWARDS,86
+Union,0006 Center 2,County Council Member,At Large,3,,Bonnie ADAMS,132
+Union,0006 Center 2,County Council Member,At Large,3,,Marilyn K RAVALEE,111
+Union,0006 Center 2,County Council Member,At Large,3,,Chris ROSENBERGER,136
+Union,0006 Center 2,County Council Member,At Large,3,,James R HENSLEY JR,98
+Union,0006 Center 2,County Council Member,At Large,3,,Russel RUDE,85
+Union,0006 Center 2,Coll Corner Joint School Center,,1,,Douglas M GARNER,81
+Union,0006 Center 2,Coll Corner Joint School Center,,1,,Matthew Lakoff SNYDER,145
+Union,0006 Center 2,Coll Corner Joint School Harmony,,1,,Mallory R HELTON,129
+Union,0006 Center 2,Coll Corner Joint School Harmony,,1,,Kelvin J KLEIN,95
+Union,0006 Center 2,Coll Corner Joint School Harrison,,1,,Drew EWING,207
+Union,0006 Center 2,IN Supreme Court-Rush,,1,,Yes,179
+Union,0006 Center 2,IN Supreme Court-Rush,,1,,No,46
+Union,0006 Center 2,IN Supreme Court-Massa,,1,,Yes,174
+Union,0006 Center 2,IN Supreme Court-Massa,,1,,No,48
+Union,0006 Center 2,IN Supreme Court-Molter,,1,,Yes,181
+Union,0006 Center 2,IN Supreme Court-Molter,,1,,No,43
+Union,0006 Center 2,Court of Appeals Dist 1-Foley,,1,,Yes,187
+Union,0006 Center 2,Court of Appeals Dist 1-Foley,,1,,No,36
+Union,0006 Center 2,Court of Appeals Dist 4-Pyle III,,1,,Yes,180
+Union,0006 Center 2,Court of Appeals Dist 4-Pyle III,,1,,No,44
+Union,0007 Center 3,Registered Voters,,,,,411
+Union,0007 Center 3,Ballots Cast,,,,,292
+Union,0007 Center 3,Public Question-Const Amendment,,1,,Yes,123
+Union,0007 Center 3,Public Question-Const Amendment,,1,,No,97
+Union,0007 Center 3,Straight Party,,,REP,Republican,81
+Union,0007 Center 3,Straight Party,,,DEM,Democratic,18
+Union,0007 Center 3,Straight Party,,,LBT,Libertarian,0
+Union,0007 Center 3,Straight Party,,,WTP,We The People,1
+Union,0007 Center 3,President,,1,REP,Donald J. TRUMP / JD VANCE,202
+Union,0007 Center 3,President,,1,DEM,Kamala D. HARRIS / Tim WALZ,79
+Union,0007 Center 3,President,,1,LBT,Chase OLIVER / Mike terr MAAT,3
+Union,0007 Center 3,President,,1,WTP,Robert F. KENNEDY JR. / Nichole SHANAHAN,5
+Union,0007 Center 3,President,,1,,Write-In,1
+Union,0007 Center 3,U.S. Senate,,1,REP,Jim BANKS,193
+Union,0007 Center 3,U.S. Senate,,1,DEM,Valerie McCRAY,72
+Union,0007 Center 3,U.S. Senate,,1,LBT,Andrew HORNING,20
+Union,0007 Center 3,U.S. Senate,,1,,Write-In,0
+Union,0007 Center 3,Governor,,1,REP,Mike BRAUN / Micah BECKWITH,190
+Union,0007 Center 3,Governor,,1,DEM,Jennifer G. McCORMICK / Terry GOODIN,79
+Union,0007 Center 3,Governor,,1,LBT,Donald RAINWATER / Tonya HUDSON,16
+Union,0007 Center 3,Governor,,1,,Write-In,0
+Union,0007 Center 3,Attorney General,,1,REP,Todd ROKITA,206
+Union,0007 Center 3,Attorney General,,1,DEM,Destiny WELLS,79
+Union,0007 Center 3,U.S. House,6,1,REP,Jefferson SHREVE,196
+Union,0007 Center 3,U.S. House,6,1,DEM,Cynthia (Cinde) WIRTH,73
+Union,0007 Center 3,U.S. House,6,1,LBT,James Michael SCENIAK,16
+Union,0007 Center 3,State House,55,1,REP,Lindsay PATTERSON,213
+Union,0007 Center 3,State House,55,1,DEM,Victoria C MARTZ,73
+Union,0007 Center 3,County Treasurer,,1,REP,Tammy (DAVIS) HARTMAN,251
+Union,0007 Center 3,County Treasurer,,1,DEM,No Candidate Filed,0
+Union,0007 Center 3,County Coroner,,1,REP,Robert E LEAVITT II,244
+Union,0007 Center 3,County Coroner,,1,DEM,No Candidate Filed,0
+Union,0007 Center 3,County Commissioner,2,1,REP,Tim M Williams,252
+Union,0007 Center 3,County Commissioner,2,1,DEM,No Candidate Filed,0
+Union,0007 Center 3,County Commissioner,3,1,REP,Dean VANWINKLE,193
+Union,0007 Center 3,County Commissioner,3,1,DEM,Barry M EDWARDS,87
+Union,0007 Center 3,County Council Member,At Large,3,,Bonnie ADAMS,111
+Union,0007 Center 3,County Council Member,At Large,3,,Marilyn K RAVALEE,104
+Union,0007 Center 3,County Council Member,At Large,3,,Chris ROSENBERGER,104
+Union,0007 Center 3,County Council Member,At Large,3,,James R HENSLEY JR,137
+Union,0007 Center 3,County Council Member,At Large,3,,Russel RUDE,90
+Union,0007 Center 3,Coll Corner Joint School Center,,1,,Douglas M GARNER,81
+Union,0007 Center 3,Coll Corner Joint School Center,,1,,Matthew Lakoff SNYDER,154
+Union,0007 Center 3,Coll Corner Joint School Harmony,,1,,Mallory R HELTON,167
+Union,0007 Center 3,Coll Corner Joint School Harmony,,1,,Kelvin J KLEIN,64
+Union,0007 Center 3,Coll Corner Joint School Harrison,,1,,Drew EWING,208
+Union,0007 Center 3,IN Supreme Court-Rush,,1,,Yes,170
+Union,0007 Center 3,IN Supreme Court-Rush,,1,,No,60
+Union,0007 Center 3,IN Supreme Court-Massa,,1,,Yes,169
+Union,0007 Center 3,IN Supreme Court-Massa,,1,,No,61
+Union,0007 Center 3,IN Supreme Court-Molter,,1,,Yes,164
+Union,0007 Center 3,IN Supreme Court-Molter,,1,,No,63
+Union,0007 Center 3,Court of Appeals Dist 1-Foley,,1,,Yes,170
+Union,0007 Center 3,Court of Appeals Dist 1-Foley,,1,,No,57
+Union,0007 Center 3,Court of Appeals Dist 4-Pyle III,,1,,Yes,165
+Union,0007 Center 3,Court of Appeals Dist 4-Pyle III,,1,,No,63
+Union,0008 Harmony,Registered Voters,,,,,422
+Union,0008 Harmony,Ballots Cast,,,,,285
+Union,0008 Harmony,Public Question-Const Amendment,,1,,Yes,88
+Union,0008 Harmony,Public Question-Const Amendment,,1,,No,115
+Union,0008 Harmony,Straight Party,,,REP,Republican,116
+Union,0008 Harmony,Straight Party,,,DEM,Democratic,21
+Union,0008 Harmony,Straight Party,,,LBT,Libertarian,0
+Union,0008 Harmony,Straight Party,,,WTP,We The People,0
+Union,0008 Harmony,President,,1,REP,Donald J. TRUMP / JD VANCE,224
+Union,0008 Harmony,President,,1,DEM,Kamala D. HARRIS / Tim WALZ,57
+Union,0008 Harmony,President,,1,LBT,Chase OLIVER / Mike terr MAAT,1
+Union,0008 Harmony,President,,1,WTP,Robert F. KENNEDY JR. / Nichole SHANAHAN,1
+Union,0008 Harmony,President,,1,,Write-In,0
+Union,0008 Harmony,U.S. Senate,,1,REP,Jim BANKS,218
+Union,0008 Harmony,U.S. Senate,,1,DEM,Valerie McCRAY,51
+Union,0008 Harmony,U.S. Senate,,1,LBT,Andrew HORNING,11
+Union,0008 Harmony,U.S. Senate,,1,,Write-In,0
+Union,0008 Harmony,Governor,,1,REP,Mike BRAUN / Micah BECKWITH,214
+Union,0008 Harmony,Governor,,1,DEM,Jennifer G. McCORMICK / Terry GOODIN,60
+Union,0008 Harmony,Governor,,1,LBT,Donald RAINWATER / Tonya HUDSON,5
+Union,0008 Harmony,Governor,,1,,Write-In,1
+Union,0008 Harmony,Attorney General,,1,REP,Todd ROKITA,224
+Union,0008 Harmony,Attorney General,,1,DEM,Destiny WELLS,52
+Union,0008 Harmony,U.S. House,6,1,REP,Jefferson SHREVE,217
+Union,0008 Harmony,U.S. House,6,1,DEM,Cynthia (Cinde) WIRTH,50
+Union,0008 Harmony,U.S. House,6,1,LBT,James Michael SCENIAK,6
+Union,0008 Harmony,State House,55,1,REP,Lindsay PATTERSON,222
+Union,0008 Harmony,State House,55,1,DEM,Victoria C MARTZ,55
+Union,0008 Harmony,County Treasurer,,1,REP,Tammy (DAVIS) HARTMAN,246
+Union,0008 Harmony,County Treasurer,,1,DEM,No Candidate Filed,0
+Union,0008 Harmony,County Coroner,,1,REP,Robert E LEAVITT II,243
+Union,0008 Harmony,County Coroner,,1,DEM,No Candidate Filed,0
+Union,0008 Harmony,County Commissioner,2,1,REP,Tim M Williams,240
+Union,0008 Harmony,County Commissioner,2,1,DEM,No Candidate Filed,0
+Union,0008 Harmony,County Commissioner,3,1,REP,Dean VANWINKLE,204
+Union,0008 Harmony,County Commissioner,3,1,DEM,Barry M EDWARDS,74
+Union,0008 Harmony,County Council Member,At Large,3,,Bonnie ADAMS,119
+Union,0008 Harmony,County Council Member,At Large,3,,Marilyn K RAVALEE,108
+Union,0008 Harmony,County Council Member,At Large,3,,Chris ROSENBERGER,143
+Union,0008 Harmony,County Council Member,At Large,3,,James R HENSLEY JR,89
+Union,0008 Harmony,County Council Member,At Large,3,,Russel RUDE,65
+Union,0008 Harmony,Coll Corner Joint School Center,,1,,Douglas M GARNER,99
+Union,0008 Harmony,Coll Corner Joint School Center,,1,,Matthew Lakoff SNYDER,100
+Union,0008 Harmony,Coll Corner Joint School Harmony,,1,,Mallory R HELTON,114
+Union,0008 Harmony,Coll Corner Joint School Harmony,,1,,Kelvin J KLEIN,96
+Union,0008 Harmony,Coll Corner Joint School Harrison,,1,,Drew EWING,179
+Union,0008 Harmony,IN Supreme Court-Rush,,1,,Yes,144
+Union,0008 Harmony,IN Supreme Court-Rush,,1,,No,44
+Union,0008 Harmony,IN Supreme Court-Massa,,1,,Yes,143
+Union,0008 Harmony,IN Supreme Court-Massa,,1,,No,42
+Union,0008 Harmony,IN Supreme Court-Molter,,1,,Yes,145
+Union,0008 Harmony,IN Supreme Court-Molter,,1,,No,41
+Union,0008 Harmony,Court of Appeals Dist 1-Foley,,1,,Yes,146
+Union,0008 Harmony,Court of Appeals Dist 1-Foley,,1,,No,36
+Union,0008 Harmony,Court of Appeals Dist 4-Pyle III,,1,,Yes,143
+Union,0008 Harmony,Court of Appeals Dist 4-Pyle III,,1,,No,40
+Union,0009 Union,Registered Voters,,,,,632
+Union,0009 Union,Ballots Cast,,,,,461
+Union,0009 Union,Public Question-Const Amendment,,1,,Yes,191
+Union,0009 Union,Public Question-Const Amendment,,1,,No,179
+Union,0009 Union,Straight Party,,,REP,Republican,125
+Union,0009 Union,Straight Party,,,DEM,Democratic,24
+Union,0009 Union,Straight Party,,,LBT,Libertarian,0
+Union,0009 Union,Straight Party,,,WTP,We The People,3
+Union,0009 Union,President,,1,REP,Donald J. TRUMP / JD VANCE,370
+Union,0009 Union,President,,1,DEM,Kamala D. HARRIS / Tim WALZ,83
+Union,0009 Union,President,,1,LBT,Chase OLIVER / Mike terr MAAT,1
+Union,0009 Union,President,,1,WTP,Robert F. KENNEDY JR. / Nichole SHANAHAN,6
+Union,0009 Union,President,,1,,Write-In,0
+Union,0009 Union,U.S. Senate,,1,REP,Jim BANKS,353
+Union,0009 Union,U.S. Senate,,1,DEM,Valerie McCRAY,79
+Union,0009 Union,U.S. Senate,,1,LBT,Andrew HORNING,17
+Union,0009 Union,U.S. Senate,,1,,Write-In,0
+Union,0009 Union,Governor,,1,REP,Mike BRAUN / Micah BECKWITH,355
+Union,0009 Union,Governor,,1,DEM,Jennifer G. McCORMICK / Terry GOODIN,86
+Union,0009 Union,Governor,,1,LBT,Donald RAINWATER / Tonya HUDSON,12
+Union,0009 Union,Governor,,1,,Write-In,0
+Union,0009 Union,Attorney General,,1,REP,Todd ROKITA,369
+Union,0009 Union,Attorney General,,1,DEM,Destiny WELLS,77
+Union,0009 Union,U.S. House,6,1,REP,Jefferson SHREVE,347
+Union,0009 Union,U.S. House,6,1,DEM,Cynthia (Cinde) WIRTH,80
+Union,0009 Union,U.S. House,6,1,LBT,James Michael SCENIAK,16
+Union,0009 Union,State House,55,1,REP,Lindsay PATTERSON,373
+Union,0009 Union,State House,55,1,DEM,Victoria C MARTZ,68
+Union,0009 Union,County Treasurer,,1,REP,Tammy (DAVIS) HARTMAN,406
+Union,0009 Union,County Treasurer,,1,DEM,No Candidate Filed,0
+Union,0009 Union,County Coroner,,1,REP,Robert E LEAVITT II,405
+Union,0009 Union,County Coroner,,1,DEM,No Candidate Filed,0
+Union,0009 Union,County Commissioner,2,1,REP,Tim M Williams,407
+Union,0009 Union,County Commissioner,2,1,DEM,No Candidate Filed,0
+Union,0009 Union,County Commissioner,3,1,REP,Dean VANWINKLE,357
+Union,0009 Union,County Commissioner,3,1,DEM,Barry M EDWARDS,95
+Union,0009 Union,County Council Member,At Large,3,,Bonnie ADAMS,204
+Union,0009 Union,County Council Member,At Large,3,,Marilyn K RAVALEE,223
+Union,0009 Union,County Council Member,At Large,3,,Chris ROSENBERGER,227
+Union,0009 Union,County Council Member,At Large,3,,James R HENSLEY JR,142
+Union,0009 Union,County Council Member,At Large,3,,Russel RUDE,92
+Union,0009 Union,Coll Corner Joint School Center,,1,,Douglas M GARNER,159
+Union,0009 Union,Coll Corner Joint School Center,,1,,Matthew Lakoff SNYDER,184
+Union,0009 Union,Coll Corner Joint School Harmony,,1,,Mallory R HELTON,226
+Union,0009 Union,Coll Corner Joint School Harmony,,1,,Kelvin J KLEIN,126
+Union,0009 Union,Coll Corner Joint School Harrison,,1,,Drew EWING,328
+Union,0009 Union,IN Supreme Court-Rush,,1,,Yes,287
+Union,0009 Union,IN Supreme Court-Rush,,1,,No,61
+Union,0009 Union,IN Supreme Court-Massa,,1,,Yes,275
+Union,0009 Union,IN Supreme Court-Massa,,1,,No,69
+Union,0009 Union,IN Supreme Court-Molter,,1,,Yes,280
+Union,0009 Union,IN Supreme Court-Molter,,1,,No,61
+Union,0009 Union,Court of Appeals Dist 1-Foley,,1,,Yes,275
+Union,0009 Union,Court of Appeals Dist 1-Foley,,1,,No,65
+Union,0009 Union,Court of Appeals Dist 4-Pyle III,,1,,Yes,281
+Union,0009 Union,Court of Appeals Dist 4-Pyle III,,1,,No,59
+Union,0010 West College Corner,Registered Voters,,,,,356
+Union,0010 West College Corner,Ballots Cast,,,,,226
+Union,0010 West College Corner,Public Question-Const Amendment,,1,,Yes,105
+Union,0010 West College Corner,Public Question-Const Amendment,,1,,No,87
+Union,0010 West College Corner,Straight Party,,,REP,Republican,52
+Union,0010 West College Corner,Straight Party,,,DEM,Democratic,19
+Union,0010 West College Corner,Straight Party,,,LBT,Libertarian,0
+Union,0010 West College Corner,Straight Party,,,WTP,We The People,5
+Union,0010 West College Corner,President,,1,REP,Donald J. TRUMP / JD VANCE,143
+Union,0010 West College Corner,President,,1,DEM,Kamala D. HARRIS / Tim WALZ,76
+Union,0010 West College Corner,President,,1,LBT,Chase OLIVER / Mike terr MAAT,2
+Union,0010 West College Corner,President,,1,WTP,Robert F. KENNEDY JR. / Nichole SHANAHAN,3
+Union,0010 West College Corner,President,,1,,Write-In,0
+Union,0010 West College Corner,U.S. Senate,,1,REP,Jim BANKS,137
+Union,0010 West College Corner,U.S. Senate,,1,DEM,Valerie McCRAY,68
+Union,0010 West College Corner,U.S. Senate,,1,LBT,Andrew HORNING,17
+Union,0010 West College Corner,U.S. Senate,,1,,Write-In,0
+Union,0010 West College Corner,Governor,,1,REP,Mike BRAUN / Micah BECKWITH,144
+Union,0010 West College Corner,Governor,,1,DEM,Jennifer G. McCORMICK / Terry GOODIN,70
+Union,0010 West College Corner,Governor,,1,LBT,Donald RAINWATER / Tonya HUDSON,9
+Union,0010 West College Corner,Governor,,1,,Write-In,0
+Union,0010 West College Corner,Attorney General,,1,REP,Todd ROKITA,147
+Union,0010 West College Corner,Attorney General,,1,DEM,Destiny WELLS,72
+Union,0010 West College Corner,U.S. House,6,1,REP,Jefferson SHREVE,142
+Union,0010 West College Corner,U.S. House,6,1,DEM,Cynthia (Cinde) WIRTH,64
+Union,0010 West College Corner,U.S. House,6,1,LBT,James Michael SCENIAK,13
+Union,0010 West College Corner,State House,55,1,REP,Lindsay PATTERSON,148
+Union,0010 West College Corner,State House,55,1,DEM,Victoria C MARTZ,72
+Union,0010 West College Corner,County Treasurer,,1,REP,Tammy (DAVIS) HARTMAN,194
+Union,0010 West College Corner,County Treasurer,,1,DEM,No Candidate Filed,0
+Union,0010 West College Corner,County Coroner,,1,REP,Robert E LEAVITT II,191
+Union,0010 West College Corner,County Coroner,,1,DEM,No Candidate Filed,0
+Union,0010 West College Corner,County Commissioner,2,1,REP,Tim M Williams,188
+Union,0010 West College Corner,County Commissioner,2,1,DEM,No Candidate Filed,0
+Union,0010 West College Corner,County Commissioner,3,1,REP,Dean VANWINKLE,151
+Union,0010 West College Corner,County Commissioner,3,1,DEM,Barry M EDWARDS,66
+Union,0010 West College Corner,County Council Member,At Large,3,,Bonnie ADAMS,91
+Union,0010 West College Corner,County Council Member,At Large,3,,Marilyn K RAVALEE,124
+Union,0010 West College Corner,County Council Member,At Large,3,,Chris ROSENBERGER,102
+Union,0010 West College Corner,County Council Member,At Large,3,,James R HENSLEY JR,65
+Union,0010 West College Corner,County Council Member,At Large,3,,Russel RUDE,54
+Union,0010 West College Corner,Coll Corner Joint School Center,,1,,Douglas M GARNER,97
+Union,0010 West College Corner,Coll Corner Joint School Center,,1,,Matthew Lakoff SNYDER,80
+Union,0010 West College Corner,Coll Corner Joint School Harmony,,1,,Mallory R HELTON,128
+Union,0010 West College Corner,Coll Corner Joint School Harmony,,1,,Kelvin J KLEIN,55
+Union,0010 West College Corner,Coll Corner Joint School Harrison,,1,,Drew EWING,170
+Union,0010 West College Corner,IN Supreme Court-Rush,,1,,Yes,139
+Union,0010 West College Corner,IN Supreme Court-Rush,,1,,No,45
+Union,0010 West College Corner,IN Supreme Court-Massa,,1,,Yes,135
+Union,0010 West College Corner,IN Supreme Court-Massa,,1,,No,48
+Union,0010 West College Corner,IN Supreme Court-Molter,,1,,Yes,141
+Union,0010 West College Corner,IN Supreme Court-Molter,,1,,No,43
+Union,0010 West College Corner,Court of Appeals Dist 1-Foley,,1,,Yes,140
+Union,0010 West College Corner,Court of Appeals Dist 1-Foley,,1,,No,43
+Union,0010 West College Corner,Court of Appeals Dist 4-Pyle III,,1,,Yes,137
+Union,0010 West College Corner,Court of Appeals Dist 4-Pyle III,,1,,No,47

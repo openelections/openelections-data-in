@@ -1,0 +1,2425 @@
+county,precinct,office,district,seats,party,candidate,votes,election_day,absentee
+Dearborn,0001 CAESAR CREEK 1,Registered Voters,,,,,219,,
+Dearborn,0001 CAESAR CREEK 1,Ballots Cast,,,,,167,121,46
+Dearborn,0001 CAESAR CREEK 1,Public Question-Const Amendment,,,,Yes,87,67,20
+Dearborn,0001 CAESAR CREEK 1,Public Question-Const Amendment,,,,No,65,47,18
+Dearborn,0001 CAESAR CREEK 1,Straight Party,,,REP,Republican,74,59,15
+Dearborn,0001 CAESAR CREEK 1,Straight Party,,,DEM,Democratic,18,11,7
+Dearborn,0001 CAESAR CREEK 1,Straight Party,,,LBT,Libertarian,0,0,0
+Dearborn,0001 CAESAR CREEK 1,Straight Party,,,WTP,We The People,0,0,0
+Dearborn,0001 CAESAR CREEK 1,President,,1,REP,Donald J. TRUMP / JD VANCE,124,92,32
+Dearborn,0001 CAESAR CREEK 1,President,,1,DEM,Kamala D. HARRIS / Tim WALZ,37,23,14
+Dearborn,0001 CAESAR CREEK 1,President,,1,LBT,Chase OLIVER / Mike terr MAAT,2,2,0
+Dearborn,0001 CAESAR CREEK 1,President,,1,WTP,Robert F. KENNEDY JR. / Nichole SHANAHAN,2,2,0
+Dearborn,0001 CAESAR CREEK 1,President,,1,,Write-In,0,0,0
+Dearborn,0001 CAESAR CREEK 1,U.S. Senate,,1,REP,Jim BANKS,126,92,34
+Dearborn,0001 CAESAR CREEK 1,U.S. Senate,,1,DEM,Valerie McCRAY,36,25,11
+Dearborn,0001 CAESAR CREEK 1,U.S. Senate,,1,LBT,Andrew HORNING,1,1,0
+Dearborn,0001 CAESAR CREEK 1,U.S. Senate,,1,,Write-In,0,0,0
+Dearborn,0001 CAESAR CREEK 1,Governor,,1,REP,Mike BRAUN / Micah BECKWITH,119,86,33
+Dearborn,0001 CAESAR CREEK 1,Governor,,1,DEM,Jennifer G. McCORMICK / Terry GOODIN,33,22,11
+Dearborn,0001 CAESAR CREEK 1,Governor,,1,LBT,Donald RAINWATER / Tonya HUDSON,11,10,1
+Dearborn,0001 CAESAR CREEK 1,Governor,,1,,Write-In,0,0,0
+Dearborn,0001 CAESAR CREEK 1,Attorney General,,1,REP,Todd ROKITA,130,95,35
+Dearborn,0001 CAESAR CREEK 1,Attorney General,,1,DEM,Destiny WELLS,35,24,11
+Dearborn,0001 CAESAR CREEK 1,U.S. House,9,1,REP,Erin HOUCHIN,127,93,34
+Dearborn,0001 CAESAR CREEK 1,U.S. House,9,1,DEM,Timothy (Tim) PECK,30,19,11
+Dearborn,0001 CAESAR CREEK 1,U.S. House,9,1,LBT,Russell (Russ) BROOKSBANK,6,5,1
+Dearborn,0001 CAESAR CREEK 1,U.S. House,9,1,,Write-In,0,0,0
+Dearborn,0001 CAESAR CREEK 1,State House,68,1,REP,Garret R. BASCOM,135,99,36
+Dearborn,0001 CAESAR CREEK 1,State House,68,1,DEM,Lisa BARKER,31,21,10
+Dearborn,0001 CAESAR CREEK 1,Judge of the Superior Court No. 2,,1,REP,Sally A. McLAUGHLIN,148,111,37
+Dearborn,0001 CAESAR CREEK 1,Circuit Court Clerk,,1,REP,Wendy BEATTY,142,109,33
+Dearborn,0001 CAESAR CREEK 1,County Treasurer,,1,REP,Hayley M. HATFIELD,144,109,35
+Dearborn,0001 CAESAR CREEK 1,County Coroner,,1,REP,Cameron McCREARY,144,109,35
+Dearborn,0001 CAESAR CREEK 1,County Surveyor,,1,REP,Dennis KRAUS JR,145,111,34
+Dearborn,0001 CAESAR CREEK 1,County Commissioner,1,1,REP,Jim THATCHER,137,108,29
+Dearborn,0001 CAESAR CREEK 1,County Commissioner,2,1,REP,Duane BISCHOFF,141,106,35
+Dearborn,0001 CAESAR CREEK 1,County Council,,3,,Mark G. DOLE,103,80,23
+Dearborn,0001 CAESAR CREEK 1,County Council,,3,,Tim DOLL,104,83,21
+Dearborn,0001 CAESAR CREEK 1,County Council,,3,,Glenn D. WRIGHT,109,83,26
+Dearborn,0001 CAESAR CREEK 1,County Council,,3,,Hunter COLLINS,35,27,8
+Dearborn,0001 CAESAR CREEK 1,County Council,,3,,Dawn VICTOR,35,26,9
+Dearborn,0001 CAESAR CREEK 1,Community School Corp,1 South Dearborn,1,,Daryl L. CUTTER,144,106,38
+Dearborn,0001 CAESAR CREEK 1,Community School Corp,2 South Dearborn,2,,Kelli J. GENTRUP-PETTIT,117,86,31
+Dearborn,0001 CAESAR CREEK 1,Community School Corp,2 South Dearborn,2,,Steven M. HAMLETT,110,83,27
+Dearborn,0001 CAESAR CREEK 1,Community School Corp,3 South Dearborn,1,,Chris DAUGHERTY,132,100,32
+Dearborn,0001 CAESAR CREEK 1,IN Supreme Court-Rush,,,,Yes,107,83,24
+Dearborn,0001 CAESAR CREEK 1,IN Supreme Court-Rush,,,,No,33,24,9
+Dearborn,0001 CAESAR CREEK 1,IN Supreme Court-Massa,,,,Yes,104,82,22
+Dearborn,0001 CAESAR CREEK 1,IN Supreme Court-Massa,,,,No,32,23,9
+Dearborn,0001 CAESAR CREEK 1,IN Supreme Court-Molter,,,,Yes,105,83,22
+Dearborn,0001 CAESAR CREEK 1,IN Supreme Court-Molter,,,,No,33,24,9
+Dearborn,0001 CAESAR CREEK 1,Court of Appeals Dist 1-Foley,,,,Yes,107,84,23
+Dearborn,0001 CAESAR CREEK 1,Court of Appeals Dist 1-Foley,,,,No,34,25,9
+Dearborn,0001 CAESAR CREEK 1,Court of Appeals Dist 4-Pyle III,,,,Yes,106,83,23
+Dearborn,0001 CAESAR CREEK 1,Court of Appeals Dist 4-Pyle III,,,,No,33,24,9
+Dearborn,0002 CENTER 1,Registered Voters,,,,,475,,
+Dearborn,0002 CENTER 1,Ballots Cast,,,,,217,117,100
+Dearborn,0002 CENTER 1,Public Question-Const Amendment,,,,Yes,102,61,41
+Dearborn,0002 CENTER 1,Public Question-Const Amendment,,,,No,101,50,51
+Dearborn,0002 CENTER 1,Straight Party,,,REP,Republican,100,62,38
+Dearborn,0002 CENTER 1,Straight Party,,,DEM,Democratic,32,11,21
+Dearborn,0002 CENTER 1,Straight Party,,,LBT,Libertarian,0,0,0
+Dearborn,0002 CENTER 1,Straight Party,,,WTP,We The People,2,1,1
+Dearborn,0002 CENTER 1,President,,1,REP,Donald J. TRUMP / JD VANCE,145,90,55
+Dearborn,0002 CENTER 1,President,,1,DEM,Kamala D. HARRIS / Tim WALZ,67,24,43
+Dearborn,0002 CENTER 1,President,,1,LBT,Chase OLIVER / Mike terr MAAT,1,0,1
+Dearborn,0002 CENTER 1,President,,1,WTP,Robert F. KENNEDY JR. / Nichole SHANAHAN,2,1,1
+Dearborn,0002 CENTER 1,President,,1,,Write-In,0,0,0
+Dearborn,0002 CENTER 1,U.S. Senate,,1,REP,Jim BANKS,145,90,55
+Dearborn,0002 CENTER 1,U.S. Senate,,1,DEM,Valerie McCRAY,66,22,44
+Dearborn,0002 CENTER 1,U.S. Senate,,1,LBT,Andrew HORNING,4,3,1
+Dearborn,0002 CENTER 1,U.S. Senate,,1,,Write-In,0,0,0
+Dearborn,0002 CENTER 1,Governor,,1,REP,Mike BRAUN / Micah BECKWITH,138,84,54
+Dearborn,0002 CENTER 1,Governor,,1,DEM,Jennifer G. McCORMICK / Terry GOODIN,67,24,43
+Dearborn,0002 CENTER 1,Governor,,1,LBT,Donald RAINWATER / Tonya HUDSON,9,6,3
+Dearborn,0002 CENTER 1,Governor,,1,,Write-In,0,0,0
+Dearborn,0002 CENTER 1,Attorney General,,1,REP,Todd ROKITA,145,91,54
+Dearborn,0002 CENTER 1,Attorney General,,1,DEM,Destiny WELLS,67,23,44
+Dearborn,0002 CENTER 1,U.S. House,9,1,REP,Erin HOUCHIN,144,89,55
+Dearborn,0002 CENTER 1,U.S. House,9,1,DEM,Timothy (Tim) PECK,66,22,44
+Dearborn,0002 CENTER 1,U.S. House,9,1,LBT,Russell (Russ) BROOKSBANK,5,4,1
+Dearborn,0002 CENTER 1,U.S. House,9,1,,Write-In,0,0,0
+Dearborn,0002 CENTER 1,State House,68,1,REP,Garret R. BASCOM,151,89,62
+Dearborn,0002 CENTER 1,State House,68,1,DEM,Lisa BARKER,61,26,35
+Dearborn,0002 CENTER 1,Judge of the Superior Court No. 2,,1,REP,Sally A. McLAUGHLIN,179,107,72
+Dearborn,0002 CENTER 1,Circuit Court Clerk,,1,REP,Wendy BEATTY,176,107,69
+Dearborn,0002 CENTER 1,County Treasurer,,1,REP,Hayley M. HATFIELD,173,106,67
+Dearborn,0002 CENTER 1,County Coroner,,1,REP,Cameron McCREARY,180,107,73
+Dearborn,0002 CENTER 1,County Surveyor,,1,REP,Dennis KRAUS JR,179,108,71
+Dearborn,0002 CENTER 1,County Commissioner,1,1,REP,Jim THATCHER,176,106,70
+Dearborn,0002 CENTER 1,County Commissioner,2,1,REP,Duane BISCHOFF,176,106,70
+Dearborn,0002 CENTER 1,County Council,,3,,Mark G. DOLE,130,83,47
+Dearborn,0002 CENTER 1,County Council,,3,,Tim DOLL,132,81,51
+Dearborn,0002 CENTER 1,County Council,,3,,Glenn D. WRIGHT,122,75,47
+Dearborn,0002 CENTER 1,County Council,,3,,Hunter COLLINS,67,29,38
+Dearborn,0002 CENTER 1,County Council,,3,,Dawn VICTOR,61,25,36
+Dearborn,0002 CENTER 1,Community School Corp,1 South Dearborn,1,,Daryl L. CUTTER,166,101,65
+Dearborn,0002 CENTER 1,Community School Corp,2 South Dearborn,2,,Kelli J. GENTRUP-PETTIT,154,96,58
+Dearborn,0002 CENTER 1,Community School Corp,2 South Dearborn,2,,Steven M. HAMLETT,130,82,48
+Dearborn,0002 CENTER 1,Community School Corp,3 South Dearborn,1,,Chris DAUGHERTY,170,104,66
+Dearborn,0002 CENTER 1,IN Supreme Court-Rush,,,,Yes,150,89,61
+Dearborn,0002 CENTER 1,IN Supreme Court-Rush,,,,No,37,15,22
+Dearborn,0002 CENTER 1,IN Supreme Court-Massa,,,,Yes,138,84,54
+Dearborn,0002 CENTER 1,IN Supreme Court-Massa,,,,No,43,20,23
+Dearborn,0002 CENTER 1,IN Supreme Court-Molter,,,,Yes,142,87,55
+Dearborn,0002 CENTER 1,IN Supreme Court-Molter,,,,No,38,16,22
+Dearborn,0002 CENTER 1,Court of Appeals Dist 1-Foley,,,,Yes,135,82,53
+Dearborn,0002 CENTER 1,Court of Appeals Dist 1-Foley,,,,No,45,21,24
+Dearborn,0002 CENTER 1,Court of Appeals Dist 4-Pyle III,,,,Yes,136,83,53
+Dearborn,0002 CENTER 1,Court of Appeals Dist 4-Pyle III,,,,No,43,19,24
+Dearborn,0003 CENTER 2,Registered Voters,,,,,659,,
+Dearborn,0003 CENTER 2,Ballots Cast,,,,,367,199,168
+Dearborn,0003 CENTER 2,Public Question-Const Amendment,,,,Yes,187,108,79
+Dearborn,0003 CENTER 2,Public Question-Const Amendment,,,,No,150,84,66
+Dearborn,0003 CENTER 2,Straight Party,,,REP,Republican,182,87,95
+Dearborn,0003 CENTER 2,Straight Party,,,DEM,Democratic,54,27,27
+Dearborn,0003 CENTER 2,Straight Party,,,LBT,Libertarian,2,1,1
+Dearborn,0003 CENTER 2,Straight Party,,,WTP,We The People,2,1,1
+Dearborn,0003 CENTER 2,President,,1,REP,Donald J. TRUMP / JD VANCE,257,136,121
+Dearborn,0003 CENTER 2,President,,1,DEM,Kamala D. HARRIS / Tim WALZ,98,55,43
+Dearborn,0003 CENTER 2,President,,1,LBT,Chase OLIVER / Mike terr MAAT,7,4,3
+Dearborn,0003 CENTER 2,President,,1,WTP,Robert F. KENNEDY JR. / Nichole SHANAHAN,4,3,1
+Dearborn,0003 CENTER 2,President,,1,,Write-In,0,0,0
+Dearborn,0003 CENTER 2,U.S. Senate,,1,REP,Jim BANKS,254,134,120
+Dearborn,0003 CENTER 2,U.S. Senate,,1,DEM,Valerie McCRAY,91,48,43
+Dearborn,0003 CENTER 2,U.S. Senate,,1,LBT,Andrew HORNING,19,14,5
+Dearborn,0003 CENTER 2,U.S. Senate,,1,,Write-In,0,0,0
+Dearborn,0003 CENTER 2,Governor,,1,REP,Mike BRAUN / Micah BECKWITH,245,124,121
+Dearborn,0003 CENTER 2,Governor,,1,DEM,Jennifer G. McCORMICK / Terry GOODIN,101,59,42
+Dearborn,0003 CENTER 2,Governor,,1,LBT,Donald RAINWATER / Tonya HUDSON,16,11,5
+Dearborn,0003 CENTER 2,Governor,,1,,Write-In,1,1,0
+Dearborn,0003 CENTER 2,Attorney General,,1,REP,Todd ROKITA,261,136,125
+Dearborn,0003 CENTER 2,Attorney General,,1,DEM,Destiny WELLS,99,57,42
+Dearborn,0003 CENTER 2,U.S. House,9,1,REP,Erin HOUCHIN,249,131,118
+Dearborn,0003 CENTER 2,U.S. House,9,1,DEM,Timothy (Tim) PECK,91,49,42
+Dearborn,0003 CENTER 2,U.S. House,9,1,LBT,Russell (Russ) BROOKSBANK,21,14,7
+Dearborn,0003 CENTER 2,U.S. House,9,1,,Write-In,0,0,0
+Dearborn,0003 CENTER 2,State House,68,1,REP,Garret R. BASCOM,261,139,122
+Dearborn,0003 CENTER 2,State House,68,1,DEM,Lisa BARKER,99,53,46
+Dearborn,0003 CENTER 2,Judge of the Superior Court No. 2,,1,REP,Sally A. McLAUGHLIN,325,178,147
+Dearborn,0003 CENTER 2,Circuit Court Clerk,,1,REP,Wendy BEATTY,324,178,146
+Dearborn,0003 CENTER 2,County Treasurer,,1,REP,Hayley M. HATFIELD,323,178,145
+Dearborn,0003 CENTER 2,County Coroner,,1,REP,Cameron McCREARY,328,179,149
+Dearborn,0003 CENTER 2,County Surveyor,,1,REP,Dennis KRAUS JR,328,179,149
+Dearborn,0003 CENTER 2,County Commissioner,1,1,REP,Jim THATCHER,327,179,148
+Dearborn,0003 CENTER 2,County Commissioner,2,1,REP,Duane BISCHOFF,325,178,147
+Dearborn,0003 CENTER 2,County Council,,3,,Mark G. DOLE,235,126,109
+Dearborn,0003 CENTER 2,County Council,,3,,Tim DOLL,224,115,109
+Dearborn,0003 CENTER 2,County Council,,3,,Glenn D. WRIGHT,231,125,106
+Dearborn,0003 CENTER 2,County Council,,3,,Hunter COLLINS,98,62,36
+Dearborn,0003 CENTER 2,County Council,,3,,Dawn VICTOR,93,55,38
+Dearborn,0003 CENTER 2,Community School Corp,1 South Dearborn,1,,Daryl L. CUTTER,302,168,134
+Dearborn,0003 CENTER 2,Community School Corp,2 South Dearborn,2,,Kelli J. GENTRUP-PETTIT,280,157,123
+Dearborn,0003 CENTER 2,Community School Corp,2 South Dearborn,2,,Steven M. HAMLETT,247,135,112
+Dearborn,0003 CENTER 2,Community School Corp,3 South Dearborn,1,,Chris DAUGHERTY,300,168,132
+Dearborn,0003 CENTER 2,IN Supreme Court-Rush,,,,Yes,228,119,109
+Dearborn,0003 CENTER 2,IN Supreme Court-Rush,,,,No,95,61,34
+Dearborn,0003 CENTER 2,IN Supreme Court-Massa,,,,Yes,230,123,107
+Dearborn,0003 CENTER 2,IN Supreme Court-Massa,,,,No,88,53,35
+Dearborn,0003 CENTER 2,IN Supreme Court-Molter,,,,Yes,223,117,106
+Dearborn,0003 CENTER 2,IN Supreme Court-Molter,,,,No,90,57,33
+Dearborn,0003 CENTER 2,Court of Appeals Dist 1-Foley,,,,Yes,237,131,106
+Dearborn,0003 CENTER 2,Court of Appeals Dist 1-Foley,,,,No,82,47,35
+Dearborn,0003 CENTER 2,Court of Appeals Dist 4-Pyle III,,,,Yes,214,116,98
+Dearborn,0003 CENTER 2,Court of Appeals Dist 4-Pyle III,,,,No,101,60,41
+Dearborn,0004 CENTER 3,Registered Voters,,,,,560,,
+Dearborn,0004 CENTER 3,Ballots Cast,,,,,373,203,170
+Dearborn,0004 CENTER 3,Public Question-Const Amendment,,,,Yes,199,113,86
+Dearborn,0004 CENTER 3,Public Question-Const Amendment,,,,No,152,81,71
+Dearborn,0004 CENTER 3,Straight Party,,,REP,Republican,190,101,89
+Dearborn,0004 CENTER 3,Straight Party,,,DEM,Democratic,41,18,23
+Dearborn,0004 CENTER 3,Straight Party,,,LBT,Libertarian,0,0,0
+Dearborn,0004 CENTER 3,Straight Party,,,WTP,We The People,0,0,0
+Dearborn,0004 CENTER 3,President,,1,REP,Donald J. TRUMP / JD VANCE,270,151,119
+Dearborn,0004 CENTER 3,President,,1,DEM,Kamala D. HARRIS / Tim WALZ,92,47,45
+Dearborn,0004 CENTER 3,President,,1,LBT,Chase OLIVER / Mike terr MAAT,3,2,1
+Dearborn,0004 CENTER 3,President,,1,WTP,Robert F. KENNEDY JR. / Nichole SHANAHAN,5,3,2
+Dearborn,0004 CENTER 3,President,,1,,Write-In,0,0,0
+Dearborn,0004 CENTER 3,U.S. Senate,,1,REP,Jim BANKS,267,144,123
+Dearborn,0004 CENTER 3,U.S. Senate,,1,DEM,Valerie McCRAY,90,48,42
+Dearborn,0004 CENTER 3,U.S. Senate,,1,LBT,Andrew HORNING,11,8,3
+Dearborn,0004 CENTER 3,U.S. Senate,,1,,Write-In,0,0,0
+Dearborn,0004 CENTER 3,Governor,,1,REP,Mike BRAUN / Micah BECKWITH,266,144,122
+Dearborn,0004 CENTER 3,Governor,,1,DEM,Jennifer G. McCORMICK / Terry GOODIN,97,51,46
+Dearborn,0004 CENTER 3,Governor,,1,LBT,Donald RAINWATER / Tonya HUDSON,8,6,2
+Dearborn,0004 CENTER 3,Governor,,1,,Write-In,0,0,0
+Dearborn,0004 CENTER 3,Attorney General,,1,REP,Todd ROKITA,274,151,123
+Dearborn,0004 CENTER 3,Attorney General,,1,DEM,Destiny WELLS,91,48,43
+Dearborn,0004 CENTER 3,U.S. House,9,1,REP,Erin HOUCHIN,273,151,122
+Dearborn,0004 CENTER 3,U.S. House,9,1,DEM,Timothy (Tim) PECK,82,39,43
+Dearborn,0004 CENTER 3,U.S. House,9,1,LBT,Russell (Russ) BROOKSBANK,11,8,3
+Dearborn,0004 CENTER 3,U.S. House,9,1,,Write-In,0,0,0
+Dearborn,0004 CENTER 3,State House,68,1,REP,Garret R. BASCOM,282,157,125
+Dearborn,0004 CENTER 3,State House,68,1,DEM,Lisa BARKER,88,44,44
+Dearborn,0004 CENTER 3,Judge of the Superior Court No. 2,,1,REP,Sally A. McLAUGHLIN,333,185,148
+Dearborn,0004 CENTER 3,Circuit Court Clerk,,1,REP,Wendy BEATTY,332,188,144
+Dearborn,0004 CENTER 3,County Treasurer,,1,REP,Hayley M. HATFIELD,331,187,144
+Dearborn,0004 CENTER 3,County Coroner,,1,REP,Cameron McCREARY,329,185,144
+Dearborn,0004 CENTER 3,County Surveyor,,1,REP,Dennis KRAUS JR,333,189,144
+Dearborn,0004 CENTER 3,County Commissioner,1,1,REP,Jim THATCHER,323,181,142
+Dearborn,0004 CENTER 3,County Commissioner,2,1,REP,Duane BISCHOFF,327,184,143
+Dearborn,0004 CENTER 3,County Council,,3,,Mark G. DOLE,246,134,112
+Dearborn,0004 CENTER 3,County Council,,3,,Tim DOLL,240,137,103
+Dearborn,0004 CENTER 3,County Council,,3,,Glenn D. WRIGHT,253,144,109
+Dearborn,0004 CENTER 3,County Council,,3,,Hunter COLLINS,84,43,41
+Dearborn,0004 CENTER 3,County Council,,3,,Dawn VICTOR,79,42,37
+Dearborn,0004 CENTER 3,Community School Corp,1 South Dearborn,1,,Daryl L. CUTTER,306,179,127
+Dearborn,0004 CENTER 3,Community School Corp,2 South Dearborn,2,,Kelli J. GENTRUP-PETTIT,284,164,120
+Dearborn,0004 CENTER 3,Community School Corp,2 South Dearborn,2,,Steven M. HAMLETT,257,147,110
+Dearborn,0004 CENTER 3,Community School Corp,3 South Dearborn,1,,Chris DAUGHERTY,310,177,133
+Dearborn,0004 CENTER 3,IN Supreme Court-Rush,,,,Yes,254,146,108
+Dearborn,0004 CENTER 3,IN Supreme Court-Rush,,,,No,74,35,39
+Dearborn,0004 CENTER 3,IN Supreme Court-Massa,,,,Yes,241,137,104
+Dearborn,0004 CENTER 3,IN Supreme Court-Massa,,,,No,82,41,41
+Dearborn,0004 CENTER 3,IN Supreme Court-Molter,,,,Yes,249,143,106
+Dearborn,0004 CENTER 3,IN Supreme Court-Molter,,,,No,75,37,38
+Dearborn,0004 CENTER 3,Court of Appeals Dist 1-Foley,,,,Yes,246,141,105
+Dearborn,0004 CENTER 3,Court of Appeals Dist 1-Foley,,,,No,76,38,38
+Dearborn,0004 CENTER 3,Court of Appeals Dist 4-Pyle III,,,,Yes,253,143,110
+Dearborn,0004 CENTER 3,Court of Appeals Dist 4-Pyle III,,,,No,67,34,33
+Dearborn,0005 CENTER 4,Registered Voters,,,,,760,,
+Dearborn,0005 CENTER 4,Ballots Cast,,,,,356,224,132
+Dearborn,0005 CENTER 4,Public Question-Const Amendment,,,,Yes,199,119,80
+Dearborn,0005 CENTER 4,Public Question-Const Amendment,,,,No,139,97,42
+Dearborn,0005 CENTER 4,Straight Party,,,REP,Republican,186,111,75
+Dearborn,0005 CENTER 4,Straight Party,,,DEM,Democratic,53,36,17
+Dearborn,0005 CENTER 4,Straight Party,,,LBT,Libertarian,1,1,0
+Dearborn,0005 CENTER 4,Straight Party,,,WTP,We The People,2,0,2
+Dearborn,0005 CENTER 4,President,,1,REP,Donald J. TRUMP / JD VANCE,262,160,102
+Dearborn,0005 CENTER 4,President,,1,DEM,Kamala D. HARRIS / Tim WALZ,87,58,29
+Dearborn,0005 CENTER 4,President,,1,LBT,Chase OLIVER / Mike terr MAAT,2,2,0
+Dearborn,0005 CENTER 4,President,,1,WTP,Robert F. KENNEDY JR. / Nichole SHANAHAN,2,1,1
+Dearborn,0005 CENTER 4,President,,1,,Write-In,1,1,0
+Dearborn,0005 CENTER 4,U.S. Senate,,1,REP,Jim BANKS,254,154,100
+Dearborn,0005 CENTER 4,U.S. Senate,,1,DEM,Valerie McCRAY,93,64,29
+Dearborn,0005 CENTER 4,U.S. Senate,,1,LBT,Andrew HORNING,7,5,2
+Dearborn,0005 CENTER 4,U.S. Senate,,1,,Write-In,0,0,0
+Dearborn,0005 CENTER 4,Governor,,1,REP,Mike BRAUN / Micah BECKWITH,243,147,96
+Dearborn,0005 CENTER 4,Governor,,1,DEM,Jennifer G. McCORMICK / Terry GOODIN,97,67,30
+Dearborn,0005 CENTER 4,Governor,,1,LBT,Donald RAINWATER / Tonya HUDSON,14,9,5
+Dearborn,0005 CENTER 4,Governor,,1,,Write-In,0,0,0
+Dearborn,0005 CENTER 4,Attorney General,,1,REP,Todd ROKITA,255,156,99
+Dearborn,0005 CENTER 4,Attorney General,,1,DEM,Destiny WELLS,99,67,32
+Dearborn,0005 CENTER 4,U.S. House,9,1,REP,Erin HOUCHIN,255,155,100
+Dearborn,0005 CENTER 4,U.S. House,9,1,DEM,Timothy (Tim) PECK,82,54,28
+Dearborn,0005 CENTER 4,U.S. House,9,1,LBT,Russell (Russ) BROOKSBANK,16,13,3
+Dearborn,0005 CENTER 4,U.S. House,9,1,,Write-In,0,0,0
+Dearborn,0005 CENTER 4,State House,68,1,REP,Garret R. BASCOM,265,164,101
+Dearborn,0005 CENTER 4,State House,68,1,DEM,Lisa BARKER,88,58,30
+Dearborn,0005 CENTER 4,Judge of the Superior Court No. 2,,1,REP,Sally A. McLAUGHLIN,326,205,121
+Dearborn,0005 CENTER 4,Circuit Court Clerk,,1,REP,Wendy BEATTY,321,202,119
+Dearborn,0005 CENTER 4,County Treasurer,,1,REP,Hayley M. HATFIELD,326,205,121
+Dearborn,0005 CENTER 4,County Coroner,,1,REP,Cameron McCREARY,325,206,119
+Dearborn,0005 CENTER 4,County Surveyor,,1,REP,Dennis KRAUS JR,325,207,118
+Dearborn,0005 CENTER 4,County Commissioner,1,1,REP,Jim THATCHER,326,207,119
+Dearborn,0005 CENTER 4,County Commissioner,2,1,REP,Duane BISCHOFF,328,206,122
+Dearborn,0005 CENTER 4,County Council,,3,,Mark G. DOLE,225,139,86
+Dearborn,0005 CENTER 4,County Council,,3,,Tim DOLL,232,141,91
+Dearborn,0005 CENTER 4,County Council,,3,,Glenn D. WRIGHT,229,137,92
+Dearborn,0005 CENTER 4,County Council,,3,,Hunter COLLINS,83,58,25
+Dearborn,0005 CENTER 4,County Council,,3,,Dawn VICTOR,86,60,26
+Dearborn,0005 CENTER 4,Community School Corp,1 South Dearborn,1,,Daryl L. CUTTER,290,185,105
+Dearborn,0005 CENTER 4,Community School Corp,2 South Dearborn,2,,Kelli J. GENTRUP-PETTIT,272,173,99
+Dearborn,0005 CENTER 4,Community School Corp,2 South Dearborn,2,,Steven M. HAMLETT,235,143,92
+Dearborn,0005 CENTER 4,Community School Corp,3 South Dearborn,1,,Chris DAUGHERTY,287,184,103
+Dearborn,0005 CENTER 4,IN Supreme Court-Rush,,,,Yes,244,157,87
+Dearborn,0005 CENTER 4,IN Supreme Court-Rush,,,,No,71,43,28
+Dearborn,0005 CENTER 4,IN Supreme Court-Massa,,,,Yes,239,152,87
+Dearborn,0005 CENTER 4,IN Supreme Court-Massa,,,,No,69,41,28
+Dearborn,0005 CENTER 4,IN Supreme Court-Molter,,,,Yes,250,163,87
+Dearborn,0005 CENTER 4,IN Supreme Court-Molter,,,,No,60,33,27
+Dearborn,0005 CENTER 4,Court of Appeals Dist 1-Foley,,,,Yes,243,158,85
+Dearborn,0005 CENTER 4,Court of Appeals Dist 1-Foley,,,,No,68,38,30
+Dearborn,0005 CENTER 4,Court of Appeals Dist 4-Pyle III,,,,Yes,243,157,86
+Dearborn,0005 CENTER 4,Court of Appeals Dist 4-Pyle III,,,,No,68,40,28
+Dearborn,0006 CENTER 5,Registered Voters,,,,,662,,
+Dearborn,0006 CENTER 5,Ballots Cast,,,,,446,228,218
+Dearborn,0006 CENTER 5,Public Question-Const Amendment,,,,Yes,254,125,129
+Dearborn,0006 CENTER 5,Public Question-Const Amendment,,,,No,172,93,79
+Dearborn,0006 CENTER 5,Straight Party,,,REP,Republican,245,105,140
+Dearborn,0006 CENTER 5,Straight Party,,,DEM,Democratic,55,28,27
+Dearborn,0006 CENTER 5,Straight Party,,,LBT,Libertarian,1,1,0
+Dearborn,0006 CENTER 5,Straight Party,,,WTP,We The People,0,0,0
+Dearborn,0006 CENTER 5,President,,1,REP,Donald J. TRUMP / JD VANCE,342,173,169
+Dearborn,0006 CENTER 5,President,,1,DEM,Kamala D. HARRIS / Tim WALZ,91,47,44
+Dearborn,0006 CENTER 5,President,,1,LBT,Chase OLIVER / Mike terr MAAT,3,2,1
+Dearborn,0006 CENTER 5,President,,1,WTP,Robert F. KENNEDY JR. / Nichole SHANAHAN,6,3,3
+Dearborn,0006 CENTER 5,President,,1,,Write-In,1,1,0
+Dearborn,0006 CENTER 5,U.S. Senate,,1,REP,Jim BANKS,335,169,166
+Dearborn,0006 CENTER 5,U.S. Senate,,1,DEM,Valerie McCRAY,90,46,44
+Dearborn,0006 CENTER 5,U.S. Senate,,1,LBT,Andrew HORNING,11,9,2
+Dearborn,0006 CENTER 5,U.S. Senate,,1,,Write-In,0,0,0
+Dearborn,0006 CENTER 5,Governor,,1,REP,Mike BRAUN / Micah BECKWITH,327,161,166
+Dearborn,0006 CENTER 5,Governor,,1,DEM,Jennifer G. McCORMICK / Terry GOODIN,95,50,45
+Dearborn,0006 CENTER 5,Governor,,1,LBT,Donald RAINWATER / Tonya HUDSON,17,15,2
+Dearborn,0006 CENTER 5,Governor,,1,,Write-In,0,0,0
+Dearborn,0006 CENTER 5,Attorney General,,1,REP,Todd ROKITA,346,176,170
+Dearborn,0006 CENTER 5,Attorney General,,1,DEM,Destiny WELLS,93,50,43
+Dearborn,0006 CENTER 5,U.S. House,9,1,REP,Erin HOUCHIN,339,170,169
+Dearborn,0006 CENTER 5,U.S. House,9,1,DEM,Timothy (Tim) PECK,88,46,42
+Dearborn,0006 CENTER 5,U.S. House,9,1,LBT,Russell (Russ) BROOKSBANK,12,9,3
+Dearborn,0006 CENTER 5,U.S. House,9,1,,Write-In,0,0,0
+Dearborn,0006 CENTER 5,State House,68,1,REP,Garret R. BASCOM,352,177,175
+Dearborn,0006 CENTER 5,State House,68,1,DEM,Lisa BARKER,85,47,38
+Dearborn,0006 CENTER 5,Judge of the Superior Court No. 2,,1,REP,Sally A. McLAUGHLIN,394,202,192
+Dearborn,0006 CENTER 5,Circuit Court Clerk,,1,REP,Wendy BEATTY,391,198,193
+Dearborn,0006 CENTER 5,County Treasurer,,1,REP,Hayley M. HATFIELD,397,203,194
+Dearborn,0006 CENTER 5,County Coroner,,1,REP,Cameron McCREARY,395,199,196
+Dearborn,0006 CENTER 5,County Surveyor,,1,REP,Dennis KRAUS JR,394,199,195
+Dearborn,0006 CENTER 5,County Commissioner,1,1,REP,Jim THATCHER,392,199,193
+Dearborn,0006 CENTER 5,County Commissioner,2,1,REP,Duane BISCHOFF,395,201,194
+Dearborn,0006 CENTER 5,County Council,,3,,Mark G. DOLE,307,158,149
+Dearborn,0006 CENTER 5,County Council,,3,,Tim DOLL,300,150,150
+Dearborn,0006 CENTER 5,County Council,,3,,Glenn D. WRIGHT,300,149,151
+Dearborn,0006 CENTER 5,County Council,,3,,Hunter COLLINS,101,60,41
+Dearborn,0006 CENTER 5,County Council,,3,,Dawn VICTOR,88,50,38
+Dearborn,0006 CENTER 5,Community School Corp,1 South Dearborn,1,,Daryl L. CUTTER,374,199,175
+Dearborn,0006 CENTER 5,Community School Corp,2 South Dearborn,2,,Kelli J. GENTRUP-PETTIT,345,180,165
+Dearborn,0006 CENTER 5,Community School Corp,2 South Dearborn,2,,Steven M. HAMLETT,284,150,134
+Dearborn,0006 CENTER 5,Community School Corp,3 South Dearborn,1,,Chris DAUGHERTY,372,193,179
+Dearborn,0006 CENTER 5,IN Supreme Court-Rush,,,,Yes,294,147,147
+Dearborn,0006 CENTER 5,IN Supreme Court-Rush,,,,No,94,53,41
+Dearborn,0006 CENTER 5,IN Supreme Court-Massa,,,,Yes,294,149,145
+Dearborn,0006 CENTER 5,IN Supreme Court-Massa,,,,No,95,51,44
+Dearborn,0006 CENTER 5,IN Supreme Court-Molter,,,,Yes,300,152,148
+Dearborn,0006 CENTER 5,IN Supreme Court-Molter,,,,No,86,44,42
+Dearborn,0006 CENTER 5,Court of Appeals Dist 1-Foley,,,,Yes,303,154,149
+Dearborn,0006 CENTER 5,Court of Appeals Dist 1-Foley,,,,No,81,43,38
+Dearborn,0006 CENTER 5,Court of Appeals Dist 4-Pyle III,,,,Yes,287,144,143
+Dearborn,0006 CENTER 5,Court of Appeals Dist 4-Pyle III,,,,No,93,50,43
+Dearborn,0007 CENTER 6,Registered Voters,,,,,580,,
+Dearborn,0007 CENTER 6,Ballots Cast,,,,,392,193,199
+Dearborn,0007 CENTER 6,Public Question-Const Amendment,,,,Yes,205,100,105
+Dearborn,0007 CENTER 6,Public Question-Const Amendment,,,,No,150,80,70
+Dearborn,0007 CENTER 6,Straight Party,,,REP,Republican,196,98,98
+Dearborn,0007 CENTER 6,Straight Party,,,DEM,Democratic,42,16,26
+Dearborn,0007 CENTER 6,Straight Party,,,LBT,Libertarian,0,0,0
+Dearborn,0007 CENTER 6,Straight Party,,,WTP,We The People,3,2,1
+Dearborn,0007 CENTER 6,President,,1,REP,Donald J. TRUMP / JD VANCE,296,147,149
+Dearborn,0007 CENTER 6,President,,1,DEM,Kamala D. HARRIS / Tim WALZ,84,39,45
+Dearborn,0007 CENTER 6,President,,1,LBT,Chase OLIVER / Mike terr MAAT,0,0,0
+Dearborn,0007 CENTER 6,President,,1,WTP,Robert F. KENNEDY JR. / Nichole SHANAHAN,7,2,5
+Dearborn,0007 CENTER 6,President,,1,,Write-In,1,1,0
+Dearborn,0007 CENTER 6,U.S. Senate,,1,REP,Jim BANKS,300,151,149
+Dearborn,0007 CENTER 6,U.S. Senate,,1,DEM,Valerie McCRAY,76,33,43
+Dearborn,0007 CENTER 6,U.S. Senate,,1,LBT,Andrew HORNING,9,5,4
+Dearborn,0007 CENTER 6,U.S. Senate,,1,,Write-In,1,1,0
+Dearborn,0007 CENTER 6,Governor,,1,REP,Mike BRAUN / Micah BECKWITH,301,150,151
+Dearborn,0007 CENTER 6,Governor,,1,DEM,Jennifer G. McCORMICK / Terry GOODIN,83,37,46
+Dearborn,0007 CENTER 6,Governor,,1,LBT,Donald RAINWATER / Tonya HUDSON,3,3,0
+Dearborn,0007 CENTER 6,Governor,,1,,Write-In,0,0,0
+Dearborn,0007 CENTER 6,Attorney General,,1,REP,Todd ROKITA,310,158,152
+Dearborn,0007 CENTER 6,Attorney General,,1,DEM,Destiny WELLS,74,31,43
+Dearborn,0007 CENTER 6,U.S. House,9,1,REP,Erin HOUCHIN,304,151,153
+Dearborn,0007 CENTER 6,U.S. House,9,1,DEM,Timothy (Tim) PECK,74,32,42
+Dearborn,0007 CENTER 6,U.S. House,9,1,LBT,Russell (Russ) BROOKSBANK,6,4,2
+Dearborn,0007 CENTER 6,U.S. House,9,1,,Write-In,1,1,0
+Dearborn,0007 CENTER 6,State House,68,1,REP,Garret R. BASCOM,309,156,153
+Dearborn,0007 CENTER 6,State House,68,1,DEM,Lisa BARKER,79,34,45
+Dearborn,0007 CENTER 6,Judge of the Superior Court No. 2,,1,REP,Sally A. McLAUGHLIN,345,174,171
+Dearborn,0007 CENTER 6,Circuit Court Clerk,,1,REP,Wendy BEATTY,345,176,169
+Dearborn,0007 CENTER 6,County Treasurer,,1,REP,Hayley M. HATFIELD,344,175,169
+Dearborn,0007 CENTER 6,County Coroner,,1,REP,Cameron McCREARY,346,177,169
+Dearborn,0007 CENTER 6,County Surveyor,,1,REP,Dennis KRAUS JR,346,175,171
+Dearborn,0007 CENTER 6,County Commissioner,1,1,REP,Jim THATCHER,342,170,172
+Dearborn,0007 CENTER 6,County Commissioner,2,1,REP,Duane BISCHOFF,344,174,170
+Dearborn,0007 CENTER 6,County Council,,3,,Mark G. DOLE,280,140,140
+Dearborn,0007 CENTER 6,County Council,,3,,Tim DOLL,271,138,133
+Dearborn,0007 CENTER 6,County Council,,3,,Glenn D. WRIGHT,267,132,135
+Dearborn,0007 CENTER 6,County Council,,3,,Hunter COLLINS,73,35,38
+Dearborn,0007 CENTER 6,County Council,,3,,Dawn VICTOR,76,35,41
+Dearborn,0007 CENTER 6,Community School Corp,1 South Dearborn,1,,Daryl L. CUTTER,303,160,143
+Dearborn,0007 CENTER 6,Community School Corp,2 South Dearborn,2,,Kelli J. GENTRUP-PETTIT,283,145,138
+Dearborn,0007 CENTER 6,Community School Corp,2 South Dearborn,2,,Steven M. HAMLETT,247,132,115
+Dearborn,0007 CENTER 6,Community School Corp,3 South Dearborn,1,,Chris DAUGHERTY,307,160,147
+Dearborn,0007 CENTER 6,IN Supreme Court-Rush,,,,Yes,259,131,128
+Dearborn,0007 CENTER 6,IN Supreme Court-Rush,,,,No,78,43,35
+Dearborn,0007 CENTER 6,IN Supreme Court-Massa,,,,Yes,262,127,135
+Dearborn,0007 CENTER 6,IN Supreme Court-Massa,,,,No,70,41,29
+Dearborn,0007 CENTER 6,IN Supreme Court-Molter,,,,Yes,265,129,136
+Dearborn,0007 CENTER 6,IN Supreme Court-Molter,,,,No,67,41,26
+Dearborn,0007 CENTER 6,Court of Appeals Dist 1-Foley,,,,Yes,260,127,133
+Dearborn,0007 CENTER 6,Court of Appeals Dist 1-Foley,,,,No,71,41,30
+Dearborn,0007 CENTER 6,Court of Appeals Dist 4-Pyle III,,,,Yes,266,133,133
+Dearborn,0007 CENTER 6,Court of Appeals Dist 4-Pyle III,,,,No,67,37,30
+Dearborn,0008 CLAY 1,Registered Voters,,,,,804,,
+Dearborn,0008 CLAY 1,Ballots Cast,,,,,497,350,147
+Dearborn,0008 CLAY 1,Public Question-Const Amendment,,,,Yes,272,199,73
+Dearborn,0008 CLAY 1,Public Question-Const Amendment,,,,No,193,138,55
+Dearborn,0008 CLAY 1,Straight Party,,,REP,Republican,262,190,72
+Dearborn,0008 CLAY 1,Straight Party,,,DEM,Democratic,54,31,23
+Dearborn,0008 CLAY 1,Straight Party,,,LBT,Libertarian,2,1,1
+Dearborn,0008 CLAY 1,Straight Party,,,WTP,We The People,1,0,1
+Dearborn,0008 CLAY 1,President,,1,REP,Donald J. TRUMP / JD VANCE,388,281,107
+Dearborn,0008 CLAY 1,President,,1,DEM,Kamala D. HARRIS / Tim WALZ,98,62,36
+Dearborn,0008 CLAY 1,President,,1,LBT,Chase OLIVER / Mike terr MAAT,1,1,0
+Dearborn,0008 CLAY 1,President,,1,WTP,Robert F. KENNEDY JR. / Nichole SHANAHAN,6,4,2
+Dearborn,0008 CLAY 1,President,,1,,Write-In,0,0,0
+Dearborn,0008 CLAY 1,U.S. Senate,,1,REP,Jim BANKS,378,273,105
+Dearborn,0008 CLAY 1,U.S. Senate,,1,DEM,Valerie McCRAY,103,66,37
+Dearborn,0008 CLAY 1,U.S. Senate,,1,LBT,Andrew HORNING,8,6,2
+Dearborn,0008 CLAY 1,U.S. Senate,,1,,Write-In,0,0,0
+Dearborn,0008 CLAY 1,Governor,,1,REP,Mike BRAUN / Micah BECKWITH,371,267,104
+Dearborn,0008 CLAY 1,Governor,,1,DEM,Jennifer G. McCORMICK / Terry GOODIN,98,62,36
+Dearborn,0008 CLAY 1,Governor,,1,LBT,Donald RAINWATER / Tonya HUDSON,22,17,5
+Dearborn,0008 CLAY 1,Governor,,1,,Write-In,0,0,0
+Dearborn,0008 CLAY 1,Attorney General,,1,REP,Todd ROKITA,383,276,107
+Dearborn,0008 CLAY 1,Attorney General,,1,DEM,Destiny WELLS,103,66,37
+Dearborn,0008 CLAY 1,U.S. House,9,1,REP,Erin HOUCHIN,384,279,105
+Dearborn,0008 CLAY 1,U.S. House,9,1,DEM,Timothy (Tim) PECK,95,60,35
+Dearborn,0008 CLAY 1,U.S. House,9,1,LBT,Russell (Russ) BROOKSBANK,11,6,5
+Dearborn,0008 CLAY 1,U.S. House,9,1,,Write-In,0,0,0
+Dearborn,0008 CLAY 1,State House,68,1,REP,Garret R. BASCOM,400,290,110
+Dearborn,0008 CLAY 1,State House,68,1,DEM,Lisa BARKER,89,56,33
+Dearborn,0008 CLAY 1,Judge of the Superior Court No. 2,,1,REP,Sally A. McLAUGHLIN,444,317,127
+Dearborn,0008 CLAY 1,Circuit Court Clerk,,1,REP,Wendy BEATTY,450,323,127
+Dearborn,0008 CLAY 1,County Treasurer,,1,REP,Hayley M. HATFIELD,446,320,126
+Dearborn,0008 CLAY 1,County Coroner,,1,REP,Cameron McCREARY,449,323,126
+Dearborn,0008 CLAY 1,County Surveyor,,1,REP,Dennis KRAUS JR,450,324,126
+Dearborn,0008 CLAY 1,County Commissioner,1,1,REP,Jim THATCHER,440,318,122
+Dearborn,0008 CLAY 1,County Commissioner,2,1,REP,Duane BISCHOFF,444,320,124
+Dearborn,0008 CLAY 1,County Council,,3,,Mark G. DOLE,368,270,98
+Dearborn,0008 CLAY 1,County Council,,3,,Tim DOLL,355,258,97
+Dearborn,0008 CLAY 1,County Council,,3,,Glenn D. WRIGHT,328,241,87
+Dearborn,0008 CLAY 1,County Council,,3,,Hunter COLLINS,104,73,31
+Dearborn,0008 CLAY 1,County Council,,3,,Dawn VICTOR,101,71,30
+Dearborn,0008 CLAY 1,Town Council,3 Dillsboro,1,REP,Douglas A. BAKER,411,300,111
+Dearborn,0008 CLAY 1,Town Council,4 Dillsboro,1,REP,Becky FRYMAN,416,304,112
+Dearborn,0008 CLAY 1,Community School Corp,1 South Dearborn,1,,Daryl L. CUTTER,421,307,114
+Dearborn,0008 CLAY 1,Community School Corp,2 South Dearborn,2,,Kelli J. GENTRUP-PETTIT,383,278,105
+Dearborn,0008 CLAY 1,Community School Corp,2 South Dearborn,2,,Steven M. HAMLETT,329,244,85
+Dearborn,0008 CLAY 1,Community School Corp,3 South Dearborn,1,,Chris DAUGHERTY,401,293,108
+Dearborn,0008 CLAY 1,IN Supreme Court-Rush,,,,Yes,330,243,87
+Dearborn,0008 CLAY 1,IN Supreme Court-Rush,,,,No,102,73,29
+Dearborn,0008 CLAY 1,IN Supreme Court-Massa,,,,Yes,333,245,88
+Dearborn,0008 CLAY 1,IN Supreme Court-Massa,,,,No,95,68,27
+Dearborn,0008 CLAY 1,IN Supreme Court-Molter,,,,Yes,342,255,87
+Dearborn,0008 CLAY 1,IN Supreme Court-Molter,,,,No,87,60,27
+Dearborn,0008 CLAY 1,Court of Appeals Dist 1-Foley,,,,Yes,330,241,89
+Dearborn,0008 CLAY 1,Court of Appeals Dist 1-Foley,,,,No,94,69,25
+Dearborn,0008 CLAY 1,Court of Appeals Dist 4-Pyle III,,,,Yes,317,236,81
+Dearborn,0008 CLAY 1,Court of Appeals Dist 4-Pyle III,,,,No,100,71,29
+Dearborn,0009 CLAY 2,Registered Voters,,,,,579,,
+Dearborn,0009 CLAY 2,Ballots Cast,,,,,406,265,141
+Dearborn,0009 CLAY 2,Public Question-Const Amendment,,,,Yes,201,136,65
+Dearborn,0009 CLAY 2,Public Question-Const Amendment,,,,No,173,112,61
+Dearborn,0009 CLAY 2,Straight Party,,,REP,Republican,207,139,68
+Dearborn,0009 CLAY 2,Straight Party,,,DEM,Democratic,42,24,18
+Dearborn,0009 CLAY 2,Straight Party,,,LBT,Libertarian,0,0,0
+Dearborn,0009 CLAY 2,Straight Party,,,WTP,We The People,1,1,0
+Dearborn,0009 CLAY 2,President,,1,REP,Donald J. TRUMP / JD VANCE,305,208,97
+Dearborn,0009 CLAY 2,President,,1,DEM,Kamala D. HARRIS / Tim WALZ,92,51,41
+Dearborn,0009 CLAY 2,President,,1,LBT,Chase OLIVER / Mike terr MAAT,1,1,0
+Dearborn,0009 CLAY 2,President,,1,WTP,Robert F. KENNEDY JR. / Nichole SHANAHAN,2,2,0
+Dearborn,0009 CLAY 2,President,,1,,Write-In,2,0,2
+Dearborn,0009 CLAY 2,U.S. Senate,,1,REP,Jim BANKS,299,202,97
+Dearborn,0009 CLAY 2,U.S. Senate,,1,DEM,Valerie McCRAY,89,49,40
+Dearborn,0009 CLAY 2,U.S. Senate,,1,LBT,Andrew HORNING,8,8,0
+Dearborn,0009 CLAY 2,U.S. Senate,,1,,Write-In,0,0,0
+Dearborn,0009 CLAY 2,Governor,,1,REP,Mike BRAUN / Micah BECKWITH,291,196,95
+Dearborn,0009 CLAY 2,Governor,,1,DEM,Jennifer G. McCORMICK / Terry GOODIN,91,51,40
+Dearborn,0009 CLAY 2,Governor,,1,LBT,Donald RAINWATER / Tonya HUDSON,14,11,3
+Dearborn,0009 CLAY 2,Governor,,1,,Write-In,0,0,0
+Dearborn,0009 CLAY 2,Attorney General,,1,REP,Todd ROKITA,299,203,96
+Dearborn,0009 CLAY 2,Attorney General,,1,DEM,Destiny WELLS,93,53,40
+Dearborn,0009 CLAY 2,U.S. House,9,1,REP,Erin HOUCHIN,303,207,96
+Dearborn,0009 CLAY 2,U.S. House,9,1,DEM,Timothy (Tim) PECK,83,43,40
+Dearborn,0009 CLAY 2,U.S. House,9,1,LBT,Russell (Russ) BROOKSBANK,9,7,2
+Dearborn,0009 CLAY 2,U.S. House,9,1,,Write-In,0,0,0
+Dearborn,0009 CLAY 2,State House,68,1,REP,Garret R. BASCOM,325,220,105
+Dearborn,0009 CLAY 2,State House,68,1,DEM,Lisa BARKER,76,42,34
+Dearborn,0009 CLAY 2,Judge of the Superior Court No. 2,,1,REP,Sally A. McLAUGHLIN,343,232,111
+Dearborn,0009 CLAY 2,Circuit Court Clerk,,1,REP,Wendy BEATTY,344,236,108
+Dearborn,0009 CLAY 2,County Treasurer,,1,REP,Hayley M. HATFIELD,345,235,110
+Dearborn,0009 CLAY 2,County Coroner,,1,REP,Cameron McCREARY,345,235,110
+Dearborn,0009 CLAY 2,County Surveyor,,1,REP,Dennis KRAUS JR,347,239,108
+Dearborn,0009 CLAY 2,County Commissioner,1,1,REP,Jim THATCHER,339,233,106
+Dearborn,0009 CLAY 2,County Commissioner,2,1,REP,Duane BISCHOFF,341,235,106
+Dearborn,0009 CLAY 2,County Council,,3,,Mark G. DOLE,280,193,87
+Dearborn,0009 CLAY 2,County Council,,3,,Tim DOLL,264,181,83
+Dearborn,0009 CLAY 2,County Council,,3,,Glenn D. WRIGHT,269,190,79
+Dearborn,0009 CLAY 2,County Council,,3,,Hunter COLLINS,87,55,32
+Dearborn,0009 CLAY 2,County Council,,3,,Dawn VICTOR,77,47,30
+Dearborn,0009 CLAY 2,Community School Corp,2 South Dearborn,2,,Kelli J. GENTRUP-PETTIT,300,206,94
+Dearborn,0009 CLAY 2,Community School Corp,2 South Dearborn,2,,Steven M. HAMLETT,263,180,83
+Dearborn,0009 CLAY 2,Community School Corp,3 South Dearborn,1,,Chris DAUGHERTY,323,223,100
+Dearborn,0009 CLAY 2,IN Supreme Court-Rush,,,,Yes,251,167,84
+Dearborn,0009 CLAY 2,IN Supreme Court-Rush,,,,No,86,60,26
+Dearborn,0009 CLAY 2,IN Supreme Court-Massa,,,,Yes,256,175,81
+Dearborn,0009 CLAY 2,IN Supreme Court-Massa,,,,No,80,51,29
+Dearborn,0009 CLAY 2,IN Supreme Court-Molter,,,,Yes,255,174,81
+Dearborn,0009 CLAY 2,IN Supreme Court-Molter,,,,No,78,50,28
+Dearborn,0009 CLAY 2,Court of Appeals Dist 1-Foley,,,,Yes,256,174,82
+Dearborn,0009 CLAY 2,Court of Appeals Dist 1-Foley,,,,No,71,46,25
+Dearborn,0009 CLAY 2,Court of Appeals Dist 4-Pyle III,,,,Yes,264,180,84
+Dearborn,0009 CLAY 2,Court of Appeals Dist 4-Pyle III,,,,No,69,46,23
+Dearborn,0010 CLAY 3,Registered Voters,,,,,643,,
+Dearborn,0010 CLAY 3,Ballots Cast,,,,,474,333,141
+Dearborn,0010 CLAY 3,Public Question-Const Amendment,,,,Yes,253,180,73
+Dearborn,0010 CLAY 3,Public Question-Const Amendment,,,,No,193,136,57
+Dearborn,0010 CLAY 3,Straight Party,,,REP,Republican,253,177,76
+Dearborn,0010 CLAY 3,Straight Party,,,DEM,Democratic,41,22,19
+Dearborn,0010 CLAY 3,Straight Party,,,LBT,Libertarian,0,0,0
+Dearborn,0010 CLAY 3,Straight Party,,,WTP,We The People,4,3,1
+Dearborn,0010 CLAY 3,President,,1,REP,Donald J. TRUMP / JD VANCE,390,285,105
+Dearborn,0010 CLAY 3,President,,1,DEM,Kamala D. HARRIS / Tim WALZ,74,42,32
+Dearborn,0010 CLAY 3,President,,1,LBT,Chase OLIVER / Mike terr MAAT,0,0,0
+Dearborn,0010 CLAY 3,President,,1,WTP,Robert F. KENNEDY JR. / Nichole SHANAHAN,5,5,0
+Dearborn,0010 CLAY 3,President,,1,,Write-In,3,1,2
+Dearborn,0010 CLAY 3,U.S. Senate,,1,REP,Jim BANKS,388,279,109
+Dearborn,0010 CLAY 3,U.S. Senate,,1,DEM,Valerie McCRAY,69,40,29
+Dearborn,0010 CLAY 3,U.S. Senate,,1,LBT,Andrew HORNING,12,10,2
+Dearborn,0010 CLAY 3,U.S. Senate,,1,,Write-In,0,0,0
+Dearborn,0010 CLAY 3,Governor,,1,REP,Mike BRAUN / Micah BECKWITH,381,271,110
+Dearborn,0010 CLAY 3,Governor,,1,DEM,Jennifer G. McCORMICK / Terry GOODIN,72,46,26
+Dearborn,0010 CLAY 3,Governor,,1,LBT,Donald RAINWATER / Tonya HUDSON,16,12,4
+Dearborn,0010 CLAY 3,Governor,,1,,Write-In,1,0,1
+Dearborn,0010 CLAY 3,Attorney General,,1,REP,Todd ROKITA,394,283,111
+Dearborn,0010 CLAY 3,Attorney General,,1,DEM,Destiny WELLS,72,43,29
+Dearborn,0010 CLAY 3,U.S. House,9,1,REP,Erin HOUCHIN,389,277,112
+Dearborn,0010 CLAY 3,U.S. House,9,1,DEM,Timothy (Tim) PECK,65,38,27
+Dearborn,0010 CLAY 3,U.S. House,9,1,LBT,Russell (Russ) BROOKSBANK,15,13,2
+Dearborn,0010 CLAY 3,U.S. House,9,1,,Write-In,0,0,0
+Dearborn,0010 CLAY 3,State House,68,1,REP,Garret R. BASCOM,408,294,114
+Dearborn,0010 CLAY 3,State House,68,1,DEM,Lisa BARKER,59,34,25
+Dearborn,0010 CLAY 3,Judge of the Superior Court No. 2,,1,REP,Sally A. McLAUGHLIN,435,314,121
+Dearborn,0010 CLAY 3,Circuit Court Clerk,,1,REP,Wendy BEATTY,437,317,120
+Dearborn,0010 CLAY 3,County Treasurer,,1,REP,Hayley M. HATFIELD,434,314,120
+Dearborn,0010 CLAY 3,County Coroner,,1,REP,Cameron McCREARY,431,311,120
+Dearborn,0010 CLAY 3,County Surveyor,,1,REP,Dennis KRAUS JR,438,316,122
+Dearborn,0010 CLAY 3,County Commissioner,1,1,,Jim THATCHER,427,309,118
+Dearborn,0010 CLAY 3,County Commissioner,2,1,REP,Duane BISCHOFF,437,315,122
+Dearborn,0010 CLAY 3,County Council,,3,,Mark G. DOLE,344,248,96
+Dearborn,0010 CLAY 3,County Council,,3,,Tim DOLL,343,253,90
+Dearborn,0010 CLAY 3,County Council,,3,,Glenn D. WRIGHT,361,262,99
+Dearborn,0010 CLAY 3,County Council,,3,,Hunter COLLINS,72,40,32
+Dearborn,0010 CLAY 3,County Council,,3,,Dawn VICTOR,66,40,26
+Dearborn,0010 CLAY 3,Community School Corp,1 South Dearborn,1,,Daryl L. CUTTER,387,276,111
+Dearborn,0010 CLAY 3,Community School Corp,2 South Dearborn,2,,Kelli J. GENTRUP-PETTIT,343,251,92
+Dearborn,0010 CLAY 3,Community School Corp,2 South Dearborn,2,,Steven M. HAMLETT,294,215,79
+Dearborn,0010 CLAY 3,Community School Corp,3 South Dearborn,1,,Chris DAUGHERTY,361,262,99
+Dearborn,0010 CLAY 3,IN Supreme Court-Rush,,,,Yes,297,209,88
+Dearborn,0010 CLAY 3,IN Supreme Court-Rush,,,,No,90,63,27
+Dearborn,0010 CLAY 3,IN Supreme Court-Massa,,,,Yes,301,215,86
+Dearborn,0010 CLAY 3,IN Supreme Court-Massa,,,,No,77,53,24
+Dearborn,0010 CLAY 3,IN Supreme Court-Molter,,,,Yes,303,219,84
+Dearborn,0010 CLAY 3,IN Supreme Court-Molter,,,,No,75,49,26
+Dearborn,0010 CLAY 3,Court of Appeals Dist 1-Foley,,,,Yes,306,221,85
+Dearborn,0010 CLAY 3,Court of Appeals Dist 1-Foley,,,,No,75,48,27
+Dearborn,0010 CLAY 3,Court of Appeals Dist 4-Pyle III,,,,Yes,293,212,81
+Dearborn,0010 CLAY 3,Court of Appeals Dist 4-Pyle III,,,,No,85,55,30
+Dearborn,0011 HARRISON 1,Registered Voters,,,,,185,,
+Dearborn,0011 HARRISON 1,Ballots Cast,,,,,69,30,39
+Dearborn,0011 HARRISON 1,Public Question-Const Amendment,,,,Yes,31,17,14
+Dearborn,0011 HARRISON 1,Public Question-Const Amendment,,,,No,35,13,22
+Dearborn,0011 HARRISON 1,Straight Party,,,REP,Republican,50,23,27
+Dearborn,0011 HARRISON 1,Straight Party,,,DEM,Democratic,11,4,7
+Dearborn,0011 HARRISON 1,Straight Party,,,LBT,Libertarian,1,1,0
+Dearborn,0011 HARRISON 1,Straight Party,,,WTP,We The People,0,0,0
+Dearborn,0011 HARRISON 1,President,,1,REP,Donald J. TRUMP / JD VANCE,55,25,30
+Dearborn,0011 HARRISON 1,President,,1,DEM,Kamala D. HARRIS / Tim WALZ,13,4,9
+Dearborn,0011 HARRISON 1,President,,1,LBT,Chase OLIVER / Mike terr MAAT,1,1,0
+Dearborn,0011 HARRISON 1,President,,1,WTP,Robert F. KENNEDY JR. / Nichole SHANAHAN,0,0,0
+Dearborn,0011 HARRISON 1,President,,1,,Write-In,0,0,0
+Dearborn,0011 HARRISON 1,U.S. Senate,,1,REP,Jim BANKS,54,25,29
+Dearborn,0011 HARRISON 1,U.S. Senate,,1,DEM,Valerie McCRAY,11,4,7
+Dearborn,0011 HARRISON 1,U.S. Senate,,1,LBT,Andrew HORNING,2,1,1
+Dearborn,0011 HARRISON 1,U.S. Senate,,1,,Write-In,0,0,0
+Dearborn,0011 HARRISON 1,Governor,,1,REP,Mike BRAUN / Micah BECKWITH,54,25,29
+Dearborn,0011 HARRISON 1,Governor,,1,DEM,Jennifer G. McCORMICK / Terry GOODIN,12,4,8
+Dearborn,0011 HARRISON 1,Governor,,1,LBT,Donald RAINWATER / Tonya HUDSON,1,1,0
+Dearborn,0011 HARRISON 1,Governor,,1,,Write-In,0,0,0
+Dearborn,0011 HARRISON 1,Attorney General,,1,REP,Todd ROKITA,54,25,29
+Dearborn,0011 HARRISON 1,Attorney General,,1,DEM,Destiny WELLS,13,5,8
+Dearborn,0011 HARRISON 1,U.S. House,9,1,REP,Erin HOUCHIN,54,25,29
+Dearborn,0011 HARRISON 1,U.S. House,9,1,DEM,Timothy (Tim) PECK,12,4,8
+Dearborn,0011 HARRISON 1,U.S. House,9,1,LBT,Russell (Russ) BROOKSBANK,1,1,0
+Dearborn,0011 HARRISON 1,U.S. House,9,1,,Write-In,0,0,0
+Dearborn,0011 HARRISON 1,State House,68,1,REP,Garret R. BASCOM,54,25,29
+Dearborn,0011 HARRISON 1,State House,68,1,DEM,Lisa BARKER,13,5,8
+Dearborn,0011 HARRISON 1,Judge of the Superior Court No. 2,,1,REP,Sally A. McLAUGHLIN,60,28,32
+Dearborn,0011 HARRISON 1,Circuit Court Clerk,,1,REP,Wendy BEATTY,60,28,32
+Dearborn,0011 HARRISON 1,County Treasurer,,1,REP,Hayley M. HATFIELD,61,29,32
+Dearborn,0011 HARRISON 1,County Coroner,,1,REP,Cameron McCREARY,61,28,33
+Dearborn,0011 HARRISON 1,County Surveyor,,1,REP,Dennis KRAUS JR,61,29,32
+Dearborn,0011 HARRISON 1,County Commissioner,1,1,REP,Jim THATCHER,62,29,33
+Dearborn,0011 HARRISON 1,County Commissioner,2,1,REP,Duane BISCHOFF,62,29,33
+Dearborn,0011 HARRISON 1,County Council,,3,,Mark G. DOLE,51,24,27
+Dearborn,0011 HARRISON 1,County Council,,3,,Tim DOLL,46,20,26
+Dearborn,0011 HARRISON 1,County Council,,3,,Glenn D. WRIGHT,47,22,25
+Dearborn,0011 HARRISON 1,County Council,,3,,Hunter COLLINS,14,7,7
+Dearborn,0011 HARRISON 1,County Council,,3,,Dawn VICTOR,10,5,5
+Dearborn,0011 HARRISON 1,Community School Corp,2 Sunman-Dearborn,1,,Robert S. DAVIS,53,26,27
+Dearborn,0011 HARRISON 1,Community School Corp,7 Sunman-Dearborn,1,,James D. (Jamie) GRAF,56,27,29
+Dearborn,0011 HARRISON 1,IN Supreme Court-Rush,,,,Yes,51,24,27
+Dearborn,0011 HARRISON 1,IN Supreme Court-Rush,,,,No,10,4,6
+Dearborn,0011 HARRISON 1,IN Supreme Court-Massa,,,,Yes,52,25,27
+Dearborn,0011 HARRISON 1,IN Supreme Court-Massa,,,,No,9,3,6
+Dearborn,0011 HARRISON 1,IN Supreme Court-Molter,,,,Yes,54,25,29
+Dearborn,0011 HARRISON 1,IN Supreme Court-Molter,,,,No,8,3,5
+Dearborn,0011 HARRISON 1,Court of Appeals Dist 1-Foley,,,,Yes,56,26,30
+Dearborn,0011 HARRISON 1,Court of Appeals Dist 1-Foley,,,,No,6,2,4
+Dearborn,0011 HARRISON 1,Court of Appeals Dist 4-Pyle III,,,,Yes,54,24,30
+Dearborn,0011 HARRISON 1,Court of Appeals Dist 4-Pyle III,,,,No,7,3,4
+Dearborn,0012 HARRISON 2,Registered Voters,,,,,1194,,
+Dearborn,0012 HARRISON 2,Ballots Cast,,,,,821,377,444
+Dearborn,0012 HARRISON 2,Public Question-Const Amendment,,,,Yes,420,196,224
+Dearborn,0012 HARRISON 2,Public Question-Const Amendment,,,,No,341,163,178
+Dearborn,0012 HARRISON 2,Straight Party,,,REP,Republican,497,228,269
+Dearborn,0012 HARRISON 2,Straight Party,,,DEM,Democratic,73,32,41
+Dearborn,0012 HARRISON 2,Straight Party,,,LBT,Libertarian,1,1,0
+Dearborn,0012 HARRISON 2,Straight Party,,,WTP,We The People,4,3,1
+Dearborn,0012 HARRISON 2,President,,1,REP,Donald J. TRUMP / JD VANCE,649,295,354
+Dearborn,0012 HARRISON 2,President,,1,DEM,Kamala D. HARRIS / Tim WALZ,145,68,77
+Dearborn,0012 HARRISON 2,President,,1,LBT,Chase OLIVER / Mike terr MAAT,10,5,5
+Dearborn,0012 HARRISON 2,President,,1,WTP,Robert F. KENNEDY JR. / Nichole SHANAHAN,8,6,2
+Dearborn,0012 HARRISON 2,President,,1,,Write-In,3,2,1
+Dearborn,0012 HARRISON 2,U.S. Senate,,1,REP,Jim BANKS,664,304,360
+Dearborn,0012 HARRISON 2,U.S. Senate,,1,DEM,Valerie McCRAY,133,58,75
+Dearborn,0012 HARRISON 2,U.S. Senate,,1,LBT,Andrew HORNING,16,10,6
+Dearborn,0012 HARRISON 2,U.S. Senate,,1,,Write-In,0,0,0
+Dearborn,0012 HARRISON 2,Governor,,1,REP,Mike BRAUN / Micah BECKWITH,650,296,354
+Dearborn,0012 HARRISON 2,Governor,,1,DEM,Jennifer G. McCORMICK / Terry GOODIN,141,59,82
+Dearborn,0012 HARRISON 2,Governor,,1,LBT,Donald RAINWATER / Tonya HUDSON,21,18,3
+Dearborn,0012 HARRISON 2,Governor,,1,,Write-In,0,0,0
+Dearborn,0012 HARRISON 2,Attorney General,,1,REP,Todd ROKITA,668,312,356
+Dearborn,0012 HARRISON 2,Attorney General,,1,DEM,Destiny WELLS,141,61,80
+Dearborn,0012 HARRISON 2,U.S. House,9,1,REP,Erin HOUCHIN,671,304,367
+Dearborn,0012 HARRISON 2,U.S. House,9,1,DEM,Timothy (Tim) PECK,123,55,68
+Dearborn,0012 HARRISON 2,U.S. House,9,1,LBT,Russell (Russ) BROOKSBANK,16,12,4
+Dearborn,0012 HARRISON 2,U.S. House,9,1,,Write-In,1,0,1
+Dearborn,0012 HARRISON 2,State House,68,1,REP,Garret R. BASCOM,673,310,363
+Dearborn,0012 HARRISON 2,State House,68,1,DEM,Lisa BARKER,138,62,76
+Dearborn,0012 HARRISON 2,Judge of the Superior Court No. 2,,1,REP,Sally A. McLAUGHLIN,757,353,404
+Dearborn,0012 HARRISON 2,Circuit Court Clerk,,1,REP,Wendy BEATTY,755,356,399
+Dearborn,0012 HARRISON 2,County Treasurer,,1,REP,Hayley M. HATFIELD,757,353,404
+Dearborn,0012 HARRISON 2,County Coroner,,1,REP,Cameron McCREARY,756,353,403
+Dearborn,0012 HARRISON 2,County Surveyor,,1,REP,Dennis KRAUS JR,760,356,404
+Dearborn,0012 HARRISON 2,County Commissioner,1,1,REP,Jim THATCHER,752,354,398
+Dearborn,0012 HARRISON 2,County Commissioner,2,1,REP,Duane BISCHOFF,751,352,399
+Dearborn,0012 HARRISON 2,County Council,,3,,Mark G. DOLE,619,293,326
+Dearborn,0012 HARRISON 2,County Council,,3,,Tim DOLL,624,292,332
+Dearborn,0012 HARRISON 2,County Council,,3,,Glenn D. WRIGHT,588,265,323
+Dearborn,0012 HARRISON 2,County Council,,3,,Hunter COLLINS,133,65,68
+Dearborn,0012 HARRISON 2,County Council,,3,,Dawn VICTOR,127,58,69
+Dearborn,0012 HARRISON 2,Community School Corp,2 Sunman-Dearborn,1,,Robert S. DAVIS,643,310,333
+Dearborn,0012 HARRISON 2,Community School Corp,7 Sunman-Dearborn,1,,James D. (Jamie) GRAF,658,319,339
+Dearborn,0012 HARRISON 2,IN Supreme Court-Rush,,,,Yes,576,258,318
+Dearborn,0012 HARRISON 2,IN Supreme Court-Rush,,,,No,125,66,59
+Dearborn,0012 HARRISON 2,IN Supreme Court-Massa,,,,Yes,585,265,320
+Dearborn,0012 HARRISON 2,IN Supreme Court-Massa,,,,No,113,58,55
+Dearborn,0012 HARRISON 2,IN Supreme Court-Molter,,,,Yes,578,264,314
+Dearborn,0012 HARRISON 2,IN Supreme Court-Molter,,,,No,118,57,61
+Dearborn,0012 HARRISON 2,Court of Appeals Dist 1-Foley,,,,Yes,581,265,316
+Dearborn,0012 HARRISON 2,Court of Appeals Dist 1-Foley,,,,No,112,57,55
+Dearborn,0012 HARRISON 2,Court of Appeals Dist 4-Pyle III,,,,Yes,570,263,307
+Dearborn,0012 HARRISON 2,Court of Appeals Dist 4-Pyle III,,,,No,119,57,62
+Dearborn,0013 HARRISON 3,Registered Voters,,,,,1393,,
+Dearborn,0013 HARRISON 3,Ballots Cast,,,,,922,433,489
+Dearborn,0013 HARRISON 3,Public Question-Const Amendment,,,,Yes,483,236,247
+Dearborn,0013 HARRISON 3,Public Question-Const Amendment,,,,No,365,173,192
+Dearborn,0013 HARRISON 3,Straight Party,,,REP,Republican,595,281,314
+Dearborn,0013 HARRISON 3,Straight Party,,,DEM,Democratic,78,31,47
+Dearborn,0013 HARRISON 3,Straight Party,,,LBT,Libertarian,1,0,1
+Dearborn,0013 HARRISON 3,Straight Party,,,WTP,We The People,1,1,0
+Dearborn,0013 HARRISON 3,President,,1,REP,Donald J. TRUMP / JD VANCE,773,371,402
+Dearborn,0013 HARRISON 3,President,,1,DEM,Kamala D. HARRIS / Tim WALZ,131,51,80
+Dearborn,0013 HARRISON 3,President,,1,LBT,Chase OLIVER / Mike terr MAAT,6,4,2
+Dearborn,0013 HARRISON 3,President,,1,WTP,Robert F. KENNEDY JR. / Nichole SHANAHAN,3,2,1
+Dearborn,0013 HARRISON 3,President,,1,,Write-In,3,3,0
+Dearborn,0013 HARRISON 3,U.S. Senate,,1,REP,Jim BANKS,768,363,405
+Dearborn,0013 HARRISON 3,U.S. Senate,,1,DEM,Valerie McCRAY,126,54,72
+Dearborn,0013 HARRISON 3,U.S. Senate,,1,LBT,Andrew HORNING,15,10,5
+Dearborn,0013 HARRISON 3,U.S. Senate,,1,,Write-In,0,0,0
+Dearborn,0013 HARRISON 3,Governor,,1,REP,Mike BRAUN / Micah BECKWITH,761,358,403
+Dearborn,0013 HARRISON 3,Governor,,1,DEM,Jennifer G. McCORMICK / Terry GOODIN,129,58,71
+Dearborn,0013 HARRISON 3,Governor,,1,LBT,Donald RAINWATER / Tonya HUDSON,19,11,8
+Dearborn,0013 HARRISON 3,Governor,,1,,Write-In,0,0,0
+Dearborn,0013 HARRISON 3,Attorney General,,1,REP,Todd ROKITA,773,366,407
+Dearborn,0013 HARRISON 3,Attorney General,,1,DEM,Destiny WELLS,132,59,73
+Dearborn,0013 HARRISON 3,U.S. House,9,1,REP,Erin HOUCHIN,769,362,407
+Dearborn,0013 HARRISON 3,U.S. House,9,1,DEM,Timothy (Tim) PECK,122,53,69
+Dearborn,0013 HARRISON 3,U.S. House,9,1,LBT,Russell (Russ) BROOKSBANK,19,14,5
+Dearborn,0013 HARRISON 3,U.S. House,9,1,,Write-In,0,0,0
+Dearborn,0013 HARRISON 3,State House,68,1,REP,Garret R. BASCOM,772,367,405
+Dearborn,0013 HARRISON 3,State House,68,1,DEM,Lisa BARKER,133,61,72
+Dearborn,0013 HARRISON 3,Judge of the Superior Court No. 2,,1,REP,Sally A. McLAUGHLIN,842,401,441
+Dearborn,0013 HARRISON 3,Circuit Court Clerk,,1,REP,Wendy BEATTY,842,403,439
+Dearborn,0013 HARRISON 3,County Treasurer,,1,REP,Hayley M. HATFIELD,842,402,440
+Dearborn,0013 HARRISON 3,County Coroner,,1,REP,Cameron McCREARY,850,407,443
+Dearborn,0013 HARRISON 3,County Surveyor,,1,REP,Dennis KRAUS JR,848,407,441
+Dearborn,0013 HARRISON 3,County Commissioner,1,1,REP,Jim THATCHER,841,405,436
+Dearborn,0013 HARRISON 3,County Commissioner,2,1,REP,Duane BISCHOFF,841,405,436
+Dearborn,0013 HARRISON 3,County Council,,3,,Mark G. DOLE,720,339,381
+Dearborn,0013 HARRISON 3,County Council,,3,,Tim DOLL,686,325,361
+Dearborn,0013 HARRISON 3,County Council,,3,,Glenn D. WRIGHT,658,312,346
+Dearborn,0013 HARRISON 3,County Council,,3,,Hunter COLLINS,116,59,57
+Dearborn,0013 HARRISON 3,County Council,,3,,Dawn VICTOR,110,50,60
+Dearborn,0013 HARRISON 3,Community School Corp,2 Sunman-Dearborn,1,,Robert S. DAVIS,718,340,378
+Dearborn,0013 HARRISON 3,Community School Corp,7 Sunman-Dearborn,1,,James D. (Jamie) GRAF,718,351,367
+Dearborn,0013 HARRISON 3,IN Supreme Court-Rush,,,,Yes,648,301,347
+Dearborn,0013 HARRISON 3,IN Supreme Court-Rush,,,,No,113,60,53
+Dearborn,0013 HARRISON 3,IN Supreme Court-Massa,,,,Yes,646,304,342
+Dearborn,0013 HARRISON 3,IN Supreme Court-Massa,,,,No,114,52,62
+Dearborn,0013 HARRISON 3,IN Supreme Court-Molter,,,,Yes,648,305,343
+Dearborn,0013 HARRISON 3,IN Supreme Court-Molter,,,,No,112,54,58
+Dearborn,0013 HARRISON 3,Court of Appeals Dist 1-Foley,,,,Yes,640,301,339
+Dearborn,0013 HARRISON 3,Court of Appeals Dist 1-Foley,,,,No,111,55,56
+Dearborn,0013 HARRISON 3,Court of Appeals Dist 4-Pyle III,,,,Yes,625,294,331
+Dearborn,0013 HARRISON 3,Court of Appeals Dist 4-Pyle III,,,,No,119,62,57
+Dearborn,0014 JACKSON 1,Registered Voters,,,,,1402,,
+Dearborn,0014 JACKSON 1,Ballots Cast,,,,,1004,650,354
+Dearborn,0014 JACKSON 1,Public Question-Const Amendment,,,,Yes,495,334,161
+Dearborn,0014 JACKSON 1,Public Question-Const Amendment,,,,No,442,291,151
+Dearborn,0014 JACKSON 1,Straight Party,,,REP,Republican,571,370,201
+Dearborn,0014 JACKSON 1,Straight Party,,,DEM,Democratic,63,36,27
+Dearborn,0014 JACKSON 1,Straight Party,,,LBT,Libertarian,0,0,0
+Dearborn,0014 JACKSON 1,Straight Party,,,WTP,We The People,3,2,1
+Dearborn,0014 JACKSON 1,President,,1,REP,Donald J. TRUMP / JD VANCE,844,561,283
+Dearborn,0014 JACKSON 1,President,,1,DEM,Kamala D. HARRIS / Tim WALZ,134,71,63
+Dearborn,0014 JACKSON 1,President,,1,LBT,Chase OLIVER / Mike terr MAAT,6,4,2
+Dearborn,0014 JACKSON 1,President,,1,WTP,Robert F. KENNEDY JR. / Nichole SHANAHAN,11,8,3
+Dearborn,0014 JACKSON 1,President,,1,,Write-In,2,2,0
+Dearborn,0014 JACKSON 1,U.S. Senate,,1,REP,Jim BANKS,848,560,288
+Dearborn,0014 JACKSON 1,U.S. Senate,,1,DEM,Valerie McCRAY,127,67,60
+Dearborn,0014 JACKSON 1,U.S. Senate,,1,LBT,Andrew HORNING,16,15,1
+Dearborn,0014 JACKSON 1,U.S. Senate,,1,,Write-In,0,0,0
+Dearborn,0014 JACKSON 1,Governor,,1,REP,Mike BRAUN / Micah BECKWITH,812,535,277
+Dearborn,0014 JACKSON 1,Governor,,1,DEM,Jennifer G. McCORMICK / Terry GOODIN,144,80,64
+Dearborn,0014 JACKSON 1,Governor,,1,LBT,Donald RAINWATER / Tonya HUDSON,37,30,7
+Dearborn,0014 JACKSON 1,Governor,,1,,Write-In,0,0,0
+Dearborn,0014 JACKSON 1,Attorney General,,1,REP,Todd ROKITA,853,564,289
+Dearborn,0014 JACKSON 1,Attorney General,,1,DEM,Destiny WELLS,136,77,59
+Dearborn,0014 JACKSON 1,U.S. House,9,1,REP,Erin HOUCHIN,839,554,285
+Dearborn,0014 JACKSON 1,U.S. House,9,1,DEM,Timothy (Tim) PECK,123,65,58
+Dearborn,0014 JACKSON 1,U.S. House,9,1,LBT,Russell (Russ) BROOKSBANK,27,22,5
+Dearborn,0014 JACKSON 1,U.S. House,9,1,,Write-In,0,0,0
+Dearborn,0014 JACKSON 1,State House,68,1,REP,Garret R. BASCOM,849,565,284
+Dearborn,0014 JACKSON 1,State House,68,1,DEM,Lisa BARKER,140,76,64
+Dearborn,0014 JACKSON 1,Judge of the Superior Court No. 2,,1,REP,Sally A. McLAUGHLIN,941,618,323
+Dearborn,0014 JACKSON 1,Circuit Court Clerk,,1,REP,Wendy BEATTY,937,616,321
+Dearborn,0014 JACKSON 1,County Treasurer,,1,REP,Hayley M. HATFIELD,935,612,323
+Dearborn,0014 JACKSON 1,County Coroner,,1,REP,Cameron McCREARY,936,615,321
+Dearborn,0014 JACKSON 1,County Surveyor,,1,REP,Dennis KRAUS JR,943,618,325
+Dearborn,0014 JACKSON 1,County Commissioner,1,1,REP,Jim THATCHER,933,613,320
+Dearborn,0014 JACKSON 1,County Commissioner,2,1,REP,Duane BISCHOFF,934,614,320
+Dearborn,0014 JACKSON 1,County Council,,3,,Mark G. DOLE,768,506,262
+Dearborn,0014 JACKSON 1,County Council,,3,,Tim DOLL,791,528,263
+Dearborn,0014 JACKSON 1,County Council,,3,,Glenn D. WRIGHT,814,531,283
+Dearborn,0014 JACKSON 1,County Council,,3,,Hunter COLLINS,116,68,48
+Dearborn,0014 JACKSON 1,County Council,,3,,Dawn VICTOR,122,70,52
+Dearborn,0014 JACKSON 1,Community School Corp,2 Sunman-Dearborn,1,,Robert S. DAVIS,831,544,287
+Dearborn,0014 JACKSON 1,Community School Corp,7 Sunman-Dearborn,1,,James D. (Jamie) GRAF,860,558,302
+Dearborn,0014 JACKSON 1,IN Supreme Court-Rush,,,,Yes,711,472,239
+Dearborn,0014 JACKSON 1,IN Supreme Court-Rush,,,,No,177,107,70
+Dearborn,0014 JACKSON 1,IN Supreme Court-Massa,,,,Yes,721,479,242
+Dearborn,0014 JACKSON 1,IN Supreme Court-Massa,,,,No,155,91,64
+Dearborn,0014 JACKSON 1,IN Supreme Court-Molter,,,,Yes,713,473,240
+Dearborn,0014 JACKSON 1,IN Supreme Court-Molter,,,,No,159,93,66
+Dearborn,0014 JACKSON 1,Court of Appeals Dist 1-Foley,,,,Yes,722,476,246
+Dearborn,0014 JACKSON 1,Court of Appeals Dist 1-Foley,,,,No,143,86,57
+Dearborn,0014 JACKSON 1,Court of Appeals Dist 4-Pyle III,,,,Yes,712,471,241
+Dearborn,0014 JACKSON 1,Court of Appeals Dist 4-Pyle III,,,,No,153,91,62
+Dearborn,0015 KELSO 1,Registered Voters,,,,,539,,
+Dearborn,0015 KELSO 1,Ballots Cast,,,,,366,248,118
+Dearborn,0015 KELSO 1,Public Question-Const Amendment,,,,Yes,188,122,66
+Dearborn,0015 KELSO 1,Public Question-Const Amendment,,,,No,151,113,38
+Dearborn,0015 KELSO 1,Straight Party,,,REP,Republican,200,132,68
+Dearborn,0015 KELSO 1,Straight Party,,,DEM,Democratic,23,12,11
+Dearborn,0015 KELSO 1,Straight Party,,,LBT,Libertarian,1,1,0
+Dearborn,0015 KELSO 1,Straight Party,,,WTP,We The People,1,1,0
+Dearborn,0015 KELSO 1,President,,1,REP,Donald J. TRUMP / JD VANCE,302,205,97
+Dearborn,0015 KELSO 1,President,,1,DEM,Kamala D. HARRIS / Tim WALZ,50,32,18
+Dearborn,0015 KELSO 1,President,,1,LBT,Chase OLIVER / Mike terr MAAT,3,2,1
+Dearborn,0015 KELSO 1,President,,1,WTP,Robert F. KENNEDY JR. / Nichole SHANAHAN,8,6,2
+Dearborn,0015 KELSO 1,President,,1,,Write-In,0,0,0
+Dearborn,0015 KELSO 1,U.S. Senate,,1,REP,Jim BANKS,308,212,96
+Dearborn,0015 KELSO 1,U.S. Senate,,1,DEM,Valerie McCRAY,47,30,17
+Dearborn,0015 KELSO 1,U.S. Senate,,1,LBT,Andrew HORNING,6,3,3
+Dearborn,0015 KELSO 1,U.S. Senate,,1,,Write-In,0,0,0
+Dearborn,0015 KELSO 1,Governor,,1,REP,Mike BRAUN / Micah BECKWITH,305,209,96
+Dearborn,0015 KELSO 1,Governor,,1,DEM,Jennifer G. McCORMICK / Terry GOODIN,49,32,17
+Dearborn,0015 KELSO 1,Governor,,1,LBT,Donald RAINWATER / Tonya HUDSON,8,5,3
+Dearborn,0015 KELSO 1,Governor,,1,,Write-In,0,0,0
+Dearborn,0015 KELSO 1,Attorney General,,1,REP,Todd ROKITA,314,216,98
+Dearborn,0015 KELSO 1,Attorney General,,1,DEM,Destiny WELLS,45,29,16
+Dearborn,0015 KELSO 1,U.S. House,9,1,REP,Erin HOUCHIN,313,218,95
+Dearborn,0015 KELSO 1,U.S. House,9,1,DEM,Timothy (Tim) PECK,40,22,18
+Dearborn,0015 KELSO 1,U.S. House,9,1,LBT,Russell (Russ) BROOKSBANK,6,3,3
+Dearborn,0015 KELSO 1,U.S. House,9,1,,Write-In,0,0,0
+Dearborn,0015 KELSO 1,State House,68,1,REP,Garret R. BASCOM,307,210,97
+Dearborn,0015 KELSO 1,State House,68,1,DEM,Lisa BARKER,52,33,19
+Dearborn,0015 KELSO 1,Judge of the Superior Court No. 2,,1,REP,Sally A. McLAUGHLIN,336,232,104
+Dearborn,0015 KELSO 1,Circuit Court Clerk,,1,REP,Wendy BEATTY,336,232,104
+Dearborn,0015 KELSO 1,County Treasurer,,1,REP,Hayley M. HATFIELD,336,232,104
+Dearborn,0015 KELSO 1,County Coroner,,1,REP,Cameron McCREARY,338,234,104
+Dearborn,0015 KELSO 1,County Surveyor,,1,REP,Dennis KRAUS JR,340,234,106
+Dearborn,0015 KELSO 1,County Commissioner,1,1,REP,Jim THATCHER,327,226,101
+Dearborn,0015 KELSO 1,County Commissioner,2,1,REP,Duane BISCHOFF,326,228,98
+Dearborn,0015 KELSO 1,County Council,,3,,Mark G. DOLE,299,206,93
+Dearborn,0015 KELSO 1,County Council,,3,,Tim DOLL,263,184,79
+Dearborn,0015 KELSO 1,County Council,,3,,Glenn D. WRIGHT,277,197,80
+Dearborn,0015 KELSO 1,County Council,,3,,Hunter COLLINS,37,25,12
+Dearborn,0015 KELSO 1,County Council,,3,,Dawn VICTOR,37,24,13
+Dearborn,0015 KELSO 1,Community School Corp,2 Sunman-Dearborn,1,,Robert S. DAVIS,285,202,83
+Dearborn,0015 KELSO 1,Community School Corp,7 Sunman-Dearborn,1,,James D. (Jamie) GRAF,293,206,87
+Dearborn,0015 KELSO 1,IN Supreme Court-Rush,,,,Yes,251,179,72
+Dearborn,0015 KELSO 1,IN Supreme Court-Rush,,,,No,54,38,16
+Dearborn,0015 KELSO 1,IN Supreme Court-Massa,,,,Yes,256,184,72
+Dearborn,0015 KELSO 1,IN Supreme Court-Massa,,,,No,46,32,14
+Dearborn,0015 KELSO 1,IN Supreme Court-Molter,,,,Yes,255,185,70
+Dearborn,0015 KELSO 1,IN Supreme Court-Molter,,,,No,45,31,14
+Dearborn,0015 KELSO 1,Court of Appeals Dist 1-Foley,,,,Yes,255,182,73
+Dearborn,0015 KELSO 1,Court of Appeals Dist 1-Foley,,,,No,44,31,13
+Dearborn,0015 KELSO 1,Court of Appeals Dist 4-Pyle III,,,,Yes,247,176,71
+Dearborn,0015 KELSO 1,Court of Appeals Dist 4-Pyle III,,,,No,50,36,14
+Dearborn,0016 KELSO 2,Registered Voters,,,,,585,,
+Dearborn,0016 KELSO 2,Ballots Cast,,,,,434,287,147
+Dearborn,0016 KELSO 2,Public Question-Const Amendment,,,,Yes,224,145,79
+Dearborn,0016 KELSO 2,Public Question-Const Amendment,,,,No,165,120,45
+Dearborn,0016 KELSO 2,Straight Party,,,REP,Republican,253,167,86
+Dearborn,0016 KELSO 2,Straight Party,,,DEM,Democratic,34,19,15
+Dearborn,0016 KELSO 2,Straight Party,,,LBT,Libertarian,0,0,0
+Dearborn,0016 KELSO 2,Straight Party,,,WTP,We The People,1,1,0
+Dearborn,0016 KELSO 2,President,,1,REP,Donald J. TRUMP / JD VANCE,351,232,119
+Dearborn,0016 KELSO 2,President,,1,DEM,Kamala D. HARRIS / Tim WALZ,75,48,27
+Dearborn,0016 KELSO 2,President,,1,LBT,Chase OLIVER / Mike terr MAAT,3,3,0
+Dearborn,0016 KELSO 2,President,,1,WTP,Robert F. KENNEDY JR. / Nichole SHANAHAN,1,1,0
+Dearborn,0016 KELSO 2,President,,1,,Write-In,1,0,1
+Dearborn,0016 KELSO 2,U.S. Senate,,1,REP,Jim BANKS,352,236,116
+Dearborn,0016 KELSO 2,U.S. Senate,,1,DEM,Valerie McCRAY,72,46,26
+Dearborn,0016 KELSO 2,U.S. Senate,,1,LBT,Andrew HORNING,5,2,3
+Dearborn,0016 KELSO 2,U.S. Senate,,1,,Write-In,0,0,0
+Dearborn,0016 KELSO 2,Governor,,1,REP,Mike BRAUN / Micah BECKWITH,347,229,118
+Dearborn,0016 KELSO 2,Governor,,1,DEM,Jennifer G. McCORMICK / Terry GOODIN,73,48,25
+Dearborn,0016 KELSO 2,Governor,,1,LBT,Donald RAINWATER / Tonya HUDSON,10,7,3
+Dearborn,0016 KELSO 2,Governor,,1,,Write-In,0,0,0
+Dearborn,0016 KELSO 2,Attorney General,,1,REP,Todd ROKITA,361,241,120
+Dearborn,0016 KELSO 2,Attorney General,,1,DEM,Destiny WELLS,68,42,26
+Dearborn,0016 KELSO 2,U.S. House,9,1,REP,Erin HOUCHIN,360,239,121
+Dearborn,0016 KELSO 2,U.S. House,9,1,DEM,Timothy (Tim) PECK,65,41,24
+Dearborn,0016 KELSO 2,U.S. House,9,1,LBT,Russell (Russ) BROOKSBANK,7,5,2
+Dearborn,0016 KELSO 2,U.S. House,9,1,,Write-In,0,0,0
+Dearborn,0016 KELSO 2,State House,68,1,REP,Garret R. BASCOM,351,231,120
+Dearborn,0016 KELSO 2,State House,68,1,DEM,Lisa BARKER,77,51,26
+Dearborn,0016 KELSO 2,Judge of the Superior Court No. 2,,1,REP,Sally A. McLAUGHLIN,398,267,131
+Dearborn,0016 KELSO 2,Circuit Court Clerk,,1,REP,Wendy BEATTY,393,265,128
+Dearborn,0016 KELSO 2,County Treasurer,,1,REP,Hayley M. HATFIELD,395,267,128
+Dearborn,0016 KELSO 2,County Coroner,,1,REP,Cameron McCREARY,400,270,130
+Dearborn,0016 KELSO 2,County Surveyor,,1,REP,Dennis KRAUS JR,401,269,132
+Dearborn,0016 KELSO 2,County Commissioner,1,1,REP,Jim THATCHER,394,265,129
+Dearborn,0016 KELSO 2,County Commissioner,2,1,REP,Duane BISCHOFF,392,261,131
+Dearborn,0016 KELSO 2,County Council,,3,,Mark G. DOLE,338,228,110
+Dearborn,0016 KELSO 2,County Council,,3,,Tim DOLL,333,222,111
+Dearborn,0016 KELSO 2,County Council,,3,,Glenn D. WRIGHT,309,208,101
+Dearborn,0016 KELSO 2,County Council,,3,,Hunter COLLINS,61,38,23
+Dearborn,0016 KELSO 2,County Council,,3,,Dawn VICTOR,58,40,18
+Dearborn,0016 KELSO 2,Community School Corp,2 Sunman-Dearborn,1,,Robert S. DAVIS,343,233,110
+Dearborn,0016 KELSO 2,Community School Corp,7 Sunman-Dearborn,1,,James D. (Jamie) GRAF,356,244,112
+Dearborn,0016 KELSO 2,IN Supreme Court-Rush,,,,Yes,298,200,98
+Dearborn,0016 KELSO 2,IN Supreme Court-Rush,,,,No,57,37,20
+Dearborn,0016 KELSO 2,IN Supreme Court-Massa,,,,Yes,294,199,95
+Dearborn,0016 KELSO 2,IN Supreme Court-Massa,,,,No,59,36,23
+Dearborn,0016 KELSO 2,IN Supreme Court-Molter,,,,Yes,290,196,94
+Dearborn,0016 KELSO 2,IN Supreme Court-Molter,,,,No,60,37,23
+Dearborn,0016 KELSO 2,Court of Appeals Dist 1-Foley,,,,Yes,293,205,88
+Dearborn,0016 KELSO 2,Court of Appeals Dist 1-Foley,,,,No,54,29,25
+Dearborn,0016 KELSO 2,Court of Appeals Dist 4-Pyle III,,,,Yes,287,200,87
+Dearborn,0016 KELSO 2,Court of Appeals Dist 4-Pyle III,,,,No,57,30,27
+Dearborn,0017 KELSO 3,Registered Voters,,,,,947,,
+Dearborn,0017 KELSO 3,Ballots Cast,,,,,695,447,248
+Dearborn,0017 KELSO 3,Public Question-Const Amendment,,,,Yes,353,243,110
+Dearborn,0017 KELSO 3,Public Question-Const Amendment,,,,No,302,184,118
+Dearborn,0017 KELSO 3,Straight Party,,,REP,Republican,388,263,125
+Dearborn,0017 KELSO 3,Straight Party,,,DEM,Democratic,41,13,28
+Dearborn,0017 KELSO 3,Straight Party,,,LBT,Libertarian,1,1,0
+Dearborn,0017 KELSO 3,Straight Party,,,WTP,We The People,0,0,0
+Dearborn,0017 KELSO 3,President,,1,REP,Donald J. TRUMP / JD VANCE,592,399,193
+Dearborn,0017 KELSO 3,President,,1,DEM,Kamala D. HARRIS / Tim WALZ,97,44,53
+Dearborn,0017 KELSO 3,President,,1,LBT,Chase OLIVER / Mike terr MAAT,1,1,0
+Dearborn,0017 KELSO 3,President,,1,WTP,Robert F. KENNEDY JR. / Nichole SHANAHAN,0,0,0
+Dearborn,0017 KELSO 3,President,,1,,Write-In,3,2,1
+Dearborn,0017 KELSO 3,U.S. Senate,,1,REP,Jim BANKS,577,389,188
+Dearborn,0017 KELSO 3,U.S. Senate,,1,DEM,Valerie McCRAY,96,41,55
+Dearborn,0017 KELSO 3,U.S. Senate,,1,LBT,Andrew HORNING,12,10,2
+Dearborn,0017 KELSO 3,U.S. Senate,,1,,Write-In,1,0,1
+Dearborn,0017 KELSO 3,Governor,,1,REP,Mike BRAUN / Micah BECKWITH,557,372,185
+Dearborn,0017 KELSO 3,Governor,,1,DEM,Jennifer G. McCORMICK / Terry GOODIN,109,50,59
+Dearborn,0017 KELSO 3,Governor,,1,LBT,Donald RAINWATER / Tonya HUDSON,22,19,3
+Dearborn,0017 KELSO 3,Governor,,1,,Write-In,0,0,0
+Dearborn,0017 KELSO 3,Attorney General,,1,REP,Todd ROKITA,589,398,191
+Dearborn,0017 KELSO 3,Attorney General,,1,DEM,Destiny WELLS,92,38,54
+Dearborn,0017 KELSO 3,U.S. House,9,1,REP,Erin HOUCHIN,587,396,191
+Dearborn,0017 KELSO 3,U.S. House,9,1,DEM,Timothy (Tim) PECK,85,35,50
+Dearborn,0017 KELSO 3,U.S. House,9,1,LBT,Russell (Russ) BROOKSBANK,12,9,3
+Dearborn,0017 KELSO 3,U.S. House,9,1,,Write-In,0,0,0
+Dearborn,0017 KELSO 3,State House,68,1,REP,Garret R. BASCOM,585,390,195
+Dearborn,0017 KELSO 3,State House,68,1,DEM,Lisa BARKER,100,48,52
+Dearborn,0017 KELSO 3,Judge of the Superior Court No. 2,,1,REP,Sally A. McLAUGHLIN,648,427,221
+Dearborn,0017 KELSO 3,Circuit Court Clerk,,1,REP,Wendy BEATTY,641,427,214
+Dearborn,0017 KELSO 3,County Treasurer,,1,REP,Hayley M. HATFIELD,643,426,217
+Dearborn,0017 KELSO 3,County Coroner,,1,REP,Cameron McCREARY,644,427,217
+Dearborn,0017 KELSO 3,County Surveyor,,1,REP,Dennis KRAUS JR,656,429,227
+Dearborn,0017 KELSO 3,County Commissioner,1,1,REP,Jim THATCHER,634,423,211
+Dearborn,0017 KELSO 3,County Commissioner,2,1,REP,Duane BISCHOFF,647,427,220
+Dearborn,0017 KELSO 3,County Council,,3,,Mark G. DOLE,537,368,169
+Dearborn,0017 KELSO 3,County Council,,3,,Tim DOLL,541,366,175
+Dearborn,0017 KELSO 3,County Council,,3,,Glenn D. WRIGHT,568,378,190
+Dearborn,0017 KELSO 3,County Council,,3,,Hunter COLLINS,85,42,43
+Dearborn,0017 KELSO 3,County Council,,3,,Dawn VICTOR,81,37,44
+Dearborn,0017 KELSO 3,Community School Corp,2 Sunman-Dearborn,1,,Robert S. DAVIS,546,365,181
+Dearborn,0017 KELSO 3,Community School Corp,7 Sunman-Dearborn,1,,James D. (Jamie) GRAF,582,384,198
+Dearborn,0017 KELSO 3,IN Supreme Court-Rush,,,,Yes,472,314,158
+Dearborn,0017 KELSO 3,IN Supreme Court-Rush,,,,No,105,66,39
+Dearborn,0017 KELSO 3,IN Supreme Court-Massa,,,,Yes,472,313,159
+Dearborn,0017 KELSO 3,IN Supreme Court-Massa,,,,No,104,67,37
+Dearborn,0017 KELSO 3,IN Supreme Court-Molter,,,,Yes,474,313,161
+Dearborn,0017 KELSO 3,IN Supreme Court-Molter,,,,No,94,59,35
+Dearborn,0017 KELSO 3,Court of Appeals Dist 1-Foley,,,,Yes,476,318,158
+Dearborn,0017 KELSO 3,Court of Appeals Dist 1-Foley,,,,No,94,58,36
+Dearborn,0017 KELSO 3,Court of Appeals Dist 4-Pyle III,,,,Yes,470,312,158
+Dearborn,0017 KELSO 3,Court of Appeals Dist 4-Pyle III,,,,No,102,66,36
+Dearborn,0018 LAWRENCEBURG 1,Registered Voters,,,,,1055,,
+Dearborn,0018 LAWRENCEBURG 1,Ballots Cast,,,,,507,271,236
+Dearborn,0018 LAWRENCEBURG 1,Public Question-Const Amendment,,,,Yes,240,147,93
+Dearborn,0018 LAWRENCEBURG 1,Public Question-Const Amendment,,,,No,202,104,98
+Dearborn,0018 LAWRENCEBURG 1,Straight Party,,,REP,Republican,241,140,101
+Dearborn,0018 LAWRENCEBURG 1,Straight Party,,,DEM,Democratic,101,36,65
+Dearborn,0018 LAWRENCEBURG 1,Straight Party,,,LBT,Libertarian,1,0,1
+Dearborn,0018 LAWRENCEBURG 1,Straight Party,,,WTP,We The People,2,0,2
+Dearborn,0018 LAWRENCEBURG 1,President,,1,REP,Donald J. TRUMP / JD VANCE,330,198,132
+Dearborn,0018 LAWRENCEBURG 1,President,,1,DEM,Kamala D. HARRIS / Tim WALZ,158,66,92
+Dearborn,0018 LAWRENCEBURG 1,President,,1,LBT,Chase OLIVER / Mike terr MAAT,5,2,3
+Dearborn,0018 LAWRENCEBURG 1,President,,1,WTP,Robert F. KENNEDY JR. / Nichole SHANAHAN,7,3,4
+Dearborn,0018 LAWRENCEBURG 1,President,,1,,Write-In,2,1,1
+Dearborn,0018 LAWRENCEBURG 1,U.S. Senate,,1,REP,Jim BANKS,310,182,128
+Dearborn,0018 LAWRENCEBURG 1,U.S. Senate,,1,DEM,Valerie McCRAY,171,72,99
+Dearborn,0018 LAWRENCEBURG 1,U.S. Senate,,1,LBT,Andrew HORNING,17,10,7
+Dearborn,0018 LAWRENCEBURG 1,U.S. Senate,,1,,Write-In,0,0,0
+Dearborn,0018 LAWRENCEBURG 1,Governor,,1,REP,Mike BRAUN / Micah BECKWITH,306,183,123
+Dearborn,0018 LAWRENCEBURG 1,Governor,,1,DEM,Jennifer G. McCORMICK / Terry GOODIN,163,74,89
+Dearborn,0018 LAWRENCEBURG 1,Governor,,1,LBT,Donald RAINWATER / Tonya HUDSON,16,8,8
+Dearborn,0018 LAWRENCEBURG 1,Governor,,1,,Write-In,0,0,0
+Dearborn,0018 LAWRENCEBURG 1,Attorney General,,1,REP,Todd ROKITA,321,191,130
+Dearborn,0018 LAWRENCEBURG 1,Attorney General,,1,DEM,Destiny WELLS,160,71,89
+Dearborn,0018 LAWRENCEBURG 1,U.S. House,9,1,REP,Erin HOUCHIN,313,183,130
+Dearborn,0018 LAWRENCEBURG 1,U.S. House,9,1,DEM,Timothy (Tim) PECK,159,63,96
+Dearborn,0018 LAWRENCEBURG 1,U.S. House,9,1,LBT,Russell (Russ) BROOKSBANK,24,18,6
+Dearborn,0018 LAWRENCEBURG 1,U.S. House,9,1,,Write-In,0,0,0
+Dearborn,0018 LAWRENCEBURG 1,State House,68,1,REP,Garret R. BASCOM,315,183,132
+Dearborn,0018 LAWRENCEBURG 1,State House,68,1,DEM,Lisa BARKER,167,80,87
+Dearborn,0018 LAWRENCEBURG 1,Judge of the Superior Court No. 2,,1,REP,Sally A. McLAUGHLIN,414,239,175
+Dearborn,0018 LAWRENCEBURG 1,Circuit Court Clerk,,1,REP,Wendy BEATTY,421,242,179
+Dearborn,0018 LAWRENCEBURG 1,County Treasurer,,1,REP,Hayley M. HATFIELD,412,241,171
+Dearborn,0018 LAWRENCEBURG 1,County Coroner,,1,REP,Cameron McCREARY,417,242,175
+Dearborn,0018 LAWRENCEBURG 1,County Surveyor,,1,REP,Dennis KRAUS JR,417,241,176
+Dearborn,0018 LAWRENCEBURG 1,County Commissioner,1,1,REP,Jim THATCHER,410,237,173
+Dearborn,0018 LAWRENCEBURG 1,County Commissioner,2,1,REP,Duane BISCHOFF,415,240,175
+Dearborn,0018 LAWRENCEBURG 1,County Council,,3,,Mark G. DOLE,293,168,125
+Dearborn,0018 LAWRENCEBURG 1,County Council,,3,,Tim DOLL,291,175,116
+Dearborn,0018 LAWRENCEBURG 1,County Council,,3,,Glenn D. WRIGHT,277,161,116
+Dearborn,0018 LAWRENCEBURG 1,County Council,,3,,Hunter COLLINS,137,65,72
+Dearborn,0018 LAWRENCEBURG 1,County Council,,3,,Dawn VICTOR,145,72,73
+Dearborn,0018 LAWRENCEBURG 1,Community School Corp,1 Lawrenceburg,2,,Fayla NANZ,310,177,133
+Dearborn,0018 LAWRENCEBURG 1,Community School Corp,1 Lawrenceburg,2,,Regina K. RYBOLT,344,195,149
+Dearborn,0018 LAWRENCEBURG 1,Community School Corp,2 Lawrenceburg,1,,Robert (Bob) MILLER,383,217,166
+Dearborn,0018 LAWRENCEBURG 1,IN Supreme Court-Rush,,,,Yes,322,177,145
+Dearborn,0018 LAWRENCEBURG 1,IN Supreme Court-Rush,,,,No,105,58,47
+Dearborn,0018 LAWRENCEBURG 1,IN Supreme Court-Massa,,,,Yes,318,176,142
+Dearborn,0018 LAWRENCEBURG 1,IN Supreme Court-Massa,,,,No,105,54,51
+Dearborn,0018 LAWRENCEBURG 1,IN Supreme Court-Molter,,,,Yes,318,177,141
+Dearborn,0018 LAWRENCEBURG 1,IN Supreme Court-Molter,,,,No,103,51,52
+Dearborn,0018 LAWRENCEBURG 1,Court of Appeals Dist 1-Foley,,,,Yes,319,175,144
+Dearborn,0018 LAWRENCEBURG 1,Court of Appeals Dist 1-Foley,,,,No,98,52,46
+Dearborn,0018 LAWRENCEBURG 1,Court of Appeals Dist 4-Pyle III,,,,Yes,306,166,140
+Dearborn,0018 LAWRENCEBURG 1,Court of Appeals Dist 4-Pyle III,,,,No,111,61,50
+Dearborn,0019 LAWRENCEBURG 2,Registered Voters,,,,,778,,
+Dearborn,0019 LAWRENCEBURG 2,Ballots Cast,,,,,358,197,161
+Dearborn,0019 LAWRENCEBURG 2,Public Question-Const Amendment,,,,Yes,192,113,79
+Dearborn,0019 LAWRENCEBURG 2,Public Question-Const Amendment,,,,No,140,71,69
+Dearborn,0019 LAWRENCEBURG 2,Straight Party,,,REP,Republican,160,90,70
+Dearborn,0019 LAWRENCEBURG 2,Straight Party,,,DEM,Democratic,73,31,42
+Dearborn,0019 LAWRENCEBURG 2,Straight Party,,,LBT,Libertarian,1,1,0
+Dearborn,0019 LAWRENCEBURG 2,Straight Party,,,WTP,We The People,1,1,0
+Dearborn,0019 LAWRENCEBURG 2,President,,1,REP,Donald J. TRUMP / JD VANCE,229,137,92
+Dearborn,0019 LAWRENCEBURG 2,President,,1,DEM,Kamala D. HARRIS / Tim WALZ,122,54,68
+Dearborn,0019 LAWRENCEBURG 2,President,,1,LBT,Chase OLIVER / Mike terr MAAT,4,4,0
+Dearborn,0019 LAWRENCEBURG 2,President,,1,WTP,Robert F. KENNEDY JR. / Nichole SHANAHAN,2,1,1
+Dearborn,0019 LAWRENCEBURG 2,President,,1,,Write-In,1,1,0
+Dearborn,0019 LAWRENCEBURG 2,U.S. Senate,,1,REP,Jim BANKS,224,136,88
+Dearborn,0019 LAWRENCEBURG 2,U.S. Senate,,1,DEM,Valerie McCRAY,118,51,67
+Dearborn,0019 LAWRENCEBURG 2,U.S. Senate,,1,LBT,Andrew HORNING,10,8,2
+Dearborn,0019 LAWRENCEBURG 2,U.S. Senate,,1,,Write-In,0,0,0
+Dearborn,0019 LAWRENCEBURG 2,Governor,,1,REP,Mike BRAUN / Micah BECKWITH,214,129,85
+Dearborn,0019 LAWRENCEBURG 2,Governor,,1,DEM,Jennifer G. McCORMICK / Terry GOODIN,127,58,69
+Dearborn,0019 LAWRENCEBURG 2,Governor,,1,LBT,Donald RAINWATER / Tonya HUDSON,11,8,3
+Dearborn,0019 LAWRENCEBURG 2,Governor,,1,,Write-In,0,0,0
+Dearborn,0019 LAWRENCEBURG 2,Attorney General,,1,REP,Todd ROKITA,224,134,90
+Dearborn,0019 LAWRENCEBURG 2,Attorney General,,1,DEM,Destiny WELLS,129,61,68
+Dearborn,0019 LAWRENCEBURG 2,U.S. House,9,1,REP,Erin HOUCHIN,229,136,93
+Dearborn,0019 LAWRENCEBURG 2,U.S. House,9,1,DEM,Timothy (Tim) PECK,112,47,65
+Dearborn,0019 LAWRENCEBURG 2,U.S. House,9,1,LBT,Russell (Russ) BROOKSBANK,11,11,0
+Dearborn,0019 LAWRENCEBURG 2,U.S. House,9,1,,Write-In,0,0,0
+Dearborn,0019 LAWRENCEBURG 2,State House,68,1,REP,Garret R. BASCOM,227,134,93
+Dearborn,0019 LAWRENCEBURG 2,State House,68,1,DEM,Lisa BARKER,124,60,64
+Dearborn,0019 LAWRENCEBURG 2,Judge of the Superior Court No. 2,,1,REP,Sally A. McLAUGHLIN,301,173,128
+Dearborn,0019 LAWRENCEBURG 2,Circuit Court Clerk,,1,REP,Wendy BEATTY,301,174,127
+Dearborn,0019 LAWRENCEBURG 2,County Treasurer,,1,REP,Hayley M. HATFIELD,300,174,126
+Dearborn,0019 LAWRENCEBURG 2,County Coroner,,1,REP,Cameron McCREARY,301,173,128
+Dearborn,0019 LAWRENCEBURG 2,County Surveyor,,1,REP,Dennis KRAUS JR,302,174,128
+Dearborn,0019 LAWRENCEBURG 2,County Commissioner,1,1,REP,Jim THATCHER,297,170,127
+Dearborn,0019 LAWRENCEBURG 2,County Commissioner,2,1,REP,Duane BISCHOFF,299,174,125
+Dearborn,0019 LAWRENCEBURG 2,County Council,,3,,Mark G. DOLE,209,129,80
+Dearborn,0019 LAWRENCEBURG 2,County Council,,3,,Tim DOLL,196,124,72
+Dearborn,0019 LAWRENCEBURG 2,County Council,,3,,Glenn D. WRIGHT,203,118,85
+Dearborn,0019 LAWRENCEBURG 2,County Council,,3,,Hunter COLLINS,112,55,57
+Dearborn,0019 LAWRENCEBURG 2,County Council,,3,,Dawn VICTOR,112,53,59
+Dearborn,0019 LAWRENCEBURG 2,Community School Corp,1 Lawrenceburg,2,,Fayla NANZ,213,125,88
+Dearborn,0019 LAWRENCEBURG 2,Community School Corp,1 Lawrenceburg,2,,Regina K. RYBOLT,253,137,116
+Dearborn,0019 LAWRENCEBURG 2,Community School Corp,2 Lawrenceburg,1,,Robert (Bob) MILLER,283,160,123
+Dearborn,0019 LAWRENCEBURG 2,IN Supreme Court-Rush,,,,Yes,231,134,97
+Dearborn,0019 LAWRENCEBURG 2,IN Supreme Court-Rush,,,,No,76,39,37
+Dearborn,0019 LAWRENCEBURG 2,IN Supreme Court-Massa,,,,Yes,223,129,94
+Dearborn,0019 LAWRENCEBURG 2,IN Supreme Court-Massa,,,,No,80,43,37
+Dearborn,0019 LAWRENCEBURG 2,IN Supreme Court-Molter,,,,Yes,221,127,94
+Dearborn,0019 LAWRENCEBURG 2,IN Supreme Court-Molter,,,,No,80,42,38
+Dearborn,0019 LAWRENCEBURG 2,Court of Appeals Dist 1-Foley,,,,Yes,224,131,93
+Dearborn,0019 LAWRENCEBURG 2,Court of Appeals Dist 1-Foley,,,,No,75,38,37
+Dearborn,0019 LAWRENCEBURG 2,Court of Appeals Dist 4-Pyle III,,,,Yes,220,127,93
+Dearborn,0019 LAWRENCEBURG 2,Court of Appeals Dist 4-Pyle III,,,,No,79,41,38
+Dearborn,0020 LAWRENCEBURG 3,Registered Voters,,,,,1096,,
+Dearborn,0020 LAWRENCEBURG 3,Ballots Cast,,,,,691,287,404
+Dearborn,0020 LAWRENCEBURG 3,Public Question-Const Amendment,,,,Yes,361,140,221
+Dearborn,0020 LAWRENCEBURG 3,Public Question-Const Amendment,,,,No,287,131,156
+Dearborn,0020 LAWRENCEBURG 3,Straight Party,,,REP,Republican,359,148,211
+Dearborn,0020 LAWRENCEBURG 3,Straight Party,,,DEM,Democratic,70,32,38
+Dearborn,0020 LAWRENCEBURG 3,Straight Party,,,LBT,Libertarian,2,2,0
+Dearborn,0020 LAWRENCEBURG 3,Straight Party,,,WTP,We The People,2,2,0
+Dearborn,0020 LAWRENCEBURG 3,President,,1,REP,Donald J. TRUMP / JD VANCE,524,222,302
+Dearborn,0020 LAWRENCEBURG 3,President,,1,DEM,Kamala D. HARRIS / Tim WALZ,152,57,95
+Dearborn,0020 LAWRENCEBURG 3,President,,1,LBT,Chase OLIVER / Mike terr MAAT,5,3,2
+Dearborn,0020 LAWRENCEBURG 3,President,,1,WTP,Robert F. KENNEDY JR. / Nichole SHANAHAN,4,3,1
+Dearborn,0020 LAWRENCEBURG 3,President,,1,,Write-In,0,0,0
+Dearborn,0020 LAWRENCEBURG 3,U.S. Senate,,1,REP,Jim BANKS,521,221,300
+Dearborn,0020 LAWRENCEBURG 3,U.S. Senate,,1,DEM,Valerie McCRAY,147,55,92
+Dearborn,0020 LAWRENCEBURG 3,U.S. Senate,,1,LBT,Andrew HORNING,10,7,3
+Dearborn,0020 LAWRENCEBURG 3,U.S. Senate,,1,,Write-In,0,0,0
+Dearborn,0020 LAWRENCEBURG 3,Governor,,1,REP,Mike BRAUN / Micah BECKWITH,512,211,301
+Dearborn,0020 LAWRENCEBURG 3,Governor,,1,DEM,Jennifer G. McCORMICK / Terry GOODIN,152,64,88
+Dearborn,0020 LAWRENCEBURG 3,Governor,,1,LBT,Donald RAINWATER / Tonya HUDSON,18,10,8
+Dearborn,0020 LAWRENCEBURG 3,Governor,,1,,Write-In,1,0,1
+Dearborn,0020 LAWRENCEBURG 3,Attorney General,,1,REP,Todd ROKITA,529,223,306
+Dearborn,0020 LAWRENCEBURG 3,Attorney General,,1,DEM,Destiny WELLS,148,60,88
+Dearborn,0020 LAWRENCEBURG 3,U.S. House,9,1,REP,Erin HOUCHIN,533,228,305
+Dearborn,0020 LAWRENCEBURG 3,U.S. House,9,1,DEM,Timothy (Tim) PECK,133,50,83
+Dearborn,0020 LAWRENCEBURG 3,U.S. House,9,1,LBT,Russell (Russ) BROOKSBANK,7,4,3
+Dearborn,0020 LAWRENCEBURG 3,U.S. House,9,1,,Write-In,0,0,0
+Dearborn,0020 LAWRENCEBURG 3,State House,68,1,REP,Garret R. BASCOM,535,223,312
+Dearborn,0020 LAWRENCEBURG 3,State House,68,1,DEM,Lisa BARKER,149,62,87
+Dearborn,0020 LAWRENCEBURG 3,Judge of the Superior Court No. 2,,1,REP,Sally A. McLAUGHLIN,639,269,370
+Dearborn,0020 LAWRENCEBURG 3,Circuit Court Clerk,,1,REP,Wendy BEATTY,631,264,367
+Dearborn,0020 LAWRENCEBURG 3,County Treasurer,,1,REP,Hayley M. HATFIELD,628,264,364
+Dearborn,0020 LAWRENCEBURG 3,County Coroner,,1,REP,Cameron McCREARY,631,269,362
+Dearborn,0020 LAWRENCEBURG 3,County Surveyor,,1,REP,Dennis KRAUS JR,631,267,364
+Dearborn,0020 LAWRENCEBURG 3,County Commissioner,1,1,REP,Jim THATCHER,620,262,358
+Dearborn,0020 LAWRENCEBURG 3,County Commissioner,2,1,REP,Duane BISCHOFF,626,266,360
+Dearborn,0020 LAWRENCEBURG 3,County Council,,3,,Mark G. DOLE,475,202,273
+Dearborn,0020 LAWRENCEBURG 3,County Council,,3,,Tim DOLL,472,205,267
+Dearborn,0020 LAWRENCEBURG 3,County Council,,3,,Glenn D. WRIGHT,471,193,278
+Dearborn,0020 LAWRENCEBURG 3,County Council,,3,,Hunter COLLINS,140,59,81
+Dearborn,0020 LAWRENCEBURG 3,County Council,,3,,Dawn VICTOR,143,61,82
+Dearborn,0020 LAWRENCEBURG 3,Community School Corp,1 Lawrenceburg,2,,Fayla NANZ,489,213,276
+Dearborn,0020 LAWRENCEBURG 3,Community School Corp,1 Lawrenceburg,2,,Regina K. RYBOLT,470,212,258
+Dearborn,0020 LAWRENCEBURG 3,Community School Corp,2 Lawrenceburg,1,,Robert (Bob) MILLER,560,247,313
+Dearborn,0020 LAWRENCEBURG 3,IN Supreme Court-Rush,,,,Yes,473,208,265
+Dearborn,0020 LAWRENCEBURG 3,IN Supreme Court-Rush,,,,No,113,46,67
+Dearborn,0020 LAWRENCEBURG 3,IN Supreme Court-Massa,,,,Yes,469,205,264
+Dearborn,0020 LAWRENCEBURG 3,IN Supreme Court-Massa,,,,No,110,43,67
+Dearborn,0020 LAWRENCEBURG 3,IN Supreme Court-Molter,,,,Yes,479,212,267
+Dearborn,0020 LAWRENCEBURG 3,IN Supreme Court-Molter,,,,No,99,35,64
+Dearborn,0020 LAWRENCEBURG 3,Court of Appeals Dist 1-Foley,,,,Yes,491,218,273
+Dearborn,0020 LAWRENCEBURG 3,Court of Appeals Dist 1-Foley,,,,No,86,30,56
+Dearborn,0020 LAWRENCEBURG 3,Court of Appeals Dist 4-Pyle III,,,,Yes,483,212,271
+Dearborn,0020 LAWRENCEBURG 3,Court of Appeals Dist 4-Pyle III,,,,No,95,35,60
+Dearborn,0021 LAWRENCEBURG 4,Registered Voters,,,,,936,,
+Dearborn,0021 LAWRENCEBURG 4,Ballots Cast,,,,,509,230,279
+Dearborn,0021 LAWRENCEBURG 4,Public Question-Const Amendment,,,,Yes,222,112,110
+Dearborn,0021 LAWRENCEBURG 4,Public Question-Const Amendment,,,,No,224,105,119
+Dearborn,0021 LAWRENCEBURG 4,Straight Party,,,REP,Republican,230,120,110
+Dearborn,0021 LAWRENCEBURG 4,Straight Party,,,DEM,Democratic,73,29,44
+Dearborn,0021 LAWRENCEBURG 4,Straight Party,,,LBT,Libertarian,0,0,0
+Dearborn,0021 LAWRENCEBURG 4,Straight Party,,,WTP,We The People,2,0,2
+Dearborn,0021 LAWRENCEBURG 4,President,,1,REP,Donald J. TRUMP / JD VANCE,343,166,177
+Dearborn,0021 LAWRENCEBURG 4,President,,1,DEM,Kamala D. HARRIS / Tim WALZ,150,60,90
+Dearborn,0021 LAWRENCEBURG 4,President,,1,LBT,Chase OLIVER / Mike terr MAAT,1,1,0
+Dearborn,0021 LAWRENCEBURG 4,President,,1,WTP,Robert F. KENNEDY JR. / Nichole SHANAHAN,8,1,7
+Dearborn,0021 LAWRENCEBURG 4,President,,1,,Write-In,2,1,1
+Dearborn,0021 LAWRENCEBURG 4,U.S. Senate,,1,REP,Jim BANKS,340,165,175
+Dearborn,0021 LAWRENCEBURG 4,U.S. Senate,,1,DEM,Valerie McCRAY,143,54,89
+Dearborn,0021 LAWRENCEBURG 4,U.S. Senate,,1,LBT,Andrew HORNING,11,7,4
+Dearborn,0021 LAWRENCEBURG 4,U.S. Senate,,1,,Write-In,0,0,0
+Dearborn,0021 LAWRENCEBURG 4,Governor,,1,REP,Mike BRAUN / Micah BECKWITH,333,154,179
+Dearborn,0021 LAWRENCEBURG 4,Governor,,1,DEM,Jennifer G. McCORMICK / Terry GOODIN,147,61,86
+Dearborn,0021 LAWRENCEBURG 4,Governor,,1,LBT,Donald RAINWATER / Tonya HUDSON,19,12,7
+Dearborn,0021 LAWRENCEBURG 4,Governor,,1,,Write-In,0,0,0
+Dearborn,0021 LAWRENCEBURG 4,Attorney General,,1,REP,Todd ROKITA,354,170,184
+Dearborn,0021 LAWRENCEBURG 4,Attorney General,,1,DEM,Destiny WELLS,142,57,85
+Dearborn,0021 LAWRENCEBURG 4,U.S. House,9,1,REP,Erin HOUCHIN,347,166,181
+Dearborn,0021 LAWRENCEBURG 4,U.S. House,9,1,DEM,Timothy (Tim) PECK,144,52,92
+Dearborn,0021 LAWRENCEBURG 4,U.S. House,9,1,LBT,Russell (Russ) BROOKSBANK,9,9,0
+Dearborn,0021 LAWRENCEBURG 4,U.S. House,9,1,,Write-In,1,1,0
+Dearborn,0021 LAWRENCEBURG 4,State House,68,1,REP,Garret R. BASCOM,355,175,180
+Dearborn,0021 LAWRENCEBURG 4,State House,68,1,DEM,Lisa BARKER,145,54,91
+Dearborn,0021 LAWRENCEBURG 4,Judge of the Superior Court No. 2,,1,REP,Sally A. McLAUGHLIN,447,211,236
+Dearborn,0021 LAWRENCEBURG 4,Circuit Court Clerk,,1,REP,Wendy BEATTY,441,210,231
+Dearborn,0021 LAWRENCEBURG 4,County Treasurer,,1,REP,Hayley M. HATFIELD,440,207,233
+Dearborn,0021 LAWRENCEBURG 4,County Coroner,,1,REP,Cameron McCREARY,446,209,237
+Dearborn,0021 LAWRENCEBURG 4,County Surveyor,,1,REP,Dennis KRAUS JR,448,211,237
+Dearborn,0021 LAWRENCEBURG 4,County Commissioner,1,1,REP,Jim THATCHER,437,209,228
+Dearborn,0021 LAWRENCEBURG 4,County Commissioner,2,1,REP,Duane BISCHOFF,440,209,231
+Dearborn,0021 LAWRENCEBURG 4,County Council,,3,,Mark G. DOLE,306,152,154
+Dearborn,0021 LAWRENCEBURG 4,County Council,,3,,Tim DOLL,318,161,157
+Dearborn,0021 LAWRENCEBURG 4,County Council,,3,,Glenn D. WRIGHT,312,151,161
+Dearborn,0021 LAWRENCEBURG 4,County Council,,3,,Hunter COLLINS,137,58,79
+Dearborn,0021 LAWRENCEBURG 4,County Council,,3,,Dawn VICTOR,132,51,81
+Dearborn,0021 LAWRENCEBURG 4,Community School Corp,1 Lawrenceburg,2,,Fayla NANZ,337,162,175
+Dearborn,0021 LAWRENCEBURG 4,Community School Corp,1 Lawrenceburg,2,,Regina K. RYBOLT,337,166,171
+Dearborn,0021 LAWRENCEBURG 4,Community School Corp,2 Lawrenceburg,1,,Robert (Bob) MILLER,400,192,208
+Dearborn,0021 LAWRENCEBURG 4,IN Supreme Court-Rush,,,,Yes,302,139,163
+Dearborn,0021 LAWRENCEBURG 4,IN Supreme Court-Rush,,,,No,113,56,57
+Dearborn,0021 LAWRENCEBURG 4,IN Supreme Court-Massa,,,,Yes,302,141,161
+Dearborn,0021 LAWRENCEBURG 4,IN Supreme Court-Massa,,,,No,107,51,56
+Dearborn,0021 LAWRENCEBURG 4,IN Supreme Court-Molter,,,,Yes,309,143,166
+Dearborn,0021 LAWRENCEBURG 4,IN Supreme Court-Molter,,,,No,103,50,53
+Dearborn,0021 LAWRENCEBURG 4,Court of Appeals Dist 1-Foley,,,,Yes,305,142,163
+Dearborn,0021 LAWRENCEBURG 4,Court of Appeals Dist 1-Foley,,,,No,102,50,52
+Dearborn,0021 LAWRENCEBURG 4,Court of Appeals Dist 4-Pyle III,,,,Yes,303,146,157
+Dearborn,0021 LAWRENCEBURG 4,Court of Appeals Dist 4-Pyle III,,,,No,103,48,55
+Dearborn,0022 GREENDALE 1,Registered Voters,,,,,696,,
+Dearborn,0022 GREENDALE 1,Ballots Cast,,,,,478,282,196
+Dearborn,0022 GREENDALE 1,Public Question-Const Amendment,,,,Yes,234,149,85
+Dearborn,0022 GREENDALE 1,Public Question-Const Amendment,,,,No,203,116,87
+Dearborn,0022 GREENDALE 1,Straight Party,,,REP,Republican,206,119,87
+Dearborn,0022 GREENDALE 1,Straight Party,,,DEM,Democratic,81,50,31
+Dearborn,0022 GREENDALE 1,Straight Party,,,LBT,Libertarian,1,1,0
+Dearborn,0022 GREENDALE 1,Straight Party,,,WTP,We The People,4,2,2
+Dearborn,0022 GREENDALE 1,President,,1,REP,Donald J. TRUMP / JD VANCE,313,187,126
+Dearborn,0022 GREENDALE 1,President,,1,DEM,Kamala D. HARRIS / Tim WALZ,155,88,67
+Dearborn,0022 GREENDALE 1,President,,1,LBT,Chase OLIVER / Mike terr MAAT,2,1,1
+Dearborn,0022 GREENDALE 1,President,,1,WTP,Robert F. KENNEDY JR. / Nichole SHANAHAN,4,4,0
+Dearborn,0022 GREENDALE 1,President,,1,,Write-In,0,0,0
+Dearborn,0022 GREENDALE 1,U.S. Senate,,1,REP,Jim BANKS,304,178,126
+Dearborn,0022 GREENDALE 1,U.S. Senate,,1,DEM,Valerie McCRAY,152,86,66
+Dearborn,0022 GREENDALE 1,U.S. Senate,,1,LBT,Andrew HORNING,11,10,1
+Dearborn,0022 GREENDALE 1,U.S. Senate,,1,,Write-In,1,1,0
+Dearborn,0022 GREENDALE 1,Governor,,1,REP,Mike BRAUN / Micah BECKWITH,296,175,121
+Dearborn,0022 GREENDALE 1,Governor,,1,DEM,Jennifer G. McCORMICK / Terry GOODIN,161,92,69
+Dearborn,0022 GREENDALE 1,Governor,,1,LBT,Donald RAINWATER / Tonya HUDSON,14,10,4
+Dearborn,0022 GREENDALE 1,Governor,,1,,Write-In,0,0,0
+Dearborn,0022 GREENDALE 1,Attorney General,,1,REP,Todd ROKITA,311,181,130
+Dearborn,0022 GREENDALE 1,Attorney General,,1,DEM,Destiny WELLS,157,94,63
+Dearborn,0022 GREENDALE 1,U.S. House,9,1,REP,Erin HOUCHIN,308,184,124
+Dearborn,0022 GREENDALE 1,U.S. House,9,1,DEM,Timothy (Tim) PECK,146,84,62
+Dearborn,0022 GREENDALE 1,U.S. House,9,1,LBT,Russell (Russ) BROOKSBANK,9,5,4
+Dearborn,0022 GREENDALE 1,U.S. House,9,1,,Write-In,1,1,0
+Dearborn,0022 GREENDALE 1,State House,68,1,REP,Garret R. BASCOM,319,190,129
+Dearborn,0022 GREENDALE 1,State House,68,1,DEM,Lisa BARKER,148,84,64
+Dearborn,0022 GREENDALE 1,Judge of the Superior Court No. 2,,1,REP,Sally A. McLAUGHLIN,420,248,172
+Dearborn,0022 GREENDALE 1,Circuit Court Clerk,,1,REP,Wendy BEATTY,417,246,171
+Dearborn,0022 GREENDALE 1,County Treasurer,,1,REP,Hayley M. HATFIELD,414,247,167
+Dearborn,0022 GREENDALE 1,County Coroner,,1,REP,Cameron McCREARY,419,251,168
+Dearborn,0022 GREENDALE 1,County Surveyor,,1,REP,Dennis KRAUS JR,419,248,171
+Dearborn,0022 GREENDALE 1,County Commissioner,1,1,REP,Jim THATCHER,410,243,167
+Dearborn,0022 GREENDALE 1,County Commissioner,2,1,REP,Duane BISCHOFF,407,244,163
+Dearborn,0022 GREENDALE 1,County Council,,3,,Mark G. DOLE,282,170,112
+Dearborn,0022 GREENDALE 1,County Council,,3,,Tim DOLL,291,176,115
+Dearborn,0022 GREENDALE 1,County Council,,3,,Glenn D. WRIGHT,279,171,108
+Dearborn,0022 GREENDALE 1,County Council,,3,,Hunter COLLINS,140,82,58
+Dearborn,0022 GREENDALE 1,County Council,,3,,Dawn VICTOR,149,89,60
+Dearborn,0022 GREENDALE 1,Community School Corp,1 Lawrenceburg,2,,Fayla NANZ,329,201,128
+Dearborn,0022 GREENDALE 1,Community School Corp,1 Lawrenceburg,2,,Regina K. RYBOLT,326,198,128
+Dearborn,0022 GREENDALE 1,Community School Corp,2 Lawrenceburg,1,,Robert (Bob) MILLER,384,230,154
+Dearborn,0022 GREENDALE 1,IN Supreme Court-Rush,,,,Yes,293,175,118
+Dearborn,0022 GREENDALE 1,IN Supreme Court-Rush,,,,No,111,64,47
+Dearborn,0022 GREENDALE 1,IN Supreme Court-Massa,,,,Yes,284,170,114
+Dearborn,0022 GREENDALE 1,IN Supreme Court-Massa,,,,No,113,65,48
+Dearborn,0022 GREENDALE 1,IN Supreme Court-Molter,,,,Yes,281,161,120
+Dearborn,0022 GREENDALE 1,IN Supreme Court-Molter,,,,No,113,71,42
+Dearborn,0022 GREENDALE 1,Court of Appeals Dist 1-Foley,,,,Yes,284,165,119
+Dearborn,0022 GREENDALE 1,Court of Appeals Dist 1-Foley,,,,No,111,69,42
+Dearborn,0022 GREENDALE 1,Court of Appeals Dist 4-Pyle III,,,,Yes,280,166,114
+Dearborn,0022 GREENDALE 1,Court of Appeals Dist 4-Pyle III,,,,No,113,67,46
+Dearborn,0023 GREENDALE 2,Registered Voters,,,,,735,,
+Dearborn,0023 GREENDALE 2,Ballots Cast,,,,,482,300,182
+Dearborn,0023 GREENDALE 2,Public Question-Const Amendment,,,,Yes,234,151,83
+Dearborn,0023 GREENDALE 2,Public Question-Const Amendment,,,,No,218,134,84
+Dearborn,0023 GREENDALE 2,Straight Party,,,REP,Republican,198,111,87
+Dearborn,0023 GREENDALE 2,Straight Party,,,DEM,Democratic,98,68,30
+Dearborn,0023 GREENDALE 2,Straight Party,,,LBT,Libertarian,1,0,1
+Dearborn,0023 GREENDALE 2,Straight Party,,,WTP,We The People,2,1,1
+Dearborn,0023 GREENDALE 2,President,,1,REP,Donald J. TRUMP / JD VANCE,304,182,122
+Dearborn,0023 GREENDALE 2,President,,1,DEM,Kamala D. HARRIS / Tim WALZ,168,110,58
+Dearborn,0023 GREENDALE 2,President,,1,LBT,Chase OLIVER / Mike terr MAAT,2,1,1
+Dearborn,0023 GREENDALE 2,President,,1,WTP,Robert F. KENNEDY JR. / Nichole SHANAHAN,7,6,1
+Dearborn,0023 GREENDALE 2,President,,1,,Write-In,0,0,0
+Dearborn,0023 GREENDALE 2,U.S. Senate,,1,REP,Jim BANKS,295,180,115
+Dearborn,0023 GREENDALE 2,U.S. Senate,,1,DEM,Valerie McCRAY,166,106,60
+Dearborn,0023 GREENDALE 2,U.S. Senate,,1,LBT,Andrew HORNING,12,6,6
+Dearborn,0023 GREENDALE 2,U.S. Senate,,1,,Write-In,0,0,0
+Dearborn,0023 GREENDALE 2,Governor,,1,REP,Mike BRAUN / Micah BECKWITH,285,168,117
+Dearborn,0023 GREENDALE 2,Governor,,1,DEM,Jennifer G. McCORMICK / Terry GOODIN,170,110,60
+Dearborn,0023 GREENDALE 2,Governor,,1,LBT,Donald RAINWATER / Tonya HUDSON,20,16,4
+Dearborn,0023 GREENDALE 2,Governor,,1,,Write-In,0,0,0
+Dearborn,0023 GREENDALE 2,Attorney General,,1,REP,Todd ROKITA,300,181,119
+Dearborn,0023 GREENDALE 2,Attorney General,,1,DEM,Destiny WELLS,173,111,62
+Dearborn,0023 GREENDALE 2,U.S. House,9,1,REP,Erin HOUCHIN,305,184,121
+Dearborn,0023 GREENDALE 2,U.S. House,9,1,DEM,Timothy (Tim) PECK,154,98,56
+Dearborn,0023 GREENDALE 2,U.S. House,9,1,LBT,Russell (Russ) BROOKSBANK,14,10,4
+Dearborn,0023 GREENDALE 2,U.S. House,9,1,,Write-In,0,0,0
+Dearborn,0023 GREENDALE 2,State House,68,1,REP,Garret R. BASCOM,308,189,119
+Dearborn,0023 GREENDALE 2,State House,68,1,DEM,Lisa BARKER,165,105,60
+Dearborn,0023 GREENDALE 2,Judge of the Superior Court No. 2,,1,REP,Sally A. McLAUGHLIN,412,255,157
+Dearborn,0023 GREENDALE 2,Circuit Court Clerk,,1,REP,Wendy BEATTY,409,252,157
+Dearborn,0023 GREENDALE 2,County Treasurer,,1,REP,Hayley M. HATFIELD,409,256,153
+Dearborn,0023 GREENDALE 2,County Coroner,,1,REP,Cameron McCREARY,410,258,152
+Dearborn,0023 GREENDALE 2,County Surveyor,,1,REP,Dennis KRAUS JR,410,256,154
+Dearborn,0023 GREENDALE 2,County Commissioner,1,1,REP,Jim THATCHER,405,251,154
+Dearborn,0023 GREENDALE 2,County Commissioner,2,1,REP,Duane BISCHOFF,405,250,155
+Dearborn,0023 GREENDALE 2,County Council,,3,,Mark G. DOLE,286,176,110
+Dearborn,0023 GREENDALE 2,County Council,,3,,Tim DOLL,312,192,120
+Dearborn,0023 GREENDALE 2,County Council,,3,,Glenn D. WRIGHT,280,178,102
+Dearborn,0023 GREENDALE 2,County Council,,3,,Hunter COLLINS,143,85,58
+Dearborn,0023 GREENDALE 2,County Council,,3,,Dawn VICTOR,144,89,55
+Dearborn,0023 GREENDALE 2,Community School Corp,1 Lawrenceburg,2,,Fayla NANZ,336,213,123
+Dearborn,0023 GREENDALE 2,Community School Corp,1 Lawrenceburg,2,,Regina K. RYBOLT,335,219,116
+Dearborn,0023 GREENDALE 2,Community School Corp,2 Lawrenceburg,1,,Robert (Bob) MILLER,402,254,148
+Dearborn,0023 GREENDALE 2,IN Supreme Court-Rush,,,,Yes,325,214,111
+Dearborn,0023 GREENDALE 2,IN Supreme Court-Rush,,,,No,93,53,40
+Dearborn,0023 GREENDALE 2,IN Supreme Court-Massa,,,,Yes,316,206,110
+Dearborn,0023 GREENDALE 2,IN Supreme Court-Massa,,,,No,96,57,39
+Dearborn,0023 GREENDALE 2,IN Supreme Court-Molter,,,,Yes,314,205,109
+Dearborn,0023 GREENDALE 2,IN Supreme Court-Molter,,,,No,100,59,41
+Dearborn,0023 GREENDALE 2,Court of Appeals Dist 1-Foley,,,,Yes,324,206,118
+Dearborn,0023 GREENDALE 2,Court of Appeals Dist 1-Foley,,,,No,90,58,32
+Dearborn,0023 GREENDALE 2,Court of Appeals Dist 4-Pyle III,,,,Yes,314,201,113
+Dearborn,0023 GREENDALE 2,Court of Appeals Dist 4-Pyle III,,,,No,99,63,36
+Dearborn,0024 GREENDALE 3,Registered Voters,,,,,736,,
+Dearborn,0024 GREENDALE 3,Ballots Cast,,,,,492,283,209
+Dearborn,0024 GREENDALE 3,Public Question-Const Amendment,,,,Yes,265,148,117
+Dearborn,0024 GREENDALE 3,Public Question-Const Amendment,,,,No,198,122,76
+Dearborn,0024 GREENDALE 3,Straight Party,,,REP,Republican,214,121,93
+Dearborn,0024 GREENDALE 3,Straight Party,,,DEM,Democratic,90,40,50
+Dearborn,0024 GREENDALE 3,Straight Party,,,LBT,Libertarian,1,1,0
+Dearborn,0024 GREENDALE 3,Straight Party,,,WTP,We The People,3,3,0
+Dearborn,0024 GREENDALE 3,President,,1,REP,Donald J. TRUMP / JD VANCE,326,201,125
+Dearborn,0024 GREENDALE 3,President,,1,DEM,Kamala D. HARRIS / Tim WALZ,150,71,79
+Dearborn,0024 GREENDALE 3,President,,1,LBT,Chase OLIVER / Mike terr MAAT,4,3,1
+Dearborn,0024 GREENDALE 3,President,,1,WTP,Robert F. KENNEDY JR. / Nichole SHANAHAN,9,8,1
+Dearborn,0024 GREENDALE 3,President,,1,,Write-In,1,0,1
+Dearborn,0024 GREENDALE 3,U.S. Senate,,1,REP,Jim BANKS,314,193,121
+Dearborn,0024 GREENDALE 3,U.S. Senate,,1,DEM,Valerie McCRAY,155,75,80
+Dearborn,0024 GREENDALE 3,U.S. Senate,,1,LBT,Andrew HORNING,13,11,2
+Dearborn,0024 GREENDALE 3,U.S. Senate,,1,,Write-In,0,0,0
+Dearborn,0024 GREENDALE 3,Governor,,1,REP,Mike BRAUN / Micah BECKWITH,306,189,117
+Dearborn,0024 GREENDALE 3,Governor,,1,DEM,Jennifer G. McCORMICK / Terry GOODIN,165,81,84
+Dearborn,0024 GREENDALE 3,Governor,,1,LBT,Donald RAINWATER / Tonya HUDSON,14,10,4
+Dearborn,0024 GREENDALE 3,Governor,,1,,Write-In,0,0,0
+Dearborn,0024 GREENDALE 3,Attorney General,,1,REP,Todd ROKITA,324,202,122
+Dearborn,0024 GREENDALE 3,Attorney General,,1,DEM,Destiny WELLS,158,77,81
+Dearborn,0024 GREENDALE 3,U.S. House,9,1,REP,Erin HOUCHIN,313,192,121
+Dearborn,0024 GREENDALE 3,U.S. House,9,1,DEM,Timothy (Tim) PECK,150,74,76
+Dearborn,0024 GREENDALE 3,U.S. House,9,1,LBT,Russell (Russ) BROOKSBANK,18,12,6
+Dearborn,0024 GREENDALE 3,U.S. House,9,1,,Write-In,0,0,0
+Dearborn,0024 GREENDALE 3,State House,68,1,REP,Garret R. BASCOM,331,204,127
+Dearborn,0024 GREENDALE 3,State House,68,1,DEM,Lisa BARKER,151,74,77
+Dearborn,0024 GREENDALE 3,Judge of the Superior Court No. 2,,1,REP,Sally A. McLAUGHLIN,419,257,162
+Dearborn,0024 GREENDALE 3,Circuit Court Clerk,,1,REP,Wendy BEATTY,407,249,158
+Dearborn,0024 GREENDALE 3,County Treasurer,,1,REP,Hayley M. HATFIELD,401,246,155
+Dearborn,0024 GREENDALE 3,County Coroner,,1,REP,Cameron McCREARY,414,255,159
+Dearborn,0024 GREENDALE 3,County Surveyor,,1,REP,Dennis KRAUS JR,412,250,162
+Dearborn,0024 GREENDALE 3,County Commissioner,1,1,REP,Jim THATCHER,406,248,158
+Dearborn,0024 GREENDALE 3,County Commissioner,2,1,REP,Duane BISCHOFF,410,251,159
+Dearborn,0024 GREENDALE 3,County Council,,3,,Mark G. DOLE,303,180,123
+Dearborn,0024 GREENDALE 3,County Council,,3,,Tim DOLL,312,194,118
+Dearborn,0024 GREENDALE 3,County Council,,3,,Glenn D. WRIGHT,290,172,118
+Dearborn,0024 GREENDALE 3,County Council,,3,,Hunter COLLINS,139,75,64
+Dearborn,0024 GREENDALE 3,County Council,,3,,Dawn VICTOR,131,70,61
+Dearborn,0024 GREENDALE 3,Community School Corp,1 Lawrenceburg,2,,Fayla NANZ,340,207,133
+Dearborn,0024 GREENDALE 3,Community School Corp,1 Lawrenceburg,2,,Regina K. RYBOLT,343,204,139
+Dearborn,0024 GREENDALE 3,Community School Corp,2 Lawrenceburg,1,,Robert (Bob) MILLER,395,237,158
+Dearborn,0024 GREENDALE 3,IN Supreme Court-Rush,,,,Yes,325,197,128
+Dearborn,0024 GREENDALE 3,IN Supreme Court-Rush,,,,No,100,46,54
+Dearborn,0024 GREENDALE 3,IN Supreme Court-Massa,,,,Yes,323,200,123
+Dearborn,0024 GREENDALE 3,IN Supreme Court-Massa,,,,No,94,38,56
+Dearborn,0024 GREENDALE 3,IN Supreme Court-Molter,,,,Yes,317,197,120
+Dearborn,0024 GREENDALE 3,IN Supreme Court-Molter,,,,No,100,42,58
+Dearborn,0024 GREENDALE 3,Court of Appeals Dist 1-Foley,,,,Yes,326,201,125
+Dearborn,0024 GREENDALE 3,Court of Appeals Dist 1-Foley,,,,No,89,39,50
+Dearborn,0024 GREENDALE 3,Court of Appeals Dist 4-Pyle III,,,,Yes,313,190,123
+Dearborn,0024 GREENDALE 3,Court of Appeals Dist 4-Pyle III,,,,No,97,46,51
+Dearborn,0025 GREENDALE 4,Registered Voters,,,,,708,,
+Dearborn,0025 GREENDALE 4,Ballots Cast,,,,,479,291,188
+Dearborn,0025 GREENDALE 4,Public Question-Const Amendment,,,,Yes,246,153,93
+Dearborn,0025 GREENDALE 4,Public Question-Const Amendment,,,,No,201,125,76
+Dearborn,0025 GREENDALE 4,Straight Party,,,REP,Republican,188,111,77
+Dearborn,0025 GREENDALE 4,Straight Party,,,DEM,Democratic,68,35,33
+Dearborn,0025 GREENDALE 4,Straight Party,,,LBT,Libertarian,0,0,0
+Dearborn,0025 GREENDALE 4,Straight Party,,,WTP,We The People,1,1,0
+Dearborn,0025 GREENDALE 4,President,,1,REP,Donald J. TRUMP / JD VANCE,311,193,118
+Dearborn,0025 GREENDALE 4,President,,1,DEM,Kamala D. HARRIS / Tim WALZ,153,85,68
+Dearborn,0025 GREENDALE 4,President,,1,LBT,Chase OLIVER / Mike terr MAAT,1,1,0
+Dearborn,0025 GREENDALE 4,President,,1,WTP,Robert F. KENNEDY JR. / Nichole SHANAHAN,9,8,1
+Dearborn,0025 GREENDALE 4,President,,1,,Write-In,1,1,0
+Dearborn,0025 GREENDALE 4,U.S. Senate,,1,REP,Jim BANKS,304,186,118
+Dearborn,0025 GREENDALE 4,U.S. Senate,,1,DEM,Valerie McCRAY,156,91,65
+Dearborn,0025 GREENDALE 4,U.S. Senate,,1,LBT,Andrew HORNING,9,8,1
+Dearborn,0025 GREENDALE 4,U.S. Senate,,1,,Write-In,0,0,0
+Dearborn,0025 GREENDALE 4,Governor,,1,REP,Mike BRAUN / Micah BECKWITH,288,180,108
+Dearborn,0025 GREENDALE 4,Governor,,1,DEM,Jennifer G. McCORMICK / Terry GOODIN,164,93,71
+Dearborn,0025 GREENDALE 4,Governor,,1,LBT,Donald RAINWATER / Tonya HUDSON,15,8,7
+Dearborn,0025 GREENDALE 4,Governor,,1,,Write-In,0,0,0
+Dearborn,0025 GREENDALE 4,Attorney General,,1,REP,Todd ROKITA,315,194,121
+Dearborn,0025 GREENDALE 4,Attorney General,,1,DEM,Destiny WELLS,148,85,63
+Dearborn,0025 GREENDALE 4,U.S. House,9,1,REP,Erin HOUCHIN,314,193,121
+Dearborn,0025 GREENDALE 4,U.S. House,9,1,DEM,Timothy (Tim) PECK,135,75,60
+Dearborn,0025 GREENDALE 4,U.S. House,9,1,LBT,Russell (Russ) BROOKSBANK,14,11,3
+Dearborn,0025 GREENDALE 4,U.S. House,9,1,,Write-In,0,0,0
+Dearborn,0025 GREENDALE 4,State House,68,1,REP,Garret R. BASCOM,330,205,125
+Dearborn,0025 GREENDALE 4,State House,68,1,DEM,Lisa BARKER,138,77,61
+Dearborn,0025 GREENDALE 4,Judge of the Superior Court No. 2,,1,REP,Sally A. McLAUGHLIN,433,263,170
+Dearborn,0025 GREENDALE 4,Circuit Court Clerk,,1,REP,Wendy BEATTY,420,259,161
+Dearborn,0025 GREENDALE 4,County Treasurer,,1,REP,Hayley M. HATFIELD,420,258,162
+Dearborn,0025 GREENDALE 4,County Coroner,,1,REP,Cameron McCREARY,425,261,164
+Dearborn,0025 GREENDALE 4,County Surveyor,,1,REP,Dennis KRAUS JR,426,264,162
+Dearborn,0025 GREENDALE 4,County Commissioner,1,1,REP,Jim THATCHER,424,261,163
+Dearborn,0025 GREENDALE 4,County Commissioner,2,1,REP,Duane BISCHOFF,416,257,159
+Dearborn,0025 GREENDALE 4,County Council,,3,,Mark G. DOLE,292,184,108
+Dearborn,0025 GREENDALE 4,County Council,,3,,Tim DOLL,315,200,115
+Dearborn,0025 GREENDALE 4,County Council,,3,,Glenn D. WRIGHT,286,170,116
+Dearborn,0025 GREENDALE 4,County Council,,3,,Hunter COLLINS,127,70,57
+Dearborn,0025 GREENDALE 4,County Council,,3,,Dawn VICTOR,141,85,56
+Dearborn,0025 GREENDALE 4,Community School Corp,1 Lawrenceburg,2,,Fayla NANZ,339,208,131
+Dearborn,0025 GREENDALE 4,Community School Corp,1 Lawrenceburg,2,,Regina K. RYBOLT,335,206,129
+Dearborn,0025 GREENDALE 4,Community School Corp,2 Lawrenceburg,1,,Robert (Bob) MILLER,388,241,147
+Dearborn,0025 GREENDALE 4,IN Supreme Court-Rush,,,,Yes,318,195,123
+Dearborn,0025 GREENDALE 4,IN Supreme Court-Rush,,,,No,92,55,37
+Dearborn,0025 GREENDALE 4,IN Supreme Court-Massa,,,,Yes,301,187,114
+Dearborn,0025 GREENDALE 4,IN Supreme Court-Massa,,,,No,97,58,39
+Dearborn,0025 GREENDALE 4,IN Supreme Court-Molter,,,,Yes,303,186,117
+Dearborn,0025 GREENDALE 4,IN Supreme Court-Molter,,,,No,95,59,36
+Dearborn,0025 GREENDALE 4,Court of Appeals Dist 1-Foley,,,,Yes,305,186,119
+Dearborn,0025 GREENDALE 4,Court of Appeals Dist 1-Foley,,,,No,93,60,33
+Dearborn,0025 GREENDALE 4,Court of Appeals Dist 4-Pyle III,,,,Yes,304,187,117
+Dearborn,0025 GREENDALE 4,Court of Appeals Dist 4-Pyle III,,,,No,92,56,36
+Dearborn,0026 GREENDALE 5,Registered Voters,,,,,761,,
+Dearborn,0026 GREENDALE 5,Ballots Cast,,,,,509,235,274
+Dearborn,0026 GREENDALE 5,Public Question-Const Amendment,,,,Yes,275,128,147
+Dearborn,0026 GREENDALE 5,Public Question-Const Amendment,,,,No,194,87,107
+Dearborn,0026 GREENDALE 5,Straight Party,,,REP,Republican,223,104,119
+Dearborn,0026 GREENDALE 5,Straight Party,,,DEM,Democratic,57,16,41
+Dearborn,0026 GREENDALE 5,Straight Party,,,LBT,Libertarian,0,0,0
+Dearborn,0026 GREENDALE 5,Straight Party,,,WTP,We The People,5,3,2
+Dearborn,0026 GREENDALE 5,President,,1,REP,Donald J. TRUMP / JD VANCE,379,186,193
+Dearborn,0026 GREENDALE 5,President,,1,DEM,Kamala D. HARRIS / Tim WALZ,117,39,78
+Dearborn,0026 GREENDALE 5,President,,1,LBT,Chase OLIVER / Mike terr MAAT,3,3,0
+Dearborn,0026 GREENDALE 5,President,,1,WTP,Robert F. KENNEDY JR. / Nichole SHANAHAN,6,4,2
+Dearborn,0026 GREENDALE 5,President,,1,,Write-In,3,2,1
+Dearborn,0026 GREENDALE 5,U.S. Senate,,1,REP,Jim BANKS,358,174,184
+Dearborn,0026 GREENDALE 5,U.S. Senate,,1,DEM,Valerie McCRAY,117,43,74
+Dearborn,0026 GREENDALE 5,U.S. Senate,,1,LBT,Andrew HORNING,15,7,8
+Dearborn,0026 GREENDALE 5,U.S. Senate,,1,,Write-In,0,0,0
+Dearborn,0026 GREENDALE 5,Governor,,1,REP,Mike BRAUN / Micah BECKWITH,363,177,186
+Dearborn,0026 GREENDALE 5,Governor,,1,DEM,Jennifer G. McCORMICK / Terry GOODIN,122,45,77
+Dearborn,0026 GREENDALE 5,Governor,,1,LBT,Donald RAINWATER / Tonya HUDSON,11,7,4
+Dearborn,0026 GREENDALE 5,Governor,,1,,Write-In,0,0,0
+Dearborn,0026 GREENDALE 5,Attorney General,,1,REP,Todd ROKITA,374,182,192
+Dearborn,0026 GREENDALE 5,Attorney General,,1,DEM,Destiny WELLS,117,43,74
+Dearborn,0026 GREENDALE 5,U.S. House,9,1,REP,Erin HOUCHIN,368,178,190
+Dearborn,0026 GREENDALE 5,U.S. House,9,1,DEM,Timothy (Tim) PECK,107,35,72
+Dearborn,0026 GREENDALE 5,U.S. House,9,1,LBT,Russell (Russ) BROOKSBANK,19,13,6
+Dearborn,0026 GREENDALE 5,U.S. House,9,1,,Write-In,0,0,0
+Dearborn,0026 GREENDALE 5,State House,68,1,REP,Garret R. BASCOM,384,185,199
+Dearborn,0026 GREENDALE 5,State House,68,1,DEM,Lisa BARKER,109,40,69
+Dearborn,0026 GREENDALE 5,Judge of the Superior Court No. 2,,1,REP,Sally A. McLAUGHLIN,437,205,232
+Dearborn,0026 GREENDALE 5,Circuit Court Clerk,,1,REP,Wendy BEATTY,428,203,225
+Dearborn,0026 GREENDALE 5,County Treasurer,,1,REP,Hayley M. HATFIELD,430,205,225
+Dearborn,0026 GREENDALE 5,County Coroner,,1,REP,Cameron McCREARY,432,202,230
+Dearborn,0026 GREENDALE 5,County Surveyor,,1,REP,Dennis KRAUS JR,425,201,224
+Dearborn,0026 GREENDALE 5,County Commissioner,1,1,REP,Jim THATCHER,420,200,220
+Dearborn,0026 GREENDALE 5,County Commissioner,2,1,REP,Duane BISCHOFF,415,196,219
+Dearborn,0026 GREENDALE 5,County Council,,3,,Mark G. DOLE,351,172,179
+Dearborn,0026 GREENDALE 5,County Council,,3,,Tim DOLL,351,171,180
+Dearborn,0026 GREENDALE 5,County Council,,3,,Glenn D. WRIGHT,315,146,169
+Dearborn,0026 GREENDALE 5,County Council,,3,,Hunter COLLINS,111,41,70
+Dearborn,0026 GREENDALE 5,County Council,,3,,Dawn VICTOR,106,40,66
+Dearborn,0026 GREENDALE 5,Community School Corp,1 Lawrenceburg,2,,Fayla NANZ,318,150,168
+Dearborn,0026 GREENDALE 5,Community School Corp,1 Lawrenceburg,2,,Regina K. RYBOLT,303,150,153
+Dearborn,0026 GREENDALE 5,Community School Corp,2 Lawrenceburg,1,,Robert (Bob) MILLER,370,170,200
+Dearborn,0026 GREENDALE 5,IN Supreme Court-Rush,,,,Yes,316,145,171
+Dearborn,0026 GREENDALE 5,IN Supreme Court-Rush,,,,No,92,48,44
+Dearborn,0026 GREENDALE 5,IN Supreme Court-Massa,,,,Yes,316,145,171
+Dearborn,0026 GREENDALE 5,IN Supreme Court-Massa,,,,No,93,47,46
+Dearborn,0026 GREENDALE 5,IN Supreme Court-Molter,,,,Yes,305,143,162
+Dearborn,0026 GREENDALE 5,IN Supreme Court-Molter,,,,No,95,46,49
+Dearborn,0026 GREENDALE 5,Court of Appeals Dist 1-Foley,,,,Yes,303,145,158
+Dearborn,0026 GREENDALE 5,Court of Appeals Dist 1-Foley,,,,No,91,43,48
+Dearborn,0026 GREENDALE 5,Court of Appeals Dist 4-Pyle III,,,,Yes,299,139,160
+Dearborn,0026 GREENDALE 5,Court of Appeals Dist 4-Pyle III,,,,No,91,48,43
+Dearborn,0027 LAWRENCEBURG 8,Registered Voters,,,,,355,,
+Dearborn,0027 LAWRENCEBURG 8,Ballots Cast,,,,,261,146,115
+Dearborn,0027 LAWRENCEBURG 8,Public Question-Const Amendment,,,,Yes,136,73,63
+Dearborn,0027 LAWRENCEBURG 8,Public Question-Const Amendment,,,,No,111,64,47
+Dearborn,0027 LAWRENCEBURG 8,Straight Party,,,REP,Republican,142,84,58
+Dearborn,0027 LAWRENCEBURG 8,Straight Party,,,DEM,Democratic,35,20,15
+Dearborn,0027 LAWRENCEBURG 8,Straight Party,,,LBT,Libertarian,0,0,0
+Dearborn,0027 LAWRENCEBURG 8,Straight Party,,,WTP,We The People,0,0,0
+Dearborn,0027 LAWRENCEBURG 8,President,,1,REP,Donald J. TRUMP / JD VANCE,184,105,79
+Dearborn,0027 LAWRENCEBURG 8,President,,1,DEM,Kamala D. HARRIS / Tim WALZ,72,37,35
+Dearborn,0027 LAWRENCEBURG 8,President,,1,LBT,Chase OLIVER / Mike terr MAAT,1,1,0
+Dearborn,0027 LAWRENCEBURG 8,President,,1,WTP,Robert F. KENNEDY JR. / Nichole SHANAHAN,3,3,0
+Dearborn,0027 LAWRENCEBURG 8,President,,1,,Write-In,0,0,0
+Dearborn,0027 LAWRENCEBURG 8,U.S. Senate,,1,REP,Jim BANKS,187,107,80
+Dearborn,0027 LAWRENCEBURG 8,U.S. Senate,,1,DEM,Valerie McCRAY,66,32,34
+Dearborn,0027 LAWRENCEBURG 8,U.S. Senate,,1,LBT,Andrew HORNING,5,4,1
+Dearborn,0027 LAWRENCEBURG 8,U.S. Senate,,1,,Write-In,0,0,0
+Dearborn,0027 LAWRENCEBURG 8,Governor,,1,REP,Mike BRAUN / Micah BECKWITH,183,108,75
+Dearborn,0027 LAWRENCEBURG 8,Governor,,1,DEM,Jennifer G. McCORMICK / Terry GOODIN,70,32,38
+Dearborn,0027 LAWRENCEBURG 8,Governor,,1,LBT,Donald RAINWATER / Tonya HUDSON,5,4,1
+Dearborn,0027 LAWRENCEBURG 8,Governor,,1,,Write-In,0,0,0
+Dearborn,0027 LAWRENCEBURG 8,Attorney General,,1,REP,Todd ROKITA,194,111,83
+Dearborn,0027 LAWRENCEBURG 8,Attorney General,,1,DEM,Destiny WELLS,65,33,32
+Dearborn,0027 LAWRENCEBURG 8,U.S. House,9,1,REP,Erin HOUCHIN,187,106,81
+Dearborn,0027 LAWRENCEBURG 8,U.S. House,9,1,DEM,Timothy (Tim) PECK,64,31,33
+Dearborn,0027 LAWRENCEBURG 8,U.S. House,9,1,LBT,Russell (Russ) BROOKSBANK,6,6,0
+Dearborn,0027 LAWRENCEBURG 8,U.S. House,9,1,,Write-In,0,0,0
+Dearborn,0027 LAWRENCEBURG 8,State House,68,1,REP,Garret R. BASCOM,190,110,80
+Dearborn,0027 LAWRENCEBURG 8,State House,68,1,DEM,Lisa BARKER,67,34,33
+Dearborn,0027 LAWRENCEBURG 8,Judge of the Superior Court No. 2,,1,REP,Sally A. McLAUGHLIN,235,136,99
+Dearborn,0027 LAWRENCEBURG 8,Circuit Court Clerk,,1,REP,Wendy BEATTY,235,135,100
+Dearborn,0027 LAWRENCEBURG 8,County Treasurer,,1,REP,Hayley M. HATFIELD,234,136,98
+Dearborn,0027 LAWRENCEBURG 8,County Coroner,,1,REP,Cameron McCREARY,233,135,98
+Dearborn,0027 LAWRENCEBURG 8,County Surveyor,,1,REP,Dennis KRAUS JR,232,135,97
+Dearborn,0027 LAWRENCEBURG 8,County Commissioner,1,1,REP,Jim THATCHER,228,132,96
+Dearborn,0027 LAWRENCEBURG 8,County Commissioner,2,1,REP,Duane BISCHOFF,229,134,95
+Dearborn,0027 LAWRENCEBURG 8,County Council,,3,,Mark G. DOLE,177,103,74
+Dearborn,0027 LAWRENCEBURG 8,County Council,,3,,Tim DOLL,184,106,78
+Dearborn,0027 LAWRENCEBURG 8,County Council,,3,,Glenn D. WRIGHT,172,96,76
+Dearborn,0027 LAWRENCEBURG 8,County Council,,3,,Hunter COLLINS,62,36,26
+Dearborn,0027 LAWRENCEBURG 8,County Council,,3,,Dawn VICTOR,60,29,31
+Dearborn,0027 LAWRENCEBURG 8,Community School Corp,1 Lawrenceburg,2,,Fayla NANZ,153,86,67
+Dearborn,0027 LAWRENCEBURG 8,Community School Corp,1 Lawrenceburg,2,,Regina K. RYBOLT,181,104,77
+Dearborn,0027 LAWRENCEBURG 8,Community School Corp,2 Lawrenceburg,1,,Robert (Bob) MILLER,195,118,77
+Dearborn,0027 LAWRENCEBURG 8,IN Supreme Court-Rush,,,,Yes,179,97,82
+Dearborn,0027 LAWRENCEBURG 8,IN Supreme Court-Rush,,,,No,44,26,18
+Dearborn,0027 LAWRENCEBURG 8,IN Supreme Court-Massa,,,,Yes,172,96,76
+Dearborn,0027 LAWRENCEBURG 8,IN Supreme Court-Massa,,,,No,48,28,20
+Dearborn,0027 LAWRENCEBURG 8,IN Supreme Court-Molter,,,,Yes,177,100,77
+Dearborn,0027 LAWRENCEBURG 8,IN Supreme Court-Molter,,,,No,42,23,19
+Dearborn,0027 LAWRENCEBURG 8,Court of Appeals Dist 1-Foley,,,,Yes,171,101,70
+Dearborn,0027 LAWRENCEBURG 8,Court of Appeals Dist 1-Foley,,,,No,47,23,24
+Dearborn,0027 LAWRENCEBURG 8,Court of Appeals Dist 4-Pyle III,,,,Yes,167,99,68
+Dearborn,0027 LAWRENCEBURG 8,Court of Appeals Dist 4-Pyle III,,,,No,52,25,27
+Dearborn,0028 LAWRENCEBURG 9,Registered Voters,,,,,893,,
+Dearborn,0028 LAWRENCEBURG 9,Ballots Cast,,,,,585,320,265
+Dearborn,0028 LAWRENCEBURG 9,Public Question-Const Amendment,,,,Yes,289,151,138
+Dearborn,0028 LAWRENCEBURG 9,Public Question-Const Amendment,,,,No,241,141,100
+Dearborn,0028 LAWRENCEBURG 9,Straight Party,,,REP,Republican,299,153,146
+Dearborn,0028 LAWRENCEBURG 9,Straight Party,,,DEM,Democratic,58,24,34
+Dearborn,0028 LAWRENCEBURG 9,Straight Party,,,LBT,Libertarian,0,0,0
+Dearborn,0028 LAWRENCEBURG 9,Straight Party,,,WTP,We The People,1,1,0
+Dearborn,0028 LAWRENCEBURG 9,President,,1,REP,Donald J. TRUMP / JD VANCE,466,259,207
+Dearborn,0028 LAWRENCEBURG 9,President,,1,DEM,Kamala D. HARRIS / Tim WALZ,110,52,58
+Dearborn,0028 LAWRENCEBURG 9,President,,1,LBT,Chase OLIVER / Mike terr MAAT,2,2,0
+Dearborn,0028 LAWRENCEBURG 9,President,,1,WTP,Robert F. KENNEDY JR. / Nichole SHANAHAN,3,3,0
+Dearborn,0028 LAWRENCEBURG 9,President,,1,,Write-In,0,0,0
+Dearborn,0028 LAWRENCEBURG 9,U.S. Senate,,1,REP,Jim BANKS,449,247,202
+Dearborn,0028 LAWRENCEBURG 9,U.S. Senate,,1,DEM,Valerie McCRAY,103,49,54
+Dearborn,0028 LAWRENCEBURG 9,U.S. Senate,,1,LBT,Andrew HORNING,17,12,5
+Dearborn,0028 LAWRENCEBURG 9,U.S. Senate,,1,,Write-In,0,0,0
+Dearborn,0028 LAWRENCEBURG 9,Governor,,1,REP,Mike BRAUN / Micah BECKWITH,436,239,197
+Dearborn,0028 LAWRENCEBURG 9,Governor,,1,DEM,Jennifer G. McCORMICK / Terry GOODIN,119,61,58
+Dearborn,0028 LAWRENCEBURG 9,Governor,,1,LBT,Donald RAINWATER / Tonya HUDSON,19,10,9
+Dearborn,0028 LAWRENCEBURG 9,Governor,,1,,Write-In,0,0,0
+Dearborn,0028 LAWRENCEBURG 9,Attorney General,,1,REP,Todd ROKITA,460,251,209
+Dearborn,0028 LAWRENCEBURG 9,Attorney General,,1,DEM,Destiny WELLS,107,54,53
+Dearborn,0028 LAWRENCEBURG 9,U.S. House,9,1,REP,Erin HOUCHIN,454,248,206
+Dearborn,0028 LAWRENCEBURG 9,U.S. House,9,1,DEM,Timothy (Tim) PECK,101,50,51
+Dearborn,0028 LAWRENCEBURG 9,U.S. House,9,1,LBT,Russell (Russ) BROOKSBANK,17,11,6
+Dearborn,0028 LAWRENCEBURG 9,U.S. House,9,1,,Write-In,0,0,0
+Dearborn,0028 LAWRENCEBURG 9,State House,68,1,REP,Garret R. BASCOM,466,253,213
+Dearborn,0028 LAWRENCEBURG 9,State House,68,1,DEM,Lisa BARKER,106,55,51
+Dearborn,0028 LAWRENCEBURG 9,Judge of the Superior Court No. 2,,1,REP,Sally A. McLAUGHLIN,528,293,235
+Dearborn,0028 LAWRENCEBURG 9,Circuit Court Clerk,,1,REP,Wendy BEATTY,533,297,236
+Dearborn,0028 LAWRENCEBURG 9,County Treasurer,,1,REP,Hayley M. HATFIELD,534,293,241
+Dearborn,0028 LAWRENCEBURG 9,County Coroner,,1,REP,Cameron McCREARY,530,292,238
+Dearborn,0028 LAWRENCEBURG 9,County Surveyor,,1,REP,Dennis KRAUS JR,529,292,237
+Dearborn,0028 LAWRENCEBURG 9,County Commissioner,1,1,REP,Jim THATCHER,521,284,237
+Dearborn,0028 LAWRENCEBURG 9,County Commissioner,2,1,REP,Duane BISCHOFF,532,292,240
+Dearborn,0028 LAWRENCEBURG 9,County Council,,3,,Mark G. DOLE,410,217,193
+Dearborn,0028 LAWRENCEBURG 9,County Council,,3,,Tim DOLL,422,234,188
+Dearborn,0028 LAWRENCEBURG 9,County Council,,3,,Glenn D. WRIGHT,402,223,179
+Dearborn,0028 LAWRENCEBURG 9,County Council,,3,,Hunter COLLINS,111,62,49
+Dearborn,0028 LAWRENCEBURG 9,County Council,,3,,Dawn VICTOR,114,60,54
+Dearborn,0028 LAWRENCEBURG 9,Community School Corp,1 Lawrenceburg,2,,Fayla NANZ,388,211,177
+Dearborn,0028 LAWRENCEBURG 9,Community School Corp,1 Lawrenceburg,2,,Regina K. RYBOLT,383,206,177
+Dearborn,0028 LAWRENCEBURG 9,Community School Corp,2 Lawrenceburg,1,,Robert (Bob) MILLER,466,253,213
+Dearborn,0028 LAWRENCEBURG 9,IN Supreme Court-Rush,,,,Yes,393,212,181
+Dearborn,0028 LAWRENCEBURG 9,IN Supreme Court-Rush,,,,No,102,51,51
+Dearborn,0028 LAWRENCEBURG 9,IN Supreme Court-Massa,,,,Yes,383,204,179
+Dearborn,0028 LAWRENCEBURG 9,IN Supreme Court-Massa,,,,No,97,48,49
+Dearborn,0028 LAWRENCEBURG 9,IN Supreme Court-Molter,,,,Yes,387,208,179
+Dearborn,0028 LAWRENCEBURG 9,IN Supreme Court-Molter,,,,No,94,44,50
+Dearborn,0028 LAWRENCEBURG 9,Court of Appeals Dist 1-Foley,,,,Yes,383,201,182
+Dearborn,0028 LAWRENCEBURG 9,Court of Appeals Dist 1-Foley,,,,No,92,46,46
+Dearborn,0028 LAWRENCEBURG 9,Court of Appeals Dist 4-Pyle III,,,,Yes,377,202,175
+Dearborn,0028 LAWRENCEBURG 9,Court of Appeals Dist 4-Pyle III,,,,No,99,47,52
+Dearborn,0029 LOGAN 1,Registered Voters,,,,,1749,,
+Dearborn,0029 LOGAN 1,Ballots Cast,,,,,1282,622,660
+Dearborn,0029 LOGAN 1,Public Question-Const Amendment,,,,Yes,662,323,339
+Dearborn,0029 LOGAN 1,Public Question-Const Amendment,,,,No,521,263,258
+Dearborn,0029 LOGAN 1,Straight Party,,,REP,Republican,797,379,418
+Dearborn,0029 LOGAN 1,Straight Party,,,DEM,Democratic,82,34,48
+Dearborn,0029 LOGAN 1,Straight Party,,,LBT,Libertarian,2,1,1
+Dearborn,0029 LOGAN 1,Straight Party,,,WTP,We The People,1,0,1
+Dearborn,0029 LOGAN 1,President,,1,REP,Donald J. TRUMP / JD VANCE,1071,521,550
+Dearborn,0029 LOGAN 1,President,,1,DEM,Kamala D. HARRIS / Tim WALZ,183,85,98
+Dearborn,0029 LOGAN 1,President,,1,LBT,Chase OLIVER / Mike terr MAAT,9,6,3
+Dearborn,0029 LOGAN 1,President,,1,WTP,Robert F. KENNEDY JR. / Nichole SHANAHAN,9,4,5
+Dearborn,0029 LOGAN 1,President,,1,,Write-In,3,2,1
+Dearborn,0029 LOGAN 1,U.S. Senate,,1,REP,Jim BANKS,1078,529,549
+Dearborn,0029 LOGAN 1,U.S. Senate,,1,DEM,Valerie McCRAY,168,74,94
+Dearborn,0029 LOGAN 1,U.S. Senate,,1,LBT,Andrew HORNING,19,11,8
+Dearborn,0029 LOGAN 1,U.S. Senate,,1,,Write-In,0,0,0
+Dearborn,0029 LOGAN 1,Governor,,1,REP,Mike BRAUN / Micah BECKWITH,1047,508,539
+Dearborn,0029 LOGAN 1,Governor,,1,DEM,Jennifer G. McCORMICK / Terry GOODIN,178,76,102
+Dearborn,0029 LOGAN 1,Governor,,1,LBT,Donald RAINWATER / Tonya HUDSON,40,29,11
+Dearborn,0029 LOGAN 1,Governor,,1,,Write-In,1,1,0
+Dearborn,0029 LOGAN 1,Attorney General,,1,REP,Todd ROKITA,1087,537,550
+Dearborn,0029 LOGAN 1,Attorney General,,1,DEM,Destiny WELLS,174,74,100
+Dearborn,0029 LOGAN 1,U.S. House,9,1,REP,Erin HOUCHIN,1079,532,547
+Dearborn,0029 LOGAN 1,U.S. House,9,1,DEM,Timothy (Tim) PECK,156,67,89
+Dearborn,0029 LOGAN 1,U.S. House,9,1,LBT,Russell (Russ) BROOKSBANK,26,12,14
+Dearborn,0029 LOGAN 1,U.S. House,9,1,,Write-In,1,0,1
+Dearborn,0029 LOGAN 1,State House,68,1,REP,Garret R. BASCOM,1085,537,548
+Dearborn,0029 LOGAN 1,State House,68,1,DEM,Lisa BARKER,172,74,98
+Dearborn,0029 LOGAN 1,Judge of the Superior Court No. 2,,1,REP,Sally A. McLAUGHLIN,1191,584,607
+Dearborn,0029 LOGAN 1,Circuit Court Clerk,,1,REP,Wendy BEATTY,1188,586,602
+Dearborn,0029 LOGAN 1,County Treasurer,,1,REP,Hayley M. HATFIELD,1192,588,604
+Dearborn,0029 LOGAN 1,County Coroner,,1,REP,Cameron McCREARY,1196,589,607
+Dearborn,0029 LOGAN 1,County Surveyor,,1,REP,Dennis KRAUS JR,1200,590,610
+Dearborn,0029 LOGAN 1,County Commissioner,1,1,REP,Jim THATCHER,1185,586,599
+Dearborn,0029 LOGAN 1,County Commissioner,2,1,REP,Duane BISCHOFF,1184,579,605
+Dearborn,0029 LOGAN 1,County Council,,3,,Mark G. DOLE,1031,512,519
+Dearborn,0029 LOGAN 1,County Council,,3,,Tim DOLL,1041,529,512
+Dearborn,0029 LOGAN 1,County Council,,3,,Glenn D. WRIGHT,955,475,480
+Dearborn,0029 LOGAN 1,County Council,,3,,Hunter COLLINS,161,77,84
+Dearborn,0029 LOGAN 1,County Council,,3,,Dawn VICTOR,158,67,91
+Dearborn,0029 LOGAN 1,Community School Corp,2 Sunman-Dearborn,1,,Robert S. DAVIS,1023,529,494
+Dearborn,0029 LOGAN 1,Community School Corp,7 Sunman-Dearborn,1,,James D. (Jamie) GRAF,1068,550,518
+Dearborn,0029 LOGAN 1,IN Supreme Court-Rush,,,,Yes,898,459,439
+Dearborn,0029 LOGAN 1,IN Supreme Court-Rush,,,,No,172,83,89
+Dearborn,0029 LOGAN 1,IN Supreme Court-Massa,,,,Yes,900,458,442
+Dearborn,0029 LOGAN 1,IN Supreme Court-Massa,,,,No,162,75,87
+Dearborn,0029 LOGAN 1,IN Supreme Court-Molter,,,,Yes,902,462,440
+Dearborn,0029 LOGAN 1,IN Supreme Court-Molter,,,,No,153,68,85
+Dearborn,0029 LOGAN 1,Court of Appeals Dist 1-Foley,,,,Yes,911,455,456
+Dearborn,0029 LOGAN 1,Court of Appeals Dist 1-Foley,,,,No,141,71,70
+Dearborn,0029 LOGAN 1,Court of Appeals Dist 4-Pyle III,,,,Yes,895,455,440
+Dearborn,0029 LOGAN 1,Court of Appeals Dist 4-Pyle III,,,,No,154,71,83
+Dearborn,0030 LOGAN 2,Registered Voters,,,,,1597,,
+Dearborn,0030 LOGAN 2,Ballots Cast,,,,,1103,532,571
+Dearborn,0030 LOGAN 2,Public Question-Const Amendment,,,,Yes,611,291,320
+Dearborn,0030 LOGAN 2,Public Question-Const Amendment,,,,No,411,211,200
+Dearborn,0030 LOGAN 2,Straight Party,,,REP,Republican,676,314,362
+Dearborn,0030 LOGAN 2,Straight Party,,,DEM,Democratic,67,29,38
+Dearborn,0030 LOGAN 2,Straight Party,,,LBT,Libertarian,1,1,0
+Dearborn,0030 LOGAN 2,Straight Party,,,WTP,We The People,2,2,0
+Dearborn,0030 LOGAN 2,President,,1,REP,Donald J. TRUMP / JD VANCE,923,448,475
+Dearborn,0030 LOGAN 2,President,,1,DEM,Kamala D. HARRIS / Tim WALZ,148,67,81
+Dearborn,0030 LOGAN 2,President,,1,LBT,Chase OLIVER / Mike terr MAAT,7,5,2
+Dearborn,0030 LOGAN 2,President,,1,WTP,Robert F. KENNEDY JR. / Nichole SHANAHAN,11,7,4
+Dearborn,0030 LOGAN 2,President,,1,,Write-In,5,2,3
+Dearborn,0030 LOGAN 2,U.S. Senate,,1,REP,Jim BANKS,916,440,476
+Dearborn,0030 LOGAN 2,U.S. Senate,,1,DEM,Valerie McCRAY,144,67,77
+Dearborn,0030 LOGAN 2,U.S. Senate,,1,LBT,Andrew HORNING,19,14,5
+Dearborn,0030 LOGAN 2,U.S. Senate,,1,,Write-In,0,0,0
+Dearborn,0030 LOGAN 2,Governor,,1,REP,Mike BRAUN / Micah BECKWITH,902,428,474
+Dearborn,0030 LOGAN 2,Governor,,1,DEM,Jennifer G. McCORMICK / Terry GOODIN,149,75,74
+Dearborn,0030 LOGAN 2,Governor,,1,LBT,Donald RAINWATER / Tonya HUDSON,32,20,12
+Dearborn,0030 LOGAN 2,Governor,,1,,Write-In,0,0,0
+Dearborn,0030 LOGAN 2,Attorney General,,1,REP,Todd ROKITA,923,445,478
+Dearborn,0030 LOGAN 2,Attorney General,,1,DEM,Destiny WELLS,153,73,80
+Dearborn,0030 LOGAN 2,U.S. House,9,1,REP,Erin HOUCHIN,921,438,483
+Dearborn,0030 LOGAN 2,U.S. House,9,1,DEM,Timothy (Tim) PECK,128,59,69
+Dearborn,0030 LOGAN 2,U.S. House,9,1,LBT,Russell (Russ) BROOKSBANK,26,19,7
+Dearborn,0030 LOGAN 2,U.S. House,9,1,,Write-In,0,0,0
+Dearborn,0030 LOGAN 2,State House,68,1,REP,Garret R. BASCOM,928,447,481
+Dearborn,0030 LOGAN 2,State House,68,1,DEM,Lisa BARKER,148,72,76
+Dearborn,0030 LOGAN 2,Judge of the Superior Court No. 2,,1,REP,Sally A. McLAUGHLIN,1008,494,514
+Dearborn,0030 LOGAN 2,Circuit Court Clerk,,1,REP,Wendy BEATTY,1007,493,514
+Dearborn,0030 LOGAN 2,County Treasurer,,1,REP,Hayley M. HATFIELD,1010,495,515
+Dearborn,0030 LOGAN 2,County Coroner,,1,REP,Cameron McCREARY,1013,497,516
+Dearborn,0030 LOGAN 2,County Surveyor,,1,REP,Dennis KRAUS JR,1021,503,518
+Dearborn,0030 LOGAN 2,County Commissioner,1,1,REP,Jim THATCHER,1013,497,516
+Dearborn,0030 LOGAN 2,County Commissioner,2,1,REP,Duane BISCHOFF,1009,499,510
+Dearborn,0030 LOGAN 2,County Council,,3,,Mark G. DOLE,866,410,456
+Dearborn,0030 LOGAN 2,County Council,,3,,Tim DOLL,874,427,447
+Dearborn,0030 LOGAN 2,County Council,,3,,Glenn D. WRIGHT,781,368,413
+Dearborn,0030 LOGAN 2,County Council,,3,,Hunter COLLINS,141,72,69
+Dearborn,0030 LOGAN 2,County Council,,3,,Dawn VICTOR,129,65,64
+Dearborn,0030 LOGAN 2,Community School Corp,7 Sunman-Dearborn,1,,James D. (Jamie) GRAF,889,440,449
+Dearborn,0030 LOGAN 2,IN Supreme Court-Rush,,,,Yes,786,383,403
+Dearborn,0030 LOGAN 2,IN Supreme Court-Rush,,,,No,135,61,74
+Dearborn,0030 LOGAN 2,IN Supreme Court-Massa,,,,Yes,799,391,408
+Dearborn,0030 LOGAN 2,IN Supreme Court-Massa,,,,No,125,55,70
+Dearborn,0030 LOGAN 2,IN Supreme Court-Molter,,,,Yes,791,382,409
+Dearborn,0030 LOGAN 2,IN Supreme Court-Molter,,,,No,119,56,63
+Dearborn,0030 LOGAN 2,Court of Appeals Dist 1-Foley,,,,Yes,798,383,415
+Dearborn,0030 LOGAN 2,Court of Appeals Dist 1-Foley,,,,No,117,58,59
+Dearborn,0030 LOGAN 2,Court of Appeals Dist 4-Pyle III,,,,Yes,768,369,399
+Dearborn,0030 LOGAN 2,Court of Appeals Dist 4-Pyle III,,,,No,141,68,73
+Dearborn,0031 MANCHESTER 1,Registered Voters,,,,,1153,,
+Dearborn,0031 MANCHESTER 1,Ballots Cast,,,,,791,431,360
+Dearborn,0031 MANCHESTER 1,Public Question-Const Amendment,,,,Yes,401,208,193
+Dearborn,0031 MANCHESTER 1,Public Question-Const Amendment,,,,No,338,206,132
+Dearborn,0031 MANCHESTER 1,Straight Party,,,REP,Republican,471,267,204
+Dearborn,0031 MANCHESTER 1,Straight Party,,,DEM,Democratic,78,29,49
+Dearborn,0031 MANCHESTER 1,Straight Party,,,LBT,Libertarian,2,2,0
+Dearborn,0031 MANCHESTER 1,Straight Party,,,WTP,We The People,1,1,0
+Dearborn,0031 MANCHESTER 1,President,,1,REP,Donald J. TRUMP / JD VANCE,640,360,280
+Dearborn,0031 MANCHESTER 1,President,,1,DEM,Kamala D. HARRIS / Tim WALZ,135,60,75
+Dearborn,0031 MANCHESTER 1,President,,1,LBT,Chase OLIVER / Mike terr MAAT,5,4,1
+Dearborn,0031 MANCHESTER 1,President,,1,WTP,Robert F. KENNEDY JR. / Nichole SHANAHAN,5,4,1
+Dearborn,0031 MANCHESTER 1,President,,1,,Write-In,0,0,0
+Dearborn,0031 MANCHESTER 1,U.S. Senate,,1,REP,Jim BANKS,638,359,279
+Dearborn,0031 MANCHESTER 1,U.S. Senate,,1,DEM,Valerie McCRAY,127,56,71
+Dearborn,0031 MANCHESTER 1,U.S. Senate,,1,LBT,Andrew HORNING,15,10,5
+Dearborn,0031 MANCHESTER 1,U.S. Senate,,1,,Write-In,0,0,0
+Dearborn,0031 MANCHESTER 1,Governor,,1,REP,Mike BRAUN / Micah BECKWITH,627,356,271
+Dearborn,0031 MANCHESTER 1,Governor,,1,DEM,Jennifer G. McCORMICK / Terry GOODIN,130,55,75
+Dearborn,0031 MANCHESTER 1,Governor,,1,LBT,Donald RAINWATER / Tonya HUDSON,24,15,9
+Dearborn,0031 MANCHESTER 1,Governor,,1,,Write-In,0,0,0
+Dearborn,0031 MANCHESTER 1,Attorney General,,1,REP,Todd ROKITA,654,371,283
+Dearborn,0031 MANCHESTER 1,Attorney General,,1,DEM,Destiny WELLS,125,54,71
+Dearborn,0031 MANCHESTER 1,U.S. House,9,1,REP,Erin HOUCHIN,639,357,282
+Dearborn,0031 MANCHESTER 1,U.S. House,9,1,DEM,Timothy (Tim) PECK,127,54,73
+Dearborn,0031 MANCHESTER 1,U.S. House,9,1,LBT,Russell (Russ) BROOKSBANK,17,15,2
+Dearborn,0031 MANCHESTER 1,U.S. House,9,1,,Write-In,0,0,0
+Dearborn,0031 MANCHESTER 1,State House,68,1,REP,Garret R. BASCOM,656,373,283
+Dearborn,0031 MANCHESTER 1,State House,68,1,DEM,Lisa BARKER,126,52,74
+Dearborn,0031 MANCHESTER 1,Judge of the Superior Court No. 2,,1,REP,Sally A. McLAUGHLIN,725,405,320
+Dearborn,0031 MANCHESTER 1,Circuit Court Clerk,,1,REP,Wendy BEATTY,726,408,318
+Dearborn,0031 MANCHESTER 1,County Treasurer,,1,REP,Hayley M. HATFIELD,726,409,317
+Dearborn,0031 MANCHESTER 1,County Coroner,,1,REP,Cameron McCREARY,731,412,319
+Dearborn,0031 MANCHESTER 1,County Surveyor,,1,REP,Dennis KRAUS JR,725,410,315
+Dearborn,0031 MANCHESTER 1,County Commissioner,1,1,REP,Jim THATCHER,714,405,309
+Dearborn,0031 MANCHESTER 1,County Commissioner,2,1,REP,Duane BISCHOFF,715,404,311
+Dearborn,0031 MANCHESTER 1,County Council,,3,,Mark G. DOLE,563,318,245
+Dearborn,0031 MANCHESTER 1,County Council,,3,,Tim DOLL,559,314,245
+Dearborn,0031 MANCHESTER 1,County Council,,3,,Glenn D. WRIGHT,574,314,260
+Dearborn,0031 MANCHESTER 1,County Council,,3,,Hunter COLLINS,122,58,64
+Dearborn,0031 MANCHESTER 1,County Council,,3,,Dawn VICTOR,114,56,58
+Dearborn,0031 MANCHESTER 1,Community School Corp,1 South Dearborn,1,,Daryl L. CUTTER,632,354,278
+Dearborn,0031 MANCHESTER 1,Community School Corp,2 South Dearborn,2,,Kelli J. GENTRUP-PETTIT,588,331,257
+Dearborn,0031 MANCHESTER 1,Community School Corp,2 South Dearborn,2,,Steven M. HAMLETT,524,292,232
+Dearborn,0031 MANCHESTER 1,Community School Corp,3 South Dearborn,1,,Chris DAUGHERTY,628,355,273
+Dearborn,0031 MANCHESTER 1,IN Supreme Court-Rush,,,,Yes,530,293,237
+Dearborn,0031 MANCHESTER 1,IN Supreme Court-Rush,,,,No,130,74,56
+Dearborn,0031 MANCHESTER 1,IN Supreme Court-Massa,,,,Yes,536,299,237
+Dearborn,0031 MANCHESTER 1,IN Supreme Court-Massa,,,,No,118,66,52
+Dearborn,0031 MANCHESTER 1,IN Supreme Court-Molter,,,,Yes,529,293,236
+Dearborn,0031 MANCHESTER 1,IN Supreme Court-Molter,,,,No,124,72,52
+Dearborn,0031 MANCHESTER 1,Court of Appeals Dist 1-Foley,,,,Yes,544,303,241
+Dearborn,0031 MANCHESTER 1,Court of Appeals Dist 1-Foley,,,,No,106,60,46
+Dearborn,0031 MANCHESTER 1,Court of Appeals Dist 4-Pyle III,,,,Yes,529,291,238
+Dearborn,0031 MANCHESTER 1,Court of Appeals Dist 4-Pyle III,,,,No,119,72,47
+Dearborn,0032 MANCHESTER 2,Registered Voters,,,,,1474,,
+Dearborn,0032 MANCHESTER 2,Ballots Cast,,,,,970,550,420
+Dearborn,0032 MANCHESTER 2,Public Question-Const Amendment,,,,Yes,517,315,202
+Dearborn,0032 MANCHESTER 2,Public Question-Const Amendment,,,,No,372,202,170
+Dearborn,0032 MANCHESTER 2,Straight Party,,,REP,Republican,588,331,257
+Dearborn,0032 MANCHESTER 2,Straight Party,,,DEM,Democratic,75,32,43
+Dearborn,0032 MANCHESTER 2,Straight Party,,,LBT,Libertarian,2,1,1
+Dearborn,0032 MANCHESTER 2,Straight Party,,,WTP,We The People,2,1,1
+Dearborn,0032 MANCHESTER 2,President,,1,REP,Donald J. TRUMP / JD VANCE,816,478,338
+Dearborn,0032 MANCHESTER 2,President,,1,DEM,Kamala D. HARRIS / Tim WALZ,139,59,80
+Dearborn,0032 MANCHESTER 2,President,,1,LBT,Chase OLIVER / Mike terr MAAT,4,3,1
+Dearborn,0032 MANCHESTER 2,President,,1,WTP,Robert F. KENNEDY JR. / Nichole SHANAHAN,4,3,1
+Dearborn,0032 MANCHESTER 2,President,,1,,Write-In,3,3,0
+Dearborn,0032 MANCHESTER 2,U.S. Senate,,1,REP,Jim BANKS,801,469,332
+Dearborn,0032 MANCHESTER 2,U.S. Senate,,1,DEM,Valerie McCRAY,141,63,78
+Dearborn,0032 MANCHESTER 2,U.S. Senate,,1,LBT,Andrew HORNING,13,12,1
+Dearborn,0032 MANCHESTER 2,U.S. Senate,,1,,Write-In,1,0,1
+Dearborn,0032 MANCHESTER 2,Governor,,1,REP,Mike BRAUN / Micah BECKWITH,779,455,324
+Dearborn,0032 MANCHESTER 2,Governor,,1,DEM,Jennifer G. McCORMICK / Terry GOODIN,156,71,85
+Dearborn,0032 MANCHESTER 2,Governor,,1,LBT,Donald RAINWATER / Tonya HUDSON,24,18,6
+Dearborn,0032 MANCHESTER 2,Governor,,1,,Write-In,0,0,0
+Dearborn,0032 MANCHESTER 2,Attorney General,,1,REP,Todd ROKITA,810,476,334
+Dearborn,0032 MANCHESTER 2,Attorney General,,1,DEM,Destiny WELLS,145,66,79
+Dearborn,0032 MANCHESTER 2,U.S. House,9,1,REP,Erin HOUCHIN,803,467,336
+Dearborn,0032 MANCHESTER 2,U.S. House,9,1,DEM,Timothy (Tim) PECK,136,62,74
+Dearborn,0032 MANCHESTER 2,U.S. House,9,1,LBT,Russell (Russ) BROOKSBANK,18,13,5
+Dearborn,0032 MANCHESTER 2,U.S. House,9,1,,Write-In,0,0,0
+Dearborn,0032 MANCHESTER 2,State House,68,1,REP,Garret R. BASCOM,823,484,339
+Dearborn,0032 MANCHESTER 2,State House,68,1,DEM,Lisa BARKER,137,61,76
+Dearborn,0032 MANCHESTER 2,Judge of the Superior Court No. 2,,1,REP,Sally A. McLAUGHLIN,897,518,379
+Dearborn,0032 MANCHESTER 2,Circuit Court Clerk,,1,REP,Wendy BEATTY,895,517,378
+Dearborn,0032 MANCHESTER 2,County Treasurer,,1,REP,Hayley M. HATFIELD,888,512,376
+Dearborn,0032 MANCHESTER 2,County Coroner,,1,REP,Cameron McCREARY,889,517,372
+Dearborn,0032 MANCHESTER 2,County Surveyor,,1,REP,Dennis KRAUS JR,897,516,381
+Dearborn,0032 MANCHESTER 2,County Commissioner,1,1,REP,Jim THATCHER,884,513,371
+Dearborn,0032 MANCHESTER 2,County Commissioner,2,1,REP,Duane BISCHOFF,887,514,373
+Dearborn,0032 MANCHESTER 2,County Council,,3,,Mark G. DOLE,710,424,286
+Dearborn,0032 MANCHESTER 2,County Council,,3,,Tim DOLL,730,431,299
+Dearborn,0032 MANCHESTER 2,County Council,,3,,Glenn D. WRIGHT,728,423,305
+Dearborn,0032 MANCHESTER 2,County Council,,3,,Hunter COLLINS,157,77,80
+Dearborn,0032 MANCHESTER 2,County Council,,3,,Dawn VICTOR,140,58,82
+Dearborn,0032 MANCHESTER 2,Community School Corp,1 South Dearborn,1,,Daryl L. CUTTER,758,457,301
+Dearborn,0032 MANCHESTER 2,Community School Corp,2 South Dearborn,2,,Kelli J. GENTRUP-PETTIT,698,423,275
+Dearborn,0032 MANCHESTER 2,Community School Corp,2 South Dearborn,2,,Steven M. HAMLETT,634,379,255
+Dearborn,0032 MANCHESTER 2,Community School Corp,3 South Dearborn,1,,Chris DAUGHERTY,747,451,296
+Dearborn,0032 MANCHESTER 2,IN Supreme Court-Rush,,,,Yes,628,377,251
+Dearborn,0032 MANCHESTER 2,IN Supreme Court-Rush,,,,No,188,105,83
+Dearborn,0032 MANCHESTER 2,IN Supreme Court-Massa,,,,Yes,643,390,253
+Dearborn,0032 MANCHESTER 2,IN Supreme Court-Massa,,,,No,160,87,73
+Dearborn,0032 MANCHESTER 2,IN Supreme Court-Molter,,,,Yes,636,385,251
+Dearborn,0032 MANCHESTER 2,IN Supreme Court-Molter,,,,No,166,92,74
+Dearborn,0032 MANCHESTER 2,Court of Appeals Dist 1-Foley,,,,Yes,640,387,253
+Dearborn,0032 MANCHESTER 2,Court of Appeals Dist 1-Foley,,,,No,163,87,76
+Dearborn,0032 MANCHESTER 2,Court of Appeals Dist 4-Pyle III,,,,Yes,624,374,250
+Dearborn,0032 MANCHESTER 2,Court of Appeals Dist 4-Pyle III,,,,No,171,99,72
+Dearborn,0033 MILLER 1,Registered Voters,,,,,1325,,
+Dearborn,0033 MILLER 1,Ballots Cast,,,,,907,543,364
+Dearborn,0033 MILLER 1,Public Question-Const Amendment,,,,Yes,483,282,201
+Dearborn,0033 MILLER 1,Public Question-Const Amendment,,,,No,359,237,122
+Dearborn,0033 MILLER 1,Straight Party,,,REP,Republican,510,306,204
+Dearborn,0033 MILLER 1,Straight Party,,,DEM,Democratic,81,54,27
+Dearborn,0033 MILLER 1,Straight Party,,,LBT,Libertarian,2,1,1
+Dearborn,0033 MILLER 1,Straight Party,,,WTP,We The People,5,3,2
+Dearborn,0033 MILLER 1,President,,1,REP,Donald J. TRUMP / JD VANCE,710,426,284
+Dearborn,0033 MILLER 1,President,,1,DEM,Kamala D. HARRIS / Tim WALZ,174,103,71
+Dearborn,0033 MILLER 1,President,,1,LBT,Chase OLIVER / Mike terr MAAT,7,5,2
+Dearborn,0033 MILLER 1,President,,1,WTP,Robert F. KENNEDY JR. / Nichole SHANAHAN,7,5,2
+Dearborn,0033 MILLER 1,President,,1,,Write-In,3,0,3
+Dearborn,0033 MILLER 1,U.S. Senate,,1,REP,Jim BANKS,698,419,279
+Dearborn,0033 MILLER 1,U.S. Senate,,1,DEM,Valerie McCRAY,163,95,68
+Dearborn,0033 MILLER 1,U.S. Senate,,1,LBT,Andrew HORNING,27,18,9
+Dearborn,0033 MILLER 1,U.S. Senate,,1,,Write-In,3,3,0
+Dearborn,0033 MILLER 1,Governor,,1,REP,Mike BRAUN / Micah BECKWITH,697,414,283
+Dearborn,0033 MILLER 1,Governor,,1,DEM,Jennifer G. McCORMICK / Terry GOODIN,173,105,68
+Dearborn,0033 MILLER 1,Governor,,1,LBT,Donald RAINWATER / Tonya HUDSON,23,17,6
+Dearborn,0033 MILLER 1,Governor,,1,,Write-In,2,2,0
+Dearborn,0033 MILLER 1,Attorney General,,1,REP,Todd ROKITA,722,428,294
+Dearborn,0033 MILLER 1,Attorney General,,1,DEM,Destiny WELLS,170,106,64
+Dearborn,0033 MILLER 1,U.S. House,9,1,REP,Erin HOUCHIN,715,428,287
+Dearborn,0033 MILLER 1,U.S. House,9,1,DEM,Timothy (Tim) PECK,146,82,64
+Dearborn,0033 MILLER 1,U.S. House,9,1,LBT,Russell (Russ) BROOKSBANK,24,19,5
+Dearborn,0033 MILLER 1,U.S. House,9,1,,Write-In,2,2,0
+Dearborn,0033 MILLER 1,State House,68,1,REP,Garret R. BASCOM,726,430,296
+Dearborn,0033 MILLER 1,State House,68,1,DEM,Lisa BARKER,163,102,61
+Dearborn,0033 MILLER 1,Judge of the Superior Court No. 2,,1,REP,Sally A. McLAUGHLIN,826,497,329
+Dearborn,0033 MILLER 1,Circuit Court Clerk,,1,REP,Wendy BEATTY,821,495,326
+Dearborn,0033 MILLER 1,County Treasurer,,1,REP,Hayley M. HATFIELD,822,495,327
+Dearborn,0033 MILLER 1,County Coroner,,1,REP,Cameron McCREARY,824,497,327
+Dearborn,0033 MILLER 1,County Surveyor,,1,REP,Dennis KRAUS JR,826,499,327
+Dearborn,0033 MILLER 1,County Commissioner,1,1,REP,Jim THATCHER,822,497,325
+Dearborn,0033 MILLER 1,County Commissioner,2,1,REP,Duane BISCHOFF,817,496,321
+Dearborn,0033 MILLER 1,County Council,,3,,Mark G. DOLE,671,405,266
+Dearborn,0033 MILLER 1,County Council,,3,,Tim DOLL,682,407,275
+Dearborn,0033 MILLER 1,County Council,,3,,Glenn D. WRIGHT,622,385,237
+Dearborn,0033 MILLER 1,County Council,,3,,Hunter COLLINS,144,86,58
+Dearborn,0033 MILLER 1,County Council,,3,,Dawn VICTOR,157,94,63
+Dearborn,0033 MILLER 1,Community School Corp,2 Sunman-Dearborn,1,,Robert S. DAVIS,707,440,267
+Dearborn,0033 MILLER 1,Community School Corp,7 Sunman-Dearborn,1,,James D. (Jamie) GRAF,718,447,271
+Dearborn,0033 MILLER 1,IN Supreme Court-Rush,,,,Yes,634,389,245
+Dearborn,0033 MILLER 1,IN Supreme Court-Rush,,,,No,128,76,52
+Dearborn,0033 MILLER 1,IN Supreme Court-Massa,,,,Yes,642,398,244
+Dearborn,0033 MILLER 1,IN Supreme Court-Massa,,,,No,110,66,44
+Dearborn,0033 MILLER 1,IN Supreme Court-Molter,,,,Yes,634,393,241
+Dearborn,0033 MILLER 1,IN Supreme Court-Molter,,,,No,115,68,47
+Dearborn,0033 MILLER 1,Court of Appeals Dist 1-Foley,,,,Yes,627,385,242
+Dearborn,0033 MILLER 1,Court of Appeals Dist 1-Foley,,,,No,114,73,41
+Dearborn,0033 MILLER 1,Court of Appeals Dist 4-Pyle III,,,,Yes,627,388,239
+Dearborn,0033 MILLER 1,Court of Appeals Dist 4-Pyle III,,,,No,117,72,45
+Dearborn,0034 MILLER 2,Registered Voters,,,,,1207,,
+Dearborn,0034 MILLER 2,Ballots Cast,,,,,850,400,450
+Dearborn,0034 MILLER 2,Public Question-Const Amendment,,,,Yes,446,222,224
+Dearborn,0034 MILLER 2,Public Question-Const Amendment,,,,No,349,159,190
+Dearborn,0034 MILLER 2,Straight Party,,,REP,Republican,500,236,264
+Dearborn,0034 MILLER 2,Straight Party,,,DEM,Democratic,85,30,55
+Dearborn,0034 MILLER 2,Straight Party,,,LBT,Libertarian,0,0,0
+Dearborn,0034 MILLER 2,Straight Party,,,WTP,We The People,1,1,0
+Dearborn,0034 MILLER 2,President,,1,REP,Donald J. TRUMP / JD VANCE,677,335,342
+Dearborn,0034 MILLER 2,President,,1,DEM,Kamala D. HARRIS / Tim WALZ,152,52,100
+Dearborn,0034 MILLER 2,President,,1,LBT,Chase OLIVER / Mike terr MAAT,0,0,0
+Dearborn,0034 MILLER 2,President,,1,WTP,Robert F. KENNEDY JR. / Nichole SHANAHAN,9,5,4
+Dearborn,0034 MILLER 2,President,,1,,Write-In,6,5,1
+Dearborn,0034 MILLER 2,U.S. Senate,,1,REP,Jim BANKS,671,327,344
+Dearborn,0034 MILLER 2,U.S. Senate,,1,DEM,Valerie McCRAY,156,59,97
+Dearborn,0034 MILLER 2,U.S. Senate,,1,LBT,Andrew HORNING,11,9,2
+Dearborn,0034 MILLER 2,U.S. Senate,,1,,Write-In,0,0,0
+Dearborn,0034 MILLER 2,Governor,,1,REP,Mike BRAUN / Micah BECKWITH,657,316,341
+Dearborn,0034 MILLER 2,Governor,,1,DEM,Jennifer G. McCORMICK / Terry GOODIN,153,58,95
+Dearborn,0034 MILLER 2,Governor,,1,LBT,Donald RAINWATER / Tonya HUDSON,26,20,6
+Dearborn,0034 MILLER 2,Governor,,1,,Write-In,0,0,0
+Dearborn,0034 MILLER 2,Attorney General,,1,REP,Todd ROKITA,681,336,345
+Dearborn,0034 MILLER 2,Attorney General,,1,DEM,Destiny WELLS,154,57,97
+Dearborn,0034 MILLER 2,U.S. House,9,1,REP,Erin HOUCHIN,674,331,343
+Dearborn,0034 MILLER 2,U.S. House,9,1,DEM,Timothy (Tim) PECK,142,50,92
+Dearborn,0034 MILLER 2,U.S. House,9,1,LBT,Russell (Russ) BROOKSBANK,20,12,8
+Dearborn,0034 MILLER 2,U.S. House,9,1,,Write-In,0,0,0
+Dearborn,0034 MILLER 2,State House,68,1,REP,Garret R. BASCOM,680,336,344
+Dearborn,0034 MILLER 2,State House,68,1,DEM,Lisa BARKER,154,56,98
+Dearborn,0034 MILLER 2,Judge of the Superior Court No. 2,,1,REP,Sally A. McLAUGHLIN,770,373,397
+Dearborn,0034 MILLER 2,Circuit Court Clerk,,1,REP,Wendy BEATTY,765,371,394
+Dearborn,0034 MILLER 2,County Treasurer,,1,REP,Hayley M. HATFIELD,773,374,399
+Dearborn,0034 MILLER 2,County Coroner,,1,REP,Cameron McCREARY,769,372,397
+Dearborn,0034 MILLER 2,County Surveyor,,1,REP,Dennis KRAUS JR,773,372,401
+Dearborn,0034 MILLER 2,County Commissioner,1,1,REP,Jim THATCHER,765,372,393
+Dearborn,0034 MILLER 2,County Commissioner,2,1,REP,Duane BISCHOFF,763,368,395
+Dearborn,0034 MILLER 2,County Council,,3,,Mark G. DOLE,620,315,305
+Dearborn,0034 MILLER 2,County Council,,3,,Tim DOLL,643,322,321
+Dearborn,0034 MILLER 2,County Council,,3,,Glenn D. WRIGHT,585,284,301
+Dearborn,0034 MILLER 2,County Council,,3,,Hunter COLLINS,146,55,91
+Dearborn,0034 MILLER 2,County Council,,3,,Dawn VICTOR,153,51,102
+Dearborn,0034 MILLER 2,Community School Corp,7 Sunman-Dearborn,1,,James D. (Jamie) GRAF,692,337,355
+Dearborn,0034 MILLER 2,IN Supreme Court-Rush,,,,Yes,602,293,309
+Dearborn,0034 MILLER 2,IN Supreme Court-Rush,,,,No,131,60,71
+Dearborn,0034 MILLER 2,IN Supreme Court-Massa,,,,Yes,601,297,304
+Dearborn,0034 MILLER 2,IN Supreme Court-Massa,,,,No,120,50,70
+Dearborn,0034 MILLER 2,IN Supreme Court-Molter,,,,Yes,595,290,305
+Dearborn,0034 MILLER 2,IN Supreme Court-Molter,,,,No,127,53,74
+Dearborn,0034 MILLER 2,Court of Appeals Dist 1-Foley,,,,Yes,600,297,303
+Dearborn,0034 MILLER 2,Court of Appeals Dist 1-Foley,,,,No,119,49,70
+Dearborn,0034 MILLER 2,Court of Appeals Dist 4-Pyle III,,,,Yes,598,295,303
+Dearborn,0034 MILLER 2,Court of Appeals Dist 4-Pyle III,,,,No,122,49,73
+Dearborn,0035 MILLER 3,Registered Voters,,,,,1287,,
+Dearborn,0035 MILLER 3,Public Question-Const Amendment,,,,Yes,469,269,200
+Dearborn,0035 MILLER 3,Public Question-Const Amendment,,,,No,373,202,171
+Dearborn,0035 MILLER 3,Straight Party,,,REP,Republican,518,281,237
+Dearborn,0035 MILLER 3,Straight Party,,,DEM,Democratic,126,71,55
+Dearborn,0035 MILLER 3,Straight Party,,,LBT,Libertarian,1,1,0
+Dearborn,0035 MILLER 3,Straight Party,,,WTP,We The People,2,0,2
+Dearborn,0035 MILLER 3,President,,1,REP,Donald J. TRUMP / JD VANCE,677,374,303
+Dearborn,0035 MILLER 3,President,,1,DEM,Kamala D. HARRIS / Tim WALZ,207,111,96
+Dearborn,0035 MILLER 3,President,,1,LBT,Chase OLIVER / Mike terr MAAT,5,2,3
+Dearborn,0035 MILLER 3,President,,1,WTP,Robert F. KENNEDY JR. / Nichole SHANAHAN,9,7,2
+Dearborn,0035 MILLER 3,President,,1,,Write-In,7,4,3
+Dearborn,0035 MILLER 3,U.S. Senate,,1,REP,Jim BANKS,672,366,306
+Dearborn,0035 MILLER 3,U.S. Senate,,1,DEM,Valerie McCRAY,203,111,92
+Dearborn,0035 MILLER 3,U.S. Senate,,1,LBT,Andrew HORNING,20,14,6
+Dearborn,0035 MILLER 3,U.S. Senate,,1,,Write-In,0,0,0
+Dearborn,0035 MILLER 3,Governor,,1,REP,Mike BRAUN / Micah BECKWITH,666,364,302
+Dearborn,0035 MILLER 3,Governor,,1,DEM,Jennifer G. McCORMICK / Terry GOODIN,206,111,95
+Dearborn,0035 MILLER 3,Governor,,1,LBT,Donald RAINWATER / Tonya HUDSON,24,18,6
+Dearborn,0035 MILLER 3,Governor,,1,,Write-In,0,0,0
+Dearborn,0035 MILLER 3,Attorney General,,1,REP,Todd ROKITA,689,381,308
+Dearborn,0035 MILLER 3,Attorney General,,1,DEM,Destiny WELLS,205,111,94
+Dearborn,0035 MILLER 3,U.S. House,9,1,REP,Erin HOUCHIN,676,367,309
+Dearborn,0035 MILLER 3,U.S. House,9,1,DEM,Timothy (Tim) PECK,196,108,88
+Dearborn,0035 MILLER 3,U.S. House,9,1,LBT,Russell (Russ) BROOKSBANK,24,17,7
+Dearborn,0035 MILLER 3,U.S. House,9,1,,Write-In,0,0,0
+Dearborn,0035 MILLER 3,State House,68,1,REP,Garret R. BASCOM,686,378,308
+Dearborn,0035 MILLER 3,State House,68,1,DEM,Lisa BARKER,204,113,91
+Dearborn,0035 MILLER 3,Judge of the Superior Court No. 2,,1,REP,Sally A. McLAUGHLIN,809,454,355
+Dearborn,0035 MILLER 3,Circuit Court Clerk,,1,REP,Wendy BEATTY,812,455,357
+Dearborn,0035 MILLER 3,County Treasurer,,1,REP,Hayley M. HATFIELD,809,454,355
+Dearborn,0035 MILLER 3,County Coroner,,1,REP,Cameron McCREARY,815,457,358
+Dearborn,0035 MILLER 3,County Surveyor,,1,REP,Dennis KRAUS JR,813,455,358
+Dearborn,0035 MILLER 3,County Commissioner,1,1,REP,Jim THATCHER,811,452,359
+Dearborn,0035 MILLER 3,County Commissioner,2,1,REP,Duane BISCHOFF,814,455,359
+Dearborn,0035 MILLER 3,County Council,,3,,Mark G. DOLE,634,353,281
+Dearborn,0035 MILLER 3,County Council,,3,,Tim DOLL,652,365,287
+Dearborn,0035 MILLER 3,County Council,,3,,Glenn D. WRIGHT,582,305,277
+Dearborn,0035 MILLER 3,County Council,,3,,Hunter COLLINS,184,103,81
+Dearborn,0035 MILLER 3,County Council,,3,,Dawn VICTOR,207,112,95
+Dearborn,0035 MILLER 3,Community School Corp,2 Sunman-Dearborn,1,,Robert S. DAVIS,707,407,300
+Dearborn,0035 MILLER 3,Community School Corp,7 Sunman-Dearborn,1,,James D. (Jamie) GRAF,714,414,300
+Dearborn,0035 MILLER 3,IN Supreme Court-Rush,,,,Yes,610,349,261
+Dearborn,0035 MILLER 3,IN Supreme Court-Rush,,,,No,144,82,62
+Dearborn,0035 MILLER 3,IN Supreme Court-Massa,,,,Yes,624,359,265
+Dearborn,0035 MILLER 3,IN Supreme Court-Massa,,,,No,126,69,57
+Dearborn,0035 MILLER 3,IN Supreme Court-Molter,,,,Yes,619,353,266
+Dearborn,0035 MILLER 3,IN Supreme Court-Molter,,,,No,128,75,53
+Dearborn,0035 MILLER 3,Court of Appeals Dist 1-Foley,,,,Yes,623,362,261
+Dearborn,0035 MILLER 3,Court of Appeals Dist 1-Foley,,,,No,119,65,54
+Dearborn,0035 MILLER 3,Court of Appeals Dist 4-Pyle III,,,,Yes,608,347,261
+Dearborn,0035 MILLER 3,Court of Appeals Dist 4-Pyle III,,,,No,133,77,56
+Dearborn,0036 MILLER 4,Registered Voters,,,,,1311,,
+Dearborn,0036 MILLER 4,Public Question-Const Amendment,,,,Yes,464,251,213
+Dearborn,0036 MILLER 4,Public Question-Const Amendment,,,,No,336,181,155
+Dearborn,0036 MILLER 4,Straight Party,,,REP,Republican,524,270,254
+Dearborn,0036 MILLER 4,Straight Party,,,DEM,Democratic,67,27,40
+Dearborn,0036 MILLER 4,Straight Party,,,LBT,Libertarian,0,0,0
+Dearborn,0036 MILLER 4,Straight Party,,,WTP,We The People,1,1,0
+Dearborn,0036 MILLER 4,President,,1,REP,Donald J. TRUMP / JD VANCE,718,390,328
+Dearborn,0036 MILLER 4,President,,1,DEM,Kamala D. HARRIS / Tim WALZ,127,57,70
+Dearborn,0036 MILLER 4,President,,1,LBT,Chase OLIVER / Mike terr MAAT,5,3,2
+Dearborn,0036 MILLER 4,President,,1,WTP,Robert F. KENNEDY JR. / Nichole SHANAHAN,6,4,2
+Dearborn,0036 MILLER 4,President,,1,,Write-In,5,5,0
+Dearborn,0036 MILLER 4,U.S. Senate,,1,REP,Jim BANKS,714,383,331
+Dearborn,0036 MILLER 4,U.S. Senate,,1,DEM,Valerie McCRAY,124,58,66
+Dearborn,0036 MILLER 4,U.S. Senate,,1,LBT,Andrew HORNING,14,11,3
+Dearborn,0036 MILLER 4,U.S. Senate,,1,,Write-In,1,1,0
+Dearborn,0036 MILLER 4,Governor,,1,REP,Mike BRAUN / Micah BECKWITH,702,379,323
+Dearborn,0036 MILLER 4,Governor,,1,DEM,Jennifer G. McCORMICK / Terry GOODIN,122,52,70
+Dearborn,0036 MILLER 4,Governor,,1,LBT,Donald RAINWATER / Tonya HUDSON,30,22,8
+Dearborn,0036 MILLER 4,Governor,,1,,Write-In,1,1,0
+Dearborn,0036 MILLER 4,Attorney General,,1,REP,Todd ROKITA,730,397,333
+Dearborn,0036 MILLER 4,Attorney General,,1,DEM,Destiny WELLS,122,55,67
+Dearborn,0036 MILLER 4,U.S. House,9,1,REP,Erin HOUCHIN,724,390,334
+Dearborn,0036 MILLER 4,U.S. House,9,1,DEM,Timothy (Tim) PECK,110,49,61
+Dearborn,0036 MILLER 4,U.S. House,9,1,LBT,Russell (Russ) BROOKSBANK,20,14,6
+Dearborn,0036 MILLER 4,U.S. House,9,1,,Write-In,1,1,0
+Dearborn,0036 MILLER 4,State House,68,1,REP,Garret R. BASCOM,729,397,332
+Dearborn,0036 MILLER 4,State House,68,1,DEM,Lisa BARKER,123,55,68
+Dearborn,0036 MILLER 4,Judge of the Superior Court No. 2,,1,REP,Sally A. McLAUGHLIN,810,437,373
+Dearborn,0036 MILLER 4,Circuit Court Clerk,,1,REP,Wendy BEATTY,808,437,371
+Dearborn,0036 MILLER 4,County Treasurer,,1,REP,Hayley M. HATFIELD,812,438,374
+Dearborn,0036 MILLER 4,County Coroner,,1,REP,Cameron McCREARY,815,442,373
+Dearborn,0036 MILLER 4,County Surveyor,,1,REP,Dennis KRAUS JR,809,436,373
+Dearborn,0036 MILLER 4,County Commissioner,1,1,REP,Jim THATCHER,803,434,369
+Dearborn,0036 MILLER 4,County Commissioner,2,1,REP,Duane BISCHOFF,809,437,372
+Dearborn,0036 MILLER 4,County Council,,3,,Mark G. DOLE,655,365,290
+Dearborn,0036 MILLER 4,County Council,,3,,Tim DOLL,682,381,301
+Dearborn,0036 MILLER 4,County Council,,3,,Glenn D. WRIGHT,613,339,274
+Dearborn,0036 MILLER 4,County Council,,3,,Hunter COLLINS,122,53,69
+Dearborn,0036 MILLER 4,County Council,,3,,Dawn VICTOR,109,51,58
+Dearborn,0036 MILLER 4,Community School Corp,2 Sunman-Dearborn,1,,Robert S. DAVIS,689,386,303
+Dearborn,0036 MILLER 4,Community School Corp,7 Sunman-Dearborn,1,,James D. (Jamie) GRAF,693,389,304
+Dearborn,0036 MILLER 4,IN Supreme Court-Rush,,,,Yes,621,338,283
+Dearborn,0036 MILLER 4,IN Supreme Court-Rush,,,,No,112,62,50
+Dearborn,0036 MILLER 4,IN Supreme Court-Massa,,,,Yes,628,339,289
+Dearborn,0036 MILLER 4,IN Supreme Court-Massa,,,,No,101,55,46
+Dearborn,0036 MILLER 4,IN Supreme Court-Molter,,,,Yes,613,336,277
+Dearborn,0036 MILLER 4,IN Supreme Court-Molter,,,,No,110,57,53
+Dearborn,0036 MILLER 4,Court of Appeals Dist 1-Foley,,,,Yes,635,348,287
+Dearborn,0036 MILLER 4,Court of Appeals Dist 1-Foley,,,,No,91,46,45
+Dearborn,0036 MILLER 4,Court of Appeals Dist 4-Pyle III,,,,Yes,617,338,279
+Dearborn,0036 MILLER 4,Court of Appeals Dist 4-Pyle III,,,,No,105,54,51
+Dearborn,0037 MILLER 5,Registered Voters,,,,,844,,
+Dearborn,0037 MILLER 5,Ballots Cast,,,,,619,261,358
+Dearborn,0037 MILLER 5,Public Question-Const Amendment,,,,Yes,312,136,176
+Dearborn,0037 MILLER 5,Public Question-Const Amendment,,,,No,258,109,149
+Dearborn,0037 MILLER 5,Straight Party,,,REP,Republican,377,155,222
+Dearborn,0037 MILLER 5,Straight Party,,,DEM,Democratic,46,17,29
+Dearborn,0037 MILLER 5,Straight Party,,,LBT,Libertarian,0,0,0
+Dearborn,0037 MILLER 5,Straight Party,,,WTP,We The People,1,1,0
+Dearborn,0037 MILLER 5,President,,1,REP,Donald J. TRUMP / JD VANCE,513,218,295
+Dearborn,0037 MILLER 5,President,,1,DEM,Kamala D. HARRIS / Tim WALZ,91,35,56
+Dearborn,0037 MILLER 5,President,,1,LBT,Chase OLIVER / Mike terr MAAT,2,0,2
+Dearborn,0037 MILLER 5,President,,1,WTP,Robert F. KENNEDY JR. / Nichole SHANAHAN,4,3,1
+Dearborn,0037 MILLER 5,President,,1,,Write-In,5,4,1
+Dearborn,0037 MILLER 5,U.S. Senate,,1,REP,Jim BANKS,515,221,294
+Dearborn,0037 MILLER 5,U.S. Senate,,1,DEM,Valerie McCRAY,80,30,50
+Dearborn,0037 MILLER 5,U.S. Senate,,1,LBT,Andrew HORNING,16,7,9
+Dearborn,0037 MILLER 5,U.S. Senate,,1,,Write-In,0,0,0
+Dearborn,0037 MILLER 5,Governor,,1,REP,Mike BRAUN / Micah BECKWITH,511,216,295
+Dearborn,0037 MILLER 5,Governor,,1,DEM,Jennifer G. McCORMICK / Terry GOODIN,80,30,50
+Dearborn,0037 MILLER 5,Governor,,1,LBT,Donald RAINWATER / Tonya HUDSON,19,12,7
+Dearborn,0037 MILLER 5,Governor,,1,,Write-In,0,0,0
+Dearborn,0037 MILLER 5,Attorney General,,1,REP,Todd ROKITA,522,223,299
+Dearborn,0037 MILLER 5,Attorney General,,1,DEM,Destiny WELLS,85,33,52
+Dearborn,0037 MILLER 5,U.S. House,9,1,REP,Erin HOUCHIN,518,222,296
+Dearborn,0037 MILLER 5,U.S. House,9,1,DEM,Timothy (Tim) PECK,69,26,43
+Dearborn,0037 MILLER 5,U.S. House,9,1,LBT,Russell (Russ) BROOKSBANK,23,10,13
+Dearborn,0037 MILLER 5,U.S. House,9,1,,Write-In,0,0,0
+Dearborn,0037 MILLER 5,State House,68,1,REP,Garret R. BASCOM,523,223,300
+Dearborn,0037 MILLER 5,State House,68,1,DEM,Lisa BARKER,84,33,51
+Dearborn,0037 MILLER 5,Judge of the Superior Court No. 2,,1,REP,Sally A. McLAUGHLIN,568,247,321
+Dearborn,0037 MILLER 5,Circuit Court Clerk,,1,REP,Wendy BEATTY,561,247,314
+Dearborn,0037 MILLER 5,County Treasurer,,1,REP,Hayley M. HATFIELD,565,247,318
+Dearborn,0037 MILLER 5,County Coroner,,1,REP,Cameron McCREARY,567,245,322
+Dearborn,0037 MILLER 5,County Surveyor,,1,REP,Dennis KRAUS JR,568,246,322
+Dearborn,0037 MILLER 5,County Commissioner,1,1,REP,Jim THATCHER,563,244,319
+Dearborn,0037 MILLER 5,County Commissioner,2,1,REP,Duane BISCHOFF,563,245,318
+Dearborn,0037 MILLER 5,County Council,,3,,Mark G. DOLE,488,211,277
+Dearborn,0037 MILLER 5,County Council,,3,,Tim DOLL,497,218,279
+Dearborn,0037 MILLER 5,County Council,,3,,Glenn D. WRIGHT,456,201,255
+Dearborn,0037 MILLER 5,County Council,,3,,Hunter COLLINS,76,35,41
+Dearborn,0037 MILLER 5,County Council,,3,,Dawn VICTOR,80,30,50
+Dearborn,0037 MILLER 5,Community School Corp,2 Sunman-Dearborn,1,,Robert S. DAVIS,468,219,249
+Dearborn,0037 MILLER 5,Community School Corp,7 Sunman-Dearborn,1,,James D. (Jamie) GRAF,478,221,257
+Dearborn,0037 MILLER 5,IN Supreme Court-Rush,,,,Yes,452,206,246
+Dearborn,0037 MILLER 5,IN Supreme Court-Rush,,,,No,77,29,48
+Dearborn,0037 MILLER 5,IN Supreme Court-Massa,,,,Yes,452,204,248
+Dearborn,0037 MILLER 5,IN Supreme Court-Massa,,,,No,69,29,40
+Dearborn,0037 MILLER 5,IN Supreme Court-Molter,,,,Yes,455,208,247
+Dearborn,0037 MILLER 5,IN Supreme Court-Molter,,,,No,66,25,41
+Dearborn,0037 MILLER 5,Court of Appeals Dist 1-Foley,,,,Yes,454,209,245
+Dearborn,0037 MILLER 5,Court of Appeals Dist 1-Foley,,,,No,64,24,40
+Dearborn,0037 MILLER 5,Court of Appeals Dist 4-Pyle III,,,,Yes,448,209,239
+Dearborn,0037 MILLER 5,Court of Appeals Dist 4-Pyle III,,,,No,70,26,44
+Dearborn,0038 MILLER 6,Registered Voters,,,,,1476,,
+Dearborn,0038 MILLER 6,Ballots Cast,,,,,1034,526,508
+Dearborn,0038 MILLER 6,Public Question-Const Amendment,,,,Yes,542,292,250
+Dearborn,0038 MILLER 6,Public Question-Const Amendment,,,,No,419,204,215
+Dearborn,0038 MILLER 6,Straight Party,,,REP,Republican,584,314,270
+Dearborn,0038 MILLER 6,Straight Party,,,DEM,Democratic,132,53,79
+Dearborn,0038 MILLER 6,Straight Party,,,LBT,Libertarian,1,1,0
+Dearborn,0038 MILLER 6,Straight Party,,,WTP,We The People,2,0,2
+Dearborn,0038 MILLER 6,President,,1,REP,Donald J. TRUMP / JD VANCE,778,420,358
+Dearborn,0038 MILLER 6,President,,1,DEM,Kamala D. HARRIS / Tim WALZ,221,87,134
+Dearborn,0038 MILLER 6,President,,1,LBT,Chase OLIVER / Mike terr MAAT,8,6,2
+Dearborn,0038 MILLER 6,President,,1,WTP,Robert F. KENNEDY JR. / Nichole SHANAHAN,10,6,4
+Dearborn,0038 MILLER 6,President,,1,,Write-In,12,4,8
+Dearborn,0038 MILLER 6,U.S. Senate,,1,REP,Jim BANKS,784,418,366
+Dearborn,0038 MILLER 6,U.S. Senate,,1,DEM,Valerie McCRAY,215,87,128
+Dearborn,0038 MILLER 6,U.S. Senate,,1,LBT,Andrew HORNING,20,14,6
+Dearborn,0038 MILLER 6,U.S. Senate,,1,,Write-In,0,0,0
+Dearborn,0038 MILLER 6,Governor,,1,REP,Mike BRAUN / Micah BECKWITH,775,415,360
+Dearborn,0038 MILLER 6,Governor,,1,DEM,Jennifer G. McCORMICK / Terry GOODIN,222,92,130
+Dearborn,0038 MILLER 6,Governor,,1,LBT,Donald RAINWATER / Tonya HUDSON,22,12,10
+Dearborn,0038 MILLER 6,Governor,,1,,Write-In,0,0,0
+Dearborn,0038 MILLER 6,Attorney General,,1,REP,Todd ROKITA,800,424,376
+Dearborn,0038 MILLER 6,Attorney General,,1,DEM,Destiny WELLS,216,91,125
+Dearborn,0038 MILLER 6,U.S. House,9,1,REP,Erin HOUCHIN,792,419,373
+Dearborn,0038 MILLER 6,U.S. House,9,1,DEM,Timothy (Tim) PECK,201,82,119
+Dearborn,0038 MILLER 6,U.S. House,9,1,LBT,Russell (Russ) BROOKSBANK,20,14,6
+Dearborn,0038 MILLER 6,U.S. House,9,1,,Write-In,1,0,1
+Dearborn,0038 MILLER 6,State House,68,1,REP,Garret R. BASCOM,806,434,372
+Dearborn,0038 MILLER 6,State House,68,1,DEM,Lisa BARKER,207,82,125
+Dearborn,0038 MILLER 6,Judge of the Superior Court No. 2,,1,REP,Sally A. McLAUGHLIN,931,485,446
+Dearborn,0038 MILLER 6,Circuit Court Clerk,,1,REP,Wendy BEATTY,933,486,447
+Dearborn,0038 MILLER 6,County Treasurer,,1,REP,Hayley M. HATFIELD,931,485,446
+Dearborn,0038 MILLER 6,County Coroner,,1,REP,Cameron McCREARY,932,486,446
+Dearborn,0038 MILLER 6,County Surveyor,,1,REP,Dennis KRAUS JR,935,484,451
+Dearborn,0038 MILLER 6,County Commissioner,1,1,REP,Jim THATCHER,923,484,439
+Dearborn,0038 MILLER 6,County Commissioner,2,1,REP,Duane BISCHOFF,927,484,443
+Dearborn,0038 MILLER 6,County Council,,3,,Mark G. DOLE,741,398,343
+Dearborn,0038 MILLER 6,County Council,,3,,Tim DOLL,780,428,352
+Dearborn,0038 MILLER 6,County Council,,3,,Glenn D. WRIGHT,691,364,327
+Dearborn,0038 MILLER 6,County Council,,3,,Hunter COLLINS,195,83,112
+Dearborn,0038 MILLER 6,County Council,,3,,Dawn VICTOR,202,80,122
+Dearborn,0038 MILLER 6,Community School Corp,2 Sunman-Dearborn,1,,Robert S. DAVIS,829,434,395
+Dearborn,0038 MILLER 6,Community School Corp,7 Sunman-Dearborn,1,,James D. (Jamie) GRAF,826,433,393
+Dearborn,0038 MILLER 6,IN Supreme Court-Rush,,,,Yes,723,374,349
+Dearborn,0038 MILLER 6,IN Supreme Court-Rush,,,,No,159,75,84
+Dearborn,0038 MILLER 6,IN Supreme Court-Massa,,,,Yes,724,375,349
+Dearborn,0038 MILLER 6,IN Supreme Court-Massa,,,,No,148,71,77
+Dearborn,0038 MILLER 6,IN Supreme Court-Molter,,,,Yes,708,368,340
+Dearborn,0038 MILLER 6,IN Supreme Court-Molter,,,,No,157,75,82
+Dearborn,0038 MILLER 6,Court of Appeals Dist 1-Foley,,,,Yes,726,378,348
+Dearborn,0038 MILLER 6,Court of Appeals Dist 1-Foley,,,,No,142,69,73
+Dearborn,0038 MILLER 6,Court of Appeals Dist 4-Pyle III,,,,Yes,699,368,331
+Dearborn,0038 MILLER 6,Court of Appeals Dist 4-Pyle III,,,,No,161,77,84
+Dearborn,0039 MILLER 7,Registered Voters,,,,,1114,,
+Dearborn,0039 MILLER 7,Ballots Cast,,,,,756,414,342
+Dearborn,0039 MILLER 7,Public Question-Const Amendment,,,,Yes,400,220,180
+Dearborn,0039 MILLER 7,Public Question-Const Amendment,,,,No,307,171,136
+Dearborn,0039 MILLER 7,Straight Party,,,REP,Republican,421,230,191
+Dearborn,0039 MILLER 7,Straight Party,,,DEM,Democratic,80,40,40
+Dearborn,0039 MILLER 7,Straight Party,,,LBT,Libertarian,4,3,1
+Dearborn,0039 MILLER 7,Straight Party,,,WTP,We The People,1,0,1
+Dearborn,0039 MILLER 7,President,,1,REP,Donald J. TRUMP / JD VANCE,578,321,257
+Dearborn,0039 MILLER 7,President,,1,DEM,Kamala D. HARRIS / Tim WALZ,158,82,76
+Dearborn,0039 MILLER 7,President,,1,LBT,Chase OLIVER / Mike terr MAAT,10,7,3
+Dearborn,0039 MILLER 7,President,,1,WTP,Robert F. KENNEDY JR. / Nichole SHANAHAN,5,2,3
+Dearborn,0039 MILLER 7,President,,1,,Write-In,2,1,1
+Dearborn,0039 MILLER 7,U.S. Senate,,1,REP,Jim BANKS,582,319,263
+Dearborn,0039 MILLER 7,U.S. Senate,,1,DEM,Valerie McCRAY,148,78,70
+Dearborn,0039 MILLER 7,U.S. Senate,,1,LBT,Andrew HORNING,21,13,8
+Dearborn,0039 MILLER 7,U.S. Senate,,1,,Write-In,0,0,0
+Dearborn,0039 MILLER 7,Governor,,1,REP,Mike BRAUN / Micah BECKWITH,577,315,262
+Dearborn,0039 MILLER 7,Governor,,1,DEM,Jennifer G. McCORMICK / Terry GOODIN,149,79,70
+Dearborn,0039 MILLER 7,Governor,,1,LBT,Donald RAINWATER / Tonya HUDSON,25,16,9
+Dearborn,0039 MILLER 7,Governor,,1,,Write-In,0,0,0
+Dearborn,0039 MILLER 7,Attorney General,,1,REP,Todd ROKITA,592,328,264
+Dearborn,0039 MILLER 7,Attorney General,,1,DEM,Destiny WELLS,150,77,73
+Dearborn,0039 MILLER 7,U.S. House,9,1,REP,Erin HOUCHIN,581,319,262
+Dearborn,0039 MILLER 7,U.S. House,9,1,DEM,Timothy (Tim) PECK,142,74,68
+Dearborn,0039 MILLER 7,U.S. House,9,1,LBT,Russell (Russ) BROOKSBANK,26,15,11
+Dearborn,0039 MILLER 7,U.S. House,9,1,,Write-In,1,1,0
+Dearborn,0039 MILLER 7,State House,68,1,REP,Garret R. BASCOM,590,328,262
+Dearborn,0039 MILLER 7,State House,68,1,DEM,Lisa BARKER,151,77,74
+Dearborn,0039 MILLER 7,Judge of the Superior Court No. 2,,1,REP,Sally A. McLAUGHLIN,684,383,301
+Dearborn,0039 MILLER 7,Circuit Court Clerk,,1,REP,Wendy BEATTY,686,386,300
+Dearborn,0039 MILLER 7,County Treasurer,,1,REP,Hayley M. HATFIELD,681,380,301
+Dearborn,0039 MILLER 7,County Coroner,,1,REP,Cameron McCREARY,685,384,301
+Dearborn,0039 MILLER 7,County Surveyor,,1,REP,Dennis KRAUS JR,684,383,301
+Dearborn,0039 MILLER 7,County Commissioner,1,1,REP,Jim THATCHER,677,381,296
+Dearborn,0039 MILLER 7,County Commissioner,2,1,REP,Duane BISCHOFF,677,379,298
+Dearborn,0039 MILLER 7,County Council,,3,,Mark G. DOLE,539,294,245
+Dearborn,0039 MILLER 7,County Council,,3,,Tim DOLL,564,317,247
+Dearborn,0039 MILLER 7,County Council,,3,,Glenn D. WRIGHT,495,272,223
+Dearborn,0039 MILLER 7,County Council,,3,,Hunter COLLINS,143,74,69
+Dearborn,0039 MILLER 7,County Council,,3,,Dawn VICTOR,140,73,67
+Dearborn,0039 MILLER 7,Community School Corp,7 Sunman-Dearborn,1,,James D. (Jamie) GRAF,588,330,258
+Dearborn,0039 MILLER 7,IN Supreme Court-Rush,,,,Yes,530,280,250
+Dearborn,0039 MILLER 7,IN Supreme Court-Rush,,,,No,115,69,46
+Dearborn,0039 MILLER 7,IN Supreme Court-Massa,,,,Yes,521,281,240
+Dearborn,0039 MILLER 7,IN Supreme Court-Massa,,,,No,115,63,52
+Dearborn,0039 MILLER 7,IN Supreme Court-Molter,,,,Yes,534,290,244
+Dearborn,0039 MILLER 7,IN Supreme Court-Molter,,,,No,105,58,47
+Dearborn,0039 MILLER 7,Court of Appeals Dist 1-Foley,,,,Yes,529,283,246
+Dearborn,0039 MILLER 7,Court of Appeals Dist 1-Foley,,,,No,100,56,44
+Dearborn,0039 MILLER 7,Court of Appeals Dist 4-Pyle III,,,,Yes,522,277,245
+Dearborn,0039 MILLER 7,Court of Appeals Dist 4-Pyle III,,,,No,109,64,45
+Dearborn,0040 SPARTA 1,Registered Voters,,,,,417,,
+Dearborn,0040 SPARTA 1,Ballots Cast,,,,,240,187,53
+Dearborn,0040 SPARTA 1,Public Question-Const Amendment,,,,Yes,124,100,24
+Dearborn,0040 SPARTA 1,Public Question-Const Amendment,,,,No,103,78,25
+Dearborn,0040 SPARTA 1,Straight Party,,,REP,Republican,134,103,31
+Dearborn,0040 SPARTA 1,Straight Party,,,DEM,Democratic,32,19,13
+Dearborn,0040 SPARTA 1,Straight Party,,,LBT,Libertarian,0,0,0
+Dearborn,0040 SPARTA 1,Straight Party,,,WTP,We The People,2,2,0
+Dearborn,0040 SPARTA 1,President,,1,REP,Donald J. TRUMP / JD VANCE,187,150,37
+Dearborn,0040 SPARTA 1,President,,1,DEM,Kamala D. HARRIS / Tim WALZ,47,32,15
+Dearborn,0040 SPARTA 1,President,,1,LBT,Chase OLIVER / Mike terr MAAT,1,1,0
+Dearborn,0040 SPARTA 1,President,,1,WTP,Robert F. KENNEDY JR. / Nichole SHANAHAN,5,4,1
+Dearborn,0040 SPARTA 1,President,,1,,Write-In,0,0,0
+Dearborn,0040 SPARTA 1,U.S. Senate,,1,REP,Jim BANKS,183,146,37
+Dearborn,0040 SPARTA 1,U.S. Senate,,1,DEM,Valerie McCRAY,49,34,15
+Dearborn,0040 SPARTA 1,U.S. Senate,,1,LBT,Andrew HORNING,7,6,1
+Dearborn,0040 SPARTA 1,U.S. Senate,,1,,Write-In,0,0,0
+Dearborn,0040 SPARTA 1,Governor,,1,REP,Mike BRAUN / Micah BECKWITH,172,137,35
+Dearborn,0040 SPARTA 1,Governor,,1,DEM,Jennifer G. McCORMICK / Terry GOODIN,51,36,15
+Dearborn,0040 SPARTA 1,Governor,,1,LBT,Donald RAINWATER / Tonya HUDSON,15,12,3
+Dearborn,0040 SPARTA 1,Governor,,1,,Write-In,0,0,0
+Dearborn,0040 SPARTA 1,Attorney General,,1,REP,Todd ROKITA,182,147,35
+Dearborn,0040 SPARTA 1,Attorney General,,1,DEM,Destiny WELLS,52,35,17
+Dearborn,0040 SPARTA 1,U.S. House,9,1,REP,Erin HOUCHIN,175,140,35
+Dearborn,0040 SPARTA 1,U.S. House,9,1,DEM,Timothy (Tim) PECK,50,35,15
+Dearborn,0040 SPARTA 1,U.S. House,9,1,LBT,Russell (Russ) BROOKSBANK,11,10,1
+Dearborn,0040 SPARTA 1,U.S. House,9,1,,Write-In,0,0,0
+Dearborn,0040 SPARTA 1,State House,68,1,REP,Garret R. BASCOM,183,147,36
+Dearborn,0040 SPARTA 1,State House,68,1,DEM,Lisa BARKER,55,39,16
+Dearborn,0040 SPARTA 1,Judge of the Superior Court No. 2,,1,REP,Sally A. McLAUGHLIN,210,170,40
+Dearborn,0040 SPARTA 1,Circuit Court Clerk,,1,REP,Wendy BEATTY,212,173,39
+Dearborn,0040 SPARTA 1,County Treasurer,,1,REP,Hayley M. HATFIELD,212,173,39
+Dearborn,0040 SPARTA 1,County Coroner,,1,REP,Cameron McCREARY,212,173,39
+Dearborn,0040 SPARTA 1,County Surveyor,,1,REP,Dennis KRAUS JR,213,172,41
+Dearborn,0040 SPARTA 1,County Commissioner,1,1,REP,Jim THATCHER,210,169,41
+Dearborn,0040 SPARTA 1,County Commissioner,2,1,REP,Duane BISCHOFF,210,169,41
+Dearborn,0040 SPARTA 1,County Council,,3,,Mark G. DOLE,152,119,33
+Dearborn,0040 SPARTA 1,County Council,,3,,Tim DOLL,156,124,32
+Dearborn,0040 SPARTA 1,County Council,,3,,Glenn D. WRIGHT,167,131,36
+Dearborn,0040 SPARTA 1,County Council,,3,,Hunter COLLINS,50,39,11
+Dearborn,0040 SPARTA 1,County Council,,3,,Dawn VICTOR,52,40,12
+Dearborn,0040 SPARTA 1,Community School Corp,1 South Dearborn,1,,Daryl L. CUTTER,198,162,36
+Dearborn,0040 SPARTA 1,Community School Corp,2 South Dearborn,2,,Kelli J. GENTRUP-PETTIT,186,151,35
+Dearborn,0040 SPARTA 1,Community School Corp,2 South Dearborn,2,,Steven M. HAMLETT,169,139,30
+Dearborn,0040 SPARTA 1,Community School Corp,3 South Dearborn,1,,Chris DAUGHERTY,205,168,37
+Dearborn,0040 SPARTA 1,IN Supreme Court-Rush,,,,Yes,163,134,29
+Dearborn,0040 SPARTA 1,IN Supreme Court-Rush,,,,No,50,37,13
+Dearborn,0040 SPARTA 1,IN Supreme Court-Massa,,,,Yes,163,133,30
+Dearborn,0040 SPARTA 1,IN Supreme Court-Massa,,,,No,45,33,12
+Dearborn,0040 SPARTA 1,IN Supreme Court-Molter,,,,Yes,164,133,31
+Dearborn,0040 SPARTA 1,IN Supreme Court-Molter,,,,No,45,34,11
+Dearborn,0040 SPARTA 1,Court of Appeals Dist 1-Foley,,,,Yes,169,140,29
+Dearborn,0040 SPARTA 1,Court of Appeals Dist 1-Foley,,,,No,37,25,12
+Dearborn,0040 SPARTA 1,Court of Appeals Dist 4-Pyle III,,,,Yes,163,134,29
+Dearborn,0040 SPARTA 1,Court of Appeals Dist 4-Pyle III,,,,No,45,32,13
+Dearborn,0041 SPARTA 2,Registered Voters,,,,,1105,,
+Dearborn,0041 SPARTA 2,Ballots Cast,,,,,734,464,270
+Dearborn,0041 SPARTA 2,Public Question-Const Amendment,,,,Yes,403,266,137
+Dearborn,0041 SPARTA 2,Public Question-Const Amendment,,,,No,283,179,104
+Dearborn,0041 SPARTA 2,Straight Party,,,REP,Republican,410,262,148
+Dearborn,0041 SPARTA 2,Straight Party,,,DEM,Democratic,69,34,35
+Dearborn,0041 SPARTA 2,Straight Party,,,LBT,Libertarian,1,1,0
+Dearborn,0041 SPARTA 2,Straight Party,,,WTP,We The People,1,0,1
+Dearborn,0041 SPARTA 2,President,,1,REP,Donald J. TRUMP / JD VANCE,590,383,207
+Dearborn,0041 SPARTA 2,President,,1,DEM,Kamala D. HARRIS / Tim WALZ,118,62,56
+Dearborn,0041 SPARTA 2,President,,1,LBT,Chase OLIVER / Mike terr MAAT,7,7,0
+Dearborn,0041 SPARTA 2,President,,1,WTP,Robert F. KENNEDY JR. / Nichole SHANAHAN,7,3,4
+Dearborn,0041 SPARTA 2,President,,1,,Write-In,2,1,1
+Dearborn,0041 SPARTA 2,U.S. Senate,,1,REP,Jim BANKS,581,379,202
+Dearborn,0041 SPARTA 2,U.S. Senate,,1,DEM,Valerie McCRAY,121,63,58
+Dearborn,0041 SPARTA 2,U.S. Senate,,1,LBT,Andrew HORNING,14,9,5
+Dearborn,0041 SPARTA 2,U.S. Senate,,1,,Write-In,1,1,0
+Dearborn,0041 SPARTA 2,Governor,,1,REP,Mike BRAUN / Micah BECKWITH,563,370,193
+Dearborn,0041 SPARTA 2,Governor,,1,DEM,Jennifer G. McCORMICK / Terry GOODIN,130,70,60
+Dearborn,0041 SPARTA 2,Governor,,1,LBT,Donald RAINWATER / Tonya HUDSON,25,15,10
+Dearborn,0041 SPARTA 2,Governor,,1,,Write-In,0,0,0
+Dearborn,0041 SPARTA 2,Attorney General,,1,REP,Todd ROKITA,587,379,208
+Dearborn,0041 SPARTA 2,Attorney General,,1,DEM,Destiny WELLS,131,74,57
+Dearborn,0041 SPARTA 2,U.S. House,9,1,REP,Erin HOUCHIN,581,375,206
+Dearborn,0041 SPARTA 2,U.S. House,9,1,DEM,Timothy (Tim) PECK,121,66,55
+Dearborn,0041 SPARTA 2,U.S. House,9,1,LBT,Russell (Russ) BROOKSBANK,18,15,3
+Dearborn,0041 SPARTA 2,U.S. House,9,1,,Write-In,0,0,0
+Dearborn,0041 SPARTA 2,State House,68,1,REP,Garret R. BASCOM,588,382,206
+Dearborn,0041 SPARTA 2,State House,68,1,DEM,Lisa BARKER,132,75,57
+Dearborn,0041 SPARTA 2,Judge of the Superior Court No. 2,,1,REP,Sally A. McLAUGHLIN,664,432,232
+Dearborn,0041 SPARTA 2,Circuit Court Clerk,,1,REP,Wendy BEATTY,664,433,231
+Dearborn,0041 SPARTA 2,County Treasurer,,1,REP,Hayley M. HATFIELD,666,435,231
+Dearborn,0041 SPARTA 2,County Coroner,,1,REP,Cameron McCREARY,665,434,231
+Dearborn,0041 SPARTA 2,County Surveyor,,1,REP,Dennis KRAUS JR,671,435,236
+Dearborn,0041 SPARTA 2,County Commissioner,1,1,REP,Jim THATCHER,662,434,228
+Dearborn,0041 SPARTA 2,County Commissioner,2,1,REP,Duane BISCHOFF,667,436,231
+Dearborn,0041 SPARTA 2,County Council,,3,,Mark G. DOLE,495,333,162
+Dearborn,0041 SPARTA 2,County Council,,3,,Tim DOLL,490,323,167
+Dearborn,0041 SPARTA 2,County Council,,3,,Glenn D. WRIGHT,551,364,187
+Dearborn,0041 SPARTA 2,County Council,,3,,Hunter COLLINS,132,75,57
+Dearborn,0041 SPARTA 2,County Council,,3,,Dawn VICTOR,131,75,56
+Dearborn,0041 SPARTA 2,Community School Corp,1 South Dearborn,1,,Daryl L. CUTTER,587,387,200
+Dearborn,0041 SPARTA 2,Community School Corp,2 South Dearborn,2,,Kelli J. GENTRUP-PETTIT,540,350,190
+Dearborn,0041 SPARTA 2,Community School Corp,2 South Dearborn,2,,Steven M. HAMLETT,480,325,155
+Dearborn,0041 SPARTA 2,Community School Corp,3 South Dearborn,1,,Chris DAUGHERTY,574,380,194
+Dearborn,0041 SPARTA 2,IN Supreme Court-Rush,,,,Yes,445,298,147
+Dearborn,0041 SPARTA 2,IN Supreme Court-Rush,,,,No,152,94,58
+Dearborn,0041 SPARTA 2,IN Supreme Court-Massa,,,,Yes,463,314,149
+Dearborn,0041 SPARTA 2,IN Supreme Court-Massa,,,,No,119,68,51
+Dearborn,0041 SPARTA 2,IN Supreme Court-Molter,,,,Yes,465,313,152
+Dearborn,0041 SPARTA 2,IN Supreme Court-Molter,,,,No,122,71,51
+Dearborn,0041 SPARTA 2,Court of Appeals Dist 1-Foley,,,,Yes,470,317,153
+Dearborn,0041 SPARTA 2,Court of Appeals Dist 1-Foley,,,,No,110,63,47
+Dearborn,0041 SPARTA 2,Court of Appeals Dist 4-Pyle III,,,,Yes,440,290,150
+Dearborn,0041 SPARTA 2,Court of Appeals Dist 4-Pyle III,,,,No,139,88,51
+Dearborn,0042 SPARTA 3,Registered Voters,,,,,623,,
+Dearborn,0042 SPARTA 3,Ballots Cast,,,,,408,286,122
+Dearborn,0042 SPARTA 3,Public Question-Const Amendment,,,,Yes,192,145,47
+Dearborn,0042 SPARTA 3,Public Question-Const Amendment,,,,No,186,127,59
+Dearborn,0042 SPARTA 3,Straight Party,,,REP,Republican,228,166,62
+Dearborn,0042 SPARTA 3,Straight Party,,,DEM,Democratic,30,15,15
+Dearborn,0042 SPARTA 3,Straight Party,,,LBT,Libertarian,0,0,0
+Dearborn,0042 SPARTA 3,Straight Party,,,WTP,We The People,1,1,0
+Dearborn,0042 SPARTA 3,President,,1,REP,Donald J. TRUMP / JD VANCE,344,249,95
+Dearborn,0042 SPARTA 3,President,,1,DEM,Kamala D. HARRIS / Tim WALZ,53,30,23
+Dearborn,0042 SPARTA 3,President,,1,LBT,Chase OLIVER / Mike terr MAAT,0,0,0
+Dearborn,0042 SPARTA 3,President,,1,WTP,Robert F. KENNEDY JR. / Nichole SHANAHAN,6,3,3
+Dearborn,0042 SPARTA 3,President,,1,,Write-In,3,2,1
+Dearborn,0042 SPARTA 3,U.S. Senate,,1,REP,Jim BANKS,337,247,90
+Dearborn,0042 SPARTA 3,U.S. Senate,,1,DEM,Valerie McCRAY,54,30,24
+Dearborn,0042 SPARTA 3,U.S. Senate,,1,LBT,Andrew HORNING,9,5,4
+Dearborn,0042 SPARTA 3,U.S. Senate,,1,,Write-In,0,0,0
+Dearborn,0042 SPARTA 3,Governor,,1,REP,Mike BRAUN / Micah BECKWITH,317,229,88
+Dearborn,0042 SPARTA 3,Governor,,1,DEM,Jennifer G. McCORMICK / Terry GOODIN,65,38,27
+Dearborn,0042 SPARTA 3,Governor,,1,LBT,Donald RAINWATER / Tonya HUDSON,19,14,5
+Dearborn,0042 SPARTA 3,Governor,,1,,Write-In,1,1,0
+Dearborn,0042 SPARTA 3,Attorney General,,1,REP,Todd ROKITA,342,250,92
+Dearborn,0042 SPARTA 3,Attorney General,,1,DEM,Destiny WELLS,60,34,26
+Dearborn,0042 SPARTA 3,U.S. House,9,1,REP,Erin HOUCHIN,332,243,89
+Dearborn,0042 SPARTA 3,U.S. House,9,1,DEM,Timothy (Tim) PECK,56,31,25
+Dearborn,0042 SPARTA 3,U.S. House,9,1,LBT,Russell (Russ) BROOKSBANK,12,7,5
+Dearborn,0042 SPARTA 3,U.S. House,9,1,,Write-In,0,0,0
+Dearborn,0042 SPARTA 3,State House,68,1,REP,Garret R. BASCOM,344,249,95
+Dearborn,0042 SPARTA 3,State House,68,1,DEM,Lisa BARKER,56,32,24
+Dearborn,0042 SPARTA 3,Judge of the Superior Court No. 2,,1,REP,Sally A. McLAUGHLIN,369,262,107
+Dearborn,0042 SPARTA 3,Circuit Court Clerk,,1,REP,Wendy BEATTY,372,266,106
+Dearborn,0042 SPARTA 3,County Treasurer,,1,REP,Hayley M. HATFIELD,372,265,107
+Dearborn,0042 SPARTA 3,County Coroner,,1,REP,Cameron McCREARY,371,267,104
+Dearborn,0042 SPARTA 3,County Surveyor,,1,REP,Dennis KRAUS JR,365,260,105
+Dearborn,0042 SPARTA 3,County Commissioner,1,1,REP,Jim THATCHER,365,261,104
+Dearborn,0042 SPARTA 3,County Commissioner,2,1,REP,Duane BISCHOFF,372,268,104
+Dearborn,0042 SPARTA 3,County Council,,3,,Mark G. DOLE,292,221,71
+Dearborn,0042 SPARTA 3,County Council,,3,,Tim DOLL,287,216,71
+Dearborn,0042 SPARTA 3,County Council,,3,,Glenn D. WRIGHT,313,229,84
+Dearborn,0042 SPARTA 3,County Council,,3,,Hunter COLLINS,63,39,24
+Dearborn,0042 SPARTA 3,County Council,,3,,Dawn VICTOR,59,37,22
+Dearborn,0042 SPARTA 3,Community School Corp,2 South Dearborn,2,,Kelli J. GENTRUP-PETTIT,290,211,79
+Dearborn,0042 SPARTA 3,Community School Corp,2 South Dearborn,2,,Steven M. HAMLETT,255,182,73
+Dearborn,0042 SPARTA 3,Community School Corp,3 South Dearborn,1,,Chris DAUGHERTY,312,226,86
+Dearborn,0042 SPARTA 3,IN Supreme Court-Rush,,,,Yes,259,194,65
+Dearborn,0042 SPARTA 3,IN Supreme Court-Rush,,,,No,71,50,21
+Dearborn,0042 SPARTA 3,IN Supreme Court-Massa,,,,Yes,261,197,64
+Dearborn,0042 SPARTA 3,IN Supreme Court-Massa,,,,No,69,49,20
+Dearborn,0042 SPARTA 3,IN Supreme Court-Molter,,,,Yes,269,205,64
+Dearborn,0042 SPARTA 3,IN Supreme Court-Molter,,,,No,59,40,19
+Dearborn,0042 SPARTA 3,Court of Appeals Dist 1-Foley,,,,Yes,268,201,67
+Dearborn,0042 SPARTA 3,Court of Appeals Dist 1-Foley,,,,No,61,42,19
+Dearborn,0042 SPARTA 3,Court of Appeals Dist 4-Pyle III,,,,Yes,261,195,66
+Dearborn,0042 SPARTA 3,Court of Appeals Dist 4-Pyle III,,,,No,69,49,20
+Dearborn,0043 WASHINGTON 1,Registered Voters,,,,,1150,,
+Dearborn,0043 WASHINGTON 1,Ballots Cast,,,,,771,434,337
+Dearborn,0043 WASHINGTON 1,Public Question-Const Amendment,,,,Yes,368,219,149
+Dearborn,0043 WASHINGTON 1,Public Question-Const Amendment,,,,No,348,186,162
+Dearborn,0043 WASHINGTON 1,Straight Party,,,REP,Republican,409,235,174
+Dearborn,0043 WASHINGTON 1,Straight Party,,,DEM,Democratic,104,48,56
+Dearborn,0043 WASHINGTON 1,Straight Party,,,LBT,Libertarian,0,0,0
+Dearborn,0043 WASHINGTON 1,Straight Party,,,WTP,We The People,2,2,0
+Dearborn,0043 WASHINGTON 1,President,,1,REP,Donald J. TRUMP / JD VANCE,577,329,248
+Dearborn,0043 WASHINGTON 1,President,,1,DEM,Kamala D. HARRIS / Tim WALZ,176,90,86
+Dearborn,0043 WASHINGTON 1,President,,1,LBT,Chase OLIVER / Mike terr MAAT,6,5,1
+Dearborn,0043 WASHINGTON 1,President,,1,WTP,Robert F. KENNEDY JR. / Nichole SHANAHAN,7,7,0
+Dearborn,0043 WASHINGTON 1,President,,1,,Write-In,4,2,2
+Dearborn,0043 WASHINGTON 1,U.S. Senate,,1,REP,Jim BANKS,565,320,245
+Dearborn,0043 WASHINGTON 1,U.S. Senate,,1,DEM,Valerie McCRAY,180,96,84
+Dearborn,0043 WASHINGTON 1,U.S. Senate,,1,LBT,Andrew HORNING,18,12,6
+Dearborn,0043 WASHINGTON 1,U.S. Senate,,1,,Write-In,1,1,0
+Dearborn,0043 WASHINGTON 1,Governor,,1,REP,Mike BRAUN / Micah BECKWITH,553,313,240
+Dearborn,0043 WASHINGTON 1,Governor,,1,DEM,Jennifer G. McCORMICK / Terry GOODIN,185,97,88
+Dearborn,0043 WASHINGTON 1,Governor,,1,LBT,Donald RAINWATER / Tonya HUDSON,27,20,7
+Dearborn,0043 WASHINGTON 1,Governor,,1,,Write-In,0,0,0
+Dearborn,0043 WASHINGTON 1,Attorney General,,1,REP,Todd ROKITA,578,330,248
+Dearborn,0043 WASHINGTON 1,Attorney General,,1,DEM,Destiny WELLS,185,98,87
+Dearborn,0043 WASHINGTON 1,U.S. House,9,1,REP,Erin HOUCHIN,573,327,246
+Dearborn,0043 WASHINGTON 1,U.S. House,9,1,DEM,Timothy (Tim) PECK,168,88,80
+Dearborn,0043 WASHINGTON 1,U.S. House,9,1,LBT,Russell (Russ) BROOKSBANK,25,16,9
+Dearborn,0043 WASHINGTON 1,U.S. House,9,1,,Write-In,0,0,0
+Dearborn,0043 WASHINGTON 1,State House,68,1,REP,Garret R. BASCOM,580,336,244
+Dearborn,0043 WASHINGTON 1,State House,68,1,DEM,Lisa BARKER,183,92,91
+Dearborn,0043 WASHINGTON 1,Judge of the Superior Court No. 2,,1,REP,Sally A. McLAUGHLIN,683,395,288
+Dearborn,0043 WASHINGTON 1,Circuit Court Clerk,,1,REP,Wendy BEATTY,674,390,284
+Dearborn,0043 WASHINGTON 1,County Treasurer,,1,REP,Hayley M. HATFIELD,672,388,284
+Dearborn,0043 WASHINGTON 1,County Coroner,,1,REP,Cameron McCREARY,678,391,287
+Dearborn,0043 WASHINGTON 1,County Surveyor,,1,REP,Dennis KRAUS JR,678,392,286
+Dearborn,0043 WASHINGTON 1,County Commissioner,1,1,REP,Jim THATCHER,673,392,281
+Dearborn,0043 WASHINGTON 1,County Commissioner,2,1,REP,Duane BISCHOFF,676,392,284
+Dearborn,0043 WASHINGTON 1,County Council,,3,,Mark G. DOLE,518,306,212
+Dearborn,0043 WASHINGTON 1,County Council,,3,,Tim DOLL,507,301,206
+Dearborn,0043 WASHINGTON 1,County Council,,3,,Glenn D. WRIGHT,525,310,215
+Dearborn,0043 WASHINGTON 1,County Council,,3,,Hunter COLLINS,170,98,72
+Dearborn,0043 WASHINGTON 1,County Council,,3,,Dawn VICTOR,178,97,81
+Dearborn,0043 WASHINGTON 1,Community School Corp,1 South Dearborn,1,,Daryl L. CUTTER,622,364,258
+Dearborn,0043 WASHINGTON 1,Community School Corp,2 South Dearborn,2,,Kelli J. GENTRUP-PETTIT,596,354,242
+Dearborn,0043 WASHINGTON 1,Community School Corp,2 South Dearborn,2,,Steven M. HAMLETT,491,295,196
+Dearborn,0043 WASHINGTON 1,Community School Corp,3 South Dearborn,1,,Chris DAUGHERTY,622,369,253
+Dearborn,0043 WASHINGTON 1,IN Supreme Court-Rush,,,,Yes,461,269,192
+Dearborn,0043 WASHINGTON 1,IN Supreme Court-Rush,,,,No,191,108,83
+Dearborn,0043 WASHINGTON 1,IN Supreme Court-Massa,,,,Yes,458,270,188
+Dearborn,0043 WASHINGTON 1,IN Supreme Court-Massa,,,,No,186,101,85
+Dearborn,0043 WASHINGTON 1,IN Supreme Court-Molter,,,,Yes,467,274,193
+Dearborn,0043 WASHINGTON 1,IN Supreme Court-Molter,,,,No,179,97,82
+Dearborn,0043 WASHINGTON 1,Court of Appeals Dist 1-Foley,,,,Yes,473,282,191
+Dearborn,0043 WASHINGTON 1,Court of Appeals Dist 1-Foley,,,,No,172,93,79
+Dearborn,0043 WASHINGTON 1,Court of Appeals Dist 4-Pyle III,,,,Yes,454,268,186
+Dearborn,0043 WASHINGTON 1,Court of Appeals Dist 4-Pyle III,,,,No,182,104,78
+Dearborn,0044 YORK 1,Registered Voters,,,,,880,,
+Dearborn,0044 YORK 1,Ballots Cast,,,,,659,475,184
+Dearborn,0044 YORK 1,Public Question-Const Amendment,,,,Yes,336,254,82
+Dearborn,0044 YORK 1,Public Question-Const Amendment,,,,No,264,193,71
+Dearborn,0044 YORK 1,Straight Party,,,REP,Republican,369,263,106
+Dearborn,0044 YORK 1,Straight Party,,,DEM,Democratic,51,37,14
+Dearborn,0044 YORK 1,Straight Party,,,LBT,Libertarian,0,0,0
+Dearborn,0044 YORK 1,Straight Party,,,WTP,We The People,0,0,0
+Dearborn,0044 YORK 1,President,,1,REP,Donald J. TRUMP / JD VANCE,523,376,147
+Dearborn,0044 YORK 1,President,,1,DEM,Kamala D. HARRIS / Tim WALZ,119,85,34
+Dearborn,0044 YORK 1,President,,1,LBT,Chase OLIVER / Mike terr MAAT,3,3,0
+Dearborn,0044 YORK 1,President,,1,WTP,Robert F. KENNEDY JR. / Nichole SHANAHAN,3,2,1
+Dearborn,0044 YORK 1,President,,1,,Write-In,1,1,0
+Dearborn,0044 YORK 1,U.S. Senate,,1,REP,Jim BANKS,536,386,150
+Dearborn,0044 YORK 1,U.S. Senate,,1,DEM,Valerie McCRAY,111,80,31
+Dearborn,0044 YORK 1,U.S. Senate,,1,LBT,Andrew HORNING,5,5,0
+Dearborn,0044 YORK 1,U.S. Senate,,1,,Write-In,0,0,0
+Dearborn,0044 YORK 1,Governor,,1,REP,Mike BRAUN / Micah BECKWITH,525,376,149
+Dearborn,0044 YORK 1,Governor,,1,DEM,Jennifer G. McCORMICK / Terry GOODIN,118,88,30
+Dearborn,0044 YORK 1,Governor,,1,LBT,Donald RAINWATER / Tonya HUDSON,10,6,4
+Dearborn,0044 YORK 1,Governor,,1,,Write-In,0,0,0
+Dearborn,0044 YORK 1,Attorney General,,1,REP,Todd ROKITA,539,389,150
+Dearborn,0044 YORK 1,Attorney General,,1,DEM,Destiny WELLS,113,82,31
+Dearborn,0044 YORK 1,U.S. House,9,1,REP,Erin HOUCHIN,532,381,151
+Dearborn,0044 YORK 1,U.S. House,9,1,DEM,Timothy (Tim) PECK,107,78,29
+Dearborn,0044 YORK 1,U.S. House,9,1,LBT,Russell (Russ) BROOKSBANK,10,10,0
+Dearborn,0044 YORK 1,U.S. House,9,1,,Write-In,0,0,0
+Dearborn,0044 YORK 1,State House,68,1,REP,Garret R. BASCOM,538,390,148
+Dearborn,0044 YORK 1,State House,68,1,DEM,Lisa BARKER,112,81,31
+Dearborn,0044 YORK 1,Judge of the Superior Court No. 2,,1,REP,Sally A. McLAUGHLIN,593,429,164
+Dearborn,0044 YORK 1,Circuit Court Clerk,,1,REP,Wendy BEATTY,600,437,163
+Dearborn,0044 YORK 1,County Treasurer,,1,REP,Hayley M. HATFIELD,601,439,162
+Dearborn,0044 YORK 1,County Coroner,,1,REP,Cameron McCREARY,601,439,162
+Dearborn,0044 YORK 1,County Surveyor,,1,REP,Dennis KRAUS JR,613,447,166
+Dearborn,0044 YORK 1,County Commissioner,1,1,REP,Jim THATCHER,596,433,163
+Dearborn,0044 YORK 1,County Commissioner,2,1,REP,Duane BISCHOFF,604,434,170
+Dearborn,0044 YORK 1,County Council,,3,,Mark G. DOLE,489,364,125
+Dearborn,0044 YORK 1,County Council,,3,,Tim DOLL,507,370,137
+Dearborn,0044 YORK 1,County Council,,3,,Glenn D. WRIGHT,516,385,131
+Dearborn,0044 YORK 1,County Council,,3,,Hunter COLLINS,100,74,26
+Dearborn,0044 YORK 1,County Council,,3,,Dawn VICTOR,92,68,24
+Dearborn,0044 YORK 1,Community School Corp,7 Sunman-Dearborn,1,,James D. (Jamie) GRAF,558,415,143
+Dearborn,0044 YORK 1,IN Supreme Court-Rush,,,,Yes,450,340,110
+Dearborn,0044 YORK 1,IN Supreme Court-Rush,,,,No,105,71,34
+Dearborn,0044 YORK 1,IN Supreme Court-Massa,,,,Yes,443,338,105
+Dearborn,0044 YORK 1,IN Supreme Court-Massa,,,,No,105,72,33
+Dearborn,0044 YORK 1,IN Supreme Court-Molter,,,,Yes,450,343,107
+Dearborn,0044 YORK 1,IN Supreme Court-Molter,,,,No,99,67,32
+Dearborn,0044 YORK 1,Court of Appeals Dist 1-Foley,,,,Yes,440,333,107
+Dearborn,0044 YORK 1,Court of Appeals Dist 1-Foley,,,,No,103,71,32
+Dearborn,0044 YORK 1,Court of Appeals Dist 4-Pyle III,,,,Yes,430,324,106
+Dearborn,0044 YORK 1,Court of Appeals Dist 4-Pyle III,,,,No,113,78,35
+Dearborn,0045 HOGAN 1,Registered Voters,,,,,879,,
+Dearborn,0045 HOGAN 1,Ballots Cast,,,,,596,321,275
+Dearborn,0045 HOGAN 1,Public Question-Const Amendment,,,,Yes,306,177,129
+Dearborn,0045 HOGAN 1,Public Question-Const Amendment,,,,No,241,123,118
+Dearborn,0045 HOGAN 1,Straight Party,,,REP,Republican,318,173,145
+Dearborn,0045 HOGAN 1,Straight Party,,,DEM,Democratic,57,16,41
+Dearborn,0045 HOGAN 1,Straight Party,,,LBT,Libertarian,0,0,0
+Dearborn,0045 HOGAN 1,Straight Party,,,WTP,We The People,2,1,1
+Dearborn,0045 HOGAN 1,President,,1,REP,Donald J. TRUMP / JD VANCE,467,271,196
+Dearborn,0045 HOGAN 1,President,,1,DEM,Kamala D. HARRIS / Tim WALZ,115,43,72
+Dearborn,0045 HOGAN 1,President,,1,LBT,Chase OLIVER / Mike terr MAAT,2,1,1
+Dearborn,0045 HOGAN 1,President,,1,WTP,Robert F. KENNEDY JR. / Nichole SHANAHAN,7,3,4
+Dearborn,0045 HOGAN 1,President,,1,,Write-In,2,1,1
+Dearborn,0045 HOGAN 1,U.S. Senate,,1,REP,Jim BANKS,460,261,199
+Dearborn,0045 HOGAN 1,U.S. Senate,,1,DEM,Valerie McCRAY,116,46,70
+Dearborn,0045 HOGAN 1,U.S. Senate,,1,LBT,Andrew HORNING,11,6,5
+Dearborn,0045 HOGAN 1,U.S. Senate,,1,,Write-In,0,0,0
+Dearborn,0045 HOGAN 1,Governor,,1,REP,Mike BRAUN / Micah BECKWITH,461,259,202
+Dearborn,0045 HOGAN 1,Governor,,1,DEM,Jennifer G. McCORMICK / Terry GOODIN,113,46,67
+Dearborn,0045 HOGAN 1,Governor,,1,LBT,Donald RAINWATER / Tonya HUDSON,14,10,4
+Dearborn,0045 HOGAN 1,Governor,,1,,Write-In,0,0,0
+Dearborn,0045 HOGAN 1,Attorney General,,1,REP,Todd ROKITA,465,261,204
+Dearborn,0045 HOGAN 1,Attorney General,,1,DEM,Destiny WELLS,118,51,67
+Dearborn,0045 HOGAN 1,U.S. House,9,1,REP,Erin HOUCHIN,471,264,207
+Dearborn,0045 HOGAN 1,U.S. House,9,1,DEM,Timothy (Tim) PECK,102,41,61
+Dearborn,0045 HOGAN 1,U.S. House,9,1,LBT,Russell (Russ) BROOKSBANK,13,9,4
+Dearborn,0045 HOGAN 1,U.S. House,9,1,,Write-In,0,0,0
+Dearborn,0045 HOGAN 1,State House,68,1,REP,Garret R. BASCOM,483,273,210
+Dearborn,0045 HOGAN 1,State House,68,1,DEM,Lisa BARKER,105,43,62
+Dearborn,0045 HOGAN 1,Judge of the Superior Court No. 2,,1,REP,Sally A. McLAUGHLIN,531,293,238
+Dearborn,0045 HOGAN 1,Circuit Court Clerk,,1,REP,Wendy BEATTY,527,290,237
+Dearborn,0045 HOGAN 1,County Treasurer,,1,REP,Hayley M. HATFIELD,524,289,235
+Dearborn,0045 HOGAN 1,County Coroner,,1,REP,Cameron McCREARY,529,294,235
+Dearborn,0045 HOGAN 1,County Surveyor,,1,REP,Dennis KRAUS JR,529,291,238
+Dearborn,0045 HOGAN 1,County Commissioner,1,1,REP,Jim THATCHER,520,289,231
+Dearborn,0045 HOGAN 1,County Commissioner,2,1,REP,Duane BISCHOFF,526,292,234
+Dearborn,0045 HOGAN 1,County Council,,3,,Mark G. DOLE,420,240,180
+Dearborn,0045 HOGAN 1,County Council,,3,,Tim DOLL,410,233,177
+Dearborn,0045 HOGAN 1,County Council,,3,,Glenn D. WRIGHT,438,247,191
+Dearborn,0045 HOGAN 1,County Council,,3,,Hunter COLLINS,109,47,62
+Dearborn,0045 HOGAN 1,County Council,,3,,Dawn VICTOR,110,45,65
+Dearborn,0045 HOGAN 1,Community School Corp,1 South Dearborn,1,,Daryl L. CUTTER,483,269,214
+Dearborn,0045 HOGAN 1,Community School Corp,2 South Dearborn,2,,Kelli J. GENTRUP-PETTIT,450,253,197
+Dearborn,0045 HOGAN 1,Community School Corp,2 South Dearborn,2,,Steven M. HAMLETT,388,221,167
+Dearborn,0045 HOGAN 1,Community School Corp,3 South Dearborn,1,,Chris DAUGHERTY,472,267,205
+Dearborn,0045 HOGAN 1,IN Supreme Court-Rush,,,,Yes,372,199,173
+Dearborn,0045 HOGAN 1,IN Supreme Court-Rush,,,,No,122,63,59
+Dearborn,0045 HOGAN 1,IN Supreme Court-Massa,,,,Yes,368,206,162
+Dearborn,0045 HOGAN 1,IN Supreme Court-Massa,,,,No,119,59,60
+Dearborn,0045 HOGAN 1,IN Supreme Court-Molter,,,,Yes,372,203,169
+Dearborn,0045 HOGAN 1,IN Supreme Court-Molter,,,,No,112,59,53
+Dearborn,0045 HOGAN 1,Court of Appeals Dist 1-Foley,,,,Yes,372,205,167
+Dearborn,0045 HOGAN 1,Court of Appeals Dist 1-Foley,,,,No,108,56,52
+Dearborn,0045 HOGAN 1,Court of Appeals Dist 4-Pyle III,,,,Yes,364,206,158
+Dearborn,0045 HOGAN 1,Court of Appeals Dist 4-Pyle III,,,,No,115,56,59

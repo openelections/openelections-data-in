@@ -1,0 +1,1481 @@
+county,precinct,office,district,seats,party,candidate,votes,early_voting,election_day,absentee
+Warren,ADAMS,Registered Voters,,,,,375,,,
+Warren,ADAMS,Ballots Cast,,,,,287,,,
+Warren,ADAMS,Straight Party,,,REP,Republican,125,36,85,4
+Warren,ADAMS,Straight Party,,,DEM,Democratic,36,7,29,0
+Warren,ADAMS,Straight Party,,,LBT,Libertarian,1,0,1,0
+Warren,ADAMS,Straight Party,,,WTP,We The People,1,1,0,0
+Warren,ADAMS,Straight Party,,,,Total Votes,163,44,115,4
+Warren,ADAMS,Straight Party,,,,Undervotes,124,30,86,8
+Warren,ADAMS,Straight Party,,,,Overvotes,0,0,0,0
+Warren,ADAMS,Public Question-Const Amendment,,,,Yes,131,33,95,3
+Warren,ADAMS,Public Question-Const Amendment,,,,No,135,36,93,6
+Warren,ADAMS,Public Question-Const Amendment,,,,Total Votes,266,69,188,9
+Warren,ADAMS,Public Question-Const Amendment,,,,Undervotes,21,5,13,3
+Warren,ADAMS,Public Question-Const Amendment,,,,Overvotes,0,0,0,0
+Warren,ADAMS,President,,1,REP,Donald J. TRUMP / JD VANCE,198,56,135,7
+Warren,ADAMS,President,,1,DEM,Kamala D. HARRIS / Tim WALZ,79,17,60,2
+Warren,ADAMS,President,,1,LBT,Chase OLIVER / Mike terr MAAT,2,0,2,0
+Warren,ADAMS,President,,1,WTP,Robert F. KENNEDY JR. / Nichole SHANAHAN,3,1,2,0
+Warren,ADAMS,President,,1,,Write-In,0,0,0,0
+Warren,ADAMS,President,,1,,Total Votes,282,74,199,9
+Warren,ADAMS,President,,1,,Undervotes,5,0,2,3
+Warren,ADAMS,President,,1,,Overvotes,0,0,0,0
+Warren,ADAMS,President,,1,,Invalid Votes,0,0,0,0
+Warren,ADAMS,U.S. Senate,,1,REP,Jim BANKS,197,55,136,6
+Warren,ADAMS,U.S. Senate,,1,DEM,Valerie McCRAY,78,16,58,4
+Warren,ADAMS,U.S. Senate,,1,LBT,Andrew HORNING,5,2,3,0
+Warren,ADAMS,U.S. Senate,,1,,Write-In,0,0,0,0
+Warren,ADAMS,U.S. Senate,,1,,Total Votes,280,73,197,10
+Warren,ADAMS,U.S. Senate,,1,,Undervotes,7,1,4,2
+Warren,ADAMS,U.S. Senate,,1,,Overvotes,0,0,0,0
+Warren,ADAMS,U.S. Senate,,1,,Invalid Votes,0,0,0,0
+Warren,ADAMS,Governor,,1,REP,Mike BRAUN / Micah BECKWITH,171,51,115,5
+Warren,ADAMS,Governor,,1,DEM,Jennifer G. McCORMICK / Terry GOODIN,91,17,69,5
+Warren,ADAMS,Governor,,1,LBT,Donald RAINWATER / Tonya HUDSON,19,5,14,0
+Warren,ADAMS,Governor,,1,,Write-In,0,0,0,0
+Warren,ADAMS,Governor,,1,,Total Votes,281,73,198,10
+Warren,ADAMS,Governor,,1,,Undervotes,6,1,3,2
+Warren,ADAMS,Governor,,1,,Overvotes,0,0,0,0
+Warren,ADAMS,Governor,,1,,Invalid Votes,0,0,0,0
+Warren,ADAMS,Attorney General,,1,REP,Todd ROKITA,189,52,132,5
+Warren,ADAMS,Attorney General,,1,DEM,Destiny WELLS,90,19,66,5
+Warren,ADAMS,Attorney General,,1,,Total Votes,279,71,198,10
+Warren,ADAMS,Attorney General,,1,,Undervotes,8,3,3,2
+Warren,ADAMS,Attorney General,,1,,Overvotes,0,0,0,0
+Warren,ADAMS,Attorney General,,1,,Invalid Votes,0,0,0,0
+Warren,ADAMS,U.S. House,4,1,REP,Jim BAIRD,194,55,133,6
+Warren,ADAMS,U.S. House,4,1,DEM,Derrick HOLDER,75,16,55,4
+Warren,ADAMS,U.S. House,4,1,LBT,Ashley GROFF,7,1,6,0
+Warren,ADAMS,U.S. House,4,1,,Total Votes,276,72,194,10
+Warren,ADAMS,U.S. House,4,1,,Undervotes,11,2,7,2
+Warren,ADAMS,U.S. House,4,1,,Overvotes,0,0,0,0
+Warren,ADAMS,U.S. House,4,1,,Invalid Votes,0,0,0,0
+Warren,ADAMS,State House,13,1,REP,Matthew (Matt) COMMONS,222,63,154,5
+Warren,ADAMS,State House,13,1,DEM,Edward (Ed) MOYER JR.,58,9,44,5
+Warren,ADAMS,State House,13,1,,Total Votes,280,72,198,10
+Warren,ADAMS,State House,13,1,,Undervotes,7,2,3,2
+Warren,ADAMS,State House,13,1,,Overvotes,0,0,0,0
+Warren,ADAMS,State House,13,1,,Invalid Votes,0,0,0,0
+Warren,ADAMS,County Treasurer,,1,REP,Kira BAILIFF,241,66,171,4
+Warren,ADAMS,County Treasurer,,1,,Total Votes,241,66,171,4
+Warren,ADAMS,County Treasurer,,1,,Undervotes,46,8,30,8
+Warren,ADAMS,County Treasurer,,1,,Overvotes,0,0,0,0
+Warren,ADAMS,County Treasurer,,1,,Invalid Votes,0,0,0,0
+Warren,ADAMS,County Surveyor,,1,REP,Randy HADDOCK,245,67,170,8
+Warren,ADAMS,County Surveyor,,1,,Total Votes,245,67,170,8
+Warren,ADAMS,County Surveyor,,1,,Undervotes,42,7,31,4
+Warren,ADAMS,County Surveyor,,1,,Overvotes,0,0,0,0
+Warren,ADAMS,County Surveyor,,1,,Invalid Votes,0,0,0,0
+Warren,ADAMS,County Commissioner,1,1,REP,Craig GREENWOOD,242,66,169,7
+Warren,ADAMS,County Commissioner,1,1,,Total Votes,242,66,169,7
+Warren,ADAMS,County Commissioner,1,1,,Undervotes,45,8,32,5
+Warren,ADAMS,County Commissioner,1,1,,Overvotes,0,0,0,0
+Warren,ADAMS,County Commissioner,1,1,,Invalid Votes,0,0,0,0
+Warren,ADAMS,County Commissioner,2,1,REP,Clay ANDREWS,231,64,163,4
+Warren,ADAMS,County Commissioner,2,1,,Total Votes,231,64,163,4
+Warren,ADAMS,County Commissioner,2,1,,Undervotes,56,10,38,8
+Warren,ADAMS,County Commissioner,2,1,,Overvotes,0,0,0,0
+Warren,ADAMS,County Commissioner,2,1,,Invalid Votes,0,0,0,0
+Warren,ADAMS,County Council Member,At Large,3,REP,Brady FOSTER,164,46,113,5
+Warren,ADAMS,County Council Member,At Large,3,REP,Ethan L. FOXWORTHY,202,51,141,10
+Warren,ADAMS,County Council Member,At Large,3,REP,John Thomas HETRICK,148,43,98,7
+Warren,ADAMS,County Council Member,At Large,3,DEM,Clint A. FINK,84,21,58,5
+Warren,ADAMS,County Council Member,At Large,3,,Total Votes,598,161,410,27
+Warren,ADAMS,County Council Member,At Large,3,,Undervotes,263,61,193,9
+Warren,ADAMS,County Council Member,At Large,3,,Overvotes,0,0,0,0
+Warren,ADAMS,School Board Member,Adams and Warren Townships,1,,Dan DUCHEMIN,229,59,164,6
+Warren,ADAMS,School Board Member,Adams and Warren Townships,1,,Total Votes,229,59,164,6
+Warren,ADAMS,School Board Member,Adams and Warren Townships,1,,Undervotes,58,15,37,6
+Warren,ADAMS,School Board Member,Adams and Warren Townships,1,,Overvotes,0,0,0,0
+Warren,ADAMS,School Board Member,Washington Township,1,,Sharon K GRADY,206,53,146,7
+Warren,ADAMS,School Board Member,Washington Township,1,,Total Votes,206,53,146,7
+Warren,ADAMS,School Board Member,Washington Township,1,,Undervotes,81,21,55,5
+Warren,ADAMS,School Board Member,Washington Township,1,,Overvotes,0,0,0,0
+Warren,ADAMS,IN Supreme Court-Rush,,,,Yes,177,44,128,5
+Warren,ADAMS,IN Supreme Court-Rush,,,,No,61,14,44,3
+Warren,ADAMS,IN Supreme Court-Rush,,,,Total Votes,238,58,172,8
+Warren,ADAMS,IN Supreme Court-Rush,,,,Undervotes,49,16,29,4
+Warren,ADAMS,IN Supreme Court-Rush,,,,Overvotes,0,0,0,0
+Warren,ADAMS,IN Supreme Court-Massa,,,,Yes,169,40,123,6
+Warren,ADAMS,IN Supreme Court-Massa,,,,No,64,17,47,0
+Warren,ADAMS,IN Supreme Court-Massa,,,,Total Votes,233,57,170,6
+Warren,ADAMS,IN Supreme Court-Massa,,,,Undervotes,54,17,31,6
+Warren,ADAMS,IN Supreme Court-Massa,,,,Overvotes,0,0,0,0
+Warren,ADAMS,IN Supreme Court-Molter,,,,Yes,168,39,126,3
+Warren,ADAMS,IN Supreme Court-Molter,,,,No,63,17,43,3
+Warren,ADAMS,IN Supreme Court-Molter,,,,Total Votes,231,56,169,6
+Warren,ADAMS,IN Supreme Court-Molter,,,,Undervotes,56,18,32,6
+Warren,ADAMS,IN Supreme Court-Molter,,,,Overvotes,0,0,0,0
+Warren,ADAMS,Court of Appeals Dist 4-Pyle III,,,,Yes,165,43,120,2
+Warren,ADAMS,Court of Appeals Dist 4-Pyle III,,,,No,62,13,45,4
+Warren,ADAMS,Court of Appeals Dist 4-Pyle III,,,,Total Votes,227,56,165,6
+Warren,ADAMS,Court of Appeals Dist 4-Pyle III,,,,Undervotes,60,18,36,6
+Warren,ADAMS,Court of Appeals Dist 4-Pyle III,,,,Overvotes,0,0,0,0
+Warren,JORDAN,Registered Voters,,,,,133,,,
+Warren,JORDAN,Ballots Cast,,,,,92,,,
+Warren,JORDAN,Straight Party,,,REP,Republican,34,14,18,2
+Warren,JORDAN,Straight Party,,,DEM,Democratic,8,1,7,0
+Warren,JORDAN,Straight Party,,,LBT,Libertarian,0,0,0,0
+Warren,JORDAN,Straight Party,,,WTP,We The People,1,1,0,0
+Warren,JORDAN,Straight Party,,,,Total Votes,43,16,25,2
+Warren,JORDAN,Straight Party,,,,Undervotes,49,11,37,1
+Warren,JORDAN,Straight Party,,,,Overvotes,0,0,0,0
+Warren,JORDAN,Public Question-Const Amendment,,,,Yes,36,11,24,1
+Warren,JORDAN,Public Question-Const Amendment,,,,No,45,13,32,0
+Warren,JORDAN,Public Question-Const Amendment,,,,Total Votes,81,24,56,1
+Warren,JORDAN,Public Question-Const Amendment,,,,Undervotes,11,3,6,2
+Warren,JORDAN,Public Question-Const Amendment,,,,Overvotes,0,0,0,0
+Warren,JORDAN,President,,1,REP,Donald J. TRUMP / JD VANCE,70,20,47,3
+Warren,JORDAN,President,,1,DEM,Kamala D. HARRIS / Tim WALZ,22,7,15,0
+Warren,JORDAN,President,,1,LBT,Chase OLIVER / Mike terr MAAT,0,0,0,0
+Warren,JORDAN,President,,1,WTP,Robert F. KENNEDY JR. / Nichole SHANAHAN,0,0,0,0
+Warren,JORDAN,President,,1,,Write-In,0,0,0,0
+Warren,JORDAN,President,,1,,Total Votes,92,27,62,3
+Warren,JORDAN,President,,1,,Undervotes,0,0,0,0
+Warren,JORDAN,President,,1,,Overvotes,0,0,0,0
+Warren,JORDAN,President,,1,,Invalid Votes,0,0,0,0
+Warren,JORDAN,U.S. Senate,,1,REP,Jim BANKS,67,21,43,3
+Warren,JORDAN,U.S. Senate,,1,DEM,Valerie McCRAY,24,6,18,0
+Warren,JORDAN,U.S. Senate,,1,LBT,Andrew HORNING,0,0,0,0
+Warren,JORDAN,U.S. Senate,,1,,Write-In,0,0,0,0
+Warren,JORDAN,U.S. Senate,,1,,Total Votes,91,27,61,3
+Warren,JORDAN,U.S. Senate,,1,,Undervotes,1,0,1,0
+Warren,JORDAN,U.S. Senate,,1,,Overvotes,0,0,0,0
+Warren,JORDAN,U.S. Senate,,1,,Invalid Votes,0,0,0,0
+Warren,JORDAN,Governor,,1,REP,Mike BRAUN / Micah BECKWITH,53,16,34,3
+Warren,JORDAN,Governor,,1,DEM,Jennifer G. McCORMICK / Terry GOODIN,26,7,19,0
+Warren,JORDAN,Governor,,1,LBT,Donald RAINWATER / Tonya HUDSON,12,4,8,0
+Warren,JORDAN,Governor,,1,,Write-In,0,0,0,0
+Warren,JORDAN,Governor,,1,,Total Votes,91,27,61,3
+Warren,JORDAN,Governor,,1,,Undervotes,1,0,1,0
+Warren,JORDAN,Governor,,1,,Overvotes,0,0,0,0
+Warren,JORDAN,Governor,,1,,Invalid Votes,0,0,0,0
+Warren,JORDAN,Attorney General,,1,REP,Todd ROKITA,59,20,36,3
+Warren,JORDAN,Attorney General,,1,DEM,Destiny WELLS,30,7,23,0
+Warren,JORDAN,Attorney General,,1,,Total Votes,89,27,59,3
+Warren,JORDAN,Attorney General,,1,,Undervotes,3,0,3,0
+Warren,JORDAN,Attorney General,,1,,Overvotes,0,0,0,0
+Warren,JORDAN,Attorney General,,1,,Invalid Votes,0,0,0,0
+Warren,JORDAN,U.S. House,4,1,REP,Jim BAIRD,68,21,44,3
+Warren,JORDAN,U.S. House,4,1,DEM,Derrick HOLDER,21,6,15,0
+Warren,JORDAN,U.S. House,4,1,LBT,Ashley GROFF,0,0,0,0
+Warren,JORDAN,U.S. House,4,1,,Total Votes,89,27,59,3
+Warren,JORDAN,U.S. House,4,1,,Undervotes,3,0,3,0
+Warren,JORDAN,U.S. House,4,1,,Overvotes,0,0,0,0
+Warren,JORDAN,U.S. House,4,1,,Invalid Votes,0,0,0,0
+Warren,JORDAN,State House,13,1,REP,Matthew (Matt) COMMONS,76,25,48,3
+Warren,JORDAN,State House,13,1,DEM,Edward (Ed) MOYER JR.,14,2,12,0
+Warren,JORDAN,State House,13,1,,Total Votes,90,27,60,3
+Warren,JORDAN,State House,13,1,,Undervotes,2,0,2,0
+Warren,JORDAN,State House,13,1,,Overvotes,0,0,0,0
+Warren,JORDAN,State House,13,1,,Invalid Votes,0,0,0,0
+Warren,JORDAN,County Treasurer,,1,REP,Kira BAILIFF,77,22,53,2
+Warren,JORDAN,County Treasurer,,1,,Total Votes,77,22,53,2
+Warren,JORDAN,County Treasurer,,1,,Undervotes,15,5,9,1
+Warren,JORDAN,County Treasurer,,1,,Overvotes,0,0,0,0
+Warren,JORDAN,County Treasurer,,1,,Invalid Votes,0,0,0,0
+Warren,JORDAN,County Surveyor,,1,REP,Randy HADDOCK,79,25,52,2
+Warren,JORDAN,County Surveyor,,1,,Total Votes,79,25,52,2
+Warren,JORDAN,County Surveyor,,1,,Undervotes,13,2,10,1
+Warren,JORDAN,County Surveyor,,1,,Overvotes,0,0,0,0
+Warren,JORDAN,County Surveyor,,1,,Invalid Votes,0,0,0,0
+Warren,JORDAN,County Commissioner,1,1,REP,Craig GREENWOOD,80,25,53,2
+Warren,JORDAN,County Commissioner,1,1,,Total Votes,80,25,53,2
+Warren,JORDAN,County Commissioner,1,1,,Undervotes,12,2,9,1
+Warren,JORDAN,County Commissioner,1,1,,Overvotes,0,0,0,0
+Warren,JORDAN,County Commissioner,1,1,,Invalid Votes,0,0,0,0
+Warren,JORDAN,County Commissioner,2,1,REP,Clay ANDREWS,73,21,50,2
+Warren,JORDAN,County Commissioner,2,1,,Total Votes,73,21,50,2
+Warren,JORDAN,County Commissioner,2,1,,Undervotes,19,6,12,1
+Warren,JORDAN,County Commissioner,2,1,,Overvotes,0,0,0,0
+Warren,JORDAN,County Commissioner,2,1,,Invalid Votes,0,0,0,0
+Warren,JORDAN,County Council Member,At Large,3,REP,Brady FOSTER,53,14,37,2
+Warren,JORDAN,County Council Member,At Large,3,REP,Ethan L. FOXWORTHY,44,12,31,1
+Warren,JORDAN,County Council Member,At Large,3,REP,John Thomas HETRICK,59,10,47,2
+Warren,JORDAN,County Council Member,At Large,3,DEM,Clint A. FINK,28,10,18,0
+Warren,JORDAN,County Council Member,At Large,3,,Total Votes,184,46,133,5
+Warren,JORDAN,County Council Member,At Large,3,,Undervotes,92,35,53,4
+Warren,JORDAN,County Council Member,At Large,3,,Overvotes,0,0,0,0
+Warren,JORDAN,School Board Member,Adams and Warren Townships,1,,Dan DUCHEMIN,60,14,45,1
+Warren,JORDAN,School Board Member,Adams and Warren Townships,1,,Total Votes,60,14,45,1
+Warren,JORDAN,School Board Member,Adams and Warren Townships,1,,Undervotes,32,13,17,2
+Warren,JORDAN,School Board Member,Adams and Warren Townships,1,,Overvotes,0,0,0,0
+Warren,JORDAN,School Board Member,Washington Township,1,,Sharon K GRADY,62,19,43,0
+Warren,JORDAN,School Board Member,Washington Township,1,,Total Votes,62,19,43,0
+Warren,JORDAN,School Board Member,Washington Township,1,,Undervotes,30,8,19,3
+Warren,JORDAN,School Board Member,Washington Township,1,,Overvotes,0,0,0,0
+Warren,JORDAN,IN Supreme Court-Rush,,,,Yes,57,17,40,0
+Warren,JORDAN,IN Supreme Court-Rush,,,,No,17,3,14,0
+Warren,JORDAN,IN Supreme Court-Rush,,,,Total Votes,74,20,54,0
+Warren,JORDAN,IN Supreme Court-Rush,,,,Undervotes,18,7,8,3
+Warren,JORDAN,IN Supreme Court-Rush,,,,Overvotes,0,0,0,0
+Warren,JORDAN,IN Supreme Court-Massa,,,,Yes,55,17,38,0
+Warren,JORDAN,IN Supreme Court-Massa,,,,No,16,2,14,0
+Warren,JORDAN,IN Supreme Court-Massa,,,,Total Votes,71,19,52,0
+Warren,JORDAN,IN Supreme Court-Massa,,,,Undervotes,21,8,10,3
+Warren,JORDAN,IN Supreme Court-Massa,,,,Overvotes,0,0,0,0
+Warren,JORDAN,IN Supreme Court-Molter,,,,Yes,58,17,41,0
+Warren,JORDAN,IN Supreme Court-Molter,,,,No,14,2,12,0
+Warren,JORDAN,IN Supreme Court-Molter,,,,Total Votes,72,19,53,0
+Warren,JORDAN,IN Supreme Court-Molter,,,,Undervotes,20,8,9,3
+Warren,JORDAN,IN Supreme Court-Molter,,,,Overvotes,0,0,0,0
+Warren,JORDAN,Court of Appeals Dist 4-Pyle III,,,,Yes,54,17,37,0
+Warren,JORDAN,Court of Appeals Dist 4-Pyle III,,,,No,18,2,16,0
+Warren,JORDAN,Court of Appeals Dist 4-Pyle III,,,,Total Votes,72,19,53,0
+Warren,JORDAN,Court of Appeals Dist 4-Pyle III,,,,Undervotes,20,8,9,3
+Warren,JORDAN,Court of Appeals Dist 4-Pyle III,,,,Overvotes,0,0,0,0
+Warren,KENT,Registered Voters,,,,,321,,,
+Warren,KENT,Ballots Cast,,,,,225,,,
+Warren,KENT,Straight Party,,,REP,Republican,123,39,81,3
+Warren,KENT,Straight Party,,,DEM,Democratic,30,14,15,1
+Warren,KENT,Straight Party,,,LBT,Libertarian,1,0,1,0
+Warren,KENT,Straight Party,,,WTP,We The People,0,0,0,0
+Warren,KENT,Straight Party,,,,Total Votes,154,53,97,4
+Warren,KENT,Straight Party,,,,Undervotes,71,19,49,3
+Warren,KENT,Straight Party,,,,Overvotes,0,0,0,0
+Warren,KENT,Public Question-Const Amendment,,,,Yes,99,29,68,2
+Warren,KENT,Public Question-Const Amendment,,,,No,98,32,64,2
+Warren,KENT,Public Question-Const Amendment,,,,Total Votes,197,61,132,4
+Warren,KENT,Public Question-Const Amendment,,,,Undervotes,28,11,14,3
+Warren,KENT,Public Question-Const Amendment,,,,Overvotes,0,0,0,0
+Warren,KENT,President,,1,REP,Donald J. TRUMP / JD VANCE,182,54,124,4
+Warren,KENT,President,,1,DEM,Kamala D. HARRIS / Tim WALZ,43,18,22,3
+Warren,KENT,President,,1,LBT,Chase OLIVER / Mike terr MAAT,0,0,0,0
+Warren,KENT,President,,1,WTP,Robert F. KENNEDY JR. / Nichole SHANAHAN,0,0,0,0
+Warren,KENT,President,,1,,Write-In,0,0,0,0
+Warren,KENT,President,,1,,Total Votes,225,72,146,7
+Warren,KENT,President,,1,,Undervotes,0,0,0,0
+Warren,KENT,President,,1,,Overvotes,0,0,0,0
+Warren,KENT,President,,1,,Invalid Votes,0,0,0,0
+Warren,KENT,U.S. Senate,,1,REP,Jim BANKS,172,51,117,4
+Warren,KENT,U.S. Senate,,1,DEM,Valerie McCRAY,40,17,21,2
+Warren,KENT,U.S. Senate,,1,LBT,Andrew HORNING,6,1,5,0
+Warren,KENT,U.S. Senate,,1,,Write-In,0,0,0,0
+Warren,KENT,U.S. Senate,,1,,Total Votes,218,69,143,6
+Warren,KENT,U.S. Senate,,1,,Undervotes,7,3,3,1
+Warren,KENT,U.S. Senate,,1,,Overvotes,0,0,0,0
+Warren,KENT,U.S. Senate,,1,,Invalid Votes,0,0,0,0
+Warren,KENT,Governor,,1,REP,Mike BRAUN / Micah BECKWITH,168,51,112,5
+Warren,KENT,Governor,,1,DEM,Jennifer G. McCORMICK / Terry GOODIN,45,17,27,1
+Warren,KENT,Governor,,1,LBT,Donald RAINWATER / Tonya HUDSON,7,1,6,0
+Warren,KENT,Governor,,1,,Write-In,0,0,0,0
+Warren,KENT,Governor,,1,,Total Votes,220,69,145,6
+Warren,KENT,Governor,,1,,Undervotes,5,3,1,1
+Warren,KENT,Governor,,1,,Overvotes,0,0,0,0
+Warren,KENT,Governor,,1,,Invalid Votes,0,0,0,0
+Warren,KENT,Attorney General,,1,REP,Todd ROKITA,171,53,114,4
+Warren,KENT,Attorney General,,1,DEM,Destiny WELLS,48,17,29,2
+Warren,KENT,Attorney General,,1,,Total Votes,219,70,143,6
+Warren,KENT,Attorney General,,1,,Undervotes,6,2,3,1
+Warren,KENT,Attorney General,,1,,Overvotes,0,0,0,0
+Warren,KENT,Attorney General,,1,,Invalid Votes,0,0,0,0
+Warren,KENT,U.S. House,4,1,REP,Jim BAIRD,171,53,114,4
+Warren,KENT,U.S. House,4,1,DEM,Derrick HOLDER,42,17,23,2
+Warren,KENT,U.S. House,4,1,LBT,Ashley GROFF,6,1,5,0
+Warren,KENT,U.S. House,4,1,,Total Votes,219,71,142,6
+Warren,KENT,U.S. House,4,1,,Undervotes,6,1,4,1
+Warren,KENT,U.S. House,4,1,,Overvotes,0,0,0,0
+Warren,KENT,U.S. House,4,1,,Invalid Votes,0,0,0,0
+Warren,KENT,State House,13,1,REP,Matthew (Matt) COMMONS,179,54,121,4
+Warren,KENT,State House,13,1,DEM,Edward (Ed) MOYER JR.,41,16,23,2
+Warren,KENT,State House,13,1,,Total Votes,220,70,144,6
+Warren,KENT,State House,13,1,,Undervotes,5,2,2,1
+Warren,KENT,State House,13,1,,Overvotes,0,0,0,0
+Warren,KENT,State House,13,1,,Invalid Votes,0,0,0,0
+Warren,KENT,County Treasurer,,1,REP,Kira BAILIFF,199,60,134,5
+Warren,KENT,County Treasurer,,1,,Total Votes,199,60,134,5
+Warren,KENT,County Treasurer,,1,,Undervotes,26,12,12,2
+Warren,KENT,County Treasurer,,1,,Overvotes,0,0,0,0
+Warren,KENT,County Treasurer,,1,,Invalid Votes,0,0,0,0
+Warren,KENT,County Surveyor,,1,REP,Randy HADDOCK,194,62,127,5
+Warren,KENT,County Surveyor,,1,,Total Votes,194,62,127,5
+Warren,KENT,County Surveyor,,1,,Undervotes,31,10,19,2
+Warren,KENT,County Surveyor,,1,,Overvotes,0,0,0,0
+Warren,KENT,County Surveyor,,1,,Invalid Votes,0,0,0,0
+Warren,KENT,County Commissioner,1,1,REP,Craig GREENWOOD,195,59,131,5
+Warren,KENT,County Commissioner,1,1,,Total Votes,195,59,131,5
+Warren,KENT,County Commissioner,1,1,,Undervotes,30,13,15,2
+Warren,KENT,County Commissioner,1,1,,Overvotes,0,0,0,0
+Warren,KENT,County Commissioner,1,1,,Invalid Votes,0,0,0,0
+Warren,KENT,County Commissioner,2,1,REP,Clay ANDREWS,190,55,130,5
+Warren,KENT,County Commissioner,2,1,,Total Votes,190,55,130,5
+Warren,KENT,County Commissioner,2,1,,Undervotes,35,17,16,2
+Warren,KENT,County Commissioner,2,1,,Overvotes,0,0,0,0
+Warren,KENT,County Commissioner,2,1,,Invalid Votes,0,0,0,0
+Warren,KENT,County Council Member,At Large,3,REP,Brady FOSTER,138,39,95,4
+Warren,KENT,County Council Member,At Large,3,REP,Ethan L. FOXWORTHY,129,40,84,5
+Warren,KENT,County Council Member,At Large,3,REP,John Thomas HETRICK,120,40,75,5
+Warren,KENT,County Council Member,At Large,3,DEM,Clint A. FINK,44,14,29,1
+Warren,KENT,County Council Member,At Large,3,,Total Votes,431,133,283,15
+Warren,KENT,County Council Member,At Large,3,,Undervotes,244,83,155,6
+Warren,KENT,County Council Member,At Large,3,,Overvotes,0,0,0,0
+Warren,KENT,School Board Member,Adams and Warren Townships,1,,Dan DUCHEMIN,149,42,104,3
+Warren,KENT,School Board Member,Adams and Warren Townships,1,,Total Votes,149,42,104,3
+Warren,KENT,School Board Member,Adams and Warren Townships,1,,Undervotes,76,30,42,4
+Warren,KENT,School Board Member,Adams and Warren Townships,1,,Overvotes,0,0,0,0
+Warren,KENT,School Board Member,Washington Township,1,,Sharon K GRADY,151,43,105,3
+Warren,KENT,School Board Member,Washington Township,1,,Total Votes,151,43,105,3
+Warren,KENT,School Board Member,Washington Township,1,,Undervotes,74,29,41,4
+Warren,KENT,School Board Member,Washington Township,1,,Overvotes,0,0,0,0
+Warren,KENT,IN Supreme Court-Rush,,,,Yes,135,37,94,4
+Warren,KENT,IN Supreme Court-Rush,,,,No,44,16,28,0
+Warren,KENT,IN Supreme Court-Rush,,,,Total Votes,179,53,122,4
+Warren,KENT,IN Supreme Court-Rush,,,,Undervotes,46,19,24,3
+Warren,KENT,IN Supreme Court-Rush,,,,Overvotes,0,0,0,0
+Warren,KENT,IN Supreme Court-Massa,,,,Yes,128,36,88,4
+Warren,KENT,IN Supreme Court-Massa,,,,No,43,14,29,0
+Warren,KENT,IN Supreme Court-Massa,,,,Total Votes,171,50,117,4
+Warren,KENT,IN Supreme Court-Massa,,,,Undervotes,54,22,29,3
+Warren,KENT,IN Supreme Court-Massa,,,,Overvotes,0,0,0,0
+Warren,KENT,IN Supreme Court-Molter,,,,Yes,135,37,94,4
+Warren,KENT,IN Supreme Court-Molter,,,,No,38,14,24,0
+Warren,KENT,IN Supreme Court-Molter,,,,Total Votes,173,51,118,4
+Warren,KENT,IN Supreme Court-Molter,,,,Undervotes,52,21,28,3
+Warren,KENT,IN Supreme Court-Molter,,,,Overvotes,0,0,0,0
+Warren,KENT,Court of Appeals Dist 4-Pyle III,,,,Yes,134,39,91,4
+Warren,KENT,Court of Appeals Dist 4-Pyle III,,,,No,39,13,26,0
+Warren,KENT,Court of Appeals Dist 4-Pyle III,,,,Total Votes,173,52,117,4
+Warren,KENT,Court of Appeals Dist 4-Pyle III,,,,Undervotes,52,20,29,3
+Warren,KENT,Court of Appeals Dist 4-Pyle III,,,,Overvotes,0,0,0,0
+Warren,LIBERTY,Registered Voters,,,,,670,,,
+Warren,LIBERTY,Ballots Cast,,,,,492,,,
+Warren,LIBERTY,Straight Party,,,REP,Republican,187,84,100,3
+Warren,LIBERTY,Straight Party,,,DEM,Democratic,42,25,13,4
+Warren,LIBERTY,Straight Party,,,LBT,Libertarian,2,1,1,0
+Warren,LIBERTY,Straight Party,,,WTP,We The People,2,0,2,0
+Warren,LIBERTY,Straight Party,,,,Total Votes,233,110,116,7
+Warren,LIBERTY,Straight Party,,,,Undervotes,259,112,139,8
+Warren,LIBERTY,Straight Party,,,,Overvotes,0,0,0,0
+Warren,LIBERTY,Public Question-Const Amendment,,,,Yes,214,96,109,9
+Warren,LIBERTY,Public Question-Const Amendment,,,,No,229,107,117,5
+Warren,LIBERTY,Public Question-Const Amendment,,,,Total Votes,443,203,226,14
+Warren,LIBERTY,Public Question-Const Amendment,,,,Undervotes,49,19,29,1
+Warren,LIBERTY,Public Question-Const Amendment,,,,Overvotes,0,0,0,0
+Warren,LIBERTY,President,,1,REP,Donald J. TRUMP / JD VANCE,360,155,198,7
+Warren,LIBERTY,President,,1,DEM,Kamala D. HARRIS / Tim WALZ,108,60,41,7
+Warren,LIBERTY,President,,1,LBT,Chase OLIVER / Mike terr MAAT,7,4,3,0
+Warren,LIBERTY,President,,1,WTP,Robert F. KENNEDY JR. / Nichole SHANAHAN,15,2,12,1
+Warren,LIBERTY,President,,1,,Write-In,0,0,0,0
+Warren,LIBERTY,President,,1,,Total Votes,490,221,254,15
+Warren,LIBERTY,President,,1,,Undervotes,2,1,1,0
+Warren,LIBERTY,President,,1,,Overvotes,0,0,0,0
+Warren,LIBERTY,President,,1,,Invalid Votes,0,0,0,0
+Warren,LIBERTY,U.S. Senate,,1,REP,Jim BANKS,357,155,195,7
+Warren,LIBERTY,U.S. Senate,,1,DEM,Valerie McCRAY,111,60,43,8
+Warren,LIBERTY,U.S. Senate,,1,LBT,Andrew HORNING,13,2,11,0
+Warren,LIBERTY,U.S. Senate,,1,,Write-In,0,0,0,0
+Warren,LIBERTY,U.S. Senate,,1,,Total Votes,481,217,249,15
+Warren,LIBERTY,U.S. Senate,,1,,Undervotes,11,5,6,0
+Warren,LIBERTY,U.S. Senate,,1,,Overvotes,0,0,0,0
+Warren,LIBERTY,U.S. Senate,,1,,Invalid Votes,0,0,0,0
+Warren,LIBERTY,Governor,,1,REP,Mike BRAUN / Micah BECKWITH,322,142,173,7
+Warren,LIBERTY,Governor,,1,DEM,Jennifer G. McCORMICK / Terry GOODIN,129,68,54,7
+Warren,LIBERTY,Governor,,1,LBT,Donald RAINWATER / Tonya HUDSON,32,6,25,1
+Warren,LIBERTY,Governor,,1,,Write-In,0,0,0,0
+Warren,LIBERTY,Governor,,1,,Total Votes,483,216,252,15
+Warren,LIBERTY,Governor,,1,,Undervotes,9,6,3,0
+Warren,LIBERTY,Governor,,1,,Overvotes,0,0,0,0
+Warren,LIBERTY,Governor,,1,,Invalid Votes,0,0,0,0
+Warren,LIBERTY,Attorney General,,1,REP,Todd ROKITA,354,150,197,7
+Warren,LIBERTY,Attorney General,,1,DEM,Destiny WELLS,129,66,55,8
+Warren,LIBERTY,Attorney General,,1,,Total Votes,483,216,252,15
+Warren,LIBERTY,Attorney General,,1,,Undervotes,9,6,3,0
+Warren,LIBERTY,Attorney General,,1,,Overvotes,0,0,0,0
+Warren,LIBERTY,Attorney General,,1,,Invalid Votes,0,0,0,0
+Warren,LIBERTY,U.S. House,4,1,REP,Jim BAIRD,370,161,202,7
+Warren,LIBERTY,U.S. House,4,1,DEM,Derrick HOLDER,102,56,38,8
+Warren,LIBERTY,U.S. House,4,1,LBT,Ashley GROFF,11,1,10,0
+Warren,LIBERTY,U.S. House,4,1,,Total Votes,483,218,250,15
+Warren,LIBERTY,U.S. House,4,1,,Undervotes,9,4,5,0
+Warren,LIBERTY,U.S. House,4,1,,Overvotes,0,0,0,0
+Warren,LIBERTY,U.S. House,4,1,,Invalid Votes,0,0,0,0
+Warren,LIBERTY,State House,13,1,REP,Matthew (Matt) COMMONS,405,175,223,7
+Warren,LIBERTY,State House,13,1,DEM,Edward (Ed) MOYER JR.,84,47,29,8
+Warren,LIBERTY,State House,13,1,,Total Votes,489,222,252,15
+Warren,LIBERTY,State House,13,1,,Undervotes,3,0,3,0
+Warren,LIBERTY,State House,13,1,,Overvotes,0,0,0,0
+Warren,LIBERTY,State House,13,1,,Invalid Votes,0,0,0,0
+Warren,LIBERTY,County Treasurer,,1,REP,Kira BAILIFF,424,186,227,11
+Warren,LIBERTY,County Treasurer,,1,,Total Votes,424,186,227,11
+Warren,LIBERTY,County Treasurer,,1,,Undervotes,68,36,28,4
+Warren,LIBERTY,County Treasurer,,1,,Overvotes,0,0,0,0
+Warren,LIBERTY,County Treasurer,,1,,Invalid Votes,0,0,0,0
+Warren,LIBERTY,County Surveyor,,1,REP,Randy HADDOCK,434,196,226,12
+Warren,LIBERTY,County Surveyor,,1,,Total Votes,434,196,226,12
+Warren,LIBERTY,County Surveyor,,1,,Undervotes,58,26,29,3
+Warren,LIBERTY,County Surveyor,,1,,Overvotes,0,0,0,0
+Warren,LIBERTY,County Surveyor,,1,,Invalid Votes,0,0,0,0
+Warren,LIBERTY,County Commissioner,1,1,REP,Craig GREENWOOD,419,180,227,12
+Warren,LIBERTY,County Commissioner,1,1,,Total Votes,419,180,227,12
+Warren,LIBERTY,County Commissioner,1,1,,Undervotes,73,42,28,3
+Warren,LIBERTY,County Commissioner,1,1,,Overvotes,0,0,0,0
+Warren,LIBERTY,County Commissioner,1,1,,Invalid Votes,0,0,0,0
+Warren,LIBERTY,County Commissioner,2,1,REP,Clay ANDREWS,403,173,220,10
+Warren,LIBERTY,County Commissioner,2,1,,Total Votes,403,173,220,10
+Warren,LIBERTY,County Commissioner,2,1,,Undervotes,89,49,35,5
+Warren,LIBERTY,County Commissioner,2,1,,Overvotes,0,0,0,0
+Warren,LIBERTY,County Commissioner,2,1,,Invalid Votes,0,0,0,0
+Warren,LIBERTY,County Council Member,At Large,3,REP,Brady FOSTER,291,138,145,8
+Warren,LIBERTY,County Council Member,At Large,3,REP,Ethan L. FOXWORTHY,304,141,156,7
+Warren,LIBERTY,County Council Member,At Large,3,REP,John Thomas HETRICK,267,127,135,5
+Warren,LIBERTY,County Council Member,At Large,3,DEM,Clint A. FINK,155,70,74,11
+Warren,LIBERTY,County Council Member,At Large,3,,Total Votes,1017,476,510,31
+Warren,LIBERTY,County Council Member,At Large,3,,Undervotes,459,190,255,14
+Warren,LIBERTY,County Council Member,At Large,3,,Overvotes,0,0,0,0
+Warren,LIBERTY,School Board Member,Adams and Warren Townships,1,,Dan DUCHEMIN,369,177,183,9
+Warren,LIBERTY,School Board Member,Adams and Warren Townships,1,,Total Votes,369,177,183,9
+Warren,LIBERTY,School Board Member,Adams and Warren Townships,1,,Undervotes,123,45,72,6
+Warren,LIBERTY,School Board Member,Adams and Warren Townships,1,,Overvotes,0,0,0,0
+Warren,LIBERTY,School Board Member,Washington Township,1,,Sharon K GRADY,378,186,180,12
+Warren,LIBERTY,School Board Member,Washington Township,1,,Total Votes,378,186,180,12
+Warren,LIBERTY,School Board Member,Washington Township,1,,Undervotes,114,36,75,3
+Warren,LIBERTY,School Board Member,Washington Township,1,,Overvotes,0,0,0,0
+Warren,LIBERTY,IN Supreme Court-Rush,,,,Yes,297,140,148,9
+Warren,LIBERTY,IN Supreme Court-Rush,,,,No,115,47,64,4
+Warren,LIBERTY,IN Supreme Court-Rush,,,,Total Votes,412,187,212,13
+Warren,LIBERTY,IN Supreme Court-Rush,,,,Undervotes,80,35,43,2
+Warren,LIBERTY,IN Supreme Court-Rush,,,,Overvotes,0,0,0,0
+Warren,LIBERTY,IN Supreme Court-Massa,,,,Yes,279,132,140,7
+Warren,LIBERTY,IN Supreme Court-Massa,,,,No,111,47,58,6
+Warren,LIBERTY,IN Supreme Court-Massa,,,,Total Votes,390,179,198,13
+Warren,LIBERTY,IN Supreme Court-Massa,,,,Undervotes,102,43,57,2
+Warren,LIBERTY,IN Supreme Court-Massa,,,,Overvotes,0,0,0,0
+Warren,LIBERTY,IN Supreme Court-Molter,,,,Yes,273,128,137,8
+Warren,LIBERTY,IN Supreme Court-Molter,,,,No,111,48,58,5
+Warren,LIBERTY,IN Supreme Court-Molter,,,,Total Votes,384,176,195,13
+Warren,LIBERTY,IN Supreme Court-Molter,,,,Undervotes,108,46,60,2
+Warren,LIBERTY,IN Supreme Court-Molter,,,,Overvotes,0,0,0,0
+Warren,LIBERTY,Court of Appeals Dist 4-Pyle III,,,,Yes,282,133,141,8
+Warren,LIBERTY,Court of Appeals Dist 4-Pyle III,,,,No,97,38,55,4
+Warren,LIBERTY,Court of Appeals Dist 4-Pyle III,,,,Total Votes,379,171,196,12
+Warren,LIBERTY,Court of Appeals Dist 4-Pyle III,,,,Undervotes,113,51,59,3
+Warren,LIBERTY,Court of Appeals Dist 4-Pyle III,,,,Overvotes,0,0,0,0
+Warren,MEDINA,Registered Voters,,,,,407,,,
+Warren,MEDINA,Ballots Cast,,,,,289,,,
+Warren,MEDINA,Straight Party,,,REP,Republican,136,56,78,2
+Warren,MEDINA,Straight Party,,,DEM,Democratic,26,8,15,3
+Warren,MEDINA,Straight Party,,,LBT,Libertarian,1,1,0,0
+Warren,MEDINA,Straight Party,,,WTP,We The People,2,0,2,0
+Warren,MEDINA,Straight Party,,,,Total Votes,165,65,95,5
+Warren,MEDINA,Straight Party,,,,Undervotes,125,56,64,5
+Warren,MEDINA,Straight Party,,,,Overvotes,0,0,0,0
+Warren,MEDINA,Public Question-Const Amendment,,,,Yes,131,56,73,2
+Warren,MEDINA,Public Question-Const Amendment,,,,No,129,54,69,6
+Warren,MEDINA,Public Question-Const Amendment,,,,Total Votes,260,110,142,8
+Warren,MEDINA,Public Question-Const Amendment,,,,Undervotes,30,11,17,2
+Warren,MEDINA,Public Question-Const Amendment,,,,Overvotes,0,0,0,0
+Warren,MEDINA,President,,1,REP,Donald J. TRUMP / JD VANCE,225,94,126,5
+Warren,MEDINA,President,,1,DEM,Kamala D. HARRIS / Tim WALZ,61,26,30,5
+Warren,MEDINA,President,,1,LBT,Chase OLIVER / Mike terr MAAT,1,0,1,0
+Warren,MEDINA,President,,1,WTP,Robert F. KENNEDY JR. / Nichole SHANAHAN,3,1,2,0
+Warren,MEDINA,President,,1,,Write-In,0,0,0,0
+Warren,MEDINA,President,,1,,Total Votes,290,121,159,10
+Warren,MEDINA,President,,1,,Undervotes,0,0,0,0
+Warren,MEDINA,President,,1,,Overvotes,0,0,0,0
+Warren,MEDINA,President,,1,,Invalid Votes,0,0,0,0
+Warren,MEDINA,U.S. Senate,,1,REP,Jim BANKS,227,95,128,4
+Warren,MEDINA,U.S. Senate,,1,DEM,Valerie McCRAY,56,23,28,5
+Warren,MEDINA,U.S. Senate,,1,LBT,Andrew HORNING,4,1,3,0
+Warren,MEDINA,U.S. Senate,,1,,Write-In,0,0,0,0
+Warren,MEDINA,U.S. Senate,,1,,Total Votes,287,119,159,9
+Warren,MEDINA,U.S. Senate,,1,,Undervotes,3,2,0,1
+Warren,MEDINA,U.S. Senate,,1,,Overvotes,0,0,0,0
+Warren,MEDINA,U.S. Senate,,1,,Invalid Votes,0,0,0,0
+Warren,MEDINA,Governor,,1,REP,Mike BRAUN / Micah BECKWITH,216,87,125,4
+Warren,MEDINA,Governor,,1,DEM,Jennifer G. McCORMICK / Terry GOODIN,62,27,30,5
+Warren,MEDINA,Governor,,1,LBT,Donald RAINWATER / Tonya HUDSON,10,7,3,0
+Warren,MEDINA,Governor,,1,,Write-In,0,0,0,0
+Warren,MEDINA,Governor,,1,,Total Votes,288,121,158,9
+Warren,MEDINA,Governor,,1,,Undervotes,2,0,1,1
+Warren,MEDINA,Governor,,1,,Overvotes,0,0,0,0
+Warren,MEDINA,Governor,,1,,Invalid Votes,0,0,0,0
+Warren,MEDINA,Attorney General,,1,REP,Todd ROKITA,223,94,126,3
+Warren,MEDINA,Attorney General,,1,DEM,Destiny WELLS,62,26,31,5
+Warren,MEDINA,Attorney General,,1,,Total Votes,285,120,157,8
+Warren,MEDINA,Attorney General,,1,,Undervotes,5,1,2,2
+Warren,MEDINA,Attorney General,,1,,Overvotes,0,0,0,0
+Warren,MEDINA,Attorney General,,1,,Invalid Votes,0,0,0,0
+Warren,MEDINA,U.S. House,4,1,REP,Jim BAIRD,227,97,127,3
+Warren,MEDINA,U.S. House,4,1,DEM,Derrick HOLDER,50,21,24,5
+Warren,MEDINA,U.S. House,4,1,LBT,Ashley GROFF,7,2,5,0
+Warren,MEDINA,U.S. House,4,1,,Total Votes,284,120,156,8
+Warren,MEDINA,U.S. House,4,1,,Undervotes,6,1,3,2
+Warren,MEDINA,U.S. House,4,1,,Overvotes,0,0,0,0
+Warren,MEDINA,U.S. House,4,1,,Invalid Votes,0,0,0,0
+Warren,MEDINA,State House,13,1,REP,Matthew (Matt) COMMONS,235,102,130,3
+Warren,MEDINA,State House,13,1,DEM,Edward (Ed) MOYER JR.,50,18,27,5
+Warren,MEDINA,State House,13,1,,Total Votes,285,120,157,8
+Warren,MEDINA,State House,13,1,,Undervotes,5,1,2,2
+Warren,MEDINA,State House,13,1,,Overvotes,0,0,0,0
+Warren,MEDINA,State House,13,1,,Invalid Votes,0,0,0,0
+Warren,MEDINA,County Treasurer,,1,REP,Kira BAILIFF,256,107,144,5
+Warren,MEDINA,County Treasurer,,1,,Total Votes,256,107,144,5
+Warren,MEDINA,County Treasurer,,1,,Undervotes,34,14,15,5
+Warren,MEDINA,County Treasurer,,1,,Overvotes,0,0,0,0
+Warren,MEDINA,County Treasurer,,1,,Invalid Votes,0,0,0,0
+Warren,MEDINA,County Surveyor,,1,REP,Randy HADDOCK,258,106,147,5
+Warren,MEDINA,County Surveyor,,1,,Total Votes,258,106,147,5
+Warren,MEDINA,County Surveyor,,1,,Undervotes,32,15,12,5
+Warren,MEDINA,County Surveyor,,1,,Overvotes,0,0,0,0
+Warren,MEDINA,County Surveyor,,1,,Invalid Votes,0,0,0,0
+Warren,MEDINA,County Commissioner,1,1,REP,Craig GREENWOOD,255,107,143,5
+Warren,MEDINA,County Commissioner,1,1,,Total Votes,255,107,143,5
+Warren,MEDINA,County Commissioner,1,1,,Undervotes,35,14,16,5
+Warren,MEDINA,County Commissioner,1,1,,Overvotes,0,0,0,0
+Warren,MEDINA,County Commissioner,1,1,,Invalid Votes,0,0,0,0
+Warren,MEDINA,County Commissioner,2,1,REP,Clay ANDREWS,256,107,144,5
+Warren,MEDINA,County Commissioner,2,1,,Total Votes,256,107,144,5
+Warren,MEDINA,County Commissioner,2,1,,Undervotes,34,14,15,5
+Warren,MEDINA,County Commissioner,2,1,,Overvotes,0,0,0,0
+Warren,MEDINA,County Commissioner,2,1,,Invalid Votes,0,0,0,0
+Warren,MEDINA,County Council Member,At Large,3,REP,Brady FOSTER,185,78,104,3
+Warren,MEDINA,County Council Member,At Large,3,REP,Ethan L. FOXWORTHY,179,79,97,3
+Warren,MEDINA,County Council Member,At Large,3,REP,John Thomas HETRICK,162,73,85,4
+Warren,MEDINA,County Council Member,At Large,3,DEM,Clint A. FINK,55,24,29,2
+Warren,MEDINA,County Council Member,At Large,3,,Total Votes,581,254,315,12
+Warren,MEDINA,County Council Member,At Large,3,,Undervotes,289,109,162,18
+Warren,MEDINA,County Council Member,At Large,3,,Overvotes,0,0,0,0
+Warren,MEDINA,School Board Member,Benton Community Schools District A,1,,Ray VILLALOBOS JR.,215,87,123,5
+Warren,MEDINA,School Board Member,Benton Community Schools District A,1,,Total Votes,215,87,123,5
+Warren,MEDINA,School Board Member,Benton Community Schools District A,1,,Undervotes,75,34,36,5
+Warren,MEDINA,School Board Member,Benton Community Schools District A,1,,Overvotes,0,0,0,0
+Warren,MEDINA,School Board Member,Benton Community Schools District B,1,,Holli SCHOEN,210,88,116,6
+Warren,MEDINA,School Board Member,Benton Community Schools District B,1,,Total Votes,210,88,116,6
+Warren,MEDINA,School Board Member,Benton Community Schools District B,1,,Undervotes,80,33,43,4
+Warren,MEDINA,School Board Member,Benton Community Schools District B,1,,Overvotes,0,0,0,0
+Warren,MEDINA,School Board Member,Benton Community Schools District C,1,,Chris DALTON,224,91,126,7
+Warren,MEDINA,School Board Member,Benton Community Schools District C,1,,Total Votes,224,91,126,7
+Warren,MEDINA,School Board Member,Benton Community Schools District C,1,,Undervotes,66,30,33,3
+Warren,MEDINA,School Board Member,Benton Community Schools District C,1,,Overvotes,0,0,0,0
+Warren,MEDINA,IN Supreme Court-Rush,,,,Yes,189,84,101,4
+Warren,MEDINA,IN Supreme Court-Rush,,,,No,62,23,34,5
+Warren,MEDINA,IN Supreme Court-Rush,,,,Total Votes,2517,107,135,9
+Warren,MEDINA,IN Supreme Court-Rush,,,,Undervotes,39,14,24,1
+Warren,MEDINA,IN Supreme Court-Rush,,,,Overvotes,0,0,0,0
+Warren,MEDINA,IN Supreme Court-Massa,,,,Yes,179,80,95,4
+Warren,MEDINA,IN Supreme Court-Massa,,,,No,62,24,33,5
+Warren,MEDINA,IN Supreme Court-Massa,,,,Total Votes,241,104,128,9
+Warren,MEDINA,IN Supreme Court-Massa,,,,Undervotes,49,17,31,1
+Warren,MEDINA,IN Supreme Court-Massa,,,,Overvotes,0,0,0,0
+Warren,MEDINA,IN Supreme Court-Molter,,,,Yes,183,8,101,4
+Warren,MEDINA,IN Supreme Court-Molter,,,,No,56,24,27,5
+Warren,MEDINA,IN Supreme Court-Molter,,,,Total Votes,239,102,128,9
+Warren,MEDINA,IN Supreme Court-Molter,,,,Undervotes,51,19,31,1
+Warren,MEDINA,IN Supreme Court-Molter,,,,Overvotes,0,0,0,0
+Warren,MEDINA,Court of Appeals Dist 4-Pyle III,,,,Yes,183,78,101,4
+Warren,MEDINA,Court of Appeals Dist 4-Pyle III,,,,No,55,25,25,5
+Warren,MEDINA,Court of Appeals Dist 4-Pyle III,,,,Total Votes,238,103,126,9
+Warren,MEDINA,Court of Appeals Dist 4-Pyle III,,,,Undervotes,52,18,33,1
+Warren,MEDINA,Court of Appeals Dist 4-Pyle III,,,,Overvotes,0,0,0,0
+Warren,MOUND,Registered Voters,,,,,399,,,
+Warren,MOUND,Ballots Cast,,,,,320,,,
+Warren,MOUND,Straight Party,,,REP,Republican,158,38,114,6
+Warren,MOUND,Straight Party,,,DEM,Democratic,26,4,18,4
+Warren,MOUND,Straight Party,,,LBT,Libertarian,0,0,0,0
+Warren,MOUND,Straight Party,,,WTP,We The People,1,0,1,0
+Warren,MOUND,Straight Party,,,,Total Votes,185,42,133,10
+Warren,MOUND,Straight Party,,,,Undervotes,135,24,105,6
+Warren,MOUND,Straight Party,,,,Overvotes,0,0,0,0
+Warren,MOUND,Public Question-Const Amendment,,,,Yes,152,36,110,6
+Warren,MOUND,Public Question-Const Amendment,,,,No,133,22,103,8
+Warren,MOUND,Public Question-Const Amendment,,,,Total Votes,285,58,213,14
+Warren,MOUND,Public Question-Const Amendment,,,,Undervotes,35,8,25,2
+Warren,MOUND,Public Question-Const Amendment,,,,Overvotes,0,0,0,0
+Warren,MOUND,President,,1,REP,Donald J. TRUMP / JD VANCE,249,55,186,8
+Warren,MOUND,President,,1,DEM,Kamala D. HARRIS / Tim WALZ,63,11,44,8
+Warren,MOUND,President,,1,LBT,Chase OLIVER / Mike terr MAAT,4,0,4,0
+Warren,MOUND,President,,1,WTP,Robert F. KENNEDY JR. / Nichole SHANAHAN,0,0,0,0
+Warren,MOUND,President,,1,,Write-In,0,0,0,0
+Warren,MOUND,President,,1,,Total Votes,316,66,234,16
+Warren,MOUND,President,,1,,Undervotes,4,0,4,0
+Warren,MOUND,President,,1,,Overvotes,0,0,0,0
+Warren,MOUND,President,,1,,Invalid Votes,0,0,0,0
+Warren,MOUND,U.S. Senate,,1,REP,Jim BANKS,252,54,189,9
+Warren,MOUND,U.S. Senate,,1,DEM,Valerie McCRAY,59,11,41,7
+Warren,MOUND,U.S. Senate,,1,LBT,Andrew HORNING,5,0,5,0
+Warren,MOUND,U.S. Senate,,1,,Write-In,0,0,0,0
+Warren,MOUND,U.S. Senate,,1,,Total Votes,316,65,235,16
+Warren,MOUND,U.S. Senate,,1,,Undervotes,4,1,3,0
+Warren,MOUND,U.S. Senate,,1,,Overvotes,0,0,0,0
+Warren,MOUND,U.S. Senate,,1,,Invalid Votes,0,0,0,0
+Warren,MOUND,Governor,,1,REP,Mike BRAUN / Micah BECKWITH,232,54,169,9
+Warren,MOUND,Governor,,1,DEM,Jennifer G. McCORMICK / Terry GOODIN,76,11,58,7
+Warren,MOUND,Governor,,1,LBT,Donald RAINWATER / Tonya HUDSON,8,0,8,0
+Warren,MOUND,Governor,,1,,Write-In,0,0,0,0
+Warren,MOUND,Governor,,1,,Total Votes,316,65,235,16
+Warren,MOUND,Governor,,1,,Undervotes,4,1,3,0
+Warren,MOUND,Governor,,1,,Overvotes,0,0,0,0
+Warren,MOUND,Governor,,1,,Invalid Votes,0,0,0,0
+Warren,MOUND,Attorney General,,1,REP,Todd ROKITA,244,55,181,8
+Warren,MOUND,Attorney General,,1,DEM,Destiny WELLS,72,11,53,8
+Warren,MOUND,Attorney General,,1,,Total Votes,316,66,234,16
+Warren,MOUND,Attorney General,,1,,Undervotes,4,0,4,0
+Warren,MOUND,Attorney General,,1,,Overvotes,0,0,0,0
+Warren,MOUND,Attorney General,,1,,Invalid Votes,0,0,0,0
+Warren,MOUND,U.S. House,4,1,REP,Jim BAIRD,256,58,190,8
+Warren,MOUND,U.S. House,4,1,DEM,Derrick HOLDER,52,8,37,7
+Warren,MOUND,U.S. House,4,1,LBT,Ashley GROFF,9,0,9,0
+Warren,MOUND,U.S. House,4,1,,Total Votes,317,66,236,15
+Warren,MOUND,U.S. House,4,1,,Undervotes,3,0,2,1
+Warren,MOUND,U.S. House,4,1,,Overvotes,0,0,0,0
+Warren,MOUND,U.S. House,4,1,,Invalid Votes,0,0,0,0
+Warren,MOUND,State House,13,1,REP,Matthew (Matt) COMMONS,259,57,193,9
+Warren,MOUND,State House,13,1,DEM,Edward (Ed) MOYER JR.,55,8,40,7
+Warren,MOUND,State House,13,1,,Total Votes,314,65,233,16
+Warren,MOUND,State House,13,1,,Undervotes,6,1,5,0
+Warren,MOUND,State House,13,1,,Overvotes,0,0,0,0
+Warren,MOUND,State House,13,1,,Invalid Votes,0,0,0,0
+Warren,MOUND,County Treasurer,,1,REP,Kira BAILIFF,281,62,209,10
+Warren,MOUND,County Treasurer,,1,,Total Votes,281,62,209,10
+Warren,MOUND,County Treasurer,,1,,Undervotes,39,4,29,6
+Warren,MOUND,County Treasurer,,1,,Overvotes,0,0,0,0
+Warren,MOUND,County Treasurer,,1,,Invalid Votes,0,0,0,0
+Warren,MOUND,County Surveyor,,1,REP,Randy HADDOCK,280,61,209,10
+Warren,MOUND,County Surveyor,,1,,Total Votes,280,61,209,10
+Warren,MOUND,County Surveyor,,1,,Undervotes,40,5,29,6
+Warren,MOUND,County Surveyor,,1,,Overvotes,0,0,0,0
+Warren,MOUND,County Surveyor,,1,,Invalid Votes,0,0,0,0
+Warren,MOUND,County Commissioner,1,1,REP,Craig GREENWOOD,279,60,209,10
+Warren,MOUND,County Commissioner,1,1,,Total Votes,279,60,209,10
+Warren,MOUND,County Commissioner,1,1,,Undervotes,41,6,29,6
+Warren,MOUND,County Commissioner,1,1,,Overvotes,0,0,0,0
+Warren,MOUND,County Commissioner,1,1,,Invalid Votes,0,0,0,0
+Warren,MOUND,County Commissioner,2,1,REP,Clay ANDREWS,277,60,208,9
+Warren,MOUND,County Commissioner,2,1,,Total Votes,277,60,208,9
+Warren,MOUND,County Commissioner,2,1,,Undervotes,43,6,30,7
+Warren,MOUND,County Commissioner,2,1,,Overvotes,0,0,0,0
+Warren,MOUND,County Commissioner,2,1,,Invalid Votes,0,0,0,0
+Warren,MOUND,County Council Member,At Large,3,REP,Brady FOSTER,208,45,155,8
+Warren,MOUND,County Council Member,At Large,3,REP,Ethan L. FOXWORTHY,196,44,144,8
+Warren,MOUND,County Council Member,At Large,3,REP,John Thomas HETRICK,197,39,152,6
+Warren,MOUND,County Council Member,At Large,3,DEM,Clint A. FINK,58,14,39,5
+Warren,MOUND,County Council Member,At Large,3,,Total Votes,659,142,490,27
+Warren,MOUND,County Council Member,At Large,3,,Undervotes,301,56,224,21
+Warren,MOUND,County Council Member,At Large,3,,Overvotes,0,0,0,0
+Warren,MOUND,School Board Member,City of Covington (Fountain and Warren),1,,Michael C AHRENS,106,16,87,3
+Warren,MOUND,School Board Member,City of Covington (Fountain and Warren),1,,Richard PARTEZANA,103,27,73,3
+Warren,MOUND,School Board Member,City of Covington (Fountain and Warren),1,,Taylor V POWELL,55,10,42,3
+Warren,MOUND,School Board Member,City of Covington (Fountain and Warren),1,,Total Votes,264,53,202,9
+Warren,MOUND,School Board Member,City of Covington (Fountain and Warren),1,,Undervotes,56,13,36,7
+Warren,MOUND,School Board Member,City of Covington (Fountain and Warren),1,,Overvotes,0,0,0,0
+Warren,MOUND,School Board Member,Covington Mound (Fountain and Warren),1,,Matthew HESLER,137,30,103,4
+Warren,MOUND,School Board Member,Covington Mound (Fountain and Warren),1,,Tammy A PEARMAN,131,25,102,4
+Warren,MOUND,School Board Member,Covington Mound (Fountain and Warren),1,,Total Votes,268,55,205,8
+Warren,MOUND,School Board Member,Covington Mound (Fountain and Warren),1,,Undervotes,52,11,33,8
+Warren,MOUND,School Board Member,Covington Mound (Fountain and Warren),1,,Overvotes,0,0,0,0
+Warren,MOUND,IN Supreme Court-Rush,,,,Yes,210,42,161,7
+Warren,MOUND,IN Supreme Court-Rush,,,,No,64,15,46,3
+Warren,MOUND,IN Supreme Court-Rush,,,,Total Votes,274,57,207,10
+Warren,MOUND,IN Supreme Court-Rush,,,,Undervotes,46,9,31,6
+Warren,MOUND,IN Supreme Court-Rush,,,,Overvotes,0,0,0,0
+Warren,MOUND,IN Supreme Court-Massa,,,,Yes,210,42,162,6
+Warren,MOUND,IN Supreme Court-Massa,,,,No,60,13,42,5
+Warren,MOUND,IN Supreme Court-Massa,,,,Total Votes,270,55,204,11
+Warren,MOUND,IN Supreme Court-Massa,,,,Undervotes,50,11,34,5
+Warren,MOUND,IN Supreme Court-Massa,,,,Overvotes,0,0,0,0
+Warren,MOUND,IN Supreme Court-Molter,,,,Yes,201,40,153,8
+Warren,MOUND,IN Supreme Court-Molter,,,,No,64,15,46,3
+Warren,MOUND,IN Supreme Court-Molter,,,,Total Votes,265,55,199,11
+Warren,MOUND,IN Supreme Court-Molter,,,,Undervotes,55,11,39,5
+Warren,MOUND,IN Supreme Court-Molter,,,,Overvotes,0,0,0,0
+Warren,MOUND,Court of Appeals Dist 4-Pyle III,,,,Yes,202,37,157,8
+Warren,MOUND,Court of Appeals Dist 4-Pyle III,,,,No,65,18,44,3
+Warren,MOUND,Court of Appeals Dist 4-Pyle III,,,,Total Votes,267,55,201,11
+Warren,MOUND,Court of Appeals Dist 4-Pyle III,,,,Undervotes,53,11,37,5
+Warren,MOUND,Court of Appeals Dist 4-Pyle III,,,,Overvotes,0,0,0,0
+Warren,PIKE,Registered Voters,,,,,812,,,
+Warren,PIKE,Ballots Cast,,,,,516,,,
+Warren,PIKE,Straight Party,,,REP,Republican,267,79,187,1
+Warren,PIKE,Straight Party,,,DEM,Democratic,45,12,31,2
+Warren,PIKE,Straight Party,,,LBT,Libertarian,1,1,0,0
+Warren,PIKE,Straight Party,,,WTP,We The People,7,0,7,0
+Warren,PIKE,Straight Party,,,,Total Votes,320,92,225,3
+Warren,PIKE,Straight Party,,,,Undervotes,196,51,136,9
+Warren,PIKE,Straight Party,,,,Overvotes,0,0,0,0
+Warren,PIKE,Public Question-Const Amendment,,,,Yes,249,67,176,6
+Warren,PIKE,Public Question-Const Amendment,,,,No,223,65,154,4
+Warren,PIKE,Public Question-Const Amendment,,,,Total Votes,472,132,330,10
+Warren,PIKE,Public Question-Const Amendment,,,,Undervotes,44,11,31,2
+Warren,PIKE,Public Question-Const Amendment,,,,Overvotes,0,0,0,0
+Warren,PIKE,President,,1,REP,Donald J. TRUMP / JD VANCE,412,115,293,4
+Warren,PIKE,President,,1,DEM,Kamala D. HARRIS / Tim WALZ,92,25,59,8
+Warren,PIKE,President,,1,LBT,Chase OLIVER / Mike terr MAAT,3,2,1,0
+Warren,PIKE,President,,1,WTP,Robert F. KENNEDY JR. / Nichole SHANAHAN,5,0,5,0
+Warren,PIKE,President,,1,,Write-In,0,0,0,0
+Warren,PIKE,President,,1,,Total Votes,512,142,358,12
+Warren,PIKE,President,,1,,Undervotes,4,1,3,0
+Warren,PIKE,President,,1,,Overvotes,0,0,0,0
+Warren,PIKE,President,,1,,Invalid Votes,0,0,0,0
+Warren,PIKE,U.S. Senate,,1,REP,Jim BANKS,409,114,289,6
+Warren,PIKE,U.S. Senate,,1,DEM,Valerie McCRAY,91,25,61,5
+Warren,PIKE,U.S. Senate,,1,LBT,Andrew HORNING,12,4,8,0
+Warren,PIKE,U.S. Senate,,1,,Write-In,0,0,0,0
+Warren,PIKE,U.S. Senate,,1,,Total Votes,512,143,358,11
+Warren,PIKE,U.S. Senate,,1,,Undervotes,4,0,3,1
+Warren,PIKE,U.S. Senate,,1,,Overvotes,0,0,0,0
+Warren,PIKE,U.S. Senate,,1,,Invalid Votes,0,0,0,0
+Warren,PIKE,Governor,,1,REP,Mike BRAUN / Micah BECKWITH,368,103,260,5
+Warren,PIKE,Governor,,1,DEM,Jennifer G. McCORMICK / Terry GOODIN,107,26,74,7
+Warren,PIKE,Governor,,1,LBT,Donald RAINWATER / Tonya HUDSON,39,13,26,0
+Warren,PIKE,Governor,,1,,Write-In,0,0,0,0
+Warren,PIKE,Governor,,1,,Total Votes,514,142,360,12
+Warren,PIKE,Governor,,1,,Undervotes,2,1,1,0
+Warren,PIKE,Governor,,1,,Overvotes,0,0,0,0
+Warren,PIKE,Governor,,1,,Invalid Votes,0,0,0,0
+Warren,PIKE,Attorney General,,1,REP,Todd ROKITA,416,114,296,6
+Warren,PIKE,Attorney General,,1,DEM,Destiny WELLS,98,29,63,6
+Warren,PIKE,Attorney General,,1,,Total Votes,514,143,359,12
+Warren,PIKE,Attorney General,,1,,Undervotes,2,0,2,0
+Warren,PIKE,Attorney General,,1,,Overvotes,0,0,0,0
+Warren,PIKE,Attorney General,,1,,Invalid Votes,0,0,0,0
+Warren,PIKE,U.S. House,4,1,REP,Jim BAIRD,409,114,289,6
+Warren,PIKE,U.S. House,4,1,DEM,Derrick HOLDER,86,23,58,5
+Warren,PIKE,U.S. House,4,1,LBT,Ashley GROFF,18,5,12,1
+Warren,PIKE,U.S. House,4,1,,Total Votes,513,142,359,12
+Warren,PIKE,U.S. House,4,1,,Undervotes,3,1,2,0
+Warren,PIKE,U.S. House,4,1,,Overvotes,0,0,0,0
+Warren,PIKE,U.S. House,4,1,,Invalid Votes,0,0,0,0
+Warren,PIKE,State House,13,1,REP,Matthew (Matt) COMMONS,439,115,316,8
+Warren,PIKE,State House,13,1,DEM,Edward (Ed) MOYER JR.,72,25,43,4
+Warren,PIKE,State House,13,1,,Total Votes,511,140,359,12
+Warren,PIKE,State House,13,1,,Undervotes,5,3,2,0
+Warren,PIKE,State House,13,1,,Overvotes,0,0,0,0
+Warren,PIKE,State House,13,1,,Invalid Votes,0,0,0,0
+Warren,PIKE,County Treasurer,,1,REP,Kira BAILIFF,459,126,325,8
+Warren,PIKE,County Treasurer,,1,,Total Votes,459,126,325,8
+Warren,PIKE,County Treasurer,,1,,Undervotes,57,17,36,4
+Warren,PIKE,County Treasurer,,1,,Overvotes,0,0,0,0
+Warren,PIKE,County Treasurer,,1,,Invalid Votes,0,0,0,0
+Warren,PIKE,County Surveyor,,1,REP,Randy HADDOCK,462,123,330,9
+Warren,PIKE,County Surveyor,,1,,Total Votes,462,123,330,9
+Warren,PIKE,County Surveyor,,1,,Undervotes,54,20,31,3
+Warren,PIKE,County Surveyor,,1,,Overvotes,0,0,0,0
+Warren,PIKE,County Surveyor,,1,,Invalid Votes,0,0,0,0
+Warren,PIKE,County Commissioner,1,1,REP,Craig GREENWOOD,464,125,330,9
+Warren,PIKE,County Commissioner,1,1,,Total Votes,464,125,330,9
+Warren,PIKE,County Commissioner,1,1,,Undervotes,52,18,31,3
+Warren,PIKE,County Commissioner,1,1,,Overvotes,0,0,0,0
+Warren,PIKE,County Commissioner,1,1,,Invalid Votes,0,0,0,0
+Warren,PIKE,County Commissioner,2,1,REP,Clay ANDREWS,455,120,325,10
+Warren,PIKE,County Commissioner,2,1,,Total Votes,455,120,325,10
+Warren,PIKE,County Commissioner,2,1,,Undervotes,61,23,36,2
+Warren,PIKE,County Commissioner,2,1,,Overvotes,0,0,0,0
+Warren,PIKE,County Commissioner,2,1,,Invalid Votes,0,0,0,0
+Warren,PIKE,County Council Member,At Large,3,REP,Brady FOSTER,309,90,212,7
+Warren,PIKE,County Council Member,At Large,3,REP,Ethan L. FOXWORTHY,323,91,226,6
+Warren,PIKE,County Council Member,At Large,3,REP,John Thomas HETRICK,305,88,209,8
+Warren,PIKE,County Council Member,At Large,3,DEM,Clint A. FINK,120,36,79,5
+Warren,PIKE,County Council Member,At Large,3,,Total Votes,1057,305,726,26
+Warren,PIKE,County Council Member,At Large,3,,Undervotes,491,124,357,10
+Warren,PIKE,County Council Member,At Large,3,,Overvotes,0,0,0,0
+Warren,PIKE,School Board Member,Adams and Warren Townships,1,,Dan DUCHEMIN,365,95,261,9
+Warren,PIKE,School Board Member,Adams and Warren Townships,1,,Total Votes,365,95,261,9
+Warren,PIKE,School Board Member,Adams and Warren Townships,1,,Undervotes,151,48,100,3
+Warren,PIKE,School Board Member,Adams and Warren Townships,1,,Overvotes,0,0,0,0
+Warren,PIKE,School Board Member,Washington Township,1,,Sharon K GRADY,387,98,280,9
+Warren,PIKE,School Board Member,Washington Township,1,,Total Votes,387,98,280,9
+Warren,PIKE,School Board Member,Washington Township,1,,Undervotes,129,45,81,3
+Warren,PIKE,School Board Member,Washington Township,1,,Overvotes,0,0,0,0
+Warren,PIKE,IN Supreme Court-Rush,,,,Yes,319,85,224,10
+Warren,PIKE,IN Supreme Court-Rush,,,,No,125,37,86,2
+Warren,PIKE,IN Supreme Court-Rush,,,,Total Votes,444,122,310,12
+Warren,PIKE,IN Supreme Court-Rush,,,,Undervotes,72,21,51,0
+Warren,PIKE,IN Supreme Court-Rush,,,,Overvotes,0,0,0,0
+Warren,PIKE,IN Supreme Court-Massa,,,,Yes,312,85,218,9
+Warren,PIKE,IN Supreme Court-Massa,,,,No,118,34,82,2
+Warren,PIKE,IN Supreme Court-Massa,,,,Total Votes,430,119,300,11
+Warren,PIKE,IN Supreme Court-Massa,,,,Undervotes,86,24,61,1
+Warren,PIKE,IN Supreme Court-Massa,,,,Overvotes,0,0,0,0
+Warren,PIKE,IN Supreme Court-Molter,,,,Yes,316,81,226,9
+Warren,PIKE,IN Supreme Court-Molter,,,,No,110,34,74,2
+Warren,PIKE,IN Supreme Court-Molter,,,,Total Votes,426,115,300,11
+Warren,PIKE,IN Supreme Court-Molter,,,,Undervotes,90,28,61,1
+Warren,PIKE,IN Supreme Court-Molter,,,,Overvotes,0,0,0,0
+Warren,PIKE,Court of Appeals Dist 4-Pyle III,,,,Yes,309,79,220,10
+Warren,PIKE,Court of Appeals Dist 4-Pyle III,,,,No,112,34,77,1
+Warren,PIKE,Court of Appeals Dist 4-Pyle III,,,,Total Votes,421,113,297,11
+Warren,PIKE,Court of Appeals Dist 4-Pyle III,,,,Undervotes,95,30,64,1
+Warren,PIKE,Court of Appeals Dist 4-Pyle III,,,,Overvotes,0,0,0,0
+Warren,PINE,Registered Voters,,,,,408,,,
+Warren,PINE,Ballots Cast,,,,,314,,,
+Warren,PINE,Straight Party,,,REP,Republican,141,51,89,1
+Warren,PINE,Straight Party,,,DEM,Democratic,28,10,14,4
+Warren,PINE,Straight Party,,,LBT,Libertarian,1,0,1,0
+Warren,PINE,Straight Party,,,WTP,We The People,2,1,1,0
+Warren,PINE,Straight Party,,,,Total Votes,172,62,105,5
+Warren,PINE,Straight Party,,,,Undervotes,142,55,82,5
+Warren,PINE,Straight Party,,,,Overvotes,0,0,0,0
+Warren,PINE,Public Question-Const Amendment,,,,Yes,152,59,91,2
+Warren,PINE,Public Question-Const Amendment,,,,No,132,51,74,7
+Warren,PINE,Public Question-Const Amendment,,,,Total Votes,284,110,165,9
+Warren,PINE,Public Question-Const Amendment,,,,Undervotes,30,7,22,1
+Warren,PINE,Public Question-Const Amendment,,,,Overvotes,0,0,0,0
+Warren,PINE,President,,1,REP,Donald J. TRUMP / JD VANCE,242,91,147,4
+Warren,PINE,President,,1,DEM,Kamala D. HARRIS / Tim WALZ,65,25,34,6
+Warren,PINE,President,,1,LBT,Chase OLIVER / Mike terr MAAT,0,0,0,0
+Warren,PINE,President,,1,WTP,Robert F. KENNEDY JR. / Nichole SHANAHAN,2,0,2,0
+Warren,PINE,President,,1,,Write-In,0,0,0,0
+Warren,PINE,President,,1,,Total Votes,309,116,183,10
+Warren,PINE,President,,1,,Undervotes,5,1,4,0
+Warren,PINE,President,,1,,Overvotes,0,0,0,0
+Warren,PINE,President,,1,,Invalid Votes,0,0,0,0
+Warren,PINE,U.S. Senate,,1,REP,Jim BANKS,237,90,143,4
+Warren,PINE,U.S. Senate,,1,DEM,Valerie McCRAY,61,23,32,6
+Warren,PINE,U.S. Senate,,1,LBT,Andrew HORNING,12,3,9,0
+Warren,PINE,U.S. Senate,,1,,Write-In,0,0,0,0
+Warren,PINE,U.S. Senate,,1,,Total Votes,310,116,184,10
+Warren,PINE,U.S. Senate,,1,,Undervotes,4,1,3,0
+Warren,PINE,U.S. Senate,,1,,Overvotes,0,0,0,0
+Warren,PINE,U.S. Senate,,1,,Invalid Votes,0,0,0,0
+Warren,PINE,Governor,,1,REP,Mike BRAUN / Micah BECKWITH,216,83,129,4
+Warren,PINE,Governor,,1,DEM,Jennifer G. McCORMICK / Terry GOODIN,72,28,38,6
+Warren,PINE,Governor,,1,LBT,Donald RAINWATER / Tonya HUDSON,19,4,15,0
+Warren,PINE,Governor,,1,,Write-In,0,0,0,0
+Warren,PINE,Governor,,1,,Total Votes,307,115,182,10
+Warren,PINE,Governor,,1,,Undervotes,7,2,5,0
+Warren,PINE,Governor,,1,,Overvotes,0,0,0,0
+Warren,PINE,Governor,,1,,Invalid Votes,0,0,0,0
+Warren,PINE,Attorney General,,1,REP,Todd ROKITA,234,90,140,4
+Warren,PINE,Attorney General,,1,DEM,Destiny WELLS,74,25,43,6
+Warren,PINE,Attorney General,,1,,Total Votes,308,115,183,10
+Warren,PINE,Attorney General,,1,,Undervotes,6,2,4,0
+Warren,PINE,Attorney General,,1,,Overvotes,0,0,0,0
+Warren,PINE,Attorney General,,1,,Invalid Votes,0,0,0,0
+Warren,PINE,U.S. House,4,1,REP,Jim BAIRD,240,92,144,4
+Warren,PINE,U.S. House,4,1,DEM,Derrick HOLDER,53,20,28,5
+Warren,PINE,U.S. House,4,1,LBT,Ashley GROFF,14,4,10,0
+Warren,PINE,U.S. House,4,1,,Total Votes,307,116,182,9
+Warren,PINE,U.S. House,4,1,,Undervotes,7,1,5,1
+Warren,PINE,U.S. House,4,1,,Overvotes,0,0,0,0
+Warren,PINE,U.S. House,4,1,,Invalid Votes,0,0,0,0
+Warren,PINE,State House,13,1,REP,Matthew (Matt) COMMONS,268,96,167,5
+Warren,PINE,State House,13,1,DEM,Edward (Ed) MOYER JR.,40,19,17,4
+Warren,PINE,State House,13,1,,Total Votes,308,115,184,9
+Warren,PINE,State House,13,1,,Undervotes,6,2,3,1
+Warren,PINE,State House,13,1,,Overvotes,0,0,0,0
+Warren,PINE,State House,13,1,,Invalid Votes,0,0,0,0
+Warren,PINE,County Treasurer,,1,REP,Kira BAILIFF,265,101,159,5
+Warren,PINE,County Treasurer,,1,,Total Votes,265,101,159,5
+Warren,PINE,County Treasurer,,1,,Undervotes,49,16,28,5
+Warren,PINE,County Treasurer,,1,,Overvotes,0,0,0,0
+Warren,PINE,County Treasurer,,1,,Invalid Votes,0,0,0,0
+Warren,PINE,County Surveyor,,1,REP,Randy HADDOCK,267,100,162,5
+Warren,PINE,County Surveyor,,1,,Total Votes,267,100,162,5
+Warren,PINE,County Surveyor,,1,,Undervotes,47,17,25,5
+Warren,PINE,County Surveyor,,1,,Overvotes,0,0,0,0
+Warren,PINE,County Surveyor,,1,,Invalid Votes,0,0,0,0
+Warren,PINE,County Commissioner,1,1,REP,Craig GREENWOOD,258,97,156,5
+Warren,PINE,County Commissioner,1,1,,Total Votes,258,97,156,5
+Warren,PINE,County Commissioner,1,1,,Undervotes,56,20,31,5
+Warren,PINE,County Commissioner,1,1,,Overvotes,0,0,0,0
+Warren,PINE,County Commissioner,1,1,,Invalid Votes,0,0,0,0
+Warren,PINE,County Commissioner,2,1,REP,Clay ANDREWS,254,95,154,5
+Warren,PINE,County Commissioner,2,1,,Total Votes,254,95,154,5
+Warren,PINE,County Commissioner,2,1,,Undervotes,60,22,33,5
+Warren,PINE,County Commissioner,2,1,,Overvotes,0,0,0,0
+Warren,PINE,County Commissioner,2,1,,Invalid Votes,0,0,0,0
+Warren,PINE,County Council Member,At Large,3,REP,Brady FOSTER,191,73,114,4
+Warren,PINE,County Council Member,At Large,3,REP,Ethan L. FOXWORTHY,197,78,115,4
+Warren,PINE,County Council Member,At Large,3,REP,John Thomas HETRICK,170,68,99,3
+Warren,PINE,County Council Member,At Large,3,DEM,Clint A. FINK,73,29,39,5
+Warren,PINE,County Council Member,At Large,3,,Total Votes,631,248,367,16
+Warren,PINE,County Council Member,At Large,3,,Undervotes,311,103,194,14
+Warren,PINE,County Council Member,At Large,3,,Overvotes,0,0,0,0
+Warren,PINE,School Board Member,Adams and Warren Townships,1,,Dan DUCHEMIN,221,80,136,5
+Warren,PINE,School Board Member,Adams and Warren Townships,1,,Total Votes,221,80,136,5
+Warren,PINE,School Board Member,Adams and Warren Townships,1,,Undervotes,93,37,51,5
+Warren,PINE,School Board Member,Adams and Warren Townships,1,,Overvotes,0,0,0,0
+Warren,PINE,School Board Member,Washington Township,1,,Sharon K GRADY,214,78,131,5
+Warren,PINE,School Board Member,Washington Township,1,,Total Votes,214,78,131,5
+Warren,PINE,School Board Member,Washington Township,1,,Undervotes,100,39,56,5
+Warren,PINE,School Board Member,Washington Township,1,,Overvotes,0,0,0,0
+Warren,PINE,IN Supreme Court-Rush,,,,Yes,200,78,115,7
+Warren,PINE,IN Supreme Court-Rush,,,,No,64,22,40,2
+Warren,PINE,IN Supreme Court-Rush,,,,Total Votes,264,100,155,9
+Warren,PINE,IN Supreme Court-Rush,,,,Undervotes,50,17,32,1
+Warren,PINE,IN Supreme Court-Rush,,,,Overvotes,0,0,0,0
+Warren,PINE,IN Supreme Court-Massa,,,,Yes,190,75,109,6
+Warren,PINE,IN Supreme Court-Massa,,,,No,68,24,41,3
+Warren,PINE,IN Supreme Court-Massa,,,,Total Votes,258,99,150,9
+Warren,PINE,IN Supreme Court-Massa,,,,Undervotes,56,18,37,1
+Warren,PINE,IN Supreme Court-Massa,,,,Overvotes,0,0,0,0
+Warren,PINE,IN Supreme Court-Molter,,,,Yes,189,73,110,6
+Warren,PINE,IN Supreme Court-Molter,,,,No,64,25,36,3
+Warren,PINE,IN Supreme Court-Molter,,,,Total Votes,253,98,146,9
+Warren,PINE,IN Supreme Court-Molter,,,,Undervotes,61,19,41,1
+Warren,PINE,IN Supreme Court-Molter,,,,Overvotes,0,0,0,0
+Warren,PINE,Court of Appeals Dist 4-Pyle III,,,,Yes,187,74,106,7
+Warren,PINE,Court of Appeals Dist 4-Pyle III,,,,No,66,22,42,2
+Warren,PINE,Court of Appeals Dist 4-Pyle III,,,,Total Votes,253,96,148,9
+Warren,PINE,Court of Appeals Dist 4-Pyle III,,,,Undervotes,61,21,39,1
+Warren,PINE,Court of Appeals Dist 4-Pyle III,,,,Overvotes,0,0,0,0
+Warren,PRAIRIE,Registered Voters,,,,,160,,,
+Warren,PRAIRIE,Ballots Cast,,,,,114,,,
+Warren,PRAIRIE,Straight Party,,,REP,Republican,56,10,45,1
+Warren,PRAIRIE,Straight Party,,,DEM,Democratic,8,2,6,0
+Warren,PRAIRIE,Straight Party,,,LBT,Libertarian,0,0,0,0
+Warren,PRAIRIE,Straight Party,,,WTP,We The People,0,0,0,0
+Warren,PRAIRIE,Straight Party,,,,Total Votes,64,12,51,1
+Warren,PRAIRIE,Straight Party,,,,Undervotes,50,20,28,2
+Warren,PRAIRIE,Straight Party,,,,Overvotes,0,0,0,0
+Warren,PRAIRIE,Public Question-Const Amendment,,,,Yes,55,17,37,1
+Warren,PRAIRIE,Public Question-Const Amendment,,,,No,48,15,32,1
+Warren,PRAIRIE,Public Question-Const Amendment,,,,Total Votes,103,32,69,2
+Warren,PRAIRIE,Public Question-Const Amendment,,,,Undervotes,11,0,10,1
+Warren,PRAIRIE,Public Question-Const Amendment,,,,Overvotes,0,0,0,0
+Warren,PRAIRIE,President,,1,REP,Donald J. TRUMP / JD VANCE,95,26,68,1
+Warren,PRAIRIE,President,,1,DEM,Kamala D. HARRIS / Tim WALZ,16,5,10,1
+Warren,PRAIRIE,President,,1,LBT,Chase OLIVER / Mike terr MAAT,0,0,0,0
+Warren,PRAIRIE,President,,1,WTP,Robert F. KENNEDY JR. / Nichole SHANAHAN,3,1,1,1
+Warren,PRAIRIE,President,,1,,Write-In,0,0,0,0
+Warren,PRAIRIE,President,,1,,Total Votes,114,32,79,3
+Warren,PRAIRIE,President,,1,,Undervotes,0,0,0,0
+Warren,PRAIRIE,President,,1,,Overvotes,0,0,0,0
+Warren,PRAIRIE,President,,1,,Invalid Votes,0,0,0,0
+Warren,PRAIRIE,U.S. Senate,,1,REP,Jim BANKS,90,24,65,1
+Warren,PRAIRIE,U.S. Senate,,1,DEM,Valerie McCRAY,18,7,10,1
+Warren,PRAIRIE,U.S. Senate,,1,LBT,Andrew HORNING,5,1,3,1
+Warren,PRAIRIE,U.S. Senate,,1,,Write-In,0,0,0,0
+Warren,PRAIRIE,U.S. Senate,,1,,Total Votes,113,32,78,3
+Warren,PRAIRIE,U.S. Senate,,1,,Undervotes,1,0,1,0
+Warren,PRAIRIE,U.S. Senate,,1,,Overvotes,0,0,0,0
+Warren,PRAIRIE,U.S. Senate,,1,,Invalid Votes,0,0,0,0
+Warren,PRAIRIE,Governor,,1,REP,Mike BRAUN / Micah BECKWITH,80,21,58,1
+Warren,PRAIRIE,Governor,,1,DEM,Jennifer G. McCORMICK / Terry GOODIN,16,6,9,1
+Warren,PRAIRIE,Governor,,1,LBT,Donald RAINWATER / Tonya HUDSON,18,5,12,1
+Warren,PRAIRIE,Governor,,1,,Write-In,0,0,0,0
+Warren,PRAIRIE,Governor,,1,,Total Votes,114,32,79,3
+Warren,PRAIRIE,Governor,,1,,Undervotes,0,0,0,0
+Warren,PRAIRIE,Governor,,1,,Overvotes,0,0,0,0
+Warren,PRAIRIE,Governor,,1,,Invalid Votes,0,0,0,0
+Warren,PRAIRIE,Attorney General,,1,REP,Todd ROKITA,91,25,65,1
+Warren,PRAIRIE,Attorney General,,1,DEM,Destiny WELLS,22,7,13,2
+Warren,PRAIRIE,Attorney General,,1,,Total Votes,113,32,78,3
+Warren,PRAIRIE,Attorney General,,1,,Undervotes,1,0,1,0
+Warren,PRAIRIE,Attorney General,,1,,Overvotes,0,0,0,0
+Warren,PRAIRIE,Attorney General,,1,,Invalid Votes,0,0,0,0
+Warren,PRAIRIE,U.S. House,4,1,REP,Jim BAIRD,95,27,67,1
+Warren,PRAIRIE,U.S. House,4,1,DEM,Derrick HOLDER,15,4,10,1
+Warren,PRAIRIE,U.S. House,4,1,LBT,Ashley GROFF,3,1,1,1
+Warren,PRAIRIE,U.S. House,4,1,,Total Votes,113,32,78,3
+Warren,PRAIRIE,U.S. House,4,1,,Undervotes,1,0,1,0
+Warren,PRAIRIE,U.S. House,4,1,,Overvotes,0,0,0,0
+Warren,PRAIRIE,U.S. House,4,1,,Invalid Votes,0,0,0,0
+Warren,PRAIRIE,State House,13,1,REP,Matthew (Matt) COMMONS,100,28,70,2
+Warren,PRAIRIE,State House,13,1,DEM,Edward (Ed) MOYER JR.,12,3,8,1
+Warren,PRAIRIE,State House,13,1,,Total Votes,112,31,78,3
+Warren,PRAIRIE,State House,13,1,,Undervotes,2,1,1,0
+Warren,PRAIRIE,State House,13,1,,Overvotes,0,0,0,0
+Warren,PRAIRIE,State House,13,1,,Invalid Votes,0,0,0,0
+Warren,PRAIRIE,County Treasurer,,1,REP,Kira BAILIFF,101,30,69,2
+Warren,PRAIRIE,County Treasurer,,1,,Total Votes,101,30,69,2
+Warren,PRAIRIE,County Treasurer,,1,,Undervotes,13,2,10,1
+Warren,PRAIRIE,County Treasurer,,1,,Overvotes,0,0,0,0
+Warren,PRAIRIE,County Treasurer,,1,,Invalid Votes,0,0,0,0
+Warren,PRAIRIE,County Surveyor,,1,REP,Randy HADDOCK,102,30,70,2
+Warren,PRAIRIE,County Surveyor,,1,,Total Votes,102,30,70,2
+Warren,PRAIRIE,County Surveyor,,1,,Undervotes,12,2,9,1
+Warren,PRAIRIE,County Surveyor,,1,,Overvotes,0,0,0,0
+Warren,PRAIRIE,County Surveyor,,1,,Invalid Votes,0,0,0,0
+Warren,PRAIRIE,County Commissioner,1,1,REP,Craig GREENWOOD,100,29,69,2
+Warren,PRAIRIE,County Commissioner,1,1,,Total Votes,100,29,69,2
+Warren,PRAIRIE,County Commissioner,1,1,,Undervotes,14,3,10,1
+Warren,PRAIRIE,County Commissioner,1,1,,Overvotes,0,0,0,0
+Warren,PRAIRIE,County Commissioner,1,1,,Invalid Votes,0,0,0,0
+Warren,PRAIRIE,County Commissioner,2,1,REP,Clay ANDREWS,97,29,66,2
+Warren,PRAIRIE,County Commissioner,2,1,,Total Votes,97,29,66,2
+Warren,PRAIRIE,County Commissioner,2,1,,Undervotes,17,3,13,1
+Warren,PRAIRIE,County Commissioner,2,1,,Overvotes,0,0,0,0
+Warren,PRAIRIE,County Commissioner,2,1,,Invalid Votes,0,0,0,0
+Warren,PRAIRIE,County Council Member,At Large,3,REP,Brady FOSTER,70,23,47,0
+Warren,PRAIRIE,County Council Member,At Large,3,REP,Ethan L. FOXWORTHY,71,24,46,1
+Warren,PRAIRIE,County Council Member,At Large,3,REP,John Thomas HETRICK,66,20,45,1
+Warren,PRAIRIE,County Council Member,At Large,3,DEM,Clint A. FINK,21,9,10,2
+Warren,PRAIRIE,County Council Member,At Large,3,,Total Votes,228,76,148,4
+Warren,PRAIRIE,County Council Member,At Large,3,,Undervotes,114,20,89,5
+Warren,PRAIRIE,County Council Member,At Large,3,,Overvotes,0,0,0,0
+Warren,PRAIRIE,School Board Member,Benton Community Schools District A,1,,Ray VILLALOBOS JR.,79,27,51,1
+Warren,PRAIRIE,School Board Member,Benton Community Schools District A,1,,Total Votes,79,27,51,1
+Warren,PRAIRIE,School Board Member,Benton Community Schools District A,1,,Undervotes,35,5,28,2
+Warren,PRAIRIE,School Board Member,Benton Community Schools District A,1,,Overvotes,0,0,0,0
+Warren,PRAIRIE,School Board Member,Benton Community Schools District B,1,,Holli SCHOEN,76,26,49,1
+Warren,PRAIRIE,School Board Member,Benton Community Schools District B,1,,Total Votes,76,26,49,1
+Warren,PRAIRIE,School Board Member,Benton Community Schools District B,1,,Undervotes,38,6,30,2
+Warren,PRAIRIE,School Board Member,Benton Community Schools District B,1,,Overvotes,0,0,0,0
+Warren,PRAIRIE,School Board Member,Benton Community Schools District C,1,,Chris DALTON,75,22,52,1
+Warren,PRAIRIE,School Board Member,Benton Community Schools District C,1,,Total Votes,75,22,52,1
+Warren,PRAIRIE,School Board Member,Benton Community Schools District C,1,,Undervotes,39,10,27,2
+Warren,PRAIRIE,School Board Member,Benton Community Schools District C,1,,Overvotes,0,0,0,0
+Warren,PRAIRIE,IN Supreme Court-Rush,,,,Yes,69,20,48,1
+Warren,PRAIRIE,IN Supreme Court-Rush,,,,No,22,11,10,1
+Warren,PRAIRIE,IN Supreme Court-Rush,,,,Total Votes,91,31,58,2
+Warren,PRAIRIE,IN Supreme Court-Rush,,,,Undervotes,23,1,21,1
+Warren,PRAIRIE,IN Supreme Court-Rush,,,,Overvotes,0,0,0,0
+Warren,PRAIRIE,IN Supreme Court-Massa,,,,Yes,64,21,42,1
+Warren,PRAIRIE,IN Supreme Court-Massa,,,,No,22,10,11,1
+Warren,PRAIRIE,IN Supreme Court-Massa,,,,Total Votes,86,31,53,2
+Warren,PRAIRIE,IN Supreme Court-Massa,,,,Undervotes,28,1,26,1
+Warren,PRAIRIE,IN Supreme Court-Massa,,,,Overvotes,0,0,0,0
+Warren,PRAIRIE,IN Supreme Court-Molter,,,,Yes,65,21,43,1
+Warren,PRAIRIE,IN Supreme Court-Molter,,,,No,20,9,10,1
+Warren,PRAIRIE,IN Supreme Court-Molter,,,,Total Votes,85,30,53,2
+Warren,PRAIRIE,IN Supreme Court-Molter,,,,Undervotes,29,2,26,1
+Warren,PRAIRIE,IN Supreme Court-Molter,,,,Overvotes,0,0,0,0
+Warren,PRAIRIE,Court of Appeals Dist 4-Pyle III,,,,Yes,60,20,40,0
+Warren,PRAIRIE,Court of Appeals Dist 4-Pyle III,,,,No,25,10,13,2
+Warren,PRAIRIE,Court of Appeals Dist 4-Pyle III,,,,Total Votes,85,30,53,2
+Warren,PRAIRIE,Court of Appeals Dist 4-Pyle III,,,,Undervotes,29,2,26,1
+Warren,PRAIRIE,Court of Appeals Dist 4-Pyle III,,,,Overvotes,0,0,0,0
+Warren,STEUBEN,Registered Voters,,,,,397,,,
+Warren,STEUBEN,Ballots Cast,,,,,297,,,
+Warren,STEUBEN,Straight Party,,,REP,Republican,151,63,88,0
+Warren,STEUBEN,Straight Party,,,DEM,Democratic,21,14,7,0
+Warren,STEUBEN,Straight Party,,,LBT,Libertarian,0,0,0,0
+Warren,STEUBEN,Straight Party,,,WTP,We The People,4,0,4,0
+Warren,STEUBEN,Straight Party,,,,Total Votes,176,77,99,0
+Warren,STEUBEN,Straight Party,,,,Undervotes,122,42,74,6
+Warren,STEUBEN,Straight Party,,,,Overvotes,0,0,0,0
+Warren,STEUBEN,Public Question-Const Amendment,,,,Yes,135,55,78,2
+Warren,STEUBEN,Public Question-Const Amendment,,,,No,137,54,82,1
+Warren,STEUBEN,Public Question-Const Amendment,,,,Total Votes,272,109,160,3
+Warren,STEUBEN,Public Question-Const Amendment,,,,Undervotes,26,10,13,3
+Warren,STEUBEN,Public Question-Const Amendment,,,,Overvotes,0,0,0,0
+Warren,STEUBEN,President,,1,REP,Donald J. TRUMP / JD VANCE,247,94,151,2
+Warren,STEUBEN,President,,1,DEM,Kamala D. HARRIS / Tim WALZ,47,24,19,4
+Warren,STEUBEN,President,,1,LBT,Chase OLIVER / Mike terr MAAT,0,0,0,0
+Warren,STEUBEN,President,,1,WTP,Robert F. KENNEDY JR. / Nichole SHANAHAN,0,0,0,0
+Warren,STEUBEN,President,,1,,Write-In,0,0,0,0
+Warren,STEUBEN,President,,1,,Total Votes,294,118,170,6
+Warren,STEUBEN,President,,1,,Undervotes,4,1,3,0
+Warren,STEUBEN,President,,1,,Overvotes,0,0,0,0
+Warren,STEUBEN,President,,1,,Invalid Votes,0,0,0,0
+Warren,STEUBEN,U.S. Senate,,1,REP,Jim BANKS,247,93,149,5
+Warren,STEUBEN,U.S. Senate,,1,DEM,Valerie McCRAY,45,25,19,1
+Warren,STEUBEN,U.S. Senate,,1,LBT,Andrew HORNING,3,1,2,0
+Warren,STEUBEN,U.S. Senate,,1,,Write-In,0,0,0,0
+Warren,STEUBEN,U.S. Senate,,1,,Total Votes,295,119,170,6
+Warren,STEUBEN,U.S. Senate,,1,,Undervotes,3,0,3,0
+Warren,STEUBEN,U.S. Senate,,1,,Overvotes,0,0,0,0
+Warren,STEUBEN,U.S. Senate,,1,,Invalid Votes,0,0,0,0
+Warren,STEUBEN,Governor,,1,REP,Mike BRAUN / Micah BECKWITH,222,90,128,4
+Warren,STEUBEN,Governor,,1,DEM,Jennifer G. McCORMICK / Terry GOODIN,53,24,27,2
+Warren,STEUBEN,Governor,,1,LBT,Donald RAINWATER / Tonya HUDSON,21,5,16,0
+Warren,STEUBEN,Governor,,1,,Write-In,0,0,0,0
+Warren,STEUBEN,Governor,,1,,Total Votes,296,119,171,6
+Warren,STEUBEN,Governor,,1,,Undervotes,2,0,2,0
+Warren,STEUBEN,Governor,,1,,Overvotes,0,0,0,0
+Warren,STEUBEN,Governor,,1,,Invalid Votes,0,0,0,0
+Warren,STEUBEN,Attorney General,,1,REP,Todd ROKITA,249,94,150,5
+Warren,STEUBEN,Attorney General,,1,DEM,Destiny WELLS,46,24,21,1
+Warren,STEUBEN,Attorney General,,1,,Total Votes,295,118,171,6
+Warren,STEUBEN,Attorney General,,1,,Undervotes,3,1,2,0
+Warren,STEUBEN,Attorney General,,1,,Overvotes,0,0,0,0
+Warren,STEUBEN,Attorney General,,1,,Invalid Votes,0,0,0,0
+Warren,STEUBEN,U.S. House,4,1,REP,Jim BAIRD,249,93,151,5
+Warren,STEUBEN,U.S. House,4,1,DEM,Derrick HOLDER,41,23,17,1
+Warren,STEUBEN,U.S. House,4,1,LBT,Ashley GROFF,5,3,2,0
+Warren,STEUBEN,U.S. House,4,1,,Total Votes,295,119,170,6
+Warren,STEUBEN,U.S. House,4,1,,Undervotes,3,0,3,0
+Warren,STEUBEN,U.S. House,4,1,,Overvotes,0,0,0,0
+Warren,STEUBEN,U.S. House,4,1,,Invalid Votes,0,0,0,0
+Warren,STEUBEN,State House,13,1,REP,Matthew (Matt) COMMONS,256,95,156,5
+Warren,STEUBEN,State House,13,1,DEM,Edward (Ed) MOYER JR.,38,22,15,1
+Warren,STEUBEN,State House,13,1,,Total Votes,294,117,171,6
+Warren,STEUBEN,State House,13,1,,Undervotes,4,2,2,0
+Warren,STEUBEN,State House,13,1,,Overvotes,0,0,0,0
+Warren,STEUBEN,State House,13,1,,Invalid Votes,0,0,0,0
+Warren,STEUBEN,County Treasurer,,1,REP,Kira BAILIFF,270,104,161,5
+Warren,STEUBEN,County Treasurer,,1,,Total Votes,270,104,161,5
+Warren,STEUBEN,County Treasurer,,1,,Undervotes,28,15,12,1
+Warren,STEUBEN,County Treasurer,,1,,Overvotes,0,0,0,0
+Warren,STEUBEN,County Treasurer,,1,,Invalid Votes,0,0,0,0
+Warren,STEUBEN,County Surveyor,,1,REP,Randy HADDOCK,268,104,159,5
+Warren,STEUBEN,County Surveyor,,1,,Total Votes,268,104,159,5
+Warren,STEUBEN,County Surveyor,,1,,Undervotes,30,15,14,1
+Warren,STEUBEN,County Surveyor,,1,,Overvotes,0,0,0,0
+Warren,STEUBEN,County Surveyor,,1,,Invalid Votes,0,0,0,0
+Warren,STEUBEN,County Commissioner,1,1,REP,Craig GREENWOOD,266,101,160,5
+Warren,STEUBEN,County Commissioner,1,1,,Total Votes,266,101,160,5
+Warren,STEUBEN,County Commissioner,1,1,,Undervotes,32,18,13,1
+Warren,STEUBEN,County Commissioner,1,1,,Overvotes,0,0,0,0
+Warren,STEUBEN,County Commissioner,1,1,,Invalid Votes,0,0,0,0
+Warren,STEUBEN,County Commissioner,2,1,REP,Clay ANDREWS,262,100,157,5
+Warren,STEUBEN,County Commissioner,2,1,,Total Votes,262,100,157,5
+Warren,STEUBEN,County Commissioner,2,1,,Undervotes,36,19,16,1
+Warren,STEUBEN,County Commissioner,2,1,,Overvotes,0,0,0,0
+Warren,STEUBEN,County Commissioner,2,1,,Invalid Votes,0,0,0,0
+Warren,STEUBEN,County Council Member,At Large,3,REP,Brady FOSTER,181,71,107,3
+Warren,STEUBEN,County Council Member,At Large,3,REP,Ethan L. FOXWORTHY,189,72,114,3
+Warren,STEUBEN,County Council Member,At Large,3,REP,John Thomas HETRICK,185,68,114,3
+Warren,STEUBEN,County Council Member,At Large,3,DEM,Clint A. FINK,60,27,30,3
+Warren,STEUBEN,County Council Member,At Large,3,,Total Votes,615,238,365,12
+Warren,STEUBEN,County Council Member,At Large,3,,Undervotes,279,119,154,6
+Warren,STEUBEN,County Council Member,At Large,3,,Overvotes,0,0,0,0
+Warren,STEUBEN,School Board Member,Adams and Warren Townships,1,,Dan DUCHEMIN,223,84,135,4
+Warren,STEUBEN,School Board Member,Adams and Warren Townships,1,,Total Votes,223,84,135,4
+Warren,STEUBEN,School Board Member,Adams and Warren Townships,1,,Undervotes,75,35,38,2
+Warren,STEUBEN,School Board Member,Adams and Warren Townships,1,,Overvotes,0,0,0,0
+Warren,STEUBEN,School Board Member,Washington Township,1,,Sharon K GRADY,229,87,138,4
+Warren,STEUBEN,School Board Member,Washington Township,1,,Total Votes,229,87,138,4
+Warren,STEUBEN,School Board Member,Washington Township,1,,Undervotes,69,32,35,2
+Warren,STEUBEN,School Board Member,Washington Township,1,,Overvotes,0,0,0,0
+Warren,STEUBEN,IN Supreme Court-Rush,,,,Yes,176,61,112,3
+Warren,STEUBEN,IN Supreme Court-Rush,,,,No,75,36,38,1
+Warren,STEUBEN,IN Supreme Court-Rush,,,,Total Votes,2517,97,150,4
+Warren,STEUBEN,IN Supreme Court-Rush,,,,Undervotes,47,22,23,2
+Warren,STEUBEN,IN Supreme Court-Rush,,,,Overvotes,0,0,0,0
+Warren,STEUBEN,IN Supreme Court-Massa,,,,Yes,176,60,113,3
+Warren,STEUBEN,IN Supreme Court-Massa,,,,No,71,35,35,1
+Warren,STEUBEN,IN Supreme Court-Massa,,,,Total Votes,247,95,148,4
+Warren,STEUBEN,IN Supreme Court-Massa,,,,Undervotes,51,24,25,2
+Warren,STEUBEN,IN Supreme Court-Massa,,,,Overvotes,0,0,0,0
+Warren,STEUBEN,IN Supreme Court-Molter,,,,Yes,176,62,111,3
+Warren,STEUBEN,IN Supreme Court-Molter,,,,No,72,34,37,1
+Warren,STEUBEN,IN Supreme Court-Molter,,,,Total Votes,248,96,148,4
+Warren,STEUBEN,IN Supreme Court-Molter,,,,Undervotes,50,23,25,2
+Warren,STEUBEN,IN Supreme Court-Molter,,,,Overvotes,0,0,0,0
+Warren,STEUBEN,Court of Appeals Dist 4-Pyle III,,,,Yes,176,61,112,3
+Warren,STEUBEN,Court of Appeals Dist 4-Pyle III,,,,No,70,33,36,1
+Warren,STEUBEN,Court of Appeals Dist 4-Pyle III,,,,Total Votes,246,94,148,4
+Warren,STEUBEN,Court of Appeals Dist 4-Pyle III,,,,Undervotes,52,25,25,2
+Warren,STEUBEN,Court of Appeals Dist 4-Pyle III,,,,Overvotes,0,0,0,0
+Warren,WARREN,Registered Voters,,,,,540,,,
+Warren,WARREN,Ballots Cast,,,,,382,,,
+Warren,WARREN,Straight Party,,,REP,Republican,193,51,141,1
+Warren,WARREN,Straight Party,,,DEM,Democratic,39,12,27,0
+Warren,WARREN,Straight Party,,,LBT,Libertarian,1,0,1,0
+Warren,WARREN,Straight Party,,,WTP,We The People,4,1,2,1
+Warren,WARREN,Straight Party,,,,Total Votes,237,64,171,2
+Warren,WARREN,Straight Party,,,,Undervotes,145,45,93,7
+Warren,WARREN,Straight Party,,,,Overvotes,0,0,0,0
+Warren,WARREN,Public Question-Const Amendment,,,,Yes,171,48,120,3
+Warren,WARREN,Public Question-Const Amendment,,,,No,172,52,114,6
+Warren,WARREN,Public Question-Const Amendment,,,,Total Votes,343,100,234,9
+Warren,WARREN,Public Question-Const Amendment,,,,Undervotes,39,9,30,0
+Warren,WARREN,Public Question-Const Amendment,,,,Overvotes,0,0,0,0
+Warren,WARREN,President,,1,REP,Donald J. TRUMP / JD VANCE,288,76,209,3
+Warren,WARREN,President,,1,DEM,Kamala D. HARRIS / Tim WALZ,80,29,48,3
+Warren,WARREN,President,,1,LBT,Chase OLIVER / Mike terr MAAT,2,0,1,1
+Warren,WARREN,President,,1,WTP,Robert F. KENNEDY JR. / Nichole SHANAHAN,5,1,3,1
+Warren,WARREN,President,,1,,Write-In,0,0,0,0
+Warren,WARREN,President,,1,,Total Votes,375,106,261,8
+Warren,WARREN,President,,1,,Undervotes,7,3,3,1
+Warren,WARREN,President,,1,,Overvotes,0,0,0,0
+Warren,WARREN,President,,1,,Invalid Votes,0,0,0,0
+Warren,WARREN,U.S. Senate,,1,REP,Jim BANKS,296,77,214,5
+Warren,WARREN,U.S. Senate,,1,DEM,Valerie McCRAY,77,31,43,3
+Warren,WARREN,U.S. Senate,,1,LBT,Andrew HORNING,5,1,4,0
+Warren,WARREN,U.S. Senate,,1,,Write-In,0,0,0,0
+Warren,WARREN,U.S. Senate,,1,,Total Votes,378,109,261,8
+Warren,WARREN,U.S. Senate,,1,,Undervotes,4,0,3,1
+Warren,WARREN,U.S. Senate,,1,,Overvotes,0,0,0,0
+Warren,WARREN,U.S. Senate,,1,,Invalid Votes,0,0,0,0
+Warren,WARREN,Governor,,1,REP,Mike BRAUN / Micah BECKWITH,269,72,194,3
+Warren,WARREN,Governor,,1,DEM,Jennifer G. McCORMICK / Terry GOODIN,93,34,54,5
+Warren,WARREN,Governor,,1,LBT,Donald RAINWATER / Tonya HUDSON,17,3,14,0
+Warren,WARREN,Governor,,1,,Write-In,0,0,0,0
+Warren,WARREN,Governor,,1,,Total Votes,379,109,262,8
+Warren,WARREN,Governor,,1,,Undervotes,3,0,2,1
+Warren,WARREN,Governor,,1,,Overvotes,0,0,0,0
+Warren,WARREN,Governor,,1,,Invalid Votes,0,0,0,0
+Warren,WARREN,Attorney General,,1,REP,Todd ROKITA,295,77,214,4
+Warren,WARREN,Attorney General,,1,DEM,Destiny WELLS,85,32,49,4
+Warren,WARREN,Attorney General,,1,,Total Votes,380,109,263,8
+Warren,WARREN,Attorney General,,1,,Undervotes,2,0,1,1
+Warren,WARREN,Attorney General,,1,,Overvotes,0,0,0,0
+Warren,WARREN,Attorney General,,1,,Invalid Votes,0,0,0,0
+Warren,WARREN,U.S. House,4,1,REP,Jim BAIRD,296,78,213,5
+Warren,WARREN,U.S. House,4,1,DEM,Derrick HOLDER,73,28,42,3
+Warren,WARREN,U.S. House,4,1,LBT,Ashley GROFF,9,2,7,0
+Warren,WARREN,U.S. House,4,1,,Total Votes,378,108,262,8
+Warren,WARREN,U.S. House,4,1,,Undervotes,4,1,2,1
+Warren,WARREN,U.S. House,4,1,,Overvotes,0,0,0,0
+Warren,WARREN,U.S. House,4,1,,Invalid Votes,0,0,0,0
+Warren,WARREN,State House,13,1,REP,Matthew (Matt) COMMONS,316,83,227,6
+Warren,WARREN,State House,13,1,DEM,Edward (Ed) MOYER JR.,64,26,36,2
+Warren,WARREN,State House,13,1,,Total Votes,380,109,263,8
+Warren,WARREN,State House,13,1,,Undervotes,2,0,1,1
+Warren,WARREN,State House,13,1,,Overvotes,0,0,0,0
+Warren,WARREN,State House,13,1,,Invalid Votes,0,0,0,0
+Warren,WARREN,County Treasurer,,1,REP,Kira BAILIFF,334,92,235,7
+Warren,WARREN,County Treasurer,,1,,Total Votes,334,92,235,7
+Warren,WARREN,County Treasurer,,1,,Undervotes,48,17,29,2
+Warren,WARREN,County Treasurer,,1,,Overvotes,0,0,0,0
+Warren,WARREN,County Treasurer,,1,,Invalid Votes,0,0,0,0
+Warren,WARREN,County Surveyor,,1,REP,Randy HADDOCK,340,94,239,7
+Warren,WARREN,County Surveyor,,1,,Total Votes,340,94,239,7
+Warren,WARREN,County Surveyor,,1,,Undervotes,42,15,25,2
+Warren,WARREN,County Surveyor,,1,,Overvotes,0,0,0,0
+Warren,WARREN,County Surveyor,,1,,Invalid Votes,0,0,0,0
+Warren,WARREN,County Commissioner,1,1,REP,Craig GREENWOOD,337,95,235,7
+Warren,WARREN,County Commissioner,1,1,,Total Votes,337,95,235,7
+Warren,WARREN,County Commissioner,1,1,,Undervotes,45,14,29,2
+Warren,WARREN,County Commissioner,1,1,,Overvotes,0,0,0,0
+Warren,WARREN,County Commissioner,1,1,,Invalid Votes,0,0,0,0
+Warren,WARREN,County Commissioner,2,1,REP,Clay ANDREWS,331,95,230,6
+Warren,WARREN,County Commissioner,2,1,,Total Votes,331,95,230,6
+Warren,WARREN,County Commissioner,2,1,,Undervotes,51,14,34,3
+Warren,WARREN,County Commissioner,2,1,,Overvotes,0,0,0,0
+Warren,WARREN,County Commissioner,2,1,,Invalid Votes,0,0,0,0
+Warren,WARREN,County Council Member,At Large,3,REP,Brady FOSTER,223,58,161,4
+Warren,WARREN,County Council Member,At Large,3,REP,Ethan L. FOXWORTHY,225,64,155,6
+Warren,WARREN,County Council Member,At Large,3,REP,John Thomas HETRICK,174,56,115,3
+Warren,WARREN,County Council Member,At Large,3,DEM,Clint A. FINK,97,35,60,2
+Warren,WARREN,County Council Member,At Large,3,,Total Votes,719,213,491,15
+Warren,WARREN,County Council Member,At Large,3,,Undervotes,427,114,301,12
+Warren,WARREN,County Council Member,At Large,3,,Overvotes,0,0,0,0
+Warren,WARREN,School Board Member,Adams and Warren Townships,1,,Dan DUCHEMIN,272,77,188,7
+Warren,WARREN,School Board Member,Adams and Warren Townships,1,,Total Votes,272,77,188,7
+Warren,WARREN,School Board Member,Adams and Warren Townships,1,,Undervotes,110,32,76,2
+Warren,WARREN,School Board Member,Adams and Warren Townships,1,,Overvotes,0,0,0,0
+Warren,WARREN,School Board Member,Washington Township,1,,Sharon K GRADY,270,82,183,5
+Warren,WARREN,School Board Member,Washington Township,1,,Total Votes,270,82,183,5
+Warren,WARREN,School Board Member,Washington Township,1,,Undervotes,112,27,81,4
+Warren,WARREN,School Board Member,Washington Township,1,,Overvotes,0,0,0,0
+Warren,WARREN,IN Supreme Court-Rush,,,,Yes,213,62,148,3
+Warren,WARREN,IN Supreme Court-Rush,,,,No,111,33,72,6
+Warren,WARREN,IN Supreme Court-Rush,,,,Total Votes,324,95,220,9
+Warren,WARREN,IN Supreme Court-Rush,,,,Undervotes,58,14,44,0
+Warren,WARREN,IN Supreme Court-Rush,,,,Overvotes,0,0,0,0
+Warren,WARREN,IN Supreme Court-Massa,,,,Yes,212,64,144,4
+Warren,WARREN,IN Supreme Court-Massa,,,,No,101,28,68,5
+Warren,WARREN,IN Supreme Court-Massa,,,,Total Votes,313,92,212,9
+Warren,WARREN,IN Supreme Court-Massa,,,,Undervotes,69,17,52,0
+Warren,WARREN,IN Supreme Court-Massa,,,,Overvotes,0,0,0,0
+Warren,WARREN,IN Supreme Court-Molter,,,,Yes,225,65,157,3
+Warren,WARREN,IN Supreme Court-Molter,,,,No,85,27,53,5
+Warren,WARREN,IN Supreme Court-Molter,,,,Total Votes,310,92,210,8
+Warren,WARREN,IN Supreme Court-Molter,,,,Undervotes,72,17,54,1
+Warren,WARREN,IN Supreme Court-Molter,,,,Overvotes,0,0,0,0
+Warren,WARREN,Court of Appeals Dist 4-Pyle III,,,,Yes,214,61,149,4
+Warren,WARREN,Court of Appeals Dist 4-Pyle III,,,,No,95,30,61,4
+Warren,WARREN,Court of Appeals Dist 4-Pyle III,,,,Total Votes,309,91,210,8
+Warren,WARREN,Court of Appeals Dist 4-Pyle III,,,,Undervotes,73,18,54,1
+Warren,WARREN,Court of Appeals Dist 4-Pyle III,,,,Overvotes,0,0,0,0
+Warren,WASHINGTON 01,Registered Voters,,,,,885,,,
+Warren,WASHINGTON 01,Ballots Cast,,,,,574,,,
+Warren,WASHINGTON 01,Straight Party,,,REP,Republican,269,108,151,10
+Warren,WASHINGTON 01,Straight Party,,,DEM,Democratic,49,19,24,6
+Warren,WASHINGTON 01,Straight Party,,,LBT,Libertarian,2,0,2,0
+Warren,WASHINGTON 01,Straight Party,,,WTP,We The People,6,1,5,0
+Warren,WASHINGTON 01,Straight Party,,,,Total Votes,326,128,182,16
+Warren,WASHINGTON 01,Straight Party,,,,Undervotes,248,101,139,8
+Warren,WASHINGTON 01,Straight Party,,,,Overvotes,0,0,0,0
+Warren,WASHINGTON 01,Public Question-Const Amendment,,,,Yes,266,111,146,9
+Warren,WASHINGTON 01,Public Question-Const Amendment,,,,No,243,94,142,7
+Warren,WASHINGTON 01,Public Question-Const Amendment,,,,Total Votes,509,205,288,16
+Warren,WASHINGTON 01,Public Question-Const Amendment,,,,Undervotes,65,24,33,8
+Warren,WASHINGTON 01,Public Question-Const Amendment,,,,Overvotes,0,0,0,0
+Warren,WASHINGTON 01,President,,1,REP,Donald J. TRUMP / JD VANCE,452,176,263,13
+Warren,WASHINGTON 01,President,,1,DEM,Kamala D. HARRIS / Tim WALZ,109,50,48,11
+Warren,WASHINGTON 01,President,,1,LBT,Chase OLIVER / Mike terr MAAT,3,0,3,0
+Warren,WASHINGTON 01,President,,1,WTP,Robert F. KENNEDY JR. / Nichole SHANAHAN,6,1,5,0
+Warren,WASHINGTON 01,President,,1,,Write-In,0,0,0,0
+Warren,WASHINGTON 01,President,,1,,Total Votes,570,227,319,24
+Warren,WASHINGTON 01,President,,1,,Undervotes,4,2,2,0
+Warren,WASHINGTON 01,President,,1,,Overvotes,0,0,0,0
+Warren,WASHINGTON 01,President,,1,,Invalid Votes,0,0,0,0
+Warren,WASHINGTON 01,U.S. Senate,,1,REP,Jim BANKS,438,177,249,12
+Warren,WASHINGTON 01,U.S. Senate,,1,DEM,Valerie McCRAY,110,49,50,11
+Warren,WASHINGTON 01,U.S. Senate,,1,LBT,Andrew HORNING,19,2,16,1
+Warren,WASHINGTON 01,U.S. Senate,,1,,Write-In,0,0,0,0
+Warren,WASHINGTON 01,U.S. Senate,,1,,Total Votes,567,228,315,24
+Warren,WASHINGTON 01,U.S. Senate,,1,,Undervotes,7,1,6,0
+Warren,WASHINGTON 01,U.S. Senate,,1,,Overvotes,0,0,0,0
+Warren,WASHINGTON 01,U.S. Senate,,1,,Invalid Votes,0,0,0,0
+Warren,WASHINGTON 01,Governor,,1,REP,Mike BRAUN / Micah BECKWITH,394,162,219,13
+Warren,WASHINGTON 01,Governor,,1,DEM,Jennifer G. McCORMICK / Terry GOODIN,121,52,58,11
+Warren,WASHINGTON 01,Governor,,1,LBT,Donald RAINWATER / Tonya HUDSON,51,14,37,0
+Warren,WASHINGTON 01,Governor,,1,,Write-In,0,0,0,0
+Warren,WASHINGTON 01,Governor,,1,,Total Votes,566,228,314,24
+Warren,WASHINGTON 01,Governor,,1,,Undervotes,8,1,7,0
+Warren,WASHINGTON 01,Governor,,1,,Overvotes,0,0,0,0
+Warren,WASHINGTON 01,Governor,,1,,Invalid Votes,0,0,0,0
+Warren,WASHINGTON 01,Attorney General,,1,REP,Todd ROKITA,430,173,244,13
+Warren,WASHINGTON 01,Attorney General,,1,DEM,Destiny WELLS,134,55,68,11
+Warren,WASHINGTON 01,Attorney General,,1,,Total Votes,564,228,312,24
+Warren,WASHINGTON 01,Attorney General,,1,,Undervotes,10,1,9,0
+Warren,WASHINGTON 01,Attorney General,,1,,Overvotes,0,0,0,0
+Warren,WASHINGTON 01,Attorney General,,1,,Invalid Votes,0,0,0,0
+Warren,WASHINGTON 01,U.S. House,4,1,REP,Jim BAIRD,433,172,248,13
+Warren,WASHINGTON 01,U.S. House,4,1,DEM,Derrick HOLDER,99,43,45,11
+Warren,WASHINGTON 01,U.S. House,4,1,LBT,Ashley GROFF,32,12,20,0
+Warren,WASHINGTON 01,U.S. House,4,1,,Total Votes,564,227,313,24
+Warren,WASHINGTON 01,U.S. House,4,1,,Undervotes,10,2,8,0
+Warren,WASHINGTON 01,U.S. House,4,1,,Overvotes,0,0,0,0
+Warren,WASHINGTON 01,U.S. House,4,1,,Invalid Votes,0,0,0,0
+Warren,WASHINGTON 01,State House,13,1,REP,Matthew (Matt) COMMONS,492,193,284,15
+Warren,WASHINGTON 01,State House,13,1,DEM,Edward (Ed) MOYER JR.,78,35,34,9
+Warren,WASHINGTON 01,State House,13,1,,Total Votes,570,228,318,24
+Warren,WASHINGTON 01,State House,13,1,,Undervotes,4,1,3,0
+Warren,WASHINGTON 01,State House,13,1,,Overvotes,0,0,0,0
+Warren,WASHINGTON 01,State House,13,1,,Invalid Votes,0,0,0,0
+Warren,WASHINGTON 01,County Treasurer,,1,REP,Kira BAILIFF,518,208,294,16
+Warren,WASHINGTON 01,County Treasurer,,1,,Total Votes,518,208,294,16
+Warren,WASHINGTON 01,County Treasurer,,1,,Undervotes,56,21,27,8
+Warren,WASHINGTON 01,County Treasurer,,1,,Overvotes,0,0,0,0
+Warren,WASHINGTON 01,County Treasurer,,1,,Invalid Votes,0,0,0,0
+Warren,WASHINGTON 01,County Surveyor,,1,REP,Randy HADDOCK,517,210,294,13
+Warren,WASHINGTON 01,County Surveyor,,1,,Total Votes,517,210,294,13
+Warren,WASHINGTON 01,County Surveyor,,1,,Undervotes,57,19,27,11
+Warren,WASHINGTON 01,County Surveyor,,1,,Overvotes,0,0,0,0
+Warren,WASHINGTON 01,County Surveyor,,1,,Invalid Votes,0,0,0,0
+Warren,WASHINGTON 01,County Commissioner,1,1,REP,Craig GREENWOOD,509,208,288,13
+Warren,WASHINGTON 01,County Commissioner,1,1,,Total Votes,509,208,288,13
+Warren,WASHINGTON 01,County Commissioner,1,1,,Undervotes,65,21,33,11
+Warren,WASHINGTON 01,County Commissioner,1,1,,Overvotes,0,0,0,0
+Warren,WASHINGTON 01,County Commissioner,1,1,,Invalid Votes,0,0,0,0
+Warren,WASHINGTON 01,County Commissioner,2,1,REP,Clay ANDREWS,508,206,289,13
+Warren,WASHINGTON 01,County Commissioner,2,1,,Total Votes,508,206,289,13
+Warren,WASHINGTON 01,County Commissioner,2,1,,Undervotes,66,23,32,11
+Warren,WASHINGTON 01,County Commissioner,2,1,,Overvotes,0,0,0,0
+Warren,WASHINGTON 01,County Commissioner,2,1,,Invalid Votes,0,0,0,0
+Warren,WASHINGTON 01,County Council Member,At Large,3,REP,Brady FOSTER,353,142,199,12
+Warren,WASHINGTON 01,County Council Member,At Large,3,REP,Ethan L. FOXWORTHY,346,144,191,11
+Warren,WASHINGTON 01,County Council Member,At Large,3,REP,John Thomas HETRICK,286,119,153,14
+Warren,WASHINGTON 01,County Council Member,At Large,3,DEM,Clint A. FINK,146,60,76,10
+Warren,WASHINGTON 01,County Council Member,At Large,3,,Total Votes,1131,465,619,47
+Warren,WASHINGTON 01,County Council Member,At Large,3,,Undervotes,591,222,344,25
+Warren,WASHINGTON 01,County Council Member,At Large,3,,Overvotes,0,0,0,0
+Warren,WASHINGTON 01,School Board Member,Adams and Warren Townships,1,,Dan DUCHEMIN,415,169,236,10
+Warren,WASHINGTON 01,School Board Member,Adams and Warren Townships,1,,Total Votes,415,169,236,10
+Warren,WASHINGTON 01,School Board Member,Adams and Warren Townships,1,,Undervotes,159,60,85,14
+Warren,WASHINGTON 01,School Board Member,Adams and Warren Townships,1,,Overvotes,0,0,0,0
+Warren,WASHINGTON 01,School Board Member,Washington Township,1,,Sharon K GRADY,447,187,245,15
+Warren,WASHINGTON 01,School Board Member,Washington Township,1,,Total Votes,447,187,245,15
+Warren,WASHINGTON 01,School Board Member,Washington Township,1,,Undervotes,127,42,76,9
+Warren,WASHINGTON 01,School Board Member,Washington Township,1,,Overvotes,0,0,0,0
+Warren,WASHINGTON 01,IN Supreme Court-Rush,,,,Yes,340,124,202,14
+Warren,WASHINGTON 01,IN Supreme Court-Rush,,,,No,140,64,73,3
+Warren,WASHINGTON 01,IN Supreme Court-Rush,,,,Total Votes,480,188,275,17
+Warren,WASHINGTON 01,IN Supreme Court-Rush,,,,Undervotes,94,41,46,7
+Warren,WASHINGTON 01,IN Supreme Court-Rush,,,,Overvotes,0,0,0,0
+Warren,WASHINGTON 01,IN Supreme Court-Massa,,,,Yes,334,121,202,11
+Warren,WASHINGTON 01,IN Supreme Court-Massa,,,,No,126,60,62,4
+Warren,WASHINGTON 01,IN Supreme Court-Massa,,,,Total Votes,460,181,264,15
+Warren,WASHINGTON 01,IN Supreme Court-Massa,,,,Undervotes,114,48,57,9
+Warren,WASHINGTON 01,IN Supreme Court-Massa,,,,Overvotes,0,0,0,0
+Warren,WASHINGTON 01,IN Supreme Court-Molter,,,,Yes,339,124,204,11
+Warren,WASHINGTON 01,IN Supreme Court-Molter,,,,No,120,57,59,4
+Warren,WASHINGTON 01,IN Supreme Court-Molter,,,,Total Votes,459,181,263,15
+Warren,WASHINGTON 01,IN Supreme Court-Molter,,,,Undervotes,115,48,58,9
+Warren,WASHINGTON 01,IN Supreme Court-Molter,,,,Overvotes,0,0,0,0
+Warren,WASHINGTON 01,Court of Appeals Dist 4-Pyle III,,,,Yes,332,123,196,13
+Warren,WASHINGTON 01,Court of Appeals Dist 4-Pyle III,,,,No,126,61,63,2
+Warren,WASHINGTON 01,Court of Appeals Dist 4-Pyle III,,,,Total Votes,458,184,259,15
+Warren,WASHINGTON 01,Court of Appeals Dist 4-Pyle III,,,,Undervotes,116,45,62,9
+Warren,WASHINGTON 01,Court of Appeals Dist 4-Pyle III,,,,Overvotes,0,0,0,0
+Warren,WASHINGTON 02,Registered Voters,,,,,706,,,
+Warren,WASHINGTON 02,Ballots Cast,,,,,499,,,
+Warren,WASHINGTON 02,Straight Party,,,REP,Republican,228,86,138,4
+Warren,WASHINGTON 02,Straight Party,,,DEM,Democratic,52,24,22,6
+Warren,WASHINGTON 02,Straight Party,,,LBT,Libertarian,1,0,1,0
+Warren,WASHINGTON 02,Straight Party,,,WTP,We The People,4,2,2,0
+Warren,WASHINGTON 02,Straight Party,,,,Total Votes,285,112,163,10
+Warren,WASHINGTON 02,Straight Party,,,,Undervotes,214,117,90,7
+Warren,WASHINGTON 02,Straight Party,,,,Overvotes,0,0,0,0
+Warren,WASHINGTON 02,Public Question-Const Amendment,,,,Yes,220,98,117,5
+Warren,WASHINGTON 02,Public Question-Const Amendment,,,,No,220,106,105,9
+Warren,WASHINGTON 02,Public Question-Const Amendment,,,,Total Votes,440,204,222,14
+Warren,WASHINGTON 02,Public Question-Const Amendment,,,,Undervotes,59,25,31,3
+Warren,WASHINGTON 02,Public Question-Const Amendment,,,,Overvotes,0,0,0,0
+Warren,WASHINGTON 02,President,,1,REP,Donald J. TRUMP / JD VANCE,378,165,205,8
+Warren,WASHINGTON 02,President,,1,DEM,Kamala D. HARRIS / Tim WALZ,113,59,45,9
+Warren,WASHINGTON 02,President,,1,LBT,Chase OLIVER / Mike terr MAAT,2,2,0,0
+Warren,WASHINGTON 02,President,,1,WTP,Robert F. KENNEDY JR. / Nichole SHANAHAN,4,1,3,0
+Warren,WASHINGTON 02,President,,1,,Write-In,0,0,0,0
+Warren,WASHINGTON 02,President,,1,,Total Votes,497,227,253,17
+Warren,WASHINGTON 02,President,,1,,Undervotes,2,2,0,0
+Warren,WASHINGTON 02,President,,1,,Overvotes,0,0,0,0
+Warren,WASHINGTON 02,President,,1,,Invalid Votes,0,0,0,0
+Warren,WASHINGTON 02,U.S. Senate,,1,REP,Jim BANKS,369,165,196,8
+Warren,WASHINGTON 02,U.S. Senate,,1,DEM,Valerie McCRAY,109,55,45,9
+Warren,WASHINGTON 02,U.S. Senate,,1,LBT,Andrew HORNING,6,3,3,0
+Warren,WASHINGTON 02,U.S. Senate,,1,,Write-In,0,0,0,0
+Warren,WASHINGTON 02,U.S. Senate,,1,,Total Votes,484,223,244,17
+Warren,WASHINGTON 02,U.S. Senate,,1,,Undervotes,15,6,9,0
+Warren,WASHINGTON 02,U.S. Senate,,1,,Overvotes,0,0,0,0
+Warren,WASHINGTON 02,U.S. Senate,,1,,Invalid Votes,0,0,0,0
+Warren,WASHINGTON 02,Governor,,1,REP,Mike BRAUN / Micah BECKWITH,334,148,179,7
+Warren,WASHINGTON 02,Governor,,1,DEM,Jennifer G. McCORMICK / Terry GOODIN,120,62,49,9
+Warren,WASHINGTON 02,Governor,,1,LBT,Donald RAINWATER / Tonya HUDSON,37,14,22,1
+Warren,WASHINGTON 02,Governor,,1,,Write-In,0,0,0,0
+Warren,WASHINGTON 02,Governor,,1,,Total Votes,491,224,250,17
+Warren,WASHINGTON 02,Governor,,1,,Undervotes,8,5,3,0
+Warren,WASHINGTON 02,Governor,,1,,Overvotes,0,0,0,0
+Warren,WASHINGTON 02,Governor,,1,,Invalid Votes,0,0,0,0
+Warren,WASHINGTON 02,Attorney General,,1,REP,Todd ROKITA,372,163,202,7
+Warren,WASHINGTON 02,Attorney General,,1,DEM,Destiny WELLS,112,58,44,10
+Warren,WASHINGTON 02,Attorney General,,1,,Total Votes,484,221,246,17
+Warren,WASHINGTON 02,Attorney General,,1,,Undervotes,15,8,7,0
+Warren,WASHINGTON 02,Attorney General,,1,,Overvotes,0,0,0,0
+Warren,WASHINGTON 02,Attorney General,,1,,Invalid Votes,0,0,0,0
+Warren,WASHINGTON 02,U.S. House,4,1,REP,Jim BAIRD,379,172,201,6
+Warren,WASHINGTON 02,U.S. House,4,1,DEM,Derrick HOLDER,96,47,39,10
+Warren,WASHINGTON 02,U.S. House,4,1,LBT,Ashley GROFF,10,4,6,0
+Warren,WASHINGTON 02,U.S. House,4,1,,Total Votes,485,223,246,16
+Warren,WASHINGTON 02,U.S. House,4,1,,Undervotes,14,6,7,1
+Warren,WASHINGTON 02,U.S. House,4,1,,Overvotes,0,0,0,0
+Warren,WASHINGTON 02,U.S. House,4,1,,Invalid Votes,0,0,0,0
+Warren,WASHINGTON 02,State House,13,1,REP,Matthew (Matt) COMMONS,418,185,225,8
+Warren,WASHINGTON 02,State House,13,1,DEM,Edward (Ed) MOYER JR.,75,41,25,9
+Warren,WASHINGTON 02,State House,13,1,,Total Votes,493,226,250,17
+Warren,WASHINGTON 02,State House,13,1,,Undervotes,6,3,3,0
+Warren,WASHINGTON 02,State House,13,1,,Overvotes,0,0,0,0
+Warren,WASHINGTON 02,State House,13,1,,Invalid Votes,0,0,0,0
+Warren,WASHINGTON 02,County Treasurer,,1,REP,Kira BAILIFF,441,204,227,10
+Warren,WASHINGTON 02,County Treasurer,,1,,Total Votes,441,204,227,10
+Warren,WASHINGTON 02,County Treasurer,,1,,Undervotes,58,25,26,7
+Warren,WASHINGTON 02,County Treasurer,,1,,Overvotes,0,0,0,0
+Warren,WASHINGTON 02,County Treasurer,,1,,Invalid Votes,0,0,0,0
+Warren,WASHINGTON 02,County Surveyor,,1,REP,Randy HADDOCK,444,202,233,9
+Warren,WASHINGTON 02,County Surveyor,,1,,Total Votes,444,202,233,9
+Warren,WASHINGTON 02,County Surveyor,,1,,Undervotes,55,27,20,8
+Warren,WASHINGTON 02,County Surveyor,,1,,Overvotes,0,0,0,0
+Warren,WASHINGTON 02,County Surveyor,,1,,Invalid Votes,0,0,0,0
+Warren,WASHINGTON 02,County Commissioner,1,1,REP,Craig GREENWOOD,436,198,228,10
+Warren,WASHINGTON 02,County Commissioner,1,1,,Total Votes,436,198,228,10
+Warren,WASHINGTON 02,County Commissioner,1,1,,Undervotes,63,31,25,7
+Warren,WASHINGTON 02,County Commissioner,1,1,,Overvotes,0,0,0,0
+Warren,WASHINGTON 02,County Commissioner,1,1,,Invalid Votes,0,0,0,0
+Warren,WASHINGTON 02,County Commissioner,2,1,REP,Clay ANDREWS,434,196,228,10
+Warren,WASHINGTON 02,County Commissioner,2,1,,Total Votes,434,196,228,10
+Warren,WASHINGTON 02,County Commissioner,2,1,,Undervotes,65,33,25,7
+Warren,WASHINGTON 02,County Commissioner,2,1,,Overvotes,0,0,0,0
+Warren,WASHINGTON 02,County Commissioner,2,1,,Invalid Votes,0,0,0,0
+Warren,WASHINGTON 02,County Council Member,At Large,3,REP,Brady FOSTER,322,156,156,10
+Warren,WASHINGTON 02,County Council Member,At Large,3,REP,Ethan L. FOXWORTHY,301,152,141,8
+Warren,WASHINGTON 02,County Council Member,At Large,3,REP,John Thomas HETRICK,276,138,131,7
+Warren,WASHINGTON 02,County Council Member,At Large,3,DEM,Clint A. FINK,140,70,61,9
+Warren,WASHINGTON 02,County Council Member,At Large,3,,Total Votes,1039,516,489,34
+Warren,WASHINGTON 02,County Council Member,At Large,3,,Undervotes,455,171,270,14
+Warren,WASHINGTON 02,County Council Member,At Large,3,,Overvotes,1,0,0,1
+Warren,WASHINGTON 02,School Board Member,Adams and Warren Townships,1,,Dan DUCHEMIN,337,151,179,7
+Warren,WASHINGTON 02,School Board Member,Adams and Warren Townships,1,,Total Votes,337,151,179,7
+Warren,WASHINGTON 02,School Board Member,Adams and Warren Townships,1,,Undervotes,162,78,74,10
+Warren,WASHINGTON 02,School Board Member,Adams and Warren Townships,1,,Overvotes,0,0,0,0
+Warren,WASHINGTON 02,School Board Member,Washington Township,1,,Sharon K GRADY,383,176,193,14
+Warren,WASHINGTON 02,School Board Member,Washington Township,1,,Total Votes,383,176,193,14
+Warren,WASHINGTON 02,School Board Member,Washington Township,1,,Undervotes,116,53,60,3
+Warren,WASHINGTON 02,School Board Member,Washington Township,1,,Overvotes,0,0,0,0
+Warren,WASHINGTON 02,IN Supreme Court-Rush,,,,Yes,287,129,147,11
+Warren,WASHINGTON 02,IN Supreme Court-Rush,,,,No,126,64,59,3
+Warren,WASHINGTON 02,IN Supreme Court-Rush,,,,Total Votes,413,193,206,14
+Warren,WASHINGTON 02,IN Supreme Court-Rush,,,,Undervotes,86,36,47,3
+Warren,WASHINGTON 02,IN Supreme Court-Rush,,,,Overvotes,0,0,0,0
+Warren,WASHINGTON 02,IN Supreme Court-Massa,,,,Yes,283,128,144,11
+Warren,WASHINGTON 02,IN Supreme Court-Massa,,,,No,113,57,54,2
+Warren,WASHINGTON 02,IN Supreme Court-Massa,,,,Total Votes,396,185,198,13
+Warren,WASHINGTON 02,IN Supreme Court-Massa,,,,Undervotes,103,44,55,4
+Warren,WASHINGTON 02,IN Supreme Court-Massa,,,,Overvotes,0,0,0,0
+Warren,WASHINGTON 02,IN Supreme Court-Molter,,,,Yes,275,130,137,8
+Warren,WASHINGTON 02,IN Supreme Court-Molter,,,,No,110,52,55,3
+Warren,WASHINGTON 02,IN Supreme Court-Molter,,,,Total Votes,385,182,192,11
+Warren,WASHINGTON 02,IN Supreme Court-Molter,,,,Undervotes,114,47,61,6
+Warren,WASHINGTON 02,IN Supreme Court-Molter,,,,Overvotes,0,0,0,0
+Warren,WASHINGTON 02,Court of Appeals Dist 4-Pyle III,,,,Yes,275,129,137,9
+Warren,WASHINGTON 02,Court of Appeals Dist 4-Pyle III,,,,No,107,54,51,2
+Warren,WASHINGTON 02,Court of Appeals Dist 4-Pyle III,,,,Total Votes,382,183,188,11
+Warren,WASHINGTON 02,Court of Appeals Dist 4-Pyle III,,,,Undervotes,117,46,65,6
+Warren,WASHINGTON 02,Court of Appeals Dist 4-Pyle III,,,,Overvotes,0,0,0,0

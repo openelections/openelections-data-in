@@ -1,0 +1,2528 @@
+county,precinct,office,district,seats,party,candidate,votes
+Newton,Beaver 1,Registered Voters,,,,,490
+Newton,Beaver 2,Registered Voters,,,,,608
+Newton,Colfax,Registered Voters,,,,,105
+Newton,Grant 1,Registered Voters,,,,,443
+Newton,Grant 2,Registered Voters,,,,,257
+Newton,Iroquois 1,Registered Voters,,,,,352
+Newton,Iroquois 2,Registered Voters,,,,,475
+Newton,Jackson,Registered Voters,,,,,283
+Newton,Jefferson 1,Registered Voters,,,,,480
+Newton,Jefferson 2,Registered Voters,,,,,637
+Newton,Jefferson 3,Registered Voters,,,,,330
+Newton,Lake 1,Registered Voters,,,,,1103
+Newton,Lake 2,Registered Voters,,,,,748
+Newton,Lincoln 1,Registered Voters,,,,,905
+Newton,Lincoln 2,Registered Voters,,,,,887
+Newton,Lincoln 3,Registered Voters,,,,,798
+Newton,Lincoln 4,Registered Voters,,,,,888
+Newton,McClellan,Registered Voters,,,,,165
+Newton,Washington,Registered Voters,,,,,256
+Newton,Beaver 1,Ballots Cast,,,,,314
+Newton,Beaver 2,Ballots Cast,,,,,400
+Newton,Colfax,Ballots Cast,,,,,71
+Newton,Grant 1,Ballots Cast,,,,,279
+Newton,Grant 2,Ballots Cast,,,,,154
+Newton,Iroquois 1,Ballots Cast,,,,,214
+Newton,Iroquois 2,Ballots Cast,,,,,309
+Newton,Jackson,Ballots Cast,,,,,215
+Newton,Jefferson 1,Ballots Cast,,,,,334
+Newton,Jefferson 2,Ballots Cast,,,,,415
+Newton,Jefferson 3,Ballots Cast,,,,,183
+Newton,Lake 1,Ballots Cast,,,,,777
+Newton,Lake 2,Ballots Cast,,,,,494
+Newton,Lincoln 1,Ballots Cast,,,,,581
+Newton,Lincoln 2,Ballots Cast,,,,,582
+Newton,Lincoln 3,Ballots Cast,,,,,472
+Newton,Lincoln 4,Ballots Cast,,,,,575
+Newton,McClellan,Ballots Cast,,,,,104
+Newton,Washington,Ballots Cast,,,,,177
+Newton,Beaver 1,Straight Party,,,REP,Republican Party,92
+Newton,Beaver 2,Straight Party,,,REP,Republican Party,118
+Newton,Colfax,Straight Party,,,REP,Republican Party,15
+Newton,Grant 1,Straight Party,,,REP,Republican Party,90
+Newton,Grant 2,Straight Party,,,REP,Republican Party,55
+Newton,Iroquois 1,Straight Party,,,REP,Republican Party,62
+Newton,Iroquois 2,Straight Party,,,REP,Republican Party,73
+Newton,Jackson,Straight Party,,,REP,Republican Party,59
+Newton,Jefferson 1,Straight Party,,,REP,Republican Party,73
+Newton,Jefferson 2,Straight Party,,,REP,Republican Party,108
+Newton,Jefferson 3,Straight Party,,,REP,Republican Party,53
+Newton,Lake 1,Straight Party,,,REP,Republican Party,281
+Newton,Lake 2,Straight Party,,,REP,Republican Party,195
+Newton,Lincoln 1,Straight Party,,,REP,Republican Party,216
+Newton,Lincoln 2,Straight Party,,,REP,Republican Party,202
+Newton,Lincoln 3,Straight Party,,,REP,Republican Party,179
+Newton,Lincoln 4,Straight Party,,,REP,Republican Party,204
+Newton,McClellan,Straight Party,,,REP,Republican Party,36
+Newton,Washington,Straight Party,,,REP,Republican Party,52
+Newton,Beaver 1,Straight Party,,,DEM,Democratic Party,24
+Newton,Beaver 2,Straight Party,,,DEM,Democratic Party,19
+Newton,Colfax,Straight Party,,,DEM,Democratic Party,3
+Newton,Grant 1,Straight Party,,,DEM,Democratic Party,9
+Newton,Grant 2,Straight Party,,,DEM,Democratic Party,13
+Newton,Iroquois 1,Straight Party,,,DEM,Democratic Party,10
+Newton,Iroquois 2,Straight Party,,,DEM,Democratic Party,16
+Newton,Jackson,Straight Party,,,DEM,Democratic Party,10
+Newton,Jefferson 1,Straight Party,,,DEM,Democratic Party,18
+Newton,Jefferson 2,Straight Party,,,DEM,Democratic Party,33
+Newton,Jefferson 3,Straight Party,,,DEM,Democratic Party,16
+Newton,Lake 1,Straight Party,,,DEM,Democratic Party,50
+Newton,Lake 2,Straight Party,,,DEM,Democratic Party,52
+Newton,Lincoln 1,Straight Party,,,DEM,Democratic Party,63
+Newton,Lincoln 2,Straight Party,,,DEM,Democratic Party,48
+Newton,Lincoln 3,Straight Party,,,DEM,Democratic Party,34
+Newton,Lincoln 4,Straight Party,,,DEM,Democratic Party,65
+Newton,McClellan,Straight Party,,,DEM,Democratic Party,9
+Newton,Washington,Straight Party,,,DEM,Democratic Party,5
+Newton,Beaver 1,Straight Party,,,LBT,Libertarian Party,2
+Newton,Beaver 2,Straight Party,,,LBT,Libertarian Party,0
+Newton,Colfax,Straight Party,,,LBT,Libertarian Party,1
+Newton,Grant 1,Straight Party,,,LBT,Libertarian Party,1
+Newton,Grant 2,Straight Party,,,LBT,Libertarian Party,0
+Newton,Iroquois 1,Straight Party,,,LBT,Libertarian Party,3
+Newton,Iroquois 2,Straight Party,,,LBT,Libertarian Party,1
+Newton,Jackson,Straight Party,,,LBT,Libertarian Party,1
+Newton,Jefferson 1,Straight Party,,,LBT,Libertarian Party,1
+Newton,Jefferson 2,Straight Party,,,LBT,Libertarian Party,1
+Newton,Jefferson 3,Straight Party,,,LBT,Libertarian Party,0
+Newton,Lake 1,Straight Party,,,LBT,Libertarian Party,0
+Newton,Lake 2,Straight Party,,,LBT,Libertarian Party,0
+Newton,Lincoln 1,Straight Party,,,LBT,Libertarian Party,2
+Newton,Lincoln 2,Straight Party,,,LBT,Libertarian Party,1
+Newton,Lincoln 3,Straight Party,,,LBT,Libertarian Party,1
+Newton,Lincoln 4,Straight Party,,,LBT,Libertarian Party,3
+Newton,McClellan,Straight Party,,,LBT,Libertarian Party,1
+Newton,Washington,Straight Party,,,LBT,Libertarian Party,0
+Newton,Beaver 1,Straight Party,,,WTP,We The People Party,2
+Newton,Beaver 2,Straight Party,,,WTP,We The People Party,5
+Newton,Colfax,Straight Party,,,WTP,We The People Party,0
+Newton,Grant 1,Straight Party,,,WTP,We The People Party,3
+Newton,Grant 2,Straight Party,,,WTP,We The People Party,0
+Newton,Iroquois 1,Straight Party,,,WTP,We The People Party,4
+Newton,Iroquois 2,Straight Party,,,WTP,We The People Party,3
+Newton,Jackson,Straight Party,,,WTP,We The People Party,4
+Newton,Jefferson 1,Straight Party,,,WTP,We The People Party,2
+Newton,Jefferson 2,Straight Party,,,WTP,We The People Party,1
+Newton,Jefferson 3,Straight Party,,,WTP,We The People Party,0
+Newton,Lake 1,Straight Party,,,WTP,We The People Party,0
+Newton,Lake 2,Straight Party,,,WTP,We The People Party,0
+Newton,Lincoln 1,Straight Party,,,WTP,We The People Party,3
+Newton,Lincoln 2,Straight Party,,,WTP,We The People Party,5
+Newton,Lincoln 3,Straight Party,,,WTP,We The People Party,0
+Newton,Lincoln 4,Straight Party,,,WTP,We The People Party,1
+Newton,McClellan,Straight Party,,,WTP,We The People Party,0
+Newton,Washington,Straight Party,,,WTP,We The People Party,5
+Newton,Beaver 1,Straight Party,,,,Total Votes Cast,120
+Newton,Beaver 2,Straight Party,,,,Total Votes Cast,142
+Newton,Colfax,Straight Party,,,,Total Votes Cast,19
+Newton,Grant 1,Straight Party,,,,Total Votes Cast,103
+Newton,Grant 2,Straight Party,,,,Total Votes Cast,68
+Newton,Iroquois 1,Straight Party,,,,Total Votes Cast,79
+Newton,Iroquois 2,Straight Party,,,,Total Votes Cast,93
+Newton,Jackson,Straight Party,,,,Total Votes Cast,74
+Newton,Jefferson 1,Straight Party,,,,Total Votes Cast,94
+Newton,Jefferson 2,Straight Party,,,,Total Votes Cast,143
+Newton,Jefferson 3,Straight Party,,,,Total Votes Cast,69
+Newton,Lake 1,Straight Party,,,,Total Votes Cast,331
+Newton,Lake 2,Straight Party,,,,Total Votes Cast,247
+Newton,Lincoln 1,Straight Party,,,,Total Votes Cast,284
+Newton,Lincoln 2,Straight Party,,,,Total Votes Cast,256
+Newton,Lincoln 3,Straight Party,,,,Total Votes Cast,214
+Newton,Lincoln 4,Straight Party,,,,Total Votes Cast,273
+Newton,McClellan,Straight Party,,,,Total Votes Cast,46
+Newton,Washington,Straight Party,,,,Total Votes Cast,62
+Newton,Beaver 1,Straight Party,,,,Under Votes,192
+Newton,Beaver 2,Straight Party,,,,Under Votes,257
+Newton,Colfax,Straight Party,,,,Under Votes,52
+Newton,Grant 1,Straight Party,,,,Under Votes,176
+Newton,Grant 2,Straight Party,,,,Under Votes,86
+Newton,Iroquois 1,Straight Party,,,,Under Votes,135
+Newton,Iroquois 2,Straight Party,,,,Under Votes,216
+Newton,Jackson,Straight Party,,,,Under Votes,141
+Newton,Jefferson 1,Straight Party,,,,Under Votes,240
+Newton,Jefferson 2,Straight Party,,,,Under Votes,272
+Newton,Jefferson 3,Straight Party,,,,Under Votes,114
+Newton,Lake 1,Straight Party,,,,Under Votes,445
+Newton,Lake 2,Straight Party,,,,Under Votes,246
+Newton,Lincoln 1,Straight Party,,,,Under Votes,296
+Newton,Lincoln 2,Straight Party,,,,Under Votes,326
+Newton,Lincoln 3,Straight Party,,,,Under Votes,257
+Newton,Lincoln 4,Straight Party,,,,Under Votes,302
+Newton,McClellan,Straight Party,,,,Under Votes,58
+Newton,Washington,Straight Party,,,,Under Votes,115
+Newton,Beaver 1,Straight Party,,,,Over Votes,2
+Newton,Beaver 2,Straight Party,,,,Over Votes,1
+Newton,Colfax,Straight Party,,,,Over Votes,0
+Newton,Grant 1,Straight Party,,,,Over Votes,0
+Newton,Grant 2,Straight Party,,,,Over Votes,0
+Newton,Iroquois 1,Straight Party,,,,Over Votes,0
+Newton,Iroquois 2,Straight Party,,,,Over Votes,0
+Newton,Jackson,Straight Party,,,,Over Votes,0
+Newton,Jefferson 1,Straight Party,,,,Over Votes,0
+Newton,Jefferson 2,Straight Party,,,,Over Votes,0
+Newton,Jefferson 3,Straight Party,,,,Over Votes,0
+Newton,Lake 1,Straight Party,,,,Over Votes,1
+Newton,Lake 2,Straight Party,,,,Over Votes,1
+Newton,Lincoln 1,Straight Party,,,,Over Votes,1
+Newton,Lincoln 2,Straight Party,,,,Over Votes,0
+Newton,Lincoln 3,Straight Party,,,,Over Votes,1
+Newton,Lincoln 4,Straight Party,,,,Over Votes,0
+Newton,McClellan,Straight Party,,,,Over Votes,0
+Newton,Washington,Straight Party,,,,Over Votes,0
+Newton,Beaver 1,Public Question-Const Amendment,,,,Yes,112
+Newton,Beaver 2,Public Question-Const Amendment,,,,Yes,130
+Newton,Colfax,Public Question-Const Amendment,,,,Yes,26
+Newton,Grant 1,Public Question-Const Amendment,,,,Yes,102
+Newton,Grant 2,Public Question-Const Amendment,,,,Yes,55
+Newton,Iroquois 1,Public Question-Const Amendment,,,,Yes,86
+Newton,Iroquois 2,Public Question-Const Amendment,,,,Yes,106
+Newton,Jackson,Public Question-Const Amendment,,,,Yes,78
+Newton,Jefferson 1,Public Question-Const Amendment,,,,Yes,121
+Newton,Jefferson 2,Public Question-Const Amendment,,,,Yes,155
+Newton,Jefferson 3,Public Question-Const Amendment,,,,Yes,76
+Newton,Lake 1,Public Question-Const Amendment,,,,Yes,247
+Newton,Lake 2,Public Question-Const Amendment,,,,Yes,156
+Newton,Lincoln 1,Public Question-Const Amendment,,,,Yes,199
+Newton,Lincoln 2,Public Question-Const Amendment,,,,Yes,216
+Newton,Lincoln 3,Public Question-Const Amendment,,,,Yes,146
+Newton,Lincoln 4,Public Question-Const Amendment,,,,Yes,182
+Newton,McClellan,Public Question-Const Amendment,,,,Yes,43
+Newton,Washington,Public Question-Const Amendment,,,,Yes,53
+Newton,Beaver 1,Public Question-Const Amendment,,,,No,106
+Newton,Beaver 2,Public Question-Const Amendment,,,,No,138
+Newton,Colfax,Public Question-Const Amendment,,,,No,26
+Newton,Grant 1,Public Question-Const Amendment,,,,No,114
+Newton,Grant 2,Public Question-Const Amendment,,,,No,62
+Newton,Iroquois 1,Public Question-Const Amendment,,,,No,77
+Newton,Iroquois 2,Public Question-Const Amendment,,,,No,115
+Newton,Jackson,Public Question-Const Amendment,,,,No,60
+Newton,Jefferson 1,Public Question-Const Amendment,,,,No,131
+Newton,Jefferson 2,Public Question-Const Amendment,,,,No,160
+Newton,Jefferson 3,Public Question-Const Amendment,,,,No,56
+Newton,Lake 1,Public Question-Const Amendment,,,,No,271
+Newton,Lake 2,Public Question-Const Amendment,,,,No,159
+Newton,Lincoln 1,Public Question-Const Amendment,,,,No,205
+Newton,Lincoln 2,Public Question-Const Amendment,,,,No,211
+Newton,Lincoln 3,Public Question-Const Amendment,,,,No,182
+Newton,Lincoln 4,Public Question-Const Amendment,,,,No,223
+Newton,McClellan,Public Question-Const Amendment,,,,No,38
+Newton,Washington,Public Question-Const Amendment,,,,No,65
+Newton,Beaver 1,Public Question-Const Amendment,,,,Total Votes Cast,218
+Newton,Beaver 2,Public Question-Const Amendment,,,,Total Votes Cast,268
+Newton,Colfax,Public Question-Const Amendment,,,,Total Votes Cast,52
+Newton,Grant 1,Public Question-Const Amendment,,,,Total Votes Cast,216
+Newton,Grant 2,Public Question-Const Amendment,,,,Total Votes Cast,117
+Newton,Iroquois 1,Public Question-Const Amendment,,,,Total Votes Cast,163
+Newton,Iroquois 2,Public Question-Const Amendment,,,,Total Votes Cast,221
+Newton,Jackson,Public Question-Const Amendment,,,,Total Votes Cast,138
+Newton,Jefferson 1,Public Question-Const Amendment,,,,Total Votes Cast,252
+Newton,Jefferson 2,Public Question-Const Amendment,,,,Total Votes Cast,315
+Newton,Jefferson 3,Public Question-Const Amendment,,,,Total Votes Cast,132
+Newton,Lake 1,Public Question-Const Amendment,,,,Total Votes Cast,518
+Newton,Lake 2,Public Question-Const Amendment,,,,Total Votes Cast,315
+Newton,Lincoln 1,Public Question-Const Amendment,,,,Total Votes Cast,404
+Newton,Lincoln 2,Public Question-Const Amendment,,,,Total Votes Cast,427
+Newton,Lincoln 3,Public Question-Const Amendment,,,,Total Votes Cast,328
+Newton,Lincoln 4,Public Question-Const Amendment,,,,Total Votes Cast,405
+Newton,McClellan,Public Question-Const Amendment,,,,Total Votes Cast,81
+Newton,Washington,Public Question-Const Amendment,,,,Total Votes Cast,118
+Newton,Beaver 1,Public Question-Const Amendment,,,,Under Votes,95
+Newton,Beaver 2,Public Question-Const Amendment,,,,Under Votes,131
+Newton,Colfax,Public Question-Const Amendment,,,,Under Votes,19
+Newton,Grant 1,Public Question-Const Amendment,,,,Under Votes,63
+Newton,Grant 2,Public Question-Const Amendment,,,,Under Votes,36
+Newton,Iroquois 1,Public Question-Const Amendment,,,,Under Votes,51
+Newton,Iroquois 2,Public Question-Const Amendment,,,,Under Votes,87
+Newton,Jackson,Public Question-Const Amendment,,,,Under Votes,77
+Newton,Jefferson 1,Public Question-Const Amendment,,,,Under Votes,82
+Newton,Jefferson 2,Public Question-Const Amendment,,,,Under Votes,100
+Newton,Jefferson 3,Public Question-Const Amendment,,,,Under Votes,51
+Newton,Lake 1,Public Question-Const Amendment,,,,Under Votes,258
+Newton,Lake 2,Public Question-Const Amendment,,,,Under Votes,179
+Newton,Lincoln 1,Public Question-Const Amendment,,,,Under Votes,176
+Newton,Lincoln 2,Public Question-Const Amendment,,,,Under Votes,154
+Newton,Lincoln 3,Public Question-Const Amendment,,,,Under Votes,144
+Newton,Lincoln 4,Public Question-Const Amendment,,,,Under Votes,168
+Newton,McClellan,Public Question-Const Amendment,,,,Under Votes,23
+Newton,Washington,Public Question-Const Amendment,,,,Under Votes,59
+Newton,Beaver 1,Public Question-Const Amendment,,,,Over Votes,1
+Newton,Beaver 2,Public Question-Const Amendment,,,,Over Votes,1
+Newton,Colfax,Public Question-Const Amendment,,,,Over Votes,0
+Newton,Grant 1,Public Question-Const Amendment,,,,Over Votes,0
+Newton,Grant 2,Public Question-Const Amendment,,,,Over Votes,1
+Newton,Iroquois 1,Public Question-Const Amendment,,,,Over Votes,0
+Newton,Iroquois 2,Public Question-Const Amendment,,,,Over Votes,1
+Newton,Jackson,Public Question-Const Amendment,,,,Over Votes,0
+Newton,Jefferson 1,Public Question-Const Amendment,,,,Over Votes,0
+Newton,Jefferson 2,Public Question-Const Amendment,,,,Over Votes,0
+Newton,Jefferson 3,Public Question-Const Amendment,,,,Over Votes,0
+Newton,Lake 1,Public Question-Const Amendment,,,,Over Votes,1
+Newton,Lake 2,Public Question-Const Amendment,,,,Over Votes,0
+Newton,Lincoln 1,Public Question-Const Amendment,,,,Over Votes,1
+Newton,Lincoln 2,Public Question-Const Amendment,,,,Over Votes,1
+Newton,Lincoln 3,Public Question-Const Amendment,,,,Over Votes,0
+Newton,Lincoln 4,Public Question-Const Amendment,,,,Over Votes,2
+Newton,McClellan,Public Question-Const Amendment,,,,Over Votes,0
+Newton,Washington,Public Question-Const Amendment,,,,Over Votes,0
+Newton,Beaver 1,President,,1,REP,Donald J. TRUMP / JD VANCE,238
+Newton,Beaver 2,President,,1,REP,Donald J. TRUMP / JD VANCE,316
+Newton,Colfax,President,,1,REP,Donald J. TRUMP / JD VANCE,57
+Newton,Grant 1,President,,1,REP,Donald J. TRUMP / JD VANCE,219
+Newton,Grant 2,President,,1,REP,Donald J. TRUMP / JD VANCE,119
+Newton,Iroquois 1,President,,1,REP,Donald J. TRUMP / JD VANCE,167
+Newton,Iroquois 2,President,,1,REP,Donald J. TRUMP / JD VANCE,237
+Newton,Jackson,President,,1,REP,Donald J. TRUMP / JD VANCE,166
+Newton,Jefferson 1,President,,1,REP,Donald J. TRUMP / JD VANCE,261
+Newton,Jefferson 2,President,,1,REP,Donald J. TRUMP / JD VANCE,270
+Newton,Jefferson 3,President,,1,REP,Donald J. TRUMP / JD VANCE,133
+Newton,Lake 1,President,,1,REP,Donald J. TRUMP / JD VANCE,640
+Newton,Lake 2,President,,1,REP,Donald J. TRUMP / JD VANCE,384
+Newton,Lincoln 1,President,,1,REP,Donald J. TRUMP / JD VANCE,440
+Newton,Lincoln 2,President,,1,REP,Donald J. TRUMP / JD VANCE,465
+Newton,Lincoln 3,President,,1,REP,Donald J. TRUMP / JD VANCE,377
+Newton,Lincoln 4,President,,1,REP,Donald J. TRUMP / JD VANCE,416
+Newton,McClellan,President,,1,REP,Donald J. TRUMP / JD VANCE,84
+Newton,Washington,President,,1,REP,Donald J. TRUMP / JD VANCE,142
+Newton,Beaver 1,President,,1,DEM,Kamala D. HARRIS / Tim WALZ,67
+Newton,Beaver 2,President,,1,DEM,Kamala D. HARRIS / Tim WALZ,75
+Newton,Colfax,President,,1,DEM,Kamala D. HARRIS / Tim WALZ,11
+Newton,Grant 1,President,,1,DEM,Kamala D. HARRIS / Tim WALZ,50
+Newton,Grant 2,President,,1,DEM,Kamala D. HARRIS / Tim WALZ,33
+Newton,Iroquois 1,President,,1,DEM,Kamala D. HARRIS / Tim WALZ,43
+Newton,Iroquois 2,President,,1,DEM,Kamala D. HARRIS / Tim WALZ,59
+Newton,Jackson,President,,1,DEM,Kamala D. HARRIS / Tim WALZ,44
+Newton,Jefferson 1,President,,1,DEM,Kamala D. HARRIS / Tim WALZ,68
+Newton,Jefferson 2,President,,1,DEM,Kamala D. HARRIS / Tim WALZ,131
+Newton,Jefferson 3,President,,1,DEM,Kamala D. HARRIS / Tim WALZ,45
+Newton,Lake 1,President,,1,DEM,Kamala D. HARRIS / Tim WALZ,124
+Newton,Lake 2,President,,1,DEM,Kamala D. HARRIS / Tim WALZ,101
+Newton,Lincoln 1,President,,1,DEM,Kamala D. HARRIS / Tim WALZ,128
+Newton,Lincoln 2,President,,1,DEM,Kamala D. HARRIS / Tim WALZ,108
+Newton,Lincoln 3,President,,1,DEM,Kamala D. HARRIS / Tim WALZ,87
+Newton,Lincoln 4,President,,1,DEM,Kamala D. HARRIS / Tim WALZ,149
+Newton,McClellan,President,,1,DEM,Kamala D. HARRIS / Tim WALZ,18
+Newton,Washington,President,,1,DEM,Kamala D. HARRIS / Tim WALZ,29
+Newton,Beaver 1,President,,1,LBT,Chase OLIVER / Mike ter MAAT,2
+Newton,Beaver 2,President,,1,LBT,Chase OLIVER / Mike ter MAAT,1
+Newton,Colfax,President,,1,LBT,Chase OLIVER / Mike ter MAAT,1
+Newton,Grant 1,President,,1,LBT,Chase OLIVER / Mike ter MAAT,2
+Newton,Grant 2,President,,1,LBT,Chase OLIVER / Mike ter MAAT,1
+Newton,Iroquois 1,President,,1,LBT,Chase OLIVER / Mike ter MAAT,2
+Newton,Iroquois 2,President,,1,LBT,Chase OLIVER / Mike ter MAAT,0
+Newton,Jackson,President,,1,LBT,Chase OLIVER / Mike ter MAAT,2
+Newton,Jefferson 1,President,,1,LBT,Chase OLIVER / Mike ter MAAT,2
+Newton,Jefferson 2,President,,1,LBT,Chase OLIVER / Mike ter MAAT,4
+Newton,Jefferson 3,President,,1,LBT,Chase OLIVER / Mike ter MAAT,1
+Newton,Lake 1,President,,1,LBT,Chase OLIVER / Mike ter MAAT,2
+Newton,Lake 2,President,,1,LBT,Chase OLIVER / Mike ter MAAT,2
+Newton,Lincoln 1,President,,1,LBT,Chase OLIVER / Mike ter MAAT,5
+Newton,Lincoln 2,President,,1,LBT,Chase OLIVER / Mike ter MAAT,3
+Newton,Lincoln 3,President,,1,LBT,Chase OLIVER / Mike ter MAAT,1
+Newton,Lincoln 4,President,,1,LBT,Chase OLIVER / Mike ter MAAT,2
+Newton,McClellan,President,,1,LBT,Chase OLIVER / Mike ter MAAT,1
+Newton,Washington,President,,1,LBT,Chase OLIVER / Mike ter MAAT,0
+Newton,Beaver 1,President,,1,WTP,Robert F. KENNEDY JR. / Nicole SHANANAN,4
+Newton,Beaver 2,President,,1,WTP,Robert F. KENNEDY JR. / Nicole SHANANAN,3
+Newton,Colfax,President,,1,WTP,Robert F. KENNEDY JR. / Nicole SHANANAN,2
+Newton,Grant 1,President,,1,WTP,Robert F. KENNEDY JR. / Nicole SHANANAN,5
+Newton,Grant 2,President,,1,WTP,Robert F. KENNEDY JR. / Nicole SHANANAN,0
+Newton,Iroquois 1,President,,1,WTP,Robert F. KENNEDY JR. / Nicole SHANANAN,2
+Newton,Iroquois 2,President,,1,WTP,Robert F. KENNEDY JR. / Nicole SHANANAN,10
+Newton,Jackson,President,,1,WTP,Robert F. KENNEDY JR. / Nicole SHANANAN,2
+Newton,Jefferson 1,President,,1,WTP,Robert F. KENNEDY JR. / Nicole SHANANAN,1
+Newton,Jefferson 2,President,,1,WTP,Robert F. KENNEDY JR. / Nicole SHANANAN,7
+Newton,Jefferson 3,President,,1,WTP,Robert F. KENNEDY JR. / Nicole SHANANAN,1
+Newton,Lake 1,President,,1,WTP,Robert F. KENNEDY JR. / Nicole SHANANAN,5
+Newton,Lake 2,President,,1,WTP,Robert F. KENNEDY JR. / Nicole SHANANAN,4
+Newton,Lincoln 1,President,,1,WTP,Robert F. KENNEDY JR. / Nicole SHANANAN,5
+Newton,Lincoln 2,President,,1,WTP,Robert F. KENNEDY JR. / Nicole SHANANAN,4
+Newton,Lincoln 3,President,,1,WTP,Robert F. KENNEDY JR. / Nicole SHANANAN,4
+Newton,Lincoln 4,President,,1,WTP,Robert F. KENNEDY JR. / Nicole SHANANAN,3
+Newton,McClellan,President,,1,WTP,Robert F. KENNEDY JR. / Nicole SHANANAN,0
+Newton,Washington,President,,1,WTP,Robert F. KENNEDY JR. / Nicole SHANANAN,4
+Newton,Beaver 1,President,,1,,Write-In,0
+Newton,Beaver 2,President,,1,,Write-In,0
+Newton,Colfax,President,,1,,Write-In,0
+Newton,Grant 1,President,,1,,Write-In,0
+Newton,Grant 2,President,,1,,Write-In,0
+Newton,Iroquois 1,President,,1,,Write-In,0
+Newton,Iroquois 2,President,,1,,Write-In,0
+Newton,Jackson,President,,1,,Write-In,0
+Newton,Jefferson 1,President,,1,,Write-In,0
+Newton,Jefferson 2,President,,1,,Write-In,0
+Newton,Jefferson 3,President,,1,,Write-In,0
+Newton,Lake 1,President,,1,,Write-In,0
+Newton,Lake 2,President,,1,,Write-In,0
+Newton,Lincoln 1,President,,1,,Write-In,0
+Newton,Lincoln 2,President,,1,,Write-In,0
+Newton,Lincoln 3,President,,1,,Write-In,0
+Newton,Lincoln 4,President,,1,,Write-In,0
+Newton,McClellan,President,,1,,Write-In,0
+Newton,Washington,President,,1,,Write-In,0
+Newton,Beaver 1,President,,1,,Total Votes Cast,311
+Newton,Beaver 2,President,,1,,Total Votes Cast,395
+Newton,Colfax,President,,1,,Total Votes Cast,71
+Newton,Grant 1,President,,1,,Total Votes Cast,276
+Newton,Grant 2,President,,1,,Total Votes Cast,153
+Newton,Iroquois 1,President,,1,,Total Votes Cast,214
+Newton,Iroquois 2,President,,1,,Total Votes Cast,306
+Newton,Jackson,President,,1,,Total Votes Cast,214
+Newton,Jefferson 1,President,,1,,Total Votes Cast,332
+Newton,Jefferson 2,President,,1,,Total Votes Cast,412
+Newton,Jefferson 3,President,,1,,Total Votes Cast,180
+Newton,Lake 1,President,,1,,Total Votes Cast,771
+Newton,Lake 2,President,,1,,Total Votes Cast,491
+Newton,Lincoln 1,President,,1,,Total Votes Cast,578
+Newton,Lincoln 2,President,,1,,Total Votes Cast,580
+Newton,Lincoln 3,President,,1,,Total Votes Cast,469
+Newton,Lincoln 4,President,,1,,Total Votes Cast,570
+Newton,McClellan,President,,1,,Total Votes Cast,103
+Newton,Washington,President,,1,,Total Votes Cast,175
+Newton,Beaver 1,President,,1,,Under Votes,1
+Newton,Beaver 2,President,,1,,Under Votes,0
+Newton,Colfax,President,,1,,Under Votes,0
+Newton,Grant 1,President,,1,,Under Votes,3
+Newton,Grant 2,President,,1,,Under Votes,1
+Newton,Iroquois 1,President,,1,,Under Votes,0
+Newton,Iroquois 2,President,,1,,Under Votes,3
+Newton,Jackson,President,,1,,Under Votes,1
+Newton,Jefferson 1,President,,1,,Under Votes,2
+Newton,Jefferson 2,President,,1,,Under Votes,3
+Newton,Jefferson 3,President,,1,,Under Votes,3
+Newton,Lake 1,President,,1,,Under Votes,5
+Newton,Lake 2,President,,1,,Under Votes,2
+Newton,Lincoln 1,President,,1,,Under Votes,1
+Newton,Lincoln 2,President,,1,,Under Votes,2
+Newton,Lincoln 3,President,,1,,Under Votes,2
+Newton,Lincoln 4,President,,1,,Under Votes,5
+Newton,McClellan,President,,1,,Under Votes,0
+Newton,Washington,President,,1,,Under Votes,2
+Newton,Beaver 1,President,,1,,Over Votes,0
+Newton,Beaver 2,President,,1,,Over Votes,4
+Newton,Colfax,President,,1,,Over Votes,0
+Newton,Grant 1,President,,1,,Over Votes,0
+Newton,Grant 2,President,,1,,Over Votes,0
+Newton,Iroquois 1,President,,1,,Over Votes,0
+Newton,Iroquois 2,President,,1,,Over Votes,0
+Newton,Jackson,President,,1,,Over Votes,0
+Newton,Jefferson 1,President,,1,,Over Votes,0
+Newton,Jefferson 2,President,,1,,Over Votes,0
+Newton,Jefferson 3,President,,1,,Over Votes,0
+Newton,Lake 1,President,,1,,Over Votes,0
+Newton,Lake 2,President,,1,,Over Votes,0
+Newton,Lincoln 1,President,,1,,Over Votes,1
+Newton,Lincoln 2,President,,1,,Over Votes,0
+Newton,Lincoln 3,President,,1,,Over Votes,0
+Newton,Lincoln 4,President,,1,,Over Votes,0
+Newton,McClellan,President,,1,,Over Votes,1
+Newton,Washington,President,,1,,Over Votes,0
+Newton,Beaver 1,President,,1,,Invalid Votes,2
+Newton,Beaver 2,President,,1,,Invalid Votes,1
+Newton,Colfax,President,,1,,Invalid Votes,0
+Newton,Grant 1,President,,1,,Invalid Votes,0
+Newton,Grant 2,President,,1,,Invalid Votes,0
+Newton,Iroquois 1,President,,1,,Invalid Votes,0
+Newton,Iroquois 2,President,,1,,Invalid Votes,0
+Newton,Jackson,President,,1,,Invalid Votes,0
+Newton,Jefferson 1,President,,1,,Invalid Votes,0
+Newton,Jefferson 2,President,,1,,Invalid Votes,0
+Newton,Jefferson 3,President,,1,,Invalid Votes,0
+Newton,Lake 1,President,,1,,Invalid Votes,1
+Newton,Lake 2,President,,1,,Invalid Votes,1
+Newton,Lincoln 1,President,,1,,Invalid Votes,1
+Newton,Lincoln 2,President,,1,,Invalid Votes,0
+Newton,Lincoln 3,President,,1,,Invalid Votes,1
+Newton,Lincoln 4,President,,1,,Invalid Votes,0
+Newton,McClellan,President,,1,,Invalid Votes,0
+Newton,Washington,President,,1,,Invalid Votes,0
+Newton,Beaver 1,Governor,,1,REP,Mike BRAUN / Micah BECKWITH,222
+Newton,Beaver 2,Governor,,1,REP,Mike BRAUN / Micah BECKWITH,286
+Newton,Colfax,Governor,,1,REP,Mike BRAUN / Micah BECKWITH,57
+Newton,Grant 1,Governor,,1,REP,Mike BRAUN / Micah BECKWITH,189
+Newton,Grant 2,Governor,,1,REP,Mike BRAUN / Micah BECKWITH,111
+Newton,Iroquois 1,Governor,,1,REP,Mike BRAUN / Micah BECKWITH,143
+Newton,Iroquois 2,Governor,,1,REP,Mike BRAUN / Micah BECKWITH,216
+Newton,Jackson,Governor,,1,REP,Mike BRAUN / Micah BECKWITH,155
+Newton,Jefferson 1,Governor,,1,REP,Mike BRAUN / Micah BECKWITH,231
+Newton,Jefferson 2,Governor,,1,REP,Mike BRAUN / Micah BECKWITH,248
+Newton,Jefferson 3,Governor,,1,REP,Mike BRAUN / Micah BECKWITH,120
+Newton,Lake 1,Governor,,1,REP,Mike BRAUN / Micah BECKWITH,578
+Newton,Lake 2,Governor,,1,REP,Mike BRAUN / Micah BECKWITH,349
+Newton,Lincoln 1,Governor,,1,REP,Mike BRAUN / Micah BECKWITH,410
+Newton,Lincoln 2,Governor,,1,REP,Mike BRAUN / Micah BECKWITH,417
+Newton,Lincoln 3,Governor,,1,REP,Mike BRAUN / Micah BECKWITH,323
+Newton,Lincoln 4,Governor,,1,REP,Mike BRAUN / Micah BECKWITH,364
+Newton,McClellan,Governor,,1,REP,Mike BRAUN / Micah BECKWITH,70
+Newton,Washington,Governor,,1,REP,Mike BRAUN / Micah BECKWITH,136
+Newton,Beaver 1,Governor,,1,DEM,Jennifer G. McCORMICK /Terry GOODIN,71
+Newton,Beaver 2,Governor,,1,DEM,Jennifer G. McCORMICK /Terry GOODIN,99
+Newton,Colfax,Governor,,1,DEM,Jennifer G. McCORMICK /Terry GOODIN,11
+Newton,Grant 1,Governor,,1,DEM,Jennifer G. McCORMICK /Terry GOODIN,65
+Newton,Grant 2,Governor,,1,DEM,Jennifer G. McCORMICK /Terry GOODIN,32
+Newton,Iroquois 1,Governor,,1,DEM,Jennifer G. McCORMICK /Terry GOODIN,53
+Newton,Iroquois 2,Governor,,1,DEM,Jennifer G. McCORMICK /Terry GOODIN,76
+Newton,Jackson,Governor,,1,DEM,Jennifer G. McCORMICK /Terry GOODIN,48
+Newton,Jefferson 1,Governor,,1,DEM,Jennifer G. McCORMICK /Terry GOODIN,83
+Newton,Jefferson 2,Governor,,1,DEM,Jennifer G. McCORMICK /Terry GOODIN,144
+Newton,Jefferson 3,Governor,,1,DEM,Jennifer G. McCORMICK /Terry GOODIN,46
+Newton,Lake 1,Governor,,1,DEM,Jennifer G. McCORMICK /Terry GOODIN,133
+Newton,Lake 2,Governor,,1,DEM,Jennifer G. McCORMICK /Terry GOODIN,121
+Newton,Lincoln 1,Governor,,1,DEM,Jennifer G. McCORMICK /Terry GOODIN,140
+Newton,Lincoln 2,Governor,,1,DEM,Jennifer G. McCORMICK /Terry GOODIN,136
+Newton,Lincoln 3,Governor,,1,DEM,Jennifer G. McCORMICK /Terry GOODIN,114
+Newton,Lincoln 4,Governor,,1,DEM,Jennifer G. McCORMICK /Terry GOODIN,180
+Newton,McClellan,Governor,,1,DEM,Jennifer G. McCORMICK /Terry GOODIN,24
+Newton,Washington,Governor,,1,DEM,Jennifer G. McCORMICK /Terry GOODIN,31
+Newton,Beaver 1,Governor,,1,LBT,Donald RAINWATER / Tonya HUDSON,13
+Newton,Beaver 2,Governor,,1,LBT,Donald RAINWATER / Tonya HUDSON,7
+Newton,Colfax,Governor,,1,LBT,Donald RAINWATER / Tonya HUDSON,3
+Newton,Grant 1,Governor,,1,LBT,Donald RAINWATER / Tonya HUDSON,19
+Newton,Grant 2,Governor,,1,LBT,Donald RAINWATER / Tonya HUDSON,8
+Newton,Iroquois 1,Governor,,1,LBT,Donald RAINWATER / Tonya HUDSON,13
+Newton,Iroquois 2,Governor,,1,LBT,Donald RAINWATER / Tonya HUDSON,10
+Newton,Jackson,Governor,,1,LBT,Donald RAINWATER / Tonya HUDSON,8
+Newton,Jefferson 1,Governor,,1,LBT,Donald RAINWATER / Tonya HUDSON,17
+Newton,Jefferson 2,Governor,,1,LBT,Donald RAINWATER / Tonya HUDSON,18
+Newton,Jefferson 3,Governor,,1,LBT,Donald RAINWATER / Tonya HUDSON,15
+Newton,Lake 1,Governor,,1,LBT,Donald RAINWATER / Tonya HUDSON,50
+Newton,Lake 2,Governor,,1,LBT,Donald RAINWATER / Tonya HUDSON,19
+Newton,Lincoln 1,Governor,,1,LBT,Donald RAINWATER / Tonya HUDSON,21
+Newton,Lincoln 2,Governor,,1,LBT,Donald RAINWATER / Tonya HUDSON,23
+Newton,Lincoln 3,Governor,,1,LBT,Donald RAINWATER / Tonya HUDSON,27
+Newton,Lincoln 4,Governor,,1,LBT,Donald RAINWATER / Tonya HUDSON,21
+Newton,McClellan,Governor,,1,LBT,Donald RAINWATER / Tonya HUDSON,7
+Newton,Washington,Governor,,1,LBT,Donald RAINWATER / Tonya HUDSON,9
+Newton,Beaver 1,Governor,,1,,Write-In,0
+Newton,Beaver 2,Governor,,1,,Write-In,0
+Newton,Colfax,Governor,,1,,Write-In,0
+Newton,Grant 1,Governor,,1,,Write-In,0
+Newton,Grant 2,Governor,,1,,Write-In,0
+Newton,Iroquois 1,Governor,,1,,Write-In,0
+Newton,Iroquois 2,Governor,,1,,Write-In,0
+Newton,Jackson,Governor,,1,,Write-In,0
+Newton,Jefferson 1,Governor,,1,,Write-In,0
+Newton,Jefferson 2,Governor,,1,,Write-In,0
+Newton,Jefferson 3,Governor,,1,,Write-In,0
+Newton,Lake 1,Governor,,1,,Write-In,0
+Newton,Lake 2,Governor,,1,,Write-In,0
+Newton,Lincoln 1,Governor,,1,,Write-In,0
+Newton,Lincoln 2,Governor,,1,,Write-In,0
+Newton,Lincoln 3,Governor,,1,,Write-In,0
+Newton,Lincoln 4,Governor,,1,,Write-In,0
+Newton,McClellan,Governor,,1,,Write-In,0
+Newton,Washington,Governor,,1,,Write-In,0
+Newton,Beaver 1,Governor,,1,,Total Votes Cast,306
+Newton,Beaver 2,Governor,,1,,Total Votes Cast,392
+Newton,Colfax,Governor,,1,,Total Votes Cast,71
+Newton,Grant 1,Governor,,1,,Total Votes Cast,273
+Newton,Grant 2,Governor,,1,,Total Votes Cast,151
+Newton,Iroquois 1,Governor,,1,,Total Votes Cast,209
+Newton,Iroquois 2,Governor,,1,,Total Votes Cast,302
+Newton,Jackson,Governor,,1,,Total Votes Cast,211
+Newton,Jefferson 1,Governor,,1,,Total Votes Cast,331
+Newton,Jefferson 2,Governor,,1,,Total Votes Cast,410
+Newton,Jefferson 3,Governor,,1,,Total Votes Cast,181
+Newton,Lake 1,Governor,,1,,Total Votes Cast,761
+Newton,Lake 2,Governor,,1,,Total Votes Cast,489
+Newton,Lincoln 1,Governor,,1,,Total Votes Cast,571
+Newton,Lincoln 2,Governor,,1,,Total Votes Cast,576
+Newton,Lincoln 3,Governor,,1,,Total Votes Cast,464
+Newton,Lincoln 4,Governor,,1,,Total Votes Cast,565
+Newton,McClellan,Governor,,1,,Total Votes Cast,101
+Newton,Washington,Governor,,1,,Total Votes Cast,176
+Newton,Beaver 1,Governor,,1,,Under Votes,6
+Newton,Beaver 2,Governor,,1,,Under Votes,7
+Newton,Colfax,Governor,,1,,Under Votes,0
+Newton,Grant 1,Governor,,1,,Under Votes,6
+Newton,Grant 2,Governor,,1,,Under Votes,3
+Newton,Iroquois 1,Governor,,1,,Under Votes,5
+Newton,Iroquois 2,Governor,,1,,Under Votes,7
+Newton,Jackson,Governor,,1,,Under Votes,4
+Newton,Jefferson 1,Governor,,1,,Under Votes,3
+Newton,Jefferson 2,Governor,,1,,Under Votes,5
+Newton,Jefferson 3,Governor,,1,,Under Votes,1
+Newton,Lake 1,Governor,,1,,Under Votes,15
+Newton,Lake 2,Governor,,1,,Under Votes,4
+Newton,Lincoln 1,Governor,,1,,Under Votes,8
+Newton,Lincoln 2,Governor,,1,,Under Votes,5
+Newton,Lincoln 3,Governor,,1,,Under Votes,7
+Newton,Lincoln 4,Governor,,1,,Under Votes,9
+Newton,McClellan,Governor,,1,,Under Votes,3
+Newton,Washington,Governor,,1,,Under Votes,1
+Newton,Beaver 1,Governor,,1,,Over Votes,0
+Newton,Beaver 2,Governor,,1,,Over Votes,0
+Newton,Colfax,Governor,,1,,Over Votes,0
+Newton,Grant 1,Governor,,1,,Over Votes,0
+Newton,Grant 2,Governor,,1,,Over Votes,0
+Newton,Iroquois 1,Governor,,1,,Over Votes,0
+Newton,Iroquois 2,Governor,,1,,Over Votes,0
+Newton,Jackson,Governor,,1,,Over Votes,0
+Newton,Jefferson 1,Governor,,1,,Over Votes,0
+Newton,Jefferson 2,Governor,,1,,Over Votes,0
+Newton,Jefferson 3,Governor,,1,,Over Votes,1
+Newton,Lake 1,Governor,,1,,Over Votes,0
+Newton,Lake 2,Governor,,1,,Over Votes,0
+Newton,Lincoln 1,Governor,,1,,Over Votes,1
+Newton,Lincoln 2,Governor,,1,,Over Votes,1
+Newton,Lincoln 3,Governor,,1,,Over Votes,0
+Newton,Lincoln 4,Governor,,1,,Over Votes,1
+Newton,McClellan,Governor,,1,,Over Votes,0
+Newton,Washington,Governor,,1,,Over Votes,0
+Newton,Beaver 1,Governor,,1,,Invalid Votes,2
+Newton,Beaver 2,Governor,,1,,Invalid Votes,1
+Newton,Colfax,Governor,,1,,Invalid Votes,0
+Newton,Grant 1,Governor,,1,,Invalid Votes,0
+Newton,Grant 2,Governor,,1,,Invalid Votes,0
+Newton,Iroquois 1,Governor,,1,,Invalid Votes,0
+Newton,Iroquois 2,Governor,,1,,Invalid Votes,0
+Newton,Jackson,Governor,,1,,Invalid Votes,0
+Newton,Jefferson 1,Governor,,1,,Invalid Votes,0
+Newton,Jefferson 2,Governor,,1,,Invalid Votes,0
+Newton,Jefferson 3,Governor,,1,,Invalid Votes,0
+Newton,Lake 1,Governor,,1,,Invalid Votes,1
+Newton,Lake 2,Governor,,1,,Invalid Votes,1
+Newton,Lincoln 1,Governor,,1,,Invalid Votes,1
+Newton,Lincoln 2,Governor,,1,,Invalid Votes,0
+Newton,Lincoln 3,Governor,,1,,Invalid Votes,1
+Newton,Lincoln 4,Governor,,1,,Invalid Votes,0
+Newton,McClellan,Governor,,1,,Invalid Votes,0
+Newton,Washington,Governor,,1,,Invalid Votes,0
+Newton,Beaver 1,Attorney General,,1,REP,Todd ROKITA,234
+Newton,Beaver 2,Attorney General,,1,REP,Todd ROKITA,312
+Newton,Colfax,Attorney General,,1,REP,Todd ROKITA,61
+Newton,Grant 1,Attorney General,,1,REP,Todd ROKITA,222
+Newton,Grant 2,Attorney General,,1,REP,Todd ROKITA,119
+Newton,Iroquois 1,Attorney General,,1,REP,Todd ROKITA,160
+Newton,Iroquois 2,Attorney General,,1,REP,Todd ROKITA,238
+Newton,Jackson,Attorney General,,1,REP,Todd ROKITA,165
+Newton,Jefferson 1,Attorney General,,1,REP,Todd ROKITA,259
+Newton,Jefferson 2,Attorney General,,1,REP,Todd ROKITA,277
+Newton,Jefferson 3,Attorney General,,1,REP,Todd ROKITA,134
+Newton,Lake 1,Attorney General,,1,REP,Todd ROKITA,618
+Newton,Lake 2,Attorney General,,1,REP,Todd ROKITA,382
+Newton,Lincoln 1,Attorney General,,1,REP,Todd ROKITA,438
+Newton,Lincoln 2,Attorney General,,1,REP,Todd ROKITA,453
+Newton,Lincoln 3,Attorney General,,1,REP,Todd ROKITA,365
+Newton,Lincoln 4,Attorney General,,1,REP,Todd ROKITA,399
+Newton,McClellan,Attorney General,,1,REP,Todd ROKITA,77
+Newton,Washington,Attorney General,,1,REP,Todd ROKITA,146
+Newton,Beaver 1,Attorney General,,1,DEM,Destiny WELLS,63
+Newton,Beaver 2,Attorney General,,1,DEM,Destiny WELLS,76
+Newton,Colfax,Attorney General,,1,DEM,Destiny WELLS,10
+Newton,Grant 1,Attorney General,,1,DEM,Destiny WELLS,48
+Newton,Grant 2,Attorney General,,1,DEM,Destiny WELLS,33
+Newton,Iroquois 1,Attorney General,,1,DEM,Destiny WELLS,46
+Newton,Iroquois 2,Attorney General,,1,DEM,Destiny WELLS,57
+Newton,Jackson,Attorney General,,1,DEM,Destiny WELLS,44
+Newton,Jefferson 1,Attorney General,,1,DEM,Destiny WELLS,66
+Newton,Jefferson 2,Attorney General,,1,DEM,Destiny WELLS,121
+Newton,Jefferson 3,Attorney General,,1,DEM,Destiny WELLS,47
+Newton,Lake 1,Attorney General,,1,DEM,Destiny WELLS,134
+Newton,Lake 2,Attorney General,,1,DEM,Destiny WELLS,103
+Newton,Lincoln 1,Attorney General,,1,DEM,Destiny WELLS,127
+Newton,Lincoln 2,Attorney General,,1,DEM,Destiny WELLS,120
+Newton,Lincoln 3,Attorney General,,1,DEM,Destiny WELLS,94
+Newton,Lincoln 4,Attorney General,,1,DEM,Destiny WELLS,160
+Newton,McClellan,Attorney General,,1,DEM,Destiny WELLS,21
+Newton,Washington,Attorney General,,1,DEM,Destiny WELLS,26
+Newton,Beaver 1,Attorney General,,1,,Total Votes Cast,297
+Newton,Beaver 2,Attorney General,,1,,Total Votes Cast,388
+Newton,Colfax,Attorney General,,1,,Total Votes Cast,71
+Newton,Grant 1,Attorney General,,1,,Total Votes Cast,270
+Newton,Grant 2,Attorney General,,1,,Total Votes Cast,152
+Newton,Iroquois 1,Attorney General,,1,,Total Votes Cast,206
+Newton,Iroquois 2,Attorney General,,1,,Total Votes Cast,295
+Newton,Jackson,Attorney General,,1,,Total Votes Cast,209
+Newton,Jefferson 1,Attorney General,,1,,Total Votes Cast,325
+Newton,Jefferson 2,Attorney General,,1,,Total Votes Cast,398
+Newton,Jefferson 3,Attorney General,,1,,Total Votes Cast,181
+Newton,Lake 1,Attorney General,,1,,Total Votes Cast,752
+Newton,Lake 2,Attorney General,,1,,Total Votes Cast,485
+Newton,Lincoln 1,Attorney General,,1,,Total Votes Cast,565
+Newton,Lincoln 2,Attorney General,,1,,Total Votes Cast,573
+Newton,Lincoln 3,Attorney General,,1,,Total Votes Cast,459
+Newton,Lincoln 4,Attorney General,,1,,Total Votes Cast,559
+Newton,McClellan,Attorney General,,1,,Total Votes Cast,98
+Newton,Washington,Attorney General,,1,,Total Votes Cast,172
+Newton,Beaver 1,Attorney General,,1,,Under Votes,14
+Newton,Beaver 2,Attorney General,,1,,Under Votes,11
+Newton,Colfax,Attorney General,,1,,Under Votes,0
+Newton,Grant 1,Attorney General,,1,,Under Votes,9
+Newton,Grant 2,Attorney General,,1,,Under Votes,2
+Newton,Iroquois 1,Attorney General,,1,,Under Votes,8
+Newton,Iroquois 2,Attorney General,,1,,Under Votes,14
+Newton,Jackson,Attorney General,,1,,Under Votes,6
+Newton,Jefferson 1,Attorney General,,1,,Under Votes,9
+Newton,Jefferson 2,Attorney General,,1,,Under Votes,17
+Newton,Jefferson 3,Attorney General,,1,,Under Votes,2
+Newton,Lake 1,Attorney General,,1,,Under Votes,24
+Newton,Lake 2,Attorney General,,1,,Under Votes,8
+Newton,Lincoln 1,Attorney General,,1,,Under Votes,15
+Newton,Lincoln 2,Attorney General,,1,,Under Votes,9
+Newton,Lincoln 3,Attorney General,,1,,Under Votes,11
+Newton,Lincoln 4,Attorney General,,1,,Under Votes,16
+Newton,McClellan,Attorney General,,1,,Under Votes,5
+Newton,Washington,Attorney General,,1,,Under Votes,5
+Newton,Beaver 1,Attorney General,,1,,Over Votes,1
+Newton,Beaver 2,Attorney General,,1,,Over Votes,0
+Newton,Colfax,Attorney General,,1,,Over Votes,0
+Newton,Grant 1,Attorney General,,1,,Over Votes,0
+Newton,Grant 2,Attorney General,,1,,Over Votes,0
+Newton,Iroquois 1,Attorney General,,1,,Over Votes,0
+Newton,Iroquois 2,Attorney General,,1,,Over Votes,0
+Newton,Jackson,Attorney General,,1,,Over Votes,0
+Newton,Jefferson 1,Attorney General,,1,,Over Votes,0
+Newton,Jefferson 2,Attorney General,,1,,Over Votes,0
+Newton,Jefferson 3,Attorney General,,1,,Over Votes,0
+Newton,Lake 1,Attorney General,,1,,Over Votes,0
+Newton,Lake 2,Attorney General,,1,,Over Votes,0
+Newton,Lincoln 1,Attorney General,,1,,Over Votes,0
+Newton,Lincoln 2,Attorney General,,1,,Over Votes,0
+Newton,Lincoln 3,Attorney General,,1,,Over Votes,1
+Newton,Lincoln 4,Attorney General,,1,,Over Votes,0
+Newton,McClellan,Attorney General,,1,,Over Votes,1
+Newton,Washington,Attorney General,,1,,Over Votes,0
+Newton,Beaver 1,Attorney General,,1,,Invalid Votes,2
+Newton,Beaver 2,Attorney General,,1,,Invalid Votes,1
+Newton,Colfax,Attorney General,,1,,Invalid Votes,0
+Newton,Grant 1,Attorney General,,1,,Invalid Votes,0
+Newton,Grant 2,Attorney General,,1,,Invalid Votes,0
+Newton,Iroquois 1,Attorney General,,1,,Invalid Votes,0
+Newton,Iroquois 2,Attorney General,,1,,Invalid Votes,0
+Newton,Jackson,Attorney General,,1,,Invalid Votes,0
+Newton,Jefferson 1,Attorney General,,1,,Invalid Votes,0
+Newton,Jefferson 2,Attorney General,,1,,Invalid Votes,0
+Newton,Jefferson 3,Attorney General,,1,,Invalid Votes,0
+Newton,Lake 1,Attorney General,,1,,Invalid Votes,1
+Newton,Lake 2,Attorney General,,1,,Invalid Votes,1
+Newton,Lincoln 1,Attorney General,,1,,Invalid Votes,1
+Newton,Lincoln 2,Attorney General,,1,,Invalid Votes,0
+Newton,Lincoln 3,Attorney General,,1,,Invalid Votes,1
+Newton,Lincoln 4,Attorney General,,1,,Invalid Votes,0
+Newton,McClellan,Attorney General,,1,,Invalid Votes,0
+Newton,Washington,Attorney General,,1,,Invalid Votes,0
+Newton,Beaver 1,U.S. Senate,,1,REP,Jim BANKS,226
+Newton,Beaver 2,U.S. Senate,,1,REP,Jim BANKS,307
+Newton,Colfax,U.S. Senate,,1,REP,Jim BANKS,57
+Newton,Grant 1,U.S. Senate,,1,REP,Jim BANKS,208
+Newton,Grant 2,U.S. Senate,,1,REP,Jim BANKS,118
+Newton,Iroquois 1,U.S. Senate,,1,REP,Jim BANKS,152
+Newton,Iroquois 2,U.S. Senate,,1,REP,Jim BANKS,235
+Newton,Jackson,U.S. Senate,,1,REP,Jim BANKS,159
+Newton,Jefferson 1,U.S. Senate,,1,REP,Jim BANKS,254
+Newton,Jefferson 2,U.S. Senate,,1,REP,Jim BANKS,264
+Newton,Jefferson 3,U.S. Senate,,1,REP,Jim BANKS,124
+Newton,Lake 1,U.S. Senate,,1,REP,Jim BANKS,582
+Newton,Lake 2,U.S. Senate,,1,REP,Jim BANKS,366
+Newton,Lincoln 1,U.S. Senate,,1,REP,Jim BANKS,412
+Newton,Lincoln 2,U.S. Senate,,1,REP,Jim BANKS,442
+Newton,Lincoln 3,U.S. Senate,,1,REP,Jim BANKS,351
+Newton,Lincoln 4,U.S. Senate,,1,REP,Jim BANKS,387
+Newton,McClellan,U.S. Senate,,1,REP,Jim BANKS,75
+Newton,Washington,U.S. Senate,,1,REP,Jim BANKS,141
+Newton,Beaver 1,U.S. Senate,,1,DEM,Valerie McCRAY,61
+Newton,Beaver 2,U.S. Senate,,1,DEM,Valerie McCRAY,70
+Newton,Colfax,U.S. Senate,,1,DEM,Valerie McCRAY,9
+Newton,Grant 1,U.S. Senate,,1,DEM,Valerie McCRAY,46
+Newton,Grant 2,U.S. Senate,,1,DEM,Valerie McCRAY,30
+Newton,Iroquois 1,U.S. Senate,,1,DEM,Valerie McCRAY,39
+Newton,Iroquois 2,U.S. Senate,,1,DEM,Valerie McCRAY,54
+Newton,Jackson,U.S. Senate,,1,DEM,Valerie McCRAY,38
+Newton,Jefferson 1,U.S. Senate,,1,DEM,Valerie McCRAY,61
+Newton,Jefferson 2,U.S. Senate,,1,DEM,Valerie McCRAY,117
+Newton,Jefferson 3,U.S. Senate,,1,DEM,Valerie McCRAY,47
+Newton,Lake 1,U.S. Senate,,1,DEM,Valerie McCRAY,133
+Newton,Lake 2,U.S. Senate,,1,DEM,Valerie McCRAY,107
+Newton,Lincoln 1,U.S. Senate,,1,DEM,Valerie McCRAY,129
+Newton,Lincoln 2,U.S. Senate,,1,DEM,Valerie McCRAY,117
+Newton,Lincoln 3,U.S. Senate,,1,DEM,Valerie McCRAY,93
+Newton,Lincoln 4,U.S. Senate,,1,DEM,Valerie McCRAY,158
+Newton,McClellan,U.S. Senate,,1,DEM,Valerie McCRAY,18
+Newton,Washington,U.S. Senate,,1,DEM,Valerie McCRAY,25
+Newton,Beaver 1,U.S. Senate,,1,LBT,Andrew HORNING,8
+Newton,Beaver 2,U.S. Senate,,1,LBT,Andrew HORNING,8
+Newton,Colfax,U.S. Senate,,1,LBT,Andrew HORNING,4
+Newton,Grant 1,U.S. Senate,,1,LBT,Andrew HORNING,14
+Newton,Grant 2,U.S. Senate,,1,LBT,Andrew HORNING,3
+Newton,Iroquois 1,U.S. Senate,,1,LBT,Andrew HORNING,12
+Newton,Iroquois 2,U.S. Senate,,1,LBT,Andrew HORNING,7
+Newton,Jackson,U.S. Senate,,1,LBT,Andrew HORNING,12
+Newton,Jefferson 1,U.S. Senate,,1,LBT,Andrew HORNING,8
+Newton,Jefferson 2,U.S. Senate,,1,LBT,Andrew HORNING,16
+Newton,Jefferson 3,U.S. Senate,,1,LBT,Andrew HORNING,10
+Newton,Lake 1,U.S. Senate,,1,LBT,Andrew HORNING,33
+Newton,Lake 2,U.S. Senate,,1,LBT,Andrew HORNING,12
+Newton,Lincoln 1,U.S. Senate,,1,LBT,Andrew HORNING,27
+Newton,Lincoln 2,U.S. Senate,,1,LBT,Andrew HORNING,10
+Newton,Lincoln 3,U.S. Senate,,1,LBT,Andrew HORNING,12
+Newton,Lincoln 4,U.S. Senate,,1,LBT,Andrew HORNING,12
+Newton,McClellan,U.S. Senate,,1,LBT,Andrew HORNING,6
+Newton,Washington,U.S. Senate,,1,LBT,Andrew HORNING,7
+Newton,Beaver 1,U.S. Senate,,1,,Write-In,0
+Newton,Beaver 2,U.S. Senate,,1,,Write-In,0
+Newton,Colfax,U.S. Senate,,1,,Write-In,0
+Newton,Grant 1,U.S. Senate,,1,,Write-In,0
+Newton,Grant 2,U.S. Senate,,1,,Write-In,0
+Newton,Iroquois 1,U.S. Senate,,1,,Write-In,0
+Newton,Iroquois 2,U.S. Senate,,1,,Write-In,0
+Newton,Jackson,U.S. Senate,,1,,Write-In,0
+Newton,Jefferson 1,U.S. Senate,,1,,Write-In,0
+Newton,Jefferson 2,U.S. Senate,,1,,Write-In,0
+Newton,Jefferson 3,U.S. Senate,,1,,Write-In,0
+Newton,Lake 1,U.S. Senate,,1,,Write-In,0
+Newton,Lake 2,U.S. Senate,,1,,Write-In,0
+Newton,Lincoln 1,U.S. Senate,,1,,Write-In,0
+Newton,Lincoln 2,U.S. Senate,,1,,Write-In,0
+Newton,Lincoln 3,U.S. Senate,,1,,Write-In,0
+Newton,Lincoln 4,U.S. Senate,,1,,Write-In,0
+Newton,McClellan,U.S. Senate,,1,,Write-In,0
+Newton,Washington,U.S. Senate,,1,,Write-In,0
+Newton,Beaver 1,U.S. Senate,,1,,Total Votes Cast,295
+Newton,Beaver 2,U.S. Senate,,1,,Total Votes Cast,385
+Newton,Colfax,U.S. Senate,,1,,Total Votes Cast,70
+Newton,Grant 1,U.S. Senate,,1,,Total Votes Cast,268
+Newton,Grant 2,U.S. Senate,,1,,Total Votes Cast,151
+Newton,Iroquois 1,U.S. Senate,,1,,Total Votes Cast,203
+Newton,Iroquois 2,U.S. Senate,,1,,Total Votes Cast,296
+Newton,Jackson,U.S. Senate,,1,,Total Votes Cast,209
+Newton,Jefferson 1,U.S. Senate,,1,,Total Votes Cast,323
+Newton,Jefferson 2,U.S. Senate,,1,,Total Votes Cast,397
+Newton,Jefferson 3,U.S. Senate,,1,,Total Votes Cast,181
+Newton,Lake 1,U.S. Senate,,1,,Total Votes Cast,748
+Newton,Lake 2,U.S. Senate,,1,,Total Votes Cast,485
+Newton,Lincoln 1,U.S. Senate,,1,,Total Votes Cast,568
+Newton,Lincoln 2,U.S. Senate,,1,,Total Votes Cast,569
+Newton,Lincoln 3,U.S. Senate,,1,,Total Votes Cast,456
+Newton,Lincoln 4,U.S. Senate,,1,,Total Votes Cast,557
+Newton,McClellan,U.S. Senate,,1,,Total Votes Cast,99
+Newton,Washington,U.S. Senate,,1,,Total Votes Cast,173
+Newton,Beaver 1,U.S. Senate,,1,,Under Votes,17
+Newton,Beaver 2,U.S. Senate,,1,,Under Votes,14
+Newton,Colfax,U.S. Senate,,1,,Under Votes,1
+Newton,Grant 1,U.S. Senate,,1,,Under Votes,11
+Newton,Grant 2,U.S. Senate,,1,,Under Votes,3
+Newton,Iroquois 1,U.S. Senate,,1,,Under Votes,11
+Newton,Iroquois 2,U.S. Senate,,1,,Under Votes,13
+Newton,Jackson,U.S. Senate,,1,,Under Votes,6
+Newton,Jefferson 1,U.S. Senate,,1,,Under Votes,11
+Newton,Jefferson 2,U.S. Senate,,1,,Under Votes,18
+Newton,Jefferson 3,U.S. Senate,,1,,Under Votes,2
+Newton,Lake 1,U.S. Senate,,1,,Under Votes,28
+Newton,Lake 2,U.S. Senate,,1,,Under Votes,8
+Newton,Lincoln 1,U.S. Senate,,1,,Under Votes,12
+Newton,Lincoln 2,U.S. Senate,,1,,Under Votes,13
+Newton,Lincoln 3,U.S. Senate,,1,,Under Votes,15
+Newton,Lincoln 4,U.S. Senate,,1,,Under Votes,17
+Newton,McClellan,U.S. Senate,,1,,Under Votes,5
+Newton,Washington,U.S. Senate,,1,,Under Votes,4
+Newton,Beaver 1,U.S. Senate,,1,,Over Votes,0
+Newton,Beaver 2,U.S. Senate,,1,,Over Votes,0
+Newton,Colfax,U.S. Senate,,1,,Over Votes,0
+Newton,Grant 1,U.S. Senate,,1,,Over Votes,0
+Newton,Grant 2,U.S. Senate,,1,,Over Votes,0
+Newton,Iroquois 1,U.S. Senate,,1,,Over Votes,0
+Newton,Iroquois 2,U.S. Senate,,1,,Over Votes,0
+Newton,Jackson,U.S. Senate,,1,,Over Votes,0
+Newton,Jefferson 1,U.S. Senate,,1,,Over Votes,0
+Newton,Jefferson 2,U.S. Senate,,1,,Over Votes,0
+Newton,Jefferson 3,U.S. Senate,,1,,Over Votes,0
+Newton,Lake 1,U.S. Senate,,1,,Over Votes,0
+Newton,Lake 2,U.S. Senate,,1,,Over Votes,0
+Newton,Lincoln 1,U.S. Senate,,1,,Over Votes,0
+Newton,Lincoln 2,U.S. Senate,,1,,Over Votes,0
+Newton,Lincoln 3,U.S. Senate,,1,,Over Votes,0
+Newton,Lincoln 4,U.S. Senate,,1,,Over Votes,1
+Newton,McClellan,U.S. Senate,,1,,Over Votes,0
+Newton,Washington,U.S. Senate,,1,,Over Votes,0
+Newton,Beaver 1,U.S. Senate,,1,,Invalid Votes,2
+Newton,Beaver 2,U.S. Senate,,1,,Invalid Votes,1
+Newton,Colfax,U.S. Senate,,1,,Invalid Votes,0
+Newton,Grant 1,U.S. Senate,,1,,Invalid Votes,0
+Newton,Grant 2,U.S. Senate,,1,,Invalid Votes,0
+Newton,Iroquois 1,U.S. Senate,,1,,Invalid Votes,0
+Newton,Iroquois 2,U.S. Senate,,1,,Invalid Votes,0
+Newton,Jackson,U.S. Senate,,1,,Invalid Votes,0
+Newton,Jefferson 1,U.S. Senate,,1,,Invalid Votes,0
+Newton,Jefferson 2,U.S. Senate,,1,,Invalid Votes,0
+Newton,Jefferson 3,U.S. Senate,,1,,Invalid Votes,0
+Newton,Lake 1,U.S. Senate,,1,,Invalid Votes,1
+Newton,Lake 2,U.S. Senate,,1,,Invalid Votes,1
+Newton,Lincoln 1,U.S. Senate,,1,,Invalid Votes,1
+Newton,Lincoln 2,U.S. Senate,,1,,Invalid Votes,0
+Newton,Lincoln 3,U.S. Senate,,1,,Invalid Votes,1
+Newton,Lincoln 4,U.S. Senate,,1,,Invalid Votes,0
+Newton,McClellan,U.S. Senate,,1,,Invalid Votes,0
+Newton,Washington,U.S. Senate,,1,,Invalid Votes,0
+Newton,Beaver 1,U.S. House,4,1,REP,Jim BAIRD,235
+Newton,Beaver 2,U.S. House,4,1,REP,Jim BAIRD,312
+Newton,Colfax,U.S. House,4,1,REP,Jim BAIRD,56
+Newton,Grant 1,U.S. House,4,1,REP,Jim BAIRD,207
+Newton,Grant 2,U.S. House,4,1,REP,Jim BAIRD,119
+Newton,Iroquois 1,U.S. House,4,1,REP,Jim BAIRD,154
+Newton,Iroquois 2,U.S. House,4,1,REP,Jim BAIRD,243
+Newton,Jackson,U.S. House,4,1,REP,Jim BAIRD,167
+Newton,Jefferson 1,U.S. House,4,1,REP,Jim BAIRD,254
+Newton,Jefferson 2,U.S. House,4,1,REP,Jim BAIRD,287
+Newton,Jefferson 3,U.S. House,4,1,REP,Jim BAIRD,129
+Newton,Lake 1,U.S. House,4,1,REP,Jim BAIRD,595
+Newton,Lake 2,U.S. House,4,1,REP,Jim BAIRD,370
+Newton,Lincoln 1,U.S. House,4,1,REP,Jim BAIRD,422
+Newton,Lincoln 2,U.S. House,4,1,REP,Jim BAIRD,441
+Newton,Lincoln 3,U.S. House,4,1,REP,Jim BAIRD,359
+Newton,Lincoln 4,U.S. House,4,1,REP,Jim BAIRD,382
+Newton,McClellan,U.S. House,4,1,REP,Jim BAIRD,75
+Newton,Washington,U.S. House,4,1,REP,Jim BAIRD,146
+Newton,Beaver 1,U.S. House,4,1,DEM,Derrick HOLDER,57
+Newton,Beaver 2,U.S. House,4,1,DEM,Derrick HOLDER,62
+Newton,Colfax,U.S. House,4,1,DEM,Derrick HOLDER,9
+Newton,Grant 1,U.S. House,4,1,DEM,Derrick HOLDER,48
+Newton,Grant 2,U.S. House,4,1,DEM,Derrick HOLDER,24
+Newton,Iroquois 1,U.S. House,4,1,DEM,Derrick HOLDER,30
+Newton,Iroquois 2,U.S. House,4,1,DEM,Derrick HOLDER,49
+Newton,Jackson,U.S. House,4,1,DEM,Derrick HOLDER,37
+Newton,Jefferson 1,U.S. House,4,1,DEM,Derrick HOLDER,54
+Newton,Jefferson 2,U.S. House,4,1,DEM,Derrick HOLDER,92
+Newton,Jefferson 3,U.S. House,4,1,DEM,Derrick HOLDER,35
+Newton,Lake 1,U.S. House,4,1,DEM,Derrick HOLDER,113
+Newton,Lake 2,U.S. House,4,1,DEM,Derrick HOLDER,98
+Newton,Lincoln 1,U.S. House,4,1,DEM,Derrick HOLDER,125
+Newton,Lincoln 2,U.S. House,4,1,DEM,Derrick HOLDER,116
+Newton,Lincoln 3,U.S. House,4,1,DEM,Derrick HOLDER,83
+Newton,Lincoln 4,U.S. House,4,1,DEM,Derrick HOLDER,154
+Newton,McClellan,U.S. House,4,1,DEM,Derrick HOLDER,17
+Newton,Washington,U.S. House,4,1,DEM,Derrick HOLDER,21
+Newton,Beaver 1,U.S. House,4,1,LBT,Ashley GROFF,11
+Newton,Beaver 2,U.S. House,4,1,LBT,Ashley GROFF,10
+Newton,Colfax,U.S. House,4,1,LBT,Ashley GROFF,6
+Newton,Grant 1,U.S. House,4,1,LBT,Ashley GROFF,15
+Newton,Grant 2,U.S. House,4,1,LBT,Ashley GROFF,9
+Newton,Iroquois 1,U.S. House,4,1,LBT,Ashley GROFF,16
+Newton,Iroquois 2,U.S. House,4,1,LBT,Ashley GROFF,7
+Newton,Jackson,U.S. House,4,1,LBT,Ashley GROFF,6
+Newton,Jefferson 1,U.S. House,4,1,LBT,Ashley GROFF,14
+Newton,Jefferson 2,U.S. House,4,1,LBT,Ashley GROFF,21
+Newton,Jefferson 3,U.S. House,4,1,LBT,Ashley GROFF,14
+Newton,Lake 1,U.S. House,4,1,LBT,Ashley GROFF,34
+Newton,Lake 2,U.S. House,4,1,LBT,Ashley GROFF,19
+Newton,Lincoln 1,U.S. House,4,1,LBT,Ashley GROFF,26
+Newton,Lincoln 2,U.S. House,4,1,LBT,Ashley GROFF,15
+Newton,Lincoln 3,U.S. House,4,1,LBT,Ashley GROFF,18
+Newton,Lincoln 4,U.S. House,4,1,LBT,Ashley GROFF,20
+Newton,McClellan,U.S. House,4,1,LBT,Ashley GROFF,6
+Newton,Washington,U.S. House,4,1,LBT,Ashley GROFF,7
+Newton,Beaver 1,U.S. House,4,1,,Total Votes Cast,303
+Newton,Beaver 2,U.S. House,4,1,,Total Votes Cast,384
+Newton,Colfax,U.S. House,4,1,,Total Votes Cast,71
+Newton,Grant 1,U.S. House,4,1,,Total Votes Cast,270
+Newton,Grant 2,U.S. House,4,1,,Total Votes Cast,152
+Newton,Iroquois 1,U.S. House,4,1,,Total Votes Cast,200
+Newton,Iroquois 2,U.S. House,4,1,,Total Votes Cast,299
+Newton,Jackson,U.S. House,4,1,,Total Votes Cast,210
+Newton,Jefferson 1,U.S. House,4,1,,Total Votes Cast,322
+Newton,Jefferson 2,U.S. House,4,1,,Total Votes Cast,400
+Newton,Jefferson 3,U.S. House,4,1,,Total Votes Cast,178
+Newton,Lake 1,U.S. House,4,1,,Total Votes Cast,742
+Newton,Lake 2,U.S. House,4,1,,Total Votes Cast,487
+Newton,Lincoln 1,U.S. House,4,1,,Total Votes Cast,573
+Newton,Lincoln 2,U.S. House,4,1,,Total Votes Cast,52
+Newton,Lincoln 3,U.S. House,4,1,,Total Votes Cast,460
+Newton,Lincoln 4,U.S. House,4,1,,Total Votes Cast,556
+Newton,McClellan,U.S. House,4,1,,Total Votes Cast,98
+Newton,Washington,U.S. House,4,1,,Total Votes Cast,174
+Newton,Beaver 1,U.S. House,4,1,,Under Votes,9
+Newton,Beaver 2,U.S. House,4,1,,Under Votes,15
+Newton,Colfax,U.S. House,4,1,,Under Votes,0
+Newton,Grant 1,U.S. House,4,1,,Under Votes,8
+Newton,Grant 2,U.S. House,4,1,,Under Votes,2
+Newton,Iroquois 1,U.S. House,4,1,,Under Votes,14
+Newton,Iroquois 2,U.S. House,4,1,,Under Votes,8
+Newton,Jackson,U.S. House,4,1,,Under Votes,5
+Newton,Jefferson 1,U.S. House,4,1,,Under Votes,12
+Newton,Jefferson 2,U.S. House,4,1,,Under Votes,15
+Newton,Jefferson 3,U.S. House,4,1,,Under Votes,5
+Newton,Lake 1,U.S. House,4,1,,Under Votes,34
+Newton,Lake 2,U.S. House,4,1,,Under Votes,6
+Newton,Lincoln 1,U.S. House,4,1,,Under Votes,6
+Newton,Lincoln 2,U.S. House,4,1,,Under Votes,10
+Newton,Lincoln 3,U.S. House,4,1,,Under Votes,11
+Newton,Lincoln 4,U.S. House,4,1,,Under Votes,19
+Newton,McClellan,U.S. House,4,1,,Under Votes,6
+Newton,Washington,U.S. House,4,1,,Under Votes,3
+Newton,Beaver 1,U.S. House,4,1,,Over Votes,0
+Newton,Beaver 2,U.S. House,4,1,,Over Votes,0
+Newton,Colfax,U.S. House,4,1,,Over Votes,0
+Newton,Grant 1,U.S. House,4,1,,Over Votes,1
+Newton,Grant 2,U.S. House,4,1,,Over Votes,0
+Newton,Iroquois 1,U.S. House,4,1,,Over Votes,0
+Newton,Iroquois 2,U.S. House,4,1,,Over Votes,2
+Newton,Jackson,U.S. House,4,1,,Over Votes,0
+Newton,Jefferson 1,U.S. House,4,1,,Over Votes,0
+Newton,Jefferson 2,U.S. House,4,1,,Over Votes,0
+Newton,Jefferson 3,U.S. House,4,1,,Over Votes,0
+Newton,Lake 1,U.S. House,4,1,,Over Votes,0
+Newton,Lake 2,U.S. House,4,1,,Over Votes,0
+Newton,Lincoln 1,U.S. House,4,1,,Over Votes,1
+Newton,Lincoln 2,U.S. House,4,1,,Over Votes,0
+Newton,Lincoln 3,U.S. House,4,1,,Over Votes,0
+Newton,Lincoln 4,U.S. House,4,1,,Over Votes,0
+Newton,McClellan,U.S. House,4,1,,Over Votes,0
+Newton,Washington,U.S. House,4,1,,Over Votes,0
+Newton,Beaver 1,U.S. House,4,1,,Invalid Votes,2
+Newton,Beaver 2,U.S. House,4,1,,Invalid Votes,1
+Newton,Colfax,U.S. House,4,1,,Invalid Votes,0
+Newton,Grant 1,U.S. House,4,1,,Invalid Votes,0
+Newton,Grant 2,U.S. House,4,1,,Invalid Votes,0
+Newton,Iroquois 1,U.S. House,4,1,,Invalid Votes,0
+Newton,Iroquois 2,U.S. House,4,1,,Invalid Votes,0
+Newton,Jackson,U.S. House,4,1,,Invalid Votes,0
+Newton,Jefferson 1,U.S. House,4,1,,Invalid Votes,0
+Newton,Jefferson 2,U.S. House,4,1,,Invalid Votes,0
+Newton,Jefferson 3,U.S. House,4,1,,Invalid Votes,0
+Newton,Lake 1,U.S. House,4,1,,Invalid Votes,1
+Newton,Lake 2,U.S. House,4,1,,Invalid Votes,1
+Newton,Lincoln 1,U.S. House,4,1,,Invalid Votes,1
+Newton,Lincoln 2,U.S. House,4,1,,Invalid Votes,0
+Newton,Lincoln 3,U.S. House,4,1,,Invalid Votes,1
+Newton,Lincoln 4,U.S. House,4,1,,Invalid Votes,0
+Newton,McClellan,U.S. House,4,1,,Invalid Votes,0
+Newton,Washington,U.S. House,4,1,,Invalid Votes,0
+Newton,Beaver 1,State House,11,1,REP,Michael A. AYLESWORTH,242
+Newton,Beaver 2,State House,11,1,REP,Michael A. AYLESWORTH,311
+Newton,Colfax,State House,11,1,REP,Michael A. AYLESWORTH,60
+Newton,Iroquois 1,State House,11,1,REP,Michael A. AYLESWORTH,177
+Newton,Iroquois 2,State House,11,1,REP,Michael A. AYLESWORTH,259
+Newton,Jackson,State House,11,1,REP,Michael A. AYLESWORTH,171
+Newton,Lake 1,State House,11,1,REP,Michael A. AYLESWORTH,628
+Newton,Lake 2,State House,11,1,REP,Michael A. AYLESWORTH,406
+Newton,Lincoln 1,State House,11,1,REP,Michael A. AYLESWORTH,468
+Newton,Lincoln 2,State House,11,1,REP,Michael A. AYLESWORTH,484
+Newton,Lincoln 3,State House,11,1,REP,Michael A. AYLESWORTH,381
+Newton,Lincoln 4,State House,11,1,REP,Michael A. AYLESWORTH,435
+Newton,McClellan,State House,11,1,REP,Michael A. AYLESWORTH,79
+Newton,Washington,State House,11,1,REP,Michael A. AYLESWORTH,150
+Newton,Beaver 1,State House,11,1,,Total Votes Cast,242
+Newton,Beaver 2,State House,11,1,,Total Votes Cast,311
+Newton,Colfax,State House,11,1,,Total Votes Cast,60
+Newton,Iroquois 1,State House,11,1,,Total Votes Cast,177
+Newton,Iroquois 2,State House,11,1,,Total Votes Cast,259
+Newton,Jackson,State House,11,1,,Total Votes Cast,171
+Newton,Lake 1,State House,11,1,,Total Votes Cast,628
+Newton,Lake 2,State House,11,1,,Total Votes Cast,406
+Newton,Lincoln 1,State House,11,1,,Total Votes Cast,468
+Newton,Lincoln 2,State House,11,1,,Total Votes Cast,484
+Newton,Lincoln 3,State House,11,1,,Total Votes Cast,381
+Newton,Lincoln 4,State House,11,1,,Total Votes Cast,435
+Newton,McClellan,State House,11,1,,Total Votes Cast,79
+Newton,Washington,State House,11,1,,Total Votes Cast,150
+Newton,Beaver 1,State House,11,1,,Under Votes,70
+Newton,Beaver 2,State House,11,1,,Under Votes,88
+Newton,Colfax,State House,11,1,,Under Votes,11
+Newton,Iroquois 1,State House,11,1,,Under Votes,37
+Newton,Iroquois 2,State House,11,1,,Under Votes,50
+Newton,Jackson,State House,11,1,,Under Votes,44
+Newton,Lake 1,State House,11,1,,Under Votes,148
+Newton,Lake 2,State House,11,1,,Under Votes,87
+Newton,Lincoln 1,State House,11,1,,Under Votes,112
+Newton,Lincoln 2,State House,11,1,,Under Votes,98
+Newton,Lincoln 3,State House,11,1,,Under Votes,90
+Newton,Lincoln 4,State House,11,1,,Under Votes,140
+Newton,McClellan,State House,11,1,,Under Votes,25
+Newton,Washington,State House,11,1,,Under Votes,27
+Newton,Beaver 1,State House,11,1,,Over Votes,0
+Newton,Beaver 2,State House,11,1,,Over Votes,0
+Newton,Colfax,State House,11,1,,Over Votes,0
+Newton,Iroquois 1,State House,11,1,,Over Votes,0
+Newton,Iroquois 2,State House,11,1,,Over Votes,0
+Newton,Jackson,State House,11,1,,Over Votes,0
+Newton,Lake 1,State House,11,1,,Over Votes,0
+Newton,Lake 2,State House,11,1,,Over Votes,0
+Newton,Lincoln 1,State House,11,1,,Over Votes,0
+Newton,Lincoln 2,State House,11,1,,Over Votes,0
+Newton,Lincoln 3,State House,11,1,,Over Votes,0
+Newton,Lincoln 4,State House,11,1,,Over Votes,0
+Newton,McClellan,State House,11,1,,Over Votes,0
+Newton,Washington,State House,11,1,,Over Votes,0
+Newton,Beaver 1,State House,11,1,,Invalid Votes,2
+Newton,Beaver 2,State House,11,1,,Invalid Votes,1
+Newton,Colfax,State House,11,1,,Invalid Votes,0
+Newton,Iroquois 1,State House,11,1,,Invalid Votes,0
+Newton,Iroquois 2,State House,11,1,,Invalid Votes,0
+Newton,Jackson,State House,11,1,,Invalid Votes,0
+Newton,Lake 1,State House,11,1,,Invalid Votes,1
+Newton,Lake 2,State House,11,1,,Invalid Votes,1
+Newton,Lincoln 1,State House,11,1,,Invalid Votes,1
+Newton,Lincoln 2,State House,11,1,,Invalid Votes,0
+Newton,Lincoln 3,State House,11,1,,Invalid Votes,1
+Newton,Lincoln 4,State House,11,1,,Invalid Votes,0
+Newton,McClellan,State House,11,1,,Invalid Votes,0
+Newton,Washington,State House,11,1,,Invalid Votes,0
+Newton,Grant 1,State House,13,1,REP,Matthew (Matt) COMMONS,220
+Newton,Grant 2,State House,13,1,REP,Matthew (Matt) COMMONS,119
+Newton,Jefferson 1,State House,13,1,REP,Matthew (Matt) COMMONS,261
+Newton,Jefferson 2,State House,13,1,REP,Matthew (Matt) COMMONS,279
+Newton,Jefferson 3,State House,13,1,REP,Matthew (Matt) COMMONS,131
+Newton,Grant 1,State House,13,1,DEM,Edward (Ed) MOYER JR.,47
+Newton,Grant 2,State House,13,1,DEM,Edward (Ed) MOYER JR.,31
+Newton,Jefferson 1,State House,13,1,DEM,Edward (Ed) MOYER JR.,57
+Newton,Jefferson 2,State House,13,1,DEM,Edward (Ed) MOYER JR.,113
+Newton,Jefferson 3,State House,13,1,DEM,Edward (Ed) MOYER JR.,44
+Newton,Grant 1,State House,13,1,,Total Votes Cast,267
+Newton,Grant 2,State House,13,1,,Total Votes Cast,150
+Newton,Jefferson 1,State House,13,1,,Total Votes Cast,318
+Newton,Jefferson 2,State House,13,1,,Total Votes Cast,392
+Newton,Jefferson 3,State House,13,1,,Total Votes Cast,175
+Newton,Grant 1,State House,13,1,,Under Votes,12
+Newton,Grant 2,State House,13,1,,Under Votes,4
+Newton,Jefferson 1,State House,13,1,,Under Votes,16
+Newton,Jefferson 2,State House,13,1,,Under Votes,22
+Newton,Jefferson 3,State House,13,1,,Under Votes,8
+Newton,Grant 1,State House,13,1,,Over Votes,0
+Newton,Grant 2,State House,13,1,,Over Votes,0
+Newton,Jefferson 1,State House,13,1,,Over Votes,0
+Newton,Jefferson 2,State House,13,1,,Over Votes,1
+Newton,Jefferson 3,State House,13,1,,Over Votes,0
+Newton,Grant 1,State House,13,1,,Invalid Votes,0
+Newton,Grant 2,State House,13,1,,Invalid Votes,0
+Newton,Jefferson 1,State House,13,1,,Invalid Votes,0
+Newton,Jefferson 2,State House,13,1,,Invalid Votes,0
+Newton,Jefferson 3,State House,13,1,,Invalid Votes,0
+Newton,Beaver 1,"Circuit Court Judge, 79th Circuit",,1,REP,Jeryl F. LEACH,233
+Newton,Beaver 2,"Circuit Court Judge, 79th Circuit",,1,REP,Jeryl F. LEACH,316
+Newton,Colfax,"Circuit Court Judge, 79th Circuit",,1,REP,Jeryl F. LEACH,55
+Newton,Grant 1,"Circuit Court Judge, 79th Circuit",,1,REP,Jeryl F. LEACH,233
+Newton,Grant 2,"Circuit Court Judge, 79th Circuit",,1,REP,Jeryl F. LEACH,125
+Newton,Iroquois 1,"Circuit Court Judge, 79th Circuit",,1,REP,Jeryl F. LEACH,177
+Newton,Iroquois 2,"Circuit Court Judge, 79th Circuit",,1,REP,Jeryl F. LEACH,253
+Newton,Jackson,"Circuit Court Judge, 79th Circuit",,1,REP,Jeryl F. LEACH,172
+Newton,Jefferson 1,"Circuit Court Judge, 79th Circuit",,1,REP,Jeryl F. LEACH,279
+Newton,Jefferson 2,"Circuit Court Judge, 79th Circuit",,1,REP,Jeryl F. LEACH,328
+Newton,Jefferson 3,"Circuit Court Judge, 79th Circuit",,1,REP,Jeryl F. LEACH,141
+Newton,Lake 1,"Circuit Court Judge, 79th Circuit",,1,REP,Jeryl F. LEACH,638
+Newton,Lake 2,"Circuit Court Judge, 79th Circuit",,1,REP,Jeryl F. LEACH,395
+Newton,Lincoln 1,"Circuit Court Judge, 79th Circuit",,1,REP,Jeryl F. LEACH,467
+Newton,Lincoln 2,"Circuit Court Judge, 79th Circuit",,1,REP,Jeryl F. LEACH,475
+Newton,Lincoln 3,"Circuit Court Judge, 79th Circuit",,1,REP,Jeryl F. LEACH,386
+Newton,Lincoln 4,"Circuit Court Judge, 79th Circuit",,1,REP,Jeryl F. LEACH,442
+Newton,McClellan,"Circuit Court Judge, 79th Circuit",,1,REP,Jeryl F. LEACH,74
+Newton,Washington,"Circuit Court Judge, 79th Circuit",,1,REP,Jeryl F. LEACH,138
+Newton,Beaver 1,"Circuit Court Judge, 79th Circuit",,1,,Total Votes Cast,233
+Newton,Beaver 2,"Circuit Court Judge, 79th Circuit",,1,,Total Votes Cast,316
+Newton,Colfax,"Circuit Court Judge, 79th Circuit",,1,,Total Votes Cast,55
+Newton,Grant 1,"Circuit Court Judge, 79th Circuit",,1,,Total Votes Cast,233
+Newton,Grant 2,"Circuit Court Judge, 79th Circuit",,1,,Total Votes Cast,125
+Newton,Iroquois 1,"Circuit Court Judge, 79th Circuit",,1,,Total Votes Cast,177
+Newton,Iroquois 2,"Circuit Court Judge, 79th Circuit",,1,,Total Votes Cast,253
+Newton,Jackson,"Circuit Court Judge, 79th Circuit",,1,,Total Votes Cast,172
+Newton,Jefferson 1,"Circuit Court Judge, 79th Circuit",,1,,Total Votes Cast,279
+Newton,Jefferson 2,"Circuit Court Judge, 79th Circuit",,1,,Total Votes Cast,328
+Newton,Jefferson 3,"Circuit Court Judge, 79th Circuit",,1,,Total Votes Cast,141
+Newton,Lake 1,"Circuit Court Judge, 79th Circuit",,1,,Total Votes Cast,638
+Newton,Lake 2,"Circuit Court Judge, 79th Circuit",,1,,Total Votes Cast,395
+Newton,Lincoln 1,"Circuit Court Judge, 79th Circuit",,1,,Total Votes Cast,467
+Newton,Lincoln 2,"Circuit Court Judge, 79th Circuit",,1,,Total Votes Cast,475
+Newton,Lincoln 3,"Circuit Court Judge, 79th Circuit",,1,,Total Votes Cast,386
+Newton,Lincoln 4,"Circuit Court Judge, 79th Circuit",,1,,Total Votes Cast,442
+Newton,McClellan,"Circuit Court Judge, 79th Circuit",,1,,Total Votes Cast,74
+Newton,Washington,"Circuit Court Judge, 79th Circuit",,1,,Total Votes Cast,138
+Newton,Beaver 1,"Circuit Court Judge, 79th Circuit",,1,,Under Votes,79
+Newton,Beaver 2,"Circuit Court Judge, 79th Circuit",,1,,Under Votes,83
+Newton,Colfax,"Circuit Court Judge, 79th Circuit",,1,,Under Votes,16
+Newton,Grant 1,"Circuit Court Judge, 79th Circuit",,1,,Under Votes,46
+Newton,Grant 2,"Circuit Court Judge, 79th Circuit",,1,,Under Votes,29
+Newton,Iroquois 1,"Circuit Court Judge, 79th Circuit",,1,,Under Votes,37
+Newton,Iroquois 2,"Circuit Court Judge, 79th Circuit",,1,,Under Votes,56
+Newton,Jackson,"Circuit Court Judge, 79th Circuit",,1,,Under Votes,43
+Newton,Jefferson 1,"Circuit Court Judge, 79th Circuit",,1,,Under Votes,55
+Newton,Jefferson 2,"Circuit Court Judge, 79th Circuit",,1,,Under Votes,87
+Newton,Jefferson 3,"Circuit Court Judge, 79th Circuit",,1,,Under Votes,42
+Newton,Lake 1,"Circuit Court Judge, 79th Circuit",,1,,Under Votes,138
+Newton,Lake 2,"Circuit Court Judge, 79th Circuit",,1,,Under Votes,98
+Newton,Lincoln 1,"Circuit Court Judge, 79th Circuit",,1,,Under Votes,113
+Newton,Lincoln 2,"Circuit Court Judge, 79th Circuit",,1,,Under Votes,107
+Newton,Lincoln 3,"Circuit Court Judge, 79th Circuit",,1,,Under Votes,85
+Newton,Lincoln 4,"Circuit Court Judge, 79th Circuit",,1,,Under Votes,133
+Newton,McClellan,"Circuit Court Judge, 79th Circuit",,1,,Under Votes,30
+Newton,Washington,"Circuit Court Judge, 79th Circuit",,1,,Under Votes,39
+Newton,Beaver 1,"Circuit Court Judge, 79th Circuit",,1,,Over Votes,0
+Newton,Beaver 2,"Circuit Court Judge, 79th Circuit",,1,,Over Votes,0
+Newton,Colfax,"Circuit Court Judge, 79th Circuit",,1,,Over Votes,0
+Newton,Grant 1,"Circuit Court Judge, 79th Circuit",,1,,Over Votes,0
+Newton,Grant 2,"Circuit Court Judge, 79th Circuit",,1,,Over Votes,0
+Newton,Iroquois 1,"Circuit Court Judge, 79th Circuit",,1,,Over Votes,0
+Newton,Iroquois 2,"Circuit Court Judge, 79th Circuit",,1,,Over Votes,0
+Newton,Jackson,"Circuit Court Judge, 79th Circuit",,1,,Over Votes,0
+Newton,Jefferson 1,"Circuit Court Judge, 79th Circuit",,1,,Over Votes,0
+Newton,Jefferson 2,"Circuit Court Judge, 79th Circuit",,1,,Over Votes,0
+Newton,Jefferson 3,"Circuit Court Judge, 79th Circuit",,1,,Over Votes,0
+Newton,Lake 1,"Circuit Court Judge, 79th Circuit",,1,,Over Votes,0
+Newton,Lake 2,"Circuit Court Judge, 79th Circuit",,1,,Over Votes,0
+Newton,Lincoln 1,"Circuit Court Judge, 79th Circuit",,1,,Over Votes,0
+Newton,Lincoln 2,"Circuit Court Judge, 79th Circuit",,1,,Over Votes,0
+Newton,Lincoln 3,"Circuit Court Judge, 79th Circuit",,1,,Over Votes,0
+Newton,Lincoln 4,"Circuit Court Judge, 79th Circuit",,1,,Over Votes,0
+Newton,McClellan,"Circuit Court Judge, 79th Circuit",,1,,Over Votes,0
+Newton,Washington,"Circuit Court Judge, 79th Circuit",,1,,Over Votes,0
+Newton,Beaver 1,"Circuit Court Judge, 79th Circuit",,1,,Invalid Votes,2
+Newton,Beaver 2,"Circuit Court Judge, 79th Circuit",,1,,Invalid Votes,1
+Newton,Colfax,"Circuit Court Judge, 79th Circuit",,1,,Invalid Votes,0
+Newton,Grant 1,"Circuit Court Judge, 79th Circuit",,1,,Invalid Votes,0
+Newton,Grant 2,"Circuit Court Judge, 79th Circuit",,1,,Invalid Votes,0
+Newton,Iroquois 1,"Circuit Court Judge, 79th Circuit",,1,,Invalid Votes,0
+Newton,Iroquois 2,"Circuit Court Judge, 79th Circuit",,1,,Invalid Votes,0
+Newton,Jackson,"Circuit Court Judge, 79th Circuit",,1,,Invalid Votes,0
+Newton,Jefferson 1,"Circuit Court Judge, 79th Circuit",,1,,Invalid Votes,0
+Newton,Jefferson 2,"Circuit Court Judge, 79th Circuit",,1,,Invalid Votes,0
+Newton,Jefferson 3,"Circuit Court Judge, 79th Circuit",,1,,Invalid Votes,0
+Newton,Lake 1,"Circuit Court Judge, 79th Circuit",,1,,Invalid Votes,1
+Newton,Lake 2,"Circuit Court Judge, 79th Circuit",,1,,Invalid Votes,1
+Newton,Lincoln 1,"Circuit Court Judge, 79th Circuit",,1,,Invalid Votes,1
+Newton,Lincoln 2,"Circuit Court Judge, 79th Circuit",,1,,Invalid Votes,0
+Newton,Lincoln 3,"Circuit Court Judge, 79th Circuit",,1,,Invalid Votes,1
+Newton,Lincoln 4,"Circuit Court Judge, 79th Circuit",,1,,Invalid Votes,0
+Newton,McClellan,"Circuit Court Judge, 79th Circuit",,1,,Invalid Votes,0
+Newton,Washington,"Circuit Court Judge, 79th Circuit",,1,,Invalid Votes,0
+Newton,Beaver 1,Superior Court Judge,,1,REP,Patrick K. RYAN,252
+Newton,Beaver 2,Superior Court Judge,,1,REP,Patrick K. RYAN,325
+Newton,Colfax,Superior Court Judge,,1,REP,Patrick K. RYAN,55
+Newton,Grant 1,Superior Court Judge,,1,REP,Patrick K. RYAN,250
+Newton,Grant 2,Superior Court Judge,,1,REP,Patrick K. RYAN,137
+Newton,Iroquois 1,Superior Court Judge,,1,REP,Patrick K. RYAN,186
+Newton,Iroquois 2,Superior Court Judge,,1,REP,Patrick K. RYAN,275
+Newton,Jackson,Superior Court Judge,,1,REP,Patrick K. RYAN,175
+Newton,Jefferson 1,Superior Court Judge,,1,REP,Patrick K. RYAN,292
+Newton,Jefferson 2,Superior Court Judge,,1,REP,Patrick K. RYAN,346
+Newton,Jefferson 3,Superior Court Judge,,1,REP,Patrick K. RYAN,149
+Newton,Lake 1,Superior Court Judge,,1,REP,Patrick K. RYAN,628
+Newton,Lake 2,Superior Court Judge,,1,REP,Patrick K. RYAN,410
+Newton,Lincoln 1,Superior Court Judge,,1,REP,Patrick K. RYAN,457
+Newton,Lincoln 2,Superior Court Judge,,1,REP,Patrick K. RYAN,483
+Newton,Lincoln 3,Superior Court Judge,,1,REP,Patrick K. RYAN,379
+Newton,Lincoln 4,Superior Court Judge,,1,REP,Patrick K. RYAN,429
+Newton,McClellan,Superior Court Judge,,1,REP,Patrick K. RYAN,83
+Newton,Washington,Superior Court Judge,,1,REP,Patrick K. RYAN,152
+Newton,Beaver 1,Superior Court Judge,,1,,Total Votes Cast,252
+Newton,Beaver 2,Superior Court Judge,,1,,Total Votes Cast,325
+Newton,Colfax,Superior Court Judge,,1,,Total Votes Cast,55
+Newton,Grant 1,Superior Court Judge,,1,,Total Votes Cast,250
+Newton,Grant 2,Superior Court Judge,,1,,Total Votes Cast,137
+Newton,Iroquois 1,Superior Court Judge,,1,,Total Votes Cast,186
+Newton,Iroquois 2,Superior Court Judge,,1,,Total Votes Cast,275
+Newton,Jackson,Superior Court Judge,,1,,Total Votes Cast,175
+Newton,Jefferson 1,Superior Court Judge,,1,,Total Votes Cast,292
+Newton,Jefferson 2,Superior Court Judge,,1,,Total Votes Cast,346
+Newton,Jefferson 3,Superior Court Judge,,1,,Total Votes Cast,149
+Newton,Lake 1,Superior Court Judge,,1,,Total Votes Cast,628
+Newton,Lake 2,Superior Court Judge,,1,,Total Votes Cast,410
+Newton,Lincoln 1,Superior Court Judge,,1,,Total Votes Cast,457
+Newton,Lincoln 2,Superior Court Judge,,1,,Total Votes Cast,483
+Newton,Lincoln 3,Superior Court Judge,,1,,Total Votes Cast,379
+Newton,Lincoln 4,Superior Court Judge,,1,,Total Votes Cast,429
+Newton,McClellan,Superior Court Judge,,1,,Total Votes Cast,83
+Newton,Washington,Superior Court Judge,,1,,Total Votes Cast,152
+Newton,Beaver 1,Superior Court Judge,,1,,Under Votes,60
+Newton,Beaver 2,Superior Court Judge,,1,,Under Votes,74
+Newton,Colfax,Superior Court Judge,,1,,Under Votes,16
+Newton,Grant 1,Superior Court Judge,,1,,Under Votes,29
+Newton,Grant 2,Superior Court Judge,,1,,Under Votes,17
+Newton,Iroquois 1,Superior Court Judge,,1,,Under Votes,28
+Newton,Iroquois 2,Superior Court Judge,,1,,Under Votes,34
+Newton,Jackson,Superior Court Judge,,1,,Under Votes,40
+Newton,Jefferson 1,Superior Court Judge,,1,,Under Votes,42
+Newton,Jefferson 2,Superior Court Judge,,1,,Under Votes,69
+Newton,Jefferson 3,Superior Court Judge,,1,,Under Votes,34
+Newton,Lake 1,Superior Court Judge,,1,,Under Votes,148
+Newton,Lake 2,Superior Court Judge,,1,,Under Votes,83
+Newton,Lincoln 1,Superior Court Judge,,1,,Under Votes,123
+Newton,Lincoln 2,Superior Court Judge,,1,,Under Votes,99
+Newton,Lincoln 3,Superior Court Judge,,1,,Under Votes,92
+Newton,Lincoln 4,Superior Court Judge,,1,,Under Votes,146
+Newton,McClellan,Superior Court Judge,,1,,Under Votes,21
+Newton,Washington,Superior Court Judge,,1,,Under Votes,25
+Newton,Beaver 1,Superior Court Judge,,1,,Over Votes,0
+Newton,Beaver 2,Superior Court Judge,,1,,Over Votes,0
+Newton,Colfax,Superior Court Judge,,1,,Over Votes,0
+Newton,Grant 1,Superior Court Judge,,1,,Over Votes,0
+Newton,Grant 2,Superior Court Judge,,1,,Over Votes,0
+Newton,Iroquois 1,Superior Court Judge,,1,,Over Votes,0
+Newton,Iroquois 2,Superior Court Judge,,1,,Over Votes,0
+Newton,Jackson,Superior Court Judge,,1,,Over Votes,0
+Newton,Jefferson 1,Superior Court Judge,,1,,Over Votes,0
+Newton,Jefferson 2,Superior Court Judge,,1,,Over Votes,0
+Newton,Jefferson 3,Superior Court Judge,,1,,Over Votes,0
+Newton,Lake 1,Superior Court Judge,,1,,Over Votes,0
+Newton,Lake 2,Superior Court Judge,,1,,Over Votes,0
+Newton,Lincoln 1,Superior Court Judge,,1,,Over Votes,0
+Newton,Lincoln 2,Superior Court Judge,,1,,Over Votes,0
+Newton,Lincoln 3,Superior Court Judge,,1,,Over Votes,0
+Newton,Lincoln 4,Superior Court Judge,,1,,Over Votes,0
+Newton,McClellan,Superior Court Judge,,1,,Over Votes,0
+Newton,Washington,Superior Court Judge,,1,,Over Votes,0
+Newton,Beaver 1,Superior Court Judge,,1,,Invalid Votes,2
+Newton,Beaver 2,Superior Court Judge,,1,,Invalid Votes,1
+Newton,Colfax,Superior Court Judge,,1,,Invalid Votes,0
+Newton,Grant 1,Superior Court Judge,,1,,Invalid Votes,0
+Newton,Grant 2,Superior Court Judge,,1,,Invalid Votes,0
+Newton,Iroquois 1,Superior Court Judge,,1,,Invalid Votes,0
+Newton,Iroquois 2,Superior Court Judge,,1,,Invalid Votes,0
+Newton,Jackson,Superior Court Judge,,1,,Invalid Votes,0
+Newton,Jefferson 1,Superior Court Judge,,1,,Invalid Votes,0
+Newton,Jefferson 2,Superior Court Judge,,1,,Invalid Votes,0
+Newton,Jefferson 3,Superior Court Judge,,1,,Invalid Votes,0
+Newton,Lake 1,Superior Court Judge,,1,,Invalid Votes,1
+Newton,Lake 2,Superior Court Judge,,1,,Invalid Votes,1
+Newton,Lincoln 1,Superior Court Judge,,1,,Invalid Votes,1
+Newton,Lincoln 2,Superior Court Judge,,1,,Invalid Votes,0
+Newton,Lincoln 3,Superior Court Judge,,1,,Invalid Votes,1
+Newton,Lincoln 4,Superior Court Judge,,1,,Invalid Votes,0
+Newton,McClellan,Superior Court Judge,,1,,Invalid Votes,0
+Newton,Washington,Superior Court Judge,,1,,Invalid Votes,0
+Newton,Beaver 1,Circuit Court Clerk,,1,REP,Jessica D FIRKINS,241
+Newton,Beaver 2,Circuit Court Clerk,,1,REP,Jessica D FIRKINS,318
+Newton,Colfax,Circuit Court Clerk,,1,REP,Jessica D FIRKINS,54
+Newton,Grant 1,Circuit Court Clerk,,1,REP,Jessica D FIRKINS,238
+Newton,Grant 2,Circuit Court Clerk,,1,REP,Jessica D FIRKINS,134
+Newton,Iroquois 1,Circuit Court Clerk,,1,REP,Jessica D FIRKINS,177
+Newton,Iroquois 2,Circuit Court Clerk,,1,REP,Jessica D FIRKINS,261
+Newton,Jackson,Circuit Court Clerk,,1,REP,Jessica D FIRKINS,172
+Newton,Jefferson 1,Circuit Court Clerk,,1,REP,Jessica D FIRKINS,287
+Newton,Jefferson 2,Circuit Court Clerk,,1,REP,Jessica D FIRKINS,341
+Newton,Jefferson 3,Circuit Court Clerk,,1,REP,Jessica D FIRKINS,145
+Newton,Lake 1,Circuit Court Clerk,,1,REP,Jessica D FIRKINS,618
+Newton,Lake 2,Circuit Court Clerk,,1,REP,Jessica D FIRKINS,393
+Newton,Lincoln 1,Circuit Court Clerk,,1,REP,Jessica D FIRKINS,463
+Newton,Lincoln 2,Circuit Court Clerk,,1,REP,Jessica D FIRKINS,482
+Newton,Lincoln 3,Circuit Court Clerk,,1,REP,Jessica D FIRKINS,377
+Newton,Lincoln 4,Circuit Court Clerk,,1,REP,Jessica D FIRKINS,428
+Newton,McClellan,Circuit Court Clerk,,1,REP,Jessica D FIRKINS,77
+Newton,Washington,Circuit Court Clerk,,1,REP,Jessica D FIRKINS,146
+Newton,Beaver 1,Circuit Court Clerk,,1,,Total Votes Cast,241
+Newton,Beaver 2,Circuit Court Clerk,,1,,Total Votes Cast,318
+Newton,Colfax,Circuit Court Clerk,,1,,Total Votes Cast,54
+Newton,Grant 1,Circuit Court Clerk,,1,,Total Votes Cast,238
+Newton,Grant 2,Circuit Court Clerk,,1,,Total Votes Cast,134
+Newton,Iroquois 1,Circuit Court Clerk,,1,,Total Votes Cast,177
+Newton,Iroquois 2,Circuit Court Clerk,,1,,Total Votes Cast,261
+Newton,Jackson,Circuit Court Clerk,,1,,Total Votes Cast,172
+Newton,Jefferson 1,Circuit Court Clerk,,1,,Total Votes Cast,287
+Newton,Jefferson 2,Circuit Court Clerk,,1,,Total Votes Cast,341
+Newton,Jefferson 3,Circuit Court Clerk,,1,,Total Votes Cast,145
+Newton,Lake 1,Circuit Court Clerk,,1,,Total Votes Cast,618
+Newton,Lake 2,Circuit Court Clerk,,1,,Total Votes Cast,393
+Newton,Lincoln 1,Circuit Court Clerk,,1,,Total Votes Cast,463
+Newton,Lincoln 2,Circuit Court Clerk,,1,,Total Votes Cast,482
+Newton,Lincoln 3,Circuit Court Clerk,,1,,Total Votes Cast,377
+Newton,Lincoln 4,Circuit Court Clerk,,1,,Total Votes Cast,428
+Newton,McClellan,Circuit Court Clerk,,1,,Total Votes Cast,77
+Newton,Washington,Circuit Court Clerk,,1,,Total Votes Cast,146
+Newton,Beaver 1,Circuit Court Clerk,,1,,Under Votes,71
+Newton,Beaver 2,Circuit Court Clerk,,1,,Under Votes,81
+Newton,Colfax,Circuit Court Clerk,,1,,Under Votes,17
+Newton,Grant 1,Circuit Court Clerk,,1,,Under Votes,41
+Newton,Grant 2,Circuit Court Clerk,,1,,Under Votes,20
+Newton,Iroquois 1,Circuit Court Clerk,,1,,Under Votes,37
+Newton,Iroquois 2,Circuit Court Clerk,,1,,Under Votes,48
+Newton,Jackson,Circuit Court Clerk,,1,,Under Votes,43
+Newton,Jefferson 1,Circuit Court Clerk,,1,,Under Votes,47
+Newton,Jefferson 2,Circuit Court Clerk,,1,,Under Votes,74
+Newton,Jefferson 3,Circuit Court Clerk,,1,,Under Votes,38
+Newton,Lake 1,Circuit Court Clerk,,1,,Under Votes,158
+Newton,Lake 2,Circuit Court Clerk,,1,,Under Votes,100
+Newton,Lincoln 1,Circuit Court Clerk,,1,,Under Votes,117
+Newton,Lincoln 2,Circuit Court Clerk,,1,,Under Votes,100
+Newton,Lincoln 3,Circuit Court Clerk,,1,,Under Votes,94
+Newton,Lincoln 4,Circuit Court Clerk,,1,,Under Votes,147
+Newton,McClellan,Circuit Court Clerk,,1,,Under Votes,27
+Newton,Washington,Circuit Court Clerk,,1,,Under Votes,31
+Newton,Beaver 1,Circuit Court Clerk,,1,,Over Votes,0
+Newton,Beaver 2,Circuit Court Clerk,,1,,Over Votes,0
+Newton,Colfax,Circuit Court Clerk,,1,,Over Votes,0
+Newton,Grant 1,Circuit Court Clerk,,1,,Over Votes,0
+Newton,Grant 2,Circuit Court Clerk,,1,,Over Votes,0
+Newton,Iroquois 1,Circuit Court Clerk,,1,,Over Votes,0
+Newton,Iroquois 2,Circuit Court Clerk,,1,,Over Votes,0
+Newton,Jackson,Circuit Court Clerk,,1,,Over Votes,0
+Newton,Jefferson 1,Circuit Court Clerk,,1,,Over Votes,0
+Newton,Jefferson 2,Circuit Court Clerk,,1,,Over Votes,0
+Newton,Jefferson 3,Circuit Court Clerk,,1,,Over Votes,0
+Newton,Lake 1,Circuit Court Clerk,,1,,Over Votes,0
+Newton,Lake 2,Circuit Court Clerk,,1,,Over Votes,0
+Newton,Lincoln 1,Circuit Court Clerk,,1,,Over Votes,0
+Newton,Lincoln 2,Circuit Court Clerk,,1,,Over Votes,0
+Newton,Lincoln 3,Circuit Court Clerk,,1,,Over Votes,0
+Newton,Lincoln 4,Circuit Court Clerk,,1,,Over Votes,0
+Newton,McClellan,Circuit Court Clerk,,1,,Over Votes,0
+Newton,Washington,Circuit Court Clerk,,1,,Over Votes,0
+Newton,Beaver 1,Circuit Court Clerk,,1,,Invalid Votes,2
+Newton,Beaver 2,Circuit Court Clerk,,1,,Invalid Votes,1
+Newton,Colfax,Circuit Court Clerk,,1,,Invalid Votes,0
+Newton,Grant 1,Circuit Court Clerk,,1,,Invalid Votes,0
+Newton,Grant 2,Circuit Court Clerk,,1,,Invalid Votes,0
+Newton,Iroquois 1,Circuit Court Clerk,,1,,Invalid Votes,0
+Newton,Iroquois 2,Circuit Court Clerk,,1,,Invalid Votes,0
+Newton,Jackson,Circuit Court Clerk,,1,,Invalid Votes,0
+Newton,Jefferson 1,Circuit Court Clerk,,1,,Invalid Votes,0
+Newton,Jefferson 2,Circuit Court Clerk,,1,,Invalid Votes,0
+Newton,Jefferson 3,Circuit Court Clerk,,1,,Invalid Votes,0
+Newton,Lake 1,Circuit Court Clerk,,1,,Invalid Votes,1
+Newton,Lake 2,Circuit Court Clerk,,1,,Invalid Votes,1
+Newton,Lincoln 1,Circuit Court Clerk,,1,,Invalid Votes,1
+Newton,Lincoln 2,Circuit Court Clerk,,1,,Invalid Votes,0
+Newton,Lincoln 3,Circuit Court Clerk,,1,,Invalid Votes,1
+Newton,Lincoln 4,Circuit Court Clerk,,1,,Invalid Votes,0
+Newton,McClellan,Circuit Court Clerk,,1,,Invalid Votes,0
+Newton,Washington,Circuit Court Clerk,,1,,Invalid Votes,0
+Newton,Beaver 1,County Treasurer,,1,REP,Jenni SWARTZ,246
+Newton,Beaver 2,County Treasurer,,1,REP,Jenni SWARTZ,320
+Newton,Colfax,County Treasurer,,1,REP,Jenni SWARTZ,55
+Newton,Grant 1,County Treasurer,,1,REP,Jenni SWARTZ,235
+Newton,Grant 2,County Treasurer,,1,REP,Jenni SWARTZ,136
+Newton,Iroquois 1,County Treasurer,,1,REP,Jenni SWARTZ,181
+Newton,Iroquois 2,County Treasurer,,1,REP,Jenni SWARTZ,265
+Newton,Jackson,County Treasurer,,1,REP,Jenni SWARTZ,176
+Newton,Jefferson 1,County Treasurer,,1,REP,Jenni SWARTZ,284
+Newton,Jefferson 2,County Treasurer,,1,REP,Jenni SWARTZ,328
+Newton,Jefferson 3,County Treasurer,,1,REP,Jenni SWARTZ,147
+Newton,Lake 1,County Treasurer,,1,REP,Jenni SWARTZ,625
+Newton,Lake 2,County Treasurer,,1,REP,Jenni SWARTZ,397
+Newton,Lincoln 1,County Treasurer,,1,REP,Jenni SWARTZ,464
+Newton,Lincoln 2,County Treasurer,,1,REP,Jenni SWARTZ,482
+Newton,Lincoln 3,County Treasurer,,1,REP,Jenni SWARTZ,379
+Newton,Lincoln 4,County Treasurer,,1,REP,Jenni SWARTZ,436
+Newton,McClellan,County Treasurer,,1,REP,Jenni SWARTZ,81
+Newton,Washington,County Treasurer,,1,REP,Jenni SWARTZ,148
+Newton,Beaver 1,County Treasurer,,1,,Total Votes Cast,246
+Newton,Beaver 2,County Treasurer,,1,,Total Votes Cast,320
+Newton,Colfax,County Treasurer,,1,,Total Votes Cast,55
+Newton,Grant 1,County Treasurer,,1,,Total Votes Cast,235
+Newton,Grant 2,County Treasurer,,1,,Total Votes Cast,136
+Newton,Iroquois 1,County Treasurer,,1,,Total Votes Cast,181
+Newton,Iroquois 2,County Treasurer,,1,,Total Votes Cast,265
+Newton,Jackson,County Treasurer,,1,,Total Votes Cast,176
+Newton,Jefferson 1,County Treasurer,,1,,Total Votes Cast,284
+Newton,Jefferson 2,County Treasurer,,1,,Total Votes Cast,328
+Newton,Jefferson 3,County Treasurer,,1,,Total Votes Cast,147
+Newton,Lake 1,County Treasurer,,1,,Total Votes Cast,625
+Newton,Lake 2,County Treasurer,,1,,Total Votes Cast,397
+Newton,Lincoln 1,County Treasurer,,1,,Total Votes Cast,464
+Newton,Lincoln 2,County Treasurer,,1,,Total Votes Cast,482
+Newton,Lincoln 3,County Treasurer,,1,,Total Votes Cast,379
+Newton,Lincoln 4,County Treasurer,,1,,Total Votes Cast,436
+Newton,McClellan,County Treasurer,,1,,Total Votes Cast,81
+Newton,Washington,County Treasurer,,1,,Total Votes Cast,148
+Newton,Beaver 1,County Treasurer,,1,,Under Votes,66
+Newton,Beaver 2,County Treasurer,,1,,Under Votes,79
+Newton,Colfax,County Treasurer,,1,,Under Votes,16
+Newton,Grant 1,County Treasurer,,1,,Under Votes,44
+Newton,Grant 2,County Treasurer,,1,,Under Votes,18
+Newton,Iroquois 1,County Treasurer,,1,,Under Votes,33
+Newton,Iroquois 2,County Treasurer,,1,,Under Votes,44
+Newton,Jackson,County Treasurer,,1,,Under Votes,39
+Newton,Jefferson 1,County Treasurer,,1,,Under Votes,50
+Newton,Jefferson 2,County Treasurer,,1,,Under Votes,87
+Newton,Jefferson 3,County Treasurer,,1,,Under Votes,36
+Newton,Lake 1,County Treasurer,,1,,Under Votes,151
+Newton,Lake 2,County Treasurer,,1,,Under Votes,96
+Newton,Lincoln 1,County Treasurer,,1,,Under Votes,116
+Newton,Lincoln 2,County Treasurer,,1,,Under Votes,100
+Newton,Lincoln 3,County Treasurer,,1,,Under Votes,92
+Newton,Lincoln 4,County Treasurer,,1,,Under Votes,139
+Newton,McClellan,County Treasurer,,1,,Under Votes,23
+Newton,Washington,County Treasurer,,1,,Under Votes,29
+Newton,Beaver 1,County Treasurer,,1,,Over Votes,0
+Newton,Beaver 2,County Treasurer,,1,,Over Votes,0
+Newton,Colfax,County Treasurer,,1,,Over Votes,0
+Newton,Grant 1,County Treasurer,,1,,Over Votes,0
+Newton,Grant 2,County Treasurer,,1,,Over Votes,0
+Newton,Iroquois 1,County Treasurer,,1,,Over Votes,0
+Newton,Iroquois 2,County Treasurer,,1,,Over Votes,0
+Newton,Jackson,County Treasurer,,1,,Over Votes,0
+Newton,Jefferson 1,County Treasurer,,1,,Over Votes,0
+Newton,Jefferson 2,County Treasurer,,1,,Over Votes,0
+Newton,Jefferson 3,County Treasurer,,1,,Over Votes,0
+Newton,Lake 1,County Treasurer,,1,,Over Votes,0
+Newton,Lake 2,County Treasurer,,1,,Over Votes,0
+Newton,Lincoln 1,County Treasurer,,1,,Over Votes,0
+Newton,Lincoln 2,County Treasurer,,1,,Over Votes,0
+Newton,Lincoln 3,County Treasurer,,1,,Over Votes,0
+Newton,Lincoln 4,County Treasurer,,1,,Over Votes,0
+Newton,McClellan,County Treasurer,,1,,Over Votes,0
+Newton,Washington,County Treasurer,,1,,Over Votes,0
+Newton,Beaver 1,County Treasurer,,1,,Invalid Votes,2
+Newton,Beaver 2,County Treasurer,,1,,Invalid Votes,1
+Newton,Colfax,County Treasurer,,1,,Invalid Votes,0
+Newton,Grant 1,County Treasurer,,1,,Invalid Votes,0
+Newton,Grant 2,County Treasurer,,1,,Invalid Votes,0
+Newton,Iroquois 1,County Treasurer,,1,,Invalid Votes,0
+Newton,Iroquois 2,County Treasurer,,1,,Invalid Votes,0
+Newton,Jackson,County Treasurer,,1,,Invalid Votes,0
+Newton,Jefferson 1,County Treasurer,,1,,Invalid Votes,0
+Newton,Jefferson 2,County Treasurer,,1,,Invalid Votes,0
+Newton,Jefferson 3,County Treasurer,,1,,Invalid Votes,0
+Newton,Lake 1,County Treasurer,,1,,Invalid Votes,1
+Newton,Lake 2,County Treasurer,,1,,Invalid Votes,1
+Newton,Lincoln 1,County Treasurer,,1,,Invalid Votes,1
+Newton,Lincoln 2,County Treasurer,,1,,Invalid Votes,0
+Newton,Lincoln 3,County Treasurer,,1,,Invalid Votes,1
+Newton,Lincoln 4,County Treasurer,,1,,Invalid Votes,0
+Newton,McClellan,County Treasurer,,1,,Invalid Votes,0
+Newton,Washington,County Treasurer,,1,,Invalid Votes,0
+Newton,Beaver 1,County Coroner,,1,REP,Scott A McCORD,250
+Newton,Beaver 2,County Coroner,,1,REP,Scott A McCORD,317
+Newton,Colfax,County Coroner,,1,REP,Scott A McCORD,55
+Newton,Grant 1,County Coroner,,1,REP,Scott A McCORD,245
+Newton,Grant 2,County Coroner,,1,REP,Scott A McCORD,137
+Newton,Iroquois 1,County Coroner,,1,REP,Scott A McCORD,183
+Newton,Iroquois 2,County Coroner,,1,REP,Scott A McCORD,271
+Newton,Jackson,County Coroner,,1,REP,Scott A McCORD,178
+Newton,Jefferson 1,County Coroner,,1,REP,Scott A McCORD,283
+Newton,Jefferson 2,County Coroner,,1,REP,Scott A McCORD,342
+Newton,Jefferson 3,County Coroner,,1,REP,Scott A McCORD,149
+Newton,Lake 1,County Coroner,,1,REP,Scott A McCORD,629
+Newton,Lake 2,County Coroner,,1,REP,Scott A McCORD,396
+Newton,Lincoln 1,County Coroner,,1,REP,Scott A McCORD,460
+Newton,Lincoln 2,County Coroner,,1,REP,Scott A McCORD,483
+Newton,Lincoln 3,County Coroner,,1,REP,Scott A McCORD,374
+Newton,Lincoln 4,County Coroner,,1,REP,Scott A McCORD,438
+Newton,McClellan,County Coroner,,1,REP,Scott A McCORD,74
+Newton,Washington,County Coroner,,1,REP,Scott A McCORD,151
+Newton,Beaver 1,County Coroner,,1,,Total Votes Cast,250
+Newton,Beaver 2,County Coroner,,1,,Total Votes Cast,317
+Newton,Colfax,County Coroner,,1,,Total Votes Cast,55
+Newton,Grant 1,County Coroner,,1,,Total Votes Cast,245
+Newton,Grant 2,County Coroner,,1,,Total Votes Cast,137
+Newton,Iroquois 1,County Coroner,,1,,Total Votes Cast,183
+Newton,Iroquois 2,County Coroner,,1,,Total Votes Cast,271
+Newton,Jackson,County Coroner,,1,,Total Votes Cast,178
+Newton,Jefferson 1,County Coroner,,1,,Total Votes Cast,283
+Newton,Jefferson 2,County Coroner,,1,,Total Votes Cast,342
+Newton,Jefferson 3,County Coroner,,1,,Total Votes Cast,149
+Newton,Lake 1,County Coroner,,1,,Total Votes Cast,629
+Newton,Lake 2,County Coroner,,1,,Total Votes Cast,396
+Newton,Lincoln 1,County Coroner,,1,,Total Votes Cast,460
+Newton,Lincoln 2,County Coroner,,1,,Total Votes Cast,483
+Newton,Lincoln 3,County Coroner,,1,,Total Votes Cast,374
+Newton,Lincoln 4,County Coroner,,1,,Total Votes Cast,438
+Newton,McClellan,County Coroner,,1,,Total Votes Cast,74
+Newton,Washington,County Coroner,,1,,Total Votes Cast,151
+Newton,Beaver 1,County Coroner,,1,,Under Votes,62
+Newton,Beaver 2,County Coroner,,1,,Under Votes,82
+Newton,Colfax,County Coroner,,1,,Under Votes,16
+Newton,Grant 1,County Coroner,,1,,Under Votes,34
+Newton,Grant 2,County Coroner,,1,,Under Votes,17
+Newton,Iroquois 1,County Coroner,,1,,Under Votes,31
+Newton,Iroquois 2,County Coroner,,1,,Under Votes,38
+Newton,Jackson,County Coroner,,1,,Under Votes,37
+Newton,Jefferson 1,County Coroner,,1,,Under Votes,51
+Newton,Jefferson 2,County Coroner,,1,,Under Votes,73
+Newton,Jefferson 3,County Coroner,,1,,Under Votes,34
+Newton,Lake 1,County Coroner,,1,,Under Votes,147
+Newton,Lake 2,County Coroner,,1,,Under Votes,97
+Newton,Lincoln 1,County Coroner,,1,,Under Votes,120
+Newton,Lincoln 2,County Coroner,,1,,Under Votes,99
+Newton,Lincoln 3,County Coroner,,1,,Under Votes,97
+Newton,Lincoln 4,County Coroner,,1,,Under Votes,137
+Newton,McClellan,County Coroner,,1,,Under Votes,30
+Newton,Washington,County Coroner,,1,,Under Votes,26
+Newton,Beaver 1,County Coroner,,1,,Over Votes,0
+Newton,Beaver 2,County Coroner,,1,,Over Votes,0
+Newton,Colfax,County Coroner,,1,,Over Votes,0
+Newton,Grant 1,County Coroner,,1,,Over Votes,0
+Newton,Grant 2,County Coroner,,1,,Over Votes,0
+Newton,Iroquois 1,County Coroner,,1,,Over Votes,0
+Newton,Iroquois 2,County Coroner,,1,,Over Votes,0
+Newton,Jackson,County Coroner,,1,,Over Votes,0
+Newton,Jefferson 1,County Coroner,,1,,Over Votes,0
+Newton,Jefferson 2,County Coroner,,1,,Over Votes,0
+Newton,Jefferson 3,County Coroner,,1,,Over Votes,0
+Newton,Lake 1,County Coroner,,1,,Over Votes,0
+Newton,Lake 2,County Coroner,,1,,Over Votes,0
+Newton,Lincoln 1,County Coroner,,1,,Over Votes,0
+Newton,Lincoln 2,County Coroner,,1,,Over Votes,0
+Newton,Lincoln 3,County Coroner,,1,,Over Votes,0
+Newton,Lincoln 4,County Coroner,,1,,Over Votes,0
+Newton,McClellan,County Coroner,,1,,Over Votes,0
+Newton,Washington,County Coroner,,1,,Over Votes,0
+Newton,Beaver 1,County Coroner,,1,,Invalid Votes,2
+Newton,Beaver 2,County Coroner,,1,,Invalid Votes,1
+Newton,Colfax,County Coroner,,1,,Invalid Votes,0
+Newton,Grant 1,County Coroner,,1,,Invalid Votes,0
+Newton,Grant 2,County Coroner,,1,,Invalid Votes,0
+Newton,Iroquois 1,County Coroner,,1,,Invalid Votes,0
+Newton,Iroquois 2,County Coroner,,1,,Invalid Votes,0
+Newton,Jackson,County Coroner,,1,,Invalid Votes,0
+Newton,Jefferson 1,County Coroner,,1,,Invalid Votes,0
+Newton,Jefferson 2,County Coroner,,1,,Invalid Votes,0
+Newton,Jefferson 3,County Coroner,,1,,Invalid Votes,0
+Newton,Lake 1,County Coroner,,1,,Invalid Votes,1
+Newton,Lake 2,County Coroner,,1,,Invalid Votes,1
+Newton,Lincoln 1,County Coroner,,1,,Invalid Votes,1
+Newton,Lincoln 2,County Coroner,,1,,Invalid Votes,0
+Newton,Lincoln 3,County Coroner,,1,,Invalid Votes,1
+Newton,Lincoln 4,County Coroner,,1,,Invalid Votes,0
+Newton,McClellan,County Coroner,,1,,Invalid Votes,0
+Newton,Washington,County Coroner,,1,,Invalid Votes,0
+Newton,Beaver 1,County Surveyor,,1,REP,Beau J WATKINS,235
+Newton,Beaver 2,County Surveyor,,1,REP,Beau J WATKINS,306
+Newton,Colfax,County Surveyor,,1,REP,Beau J WATKINS,51
+Newton,Grant 1,County Surveyor,,1,REP,Beau J WATKINS,230
+Newton,Grant 2,County Surveyor,,1,REP,Beau J WATKINS,133
+Newton,Iroquois 1,County Surveyor,,1,REP,Beau J WATKINS,172
+Newton,Iroquois 2,County Surveyor,,1,REP,Beau J WATKINS,253
+Newton,Jackson,County Surveyor,,1,REP,Beau J WATKINS,161
+Newton,Jefferson 1,County Surveyor,,1,REP,Beau J WATKINS,275
+Newton,Jefferson 2,County Surveyor,,1,REP,Beau J WATKINS,301
+Newton,Jefferson 3,County Surveyor,,1,REP,Beau J WATKINS,141
+Newton,Lake 1,County Surveyor,,1,REP,Beau J WATKINS,606
+Newton,Lake 2,County Surveyor,,1,REP,Beau J WATKINS,397
+Newton,Lincoln 1,County Surveyor,,1,REP,Beau J WATKINS,458
+Newton,Lincoln 2,County Surveyor,,1,REP,Beau J WATKINS,477
+Newton,Lincoln 3,County Surveyor,,1,REP,Beau J WATKINS,372
+Newton,Lincoln 4,County Surveyor,,1,REP,Beau J WATKINS,432
+Newton,McClellan,County Surveyor,,1,REP,Beau J WATKINS,78
+Newton,Washington,County Surveyor,,1,REP,Beau J WATKINS,140
+Newton,Beaver 1,County Surveyor,,1,,Total Votes Cast,235
+Newton,Beaver 2,County Surveyor,,1,,Total Votes Cast,306
+Newton,Colfax,County Surveyor,,1,,Total Votes Cast,51
+Newton,Grant 1,County Surveyor,,1,,Total Votes Cast,230
+Newton,Grant 2,County Surveyor,,1,,Total Votes Cast,133
+Newton,Iroquois 1,County Surveyor,,1,,Total Votes Cast,172
+Newton,Iroquois 2,County Surveyor,,1,,Total Votes Cast,253
+Newton,Jackson,County Surveyor,,1,,Total Votes Cast,161
+Newton,Jefferson 1,County Surveyor,,1,,Total Votes Cast,275
+Newton,Jefferson 2,County Surveyor,,1,,Total Votes Cast,301
+Newton,Jefferson 3,County Surveyor,,1,,Total Votes Cast,141
+Newton,Lake 1,County Surveyor,,1,,Total Votes Cast,606
+Newton,Lake 2,County Surveyor,,1,,Total Votes Cast,397
+Newton,Lincoln 1,County Surveyor,,1,,Total Votes Cast,458
+Newton,Lincoln 2,County Surveyor,,1,,Total Votes Cast,477
+Newton,Lincoln 3,County Surveyor,,1,,Total Votes Cast,372
+Newton,Lincoln 4,County Surveyor,,1,,Total Votes Cast,432
+Newton,McClellan,County Surveyor,,1,,Total Votes Cast,78
+Newton,Washington,County Surveyor,,1,,Total Votes Cast,140
+Newton,Beaver 1,County Surveyor,,1,,Under Votes,77
+Newton,Beaver 2,County Surveyor,,1,,Under Votes,93
+Newton,Colfax,County Surveyor,,1,,Under Votes,20
+Newton,Grant 1,County Surveyor,,1,,Under Votes,49
+Newton,Grant 2,County Surveyor,,1,,Under Votes,21
+Newton,Iroquois 1,County Surveyor,,1,,Under Votes,42
+Newton,Iroquois 2,County Surveyor,,1,,Under Votes,56
+Newton,Jackson,County Surveyor,,1,,Under Votes,54
+Newton,Jefferson 1,County Surveyor,,1,,Under Votes,59
+Newton,Jefferson 2,County Surveyor,,1,,Under Votes,114
+Newton,Jefferson 3,County Surveyor,,1,,Under Votes,42
+Newton,Lake 1,County Surveyor,,1,,Under Votes,170
+Newton,Lake 2,County Surveyor,,1,,Under Votes,96
+Newton,Lincoln 1,County Surveyor,,1,,Under Votes,122
+Newton,Lincoln 2,County Surveyor,,1,,Under Votes,105
+Newton,Lincoln 3,County Surveyor,,1,,Under Votes,99
+Newton,Lincoln 4,County Surveyor,,1,,Under Votes,143
+Newton,McClellan,County Surveyor,,1,,Under Votes,26
+Newton,Washington,County Surveyor,,1,,Under Votes,37
+Newton,Beaver 1,County Surveyor,,1,,Over Votes,0
+Newton,Beaver 2,County Surveyor,,1,,Over Votes,0
+Newton,Colfax,County Surveyor,,1,,Over Votes,0
+Newton,Grant 1,County Surveyor,,1,,Over Votes,0
+Newton,Grant 2,County Surveyor,,1,,Over Votes,0
+Newton,Iroquois 1,County Surveyor,,1,,Over Votes,0
+Newton,Iroquois 2,County Surveyor,,1,,Over Votes,0
+Newton,Jackson,County Surveyor,,1,,Over Votes,0
+Newton,Jefferson 1,County Surveyor,,1,,Over Votes,0
+Newton,Jefferson 2,County Surveyor,,1,,Over Votes,0
+Newton,Jefferson 3,County Surveyor,,1,,Over Votes,0
+Newton,Lake 1,County Surveyor,,1,,Over Votes,0
+Newton,Lake 2,County Surveyor,,1,,Over Votes,0
+Newton,Lincoln 1,County Surveyor,,1,,Over Votes,0
+Newton,Lincoln 2,County Surveyor,,1,,Over Votes,0
+Newton,Lincoln 3,County Surveyor,,1,,Over Votes,0
+Newton,Lincoln 4,County Surveyor,,1,,Over Votes,0
+Newton,McClellan,County Surveyor,,1,,Over Votes,0
+Newton,Washington,County Surveyor,,1,,Over Votes,0
+Newton,Beaver 1,County Surveyor,,1,,Invalid Votes,2
+Newton,Beaver 2,County Surveyor,,1,,Invalid Votes,1
+Newton,Colfax,County Surveyor,,1,,Invalid Votes,0
+Newton,Grant 1,County Surveyor,,1,,Invalid Votes,0
+Newton,Grant 2,County Surveyor,,1,,Invalid Votes,0
+Newton,Iroquois 1,County Surveyor,,1,,Invalid Votes,0
+Newton,Iroquois 2,County Surveyor,,1,,Invalid Votes,0
+Newton,Jackson,County Surveyor,,1,,Invalid Votes,0
+Newton,Jefferson 1,County Surveyor,,1,,Invalid Votes,0
+Newton,Jefferson 2,County Surveyor,,1,,Invalid Votes,0
+Newton,Jefferson 3,County Surveyor,,1,,Invalid Votes,0
+Newton,Lake 1,County Surveyor,,1,,Invalid Votes,1
+Newton,Lake 2,County Surveyor,,1,,Invalid Votes,1
+Newton,Lincoln 1,County Surveyor,,1,,Invalid Votes,1
+Newton,Lincoln 2,County Surveyor,,1,,Invalid Votes,0
+Newton,Lincoln 3,County Surveyor,,1,,Invalid Votes,1
+Newton,Lincoln 4,County Surveyor,,1,,Invalid Votes,0
+Newton,McClellan,County Surveyor,,1,,Invalid Votes,0
+Newton,Washington,County Surveyor,,1,,Invalid Votes,0
+Newton,Beaver 1,County Commissioner,1,1,REP,Steven EILERS,246
+Newton,Beaver 2,County Commissioner,1,1,REP,Steven EILERS,303
+Newton,Colfax,County Commissioner,1,1,REP,Steven EILERS,52
+Newton,Grant 1,County Commissioner,1,1,REP,Steven EILERS,228
+Newton,Grant 2,County Commissioner,1,1,REP,Steven EILERS,126
+Newton,Iroquois 1,County Commissioner,1,1,REP,Steven EILERS,165
+Newton,Iroquois 2,County Commissioner,1,1,REP,Steven EILERS,240
+Newton,Jackson,County Commissioner,1,1,REP,Steven EILERS,159
+Newton,Jefferson 1,County Commissioner,1,1,REP,Steven EILERS,273
+Newton,Jefferson 2,County Commissioner,1,1,REP,Steven EILERS,313
+Newton,Jefferson 3,County Commissioner,1,1,REP,Steven EILERS,137
+Newton,Lake 1,County Commissioner,1,1,REP,Steven EILERS,605
+Newton,Lake 2,County Commissioner,1,1,REP,Steven EILERS,388
+Newton,Lincoln 1,County Commissioner,1,1,REP,Steven EILERS,454
+Newton,Lincoln 2,County Commissioner,1,1,REP,Steven EILERS,473
+Newton,Lincoln 3,County Commissioner,1,1,REP,Steven EILERS,366
+Newton,Lincoln 4,County Commissioner,1,1,REP,Steven EILERS,424
+Newton,McClellan,County Commissioner,1,1,REP,Steven EILERS,75
+Newton,Washington,County Commissioner,1,1,REP,Steven EILERS,424
+Newton,Beaver 1,County Commissioner,1,1,,Total Votes Cast,246
+Newton,Beaver 2,County Commissioner,1,1,,Total Votes Cast,303
+Newton,Colfax,County Commissioner,1,1,,Total Votes Cast,52
+Newton,Grant 1,County Commissioner,1,1,,Total Votes Cast,228
+Newton,Grant 2,County Commissioner,1,1,,Total Votes Cast,126
+Newton,Iroquois 1,County Commissioner,1,1,,Total Votes Cast,165
+Newton,Iroquois 2,County Commissioner,1,1,,Total Votes Cast,240
+Newton,Jackson,County Commissioner,1,1,,Total Votes Cast,159
+Newton,Jefferson 1,County Commissioner,1,1,,Total Votes Cast,273
+Newton,Jefferson 2,County Commissioner,1,1,,Total Votes Cast,313
+Newton,Jefferson 3,County Commissioner,1,1,,Total Votes Cast,137
+Newton,Lake 1,County Commissioner,1,1,,Total Votes Cast,605
+Newton,Lake 2,County Commissioner,1,1,,Total Votes Cast,388
+Newton,Lincoln 1,County Commissioner,1,1,,Total Votes Cast,454
+Newton,Lincoln 2,County Commissioner,1,1,,Total Votes Cast,473
+Newton,Lincoln 3,County Commissioner,1,1,,Total Votes Cast,366
+Newton,Lincoln 4,County Commissioner,1,1,,Total Votes Cast,424
+Newton,McClellan,County Commissioner,1,1,,Total Votes Cast,75
+Newton,Washington,County Commissioner,1,1,,Total Votes Cast,424
+Newton,Beaver 1,County Commissioner,1,1,,Under Votes,66
+Newton,Beaver 2,County Commissioner,1,1,,Under Votes,96
+Newton,Colfax,County Commissioner,1,1,,Under Votes,19
+Newton,Grant 1,County Commissioner,1,1,,Under Votes,51
+Newton,Grant 2,County Commissioner,1,1,,Under Votes,28
+Newton,Iroquois 1,County Commissioner,1,1,,Under Votes,49
+Newton,Iroquois 2,County Commissioner,1,1,,Under Votes,69
+Newton,Jackson,County Commissioner,1,1,,Under Votes,56
+Newton,Jefferson 1,County Commissioner,1,1,,Under Votes,61
+Newton,Jefferson 2,County Commissioner,1,1,,Under Votes,102
+Newton,Jefferson 3,County Commissioner,1,1,,Under Votes,46
+Newton,Lake 1,County Commissioner,1,1,,Under Votes,171
+Newton,Lake 2,County Commissioner,1,1,,Under Votes,105
+Newton,Lincoln 1,County Commissioner,1,1,,Under Votes,126
+Newton,Lincoln 2,County Commissioner,1,1,,Under Votes,109
+Newton,Lincoln 3,County Commissioner,1,1,,Under Votes,105
+Newton,Lincoln 4,County Commissioner,1,1,,Under Votes,151
+Newton,McClellan,County Commissioner,1,1,,Under Votes,29
+Newton,Washington,County Commissioner,1,1,,Under Votes,40
+Newton,Beaver 1,County Commissioner,1,1,,Over Votes,0
+Newton,Beaver 2,County Commissioner,1,1,,Over Votes,0
+Newton,Colfax,County Commissioner,1,1,,Over Votes,0
+Newton,Grant 1,County Commissioner,1,1,,Over Votes,0
+Newton,Grant 2,County Commissioner,1,1,,Over Votes,0
+Newton,Iroquois 1,County Commissioner,1,1,,Over Votes,0
+Newton,Iroquois 2,County Commissioner,1,1,,Over Votes,0
+Newton,Jackson,County Commissioner,1,1,,Over Votes,0
+Newton,Jefferson 1,County Commissioner,1,1,,Over Votes,0
+Newton,Jefferson 2,County Commissioner,1,1,,Over Votes,0
+Newton,Jefferson 3,County Commissioner,1,1,,Over Votes,0
+Newton,Lake 1,County Commissioner,1,1,,Over Votes,0
+Newton,Lake 2,County Commissioner,1,1,,Over Votes,0
+Newton,Lincoln 1,County Commissioner,1,1,,Over Votes,0
+Newton,Lincoln 2,County Commissioner,1,1,,Over Votes,0
+Newton,Lincoln 3,County Commissioner,1,1,,Over Votes,0
+Newton,Lincoln 4,County Commissioner,1,1,,Over Votes,0
+Newton,McClellan,County Commissioner,1,1,,Over Votes,0
+Newton,Washington,County Commissioner,1,1,,Over Votes,0
+Newton,Beaver 1,County Commissioner,1,1,,Invalid Votes,2
+Newton,Beaver 2,County Commissioner,1,1,,Invalid Votes,1
+Newton,Colfax,County Commissioner,1,1,,Invalid Votes,0
+Newton,Grant 1,County Commissioner,1,1,,Invalid Votes,0
+Newton,Grant 2,County Commissioner,1,1,,Invalid Votes,0
+Newton,Iroquois 1,County Commissioner,1,1,,Invalid Votes,0
+Newton,Iroquois 2,County Commissioner,1,1,,Invalid Votes,0
+Newton,Jackson,County Commissioner,1,1,,Invalid Votes,0
+Newton,Jefferson 1,County Commissioner,1,1,,Invalid Votes,0
+Newton,Jefferson 2,County Commissioner,1,1,,Invalid Votes,0
+Newton,Jefferson 3,County Commissioner,1,1,,Invalid Votes,0
+Newton,Lake 1,County Commissioner,1,1,,Invalid Votes,1
+Newton,Lake 2,County Commissioner,1,1,,Invalid Votes,1
+Newton,Lincoln 1,County Commissioner,1,1,,Invalid Votes,1
+Newton,Lincoln 2,County Commissioner,1,1,,Invalid Votes,0
+Newton,Lincoln 3,County Commissioner,1,1,,Invalid Votes,1
+Newton,Lincoln 4,County Commissioner,1,1,,Invalid Votes,0
+Newton,McClellan,County Commissioner,1,1,,Invalid Votes,0
+Newton,Washington,County Commissioner,1,1,,Invalid Votes,0
+Newton,Beaver 1,County Commissioner,3,1,REP,Rob CHURCHILL,235
+Newton,Beaver 2,County Commissioner,3,1,REP,Rob CHURCHILL,311
+Newton,Colfax,County Commissioner,3,1,REP,Rob CHURCHILL,58
+Newton,Grant 1,County Commissioner,3,1,REP,Rob CHURCHILL,222
+Newton,Grant 2,County Commissioner,3,1,REP,Rob CHURCHILL,115
+Newton,Iroquois 1,County Commissioner,3,1,REP,Rob CHURCHILL,163
+Newton,Iroquois 2,County Commissioner,3,1,REP,Rob CHURCHILL,242
+Newton,Jackson,County Commissioner,3,1,REP,Rob CHURCHILL,168
+Newton,Jefferson 1,County Commissioner,3,1,REP,Rob CHURCHILL,250
+Newton,Jefferson 2,County Commissioner,3,1,REP,Rob CHURCHILL,274
+Newton,Jefferson 3,County Commissioner,3,1,REP,Rob CHURCHILL,132
+Newton,Lake 1,County Commissioner,3,1,REP,Rob CHURCHILL,608
+Newton,Lake 2,County Commissioner,3,1,REP,Rob CHURCHILL,374
+Newton,Lincoln 1,County Commissioner,3,1,REP,Rob CHURCHILL,422
+Newton,Lincoln 2,County Commissioner,3,1,REP,Rob CHURCHILL,447
+Newton,Lincoln 3,County Commissioner,3,1,REP,Rob CHURCHILL,348
+Newton,Lincoln 4,County Commissioner,3,1,REP,Rob CHURCHILL,394
+Newton,McClellan,County Commissioner,3,1,REP,Rob CHURCHILL,81
+Newton,Washington,County Commissioner,3,1,REP,Rob CHURCHILL,143
+Newton,Beaver 1,County Commissioner,3,1,DEM,Dennis J DUNCAN,62
+Newton,Beaver 2,County Commissioner,3,1,DEM,Dennis J DUNCAN,68
+Newton,Colfax,County Commissioner,3,1,DEM,Dennis J DUNCAN,11
+Newton,Grant 1,County Commissioner,3,1,DEM,Dennis J DUNCAN,42
+Newton,Grant 2,County Commissioner,3,1,DEM,Dennis J DUNCAN,32
+Newton,Iroquois 1,County Commissioner,3,1,DEM,Dennis J DUNCAN,40
+Newton,Iroquois 2,County Commissioner,3,1,DEM,Dennis J DUNCAN,53
+Newton,Jackson,County Commissioner,3,1,DEM,Dennis J DUNCAN,41
+Newton,Jefferson 1,County Commissioner,3,1,DEM,Dennis J DUNCAN,64
+Newton,Jefferson 2,County Commissioner,3,1,DEM,Dennis J DUNCAN,115
+Newton,Jefferson 3,County Commissioner,3,1,DEM,Dennis J DUNCAN,47
+Newton,Lake 1,County Commissioner,3,1,DEM,Dennis J DUNCAN,135
+Newton,Lake 2,County Commissioner,3,1,DEM,Dennis J DUNCAN,109
+Newton,Lincoln 1,County Commissioner,3,1,DEM,Dennis J DUNCAN,137
+Newton,Lincoln 2,County Commissioner,3,1,DEM,Dennis J DUNCAN,116
+Newton,Lincoln 3,County Commissioner,3,1,DEM,Dennis J DUNCAN,100
+Newton,Lincoln 4,County Commissioner,3,1,DEM,Dennis J DUNCAN,153
+Newton,McClellan,County Commissioner,3,1,DEM,Dennis J DUNCAN,19
+Newton,Washington,County Commissioner,3,1,DEM,Dennis J DUNCAN,26
+Newton,Beaver 1,County Commissioner,3,1,,Total Votes Cast,297
+Newton,Beaver 2,County Commissioner,3,1,,Total Votes Cast,379
+Newton,Colfax,County Commissioner,3,1,,Total Votes Cast,69
+Newton,Grant 1,County Commissioner,3,1,,Total Votes Cast,264
+Newton,Grant 2,County Commissioner,3,1,,Total Votes Cast,147
+Newton,Iroquois 1,County Commissioner,3,1,,Total Votes Cast,203
+Newton,Iroquois 2,County Commissioner,3,1,,Total Votes Cast,295
+Newton,Jackson,County Commissioner,3,1,,Total Votes Cast,209
+Newton,Jefferson 1,County Commissioner,3,1,,Total Votes Cast,314
+Newton,Jefferson 2,County Commissioner,3,1,,Total Votes Cast,389
+Newton,Jefferson 3,County Commissioner,3,1,,Total Votes Cast,179
+Newton,Lake 1,County Commissioner,3,1,,Total Votes Cast,743
+Newton,Lake 2,County Commissioner,3,1,,Total Votes Cast,483
+Newton,Lincoln 1,County Commissioner,3,1,,Total Votes Cast,559
+Newton,Lincoln 2,County Commissioner,3,1,,Total Votes Cast,563
+Newton,Lincoln 3,County Commissioner,3,1,,Total Votes Cast,448
+Newton,Lincoln 4,County Commissioner,3,1,,Total Votes Cast,547
+Newton,McClellan,County Commissioner,3,1,,Total Votes Cast,100
+Newton,Washington,County Commissioner,3,1,,Total Votes Cast,169
+Newton,Beaver 1,County Commissioner,3,1,,Under Votes,15
+Newton,Beaver 2,County Commissioner,3,1,,Under Votes,20
+Newton,Colfax,County Commissioner,3,1,,Under Votes,2
+Newton,Grant 1,County Commissioner,3,1,,Under Votes,15
+Newton,Grant 2,County Commissioner,3,1,,Under Votes,6
+Newton,Iroquois 1,County Commissioner,3,1,,Under Votes,11
+Newton,Iroquois 2,County Commissioner,3,1,,Under Votes,14
+Newton,Jackson,County Commissioner,3,1,,Under Votes,6
+Newton,Jefferson 1,County Commissioner,3,1,,Under Votes,20
+Newton,Jefferson 2,County Commissioner,3,1,,Under Votes,26
+Newton,Jefferson 3,County Commissioner,3,1,,Under Votes,4
+Newton,Lake 1,County Commissioner,3,1,,Under Votes,33
+Newton,Lake 2,County Commissioner,3,1,,Under Votes,10
+Newton,Lincoln 1,County Commissioner,3,1,,Under Votes,19
+Newton,Lincoln 2,County Commissioner,3,1,,Under Votes,19
+Newton,Lincoln 3,County Commissioner,3,1,,Under Votes,23
+Newton,Lincoln 4,County Commissioner,3,1,,Under Votes,28
+Newton,McClellan,County Commissioner,3,1,,Under Votes,4
+Newton,Washington,County Commissioner,3,1,,Under Votes,8
+Newton,Beaver 1,County Commissioner,3,1,,Over Votes,0
+Newton,Beaver 2,County Commissioner,3,1,,Over Votes,0
+Newton,Colfax,County Commissioner,3,1,,Over Votes,0
+Newton,Grant 1,County Commissioner,3,1,,Over Votes,0
+Newton,Grant 2,County Commissioner,3,1,,Over Votes,1
+Newton,Iroquois 1,County Commissioner,3,1,,Over Votes,0
+Newton,Iroquois 2,County Commissioner,3,1,,Over Votes,0
+Newton,Jackson,County Commissioner,3,1,,Over Votes,0
+Newton,Jefferson 1,County Commissioner,3,1,,Over Votes,0
+Newton,Jefferson 2,County Commissioner,3,1,,Over Votes,0
+Newton,Jefferson 3,County Commissioner,3,1,,Over Votes,0
+Newton,Lake 1,County Commissioner,3,1,,Over Votes,0
+Newton,Lake 2,County Commissioner,3,1,,Over Votes,0
+Newton,Lincoln 1,County Commissioner,3,1,,Over Votes,2
+Newton,Lincoln 2,County Commissioner,3,1,,Over Votes,0
+Newton,Lincoln 3,County Commissioner,3,1,,Over Votes,0
+Newton,Lincoln 4,County Commissioner,3,1,,Over Votes,0
+Newton,McClellan,County Commissioner,3,1,,Over Votes,0
+Newton,Washington,County Commissioner,3,1,,Over Votes,0
+Newton,Beaver 1,County Commissioner,3,1,,Invalid Votes,2
+Newton,Beaver 2,County Commissioner,3,1,,Invalid Votes,1
+Newton,Colfax,County Commissioner,3,1,,Invalid Votes,0
+Newton,Grant 1,County Commissioner,3,1,,Invalid Votes,0
+Newton,Grant 2,County Commissioner,3,1,,Invalid Votes,0
+Newton,Iroquois 1,County Commissioner,3,1,,Invalid Votes,0
+Newton,Iroquois 2,County Commissioner,3,1,,Invalid Votes,0
+Newton,Jackson,County Commissioner,3,1,,Invalid Votes,0
+Newton,Jefferson 1,County Commissioner,3,1,,Invalid Votes,0
+Newton,Jefferson 2,County Commissioner,3,1,,Invalid Votes,0
+Newton,Jefferson 3,County Commissioner,3,1,,Invalid Votes,0
+Newton,Lake 1,County Commissioner,3,1,,Invalid Votes,1
+Newton,Lake 2,County Commissioner,3,1,,Invalid Votes,1
+Newton,Lincoln 1,County Commissioner,3,1,,Invalid Votes,1
+Newton,Lincoln 2,County Commissioner,3,1,,Invalid Votes,0
+Newton,Lincoln 3,County Commissioner,3,1,,Invalid Votes,1
+Newton,Lincoln 4,County Commissioner,3,1,,Invalid Votes,0
+Newton,McClellan,County Commissioner,3,1,,Invalid Votes,0
+Newton,Washington,County Commissioner,3,1,,Invalid Votes,0
+Newton,Beaver 1,County Council,At Large,3,REP,Bob GONCZY,172
+Newton,Beaver 2,County Council,At Large,3,REP,Bob GONCZY,230
+Newton,Colfax,County Council,At Large,3,REP,Bob GONCZY,41
+Newton,Grant 1,County Council,At Large,3,REP,Bob GONCZY,162
+Newton,Grant 2,County Council,At Large,3,REP,Bob GONCZY,87
+Newton,Iroquois 1,County Council,At Large,3,REP,Bob GONCZY,115
+Newton,Iroquois 2,County Council,At Large,3,REP,Bob GONCZY,174
+Newton,Jackson,County Council,At Large,3,REP,Bob GONCZY,126
+Newton,Jefferson 1,County Council,At Large,3,REP,Bob GONCZY,187
+Newton,Jefferson 2,County Council,At Large,3,REP,Bob GONCZY,205
+Newton,Jefferson 3,County Council,At Large,3,REP,Bob GONCZY,84
+Newton,Lake 1,County Council,At Large,3,REP,Bob GONCZY,403
+Newton,Lake 2,County Council,At Large,3,REP,Bob GONCZY,264
+Newton,Lincoln 1,County Council,At Large,3,REP,Bob GONCZY,306
+Newton,Lincoln 2,County Council,At Large,3,REP,Bob GONCZY,318
+Newton,Lincoln 3,County Council,At Large,3,REP,Bob GONCZY,249
+Newton,Lincoln 4,County Council,At Large,3,REP,Bob GONCZY,250
+Newton,McClellan,County Council,At Large,3,REP,Bob GONCZY,52
+Newton,Washington,County Council,At Large,3,REP,Bob GONCZY,108
+Newton,Beaver 1,County Council,At Large,3,REP,Heidi L McCORD,156
+Newton,Beaver 2,County Council,At Large,3,REP,Heidi L McCORD,201
+Newton,Colfax,County Council,At Large,3,REP,Heidi L McCORD,46
+Newton,Grant 1,County Council,At Large,3,REP,Heidi L McCORD,185
+Newton,Grant 2,County Council,At Large,3,REP,Heidi L McCORD,101
+Newton,Iroquois 1,County Council,At Large,3,REP,Heidi L McCORD,133
+Newton,Iroquois 2,County Council,At Large,3,REP,Heidi L McCORD,191
+Newton,Jackson,County Council,At Large,3,REP,Heidi L McCORD,106
+Newton,Jefferson 1,County Council,At Large,3,REP,Heidi L McCORD,220
+Newton,Jefferson 2,County Council,At Large,3,REP,Heidi L McCORD,241
+Newton,Jefferson 3,County Council,At Large,3,REP,Heidi L McCORD,116
+Newton,Lake 1,County Council,At Large,3,REP,Heidi L McCORD,349
+Newton,Lake 2,County Council,At Large,3,REP,Heidi L McCORD,228
+Newton,Lincoln 1,County Council,At Large,3,REP,Heidi L McCORD,280
+Newton,Lincoln 2,County Council,At Large,3,REP,Heidi L McCORD,295
+Newton,Lincoln 3,County Council,At Large,3,REP,Heidi L McCORD,221
+Newton,Lincoln 4,County Council,At Large,3,REP,Heidi L McCORD,243
+Newton,McClellan,County Council,At Large,3,REP,Heidi L McCORD,44
+Newton,Washington,County Council,At Large,3,REP,Heidi L McCORD,119
+Newton,Beaver 1,County Council,At Large,3,REP,Mick VANDERWALL,182
+Newton,Beaver 2,County Council,At Large,3,REP,Mick VANDERWALL,250
+Newton,Colfax,County Council,At Large,3,REP,Mick VANDERWALL,52
+Newton,Grant 1,County Council,At Large,3,REP,Mick VANDERWALL,162
+Newton,Grant 2,County Council,At Large,3,REP,Mick VANDERWALL,89
+Newton,Iroquois 1,County Council,At Large,3,REP,Mick VANDERWALL,122
+Newton,Iroquois 2,County Council,At Large,3,REP,Mick VANDERWALL,200
+Newton,Jackson,County Council,At Large,3,REP,Mick VANDERWALL,120
+Newton,Jefferson 1,County Council,At Large,3,REP,Mick VANDERWALL,190
+Newton,Jefferson 2,County Council,At Large,3,REP,Mick VANDERWALL,223
+Newton,Jefferson 3,County Council,At Large,3,REP,Mick VANDERWALL,87
+Newton,Lake 1,County Council,At Large,3,REP,Mick VANDERWALL,353
+Newton,Lake 2,County Council,At Large,3,REP,Mick VANDERWALL,224
+Newton,Lincoln 1,County Council,At Large,3,REP,Mick VANDERWALL,268
+Newton,Lincoln 2,County Council,At Large,3,REP,Mick VANDERWALL,304
+Newton,Lincoln 3,County Council,At Large,3,REP,Mick VANDERWALL,214
+Newton,Lincoln 4,County Council,At Large,3,REP,Mick VANDERWALL,237
+Newton,McClellan,County Council,At Large,3,REP,Mick VANDERWALL,54
+Newton,Washington,County Council,At Large,3,REP,Mick VANDERWALL,106
+Newton,Beaver 1,County Council,At Large,3,DEM,Dean DUNCAN,83
+Newton,Beaver 2,County Council,At Large,3,DEM,Dean DUNCAN,86
+Newton,Colfax,County Council,At Large,3,DEM,Dean DUNCAN,10
+Newton,Grant 1,County Council,At Large,3,DEM,Dean DUNCAN,44
+Newton,Grant 2,County Council,At Large,3,DEM,Dean DUNCAN,27
+Newton,Iroquois 1,County Council,At Large,3,DEM,Dean DUNCAN,38
+Newton,Iroquois 2,County Council,At Large,3,DEM,Dean DUNCAN,51
+Newton,Jackson,County Council,At Large,3,DEM,Dean DUNCAN,52
+Newton,Jefferson 1,County Council,At Large,3,DEM,Dean DUNCAN,58
+Newton,Jefferson 2,County Council,At Large,3,DEM,Dean DUNCAN,88
+Newton,Jefferson 3,County Council,At Large,3,DEM,Dean DUNCAN,36
+Newton,Lake 1,County Council,At Large,3,DEM,Dean DUNCAN,139
+Newton,Lake 2,County Council,At Large,3,DEM,Dean DUNCAN,115
+Newton,Lincoln 1,County Council,At Large,3,DEM,Dean DUNCAN,117
+Newton,Lincoln 2,County Council,At Large,3,DEM,Dean DUNCAN,122
+Newton,Lincoln 3,County Council,At Large,3,DEM,Dean DUNCAN,96
+Newton,Lincoln 4,County Council,At Large,3,DEM,Dean DUNCAN,137
+Newton,McClellan,County Council,At Large,3,DEM,Dean DUNCAN,22
+Newton,Washington,County Council,At Large,3,DEM,Dean DUNCAN,24
+Newton,Beaver 1,County Council,At Large,3,DEM,Lester T MOORE,46
+Newton,Beaver 2,County Council,At Large,3,DEM,Lester T MOORE,54
+Newton,Colfax,County Council,At Large,3,DEM,Lester T MOORE,10
+Newton,Grant 1,County Council,At Large,3,DEM,Lester T MOORE,22
+Newton,Grant 2,County Council,At Large,3,DEM,Lester T MOORE,19
+Newton,Iroquois 1,County Council,At Large,3,DEM,Lester T MOORE,25
+Newton,Iroquois 2,County Council,At Large,3,DEM,Lester T MOORE,34
+Newton,Jackson,County Council,At Large,3,DEM,Lester T MOORE,37
+Newton,Jefferson 1,County Council,At Large,3,DEM,Lester T MOORE,43
+Newton,Jefferson 2,County Council,At Large,3,DEM,Lester T MOORE,74
+Newton,Jefferson 3,County Council,At Large,3,DEM,Lester T MOORE,31
+Newton,Lake 1,County Council,At Large,3,DEM,Lester T MOORE,76
+Newton,Lake 2,County Council,At Large,3,DEM,Lester T MOORE,58
+Newton,Lincoln 1,County Council,At Large,3,DEM,Lester T MOORE,80
+Newton,Lincoln 2,County Council,At Large,3,DEM,Lester T MOORE,87
+Newton,Lincoln 3,County Council,At Large,3,DEM,Lester T MOORE,56
+Newton,Lincoln 4,County Council,At Large,3,DEM,Lester T MOORE,98
+Newton,McClellan,County Council,At Large,3,DEM,Lester T MOORE,18
+Newton,Washington,County Council,At Large,3,DEM,Lester T MOORE,19
+Newton,Beaver 1,County Council,At Large,3,,Total Votes Cast,639
+Newton,Beaver 2,County Council,At Large,3,,Total Votes Cast,821
+Newton,Colfax,County Council,At Large,3,,Total Votes Cast,159
+Newton,Grant 1,County Council,At Large,3,,Total Votes Cast,575
+Newton,Grant 2,County Council,At Large,3,,Total Votes Cast,323
+Newton,Iroquois 1,County Council,At Large,3,,Total Votes Cast,433
+Newton,Iroquois 2,County Council,At Large,3,,Total Votes Cast,650
+Newton,Jackson,County Council,At Large,3,,Total Votes Cast,441
+Newton,Jefferson 1,County Council,At Large,3,,Total Votes Cast,698
+Newton,Jefferson 2,County Council,At Large,3,,Total Votes Cast,831
+Newton,Jefferson 3,County Council,At Large,3,,Total Votes Cast,354
+Newton,Lake 1,County Council,At Large,3,,Total Votes Cast,1320
+Newton,Lake 2,County Council,At Large,3,,Total Votes Cast,889
+Newton,Lincoln 1,County Council,At Large,3,,Total Votes Cast,1051
+Newton,Lincoln 2,County Council,At Large,3,,Total Votes Cast,1126
+Newton,Lincoln 3,County Council,At Large,3,,Total Votes Cast,836
+Newton,Lincoln 4,County Council,At Large,3,,Total Votes Cast,965
+Newton,McClellan,County Council,At Large,3,,Total Votes Cast,190
+Newton,Washington,County Council,At Large,3,,Total Votes Cast,376
+Newton,Beaver 1,County Council,At Large,3,,Under Votes,303
+Newton,Beaver 2,County Council,At Large,3,,Under Votes,379
+Newton,Colfax,County Council,At Large,3,,Under Votes,54
+Newton,Grant 1,County Council,At Large,3,,Under Votes,259
+Newton,Grant 2,County Council,At Large,3,,Under Votes,139
+Newton,Iroquois 1,County Council,At Large,3,,Under Votes,209
+Newton,Iroquois 2,County Council,At Large,3,,Under Votes,274
+Newton,Jackson,County Council,At Large,3,,Under Votes,204
+Newton,Jefferson 1,County Council,At Large,3,,Under Votes,304
+Newton,Jefferson 2,County Council,At Large,3,,Under Votes,414
+Newton,Jefferson 3,County Council,At Large,3,,Under Votes,195
+Newton,Lake 1,County Council,At Large,3,,Under Votes,1011
+Newton,Lake 2,County Council,At Large,3,,Under Votes,593
+Newton,Lincoln 1,County Council,At Large,3,,Under Votes,692
+Newton,Lincoln 2,County Council,At Large,3,,Under Votes,620
+Newton,Lincoln 3,County Council,At Large,3,,Under Votes,577
+Newton,Lincoln 4,County Council,At Large,3,,Under Votes,760
+Newton,McClellan,County Council,At Large,3,,Under Votes,122
+Newton,Washington,County Council,At Large,3,,Under Votes,155
+Newton,Beaver 1,County Council,At Large,3,,Over Votes,0
+Newton,Beaver 2,County Council,At Large,3,,Over Votes,0
+Newton,Colfax,County Council,At Large,3,,Over Votes,0
+Newton,Grant 1,County Council,At Large,3,,Over Votes,1
+Newton,Grant 2,County Council,At Large,3,,Over Votes,0
+Newton,Iroquois 1,County Council,At Large,3,,Over Votes,0
+Newton,Iroquois 2,County Council,At Large,3,,Over Votes,1
+Newton,Jackson,County Council,At Large,3,,Over Votes,0
+Newton,Jefferson 1,County Council,At Large,3,,Over Votes,0
+Newton,Jefferson 2,County Council,At Large,3,,Over Votes,0
+Newton,Jefferson 3,County Council,At Large,3,,Over Votes,0
+Newton,Lake 1,County Council,At Large,3,,Over Votes,0
+Newton,Lake 2,County Council,At Large,3,,Over Votes,0
+Newton,Lincoln 1,County Council,At Large,3,,Over Votes,0
+Newton,Lincoln 2,County Council,At Large,3,,Over Votes,0
+Newton,Lincoln 3,County Council,At Large,3,,Over Votes,1
+Newton,Lincoln 4,County Council,At Large,3,,Over Votes,0
+Newton,McClellan,County Council,At Large,3,,Over Votes,0
+Newton,Washington,County Council,At Large,3,,Over Votes,0
+Newton,Grant 1,Town Council Member,Goodland,2,IND,Jim BUTLER,123
+Newton,Grant 2,Town Council Member,Goodland,2,IND,Jim BUTLER,60
+Newton,Grant 1,Town Council Member,Goodland,2,IND,Jake RUDISIL,164
+Newton,Grant 2,Town Council Member,Goodland,2,IND,Jake RUDISIL,73
+Newton,Grant 1,Town Council Member,Goodland,2,IND,Total Votes Cast,287
+Newton,Grant 2,Town Council Member,Goodland,2,IND,Total Votes Cast,133
+Newton,Grant 1,Town Council Member,Goodland,2,IND,Under Votes,229
+Newton,Grant 2,Town Council Member,Goodland,2,IND,Under Votes,95
+Newton,Grant 1,Town Council Member,Goodland,2,IND,Over Votes,0
+Newton,Grant 2,Town Council Member,Goodland,2,IND,Over Votes,0
+Newton,Beaver 1,School Board Member,"North Newton School Board, At Large",1,,Michael S MARK,130
+Newton,Beaver 2,School Board Member,"North Newton School Board, At Large",1,,Michael S MARK,163
+Newton,Colfax,School Board Member,"North Newton School Board, At Large",1,,Michael S MARK,25
+Newton,Jackson,School Board Member,"North Newton School Board, At Large",1,,Michael S MARK,92
+Newton,Lake 1,School Board Member,"North Newton School Board, At Large",1,,Michael S MARK,272
+Newton,Lake 2,School Board Member,"North Newton School Board, At Large",1,,Michael S MARK,228
+Newton,Lincoln 1,School Board Member,"North Newton School Board, At Large",1,,Michael S MARK,243
+Newton,Lincoln 2,School Board Member,"North Newton School Board, At Large",1,,Michael S MARK,283
+Newton,Lincoln 3,School Board Member,"North Newton School Board, At Large",1,,Michael S MARK,188
+Newton,Lincoln 4,School Board Member,"North Newton School Board, At Large",1,,Michael S MARK,232
+Newton,McClellan,School Board Member,"North Newton School Board, At Large",1,,Michael S MARK,39
+Newton,Beaver 1,School Board Member,"North Newton School Board, At Large",1,,Write-In,83
+Newton,Beaver 2,School Board Member,"North Newton School Board, At Large",1,,Write-In,117
+Newton,Colfax,School Board Member,"North Newton School Board, At Large",1,,Write-In,25
+Newton,Jackson,School Board Member,"North Newton School Board, At Large",1,,Write-In,30
+Newton,Lake 1,School Board Member,"North Newton School Board, At Large",1,,Write-In,206
+Newton,Lake 2,School Board Member,"North Newton School Board, At Large",1,,Write-In,102
+Newton,Lincoln 1,School Board Member,"North Newton School Board, At Large",1,,Write-In,97
+Newton,Lincoln 2,School Board Member,"North Newton School Board, At Large",1,,Write-In,115
+Newton,Lincoln 3,School Board Member,"North Newton School Board, At Large",1,,Write-In,99
+Newton,Lincoln 4,School Board Member,"North Newton School Board, At Large",1,,Write-In,136
+Newton,McClellan,School Board Member,"North Newton School Board, At Large",1,,Write-In,36
+Newton,Beaver 1,School Board Member,"North Newton School Board, At Large",1,,Total Votes Cast,213
+Newton,Beaver 2,School Board Member,"North Newton School Board, At Large",1,,Total Votes Cast,280
+Newton,Colfax,School Board Member,"North Newton School Board, At Large",1,,Total Votes Cast,50
+Newton,Jackson,School Board Member,"North Newton School Board, At Large",1,,Total Votes Cast,122
+Newton,Lake 1,School Board Member,"North Newton School Board, At Large",1,,Total Votes Cast,478
+Newton,Lake 2,School Board Member,"North Newton School Board, At Large",1,,Total Votes Cast,330
+Newton,Lincoln 1,School Board Member,"North Newton School Board, At Large",1,,Total Votes Cast,340
+Newton,Lincoln 2,School Board Member,"North Newton School Board, At Large",1,,Total Votes Cast,398
+Newton,Lincoln 3,School Board Member,"North Newton School Board, At Large",1,,Total Votes Cast,287
+Newton,Lincoln 4,School Board Member,"North Newton School Board, At Large",1,,Total Votes Cast,368
+Newton,McClellan,School Board Member,"North Newton School Board, At Large",1,,Total Votes Cast,75
+Newton,Beaver 1,School Board Member,"North Newton School Board, At Large",1,,Under Votes,101
+Newton,Beaver 2,School Board Member,"North Newton School Board, At Large",1,,Under Votes,120
+Newton,Colfax,School Board Member,"North Newton School Board, At Large",1,,Under Votes,21
+Newton,Jackson,School Board Member,"North Newton School Board, At Large",1,,Under Votes,93
+Newton,Lake 1,School Board Member,"North Newton School Board, At Large",1,,Under Votes,299
+Newton,Lake 2,School Board Member,"North Newton School Board, At Large",1,,Under Votes,164
+Newton,Lincoln 1,School Board Member,"North Newton School Board, At Large",1,,Under Votes,240
+Newton,Lincoln 2,School Board Member,"North Newton School Board, At Large",1,,Under Votes,182
+Newton,Lincoln 3,School Board Member,"North Newton School Board, At Large",1,,Under Votes,185
+Newton,Lincoln 4,School Board Member,"North Newton School Board, At Large",1,,Under Votes,206
+Newton,McClellan,School Board Member,"North Newton School Board, At Large",1,,Under Votes,29
+Newton,Beaver 1,School Board Member,"North Newton School Board, At Large",1,,Over Votes,0
+Newton,Beaver 2,School Board Member,"North Newton School Board, At Large",1,,Over Votes,0
+Newton,Colfax,School Board Member,"North Newton School Board, At Large",1,,Over Votes,0
+Newton,Jackson,School Board Member,"North Newton School Board, At Large",1,,Over Votes,0
+Newton,Lake 1,School Board Member,"North Newton School Board, At Large",1,,Over Votes,0
+Newton,Lake 2,School Board Member,"North Newton School Board, At Large",1,,Over Votes,0
+Newton,Lincoln 1,School Board Member,"North Newton School Board, At Large",1,,Over Votes,1
+Newton,Lincoln 2,School Board Member,"North Newton School Board, At Large",1,,Over Votes,2
+Newton,Lincoln 3,School Board Member,"North Newton School Board, At Large",1,,Over Votes,0
+Newton,Lincoln 4,School Board Member,"North Newton School Board, At Large",1,,Over Votes,1
+Newton,McClellan,School Board Member,"North Newton School Board, At Large",1,,Over Votes,0
+Newton,Beaver 1,School Board Member,"North Newton School Board, Beaver Township",1,,Diane L JARVIS-GONCZY,194
+Newton,Beaver 2,School Board Member,"North Newton School Board, Beaver Township",1,,Diane L JARVIS-GONCZY,254
+Newton,Beaver 1,School Board Member,"North Newton School Board, Beaver Township",1,,Total Votes Cast,194
+Newton,Beaver 2,School Board Member,"North Newton School Board, Beaver Township",1,,Total Votes Cast,254
+Newton,Beaver 1,School Board Member,"North Newton School Board, Beaver Township",1,,Under Votes,120
+Newton,Beaver 2,School Board Member,"North Newton School Board, Beaver Township",1,,Under Votes,146
+Newton,Beaver 1,School Board Member,"North Newton School Board, Beaver Township",1,,Over Votes,0
+Newton,Beaver 2,School Board Member,"North Newton School Board, Beaver Township",1,,Over Votes,0
+Newton,Lake 1,School Board Member,"North Newton School Board, Lake Township",1,,Samantha G HICKEL,352
+Newton,Lake 2,School Board Member,"North Newton School Board, Lake Township",1,,Samantha G HICKEL,291
+Newton,Lake 1,School Board Member,"North Newton School Board, Lake Township",1,,Total Votes Cast,352
+Newton,Lake 2,School Board Member,"North Newton School Board, Lake Township",1,,Total Votes Cast,291
+Newton,Lake 1,School Board Member,"North Newton School Board, Lake Township",1,,Under Votes,425
+Newton,Lake 2,School Board Member,"North Newton School Board, Lake Township",1,,Under Votes,203
+Newton,Lake 1,School Board Member,"North Newton School Board, Lake Township",1,,Over Votes,0
+Newton,Lake 2,School Board Member,"North Newton School Board, Lake Township",1,,Over Votes,0
+Newton,McClellan,School Board Member,"North Newton School Board, McClellan Township",1,,Tiffany R FOX,62
+Newton,McClellan,School Board Member,"North Newton School Board, McClellan Township",1,,Total Votes Cast,62
+Newton,McClellan,School Board Member,"North Newton School Board, McClellan Township",1,,Under Votes,42
+Newton,McClellan,School Board Member,"North Newton School Board, McClellan Township",1,,Over Votes,0
+Newton,Jefferson 1,School Board Member,South Newton School District 2,1,,Anji STRASBURGER,254
+Newton,Jefferson 2,School Board Member,South Newton School District 2,1,,Anji STRASBURGER,288
+Newton,Jefferson 3,School Board Member,South Newton School District 2,1,,Anji STRASBURGER,118
+Newton,Washington,School Board Member,South Newton School District 2,1,,Anji STRASBURGER,122
+Newton,Jefferson 1,School Board Member,South Newton School District 2,1,,Total Votes Cast,254
+Newton,Jefferson 2,School Board Member,South Newton School District 2,1,,Total Votes Cast,288
+Newton,Jefferson 3,School Board Member,South Newton School District 2,1,,Total Votes Cast,118
+Newton,Washington,School Board Member,South Newton School District 2,1,,Total Votes Cast,122
+Newton,Jefferson 1,School Board Member,South Newton School District 2,1,,Under Votes,80
+Newton,Jefferson 2,School Board Member,South Newton School District 2,1,,Under Votes,127
+Newton,Jefferson 3,School Board Member,South Newton School District 2,1,,Under Votes,65
+Newton,Washington,School Board Member,South Newton School District 2,1,,Under Votes,55
+Newton,Jefferson 1,School Board Member,South Newton School District 2,1,,Over Votes,0
+Newton,Jefferson 2,School Board Member,South Newton School District 2,1,,Over Votes,0
+Newton,Jefferson 3,School Board Member,South Newton School District 2,1,,Over Votes,0
+Newton,Washington,School Board Member,South Newton School District 2,1,,Over Votes,0
+Newton,Grant 1,School Board Member,South Newton School District 3,1,,Catherine R ZEIDER,204
+Newton,Grant 2,School Board Member,South Newton School District 3,1,,Catherine R ZEIDER,123
+Newton,Washington,School Board Member,South Newton School District 3,1,,Catherine R ZEIDER,121
+Newton,Grant 1,School Board Member,South Newton School District 3,1,,Total Votes Cast,204
+Newton,Grant 2,School Board Member,South Newton School District 3,1,,Total Votes Cast,123
+Newton,Washington,School Board Member,South Newton School District 3,1,,Total Votes Cast,121
+Newton,Grant 1,School Board Member,South Newton School District 3,1,,Under Votes,75
+Newton,Grant 2,School Board Member,South Newton School District 3,1,,Under Votes,31
+Newton,Washington,School Board Member,South Newton School District 3,1,,Under Votes,56
+Newton,Grant 1,School Board Member,South Newton School District 3,1,,Over Votes,0
+Newton,Grant 2,School Board Member,South Newton School District 3,1,,Over Votes,0
+Newton,Washington,School Board Member,South Newton School District 3,1,,Over Votes,0
+Newton,Iroquois 1,School Board Member,South Newton School District 5,1,,Candance D ARMSTRONG,92
+Newton,Iroquois 2,School Board Member,South Newton School District 5,1,,Candance D ARMSTRONG,141
+Newton,Washington,School Board Member,South Newton School District 5,1,,Candance D ARMSTRONG,85
+Newton,Iroquois 1,School Board Member,South Newton School District 5,1,,Ryan E CORBETT,90
+Newton,Iroquois 2,School Board Member,South Newton School District 5,1,,Ryan E CORBETT,133
+Newton,Washington,School Board Member,South Newton School District 5,1,,Ryan E CORBETT,53
+Newton,Iroquois 1,School Board Member,South Newton School District 5,1,,Total Votes Cast,182
+Newton,Iroquois 2,School Board Member,South Newton School District 5,1,,Total Votes Cast,274
+Newton,Washington,School Board Member,South Newton School District 5,1,,Total Votes Cast,138
+Newton,Iroquois 1,School Board Member,South Newton School District 5,1,,Under Votes,32
+Newton,Iroquois 2,School Board Member,South Newton School District 5,1,,Under Votes,35
+Newton,Washington,School Board Member,South Newton School District 5,1,,Under Votes,39
+Newton,Iroquois 1,School Board Member,South Newton School District 5,1,,Over Votes,0
+Newton,Iroquois 2,School Board Member,South Newton School District 5,1,,Over Votes,0
+Newton,Washington,School Board Member,South Newton School District 5,1,,Over Votes,0
+Newton,Beaver 1,IN Supreme Court-Rush,,1,,Yes,149
+Newton,Beaver 2,IN Supreme Court-Rush,,1,,Yes,193
+Newton,Colfax,IN Supreme Court-Rush,,1,,Yes,39
+Newton,Grant 1,IN Supreme Court-Rush,,1,,Yes,165
+Newton,Grant 2,IN Supreme Court-Rush,,1,,Yes,95
+Newton,Iroquois 1,IN Supreme Court-Rush,,1,,Yes,127
+Newton,Iroquois 2,IN Supreme Court-Rush,,1,,Yes,186
+Newton,Jackson,IN Supreme Court-Rush,,1,,Yes,97
+Newton,Jefferson 1,IN Supreme Court-Rush,,1,,Yes,223
+Newton,Jefferson 2,IN Supreme Court-Rush,,1,,Yes,245
+Newton,Jefferson 3,IN Supreme Court-Rush,,1,,Yes,99
+Newton,Lake 1,IN Supreme Court-Rush,,1,,Yes,348
+Newton,Lake 2,IN Supreme Court-Rush,,1,,Yes,264
+Newton,Lincoln 1,IN Supreme Court-Rush,,1,,Yes,277
+Newton,Lincoln 2,IN Supreme Court-Rush,,1,,Yes,310
+Newton,Lincoln 3,IN Supreme Court-Rush,,1,,Yes,229
+Newton,Lincoln 4,IN Supreme Court-Rush,,1,,Yes,276
+Newton,McClellan,IN Supreme Court-Rush,,1,,Yes,51
+Newton,Washington,IN Supreme Court-Rush,,1,,Yes,107
+Newton,Beaver 1,IN Supreme Court-Rush,,1,,No,52
+Newton,Beaver 2,IN Supreme Court-Rush,,1,,No,88
+Newton,Colfax,IN Supreme Court-Rush,,1,,No,12
+Newton,Grant 1,IN Supreme Court-Rush,,1,,No,47
+Newton,Grant 2,IN Supreme Court-Rush,,1,,No,32
+Newton,Iroquois 1,IN Supreme Court-Rush,,1,,No,31
+Newton,Iroquois 2,IN Supreme Court-Rush,,1,,No,54
+Newton,Jackson,IN Supreme Court-Rush,,1,,No,45
+Newton,Jefferson 1,IN Supreme Court-Rush,,1,,No,40
+Newton,Jefferson 2,IN Supreme Court-Rush,,1,,No,71
+Newton,Jefferson 3,IN Supreme Court-Rush,,1,,No,29
+Newton,Lake 1,IN Supreme Court-Rush,,1,,No,145
+Newton,Lake 2,IN Supreme Court-Rush,,1,,No,84
+Newton,Lincoln 1,IN Supreme Court-Rush,,1,,No,120
+Newton,Lincoln 2,IN Supreme Court-Rush,,1,,No,124
+Newton,Lincoln 3,IN Supreme Court-Rush,,1,,No,89
+Newton,Lincoln 4,IN Supreme Court-Rush,,1,,No,112
+Newton,McClellan,IN Supreme Court-Rush,,1,,No,18
+Newton,Washington,IN Supreme Court-Rush,,1,,No,22
+Newton,Beaver 1,IN Supreme Court-Rush,,1,,Total Votes Cast,201
+Newton,Beaver 2,IN Supreme Court-Rush,,1,,Total Votes Cast,281
+Newton,Colfax,IN Supreme Court-Rush,,1,,Total Votes Cast,51
+Newton,Grant 1,IN Supreme Court-Rush,,1,,Total Votes Cast,212
+Newton,Grant 2,IN Supreme Court-Rush,,1,,Total Votes Cast,127
+Newton,Iroquois 1,IN Supreme Court-Rush,,1,,Total Votes Cast,158
+Newton,Iroquois 2,IN Supreme Court-Rush,,1,,Total Votes Cast,240
+Newton,Jackson,IN Supreme Court-Rush,,1,,Total Votes Cast,142
+Newton,Jefferson 1,IN Supreme Court-Rush,,1,,Total Votes Cast,263
+Newton,Jefferson 2,IN Supreme Court-Rush,,1,,Total Votes Cast,316
+Newton,Jefferson 3,IN Supreme Court-Rush,,1,,Total Votes Cast,128
+Newton,Lake 1,IN Supreme Court-Rush,,1,,Total Votes Cast,493
+Newton,Lake 2,IN Supreme Court-Rush,,1,,Total Votes Cast,348
+Newton,Lincoln 1,IN Supreme Court-Rush,,1,,Total Votes Cast,397
+Newton,Lincoln 2,IN Supreme Court-Rush,,1,,Total Votes Cast,434
+Newton,Lincoln 3,IN Supreme Court-Rush,,1,,Total Votes Cast,318
+Newton,Lincoln 4,IN Supreme Court-Rush,,1,,Total Votes Cast,388
+Newton,McClellan,IN Supreme Court-Rush,,1,,Total Votes Cast,69
+Newton,Washington,IN Supreme Court-Rush,,1,,Total Votes Cast,129
+Newton,Beaver 1,IN Supreme Court-Rush,,1,,Under Votes,113
+Newton,Beaver 2,IN Supreme Court-Rush,,1,,Under Votes,118
+Newton,Colfax,IN Supreme Court-Rush,,1,,Under Votes,20
+Newton,Grant 1,IN Supreme Court-Rush,,1,,Under Votes,67
+Newton,Grant 2,IN Supreme Court-Rush,,1,,Under Votes,27
+Newton,Iroquois 1,IN Supreme Court-Rush,,1,,Under Votes,56
+Newton,Iroquois 2,IN Supreme Court-Rush,,1,,Under Votes,69
+Newton,Jackson,IN Supreme Court-Rush,,1,,Under Votes,73
+Newton,Jefferson 1,IN Supreme Court-Rush,,1,,Under Votes,71
+Newton,Jefferson 2,IN Supreme Court-Rush,,1,,Under Votes,99
+Newton,Jefferson 3,IN Supreme Court-Rush,,1,,Under Votes,55
+Newton,Lake 1,IN Supreme Court-Rush,,1,,Under Votes,284
+Newton,Lake 2,IN Supreme Court-Rush,,1,,Under Votes,146
+Newton,Lincoln 1,IN Supreme Court-Rush,,1,,Under Votes,183
+Newton,Lincoln 2,IN Supreme Court-Rush,,1,,Under Votes,148
+Newton,Lincoln 3,IN Supreme Court-Rush,,1,,Under Votes,153
+Newton,Lincoln 4,IN Supreme Court-Rush,,1,,Under Votes,187
+Newton,McClellan,IN Supreme Court-Rush,,1,,Under Votes,35
+Newton,Washington,IN Supreme Court-Rush,,1,,Under Votes,48
+Newton,Beaver 1,IN Supreme Court-Rush,,1,,Over Votes,0
+Newton,Beaver 2,IN Supreme Court-Rush,,1,,Over Votes,1
+Newton,Colfax,IN Supreme Court-Rush,,1,,Over Votes,0
+Newton,Grant 1,IN Supreme Court-Rush,,1,,Over Votes,0
+Newton,Grant 2,IN Supreme Court-Rush,,1,,Over Votes,0
+Newton,Iroquois 1,IN Supreme Court-Rush,,1,,Over Votes,0
+Newton,Iroquois 2,IN Supreme Court-Rush,,1,,Over Votes,0
+Newton,Jackson,IN Supreme Court-Rush,,1,,Over Votes,0
+Newton,Jefferson 1,IN Supreme Court-Rush,,1,,Over Votes,0
+Newton,Jefferson 2,IN Supreme Court-Rush,,1,,Over Votes,0
+Newton,Jefferson 3,IN Supreme Court-Rush,,1,,Over Votes,0
+Newton,Lake 1,IN Supreme Court-Rush,,1,,Over Votes,0
+Newton,Lake 2,IN Supreme Court-Rush,,1,,Over Votes,0
+Newton,Lincoln 1,IN Supreme Court-Rush,,1,,Over Votes,1
+Newton,Lincoln 2,IN Supreme Court-Rush,,1,,Over Votes,0
+Newton,Lincoln 3,IN Supreme Court-Rush,,1,,Over Votes,1
+Newton,Lincoln 4,IN Supreme Court-Rush,,1,,Over Votes,0
+Newton,McClellan,IN Supreme Court-Rush,,1,,Over Votes,0
+Newton,Washington,IN Supreme Court-Rush,,1,,Over Votes,0
+Newton,Beaver 1,IN Supreme Court-Massa,,1,,Yes,144
+Newton,Beaver 2,IN Supreme Court-Massa,,1,,Yes,193
+Newton,Colfax,IN Supreme Court-Massa,,1,,Yes,41
+Newton,Grant 1,IN Supreme Court-Massa,,1,,Yes,157
+Newton,Grant 2,IN Supreme Court-Massa,,1,,Yes,95
+Newton,Iroquois 1,IN Supreme Court-Massa,,1,,Yes,118
+Newton,Iroquois 2,IN Supreme Court-Massa,,1,,Yes,182
+Newton,Jackson,IN Supreme Court-Massa,,1,,Yes,105
+Newton,Jefferson 1,IN Supreme Court-Massa,,1,,Yes,215
+Newton,Jefferson 2,IN Supreme Court-Massa,,1,,Yes,224
+Newton,Jefferson 3,IN Supreme Court-Massa,,1,,Yes,86
+Newton,Lake 1,IN Supreme Court-Massa,,1,,Yes,349
+Newton,Lake 2,IN Supreme Court-Massa,,1,,Yes,247
+Newton,Lincoln 1,IN Supreme Court-Massa,,1,,Yes,275
+Newton,Lincoln 2,IN Supreme Court-Massa,,1,,Yes,302
+Newton,Lincoln 3,IN Supreme Court-Massa,,1,,Yes,228
+Newton,Lincoln 4,IN Supreme Court-Massa,,1,,Yes,273
+Newton,McClellan,IN Supreme Court-Massa,,1,,Yes,44
+Newton,Washington,IN Supreme Court-Massa,,1,,Yes,103
+Newton,Beaver 1,IN Supreme Court-Massa,,1,,No,51
+Newton,Beaver 2,IN Supreme Court-Massa,,1,,No,75
+Newton,Colfax,IN Supreme Court-Massa,,1,,No,9
+Newton,Grant 1,IN Supreme Court-Massa,,1,,No,48
+Newton,Grant 2,IN Supreme Court-Massa,,1,,No,31
+Newton,Iroquois 1,IN Supreme Court-Massa,,1,,No,38
+Newton,Iroquois 2,IN Supreme Court-Massa,,1,,No,50
+Newton,Jackson,IN Supreme Court-Massa,,1,,No,41
+Newton,Jefferson 1,IN Supreme Court-Massa,,1,,No,41
+Newton,Jefferson 2,IN Supreme Court-Massa,,1,,No,81
+Newton,Jefferson 3,IN Supreme Court-Massa,,1,,No,35
+Newton,Lake 1,IN Supreme Court-Massa,,1,,No,135
+Newton,Lake 2,IN Supreme Court-Massa,,1,,No,91
+Newton,Lincoln 1,IN Supreme Court-Massa,,1,,No,119
+Newton,Lincoln 2,IN Supreme Court-Massa,,1,,No,130
+Newton,Lincoln 3,IN Supreme Court-Massa,,1,,No,87
+Newton,Lincoln 4,IN Supreme Court-Massa,,1,,No,115
+Newton,McClellan,IN Supreme Court-Massa,,1,,No,21
+Newton,Washington,IN Supreme Court-Massa,,1,,No,21
+Newton,Beaver 1,IN Supreme Court-Massa,,1,,Total Votes Cast,195
+Newton,Beaver 2,IN Supreme Court-Massa,,1,,Total Votes Cast,268
+Newton,Colfax,IN Supreme Court-Massa,,1,,Total Votes Cast,50
+Newton,Grant 1,IN Supreme Court-Massa,,1,,Total Votes Cast,205
+Newton,Grant 2,IN Supreme Court-Massa,,1,,Total Votes Cast,126
+Newton,Iroquois 1,IN Supreme Court-Massa,,1,,Total Votes Cast,156
+Newton,Iroquois 2,IN Supreme Court-Massa,,1,,Total Votes Cast,232
+Newton,Jackson,IN Supreme Court-Massa,,1,,Total Votes Cast,146
+Newton,Jefferson 1,IN Supreme Court-Massa,,1,,Total Votes Cast,256
+Newton,Jefferson 2,IN Supreme Court-Massa,,1,,Total Votes Cast,305
+Newton,Jefferson 3,IN Supreme Court-Massa,,1,,Total Votes Cast,121
+Newton,Lake 1,IN Supreme Court-Massa,,1,,Total Votes Cast,484
+Newton,Lake 2,IN Supreme Court-Massa,,1,,Total Votes Cast,338
+Newton,Lincoln 1,IN Supreme Court-Massa,,1,,Total Votes Cast,394
+Newton,Lincoln 2,IN Supreme Court-Massa,,1,,Total Votes Cast,432
+Newton,Lincoln 3,IN Supreme Court-Massa,,1,,Total Votes Cast,315
+Newton,Lincoln 4,IN Supreme Court-Massa,,1,,Total Votes Cast,388
+Newton,McClellan,IN Supreme Court-Massa,,1,,Total Votes Cast,65
+Newton,Washington,IN Supreme Court-Massa,,1,,Total Votes Cast,124
+Newton,Beaver 1,IN Supreme Court-Massa,,1,,Under Votes,119
+Newton,Beaver 2,IN Supreme Court-Massa,,1,,Under Votes,132
+Newton,Colfax,IN Supreme Court-Massa,,1,,Under Votes,21
+Newton,Grant 1,IN Supreme Court-Massa,,1,,Under Votes,74
+Newton,Grant 2,IN Supreme Court-Massa,,1,,Under Votes,28
+Newton,Iroquois 1,IN Supreme Court-Massa,,1,,Under Votes,58
+Newton,Iroquois 2,IN Supreme Court-Massa,,1,,Under Votes,77
+Newton,Jackson,IN Supreme Court-Massa,,1,,Under Votes,69
+Newton,Jefferson 1,IN Supreme Court-Massa,,1,,Under Votes,78
+Newton,Jefferson 2,IN Supreme Court-Massa,,1,,Under Votes,109
+Newton,Jefferson 3,IN Supreme Court-Massa,,1,,Under Votes,62
+Newton,Lake 1,IN Supreme Court-Massa,,1,,Under Votes,293
+Newton,Lake 2,IN Supreme Court-Massa,,1,,Under Votes,156
+Newton,Lincoln 1,IN Supreme Court-Massa,,1,,Under Votes,187
+Newton,Lincoln 2,IN Supreme Court-Massa,,1,,Under Votes,150
+Newton,Lincoln 3,IN Supreme Court-Massa,,1,,Under Votes,156
+Newton,Lincoln 4,IN Supreme Court-Massa,,1,,Under Votes,187
+Newton,McClellan,IN Supreme Court-Massa,,1,,Under Votes,39
+Newton,Washington,IN Supreme Court-Massa,,1,,Under Votes,53
+Newton,Beaver 1,IN Supreme Court-Massa,,1,,Over Votes,0
+Newton,Beaver 2,IN Supreme Court-Massa,,1,,Over Votes,0
+Newton,Colfax,IN Supreme Court-Massa,,1,,Over Votes,0
+Newton,Grant 1,IN Supreme Court-Massa,,1,,Over Votes,0
+Newton,Grant 2,IN Supreme Court-Massa,,1,,Over Votes,0
+Newton,Iroquois 1,IN Supreme Court-Massa,,1,,Over Votes,0
+Newton,Iroquois 2,IN Supreme Court-Massa,,1,,Over Votes,0
+Newton,Jackson,IN Supreme Court-Massa,,1,,Over Votes,0
+Newton,Jefferson 1,IN Supreme Court-Massa,,1,,Over Votes,0
+Newton,Jefferson 2,IN Supreme Court-Massa,,1,,Over Votes,1
+Newton,Jefferson 3,IN Supreme Court-Massa,,1,,Over Votes,0
+Newton,Lake 1,IN Supreme Court-Massa,,1,,Over Votes,0
+Newton,Lake 2,IN Supreme Court-Massa,,1,,Over Votes,0
+Newton,Lincoln 1,IN Supreme Court-Massa,,1,,Over Votes,0
+Newton,Lincoln 2,IN Supreme Court-Massa,,1,,Over Votes,0
+Newton,Lincoln 3,IN Supreme Court-Massa,,1,,Over Votes,1
+Newton,Lincoln 4,IN Supreme Court-Massa,,1,,Over Votes,0
+Newton,McClellan,IN Supreme Court-Massa,,1,,Over Votes,0
+Newton,Washington,IN Supreme Court-Massa,,1,,Over Votes,0
+Newton,Beaver 1,IN Supreme Court-Molter,,1,,Yes,169
+Newton,Beaver 2,IN Supreme Court-Molter,,1,,Yes,217
+Newton,Colfax,IN Supreme Court-Molter,,1,,Yes,49
+Newton,Grant 1,IN Supreme Court-Molter,,1,,Yes,190
+Newton,Grant 2,IN Supreme Court-Molter,,1,,Yes,111
+Newton,Iroquois 1,IN Supreme Court-Molter,,1,,Yes,139
+Newton,Iroquois 2,IN Supreme Court-Molter,,1,,Yes,212
+Newton,Jackson,IN Supreme Court-Molter,,1,,Yes,118
+Newton,Jefferson 1,IN Supreme Court-Molter,,1,,Yes,245
+Newton,Jefferson 2,IN Supreme Court-Molter,,1,,Yes,281
+Newton,Jefferson 3,IN Supreme Court-Molter,,1,,Yes,120
+Newton,Lake 1,IN Supreme Court-Molter,,1,,Yes,373
+Newton,Lake 2,IN Supreme Court-Molter,,1,,Yes,264
+Newton,Lincoln 1,IN Supreme Court-Molter,,1,,Yes,291
+Newton,Lincoln 2,IN Supreme Court-Molter,,1,,Yes,304
+Newton,Lincoln 3,IN Supreme Court-Molter,,1,,Yes,218
+Newton,Lincoln 4,IN Supreme Court-Molter,,1,,Yes,265
+Newton,McClellan,IN Supreme Court-Molter,,1,,Yes,63
+Newton,Washington,IN Supreme Court-Molter,,1,,Yes,120
+Newton,Beaver 1,IN Supreme Court-Molter,,1,,No,46
+Newton,Beaver 2,IN Supreme Court-Molter,,1,,No,83
+Newton,Colfax,IN Supreme Court-Molter,,1,,No,9
+Newton,Grant 1,IN Supreme Court-Molter,,1,,No,35
+Newton,Grant 2,IN Supreme Court-Molter,,1,,No,25
+Newton,Iroquois 1,IN Supreme Court-Molter,,1,,No,29
+Newton,Iroquois 2,IN Supreme Court-Molter,,1,,No,46
+Newton,Jackson,IN Supreme Court-Molter,,1,,No,42
+Newton,Jefferson 1,IN Supreme Court-Molter,,1,,No,33
+Newton,Jefferson 2,IN Supreme Court-Molter,,1,,No,66
+Newton,Jefferson 3,IN Supreme Court-Molter,,1,,No,28
+Newton,Lake 1,IN Supreme Court-Molter,,1,,No,138
+Newton,Lake 2,IN Supreme Court-Molter,,1,,No,99
+Newton,Lincoln 1,IN Supreme Court-Molter,,1,,No,118
+Newton,Lincoln 2,IN Supreme Court-Molter,,1,,No,144
+Newton,Lincoln 3,IN Supreme Court-Molter,,1,,No,100
+Newton,Lincoln 4,IN Supreme Court-Molter,,1,,No,130
+Newton,McClellan,IN Supreme Court-Molter,,1,,No,9
+Newton,Washington,IN Supreme Court-Molter,,1,,No,17
+Newton,Beaver 1,IN Supreme Court-Molter,,1,,Total Votes Cast,215
+Newton,Beaver 2,IN Supreme Court-Molter,,1,,Total Votes Cast,300
+Newton,Colfax,IN Supreme Court-Molter,,1,,Total Votes Cast,58
+Newton,Grant 1,IN Supreme Court-Molter,,1,,Total Votes Cast,225
+Newton,Grant 2,IN Supreme Court-Molter,,1,,Total Votes Cast,136
+Newton,Iroquois 1,IN Supreme Court-Molter,,1,,Total Votes Cast,168
+Newton,Iroquois 2,IN Supreme Court-Molter,,1,,Total Votes Cast,258
+Newton,Jackson,IN Supreme Court-Molter,,1,,Total Votes Cast,160
+Newton,Jefferson 1,IN Supreme Court-Molter,,1,,Total Votes Cast,278
+Newton,Jefferson 2,IN Supreme Court-Molter,,1,,Total Votes Cast,347
+Newton,Jefferson 3,IN Supreme Court-Molter,,1,,Total Votes Cast,148
+Newton,Lake 1,IN Supreme Court-Molter,,1,,Total Votes Cast,511
+Newton,Lake 2,IN Supreme Court-Molter,,1,,Total Votes Cast,363
+Newton,Lincoln 1,IN Supreme Court-Molter,,1,,Total Votes Cast,409
+Newton,Lincoln 2,IN Supreme Court-Molter,,1,,Total Votes Cast,448
+Newton,Lincoln 3,IN Supreme Court-Molter,,1,,Total Votes Cast,318
+Newton,Lincoln 4,IN Supreme Court-Molter,,1,,Total Votes Cast,395
+Newton,McClellan,IN Supreme Court-Molter,,1,,Total Votes Cast,72
+Newton,Washington,IN Supreme Court-Molter,,1,,Total Votes Cast,137
+Newton,Beaver 1,IN Supreme Court-Molter,,1,,Under Votes,98
+Newton,Beaver 2,IN Supreme Court-Molter,,1,,Under Votes,100
+Newton,Colfax,IN Supreme Court-Molter,,1,,Under Votes,13
+Newton,Grant 1,IN Supreme Court-Molter,,1,,Under Votes,54
+Newton,Grant 2,IN Supreme Court-Molter,,1,,Under Votes,18
+Newton,Iroquois 1,IN Supreme Court-Molter,,1,,Under Votes,46
+Newton,Iroquois 2,IN Supreme Court-Molter,,1,,Under Votes,51
+Newton,Jackson,IN Supreme Court-Molter,,1,,Under Votes,55
+Newton,Jefferson 1,IN Supreme Court-Molter,,1,,Under Votes,56
+Newton,Jefferson 2,IN Supreme Court-Molter,,1,,Under Votes,68
+Newton,Jefferson 3,IN Supreme Court-Molter,,1,,Under Votes,35
+Newton,Lake 1,IN Supreme Court-Molter,,1,,Under Votes,266
+Newton,Lake 2,IN Supreme Court-Molter,,1,,Under Votes,131
+Newton,Lincoln 1,IN Supreme Court-Molter,,1,,Under Votes,171
+Newton,Lincoln 2,IN Supreme Court-Molter,,1,,Under Votes,134
+Newton,Lincoln 3,IN Supreme Court-Molter,,1,,Under Votes,152
+Newton,Lincoln 4,IN Supreme Court-Molter,,1,,Under Votes,178
+Newton,McClellan,IN Supreme Court-Molter,,1,,Under Votes,32
+Newton,Washington,IN Supreme Court-Molter,,1,,Under Votes,40
+Newton,Beaver 1,IN Supreme Court-Molter,,1,,Over Votes,1
+Newton,Beaver 2,IN Supreme Court-Molter,,1,,Over Votes,0
+Newton,Colfax,IN Supreme Court-Molter,,1,,Over Votes,0
+Newton,Grant 1,IN Supreme Court-Molter,,1,,Over Votes,0
+Newton,Grant 2,IN Supreme Court-Molter,,1,,Over Votes,0
+Newton,Iroquois 1,IN Supreme Court-Molter,,1,,Over Votes,0
+Newton,Iroquois 2,IN Supreme Court-Molter,,1,,Over Votes,0
+Newton,Jackson,IN Supreme Court-Molter,,1,,Over Votes,0
+Newton,Jefferson 1,IN Supreme Court-Molter,,1,,Over Votes,0
+Newton,Jefferson 2,IN Supreme Court-Molter,,1,,Over Votes,0
+Newton,Jefferson 3,IN Supreme Court-Molter,,1,,Over Votes,0
+Newton,Lake 1,IN Supreme Court-Molter,,1,,Over Votes,0
+Newton,Lake 2,IN Supreme Court-Molter,,1,,Over Votes,0
+Newton,Lincoln 1,IN Supreme Court-Molter,,1,,Over Votes,1
+Newton,Lincoln 2,IN Supreme Court-Molter,,1,,Over Votes,0
+Newton,Lincoln 3,IN Supreme Court-Molter,,1,,Over Votes,2
+Newton,Lincoln 4,IN Supreme Court-Molter,,1,,Over Votes,2
+Newton,McClellan,IN Supreme Court-Molter,,1,,Over Votes,0
+Newton,Washington,IN Supreme Court-Molter,,1,,Over Votes,0
+Newton,Beaver 1,Court of Appeals Dist 4-Pyle III,,1,,Yes,147
+Newton,Beaver 2,Court of Appeals Dist 4-Pyle III,,1,,Yes,181
+Newton,Colfax,Court of Appeals Dist 4-Pyle III,,1,,Yes,41
+Newton,Grant 1,Court of Appeals Dist 4-Pyle III,,1,,Yes,155
+Newton,Grant 2,Court of Appeals Dist 4-Pyle III,,1,,Yes,93
+Newton,Iroquois 1,Court of Appeals Dist 4-Pyle III,,1,,Yes,121
+Newton,Iroquois 2,Court of Appeals Dist 4-Pyle III,,1,,Yes,183
+Newton,Jackson,Court of Appeals Dist 4-Pyle III,,1,,Yes,101
+Newton,Jefferson 1,Court of Appeals Dist 4-Pyle III,,1,,Yes,217
+Newton,Jefferson 2,Court of Appeals Dist 4-Pyle III,,1,,Yes,220
+Newton,Jefferson 3,Court of Appeals Dist 4-Pyle III,,1,,Yes,85
+Newton,Lake 1,Court of Appeals Dist 4-Pyle III,,1,,Yes,338
+Newton,Lake 2,Court of Appeals Dist 4-Pyle III,,1,,Yes,252
+Newton,Lincoln 1,Court of Appeals Dist 4-Pyle III,,1,,Yes,268
+Newton,Lincoln 2,Court of Appeals Dist 4-Pyle III,,1,,Yes,302
+Newton,Lincoln 3,Court of Appeals Dist 4-Pyle III,,1,,Yes,219
+Newton,Lincoln 4,Court of Appeals Dist 4-Pyle III,,1,,Yes,273
+Newton,McClellan,Court of Appeals Dist 4-Pyle III,,1,,Yes,42
+Newton,Washington,Court of Appeals Dist 4-Pyle III,,1,,Yes,99
+Newton,Beaver 1,Court of Appeals Dist 4-Pyle III,,1,,No,47
+Newton,Beaver 2,Court of Appeals Dist 4-Pyle III,,1,,No,81
+Newton,Colfax,Court of Appeals Dist 4-Pyle III,,1,,No,10
+Newton,Grant 1,Court of Appeals Dist 4-Pyle III,,1,,No,46
+Newton,Grant 2,Court of Appeals Dist 4-Pyle III,,1,,No,31
+Newton,Iroquois 1,Court of Appeals Dist 4-Pyle III,,1,,No,32
+Newton,Iroquois 2,Court of Appeals Dist 4-Pyle III,,1,,No,52
+Newton,Jackson,Court of Appeals Dist 4-Pyle III,,1,,No,43
+Newton,Jefferson 1,Court of Appeals Dist 4-Pyle III,,1,,No,35
+Newton,Jefferson 2,Court of Appeals Dist 4-Pyle III,,1,,No,85
+Newton,Jefferson 3,Court of Appeals Dist 4-Pyle III,,1,,No,34
+Newton,Lake 1,Court of Appeals Dist 4-Pyle III,,1,,No,143
+Newton,Lake 2,Court of Appeals Dist 4-Pyle III,,1,,No,86
+Newton,Lincoln 1,Court of Appeals Dist 4-Pyle III,,1,,No,124
+Newton,Lincoln 2,Court of Appeals Dist 4-Pyle III,,1,,No,122
+Newton,Lincoln 3,Court of Appeals Dist 4-Pyle III,,1,,No,89
+Newton,Lincoln 4,Court of Appeals Dist 4-Pyle III,,1,,No,113
+Newton,McClellan,Court of Appeals Dist 4-Pyle III,,1,,No,21
+Newton,Washington,Court of Appeals Dist 4-Pyle III,,1,,No,23
+Newton,Beaver 1,Court of Appeals Dist 4-Pyle III,,1,,Total Votes Cast,194
+Newton,Beaver 2,Court of Appeals Dist 4-Pyle III,,1,,Total Votes Cast,262
+Newton,Colfax,Court of Appeals Dist 4-Pyle III,,1,,Total Votes Cast,51
+Newton,Grant 1,Court of Appeals Dist 4-Pyle III,,1,,Total Votes Cast,201
+Newton,Grant 2,Court of Appeals Dist 4-Pyle III,,1,,Total Votes Cast,124
+Newton,Iroquois 1,Court of Appeals Dist 4-Pyle III,,1,,Total Votes Cast,153
+Newton,Iroquois 2,Court of Appeals Dist 4-Pyle III,,1,,Total Votes Cast,235
+Newton,Jackson,Court of Appeals Dist 4-Pyle III,,1,,Total Votes Cast,144
+Newton,Jefferson 1,Court of Appeals Dist 4-Pyle III,,1,,Total Votes Cast,252
+Newton,Jefferson 2,Court of Appeals Dist 4-Pyle III,,1,,Total Votes Cast,305
+Newton,Jefferson 3,Court of Appeals Dist 4-Pyle III,,1,,Total Votes Cast,119
+Newton,Lake 1,Court of Appeals Dist 4-Pyle III,,1,,Total Votes Cast,481
+Newton,Lake 2,Court of Appeals Dist 4-Pyle III,,1,,Total Votes Cast,338
+Newton,Lincoln 1,Court of Appeals Dist 4-Pyle III,,1,,Total Votes Cast,392
+Newton,Lincoln 2,Court of Appeals Dist 4-Pyle III,,1,,Total Votes Cast,424
+Newton,Lincoln 3,Court of Appeals Dist 4-Pyle III,,1,,Total Votes Cast,308
+Newton,Lincoln 4,Court of Appeals Dist 4-Pyle III,,1,,Total Votes Cast,386
+Newton,McClellan,Court of Appeals Dist 4-Pyle III,,1,,Total Votes Cast,63
+Newton,Washington,Court of Appeals Dist 4-Pyle III,,1,,Total Votes Cast,122
+Newton,Beaver 1,Court of Appeals Dist 4-Pyle III,,1,,Under Votes,120
+Newton,Beaver 2,Court of Appeals Dist 4-Pyle III,,1,,Under Votes,138
+Newton,Colfax,Court of Appeals Dist 4-Pyle III,,1,,Under Votes,20
+Newton,Grant 1,Court of Appeals Dist 4-Pyle III,,1,,Under Votes,78
+Newton,Grant 2,Court of Appeals Dist 4-Pyle III,,1,,Under Votes,30
+Newton,Iroquois 1,Court of Appeals Dist 4-Pyle III,,1,,Under Votes,60
+Newton,Iroquois 2,Court of Appeals Dist 4-Pyle III,,1,,Under Votes,74
+Newton,Jackson,Court of Appeals Dist 4-Pyle III,,1,,Under Votes,71
+Newton,Jefferson 1,Court of Appeals Dist 4-Pyle III,,1,,Under Votes,82
+Newton,Jefferson 2,Court of Appeals Dist 4-Pyle III,,1,,Under Votes,110
+Newton,Jefferson 3,Court of Appeals Dist 4-Pyle III,,1,,Under Votes,64
+Newton,Lake 1,Court of Appeals Dist 4-Pyle III,,1,,Under Votes,295
+Newton,Lake 2,Court of Appeals Dist 4-Pyle III,,1,,Under Votes,156
+Newton,Lincoln 1,Court of Appeals Dist 4-Pyle III,,1,,Under Votes,189
+Newton,Lincoln 2,Court of Appeals Dist 4-Pyle III,,1,,Under Votes,157
+Newton,Lincoln 3,Court of Appeals Dist 4-Pyle III,,1,,Under Votes,163
+Newton,Lincoln 4,Court of Appeals Dist 4-Pyle III,,1,,Under Votes,189
+Newton,McClellan,Court of Appeals Dist 4-Pyle III,,1,,Under Votes,41
+Newton,Washington,Court of Appeals Dist 4-Pyle III,,1,,Under Votes,55
+Newton,Beaver 1,Court of Appeals Dist 4-Pyle III,,1,,Over Votes,0
+Newton,Beaver 2,Court of Appeals Dist 4-Pyle III,,1,,Over Votes,0
+Newton,Colfax,Court of Appeals Dist 4-Pyle III,,1,,Over Votes,0
+Newton,Grant 1,Court of Appeals Dist 4-Pyle III,,1,,Over Votes,0
+Newton,Grant 2,Court of Appeals Dist 4-Pyle III,,1,,Over Votes,0
+Newton,Iroquois 1,Court of Appeals Dist 4-Pyle III,,1,,Over Votes,1
+Newton,Iroquois 2,Court of Appeals Dist 4-Pyle III,,1,,Over Votes,0
+Newton,Jackson,Court of Appeals Dist 4-Pyle III,,1,,Over Votes,0
+Newton,Jefferson 1,Court of Appeals Dist 4-Pyle III,,1,,Over Votes,0
+Newton,Jefferson 2,Court of Appeals Dist 4-Pyle III,,1,,Over Votes,0
+Newton,Jefferson 3,Court of Appeals Dist 4-Pyle III,,1,,Over Votes,0
+Newton,Lake 1,Court of Appeals Dist 4-Pyle III,,1,,Over Votes,1
+Newton,Lake 2,Court of Appeals Dist 4-Pyle III,,1,,Over Votes,0
+Newton,Lincoln 1,Court of Appeals Dist 4-Pyle III,,1,,Over Votes,0
+Newton,Lincoln 2,Court of Appeals Dist 4-Pyle III,,1,,Over Votes,1
+Newton,Lincoln 3,Court of Appeals Dist 4-Pyle III,,1,,Over Votes,1
+Newton,Lincoln 4,Court of Appeals Dist 4-Pyle III,,1,,Over Votes,0
+Newton,McClellan,Court of Appeals Dist 4-Pyle III,,1,,Over Votes,0
+Newton,Washington,Court of Appeals Dist 4-Pyle III,,1,,Over Votes,0

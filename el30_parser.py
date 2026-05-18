@@ -61,7 +61,7 @@ for line in lines:
                 party = party[0:3]
                 candidate = candidate.strip()
                 votes = line.split('    ', 3)[3].split('   ')[0].strip()
-            except:
+            except (IndexError, ValueError):
                 candidate = line.split('  ')[0]
                 party = None
                 votes = line.split('    ', 3)[3].split('   ')[0].strip()

@@ -325,7 +325,6 @@ Clark,0003 CARR 02,Court of Appeals Dist 1-Foley,,1,,No,236,124,112,0
 Clark,0003 CARR 02,Court of Appeals Dist 1-Foley,,1,,Over Votes,0,0,0,0
 Clark,0003 CARR 02,Court of Appeals Dist 1-Foley,,1,,Under Votes,444,218,226,0
 Clark,0003 CARR 02,Court of Appeals Dist 1-Foley,,1,,No,251,126,125,0
-Clark,0003 CARR 02,Court of Appeals Dist 1-Foley,,1,,Over Votes,0,0,0,0
 Clark,0003 CARR 02,Court of Appeals Dist 1-Foley,,1,,Under Votes,442,219,223,0
 Clark,0004 CHARLESTOWN 01,Registered Voters,,,,,1489,,,
 Clark,0004 CHARLESTOWN 01,Ballots Cast,,,,,874,200,673,1
@@ -657,7 +656,6 @@ Clark,0006 CHARLESTOWN 03,Court of Appeals Dist 1-Foley,,1,,Over Votes,0,0,0,0
 Clark,0006 CHARLESTOWN 03,Court of Appeals Dist 1-Foley,,1,,Under Votes,328,111,217,0
 Clark,0006 CHARLESTOWN 03,Court of Appeals Dist 1-Foley,,1,,Yes,463,155,306,2
 Clark,0006 CHARLESTOWN 03,Court of Appeals Dist 1-Foley,,1,,No,210,71,139,0
-Clark,0006 CHARLESTOWN 03,Court of Appeals Dist 1-Foley,,1,,Over Votes,0,0,0,0
 Clark,0006 CHARLESTOWN 03,Court of Appeals Dist 1-Foley,,1,,Under Votes,330,112,218,0
 Clark,0007 CHARLESTOWN 04,Registered Voters,,,,,2727,,,
 Clark,0007 CHARLESTOWN 04,Ballots Cast,,,,,1910,833,1077,0
@@ -2444,7 +2442,6 @@ Clark,0023 JEFFERSONVILLE 11,Court of Appeals Dist 1-Foley,,1,,Over Votes,0,0,0,
 Clark,0023 JEFFERSONVILLE 11,Court of Appeals Dist 1-Foley,,1,,Under Votes,143,56,87,0
 Clark,0023 JEFFERSONVILLE 11,Court of Appeals Dist 1-Foley,,1,,Yes,242,81,161,0
 Clark,0023 JEFFERSONVILLE 11,Court of Appeals Dist 1-Foley,,1,,No,123,44,79,0
-Clark,0023 JEFFERSONVILLE 11,Court of Appeals Dist 1-Foley,,1,,Over Votes,0,0,0,0
 Clark,0023 JEFFERSONVILLE 11,Court of Appeals Dist 1-Foley,,1,,Under Votes,140,52,88,0
 Clark,0024 JEFFERSONVILLE 12,Registered Voters,,,,,1036,,,
 Clark,0024 JEFFERSONVILLE 12,Ballots Cast,,,,,550,187,363,0
@@ -3903,7 +3900,7 @@ Clark,0036 JEFFERSONVILLE 25,Court of Appeals Dist 4-Pyle III,,1,,No,354,145,209
 Clark,0036 JEFFERSONVILLE 25,Court of Appeals Dist 4-Pyle III,,1,,Over Votes,0,0,0,0
 Clark,0036 JEFFERSONVILLE 25,Court of Appeals Dist 4-Pyle III,,1,,Under Votes,412,202,209,1
 Clark,0037 JEFFERSONVILLE 26,Registered Voters,,,,,1020,,,
-Clark,0037 JEFFERSONVILLE 26,Ballots Cast,,,,,56,218,338,0
+Clark,0037 JEFFERSONVILLE 26,Ballots Cast,,,,,556,218,338,0
 Clark,0037 JEFFERSONVILLE 26,Public Question-Const Amendment,,1,,Yes,190,81,109,0
 Clark,0037 JEFFERSONVILLE 26,Public Question-Const Amendment,,1,,No,213,78,135,0
 Clark,0037 JEFFERSONVILLE 26,Public Question-Const Amendment,,1,,Over Votes,0,0,0,0
@@ -4010,9 +4007,7 @@ Clark,0037 JEFFERSONVILLE 26,Court of Appeals Dist 1-Foley,,1,,Yes,272,107,165,0
 Clark,0037 JEFFERSONVILLE 26,Court of Appeals Dist 1-Foley,,1,,No,140,49,91,0
 Clark,0037 JEFFERSONVILLE 26,Court of Appeals Dist 1-Foley,,1,,Over Votes,0,0,0,0
 Clark,0037 JEFFERSONVILLE 26,Court of Appeals Dist 1-Foley,,1,,Under Votes,144,62,82,0
-Clark,0037 JEFFERSONVILLE 26,Court of Appeals Dist 1-Foley,,1,,Yes,272,107,165,0
 Clark,0037 JEFFERSONVILLE 26,Court of Appeals Dist 1-Foley,,1,,No,141,49,92,0
-Clark,0037 JEFFERSONVILLE 26,Court of Appeals Dist 1-Foley,,1,,Over Votes,0,0,0,0
 Clark,0037 JEFFERSONVILLE 26,Court of Appeals Dist 1-Foley,,1,,Under Votes,143,62,81,0
 Clark,0038 JEFFERSONVILLE 27,Registered Voters,,,,,393,,,
 Clark,0038 JEFFERSONVILLE 27,Ballots Cast,,,,,216,99,117,0
@@ -4124,8 +4119,6 @@ Clark,0038 JEFFERSONVILLE 27,Court of Appeals Dist 1-Foley,,1,,Over Votes,0,0,0,
 Clark,0038 JEFFERSONVILLE 27,Court of Appeals Dist 1-Foley,,1,,Under Votes,80,40,40,0
 Clark,0038 JEFFERSONVILLE 27,Court of Appeals Dist 1-Foley,,1,,Yes,91,38,53,0
 Clark,0038 JEFFERSONVILLE 27,Court of Appeals Dist 1-Foley,,1,,No,45,21,24,0
-Clark,0038 JEFFERSONVILLE 27,Court of Appeals Dist 1-Foley,,1,,Over Votes,0,0,0,0
-Clark,0038 JEFFERSONVILLE 27,Court of Appeals Dist 1-Foley,,1,,Under Votes,80,40,40,0
 Clark,0039 JEFFERSONVILLE 30,Registered Voters,,,,,798,,,
 Clark,0039 JEFFERSONVILLE 30,Ballots Cast,,,,,432,124,308,0
 Clark,0039 JEFFERSONVILLE 30,Public Question-Const Amendment,,1,,Yes,129,35,94,0
@@ -4332,7 +4325,6 @@ Clark,0040 JEFFERSONVILLE 31,Court of Appeals Dist 1-Foley,,1,,Over Votes,0,0,0,
 Clark,0040 JEFFERSONVILLE 31,Court of Appeals Dist 1-Foley,,1,,Under Votes,94,39,55,0
 Clark,0040 JEFFERSONVILLE 31,Court of Appeals Dist 1-Foley,,1,,Yes,221,64,157,0
 Clark,0040 JEFFERSONVILLE 31,Court of Appeals Dist 1-Foley,,1,,No,118,39,79,0
-Clark,0040 JEFFERSONVILLE 31,Court of Appeals Dist 1-Foley,,1,,Over Votes,0,0,0,0
 Clark,0040 JEFFERSONVILLE 31,Court of Appeals Dist 1-Foley,,1,,Under Votes,93,39,54,0
 Clark,0041 JEFFERSONVILLE 32,Registered Voters,,,,,561,,,
 Clark,0041 JEFFERSONVILLE 32,Ballots Cast,,,,,313,91,222,0
@@ -5730,7 +5722,6 @@ Clark,0053 MONROE 02,County Council Member,At Large,3,,Over Votes,3,3,0,0
 Clark,0053 MONROE 02,County Council Member,At Large,3,,Under Votes,1679,605,1074,0
 Clark,0053 MONROE 02,County Council Member,At Large,1,,Over Votes,0,0,0,0
 Clark,0053 MONROE 02,County Council Member,At Large,1,,Under Votes,560,255,305,0
-Clark,0053 MONROE 02,County Council Member,At Large,1,,Over Votes,0,0,0,0
 Clark,0053 MONROE 02,County Council Member,At Large,1,,Under Votes,46,22,24,0
 Clark,0053 MONROE 02,IN Supreme Court-Rush,,1,,Yes,761,323,438,0
 Clark,0053 MONROE 02,IN Supreme Court-Rush,,1,,No,291,121,170,0
@@ -6071,7 +6062,6 @@ Clark,0056 OWEN 01,Court of Appeals Dist 1-Foley,,1,,Over Votes,0,0,0,0
 Clark,0056 OWEN 01,Court of Appeals Dist 1-Foley,,1,,Under Votes,157,30,127,0
 Clark,0056 OWEN 01,Court of Appeals Dist 1-Foley,,1,,Yes,220,40,180,0
 Clark,0056 OWEN 01,Court of Appeals Dist 1-Foley,,1,,No,95,23,72,0
-Clark,0056 OWEN 01,Court of Appeals Dist 1-Foley,,1,,Over Votes,0,0,0,0
 Clark,0056 OWEN 01,Court of Appeals Dist 1-Foley,,1,,Under Votes,156,30,126,0
 Clark,0057 SILVER CREEK/CLARKSVILLE 43,Registered Voters,,,,,1422,,,
 Clark,0057 SILVER CREEK/CLARKSVILLE 43,Ballots Cast,,,,,1038,566,472,0
@@ -6495,7 +6485,6 @@ Clark,0060 SILVER CREEK 02,Court of Appeals Dist 1-Foley,,1,,Over Votes,0,0,0,0
 Clark,0060 SILVER CREEK 02,Court of Appeals Dist 1-Foley,,1,,Under Votes,110,43,67,0
 Clark,0060 SILVER CREEK 02,Court of Appeals Dist 1-Foley,,1,,Yes,244,55,189,0
 Clark,0060 SILVER CREEK 02,Court of Appeals Dist 1-Foley,,1,,No,119,35,84,0
-Clark,0060 SILVER CREEK 02,Court of Appeals Dist 1-Foley,,1,,Over Votes,0,0,0,0
 Clark,0060 SILVER CREEK 02,Court of Appeals Dist 1-Foley,,1,,Under Votes,108,43,65,0
 Clark,0061 SILVER CREEK 03,Registered Voters,,,,,1170,,,
 Clark,0061 SILVER CREEK 03,Ballots Cast,,,,,781,300,481,0
@@ -6816,7 +6805,7 @@ Clark,0063 SILVER CREEK 05,Court of Appeals Dist 4-Pyle III,,1,,No,89,33,56,0
 Clark,0063 SILVER CREEK 05,Court of Appeals Dist 4-Pyle III,,1,,Over Votes,0,0,0,0
 Clark,0063 SILVER CREEK 05,Court of Appeals Dist 4-Pyle III,,1,,Under Votes,110,52,58,0
 Clark,0064 SILVER CREEK 06,Registered Voters,,,,,2426,,,
-Clark,0064 SILVER CREEK 06,Ballots Cast,,,,,169,830,865,1
+Clark,0064 SILVER CREEK 06,Ballots Cast,,,,,1696,830,865,1
 Clark,0064 SILVER CREEK 06,Public Question-Const Amendment,,1,,Yes,626,311,315,0
 Clark,0064 SILVER CREEK 06,Public Question-Const Amendment,,1,,No,647,315,331,1
 Clark,0064 SILVER CREEK 06,Public Question-Const Amendment,,1,,Over Votes,0,0,0,0
@@ -7333,7 +7322,6 @@ Clark,0068 UTICA 01,Court of Appeals Dist 1-Foley,,1,,Over Votes,0,0,0,0
 Clark,0068 UTICA 01,Court of Appeals Dist 1-Foley,,1,,Under Votes,123,26,97,0
 Clark,0068 UTICA 01,Court of Appeals Dist 1-Foley,,1,,Yes,133,26,107,0
 Clark,0068 UTICA 01,Court of Appeals Dist 1-Foley,,1,,No,80,20,60,0
-Clark,0068 UTICA 01,Court of Appeals Dist 1-Foley,,1,,Over Votes,0,0,0,0
 Clark,0068 UTICA 01,Court of Appeals Dist 1-Foley,,1,,Under Votes,122,25,97,0
 Clark,0069 UTICA 02,Registered Voters,,,,,2766,,,
 Clark,0069 UTICA 02,Ballots Cast,,,,,1818,772,1045,1
@@ -7441,7 +7429,6 @@ Clark,0069 UTICA 02,IN Supreme Court-Molter,,1,,Over Votes,0,0,0,0
 Clark,0069 UTICA 02,IN Supreme Court-Molter,,1,,Under Votes,520,255,265,0
 Clark,0069 UTICA 02,Court of Appeals Dist 1-Foley,,1,,Yes,878,349,529,0
 Clark,0069 UTICA 02,Court of Appeals Dist 1-Foley,,1,,No,420,170,249,1
-Clark,0069 UTICA 02,Court of Appeals Dist 1-Foley,,1,,Over Votes,0,0,0,0
 Clark,0069 UTICA 02,Court of Appeals Dist 1-Foley,,1,,Under Votes,520,253,267,0
 Clark,0069 UTICA 02,Court of Appeals Dist 4-Pyle III,,1,,Yes,856,333,523,0
 Clark,0069 UTICA 02,Court of Appeals Dist 4-Pyle III,,1,,No,441,182,258,1

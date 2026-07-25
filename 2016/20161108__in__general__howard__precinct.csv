@@ -232,7 +232,6 @@ Howard,0074 Taylor A,President,,Gary Johnson,LBT,35
 Howard,0075 Taylor B,President,,Gary Johnson,LBT,23
 Howard,0076 Taylor C,President,,Gary Johnson,LBT,7
 Howard,0077 Union,President,,Gary Johnson,LBT,21
-Howard,,President,,Gary Johnson,LBT,1864
 Howard,0001 1 Clay 1,President,,Write-ins,,2
 Howard,0002 2 Clay 2,President,,Write-ins,,0
 Howard,0003 1 Howard 1,President,,Write-ins,,0
@@ -544,7 +543,6 @@ Howard,0074 Taylor A,U.S. Senate,,Lucy Brenton,LBT,48
 Howard,0075 Taylor B,U.S. Senate,,Lucy Brenton,LBT,25
 Howard,0076 Taylor C,U.S. Senate,,Lucy Brenton,LBT,10
 Howard,0077 Union,U.S. Senate,,Lucy Brenton,LBT,34
-Howard,,U.S. Senate,,Lucy Brenton,LBT,2377
 Howard,0001 1 Clay 1,U.S. Senate,,Write-ins,,0
 Howard,0002 2 Clay 2,U.S. Senate,,Write-ins,,0
 Howard,0003 1 Howard 1,U.S. Senate,,Write-ins,,0
@@ -622,7 +620,6 @@ Howard,0074 Taylor A,U.S. Senate,,Write-ins,,0
 Howard,0075 Taylor B,U.S. Senate,,Write-ins,,0
 Howard,0076 Taylor C,U.S. Senate,,Write-ins,,0
 Howard,0077 Union,U.S. Senate,,Write-ins,,2
-Howard,,U.S. Senate,,Write-ins,,31
 Howard,0001 1 Clay 1,Governor,,Eric Holcomb,REP,22
 Howard,0002 2 Clay 2,Governor,,Eric Holcomb,REP,15
 Howard,0003 1 Howard 1,Governor,,Eric Holcomb,REP,2
@@ -700,7 +697,6 @@ Howard,0074 Taylor A,Governor,,Eric Holcomb,REP,373
 Howard,0075 Taylor B,Governor,,Eric Holcomb,REP,189
 Howard,0076 Taylor C,Governor,,Eric Holcomb,REP,85
 Howard,0077 Union,Governor,,Eric Holcomb,REP,389
-Howard,,Governor,,Eric Holcomb,REP,19903
 Howard,0001 1 Clay 1,Governor,,John Gregg,DEM,22
 Howard,0002 2 Clay 2,Governor,,John Gregg,DEM,12
 Howard,0003 1 Howard 1,Governor,,John Gregg,DEM,0
@@ -934,7 +930,6 @@ Howard,0074 Taylor A,Attorney General,,Curtis Hill,REP,463
 Howard,0075 Taylor B,Attorney General,,Curtis Hill,REP,229
 Howard,0076 Taylor C,Attorney General,,Curtis Hill,REP,105
 Howard,0077 Union,Attorney General,,Curtis Hill,REP,453
-Howard,,Attorney General,,Curtis Hill,REP,24109
 Howard,0001 1 Clay 1,Attorney General,,Lorenzo Arredondo,DEM,13
 Howard,0002 2 Clay 2,Attorney General,,Lorenzo Arredondo,DEM,6
 Howard,0003 1 Howard 1,Attorney General,,Lorenzo Arredondo,DEM,0
@@ -1090,7 +1085,6 @@ Howard,0074 Taylor A,Public Instruction,,Jennifer McCormick,REP,375
 Howard,0075 Taylor B,Public Instruction,,Jennifer McCormick,REP,202
 Howard,0076 Taylor C,Public Instruction,,Jennifer McCormick,REP,77
 Howard,0077 Union,Public Instruction,,Jennifer McCormick,REP,368
-Howard,,Public Instruction,,Jennifer McCormick,REP,19675
 Howard,0001 1 Clay 1,Public Instruction,,Glenda Ritz,DEM,22
 Howard,0002 2 Clay 2,Public Instruction,,Glenda Ritz,DEM,13
 Howard,0003 1 Howard 1,Public Instruction,,Glenda Ritz,DEM,0
@@ -1246,8 +1240,6 @@ Howard,0074 Taylor A,U.S. House,5,Susan Brooks,REP,417
 Howard,0075 Taylor B,U.S. House,5,Susan Brooks,REP,212
 Howard,0076 Taylor C,U.S. House,4,Todd Rokita,REP,95
 Howard,0077 Union,U.S. House,5,Susan Brooks,REP,445
-Howard,,U.S. House,5,Susan Brooks,REP,3799
-Howard,,U.S. House,4,Todd Rokita,REP,18497
 Howard,0001 1 Clay 1,U.S. House,4,John Dale,DEM,13
 Howard,0002 2 Clay 2,U.S. House,4,John Dale,DEM,7
 Howard,0003 1 Howard 1,U.S. House,4,John Dale,DEM,0
@@ -1325,8 +1317,6 @@ Howard,0074 Taylor A,U.S. House,5,John Dale,DEM,164
 Howard,0075 Taylor B,U.S. House,5,John Dale,DEM,98
 Howard,0076 Taylor C,U.S. House,4,John Dale,DEM,31
 Howard,0077 Union,U.S. House,5,John Dale,DEM,91
-Howard,,U.S. House,5,Angela Demaree,DEM,1167
-Howard,,U.S. House,4,John Dale,DEM,11020
 Howard,0001 1 Clay 1,U.S. House,4,Steve Mayoras,LBT,4
 Howard,0002 2 Clay 2,U.S. House,4,Steve Mayoras,LBT,3
 Howard,0003 1 Howard 1,U.S. House,4,Steve Mayoras,LBT,0
@@ -1404,8 +1394,6 @@ Howard,0074 Taylor A,U.S. House,5,Matthew Wittlief,LBT,38
 Howard,0075 Taylor B,U.S. House,5,Matthew Wittlief,LBT,24
 Howard,0076 Taylor C,U.S. House,4,Steve Mayoras,LBT,7
 Howard,0077 Union,U.S. House,5,Matthew Wittlief,LBT,24
-Howard,,U.S. House,5,Matthew Wittlief,LBT,242
-Howard,,U.S. House,4,Steve Mayoras,LBT,1781
 Howard,0001 1 Clay 1,State House,30,Mike Karickhoff,REP,27
 Howard,0002 2 Clay 2,State House,38,Heath Vannatter,REP,18
 Howard,0003 1 Howard 1,State House,30,Mike Karickhoff,REP,0
@@ -1483,9 +1471,6 @@ Howard,0074 Taylor A,State House,30,Mike Karickhoff,REP,421
 Howard,0075 Taylor B,State House,30,Mike Karickhoff,REP,223
 Howard,0076 Taylor C,State House,30,Mike Karickhoff,REP,101
 Howard,0077 Union,State House,32,Tony Cook,REP,426
-Howard,,State House,30,Mike Karickhoff,REP,14037
-Howard,,State House,32,Tony Cook,REP,426
-Howard,,State House,38,Heath Vannatter,REP,8293
 Howard,0001 1 Clay 1,State House,30,Natalie Guest,DEM,18
 Howard,0003 1 Howard 1,State House,30,Natalie Guest,DEM,1
 Howard,0004 101,State House,30,Natalie Guest,DEM,56
@@ -1539,9 +1524,7 @@ Howard,0072 Liberty D,State House,30,Natalie Guest,DEM,181
 Howard,0074 Taylor A,State House,30,Natalie Guest,DEM,193
 Howard,0075 Taylor B,State House,30,Natalie Guest,DEM,112
 Howard,0076 Taylor C,State House,30,Natalie Guest,DEM,31
-Howard,,State House,30,Natalie Guest,DEM,9570
 Howard,0077 Union,State House,32,Ryan Davis,DEM,123
-Howard,,State House,32,Ryan Davis,DEM,123
 Howard,0002 2 Clay 2,State House,38,Jason Burns,IND,10
 Howard,0006 103,State House,38,Jason Burns,IND,49
 Howard,0009 106,State House,38,Jason Burns,IND,9
@@ -1565,4 +1548,3 @@ Howard,0063 Harrison C,State House,38,Jason Burns,IND,125
 Howard,0064 Honey Creek A,State House,38,Jason Burns,IND,122
 Howard,0065 Honey Creek B,State House,38,Jason Burns,IND,147
 Howard,0073 Monroe,State House,38,Jason Burns,IND,178
-Howard,,State House,38,Jason Burns,IND,2864

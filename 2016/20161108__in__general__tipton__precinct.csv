@@ -46,7 +46,6 @@ Tipton,12-Cicero 4,President,,Donald Trump,REP,340
 Tipton,13-Cicero 5,President,,Donald Trump,REP,430
 Tipton,14-Cicero 6,President,,Donald Trump,REP,273
 Tipton,15-Cicero 7,President,,Donald Trump,REP,489
-Tipton,,President,,Donald Trump,REP,5589
 Tipton,01-Madison 1,President,,Hillary Clinton,DEM,49
 Tipton,02-Madison 2,President,,Hillary Clinton,DEM,79
 Tipton,03-Wildcat,President,,Hillary Clinton,DEM,103
@@ -62,7 +61,6 @@ Tipton,12-Cicero 4,President,,Hillary Clinton,DEM,99
 Tipton,13-Cicero 5,President,,Hillary Clinton,DEM,146
 Tipton,14-Cicero 6,President,,Hillary Clinton,DEM,77
 Tipton,15-Cicero 7,President,,Hillary Clinton,DEM,118
-Tipton,,President,,Hillary Clinton,DEM,1587
 Tipton,01-Madison 1,President,,Gary Johnson,LBT,10
 Tipton,02-Madison 2,President,,Gary Johnson,LBT,19
 Tipton,03-Wildcat,President,,Gary Johnson,LBT,18
@@ -78,7 +76,6 @@ Tipton,12-Cicero 4,President,,Gary Johnson,LBT,26
 Tipton,13-Cicero 5,President,,Gary Johnson,LBT,30
 Tipton,14-Cicero 6,President,,Gary Johnson,LBT,13
 Tipton,15-Cicero 7,President,,Gary Johnson,LBT,23
-Tipton,,President,,Gary Johnson,LBT,334
 Tipton,01-Madison 1,President,,write-ins,,3
 Tipton,02-Madison 2,President,,write-ins,,4
 Tipton,03-Wildcat,President,,write-ins,,3
@@ -110,7 +107,6 @@ Tipton,12-Cicero 4,U.S. Senate,,Todd Young,REP,265
 Tipton,13-Cicero 5,U.S. Senate,,Todd Young,REP,347
 Tipton,14-Cicero 6,U.S. Senate,,Todd Young,REP,243
 Tipton,15-Cicero 7,U.S. Senate,,Todd Young,REP,449
-Tipton,,U.S. Senate,,Todd Young,REP,4760
 Tipton,01-Madison 1,U.S. Senate,,Evan Bayh,DEM,78
 Tipton,02-Madison 2,U.S. Senate,,Evan Bayh,DEM,115
 Tipton,03-Wildcat,U.S. Senate,,Evan Bayh,DEM,157
@@ -142,7 +138,6 @@ Tipton,12-Cicero 4,U.S. Senate,,Lucy Brenton,LBT,34
 Tipton,13-Cicero 5,U.S. Senate,,Lucy Brenton,LBT,46
 Tipton,14-Cicero 6,U.S. Senate,,Lucy Brenton,LBT,21
 Tipton,15-Cicero 7,U.S. Senate,,Lucy Brenton,LBT,27
-Tipton,,U.S. Senate,,Lucy Brenton,LBT,496
 Tipton,01-Madison 1,U.S. Senate,,Write-ins,,0
 Tipton,02-Madison 2,U.S. Senate,,Write-ins,,0
 Tipton,03-Wildcat,U.S. Senate,,Write-ins,,0
@@ -158,7 +153,6 @@ Tipton,12-Cicero 4,U.S. Senate,,Write-ins,,0
 Tipton,13-Cicero 5,U.S. Senate,,Write-ins,,0
 Tipton,14-Cicero 6,U.S. Senate,,Write-ins,,0
 Tipton,15-Cicero 7,U.S. Senate,,Write-ins,,0
-Tipton,,U.S. Senate,,Write-ins,,3
 Tipton,01-Madison 1,Governor,,Eric Holcomb,REP,193
 Tipton,02-Madison 2,Governor,,Eric Holcomb,REP,219
 Tipton,03-Wildcat,Governor,,Eric Holcomb,REP,366
@@ -190,7 +184,6 @@ Tipton,12-Cicero 4,Governor,,John Gregg,DEM,179
 Tipton,13-Cicero 5,Governor,,John Gregg,DEM,237
 Tipton,14-Cicero 6,Governor,,John Gregg,DEM,110
 Tipton,15-Cicero 7,Governor,,John Gregg,DEM,179
-Tipton,,Governor,,John Gregg,DEM,2492
 Tipton,01-Madison 1,Governor,,Rex Bell,LBT,12
 Tipton,02-Madison 2,Governor,,Rex Bell,LBT,13
 Tipton,03-Wildcat,Governor,,Rex Bell,LBT,25
@@ -206,7 +199,6 @@ Tipton,12-Cicero 4,Governor,,Rex Bell,LBT,22
 Tipton,13-Cicero 5,Governor,,Rex Bell,LBT,25
 Tipton,14-Cicero 6,Governor,,Rex Bell,LBT,6
 Tipton,15-Cicero 7,Governor,,Rex Bell,LBT,12
-Tipton,,Governor,,Rex Bell,LBT,259
 Tipton,01-Madison 1,Attorney General,,Curtis Hill,REP,219
 Tipton,02-Madison 2,Attorney General,,Curtis Hill,REP,291
 Tipton,03-Wildcat,Attorney General,,Curtis Hill,REP,429
@@ -222,7 +214,6 @@ Tipton,12-Cicero 4,Attorney General,,Curtis Hill,REP,333
 Tipton,13-Cicero 5,Attorney General,,Curtis Hill,REP,426
 Tipton,14-Cicero 6,Attorney General,,Curtis Hill,REP,277
 Tipton,15-Cicero 7,Attorney General,,Curtis Hill,REP,521
-Tipton,,Attorney General,,Curtis Hill,REP,5627
 Tipton,01-Madison 1,Attorney General,,Lorenzo Arredondo,DEM,48
 Tipton,02-Madison 2,Attorney General,,Lorenzo Arredondo,DEM,72
 Tipton,03-Wildcat,Attorney General,,Lorenzo Arredondo,DEM,123
@@ -238,7 +229,6 @@ Tipton,12-Cicero 4,Attorney General,,Lorenzo Arredondo,DEM,93
 Tipton,13-Cicero 5,Attorney General,,Lorenzo Arredondo,DEM,149
 Tipton,14-Cicero 6,Attorney General,,Lorenzo Arredondo,DEM,72
 Tipton,15-Cicero 7,Attorney General,,Lorenzo Arredondo,DEM,93
-Tipton,,Attorney General,,Lorenzo Arredondo,DEM,1561
 Tipton,01-Madison 1,Public Instruction,,Jennifer McCormick,REP,183
 Tipton,02-Madison 2,Public Instruction,,Jennifer McCormick,REP,233
 Tipton,03-Wildcat,Public Instruction,,Jennifer McCormick,REP,353
@@ -254,7 +244,6 @@ Tipton,12-Cicero 4,Public Instruction,,Jennifer McCormick,REP,284
 Tipton,13-Cicero 5,Public Instruction,,Jennifer McCormick,REP,353
 Tipton,14-Cicero 6,Public Instruction,,Jennifer McCormick,REP,233
 Tipton,15-Cicero 7,Public Instruction,,Jennifer McCormick,REP,412
-Tipton,,Public Instruction,,Jennifer McCormick,REP,4624
 Tipton,01-Madison 1,Public Instruction,,Glenda Ritz,DEM,85
 Tipton,02-Madison 2,Public Instruction,,Glenda Ritz,DEM,130
 Tipton,03-Wildcat,Public Instruction,,Glenda Ritz,DEM,200
@@ -270,7 +259,6 @@ Tipton,12-Cicero 4,Public Instruction,,Glenda Ritz,DEM,149
 Tipton,13-Cicero 5,Public Instruction,,Glenda Ritz,DEM,244
 Tipton,14-Cicero 6,Public Instruction,,Glenda Ritz,DEM,121
 Tipton,15-Cicero 7,Public Instruction,,Glenda Ritz,DEM,212
-Tipton,,Public Instruction,,Glenda Ritz,DEM,2702
 Tipton,01-Madison 1,U.S. House,5,Susan Brooks,REP,209
 Tipton,02-Madison 2,U.S. House,5,Susan Brooks,REP,266
 Tipton,03-Wildcat,U.S. House,5,Susan Brooks,REP,420
@@ -286,7 +274,6 @@ Tipton,12-Cicero 4,U.S. House,5,Susan Brooks,REP,322
 Tipton,13-Cicero 5,U.S. House,5,Susan Brooks,REP,434
 Tipton,14-Cicero 6,U.S. House,5,Susan Brooks,REP,273
 Tipton,15-Cicero 7,U.S. House,5,Susan Brooks,REP,506
-Tipton,,U.S. House,5,Susan Brooks,REP,5476
 Tipton,01-Madison 1,U.S. House,5,Angela Demaree,DEM,46
 Tipton,02-Madison 2,U.S. House,5,Angela Demaree,DEM,86
 Tipton,03-Wildcat,U.S. House,5,Angela Demaree,DEM,115
@@ -302,7 +289,6 @@ Tipton,12-Cicero 4,U.S. House,5,Angela Demaree,DEM,92
 Tipton,13-Cicero 5,U.S. House,5,Angela Demaree,DEM,132
 Tipton,14-Cicero 6,U.S. House,5,Angela Demaree,DEM,72
 Tipton,15-Cicero 7,U.S. House,5,Angela Demaree,DEM,95
-Tipton,,U.S. House,5,Angela Demaree,DEM,1544
 Tipton,01-Madison 1,U.S. House,5,Matthew Wittlief,LBT,16
 Tipton,02-Madison 2,U.S. House,5,Matthew Wittlief,LBT,14
 Tipton,03-Wildcat,U.S. House,5,Matthew Wittlief,LBT,22
@@ -318,7 +304,6 @@ Tipton,12-Cicero 4,U.S. House,5,Matthew Wittlief,LBT,31
 Tipton,13-Cicero 5,U.S. House,5,Matthew Wittlief,LBT,28
 Tipton,14-Cicero 6,U.S. House,5,Matthew Wittlief,LBT,9
 Tipton,15-Cicero 7,U.S. House,5,Matthew Wittlief,LBT,18
-Tipton,,U.S. House,5,Matthew Wittlief,LBT,344
 Tipton,01-Madison 1,State House,32,Tony Cook,REP,214
 Tipton,02-Madison 2,State House,32,Tony Cook,REP,260
 Tipton,03-Wildcat,State House,32,Tony Cook,REP,402
@@ -334,7 +319,6 @@ Tipton,12-Cicero 4,State House,32,Tony Cook,REP,323
 Tipton,13-Cicero 5,State House,32,Tony Cook,REP,425
 Tipton,14-Cicero 6,State House,32,Tony Cook,REP,280
 Tipton,15-Cicero 7,State House,32,Tony Cook,REP,498
-Tipton,,State House,32,Tony Cook,REP,5421
 Tipton,01-Madison 1,State House,32,Ryan Davis,DEM,57
 Tipton,02-Madison 2,State House,32,Ryan Davis,DEM,93
 Tipton,03-Wildcat,State House,32,Ryan Davis,DEM,143
@@ -350,4 +334,3 @@ Tipton,12-Cicero 4,State House,32,Ryan Davis,DEM,111
 Tipton,13-Cicero 5,State House,32,Ryan Davis,DEM,158
 Tipton,14-Cicero 6,State House,32,Ryan Davis,DEM,73
 Tipton,15-Cicero 7,State House,32,Ryan Davis,DEM,119
-Tipton,,State House,32,Ryan Davis,DEM,1789

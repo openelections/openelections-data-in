@@ -76,7 +76,6 @@ Ripley,Otter Creek 2,President,,REP,Donald Trump,250
 Ripley,Shelby,President,,REP,Donald Trump,322
 Ripley,Washington I,President,,REP,Donald Trump,394
 Ripley,Washington 2,President,,REP,Donald Trump,514
-Ripley,,President,,REP,Donald Trump,9806
 Ripley,Adams 1,President,,DEM,Hillary Clinton,138
 Ripley,Adams 2,President,,DEM,Hillary Clinton,127
 Ripley,Adams 3,President,,DEM,Hillary Clinton,171
@@ -102,7 +101,6 @@ Ripley,Otter Creek 2,President,,DEM,Hillary Clinton,66
 Ripley,Shelby,President,,DEM,Hillary Clinton,56
 Ripley,Washington I,President,,DEM,Hillary Clinton,56
 Ripley,Washington 2,President,,DEM,Hillary Clinton,127
-Ripley,,President,,DEM,Hillary Clinton,2471
 Ripley,Adams 1,President,,LBT,Gary Johnson,31
 Ripley,Adams 2,President,,LBT,Gary Johnson,27
 Ripley,Adams 3,President,,LBT,Gary Johnson,26
@@ -128,7 +126,6 @@ Ripley,Otter Creek 2,President,,LBT,Gary Johnson,9
 Ripley,Shelby,President,,LBT,Gary Johnson,7
 Ripley,Washington I,President,,LBT,Gary Johnson,9
 Ripley,Washington 2,President,,LBT,Gary Johnson,28
-Ripley,,President,,LBT,Gary Johnson,513
 Ripley,Adams 1,President,,,Write-ins,9
 Ripley,Adams 2,President,,,Write-ins,11
 Ripley,Adams 3,President,,,Write-ins,13
@@ -180,7 +177,6 @@ Ripley,Otter Creek 2,U.S. Senate,,REP,Todd Young,215
 Ripley,Shelby,U.S. Senate,,REP,Todd Young,282
 Ripley,Washington I,U.S. Senate,,REP,Todd Young,367
 Ripley,Washington 2,U.S. Senate,,REP,Todd Young,464
-Ripley,,U.S. Senate,,REP,Todd Young,9227
 Ripley,Adams 1,U.S. Senate,,DEM,Evan Bayh,174
 Ripley,Adams 2,U.S. Senate,,DEM,Evan Bayh,165
 Ripley,Adams 3,U.S. Senate,,DEM,Evan Bayh,175
@@ -206,7 +202,6 @@ Ripley,Otter Creek 2,U.S. Senate,,DEM,Evan Bayh,101
 Ripley,Shelby,U.S. Senate,,DEM,Evan Bayh,107
 Ripley,Washington I,U.S. Senate,,DEM,Evan Bayh,85
 Ripley,Washington 2,U.S. Senate,,DEM,Evan Bayh,172
-Ripley,,U.S. Senate,,DEM,Evan Bayh,3182
 Ripley,Adams 1,U.S. Senate,,LBT,Lucy Brenton,28
 Ripley,Adams 2,U.S. Senate,,LBT,Lucy Brenton,33
 Ripley,Adams 3,U.S. Senate,,LBT,Lucy Brenton,27
@@ -284,7 +279,6 @@ Ripley,Otter Creek 2,Governor,,REP,Eric Holcomb,209
 Ripley,Shelby,Governor,,REP,Eric Holcomb,271
 Ripley,Washington I,Governor,,REP,Eric Holcomb,347
 Ripley,Washington 2,Governor,,REP,Eric Holcomb,447
-Ripley,,Governor,,REP,Eric Holcomb,8948
 Ripley,Adams 1,Governor,,DEM,John Gregg,194
 Ripley,Adams 2,Governor,,DEM,John Gregg,196
 Ripley,Adams 3,Governor,,DEM,John Gregg,189
@@ -310,7 +304,6 @@ Ripley,Otter Creek 2,Governor,,DEM,John Gregg,104
 Ripley,Shelby,Governor,,DEM,John Gregg,119
 Ripley,Washington I,Governor,,DEM,John Gregg,105
 Ripley,Washington 2,Governor,,DEM,John Gregg,191
-Ripley,,Governor,,DEM,John Gregg,3540
 Ripley,Adams 1,Governor,,LBT,Rex Bell,21
 Ripley,Adams 2,Governor,,LBT,Rex Bell,19
 Ripley,Adams 3,Governor,,LBT,Rex Bell,18
@@ -414,7 +407,6 @@ Ripley,Otter Creek 2,Attorney General,,DEM,Lorenzo Arredondo,67
 Ripley,Shelby,Attorney General,,DEM,Lorenzo Arredondo,77
 Ripley,Washington I,Attorney General,,DEM,Lorenzo Arredondo,69
 Ripley,Washington 2,Attorney General,,DEM,Lorenzo Arredondo,125
-Ripley,,Attorney General,,DEM,Lorenzo Arredondo,2437
 Ripley,Adams 1,Public Instruction,,REP,Jennifer McCormick,547
 Ripley,Adams 2,Public Instruction,,REP,Jennifer McCormick,659
 Ripley,Adams 3,Public Instruction,,REP,Jennifer McCormick,423
@@ -440,7 +432,6 @@ Ripley,Otter Creek 2,Public Instruction,,REP,Jennifer McCormick,203
 Ripley,Shelby,Public Instruction,,REP,Jennifer McCormick,276
 Ripley,Washington I,Public Instruction,,REP,Jennifer McCormick,352
 Ripley,Washington 2,Public Instruction,,REP,Jennifer McCormick,436
-Ripley,,Public Instruction,,REP,Jennifer McCormick,8802
 Ripley,Adams 1,Public Instruction,,DEM,Glenda Ritz,201
 Ripley,Adams 2,Public Instruction,,DEM,Glenda Ritz,217
 Ripley,Adams 3,Public Instruction,,DEM,Glenda Ritz,196
@@ -518,7 +509,6 @@ Ripley,Otter Creek 2,U.S. House,6,DEM,Barry Welsh,74
 Ripley,Shelby,U.S. House,6,DEM,Barry Welsh,85
 Ripley,Washington I,U.S. House,6,DEM,Barry Welsh,72
 Ripley,Washington 2,U.S. House,6,DEM,Barry Welsh,124
-Ripley,,U.S. House,6,DEM,Barry Welsh,2396
 Ripley,Adams 1,U.S. House,6,LBT,Rich Turvey,20
 Ripley,Adams 2,U.S. House,6,LBT,Rich Turvey,19
 Ripley,Adams 3,U.S. House,6,LBT,Rich Turvey,16
@@ -544,7 +534,6 @@ Ripley,Otter Creek 2,U.S. House,6,LBT,Rich Turvey,14
 Ripley,Shelby,U.S. House,6,LBT,Rich Turvey,8
 Ripley,Washington I,U.S. House,6,LBT,Rich Turvey,14
 Ripley,Washington 2,U.S. House,6,LBT,Rich Turvey,27
-Ripley,,U.S. House,6,LBT,Rich Turvey,375
 Ripley,Brown 1,U.S. House,6,LBT,Rich Turvey,1
 Ripley,Franklin 1,U.S. House,6,LBT,Rich Turvey,1
 Ripley,Adams 1,State Senate,42,REP,Jean Leising,635
@@ -561,8 +550,6 @@ Ripley,Laughery WI PI,State Senate,42,DEM,Randy Howard,179
 Ripley,Laughery W2 PI,State Senate,42,DEM,Randy Howard,92
 Ripley,Laughery W3 PI,State Senate,42,DEM,Randy Howard,131
 Ripley,Laughery 1,State Senate,42,DEM,Randy Howard,98
-Ripley,,State Senate,42,REP,Jean Leising,3659
-Ripley,,State Senate,42,DEM,Randy Howard,924
 Ripley,Adams 1,State House,55,REP,Cindy Ziemke,633
 Ripley,Adams 2,State House,55,REP,Cindy Ziemke,728
 Ripley,Adams 3,State House,55,REP,Cindy Ziemke,489
@@ -588,8 +575,6 @@ Ripley,Otter Creek 2,State House,67,REP,Randy Frye,249
 Ripley,Shelby,State House,67,REP,Randy Frye,315
 Ripley,Washington I,State House,67,REP,Randy Frye,382
 Ripley,Washington 2,State House,67,REP,Randy Frye,543
-Ripley,,State House,55,REP,Cindy Ziemke,3620
-Ripley,,State House,67,REP,Randy Frye,6652
 Ripley,Adams 1,State House,55,DEM,Mimi Pruett,123
 Ripley,Adams 2,State House,55,DEM,Mimi Pruett,150
 Ripley,Adams 3,State House,55,DEM,Mimi Pruett,137
@@ -615,5 +600,4 @@ Ripley,Otter Creek 2,State House,67,DEM,Rudy Howard,78
 Ripley,Shelby,State House,67,DEM,Rudy Howard,76
 Ripley,Washington I,State House,67,DEM,Rudy Howard,76
 Ripley,Washington 2,State House,67,DEM,Rudy Howard,107
-Ripley,,State House,55,DEM,Mimi Pruett,899
 Ripley,,State House,67,DEM,Rudy Howard,1507

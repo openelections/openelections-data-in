@@ -23,7 +23,7 @@ Morgan,01 ADAMS,U.S. House,4,1,DEM,Derrick HOLDER,83,46,29,8
 Morgan,01 ADAMS,U.S. House,4,1,LBT,Ashley GROFF,23,7,15,1
 Morgan,01 ADAMS,U.S. House,4,1,,Write-In,0,0,0,0
 Morgan,01 ADAMS,State Senate,37,1,REP,Rodric D. BRAY,442,187,235,20
-Morgan,01 ADAMS,State Senate,37,1,DEM," Kimberly M. SCHOFIELD",88,47,34,7
+Morgan,01 ADAMS,State Senate,37,1,DEM,Kimberly M. SCHOFIELD,88,47,34,7
 Morgan,01 ADAMS,State House,60,1,REP,Peggy MAYFIELD,425,183,225,17
 Morgan,01 ADAMS,State House,60,1,DEM,Michelle HIGGS,99,49,40,10
 Morgan,01 ADAMS,Judge of the Circuit Court 15th Judicial,,1,REP,Matthew George HANSON,437,190,227,20
@@ -76,7 +76,7 @@ Morgan,02 ASHLAND 1,U.S. House,4,1,DEM,Derrick HOLDER,117,64,34,19
 Morgan,02 ASHLAND 1,U.S. House,4,1,LBT,Ashley GROFF,42,24,18,0
 Morgan,02 ASHLAND 1,U.S. House,4,1,,Write-In,0,0,0,0
 Morgan,02 ASHLAND 1,State Senate,37,1,REP,Rodric D. BRAY,747,338,381,28
-Morgan,02 ASHLAND 1,State Senate,37,1,DEM," Kimberly M. SCHOFIELD",123,65,40,18
+Morgan,02 ASHLAND 1,State Senate,37,1,DEM,Kimberly M. SCHOFIELD,123,65,40,18
 Morgan,02 ASHLAND 1,State House,60,1,REP,Peggy MAYFIELD,740,328,383,29
 Morgan,02 ASHLAND 1,State House,60,1,DEM,Michelle HIGGS,130,72,40,18
 Morgan,02 ASHLAND 1,Judge of the Circuit Court 15th Judicial,,1,REP,Matthew George HANSON,753,337,382,34
@@ -129,7 +129,7 @@ Morgan,03 BAKER,U.S. House,4,1,DEM,Derrick HOLDER,43,23,14,6
 Morgan,03 BAKER,U.S. House,4,1,LBT,Ashley GROFF,15,8,7,0
 Morgan,03 BAKER,U.S. House,4,1,,Write-In,0,0,0,0
 Morgan,03 BAKER,State Senate,37,1,REP,Rodric D. BRAY,326,183,132,11
-Morgan,03 BAKER,State Senate,37,1,DEM," Kimberly M. SCHOFIELD",59,31,22,6
+Morgan,03 BAKER,State Senate,37,1,DEM,Kimberly M. SCHOFIELD,59,31,22,6
 Morgan,03 BAKER,State House,60,1,REP,Peggy MAYFIELD,326,182,134,10
 Morgan,03 BAKER,State House,60,1,DEM,Michelle HIGGS,50,26,17,7
 Morgan,03 BAKER,Judge of the Circuit Court 15th Judicial,,1,REP,Matthew George HANSON,317,177,132,8
@@ -186,7 +186,7 @@ Morgan,04 BROWN 1,U.S. House,4,1,DEM,Derrick HOLDER,157,89,53,15
 Morgan,04 BROWN 1,U.S. House,4,1,LBT,Ashley GROFF,49,24,24,1
 Morgan,04 BROWN 1,U.S. House,4,1,,Write-In,1,1,0,0
 Morgan,04 BROWN 1,State Senate,37,1,REP,Rodric D. BRAY,490,314,160,16
-Morgan,04 BROWN 1,State Senate,37,1,DEM," Kimberly M. SCHOFIELD",176,101,65,10
+Morgan,04 BROWN 1,State Senate,37,1,DEM,Kimberly M. SCHOFIELD,176,101,65,10
 Morgan,04 BROWN 1,State House,57,1,REP,Craig HAGGARD,514,327,172,15
 Morgan,04 BROWN 1,Judge of the Circuit Court 15th Judicial,,1,REP,Matthew George HANSON,498,317,167,14
 Morgan,04 BROWN 1,County Recorder,,1,REP,Anna M. VOYLES,503,319,170,14
@@ -237,7 +237,7 @@ Morgan,05 BROWN 2,U.S. House,4,1,DEM,Derrick HOLDER,176,131,28,17
 Morgan,05 BROWN 2,U.S. House,4,1,LBT,Ashley GROFF,24,18,6,0
 Morgan,05 BROWN 2,U.S. House,4,1,,Write-In,0,0,0,0
 Morgan,05 BROWN 2,State Senate,37,1,REP,Rodric D. BRAY,618,429,162,27
-Morgan,05 BROWN 2,State Senate,37,1,DEM," Kimberly M. SCHOFIELD",179,137,26,16
+Morgan,05 BROWN 2,State Senate,37,1,DEM,Kimberly M. SCHOFIELD,179,137,26,16
 Morgan,05 BROWN 2,State House,57,1,REP,Craig HAGGARD,640,450,163,27
 Morgan,05 BROWN 2,Judge of the Circuit Court 15th Judicial,,1,REP,Matthew George HANSON,615,434,153,28
 Morgan,05 BROWN 2,County Recorder,,1,REP,Anna M. VOYLES,618,437,153,28
@@ -287,7 +287,7 @@ Morgan,06 BROWN 3,U.S. House,4,1,DEM,Derrick HOLDER,205,141,48,16
 Morgan,06 BROWN 3,U.S. House,4,1,LBT,Ashley GROFF,44,22,21,1
 Morgan,06 BROWN 3,U.S. House,4,1,,Write-In,0,0,0,0
 Morgan,06 BROWN 3,State Senate,37,1,REP,Rodric D. BRAY,571,375,166,30
-Morgan,06 BROWN 3,State Senate,37,1,DEM," Kimberly M. SCHOFIELD",226,150,59,17
+Morgan,06 BROWN 3,State Senate,37,1,DEM,Kimberly M. SCHOFIELD,226,150,59,17
 Morgan,06 BROWN 3,State House,57,1,REP,Craig HAGGARD,613,403,179,31
 Morgan,06 BROWN 3,Judge of the Circuit Court 15th Judicial,,1,REP,Matthew George HANSON,597,393,173,31
 Morgan,06 BROWN 3,County Recorder,,1,REP,Anna M. VOYLES,602,396,175,31
@@ -338,7 +338,7 @@ Morgan,07 BROWN 4,U.S. House,4,1,DEM,Derrick HOLDER,199,135,34,30
 Morgan,07 BROWN 4,U.S. House,4,1,LBT,Ashley GROFF,36,24,12,0
 Morgan,07 BROWN 4,U.S. House,4,1,,Write-In,1,0,1,0
 Morgan,07 BROWN 4,State Senate,37,1,REP,Rodric D. BRAY,640,439,167,34
-Morgan,07 BROWN 4,State Senate,37,1,DEM," Kimberly M. SCHOFIELD",210,142,36,32
+Morgan,07 BROWN 4,State Senate,37,1,DEM,Kimberly M. SCHOFIELD,210,142,36,32
 Morgan,07 BROWN 4,State House,57,1,REP,Craig HAGGARD,677,462,179,36
 Morgan,07 BROWN 4,Judge of the Circuit Court 15th Judicial,,1,REP,Matthew George HANSON,650,444,172,34
 Morgan,07 BROWN 4,County Recorder,,1,REP,Anna M. VOYLES,659,449,175,35
@@ -388,7 +388,7 @@ Morgan,08 BROWN 5,U.S. House,4,1,DEM,Derrick HOLDER,203,128,50,25
 Morgan,08 BROWN 5,U.S. House,4,1,LBT,Ashley GROFF,37,17,20,0
 Morgan,08 BROWN 5,U.S. House,4,1,,Write-In,0,0,0,0
 Morgan,08 BROWN 5,State Senate,37,1,REP,Rodric D. BRAY,579,357,211,11
-Morgan,08 BROWN 5,State Senate,37,1,DEM," Kimberly M. SCHOFIELD",222,133,64,25
+Morgan,08 BROWN 5,State Senate,37,1,DEM,Kimberly M. SCHOFIELD,222,133,64,25
 Morgan,08 BROWN 5,State House,57,1,REP,Craig HAGGARD,628,376,239,13
 Morgan,08 BROWN 5,Judge of the Circuit Court 15th Judicial,,1,REP,Matthew George HANSON,611,372,226,13
 Morgan,08 BROWN 5,County Recorder,,1,REP,Anna M. VOYLES,620,374,233,13
@@ -438,7 +438,7 @@ Morgan,09 BROWN 6,U.S. House,4,1,DEM,Derrick HOLDER,87,51,21,15
 Morgan,09 BROWN 6,U.S. House,4,1,LBT,Ashley GROFF,13,10,3,0
 Morgan,09 BROWN 6,U.S. House,4,1,,Write-In,0,0,0,0
 Morgan,09 BROWN 6,State Senate,37,1,REP,Rodric D. BRAY,377,223,140,14
-Morgan,09 BROWN 6,State Senate,37,1,DEM," Kimberly M. SCHOFIELD",86,52,20,14
+Morgan,09 BROWN 6,State Senate,37,1,DEM,Kimberly M. SCHOFIELD,86,52,20,14
 Morgan,09 BROWN 6,State House,57,1,REP,Craig HAGGARD,389,229,146,14
 Morgan,09 BROWN 6,Judge of the Circuit Court 15th Judicial,,1,REP,Matthew George HANSON,376,219,142,15
 Morgan,09 BROWN 6,County Recorder,,1,REP,Anna M. VOYLES,381,223,143,15
@@ -488,7 +488,7 @@ Morgan,10 BROWN 7,U.S. House,4,1,DEM,Derrick HOLDER,129,92,24,13
 Morgan,10 BROWN 7,U.S. House,4,1,LBT,Ashley GROFF,26,14,12,0
 Morgan,10 BROWN 7,U.S. House,4,1,,Write-In,0,0,0,0
 Morgan,10 BROWN 7,State Senate,37,1,REP,Rodric D. BRAY,486,312,150,24
-Morgan,10 BROWN 7,State Senate,37,1,DEM," Kimberly M. SCHOFIELD",141,99,28,14
+Morgan,10 BROWN 7,State Senate,37,1,DEM,Kimberly M. SCHOFIELD,141,99,28,14
 Morgan,10 BROWN 7,State House,57,1,REP,Craig HAGGARD,523,343,156,24
 Morgan,10 BROWN 7,Judge of the Circuit Court 15th Judicial,,1,REP,Matthew George HANSON,497,320,153,24
 Morgan,10 BROWN 7,County Recorder,,1,REP,Anna M. VOYLES,519,338,157,24
@@ -538,7 +538,7 @@ Morgan,11 BROWN 8,U.S. House,4,1,DEM,Derrick HOLDER,110,74,27,9
 Morgan,11 BROWN 8,U.S. House,4,1,LBT,Ashley GROFF,29,17,12,0
 Morgan,11 BROWN 8,U.S. House,4,1,,Write-In,0,0,0,0
 Morgan,11 BROWN 8,State Senate,37,1,REP,Rodric D. BRAY,481,347,114,20
-Morgan,11 BROWN 8,State Senate,37,1,DEM," Kimberly M. SCHOFIELD",122,78,34,10
+Morgan,11 BROWN 8,State Senate,37,1,DEM,Kimberly M. SCHOFIELD,122,78,34,10
 Morgan,11 BROWN 8,State House,57,1,REP,Craig HAGGARD,493,353,119,21
 Morgan,11 BROWN 8,Judge of the Circuit Court 15th Judicial,,1,REP,Matthew George HANSON,484,343,119,22
 Morgan,11 BROWN 8,County Recorder,,1,REP,Anna M. VOYLES,487,347,118,22
@@ -588,7 +588,7 @@ Morgan,12 BROWN 9,U.S. House,4,1,DEM,Derrick HOLDER,43,23,18,2
 Morgan,12 BROWN 9,U.S. House,4,1,LBT,Ashley GROFF,12,4,8,0
 Morgan,12 BROWN 9,U.S. House,4,1,,Write-In,0,0,0,0
 Morgan,12 BROWN 9,State Senate,37,1,REP,Rodric D. BRAY,135,53,76,6
-Morgan,12 BROWN 9,State Senate,37,1,DEM," Kimberly M. SCHOFIELD",48,25,21,2
+Morgan,12 BROWN 9,State Senate,37,1,DEM,Kimberly M. SCHOFIELD,48,25,21,2
 Morgan,12 BROWN 9,State House,57,1,REP,Craig HAGGARD,142,56,80,6
 Morgan,12 BROWN 9,Judge of the Circuit Court 15th Judicial,,1,REP,Matthew George HANSON,141,55,80,6
 Morgan,12 BROWN 9,County Recorder,,1,REP,Anna M. VOYLES,140,55,79,6
@@ -644,7 +644,7 @@ Morgan,13 CLAY 1,U.S. House,4,1,DEM,Derrick HOLDER,140,88,28,24
 Morgan,13 CLAY 1,U.S. House,4,1,LBT,Ashley GROFF,24,11,11,2
 Morgan,13 CLAY 1,U.S. House,4,1,,Write-In,0,0,0,0
 Morgan,13 CLAY 1,State Senate,37,1,REP,Rodric D. BRAY,508,301,180,27
-Morgan,13 CLAY 1,State Senate,37,1,DEM," Kimberly M. SCHOFIELD",144,91,30,23
+Morgan,13 CLAY 1,State Senate,37,1,DEM,Kimberly M. SCHOFIELD,144,91,30,23
 Morgan,13 CLAY 1,State House,60,1,REP,Peggy MAYFIELD,495,297,174,24
 Morgan,13 CLAY 1,State House,60,1,DEM,Michelle HIGGS,155,95,34,26
 Morgan,13 CLAY 1,Judge of the Circuit Court 15th Judicial,,1,REP,Matthew George HANSON,525,317,180,28
@@ -701,7 +701,7 @@ Morgan,14 CLAY 2,U.S. House,4,1,DEM,Derrick HOLDER,127,77,40,10
 Morgan,14 CLAY 2,U.S. House,4,1,LBT,Ashley GROFF,28,11,15,2
 Morgan,14 CLAY 2,U.S. House,4,1,,Write-In,0,0,0,0
 Morgan,14 CLAY 2,State Senate,37,1,REP,Rodric D. BRAY,538,295,217,26
-Morgan,14 CLAY 2,State Senate,37,1,DEM," Kimberly M. SCHOFIELD",149,84,54,11
+Morgan,14 CLAY 2,State Senate,37,1,DEM,Kimberly M. SCHOFIELD,149,84,54,11
 Morgan,14 CLAY 2,State House,60,1,REP,Peggy MAYFIELD,542,295,220,27
 Morgan,14 CLAY 2,State House,60,1,DEM,Michelle HIGGS,145,84,52,9
 Morgan,14 CLAY 2,Judge of the Circuit Court 15th Judicial,,1,REP,Matthew George HANSON,554,302,224,28
@@ -758,7 +758,7 @@ Morgan,15 CLAY 3,U.S. House,4,1,DEM,Derrick HOLDER,131,55,52,24
 Morgan,15 CLAY 3,U.S. House,4,1,LBT,Ashley GROFF,37,20,17,0
 Morgan,15 CLAY 3,U.S. House,4,1,,Write-In,0,0,0,0
 Morgan,15 CLAY 3,State Senate,37,1,REP,Rodric D. BRAY,532,283,228,21
-Morgan,15 CLAY 3,State Senate,37,1,DEM," Kimberly M. SCHOFIELD",155,67,64,24
+Morgan,15 CLAY 3,State Senate,37,1,DEM,Kimberly M. SCHOFIELD,155,67,64,24
 Morgan,15 CLAY 3,State House,60,1,REP,Peggy MAYFIELD,532,285,226,21
 Morgan,15 CLAY 3,State House,60,1,DEM,Michelle HIGGS,151,64,63,24
 Morgan,15 CLAY 3,Judge of the Circuit Court 15th Judicial,,1,REP,Matthew George HANSON,580,306,252,22
@@ -821,7 +821,7 @@ Morgan,16 GREEN 1,U.S. House,4,1,DEM,Derrick HOLDER,172,90,60,22
 Morgan,16 GREEN 1,U.S. House,4,1,LBT,Ashley GROFF,36,14,22,0
 Morgan,16 GREEN 1,U.S. House,4,1,,Write-In,1,0,1,0
 Morgan,16 GREEN 1,State Senate,37,1,REP,Rodric D. BRAY,788,484,286,18
-Morgan,16 GREEN 1,State Senate,37,1,DEM," Kimberly M. SCHOFIELD",186,98,69,19
+Morgan,16 GREEN 1,State Senate,37,1,DEM,Kimberly M. SCHOFIELD,186,98,69,19
 Morgan,16 GREEN 1,State House,60,1,REP,Peggy MAYFIELD,777,475,287,15
 Morgan,16 GREEN 1,State House,60,1,DEM,Michelle HIGGS,191,101,67,23
 Morgan,16 GREEN 1,Judge of the Circuit Court 15th Judicial,,1,REP,Matthew George HANSON,797,484,294,19
@@ -878,7 +878,7 @@ Morgan,17 GREEN 2,U.S. House,4,1,DEM,Derrick HOLDER,166,106,45,15
 Morgan,17 GREEN 2,U.S. House,4,1,LBT,Ashley GROFF,44,24,19,1
 Morgan,17 GREEN 2,U.S. House,4,1,,Write-In,0,0,0,0
 Morgan,17 GREEN 2,State Senate,37,1,REP,Rodric D. BRAY,853,485,331,37
-Morgan,17 GREEN 2,State Senate,37,1,DEM," Kimberly M. SCHOFIELD",178,104,57,17
+Morgan,17 GREEN 2,State Senate,37,1,DEM,Kimberly M. SCHOFIELD,178,104,57,17
 Morgan,17 GREEN 2,State House,60,1,REP,Peggy MAYFIELD,828,468,324,36
 Morgan,17 GREEN 2,State House,60,1,DEM,Michelle HIGGS,193,121,56,16
 Morgan,17 GREEN 2,Judge of the Circuit Court 15th Judicial,,1,REP,Matthew George HANSON,876,492,344,40
@@ -935,7 +935,7 @@ Morgan,18 GREGG 1,U.S. House,4,1,DEM,Derrick HOLDER,110,57,40,13
 Morgan,18 GREGG 1,U.S. House,4,1,LBT,Ashley GROFF,34,15,18,1
 Morgan,18 GREGG 1,U.S. House,4,1,,Write-In,0,0,0,0
 Morgan,18 GREGG 1,State Senate,37,1,REP,Rodric D. BRAY,570,318,223,29
-Morgan,18 GREGG 1,State Senate,37,1,DEM," Kimberly M. SCHOFIELD",113,57,47,9
+Morgan,18 GREGG 1,State Senate,37,1,DEM,Kimberly M. SCHOFIELD,113,57,47,9
 Morgan,18 GREGG 1,State House,60,1,REP,Peggy MAYFIELD,552,314,214,24
 Morgan,18 GREGG 1,State House,60,1,DEM,Michelle HIGGS,122,60,48,14
 Morgan,18 GREGG 1,Judge of the Circuit Court 15th Judicial,,1,REP,Matthew George HANSON,565,323,218,24
@@ -991,7 +991,7 @@ Morgan,19 GREGG 2,U.S. House,4,1,DEM,Derrick HOLDER,158,113,26,19
 Morgan,19 GREGG 2,U.S. House,4,1,LBT,Ashley GROFF,40,22,17,1
 Morgan,19 GREGG 2,U.S. House,4,1,,Write-In,0,0,0,0
 Morgan,19 GREGG 2,State Senate,37,1,REP,Rodric D. BRAY,643,379,242,22
-Morgan,19 GREGG 2,State Senate,37,1,DEM," Kimberly M. SCHOFIELD",173,120,33,20
+Morgan,19 GREGG 2,State Senate,37,1,DEM,Kimberly M. SCHOFIELD,173,120,33,20
 Morgan,19 GREGG 2,State House,60,1,REP,Peggy MAYFIELD,634,372,239,23
 Morgan,19 GREGG 2,State House,60,1,DEM,Michelle HIGGS,175,123,34,18
 Morgan,19 GREGG 2,Judge of the Circuit Court 15th Judicial,,1,REP,Matthew George HANSON,659,390,244,25
@@ -1047,7 +1047,7 @@ Morgan,20 HARRISON,U.S. House,4,1,DEM,Derrick HOLDER,129,76,39,14
 Morgan,20 HARRISON,U.S. House,4,1,LBT,Ashley GROFF,34,16,17,1
 Morgan,20 HARRISON,U.S. House,4,1,,Write-In,0,0,0,0
 Morgan,20 HARRISON,State Senate,37,1,REP,Rodric D. BRAY,657,392,235,30
-Morgan,20 HARRISON,State Senate,37,1,DEM," Kimberly M. SCHOFIELD",149,84,51,14
+Morgan,20 HARRISON,State Senate,37,1,DEM,Kimberly M. SCHOFIELD,149,84,51,14
 Morgan,20 HARRISON,State House,60,1,REP,Peggy MAYFIELD,652,391,233,28
 Morgan,20 HARRISON,State House,60,1,DEM,Michelle HIGGS,141,79,47,15
 Morgan,20 HARRISON,Judge of the Circuit Court 15th Judicial,,1,REP,Matthew George HANSON,686,410,247,29
@@ -1099,7 +1099,7 @@ Morgan,21 JACKSON 1,U.S. House,4,1,DEM,Derrick HOLDER,178,113,48,17
 Morgan,21 JACKSON 1,U.S. House,4,1,LBT,Ashley GROFF,27,17,9,1
 Morgan,21 JACKSON 1,U.S. House,4,1,,Write-In,0,0,0,0
 Morgan,21 JACKSON 1,State Senate,37,1,REP,Rodric D. BRAY,637,408,207,22
-Morgan,21 JACKSON 1,State Senate,37,1,DEM," Kimberly M. SCHOFIELD",176,108,51,17
+Morgan,21 JACKSON 1,State Senate,37,1,DEM,Kimberly M. SCHOFIELD,176,108,51,17
 Morgan,21 JACKSON 1,State House,60,1,REP,Peggy MAYFIELD,614,385,205,24
 Morgan,21 JACKSON 1,State House,60,1,DEM,Michelle HIGGS,194,124,55,15
 Morgan,21 JACKSON 1,Judge of the Circuit Court 15th Judicial,,1,REP,Matthew George HANSON,650,403,221,26
@@ -1154,7 +1154,7 @@ Morgan,22 JACKSON 2,U.S. House,4,1,DEM,Derrick HOLDER,135,75,43,17
 Morgan,22 JACKSON 2,U.S. House,4,1,LBT,Ashley GROFF,34,15,18,1
 Morgan,22 JACKSON 2,U.S. House,4,1,,Write-In,1,0,1,0
 Morgan,22 JACKSON 2,State Senate,37,1,REP,Rodric D. BRAY,609,271,314,24
-Morgan,22 JACKSON 2,State Senate,37,1,DEM," Kimberly M. SCHOFIELD",144,78,48,18
+Morgan,22 JACKSON 2,State Senate,37,1,DEM,Kimberly M. SCHOFIELD,144,78,48,18
 Morgan,22 JACKSON 2,State House,60,1,REP,Peggy MAYFIELD,610,274,309,27
 Morgan,22 JACKSON 2,State House,60,1,DEM,Michelle HIGGS,139,78,46,15
 Morgan,22 JACKSON 2,Judge of the Circuit Court 15th Judicial,,1,REP,Matthew George HANSON,634,285,324,25
@@ -1209,7 +1209,7 @@ Morgan,23 JACKSON 3,U.S. House,4,1,DEM,Derrick HOLDER,46,17,18,11
 Morgan,23 JACKSON 3,U.S. House,4,1,LBT,Ashley GROFF,14,6,7,1
 Morgan,23 JACKSON 3,U.S. House,4,1,,Write-In,0,0,0,0
 Morgan,23 JACKSON 3,State Senate,37,1,REP,Rodric D. BRAY,297,91,192,14
-Morgan,23 JACKSON 3,State Senate,37,1,DEM," Kimberly M. SCHOFIELD",59,20,26,13
+Morgan,23 JACKSON 3,State Senate,37,1,DEM,Kimberly M. SCHOFIELD,59,20,26,13
 Morgan,23 JACKSON 3,State House,60,1,REP,Peggy MAYFIELD,295,89,190,16
 Morgan,23 JACKSON 3,State House,60,1,DEM,Michelle HIGGS,55,21,22,12
 Morgan,23 JACKSON 3,Judge of the Circuit Court 15th Judicial,,1,REP,Matthew George HANSON,291,92,186,13
@@ -1266,7 +1266,7 @@ Morgan,24 JEFFERSON 1,U.S. House,4,1,DEM,Derrick HOLDER,128,83,27,18
 Morgan,24 JEFFERSON 1,U.S. House,4,1,LBT,Ashley GROFF,47,26,21,0
 Morgan,24 JEFFERSON 1,U.S. House,4,1,,Write-In,0,0,0,0
 Morgan,24 JEFFERSON 1,State Senate,37,1,REP,Rodric D. BRAY,708,454,225,29
-Morgan,24 JEFFERSON 1,State Senate,37,1,DEM," Kimberly M. SCHOFIELD",148,94,37,17
+Morgan,24 JEFFERSON 1,State Senate,37,1,DEM,Kimberly M. SCHOFIELD,148,94,37,17
 Morgan,24 JEFFERSON 1,State House,60,1,REP,Peggy MAYFIELD,704,442,236,26
 Morgan,24 JEFFERSON 1,State House,60,1,DEM,Michelle HIGGS,142,95,28,19
 Morgan,24 JEFFERSON 1,Judge of the Circuit Court 15th Judicial,,1,REP,Matthew George HANSON,725,457,239,29
@@ -1324,7 +1324,7 @@ Morgan,25 JEFFERSON 2,U.S. House,4,1,DEM,Derrick HOLDER,194,127,39,28
 Morgan,25 JEFFERSON 2,U.S. House,4,1,LBT,Ashley GROFF,46,24,20,2
 Morgan,25 JEFFERSON 2,U.S. House,4,1,,Write-In,0,0,0,0
 Morgan,25 JEFFERSON 2,State Senate,37,1,REP,Rodric D. BRAY,702,466,210,26
-Morgan,25 JEFFERSON 2,State Senate,37,1,DEM," Kimberly M. SCHOFIELD",204,128,47,29
+Morgan,25 JEFFERSON 2,State Senate,37,1,DEM,Kimberly M. SCHOFIELD,204,128,47,29
 Morgan,25 JEFFERSON 2,State House,60,1,REP,Peggy MAYFIELD,676,441,210,25
 Morgan,25 JEFFERSON 2,State House,60,1,DEM,Michelle HIGGS,203,136,40,27
 Morgan,25 JEFFERSON 2,Judge of the Circuit Court 15th Judicial,,1,REP,Matthew George HANSON,718,470,222,26
@@ -1381,7 +1381,7 @@ Morgan,26 MADISON 1,U.S. House,4,1,DEM,Derrick HOLDER,175,115,38,22
 Morgan,26 MADISON 1,U.S. House,4,1,LBT,Ashley GROFF,36,16,19,1
 Morgan,26 MADISON 1,U.S. House,4,1,,Write-In,0,0,0,0
 Morgan,26 MADISON 1,State Senate,37,1,REP,Rodric D. BRAY,739,465,249,25
-Morgan,26 MADISON 1,State Senate,37,1,DEM," Kimberly M. SCHOFIELD",184,120,41,23
+Morgan,26 MADISON 1,State Senate,37,1,DEM,Kimberly M. SCHOFIELD,184,120,41,23
 Morgan,26 MADISON 1,State House,60,1,REP,Peggy MAYFIELD,737,462,251,24
 Morgan,26 MADISON 1,State House,60,1,DEM,Michelle HIGGS,174,109,41,24
 Morgan,26 MADISON 1,Judge of the Circuit Court 15th Judicial,,1,REP,Matthew George HANSON,765,483,259,23
@@ -1433,7 +1433,7 @@ Morgan,27 MADISON 2,U.S. House,4,1,DEM,Derrick HOLDER,189,123,38,28
 Morgan,27 MADISON 2,U.S. House,4,1,LBT,Ashley GROFF,34,17,16,1
 Morgan,27 MADISON 2,U.S. House,4,1,,Write-In,0,0,0,0
 Morgan,27 MADISON 2,State Senate,37,1,REP,Rodric D. BRAY,774,522,224,28
-Morgan,27 MADISON 2,State Senate,37,1,DEM," Kimberly M. SCHOFIELD",207,133,44,30
+Morgan,27 MADISON 2,State Senate,37,1,DEM,Kimberly M. SCHOFIELD,207,133,44,30
 Morgan,27 MADISON 2,State House,60,1,REP,Peggy MAYFIELD,758,513,216,29
 Morgan,27 MADISON 2,State House,60,1,DEM,Michelle HIGGS,216,135,52,29
 Morgan,27 MADISON 2,Judge of the Circuit Court 15th Judicial,,1,REP,Matthew George HANSON,803,537,231,35
@@ -1485,7 +1485,7 @@ Morgan,28 MADISON 3,U.S. House,4,1,DEM,Derrick HOLDER,155,108,30,17
 Morgan,28 MADISON 3,U.S. House,4,1,LBT,Ashley GROFF,51,27,22,2
 Morgan,28 MADISON 3,U.S. House,4,1,,Write-In,0,0,0,0
 Morgan,28 MADISON 3,State Senate,37,1,REP,Rodric D. BRAY,657,446,187,24
-Morgan,28 MADISON 3,State Senate,37,1,DEM," Kimberly M. SCHOFIELD",183,120,43,20
+Morgan,28 MADISON 3,State Senate,37,1,DEM,Kimberly M. SCHOFIELD,183,120,43,20
 Morgan,28 MADISON 3,State House,57,1,REP,Craig HAGGARD,676,455,194,27
 Morgan,28 MADISON 3,Judge of the Circuit Court 15th Judicial,,1,REP,Matthew George HANSON,658,441,189,28
 Morgan,28 MADISON 3,County Recorder,,1,REP,Anna M. VOYLES,660,446,186,28
@@ -1536,7 +1536,7 @@ Morgan,29 MADISON 4,U.S. House,4,1,DEM,Derrick HOLDER,232,151,63,18
 Morgan,29 MADISON 4,U.S. House,4,1,LBT,Ashley GROFF,61,22,38,1
 Morgan,29 MADISON 4,U.S. House,4,1,,Write-In,0,0,0,0
 Morgan,29 MADISON 4,State Senate,37,1,REP,Rodric D. BRAY,661,362,280,19
-Morgan,29 MADISON 4,State Senate,37,1,DEM," Kimberly M. SCHOFIELD",265,164,83,18
+Morgan,29 MADISON 4,State Senate,37,1,DEM,Kimberly M. SCHOFIELD,265,164,83,18
 Morgan,29 MADISON 4,State House,57,1,REP,Craig HAGGARD,729,397,309,23
 Morgan,29 MADISON 4,Judge of the Circuit Court 15th Judicial,,1,REP,Matthew George HANSON,723,392,308,23
 Morgan,29 MADISON 4,County Recorder,,1,REP,Anna M. VOYLES,732,400,309,23
@@ -1588,7 +1588,7 @@ Morgan,30 MADISON 5,U.S. House,4,1,DEM,Derrick HOLDER,284,174,87,23
 Morgan,30 MADISON 5,U.S. House,4,1,LBT,Ashley GROFF,40,20,19,1
 Morgan,30 MADISON 5,U.S. House,4,1,,Write-In,0,0,0,0
 Morgan,30 MADISON 5,State Senate,37,1,REP,Rodric D. BRAY,635,378,227,30
-Morgan,30 MADISON 5,State Senate,37,1,DEM," Kimberly M. SCHOFIELD",298,178,96,24
+Morgan,30 MADISON 5,State Senate,37,1,DEM,Kimberly M. SCHOFIELD,298,178,96,24
 Morgan,30 MADISON 5,State House,57,1,REP,Craig HAGGARD,687,411,243,33
 Morgan,30 MADISON 5,Judge of the Circuit Court 15th Judicial,,1,REP,Matthew George HANSON,677,405,239,33
 Morgan,30 MADISON 5,County Recorder,,1,REP,Anna M. VOYLES,685,408,244,33
@@ -1640,7 +1640,7 @@ Morgan,31 MADISON 6,U.S. House,4,1,DEM,Derrick HOLDER,128,77,42,9
 Morgan,31 MADISON 6,U.S. House,4,1,LBT,Ashley GROFF,38,17,21,0
 Morgan,31 MADISON 6,U.S. House,4,1,,Write-In,0,0,0,0
 Morgan,31 MADISON 6,State Senate,37,1,REP,Rodric D. BRAY,620,371,227,22
-Morgan,31 MADISON 6,State Senate,37,1,DEM," Kimberly M. SCHOFIELD",164,92,61,11
+Morgan,31 MADISON 6,State Senate,37,1,DEM,Kimberly M. SCHOFIELD,164,92,61,11
 Morgan,31 MADISON 6,State House,57,1,REP,Craig HAGGARD,658,389,244,25
 Morgan,31 MADISON 6,Judge of the Circuit Court 15th Judicial,,1,REP,Matthew George HANSON,644,382,238,24
 Morgan,31 MADISON 6,County Recorder,,1,REP,Anna M. VOYLES,653,386,242,25
@@ -1691,7 +1691,7 @@ Morgan,32 MONROE 1,U.S. House,4,1,DEM,Derrick HOLDER,203,135,44,24
 Morgan,32 MONROE 1,U.S. House,4,1,LBT,Ashley GROFF,37,23,13,1
 Morgan,32 MONROE 1,U.S. House,4,1,,Write-In,0,0,0,0
 Morgan,32 MONROE 1,State Senate,37,1,REP,Rodric D. BRAY,768,502,241,25
-Morgan,32 MONROE 1,State Senate,37,1,DEM," Kimberly M. SCHOFIELD",208,135,48,25
+Morgan,32 MONROE 1,State Senate,37,1,DEM,Kimberly M. SCHOFIELD,208,135,48,25
 Morgan,32 MONROE 1,State House,60,1,REP,Peggy MAYFIELD,758,498,236,24
 Morgan,32 MONROE 1,State House,60,1,DEM,Michelle HIGGS,207,132,49,26
 Morgan,32 MONROE 1,Judge of the Circuit Court 15th Judicial,,1,REP,Matthew George HANSON,773,506,239,28
@@ -1748,7 +1748,7 @@ Morgan,33 MONROE 2,U.S. House,4,1,DEM,Derrick HOLDER,197,122,58,17
 Morgan,33 MONROE 2,U.S. House,4,1,LBT,Ashley GROFF,31,14,17,0
 Morgan,33 MONROE 2,U.S. House,4,1,,Write-In,0,0,0,0
 Morgan,33 MONROE 2,State Senate,37,1,REP,Rodric D. BRAY,534,319,202,13
-Morgan,33 MONROE 2,State Senate,37,1,DEM," Kimberly M. SCHOFIELD",195,116,63,16
+Morgan,33 MONROE 2,State Senate,37,1,DEM,Kimberly M. SCHOFIELD,195,116,63,16
 Morgan,33 MONROE 2,State House,60,1,REP,Peggy MAYFIELD,531,318,201,12
 Morgan,33 MONROE 2,State House,60,1,DEM,Michelle HIGGS,198,121,60,17
 Morgan,33 MONROE 2,Judge of the Circuit Court 15th Judicial,,1,REP,Matthew George HANSON,580,347,216,17
@@ -1807,7 +1807,7 @@ Morgan,34 MONROE 3,U.S. House,4,1,DEM,Derrick HOLDER,181,121,33,27
 Morgan,34 MONROE 3,U.S. House,4,1,LBT,Ashley GROFF,30,12,16,2
 Morgan,34 MONROE 3,U.S. House,4,1,,Write-In,0,0,0,0
 Morgan,34 MONROE 3,State Senate,37,1,REP,Rodric D. BRAY,770,544,183,43
-Morgan,34 MONROE 3,State Senate,37,1,DEM," Kimberly M. SCHOFIELD",187,123,37,27
+Morgan,34 MONROE 3,State Senate,37,1,DEM,Kimberly M. SCHOFIELD,187,123,37,27
 Morgan,34 MONROE 3,State House,60,1,REP,Peggy MAYFIELD,759,532,184,43
 Morgan,34 MONROE 3,State House,60,1,DEM,Michelle HIGGS,186,125,35,26
 Morgan,34 MONROE 3,Judge of the Circuit Court 15th Judicial,,1,REP,Matthew George HANSON,811,573,191,47
@@ -1863,7 +1863,7 @@ Morgan,35 RAY 1,U.S. House,4,1,DEM,Derrick HOLDER,26,12,14,0
 Morgan,35 RAY 1,U.S. House,4,1,LBT,Ashley GROFF,10,1,9,0
 Morgan,35 RAY 1,U.S. House,4,1,,Write-In,0,0,0,0
 Morgan,35 RAY 1,State Senate,37,1,REP,Rodric D. BRAY,158,32,120,6
-Morgan,35 RAY 1,State Senate,37,1,DEM," Kimberly M. SCHOFIELD",33,12,21,0
+Morgan,35 RAY 1,State Senate,37,1,DEM,Kimberly M. SCHOFIELD,33,12,21,0
 Morgan,35 RAY 1,State House,60,1,REP,Peggy MAYFIELD,145,31,111,3
 Morgan,35 RAY 1,State House,60,1,DEM,Michelle HIGGS,39,13,25,1
 Morgan,35 RAY 1,Judge of the Circuit Court 15th Judicial,,1,REP,Matthew George HANSON,164,37,122,5
@@ -1920,7 +1920,7 @@ Morgan,36 RAY 2,U.S. House,4,1,DEM,Derrick HOLDER,70,34,26,10
 Morgan,36 RAY 2,U.S. House,4,1,LBT,Ashley GROFF,28,12,15,1
 Morgan,36 RAY 2,U.S. House,4,1,,Write-In,0,0,0,0
 Morgan,36 RAY 2,State Senate,37,1,REP,Rodric D. BRAY,435,203,216,16
-Morgan,36 RAY 2,State Senate,37,1,DEM," Kimberly M. SCHOFIELD",75,33,34,8
+Morgan,36 RAY 2,State Senate,37,1,DEM,Kimberly M. SCHOFIELD,75,33,34,8
 Morgan,36 RAY 2,State House,60,1,REP,Peggy MAYFIELD,430,198,218,14
 Morgan,36 RAY 2,State House,60,1,DEM,Michelle HIGGS,80,39,31,10
 Morgan,36 RAY 2,Judge of the Circuit Court 15th Judicial,,1,REP,Matthew George HANSON,441,202,222,17
@@ -1978,7 +1978,7 @@ Morgan,37 WASHINGTON 1,U.S. House,4,1,DEM,Derrick HOLDER,109,65,28,16
 Morgan,37 WASHINGTON 1,U.S. House,4,1,LBT,Ashley GROFF,26,15,9,2
 Morgan,37 WASHINGTON 1,U.S. House,4,1,,Write-In,0,0,0,0
 Morgan,37 WASHINGTON 1,State Senate,37,1,REP,Rodric D. BRAY,524,340,137,47
-Morgan,37 WASHINGTON 1,State Senate,37,1,DEM," Kimberly M. SCHOFIELD",124,75,32,17
+Morgan,37 WASHINGTON 1,State Senate,37,1,DEM,Kimberly M. SCHOFIELD,124,75,32,17
 Morgan,37 WASHINGTON 1,State House,60,1,REP,Peggy MAYFIELD,531,343,140,48
 Morgan,37 WASHINGTON 1,State House,60,1,DEM,Michelle HIGGS,112,71,26,15
 Morgan,37 WASHINGTON 1,Judge of the Circuit Court 15th Judicial,,1,REP,Matthew George HANSON,562,365,146,51
@@ -2035,7 +2035,7 @@ Morgan,38 WASHINGTON 2,U.S. House,4,1,DEM,Derrick HOLDER,128,67,30,31
 Morgan,38 WASHINGTON 2,U.S. House,4,1,LBT,Ashley GROFF,41,19,18,4
 Morgan,38 WASHINGTON 2,U.S. House,4,1,,Write-In,0,0,0,0
 Morgan,38 WASHINGTON 2,State Senate,37,1,REP,Rodric D. BRAY,536,320,187,29
-Morgan,38 WASHINGTON 2,State Senate,37,1,DEM," Kimberly M. SCHOFIELD",136,76,39,21
+Morgan,38 WASHINGTON 2,State Senate,37,1,DEM,Kimberly M. SCHOFIELD,136,76,39,21
 Morgan,38 WASHINGTON 2,State House,60,1,REP,Peggy MAYFIELD,509,301,179,29
 Morgan,38 WASHINGTON 2,State House,60,1,DEM,Michelle HIGGS,148,87,41,20
 Morgan,38 WASHINGTON 2,Judge of the Circuit Court 15th Judicial,,1,REP,Matthew George HANSON,550,324,190,36
@@ -2093,7 +2093,7 @@ Morgan,39 WASHINGTON 3,U.S. House,4,1,DEM,Derrick HOLDER,97,58,23,16
 Morgan,39 WASHINGTON 3,U.S. House,4,1,LBT,Ashley GROFF,27,15,12,0
 Morgan,39 WASHINGTON 3,U.S. House,4,1,,Write-In,0,0,0,0
 Morgan,39 WASHINGTON 3,State Senate,37,1,REP,Rodric D. BRAY,526,346,150,30
-Morgan,39 WASHINGTON 3,State Senate,37,1,DEM," Kimberly M. SCHOFIELD",104,63,27,14
+Morgan,39 WASHINGTON 3,State Senate,37,1,DEM,Kimberly M. SCHOFIELD,104,63,27,14
 Morgan,39 WASHINGTON 3,State House,60,1,REP,Peggy MAYFIELD,503,329,147,27
 Morgan,39 WASHINGTON 3,State House,60,1,DEM,Michelle HIGGS,112,69,27,16
 Morgan,39 WASHINGTON 3,Judge of the Circuit Court 15th Judicial,,1,REP,Matthew George HANSON,528,340,157,31
@@ -2150,7 +2150,7 @@ Morgan,40 WASHINGTON 4,U.S. House,4,1,DEM,Derrick HOLDER,137,92,34,11
 Morgan,40 WASHINGTON 4,U.S. House,4,1,LBT,Ashley GROFF,42,25,16,1
 Morgan,40 WASHINGTON 4,U.S. House,4,1,,Write-In,0,0,0,0
 Morgan,40 WASHINGTON 4,State Senate,37,1,REP,Rodric D. BRAY,487,310,137,40
-Morgan,40 WASHINGTON 4,State Senate,37,1,DEM," Kimberly M. SCHOFIELD",143,97,36,10
+Morgan,40 WASHINGTON 4,State Senate,37,1,DEM,Kimberly M. SCHOFIELD,143,97,36,10
 Morgan,40 WASHINGTON 4,State House,60,1,REP,Peggy MAYFIELD,453,290,124,39
 Morgan,40 WASHINGTON 4,State House,60,1,DEM,Michelle HIGGS,172,115,47,10
 Morgan,40 WASHINGTON 4,Judge of the Circuit Court 15th Judicial,,1,REP,Matthew George HANSON,496,316,142,38
@@ -2207,7 +2207,7 @@ Morgan,41 WASHINGTON 5,U.S. House,4,1,DEM,Derrick HOLDER,157,101,40,16
 Morgan,41 WASHINGTON 5,U.S. House,4,1,LBT,Ashley GROFF,47,24,20,3
 Morgan,41 WASHINGTON 5,U.S. House,4,1,,Write-In,0,0,0,0
 Morgan,41 WASHINGTON 5,State Senate,37,1,REP,Rodric D. BRAY,677,370,233,74
-Morgan,41 WASHINGTON 5,State Senate,37,1,DEM," Kimberly M. SCHOFIELD",179,117,50,12
+Morgan,41 WASHINGTON 5,State Senate,37,1,DEM,Kimberly M. SCHOFIELD,179,117,50,12
 Morgan,41 WASHINGTON 5,State House,60,1,REP,Peggy MAYFIELD,651,352,228,71
 Morgan,41 WASHINGTON 5,State House,60,1,DEM,Michelle HIGGS,196,124,57,15
 Morgan,41 WASHINGTON 5,Judge of the Circuit Court 15th Judicial,,1,REP,Matthew George HANSON,717,403,241,73
@@ -2264,7 +2264,7 @@ Morgan,42 WASHINGTON 6,U.S. House,4,1,DEM,Derrick HOLDER,188,133,37,18
 Morgan,42 WASHINGTON 6,U.S. House,4,1,LBT,Ashley GROFF,48,28,20,0
 Morgan,42 WASHINGTON 6,U.S. House,4,1,,Write-In,0,0,0,0
 Morgan,42 WASHINGTON 6,State Senate,37,1,REP,Rodric D. BRAY,651,415,207,29
-Morgan,42 WASHINGTON 6,State Senate,37,1,DEM," Kimberly M. SCHOFIELD",193,132,40,21
+Morgan,42 WASHINGTON 6,State Senate,37,1,DEM,Kimberly M. SCHOFIELD,193,132,40,21
 Morgan,42 WASHINGTON 6,State House,60,1,REP,Peggy MAYFIELD,601,382,189,30
 Morgan,42 WASHINGTON 6,State House,60,1,DEM,Michelle HIGGS,231,160,53,18
 Morgan,42 WASHINGTON 6,Judge of the Circuit Court 15th Judicial,,1,REP,Matthew George HANSON,673,429,206,38
@@ -2321,7 +2321,7 @@ Morgan,43 WASHINGTON 7,U.S. House,4,1,DEM,Derrick HOLDER,190,128,43,19
 Morgan,43 WASHINGTON 7,U.S. House,4,1,LBT,Ashley GROFF,42,25,17,0
 Morgan,43 WASHINGTON 7,U.S. House,4,1,,Write-In,0,0,0,0
 Morgan,43 WASHINGTON 7,State Senate,37,1,REP,Rodric D. BRAY,725,455,234,36
-Morgan,43 WASHINGTON 7,State Senate,37,1,DEM," Kimberly M. SCHOFIELD",190,127,44,19
+Morgan,43 WASHINGTON 7,State Senate,37,1,DEM,Kimberly M. SCHOFIELD,190,127,44,19
 Morgan,43 WASHINGTON 7,State House,60,1,REP,Peggy MAYFIELD,689,434,219,36
 Morgan,43 WASHINGTON 7,State House,60,1,DEM,Michelle HIGGS,223,143,60,20
 Morgan,43 WASHINGTON 7,Judge of the Circuit Court 15th Judicial,,1,REP,Matthew George HANSON,745,462,242,41
@@ -2378,7 +2378,7 @@ Morgan,44 WASHINGTON 8,U.S. House,4,1,DEM,Derrick HOLDER,113,76,26,11
 Morgan,44 WASHINGTON 8,U.S. House,4,1,LBT,Ashley GROFF,32,19,12,1
 Morgan,44 WASHINGTON 8,U.S. House,4,1,,Write-In,0,0,0,0
 Morgan,44 WASHINGTON 8,State Senate,37,1,REP,Rodric D. BRAY,420,250,150,20
-Morgan,44 WASHINGTON 8,State Senate,37,1,DEM," Kimberly M. SCHOFIELD",101,69,22,10
+Morgan,44 WASHINGTON 8,State Senate,37,1,DEM,Kimberly M. SCHOFIELD,101,69,22,10
 Morgan,44 WASHINGTON 8,State House,60,1,REP,Peggy MAYFIELD,372,217,135,20
 Morgan,44 WASHINGTON 8,State House,60,1,DEM,Michelle HIGGS,145,101,33,11
 Morgan,44 WASHINGTON 8,Judge of the Circuit Court 15th Judicial,,1,REP,Matthew George HANSON,432,259,151,22
@@ -2435,7 +2435,7 @@ Morgan,45 WASHINGTON 9,U.S. House,4,1,DEM,Derrick HOLDER,183,119,41,23
 Morgan,45 WASHINGTON 9,U.S. House,4,1,LBT,Ashley GROFF,44,29,14,1
 Morgan,45 WASHINGTON 9,U.S. House,4,1,,Write-In,0,0,0,0
 Morgan,45 WASHINGTON 9,State Senate,37,1,REP,Rodric D. BRAY,761,528,198,35
-Morgan,45 WASHINGTON 9,State Senate,37,1,DEM," Kimberly M. SCHOFIELD",182,118,42,22
+Morgan,45 WASHINGTON 9,State Senate,37,1,DEM,Kimberly M. SCHOFIELD,182,118,42,22
 Morgan,45 WASHINGTON 9,State House,60,1,REP,Peggy MAYFIELD,700,481,186,33
 Morgan,45 WASHINGTON 9,State House,60,1,DEM,Michelle HIGGS,220,151,44,25
 Morgan,45 WASHINGTON 9,Judge of the Circuit Court 15th Judicial,,1,REP,Matthew George HANSON,768,536,194,38
@@ -2492,7 +2492,7 @@ Morgan,46 WASHINGTON 10,U.S. House,4,1,DEM,Derrick HOLDER,230,159,62,9
 Morgan,46 WASHINGTON 10,U.S. House,4,1,LBT,Ashley GROFF,39,19,18,2
 Morgan,46 WASHINGTON 10,U.S. House,4,1,,Write-In,0,0,0,0
 Morgan,46 WASHINGTON 10,State Senate,37,1,REP,Rodric D. BRAY,794,529,225,40
-Morgan,46 WASHINGTON 10,State Senate,37,1,DEM," Kimberly M. SCHOFIELD",227,146,70,11
+Morgan,46 WASHINGTON 10,State Senate,37,1,DEM,Kimberly M. SCHOFIELD,227,146,70,11
 Morgan,46 WASHINGTON 10,State House,60,1,REP,Peggy MAYFIELD,775,510,225,40
 Morgan,46 WASHINGTON 10,State House,60,1,DEM,Michelle HIGGS,246,162,72,12
 Morgan,46 WASHINGTON 10,Judge of the Circuit Court 15th Judicial,,1,REP,Matthew George HANSON,851,566,244,41

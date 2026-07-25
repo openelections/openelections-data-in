@@ -31,7 +31,6 @@ Union,Harrison,President,,REP,Donald Trump,202
 Union,Liberty,President,,REP,Donald Trump,419
 Union,Union,President,,REP,Donald Trump,331
 Union,West Collette Corner,President,,REP,Donald Trump,141
-Union,,President,,REP,Donald Trump,2445
 Union,Brownsville,President,,DEM,Hillary Clinton,62
 Union,Center,President,,DEM,Hillary Clinton,94
 Union,Center 1,President,,DEM,Hillary Clinton,54
@@ -42,7 +41,6 @@ Union,Harrison,President,,DEM,Hillary Clinton,28
 Union,Liberty,President,,DEM,Hillary Clinton,142
 Union,Union,President,,DEM,Hillary Clinton,82
 Union,West Collette Corner,President,,DEM,Hillary Clinton,56
-Union,,President,,DEM,Hillary Clinton,715
 Union,Brownsville,President,,LBT,Gary Johnson,16
 Union,Center,President,,LBT,Gary Johnson,16
 Union,Center 1,President,,LBT,Gary Johnson,13
@@ -53,7 +51,6 @@ Union,Harrison,President,,LBT,Gary Johnson,3
 Union,Liberty,President,,LBT,Gary Johnson,13
 Union,Union,President,,LBT,Gary Johnson,11
 Union,West Collette Corner,President,,LBT,Gary Johnson,7
-Union,,President,,LBT,Gary Johnson,126
 Union,Brownsville,President,,,Write-ins,5
 Union,Center,President,,,Write-ins,3
 Union,Center 1,President,,,Write-ins,3
@@ -75,7 +72,6 @@ Union,Harrison,U.S. Senate,,REP,Todd Young,180
 Union,Liberty,U.S. Senate,,REP,Todd Young,389
 Union,Union,U.S. Senate,,REP,Todd Young,321
 Union,West Collette Corner,U.S. Senate,,REP,Todd Young,136
-Union,,U.S. Senate,,REP,Todd Young,2252
 Union,Brownsville,U.S. Senate,,DEM,Evan Bayh,85
 Union,Center,U.S. Senate,,DEM,Evan Bayh,118
 Union,Center 1,U.S. Senate,,DEM,Evan Bayh,75
@@ -86,7 +82,6 @@ Union,Harrison,U.S. Senate,,DEM,Evan Bayh,45
 Union,Liberty,U.S. Senate,,DEM,Evan Bayh,164
 Union,Union,U.S. Senate,,DEM,Evan Bayh,93
 Union,West Collette Corner,U.S. Senate,,DEM,Evan Bayh,61
-Union,,U.S. Senate,,DEM,Evan Bayh,901
 Union,Brownsville,U.S. Senate,,LBT,Lucy Brenton,21
 Union,Center,U.S. Senate,,LBT,Lucy Brenton,9
 Union,Center 1,U.S. Senate,,LBT,Lucy Brenton,21
@@ -97,7 +92,6 @@ Union,Harrison,U.S. Senate,,LBT,Lucy Brenton,3
 Union,Liberty,U.S. Senate,,LBT,Lucy Brenton,21
 Union,Union,U.S. Senate,,LBT,Lucy Brenton,6
 Union,West Collette Corner,U.S. Senate,,LBT,Lucy Brenton,7
-Union,,U.S. Senate,,LBT,Lucy Brenton,136
 Union,Center 2,U.S. Senate,,,te-in,1
 Union,Brownsville,Governor,,REP,Eric Holcomb,250
 Union,Center,Governor,,REP,Eric Holcomb,303
@@ -109,7 +103,6 @@ Union,Harrison,Governor,,REP,Eric Holcomb,172
 Union,Liberty,Governor,,REP,Eric Holcomb,374
 Union,Union,Governor,,REP,Eric Holcomb,306
 Union,West Collette Corner,Governor,,REP,Eric Holcomb,134
-Union,,Governor,,REP,Eric Holcomb,2179
 Union,Brownsville,Governor,,DEM,John Gregg,99
 Union,Center,Governor,,DEM,John Gregg,115
 Union,Center 1,Governor,,DEM,John Gregg,79
@@ -120,7 +113,6 @@ Union,Harrison,Governor,,DEM,John Gregg,46
 Union,Liberty,Governor,,DEM,John Gregg,167
 Union,Union,Governor,,DEM,John Gregg,100
 Union,West Collette Corner,Governor,,DEM,John Gregg,61
-Union,,Governor,,DEM,John Gregg,936
 Union,Brownsville,Governor,,LBT,Rex Bell,24
 Union,Center,Governor,,LBT,Rex Bell,17
 Union,Center 1,Governor,,LBT,Rex Bell,15
@@ -131,7 +123,6 @@ Union,Harrison,Governor,,LBT,Rex Bell,8
 Union,Liberty,Governor,,LBT,Rex Bell,27
 Union,Union,Governor,,LBT,Rex Bell,8
 Union,West Collette Corner,Governor,,LBT,Rex Bell,6
-Union,,Governor,,LBT,Rex Bell,147
 Union,Brownsville,Attorney General,,REP,Curtis Hill,287
 Union,Center,Attorney General,,REP,Curtis Hill,337
 Union,Center 1,Attorney General,,REP,Curtis Hill,178
@@ -142,7 +133,6 @@ Union,Harrison,Attorney General,,REP,Curtis Hill,200
 Union,Liberty,Attorney General,,REP,Curtis Hill,418
 Union,Union,Attorney General,,REP,Curtis Hill,335
 Union,West Collette Corner,Attorney General,,REP,Curtis Hill,149
-Union,,Attorney General,,REP,Curtis Hill,2481
 Union,Brownsville,Attorney General,,DEM,Lorenzo Arredondo,80
 Union,Center,Attorney General,,DEM,Lorenzo Arredondo,78
 Union,Center 1,Attorney General,,DEM,Lorenzo Arredondo,64
@@ -153,7 +143,6 @@ Union,Harrison,Attorney General,,DEM,Lorenzo Arredondo,23
 Union,Liberty,Attorney General,,DEM,Lorenzo Arredondo,137
 Union,Union,Attorney General,,DEM,Lorenzo Arredondo,64
 Union,West Collette Corner,Attorney General,,DEM,Lorenzo Arredondo,51
-Union,,Attorney General,,DEM,Lorenzo Arredondo,692
 Union,Brownsville,Public Instruction,,REP,Jennifer McCormick,259
 Union,Center,Public Instruction,,REP,Jennifer McCormick,296
 Union,Center 1,Public Instruction,,REP,Jennifer McCormick,164
@@ -164,7 +153,6 @@ Union,Harrison,Public Instruction,,REP,Jennifer McCormick,174
 Union,Liberty,Public Instruction,,REP,Jennifer McCormick,352
 Union,Union,Public Instruction,,REP,Jennifer McCormick,296
 Union,West Collette Corner,Public Instruction,,REP,Jennifer McCormick,140
-Union,,Public Instruction,,REP,Jennifer McCormick,2141
 Union,Brownsville,Public Instruction,,DEM,Glenda Ritz,108
 Union,Center,Public Instruction,,DEM,Glenda Ritz,130
 Union,Center 1,Public Instruction,,DEM,Glenda Ritz,83
@@ -175,7 +163,6 @@ Union,Harrison,Public Instruction,,DEM,Glenda Ritz,50
 Union,Liberty,Public Instruction,,DEM,Glenda Ritz,209
 Union,Union,Public Instruction,,DEM,Glenda Ritz,111
 Union,West Collette Corner,Public Instruction,,DEM,Glenda Ritz,62
-Union,,Public Instruction,,DEM,Glenda Ritz,1065
 Union,Brownsville,U.S. House,6,REP,Luke Messer,283
 Union,Center,U.S. House,6,REP,Luke Messer,329
 Union,Center 1,U.S. House,6,REP,Luke Messer,166
@@ -186,7 +173,6 @@ Union,Harrison,U.S. House,6,REP,Luke Messer,201
 Union,Liberty,U.S. House,6,REP,Luke Messer,424
 Union,Union,U.S. House,6,REP,Luke Messer,328
 Union,West Collette Corner,U.S. House,6,REP,Luke Messer,154
-Union,,U.S. House,6,REP,Luke Messer,2446
 Union,Brownsville,U.S. House,6,DEM,Barry Welsh,66
 Union,Center,U.S. House,6,DEM,Barry Welsh,93
 Union,Center 1,U.S. House,6,DEM,Barry Welsh,67
@@ -197,7 +183,6 @@ Union,Harrison,U.S. House,6,DEM,Barry Welsh,21
 Union,Liberty,U.S. House,6,DEM,Barry Welsh,123
 Union,Union,U.S. House,6,DEM,Barry Welsh,71
 Union,West Collette Corner,U.S. House,6,DEM,Barry Welsh,45
-Union,,U.S. House,6,DEM,Barry Welsh,682
 Union,Brownsville,U.S. House,6,LBT,Rich Turvey,20
 Union,Center,U.S. House,6,LBT,Rich Turvey,10
 Union,Center 1,U.S. House,6,LBT,Rich Turvey,12
@@ -208,7 +193,6 @@ Union,Harrison,U.S. House,6,LBT,Rich Turvey,3
 Union,Liberty,U.S. House,6,LBT,Rich Turvey,20
 Union,Union,U.S. House,6,LBT,Rich Turvey,9
 Union,West Collette Corner,U.S. House,6,LBT,Rich Turvey,5
-Union,,U.S. House,6,LBT,Rich Turvey,110
 Union,Brownsville,State House,68,REP,Randy Lyness,269
 Union,Center,State House,68,REP,Randy Lyness,307
 Union,Center 1,State House,68,REP,Randy Lyness,163
@@ -219,7 +203,6 @@ Union,Harrison,State House,68,REP,Randy Lyness,175
 Union,Liberty,State House,68,REP,Randy Lyness,381
 Union,Union,State House,68,REP,Randy Lyness,321
 Union,West Collette Corner,State House,68,REP,Randy Lyness,147
-Union,,State House,68,REP,Randy Lyness,2278
 Union,Brownsville,State House,68,DEM,Jerome Hoog,96
 Union,Center,State House,68,DEM,Jerome Hoog,117
 Union,Center 1,State House,68,DEM,Jerome Hoog,77
@@ -230,4 +213,3 @@ Union,Harrison,State House,68,DEM,Jerome Hoog,43
 Union,Liberty,State House,68,DEM,Jerome Hoog,173
 Union,Union,State House,68,DEM,Jerome Hoog,82
 Union,West Collette Corner,State House,68,DEM,Jerome Hoog,53
-Union,,State House,68,DEM,Jerome Hoog,899

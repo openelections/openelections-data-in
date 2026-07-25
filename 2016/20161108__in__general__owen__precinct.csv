@@ -74,7 +74,6 @@ Owen,15-Washington 3,President,,DEM,Hillary Clinton,152
 Owen,16-Washington 4,President,,DEM,Hillary Clinton,151
 Owen,18-Wayne 1,President,,DEM,Hillary Clinton,73
 Owen,19-Wayne 2,President,,DEM,Hillary Clinton,68
-Owen,,President,,DEM,Hillary Clinton,1946
 Owen,01-Clay 1,President,,LBT,Gary Johnson,25
 Owen,02-Clay 2,President,,LBT,Gary Johnson,36
 Owen,03-Franklin,President,,LBT,Gary Johnson,20
@@ -93,7 +92,6 @@ Owen,15-Washington 3,President,,LBT,Gary Johnson,21
 Owen,16-Washington 4,President,,LBT,Gary Johnson,40
 Owen,18-Wayne 1,President,,LBT,Gary Johnson,17
 Owen,19-Wayne 2,President,,LBT,Gary Johnson,24
-Owen,,President,,LBT,Gary Johnson,423
 Owen,01-Clay 1,President,,,Write-ins,5
 Owen,02-Clay 2,President,,,Write-ins,3
 Owen,03-Franklin,President,,,Write-ins,3
@@ -150,7 +148,6 @@ Owen,15-Washington 3,U.S. Senate,,DEM,Evan Bayh,184
 Owen,16-Washington 4,U.S. Senate,,DEM,Evan Bayh,223
 Owen,18-Wayne 1,U.S. Senate,,DEM,Evan Bayh,101
 Owen,19-Wayne 2,U.S. Senate,,DEM,Evan Bayh,96
-Owen,,U.S. Senate,,DEM,Evan Bayh,2642
 Owen,01-Clay 1,U.S. Senate,,LBT,Lucy Brenton,32
 Owen,02-Clay 2,U.S. Senate,,LBT,Lucy Brenton,33
 Owen,03-Franklin,U.S. Senate,,LBT,Lucy Brenton,28
@@ -169,7 +166,6 @@ Owen,15-Washington 3,U.S. Senate,,LBT,Lucy Brenton,24
 Owen,16-Washington 4,U.S. Senate,,LBT,Lucy Brenton,33
 Owen,18-Wayne 1,U.S. Senate,,LBT,Lucy Brenton,22
 Owen,19-Wayne 2,U.S. Senate,,LBT,Lucy Brenton,37
-Owen,,U.S. Senate,,LBT,Lucy Brenton,557
 Owen,01-Clay 1,U.S. Senate,,,Write-ins,0
 Owen,02-Clay 2,U.S. Senate,,,Write-ins,0
 Owen,03-Franklin,U.S. Senate,,,Write-ins,0
@@ -226,7 +222,6 @@ Owen,15-Washington 3,Governor,,DEM,John Gregg,194
 Owen,16-Washington 4,Governor,,DEM,John Gregg,253
 Owen,18-Wayne 1,Governor,,DEM,John Gregg,119
 Owen,19-Wayne 2,Governor,,DEM,John Gregg,123
-Owen,,Governor,,DEM,John Gregg,3073
 Owen,01-Clay 1,Governor,,LBT,Rex Bell,17
 Owen,02-Clay 2,Governor,,LBT,Rex Bell,20
 Owen,03-Franklin,Governor,,LBT,Rex Bell,19
@@ -245,7 +240,6 @@ Owen,15-Washington 3,Governor,,LBT,Rex Bell,18
 Owen,16-Washington 4,Governor,,LBT,Rex Bell,17
 Owen,18-Wayne 1,Governor,,LBT,Rex Bell,13
 Owen,19-Wayne 2,Governor,,LBT,Rex Bell,18
-Owen,,Governor,,LBT,Rex Bell,334
 Owen,01-Clay 1,Governor,,,Write-ins,0
 Owen,02-Clay 2,Governor,,,Write-ins,0
 Owen,03-Franklin,Governor,,,Write-ins,0
@@ -302,7 +296,6 @@ Owen,15-Washington 3,Attorney General,,DEM,Lorenzo Arredondo,148
 Owen,16-Washington 4,Attorney General,,DEM,Lorenzo Arredondo,165
 Owen,18-Wayne 1,Attorney General,,DEM,Lorenzo Arredondo,84
 Owen,19-Wayne 2,Attorney General,,DEM,Lorenzo Arredondo,81
-Owen,,Attorney General,,DEM,Lorenzo Arredondo,2109
 Owen,01-Clay 1,Public Instruction,,REP,Jennifer McCormick,340
 Owen,02-Clay 2,Public Instruction,,REP,Jennifer McCormick,372
 Owen,03-Franklin,Public Instruction,,REP,Jennifer McCormick,325
@@ -340,7 +333,6 @@ Owen,15-Washington 3,Public Instruction,,DEM,Glenda Ritz,196
 Owen,16-Washington 4,Public Instruction,,DEM,Glenda Ritz,221
 Owen,18-Wayne 1,Public Instruction,,DEM,Glenda Ritz,99
 Owen,19-Wayne 2,Public Instruction,,DEM,Glenda Ritz,125
-Owen,,Public Instruction,,DEM,Glenda Ritz,2953
 Owen,01-Clay 1,U.S. House,8,REP,Larry Bucshon,367
 Owen,02-Clay 2,U.S. House,8,REP,Larry Bucshon,391
 Owen,03-Franklin,U.S. House,8,REP,Larry Bucshon,344
@@ -378,7 +370,6 @@ Owen,15-Washington 3,U.S. House,8,DEM,Ron Drake,152
 Owen,16-Washington 4,U.S. House,8,DEM,Ron Drake,158
 Owen,18-Wayne 1,U.S. House,8,DEM,Ron Drake,85
 Owen,19-Wayne 2,U.S. House,8,DEM,Ron Drake,70
-Owen,,U.S. House,8,DEM,Ron Drake,2038
 Owen,01-Clay 1,U.S. House,8,LBT,Andrew Horning,29
 Owen,02-Clay 2,U.S. House,8,LBT,Andrew Horning,33
 Owen,03-Franklin,U.S. House,8,LBT,Andrew Horning,47
@@ -397,7 +388,6 @@ Owen,15-Washington 3,U.S. House,8,LBT,Andrew Horning,35
 Owen,16-Washington 4,U.S. House,8,LBT,Andrew Horning,47
 Owen,18-Wayne 1,U.S. House,8,LBT,Andrew Horning,25
 Owen,19-Wayne 2,U.S. House,8,LBT,Andrew Horning,39
-Owen,,U.S. House,8,LBT,Andrew Horning,648
 Owen,04-Harrison,U.S. House,8,,Write-ins,1
 Owen,04-Harrison,State Senate,SD37,REP,Rodric Bray,141
 Owen,05-Jackson,State Senate,SD37,REP,Rodric Bray,426
@@ -443,5 +433,3 @@ Owen,15-Washington 3,State House,46,DEM,Bill Breeden,167
 Owen,16-Washington 4,State House,46,DEM,Bill Breeden,201
 Owen,18-Wayne 1,State House,46,DEM,Bill Breeden,97
 Owen,19-Wayne 2,State House,46,DEM,Bill Breeden,94
-Owen,,State House,44,DEM,Kimberly Fidler,494
-Owen,,State House,46,DEM,Bill Breeden,2109

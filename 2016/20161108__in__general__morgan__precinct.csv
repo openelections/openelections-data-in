@@ -493,7 +493,6 @@ Morgan,51-Washington 11,U S Senate,,LBT,Lucy Brenton,34
 Morgan,52-Washington 12,U S Senate,,LBT,Lucy Brenton,40
 Morgan,53-Washington 13,U S Senate,,LBT,Lucy Brenton,24
 Morgan,54-Washington 14,U S Senate,,LBT,Lucy Brenton,34
-Morgan,,U S Senate,,LBT,Lucy Brenton,2011
 Morgan,01-Adams,U S Senate,,,Write-ins,0
 Morgan,02-Ashland 1,U S Senate,,,Write-ins,0
 Morgan,03-Ashland 2,U S Senate,,,Write-ins,2
@@ -548,7 +547,6 @@ Morgan,51-Washington 11,U S Senate,,,Write-ins,1
 Morgan,52-Washington 12,U S Senate,,,Write-ins,0
 Morgan,53-Washington 13,U S Senate,,,Write-ins,0
 Morgan,54-Washington 14,U S Senate,,,Write-ins,1
-Morgan,,U S Senate,,,Write-ins,12
 Morgan,01-Adams,Governor,,REP,Eric Holcomb,354
 Morgan,02-Ashland 1,Governor,,REP,Eric Holcomb,293
 Morgan,03-Ashland 2,Governor,,REP,Eric Holcomb,224
@@ -713,7 +711,6 @@ Morgan,51-Washington 11,Governor,,LBT,Rex Bell,19
 Morgan,52-Washington 12,Governor,,LBT,Rex Bell,19
 Morgan,53-Washington 13,Governor,,LBT,Rex Bell,19
 Morgan,54-Washington 14,Governor,,LBT,Rex Bell,19
-Morgan,,Governor,,LBT,Rex Bell,1128
 Morgan,01-Adams,Governor,,,Write-ins,0
 Morgan,02-Ashland 1,Governor,,,Write-ins,0
 Morgan,03-Ashland 2,Governor,,,Write-ins,0
@@ -1043,7 +1040,6 @@ Morgan,51-Washington 11,U.S. House,9,REP,Trey Hollingsworth,365
 Morgan,52-Washington 12,U.S. House,9,REP,Trey Hollingsworth,306
 Morgan,53-Washington 13,U.S. House,9,REP,Trey Hollingsworth,348
 Morgan,54-Washington 14,U.S. House,9,REP,Trey Hollingsworth,403
-Morgan,,U.S. House,4,REP,Todd Rokita,7549
 Morgan,,U.S. House,9,REP,Trey Hollingsworth,14230
 Morgan,01-Adams,U.S. House,4,DEM,John Dale,108
 Morgan,02-Ashland 1,U.S. House,4,DEM,John Dale,89
@@ -1099,7 +1095,6 @@ Morgan,51-Washington 11,U.S. House,9,DEM,Shelli Yoder,156
 Morgan,52-Washington 12,U.S. House,9,DEM,Shelli Yoder,119
 Morgan,53-Washington 13,U.S. House,9,DEM,Shelli Yoder,138
 Morgan,54-Washington 14,U.S. House,9,DEM,Shelli Yoder,158
-Morgan,,U.S. House,4,DEM,John Dale,2088
 Morgan,,U.S. House,9,DEM,Shelli Yoder,5140
 Morgan,01-Adams,U.S. House,4,LBT,Steve Mayoras,23
 Morgan,02-Ashland 1,U.S. House,4,LBT,Steve Mayoras,16
@@ -1155,8 +1150,6 @@ Morgan,51-Washington 11,U.S. House,9,LBT,Russ Brooksbank,31
 Morgan,52-Washington 12,U.S. House,9,LBT,Russ Brooksbank,28
 Morgan,53-Washington 13,U.S. House,9,LBT,Russ Brooksbank,23
 Morgan,54-Washington 14,U.S. House,9,LBT,Russ Brooksbank,31
-Morgan,,U.S. House,4,LBT,Steve Mayoras,496
-Morgan,,U.S. House,9,LBT,Russ Brooksbank,1253
 Morgan,01-Adams,State Senate,37,REP,Rodric Bray,434
 Morgan,02-Ashland 1,State Senate,37,REP,Rodric Bray,361
 Morgan,03-Ashland 2,State Senate,37,REP,Rodric Bray,260
@@ -1266,7 +1259,6 @@ Morgan,51-Washington 11,State House,60,REP,Peggy Mayfield,404
 Morgan,52-Washington 12,State House,60,REP,Peggy Mayfield,339
 Morgan,53-Washington 13,State House,60,REP,Peggy Mayfield,380
 Morgan,54-Washington 14,State House,60,REP,Peggy Mayfield,434
-Morgan,,State House,44,REP,Jim Baird,4732
 Morgan,,State House,47,REP,John Young,3851
 Morgan,,State House,60,REP,Peggy Mayfield,14182
 Morgan,01-Adams,State House,44,DEM,Kimberly Fidler,146
@@ -1323,6 +1315,5 @@ Morgan,51-Washington 11,State House,60,DEM,Penny Githens,128
 Morgan,52-Washington 12,State House,60,DEM,Penny Githens,101
 Morgan,53-Washington 13,State House,60,DEM,Penny Githens,116
 Morgan,54-Washington 14,State House,60,DEM,Penny Githens,148
-Morgan,,State House,44,DEM,Kimberly Fidler,1595
 Morgan,,State House,47,DEM,Mike Reddick,1187
 Morgan,,State House,60,DEM,Penny Githens,4307

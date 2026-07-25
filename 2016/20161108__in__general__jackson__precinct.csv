@@ -122,7 +122,6 @@ Jackson,Vernon Crothersville,President,,DEM,Hillary Clinton,132
 Jackson,Vernon North,President,,DEM,Hillary Clinton,60
 Jackson,Vernon South,President,,DEM,Hillary Clinton,109
 Jackson,Washington,President,,DEM,Hillary Clinton,128
-Jackson,,President,,DEM,Hillary Clinton,3843
 Jackson,Brownstown 01,President,,LBT,Gary Johnson,21
 Jackson,Brownstown 02,President,,LBT,Gary Johnson,21
 Jackson,Brownstown 04,President,,LBT,Gary Johnson,2
@@ -153,7 +152,6 @@ Jackson,Vernon Crothersville,President,,LBT,Gary Johnson,29
 Jackson,Vernon North,President,,LBT,Gary Johnson,14
 Jackson,Vernon South,President,,LBT,Gary Johnson,16
 Jackson,Washington,President,,LBT,Gary Johnson,18
-Jackson,,President,,LBT,Gary Johnson,832
 Jackson,Brownstown 01,President,,,Write-ins,3
 Jackson,Brownstown 02,President,,,Write-ins,9
 Jackson,Brownstown 04,President,,,Write-ins,0
@@ -246,7 +244,6 @@ Jackson,Vernon Crothersville,U.S. Senate,,DEM,Evan Bayh,195
 Jackson,Vernon North,U.S. Senate,,DEM,Evan Bayh,105
 Jackson,Vernon South,U.S. Senate,,DEM,Evan Bayh,178
 Jackson,Washington,U.S. Senate,,DEM,Evan Bayh,191
-Jackson,,U.S. Senate,,DEM,Evan Bayh,5626
 Jackson,Brownstown 01,U.S. Senate,,LBT,Lucy Brenton,27
 Jackson,Brownstown 02,U.S. Senate,,LBT,Lucy Brenton,21
 Jackson,Brownstown 04,U.S. Senate,,LBT,Lucy Brenton,3
@@ -277,7 +274,6 @@ Jackson,Vernon Crothersville,U.S. Senate,,LBT,Lucy Brenton,18
 Jackson,Vernon North,U.S. Senate,,LBT,Lucy Brenton,9
 Jackson,Vernon South,U.S. Senate,,LBT,Lucy Brenton,15
 Jackson,Washington,U.S. Senate,,LBT,Lucy Brenton,16
-Jackson,,U.S. Senate,,LBT,Lucy Brenton,721
 Jackson,Brownstown 01,U.S. Senate,,,Write-ins,0
 Jackson,Brownstown 02,U.S. Senate,,,Write-ins,0
 Jackson,Brownstown 04,U.S. Senate,,,Write-ins,0
@@ -402,35 +398,13 @@ Jackson,Vernon North,U.S. Senate,,LBT,Rex Bell,9
 Jackson,Vernon South,U.S. Senate,,LBT,Rex Bell,16
 Jackson,Washington,U.S. Senate,,LBT,Rex Bell,9
 Jackson,,U.S. Senate,,LBT,Rex Bell,466
-Jackson,Brownstown 01,U.S. Senate,,,Write-ins,0
-Jackson,Brownstown 02,U.S. Senate,,,Write-ins,0
-Jackson,Brownstown 04,U.S. Senate,,,Write-ins,0
-Jackson,Brownstown East,U.S. Senate,,,Write-ins,0
-Jackson,Brownstown West,U.S. Senate,,,Write-ins,0
-Jackson,Carr,U.S. Senate,,,Write-ins,0
-Jackson,Driftwood,U.S. Senate,,,Write-ins,0
-Jackson,Grassy Fork,U.S. Senate,,,Write-ins,0
-Jackson,Hamilton,U.S. Senate,,,Write-ins,0
 Jackson,Jackson 1 East,U.S. Senate,,,Write-ins,1
-Jackson,Jackson 2 East,U.S. Senate,,,Write-ins,0
-Jackson,Jackson 2 West,U.S. Senate,,,Write-ins,1
 Jackson,Jackson 3 North,U.S. Senate,,,Write-ins,0
-Jackson,Jackson 3 South,U.S. Senate,,,Write-ins,0
-Jackson,Jackson 4 North,U.S. Senate,,,Write-ins,0
-Jackson,Jackson 4 South,U.S. Senate,,,Write-ins,0
 Jackson,Jackson 5 East,U.S. Senate,,,Write-ins,2
 Jackson,Jackson 5 North,U.S. Senate,,,Write-ins,0
 Jackson,Jackson 6,U.S. Senate,,,Write-ins,1
 Jackson,Jackson 7,U.S. Senate,,,Write-ins,1
-Jackson,Owen,U.S. Senate,,,Write-ins,0
-Jackson,Pershing,U.S. Senate,,,Write-ins,0
-Jackson,Redding East,U.S. Senate,,,Write-ins,0
-Jackson,Redding Seymour City,U.S. Senate,,,Write-ins,0
 Jackson,Redding West,U.S. Senate,,,Write-ins,0
-Jackson,Salt Creek,U.S. Senate,,,Write-ins,0
-Jackson,Vernon Crothersville,U.S. Senate,,,Write-ins,0
-Jackson,Vernon North,U.S. Senate,,,Write-ins,0
-Jackson,Vernon South,U.S. Senate,,,Write-ins,0
 Jackson,Washington,U.S. Senate,,,Write-ins,1
 Jackson,,U.S. Senate,,,Write-ins,7
 Jackson,Brownstown 01,Attorney General,,REP,Curtis Hill,353
@@ -494,7 +468,6 @@ Jackson,Vernon Crothersville,Attorney General,,DEM,Lorenzo Arredondo,146
 Jackson,Vernon North,Attorney General,,DEM,Lorenzo Arredondo,87
 Jackson,Vernon South,Attorney General,,DEM,Lorenzo Arredondo,120
 Jackson,Washington,Attorney General,,DEM,Lorenzo Arredondo,127
-Jackson,,Attorney General,,DEM,Lorenzo Arredondo,4289
 Jackson,Brownstown 01,Public Instruction,,REP,Jennifer McCormick,293
 Jackson,Brownstown 02,Public Instruction,,REP,Jennifer McCormick,362
 Jackson,Brownstown 04,Public Instruction,,REP,Jennifer McCormick,48
@@ -556,7 +529,6 @@ Jackson,Vernon Crothersville,Public Instruction,,DEM,Glenda Ritz,193
 Jackson,Vernon North,Public Instruction,,DEM,Glenda Ritz,110
 Jackson,Vernon South,Public Instruction,,DEM,Glenda Ritz,187
 Jackson,Washington,Public Instruction,,DEM,Glenda Ritz,222
-Jackson,,Public Instruction,,DEM,Glenda Ritz,6290
 Jackson,Brownstown 01,U.S. House,9,REP,Trey Hollingsworth,306
 Jackson,Brownstown 02,U.S. House,9,REP,Trey Hollingsworth,363
 Jackson,Brownstown 04,U.S. House,9,REP,Trey Hollingsworth,55
@@ -618,7 +590,6 @@ Jackson,Vernon Crothersville,U.S. House,9,DEM,Shelli Yoder,177
 Jackson,Vernon North,U.S. House,9,DEM,Shelli Yoder,113
 Jackson,Vernon South,U.S. House,9,DEM,Shelli Yoder,173
 Jackson,Washington,U.S. House,9,DEM,Shelli Yoder,187
-Jackson,,U.S. House,9,DEM,Shelli Yoder,5596
 Jackson,Brownstown 01,U.S. House,9,LBT,Russ Brooksbank,20
 Jackson,Brownstown 02,U.S. House,9,LBT,Russ Brooksbank,32
 Jackson,Brownstown 04,U.S. House,9,LBT,Russ Brooksbank,3
@@ -649,7 +620,6 @@ Jackson,Vernon Crothersville,U.S. House,9,LBT,Russ Brooksbank,39
 Jackson,Vernon North,U.S. House,9,LBT,Russ Brooksbank,21
 Jackson,Vernon South,U.S. House,9,LBT,Russ Brooksbank,23
 Jackson,Washington,U.S. House,9,LBT,Russ Brooksbank,21
-Jackson,,U.S. House,9,LBT,Russ Brooksbank,976
 Jackson,Brownstown 01,State Senate,44,REP,Eric Koch,352
 Jackson,Brownstown 02,State Senate,44,REP,Eric Koch,410
 Jackson,Brownstown 04,State Senate,44,REP,Eric Koch,61
@@ -699,7 +669,6 @@ Jackson,Pershing,State Senate,44,DEM,Linda Henderson,105
 Jackson,Redding Seymour City,State Senate,44,DEM,Linda Henderson,157
 Jackson,Redding West,State Senate,44,DEM,Linda Henderson,150
 Jackson,Salt Creek,State Senate,44,DEM,Linda Henderson,35
-Jackson,,State Senate,44,DEM,Linda Henderson,3611
 Jackson,Brownstown 01,State Senate,44,LBT,Darin Kinser,17
 Jackson,Brownstown 02,State Senate,44,LBT,Darin Kinser,15
 Jackson,Brownstown 04,State Senate,44,LBT,Darin Kinser,1
@@ -724,7 +693,6 @@ Jackson,Pershing,State Senate,44,LBT,Darin Kinser,22
 Jackson,Redding Seymour City,State Senate,44,LBT,Darin Kinser,27
 Jackson,Redding West,State Senate,44,LBT,Darin Kinser,21
 Jackson,Salt Creek,State Senate,44,LBT,Darin Kinser,2
-Jackson,,State Senate,44,LBT,Darin Kinser,480
 Jackson,Brownstown 01,State House,69,REP,Jim Lucas,411
 Jackson,Brownstown 02,State House,69,REP,Jim Lucas,460
 Jackson,Brownstown 04,State House,73,REP,Steven Davisson,58
@@ -755,9 +723,7 @@ Jackson,Vernon Crothersville,State House,69,REP,Jim Lucas,419
 Jackson,Vernon North,State House,69,REP,Jim Lucas,295
 Jackson,Vernon South,State House,69,REP,Jim Lucas,348
 Jackson,Washington,State House,69,REP,Jim Lucas,517
-Jackson,,State House,65,REP,Chris May,532
 Jackson,,State House,69,REP,Jim Lucas,11312
-Jackson,,State House,73,REP,Steven Davisson,1768
 Jackson,Brownstown 04,State House,73,DEM,Douglas Leatherbury,20
 Jackson,Brownstown West,State House,73,DEM,Douglas Leatherbury,104
 Jackson,Carr,State House,73,DEM,Douglas Leatherbury,166
@@ -766,5 +732,3 @@ Jackson,Grassy Fork,State House,73,DEM,Douglas Leatherbury,80
 Jackson,Owen,State House,73,DEM,Douglas Leatherbury,157
 Jackson,Pershing,State House,65,DEM,Chris Woods,158
 Jackson,Salt Creek,State House,65,DEM,Chris Woods,43
-Jackson,,State House,65,DEM,Chris Woods,201
-Jackson,,State House,73,DEM,Douglas Leatherbury,660

@@ -49,7 +49,6 @@ Scott,13-Vienna 3,President,,REP,Donald Trump,301
 Scott,14-Vienna 4,President,,REP,Donald Trump,397
 Scott,15-Vienna 5,President,,REP,Donald Trump,498
 Scott,16-Vienna 6,President,,REP,Donald Trump,463
-Scott,,President,,REP,Donald Trump,6074
 Scott,01-Finley,President,,DEM,Hillary Clinton,189
 Scott,02-Jennings 1,President,,DEM,Hillary Clinton,108
 Scott,03-Jennings 2,President,,DEM,Hillary Clinton,121
@@ -66,7 +65,6 @@ Scott,13-Vienna 3,President,,DEM,Hillary Clinton,155
 Scott,14-Vienna 4,President,,DEM,Hillary Clinton,229
 Scott,15-Vienna 5,President,,DEM,Hillary Clinton,238
 Scott,16-Vienna 6,President,,DEM,Hillary Clinton,158
-Scott,,President,,DEM,Hillary Clinton,2642
 Scott,01-Finley,President,,LBT,Gary Johnson,28
 Scott,02-Jennings 1,President,,LBT,Gary Johnson,12
 Scott,03-Jennings 2,President,,LBT,Gary Johnson,12
@@ -83,7 +81,6 @@ Scott,13-Vienna 3,President,,LBT,Gary Johnson,24
 Scott,14-Vienna 4,President,,LBT,Gary Johnson,32
 Scott,15-Vienna 5,President,,LBT,Gary Johnson,32
 Scott,16-Vienna 6,President,,LBT,Gary Johnson,27
-Scott,,President,,LBT,Gary Johnson,344
 Scott,01-Finley,President,,,Write-ins,5
 Scott,02-Jennings 1,President,,,Write-ins,3
 Scott,03-Jennings 2,President,,,Write-ins,5
@@ -117,7 +114,6 @@ Scott,13-Vienna 3,U.S. Senate,,REP,Todd Young,261
 Scott,14-Vienna 4,U.S. Senate,,REP,Todd Young,326
 Scott,15-Vienna 5,U.S. Senate,,REP,Todd Young,429
 Scott,16-Vienna 6,U.S. Senate,,REP,Todd Young,419
-Scott,,U.S. Senate,,REP,Todd Young,5046
 Scott,01-Finley,U.S. Senate,,DEM,Evan Bayh,245
 Scott,02-Jennings 1,U.S. Senate,,DEM,Evan Bayh,152
 Scott,03-Jennings 2,U.S. Senate,,DEM,Evan Bayh,191
@@ -134,7 +130,6 @@ Scott,13-Vienna 3,U.S. Senate,,DEM,Evan Bayh,209
 Scott,14-Vienna 4,U.S. Senate,,DEM,Evan Bayh,313
 Scott,15-Vienna 5,U.S. Senate,,DEM,Evan Bayh,314
 Scott,16-Vienna 6,U.S. Senate,,DEM,Evan Bayh,225
-Scott,,U.S. Senate,,DEM,Evan Bayh,3763
 Scott,01-Finley,U.S. Senate,,LBT,Lucy Brenton,25
 Scott,02-Jennings 1,U.S. Senate,,LBT,Lucy Brenton,13
 Scott,03-Jennings 2,U.S. Senate,,LBT,Lucy Brenton,11
@@ -151,7 +146,6 @@ Scott,13-Vienna 3,U.S. Senate,,LBT,Lucy Brenton,14
 Scott,14-Vienna 4,U.S. Senate,,LBT,Lucy Brenton,24
 Scott,15-Vienna 5,U.S. Senate,,LBT,Lucy Brenton,28
 Scott,16-Vienna 6,U.S. Senate,,LBT,Lucy Brenton,14
-Scott,,U.S. Senate,,LBT,Lucy Brenton,288
 Scott,16-Vienna 6,U.S. Senate,,,Write-ins,1
 Scott,01-Finley,Governor,,REP,Eric Holcomb,434
 Scott,02-Jennings 1,Governor,,REP,Eric Holcomb,178
@@ -169,7 +163,6 @@ Scott,13-Vienna 3,Governor,,REP,Eric Holcomb,248
 Scott,14-Vienna 4,Governor,,REP,Eric Holcomb,336
 Scott,15-Vienna 5,Governor,,REP,Eric Holcomb,402
 Scott,16-Vienna 6,Governor,,REP,Eric Holcomb,401
-Scott,,Governor,,REP,Eric Holcomb,4869
 Scott,01-Finley,Governor,,DEM,John Gregg,276
 Scott,02-Jennings 1,Governor,,DEM,John Gregg,148
 Scott,03-Jennings 2,Governor,,DEM,John Gregg,197
@@ -186,7 +179,6 @@ Scott,13-Vienna 3,Governor,,DEM,John Gregg,216
 Scott,14-Vienna 4,Governor,,DEM,John Gregg,297
 Scott,15-Vienna 5,Governor,,DEM,John Gregg,335
 Scott,16-Vienna 6,Governor,,DEM,John Gregg,233
-Scott,,Governor,,DEM,John Gregg,3830
 Scott,01-Finley,Governor,,LBT,Rex Bell,18
 Scott,02-Jennings 1,Governor,,LBT,Rex Bell,18
 Scott,03-Jennings 2,Governor,,LBT,Rex Bell,8
@@ -203,7 +195,6 @@ Scott,13-Vienna 3,Governor,,LBT,Rex Bell,11
 Scott,14-Vienna 4,Governor,,LBT,Rex Bell,21
 Scott,15-Vienna 5,Governor,,LBT,Rex Bell,19
 Scott,16-Vienna 6,Governor,,LBT,Rex Bell,15
-Scott,,Governor,,LBT,Rex Bell,245
 Scott,01-Finley,Attorney General,,REP,Curtis Hill,487
 Scott,02-Jennings 1,Attorney General,,REP,Curtis Hill,207
 Scott,03-Jennings 2,Attorney General,,REP,Curtis Hill,182
@@ -220,7 +211,6 @@ Scott,13-Vienna 3,Attorney General,,REP,Curtis Hill,289
 Scott,14-Vienna 4,Attorney General,,REP,Curtis Hill,369
 Scott,15-Vienna 5,Attorney General,,REP,Curtis Hill,472
 Scott,16-Vienna 6,Attorney General,,REP,Curtis Hill,441
-Scott,,Attorney General,,REP,Curtis Hill,5530
 Scott,01-Finley,Attorney General,,DEM,Lorenzo Arredondo,210
 Scott,02-Jennings 1,Attorney General,,DEM,Lorenzo Arredondo,121
 Scott,03-Jennings 2,Attorney General,,DEM,Lorenzo Arredondo,154
@@ -237,7 +227,6 @@ Scott,13-Vienna 3,Attorney General,,DEM,Lorenzo Arredondo,172
 Scott,14-Vienna 4,Attorney General,,DEM,Lorenzo Arredondo,255
 Scott,15-Vienna 5,Attorney General,,DEM,Lorenzo Arredondo,264
 Scott,16-Vienna 6,Attorney General,,DEM,Lorenzo Arredondo,183
-Scott,,Attorney General,,DEM,Lorenzo Arredondo,3076
 Scott,01-Finley,Public Instruction,,REP,Jennifer McCormick,436
 Scott,02-Jennings 1,Public Instruction,,REP,Jennifer McCormick,190
 Scott,03-Jennings 2,Public Instruction,,REP,Jennifer McCormick,150
@@ -254,7 +243,6 @@ Scott,13-Vienna 3,Public Instruction,,REP,Jennifer McCormick,231
 Scott,14-Vienna 4,Public Instruction,,REP,Jennifer McCormick,328
 Scott,15-Vienna 5,Public Instruction,,REP,Jennifer McCormick,381
 Scott,16-Vienna 6,Public Instruction,,REP,Jennifer McCormick,384
-Scott,,Public Instruction,,REP,Jennifer McCormick,4773
 Scott,01-Finley,Public Instruction,,DEM,Glenda Ritz,277
 Scott,02-Jennings 1,Public Instruction,,DEM,Glenda Ritz,143
 Scott,03-Jennings 2,Public Instruction,,DEM,Glenda Ritz,190
@@ -271,7 +259,6 @@ Scott,13-Vienna 3,Public Instruction,,DEM,Glenda Ritz,233
 Scott,14-Vienna 4,Public Instruction,,DEM,Glenda Ritz,303
 Scott,15-Vienna 5,Public Instruction,,DEM,Glenda Ritz,367
 Scott,16-Vienna 6,Public Instruction,,DEM,Glenda Ritz,254
-Scott,,Public Instruction,,DEM,Glenda Ritz,3961
 Scott,01-Finley,U.S. House,9,REP,Trey Hollingsworth,428
 Scott,02-Jennings 1,U.S. House,6,REP,Luke Messer,183
 Scott,03-Jennings 2,U.S. House,6,REP,Luke Messer,166
@@ -288,8 +275,6 @@ Scott,13-Vienna 3,U.S. House,9,REP,Trey Hollingsworth,235
 Scott,14-Vienna 4,U.S. House,9,REP,Trey Hollingsworth,294
 Scott,15-Vienna 5,U.S. House,9,REP,Trey Hollingsworth,380
 Scott,16-Vienna 6,U.S. House,6,REP,Trey Hollingsworth,376
-Scott,,U.S. House,6,REP,Luke Messer,2257
-Scott,,U.S. House,9,REP,Trey Hollingsworth,2510
 Scott,01-Finley,U.S. House,9,DEM,Shelli Yoder,272
 Scott,02-Jennings 1,U.S. House,6,DEM,Barry Welsh,132
 Scott,03-Jennings 2,U.S. House,6,DEM,Barry Welsh,164
@@ -306,8 +291,6 @@ Scott,13-Vienna 3,U.S. House,9,DEM,Shelli Yoder,212
 Scott,14-Vienna 4,U.S. House,9,DEM,Shelli Yoder,322
 Scott,15-Vienna 5,U.S. House,9,DEM,Shelli Yoder,342
 Scott,16-Vienna 6,U.S. House,6,DEM,Shelli Yoder,250
-Scott,,U.S. House,6,DEM,Barry Welsh,1643
-Scott,,U.S. House,9,DEM,Shelli Yoder,2028
 Scott,01-Finley,U.S. House,9,LBT,Russ Brooksbank,31
 Scott,02-Jennings 1,U.S. House,6,LBT,Rich Turvey,24
 Scott,03-Jennings 2,U.S. House,6,LBT,Rich Turvey,8
@@ -324,8 +307,6 @@ Scott,13-Vienna 3,U.S. House,9,LBT,Russ Brooksbank,29
 Scott,14-Vienna 4,U.S. House,9,LBT,Russ Brooksbank,35
 Scott,15-Vienna 5,U.S. House,9,LBT,Russ Brooksbank,33
 Scott,16-Vienna 6,U.S. House,6,LBT,Russ Brooksbank,30
-Scott,,U.S. House,6,LBT,Rich Turvey,130
-Scott,,U.S. House,9,,Russ Brooksbank,224
 Scott,01-Finley,U.S. House,9,,Write-ins,0
 Scott,02-Jennings 1,U.S. House,6,,Write-ins,0
 Scott,03-Jennings 2,U.S. House,6,,Write-ins,0
@@ -360,7 +341,6 @@ Scott,13-Vienna 3,State House,66,REP,Joe Van Wye,117
 Scott,14-Vienna 4,State House,66,REP,Joe Van Wye,167
 Scott,15-Vienna 5,State House,66,REP,Joe Van Wye,211
 Scott,16-Vienna 6,State House,66,REP,Joe Van Wye,207
-Scott,,State House,66,REP,Joe Van Wye,2493
 Scott,01-Finley,State House,66,DEM,Terry Goodin,502
 Scott,02-Jennings 1,State House,66,DEM,Terry Goodin,284
 Scott,03-Jennings 2,State House,66,DEM,Terry Goodin,297
@@ -377,4 +357,3 @@ Scott,13-Vienna 3,State House,66,DEM,Terry Goodin,363
 Scott,14-Vienna 4,State House,66,DEM,Terry Goodin,492
 Scott,15-Vienna 5,State House,66,DEM,Terry Goodin,554
 Scott,16-Vienna 6,State House,66,DEM,Terry Goodin,444
-Scott,,State House,66,DEM,Terry Goodin,6579

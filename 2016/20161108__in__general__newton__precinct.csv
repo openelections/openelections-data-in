@@ -1,80 +1,80 @@
 county,precinct,office,district,party,candidate,votes
-Newton,Beaver 1,,,REP,Straight Party,56
-Newton,Beaver 2,,,REP,Straight Party,77
-Newton,Colfax,,,REP,Straight Party,21
-Newton,Grant 1,,,REP,Straight Party,65
-Newton,Grant 2,,,REP,Straight Party,49
-Newton,Iroquois 1,,,REP,Straight Party,42
-Newton,Iroquois 2,,,REP,Straight Party,55
-Newton,Jackson,,,REP,Straight Party,49
-Newton,Jefferson 1,,,REP,Straight Party,71
-Newton,Jefferson 2,,,REP,Straight Party,52
-Newton,Jefferson 3,,,REP,Straight Party,55
-Newton,Lake 1,,,REP,Straight Party,122
-Newton,Lake 2,,,REP,Straight Party,107
-Newton,Lincoln 1,,,REP,Straight Party,82
-Newton,Lincoln 2,,,REP,Straight Party,138
-Newton,Lincoln 3,,,REP,Straight Party,174
-Newton,McClellan,,,REP,Straight Party,22
-Newton,Washington,,,REP,Straight Party,29
-Newton,Total,,,REP,Straight Party,1266
-Newton,Beaver 1,,,DEM,Straight Party,15
-Newton,Beaver 2,,,DEM,Straight Party,22
-Newton,Colfax,,,DEM,Straight Party,7
-Newton,Grant 1,,,DEM,Straight Party,16
-Newton,Grant 2,,,DEM,Straight Party,18
-Newton,Iroquois 1,,,DEM,Straight Party,12
-Newton,Iroquois 2,,,DEM,Straight Party,12
-Newton,Jackson,,,DEM,Straight Party,14
-Newton,Jefferson 1,,,DEM,Straight Party,19
-Newton,Jefferson 2,,,DEM,Straight Party,28
-Newton,Jefferson 3,,,DEM,Straight Party,28
-Newton,Lake 1,,,DEM,Straight Party,48
-Newton,Lake 2,,,DEM,Straight Party,42
-Newton,Lincoln 1,,,DEM,Straight Party,36
-Newton,Lincoln 2,,,DEM,Straight Party,53
-Newton,Lincoln 3,,,DEM,Straight Party,95
-Newton,McClellan,,,DEM,Straight Party,9
-Newton,Washington,,,DEM,Straight Party,4
-Newton,Total,,,DEM,Straight Party,478
-Newton,Beaver 1,,,LIB,Straight Party,15
-Newton,Beaver 2,,,LIB,Straight Party,19
-Newton,Colfax,,,LIB,Straight Party,11
-Newton,Grant 1,,,LIB,Straight Party,24
-Newton,Grant 2,,,LIB,Straight Party,11
-Newton,Iroquois 1,,,LIB,Straight Party,8
-Newton,Iroquois 2,,,LIB,Straight Party,11
-Newton,Jackson,,,LIB,Straight Party,12
-Newton,Jefferson 1,,,LIB,Straight Party,15
-Newton,Jefferson 2,,,LIB,Straight Party,27
-Newton,Jefferson 3,,,LIB,Straight Party,16
-Newton,Lake 1,,,LIB,Straight Party,23
-Newton,Lake 2,,,LIB,Straight Party,17
-Newton,Lincoln 1,,,LIB,Straight Party,22
-Newton,Lincoln 2,,,LIB,Straight Party,40
-Newton,Lincoln 3,,,LIB,Straight Party,34
-Newton,McClellan,,,LIB,Straight Party,5
-Newton,Washington,,,LIB,Straight Party,4
-Newton,Total,,,LIB,Straight Party,314
-Newton,Beaver 1,,,Write-in,Straight Party,2
-Newton,Beaver 2,,,Write-in,Straight Party,3
-Newton,Colfax,,,Write-in,Straight Party,1
-Newton,Grant 1,,,Write-in,Straight Party,3
-Newton,Grant 2,,,Write-in,Straight Party,2
-Newton,Iroquois 1,,,Write-in,Straight Party,2
-Newton,Iroquois 2,,,Write-in,Straight Party,6
-Newton,Jackson,,,Write-in,Straight Party,3
-Newton,Jefferson 1,,,Write-in,Straight Party,1
-Newton,Jefferson 2,,,Write-in,Straight Party,4
-Newton,Jefferson 3,,,Write-in,Straight Party,5
-Newton,Lake 1,,,Write-in,Straight Party,4
-Newton,Lake 2,,,Write-in,Straight Party,4
-Newton,Lincoln 1,,,Write-in,Straight Party,5
-Newton,Lincoln 2,,,Write-in,Straight Party,6
-Newton,Lincoln 3,,,Write-in,Straight Party,10
-Newton,McClellan,,,Write-in,Straight Party,0
-Newton,Washington,,,Write-in,Straight Party,4
-Newton,Total,,,Write-in,Straight Party,65
+Newton,Beaver 1,Straight Party,,REP,,56
+Newton,Beaver 2,Straight Party,,REP,,77
+Newton,Colfax,Straight Party,,REP,,21
+Newton,Grant 1,Straight Party,,REP,,65
+Newton,Grant 2,Straight Party,,REP,,49
+Newton,Iroquois 1,Straight Party,,REP,,42
+Newton,Iroquois 2,Straight Party,,REP,,55
+Newton,Jackson,Straight Party,,REP,,49
+Newton,Jefferson 1,Straight Party,,REP,,71
+Newton,Jefferson 2,Straight Party,,REP,,52
+Newton,Jefferson 3,Straight Party,,REP,,55
+Newton,Lake 1,Straight Party,,REP,,122
+Newton,Lake 2,Straight Party,,REP,,107
+Newton,Lincoln 1,Straight Party,,REP,,82
+Newton,Lincoln 2,Straight Party,,REP,,138
+Newton,Lincoln 3,Straight Party,,REP,,174
+Newton,McClellan,Straight Party,,REP,,22
+Newton,Washington,Straight Party,,REP,,29
+Newton,Total,Straight Party,,REP,,1266
+Newton,Beaver 1,Straight Party,,DEM,,15
+Newton,Beaver 2,Straight Party,,DEM,,22
+Newton,Colfax,Straight Party,,DEM,,7
+Newton,Grant 1,Straight Party,,DEM,,16
+Newton,Grant 2,Straight Party,,DEM,,18
+Newton,Iroquois 1,Straight Party,,DEM,,12
+Newton,Iroquois 2,Straight Party,,DEM,,12
+Newton,Jackson,Straight Party,,DEM,,14
+Newton,Jefferson 1,Straight Party,,DEM,,19
+Newton,Jefferson 2,Straight Party,,DEM,,28
+Newton,Jefferson 3,Straight Party,,DEM,,28
+Newton,Lake 1,Straight Party,,DEM,,48
+Newton,Lake 2,Straight Party,,DEM,,42
+Newton,Lincoln 1,Straight Party,,DEM,,36
+Newton,Lincoln 2,Straight Party,,DEM,,53
+Newton,Lincoln 3,Straight Party,,DEM,,95
+Newton,McClellan,Straight Party,,DEM,,9
+Newton,Washington,Straight Party,,DEM,,4
+Newton,Total,Straight Party,,DEM,,478
+Newton,Beaver 1,Straight Party,,LIB,,15
+Newton,Beaver 2,Straight Party,,LIB,,19
+Newton,Colfax,Straight Party,,LIB,,11
+Newton,Grant 1,Straight Party,,LIB,,24
+Newton,Grant 2,Straight Party,,LIB,,11
+Newton,Iroquois 1,Straight Party,,LIB,,8
+Newton,Iroquois 2,Straight Party,,LIB,,11
+Newton,Jackson,Straight Party,,LIB,,12
+Newton,Jefferson 1,Straight Party,,LIB,,15
+Newton,Jefferson 2,Straight Party,,LIB,,27
+Newton,Jefferson 3,Straight Party,,LIB,,16
+Newton,Lake 1,Straight Party,,LIB,,23
+Newton,Lake 2,Straight Party,,LIB,,17
+Newton,Lincoln 1,Straight Party,,LIB,,22
+Newton,Lincoln 2,Straight Party,,LIB,,40
+Newton,Lincoln 3,Straight Party,,LIB,,34
+Newton,McClellan,Straight Party,,LIB,,5
+Newton,Washington,Straight Party,,LIB,,4
+Newton,Total,Straight Party,,LIB,,314
+Newton,Beaver 1,Straight Party,,Write-in,,2
+Newton,Beaver 2,Straight Party,,Write-in,,3
+Newton,Colfax,Straight Party,,Write-in,,1
+Newton,Grant 1,Straight Party,,Write-in,,3
+Newton,Grant 2,Straight Party,,Write-in,,2
+Newton,Iroquois 1,Straight Party,,Write-in,,2
+Newton,Iroquois 2,Straight Party,,Write-in,,6
+Newton,Jackson,Straight Party,,Write-in,,3
+Newton,Jefferson 1,Straight Party,,Write-in,,1
+Newton,Jefferson 2,Straight Party,,Write-in,,4
+Newton,Jefferson 3,Straight Party,,Write-in,,5
+Newton,Lake 1,Straight Party,,Write-in,,4
+Newton,Lake 2,Straight Party,,Write-in,,4
+Newton,Lincoln 1,Straight Party,,Write-in,,5
+Newton,Lincoln 2,Straight Party,,Write-in,,6
+Newton,Lincoln 3,Straight Party,,Write-in,,10
+Newton,McClellan,Straight Party,,Write-in,,0
+Newton,Washington,Straight Party,,Write-in,,4
+Newton,Total,Straight Party,,Write-in,,65
 Newton,Beaver 1,President,,REP,Donald Trump,208
 Newton,Beaver 2,President,,REP,Donald Trump,282
 Newton,Colfax,President,,REP,Donald Trump,48

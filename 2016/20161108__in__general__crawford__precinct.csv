@@ -74,7 +74,6 @@ Crawford,10 Patoka 1,President,,DEM,Hillary Clinton,132
 Crawford,13 Johnson 2,President,,DEM,Hillary Clinton,0
 Crawford,14 Union 1,President,,DEM,Hillary Clinton,56
 Crawford,16 Ohio 1,President,,DEM,Hillary Clinton,56
-Crawford,,President,,DEM,Hillary Clinton,1323
 Crawford,11 Patoka 2,President,,LBT,Gary Johnson,8
 Crawford,12 Johnson 1,President,,LBT,Gary Johnson,19
 Crawford,15 Union 2,President,,LBT,Gary Johnson,5
@@ -93,7 +92,6 @@ Crawford,10 Patoka 1,President,,LBT,Gary Johnson,24
 Crawford,13 Johnson 2,President,,LBT,Gary Johnson,0
 Crawford,14 Union 1,President,,LBT,Gary Johnson,10
 Crawford,16 Ohio 1,President,,LBT,Gary Johnson,8
-Crawford,,President,,LBT,Gary Johnson,255
 Crawford,11 Patoka 2,President,,,Write-ins,0
 Crawford,12 Johnson 1,President,,,Write-ins,1
 Crawford,15 Union 2,President,,,Write-ins,2
@@ -150,7 +148,6 @@ Crawford,10 Patoka 1,U.S. Senate,,DEM,Evan Bayh,219
 Crawford,13 Johnson 2,U.S. Senate,,DEM,Evan Bayh,0
 Crawford,14 Union 1,U.S. Senate,,DEM,Evan Bayh,87
 Crawford,16 Ohio 1,U.S. Senate,,DEM,Evan Bayh,74
-Crawford,,U.S. Senate,,DEM,Evan Bayh,1890
 Crawford,11 Patoka 2,U.S. Senate,,LBT,Lucy Brenton,6
 Crawford,12 Johnson 1,U.S. Senate,,LBT,Lucy Brenton,6
 Crawford,15 Union 2,U.S. Senate,,LBT,Lucy Brenton,4
@@ -169,7 +166,6 @@ Crawford,10 Patoka 1,U.S. Senate,,LBT,Lucy Brenton,18
 Crawford,13 Johnson 2,U.S. Senate,,LBT,Lucy Brenton,0
 Crawford,14 Union 1,U.S. Senate,,LBT,Lucy Brenton,3
 Crawford,16 Ohio 1,U.S. Senate,,LBT,Lucy Brenton,4
-Crawford,,U.S. Senate,,LBT,Lucy Brenton,169
 Crawford,11 Patoka 2,U.S. Senate,,,Write-ins,0
 Crawford,12 Johnson 1,U.S. Senate,,,Write-ins,0
 Crawford,15 Union 2,U.S. Senate,,,Write-ins,0
@@ -226,7 +222,6 @@ Crawford,10 Patoka 1,Governor,,DEM,John Gregg,241
 Crawford,13 Johnson 2,Governor,,DEM,John Gregg,0
 Crawford,14 Union 1,Governor,,DEM,John Gregg,80
 Crawford,16 Ohio 1,Governor,,DEM,John Gregg,79
-Crawford,,Governor,,DEM,John Gregg,1924
 Crawford,11 Patoka 2,Governor,,LBT,Rex Bell,3
 Crawford,12 Johnson 1,Governor,,LBT,Rex Bell,6
 Crawford,15 Union 2,Governor,,LBT,Rex Bell,5
@@ -245,7 +240,6 @@ Crawford,10 Patoka 1,Governor,,LBT,Rex Bell,20
 Crawford,13 Johnson 2,Governor,,LBT,Rex Bell,0
 Crawford,14 Union 1,Governor,,LBT,Rex Bell,3
 Crawford,16 Ohio 1,Governor,,LBT,Rex Bell,6
-Crawford,,Governor,,LBT,Rex Bell,156
 Crawford,11 Patoka 2,Governor,,,Write-ins,0
 Crawford,12 Johnson 1,Governor,,,Write-ins,0
 Crawford,15 Union 2,Governor,,,Write-ins,0
@@ -302,7 +296,6 @@ Crawford,10 Patoka 1,Attorney General,,DEM,Lorenzo Arredondo,139
 Crawford,13 Johnson 2,Attorney General,,DEM,Lorenzo Arredondo,0
 Crawford,14 Union 1,Attorney General,,DEM,Lorenzo Arredondo,52
 Crawford,16 Ohio 1,Attorney General,,DEM,Lorenzo Arredondo,63
-Crawford,,Attorney General,,DEM,Lorenzo Arredondo,1346
 Crawford,11 Patoka 2,Public Instruction,,REP,Jennifer McCormick,105
 Crawford,12 Johnson 1,Public Instruction,,REP,Jennifer McCormick,100
 Crawford,15 Union 2,Public Instruction,,REP,Jennifer McCormick,90
@@ -340,7 +333,6 @@ Crawford,10 Patoka 1,Public Instruction,,DEM,Glenda Ritz,211
 Crawford,13 Johnson 2,Public Instruction,,DEM,Glenda Ritz,0
 Crawford,14 Union 1,Public Instruction,,DEM,Glenda Ritz,73
 Crawford,16 Ohio 1,Public Instruction,,DEM,Glenda Ritz,73
-Crawford,,Public Instruction,,DEM,Glenda Ritz,1748
 Crawford,11 Patoka 2,U.S. House,8,REP,Larry Bucshon,107
 Crawford,12 Johnson 1,U.S. House,8,REP,Larry Bucshon,97
 Crawford,15 Union 2,U.S. House,8,REP,Larry Bucshon,89
@@ -359,7 +351,6 @@ Crawford,10 Patoka 1,U.S. House,9,REP,Trey Hollingsworth,224
 Crawford,13 Johnson 2,U.S. House,9,REP,Trey Hollingsworth,0
 Crawford,14 Union 1,U.S. House,9,REP,Trey Hollingsworth,99
 Crawford,16 Ohio 1,U.S. House,9,REP,Trey Hollingsworth,99
-Crawford,,U.S. House,8,REP,Larry Bucshon,397
 Crawford,,U.S. House,9,REP,Trey Hollingsworth,1948
 Crawford,11 Patoka 2,U.S. House,8,DEM,Ron Drake,64
 Crawford,12 Johnson 1,U.S. House,8,DEM,Ron Drake,47
@@ -379,8 +370,6 @@ Crawford,10 Patoka 1,U.S. House,9,DEM,Shelli Yoder,225
 Crawford,13 Johnson 2,U.S. House,9,DEM,Shelli Yoder,0
 Crawford,14 Union 1,U.S. House,9,DEM,Shelli Yoder,81
 Crawford,16 Ohio 1,U.S. House,9,DEM,Shelli Yoder,74
-Crawford,,U.S. House,8,DEM,Ron Drake,190
-Crawford,,U.S. House,9,DEM,Shelli Yoder,1623
 Crawford,11 Patoka 2,U.S. House,8,LBT,Andrew Horning,10
 Crawford,12 Johnson 1,U.S. House,8,LBT,Andrew Horning,10
 Crawford,15 Union 2,U.S. House,8,LBT,Andrew Horning,3
@@ -399,8 +388,6 @@ Crawford,10 Patoka 1,U.S. House,9,LBT,Russ Brooksbank,21
 Crawford,13 Johnson 2,U.S. House,9,LBT,Russ Brooksbank,0
 Crawford,14 Union 1,U.S. House,9,LBT,Russ Brooksbank,11
 Crawford,16 Ohio 1,U.S. House,9,LBT,Russ Brooksbank,10
-Crawford,,U.S. House,8,LBT,Andrew Horning,33
-Crawford,,U.S. House,9,LBT,Russ Brooksbank,239
 Crawford,11 Patoka 2,State House,74,REP,Lloyd Arnold,128
 Crawford,12 Johnson 1,State House,74,REP,Lloyd Arnold,119
 Crawford,15 Union 2,State House,74,REP,Lloyd Arnold,90
@@ -438,4 +425,3 @@ Crawford,10 Patoka 1,State House,74,DEM,Larry Kleeman,188
 Crawford,13 Johnson 2,State House,44,DEM,Larry Kleeman,0
 Crawford,14 Union 1,State House,74,DEM,Larry Kleeman,70
 Crawford,16 Ohio 1,State House,74,DEM,Larry Kleeman,67
-Crawford,,State House,74,DEM,Larry Kleeman,1607

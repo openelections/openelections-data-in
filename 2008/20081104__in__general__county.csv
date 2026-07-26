@@ -59,7 +59,7 @@ Allen,Superintendent Of Public Instruction,,Kevin R Brown,Democratic,40
 Allen,U.S. House,3,Michael A Montagano,Democratic,60314
 Allen,U.S. House,3,William R Larsen,Libertarian,7405
 Allen,U.S. House,3,Mark E Souder,Republican,72890
-Allen,State Senator,16,David C Long,Republican,37082
+Allen,State Senate,16,David C Long,Republican,37082
 Allen,State House,50,Daniel Joseph Leonard,Republican,0
 Allen,State House,52,Donald Papai,Democratic,0
 Allen,State House,52,David Yarde Ii,Republican,0
@@ -260,8 +260,8 @@ Bartholomew,Superintendent Of Public Instruction,,Kevin R Brown,Democratic,0
 Bartholomew,U.S. House,6,Barry A Welsh,Democratic,4322
 Bartholomew,U.S. House,6,George T Holland,Libertarian,301
 Bartholomew,U.S. House,6,Mike Pence,Republican,13099
-Bartholomew,State Senator,44,Matthew S Colglazier,Democratic,0
-Bartholomew,State Senator,44,Brent E Steele,Republican,0
+Bartholomew,State Senate,44,Matthew S Colglazier,Democratic,0
+Bartholomew,State Senate,44,Brent E Steele,Republican,0
 Bartholomew,State House,57,Sean R Eberhart,Republican,6845
 Bartholomew,State House,59,Rhonda Roush Bell,Democratic,5076
 Bartholomew,State House,59,Milo Smith,Republican,10213
@@ -401,7 +401,7 @@ Boone,U.S. House,4,Nels Ackerson,Democratic,8633
 Boone,U.S. House,4,Steve Buyer,Republican,17334
 Boone,U.S. House,5,Mary Etta Ruley,Democratic,0
 Boone,U.S. House,5,Dan Burton,Republican,0
-Boone,State Senator,7,Brandt Hershman,Republican,0
+Boone,State Senate,7,Brandt Hershman,Republican,0
 Boone,State House,24,"Timothy J Banter, Jr.",Democratic,0
 Boone,State House,24,Richard W Mcclain,Republican,0
 Boone,State House,28,Jason M Ellis,Democratic,3739
@@ -476,8 +476,8 @@ Brown,Superintendent Of Public Instruction,,Kevin R Brown,Democratic,0
 Brown,U.S. House,9,Baron P Hill,Democratic,4166
 Brown,U.S. House,9,D Eric Schansberg,Libertarian,467
 Brown,U.S. House,9,Michael E Sodrel,Republican,3381
-Brown,State Senator,44,Matthew S Colglazier,Democratic,0
-Brown,State Senator,44,Brent E Steele,Republican,0
+Brown,State Senate,44,Matthew S Colglazier,Democratic,0
+Brown,State Senate,44,Brent E Steele,Republican,0
 Brown,State House,65,Al Cox,Libertarian,1282
 Brown,State House,65,Eric A Koch,Republican,4909
 Brown,State Convention Delegate,Brown County,Harry Bond,Democratic,0
@@ -515,9 +515,9 @@ Carroll,Superintendent Of Public Instruction,,Tony Bennett,Republican,4531
 Carroll,Superintendent Of Public Instruction,,Kevin R Brown,Democratic,0
 Carroll,U.S. House,4,Nels Ackerson,Democratic,0
 Carroll,U.S. House,4,Steve Buyer,Republican,0
-Carroll,State Senator,7,Brandt Hershman,Republican,6612
-Carroll,State Senator,18,Linda L Klinck,Democratic,0
-Carroll,State Senator,18,Randall Head,Republican,0
+Carroll,State Senate,7,Brandt Hershman,Republican,6612
+Carroll,State Senate,18,Linda L Klinck,Democratic,0
+Carroll,State Senate,18,Randall Head,Republican,0
 Carroll,State House,25,Jeb Bardon,Democratic,0
 Carroll,State House,38,Robert L Snow,Democratic,0
 Carroll,State House,38,Jacqueline R Clements,Republican,0
@@ -562,8 +562,8 @@ Cass,Superintendent Of Public Instruction,,Tony Bennett,Republican,8127
 Cass,Superintendent Of Public Instruction,,Kevin R Brown,Democratic,0
 Cass,U.S. House,4,Nels Ackerson,Democratic,0
 Cass,U.S. House,4,Steve Buyer,Republican,0
-Cass,State Senator,18,Linda L Klinck,Democratic,6524
-Cass,State Senator,18,Randall Head,Republican,9021
+Cass,State Senate,18,Linda L Klinck,Democratic,6524
+Cass,State Senate,18,Randall Head,Republican,9021
 Cass,State House,23,William C Friend,Republican,0
 Cass,State House,25,Jeb Bardon,Democratic,0
 Cass,State House,38,Robert L Snow,Democratic,0
@@ -722,7 +722,7 @@ Clinton,Superintendent Of Public Instruction,,Tony Bennett,Republican,6797
 Clinton,Superintendent Of Public Instruction,,Kevin R Brown,Democratic,1
 Clinton,U.S. House,4,Nels Ackerson,Democratic,5575
 Clinton,U.S. House,4,Steve Buyer,Republican,6568
-Clinton,State Senator,7,Brandt Hershman,Republican,2839
+Clinton,State Senate,7,Brandt Hershman,Republican,2839
 Clinton,State House,25,Jeb Bardon,Democratic,0
 Clinton,State House,38,Robert L Snow,Democratic,4074
 Clinton,State House,38,Jacqueline R Clements,Republican,7786
@@ -889,8 +889,8 @@ Decatur,Superintendent Of Public Instruction,,Kevin R Brown,Democratic,0
 Decatur,U.S. House,6,Barry A Welsh,Democratic,2365
 Decatur,U.S. House,6,George T Holland,Libertarian,277
 Decatur,U.S. House,6,Mike Pence,Republican,7633
-Decatur,State Senator,42,Warren F Goodrich,Democratic,2814
-Decatur,State Senator,42,Jean Leising,Republican,7302
+Decatur,State Senate,42,Warren F Goodrich,Democratic,2814
+Decatur,State Senate,42,Jean Leising,Republican,7302
 Decatur,State House,55,Thomas Knollman,Republican,0
 Decatur,State House,67,Mike Keller,Democratic,2516
 Decatur,State House,67,Cleo Duncan,Republican,7273
@@ -930,8 +930,8 @@ DeKalb,Superintendent Of Public Instruction,,Kevin R Brown,Democratic,1
 DeKalb,U.S. House,3,Michael A Montagano,Democratic,6754
 DeKalb,U.S. House,3,William R Larsen,Libertarian,919
 DeKalb,U.S. House,3,Mark E Souder,Republican,9272
-DeKalb,State Senator,13,Fred Demske,Democratic,244
-DeKalb,State Senator,13,Marlin A Stutzman,Republican,386
+DeKalb,State Senate,13,Fred Demske,Democratic,244
+DeKalb,State Senate,13,Marlin A Stutzman,Republican,386
 DeKalb,State House,52,Donald Papai,Democratic,940
 DeKalb,State House,52,David Yarde Ii,Republican,2046
 DeKalb,Judge Of The Superior Court,"Dekalb County, Court 1",Kevin P Wallace,Democratic,11609
@@ -1092,10 +1092,10 @@ Elkhart,Superintendent Of Public Instruction,,Kevin R Brown,Democratic,0
 Elkhart,U.S. House,2,Joseph S Donnelly,Democratic,18917
 Elkhart,U.S. House,2,Mark Vogel,Libertarian,778
 Elkhart,U.S. House,2,Luke Wayne Puckett,Republican,10205
-Elkhart,State Senator,9,Mike Settles,Democratic,2385
-Elkhart,State Senator,9,Ryan D Mishler,Republican,4806
-Elkhart,State Senator,12,Donald Metzler-Smith,Democratic,16569
-Elkhart,State Senator,12,Carlin J Yoder,Republican,27496
+Elkhart,State Senate,9,Mike Settles,Democratic,2385
+Elkhart,State Senate,9,Ryan D Mishler,Republican,4806
+Elkhart,State Senate,12,Donald Metzler-Smith,Democratic,16569
+Elkhart,State Senate,12,Carlin J Yoder,Republican,27496
 Elkhart,State House,21,Jacqueline Walorski Swihart,Republican,9597
 Elkhart,State House,21,Clyde James,Independent,19
 Elkhart,State House,22,Larry E Rensberger,Democratic,0
@@ -1193,8 +1193,8 @@ Fayette,Superintendent Of Public Instruction,,Kevin R Brown,Democratic,0
 Fayette,U.S. House,6,Barry A Welsh,Democratic,3557
 Fayette,U.S. House,6,George T Holland,Libertarian,225
 Fayette,U.S. House,6,Mike Pence,Republican,5384
-Fayette,State Senator,42,Warren F Goodrich,Democratic,3363
-Fayette,State Senator,42,Jean Leising,Republican,5678
+Fayette,State Senate,42,Warren F Goodrich,Democratic,3363
+Fayette,State Senate,42,Jean Leising,Republican,5678
 Fayette,State House,55,Thomas Knollman,Republican,6480
 Fayette,Judge Of The Superior Court,Fayette County,Ronald T Urdal,Democratic,5168
 Fayette,Judge Of The Superior Court,Fayette County,Bette Jo Friend Jones,Republican,4045
@@ -1334,8 +1334,8 @@ Franklin,Superintendent Of Public Instruction,,Kevin R Brown,Democratic,0
 Franklin,U.S. House,6,Barry A Welsh,Democratic,3078
 Franklin,U.S. House,6,George T Holland,Libertarian,341
 Franklin,U.S. House,6,Mike Pence,Republican,6794
-Franklin,State Senator,42,Warren F Goodrich,Democratic,1001
-Franklin,State Senator,42,Jean Leising,Republican,2927
+Franklin,State Senate,42,Warren F Goodrich,Democratic,1001
+Franklin,State Senate,42,Jean Leising,Republican,2927
 Franklin,State House,55,Thomas Knollman,Republican,3343
 Franklin,State House,68,Robert J Bischoff,Democratic,2095
 Franklin,State House,68,Jud Mcmillin,Republican,2685
@@ -1376,8 +1376,8 @@ Fulton,Superintendent Of Public Instruction,,Kevin R Brown,Democratic,0
 Fulton,U.S. House,2,Joseph S Donnelly,Democratic,5635
 Fulton,U.S. House,2,Mark Vogel,Libertarian,215
 Fulton,U.S. House,2,Luke Wayne Puckett,Republican,3132
-Fulton,State Senator,18,Linda L Klinck,Democratic,3724
-Fulton,State Senator,18,Randall Head,Republican,5108
+Fulton,State Senate,18,Linda L Klinck,Democratic,3724
+Fulton,State Senate,18,Randall Head,Republican,5108
 Fulton,State House,16,"William R Reutebuch, Jr.",Democratic,3479
 Fulton,State House,16,Douglas L Gutwein,Republican,4452
 Fulton,State House,17,Nancy Dembowski,Democratic,0
@@ -1565,10 +1565,10 @@ Hamilton,Superintendent Of Public Instruction,,Tony Bennett,Republican,84217
 Hamilton,Superintendent Of Public Instruction,,Kevin R Brown,Democratic,0
 Hamilton,U.S. House,5,Mary Etta Ruley,Democratic,38913
 Hamilton,U.S. House,5,Dan Burton,Republican,84930
-Hamilton,State Senator,20,Howard Luke Kenley,Republican,44566
-Hamilton,State Senator,30,Todd S Degroff,Democratic,4312
-Hamilton,State Senator,30,Steve Keltner,Libertarian,739
-Hamilton,State Senator,30,Teresa Lubbers,Republican,10114
+Hamilton,State Senate,20,Howard Luke Kenley,Republican,44566
+Hamilton,State Senate,30,Todd S Degroff,Democratic,4312
+Hamilton,State Senate,30,Steve Keltner,Libertarian,739
+Hamilton,State Senate,30,Teresa Lubbers,Republican,10114
 Hamilton,State House,24,"Timothy J Banter, Jr.",Democratic,0
 Hamilton,State House,24,Richard W Mcclain,Republican,0
 Hamilton,State House,29,Joseph L Weingarten,Democratic,13571
@@ -1709,8 +1709,8 @@ Hancock,Superintendent Of Public Instruction,,Kevin R Brown,Democratic,0
 Hancock,U.S. House,6,Barry A Welsh,Democratic,0
 Hancock,U.S. House,6,George T Holland,Libertarian,0
 Hancock,U.S. House,6,Mike Pence,Republican,0
-Hancock,State Senator,28,Mike Brinegar,Democratic,10193
-Hancock,State Senator,28,Beverly J Gard,Republican,23234
+Hancock,State Senate,28,Mike Brinegar,Democratic,10193
+Hancock,State Senate,28,Beverly J Gard,Republican,23234
 Hancock,State House,53,David N Baxter,Democratic,7230
 Hancock,State House,53,"Robert ""Bob"" Cherry",Republican,20486
 Hancock,State House,53,John D Jessup,Independent,3151
@@ -1830,9 +1830,9 @@ Hendricks,Superintendent Of Public Instruction,,Tony Bennett,Republican,40352
 Hendricks,Superintendent Of Public Instruction,,Kevin R Brown,Democratic,0
 Hendricks,U.S. House,4,Nels Ackerson,Democratic,20877
 Hendricks,U.S. House,4,Steve Buyer,Republican,41767
-Hendricks,State Senator,24,Connie Lawson,Republican,45376
-Hendricks,State Senator,35,Michael Cesnik,Democratic,0
-Hendricks,State Senator,35,R Michael Young,Republican,0
+Hendricks,State Senate,24,Connie Lawson,Republican,45376
+Hendricks,State Senate,35,Michael Cesnik,Democratic,0
+Hendricks,State Senate,35,R Michael Young,Republican,0
 Hendricks,State House,28,Jason M Ellis,Democratic,3040
 Hendricks,State House,28,Wade Mitchell,Libertarian,492
 Hendricks,State House,28,Jeffrey A Thompson,Republican,9194
@@ -1925,8 +1925,8 @@ Henry,Superintendent Of Public Instruction,,Kevin R Brown,Democratic,0
 Henry,U.S. House,6,Barry A Welsh,Democratic,7098
 Henry,U.S. House,6,George T Holland,Libertarian,613
 Henry,U.S. House,6,Mike Pence,Republican,13320
-Henry,State Senator,42,Warren F Goodrich,Democratic,0
-Henry,State Senator,42,Jean Leising,Republican,0
+Henry,State Senate,42,Warren F Goodrich,Democratic,0
+Henry,State Senate,42,Jean Leising,Republican,0
 Henry,State House,54,Rex Bell,Libertarian,3968
 Henry,State House,54,Thomas E Tom Saunders,Republican,8451
 Henry,Judge Of The Circuit Court,Henry No. 2 53Rd Circuit,Mary G Willis,Republican,15726
@@ -2094,8 +2094,8 @@ Jackson,Superintendent Of Public Instruction,,Kevin R Brown,Democratic,0
 Jackson,U.S. House,9,Baron P Hill,Democratic,10533
 Jackson,U.S. House,9,D Eric Schansberg,Libertarian,999
 Jackson,U.S. House,9,Michael E Sodrel,Republican,5904
-Jackson,State Senator,44,Matthew S Colglazier,Democratic,7155
-Jackson,State Senator,44,Brent E Steele,Republican,8472
+Jackson,State Senate,44,Matthew S Colglazier,Democratic,7155
+Jackson,State Senate,44,Brent E Steele,Republican,8472
 Jackson,State House,65,Al Cox,Libertarian,450
 Jackson,State House,65,Eric A Koch,Republican,2701
 Jackson,State House,69,David Cheatham,Democratic,0
@@ -2143,9 +2143,9 @@ Jasper,Superintendent Of Public Instruction,,Tony Bennett,Republican,6832
 Jasper,Superintendent Of Public Instruction,,Kevin R Brown,Democratic,0
 Jasper,U.S. House,4,Nels Ackerson,Democratic,0
 Jasper,U.S. House,4,Steve Buyer,Republican,0
-Jasper,State Senator,5,Larry W Balmer,Democratic,869
-Jasper,State Senator,5,Ed Charbonneau,Republican,940
-Jasper,State Senator,7,Brandt Hershman,Republican,7581
+Jasper,State Senate,5,Larry W Balmer,Democratic,869
+Jasper,State Senate,5,Ed Charbonneau,Republican,940
+Jasper,State Senate,7,Brandt Hershman,Republican,7581
 Jasper,State House,13,Chester F Dobis,Democratic,0
 Jasper,State House,13,Joseph M Hero,Republican,0
 Jasper,State House,16,"William R Reutebuch, Jr.",Democratic,3492
@@ -2320,11 +2320,11 @@ Johnson,Superintendent Of Public Instruction,,Kevin R Brown,Democratic,2
 Johnson,U.S. House,9,Baron P Hill,Democratic,0
 Johnson,U.S. House,9,D Eric Schansberg,Libertarian,0
 Johnson,U.S. House,9,Michael E Sodrel,Republican,0
-Johnson,State Senator,36,Terry Rice,Democratic,3818
-Johnson,State Senator,36,Barry Campbell,Libertarian,576
-Johnson,State Senator,36,"Darryl Brent Waltz, Jr.",Republican,7954
-Johnson,State Senator,37,Joseph F Osborn,Democratic,1260
-Johnson,State Senator,37,Richard D Bray,Republican,3601
+Johnson,State Senate,36,Terry Rice,Democratic,3818
+Johnson,State Senate,36,Barry Campbell,Libertarian,576
+Johnson,State Senate,36,"Darryl Brent Waltz, Jr.",Republican,7954
+Johnson,State Senate,37,Joseph F Osborn,Democratic,1260
+Johnson,State Senate,37,Richard D Bray,Republican,3601
 Johnson,State House,47,Ralph M Foley,Republican,2169
 Johnson,State House,58,Woody Burton,Republican,24583
 Johnson,State House,65,Al Cox,Libertarian,0
@@ -2439,12 +2439,12 @@ Kosciusko,U.S. House,2,Luke Wayne Puckett,Republican,0
 Kosciusko,U.S. House,3,Michael A Montagano,Democratic,8756
 Kosciusko,U.S. House,3,William R Larsen,Libertarian,1497
 Kosciusko,U.S. House,3,Mark E Souder,Republican,19349
-Kosciusko,State Senator,9,Mike Settles,Democratic,4216
-Kosciusko,State Senator,9,Ryan D Mishler,Republican,13721
-Kosciusko,State Senator,12,Donald Metzler-Smith,Democratic,0
-Kosciusko,State Senator,12,Carlin J Yoder,Republican,0
-Kosciusko,State Senator,18,Linda L Klinck,Democratic,860
-Kosciusko,State Senator,18,Randall Head,Republican,1655
+Kosciusko,State Senate,9,Mike Settles,Democratic,4216
+Kosciusko,State Senate,9,Ryan D Mishler,Republican,13721
+Kosciusko,State Senate,12,Donald Metzler-Smith,Democratic,0
+Kosciusko,State Senate,12,Carlin J Yoder,Republican,0
+Kosciusko,State Senate,18,Linda L Klinck,Democratic,860
+Kosciusko,State Senate,18,Randall Head,Republican,1655
 Kosciusko,State House,18,David A Wolkins,Republican,11683
 Kosciusko,State House,22,Larry E Rensberger,Democratic,3664
 Kosciusko,State House,22,William J Ruppel,Republican,6165
@@ -2502,8 +2502,8 @@ LaGrange,Superintendent Of Public Instruction,,Kevin R Brown,Democratic,0
 LaGrange,U.S. House,3,Michael A Montagano,Democratic,3619
 LaGrange,U.S. House,3,William R Larsen,Libertarian,525
 LaGrange,U.S. House,3,Mark E Souder,Republican,5282
-LaGrange,State Senator,13,Fred Demske,Democratic,3130
-LaGrange,State Senator,13,Marlin A Stutzman,Republican,6275
+LaGrange,State Senate,13,Fred Demske,Democratic,3130
+LaGrange,State Senate,13,Marlin A Stutzman,Republican,6275
 LaGrange,State House,51,Lon N Keyes,Democratic,0
 LaGrange,State House,51,Richard A Dodge,Republican,0
 LaGrange,State House,82,Jeffrey Keller Espich,Republican,0
@@ -2548,9 +2548,9 @@ Lake,Superintendent Of Public Instruction,,Kevin R Brown,Democratic,5
 Lake,U.S. House,1,Peter J Visclosky,Democratic,143561
 Lake,U.S. House,1,Jeff Duensing,Libertarian,3056
 Lake,U.S. House,1,Mark J Leyva,Republican,46752
-Lake,State Senator,2,Lonnie M Randolph,Democratic,29744
-Lake,State Senator,2,"Carl L Dahlin, Jr.",Republican,6757
-Lake,State Senator,3,Earline Rogers,Democratic,38017
+Lake,State Senate,2,Lonnie M Randolph,Democratic,29744
+Lake,State Senate,2,"Carl L Dahlin, Jr.",Republican,6757
+Lake,State Senate,3,Earline Rogers,Democratic,38017
 Lake,State House,1,Linda C Lawson,Democratic,14495
 Lake,State House,1,Fernando Urzua,Republican,5665
 Lake,State House,2,Earl L Harris,Democratic,17516
@@ -2787,11 +2787,11 @@ LaPorte,U.S. House,1,Mark J Leyva,Republican,0
 LaPorte,U.S. House,2,Joseph S Donnelly,Democratic,32991
 LaPorte,U.S. House,2,Mark Vogel,Libertarian,1608
 LaPorte,U.S. House,2,Luke Wayne Puckett,Republican,11250
-LaPorte,State Senator,5,Larry W Balmer,Democratic,1244
-LaPorte,State Senator,5,Ed Charbonneau,Republican,1408
-LaPorte,State Senator,8,Jim Arnold,Democratic,30006
-LaPorte,State Senator,8,Gregory D Kelver,Libertarian,1896
-LaPorte,State Senator,8,"Allen L Stevens, Jr.",Republican,10717
+LaPorte,State Senate,5,Larry W Balmer,Democratic,1244
+LaPorte,State Senate,5,Ed Charbonneau,Republican,1408
+LaPorte,State Senate,8,Jim Arnold,Democratic,30006
+LaPorte,State Senate,8,Gregory D Kelver,Libertarian,1896
+LaPorte,State Senate,8,"Allen L Stevens, Jr.",Republican,10717
 LaPorte,State House,8,Ryan M Dvorak,Democratic,0
 LaPorte,State House,8,Dale R Devon,Republican,0
 LaPorte,State House,9,Scott D Pelath,Democratic,20509
@@ -2860,8 +2860,8 @@ Lawrence,Superintendent Of Public Instruction,,Kevin R Brown,Democratic,0
 Lawrence,U.S. House,9,Baron P Hill,Democratic,0
 Lawrence,U.S. House,9,D Eric Schansberg,Libertarian,0
 Lawrence,U.S. House,9,Michael E Sodrel,Republican,0
-Lawrence,State Senator,44,Matthew S Colglazier,Democratic,5391
-Lawrence,State Senator,44,Brent E Steele,Republican,12207
+Lawrence,State Senate,44,Matthew S Colglazier,Democratic,5391
+Lawrence,State Senate,44,Brent E Steele,Republican,12207
 Lawrence,State House,65,Al Cox,Libertarian,1199
 Lawrence,State House,65,Eric A Koch,Republican,8693
 Lawrence,State House,73,Dennie Oxley,Democratic,0
@@ -2989,21 +2989,21 @@ Marion,U.S. House,5,Dan Burton,Republican,50604
 Marion,U.S. House,7,André D Carson,Democratic,172650
 Marion,U.S. House,7,Gabrielle Campo,Republican,92645
 Marion,U.S. House,7,Delbert Suits,Republican,4
-Marion,State Senator,28,Mike Brinegar,Democratic,0
-Marion,State Senator,28,Beverly J Gard,Republican,0
-Marion,State Senator,30,Todd S Degroff,Democratic,19834
-Marion,State Senator,30,Steve Keltner,Libertarian,3953
-Marion,State Senator,30,Teresa Lubbers,Republican,26338
-Marion,State Senator,32,Kenneth C Kern,Democratic,22149
-Marion,State Senator,32,Patricia Miller,Republican,34343
-Marion,State Senator,33,Gregory Gurod Taylor,Democratic,44762
-Marion,State Senator,34,Jean D Breaux,Democratic,40830
-Marion,State Senator,34,James Leland Rainey,Republican,4804
-Marion,State Senator,35,Michael Cesnik,Democratic,15865
-Marion,State Senator,35,R Michael Young,Republican,14329
-Marion,State Senator,36,Terry Rice,Democratic,15510
-Marion,State Senator,36,Barry Campbell,Libertarian,1638
-Marion,State Senator,36,"Darryl Brent Waltz, Jr.",Republican,17924
+Marion,State Senate,28,Mike Brinegar,Democratic,0
+Marion,State Senate,28,Beverly J Gard,Republican,0
+Marion,State Senate,30,Todd S Degroff,Democratic,19834
+Marion,State Senate,30,Steve Keltner,Libertarian,3953
+Marion,State Senate,30,Teresa Lubbers,Republican,26338
+Marion,State Senate,32,Kenneth C Kern,Democratic,22149
+Marion,State Senate,32,Patricia Miller,Republican,34343
+Marion,State Senate,33,Gregory Gurod Taylor,Democratic,44762
+Marion,State Senate,34,Jean D Breaux,Democratic,40830
+Marion,State Senate,34,James Leland Rainey,Republican,4804
+Marion,State Senate,35,Michael Cesnik,Democratic,15865
+Marion,State Senate,35,R Michael Young,Republican,14329
+Marion,State Senate,36,Terry Rice,Democratic,15510
+Marion,State Senate,36,Barry Campbell,Libertarian,1638
+Marion,State Senate,36,"Darryl Brent Waltz, Jr.",Republican,17924
 Marion,State House,86,Edward O Delaney,Democratic,15858
 Marion,State House,86,Adam E Nelson,Republican,8481
 Marion,State House,87,Pamela L Hickman,Democratic,6700
@@ -3387,10 +3387,10 @@ Marshall,Superintendent Of Public Instruction,,Kevin R Brown,Democratic,0
 Marshall,U.S. House,2,Joseph S Donnelly,Democratic,11100
 Marshall,U.S. House,2,Mark Vogel,Libertarian,399
 Marshall,U.S. House,2,Luke Wayne Puckett,Republican,6703
-Marshall,State Senator,9,Mike Settles,Democratic,1494
-Marshall,State Senator,9,Ryan D Mishler,Republican,4494
-Marshall,State Senator,18,Linda L Klinck,Democratic,0
-Marshall,State Senator,18,Randall Head,Republican,0
+Marshall,State Senate,9,Mike Settles,Democratic,1494
+Marshall,State Senate,9,Ryan D Mishler,Republican,4494
+Marshall,State Senate,18,Linda L Klinck,Democratic,0
+Marshall,State Senate,18,Randall Head,Republican,0
 Marshall,State House,17,Nancy Dembowski,Democratic,7468
 Marshall,State House,17,Mark Mackillop,Republican,5746
 Marshall,Judge Of The Circuit Court,Marshall 72Nd Circuit,"Ralph R ""Rick"" Huff",Democratic,8744
@@ -3466,8 +3466,8 @@ Miami,Superintendent Of Public Instruction,,Kevin R Brown,Democratic,2
 Miami,U.S. House,2,Joseph S Donnelly,Democratic,0
 Miami,U.S. House,2,Mark Vogel,Libertarian,0
 Miami,U.S. House,2,Luke Wayne Puckett,Republican,0
-Miami,State Senator,18,Linda L Klinck,Democratic,5249
-Miami,State Senator,18,Randall Head,Republican,7931
+Miami,State Senate,18,Linda L Klinck,Democratic,5249
+Miami,State Senate,18,Randall Head,Republican,7931
 Miami,State House,18,David A Wolkins,Republican,0
 Miami,State House,23,William C Friend,Republican,6449
 Miami,Judge Of The Circuit Court,Miami 51St Circuit,Robert A Spahr,Republican,9715
@@ -3506,10 +3506,10 @@ Monroe,Superintendent Of Public Instruction,,Kevin R Brown,Democratic,4
 Monroe,U.S. House,9,Baron P Hill,Democratic,31906
 Monroe,U.S. House,9,D Eric Schansberg,Libertarian,1914
 Monroe,U.S. House,9,Michael E Sodrel,Republican,13189
-Monroe,State Senator,40,Vi Simpson,Democratic,36457
-Monroe,State Senator,40,Leslie O Compton,Republican,14411
-Monroe,State Senator,44,Matthew S Colglazier,Democratic,1739
-Monroe,State Senator,44,Brent E Steele,Republican,1964
+Monroe,State Senate,40,Vi Simpson,Democratic,36457
+Monroe,State Senate,40,Leslie O Compton,Republican,14411
+Monroe,State Senate,44,Matthew S Colglazier,Democratic,1739
+Monroe,State Senate,44,Brent E Steele,Republican,1964
 Monroe,State House,46,Vern Tincher,Democratic,691
 Monroe,State House,46,Robert A Heaton,Republican,535
 Monroe,State House,60,Peggy Welch,Democratic,21871
@@ -3682,8 +3682,8 @@ Morgan,U.S. House,4,Steve Buyer,Republican,18846
 Morgan,U.S. House,9,Baron P Hill,Democratic,0
 Morgan,U.S. House,9,D Eric Schansberg,Libertarian,0
 Morgan,U.S. House,9,Michael E Sodrel,Republican,0
-Morgan,State Senator,37,Joseph F Osborn,Democratic,7726
-Morgan,State Senator,37,Richard D Bray,Republican,17700
+Morgan,State Senate,37,Joseph F Osborn,Democratic,7726
+Morgan,State Senate,37,Richard D Bray,Republican,17700
 Morgan,State House,44,Nancy A Michael,Democratic,0
 Morgan,State House,44,Darrell Goldman,Libertarian,0
 Morgan,State House,44,Amos P Thomas,Republican,0
@@ -3770,8 +3770,8 @@ Noble,Superintendent Of Public Instruction,,Kevin R Brown,Democratic,7
 Noble,U.S. House,3,Michael A Montagano,Democratic,6766
 Noble,U.S. House,3,William R Larsen,Libertarian,911
 Noble,U.S. House,3,Mark E Souder,Republican,9141
-Noble,State Senator,13,Fred Demske,Democratic,6514
-Noble,State Senator,13,Marlin A Stutzman,Republican,9939
+Noble,State Senate,13,Fred Demske,Democratic,6514
+Noble,State Senate,13,Marlin A Stutzman,Republican,9939
 Noble,State House,82,Jeffrey Keller Espich,Republican,0
 Noble,Judge Of The Superior Court,"Noble County, No. 2",Jon C Owen,Democratic,6696
 Noble,Judge Of The Superior Court,"Noble County, No. 2",Michael J Kramer,Republican,9924
@@ -3892,8 +3892,8 @@ Owen,Superintendent Of Public Instruction,,Tony Bennett,Republican,4087
 Owen,Superintendent Of Public Instruction,,Kevin R Brown,Democratic,1
 Owen,U.S. House,8,Brad Ellsworth,Democratic,4403
 Owen,U.S. House,8,Gregory J Goode,Republican,3538
-Owen,State Senator,37,Joseph F Osborn,Democratic,2094
-Owen,State Senator,37,Richard D Bray,Republican,3095
+Owen,State Senate,37,Joseph F Osborn,Democratic,2094
+Owen,State Senate,37,Richard D Bray,Republican,3095
 Owen,State House,44,Nancy A Michael,Democratic,0
 Owen,State House,44,Darrell Goldman,Libertarian,0
 Owen,State House,44,Amos P Thomas,Republican,0
@@ -4049,8 +4049,8 @@ Porter,Superintendent Of Public Instruction,,Kevin R Brown,Democratic,0
 Porter,U.S. House,1,Peter J Visclosky,Democratic,44948
 Porter,U.S. House,1,Jeff Duensing,Libertarian,1721
 Porter,U.S. House,1,Mark J Leyva,Republican,19940
-Porter,State Senator,5,Larry W Balmer,Democratic,10804
-Porter,State Senator,5,Ed Charbonneau,Republican,14779
+Porter,State Senate,5,Larry W Balmer,Democratic,10804
+Porter,State Senate,5,Ed Charbonneau,Republican,14779
 Porter,State House,4,Larry Chubb,Democratic,10847
 Porter,State House,4,Edmond L Soliday,Republican,15206
 Porter,State House,9,Scott D Pelath,Democratic,0
@@ -4145,8 +4145,8 @@ Pulaski,Superintendent Of Public Instruction,,Kevin R Brown,Democratic,0
 Pulaski,U.S. House,2,Joseph S Donnelly,Democratic,3423
 Pulaski,U.S. House,2,Mark Vogel,Libertarian,135
 Pulaski,U.S. House,2,Luke Wayne Puckett,Republican,2298
-Pulaski,State Senator,5,Larry W Balmer,Democratic,466
-Pulaski,State Senator,5,Ed Charbonneau,Republican,399
+Pulaski,State Senate,5,Larry W Balmer,Democratic,466
+Pulaski,State Senate,5,Ed Charbonneau,Republican,399
 Pulaski,State House,16,"William R Reutebuch, Jr.",Democratic,605
 Pulaski,State House,16,Douglas L Gutwein,Republican,786
 Pulaski,State Convention Delegate,Pulaski County,William Bill Reutebuch,Democratic,0
@@ -4180,9 +4180,9 @@ Putnam,Superintendent Of Public Instruction,,Tony Bennett,Republican,7926
 Putnam,Superintendent Of Public Instruction,,Kevin R Brown,Democratic,1
 Putnam,U.S. House,4,Nels Ackerson,Democratic,0
 Putnam,U.S. House,4,Steve Buyer,Republican,0
-Putnam,State Senator,24,Connie Lawson,Republican,7812
-Putnam,State Senator,37,Joseph F Osborn,Democratic,1317
-Putnam,State Senator,37,Richard D Bray,Republican,2440
+Putnam,State Senate,24,Connie Lawson,Republican,7812
+Putnam,State Senate,37,Joseph F Osborn,Democratic,1317
+Putnam,State Senate,37,Richard D Bray,Republican,2440
 Putnam,State House,44,Nancy A Michael,Democratic,7158
 Putnam,State House,44,Darrell Goldman,Libertarian,473
 Putnam,State House,44,Amos P Thomas,Republican,6647
@@ -4279,8 +4279,8 @@ Ripley,Superintendent Of Public Instruction,,Kevin R Brown,Democratic,16
 Ripley,U.S. House,6,Barry A Welsh,Democratic,0
 Ripley,U.S. House,6,George T Holland,Libertarian,0
 Ripley,U.S. House,6,Mike Pence,Republican,0
-Ripley,State Senator,42,Warren F Goodrich,Democratic,0
-Ripley,State Senator,42,Jean Leising,Republican,0
+Ripley,State Senate,42,Warren F Goodrich,Democratic,0
+Ripley,State Senate,42,Jean Leising,Republican,0
 Ripley,State House,55,Thomas Knollman,Republican,0
 Ripley,State House,67,Mike Keller,Democratic,2379
 Ripley,State House,67,Cleo Duncan,Republican,5711
@@ -4319,8 +4319,8 @@ Rush,Superintendent Of Public Instruction,,Kevin R Brown,Democratic,2
 Rush,U.S. House,6,Barry A Welsh,Democratic,1822
 Rush,U.S. House,6,George T Holland,Libertarian,372
 Rush,U.S. House,6,Mike Pence,Republican,5349
-Rush,State Senator,42,Warren F Goodrich,Democratic,2288
-Rush,State Senator,42,Jean Leising,Republican,5183
+Rush,State Senate,42,Warren F Goodrich,Democratic,2288
+Rush,State Senate,42,Jean Leising,Republican,5183
 Rush,State House,54,Rex Bell,Libertarian,0
 Rush,State House,54,Thomas E Tom Saunders,Republican,0
 Rush,State House,55,Thomas Knollman,Republican,0
@@ -4363,12 +4363,12 @@ Saint Joseph,Superintendent Of Public Instruction,,Kevin R Brown,Democratic,3
 Saint Joseph,U.S. House,2,Joseph S Donnelly,Democratic,83423
 Saint Joseph,U.S. House,2,Mark Vogel,Libertarian,2365
 Saint Joseph,U.S. House,2,Luke Wayne Puckett,Republican,31121
-Saint Joseph,State Senator,8,Jim Arnold,Democratic,5827
-Saint Joseph,State Senator,8,Gregory D Kelver,Libertarian,291
-Saint Joseph,State Senator,8,"Allen L Stevens, Jr.",Republican,3123
-Saint Joseph,State Senator,9,Mike Settles,Democratic,8873
-Saint Joseph,State Senator,9,Ryan D Mishler,Republican,11782
-Saint Joseph,State Senator,10,John E Broden,Democratic,34028
+Saint Joseph,State Senate,8,Jim Arnold,Democratic,5827
+Saint Joseph,State Senate,8,Gregory D Kelver,Libertarian,291
+Saint Joseph,State Senate,8,"Allen L Stevens, Jr.",Republican,3123
+Saint Joseph,State Senate,9,Mike Settles,Democratic,8873
+Saint Joseph,State Senate,9,Ryan D Mishler,Republican,11782
+Saint Joseph,State Senate,10,John E Broden,Democratic,34028
 Saint Joseph,State House,5,Craig R Fry,Democratic,11055
 Saint Joseph,State House,5,Dave Miller,Republican,8673
 Saint Joseph,State House,6,B Patrick Bauer,Democratic,14015
@@ -4507,10 +4507,10 @@ Shelby,Superintendent Of Public Instruction,,Kevin R Brown,Democratic,0
 Shelby,U.S. House,6,Barry A Welsh,Democratic,488
 Shelby,U.S. House,6,George T Holland,Libertarian,46
 Shelby,U.S. House,6,Mike Pence,Republican,1676
-Shelby,State Senator,28,Mike Brinegar,Democratic,0
-Shelby,State Senator,28,Beverly J Gard,Republican,0
-Shelby,State Senator,42,Warren F Goodrich,Democratic,6109
-Shelby,State Senator,42,Jean Leising,Republican,10896
+Shelby,State Senate,28,Mike Brinegar,Democratic,0
+Shelby,State Senate,28,Beverly J Gard,Republican,0
+Shelby,State Senate,42,Warren F Goodrich,Democratic,6109
+Shelby,State Senate,42,Jean Leising,Republican,10896
 Shelby,State House,57,Sean R Eberhart,Republican,11600
 Shelby,Judge Of The Superior Court,"Shelby County, No. 1",Jack A Tandy,Republican,13414
 Shelby,Judge Of The Superior Court,"Shelby County, No. 2",Russell J Sanders,Republican,13180
@@ -4613,11 +4613,11 @@ Starke,Superintendent Of Public Instruction,,Kevin R Brown,Democratic,4
 Starke,U.S. House,2,Joseph S Donnelly,Democratic,6337
 Starke,U.S. House,2,Mark Vogel,Libertarian,246
 Starke,U.S. House,2,Luke Wayne Puckett,Republican,2770
-Starke,State Senator,5,Larry W Balmer,Democratic,4578
-Starke,State Senator,5,Ed Charbonneau,Republican,4322
-Starke,State Senator,8,Jim Arnold,Democratic,0
-Starke,State Senator,8,Gregory D Kelver,Libertarian,0
-Starke,State Senator,8,"Allen L Stevens, Jr.",Republican,0
+Starke,State Senate,5,Larry W Balmer,Democratic,4578
+Starke,State Senate,5,Ed Charbonneau,Republican,4322
+Starke,State Senate,8,Jim Arnold,Democratic,0
+Starke,State Senate,8,Gregory D Kelver,Libertarian,0
+Starke,State Senate,8,"Allen L Stevens, Jr.",Republican,0
 Starke,State House,16,"William R Reutebuch, Jr.",Democratic,0
 Starke,State House,16,Douglas L Gutwein,Republican,0
 Starke,State House,20,Jerry P Cooley,Democratic,0
@@ -4655,8 +4655,8 @@ Steuben,Superintendent Of Public Instruction,,Kevin R Brown,Democratic,0
 Steuben,U.S. House,3,Michael A Montagano,Democratic,5906
 Steuben,U.S. House,3,William R Larsen,Libertarian,1007
 Steuben,U.S. House,3,Mark E Souder,Republican,7100
-Steuben,State Senator,13,Fred Demske,Democratic,3522
-Steuben,State Senator,13,Marlin A Stutzman,Republican,5381
+Steuben,State Senate,13,Fred Demske,Democratic,3522
+Steuben,State Senate,13,Marlin A Stutzman,Republican,5381
 Steuben,State House,51,Lon N Keyes,Democratic,5925
 Steuben,State House,51,Richard A Dodge,Republican,7789
 Steuben,State House,52,Donald Papai,Democratic,0
@@ -4776,7 +4776,7 @@ Tippecanoe,Superintendent Of Public Instruction,,Tony Bennett,Republican,27045
 Tippecanoe,Superintendent Of Public Instruction,,Kevin R Brown,Democratic,0
 Tippecanoe,U.S. House,4,Nels Ackerson,Democratic,35737
 Tippecanoe,U.S. House,4,Steve Buyer,Republican,30720
-Tippecanoe,State Senator,7,Brandt Hershman,Republican,7197
+Tippecanoe,State Senate,7,Brandt Hershman,Republican,7197
 Tippecanoe,State House,13,Chester F Dobis,Democratic,0
 Tippecanoe,State House,13,Joseph M Hero,Republican,0
 Tippecanoe,State House,25,Jeb Bardon,Democratic,0
@@ -4936,7 +4936,7 @@ Vanderburgh,Superintendent Of Public Instruction,,Tony Bennett,Republican,35193
 Vanderburgh,Superintendent Of Public Instruction,,Kevin R Brown,Democratic,25
 Vanderburgh,U.S. House,8,Brad Ellsworth,Democratic,53115
 Vanderburgh,U.S. House,8,Gregory J Goode,Republican,23960
-Vanderburgh,State Senator,50,Vaneta Becker,Republican,35493
+Vanderburgh,State Senate,50,Vaneta Becker,Republican,35493
 Vanderburgh,State House,64,Kreg Battles,Democratic,0
 Vanderburgh,State House,76,William Trent Vanhaaften,Democratic,10149
 Vanderburgh,State House,77,Gail C Riecken,Democratic,17358
@@ -5219,7 +5219,7 @@ Warrick,Superintendent Of Public Instruction,,Tony Bennett,Republican,14739
 Warrick,Superintendent Of Public Instruction,,Kevin R Brown,Democratic,0
 Warrick,U.S. House,8,Brad Ellsworth,Democratic,17871
 Warrick,U.S. House,8,Gregory J Goode,Republican,10598
-Warrick,State Senator,50,Vaneta Becker,Republican,16404
+Warrick,State Senate,50,Vaneta Becker,Republican,16404
 Warrick,State House,75,Dennis T Avery,Democratic,1269
 Warrick,State House,75,J D Strouth,Republican,1111
 Warrick,State House,78,James Allen Rapp,Democratic,4242
@@ -5401,7 +5401,7 @@ White,Superintendent Of Public Instruction,,Tony Bennett,Republican,5621
 White,Superintendent Of Public Instruction,,Kevin R Brown,Democratic,0
 White,U.S. House,4,Nels Ackerson,Democratic,4033
 White,U.S. House,4,Steve Buyer,Republican,4959
-White,State Senator,7,Brandt Hershman,Republican,8458
+White,State Senate,7,Brandt Hershman,Republican,8458
 White,State House,13,Chester F Dobis,Democratic,0
 White,State House,13,Joseph M Hero,Republican,0
 White,State House,25,Jeb Bardon,Democratic,0
@@ -5442,7 +5442,7 @@ Whitley,Superintendent Of Public Instruction,,Kevin R Brown,Democratic,0
 Whitley,U.S. House,3,Michael A Montagano,Democratic,5734
 Whitley,U.S. House,3,William R Larsen,Libertarian,903
 Whitley,U.S. House,3,Mark E Souder,Republican,8357
-Whitley,State Senator,16,David C Long,Republican,0
+Whitley,State Senate,16,David C Long,Republican,0
 Whitley,State House,82,Jeffrey Keller Espich,Republican,0
 Whitley,State House,83,Steven B Heaston,Democratic,1293
 Whitley,State House,83,Herbert Jack Evans,Libertarian,141

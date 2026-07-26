@@ -1,8 +1,8 @@
 county,office,district,candidate,party,votes
-Adams,U.S. Senator,,Steve Osborn,Libertarian,743
-Adams,U.S. Senator,,Richard G Lugar,Republican,7143
-Adams,U.S. Senator,,Jack H Baldwin,Democratic,0
-Adams,U.S. Senator,,Mark Pool,Independent,3
+Adams,U.S. Senate,,Steve Osborn,Libertarian,743
+Adams,U.S. Senate,,Richard G Lugar,Republican,7143
+Adams,U.S. Senate,,Jack H Baldwin,Democratic,0
+Adams,U.S. Senate,,Mark Pool,Independent,3
 Adams,Secretary Of State,,Joe Pearson,Democratic,3555
 Adams,Secretary Of State,,Mike Kole,Libertarian,249
 Adams,Secretary Of State,,Todd Rokita,Republican,5110
@@ -13,14 +13,14 @@ Adams,Treasurer Of State,,Michael W Griffin,Democratic,3484
 Adams,Treasurer Of State,,Richard E Mourdock,Republican,5403
 Adams,U.S. House,3,Thomas E Hayhurst,Democratic,0
 Adams,U.S. House,3,Mark E Souder,Republican,0
-Adams,State Senator,19,David C Ford,Republican,7161
+Adams,State Senate,19,David C Ford,Republican,7161
 Adams,State House,79,Michael Ripley,Republican,7394
 Adams,Judge Of The Circuit Court,Adams 26Th Circuit,Frederick A Schurger,Democratic,6702
 Adams,Prosecuting Attorney,Adams 26Th Circuit,Christopher E Harvey,Democratic,6694
-Allen,U.S. Senator,,Steve Osborn,Libertarian,7838
-Allen,U.S. Senator,,Richard G Lugar,Republican,65782
-Allen,U.S. Senator,,Jack H Baldwin,Democratic,10
-Allen,U.S. Senator,,Mark Pool,Independent,28
+Allen,U.S. Senate,,Steve Osborn,Libertarian,7838
+Allen,U.S. Senate,,Richard G Lugar,Republican,65782
+Allen,U.S. Senate,,Jack H Baldwin,Democratic,10
+Allen,U.S. Senate,,Mark Pool,Independent,28
 Allen,Secretary Of State,,Joe Pearson,Democratic,34217
 Allen,Secretary Of State,,Mike Kole,Libertarian,2380
 Allen,Secretary Of State,,Todd Rokita,Republican,48911
@@ -31,9 +31,9 @@ Allen,Treasurer Of State,,Michael W Griffin,Democratic,33245
 Allen,Treasurer Of State,,Richard E Mourdock,Republican,50597
 Allen,U.S. House,3,Thomas E Hayhurst,Democratic,41824
 Allen,U.S. House,3,Mark E Souder,Republican,42368
-Allen,State Senator,14,Dennis K Kruse,Republican,17953
-Allen,State Senator,15,R Michael Bynum,Democratic,12427
-Allen,State Senator,15,Thomas J Wyss,Republican,16392
+Allen,State Senate,14,Dennis K Kruse,Republican,17953
+Allen,State Senate,15,R Michael Bynum,Democratic,12427
+Allen,State Senate,15,Thomas J Wyss,Republican,16392
 Allen,State House,50,Felix F Aguilar,Libertarian,0
 Allen,State House,50,Daniel Joseph Leonard,Republican,0
 Allen,State House,52,Dennis L Rorick,Democratic,0
@@ -49,10 +49,10 @@ Allen,State House,84,Mark J Wehrle,Democratic,6502
 Allen,State House,84,Randy L Borror,Republican,11720
 Allen,State House,85,Phyllis J Pond,Republican,15251
 Allen,Prosecuting Attorney,Allen 38Th Circuit,Karen E Richards,Republican,64650
-Bartholomew,U.S. Senator,,Steve Osborn,Libertarian,1834
-Bartholomew,U.S. Senator,,Richard G Lugar,Republican,16544
-Bartholomew,U.S. Senator,,Jack H Baldwin,Democratic,1
-Bartholomew,U.S. Senator,,Mark Pool,Independent,8
+Bartholomew,U.S. Senate,,Steve Osborn,Libertarian,1834
+Bartholomew,U.S. Senate,,Richard G Lugar,Republican,16544
+Bartholomew,U.S. Senate,,Jack H Baldwin,Democratic,1
+Bartholomew,U.S. Senate,,Mark Pool,Independent,8
 Bartholomew,Secretary Of State,,Joe Pearson,Democratic,7803
 Bartholomew,Secretary Of State,,Mike Kole,Libertarian,683
 Bartholomew,Secretary Of State,,Todd Rokita,Republican,12197
@@ -63,11 +63,11 @@ Bartholomew,Treasurer Of State,,Michael W Griffin,Democratic,8133
 Bartholomew,Treasurer Of State,,Richard E Mourdock,Republican,11688
 Bartholomew,U.S. House,6,Barry A Welsh,Democratic,3246
 Bartholomew,U.S. House,6,Mike Pence,Republican,8723
-Bartholomew,State Senator,41,George Terrence Coriden,Democratic,9984
-Bartholomew,State Senator,41,Kenn Gividen,Libertarian,979
-Bartholomew,State Senator,41,Greg Walker,Republican,10068
-Bartholomew,State Senator,43,Lane A Siekman,Democratic,0
-Bartholomew,State Senator,43,Johnny Nugent,Republican,0
+Bartholomew,State Senate,41,George Terrence Coriden,Democratic,9984
+Bartholomew,State Senate,41,Kenn Gividen,Libertarian,979
+Bartholomew,State Senate,41,Greg Walker,Republican,10068
+Bartholomew,State Senate,43,Lane A Siekman,Democratic,0
+Bartholomew,State Senate,43,Johnny Nugent,Republican,0
 Bartholomew,State House,57,Jd Lux,Democratic,2612
 Bartholomew,State House,57,Sean R Eberhart,Republican,3632
 Bartholomew,State House,59,Gary J Bell,Democratic,4215
@@ -77,10 +77,10 @@ Bartholomew,State House,69,Billy Bright,Republican,0
 Bartholomew,Judge Of The Superior Court,"Bartholomew County, No. 1",Eric Hayes,Democratic,8649
 Bartholomew,Judge Of The Superior Court,"Bartholomew County, No. 1",Chris D Monroe,Republican,12402
 Bartholomew,Prosecuting Attorney,Bartholomew 9Th Circuit,William M Nash,Republican,15771
-Benton,U.S. Senator,,Steve Osborn,Libertarian,310
-Benton,U.S. Senator,,Richard G Lugar,Republican,2086
-Benton,U.S. Senator,,Jack H Baldwin,Democratic,0
-Benton,U.S. Senator,,Mark Pool,Independent,0
+Benton,U.S. Senate,,Steve Osborn,Libertarian,310
+Benton,U.S. Senate,,Richard G Lugar,Republican,2086
+Benton,U.S. Senate,,Jack H Baldwin,Democratic,0
+Benton,U.S. Senate,,Mark Pool,Independent,0
 Benton,Secretary Of State,,Joe Pearson,Democratic,930
 Benton,Secretary Of State,,Mike Kole,Libertarian,108
 Benton,Secretary Of State,,Todd Rokita,Republican,1480
@@ -91,14 +91,14 @@ Benton,Treasurer Of State,,Michael W Griffin,Democratic,931
 Benton,Treasurer Of State,,Richard E Mourdock,Republican,1522
 Benton,U.S. House,4,David Avram Sanders,Democratic,0
 Benton,U.S. House,4,Steve Buyer,Republican,0
-Benton,State Senator,6,John B Greaves,Democratic,835
-Benton,State Senator,6,Sue Landske,Republican,1691
+Benton,State Senate,6,John B Greaves,Democratic,835
+Benton,State Senate,6,Sue Landske,Republican,1691
 Benton,State House,13,Chester F Dobis,Democratic,0
 Benton,Prosecuting Attorney,Benton 76Th Circuit,William B Weist,Republican,2089
-Blackford,U.S. Senator,,Steve Osborn,Libertarian,483
-Blackford,U.S. Senator,,Richard G Lugar,Republican,2902
-Blackford,U.S. Senator,,Jack H Baldwin,Democratic,0
-Blackford,U.S. Senator,,Mark Pool,Independent,0
+Blackford,U.S. Senate,,Steve Osborn,Libertarian,483
+Blackford,U.S. Senate,,Richard G Lugar,Republican,2902
+Blackford,U.S. Senate,,Jack H Baldwin,Democratic,0
+Blackford,U.S. Senate,,Mark Pool,Independent,0
 Blackford,Secretary Of State,,Joe Pearson,Democratic,2466
 Blackford,Secretary Of State,,Mike Kole,Libertarian,110
 Blackford,Secretary Of State,,Todd Rokita,Republican,1406
@@ -113,17 +113,17 @@ Blackford,U.S. House,5,Katherine Fox Carr,Democratic,0
 Blackford,U.S. House,5,Sheri Conover Sharlow,Libertarian,0
 Blackford,U.S. House,5,Dan Burton,Republican,0
 Blackford,U.S. House,5,John Miller,Independent,0
-Blackford,State Senator,19,David C Ford,Republican,2959
+Blackford,State Senate,19,David C Ford,Republican,2959
 Blackford,State House,31,Larry R Hile,Democratic,2281
 Blackford,State House,31,Timothy W Harris,Republican,1750
 Blackford,State House,33,Ronald David Liggett,Democratic,0
 Blackford,State House,33,Bill J Davis,Republican,0
 Blackford,Judge Of The Circuit Court,Blackford 71St Circuit,Dean A Young,Republican,2914
 Blackford,Prosecuting Attorney,Blackford 71St Circuit,Kevin N Basey,Republican,2917
-Boone,U.S. Senator,,Steve Osborn,Libertarian,1058
-Boone,U.S. Senator,,Richard G Lugar,Republican,11428
-Boone,U.S. Senator,,Jack H Baldwin,Democratic,0
-Boone,U.S. Senator,,Mark Pool,Independent,0
+Boone,U.S. Senate,,Steve Osborn,Libertarian,1058
+Boone,U.S. Senate,,Richard G Lugar,Republican,11428
+Boone,U.S. Senate,,Jack H Baldwin,Democratic,0
+Boone,U.S. Senate,,Mark Pool,Independent,0
 Boone,Secretary Of State,,Joe Pearson,Democratic,3732
 Boone,Secretary Of State,,Mike Kole,Libertarian,476
 Boone,Secretary Of State,,Todd Rokita,Republican,9845
@@ -138,18 +138,18 @@ Boone,U.S. House,5,Katherine Fox Carr,Democratic,0
 Boone,U.S. House,5,Sheri Conover Sharlow,Libertarian,0
 Boone,U.S. House,5,Dan Burton,Republican,0
 Boone,U.S. House,5,John Miller,Independent,0
-Boone,State Senator,23,Phil Boots,Republican,5926
-Boone,State Senator,29,Michael A Delph,Republican,0
+Boone,State Senate,23,Phil Boots,Republican,5926
+Boone,State Senate,29,Michael A Delph,Republican,0
 Boone,State House,24,Richard W Rich Mcclain,Republican,0
 Boone,State House,28,Jeffrey A Thompson,Republican,5158
 Boone,State House,41,James Stytle,Democratic,0
 Boone,State House,41,Tim Brown,Republican,0
 Boone,Judge Of The Circuit Court,Boone 20Th Circuit,Steve David,Republican,11368
 Boone,Prosecuting Attorney,Boone 20Th Circuit,Todd J Meyer,Republican,11200
-Brown,U.S. Senator,,Steve Osborn,Libertarian,743
-Brown,U.S. Senator,,Richard G Lugar,Republican,4181
-Brown,U.S. Senator,,Jack H Baldwin,Democratic,0
-Brown,U.S. Senator,,Mark Pool,Independent,1
+Brown,U.S. Senate,,Steve Osborn,Libertarian,743
+Brown,U.S. Senate,,Richard G Lugar,Republican,4181
+Brown,U.S. Senate,,Jack H Baldwin,Democratic,0
+Brown,U.S. Senate,,Mark Pool,Independent,1
 Brown,Secretary Of State,,Joe Pearson,Democratic,2656
 Brown,Secretary Of State,,Mike Kole,Libertarian,293
 Brown,Secretary Of State,,Todd Rokita,Republican,2976
@@ -166,10 +166,10 @@ Brown,State House,65,Eric A Koch,Republican,3949
 Brown,Judge Of The Circuit Court,Brown 88Th Circuit,Judith A Stewart,Democratic,4633
 Brown,Prosecuting Attorney,Brown 88Th Circuit,James R Oliver,Democratic,3769
 Brown,Prosecuting Attorney,Brown 88Th Circuit,Andrew Szakaly,Republican,2310
-Carroll,U.S. Senator,,Steve Osborn,Libertarian,768
-Carroll,U.S. Senator,,Richard G Lugar,Republican,4859
-Carroll,U.S. Senator,,Jack H Baldwin,Democratic,3
-Carroll,U.S. Senator,,Mark Pool,Independent,0
+Carroll,U.S. Senate,,Steve Osborn,Libertarian,768
+Carroll,U.S. Senate,,Richard G Lugar,Republican,4859
+Carroll,U.S. Senate,,Jack H Baldwin,Democratic,3
+Carroll,U.S. Senate,,Mark Pool,Independent,0
 Carroll,Secretary Of State,,Joe Pearson,Democratic,2577
 Carroll,Secretary Of State,,Mike Kole,Libertarian,188
 Carroll,Secretary Of State,,Todd Rokita,Republican,3475
@@ -186,10 +186,10 @@ Carroll,State House,38,James R Buck,Republican,0
 Carroll,Judge Of The Circuit Court,Carroll 74Th Circuit,Donald E Currie,Republican,4855
 Carroll,Prosecuting Attorney,Carroll 74Th Circuit,James R Huffer,Democratic,2516
 Carroll,Prosecuting Attorney,Carroll 74Th Circuit,Tricia L Thompson,Republican,3841
-Cass,U.S. Senator,,Steve Osborn,Libertarian,1094
-Cass,U.S. Senator,,Richard G Lugar,Republican,8066
-Cass,U.S. Senator,,Jack H Baldwin,Democratic,0
-Cass,U.S. Senator,,Mark Pool,Independent,1
+Cass,U.S. Senate,,Steve Osborn,Libertarian,1094
+Cass,U.S. Senate,,Richard G Lugar,Republican,8066
+Cass,U.S. Senate,,Jack H Baldwin,Democratic,0
+Cass,U.S. Senate,,Mark Pool,Independent,1
 Cass,Secretary Of State,,Joe Pearson,Democratic,4662
 Cass,Secretary Of State,,Mike Kole,Libertarian,365
 Cass,Secretary Of State,,Todd Rokita,Republican,5991
@@ -209,10 +209,10 @@ Cass,Judge Of The Circuit Court,Cass 29Th Circuit,Leo T Burns,Democratic,5982
 Cass,Judge Of The Circuit Court,Cass 29Th Circuit,Sheryl M Pherson,Republican,5140
 Cass,Judge Of The Superior Court,"Cass County, Court 2",Richard A Maughmer,Republican,8090
 Cass,Prosecuting Attorney,Cass 29Th Circuit,Kevin S Enyeart,Republican,7999
-Clark,U.S. Senator,,Steve Osborn,Libertarian,3358
-Clark,U.S. Senator,,Richard G Lugar,Republican,21690
-Clark,U.S. Senator,,Jack H Baldwin,Democratic,0
-Clark,U.S. Senator,,Mark Pool,Independent,0
+Clark,U.S. Senate,,Steve Osborn,Libertarian,3358
+Clark,U.S. Senate,,Richard G Lugar,Republican,21690
+Clark,U.S. Senate,,Jack H Baldwin,Democratic,0
+Clark,U.S. Senate,,Mark Pool,Independent,0
 Clark,Secretary Of State,,Joe Pearson,Democratic,16736
 Clark,Secretary Of State,,Mike Kole,Libertarian,1009
 Clark,Secretary Of State,,Todd Rokita,Republican,13736
@@ -225,10 +225,10 @@ Clark,U.S. House,9,Baron Hill,Democratic,16411
 Clark,U.S. House,9,D Eric Schansberg,Libertarian,1095
 Clark,U.S. House,9,Michael E Sodrel,Republican,15891
 Clark,U.S. House,9,Donald W Mantooth,Republican,0
-Clark,State Senator,45,James Lewis,Democratic,10076
-Clark,State Senator,45,Floyd E Coates,Republican,7634
-Clark,State Senator,46,Connie Weigleb Sipes,Democratic,10018
-Clark,State Senator,46,Ryan J Bergman,Republican,4843
+Clark,State Senate,45,James Lewis,Democratic,10076
+Clark,State Senate,45,Floyd E Coates,Republican,7634
+Clark,State Senate,46,Connie Weigleb Sipes,Democratic,10018
+Clark,State Senate,46,Ryan J Bergman,Republican,4843
 Clark,State House,66,Terry Goodin,Democratic,3738
 Clark,State House,70,Paul J Robertson,Democratic,3554
 Clark,State House,70,Christopher L Byrd,Republican,3030
@@ -238,10 +238,10 @@ Clark,State House,73,Dennie Oxley,Democratic,693
 Clark,Judge Of The Superior Court,"Clark County, No. 1",Vicki L Carmichael,Democratic,19887
 Clark,Judge Of The Superior Court,"Clark County, No. 1",Steven P Langdon,Republican,12806
 Clark,Prosecuting Attorney,Clark 4Th Circuit,Steven D Stewart,Democratic,22632
-Clay,U.S. Senator,,Steve Osborn,Libertarian,987
-Clay,U.S. Senator,,Richard G Lugar,Republican,6597
-Clay,U.S. Senator,,Jack H Baldwin,Democratic,0
-Clay,U.S. Senator,,Mark Pool,Independent,4
+Clay,U.S. Senate,,Steve Osborn,Libertarian,987
+Clay,U.S. Senate,,Richard G Lugar,Republican,6597
+Clay,U.S. Senate,,Jack H Baldwin,Democratic,0
+Clay,U.S. Senate,,Mark Pool,Independent,4
 Clay,Secretary Of State,,Joe Pearson,Democratic,3789
 Clay,Secretary Of State,,Mike Kole,Libertarian,282
 Clay,Secretary Of State,,Todd Rokita,Republican,4240
@@ -252,9 +252,9 @@ Clay,Treasurer Of State,,Michael W Griffin,Democratic,3773
 Clay,Treasurer Of State,,Richard E Mourdock,Republican,4066
 Clay,U.S. House,8,Brad Ellsworth,Democratic,5088
 Clay,U.S. House,8,John N Hostettler,Republican,3126
-Clay,State Senator,38,Timothy D Skinner,Democratic,0
-Clay,State Senator,39,Steven M Thais,Democratic,844
-Clay,State Senator,39,John M Waterman,Republican,1409
+Clay,State Senate,38,Timothy D Skinner,Democratic,0
+Clay,State Senate,39,Steven M Thais,Democratic,844
+Clay,State Senate,39,John M Waterman,Republican,1409
 Clay,State House,42,F Dale Grubb,Democratic,0
 Clay,State House,42,Jeffrey Mccoy,Republican,0
 Clay,State House,44,Richard Thompson,Democratic,2554
@@ -265,10 +265,10 @@ Clay,Judge Of The Circuit Court,Clay 13Th Circuit,Joseph Dom Trout,Democratic,45
 Clay,Judge Of The Circuit Court,Clay 13Th Circuit,Robert Alex Pell,Republican,4053
 Clay,Judge Of The Superior Court,Clay County,J Blaine Akers,Democratic,6836
 Clay,Prosecuting Attorney,Clay 13Th Circuit,"B Lee Reberger, Jr.",Republican,6310
-Clinton,U.S. Senator,,Steve Osborn,Libertarian,856
-Clinton,U.S. Senator,,Richard G Lugar,Republican,6076
-Clinton,U.S. Senator,,Jack H Baldwin,Democratic,2
-Clinton,U.S. Senator,,Mark Pool,Independent,5
+Clinton,U.S. Senate,,Steve Osborn,Libertarian,856
+Clinton,U.S. Senate,,Richard G Lugar,Republican,6076
+Clinton,U.S. Senate,,Jack H Baldwin,Democratic,2
+Clinton,U.S. Senate,,Mark Pool,Independent,5
 Clinton,Secretary Of State,,Joe Pearson,Democratic,2893
 Clinton,Secretary Of State,,Mike Kole,Libertarian,245
 Clinton,Secretary Of State,,Todd Rokita,Republican,4715
@@ -279,18 +279,18 @@ Clinton,Treasurer Of State,,Michael W Griffin,Democratic,2922
 Clinton,Treasurer Of State,,Richard E Mourdock,Republican,4572
 Clinton,U.S. House,4,David Avram Sanders,Democratic,3036
 Clinton,U.S. House,4,Steve Buyer,Republican,4650
-Clinton,State Senator,21,Janelda Ellis,Democratic,0
-Clinton,State Senator,21,Jeff Drozda,Republican,0
+Clinton,State Senate,21,Janelda Ellis,Democratic,0
+Clinton,State Senate,21,Jeff Drozda,Republican,0
 Clinton,State House,25,Jeb Bardon,Democratic,0
 Clinton,State House,25,Josephine R Coleman,Libertarian,0
 Clinton,State House,38,James R Buck,Republican,5778
 Clinton,Judge Of The Circuit Court,Clinton 45Th Circuit,Linley E Pearson,Republican,6064
 Clinton,Prosecuting Attorney,Clinton 45Th Circuit,Louis D Evans,Democratic,3629
 Clinton,Prosecuting Attorney,Clinton 45Th Circuit,Anthony J Sommer,Republican,4351
-Crawford,U.S. Senator,,Steve Osborn,Libertarian,488
-Crawford,U.S. Senator,,Richard G Lugar,Republican,2318
-Crawford,U.S. Senator,,Jack H Baldwin,Democratic,0
-Crawford,U.S. Senator,,Mark Pool,Independent,0
+Crawford,U.S. Senate,,Steve Osborn,Libertarian,488
+Crawford,U.S. Senate,,Richard G Lugar,Republican,2318
+Crawford,U.S. Senate,,Jack H Baldwin,Democratic,0
+Crawford,U.S. Senate,,Mark Pool,Independent,0
 Crawford,Secretary Of State,,Joe Pearson,Democratic,2039
 Crawford,Secretary Of State,,Mike Kole,Libertarian,171
 Crawford,Secretary Of State,,Todd Rokita,Republican,1405
@@ -305,16 +305,16 @@ Crawford,U.S. House,9,Baron Hill,Democratic,2093
 Crawford,U.S. House,9,D Eric Schansberg,Libertarian,182
 Crawford,U.S. House,9,Michael E Sodrel,Republican,1695
 Crawford,U.S. House,9,Donald W Mantooth,Republican,0
-Crawford,State Senator,47,"Richard D Young, Jr.",Democratic,2816
-Crawford,State Senator,47,Brian C Thomas,Republican,1080
+Crawford,State Senate,47,"Richard D Young, Jr.",Democratic,2816
+Crawford,State Senate,47,Brian C Thomas,Republican,1080
 Crawford,State House,74,Russell Stilwell,Democratic,0
 Crawford,State House,74,Steven G Mcbrian,Republican,0
 Crawford,Prosecuting Attorney,Crawford 77Th Circuit,Cheryl Joan Hillenburg,Democratic,2660
 Crawford,Prosecuting Attorney,Crawford 77Th Circuit,Lester V Shelton,Republican,1319
-Daviess,U.S. Senator,,Steve Osborn,Libertarian,586
-Daviess,U.S. Senator,,Richard G Lugar,Republican,6193
-Daviess,U.S. Senator,,Jack H Baldwin,Democratic,1
-Daviess,U.S. Senator,,Mark Pool,Independent,0
+Daviess,U.S. Senate,,Steve Osborn,Libertarian,586
+Daviess,U.S. Senate,,Richard G Lugar,Republican,6193
+Daviess,U.S. Senate,,Jack H Baldwin,Democratic,1
+Daviess,U.S. Senate,,Mark Pool,Independent,0
 Daviess,Secretary Of State,,Joe Pearson,Democratic,2806
 Daviess,Secretary Of State,,Mike Kole,Libertarian,219
 Daviess,Secretary Of State,,Todd Rokita,Republican,4554
@@ -325,8 +325,8 @@ Daviess,Treasurer Of State,,Michael W Griffin,Democratic,2583
 Daviess,Treasurer Of State,,Richard E Mourdock,Republican,4712
 Daviess,U.S. House,8,Brad Ellsworth,Democratic,3318
 Daviess,U.S. House,8,John N Hostettler,Republican,4333
-Daviess,State Senator,39,Steven M Thais,Democratic,733
-Daviess,State Senator,39,John M Waterman,Republican,1476
+Daviess,State Senate,39,Steven M Thais,Democratic,733
+Daviess,State Senate,39,John M Waterman,Republican,1476
 Daviess,State House,45,Michael Dudley Bledsoe,Democratic,433
 Daviess,State House,45,Bruce Alan Borders,Republican,1224
 Daviess,State House,62,Jerry L Denbo,Democratic,0
@@ -334,10 +334,10 @@ Daviess,State House,62,Donald O Patton,Republican,0
 Daviess,State House,63,Dave Crooks,Democratic,3514
 Daviess,State House,63,Ronald Joseph Arnold,Republican,2289
 Daviess,Prosecuting Attorney,Daviess 49Th Circuit,G Byron Overton,Republican,5728
-Dearborn,U.S. Senator,,Steve Osborn,Libertarian,1759
-Dearborn,U.S. Senator,,Richard G Lugar,Republican,9091
-Dearborn,U.S. Senator,,Jack H Baldwin,Democratic,2
-Dearborn,U.S. Senator,,Mark Pool,Independent,9
+Dearborn,U.S. Senate,,Steve Osborn,Libertarian,1759
+Dearborn,U.S. Senate,,Richard G Lugar,Republican,9091
+Dearborn,U.S. Senate,,Jack H Baldwin,Democratic,2
+Dearborn,U.S. Senate,,Mark Pool,Independent,9
 Dearborn,Secretary Of State,,Joe Pearson,Democratic,5159
 Dearborn,Secretary Of State,,Mike Kole,Libertarian,520
 Dearborn,Secretary Of State,,Todd Rokita,Republican,6804
@@ -348,20 +348,20 @@ Dearborn,Treasurer Of State,,Michael W Griffin,Democratic,5276
 Dearborn,Treasurer Of State,,Richard E Mourdock,Republican,7237
 Dearborn,U.S. House,6,Barry A Welsh,Democratic,1239
 Dearborn,U.S. House,6,Mike Pence,Republican,2976
-Dearborn,State Senator,27,Clayton Phillips,Democratic,0
-Dearborn,State Senator,27,Allen E Paul,Republican,0
-Dearborn,State Senator,43,Lane A Siekman,Democratic,3804
-Dearborn,State Senator,43,Johnny Nugent,Republican,9361
+Dearborn,State Senate,27,Clayton Phillips,Democratic,0
+Dearborn,State Senate,27,Allen E Paul,Republican,0
+Dearborn,State Senate,43,Lane A Siekman,Democratic,3804
+Dearborn,State Senate,43,Johnny Nugent,Republican,9361
 Dearborn,State House,67,Cleo Duncan,Republican,0
 Dearborn,State House,67,Martin W Voegele,Independent,0
 Dearborn,State House,68,Robert J Bischoff,Democratic,5637
 Dearborn,State House,68,Bill Ullrich,Republican,3233
 Dearborn,Judge Of The Superior Court,"Dearborn County, No. 2",Sally A Blankenship,Republican,9637
 Dearborn,Prosecuting Attorney,Dearborn & Ohio7Th Cir.,Frank Aaron Negangard,Republican,9424
-Decatur,U.S. Senator,,Steve Osborn,Libertarian,660
-Decatur,U.S. Senator,,Richard G Lugar,Republican,5755
-Decatur,U.S. Senator,,Jack H Baldwin,Democratic,0
-Decatur,U.S. Senator,,Mark Pool,Independent,0
+Decatur,U.S. Senate,,Steve Osborn,Libertarian,660
+Decatur,U.S. Senate,,Richard G Lugar,Republican,5755
+Decatur,U.S. Senate,,Jack H Baldwin,Democratic,0
+Decatur,U.S. Senate,,Mark Pool,Independent,0
 Decatur,Secretary Of State,,Joe Pearson,Democratic,2409
 Decatur,Secretary Of State,,Mike Kole,Libertarian,245
 Decatur,Secretary Of State,,Todd Rokita,Republican,4267
@@ -372,18 +372,18 @@ Decatur,Treasurer Of State,,Michael W Griffin,Democratic,2398
 Decatur,Treasurer Of State,,Richard E Mourdock,Republican,4073
 Decatur,U.S. House,6,Barry A Welsh,Democratic,1917
 Decatur,U.S. House,6,Mike Pence,Republican,4768
-Decatur,State Senator,43,Lane A Siekman,Democratic,0
-Decatur,State Senator,43,Johnny Nugent,Republican,0
+Decatur,State Senate,43,Lane A Siekman,Democratic,0
+Decatur,State Senate,43,Johnny Nugent,Republican,0
 Decatur,State House,55,Dale Lanning,Democratic,0
 Decatur,State House,55,Thomas D Tom Knollman,Republican,0
 Decatur,State House,67,Cleo Duncan,Republican,4060
 Decatur,State House,67,Martin W Voegele,Independent,1437
 Decatur,Judge Of The Circuit Court,Decatur 69Th Circuit,John A Westhafer,Republican,5659
 Decatur,Prosecuting Attorney,Decatur 69Th Circuit,William O Smith,Democratic,4918
-DeKalb,U.S. Senator,,Steve Osborn,Libertarian,1258
-DeKalb,U.S. Senator,,Richard G Lugar,Republican,7967
-DeKalb,U.S. Senator,,Jack H Baldwin,Democratic,0
-DeKalb,U.S. Senator,,Mark Pool,Independent,0
+DeKalb,U.S. Senate,,Steve Osborn,Libertarian,1258
+DeKalb,U.S. Senate,,Richard G Lugar,Republican,7967
+DeKalb,U.S. Senate,,Jack H Baldwin,Democratic,0
+DeKalb,U.S. Senate,,Mark Pool,Independent,0
 DeKalb,Secretary Of State,,Joe Pearson,Democratic,4279
 DeKalb,Secretary Of State,,Mike Kole,Libertarian,338
 DeKalb,Secretary Of State,,Todd Rokita,Republican,5901
@@ -394,15 +394,15 @@ DeKalb,Treasurer Of State,,Michael W Griffin,Democratic,4133
 DeKalb,Treasurer Of State,,Richard E Mourdock,Republican,6042
 DeKalb,U.S. House,3,Thomas E Hayhurst,Democratic,4891
 DeKalb,U.S. House,3,Mark E Souder,Republican,5632
-DeKalb,State Senator,14,Dennis K Kruse,Republican,7758
+DeKalb,State Senate,14,Dennis K Kruse,Republican,7758
 DeKalb,State House,52,Dennis L Rorick,Democratic,973
 DeKalb,State House,52,Marlin A Stutzman,Republican,980
 DeKalb,Judge Of The Superior Court,"Dekalb County, Court 2",Monte L Brown,Republican,8307
 DeKalb,Prosecuting Attorney,Dekalb 75Th Circuit,Claramary Winebrenner,Republican,8100
-Delaware,U.S. Senator,,Steve Osborn,Libertarian,2740
-Delaware,U.S. Senator,,Richard G Lugar,Republican,21571
-Delaware,U.S. Senator,,Jack H Baldwin,Democratic,0
-Delaware,U.S. Senator,,Mark Pool,Independent,0
+Delaware,U.S. Senate,,Steve Osborn,Libertarian,2740
+Delaware,U.S. Senate,,Richard G Lugar,Republican,21571
+Delaware,U.S. Senate,,Jack H Baldwin,Democratic,0
+Delaware,U.S. Senate,,Mark Pool,Independent,0
 Delaware,Secretary Of State,,Joe Pearson,Democratic,16525
 Delaware,Secretary Of State,,Mike Kole,Libertarian,899
 Delaware,Secretary Of State,,Todd Rokita,Republican,14842
@@ -413,11 +413,11 @@ Delaware,Treasurer Of State,,Michael W Griffin,Democratic,17307
 Delaware,Treasurer Of State,,Richard E Mourdock,Republican,14511
 Delaware,U.S. House,6,Barry A Welsh,Democratic,15815
 Delaware,U.S. House,6,Mike Pence,Republican,17626
-Delaware,State Senator,25,Tim Lanane,Democratic,0
-Delaware,State Senator,25,Daniel William Dykes,Republican,0
-Delaware,State Senator,26,Sue Errington,Democratic,17987
-Delaware,State Senator,26,Andrew Stillman Phipps,Republican,14303
-Delaware,State Senator,26,Pat L Smith,Independent,1345
+Delaware,State Senate,25,Tim Lanane,Democratic,0
+Delaware,State Senate,25,Daniel William Dykes,Republican,0
+Delaware,State Senate,26,Sue Errington,Democratic,17987
+Delaware,State Senate,26,Andrew Stillman Phipps,Republican,14303
+Delaware,State Senate,26,Pat L Smith,Independent,1345
 Delaware,State House,31,Larry R Hile,Democratic,0
 Delaware,State House,31,Timothy W Harris,Republican,0
 Delaware,State House,32,P Eric Turner,Republican,0
@@ -431,10 +431,10 @@ Delaware,State House,35,L Jack Lutz,Republican,7081
 Delaware,Judge Of The Circuit Court,Delaware Ct. 246Th Cir.,Richard A Dailey,Democratic,23383
 Delaware,Prosecuting Attorney,Delaware 46Th Circuit,Mark R Mckinney,Democratic,20409
 Delaware,Prosecuting Attorney,Delaware 46Th Circuit,Mark A Delgado,Republican,12474
-Dubois,U.S. Senator,,Steve Osborn,Libertarian,1007
-Dubois,U.S. Senator,,Richard G Lugar,Republican,9432
-Dubois,U.S. Senator,,Jack H Baldwin,Democratic,0
-Dubois,U.S. Senator,,Mark Pool,Independent,2
+Dubois,U.S. Senate,,Steve Osborn,Libertarian,1007
+Dubois,U.S. Senate,,Richard G Lugar,Republican,9432
+Dubois,U.S. Senate,,Jack H Baldwin,Democratic,0
+Dubois,U.S. Senate,,Mark Pool,Independent,2
 Dubois,Secretary Of State,,Joe Pearson,Democratic,6175
 Dubois,Secretary Of State,,Mike Kole,Libertarian,368
 Dubois,Secretary Of State,,Todd Rokita,Republican,5743
@@ -445,18 +445,18 @@ Dubois,Treasurer Of State,,Michael W Griffin,Democratic,6058
 Dubois,Treasurer Of State,,Richard E Mourdock,Republican,5614
 Dubois,U.S. House,8,Brad Ellsworth,Democratic,0
 Dubois,U.S. House,8,John N Hostettler,Republican,0
-Dubois,State Senator,47,"Richard D Young, Jr.",Democratic,3239
-Dubois,State Senator,47,Brian C Thomas,Republican,1499
-Dubois,State Senator,48,Lindel O Hume,Democratic,5310
+Dubois,State Senate,47,"Richard D Young, Jr.",Democratic,3239
+Dubois,State Senate,47,Brian C Thomas,Republican,1499
+Dubois,State Senate,48,Lindel O Hume,Democratic,5310
 Dubois,State House,63,Dave Crooks,Democratic,4773
 Dubois,State House,63,Ronald Joseph Arnold,Republican,2812
 Dubois,State House,74,Russell Stilwell,Democratic,2427
 Dubois,State House,74,Steven G Mcbrian,Republican,1310
 Dubois,Prosecuting Attorney,Dubois 57Th Circuit,Michael A Fritch,Democratic,9424
-Elkhart,U.S. Senator,,Steve Osborn,Libertarian,3798
-Elkhart,U.S. Senator,,Richard G Lugar,Republican,34342
-Elkhart,U.S. Senator,,Jack H Baldwin,Democratic,26
-Elkhart,U.S. Senator,,Mark Pool,Independent,48
+Elkhart,U.S. Senate,,Steve Osborn,Libertarian,3798
+Elkhart,U.S. Senate,,Richard G Lugar,Republican,34342
+Elkhart,U.S. Senate,,Jack H Baldwin,Democratic,26
+Elkhart,U.S. Senate,,Mark Pool,Independent,48
 Elkhart,Secretary Of State,,Joe Pearson,Democratic,16033
 Elkhart,Secretary Of State,,Mike Kole,Libertarian,1493
 Elkhart,Secretary Of State,,Todd Rokita,Republican,25870
@@ -467,8 +467,8 @@ Elkhart,Treasurer Of State,,Michael W Griffin,Democratic,16618
 Elkhart,Treasurer Of State,,Richard E Mourdock,Republican,26272
 Elkhart,U.S. House,2,Joseph S Donnelly,Democratic,8353
 Elkhart,U.S. House,2,J Christopher Chocola,Republican,10305
-Elkhart,State Senator,11,Patricia A Mcquade,Democratic,4620
-Elkhart,State Senator,11,Joe Zakas,Republican,6543
+Elkhart,State Senate,11,Patricia A Mcquade,Democratic,4620
+Elkhart,State Senate,11,Joe Zakas,Republican,6543
 Elkhart,State House,21,Robert Kovach,Democratic,3454
 Elkhart,State House,21,Jackie Walorski Swihart,Republican,4843
 Elkhart,State House,22,Larry E Rensberger,Democratic,0
@@ -482,10 +482,10 @@ Elkhart,State House,82,Jeffrey Keller Espich,Republican,0
 Elkhart,Judge Of The Superior Court,"Elkhart County, No. 2",Stephen Ray Bowers,Republican,32541
 Elkhart,Judge Of The Superior Court,"Elkhart County, No. 6",David C Bonfiglio,Republican,32302
 Elkhart,Prosecuting Attorney,Elkhart 34Th Circuit,"Curtis T Hill, Jr.",Republican,33361
-Fayette,U.S. Senator,,Steve Osborn,Libertarian,951
-Fayette,U.S. Senator,,Richard G Lugar,Republican,4704
-Fayette,U.S. Senator,,Jack H Baldwin,Democratic,0
-Fayette,U.S. Senator,,Mark Pool,Independent,0
+Fayette,U.S. Senate,,Steve Osborn,Libertarian,951
+Fayette,U.S. Senate,,Richard G Lugar,Republican,4704
+Fayette,U.S. Senate,,Jack H Baldwin,Democratic,0
+Fayette,U.S. Senate,,Mark Pool,Independent,0
 Fayette,Secretary Of State,,Joe Pearson,Democratic,3354
 Fayette,Secretary Of State,,Mike Kole,Libertarian,293
 Fayette,Secretary Of State,,Todd Rokita,Republican,3018
@@ -496,16 +496,16 @@ Fayette,Treasurer Of State,,Michael W Griffin,Democratic,3395
 Fayette,Treasurer Of State,,Richard E Mourdock,Republican,2930
 Fayette,U.S. House,6,Barry A Welsh,Democratic,3200
 Fayette,U.S. House,6,Mike Pence,Republican,3390
-Fayette,State Senator,27,Clayton Phillips,Democratic,0
-Fayette,State Senator,27,Allen E Paul,Republican,0
+Fayette,State Senate,27,Clayton Phillips,Democratic,0
+Fayette,State Senate,27,Allen E Paul,Republican,0
 Fayette,State House,55,Dale Lanning,Democratic,3529
 Fayette,State House,55,Thomas D Tom Knollman,Republican,3109
 Fayette,Prosecuting Attorney,Fayette 73Rd Circuit,Kenneth D Faw,Democratic,4317
 Fayette,Prosecuting Attorney,Fayette 73Rd Circuit,Cynthia E Crispin,Republican,2586
-Floyd,U.S. Senator,,Steve Osborn,Libertarian,2300
-Floyd,U.S. Senator,,Richard G Lugar,Republican,16941
-Floyd,U.S. Senator,,Jack H Baldwin,Democratic,0
-Floyd,U.S. Senator,,Mark Pool,Independent,0
+Floyd,U.S. Senate,,Steve Osborn,Libertarian,2300
+Floyd,U.S. Senate,,Richard G Lugar,Republican,16941
+Floyd,U.S. Senate,,Jack H Baldwin,Democratic,0
+Floyd,U.S. Senate,,Mark Pool,Independent,0
 Floyd,Secretary Of State,,Joe Pearson,Democratic,12229
 Floyd,Secretary Of State,,Mike Kole,Libertarian,677
 Floyd,Secretary Of State,,Todd Rokita,Republican,11363
@@ -518,18 +518,18 @@ Floyd,U.S. House,9,Baron Hill,Democratic,11895
 Floyd,U.S. House,9,D Eric Schansberg,Libertarian,856
 Floyd,U.S. House,9,Michael E Sodrel,Republican,12572
 Floyd,U.S. House,9,Donald W Mantooth,Republican,0
-Floyd,State Senator,46,Connie Weigleb Sipes,Democratic,15318
-Floyd,State Senator,46,Ryan J Bergman,Republican,9637
+Floyd,State Senate,46,Connie Weigleb Sipes,Democratic,15318
+Floyd,State Senate,46,Ryan J Bergman,Republican,9637
 Floyd,State House,70,Paul J Robertson,Democratic,2212
 Floyd,State House,70,Christopher L Byrd,Republican,1981
 Floyd,State House,72,William C Cochran,Democratic,12091
 Floyd,State House,72,James B Wathen,Republican,8598
 Floyd,Prosecuting Attorney,Floyd 52Nd Circuit,K Lee Cotner,Democratic,9375
 Floyd,Prosecuting Attorney,Floyd 52Nd Circuit,Keith A Henderson,Republican,15763
-Fountain,U.S. Senator,,Steve Osborn,Libertarian,671
-Fountain,U.S. Senator,,Richard G Lugar,Republican,4267
-Fountain,U.S. Senator,,Jack H Baldwin,Democratic,0
-Fountain,U.S. Senator,,Mark Pool,Independent,0
+Fountain,U.S. Senate,,Steve Osborn,Libertarian,671
+Fountain,U.S. Senate,,Richard G Lugar,Republican,4267
+Fountain,U.S. Senate,,Jack H Baldwin,Democratic,0
+Fountain,U.S. Senate,,Mark Pool,Independent,0
 Fountain,Secretary Of State,,Joe Pearson,Democratic,2215
 Fountain,Secretary Of State,,Mike Kole,Libertarian,167
 Fountain,Secretary Of State,,Todd Rokita,Republican,2989
@@ -540,16 +540,16 @@ Fountain,Treasurer Of State,,Michael W Griffin,Democratic,2252
 Fountain,Treasurer Of State,,Richard E Mourdock,Republican,3029
 Fountain,U.S. House,4,David Avram Sanders,Democratic,733
 Fountain,U.S. House,4,Steve Buyer,Republican,1108
-Fountain,State Senator,23,Phil Boots,Republican,3859
+Fountain,State Senate,23,Phil Boots,Republican,3859
 Fountain,State House,13,Chester F Dobis,Democratic,0
 Fountain,State House,42,F Dale Grubb,Democratic,3952
 Fountain,State House,42,Jeffrey Mccoy,Republican,1609
 Fountain,Prosecuting Attorney,Fountain 61St Circuit,James R Bunch,Democratic,2530
 Fountain,Prosecuting Attorney,Fountain 61St Circuit,Teryl D Martin,Republican,3073
-Franklin,U.S. Senator,,Steve Osborn,Libertarian,989
-Franklin,U.S. Senator,,Richard G Lugar,Republican,5061
-Franklin,U.S. Senator,,Jack H Baldwin,Democratic,2
-Franklin,U.S. Senator,,Mark Pool,Independent,5
+Franklin,U.S. Senate,,Steve Osborn,Libertarian,989
+Franklin,U.S. Senate,,Richard G Lugar,Republican,5061
+Franklin,U.S. Senate,,Jack H Baldwin,Democratic,2
+Franklin,U.S. Senate,,Mark Pool,Independent,5
 Franklin,Secretary Of State,,Joe Pearson,Democratic,2925
 Franklin,Secretary Of State,,Mike Kole,Libertarian,313
 Franklin,Secretary Of State,,Todd Rokita,Republican,3312
@@ -560,8 +560,8 @@ Franklin,Treasurer Of State,,Michael W Griffin,Democratic,2950
 Franklin,Treasurer Of State,,Richard E Mourdock,Republican,3553
 Franklin,U.S. House,6,Barry A Welsh,Democratic,2744
 Franklin,U.S. House,6,Mike Pence,Republican,4115
-Franklin,State Senator,27,Clayton Phillips,Democratic,0
-Franklin,State Senator,27,Allen E Paul,Republican,0
+Franklin,State Senate,27,Clayton Phillips,Democratic,0
+Franklin,State Senate,27,Allen E Paul,Republican,0
 Franklin,State House,55,Dale Lanning,Democratic,1145
 Franklin,State House,55,Thomas D Tom Knollman,Republican,1483
 Franklin,State House,68,Robert J Bischoff,Democratic,2226
@@ -569,10 +569,10 @@ Franklin,State House,68,Bill Ullrich,Republican,1053
 Franklin,Judge Of The Circuit Court,Franklin 37Th Circuit,J Steven Cox,Republican,4994
 Franklin,Prosecuting Attorney,Franklin 37Th Circuit,Melvin F Wilhelm,Democratic,4330
 Franklin,Prosecuting Attorney,Franklin 37Th Circuit,"Hubert Branstetter, Jr.",Republican,2724
-Fulton,U.S. Senator,,Steve Osborn,Libertarian,697
-Fulton,U.S. Senator,,Richard G Lugar,Republican,5493
-Fulton,U.S. Senator,,Jack H Baldwin,Democratic,0
-Fulton,U.S. Senator,,Mark Pool,Independent,1
+Fulton,U.S. Senate,,Steve Osborn,Libertarian,697
+Fulton,U.S. Senate,,Richard G Lugar,Republican,5493
+Fulton,U.S. Senate,,Jack H Baldwin,Democratic,0
+Fulton,U.S. Senate,,Mark Pool,Independent,1
 Fulton,Secretary Of State,,Joe Pearson,Democratic,3018
 Fulton,Secretary Of State,,Mike Kole,Libertarian,201
 Fulton,Secretary Of State,,Todd Rokita,Republican,3632
@@ -590,10 +590,10 @@ Fulton,State House,23,John Christopher Rahe,Democratic,189
 Fulton,State House,23,William C Friend,Republican,363
 Fulton,Judge Of The Superior Court,Fulton County,Wayne E Steele,Republican,5191
 Fulton,Prosecuting Attorney,Fulton 41St Circuit,Richard A Brown,Republican,4971
-Gibson,U.S. Senator,,Steve Osborn,Libertarian,969
-Gibson,U.S. Senator,,Richard G Lugar,Republican,8395
-Gibson,U.S. Senator,,Jack H Baldwin,Democratic,0
-Gibson,U.S. Senator,,Mark Pool,Independent,2
+Gibson,U.S. Senate,,Steve Osborn,Libertarian,969
+Gibson,U.S. Senate,,Richard G Lugar,Republican,8395
+Gibson,U.S. Senate,,Jack H Baldwin,Democratic,0
+Gibson,U.S. Senate,,Mark Pool,Independent,2
 Gibson,Secretary Of State,,Joe Pearson,Democratic,5907
 Gibson,Secretary Of State,,Mike Kole,Libertarian,331
 Gibson,Secretary Of State,,Todd Rokita,Republican,5220
@@ -604,19 +604,19 @@ Gibson,Treasurer Of State,,Michael W Griffin,Democratic,5727
 Gibson,Treasurer Of State,,Richard E Mourdock,Republican,5794
 Gibson,U.S. House,8,Brad Ellsworth,Democratic,7227
 Gibson,U.S. House,8,John N Hostettler,Republican,4737
-Gibson,State Senator,48,Lindel O Hume,Democratic,8166
-Gibson,State Senator,49,Robert J Deig,Democratic,751
-Gibson,State Senator,49,George R Postletheweight,Republican,602
+Gibson,State Senate,48,Lindel O Hume,Democratic,8166
+Gibson,State Senate,49,Robert J Deig,Democratic,751
+Gibson,State Senate,49,George R Postletheweight,Republican,602
 Gibson,State House,64,Kreg S Battles,Democratic,5125
 Gibson,State House,64,Ja Thomas,Libertarian,200
 Gibson,State House,64,Troy Woodruff,Republican,4903
 Gibson,Judge Of The Circuit Court,Gibson 66Th Circuit,John Robert Kinkle,Democratic,5157
 Gibson,Judge Of The Circuit Court,Gibson 66Th Circuit,Jeff Meade,Republican,6757
 Gibson,Prosecuting Attorney,Gibson 66Th Circuit,Robert Krieg,Republican,8440
-Grant,U.S. Senator,,Steve Osborn,Libertarian,1638
-Grant,U.S. Senator,,Richard G Lugar,Republican,13758
-Grant,U.S. Senator,,Jack H Baldwin,Democratic,0
-Grant,U.S. Senator,,Mark Pool,Independent,0
+Grant,U.S. Senate,,Steve Osborn,Libertarian,1638
+Grant,U.S. Senate,,Richard G Lugar,Republican,13758
+Grant,U.S. Senate,,Jack H Baldwin,Democratic,0
+Grant,U.S. Senate,,Mark Pool,Independent,0
 Grant,Secretary Of State,,Joe Pearson,Democratic,8006
 Grant,Secretary Of State,,Mike Kole,Libertarian,460
 Grant,Secretary Of State,,Todd Rokita,Republican,9787
@@ -629,10 +629,10 @@ Grant,U.S. House,5,Katherine Fox Carr,Democratic,6410
 Grant,U.S. House,5,Sheri Conover Sharlow,Libertarian,480
 Grant,U.S. House,5,Dan Burton,Republican,11643
 Grant,U.S. House,5,John Miller,Independent,0
-Grant,State Senator,17,Gary Dillon,Republican,3225
-Grant,State Senator,19,David C Ford,Republican,6365
-Grant,State Senator,21,Janelda Ellis,Democratic,0
-Grant,State Senator,21,Jeff Drozda,Republican,0
+Grant,State Senate,17,Gary Dillon,Republican,3225
+Grant,State Senate,19,David C Ford,Republican,6365
+Grant,State Senate,21,Janelda Ellis,Democratic,0
+Grant,State Senate,21,Jeff Drozda,Republican,0
 Grant,State House,18,David A Wolkins,Republican,0
 Grant,State House,30,Ron Herrell,Democratic,0
 Grant,State House,30,John E Smith,Republican,0
@@ -643,10 +643,10 @@ Grant,Judge Of The Circuit Court,Grant 48Th Circuit,Mark E Spitzer,Republican,12
 Grant,Judge Of The Superior Court,"Grant County, No. 2",Randall Lee Johnson,Republican,12960
 Grant,Prosecuting Attorney,Grant 48Th Circuit,David M Payne,Democratic,8037
 Grant,Prosecuting Attorney,Grant 48Th Circuit,"James D Luttrull, Jr.",Republican,10790
-Greene,U.S. Senator,,Steve Osborn,Libertarian,1031
-Greene,U.S. Senator,,Richard G Lugar,Republican,7757
-Greene,U.S. Senator,,Jack H Baldwin,Democratic,28
-Greene,U.S. Senator,,Mark Pool,Independent,0
+Greene,U.S. Senate,,Steve Osborn,Libertarian,1031
+Greene,U.S. Senate,,Richard G Lugar,Republican,7757
+Greene,U.S. Senate,,Jack H Baldwin,Democratic,28
+Greene,U.S. Senate,,Mark Pool,Independent,0
 Greene,Secretary Of State,,Joe Pearson,Democratic,4886
 Greene,Secretary Of State,,Mike Kole,Libertarian,315
 Greene,Secretary Of State,,Todd Rokita,Republican,4991
@@ -657,8 +657,8 @@ Greene,Treasurer Of State,,Michael W Griffin,Democratic,4681
 Greene,Treasurer Of State,,Richard E Mourdock,Republican,4972
 Greene,U.S. House,8,Brad Ellsworth,Democratic,5651
 Greene,U.S. House,8,John N Hostettler,Republican,4610
-Greene,State Senator,39,Steven M Thais,Democratic,3054
-Greene,State Senator,39,John M Waterman,Republican,4168
+Greene,State Senate,39,Steven M Thais,Democratic,3054
+Greene,State Senate,39,John M Waterman,Republican,4168
 Greene,State House,45,Michael Dudley Bledsoe,Democratic,1300
 Greene,State House,45,Bruce Alan Borders,Republican,2997
 Greene,State House,62,Jerry L Denbo,Democratic,3724
@@ -666,10 +666,10 @@ Greene,State House,62,Donald O Patton,Republican,1850
 Greene,Judge Of The Circuit Court,Greene 63Rd Circuit,Joseph A Sullivan,Democratic,4487
 Greene,Judge Of The Circuit Court,Greene 63Rd Circuit,Eric Chipman Allen,Republican,6109
 Greene,Prosecuting Attorney,Greene 63Rd Circuit,Jarrod Dwight Holtsclaw,Republican,7501
-Hamilton,U.S. Senator,,Steve Osborn,Libertarian,4226
-Hamilton,U.S. Senator,,Richard G Lugar,Republican,49077
-Hamilton,U.S. Senator,,Jack H Baldwin,Democratic,17
-Hamilton,U.S. Senator,,Mark Pool,Independent,30
+Hamilton,U.S. Senate,,Steve Osborn,Libertarian,4226
+Hamilton,U.S. Senate,,Richard G Lugar,Republican,49077
+Hamilton,U.S. Senate,,Jack H Baldwin,Democratic,17
+Hamilton,U.S. Senate,,Mark Pool,Independent,30
 Hamilton,Secretary Of State,,Joe Pearson,Democratic,15114
 Hamilton,Secretary Of State,,Mike Kole,Libertarian,1775
 Hamilton,Secretary Of State,,Todd Rokita,Republican,41911
@@ -682,11 +682,11 @@ Hamilton,U.S. House,5,Katherine Fox Carr,Democratic,15847
 Hamilton,U.S. House,5,Sheri Conover Sharlow,Libertarian,2393
 Hamilton,U.S. House,5,Dan Burton,Republican,40347
 Hamilton,U.S. House,5,John Miller,Independent,8
-Hamilton,State Senator,21,Janelda Ellis,Democratic,1695
-Hamilton,State Senator,21,Jeff Drozda,Republican,5319
-Hamilton,State Senator,29,Michael A Delph,Republican,6848
-Hamilton,State Senator,31,Russell Leroy Brown,Democratic,0
-Hamilton,State Senator,31,"James W Merritt, Jr.",Republican,0
+Hamilton,State Senate,21,Janelda Ellis,Democratic,1695
+Hamilton,State Senate,21,Jeff Drozda,Republican,5319
+Hamilton,State Senate,29,Michael A Delph,Republican,6848
+Hamilton,State Senate,31,Russell Leroy Brown,Democratic,0
+Hamilton,State Senate,31,"James W Merritt, Jr.",Republican,0
 Hamilton,State House,24,Richard W Rich Mcclain,Republican,0
 Hamilton,State House,29,Gregory J Marchant,Democratic,5557
 Hamilton,State House,29,Kathy Kreag Richardson,Republican,13959
@@ -700,10 +700,10 @@ Hamilton,Judge Of The Superior Court,"Hamilton County, No. 1",Steven R Nation,Re
 Hamilton,Judge Of The Superior Court,"Hamilton County, No. 6","Neal Frederick Eggeson, Jr.",Democratic,15880
 Hamilton,Judge Of The Superior Court,"Hamilton County, No. 6",Gail Bardach,Republican,41445
 Hamilton,Prosecuting Attorney,Hamilton 24Th Circuit,Sonia J Leerkamp,Republican,46157
-Hancock,U.S. Senator,,Steve Osborn,Libertarian,1605
-Hancock,U.S. Senator,,Richard G Lugar,Republican,13810
-Hancock,U.S. Senator,,Jack H Baldwin,Democratic,0
-Hancock,U.S. Senator,,Mark Pool,Independent,0
+Hancock,U.S. Senate,,Steve Osborn,Libertarian,1605
+Hancock,U.S. Senate,,Richard G Lugar,Republican,13810
+Hancock,U.S. Senate,,Jack H Baldwin,Democratic,0
+Hancock,U.S. Senate,,Mark Pool,Independent,0
 Hancock,Secretary Of State,,Joe Pearson,Democratic,5151
 Hancock,Secretary Of State,,Mike Kole,Libertarian,731
 Hancock,Secretary Of State,,Todd Rokita,Republican,11657
@@ -722,10 +722,10 @@ Hancock,State House,88,Brian C Bosma,Republican,0
 Hancock,Judge Of The Circuit Court,Hancock 18Th Circuit,Richard D Culver,Republican,14196
 Hancock,Prosecuting Attorney,Hancock 18Th Circuit,C Dean Dobbins,Republican,11646
 Hancock,Prosecuting Attorney,Hancock 18Th Circuit,Larry C Gossett,Independent,4115
-Harrison,U.S. Senator,,Steve Osborn,Libertarian,1625
-Harrison,U.S. Senator,,Richard G Lugar,Republican,9484
-Harrison,U.S. Senator,,Jack H Baldwin,Democratic,0
-Harrison,U.S. Senator,,Mark Pool,Independent,0
+Harrison,U.S. Senate,,Steve Osborn,Libertarian,1625
+Harrison,U.S. Senate,,Richard G Lugar,Republican,9484
+Harrison,U.S. Senate,,Jack H Baldwin,Democratic,0
+Harrison,U.S. Senate,,Mark Pool,Independent,0
 Harrison,Secretary Of State,,Joe Pearson,Democratic,6695
 Harrison,Secretary Of State,,Mike Kole,Libertarian,429
 Harrison,Secretary Of State,,Todd Rokita,Republican,5795
@@ -738,16 +738,16 @@ Harrison,U.S. House,9,Baron Hill,Democratic,6404
 Harrison,U.S. House,9,D Eric Schansberg,Libertarian,564
 Harrison,U.S. House,9,Michael E Sodrel,Republican,6577
 Harrison,U.S. House,9,Donald W Mantooth,Republican,0
-Harrison,State Senator,47,"Richard D Young, Jr.",Democratic,7851
-Harrison,State Senator,47,Brian C Thomas,Republican,5463
+Harrison,State Senate,47,"Richard D Young, Jr.",Democratic,7851
+Harrison,State Senate,47,Brian C Thomas,Republican,5463
 Harrison,State House,70,Paul J Robertson,Democratic,7604
 Harrison,State House,70,Christopher L Byrd,Republican,5597
 Harrison,State House,73,Dennie Oxley,Democratic,207
 Harrison,Prosecuting Attorney,Harrison 3Rd Circuit,Dennis L Byrd,Democratic,9829
-Hendricks,U.S. Senator,,Steve Osborn,Libertarian,2841
-Hendricks,U.S. Senator,,Richard G Lugar,Republican,25216
-Hendricks,U.S. Senator,,Jack H Baldwin,Democratic,0
-Hendricks,U.S. Senator,,Mark Pool,Independent,15
+Hendricks,U.S. Senate,,Steve Osborn,Libertarian,2841
+Hendricks,U.S. Senate,,Richard G Lugar,Republican,25216
+Hendricks,U.S. Senate,,Jack H Baldwin,Democratic,0
+Hendricks,U.S. Senate,,Mark Pool,Independent,15
 Hendricks,Secretary Of State,,Joe Pearson,Democratic,9021
 Hendricks,Secretary Of State,,Mike Kole,Libertarian,1056
 Hendricks,Secretary Of State,,Todd Rokita,Republican,21301
@@ -768,10 +768,10 @@ Hendricks,Judge Of The Superior Court,"Hendricks County, No. 4",Mark A Smith,Rep
 Hendricks,Judge Of The Superior Court,"Hendricks County, No. 5",Nicholas G Schmutte,Democratic,9570
 Hendricks,Judge Of The Superior Court,"Hendricks County, No. 5",Stephenie Lemay-Luken,Republican,21097
 Hendricks,Prosecuting Attorney,Hendricks 55Th Circuit,Patricia Ann Baldwin,Republican,23848
-Henry,U.S. Senator,,Steve Osborn,Libertarian,1776
-Henry,U.S. Senator,,Richard G Lugar,Republican,10375
-Henry,U.S. Senator,,Jack H Baldwin,Democratic,0
-Henry,U.S. Senator,,Mark Pool,Independent,0
+Henry,U.S. Senate,,Steve Osborn,Libertarian,1776
+Henry,U.S. Senate,,Richard G Lugar,Republican,10375
+Henry,U.S. Senate,,Jack H Baldwin,Democratic,0
+Henry,U.S. Senate,,Mark Pool,Independent,0
 Henry,Secretary Of State,,Joe Pearson,Democratic,6315
 Henry,Secretary Of State,,Mike Kole,Libertarian,728
 Henry,Secretary Of State,,Todd Rokita,Republican,7568
@@ -782,17 +782,17 @@ Henry,Treasurer Of State,,Michael W Griffin,Democratic,6934
 Henry,Treasurer Of State,,Richard E Mourdock,Republican,7486
 Henry,U.S. House,6,Barry A Welsh,Democratic,6214
 Henry,U.S. House,6,Mike Pence,Republican,8681
-Henry,State Senator,26,Sue Errington,Democratic,0
-Henry,State Senator,26,Andrew Stillman Phipps,Republican,0
-Henry,State Senator,26,Pat L Smith,Independent,0
+Henry,State Senate,26,Sue Errington,Democratic,0
+Henry,State Senate,26,Andrew Stillman Phipps,Republican,0
+Henry,State Senate,26,Pat L Smith,Independent,0
 Henry,State House,54,David G Sadler,Democratic,4470
 Henry,State House,54,Rex Bell,Libertarian,969
 Henry,State House,54,Thomas E Saunders,Republican,4799
 Henry,Prosecuting Attorney,Henry 53Rd Circuit,Kit C Dean Crane,Republican,10057
-Howard,U.S. Senator,,Steve Osborn,Libertarian,2804
-Howard,U.S. Senator,,Richard G Lugar,Republican,17660
-Howard,U.S. Senator,,Jack H Baldwin,Democratic,0
-Howard,U.S. Senator,,Mark Pool,Independent,25
+Howard,U.S. Senate,,Steve Osborn,Libertarian,2804
+Howard,U.S. Senate,,Richard G Lugar,Republican,17660
+Howard,U.S. Senate,,Jack H Baldwin,Democratic,0
+Howard,U.S. Senate,,Mark Pool,Independent,25
 Howard,Secretary Of State,,Joe Pearson,Democratic,12191
 Howard,Secretary Of State,,Mike Kole,Libertarian,807
 Howard,Secretary Of State,,Todd Rokita,Republican,13667
@@ -807,8 +807,8 @@ Howard,U.S. House,5,Katherine Fox Carr,Democratic,6299
 Howard,U.S. House,5,Sheri Conover Sharlow,Libertarian,458
 Howard,U.S. House,5,Dan Burton,Republican,10936
 Howard,U.S. House,5,John Miller,Independent,2
-Howard,State Senator,21,Janelda Ellis,Democratic,10167
-Howard,State Senator,21,Jeff Drozda,Republican,10676
+Howard,State Senate,21,Janelda Ellis,Democratic,10167
+Howard,State Senate,21,Jeff Drozda,Republican,10676
 Howard,State House,30,Ron Herrell,Democratic,9722
 Howard,State House,30,John E Smith,Republican,7505
 Howard,State House,32,P Eric Turner,Republican,1842
@@ -816,10 +816,10 @@ Howard,State House,38,James R Buck,Republican,5543
 Howard,Judge Of The Superior Court,"Howard County, No. 2",Stephen M Jessup,Republican,18274
 Howard,Judge Of The Superior Court,"Howard County, No. 4",George A Hopkins,Republican,18204
 Howard,Prosecuting Attorney,Howard 62Nd Circuit,James R Fleming,Republican,18342
-Huntington,U.S. Senator,,Steve Osborn,Libertarian,1104
-Huntington,U.S. Senator,,Richard G Lugar,Republican,7392
-Huntington,U.S. Senator,,Jack H Baldwin,Democratic,0
-Huntington,U.S. Senator,,Mark Pool,Independent,0
+Huntington,U.S. Senate,,Steve Osborn,Libertarian,1104
+Huntington,U.S. Senate,,Richard G Lugar,Republican,7392
+Huntington,U.S. Senate,,Jack H Baldwin,Democratic,0
+Huntington,U.S. Senate,,Mark Pool,Independent,0
 Huntington,Secretary Of State,,Joe Pearson,Democratic,3133
 Huntington,Secretary Of State,,Mike Kole,Libertarian,320
 Huntington,Secretary Of State,,Todd Rokita,Republican,6049
@@ -830,16 +830,16 @@ Huntington,Treasurer Of State,,Michael W Griffin,Democratic,3024
 Huntington,Treasurer Of State,,Richard E Mourdock,Republican,6056
 Huntington,U.S. House,3,Thomas E Hayhurst,Democratic,0
 Huntington,U.S. House,3,Mark E Souder,Republican,0
-Huntington,State Senator,17,Gary Dillon,Republican,7376
-Huntington,State Senator,19,David C Ford,Republican,0
+Huntington,State Senate,17,Gary Dillon,Republican,7376
+Huntington,State Senate,19,David C Ford,Republican,0
 Huntington,State House,50,Felix F Aguilar,Libertarian,1312
 Huntington,State House,50,Daniel Joseph Leonard,Republican,7074
 Huntington,Judge Of The Circuit Court,Huntington 56Th Circuit,Thomas M Hakes,Republican,7631
 Huntington,Prosecuting Attorney,Huntington 56Th Circuit,Amy C Richison,Republican,7516
-Jackson,U.S. Senator,,Steve Osborn,Libertarian,1203
-Jackson,U.S. Senator,,Richard G Lugar,Republican,9887
-Jackson,U.S. Senator,,Jack H Baldwin,Democratic,1
-Jackson,U.S. Senator,,Mark Pool,Independent,4
+Jackson,U.S. Senate,,Steve Osborn,Libertarian,1203
+Jackson,U.S. Senate,,Richard G Lugar,Republican,9887
+Jackson,U.S. Senate,,Jack H Baldwin,Democratic,1
+Jackson,U.S. Senate,,Mark Pool,Independent,4
 Jackson,Secretary Of State,,Joe Pearson,Democratic,6885
 Jackson,Secretary Of State,,Mike Kole,Libertarian,507
 Jackson,Secretary Of State,,Todd Rokita,Republican,5951
@@ -852,10 +852,10 @@ Jackson,U.S. House,9,Baron Hill,Democratic,6952
 Jackson,U.S. House,9,D Eric Schansberg,Libertarian,993
 Jackson,U.S. House,9,Michael E Sodrel,Republican,5825
 Jackson,U.S. House,9,Donald W Mantooth,Republican,0
-Jackson,State Senator,43,Lane A Siekman,Democratic,0
-Jackson,State Senator,43,Johnny Nugent,Republican,0
-Jackson,State Senator,45,James Lewis,Democratic,626
-Jackson,State Senator,45,Floyd E Coates,Republican,404
+Jackson,State Senate,43,Lane A Siekman,Democratic,0
+Jackson,State Senate,43,Johnny Nugent,Republican,0
+Jackson,State Senate,45,James Lewis,Democratic,626
+Jackson,State Senate,45,Floyd E Coates,Republican,404
 Jackson,State House,65,Eric A Koch,Republican,2322
 Jackson,State House,69,David Cheatham,Democratic,0
 Jackson,State House,69,Billy Bright,Republican,0
@@ -863,10 +863,10 @@ Jackson,State House,73,Dennie Oxley,Democratic,1215
 Jackson,Judge Of The Circuit Court,Jackson 40Th Circuit,William Bill E Vance,Democratic,10304
 Jackson,Prosecuting Attorney,Jackson 40Th Circuit,Alan L Marshall,Democratic,4876
 Jackson,Prosecuting Attorney,Jackson 40Th Circuit,Richard W Poynter,Republican,8844
-Jasper,U.S. Senator,,Steve Osborn,Libertarian,876
-Jasper,U.S. Senator,,Richard G Lugar,Republican,5122
-Jasper,U.S. Senator,,Jack H Baldwin,Democratic,0
-Jasper,U.S. Senator,,Mark Pool,Independent,7
+Jasper,U.S. Senate,,Steve Osborn,Libertarian,876
+Jasper,U.S. Senate,,Richard G Lugar,Republican,5122
+Jasper,U.S. Senate,,Jack H Baldwin,Democratic,0
+Jasper,U.S. Senate,,Mark Pool,Independent,7
 Jasper,Secretary Of State,,Joe Pearson,Democratic,2856
 Jasper,Secretary Of State,,Mike Kole,Libertarian,209
 Jasper,Secretary Of State,,Todd Rokita,Republican,4050
@@ -881,10 +881,10 @@ Jasper,State House,13,Chester F Dobis,Democratic,0
 Jasper,State House,16,Eric A Gutwein,Republican,4030
 Jasper,Judge Of The Circuit Court,Jasper 30Th Circuit,John David Potter,Republican,5099
 Jasper,Prosecuting Attorney,Jasper 30Th Circuit,Kathryn B O'Neall,Republican,5144
-Jay,U.S. Senator,,Steve Osborn,Libertarian,795
-Jay,U.S. Senator,,Richard G Lugar,Republican,4850
-Jay,U.S. Senator,,Jack H Baldwin,Democratic,0
-Jay,U.S. Senator,,Mark Pool,Independent,0
+Jay,U.S. Senate,,Steve Osborn,Libertarian,795
+Jay,U.S. Senate,,Richard G Lugar,Republican,4850
+Jay,U.S. Senate,,Jack H Baldwin,Democratic,0
+Jay,U.S. Senate,,Mark Pool,Independent,0
 Jay,Secretary Of State,,Joe Pearson,Democratic,2819
 Jay,Secretary Of State,,Mike Kole,Libertarian,270
 Jay,Secretary Of State,,Todd Rokita,Republican,3260
@@ -895,15 +895,15 @@ Jay,Treasurer Of State,,Michael W Griffin,Democratic,2742
 Jay,Treasurer Of State,,Richard E Mourdock,Republican,3271
 Jay,U.S. House,3,Thomas E Hayhurst,Democratic,0
 Jay,U.S. House,3,Mark E Souder,Republican,0
-Jay,State Senator,19,David C Ford,Republican,0
+Jay,State Senate,19,David C Ford,Republican,0
 Jay,State House,33,Ronald David Liggett,Democratic,2930
 Jay,State House,33,Bill J Davis,Republican,3594
 Jay,Judge Of The Circuit Court,Jay 58Th Circuit,Brian D Hutchison,Republican,5052
 Jay,Prosecuting Attorney,Jay 58Th Circuit,Robert A Clamme,Democratic,5008
-Jefferson,U.S. Senator,,Steve Osborn,Libertarian,1150
-Jefferson,U.S. Senator,,Richard G Lugar,Republican,6838
-Jefferson,U.S. Senator,,Jack H Baldwin,Democratic,0
-Jefferson,U.S. Senator,,Mark Pool,Independent,0
+Jefferson,U.S. Senate,,Steve Osborn,Libertarian,1150
+Jefferson,U.S. Senate,,Richard G Lugar,Republican,6838
+Jefferson,U.S. Senate,,Jack H Baldwin,Democratic,0
+Jefferson,U.S. Senate,,Mark Pool,Independent,0
 Jefferson,Secretary Of State,,Joe Pearson,Democratic,5160
 Jefferson,Secretary Of State,,Mike Kole,Libertarian,325
 Jefferson,Secretary Of State,,Todd Rokita,Republican,4286
@@ -914,8 +914,8 @@ Jefferson,Treasurer Of State,,Michael W Griffin,Democratic,5194
 Jefferson,Treasurer Of State,,Richard E Mourdock,Republican,4297
 Jefferson,U.S. House,6,Barry A Welsh,Democratic,0
 Jefferson,U.S. House,6,Mike Pence,Republican,0
-Jefferson,State Senator,45,James Lewis,Democratic,6047
-Jefferson,State Senator,45,Floyd E Coates,Republican,4073
+Jefferson,State Senate,45,James Lewis,Democratic,6047
+Jefferson,State Senate,45,Floyd E Coates,Republican,4073
 Jefferson,State House,66,Terry Goodin,Democratic,0
 Jefferson,State House,67,Cleo Duncan,Republican,0
 Jefferson,State House,67,Martin W Voegele,Independent,0
@@ -924,10 +924,10 @@ Jefferson,State House,69,Billy Bright,Republican,4627
 Jefferson,Judge Of The Circuit Court,Jefferson 5Th Circuit,Ted R Todd,Democratic,4993
 Jefferson,Judge Of The Circuit Court,Jefferson 5Th Circuit,Stephen Tesmer,Republican,5073
 Jefferson,Prosecuting Attorney,Jefferson 5Th Cir.,Chad Lewis,Democratic,7399
-Jennings,U.S. Senator,,Steve Osborn,Libertarian,948
-Jennings,U.S. Senator,,Richard G Lugar,Republican,6751
-Jennings,U.S. Senator,,Jack H Baldwin,Democratic,0
-Jennings,U.S. Senator,,Mark Pool,Independent,0
+Jennings,U.S. Senate,,Steve Osborn,Libertarian,948
+Jennings,U.S. Senate,,Richard G Lugar,Republican,6751
+Jennings,U.S. Senate,,Jack H Baldwin,Democratic,0
+Jennings,U.S. Senate,,Mark Pool,Independent,0
 Jennings,Secretary Of State,,Joe Pearson,Democratic,4753
 Jennings,Secretary Of State,,Mike Kole,Libertarian,361
 Jennings,Secretary Of State,,Todd Rokita,Republican,4093
@@ -938,18 +938,18 @@ Jennings,Treasurer Of State,,Michael W Griffin,Democratic,4676
 Jennings,Treasurer Of State,,Richard E Mourdock,Republican,4357
 Jennings,U.S. House,6,Barry A Welsh,Democratic,0
 Jennings,U.S. House,6,Mike Pence,Republican,0
-Jennings,State Senator,43,Lane A Siekman,Democratic,2613
-Jennings,State Senator,43,Johnny Nugent,Republican,4812
+Jennings,State Senate,43,Lane A Siekman,Democratic,2613
+Jennings,State Senate,43,Johnny Nugent,Republican,4812
 Jennings,State House,67,Cleo Duncan,Republican,0
 Jennings,State House,67,Martin W Voegele,Independent,0
 Jennings,State House,69,David Cheatham,Democratic,5010
 Jennings,State House,69,Billy Bright,Republican,4257
 Jennings,Prosecuting Attorney,Jennings 86Th Circuit,Gary L Smith,Democratic,4947
 Jennings,Prosecuting Attorney,Jennings 86Th Circuit,Brian J Belding,Republican,4656
-Johnson,U.S. Senator,,Steve Osborn,Libertarian,2434
-Johnson,U.S. Senator,,Richard G Lugar,Republican,24333
-Johnson,U.S. Senator,,Jack H Baldwin,Democratic,19
-Johnson,U.S. Senator,,Mark Pool,Independent,17
+Johnson,U.S. Senate,,Steve Osborn,Libertarian,2434
+Johnson,U.S. Senate,,Richard G Lugar,Republican,24333
+Johnson,U.S. Senate,,Jack H Baldwin,Democratic,19
+Johnson,U.S. Senate,,Mark Pool,Independent,17
 Johnson,Secretary Of State,,Joe Pearson,Democratic,9044
 Johnson,Secretary Of State,,Mike Kole,Libertarian,931
 Johnson,Secretary Of State,,Todd Rokita,Republican,20559
@@ -962,9 +962,9 @@ Johnson,U.S. House,9,Baron Hill,Democratic,0
 Johnson,U.S. House,9,D Eric Schansberg,Libertarian,0
 Johnson,U.S. House,9,Michael E Sodrel,Republican,0
 Johnson,U.S. House,9,Donald W Mantooth,Republican,0
-Johnson,State Senator,41,George Terrence Coriden,Democratic,4507
-Johnson,State Senator,41,Kenn Gividen,Libertarian,548
-Johnson,State Senator,41,Greg Walker,Republican,6567
+Johnson,State Senate,41,George Terrence Coriden,Democratic,4507
+Johnson,State Senate,41,Kenn Gividen,Libertarian,548
+Johnson,State Senate,41,Greg Walker,Republican,6567
 Johnson,State House,47,Ralph M Foley,Republican,1203
 Johnson,State House,58,D Gregory Turley,Democratic,5438
 Johnson,State House,58,Woody Burton,Republican,10198
@@ -973,10 +973,10 @@ Johnson,State House,93,David N Frizzell,Republican,6875
 Johnson,Judge Of The Circuit Court,Johnson 8Th Circuit,K Mark Loyd,Republican,24249
 Johnson,Judge Of The Superior Court,"Johnson County, No.1",Kevin M Barton,Republican,24118
 Johnson,Prosecuting Attorney,Johnson 8Th Circuit,Lance D Hamner,Republican,24318
-Knox,U.S. Senator,,Steve Osborn,Libertarian,1290
-Knox,U.S. Senator,,Richard G Lugar,Republican,8764
-Knox,U.S. Senator,,Jack H Baldwin,Democratic,0
-Knox,U.S. Senator,,Mark Pool,Independent,0
+Knox,U.S. Senate,,Steve Osborn,Libertarian,1290
+Knox,U.S. Senate,,Richard G Lugar,Republican,8764
+Knox,U.S. Senate,,Jack H Baldwin,Democratic,0
+Knox,U.S. Senate,,Mark Pool,Independent,0
 Knox,Secretary Of State,,Joe Pearson,Democratic,6215
 Knox,Secretary Of State,,Mike Kole,Libertarian,342
 Knox,Secretary Of State,,Todd Rokita,Republican,4842
@@ -987,19 +987,19 @@ Knox,Treasurer Of State,,Michael W Griffin,Democratic,5902
 Knox,Treasurer Of State,,Richard E Mourdock,Republican,5295
 Knox,U.S. House,8,Brad Ellsworth,Democratic,7772
 Knox,U.S. House,8,John N Hostettler,Republican,4604
-Knox,State Senator,39,Steven M Thais,Democratic,5172
-Knox,State Senator,39,John M Waterman,Republican,3705
-Knox,State Senator,48,Lindel O Hume,Democratic,2185
+Knox,State Senate,39,Steven M Thais,Democratic,5172
+Knox,State Senate,39,John M Waterman,Republican,3705
+Knox,State Senate,48,Lindel O Hume,Democratic,2185
 Knox,State House,45,Michael Dudley Bledsoe,Democratic,2051
 Knox,State House,45,Bruce Alan Borders,Republican,2834
 Knox,State House,64,Kreg S Battles,Democratic,4606
 Knox,State House,64,Ja Thomas,Libertarian,198
 Knox,State House,64,Troy Woodruff,Republican,2931
 Knox,Prosecuting Attorney,Knox 12Th Circuit,John F Sievers,Democratic,8874
-Kosciusko,U.S. Senator,,Steve Osborn,Libertarian,1983
-Kosciusko,U.S. Senator,,Richard G Lugar,Republican,15231
-Kosciusko,U.S. Senator,,Jack H Baldwin,Democratic,16
-Kosciusko,U.S. Senator,,Mark Pool,Independent,16
+Kosciusko,U.S. Senate,,Steve Osborn,Libertarian,1983
+Kosciusko,U.S. Senate,,Richard G Lugar,Republican,15231
+Kosciusko,U.S. Senate,,Jack H Baldwin,Democratic,16
+Kosciusko,U.S. Senate,,Mark Pool,Independent,16
 Kosciusko,Secretary Of State,,Joe Pearson,Democratic,5338
 Kosciusko,Secretary Of State,,Mike Kole,Libertarian,764
 Kosciusko,Secretary Of State,,Todd Rokita,Republican,12648
@@ -1017,10 +1017,10 @@ Kosciusko,State House,22,Larry E Rensberger,Democratic,2540
 Kosciusko,State House,22,William J Bill Ruppel,Republican,4037
 Kosciusko,Judge Of The Circuit Court,Kosciusko 54Th Circuit,Rex L Reed,Republican,15694
 Kosciusko,Prosecuting Attorney,Kosciusko 54Th Circuit,R Steven Hearn,Republican,15529
-LaGrange,U.S. Senator,,Steve Osborn,Libertarian,730
-LaGrange,U.S. Senator,,Richard G Lugar,Republican,5063
-LaGrange,U.S. Senator,,Jack H Baldwin,Democratic,0
-LaGrange,U.S. Senator,,Mark Pool,Independent,0
+LaGrange,U.S. Senate,,Steve Osborn,Libertarian,730
+LaGrange,U.S. Senate,,Richard G Lugar,Republican,5063
+LaGrange,U.S. Senate,,Jack H Baldwin,Democratic,0
+LaGrange,U.S. Senate,,Mark Pool,Independent,0
 LaGrange,Secretary Of State,,Joe Pearson,Democratic,2504
 LaGrange,Secretary Of State,,Mike Kole,Libertarian,189
 LaGrange,Secretary Of State,,Todd Rokita,Republican,3780
@@ -1035,10 +1035,10 @@ LaGrange,State House,51,Joseph A Rauen,Democratic,0
 LaGrange,State House,51,Richard A Dodge,Republican,0
 LaGrange,State House,82,Jeffrey Keller Espich,Republican,0
 LaGrange,Prosecuting Attorney,Lagrange 35Th Circuit,Jeffrey W Wible,Republican,5020
-Lake,U.S. Senator,,Steve Osborn,Libertarian,10575
-Lake,U.S. Senator,,Richard G Lugar,Republican,47868
-Lake,U.S. Senator,,Jack H Baldwin,Democratic,17
-Lake,U.S. Senator,,Mark Pool,Independent,44
+Lake,U.S. Senate,,Steve Osborn,Libertarian,10575
+Lake,U.S. Senate,,Richard G Lugar,Republican,47868
+Lake,U.S. Senate,,Jack H Baldwin,Democratic,17
+Lake,U.S. Senate,,Mark Pool,Independent,44
 Lake,Secretary Of State,,Joe Pearson,Democratic,57568
 Lake,Secretary Of State,,Mike Kole,Libertarian,2349
 Lake,Secretary Of State,,Todd Rokita,Republican,34923
@@ -1050,10 +1050,10 @@ Lake,Treasurer Of State,,Richard E Mourdock,Republican,26937
 Lake,U.S. House,1,Peter J Visclosky,Democratic,71705
 Lake,U.S. House,1,Mark J Leyva,Republican,22760
 Lake,U.S. House,1,Charles E Barman,Independent,3223
-Lake,State Senator,1,"Frank Mrvan, Jr.",Democratic,15852
-Lake,State Senator,1,Chris Morrow,Republican,9791
-Lake,State Senator,6,John B Greaves,Democratic,8943
-Lake,State Senator,6,Sue Landske,Republican,15114
+Lake,State Senate,1,"Frank Mrvan, Jr.",Democratic,15852
+Lake,State Senate,1,Chris Morrow,Republican,9791
+Lake,State Senate,6,John B Greaves,Democratic,8943
+Lake,State Senate,6,Sue Landske,Republican,15114
 Lake,State House,1,Linda C Lawson,Democratic,6010
 Lake,State House,1,"Thomas Lew Andrews, Jr.",Libertarian,374
 Lake,State House,1,Wesley E Miller,Republican,4466
@@ -1072,10 +1072,10 @@ Lake,State House,19,Eric Hammond,Republican,4270
 Lake,Judge Of The Superior Court,"Lake Co. County Division,",Jesse M Villalpando,Democratic,69022
 Lake,Prosecuting Attorney,Lake 31St Circuit,Bernard A Carter,Democratic,62246
 Lake,Prosecuting Attorney,Lake 31St Circuit,Douglas M Grimes,Republican,31923
-LaPorte,U.S. Senator,,Steve Osborn,Libertarian,4773
-LaPorte,U.S. Senator,,Richard G Lugar,Republican,18967
-LaPorte,U.S. Senator,,Jack H Baldwin,Democratic,0
-LaPorte,U.S. Senator,,Mark Pool,Independent,0
+LaPorte,U.S. Senate,,Steve Osborn,Libertarian,4773
+LaPorte,U.S. Senate,,Richard G Lugar,Republican,18967
+LaPorte,U.S. Senate,,Jack H Baldwin,Democratic,0
+LaPorte,U.S. Senate,,Mark Pool,Independent,0
 LaPorte,Secretary Of State,,Joe Pearson,Democratic,16877
 LaPorte,Secretary Of State,,Mike Kole,Libertarian,1849
 LaPorte,Secretary Of State,,Todd Rokita,Republican,11223
@@ -1089,8 +1089,8 @@ LaPorte,U.S. House,1,Mark J Leyva,Republican,0
 LaPorte,U.S. House,1,Charles E Barman,Independent,0
 LaPorte,U.S. House,2,Joseph S Donnelly,Democratic,18340
 LaPorte,U.S. House,2,J Christopher Chocola,Republican,11697
-LaPorte,State Senator,4,Karen Tallian,Democratic,0
-LaPorte,State Senator,4,Dale Brewer,Republican,0
+LaPorte,State Senate,4,Karen Tallian,Democratic,0
+LaPorte,State Senate,4,Dale Brewer,Republican,0
 LaPorte,State House,8,Ryan M Dvorak,Democratic,0
 LaPorte,State House,9,Scott D Pelath,Democratic,13105
 LaPorte,State House,20,Andrea L Renner,Democratic,5773
@@ -1099,10 +1099,10 @@ LaPorte,State House,20,Tom Dermody,Republican,6633
 LaPorte,Judge Of The Circuit Court,La Porte 32Nd Circuit,Thomas J Alevizos,Democratic,17838
 LaPorte,Judge Of The Circuit Court,La Porte 32Nd Circuit,W Jonathan Forker,Republican,12640
 LaPorte,Prosecuting Attorney,Laporte 32Nd Circuit,Robert J Beckman,Democratic,23993
-Lawrence,U.S. Senator,,Steve Osborn,Libertarian,1335
-Lawrence,U.S. Senator,,Richard G Lugar,Republican,9404
-Lawrence,U.S. Senator,,Jack H Baldwin,Democratic,33
-Lawrence,U.S. Senator,,Mark Pool,Independent,3
+Lawrence,U.S. Senate,,Steve Osborn,Libertarian,1335
+Lawrence,U.S. Senate,,Richard G Lugar,Republican,9404
+Lawrence,U.S. Senate,,Jack H Baldwin,Democratic,33
+Lawrence,U.S. Senate,,Mark Pool,Independent,3
 Lawrence,Secretary Of State,,Joe Pearson,Democratic,4990
 Lawrence,Secretary Of State,,Mike Kole,Libertarian,477
 Lawrence,Secretary Of State,,Todd Rokita,Republican,6924
@@ -1120,10 +1120,10 @@ Lawrence,State House,73,Dennie Oxley,Democratic,0
 Lawrence,Judge Of The Superior Court,"Lawrence County, No. 1",Michael A Robbins,Democratic,7004
 Lawrence,Judge Of The Superior Court,"Lawrence County, No. 1",Andrea K Mccord,Republican,6170
 Lawrence,Prosecuting Attorney,Lawrence 81St Circuit,Michelle L Woodward,Republican,8826
-Madison,U.S. Senator,,Steve Osborn,Libertarian,4294
-Madison,U.S. Senator,,Richard G Lugar,Republican,25963
-Madison,U.S. Senator,,Jack H Baldwin,Democratic,0
-Madison,U.S. Senator,,Mark Pool,Independent,11
+Madison,U.S. Senate,,Steve Osborn,Libertarian,4294
+Madison,U.S. Senate,,Richard G Lugar,Republican,25963
+Madison,U.S. Senate,,Jack H Baldwin,Democratic,0
+Madison,U.S. Senate,,Mark Pool,Independent,11
 Madison,Secretary Of State,,Joe Pearson,Democratic,19553
 Madison,Secretary Of State,,Mike Kole,Libertarian,1055
 Madison,Secretary Of State,,Todd Rokita,Republican,18388
@@ -1136,11 +1136,11 @@ Madison,U.S. House,5,Katherine Fox Carr,Democratic,0
 Madison,U.S. House,5,Sheri Conover Sharlow,Libertarian,0
 Madison,U.S. House,5,Dan Burton,Republican,0
 Madison,U.S. House,5,John Miller,Independent,0
-Madison,State Senator,25,Tim Lanane,Democratic,22088
-Madison,State Senator,25,Daniel William Dykes,Republican,13939
-Madison,State Senator,26,Sue Errington,Democratic,289
-Madison,State Senator,26,Andrew Stillman Phipps,Republican,204
-Madison,State Senator,26,Pat L Smith,Independent,26
+Madison,State Senate,25,Tim Lanane,Democratic,22088
+Madison,State Senate,25,Daniel William Dykes,Republican,13939
+Madison,State Senate,26,Sue Errington,Democratic,289
+Madison,State Senate,26,Andrew Stillman Phipps,Republican,204
+Madison,State Senate,26,Pat L Smith,Independent,26
 Madison,State House,32,P Eric Turner,Republican,0
 Madison,State House,35,Lee Ann Mengelt,Democratic,2360
 Madison,State House,35,L Jack Lutz,Republican,3105
@@ -1152,10 +1152,10 @@ Madison,Judge Of The Circuit Court,"Madison50Th Circ, No. 1",Thomas D Chaille,Re
 Madison,Judge Of The Superior Court,"Madison County, No. 3","Thomas Newman, Jr.",Democratic,28413
 Madison,Prosecuting Attorney,Madison 50Th Circuit,"Thomas Broderick, Jr.",Democratic,22487
 Madison,Prosecuting Attorney,Madison 50Th Circuit,Rodney Cummings,Republican,16694
-Marion,U.S. Senator,,Steve Osborn,Libertarian,15866
-Marion,U.S. Senator,,Richard G Lugar,Republican,127898
-Marion,U.S. Senator,,Jack H Baldwin,Democratic,0
-Marion,U.S. Senator,,Mark Pool,Independent,0
+Marion,U.S. Senate,,Steve Osborn,Libertarian,15866
+Marion,U.S. Senate,,Richard G Lugar,Republican,127898
+Marion,U.S. Senate,,Jack H Baldwin,Democratic,0
+Marion,U.S. Senate,,Mark Pool,Independent,0
 Marion,Secretary Of State,,Joe Pearson,Democratic,97171
 Marion,Secretary Of State,,Mike Kole,Libertarian,6354
 Marion,Secretary Of State,,Todd Rokita,Republican,95256
@@ -1171,9 +1171,9 @@ Marion,U.S. House,5,John Miller,Independent,0
 Marion,U.S. House,7,Julia M Carson,Democratic,74750
 Marion,U.S. House,7,Eric Dickerson,Republican,64304
 Marion,U.S. House,7,John Leroy Plemons,Independent,0
-Marion,State Senator,29,Michael A Delph,Republican,14290
-Marion,State Senator,31,Russell Leroy Brown,Democratic,13190
-Marion,State Senator,31,"James W Merritt, Jr.",Republican,15465
+Marion,State Senate,29,Michael A Delph,Republican,14290
+Marion,State Senate,31,Russell Leroy Brown,Democratic,13190
+Marion,State Senate,31,"James W Merritt, Jr.",Republican,15465
 Marion,State House,86,David Orentlicher,Democratic,9658
 Marion,State House,86,Kathryn A Densborn,Republican,6244
 Marion,State House,87,Leona Glazebrooks,Democratic,3732
@@ -1239,10 +1239,10 @@ Marion,Small Claims Court Judge,"Wayne Twp., Marion Co.",Maxine Elizabeth King,D
 Marion,Small Claims Court Judge,"Wayne Twp., Marion Co.",Robert B Lutz,Republican,11187
 Marion,Mayor,Marion County,Fred Peterson,Libertarian,0
 Marion,Mayor,Marion County,John Leroy Plemmons,Write-In,0
-Marshall,U.S. Senator,,Steve Osborn,Libertarian,1253
-Marshall,U.S. Senator,,Richard G Lugar,Republican,10958
-Marshall,U.S. Senator,,Jack H Baldwin,Democratic,0
-Marshall,U.S. Senator,,Mark Pool,Independent,0
+Marshall,U.S. Senate,,Steve Osborn,Libertarian,1253
+Marshall,U.S. Senate,,Richard G Lugar,Republican,10958
+Marshall,U.S. Senate,,Jack H Baldwin,Democratic,0
+Marshall,U.S. Senate,,Mark Pool,Independent,0
 Marshall,Secretary Of State,,Joe Pearson,Democratic,5397
 Marshall,Secretary Of State,,Mike Kole,Libertarian,429
 Marshall,Secretary Of State,,Todd Rokita,Republican,7759
@@ -1257,10 +1257,10 @@ Marshall,State House,17,Nancy J Dembowski,Democratic,4642
 Marshall,State House,17,Steve Heim,Republican,5473
 Marshall,Judge Of The Superior Court,"Marshall County, No. 1",Robert O Bowen,Republican,10964
 Marshall,Prosecuting Attorney,Marshall 72Nd Circuit,Curtis Palmer,Republican,10411
-Martin,U.S. Senator,,Steve Osborn,Libertarian,435
-Martin,U.S. Senator,,Richard G Lugar,Republican,2765
-Martin,U.S. Senator,,Jack H Baldwin,Democratic,0
-Martin,U.S. Senator,,Mark Pool,Independent,0
+Martin,U.S. Senate,,Steve Osborn,Libertarian,435
+Martin,U.S. Senate,,Richard G Lugar,Republican,2765
+Martin,U.S. Senate,,Jack H Baldwin,Democratic,0
+Martin,U.S. Senate,,Mark Pool,Independent,0
 Martin,Secretary Of State,,Joe Pearson,Democratic,1667
 Martin,Secretary Of State,,Mike Kole,Libertarian,142
 Martin,Secretary Of State,,Todd Rokita,Republican,1727
@@ -1271,18 +1271,18 @@ Martin,Treasurer Of State,,Michael W Griffin,Democratic,1750
 Martin,Treasurer Of State,,Richard E Mourdock,Republican,1846
 Martin,U.S. House,8,Brad Ellsworth,Democratic,1875
 Martin,U.S. House,8,John N Hostettler,Republican,2019
-Martin,State Senator,39,Steven M Thais,Democratic,0
-Martin,State Senator,39,John M Waterman,Republican,0
+Martin,State Senate,39,Steven M Thais,Democratic,0
+Martin,State Senate,39,John M Waterman,Republican,0
 Martin,State House,62,Jerry L Denbo,Democratic,798
 Martin,State House,62,Donald O Patton,Republican,447
 Martin,State House,63,Dave Crooks,Democratic,1607
 Martin,State House,63,Ronald Joseph Arnold,Republican,987
 Martin,Prosecuting Attorney,Martin 90Th Circuit,C Michael Steiner,Democratic,2026
 Martin,Prosecuting Attorney,Martin 90Th Circuit,Lynne E Ellis,Republican,1869
-Miami,U.S. Senator,,Steve Osborn,Libertarian,1192
-Miami,U.S. Senator,,Richard G Lugar,Republican,6771
-Miami,U.S. Senator,,Jack H Baldwin,Democratic,9
-Miami,U.S. Senator,,Mark Pool,Independent,12
+Miami,U.S. Senate,,Steve Osborn,Libertarian,1192
+Miami,U.S. Senate,,Richard G Lugar,Republican,6771
+Miami,U.S. Senate,,Jack H Baldwin,Democratic,9
+Miami,U.S. Senate,,Mark Pool,Independent,12
 Miami,Secretary Of State,,Joe Pearson,Democratic,3843
 Miami,Secretary Of State,,Mike Kole,Libertarian,286
 Miami,Secretary Of State,,Todd Rokita,Republican,5166
@@ -1297,10 +1297,10 @@ Miami,State House,18,David A Wolkins,Republican,0
 Miami,State House,23,John Christopher Rahe,Democratic,2559
 Miami,State House,23,William C Friend,Republican,3448
 Miami,Prosecuting Attorney,Miami 51St Circuit,Eric D Huneryager,Republican,6574
-Monroe,U.S. Senator,,Steve Osborn,Libertarian,4451
-Monroe,U.S. Senator,,Richard G Lugar,Republican,21998
-Monroe,U.S. Senator,,Jack H Baldwin,Democratic,0
-Monroe,U.S. Senator,,Mark Pool,Independent,0
+Monroe,U.S. Senate,,Steve Osborn,Libertarian,4451
+Monroe,U.S. Senate,,Richard G Lugar,Republican,21998
+Monroe,U.S. Senate,,Jack H Baldwin,Democratic,0
+Monroe,U.S. Senate,,Mark Pool,Independent,0
 Monroe,Secretary Of State,,Joe Pearson,Democratic,18108
 Monroe,Secretary Of State,,Mike Kole,Libertarian,1102
 Monroe,Secretary Of State,,Todd Rokita,Republican,13554
@@ -1328,10 +1328,10 @@ Monroe,Judge Of The Circuit Court,"Monroe, Seat 8 10Th Cir.",Teresa D Harper,Dem
 Monroe,Judge Of The Circuit Court,"Monroe, Seat 8 10Th Cir.",Jeffrey A Chalfant,Republican,15281
 Monroe,Prosecuting Attorney,Monroe 10Th Circuit,Chris Gaal,Democratic,18845
 Monroe,Prosecuting Attorney,Monroe 10Th Circuit,Carl A Salzmann,Republican,14393
-Montgomery,U.S. Senator,,Steve Osborn,Libertarian,948
-Montgomery,U.S. Senator,,Richard G Lugar,Republican,7639
-Montgomery,U.S. Senator,,Jack H Baldwin,Democratic,2
-Montgomery,U.S. Senator,,Mark Pool,Independent,2
+Montgomery,U.S. Senate,,Steve Osborn,Libertarian,948
+Montgomery,U.S. Senate,,Richard G Lugar,Republican,7639
+Montgomery,U.S. Senate,,Jack H Baldwin,Democratic,2
+Montgomery,U.S. Senate,,Mark Pool,Independent,2
 Montgomery,Secretary Of State,,Joe Pearson,Democratic,2950
 Montgomery,Secretary Of State,,Mike Kole,Libertarian,334
 Montgomery,Secretary Of State,,Todd Rokita,Republican,5865
@@ -1342,15 +1342,15 @@ Montgomery,Treasurer Of State,,Michael W Griffin,Democratic,3155
 Montgomery,Treasurer Of State,,Richard E Mourdock,Republican,5899
 Montgomery,U.S. House,4,David Avram Sanders,Democratic,3169
 Montgomery,U.S. House,4,Steve Buyer,Republican,6104
-Montgomery,State Senator,23,Phil Boots,Republican,7370
+Montgomery,State Senate,23,Phil Boots,Republican,7370
 Montgomery,State House,13,Chester F Dobis,Democratic,0
 Montgomery,State House,41,James Stytle,Democratic,2352
 Montgomery,State House,41,Tim Brown,Republican,4968
 Montgomery,Prosecuting Attorney,Montgomery 22Nd Circuit,Joseph R Buser,Republican,7449
-Morgan,U.S. Senator,,Steve Osborn,Libertarian,1720
-Morgan,U.S. Senator,,Richard G Lugar,Republican,12254
-Morgan,U.S. Senator,,Jack H Baldwin,Democratic,0
-Morgan,U.S. Senator,,Mark Pool,Independent,0
+Morgan,U.S. Senate,,Steve Osborn,Libertarian,1720
+Morgan,U.S. Senate,,Richard G Lugar,Republican,12254
+Morgan,U.S. Senate,,Jack H Baldwin,Democratic,0
+Morgan,U.S. Senate,,Mark Pool,Independent,0
 Morgan,Secretary Of State,,Joe Pearson,Democratic,5059
 Morgan,Secretary Of State,,Mike Kole,Libertarian,650
 Morgan,Secretary Of State,,Todd Rokita,Republican,10019
@@ -1371,10 +1371,10 @@ Morgan,State House,47,Ralph M Foley,Republican,9762
 Morgan,State House,60,Peggy Welch,Democratic,0
 Morgan,Judge Of The Circuit Court,Morgan 15Th Circuit,Matthew George Hanson,Republican,11780
 Morgan,Prosecuting Attorney,Morgan 15Th Circuit,Steven P Sonnega,Republican,12170
-Newton,U.S. Senator,,Steve Osborn,Libertarian,647
-Newton,U.S. Senator,,Richard G Lugar,Republican,2915
-Newton,U.S. Senator,,Jack H Baldwin,Democratic,0
-Newton,U.S. Senator,,Mark Pool,Independent,0
+Newton,U.S. Senate,,Steve Osborn,Libertarian,647
+Newton,U.S. Senate,,Richard G Lugar,Republican,2915
+Newton,U.S. Senate,,Jack H Baldwin,Democratic,0
+Newton,U.S. Senate,,Mark Pool,Independent,0
 Newton,Secretary Of State,,Joe Pearson,Democratic,1873
 Newton,Secretary Of State,,Mike Kole,Libertarian,177
 Newton,Secretary Of State,,Todd Rokita,Republican,2053
@@ -1385,17 +1385,17 @@ Newton,Treasurer Of State,,Michael W Griffin,Democratic,1931
 Newton,Treasurer Of State,,Richard E Mourdock,Republican,2102
 Newton,U.S. House,4,David Avram Sanders,Democratic,0
 Newton,U.S. House,4,Steve Buyer,Republican,0
-Newton,State Senator,6,John B Greaves,Democratic,1488
-Newton,State Senator,6,Sue Landske,Republican,2737
+Newton,State Senate,6,John B Greaves,Democratic,1488
+Newton,State Senate,6,Sue Landske,Republican,2737
 Newton,State House,13,Chester F Dobis,Democratic,0
 Newton,State House,16,Eric A Gutwein,Republican,0
 Newton,Judge Of The Circuit Court,Newton 79Th Circuit,Jeryl F Leach,Republican,2928
 Newton,Judge Of The Superior Court,Newton County,Daniel Joseph Molter,Republican,2960
 Newton,Prosecuting Attorney,Newton 79Th Circuit,J Edward Barce,Republican,2920
-Noble,U.S. Senator,,Steve Osborn,Libertarian,1209
-Noble,U.S. Senator,,Richard G Lugar,Republican,8800
-Noble,U.S. Senator,,Jack H Baldwin,Democratic,0
-Noble,U.S. Senator,,Mark Pool,Independent,0
+Noble,U.S. Senate,,Steve Osborn,Libertarian,1209
+Noble,U.S. Senate,,Richard G Lugar,Republican,8800
+Noble,U.S. Senate,,Jack H Baldwin,Democratic,0
+Noble,U.S. Senate,,Mark Pool,Independent,0
 Noble,Secretary Of State,,Joe Pearson,Democratic,4605
 Noble,Secretary Of State,,Mike Kole,Libertarian,381
 Noble,Secretary Of State,,Todd Rokita,Republican,6472
@@ -1411,10 +1411,10 @@ Noble,Judge Of The Superior Court,"Noble County, No. 1",Jon C Owen,Democratic,53
 Noble,Judge Of The Superior Court,"Noble County, No. 1",Robert E Kirsch,Republican,6301
 Noble,Prosecuting Attorney,Noble 33Rd Circuit,Michael M Yoder,Democratic,4978
 Noble,Prosecuting Attorney,Noble 33Rd Circuit,Steven T Clouse,Republican,6730
-Ohio,U.S. Senator,,Steve Osborn,Libertarian,378
-Ohio,U.S. Senator,,Richard G Lugar,Republican,1523
-Ohio,U.S. Senator,,Jack H Baldwin,Democratic,0
-Ohio,U.S. Senator,,Mark Pool,Independent,0
+Ohio,U.S. Senate,,Steve Osborn,Libertarian,378
+Ohio,U.S. Senate,,Richard G Lugar,Republican,1523
+Ohio,U.S. Senate,,Jack H Baldwin,Democratic,0
+Ohio,U.S. Senate,,Mark Pool,Independent,0
 Ohio,Secretary Of State,,Joe Pearson,Democratic,1104
 Ohio,Secretary Of State,,Mike Kole,Libertarian,107
 Ohio,Secretary Of State,,Todd Rokita,Republican,1024
@@ -1425,15 +1425,15 @@ Ohio,Treasurer Of State,,Michael W Griffin,Democratic,1131
 Ohio,Treasurer Of State,,Richard E Mourdock,Republican,1114
 Ohio,U.S. House,6,Barry A Welsh,Democratic,0
 Ohio,U.S. House,6,Mike Pence,Republican,0
-Ohio,State Senator,43,Lane A Siekman,Democratic,984
-Ohio,State Senator,43,Johnny Nugent,Republican,1411
+Ohio,State Senate,43,Lane A Siekman,Democratic,984
+Ohio,State Senate,43,Johnny Nugent,Republican,1411
 Ohio,State House,67,Cleo Duncan,Republican,0
 Ohio,State House,67,Martin W Voegele,Independent,0
 Ohio,Prosecuting Attorney,Dearborn & Ohio7Th Cir.,Frank Aaron Negangard,Republican,1626
-Orange,U.S. Senator,,Steve Osborn,Libertarian,605
-Orange,U.S. Senator,,Richard G Lugar,Republican,4503
-Orange,U.S. Senator,,Jack H Baldwin,Democratic,0
-Orange,U.S. Senator,,Mark Pool,Independent,0
+Orange,U.S. Senate,,Steve Osborn,Libertarian,605
+Orange,U.S. Senate,,Richard G Lugar,Republican,4503
+Orange,U.S. Senate,,Jack H Baldwin,Democratic,0
+Orange,U.S. Senate,,Mark Pool,Independent,0
 Orange,Secretary Of State,,Joe Pearson,Democratic,2527
 Orange,Secretary Of State,,Mike Kole,Libertarian,222
 Orange,Secretary Of State,,Todd Rokita,Republican,3157
@@ -1446,16 +1446,16 @@ Orange,U.S. House,9,Baron Hill,Democratic,2469
 Orange,U.S. House,9,D Eric Schansberg,Libertarian,289
 Orange,U.S. House,9,Michael E Sodrel,Republican,3129
 Orange,U.S. House,9,Donald W Mantooth,Republican,0
-Orange,State Senator,47,"Richard D Young, Jr.",Democratic,0
-Orange,State Senator,47,Brian C Thomas,Republican,0
+Orange,State Senate,47,"Richard D Young, Jr.",Democratic,0
+Orange,State Senate,47,Brian C Thomas,Republican,0
 Orange,State House,73,Dennie Oxley,Democratic,0
 Orange,State House,74,Russell Stilwell,Democratic,0
 Orange,State House,74,Steven G Mcbrian,Republican,0
 Orange,Prosecuting Attorney,Orange 87Th Circuit,Kelly C Minton,Republican,4527
-Owen,U.S. Senator,,Steve Osborn,Libertarian,650
-Owen,U.S. Senator,,Richard G Lugar,Republican,4418
-Owen,U.S. Senator,,Jack H Baldwin,Democratic,0
-Owen,U.S. Senator,,Mark Pool,Independent,0
+Owen,U.S. Senate,,Steve Osborn,Libertarian,650
+Owen,U.S. Senate,,Richard G Lugar,Republican,4418
+Owen,U.S. Senate,,Jack H Baldwin,Democratic,0
+Owen,U.S. Senate,,Mark Pool,Independent,0
 Owen,Secretary Of State,,Joe Pearson,Democratic,2468
 Owen,Secretary Of State,,Mike Kole,Libertarian,241
 Owen,Secretary Of State,,Todd Rokita,Republican,3066
@@ -1466,18 +1466,18 @@ Owen,Treasurer Of State,,Michael W Griffin,Democratic,2628
 Owen,Treasurer Of State,,Richard E Mourdock,Republican,2933
 Owen,U.S. House,8,Brad Ellsworth,Democratic,3058
 Owen,U.S. House,8,John N Hostettler,Republican,2758
-Owen,State Senator,39,Steven M Thais,Democratic,883
-Owen,State Senator,39,John M Waterman,Republican,1055
+Owen,State Senate,39,Steven M Thais,Democratic,883
+Owen,State Senate,39,John M Waterman,Republican,1055
 Owen,State House,44,Richard Thompson,Democratic,0
 Owen,State House,44,Amos P Thomas,Republican,0
 Owen,State House,46,Vern Tincher,Democratic,3101
 Owen,State House,46,Reid Dallas,Republican,2762
 Owen,Judge Of The Circuit Court,"Owen 78Th Circt, No. 1",Frank M Nardi,Democratic,4445
 Owen,Prosecuting Attorney,Owen 78Th Circuit,Allan L Fountain,Republican,4194
-Parke,U.S. Senator,,Steve Osborn,Libertarian,512
-Parke,U.S. Senator,,Richard G Lugar,Republican,4182
-Parke,U.S. Senator,,Jack H Baldwin,Democratic,0
-Parke,U.S. Senator,,Mark Pool,Independent,1
+Parke,U.S. Senate,,Steve Osborn,Libertarian,512
+Parke,U.S. Senate,,Richard G Lugar,Republican,4182
+Parke,U.S. Senate,,Jack H Baldwin,Democratic,0
+Parke,U.S. Senate,,Mark Pool,Independent,1
 Parke,Secretary Of State,,Joe Pearson,Democratic,2389
 Parke,Secretary Of State,,Mike Kole,Libertarian,180
 Parke,Secretary Of State,,Todd Rokita,Republican,2955
@@ -1488,16 +1488,16 @@ Parke,Treasurer Of State,,Michael W Griffin,Democratic,2474
 Parke,Treasurer Of State,,Richard E Mourdock,Republican,3017
 Parke,U.S. House,8,Brad Ellsworth,Democratic,3282
 Parke,U.S. House,8,John N Hostettler,Republican,2325
-Parke,State Senator,23,Phil Boots,Republican,0
+Parke,State Senate,23,Phil Boots,Republican,0
 Parke,State House,42,F Dale Grubb,Democratic,2087
 Parke,State House,42,Jeffrey Mccoy,Republican,1539
 Parke,State House,44,Richard Thompson,Democratic,719
 Parke,State House,44,Amos P Thomas,Republican,820
 Parke,Prosecuting Attorney,Parke 68Th Circuit,Steve Cvengros,Republican,4175
-Perry,U.S. Senator,,Steve Osborn,Libertarian,640
-Perry,U.S. Senator,,Richard G Lugar,Republican,3916
-Perry,U.S. Senator,,Jack H Baldwin,Democratic,0
-Perry,U.S. Senator,,Mark Pool,Independent,0
+Perry,U.S. Senate,,Steve Osborn,Libertarian,640
+Perry,U.S. Senate,,Richard G Lugar,Republican,3916
+Perry,U.S. Senate,,Jack H Baldwin,Democratic,0
+Perry,U.S. Senate,,Mark Pool,Independent,0
 Perry,Secretary Of State,,Joe Pearson,Democratic,4258
 Perry,Secretary Of State,,Mike Kole,Libertarian,202
 Perry,Secretary Of State,,Todd Rokita,Republican,2035
@@ -1508,16 +1508,16 @@ Perry,Treasurer Of State,,Michael W Griffin,Democratic,4066
 Perry,Treasurer Of State,,Richard E Mourdock,Republican,2120
 Perry,U.S. House,8,Brad Ellsworth,Democratic,0
 Perry,U.S. House,8,John N Hostettler,Republican,0
-Perry,State Senator,47,"Richard D Young, Jr.",Democratic,4668
-Perry,State Senator,47,Brian C Thomas,Republican,1723
+Perry,State Senate,47,"Richard D Young, Jr.",Democratic,4668
+Perry,State Senate,47,Brian C Thomas,Republican,1723
 Perry,State House,74,Russell Stilwell,Democratic,3693
 Perry,State House,74,Steven G Mcbrian,Republican,1332
 Perry,Judge Of The Circuit Court,Perry 70Th Circuit,Mary Lucille Goffinet,Democratic,5311
 Perry,Prosecuting Attorney,Perry 70Th Circuit,Robert L Collins,Democratic,4964
-Pike,U.S. Senator,,Steve Osborn,Libertarian,511
-Pike,U.S. Senator,,Richard G Lugar,Republican,3649
-Pike,U.S. Senator,,Jack H Baldwin,Democratic,2
-Pike,U.S. Senator,,Mark Pool,Independent,1
+Pike,U.S. Senate,,Steve Osborn,Libertarian,511
+Pike,U.S. Senate,,Richard G Lugar,Republican,3649
+Pike,U.S. Senate,,Jack H Baldwin,Democratic,2
+Pike,U.S. Senate,,Mark Pool,Independent,1
 Pike,Secretary Of State,,Joe Pearson,Democratic,2781
 Pike,Secretary Of State,,Mike Kole,Libertarian,128
 Pike,Secretary Of State,,Todd Rokita,Republican,2064
@@ -1528,7 +1528,7 @@ Pike,Treasurer Of State,,Michael W Griffin,Democratic,2643
 Pike,Treasurer Of State,,Richard E Mourdock,Republican,2167
 Pike,U.S. House,8,Brad Ellsworth,Democratic,3268
 Pike,U.S. House,8,John N Hostettler,Republican,1830
-Pike,State Senator,48,Lindel O Hume,Democratic,4017
+Pike,State Senate,48,Lindel O Hume,Democratic,4017
 Pike,State House,63,Dave Crooks,Democratic,1776
 Pike,State House,63,Ronald Joseph Arnold,Republican,928
 Pike,State House,64,Kreg S Battles,Democratic,1336
@@ -1539,10 +1539,10 @@ Pike,Judge Of The Circuit Court,Pike 83Rd Circuit,Jeffrey Lee Biesterveld,Democr
 Pike,Judge Of The Circuit Court,Pike 83Rd Circuit,Walter Wyatt Rauch,Republican,2113
 Pike,Prosecuting Attorney,Pike 83Rd Circuit,"Howard B Lytton, Jr.",Democratic,2263
 Pike,Prosecuting Attorney,Pike 83Rd Circuit,Darrin E Mcdonald,Republican,2989
-Porter,U.S. Senator,,Steve Osborn,Libertarian,5658
-Porter,U.S. Senator,,Richard G Lugar,Republican,25385
-Porter,U.S. Senator,,Jack H Baldwin,Democratic,38
-Porter,U.S. Senator,,Mark Pool,Independent,52
+Porter,U.S. Senate,,Steve Osborn,Libertarian,5658
+Porter,U.S. Senate,,Richard G Lugar,Republican,25385
+Porter,U.S. Senate,,Jack H Baldwin,Democratic,38
+Porter,U.S. Senate,,Mark Pool,Independent,52
 Porter,Secretary Of State,,Joe Pearson,Democratic,20866
 Porter,Secretary Of State,,Mike Kole,Libertarian,1438
 Porter,Secretary Of State,,Todd Rokita,Republican,18201
@@ -1554,8 +1554,8 @@ Porter,Treasurer Of State,,Richard E Mourdock,Republican,16553
 Porter,U.S. House,1,Peter J Visclosky,Democratic,25607
 Porter,U.S. House,1,Mark J Leyva,Republican,11062
 Porter,U.S. House,1,Charles E Barman,Independent,1420
-Porter,State Senator,4,Karen Tallian,Democratic,14781
-Porter,State Senator,4,Dale Brewer,Republican,9317
+Porter,State Senate,4,Karen Tallian,Democratic,14781
+Porter,State Senate,4,Dale Brewer,Republican,9317
 Porter,State House,4,Sylvia Graham,Democratic,7505
 Porter,State House,4,Ed Soliday,Republican,8069
 Porter,State House,9,Scott D Pelath,Democratic,0
@@ -1567,10 +1567,10 @@ Porter,State House,19,Eric Hammond,Republican,1076
 Porter,Judge Of The Superior Court,"Porter County, No. 2",William E Alexa,Democratic,30378
 Porter,Judge Of The Superior Court,"Porter County, No. 6",Jeffrey L Thode,Republican,25443
 Porter,Prosecuting Attorney,Porter 67Th Circuit,Brian T Gensel,Republican,25309
-Posey,U.S. Senator,,Steve Osborn,Libertarian,877
-Posey,U.S. Senator,,Richard G Lugar,Republican,7636
-Posey,U.S. Senator,,Jack H Baldwin,Democratic,0
-Posey,U.S. Senator,,Mark Pool,Independent,0
+Posey,U.S. Senate,,Steve Osborn,Libertarian,877
+Posey,U.S. Senate,,Richard G Lugar,Republican,7636
+Posey,U.S. Senate,,Jack H Baldwin,Democratic,0
+Posey,U.S. Senate,,Mark Pool,Independent,0
 Posey,Secretary Of State,,Joe Pearson,Democratic,4754
 Posey,Secretary Of State,,Mike Kole,Libertarian,195
 Posey,Secretary Of State,,Todd Rokita,Republican,4430
@@ -1581,18 +1581,18 @@ Posey,Treasurer Of State,,Michael W Griffin,Democratic,4338
 Posey,Treasurer Of State,,Richard E Mourdock,Republican,5349
 Posey,U.S. House,8,Brad Ellsworth,Democratic,5701
 Posey,U.S. House,8,John N Hostettler,Republican,4428
-Posey,State Senator,49,Robert J Deig,Democratic,5672
-Posey,State Senator,49,George R Postletheweight,Republican,4216
+Posey,State Senate,49,Robert J Deig,Democratic,5672
+Posey,State Senate,49,George R Postletheweight,Republican,4216
 Posey,State House,64,Kreg S Battles,Democratic,0
 Posey,State House,64,Ja Thomas,Libertarian,0
 Posey,State House,64,Troy Woodruff,Republican,0
 Posey,State House,76,William Trent Vanhaaften,Democratic,7510
 Posey,Judge Of The Circuit Court,Posey 11Th Circuit,James Marion Redwine,Democratic,7289
 Posey,Prosecuting Attorney,Posey 11Th Circuit,Jodi Uebelhack,Democratic,7121
-Pulaski,U.S. Senator,,Steve Osborn,Libertarian,595
-Pulaski,U.S. Senator,,Richard G Lugar,Republican,3625
-Pulaski,U.S. Senator,,Jack H Baldwin,Democratic,0
-Pulaski,U.S. Senator,,Mark Pool,Independent,2
+Pulaski,U.S. Senate,,Steve Osborn,Libertarian,595
+Pulaski,U.S. Senate,,Richard G Lugar,Republican,3625
+Pulaski,U.S. Senate,,Jack H Baldwin,Democratic,0
+Pulaski,U.S. Senate,,Mark Pool,Independent,2
 Pulaski,Secretary Of State,,Joe Pearson,Democratic,2044
 Pulaski,Secretary Of State,,Mike Kole,Libertarian,202
 Pulaski,Secretary Of State,,Todd Rokita,Republican,2447
@@ -1609,10 +1609,10 @@ Pulaski,Judge Of The Circuit Court,Pulaski 59Th Circuit,John A Kocher,Republican
 Pulaski,Judge Of The Superior Court,Pulaski County,Lisa Traylor-Wolff,Democratic,2410
 Pulaski,Judge Of The Superior Court,Pulaski County,Patrick Blankenship,Republican,2448
 Pulaski,Prosecuting Attorney,Pulaski 59Th Circuit,Stacey L Mrak,Republican,3475
-Putnam,U.S. Senator,,Steve Osborn,Libertarian,826
-Putnam,U.S. Senator,,Richard G Lugar,Republican,7352
-Putnam,U.S. Senator,,Jack H Baldwin,Democratic,4
-Putnam,U.S. Senator,,Mark Pool,Independent,4
+Putnam,U.S. Senate,,Steve Osborn,Libertarian,826
+Putnam,U.S. Senate,,Richard G Lugar,Republican,7352
+Putnam,U.S. Senate,,Jack H Baldwin,Democratic,4
+Putnam,U.S. Senate,,Mark Pool,Independent,4
 Putnam,Secretary Of State,,Joe Pearson,Democratic,3589
 Putnam,Secretary Of State,,Mike Kole,Libertarian,288
 Putnam,Secretary Of State,,Todd Rokita,Republican,5487
@@ -1627,10 +1627,10 @@ Putnam,State House,44,Richard Thompson,Democratic,4254
 Putnam,State House,44,Amos P Thomas,Republican,5149
 Putnam,Prosecuting Attorney,Putnam 64Th Circuit,James W Ensley,Democratic,3791
 Putnam,Prosecuting Attorney,Putnam 64Th Circuit,Timothy Bookwalter,Republican,5705
-Randolph,U.S. Senator,,Steve Osborn,Libertarian,799
-Randolph,U.S. Senator,,Richard G Lugar,Republican,5587
-Randolph,U.S. Senator,,Jack H Baldwin,Democratic,0
-Randolph,U.S. Senator,,Mark Pool,Independent,2
+Randolph,U.S. Senate,,Steve Osborn,Libertarian,799
+Randolph,U.S. Senate,,Richard G Lugar,Republican,5587
+Randolph,U.S. Senate,,Jack H Baldwin,Democratic,0
+Randolph,U.S. Senate,,Mark Pool,Independent,2
 Randolph,Secretary Of State,,Joe Pearson,Democratic,3352
 Randolph,Secretary Of State,,Mike Kole,Libertarian,265
 Randolph,Secretary Of State,,Todd Rokita,Republican,4069
@@ -1641,15 +1641,15 @@ Randolph,Treasurer Of State,,Michael W Griffin,Democratic,3422
 Randolph,Treasurer Of State,,Richard E Mourdock,Republican,4190
 Randolph,U.S. House,6,Barry A Welsh,Democratic,3008
 Randolph,U.S. House,6,Mike Pence,Republican,4802
-Randolph,State Senator,27,Clayton Phillips,Democratic,2970
-Randolph,State Senator,27,Allen E Paul,Republican,4791
+Randolph,State Senate,27,Clayton Phillips,Democratic,2970
+Randolph,State Senate,27,Allen E Paul,Republican,4791
 Randolph,State House,33,Ronald David Liggett,Democratic,2539
 Randolph,State House,33,Bill J Davis,Republican,3361
 Randolph,Prosecuting Attorney,Randolph 25Th Circuit,David Martin Daly,Republican,5566
-Ripley,U.S. Senator,,Steve Osborn,Libertarian,1117
-Ripley,U.S. Senator,,Richard G Lugar,Republican,6224
-Ripley,U.S. Senator,,Jack H Baldwin,Democratic,7
-Ripley,U.S. Senator,,Mark Pool,Independent,0
+Ripley,U.S. Senate,,Steve Osborn,Libertarian,1117
+Ripley,U.S. Senate,,Richard G Lugar,Republican,6224
+Ripley,U.S. Senate,,Jack H Baldwin,Democratic,7
+Ripley,U.S. Senate,,Mark Pool,Independent,0
 Ripley,Secretary Of State,,Joe Pearson,Democratic,3360
 Ripley,Secretary Of State,,Mike Kole,Libertarian,384
 Ripley,Secretary Of State,,Todd Rokita,Republican,4308
@@ -1660,17 +1660,17 @@ Ripley,Treasurer Of State,,Michael W Griffin,Democratic,3399
 Ripley,Treasurer Of State,,Richard E Mourdock,Republican,4532
 Ripley,U.S. House,6,Barry A Welsh,Democratic,0
 Ripley,U.S. House,6,Mike Pence,Republican,0
-Ripley,State Senator,43,Lane A Siekman,Democratic,2432
-Ripley,State Senator,43,Johnny Nugent,Republican,5958
+Ripley,State Senate,43,Lane A Siekman,Democratic,2432
+Ripley,State Senate,43,Johnny Nugent,Republican,5958
 Ripley,State House,55,Dale Lanning,Democratic,0
 Ripley,State House,55,Thomas D Tom Knollman,Republican,0
 Ripley,State House,67,Cleo Duncan,Republican,4060
 Ripley,State House,67,Martin W Voegele,Independent,1724
 Ripley,Prosecuting Attorney,Ripley 80Th Circuit,Richard J Hertel,Republican,6321
-Rush,U.S. Senator,,Steve Osborn,Libertarian,506
-Rush,U.S. Senator,,Richard G Lugar,Republican,4340
-Rush,U.S. Senator,,Jack H Baldwin,Democratic,0
-Rush,U.S. Senator,,Mark Pool,Independent,2
+Rush,U.S. Senate,,Steve Osborn,Libertarian,506
+Rush,U.S. Senate,,Richard G Lugar,Republican,4340
+Rush,U.S. Senate,,Jack H Baldwin,Democratic,0
+Rush,U.S. Senate,,Mark Pool,Independent,2
 Rush,Secretary Of State,,Joe Pearson,Democratic,1782
 Rush,Secretary Of State,,Mike Kole,Libertarian,212
 Rush,Secretary Of State,,Todd Rokita,Republican,3328
@@ -1688,10 +1688,10 @@ Rush,State House,55,Dale Lanning,Democratic,0
 Rush,State House,55,Thomas D Tom Knollman,Republican,0
 Rush,Judge Of The Circuit Court,Rush 65Th Circuit,David E Northam,Republican,4515
 Rush,Prosecuting Attorney,Rush 65Th Circuit,"Paul William Barada, Jr.",Republican,4305
-Saint Joseph,U.S. Senator,,Steve Osborn,Libertarian,6587
-Saint Joseph,U.S. Senator,,Richard G Lugar,Republican,52437
-Saint Joseph,U.S. Senator,,Jack H Baldwin,Democratic,0
-Saint Joseph,U.S. Senator,,Mark Pool,Independent,0
+Saint Joseph,U.S. Senate,,Steve Osborn,Libertarian,6587
+Saint Joseph,U.S. Senate,,Richard G Lugar,Republican,52437
+Saint Joseph,U.S. Senate,,Jack H Baldwin,Democratic,0
+Saint Joseph,U.S. Senate,,Mark Pool,Independent,0
 Saint Joseph,Secretary Of State,,Joe Pearson,Democratic,42048
 Saint Joseph,Secretary Of State,,Mike Kole,Libertarian,2186
 Saint Joseph,Secretary Of State,,Todd Rokita,Republican,33096
@@ -1702,8 +1702,8 @@ Saint Joseph,Treasurer Of State,,Michael W Griffin,Democratic,43736
 Saint Joseph,Treasurer Of State,,Richard E Mourdock,Republican,32665
 Saint Joseph,U.S. House,2,Joseph S Donnelly,Democratic,46189
 Saint Joseph,U.S. House,2,J Christopher Chocola,Republican,33485
-Saint Joseph,State Senator,11,Patricia A Mcquade,Democratic,12248
-Saint Joseph,State Senator,11,Joe Zakas,Republican,15560
+Saint Joseph,State Senate,11,Patricia A Mcquade,Democratic,12248
+Saint Joseph,State Senate,11,Joe Zakas,Republican,15560
 Saint Joseph,State House,5,Craig R Fry,Democratic,7523
 Saint Joseph,State House,5,Jeremy Hiler,Republican,5719
 Saint Joseph,State House,6,B Patrick Bauer,Democratic,9318
@@ -1715,10 +1715,10 @@ Saint Joseph,State House,21,Jackie Walorski Swihart,Republican,4056
 Saint Joseph,Judge Of The Probate Court,St. Joseph County,Peter J Nemeth,Democratic,54721
 Saint Joseph,Prosecuting Attorney,St. Joseph 60Th Circuit,Michael A Dvorak,Democratic,50269
 Saint Joseph,Prosecuting Attorney,St. Joseph 60Th Circuit,Gregory Paul Kauffman,Republican,28913
-Scott,U.S. Senator,,Steve Osborn,Libertarian,778
-Scott,U.S. Senator,,Richard G Lugar,Republican,4267
-Scott,U.S. Senator,,Jack H Baldwin,Democratic,3
-Scott,U.S. Senator,,Mark Pool,Independent,11
+Scott,U.S. Senate,,Steve Osborn,Libertarian,778
+Scott,U.S. Senate,,Richard G Lugar,Republican,4267
+Scott,U.S. Senate,,Jack H Baldwin,Democratic,3
+Scott,U.S. Senate,,Mark Pool,Independent,11
 Scott,Secretary Of State,,Joe Pearson,Democratic,3754
 Scott,Secretary Of State,,Mike Kole,Libertarian,206
 Scott,Secretary Of State,,Todd Rokita,Republican,2188
@@ -1733,14 +1733,14 @@ Scott,U.S. House,9,Baron Hill,Democratic,3780
 Scott,U.S. House,9,D Eric Schansberg,Libertarian,232
 Scott,U.S. House,9,Michael E Sodrel,Republican,2497
 Scott,U.S. House,9,Donald W Mantooth,Republican,3
-Scott,State Senator,45,James Lewis,Democratic,4288
-Scott,State Senator,45,Floyd E Coates,Republican,2096
+Scott,State Senate,45,James Lewis,Democratic,4288
+Scott,State Senate,45,Floyd E Coates,Republican,2096
 Scott,State House,66,Terry Goodin,Democratic,3989
 Scott,Prosecuting Attorney,Scott 6Th Circuit,Jason M Mount,Democratic,5151
-Shelby,U.S. Senator,,Steve Osborn,Libertarian,1035
-Shelby,U.S. Senator,,Richard G Lugar,Republican,9070
-Shelby,U.S. Senator,,Jack H Baldwin,Democratic,26
-Shelby,U.S. Senator,,Mark Pool,Independent,0
+Shelby,U.S. Senate,,Steve Osborn,Libertarian,1035
+Shelby,U.S. Senate,,Richard G Lugar,Republican,9070
+Shelby,U.S. Senate,,Jack H Baldwin,Democratic,26
+Shelby,U.S. Senate,,Mark Pool,Independent,0
 Shelby,Secretary Of State,,Joe Pearson,Democratic,4180
 Shelby,Secretary Of State,,Mike Kole,Libertarian,422
 Shelby,Secretary Of State,,Todd Rokita,Republican,6915
@@ -1755,10 +1755,10 @@ Shelby,State House,57,Jd Lux,Democratic,5178
 Shelby,State House,57,Sean R Eberhart,Republican,5259
 Shelby,Judge Of The Circuit Court,Shelby 16Th Circuit,Charles D O'Connor,Republican,9286
 Shelby,Prosecuting Attorney,Shelby 16Th Circuit,R Kent Apsley,Republican,9004
-Spencer,U.S. Senator,,Steve Osborn,Libertarian,699
-Spencer,U.S. Senator,,Richard G Lugar,Republican,5483
-Spencer,U.S. Senator,,Jack H Baldwin,Democratic,3
-Spencer,U.S. Senator,,Mark Pool,Independent,5
+Spencer,U.S. Senate,,Steve Osborn,Libertarian,699
+Spencer,U.S. Senate,,Richard G Lugar,Republican,5483
+Spencer,U.S. Senate,,Jack H Baldwin,Democratic,3
+Spencer,U.S. Senate,,Mark Pool,Independent,5
 Spencer,Secretary Of State,,Joe Pearson,Democratic,3981
 Spencer,Secretary Of State,,Mike Kole,Libertarian,206
 Spencer,Secretary Of State,,Todd Rokita,Republican,3499
@@ -1769,15 +1769,15 @@ Spencer,Treasurer Of State,,Michael W Griffin,Democratic,3812
 Spencer,Treasurer Of State,,Richard E Mourdock,Republican,3718
 Spencer,U.S. House,8,Brad Ellsworth,Democratic,0
 Spencer,U.S. House,8,John N Hostettler,Republican,0
-Spencer,State Senator,48,Lindel O Hume,Democratic,0
+Spencer,State Senate,48,Lindel O Hume,Democratic,0
 Spencer,State House,74,Russell Stilwell,Democratic,3780
 Spencer,State House,74,Steven G Mcbrian,Republican,2246
 Spencer,State House,75,Dennis T Avery,Democratic,0
 Spencer,Prosecuting Attorney,Spencer 84Th Circuit,Jon A Dartt,Democratic,5760
-Starke,U.S. Senator,,Steve Osborn,Libertarian,1415
-Starke,U.S. Senator,,Richard G Lugar,Republican,4560
-Starke,U.S. Senator,,Jack H Baldwin,Democratic,0
-Starke,U.S. Senator,,Mark Pool,Independent,0
+Starke,U.S. Senate,,Steve Osborn,Libertarian,1415
+Starke,U.S. Senate,,Richard G Lugar,Republican,4560
+Starke,U.S. Senate,,Jack H Baldwin,Democratic,0
+Starke,U.S. Senate,,Mark Pool,Independent,0
 Starke,Secretary Of State,,Joe Pearson,Democratic,3947
 Starke,Secretary Of State,,Mike Kole,Libertarian,333
 Starke,Secretary Of State,,Todd Rokita,Republican,2868
@@ -1794,10 +1794,10 @@ Starke,State House,20,Gregory D Kelver,Libertarian,0
 Starke,State House,20,Tom Dermody,Republican,0
 Starke,Prosecuting Attorney,Starke 44Th Circuit,Richard L Ballard,Democratic,3606
 Starke,Prosecuting Attorney,Starke 44Th Circuit,Julianne Kay Havens,Republican,3773
-Steuben,U.S. Senator,,Steve Osborn,Libertarian,1314
-Steuben,U.S. Senator,,Richard G Lugar,Republican,6728
-Steuben,U.S. Senator,,Jack H Baldwin,Democratic,1
-Steuben,U.S. Senator,,Mark Pool,Independent,1
+Steuben,U.S. Senate,,Steve Osborn,Libertarian,1314
+Steuben,U.S. Senate,,Richard G Lugar,Republican,6728
+Steuben,U.S. Senate,,Jack H Baldwin,Democratic,1
+Steuben,U.S. Senate,,Mark Pool,Independent,1
 Steuben,Secretary Of State,,Joe Pearson,Democratic,3715
 Steuben,Secretary Of State,,Mike Kole,Libertarian,344
 Steuben,Secretary Of State,,Todd Rokita,Republican,4888
@@ -1814,10 +1814,10 @@ Steuben,State House,52,Dennis L Rorick,Democratic,0
 Steuben,State House,52,Marlin A Stutzman,Republican,0
 Steuben,Judge Of The Circuit Court,Steuben 85Th Circuit,Allen N Wheat,Republican,6799
 Steuben,Prosecuting Attorney,Steuben 85Th Circuit,Thomas E Wilson,Republican,6648
-Sullivan,U.S. Senator,,Steve Osborn,Libertarian,783
-Sullivan,U.S. Senator,,Richard G Lugar,Republican,4489
-Sullivan,U.S. Senator,,Jack H Baldwin,Democratic,0
-Sullivan,U.S. Senator,,Mark Pool,Independent,0
+Sullivan,U.S. Senate,,Steve Osborn,Libertarian,783
+Sullivan,U.S. Senate,,Richard G Lugar,Republican,4489
+Sullivan,U.S. Senate,,Jack H Baldwin,Democratic,0
+Sullivan,U.S. Senate,,Mark Pool,Independent,0
 Sullivan,Secretary Of State,,Joe Pearson,Democratic,4019
 Sullivan,Secretary Of State,,Mike Kole,Libertarian,174
 Sullivan,Secretary Of State,,Todd Rokita,Republican,2317
@@ -1828,15 +1828,15 @@ Sullivan,Treasurer Of State,,Michael W Griffin,Democratic,3892
 Sullivan,Treasurer Of State,,Richard E Mourdock,Republican,2471
 Sullivan,U.S. House,8,Brad Ellsworth,Democratic,4952
 Sullivan,U.S. House,8,John N Hostettler,Republican,2126
-Sullivan,State Senator,39,Steven M Thais,Democratic,3456
-Sullivan,State Senator,39,John M Waterman,Republican,3664
+Sullivan,State Senate,39,Steven M Thais,Democratic,3456
+Sullivan,State Senate,39,John M Waterman,Republican,3664
 Sullivan,State House,45,Michael Dudley Bledsoe,Democratic,3428
 Sullivan,State House,45,Bruce Alan Borders,Republican,3576
 Sullivan,Prosecuting Attorney,Sullivan 14Th Circuit,Robert E Springer,Democratic,5491
-Switzerland,U.S. Senator,,Steve Osborn,Libertarian,463
-Switzerland,U.S. Senator,,Richard G Lugar,Republican,1615
-Switzerland,U.S. Senator,,Jack H Baldwin,Democratic,0
-Switzerland,U.S. Senator,,Mark Pool,Independent,0
+Switzerland,U.S. Senate,,Steve Osborn,Libertarian,463
+Switzerland,U.S. Senate,,Richard G Lugar,Republican,1615
+Switzerland,U.S. Senate,,Jack H Baldwin,Democratic,0
+Switzerland,U.S. Senate,,Mark Pool,Independent,0
 Switzerland,Secretary Of State,,Joe Pearson,Democratic,1455
 Switzerland,Secretary Of State,,Mike Kole,Libertarian,91
 Switzerland,Secretary Of State,,Todd Rokita,Republican,1029
@@ -1847,14 +1847,14 @@ Switzerland,Treasurer Of State,,Michael W Griffin,Democratic,1488
 Switzerland,Treasurer Of State,,Richard E Mourdock,Republican,1062
 Switzerland,U.S. House,6,Barry A Welsh,Democratic,0
 Switzerland,U.S. House,6,Mike Pence,Republican,0
-Switzerland,State Senator,45,James Lewis,Democratic,1651
-Switzerland,State Senator,45,Floyd E Coates,Republican,1014
+Switzerland,State Senate,45,James Lewis,Democratic,1651
+Switzerland,State Senate,45,Floyd E Coates,Republican,1014
 Switzerland,State House,67,Cleo Duncan,Republican,0
 Switzerland,State House,67,Martin W Voegele,Independent,0
-Tippecanoe,U.S. Senator,,Steve Osborn,Libertarian,4535
-Tippecanoe,U.S. Senator,,Richard G Lugar,Republican,25707
-Tippecanoe,U.S. Senator,,Jack H Baldwin,Democratic,12
-Tippecanoe,U.S. Senator,,Mark Pool,Independent,27
+Tippecanoe,U.S. Senate,,Steve Osborn,Libertarian,4535
+Tippecanoe,U.S. Senate,,Richard G Lugar,Republican,25707
+Tippecanoe,U.S. Senate,,Jack H Baldwin,Democratic,12
+Tippecanoe,U.S. Senate,,Mark Pool,Independent,27
 Tippecanoe,Secretary Of State,,Joe Pearson,Democratic,14319
 Tippecanoe,Secretary Of State,,Mike Kole,Libertarian,1226
 Tippecanoe,Secretary Of State,,Todd Rokita,Republican,17643
@@ -1865,8 +1865,8 @@ Tippecanoe,Treasurer Of State,,Michael W Griffin,Democratic,14590
 Tippecanoe,Treasurer Of State,,Richard E Mourdock,Republican,17859
 Tippecanoe,U.S. House,4,David Avram Sanders,Democratic,15813
 Tippecanoe,U.S. House,4,Steve Buyer,Republican,17760
-Tippecanoe,State Senator,22,David C Vorbeck,Democratic,10794
-Tippecanoe,State Senator,22,Ron Alting,Republican,16980
+Tippecanoe,State Senate,22,David C Vorbeck,Democratic,10794
+Tippecanoe,State Senate,22,Ron Alting,Republican,16980
 Tippecanoe,State House,13,Chester F Dobis,Democratic,0
 Tippecanoe,State House,25,Jeb Bardon,Democratic,0
 Tippecanoe,State House,25,Josephine R Coleman,Libertarian,0
@@ -1878,10 +1878,10 @@ Tippecanoe,State House,41,James Stytle,Democratic,3164
 Tippecanoe,State House,41,Tim Brown,Republican,6089
 Tippecanoe,Judge Of The Superior Court,"Tippecanoe County, No. 6",Michael A Morrissey,Republican,24780
 Tippecanoe,Prosecuting Attorney,Tippecanoe 23Rd Circuit,Pat Harrington,Republican,24462
-Tipton,U.S. Senator,,Steve Osborn,Libertarian,616
-Tipton,U.S. Senator,,Richard G Lugar,Republican,4554
-Tipton,U.S. Senator,,Jack H Baldwin,Democratic,0
-Tipton,U.S. Senator,,Mark Pool,Independent,0
+Tipton,U.S. Senate,,Steve Osborn,Libertarian,616
+Tipton,U.S. Senate,,Richard G Lugar,Republican,4554
+Tipton,U.S. Senate,,Jack H Baldwin,Democratic,0
+Tipton,U.S. Senate,,Mark Pool,Independent,0
 Tipton,Secretary Of State,,Joe Pearson,Democratic,2215
 Tipton,Secretary Of State,,Mike Kole,Libertarian,174
 Tipton,Secretary Of State,,Todd Rokita,Republican,3436
@@ -1894,14 +1894,14 @@ Tipton,U.S. House,5,Katherine Fox Carr,Democratic,1912
 Tipton,U.S. House,5,Sheri Conover Sharlow,Libertarian,172
 Tipton,U.S. House,5,Dan Burton,Republican,3742
 Tipton,U.S. House,5,John Miller,Independent,0
-Tipton,State Senator,21,Janelda Ellis,Democratic,1591
-Tipton,State Senator,21,Jeff Drozda,Republican,2903
+Tipton,State Senate,21,Janelda Ellis,Democratic,1591
+Tipton,State Senate,21,Jeff Drozda,Republican,2903
 Tipton,State House,32,P Eric Turner,Republican,3283
 Tipton,Prosecuting Attorney,Tipton 36Th Circuit,Jay D Rich,Republican,4404
-Union,U.S. Senator,,Steve Osborn,Libertarian,336
-Union,U.S. Senator,,Richard G Lugar,Republican,1913
-Union,U.S. Senator,,Jack H Baldwin,Democratic,0
-Union,U.S. Senator,,Mark Pool,Independent,0
+Union,U.S. Senate,,Steve Osborn,Libertarian,336
+Union,U.S. Senate,,Richard G Lugar,Republican,1913
+Union,U.S. Senate,,Jack H Baldwin,Democratic,0
+Union,U.S. Senate,,Mark Pool,Independent,0
 Union,Secretary Of State,,Joe Pearson,Democratic,958
 Union,Secretary Of State,,Mike Kole,Libertarian,154
 Union,Secretary Of State,,Todd Rokita,Republican,1297
@@ -1912,15 +1912,15 @@ Union,Treasurer Of State,,Michael W Griffin,Democratic,1003
 Union,Treasurer Of State,,Richard E Mourdock,Republican,1384
 Union,U.S. House,6,Barry A Welsh,Democratic,877
 Union,U.S. House,6,Mike Pence,Republican,1600
-Union,State Senator,27,Clayton Phillips,Democratic,0
-Union,State Senator,27,Allen E Paul,Republican,0
+Union,State Senate,27,Clayton Phillips,Democratic,0
+Union,State Senate,27,Allen E Paul,Republican,0
 Union,State House,68,Robert J Bischoff,Democratic,0
 Union,State House,68,Bill Ullrich,Republican,0
 Union,Prosecuting Attorney,Union 89Th Circuit,Ronald L Jordan,Republican,1993
-Vanderburgh,U.S. Senator,,Steve Osborn,Libertarian,5474
-Vanderburgh,U.S. Senator,,Richard G Lugar,Republican,39898
-Vanderburgh,U.S. Senator,,Jack H Baldwin,Democratic,0
-Vanderburgh,U.S. Senator,,Mark Pool,Independent,0
+Vanderburgh,U.S. Senate,,Steve Osborn,Libertarian,5474
+Vanderburgh,U.S. Senate,,Richard G Lugar,Republican,39898
+Vanderburgh,U.S. Senate,,Jack H Baldwin,Democratic,0
+Vanderburgh,U.S. Senate,,Mark Pool,Independent,0
 Vanderburgh,Secretary Of State,,Joe Pearson,Democratic,25898
 Vanderburgh,Secretary Of State,,Mike Kole,Libertarian,1488
 Vanderburgh,Secretary Of State,,Todd Rokita,Republican,25253
@@ -1931,8 +1931,8 @@ Vanderburgh,Treasurer Of State,,Michael W Griffin,Democratic,23466
 Vanderburgh,Treasurer Of State,,Richard E Mourdock,Republican,30098
 Vanderburgh,U.S. House,8,Brad Ellsworth,Democratic,35158
 Vanderburgh,U.S. House,8,John N Hostettler,Republican,20247
-Vanderburgh,State Senator,49,Robert J Deig,Democratic,13826
-Vanderburgh,State Senator,49,George R Postletheweight,Republican,7374
+Vanderburgh,State Senate,49,Robert J Deig,Democratic,13826
+Vanderburgh,State Senate,49,George R Postletheweight,Republican,7374
 Vanderburgh,State House,64,Kreg S Battles,Democratic,0
 Vanderburgh,State House,64,Ja Thomas,Libertarian,0
 Vanderburgh,State House,64,Troy Woodruff,Republican,0
@@ -1948,10 +1948,10 @@ Vanderburgh,Judge Of The Superior Court,Vanderburgh Co.Tornatta,Robert Jeff Torn
 Vanderburgh,Judge Of The Superior Court,Vanderburgh Co.Trockman,Wayne S Trockman,Non-Partisan,33433
 Vanderburgh,Prosecuting Attorney,Vanderburgh 1St Circuit,Stanley M Levco,Democratic,32293
 Vanderburgh,Prosecuting Attorney,Vanderburgh 1St Circuit,Nicholas Hermann,Republican,22013
-Vermillion,U.S. Senator,,Steve Osborn,Libertarian,696
-Vermillion,U.S. Senator,,Richard G Lugar,Republican,3380
-Vermillion,U.S. Senator,,Jack H Baldwin,Democratic,0
-Vermillion,U.S. Senator,,Mark Pool,Independent,0
+Vermillion,U.S. Senate,,Steve Osborn,Libertarian,696
+Vermillion,U.S. Senate,,Richard G Lugar,Republican,3380
+Vermillion,U.S. Senate,,Jack H Baldwin,Democratic,0
+Vermillion,U.S. Senate,,Mark Pool,Independent,0
 Vermillion,Secretary Of State,,Joe Pearson,Democratic,3357
 Vermillion,Secretary Of State,,Mike Kole,Libertarian,183
 Vermillion,Secretary Of State,,Todd Rokita,Republican,1720
@@ -1962,15 +1962,15 @@ Vermillion,Treasurer Of State,,Michael W Griffin,Democratic,3463
 Vermillion,Treasurer Of State,,Richard E Mourdock,Republican,1721
 Vermillion,U.S. House,8,Brad Ellsworth,Democratic,3957
 Vermillion,U.S. House,8,John N Hostettler,Republican,1584
-Vermillion,State Senator,23,Phil Boots,Republican,0
+Vermillion,State Senate,23,Phil Boots,Republican,0
 Vermillion,State House,42,F Dale Grubb,Democratic,4231
 Vermillion,State House,42,Jeffrey Mccoy,Republican,1289
 Vermillion,Judge Of The Circuit Court,Vermillion 47Th Circuit,Bruce V Stengel,Democratic,4186
 Vermillion,Prosecuting Attorney,Vermillion 47Th Circuit,Nina J Alexander,Democratic,4128
-Vigo,U.S. Senator,,Steve Osborn,Libertarian,3025
-Vigo,U.S. Senator,,Richard G Lugar,Republican,19242
-Vigo,U.S. Senator,,Jack H Baldwin,Democratic,5
-Vigo,U.S. Senator,,Mark Pool,Independent,5
+Vigo,U.S. Senate,,Steve Osborn,Libertarian,3025
+Vigo,U.S. Senate,,Richard G Lugar,Republican,19242
+Vigo,U.S. Senate,,Jack H Baldwin,Democratic,5
+Vigo,U.S. Senate,,Mark Pool,Independent,5
 Vigo,Secretary Of State,,Joe Pearson,Democratic,16059
 Vigo,Secretary Of State,,Mike Kole,Libertarian,1008
 Vigo,Secretary Of State,,Todd Rokita,Republican,11324
@@ -1981,7 +1981,7 @@ Vigo,Treasurer Of State,,Michael W Griffin,Democratic,16503
 Vigo,Treasurer Of State,,Richard E Mourdock,Republican,11087
 Vigo,U.S. House,8,Brad Ellsworth,Democratic,20877
 Vigo,U.S. House,8,John N Hostettler,Republican,8764
-Vigo,State Senator,38,Timothy D Skinner,Democratic,17423
+Vigo,State Senate,38,Timothy D Skinner,Democratic,17423
 Vigo,State House,42,F Dale Grubb,Democratic,1805
 Vigo,State House,42,Jeffrey Mccoy,Republican,666
 Vigo,State House,43,Clyde Kersey,Democratic,9767
@@ -1994,10 +1994,10 @@ Vigo,Judge Of The Superior Court,"Vigo County, No. 6",Michael J Lewis,Democratic
 Vigo,Judge Of The Superior Court,"Vigo County, No. 6",James Richard Walker,Republican,9856
 Vigo,Prosecuting Attorney,Vigo 43Rd Circuit,Sarah K Mullican,Democratic,13722
 Vigo,Prosecuting Attorney,Vigo 43Rd Circuit,Terry R Modesitt,Republican,16044
-Wabash,U.S. Senator,,Steve Osborn,Libertarian,855
-Wabash,U.S. Senator,,Richard G Lugar,Republican,5653
-Wabash,U.S. Senator,,Jack H Baldwin,Democratic,0
-Wabash,U.S. Senator,,Mark Pool,Independent,0
+Wabash,U.S. Senate,,Steve Osborn,Libertarian,855
+Wabash,U.S. Senate,,Richard G Lugar,Republican,5653
+Wabash,U.S. Senate,,Jack H Baldwin,Democratic,0
+Wabash,U.S. Senate,,Mark Pool,Independent,0
 Wabash,Secretary Of State,,Joe Pearson,Democratic,2888
 Wabash,Secretary Of State,,Mike Kole,Libertarian,221
 Wabash,Secretary Of State,,Todd Rokita,Republican,4255
@@ -2008,13 +2008,13 @@ Wabash,Treasurer Of State,,Michael W Griffin,Democratic,2910
 Wabash,Treasurer Of State,,Richard E Mourdock,Republican,4377
 Wabash,U.S. House,2,Joseph S Donnelly,Democratic,0
 Wabash,U.S. House,2,J Christopher Chocola,Republican,0
-Wabash,State Senator,17,Gary Dillon,Republican,4742
+Wabash,State Senate,17,Gary Dillon,Republican,4742
 Wabash,State House,18,David A Wolkins,Republican,0
 Wabash,Prosecuting Attorney,Wabash 27Th Circuit,"William C Hartley, Jr.",Republican,5372
-Warren,U.S. Senator,,Steve Osborn,Libertarian,325
-Warren,U.S. Senator,,Richard G Lugar,Republican,2211
-Warren,U.S. Senator,,Jack H Baldwin,Democratic,0
-Warren,U.S. Senator,,Mark Pool,Independent,0
+Warren,U.S. Senate,,Steve Osborn,Libertarian,325
+Warren,U.S. Senate,,Richard G Lugar,Republican,2211
+Warren,U.S. Senate,,Jack H Baldwin,Democratic,0
+Warren,U.S. Senate,,Mark Pool,Independent,0
 Warren,Secretary Of State,,Joe Pearson,Democratic,1260
 Warren,Secretary Of State,,Mike Kole,Libertarian,100
 Warren,Secretary Of State,,Todd Rokita,Republican,1532
@@ -2025,15 +2025,15 @@ Warren,Treasurer Of State,,Michael W Griffin,Democratic,1271
 Warren,Treasurer Of State,,Richard E Mourdock,Republican,1565
 Warren,U.S. House,4,David Avram Sanders,Democratic,0
 Warren,U.S. House,4,Steve Buyer,Republican,0
-Warren,State Senator,23,Phil Boots,Republican,702
+Warren,State Senate,23,Phil Boots,Republican,702
 Warren,State House,13,Chester F Dobis,Democratic,0
 Warren,State House,42,F Dale Grubb,Democratic,1586
 Warren,State House,42,Jeffrey Mccoy,Republican,740
 Warren,Prosecuting Attorney,Warren 21St Circuit,John A Larson,Republican,2391
-Warrick,U.S. Senator,,Steve Osborn,Libertarian,1748
-Warrick,U.S. Senator,,Richard G Lugar,Republican,15038
-Warrick,U.S. Senator,,Jack H Baldwin,Democratic,2
-Warrick,U.S. Senator,,Mark Pool,Independent,9
+Warrick,U.S. Senate,,Steve Osborn,Libertarian,1748
+Warrick,U.S. Senate,,Richard G Lugar,Republican,15038
+Warrick,U.S. Senate,,Jack H Baldwin,Democratic,2
+Warrick,U.S. Senate,,Mark Pool,Independent,9
 Warrick,Secretary Of State,,Joe Pearson,Democratic,9182
 Warrick,Secretary Of State,,Mike Kole,Libertarian,466
 Warrick,Secretary Of State,,Todd Rokita,Republican,10102
@@ -2044,17 +2044,17 @@ Warrick,Treasurer Of State,,Michael W Griffin,Democratic,8651
 Warrick,Treasurer Of State,,Richard E Mourdock,Republican,10858
 Warrick,U.S. House,8,Brad Ellsworth,Democratic,12105
 Warrick,U.S. House,8,John N Hostettler,Republican,8144
-Warrick,State Senator,48,Lindel O Hume,Democratic,0
+Warrick,State Senate,48,Lindel O Hume,Democratic,0
 Warrick,State House,75,Dennis T Avery,Democratic,1321
 Warrick,State House,78,Suzanne Crouch,Republican,7659
 Warrick,Judge Of The Superior Court,"Warrick County, No. 1",Keith Alan Meier,Republican,14050
 Warrick,Judge Of The Superior Court,"Warrick County, No. 2",Robert R Aylsworth,Democratic,14092
 Warrick,Prosecuting Attorney,Warrick 2Nd Circuit,Sherry D Smith,Democratic,9974
 Warrick,Prosecuting Attorney,Warrick 2Nd Circuit,Todd Corne,Republican,10262
-Washington,U.S. Senator,,Steve Osborn,Libertarian,1060
-Washington,U.S. Senator,,Richard G Lugar,Republican,6496
-Washington,U.S. Senator,,Jack H Baldwin,Democratic,2
-Washington,U.S. Senator,,Mark Pool,Independent,17
+Washington,U.S. Senate,,Steve Osborn,Libertarian,1060
+Washington,U.S. Senate,,Richard G Lugar,Republican,6496
+Washington,U.S. Senate,,Jack H Baldwin,Democratic,2
+Washington,U.S. Senate,,Mark Pool,Independent,17
 Washington,Secretary Of State,,Joe Pearson,Democratic,4096
 Washington,Secretary Of State,,Mike Kole,Libertarian,406
 Washington,Secretary Of State,,Todd Rokita,Republican,4008
@@ -2067,15 +2067,15 @@ Washington,U.S. House,9,Baron Hill,Democratic,4102
 Washington,U.S. House,9,D Eric Schansberg,Libertarian,476
 Washington,U.S. House,9,Michael E Sodrel,Republican,4418
 Washington,U.S. House,9,Donald W Mantooth,Republican,21
-Washington,State Senator,47,"Richard D Young, Jr.",Democratic,633
-Washington,State Senator,47,Brian C Thomas,Republican,640
+Washington,State Senate,47,"Richard D Young, Jr.",Democratic,633
+Washington,State Senate,47,Brian C Thomas,Republican,640
 Washington,State House,73,Dennie Oxley,Democratic,6123
 Washington,Prosecuting Attorney,Washington 42Nd Circuit,Robert G Ii Hamilton,Democratic,3953
 Washington,Prosecuting Attorney,Washington 42Nd Circuit,Dustin Houchin,Republican,4998
-Wayne,U.S. Senator,,Steve Osborn,Libertarian,2631
-Wayne,U.S. Senator,,Richard G Lugar,Republican,10846
-Wayne,U.S. Senator,,Jack H Baldwin,Democratic,0
-Wayne,U.S. Senator,,Mark Pool,Independent,0
+Wayne,U.S. Senate,,Steve Osborn,Libertarian,2631
+Wayne,U.S. Senate,,Richard G Lugar,Republican,10846
+Wayne,U.S. Senate,,Jack H Baldwin,Democratic,0
+Wayne,U.S. Senate,,Mark Pool,Independent,0
 Wayne,Secretary Of State,,Joe Pearson,Democratic,6769
 Wayne,Secretary Of State,,Mike Kole,Libertarian,1301
 Wayne,Secretary Of State,,Todd Rokita,Republican,7976
@@ -2086,8 +2086,8 @@ Wayne,Treasurer Of State,,Michael W Griffin,Democratic,7532
 Wayne,Treasurer Of State,,Richard E Mourdock,Republican,8416
 Wayne,U.S. House,6,Barry A Welsh,Democratic,6622
 Wayne,U.S. House,6,Mike Pence,Republican,9730
-Wayne,State Senator,27,Clayton Phillips,Democratic,6637
-Wayne,State Senator,27,Allen E Paul,Republican,9655
+Wayne,State Senate,27,Clayton Phillips,Democratic,6637
+Wayne,State Senate,27,Allen E Paul,Republican,9655
 Wayne,State House,54,David G Sadler,Democratic,2368
 Wayne,State House,54,Rex Bell,Libertarian,1576
 Wayne,State House,54,Thomas E Saunders,Republican,3298
@@ -2097,10 +2097,10 @@ Wayne,State House,56,Jaye Gibbs,Republican,2467
 Wayne,Judge Of The Circuit Court,Wayne 17Th Circuit,David A Kolger,Republican,11130
 Wayne,Judge Of The Superior Court,"Wayne County, No. 1",Paul Thomas Snow,Republican,11238
 Wayne,Prosecuting Attorney,Wayne 17Th Circuit,Michael W Shipman,Republican,10590
-Wells,U.S. Senator,,Steve Osborn,Libertarian,1011
-Wells,U.S. Senator,,Richard G Lugar,Republican,7389
-Wells,U.S. Senator,,Jack H Baldwin,Democratic,0
-Wells,U.S. Senator,,Mark Pool,Independent,2
+Wells,U.S. Senate,,Steve Osborn,Libertarian,1011
+Wells,U.S. Senate,,Richard G Lugar,Republican,7389
+Wells,U.S. Senate,,Jack H Baldwin,Democratic,0
+Wells,U.S. Senate,,Mark Pool,Independent,2
 Wells,Secretary Of State,,Joe Pearson,Democratic,3357
 Wells,Secretary Of State,,Mike Kole,Libertarian,324
 Wells,Secretary Of State,,Todd Rokita,Republican,5510
@@ -2111,7 +2111,7 @@ Wells,Treasurer Of State,,Michael W Griffin,Democratic,3132
 Wells,Treasurer Of State,,Richard E Mourdock,Republican,5701
 Wells,U.S. House,3,Thomas E Hayhurst,Democratic,0
 Wells,U.S. House,3,Mark E Souder,Republican,0
-Wells,State Senator,19,David C Ford,Republican,7647
+Wells,State Senate,19,David C Ford,Republican,7647
 Wells,State House,31,Larry R Hile,Democratic,0
 Wells,State House,31,Timothy W Harris,Republican,0
 Wells,State House,50,Felix F Aguilar,Libertarian,0
@@ -2119,10 +2119,10 @@ Wells,State House,50,Daniel Joseph Leonard,Republican,0
 Wells,State House,79,Michael Ripley,Republican,865
 Wells,Judge Of The Circuit Court,Wells 28Th Circuit,David L Sr Hanselman,Republican,7508
 Wells,Prosecuting Attorney,Wells 28Th Circuit,Michael W Sr Lautzenheiser,Republican,7220
-White,U.S. Senator,,Steve Osborn,Libertarian,935
-White,U.S. Senator,,Richard G Lugar,Republican,5930
-White,U.S. Senator,,Jack H Baldwin,Democratic,0
-White,U.S. Senator,,Mark Pool,Independent,0
+White,U.S. Senate,,Steve Osborn,Libertarian,935
+White,U.S. Senate,,Richard G Lugar,Republican,5930
+White,U.S. Senate,,Jack H Baldwin,Democratic,0
+White,U.S. Senate,,Mark Pool,Independent,0
 White,Secretary Of State,,Joe Pearson,Democratic,3126
 White,Secretary Of State,,Mike Kole,Libertarian,272
 White,Secretary Of State,,Todd Rokita,Republican,4198
@@ -2138,10 +2138,10 @@ White,State House,25,Jeb Bardon,Democratic,0
 White,State House,25,Josephine R Coleman,Libertarian,0
 White,Judge Of The Circuit Court,White 39Th Circuit,Robert W Thacker,Republican,5912
 White,Prosecuting Attorney,White 39Th Circuit,Robert J Guy,Republican,5917
-Whitley,U.S. Senator,,Steve Osborn,Libertarian,1123
-Whitley,U.S. Senator,,Richard G Lugar,Republican,7855
-Whitley,U.S. Senator,,Jack H Baldwin,Democratic,0
-Whitley,U.S. Senator,,Mark Pool,Independent,0
+Whitley,U.S. Senate,,Steve Osborn,Libertarian,1123
+Whitley,U.S. Senate,,Richard G Lugar,Republican,7855
+Whitley,U.S. Senate,,Jack H Baldwin,Democratic,0
+Whitley,U.S. Senate,,Mark Pool,Independent,0
 Whitley,Secretary Of State,,Joe Pearson,Democratic,3767
 Whitley,Secretary Of State,,Mike Kole,Libertarian,305
 Whitley,Secretary Of State,,Todd Rokita,Republican,5764
@@ -2152,7 +2152,7 @@ Whitley,Treasurer Of State,,Michael W Griffin,Democratic,3587
 Whitley,Treasurer Of State,,Richard E Mourdock,Republican,5884
 Whitley,U.S. House,3,Thomas E Hayhurst,Democratic,4505
 Whitley,U.S. House,3,Mark E Souder,Republican,5300
-Whitley,State Senator,17,Gary Dillon,Republican,7989
+Whitley,State Senate,17,Gary Dillon,Republican,7989
 Whitley,State House,82,Jeffrey Keller Espich,Republican,0
 Whitley,State House,83,Matthew P Bell,Republican,2184
 Whitley,Prosecuting Attorney,Whitley 82Nd Circuit,Matthew J Rentschler,Republican,7983

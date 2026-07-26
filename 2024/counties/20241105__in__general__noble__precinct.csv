@@ -8,10 +8,10 @@ Noble,Washington 1,President and Vice-President of the U.S.,,DEM,Harris \ Walz,4
 Noble,Washington 1,President and Vice-President of the U.S.,,LIB,Oliver \ Ter Maat,2,0,1,3
 Noble,Washington 1,President and Vice-President of the U.S.,,WTP,Kennedy Jr. \ Shanahan,2,0,1,3
 Noble,Washington 1,President and Vice-President of the U.S.,,,Write-In,1,0,0,1
-Noble,Washington 1,United States Senator,,REP,Jim Banks,192,16,181,389
-Noble,Washington 1,United States Senator,,DEM,Valerie McCray,44,8,53,105
-Noble,Washington 1,United States Senator,,LIB,Andrew Horning,6,0,4,10
-Noble,Washington 1,United States Senator,,,Write-In,0,0,0,0
+Noble,Washington 1,U.S. Senate,,REP,Jim Banks,192,16,181,389
+Noble,Washington 1,U.S. Senate,,DEM,Valerie McCray,44,8,53,105
+Noble,Washington 1,U.S. Senate,,LIB,Andrew Horning,6,0,4,10
+Noble,Washington 1,U.S. Senate,,,Write-In,0,0,0,0
 Noble,Washington 1,Governor And Lieutenant Governor,,REP,Braun \ Beckwith,168,12,176,356
 Noble,Washington 1,Governor And Lieutenant Governor,,DEM,Mccormick \ Goodin,54,10,56,120
 Noble,Washington 1,Governor And Lieutenant Governor,,LIB,Rainwater \ Hudson,21,1,8,30
@@ -22,7 +22,7 @@ Noble,Washington 1,United States Representative,3,REP,Marlin A. Stutzman,192,12,
 Noble,Washington 1,United States Representative,3,DEM,Kiley M. Adolph,46,9,54,109
 Noble,Washington 1,United States Representative,3,LIB,Jarrad Lancaster,10,2,7,19
 Noble,Washington 1,United States Representative,3,,Write-In,0,0,0,0
-Noble,Washington 1,State Senator,13,REP,C. Susan Glick,216,18,206,440
+Noble,Washington 1,State Senate,13,REP,C. Susan Glick,216,18,206,440
 Noble,Washington 1,State Representative,18,REP,David H. Abbott,208,17,196,421
 Noble,Washington 1,Judge of the Superior Court No. 1,,REP,Steven Thomas Clouse,209,18,191,418
 Noble,Washington 1,Circuit Court Clerk,,REP,Tammy Bremer,206,18,193,417
@@ -57,10 +57,10 @@ Noble,Sparta 2,President and Vice-President of the U.S.,,DEM,Harris \ Walz,78,21
 Noble,Sparta 2,President and Vice-President of the U.S.,,LIB,Oliver \ Ter Maat,3,0,6,9
 Noble,Sparta 2,President and Vice-President of the U.S.,,WTP,Kennedy Jr. \ Shanahan,3,0,0,3
 Noble,Sparta 2,President and Vice-President of the U.S.,,,Write-In,0,0,1,1
-Noble,Sparta 2,United States Senator,,REP,Jim Banks,338,16,384,738
-Noble,Sparta 2,United States Senator,,DEM,Valerie McCray,72,21,102,195
-Noble,Sparta 2,United States Senator,,LIB,Andrew Horning,12,0,12,24
-Noble,Sparta 2,United States Senator,,,Write-In,0,0,0,0
+Noble,Sparta 2,U.S. Senate,,REP,Jim Banks,338,16,384,738
+Noble,Sparta 2,U.S. Senate,,DEM,Valerie McCray,72,21,102,195
+Noble,Sparta 2,U.S. Senate,,LIB,Andrew Horning,12,0,12,24
+Noble,Sparta 2,U.S. Senate,,,Write-In,0,0,0,0
 Noble,Sparta 2,Governor And Lieutenant Governor,,REP,Braun \ Beckwith,279,16,349,644
 Noble,Sparta 2,Governor And Lieutenant Governor,,DEM,Mccormick \ Goodin,95,21,125,241
 Noble,Sparta 2,Governor And Lieutenant Governor,,LIB,Rainwater \ Hudson,45,0,25,70
@@ -71,7 +71,7 @@ Noble,Sparta 2,United States Representative,3,REP,Marlin A. Stutzman,317,16,382,
 Noble,Sparta 2,United States Representative,3,DEM,Kiley M. Adolph,78,20,100,198
 Noble,Sparta 2,United States Representative,3,LIB,Jarrad Lancaster,22,0,19,41
 Noble,Sparta 2,United States Representative,3,,Write-In,0,0,0,0
-Noble,Sparta 2,State Senator,13,REP,C. Susan Glick,363,19,431,813
+Noble,Sparta 2,State Senate,13,REP,C. Susan Glick,363,19,431,813
 Noble,Sparta 2,State Representative,18,REP,David H. Abbott,360,19,422,801
 Noble,Sparta 2,Judge of the Superior Court No. 1,,REP,Steven Thomas Clouse,356,20,429,805
 Noble,Sparta 2,Circuit Court Clerk,,REP,Tammy Bremer,359,20,417,796
@@ -106,10 +106,10 @@ Noble,Perry 3,President and Vice-President of the U.S.,,DEM,Harris \ Walz,45,12,
 Noble,Perry 3,President and Vice-President of the U.S.,,LIB,Oliver \ Ter Maat,2,0,1,3
 Noble,Perry 3,President and Vice-President of the U.S.,,WTP,Kennedy Jr. \ Shanahan,1,0,0,1
 Noble,Perry 3,President and Vice-President of the U.S.,,,Write-In,0,0,1,1
-Noble,Perry 3,United States Senator,,REP,Jim Banks,196,9,194,399
-Noble,Perry 3,United States Senator,,DEM,Valerie McCray,42,12,41,95
-Noble,Perry 3,United States Senator,,LIB,Andrew Horning,4,0,3,7
-Noble,Perry 3,United States Senator,,,Write-In,0,0,0,0
+Noble,Perry 3,U.S. Senate,,REP,Jim Banks,196,9,194,399
+Noble,Perry 3,U.S. Senate,,DEM,Valerie McCray,42,12,41,95
+Noble,Perry 3,U.S. Senate,,LIB,Andrew Horning,4,0,3,7
+Noble,Perry 3,U.S. Senate,,,Write-In,0,0,0,0
 Noble,Perry 3,Governor And Lieutenant Governor,,REP,Braun \ Beckwith,181,7,181,369
 Noble,Perry 3,Governor And Lieutenant Governor,,DEM,Mccormick \ Goodin,45,13,46,104
 Noble,Perry 3,Governor And Lieutenant Governor,,LIB,Rainwater \ Hudson,20,1,13,34
@@ -120,7 +120,7 @@ Noble,Perry 3,United States Representative,3,REP,Marlin A. Stutzman,193,8,188,38
 Noble,Perry 3,United States Representative,3,DEM,Kiley M. Adolph,40,10,40,90
 Noble,Perry 3,United States Representative,3,LIB,Jarrad Lancaster,9,1,6,16
 Noble,Perry 3,United States Representative,3,,Write-In,0,0,0,0
-Noble,Perry 3,State Senator,13,REP,C. Susan Glick,205,15,212,432
+Noble,Perry 3,State Senate,13,REP,C. Susan Glick,205,15,212,432
 Noble,Perry 3,State Representative,18,REP,David H. Abbott,203,14,211,428
 Noble,Perry 3,Judge of the Superior Court No. 1,,REP,Steven Thomas Clouse,205,15,203,423
 Noble,Perry 3,Circuit Court Clerk,,REP,Tammy Bremer,203,14,204,421
@@ -155,10 +155,10 @@ Noble,Perry 4,President and Vice-President of the U.S.,,DEM,Harris \ Walz,46,4,2
 Noble,Perry 4,President and Vice-President of the U.S.,,LIB,Oliver \ Ter Maat,0,0,0,0
 Noble,Perry 4,President and Vice-President of the U.S.,,WTP,Kennedy Jr. \ Shanahan,3,0,0,3
 Noble,Perry 4,President and Vice-President of the U.S.,,,Write-In,1,0,0,1
-Noble,Perry 4,United States Senator,,REP,Jim Banks,77,1,64,142
-Noble,Perry 4,United States Senator,,DEM,Valerie McCray,42,4,21,67
-Noble,Perry 4,United States Senator,,LIB,Andrew Horning,4,0,0,4
-Noble,Perry 4,United States Senator,,,Write-In,0,0,0,0
+Noble,Perry 4,U.S. Senate,,REP,Jim Banks,77,1,64,142
+Noble,Perry 4,U.S. Senate,,DEM,Valerie McCray,42,4,21,67
+Noble,Perry 4,U.S. Senate,,LIB,Andrew Horning,4,0,0,4
+Noble,Perry 4,U.S. Senate,,,Write-In,0,0,0,0
 Noble,Perry 4,Governor And Lieutenant Governor,,REP,Braun \ Beckwith,75,1,62,138
 Noble,Perry 4,Governor And Lieutenant Governor,,DEM,Mccormick \ Goodin,41,4,22,67
 Noble,Perry 4,Governor And Lieutenant Governor,,LIB,Rainwater \ Hudson,9,0,2,11
@@ -169,7 +169,7 @@ Noble,Perry 4,United States Representative,3,REP,Marlin A. Stutzman,79,1,67,147
 Noble,Perry 4,United States Representative,3,DEM,Kiley M. Adolph,42,4,20,66
 Noble,Perry 4,United States Representative,3,LIB,Jarrad Lancaster,5,0,2,7
 Noble,Perry 4,United States Representative,3,,Write-In,0,0,0,0
-Noble,Perry 4,State Senator,13,REP,C. Susan Glick,91,3,73,167
+Noble,Perry 4,State Senate,13,REP,C. Susan Glick,91,3,73,167
 Noble,Perry 4,State Representative,18,REP,David H. Abbott,98,3,70,171
 Noble,Perry 4,Judge of the Superior Court No. 1,,REP,Steven Thomas Clouse,91,3,66,160
 Noble,Perry 4,Circuit Court Clerk,,REP,Tammy Bremer,91,3,67,161
@@ -204,10 +204,10 @@ Noble,Perry 5,President and Vice-President of the U.S.,,DEM,Harris \ Walz,29,6,1
 Noble,Perry 5,President and Vice-President of the U.S.,,LIB,Oliver \ Ter Maat,1,0,1,2
 Noble,Perry 5,President and Vice-President of the U.S.,,WTP,Kennedy Jr. \ Shanahan,1,0,2,3
 Noble,Perry 5,President and Vice-President of the U.S.,,,Write-In,0,0,0,0
-Noble,Perry 5,United States Senator,,REP,Jim Banks,56,2,43,101
-Noble,Perry 5,United States Senator,,DEM,Valerie McCray,26,6,14,46
-Noble,Perry 5,United States Senator,,LIB,Andrew Horning,6,0,1,7
-Noble,Perry 5,United States Senator,,,Write-In,0,0,0,0
+Noble,Perry 5,U.S. Senate,,REP,Jim Banks,56,2,43,101
+Noble,Perry 5,U.S. Senate,,DEM,Valerie McCray,26,6,14,46
+Noble,Perry 5,U.S. Senate,,LIB,Andrew Horning,6,0,1,7
+Noble,Perry 5,U.S. Senate,,,Write-In,0,0,0,0
 Noble,Perry 5,Governor And Lieutenant Governor,,REP,Braun \ Beckwith,49,2,40,91
 Noble,Perry 5,Governor And Lieutenant Governor,,DEM,Mccormick \ Goodin,27,6,16,49
 Noble,Perry 5,Governor And Lieutenant Governor,,LIB,Rainwater \ Hudson,9,0,3,12
@@ -218,7 +218,7 @@ Noble,Perry 5,United States Representative,3,REP,Marlin A. Stutzman,58,2,41,101
 Noble,Perry 5,United States Representative,3,DEM,Kiley M. Adolph,26,5,16,47
 Noble,Perry 5,United States Representative,3,LIB,Jarrad Lancaster,4,1,2,7
 Noble,Perry 5,United States Representative,3,,Write-In,0,0,0,0
-Noble,Perry 5,State Senator,13,REP,C. Susan Glick,70,3,50,123
+Noble,Perry 5,State Senate,13,REP,C. Susan Glick,70,3,50,123
 Noble,Perry 5,State Representative,18,REP,David H. Abbott,71,3,44,118
 Noble,Perry 5,Judge of the Superior Court No. 1,,REP,Steven Thomas Clouse,66,3,49,118
 Noble,Perry 5,Circuit Court Clerk,,REP,Tammy Bremer,72,3,43,118
@@ -253,10 +253,10 @@ Noble,Perry 6,President and Vice-President of the U.S.,,DEM,Harris \ Walz,110,15
 Noble,Perry 6,President and Vice-President of the U.S.,,LIB,Oliver \ Ter Maat,1,1,0,2
 Noble,Perry 6,President and Vice-President of the U.S.,,WTP,Kennedy Jr. \ Shanahan,3,1,4,8
 Noble,Perry 6,President and Vice-President of the U.S.,,,Write-In,4,0,0,4
-Noble,Perry 6,United States Senator,,REP,Jim Banks,169,14,144,327
-Noble,Perry 6,United States Senator,,DEM,Valerie McCray,91,13,36,140
-Noble,Perry 6,United States Senator,,LIB,Andrew Horning,8,0,6,14
-Noble,Perry 6,United States Senator,,,Write-In,0,0,0,0
+Noble,Perry 6,U.S. Senate,,REP,Jim Banks,169,14,144,327
+Noble,Perry 6,U.S. Senate,,DEM,Valerie McCray,91,13,36,140
+Noble,Perry 6,U.S. Senate,,LIB,Andrew Horning,8,0,6,14
+Noble,Perry 6,U.S. Senate,,,Write-In,0,0,0,0
 Noble,Perry 6,Governor And Lieutenant Governor,,REP,Braun \ Beckwith,146,12,133,291
 Noble,Perry 6,Governor And Lieutenant Governor,,DEM,Mccormick \ Goodin,109,13,43,165
 Noble,Perry 6,Governor And Lieutenant Governor,,LIB,Rainwater \ Hudson,14,2,9,25
@@ -267,7 +267,7 @@ Noble,Perry 6,United States Representative,3,REP,Marlin A. Stutzman,160,14,139,3
 Noble,Perry 6,United States Representative,3,DEM,Kiley M. Adolph,94,12,38,144
 Noble,Perry 6,United States Representative,3,LIB,Jarrad Lancaster,17,1,10,28
 Noble,Perry 6,United States Representative,3,,Write-In,0,0,0,0
-Noble,Perry 6,State Senator,13,REP,C. Susan Glick,213,15,147,375
+Noble,Perry 6,State Senate,13,REP,C. Susan Glick,213,15,147,375
 Noble,Perry 6,State Representative,18,REP,David H. Abbott,205,13,148,366
 Noble,Perry 6,Judge of the Superior Court No. 1,,REP,Steven Thomas Clouse,205,15,154,374
 Noble,Perry 6,Circuit Court Clerk,,REP,Tammy Bremer,207,15,148,370
@@ -302,10 +302,10 @@ Noble,Elkhart 7,President and Vice-President of the U.S.,,DEM,Harris \ Walz,29,7
 Noble,Elkhart 7,President and Vice-President of the U.S.,,LIB,Oliver \ Ter Maat,1,0,1,2
 Noble,Elkhart 7,President and Vice-President of the U.S.,,WTP,Kennedy Jr. \ Shanahan,2,0,4,6
 Noble,Elkhart 7,President and Vice-President of the U.S.,,,Write-In,0,0,2,2
-Noble,Elkhart 7,United States Senator,,REP,Jim Banks,226,9,227,462
-Noble,Elkhart 7,United States Senator,,DEM,Valerie McCray,23,6,50,79
-Noble,Elkhart 7,United States Senator,,LIB,Andrew Horning,2,0,7,9
-Noble,Elkhart 7,United States Senator,,,Write-In,0,0,1,1
+Noble,Elkhart 7,U.S. Senate,,REP,Jim Banks,226,9,227,462
+Noble,Elkhart 7,U.S. Senate,,DEM,Valerie McCray,23,6,50,79
+Noble,Elkhart 7,U.S. Senate,,LIB,Andrew Horning,2,0,7,9
+Noble,Elkhart 7,U.S. Senate,,,Write-In,0,0,1,1
 Noble,Elkhart 7,Governor And Lieutenant Governor,,REP,Braun \ Beckwith,194,9,205,408
 Noble,Elkhart 7,Governor And Lieutenant Governor,,DEM,Mccormick \ Goodin,30,7,61,98
 Noble,Elkhart 7,Governor And Lieutenant Governor,,LIB,Rainwater \ Hudson,23,0,18,41
@@ -316,7 +316,7 @@ Noble,Elkhart 7,United States Representative,3,REP,Marlin A. Stutzman,217,9,218,
 Noble,Elkhart 7,United States Representative,3,DEM,Kiley M. Adolph,24,7,52,83
 Noble,Elkhart 7,United States Representative,3,LIB,Jarrad Lancaster,9,0,15,24
 Noble,Elkhart 7,United States Representative,3,,Write-In,0,0,0,0
-Noble,Elkhart 7,State Senator,13,REP,C. Susan Glick,235,11,246,492
+Noble,Elkhart 7,State Senate,13,REP,C. Susan Glick,235,11,246,492
 Noble,Elkhart 7,State Representative,18,REP,David H. Abbott,226,10,235,471
 Noble,Elkhart 7,Judge of the Superior Court No. 1,,REP,Steven Thomas Clouse,212,11,245,468
 Noble,Elkhart 7,Circuit Court Clerk,,REP,Tammy Bremer,219,11,237,467
@@ -351,10 +351,10 @@ Noble,York 8,President and Vice-President of the U.S.,,DEM,Harris \ Walz,66,6,90
 Noble,York 8,President and Vice-President of the U.S.,,LIB,Oliver \ Ter Maat,1,1,3,5
 Noble,York 8,President and Vice-President of the U.S.,,WTP,Kennedy Jr. \ Shanahan,3,0,1,4
 Noble,York 8,President and Vice-President of the U.S.,,,Write-In,0,0,0,0
-Noble,York 8,United States Senator,,REP,Jim Banks,260,13,338,611
-Noble,York 8,United States Senator,,DEM,Valerie McCray,53,8,79,140
-Noble,York 8,United States Senator,,LIB,Andrew Horning,15,1,10,26
-Noble,York 8,United States Senator,,,Write-In,0,0,0,0
+Noble,York 8,U.S. Senate,,REP,Jim Banks,260,13,338,611
+Noble,York 8,U.S. Senate,,DEM,Valerie McCray,53,8,79,140
+Noble,York 8,U.S. Senate,,LIB,Andrew Horning,15,1,10,26
+Noble,York 8,U.S. Senate,,,Write-In,0,0,0,0
 Noble,York 8,Governor And Lieutenant Governor,,REP,Braun \ Beckwith,221,10,317,548
 Noble,York 8,Governor And Lieutenant Governor,,DEM,Mccormick \ Goodin,67,8,91,166
 Noble,York 8,Governor And Lieutenant Governor,,LIB,Rainwater \ Hudson,40,2,22,64
@@ -365,7 +365,7 @@ Noble,York 8,United States Representative,3,REP,Marlin A. Stutzman,256,10,336,60
 Noble,York 8,United States Representative,3,DEM,Kiley M. Adolph,57,9,76,142
 Noble,York 8,United States Representative,3,LIB,Jarrad Lancaster,15,1,12,28
 Noble,York 8,United States Representative,3,,Write-In,0,0,0,0
-Noble,York 8,State Senator,13,REP,C. Susan Glick,293,16,371,680
+Noble,York 8,State Senate,13,REP,C. Susan Glick,293,16,371,680
 Noble,York 8,State Representative,18,REP,David H. Abbott,273,16,356,645
 Noble,York 8,Judge of the Superior Court No. 1,,REP,Steven Thomas Clouse,272,16,362,650
 Noble,York 8,Circuit Court Clerk,,REP,Tammy Bremer,273,13,339,625
@@ -401,10 +401,10 @@ Noble,Noble 9,President and Vice-President of the U.S.,,DEM,Harris \ Walz,73,12,
 Noble,Noble 9,President and Vice-President of the U.S.,,LIB,Oliver \ Ter Maat,3,0,0,3
 Noble,Noble 9,President and Vice-President of the U.S.,,WTP,Kennedy Jr. \ Shanahan,6,0,2,8
 Noble,Noble 9,President and Vice-President of the U.S.,,,Write-In,2,0,1,3
-Noble,Noble 9,United States Senator,,REP,Jim Banks,325,16,290,631
-Noble,Noble 9,United States Senator,,DEM,Valerie McCray,63,10,85,158
-Noble,Noble 9,United States Senator,,LIB,Andrew Horning,15,0,4,19
-Noble,Noble 9,United States Senator,,,Write-In,0,0,0,0
+Noble,Noble 9,U.S. Senate,,REP,Jim Banks,325,16,290,631
+Noble,Noble 9,U.S. Senate,,DEM,Valerie McCray,63,10,85,158
+Noble,Noble 9,U.S. Senate,,LIB,Andrew Horning,15,0,4,19
+Noble,Noble 9,U.S. Senate,,,Write-In,0,0,0,0
 Noble,Noble 9,Governor And Lieutenant Governor,,REP,Braun \ Beckwith,290,17,269,576
 Noble,Noble 9,Governor And Lieutenant Governor,,DEM,Mccormick \ Goodin,73,9,91,173
 Noble,Noble 9,Governor And Lieutenant Governor,,LIB,Rainwater \ Hudson,37,1,24,62
@@ -415,7 +415,7 @@ Noble,Noble 9,United States Representative,3,REP,Marlin A. Stutzman,313,18,287,6
 Noble,Noble 9,United States Representative,3,DEM,Kiley M. Adolph,66,8,86,160
 Noble,Noble 9,United States Representative,3,LIB,Jarrad Lancaster,22,0,10,32
 Noble,Noble 9,United States Representative,3,,Write-In,1,0,0,1
-Noble,Noble 9,State Senator,13,REP,C. Susan Glick,349,19,317,685
+Noble,Noble 9,State Senate,13,REP,C. Susan Glick,349,19,317,685
 Noble,Noble 9,State Representative,18,REP,David H. Abbott,334,18,311,663
 Noble,Noble 9,Judge of the Superior Court No. 1,,REP,Steven Thomas Clouse,342,21,310,673
 Noble,Noble 9,Circuit Court Clerk,,REP,Tammy Bremer,336,20,309,665
@@ -451,10 +451,10 @@ Noble,Green 10,President and Vice-President of the U.S.,,DEM,Harris \ Walz,73,14
 Noble,Green 10,President and Vice-President of the U.S.,,LIB,Oliver \ Ter Maat,5,0,4,9
 Noble,Green 10,President and Vice-President of the U.S.,,WTP,Kennedy Jr. \ Shanahan,5,1,3,9
 Noble,Green 10,President and Vice-President of the U.S.,,,Write-In,0,0,0,0
-Noble,Green 10,United States Senator,,REP,Jim Banks,355,24,451,830
-Noble,Green 10,United States Senator,,DEM,Valerie McCray,63,14,123,200
-Noble,Green 10,United States Senator,,LIB,Andrew Horning,11,0,11,22
-Noble,Green 10,United States Senator,,,Write-In,1,0,1,2
+Noble,Green 10,U.S. Senate,,REP,Jim Banks,355,24,451,830
+Noble,Green 10,U.S. Senate,,DEM,Valerie McCray,63,14,123,200
+Noble,Green 10,U.S. Senate,,LIB,Andrew Horning,11,0,11,22
+Noble,Green 10,U.S. Senate,,,Write-In,1,0,1,2
 Noble,Green 10,Governor And Lieutenant Governor,,REP,Braun \ Beckwith,322,23,420,765
 Noble,Green 10,Governor And Lieutenant Governor,,DEM,Mccormick \ Goodin,81,14,134,229
 Noble,Green 10,Governor And Lieutenant Governor,,LIB,Rainwater \ Hudson,30,1,34,65
@@ -465,7 +465,7 @@ Noble,Green 10,United States Representative,3,REP,Marlin A. Stutzman,340,24,442,
 Noble,Green 10,United States Representative,3,DEM,Kiley M. Adolph,74,14,131,219
 Noble,Green 10,United States Representative,3,LIB,Jarrad Lancaster,18,0,11,29
 Noble,Green 10,United States Representative,3,,Write-In,0,0,0,0
-Noble,Green 10,State Senator,13,REP,C. Susan Glick,386,23,484,893
+Noble,Green 10,State Senate,13,REP,C. Susan Glick,386,23,484,893
 Noble,Green 10,State Representative,18,REP,David H. Abbott,369,25,463,857
 Noble,Green 10,Judge of the Superior Court No. 1,,REP,Steven Thomas Clouse,371,25,470,866
 Noble,Green 10,Circuit Court Clerk,,REP,Tammy Bremer,365,25,453,843
@@ -502,10 +502,10 @@ Noble,Jefferson 11,President and Vice-President of the U.S.,,DEM,Harris \ Walz,4
 Noble,Jefferson 11,President and Vice-President of the U.S.,,LIB,Oliver \ Ter Maat,4,0,1,5
 Noble,Jefferson 11,President and Vice-President of the U.S.,,WTP,Kennedy Jr. \ Shanahan,3,0,0,3
 Noble,Jefferson 11,President and Vice-President of the U.S.,,,Write-In,0,0,1,1
-Noble,Jefferson 11,United States Senator,,REP,Jim Banks,233,17,395,645
-Noble,Jefferson 11,United States Senator,,DEM,Valerie McCray,42,6,103,151
-Noble,Jefferson 11,United States Senator,,LIB,Andrew Horning,14,0,12,26
-Noble,Jefferson 11,United States Senator,,,Write-In,0,0,0,0
+Noble,Jefferson 11,U.S. Senate,,REP,Jim Banks,233,17,395,645
+Noble,Jefferson 11,U.S. Senate,,DEM,Valerie McCray,42,6,103,151
+Noble,Jefferson 11,U.S. Senate,,LIB,Andrew Horning,14,0,12,26
+Noble,Jefferson 11,U.S. Senate,,,Write-In,0,0,0,0
 Noble,Jefferson 11,Governor And Lieutenant Governor,,REP,Braun \ Beckwith,209,18,359,586
 Noble,Jefferson 11,Governor And Lieutenant Governor,,DEM,Mccormick \ Goodin,55,5,119,179
 Noble,Jefferson 11,Governor And Lieutenant Governor,,LIB,Rainwater \ Hudson,27,0,28,55
@@ -516,7 +516,7 @@ Noble,Jefferson 11,United States Representative,3,REP,Marlin A. Stutzman,222,17,
 Noble,Jefferson 11,United States Representative,3,DEM,Kiley M. Adolph,45,6,97,148
 Noble,Jefferson 11,United States Representative,3,LIB,Jarrad Lancaster,22,0,16,38
 Noble,Jefferson 11,United States Representative,3,,Write-In,0,0,0,0
-Noble,Jefferson 11,State Senator,13,REP,C. Susan Glick,258,16,423,697
+Noble,Jefferson 11,State Senate,13,REP,C. Susan Glick,258,16,423,697
 Noble,Jefferson 11,State Representative,18,REP,David H. Abbott,239,17,408,664
 Noble,Jefferson 11,Judge of the Superior Court No. 1,,REP,Steven Thomas Clouse,241,15,407,663
 Noble,Jefferson 11,Circuit Court Clerk,,REP,Tammy Bremer,234,16,382,632
@@ -552,10 +552,10 @@ Noble,Orange 12,President and Vice-President of the U.S.,,DEM,Harris \ Walz,72,9
 Noble,Orange 12,President and Vice-President of the U.S.,,LIB,Oliver \ Ter Maat,3,0,3,6
 Noble,Orange 12,President and Vice-President of the U.S.,,WTP,Kennedy Jr. \ Shanahan,5,1,0,6
 Noble,Orange 12,President and Vice-President of the U.S.,,,Write-In,0,0,0,0
-Noble,Orange 12,United States Senator,,REP,Jim Banks,281,10,152,443
-Noble,Orange 12,United States Senator,,DEM,Valerie McCray,65,9,41,115
-Noble,Orange 12,United States Senator,,LIB,Andrew Horning,9,1,4,14
-Noble,Orange 12,United States Senator,,,Write-In,0,0,0,0
+Noble,Orange 12,U.S. Senate,,REP,Jim Banks,281,10,152,443
+Noble,Orange 12,U.S. Senate,,DEM,Valerie McCray,65,9,41,115
+Noble,Orange 12,U.S. Senate,,LIB,Andrew Horning,9,1,4,14
+Noble,Orange 12,U.S. Senate,,,Write-In,0,0,0,0
 Noble,Orange 12,Governor And Lieutenant Governor,,REP,Braun \ Beckwith,258,10,138,406
 Noble,Orange 12,Governor And Lieutenant Governor,,DEM,Mccormick \ Goodin,78,9,53,140
 Noble,Orange 12,Governor And Lieutenant Governor,,LIB,Rainwater \ Hudson,20,1,7,28
@@ -566,7 +566,7 @@ Noble,Orange 12,United States Representative,3,REP,Marlin A. Stutzman,281,8,152,
 Noble,Orange 12,United States Representative,3,DEM,Kiley M. Adolph,64,9,40,113
 Noble,Orange 12,United States Representative,3,LIB,Jarrad Lancaster,16,2,8,26
 Noble,Orange 12,United States Representative,3,,Write-In,0,0,0,0
-Noble,Orange 12,State Senator,13,REP,C. Susan Glick,319,13,175,507
+Noble,Orange 12,State Senate,13,REP,C. Susan Glick,319,13,175,507
 Noble,Orange 12,State Representative,18,REP,David H. Abbott,314,12,171,497
 Noble,Orange 12,Judge of the Superior Court No. 1,,REP,Steven Thomas Clouse,294,12,166,472
 Noble,Orange 12,Circuit Court Clerk,,REP,Tammy Bremer,290,10,157,457
@@ -605,10 +605,10 @@ Noble,Orange 13,President and Vice-President of the U.S.,,DEM,Harris \ Walz,85,3
 Noble,Orange 13,President and Vice-President of the U.S.,,LIB,Oliver \ Ter Maat,3,0,0,3
 Noble,Orange 13,President and Vice-President of the U.S.,,WTP,Kennedy Jr. \ Shanahan,4,0,3,7
 Noble,Orange 13,President and Vice-President of the U.S.,,,Write-In,1,0,1,2
-Noble,Orange 13,United States Senator,,REP,Jim Banks,313,34,308,655
-Noble,Orange 13,United States Senator,,DEM,Valerie McCray,85,31,95,211
-Noble,Orange 13,United States Senator,,LIB,Andrew Horning,14,3,2,19
-Noble,Orange 13,United States Senator,,,Write-In,0,0,0,0
+Noble,Orange 13,U.S. Senate,,REP,Jim Banks,313,34,308,655
+Noble,Orange 13,U.S. Senate,,DEM,Valerie McCray,85,31,95,211
+Noble,Orange 13,U.S. Senate,,LIB,Andrew Horning,14,3,2,19
+Noble,Orange 13,U.S. Senate,,,Write-In,0,0,0,0
 Noble,Orange 13,Governor And Lieutenant Governor,,REP,Braun \ Beckwith,281,34,288,603
 Noble,Orange 13,Governor And Lieutenant Governor,,DEM,Mccormick \ Goodin,91,31,110,232
 Noble,Orange 13,Governor And Lieutenant Governor,,LIB,Rainwater \ Hudson,37,3,7,47
@@ -619,7 +619,7 @@ Noble,Orange 13,United States Representative,3,REP,Marlin A. Stutzman,320,36,307
 Noble,Orange 13,United States Representative,3,DEM,Kiley M. Adolph,80,29,95,204
 Noble,Orange 13,United States Representative,3,LIB,Jarrad Lancaster,14,2,9,25
 Noble,Orange 13,United States Representative,3,,Write-In,0,0,0,0
-Noble,Orange 13,State Senator,13,REP,C. Susan Glick,359,47,341,747
+Noble,Orange 13,State Senate,13,REP,C. Susan Glick,359,47,341,747
 Noble,Orange 13,State Representative,18,REP,David H. Abbott,360,46,336,742
 Noble,Orange 13,Judge of the Superior Court No. 1,,REP,Steven Thomas Clouse,341,50,321,712
 Noble,Orange 13,Circuit Court Clerk,,REP,Tammy Bremer,343,50,316,709
@@ -658,10 +658,10 @@ Noble,Orange 14,President and Vice-President of the U.S.,,DEM,Harris \ Walz,23,5
 Noble,Orange 14,President and Vice-President of the U.S.,,LIB,Oliver \ Ter Maat,2,1,0,3
 Noble,Orange 14,President and Vice-President of the U.S.,,WTP,Kennedy Jr. \ Shanahan,4,0,0,4
 Noble,Orange 14,President and Vice-President of the U.S.,,,Write-In,0,0,0,0
-Noble,Orange 14,United States Senator,,REP,Jim Banks,139,4,43,186
-Noble,Orange 14,United States Senator,,DEM,Valerie McCray,28,4,18,50
-Noble,Orange 14,United States Senator,,LIB,Andrew Horning,5,1,1,7
-Noble,Orange 14,United States Senator,,,Write-In,0,0,0,0
+Noble,Orange 14,U.S. Senate,,REP,Jim Banks,139,4,43,186
+Noble,Orange 14,U.S. Senate,,DEM,Valerie McCray,28,4,18,50
+Noble,Orange 14,U.S. Senate,,LIB,Andrew Horning,5,1,1,7
+Noble,Orange 14,U.S. Senate,,,Write-In,0,0,0,0
 Noble,Orange 14,Governor And Lieutenant Governor,,REP,Braun \ Beckwith,127,3,39,169
 Noble,Orange 14,Governor And Lieutenant Governor,,DEM,Mccormick \ Goodin,32,6,21,59
 Noble,Orange 14,Governor And Lieutenant Governor,,LIB,Rainwater \ Hudson,14,1,2,17
@@ -672,7 +672,7 @@ Noble,Orange 14,United States Representative,3,REP,Marlin A. Stutzman,142,3,39,1
 Noble,Orange 14,United States Representative,3,DEM,Kiley M. Adolph,29,4,20,53
 Noble,Orange 14,United States Representative,3,LIB,Jarrad Lancaster,8,1,3,12
 Noble,Orange 14,United States Representative,3,,Write-In,0,0,0,0
-Noble,Orange 14,State Senator,13,REP,C. Susan Glick,164,5,46,215
+Noble,Orange 14,State Senate,13,REP,C. Susan Glick,164,5,46,215
 Noble,Orange 14,State Representative,18,REP,David H. Abbott,153,5,45,203
 Noble,Orange 14,Judge of the Superior Court No. 1,,REP,Steven Thomas Clouse,155,4,42,201
 Noble,Orange 14,Circuit Court Clerk,,REP,Tammy Bremer,148,5,41,194
@@ -714,10 +714,10 @@ Noble,Wayne 15,President and Vice-President of the U.S.,,DEM,Harris \ Walz,43,24
 Noble,Wayne 15,President and Vice-President of the U.S.,,LIB,Oliver \ Ter Maat,1,0,3,4
 Noble,Wayne 15,President and Vice-President of the U.S.,,WTP,Kennedy Jr. \ Shanahan,3,0,3,6
 Noble,Wayne 15,President and Vice-President of the U.S.,,,Write-In,0,0,0,0
-Noble,Wayne 15,United States Senator,,REP,Jim Banks,218,24,189,431
-Noble,Wayne 15,United States Senator,,DEM,Valerie McCray,36,20,42,98
-Noble,Wayne 15,United States Senator,,LIB,Andrew Horning,6,0,3,9
-Noble,Wayne 15,United States Senator,,,Write-In,0,0,0,0
+Noble,Wayne 15,U.S. Senate,,REP,Jim Banks,218,24,189,431
+Noble,Wayne 15,U.S. Senate,,DEM,Valerie McCray,36,20,42,98
+Noble,Wayne 15,U.S. Senate,,LIB,Andrew Horning,6,0,3,9
+Noble,Wayne 15,U.S. Senate,,,Write-In,0,0,0,0
 Noble,Wayne 15,Governor And Lieutenant Governor,,REP,Braun \ Beckwith,183,26,174,383
 Noble,Wayne 15,Governor And Lieutenant Governor,,DEM,Mccormick \ Goodin,45,18,47,110
 Noble,Wayne 15,Governor And Lieutenant Governor,,LIB,Rainwater \ Hudson,25,0,11,36
@@ -728,7 +728,7 @@ Noble,Wayne 15,United States Representative,3,REP,Marlin A. Stutzman,204,23,188,
 Noble,Wayne 15,United States Representative,3,DEM,Kiley M. Adolph,38,19,39,96
 Noble,Wayne 15,United States Representative,3,LIB,Jarrad Lancaster,17,2,5,24
 Noble,Wayne 15,United States Representative,3,,Write-In,0,0,0,0
-Noble,Wayne 15,State Senator,13,REP,C. Susan Glick,242,33,205,480
+Noble,Wayne 15,State Senate,13,REP,C. Susan Glick,242,33,205,480
 Noble,Wayne 15,State Representative,52,REP,Ben Smaltz,223,25,191,439
 Noble,Wayne 15,State Representative,52,DEM,Walt Sorg,29,17,37,83
 Noble,Wayne 15,Judge of the Superior Court No. 1,,REP,Steven Thomas Clouse,230,35,203,468
@@ -768,10 +768,10 @@ Noble,Wayne 16,President and Vice-President of the U.S.,,DEM,Harris \ Walz,67,38
 Noble,Wayne 16,President and Vice-President of the U.S.,,LIB,Oliver \ Ter Maat,4,1,5,10
 Noble,Wayne 16,President and Vice-President of the U.S.,,WTP,Kennedy Jr. \ Shanahan,4,2,2,8
 Noble,Wayne 16,President and Vice-President of the U.S.,,,Write-In,0,1,1,2
-Noble,Wayne 16,United States Senator,,REP,Jim Banks,314,36,393,743
-Noble,Wayne 16,United States Senator,,DEM,Valerie McCray,61,34,123,218
-Noble,Wayne 16,United States Senator,,LIB,Andrew Horning,8,5,2,15
-Noble,Wayne 16,United States Senator,,,Write-In,1,0,0,1
+Noble,Wayne 16,U.S. Senate,,REP,Jim Banks,314,36,393,743
+Noble,Wayne 16,U.S. Senate,,DEM,Valerie McCray,61,34,123,218
+Noble,Wayne 16,U.S. Senate,,LIB,Andrew Horning,8,5,2,15
+Noble,Wayne 16,U.S. Senate,,,Write-In,1,0,0,1
 Noble,Wayne 16,Governor And Lieutenant Governor,,REP,Braun \ Beckwith,283,36,366,685
 Noble,Wayne 16,Governor And Lieutenant Governor,,DEM,Mccormick \ Goodin,75,35,149,259
 Noble,Wayne 16,Governor And Lieutenant Governor,,LIB,Rainwater \ Hudson,26,3,12,41
@@ -782,7 +782,7 @@ Noble,Wayne 16,United States Representative,3,REP,Marlin A. Stutzman,315,39,397,
 Noble,Wayne 16,United States Representative,3,DEM,Kiley M. Adolph,63,36,113,212
 Noble,Wayne 16,United States Representative,3,LIB,Jarrad Lancaster,15,1,10,26
 Noble,Wayne 16,United States Representative,3,,Write-In,0,0,0,0
-Noble,Wayne 16,State Senator,13,REP,C. Susan Glick,345,51,451,847
+Noble,Wayne 16,State Senate,13,REP,C. Susan Glick,345,51,451,847
 Noble,Wayne 16,State Representative,52,REP,Ben Smaltz,323,42,403,768
 Noble,Wayne 16,State Representative,52,DEM,Walt Sorg,59,33,111,203
 Noble,Wayne 16,Judge of the Superior Court No. 1,,REP,Steven Thomas Clouse,350,54,449,853
@@ -822,10 +822,10 @@ Noble,Wayne 17,President and Vice-President of the U.S.,,DEM,Harris \ Walz,54,28
 Noble,Wayne 17,President and Vice-President of the U.S.,,LIB,Oliver \ Ter Maat,3,0,1,4
 Noble,Wayne 17,President and Vice-President of the U.S.,,WTP,Kennedy Jr. \ Shanahan,4,1,2,7
 Noble,Wayne 17,President and Vice-President of the U.S.,,,Write-In,0,0,0,0
-Noble,Wayne 17,United States Senator,,REP,Jim Banks,121,30,135,286
-Noble,Wayne 17,United States Senator,,DEM,Valerie McCray,47,23,67,137
-Noble,Wayne 17,United States Senator,,LIB,Andrew Horning,5,0,8,13
-Noble,Wayne 17,United States Senator,,,Write-In,0,0,0,0
+Noble,Wayne 17,U.S. Senate,,REP,Jim Banks,121,30,135,286
+Noble,Wayne 17,U.S. Senate,,DEM,Valerie McCray,47,23,67,137
+Noble,Wayne 17,U.S. Senate,,LIB,Andrew Horning,5,0,8,13
+Noble,Wayne 17,U.S. Senate,,,Write-In,0,0,0,0
 Noble,Wayne 17,Governor And Lieutenant Governor,,REP,Braun \ Beckwith,107,26,119,252
 Noble,Wayne 17,Governor And Lieutenant Governor,,DEM,Mccormick \ Goodin,59,25,74,158
 Noble,Wayne 17,Governor And Lieutenant Governor,,LIB,Rainwater \ Hudson,13,0,11,24
@@ -836,7 +836,7 @@ Noble,Wayne 17,United States Representative,3,REP,Marlin A. Stutzman,121,29,136,
 Noble,Wayne 17,United States Representative,3,DEM,Kiley M. Adolph,50,25,66,141
 Noble,Wayne 17,United States Representative,3,LIB,Jarrad Lancaster,8,0,5,13
 Noble,Wayne 17,United States Representative,3,,Write-In,0,0,0,0
-Noble,Wayne 17,State Senator,13,REP,C. Susan Glick,155,35,169,359
+Noble,Wayne 17,State Senate,13,REP,C. Susan Glick,155,35,169,359
 Noble,Wayne 17,State Representative,52,REP,Ben Smaltz,128,29,139,296
 Noble,Wayne 17,State Representative,52,DEM,Walt Sorg,51,24,66,141
 Noble,Wayne 17,Judge of the Superior Court No. 1,,REP,Steven Thomas Clouse,150,35,166,351
@@ -876,10 +876,10 @@ Noble,Wayne 18,President and Vice-President of the U.S.,,DEM,Harris \ Walz,107,2
 Noble,Wayne 18,President and Vice-President of the U.S.,,LIB,Oliver \ Ter Maat,3,0,2,5
 Noble,Wayne 18,President and Vice-President of the U.S.,,WTP,Kennedy Jr. \ Shanahan,5,0,5,10
 Noble,Wayne 18,President and Vice-President of the U.S.,,,Write-In,1,0,1,2
-Noble,Wayne 18,United States Senator,,REP,Jim Banks,331,25,332,688
-Noble,Wayne 18,United States Senator,,DEM,Valerie McCray,86,25,136,247
-Noble,Wayne 18,United States Senator,,LIB,Andrew Horning,16,1,16,33
-Noble,Wayne 18,United States Senator,,,Write-In,0,0,0,0
+Noble,Wayne 18,U.S. Senate,,REP,Jim Banks,331,25,332,688
+Noble,Wayne 18,U.S. Senate,,DEM,Valerie McCray,86,25,136,247
+Noble,Wayne 18,U.S. Senate,,LIB,Andrew Horning,16,1,16,33
+Noble,Wayne 18,U.S. Senate,,,Write-In,0,0,0,0
 Noble,Wayne 18,Governor And Lieutenant Governor,,REP,Braun \ Beckwith,286,23,299,608
 Noble,Wayne 18,Governor And Lieutenant Governor,,DEM,Mccormick \ Goodin,110,27,166,303
 Noble,Wayne 18,Governor And Lieutenant Governor,,LIB,Rainwater \ Hudson,41,1,24,66
@@ -890,7 +890,7 @@ Noble,Wayne 18,United States Representative,3,REP,Marlin A. Stutzman,317,27,334,
 Noble,Wayne 18,United States Representative,3,DEM,Kiley M. Adolph,94,20,147,261
 Noble,Wayne 18,United States Representative,3,LIB,Jarrad Lancaster,31,3,15,49
 Noble,Wayne 18,United States Representative,3,,Write-In,0,0,0,0
-Noble,Wayne 18,State Senator,13,REP,C. Susan Glick,367,36,388,791
+Noble,Wayne 18,State Senate,13,REP,C. Susan Glick,367,36,388,791
 Noble,Wayne 18,State Representative,52,REP,Ben Smaltz,341,30,336,707
 Noble,Wayne 18,State Representative,52,DEM,Walt Sorg,93,20,142,255
 Noble,Wayne 18,Judge of the Superior Court No. 1,,REP,Steven Thomas Clouse,370,35,388,793
@@ -930,10 +930,10 @@ Noble,Wayne 19,President and Vice-President of the U.S.,,DEM,Harris \ Walz,64,5,
 Noble,Wayne 19,President and Vice-President of the U.S.,,LIB,Oliver \ Ter Maat,4,0,1,5
 Noble,Wayne 19,President and Vice-President of the U.S.,,WTP,Kennedy Jr. \ Shanahan,7,0,0,7
 Noble,Wayne 19,President and Vice-President of the U.S.,,,Write-In,1,0,0,1
-Noble,Wayne 19,United States Senator,,REP,Jim Banks,171,7,120,298
-Noble,Wayne 19,United States Senator,,DEM,Valerie McCray,60,5,50,115
-Noble,Wayne 19,United States Senator,,LIB,Andrew Horning,9,0,5,14
-Noble,Wayne 19,United States Senator,,,Write-In,0,0,0,0
+Noble,Wayne 19,U.S. Senate,,REP,Jim Banks,171,7,120,298
+Noble,Wayne 19,U.S. Senate,,DEM,Valerie McCray,60,5,50,115
+Noble,Wayne 19,U.S. Senate,,LIB,Andrew Horning,9,0,5,14
+Noble,Wayne 19,U.S. Senate,,,Write-In,0,0,0,0
 Noble,Wayne 19,Governor And Lieutenant Governor,,REP,Braun \ Beckwith,150,6,104,260
 Noble,Wayne 19,Governor And Lieutenant Governor,,DEM,Mccormick \ Goodin,74,5,58,137
 Noble,Wayne 19,Governor And Lieutenant Governor,,LIB,Rainwater \ Hudson,22,1,12,35
@@ -944,7 +944,7 @@ Noble,Wayne 19,United States Representative,3,REP,Marlin A. Stutzman,169,7,121,2
 Noble,Wayne 19,United States Representative,3,DEM,Kiley M. Adolph,56,5,49,110
 Noble,Wayne 19,United States Representative,3,LIB,Jarrad Lancaster,16,0,4,20
 Noble,Wayne 19,United States Representative,3,,Write-In,0,0,0,0
-Noble,Wayne 19,State Senator,13,REP,C. Susan Glick,205,8,141,354
+Noble,Wayne 19,State Senate,13,REP,C. Susan Glick,205,8,141,354
 Noble,Wayne 19,State Representative,52,REP,Ben Smaltz,183,8,122,313
 Noble,Wayne 19,State Representative,52,DEM,Walt Sorg,55,4,48,107
 Noble,Wayne 19,Judge of the Superior Court No. 1,,REP,Steven Thomas Clouse,215,8,143,366
@@ -984,10 +984,10 @@ Noble,Wayne 20,President and Vice-President of the U.S.,,DEM,Harris \ Walz,39,6,
 Noble,Wayne 20,President and Vice-President of the U.S.,,LIB,Oliver \ Ter Maat,2,0,0,2
 Noble,Wayne 20,President and Vice-President of the U.S.,,WTP,Kennedy Jr. \ Shanahan,2,0,0,2
 Noble,Wayne 20,President and Vice-President of the U.S.,,,Write-In,1,0,0,1
-Noble,Wayne 20,United States Senator,,REP,Jim Banks,104,0,45,149
-Noble,Wayne 20,United States Senator,,DEM,Valerie McCray,38,6,16,60
-Noble,Wayne 20,United States Senator,,LIB,Andrew Horning,6,0,2,8
-Noble,Wayne 20,United States Senator,,,Write-In,0,0,0,0
+Noble,Wayne 20,U.S. Senate,,REP,Jim Banks,104,0,45,149
+Noble,Wayne 20,U.S. Senate,,DEM,Valerie McCray,38,6,16,60
+Noble,Wayne 20,U.S. Senate,,LIB,Andrew Horning,6,0,2,8
+Noble,Wayne 20,U.S. Senate,,,Write-In,0,0,0,0
 Noble,Wayne 20,Governor And Lieutenant Governor,,REP,Braun \ Beckwith,97,0,44,141
 Noble,Wayne 20,Governor And Lieutenant Governor,,DEM,Mccormick \ Goodin,41,5,17,63
 Noble,Wayne 20,Governor And Lieutenant Governor,,LIB,Rainwater \ Hudson,12,0,5,17
@@ -998,7 +998,7 @@ Noble,Wayne 20,United States Representative,3,REP,Marlin A. Stutzman,108,0,47,15
 Noble,Wayne 20,United States Representative,3,DEM,Kiley M. Adolph,37,6,17,60
 Noble,Wayne 20,United States Representative,3,LIB,Jarrad Lancaster,9,0,2,11
 Noble,Wayne 20,United States Representative,3,,Write-In,0,0,0,0
-Noble,Wayne 20,State Senator,13,REP,C. Susan Glick,121,0,54,175
+Noble,Wayne 20,State Senate,13,REP,C. Susan Glick,121,0,54,175
 Noble,Wayne 20,State Representative,52,REP,Ben Smaltz,113,0,48,161
 Noble,Wayne 20,State Representative,52,DEM,Walt Sorg,36,5,15,56
 Noble,Wayne 20,Judge of the Superior Court No. 1,,REP,Steven Thomas Clouse,121,1,53,175
@@ -1038,10 +1038,10 @@ Noble,Wayne 21,President and Vice-President of the U.S.,,DEM,Harris \ Walz,82,16
 Noble,Wayne 21,President and Vice-President of the U.S.,,LIB,Oliver \ Ter Maat,4,0,2,6
 Noble,Wayne 21,President and Vice-President of the U.S.,,WTP,Kennedy Jr. \ Shanahan,3,0,2,5
 Noble,Wayne 21,President and Vice-President of the U.S.,,,Write-In,2,0,0,2
-Noble,Wayne 21,United States Senator,,REP,Jim Banks,169,6,143,318
-Noble,Wayne 21,United States Senator,,DEM,Valerie McCray,71,16,61,148
-Noble,Wayne 21,United States Senator,,LIB,Andrew Horning,10,1,8,19
-Noble,Wayne 21,United States Senator,,,Write-In,0,0,0,0
+Noble,Wayne 21,U.S. Senate,,REP,Jim Banks,169,6,143,318
+Noble,Wayne 21,U.S. Senate,,DEM,Valerie McCray,71,16,61,148
+Noble,Wayne 21,U.S. Senate,,LIB,Andrew Horning,10,1,8,19
+Noble,Wayne 21,U.S. Senate,,,Write-In,0,0,0,0
 Noble,Wayne 21,Governor And Lieutenant Governor,,REP,Braun \ Beckwith,152,6,129,287
 Noble,Wayne 21,Governor And Lieutenant Governor,,DEM,Mccormick \ Goodin,76,17,68,161
 Noble,Wayne 21,Governor And Lieutenant Governor,,LIB,Rainwater \ Hudson,24,0,14,38
@@ -1052,7 +1052,7 @@ Noble,Wayne 21,United States Representative,3,REP,Marlin A. Stutzman,176,4,136,3
 Noble,Wayne 21,United States Representative,3,DEM,Kiley M. Adolph,69,17,64,150
 Noble,Wayne 21,United States Representative,3,LIB,Jarrad Lancaster,15,2,13,30
 Noble,Wayne 21,United States Representative,3,,Write-In,0,0,0,0
-Noble,Wayne 21,State Senator,13,REP,C. Susan Glick,202,9,161,372
+Noble,Wayne 21,State Senate,13,REP,C. Susan Glick,202,9,161,372
 Noble,Wayne 21,State Representative,52,REP,Ben Smaltz,182,6,143,331
 Noble,Wayne 21,State Representative,52,DEM,Walt Sorg,71,17,69,157
 Noble,Wayne 21,Judge of the Superior Court No. 1,,REP,Steven Thomas Clouse,199,9,167,375
@@ -1092,10 +1092,10 @@ Noble,Wayne 22,President and Vice-President of the U.S.,,DEM,Harris \ Walz,18,1,
 Noble,Wayne 22,President and Vice-President of the U.S.,,LIB,Oliver \ Ter Maat,0,0,0,0
 Noble,Wayne 22,President and Vice-President of the U.S.,,WTP,Kennedy Jr. \ Shanahan,1,0,0,1
 Noble,Wayne 22,President and Vice-President of the U.S.,,,Write-In,0,0,0,0
-Noble,Wayne 22,United States Senator,,REP,Jim Banks,38,1,34,73
-Noble,Wayne 22,United States Senator,,DEM,Valerie McCray,16,1,16,33
-Noble,Wayne 22,United States Senator,,LIB,Andrew Horning,5,0,2,7
-Noble,Wayne 22,United States Senator,,,Write-In,0,0,0,0
+Noble,Wayne 22,U.S. Senate,,REP,Jim Banks,38,1,34,73
+Noble,Wayne 22,U.S. Senate,,DEM,Valerie McCray,16,1,16,33
+Noble,Wayne 22,U.S. Senate,,LIB,Andrew Horning,5,0,2,7
+Noble,Wayne 22,U.S. Senate,,,Write-In,0,0,0,0
 Noble,Wayne 22,Governor And Lieutenant Governor,,REP,Braun \ Beckwith,35,1,26,62
 Noble,Wayne 22,Governor And Lieutenant Governor,,DEM,Mccormick \ Goodin,17,1,18,36
 Noble,Wayne 22,Governor And Lieutenant Governor,,LIB,Rainwater \ Hudson,7,0,7,14
@@ -1106,7 +1106,7 @@ Noble,Wayne 22,United States Representative,3,REP,Marlin A. Stutzman,36,1,31,68
 Noble,Wayne 22,United States Representative,3,DEM,Kiley M. Adolph,13,1,15,29
 Noble,Wayne 22,United States Representative,3,LIB,Jarrad Lancaster,7,0,3,10
 Noble,Wayne 22,United States Representative,3,,Write-In,0,0,0,0
-Noble,Wayne 22,State Senator,13,REP,C. Susan Glick,47,1,38,86
+Noble,Wayne 22,State Senate,13,REP,C. Susan Glick,47,1,38,86
 Noble,Wayne 22,State Representative,52,REP,Ben Smaltz,40,1,35,76
 Noble,Wayne 22,State Representative,52,DEM,Walt Sorg,17,1,14,32
 Noble,Wayne 22,Judge of the Superior Court No. 1,,REP,Steven Thomas Clouse,45,1,38,84
@@ -1146,10 +1146,10 @@ Noble,Kendallville-Allen 23,President and Vice-President of the U.S.,,DEM,Harris
 Noble,Kendallville-Allen 23,President and Vice-President of the U.S.,,LIB,Oliver \ Ter Maat,1,0,0,1
 Noble,Kendallville-Allen 23,President and Vice-President of the U.S.,,WTP,Kennedy Jr. \ Shanahan,2,0,1,3
 Noble,Kendallville-Allen 23,President and Vice-President of the U.S.,,,Write-In,0,0,0,0
-Noble,Kendallville-Allen 23,United States Senator,,REP,Jim Banks,224,11,132,367
-Noble,Kendallville-Allen 23,United States Senator,,DEM,Valerie McCray,92,8,69,169
-Noble,Kendallville-Allen 23,United States Senator,,LIB,Andrew Horning,13,0,2,15
-Noble,Kendallville-Allen 23,United States Senator,,,Write-In,0,1,0,1
+Noble,Kendallville-Allen 23,U.S. Senate,,REP,Jim Banks,224,11,132,367
+Noble,Kendallville-Allen 23,U.S. Senate,,DEM,Valerie McCray,92,8,69,169
+Noble,Kendallville-Allen 23,U.S. Senate,,LIB,Andrew Horning,13,0,2,15
+Noble,Kendallville-Allen 23,U.S. Senate,,,Write-In,0,1,0,1
 Noble,Kendallville-Allen 23,Governor And Lieutenant Governor,,REP,Braun \ Beckwith,201,9,117,327
 Noble,Kendallville-Allen 23,Governor And Lieutenant Governor,,DEM,Mccormick \ Goodin,103,9,81,193
 Noble,Kendallville-Allen 23,Governor And Lieutenant Governor,,LIB,Rainwater \ Hudson,25,1,8,34
@@ -1160,7 +1160,7 @@ Noble,Kendallville-Allen 23,United States Representative,3,REP,Marlin A. Stutzma
 Noble,Kendallville-Allen 23,United States Representative,3,DEM,Kiley M. Adolph,90,10,74,174
 Noble,Kendallville-Allen 23,United States Representative,3,LIB,Jarrad Lancaster,18,0,4,22
 Noble,Kendallville-Allen 23,United States Representative,3,,Write-In,0,1,0,1
-Noble,Kendallville-Allen 23,State Senator,13,REP,C. Susan Glick,265,12,152,429
+Noble,Kendallville-Allen 23,State Senate,13,REP,C. Susan Glick,265,12,152,429
 Noble,Kendallville-Allen 23,State Representative,52,REP,Ben Smaltz,230,9,132,371
 Noble,Kendallville-Allen 23,State Representative,52,DEM,Walt Sorg,94,9,70,173
 Noble,Kendallville-Allen 23,Judge of the Superior Court No. 1,,REP,Steven Thomas Clouse,264,13,159,436
@@ -1200,10 +1200,10 @@ Noble,Kendallville-Allen 24,President and Vice-President of the U.S.,,DEM,Harris
 Noble,Kendallville-Allen 24,President and Vice-President of the U.S.,,LIB,Oliver \ Ter Maat,0,0,0,0
 Noble,Kendallville-Allen 24,President and Vice-President of the U.S.,,WTP,Kennedy Jr. \ Shanahan,2,0,1,3
 Noble,Kendallville-Allen 24,President and Vice-President of the U.S.,,,Write-In,3,0,0,3
-Noble,Kendallville-Allen 24,United States Senator,,REP,Jim Banks,252,20,305,577
-Noble,Kendallville-Allen 24,United States Senator,,DEM,Valerie McCray,62,12,52,126
-Noble,Kendallville-Allen 24,United States Senator,,LIB,Andrew Horning,10,0,8,18
-Noble,Kendallville-Allen 24,United States Senator,,,Write-In,0,0,0,0
+Noble,Kendallville-Allen 24,U.S. Senate,,REP,Jim Banks,252,20,305,577
+Noble,Kendallville-Allen 24,U.S. Senate,,DEM,Valerie McCray,62,12,52,126
+Noble,Kendallville-Allen 24,U.S. Senate,,LIB,Andrew Horning,10,0,8,18
+Noble,Kendallville-Allen 24,U.S. Senate,,,Write-In,0,0,0,0
 Noble,Kendallville-Allen 24,Governor And Lieutenant Governor,,REP,Braun \ Beckwith,226,19,279,524
 Noble,Kendallville-Allen 24,Governor And Lieutenant Governor,,DEM,Mccormick \ Goodin,74,12,65,151
 Noble,Kendallville-Allen 24,Governor And Lieutenant Governor,,LIB,Rainwater \ Hudson,21,1,20,42
@@ -1214,7 +1214,7 @@ Noble,Kendallville-Allen 24,United States Representative,3,REP,Marlin A. Stutzma
 Noble,Kendallville-Allen 24,United States Representative,3,DEM,Kiley M. Adolph,64,13,53,130
 Noble,Kendallville-Allen 24,United States Representative,3,LIB,Jarrad Lancaster,22,0,15,37
 Noble,Kendallville-Allen 24,United States Representative,3,,Write-In,0,0,0,0
-Noble,Kendallville-Allen 24,State Senator,13,REP,C. Susan Glick,275,18,322,615
+Noble,Kendallville-Allen 24,State Senate,13,REP,C. Susan Glick,275,18,322,615
 Noble,Kendallville-Allen 24,State Representative,52,REP,Ben Smaltz,257,17,306,580
 Noble,Kendallville-Allen 24,State Representative,52,DEM,Walt Sorg,57,15,53,125
 Noble,Kendallville-Allen 24,Judge of the Superior Court No. 1,,REP,Steven Thomas Clouse,270,16,313,599
@@ -1254,10 +1254,10 @@ Noble,Allen 25,President and Vice-President of the U.S.,,DEM,Harris \ Walz,99,20
 Noble,Allen 25,President and Vice-President of the U.S.,,LIB,Oliver \ Ter Maat,5,0,1,6
 Noble,Allen 25,President and Vice-President of the U.S.,,WTP,Kennedy Jr. \ Shanahan,4,1,2,7
 Noble,Allen 25,President and Vice-President of the U.S.,,,Write-In,2,0,0,2
-Noble,Allen 25,United States Senator,,REP,Jim Banks,374,28,273,675
-Noble,Allen 25,United States Senator,,DEM,Valerie McCray,91,16,75,182
-Noble,Allen 25,United States Senator,,LIB,Andrew Horning,8,0,6,14
-Noble,Allen 25,United States Senator,,,Write-In,0,0,0,0
+Noble,Allen 25,U.S. Senate,,REP,Jim Banks,374,28,273,675
+Noble,Allen 25,U.S. Senate,,DEM,Valerie McCray,91,16,75,182
+Noble,Allen 25,U.S. Senate,,LIB,Andrew Horning,8,0,6,14
+Noble,Allen 25,U.S. Senate,,,Write-In,0,0,0,0
 Noble,Allen 25,Governor And Lieutenant Governor,,REP,Braun \ Beckwith,333,25,253,611
 Noble,Allen 25,Governor And Lieutenant Governor,,DEM,Mccormick \ Goodin,104,20,78,202
 Noble,Allen 25,Governor And Lieutenant Governor,,LIB,Rainwater \ Hudson,38,1,22,61
@@ -1268,7 +1268,7 @@ Noble,Allen 25,United States Representative,3,REP,Marlin A. Stutzman,362,27,268,
 Noble,Allen 25,United States Representative,3,DEM,Kiley M. Adolph,94,15,75,184
 Noble,Allen 25,United States Representative,3,LIB,Jarrad Lancaster,22,2,13,37
 Noble,Allen 25,United States Representative,3,,Write-In,0,0,0,0
-Noble,Allen 25,State Senator,13,REP,C. Susan Glick,404,33,310,747
+Noble,Allen 25,State Senate,13,REP,C. Susan Glick,404,33,310,747
 Noble,Allen 25,State Representative,52,REP,Ben Smaltz,387,30,287,704
 Noble,Allen 25,State Representative,52,DEM,Walt Sorg,83,14,67,164
 Noble,Allen 25,Judge of the Superior Court No. 1,,REP,Steven Thomas Clouse,418,34,308,760
@@ -1308,10 +1308,10 @@ Noble,Allen 26,President and Vice-President of the U.S.,,DEM,Harris \ Walz,84,13
 Noble,Allen 26,President and Vice-President of the U.S.,,LIB,Oliver \ Ter Maat,2,0,2,4
 Noble,Allen 26,President and Vice-President of the U.S.,,WTP,Kennedy Jr. \ Shanahan,4,0,3,7
 Noble,Allen 26,President and Vice-President of the U.S.,,,Write-In,0,0,0,0
-Noble,Allen 26,United States Senator,,REP,Jim Banks,275,17,186,478
-Noble,Allen 26,United States Senator,,DEM,Valerie McCray,71,9,68,148
-Noble,Allen 26,United States Senator,,LIB,Andrew Horning,8,0,6,14
-Noble,Allen 26,United States Senator,,,Write-In,0,0,1,1
+Noble,Allen 26,U.S. Senate,,REP,Jim Banks,275,17,186,478
+Noble,Allen 26,U.S. Senate,,DEM,Valerie McCray,71,9,68,148
+Noble,Allen 26,U.S. Senate,,LIB,Andrew Horning,8,0,6,14
+Noble,Allen 26,U.S. Senate,,,Write-In,0,0,1,1
 Noble,Allen 26,Governor And Lieutenant Governor,,REP,Braun \ Beckwith,234,14,171,419
 Noble,Allen 26,Governor And Lieutenant Governor,,DEM,Mccormick \ Goodin,88,12,74,174
 Noble,Allen 26,Governor And Lieutenant Governor,,LIB,Rainwater \ Hudson,36,0,15,51
@@ -1322,7 +1322,7 @@ Noble,Allen 26,United States Representative,3,REP,Marlin A. Stutzman,272,15,183,
 Noble,Allen 26,United States Representative,3,DEM,Kiley M. Adolph,73,10,69,152
 Noble,Allen 26,United States Representative,3,LIB,Jarrad Lancaster,14,1,10,25
 Noble,Allen 26,United States Representative,3,,Write-In,0,0,0,0
-Noble,Allen 26,State Senator,13,REP,C. Susan Glick,313,21,209,543
+Noble,Allen 26,State Senate,13,REP,C. Susan Glick,313,21,209,543
 Noble,Allen 26,State Representative,52,REP,Ben Smaltz,279,16,190,485
 Noble,Allen 26,State Representative,52,DEM,Walt Sorg,70,10,66,146
 Noble,Allen 26,Judge of the Superior Court No. 1,,REP,Steven Thomas Clouse,302,21,207,530
@@ -1362,10 +1362,10 @@ Noble,Swan 27,President and Vice-President of the U.S.,,DEM,Harris \ Walz,152,36
 Noble,Swan 27,President and Vice-President of the U.S.,,LIB,Oliver \ Ter Maat,3,2,5,10
 Noble,Swan 27,President and Vice-President of the U.S.,,WTP,Kennedy Jr. \ Shanahan,7,4,2,13
 Noble,Swan 27,President and Vice-President of the U.S.,,,Write-In,0,0,0,0
-Noble,Swan 27,United States Senator,,REP,Jim Banks,503,43,406,952
-Noble,Swan 27,United States Senator,,DEM,Valerie McCray,140,34,110,284
-Noble,Swan 27,United States Senator,,LIB,Andrew Horning,28,4,11,43
-Noble,Swan 27,United States Senator,,,Write-In,0,0,0,0
+Noble,Swan 27,U.S. Senate,,REP,Jim Banks,503,43,406,952
+Noble,Swan 27,U.S. Senate,,DEM,Valerie McCray,140,34,110,284
+Noble,Swan 27,U.S. Senate,,LIB,Andrew Horning,28,4,11,43
+Noble,Swan 27,U.S. Senate,,,Write-In,0,0,0,0
 Noble,Swan 27,Governor And Lieutenant Governor,,REP,Braun \ Beckwith,457,37,384,878
 Noble,Swan 27,Governor And Lieutenant Governor,,DEM,Mccormick \ Goodin,162,33,124,319
 Noble,Swan 27,Governor And Lieutenant Governor,,LIB,Rainwater \ Hudson,53,7,25,85
@@ -1376,7 +1376,7 @@ Noble,Swan 27,United States Representative,3,REP,Marlin A. Stutzman,496,43,406,9
 Noble,Swan 27,United States Representative,3,DEM,Kiley M. Adolph,137,32,113,282
 Noble,Swan 27,United States Representative,3,LIB,Jarrad Lancaster,44,5,12,61
 Noble,Swan 27,United States Representative,3,,Write-In,0,0,0,0
-Noble,Swan 27,State Senator,13,REP,C. Susan Glick,585,51,448,1084
+Noble,Swan 27,State Senate,13,REP,C. Susan Glick,585,51,448,1084
 Noble,Swan 27,State Representative,18,REP,David H. Abbott,575,49,435,1059
 Noble,Swan 27,Judge of the Superior Court No. 1,,REP,Steven Thomas Clouse,560,50,431,1041
 Noble,Swan 27,Circuit Court Clerk,,REP,Tammy Bremer,565,50,425,1040
@@ -1415,10 +1415,10 @@ Noble,Albion 28,President and Vice-President of the U.S.,,DEM,Harris \ Walz,85,1
 Noble,Albion 28,President and Vice-President of the U.S.,,LIB,Oliver \ Ter Maat,5,0,3,8
 Noble,Albion 28,President and Vice-President of the U.S.,,WTP,Kennedy Jr. \ Shanahan,5,3,5,13
 Noble,Albion 28,President and Vice-President of the U.S.,,,Write-In,1,0,0,1
-Noble,Albion 28,United States Senator,,REP,Jim Banks,275,25,324,624
-Noble,Albion 28,United States Senator,,DEM,Valerie McCray,69,18,91,178
-Noble,Albion 28,United States Senator,,LIB,Andrew Horning,11,0,11,22
-Noble,Albion 28,United States Senator,,,Write-In,0,0,0,0
+Noble,Albion 28,U.S. Senate,,REP,Jim Banks,275,25,324,624
+Noble,Albion 28,U.S. Senate,,DEM,Valerie McCray,69,18,91,178
+Noble,Albion 28,U.S. Senate,,LIB,Andrew Horning,11,0,11,22
+Noble,Albion 28,U.S. Senate,,,Write-In,0,0,0,0
 Noble,Albion 28,Governor And Lieutenant Governor,,REP,Braun \ Beckwith,235,21,292,548
 Noble,Albion 28,Governor And Lieutenant Governor,,DEM,Mccormick \ Goodin,91,19,99,209
 Noble,Albion 28,Governor And Lieutenant Governor,,LIB,Rainwater \ Hudson,33,1,32,66
@@ -1429,7 +1429,7 @@ Noble,Albion 28,United States Representative,3,REP,Marlin A. Stutzman,274,26,322
 Noble,Albion 28,United States Representative,3,DEM,Kiley M. Adolph,72,16,91,179
 Noble,Albion 28,United States Representative,3,LIB,Jarrad Lancaster,15,3,19,37
 Noble,Albion 28,United States Representative,3,,Write-In,0,0,0,0
-Noble,Albion 28,State Senator,13,REP,C. Susan Glick,310,30,358,698
+Noble,Albion 28,State Senate,13,REP,C. Susan Glick,310,30,358,698
 Noble,Albion 28,State Representative,18,REP,David H. Abbott,288,29,344,661
 Noble,Albion 28,Judge of the Superior Court No. 1,,REP,Steven Thomas Clouse,289,34,353,676
 Noble,Albion 28,Circuit Court Clerk,,REP,Tammy Bremer,278,33,329,640
@@ -1465,10 +1465,10 @@ Noble,Noble 29,President and Vice-President of the U.S.,,DEM,Harris \ Walz,67,16
 Noble,Noble 29,President and Vice-President of the U.S.,,LIB,Oliver \ Ter Maat,2,1,2,5
 Noble,Noble 29,President and Vice-President of the U.S.,,WTP,Kennedy Jr. \ Shanahan,2,1,3,6
 Noble,Noble 29,President and Vice-President of the U.S.,,,Write-In,0,0,0,0
-Noble,Noble 29,United States Senator,,REP,Jim Banks,246,19,227,492
-Noble,Noble 29,United States Senator,,DEM,Valerie McCray,57,13,70,140
-Noble,Noble 29,United States Senator,,LIB,Andrew Horning,6,1,4,11
-Noble,Noble 29,United States Senator,,,Write-In,0,0,0,0
+Noble,Noble 29,U.S. Senate,,REP,Jim Banks,246,19,227,492
+Noble,Noble 29,U.S. Senate,,DEM,Valerie McCray,57,13,70,140
+Noble,Noble 29,U.S. Senate,,LIB,Andrew Horning,6,1,4,11
+Noble,Noble 29,U.S. Senate,,,Write-In,0,0,0,0
 Noble,Noble 29,Governor And Lieutenant Governor,,REP,Braun \ Beckwith,204,16,210,430
 Noble,Noble 29,Governor And Lieutenant Governor,,DEM,Mccormick \ Goodin,69,16,83,168
 Noble,Noble 29,Governor And Lieutenant Governor,,LIB,Rainwater \ Hudson,40,2,12,54
@@ -1479,7 +1479,7 @@ Noble,Noble 29,United States Representative,3,REP,Marlin A. Stutzman,236,18,230,
 Noble,Noble 29,United States Representative,3,DEM,Kiley M. Adolph,62,13,67,142
 Noble,Noble 29,United States Representative,3,LIB,Jarrad Lancaster,13,2,7,22
 Noble,Noble 29,United States Representative,3,,Write-In,0,0,0,0
-Noble,Noble 29,State Senator,13,REP,C. Susan Glick,274,21,254,549
+Noble,Noble 29,State Senate,13,REP,C. Susan Glick,274,21,254,549
 Noble,Noble 29,State Representative,18,REP,David H. Abbott,272,20,249,541
 Noble,Noble 29,Judge of the Superior Court No. 1,,REP,Steven Thomas Clouse,263,21,243,527
 Noble,Noble 29,Circuit Court Clerk,,REP,Tammy Bremer,261,20,245,526

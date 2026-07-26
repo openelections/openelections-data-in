@@ -11,7 +11,7 @@ Adams,Treasurer of State,,Kelly Mitchell,Republican,5093
 Adams,U.S. House,3,Justin Kuhnle,Democratic,1950
 Adams,U.S. House,3,Scott Wise,Libertarian,217
 Adams,U.S. House,3,Marlin A Stutzman,Republican,4955
-Adams,State Senator,19,Travis Holdman,Republican,5720
+Adams,State Senate,19,Travis Holdman,Republican,5720
 Adams,State House,79,Matthew S Lehman,Republican,5877
 Adams,Judge of the Superior Court,Adams County,Patrick R Miller,Republican,5939
 Adams,Prosecuting Attorney,Adams (26Th Circuit),Christopher E Harvey,Democratic,2782
@@ -39,9 +39,9 @@ Allen,Treasurer of State,,Kelly Mitchell,Republican,46136
 Allen,U.S. House,3,Justin Kuhnle,Democratic,23548
 Allen,U.S. House,3,Scott Wise,Libertarian,2664
 Allen,U.S. House,3,Marlin A Stutzman,Republican,47684
-Allen,State Senator,14,Dennis K Kruse,Republican,17515
-Allen,State Senator,15,Jack E Morris,Democratic,10482
-Allen,State Senator,15,Elizabeth Liz Brown,Republican,15101
+Allen,State Senate,14,Dennis K Kruse,Republican,17515
+Allen,State Senate,15,Jack E Morris,Democratic,10482
+Allen,State Senate,15,Elizabeth Liz Brown,Republican,15101
 Allen,State House,50,Daniel Dan J Leonard,Republican,3079
 Allen,State House,52,Charles E Odier,Democratic,1072
 Allen,State House,52,Benjamin Charles Smaltz,Republican,3645
@@ -170,11 +170,11 @@ Bartholomew,Treasurer of State,,Kelly Mitchell,Republican,10800
 Bartholomew,U.S. House,6,Susan Hall Heitzman,Democratic,4553
 Bartholomew,U.S. House,6,Eric Miller,Libertarian,650
 Bartholomew,U.S. House,6,Allen Lucas Messer,Republican,11225
-Bartholomew,State Senator,41,Andrew Talarzyk,Democratic,2475
-Bartholomew,State Senator,41,Damian Stanziano,Libertarian,286
-Bartholomew,State Senator,41,Greggory Frank Walker,Republican,5758
-Bartholomew,State Senator,43,Rudy M Sr Howard,Democratic,778
-Bartholomew,State Senator,43,"Clyde Allen ""Chip"" Perfect, Jr.",Republican,1978
+Bartholomew,State Senate,41,Andrew Talarzyk,Democratic,2475
+Bartholomew,State Senate,41,Damian Stanziano,Libertarian,286
+Bartholomew,State Senate,41,Greggory Frank Walker,Republican,5758
+Bartholomew,State Senate,43,Rudy M Sr Howard,Democratic,778
+Bartholomew,State Senate,43,"Clyde Allen ""Chip"" Perfect, Jr.",Republican,1978
 Bartholomew,State House,57,Sean R Eberhart,Republican,2257
 Bartholomew,State House,59,Zack Ellison,Democratic,5450
 Bartholomew,State House,59,Milo Smith,Republican,8034
@@ -214,8 +214,8 @@ Benton,Treasurer of State,,Michael L Mike Jasper,Libertarian,132
 Benton,Treasurer of State,,Kelly Mitchell,Republican,1532
 Benton,U.S. House,4,John Dale,Democratic,699
 Benton,U.S. House,4,Theodore E Rokita,Republican,1567
-Benton,State Senator,6,Roxanna M Hanford,Democratic,593
-Benton,State Senator,6,Rick Niemeyer,Republican,1643
+Benton,State Senate,6,Roxanna M Hanford,Democratic,593
+Benton,State Senate,6,Rick Niemeyer,Republican,1643
 Benton,State House,13,Sharon Negele,Republican,1884
 Benton,Judge of the Circuit Court,Benton (76Th Circuit),Rex W Kepner,Republican,1991
 Benton,Prosecuting Attorney,Benton (76Th Circuit),John C Wright,Republican,1863
@@ -237,7 +237,7 @@ Blackford,U.S. House,3,Marlin A Stutzman,Republican,387
 Blackford,U.S. House,5,Shawn Allen Denney,Democratic,618
 Blackford,U.S. House,5,John Krom,Libertarian,60
 Blackford,U.S. House,5,Susan W Brooks,Republican,1276
-Blackford,State Senator,19,Travis Holdman,Republican,1893
+Blackford,State Senate,19,Travis Holdman,Republican,1893
 Blackford,State House,31,Kevin A Mahan,Republican,2041
 Blackford,State House,33,Shon Byrum,Democratic,6
 Blackford,State House,33,Zeb Sutton,Libertarian,0
@@ -260,10 +260,10 @@ Boone,U.S. House,4,Theodore E Rokita,Republican,4725
 Boone,U.S. House,5,Shawn Allen Denney,Democratic,1579
 Boone,U.S. House,5,John Krom,Libertarian,307
 Boone,U.S. House,5,Susan W Brooks,Republican,5399
-Boone,State Senator,23,Robert V Burkett,Democratic,1618
-Boone,State Senator,23,Philip L Boots,Republican,5024
-Boone,State Senator,29,"James D ""Jd"" Ford",Democratic,1499
-Boone,State Senator,29,Michael A Delph,Republican,3119
+Boone,State Senate,23,Robert V Burkett,Democratic,1618
+Boone,State Senate,23,Philip L Boots,Republican,5024
+Boone,State Senate,29,"James D ""Jd"" Ford",Democratic,1499
+Boone,State Senate,29,Michael A Delph,Republican,3119
 Boone,State House,24,Steven J Braun,Republican,5726
 Boone,State House,28,Sean Shanley,Democratic,138
 Boone,State House,28,Jeffrey A Thompson,Republican,541
@@ -376,10 +376,10 @@ Clark,Treasurer of State,,Kelly Mitchell,Republican,15505
 Clark,U.S. House,9,William W Bailey,Democratic,10646
 Clark,U.S. House,9,Ralph Mike Frey,Libertarian,1121
 Clark,U.S. House,9,Todd Young,Republican,17875
-Clark,State Senator,45,Julie Berry,Democratic,6832
-Clark,State Senator,45,Jim Smith,Republican,10505
-Clark,State Senator,46,Charles A Freiberger,Democratic,5425
-Clark,State Senator,46,Ronald T Grooms,Republican,6836
+Clark,State Senate,45,Julie Berry,Democratic,6832
+Clark,State Senate,45,Jim Smith,Republican,10505
+Clark,State Senate,46,Charles A Freiberger,Democratic,5425
+Clark,State Senate,46,Ronald T Grooms,Republican,6836
 Clark,State House,66,Terry Goodin,Democratic,3374
 Clark,State House,66,Lisa Seng Shadday,Republican,2628
 Clark,State House,70,Heidi Sellers,Democratic,2310
@@ -440,10 +440,10 @@ Clay,Treasurer of State,,Kelly Mitchell,Republican,4311
 Clay,U.S. House,8,Thomas R Spangler,Democratic,1969
 Clay,U.S. House,8,Andrew Horning,Libertarian,282
 Clay,U.S. House,8,Larry D Bucshon,Republican,4533
-Clay,State Senator,38,Timothy Dale Skinner,Democratic,1706
-Clay,State Senator,38,Jon Ford,Republican,3279
-Clay,State Senator,39,Steve Lindsey,Democratic,673
-Clay,State Senator,39,Eric Bassler,Republican,1243
+Clay,State Senate,38,Timothy Dale Skinner,Democratic,1706
+Clay,State Senate,38,Jon Ford,Republican,3279
+Clay,State Senate,39,Steve Lindsey,Democratic,673
+Clay,State Senate,39,Eric Bassler,Republican,1243
 Clay,State House,42,Mark C Spelbring,Democratic,1298
 Clay,State House,42,Alan P Morrison,Republican,2068
 Clay,State House,44,James R Baird,Republican,1366
@@ -470,7 +470,7 @@ Clinton,Treasurer of State,,Michael L Mike Jasper,Libertarian,261
 Clinton,Treasurer of State,,Kelly Mitchell,Republican,4239
 Clinton,U.S. House,4,John Dale,Democratic,1695
 Clinton,U.S. House,4,Theodore E Rokita,Republican,4038
-Clinton,State Senator,21,James R Buck,Republican,381
+Clinton,State Senate,21,James R Buck,Republican,381
 Clinton,State House,25,Maurice O Fuller,Democratic,296
 Clinton,State House,25,Donald J Lehe,Republican,912
 Clinton,State House,38,Heath R Vannatter,Republican,3724
@@ -498,8 +498,8 @@ Crawford,U.S. House,8,Larry D Bucshon,Republican,305
 Crawford,U.S. House,9,William W Bailey,Democratic,1146
 Crawford,U.S. House,9,Ralph Mike Frey,Libertarian,103
 Crawford,U.S. House,9,Todd Young,Republican,1798
-Crawford,State Senator,47,Richard D Young,Democratic,1873
-Crawford,State Senator,47,Erin Houchin,Republican,1813
+Crawford,State Senate,47,Richard D Young,Democratic,1873
+Crawford,State Senate,47,Erin Houchin,Republican,1813
 Crawford,State House,74,Christopher James Coyle,Democratic,1302
 Crawford,State House,74,Lloyd Arnold,Republican,2312
 Crawford,Prosecuting Attorney,Crawford (77Th Circuit),Cheryl Joan Hillenburg,Democratic,1738
@@ -517,8 +517,8 @@ Daviess,Treasurer of State,,Kelly Mitchell,Republican,4766
 Daviess,U.S. House,8,Thomas R Spangler,Democratic,1194
 Daviess,U.S. House,8,Andrew Horning,Libertarian,189
 Daviess,U.S. House,8,Larry D Bucshon,Republican,4878
-Daviess,State Senator,39,Steve Lindsey,Democratic,1235
-Daviess,State Senator,39,Eric Bassler,Republican,5109
+Daviess,State Senate,39,Steve Lindsey,Democratic,1235
+Daviess,State Senate,39,Eric Bassler,Republican,5109
 Daviess,State House,45,Bionca Gambill,Democratic,48
 Daviess,State House,45,Bruce Borders,Republican,201
 Daviess,State House,62,Jeff Sparks,Democratic,170
@@ -547,11 +547,11 @@ Dearborn,Treasurer of State,,Kelly Mitchell,Republican,7289
 Dearborn,U.S. House,6,Susan Hall Heitzman,Democratic,2173
 Dearborn,U.S. House,6,Eric Miller,Libertarian,424
 Dearborn,U.S. House,6,Allen Lucas Messer,Republican,7882
-Dearborn,State Senator,27,Jerome Jake Hoog,Democratic,638
-Dearborn,State Senator,27,Rex Bell,Libertarian,81
-Dearborn,State Senator,27,Jeffrey Scott Raatz,Republican,1707
-Dearborn,State Senator,43,Rudy M Sr Howard,Democratic,1871
-Dearborn,State Senator,43,"Clyde Allen ""Chip"" Perfect, Jr.",Republican,6281
+Dearborn,State Senate,27,Jerome Jake Hoog,Democratic,638
+Dearborn,State Senate,27,Rex Bell,Libertarian,81
+Dearborn,State Senate,27,Jeffrey Scott Raatz,Republican,1707
+Dearborn,State Senate,43,Rudy M Sr Howard,Democratic,1871
+Dearborn,State Senate,43,"Clyde Allen ""Chip"" Perfect, Jr.",Republican,6281
 Dearborn,State House,67,Randy Frye,Republican,1709
 Dearborn,State House,68,Ricky L Gill,Democratic,1979
 Dearborn,State House,68,Jud Mcmillin,Republican,6440
@@ -588,8 +588,8 @@ Decatur,Treasurer of State,,Kelly Mitchell,Republican,4524
 Decatur,U.S. House,6,Susan Hall Heitzman,Democratic,1171
 Decatur,U.S. House,6,Eric Miller,Libertarian,235
 Decatur,U.S. House,6,Allen Lucas Messer,Republican,5112
-Decatur,State Senator,43,Rudy M Sr Howard,Democratic,1489
-Decatur,State Senator,43,"Clyde Allen ""Chip"" Perfect, Jr.",Republican,4423
+Decatur,State Senate,43,Rudy M Sr Howard,Democratic,1489
+Decatur,State Senate,43,"Clyde Allen ""Chip"" Perfect, Jr.",Republican,4423
 Decatur,State House,55,Glenn E Bailey,Democratic,1151
 Decatur,State House,55,Cindy Ziemke,Republican,3432
 Decatur,State House,67,Randy Frye,Republican,1674
@@ -613,7 +613,7 @@ DeKalb,Treasurer of State,,Kelly Mitchell,Republican,5219
 DeKalb,U.S. House,3,Justin Kuhnle,Democratic,1763
 DeKalb,U.S. House,3,Scott Wise,Libertarian,306
 DeKalb,U.S. House,3,Marlin A Stutzman,Republican,5303
-DeKalb,State Senator,14,Dennis K Kruse,Republican,4277
+DeKalb,State Senate,14,Dennis K Kruse,Republican,4277
 DeKalb,State House,52,Charles E Odier,Democratic,1886
 DeKalb,State House,52,Benjamin Charles Smaltz,Republican,5450
 DeKalb,Judge of the Superior Court,"Dekalb County, Court 1",Kevin P Wallace,Democratic,4359
@@ -643,9 +643,9 @@ Delaware,Treasurer of State,,Kelly Mitchell,Republican,11810
 Delaware,U.S. House,6,Susan Hall Heitzman,Democratic,10231
 Delaware,U.S. House,6,Eric Miller,Libertarian,912
 Delaware,U.S. House,6,Allen Lucas Messer,Republican,12252
-Delaware,State Senator,25,Timothy S Lanane,Democratic,9213
-Delaware,State Senator,25,Robert Jozwiak,Libertarian,3023
-Delaware,State Senator,26,Gene Douglas Eckerty,Republican,6574
+Delaware,State Senate,25,Timothy S Lanane,Democratic,9213
+Delaware,State Senate,25,Robert Jozwiak,Libertarian,3023
+Delaware,State Senate,26,Gene Douglas Eckerty,Republican,6574
 Delaware,State House,31,Kevin A Mahan,Republican,1108
 Delaware,State House,32,Robert Ashley,Democratic,197
 Delaware,State House,32,P Eric Turner,Republican,217
@@ -695,10 +695,10 @@ Dubois,Treasurer of State,,Kelly Mitchell,Republican,6286
 Dubois,U.S. House,8,Thomas R Spangler,Democratic,4076
 Dubois,U.S. House,8,Andrew Horning,Libertarian,398
 Dubois,U.S. House,8,Larry D Bucshon,Republican,6104
-Dubois,State Senator,47,Richard D Young,Democratic,1573
-Dubois,State Senator,47,Erin Houchin,Republican,1831
-Dubois,State Senator,48,Larry Vollmer,Democratic,1807
-Dubois,State Senator,48,Mark B Messmer,Republican,5654
+Dubois,State Senate,47,Richard D Young,Democratic,1573
+Dubois,State Senate,47,Erin Houchin,Republican,1831
+Dubois,State Senate,48,Larry Vollmer,Democratic,1807
+Dubois,State Senate,48,Mark B Messmer,Republican,5654
 Dubois,State House,63,Mike Braun,Republican,5648
 Dubois,State House,74,Christopher James Coyle,Democratic,1336
 Dubois,State House,74,Lloyd Arnold,Republican,2517
@@ -720,7 +720,7 @@ Elkhart,Treasurer of State,,Kelly Mitchell,Republican,22974
 Elkhart,U.S. House,2,Joseph Gerard Bock,Democratic,9591
 Elkhart,U.S. House,2,Jeff Petermann,Libertarian,762
 Elkhart,U.S. House,2,Jackie Walorski,Republican,23335
-Elkhart,State Senator,11,Joe Zakas,Republican,6968
+Elkhart,State Senate,11,Joe Zakas,Republican,6968
 Elkhart,State House,21,Jodi Buoscio,Democratic,2583
 Elkhart,State House,21,Timothy Wesco,Republican,5031
 Elkhart,State House,22,David C Kolbe,Democratic,507
@@ -784,9 +784,9 @@ Fayette,Treasurer of State,,Kelly Mitchell,Republican,3117
 Fayette,U.S. House,6,Susan Hall Heitzman,Democratic,1679
 Fayette,U.S. House,6,Eric Miller,Libertarian,268
 Fayette,U.S. House,6,Allen Lucas Messer,Republican,3287
-Fayette,State Senator,27,Jerome Jake Hoog,Democratic,69
-Fayette,State Senator,27,Rex Bell,Libertarian,8
-Fayette,State Senator,27,Jeffrey Scott Raatz,Republican,84
+Fayette,State Senate,27,Jerome Jake Hoog,Democratic,69
+Fayette,State Senate,27,Rex Bell,Libertarian,8
+Fayette,State Senate,27,Jeffrey Scott Raatz,Republican,84
 Fayette,State House,55,Glenn E Bailey,Democratic,2014
 Fayette,State House,55,Cindy Ziemke,Republican,3439
 Fayette,Judge of the Superior Court,Fayette County,James M Fraley,Democratic,2374
@@ -811,8 +811,8 @@ Floyd,Treasurer of State,,Kelly Mitchell,Republican,10331
 Floyd,U.S. House,9,William W Bailey,Democratic,6349
 Floyd,U.S. House,9,Ralph Mike Frey,Libertarian,460
 Floyd,U.S. House,9,Todd Young,Republican,10920
-Floyd,State Senator,46,Charles A Freiberger,Democratic,7743
-Floyd,State Senator,46,Ronald T Grooms,Republican,10114
+Floyd,State Senate,46,Charles A Freiberger,Democratic,7743
+Floyd,State Senate,46,Ronald T Grooms,Republican,10114
 Floyd,State House,70,Heidi Sellers,Democratic,957
 Floyd,State House,70,Rhonda J Rhoads,Republican,1649
 Floyd,State House,72,Kevin Sue Bailey,Democratic,6964
@@ -837,8 +837,8 @@ Fountain,Treasurer of State,,Michael L Mike Jasper,Libertarian,194
 Fountain,Treasurer of State,,Kelly Mitchell,Republican,2740
 Fountain,U.S. House,4,John Dale,Democratic,1099
 Fountain,U.S. House,4,Theodore E Rokita,Republican,2796
-Fountain,State Senator,23,Robert V Burkett,Democratic,1112
-Fountain,State Senator,23,Philip L Boots,Republican,2759
+Fountain,State Senate,23,Robert V Burkett,Democratic,1112
+Fountain,State Senate,23,Philip L Boots,Republican,2759
 Fountain,State House,13,Sharon Negele,Republican,1811
 Fountain,State House,42,Mark C Spelbring,Democratic,366
 Fountain,State House,42,Alan P Morrison,Republican,1069
@@ -857,9 +857,9 @@ Franklin,Treasurer of State,,Kelly Mitchell,Republican,3565
 Franklin,U.S. House,6,Susan Hall Heitzman,Democratic,1291
 Franklin,U.S. House,6,Eric Miller,Libertarian,224
 Franklin,U.S. House,6,Allen Lucas Messer,Republican,4064
-Franklin,State Senator,27,Jerome Jake Hoog,Democratic,1058
-Franklin,State Senator,27,Rex Bell,Libertarian,138
-Franklin,State Senator,27,Jeffrey Scott Raatz,Republican,2434
+Franklin,State Senate,27,Jerome Jake Hoog,Democratic,1058
+Franklin,State Senate,27,Rex Bell,Libertarian,138
+Franklin,State Senate,27,Jeffrey Scott Raatz,Republican,2434
 Franklin,State House,55,Glenn E Bailey,Democratic,426
 Franklin,State House,55,Cindy Ziemke,Republican,977
 Franklin,State House,68,Ricky L Gill,Democratic,1810
@@ -909,9 +909,9 @@ Gibson,Treasurer of State,,Kelly Mitchell,Republican,5165
 Gibson,U.S. House,8,Thomas R Spangler,Democratic,2882
 Gibson,U.S. House,8,Andrew Horning,Libertarian,276
 Gibson,U.S. House,8,Larry D Bucshon,Republican,5744
-Gibson,State Senator,48,Larry Vollmer,Democratic,1849
-Gibson,State Senator,48,Mark B Messmer,Republican,3272
-Gibson,State Senator,49,James Tomes,Republican,2925
+Gibson,State Senate,48,Larry Vollmer,Democratic,1849
+Gibson,State Senate,48,Mark B Messmer,Republican,3272
+Gibson,State Senate,49,James Tomes,Republican,2925
 Gibson,State House,64,Thomas W Washburne,Republican,6799
 Gibson,Prosecuting Attorney,Gibson (66Th Circuit),Robert Krieg,Republican,6936
 Grant,Secretary of State,,Elizabeth White,Democratic,4279
@@ -926,9 +926,9 @@ Grant,Treasurer of State,,Kelly Mitchell,Republican,8735
 Grant,U.S. House,5,Shawn Allen Denney,Democratic,3462
 Grant,U.S. House,5,John Krom,Libertarian,452
 Grant,U.S. House,5,Susan W Brooks,Republican,9201
-Grant,State Senator,17,Jim Banks,Republican,5239
-Grant,State Senator,19,Travis Holdman,Republican,3428
-Grant,State Senator,21,James R Buck,Republican,1289
+Grant,State Senate,17,Jim Banks,Republican,5239
+Grant,State Senate,19,Travis Holdman,Republican,3428
+Grant,State Senate,21,James R Buck,Republican,1289
 Grant,State House,18,David A Wolkins,Republican,679
 Grant,State House,30,"Charles Sosbe, Jr.",Democratic,458
 Grant,State House,30,Michael Karickhoff,Republican,997
@@ -968,8 +968,8 @@ Greene,Treasurer of State,,Kelly Mitchell,Republican,5449
 Greene,U.S. House,8,Thomas R Spangler,Democratic,2899
 Greene,U.S. House,8,Andrew Horning,Libertarian,369
 Greene,U.S. House,8,Larry D Bucshon,Republican,5609
-Greene,State Senator,39,Steve Lindsey,Democratic,4334
-Greene,State Senator,39,Eric Bassler,Republican,4724
+Greene,State Senate,39,Steve Lindsey,Democratic,4334
+Greene,State Senate,39,Eric Bassler,Republican,4724
 Greene,State House,45,Bionca Gambill,Democratic,419
 Greene,State House,45,Bruce Borders,Republican,485
 Greene,State House,62,Jeff Sparks,Democratic,3513
@@ -990,10 +990,10 @@ Hamilton,Treasurer of State,,Kelly Mitchell,Republican,41019
 Hamilton,U.S. House,5,Shawn Allen Denney,Democratic,11523
 Hamilton,U.S. House,5,John Krom,Libertarian,2582
 Hamilton,U.S. House,5,Susan W Brooks,Republican,41970
-Hamilton,State Senator,21,James R Buck,Republican,3119
-Hamilton,State Senator,29,"James D ""Jd"" Ford",Democratic,2759
-Hamilton,State Senator,29,Michael A Delph,Republican,5091
-Hamilton,State Senator,31,"James W Merritt, Jr.",Republican,7613
+Hamilton,State Senate,21,James R Buck,Republican,3119
+Hamilton,State Senate,29,"James D ""Jd"" Ford",Democratic,2759
+Hamilton,State Senate,29,Michael A Delph,Republican,5091
+Hamilton,State Senate,31,"James W Merritt, Jr.",Republican,7613
 Hamilton,State House,24,Steven J Braun,Republican,6538
 Hamilton,State House,29,Joseph James Marcum,Democratic,3270
 Hamilton,State House,29,Kathy Kreag Richardson,Republican,9317
@@ -1134,8 +1134,8 @@ Harrison,Treasurer of State,,Kelly Mitchell,Republican,6651
 Harrison,U.S. House,9,William W Bailey,Democratic,3705
 Harrison,U.S. House,9,Ralph Mike Frey,Libertarian,377
 Harrison,U.S. House,9,Todd Young,Republican,7813
-Harrison,State Senator,47,Richard D Young,Democratic,5095
-Harrison,State Senator,47,Erin Houchin,Republican,6820
+Harrison,State Senate,47,Richard D Young,Democratic,5095
+Harrison,State Senate,47,Erin Houchin,Republican,6820
 Harrison,State House,70,Heidi Sellers,Democratic,4755
 Harrison,State House,70,Rhonda J Rhoads,Republican,6498
 Harrison,State House,73,Douglas C Leatherbury,Democratic,268
@@ -1222,7 +1222,7 @@ Henry,Treasurer of State,,Kelly Mitchell,Republican,6268
 Henry,U.S. House,6,Susan Hall Heitzman,Democratic,3136
 Henry,U.S. House,6,Eric Miller,Libertarian,708
 Henry,U.S. House,6,Allen Lucas Messer,Republican,6597
-Henry,State Senator,26,Gene Douglas Eckerty,Republican,2082
+Henry,State Senate,26,Gene Douglas Eckerty,Republican,2082
 Henry,State House,54,Brad Owens,Libertarian,2678
 Henry,State House,54,Thomas E Tom Saunders,Republican,6914
 Henry,Judge of the Circuit Court,Henry No. 1 (53Rd Circuit,Mary G Willis,Republican,8371
@@ -1252,7 +1252,7 @@ Howard,U.S. House,4,Theodore E Rokita,Republican,10308
 Howard,U.S. House,5,Shawn Allen Denney,Democratic,681
 Howard,U.S. House,5,John Krom,Libertarian,114
 Howard,U.S. House,5,Susan W Brooks,Republican,2208
-Howard,State Senator,21,James R Buck,Republican,14245
+Howard,State Senate,21,James R Buck,Republican,14245
 Howard,State House,30,"Charles Sosbe, Jr.",Democratic,5506
 Howard,State House,30,Michael Karickhoff,Republican,7169
 Howard,State House,32,Robert Ashley,Democratic,95
@@ -1301,8 +1301,8 @@ Huntington,Treasurer of State,,Kelly Mitchell,Republican,5351
 Huntington,U.S. House,3,Justin Kuhnle,Democratic,1339
 Huntington,U.S. House,3,Scott Wise,Libertarian,320
 Huntington,U.S. House,3,Marlin A Stutzman,Republican,5568
-Huntington,State Senator,17,Jim Banks,Republican,4093
-Huntington,State Senator,19,Travis Holdman,Republican,1847
+Huntington,State Senate,17,Jim Banks,Republican,4093
+Huntington,State Senate,19,Travis Holdman,Republican,1847
 Huntington,State House,50,Daniel Dan J Leonard,Republican,6064
 Huntington,Judge of the Superior Court,Huntington County,Jeffrey R Heffelfinger,Republican,5806
 Huntington,Prosecuting Attorney,Huntington (56Th Circuit),Amy C Richison,Republican,6091
@@ -1333,10 +1333,10 @@ Jackson,Treasurer of State,,Kelly Mitchell,Republican,6340
 Jackson,U.S. House,9,William W Bailey,Democratic,4127
 Jackson,U.S. House,9,Ralph Mike Frey,Libertarian,305
 Jackson,U.S. House,9,Todd Young,Republican,6057
-Jackson,State Senator,43,Rudy M Sr Howard,Democratic,143
-Jackson,State Senator,43,"Clyde Allen ""Chip"" Perfect, Jr.",Republican,331
-Jackson,State Senator,45,Julie Berry,Democratic,591
-Jackson,State Senator,45,Jim Smith,Republican,843
+Jackson,State Senate,43,Rudy M Sr Howard,Democratic,143
+Jackson,State Senate,43,"Clyde Allen ""Chip"" Perfect, Jr.",Republican,331
+Jackson,State Senate,45,Julie Berry,Democratic,591
+Jackson,State Senate,45,Jim Smith,Republican,843
 Jackson,State House,65,Eric A Koch,Republican,354
 Jackson,State House,69,Jim Lucas,Republican,6423
 Jackson,State House,73,Douglas C Leatherbury,Democratic,346
@@ -1382,7 +1382,7 @@ Jay,Treasurer of State,,Kelly Mitchell,Republican,3022
 Jay,U.S. House,3,Justin Kuhnle,Democratic,1311
 Jay,U.S. House,3,Scott Wise,Libertarian,265
 Jay,U.S. House,3,Marlin A Stutzman,Republican,3146
-Jay,State Senator,19,Travis Holdman,Republican,3795
+Jay,State Senate,19,Travis Holdman,Republican,3795
 Jay,State House,33,Shon Byrum,Democratic,1676
 Jay,State House,33,Zeb Sutton,Libertarian,326
 Jay,State House,33,Greg Beumer,Republican,2996
@@ -1408,8 +1408,8 @@ Jefferson,Treasurer of State,,Kelly Mitchell,Republican,4774
 Jefferson,U.S. House,6,Susan Hall Heitzman,Democratic,3435
 Jefferson,U.S. House,6,Eric Miller,Libertarian,336
 Jefferson,U.S. House,6,Allen Lucas Messer,Republican,4895
-Jefferson,State Senator,45,Julie Berry,Democratic,4787
-Jefferson,State Senator,45,Jim Smith,Republican,4187
+Jefferson,State Senate,45,Julie Berry,Democratic,4787
+Jefferson,State Senate,45,Jim Smith,Republican,4187
 Jefferson,State House,66,Terry Goodin,Democratic,2837
 Jefferson,State House,66,Lisa Seng Shadday,Republican,2881
 Jefferson,State House,67,Randy Frye,Republican,1147
@@ -1438,8 +1438,8 @@ Jennings,Treasurer of State,,Kelly Mitchell,Republican,4343
 Jennings,U.S. House,6,Susan Hall Heitzman,Democratic,2814
 Jennings,U.S. House,6,Eric Miller,Libertarian,349
 Jennings,U.S. House,6,Allen Lucas Messer,Republican,4450
-Jennings,State Senator,43,Rudy M Sr Howard,Democratic,2871
-Jennings,State Senator,43,"Clyde Allen ""Chip"" Perfect, Jr.",Republican,4499
+Jennings,State Senate,43,Rudy M Sr Howard,Democratic,2871
+Jennings,State Senate,43,"Clyde Allen ""Chip"" Perfect, Jr.",Republican,4499
 Jennings,State House,67,Randy Frye,Republican,1409
 Jennings,State House,69,Jim Lucas,Republican,4458
 Jennings,Judge of the Circuit Court,Jennings (86Th Circuit),Jonathan Wayne Webster,Republican,6352
@@ -1467,9 +1467,9 @@ Johnson,Treasurer of State,,Kelly Mitchell,Republican,17497
 Johnson,U.S. House,9,William W Bailey,Democratic,4630
 Johnson,U.S. House,9,Ralph Mike Frey,Libertarian,930
 Johnson,U.S. House,9,Todd Young,Republican,17674
-Johnson,State Senator,41,Andrew Talarzyk,Democratic,2874
-Johnson,State Senator,41,Damian Stanziano,Libertarian,569
-Johnson,State Senator,41,Greggory Frank Walker,Republican,10182
+Johnson,State Senate,41,Andrew Talarzyk,Democratic,2874
+Johnson,State Senate,41,Damian Stanziano,Libertarian,569
+Johnson,State Senate,41,Greggory Frank Walker,Republican,10182
 Johnson,State House,47,Michael L Reddick,Democratic,2125
 Johnson,State House,47,John L Price,Republican,6932
 Johnson,State House,58,C Woody Burton,Republican,7664
@@ -1515,10 +1515,10 @@ Knox,Treasurer of State,,Kelly Mitchell,Republican,5877
 Knox,U.S. House,8,Thomas R Spangler,Democratic,3221
 Knox,U.S. House,8,Andrew Horning,Libertarian,347
 Knox,U.S. House,8,Larry D Bucshon,Republican,6342
-Knox,State Senator,39,Steve Lindsey,Democratic,911
-Knox,State Senator,39,Eric Bassler,Republican,1571
-Knox,State Senator,48,Larry Vollmer,Democratic,2660
-Knox,State Senator,48,Mark B Messmer,Republican,4708
+Knox,State Senate,39,Steve Lindsey,Democratic,911
+Knox,State Senate,39,Eric Bassler,Republican,1571
+Knox,State Senate,48,Larry Vollmer,Democratic,2660
+Knox,State Senate,48,Mark B Messmer,Republican,4708
 Knox,State House,45,Bionca Gambill,Democratic,3364
 Knox,State House,45,Bruce Borders,Republican,4862
 Knox,State House,64,Thomas W Washburne,Republican,1338
@@ -1618,10 +1618,10 @@ Lake,U.S. House,1,Peter J Visclosky,Democratic,57198
 Lake,U.S. House,1,Donna T Dunn,Libertarian,2560
 Lake,U.S. House,1,Mark J Leyva,Republican,30085
 Lake,U.S. House,1,James L Johnson Junior,Write-In,0
-Lake,State Senator,1,"Frank Mrvan, Jr.",Democratic,15538
-Lake,State Senator,1,Kenneth R Stevenson,Republican,10506
-Lake,State Senator,6,Roxanna M Hanford,Democratic,7838
-Lake,State Senator,6,Rick Niemeyer,Republican,16126
+Lake,State Senate,1,"Frank Mrvan, Jr.",Democratic,15538
+Lake,State Senate,1,Kenneth R Stevenson,Republican,10506
+Lake,State Senate,6,Roxanna M Hanford,Democratic,7838
+Lake,State Senate,6,Rick Niemeyer,Republican,16126
 Lake,State House,1,Linda C Lawson,Democratic,6548
 Lake,State House,2,Earl L Harris,Democratic,8659
 Lake,State House,2,Jayson Reeves,Republican,942
@@ -1705,7 +1705,7 @@ LaPort,U.S. House,1,James L Johnson Junior,Write-In,0
 LaPort,U.S. House,2,Joseph Gerard Bock,Democratic,5091
 LaPort,U.S. House,2,Jeff Petermann,Libertarian,512
 LaPort,U.S. House,2,Jackie Walorski,Republican,6435
-LaPort,State Senator,4,Karen Tallian,Democratic,5201
+LaPort,State Senate,4,Karen Tallian,Democratic,5201
 LaPort,State House,8,Ryan M Dvorak,Democratic,1034
 LaPort,State House,9,Scott D Pelath,Democratic,8033
 LaPort,State House,20,Tom Dermody,Republican,10079
@@ -1774,9 +1774,9 @@ Madison,Treasurer of State,,Kelly Mitchell,Republican,15527
 Madison,U.S. House,5,Shawn Allen Denney,Democratic,10794
 Madison,U.S. House,5,John Krom,Libertarian,1287
 Madison,U.S. House,5,Susan W Brooks,Republican,16897
-Madison,State Senator,25,Timothy S Lanane,Democratic,6347
-Madison,State Senator,25,Robert Jozwiak,Libertarian,2435
-Madison,State Senator,26,Gene Douglas Eckerty,Republican,13673
+Madison,State Senate,25,Timothy S Lanane,Democratic,6347
+Madison,State Senate,25,Robert Jozwiak,Libertarian,2435
+Madison,State Senate,26,Gene Douglas Eckerty,Republican,13673
 Madison,State House,32,Robert Ashley,Democratic,356
 Madison,State House,32,P Eric Turner,Republican,372
 Madison,State House,35,Melanie M Wright,Democratic,5158
@@ -1827,9 +1827,9 @@ Marion,U.S. House,5,Susan W Brooks,Republican,24795
 Marion,U.S. House,7,Andr� Carson,Democratic,61443
 Marion,U.S. House,7,Chris Mayo,Libertarian,3931
 Marion,U.S. House,7,Catherine L Ping,Republican,46887
-Marion,State Senator,29,"James D ""Jd"" Ford",Democratic,8486
-Marion,State Senator,29,Michael A Delph,Republican,6930
-Marion,State Senator,31,"James W Merritt, Jr.",Republican,10801
+Marion,State Senate,29,"James D ""Jd"" Ford",Democratic,8486
+Marion,State Senate,29,Michael A Delph,Republican,6930
+Marion,State Senate,31,"James W Merritt, Jr.",Republican,10801
 Marion,State House,86,Edward O Delaney,Democratic,10897
 Marion,State House,87,Christina Hale,Democratic,8236
 Marion,State House,87,Michael Friedman,Republican,7747
@@ -2043,8 +2043,8 @@ Martin,Treasurer of State,,Kelly Mitchell,Republican,2226
 Martin,U.S. House,8,Thomas R Spangler,Democratic,1109
 Martin,U.S. House,8,Andrew Horning,Libertarian,174
 Martin,U.S. House,8,Larry D Bucshon,Republican,2347
-Martin,State Senator,39,Steve Lindsey,Democratic,1164
-Martin,State Senator,39,Eric Bassler,Republican,2431
+Martin,State Senate,39,Steve Lindsey,Democratic,1164
+Martin,State Senate,39,Eric Bassler,Republican,2431
 Martin,State House,62,Jeff Sparks,Democratic,297
 Martin,State House,62,Ashley A Keith Qualkenbush,Libertarian,56
 Martin,State House,62,Matt Ubelhor,Republican,767
@@ -2147,8 +2147,8 @@ Montgomery,Treasurer of State,,Michael L Mike Jasper,Libertarian,520
 Montgomery,Treasurer of State,,Kelly Mitchell,Republican,6136
 Montgomery,U.S. House,4,John Dale,Democratic,2522
 Montgomery,U.S. House,4,Theodore E Rokita,Republican,6085
-Montgomery,State Senator,23,Robert V Burkett,Democratic,2206
-Montgomery,State Senator,23,Philip L Boots,Republican,6381
+Montgomery,State Senate,23,Robert V Burkett,Democratic,2206
+Montgomery,State Senate,23,Philip L Boots,Republican,6381
 Montgomery,State House,13,Sharon Negele,Republican,809
 Montgomery,State House,41,Timothy Tim Brown,Republican,6303
 Montgomery,Judge of the Superior Court,"Montgomery Co, No. 1",Raymond M Kirtley,Democratic,2969
@@ -2216,8 +2216,8 @@ Newton,Treasurer of State,,Michael L Mike Jasper,Libertarian,180
 Newton,Treasurer of State,,Kelly Mitchell,Republican,2051
 Newton,U.S. House,4,John Dale,Democratic,1116
 Newton,U.S. House,4,Theodore E Rokita,Republican,2159
-Newton,State Senator,6,Roxanna M Hanford,Democratic,1148
-Newton,State Senator,6,Rick Niemeyer,Republican,2200
+Newton,State Senate,6,Roxanna M Hanford,Democratic,1148
+Newton,State Senate,6,Rick Niemeyer,Republican,2200
 Newton,State House,13,Sharon Negele,Republican,974
 Newton,State House,16,Richard W Ludington,Democratic,783
 Newton,State House,16,Douglas L Gutwein,Republican,1360
@@ -2260,8 +2260,8 @@ Ohio,Treasurer of State,,Kelly Mitchell,Republican,1191
 Ohio,U.S. House,6,Susan Hall Heitzman,Democratic,684
 Ohio,U.S. House,6,Eric Miller,Libertarian,94
 Ohio,U.S. House,6,Allen Lucas Messer,Republican,1367
-Ohio,State Senator,43,Rudy M Sr Howard,Democratic,675
-Ohio,State Senator,43,"Clyde Allen ""Chip"" Perfect, Jr.",Republican,1522
+Ohio,State Senate,43,Rudy M Sr Howard,Democratic,675
+Ohio,State Senate,43,"Clyde Allen ""Chip"" Perfect, Jr.",Republican,1522
 Ohio,State House,67,Randy Frye,Republican,1562
 Ohio,Prosecuting Attorney,Dearborn & Ohio(7Th Cir.),Frank Aaron Negangard,Republican,1482
 Ohio,State Convention Delegate,Ohio County,David T Crouch,Republican,0
@@ -2278,8 +2278,8 @@ Orange,Treasurer of State,,Kelly Mitchell,Republican,3369
 Orange,U.S. House,9,William W Bailey,Democratic,1296
 Orange,U.S. House,9,Ralph Mike Frey,Libertarian,162
 Orange,U.S. House,9,Todd Young,Republican,3577
-Orange,State Senator,47,Richard D Young,Democratic,1483
-Orange,State Senator,47,Erin Houchin,Republican,3547
+Orange,State Senate,47,Richard D Young,Democratic,1483
+Orange,State Senate,47,Erin Houchin,Republican,3547
 Orange,State House,73,Douglas C Leatherbury,Democratic,910
 Orange,State House,73,Steven Davisson,Republican,2148
 Orange,State House,74,Christopher James Coyle,Democratic,574
@@ -2305,8 +2305,8 @@ Owen,Treasurer of State,,Kelly Mitchell,Republican,3062
 Owen,U.S. House,8,Thomas R Spangler,Democratic,1402
 Owen,U.S. House,8,Andrew Horning,Libertarian,319
 Owen,U.S. House,8,Larry D Bucshon,Republican,2978
-Owen,State Senator,39,Steve Lindsey,Democratic,1429
-Owen,State Senator,39,Eric Bassler,Republican,2411
+Owen,State Senate,39,Steve Lindsey,Democratic,1429
+Owen,State Senate,39,Eric Bassler,Republican,2411
 Owen,State House,44,James R Baird,Republican,5078
 Owen,State House,46,James R Mann Ii,Democratic,1323
 Owen,State House,46,Robert A Heaton,Republican,2760
@@ -2331,8 +2331,8 @@ Parke,Treasurer of State,,Kelly Mitchell,Republican,3008
 Parke,U.S. House,8,Thomas R Spangler,Democratic,1303
 Parke,U.S. House,8,Andrew Horning,Libertarian,275
 Parke,U.S. House,8,Larry D Bucshon,Republican,3067
-Parke,State Senator,23,Robert V Burkett,Democratic,1693
-Parke,State Senator,23,Philip L Boots,Republican,2915
+Parke,State Senate,23,Robert V Burkett,Democratic,1693
+Parke,State Senate,23,Philip L Boots,Republican,2915
 Parke,State House,42,Mark C Spelbring,Democratic,1782
 Parke,State House,42,Alan P Morrison,Republican,2139
 Parke,State House,44,James R Baird,Republican,633
@@ -2355,8 +2355,8 @@ Perry,Treasurer of State,,Kelly Mitchell,Republican,2373
 Perry,U.S. House,8,Thomas R Spangler,Democratic,2763
 Perry,U.S. House,8,Andrew Horning,Libertarian,161
 Perry,U.S. House,8,Larry D Bucshon,Republican,2511
-Perry,State Senator,47,Richard D Young,Democratic,3209
-Perry,State Senator,47,Erin Houchin,Republican,2314
+Perry,State Senate,47,Richard D Young,Democratic,3209
+Perry,State Senate,47,Erin Houchin,Republican,2314
 Perry,State House,74,Christopher James Coyle,Democratic,2554
 Perry,State House,74,Lloyd Arnold,Republican,3005
 Perry,Prosecuting Attorney,Perry (70Th Circuit),Jason R Hoch,Democratic,4257
@@ -2373,8 +2373,8 @@ Pike,Treasurer of State,,Kelly Mitchell,Republican,2264
 Pike,U.S. House,8,Thomas R Spangler,Democratic,1455
 Pike,U.S. House,8,Andrew Horning,Libertarian,153
 Pike,U.S. House,8,Larry D Bucshon,Republican,2500
-Pike,State Senator,48,Larry Vollmer,Democratic,1359
-Pike,State Senator,48,Mark B Messmer,Republican,2836
+Pike,State Senate,48,Larry Vollmer,Democratic,1359
+Pike,State Senate,48,Mark B Messmer,Republican,2836
 Pike,State House,63,Mike Braun,Republican,1422
 Pike,State House,64,Thomas W Washburne,Republican,286
 Pike,State House,75,Steve Spinks,Democratic,720
@@ -2394,7 +2394,7 @@ Porter,U.S. House,1,Peter J Visclosky,Democratic,22339
 Porter,U.S. House,1,Donna T Dunn,Libertarian,1575
 Porter,U.S. House,1,Mark J Leyva,Republican,16799
 Porter,U.S. House,1,James L Johnson Junior,Write-In,0
-Porter,State Senator,4,Karen Tallian,Democratic,13310
+Porter,State Senate,4,Karen Tallian,Democratic,13310
 Porter,State House,4,Debora Porter,Democratic,7934
 Porter,State House,4,Edmund L Soliday,Republican,9885
 Porter,State House,9,Scott D Pelath,Democratic,1828
@@ -2448,7 +2448,7 @@ Posey,Treasurer of State,,Kelly Mitchell,Republican,4188
 Posey,U.S. House,8,Thomas R Spangler,Democratic,2603
 Posey,U.S. House,8,Andrew Horning,Libertarian,253
 Posey,U.S. House,8,Larry D Bucshon,Republican,4601
-Posey,State Senator,49,James Tomes,Republican,5899
+Posey,State Senate,49,James Tomes,Republican,5899
 Posey,State House,64,Thomas W Washburne,Republican,707
 Posey,State House,76,Anthony Goben,Democratic,2478
 Posey,State House,76,Wendy Mcnamara,Republican,4130
@@ -2523,9 +2523,9 @@ Randolph,Treasurer of State,,Kelly Mitchell,Republican,3688
 Randolph,U.S. House,6,Susan Hall Heitzman,Democratic,1469
 Randolph,U.S. House,6,Eric Miller,Libertarian,285
 Randolph,U.S. House,6,Allen Lucas Messer,Republican,3926
-Randolph,State Senator,27,Jerome Jake Hoog,Democratic,1480
-Randolph,State Senator,27,Rex Bell,Libertarian,495
-Randolph,State Senator,27,Jeffrey Scott Raatz,Republican,3779
+Randolph,State Senate,27,Jerome Jake Hoog,Democratic,1480
+Randolph,State Senate,27,Rex Bell,Libertarian,495
+Randolph,State Senate,27,Jeffrey Scott Raatz,Republican,3779
 Randolph,State House,33,Shon Byrum,Democratic,2053
 Randolph,State House,33,Zeb Sutton,Libertarian,185
 Randolph,State House,33,Greg Beumer,Republican,3657
@@ -2550,8 +2550,8 @@ Ripley,Treasurer of State,,Kelly Mitchell,Republican,4852
 Ripley,U.S. House,6,Susan Hall Heitzman,Democratic,1556
 Ripley,U.S. House,6,Eric Miller,Libertarian,280
 Ripley,U.S. House,6,Allen Lucas Messer,Republican,5470
-Ripley,State Senator,43,Rudy M Sr Howard,Democratic,1161
-Ripley,State Senator,43,"Clyde Allen ""Chip"" Perfect, Jr.",Republican,3703
+Ripley,State Senate,43,Rudy M Sr Howard,Democratic,1161
+Ripley,State Senate,43,"Clyde Allen ""Chip"" Perfect, Jr.",Republican,3703
 Ripley,State House,55,Glenn E Bailey,Democratic,592
 Ripley,State House,55,Cindy Ziemke,Republican,1778
 Ripley,State House,67,Randy Frye,Republican,4068
@@ -2601,7 +2601,7 @@ Saint Joseph,Treasurer of State,,Kelly Mitchell,Republican,28111
 Saint Joseph,U.S. House,2,Joseph Gerard Bock,Democratic,28802
 Saint Joseph,U.S. House,2,Jeff Petermann,Libertarian,1357
 Saint Joseph,U.S. House,2,Jackie Walorski,Republican,28239
-Saint Joseph,State Senator,11,Joe Zakas,Republican,12956
+Saint Joseph,State Senate,11,Joe Zakas,Republican,12956
 Saint Joseph,State House,5,Dale R Devon,Republican,9379
 Saint Joseph,State House,6,B Patrick Bauer,Democratic,8163
 Saint Joseph,State House,7,David L Niezgodski,Democratic,8234
@@ -2648,8 +2648,8 @@ Scott,U.S. House,6,Allen Lucas Messer,Republican,1269
 Scott,U.S. House,9,William W Bailey,Democratic,1348
 Scott,U.S. House,9,Ralph Mike Frey,Libertarian,90
 Scott,U.S. House,9,Todd Young,Republican,2016
-Scott,State Senator,45,Julie Berry,Democratic,3601
-Scott,State Senator,45,Jim Smith,Republican,2985
+Scott,State Senate,45,Julie Berry,Democratic,3601
+Scott,State Senate,45,Jim Smith,Republican,2985
 Scott,State House,66,Terry Goodin,Democratic,4671
 Scott,State House,66,Lisa Seng Shadday,Republican,2057
 Scott,Prosecuting Attorney,Scott (6Th Circuit),Jason M Mount,Democratic,4916
@@ -2691,8 +2691,8 @@ Spencer,Treasurer of State,,Kelly Mitchell,Republican,3995
 Spencer,U.S. House,8,Thomas R Spangler,Democratic,2592
 Spencer,U.S. House,8,Andrew Horning,Libertarian,231
 Spencer,U.S. House,8,Larry D Bucshon,Republican,4144
-Spencer,State Senator,48,Larry Vollmer,Democratic,2634
-Spencer,State Senator,48,Mark B Messmer,Republican,4334
+Spencer,State Senate,48,Larry Vollmer,Democratic,2634
+Spencer,State Senate,48,Mark B Messmer,Republican,4334
 Spencer,State House,74,Christopher James Coyle,Democratic,1227
 Spencer,State House,74,Lloyd Arnold,Republican,1963
 Spencer,State House,75,Steve Spinks,Democratic,1375
@@ -2771,8 +2771,8 @@ Sullivan,Treasurer of State,,Kelly Mitchell,Republican,2811
 Sullivan,U.S. House,8,Thomas R Spangler,Democratic,2490
 Sullivan,U.S. House,8,Andrew Horning,Libertarian,205
 Sullivan,U.S. House,8,Larry D Bucshon,Republican,2956
-Sullivan,State Senator,39,Steve Lindsey,Democratic,3040
-Sullivan,State Senator,39,Eric Bassler,Republican,2585
+Sullivan,State Senate,39,Steve Lindsey,Democratic,3040
+Sullivan,State Senate,39,Eric Bassler,Republican,2585
 Sullivan,State House,45,Bionca Gambill,Democratic,2724
 Sullivan,State House,45,Bruce Borders,Republican,3090
 Sullivan,Judge of the Circuit Court,Sullivan (14Th Circuit),Robert Earl Hunley Ii,Democratic,4440
@@ -2795,8 +2795,8 @@ Switzerland,Treasurer of State,,Kelly Mitchell,Republican,1207
 Switzerland,U.S. House,6,Susan Hall Heitzman,Democratic,983
 Switzerland,U.S. House,6,Eric Miller,Libertarian,112
 Switzerland,U.S. House,6,Allen Lucas Messer,Republican,1340
-Switzerland,State Senator,45,Julie Berry,Democratic,1183
-Switzerland,State Senator,45,Jim Smith,Republican,1307
+Switzerland,State Senate,45,Julie Berry,Democratic,1183
+Switzerland,State Senate,45,Jim Smith,Republican,1307
 Switzerland,State House,67,Randy Frye,Republican,1739
 Switzerland,Judge of the Circuit Court,Switzerland (91St Circuit,W Gregory Coy,Democratic,1887
 Switzerland,Prosecuting Attorney,Switzerland (91St Circuit,Monica L Hensley,Democratic,1702
@@ -2813,7 +2813,7 @@ Tippecanoe,Treasurer of State,,Michael L Mike Jasper,Libertarian,1764
 Tippecanoe,Treasurer of State,,Kelly Mitchell,Republican,16629
 Tippecanoe,U.S. House,4,John Dale,Democratic,14296
 Tippecanoe,U.S. House,4,Theodore E Rokita,Republican,15767
-Tippecanoe,State Senator,22,Ron Alting,Republican,16051
+Tippecanoe,State Senate,22,Ron Alting,Republican,16051
 Tippecanoe,State House,13,Sharon Negele,Republican,3222
 Tippecanoe,State House,25,Maurice O Fuller,Democratic,1400
 Tippecanoe,State House,25,Donald J Lehe,Republican,3328
@@ -2869,7 +2869,7 @@ Tipton,Treasurer of State,,Kelly Mitchell,Republican,3247
 Tipton,U.S. House,5,Shawn Allen Denney,Democratic,1002
 Tipton,U.S. House,5,John Krom,Libertarian,197
 Tipton,U.S. House,5,Susan W Brooks,Republican,3531
-Tipton,State Senator,21,James R Buck,Republican,3748
+Tipton,State Senate,21,James R Buck,Republican,3748
 Tipton,State House,32,Robert Ashley,Democratic,1945
 Tipton,State House,32,P Eric Turner,Republican,2696
 Tipton,Judge of the Circuit Court,Tipton (36Th Circuit),Thomas R Lett,Republican,4077
@@ -2890,9 +2890,9 @@ Union,Treasurer of State,,Kelly Mitchell,Republican,1398
 Union,U.S. House,6,Susan Hall Heitzman,Democratic,547
 Union,U.S. House,6,Eric Miller,Libertarian,98
 Union,U.S. House,6,Allen Lucas Messer,Republican,1565
-Union,State Senator,27,Jerome Jake Hoog,Democratic,538
-Union,State Senator,27,Rex Bell,Libertarian,181
-Union,State Senator,27,Jeffrey Scott Raatz,Republican,1486
+Union,State Senate,27,Jerome Jake Hoog,Democratic,538
+Union,State Senate,27,Rex Bell,Libertarian,181
+Union,State Senate,27,Jeffrey Scott Raatz,Republican,1486
 Union,State House,68,Ricky L Gill,Democratic,723
 Union,State House,68,Jud Mcmillin,Republican,1512
 Union,Prosecuting Attorney,Union (89Th Circuit),Andrew J Bryson,Democratic,1296
@@ -2909,7 +2909,7 @@ Vanderburgh,Treasurer of State,,Kelly Mitchell,Republican,20584
 Vanderburgh,U.S. House,8,Thomas R Spangler,Democratic,12975
 Vanderburgh,U.S. House,8,Andrew Horning,Libertarian,1415
 Vanderburgh,U.S. House,8,Larry D Bucshon,Republican,21953
-Vanderburgh,State Senator,49,James Tomes,Republican,14303
+Vanderburgh,State Senate,49,James Tomes,Republican,14303
 Vanderburgh,State House,64,Thomas W Washburne,Republican,5003
 Vanderburgh,State House,76,Anthony Goben,Democratic,3010
 Vanderburgh,State House,76,Wendy Mcnamara,Republican,5211
@@ -2961,8 +2961,8 @@ Vermillion,Treasurer of State,,Kelly Mitchell,Republican,1847
 Vermillion,U.S. House,8,Thomas R Spangler,Democratic,1891
 Vermillion,U.S. House,8,Andrew Horning,Libertarian,210
 Vermillion,U.S. House,8,Larry D Bucshon,Republican,1970
-Vermillion,State Senator,23,Robert V Burkett,Democratic,2439
-Vermillion,State Senator,23,Philip L Boots,Republican,1683
+Vermillion,State Senate,23,Robert V Burkett,Democratic,2439
+Vermillion,State Senate,23,Philip L Boots,Republican,1683
 Vermillion,State House,42,Mark C Spelbring,Democratic,2134
 Vermillion,State House,42,Alan P Morrison,Republican,1996
 Vermillion,Prosecuting Attorney,Vermillion (47Th Circuit),Bruce D Aukerman,Democratic,3130
@@ -2980,8 +2980,8 @@ Vigo,Treasurer of State,,Kelly Mitchell,Republican,9948
 Vigo,U.S. House,8,Thomas R Spangler,Democratic,9349
 Vigo,U.S. House,8,Andrew Horning,Libertarian,823
 Vigo,U.S. House,8,Larry D Bucshon,Republican,10901
-Vigo,State Senator,38,Timothy Dale Skinner,Democratic,10874
-Vigo,State Senator,38,Jon Ford,Republican,10306
+Vigo,State Senate,38,Timothy Dale Skinner,Democratic,10874
+Vigo,State Senate,38,Jon Ford,Republican,10306
 Vigo,State House,42,Mark C Spelbring,Democratic,1578
 Vigo,State House,42,Alan P Morrison,Republican,1835
 Vigo,State House,43,Clyde Kersey,Democratic,7856
@@ -3012,7 +3012,7 @@ Wabash,Treasurer of State,,Kelly Mitchell,Republican,4521
 Wabash,U.S. House,2,Joseph Gerard Bock,Democratic,1533
 Wabash,U.S. House,2,Jeff Petermann,Libertarian,232
 Wabash,U.S. House,2,Jackie Walorski,Republican,4394
-Wabash,State Senator,17,Jim Banks,Republican,4983
+Wabash,State Senate,17,Jim Banks,Republican,4983
 Wabash,State House,18,David A Wolkins,Republican,4832
 Wabash,Judge of the Superior Court,Wabash County,Christopher M Goff,Republican,5236
 Wabash,Prosecuting Attorney,Wabash (27Th Circuit),"William C Hartley, Jr.",Republican,5108
@@ -3039,8 +3039,8 @@ Warren,Treasurer of State,,Michael L Mike Jasper,Libertarian,106
 Warren,Treasurer of State,,Kelly Mitchell,Republican,1607
 Warren,U.S. House,4,John Dale,Democratic,848
 Warren,U.S. House,4,Theodore E Rokita,Republican,1605
-Warren,State Senator,23,Robert V Burkett,Democratic,767
-Warren,State Senator,23,Philip L Boots,Republican,1651
+Warren,State Senate,23,Robert V Burkett,Democratic,767
+Warren,State Senate,23,Philip L Boots,Republican,1651
 Warren,State House,13,Sharon Negele,Republican,1654
 Warren,State House,42,Mark C Spelbring,Democratic,35
 Warren,State House,42,Alan P Morrison,Republican,117
@@ -3060,8 +3060,8 @@ Warrick,Treasurer of State,,Kelly Mitchell,Republican,9912
 Warrick,U.S. House,8,Thomas R Spangler,Democratic,5027
 Warrick,U.S. House,8,Andrew Horning,Libertarian,487
 Warrick,U.S. House,8,Larry D Bucshon,Republican,9901
-Warrick,State Senator,48,Larry Vollmer,Democratic,2180
-Warrick,State Senator,48,Mark B Messmer,Republican,3055
+Warrick,State Senate,48,Larry Vollmer,Democratic,2180
+Warrick,State Senate,48,Mark B Messmer,Republican,3055
 Warrick,State House,75,Steve Spinks,Democratic,3924
 Warrick,State House,75,Ron Bacon,Republican,8487
 Warrick,State House,78,Stephen R Melcher,Democratic,996
@@ -3104,8 +3104,8 @@ Washington,Treasurer of State,,Kelly Mitchell,Republican,4179
 Washington,U.S. House,9,William W Bailey,Democratic,2022
 Washington,U.S. House,9,Ralph Mike Frey,Libertarian,252
 Washington,U.S. House,9,Todd Young,Republican,4921
-Washington,State Senator,47,Richard D Young,Democratic,2186
-Washington,State Senator,47,Erin Houchin,Republican,5070
+Washington,State Senate,47,Richard D Young,Democratic,2186
+Washington,State Senate,47,Erin Houchin,Republican,5070
 Washington,State House,73,Douglas C Leatherbury,Democratic,2114
 Washington,State House,73,Steven Davisson,Republican,5135
 Washington,Prosecuting Attorney,Washington (42Nd Circuit),Dustin Houchin,Republican,5694
@@ -3126,9 +3126,9 @@ Wayne,Treasurer of State,,Kelly Mitchell,Republican,6816
 Wayne,U.S. House,6,Susan Hall Heitzman,Democratic,2845
 Wayne,U.S. House,6,Eric Miller,Libertarian,727
 Wayne,U.S. House,6,Allen Lucas Messer,Republican,7090
-Wayne,State Senator,27,Jerome Jake Hoog,Democratic,2467
-Wayne,State Senator,27,Rex Bell,Libertarian,1649
-Wayne,State Senator,27,Jeffrey Scott Raatz,Republican,6540
+Wayne,State Senate,27,Jerome Jake Hoog,Democratic,2467
+Wayne,State Senate,27,Rex Bell,Libertarian,1649
+Wayne,State Senate,27,Jeffrey Scott Raatz,Republican,6540
 Wayne,State House,54,Brad Owens,Libertarian,285
 Wayne,State House,54,Thomas E Tom Saunders,Republican,584
 Wayne,State House,56,Phillip Carter Pflum,Democratic,3266
@@ -3160,7 +3160,7 @@ Wells,Treasurer of State,,Kelly Mitchell,Republican,5875
 Wells,U.S. House,3,Justin Kuhnle,Democratic,1629
 Wells,U.S. House,3,Scott Wise,Libertarian,317
 Wells,U.S. House,3,Marlin A Stutzman,Republican,6223
-Wells,State Senator,19,Travis Holdman,Republican,6684
+Wells,State Senate,19,Travis Holdman,Republican,6684
 Wells,State House,31,Kevin A Mahan,Republican,447
 Wells,State House,50,Daniel Dan J Leonard,Republican,1512
 Wells,State House,79,Matthew S Lehman,Republican,4883
@@ -3214,7 +3214,7 @@ Whitley,Treasurer of State,,Kelly Mitchell,Republican,5330
 Whitley,U.S. House,3,Justin Kuhnle,Democratic,1490
 Whitley,U.S. House,3,Scott Wise,Libertarian,477
 Whitley,U.S. House,3,Marlin A Stutzman,Republican,5510
-Whitley,State Senator,17,Jim Banks,Republican,5698
+Whitley,State Senate,17,Jim Banks,Republican,5698
 Whitley,State House,82,Michael T Wilber,Democratic,262
 Whitley,State House,82,David Ober,Republican,847
 Whitley,State House,83,Christopher N Judy,Republican,5307

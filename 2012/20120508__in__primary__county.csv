@@ -44,8 +44,8 @@ Allen,U.S. House,3,John Forrest Roberson,Democratic,485
 Allen,U.S. House,3,Tommy A. Schrader,Democratic,833
 Allen,U.S. House,3,David Sowards,Democratic,496
 Allen,U.S. House,3,Marlin A. Stutzman,Republican,32178
-Allen,State Senator,15,Ken Fries,Republican,0
-Allen,State Senator,15,David C. Long,Republican,11052
+Allen,State Senate,15,Ken Fries,Republican,0
+Allen,State Senate,15,David C. Long,Republican,11052
 Allen,State House,50,Mike Wallin,Democratic,409
 Allen,State House,50,(Dan) Daniel J. Leonard,Republican,1627
 Allen,State House,50,Gary Harbaugh,Republican,299
@@ -242,7 +242,7 @@ Bartholomew,U.S. House,6,Luke Messer,Republican,4157
 Bartholomew,U.S. House,6,Joe Sizemore,Republican,167
 Bartholomew,U.S. House,6,Allen K. Smith Ii,Republican,927
 Bartholomew,U.S. House,6,"Joseph S. Van Wye, Sr",Republican,110
-Bartholomew,State Senator,41,Greggory F. Walker,Republican,0
+Bartholomew,State Senate,41,Greggory F. Walker,Republican,0
 Bartholomew,State House,57,D. Todd Day,Democratic,267
 Bartholomew,State House,57,Sean R. Eberhart,Republican,1389
 Bartholomew,State House,57,Trent Wisner,Republican,9
@@ -346,7 +346,7 @@ Boone,U.S. House,4,David Mcintosh,Republican,2137
 Boone,U.S. House,4,Matthew Mount,Republican,55
 Boone,U.S. House,4,"William ""Bill"" Salin",Republican,86
 Boone,U.S. House,4,Wayne Seybold,Republican,335
-Boone,State Senator,7,Brandt Hershman,Republican,1694
+Boone,State Senate,7,Brandt Hershman,Republican,1694
 Boone,State House,24,Steven Braun,Republican,4122
 Boone,State House,24,Mindi Fisher Mcmillan,Republican,2590
 Boone,Judge of the Circuit Court,Boone 20Th Circuit,J. Jeffrey (Jeff) Edens,Republican,9984
@@ -387,7 +387,7 @@ Brown,U.S. House,9,John W. Tilford,Democratic,80
 Brown,U.S. House,9,Robert Winningham,Democratic,89
 Brown,U.S. House,9,Shelli Yoder,Democratic,546
 Brown,U.S. House,9,Todd Young,Republican,2121
-Brown,State Senator,44,Brent Steele,Republican,1992
+Brown,State Senate,44,Brent Steele,Republican,1992
 Brown,State House,65,Eric A. Koch,Republican,2088
 Brown,Judge of the Circuit Court,Brown 88Th Circuit,Judith A. Stewart,Democratic,954
 Brown,State Convention Delegate,Brown County,Kevin D. Allen,Republican,0
@@ -409,7 +409,7 @@ Carroll,Governor,,Mike Pence,Republican,2690
 Carroll,U.S. House,4,Lester Terry Moore,Democratic,175
 Carroll,U.S. House,4,Tara E. Nelson,Democratic,219
 Carroll,U.S. House,4,Todd Rokita,Republican,2531
-Carroll,State Senator,7,Brandt Hershman,Republican,1679
+Carroll,State Senate,7,Brandt Hershman,Republican,1679
 Carroll,State House,25,Shane Evans,Democratic,204
 Carroll,State House,25,Donald J. Lehe,Republican,1153
 Carroll,State House,25,Franklyn Voorhies,Republican,435
@@ -437,7 +437,7 @@ Cass,Governor,,Mike Pence,Republican,4174
 Cass,U.S. House,4,Lester Terry Moore,Democratic,433
 Cass,U.S. House,4,Tara E. Nelson,Democratic,757
 Cass,U.S. House,4,Todd Rokita,Republican,4047
-Cass,State Senator,18,Randall Head,Republican,4221
+Cass,State Senate,18,Randall Head,Republican,4221
 Cass,State House,23,"Kerry ""Worly"" Worthington",Democratic,859
 Cass,State House,23,William C. Friend,Republican,2550
 Cass,State House,23,Donald J. Lehe,Republican,479
@@ -561,7 +561,7 @@ Clinton,Governor,,Mike Pence,Republican,4247
 Clinton,U.S. House,4,Lester Terry Moore,Democratic,246
 Clinton,U.S. House,4,Tara E. Nelson,Democratic,279
 Clinton,U.S. House,4,Todd Rokita,Republican,4158
-Clinton,State Senator,7,Brandt Hershman,Republican,3787
+Clinton,State Senate,7,Brandt Hershman,Republican,3787
 Clinton,State House,25,Shane Evans,Democratic,98
 Clinton,State House,25,Donald J. Lehe,Republican,535
 Clinton,State House,25,Franklyn Voorhies,Republican,240
@@ -654,7 +654,7 @@ Dearborn,U.S. House,6,Luke Messer,Republican,1669
 Dearborn,U.S. House,6,Joe Sizemore,Republican,230
 Dearborn,U.S. House,6,Allen K. Smith Ii,Republican,32
 Dearborn,U.S. House,6,"Joseph S. Van Wye, Sr",Republican,41
-Dearborn,State Senator,27,Jeff Raatz,Republican,0
+Dearborn,State Senate,27,Jeff Raatz,Republican,0
 Dearborn,State House,67,Tom Cheek,Democratic,402
 Dearborn,State House,67,Randy Frye,Republican,841
 Dearborn,Judge of the Superior Court,"Dearborn County, No. 2",N. Alan Miller Iii,Democratic,1045
@@ -699,7 +699,7 @@ Decatur,U.S. House,6,Luke Messer,Republican,2082
 Decatur,U.S. House,6,Joe Sizemore,Republican,53
 Decatur,U.S. House,6,Allen K. Smith Ii,Republican,22
 Decatur,U.S. House,6,"Joseph S. Van Wye, Sr",Republican,29
-Decatur,State Senator,42,Jean Leising,Republican,334
+Decatur,State Senate,42,Jean Leising,Republican,334
 Decatur,State House,55,David (Dave) Moeller,Democratic,313
 Decatur,State House,55,Sam Harvey,Republican,128
 Decatur,State House,55,Bob White,Republican,425
@@ -734,8 +734,8 @@ DeKalb,U.S. House,3,John Forrest Roberson,Democratic,49
 DeKalb,U.S. House,3,Tommy A. Schrader,Democratic,81
 DeKalb,U.S. House,3,David Sowards,Democratic,42
 DeKalb,U.S. House,3,Marlin A. Stutzman,Republican,4632
-DeKalb,State Senator,13,C. Susan Glick,Republican,382
-DeKalb,State Senator,13,David Yarde,Republican,907
+DeKalb,State Senate,13,C. Susan Glick,Republican,382
+DeKalb,State Senate,13,David Yarde,Republican,907
 DeKalb,State House,52,Charles E. Odier,Democratic,479
 DeKalb,State House,52,Gary Harbaugh,Republican,251
 DeKalb,State House,52,Paul Moss,Republican,600
@@ -853,8 +853,8 @@ Elkhart,U.S. House,2,Dan Morrison,Democratic,1336
 Elkhart,U.S. House,2,Brendan Mullen,Democratic,1215
 Elkhart,U.S. House,2,Greg Andrews,Republican,3960
 Elkhart,U.S. House,2,Jackie Walorski,Republican,15557
-Elkhart,State Senator,9,Ryan D. Mishler,Republican,2144
-Elkhart,State Senator,9,Carlin Yoder,Republican,9858
+Elkhart,State Senate,9,Ryan D. Mishler,Republican,2144
+Elkhart,State Senate,9,Carlin Yoder,Republican,9858
 Elkhart,State House,21,Timothy Wesco,Republican,3370
 Elkhart,State House,21,Timothy Wesco,Republican,0
 Elkhart,State House,21,Jon D. Hare,Republican,652
@@ -941,7 +941,7 @@ Fayette,U.S. House,6,Luke Messer,Republican,867
 Fayette,U.S. House,6,Joe Sizemore,Republican,68
 Fayette,U.S. House,6,Allen K. Smith Ii,Republican,19
 Fayette,U.S. House,6,"Joseph S. Van Wye, Sr",Republican,33
-Fayette,State Senator,27,Jeff Raatz,Republican,0
+Fayette,State Senate,27,Jeff Raatz,Republican,0
 Fayette,State House,55,David (Dave) Moeller,Democratic,940
 Fayette,State House,55,Sam Harvey,Republican,1612
 Fayette,State House,55,Bob White,Republican,138
@@ -1047,7 +1047,7 @@ Franklin,U.S. House,6,Luke Messer,Republican,754
 Franklin,U.S. House,6,Joe Sizemore,Republican,277
 Franklin,U.S. House,6,Allen K. Smith Ii,Republican,17
 Franklin,U.S. House,6,"Joseph S. Van Wye, Sr",Republican,13
-Franklin,State Senator,27,Jeff Raatz,Republican,0
+Franklin,State Senate,27,Jeff Raatz,Republican,0
 Franklin,State House,55,David (Dave) Moeller,Democratic,172
 Franklin,State House,55,Sam Harvey,Republican,56
 Franklin,State House,55,Bob White,Republican,79
@@ -1077,7 +1077,7 @@ Fulton,U.S. House,2,Dan Morrison,Democratic,175
 Fulton,U.S. House,2,Brendan Mullen,Democratic,167
 Fulton,U.S. House,2,Greg Andrews,Republican,793
 Fulton,U.S. House,2,Jackie Walorski,Republican,1569
-Fulton,State Senator,18,Randall Head,Republican,2106
+Fulton,State Senate,18,Randall Head,Republican,2106
 Fulton,State House,16,Richard W. (Rich) Ludington,Democratic,32
 Fulton,State House,16,"John ""The Man"" Malan",Democratic,10
 Fulton,State House,16,Diana J. Boersma,Republican,77
@@ -1204,8 +1204,8 @@ Hamilton,U.S. House,5,David Mcintosh,Republican,12026
 Hamilton,U.S. House,5,Matthew Mount,Republican,151
 Hamilton,U.S. House,5,"William ""Bill"" Salin",Republican,332
 Hamilton,U.S. House,5,Wayne Seybold,Republican,3375
-Hamilton,State Senator,20,Luke Kenley,Republican,17331
-Hamilton,State Senator,20,Scott Schneider,Republican,5623
+Hamilton,State Senate,20,Luke Kenley,Republican,17331
+Hamilton,State Senate,20,Scott Schneider,Republican,5623
 Hamilton,State House,24,Steven Braun,Republican,3560
 Hamilton,State House,24,Mindi Fisher Mcmillan,Republican,1826
 Hamilton,State House,24,Kathy Kreag Richardson,Republican,6322
@@ -1316,10 +1316,10 @@ Hancock,U.S. House,6,Luke Messer,Republican,5552
 Hancock,U.S. House,6,Joe Sizemore,Republican,370
 Hancock,U.S. House,6,Allen K. Smith Ii,Republican,92
 Hancock,U.S. House,6,"Joseph S. Van Wye, Sr",Republican,128
-Hancock,State Senator,28,Michael L. Adkins,Democratic,834
-Hancock,State Senator,28,Michael R. (Mike) Crider,Republican,4927
-Hancock,State Senator,28,Chris Lytle,Republican,3559
-Hancock,State Senator,28,John Merlau,Republican,3322
+Hancock,State Senate,28,Michael L. Adkins,Democratic,834
+Hancock,State Senate,28,Michael R. (Mike) Crider,Republican,4927
+Hancock,State Senate,28,Chris Lytle,Republican,3559
+Hancock,State Senate,28,John Merlau,Republican,3322
 Hancock,State House,53,Robert W. Cherry,Republican,4885
 Hancock,State House,53,Sam Weist 1St,Republican,1682
 Hancock,State House,53,Sean R. Eberhart,Republican,1245
@@ -1394,10 +1394,10 @@ Hendricks,Governor,,Mike Pence,Republican,17383
 Hendricks,U.S. House,4,Lester Terry Moore,Democratic,559
 Hendricks,U.S. House,4,Tara E. Nelson,Democratic,843
 Hendricks,U.S. House,4,Todd Rokita,Republican,16274
-Hendricks,State Senator,24,Charles Albert Bender,Democratic,962
-Hendricks,State Senator,24,Connie Lawson,Republican,12638
-Hendricks,State Senator,24,Daniel L. Kinnamon,Republican,2314
-Hendricks,State Senator,24,R. Michael Young,Republican,2040
+Hendricks,State Senate,24,Charles Albert Bender,Democratic,962
+Hendricks,State Senate,24,Connie Lawson,Republican,12638
+Hendricks,State Senate,24,Daniel L. Kinnamon,Republican,2314
+Hendricks,State Senate,24,R. Michael Young,Republican,2040
 Hendricks,State House,28,Jeffrey A. Thompson,Republican,8258
 Hendricks,State House,28,Gregory E. Steuerwald,Republican,6303
 Hendricks,State House,28,Robert W. Behning,Republican,1580
@@ -1473,7 +1473,7 @@ Henry,U.S. House,6,Luke Messer,Republican,2431
 Henry,U.S. House,6,Joe Sizemore,Republican,165
 Henry,U.S. House,6,Allen K. Smith Ii,Republican,74
 Henry,U.S. House,6,"Joseph S. Van Wye, Sr",Republican,83
-Henry,State Senator,42,Jean Leising,Republican,3692
+Henry,State Senate,42,Jean Leising,Republican,3692
 Henry,State House,54,Thomas E. (Tom) Saunders,Republican,5185
 Henry,State Convention Delegate,Henry County,Janet Cativiela,Republican,0
 Henry,State Convention Delegate,Henry County,Lloyd Gene Elliot,Republican,0
@@ -1607,7 +1607,7 @@ Jackson,U.S. House,9,John W. Tilford,Democratic,201
 Jackson,U.S. House,9,Robert Winningham,Democratic,538
 Jackson,U.S. House,9,Shelli Yoder,Democratic,900
 Jackson,U.S. House,9,Todd Young,Republican,3414
-Jackson,State Senator,44,Brent Steele,Republican,2685
+Jackson,State Senate,44,Brent Steele,Republican,2685
 Jackson,State House,65,Eric A. Koch,Republican,166
 Jackson,State House,65,Trent Wisner,Republican,536
 Jackson,State House,65,Jim Lucas,Republican,2603
@@ -1637,8 +1637,8 @@ Jasper,Governor,,Mike Pence,Republican,3864
 Jasper,U.S. House,4,Lester Terry Moore,Democratic,316
 Jasper,U.S. House,4,Tara E. Nelson,Democratic,339
 Jasper,U.S. House,4,Todd Rokita,Republican,3623
-Jasper,State Senator,5,"Debora ""Deb"" Porter",Democratic,483
-Jasper,State Senator,5,Ed Charbonneau,Republican,2721
+Jasper,State Senate,5,"Debora ""Deb"" Porter",Democratic,483
+Jasper,State Senate,5,Ed Charbonneau,Republican,2721
 Jasper,State House,13,Mark Straw,Democratic,26
 Jasper,State House,13,Sharon Negele,Republican,336
 Jasper,State House,13,Dan Young,Republican,105
@@ -1754,10 +1754,10 @@ Johnson,U.S. House,9,John W. Tilford,Democratic,193
 Johnson,U.S. House,9,Robert Winningham,Democratic,250
 Johnson,U.S. House,9,Shelli Yoder,Democratic,916
 Johnson,U.S. House,9,Todd Young,Republican,16277
-Johnson,State Senator,36,Mary Ann Sullivan,Democratic,132
-Johnson,State Senator,36,Brent Waltz,Republican,1365
-Johnson,State Senator,36,Rodric D. Bray,Republican,2637
-Johnson,State Senator,36,Ryan Goodwin,Republican,2769
+Johnson,State Senate,36,Mary Ann Sullivan,Democratic,132
+Johnson,State Senate,36,Brent Waltz,Republican,1365
+Johnson,State Senate,36,Rodric D. Bray,Republican,2637
+Johnson,State Senate,36,Ryan Goodwin,Republican,2769
 Johnson,State House,47,Mark Meadows,Republican,1103
 Johnson,State House,47,John Price,Republican,4518
 Johnson,State House,47,John Price,Republican,0
@@ -1841,8 +1841,8 @@ Kosciusko,U.S. House,2,John Forrest Roberson,Republican,46
 Kosciusko,U.S. House,2,Tommy A. Schrader,Republican,58
 Kosciusko,U.S. House,2,David Sowards,Republican,46
 Kosciusko,U.S. House,2,Marlin A. Stutzman,Republican,6210
-Kosciusko,State Senator,9,Ryan D. Mishler,Republican,6829
-Kosciusko,State Senator,9,Carlin Yoder,Republican,957
+Kosciusko,State Senate,9,Ryan D. Mishler,Republican,6829
+Kosciusko,State Senate,9,Carlin Yoder,Republican,957
 Kosciusko,State House,18,Christopher (Chris) Wright,Democratic,240
 Kosciusko,State House,18,David A. Wolkins,Republican,3388
 Kosciusko,State House,18,Jon D. Hare,Republican,2409
@@ -1886,8 +1886,8 @@ LaGrange,U.S. House,3,John Forrest Roberson,Democratic,27
 LaGrange,U.S. House,3,Tommy A. Schrader,Democratic,38
 LaGrange,U.S. House,3,David Sowards,Democratic,29
 LaGrange,U.S. House,3,Marlin A. Stutzman,Republican,2884
-LaGrange,State Senator,13,C. Susan Glick,Republican,2475
-LaGrange,State Senator,13,David Yarde,Republican,808
+LaGrange,State Senate,13,C. Susan Glick,Republican,2475
+LaGrange,State Senate,13,David Yarde,Republican,808
 LaGrange,State House,51,Lon Keyes,Democratic,243
 LaGrange,State House,51,Aaron Claudy,Republican,659
 LaGrange,State House,51,Dr. Dennis J. Zent,Republican,1783
@@ -1916,9 +1916,9 @@ Lake,Governor,,Mike Pence,Republican,15393
 Lake,U.S. House,1,Peter J. Visclosky,Democratic,32902
 Lake,U.S. House,1,Joel Phelps,Republican,10257
 Lake,U.S. House,1,Dave Wenger,Republican,5377
-Lake,State Senator,2,Lonnie M. Randolph,Democratic,7266
-Lake,State Senator,2,David Vinzant,Democratic,3226
-Lake,State Senator,2,Darren L. Washington,Democratic,3411
+Lake,State Senate,2,Lonnie M. Randolph,Democratic,7266
+Lake,State Senate,2,David Vinzant,Democratic,3226
+Lake,State Senate,2,Darren L. Washington,Democratic,3411
 Lake,State House,1,Linda C. Lawson,Democratic,3661
 Lake,State House,1,Earl L. Harris,Democratic,4608
 Lake,State House,1,Tony Walker,Democratic,3260
@@ -2016,11 +2016,11 @@ LaPort,U.S. House,1,Dave Wenger,Republican,1019
 LaPort,U.S. House,1,Brendan Mullen,Republican,1221
 LaPort,U.S. House,1,Greg Andrews,Republican,1222
 LaPort,U.S. House,1,Jackie Walorski,Republican,2329
-LaPort,State Senator,5,"Debora ""Deb"" Porter",Democratic,155
-LaPort,State Senator,5,Ed Charbonneau,Republican,390
-LaPort,State Senator,5,Maxine Spenner,Republican,1016
-LaPort,State Senator,5,Austin Griffin,Republican,1904
-LaPort,State Senator,5,Eric Harris,Republican,1832
+LaPort,State Senate,5,"Debora ""Deb"" Porter",Democratic,155
+LaPort,State Senate,5,Ed Charbonneau,Republican,390
+LaPort,State Senate,5,Maxine Spenner,Republican,1016
+LaPort,State Senate,5,Austin Griffin,Republican,1904
+LaPort,State Senate,5,Eric Harris,Republican,1832
 LaPort,State House,8,Ryan M. Dvorak,Democratic,244
 LaPort,State House,8,C. Michael Beebe,Republican,170
 LaPort,State House,8,Richard Pfeil,Republican,218
@@ -2051,7 +2051,7 @@ Lawrence,U.S. House,9,John W. Tilford,Democratic,67
 Lawrence,U.S. House,9,Robert Winningham,Democratic,78
 Lawrence,U.S. House,9,Shelli Yoder,Democratic,255
 Lawrence,U.S. House,9,Todd Young,Republican,4914
-Lawrence,State Senator,44,Brent Steele,Republican,5631
+Lawrence,State Senate,44,Brent Steele,Republican,5631
 Lawrence,State House,65,Eric A. Koch,Republican,4363
 Lawrence,State House,65,Steve Davisson,Republican,822
 Lawrence,Judge of the Superior Court,"Lawrence County, No. 1",Michael A. Robbins,Democratic,1147
@@ -2166,17 +2166,17 @@ Marion,U.S. House,5,Carlos A. May,Republican,10783
 Marion,U.S. House,5,Jd Miniear,Republican,2227
 Marion,U.S. House,5,Catherine (Cat) Ping,Republican,9771
 Marion,U.S. House,5,Lawrence (Larry) B. Shouse,Republican,1412
-Marion,State Senator,28,Michael L. Adkins,Democratic,2019
-Marion,State Senator,28,Michael R. (Mike) Crider,Republican,1654
-Marion,State Senator,28,Chris Lytle,Republican,1171
-Marion,State Senator,28,John Merlau,Republican,868
-Marion,State Senator,28,Scott Schneider,Republican,10942
-Marion,State Senator,28,Patricia (Patti) G. Mink,Republican,1367
-Marion,State Senator,28,Patricia Miller,Republican,11695
-Marion,State Senator,28,Margaret Peggy Jones,Republican,0
-Marion,State Senator,28,Daniel L. Kinnamon,Republican,1615
-Marion,State Senator,28,R. Michael Young,Republican,4921
-Marion,State Senator,28,Brent Waltz,Republican,8269
+Marion,State Senate,28,Michael L. Adkins,Democratic,2019
+Marion,State Senate,28,Michael R. (Mike) Crider,Republican,1654
+Marion,State Senate,28,Chris Lytle,Republican,1171
+Marion,State Senate,28,John Merlau,Republican,868
+Marion,State Senate,28,Scott Schneider,Republican,10942
+Marion,State Senate,28,Patricia (Patti) G. Mink,Republican,1367
+Marion,State Senate,28,Patricia Miller,Republican,11695
+Marion,State Senate,28,Margaret Peggy Jones,Republican,0
+Marion,State Senate,28,Daniel L. Kinnamon,Republican,1615
+Marion,State Senate,28,R. Michael Young,Republican,4921
+Marion,State Senate,28,Brent Waltz,Republican,8269
 Marion,State House,86,Edward O. Delaney,Democratic,3491
 Marion,State House,86,Luke Bosso,Republican,6661
 Marion,State House,86,Cindy Noe,Republican,8051
@@ -2353,7 +2353,7 @@ Marshall,U.S. House,2,Dan Morrison,Democratic,405
 Marshall,U.S. House,2,Brendan Mullen,Democratic,270
 Marshall,U.S. House,2,Greg Andrews,Republican,1525
 Marshall,U.S. House,2,Jackie Walorski,Republican,3694
-Marshall,State Senator,9,Ryan D. Mishler,Republican,3207
+Marshall,State Senate,9,Ryan D. Mishler,Republican,3207
 Marshall,State House,17,Francis K. Ellert,Republican,2111
 Marshall,State House,17,Timothy P. Harman,Republican,3142
 Marshall,Judge of the Superior Court,"Marshall County, No. 1",Robert O. Bowen,Republican,4701
@@ -2408,7 +2408,7 @@ Miami,U.S. House,2,Dan Morrison,Democratic,295
 Miami,U.S. House,2,Brendan Mullen,Democratic,287
 Miami,U.S. House,2,Greg Andrews,Republican,1476
 Miami,U.S. House,2,Jackie Walorski,Republican,2303
-Miami,State Senator,18,Randall Head,Republican,3480
+Miami,State Senate,18,Randall Head,Republican,3480
 Miami,State House,18,Christopher (Chris) Wright,Democratic,39
 Miami,State House,18,David A. Wolkins,Republican,222
 Miami,State House,18,William C. Friend,Republican,3257
@@ -2438,8 +2438,8 @@ Monroe,U.S. House,9,John W. Tilford,Democratic,847
 Monroe,U.S. House,9,Robert Winningham,Democratic,491
 Monroe,U.S. House,9,Shelli Yoder,Democratic,3650
 Monroe,U.S. House,9,Todd Young,Republican,7104
-Monroe,State Senator,40,Vi Simpson,Democratic,5353
-Monroe,State Senator,40,Reid Dallas,Republican,5797
+Monroe,State Senate,40,Vi Simpson,Democratic,5353
+Monroe,State Senate,40,Reid Dallas,Republican,5797
 Monroe,State House,46,Larry D. Barker,Democratic,211
 Monroe,State House,46,James R. (Jim) Mann Ii,Democratic,199
 Monroe,State House,46,"Charles ""Chuck"" Toth",Democratic,85
@@ -2525,9 +2525,9 @@ Morgan,U.S. House,4,John W. Tilford,Republican,66
 Morgan,U.S. House,4,Robert Winningham,Republican,117
 Morgan,U.S. House,4,Shelli Yoder,Republican,336
 Morgan,U.S. House,4,Todd Young,Republican,6042
-Morgan,State Senator,37,Jim S. Cahill,Democratic,1044
-Morgan,State Senator,37,Rodric D. Bray,Republican,6302
-Morgan,State Senator,37,Ryan Goodwin,Republican,4554
+Morgan,State Senate,37,Jim S. Cahill,Democratic,1044
+Morgan,State Senate,37,Rodric D. Bray,Republican,6302
+Morgan,State Senate,37,Ryan Goodwin,Republican,4554
 Morgan,State House,44,James (Jim) Baird,Republican,1828
 Morgan,State House,44,John Price,Republican,703
 Morgan,State House,44,John Price,Republican,0
@@ -2598,8 +2598,8 @@ Noble,U.S. House,3,John Forrest Roberson,Democratic,74
 Noble,U.S. House,3,Tommy A. Schrader,Democratic,134
 Noble,U.S. House,3,David Sowards,Democratic,107
 Noble,U.S. House,3,Marlin A. Stutzman,Republican,5030
-Noble,State Senator,13,C. Susan Glick,Republican,3126
-Noble,State Senator,13,David Yarde,Republican,2369
+Noble,State Senate,13,C. Susan Glick,Republican,3126
+Noble,State Senate,13,David Yarde,Republican,2369
 Noble,State House,82,Mike Wilber,Democratic,656
 Noble,State House,82,Mike Caywood,Republican,324
 Noble,State House,82,Denise Lemmon,Republican,2711
@@ -2685,9 +2685,9 @@ Owen,U.S. House,8,William Bryk,Democratic,166
 Owen,U.S. House,8,Dave Crooks,Democratic,496
 Owen,U.S. House,8,Larry D. Bucshon,Republican,1011
 Owen,U.S. House,8,Kristi Risk,Republican,1264
-Owen,State Senator,37,Jim S. Cahill,Democratic,151
-Owen,State Senator,37,Rodric D. Bray,Republican,249
-Owen,State Senator,37,Ryan Goodwin,Republican,206
+Owen,State Senate,37,Jim S. Cahill,Democratic,151
+Owen,State Senate,37,Rodric D. Bray,Republican,249
+Owen,State Senate,37,Ryan Goodwin,Republican,206
 Owen,State House,44,James (Jim) Baird,Republican,336
 Owen,State House,44,James R. (Jim) Mann Ii,Republican,391
 Owen,State House,44,"Charles ""Chuck"" Toth",Republican,467
@@ -2783,8 +2783,8 @@ Porter,Governor,,Mike Pence,Republican,11428
 Porter,U.S. House,1,Peter J. Visclosky,Democratic,6299
 Porter,U.S. House,1,Joel Phelps,Republican,5750
 Porter,U.S. House,1,Dave Wenger,Republican,5556
-Porter,State Senator,5,"Debora ""Deb"" Porter",Democratic,1891
-Porter,State Senator,5,Ed Charbonneau,Republican,6010
+Porter,State Senate,5,"Debora ""Deb"" Porter",Democratic,1891
+Porter,State Senate,5,Ed Charbonneau,Republican,6010
 Porter,State House,4,Greg Simms,Democratic,1680
 Porter,State House,4,Ed Soliday,Republican,5218
 Porter,State House,4,Dan Granquist,Republican,1148
@@ -2883,8 +2883,8 @@ Pulaski,U.S. House,2,Dan Morrison,Democratic,194
 Pulaski,U.S. House,2,Brendan Mullen,Democratic,145
 Pulaski,U.S. House,2,Greg Andrews,Republican,550
 Pulaski,U.S. House,2,Jackie Walorski,Republican,1293
-Pulaski,State Senator,5,"Debora ""Deb"" Porter",Democratic,306
-Pulaski,State Senator,5,Ed Charbonneau,Republican,1480
+Pulaski,State Senate,5,"Debora ""Deb"" Porter",Democratic,306
+Pulaski,State Senate,5,Ed Charbonneau,Republican,1480
 Pulaski,State House,16,Richard W. (Rich) Ludington,Democratic,220
 Pulaski,State House,16,"John ""The Man"" Malan",Democratic,100
 Pulaski,State House,16,Diana J. Boersma,Republican,597
@@ -2910,10 +2910,10 @@ Putnam,Governor,,Mike Pence,Republican,4208
 Putnam,U.S. House,4,Lester Terry Moore,Democratic,246
 Putnam,U.S. House,4,Tara E. Nelson,Democratic,356
 Putnam,U.S. House,4,Todd Rokita,Republican,3922
-Putnam,State Senator,24,Charles Albert Bender,Democratic,343
-Putnam,State Senator,24,Connie Lawson,Republican,2539
-Putnam,State Senator,24,Rodric D. Bray,Republican,927
-Putnam,State Senator,24,Ryan Goodwin,Republican,804
+Putnam,State Senate,24,Charles Albert Bender,Democratic,343
+Putnam,State Senate,24,Connie Lawson,Republican,2539
+Putnam,State Senate,24,Rodric D. Bray,Republican,927
+Putnam,State Senate,24,Ryan Goodwin,Republican,804
 Putnam,State House,44,James (Jim) Baird,Republican,4128
 Putnam,State Convention Delegate,Putnam County,Jinsie S. Bingham,Democratic,0
 Putnam,State Convention Delegate,Putnam County,David A. Bohmer,Democratic,0
@@ -2954,7 +2954,7 @@ Randolph,U.S. House,6,Luke Messer,Republican,1159
 Randolph,U.S. House,6,Joe Sizemore,Republican,47
 Randolph,U.S. House,6,Allen K. Smith Ii,Republican,34
 Randolph,U.S. House,6,"Joseph S. Van Wye, Sr",Republican,46
-Randolph,State Senator,27,Jeff Raatz,Republican,0
+Randolph,State Senate,27,Jeff Raatz,Republican,0
 Randolph,State House,33,Andy Schemenaur,Democratic,579
 Randolph,State House,33,Greg Beumer,Republican,0
 Randolph,State House,33,Bill Davis,Republican,3631
@@ -2983,7 +2983,7 @@ Ripley,U.S. House,6,Luke Messer,Republican,1005
 Ripley,U.S. House,6,Joe Sizemore,Republican,68
 Ripley,U.S. House,6,Allen K. Smith Ii,Republican,32
 Ripley,U.S. House,6,"Joseph S. Van Wye, Sr",Republican,34
-Ripley,State Senator,42,Jean Leising,Republican,975
+Ripley,State Senate,42,Jean Leising,Republican,975
 Ripley,State House,55,David (Dave) Moeller,Democratic,160
 Ripley,State House,55,Sam Harvey,Republican,51
 Ripley,State House,55,Bob White,Republican,114
@@ -3021,7 +3021,7 @@ Rush,U.S. House,6,Luke Messer,Republican,1390
 Rush,U.S. House,6,Joe Sizemore,Republican,92
 Rush,U.S. House,6,Allen K. Smith Ii,Republican,28
 Rush,U.S. House,6,"Joseph S. Van Wye, Sr",Republican,32
-Rush,State Senator,42,Jean Leising,Republican,2926
+Rush,State Senate,42,Jean Leising,Republican,2926
 Rush,State House,54,Thomas E. (Tom) Saunders,Republican,1595
 Rush,State House,54,Sam Harvey,Republican,257
 Rush,State House,54,Bob White,Republican,240
@@ -3048,11 +3048,11 @@ Saint Joseph,U.S. House,2,Dan Morrison,Democratic,4602
 Saint Joseph,U.S. House,2,Brendan Mullen,Democratic,6992
 Saint Joseph,U.S. House,2,Greg Andrews,Republican,4687
 Saint Joseph,U.S. House,2,Jackie Walorski,Republican,13713
-Saint Joseph,State Senator,8,Jim Arnold,Democratic,1522
-Saint Joseph,State Senator,8,Maxine Spenner,Democratic,891
-Saint Joseph,State Senator,8,Austin Griffin,Republican,1482
-Saint Joseph,State Senator,8,Eric Harris,Republican,1818
-Saint Joseph,State Senator,8,Glenn L. Terry,Republican,4064
+Saint Joseph,State Senate,8,Jim Arnold,Democratic,1522
+Saint Joseph,State Senate,8,Maxine Spenner,Democratic,891
+Saint Joseph,State Senate,8,Austin Griffin,Republican,1482
+Saint Joseph,State Senate,8,Eric Harris,Republican,1818
+Saint Joseph,State Senate,8,Glenn L. Terry,Republican,4064
 Saint Joseph,State House,5,Jerod Warnock,Democratic,1644
 Saint Joseph,State House,5,Dale R. Devon,Republican,3366
 Saint Joseph,State House,5,Cory D. Stith,Republican,1207
@@ -3140,10 +3140,10 @@ Shelby,U.S. House,6,Luke Messer,Republican,3543
 Shelby,U.S. House,6,Joe Sizemore,Republican,115
 Shelby,U.S. House,6,Allen K. Smith Ii,Republican,36
 Shelby,U.S. House,6,"Joseph S. Van Wye, Sr",Republican,47
-Shelby,State Senator,28,Michael L. Adkins,Democratic,231
-Shelby,State Senator,28,Michael R. (Mike) Crider,Republican,620
-Shelby,State Senator,28,Chris Lytle,Republican,542
-Shelby,State Senator,28,John Merlau,Republican,880
+Shelby,State Senate,28,Michael L. Adkins,Democratic,231
+Shelby,State Senate,28,Michael R. (Mike) Crider,Republican,620
+Shelby,State Senate,28,Chris Lytle,Republican,542
+Shelby,State Senate,28,John Merlau,Republican,880
 Shelby,State House,57,D. Todd Day,Democratic,873
 Shelby,State House,57,Sean R. Eberhart,Republican,5063
 Shelby,Judge of the Circuit Court,Shelby 16Th Circuit,Charles D. O'Connor,Republican,5161
@@ -3199,11 +3199,11 @@ Starke,U.S. House,2,Dan Morrison,Democratic,782
 Starke,U.S. House,2,Brendan Mullen,Democratic,565
 Starke,U.S. House,2,Greg Andrews,Republican,564
 Starke,U.S. House,2,Jackie Walorski,Republican,1197
-Starke,State Senator,5,"Debora ""Deb"" Porter",Democratic,406
-Starke,State Senator,5,Ed Charbonneau,Republican,639
-Starke,State Senator,5,Maxine Spenner,Republican,270
-Starke,State Senator,5,Austin Griffin,Republican,431
-Starke,State Senator,5,Eric Harris,Republican,463
+Starke,State Senate,5,"Debora ""Deb"" Porter",Democratic,406
+Starke,State Senate,5,Ed Charbonneau,Republican,639
+Starke,State Senate,5,Maxine Spenner,Republican,270
+Starke,State Senate,5,Austin Griffin,Republican,431
+Starke,State Senate,5,Eric Harris,Republican,463
 Starke,State House,16,Richard W. (Rich) Ludington,Democratic,314
 Starke,State House,16,"John ""The Man"" Malan",Democratic,123
 Starke,State House,16,Diana J. Boersma,Republican,323
@@ -3232,8 +3232,8 @@ Steuben,U.S. House,3,John Forrest Roberson,Democratic,37
 Steuben,U.S. House,3,Tommy A. Schrader,Democratic,60
 Steuben,U.S. House,3,David Sowards,Democratic,40
 Steuben,U.S. House,3,Marlin A. Stutzman,Republican,4448
-Steuben,State Senator,13,C. Susan Glick,Republican,3206
-Steuben,State Senator,13,David Yarde,Republican,1777
+Steuben,State Senate,13,C. Susan Glick,Republican,3206
+Steuben,State Senate,13,David Yarde,Republican,1777
 Steuben,State House,51,Lon Keyes,Democratic,408
 Steuben,State House,51,Aaron Claudy,Republican,823
 Steuben,State House,51,Dr. Dennis J. Zent,Republican,3587
@@ -3314,7 +3314,7 @@ Tippecanoe,Governor,,Mike Pence,Republican,10866
 Tippecanoe,U.S. House,4,Lester Terry Moore,Democratic,772
 Tippecanoe,U.S. House,4,Tara E. Nelson,Democratic,1521
 Tippecanoe,U.S. House,4,Todd Rokita,Republican,10615
-Tippecanoe,State Senator,7,Brandt Hershman,Republican,2794
+Tippecanoe,State Senate,7,Brandt Hershman,Republican,2794
 Tippecanoe,State House,13,Mark Straw,Democratic,204
 Tippecanoe,State House,13,Sharon Negele,Republican,1274
 Tippecanoe,State House,13,Dan Young,Republican,507
@@ -3407,7 +3407,7 @@ Union,U.S. House,6,Luke Messer,Republican,197
 Union,U.S. House,6,Joe Sizemore,Republican,11
 Union,U.S. House,6,Allen K. Smith Ii,Republican,8
 Union,U.S. House,6,"Joseph S. Van Wye, Sr",Republican,11
-Union,State Senator,27,Jeff Raatz,Republican,0
+Union,State Senate,27,Jeff Raatz,Republican,0
 Union,State House,68,Jud Mcmillin,Republican,618
 Union,State Convention Delegate,Union County,Brandon Barnhart,Republican,0
 Union,State Convention Delegate,Union County,Jennifer R. Barnhart,Republican,0
@@ -3427,8 +3427,8 @@ Vanderburgh,U.S. House,8,William Bryk,Democratic,343
 Vanderburgh,U.S. House,8,Dave Crooks,Democratic,1532
 Vanderburgh,U.S. House,8,Larry D. Bucshon,Republican,7992
 Vanderburgh,U.S. House,8,Kristi Risk,Republican,5251
-Vanderburgh,State Senator,50,Terry A. White,Democratic,1562
-Vanderburgh,State Senator,50,Vaneta Becker,Republican,5620
+Vanderburgh,State Senate,50,Terry A. White,Democratic,1562
+Vanderburgh,State Senate,50,Vaneta Becker,Republican,5620
 Vanderburgh,State House,64,Mark A. Norton,Democratic,321
 Vanderburgh,State House,64,James Amick,Republican,654
 Vanderburgh,State House,64,Thomas W. Washburne,Republican,1535
@@ -3612,8 +3612,8 @@ Warrick,U.S. House,8,William Bryk,Democratic,114
 Warrick,U.S. House,8,Dave Crooks,Democratic,662
 Warrick,U.S. House,8,Larry D. Bucshon,Republican,3517
 Warrick,U.S. House,8,Kristi Risk,Republican,2944
-Warrick,State Senator,50,Terry A. White,Democratic,665
-Warrick,State Senator,50,Vaneta Becker,Republican,4035
+Warrick,State Senate,50,Terry A. White,Democratic,665
+Warrick,State Senate,50,Vaneta Becker,Republican,4035
 Warrick,State House,75,Kevin Derr,Democratic,1257
 Warrick,State House,75,Ron Bacon,Republican,4107
 Warrick,Judge of the Superior Court,"Warrick County, No. 1",Keith A. Meier,Republican,5307
@@ -3689,7 +3689,7 @@ Wayne,U.S. House,6,Luke Messer,Republican,2733
 Wayne,U.S. House,6,Joe Sizemore,Republican,268
 Wayne,U.S. House,6,Allen K. Smith Ii,Republican,125
 Wayne,U.S. House,6,"Joseph S. Van Wye, Sr",Republican,87
-Wayne,State Senator,27,Jeff Raatz,Republican,0
+Wayne,State Senate,27,Jeff Raatz,Republican,0
 Wayne,State House,54,Thomas E. (Tom) Saunders,Republican,651
 Wayne,State House,54,Mark Ervin,Republican,1665
 Wayne,State House,54,Richard (Dick) Hamm,Republican,3673
@@ -3754,7 +3754,7 @@ White,Governor,,Mike Pence,Republican,3059
 White,U.S. House,4,Lester Terry Moore,Democratic,214
 White,U.S. House,4,Tara E. Nelson,Democratic,315
 White,U.S. House,4,Todd Rokita,Republican,3002
-White,State Senator,7,Brandt Hershman,Republican,3075
+White,State Senate,7,Brandt Hershman,Republican,3075
 White,State House,13,Mark Straw,Democratic,47
 White,State House,13,Sharon Negele,Republican,273
 White,State House,13,Dan Young,Republican,100
@@ -3783,8 +3783,8 @@ Whitley,U.S. House,3,John Forrest Roberson,Democratic,41
 Whitley,U.S. House,3,Tommy A. Schrader,Democratic,128
 Whitley,U.S. House,3,David Sowards,Democratic,40
 Whitley,U.S. House,3,Marlin A. Stutzman,Republican,4253
-Whitley,State Senator,16,Charles T. (Tom) Keen,Democratic,30
-Whitley,State Senator,16,David C. Long,Republican,355
+Whitley,State Senate,16,Charles T. (Tom) Keen,Democratic,30
+Whitley,State Senate,16,David C. Long,Republican,355
 Whitley,State House,82,Mike Wilber,Democratic,73
 Whitley,State House,82,Mike Caywood,Republican,48
 Whitley,State House,82,Denise Lemmon,Republican,204

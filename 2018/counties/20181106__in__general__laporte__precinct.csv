@@ -1,10 +1,10 @@
 county,precinct,election_day,absentee,provisional,votes,office,district,candidate,party
 LaPorte,01-CASS,209,35,0,244,Public Question,,YES,
 LaPorte,01-CASS,104,20,0,124,Public Question,,NO,
-LaPorte,01-CASS,146,28,0,174,United States Senator,,JOE DONNELLY,DEM
-LaPorte,01-CASS,233,31,0,264,United States Senator,,MIKE BRAUN,REP
-LaPorte,01-CASS,13,1,0,14,United States Senator,,LUCY M. BRENTON,LIB
-LaPorte,01-CASS,0,0,0,0,United States Senator,,WRITE-IN,
+LaPorte,01-CASS,146,28,0,174,U.S. Senate,,JOE DONNELLY,DEM
+LaPorte,01-CASS,233,31,0,264,U.S. Senate,,MIKE BRAUN,REP
+LaPorte,01-CASS,13,1,0,14,U.S. Senate,,LUCY M. BRENTON,LIB
+LaPorte,01-CASS,0,0,0,0,U.S. Senate,,WRITE-IN,
 LaPorte,01-CASS,129,24,0,153,Secretary of State,,JIM HARPER,DEM
 LaPorte,01-CASS,245,35,0,280,Secretary of State,,CONNIE LAWSON,REP
 LaPorte,01-CASS,12,0,0,12,Secretary of State,,MARK W. RUTHERFORD,LIB
@@ -39,10 +39,10 @@ LaPorte,01-CASS,231,34,0,265,Court of Appeals Dist 2-Altice,,YES,
 LaPorte,01-CASS,96,15,0,111,Court of Appeals Dist 2-Altice,,NO,
 LaPorte,02-CENTER 1,302,140,0,442,Public Question,,YES,
 LaPorte,02-CENTER 1,125,59,0,184,Public Question,,NO,
-LaPorte,02-CENTER 1,225,144,0,369,United States Senator,,JOE DONNELLY,DEM
-LaPorte,02-CENTER 1,259,76,0,335,United States Senator,,MIKE BRAUN,REP
-LaPorte,02-CENTER 1,14,6,0,20,United States Senator,,LUCY M. BRENTON,LIB
-LaPorte,02-CENTER 1,0,0,0,0,United States Senator,,WRITE-IN,
+LaPorte,02-CENTER 1,225,144,0,369,U.S. Senate,,JOE DONNELLY,DEM
+LaPorte,02-CENTER 1,259,76,0,335,U.S. Senate,,MIKE BRAUN,REP
+LaPorte,02-CENTER 1,14,6,0,20,U.S. Senate,,LUCY M. BRENTON,LIB
+LaPorte,02-CENTER 1,0,0,0,0,U.S. Senate,,WRITE-IN,
 LaPorte,02-CENTER 1,193,123,0,316,Secretary of State,,JIM HARPER,DEM
 LaPorte,02-CENTER 1,280,94,0,374,Secretary of State,,CONNIE LAWSON,REP
 LaPorte,02-CENTER 1,23,6,0,29,Secretary of State,,MARK W. RUTHERFORD,LIB
@@ -82,10 +82,10 @@ LaPorte,02-CENTER 1,309,135,0,444,Court of Appeals Dist 2-Altice,,YES,
 LaPorte,02-CENTER 1,113,53,0,166,Court of Appeals Dist 2-Altice,,NO,
 LaPorte,03-CENTER 2,379,163,0,542,Public Question,,YES,
 LaPorte,03-CENTER 2,126,60,0,186,Public Question,,NO,
-LaPorte,03-CENTER 2,223,138,0,361,United States Senator,,JOE DONNELLY,DEM
-LaPorte,03-CENTER 2,285,117,0,402,United States Senator,,MIKE BRAUN,REP
-LaPorte,03-CENTER 2,14,3,0,17,United States Senator,,LUCY M. BRENTON,LIB
-LaPorte,03-CENTER 2,0,0,0,0,United States Senator,,WRITE-IN,
+LaPorte,03-CENTER 2,223,138,0,361,U.S. Senate,,JOE DONNELLY,DEM
+LaPorte,03-CENTER 2,285,117,0,402,U.S. Senate,,MIKE BRAUN,REP
+LaPorte,03-CENTER 2,14,3,0,17,U.S. Senate,,LUCY M. BRENTON,LIB
+LaPorte,03-CENTER 2,0,0,0,0,U.S. Senate,,WRITE-IN,
 LaPorte,03-CENTER 2,187,122,0,309,Secretary of State,,JIM HARPER,DEM
 LaPorte,03-CENTER 2,316,126,0,442,Secretary of State,,CONNIE LAWSON,REP
 LaPorte,03-CENTER 2,13,6,0,19,Secretary of State,,MARK W. RUTHERFORD,LIB
@@ -125,10 +125,10 @@ LaPorte,03-CENTER 2,318,146,0,464,Court of Appeals Dist 2-Altice,,YES,
 LaPorte,03-CENTER 2,109,62,0,171,Court of Appeals Dist 2-Altice,,NO,
 LaPorte,04-CENTER 3,269,112,0,381,Public Question,,YES,
 LaPorte,04-CENTER 3,117,56,0,173,Public Question,,NO,
-LaPorte,04-CENTER 3,227,107,0,334,United States Senator,,JOE DONNELLY,DEM
-LaPorte,04-CENTER 3,211,78,0,289,United States Senator,,MIKE BRAUN,REP
-LaPorte,04-CENTER 3,7,3,0,10,United States Senator,,LUCY M. BRENTON,LIB
-LaPorte,04-CENTER 3,0,0,0,0,United States Senator,,WRITE-IN,
+LaPorte,04-CENTER 3,227,107,0,334,U.S. Senate,,JOE DONNELLY,DEM
+LaPorte,04-CENTER 3,211,78,0,289,U.S. Senate,,MIKE BRAUN,REP
+LaPorte,04-CENTER 3,7,3,0,10,U.S. Senate,,LUCY M. BRENTON,LIB
+LaPorte,04-CENTER 3,0,0,0,0,U.S. Senate,,WRITE-IN,
 LaPorte,04-CENTER 3,190,104,0,294,Secretary of State,,JIM HARPER,DEM
 LaPorte,04-CENTER 3,237,81,0,318,Secretary of State,,CONNIE LAWSON,REP
 LaPorte,04-CENTER 3,15,1,0,16,Secretary of State,,MARK W. RUTHERFORD,LIB
@@ -168,10 +168,10 @@ LaPorte,04-CENTER 3,273,110,0,383,Court of Appeals Dist 2-Altice,,YES,
 LaPorte,04-CENTER 3,103,47,0,150,Court of Appeals Dist 2-Altice,,NO,
 LaPorte,05-CENTER 4,243,123,0,366,Public Question,,YES,
 LaPorte,05-CENTER 4,123,55,0,178,Public Question,,NO,
-LaPorte,05-CENTER 4,183,94,0,277,United States Senator,,JOE DONNELLY,DEM
-LaPorte,05-CENTER 4,217,96,0,313,United States Senator,,MIKE BRAUN,REP
-LaPorte,05-CENTER 4,15,7,0,22,United States Senator,,LUCY M. BRENTON,LIB
-LaPorte,05-CENTER 4,0,0,0,0,United States Senator,,WRITE-IN,
+LaPorte,05-CENTER 4,183,94,0,277,U.S. Senate,,JOE DONNELLY,DEM
+LaPorte,05-CENTER 4,217,96,0,313,U.S. Senate,,MIKE BRAUN,REP
+LaPorte,05-CENTER 4,15,7,0,22,U.S. Senate,,LUCY M. BRENTON,LIB
+LaPorte,05-CENTER 4,0,0,0,0,U.S. Senate,,WRITE-IN,
 LaPorte,05-CENTER 4,150,87,0,237,Secretary of State,,JIM HARPER,DEM
 LaPorte,05-CENTER 4,244,100,0,344,Secretary of State,,CONNIE LAWSON,REP
 LaPorte,05-CENTER 4,13,5,0,18,Secretary of State,,MARK W. RUTHERFORD,LIB
@@ -211,10 +211,10 @@ LaPorte,05-CENTER 4,281,109,0,390,Court of Appeals Dist 2-Altice,,YES,
 LaPorte,05-CENTER 4,75,45,0,120,Court of Appeals Dist 2-Altice,,NO,
 LaPorte,06-CENTER 5,247,138,0,385,Public Question,,YES,
 LaPorte,06-CENTER 5,120,56,0,176,Public Question,,NO,
-LaPorte,06-CENTER 5,200,112,0,312,United States Senator,,JOE DONNELLY,DEM
-LaPorte,06-CENTER 5,237,108,0,345,United States Senator,,MIKE BRAUN,REP
-LaPorte,06-CENTER 5,12,4,0,16,United States Senator,,LUCY M. BRENTON,LIB
-LaPorte,06-CENTER 5,0,0,0,0,United States Senator,,WRITE-IN,
+LaPorte,06-CENTER 5,200,112,0,312,U.S. Senate,,JOE DONNELLY,DEM
+LaPorte,06-CENTER 5,237,108,0,345,U.S. Senate,,MIKE BRAUN,REP
+LaPorte,06-CENTER 5,12,4,0,16,U.S. Senate,,LUCY M. BRENTON,LIB
+LaPorte,06-CENTER 5,0,0,0,0,U.S. Senate,,WRITE-IN,
 LaPorte,06-CENTER 5,166,103,0,269,Secretary of State,,JIM HARPER,DEM
 LaPorte,06-CENTER 5,268,115,0,383,Secretary of State,,CONNIE LAWSON,REP
 LaPorte,06-CENTER 5,10,1,0,11,Secretary of State,,MARK W. RUTHERFORD,LIB
@@ -253,10 +253,10 @@ LaPorte,06-CENTER 5,277,131,0,408,Court of Appeals Dist 2-Altice,,YES,
 LaPorte,06-CENTER 5,101,44,0,145,Court of Appeals Dist 2-Altice,,NO,
 LaPorte,07-CLINTON,264,33,0,297,Public Question,,YES,
 LaPorte,07-CLINTON,100,12,0,112,Public Question,,NO,
-LaPorte,07-CLINTON,143,25,0,168,United States Senator,,JOE DONNELLY,DEM
-LaPorte,07-CLINTON,245,27,0,272,United States Senator,,MIKE BRAUN,REP
-LaPorte,07-CLINTON,18,1,0,19,United States Senator,,LUCY M. BRENTON,LIB
-LaPorte,07-CLINTON,0,0,0,0,United States Senator,,WRITE-IN,
+LaPorte,07-CLINTON,143,25,0,168,U.S. Senate,,JOE DONNELLY,DEM
+LaPorte,07-CLINTON,245,27,0,272,U.S. Senate,,MIKE BRAUN,REP
+LaPorte,07-CLINTON,18,1,0,19,U.S. Senate,,LUCY M. BRENTON,LIB
+LaPorte,07-CLINTON,0,0,0,0,U.S. Senate,,WRITE-IN,
 LaPorte,07-CLINTON,117,20,0,137,Secretary of State,,JIM HARPER,DEM
 LaPorte,07-CLINTON,274,32,0,306,Secretary of State,,CONNIE LAWSON,REP
 LaPorte,07-CLINTON,16,0,0,16,Secretary of State,,MARK W. RUTHERFORD,LIB
@@ -291,10 +291,10 @@ LaPorte,07-CLINTON,247,28,0,275,Court of Appeals Dist 2-Altice,,YES,
 LaPorte,07-CLINTON,98,16,0,114,Court of Appeals Dist 2-Altice,,NO,
 LaPorte,08-COOLSPRING 1,312,124,0,436,Public Question,,YES,
 LaPorte,08-COOLSPRING 1,139,73,0,212,Public Question,,NO,
-LaPorte,08-COOLSPRING 1,229,134,0,363,United States Senator,,JOE DONNELLY,DEM
-LaPorte,08-COOLSPRING 1,243,86,0,329,United States Senator,,MIKE BRAUN,REP
-LaPorte,08-COOLSPRING 1,15,1,0,16,United States Senator,,LUCY M. BRENTON,LIB
-LaPorte,08-COOLSPRING 1,0,0,0,0,United States Senator,,WRITE-IN,
+LaPorte,08-COOLSPRING 1,229,134,0,363,U.S. Senate,,JOE DONNELLY,DEM
+LaPorte,08-COOLSPRING 1,243,86,0,329,U.S. Senate,,MIKE BRAUN,REP
+LaPorte,08-COOLSPRING 1,15,1,0,16,U.S. Senate,,LUCY M. BRENTON,LIB
+LaPorte,08-COOLSPRING 1,0,0,0,0,U.S. Senate,,WRITE-IN,
 LaPorte,08-COOLSPRING 1,200,127,0,327,Secretary of State,,JIM HARPER,DEM
 LaPorte,08-COOLSPRING 1,262,87,0,349,Secretary of State,,CONNIE LAWSON,REP
 LaPorte,08-COOLSPRING 1,21,7,0,28,Secretary of State,,MARK W. RUTHERFORD,LIB
@@ -339,10 +339,10 @@ LaPorte,08-COOLSPRING 1,277,118,0,395,Court of Appeals Dist 2-Altice,,YES,
 LaPorte,08-COOLSPRING 1,129,58,0,187,Court of Appeals Dist 2-Altice,,NO,
 LaPorte,09-COOLSPRING 2,278,98,0,376,Public Question,,YES,
 LaPorte,09-COOLSPRING 2,102,46,0,148,Public Question,,NO,
-LaPorte,09-COOLSPRING 2,173,84,0,257,United States Senator,,JOE DONNELLY,DEM
-LaPorte,09-COOLSPRING 2,261,70,0,331,United States Senator,,MIKE BRAUN,REP
-LaPorte,09-COOLSPRING 2,25,3,0,28,United States Senator,,LUCY M. BRENTON,LIB
-LaPorte,09-COOLSPRING 2,0,0,0,0,United States Senator,,WRITE-IN,
+LaPorte,09-COOLSPRING 2,173,84,0,257,U.S. Senate,,JOE DONNELLY,DEM
+LaPorte,09-COOLSPRING 2,261,70,0,331,U.S. Senate,,MIKE BRAUN,REP
+LaPorte,09-COOLSPRING 2,25,3,0,28,U.S. Senate,,LUCY M. BRENTON,LIB
+LaPorte,09-COOLSPRING 2,0,0,0,0,U.S. Senate,,WRITE-IN,
 LaPorte,09-COOLSPRING 2,157,81,0,238,Secretary of State,,JIM HARPER,DEM
 LaPorte,09-COOLSPRING 2,272,73,0,345,Secretary of State,,CONNIE LAWSON,REP
 LaPorte,09-COOLSPRING 2,23,2,0,25,Secretary of State,,MARK W. RUTHERFORD,LIB
@@ -384,10 +384,10 @@ LaPorte,09-COOLSPRING 2,257,80,0,337,Court of Appeals Dist 2-Altice,,YES,
 LaPorte,09-COOLSPRING 2,118,48,0,166,Court of Appeals Dist 2-Altice,,NO,
 LaPorte,10-COOLSPRING 3,242,75,0,317,Public Question,,YES,
 LaPorte,10-COOLSPRING 3,91,48,0,139,Public Question,,NO,
-LaPorte,10-COOLSPRING 3,204,93,0,297,United States Senator,,JOE DONNELLY,DEM
-LaPorte,10-COOLSPRING 3,156,55,0,211,United States Senator,,MIKE BRAUN,REP
-LaPorte,10-COOLSPRING 3,16,2,0,18,United States Senator,,LUCY M. BRENTON,LIB
-LaPorte,10-COOLSPRING 3,0,0,0,0,United States Senator,,WRITE-IN,
+LaPorte,10-COOLSPRING 3,204,93,0,297,U.S. Senate,,JOE DONNELLY,DEM
+LaPorte,10-COOLSPRING 3,156,55,0,211,U.S. Senate,,MIKE BRAUN,REP
+LaPorte,10-COOLSPRING 3,16,2,0,18,U.S. Senate,,LUCY M. BRENTON,LIB
+LaPorte,10-COOLSPRING 3,0,0,0,0,U.S. Senate,,WRITE-IN,
 LaPorte,10-COOLSPRING 3,183,82,0,265,Secretary of State,,JIM HARPER,DEM
 LaPorte,10-COOLSPRING 3,169,64,0,233,Secretary of State,,CONNIE LAWSON,REP
 LaPorte,10-COOLSPRING 3,20,2,0,22,Secretary of State,,MARK W. RUTHERFORD,LIB
@@ -427,10 +427,10 @@ LaPorte,10-COOLSPRING 3,198,79,0,277,Court of Appeals Dist 2-Altice,,YES,
 LaPorte,10-COOLSPRING 3,101,40,0,141,Court of Appeals Dist 2-Altice,,NO,
 LaPorte,11-COOLSPRING 4,368,127,0,495,Public Question,,YES,
 LaPorte,11-COOLSPRING 4,135,58,0,193,Public Question,,NO,
-LaPorte,11-COOLSPRING 4,306,153,0,459,United States Senator,,JOE DONNELLY,DEM
-LaPorte,11-COOLSPRING 4,255,76,0,331,United States Senator,,MIKE BRAUN,REP
-LaPorte,11-COOLSPRING 4,24,2,0,26,United States Senator,,LUCY M. BRENTON,LIB
-LaPorte,11-COOLSPRING 4,0,0,0,0,United States Senator,,WRITE-IN,
+LaPorte,11-COOLSPRING 4,306,153,0,459,U.S. Senate,,JOE DONNELLY,DEM
+LaPorte,11-COOLSPRING 4,255,76,0,331,U.S. Senate,,MIKE BRAUN,REP
+LaPorte,11-COOLSPRING 4,24,2,0,26,U.S. Senate,,LUCY M. BRENTON,LIB
+LaPorte,11-COOLSPRING 4,0,0,0,0,U.S. Senate,,WRITE-IN,
 LaPorte,11-COOLSPRING 4,288,148,0,436,Secretary of State,,JIM HARPER,DEM
 LaPorte,11-COOLSPRING 4,272,78,0,350,Secretary of State,,CONNIE LAWSON,REP
 LaPorte,11-COOLSPRING 4,25,3,0,28,Secretary of State,,MARK W. RUTHERFORD,LIB
@@ -472,10 +472,10 @@ LaPorte,11-COOLSPRING 4,349,93,0,442,Court of Appeals Dist 2-Altice,,YES,
 LaPorte,11-COOLSPRING 4,156,60,0,216,Court of Appeals Dist 2-Altice,,NO,
 LaPorte,12-COOLSPRING 5,117,39,0,156,Public Question,,YES,
 LaPorte,12-COOLSPRING 5,70,31,0,101,Public Question,,NO,
-LaPorte,12-COOLSPRING 5,171,63,0,234,United States Senator,,JOE DONNELLY,DEM
-LaPorte,12-COOLSPRING 5,79,17,0,96,United States Senator,,MIKE BRAUN,REP
-LaPorte,12-COOLSPRING 5,10,2,0,12,United States Senator,,LUCY M. BRENTON,LIB
-LaPorte,12-COOLSPRING 5,0,0,0,0,United States Senator,,WRITE-IN,
+LaPorte,12-COOLSPRING 5,171,63,0,234,U.S. Senate,,JOE DONNELLY,DEM
+LaPorte,12-COOLSPRING 5,79,17,0,96,U.S. Senate,,MIKE BRAUN,REP
+LaPorte,12-COOLSPRING 5,10,2,0,12,U.S. Senate,,LUCY M. BRENTON,LIB
+LaPorte,12-COOLSPRING 5,0,0,0,0,U.S. Senate,,WRITE-IN,
 LaPorte,12-COOLSPRING 5,155,59,0,214,Secretary of State,,JIM HARPER,DEM
 LaPorte,12-COOLSPRING 5,94,19,0,113,Secretary of State,,CONNIE LAWSON,REP
 LaPorte,12-COOLSPRING 5,10,4,0,14,Secretary of State,,MARK W. RUTHERFORD,LIB
@@ -515,10 +515,10 @@ LaPorte,12-COOLSPRING 5,125,49,0,174,Court of Appeals Dist 2-Altice,,YES,
 LaPorte,12-COOLSPRING 5,73,18,0,91,Court of Appeals Dist 2-Altice,,NO,
 LaPorte,13-DEWEY,107,5,0,112,Public Question,,YES,
 LaPorte,13-DEWEY,36,0,0,36,Public Question,,NO,
-LaPorte,13-DEWEY,69,1,0,70,United States Senator,,JOE DONNELLY,DEM
-LaPorte,13-DEWEY,98,7,0,105,United States Senator,,MIKE BRAUN,REP
-LaPorte,13-DEWEY,1,0,0,1,United States Senator,,LUCY M. BRENTON,LIB
-LaPorte,13-DEWEY,0,0,0,0,United States Senator,,WRITE-IN,
+LaPorte,13-DEWEY,69,1,0,70,U.S. Senate,,JOE DONNELLY,DEM
+LaPorte,13-DEWEY,98,7,0,105,U.S. Senate,,MIKE BRAUN,REP
+LaPorte,13-DEWEY,1,0,0,1,U.S. Senate,,LUCY M. BRENTON,LIB
+LaPorte,13-DEWEY,0,0,0,0,U.S. Senate,,WRITE-IN,
 LaPorte,13-DEWEY,58,1,0,59,Secretary of State,,JIM HARPER,DEM
 LaPorte,13-DEWEY,100,6,0,106,Secretary of State,,CONNIE LAWSON,REP
 LaPorte,13-DEWEY,5,0,0,5,Secretary of State,,MARK W. RUTHERFORD,LIB
@@ -552,10 +552,10 @@ LaPorte,13-DEWEY,94,4,0,98,Court of Appeals Dist 2-Altice,,YES,
 LaPorte,13-DEWEY,46,1,0,47,Court of Appeals Dist 2-Altice,,NO,
 LaPorte,14-DUNELAND BEACH,44,40,0,84,Public Question,,YES,
 LaPorte,14-DUNELAND BEACH,22,16,0,38,Public Question,,NO,
-LaPorte,14-DUNELAND BEACH,41,35,0,76,United States Senator,,JOE DONNELLY,DEM
-LaPorte,14-DUNELAND BEACH,30,25,0,55,United States Senator,,MIKE BRAUN,REP
-LaPorte,14-DUNELAND BEACH,1,0,0,1,United States Senator,,LUCY M. BRENTON,LIB
-LaPorte,14-DUNELAND BEACH,0,0,0,0,United States Senator,,WRITE-IN,
+LaPorte,14-DUNELAND BEACH,41,35,0,76,U.S. Senate,,JOE DONNELLY,DEM
+LaPorte,14-DUNELAND BEACH,30,25,0,55,U.S. Senate,,MIKE BRAUN,REP
+LaPorte,14-DUNELAND BEACH,1,0,0,1,U.S. Senate,,LUCY M. BRENTON,LIB
+LaPorte,14-DUNELAND BEACH,0,0,0,0,U.S. Senate,,WRITE-IN,
 LaPorte,14-DUNELAND BEACH,34,34,0,68,Secretary of State,,JIM HARPER,DEM
 LaPorte,14-DUNELAND BEACH,34,26,0,60,Secretary of State,,CONNIE LAWSON,REP
 LaPorte,14-DUNELAND BEACH,2,0,0,2,Secretary of State,,MARK W. RUTHERFORD,LIB
@@ -598,10 +598,10 @@ LaPorte,14-DUNELAND BEACH,40,30,0,70,Court of Appeals Dist 2-Altice,,YES,
 LaPorte,14-DUNELAND BEACH,20,11,0,31,Court of Appeals Dist 2-Altice,,NO,
 LaPorte,15-GALENA 1,178,50,0,228,Public Question,,YES,
 LaPorte,15-GALENA 1,78,36,0,114,Public Question,,NO,
-LaPorte,15-GALENA 1,142,69,0,211,United States Senator,,JOE DONNELLY,DEM
-LaPorte,15-GALENA 1,148,28,0,176,United States Senator,,MIKE BRAUN,REP
-LaPorte,15-GALENA 1,6,3,0,9,United States Senator,,LUCY M. BRENTON,LIB
-LaPorte,15-GALENA 1,0,0,0,0,United States Senator,,WRITE-IN,
+LaPorte,15-GALENA 1,142,69,0,211,U.S. Senate,,JOE DONNELLY,DEM
+LaPorte,15-GALENA 1,148,28,0,176,U.S. Senate,,MIKE BRAUN,REP
+LaPorte,15-GALENA 1,6,3,0,9,U.S. Senate,,LUCY M. BRENTON,LIB
+LaPorte,15-GALENA 1,0,0,0,0,U.S. Senate,,WRITE-IN,
 LaPorte,15-GALENA 1,123,64,0,187,Secretary of State,,JIM HARPER,DEM
 LaPorte,15-GALENA 1,156,31,0,187,Secretary of State,,CONNIE LAWSON,REP
 LaPorte,15-GALENA 1,12,4,0,16,Secretary of State,,MARK W. RUTHERFORD,LIB
@@ -637,10 +637,10 @@ LaPorte,15-GALENA 1,161,50,0,211,Court of Appeals Dist 2-Altice,,YES,
 LaPorte,15-GALENA 1,76,32,0,108,Court of Appeals Dist 2-Altice,,NO,
 LaPorte,16-GALENA 2,222,58,0,280,Public Question,,YES,
 LaPorte,16-GALENA 2,71,36,0,107,Public Question,,NO,
-LaPorte,16-GALENA 2,138,70,0,208,United States Senator,,JOE DONNELLY,DEM
-LaPorte,16-GALENA 2,191,34,0,225,United States Senator,,MIKE BRAUN,REP
-LaPorte,16-GALENA 2,11,1,0,12,United States Senator,,LUCY M. BRENTON,LIB
-LaPorte,16-GALENA 2,0,0,0,0,United States Senator,,WRITE-IN,
+LaPorte,16-GALENA 2,138,70,0,208,U.S. Senate,,JOE DONNELLY,DEM
+LaPorte,16-GALENA 2,191,34,0,225,U.S. Senate,,MIKE BRAUN,REP
+LaPorte,16-GALENA 2,11,1,0,12,U.S. Senate,,LUCY M. BRENTON,LIB
+LaPorte,16-GALENA 2,0,0,0,0,U.S. Senate,,WRITE-IN,
 LaPorte,16-GALENA 2,118,59,0,177,Secretary of State,,JIM HARPER,DEM
 LaPorte,16-GALENA 2,209,41,0,250,Secretary of State,,CONNIE LAWSON,REP
 LaPorte,16-GALENA 2,8,4,0,12,Secretary of State,,MARK W. RUTHERFORD,LIB
@@ -676,10 +676,10 @@ LaPorte,16-GALENA 2,178,49,0,227,Court of Appeals Dist 2-Altice,,YES,
 LaPorte,16-GALENA 2,93,36,0,129,Court of Appeals Dist 2-Altice,,NO,
 LaPorte,17-HANNA,238,29,0,267,Public Question,,YES,
 LaPorte,17-HANNA,101,11,0,112,Public Question,,NO,
-LaPorte,17-HANNA,165,17,0,182,United States Senator,,JOE DONNELLY,DEM
-LaPorte,17-HANNA,217,24,0,241,United States Senator,,MIKE BRAUN,REP
-LaPorte,17-HANNA,12,3,0,15,United States Senator,,LUCY M. BRENTON,LIB
-LaPorte,17-HANNA,0,0,0,0,United States Senator,,WRITE-IN,
+LaPorte,17-HANNA,165,17,0,182,U.S. Senate,,JOE DONNELLY,DEM
+LaPorte,17-HANNA,217,24,0,241,U.S. Senate,,MIKE BRAUN,REP
+LaPorte,17-HANNA,12,3,0,15,U.S. Senate,,LUCY M. BRENTON,LIB
+LaPorte,17-HANNA,0,0,0,0,U.S. Senate,,WRITE-IN,
 LaPorte,17-HANNA,132,16,0,148,Secretary of State,,JIM HARPER,DEM
 LaPorte,17-HANNA,238,27,0,265,Secretary of State,,CONNIE LAWSON,REP
 LaPorte,17-HANNA,15,1,0,16,Secretary of State,,MARK W. RUTHERFORD,LIB
@@ -715,10 +715,10 @@ LaPorte,17-HANNA,227,29,0,256,Court of Appeals Dist 2-Altice,,YES,
 LaPorte,17-HANNA,93,8,0,101,Court of Appeals Dist 2-Altice,,NO,
 LaPorte,18-HUDSON,388,67,0,455,Public Question,,YES,
 LaPorte,18-HUDSON,138,19,0,157,Public Question,,NO,
-LaPorte,18-HUDSON,246,44,0,290,United States Senator,,JOE DONNELLY,DEM
-LaPorte,18-HUDSON,325,51,0,376,United States Senator,,MIKE BRAUN,REP
-LaPorte,18-HUDSON,20,2,0,22,United States Senator,,LUCY M. BRENTON,LIB
-LaPorte,18-HUDSON,1,0,0,1,United States Senator,,WRITE-IN,
+LaPorte,18-HUDSON,246,44,0,290,U.S. Senate,,JOE DONNELLY,DEM
+LaPorte,18-HUDSON,325,51,0,376,U.S. Senate,,MIKE BRAUN,REP
+LaPorte,18-HUDSON,20,2,0,22,U.S. Senate,,LUCY M. BRENTON,LIB
+LaPorte,18-HUDSON,1,0,0,1,U.S. Senate,,WRITE-IN,
 LaPorte,18-HUDSON,205,38,0,243,Secretary of State,,JIM HARPER,DEM
 LaPorte,18-HUDSON,354,57,0,411,Secretary of State,,CONNIE LAWSON,REP
 LaPorte,18-HUDSON,21,1,0,22,Secretary of State,,MARK W. RUTHERFORD,LIB
@@ -755,10 +755,10 @@ LaPorte,18-HUDSON,329,57,0,386,Court of Appeals Dist 2-Altice,,YES,
 LaPorte,18-HUDSON,134,25,0,159,Court of Appeals Dist 2-Altice,,NO,
 LaPorte,19-JOHNSON,51,4,0,55,Public Question,,YES,
 LaPorte,19-JOHNSON,26,0,0,26,Public Question,,NO,
-LaPorte,19-JOHNSON,38,1,0,39,United States Senator,,JOE DONNELLY,DEM
-LaPorte,19-JOHNSON,42,3,0,45,United States Senator,,MIKE BRAUN,REP
-LaPorte,19-JOHNSON,4,0,0,4,United States Senator,,LUCY M. BRENTON,LIB
-LaPorte,19-JOHNSON,0,0,0,0,United States Senator,,WRITE-IN,
+LaPorte,19-JOHNSON,38,1,0,39,U.S. Senate,,JOE DONNELLY,DEM
+LaPorte,19-JOHNSON,42,3,0,45,U.S. Senate,,MIKE BRAUN,REP
+LaPorte,19-JOHNSON,4,0,0,4,U.S. Senate,,LUCY M. BRENTON,LIB
+LaPorte,19-JOHNSON,0,0,0,0,U.S. Senate,,WRITE-IN,
 LaPorte,19-JOHNSON,21,1,0,22,Secretary of State,,JIM HARPER,DEM
 LaPorte,19-JOHNSON,53,3,0,56,Secretary of State,,CONNIE LAWSON,REP
 LaPorte,19-JOHNSON,5,0,0,5,Secretary of State,,MARK W. RUTHERFORD,LIB
@@ -791,10 +791,10 @@ LaPorte,19-JOHNSON,57,1,0,58,Court of Appeals Dist 2-Altice,,YES,
 LaPorte,19-JOHNSON,16,3,0,19,Court of Appeals Dist 2-Altice,,NO,
 LaPorte,20-KANKAKEE 1,326,147,0,473,Public Question,,YES,
 LaPorte,20-KANKAKEE 1,165,67,0,232,Public Question,,NO,
-LaPorte,20-KANKAKEE 1,227,148,0,375,United States Senator,,JOE DONNELLY,DEM
-LaPorte,20-KANKAKEE 1,311,108,0,419,United States Senator,,MIKE BRAUN,REP
-LaPorte,20-KANKAKEE 1,15,0,0,15,United States Senator,,LUCY M. BRENTON,LIB
-LaPorte,20-KANKAKEE 1,0,0,0,0,United States Senator,,WRITE-IN,
+LaPorte,20-KANKAKEE 1,227,148,0,375,U.S. Senate,,JOE DONNELLY,DEM
+LaPorte,20-KANKAKEE 1,311,108,0,419,U.S. Senate,,MIKE BRAUN,REP
+LaPorte,20-KANKAKEE 1,15,0,0,15,U.S. Senate,,LUCY M. BRENTON,LIB
+LaPorte,20-KANKAKEE 1,0,0,0,0,U.S. Senate,,WRITE-IN,
 LaPorte,20-KANKAKEE 1,193,132,0,325,Secretary of State,,JIM HARPER,DEM
 LaPorte,20-KANKAKEE 1,333,118,0,451,Secretary of State,,CONNIE LAWSON,REP
 LaPorte,20-KANKAKEE 1,20,5,0,25,Secretary of State,,MARK W. RUTHERFORD,LIB
@@ -831,10 +831,10 @@ LaPorte,20-KANKAKEE 1,317,130,0,447,Court of Appeals Dist 2-Altice,,YES,
 LaPorte,20-KANKAKEE 1,150,72,0,222,Court of Appeals Dist 2-Altice,,NO,
 LaPorte,21-KANKAKEE 2,321,74,0,395,Public Question,,YES,
 LaPorte,21-KANKAKEE 2,131,42,0,173,Public Question,,NO,
-LaPorte,21-KANKAKEE 2,204,66,0,270,United States Senator,,JOE DONNELLY,DEM
-LaPorte,21-KANKAKEE 2,296,57,0,353,United States Senator,,MIKE BRAUN,REP
-LaPorte,21-KANKAKEE 2,24,2,0,26,United States Senator,,LUCY M. BRENTON,LIB
-LaPorte,21-KANKAKEE 2,0,0,0,0,United States Senator,,WRITE-IN,
+LaPorte,21-KANKAKEE 2,204,66,0,270,U.S. Senate,,JOE DONNELLY,DEM
+LaPorte,21-KANKAKEE 2,296,57,0,353,U.S. Senate,,MIKE BRAUN,REP
+LaPorte,21-KANKAKEE 2,24,2,0,26,U.S. Senate,,LUCY M. BRENTON,LIB
+LaPorte,21-KANKAKEE 2,0,0,0,0,U.S. Senate,,WRITE-IN,
 LaPorte,21-KANKAKEE 2,165,61,0,226,Secretary of State,,JIM HARPER,DEM
 LaPorte,21-KANKAKEE 2,326,61,0,387,Secretary of State,,CONNIE LAWSON,REP
 LaPorte,21-KANKAKEE 2,24,3,0,27,Secretary of State,,MARK W. RUTHERFORD,LIB
@@ -871,10 +871,10 @@ LaPorte,21-KANKAKEE 2,322,59,0,381,Court of Appeals Dist 2-Altice,,YES,
 LaPorte,21-KANKAKEE 2,130,46,0,176,Court of Appeals Dist 2-Altice,,NO,
 LaPorte,22-KINGSBURY,38,13,0,51,Public Question,,YES,
 LaPorte,22-KINGSBURY,13,2,0,15,Public Question,,NO,
-LaPorte,22-KINGSBURY,23,12,0,35,United States Senator,,JOE DONNELLY,DEM
-LaPorte,22-KINGSBURY,30,5,0,35,United States Senator,,MIKE BRAUN,REP
-LaPorte,22-KINGSBURY,3,0,0,3,United States Senator,,LUCY M. BRENTON,LIB
-LaPorte,22-KINGSBURY,0,0,0,0,United States Senator,,WRITE-IN,
+LaPorte,22-KINGSBURY,23,12,0,35,U.S. Senate,,JOE DONNELLY,DEM
+LaPorte,22-KINGSBURY,30,5,0,35,U.S. Senate,,MIKE BRAUN,REP
+LaPorte,22-KINGSBURY,3,0,0,3,U.S. Senate,,LUCY M. BRENTON,LIB
+LaPorte,22-KINGSBURY,0,0,0,0,U.S. Senate,,WRITE-IN,
 LaPorte,22-KINGSBURY,19,11,0,30,Secretary of State,,JIM HARPER,DEM
 LaPorte,22-KINGSBURY,34,6,0,40,Secretary of State,,CONNIE LAWSON,REP
 LaPorte,22-KINGSBURY,2,1,0,3,Secretary of State,,MARK W. RUTHERFORD,LIB
@@ -911,10 +911,10 @@ LaPorte,22-KINGSBURY,34,13,0,47,Court of Appeals Dist 2-Altice,,YES,
 LaPorte,22-KINGSBURY,17,2,0,19,Court of Appeals Dist 2-Altice,,NO,
 LaPorte,23-KINGSFORD HEIGHTS,167,39,0,206,Public Question,,YES,
 LaPorte,23-KINGSFORD HEIGHTS,73,16,0,89,Public Question,,NO,
-LaPorte,23-KINGSFORD HEIGHTS,155,41,0,196,United States Senator,,JOE DONNELLY,DEM
-LaPorte,23-KINGSFORD HEIGHTS,130,20,0,150,United States Senator,,MIKE BRAUN,REP
-LaPorte,23-KINGSFORD HEIGHTS,11,2,0,13,United States Senator,,LUCY M. BRENTON,LIB
-LaPorte,23-KINGSFORD HEIGHTS,0,0,0,0,United States Senator,,WRITE-IN,
+LaPorte,23-KINGSFORD HEIGHTS,155,41,0,196,U.S. Senate,,JOE DONNELLY,DEM
+LaPorte,23-KINGSFORD HEIGHTS,130,20,0,150,U.S. Senate,,MIKE BRAUN,REP
+LaPorte,23-KINGSFORD HEIGHTS,11,2,0,13,U.S. Senate,,LUCY M. BRENTON,LIB
+LaPorte,23-KINGSFORD HEIGHTS,0,0,0,0,U.S. Senate,,WRITE-IN,
 LaPorte,23-KINGSFORD HEIGHTS,139,37,0,176,Secretary of State,,JIM HARPER,DEM
 LaPorte,23-KINGSFORD HEIGHTS,136,21,0,157,Secretary of State,,CONNIE LAWSON,REP
 LaPorte,23-KINGSFORD HEIGHTS,15,4,0,19,Secretary of State,,MARK W. RUTHERFORD,LIB
@@ -952,10 +952,10 @@ LaPorte,23-KINGSFORD HEIGHTS,177,42,0,219,Court of Appeals Dist 2-Altice,,YES,
 LaPorte,23-KINGSFORD HEIGHTS,74,11,0,85,Court of Appeals Dist 2-Altice,,NO,
 LaPorte,24-LaCROSSE,91,8,0,99,Public Question,,YES,
 LaPorte,24-LaCROSSE,50,2,0,52,Public Question,,NO,
-LaPorte,24-LaCROSSE,79,6,0,85,United States Senator,,JOE DONNELLY,DEM
-LaPorte,24-LaCROSSE,82,5,0,87,United States Senator,,MIKE BRAUN,REP
-LaPorte,24-LaCROSSE,4,0,0,4,United States Senator,,LUCY M. BRENTON,LIB
-LaPorte,24-LaCROSSE,0,0,0,0,United States Senator,,WRITE-IN,
+LaPorte,24-LaCROSSE,79,6,0,85,U.S. Senate,,JOE DONNELLY,DEM
+LaPorte,24-LaCROSSE,82,5,0,87,U.S. Senate,,MIKE BRAUN,REP
+LaPorte,24-LaCROSSE,4,0,0,4,U.S. Senate,,LUCY M. BRENTON,LIB
+LaPorte,24-LaCROSSE,0,0,0,0,U.S. Senate,,WRITE-IN,
 LaPorte,24-LaCROSSE,65,6,0,71,Secretary of State,,JIM HARPER,DEM
 LaPorte,24-LaCROSSE,92,5,0,97,Secretary of State,,CONNIE LAWSON,REP
 LaPorte,24-LaCROSSE,3,0,0,3,Secretary of State,,MARK W. RUTHERFORD,LIB
@@ -989,10 +989,10 @@ LaPorte,24-LaCROSSE,87,4,0,91,Court of Appeals Dist 2-Altice,,YES,
 LaPorte,24-LaCROSSE,52,4,0,56,Court of Appeals Dist 2-Altice,,NO,
 LaPorte,26-LINCOLN,314,55,0,369,Public Question,,YES,
 LaPorte,26-LINCOLN,143,34,0,177,Public Question,,NO,
-LaPorte,26-LINCOLN,222,56,0,278,United States Senator,,JOE DONNELLY,DEM
-LaPorte,26-LINCOLN,286,47,0,333,United States Senator,,MIKE BRAUN,REP
-LaPorte,26-LINCOLN,20,2,0,22,United States Senator,,LUCY M. BRENTON,LIB
-LaPorte,26-LINCOLN,0,0,0,0,United States Senator,,WRITE-IN,
+LaPorte,26-LINCOLN,222,56,0,278,U.S. Senate,,JOE DONNELLY,DEM
+LaPorte,26-LINCOLN,286,47,0,333,U.S. Senate,,MIKE BRAUN,REP
+LaPorte,26-LINCOLN,20,2,0,22,U.S. Senate,,LUCY M. BRENTON,LIB
+LaPorte,26-LINCOLN,0,0,0,0,U.S. Senate,,WRITE-IN,
 LaPorte,26-LINCOLN,174,53,0,227,Secretary of State,,JIM HARPER,DEM
 LaPorte,26-LINCOLN,314,49,0,363,Secretary of State,,CONNIE LAWSON,REP
 LaPorte,26-LINCOLN,31,2,0,33,Secretary of State,,MARK W. RUTHERFORD,LIB
@@ -1029,10 +1029,10 @@ LaPorte,26-LINCOLN,304,48,0,352,Court of Appeals Dist 2-Altice,,YES,
 LaPorte,26-LINCOLN,135,35,0,170,Court of Appeals Dist 2-Altice,,NO,
 LaPorte,27-LONG BEACH,285,187,0,472,Public Question,,YES,
 LaPorte,27-LONG BEACH,97,79,0,176,Public Question,,NO,
-LaPorte,27-LONG BEACH,218,170,0,388,United States Senator,,JOE DONNELLY,DEM
-LaPorte,27-LONG BEACH,214,125,0,339,United States Senator,,MIKE BRAUN,REP
-LaPorte,27-LONG BEACH,2,3,0,5,United States Senator,,LUCY M. BRENTON,LIB
-LaPorte,27-LONG BEACH,0,0,0,0,United States Senator,,WRITE-IN,
+LaPorte,27-LONG BEACH,218,170,0,388,U.S. Senate,,JOE DONNELLY,DEM
+LaPorte,27-LONG BEACH,214,125,0,339,U.S. Senate,,MIKE BRAUN,REP
+LaPorte,27-LONG BEACH,2,3,0,5,U.S. Senate,,LUCY M. BRENTON,LIB
+LaPorte,27-LONG BEACH,0,0,0,0,U.S. Senate,,WRITE-IN,
 LaPorte,27-LONG BEACH,179,156,0,335,Secretary of State,,JIM HARPER,DEM
 LaPorte,27-LONG BEACH,245,130,0,375,Secretary of State,,CONNIE LAWSON,REP
 LaPorte,27-LONG BEACH,4,2,0,6,Secretary of State,,MARK W. RUTHERFORD,LIB
@@ -1075,10 +1075,10 @@ LaPorte,27-LONG BEACH,232,140,0,372,Court of Appeals Dist 2-Altice,,YES,
 LaPorte,27-LONG BEACH,85,61,0,146,Court of Appeals Dist 2-Altice,,NO,
 LaPorte,28-LP25,150,42,0,192,Public Question,,YES,
 LaPorte,28-LP25,80,16,0,96,Public Question,,NO,
-LaPorte,28-LP25,131,43,0,174,United States Senator,,JOE DONNELLY,DEM
-LaPorte,28-LP25,135,32,0,167,United States Senator,,MIKE BRAUN,REP
-LaPorte,28-LP25,17,1,0,18,United States Senator,,LUCY M. BRENTON,LIB
-LaPorte,28-LP25,0,0,0,0,United States Senator,,WRITE-IN,
+LaPorte,28-LP25,131,43,0,174,U.S. Senate,,JOE DONNELLY,DEM
+LaPorte,28-LP25,135,32,0,167,U.S. Senate,,MIKE BRAUN,REP
+LaPorte,28-LP25,17,1,0,18,U.S. Senate,,LUCY M. BRENTON,LIB
+LaPorte,28-LP25,0,0,0,0,U.S. Senate,,WRITE-IN,
 LaPorte,28-LP25,121,40,0,161,Secretary of State,,JIM HARPER,DEM
 LaPorte,28-LP25,146,32,0,178,Secretary of State,,CONNIE LAWSON,REP
 LaPorte,28-LP25,12,3,0,15,Secretary of State,,MARK W. RUTHERFORD,LIB
@@ -1117,10 +1117,10 @@ LaPorte,28-LP25,164,32,0,196,Court of Appeals Dist 2-Altice,,YES,
 LaPorte,28-LP25,74,20,0,94,Court of Appeals Dist 2-Altice,,NO,
 LaPorte,29-LP26,61,20,0,81,Public Question,,YES,
 LaPorte,29-LP26,22,5,0,27,Public Question,,NO,
-LaPorte,29-LP26,53,14,0,67,United States Senator,,JOE DONNELLY,DEM
-LaPorte,29-LP26,52,13,0,65,United States Senator,,MIKE BRAUN,REP
-LaPorte,29-LP26,5,0,0,5,United States Senator,,LUCY M. BRENTON,LIB
-LaPorte,29-LP26,0,0,0,0,United States Senator,,WRITE-IN,
+LaPorte,29-LP26,53,14,0,67,U.S. Senate,,JOE DONNELLY,DEM
+LaPorte,29-LP26,52,13,0,65,U.S. Senate,,MIKE BRAUN,REP
+LaPorte,29-LP26,5,0,0,5,U.S. Senate,,LUCY M. BRENTON,LIB
+LaPorte,29-LP26,0,0,0,0,U.S. Senate,,WRITE-IN,
 LaPorte,29-LP26,42,14,0,56,Secretary of State,,JIM HARPER,DEM
 LaPorte,29-LP26,58,13,0,71,Secretary of State,,CONNIE LAWSON,REP
 LaPorte,29-LP26,9,2,0,11,Secretary of State,,MARK W. RUTHERFORD,LIB
@@ -1160,10 +1160,10 @@ LaPorte,29-LP26,56,16,0,72,Court of Appeals Dist 2-Altice,,YES,
 LaPorte,29-LP26,26,8,0,34,Court of Appeals Dist 2-Altice,,NO,
 LaPorte,30-LP27,73,20,0,93,Public Question,,YES,
 LaPorte,30-LP27,34,14,0,48,Public Question,,NO,
-LaPorte,30-LP27,70,29,0,99,United States Senator,,JOE DONNELLY,DEM
-LaPorte,30-LP27,47,14,0,61,United States Senator,,MIKE BRAUN,REP
-LaPorte,30-LP27,2,0,0,2,United States Senator,,LUCY M. BRENTON,LIB
-LaPorte,30-LP27,0,0,0,0,United States Senator,,WRITE-IN,
+LaPorte,30-LP27,70,29,0,99,U.S. Senate,,JOE DONNELLY,DEM
+LaPorte,30-LP27,47,14,0,61,U.S. Senate,,MIKE BRAUN,REP
+LaPorte,30-LP27,2,0,0,2,U.S. Senate,,LUCY M. BRENTON,LIB
+LaPorte,30-LP27,0,0,0,0,U.S. Senate,,WRITE-IN,
 LaPorte,30-LP27,57,30,0,87,Secretary of State,,JIM HARPER,DEM
 LaPorte,30-LP27,52,13,0,65,Secretary of State,,CONNIE LAWSON,REP
 LaPorte,30-LP27,8,0,0,8,Secretary of State,,MARK W. RUTHERFORD,LIB
@@ -1203,10 +1203,10 @@ LaPorte,30-LP27,75,20,0,95,Court of Appeals Dist 2-Altice,,YES,
 LaPorte,30-LP27,35,14,0,49,Court of Appeals Dist 2-Altice,,NO,
 LaPorte,31-LP28,27,6,0,33,Public Question,,YES,
 LaPorte,31-LP28,16,3,0,19,Public Question,,NO,
-LaPorte,31-LP28,19,7,0,26,United States Senator,,JOE DONNELLY,DEM
-LaPorte,31-LP28,29,6,0,35,United States Senator,,MIKE BRAUN,REP
-LaPorte,31-LP28,4,0,0,4,United States Senator,,LUCY M. BRENTON,LIB
-LaPorte,31-LP28,0,0,0,0,United States Senator,,WRITE-IN,
+LaPorte,31-LP28,19,7,0,26,U.S. Senate,,JOE DONNELLY,DEM
+LaPorte,31-LP28,29,6,0,35,U.S. Senate,,MIKE BRAUN,REP
+LaPorte,31-LP28,4,0,0,4,U.S. Senate,,LUCY M. BRENTON,LIB
+LaPorte,31-LP28,0,0,0,0,U.S. Senate,,WRITE-IN,
 LaPorte,31-LP28,19,7,0,26,Secretary of State,,JIM HARPER,DEM
 LaPorte,31-LP28,32,6,0,38,Secretary of State,,CONNIE LAWSON,REP
 LaPorte,31-LP28,2,0,0,2,Secretary of State,,MARK W. RUTHERFORD,LIB
@@ -1243,10 +1243,10 @@ LaPorte,31-LP28,32,8,0,40,Court of Appeals Dist 2-Altice,,YES,
 LaPorte,31-LP28,13,3,0,16,Court of Appeals Dist 2-Altice,,NO,
 LaPorte,32-LP29,84,53,0,137,Public Question,,YES,
 LaPorte,32-LP29,43,15,0,58,Public Question,,NO,
-LaPorte,32-LP29,65,36,0,101,United States Senator,,JOE DONNELLY,DEM
-LaPorte,32-LP29,84,39,0,123,United States Senator,,MIKE BRAUN,REP
-LaPorte,32-LP29,5,1,0,6,United States Senator,,LUCY M. BRENTON,LIB
-LaPorte,32-LP29,0,0,0,0,United States Senator,,WRITE-IN,
+LaPorte,32-LP29,65,36,0,101,U.S. Senate,,JOE DONNELLY,DEM
+LaPorte,32-LP29,84,39,0,123,U.S. Senate,,MIKE BRAUN,REP
+LaPorte,32-LP29,5,1,0,6,U.S. Senate,,LUCY M. BRENTON,LIB
+LaPorte,32-LP29,0,0,0,0,U.S. Senate,,WRITE-IN,
 LaPorte,32-LP29,52,34,0,86,Secretary of State,,JIM HARPER,DEM
 LaPorte,32-LP29,98,42,0,140,Secretary of State,,CONNIE LAWSON,REP
 LaPorte,32-LP29,4,1,0,5,Secretary of State,,MARK W. RUTHERFORD,LIB
@@ -1285,10 +1285,10 @@ LaPorte,32-LP29,93,53,0,146,Court of Appeals Dist 2-Altice,,YES,
 LaPorte,32-LP29,40,9,0,49,Court of Appeals Dist 2-Altice,,NO,
 LaPorte,33-LP30,142,62,0,204,Public Question,,YES,
 LaPorte,33-LP30,80,32,0,112,Public Question,,NO,
-LaPorte,33-LP30,140,58,0,198,United States Senator,,JOE DONNELLY,DEM
-LaPorte,33-LP30,141,49,0,190,United States Senator,,MIKE BRAUN,REP
-LaPorte,33-LP30,13,1,0,14,United States Senator,,LUCY M. BRENTON,LIB
-LaPorte,33-LP30,0,0,0,0,United States Senator,,WRITE-IN,
+LaPorte,33-LP30,140,58,0,198,U.S. Senate,,JOE DONNELLY,DEM
+LaPorte,33-LP30,141,49,0,190,U.S. Senate,,MIKE BRAUN,REP
+LaPorte,33-LP30,13,1,0,14,U.S. Senate,,LUCY M. BRENTON,LIB
+LaPorte,33-LP30,0,0,0,0,U.S. Senate,,WRITE-IN,
 LaPorte,33-LP30,118,55,0,173,Secretary of State,,JIM HARPER,DEM
 LaPorte,33-LP30,159,48,0,207,Secretary of State,,CONNIE LAWSON,REP
 LaPorte,33-LP30,13,4,0,17,Secretary of State,,MARK W. RUTHERFORD,LIB
@@ -1327,10 +1327,10 @@ LaPorte,33-LP30,176,57,0,233,Court of Appeals Dist 2-Altice,,YES,
 LaPorte,33-LP30,72,28,0,100,Court of Appeals Dist 2-Altice,,NO,
 LaPorte,34-LP31,202,75,2,279,Public Question,,YES,
 LaPorte,34-LP31,88,41,0,129,Public Question,,NO,
-LaPorte,34-LP31,201,111,0,312,United States Senator,,JOE DONNELLY,DEM
-LaPorte,34-LP31,131,62,1,194,United States Senator,,MIKE BRAUN,REP
-LaPorte,34-LP31,21,5,0,26,United States Senator,,LUCY M. BRENTON,LIB
-LaPorte,34-LP31,1,0,0,1,United States Senator,,WRITE-IN,
+LaPorte,34-LP31,201,111,0,312,U.S. Senate,,JOE DONNELLY,DEM
+LaPorte,34-LP31,131,62,1,194,U.S. Senate,,MIKE BRAUN,REP
+LaPorte,34-LP31,21,5,0,26,U.S. Senate,,LUCY M. BRENTON,LIB
+LaPorte,34-LP31,1,0,0,1,U.S. Senate,,WRITE-IN,
 LaPorte,34-LP31,183,102,0,285,Secretary of State,,JIM HARPER,DEM
 LaPorte,34-LP31,152,64,0,216,Secretary of State,,CONNIE LAWSON,REP
 LaPorte,34-LP31,17,9,1,27,Secretary of State,,MARK W. RUTHERFORD,LIB
@@ -1369,10 +1369,10 @@ LaPorte,34-LP31,196,84,1,281,Court of Appeals Dist 2-Altice,,YES,
 LaPorte,34-LP31,99,32,1,132,Court of Appeals Dist 2-Altice,,NO,
 LaPorte,35-LP32,217,66,0,283,Public Question,,YES,
 LaPorte,35-LP32,68,49,0,117,Public Question,,NO,
-LaPorte,35-LP32,175,75,0,250,United States Senator,,JOE DONNELLY,DEM
-LaPorte,35-LP32,136,46,0,182,United States Senator,,MIKE BRAUN,REP
-LaPorte,35-LP32,20,6,0,26,United States Senator,,LUCY M. BRENTON,LIB
-LaPorte,35-LP32,0,0,0,0,United States Senator,,WRITE-IN,
+LaPorte,35-LP32,175,75,0,250,U.S. Senate,,JOE DONNELLY,DEM
+LaPorte,35-LP32,136,46,0,182,U.S. Senate,,MIKE BRAUN,REP
+LaPorte,35-LP32,20,6,0,26,U.S. Senate,,LUCY M. BRENTON,LIB
+LaPorte,35-LP32,0,0,0,0,U.S. Senate,,WRITE-IN,
 LaPorte,35-LP32,160,70,0,230,Secretary of State,,JIM HARPER,DEM
 LaPorte,35-LP32,142,50,0,192,Secretary of State,,CONNIE LAWSON,REP
 LaPorte,35-LP32,25,7,0,32,Secretary of State,,MARK W. RUTHERFORD,LIB
@@ -1412,10 +1412,10 @@ LaPorte,35-LP32,212,74,0,286,Court of Appeals Dist 2-Altice,,YES,
 LaPorte,35-LP32,80,35,0,115,Court of Appeals Dist 2-Altice,,NO,
 LaPorte,36-LP33,180,48,0,228,Public Question,,YES,
 LaPorte,36-LP33,105,20,0,125,Public Question,,NO,
-LaPorte,36-LP33,161,55,0,216,United States Senator,,JOE DONNELLY,DEM
-LaPorte,36-LP33,146,28,0,174,United States Senator,,MIKE BRAUN,REP
-LaPorte,36-LP33,14,5,0,19,United States Senator,,LUCY M. BRENTON,LIB
-LaPorte,36-LP33,0,0,0,0,United States Senator,,WRITE-IN,
+LaPorte,36-LP33,161,55,0,216,U.S. Senate,,JOE DONNELLY,DEM
+LaPorte,36-LP33,146,28,0,174,U.S. Senate,,MIKE BRAUN,REP
+LaPorte,36-LP33,14,5,0,19,U.S. Senate,,LUCY M. BRENTON,LIB
+LaPorte,36-LP33,0,0,0,0,U.S. Senate,,WRITE-IN,
 LaPorte,36-LP33,137,52,0,189,Secretary of State,,JIM HARPER,DEM
 LaPorte,36-LP33,169,30,0,199,Secretary of State,,CONNIE LAWSON,REP
 LaPorte,36-LP33,10,2,0,12,Secretary of State,,MARK W. RUTHERFORD,LIB
@@ -1456,10 +1456,10 @@ LaPorte,36-LP33,205,45,0,250,Court of Appeals Dist 2-Altice,,YES,
 LaPorte,36-LP33,66,18,0,84,Court of Appeals Dist 2-Altice,,NO,
 LaPorte,37-LP34,187,62,0,249,Public Question,,YES,
 LaPorte,37-LP34,90,44,0,134,Public Question,,NO,
-LaPorte,37-LP34,153,84,0,237,United States Senator,,JOE DONNELLY,DEM
-LaPorte,37-LP34,154,34,0,188,United States Senator,,MIKE BRAUN,REP
-LaPorte,37-LP34,12,1,0,13,United States Senator,,LUCY M. BRENTON,LIB
-LaPorte,37-LP34,0,0,0,0,United States Senator,,WRITE-IN,
+LaPorte,37-LP34,153,84,0,237,U.S. Senate,,JOE DONNELLY,DEM
+LaPorte,37-LP34,154,34,0,188,U.S. Senate,,MIKE BRAUN,REP
+LaPorte,37-LP34,12,1,0,13,U.S. Senate,,LUCY M. BRENTON,LIB
+LaPorte,37-LP34,0,0,0,0,U.S. Senate,,WRITE-IN,
 LaPorte,37-LP34,137,76,0,213,Secretary of State,,JIM HARPER,DEM
 LaPorte,37-LP34,162,38,0,200,Secretary of State,,CONNIE LAWSON,REP
 LaPorte,37-LP34,15,2,0,17,Secretary of State,,MARK W. RUTHERFORD,LIB
@@ -1499,10 +1499,10 @@ LaPorte,37-LP34,193,68,0,261,Court of Appeals Dist 2-Altice,,YES,
 LaPorte,37-LP34,70,24,0,94,Court of Appeals Dist 2-Altice,,NO,
 LaPorte,38-LP35,10,9,0,19,Public Question,,YES,
 LaPorte,38-LP35,5,2,0,7,Public Question,,NO,
-LaPorte,38-LP35,8,9,0,17,United States Senator,,JOE DONNELLY,DEM
-LaPorte,38-LP35,12,4,0,16,United States Senator,,MIKE BRAUN,REP
-LaPorte,38-LP35,0,0,0,0,United States Senator,,LUCY M. BRENTON,LIB
-LaPorte,38-LP35,0,0,0,0,United States Senator,,WRITE-IN,
+LaPorte,38-LP35,8,9,0,17,U.S. Senate,,JOE DONNELLY,DEM
+LaPorte,38-LP35,12,4,0,16,U.S. Senate,,MIKE BRAUN,REP
+LaPorte,38-LP35,0,0,0,0,U.S. Senate,,LUCY M. BRENTON,LIB
+LaPorte,38-LP35,0,0,0,0,U.S. Senate,,WRITE-IN,
 LaPorte,38-LP35,7,9,0,16,Secretary of State,,JIM HARPER,DEM
 LaPorte,38-LP35,11,4,0,15,Secretary of State,,CONNIE LAWSON,REP
 LaPorte,38-LP35,1,0,0,1,Secretary of State,,MARK W. RUTHERFORD,LIB
@@ -1539,10 +1539,10 @@ LaPorte,38-LP35,17,4,0,21,Court of Appeals Dist 2-Altice,,YES,
 LaPorte,38-LP35,1,6,0,7,Court of Appeals Dist 2-Altice,,NO,
 LaPorte,39-LP36,22,5,0,27,Public Question,,YES,
 LaPorte,39-LP36,5,4,0,9,Public Question,,NO,
-LaPorte,39-LP36,14,5,0,19,United States Senator,,JOE DONNELLY,DEM
-LaPorte,39-LP36,15,5,0,20,United States Senator,,MIKE BRAUN,REP
-LaPorte,39-LP36,0,0,0,0,United States Senator,,LUCY M. BRENTON,LIB
-LaPorte,39-LP36,0,0,0,0,United States Senator,,WRITE-IN,
+LaPorte,39-LP36,14,5,0,19,U.S. Senate,,JOE DONNELLY,DEM
+LaPorte,39-LP36,15,5,0,20,U.S. Senate,,MIKE BRAUN,REP
+LaPorte,39-LP36,0,0,0,0,U.S. Senate,,LUCY M. BRENTON,LIB
+LaPorte,39-LP36,0,0,0,0,U.S. Senate,,WRITE-IN,
 LaPorte,39-LP36,9,5,0,14,Secretary of State,,JIM HARPER,DEM
 LaPorte,39-LP36,18,5,0,23,Secretary of State,,CONNIE LAWSON,REP
 LaPorte,39-LP36,1,0,0,1,Secretary of State,,MARK W. RUTHERFORD,LIB
@@ -1580,10 +1580,10 @@ LaPorte,39-LP36,20,4,0,24,Court of Appeals Dist 2-Altice,,YES,
 LaPorte,39-LP36,5,3,0,8,Court of Appeals Dist 2-Altice,,NO,
 LaPorte,40-LP37,189,50,0,239,Public Question,,YES,
 LaPorte,40-LP37,80,46,0,126,Public Question,,NO,
-LaPorte,40-LP37,159,75,0,234,United States Senator,,JOE DONNELLY,DEM
-LaPorte,40-LP37,131,30,0,161,United States Senator,,MIKE BRAUN,REP
-LaPorte,40-LP37,17,1,0,18,United States Senator,,LUCY M. BRENTON,LIB
-LaPorte,40-LP37,0,0,0,0,United States Senator,,WRITE-IN,
+LaPorte,40-LP37,159,75,0,234,U.S. Senate,,JOE DONNELLY,DEM
+LaPorte,40-LP37,131,30,0,161,U.S. Senate,,MIKE BRAUN,REP
+LaPorte,40-LP37,17,1,0,18,U.S. Senate,,LUCY M. BRENTON,LIB
+LaPorte,40-LP37,0,0,0,0,U.S. Senate,,WRITE-IN,
 LaPorte,40-LP37,139,66,0,205,Secretary of State,,JIM HARPER,DEM
 LaPorte,40-LP37,149,37,0,186,Secretary of State,,CONNIE LAWSON,REP
 LaPorte,40-LP37,16,1,0,17,Secretary of State,,MARK W. RUTHERFORD,LIB
@@ -1623,10 +1623,10 @@ LaPorte,40-LP37,193,58,0,251,Court of Appeals Dist 2-Altice,,YES,
 LaPorte,40-LP37,74,27,0,101,Court of Appeals Dist 2-Altice,,NO,
 LaPorte,41-LP38,148,51,0,199,Public Question,,YES,
 LaPorte,41-LP38,74,25,0,99,Public Question,,NO,
-LaPorte,41-LP38,131,58,0,189,United States Senator,,JOE DONNELLY,DEM
-LaPorte,41-LP38,102,30,0,132,United States Senator,,MIKE BRAUN,REP
-LaPorte,41-LP38,11,4,0,15,United States Senator,,LUCY M. BRENTON,LIB
-LaPorte,41-LP38,0,0,0,0,United States Senator,,WRITE-IN,
+LaPorte,41-LP38,131,58,0,189,U.S. Senate,,JOE DONNELLY,DEM
+LaPorte,41-LP38,102,30,0,132,U.S. Senate,,MIKE BRAUN,REP
+LaPorte,41-LP38,11,4,0,15,U.S. Senate,,LUCY M. BRENTON,LIB
+LaPorte,41-LP38,0,0,0,0,U.S. Senate,,WRITE-IN,
 LaPorte,41-LP38,114,52,0,166,Secretary of State,,JIM HARPER,DEM
 LaPorte,41-LP38,114,38,0,152,Secretary of State,,CONNIE LAWSON,REP
 LaPorte,41-LP38,14,2,0,16,Secretary of State,,MARK W. RUTHERFORD,LIB
@@ -1666,10 +1666,10 @@ LaPorte,41-LP38,143,52,0,195,Court of Appeals Dist 2-Altice,,YES,
 LaPorte,41-LP38,71,25,0,96,Court of Appeals Dist 2-Altice,,NO,
 LaPorte,42-LP39,47,15,0,62,Public Question,,YES,
 LaPorte,42-LP39,39,8,0,47,Public Question,,NO,
-LaPorte,42-LP39,65,14,0,79,United States Senator,,JOE DONNELLY,DEM
-LaPorte,42-LP39,35,10,0,45,United States Senator,,MIKE BRAUN,REP
-LaPorte,42-LP39,3,0,0,3,United States Senator,,LUCY M. BRENTON,LIB
-LaPorte,42-LP39,0,0,0,0,United States Senator,,WRITE-IN,
+LaPorte,42-LP39,65,14,0,79,U.S. Senate,,JOE DONNELLY,DEM
+LaPorte,42-LP39,35,10,0,45,U.S. Senate,,MIKE BRAUN,REP
+LaPorte,42-LP39,3,0,0,3,U.S. Senate,,LUCY M. BRENTON,LIB
+LaPorte,42-LP39,0,0,0,0,U.S. Senate,,WRITE-IN,
 LaPorte,42-LP39,56,12,0,68,Secretary of State,,JIM HARPER,DEM
 LaPorte,42-LP39,42,12,0,54,Secretary of State,,CONNIE LAWSON,REP
 LaPorte,42-LP39,4,0,0,4,Secretary of State,,MARK W. RUTHERFORD,LIB
@@ -1706,10 +1706,10 @@ LaPorte,42-LP39,60,8,0,68,Court of Appeals Dist 2-Altice,,YES,
 LaPorte,42-LP39,23,8,0,31,Court of Appeals Dist 2-Altice,,NO,
 LaPorte,43-LP40,166,72,0,238,Public Question,,YES,
 LaPorte,43-LP40,60,37,0,97,Public Question,,NO,
-LaPorte,43-LP40,121,90,0,211,United States Senator,,JOE DONNELLY,DEM
-LaPorte,43-LP40,143,47,0,190,United States Senator,,MIKE BRAUN,REP
-LaPorte,43-LP40,11,3,0,14,United States Senator,,LUCY M. BRENTON,LIB
-LaPorte,43-LP40,0,0,0,0,United States Senator,,WRITE-IN,
+LaPorte,43-LP40,121,90,0,211,U.S. Senate,,JOE DONNELLY,DEM
+LaPorte,43-LP40,143,47,0,190,U.S. Senate,,MIKE BRAUN,REP
+LaPorte,43-LP40,11,3,0,14,U.S. Senate,,LUCY M. BRENTON,LIB
+LaPorte,43-LP40,0,0,0,0,U.S. Senate,,WRITE-IN,
 LaPorte,43-LP40,98,85,0,183,Secretary of State,,JIM HARPER,DEM
 LaPorte,43-LP40,168,52,0,220,Secretary of State,,CONNIE LAWSON,REP
 LaPorte,43-LP40,11,1,0,12,Secretary of State,,MARK W. RUTHERFORD,LIB
@@ -1746,10 +1746,10 @@ LaPorte,43-LP40,176,71,0,247,Court of Appeals Dist 2-Altice,,YES,
 LaPorte,43-LP40,58,38,0,96,Court of Appeals Dist 2-Altice,,NO,
 LaPorte,44-LP41,258,66,0,324,Public Question,,YES,
 LaPorte,44-LP41,101,43,0,144,Public Question,,NO,
-LaPorte,44-LP41,188,72,0,260,United States Senator,,JOE DONNELLY,DEM
-LaPorte,44-LP41,203,68,0,271,United States Senator,,MIKE BRAUN,REP
-LaPorte,44-LP41,15,2,0,17,United States Senator,,LUCY M. BRENTON,LIB
-LaPorte,44-LP41,0,0,0,0,United States Senator,,WRITE-IN,
+LaPorte,44-LP41,188,72,0,260,U.S. Senate,,JOE DONNELLY,DEM
+LaPorte,44-LP41,203,68,0,271,U.S. Senate,,MIKE BRAUN,REP
+LaPorte,44-LP41,15,2,0,17,U.S. Senate,,LUCY M. BRENTON,LIB
+LaPorte,44-LP41,0,0,0,0,U.S. Senate,,WRITE-IN,
 LaPorte,44-LP41,164,55,0,219,Secretary of State,,JIM HARPER,DEM
 LaPorte,44-LP41,223,78,0,301,Secretary of State,,CONNIE LAWSON,REP
 LaPorte,44-LP41,15,3,0,18,Secretary of State,,MARK W. RUTHERFORD,LIB
@@ -1788,10 +1788,10 @@ LaPorte,44-LP41,261,89,0,350,Court of Appeals Dist 2-Altice,,YES,
 LaPorte,44-LP41,81,16,0,97,Court of Appeals Dist 2-Altice,,NO,
 LaPorte,45-LP42,60,12,0,72,Public Question,,YES,
 LaPorte,45-LP42,24,9,0,33,Public Question,,NO,
-LaPorte,45-LP42,59,15,0,74,United States Senator,,JOE DONNELLY,DEM
-LaPorte,45-LP42,32,7,0,39,United States Senator,,MIKE BRAUN,REP
-LaPorte,45-LP42,4,1,0,5,United States Senator,,LUCY M. BRENTON,LIB
-LaPorte,45-LP42,0,0,0,0,United States Senator,,WRITE-IN,
+LaPorte,45-LP42,59,15,0,74,U.S. Senate,,JOE DONNELLY,DEM
+LaPorte,45-LP42,32,7,0,39,U.S. Senate,,MIKE BRAUN,REP
+LaPorte,45-LP42,4,1,0,5,U.S. Senate,,LUCY M. BRENTON,LIB
+LaPorte,45-LP42,0,0,0,0,U.S. Senate,,WRITE-IN,
 LaPorte,45-LP42,56,16,0,72,Secretary of State,,JIM HARPER,DEM
 LaPorte,45-LP42,33,6,0,39,Secretary of State,,CONNIE LAWSON,REP
 LaPorte,45-LP42,4,1,0,5,Secretary of State,,MARK W. RUTHERFORD,LIB
@@ -1830,10 +1830,10 @@ LaPorte,45-LP42,58,16,0,74,Court of Appeals Dist 2-Altice,,YES,
 LaPorte,45-LP42,18,6,0,24,Court of Appeals Dist 2-Altice,,NO,
 LaPorte,46-LP43,147,52,0,199,Public Question,,YES,
 LaPorte,46-LP43,51,25,0,76,Public Question,,NO,
-LaPorte,46-LP43,113,52,0,165,United States Senator,,JOE DONNELLY,DEM
-LaPorte,46-LP43,104,43,0,147,United States Senator,,MIKE BRAUN,REP
-LaPorte,46-LP43,10,4,0,14,United States Senator,,LUCY M. BRENTON,LIB
-LaPorte,46-LP43,0,0,0,0,United States Senator,,WRITE-IN,
+LaPorte,46-LP43,113,52,0,165,U.S. Senate,,JOE DONNELLY,DEM
+LaPorte,46-LP43,104,43,0,147,U.S. Senate,,MIKE BRAUN,REP
+LaPorte,46-LP43,10,4,0,14,U.S. Senate,,LUCY M. BRENTON,LIB
+LaPorte,46-LP43,0,0,0,0,U.S. Senate,,WRITE-IN,
 LaPorte,46-LP43,106,50,0,156,Secretary of State,,JIM HARPER,DEM
 LaPorte,46-LP43,105,44,0,149,Secretary of State,,CONNIE LAWSON,REP
 LaPorte,46-LP43,14,5,0,19,Secretary of State,,MARK W. RUTHERFORD,LIB
@@ -1872,10 +1872,10 @@ LaPorte,46-LP43,132,58,0,190,Court of Appeals Dist 2-Altice,,YES,
 LaPorte,46-LP43,61,15,0,76,Court of Appeals Dist 2-Altice,,NO,
 LaPorte,47-LP44,195,39,0,234,Public Question,,YES,
 LaPorte,47-LP44,79,27,0,106,Public Question,,NO,
-LaPorte,47-LP44,138,51,0,189,United States Senator,,JOE DONNELLY,DEM
-LaPorte,47-LP44,145,26,0,171,United States Senator,,MIKE BRAUN,REP
-LaPorte,47-LP44,24,3,0,27,United States Senator,,LUCY M. BRENTON,LIB
-LaPorte,47-LP44,0,0,0,0,United States Senator,,WRITE-IN,
+LaPorte,47-LP44,138,51,0,189,U.S. Senate,,JOE DONNELLY,DEM
+LaPorte,47-LP44,145,26,0,171,U.S. Senate,,MIKE BRAUN,REP
+LaPorte,47-LP44,24,3,0,27,U.S. Senate,,LUCY M. BRENTON,LIB
+LaPorte,47-LP44,0,0,0,0,U.S. Senate,,WRITE-IN,
 LaPorte,47-LP44,120,48,0,168,Secretary of State,,JIM HARPER,DEM
 LaPorte,47-LP44,162,30,0,192,Secretary of State,,CONNIE LAWSON,REP
 LaPorte,47-LP44,25,2,0,27,Secretary of State,,MARK W. RUTHERFORD,LIB
@@ -1914,10 +1914,10 @@ LaPorte,47-LP44,198,41,0,239,Court of Appeals Dist 2-Altice,,YES,
 LaPorte,47-LP44,61,21,0,82,Court of Appeals Dist 2-Altice,,NO,
 LaPorte,48-MC01,214,157,0,371,Public Question,,YES,
 LaPorte,48-MC01,88,61,0,149,Public Question,,NO,
-LaPorte,48-MC01,224,175,0,399,United States Senator,,JOE DONNELLY,DEM
-LaPorte,48-MC01,123,81,0,204,United States Senator,,MIKE BRAUN,REP
-LaPorte,48-MC01,12,1,0,13,United States Senator,,LUCY M. BRENTON,LIB
-LaPorte,48-MC01,0,0,0,0,United States Senator,,WRITE-IN,
+LaPorte,48-MC01,224,175,0,399,U.S. Senate,,JOE DONNELLY,DEM
+LaPorte,48-MC01,123,81,0,204,U.S. Senate,,MIKE BRAUN,REP
+LaPorte,48-MC01,12,1,0,13,U.S. Senate,,LUCY M. BRENTON,LIB
+LaPorte,48-MC01,0,0,0,0,U.S. Senate,,WRITE-IN,
 LaPorte,48-MC01,206,165,0,371,Secretary of State,,JIM HARPER,DEM
 LaPorte,48-MC01,143,90,0,233,Secretary of State,,CONNIE LAWSON,REP
 LaPorte,48-MC01,8,2,0,10,Secretary of State,,MARK W. RUTHERFORD,LIB
@@ -1960,10 +1960,10 @@ LaPorte,48-MC01,175,117,0,292,Court of Appeals Dist 2-Altice,,YES,
 LaPorte,48-MC01,110,77,0,187,Court of Appeals Dist 2-Altice,,NO,
 LaPorte,49-MC02,117,59,0,176,Public Question,,YES,
 LaPorte,49-MC02,64,40,0,104,Public Question,,NO,
-LaPorte,49-MC02,150,115,0,265,United States Senator,,JOE DONNELLY,DEM
-LaPorte,49-MC02,53,15,0,68,United States Senator,,MIKE BRAUN,REP
-LaPorte,49-MC02,8,1,0,9,United States Senator,,LUCY M. BRENTON,LIB
-LaPorte,49-MC02,0,0,0,0,United States Senator,,WRITE-IN,
+LaPorte,49-MC02,150,115,0,265,U.S. Senate,,JOE DONNELLY,DEM
+LaPorte,49-MC02,53,15,0,68,U.S. Senate,,MIKE BRAUN,REP
+LaPorte,49-MC02,8,1,0,9,U.S. Senate,,LUCY M. BRENTON,LIB
+LaPorte,49-MC02,0,0,0,0,U.S. Senate,,WRITE-IN,
 LaPorte,49-MC02,143,108,0,251,Secretary of State,,JIM HARPER,DEM
 LaPorte,49-MC02,58,20,0,78,Secretary of State,,CONNIE LAWSON,REP
 LaPorte,49-MC02,8,1,0,9,Secretary of State,,MARK W. RUTHERFORD,LIB
@@ -2006,10 +2006,10 @@ LaPorte,49-MC02,95,55,0,150,Court of Appeals Dist 2-Altice,,YES,
 LaPorte,49-MC02,71,37,0,108,Court of Appeals Dist 2-Altice,,NO,
 LaPorte,50-MC03,169,61,0,230,Public Question,,YES,
 LaPorte,50-MC03,43,30,0,73,Public Question,,NO,
-LaPorte,50-MC03,197,119,0,316,United States Senator,,JOE DONNELLY,DEM
-LaPorte,50-MC03,62,17,0,79,United States Senator,,MIKE BRAUN,REP
-LaPorte,50-MC03,6,2,0,8,United States Senator,,LUCY M. BRENTON,LIB
-LaPorte,50-MC03,0,0,0,0,United States Senator,,WRITE-IN,
+LaPorte,50-MC03,197,119,0,316,U.S. Senate,,JOE DONNELLY,DEM
+LaPorte,50-MC03,62,17,0,79,U.S. Senate,,MIKE BRAUN,REP
+LaPorte,50-MC03,6,2,0,8,U.S. Senate,,LUCY M. BRENTON,LIB
+LaPorte,50-MC03,0,0,0,0,U.S. Senate,,WRITE-IN,
 LaPorte,50-MC03,193,116,0,309,Secretary of State,,JIM HARPER,DEM
 LaPorte,50-MC03,61,19,0,80,Secretary of State,,CONNIE LAWSON,REP
 LaPorte,50-MC03,8,3,0,11,Secretary of State,,MARK W. RUTHERFORD,LIB
@@ -2052,10 +2052,10 @@ LaPorte,50-MC03,139,61,0,200,Court of Appeals Dist 2-Altice,,YES,
 LaPorte,50-MC03,64,37,0,101,Court of Appeals Dist 2-Altice,,NO,
 LaPorte,51-MC04,96,61,0,157,Public Question,,YES,
 LaPorte,51-MC04,33,40,0,73,Public Question,,NO,
-LaPorte,51-MC04,218,138,0,356,United States Senator,,JOE DONNELLY,DEM
-LaPorte,51-MC04,10,3,0,13,United States Senator,,MIKE BRAUN,REP
-LaPorte,51-MC04,10,5,0,15,United States Senator,,LUCY M. BRENTON,LIB
-LaPorte,51-MC04,0,0,0,0,United States Senator,,WRITE-IN,
+LaPorte,51-MC04,218,138,0,356,U.S. Senate,,JOE DONNELLY,DEM
+LaPorte,51-MC04,10,3,0,13,U.S. Senate,,MIKE BRAUN,REP
+LaPorte,51-MC04,10,5,0,15,U.S. Senate,,LUCY M. BRENTON,LIB
+LaPorte,51-MC04,0,0,0,0,U.S. Senate,,WRITE-IN,
 LaPorte,51-MC04,221,138,0,359,Secretary of State,,JIM HARPER,DEM
 LaPorte,51-MC04,10,4,0,14,Secretary of State,,CONNIE LAWSON,REP
 LaPorte,51-MC04,7,2,0,9,Secretary of State,,MARK W. RUTHERFORD,LIB
@@ -2098,10 +2098,10 @@ LaPorte,51-MC04,101,74,0,175,Court of Appeals Dist 2-Altice,,YES,
 LaPorte,51-MC04,91,38,0,129,Court of Appeals Dist 2-Altice,,NO,
 LaPorte,52-MC05,155,62,0,217,Public Question,,YES,
 LaPorte,52-MC05,50,30,0,80,Public Question,,NO,
-LaPorte,52-MC05,183,86,0,269,United States Senator,,JOE DONNELLY,DEM
-LaPorte,52-MC05,58,23,0,81,United States Senator,,MIKE BRAUN,REP
-LaPorte,52-MC05,15,2,0,17,United States Senator,,LUCY M. BRENTON,LIB
-LaPorte,52-MC05,0,0,0,0,United States Senator,,WRITE-IN,
+LaPorte,52-MC05,183,86,0,269,U.S. Senate,,JOE DONNELLY,DEM
+LaPorte,52-MC05,58,23,0,81,U.S. Senate,,MIKE BRAUN,REP
+LaPorte,52-MC05,15,2,0,17,U.S. Senate,,LUCY M. BRENTON,LIB
+LaPorte,52-MC05,0,0,0,0,U.S. Senate,,WRITE-IN,
 LaPorte,52-MC05,171,83,0,254,Secretary of State,,JIM HARPER,DEM
 LaPorte,52-MC05,66,27,0,93,Secretary of State,,CONNIE LAWSON,REP
 LaPorte,52-MC05,13,2,0,15,Secretary of State,,MARK W. RUTHERFORD,LIB
@@ -2144,10 +2144,10 @@ LaPorte,52-MC05,144,47,0,191,Court of Appeals Dist 2-Altice,,YES,
 LaPorte,52-MC05,66,31,0,97,Court of Appeals Dist 2-Altice,,NO,
 LaPorte,53-MC06,195,78,0,273,Public Question,,YES,
 LaPorte,53-MC06,92,26,0,118,Public Question,,NO,
-LaPorte,53-MC06,199,84,0,283,United States Senator,,JOE DONNELLY,DEM
-LaPorte,53-MC06,104,23,0,127,United States Senator,,MIKE BRAUN,REP
-LaPorte,53-MC06,14,6,0,20,United States Senator,,LUCY M. BRENTON,LIB
-LaPorte,53-MC06,0,0,0,0,United States Senator,,WRITE-IN,
+LaPorte,53-MC06,199,84,0,283,U.S. Senate,,JOE DONNELLY,DEM
+LaPorte,53-MC06,104,23,0,127,U.S. Senate,,MIKE BRAUN,REP
+LaPorte,53-MC06,14,6,0,20,U.S. Senate,,LUCY M. BRENTON,LIB
+LaPorte,53-MC06,0,0,0,0,U.S. Senate,,WRITE-IN,
 LaPorte,53-MC06,176,82,0,258,Secretary of State,,JIM HARPER,DEM
 LaPorte,53-MC06,125,27,0,152,Secretary of State,,CONNIE LAWSON,REP
 LaPorte,53-MC06,13,2,0,15,Secretary of State,,MARK W. RUTHERFORD,LIB
@@ -2190,10 +2190,10 @@ LaPorte,53-MC06,163,66,0,229,Court of Appeals Dist 2-Altice,,YES,
 LaPorte,53-MC06,102,27,0,129,Court of Appeals Dist 2-Altice,,NO,
 LaPorte,54-MC07,133,45,0,178,Public Question,,YES,
 LaPorte,54-MC07,49,22,0,71,Public Question,,NO,
-LaPorte,54-MC07,144,64,0,208,United States Senator,,JOE DONNELLY,DEM
-LaPorte,54-MC07,79,17,0,96,United States Senator,,MIKE BRAUN,REP
-LaPorte,54-MC07,11,2,0,13,United States Senator,,LUCY M. BRENTON,LIB
-LaPorte,54-MC07,0,0,0,0,United States Senator,,WRITE-IN,
+LaPorte,54-MC07,144,64,0,208,U.S. Senate,,JOE DONNELLY,DEM
+LaPorte,54-MC07,79,17,0,96,U.S. Senate,,MIKE BRAUN,REP
+LaPorte,54-MC07,11,2,0,13,U.S. Senate,,LUCY M. BRENTON,LIB
+LaPorte,54-MC07,0,0,0,0,U.S. Senate,,WRITE-IN,
 LaPorte,54-MC07,135,59,0,194,Secretary of State,,JIM HARPER,DEM
 LaPorte,54-MC07,89,20,0,109,Secretary of State,,CONNIE LAWSON,REP
 LaPorte,54-MC07,5,2,0,7,Secretary of State,,MARK W. RUTHERFORD,LIB
@@ -2236,10 +2236,10 @@ LaPorte,54-MC07,134,35,0,169,Court of Appeals Dist 2-Altice,,YES,
 LaPorte,54-MC07,63,28,0,91,Court of Appeals Dist 2-Altice,,NO,
 LaPorte,55-MC08,129,50,0,179,Public Question,,YES,
 LaPorte,55-MC08,57,35,0,92,Public Question,,NO,
-LaPorte,55-MC08,132,71,0,203,United States Senator,,JOE DONNELLY,DEM
-LaPorte,55-MC08,77,23,0,100,United States Senator,,MIKE BRAUN,REP
-LaPorte,55-MC08,9,2,0,11,United States Senator,,LUCY M. BRENTON,LIB
-LaPorte,55-MC08,0,0,0,0,United States Senator,,WRITE-IN,
+LaPorte,55-MC08,132,71,0,203,U.S. Senate,,JOE DONNELLY,DEM
+LaPorte,55-MC08,77,23,0,100,U.S. Senate,,MIKE BRAUN,REP
+LaPorte,55-MC08,9,2,0,11,U.S. Senate,,LUCY M. BRENTON,LIB
+LaPorte,55-MC08,0,0,0,0,U.S. Senate,,WRITE-IN,
 LaPorte,55-MC08,122,67,0,189,Secretary of State,,JIM HARPER,DEM
 LaPorte,55-MC08,87,24,0,111,Secretary of State,,CONNIE LAWSON,REP
 LaPorte,55-MC08,7,4,0,11,Secretary of State,,MARK W. RUTHERFORD,LIB
@@ -2282,10 +2282,10 @@ LaPorte,55-MC08,121,42,0,163,Court of Appeals Dist 2-Altice,,YES,
 LaPorte,55-MC08,52,27,0,79,Court of Appeals Dist 2-Altice,,NO,
 LaPorte,56-MC09,109,53,0,162,Public Question,,YES,
 LaPorte,56-MC09,32,18,0,50,Public Question,,NO,
-LaPorte,56-MC09,152,86,0,238,United States Senator,,JOE DONNELLY,DEM
-LaPorte,56-MC09,33,12,0,45,United States Senator,,MIKE BRAUN,REP
-LaPorte,56-MC09,4,2,0,6,United States Senator,,LUCY M. BRENTON,LIB
-LaPorte,56-MC09,0,0,0,0,United States Senator,,WRITE-IN,
+LaPorte,56-MC09,152,86,0,238,U.S. Senate,,JOE DONNELLY,DEM
+LaPorte,56-MC09,33,12,0,45,U.S. Senate,,MIKE BRAUN,REP
+LaPorte,56-MC09,4,2,0,6,U.S. Senate,,LUCY M. BRENTON,LIB
+LaPorte,56-MC09,0,0,0,0,U.S. Senate,,WRITE-IN,
 LaPorte,56-MC09,142,86,0,228,Secretary of State,,JIM HARPER,DEM
 LaPorte,56-MC09,38,11,0,49,Secretary of State,,CONNIE LAWSON,REP
 LaPorte,56-MC09,6,2,0,8,Secretary of State,,MARK W. RUTHERFORD,LIB
@@ -2328,10 +2328,10 @@ LaPorte,56-MC09,86,43,0,129,Court of Appeals Dist 2-Altice,,YES,
 LaPorte,56-MC09,55,32,0,87,Court of Appeals Dist 2-Altice,,NO,
 LaPorte,57-MC10,145,51,0,196,Public Question,,YES,
 LaPorte,57-MC10,54,37,0,91,Public Question,,NO,
-LaPorte,57-MC10,164,75,0,239,United States Senator,,JOE DONNELLY,DEM
-LaPorte,57-MC10,87,37,0,124,United States Senator,,MIKE BRAUN,REP
-LaPorte,57-MC10,12,4,0,16,United States Senator,,LUCY M. BRENTON,LIB
-LaPorte,57-MC10,0,0,0,0,United States Senator,,WRITE-IN,
+LaPorte,57-MC10,164,75,0,239,U.S. Senate,,JOE DONNELLY,DEM
+LaPorte,57-MC10,87,37,0,124,U.S. Senate,,MIKE BRAUN,REP
+LaPorte,57-MC10,12,4,0,16,U.S. Senate,,LUCY M. BRENTON,LIB
+LaPorte,57-MC10,0,0,0,0,U.S. Senate,,WRITE-IN,
 LaPorte,57-MC10,158,74,0,232,Secretary of State,,JIM HARPER,DEM
 LaPorte,57-MC10,90,35,0,125,Secretary of State,,CONNIE LAWSON,REP
 LaPorte,57-MC10,11,4,0,15,Secretary of State,,MARK W. RUTHERFORD,LIB
@@ -2374,10 +2374,10 @@ LaPorte,57-MC10,131,61,0,192,Court of Appeals Dist 2-Altice,,YES,
 LaPorte,57-MC10,76,24,0,100,Court of Appeals Dist 2-Altice,,NO,
 LaPorte,58-MC11,41,10,0,51,Public Question,,YES,
 LaPorte,58-MC11,24,10,0,34,Public Question,,NO,
-LaPorte,58-MC11,53,14,0,67,United States Senator,,JOE DONNELLY,DEM
-LaPorte,58-MC11,30,8,0,38,United States Senator,,MIKE BRAUN,REP
-LaPorte,58-MC11,5,1,0,6,United States Senator,,LUCY M. BRENTON,LIB
-LaPorte,58-MC11,0,0,0,0,United States Senator,,WRITE-IN,
+LaPorte,58-MC11,53,14,0,67,U.S. Senate,,JOE DONNELLY,DEM
+LaPorte,58-MC11,30,8,0,38,U.S. Senate,,MIKE BRAUN,REP
+LaPorte,58-MC11,5,1,0,6,U.S. Senate,,LUCY M. BRENTON,LIB
+LaPorte,58-MC11,0,0,0,0,U.S. Senate,,WRITE-IN,
 LaPorte,58-MC11,57,12,0,69,Secretary of State,,JIM HARPER,DEM
 LaPorte,58-MC11,27,9,0,36,Secretary of State,,CONNIE LAWSON,REP
 LaPorte,58-MC11,3,2,0,5,Secretary of State,,MARK W. RUTHERFORD,LIB
@@ -2419,10 +2419,10 @@ LaPorte,58-MC11,29,10,0,39,Court of Appeals Dist 2-Altice,,YES,
 LaPorte,58-MC11,27,7,0,34,Court of Appeals Dist 2-Altice,,NO,
 LaPorte,59-MC12,242,77,0,319,Public Question,,YES,
 LaPorte,59-MC12,110,52,0,162,Public Question,,NO,
-LaPorte,59-MC12,271,117,0,388,United States Senator,,JOE DONNELLY,DEM
-LaPorte,59-MC12,168,30,0,198,United States Senator,,MIKE BRAUN,REP
-LaPorte,59-MC12,12,6,0,18,United States Senator,,LUCY M. BRENTON,LIB
-LaPorte,59-MC12,0,0,0,0,United States Senator,,WRITE-IN,
+LaPorte,59-MC12,271,117,0,388,U.S. Senate,,JOE DONNELLY,DEM
+LaPorte,59-MC12,168,30,0,198,U.S. Senate,,MIKE BRAUN,REP
+LaPorte,59-MC12,12,6,0,18,U.S. Senate,,LUCY M. BRENTON,LIB
+LaPorte,59-MC12,0,0,0,0,U.S. Senate,,WRITE-IN,
 LaPorte,59-MC12,246,113,0,359,Secretary of State,,JIM HARPER,DEM
 LaPorte,59-MC12,181,33,0,214,Secretary of State,,CONNIE LAWSON,REP
 LaPorte,59-MC12,23,6,0,29,Secretary of State,,MARK W. RUTHERFORD,LIB
@@ -2464,10 +2464,10 @@ LaPorte,59-MC12,215,72,0,287,Court of Appeals Dist 2-Altice,,YES,
 LaPorte,59-MC12,116,58,0,174,Court of Appeals Dist 2-Altice,,NO,
 LaPorte,60-MC13,104,50,0,154,Public Question,,YES,
 LaPorte,60-MC13,36,17,0,53,Public Question,,NO,
-LaPorte,60-MC13,179,82,0,261,United States Senator,,JOE DONNELLY,DEM
-LaPorte,60-MC13,40,7,0,47,United States Senator,,MIKE BRAUN,REP
-LaPorte,60-MC13,6,2,0,8,United States Senator,,LUCY M. BRENTON,LIB
-LaPorte,60-MC13,0,0,0,0,United States Senator,,WRITE-IN,
+LaPorte,60-MC13,179,82,0,261,U.S. Senate,,JOE DONNELLY,DEM
+LaPorte,60-MC13,40,7,0,47,U.S. Senate,,MIKE BRAUN,REP
+LaPorte,60-MC13,6,2,0,8,U.S. Senate,,LUCY M. BRENTON,LIB
+LaPorte,60-MC13,0,0,0,0,U.S. Senate,,WRITE-IN,
 LaPorte,60-MC13,178,77,0,255,Secretary of State,,JIM HARPER,DEM
 LaPorte,60-MC13,39,8,0,47,Secretary of State,,CONNIE LAWSON,REP
 LaPorte,60-MC13,6,4,0,10,Secretary of State,,MARK W. RUTHERFORD,LIB
@@ -2509,10 +2509,10 @@ LaPorte,60-MC13,113,39,0,152,Court of Appeals Dist 2-Altice,,YES,
 LaPorte,60-MC13,73,26,0,99,Court of Appeals Dist 2-Altice,,NO,
 LaPorte,61-MC14,79,30,0,109,Public Question,,YES,
 LaPorte,61-MC14,32,9,0,41,Public Question,,NO,
-LaPorte,61-MC14,112,42,0,154,United States Senator,,JOE DONNELLY,DEM
-LaPorte,61-MC14,39,12,0,51,United States Senator,,MIKE BRAUN,REP
-LaPorte,61-MC14,4,0,0,4,United States Senator,,LUCY M. BRENTON,LIB
-LaPorte,61-MC14,0,0,0,0,United States Senator,,WRITE-IN,
+LaPorte,61-MC14,112,42,0,154,U.S. Senate,,JOE DONNELLY,DEM
+LaPorte,61-MC14,39,12,0,51,U.S. Senate,,MIKE BRAUN,REP
+LaPorte,61-MC14,4,0,0,4,U.S. Senate,,LUCY M. BRENTON,LIB
+LaPorte,61-MC14,0,0,0,0,U.S. Senate,,WRITE-IN,
 LaPorte,61-MC14,113,43,0,156,Secretary of State,,JIM HARPER,DEM
 LaPorte,61-MC14,39,11,0,50,Secretary of State,,CONNIE LAWSON,REP
 LaPorte,61-MC14,4,0,0,4,Secretary of State,,MARK W. RUTHERFORD,LIB
@@ -2552,10 +2552,10 @@ LaPorte,61-MC14,61,28,0,89,Court of Appeals Dist 2-Altice,,YES,
 LaPorte,61-MC14,56,12,0,68,Court of Appeals Dist 2-Altice,,NO,
 LaPorte,62-MC15,126,68,0,194,Public Question,,YES,
 LaPorte,62-MC15,56,33,0,89,Public Question,,NO,
-LaPorte,62-MC15,141,96,0,237,United States Senator,,JOE DONNELLY,DEM
-LaPorte,62-MC15,79,31,0,110,United States Senator,,MIKE BRAUN,REP
-LaPorte,62-MC15,3,1,0,4,United States Senator,,LUCY M. BRENTON,LIB
-LaPorte,62-MC15,0,0,0,0,United States Senator,,WRITE-IN,
+LaPorte,62-MC15,141,96,0,237,U.S. Senate,,JOE DONNELLY,DEM
+LaPorte,62-MC15,79,31,0,110,U.S. Senate,,MIKE BRAUN,REP
+LaPorte,62-MC15,3,1,0,4,U.S. Senate,,LUCY M. BRENTON,LIB
+LaPorte,62-MC15,0,0,0,0,U.S. Senate,,WRITE-IN,
 LaPorte,62-MC15,133,84,0,217,Secretary of State,,JIM HARPER,DEM
 LaPorte,62-MC15,88,38,0,126,Secretary of State,,CONNIE LAWSON,REP
 LaPorte,62-MC15,2,4,0,6,Secretary of State,,MARK W. RUTHERFORD,LIB
@@ -2595,10 +2595,10 @@ LaPorte,62-MC15,124,61,0,185,Court of Appeals Dist 2-Altice,,YES,
 LaPorte,62-MC15,48,26,0,74,Court of Appeals Dist 2-Altice,,NO,
 LaPorte,63-MC16,173,66,0,239,Public Question,,YES,
 LaPorte,63-MC16,123,43,0,166,Public Question,,NO,
-LaPorte,63-MC16,218,115,0,333,United States Senator,,JOE DONNELLY,DEM
-LaPorte,63-MC16,111,23,0,134,United States Senator,,MIKE BRAUN,REP
-LaPorte,63-MC16,17,3,0,20,United States Senator,,LUCY M. BRENTON,LIB
-LaPorte,63-MC16,0,0,0,0,United States Senator,,WRITE-IN,
+LaPorte,63-MC16,218,115,0,333,U.S. Senate,,JOE DONNELLY,DEM
+LaPorte,63-MC16,111,23,0,134,U.S. Senate,,MIKE BRAUN,REP
+LaPorte,63-MC16,17,3,0,20,U.S. Senate,,LUCY M. BRENTON,LIB
+LaPorte,63-MC16,0,0,0,0,U.S. Senate,,WRITE-IN,
 LaPorte,63-MC16,213,109,0,322,Secretary of State,,JIM HARPER,DEM
 LaPorte,63-MC16,117,27,0,144,Secretary of State,,CONNIE LAWSON,REP
 LaPorte,63-MC16,13,2,0,15,Secretary of State,,MARK W. RUTHERFORD,LIB
@@ -2641,10 +2641,10 @@ LaPorte,63-MC16,194,68,0,262,Court of Appeals Dist 2-Altice,,YES,
 LaPorte,63-MC16,91,36,0,127,Court of Appeals Dist 2-Altice,,NO,
 LaPorte,64-MC17,153,63,0,216,Public Question,,YES,
 LaPorte,64-MC17,77,38,0,115,Public Question,,NO,
-LaPorte,64-MC17,182,82,0,264,United States Senator,,JOE DONNELLY,DEM
-LaPorte,64-MC17,85,28,0,113,United States Senator,,MIKE BRAUN,REP
-LaPorte,64-MC17,13,4,0,17,United States Senator,,LUCY M. BRENTON,LIB
-LaPorte,64-MC17,0,0,0,0,United States Senator,,WRITE-IN,
+LaPorte,64-MC17,182,82,0,264,U.S. Senate,,JOE DONNELLY,DEM
+LaPorte,64-MC17,85,28,0,113,U.S. Senate,,MIKE BRAUN,REP
+LaPorte,64-MC17,13,4,0,17,U.S. Senate,,LUCY M. BRENTON,LIB
+LaPorte,64-MC17,0,0,0,0,U.S. Senate,,WRITE-IN,
 LaPorte,64-MC17,153,83,0,236,Secretary of State,,JIM HARPER,DEM
 LaPorte,64-MC17,110,29,0,139,Secretary of State,,CONNIE LAWSON,REP
 LaPorte,64-MC17,11,3,0,14,Secretary of State,,MARK W. RUTHERFORD,LIB
@@ -2686,10 +2686,10 @@ LaPorte,64-MC17,163,57,0,220,Court of Appeals Dist 2-Altice,,YES,
 LaPorte,64-MC17,72,35,0,107,Court of Appeals Dist 2-Altice,,NO,
 LaPorte,65-MC18,192,77,0,269,Public Question,,YES,
 LaPorte,65-MC18,118,34,0,152,Public Question,,NO,
-LaPorte,65-MC18,247,103,0,350,United States Senator,,JOE DONNELLY,DEM
-LaPorte,65-MC18,110,27,0,137,United States Senator,,MIKE BRAUN,REP
-LaPorte,65-MC18,21,2,0,23,United States Senator,,LUCY M. BRENTON,LIB
-LaPorte,65-MC18,0,0,0,0,United States Senator,,WRITE-IN,
+LaPorte,65-MC18,247,103,0,350,U.S. Senate,,JOE DONNELLY,DEM
+LaPorte,65-MC18,110,27,0,137,U.S. Senate,,MIKE BRAUN,REP
+LaPorte,65-MC18,21,2,0,23,U.S. Senate,,LUCY M. BRENTON,LIB
+LaPorte,65-MC18,0,0,0,0,U.S. Senate,,WRITE-IN,
 LaPorte,65-MC18,233,97,0,330,Secretary of State,,JIM HARPER,DEM
 LaPorte,65-MC18,126,31,0,157,Secretary of State,,CONNIE LAWSON,REP
 LaPorte,65-MC18,15,4,0,19,Secretary of State,,MARK W. RUTHERFORD,LIB
@@ -2732,10 +2732,10 @@ LaPorte,65-MC18,215,67,0,282,Court of Appeals Dist 2-Altice,,YES,
 LaPorte,65-MC18,101,36,0,137,Court of Appeals Dist 2-Altice,,NO,
 LaPorte,66-MC19,135,55,0,190,Public Question,,YES,
 LaPorte,66-MC19,109,36,0,145,Public Question,,NO,
-LaPorte,66-MC19,180,77,0,257,United States Senator,,JOE DONNELLY,DEM
-LaPorte,66-MC19,88,27,0,115,United States Senator,,MIKE BRAUN,REP
-LaPorte,66-MC19,8,5,0,13,United States Senator,,LUCY M. BRENTON,LIB
-LaPorte,66-MC19,0,0,0,0,United States Senator,,WRITE-IN,
+LaPorte,66-MC19,180,77,0,257,U.S. Senate,,JOE DONNELLY,DEM
+LaPorte,66-MC19,88,27,0,115,U.S. Senate,,MIKE BRAUN,REP
+LaPorte,66-MC19,8,5,0,13,U.S. Senate,,LUCY M. BRENTON,LIB
+LaPorte,66-MC19,0,0,0,0,U.S. Senate,,WRITE-IN,
 LaPorte,66-MC19,171,74,0,245,Secretary of State,,JIM HARPER,DEM
 LaPorte,66-MC19,98,31,0,129,Secretary of State,,CONNIE LAWSON,REP
 LaPorte,66-MC19,5,3,0,8,Secretary of State,,MARK W. RUTHERFORD,LIB
@@ -2778,10 +2778,10 @@ LaPorte,66-MC19,155,59,0,214,Court of Appeals Dist 2-Altice,,YES,
 LaPorte,66-MC19,70,27,0,97,Court of Appeals Dist 2-Altice,,NO,
 LaPorte,67-MC20,192,63,0,255,Public Question,,YES,
 LaPorte,67-MC20,66,31,0,97,Public Question,,NO,
-LaPorte,67-MC20,249,93,0,342,United States Senator,,JOE DONNELLY,DEM
-LaPorte,67-MC20,82,19,0,101,United States Senator,,MIKE BRAUN,REP
-LaPorte,67-MC20,7,4,0,11,United States Senator,,LUCY M. BRENTON,LIB
-LaPorte,67-MC20,0,0,0,0,United States Senator,,WRITE-IN,
+LaPorte,67-MC20,249,93,0,342,U.S. Senate,,JOE DONNELLY,DEM
+LaPorte,67-MC20,82,19,0,101,U.S. Senate,,MIKE BRAUN,REP
+LaPorte,67-MC20,7,4,0,11,U.S. Senate,,LUCY M. BRENTON,LIB
+LaPorte,67-MC20,0,0,0,0,U.S. Senate,,WRITE-IN,
 LaPorte,67-MC20,240,94,0,334,Secretary of State,,JIM HARPER,DEM
 LaPorte,67-MC20,88,20,0,108,Secretary of State,,CONNIE LAWSON,REP
 LaPorte,67-MC20,8,1,0,9,Secretary of State,,MARK W. RUTHERFORD,LIB
@@ -2822,10 +2822,10 @@ LaPorte,67-MC20,177,51,0,228,Court of Appeals Dist 2-Altice,,YES,
 LaPorte,67-MC20,92,29,0,121,Court of Appeals Dist 2-Altice,,NO,
 LaPorte,68-MC21,31,11,0,42,Public Question,,YES,
 LaPorte,68-MC21,10,9,0,19,Public Question,,NO,
-LaPorte,68-MC21,48,23,0,71,United States Senator,,JOE DONNELLY,DEM
-LaPorte,68-MC21,3,3,0,6,United States Senator,,MIKE BRAUN,REP
-LaPorte,68-MC21,1,1,0,2,United States Senator,,LUCY M. BRENTON,LIB
-LaPorte,68-MC21,0,0,0,0,United States Senator,,WRITE-IN,
+LaPorte,68-MC21,48,23,0,71,U.S. Senate,,JOE DONNELLY,DEM
+LaPorte,68-MC21,3,3,0,6,U.S. Senate,,MIKE BRAUN,REP
+LaPorte,68-MC21,1,1,0,2,U.S. Senate,,LUCY M. BRENTON,LIB
+LaPorte,68-MC21,0,0,0,0,U.S. Senate,,WRITE-IN,
 LaPorte,68-MC21,47,21,0,68,Secretary of State,,JIM HARPER,DEM
 LaPorte,68-MC21,4,6,0,10,Secretary of State,,CONNIE LAWSON,REP
 LaPorte,68-MC21,0,0,0,0,Secretary of State,,MARK W. RUTHERFORD,LIB
@@ -2865,10 +2865,10 @@ LaPorte,68-MC21,28,10,0,38,Court of Appeals Dist 2-Altice,,YES,
 LaPorte,68-MC21,15,11,0,26,Court of Appeals Dist 2-Altice,,NO,
 LaPorte,69-MC22,139,96,0,235,Public Question,,YES,
 LaPorte,69-MC22,57,54,0,111,Public Question,,NO,
-LaPorte,69-MC22,209,128,0,337,United States Senator,,JOE DONNELLY,DEM
-LaPorte,69-MC22,130,57,0,187,United States Senator,,MIKE BRAUN,REP
-LaPorte,69-MC22,11,6,0,17,United States Senator,,LUCY M. BRENTON,LIB
-LaPorte,69-MC22,0,0,0,0,United States Senator,,WRITE-IN,
+LaPorte,69-MC22,209,128,0,337,U.S. Senate,,JOE DONNELLY,DEM
+LaPorte,69-MC22,130,57,0,187,U.S. Senate,,MIKE BRAUN,REP
+LaPorte,69-MC22,11,6,0,17,U.S. Senate,,LUCY M. BRENTON,LIB
+LaPorte,69-MC22,0,0,0,0,U.S. Senate,,WRITE-IN,
 LaPorte,69-MC22,202,119,0,321,Secretary of State,,JIM HARPER,DEM
 LaPorte,69-MC22,138,64,0,202,Secretary of State,,CONNIE LAWSON,REP
 LaPorte,69-MC22,11,5,0,16,Secretary of State,,MARK W. RUTHERFORD,LIB
@@ -2909,10 +2909,10 @@ LaPorte,69-MC22,168,84,0,252,Court of Appeals Dist 2-Altice,,YES,
 LaPorte,69-MC22,87,43,0,130,Court of Appeals Dist 2-Altice,,NO,
 LaPorte,70-MC23,203,184,0,387,Public Question,,YES,
 LaPorte,70-MC23,91,78,0,169,Public Question,,NO,
-LaPorte,70-MC23,238,203,0,441,United States Senator,,JOE DONNELLY,DEM
-LaPorte,70-MC23,154,81,0,235,United States Senator,,MIKE BRAUN,REP
-LaPorte,70-MC23,17,4,0,21,United States Senator,,LUCY M. BRENTON,LIB
-LaPorte,70-MC23,0,0,0,0,United States Senator,,WRITE-IN,
+LaPorte,70-MC23,238,203,0,441,U.S. Senate,,JOE DONNELLY,DEM
+LaPorte,70-MC23,154,81,0,235,U.S. Senate,,MIKE BRAUN,REP
+LaPorte,70-MC23,17,4,0,21,U.S. Senate,,LUCY M. BRENTON,LIB
+LaPorte,70-MC23,0,0,0,0,U.S. Senate,,WRITE-IN,
 LaPorte,70-MC23,210,195,0,405,Secretary of State,,JIM HARPER,DEM
 LaPorte,70-MC23,174,86,0,260,Secretary of State,,CONNIE LAWSON,REP
 LaPorte,70-MC23,17,4,0,21,Secretary of State,,MARK W. RUTHERFORD,LIB
@@ -2955,10 +2955,10 @@ LaPorte,70-MC23,212,137,0,349,Court of Appeals Dist 2-Altice,,YES,
 LaPorte,70-MC23,87,82,0,169,Court of Appeals Dist 2-Altice,,NO,
 LaPorte,71-MC24 NV,0,0,0,0,Public Question,,YES,
 LaPorte,71-MC24 NV,0,0,0,0,Public Question,,NO,
-LaPorte,71-MC24 NV,0,0,0,0,United States Senator,,JOE DONNELLY,DEM
-LaPorte,71-MC24 NV,0,0,0,0,United States Senator,,MIKE BRAUN,REP
-LaPorte,71-MC24 NV,0,0,0,0,United States Senator,,LUCY M. BRENTON,LIB
-LaPorte,71-MC24 NV,0,0,0,0,United States Senator,,WRITE-IN,
+LaPorte,71-MC24 NV,0,0,0,0,U.S. Senate,,JOE DONNELLY,DEM
+LaPorte,71-MC24 NV,0,0,0,0,U.S. Senate,,MIKE BRAUN,REP
+LaPorte,71-MC24 NV,0,0,0,0,U.S. Senate,,LUCY M. BRENTON,LIB
+LaPorte,71-MC24 NV,0,0,0,0,U.S. Senate,,WRITE-IN,
 LaPorte,71-MC24 NV,0,0,0,0,Secretary of State,,JIM HARPER,DEM
 LaPorte,71-MC24 NV,0,0,0,0,Secretary of State,,CONNIE LAWSON,REP
 LaPorte,71-MC24 NV,0,0,0,0,Secretary of State,,MARK W. RUTHERFORD,LIB
@@ -3001,10 +3001,10 @@ LaPorte,71-MC24 NV,0,0,0,0,Court of Appeals Dist 2-Altice,,YES,
 LaPorte,71-MC24 NV,0,0,0,0,Court of Appeals Dist 2-Altice,,NO,
 LaPorte,72-MC45,19,9,0,28,Public Question,,YES,
 LaPorte,72-MC45,5,5,0,10,Public Question,,NO,
-LaPorte,72-MC45,28,16,0,44,United States Senator,,JOE DONNELLY,DEM
-LaPorte,72-MC45,4,1,0,5,United States Senator,,MIKE BRAUN,REP
-LaPorte,72-MC45,0,0,0,0,United States Senator,,LUCY M. BRENTON,LIB
-LaPorte,72-MC45,0,0,0,0,United States Senator,,WRITE-IN,
+LaPorte,72-MC45,28,16,0,44,U.S. Senate,,JOE DONNELLY,DEM
+LaPorte,72-MC45,4,1,0,5,U.S. Senate,,MIKE BRAUN,REP
+LaPorte,72-MC45,0,0,0,0,U.S. Senate,,LUCY M. BRENTON,LIB
+LaPorte,72-MC45,0,0,0,0,U.S. Senate,,WRITE-IN,
 LaPorte,72-MC45,29,16,0,45,Secretary of State,,JIM HARPER,DEM
 LaPorte,72-MC45,2,1,0,3,Secretary of State,,CONNIE LAWSON,REP
 LaPorte,72-MC45,0,0,0,0,Secretary of State,,MARK W. RUTHERFORD,LIB
@@ -3044,10 +3044,10 @@ LaPorte,72-MC45,15,6,0,21,Court of Appeals Dist 2-Altice,,YES,
 LaPorte,72-MC45,8,5,0,13,Court of Appeals Dist 2-Altice,,NO,
 LaPorte,73-MICHIANA SHORES 01,46,25,0,71,Public Question,,YES,
 LaPorte,73-MICHIANA SHORES 01,16,9,0,25,Public Question,,NO,
-LaPorte,73-MICHIANA SHORES 01,44,23,0,67,United States Senator,,JOE DONNELLY,DEM
-LaPorte,73-MICHIANA SHORES 01,25,15,0,40,United States Senator,,MIKE BRAUN,REP
-LaPorte,73-MICHIANA SHORES 01,1,0,0,1,United States Senator,,LUCY M. BRENTON,LIB
-LaPorte,73-MICHIANA SHORES 01,0,0,0,0,United States Senator,,WRITE-IN,
+LaPorte,73-MICHIANA SHORES 01,44,23,0,67,U.S. Senate,,JOE DONNELLY,DEM
+LaPorte,73-MICHIANA SHORES 01,25,15,0,40,U.S. Senate,,MIKE BRAUN,REP
+LaPorte,73-MICHIANA SHORES 01,1,0,0,1,U.S. Senate,,LUCY M. BRENTON,LIB
+LaPorte,73-MICHIANA SHORES 01,0,0,0,0,U.S. Senate,,WRITE-IN,
 LaPorte,73-MICHIANA SHORES 01,41,23,0,64,Secretary of State,,JIM HARPER,DEM
 LaPorte,73-MICHIANA SHORES 01,28,15,0,43,Secretary of State,,CONNIE LAWSON,REP
 LaPorte,73-MICHIANA SHORES 01,1,0,0,1,Secretary of State,,MARK W. RUTHERFORD,LIB
@@ -3090,10 +3090,10 @@ LaPorte,73-MICHIANA SHORES 01,37,19,0,56,Court of Appeals Dist 2-Altice,,YES,
 LaPorte,73-MICHIANA SHORES 01,13,13,0,26,Court of Appeals Dist 2-Altice,,NO,
 LaPorte,74-MICHIANA SHORES 02,24,11,0,35,Public Question,,YES,
 LaPorte,74-MICHIANA SHORES 02,12,2,0,14,Public Question,,NO,
-LaPorte,74-MICHIANA SHORES 02,21,10,0,31,United States Senator,,JOE DONNELLY,DEM
-LaPorte,74-MICHIANA SHORES 02,22,5,0,27,United States Senator,,MIKE BRAUN,REP
-LaPorte,74-MICHIANA SHORES 02,0,0,0,0,United States Senator,,LUCY M. BRENTON,LIB
-LaPorte,74-MICHIANA SHORES 02,0,0,0,0,United States Senator,,WRITE-IN,
+LaPorte,74-MICHIANA SHORES 02,21,10,0,31,U.S. Senate,,JOE DONNELLY,DEM
+LaPorte,74-MICHIANA SHORES 02,22,5,0,27,U.S. Senate,,MIKE BRAUN,REP
+LaPorte,74-MICHIANA SHORES 02,0,0,0,0,U.S. Senate,,LUCY M. BRENTON,LIB
+LaPorte,74-MICHIANA SHORES 02,0,0,0,0,U.S. Senate,,WRITE-IN,
 LaPorte,74-MICHIANA SHORES 02,17,9,0,26,Secretary of State,,JIM HARPER,DEM
 LaPorte,74-MICHIANA SHORES 02,24,6,0,30,Secretary of State,,CONNIE LAWSON,REP
 LaPorte,74-MICHIANA SHORES 02,0,0,0,0,Secretary of State,,MARK W. RUTHERFORD,LIB
@@ -3133,10 +3133,10 @@ LaPorte,74-MICHIANA SHORES 02,22,6,0,28,Court of Appeals Dist 2-Altice,,YES,
 LaPorte,74-MICHIANA SHORES 02,10,4,0,14,Court of Appeals Dist 2-Altice,,NO,
 LaPorte,75-NEW DURHAM 01,292,83,0,375,Public Question,,YES,
 LaPorte,75-NEW DURHAM 01,125,36,0,161,Public Question,,NO,
-LaPorte,75-NEW DURHAM 01,251,83,0,334,United States Senator,,JOE DONNELLY,DEM
-LaPorte,75-NEW DURHAM 01,290,48,0,338,United States Senator,,MIKE BRAUN,REP
-LaPorte,75-NEW DURHAM 01,22,4,0,26,United States Senator,,LUCY M. BRENTON,LIB
-LaPorte,75-NEW DURHAM 01,0,0,0,0,United States Senator,,WRITE-IN,
+LaPorte,75-NEW DURHAM 01,251,83,0,334,U.S. Senate,,JOE DONNELLY,DEM
+LaPorte,75-NEW DURHAM 01,290,48,0,338,U.S. Senate,,MIKE BRAUN,REP
+LaPorte,75-NEW DURHAM 01,22,4,0,26,U.S. Senate,,LUCY M. BRENTON,LIB
+LaPorte,75-NEW DURHAM 01,0,0,0,0,U.S. Senate,,WRITE-IN,
 LaPorte,75-NEW DURHAM 01,229,78,0,307,Secretary of State,,JIM HARPER,DEM
 LaPorte,75-NEW DURHAM 01,302,55,0,357,Secretary of State,,CONNIE LAWSON,REP
 LaPorte,75-NEW DURHAM 01,28,2,0,30,Secretary of State,,MARK W. RUTHERFORD,LIB
@@ -3178,10 +3178,10 @@ LaPorte,75-NEW DURHAM 01,316,63,0,379,Court of Appeals Dist 2-Altice,,YES,
 LaPorte,75-NEW DURHAM 01,148,39,0,187,Court of Appeals Dist 2-Altice,,NO,
 LaPorte,76-NEW DURHAM 02,171,70,0,241,Public Question,,YES,
 LaPorte,76-NEW DURHAM 02,68,24,0,92,Public Question,,NO,
-LaPorte,76-NEW DURHAM 02,130,56,0,186,United States Senator,,JOE DONNELLY,DEM
-LaPorte,76-NEW DURHAM 02,153,55,0,208,United States Senator,,MIKE BRAUN,REP
-LaPorte,76-NEW DURHAM 02,6,3,0,9,United States Senator,,LUCY M. BRENTON,LIB
-LaPorte,76-NEW DURHAM 02,0,0,0,0,United States Senator,,WRITE-IN,
+LaPorte,76-NEW DURHAM 02,130,56,0,186,U.S. Senate,,JOE DONNELLY,DEM
+LaPorte,76-NEW DURHAM 02,153,55,0,208,U.S. Senate,,MIKE BRAUN,REP
+LaPorte,76-NEW DURHAM 02,6,3,0,9,U.S. Senate,,LUCY M. BRENTON,LIB
+LaPorte,76-NEW DURHAM 02,0,0,0,0,U.S. Senate,,WRITE-IN,
 LaPorte,76-NEW DURHAM 02,113,54,0,167,Secretary of State,,JIM HARPER,DEM
 LaPorte,76-NEW DURHAM 02,158,55,0,213,Secretary of State,,CONNIE LAWSON,REP
 LaPorte,76-NEW DURHAM 02,14,3,0,17,Secretary of State,,MARK W. RUTHERFORD,LIB
@@ -3223,10 +3223,10 @@ LaPorte,76-NEW DURHAM 02,161,59,0,220,Court of Appeals Dist 2-Altice,,YES,
 LaPorte,76-NEW DURHAM 02,82,25,0,107,Court of Appeals Dist 2-Altice,,NO,
 LaPorte,77-NOBLE,319,48,0,367,Public Question,,YES,
 LaPorte,77-NOBLE,140,27,0,167,Public Question,,NO,
-LaPorte,77-NOBLE,210,51,0,261,United States Senator,,JOE DONNELLY,DEM
-LaPorte,77-NOBLE,312,43,0,355,United States Senator,,MIKE BRAUN,REP
-LaPorte,77-NOBLE,21,3,0,24,United States Senator,,LUCY M. BRENTON,LIB
-LaPorte,77-NOBLE,0,0,0,0,United States Senator,,WRITE-IN,
+LaPorte,77-NOBLE,210,51,0,261,U.S. Senate,,JOE DONNELLY,DEM
+LaPorte,77-NOBLE,312,43,0,355,U.S. Senate,,MIKE BRAUN,REP
+LaPorte,77-NOBLE,21,3,0,24,U.S. Senate,,LUCY M. BRENTON,LIB
+LaPorte,77-NOBLE,0,0,0,0,U.S. Senate,,WRITE-IN,
 LaPorte,77-NOBLE,172,47,0,219,Secretary of State,,JIM HARPER,DEM
 LaPorte,77-NOBLE,336,44,0,380,Secretary of State,,CONNIE LAWSON,REP
 LaPorte,77-NOBLE,27,4,0,31,Secretary of State,,MARK W. RUTHERFORD,LIB
@@ -3261,10 +3261,10 @@ LaPorte,77-NOBLE,312,42,0,354,Court of Appeals Dist 2-Altice,,YES,
 LaPorte,77-NOBLE,150,29,0,179,Court of Appeals Dist 2-Altice,,NO,
 LaPorte,78-PLEASANT,333,106,0,439,Public Question,,YES,
 LaPorte,78-PLEASANT,155,60,0,215,Public Question,,NO,
-LaPorte,78-PLEASANT,265,95,0,360,United States Senator,,JOE DONNELLY,DEM
-LaPorte,78-PLEASANT,329,91,0,420,United States Senator,,MIKE BRAUN,REP
-LaPorte,78-PLEASANT,28,5,0,33,United States Senator,,LUCY M. BRENTON,LIB
-LaPorte,78-PLEASANT,0,0,0,0,United States Senator,,WRITE-IN,
+LaPorte,78-PLEASANT,265,95,0,360,U.S. Senate,,JOE DONNELLY,DEM
+LaPorte,78-PLEASANT,329,91,0,420,U.S. Senate,,MIKE BRAUN,REP
+LaPorte,78-PLEASANT,28,5,0,33,U.S. Senate,,LUCY M. BRENTON,LIB
+LaPorte,78-PLEASANT,0,0,0,0,U.S. Senate,,WRITE-IN,
 LaPorte,78-PLEASANT,231,80,0,311,Secretary of State,,JIM HARPER,DEM
 LaPorte,78-PLEASANT,355,100,0,455,Secretary of State,,CONNIE LAWSON,REP
 LaPorte,78-PLEASANT,29,6,0,35,Secretary of State,,MARK W. RUTHERFORD,LIB
@@ -3301,10 +3301,10 @@ LaPorte,78-PLEASANT,398,109,0,507,Court of Appeals Dist 2-Altice,,YES,
 LaPorte,78-PLEASANT,143,53,0,196,Court of Appeals Dist 2-Altice,,NO,
 LaPorte,79-POTTAWATTOMIE PARK,63,28,0,91,Public Question,,YES,
 LaPorte,79-POTTAWATTOMIE PARK,27,12,0,39,Public Question,,NO,
-LaPorte,79-POTTAWATTOMIE PARK,52,28,0,80,United States Senator,,JOE DONNELLY,DEM
-LaPorte,79-POTTAWATTOMIE PARK,46,17,0,63,United States Senator,,MIKE BRAUN,REP
-LaPorte,79-POTTAWATTOMIE PARK,2,0,0,2,United States Senator,,LUCY M. BRENTON,LIB
-LaPorte,79-POTTAWATTOMIE PARK,0,0,0,0,United States Senator,,WRITE-IN,
+LaPorte,79-POTTAWATTOMIE PARK,52,28,0,80,U.S. Senate,,JOE DONNELLY,DEM
+LaPorte,79-POTTAWATTOMIE PARK,46,17,0,63,U.S. Senate,,MIKE BRAUN,REP
+LaPorte,79-POTTAWATTOMIE PARK,2,0,0,2,U.S. Senate,,LUCY M. BRENTON,LIB
+LaPorte,79-POTTAWATTOMIE PARK,0,0,0,0,U.S. Senate,,WRITE-IN,
 LaPorte,79-POTTAWATTOMIE PARK,46,24,0,70,Secretary of State,,JIM HARPER,DEM
 LaPorte,79-POTTAWATTOMIE PARK,49,20,0,69,Secretary of State,,CONNIE LAWSON,REP
 LaPorte,79-POTTAWATTOMIE PARK,2,0,0,2,Secretary of State,,MARK W. RUTHERFORD,LIB
@@ -3349,10 +3349,10 @@ LaPorte,79-POTTAWATTOMIE PARK,54,30,0,84,Court of Appeals Dist 2-Altice,,YES,
 LaPorte,79-POTTAWATTOMIE PARK,27,11,0,38,Court of Appeals Dist 2-Altice,,NO,
 LaPorte,80-PRAIRIE,58,5,0,63,Public Question,,YES,
 LaPorte,80-PRAIRIE,20,1,0,21,Public Question,,NO,
-LaPorte,80-PRAIRIE,34,5,0,39,United States Senator,,JOE DONNELLY,DEM
-LaPorte,80-PRAIRIE,57,1,0,58,United States Senator,,MIKE BRAUN,REP
-LaPorte,80-PRAIRIE,3,0,0,3,United States Senator,,LUCY M. BRENTON,LIB
-LaPorte,80-PRAIRIE,0,0,0,0,United States Senator,,WRITE-IN,
+LaPorte,80-PRAIRIE,34,5,0,39,U.S. Senate,,JOE DONNELLY,DEM
+LaPorte,80-PRAIRIE,57,1,0,58,U.S. Senate,,MIKE BRAUN,REP
+LaPorte,80-PRAIRIE,3,0,0,3,U.S. Senate,,LUCY M. BRENTON,LIB
+LaPorte,80-PRAIRIE,0,0,0,0,U.S. Senate,,WRITE-IN,
 LaPorte,80-PRAIRIE,31,3,0,34,Secretary of State,,JIM HARPER,DEM
 LaPorte,80-PRAIRIE,58,2,0,60,Secretary of State,,CONNIE LAWSON,REP
 LaPorte,80-PRAIRIE,3,1,0,4,Secretary of State,,MARK W. RUTHERFORD,LIB
@@ -3387,10 +3387,10 @@ LaPorte,80-PRAIRIE,55,3,0,58,Court of Appeals Dist 2-Altice,,YES,
 LaPorte,80-PRAIRIE,25,4,0,29,Court of Appeals Dist 2-Altice,,NO,
 LaPorte,81-SCIPIO 1,344,119,0,463,Public Question,,YES,
 LaPorte,81-SCIPIO 1,142,49,0,191,Public Question,,NO,
-LaPorte,81-SCIPIO 1,211,88,0,299,United States Senator,,JOE DONNELLY,DEM
-LaPorte,81-SCIPIO 1,322,90,0,412,United States Senator,,MIKE BRAUN,REP
-LaPorte,81-SCIPIO 1,18,7,0,25,United States Senator,,LUCY M. BRENTON,LIB
-LaPorte,81-SCIPIO 1,0,1,0,1,United States Senator,,WRITE-IN,
+LaPorte,81-SCIPIO 1,211,88,0,299,U.S. Senate,,JOE DONNELLY,DEM
+LaPorte,81-SCIPIO 1,322,90,0,412,U.S. Senate,,MIKE BRAUN,REP
+LaPorte,81-SCIPIO 1,18,7,0,25,U.S. Senate,,LUCY M. BRENTON,LIB
+LaPorte,81-SCIPIO 1,0,1,0,1,U.S. Senate,,WRITE-IN,
 LaPorte,81-SCIPIO 1,164,76,0,240,Secretary of State,,JIM HARPER,DEM
 LaPorte,81-SCIPIO 1,366,103,0,469,Secretary of State,,CONNIE LAWSON,REP
 LaPorte,81-SCIPIO 1,12,6,0,18,Secretary of State,,MARK W. RUTHERFORD,LIB
@@ -3427,10 +3427,10 @@ LaPorte,81-SCIPIO 1,351,98,0,449,Court of Appeals Dist 2-Altice,,YES,
 LaPorte,81-SCIPIO 1,109,52,0,161,Court of Appeals Dist 2-Altice,,NO,
 LaPorte,82-SCIPIO 2,236,158,0,394,Public Question,,YES,
 LaPorte,82-SCIPIO 2,120,72,0,192,Public Question,,NO,
-LaPorte,82-SCIPIO 2,171,144,0,315,United States Senator,,JOE DONNELLY,DEM
-LaPorte,82-SCIPIO 2,203,99,0,302,United States Senator,,MIKE BRAUN,REP
-LaPorte,82-SCIPIO 2,15,6,0,21,United States Senator,,LUCY M. BRENTON,LIB
-LaPorte,82-SCIPIO 2,0,0,0,0,United States Senator,,WRITE-IN,
+LaPorte,82-SCIPIO 2,171,144,0,315,U.S. Senate,,JOE DONNELLY,DEM
+LaPorte,82-SCIPIO 2,203,99,0,302,U.S. Senate,,MIKE BRAUN,REP
+LaPorte,82-SCIPIO 2,15,6,0,21,U.S. Senate,,LUCY M. BRENTON,LIB
+LaPorte,82-SCIPIO 2,0,0,0,0,U.S. Senate,,WRITE-IN,
 LaPorte,82-SCIPIO 2,154,128,0,282,Secretary of State,,JIM HARPER,DEM
 LaPorte,82-SCIPIO 2,212,113,0,325,Secretary of State,,CONNIE LAWSON,REP
 LaPorte,82-SCIPIO 2,18,7,0,25,Secretary of State,,MARK W. RUTHERFORD,LIB
@@ -3467,10 +3467,10 @@ LaPorte,82-SCIPIO 2,239,139,0,378,Court of Appeals Dist 2-Altice,,YES,
 LaPorte,82-SCIPIO 2,99,69,0,168,Court of Appeals Dist 2-Altice,,NO,
 LaPorte,83-SPRINGFIELD 1,220,47,0,267,Public Question,,YES,
 LaPorte,83-SPRINGFIELD 1,97,26,0,123,Public Question,,NO,
-LaPorte,83-SPRINGFIELD 1,167,47,0,214,United States Senator,,JOE DONNELLY,DEM
-LaPorte,83-SPRINGFIELD 1,188,30,0,218,United States Senator,,MIKE BRAUN,REP
-LaPorte,83-SPRINGFIELD 1,14,2,0,16,United States Senator,,LUCY M. BRENTON,LIB
-LaPorte,83-SPRINGFIELD 1,0,0,0,0,United States Senator,,WRITE-IN,
+LaPorte,83-SPRINGFIELD 1,167,47,0,214,U.S. Senate,,JOE DONNELLY,DEM
+LaPorte,83-SPRINGFIELD 1,188,30,0,218,U.S. Senate,,MIKE BRAUN,REP
+LaPorte,83-SPRINGFIELD 1,14,2,0,16,U.S. Senate,,LUCY M. BRENTON,LIB
+LaPorte,83-SPRINGFIELD 1,0,0,0,0,U.S. Senate,,WRITE-IN,
 LaPorte,83-SPRINGFIELD 1,153,44,0,197,Secretary of State,,JIM HARPER,DEM
 LaPorte,83-SPRINGFIELD 1,199,32,0,231,Secretary of State,,CONNIE LAWSON,REP
 LaPorte,83-SPRINGFIELD 1,15,1,0,16,Secretary of State,,MARK W. RUTHERFORD,LIB
@@ -3509,10 +3509,10 @@ LaPorte,83-SPRINGFIELD 1,211,36,0,247,Court of Appeals Dist 2-Altice,,YES,
 LaPorte,83-SPRINGFIELD 1,102,26,0,128,Court of Appeals Dist 2-Altice,,NO,
 LaPorte,84-SPRINGFIELD 2,220,58,0,278,Public Question,,YES,
 LaPorte,84-SPRINGFIELD 2,98,24,0,122,Public Question,,NO,
-LaPorte,84-SPRINGFIELD 2,155,56,0,211,United States Senator,,JOE DONNELLY,DEM
-LaPorte,84-SPRINGFIELD 2,191,34,0,225,United States Senator,,MIKE BRAUN,REP
-LaPorte,84-SPRINGFIELD 2,16,2,0,18,United States Senator,,LUCY M. BRENTON,LIB
-LaPorte,84-SPRINGFIELD 2,0,0,0,0,United States Senator,,WRITE-IN,
+LaPorte,84-SPRINGFIELD 2,155,56,0,211,U.S. Senate,,JOE DONNELLY,DEM
+LaPorte,84-SPRINGFIELD 2,191,34,0,225,U.S. Senate,,MIKE BRAUN,REP
+LaPorte,84-SPRINGFIELD 2,16,2,0,18,U.S. Senate,,LUCY M. BRENTON,LIB
+LaPorte,84-SPRINGFIELD 2,0,0,0,0,U.S. Senate,,WRITE-IN,
 LaPorte,84-SPRINGFIELD 2,134,54,0,188,Secretary of State,,JIM HARPER,DEM
 LaPorte,84-SPRINGFIELD 2,206,33,0,239,Secretary of State,,CONNIE LAWSON,REP
 LaPorte,84-SPRINGFIELD 2,16,3,0,19,Secretary of State,,MARK W. RUTHERFORD,LIB
@@ -3551,10 +3551,10 @@ LaPorte,84-SPRINGFIELD 2,192,35,0,227,Court of Appeals Dist 2-Altice,,YES,
 LaPorte,84-SPRINGFIELD 2,108,40,0,148,Court of Appeals Dist 2-Altice,,NO,
 LaPorte,85-SPRINGFIELD 3,166,76,0,242,Public Question,,YES,
 LaPorte,85-SPRINGFIELD 3,48,30,0,78,Public Question,,NO,
-LaPorte,85-SPRINGFIELD 3,114,81,0,195,United States Senator,,JOE DONNELLY,DEM
-LaPorte,85-SPRINGFIELD 3,113,41,0,154,United States Senator,,MIKE BRAUN,REP
-LaPorte,85-SPRINGFIELD 3,7,1,0,8,United States Senator,,LUCY M. BRENTON,LIB
-LaPorte,85-SPRINGFIELD 3,0,0,0,0,United States Senator,,WRITE-IN,
+LaPorte,85-SPRINGFIELD 3,114,81,0,195,U.S. Senate,,JOE DONNELLY,DEM
+LaPorte,85-SPRINGFIELD 3,113,41,0,154,U.S. Senate,,MIKE BRAUN,REP
+LaPorte,85-SPRINGFIELD 3,7,1,0,8,U.S. Senate,,LUCY M. BRENTON,LIB
+LaPorte,85-SPRINGFIELD 3,0,0,0,0,U.S. Senate,,WRITE-IN,
 LaPorte,85-SPRINGFIELD 3,96,72,0,168,Secretary of State,,JIM HARPER,DEM
 LaPorte,85-SPRINGFIELD 3,125,43,0,168,Secretary of State,,CONNIE LAWSON,REP
 LaPorte,85-SPRINGFIELD 3,10,4,0,14,Secretary of State,,MARK W. RUTHERFORD,LIB
@@ -3594,10 +3594,10 @@ LaPorte,85-SPRINGFIELD 3,146,66,0,212,Court of Appeals Dist 2-Altice,,YES,
 LaPorte,85-SPRINGFIELD 3,52,32,0,84,Court of Appeals Dist 2-Altice,,NO,
 LaPorte,86-TRAIL CREEK 01,211,88,0,299,Public Question,,YES,
 LaPorte,86-TRAIL CREEK 01,137,50,0,187,Public Question,,NO,
-LaPorte,86-TRAIL CREEK 01,226,111,0,337,United States Senator,,JOE DONNELLY,DEM
-LaPorte,86-TRAIL CREEK 01,168,35,0,203,United States Senator,,MIKE BRAUN,REP
-LaPorte,86-TRAIL CREEK 01,16,2,0,18,United States Senator,,LUCY M. BRENTON,LIB
-LaPorte,86-TRAIL CREEK 01,0,0,0,0,United States Senator,,WRITE-IN,
+LaPorte,86-TRAIL CREEK 01,226,111,0,337,U.S. Senate,,JOE DONNELLY,DEM
+LaPorte,86-TRAIL CREEK 01,168,35,0,203,U.S. Senate,,MIKE BRAUN,REP
+LaPorte,86-TRAIL CREEK 01,16,2,0,18,U.S. Senate,,LUCY M. BRENTON,LIB
+LaPorte,86-TRAIL CREEK 01,0,0,0,0,U.S. Senate,,WRITE-IN,
 LaPorte,86-TRAIL CREEK 01,207,101,0,308,Secretary of State,,JIM HARPER,DEM
 LaPorte,86-TRAIL CREEK 01,186,39,0,225,Secretary of State,,CONNIE LAWSON,REP
 LaPorte,86-TRAIL CREEK 01,12,4,0,16,Secretary of State,,MARK W. RUTHERFORD,LIB
@@ -3638,10 +3638,10 @@ LaPorte,86-TRAIL CREEK 01,231,72,0,303,Court of Appeals Dist 2-Altice,,YES,
 LaPorte,86-TRAIL CREEK 01,104,54,0,158,Court of Appeals Dist 2-Altice,,NO,
 LaPorte,87-TRAIL CREEK 02,147,63,0,210,Public Question,,YES,
 LaPorte,87-TRAIL CREEK 02,63,32,0,95,Public Question,,NO,
-LaPorte,87-TRAIL CREEK 02,140,68,0,208,United States Senator,,JOE DONNELLY,DEM
-LaPorte,87-TRAIL CREEK 02,102,41,0,143,United States Senator,,MIKE BRAUN,REP
-LaPorte,87-TRAIL CREEK 02,4,1,0,5,United States Senator,,LUCY M. BRENTON,LIB
-LaPorte,87-TRAIL CREEK 02,0,0,0,0,United States Senator,,WRITE-IN,
+LaPorte,87-TRAIL CREEK 02,140,68,0,208,U.S. Senate,,JOE DONNELLY,DEM
+LaPorte,87-TRAIL CREEK 02,102,41,0,143,U.S. Senate,,MIKE BRAUN,REP
+LaPorte,87-TRAIL CREEK 02,4,1,0,5,U.S. Senate,,LUCY M. BRENTON,LIB
+LaPorte,87-TRAIL CREEK 02,0,0,0,0,U.S. Senate,,WRITE-IN,
 LaPorte,87-TRAIL CREEK 02,126,58,0,184,Secretary of State,,JIM HARPER,DEM
 LaPorte,87-TRAIL CREEK 02,110,44,0,154,Secretary of State,,CONNIE LAWSON,REP
 LaPorte,87-TRAIL CREEK 02,8,5,0,13,Secretary of State,,MARK W. RUTHERFORD,LIB
@@ -3681,10 +3681,10 @@ LaPorte,87-TRAIL CREEK 02,141,55,0,196,Court of Appeals Dist 2-Altice,,YES,
 LaPorte,87-TRAIL CREEK 02,59,28,0,87,Court of Appeals Dist 2-Altice,,NO,
 LaPorte,88-UNION,161,24,0,185,Public Question,,YES,
 LaPorte,88-UNION,59,11,0,70,Public Question,,NO,
-LaPorte,88-UNION,90,21,0,111,United States Senator,,JOE DONNELLY,DEM
-LaPorte,88-UNION,144,19,0,163,United States Senator,,MIKE BRAUN,REP
-LaPorte,88-UNION,19,0,0,19,United States Senator,,LUCY M. BRENTON,LIB
-LaPorte,88-UNION,0,0,0,0,United States Senator,,WRITE-IN,
+LaPorte,88-UNION,90,21,0,111,U.S. Senate,,JOE DONNELLY,DEM
+LaPorte,88-UNION,144,19,0,163,U.S. Senate,,MIKE BRAUN,REP
+LaPorte,88-UNION,19,0,0,19,U.S. Senate,,LUCY M. BRENTON,LIB
+LaPorte,88-UNION,0,0,0,0,U.S. Senate,,WRITE-IN,
 LaPorte,88-UNION,74,20,0,94,Secretary of State,,JIM HARPER,DEM
 LaPorte,88-UNION,159,20,0,179,Secretary of State,,CONNIE LAWSON,REP
 LaPorte,88-UNION,18,0,0,18,Secretary of State,,MARK W. RUTHERFORD,LIB
@@ -3722,10 +3722,10 @@ LaPorte,88-UNION,142,19,0,161,Court of Appeals Dist 2-Altice,,YES,
 LaPorte,88-UNION,75,14,0,89,Court of Appeals Dist 2-Altice,,NO,
 LaPorte,89-WANATAH 01,115,9,0,124,Public Question,,YES,
 LaPorte,89-WANATAH 01,54,17,0,71,Public Question,,NO,
-LaPorte,89-WANATAH 01,109,16,0,125,United States Senator,,JOE DONNELLY,DEM
-LaPorte,89-WANATAH 01,109,10,0,119,United States Senator,,MIKE BRAUN,REP
-LaPorte,89-WANATAH 01,9,1,0,10,United States Senator,,LUCY M. BRENTON,LIB
-LaPorte,89-WANATAH 01,0,0,0,0,United States Senator,,WRITE-IN,
+LaPorte,89-WANATAH 01,109,16,0,125,U.S. Senate,,JOE DONNELLY,DEM
+LaPorte,89-WANATAH 01,109,10,0,119,U.S. Senate,,MIKE BRAUN,REP
+LaPorte,89-WANATAH 01,9,1,0,10,U.S. Senate,,LUCY M. BRENTON,LIB
+LaPorte,89-WANATAH 01,0,0,0,0,U.S. Senate,,WRITE-IN,
 LaPorte,89-WANATAH 01,102,16,0,118,Secretary of State,,JIM HARPER,DEM
 LaPorte,89-WANATAH 01,107,11,0,118,Secretary of State,,CONNIE LAWSON,REP
 LaPorte,89-WANATAH 01,12,0,0,12,Secretary of State,,MARK W. RUTHERFORD,LIB
@@ -3760,10 +3760,10 @@ LaPorte,89-WANATAH 01,141,17,0,158,Court of Appeals Dist 2-Altice,,YES,
 LaPorte,89-WANATAH 01,53,9,0,62,Court of Appeals Dist 2-Altice,,NO,
 LaPorte,90-WANATAH 02,73,17,0,90,Public Question,,YES,
 LaPorte,90-WANATAH 02,31,4,0,35,Public Question,,NO,
-LaPorte,90-WANATAH 02,47,13,0,60,United States Senator,,JOE DONNELLY,DEM
-LaPorte,90-WANATAH 02,77,11,0,88,United States Senator,,MIKE BRAUN,REP
-LaPorte,90-WANATAH 02,6,0,0,6,United States Senator,,LUCY M. BRENTON,LIB
-LaPorte,90-WANATAH 02,0,0,0,0,United States Senator,,WRITE-IN,
+LaPorte,90-WANATAH 02,47,13,0,60,U.S. Senate,,JOE DONNELLY,DEM
+LaPorte,90-WANATAH 02,77,11,0,88,U.S. Senate,,MIKE BRAUN,REP
+LaPorte,90-WANATAH 02,6,0,0,6,U.S. Senate,,LUCY M. BRENTON,LIB
+LaPorte,90-WANATAH 02,0,0,0,0,U.S. Senate,,WRITE-IN,
 LaPorte,90-WANATAH 02,50,12,0,62,Secretary of State,,JIM HARPER,DEM
 LaPorte,90-WANATAH 02,74,12,0,86,Secretary of State,,CONNIE LAWSON,REP
 LaPorte,90-WANATAH 02,6,0,0,6,Secretary of State,,MARK W. RUTHERFORD,LIB
@@ -3798,10 +3798,10 @@ LaPorte,90-WANATAH 02,77,12,0,89,Court of Appeals Dist 2-Altice,,YES,
 LaPorte,90-WANATAH 02,28,7,0,35,Court of Appeals Dist 2-Altice,,NO,
 LaPorte,91-WASHINGTON,194,50,0,244,Public Question,,YES,
 LaPorte,91-WASHINGTON,86,22,0,108,Public Question,,NO,
-LaPorte,91-WASHINGTON,122,38,0,160,United States Senator,,JOE DONNELLY,DEM
-LaPorte,91-WASHINGTON,176,40,0,216,United States Senator,,MIKE BRAUN,REP
-LaPorte,91-WASHINGTON,16,2,0,18,United States Senator,,LUCY M. BRENTON,LIB
-LaPorte,91-WASHINGTON,0,0,0,0,United States Senator,,WRITE-IN,
+LaPorte,91-WASHINGTON,122,38,0,160,U.S. Senate,,JOE DONNELLY,DEM
+LaPorte,91-WASHINGTON,176,40,0,216,U.S. Senate,,MIKE BRAUN,REP
+LaPorte,91-WASHINGTON,16,2,0,18,U.S. Senate,,LUCY M. BRENTON,LIB
+LaPorte,91-WASHINGTON,0,0,0,0,U.S. Senate,,WRITE-IN,
 LaPorte,91-WASHINGTON,102,39,0,141,Secretary of State,,JIM HARPER,DEM
 LaPorte,91-WASHINGTON,190,40,0,230,Secretary of State,,CONNIE LAWSON,REP
 LaPorte,91-WASHINGTON,19,0,0,19,Secretary of State,,MARK W. RUTHERFORD,LIB
@@ -3838,10 +3838,10 @@ LaPorte,91-WASHINGTON,180,47,0,227,Court of Appeals Dist 2-Altice,,YES,
 LaPorte,91-WASHINGTON,80,23,0,103,Court of Appeals Dist 2-Altice,,NO,
 LaPorte,92-WESTVILLE,297,66,0,363,Public Question,,YES,
 LaPorte,92-WESTVILLE,115,38,0,153,Public Question,,NO,
-LaPorte,92-WESTVILLE,240,57,0,297,United States Senator,,JOE DONNELLY,DEM
-LaPorte,92-WESTVILLE,261,60,0,321,United States Senator,,MIKE BRAUN,REP
-LaPorte,92-WESTVILLE,21,7,0,28,United States Senator,,LUCY M. BRENTON,LIB
-LaPorte,92-WESTVILLE,0,0,0,0,United States Senator,,WRITE-IN,
+LaPorte,92-WESTVILLE,240,57,0,297,U.S. Senate,,JOE DONNELLY,DEM
+LaPorte,92-WESTVILLE,261,60,0,321,U.S. Senate,,MIKE BRAUN,REP
+LaPorte,92-WESTVILLE,21,7,0,28,U.S. Senate,,LUCY M. BRENTON,LIB
+LaPorte,92-WESTVILLE,0,0,0,0,U.S. Senate,,WRITE-IN,
 LaPorte,92-WESTVILLE,212,59,0,271,Secretary of State,,JIM HARPER,DEM
 LaPorte,92-WESTVILLE,280,61,0,341,Secretary of State,,CONNIE LAWSON,REP
 LaPorte,92-WESTVILLE,26,4,0,30,Secretary of State,,MARK W. RUTHERFORD,LIB
@@ -3882,10 +3882,10 @@ LaPorte,92-WESTVILLE,291,68,0,359,Court of Appeals Dist 2-Altice,,YES,
 LaPorte,92-WESTVILLE,112,32,0,144,Court of Appeals Dist 2-Altice,,NO,
 LaPorte,93-WILLS,445,132,0,577,Public Question,,YES,
 LaPorte,93-WILLS,164,39,0,203,Public Question,,NO,
-LaPorte,93-WILLS,284,93,0,377,United States Senator,,JOE DONNELLY,DEM
-LaPorte,93-WILLS,401,92,0,493,United States Senator,,MIKE BRAUN,REP
-LaPorte,93-WILLS,21,6,0,27,United States Senator,,LUCY M. BRENTON,LIB
-LaPorte,93-WILLS,1,0,0,1,United States Senator,,WRITE-IN,
+LaPorte,93-WILLS,284,93,0,377,U.S. Senate,,JOE DONNELLY,DEM
+LaPorte,93-WILLS,401,92,0,493,U.S. Senate,,MIKE BRAUN,REP
+LaPorte,93-WILLS,21,6,0,27,U.S. Senate,,LUCY M. BRENTON,LIB
+LaPorte,93-WILLS,1,0,0,1,U.S. Senate,,WRITE-IN,
 LaPorte,93-WILLS,236,82,0,318,Secretary of State,,JIM HARPER,DEM
 LaPorte,93-WILLS,445,101,0,546,Secretary of State,,CONNIE LAWSON,REP
 LaPorte,93-WILLS,21,8,0,29,Secretary of State,,MARK W. RUTHERFORD,LIB

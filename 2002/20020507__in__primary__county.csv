@@ -3,7 +3,7 @@ Adams,U.S. House,3,Jay Rigdon,Democratic,0
 Adams,U.S. House,3,Paul Helmke,Republican,0
 Adams,U.S. House,3,William R. Larsen,Republican,0
 Adams,U.S. House,3,Mark E. Souder,Republican,0
-Adams,State Senator,19,David C. Ford,Republican,1722
+Adams,State Senate,19,David C. Ford,Republican,1722
 Adams,State House,79,Michael A. Ripley,Republican,2240
 Adams,Judge Of The Superior Court,Adams County,James A. Heimann,Democratic,1561
 Adams,Judge Of The Superior Court,Adams County,Thomas Wade Sheets,Democratic,1091
@@ -13,9 +13,9 @@ Allen,U.S. House,3,Jay Rigdon,Democratic,3687
 Allen,U.S. House,3,Paul Helmke,Republican,16859
 Allen,U.S. House,3,William R. Larsen,Republican,926
 Allen,U.S. House,3,Mark E. Souder,Republican,23848
-Allen,State Senator,14,Charles Bud Meeks,Republican,8383
-Allen,State Senator,14,David Christopher Roach,Republican,546
-Allen,State Senator,14,Thomas J. Wyss,Republican,10494
+Allen,State Senate,14,Charles Bud Meeks,Republican,8383
+Allen,State Senate,14,David Christopher Roach,Republican,546
+Allen,State Senate,14,Thomas J. Wyss,Republican,10494
 Allen,State House,50,Daniel J. (Dan) Leonard,Republican,0
 Allen,State House,50,Bill Overdeer,Republican,0
 Allen,State House,50,Randy Plew,Republican,0
@@ -32,7 +32,7 @@ Allen,Prosecuting Attorney,Allen 38Th,Nikos (Nick) Nakos,Republican,3855
 Allen,Prosecuting Attorney,Allen 38Th,Karen Richards,Republican,23760
 Bartholomew,U.S. House,6,Melina (Mel) Fox,Democratic,1184
 Bartholomew,U.S. House,6,Mike Pence,Republican,3807
-Bartholomew,State Senator,41,Robert D. Garton,Republican,5942
+Bartholomew,State Senate,41,Robert D. Garton,Republican,5942
 Bartholomew,State House,57,John R. Wheeler,Democratic,717
 Bartholomew,State House,57,Jay B. Carlin,Republican,864
 Bartholomew,State House,57,Roland Stine,Republican,726
@@ -49,7 +49,7 @@ Benton,U.S. House,4,Thomas J. Herr,Republican,0
 Benton,U.S. House,4,Brian Kerns,Republican,0
 Benton,U.S. House,4,Bob Smith,Republican,0
 Benton,U.S. House,4,R. Michael Young,Republican,0
-Benton,State Senator,6,Sue Landske,Republican,637
+Benton,State Senate,6,Sue Landske,Republican,637
 Benton,State House,13,Chester F. Dobis,Democratic,0
 Benton,State House,13,Anthony S. Azcona,Republican,0
 Benton,Judge Of The Circuit Court,Benton 76Th Circuit,Rex Kepner,Republican,718
@@ -63,7 +63,7 @@ Blackford,U.S. House,3,Darin Patrick Griesey,Republican,0
 Blackford,U.S. House,3,Jerry Hall,Republican,0
 Blackford,U.S. House,3,Dan Burton,Republican,0
 Blackford,U.S. House,3,George Thomas Holland,Republican,0
-Blackford,State Senator,19,David C. Ford,Republican,872
+Blackford,State Senate,19,David C. Ford,Republican,872
 Blackford,State House,31,S. Gopal (Pal) Raju,Democratic,570
 Blackford,State House,31,Dean A. Young,Republican,843
 Blackford,State House,31,Richard W. Thornburg,Republican,0
@@ -79,7 +79,7 @@ Boone,U.S. House,4,Darin Patrick Griesey,Republican,0
 Boone,U.S. House,4,Jerry Hall,Republican,0
 Boone,U.S. House,4,Dan Burton,Republican,0
 Boone,U.S. House,4,George Thomas Holland,Republican,0
-Boone,State Senator,23,Joseph W. Harrison,Republican,3423
+Boone,State Senate,23,Joseph W. Harrison,Republican,3423
 Boone,State House,24,Richard W. (Rich) Mcclain,Republican,0
 Boone,Judge Of The Superior Court,"Boone County, No. 1",Matt Kincaid,Republican,4540
 Boone,Judge Of The Superior Court,"Boone County, No. 1",Paul S. Petticrew,Republican,2958
@@ -126,8 +126,8 @@ Clark,U.S. House,9,Jeff Ellington,Republican,134
 Clark,U.S. House,9,David Fowler,Republican,92
 Clark,U.S. House,9,Chris Redmon,Republican,225
 Clark,U.S. House,9,Mike Sodrel,Republican,1646
-Clark,State Senator,45,"James (Jim) A. Lewis, Jr.",Democratic,3508
-Clark,State Senator,45,Walter H. Schulz,Republican,693
+Clark,State Senate,45,"James (Jim) A. Lewis, Jr.",Democratic,3508
+Clark,State Senate,45,Walter H. Schulz,Republican,693
 Clark,State House,66,Terry Goodin,Democratic,1236
 Clark,State House,66,Tom Powers,Republican,407
 Clark,State House,66,Charles A. (Tony) Singleton,Republican,1007
@@ -136,11 +136,11 @@ Clark,Prosecuting Attorney,"Clark 4Th Circt, No. 1",Steven D. Stewart,Democratic
 Clay,U.S. House,8,Michael Graf,Democratic,625
 Clay,U.S. House,8,Bryan Hartke,Democratic,1447
 Clay,U.S. House,8,John N. Hostettler,Republican,2201
-Clay,State Senator,38,Mark Blade,Democratic,0
-Clay,State Senator,38,Ed Ping,Democratic,0
-Clay,State Senator,38,Timothy D. (Tim) Skinner,Democratic,0
-Clay,State Senator,38,Jerry B. Mcmullen,Republican,0
-Clay,State Senator,38,John M. Waterman,Republican,645
+Clay,State Senate,38,Mark Blade,Democratic,0
+Clay,State Senate,38,Ed Ping,Democratic,0
+Clay,State Senate,38,Timothy D. (Tim) Skinner,Democratic,0
+Clay,State Senate,38,Jerry B. Mcmullen,Republican,0
+Clay,State Senate,38,John M. Waterman,Republican,645
 Clay,State House,42,F. Dale Grubb,Democratic,0
 Clay,State House,42,Steve Bales,Republican,0
 Clay,State House,42,Patti Smith,Republican,0
@@ -154,8 +154,8 @@ Clinton,U.S. House,4,Thomas J. Herr,Republican,119
 Clinton,U.S. House,4,Brian Kerns,Republican,915
 Clinton,U.S. House,4,Bob Smith,Republican,72
 Clinton,U.S. House,4,R. Michael Young,Republican,202
-Clinton,State Senator,21,Jeff Drozda,Republican,0
-Clinton,State Senator,21,Steven R. Johnson,Republican,0
+Clinton,State Senate,21,Jeff Drozda,Republican,0
+Clinton,State Senate,21,Steven R. Johnson,Republican,0
 Clinton,State House,25,Jeb Bardon,Democratic,0
 Clinton,State House,25,Tom (Red) Taylor,Republican,0
 Clinton,Judge Of The Superior Court,Clinton County,Kathy R. Smith,Republican,3139
@@ -167,8 +167,8 @@ Crawford,U.S. House,8,Jeff Ellington,Republican,40
 Crawford,U.S. House,8,David Fowler,Republican,75
 Crawford,U.S. House,8,Chris Redmon,Republican,86
 Crawford,U.S. House,8,Mike Sodrel,Republican,242
-Crawford,State Senator,47,"Richard D. Young, Jr.",Democratic,1920
-Crawford,State Senator,47,Christopher L. Byrd,Republican,350
+Crawford,State Senate,47,"Richard D. Young, Jr.",Democratic,1920
+Crawford,State Senate,47,Christopher L. Byrd,Republican,350
 Crawford,State House,74,Russ Stilwell,Democratic,0
 Crawford,Prosecuting Attorney,Crawford 77Th Circuit,Jimmie L. Montgomery,Democratic,1287
 Crawford,Prosecuting Attorney,Crawford 77Th Circuit,Lester V. Shelton,Democratic,695
@@ -178,8 +178,8 @@ Crawford,Prosecuting Attorney,Crawford 77Th Circuit,Steven L. Owen,Republican,33
 Daviess,U.S. House,8,Michael Graf,Democratic,272
 Daviess,U.S. House,8,Bryan Hartke,Democratic,717
 Daviess,U.S. House,8,John N. Hostettler,Republican,2321
-Daviess,State Senator,39,Phil Croft,Democratic,216
-Daviess,State Senator,39,John M. Waterman,Republican,648
+Daviess,State Senate,39,Phil Croft,Democratic,216
+Daviess,State Senate,39,John M. Waterman,Republican,648
 Daviess,State House,45,Alan B. Chowning,Democratic,43
 Daviess,State House,45,Walter S. (Wally) Cullen,Democratic,149
 Daviess,State House,45,Bruce A. Borders,Republican,382
@@ -193,14 +193,14 @@ Daviess,Prosecuting Attorney,Daviess 49Th Circuit,Daniel M. (Dan) Steiner,Democr
 Daviess,Prosecuting Attorney,Daviess 49Th Circuit,G. Byron Overton,Republican,1937
 Dearborn,U.S. House,6,Melina (Mel) Fox,Democratic,90
 Dearborn,U.S. House,6,Mike Pence,Republican,645
-Dearborn,State Senator,27,Allen E. Paul,Republican,0
+Dearborn,State Senate,27,Allen E. Paul,Republican,0
 Dearborn,State House,67,Cleo Duncan,Republican,0
 Dearborn,State House,67,John R. Keeton,Republican,1612
 Dearborn,Judge Of The Superior Court,Dearborn County No. 1,G. Michael Witte,Republican,2492
 Dearborn,Prosecuting Attorney,Dearborn/Ohio 7Th Cir.,Sally A. Blankenship,Republican,2548
 Decatur,U.S. House,6,Melina (Mel) Fox,Democratic,327
 Decatur,U.S. House,6,Mike Pence,Republican,2242
-Decatur,State Senator,43,Johnny Nugent,Republican,0
+Decatur,State Senate,43,Johnny Nugent,Republican,0
 Decatur,State House,55,David L. Nicholson,Democratic,0
 Decatur,State House,55,Robert Hoffman,Republican,0
 Decatur,Judge Of The Superior Court,Decatur County,W. Michael Wilke,Democratic,295
@@ -209,7 +209,7 @@ DeKalb,U.S. House,3,Jay Rigdon,Democratic,645
 DeKalb,U.S. House,3,Paul Helmke,Republican,2309
 DeKalb,U.S. House,3,William R. Larsen,Republican,237
 DeKalb,U.S. House,3,Mark E. Souder,Republican,3889
-DeKalb,State Senator,14,Charles Bud Meeks,Republican,5030
+DeKalb,State Senate,14,Charles Bud Meeks,Republican,5030
 DeKalb,State House,52,W. Dale Sturtz,Democratic,172
 DeKalb,State House,52,Les Alligood,Republican,181
 DeKalb,State House,52,Trisha Gensic,Republican,242
@@ -218,9 +218,9 @@ DeKalb,Judge Of The Superior Court,"Dekalb County, Court 1",Kevin P. Wallace,Dem
 DeKalb,Prosecuting Attorney,Dekalb 75Th Circuit,Monte L. Brown,Republican,5320
 Delaware,U.S. House,6,Melina (Mel) Fox,Democratic,9496
 Delaware,U.S. House,6,Mike Pence,Republican,7397
-Delaware,State Senator,25,Tim Lanane,Democratic,0
-Delaware,State Senator,25,Leon Dixon,Democratic,2243
-Delaware,State Senator,25,Andrew S. Phipps,Republican,6017
+Delaware,State Senate,25,Tim Lanane,Democratic,0
+Delaware,State Senate,25,Leon Dixon,Democratic,2243
+Delaware,State Senate,25,Andrew S. Phipps,Republican,6017
 Delaware,State House,31,S. Gopal (Pal) Raju,Democratic,0
 Delaware,State House,31,Dean A. Young,Republican,0
 Delaware,State House,31,Richard W. Thornburg,Republican,852
@@ -234,8 +234,8 @@ Delaware,Prosecuting Attorney,Delaware Ct. 246Th Cir.,Richard W. (Rick) Reed,Dem
 Dubois,U.S. House,8,Michael Graf,Democratic,0
 Dubois,U.S. House,8,Bryan Hartke,Democratic,0
 Dubois,U.S. House,8,John N. Hostettler,Republican,0
-Dubois,State Senator,47,"Richard D. Young, Jr.",Democratic,801
-Dubois,State Senator,47,Christopher L. Byrd,Republican,154
+Dubois,State Senate,47,"Richard D. Young, Jr.",Democratic,801
+Dubois,State Senate,47,Christopher L. Byrd,Republican,154
 Dubois,State House,63,Dave Crooks,Democratic,1630
 Dubois,Judge Of The Circuit Court,Dubois 57Th Circuit,William E. Weikert,Democratic,2835
 Dubois,Prosecuting Attorney,Dubois 57Th Circuit,Michael A. Fritch,Democratic,2610
@@ -246,7 +246,7 @@ Elkhart,U.S. House,2,Steven W. Osborn,Democratic,142
 Elkhart,U.S. House,2,Jill Long Thompson,Democratic,1255
 Elkhart,U.S. House,2,Chris Chocola,Republican,5985
 Elkhart,U.S. House,2,Lewis F. (Farmer) Hass,Republican,1099
-Elkhart,State Senator,11,Joe Zakas,Republican,3744
+Elkhart,State Senate,11,Joe Zakas,Republican,3744
 Elkhart,State House,21,Richard W. Mangus,Republican,2764
 Elkhart,State House,21,Kyle Hannon,Republican,1507
 Elkhart,State House,21,Timothy Neese,Republican,3251
@@ -257,7 +257,7 @@ Elkhart,Prosecuting Attorney,Elkhart 34Th Circuit,Michael A. Christofeno,Republi
 Elkhart,Prosecuting Attorney,Elkhart 34Th Circuit,"Curtis T. Hill, Jr.",Republican,11399
 Fayette,U.S. House,6,Melina (Mel) Fox,Democratic,1117
 Fayette,U.S. House,6,Mike Pence,Republican,1504
-Fayette,State Senator,27,Allen E. Paul,Republican,0
+Fayette,State Senate,27,Allen E. Paul,Republican,0
 Fayette,State House,55,David L. Nicholson,Democratic,1000
 Fayette,State House,55,Robert Hoffman,Republican,1665
 Fayette,Judge Of The Superior Court,Fayette County,Ronald T. Urdal,Democratic,1140
@@ -270,8 +270,8 @@ Floyd,U.S. House,9,Jeff Ellington,Republican,111
 Floyd,U.S. House,9,David Fowler,Republican,164
 Floyd,U.S. House,9,Chris Redmon,Republican,423
 Floyd,U.S. House,9,Mike Sodrel,Republican,2219
-Floyd,State Senator,46,Connie Weigleb Sipes,Democratic,5625
-Floyd,State Senator,46,Walter H. Schulz,Republican,2198
+Floyd,State Senate,46,Connie Weigleb Sipes,Democratic,5625
+Floyd,State Senate,46,Walter H. Schulz,Republican,2198
 Floyd,State House,70,Paul J. Robertson,Democratic,795
 Floyd,State House,70,Tom Powers,Republican,346
 Floyd,State House,70,Ryan Bergman,Republican,1789
@@ -287,7 +287,7 @@ Fountain,U.S. House,4,Thomas J. Herr,Republican,18
 Fountain,U.S. House,4,Brian Kerns,Republican,523
 Fountain,U.S. House,4,Bob Smith,Republican,36
 Fountain,U.S. House,4,R. Michael Young,Republican,53
-Fountain,State Senator,23,Joseph W. Harrison,Republican,2767
+Fountain,State Senate,23,Joseph W. Harrison,Republican,2767
 Fountain,State House,13,Chester F. Dobis,Democratic,0
 Fountain,State House,13,Anthony S. Azcona,Republican,0
 Fountain,State House,13,Steve Bales,Republican,924
@@ -295,7 +295,7 @@ Fountain,State House,13,Patti Smith,Republican,2048
 Fountain,Prosecuting Attorney,Fountain 61St Circuit,Mark E. Mcgrady,Republican,2694
 Franklin,U.S. House,6,Melina (Mel) Fox,Democratic,1142
 Franklin,U.S. House,6,Mike Pence,Republican,1106
-Franklin,State Senator,27,Allen E. Paul,Republican,0
+Franklin,State Senate,27,Allen E. Paul,Republican,0
 Franklin,State House,55,David L. Nicholson,Democratic,387
 Franklin,State House,55,Robert Hoffman,Republican,449
 Franklin,State House,55,John R. Keeton,Republican,480
@@ -320,7 +320,7 @@ Fulton,Prosecuting Attorney,Fulton 41St Circuit,Richard A. Brown,Republican,1275
 Gibson,U.S. House,8,Michael Graf,Democratic,979
 Gibson,U.S. House,8,Bryan Hartke,Democratic,2694
 Gibson,U.S. House,8,John N. Hostettler,Republican,695
-Gibson,State Senator,48,Lindel O. Hume,Democratic,3093
+Gibson,State Senate,48,Lindel O. Hume,Democratic,3093
 Gibson,State House,64,John Gregory Frenz,Democratic,3020
 Gibson,State House,64,Eric Davis,Republican,543
 Gibson,Prosecuting Attorney,Gibson 66Th Circuit,C. Dean Higginbotham,Democratic,3306
@@ -331,8 +331,8 @@ Grant,U.S. House,5,Darin Patrick Griesey,Democratic,210
 Grant,U.S. House,5,Jerry Hall,Democratic,1279
 Grant,U.S. House,5,Dan Burton,Republican,7653
 Grant,U.S. House,5,George Thomas Holland,Republican,1129
-Grant,State Senator,17,Gary Dillon,Republican,1754
-Grant,State Senator,17,Steven R. Johnson,Republican,0
+Grant,State Senate,17,Gary Dillon,Republican,1754
+Grant,State Senate,17,Steven R. Johnson,Republican,0
 Grant,State House,18,David A. Wolkins,Republican,0
 Grant,State House,18,Dean A. Young,Republican,3723
 Grant,Judge Of The Superior Court,"Grant County, No. 1",Jeff Todd,Republican,6914
@@ -342,8 +342,8 @@ Grant,Prosecuting Attorney,Grant 48Th Circuit,Douglas D. Martz,Republican,3647
 Greene,U.S. House,8,Michael Graf,Democratic,1006
 Greene,U.S. House,8,Bryan Hartke,Democratic,1343
 Greene,U.S. House,8,John N. Hostettler,Republican,1812
-Greene,State Senator,39,Phil Croft,Democratic,987
-Greene,State Senator,39,John M. Waterman,Republican,1245
+Greene,State Senate,39,Phil Croft,Democratic,987
+Greene,State Senate,39,John M. Waterman,Republican,1245
 Greene,State House,45,Alan B. Chowning,Democratic,594
 Greene,State House,45,Walter S. (Wally) Cullen,Democratic,375
 Greene,State House,45,Bruce A. Borders,Republican,746
@@ -359,8 +359,8 @@ Hamilton,U.S. House,5,Darin Patrick Griesey,Democratic,217
 Hamilton,U.S. House,5,Jerry Hall,Democratic,170
 Hamilton,U.S. House,5,Dan Burton,Republican,15613
 Hamilton,U.S. House,5,George Thomas Holland,Republican,3319
-Hamilton,State Senator,21,Jeff Drozda,Republican,1800
-Hamilton,State Senator,21,Steven R. Johnson,Republican,1112
+Hamilton,State Senate,21,Jeff Drozda,Republican,1800
+Hamilton,State Senate,21,Steven R. Johnson,Republican,1112
 Hamilton,State House,24,Richard W. (Rich) Mcclain,Republican,0
 Hamilton,State House,24,Bradley M. Clark,Republican,1471
 Hamilton,State House,24,Kathy Kreag Richardson,Republican,4419
@@ -385,8 +385,8 @@ Harrison,U.S. House,9,Jeff Ellington,Republican,189
 Harrison,U.S. House,9,David Fowler,Republican,207
 Harrison,U.S. House,9,Chris Redmon,Republican,364
 Harrison,U.S. House,9,Mike Sodrel,Republican,1185
-Harrison,State Senator,47,"Richard D. Young, Jr.",Democratic,5136
-Harrison,State Senator,47,Christopher L. Byrd,Republican,1738
+Harrison,State Senate,47,"Richard D. Young, Jr.",Democratic,5136
+Harrison,State Senate,47,Christopher L. Byrd,Republican,1738
 Harrison,State House,70,Paul J. Robertson,Democratic,5549
 Harrison,State House,70,Tom Powers,Republican,1575
 Harrison,Judge Of The Superior Court,Harrison County,Roger Dale Davis,Democratic,5462
@@ -406,9 +406,9 @@ Hendricks,Judge Of The Superior Court,"Hendricks County, No. 2",David Henry Cole
 Hendricks,Prosecuting Attorney,Hendricks 55Th Circuit,Patricia Ann Baldwin,Republican,10553
 Henry,U.S. House,6,Melina (Mel) Fox,Democratic,1992
 Henry,U.S. House,6,Mike Pence,Republican,5020
-Henry,State Senator,26,"Allie V. Craycraft, Jr.",Democratic,0
-Henry,State Senator,26,Leon Dixon,Democratic,0
-Henry,State Senator,26,Andrew S. Phipps,Republican,0
+Henry,State Senate,26,"Allie V. Craycraft, Jr.",Democratic,0
+Henry,State Senate,26,Leon Dixon,Democratic,0
+Henry,State Senate,26,Andrew S. Phipps,Republican,0
 Henry,State House,54,Thomas E. (Tom) Saunders,Republican,3584
 Henry,Judge Of The Circuit Court,Henry No. 2 53Rd Circuit,David W. Whitton,Democratic,2256
 Henry,Judge Of The Circuit Court,Henry No. 2 53Rd Circuit,Mary G. Willis,Republican,3898
@@ -426,8 +426,8 @@ Howard,U.S. House,4,Darin Patrick Griesey,Republican,192
 Howard,U.S. House,4,Jerry Hall,Republican,711
 Howard,U.S. House,4,Dan Burton,Republican,5469
 Howard,U.S. House,4,George Thomas Holland,Republican,888
-Howard,State Senator,21,Jeff Drozda,Republican,2946
-Howard,State Senator,21,Steven R. Johnson,Republican,3722
+Howard,State Senate,21,Jeff Drozda,Republican,2946
+Howard,State Senate,21,Steven R. Johnson,Republican,3722
 Howard,State House,30,Ron Herrell,Democratic,3360
 Howard,Judge Of The Circuit Court,Howard 62Nd Circuit,Lynn Murray,Democratic,4270
 Howard,Judge Of The Superior Court,"Howard County, No. 3",David Cox,Democratic,3957
@@ -438,7 +438,7 @@ Huntington,U.S. House,3,Jay Rigdon,Democratic,0
 Huntington,U.S. House,3,Paul Helmke,Republican,0
 Huntington,U.S. House,3,William R. Larsen,Republican,0
 Huntington,U.S. House,3,Mark E. Souder,Republican,0
-Huntington,State Senator,17,Gary Dillon,Republican,5466
+Huntington,State Senate,17,Gary Dillon,Republican,5466
 Huntington,State House,50,Daniel J. (Dan) Leonard,Republican,2664
 Huntington,State House,50,Bill Overdeer,Republican,906
 Huntington,State House,50,Randy Plew,Republican,1533
@@ -450,7 +450,7 @@ Jackson,U.S. House,9,Jeff Ellington,Republican,300
 Jackson,U.S. House,9,David Fowler,Republican,149
 Jackson,U.S. House,9,Chris Redmon,Republican,528
 Jackson,U.S. House,9,Mike Sodrel,Republican,726
-Jackson,State Senator,43,Johnny Nugent,Republican,0
+Jackson,State Senate,43,Johnny Nugent,Republican,0
 Jackson,State House,65,David Rhum,Democratic,402
 Jackson,State House,65,R. Dale Cassiday,Republican,17
 Jackson,State House,65,Darin Kinser,Republican,21
@@ -475,7 +475,7 @@ Jay,U.S. House,3,Jay Rigdon,Democratic,0
 Jay,U.S. House,3,Paul Helmke,Republican,0
 Jay,U.S. House,3,William R. Larsen,Republican,0
 Jay,U.S. House,3,Mark E. Souder,Republican,0
-Jay,State Senator,19,David C. Ford,Republican,0
+Jay,State Senate,19,David C. Ford,Republican,0
 Jay,State House,33,Ron Liggett,Democratic,1109
 Jay,State House,33,Richard W. Thornburg,Republican,1772
 Jay,Judge Of The Superior Court,Jay County,Joel David Roberts,Republican,2055
@@ -484,14 +484,14 @@ Jay,Prosecuting Attorney,Jay 58Th Circuit,R. Carlton Brumfield,Republican,1167
 Jay,Prosecuting Attorney,Jay 58Th Circuit,George O. Lopez,Republican,1288
 Jefferson,U.S. House,6,Melina (Mel) Fox,Democratic,0
 Jefferson,U.S. House,6,Mike Pence,Republican,0
-Jefferson,State Senator,45,"James (Jim) A. Lewis, Jr.",Democratic,2329
+Jefferson,State Senate,45,"James (Jim) A. Lewis, Jr.",Democratic,2329
 Jefferson,State House,66,Terry Goodin,Democratic,0
 Jefferson,State House,66,Ben Newell,Republican,1426
 Jefferson,Judge Of The Superior Court,Jefferson County,Fred H. Hoying,Democratic,2406
 Jefferson,Prosecuting Attorney,Jefferson 5Th Circuit,Christopher W. Naylor,Republican,1392
 Jennings,U.S. House,6,Melina (Mel) Fox,Democratic,0
 Jennings,U.S. House,6,Mike Pence,Republican,0
-Jennings,State Senator,43,Johnny Nugent,Republican,1600
+Jennings,State Senate,43,Johnny Nugent,Republican,1600
 Jennings,State House,67,Cleo Duncan,Republican,0
 Jennings,State House,67,Ben Newell,Republican,1407
 Jennings,Judge Of The Circuit Court,Jennings 86Th Circuit,Jonathan W. Webster,Republican,1917
@@ -503,7 +503,7 @@ Johnson,U.S. House,9,Jeff Ellington,Republican,0
 Johnson,U.S. House,9,David Fowler,Republican,0
 Johnson,U.S. House,9,Chris Redmon,Republican,0
 Johnson,U.S. House,9,Mike Sodrel,Republican,0
-Johnson,State Senator,41,Robert D. Garton,Republican,4164
+Johnson,State Senate,41,Robert D. Garton,Republican,4164
 Johnson,State House,47,Ralph M. Foley,Republican,626
 Johnson,State House,47,Gerald B. Gray,Republican,157
 Johnson,State House,47,Woody Burton,Republican,5729
@@ -517,8 +517,8 @@ Johnson,Prosecuting Attorney,Johnson 8Th Circuit,Lance Hamner,Republican,10412
 Knox,U.S. House,8,Michael Graf,Democratic,1392
 Knox,U.S. House,8,Bryan Hartke,Democratic,3440
 Knox,U.S. House,8,John N. Hostettler,Republican,2145
-Knox,State Senator,39,Phil Croft,Democratic,2206
-Knox,State Senator,39,John M. Waterman,Republican,1384
+Knox,State Senate,39,Phil Croft,Democratic,2206
+Knox,State Senate,39,John M. Waterman,Republican,1384
 Knox,State House,45,Alan B. Chowning,Democratic,467
 Knox,State House,45,Walter S. (Wally) Cullen,Democratic,1703
 Knox,State House,45,Bruce A. Borders,Republican,151
@@ -558,7 +558,7 @@ Lake,U.S. House,1,Ralph Spelbring,Democratic,8041
 Lake,U.S. House,1,Peter J. Visclosky,Democratic,49432
 Lake,U.S. House,1,Cyril B. (Cy) Huerter,Republican,2767
 Lake,U.S. House,1,Mark J. Leyva,Republican,4142
-Lake,State Senator,1,"Frank Mrvan, Jr.",Democratic,9626
+Lake,State Senate,1,"Frank Mrvan, Jr.",Democratic,9626
 Lake,State House,1,Linda C. Lawson,Democratic,3677
 Lake,State House,1,Myra Rosenbloom,Republican,835
 Lake,State House,1,Milan Kesic,Republican,2557
@@ -580,10 +580,10 @@ LaPorte,U.S. House,1,Steven W. Osborn,Republican,504
 LaPorte,U.S. House,1,Jill Long Thompson,Republican,2913
 LaPorte,U.S. House,1,Chris Chocola,Republican,3368
 LaPorte,U.S. House,1,Lewis F. (Farmer) Hass,Republican,499
-LaPorte,State Senator,4,Rose Ann Antich,Democratic,0
-LaPorte,State Senator,4,Larry Chubb,Democratic,0
-LaPorte,State Senator,4,Connie G. Collins,Republican,0
-LaPorte,State Senator,4,M. Shane Stillman,Republican,0
+LaPorte,State Senate,4,Rose Ann Antich,Democratic,0
+LaPorte,State Senate,4,Larry Chubb,Democratic,0
+LaPorte,State Senate,4,Connie G. Collins,Republican,0
+LaPorte,State Senate,4,M. Shane Stillman,Republican,0
 LaPorte,State House,8,Ryan M. Dvorak,Democratic,0
 LaPorte,State House,8,Carl H. Baxmeyer,Republican,0
 LaPorte,State House,8,James P. Ehrhard,Republican,0
@@ -611,9 +611,9 @@ Madison,U.S. House,5,Darin Patrick Griesey,Democratic,0
 Madison,U.S. House,5,Jerry Hall,Democratic,0
 Madison,U.S. House,5,Dan Burton,Republican,0
 Madison,U.S. House,5,George Thomas Holland,Republican,0
-Madison,State Senator,25,Tim Lanane,Democratic,5631
-Madison,State Senator,25,Leon Dixon,Democratic,45
-Madison,State Senator,25,Andrew S. Phipps,Republican,58
+Madison,State Senate,25,Tim Lanane,Democratic,5631
+Madison,State Senate,25,Leon Dixon,Democratic,45
+Madison,State Senate,25,Andrew S. Phipps,Republican,58
 Madison,State House,32,P. Eric Turner,Republican,0
 Madison,State House,32,Brad D. Steele,Republican,379
 Madison,State House,32,Brenda Jackson,Republican,1732
@@ -634,7 +634,7 @@ Marion,U.S. House,5,George Thomas Holland,Republican,2267
 Marion,U.S. House,5,Bob (Citizen Kern) Hidalgo,Republican,2515
 Marion,U.S. House,5,Brose A. Mcvey,Republican,17875
 Marion,U.S. House,5,Jack Reynolds,Republican,8054
-Marion,State Senator,29,Murray Clark,Republican,4742
+Marion,State Senate,29,Murray Clark,Republican,4742
 Marion,State House,86,David Orentlicher,Democratic,1829
 Marion,State House,86,Jim Atterholt,Republican,2998
 Marion,State House,86,Jean Macdonald,Republican,462
@@ -692,8 +692,8 @@ Marshall,Prosecuting Attorney,Marshall 72Nd Circuit,Curtis D. Palmer,Republican,
 Martin,U.S. House,8,Michael Graf,Democratic,598
 Martin,U.S. House,8,Bryan Hartke,Democratic,1563
 Martin,U.S. House,8,John N. Hostettler,Republican,521
-Martin,State Senator,39,Phil Croft,Democratic,0
-Martin,State Senator,39,John M. Waterman,Republican,0
+Martin,State Senate,39,Phil Croft,Democratic,0
+Martin,State Senate,39,John M. Waterman,Republican,0
 Martin,State House,62,Jerry L. Denbo,Democratic,552
 Martin,State House,62,Donald O. Patton,Republican,173
 Martin,Prosecuting Attorney,Martin 90Th Circuit,Mark J. Jones,Democratic,1200
@@ -733,7 +733,7 @@ Montgomery,U.S. House,4,Thomas J. Herr,Republican,153
 Montgomery,U.S. House,4,Brian Kerns,Republican,3080
 Montgomery,U.S. House,4,Bob Smith,Republican,223
 Montgomery,U.S. House,4,R. Michael Young,Republican,223
-Montgomery,State Senator,23,Joseph W. Harrison,Republican,5566
+Montgomery,State Senate,23,Joseph W. Harrison,Republican,5566
 Montgomery,State House,13,Chester F. Dobis,Democratic,0
 Montgomery,State House,13,Anthony S. Azcona,Republican,0
 Montgomery,Judge Of The Superior Court,"Montgomery Co, No. 1",David A. Ault,Republican,5542
@@ -766,7 +766,7 @@ Newton,U.S. House,4,Thomas J. Herr,Republican,0
 Newton,U.S. House,4,Brian Kerns,Republican,0
 Newton,U.S. House,4,Bob Smith,Republican,0
 Newton,U.S. House,4,R. Michael Young,Republican,0
-Newton,State Senator,6,Sue Landske,Republican,1421
+Newton,State Senate,6,Sue Landske,Republican,1421
 Newton,State House,13,Chester F. Dobis,Democratic,0
 Newton,State House,13,Anthony S. Azcona,Republican,0
 Newton,Prosecuting Attorney,Newton 79Th Circuit,J. Edward Barce,Republican,1347
@@ -780,7 +780,7 @@ Noble,Judge Of The Superior Court,"Noble County, No. 2",Michael J. Kramer,Republ
 Noble,Prosecuting Attorney,Noble 33Rd Circuit,Steven T. Clouse,Republican,4127
 Ohio,U.S. House,6,Melina (Mel) Fox,Democratic,0
 Ohio,U.S. House,6,Mike Pence,Republican,0
-Ohio,State Senator,43,Johnny Nugent,Republican,754
+Ohio,State Senate,43,Johnny Nugent,Republican,754
 Ohio,State House,67,Cleo Duncan,Republican,0
 Ohio,Judge Of The Superior Court,Ohio/Switzerland Counties,John D. Mitchell,Democratic,366
 Ohio,Judge Of The Superior Court,Ohio/Switzerland Counties,Lisa K. Rosenberger,Democratic,188
@@ -790,8 +790,8 @@ Orange,U.S. House,9,Jeff Ellington,Republican,579
 Orange,U.S. House,9,David Fowler,Republican,105
 Orange,U.S. House,9,Chris Redmon,Republican,685
 Orange,U.S. House,9,Mike Sodrel,Republican,1057
-Orange,State Senator,47,"Richard D. Young, Jr.",Democratic,0
-Orange,State Senator,47,Christopher L. Byrd,Republican,0
+Orange,State Senate,47,"Richard D. Young, Jr.",Democratic,0
+Orange,State Senate,47,Christopher L. Byrd,Republican,0
 Orange,State House,73,Dennie Oxley,Democratic,0
 Orange,Judge Of The Superior Court,Orange County,Robert Michael Cloud,Republican,2072
 Orange,Prosecuting Attorney,Orange 87Th Circuit,Lynne E. Ellis,Democratic,1051
@@ -799,8 +799,8 @@ Orange,Prosecuting Attorney,Orange 87Th Circuit,Kelly C. Minton,Republican,1964
 Owen,U.S. House,8,Michael Graf,Democratic,661
 Owen,U.S. House,8,Bryan Hartke,Democratic,873
 Owen,U.S. House,8,John N. Hostettler,Republican,1102
-Owen,State Senator,39,Phil Croft,Democratic,400
-Owen,State Senator,39,John M. Waterman,Republican,295
+Owen,State Senate,39,Phil Croft,Democratic,400
+Owen,State Senate,39,John M. Waterman,Republican,295
 Owen,State House,44,Susan R. Crosby,Democratic,0
 Owen,State House,44,Richard W. Haynes Ii,Republican,0
 Owen,State House,44,Andrew P. Thomas,Republican,0
@@ -809,7 +809,7 @@ Owen,Prosecuting Attorney,"Owen 78Th Circt, No. 1",Allan L. Fountain,Republican,
 Parke,U.S. House,8,Michael Graf,Democratic,344
 Parke,U.S. House,8,Bryan Hartke,Democratic,521
 Parke,U.S. House,8,John N. Hostettler,Republican,2973
-Parke,State Senator,23,Joseph W. Harrison,Republican,0
+Parke,State Senate,23,Joseph W. Harrison,Republican,0
 Parke,State House,42,F. Dale Grubb,Democratic,557
 Parke,State House,42,Steve Bales,Republican,742
 Parke,State House,42,Patti Smith,Republican,974
@@ -819,14 +819,14 @@ Parke,Prosecuting Attorney,Parke 68Th Circuit,Steve Cvengros,Republican,3080
 Perry,U.S. House,8,Michael Graf,Democratic,0
 Perry,U.S. House,8,Bryan Hartke,Democratic,0
 Perry,U.S. House,8,John N. Hostettler,Republican,0
-Perry,State Senator,47,"Richard D. Young, Jr.",Democratic,2770
-Perry,State Senator,47,Christopher L. Byrd,Republican,513
+Perry,State Senate,47,"Richard D. Young, Jr.",Democratic,2770
+Perry,State Senate,47,Christopher L. Byrd,Republican,513
 Perry,State House,74,Russ Stilwell,Democratic,2446
 Perry,Prosecuting Attorney,Perry 70Th Circuit,Robert L. (Bob) Collins,Democratic,3606
 Pike,U.S. House,8,Michael Graf,Democratic,515
 Pike,U.S. House,8,Bryan Hartke,Democratic,2026
 Pike,U.S. House,8,John N. Hostettler,Republican,984
-Pike,State Senator,48,Lindel O. Hume,Democratic,2344
+Pike,State Senate,48,Lindel O. Hume,Democratic,2344
 Pike,State House,63,Dave Crooks,Democratic,988
 Pike,State House,63,Eric Davis,Republican,540
 Pike,State House,63,Marsha Abell,Republican,0
@@ -836,10 +836,10 @@ Porter,U.S. House,1,Ralph Spelbring,Democratic,1145
 Porter,U.S. House,1,Peter J. Visclosky,Democratic,6675
 Porter,U.S. House,1,Cyril B. (Cy) Huerter,Republican,1838
 Porter,U.S. House,1,Mark J. Leyva,Republican,2589
-Porter,State Senator,4,Rose Ann Antich,Democratic,3547
-Porter,State Senator,4,Larry Chubb,Democratic,1958
-Porter,State Senator,4,Connie G. Collins,Republican,1445
-Porter,State Senator,4,M. Shane Stillman,Republican,1744
+Porter,State Senate,4,Rose Ann Antich,Democratic,3547
+Porter,State Senate,4,Larry Chubb,Democratic,1958
+Porter,State Senate,4,Connie G. Collins,Republican,1445
+Porter,State Senate,4,M. Shane Stillman,Republican,1744
 Porter,State House,4,Ralph Donald Ayres,Republican,2339
 Porter,State House,4,John Anthony Malan,Republican,142
 Porter,State House,4,William (Del) Cathey,Republican,189
@@ -852,7 +852,7 @@ Porter,Prosecuting Attorney,Porter 67Th Circuit,James H. Douglas,Republican,4708
 Posey,U.S. House,8,Michael Graf,Democratic,982
 Posey,U.S. House,8,Bryan Hartke,Democratic,2275
 Posey,U.S. House,8,John N. Hostettler,Republican,422
-Posey,State Senator,49,Larry E. Lutz,Democratic,1782
+Posey,State Senate,49,Larry E. Lutz,Democratic,1782
 Posey,State House,64,John Gregory Frenz,Democratic,0
 Posey,State House,64,Eric Davis,Republican,0
 Posey,Judge Of The Superior Court,Posey County,Brent Almon,Democratic,2190
@@ -881,7 +881,7 @@ Putnam,Judge Of The Superior Court,Putnam County,Robert J. Lowe,Republican,2961
 Putnam,Prosecuting Attorney,Putnam 64Th Circuit,Matthew L. (Matt) Headley,Republican,2868
 Randolph,U.S. House,6,Melina (Mel) Fox,Democratic,776
 Randolph,U.S. House,6,Mike Pence,Republican,3771
-Randolph,State Senator,27,Allen E. Paul,Republican,3497
+Randolph,State Senate,27,Allen E. Paul,Republican,3497
 Randolph,State House,33,Ron Liggett,Democratic,668
 Randolph,State House,33,Richard W. Thornburg,Republican,1600
 Randolph,Judge Of The Superior Court,Randolph County,Peter D. Haviza,Democratic,859
@@ -889,7 +889,7 @@ Randolph,Judge Of The Superior Court,Randolph County,Peter D. Haviza,Democratic,
 Randolph,Prosecuting Attorney,Randolph 25Th Circuit,David Martin Daly,Republican,3597
 Ripley,U.S. House,6,Melina (Mel) Fox,Democratic,0
 Ripley,U.S. House,6,Mike Pence,Republican,0
-Ripley,State Senator,43,Johnny Nugent,Republican,1972
+Ripley,State Senate,43,Johnny Nugent,Republican,1972
 Ripley,State House,55,David L. Nicholson,Democratic,0
 Ripley,State House,55,Robert Hoffman,Republican,0
 Ripley,Judge Of The Circuit Court,Ripley 80Th Circuit,Carl H. Taul,Democratic,958
@@ -909,7 +909,7 @@ Saint Joseph,U.S. House,2,Steven W. Osborn,Democratic,759
 Saint Joseph,U.S. House,2,Jill Long Thompson,Democratic,9512
 Saint Joseph,U.S. House,2,Chris Chocola,Republican,10344
 Saint Joseph,U.S. House,2,Lewis F. (Farmer) Hass,Republican,1413
-Saint Joseph,State Senator,11,Joe Zakas,Republican,3491
+Saint Joseph,State Senate,11,Joe Zakas,Republican,3491
 Saint Joseph,State House,5,Craig R. Fry,Democratic,1948
 Saint Joseph,State House,5,Raymond Crawford,Republican,1132
 Saint Joseph,State House,5,Carl H. Baxmeyer,Republican,1677
@@ -924,7 +924,7 @@ Scott,U.S. House,6,Jeff Ellington,Republican,64
 Scott,U.S. House,6,David Fowler,Republican,24
 Scott,U.S. House,6,Chris Redmon,Republican,67
 Scott,U.S. House,6,Mike Sodrel,Republican,268
-Scott,State Senator,45,"James (Jim) A. Lewis, Jr.",Democratic,3541
+Scott,State Senate,45,"James (Jim) A. Lewis, Jr.",Democratic,3541
 Scott,State House,66,Terry Goodin,Democratic,2537
 Scott,Prosecuting Attorney,Scott 6Th Circuit,Roger L. Duvall,Democratic,3663
 Shelby,U.S. House,6,Melina (Mel) Fox,Democratic,88
@@ -937,7 +937,7 @@ Shelby,Prosecuting Attorney,Shelby 16Th Circuit,R. Kent Apsley,Republican,3039
 Spencer,U.S. House,8,Michael Graf,Democratic,0
 Spencer,U.S. House,8,Bryan Hartke,Democratic,0
 Spencer,U.S. House,8,John N. Hostettler,Republican,0
-Spencer,State Senator,48,Lindel O. Hume,Democratic,0
+Spencer,State Senate,48,Lindel O. Hume,Democratic,0
 Spencer,State House,74,Russ Stilwell,Democratic,472
 Spencer,State House,74,Marsha Abell,Republican,0
 Spencer,Judge Of The Circuit Court,Spencer 84Th Circuit,Wayne A. Roell,Republican,718
@@ -965,8 +965,8 @@ Steuben,Prosecuting Attorney,Steuben 85Th Circuit,Thomas E. Wilson,Republican,26
 Sullivan,U.S. House,8,Michael Graf,Democratic,1006
 Sullivan,U.S. House,8,Bryan Hartke,Democratic,2633
 Sullivan,U.S. House,8,John N. Hostettler,Republican,678
-Sullivan,State Senator,39,Phil Croft,Democratic,2863
-Sullivan,State Senator,39,John M. Waterman,Republican,743
+Sullivan,State Senate,39,Phil Croft,Democratic,2863
+Sullivan,State Senate,39,John M. Waterman,Republican,743
 Sullivan,State House,45,Alan B. Chowning,Democratic,3104
 Sullivan,State House,45,Walter S. (Wally) Cullen,Democratic,949
 Sullivan,State House,45,Bruce A. Borders,Republican,320
@@ -978,7 +978,7 @@ Sullivan,Prosecuting Attorney,Sullivan 14Th Circuit,Joseph William Burton,Democr
 Sullivan,Prosecuting Attorney,Sullivan 14Th Circuit,Robert E. Springer,Democratic,3214
 Switzerland,U.S. House,6,Melina (Mel) Fox,Democratic,0
 Switzerland,U.S. House,6,Mike Pence,Republican,0
-Switzerland,State Senator,45,"James (Jim) A. Lewis, Jr.",Democratic,1101
+Switzerland,State Senate,45,"James (Jim) A. Lewis, Jr.",Democratic,1101
 Switzerland,State House,67,Cleo Duncan,Republican,0
 Switzerland,Judge Of The Superior Court,Ohio/Switzerland Counties,John D. Mitchell,Democratic,880
 Switzerland,Judge Of The Superior Court,Ohio/Switzerland Counties,Lisa K. Rosenberger,Democratic,700
@@ -988,7 +988,7 @@ Tippecanoe,U.S. House,4,Thomas J. Herr,Republican,908
 Tippecanoe,U.S. House,4,Brian Kerns,Republican,4432
 Tippecanoe,U.S. House,4,Bob Smith,Republican,195
 Tippecanoe,U.S. House,4,R. Michael Young,Republican,672
-Tippecanoe,State Senator,22,Ron Alting,Republican,11278
+Tippecanoe,State Senate,22,Ron Alting,Republican,11278
 Tippecanoe,State House,13,Chester F. Dobis,Democratic,0
 Tippecanoe,State House,13,Anthony S. Azcona,Republican,0
 Tippecanoe,State House,13,Tom (Red) Taylor,Republican,0
@@ -1007,8 +1007,8 @@ Tipton,U.S. House,5,Darin Patrick Griesey,Democratic,107
 Tipton,U.S. House,5,Jerry Hall,Democratic,232
 Tipton,U.S. House,5,Dan Burton,Republican,2848
 Tipton,U.S. House,5,George Thomas Holland,Republican,571
-Tipton,State Senator,21,Jeff Drozda,Republican,1351
-Tipton,State Senator,21,Steven R. Johnson,Republican,1427
+Tipton,State Senate,21,Jeff Drozda,Republican,1351
+Tipton,State Senate,21,Steven R. Johnson,Republican,1427
 Tipton,State House,32,P. Eric Turner,Republican,1998
 Tipton,Judge Of The Circuit Court,Tipton 36Th Circuit,Thomas R. Lett,Republican,2920
 Tipton,Prosecuting Attorney,Tipton 36Th Circuit,Julie L. Pottenger,Republican,1130
@@ -1016,7 +1016,7 @@ Tipton,Prosecuting Attorney,Tipton 36Th Circuit,Jay D. Rich,Republican,2038
 Tipton,Prosecuting Attorney,Tipton 36Th Circuit,David Langolf Smith,Republican,467
 Union,U.S. House,6,Melina (Mel) Fox,Democratic,180
 Union,U.S. House,6,Mike Pence,Republican,498
-Union,State Senator,27,Allen E. Paul,Republican,0
+Union,State Senate,27,Allen E. Paul,Republican,0
 Union,State House,68,Robert J. Bischoff,Democratic,0
 Union,State House,68,John R. Keeton,Republican,0
 Union,Prosecuting Attorney,Union 89Th Circuit,Carol A. Weber,Democratic,185
@@ -1024,7 +1024,7 @@ Union,Prosecuting Attorney,Union 89Th Circuit,Ronald L. Jordan,Republican,516
 Vanderburgh,U.S. House,8,Michael Graf,Democratic,958
 Vanderburgh,U.S. House,8,Bryan Hartke,Democratic,4808
 Vanderburgh,U.S. House,8,John N. Hostettler,Republican,2704
-Vanderburgh,State Senator,49,Larry E. Lutz,Democratic,2514
+Vanderburgh,State Senate,49,Larry E. Lutz,Democratic,2514
 Vanderburgh,State House,64,John Gregory Frenz,Democratic,0
 Vanderburgh,State House,64,Eric Davis,Republican,0
 Vanderburgh,State House,64,Brian Hasler,Republican,1392
@@ -1032,7 +1032,7 @@ Vanderburgh,Prosecuting Attorney,Vanderburgh 1St Circuit,Stanley M. Levco,Democr
 Vermillion,U.S. House,8,Michael Graf,Democratic,1191
 Vermillion,U.S. House,8,Bryan Hartke,Democratic,1976
 Vermillion,U.S. House,8,John N. Hostettler,Republican,449
-Vermillion,State Senator,23,Joseph W. Harrison,Republican,0
+Vermillion,State Senate,23,Joseph W. Harrison,Republican,0
 Vermillion,State House,42,F. Dale Grubb,Democratic,3080
 Vermillion,State House,42,Steve Bales,Republican,274
 Vermillion,State House,42,Patti Smith,Republican,164
@@ -1042,10 +1042,10 @@ Vermillion,Prosecuting Attorney,Vermillion 47Th Circuit,Larry Thomas,Democratic,
 Vigo,U.S. House,8,Michael Graf,Democratic,5994
 Vigo,U.S. House,8,Bryan Hartke,Democratic,9600
 Vigo,U.S. House,8,John N. Hostettler,Republican,2359
-Vigo,State Senator,38,Mark Blade,Democratic,4617
-Vigo,State Senator,38,Ed Ping,Democratic,3770
-Vigo,State Senator,38,Timothy D. (Tim) Skinner,Democratic,5940
-Vigo,State Senator,38,Jerry B. Mcmullen,Republican,1474
+Vigo,State Senate,38,Mark Blade,Democratic,4617
+Vigo,State Senate,38,Ed Ping,Democratic,3770
+Vigo,State Senate,38,Timothy D. (Tim) Skinner,Democratic,5940
+Vigo,State Senate,38,Jerry B. Mcmullen,Republican,1474
 Vigo,State House,42,F. Dale Grubb,Democratic,1406
 Vigo,State House,42,Steve Bales,Republican,86
 Vigo,State House,42,Patti Smith,Republican,64
@@ -1063,7 +1063,7 @@ Wabash,U.S. House,2,Steven W. Osborn,Democratic,0
 Wabash,U.S. House,2,Jill Long Thompson,Democratic,0
 Wabash,U.S. House,2,Chris Chocola,Republican,0
 Wabash,U.S. House,2,Lewis F. (Farmer) Hass,Republican,0
-Wabash,State Senator,17,Gary Dillon,Republican,3736
+Wabash,State Senate,17,Gary Dillon,Republican,3736
 Wabash,State House,18,David A. Wolkins,Republican,0
 Wabash,Judge Of The Superior Court,Wabash County,Alfred H. Plummer Iii,Republican,2579
 Wabash,Judge Of The Superior Court,Wabash County,Michael L. Sposeep,Republican,3444
@@ -1075,7 +1075,7 @@ Warren,U.S. House,4,Thomas J. Herr,Republican,0
 Warren,U.S. House,4,Brian Kerns,Republican,0
 Warren,U.S. House,4,Bob Smith,Republican,0
 Warren,U.S. House,4,R. Michael Young,Republican,0
-Warren,State Senator,23,Joseph W. Harrison,Republican,239
+Warren,State Senate,23,Joseph W. Harrison,Republican,239
 Warren,State House,13,Chester F. Dobis,Democratic,0
 Warren,State House,13,Anthony S. Azcona,Republican,0
 Warren,State House,13,Steve Bales,Republican,228
@@ -1084,7 +1084,7 @@ Warren,Prosecuting Attorney,Warren 21St Circuit,John A. Larson,Republican,756
 Warrick,U.S. House,8,Michael Graf,Democratic,811
 Warrick,U.S. House,8,Bryan Hartke,Democratic,3319
 Warrick,U.S. House,8,John N. Hostettler,Republican,2661
-Warrick,State Senator,48,Lindel O. Hume,Democratic,0
+Warrick,State Senate,48,Lindel O. Hume,Democratic,0
 Warrick,State House,75,Dennis T. Avery,Democratic,426
 Warrick,State House,75,Marsha Abell,Republican,167
 Warrick,Judge Of The Circuit Court,Warrick 2Nd Circuit,"Rod Clutter, Jr.",Democratic,3591
@@ -1096,15 +1096,15 @@ Washington,U.S. House,9,Jeff Ellington,Republican,331
 Washington,U.S. House,9,David Fowler,Republican,141
 Washington,U.S. House,9,Chris Redmon,Republican,364
 Washington,U.S. House,9,Mike Sodrel,Republican,1459
-Washington,State Senator,47,"Richard D. Young, Jr.",Democratic,185
-Washington,State Senator,47,Christopher L. Byrd,Republican,275
+Washington,State Senate,47,"Richard D. Young, Jr.",Democratic,185
+Washington,State Senate,47,Christopher L. Byrd,Republican,275
 Washington,State House,73,Dennie Oxley,Democratic,2036
 Washington,Prosecuting Attorney,Washington 42Nd Circuit,"Robert G. Hamilton, Ii",Democratic,1292
 Washington,Prosecuting Attorney,Washington 42Nd Circuit,Cynthia L. Winkler,Democratic,1391
 Washington,Prosecuting Attorney,Washington 42Nd Circuit,John W. Mead,Republican,1905
 Wayne,U.S. House,6,Melina (Mel) Fox,Democratic,1824
 Wayne,U.S. House,6,Mike Pence,Republican,7764
-Wayne,State Senator,27,Allen E. Paul,Republican,7329
+Wayne,State Senate,27,Allen E. Paul,Republican,7329
 Wayne,State House,54,Thomas E. (Tom) Saunders,Republican,2448
 Wayne,State House,54,Donald E. (Donnie) Hamilton,Republican,285
 Wayne,State House,54,Phillip Pflum,Republican,781
@@ -1118,7 +1118,7 @@ Wells,U.S. House,3,Jay Rigdon,Democratic,0
 Wells,U.S. House,3,Paul Helmke,Republican,0
 Wells,U.S. House,3,William R. Larsen,Republican,0
 Wells,U.S. House,3,Mark E. Souder,Republican,0
-Wells,State Senator,19,David C. Ford,Republican,3449
+Wells,State Senate,19,David C. Ford,Republican,3449
 Wells,State House,31,S. Gopal (Pal) Raju,Democratic,0
 Wells,State House,31,Dean A. Young,Republican,0
 Wells,State House,31,Bill Overdeer,Republican,0
@@ -1141,7 +1141,7 @@ Whitley,U.S. House,3,Jay Rigdon,Democratic,751
 Whitley,U.S. House,3,Paul Helmke,Republican,1777
 Whitley,U.S. House,3,William R. Larsen,Republican,270
 Whitley,U.S. House,3,Mark E. Souder,Republican,2990
-Whitley,State Senator,17,Gary Dillon,Republican,4480
+Whitley,State Senate,17,Gary Dillon,Republican,4480
 Whitley,State House,82,Mike Wallin,Democratic,0
 Whitley,State House,82,Jeffrey K. Espich,Republican,0
 Whitley,Prosecuting Attorney,Whitley 82Nd Circuit,Jonathan J. Myers,Republican,1414

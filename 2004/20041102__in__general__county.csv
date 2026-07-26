@@ -7,9 +7,9 @@ Adams,President,,David Cobb,Green,0
 Adams,President,,Lawson Mitchell Bone,Independent,0
 Adams,President,,Ralph Nader,Independent,3
 Adams,President,,Walt Brown,Socialist,0
-Adams,U.S. Senator,,Evan Bayh,Democratic,7551
-Adams,U.S. Senator,,Albert Barger,Libertarian,126
-Adams,U.S. Senator,,Marvin Scott,Republican,5476
+Adams,U.S. Senate,,Evan Bayh,Democratic,7551
+Adams,U.S. Senate,,Albert Barger,Libertarian,126
+Adams,U.S. Senate,,Marvin Scott,Republican,5476
 Adams,Governor,,Joseph E Kernan,Democratic,4816
 Adams,Governor,,Kenn Gividen,Libertarian,99
 Adams,Governor,,"Mitchell E Daniels, Jr.",Republican,8350
@@ -37,9 +37,9 @@ Allen,President,,David Cobb,Green,8
 Allen,President,,Lawson Mitchell Bone,Independent,0
 Allen,President,,Ralph Nader,Independent,146
 Allen,President,,Walt Brown,Socialist,4
-Allen,U.S. Senator,,Evan Bayh,Democratic,74011
-Allen,U.S. Senator,,Albert Barger,Libertarian,1126
-Allen,U.S. Senator,,Marvin Scott,Republican,52845
+Allen,U.S. Senate,,Evan Bayh,Democratic,74011
+Allen,U.S. Senate,,Albert Barger,Libertarian,1126
+Allen,U.S. Senate,,Marvin Scott,Republican,52845
 Allen,Governor,,Joseph E Kernan,Democratic,53899
 Allen,Governor,,Kenn Gividen,Libertarian,1183
 Allen,Governor,,"Mitchell E Daniels, Jr.",Republican,73689
@@ -52,7 +52,7 @@ Allen,Superintendent Of Public Instruction,,Joe Hauptmann,Libertarian,2998
 Allen,Superintendent Of Public Instruction,,Suellen Reed,Republican,77425
 Allen,U.S. House,3,Maria M Parra,Democratic,44116
 Allen,U.S. House,3,Mark E Souder,Republican,76372
-Allen,State Senator,16,David C Long,Republican,34113
+Allen,State Senate,16,David C Long,Republican,34113
 Allen,State House,50,Joseph O Wilson,Democratic,0
 Allen,State House,50,Daniel J Dan Leonard,Republican,0
 Allen,State House,52,John T Delucenay,Democratic,0
@@ -80,9 +80,9 @@ Bartholomew,President,,David Cobb,Green,1
 Bartholomew,President,,Lawson Mitchell Bone,Independent,0
 Bartholomew,President,,Ralph Nader,Independent,22
 Bartholomew,President,,Walt Brown,Socialist,1
-Bartholomew,U.S. Senator,,Evan Bayh,Democratic,16507
-Bartholomew,U.S. Senator,,Albert Barger,Libertarian,316
-Bartholomew,U.S. Senator,,Marvin Scott,Republican,11422
+Bartholomew,U.S. Senate,,Evan Bayh,Democratic,16507
+Bartholomew,U.S. Senate,,Albert Barger,Libertarian,316
+Bartholomew,U.S. Senate,,Marvin Scott,Republican,11422
 Bartholomew,Governor,,Joseph E Kernan,Democratic,11008
 Bartholomew,Governor,,Kenn Gividen,Libertarian,519
 Bartholomew,Governor,,"Mitchell E Daniels, Jr.",Republican,16858
@@ -96,7 +96,7 @@ Bartholomew,Superintendent Of Public Instruction,,Suellen Reed,Republican,17806
 Bartholomew,U.S. House,6,Melina Ann Fox,Democratic,3773
 Bartholomew,U.S. House,6,Chad Wick Roots,Libertarian,193
 Bartholomew,U.S. House,6,Mike Pence,Republican,12226
-Bartholomew,State Senator,44,Brent E Steele,Republican,0
+Bartholomew,State Senate,44,Brent E Steele,Republican,0
 Bartholomew,State House,57,Allen Lucas Messer,Republican,5739
 Bartholomew,State House,59,David Yount,Republican,11170
 Bartholomew,State House,69,Markt Lance Lytle,Democratic,0
@@ -113,9 +113,9 @@ Benton,President,,David Cobb,Green,0
 Benton,President,,Lawson Mitchell Bone,Independent,0
 Benton,President,,Ralph Nader,Independent,6
 Benton,President,,Walt Brown,Socialist,0
-Benton,U.S. Senator,,Evan Bayh,Democratic,2501
-Benton,U.S. Senator,,Albert Barger,Libertarian,69
-Benton,U.S. Senator,,Marvin Scott,Republican,1400
+Benton,U.S. Senate,,Evan Bayh,Democratic,2501
+Benton,U.S. Senate,,Albert Barger,Libertarian,69
+Benton,U.S. Senate,,Marvin Scott,Republican,1400
 Benton,Governor,,Joseph E Kernan,Democratic,1498
 Benton,Governor,,Kenn Gividen,Libertarian,69
 Benton,Governor,,"Mitchell E Daniels, Jr.",Republican,2432
@@ -145,9 +145,9 @@ Blackford,President,,David Cobb,Green,0
 Blackford,President,,Lawson Mitchell Bone,Independent,0
 Blackford,President,,Ralph Nader,Independent,0
 Blackford,President,,Walt Brown,Socialist,0
-Blackford,U.S. Senator,,Evan Bayh,Democratic,3694
-Blackford,U.S. Senator,,Albert Barger,Libertarian,42
-Blackford,U.S. Senator,,Marvin Scott,Republican,1609
+Blackford,U.S. Senate,,Evan Bayh,Democratic,3694
+Blackford,U.S. Senate,,Albert Barger,Libertarian,42
+Blackford,U.S. Senate,,Marvin Scott,Republican,1609
 Blackford,Governor,,Joseph E Kernan,Democratic,2567
 Blackford,Governor,,Kenn Gividen,Libertarian,46
 Blackford,Governor,,"Mitchell E Daniels, Jr.",Republican,2741
@@ -182,9 +182,9 @@ Boone,President,,David Cobb,Green,1
 Boone,President,,Lawson Mitchell Bone,Independent,0
 Boone,President,,Ralph Nader,Independent,13
 Boone,President,,Walt Brown,Socialist,1
-Boone,U.S. Senator,,Evan Bayh,Democratic,11074
-Boone,U.S. Senator,,Albert Barger,Libertarian,255
-Boone,U.S. Senator,,Marvin Scott,Republican,11343
+Boone,U.S. Senate,,Evan Bayh,Democratic,11074
+Boone,U.S. Senate,,Albert Barger,Libertarian,255
+Boone,U.S. Senate,,Marvin Scott,Republican,11343
 Boone,Governor,,Joseph E Kernan,Democratic,6326
 Boone,Governor,,Kenn Gividen,Libertarian,305
 Boone,Governor,,"Mitchell E Daniels, Jr.",Republican,16189
@@ -201,7 +201,7 @@ Boone,U.S. House,4,Steve Buyer,Republican,16727
 Boone,U.S. House,5,Katherine Fox Carr,Democratic,0
 Boone,U.S. House,5,Rick Hodgin,Libertarian,0
 Boone,U.S. House,5,Dan Burton,Republican,0
-Boone,State Senator,7,Brandt Hershman,Republican,0
+Boone,State Senate,7,Brandt Hershman,Republican,0
 Boone,State House,24,Gordon Southern,Democratic,0
 Boone,State House,24,Richard W Rich Mcclain,Republican,0
 Boone,State House,28,Jeffrey A Thompson,Republican,10156
@@ -219,9 +219,9 @@ Brown,President,,David Cobb,Green,0
 Brown,President,,Lawson Mitchell Bone,Independent,0
 Brown,President,,Ralph Nader,Independent,4
 Brown,President,,Walt Brown,Socialist,0
-Brown,U.S. Senator,,Evan Bayh,Democratic,4336
-Brown,U.S. Senator,,Albert Barger,Libertarian,125
-Brown,U.S. Senator,,Marvin Scott,Republican,2803
+Brown,U.S. Senate,,Evan Bayh,Democratic,4336
+Brown,U.S. Senate,,Albert Barger,Libertarian,125
+Brown,U.S. Senate,,Marvin Scott,Republican,2803
 Brown,Governor,,Joseph E Kernan,Democratic,3118
 Brown,Governor,,Kenn Gividen,Libertarian,164
 Brown,Governor,,"Mitchell E Daniels, Jr.",Republican,4010
@@ -235,7 +235,7 @@ Brown,Superintendent Of Public Instruction,,Suellen Reed,Republican,4074
 Brown,U.S. House,9,Baron Hill,Democratic,3081
 Brown,U.S. House,9,Al Cox,Libertarian,217
 Brown,U.S. House,9,Mike Sodrel,Republican,3960
-Brown,State Senator,44,Brent E Steele,Republican,0
+Brown,State Senate,44,Brent E Steele,Republican,0
 Brown,State House,65,Kent B Van Cleave,Libertarian,804
 Brown,State House,65,Eric Allan Koch,Republican,4627
 Carroll,President,,John F Kerry,Democratic,2689
@@ -246,9 +246,9 @@ Carroll,President,,David Cobb,Green,0
 Carroll,President,,Lawson Mitchell Bone,Independent,0
 Carroll,President,,Ralph Nader,Independent,2
 Carroll,President,,Walt Brown,Socialist,0
-Carroll,U.S. Senator,,Evan Bayh,Democratic,5067
-Carroll,U.S. Senator,,Albert Barger,Libertarian,85
-Carroll,U.S. Senator,,Marvin Scott,Republican,3331
+Carroll,U.S. Senate,,Evan Bayh,Democratic,5067
+Carroll,U.S. Senate,,Albert Barger,Libertarian,85
+Carroll,U.S. Senate,,Marvin Scott,Republican,3331
 Carroll,Governor,,Joseph E Kernan,Democratic,3387
 Carroll,Governor,,Kenn Gividen,Libertarian,115
 Carroll,Governor,,"Mitchell E Daniels, Jr.",Republican,5090
@@ -262,8 +262,8 @@ Carroll,Superintendent Of Public Instruction,,Suellen Reed,Republican,5257
 Carroll,U.S. House,4,David Avram Sanders,Democratic,0
 Carroll,U.S. House,4,Kevin R Fleming,Libertarian,0
 Carroll,U.S. House,4,Steve Buyer,Republican,0
-Carroll,State Senator,7,Brandt Hershman,Republican,6808
-Carroll,State Senator,18,Thomas K Weatherwax,Republican,0
+Carroll,State Senate,7,Brandt Hershman,Republican,6808
+Carroll,State Senate,18,Thomas K Weatherwax,Republican,0
 Carroll,State House,25,Jeb Bardon,Democratic,0
 Carroll,State House,25,Dennis K Foreman,Republican,0
 Carroll,State House,38,James R Buck,Republican,0
@@ -281,9 +281,9 @@ Cass,President,,David Cobb,Green,0
 Cass,President,,Lawson Mitchell Bone,Independent,0
 Cass,President,,Ralph Nader,Independent,9
 Cass,President,,Walt Brown,Socialist,0
-Cass,U.S. Senator,,Evan Bayh,Democratic,7873
-Cass,U.S. Senator,,Albert Barger,Libertarian,159
-Cass,U.S. Senator,,Marvin Scott,Republican,5829
+Cass,U.S. Senate,,Evan Bayh,Democratic,7873
+Cass,U.S. Senate,,Albert Barger,Libertarian,159
+Cass,U.S. Senate,,Marvin Scott,Republican,5829
 Cass,Governor,,Joseph E Kernan,Democratic,5808
 Cass,Governor,,Kenn Gividen,Libertarian,221
 Cass,Governor,,"Mitchell E Daniels, Jr.",Republican,7946
@@ -297,7 +297,7 @@ Cass,Superintendent Of Public Instruction,,Suellen Reed,Republican,8418
 Cass,U.S. House,4,David Avram Sanders,Democratic,0
 Cass,U.S. House,4,Kevin R Fleming,Libertarian,0
 Cass,U.S. House,4,Steve Buyer,Republican,0
-Cass,State Senator,18,Thomas K Weatherwax,Republican,11111
+Cass,State Senate,18,Thomas K Weatherwax,Republican,11111
 Cass,State House,23,William C Friend,Republican,0
 Cass,State House,25,Jeb Bardon,Democratic,0
 Cass,State House,25,Dennis K Foreman,Republican,0
@@ -321,9 +321,9 @@ Clark,President,,David Cobb,Green,0
 Clark,President,,Lawson Mitchell Bone,Independent,0
 Clark,President,,Ralph Nader,Independent,0
 Clark,President,,Walt Brown,Socialist,0
-Clark,U.S. Senator,,Evan Bayh,Democratic,26054
-Clark,U.S. Senator,,Albert Barger,Libertarian,368
-Clark,U.S. Senator,,Marvin Scott,Republican,15091
+Clark,U.S. Senate,,Evan Bayh,Democratic,26054
+Clark,U.S. Senate,,Albert Barger,Libertarian,368
+Clark,U.S. Senate,,Marvin Scott,Republican,15091
 Clark,Governor,,Joseph E Kernan,Democratic,20964
 Clark,Governor,,Kenn Gividen,Libertarian,360
 Clark,Governor,,"Mitchell E Daniels, Jr.",Republican,20471
@@ -354,9 +354,9 @@ Clay,President,,David Cobb,Green,0
 Clay,President,,Lawson Mitchell Bone,Independent,0
 Clay,President,,Ralph Nader,Independent,9
 Clay,President,,Walt Brown,Socialist,0
-Clay,U.S. Senator,,Evan Bayh,Democratic,6928
-Clay,U.S. Senator,,Albert Barger,Libertarian,112
-Clay,U.S. Senator,,Marvin Scott,Republican,3629
+Clay,U.S. Senate,,Evan Bayh,Democratic,6928
+Clay,U.S. Senate,,Albert Barger,Libertarian,112
+Clay,U.S. Senate,,Marvin Scott,Republican,3629
 Clay,Governor,,Joseph E Kernan,Democratic,4677
 Clay,Governor,,Kenn Gividen,Libertarian,148
 Clay,Governor,,"Mitchell E Daniels, Jr.",Republican,5724
@@ -392,9 +392,9 @@ Clinton,President,,David Cobb,Green,0
 Clinton,President,,Lawson Mitchell Bone,Independent,0
 Clinton,President,,Ralph Nader,Independent,0
 Clinton,President,,Walt Brown,Socialist,0
-Clinton,U.S. Senator,,Evan Bayh,Democratic,6600
-Clinton,U.S. Senator,,Albert Barger,Libertarian,108
-Clinton,U.S. Senator,,Marvin Scott,Republican,5011
+Clinton,U.S. Senate,,Evan Bayh,Democratic,6600
+Clinton,U.S. Senate,,Albert Barger,Libertarian,108
+Clinton,U.S. Senate,,Marvin Scott,Republican,5011
 Clinton,Governor,,Joseph E Kernan,Democratic,4129
 Clinton,Governor,,Kenn Gividen,Libertarian,148
 Clinton,Governor,,"Mitchell E Daniels, Jr.",Republican,7537
@@ -408,7 +408,7 @@ Clinton,Superintendent Of Public Instruction,,Suellen Reed,Republican,7455
 Clinton,U.S. House,4,David Avram Sanders,Democratic,3139
 Clinton,U.S. House,4,Kevin R Fleming,Libertarian,201
 Clinton,U.S. House,4,Steve Buyer,Republican,8208
-Clinton,State Senator,7,Brandt Hershman,Republican,2702
+Clinton,State Senate,7,Brandt Hershman,Republican,2702
 Clinton,State House,25,Jeb Bardon,Democratic,0
 Clinton,State House,25,Dennis K Foreman,Republican,0
 Clinton,State House,38,James R Buck,Republican,8919
@@ -424,9 +424,9 @@ Crawford,President,,David Cobb,Green,0
 Crawford,President,,Lawson Mitchell Bone,Independent,0
 Crawford,President,,Ralph Nader,Independent,0
 Crawford,President,,Walt Brown,Socialist,0
-Crawford,U.S. Senator,,Evan Bayh,Democratic,2832
-Crawford,U.S. Senator,,Albert Barger,Libertarian,47
-Crawford,U.S. Senator,,Marvin Scott,Republican,1572
+Crawford,U.S. Senate,,Evan Bayh,Democratic,2832
+Crawford,U.S. Senate,,Albert Barger,Libertarian,47
+Crawford,U.S. Senate,,Marvin Scott,Republican,1572
 Crawford,Governor,,Joseph E Kernan,Democratic,2231
 Crawford,Governor,,Kenn Gividen,Libertarian,60
 Crawford,Governor,,"Mitchell E Daniels, Jr.",Republican,2231
@@ -458,9 +458,9 @@ Daviess,President,,David Cobb,Green,0
 Daviess,President,,Lawson Mitchell Bone,Independent,0
 Daviess,President,,Ralph Nader,Independent,6
 Daviess,President,,Walt Brown,Socialist,0
-Daviess,U.S. Senator,,Evan Bayh,Democratic,5891
-Daviess,U.S. Senator,,Albert Barger,Libertarian,107
-Daviess,U.S. Senator,,Marvin Scott,Republican,4447
+Daviess,U.S. Senate,,Evan Bayh,Democratic,5891
+Daviess,U.S. Senate,,Albert Barger,Libertarian,107
+Daviess,U.S. Senate,,Marvin Scott,Republican,4447
 Daviess,Governor,,Joseph E Kernan,Democratic,4049
 Daviess,Governor,,Kenn Gividen,Libertarian,183
 Daviess,Governor,,"Mitchell E Daniels, Jr.",Republican,6223
@@ -495,9 +495,9 @@ Dearborn,President,,David Cobb,Green,0
 Dearborn,President,,Lawson Mitchell Bone,Independent,0
 Dearborn,President,,Ralph Nader,Independent,25
 Dearborn,President,,Walt Brown,Socialist,0
-Dearborn,U.S. Senator,,Evan Bayh,Democratic,9264
-Dearborn,U.S. Senator,,Albert Barger,Libertarian,311
-Dearborn,U.S. Senator,,Marvin Scott,Republican,10675
+Dearborn,U.S. Senate,,Evan Bayh,Democratic,9264
+Dearborn,U.S. Senate,,Albert Barger,Libertarian,311
+Dearborn,U.S. Senate,,Marvin Scott,Republican,10675
 Dearborn,Governor,,Joseph E Kernan,Democratic,7573
 Dearborn,Governor,,Kenn Gividen,Libertarian,297
 Dearborn,Governor,,"Mitchell E Daniels, Jr.",Republican,12514
@@ -529,9 +529,9 @@ Decatur,President,,David Cobb,Green,0
 Decatur,President,,Lawson Mitchell Bone,Independent,0
 Decatur,President,,Ralph Nader,Independent,1
 Decatur,President,,Walt Brown,Socialist,0
-Decatur,U.S. Senator,,Evan Bayh,Democratic,6173
-Decatur,U.S. Senator,,Albert Barger,Libertarian,88
-Decatur,U.S. Senator,,Marvin Scott,Republican,3808
+Decatur,U.S. Senate,,Evan Bayh,Democratic,6173
+Decatur,U.S. Senate,,Albert Barger,Libertarian,88
+Decatur,U.S. Senate,,Marvin Scott,Republican,3808
 Decatur,Governor,,Joseph E Kernan,Democratic,3524
 Decatur,Governor,,Kenn Gividen,Libertarian,140
 Decatur,Governor,,"Mitchell E Daniels, Jr.",Republican,6355
@@ -545,8 +545,8 @@ Decatur,Superintendent Of Public Instruction,,Suellen Reed,Republican,6551
 Decatur,U.S. House,6,Melina Ann Fox,Democratic,2653
 Decatur,U.S. House,6,Chad Wick Roots,Libertarian,147
 Decatur,U.S. House,6,Mike Pence,Republican,7222
-Decatur,State Senator,42,Barry Alan Welsh,Democratic,2642
-Decatur,State Senator,42,Robert N Jackman,Republican,7244
+Decatur,State Senate,42,Barry Alan Welsh,Democratic,2642
+Decatur,State Senate,42,Robert N Jackman,Republican,7244
 Decatur,State House,55,Jason Mcglothen,Democratic,0
 Decatur,State House,55,John Marcum,Libertarian,0
 Decatur,State House,55,Robert A Hoffman,Republican,0
@@ -564,9 +564,9 @@ DeKalb,President,,David Cobb,Green,0
 DeKalb,President,,Lawson Mitchell Bone,Independent,0
 DeKalb,President,,Ralph Nader,Independent,1
 DeKalb,President,,Walt Brown,Socialist,0
-DeKalb,U.S. Senator,,Evan Bayh,Democratic,8529
-DeKalb,U.S. Senator,,Albert Barger,Libertarian,132
-DeKalb,U.S. Senator,,Marvin Scott,Republican,6523
+DeKalb,U.S. Senate,,Evan Bayh,Democratic,8529
+DeKalb,U.S. Senate,,Albert Barger,Libertarian,132
+DeKalb,U.S. Senate,,Marvin Scott,Republican,6523
 DeKalb,Governor,,Joseph E Kernan,Democratic,6012
 DeKalb,Governor,,Kenn Gividen,Libertarian,181
 DeKalb,Governor,,"Mitchell E Daniels, Jr.",Republican,9242
@@ -579,7 +579,7 @@ DeKalb,Superintendent Of Public Instruction,,Joe Hauptmann,Libertarian,387
 DeKalb,Superintendent Of Public Instruction,,Suellen Reed,Republican,9301
 DeKalb,U.S. House,3,Maria M Parra,Democratic,4681
 DeKalb,U.S. House,3,Mark E Souder,Republican,10509
-DeKalb,State Senator,13,Robert L Meeks,Republican,443
+DeKalb,State Senate,13,Robert L Meeks,Republican,443
 DeKalb,State House,52,John T Delucenay,Democratic,1073
 DeKalb,State House,52,Marlin A Stutzman,Republican,1680
 DeKalb,Judge Of The Circuit Court,Dekalb 75Th Circuit,Kirk D Carpenter,Democratic,8918
@@ -597,9 +597,9 @@ Delaware,President,,David Cobb,Green,5
 Delaware,President,,Lawson Mitchell Bone,Independent,0
 Delaware,President,,Ralph Nader,Independent,27
 Delaware,President,,Walt Brown,Socialist,0
-Delaware,U.S. Senator,,Evan Bayh,Democratic,32312
-Delaware,U.S. Senator,,Albert Barger,Libertarian,580
-Delaware,U.S. Senator,,Marvin Scott,Republican,13627
+Delaware,U.S. Senate,,Evan Bayh,Democratic,32312
+Delaware,U.S. Senate,,Albert Barger,Libertarian,580
+Delaware,U.S. Senate,,Marvin Scott,Republican,13627
 Delaware,Governor,,Joseph E Kernan,Democratic,24132
 Delaware,Governor,,Kenn Gividen,Libertarian,663
 Delaware,Governor,,"Mitchell E Daniels, Jr.",Republican,22917
@@ -636,9 +636,9 @@ Dubois,President,,David Cobb,Green,1
 Dubois,President,,Lawson Mitchell Bone,Independent,0
 Dubois,President,,Ralph Nader,Independent,13
 Dubois,President,,Walt Brown,Socialist,0
-Dubois,U.S. Senator,,Evan Bayh,Democratic,11166
-Dubois,U.S. Senator,,Albert Barger,Libertarian,136
-Dubois,U.S. Senator,,Marvin Scott,Republican,5560
+Dubois,U.S. Senate,,Evan Bayh,Democratic,11166
+Dubois,U.S. Senate,,Albert Barger,Libertarian,136
+Dubois,U.S. Senate,,Marvin Scott,Republican,5560
 Dubois,Governor,,Joseph E Kernan,Democratic,6871
 Dubois,Governor,,Kenn Gividen,Libertarian,169
 Dubois,Governor,,"Mitchell E Daniels, Jr.",Republican,9385
@@ -669,9 +669,9 @@ Elkhart,President,,David Cobb,Green,12
 Elkhart,President,,Lawson Mitchell Bone,Independent,1
 Elkhart,President,,Ralph Nader,Independent,68
 Elkhart,President,,Walt Brown,Socialist,2
-Elkhart,U.S. Senator,,Evan Bayh,Democratic,31186
-Elkhart,U.S. Senator,,Albert Barger,Libertarian,546
-Elkhart,U.S. Senator,,Marvin Scott,Republican,29168
+Elkhart,U.S. Senate,,Evan Bayh,Democratic,31186
+Elkhart,U.S. Senate,,Albert Barger,Libertarian,546
+Elkhart,U.S. Senate,,Marvin Scott,Republican,29168
 Elkhart,Governor,,Joseph E Kernan,Democratic,22406
 Elkhart,Governor,,Kenn Gividen,Libertarian,503
 Elkhart,Governor,,"Mitchell E Daniels, Jr.",Republican,38430
@@ -685,9 +685,9 @@ Elkhart,Superintendent Of Public Instruction,,Suellen Reed,Republican,39347
 Elkhart,U.S. House,2,Joseph S Donnelly,Democratic,9169
 Elkhart,U.S. House,2,Douglas Barnes,Libertarian,277
 Elkhart,U.S. House,2,J Chris Chocola,Republican,16774
-Elkhart,State Senator,9,Ryan D Mishler,Republican,5026
-Elkhart,State Senator,12,Charles D Mumaw,Democratic,8962
-Elkhart,State Senator,12,Marvin Dean Riegsecker,Republican,29591
+Elkhart,State Senate,9,Ryan D Mishler,Republican,5026
+Elkhart,State Senate,12,Charles D Mumaw,Democratic,8962
+Elkhart,State Senate,12,Marvin Dean Riegsecker,Republican,29591
 Elkhart,State House,21,Carl H Kaser,Democratic,3522
 Elkhart,State House,21,Jackie Walorski Swihart,Republican,7591
 Elkhart,State House,22,William J Bill Ruppel,Republican,0
@@ -706,9 +706,9 @@ Fayette,President,,David Cobb,Green,0
 Fayette,President,,Lawson Mitchell Bone,Independent,0
 Fayette,President,,Ralph Nader,Independent,0
 Fayette,President,,Walt Brown,Socialist,0
-Fayette,U.S. Senator,,Evan Bayh,Democratic,5961
-Fayette,U.S. Senator,,Albert Barger,Libertarian,134
-Fayette,U.S. Senator,,Marvin Scott,Republican,3212
+Fayette,U.S. Senate,,Evan Bayh,Democratic,5961
+Fayette,U.S. Senate,,Albert Barger,Libertarian,134
+Fayette,U.S. Senate,,Marvin Scott,Republican,3212
 Fayette,Governor,,Joseph E Kernan,Democratic,4224
 Fayette,Governor,,Kenn Gividen,Libertarian,121
 Fayette,Governor,,"Mitchell E Daniels, Jr.",Republican,4981
@@ -722,8 +722,8 @@ Fayette,Superintendent Of Public Instruction,,Suellen Reed,Republican,5509
 Fayette,U.S. House,6,Melina Ann Fox,Democratic,3289
 Fayette,U.S. House,6,Chad Wick Roots,Libertarian,150
 Fayette,U.S. House,6,Mike Pence,Republican,5688
-Fayette,State Senator,42,Barry Alan Welsh,Democratic,3630
-Fayette,State Senator,42,Robert N Jackman,Republican,5449
+Fayette,State Senate,42,Barry Alan Welsh,Democratic,3630
+Fayette,State Senate,42,Robert N Jackman,Republican,5449
 Fayette,State House,55,Jason Mcglothen,Democratic,3069
 Fayette,State House,55,John Marcum,Libertarian,255
 Fayette,State House,55,Robert A Hoffman,Republican,5763
@@ -740,9 +740,9 @@ Floyd,President,,David Cobb,Green,0
 Floyd,President,,Lawson Mitchell Bone,Independent,0
 Floyd,President,,Ralph Nader,Independent,0
 Floyd,President,,Walt Brown,Socialist,0
-Floyd,U.S. Senator,,Evan Bayh,Democratic,20898
-Floyd,U.S. Senator,,Albert Barger,Libertarian,332
-Floyd,U.S. Senator,,Marvin Scott,Republican,12412
+Floyd,U.S. Senate,,Evan Bayh,Democratic,20898
+Floyd,U.S. Senate,,Albert Barger,Libertarian,332
+Floyd,U.S. Senate,,Marvin Scott,Republican,12412
 Floyd,Governor,,Joseph E Kernan,Democratic,16503
 Floyd,Governor,,Kenn Gividen,Libertarian,279
 Floyd,Governor,,"Mitchell E Daniels, Jr.",Republican,16869
@@ -776,9 +776,9 @@ Fountain,President,,David Cobb,Green,0
 Fountain,President,,Lawson Mitchell Bone,Independent,0
 Fountain,President,,Ralph Nader,Independent,0
 Fountain,President,,Walt Brown,Socialist,0
-Fountain,U.S. Senator,,Evan Bayh,Democratic,4532
-Fountain,U.S. Senator,,Albert Barger,Libertarian,60
-Fountain,U.S. Senator,,Marvin Scott,Republican,2955
+Fountain,U.S. Senate,,Evan Bayh,Democratic,4532
+Fountain,U.S. Senate,,Albert Barger,Libertarian,60
+Fountain,U.S. Senate,,Marvin Scott,Republican,2955
 Fountain,Governor,,Joseph E Kernan,Democratic,2878
 Fountain,Governor,,Kenn Gividen,Libertarian,101
 Fountain,Governor,,"Mitchell E Daniels, Jr.",Republican,4786
@@ -809,9 +809,9 @@ Franklin,President,,David Cobb,Green,0
 Franklin,President,,Lawson Mitchell Bone,Independent,0
 Franklin,President,,Ralph Nader,Independent,10
 Franklin,President,,Walt Brown,Socialist,0
-Franklin,U.S. Senator,,Evan Bayh,Democratic,5247
-Franklin,U.S. Senator,,Albert Barger,Libertarian,171
-Franklin,U.S. Senator,,Marvin Scott,Republican,4395
+Franklin,U.S. Senate,,Evan Bayh,Democratic,5247
+Franklin,U.S. Senate,,Albert Barger,Libertarian,171
+Franklin,U.S. Senate,,Marvin Scott,Republican,4395
 Franklin,Governor,,Joseph E Kernan,Democratic,3862
 Franklin,Governor,,Kenn Gividen,Libertarian,114
 Franklin,Governor,,"Mitchell E Daniels, Jr.",Republican,5822
@@ -825,8 +825,8 @@ Franklin,Superintendent Of Public Instruction,,Suellen Reed,Republican,5599
 Franklin,U.S. House,6,Melina Ann Fox,Democratic,3329
 Franklin,U.S. House,6,Chad Wick Roots,Libertarian,124
 Franklin,U.S. House,6,Mike Pence,Republican,6154
-Franklin,State Senator,42,Barry Alan Welsh,Democratic,1242
-Franklin,State Senator,42,Robert N Jackman,Republican,2445
+Franklin,State Senate,42,Barry Alan Welsh,Democratic,1242
+Franklin,State Senate,42,Robert N Jackman,Republican,2445
 Franklin,State House,55,Jason Mcglothen,Democratic,889
 Franklin,State House,55,John Marcum,Libertarian,107
 Franklin,State House,55,Robert A Hoffman,Republican,2731
@@ -845,9 +845,9 @@ Fulton,President,,David Cobb,Green,0
 Fulton,President,,Lawson Mitchell Bone,Independent,0
 Fulton,President,,Ralph Nader,Independent,6
 Fulton,President,,Walt Brown,Socialist,0
-Fulton,U.S. Senator,,Evan Bayh,Democratic,5264
-Fulton,U.S. Senator,,Albert Barger,Libertarian,91
-Fulton,U.S. Senator,,Marvin Scott,Republican,3324
+Fulton,U.S. Senate,,Evan Bayh,Democratic,5264
+Fulton,U.S. Senate,,Albert Barger,Libertarian,91
+Fulton,U.S. Senate,,Marvin Scott,Republican,3324
 Fulton,Governor,,Joseph E Kernan,Democratic,3513
 Fulton,Governor,,Kenn Gividen,Libertarian,110
 Fulton,Governor,,"Mitchell E Daniels, Jr.",Republican,5103
@@ -861,7 +861,7 @@ Fulton,Superintendent Of Public Instruction,,Suellen Reed,Republican,5310
 Fulton,U.S. House,2,Joseph S Donnelly,Democratic,3037
 Fulton,U.S. House,2,Douglas Barnes,Libertarian,81
 Fulton,U.S. House,2,J Chris Chocola,Republican,5584
-Fulton,State Senator,18,Thomas K Weatherwax,Republican,7010
+Fulton,State Senate,18,Thomas K Weatherwax,Republican,7010
 Fulton,State House,16,Eric A Gutwein,Republican,6098
 Fulton,State House,17,David A Mcliver,Democratic,0
 Fulton,State House,17,Steven Heim,Republican,0
@@ -878,9 +878,9 @@ Gibson,President,,David Cobb,Green,0
 Gibson,President,,Lawson Mitchell Bone,Independent,0
 Gibson,President,,Ralph Nader,Independent,7
 Gibson,President,,Walt Brown,Socialist,0
-Gibson,U.S. Senator,,Evan Bayh,Democratic,10110
-Gibson,U.S. Senator,,Albert Barger,Libertarian,129
-Gibson,U.S. Senator,,Marvin Scott,Republican,4289
+Gibson,U.S. Senate,,Evan Bayh,Democratic,10110
+Gibson,U.S. Senate,,Albert Barger,Libertarian,129
+Gibson,U.S. Senate,,Marvin Scott,Republican,4289
 Gibson,Governor,,Joseph E Kernan,Democratic,7101
 Gibson,Governor,,Kenn Gividen,Libertarian,166
 Gibson,Governor,,"Mitchell E Daniels, Jr.",Republican,7289
@@ -910,9 +910,9 @@ Grant,President,,David Cobb,Green,0
 Grant,President,,Lawson Mitchell Bone,Independent,0
 Grant,President,,Ralph Nader,Independent,17
 Grant,President,,Walt Brown,Socialist,0
-Grant,U.S. Senator,,Evan Bayh,Democratic,16620
-Grant,U.S. Senator,,Albert Barger,Libertarian,256
-Grant,U.S. Senator,,Marvin Scott,Republican,10189
+Grant,U.S. Senate,,Evan Bayh,Democratic,16620
+Grant,U.S. Senate,,Albert Barger,Libertarian,256
+Grant,U.S. Senate,,Marvin Scott,Republican,10189
 Grant,Governor,,Joseph E Kernan,Democratic,11376
 Grant,Governor,,Kenn Gividen,Libertarian,275
 Grant,Governor,,"Mitchell E Daniels, Jr.",Republican,15543
@@ -945,9 +945,9 @@ Greene,President,,David Cobb,Green,1
 Greene,President,,Lawson Mitchell Bone,Independent,0
 Greene,President,,Ralph Nader,Independent,2
 Greene,President,,Walt Brown,Socialist,0
-Greene,U.S. Senator,,Evan Bayh,Democratic,8336
-Greene,U.S. Senator,,Albert Barger,Libertarian,137
-Greene,U.S. Senator,,Marvin Scott,Republican,4402
+Greene,U.S. Senate,,Evan Bayh,Democratic,8336
+Greene,U.S. Senate,,Albert Barger,Libertarian,137
+Greene,U.S. Senate,,Marvin Scott,Republican,4402
 Greene,Governor,,Joseph E Kernan,Democratic,6123
 Greene,Governor,,Kenn Gividen,Libertarian,213
 Greene,Governor,,"Mitchell E Daniels, Jr.",Republican,6791
@@ -977,9 +977,9 @@ Hamilton,President,,David Cobb,Green,1
 Hamilton,President,,Lawson Mitchell Bone,Independent,0
 Hamilton,President,,Ralph Nader,Independent,22
 Hamilton,President,,Walt Brown,Socialist,0
-Hamilton,U.S. Senator,,Evan Bayh,Democratic,48001
-Hamilton,U.S. Senator,,Albert Barger,Libertarian,970
-Hamilton,U.S. Senator,,Marvin Scott,Republican,54408
+Hamilton,U.S. Senate,,Evan Bayh,Democratic,48001
+Hamilton,U.S. Senate,,Albert Barger,Libertarian,970
+Hamilton,U.S. Senate,,Marvin Scott,Republican,54408
 Hamilton,Governor,,Joseph E Kernan,Democratic,27316
 Hamilton,Governor,,Kenn Gividen,Libertarian,920
 Hamilton,Governor,,"Mitchell E Daniels, Jr.",Republican,76433
@@ -993,10 +993,10 @@ Hamilton,Superintendent Of Public Instruction,,Suellen Reed,Republican,74965
 Hamilton,U.S. House,5,Katherine Fox Carr,Democratic,22870
 Hamilton,U.S. House,5,Rick Hodgin,Libertarian,2431
 Hamilton,U.S. House,5,Dan Burton,Republican,76461
-Hamilton,State Senator,20,Robert D Threlkeld,Democratic,8998
-Hamilton,State Senator,20,Howard A Kenley Iii,Republican,35814
-Hamilton,State Senator,30,Bob Cowboy Farrell,Libertarian,1092
-Hamilton,State Senator,30,Teresa Lubbers,Republican,11105
+Hamilton,State Senate,20,Robert D Threlkeld,Democratic,8998
+Hamilton,State Senate,20,Howard A Kenley Iii,Republican,35814
+Hamilton,State Senate,30,Bob Cowboy Farrell,Libertarian,1092
+Hamilton,State Senate,30,Teresa Lubbers,Republican,11105
 Hamilton,State House,24,Gordon Southern,Democratic,0
 Hamilton,State House,24,Richard W Rich Mcclain,Republican,0
 Hamilton,State House,29,Kathy Kreag Richardson,Republican,28766
@@ -1026,9 +1026,9 @@ Hancock,President,,David Cobb,Green,0
 Hancock,President,,Lawson Mitchell Bone,Independent,0
 Hancock,President,,Ralph Nader,Independent,5
 Hancock,President,,Walt Brown,Socialist,0
-Hancock,U.S. Senator,,Evan Bayh,Democratic,14548
-Hancock,U.S. Senator,,Albert Barger,Libertarian,309
-Hancock,U.S. Senator,,Marvin Scott,Republican,12941
+Hancock,U.S. Senate,,Evan Bayh,Democratic,14548
+Hancock,U.S. Senate,,Albert Barger,Libertarian,309
+Hancock,U.S. Senate,,Marvin Scott,Republican,12941
 Hancock,Governor,,Joseph E Kernan,Democratic,8746
 Hancock,Governor,,Kenn Gividen,Libertarian,359
 Hancock,Governor,,"Mitchell E Daniels, Jr.",Republican,18825
@@ -1042,8 +1042,8 @@ Hancock,Superintendent Of Public Instruction,,Suellen Reed,Republican,18958
 Hancock,U.S. House,6,Melina Ann Fox,Democratic,0
 Hancock,U.S. House,6,Chad Wick Roots,Libertarian,0
 Hancock,U.S. House,6,Mike Pence,Republican,0
-Hancock,State Senator,28,Brett S Glaze,Libertarian,2623
-Hancock,State Senator,28,Beverly J Gard,Republican,21944
+Hancock,State Senate,28,Brett S Glaze,Libertarian,2623
+Hancock,State Senate,28,Beverly J Gard,Republican,21944
 Hancock,State House,53,Kim J Brand,Libertarian,3007
 Hancock,State House,53,Robert W Cherry,Republican,20396
 Hancock,State House,57,Allen Lucas Messer,Republican,0
@@ -1059,9 +1059,9 @@ Harrison,President,,David Cobb,Green,0
 Harrison,President,,Lawson Mitchell Bone,Independent,0
 Harrison,President,,Ralph Nader,Independent,21
 Harrison,President,,Walt Brown,Socialist,0
-Harrison,U.S. Senator,,Evan Bayh,Democratic,10094
-Harrison,U.S. Senator,,Albert Barger,Libertarian,180
-Harrison,U.S. Senator,,Marvin Scott,Republican,6824
+Harrison,U.S. Senate,,Evan Bayh,Democratic,10094
+Harrison,U.S. Senate,,Albert Barger,Libertarian,180
+Harrison,U.S. Senate,,Marvin Scott,Republican,6824
 Harrison,Governor,,Joseph E Kernan,Democratic,7809
 Harrison,Governor,,Kenn Gividen,Libertarian,171
 Harrison,Governor,,"Mitchell E Daniels, Jr.",Republican,9242
@@ -1095,9 +1095,9 @@ Hendricks,President,,David Cobb,Green,0
 Hendricks,President,,Lawson Mitchell Bone,Independent,0
 Hendricks,President,,Ralph Nader,Independent,15
 Hendricks,President,,Walt Brown,Socialist,0
-Hendricks,U.S. Senator,,Evan Bayh,Democratic,24844
-Hendricks,U.S. Senator,,Albert Barger,Libertarian,486
-Hendricks,U.S. Senator,,Marvin Scott,Republican,26441
+Hendricks,U.S. Senate,,Evan Bayh,Democratic,24844
+Hendricks,U.S. Senate,,Albert Barger,Libertarian,486
+Hendricks,U.S. Senate,,Marvin Scott,Republican,26441
 Hendricks,Governor,,Joseph E Kernan,Democratic,15691
 Hendricks,Governor,,Kenn Gividen,Libertarian,641
 Hendricks,Governor,,"Mitchell E Daniels, Jr.",Republican,35761
@@ -1111,10 +1111,10 @@ Hendricks,Superintendent Of Public Instruction,,Suellen Reed,Republican,35479
 Hendricks,U.S. House,4,David Avram Sanders,Democratic,12034
 Hendricks,U.S. House,4,Kevin R Fleming,Libertarian,1034
 Hendricks,U.S. House,4,Steve Buyer,Republican,37296
-Hendricks,State Senator,24,Connie Lawson,Republican,37363
-Hendricks,State Senator,35,Harvey E Knox,Democratic,0
-Hendricks,State Senator,35,Shane Wheeler,Libertarian,0
-Hendricks,State Senator,35,R Michael Young,Republican,0
+Hendricks,State Senate,24,Connie Lawson,Republican,37363
+Hendricks,State Senate,35,Harvey E Knox,Democratic,0
+Hendricks,State Senate,35,Shane Wheeler,Libertarian,0
+Hendricks,State Senate,35,R Michael Young,Republican,0
 Hendricks,State House,28,Jeffrey A Thompson,Republican,8815
 Hendricks,State House,40,Ray Nowosielski,Libertarian,2330
 Hendricks,State House,40,Matthew D Matt Whetstone,Republican,24824
@@ -1133,9 +1133,9 @@ Henry,President,,David Cobb,Green,3
 Henry,President,,Lawson Mitchell Bone,Independent,0
 Henry,President,,Ralph Nader,Independent,12
 Henry,President,,Walt Brown,Socialist,0
-Henry,U.S. Senator,,Evan Bayh,Democratic,12666
-Henry,U.S. Senator,,Albert Barger,Libertarian,254
-Henry,U.S. Senator,,Marvin Scott,Republican,7312
+Henry,U.S. Senate,,Evan Bayh,Democratic,12666
+Henry,U.S. Senate,,Albert Barger,Libertarian,254
+Henry,U.S. Senate,,Marvin Scott,Republican,7312
 Henry,Governor,,Joseph E Kernan,Democratic,8674
 Henry,Governor,,Kenn Gividen,Libertarian,289
 Henry,Governor,,"Mitchell E Daniels, Jr.",Republican,11408
@@ -1149,8 +1149,8 @@ Henry,Superintendent Of Public Instruction,,Suellen Reed,Republican,11608
 Henry,U.S. House,6,Melina Ann Fox,Democratic,6062
 Henry,U.S. House,6,Chad Wick Roots,Libertarian,300
 Henry,U.S. House,6,Mike Pence,Republican,13787
-Henry,State Senator,42,Barry Alan Welsh,Democratic,0
-Henry,State Senator,42,Robert N Jackman,Republican,0
+Henry,State Senate,42,Barry Alan Welsh,Democratic,0
+Henry,State Senate,42,Robert N Jackman,Republican,0
 Henry,State House,54,Christopher Surber,Democratic,3752
 Henry,State House,54,Gayle Bond,Libertarian,229
 Henry,State House,54,Thomas E Saunders,Republican,9088
@@ -1167,9 +1167,9 @@ Howard,President,,David Cobb,Green,5
 Howard,President,,Lawson Mitchell Bone,Independent,2
 Howard,President,,Ralph Nader,Independent,26
 Howard,President,,Walt Brown,Socialist,0
-Howard,U.S. Senator,,Evan Bayh,Democratic,21732
-Howard,U.S. Senator,,Albert Barger,Libertarian,368
-Howard,U.S. Senator,,Marvin Scott,Republican,14776
+Howard,U.S. Senate,,Evan Bayh,Democratic,21732
+Howard,U.S. Senate,,Albert Barger,Libertarian,368
+Howard,U.S. Senate,,Marvin Scott,Republican,14776
 Howard,Governor,,Joseph E Kernan,Democratic,16742
 Howard,Governor,,Kenn Gividen,Libertarian,415
 Howard,Governor,,"Mitchell E Daniels, Jr.",Republican,19885
@@ -1206,9 +1206,9 @@ Huntington,President,,David Cobb,Green,0
 Huntington,President,,Lawson Mitchell Bone,Independent,0
 Huntington,President,,Ralph Nader,Independent,13
 Huntington,President,,Walt Brown,Socialist,0
-Huntington,U.S. Senator,,Evan Bayh,Democratic,8125
-Huntington,U.S. Senator,,Albert Barger,Libertarian,160
-Huntington,U.S. Senator,,Marvin Scott,Republican,7103
+Huntington,U.S. Senate,,Evan Bayh,Democratic,8125
+Huntington,U.S. Senate,,Albert Barger,Libertarian,160
+Huntington,U.S. Senate,,Marvin Scott,Republican,7103
 Huntington,Governor,,Joseph E Kernan,Democratic,4953
 Huntington,Governor,,Kenn Gividen,Libertarian,183
 Huntington,Governor,,"Mitchell E Daniels, Jr.",Republican,10484
@@ -1233,9 +1233,9 @@ Jackson,President,,David Cobb,Green,0
 Jackson,President,,Lawson Mitchell Bone,Independent,0
 Jackson,President,,Ralph Nader,Independent,22
 Jackson,President,,Walt Brown,Socialist,0
-Jackson,U.S. Senator,,Evan Bayh,Democratic,10071
-Jackson,U.S. Senator,,Albert Barger,Libertarian,171
-Jackson,U.S. Senator,,Marvin Scott,Republican,5944
+Jackson,U.S. Senate,,Evan Bayh,Democratic,10071
+Jackson,U.S. Senate,,Albert Barger,Libertarian,171
+Jackson,U.S. Senate,,Marvin Scott,Republican,5944
 Jackson,Governor,,Joseph E Kernan,Democratic,6527
 Jackson,Governor,,Kenn Gividen,Libertarian,191
 Jackson,Governor,,"Mitchell E Daniels, Jr.",Republican,9587
@@ -1249,7 +1249,7 @@ Jackson,Superintendent Of Public Instruction,,Suellen Reed,Republican,9128
 Jackson,U.S. House,9,Baron Hill,Democratic,8074
 Jackson,U.S. House,9,Al Cox,Libertarian,246
 Jackson,U.S. House,9,Mike Sodrel,Republican,7981
-Jackson,State Senator,44,Brent E Steele,Republican,11238
+Jackson,State Senate,44,Brent E Steele,Republican,11238
 Jackson,State House,65,Kent B Van Cleave,Libertarian,256
 Jackson,State House,65,Eric Allan Koch,Republican,2643
 Jackson,State House,69,Markt Lance Lytle,Democratic,0
@@ -1269,9 +1269,9 @@ Jasper,President,,David Cobb,Green,0
 Jasper,President,,Lawson Mitchell Bone,Independent,1
 Jasper,President,,Ralph Nader,Independent,6
 Jasper,President,,Walt Brown,Socialist,0
-Jasper,U.S. Senator,,Evan Bayh,Democratic,5727
-Jasper,U.S. Senator,,Albert Barger,Libertarian,130
-Jasper,U.S. Senator,,Marvin Scott,Republican,5772
+Jasper,U.S. Senate,,Evan Bayh,Democratic,5727
+Jasper,U.S. Senate,,Albert Barger,Libertarian,130
+Jasper,U.S. Senate,,Marvin Scott,Republican,5772
 Jasper,Governor,,Joseph E Kernan,Democratic,4701
 Jasper,Governor,,Kenn Gividen,Libertarian,167
 Jasper,Governor,,"Mitchell E Daniels, Jr.",Republican,6781
@@ -1285,9 +1285,9 @@ Jasper,Superintendent Of Public Instruction,,Suellen Reed,Republican,7102
 Jasper,U.S. House,4,David Avram Sanders,Democratic,0
 Jasper,U.S. House,4,Kevin R Fleming,Libertarian,0
 Jasper,U.S. House,4,Steve Buyer,Republican,0
-Jasper,State Senator,5,Nancy J Dembowski,Democratic,683
-Jasper,State Senator,5,Victor R Heinold,Republican,949
-Jasper,State Senator,7,Brandt Hershman,Republican,7368
+Jasper,State Senate,5,Nancy J Dembowski,Democratic,683
+Jasper,State Senate,5,Victor R Heinold,Republican,949
+Jasper,State Senate,7,Brandt Hershman,Republican,7368
 Jasper,State House,13,Chester F Dobis,Democratic,0
 Jasper,State House,13,Joseph M Hero,Republican,0
 Jasper,State House,16,Eric A Gutwein,Republican,6457
@@ -1303,9 +1303,9 @@ Jay,President,,David Cobb,Green,1
 Jay,President,,Lawson Mitchell Bone,Independent,0
 Jay,President,,Ralph Nader,Independent,4
 Jay,President,,Walt Brown,Socialist,0
-Jay,U.S. Senator,,Evan Bayh,Democratic,5117
-Jay,U.S. Senator,,Albert Barger,Libertarian,94
-Jay,U.S. Senator,,Marvin Scott,Republican,2845
+Jay,U.S. Senate,,Evan Bayh,Democratic,5117
+Jay,U.S. Senate,,Albert Barger,Libertarian,94
+Jay,U.S. Senate,,Marvin Scott,Republican,2845
 Jay,Governor,,Joseph E Kernan,Democratic,3453
 Jay,Governor,,Kenn Gividen,Libertarian,80
 Jay,Governor,,"Mitchell E Daniels, Jr.",Republican,4537
@@ -1333,9 +1333,9 @@ Jefferson,President,,David Cobb,Green,0
 Jefferson,President,,Lawson Mitchell Bone,Independent,0
 Jefferson,President,,Ralph Nader,Independent,0
 Jefferson,President,,Walt Brown,Socialist,0
-Jefferson,U.S. Senator,,Evan Bayh,Democratic,7794
-Jefferson,U.S. Senator,,Albert Barger,Libertarian,142
-Jefferson,U.S. Senator,,Marvin Scott,Republican,4764
+Jefferson,U.S. Senate,,Evan Bayh,Democratic,7794
+Jefferson,U.S. Senate,,Albert Barger,Libertarian,142
+Jefferson,U.S. Senate,,Marvin Scott,Republican,4764
 Jefferson,Governor,,Joseph E Kernan,Democratic,6109
 Jefferson,Governor,,Kenn Gividen,Libertarian,150
 Jefferson,Governor,,"Mitchell E Daniels, Jr.",Republican,6542
@@ -1369,9 +1369,9 @@ Jennings,President,,David Cobb,Green,0
 Jennings,President,,Lawson Mitchell Bone,Independent,0
 Jennings,President,,Ralph Nader,Independent,0
 Jennings,President,,Walt Brown,Socialist,0
-Jennings,U.S. Senator,,Evan Bayh,Democratic,6349
-Jennings,U.S. Senator,,Albert Barger,Libertarian,125
-Jennings,U.S. Senator,,Marvin Scott,Republican,3944
+Jennings,U.S. Senate,,Evan Bayh,Democratic,6349
+Jennings,U.S. Senate,,Albert Barger,Libertarian,125
+Jennings,U.S. Senate,,Marvin Scott,Republican,3944
 Jennings,Governor,,Joseph E Kernan,Democratic,4482
 Jennings,Governor,,Kenn Gividen,Libertarian,190
 Jennings,Governor,,"Mitchell E Daniels, Jr.",Republican,5806
@@ -1401,9 +1401,9 @@ Johnson,President,,David Cobb,Green,1
 Johnson,President,,Lawson Mitchell Bone,Independent,0
 Johnson,President,,Ralph Nader,Independent,63
 Johnson,President,,Walt Brown,Socialist,1
-Johnson,U.S. Senator,,Evan Bayh,Democratic,27149
-Johnson,U.S. Senator,,Albert Barger,Libertarian,506
-Johnson,U.S. Senator,,Marvin Scott,Republican,23330
+Johnson,U.S. Senate,,Evan Bayh,Democratic,27149
+Johnson,U.S. Senate,,Albert Barger,Libertarian,506
+Johnson,U.S. Senate,,Marvin Scott,Republican,23330
 Johnson,Governor,,Joseph E Kernan,Democratic,16253
 Johnson,Governor,,Kenn Gividen,Libertarian,701
 Johnson,Governor,,"Mitchell E Daniels, Jr.",Republican,34269
@@ -1417,10 +1417,10 @@ Johnson,Superintendent Of Public Instruction,,Suellen Reed,Republican,34834
 Johnson,U.S. House,9,Baron Hill,Democratic,0
 Johnson,U.S. House,9,Al Cox,Libertarian,0
 Johnson,U.S. House,9,Mike Sodrel,Republican,0
-Johnson,State Senator,36,Terry Rice,Democratic,3216
-Johnson,State Senator,36,"Darryl Brent Waltz, Jr.",Republican,8249
-Johnson,State Senator,37,Kristin Szczerbik,Democratic,983
-Johnson,State Senator,37,Richard D Bray,Republican,3181
+Johnson,State Senate,36,Terry Rice,Democratic,3216
+Johnson,State Senate,36,"Darryl Brent Waltz, Jr.",Republican,8249
+Johnson,State Senate,37,Kristin Szczerbik,Democratic,983
+Johnson,State Senate,37,Richard D Bray,Republican,3181
 Johnson,State House,47,Ralph M Foley,Republican,2073
 Johnson,State House,58,Greg Turley,Democratic,7420
 Johnson,State House,58,Woody Burton,Republican,18766
@@ -1438,9 +1438,9 @@ Knox,President,,David Cobb,Green,0
 Knox,President,,Lawson Mitchell Bone,Independent,0
 Knox,President,,Ralph Nader,Independent,3
 Knox,President,,Walt Brown,Socialist,0
-Knox,U.S. Senator,,Evan Bayh,Democratic,11130
-Knox,U.S. Senator,,Albert Barger,Libertarian,155
-Knox,U.S. Senator,,Marvin Scott,Republican,4275
+Knox,U.S. Senate,,Evan Bayh,Democratic,11130
+Knox,U.S. Senate,,Albert Barger,Libertarian,155
+Knox,U.S. Senate,,Marvin Scott,Republican,4275
 Knox,Governor,,Joseph E Kernan,Democratic,7797
 Knox,Governor,,Kenn Gividen,Libertarian,228
 Knox,Governor,,"Mitchell E Daniels, Jr.",Republican,7569
@@ -1470,9 +1470,9 @@ Kosciusko,President,,David Cobb,Green,0
 Kosciusko,President,,Lawson Mitchell Bone,Independent,0
 Kosciusko,President,,Ralph Nader,Independent,4
 Kosciusko,President,,Walt Brown,Socialist,0
-Kosciusko,U.S. Senator,,Evan Bayh,Democratic,12554
-Kosciusko,U.S. Senator,,Albert Barger,Libertarian,369
-Kosciusko,U.S. Senator,,Marvin Scott,Republican,14574
+Kosciusko,U.S. Senate,,Evan Bayh,Democratic,12554
+Kosciusko,U.S. Senate,,Albert Barger,Libertarian,369
+Kosciusko,U.S. Senate,,Marvin Scott,Republican,14574
 Kosciusko,Governor,,Joseph E Kernan,Democratic,7885
 Kosciusko,Governor,,Kenn Gividen,Libertarian,316
 Kosciusko,Governor,,"Mitchell E Daniels, Jr.",Republican,20047
@@ -1488,10 +1488,10 @@ Kosciusko,U.S. House,2,Douglas Barnes,Libertarian,0
 Kosciusko,U.S. House,2,J Chris Chocola,Republican,0
 Kosciusko,U.S. House,3,Maria M Parra,Democratic,5444
 Kosciusko,U.S. House,3,Mark E Souder,Republican,22430
-Kosciusko,State Senator,9,Ryan D Mishler,Republican,14901
-Kosciusko,State Senator,12,Charles D Mumaw,Democratic,0
-Kosciusko,State Senator,12,Marvin Dean Riegsecker,Republican,0
-Kosciusko,State Senator,18,Thomas K Weatherwax,Republican,2067
+Kosciusko,State Senate,9,Ryan D Mishler,Republican,14901
+Kosciusko,State Senate,12,Charles D Mumaw,Democratic,0
+Kosciusko,State Senate,12,Marvin Dean Riegsecker,Republican,0
+Kosciusko,State Senate,18,Thomas K Weatherwax,Republican,2067
 Kosciusko,State House,18,David A Wolkins,Republican,11697
 Kosciusko,State House,22,William J Bill Ruppel,Republican,8105
 Kosciusko,Clerk Of The Circuit Court,Kosciusko County,Sharon Christner,Republican,23762
@@ -1506,9 +1506,9 @@ LaGrange,President,,David Cobb,Green,0
 LaGrange,President,,Lawson Mitchell Bone,Independent,0
 LaGrange,President,,Ralph Nader,Independent,0
 LaGrange,President,,Walt Brown,Socialist,0
-LaGrange,U.S. Senator,,Evan Bayh,Democratic,4865
-LaGrange,U.S. Senator,,Albert Barger,Libertarian,90
-LaGrange,U.S. Senator,,Marvin Scott,Republican,4006
+LaGrange,U.S. Senate,,Evan Bayh,Democratic,4865
+LaGrange,U.S. Senate,,Albert Barger,Libertarian,90
+LaGrange,U.S. Senate,,Marvin Scott,Republican,4006
 LaGrange,Governor,,Joseph E Kernan,Democratic,3171
 LaGrange,Governor,,Kenn Gividen,Libertarian,97
 LaGrange,Governor,,"Mitchell E Daniels, Jr.",Republican,5748
@@ -1521,7 +1521,7 @@ LaGrange,Superintendent Of Public Instruction,,Joe Hauptmann,Libertarian,254
 LaGrange,Superintendent Of Public Instruction,,Suellen Reed,Republican,5911
 LaGrange,U.S. House,3,Maria M Parra,Democratic,2250
 LaGrange,U.S. House,3,Mark E Souder,Republican,6603
-LaGrange,State Senator,13,Robert L Meeks,Republican,7506
+LaGrange,State Senate,13,Robert L Meeks,Republican,7506
 LaGrange,State House,51,James B Mason,Democratic,0
 LaGrange,State House,51,Richard A Dick Dodge,Republican,0
 LaGrange,State House,82,Jeffrey Keller Espich,Republican,0
@@ -1538,9 +1538,9 @@ Lake,President,,David Cobb,Green,0
 Lake,President,,Lawson Mitchell Bone,Independent,0
 Lake,President,,Ralph Nader,Independent,0
 Lake,President,,Walt Brown,Socialist,0
-Lake,U.S. Senator,,Evan Bayh,Democratic,130450
-Lake,U.S. Senator,,Albert Barger,Libertarian,2320
-Lake,U.S. Senator,,Marvin Scott,Republican,49919
+Lake,U.S. Senate,,Evan Bayh,Democratic,130450
+Lake,U.S. Senate,,Albert Barger,Libertarian,2320
+Lake,U.S. Senate,,Marvin Scott,Republican,49919
 Lake,Governor,,Joseph E Kernan,Democratic,118697
 Lake,Governor,,Kenn Gividen,Libertarian,2617
 Lake,Governor,,"Mitchell E Daniels, Jr.",Republican,61720
@@ -1553,9 +1553,9 @@ Lake,Superintendent Of Public Instruction,,Joe Hauptmann,Libertarian,4265
 Lake,Superintendent Of Public Instruction,,Suellen Reed,Republican,60131
 Lake,U.S. House,1,Peter J Visclosky,Democratic,130430
 Lake,U.S. House,1,Mark J Leyva,Republican,51548
-Lake,State Senator,2,"Samuel Smith, Jr.",Democratic,29402
-Lake,State Senator,2,Bruce Parisi,Libertarian,2506
-Lake,State Senator,3,Earline S Rogers,Democratic,36770
+Lake,State Senate,2,"Samuel Smith, Jr.",Democratic,29402
+Lake,State Senate,2,Bruce Parisi,Libertarian,2506
+Lake,State Senate,3,Earline S Rogers,Democratic,36770
 Lake,State House,1,Linda C Lawson,Democratic,11926
 Lake,State House,1,Jerome R Baffa,Republican,7820
 Lake,State House,2,Earl L Harris,Democratic,16853
@@ -1589,9 +1589,9 @@ LaPorte,President,,David Cobb,Green,3
 LaPorte,President,,Lawson Mitchell Bone,Independent,0
 LaPorte,President,,Ralph Nader,Independent,19
 LaPorte,President,,Walt Brown,Socialist,2
-LaPorte,U.S. Senator,,Evan Bayh,Democratic,28826
-LaPorte,U.S. Senator,,Albert Barger,Libertarian,840
-LaPorte,U.S. Senator,,Marvin Scott,Republican,11685
+LaPorte,U.S. Senate,,Evan Bayh,Democratic,28826
+LaPorte,U.S. Senate,,Albert Barger,Libertarian,840
+LaPorte,U.S. Senate,,Marvin Scott,Republican,11685
 LaPorte,Governor,,Joseph E Kernan,Democratic,25049
 LaPorte,Governor,,Kenn Gividen,Libertarian,881
 LaPorte,Governor,,"Mitchell E Daniels, Jr.",Republican,16234
@@ -1607,11 +1607,11 @@ LaPorte,U.S. House,1,Mark J Leyva,Republican,0
 LaPorte,U.S. House,2,Joseph S Donnelly,Democratic,21693
 LaPorte,U.S. House,2,Douglas Barnes,Libertarian,931
 LaPorte,U.S. House,2,J Chris Chocola,Republican,19641
-LaPorte,State Senator,5,Nancy J Dembowski,Democratic,1206
-LaPorte,State Senator,5,Victor R Heinold,Republican,1355
-LaPorte,State Senator,8,Anita O Bowser,Democratic,21457
-LaPorte,State Senator,8,Janet F Gillon,Libertarian,1586
-LaPorte,State Senator,8,"Allen L Stevens, Jr.",Republican,16066
+LaPorte,State Senate,5,Nancy J Dembowski,Democratic,1206
+LaPorte,State Senate,5,Victor R Heinold,Republican,1355
+LaPorte,State Senate,8,Anita O Bowser,Democratic,21457
+LaPorte,State Senate,8,Janet F Gillon,Libertarian,1586
+LaPorte,State Senate,8,"Allen L Stevens, Jr.",Republican,16066
 LaPorte,State House,8,Ryan M Dvorak,Democratic,0
 LaPorte,State House,9,Scott D Pelath,Democratic,17110
 LaPorte,State House,9,Gregory D Kelver,Libertarian,2176
@@ -1639,9 +1639,9 @@ Lawrence,President,,David Cobb,Green,0
 Lawrence,President,,Lawson Mitchell Bone,Independent,0
 Lawrence,President,,Ralph Nader,Independent,0
 Lawrence,President,,Walt Brown,Socialist,0
-Lawrence,U.S. Senator,,Evan Bayh,Democratic,9132
-Lawrence,U.S. Senator,,Albert Barger,Libertarian,242
-Lawrence,U.S. Senator,,Marvin Scott,Republican,8064
+Lawrence,U.S. Senate,,Evan Bayh,Democratic,9132
+Lawrence,U.S. Senate,,Albert Barger,Libertarian,242
+Lawrence,U.S. Senate,,Marvin Scott,Republican,8064
 Lawrence,Governor,,Joseph E Kernan,Democratic,5904
 Lawrence,Governor,,Kenn Gividen,Libertarian,257
 Lawrence,Governor,,"Mitchell E Daniels, Jr.",Republican,11480
@@ -1655,7 +1655,7 @@ Lawrence,Superintendent Of Public Instruction,,Suellen Reed,Republican,10482
 Lawrence,U.S. House,9,Baron Hill,Democratic,0
 Lawrence,U.S. House,9,Al Cox,Libertarian,0
 Lawrence,U.S. House,9,Mike Sodrel,Republican,0
-Lawrence,State Senator,44,Brent E Steele,Republican,13619
+Lawrence,State Senate,44,Brent E Steele,Republican,13619
 Lawrence,State House,65,Kent B Van Cleave,Libertarian,707
 Lawrence,State House,65,Eric Allan Koch,Republican,8331
 Lawrence,State House,73,Dennie Oxley,Democratic,0
@@ -1673,9 +1673,9 @@ Madison,President,,David Cobb,Green,0
 Madison,President,,Lawson Mitchell Bone,Independent,0
 Madison,President,,Ralph Nader,Independent,3
 Madison,President,,Walt Brown,Socialist,0
-Madison,U.S. Senator,,Evan Bayh,Democratic,34379
-Madison,U.S. Senator,,Albert Barger,Libertarian,524
-Madison,U.S. Senator,,Marvin Scott,Republican,18541
+Madison,U.S. Senate,,Evan Bayh,Democratic,34379
+Madison,U.S. Senate,,Albert Barger,Libertarian,524
+Madison,U.S. Senate,,Marvin Scott,Republican,18541
 Madison,Governor,,Joseph E Kernan,Democratic,25972
 Madison,Governor,,Kenn Gividen,Libertarian,623
 Madison,Governor,,"Mitchell E Daniels, Jr.",Republican,28142
@@ -1712,9 +1712,9 @@ Marion,President,,David Cobb,Green,9
 Marion,President,,Lawson Mitchell Bone,Independent,0
 Marion,President,,Ralph Nader,Independent,131
 Marion,President,,Walt Brown,Socialist,1
-Marion,U.S. Senator,,Evan Bayh,Democratic,210107
-Marion,U.S. Senator,,Albert Barger,Libertarian,3047
-Marion,U.S. Senator,,Marvin Scott,Republican,104819
+Marion,U.S. Senate,,Evan Bayh,Democratic,210107
+Marion,U.S. Senate,,Albert Barger,Libertarian,3047
+Marion,U.S. Senate,,Marvin Scott,Republican,104819
 Marion,Governor,,Joseph E Kernan,Democratic,167097
 Marion,Governor,,Kenn Gividen,Libertarian,3895
 Marion,Governor,,"Mitchell E Daniels, Jr.",Republican,148825
@@ -1731,20 +1731,20 @@ Marion,U.S. House,5,Dan Burton,Republican,50429
 Marion,U.S. House,7,Julia M Carson,Democratic,121303
 Marion,U.S. House,7,Barry Campbell,Libertarian,4381
 Marion,U.S. House,7,Andrew Horning,Republican,97491
-Marion,State Senator,28,Brett S Glaze,Libertarian,0
-Marion,State Senator,28,Beverly J Gard,Republican,0
-Marion,State Senator,30,Bob Cowboy Farrell,Libertarian,3993
-Marion,State Senator,30,Teresa Lubbers,Republican,30308
-Marion,State Senator,32,Kenneth C Kern,Democratic,15157
-Marion,State Senator,32,Patricia Miller,Republican,31836
-Marion,State Senator,33,Glenn L Howard,Democratic,34265
-Marion,State Senator,33,Josephine R Coleman,Libertarian,2714
-Marion,State Senator,34,Billie J Breaux,Democratic,30893
-Marion,State Senator,35,Harvey E Knox,Democratic,10942
-Marion,State Senator,35,Shane Wheeler,Libertarian,772
-Marion,State Senator,35,R Michael Young,Republican,14678
-Marion,State Senator,36,Terry Rice,Democratic,12966
-Marion,State Senator,36,"Darryl Brent Waltz, Jr.",Republican,17864
+Marion,State Senate,28,Brett S Glaze,Libertarian,0
+Marion,State Senate,28,Beverly J Gard,Republican,0
+Marion,State Senate,30,Bob Cowboy Farrell,Libertarian,3993
+Marion,State Senate,30,Teresa Lubbers,Republican,30308
+Marion,State Senate,32,Kenneth C Kern,Democratic,15157
+Marion,State Senate,32,Patricia Miller,Republican,31836
+Marion,State Senate,33,Glenn L Howard,Democratic,34265
+Marion,State Senate,33,Josephine R Coleman,Libertarian,2714
+Marion,State Senate,34,Billie J Breaux,Democratic,30893
+Marion,State Senate,35,Harvey E Knox,Democratic,10942
+Marion,State Senate,35,Shane Wheeler,Libertarian,772
+Marion,State Senate,35,R Michael Young,Republican,14678
+Marion,State Senate,36,Terry Rice,Democratic,12966
+Marion,State Senate,36,"Darryl Brent Waltz, Jr.",Republican,17864
 Marion,State House,86,David Orentlicher,Democratic,13058
 Marion,State House,86,Sam Goldstein,Libertarian,461
 Marion,State House,86,Morton R Large,Republican,8994
@@ -1789,9 +1789,9 @@ Marshall,President,,David Cobb,Green,1
 Marshall,President,,Lawson Mitchell Bone,Independent,0
 Marshall,President,,Ralph Nader,Independent,16
 Marshall,President,,Walt Brown,Socialist,0
-Marshall,U.S. Senator,,Evan Bayh,Democratic,10111
-Marshall,U.S. Senator,,Albert Barger,Libertarian,174
-Marshall,U.S. Senator,,Marvin Scott,Republican,7293
+Marshall,U.S. Senate,,Evan Bayh,Democratic,10111
+Marshall,U.S. Senate,,Albert Barger,Libertarian,174
+Marshall,U.S. Senate,,Marvin Scott,Republican,7293
 Marshall,Governor,,Joseph E Kernan,Democratic,6756
 Marshall,Governor,,Kenn Gividen,Libertarian,204
 Marshall,Governor,,"Mitchell E Daniels, Jr.",Republican,10745
@@ -1805,8 +1805,8 @@ Marshall,Superintendent Of Public Instruction,,Suellen Reed,Republican,10889
 Marshall,U.S. House,2,Joseph S Donnelly,Democratic,5843
 Marshall,U.S. House,2,Douglas Barnes,Libertarian,203
 Marshall,U.S. House,2,J Chris Chocola,Republican,11546
-Marshall,State Senator,9,Ryan D Mishler,Republican,4553
-Marshall,State Senator,18,Thomas K Weatherwax,Republican,0
+Marshall,State Senate,9,Ryan D Mishler,Republican,4553
+Marshall,State Senate,18,Thomas K Weatherwax,Republican,0
 Marshall,State House,17,David A Mcliver,Democratic,4146
 Marshall,State House,17,Steven Heim,Republican,8306
 Marshall,State House,17,Kevin Francis Foley,Independent,421
@@ -1825,9 +1825,9 @@ Martin,President,,David Cobb,Green,0
 Martin,President,,Lawson Mitchell Bone,Independent,0
 Martin,President,,Ralph Nader,Independent,2
 Martin,President,,Walt Brown,Socialist,0
-Martin,U.S. Senator,,Evan Bayh,Democratic,3297
-Martin,U.S. Senator,,Albert Barger,Libertarian,58
-Martin,U.S. Senator,,Marvin Scott,Republican,1587
+Martin,U.S. Senate,,Evan Bayh,Democratic,3297
+Martin,U.S. Senate,,Albert Barger,Libertarian,58
+Martin,U.S. Senate,,Marvin Scott,Republican,1587
 Martin,Governor,,Joseph E Kernan,Democratic,2205
 Martin,Governor,,Kenn Gividen,Libertarian,94
 Martin,Governor,,"Mitchell E Daniels, Jr.",Republican,2664
@@ -1860,9 +1860,9 @@ Miami,President,,David Cobb,Green,1
 Miami,President,,Lawson Mitchell Bone,Independent,0
 Miami,President,,Ralph Nader,Independent,22
 Miami,President,,Walt Brown,Socialist,0
-Miami,U.S. Senator,,Evan Bayh,Democratic,7339
-Miami,U.S. Senator,,Albert Barger,Libertarian,168
-Miami,U.S. Senator,,Marvin Scott,Republican,5967
+Miami,U.S. Senate,,Evan Bayh,Democratic,7339
+Miami,U.S. Senate,,Albert Barger,Libertarian,168
+Miami,U.S. Senate,,Marvin Scott,Republican,5967
 Miami,Governor,,Joseph E Kernan,Democratic,5062
 Miami,Governor,,Kenn Gividen,Libertarian,179
 Miami,Governor,,"Mitchell E Daniels, Jr.",Republican,8155
@@ -1876,7 +1876,7 @@ Miami,Superintendent Of Public Instruction,,Suellen Reed,Republican,8152
 Miami,U.S. House,2,Joseph S Donnelly,Democratic,0
 Miami,U.S. House,2,Douglas Barnes,Libertarian,0
 Miami,U.S. House,2,J Chris Chocola,Republican,0
-Miami,State Senator,18,Thomas K Weatherwax,Republican,10321
+Miami,State Senate,18,Thomas K Weatherwax,Republican,10321
 Miami,State House,18,David A Wolkins,Republican,0
 Miami,State House,23,William C Friend,Republican,6717
 Miami,Judge Of The Circuit Court,Miami 51St Circuit,Rosemary Higgins Burke,Republican,6881
@@ -1892,9 +1892,9 @@ Monroe,President,,David Cobb,Green,19
 Monroe,President,,Lawson Mitchell Bone,Independent,1
 Monroe,President,,Ralph Nader,Independent,193
 Monroe,President,,Walt Brown,Socialist,4
-Monroe,U.S. Senator,,Evan Bayh,Democratic,33821
-Monroe,U.S. Senator,,Albert Barger,Libertarian,880
-Monroe,U.S. Senator,,Marvin Scott,Republican,14396
+Monroe,U.S. Senate,,Evan Bayh,Democratic,33821
+Monroe,U.S. Senate,,Albert Barger,Libertarian,880
+Monroe,U.S. Senate,,Marvin Scott,Republican,14396
 Monroe,Governor,,Joseph E Kernan,Democratic,26317
 Monroe,Governor,,Kenn Gividen,Libertarian,1192
 Monroe,Governor,,"Mitchell E Daniels, Jr.",Republican,22031
@@ -1908,9 +1908,9 @@ Monroe,Superintendent Of Public Instruction,,Suellen Reed,Republican,22149
 Monroe,U.S. House,9,Baron Hill,Democratic,21608
 Monroe,U.S. House,9,Al Cox,Libertarian,1031
 Monroe,U.S. House,9,Mike Sodrel,Republican,14600
-Monroe,State Senator,40,Vi Simpson,Democratic,27873
-Monroe,State Senator,40,R Dale Cassiday,Republican,14222
-Monroe,State Senator,44,Brent E Steele,Republican,2372
+Monroe,State Senate,40,Vi Simpson,Democratic,27873
+Monroe,State Senate,40,R Dale Cassiday,Republican,14222
+Monroe,State Senate,44,Brent E Steele,Republican,2372
 Monroe,State House,46,Vern Tincher,Democratic,602
 Monroe,State House,46,R Brooks Laplante,Republican,413
 Monroe,State House,60,Peggy Welch,Democratic,17249
@@ -1939,9 +1939,9 @@ Montgomery,President,,David Cobb,Green,1
 Montgomery,President,,Lawson Mitchell Bone,Independent,0
 Montgomery,President,,Ralph Nader,Independent,14
 Montgomery,President,,Walt Brown,Socialist,0
-Montgomery,U.S. Senator,,Evan Bayh,Democratic,8651
-Montgomery,U.S. Senator,,Albert Barger,Libertarian,159
-Montgomery,U.S. Senator,,Marvin Scott,Republican,5635
+Montgomery,U.S. Senate,,Evan Bayh,Democratic,8651
+Montgomery,U.S. Senate,,Albert Barger,Libertarian,159
+Montgomery,U.S. Senate,,Marvin Scott,Republican,5635
 Montgomery,Governor,,Joseph E Kernan,Democratic,4711
 Montgomery,Governor,,Kenn Gividen,Libertarian,199
 Montgomery,Governor,,"Mitchell E Daniels, Jr.",Republican,9639
@@ -1974,9 +1974,9 @@ Morgan,President,,David Cobb,Green,0
 Morgan,President,,Lawson Mitchell Bone,Independent,0
 Morgan,President,,Ralph Nader,Independent,0
 Morgan,President,,Walt Brown,Socialist,0
-Morgan,U.S. Senator,,Evan Bayh,Democratic,12878
-Morgan,U.S. Senator,,Albert Barger,Libertarian,313
-Morgan,U.S. Senator,,Marvin Scott,Republican,12498
+Morgan,U.S. Senate,,Evan Bayh,Democratic,12878
+Morgan,U.S. Senate,,Albert Barger,Libertarian,313
+Morgan,U.S. Senate,,Marvin Scott,Republican,12498
 Morgan,Governor,,Joseph E Kernan,Democratic,8740
 Morgan,Governor,,Kenn Gividen,Libertarian,424
 Morgan,Governor,,"Mitchell E Daniels, Jr.",Republican,16716
@@ -1993,8 +1993,8 @@ Morgan,U.S. House,4,Steve Buyer,Republican,18238
 Morgan,U.S. House,9,Baron Hill,Democratic,0
 Morgan,U.S. House,9,Al Cox,Libertarian,0
 Morgan,U.S. House,9,Mike Sodrel,Republican,0
-Morgan,State Senator,37,Kristin Szczerbik,Democratic,5522
-Morgan,State Senator,37,Richard D Bray,Republican,17545
+Morgan,State Senate,37,Kristin Szczerbik,Democratic,5522
+Morgan,State Senate,37,Richard D Bray,Republican,17545
 Morgan,State House,44,Eric Andrew Wolfe,Democratic,0
 Morgan,State House,44,Andrew P Thomas,Republican,0
 Morgan,State House,47,Ralph M Foley,Republican,16350
@@ -2013,9 +2013,9 @@ Newton,President,,David Cobb,Green,0
 Newton,President,,Lawson Mitchell Bone,Independent,0
 Newton,President,,Ralph Nader,Independent,4
 Newton,President,,Walt Brown,Socialist,0
-Newton,U.S. Senator,,Evan Bayh,Democratic,3225
-Newton,U.S. Senator,,Albert Barger,Libertarian,91
-Newton,U.S. Senator,,Marvin Scott,Republican,2475
+Newton,U.S. Senate,,Evan Bayh,Democratic,3225
+Newton,U.S. Senate,,Albert Barger,Libertarian,91
+Newton,U.S. Senate,,Marvin Scott,Republican,2475
 Newton,Governor,,Joseph E Kernan,Democratic,2531
 Newton,Governor,,Kenn Gividen,Libertarian,111
 Newton,Governor,,"Mitchell E Daniels, Jr.",Republican,3164
@@ -2047,9 +2047,9 @@ Noble,President,,David Cobb,Green,0
 Noble,President,,Lawson Mitchell Bone,Independent,0
 Noble,President,,Ralph Nader,Independent,7
 Noble,President,,Walt Brown,Socialist,0
-Noble,U.S. Senator,,Evan Bayh,Democratic,8853
-Noble,U.S. Senator,,Albert Barger,Libertarian,160
-Noble,U.S. Senator,,Marvin Scott,Republican,6527
+Noble,U.S. Senate,,Evan Bayh,Democratic,8853
+Noble,U.S. Senate,,Albert Barger,Libertarian,160
+Noble,U.S. Senate,,Marvin Scott,Republican,6527
 Noble,Governor,,Joseph E Kernan,Democratic,5863
 Noble,Governor,,Kenn Gividen,Libertarian,176
 Noble,Governor,,"Mitchell E Daniels, Jr.",Republican,9570
@@ -2062,7 +2062,7 @@ Noble,Superintendent Of Public Instruction,,Joe Hauptmann,Libertarian,441
 Noble,Superintendent Of Public Instruction,,Suellen Reed,Republican,9494
 Noble,U.S. House,3,Maria M Parra,Democratic,4480
 Noble,U.S. House,3,Mark E Souder,Republican,10829
-Noble,State Senator,13,Robert L Meeks,Republican,12084
+Noble,State Senate,13,Robert L Meeks,Republican,12084
 Noble,State House,82,Jeffrey Keller Espich,Republican,0
 Noble,Judge Of The Circuit Court,Noble 33Rd Circuit,G David Laur,Republican,11783
 Noble,Clerk Of The Circuit Court,Noble County,Jacqueline L Summe-Knafel,Democratic,6050
@@ -2079,9 +2079,9 @@ Ohio,President,,David Cobb,Green,0
 Ohio,President,,Lawson Mitchell Bone,Independent,0
 Ohio,President,,Ralph Nader,Independent,0
 Ohio,President,,Walt Brown,Socialist,0
-Ohio,U.S. Senator,,Evan Bayh,Democratic,1572
-Ohio,U.S. Senator,,Albert Barger,Libertarian,37
-Ohio,U.S. Senator,,Marvin Scott,Republican,1282
+Ohio,U.S. Senate,,Evan Bayh,Democratic,1572
+Ohio,U.S. Senate,,Albert Barger,Libertarian,37
+Ohio,U.S. Senate,,Marvin Scott,Republican,1282
 Ohio,Governor,,Joseph E Kernan,Democratic,1328
 Ohio,Governor,,Kenn Gividen,Libertarian,41
 Ohio,Governor,,"Mitchell E Daniels, Jr.",Republican,1512
@@ -2110,9 +2110,9 @@ Orange,President,,David Cobb,Green,1
 Orange,President,,Lawson Mitchell Bone,Independent,0
 Orange,President,,Ralph Nader,Independent,5
 Orange,President,,Walt Brown,Socialist,0
-Orange,U.S. Senator,,Evan Bayh,Democratic,5056
-Orange,U.S. Senator,,Albert Barger,Libertarian,89
-Orange,U.S. Senator,,Marvin Scott,Republican,3127
+Orange,U.S. Senate,,Evan Bayh,Democratic,5056
+Orange,U.S. Senate,,Albert Barger,Libertarian,89
+Orange,U.S. Senate,,Marvin Scott,Republican,3127
 Orange,Governor,,Joseph E Kernan,Democratic,3621
 Orange,Governor,,Kenn Gividen,Libertarian,109
 Orange,Governor,,"Mitchell E Daniels, Jr.",Republican,4818
@@ -2145,9 +2145,9 @@ Owen,President,,David Cobb,Green,0
 Owen,President,,Lawson Mitchell Bone,Independent,0
 Owen,President,,Ralph Nader,Independent,0
 Owen,President,,Walt Brown,Socialist,0
-Owen,U.S. Senator,,Evan Bayh,Democratic,4538
-Owen,U.S. Senator,,Albert Barger,Libertarian,114
-Owen,U.S. Senator,,Marvin Scott,Republican,2851
+Owen,U.S. Senate,,Evan Bayh,Democratic,4538
+Owen,U.S. Senate,,Albert Barger,Libertarian,114
+Owen,U.S. Senate,,Marvin Scott,Republican,2851
 Owen,Governor,,Joseph E Kernan,Democratic,3249
 Owen,Governor,,Kenn Gividen,Libertarian,176
 Owen,Governor,,"Mitchell E Daniels, Jr.",Republican,4179
@@ -2161,8 +2161,8 @@ Owen,Superintendent Of Public Instruction,,Suellen Reed,Republican,4209
 Owen,U.S. House,8,Jon P Jennings,Democratic,2730
 Owen,U.S. House,8,Mark Garvin,Libertarian,223
 Owen,U.S. House,8,John N Hostettler,Republican,4489
-Owen,State Senator,37,Kristin Szczerbik,Democratic,1604
-Owen,State Senator,37,Richard D Bray,Republican,3295
+Owen,State Senate,37,Kristin Szczerbik,Democratic,1604
+Owen,State Senate,37,Richard D Bray,Republican,3295
 Owen,State House,44,Eric Andrew Wolfe,Democratic,0
 Owen,State House,44,Andrew P Thomas,Republican,0
 Owen,State House,46,Vern Tincher,Democratic,3762
@@ -2177,9 +2177,9 @@ Parke,President,,David Cobb,Green,0
 Parke,President,,Lawson Mitchell Bone,Independent,0
 Parke,President,,Ralph Nader,Independent,0
 Parke,President,,Walt Brown,Socialist,0
-Parke,U.S. Senator,,Evan Bayh,Democratic,4480
-Parke,U.S. Senator,,Albert Barger,Libertarian,78
-Parke,U.S. Senator,,Marvin Scott,Republican,2249
+Parke,U.S. Senate,,Evan Bayh,Democratic,4480
+Parke,U.S. Senate,,Albert Barger,Libertarian,78
+Parke,U.S. Senate,,Marvin Scott,Republican,2249
 Parke,Governor,,Joseph E Kernan,Democratic,3101
 Parke,Governor,,Kenn Gividen,Libertarian,108
 Parke,Governor,,"Mitchell E Daniels, Jr.",Republican,3745
@@ -2211,9 +2211,9 @@ Perry,President,,David Cobb,Green,0
 Perry,President,,Lawson Mitchell Bone,Independent,0
 Perry,President,,Ralph Nader,Independent,2
 Perry,President,,Walt Brown,Socialist,0
-Perry,U.S. Senator,,Evan Bayh,Democratic,5790
-Perry,U.S. Senator,,Albert Barger,Libertarian,62
-Perry,U.S. Senator,,Marvin Scott,Republican,2234
+Perry,U.S. Senate,,Evan Bayh,Democratic,5790
+Perry,U.S. Senate,,Albert Barger,Libertarian,62
+Perry,U.S. Senate,,Marvin Scott,Republican,2234
 Perry,Governor,,Joseph E Kernan,Democratic,4640
 Perry,Governor,,Kenn Gividen,Libertarian,64
 Perry,Governor,,"Mitchell E Daniels, Jr.",Republican,3559
@@ -2240,9 +2240,9 @@ Pike,President,,David Cobb,Green,0
 Pike,President,,Lawson Mitchell Bone,Independent,0
 Pike,President,,Ralph Nader,Independent,0
 Pike,President,,Walt Brown,Socialist,0
-Pike,U.S. Senator,,Evan Bayh,Democratic,4209
-Pike,U.S. Senator,,Albert Barger,Libertarian,59
-Pike,U.S. Senator,,Marvin Scott,Republican,1765
+Pike,U.S. Senate,,Evan Bayh,Democratic,4209
+Pike,U.S. Senate,,Albert Barger,Libertarian,59
+Pike,U.S. Senate,,Marvin Scott,Republican,1765
 Pike,Governor,,Joseph E Kernan,Democratic,3510
 Pike,Governor,,Kenn Gividen,Libertarian,99
 Pike,Governor,,"Mitchell E Daniels, Jr.",Republican,2517
@@ -2277,9 +2277,9 @@ Porter,President,,David Cobb,Green,3
 Porter,President,,Lawson Mitchell Bone,Independent,0
 Porter,President,,Ralph Nader,Independent,17
 Porter,President,,Walt Brown,Socialist,0
-Porter,U.S. Senator,,Evan Bayh,Democratic,39876
-Porter,U.S. Senator,,Albert Barger,Libertarian,1159
-Porter,U.S. Senator,,Marvin Scott,Republican,21411
+Porter,U.S. Senate,,Evan Bayh,Democratic,39876
+Porter,U.S. Senate,,Albert Barger,Libertarian,1159
+Porter,U.S. Senate,,Marvin Scott,Republican,21411
 Porter,Governor,,Joseph E Kernan,Democratic,35206
 Porter,Governor,,Kenn Gividen,Libertarian,1108
 Porter,Governor,,"Mitchell E Daniels, Jr.",Republican,27565
@@ -2292,8 +2292,8 @@ Porter,Superintendent Of Public Instruction,,Joe Hauptmann,Libertarian,2199
 Porter,Superintendent Of Public Instruction,,Suellen Reed,Republican,29445
 Porter,U.S. House,1,Peter J Visclosky,Democratic,38259
 Porter,U.S. House,1,Mark J Leyva,Republican,20144
-Porter,State Senator,5,Nancy J Dembowski,Democratic,10285
-Porter,State Senator,5,Victor R Heinold,Republican,12320
+Porter,State Senate,5,Nancy J Dembowski,Democratic,10285
+Porter,State Senate,5,Victor R Heinold,Republican,12320
 Porter,State House,4,Barry D Slegers,Democratic,6571
 Porter,State House,4,Ralph Donald Ayres,Republican,15926
 Porter,State House,9,Scott D Pelath,Democratic,0
@@ -2318,9 +2318,9 @@ Posey,President,,David Cobb,Green,0
 Posey,President,,Lawson Mitchell Bone,Independent,0
 Posey,President,,Ralph Nader,Independent,0
 Posey,President,,Walt Brown,Socialist,0
-Posey,U.S. Senator,,Evan Bayh,Democratic,8052
-Posey,U.S. Senator,,Albert Barger,Libertarian,88
-Posey,U.S. Senator,,Marvin Scott,Republican,3523
+Posey,U.S. Senate,,Evan Bayh,Democratic,8052
+Posey,U.S. Senate,,Albert Barger,Libertarian,88
+Posey,U.S. Senate,,Marvin Scott,Republican,3523
 Posey,Governor,,Joseph E Kernan,Democratic,5525
 Posey,Governor,,Kenn Gividen,Libertarian,109
 Posey,Governor,,"Mitchell E Daniels, Jr.",Republican,6252
@@ -2349,9 +2349,9 @@ Pulaski,President,,David Cobb,Green,0
 Pulaski,President,,Lawson Mitchell Bone,Independent,0
 Pulaski,President,,Ralph Nader,Independent,11
 Pulaski,President,,Walt Brown,Socialist,0
-Pulaski,U.S. Senator,,Evan Bayh,Democratic,3328
-Pulaski,U.S. Senator,,Albert Barger,Libertarian,65
-Pulaski,U.S. Senator,,Marvin Scott,Republican,2236
+Pulaski,U.S. Senate,,Evan Bayh,Democratic,3328
+Pulaski,U.S. Senate,,Albert Barger,Libertarian,65
+Pulaski,U.S. Senate,,Marvin Scott,Republican,2236
 Pulaski,Governor,,Joseph E Kernan,Democratic,2267
 Pulaski,Governor,,Kenn Gividen,Libertarian,61
 Pulaski,Governor,,"Mitchell E Daniels, Jr.",Republican,3185
@@ -2365,8 +2365,8 @@ Pulaski,Superintendent Of Public Instruction,,Suellen Reed,Republican,3185
 Pulaski,U.S. House,2,Joseph S Donnelly,Democratic,1954
 Pulaski,U.S. House,2,Douglas Barnes,Libertarian,79
 Pulaski,U.S. House,2,J Chris Chocola,Republican,3599
-Pulaski,State Senator,5,Nancy J Dembowski,Democratic,483
-Pulaski,State Senator,5,Victor R Heinold,Republican,357
+Pulaski,State Senate,5,Nancy J Dembowski,Democratic,483
+Pulaski,State Senate,5,Victor R Heinold,Republican,357
 Pulaski,State House,16,Eric A Gutwein,Republican,962
 Pulaski,County Auditor,Pulaski County,Thomas P Shank,Republican,3893
 Pulaski,County Recorder,Pulaski County,Valerie A Powers,Democratic,2216
@@ -2380,9 +2380,9 @@ Putnam,President,,David Cobb,Green,0
 Putnam,President,,Lawson Mitchell Bone,Independent,0
 Putnam,President,,Ralph Nader,Independent,9
 Putnam,President,,Walt Brown,Socialist,0
-Putnam,U.S. Senator,,Evan Bayh,Democratic,7683
-Putnam,U.S. Senator,,Albert Barger,Libertarian,134
-Putnam,U.S. Senator,,Marvin Scott,Republican,5185
+Putnam,U.S. Senate,,Evan Bayh,Democratic,7683
+Putnam,U.S. Senate,,Albert Barger,Libertarian,134
+Putnam,U.S. Senate,,Marvin Scott,Republican,5185
 Putnam,Governor,,Joseph E Kernan,Democratic,4984
 Putnam,Governor,,Kenn Gividen,Libertarian,185
 Putnam,Governor,,"Mitchell E Daniels, Jr.",Republican,8002
@@ -2396,9 +2396,9 @@ Putnam,Superintendent Of Public Instruction,,Suellen Reed,Republican,7884
 Putnam,U.S. House,4,David Avram Sanders,Democratic,0
 Putnam,U.S. House,4,Kevin R Fleming,Libertarian,0
 Putnam,U.S. House,4,Steve Buyer,Republican,0
-Putnam,State Senator,24,Connie Lawson,Republican,7420
-Putnam,State Senator,37,Kristin Szczerbik,Democratic,993
-Putnam,State Senator,37,Richard D Bray,Republican,2491
+Putnam,State Senate,24,Connie Lawson,Republican,7420
+Putnam,State Senate,37,Kristin Szczerbik,Democratic,993
+Putnam,State Senate,37,Richard D Bray,Republican,2491
 Putnam,State House,44,Eric Andrew Wolfe,Democratic,4171
 Putnam,State House,44,Andrew P Thomas,Republican,8734
 Putnam,Judge Of The Circuit Court,Putnam 64Th Circuit,Matthew Headley,Republican,10017
@@ -2414,9 +2414,9 @@ Randolph,President,,David Cobb,Green,0
 Randolph,President,,Lawson Mitchell Bone,Independent,0
 Randolph,President,,Ralph Nader,Independent,0
 Randolph,President,,Walt Brown,Socialist,0
-Randolph,U.S. Senator,,Evan Bayh,Democratic,6625
-Randolph,U.S. Senator,,Albert Barger,Libertarian,133
-Randolph,U.S. Senator,,Marvin Scott,Republican,3943
+Randolph,U.S. Senate,,Evan Bayh,Democratic,6625
+Randolph,U.S. Senate,,Albert Barger,Libertarian,133
+Randolph,U.S. Senate,,Marvin Scott,Republican,3943
 Randolph,Governor,,Joseph E Kernan,Democratic,4628
 Randolph,Governor,,Kenn Gividen,Libertarian,146
 Randolph,Governor,,"Mitchell E Daniels, Jr.",Republican,6274
@@ -2446,9 +2446,9 @@ Ripley,President,,David Cobb,Green,0
 Ripley,President,,Lawson Mitchell Bone,Independent,0
 Ripley,President,,Ralph Nader,Independent,10
 Ripley,President,,Walt Brown,Socialist,0
-Ripley,U.S. Senator,,Evan Bayh,Democratic,6212
-Ripley,U.S. Senator,,Albert Barger,Libertarian,168
-Ripley,U.S. Senator,,Marvin Scott,Republican,5282
+Ripley,U.S. Senate,,Evan Bayh,Democratic,6212
+Ripley,U.S. Senate,,Albert Barger,Libertarian,168
+Ripley,U.S. Senate,,Marvin Scott,Republican,5282
 Ripley,Governor,,Joseph E Kernan,Democratic,4635
 Ripley,Governor,,Kenn Gividen,Libertarian,151
 Ripley,Governor,,"Mitchell E Daniels, Jr.",Republican,6925
@@ -2462,8 +2462,8 @@ Ripley,Superintendent Of Public Instruction,,Suellen Reed,Republican,6827
 Ripley,U.S. House,6,Melina Ann Fox,Democratic,0
 Ripley,U.S. House,6,Chad Wick Roots,Libertarian,0
 Ripley,U.S. House,6,Mike Pence,Republican,0
-Ripley,State Senator,42,Barry Alan Welsh,Democratic,0
-Ripley,State Senator,42,Robert N Jackman,Republican,0
+Ripley,State Senate,42,Barry Alan Welsh,Democratic,0
+Ripley,State Senate,42,Robert N Jackman,Republican,0
 Ripley,State House,55,Jason Mcglothen,Democratic,0
 Ripley,State House,55,John Marcum,Libertarian,0
 Ripley,State House,55,Robert A Hoffman,Republican,0
@@ -2482,9 +2482,9 @@ Rush,President,,David Cobb,Green,0
 Rush,President,,Lawson Mitchell Bone,Independent,0
 Rush,President,,Ralph Nader,Independent,0
 Rush,President,,Walt Brown,Socialist,0
-Rush,U.S. Senator,,Evan Bayh,Democratic,4316
-Rush,U.S. Senator,,Albert Barger,Libertarian,83
-Rush,U.S. Senator,,Marvin Scott,Republican,2962
+Rush,U.S. Senate,,Evan Bayh,Democratic,4316
+Rush,U.S. Senate,,Albert Barger,Libertarian,83
+Rush,U.S. Senate,,Marvin Scott,Republican,2962
 Rush,Governor,,Joseph E Kernan,Democratic,2676
 Rush,Governor,,Kenn Gividen,Libertarian,116
 Rush,Governor,,"Mitchell E Daniels, Jr.",Republican,4529
@@ -2498,8 +2498,8 @@ Rush,Superintendent Of Public Instruction,,Suellen Reed,Republican,5273
 Rush,U.S. House,6,Melina Ann Fox,Democratic,1603
 Rush,U.S. House,6,Chad Wick Roots,Libertarian,135
 Rush,U.S. House,6,Mike Pence,Republican,5514
-Rush,State Senator,42,Barry Alan Welsh,Democratic,1956
-Rush,State Senator,42,Robert N Jackman,Republican,5334
+Rush,State Senate,42,Barry Alan Welsh,Democratic,1956
+Rush,State Senate,42,Robert N Jackman,Republican,5334
 Rush,State House,54,Christopher Surber,Democratic,0
 Rush,State House,54,Gayle Bond,Libertarian,0
 Rush,State House,54,Thomas E Saunders,Republican,0
@@ -2521,9 +2521,9 @@ Saint Joseph,President,,David Cobb,Green,11
 Saint Joseph,President,,Lawson Mitchell Bone,Independent,1
 Saint Joseph,President,,Ralph Nader,Independent,56
 Saint Joseph,President,,Walt Brown,Socialist,1
-Saint Joseph,U.S. Senator,,Evan Bayh,Democratic,75340
-Saint Joseph,U.S. Senator,,Albert Barger,Libertarian,886
-Saint Joseph,U.S. Senator,,Marvin Scott,Republican,31372
+Saint Joseph,U.S. Senate,,Evan Bayh,Democratic,75340
+Saint Joseph,U.S. Senate,,Albert Barger,Libertarian,886
+Saint Joseph,U.S. Senate,,Marvin Scott,Republican,31372
 Saint Joseph,Governor,,Joseph E Kernan,Democratic,58327
 Saint Joseph,Governor,,Kenn Gividen,Libertarian,1000
 Saint Joseph,Governor,,"Mitchell E Daniels, Jr.",Republican,49198
@@ -2537,11 +2537,11 @@ Saint Joseph,Superintendent Of Public Instruction,,Suellen Reed,Republican,48376
 Saint Joseph,U.S. House,2,Joseph S Donnelly,Democratic,53904
 Saint Joseph,U.S. House,2,Douglas Barnes,Libertarian,942
 Saint Joseph,U.S. House,2,J Chris Chocola,Republican,53283
-Saint Joseph,State Senator,8,Anita O Bowser,Democratic,4708
-Saint Joseph,State Senator,8,Janet F Gillon,Libertarian,173
-Saint Joseph,State Senator,8,"Allen L Stevens, Jr.",Republican,3354
-Saint Joseph,State Senator,9,Ryan D Mishler,Republican,13351
-Saint Joseph,State Senator,10,John E Broden,Democratic,30042
+Saint Joseph,State Senate,8,Anita O Bowser,Democratic,4708
+Saint Joseph,State Senate,8,Janet F Gillon,Libertarian,173
+Saint Joseph,State Senate,8,"Allen L Stevens, Jr.",Republican,3354
+Saint Joseph,State Senate,9,Ryan D Mishler,Republican,13351
+Saint Joseph,State Senate,10,John E Broden,Democratic,30042
 Saint Joseph,State House,5,Craig R Fry,Democratic,8997
 Saint Joseph,State House,5,"Michael Reddy, Jr.",Republican,9100
 Saint Joseph,State House,6,B Patrick Bauer,Democratic,14074
@@ -2564,9 +2564,9 @@ Scott,President,,David Cobb,Green,0
 Scott,President,,Lawson Mitchell Bone,Independent,0
 Scott,President,,Ralph Nader,Independent,8
 Scott,President,,Walt Brown,Socialist,0
-Scott,U.S. Senator,,Evan Bayh,Democratic,6070
-Scott,U.S. Senator,,Albert Barger,Libertarian,85
-Scott,U.S. Senator,,Marvin Scott,Republican,2435
+Scott,U.S. Senate,,Evan Bayh,Democratic,6070
+Scott,U.S. Senate,,Albert Barger,Libertarian,85
+Scott,U.S. Senate,,Marvin Scott,Republican,2435
 Scott,Governor,,Joseph E Kernan,Democratic,4681
 Scott,Governor,,Kenn Gividen,Libertarian,90
 Scott,Governor,,"Mitchell E Daniels, Jr.",Republican,3862
@@ -2601,9 +2601,9 @@ Shelby,President,,David Cobb,Green,0
 Shelby,President,,Lawson Mitchell Bone,Independent,0
 Shelby,President,,Ralph Nader,Independent,0
 Shelby,President,,Walt Brown,Socialist,0
-Shelby,U.S. Senator,,Evan Bayh,Democratic,8986
-Shelby,U.S. Senator,,Albert Barger,Libertarian,136
-Shelby,U.S. Senator,,Marvin Scott,Republican,6717
+Shelby,U.S. Senate,,Evan Bayh,Democratic,8986
+Shelby,U.S. Senate,,Albert Barger,Libertarian,136
+Shelby,U.S. Senate,,Marvin Scott,Republican,6717
 Shelby,Governor,,Joseph E Kernan,Democratic,5885
 Shelby,Governor,,Kenn Gividen,Libertarian,194
 Shelby,Governor,,"Mitchell E Daniels, Jr.",Republican,9862
@@ -2617,10 +2617,10 @@ Shelby,Superintendent Of Public Instruction,,Suellen Reed,Republican,10166
 Shelby,U.S. House,6,Melina Ann Fox,Democratic,370
 Shelby,U.S. House,6,Chad Wick Roots,Libertarian,24
 Shelby,U.S. House,6,Mike Pence,Republican,1530
-Shelby,State Senator,28,Brett S Glaze,Libertarian,0
-Shelby,State Senator,28,Beverly J Gard,Republican,0
-Shelby,State Senator,42,Barry Alan Welsh,Democratic,4330
-Shelby,State Senator,42,Robert N Jackman,Republican,11077
+Shelby,State Senate,28,Brett S Glaze,Libertarian,0
+Shelby,State Senate,28,Beverly J Gard,Republican,0
+Shelby,State Senate,42,Barry Alan Welsh,Democratic,4330
+Shelby,State Senate,42,Robert N Jackman,Republican,11077
 Shelby,State House,57,Allen Lucas Messer,Republican,10265
 Spencer,President,,John F Kerry,Democratic,3920
 Spencer,President,,Michael Badnarik,Libertarian,64
@@ -2630,9 +2630,9 @@ Spencer,President,,David Cobb,Green,0
 Spencer,President,,Lawson Mitchell Bone,Independent,0
 Spencer,President,,Ralph Nader,Independent,6
 Spencer,President,,Walt Brown,Socialist,0
-Spencer,U.S. Senator,,Evan Bayh,Democratic,6495
-Spencer,U.S. Senator,,Albert Barger,Libertarian,74
-Spencer,U.S. Senator,,Marvin Scott,Republican,3317
+Spencer,U.S. Senate,,Evan Bayh,Democratic,6495
+Spencer,U.S. Senate,,Albert Barger,Libertarian,74
+Spencer,U.S. Senate,,Marvin Scott,Republican,3317
 Spencer,Governor,,Joseph E Kernan,Democratic,4612
 Spencer,Governor,,Kenn Gividen,Libertarian,114
 Spencer,Governor,,"Mitchell E Daniels, Jr.",Republican,5183
@@ -2665,9 +2665,9 @@ Starke,President,,David Cobb,Green,0
 Starke,President,,Lawson Mitchell Bone,Independent,0
 Starke,President,,Ralph Nader,Independent,4
 Starke,President,,Walt Brown,Socialist,0
-Starke,U.S. Senator,,Evan Bayh,Democratic,6108
-Starke,U.S. Senator,,Albert Barger,Libertarian,142
-Starke,U.S. Senator,,Marvin Scott,Republican,2762
+Starke,U.S. Senate,,Evan Bayh,Democratic,6108
+Starke,U.S. Senate,,Albert Barger,Libertarian,142
+Starke,U.S. Senate,,Marvin Scott,Republican,2762
 Starke,Governor,,Joseph E Kernan,Democratic,4539
 Starke,Governor,,Kenn Gividen,Libertarian,131
 Starke,Governor,,"Mitchell E Daniels, Jr.",Republican,4024
@@ -2681,11 +2681,11 @@ Starke,Superintendent Of Public Instruction,,Suellen Reed,Republican,4055
 Starke,U.S. House,2,Joseph S Donnelly,Democratic,3982
 Starke,U.S. House,2,Douglas Barnes,Libertarian,141
 Starke,U.S. House,2,J Chris Chocola,Republican,4842
-Starke,State Senator,5,Nancy J Dembowski,Democratic,5546
-Starke,State Senator,5,Victor R Heinold,Republican,3451
-Starke,State Senator,8,Anita O Bowser,Democratic,0
-Starke,State Senator,8,Janet F Gillon,Libertarian,0
-Starke,State Senator,8,"Allen L Stevens, Jr.",Republican,0
+Starke,State Senate,5,Nancy J Dembowski,Democratic,5546
+Starke,State Senate,5,Victor R Heinold,Republican,3451
+Starke,State Senate,8,Anita O Bowser,Democratic,0
+Starke,State Senate,8,Janet F Gillon,Libertarian,0
+Starke,State Senate,8,"Allen L Stevens, Jr.",Republican,0
 Starke,State House,16,Eric A Gutwein,Republican,0
 Starke,State House,20,Lynne F Spevak,Democratic,0
 Starke,State House,20,William Bill Schadowsky,Libertarian,0
@@ -2703,9 +2703,9 @@ Steuben,President,,David Cobb,Green,0
 Steuben,President,,Lawson Mitchell Bone,Independent,0
 Steuben,President,,Ralph Nader,Independent,23
 Steuben,President,,Walt Brown,Socialist,0
-Steuben,U.S. Senator,,Evan Bayh,Democratic,7447
-Steuben,U.S. Senator,,Albert Barger,Libertarian,169
-Steuben,U.S. Senator,,Marvin Scott,Republican,5070
+Steuben,U.S. Senate,,Evan Bayh,Democratic,7447
+Steuben,U.S. Senate,,Albert Barger,Libertarian,169
+Steuben,U.S. Senate,,Marvin Scott,Republican,5070
 Steuben,Governor,,Joseph E Kernan,Democratic,4915
 Steuben,Governor,,Kenn Gividen,Libertarian,165
 Steuben,Governor,,"Mitchell E Daniels, Jr.",Republican,7684
@@ -2718,7 +2718,7 @@ Steuben,Superintendent Of Public Instruction,,Joe Hauptmann,Libertarian,392
 Steuben,Superintendent Of Public Instruction,,Suellen Reed,Republican,7766
 Steuben,U.S. House,3,Maria M Parra,Democratic,3788
 Steuben,U.S. House,3,Mark E Souder,Republican,8830
-Steuben,State Senator,13,Robert L Meeks,Republican,6764
+Steuben,State Senate,13,Robert L Meeks,Republican,6764
 Steuben,State House,51,James B Mason,Democratic,4131
 Steuben,State House,51,Richard A Dick Dodge,Republican,8405
 Steuben,State House,52,John T Delucenay,Democratic,0
@@ -2734,9 +2734,9 @@ Sullivan,President,,David Cobb,Green,1
 Sullivan,President,,Lawson Mitchell Bone,Independent,0
 Sullivan,President,,Ralph Nader,Independent,1
 Sullivan,President,,Walt Brown,Socialist,0
-Sullivan,U.S. Senator,,Evan Bayh,Democratic,6072
-Sullivan,U.S. Senator,,Albert Barger,Libertarian,79
-Sullivan,U.S. Senator,,Marvin Scott,Republican,2099
+Sullivan,U.S. Senate,,Evan Bayh,Democratic,6072
+Sullivan,U.S. Senate,,Albert Barger,Libertarian,79
+Sullivan,U.S. Senate,,Marvin Scott,Republican,2099
 Sullivan,Governor,,Joseph E Kernan,Democratic,4530
 Sullivan,Governor,,Kenn Gividen,Libertarian,116
 Sullivan,Governor,,"Mitchell E Daniels, Jr.",Republican,3687
@@ -2766,9 +2766,9 @@ Switzerland,President,,David Cobb,Green,0
 Switzerland,President,,Lawson Mitchell Bone,Independent,0
 Switzerland,President,,Ralph Nader,Independent,0
 Switzerland,President,,Walt Brown,Socialist,0
-Switzerland,U.S. Senator,,Evan Bayh,Democratic,2148
-Switzerland,U.S. Senator,,Albert Barger,Libertarian,53
-Switzerland,U.S. Senator,,Marvin Scott,Republican,1404
+Switzerland,U.S. Senate,,Evan Bayh,Democratic,2148
+Switzerland,U.S. Senate,,Albert Barger,Libertarian,53
+Switzerland,U.S. Senate,,Marvin Scott,Republican,1404
 Switzerland,Governor,,Joseph E Kernan,Democratic,1780
 Switzerland,Governor,,Kenn Gividen,Libertarian,48
 Switzerland,Governor,,"Mitchell E Daniels, Jr.",Republican,1780
@@ -2796,9 +2796,9 @@ Tippecanoe,President,,David Cobb,Green,9
 Tippecanoe,President,,Lawson Mitchell Bone,Independent,0
 Tippecanoe,President,,Ralph Nader,Independent,90
 Tippecanoe,President,,Walt Brown,Socialist,3
-Tippecanoe,U.S. Senator,,Evan Bayh,Democratic,32766
-Tippecanoe,U.S. Senator,,Albert Barger,Libertarian,837
-Tippecanoe,U.S. Senator,,Marvin Scott,Republican,18002
+Tippecanoe,U.S. Senate,,Evan Bayh,Democratic,32766
+Tippecanoe,U.S. Senate,,Albert Barger,Libertarian,837
+Tippecanoe,U.S. Senate,,Marvin Scott,Republican,18002
 Tippecanoe,Governor,,Joseph E Kernan,Democratic,22504
 Tippecanoe,Governor,,Kenn Gividen,Libertarian,865
 Tippecanoe,Governor,,"Mitchell E Daniels, Jr.",Republican,28458
@@ -2812,7 +2812,7 @@ Tippecanoe,Superintendent Of Public Instruction,,Suellen Reed,Republican,30107
 Tippecanoe,U.S. House,4,David Avram Sanders,Democratic,18748
 Tippecanoe,U.S. House,4,Kevin R Fleming,Libertarian,1380
 Tippecanoe,U.S. House,4,Steve Buyer,Republican,30747
-Tippecanoe,State Senator,7,Brandt Hershman,Republican,6428
+Tippecanoe,State Senate,7,Brandt Hershman,Republican,6428
 Tippecanoe,State House,13,Chester F Dobis,Democratic,0
 Tippecanoe,State House,13,Joseph M Hero,Republican,0
 Tippecanoe,State House,25,Jeb Bardon,Democratic,0
@@ -2835,9 +2835,9 @@ Tipton,President,,David Cobb,Green,0
 Tipton,President,,Lawson Mitchell Bone,Independent,0
 Tipton,President,,Ralph Nader,Independent,0
 Tipton,President,,Walt Brown,Socialist,0
-Tipton,U.S. Senator,,Evan Bayh,Democratic,4557
-Tipton,U.S. Senator,,Albert Barger,Libertarian,87
-Tipton,U.S. Senator,,Marvin Scott,Republican,3142
+Tipton,U.S. Senate,,Evan Bayh,Democratic,4557
+Tipton,U.S. Senate,,Albert Barger,Libertarian,87
+Tipton,U.S. Senate,,Marvin Scott,Republican,3142
 Tipton,Governor,,Joseph E Kernan,Democratic,2973
 Tipton,Governor,,Kenn Gividen,Libertarian,108
 Tipton,Governor,,"Mitchell E Daniels, Jr.",Republican,4729
@@ -2863,9 +2863,9 @@ Union,President,,David Cobb,Green,0
 Union,President,,Lawson Mitchell Bone,Independent,0
 Union,President,,Ralph Nader,Independent,0
 Union,President,,Walt Brown,Socialist,0
-Union,U.S. Senator,,Evan Bayh,Democratic,1777
-Union,U.S. Senator,,Albert Barger,Libertarian,58
-Union,U.S. Senator,,Marvin Scott,Republican,1417
+Union,U.S. Senate,,Evan Bayh,Democratic,1777
+Union,U.S. Senate,,Albert Barger,Libertarian,58
+Union,U.S. Senate,,Marvin Scott,Republican,1417
 Union,Governor,,Joseph E Kernan,Democratic,1217
 Union,Governor,,Kenn Gividen,Libertarian,59
 Union,Governor,,"Mitchell E Daniels, Jr.",Republican,2040
@@ -2895,9 +2895,9 @@ Vanderburgh,President,,David Cobb,Green,0
 Vanderburgh,President,,Lawson Mitchell Bone,Independent,0
 Vanderburgh,President,,Ralph Nader,Independent,0
 Vanderburgh,President,,Walt Brown,Socialist,0
-Vanderburgh,U.S. Senator,,Evan Bayh,Democratic,46088
-Vanderburgh,U.S. Senator,,Albert Barger,Libertarian,817
-Vanderburgh,U.S. Senator,,Marvin Scott,Republican,21242
+Vanderburgh,U.S. Senate,,Evan Bayh,Democratic,46088
+Vanderburgh,U.S. Senate,,Albert Barger,Libertarian,817
+Vanderburgh,U.S. Senate,,Marvin Scott,Republican,21242
 Vanderburgh,Governor,,Joseph E Kernan,Democratic,34819
 Vanderburgh,Governor,,Kenn Gividen,Libertarian,863
 Vanderburgh,Governor,,"Mitchell E Daniels, Jr.",Republican,34129
@@ -2911,8 +2911,8 @@ Vanderburgh,Superintendent Of Public Instruction,,Suellen Reed,Republican,34060
 Vanderburgh,U.S. House,8,Jon P Jennings,Democratic,33644
 Vanderburgh,U.S. House,8,Mark Garvin,Libertarian,1432
 Vanderburgh,U.S. House,8,John N Hostettler,Republican,34560
-Vanderburgh,State Senator,50,Thomas C Tindle,Libertarian,3309
-Vanderburgh,State Senator,50,Greg Server,Republican,31524
+Vanderburgh,State Senate,50,Thomas C Tindle,Libertarian,3309
+Vanderburgh,State Senate,50,Greg Server,Republican,31524
 Vanderburgh,State House,64,John Gregory Frenz,Democratic,0
 Vanderburgh,State House,64,Troy Austin Woodruff,Republican,0
 Vanderburgh,State House,76,W Trent Vanhaaften,Democratic,6214
@@ -2939,9 +2939,9 @@ Vermillion,President,,David Cobb,Green,0
 Vermillion,President,,Lawson Mitchell Bone,Independent,0
 Vermillion,President,,Ralph Nader,Independent,1
 Vermillion,President,,Walt Brown,Socialist,0
-Vermillion,U.S. Senator,,Evan Bayh,Democratic,5468
-Vermillion,U.S. Senator,,Albert Barger,Libertarian,66
-Vermillion,U.S. Senator,,Marvin Scott,Republican,1480
+Vermillion,U.S. Senate,,Evan Bayh,Democratic,5468
+Vermillion,U.S. Senate,,Albert Barger,Libertarian,66
+Vermillion,U.S. Senate,,Marvin Scott,Republican,1480
 Vermillion,Governor,,Joseph E Kernan,Democratic,4121
 Vermillion,Governor,,Kenn Gividen,Libertarian,118
 Vermillion,Governor,,"Mitchell E Daniels, Jr.",Republican,2769
@@ -2971,9 +2971,9 @@ Vigo,President,,David Cobb,Green,0
 Vigo,President,,Lawson Mitchell Bone,Independent,0
 Vigo,President,,Ralph Nader,Independent,21
 Vigo,President,,Walt Brown,Socialist,2
-Vigo,U.S. Senator,,Evan Bayh,Democratic,29828
-Vigo,U.S. Senator,,Albert Barger,Libertarian,492
-Vigo,U.S. Senator,,Marvin Scott,Republican,9307
+Vigo,U.S. Senate,,Evan Bayh,Democratic,29828
+Vigo,U.S. Senate,,Albert Barger,Libertarian,492
+Vigo,U.S. Senate,,Marvin Scott,Republican,9307
 Vigo,Governor,,Joseph E Kernan,Democratic,22054
 Vigo,Governor,,Kenn Gividen,Libertarian,806
 Vigo,Governor,,"Mitchell E Daniels, Jr.",Republican,16804
@@ -3012,9 +3012,9 @@ Wabash,President,,David Cobb,Green,0
 Wabash,President,,Lawson Mitchell Bone,Independent,0
 Wabash,President,,Ralph Nader,Independent,4
 Wabash,President,,Walt Brown,Socialist,0
-Wabash,U.S. Senator,,Evan Bayh,Democratic,6853
-Wabash,U.S. Senator,,Albert Barger,Libertarian,111
-Wabash,U.S. Senator,,Marvin Scott,Republican,6313
+Wabash,U.S. Senate,,Evan Bayh,Democratic,6853
+Wabash,U.S. Senate,,Albert Barger,Libertarian,111
+Wabash,U.S. Senate,,Marvin Scott,Republican,6313
 Wabash,Governor,,Joseph E Kernan,Democratic,4569
 Wabash,Governor,,Kenn Gividen,Libertarian,134
 Wabash,Governor,,"Mitchell E Daniels, Jr.",Republican,8691
@@ -3042,9 +3042,9 @@ Warren,President,,David Cobb,Green,0
 Warren,President,,Lawson Mitchell Bone,Independent,0
 Warren,President,,Ralph Nader,Independent,0
 Warren,President,,Walt Brown,Socialist,0
-Warren,U.S. Senator,,Evan Bayh,Democratic,2357
-Warren,U.S. Senator,,Albert Barger,Libertarian,48
-Warren,U.S. Senator,,Marvin Scott,Republican,1454
+Warren,U.S. Senate,,Evan Bayh,Democratic,2357
+Warren,U.S. Senate,,Albert Barger,Libertarian,48
+Warren,U.S. Senate,,Marvin Scott,Republican,1454
 Warren,Governor,,Joseph E Kernan,Democratic,1679
 Warren,Governor,,Kenn Gividen,Libertarian,58
 Warren,Governor,,"Mitchell E Daniels, Jr.",Republican,2214
@@ -3074,9 +3074,9 @@ Warrick,President,,David Cobb,Green,0
 Warrick,President,,Lawson Mitchell Bone,Independent,0
 Warrick,President,,Ralph Nader,Independent,7
 Warrick,President,,Walt Brown,Socialist,0
-Warrick,U.S. Senator,,Evan Bayh,Democratic,15572
-Warrick,U.S. Senator,,Albert Barger,Libertarian,205
-Warrick,U.S. Senator,,Marvin Scott,Republican,9260
+Warrick,U.S. Senate,,Evan Bayh,Democratic,15572
+Warrick,U.S. Senate,,Albert Barger,Libertarian,205
+Warrick,U.S. Senate,,Marvin Scott,Republican,9260
 Warrick,Governor,,Joseph E Kernan,Democratic,11678
 Warrick,Governor,,Kenn Gividen,Libertarian,262
 Warrick,Governor,,"Mitchell E Daniels, Jr.",Republican,13877
@@ -3090,8 +3090,8 @@ Warrick,Superintendent Of Public Instruction,,Suellen Reed,Republican,13261
 Warrick,U.S. House,8,Jon P Jennings,Democratic,11245
 Warrick,U.S. House,8,Mark Garvin,Libertarian,541
 Warrick,U.S. House,8,John N Hostettler,Republican,14020
-Warrick,State Senator,50,Thomas C Tindle,Libertarian,1351
-Warrick,State Senator,50,Greg Server,Republican,14225
+Warrick,State Senate,50,Thomas C Tindle,Libertarian,1351
+Warrick,State Senate,50,Greg Server,Republican,14225
 Warrick,State House,75,Dennis T Avery,Democratic,1648
 Warrick,State House,78,Vaneta G Becker,Republican,10977
 Warrick,Clerk Of The Circuit Court,Warrick County,Shannon Weisheit,Democratic,12632
@@ -3112,9 +3112,9 @@ Washington,President,,David Cobb,Green,0
 Washington,President,,Lawson Mitchell Bone,Independent,0
 Washington,President,,Ralph Nader,Independent,8
 Washington,President,,Walt Brown,Socialist,0
-Washington,U.S. Senator,,Evan Bayh,Democratic,6270
-Washington,U.S. Senator,,Albert Barger,Libertarian,156
-Washington,U.S. Senator,,Marvin Scott,Republican,4304
+Washington,U.S. Senate,,Evan Bayh,Democratic,6270
+Washington,U.S. Senate,,Albert Barger,Libertarian,156
+Washington,U.S. Senate,,Marvin Scott,Republican,4304
 Washington,Governor,,Joseph E Kernan,Democratic,4297
 Washington,Governor,,Kenn Gividen,Libertarian,134
 Washington,Governor,,"Mitchell E Daniels, Jr.",Republican,6419
@@ -3145,9 +3145,9 @@ Wayne,President,,David Cobb,Green,0
 Wayne,President,,Lawson Mitchell Bone,Independent,0
 Wayne,President,,Ralph Nader,Independent,0
 Wayne,President,,Walt Brown,Socialist,0
-Wayne,U.S. Senator,,Evan Bayh,Democratic,16081
-Wayne,U.S. Senator,,Albert Barger,Libertarian,584
-Wayne,U.S. Senator,,Marvin Scott,Republican,10821
+Wayne,U.S. Senate,,Evan Bayh,Democratic,16081
+Wayne,U.S. Senate,,Albert Barger,Libertarian,584
+Wayne,U.S. Senate,,Marvin Scott,Republican,10821
 Wayne,Governor,,Joseph E Kernan,Democratic,12565
 Wayne,Governor,,Kenn Gividen,Libertarian,595
 Wayne,Governor,,"Mitchell E Daniels, Jr.",Republican,14530
@@ -3182,9 +3182,9 @@ Wells,President,,David Cobb,Green,0
 Wells,President,,Lawson Mitchell Bone,Independent,0
 Wells,President,,Ralph Nader,Independent,2
 Wells,President,,Walt Brown,Socialist,0
-Wells,U.S. Senator,,Evan Bayh,Democratic,6532
-Wells,U.S. Senator,,Albert Barger,Libertarian,103
-Wells,U.S. Senator,,Marvin Scott,Republican,5583
+Wells,U.S. Senate,,Evan Bayh,Democratic,6532
+Wells,U.S. Senate,,Albert Barger,Libertarian,103
+Wells,U.S. Senate,,Marvin Scott,Republican,5583
 Wells,Governor,,Joseph E Kernan,Democratic,3979
 Wells,Governor,,Kenn Gividen,Libertarian,113
 Wells,Governor,,"Mitchell E Daniels, Jr.",Republican,8071
@@ -3216,9 +3216,9 @@ White,President,,David Cobb,Green,3
 White,President,,Lawson Mitchell Bone,Independent,0
 White,President,,Ralph Nader,Independent,12
 White,President,,Walt Brown,Socialist,0
-White,U.S. Senator,,Evan Bayh,Democratic,6667
-White,U.S. Senator,,Albert Barger,Libertarian,108
-White,U.S. Senator,,Marvin Scott,Republican,3589
+White,U.S. Senate,,Evan Bayh,Democratic,6667
+White,U.S. Senate,,Albert Barger,Libertarian,108
+White,U.S. Senate,,Marvin Scott,Republican,3589
 White,Governor,,Joseph E Kernan,Democratic,4260
 White,Governor,,Kenn Gividen,Libertarian,167
 White,Governor,,"Mitchell E Daniels, Jr.",Republican,5980
@@ -3232,7 +3232,7 @@ White,Superintendent Of Public Instruction,,Suellen Reed,Republican,6328
 White,U.S. House,4,David Avram Sanders,Democratic,2523
 White,U.S. House,4,Kevin R Fleming,Libertarian,150
 White,U.S. House,4,Steve Buyer,Republican,5944
-White,State Senator,7,Brandt Hershman,Republican,8333
+White,State Senate,7,Brandt Hershman,Republican,8333
 White,State House,13,Chester F Dobis,Democratic,0
 White,State House,13,Joseph M Hero,Republican,0
 White,State House,25,Jeb Bardon,Democratic,0
@@ -3247,9 +3247,9 @@ Whitley,President,,David Cobb,Green,0
 Whitley,President,,Lawson Mitchell Bone,Independent,0
 Whitley,President,,Ralph Nader,Independent,7
 Whitley,President,,Walt Brown,Socialist,0
-Whitley,U.S. Senator,,Evan Bayh,Democratic,7405
-Whitley,U.S. Senator,,Albert Barger,Libertarian,146
-Whitley,U.S. Senator,,Marvin Scott,Republican,5761
+Whitley,U.S. Senate,,Evan Bayh,Democratic,7405
+Whitley,U.S. Senate,,Albert Barger,Libertarian,146
+Whitley,U.S. Senate,,Marvin Scott,Republican,5761
 Whitley,Governor,,Joseph E Kernan,Democratic,4758
 Whitley,Governor,,Kenn Gividen,Libertarian,149
 Whitley,Governor,,"Mitchell E Daniels, Jr.",Republican,8332
@@ -3262,7 +3262,7 @@ Whitley,Superintendent Of Public Instruction,,Joe Hauptmann,Libertarian,375
 Whitley,Superintendent Of Public Instruction,,Suellen Reed,Republican,8359
 Whitley,U.S. House,3,Maria M Parra,Democratic,4088
 Whitley,U.S. House,3,Mark E Souder,Republican,9069
-Whitley,State Senator,16,David C Long,Republican,0
+Whitley,State Senate,16,David C Long,Republican,0
 Whitley,State House,82,Jeffrey Keller Espich,Republican,0
 Whitley,State House,83,Robert K Alderman,Republican,3094
 Whitley,Judge Of The Circuit Court,Whitley 82Nd Circuit,James R Heuer,Republican,10580

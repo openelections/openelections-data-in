@@ -14,8 +14,8 @@ LaPorte,Cass,U.S. House,1,DEM,Frank J Mrvan,39,34,118,191
 LaPorte,Cass,U.S. House,1,REP,Mark Leyva,141,19,233,393
 LaPorte,Cass,U.S. House,1,LIB,Michael Strauss,9,2,21,32
 LaPorte,Cass,U.S. House,1,,Write-In,0,0,0,0
-LaPorte,Cass,State Senator,5,DEM,Luke Bohm,34,32,111,177
-LaPorte,Cass,State Senator,5,REP,Ed Charbonneau,158,24,262,444
+LaPorte,Cass,State Senate,5,DEM,Luke Bohm,34,32,111,177
+LaPorte,Cass,State Senate,5,REP,Ed Charbonneau,158,24,262,444
 LaPorte,Cass,State Representative,20,DEM,Tim Gust,32,29,100,161
 LaPorte,Cass,State Representative,20,REP,Jim Pressel,162,28,274,464
 LaPorte,Center 1,Registered Voters,,,,,,,1304
@@ -29,8 +29,8 @@ LaPorte,Center 1,Governor,,REP,Eric Holcomb,275,76,216,567
 LaPorte,Center 1,Governor,,LIB,Donald G Rainwater II,45,3,21,69
 LaPorte,Center 1,Attorney General,,DEM,Jonathan Weinzapfel,107,94,166,367
 LaPorte,Center 1,Attorney General,,REP,Todd Rokita,267,54,210,531
-LaPorte,Center 1,State Senator,8,DEM,Gary Davis,104,85,170,359
-LaPorte,Center 1,State Senator,8,REP,Mike Bohacek,285,65,210,560
+LaPorte,Center 1,State Senate,8,DEM,Gary Davis,104,85,170,359
+LaPorte,Center 1,State Senate,8,REP,Mike Bohacek,285,65,210,560
 LaPorte,Center 1,State Representative,20,DEM,Tim Gust,87,77,158,322
 LaPorte,Center 1,State Representative,20,REP,Jim Pressel,304,75,224,603
 LaPorte,Center 2,Registered Voters,,,,,,,1383
@@ -44,8 +44,8 @@ LaPorte,Center 2,Governor,,REP,Eric Holcomb,206,62,344,612
 LaPorte,Center 2,Governor,,LIB,Donald G Rainwater II,38,1,21,60
 LaPorte,Center 2,Attorney General,,DEM,Jonathan Weinzapfel,94,74,225,393
 LaPorte,Center 2,Attorney General,,REP,Todd Rokita,208,51,312,571
-LaPorte,Center 2,State Senator,8,DEM,Gary Davis,90,71,206,367
-LaPorte,Center 2,State Senator,8,REP,Mike Bohacek,220,52,336,608
+LaPorte,Center 2,State Senate,8,DEM,Gary Davis,90,71,206,367
+LaPorte,Center 2,State Senate,8,REP,Mike Bohacek,220,52,336,608
 LaPorte,Center 2,State Representative,20,DEM,Tim Gust,72,60,196,328
 LaPorte,Center 2,State Representative,20,REP,Jim Pressel,240,64,346,650
 LaPorte,Center 3,Registered Voters,,,,,,,1077
@@ -59,8 +59,8 @@ LaPorte,Center 3,Governor,,REP,Eric Holcomb,173,59,221,453
 LaPorte,Center 3,Governor,,LIB,Donald G Rainwater II,28,1,24,53
 LaPorte,Center 3,Attorney General,,DEM,Jonathan Weinzapfel,84,76,166,326
 LaPorte,Center 3,Attorney General,,REP,Todd Rokita,168,42,205,415
-LaPorte,Center 3,State Senator,8,DEM,Gary Davis,77,71,154,302
-LaPorte,Center 3,State Senator,8,REP,Mike Bohacek,188,49,233,470
+LaPorte,Center 3,State Senate,8,DEM,Gary Davis,77,71,154,302
+LaPorte,Center 3,State Senate,8,REP,Mike Bohacek,188,49,233,470
 LaPorte,Center 3,State Representative,20,DEM,Tim Gust,63,62,156,281
 LaPorte,Center 3,State Representative,20,REP,Jim Pressel,200,58,231,489
 LaPorte,Center 4,Registered Voters,,,,,,,1058
@@ -74,8 +74,8 @@ LaPorte,Center 4,Governor,,REP,Eric Holcomb,179,45,241,465
 LaPorte,Center 4,Governor,,LIB,Donald G Rainwater II,27,2,20,49
 LaPorte,Center 4,Attorney General,,DEM,Jonathan Weinzapfel,63,63,179,305
 LaPorte,Center 4,Attorney General,,REP,Todd Rokita,176,40,222,438
-LaPorte,Center 4,State Senator,8,DEM,Gary Davis,60,61,171,292
-LaPorte,Center 4,State Senator,8,REP,Mike Bohacek,187,43,231,461
+LaPorte,Center 4,State Senate,8,DEM,Gary Davis,60,61,171,292
+LaPorte,Center 4,State Senate,8,REP,Mike Bohacek,187,43,231,461
 LaPorte,Center 4,State Representative,20,DEM,Tim Gust,51,55,158,264
 LaPorte,Center 4,State Representative,20,REP,Jim Pressel,199,49,248,496
 LaPorte,Center 5,Registered Voters,,,,,,,1167
@@ -89,8 +89,8 @@ LaPorte,Center 5,Governor,,REP,Eric Holcomb,212,61,235,508
 LaPorte,Center 5,Governor,,LIB,Donald G Rainwater II,32,2,20,54
 LaPorte,Center 5,Attorney General,,DEM,Jonathan Weinzapfel,78,80,159,317
 LaPorte,Center 5,Attorney General,,REP,Todd Rokita,212,56,221,489
-LaPorte,Center 5,State Senator,8,DEM,Gary Davis,86,81,149,316
-LaPorte,Center 5,State Senator,8,REP,Mike Bohacek,216,55,237,508
+LaPorte,Center 5,State Senate,8,DEM,Gary Davis,86,81,149,316
+LaPorte,Center 5,State Senate,8,REP,Mike Bohacek,216,55,237,508
 LaPorte,Center 5,State Representative,20,DEM,Tim Gust,71,67,129,267
 LaPorte,Center 5,State Representative,20,REP,Jim Pressel,231,67,260,558
 LaPorte,Clinton,Registered Voters,,,,,,,876
@@ -108,8 +108,8 @@ LaPorte,Clinton,U.S. House,1,DEM,Frank J Mrvan,56,35,88,179
 LaPorte,Clinton,U.S. House,1,REP,Mark Leyva,221,36,165,422
 LaPorte,Clinton,U.S. House,1,LIB,Michael Strauss,12,6,15,33
 LaPorte,Clinton,U.S. House,1,,Write-In,0,0,0,0
-LaPorte,Clinton,State Senator,5,DEM,Luke Bohm,49,35,75,159
-LaPorte,Clinton,State Senator,5,REP,Ed Charbonneau,243,43,194,480
+LaPorte,Clinton,State Senate,5,DEM,Luke Bohm,49,35,75,159
+LaPorte,Clinton,State Senate,5,REP,Ed Charbonneau,243,43,194,480
 LaPorte,Clinton,State Representative,9,DEM,Patricia A (Pat) Boy,64,38,100,202
 LaPorte,Clinton,State Representative,9,REP,Dion Bergeron,221,39,165,425
 LaPorte,Coolspring 1,Registered Voters,,,,,,,1241
@@ -161,8 +161,8 @@ LaPorte,Coolspring 3,U.S. House,1,DEM,Frank J Mrvan,54,80,168,302
 LaPorte,Coolspring 3,U.S. House,1,REP,Mark Leyva,89,33,174,296
 LaPorte,Coolspring 3,U.S. House,1,LIB,Michael Strauss,15,4,14,33
 LaPorte,Coolspring 3,U.S. House,1,,Write-In,0,0,0,0
-LaPorte,Coolspring 3,State Senator,8,DEM,Gary Davis,50,75,154,279
-LaPorte,Coolspring 3,State Senator,8,REP,Mike Bohacek,111,40,203,354
+LaPorte,Coolspring 3,State Senate,8,DEM,Gary Davis,50,75,154,279
+LaPorte,Coolspring 3,State Senate,8,REP,Mike Bohacek,111,40,203,354
 LaPorte,Coolspring 3,State Representative,9,DEM,Patricia A (Pat) Boy,65,91,185,341
 LaPorte,Coolspring 3,State Representative,9,REP,Dion Bergeron,91,28,174,293
 LaPorte,Coolspring 4,Registered Voters,,,,,,,1667
@@ -197,8 +197,8 @@ LaPorte,Coolspring 5,U.S. House,1,DEM,Frank J Mrvan,96,45,110,251
 LaPorte,Coolspring 5,U.S. House,1,REP,Mark Leyva,82,7,82,171
 LaPorte,Coolspring 5,U.S. House,1,LIB,Michael Strauss,5,1,10,16
 LaPorte,Coolspring 5,U.S. House,1,,Write-In,0,0,0,0
-LaPorte,Coolspring 5,State Senator,8,DEM,Gary Davis,89,41,103,233
-LaPorte,Coolspring 5,State Senator,8,REP,Mike Bohacek,95,12,98,205
+LaPorte,Coolspring 5,State Senate,8,DEM,Gary Davis,89,41,103,233
+LaPorte,Coolspring 5,State Senate,8,REP,Mike Bohacek,95,12,98,205
 LaPorte,Coolspring 5,State Representative,9,DEM,Patricia A (Pat) Boy,104,47,122,273
 LaPorte,Coolspring 5,State Representative,9,REP,Dion Bergeron,81,6,78,165
 LaPorte,Dewey,Registered Voters,,,,,,,312
@@ -216,8 +216,8 @@ LaPorte,Dewey,U.S. House,1,DEM,Frank J Mrvan,49,8,15,72
 LaPorte,Dewey,U.S. House,1,REP,Mark Leyva,86,5,40,131
 LaPorte,Dewey,U.S. House,1,LIB,Michael Strauss,4,3,2,9
 LaPorte,Dewey,U.S. House,1,,Write-In,0,0,0,0
-LaPorte,Dewey,State Senator,5,DEM,Luke Bohm,39,7,15,61
-LaPorte,Dewey,State Senator,5,REP,Ed Charbonneau,101,9,43,153
+LaPorte,Dewey,State Senate,5,DEM,Luke Bohm,39,7,15,61
+LaPorte,Dewey,State Senate,5,REP,Ed Charbonneau,101,9,43,153
 LaPorte,Dewey,State Representative,20,DEM,Tim Gust,35,5,12,52
 LaPorte,Dewey,State Representative,20,REP,Jim Pressel,108,12,49,169
 LaPorte,Duneland Beach,Registered Voters,,,,,,,215
@@ -252,8 +252,8 @@ LaPorte,Galena 1,U.S. House,1,DEM,Frank J Mrvan,67,53,94,214
 LaPorte,Galena 1,U.S. House,1,REP,Mark Leyva,186,18,59,263
 LaPorte,Galena 1,U.S. House,1,LIB,Michael Strauss,15,5,4,24
 LaPorte,Galena 1,U.S. House,1,,Write-In,0,0,0,0
-LaPorte,Galena 1,State Senator,8,DEM,Gary Davis,68,51,88,207
-LaPorte,Galena 1,State Senator,8,REP,Mike Bohacek,201,25,69,295
+LaPorte,Galena 1,State Senate,8,DEM,Gary Davis,68,51,88,207
+LaPorte,Galena 1,State Senate,8,REP,Mike Bohacek,201,25,69,295
 LaPorte,Galena 1,State Representative,8,DEM,Ryan M Dvorak,82,53,97,232
 LaPorte,Galena 1,State Representative,8,REP,Timothy Jaycox,182,22,62,266
 LaPorte,Galena 2,Registered Voters,,,,,,,863
@@ -267,8 +267,8 @@ LaPorte,Galena 2,Governor,,REP,Eric Holcomb,253,36,82,371
 LaPorte,Galena 2,Governor,,LIB,Donald G Rainwater II,39,1,9,49
 LaPorte,Galena 2,Attorney General,,DEM,Jonathan Weinzapfel,76,64,88,228
 LaPorte,Galena 2,Attorney General,,REP,Todd Rokita,260,24,74,358
-LaPorte,Galena 2,State Senator,8,DEM,Gary Davis,75,66,93,234
-LaPorte,Galena 2,State Senator,8,REP,Mike Bohacek,267,21,73,361
+LaPorte,Galena 2,State Senate,8,DEM,Gary Davis,75,66,93,234
+LaPorte,Galena 2,State Senate,8,REP,Mike Bohacek,267,21,73,361
 LaPorte,Galena 2,State Representative,8,DEM,Ryan M Dvorak,87,63,90,240
 LaPorte,Galena 2,State Representative,8,REP,Timothy Jaycox,246,21,75,342
 LaPorte,Hanna,Registered Voters,,,,,,,783
@@ -282,8 +282,8 @@ LaPorte,Hanna,Governor,,REP,Eric Holcomb,206,25,124,355
 LaPorte,Hanna,Governor,,LIB,Donald G Rainwater II,59,3,19,81
 LaPorte,Hanna,Attorney General,,DEM,Jonathan Weinzapfel,84,24,67,175
 LaPorte,Hanna,Attorney General,,REP,Todd Rokita,225,19,118,362
-LaPorte,Hanna,State Senator,8,DEM,Gary Davis,83,23,64,170
-LaPorte,Hanna,State Senator,8,REP,Mike Bohacek,237,22,126,385
+LaPorte,Hanna,State Senate,8,DEM,Gary Davis,83,23,64,170
+LaPorte,Hanna,State Senate,8,REP,Mike Bohacek,237,22,126,385
 LaPorte,Hanna,State Representative,20,DEM,Tim Gust,62,21,53,136
 LaPorte,Hanna,State Representative,20,REP,Jim Pressel,260,27,139,426
 LaPorte,Hudson,Registered Voters,,,,,,,1353
@@ -297,8 +297,8 @@ LaPorte,Hudson,Governor,,REP,Eric Holcomb,403,59,129,591
 LaPorte,Hudson,Governor,,LIB,Donald G Rainwater II,90,2,17,109
 LaPorte,Hudson,Attorney General,,DEM,Jonathan Weinzapfel,172,71,83,326
 LaPorte,Hudson,Attorney General,,REP,Todd Rokita,432,47,116,595
-LaPorte,Hudson,State Senator,8,DEM,Gary Davis,171,65,89,325
-LaPorte,Hudson,State Senator,8,REP,Mike Bohacek,443,50,116,609
+LaPorte,Hudson,State Senate,8,DEM,Gary Davis,171,65,89,325
+LaPorte,Hudson,State Senate,8,REP,Mike Bohacek,443,50,116,609
 LaPorte,Hudson,State Representative,8,DEM,Ryan M Dvorak,201,78,91,370
 LaPorte,Hudson,State Representative,8,REP,Timothy Jaycox,409,38,113,560
 LaPorte,Johnson,Registered Voters,,,,,,,147
@@ -312,8 +312,8 @@ LaPorte,Johnson,Governor,,REP,Eric Holcomb,61,4,3,68
 LaPorte,Johnson,Governor,,LIB,Donald G Rainwater II,17,0,0,17
 LaPorte,Johnson,Attorney General,,DEM,Jonathan Weinzapfel,23,1,5,29
 LaPorte,Johnson,Attorney General,,REP,Todd Rokita,70,4,3,77
-LaPorte,Johnson,State Senator,8,DEM,Gary Davis,23,1,5,29
-LaPorte,Johnson,State Senator,8,REP,Mike Bohacek,72,4,3,79
+LaPorte,Johnson,State Senate,8,DEM,Gary Davis,23,1,5,29
+LaPorte,Johnson,State Senate,8,REP,Mike Bohacek,72,4,3,79
 LaPorte,Johnson,State Representative,20,DEM,Tim Gust,19,1,5,25
 LaPorte,Johnson,State Representative,20,REP,Jim Pressel,75,4,3,82
 LaPorte,Kankakee 1,Registered Voters,,,,,,,1515
@@ -327,8 +327,8 @@ LaPorte,Kankakee 1,Governor,,REP,Eric Holcomb,344,57,227,628
 LaPorte,Kankakee 1,Governor,,LIB,Donald G Rainwater II,84,7,26,117
 LaPorte,Kankakee 1,Attorney General,,DEM,Jonathan Weinzapfel,132,109,153,394
 LaPorte,Kankakee 1,Attorney General,,REP,Todd Rokita,355,48,223,626
-LaPorte,Kankakee 1,State Senator,8,DEM,Gary Davis,144,111,156,411
-LaPorte,Kankakee 1,State Senator,8,REP,Mike Bohacek,364,47,226,637
+LaPorte,Kankakee 1,State Senate,8,DEM,Gary Davis,144,111,156,411
+LaPorte,Kankakee 1,State Senate,8,REP,Mike Bohacek,364,47,226,637
 LaPorte,Kankakee 1,State Representative,20,DEM,Tim Gust,107,91,133,331
 LaPorte,Kankakee 1,State Representative,20,REP,Jim Pressel,401,67,251,719
 LaPorte,Kankakee 2,Registered Voters,,,,,,,1352
@@ -342,8 +342,8 @@ LaPorte,Kankakee 2,Governor,,REP,Eric Holcomb,408,48,130,586
 LaPorte,Kankakee 2,Governor,,LIB,Donald G Rainwater II,97,3,15,115
 LaPorte,Kankakee 2,Attorney General,,DEM,Jonathan Weinzapfel,168,59,94,321
 LaPorte,Kankakee 2,Attorney General,,REP,Todd Rokita,410,38,117,565
-LaPorte,Kankakee 2,State Senator,8,DEM,Gary Davis,159,58,93,310
-LaPorte,Kankakee 2,State Senator,8,REP,Mike Bohacek,442,37,125,604
+LaPorte,Kankakee 2,State Senate,8,DEM,Gary Davis,159,58,93,310
+LaPorte,Kankakee 2,State Senate,8,REP,Mike Bohacek,442,37,125,604
 LaPorte,Kankakee 2,State Representative,20,DEM,Tim Gust,123,37,87,247
 LaPorte,Kankakee 2,State Representative,20,REP,Jim Pressel,484,56,131,671
 LaPorte,Kingsbury,Registered Voters,,,,,,,161
@@ -357,8 +357,8 @@ LaPorte,Kingsbury,Governor,,REP,Eric Holcomb,47,8,7,62
 LaPorte,Kingsbury,Governor,,LIB,Donald G Rainwater II,12,1,2,15
 LaPorte,Kingsbury,Attorney General,,DEM,Jonathan Weinzapfel,23,8,6,37
 LaPorte,Kingsbury,Attorney General,,REP,Todd Rokita,44,8,7,59
-LaPorte,Kingsbury,State Senator,8,DEM,Gary Davis,20,8,6,34
-LaPorte,Kingsbury,State Senator,8,REP,Mike Bohacek,50,8,8,66
+LaPorte,Kingsbury,State Senate,8,DEM,Gary Davis,20,8,6,34
+LaPorte,Kingsbury,State Senate,8,REP,Mike Bohacek,50,8,8,66
 LaPorte,Kingsbury,State Representative,20,DEM,Tim Gust,12,6,6,24
 LaPorte,Kingsbury,State Representative,20,REP,Jim Pressel,57,10,8,75
 LaPorte,Kingsford Heights,Registered Voters,,,,,,,843
@@ -372,8 +372,8 @@ LaPorte,Kingsford Heights,Governor,,REP,Eric Holcomb,227,18,30,275
 LaPorte,Kingsford Heights,Governor,,LIB,Donald G Rainwater II,58,1,6,65
 LaPorte,Kingsford Heights,Attorney General,,DEM,Jonathan Weinzapfel,142,22,42,206
 LaPorte,Kingsford Heights,Attorney General,,REP,Todd Rokita,230,15,31,276
-LaPorte,Kingsford Heights,State Senator,8,DEM,Gary Davis,141,23,41,205
-LaPorte,Kingsford Heights,State Senator,8,REP,Mike Bohacek,247,14,33,294
+LaPorte,Kingsford Heights,State Senate,8,DEM,Gary Davis,141,23,41,205
+LaPorte,Kingsford Heights,State Senate,8,REP,Mike Bohacek,247,14,33,294
 LaPorte,Kingsford Heights,State Representative,20,DEM,Tim Gust,126,23,39,188
 LaPorte,Kingsford Heights,State Representative,20,REP,Jim Pressel,263,14,35,312
 LaPorte,LaCrosse,Registered Voters,,,,,,,381
@@ -391,8 +391,8 @@ LaPorte,LaCrosse,U.S. House,1,DEM,Frank J Mrvan,50,10,21,81
 LaPorte,LaCrosse,U.S. House,1,REP,Mark Leyva,119,3,29,151
 LaPorte,LaCrosse,U.S. House,1,LIB,Michael Strauss,9,2,2,13
 LaPorte,LaCrosse,U.S. House,1,,Write-In,0,0,0,0
-LaPorte,LaCrosse,State Senator,5,DEM,Luke Bohm,45,9,22,76
-LaPorte,LaCrosse,State Senator,5,REP,Ed Charbonneau,135,8,32,175
+LaPorte,LaCrosse,State Senate,5,DEM,Luke Bohm,45,9,22,76
+LaPorte,LaCrosse,State Senate,5,REP,Ed Charbonneau,135,8,32,175
 LaPorte,LaCrosse,State Representative,20,DEM,Tim Gust,42,8,18,68
 LaPorte,LaCrosse,State Representative,20,REP,Jim Pressel,139,9,37,185
 LaPorte,Lincoln,Registered Voters,,,,,,,1253
@@ -406,8 +406,8 @@ LaPorte,Lincoln,Governor,,REP,Eric Holcomb,360,31,115,506
 LaPorte,Lincoln,Governor,,LIB,Donald G Rainwater II,84,1,13,98
 LaPorte,Lincoln,Attorney General,,DEM,Jonathan Weinzapfel,169,59,76,304
 LaPorte,Lincoln,Attorney General,,REP,Todd Rokita,376,23,110,509
-LaPorte,Lincoln,State Senator,8,DEM,Gary Davis,164,60,74,298
-LaPorte,Lincoln,State Senator,8,REP,Mike Bohacek,395,23,114,532
+LaPorte,Lincoln,State Senate,8,DEM,Gary Davis,164,60,74,298
+LaPorte,Lincoln,State Senate,8,REP,Mike Bohacek,395,23,114,532
 LaPorte,Lincoln,State Representative,20,DEM,Tim Gust,130,53,65,248
 LaPorte,Lincoln,State Representative,20,REP,Jim Pressel,427,30,124,581
 LaPorte,Long Beach,Registered Voters,,,,,,,1313
@@ -438,8 +438,8 @@ LaPorte,LP25,Governor,,REP,Eric Holcomb,184,22,57,263
 LaPorte,LP25,Governor,,LIB,Donald G Rainwater II,58,3,9,70
 LaPorte,LP25,Attorney General,,DEM,Jonathan Weinzapfel,138,36,64,238
 LaPorte,LP25,Attorney General,,REP,Todd Rokita,196,20,57,273
-LaPorte,LP25,State Senator,8,DEM,Gary Davis,140,36,63,239
-LaPorte,LP25,State Senator,8,REP,Mike Bohacek,204,19,59,282
+LaPorte,LP25,State Senate,8,DEM,Gary Davis,140,36,63,239
+LaPorte,LP25,State Senate,8,REP,Mike Bohacek,204,19,59,282
 LaPorte,LP25,State Representative,20,DEM,Tim Gust,119,31,56,206
 LaPorte,LP25,State Representative,20,REP,Jim Pressel,227,24,66,317
 LaPorte,LP26,Registered Voters,,,,,,,534
@@ -453,8 +453,8 @@ LaPorte,LP26,Governor,,REP,Eric Holcomb,74,5,16,95
 LaPorte,LP26,Governor,,LIB,Donald G Rainwater II,22,1,6,29
 LaPorte,LP26,Attorney General,,DEM,Jonathan Weinzapfel,48,10,17,75
 LaPorte,LP26,Attorney General,,REP,Todd Rokita,80,3,17,100
-LaPorte,LP26,State Senator,8,DEM,Gary Davis,51,10,16,77
-LaPorte,LP26,State Senator,8,REP,Mike Bohacek,84,3,21,108
+LaPorte,LP26,State Senate,8,DEM,Gary Davis,51,10,16,77
+LaPorte,LP26,State Senate,8,REP,Mike Bohacek,84,3,21,108
 LaPorte,LP26,State Representative,20,DEM,Tim Gust,41,11,15,67
 LaPorte,LP26,State Representative,20,REP,Jim Pressel,95,2,22,119
 LaPorte,LP27,Registered Voters,,,,,,,448
@@ -468,8 +468,8 @@ LaPorte,LP27,Governor,,REP,Eric Holcomb,66,7,32,105
 LaPorte,LP27,Governor,,LIB,Donald G Rainwater II,8,0,3,11
 LaPorte,LP27,Attorney General,,DEM,Jonathan Weinzapfel,57,17,51,125
 LaPorte,LP27,Attorney General,,REP,Todd Rokita,61,5,27,93
-LaPorte,LP27,State Senator,8,DEM,Gary Davis,51,15,47,113
-LaPorte,LP27,State Senator,8,REP,Mike Bohacek,68,7,32,107
+LaPorte,LP27,State Senate,8,DEM,Gary Davis,51,15,47,113
+LaPorte,LP27,State Senate,8,REP,Mike Bohacek,68,7,32,107
 LaPorte,LP27,State Representative,20,DEM,Tim Gust,48,15,44,107
 LaPorte,LP27,State Representative,20,REP,Jim Pressel,71,7,35,113
 LaPorte,LP28,Registered Voters,,,,,,,242
@@ -483,8 +483,8 @@ LaPorte,LP28,Governor,,REP,Eric Holcomb,30,3,17,50
 LaPorte,LP28,Governor,,LIB,Donald G Rainwater II,11,0,3,14
 LaPorte,LP28,Attorney General,,DEM,Jonathan Weinzapfel,21,8,17,46
 LaPorte,LP28,Attorney General,,REP,Todd Rokita,29,1,15,45
-LaPorte,LP28,State Senator,8,DEM,Gary Davis,19,9,16,44
-LaPorte,LP28,State Senator,8,REP,Mike Bohacek,32,1,18,51
+LaPorte,LP28,State Senate,8,DEM,Gary Davis,19,9,16,44
+LaPorte,LP28,State Senate,8,REP,Mike Bohacek,32,1,18,51
 LaPorte,LP28,State Representative,20,DEM,Tim Gust,13,9,16,38
 LaPorte,LP28,State Representative,20,REP,Jim Pressel,39,1,19,59
 LaPorte,LP29,Registered Voters,,,,,,,540
@@ -498,8 +498,8 @@ LaPorte,LP29,Governor,,REP,Eric Holcomb,106,20,73,199
 LaPorte,LP29,Governor,,LIB,Donald G Rainwater II,11,3,5,19
 LaPorte,LP29,Attorney General,,DEM,Jonathan Weinzapfel,58,25,42,125
 LaPorte,LP29,Attorney General,,REP,Todd Rokita,93,20,68,181
-LaPorte,LP29,State Senator,8,DEM,Gary Davis,52,25,39,116
-LaPorte,LP29,State Senator,8,REP,Mike Bohacek,103,20,74,197
+LaPorte,LP29,State Senate,8,DEM,Gary Davis,52,25,39,116
+LaPorte,LP29,State Senate,8,REP,Mike Bohacek,103,20,74,197
 LaPorte,LP29,State Representative,20,DEM,Tim Gust,44,22,34,100
 LaPorte,LP29,State Representative,20,REP,Jim Pressel,112,24,81,217
 LaPorte,LP30,Registered Voters,,,,,,,930
@@ -513,8 +513,8 @@ LaPorte,LP30,Governor,,REP,Eric Holcomb,160,21,108,289
 LaPorte,LP30,Governor,,LIB,Donald G Rainwater II,56,1,13,70
 LaPorte,LP30,Attorney General,,DEM,Jonathan Weinzapfel,85,43,84,212
 LaPorte,LP30,Attorney General,,REP,Todd Rokita,170,13,94,277
-LaPorte,LP30,State Senator,8,DEM,Gary Davis,83,46,84,213
-LaPorte,LP30,State Senator,8,REP,Mike Bohacek,190,11,93,294
+LaPorte,LP30,State Senate,8,DEM,Gary Davis,83,46,84,213
+LaPorte,LP30,State Senate,8,REP,Mike Bohacek,190,11,93,294
 LaPorte,LP30,State Representative,20,DEM,Tim Gust,85,39,71,195
 LaPorte,LP30,State Representative,20,REP,Jim Pressel,185,18,111,314
 LaPorte,LP31,Registered Voters,,,,,,,1422
@@ -528,8 +528,8 @@ LaPorte,LP31,Governor,,REP,Eric Holcomb,201,63,110,374
 LaPorte,LP31,Governor,,LIB,Donald G Rainwater II,36,2,16,54
 LaPorte,LP31,Attorney General,,DEM,Jonathan Weinzapfel,162,95,132,389
 LaPorte,LP31,Attorney General,,REP,Todd Rokita,185,46,106,337
-LaPorte,LP31,State Senator,8,DEM,Gary Davis,159,92,126,377
-LaPorte,LP31,State Senator,8,REP,Mike Bohacek,204,47,113,364
+LaPorte,LP31,State Senate,8,DEM,Gary Davis,159,92,126,377
+LaPorte,LP31,State Senate,8,REP,Mike Bohacek,204,47,113,364
 LaPorte,LP31,State Representative,20,DEM,Tim Gust,143,86,120,349
 LaPorte,LP31,State Representative,20,REP,Jim Pressel,219,54,120,393
 LaPorte,LP32,Registered Voters,,,,,,,1298
@@ -543,8 +543,8 @@ LaPorte,LP32,Governor,,REP,Eric Holcomb,147,37,103,287
 LaPorte,LP32,Governor,,LIB,Donald G Rainwater II,50,1,22,73
 LaPorte,LP32,Attorney General,,DEM,Jonathan Weinzapfel,116,42,122,280
 LaPorte,LP32,Attorney General,,REP,Todd Rokita,164,29,104,297
-LaPorte,LP32,State Senator,8,DEM,Gary Davis,105,38,125,268
-LaPorte,LP32,State Senator,8,REP,Mike Bohacek,177,32,102,311
+LaPorte,LP32,State Senate,8,DEM,Gary Davis,105,38,125,268
+LaPorte,LP32,State Senate,8,REP,Mike Bohacek,177,32,102,311
 LaPorte,LP32,State Representative,20,DEM,Tim Gust,101,38,110,249
 LaPorte,LP32,State Representative,20,REP,Jim Pressel,179,32,118,329
 LaPorte,LP33,Registered Voters,,,,,,,898
@@ -558,8 +558,8 @@ LaPorte,LP33,Governor,,REP,Eric Holcomb,206,32,89,327
 LaPorte,LP33,Governor,,LIB,Donald G Rainwater II,37,2,18,57
 LaPorte,LP33,Attorney General,,DEM,Jonathan Weinzapfel,98,58,90,246
 LaPorte,LP33,Attorney General,,REP,Todd Rokita,198,26,88,312
-LaPorte,LP33,State Senator,8,DEM,Gary Davis,96,55,92,243
-LaPorte,LP33,State Senator,8,REP,Mike Bohacek,209,27,89,325
+LaPorte,LP33,State Senate,8,DEM,Gary Davis,96,55,92,243
+LaPorte,LP33,State Senate,8,REP,Mike Bohacek,209,27,89,325
 LaPorte,LP33,State Representative,20,DEM,Tim Gust,93,43,86,222
 LaPorte,LP33,State Representative,20,REP,Jim Pressel,213,39,97,349
 LaPorte,LP34,Registered Voters,,,,,,,753
@@ -573,8 +573,8 @@ LaPorte,LP34,Governor,,REP,Eric Holcomb,182,31,90,303
 LaPorte,LP34,Governor,,LIB,Donald G Rainwater II,34,1,8,43
 LaPorte,LP34,Attorney General,,DEM,Jonathan Weinzapfel,94,59,103,256
 LaPorte,LP34,Attorney General,,REP,Todd Rokita,179,23,72,274
-LaPorte,LP34,State Senator,8,DEM,Gary Davis,92,59,103,254
-LaPorte,LP34,State Senator,8,REP,Mike Bohacek,188,26,78,292
+LaPorte,LP34,State Senate,8,DEM,Gary Davis,92,59,103,254
+LaPorte,LP34,State Senate,8,REP,Mike Bohacek,188,26,78,292
 LaPorte,LP34,State Representative,20,DEM,Tim Gust,76,46,90,212
 LaPorte,LP34,State Representative,20,REP,Jim Pressel,202,38,92,332
 LaPorte,LP35,Registered Voters,,,,,,,70
@@ -588,8 +588,8 @@ LaPorte,LP35,Governor,,REP,Eric Holcomb,5,5,13,23
 LaPorte,LP35,Governor,,LIB,Donald G Rainwater II,1,0,3,4
 LaPorte,LP35,Attorney General,,DEM,Jonathan Weinzapfel,3,7,8,18
 LaPorte,LP35,Attorney General,,REP,Todd Rokita,6,2,16,24
-LaPorte,LP35,State Senator,8,DEM,Gary Davis,2,6,9,17
-LaPorte,LP35,State Senator,8,REP,Mike Bohacek,7,3,15,25
+LaPorte,LP35,State Senate,8,DEM,Gary Davis,2,6,9,17
+LaPorte,LP35,State Senate,8,REP,Mike Bohacek,7,3,15,25
 LaPorte,LP35,State Representative,20,DEM,Tim Gust,2,4,6,12
 LaPorte,LP35,State Representative,20,REP,Jim Pressel,7,4,18,29
 LaPorte,LP36,Registered Voters,,,,,,,69
@@ -603,8 +603,8 @@ LaPorte,LP36,Governor,,REP,Eric Holcomb,20,1,11,32
 LaPorte,LP36,Governor,,LIB,Donald G Rainwater II,2,0,0,2
 LaPorte,LP36,Attorney General,,DEM,Jonathan Weinzapfel,5,9,6,20
 LaPorte,LP36,Attorney General,,REP,Todd Rokita,20,1,9,30
-LaPorte,LP36,State Senator,8,DEM,Gary Davis,8,8,6,22
-LaPorte,LP36,State Senator,8,REP,Mike Bohacek,17,2,10,29
+LaPorte,LP36,State Senate,8,DEM,Gary Davis,8,8,6,22
+LaPorte,LP36,State Senate,8,REP,Mike Bohacek,17,2,10,29
 LaPorte,LP36,State Representative,20,DEM,Tim Gust,4,7,5,16
 LaPorte,LP36,State Representative,20,REP,Jim Pressel,22,3,11,36
 LaPorte,LP37,Registered Voters,,,,,,,993
@@ -618,8 +618,8 @@ LaPorte,LP37,Governor,,REP,Eric Holcomb,171,34,66,271
 LaPorte,LP37,Governor,,LIB,Donald G Rainwater II,54,1,17,72
 LaPorte,LP37,Attorney General,,DEM,Jonathan Weinzapfel,115,62,88,265
 LaPorte,LP37,Attorney General,,REP,Todd Rokita,179,23,66,268
-LaPorte,LP37,State Senator,8,DEM,Gary Davis,100,56,82,238
-LaPorte,LP37,State Senator,8,REP,Mike Bohacek,199,27,75,301
+LaPorte,LP37,State Senate,8,DEM,Gary Davis,100,56,82,238
+LaPorte,LP37,State Senate,8,REP,Mike Bohacek,199,27,75,301
 LaPorte,LP37,State Representative,20,DEM,Tim Gust,86,47,81,214
 LaPorte,LP37,State Representative,20,REP,Jim Pressel,214,37,81,332
 LaPorte,LP38,Registered Voters,,,,,,,831
@@ -633,8 +633,8 @@ LaPorte,LP38,Governor,,REP,Eric Holcomb,137,29,64,230
 LaPorte,LP38,Governor,,LIB,Donald G Rainwater II,43,4,13,60
 LaPorte,LP38,Attorney General,,DEM,Jonathan Weinzapfel,103,32,88,223
 LaPorte,LP38,Attorney General,,REP,Todd Rokita,142,23,60,225
-LaPorte,LP38,State Senator,8,DEM,Gary Davis,97,32,81,210
-LaPorte,LP38,State Senator,8,REP,Mike Bohacek,156,21,68,245
+LaPorte,LP38,State Senate,8,DEM,Gary Davis,97,32,81,210
+LaPorte,LP38,State Senate,8,REP,Mike Bohacek,156,21,68,245
 LaPorte,LP38,State Representative,20,DEM,Tim Gust,88,23,68,179
 LaPorte,LP38,State Representative,20,REP,Jim Pressel,165,30,80,275
 LaPorte,LP39,Registered Voters,,,,,,,310
@@ -648,8 +648,8 @@ LaPorte,LP39,Governor,,REP,Eric Holcomb,65,9,13,87
 LaPorte,LP39,Governor,,LIB,Donald G Rainwater II,9,0,3,12
 LaPorte,LP39,Attorney General,,DEM,Jonathan Weinzapfel,36,14,27,77
 LaPorte,LP39,Attorney General,,REP,Todd Rokita,62,8,13,83
-LaPorte,LP39,State Senator,8,DEM,Gary Davis,37,14,28,79
-LaPorte,LP39,State Senator,8,REP,Mike Bohacek,64,8,16,88
+LaPorte,LP39,State Senate,8,DEM,Gary Davis,37,14,28,79
+LaPorte,LP39,State Senate,8,REP,Mike Bohacek,64,8,16,88
 LaPorte,LP39,State Representative,20,DEM,Tim Gust,33,14,26,73
 LaPorte,LP39,State Representative,20,REP,Jim Pressel,68,8,17,93
 LaPorte,LP40,Registered Voters,,,,,,,915
@@ -663,8 +663,8 @@ LaPorte,LP40,Governor,,REP,Eric Holcomb,203,60,72,335
 LaPorte,LP40,Governor,,LIB,Donald G Rainwater II,38,2,8,48
 LaPorte,LP40,Attorney General,,DEM,Jonathan Weinzapfel,87,71,83,241
 LaPorte,LP40,Attorney General,,REP,Todd Rokita,198,46,72,316
-LaPorte,LP40,State Senator,8,DEM,Gary Davis,79,70,82,231
-LaPorte,LP40,State Senator,8,REP,Mike Bohacek,217,48,72,337
+LaPorte,LP40,State Senate,8,DEM,Gary Davis,79,70,82,231
+LaPorte,LP40,State Senate,8,REP,Mike Bohacek,217,48,72,337
 LaPorte,LP40,State Representative,20,DEM,Tim Gust,72,68,74,214
 LaPorte,LP40,State Representative,20,REP,Jim Pressel,227,51,87,365
 LaPorte,LP41,Registered Voters,,,,,,,1074
@@ -678,8 +678,8 @@ LaPorte,LP41,Governor,,REP,Eric Holcomb,226,49,130,405
 LaPorte,LP41,Governor,,LIB,Donald G Rainwater II,33,0,6,39
 LaPorte,LP41,Attorney General,,DEM,Jonathan Weinzapfel,114,67,96,277
 LaPorte,LP41,Attorney General,,REP,Todd Rokita,214,40,115,369
-LaPorte,LP41,State Senator,8,DEM,Gary Davis,112,62,102,276
-LaPorte,LP41,State Senator,8,REP,Mike Bohacek,224,42,121,387
+LaPorte,LP41,State Senate,8,DEM,Gary Davis,112,62,102,276
+LaPorte,LP41,State Senate,8,REP,Mike Bohacek,224,42,121,387
 LaPorte,LP41,State Representative,20,DEM,Tim Gust,97,52,88,237
 LaPorte,LP41,State Representative,20,REP,Jim Pressel,240,53,134,427
 LaPorte,LP42,Registered Voters,,,,,,,244
@@ -693,8 +693,8 @@ LaPorte,LP42,Governor,,REP,Eric Holcomb,45,8,27,80
 LaPorte,LP42,Governor,,LIB,Donald G Rainwater II,11,0,2,13
 LaPorte,LP42,Attorney General,,DEM,Jonathan Weinzapfel,33,5,40,78
 LaPorte,LP42,Attorney General,,REP,Todd Rokita,44,6,26,76
-LaPorte,LP42,State Senator,8,DEM,Gary Davis,30,5,43,78
-LaPorte,LP42,State Senator,8,REP,Mike Bohacek,48,6,23,77
+LaPorte,LP42,State Senate,8,DEM,Gary Davis,30,5,43,78
+LaPorte,LP42,State Senate,8,REP,Mike Bohacek,48,6,23,77
 LaPorte,LP42,State Representative,20,DEM,Tim Gust,33,3,37,73
 LaPorte,LP42,State Representative,20,REP,Jim Pressel,49,8,29,86
 LaPorte,LP43,Registered Voters,,,,,,,761
@@ -708,8 +708,8 @@ LaPorte,LP43,Governor,,REP,Eric Holcomb,147,38,59,244
 LaPorte,LP43,Governor,,LIB,Donald G Rainwater II,30,1,6,37
 LaPorte,LP43,Attorney General,,DEM,Jonathan Weinzapfel,74,44,65,183
 LaPorte,LP43,Attorney General,,REP,Todd Rokita,152,34,57,243
-LaPorte,LP43,State Senator,8,DEM,Gary Davis,75,45,62,182
-LaPorte,LP43,State Senator,8,REP,Mike Bohacek,155,31,65,251
+LaPorte,LP43,State Senate,8,DEM,Gary Davis,75,45,62,182
+LaPorte,LP43,State Senate,8,REP,Mike Bohacek,155,31,65,251
 LaPorte,LP43,State Representative,20,DEM,Tim Gust,67,40,58,165
 LaPorte,LP43,State Representative,20,REP,Jim Pressel,165,36,69,270
 LaPorte,LP44,Registered Voters,,,,,,,886
@@ -723,8 +723,8 @@ LaPorte,LP44,Governor,,REP,Eric Holcomb,170,20,74,264
 LaPorte,LP44,Governor,,LIB,Donald G Rainwater II,46,1,10,57
 LaPorte,LP44,Attorney General,,DEM,Jonathan Weinzapfel,101,35,85,221
 LaPorte,LP44,Attorney General,,REP,Todd Rokita,177,22,73,272
-LaPorte,LP44,State Senator,8,DEM,Gary Davis,90,33,85,208
-LaPorte,LP44,State Senator,8,REP,Mike Bohacek,195,21,75,291
+LaPorte,LP44,State Senate,8,DEM,Gary Davis,90,33,85,208
+LaPorte,LP44,State Senate,8,REP,Mike Bohacek,195,21,75,291
 LaPorte,LP44,State Representative,20,DEM,Tim Gust,81,32,83,196
 LaPorte,LP44,State Representative,20,REP,Jim Pressel,203,21,78,302
 LaPorte,MC01,Registered Voters,,,,,,,1212
@@ -963,8 +963,8 @@ LaPorte,MC14,U.S. House,1,DEM,Frank J Mrvan,132,23,76,231
 LaPorte,MC14,U.S. House,1,REP,Mark Leyva,50,3,31,84
 LaPorte,MC14,U.S. House,1,LIB,Michael Strauss,18,2,6,26
 LaPorte,MC14,U.S. House,1,,Write-In,0,0,0,0
-LaPorte,MC14,State Senator,8,DEM,Gary Davis,137,25,80,242
-LaPorte,MC14,State Senator,8,REP,Mike Bohacek,62,4,34,100
+LaPorte,MC14,State Senate,8,DEM,Gary Davis,137,25,80,242
+LaPorte,MC14,State Senate,8,REP,Mike Bohacek,62,4,34,100
 LaPorte,MC14,State Representative,9,DEM,Patricia A (Pat) Boy,140,26,82,248
 LaPorte,MC14,State Representative,9,REP,Dion Bergeron,58,3,33,94
 LaPorte,MC15,Registered Voters,,,,,,,778
@@ -982,8 +982,8 @@ LaPorte,MC15,U.S. House,1,DEM,Frank J Mrvan,70,70,148,288
 LaPorte,MC15,U.S. House,1,REP,Mark Leyva,77,30,65,172
 LaPorte,MC15,U.S. House,1,LIB,Michael Strauss,9,5,5,19
 LaPorte,MC15,U.S. House,1,,Write-In,0,0,0,0
-LaPorte,MC15,State Senator,8,DEM,Gary Davis,67,65,140,272
-LaPorte,MC15,State Senator,8,REP,Mike Bohacek,90,42,79,211
+LaPorte,MC15,State Senate,8,DEM,Gary Davis,67,65,140,272
+LaPorte,MC15,State Senate,8,REP,Mike Bohacek,90,42,79,211
 LaPorte,MC15,State Representative,9,DEM,Patricia A (Pat) Boy,79,80,164,323
 LaPorte,MC15,State Representative,9,REP,Dion Bergeron,77,30,59,166
 LaPorte,MC16,Registered Voters,,,,,,,1137
@@ -1069,8 +1069,8 @@ LaPorte,MC20,U.S. House,1,DEM,Frank J Mrvan,189,56,167,412
 LaPorte,MC20,U.S. House,1,REP,Mark Leyva,93,14,62,169
 LaPorte,MC20,U.S. House,1,LIB,Michael Strauss,12,0,4,16
 LaPorte,MC20,U.S. House,1,,Write-In,0,0,0,0
-LaPorte,MC20,State Senator,8,DEM,Gary Davis,180,54,159,393
-LaPorte,MC20,State Senator,8,REP,Mike Bohacek,110,17,73,200
+LaPorte,MC20,State Senate,8,DEM,Gary Davis,180,54,159,393
+LaPorte,MC20,State Senate,8,REP,Mike Bohacek,110,17,73,200
 LaPorte,MC20,State Representative,9,DEM,Patricia A (Pat) Boy,200,57,169,426
 LaPorte,MC20,State Representative,9,REP,Dion Bergeron,90,13,63,166
 LaPorte,MC21,Registered Voters,,,,,,,320
@@ -1088,8 +1088,8 @@ LaPorte,MC21,U.S. House,1,DEM,Frank J Mrvan,39,8,35,82
 LaPorte,MC21,U.S. House,1,REP,Mark Leyva,15,1,9,25
 LaPorte,MC21,U.S. House,1,LIB,Michael Strauss,4,2,2,8
 LaPorte,MC21,U.S. House,1,,Write-In,0,0,0,0
-LaPorte,MC21,State Senator,8,DEM,Gary Davis,40,7,35,82
-LaPorte,MC21,State Senator,8,REP,Mike Bohacek,22,3,11,36
+LaPorte,MC21,State Senate,8,DEM,Gary Davis,40,7,35,82
+LaPorte,MC21,State Senate,8,REP,Mike Bohacek,22,3,11,36
 LaPorte,MC21,State Representative,9,DEM,Patricia A (Pat) Boy,41,7,37,85
 LaPorte,MC21,State Representative,9,REP,Dion Bergeron,18,4,9,31
 LaPorte,MC22,Registered Voters,,,,,,,1485
@@ -1107,8 +1107,8 @@ LaPorte,MC22,U.S. House,1,DEM,Frank J Mrvan,147,71,169,387
 LaPorte,MC22,U.S. House,1,REP,Mark Leyva,167,33,97,297
 LaPorte,MC22,U.S. House,1,LIB,Michael Strauss,21,8,9,38
 LaPorte,MC22,U.S. House,1,,Write-In,0,0,0,0
-LaPorte,MC22,State Senator,8,DEM,Gary Davis,156,71,165,392
-LaPorte,MC22,State Senator,8,REP,Mike Bohacek,178,39,114,331
+LaPorte,MC22,State Senate,8,DEM,Gary Davis,156,71,165,392
+LaPorte,MC22,State Senate,8,REP,Mike Bohacek,178,39,114,331
 LaPorte,MC22,State Representative,9,DEM,Patricia A (Pat) Boy,157,84,172,413
 LaPorte,MC22,State Representative,9,REP,Dion Bergeron,179,29,104,312
 LaPorte,MC23,Registered Voters,,,,,,,1306
@@ -1160,8 +1160,8 @@ LaPorte,MC45,U.S. House,1,DEM,Frank J Mrvan,23,11,23,57
 LaPorte,MC45,U.S. House,1,REP,Mark Leyva,4,2,4,10
 LaPorte,MC45,U.S. House,1,LIB,Michael Strauss,0,1,1,2
 LaPorte,MC45,U.S. House,1,,Write-In,0,0,0,0
-LaPorte,MC45,State Senator,8,DEM,Gary Davis,23,15,22,60
-LaPorte,MC45,State Senator,8,REP,Mike Bohacek,4,0,5,9
+LaPorte,MC45,State Senate,8,DEM,Gary Davis,23,15,22,60
+LaPorte,MC45,State Senate,8,REP,Mike Bohacek,4,0,5,9
 LaPorte,MC45,State Representative,9,DEM,Patricia A (Pat) Boy,22,12,22,56
 LaPorte,MC45,State Representative,9,REP,Dion Bergeron,5,3,5,13
 LaPorte,Michiana Shores 01,Registered Voters,,,,,,,187
@@ -1196,8 +1196,8 @@ LaPorte,Michiana Shores 02,U.S. House,1,DEM,Frank J Mrvan,20,20,19,59
 LaPorte,Michiana Shores 02,U.S. House,1,REP,Mark Leyva,24,4,2,30
 LaPorte,Michiana Shores 02,U.S. House,1,LIB,Michael Strauss,1,1,0,2
 LaPorte,Michiana Shores 02,U.S. House,1,,Write-In,0,0,0,0
-LaPorte,Michiana Shores 02,State Senator,8,DEM,Gary Davis,23,15,15,53
-LaPorte,Michiana Shores 02,State Senator,8,REP,Mike Bohacek,22,10,6,38
+LaPorte,Michiana Shores 02,State Senate,8,DEM,Gary Davis,23,15,15,53
+LaPorte,Michiana Shores 02,State Senate,8,REP,Mike Bohacek,22,10,6,38
 LaPorte,Michiana Shores 02,State Representative,9,DEM,Patricia A (Pat) Boy,22,20,18,60
 LaPorte,Michiana Shores 02,State Representative,9,REP,Dion Bergeron,23,5,3,31
 LaPorte,New Durham 01,Registered Voters,,,,,,,1457
@@ -1245,8 +1245,8 @@ LaPorte,Noble,Governor,,REP,Eric Holcomb,374,40,142,556
 LaPorte,Noble,Governor,,LIB,Donald G Rainwater II,100,2,26,128
 LaPorte,Noble,Attorney General,,DEM,Jonathan Weinzapfel,154,63,67,284
 LaPorte,Noble,Attorney General,,REP,Todd Rokita,386,26,142,554
-LaPorte,Noble,State Senator,8,DEM,Gary Davis,141,61,64,266
-LaPorte,Noble,State Senator,8,REP,Mike Bohacek,413,30,147,590
+LaPorte,Noble,State Senate,8,DEM,Gary Davis,141,61,64,266
+LaPorte,Noble,State Senate,8,REP,Mike Bohacek,413,30,147,590
 LaPorte,Noble,State Representative,20,DEM,Tim Gust,110,55,55,220
 LaPorte,Noble,State Representative,20,REP,Jim Pressel,453,36,165,654
 LaPorte,Pleasant,Registered Voters,,,,,,,1535
@@ -1260,8 +1260,8 @@ LaPorte,Pleasant,Governor,,REP,Eric Holcomb,420,57,190,667
 LaPorte,Pleasant,Governor,,LIB,Donald G Rainwater II,107,1,30,138
 LaPorte,Pleasant,Attorney General,,DEM,Jonathan Weinzapfel,184,69,134,387
 LaPorte,Pleasant,Attorney General,,REP,Todd Rokita,444,37,174,655
-LaPorte,Pleasant,State Senator,8,DEM,Gary Davis,163,68,123,354
-LaPorte,Pleasant,State Senator,8,REP,Mike Bohacek,470,38,192,700
+LaPorte,Pleasant,State Senate,8,DEM,Gary Davis,163,68,123,354
+LaPorte,Pleasant,State Senate,8,REP,Mike Bohacek,470,38,192,700
 LaPorte,Pleasant,State Representative,20,DEM,Tim Gust,139,55,104,298
 LaPorte,Pleasant,State Representative,20,REP,Jim Pressel,496,54,210,760
 LaPorte,Pottawattomie Park,Registered Voters,,,,,,,229
@@ -1279,8 +1279,8 @@ LaPorte,Pottawattomie Park,U.S. House,1,DEM,Frank J Mrvan,24,13,36,73
 LaPorte,Pottawattomie Park,U.S. House,1,REP,Mark Leyva,34,12,21,67
 LaPorte,Pottawattomie Park,U.S. House,1,LIB,Michael Strauss,3,2,1,6
 LaPorte,Pottawattomie Park,U.S. House,1,,Write-In,0,0,0,0
-LaPorte,Pottawattomie Park,State Senator,8,DEM,Gary Davis,26,12,35,73
-LaPorte,Pottawattomie Park,State Senator,8,REP,Mike Bohacek,39,15,24,78
+LaPorte,Pottawattomie Park,State Senate,8,DEM,Gary Davis,26,12,35,73
+LaPorte,Pottawattomie Park,State Senate,8,REP,Mike Bohacek,39,15,24,78
 LaPorte,Pottawattomie Park,State Representative,9,DEM,Patricia A (Pat) Boy,35,20,38,93
 LaPorte,Pottawattomie Park,State Representative,9,REP,Dion Bergeron,29,8,21,58
 LaPorte,Prairie,Registered Voters,,,,,,,174
@@ -1294,8 +1294,8 @@ LaPorte,Prairie,Governor,,REP,Eric Holcomb,57,5,12,74
 LaPorte,Prairie,Governor,,LIB,Donald G Rainwater II,17,0,7,24
 LaPorte,Prairie,Attorney General,,DEM,Jonathan Weinzapfel,29,3,11,43
 LaPorte,Prairie,Attorney General,,REP,Todd Rokita,56,5,17,78
-LaPorte,Prairie,State Senator,8,DEM,Gary Davis,27,5,8,40
-LaPorte,Prairie,State Senator,8,REP,Mike Bohacek,61,3,20,84
+LaPorte,Prairie,State Senate,8,DEM,Gary Davis,27,5,8,40
+LaPorte,Prairie,State Senate,8,REP,Mike Bohacek,61,3,20,84
 LaPorte,Prairie,State Representative,20,DEM,Tim Gust,23,1,7,31
 LaPorte,Prairie,State Representative,20,REP,Jim Pressel,67,7,21,95
 LaPorte,Scipio 1,Registered Voters,,,,,,,1333
@@ -1309,8 +1309,8 @@ LaPorte,Scipio 1,Governor,,REP,Eric Holcomb,322,72,235,629
 LaPorte,Scipio 1,Governor,,LIB,Donald G Rainwater II,67,3,23,93
 LaPorte,Scipio 1,Attorney General,,DEM,Jonathan Weinzapfel,119,74,120,313
 LaPorte,Scipio 1,Attorney General,,REP,Todd Rokita,334,55,233,622
-LaPorte,Scipio 1,State Senator,8,DEM,Gary Davis,122,61,118,301
-LaPorte,Scipio 1,State Senator,8,REP,Mike Bohacek,340,69,249,658
+LaPorte,Scipio 1,State Senate,8,DEM,Gary Davis,122,61,118,301
+LaPorte,Scipio 1,State Senate,8,REP,Mike Bohacek,340,69,249,658
 LaPorte,Scipio 1,State Representative,20,DEM,Tim Gust,96,62,117,275
 LaPorte,Scipio 1,State Representative,20,REP,Jim Pressel,375,70,250,695
 LaPorte,Scipio 2,Registered Voters,,,,,,,1184
@@ -1324,8 +1324,8 @@ LaPorte,Scipio 2,Governor,,REP,Eric Holcomb,193,84,194,471
 LaPorte,Scipio 2,Governor,,LIB,Donald G Rainwater II,51,4,24,79
 LaPorte,Scipio 2,Attorney General,,DEM,Jonathan Weinzapfel,92,84,169,345
 LaPorte,Scipio 2,Attorney General,,REP,Todd Rokita,201,65,200,466
-LaPorte,Scipio 2,State Senator,8,DEM,Gary Davis,92,75,180,347
-LaPorte,Scipio 2,State Senator,8,REP,Mike Bohacek,209,76,191,476
+LaPorte,Scipio 2,State Senate,8,DEM,Gary Davis,92,75,180,347
+LaPorte,Scipio 2,State Senate,8,REP,Mike Bohacek,209,76,191,476
 LaPorte,Scipio 2,State Representative,20,DEM,Tim Gust,77,66,149,292
 LaPorte,Scipio 2,State Representative,20,REP,Jim Pressel,226,86,224,536
 LaPorte,Springfield 1,Registered Voters,,,,,,,977
@@ -1343,8 +1343,8 @@ LaPorte,Springfield 1,U.S. House,1,DEM,Frank J Mrvan,99,54,66,219
 LaPorte,Springfield 1,U.S. House,1,REP,Mark Leyva,245,27,66,338
 LaPorte,Springfield 1,U.S. House,1,LIB,Michael Strauss,22,3,6,31
 LaPorte,Springfield 1,U.S. House,1,,Write-In,0,0,0,0
-LaPorte,Springfield 1,State Senator,8,DEM,Gary Davis,101,54,61,216
-LaPorte,Springfield 1,State Senator,8,REP,Mike Bohacek,262,30,75,367
+LaPorte,Springfield 1,State Senate,8,DEM,Gary Davis,101,54,61,216
+LaPorte,Springfield 1,State Senate,8,REP,Mike Bohacek,262,30,75,367
 LaPorte,Springfield 1,State Representative,8,DEM,Ryan M Dvorak,117,54,65,236
 LaPorte,Springfield 1,State Representative,8,REP,Timothy Jaycox,241,28,71,340
 LaPorte,Springfield 2,Registered Voters,,,,,,,1058
@@ -1362,8 +1362,8 @@ LaPorte,Springfield 2,U.S. House,1,DEM,Frank J Mrvan,82,44,95,221
 LaPorte,Springfield 2,U.S. House,1,REP,Mark Leyva,228,26,87,341
 LaPorte,Springfield 2,U.S. House,1,LIB,Michael Strauss,17,5,10,32
 LaPorte,Springfield 2,U.S. House,1,,Write-In,0,0,0,0
-LaPorte,Springfield 2,State Senator,8,DEM,Gary Davis,77,48,92,217
-LaPorte,Springfield 2,State Senator,8,REP,Mike Bohacek,251,27,102,380
+LaPorte,Springfield 2,State Senate,8,DEM,Gary Davis,77,48,92,217
+LaPorte,Springfield 2,State Senate,8,REP,Mike Bohacek,251,27,102,380
 LaPorte,Springfield 2,State Representative,8,DEM,Ryan M Dvorak,96,53,99,248
 LaPorte,Springfield 2,State Representative,8,REP,Timothy Jaycox,225,23,92,340
 LaPorte,Springfield 3,Registered Voters,,,,,,,721
@@ -1381,8 +1381,8 @@ LaPorte,Springfield 3,U.S. House,1,DEM,Frank J Mrvan,66,52,83,201
 LaPorte,Springfield 3,U.S. House,1,REP,Mark Leyva,119,13,98,230
 LaPorte,Springfield 3,U.S. House,1,LIB,Michael Strauss,8,1,5,14
 LaPorte,Springfield 3,U.S. House,1,,Write-In,0,0,0,0
-LaPorte,Springfield 3,State Senator,8,DEM,Gary Davis,62,51,78,191
-LaPorte,Springfield 3,State Senator,8,REP,Mike Bohacek,129,15,106,250
+LaPorte,Springfield 3,State Senate,8,DEM,Gary Davis,62,51,78,191
+LaPorte,Springfield 3,State Senate,8,REP,Mike Bohacek,129,15,106,250
 LaPorte,Springfield 3,State Representative,9,DEM,Patricia A (Pat) Boy,75,58,95,228
 LaPorte,Springfield 3,State Representative,9,REP,Dion Bergeron,115,8,92,215
 LaPorte,Trail Creek 01,Registered Voters,,,,,,,1053
@@ -1400,8 +1400,8 @@ LaPorte,Trail Creek 01,U.S. House,1,DEM,Frank J Mrvan,102,90,168,360
 LaPorte,Trail Creek 01,U.S. House,1,REP,Mark Leyva,162,36,124,322
 LaPorte,Trail Creek 01,U.S. House,1,LIB,Michael Strauss,19,2,7,28
 LaPorte,Trail Creek 01,U.S. House,1,,Write-In,0,0,0,0
-LaPorte,Trail Creek 01,State Senator,8,DEM,Gary Davis,90,80,161,331
-LaPorte,Trail Creek 01,State Senator,8,REP,Mike Bohacek,194,47,143,384
+LaPorte,Trail Creek 01,State Senate,8,DEM,Gary Davis,90,80,161,331
+LaPorte,Trail Creek 01,State Senate,8,REP,Mike Bohacek,194,47,143,384
 LaPorte,Trail Creek 01,State Representative,9,DEM,Patricia A (Pat) Boy,126,96,186,408
 LaPorte,Trail Creek 01,State Representative,9,REP,Dion Bergeron,154,30,114,298
 LaPorte,Trail Creek 02,Registered Voters,,,,,,,715
@@ -1419,8 +1419,8 @@ LaPorte,Trail Creek 02,U.S. House,1,DEM,Frank J Mrvan,70,62,98,230
 LaPorte,Trail Creek 02,U.S. House,1,REP,Mark Leyva,98,27,69,194
 LaPorte,Trail Creek 02,U.S. House,1,LIB,Michael Strauss,11,0,11,22
 LaPorte,Trail Creek 02,U.S. House,1,,Write-In,0,0,1,1
-LaPorte,Trail Creek 02,State Senator,8,DEM,Gary Davis,56,58,95,209
-LaPorte,Trail Creek 02,State Senator,8,REP,Mike Bohacek,126,32,88,246
+LaPorte,Trail Creek 02,State Senate,8,DEM,Gary Davis,56,58,95,209
+LaPorte,Trail Creek 02,State Senate,8,REP,Mike Bohacek,126,32,88,246
 LaPorte,Trail Creek 02,State Representative,9,DEM,Patricia A (Pat) Boy,81,66,111,258
 LaPorte,Trail Creek 02,State Representative,9,REP,Dion Bergeron,98,25,72,195
 LaPorte,Union,Registered Voters,,,,,,,625
@@ -1434,8 +1434,8 @@ LaPorte,Union,Governor,,REP,Eric Holcomb,184,15,58,257
 LaPorte,Union,Governor,,LIB,Donald G Rainwater II,44,1,9,54
 LaPorte,Union,Attorney General,,DEM,Jonathan Weinzapfel,62,25,39,126
 LaPorte,Union,Attorney General,,REP,Todd Rokita,197,13,57,267
-LaPorte,Union,State Senator,8,DEM,Gary Davis,59,25,37,121
-LaPorte,Union,State Senator,8,REP,Mike Bohacek,208,12,59,279
+LaPorte,Union,State Senate,8,DEM,Gary Davis,59,25,37,121
+LaPorte,Union,State Senate,8,REP,Mike Bohacek,208,12,59,279
 LaPorte,Union,State Representative,20,DEM,Tim Gust,53,18,30,101
 LaPorte,Union,State Representative,20,REP,Jim Pressel,213,19,67,299
 LaPorte,Wanatah 01,Registered Voters,,,,,,,476
@@ -1453,8 +1453,8 @@ LaPorte,Wanatah 01,U.S. House,1,DEM,Frank J Mrvan,24,23,75,122
 LaPorte,Wanatah 01,U.S. House,1,REP,Mark Leyva,50,18,111,179
 LaPorte,Wanatah 01,U.S. House,1,LIB,Michael Strauss,9,3,9,21
 LaPorte,Wanatah 01,U.S. House,1,,Write-In,0,0,0,0
-LaPorte,Wanatah 01,State Senator,5,DEM,Luke Bohm,25,19,72,116
-LaPorte,Wanatah 01,State Senator,5,REP,Ed Charbonneau,63,23,124,210
+LaPorte,Wanatah 01,State Senate,5,DEM,Luke Bohm,25,19,72,116
+LaPorte,Wanatah 01,State Senate,5,REP,Ed Charbonneau,63,23,124,210
 LaPorte,Wanatah 01,State Representative,20,DEM,Tim Gust,23,18,65,106
 LaPorte,Wanatah 01,State Representative,20,REP,Jim Pressel,65,26,133,224
 LaPorte,Wanatah 02,Registered Voters,,,,,,,313
@@ -1472,8 +1472,8 @@ LaPorte,Wanatah 02,U.S. House,1,DEM,Frank J Mrvan,22,16,29,67
 LaPorte,Wanatah 02,U.S. House,1,REP,Mark Leyva,48,9,88,145
 LaPorte,Wanatah 02,U.S. House,1,LIB,Michael Strauss,3,0,6,9
 LaPorte,Wanatah 02,U.S. House,1,,Write-In,0,0,0,0
-LaPorte,Wanatah 02,State Senator,5,DEM,Luke Bohm,21,14,25,60
-LaPorte,Wanatah 02,State Senator,5,REP,Ed Charbonneau,51,10,96,157
+LaPorte,Wanatah 02,State Senate,5,DEM,Luke Bohm,21,14,25,60
+LaPorte,Wanatah 02,State Senate,5,REP,Ed Charbonneau,51,10,96,157
 LaPorte,Wanatah 02,State Representative,9,DEM,Patricia A (Pat) Boy,23,16,34,73
 LaPorte,Wanatah 02,State Representative,9,REP,Dion Bergeron,49,9,88,146
 LaPorte,Washington,Registered Voters,,,,,,,787
@@ -1487,8 +1487,8 @@ LaPorte,Washington,Governor,,REP,Eric Holcomb,240,27,82,349
 LaPorte,Washington,Governor,,LIB,Donald G Rainwater II,44,0,8,52
 LaPorte,Washington,Attorney General,,DEM,Jonathan Weinzapfel,95,44,45,184
 LaPorte,Washington,Attorney General,,REP,Todd Rokita,239,19,78,336
-LaPorte,Washington,State Senator,8,DEM,Gary Davis,102,40,47,189
-LaPorte,Washington,State Senator,8,REP,Mike Bohacek,237,23,78,338
+LaPorte,Washington,State Senate,8,DEM,Gary Davis,102,40,47,189
+LaPorte,Washington,State Senate,8,REP,Mike Bohacek,237,23,78,338
 LaPorte,Washington,State Representative,20,DEM,Tim Gust,88,36,47,171
 LaPorte,Washington,State Representative,20,REP,Jim Pressel,254,27,77,358
 LaPorte,Westville,Registered Voters,,,,,,,1651
@@ -1519,7 +1519,7 @@ LaPorte,Wills,Governor,,REP,Eric Holcomb,553,63,169,785
 LaPorte,Wills,Governor,,LIB,Donald G Rainwater II,97,4,17,118
 LaPorte,Wills,Attorney General,,DEM,Jonathan Weinzapfel,184,83,124,391
 LaPorte,Wills,Attorney General,,REP,Todd Rokita,569,48,169,786
-LaPorte,Wills,State Senator,8,DEM,Gary Davis,186,93,123,402
-LaPorte,Wills,State Senator,8,REP,Mike Bohacek,568,44,168,780
+LaPorte,Wills,State Senate,8,DEM,Gary Davis,186,93,123,402
+LaPorte,Wills,State Senate,8,REP,Mike Bohacek,568,44,168,780
 LaPorte,Wills,State Representative,20,DEM,Tim Gust,137,76,108,321
 LaPorte,,State Representative,20,REP,Jim Pressel,621,62,184,867

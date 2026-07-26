@@ -14,8 +14,8 @@ Adams,Clerk Of The Supreme Court,,Brian Bishop,Republican,5569
 Adams,U.S. House,3,Jay Rigdon,Democratic,0
 Adams,U.S. House,3,Mike Donlan,Libertarian,0
 Adams,U.S. House,3,Mark E Souder,Republican,0
-Adams,State Senator,19,David Dave Jones,Democratic,3208
-Adams,State Senator,19,David C Ford,Republican,6084
+Adams,State Senate,19,David Dave Jones,Democratic,3208
+Adams,State Senate,19,David C Ford,Republican,6084
 Adams,State House,79,Michael A Ripley,Republican,6619
 Adams,Judge Of The Superior Court,Adams County,James A Heimann,Democratic,4817
 Adams,Judge Of The Superior Court,Adams County,Patrick R Miller,Republican,4679
@@ -42,9 +42,9 @@ Allen,Clerk Of The Supreme Court,,Brian Bishop,Republican,42656
 Allen,U.S. House,3,Jay Rigdon,Democratic,25182
 Allen,U.S. House,3,Mike Donlan,Libertarian,1571
 Allen,U.S. House,3,Mark E Souder,Republican,38146
-Allen,State Senator,14,Charles Bud Meeks,Republican,13328
-Allen,State Senator,15,Melvin Billingsley,Democratic,7771
-Allen,State Senator,15,Thomas J Wyss,Republican,15446
+Allen,State Senate,14,Charles Bud Meeks,Republican,13328
+Allen,State Senate,15,Melvin Billingsley,Democratic,7771
+Allen,State Senate,15,Thomas J Wyss,Republican,15446
 Allen,State House,50,Daniel J Dan Leonard,Republican,0
 Allen,State House,52,W Dale Sturtz,Democratic,0
 Allen,State House,52,Marlin A Stutzman,Republican,0
@@ -179,10 +179,10 @@ Bartholomew,Clerk Of The Supreme Court,,Brian Bishop,Republican,11232
 Bartholomew,U.S. House,6,Melina Ann Fox,Democratic,2500
 Bartholomew,U.S. House,6,Doris Robertson,Libertarian,168
 Bartholomew,U.S. House,6,Mike Pence,Republican,8032
-Bartholomew,State Senator,41,Kenn Gividen,Libertarian,2059
-Bartholomew,State Senator,41,Robert D Garton,Republican,13799
-Bartholomew,State Senator,43,Daniel Precht,Libertarian,0
-Bartholomew,State Senator,43,Johnny Nugent,Republican,0
+Bartholomew,State Senate,41,Kenn Gividen,Libertarian,2059
+Bartholomew,State Senate,41,Robert D Garton,Republican,13799
+Bartholomew,State Senate,43,Daniel Precht,Libertarian,0
+Bartholomew,State Senate,43,Johnny Nugent,Republican,0
 Bartholomew,State House,57,John R Wheeler,Democratic,2131
 Bartholomew,State House,57,Thomas Thom Jester,Libertarian,310
 Bartholomew,State House,57,Roland Stine,Republican,3060
@@ -229,8 +229,8 @@ Benton,Clerk Of The Supreme Court,,Brian Bishop,Republican,1822
 Benton,U.S. House,4,Bill Abbott,Democratic,0
 Benton,U.S. House,4,Jerry L Susong,Libertarian,0
 Benton,U.S. House,4,Steve Buyer,Republican,0
-Benton,State Senator,6,Ryan Flynn,Libertarian,599
-Benton,State Senator,6,Sue Landske,Republican,2126
+Benton,State Senate,6,Ryan Flynn,Libertarian,599
+Benton,State Senate,6,Sue Landske,Republican,2126
 Benton,State House,13,Chester F Dobis,Democratic,0
 Benton,State House,13,Anthony S Azcona,Republican,0
 Benton,Judge Of The Circuit Court,Benton 76Th Circuit,Rex Kepner,Republican,2597
@@ -260,8 +260,8 @@ Blackford,U.S. House,3,Mark E Souder,Republican,0
 Blackford,U.S. House,5,Katherine Fox Carr,Democratic,0
 Blackford,U.S. House,5,Christopher Adkins,Libertarian,0
 Blackford,U.S. House,5,Dan Burton,Republican,0
-Blackford,State Senator,19,David Dave Jones,Democratic,1163
-Blackford,State Senator,19,David C Ford,Republican,2862
+Blackford,State Senate,19,David Dave Jones,Democratic,1163
+Blackford,State Senate,19,David C Ford,Republican,2862
 Blackford,State House,31,S Gopal Pal Raju,Democratic,990
 Blackford,State House,31,Dean Young,Republican,2957
 Blackford,State House,33,Ron Liggett,Democratic,0
@@ -301,9 +301,9 @@ Boone,U.S. House,4,Steve Buyer,Republican,8750
 Boone,U.S. House,5,Katherine Fox Carr,Democratic,0
 Boone,U.S. House,5,Christopher Adkins,Libertarian,0
 Boone,U.S. House,5,Dan Burton,Republican,0
-Boone,State Senator,23,Joseph W Harrison,Republican,5028
-Boone,State Senator,29,Kevin R Fleming,Libertarian,0
-Boone,State Senator,29,Murray Clark,Republican,0
+Boone,State Senate,23,Joseph W Harrison,Republican,5028
+Boone,State Senate,29,Kevin R Fleming,Libertarian,0
+Boone,State Senate,29,Murray Clark,Republican,0
 Boone,State House,24,Richard W Rich Mcclain,Republican,0
 Boone,State House,28,Jeffrey A Thompson,Republican,5151
 Boone,State House,41,Tim Brown,Republican,0
@@ -468,10 +468,10 @@ Clark,U.S. House,9,Baron P Hill,Democratic,12783
 Clark,U.S. House,9,Jeff Melton,Green,190
 Clark,U.S. House,9,Al Cox,Libertarian,186
 Clark,U.S. House,9,Mike Sodrel,Republican,11800
-Clark,State Senator,45,"James A Lewis, Jr.",Democratic,8708
-Clark,State Senator,45,Debbie Huber-Harbeson,Libertarian,1471
-Clark,State Senator,46,Connie Weigleb Sipes,Democratic,7043
-Clark,State Senator,46,Walter H Schulz,Republican,4218
+Clark,State Senate,45,"James A Lewis, Jr.",Democratic,8708
+Clark,State Senate,45,Debbie Huber-Harbeson,Libertarian,1471
+Clark,State Senate,46,Connie Weigleb Sipes,Democratic,7043
+Clark,State Senate,46,Walter H Schulz,Republican,4218
 Clark,State House,66,Terry A Goodin,Democratic,2668
 Clark,State House,70,Paul J Robertson,Democratic,2637
 Clark,State House,70,Tom Powers,Republican,2142
@@ -551,10 +551,10 @@ Clay,Clerk Of The Supreme Court,,Brian Bishop,Republican,4169
 Clay,U.S. House,8,Bryan L Hartke,Democratic,2966
 Clay,U.S. House,8,Pam Williams,Libertarian,232
 Clay,U.S. House,8,John N Hostettler,Republican,4224
-Clay,State Senator,38,Timothy D Tim Skinner,Democratic,0
-Clay,State Senator,38,Jerry B Mcmullen,Republican,0
-Clay,State Senator,39,Phil Croft,Democratic,726
-Clay,State Senator,39,John M Waterman,Republican,1469
+Clay,State Senate,38,Timothy D Tim Skinner,Democratic,0
+Clay,State Senate,38,Jerry B Mcmullen,Republican,0
+Clay,State Senate,39,Phil Croft,Democratic,726
+Clay,State Senate,39,John M Waterman,Republican,1469
 Clay,State House,42,F Dale Grubb,Democratic,0
 Clay,State House,42,Patti Smith,Republican,0
 Clay,State House,44,Lana Schimpf,Democratic,1530
@@ -604,9 +604,9 @@ Clinton,Clerk Of The Supreme Court,,Brian Bishop,Republican,4958
 Clinton,U.S. House,4,Bill Abbott,Democratic,2430
 Clinton,U.S. House,4,Jerry L Susong,Libertarian,232
 Clinton,U.S. House,4,Steve Buyer,Republican,5383
-Clinton,State Senator,21,Susan Maxson,Democratic,0
-Clinton,State Senator,21,David W Gay Sr,Libertarian,0
-Clinton,State Senator,21,Jeff Drozda,Republican,0
+Clinton,State Senate,21,Susan Maxson,Democratic,0
+Clinton,State Senate,21,David W Gay Sr,Libertarian,0
+Clinton,State Senate,21,Jeff Drozda,Republican,0
 Clinton,State House,25,Jeb Bardon,Democratic,0
 Clinton,State House,25,Josephine R Coleman,Libertarian,0
 Clinton,State House,25,Tom Red Taylor,Republican,0
@@ -651,8 +651,8 @@ Crawford,U.S. House,9,Baron P Hill,Democratic,2113
 Crawford,U.S. House,9,Jeff Melton,Green,39
 Crawford,U.S. House,9,Al Cox,Libertarian,59
 Crawford,U.S. House,9,Mike Sodrel,Republican,1483
-Crawford,State Senator,47,"Richard D Young, Jr.",Democratic,2462
-Crawford,State Senator,47,Christopher L Byrd,Republican,1241
+Crawford,State Senate,47,"Richard D Young, Jr.",Democratic,2462
+Crawford,State Senate,47,Christopher L Byrd,Republican,1241
 Crawford,State House,74,Russ Stilwell,Democratic,0
 Crawford,Prosecuting Attorney,Crawford 77Th Circuit,James L Montgomery,Democratic,1869
 Crawford,Prosecuting Attorney,Crawford 77Th Circuit,Steven L Owen,Republican,1823
@@ -679,8 +679,8 @@ Daviess,Clerk Of The Supreme Court,,Brian Bishop,Republican,4730
 Daviess,U.S. House,8,Bryan L Hartke,Democratic,2288
 Daviess,U.S. House,8,Pam Williams,Libertarian,140
 Daviess,U.S. House,8,John N Hostettler,Republican,5514
-Daviess,State Senator,39,Phil Croft,Democratic,598
-Daviess,State Senator,39,John M Waterman,Republican,1595
+Daviess,State Senate,39,Phil Croft,Democratic,598
+Daviess,State Senate,39,John M Waterman,Republican,1595
 Daviess,State House,45,Alan B Chowning,Democratic,704
 Daviess,State House,45,Bruce A Borders,Republican,1031
 Daviess,State House,62,Jerry L Denbo,Democratic,0
@@ -723,9 +723,9 @@ Dearborn,Clerk Of The Supreme Court,,Brian Bishop,Republican,5881
 Dearborn,U.S. House,6,Melina Ann Fox,Democratic,695
 Dearborn,U.S. House,6,Doris Robertson,Libertarian,71
 Dearborn,U.S. House,6,Mike Pence,Republican,2214
-Dearborn,State Senator,27,Allen E Paul,Republican,0
-Dearborn,State Senator,43,Daniel Precht,Libertarian,807
-Dearborn,State Senator,43,Johnny Nugent,Republican,8092
+Dearborn,State Senate,27,Allen E Paul,Republican,0
+Dearborn,State Senate,43,Daniel Precht,Libertarian,807
+Dearborn,State Senate,43,Johnny Nugent,Republican,8092
 Dearborn,State House,67,Steve R Kristoff,Libertarian,0
 Dearborn,State House,67,Cleo Duncan,Republican,0
 Dearborn,State House,68,Robert J Bischoff,Democratic,4518
@@ -766,8 +766,8 @@ Decatur,Clerk Of The Supreme Court,,Brian Bishop,Republican,4341
 Decatur,U.S. House,6,Melina Ann Fox,Democratic,2038
 Decatur,U.S. House,6,Doris Robertson,Libertarian,140
 Decatur,U.S. House,6,Mike Pence,Republican,4836
-Decatur,State Senator,43,Daniel Precht,Libertarian,0
-Decatur,State Senator,43,Johnny Nugent,Republican,0
+Decatur,State Senate,43,Daniel Precht,Libertarian,0
+Decatur,State Senate,43,Johnny Nugent,Republican,0
 Decatur,State House,55,David L Nicholson,Democratic,0
 Decatur,State House,55,Robert A Hoffman,Republican,0
 Decatur,State House,67,Steve R Kristoff,Libertarian,873
@@ -809,7 +809,7 @@ DeKalb,Clerk Of The Supreme Court,,Brian Bishop,Republican,5501
 DeKalb,U.S. House,3,Jay Rigdon,Democratic,3224
 DeKalb,U.S. House,3,Mike Donlan,Libertarian,224
 DeKalb,U.S. House,3,Mark E Souder,Republican,5427
-DeKalb,State Senator,14,Charles Bud Meeks,Republican,6697
+DeKalb,State Senate,14,Charles Bud Meeks,Republican,6697
 DeKalb,State House,52,W Dale Sturtz,Democratic,719
 DeKalb,State House,52,Marlin A Stutzman,Republican,899
 DeKalb,Judge Of The Superior Court,"Dekalb County, Court 1",Kevin P Wallace,Democratic,5813
@@ -846,10 +846,10 @@ Delaware,Clerk Of The Supreme Court,,Brian Bishop,Republican,16135
 Delaware,U.S. House,6,Melina Ann Fox,Democratic,13724
 Delaware,U.S. House,6,Doris Robertson,Libertarian,530
 Delaware,U.S. House,6,Mike Pence,Republican,18580
-Delaware,State Senator,25,Tim Lanane,Democratic,0
-Delaware,State Senator,25,Brenda Jackson,Republican,0
-Delaware,State Senator,26,"Allie V Craycraft, Jr.",Democratic,16722
-Delaware,State Senator,26,Andrew S Phipps,Republican,16078
+Delaware,State Senate,25,Tim Lanane,Democratic,0
+Delaware,State Senate,25,Brenda Jackson,Republican,0
+Delaware,State Senate,26,"Allie V Craycraft, Jr.",Democratic,16722
+Delaware,State Senate,26,Andrew S Phipps,Republican,16078
 Delaware,State House,31,S Gopal Pal Raju,Democratic,0
 Delaware,State House,31,Dean Young,Republican,0
 Delaware,State House,32,P Eric Turner,Republican,0
@@ -904,9 +904,9 @@ Dubois,Clerk Of The Supreme Court,,Brian Bishop,Republican,4627
 Dubois,U.S. House,8,Bryan L Hartke,Democratic,0
 Dubois,U.S. House,8,Pam Williams,Libertarian,0
 Dubois,U.S. House,8,John N Hostettler,Republican,0
-Dubois,State Senator,47,"Richard D Young, Jr.",Democratic,2337
-Dubois,State Senator,47,Christopher L Byrd,Republican,1574
-Dubois,State Senator,48,Lindel O Hume,Democratic,3596
+Dubois,State Senate,47,"Richard D Young, Jr.",Democratic,2337
+Dubois,State Senate,47,Christopher L Byrd,Republican,1574
+Dubois,State Senate,48,Lindel O Hume,Democratic,3596
 Dubois,State House,63,Dave Crooks,Democratic,3432
 Dubois,State House,74,Russ Stilwell,Democratic,1751
 Dubois,Judge Of The Circuit Court,Dubois 57Th Circuit,William E Weikert,Democratic,6400
@@ -940,7 +940,7 @@ Elkhart,U.S. House,2,Sharon Metheny,Libertarian,627
 Elkhart,U.S. House,2,Chris Chocola,Republican,10330
 Elkhart,U.S. House,2,M Myer Blatt,Independent,0
 Elkhart,U.S. House,2,James A Mello,Independent,1
-Elkhart,State Senator,11,Joe Zakas,Republican,7967
+Elkhart,State Senate,11,Joe Zakas,Republican,7967
 Elkhart,State House,21,Richard W Mangus,Republican,5746
 Elkhart,State House,22,William J Bill Ruppel,Republican,0
 Elkhart,State House,48,Bruce D Carter,Democratic,3739
@@ -1035,7 +1035,7 @@ Fayette,Clerk Of The Supreme Court,,Brian Bishop,Republican,3458
 Fayette,U.S. House,6,Melina Ann Fox,Democratic,2595
 Fayette,U.S. House,6,Doris Robertson,Libertarian,144
 Fayette,U.S. House,6,Mike Pence,Republican,3928
-Fayette,State Senator,27,Allen E Paul,Republican,0
+Fayette,State Senate,27,Allen E Paul,Republican,0
 Fayette,State House,55,David L Nicholson,Democratic,2292
 Fayette,State House,55,Robert A Hoffman,Republican,4442
 Fayette,Judge Of The Superior Court,Fayette County,Ronald T Urdal,Democratic,3480
@@ -1079,8 +1079,8 @@ Floyd,U.S. House,9,Baron P Hill,Democratic,11132
 Floyd,U.S. House,9,Jeff Melton,Green,176
 Floyd,U.S. House,9,Al Cox,Libertarian,186
 Floyd,U.S. House,9,Mike Sodrel,Republican,11170
-Floyd,State Senator,46,Connie Weigleb Sipes,Democratic,13399
-Floyd,State Senator,46,Walter H Schulz,Republican,8771
+Floyd,State Senate,46,Connie Weigleb Sipes,Democratic,13399
+Floyd,State Senate,46,Walter H Schulz,Republican,8771
 Floyd,State House,70,Paul J Robertson,Democratic,1863
 Floyd,State House,70,Tom Powers,Republican,1655
 Floyd,State House,72,William C Cochran,Democratic,10247
@@ -1132,7 +1132,7 @@ Fountain,Clerk Of The Supreme Court,,Brian Bishop,Republican,3661
 Fountain,U.S. House,4,Bill Abbott,Democratic,591
 Fountain,U.S. House,4,Jerry L Susong,Libertarian,41
 Fountain,U.S. House,4,Steve Buyer,Republican,1468
-Fountain,State Senator,23,Joseph W Harrison,Republican,4633
+Fountain,State Senate,23,Joseph W Harrison,Republican,4633
 Fountain,State House,13,Chester F Dobis,Democratic,0
 Fountain,State House,13,Anthony S Azcona,Republican,0
 Fountain,State House,42,F Dale Grubb,Democratic,3615
@@ -1169,7 +1169,7 @@ Franklin,Clerk Of The Supreme Court,,Brian Bishop,Republican,3776
 Franklin,U.S. House,6,Melina Ann Fox,Democratic,2762
 Franklin,U.S. House,6,Doris Robertson,Libertarian,145
 Franklin,U.S. House,6,Mike Pence,Republican,3756
-Franklin,State Senator,27,Allen E Paul,Republican,0
+Franklin,State Senate,27,Allen E Paul,Republican,0
 Franklin,State House,55,David L Nicholson,Democratic,771
 Franklin,State House,55,Robert A Hoffman,Republican,1780
 Franklin,State House,68,Robert J Bischoff,Democratic,2253
@@ -1240,9 +1240,9 @@ Gibson,Clerk Of The Supreme Court,,Brian Bishop,Republican,4963
 Gibson,U.S. House,8,Bryan L Hartke,Democratic,5557
 Gibson,U.S. House,8,Pam Williams,Libertarian,223
 Gibson,U.S. House,8,John N Hostettler,Republican,5446
-Gibson,State Senator,48,Lindel O Hume,Democratic,7871
-Gibson,State Senator,49,Larry E Lutz,Democratic,966
-Gibson,State Senator,49,Dianna Alvey,Socialist,17
+Gibson,State Senate,48,Lindel O Hume,Democratic,7871
+Gibson,State Senate,49,Larry E Lutz,Democratic,966
+Gibson,State Senate,49,Dianna Alvey,Socialist,17
 Gibson,State House,64,John Gregory Frenz,Democratic,4999
 Gibson,State House,64,Eric Davis,Republican,4714
 Gibson,Prosecuting Attorney,Gibson 66Th Circuit,C Dean Higginbotham,Democratic,5177
@@ -1287,12 +1287,12 @@ Grant,Clerk Of The Supreme Court,,Brian Bishop,Republican,10203
 Grant,U.S. House,5,Katherine Fox Carr,Democratic,5194
 Grant,U.S. House,5,Christopher Adkins,Libertarian,404
 Grant,U.S. House,5,Dan Burton,Republican,11208
-Grant,State Senator,17,Gary Dillon,Republican,3005
-Grant,State Senator,19,David Dave Jones,Democratic,2631
-Grant,State Senator,19,David C Ford,Republican,5206
-Grant,State Senator,21,Susan Maxson,Democratic,0
-Grant,State Senator,21,David W Gay Sr,Libertarian,0
-Grant,State Senator,21,Jeff Drozda,Republican,0
+Grant,State Senate,17,Gary Dillon,Republican,3005
+Grant,State Senate,19,David Dave Jones,Democratic,2631
+Grant,State Senate,19,David C Ford,Republican,5206
+Grant,State Senate,21,Susan Maxson,Democratic,0
+Grant,State Senate,21,David W Gay Sr,Libertarian,0
+Grant,State Senate,21,Jeff Drozda,Republican,0
 Grant,State House,18,Daniel M Stevens,Libertarian,0
 Grant,State House,18,David A Wolkins,Republican,0
 Grant,State House,30,Ron Herrell,Democratic,0
@@ -1348,8 +1348,8 @@ Greene,Clerk Of The Supreme Court,,Brian Bishop,Republican,4410
 Greene,U.S. House,8,Bryan L Hartke,Democratic,3409
 Greene,U.S. House,8,Pam Williams,Libertarian,175
 Greene,U.S. House,8,John N Hostettler,Republican,5317
-Greene,State Senator,39,Phil Croft,Democratic,2183
-Greene,State Senator,39,John M Waterman,Republican,3891
+Greene,State Senate,39,Phil Croft,Democratic,2183
+Greene,State Senate,39,John M Waterman,Republican,3891
 Greene,State House,45,Alan B Chowning,Democratic,1362
 Greene,State House,45,Bruce A Borders,Republican,2430
 Greene,State House,62,Jerry L Denbo,Democratic,2949
@@ -1390,13 +1390,13 @@ Hamilton,Clerk Of The Supreme Court,,Brian Bishop,Republican,34474
 Hamilton,U.S. House,5,Katherine Fox Carr,Democratic,8086
 Hamilton,U.S. House,5,Christopher Adkins,Libertarian,1508
 Hamilton,U.S. House,5,Dan Burton,Republican,34709
-Hamilton,State Senator,21,Susan Maxson,Democratic,795
-Hamilton,State Senator,21,David W Gay Sr,Libertarian,119
-Hamilton,State Senator,21,Jeff Drozda,Republican,4320
-Hamilton,State Senator,29,Kevin R Fleming,Libertarian,570
-Hamilton,State Senator,29,Murray Clark,Republican,5454
-Hamilton,State Senator,31,Doug M Sloan,Libertarian,0
-Hamilton,State Senator,31,"James W Merritt, Jr.",Republican,0
+Hamilton,State Senate,21,Susan Maxson,Democratic,795
+Hamilton,State Senate,21,David W Gay Sr,Libertarian,119
+Hamilton,State Senate,21,Jeff Drozda,Republican,4320
+Hamilton,State Senate,29,Kevin R Fleming,Libertarian,570
+Hamilton,State Senate,29,Murray Clark,Republican,5454
+Hamilton,State Senate,31,Doug M Sloan,Libertarian,0
+Hamilton,State Senate,31,"James W Merritt, Jr.",Republican,0
 Hamilton,State House,24,Richard W Rich Mcclain,Republican,0
 Hamilton,State House,29,Karen L Goldstein,Democratic,2380
 Hamilton,State House,29,Kathy Kreag Richardson,Republican,11303
@@ -1573,8 +1573,8 @@ Harrison,U.S. House,9,Baron P Hill,Democratic,6151
 Harrison,U.S. House,9,Jeff Melton,Green,130
 Harrison,U.S. House,9,Al Cox,Libertarian,149
 Harrison,U.S. House,9,Mike Sodrel,Republican,5870
-Harrison,State Senator,47,"Richard D Young, Jr.",Democratic,5628
-Harrison,State Senator,47,Christopher L Byrd,Republican,6542
+Harrison,State Senate,47,"Richard D Young, Jr.",Democratic,5628
+Harrison,State Senate,47,Christopher L Byrd,Republican,6542
 Harrison,State House,70,Paul J Robertson,Democratic,7014
 Harrison,State House,70,Tom Powers,Republican,4913
 Harrison,State House,73,Dennie Oxley,Democratic,212
@@ -1694,8 +1694,8 @@ Henry,Clerk Of The Supreme Court,,Brian Bishop,Republican,7329
 Henry,U.S. House,6,Melina Ann Fox,Democratic,3976
 Henry,U.S. House,6,Doris Robertson,Libertarian,214
 Henry,U.S. House,6,Mike Pence,Republican,8497
-Henry,State Senator,26,"Allie V Craycraft, Jr.",Democratic,0
-Henry,State Senator,26,Andrew S Phipps,Republican,0
+Henry,State Senate,26,"Allie V Craycraft, Jr.",Democratic,0
+Henry,State Senate,26,Andrew S Phipps,Republican,0
 Henry,State House,54,Michael A Bell,Libertarian,519
 Henry,State House,54,Thomas E Tom Saunders,Republican,6260
 Henry,State House,54,Mark Mattheis,Independent,687
@@ -1760,9 +1760,9 @@ Howard,U.S. House,4,Steve Buyer,Republican,0
 Howard,U.S. House,5,Katherine Fox Carr,Democratic,4583
 Howard,U.S. House,5,Christopher Adkins,Libertarian,367
 Howard,U.S. House,5,Dan Burton,Republican,11682
-Howard,State Senator,21,Susan Maxson,Democratic,8590
-Howard,State Senator,21,David W Gay Sr,Libertarian,379
-Howard,State Senator,21,Jeff Drozda,Republican,10982
+Howard,State Senate,21,Susan Maxson,Democratic,8590
+Howard,State Senate,21,David W Gay Sr,Libertarian,379
+Howard,State Senate,21,Jeff Drozda,Republican,10982
 Howard,State House,30,Ron Herrell,Democratic,9017
 Howard,State House,30,Greg Fridholm,Libertarian,379
 Howard,State House,30,Lynn M Rudy Rudolph,Republican,6966
@@ -1849,9 +1849,9 @@ Huntington,Clerk Of The Supreme Court,,Brian Bishop,Republican,6456
 Huntington,U.S. House,3,Jay Rigdon,Democratic,0
 Huntington,U.S. House,3,Mike Donlan,Libertarian,0
 Huntington,U.S. House,3,Mark E Souder,Republican,0
-Huntington,State Senator,17,Gary Dillon,Republican,7899
-Huntington,State Senator,19,David Dave Jones,Democratic,0
-Huntington,State Senator,19,David C Ford,Republican,0
+Huntington,State Senate,17,Gary Dillon,Republican,7899
+Huntington,State Senate,19,David Dave Jones,Democratic,0
+Huntington,State Senate,19,David C Ford,Republican,0
 Huntington,State House,50,Daniel J Dan Leonard,Republican,7673
 Huntington,Judge Of The Superior Court,Huntington County,Jeffrey R Heffelfinger,Republican,7426
 Huntington,Prosecuting Attorney,Huntington 56Th Circuit,John F Branham,Republican,7646
@@ -1893,10 +1893,10 @@ Jackson,U.S. House,9,Baron P Hill,Democratic,6544
 Jackson,U.S. House,9,Jeff Melton,Green,56
 Jackson,U.S. House,9,Al Cox,Libertarian,104
 Jackson,U.S. House,9,Mike Sodrel,Republican,4588
-Jackson,State Senator,43,Daniel Precht,Libertarian,0
-Jackson,State Senator,43,Johnny Nugent,Republican,0
-Jackson,State Senator,45,"James A Lewis, Jr.",Democratic,586
-Jackson,State Senator,45,Debbie Huber-Harbeson,Libertarian,94
+Jackson,State Senate,43,Daniel Precht,Libertarian,0
+Jackson,State Senate,43,Johnny Nugent,Republican,0
+Jackson,State Senate,45,"James A Lewis, Jr.",Democratic,586
+Jackson,State Senate,45,Debbie Huber-Harbeson,Libertarian,94
 Jackson,State House,65,David Rhum,Democratic,972
 Jackson,State House,65,Eric Allan Koch,Republican,1444
 Jackson,State House,69,Markt Lance Lytle,Democratic,0
@@ -1973,8 +1973,8 @@ Jay,Clerk Of The Supreme Court,,Brian Bishop,Republican,3080
 Jay,U.S. House,3,Jay Rigdon,Democratic,0
 Jay,U.S. House,3,Mike Donlan,Libertarian,0
 Jay,U.S. House,3,Mark E Souder,Republican,0
-Jay,State Senator,19,David Dave Jones,Democratic,0
-Jay,State Senator,19,David C Ford,Republican,0
+Jay,State Senate,19,David Dave Jones,Democratic,0
+Jay,State Senate,19,David C Ford,Republican,0
 Jay,State House,33,Ron Liggett,Democratic,3242
 Jay,State House,33,Richard W Thornburg,Republican,2335
 Jay,Judge Of The Superior Court,Jay County,Joel David Roberts,Republican,4272
@@ -2004,8 +2004,8 @@ Jefferson,Clerk Of The Supreme Court,,Brian Bishop,Republican,3955
 Jefferson,U.S. House,6,Melina Ann Fox,Democratic,0
 Jefferson,U.S. House,6,Doris Robertson,Libertarian,0
 Jefferson,U.S. House,6,Mike Pence,Republican,0
-Jefferson,State Senator,45,"James A Lewis, Jr.",Democratic,5842
-Jefferson,State Senator,45,Debbie Huber-Harbeson,Libertarian,787
+Jefferson,State Senate,45,"James A Lewis, Jr.",Democratic,5842
+Jefferson,State Senate,45,Debbie Huber-Harbeson,Libertarian,787
 Jefferson,State House,66,Terry A Goodin,Democratic,0
 Jefferson,State House,67,Steve R Kristoff,Libertarian,0
 Jefferson,State House,67,Cleo Duncan,Republican,0
@@ -2040,8 +2040,8 @@ Jennings,Clerk Of The Supreme Court,,Brian Bishop,Republican,4184
 Jennings,U.S. House,6,Melina Ann Fox,Democratic,0
 Jennings,U.S. House,6,Doris Robertson,Libertarian,0
 Jennings,U.S. House,6,Mike Pence,Republican,0
-Jennings,State Senator,43,Daniel Precht,Libertarian,410
-Jennings,State Senator,43,Johnny Nugent,Republican,5231
+Jennings,State Senate,43,Daniel Precht,Libertarian,410
+Jennings,State Senate,43,Johnny Nugent,Republican,5231
 Jennings,State House,67,Steve R Kristoff,Libertarian,0
 Jennings,State House,67,Cleo Duncan,Republican,0
 Jennings,State House,69,Markt Lance Lytle,Democratic,4588
@@ -2089,8 +2089,8 @@ Johnson,U.S. House,9,Baron P Hill,Democratic,0
 Johnson,U.S. House,9,Jeff Melton,Green,0
 Johnson,U.S. House,9,Al Cox,Libertarian,0
 Johnson,U.S. House,9,Mike Sodrel,Republican,0
-Johnson,State Senator,41,Kenn Gividen,Libertarian,1291
-Johnson,State Senator,41,Robert D Garton,Republican,8119
+Johnson,State Senate,41,Kenn Gividen,Libertarian,1291
+Johnson,State Senate,41,Robert D Garton,Republican,8119
 Johnson,State House,47,Willey Thompson,Libertarian,147
 Johnson,State House,47,Ralph M Foley,Republican,1267
 Johnson,State House,58,Dolores Montgomery,Democratic,3453
@@ -2158,9 +2158,9 @@ Knox,Clerk Of The Supreme Court,,Brian Bishop,Republican,4672
 Knox,U.S. House,8,Bryan L Hartke,Democratic,4819
 Knox,U.S. House,8,Pam Williams,Libertarian,258
 Knox,U.S. House,8,John N Hostettler,Republican,6017
-Knox,State Senator,39,Phil Croft,Democratic,3154
-Knox,State Senator,39,John M Waterman,Republican,4541
-Knox,State Senator,48,Lindel O Hume,Democratic,1927
+Knox,State Senate,39,Phil Croft,Democratic,3154
+Knox,State Senate,39,John M Waterman,Republican,4541
+Knox,State Senate,48,Lindel O Hume,Democratic,1927
 Knox,State House,45,Alan B Chowning,Democratic,2466
 Knox,State House,45,Bruce A Borders,Republican,1958
 Knox,State House,64,John Gregory Frenz,Democratic,4172
@@ -2284,9 +2284,9 @@ Lake,Clerk Of The Supreme Court,,Brian Bishop,Republican,27843
 Lake,U.S. House,1,Peter J Visclosky,Democratic,63199
 Lake,U.S. House,1,Timothy P Brennan,Libertarian,1659
 Lake,U.S. House,1,Mark J Leyva,Republican,23340
-Lake,State Senator,1,"Frank Mrvan, Jr.",Democratic,14449
-Lake,State Senator,6,Ryan Flynn,Libertarian,1536
-Lake,State Senator,6,Sue Landske,Republican,14694
+Lake,State Senate,1,"Frank Mrvan, Jr.",Democratic,14449
+Lake,State Senate,6,Ryan Flynn,Libertarian,1536
+Lake,State Senate,6,Sue Landske,Republican,14694
 Lake,State House,1,Linda C Lawson,Democratic,5867
 Lake,State House,1,Myra Rosenbloom,Republican,3012
 Lake,State House,2,Earl L Harris,Democratic,8068
@@ -2448,8 +2448,8 @@ LaPorte,U.S. House,2,Sharon Metheny,Libertarian,1944
 LaPorte,U.S. House,2,Chris Chocola,Republican,13059
 LaPorte,U.S. House,2,M Myer Blatt,Independent,1
 LaPorte,U.S. House,2,James A Mello,Independent,3
-LaPorte,State Senator,4,Rose Ann Antich,Democratic,0
-LaPorte,State Senator,4,M Shane Stillman,Republican,0
+LaPorte,State Senate,4,Rose Ann Antich,Democratic,0
+LaPorte,State Senate,4,M Shane Stillman,Republican,0
 LaPorte,State House,8,Ryan M Dvorak,Democratic,0
 LaPorte,State House,8,Carl H Baxmeyer,Republican,0
 LaPorte,State House,9,Scott D Pelath,Democratic,11769
@@ -2570,10 +2570,10 @@ Madison,Clerk Of The Supreme Court,,Brian Bishop,Republican,19858
 Madison,U.S. House,5,Katherine Fox Carr,Democratic,0
 Madison,U.S. House,5,Christopher Adkins,Libertarian,0
 Madison,U.S. House,5,Dan Burton,Republican,0
-Madison,State Senator,25,Tim Lanane,Democratic,19662
-Madison,State Senator,25,Brenda Jackson,Republican,16418
-Madison,State Senator,26,"Allie V Craycraft, Jr.",Democratic,217
-Madison,State Senator,26,Andrew S Phipps,Republican,252
+Madison,State Senate,25,Tim Lanane,Democratic,19662
+Madison,State Senate,25,Brenda Jackson,Republican,16418
+Madison,State Senate,26,"Allie V Craycraft, Jr.",Democratic,217
+Madison,State Senate,26,Andrew S Phipps,Republican,252
 Madison,State House,32,P Eric Turner,Republican,0
 Madison,State House,35,L Jack Lutz,Republican,3998
 Madison,State House,36,Terri Jo Austin,Democratic,8431
@@ -2692,10 +2692,10 @@ Marion,U.S. House,7,Julia M Carson,Democratic,77478
 Marion,U.S. House,7,Andrew M Horning,Libertarian,3919
 Marion,U.S. House,7,Brose A Mcvey,Republican,64379
 Marion,U.S. House,7,James Jim Kell Jeffries,Democratic,64
-Marion,State Senator,29,Kevin R Fleming,Libertarian,1136
-Marion,State Senator,29,Murray Clark,Republican,14203
-Marion,State Senator,31,Doug M Sloan,Libertarian,1387
-Marion,State Senator,31,"James W Merritt, Jr.",Republican,17154
+Marion,State Senate,29,Kevin R Fleming,Libertarian,1136
+Marion,State Senate,29,Murray Clark,Republican,14203
+Marion,State Senate,31,Doug M Sloan,Libertarian,1387
+Marion,State Senate,31,"James W Merritt, Jr.",Republican,17154
 Marion,State House,86,David Orentlicher,Democratic,8976
 Marion,State House,86,Jim Atterholt,Republican,7340
 Marion,State House,87,Pat Otten,Democratic,2948
@@ -3108,8 +3108,8 @@ Martin,Clerk Of The Supreme Court,,Brian Bishop,Republican,1726
 Martin,U.S. House,8,Bryan L Hartke,Democratic,1374
 Martin,U.S. House,8,Pam Williams,Libertarian,70
 Martin,U.S. House,8,John N Hostettler,Republican,2356
-Martin,State Senator,39,Phil Croft,Democratic,0
-Martin,State Senator,39,John M Waterman,Republican,0
+Martin,State Senate,39,Phil Croft,Democratic,0
+Martin,State Senate,39,John M Waterman,Republican,0
 Martin,State House,62,Jerry L Denbo,Democratic,847
 Martin,State House,62,Donald O Patton,Republican,472
 Martin,State House,63,Dave Crooks,Democratic,1710
@@ -3262,7 +3262,7 @@ Montgomery,Clerk Of The Supreme Court,,Brian Bishop,Republican,6240
 Montgomery,U.S. House,4,Bill Abbott,Democratic,2000
 Montgomery,U.S. House,4,Jerry L Susong,Libertarian,242
 Montgomery,U.S. House,4,Steve Buyer,Republican,6853
-Montgomery,State Senator,23,Joseph W Harrison,Republican,7389
+Montgomery,State Senate,23,Joseph W Harrison,Republican,7389
 Montgomery,State House,13,Chester F Dobis,Democratic,0
 Montgomery,State House,13,Anthony S Azcona,Republican,0
 Montgomery,State House,41,Tim Brown,Republican,5951
@@ -3369,8 +3369,8 @@ Newton,Clerk Of The Supreme Court,,Brian Bishop,Republican,2185
 Newton,U.S. House,4,Bill Abbott,Democratic,0
 Newton,U.S. House,4,Jerry L Susong,Libertarian,0
 Newton,U.S. House,4,Steve Buyer,Republican,0
-Newton,State Senator,6,Ryan Flynn,Libertarian,394
-Newton,State Senator,6,Sue Landske,Republican,3227
+Newton,State Senate,6,Ryan Flynn,Libertarian,394
+Newton,State Senate,6,Sue Landske,Republican,3227
 Newton,State House,13,Chester F Dobis,Democratic,0
 Newton,State House,13,Anthony S Azcona,Republican,0
 Newton,State House,16,Michael D Smith,Republican,0
@@ -3440,8 +3440,8 @@ Ohio,Clerk Of The Supreme Court,,Brian Bishop,Republican,1171
 Ohio,U.S. House,6,Melina Ann Fox,Democratic,0
 Ohio,U.S. House,6,Doris Robertson,Libertarian,0
 Ohio,U.S. House,6,Mike Pence,Republican,0
-Ohio,State Senator,43,Daniel Precht,Libertarian,240
-Ohio,State Senator,43,Johnny Nugent,Republican,1814
+Ohio,State Senate,43,Daniel Precht,Libertarian,240
+Ohio,State Senate,43,Johnny Nugent,Republican,1814
 Ohio,State House,67,Steve R Kristoff,Libertarian,0
 Ohio,State House,67,Cleo Duncan,Republican,0
 Ohio,Judge Of The Superior Court,Ohio/Switzerland Counties,John D Mitchell,Democratic,1567
@@ -3470,8 +3470,8 @@ Orange,U.S. House,9,Baron P Hill,Democratic,2537
 Orange,U.S. House,9,Jeff Melton,Green,68
 Orange,U.S. House,9,Al Cox,Libertarian,80
 Orange,U.S. House,9,Mike Sodrel,Republican,3231
-Orange,State Senator,47,"Richard D Young, Jr.",Democratic,0
-Orange,State Senator,47,Christopher L Byrd,Republican,0
+Orange,State Senate,47,"Richard D Young, Jr.",Democratic,0
+Orange,State Senate,47,Christopher L Byrd,Republican,0
 Orange,State House,73,Dennie Oxley,Democratic,0
 Orange,State House,74,Russ Stilwell,Democratic,0
 Orange,Judge Of The Superior Court,Orange County,Robert Michael Cloud,Republican,4308
@@ -3501,8 +3501,8 @@ Owen,Clerk Of The Supreme Court,,Brian Bishop,Republican,2800
 Owen,U.S. House,8,Bryan L Hartke,Democratic,1812
 Owen,U.S. House,8,Pam Williams,Libertarian,230
 Owen,U.S. House,8,John N Hostettler,Republican,3075
-Owen,State Senator,39,Phil Croft,Democratic,622
-Owen,State Senator,39,John M Waterman,Republican,1047
+Owen,State Senate,39,Phil Croft,Democratic,622
+Owen,State Senate,39,John M Waterman,Republican,1047
 Owen,State House,44,Lana Schimpf,Democratic,0
 Owen,State House,44,Andrew P Thomas,Republican,0
 Owen,State House,46,Vern Tincher,Democratic,2684
@@ -3542,7 +3542,7 @@ Parke,Clerk Of The Supreme Court,,Brian Bishop,Republican,3021
 Parke,U.S. House,8,Bryan L Hartke,Democratic,2029
 Parke,U.S. House,8,Pam Williams,Libertarian,218
 Parke,U.S. House,8,John N Hostettler,Republican,3062
-Parke,State Senator,23,Joseph W Harrison,Republican,0
+Parke,State Senate,23,Joseph W Harrison,Republican,0
 Parke,State House,42,F Dale Grubb,Democratic,1630
 Parke,State House,42,Patti Smith,Republican,1506
 Parke,State House,44,Lana Schimpf,Democratic,499
@@ -3582,8 +3582,8 @@ Perry,Clerk Of The Supreme Court,,Brian Bishop,Republican,2237
 Perry,U.S. House,8,Bryan L Hartke,Democratic,0
 Perry,U.S. House,8,Pam Williams,Libertarian,0
 Perry,U.S. House,8,John N Hostettler,Republican,0
-Perry,State Senator,47,"Richard D Young, Jr.",Democratic,4238
-Perry,State Senator,47,Christopher L Byrd,Republican,1941
+Perry,State Senate,47,"Richard D Young, Jr.",Democratic,4238
+Perry,State Senate,47,Christopher L Byrd,Republican,1941
 Perry,State House,74,Russ Stilwell,Democratic,3056
 Perry,Prosecuting Attorney,Perry 70Th Circuit,Robert L Bob Collins,Democratic,4421
 Perry,Clerk Of The Circuit Court,Perry County,Debra L Weatherholt,Democratic,4774
@@ -3606,7 +3606,7 @@ Pike,Clerk Of The Supreme Court,,Brian Bishop,Republican,2547
 Pike,U.S. House,8,Bryan L Hartke,Democratic,2913
 Pike,U.S. House,8,Pam Williams,Libertarian,129
 Pike,U.S. House,8,John N Hostettler,Republican,2694
-Pike,State Senator,48,Lindel O Hume,Democratic,4453
+Pike,State Senate,48,Lindel O Hume,Democratic,4453
 Pike,State House,63,Dave Crooks,Democratic,2138
 Pike,State House,64,John Gregory Frenz,Democratic,1211
 Pike,State House,64,Eric Davis,Republican,1272
@@ -3645,8 +3645,8 @@ Porter,Clerk Of The Supreme Court,,Brian Bishop,Republican,17915
 Porter,U.S. House,1,Peter J Visclosky,Democratic,21448
 Porter,U.S. House,1,Timothy P Brennan,Libertarian,733
 Porter,U.S. House,1,Mark J Leyva,Republican,11626
-Porter,State Senator,4,Rose Ann Antich,Democratic,11760
-Porter,State Senator,4,M Shane Stillman,Republican,10314
+Porter,State Senate,4,Rose Ann Antich,Democratic,11760
+Porter,State Senate,4,M Shane Stillman,Republican,10314
 Porter,State House,4,Ralph Ayres,Republican,10409
 Porter,State House,9,Scott D Pelath,Democratic,0
 Porter,State House,9,Gregory D Kelver,Libertarian,0
@@ -3733,8 +3733,8 @@ Posey,Clerk Of The Supreme Court,,Brian Bishop,Republican,4570
 Posey,U.S. House,8,Bryan L Hartke,Democratic,4217
 Posey,U.S. House,8,Pam Williams,Libertarian,193
 Posey,U.S. House,8,John N Hostettler,Republican,5031
-Posey,State Senator,49,Larry E Lutz,Democratic,6567
-Posey,State Senator,49,Dianna Alvey,Socialist,501
+Posey,State Senate,49,Larry E Lutz,Democratic,6567
+Posey,State Senate,49,Dianna Alvey,Socialist,501
 Posey,State House,64,John Gregory Frenz,Democratic,0
 Posey,State House,64,Eric Davis,Republican,0
 Posey,State House,76,Jonathan Weinzapfel,Democratic,6848
@@ -3866,7 +3866,7 @@ Randolph,Clerk Of The Supreme Court,,Brian Bishop,Republican,4246
 Randolph,U.S. House,6,Melina Ann Fox,Democratic,2252
 Randolph,U.S. House,6,Doris Robertson,Libertarian,121
 Randolph,U.S. House,6,Mike Pence,Republican,4741
-Randolph,State Senator,27,Allen E Paul,Republican,5414
+Randolph,State Senate,27,Allen E Paul,Republican,5414
 Randolph,State House,33,Ron Liggett,Democratic,2718
 Randolph,State House,33,Richard W Thornburg,Republican,2240
 Randolph,Judge Of The Superior Court,Randolph County,Peter D Haviza,Democratic,4935
@@ -3905,8 +3905,8 @@ Ripley,Clerk Of The Supreme Court,,Brian Bishop,Republican,4435
 Ripley,U.S. House,6,Melina Ann Fox,Democratic,0
 Ripley,U.S. House,6,Doris Robertson,Libertarian,0
 Ripley,U.S. House,6,Mike Pence,Republican,0
-Ripley,State Senator,43,Daniel Precht,Libertarian,791
-Ripley,State Senator,43,Johnny Nugent,Republican,6203
+Ripley,State Senate,43,Daniel Precht,Libertarian,791
+Ripley,State Senate,43,Johnny Nugent,Republican,6203
 Ripley,State House,55,David L Nicholson,Democratic,0
 Ripley,State House,55,Robert A Hoffman,Republican,0
 Ripley,State House,67,Steve R Kristoff,Libertarian,809
@@ -3977,7 +3977,7 @@ Saint Joseph,U.S. House,2,Sharon Metheny,Libertarian,1924
 Saint Joseph,U.S. House,2,Chris Chocola,Republican,35943
 Saint Joseph,U.S. House,2,M Myer Blatt,Independent,0
 Saint Joseph,U.S. House,2,James A Mello,Independent,0
-Saint Joseph,State Senator,11,Joe Zakas,Republican,16749
+Saint Joseph,State Senate,11,Joe Zakas,Republican,16749
 Saint Joseph,State House,5,Craig R Fry,Democratic,7336
 Saint Joseph,State House,5,Raymond Crawford,Republican,4946
 Saint Joseph,State House,6,B Patrick Bauer,Democratic,8721
@@ -4075,8 +4075,8 @@ Scott,U.S. House,9,Baron P Hill,Democratic,3823
 Scott,U.S. House,9,Jeff Melton,Green,43
 Scott,U.S. House,9,Al Cox,Libertarian,81
 Scott,U.S. House,9,Mike Sodrel,Republican,1894
-Scott,State Senator,45,"James A Lewis, Jr.",Democratic,4503
-Scott,State Senator,45,Debbie Huber-Harbeson,Libertarian,686
+Scott,State Senate,45,"James A Lewis, Jr.",Democratic,4503
+Scott,State Senate,45,Debbie Huber-Harbeson,Libertarian,686
 Scott,State House,66,Terry A Goodin,Democratic,3536
 Scott,Prosecuting Attorney,Scott 6Th Circuit,Roger L Duvall,Democratic,4727
 Scott,County Auditor,Scott County,Iva J Gasaway,Democratic,4614
@@ -4151,7 +4151,7 @@ Spencer,Clerk Of The Supreme Court,,Brian Bishop,Republican,3631
 Spencer,U.S. House,8,Bryan L Hartke,Democratic,0
 Spencer,U.S. House,8,Pam Williams,Libertarian,0
 Spencer,U.S. House,8,John N Hostettler,Republican,0
-Spencer,State Senator,48,Lindel O Hume,Democratic,0
+Spencer,State Senate,48,Lindel O Hume,Democratic,0
 Spencer,State House,74,Russ Stilwell,Democratic,3920
 Spencer,State House,75,Dennis T Avery,Democratic,0
 Spencer,State House,75,Marsha Abell,Republican,0
@@ -4259,8 +4259,8 @@ Sullivan,Clerk Of The Supreme Court,,Brian Bishop,Republican,2477
 Sullivan,U.S. House,8,Bryan L Hartke,Democratic,3396
 Sullivan,U.S. House,8,Pam Williams,Libertarian,194
 Sullivan,U.S. House,8,John N Hostettler,Republican,3193
-Sullivan,State Senator,39,Phil Croft,Democratic,2276
-Sullivan,State Senator,39,John M Waterman,Republican,4699
+Sullivan,State Senate,39,Phil Croft,Democratic,2276
+Sullivan,State Senate,39,John M Waterman,Republican,4699
 Sullivan,State House,45,Alan B Chowning,Democratic,3921
 Sullivan,State House,45,Bruce A Borders,Republican,3054
 Sullivan,Judge Of The Circuit Court,Sullivan 14Th Circuit,P J Pierson,Democratic,5473
@@ -4298,8 +4298,8 @@ Switzerland,Clerk Of The Supreme Court,,Brian Bishop,Republican,939
 Switzerland,U.S. House,6,Melina Ann Fox,Democratic,0
 Switzerland,U.S. House,6,Doris Robertson,Libertarian,0
 Switzerland,U.S. House,6,Mike Pence,Republican,0
-Switzerland,State Senator,45,"James A Lewis, Jr.",Democratic,1896
-Switzerland,State Senator,45,Debbie Huber-Harbeson,Libertarian,541
+Switzerland,State Senate,45,"James A Lewis, Jr.",Democratic,1896
+Switzerland,State Senate,45,Debbie Huber-Harbeson,Libertarian,541
 Switzerland,State House,67,Steve R Kristoff,Libertarian,0
 Switzerland,State House,67,Cleo Duncan,Republican,0
 Switzerland,Judge Of The Superior Court,Ohio/Switzerland Counties,John D Mitchell,Democratic,1996
@@ -4323,8 +4323,8 @@ Tippecanoe,Clerk Of The Supreme Court,,Brian Bishop,Republican,17445
 Tippecanoe,U.S. House,4,Bill Abbott,Democratic,9670
 Tippecanoe,U.S. House,4,Jerry L Susong,Libertarian,806
 Tippecanoe,U.S. House,4,Steve Buyer,Republican,19112
-Tippecanoe,State Senator,22,David Sanders,Democratic,8087
-Tippecanoe,State Senator,22,Ron Alting,Republican,15902
+Tippecanoe,State Senate,22,David Sanders,Democratic,8087
+Tippecanoe,State Senate,22,Ron Alting,Republican,15902
 Tippecanoe,State House,13,Chester F Dobis,Democratic,0
 Tippecanoe,State House,13,Anthony S Azcona,Republican,0
 Tippecanoe,State House,25,Jeb Bardon,Democratic,0
@@ -4436,9 +4436,9 @@ Tipton,Clerk Of The Supreme Court,,Brian Bishop,Republican,3638
 Tipton,U.S. House,5,Katherine Fox Carr,Democratic,1595
 Tipton,U.S. House,5,Christopher Adkins,Libertarian,140
 Tipton,U.S. House,5,Dan Burton,Republican,4038
-Tipton,State Senator,21,Susan Maxson,Democratic,1300
-Tipton,State Senator,21,David W Gay Sr,Libertarian,83
-Tipton,State Senator,21,Jeff Drozda,Republican,3088
+Tipton,State Senate,21,Susan Maxson,Democratic,1300
+Tipton,State Senate,21,David W Gay Sr,Libertarian,83
+Tipton,State Senate,21,Jeff Drozda,Republican,3088
 Tipton,State House,32,P Eric Turner,Republican,3246
 Tipton,Judge Of The Circuit Court,Tipton 36Th Circuit,Joe F Watson,Democratic,1721
 Tipton,Judge Of The Circuit Court,Tipton 36Th Circuit,Thomas R Lett,Republican,4145
@@ -4473,7 +4473,7 @@ Union,Clerk Of The Supreme Court,,Brian Bishop,Republican,1307
 Union,U.S. House,6,Melina Ann Fox,Democratic,674
 Union,U.S. House,6,Doris Robertson,Libertarian,43
 Union,U.S. House,6,Mike Pence,Republican,1386
-Union,State Senator,27,Allen E Paul,Republican,0
+Union,State Senate,27,Allen E Paul,Republican,0
 Union,State House,68,Robert J Bischoff,Democratic,0
 Union,State House,68,John R Keeton,Republican,0
 Union,Prosecuting Attorney,Union 89Th Circuit,Carol A Weber,Democratic,749
@@ -4501,8 +4501,8 @@ Vanderburgh,Clerk Of The Supreme Court,,Brian Bishop,Republican,22888
 Vanderburgh,U.S. House,8,Bryan L Hartke,Democratic,23324
 Vanderburgh,U.S. House,8,Pam Williams,Libertarian,1052
 Vanderburgh,U.S. House,8,John N Hostettler,Republican,21585
-Vanderburgh,State Senator,49,Larry E Lutz,Democratic,14358
-Vanderburgh,State Senator,49,Dianna Alvey,Socialist,72
+Vanderburgh,State Senate,49,Larry E Lutz,Democratic,14358
+Vanderburgh,State Senate,49,Dianna Alvey,Socialist,72
 Vanderburgh,State House,64,John Gregory Frenz,Democratic,0
 Vanderburgh,State House,64,Eric Davis,Republican,0
 Vanderburgh,State House,76,Jonathan Weinzapfel,Democratic,6157
@@ -4606,7 +4606,7 @@ Vermillion,Clerk Of The Supreme Court,,Brian Bishop,Republican,1993
 Vermillion,U.S. House,8,Bryan L Hartke,Democratic,2985
 Vermillion,U.S. House,8,Pam Williams,Libertarian,212
 Vermillion,U.S. House,8,John N Hostettler,Republican,2153
-Vermillion,State Senator,23,Joseph W Harrison,Republican,0
+Vermillion,State Senate,23,Joseph W Harrison,Republican,0
 Vermillion,State House,42,F Dale Grubb,Democratic,3739
 Vermillion,State House,42,Patti Smith,Republican,1703
 Vermillion,Prosecuting Attorney,Vermillion 47Th Circuit,Nina J Alexander,Democratic,4406
@@ -4634,8 +4634,8 @@ Vigo,Clerk Of The Supreme Court,,Brian Bishop,Republican,10663
 Vigo,U.S. House,8,Bryan L Hartke,Democratic,13394
 Vigo,U.S. House,8,Pam Williams,Libertarian,950
 Vigo,U.S. House,8,John N Hostettler,Republican,10742
-Vigo,State Senator,38,Timothy D Tim Skinner,Democratic,12466
-Vigo,State Senator,38,Jerry B Mcmullen,Republican,6374
+Vigo,State Senate,38,Timothy D Tim Skinner,Democratic,12466
+Vigo,State Senate,38,Jerry B Mcmullen,Republican,6374
 Vigo,State House,42,F Dale Grubb,Democratic,1414
 Vigo,State House,42,Patti Smith,Republican,695
 Vigo,State House,43,Clyde Kersey,Democratic,9562
@@ -4705,7 +4705,7 @@ Wabash,U.S. House,2,Sharon Metheny,Libertarian,0
 Wabash,U.S. House,2,Chris Chocola,Republican,0
 Wabash,U.S. House,2,M Myer Blatt,Independent,0
 Wabash,U.S. House,2,James A Mello,Independent,0
-Wabash,State Senator,17,Gary Dillon,Republican,5509
+Wabash,State Senate,17,Gary Dillon,Republican,5509
 Wabash,State House,18,Daniel M Stevens,Libertarian,0
 Wabash,State House,18,David A Wolkins,Republican,0
 Wabash,Judge Of The Superior Court,Wabash County,Michael L Sposeep,Republican,6014
@@ -4739,7 +4739,7 @@ Warren,Clerk Of The Supreme Court,,Brian Bishop,Republican,1839
 Warren,U.S. House,4,Bill Abbott,Democratic,0
 Warren,U.S. House,4,Jerry L Susong,Libertarian,0
 Warren,U.S. House,4,Steve Buyer,Republican,0
-Warren,State Senator,23,Joseph W Harrison,Republican,806
+Warren,State Senate,23,Joseph W Harrison,Republican,806
 Warren,State House,13,Chester F Dobis,Democratic,0
 Warren,State House,13,Anthony S Azcona,Republican,0
 Warren,State House,42,F Dale Grubb,Democratic,1277
@@ -4772,7 +4772,7 @@ Warrick,Clerk Of The Supreme Court,,Brian Bishop,Republican,9016
 Warrick,U.S. House,8,Bryan L Hartke,Democratic,8583
 Warrick,U.S. House,8,Pam Williams,Libertarian,404
 Warrick,U.S. House,8,John N Hostettler,Republican,8568
-Warrick,State Senator,48,Lindel O Hume,Democratic,0
+Warrick,State Senate,48,Lindel O Hume,Democratic,0
 Warrick,State House,75,Dennis T Avery,Democratic,936
 Warrick,State House,75,Marsha Abell,Republican,586
 Warrick,State House,78,Vaneta Becker,Republican,6807
@@ -4835,8 +4835,8 @@ Washington,U.S. House,9,Baron P Hill,Democratic,4046
 Washington,U.S. House,9,Jeff Melton,Green,71
 Washington,U.S. House,9,Al Cox,Libertarian,118
 Washington,U.S. House,9,Mike Sodrel,Republican,3965
-Washington,State Senator,47,"Richard D Young, Jr.",Democratic,498
-Washington,State Senator,47,Christopher L Byrd,Republican,659
+Washington,State Senate,47,"Richard D Young, Jr.",Democratic,498
+Washington,State Senate,47,Christopher L Byrd,Republican,659
 Washington,State House,73,Dennie Oxley,Democratic,5500
 Washington,Prosecuting Attorney,Washington 42Nd Circuit,Cynthia L Winkler,Democratic,4309
 Washington,Prosecuting Attorney,Washington 42Nd Circuit,John W Mead,Republican,3842
@@ -4873,7 +4873,7 @@ Wayne,Clerk Of The Supreme Court,,Brian Bishop,Republican,9883
 Wayne,U.S. House,6,Melina Ann Fox,Democratic,5311
 Wayne,U.S. House,6,Doris Robertson,Libertarian,469
 Wayne,U.S. House,6,Mike Pence,Republican,11646
-Wayne,State Senator,27,Allen E Paul,Republican,13286
+Wayne,State Senate,27,Allen E Paul,Republican,13286
 Wayne,State House,54,Michael A Bell,Libertarian,899
 Wayne,State House,54,Thomas E Tom Saunders,Republican,4891
 Wayne,State House,54,Mark Mattheis,Independent,760
@@ -4921,8 +4921,8 @@ Wells,Clerk Of The Supreme Court,,Brian Bishop,Republican,5693
 Wells,U.S. House,3,Jay Rigdon,Democratic,0
 Wells,U.S. House,3,Mike Donlan,Libertarian,0
 Wells,U.S. House,3,Mark E Souder,Republican,0
-Wells,State Senator,19,David Dave Jones,Democratic,2628
-Wells,State Senator,19,David C Ford,Republican,6039
+Wells,State Senate,19,David Dave Jones,Democratic,2628
+Wells,State Senate,19,David C Ford,Republican,6039
 Wells,State House,31,S Gopal Pal Raju,Democratic,0
 Wells,State House,31,Dean Young,Republican,0
 Wells,State House,50,Daniel J Dan Leonard,Republican,0
@@ -5000,7 +5000,7 @@ Whitley,Clerk Of The Supreme Court,,Brian Bishop,Republican,5625
 Whitley,U.S. House,3,Jay Rigdon,Democratic,3470
 Whitley,U.S. House,3,Mike Donlan,Libertarian,259
 Whitley,U.S. House,3,Mark E Souder,Republican,5132
-Whitley,State Senator,17,Gary Dillon,Republican,7566
+Whitley,State Senate,17,Gary Dillon,Republican,7566
 Whitley,State House,82,Mike Wallin,Democratic,0
 Whitley,State House,82,Jeffrey K Espich,Republican,0
 Whitley,State House,83,Robert K Alderman,Republican,1963

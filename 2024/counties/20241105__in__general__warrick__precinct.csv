@@ -18,6 +18,7 @@ Warrick,ANDERSON,Attorney General,,REP,Todd Rokita,426,9,219,202
 Warrick,ANDERSON,Attorney General,,DEM,Destiny Wells,171,14,68,89
 Warrick,ANDERSON,U.S. House,8,REP,Mark Messmer,428,5,218,205
 Warrick,ANDERSON,U.S. House,8,DEM,Erik Hurt,167,14,66,87
+Warrick,ANDERSON,U.S. House,8,LIB,K. Richard Fitzlaff,15,0,5,10
 Warrick,ANDERSON,State Senate,50,REP,Vaneta Becker,460,5,228,224
 Warrick,ANDERSON,State Senate,50,IND,John Woodard,81,4,30,47
 Warrick,ANDERSON,State House,75,REP,Stephen Ledbetter,490,9,235,246
@@ -605,6 +606,8 @@ Warrick,BOON 14,Public Question-Const Amendment,,,Yes,62,1,11,50
 Warrick,BOON 14,Public Question-Const Amendment,,,No,54,3,15,36
 Warrick,BOON 14,President,,REP,Donald J. Trump,89,5,22,65
 Warrick,BOON 14,President,,DEM,Kamala D. Harris,43,2,9,32
+Warrick,BOON 14,President,,LIB,Chase Oliver,0,0,0,0
+Warrick,BOON 14,President,,WTP,Robert F. Kennedy Jr.,0,0,0,0
 Warrick,BOON 14,U.S. Senate,,REP,Jim Banks,69,2,17,50
 Warrick,BOON 14,U.S. Senate,,DEM,Valerie McCray,41,2,7,32
 Warrick,BOON 14,U.S. Senate,,LIB,Andrew Horning,8,0,8,0
@@ -932,7 +935,9 @@ Warrick,LANE,Public Question-Const Amendment,,,Yes,59,0,22,37
 Warrick,LANE,Public Question-Const Amendment,,,No,52,5,23,24
 Warrick,LANE,President,,REP,Donald J. Trump,97,1,43,53
 Warrick,LANE,President,,DEM,Kamala D. Harris,27,5,15,10
-Warrick,LANE,President,,WTP,Robert F. Kennedy Jr.,1,0,0,1
+Warrick,LANE,President,,LIB,Chase Oliver,1,0,1,0
+Warrick,LANE,President,,WTP,Robert F. Kennedy Jr.,0,0,0,0
+Warrick,LANE,President,,,Write-In,1,0,0,1
 Warrick,LANE,U.S. Senate,,REP,Jim Banks,89,1,40,48
 Warrick,LANE,U.S. Senate,,DEM,Valerie McCray,27,5,14,8
 Warrick,LANE,U.S. Senate,,LIB,Andrew Horning,2,0,2,0
@@ -1923,13 +1928,13 @@ Warrick,OHIO 19,Ballots Cast,,,,580,36,363,181
 Warrick,OHIO 19,Public Question-Const Amendment,,,Yes,280,16,168,96
 Warrick,OHIO 19,Public Question-Const Amendment,,,No,223,9,147,67
 Warrick,OHIO 19,President,,REP,Donald J. Trump,356,18,233,105
-Warrick,OHIO 19,President,,DEM,Kamala D. Harris,210,18,113,66
-Warrick,OHIO 19,President,,LIB,Chase Oliver,2,0,1,1
+Warrick,OHIO 19,President,,DEM,Kamala D. Harris,210,18,126,66
+Warrick,OHIO 19,President,,LIB,Chase Oliver,6,0,2,4
 Warrick,OHIO 19,President,,WTP,Robert F. Kennedy Jr.,2,0,1,1
 Warrick,OHIO 19,President,,,Write-In,2,0,1,1
 Warrick,OHIO 19,U.S. Senate,,REP,Jim Banks,350,15,228,107
-Warrick,OHIO 19,President,,DEM,Kamala D. Harris,179,18,106,55
-Warrick,OHIO 19,U.S. Senate,,LIB,Andrew Horning,10,0,6,4
+Warrick,OHIO 19,U.S. Senate,,DEM,Valerie McCray,179,18,106,55
+Warrick,OHIO 19,U.S. Senate,,LIB,Andrew Horning,10,0,7,3
 Warrick,OHIO 19,Governor,,REP,Mike Braun,356,15,234,107
 Warrick,OHIO 19,Governor,,DEM,Jennifer G. McCormick,182,18,108,56
 Warrick,OHIO 19,Governor,,LIB,Donald Rainwater II,7,0,5,2
